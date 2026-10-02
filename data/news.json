@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02T09:06:21.087150+00:00",
+ "updated_at": "2026-10-02T09:21:23.730407+00:00",
  "market": {
   "price": 230.86,
   "change_pct": 1.09,
@@ -10,8 +10,8 @@
    "days_left": 46
   },
   "day_sentiment": {
-   "avg": 0.31,
-   "count": 26
+   "avg": 0.25,
+   "count": 28
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（26条已评分）"
+     "note": "今日新闻情绪 +0.25（28条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.5,
    "ma20": 223.51,
-   "as_of": "2026-10-02T09:06:21.066512+00:00"
+   "as_of": "2026-10-02T09:21:23.728081+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d1d30bf7b816",
+   "title": "Amazon is hiking chip-rental prices and reportedly moving Nvidia processors off the balance sheet - marketwatch.com",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQzl5d3hxUk1MbEd1QXR0cTVsVUpMaDFXeFdiQnkwa0ZyVnNqMTFCMEpMR0tUZS1FRDdBUHJBV28wamJEZFMwSElvMjVKRkNqdlBhaHYyT3dOLVlhcFJFMTg2ZzZ6ejRmdlVxWFh0N2M5cHY2V2h4UjlNSFBfR3p5cTJpd0JUajJ5cHpCN0J4cVJteWpIblhjTlNZN2Rabmhtd2R2SzN0YXZNeTFwVTUyRlpKRnFNbFJoQkt6VWpqQlB6RkJONVItcFlwbjdQZFpvSDFBVzVyMA",
+   "source": "marketwatch.com",
+   "published_at": "2026-10-02T09:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketwatch.com",
+     "published_at": "2026-10-02T09:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQzl5d3hxUk1MbEd1QXR0cTVsVUpMaDFXeFdiQnkwa0ZyVnNqMTFCMEpMR0tUZS1FRDdBUHJBV28wamJEZFMwSElvMjVKRkNqdlBhaHYyT3dOLVlhcFJFMTg2ZzZ6ejRmdlVxWFh0N2M5cHY2V2h4UjlNSFBfR3p5cTJpd0JUajJ5cHpCN0J4cVJteWpIblhjTlNZN2Rabmhtd2R2SzN0YXZNeTFwVTUyRlpKRnFNbFJoQkt6VWpqQlB6RkJONVItcFlwbjdQZFpvSDFBVzVyMA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "0290d9e2722c",
    "title": "$英伟达 (NVDA.US)$ - Moomoo",
@@ -80,6 +97,23 @@
    "zh_summary": "Moomoo 英伟达股票动态",
    "title_zh": "$英伟达 (NVDA.US)$ - Moomoo",
    "sentiment": 0
+  },
+  {
+   "id": "97ab7150c54d",
+   "title": "突发，38岁CEO 走私英伟达GPU被抓，涉案超20亿 - 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vU3ZOR1BqZUtvVllWQjNDMHlVZkRhMlBJQVNXdFYtc2ZMT282dEN1dWNab1I5aWpybDRrMHdWci1LYmtuMHFtdGRQNTZTZUFV",
+   "source": "凤凰网",
+   "published_at": "2026-10-02T08:50:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-02T08:50:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vU3ZOR1BqZUtvVllWQjNDMHlVZkRhMlBJQVNXdFYtc2ZMT282dEN1dWNab1I5aWpybDRrMHdWci1LYmtuMHFtdGRQNTZTZUFV"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "d8a519766623",
@@ -225,6 +259,23 @@
    "zh_summary": "美国男子走私英伟达芯片至中国被捕",
    "title_zh": "男子在加州因走私英伟达芯片到中国被捕",
    "sentiment": -1
+  },
+  {
+   "id": "ab742fd3de87",
+   "title": "Chinese State-Backed Firm Funded Purchase of Nvidia Chips - The Information",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTR1RUFHdHJoX2NjcGxscXhaZHZVWmNJTHFwRUdPaHRFaHdEZ2hPanhyREtZMUZ0MUtud0U0T196MW5fLXJhT2ZQMWZ4c3czcE5keXc3RkU0eU1kMmh2QzlSemxxUEczNTFNT240Y3dScXAyZ2ZJNkhZTlc3TFRUSm5mRU04WTBuMkdBSnpVZkdkNFVkQ0hTaTBjNA",
+   "source": "The Information",
+   "published_at": "2026-10-02T07:49:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Information",
+     "published_at": "2026-10-02T07:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTR1RUFHdHJoX2NjcGxscXhaZHZVWmNJTHFwRUdPaHRFaHdEZ2hPanhyREtZMUZ0MUtud0U0T196MW5fLXJhT2ZQMWZ4c3czcE5keXc3RkU0eU1kMmh2QzlSemxxUEczNTFNT240Y3dScXAyZ2ZJNkhZTlc3TFRUSm5mRU04WTBuMkdBSnpVZkdkNFVkQ0hTaTBjNA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "3ef231db5427",
@@ -948,31 +999,6 @@
    "sentiment": -1
   },
   {
-   "id": "adf81ca0fed3",
-   "title": "3.1秒破百配双英伟达，极氪9X和XC70的10万差价差在哪 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nY1RJNEZ2cHRqUnIzZ3c4U2Z2bEV1U3ZnNHJOOFRYT3BsLWFBTUQ4ZEt5MmE5dG0zN3NTQVFISXF2eWoxWEcxRC1LczRGWFktdDhjYUpFdUdSdXVGcDR5RWhiNHhvVEZjYzFR",
-   "source": "汽车之家",
-   "published_at": "2026-10-02T03:00:15+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-02T03:00:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nY1RJNEZ2cHRqUnIzZ3c4U2Z2bEV1U3ZnNHJOOFRYT3BsLWFBTUQ4ZEt5MmE5dG0zN3NTQVFISXF2eWoxWEcxRC1LczRGWFktdDhjYUpFdUdSdXVGcDR5RWhiNHhvVEZjYzFR"
-    },
-    {
-     "name": "chejiahao.autohome.com.cn",
-     "published_at": "2026-10-02T03:00:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nY1RJNEZ2cHRqUnIzZ3c4U2Z2bEV1U3ZnNHJOOFRYT3BsLWFBTUQ4ZEt5MmE5dG0zN3NTQVFISXF2eWoxWEcxRC1LczRGWFktdDhjYUpFdUdSdXVGcDR5RWhiNHhvVEZjYzFR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "极氪9X配双英伟达芯片，3.1秒破百",
-   "title_zh": "3.1秒破百配双英伟达，极氪9X和XC70的10万差价差在哪 - 汽车之家",
-   "sentiment": 1
-  },
-  {
    "id": "05a193633d8b",
    "title": "英伟达参投的Firmus计划澳洲IPO，目标估值300亿美元-36氪 - 36kr.com",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OcUJfRjJGdjZQaHA3RzgwWmNPcHlYajU3MGpBVGtaa2Z5ZU5aZXZ3bEctNkRrU21xTEJNY2YxTWRINFpSeXhqc0FIazhsVjRndE0wMHpvQkY",
@@ -1160,6 +1186,31 @@
    "session": "盘后",
    "zh_summary": "英伟达启动史上最大回购，股价挑战300美元",
    "title_zh": "英伟达股价预测：史上最大回购启动，股价有望挑战300美元",
+   "sentiment": 1
+  },
+  {
+   "id": "adf81ca0fed3",
+   "title": "3.1秒破百配双英伟达，极氪9X和XC70的10万差价差在哪 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SaHJtNUR6dnQ3UkljUnJPT01aWHc4UExUaG1RUlI2b3IxQXNna2VSSDFKVXlqcWpkMnB1aUdmRUJ4MDNKYmk0RHhQVzFfaFd4ZDB4U3NyRlBhVk0",
+   "source": "汽车之家",
+   "published_at": "2026-10-02T02:01:26+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-02T02:01:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SaHJtNUR6dnQ3UkljUnJPT01aWHc4UExUaG1RUlI2b3IxQXNna2VSSDFKVXlqcWpkMnB1aUdmRUJ4MDNKYmk0RHhQVzFfaFd4ZDB4U3NyRlBhVk0"
+    },
+    {
+     "name": "chejiahao.autohome.com.cn",
+     "published_at": "2026-10-02T03:00:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nY1RJNEZ2cHRqUnIzZ3c4U2Z2bEV1U3ZnNHJOOFRYT3BsLWFBTUQ4ZEt5MmE5dG0zN3NTQVFISXF2eWoxWEcxRC1LczRGWFktdDhjYUpFdUdSdXVGcDR5RWhiNHhvVEZjYzFR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "极氪9X配双英伟达芯片，3.1秒破百",
+   "title_zh": "3.1秒破百配双英伟达，极氪9X和XC70的10万差价差在哪 - 汽车之家",
    "sentiment": 1
   },
   {
@@ -5326,6 +5377,23 @@
    "sentiment": -1
   },
   {
+   "id": "8f7a9a36fab3",
+   "title": "据白宫人工智能协议 英伟达、OpenAI、Anthropic、xAI 谷歌将定期讨论人工智能安全标准 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FRzRaSG9PeG5FeHNEb3M2WEdrWTdJazUyc3A5T19GNFdibHNhYVA3aEd3bUZfVEwyMnhReFhCXzVNRUY3OXJseWtIVTBnMzBsY2MzZmM0WVJfQ3FCc1IweFJPdWVIdw",
+   "source": "东方财富",
+   "published_at": "2026-09-29T23:27:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-09-29T23:27:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FRzRaSG9PeG5FeHNEb3M2WEdrWTdJazUyc3A5T19GNFdibHNhYVA3aEd3bUZfVEwyMnhReFhCXzVNRUY3OXJseWtIVTBnMzBsY2MzZmM0WVJfQ3FCc1IweFJPdWVIdw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
+  {
    "id": "5daf259574b4",
    "title": "英伟达寻求保险机构分担AI基础设施融资风险 探索芯片资产融资新模式 - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03NEt4dWdRdHVPVlYtUE5xTXJQRWVST3F1VHB1NGtoTnJLZG03SmdjVHJYQ3ZmdHl4dXdvZ2xYbWtyREhNR2hiZ2R5a2dmZEJBNFBLZ3lxYUNlaTBRRUlLd2l1RQ",
@@ -7488,101 +7556,6 @@
    "session": "盘中",
    "zh_summary": "英伟达追加1500亿美元创纪录回购",
    "title_zh": "英伟达追加1500亿美元回购，史上最大",
-   "sentiment": 2
-  },
-  {
-   "id": "104c7581e3bd",
-   "title": "Stocks slip as bond yields rise, but Nvidia stock is rising: AlphaCheck - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUm9MZndsejJPY25xMWhQMzl1MU12dFhYLUduSXFwcWtyNTZwLWt0anR1X0dHaEdzLU1DaWZaUkZKaGg0c1JYRlBZeHRtSU0tQU5tUHBfeEVESTEwcTBTUkwtLUlkOE54VW9pVk5IdXo3NzlacGUxZHJpbHNjOGltelE4eUdRTDVfaENTdllaMTVqNk82aXhNQXNnd2NoNVpkaWNDSjFYZ0FoR2FYN290Z0oybWwyYmhEbXVPdkl5X0JSY0hM",
-   "source": "Yahoo Finance",
-   "published_at": "2026-09-28T13:45:06+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-09-28T13:45:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUm9MZndsejJPY25xMWhQMzl1MU12dFhYLUduSXFwcWtyNTZwLWt0anR1X0dHaEdzLU1DaWZaUkZKaGg0c1JYRlBZeHRtSU0tQU5tUHBfeEVESTEwcTBTUkwtLUlkOE54VW9pVk5IdXo3NzlacGUxZHJpbHNjOGltelE4eUdRTDVfaENTdllaMTVqNk82aXhNQXNnd2NoNVpkaWNDSjFYZ0FoR2FYN290Z0oybWwyYmhEbXVPdkl5X0JSY0hM"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-09-28T13:45:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUm9MZndsejJPY25xMWhQMzl1MU12dFhYLUduSXFwcWtyNTZwLWt0anR1X0dHaEdzLU1DaWZaUkZKaGg0c1JYRlBZeHRtSU0tQU5tUHBfeEVESTEwcTBTUkwtLUlkOE54VW9pVk5IdXo3NzlacGUxZHJpbHNjOGltelE4eUdRTDVfaENTdllaMTVqNk82aXhNQXNnd2NoNVpkaWNDSjFYZ0FoR2FYN290Z0oybWwyYmhEbXVPdkl5X0JSY0hM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "大盘下跌之际英伟达逆势上涨",
-   "title_zh": "债息上升大盘走低，英伟达逆势上涨",
-   "sentiment": 1
-  },
-  {
-   "id": "f4fc0386d645",
-   "title": "【明日主题前瞻】英伟达推出开放式AI代理安全平台，覆盖从测试到部署 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56VkVkUUdKT0lpVXZ1eHZ2UC12MGZXVE1oVUhPdVVSaDZHb2YyXzZ3V0VDczByWm9YOU1lVWRPb1VCdXZES1VCVQ",
-   "source": "财联社",
-   "published_at": "2026-09-28T13:28:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-09-28T13:28:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56VkVkUUdKT0lpVXZ1eHZ2UC12MGZXVE1oVUhPdVVSaDZHb2YyXzZ3V0VDczByWm9YOU1lVWRPb1VCdXZES1VCVQ"
-    },
-    {
-     "name": "cls.cn",
-     "published_at": "2026-09-28T13:28:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56VkVkUUdKT0lpVXZ1eHZ2UC12MGZXVE1oVUhPdVVSaDZHb2YyXzZ3V0VDczByWm9YOU1lVWRPb1VCdXZES1VCVQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达推出开放式AI代理安全平台",
-   "title_zh": "【明日主题前瞻】英伟达推出开放式AI代理安全平台，覆盖从测试到部署 - 财联社",
-   "sentiment": 1
-  },
-  {
-   "id": "b79fdf283641",
-   "title": "股价盘前拉升涨2%，英伟达将股票回购授权增加1500亿美元- 中国金融信息网 - 中国金融信息网",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yWjRQQmNOaU00SUVDQ1VEZGVVQ3lGbktYMnFLNnpSamlfTEZockxUMEEwRkpDM21pNlFvQnczTUNLM0M3ei1aLUl3Z3duMEZELXZqVkYwMjh5UEQ1aTdpb04tRmNwdURpeWc",
-   "source": "中国金融信息网",
-   "published_at": "2026-09-28T13:05:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "中国金融信息网",
-     "published_at": "2026-09-28T13:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yWjRQQmNOaU00SUVDQ1VEZGVVQ3lGbktYMnFLNnpSamlfTEZockxUMEEwRkpDM21pNlFvQnczTUNLM0M3ei1aLUl3Z3duMEZELXZqVkYwMjh5UEQ1aTdpb04tRmNwdURpeWc"
-    },
-    {
-     "name": "cnfin.com",
-     "published_at": "2026-09-28T13:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yWjRQQmNOaU00SUVDQ1VEZGVVQ3lGbktYMnFLNnpSamlfTEZockxUMEEwRkpDM21pNlFvQnczTUNLM0M3ei1aLUl3Z3duMEZELXZqVkYwMjh5UEQ1aTdpb04tRmNwdURpeWc"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "英伟达增1500亿美元回购授权",
-   "title_zh": "股价盘前拉升涨2%，英伟达将股票回购授权增加1500亿美元- 中国金融信息网",
-   "sentiment": 2
-  },
-  {
-   "id": "224a1c4456be",
-   "title": "NVDA Stock Climbs After Nvidia Approves ‘Largest Buyback Increase’ In Company History - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmtCMkJjcjd2b1dZdG9YSWg4SWlhOTJZd0l4VjVfNFI1bEU1OUdXbGwxZWpBNDYyTkI4M1lQVlRBMEwxSU5PQ2JrTzQtSG1HZllQdHRhYmtxTVlvMDY3cmI0Q1pORTA5WC1UMm1SQl90TVFGbWhSZl9ZVlF3dWx4b09zYnNYQnFYVFVadktscUtIWHpyQ2twdDg4Y1dIYk0",
-   "source": "Yahoo Finance",
-   "published_at": "2026-09-28T12:28:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-09-28T12:28:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmtCMkJjcjd2b1dZdG9YSWg4SWlhOTJZd0l4VjVfNFI1bEU1OUdXbGwxZWpBNDYyTkI4M1lQVlRBMEwxSU5PQ2JrTzQtSG1HZllQdHRhYmtxTVlvMDY3cmI0Q1pORTA5WC1UMm1SQl90TVFGbWhSZl9ZVlF3dWx4b09zYnNYQnFYVFVadktscUtIWHpyQ2twdDg4Y1dIYk0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达批准史上最大规模回购增量",
-   "title_zh": "英伟达批准史上最大回购增量，NVDA股价攀升",
    "sentiment": 2
   }
  ]
