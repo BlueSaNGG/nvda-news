@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02T21:51:32.136094+00:00",
+ "updated_at": "2026-10-02T22:06:35.736688+00:00",
  "market": {
   "price": 233.95,
   "change_pct": 1.34,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.54,
-   "count": 198
+   "count": 200
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.54（198条已评分）"
+     "note": "今日新闻情绪 +0.54（200条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 35.7,
    "ma20": 223.79,
-   "as_of": "2026-10-02T21:51:32.104370+00:00"
+   "as_of": "2026-10-02T22:06:35.719455+00:00"
   },
   "pe_ttm": 29.7,
   "pe_pct_5y": 28,
@@ -62,13 +62,52 @@
  },
  "stories": [
   {
-   "id": "c47cf11cab7b",
-   "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBScmgzdmZTb2RjWHlDRWJlbml0bFh0b3I1TWNvbVgtVlRsQy00SG5UZE9ibkxRM0JQcVZVdWFtd3cwdXd6eHUwcVNyb2VONXM3R1ZwZW5NQ2w3Yi1rdjMyWV9iQQ",
+   "id": "0f902def83e3",
+   "title": "全球市场：纳指盘中创新高 英伟达刷新盘中历史最高股价 存储股下挫 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fWW1NdTluc2lvLTd5czdidmhXRXFuei1MZFlTUWQzRmptZnhpR2FoVDdWS2hPUWJKdmx1YXN5b1h5M3U5WTY5dDBFYVoxNjJtb2J4YzVoNjJ2ZXZVS3I3ZQ",
    "source": "东方财富",
-   "published_at": "2026-10-02T21:48:51+00:00",
+   "published_at": "2026-10-02T21:58:54+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-02T21:58:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fWW1NdTluc2lvLTd5czdidmhXRXFuei1MZFlTUWQzRmptZnhpR2FoVDdWS2hPUWJKdmx1YXN5b1h5M3U5WTY5dDBFYVoxNjJtb2J4YzVoNjJ2ZXZVS3I3ZQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "0d93085bcf96",
+   "title": "US man arrested over alleged $300 million scheme to smuggle Nvidia AI servers to China - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWtFMERtNTYxd1RBMW5tbGt5SDJQRks3QUZJbXFtVGtZdGtMVFFzZ05aNWJxajRjV2RYSjUwOGRrSlByTDVLS1N4VVJoRGRZWEMxN0JjTUcwU1dhbWVRS0xtWmtSeml5eWpVYmJNRHZnNXgtRkZaSmhSRXBWM3BNNkRQYVZWR0xrNWRmLWw3ajZqbmpkdUJyYlozbFZJYmIyQ05FTV92S1RGTlFNaUlidHM0UlNFcUxZSEJxZmdWUGNHV2pTcVdPZ09VaWtGSXpJZmc",
+   "source": "South China Morning Post",
+   "published_at": "2026-10-02T21:57:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "South China Morning Post",
+     "published_at": "2026-10-02T21:57:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWtFMERtNTYxd1RBMW5tbGt5SDJQRks3QUZJbXFtVGtZdGtMVFFzZ05aNWJxajRjV2RYSjUwOGRrSlByTDVLS1N4VVJoRGRZWEMxN0JjTUcwU1dhbWVRS0xtWmtSeml5eWpVYmJNRHZnNXgtRkZaSmhSRXBWM3BNNkRQYVZWR0xrNWRmLWw3ajZqbmpkdUJyYlozbFZJYmIyQ05FTV92S1RGTlFNaUlidHM0UlNFcUxZSEJxZmdWUGNHV2pTcVdPZ09VaWtGSXpJZmc"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘后"
+  },
+  {
+   "id": "c47cf11cab7b",
+   "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjNMMlhuNmNTc2pReEZ3TmlDQnJqNVozUWhNRkQyQ2ozanJycURFTWtrSGlXQzRtZ3ZiSVJVS19BNVNkT2N6R0JGSWg1Um1qWFhjVjZIc0x4ejZMT1d5VlV1eFhURkEzYVdYMkhkbjBTVjBJTjQtYVFKcDNCNDRVSkV3LUxtODNS",
+   "source": "搜狐网",
+   "published_at": "2026-10-02T21:43:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-02T21:43:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTjNMMlhuNmNTc2pReEZ3TmlDQnJqNVozUWhNRkQyQ2ozanJycURFTWtrSGlXQzRtZ3ZiSVJVS19BNVNkT2N6R0JGSWg1Um1qWFhjVjZIc0x4ejZMT1d5VlV1eFhURkEzYVdYMkhkbjBTVjBJTjQtYVFKcDNCNDRVSkV3LUxtODNS"
+    },
     {
      "name": "东方财富",
      "published_at": "2026-10-02T21:48:51+00:00",
@@ -327,7 +366,7 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWNDWEgyV3NMNUoyRWlhS1d5aXczZ18wTUpndzNIY2pybzFIREdxbENQQ0tCUEgxaE1BekczTGI1RjVfcURUeVFpRlBlSnRfRVdQcVBCSldocGp2aE1RaWZQZGVuV3NkYXdxZVF5S1NWMWxKYV9SQzJUU1p3T0tMeDFUUzByLUJjX2tONGlPYWdieDB0ZGJSYTVwdFlJdTR5VXZYLUFEU1pSNXBuUXNLSHJ1MV9JUQ",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-02T19:05:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "24/7 Wall St.",
@@ -338,13 +377,22 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-02T19:05:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3ZCaFFsWFJ1dVREZl90NXRQYVlHR0hvZDltYVYxQkd5NmY1TEJSNm1hRkVGamFOdWkwbTZRb3JTUWVMcTl6Ny00ZHIxS1Vwa1lDblYtMlAwWkUzWjdMSUZFdlFOd0JFN3JKVk5RcGxMdmhxTTdUUVV3aE1sT250eExITTJhY1piaW1tUmk1dE5ETWlqWHozeU9zbkd5TlU"
+    },
+    {
+     "name": "247wallst.com",
+     "published_at": "2026-10-02T19:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWNDWEgyV3NMNUoyRWlhS1d5aXczZ18wTUpndzNIY2pybzFIREdxbENQQ0tCUEgxaE1BekczTGI1RjVfcURUeVFpRlBlSnRfRVdQcVBCSldocGp2aE1RaWZQZGVuV3NkYXdxZVF5S1NWMWxKYV9SQzJUU1p3T0tMeDFUUzByLUJjX2tONGlPYWdieDB0ZGJSYTVwdFlJdTR5VXZYLUFEU1pSNXBuUXNLSHJ1MV9JUQ"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "作者抛售英伟达谷歌微软后反思是否做错",
    "title_zh": "因2万亿美元AI缺口抛售英伟达、谷歌、微软后反思",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.18,
+    "window_h": 0.9
+   }
   },
   {
    "id": "13a143cee576",
@@ -2438,6 +2486,23 @@
    "sentiment": 1
   },
   {
+   "id": "1a042791d055",
+   "title": "英伟达一举创新高，AI算力与科技主题上演大反攻！美联储加息押注大降温 港美股资讯 - hstong.com",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yTnhHRE0ybTZ3azAtYzU5ZFg4czc3Z1kzTXprWFkwYno4WFc5Wjhkb2M1R0FiSXpZWjk4NVZpVzdQNzZrT2wyTThDS2xsa1NxcS1kLVp4MFd0VWJvYS1lTnZn",
+   "source": "hstong.com",
+   "published_at": "2026-10-02T13:49:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "hstong.com",
+     "published_at": "2026-10-02T13:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yTnhHRE0ybTZ3azAtYzU5ZFg4czc3Z1kzTXprWFkwYno4WFc5Wjhkb2M1R0FiSXpZWjk4NVZpVzdQNzZrT2wyTThDS2xsa1NxcS1kLVp4MFd0VWJvYS1lTnZn"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
    "id": "8693f454547e",
    "title": "Nvidia Hits First Record Since May as Value Nears $6 Trillion - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVWsyRlNoZnJaWUhyb2hUOHlDMUFvMEwtdVNocU1EbTNKUEF5YVNWdERfc2ZXczV6c094ZkJFVXh4TWQ4c3BodDV2V2FzdXhpaDdNTHZJRWNXbXpmeGhycEM0cnJaU2xiOFZFSXR3ZzR4eFYzQU43MnJoSnpMSFh5dTNxdjdiM2VUR0VVeG83YXhJeG9YeWtMU1Q3UTJxUWdIVmtlT2NmQWJXaXl5Z3o4LXdXSkdwenBtekgtczdkZ0J6eGJxZ1c3ck1tdVQ",
@@ -2607,7 +2672,7 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzWGtxbXFGRmdMMjhrS2JfUzZKWHdpQnNRaUR4UEJ1bmx3eUo5WURmcjRsaVRxc05fT05xaXBVV29JYzlpNHZ4cg",
    "source": "财联社",
    "published_at": "2026-10-02T13:36:39+00:00",
-   "outlets_count": 6,
+   "outlets_count": 7,
    "outlets": [
     {
      "name": "财联社",
@@ -2638,6 +2703,11 @@
      "name": "新浪财经",
      "published_at": "2026-10-02T13:41:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95NUN5aW44RWxSMjZCZFZ6Zncyc0JmOFY0OFFHMnZ1X0Vzc3dsRTNlMG5waEV5WkZHM045OUNXck4xNWF0bi1Yc2pRSQ"
+    },
+    {
+     "name": "stock.stockstar.com",
+     "published_at": "2026-10-02T13:46:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wNkozNG1MTFZGRVVlc2Qwc0ZVMTNpRDI1a3lNbjFwaFNfV2JsbjY0TjlEQ09qVEtJUnZ5dmRTNUYyMnZBbzRyZDQyUWNHbFplbXBuRERkTjB4N0c5cmVCZDRn"
     }
    ],
    "category": "其他",
@@ -7791,7 +7861,7 @@
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTXY4V2RqSmpDalhuVExKa0M4dnR3ZEVYS1BEZHJEUGpieHZqM3RxajBNY2s5R0hHeFluS3NsVTJDWnBsLVg0RnQ5dTdzNjFIWmR6TXlxR0xxRnREbjhlbV8wc0NseTZBOUVwUHJXRk5POVg2cXZaOTNqVVJ0S0xCNlFjd21KVlpOS2MwVExfMmVpU3BWLUtYeW85SDhKTnBXM09CUjNKUTQ",
    "source": "富途牛牛",
    "published_at": "2026-10-01T15:34:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "富途牛牛",
@@ -7805,6 +7875,11 @@
     },
     {
      "name": "证券之星",
+     "published_at": "2026-10-02T11:56:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iSmlYVURUbEJqMjA5UVY1MloySkVLcWZZZE13Q1pfanJmLXBlNkJQZEI2SGs1LXYyQUNEcWJYYTViZkpjZ09rRjFpeXBscTJtdnJBcU93UzNjNGlzRjlvZ0tn"
+    },
+    {
+     "name": "stock.stockstar.com",
      "published_at": "2026-10-02T11:56:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iSmlYVURUbEJqMjA5UVY1MloySkVLcWZZZE13Q1pfanJmLXBlNkJQZEI2SGs1LXYyQUNEcWJYYTViZkpjZ09rRjFpeXBscTJtdnJBcU93UzNjNGlzRjlvZ0tn"
     }
@@ -7933,110 +8008,6 @@
    "zh_summary": "网友：英伟达别跌了，我已亏损",
    "title_zh": "$英伟达 (NVDA.US)$ 别跌了，我现在亏钱呢 🤣🤣🤣",
    "sentiment": -1
-  },
-  {
-   "id": "cbe9a71be39b",
-   "title": "My Nvidia Price Target Looks Beyond the Next Few Quarters - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXFYNzJybmNNUW9yN0N6YUZTZ3hVRXZOZkZORkdJelRtaG5fVVJIeVg3bGJRSTd6RTd6UVM0R2N2aXhHVmlKSnVjbG1oUEQxY1B2aml0WW9xd011aVJTb1lCMmtldTdCWE9OeGlWS2VsTTNBY1ZDTE5TMGFXbm1IY1VTcmx2QTFJZHFrRnBQM19KMGc5QmJOdjZtR01Dcm1Ld1FJ",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-01T15:00:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-01T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXFYNzJybmNNUW9yN0N6YUZTZ3hVRXZOZkZORkdJelRtaG5fVVJIeVg3bGJRSTd6RTd6UVM0R2N2aXhHVmlKSnVjbG1oUEQxY1B2aml0WW9xd011aVJTb1lCMmtldTdCWE9OeGlWS2VsTTNBY1ZDTE5TMGFXbm1IY1VTcmx2QTFJZHFrRnBQM19KMGc5QmJOdjZtR01Dcm1Ld1FJ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-01T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXFYNzJybmNNUW9yN0N6YUZTZ3hVRXZOZkZORkdJelRtaG5fVVJIeVg3bGJRSTd6RTd6UVM0R2N2aXhHVmlKSnVjbG1oUEQxY1B2aml0WW9xd011aVJTb1lCMmtldTdCWE9OeGlWS2VsTTNBY1ZDTE5TMGFXbm1IY1VTcmx2QTFJZHFrRnBQM19KMGc5QmJOdjZtR01Dcm1Ld1FJ"
-    },
-    {
-     "name": "247wallst.com",
-     "published_at": "2026-10-01T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXFYNzJybmNNUW9yN0N6YUZTZ3hVRXZOZkZORkdJelRtaG5fVVJIeVg3bGJRSTd6RTd6UVM0R2N2aXhHVmlKSnVjbG1oUEQxY1B2aml0WW9xd011aVJTb1lCMmtldTdCWE9OeGlWS2VsTTNBY1ZDTE5TMGFXbm1IY1VTcmx2QTFJZHFrRnBQM19KMGc5QmJOdjZtR01Dcm1Ld1FJ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "zh_summary": "分析师：英伟达目标价着眼长期",
-   "title_zh": "我的英伟达目标价着眼未来几个季度之外",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.8,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "7c8b3f7dab5b",
-   "title": "托卡耶夫与英伟达副总裁讨论人工智能领域合作 - 哈通社",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96UDhxN1FKeTJjeEJGMmNEcUNnd1Q0d2ZzM3VqaENjX2xGR1E1czRBMFJ0WTVKTUVxRTJXa094QnZVejBicDhZZ2tBcHF3Wl9TSWtfUl9rSnpJRWFJWUo1T0dR0gFgQVVfeXFMUFUydXRfYTROMVFDcmZnblhfT2IwblZRN04tbEh3ZThvY3dpTk0wSWk1TUZ6Zlk1VnBuQVFXUWduREtNdnpaSHNUTC1OSjgyVVp3dXp0SVA2WUEtRndVSVJY",
-   "source": "哈通社",
-   "published_at": "2026-10-01T14:51:21+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "哈通社",
-     "published_at": "2026-10-01T14:51:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96UDhxN1FKeTJjeEJGMmNEcUNnd1Q0d2ZzM3VqaENjX2xGR1E1czRBMFJ0WTVKTUVxRTJXa094QnZVejBicDhZZ2tBcHF3Wl9TSWtfUl9rSnpJRWFJWUo1T0dR0gFgQVVfeXFMUFUydXRfYTROMVFDcmZnblhfT2IwblZRN04tbEh3ZThvY3dpTk0wSWk1TUZ6Zlk1VnBuQVFXUWduREtNdnpaSHNUTC1OSjgyVVp3dXp0SVA2WUEtRndVSVJY"
-    },
-    {
-     "name": "cn.inform.kz",
-     "published_at": "2026-10-01T14:51:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96UDhxN1FKeTJjeEJGMmNEcUNnd1Q0d2ZzM3VqaENjX2xGR1E1czRBMFJ0WTVKTUVxRTJXa094QnZVejBicDhZZ2tBcHF3Wl9TSWtfUl9rSnpJRWFJWUo1T0dR0gFgQVVfeXFMUFUydXRfYTROMVFDcmZnblhfT2IwblZRN04tbEh3ZThvY3dpTk0wSWk1TUZ6Zlk1VnBuQVFXUWduREtNdnpaSHNUTC1OSjgyVVp3dXp0SVA2WUEtRndVSVJY"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "托卡耶夫会晤英伟达副总裁谈AI合作",
-   "title_zh": "托卡耶夫与英伟达副总裁讨论人工智能领域合作",
-   "sentiment": 1
-  },
-  {
-   "id": "b3380bdc9678",
-   "title": "Nvidia’s Hyperscaler Revenue Could Reach $401B In 2027, Says Analyst: SpaceX Could Push Barclays’ ‘Napkin Math’ Higher - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVmZieVlRRGNOV0czTVZob0FXUTdSdURtZmtYR3hGTHpKTTJnMnRWcllsY1lfN2JfWjhXby1oY0NFQ0FEUDhoakhwclhPbm55Qkk2a0FUNi1keXZOOHlyOHczN3kwS0R5Q19SaWhscW9rc0pxclVNWE1ZTXprTjNCWGpzRkhSMXo1Vk93cGt1RHBZTkRjMFpsT2VFc1ZTMTJMSGxxSlVuSjRwLU9PRFQwTG1VUU1BY0FTbW1qSF93WkdpV3NUUVJIcUlGQ3JMMGRvdVhsZV9mTHBTVW1Q",
-   "source": "Stocktwits",
-   "published_at": "2026-10-01T14:51:00+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-01T14:51:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVmZieVlRRGNOV0czTVZob0FXUTdSdURtZmtYR3hGTHpKTTJnMnRWcllsY1lfN2JfWjhXby1oY0NFQ0FEUDhoakhwclhPbm55Qkk2a0FUNi1keXZOOHlyOHczN3kwS0R5Q19SaWhscW9rc0pxclVNWE1ZTXprTjNCWGpzRkhSMXo1Vk93cGt1RHBZTkRjMFpsT2VFc1ZTMTJMSGxxSlVuSjRwLU9PRFQwTG1VUU1BY0FTbW1qSF93WkdpV3NUUVJIcUlGQ3JMMGRvdVhsZV9mTHBTVW1Q"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-01T14:51:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXN6Y29CQkRQNlcwbXJFMl9RSEJ0ZUtnZ3g1WWl5Z2YwMVdLTVQ0dTNiaXlRNGtoY3R2TlZRWDQ0eUQ0TElGZmZMdFV2ZEFFeFZxYmlGODhObTllem16RnM3RDdMMjZHb0lrRGw0UHVqOElnVFM4a1NrRlU0RjFhbUZ5N1dHNjljdkl2dHdabnZ2bUVXZjVnR3BXQzE2b2RfVFVNcmZ3"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-01T14:51:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVUM3R2daWjZuaWJFNC11Y25hQWJnZXprbTRwSUpxUFcyVmFGWkszbnBDUjdtVlpoS01zZTdCbTkyaWpuYmlfb1FrUThoeEUyMEVjeXl4NjFYRS1ZajR2VUtGdU9nRHRfSnM0SHV0ZnUzUVI3VldzYVYycnhGOWYxM3ZzcnhzSWk5Uk1CMDRFRWdpLTNValZGQWY1NEFYSnlNejJlRXUtZjVpeWlZZkI5SnMyT05ISmFTT3ZseU0wbXV4VmpuSnFudjhBYWRTQnY0SmlYcEFwcGloblJOYlhpMl9ObEI2c2l1UnRzYUZaTHRWM01QdFhCOFdxUEtJalJsOTNr"
-    },
-    {
-     "name": "tradingview.com",
-     "published_at": "2026-10-01T14:51:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVUM3R2daWjZuaWJFNC11Y25hQWJnZXprbTRwSUpxUFcyVmFGWkszbnBDUjdtVlpoS01zZTdCbTkyaWpuYmlfb1FrUThoeEUyMEVjeXl4NjFYRS1ZajR2VUtGdU9nRHRfSnM0SHV0ZnUzUVI3VldzYVYycnhGOWYxM3ZzcnhzSWk5Uk1CMDRFRWdpLTNValZGQWY1NEFYSnlNejJlRXUtZjVpeWlZZkI5SnMyT05ISmFTT3ZseU0wbXV4VmpuSnFudjhBYWRTQnY0SmlYcEFwcGloblJOYlhpMl9ObEI2c2l1UnRzYUZaTHRWM01QdFhCOFdxUEtJalJsOTNr"
-    },
-    {
-     "name": "stocktwits.com",
-     "published_at": "2026-10-01T14:51:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVmZieVlRRGNOV0czTVZob0FXUTdSdURtZmtYR3hGTHpKTTJnMnRWcllsY1lfN2JfWjhXby1oY0NFQ0FEUDhoakhwclhPbm55Qkk2a0FUNi1keXZOOHlyOHczN3kwS0R5Q19SaWhscW9rc0pxclVNWE1ZTXprTjNCWGpzRkhSMXo1Vk93cGt1RHBZTkRjMFpsT2VFc1ZTMTJMSGxxSlVuSjRwLU9PRFQwTG1VUU1BY0FTbW1qSF93WkdpV3NUUVJIcUlGQ3JMMGRvdVhsZV9mTHBTVW1Q"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "breaking": true,
-   "zh_summary": "英伟达超大规模收入2027年或达4010亿美元",
-   "title_zh": "英伟达超大规模收入2027年或达4010亿美元",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.44,
-    "window_h": 2.0
-   }
   }
  ]
 }
