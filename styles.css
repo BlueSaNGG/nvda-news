@@ -63,7 +63,7 @@ body {
   top: 0;
   z-index: 10;
   background: rgba(0, 0, 0, 0.94);
-  backdrop-filter: blur(8px);
+  /* 注：2026-10-02 去掉 backdrop-filter——iOS Safari 下 sticky 头部内的动态重绘文字（如每5分钟刷新的报价行）会被糊成重影 */
   border-bottom: 1px solid var(--card-border);
 }
 
