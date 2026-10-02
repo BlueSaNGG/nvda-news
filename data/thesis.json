@@ -1,1 +1,101 @@
-{"_note":"初版按美投（jdbinvesting.com）NVDA 深度跟踪的买卖依据框架整理。每财报季复核一次论点状态。","bear":[{"detail":"若 AI 应用变现缓慢，资本开支周期可能逆转","evidence":"管理层称算力已开始产生收入；长期变现节奏仍待观察","horizon":"长期","reviewed":"2026-10-02","status":"待验证","strength":"强","title":"AI 变现不及预期"},{"detail":"HBM 涨价挤压毛利率，CFO 指引 FY2027 全年 72-73%","evidence":"HBM3E 2026 年涨价约 20%，Q4 毛利率指引降至 71-72%","horizon":"长期","reviewed":"2026-10-02","status":"数据支持","strength":"强","title":"存储涨价挤压 GPU 预算"},{"detail":"hyperscaler 自研芯片（TPU/MI350）持续抢份额","evidence":"自研芯片在推进，但 Q2 数据中心 +117% 未见份额丢失","horizon":"长期","reviewed":"2026-10-02","status":"待验证","strength":"弱","title":"竞争格局持续恶化"},{"detail":"四巨头资本开支一旦放缓，直接传导至英伟达订单","evidence":"云 backlog 超 $2T，亚马逊规划至 FY2029 新增 200 万 GPU","horizon":"短期","reviewed":"2026-10-02","status":"待验证","strength":"强","title":"大科技 capex 放缓"},{"detail":"约 1/4 收入来自英伟达财务支持的 AI 实验室，收入质量受质疑","evidence":"Q2 经营现金流环比腰斩，$1050 亿园区担保引收入质量质疑","horizon":"短期","reviewed":"2026-10-02","status":"数据支持","strength":"弱","title":"循环交易担忧被放大"},{"detail":"Q4 FY2027 毛利率指引 trough 71-72%，存储成本压力","evidence":"Q4 毛利率指引 71-72%，较 Q2 的 75.0% 回落","horizon":"短期","reviewed":"2026-10-02","status":"数据支持","strength":"弱","title":"利润率压缩压力"}],"bull":[{"detail":"CUDA 生态 + 全栈平台，客户迁移成本极高","evidence":"Q2 FY2027 数据中心营收 $89B（+117%），ACIE 客户 +138%","horizon":"长期","reviewed":"2026-10-02","status":"数据支持","strength":"强","title":"全方位护城河"},{"detail":"AI 工厂建设加速，需求能见度看到 2027-2028 年","evidence":"Q2 数据中心 $89B（+117%），Q3 指引 $108B，能见度延续","horizon":"长期","reviewed":"2026-10-02","status":"数据支持","strength":"强","title":"高速成长的数据中心业务"},{"detail":"管理层指引 FY2028 营收增长 70%，市场此前预期仅 45%","evidence":"管理层预计 FY2028 营收 +70%（供给受限，真实需求约 100%）","horizon":"短期","reviewed":"2026-10-02","status":"数据支持","strength":"强","title":"26 年营收可能被低估"},{"detail":"新增 1500 亿美元回购授权，季度分红 0.25 美元","evidence":"新增 $150B 回购授权（总额度 $235B），季度分红 $0.25","horizon":"短期","reviewed":"2026-10-02","status":"数据支持","strength":"弱","title":"股东回报加码"}],"reviewed":"2026-10-02"}
+{
+  "_note": "初版按美投（jdbinvesting.com）NVDA 深度跟踪的买卖依据框架整理。每财报季复核一次论点状态。",
+  "bear": [
+    {
+      "detail": "若 AI 应用变现缓慢，资本开支周期可能逆转",
+      "evidence": "管理层称算力已开始产生收入；长期变现节奏仍待观察",
+      "horizon": "长期",
+      "reviewed": "2026-10-02",
+      "status": "待验证",
+      "strength": "强",
+      "title": "AI 变现不及预期"
+    },
+    {
+      "detail": "HBM 涨价挤压毛利率，CFO 指引 FY2027 全年 72-73%",
+      "evidence": "HBM3E 2026 年涨价约 20%，Q4 毛利率指引降至 71-72%",
+      "horizon": "长期",
+      "reviewed": "2026-10-02",
+      "status": "数据支持",
+      "strength": "强",
+      "title": "存储涨价挤压 GPU 预算"
+    },
+    {
+      "detail": "hyperscaler 自研芯片（TPU/MI350）持续抢份额",
+      "evidence": "自研芯片在推进，但 Q2 数据中心 +117% 未见份额丢失",
+      "horizon": "长期",
+      "reviewed": "2026-10-02",
+      "status": "待验证",
+      "strength": "弱",
+      "title": "竞争格局持续恶化"
+    },
+    {
+      "detail": "四巨头资本开支一旦放缓，直接传导至英伟达订单",
+      "evidence": "云 backlog 超 $2T，亚马逊规划至 FY2029 新增 200 万 GPU",
+      "horizon": "短期",
+      "reviewed": "2026-10-02",
+      "status": "待验证",
+      "strength": "强",
+      "title": "大科技 capex 放缓"
+    },
+    {
+      "detail": "约 1/4 收入来自英伟达财务支持的 AI 实验室，收入质量受质疑",
+      "evidence": "Q2 经营现金流环比腰斩，$1050 亿园区担保引收入质量质疑",
+      "horizon": "短期",
+      "reviewed": "2026-10-02",
+      "status": "数据支持",
+      "strength": "弱",
+      "title": "循环交易担忧被放大"
+    },
+    {
+      "detail": "Q4 FY2027 毛利率指引 trough 71-72%，存储成本压力",
+      "evidence": "Q4 毛利率指引 71-72%，较 Q2 的 75.0% 回落",
+      "horizon": "短期",
+      "reviewed": "2026-10-02",
+      "status": "数据支持",
+      "strength": "弱",
+      "title": "利润率压缩压力"
+    }
+  ],
+  "bull": [
+    {
+      "detail": "CUDA 生态 + 全栈平台，客户迁移成本极高",
+      "evidence": "Q2 FY2027 数据中心营收 $89B（+117%），ACIE 客户 +138%",
+      "horizon": "长期",
+      "reviewed": "2026-10-02",
+      "status": "数据支持",
+      "strength": "强",
+      "title": "全方位护城河"
+    },
+    {
+      "detail": "AI 工厂建设加速，需求能见度看到 2027-2028 年",
+      "evidence": "Q2 数据中心 $89B（+117%），Q3 指引 $108B，能见度延续",
+      "horizon": "长期",
+      "reviewed": "2026-10-02",
+      "status": "数据支持",
+      "strength": "强",
+      "title": "高速成长的数据中心业务"
+    },
+    {
+      "detail": "管理层指引 FY2028 营收增长 70%，市场此前预期仅 45%",
+      "evidence": "管理层预计 FY2028 营收 +70%（供给受限，真实需求约 100%）",
+      "horizon": "短期",
+      "reviewed": "2026-10-02",
+      "status": "数据支持",
+      "strength": "强",
+      "title": "26 年营收可能被低估"
+    },
+    {
+      "detail": "新增 1500 亿美元回购授权，季度分红 0.25 美元",
+      "evidence": "新增 $150B 回购授权（总额度 $235B），季度分红 $0.25",
+      "horizon": "短期",
+      "reviewed": "2026-10-02",
+      "status": "数据支持",
+      "strength": "弱",
+      "title": "股东回报加码"
+    }
+  ],
+  "reviewed": "2026-10-02",
+  "_meta": {
+    "reviewed": "2026-10-02"
+  }
+}

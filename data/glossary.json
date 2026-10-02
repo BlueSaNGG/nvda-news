@@ -1,1 +1,133 @@
-{"_note":"NVDA Pulse 术语表：给新手的 plain-language 解释，点击正文中的虚线下划线词语弹出。","terms":[{"en":null,"explain":"卖 100 块钱的东西，扣掉制造成本后剩下多少，越高越赚钱。","term":"毛利率"},{"en":"guidance","explain":"公司自己预测的下季度营收/利润，财报时公布，是市场预期的锚。","term":"指引"},{"en":"capital expenditure","explain":"资本开支，企业买设备建厂房花的钱，科技巨头 capex 越大 NVDA 订单越多。","term":"capex"},{"en":"High Bandwidth Memory","explain":"高带宽内存，AI 芯片旁边的高速显存，涨价会挤压 NVDA 毛利率。","term":"HBM"},{"en":null,"explain":"台积电的先进芯片封装技术，AI 芯片产能瓶颈经常卡在这里。","term":"CoWoS"},{"en":null,"explain":"NVDA 的并行计算软件平台与开发者生态，竞争对手最难复制的护城河。","term":"CUDA"},{"en":null,"explain":"给云厂商和 AI 公司卖算力芯片的业务，现占 NVDA 营收约九成。","term":"数据中心"},{"en":null,"explain":"超大规模云厂商：微软、亚马逊、谷歌、Meta，NVDA 最大的几家客户。","term":"hyperscaler"},{"en":null,"explain":"NVDA 下一代 AI 芯片平台，Blackwell 的继任者，按路线图 2026 年量产。","term":"Rubin"},{"en":null,"explain":"当前一代 AI 芯片架构（B200/B300），NVDA 近两年的主力产品。","term":"Blackwell"},{"en":"inference","explain":"AI 模型实际回答问题的过程，其算力需求正在超过训练。","term":"推理"},{"en":"training","explain":"用海量数据教会 AI 模型的过程，需要成千上万张 GPU。","term":"训练"},{"en":null,"explain":"AI 处理文本的基本单位，推理算力需求常用 token 量来衡量。","term":"token"},{"en":"Price-to-Earnings","explain":"市盈率：股价除以每股收益，数字越小相对越便宜。","term":"P/E"},{"en":"trailing twelve months","explain":"过去连续 12 个月，滚动计算业绩的口径。","term":"TTM"},{"en":"market cap","explain":"公司总价值，等于股价乘以总股数。","term":"市值"},{"en":"earnings per share","explain":"每股收益，公司利润除以总股数，是市盈率的分母。","term":"EPS"},{"en":null,"explain":"渠道里没卖掉的货，库存积压意味着需求放缓，是周期见顶的信号。","term":"库存"},{"en":null,"explain":"美国限制对华出售高端 AI 芯片的政策，直接影响 NVDA 中国收入。","term":"出口管制"},{"en":null,"explain":"NVDA 出钱扶持 AI 初创，对方再拿钱买 NVDA 芯片，收入质量受质疑。","term":"循环融资"},{"en":null,"explain":"1 股拆成多股，股价变低但总市值不变，方便散户买入。","term":"拆股"},{"en":null,"explain":"数据中心业务占总营收的比例，越高说明越依赖 AI 算力。","term":"数据中心营收占比"},{"en":null,"explain":"主营业务实际收到的现金，比账面利润更难造假。","term":"经营现金流"},{"en":null,"explain":"经营现金流扣掉买设备花的钱，公司能自由支配的真实现金。","term":"自由现金流"},{"en":null,"explain":"投行给出的买入/持有/卖出建议及目标价，变动常带动短期股价。","term":"分析师评级"}]}
+{
+  "_note": "NVDA Pulse 术语表：给新手的 plain-language 解释，点击正文中的虚线下划线词语弹出。",
+  "terms": [
+    {
+      "en": null,
+      "explain": "卖 100 块钱的东西，扣掉制造成本后剩下多少，越高越赚钱。",
+      "term": "毛利率"
+    },
+    {
+      "en": "guidance",
+      "explain": "公司自己预测的下季度营收/利润，财报时公布，是市场预期的锚。",
+      "term": "指引"
+    },
+    {
+      "en": "capital expenditure",
+      "explain": "资本开支，企业买设备建厂房花的钱，科技巨头 capex 越大 NVDA 订单越多。",
+      "term": "capex"
+    },
+    {
+      "en": "High Bandwidth Memory",
+      "explain": "高带宽内存，AI 芯片旁边的高速显存，涨价会挤压 NVDA 毛利率。",
+      "term": "HBM"
+    },
+    {
+      "en": null,
+      "explain": "台积电的先进芯片封装技术，AI 芯片产能瓶颈经常卡在这里。",
+      "term": "CoWoS"
+    },
+    {
+      "en": null,
+      "explain": "NVDA 的并行计算软件平台与开发者生态，竞争对手最难复制的护城河。",
+      "term": "CUDA"
+    },
+    {
+      "en": null,
+      "explain": "给云厂商和 AI 公司卖算力芯片的业务，现占 NVDA 营收约九成。",
+      "term": "数据中心"
+    },
+    {
+      "en": null,
+      "explain": "超大规模云厂商：微软、亚马逊、谷歌、Meta，NVDA 最大的几家客户。",
+      "term": "hyperscaler"
+    },
+    {
+      "en": null,
+      "explain": "NVDA 下一代 AI 芯片平台，Blackwell 的继任者，按路线图 2026 年量产。",
+      "term": "Rubin"
+    },
+    {
+      "en": null,
+      "explain": "当前一代 AI 芯片架构（B200/B300），NVDA 近两年的主力产品。",
+      "term": "Blackwell"
+    },
+    {
+      "en": "inference",
+      "explain": "AI 模型实际回答问题的过程，其算力需求正在超过训练。",
+      "term": "推理"
+    },
+    {
+      "en": "training",
+      "explain": "用海量数据教会 AI 模型的过程，需要成千上万张 GPU。",
+      "term": "训练"
+    },
+    {
+      "en": null,
+      "explain": "AI 处理文本的基本单位，推理算力需求常用 token 量来衡量。",
+      "term": "token"
+    },
+    {
+      "en": "Price-to-Earnings",
+      "explain": "市盈率：股价除以每股收益，数字越小相对越便宜。",
+      "term": "P/E"
+    },
+    {
+      "en": "trailing twelve months",
+      "explain": "过去连续 12 个月，滚动计算业绩的口径。",
+      "term": "TTM"
+    },
+    {
+      "en": "market cap",
+      "explain": "公司总价值，等于股价乘以总股数。",
+      "term": "市值"
+    },
+    {
+      "en": "earnings per share",
+      "explain": "每股收益，公司利润除以总股数，是市盈率的分母。",
+      "term": "EPS"
+    },
+    {
+      "en": null,
+      "explain": "渠道里没卖掉的货，库存积压意味着需求放缓，是周期见顶的信号。",
+      "term": "库存"
+    },
+    {
+      "en": null,
+      "explain": "美国限制对华出售高端 AI 芯片的政策，直接影响 NVDA 中国收入。",
+      "term": "出口管制"
+    },
+    {
+      "en": null,
+      "explain": "NVDA 出钱扶持 AI 初创，对方再拿钱买 NVDA 芯片，收入质量受质疑。",
+      "term": "循环融资"
+    },
+    {
+      "en": null,
+      "explain": "1 股拆成多股，股价变低但总市值不变，方便散户买入。",
+      "term": "拆股"
+    },
+    {
+      "en": null,
+      "explain": "数据中心业务占总营收的比例，越高说明越依赖 AI 算力。",
+      "term": "数据中心营收占比"
+    },
+    {
+      "en": null,
+      "explain": "主营业务实际收到的现金，比账面利润更难造假。",
+      "term": "经营现金流"
+    },
+    {
+      "en": null,
+      "explain": "经营现金流扣掉买设备花的钱，公司能自由支配的真实现金。",
+      "term": "自由现金流"
+    },
+    {
+      "en": null,
+      "explain": "投行给出的买入/持有/卖出建议及目标价，变动常带动短期股价。",
+      "term": "分析师评级"
+    }
+  ],
+  "_meta": {
+    "reviewed": "2026-10-02"
+  }
+}

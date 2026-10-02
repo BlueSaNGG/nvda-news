@@ -40,6 +40,23 @@ body {
 }
 .eyebrow:first-child { margin-top: 6px; }
 
+/* Freshness suffix on track-section eyebrows: subtle, one short span */
+.fresh {
+  font-size: 0.62rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  color: var(--muted);
+}
+.fresh.stale {
+  color: #f5a623;
+  font-weight: 700;
+}
+.fresh.attention {
+  color: var(--green);
+  font-weight: 700;
+}
+
 /* ---------- brand header ---------- */
 .brand-header {
   position: sticky;

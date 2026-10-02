@@ -10,6 +10,7 @@ const HIST_URL = "data/company_history.json";
 const TARGETS_URL = "data/analyst_targets.json";
 const GLOSS_URL = "data/glossary.json";
 const SIG_URL = "data/signal_history.json";
+const FRESH_URL = "data/freshness.json";
 const REFRESH_MS = 5 * 60 * 1000;
 
 let currentScreen = "today";
@@ -697,6 +698,41 @@ function renderTrack() {
   initTrackChips();
 }
 
+/* Freshness suffixes on track-section eyebrows (data/freshness.json).
+   Missing file -> leave spans empty (graceful). */
+function daysAgoChicago(iso) {
+  try {
+    var d = new Date(iso + "T12:00:00");
+    if (isNaN(d)) return null;
+    var now = new Date(new Date().toLocaleString("en-US", { timeZone: "America/Chicago" }));
+    var day = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    var rev = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+    return Math.max(0, Math.round((day - rev) / 86400000));
+  } catch (e) { return null; }
+}
+
+function renderFresh() {
+  var fr = cachedExtra && cachedExtra.fresh;
+  if (!fr || !fr.sections) return;  // missing file: suffixes stay hidden
+  fr.sections.forEach(function (s) {
+    var el = document.getElementById("fresh-" + s.id);
+    if (!el) return;
+    el.className = "fresh";
+    var txt = "";
+    if (s.status === "stale") {
+      txt = "· 待复核";
+      el.className = "fresh stale";
+    } else if (s.status === "attention") {
+      txt = "· " + (s.note || "需关注");
+      el.className = "fresh attention";
+    } else {
+      var n = daysAgoChicago(s.reviewed);
+      txt = (n === 0) ? "· 今日已复核" : "· " + n + "天前复核";
+    }
+    el.textContent = txt;
+  });
+}
+
 /* ---------- 跟踪屏：图表 ---------- */
 const CW = 360;
 const TRACK_EMPTY = '<p class="track-empty">图表数据加载中…</p>';
@@ -1118,7 +1154,7 @@ async function fetchJson(url) {
 
 async function load() {
   try {
-    const [news, earnings, roadmap, thesis, financials, price, history, targets, gloss, signal] = await Promise.all([
+    const [news, earnings, roadmap, thesis, financials, price, history, targets, gloss, signal, fresh] = await Promise.all([
       fetchJson(NEWS_URL),
       fetchJson(EARNINGS_URL).catch(() => null),
       fetchJson(ROADMAP_URL).catch(() => null),
@@ -1129,13 +1165,15 @@ async function load() {
       fetchJson(TARGETS_URL).catch(() => null),
       fetchJson(GLOSS_URL).catch(() => null),
       fetchJson(SIG_URL).catch(() => null),
+      fetchJson(FRESH_URL).catch(() => null),
     ]);
     cachedNews = news;
-    cachedExtra = { earnings, roadmap, thesis, financials, price, history, targets, signal };
+    cachedExtra = { earnings, roadmap, thesis, financials, price, history, targets, signal, fresh };
     setGlossary(gloss);
     renderToday(news);
     renderNews(news);
     renderTrack();
+    renderFresh();
     renderStart();
   } catch (e) {
     const updatedEl = document.getElementById("updated-at");
