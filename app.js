@@ -11,13 +11,17 @@ const TARGETS_URL = "data/analyst_targets.json";
 const GLOSS_URL = "data/glossary.json";
 const SIG_URL = "data/signal_history.json";
 const FRESH_URL = "data/freshness.json";
+const QUOTE_URL = "data/quote.json";
 const REFRESH_MS = 5 * 60 * 1000;
+const QUOTE_POLL_MS = 60 * 1000;
+const QUOTE_MAX_AGE_MS = 12 * 60 * 1000;
 
 let currentScreen = "today";
 let currentCat = "全部";
 let currentQuery = "";
 let cachedNews = null;
 let cachedExtra = null;
+let liveQuote = null; // latest tick from price_tick.py cron (5-min cadence)
 let glossary = [];          // [{term, en, explain}]，按 term 长度降序
 let glossaryMap = {};       // 小写 term -> term 对象
 
@@ -293,6 +297,9 @@ function renderMarket(market) {
       '<span class="chg ' + (up ? "up" : "down") + '">' +
       (up ? "▲" : "▼") + " " + (up ? "+" : "") +
       market.change_pct.toFixed(2) + "%</span>";
+    if (market._live) {
+      html += '<span class="quote-live">· 约5分钟延迟</span>';
+    }
   }
   const ne = market.next_earnings;
   if (ne && ne.date) {
@@ -395,6 +402,7 @@ function renderToday(data) {
 
   document.getElementById("updated-at").textContent = fmtUpdated(data.updated_at);
   renderMarket(market);
+  applyLiveQuote(); // re-apply 5-min tick after news.json refresh
   signalCardHtml(market);
   briefHtml(meta);
   newSinceHtml(stories);
@@ -1325,6 +1333,28 @@ async function fetchJson(url) {
   return res.json();
 }
 
+/* ---------- live price tick (5-min cron -> data/quote.json) ---------- */
+function applyLiveQuote() {
+  if (!liveQuote || !cachedNews || !cachedNews.market) return;
+  const m = cachedNews.market;
+  m.price = liveQuote.price;
+  m.change_pct = liveQuote.change_pct;
+  m._live = true;
+  renderMarket(m);
+}
+
+function fetchLiveQuote() {
+  if (document.hidden) return;
+  fetchJson(QUOTE_URL).then(function (q) {
+    if (!q || typeof q.price !== "number" || !q.updated_at) return;
+    const ageMs = Date.now() - new Date(q.updated_at).getTime();
+    if (!(ageMs >= 0 && ageMs <= QUOTE_MAX_AGE_MS)) return; // stale: keep news.json quote
+    if (liveQuote && liveQuote.updated_at === q.updated_at) return; // unchanged
+    liveQuote = q;
+    applyLiveQuote();
+  }).catch(function () { /* keep last good quote, silent */ });
+}
+
 async function load() {
   try {
     const [news, earnings, roadmap, thesis, financials, price, history, targets, gloss, signal, fresh] = await Promise.all([
@@ -1389,3 +1419,5 @@ initGlossary();
 initStartCtas();
 load();
 setInterval(load, REFRESH_MS);
+fetchLiveQuote();
+setInterval(fetchLiveQuote, QUOTE_POLL_MS);
