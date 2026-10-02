@@ -732,3 +732,107 @@ body {
   font-size: 0.75rem;
   color: var(--muted);
 }
+
+/* ---------- 术语表：虚线下划线 + 底部弹出解释 ---------- */
+.term {
+  border-bottom: 1px dotted var(--green);
+  cursor: pointer;
+}
+.term-backdrop {
+  position: fixed; inset: 0; z-index: 40;
+  background: rgba(0, 0, 0, 0.6);
+}
+.term-backdrop[hidden] { display: none; }
+.term-sheet {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 41;
+  max-width: 720px; margin: 0 auto;
+  background: #111214;
+  border-top: 1px solid var(--card-border);
+  border-radius: 16px 16px 0 0;
+  padding: 10px 20px calc(20px + env(safe-area-inset-bottom));
+  animation: sheetUp 0.22s ease-out;
+}
+.term-sheet[hidden] { display: none; }
+@keyframes sheetUp {
+  from { transform: translateY(30px); opacity: 0.6; }
+  to { transform: none; opacity: 1; }
+}
+.term-grip {
+  width: 40px; height: 4px; border-radius: 2px;
+  background: #333; margin: 2px auto 10px;
+}
+.term-title {
+  margin: 0 0 6px; font-weight: 800;
+  color: var(--green); font-size: 1rem;
+}
+.term-explain {
+  margin: 0 0 14px; font-size: 0.92rem;
+  line-height: 1.6; color: var(--text);
+}
+.term-close {
+  display: block; width: 100%; padding: 11px;
+  border-radius: 10px; border: 1px solid rgba(118, 185, 0, 0.5);
+  background: var(--green-dim); color: var(--green);
+  font-size: 0.9rem; font-weight: 700;
+  font-family: inherit; cursor: pointer;
+}
+body.sheet-open { overflow: hidden; }
+
+/* ---------- 首访分流 ---------- */
+.fv {
+  position: fixed; inset: 0; z-index: 50;
+  background: rgba(0, 0, 0, 0.97);
+  display: flex; align-items: center; justify-content: center;
+  padding: 24px;
+}
+.fv[hidden] { display: none; }
+.fv-card { max-width: 380px; width: 100%; text-align: center; }
+.fv-card h2 { margin: 6px 0 4px; font-size: 1.3rem; }
+.fv-sub { color: var(--muted); font-size: 0.85rem; margin: 0 0 20px; }
+.fv-btn {
+  display: block; width: 100%; text-align: left;
+  background: var(--card); border: 1px solid var(--card-border);
+  border-radius: 14px; padding: 16px; margin: 0 0 12px;
+  color: var(--text); font-family: inherit; cursor: pointer;
+}
+.fv-btn b { display: block; font-size: 1.05rem; margin-bottom: 4px; color: var(--green); }
+.fv-btn span { font-size: 0.83rem; color: var(--muted); }
+.fv-btn:active { border-color: var(--green); }
+
+/* ---------- 入门屏 ---------- */
+.start-card {
+  background: var(--card); border: 1px solid var(--card-border);
+  border-radius: 12px; padding: 14px; margin-bottom: 12px;
+}
+.start-card h2 { margin: 0 0 8px; font-size: 1rem; }
+.start-card h2::before {
+  content: ""; display: inline-block;
+  width: 3px; height: 0.9em; border-radius: 2px;
+  background: var(--green); margin-right: 8px;
+  vertical-align: -0.1em;
+}
+.start-card > p { margin: 0; font-size: 0.9rem; line-height: 1.7; }
+.start-nums {
+  display: grid; grid-template-columns: 1fr 1fr;
+  gap: 10px; margin: 10px 0 8px;
+}
+.start-num {
+  background: #000; border: 1px solid var(--card-border);
+  border-radius: 10px; padding: 10px 12px;
+}
+.sn-label { display: block; font-size: 0.75rem; color: var(--muted); margin-bottom: 4px; }
+.sn-val { font-size: 1.25rem; font-weight: 800; color: var(--green); }
+.start-hint { font-size: 0.75rem; color: var(--muted); margin: 0; }
+.start-cta { display: flex; gap: 10px; margin: 2px 0 8px; }
+.cta-btn {
+  flex: 1; padding: 13px; border-radius: 12px;
+  font-size: 0.92rem; font-weight: 700; font-family: inherit; cursor: pointer;
+  background: var(--card); color: var(--text); border: 1px solid var(--card-border);
+}
+.cta-btn.primary { background: var(--green); border-color: var(--green); color: #001100; }
+.start-foot { text-align: center; margin: 4px 0 0; }
+.link-btn {
+  background: none; border: none; padding: 6px;
+  color: var(--muted); font-size: 0.8rem; font-family: inherit;
+  cursor: pointer; text-decoration: underline;
+}

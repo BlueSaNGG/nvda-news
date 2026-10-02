@@ -8,6 +8,7 @@ const FIN_URL = "data/financials_annual.json";
 const PRICE_URL = "data/price_history.json";
 const HIST_URL = "data/company_history.json";
 const TARGETS_URL = "data/analyst_targets.json";
+const GLOSS_URL = "data/glossary.json";
 const REFRESH_MS = 5 * 60 * 1000;
 
 let currentScreen = "today";
@@ -15,6 +16,88 @@ let currentCat = "全部";
 let currentQuery = "";
 let cachedNews = null;
 let cachedExtra = null;
+let glossary = [];          // [{term, en, explain}]，按 term 长度降序
+let glossaryMap = {};       // 小写 term -> term 对象
+
+/* ---------- 术语表 ---------- */
+function escapeRe(s) {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function setGlossary(data) {
+  glossary = [];
+  glossaryMap = {};
+  const terms = (data && data.terms) || [];
+  terms.forEach(function (t) {
+    if (t && t.term && t.explain) glossary.push(t);
+  });
+  glossary.sort(function (a, b) { return b.term.length - a.term.length; });
+  glossary.forEach(function (t) {
+    glossaryMap[t.term.toLowerCase()] = t;
+  });
+}
+
+// 对已转义的纯文本做术语标注（最长优先、单次替换，避免重复包裹）
+function escTag(s) {
+  const t = esc(s == null ? "" : s);
+  if (!glossary.length) return t;
+  const re = new RegExp(
+    "(" + glossary.map(function (g) { return escapeRe(g.term); }).join("|") + ")",
+    "gi"
+  );
+  return t.replace(re, function (m) {
+    const g = glossaryMap[m.toLowerCase()];
+    if (!g) return m;
+    return '<span class="term" data-term="' + esc(g.term) + '">' + m + "</span>";
+  });
+}
+
+function openTermSheet(term) {
+  const g = glossaryMap[String(term).toLowerCase()];
+  if (!g) return;
+  document.getElementById("term-title").textContent =
+    g.term + (g.en ? " · " + g.en : "");
+  document.getElementById("term-explain").textContent = g.explain;
+  document.getElementById("term-backdrop").hidden = false;
+  document.getElementById("term-sheet").hidden = false;
+  document.body.classList.add("sheet-open");
+}
+
+function closeTermSheet() {
+  document.getElementById("term-backdrop").hidden = true;
+  document.getElementById("term-sheet").hidden = true;
+  document.body.classList.remove("sheet-open");
+}
+
+function initGlossary() {
+  const wrap = document.createElement("div");
+  wrap.innerHTML =
+    '<div class="term-backdrop" id="term-backdrop" hidden></div>' +
+    '<div class="term-sheet" id="term-sheet" hidden role="dialog" aria-modal="true">' +
+      '<div class="term-grip"></div>' +
+      '<p class="term-title" id="term-title"></p>' +
+      '<p class="term-explain" id="term-explain"></p>' +
+      '<button class="term-close" id="term-close">知道了</button>' +
+    "</div>";
+  document.body.appendChild(wrap);
+  document.addEventListener("click", function (e) {
+    const t = e.target.closest ? e.target.closest(".term") : null;
+    if (t) {
+      // 术语可能嵌在新闻链接里：拦截跳转，只弹解释
+      e.preventDefault();
+      e.stopPropagation();
+      openTermSheet(t.dataset.term);
+      return;
+    }
+    if (e.target.closest &&
+        (e.target.closest("#term-backdrop") || e.target.closest("#term-close"))) {
+      closeTermSheet();
+    }
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") closeTermSheet();
+  });
+}
 
 /* ---------- utils ---------- */
 function esc(s) {
@@ -69,17 +152,25 @@ function showScreen(name, save) {
   window.scrollTo(0, 0);
 }
 
+const SCREENS = ["today", "news", "track", "start"];
+
 function initNav() {
   document.querySelectorAll("[data-screen].tnav, [data-screen].bnav, #goto-news").forEach((el) => {
     el.addEventListener("click", () => {
       showScreen(el.id === "goto-news" ? "news" : el.dataset.screen);
     });
   });
-  let saved = null;
-  try { saved = localStorage.getItem("nvda_screen"); } catch (e) {}
-  if (saved === "news" || saved === "track" || saved === "today") {
-    showScreen(saved, false);
-  }
+  // 首访：弹出分流浮层，由用户选择，不自动跳转
+  if (initFirstVisit()) return;
+  let saved = null, home = null;
+  try {
+    saved = localStorage.getItem("nvda_screen");
+    home = localStorage.getItem("nvda_home");
+  } catch (e) {}
+  // 老用户行为不变：上次 tab 优先；其次用记住的偏好首页
+  const target = SCREENS.indexOf(saved) >= 0 ? saved
+    : SCREENS.indexOf(home) >= 0 ? home : null;
+  if (target) showScreen(target, false);
 }
 
 /* ---------- story cards (shared) ---------- */
@@ -125,16 +216,16 @@ function sentiDot(s) {
 
 function summaryRow(s) {
   return s.zh_summary
-    ? '<p class="card-summary">' + esc(s.zh_summary) + "</p>"
+    ? '<p class="card-summary">' + escTag(s.zh_summary) + "</p>"
     : "";
 }
 
 function titleHtml(s) {
   if (s.title_zh) {
-    return '<h2 class="card-title">' + esc(s.title_zh) + "</h2>" +
-      '<p class="card-title-en">' + esc(s.title) + "</p>";
+    return '<h2 class="card-title">' + escTag(s.title_zh) + "</h2>" +
+      '<p class="card-title-en">' + escTag(s.title) + "</p>";
   }
-  return '<h2 class="card-title">' + esc(s.title) + "</h2>";
+  return '<h2 class="card-title">' + escTag(s.title) + "</h2>";
 }
 
 const ACTION_BADGE_CLASS = { "上调": "up", "下调": "down" };
@@ -388,7 +479,7 @@ function renderEarnings(eq) {
         metric("EPS(non-GAAP)", eps, "") +
         metric("下季指引", guide, "") +
       "</div>" +
-      (q.note ? '<p class="earn-note">' + esc(q.note) + "</p>" : "") +
+      (q.note ? '<p class="earn-note">' + escTag(q.note) + "</p>" : "") +
     "</div>";
   }).join("");
 }
@@ -412,7 +503,7 @@ function renderRoadmap(rm) {
           '<span class="rm-status ' + (cls[it.status] || "planned") + '">' +
           esc(it.status) + "</span></div>" +
         '<p class="rm-year num">' + esc(it.year) + "</p>" +
-        '<p class="rm-note">' + esc(it.note) + "</p>" +
+        '<p class="rm-note">' + escTag(it.note) + "</p>" +
       "</div>" +
     "</div>"
   ).join("") + "</div>";
@@ -442,11 +533,11 @@ function renderValuation(market) {
 function thesisGroup(title, items, cls) {
   const rows = items.map((it) =>
     '<details class="thesis-item"><summary>' +
-      '<span class="th-title">' + esc(it.title) + "</span>" +
+      '<span class="th-title">' + escTag(it.title) + "</span>" +
       '<span class="th-tags"><span class="th-tag">' + esc(it.horizon) + "</span>" +
       '<span class="th-tag ' + (it.strength === "强" ? "strong" : "") + '">' +
       esc(it.strength || "") + "</span></span>" +
-    "</summary><p>" + esc(it.detail) + "</p></details>"
+    "</summary><p>" + escTag(it.detail) + "</p></details>"
   ).join("");
   return '<div class="thesis-col ' + cls + '"><h3>' + title + "</h3>" + rows + "</div>";
 }
@@ -780,14 +871,109 @@ function renderCompany(h) {
   let html = '<div class="ceo-card"><p class="ceo-eyebrow">CEO · 创始人</p>' +
     '<p class="ceo-name">' + esc(ceo.name || "") +
     (ceo.name_en ? ' <span class="ceo-en">' + esc(ceo.name_en) + "</span>" : "") + "</p>" +
-    '<p class="ceo-desc">' + esc(ceo.desc || "") + "</p></div>";
+    '<p class="ceo-desc">' + escTag(ceo.desc || "") + "</p></div>";
   html += '<div class="hist">' + h.milestones.map(function (m) {
     return '<div class="hist-item"><span class="hist-dot"></span><div class="hist-body">' +
       '<p class="hist-date num">' + esc(m.date) + '</p>' +
-      '<p class="hist-title">' + esc(m.title) + '</p>' +
-      '<p class="hist-desc">' + esc(m.desc) + "</p></div></div>";
+      '<p class="hist-title">' + escTag(m.title) + '</p>' +
+      '<p class="hist-desc">' + escTag(m.desc) + "</p></div></div>";
   }).join("") + "</div>";
   el.innerHTML = html;
+}
+
+/* ---------- 入门屏 ---------- */
+function startNum(label, val, term) {
+  const lab = term
+    ? '<span class="term" data-term="' + esc(term) + '">' + esc(label) + "</span>"
+    : esc(label);
+  return '<div class="start-num"><span class="sn-label">' + lab + "</span>" +
+    '<b class="sn-val">' + val + "</b></div>";
+}
+
+function renderStart() {
+  const numsEl = document.getElementById("start-nums");
+  const risksEl = document.getElementById("start-risks");
+  const eq = cachedExtra && cachedExtra.earnings;
+  const qs = (eq && eq.quarters) || [];
+  const sig = cachedNews && cachedNews.market && cachedNews.market.daily_signal;
+
+  if (qs.length) {
+    const q = qs[0];
+    const dcShare = (q.dc_revenue_b != null && q.revenue_b)
+      ? (q.dc_revenue_b / q.revenue_b * 100).toFixed(0) + "%" : "—";
+    const upside = sig && sig.implied_upside_pct != null
+      ? (sig.implied_upside_pct >= 0 ? "+" : "") + sig.implied_upside_pct + "%" : "—";
+    numsEl.innerHTML =
+      startNum("最新季营收", q.revenue_b != null ? "$" + q.revenue_b + "B" : "—", null) +
+      startNum("数据中心营收占比", dcShare, "数据中心营收占比") +
+      startNum("毛利率", q.gm_pct != null ? q.gm_pct.toFixed(1) + "%" : "—", "毛利率") +
+      startNum("分析师目标价隐含空间", upside, "分析师评级");
+  } else {
+    numsEl.innerHTML = '<p class="track-empty">数字加载中…</p>';
+  }
+
+  const th = cachedExtra && cachedExtra.thesis;
+  const bears = (th && th.bear) || [];
+  if (bears.length) {
+    // 强风险优先，取 3 条
+    const top = bears.slice().sort(function (a, b) {
+      return (b.strength === "强" ? 1 : 0) - (a.strength === "强" ? 1 : 0);
+    }).slice(0, 3);
+    risksEl.innerHTML = top.map(function (it) {
+      return '<details class="thesis-item"><summary>' +
+        '<span class="th-title">' + escTag(it.title) + "</span>" +
+        '<span class="th-tags"><span class="th-tag ' +
+          (it.strength === "强" ? "strong" : "") + '">' +
+          esc(it.strength || "") + "</span></span>" +
+      "</summary><p>" + escTag(it.detail) + "</p></details>";
+    }).join("");
+  } else {
+    risksEl.innerHTML = '<p class="track-empty">加载中…</p>';
+  }
+}
+
+function initStartCtas() {
+  document.getElementById("goto-today").addEventListener("click", function () {
+    showScreen("today");
+  });
+  document.getElementById("goto-history").addEventListener("click", function () {
+    showScreen("track");
+    setTimeout(function () {
+      const c = document.getElementById("company");
+      if (c) c.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 60);
+  });
+  const setHome = document.getElementById("set-home");
+  try {
+    if (localStorage.getItem("nvda_home") === "today") {
+      setHome.textContent = "✓ 已设为默认进「今日」";
+    }
+  } catch (e) {}
+  setHome.addEventListener("click", function () {
+    try { localStorage.setItem("nvda_home", "today"); } catch (e) {}
+    setHome.textContent = "✓ 已设为默认进「今日」";
+  });
+}
+
+/* ---------- 首访分流 ---------- */
+function initFirstVisit() {
+  let seen = null;
+  try { seen = localStorage.getItem("nvda_pulse_seen"); } catch (e) {}
+  if (seen) return false;
+  const fv = document.getElementById("first-visit");
+  fv.hidden = false;
+  fv.querySelectorAll(".fv-btn").forEach(function (b) {
+    b.addEventListener("click", function () {
+      const h = b.dataset.home === "start" ? "start" : "today";
+      try {
+        localStorage.setItem("nvda_pulse_seen", "1");
+        localStorage.setItem("nvda_home", h);
+      } catch (e) {}
+      fv.hidden = true;
+      showScreen(h);
+    });
+  });
+  return true;
 }
 
 /* ---------- load ---------- */
@@ -799,7 +985,7 @@ async function fetchJson(url) {
 
 async function load() {
   try {
-    const [news, earnings, roadmap, thesis, financials, price, history, targets] = await Promise.all([
+    const [news, earnings, roadmap, thesis, financials, price, history, targets, gloss] = await Promise.all([
       fetchJson(NEWS_URL),
       fetchJson(EARNINGS_URL).catch(() => null),
       fetchJson(ROADMAP_URL).catch(() => null),
@@ -808,12 +994,15 @@ async function load() {
       fetchJson(PRICE_URL).catch(() => null),
       fetchJson(HIST_URL).catch(() => null),
       fetchJson(TARGETS_URL).catch(() => null),
+      fetchJson(GLOSS_URL).catch(() => null),
     ]);
     cachedNews = news;
     cachedExtra = { earnings, roadmap, thesis, financials, price, history, targets };
+    setGlossary(gloss);
     renderToday(news);
     renderNews(news);
     renderTrack();
+    renderStart();
   } catch (e) {
     const updatedEl = document.getElementById("updated-at");
     if (updatedEl) updatedEl.textContent = "加载失败，稍后重试";
@@ -851,5 +1040,7 @@ function initSearch() {
 initNav();
 initTabs();
 initSearch();
+initGlossary();
+initStartCtas();
 load();
 setInterval(load, REFRESH_MS);
