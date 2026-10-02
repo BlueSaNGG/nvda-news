@@ -10,6 +10,7 @@
 <header class="site-header">
   <div class="header-inner">
     <h1><span class="ticker">NVDA</span> 实时新闻</h1>
+    <p class="quote" id="quote-line" hidden></p>
     <p class="updated">更新于 <span id="updated-at">加载中…</span></p>
     <nav class="tabs" id="tabs" aria-label="新闻分类">
       <button class="tab active" data-cat="全部">全部</button>
@@ -22,8 +23,20 @@
       <button class="tab" data-cat="市场宏观">市场宏观</button>
       <button class="tab" data-cat="其他">其他</button>
     </nav>
+    <div class="search-row">
+      <input id="search" type="search" placeholder="搜索标题、来源…" autocomplete="off" aria-label="搜索新闻">
+      <button id="search-clear" class="search-clear" hidden aria-label="清除搜索">✕</button>
+    </div>
+    <p class="search-count" id="search-count" hidden></p>
   </div>
 </header>
+
+<section id="breaking" class="breaking" hidden>
+  <div class="breaking-inner">
+    <h2 class="breaking-title">突发</h2>
+    <div id="breaking-list"></div>
+  </div>
+</section>
 
 <main id="timeline" class="timeline" aria-live="polite"></main>
 

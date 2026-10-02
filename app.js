@@ -4,6 +4,7 @@ const DATA_URL = "data/news.json";
 const REFRESH_MS = 5 * 60 * 1000;
 
 let currentCat = "全部";
+let currentQuery = "";
 let cachedData = null;
 
 function esc(s) {
@@ -44,11 +45,15 @@ function badge(s) {
 }
 
 function metaRow(s) {
+  const session = s.session
+    ? '<span class="session">' + esc(s.session) + "</span>"
+    : "";
   return (
     '<div class="card-meta">' +
       "<span>" + esc(s.source) + "</span>" +
       "<span>·</span>" +
       "<span>" + esc(relTime(s.published_at)) + "</span>" +
+      session +
       badge(s) +
     "</div>"
   );
@@ -58,6 +63,14 @@ function summaryRow(s) {
   return s.zh_summary
     ? '<p class="card-summary">' + esc(s.zh_summary) + "</p>"
     : "";
+}
+
+function titleHtml(s) {
+  if (s.title_zh) {
+    return '<h2 class="card-title">' + esc(s.title_zh) + "</h2>" +
+      '<p class="card-title-en">' + esc(s.title) + "</p>";
+  }
+  return '<h2 class="card-title">' + esc(s.title) + "</h2>";
 }
 
 const ACTION_BADGE_CLASS = { "上调": "up", "下调": "down" };
@@ -81,7 +94,19 @@ function analystCard(s) {
         ratingRow +
       "</div>" +
       targetRow +
-      '<h2 class="card-title">' + esc(s.title) + "</h2>" +
+      titleHtml(s) +
+      summaryRow(s) +
+      metaRow(s) +
+    "</a>"
+  );
+}
+
+function breakingCard(s) {
+  return (
+    '<a class="card breaking-card" href="' + esc(s.url) +
+    '" target="_blank" rel="noopener">' +
+      '<span class="breaking-badge">突发</span>' +
+      titleHtml(s) +
       summaryRow(s) +
       metaRow(s) +
     "</a>"
@@ -91,30 +116,92 @@ function analystCard(s) {
 function storyCard(s) {
   return (
     '<a class="card" href="' + esc(s.url) + '" target="_blank" rel="noopener">' +
-      '<h2 class="card-title">' + esc(s.title) + "</h2>" +
+      titleHtml(s) +
       summaryRow(s) +
       metaRow(s) +
     "</a>"
   );
 }
 
+function renderMarket(market) {
+  const el = document.getElementById("quote-line");
+  if (!market) { el.hidden = true; return; }
+  let html = "";
+  if (typeof market.price === "number") {
+    const up = market.change_pct >= 0;
+    html += "<strong>$" + market.price.toFixed(2) + "</strong> " +
+      '<span class="chg ' + (up ? "up" : "down") + '">' +
+      (up ? "▲" : "▼") + " " + (up ? "+" : "") +
+      market.change_pct.toFixed(2) + "%</span>";
+  }
+  const ne = market.next_earnings;
+  if (ne && ne.date) {
+    const earn = ne.days_left > 0
+      ? "距离 " + esc(ne.label) + " 财报还有 " + ne.days_left + " 天"
+      : esc(ne.label) + "财报即将到来";
+    html += (html ? '<span class="quote-sep">·</span>' : "") +
+      '<span class="earn">' + earn + "</span>";
+  }
+  el.innerHTML = html;
+  el.hidden = !html;
+}
+
+function breakingStories(data) {
+  const stories = Array.isArray(data.stories) ? data.stories : [];
+  const cutoff = Date.now() - 24 * 3600 * 1000;
+  return stories.filter((s) =>
+    s.breaking && new Date(s.published_at).getTime() >= cutoff);
+}
+
+function matchesQuery(s, q) {
+  const hay = [s.title, s.title_zh, s.zh_summary, s.source]
+    .filter(Boolean).join(" ").toLowerCase();
+  return hay.includes(q);
+}
+
 function render(data) {
   const timeline = document.getElementById("timeline");
   const empty = document.getElementById("empty");
   const updatedEl = document.getElementById("updated-at");
+  const breakingSec = document.getElementById("breaking");
+  const breakingList = document.getElementById("breaking-list");
+  const countEl = document.getElementById("search-count");
 
   updatedEl.textContent = fmtUpdated(data.updated_at);
+  renderMarket(data.market);
 
   const stories = Array.isArray(data.stories) ? data.stories : [];
-  const filtered = currentCat === "全部"
-    ? stories
-    : stories.filter((s) => (s.category || "其他") === currentCat);
+  const breaking = breakingStories(data);
+  const breakingIds = new Set(breaking.map((s) => s.id));
+  const showBreaking =
+    breaking.length > 0 && currentCat === "全部" && !currentQuery;
+  breakingSec.hidden = !showBreaking;
+  if (showBreaking) {
+    breakingList.innerHTML = breaking.map(breakingCard).join("");
+  }
+
+  const q = currentQuery.toLowerCase();
+  const filtered = stories.filter((s) => {
+    if (breakingIds.has(s.id)) return false;
+    if (currentCat !== "全部" && (s.category || "其他") !== currentCat) return false;
+    if (q && !matchesQuery(s, q)) return false;
+    return true;
+  });
+
+  if (q) {
+    countEl.hidden = false;
+    countEl.textContent = "找到 " + filtered.length + " 条";
+  } else {
+    countEl.hidden = true;
+  }
 
   if (filtered.length === 0) {
     timeline.innerHTML = "";
     empty.hidden = false;
     empty.querySelector("p").textContent =
-      stories.length === 0 ? "暂无新闻数据" : "该分类暂无新闻";
+      stories.length === 0 ? "暂无新闻数据"
+      : q ? "没有匹配的新闻，换个关键词试试"
+      : "该分类暂无新闻";
     return;
   }
   empty.hidden = true;
@@ -147,6 +234,24 @@ async function load() {
   }
 }
 
+function initSearch() {
+  const input = document.getElementById("search");
+  const clear = document.getElementById("search-clear");
+  input.addEventListener("input", () => {
+    currentQuery = input.value.trim();
+    clear.hidden = !currentQuery;
+    if (cachedData) render(cachedData);
+  });
+  clear.addEventListener("click", () => {
+    input.value = "";
+    currentQuery = "";
+    clear.hidden = true;
+    if (cachedData) render(cachedData);
+    input.blur();
+  });
+}
+
 initTabs();
+initSearch();
 load();
 setInterval(load, REFRESH_MS);

@@ -53,6 +53,19 @@ body {
   color: var(--muted);
 }
 
+/* Market quote line */
+.quote {
+  margin: 6px 0 0;
+  font-size: 0.9rem;
+  color: var(--text);
+}
+.quote strong { font-weight: 800; }
+.chg { font-weight: 700; }
+.chg.up { color: var(--green); }
+.chg.down { color: var(--red); }
+.quote-sep { margin: 0 8px; color: var(--muted); }
+.earn { color: var(--muted); font-size: 0.8rem; }
+
 /* Category tabs (sticky with header, horizontal scroll on mobile) */
 .tabs {
   display: flex;
@@ -83,6 +96,107 @@ body {
   color: var(--green);
   border-color: rgba(118, 185, 0, 0.5);
   font-weight: 700;
+}
+
+/* Search */
+.search-row {
+  position: relative;
+  margin-top: 10px;
+}
+.search-row input {
+  width: 100%;
+  padding: 9px 36px 9px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--card-border);
+  background: var(--card);
+  color: var(--text);
+  font-size: 0.85rem;
+  font-family: inherit;
+  outline: none;
+  -webkit-appearance: none;
+}
+.search-row input:focus { border-color: rgba(118, 185, 0, 0.5); }
+.search-clear {
+  position: absolute;
+  right: 4px;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background: transparent;
+  color: var(--muted);
+  font-size: 0.9rem;
+  padding: 8px 10px;
+  cursor: pointer;
+}
+.search-count {
+  margin: 8px 0 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+/* Breaking news section */
+.breaking {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 12px 12px 0;
+}
+.breaking-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.breaking-title {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--red);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.breaking-title::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--red);
+  animation: blink 1.6s ease-in-out infinite;
+}
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.35; }
+}
+.breaking-card { border-left: 3px solid var(--red); }
+.breaking-badge {
+  display: inline-block;
+  background: var(--red-dim);
+  color: var(--red);
+  border: 1px solid rgba(255, 95, 86, 0.45);
+  border-radius: 6px;
+  font-size: 0.72rem;
+  font-weight: 800;
+  padding: 1px 8px;
+  margin-bottom: 8px;
+}
+.breaking-card .card-title { font-size: 1.08rem; }
+
+/* Translated title: zh on top, original English below */
+.card-title-en {
+  margin: -4px 0 8px;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: var(--muted);
+  font-weight: 400;
+}
+
+/* Market session tag */
+.session {
+  border: 1px solid var(--card-border);
+  border-radius: 6px;
+  padding: 0 6px;
+  font-size: 0.7rem;
+  color: var(--muted);
+  white-space: nowrap;
 }
 
 .timeline {
