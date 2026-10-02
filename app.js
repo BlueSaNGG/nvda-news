@@ -55,8 +55,30 @@ function metaRow(s) {
       "<span>" + esc(relTime(s.published_at)) + "</span>" +
       session +
       badge(s) +
+      reactionTag(s) +
+      sentiDot(s) +
     "</div>"
   );
+}
+
+/* Price reaction: stock move from first bar at/after publication to ~2h
+   later. |pct| <= 0.05% counts as flat to avoid noise flicker. */
+function reactionTag(s, big) {
+  const pr = s.price_reaction;
+  if (!pr || typeof pr.pct !== "number") return "";
+  const cls = pr.pct > 0.05 ? "up" : pr.pct < -0.05 ? "down" : "flat";
+  const sign = pr.pct > 0 ? "+" : "";
+  const win = pr.window_h >= 1.95 ? "2h" : pr.window_h + "h";
+  return '<span class="react' + (big ? " big" : "") + " " + cls + '">' +
+    "发布后" + win + " " + sign + pr.pct.toFixed(1) + "%</span>";
+}
+
+/* Per-story sentiment dot: expected directional implication for NVDA price. */
+function sentiDot(s) {
+  if (typeof s.sentiment !== "number") return "";
+  const label = s.sentiment > 0 ? "利多" : s.sentiment < 0 ? "利空" : "中性";
+  const cls = s.sentiment > 0 ? "up" : s.sentiment < 0 ? "down" : "flat";
+  return '<span class="senti ' + cls + '">' + label + "</span>";
 }
 
 function summaryRow(s) {
@@ -102,10 +124,12 @@ function analystCard(s) {
 }
 
 function breakingCard(s) {
+  const big = reactionTag(s, true);
   return (
     '<a class="card breaking-card" href="' + esc(s.url) +
     '" target="_blank" rel="noopener">' +
       '<span class="breaking-badge">突发</span>' +
+      (big ? '<div class="breaking-react">' + big + "</div>" : "") +
       titleHtml(s) +
       summaryRow(s) +
       metaRow(s) +
@@ -142,8 +166,29 @@ function renderMarket(market) {
     html += (html ? '<span class="quote-sep">·</span>' : "") +
       '<span class="earn">' + earn + "</span>";
   }
+  const ds = daySentimentHtml(market);
+  if (ds) {
+    html += (html ? '<span class="quote-sep">·</span>' : "") + ds;
+  }
   el.innerHTML = html;
   el.hidden = !html;
+}
+
+/* 今日情绪 meter: 5-dot scale from day_sentiment.avg in [-2, 2]. */
+function daySentimentHtml(market) {
+  const ds = market && market.day_sentiment;
+  if (!ds || typeof ds.avg !== "number") return "";
+  const avg = ds.avg;
+  const label = avg >= 0.5 ? "偏多" : avg <= -0.5 ? "偏空" : "中性";
+  const cls = avg >= 0.5 ? "up" : avg <= -0.5 ? "down" : "flat";
+  const filled = Math.max(0, Math.min(4, Math.round(((avg + 2) / 4) * 4)));
+  let dots = "";
+  for (let i = 0; i < 5; i++) {
+    dots += '<span class="dot' + (i <= filled ? " on " + cls : "") + '"></span>';
+  }
+  return '<span class="day-senti">今日情绪<span class="dots">' + dots +
+    '</span><b class="' + cls + '">' + label + "</b>" +
+    '<span class="ds-n">n=' + ds.count + "</span></span>";
 }
 
 function breakingStories(data) {
