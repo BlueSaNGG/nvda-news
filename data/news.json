@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02T06:06:20.894129+00:00",
+ "updated_at": "2026-10-02T06:21:23.651554+00:00",
  "market": {
   "price": 230.86,
   "change_pct": 1.09,
@@ -10,8 +10,8 @@
    "days_left": 46
   },
   "day_sentiment": {
-   "avg": 1.0,
-   "count": 2
+   "avg": 0.8,
+   "count": 5
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.00（2条已评分）"
+     "note": "今日新闻情绪 +0.80（5条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.5,
    "ma20": 223.51,
-   "as_of": "2026-10-02T06:06:20.869700+00:00"
+   "as_of": "2026-10-02T06:21:23.634995+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "48da97f75f79",
+   "title": "Nvidia AI Servers Allegedly Routed Through Malaysia and Singapore In $300 Million China Scheme, Californi - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbWM4c3RLTy10dlJMM1Y5U19ZcXR0NFVNd2hSSy1qOHAyRWM3bXl2VHhtZndLLVFDdFJaNnA4ZVVwLUoxN0pkQ0NkU3o0UHZYWlV0aVhOMjk5Z3lSN2hhMEY0M19MUktHLVBWQ3JGRnVuTmhlU0dUUWFuSVJha21ZSDNncVRwNTlMLXBsWFdXd3pMQW5TZWdZOUhKeGdpWU1maFRWT3FnSjNLTUc1YXViT2RNbzhiX2JDQU50MQ",
+   "source": "Benzinga",
+   "published_at": "2026-10-02T06:14:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-02T06:14:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbWM4c3RLTy10dlJMM1Y5U19ZcXR0NFVNd2hSSy1qOHAyRWM3bXl2VHhtZndLLVFDdFJaNnA4ZVVwLUoxN0pkQ0NkU3o0UHZYWlV0aVhOMjk5Z3lSN2hhMEY0M19MUktHLVBWQ3JGRnVuTmhlU0dUUWFuSVJha21ZSDNncVRwNTlMLXBsWFdXd3pMQW5TZWdZOUhKeGdpWU1maFRWT3FnSjNLTUc1YXViT2RNbzhiX2JDQU50MQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
   {
    "id": "6abead5a7c91",
    "title": "亚马逊计划向投资者出售价值80亿美元的英伟达芯片- AI 人工智能 - cnbeta.com.tw",
@@ -77,9 +94,26 @@
    ],
    "category": "产品技术",
    "session": "盘前",
-   "title_zh": "亚马逊计划向投资者出售价值80亿美元的英伟达芯片",
    "zh_summary": "亚马逊拟向投资者出售80亿美元英伟达芯片",
+   "title_zh": "亚马逊计划向投资者出售价值80亿美元的英伟达芯片",
    "sentiment": 1
+  },
+  {
+   "id": "46a68d62f09e",
+   "title": "ETF异动 | 南方两倍做多英伟达(07788)涨超2% 英伟达启动创纪录股票回购计划公司估值有望提高提供者智通财经 - 英为财情 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BNlBTd2NFYTZQRmRtYjRzQjJkRmVMQndGRlN1YVhnUHpvWFhHY0c2WUg4RjRQZWFkd1VNYkhHMXpkV05Sa0lJdmNjd003NHR5X3MtUlJlU2treDNqSUJrR3gzWWU5aVg3VnpjUk8yZHk",
+   "source": "英为财情 Investing.com",
+   "published_at": "2026-10-02T05:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-02T05:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BNlBTd2NFYTZQRmRtYjRzQjJkRmVMQndGRlN1YVhnUHpvWFhHY0c2WUg4RjRQZWFkd1VNYkhHMXpkV05Sa0lJdmNjd003NHR5X3MtUlJlU2treDNqSUJrR3gzWWU5aVg3VnpjUk8yZHk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "f67a31df138a",
@@ -97,8 +131,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "SPCX股价隔夜上涨：马斯克暗示英伟达AI大消息",
    "zh_summary": "马斯克暗示英伟达AI有大消息",
+   "title_zh": "SPCX股价隔夜上涨：马斯克暗示英伟达AI大消息",
    "sentiment": 0
   },
   {
@@ -117,8 +151,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "投资者为何持续买入英伟达（NVDA）",
    "zh_summary": "投资者持续买入英伟达的原因分析",
+   "title_zh": "投资者为何持续买入英伟达（NVDA）",
    "sentiment": 1
   },
   {
@@ -282,7 +316,7 @@
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlctbklMb2FKVW12SWZYdEpsVnl4UlNLUzNHNlpBcUstaUlwYlBrVEFVNWRZWkhBNTZZTGIzMjVpT2NtSzRfbktWeWFjbVlqX1k1TEl0SkJiTjFDekRsd2h2b2ZaYmNsdXp6NU42T2cwZzFiRmZTakRnLVpHek1LcXl3dUg",
    "source": "Financial Times",
    "published_at": "2026-10-02T04:00:33+00:00",
-   "outlets_count": 14,
+   "outlets_count": 15,
    "outlets": [
     {
      "name": "Financial Times",
@@ -353,6 +387,11 @@
      "name": "Seeking Alpha",
      "published_at": "2026-10-02T04:07:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMV9ZTVpJWm43NGoyLUF5bGVfWVBCbHdBeWc3Z3RQZENCdWlvZWNERDNTUWxPUVIxanV3MFBOUV9pbUU1Mk0zamw5YXplUnlTVGhjSktZWmxmTFFiaHZ4VU4xekRkaWFIOEU3WnN5c3Z0bXdCamt2WDdKUjdfblNvbm1BOUVwMmE1Umt0aXp4TzNlTzViLVNoclJCYnQ1YmkxSWZwdkl0TQ"
+    },
+    {
+     "name": "ft.com",
+     "published_at": "2026-10-02T04:00:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlctbklMb2FKVW12SWZYdEpsVnl4UlNLUzNHNlpBcUstaUlwYlBrVEFVNWRZWkhBNTZZTGIzMjVpT2NtSzRfbktWeWFjbVlqX1k1TEl0SkJiTjFDekRsd2h2b2ZaYmNsdXp6NU42T2cwZzFiRmZTakRnLVpHek1LcXl3dUg"
     }
    ],
    "category": "产品技术",
@@ -3428,6 +3467,23 @@
    "zh_summary": "具身智能数据公司获近亿元融资",
    "title_zh": "联手英伟达、华为，这家具身智能数据公司拿下近亿元融资 - 机器人大讲堂",
    "sentiment": 1
+  },
+  {
+   "id": "65e1405efb98",
+   "title": "Nvidia Could Have a Monster October. Here's Why. - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2dPa2hkLUlMbUZGUFkya05QNVhETVotb3pPZmxWN1pLeXc3empvdG03c1RDbEFLMkl4SVNtQ1RnYXBKOUdYZHdVUjNDQkEyRVRNM1U3SG5LY2xsLWJiVHNNb0FvVGVOQ1gycl9VSXJ2OVNqLUZNTzB1MlNONE5wWHNpN05hNkJoVkVCQ212b1FvbmhObndlcUlGb0dQc0dW",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-01T00:23:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-01T00:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ2dPa2hkLUlMbUZGUFkya05QNVhETVotb3pPZmxWN1pLeXc3empvdG03c1RDbEFLMkl4SVNtQ1RnYXBKOUdYZHdVUjNDQkEyRVRNM1U3SG5LY2xsLWJiVHNNb0FvVGVOQ1gycl9VSXJ2OVNqLUZNTzB1MlNONE5wWHNpN05hNkJoVkVCQ212b1FvbmhObndlcUlGb0dQc0dW"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "1c1f5407d223",
