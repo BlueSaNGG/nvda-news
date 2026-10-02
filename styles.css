@@ -1,0 +1,126 @@
+:root {
+  --bg: #0b0e11;
+  --card: #141a20;
+  --card-border: #232c34;
+  --text: #e8edf1;
+  --muted: #8b98a5;
+  --green: #76b900;
+  --green-dim: rgba(118, 185, 0, 0.14);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC",
+               "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(11, 14, 17, 0.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--card-border);
+}
+
+.header-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 14px 16px 12px;
+}
+
+.site-header h1 {
+  margin: 0;
+  font-size: 1.35rem;
+  letter-spacing: 0.02em;
+}
+
+.ticker {
+  color: var(--green);
+  font-weight: 800;
+}
+
+.updated {
+  margin: 4px 0 0;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.timeline {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 12px 12px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.card {
+  display: block;
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 13px 14px;
+  text-decoration: none;
+  color: inherit;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.card:active { background: #1a2229; }
+
+.card-title {
+  margin: 0 0 8px;
+  font-size: 1rem;
+  line-height: 1.45;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.card-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.78rem;
+  color: var(--muted);
+  flex-wrap: wrap;
+}
+
+.badge {
+  background: var(--green-dim);
+  color: var(--green);
+  border: 1px solid rgba(118, 185, 0, 0.35);
+  border-radius: 999px;
+  padding: 1px 8px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.empty {
+  max-width: 720px;
+  margin: 48px auto;
+  padding: 0 16px;
+  text-align: center;
+  color: var(--muted);
+}
+
+.empty-sub { font-size: 0.85rem; }
+
+.site-footer {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 16px 32px;
+  text-align: center;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+@media (min-width: 760px) {
+  .site-header h1 { font-size: 1.6rem; }
+  .card:hover { border-color: var(--green); }
+}
