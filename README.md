@@ -1,6 +1,6 @@
-# NVDA 实时新闻
+# NVDA Pulse
 
-手机优先的 NVDA / 英伟达新闻时间线，每 15 分钟自动抓取更新。
+NVDA / 英伟达股东终端：手机优先，每 15 分钟自动更新。
 
 - 线上地址：https://bluesangg.github.io/nvda-news/
 - 数据源：Google News RSS（英文 + 中文）
