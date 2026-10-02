@@ -9,6 +9,7 @@ const PRICE_URL = "data/price_history.json";
 const HIST_URL = "data/company_history.json";
 const TARGETS_URL = "data/analyst_targets.json";
 const GLOSS_URL = "data/glossary.json";
+const SIG_URL = "data/signal_history.json";
 const REFRESH_MS = 5 * 60 * 1000;
 
 let currentScreen = "today";
@@ -504,9 +505,66 @@ function renderRoadmap(rm) {
           esc(it.status) + "</span></div>" +
         '<p class="rm-year num">' + esc(it.year) + "</p>" +
         '<p class="rm-note">' + escTag(it.note) + "</p>" +
+        (it.next_milestone
+          ? '<p class="rm-next">下一里程碑：' + esc(it.next_milestone.label) +
+            " · " + esc(it.next_milestone.date) + "</p>"
+          : "") +
+        (it.history && it.history.length
+          ? '<details class="rm-hist"><summary>状态时间线</summary>' +
+            it.history.map(function (h) {
+              return '<p class="rm-hist-row"><span class="num">' + esc(h.date) +
+                "</span> " + escTag(h.event) + "</p>";
+            }).join("") + "</details>"
+          : "") +
       "</div>" +
     "</div>"
   ).join("") + "</div>";
+}
+
+/* ---------- 路线图：最近里程碑倒计时 ---------- */
+function renderRmCountdown() {
+  const el = document.getElementById("rm-countdown");
+  const items = (cachedExtra && cachedExtra.roadmap && cachedExtra.roadmap.items) || [];
+  let best = null; // {chip, date, exact, label}
+  items.forEach(function (it) {
+    const nm = it.next_milestone;
+    if (!nm || !nm.date) return;
+    const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(nm.date);
+    let key, exact = false, days = null;
+    if (m) {
+      exact = true;
+      const t = new Date(+m[1], +m[2] - 1, +m[3]).getTime();
+      days = Math.round((t - Date.now()) / 86400000);
+      key = t;
+    } else {
+      const y = /^(\d{4})(?:-H([12]))?$/.exec(nm.date);
+      if (!y) return;
+      key = new Date(+y[1], y[2] === "2" ? 6 : 0, 1).getTime();
+    }
+    if (key > Date.now() - 86400000 && (!best || key < best.key)) {
+      best = { chip: it.name, label: nm.label, date: nm.date, key: key,
+               exact: exact, days: days };
+    }
+  });
+  if (!best) { el.innerHTML = ""; return; }
+  const when = best.exact
+    ? (best.days >= 0 ? "约 " + best.days + " 天" : "已到")
+    : "预计 " + best.date.replace("H1", "年上半年").replace("H2", "年下半年");
+  el.innerHTML = '<p class="rm-countdown">下一里程碑 · <b>' + esc(best.chip) +
+    " " + esc(best.label) + "</b> " + when + "</p>";
+}
+
+/* ---------- 跟踪屏 chips 导航 ---------- */
+let trackChipsInit = false;
+function initTrackChips() {
+  if (trackChipsInit) return;
+  trackChipsInit = true;
+  document.getElementById("track-chips").addEventListener("click", function (e) {
+    const b = e.target.closest(".tchip");
+    if (!b) return;
+    const sec = document.getElementById(b.dataset.sec);
+    if (sec) sec.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
 }
 
 function renderValuation(market) {
@@ -527,19 +585,91 @@ function renderValuation(market) {
       '<p class="val-sub num">现价处于52周区间 ' + pct + '% 分位' +
       (market.price != null ? ' · $' + market.price.toFixed(2) : "") + "</p>"
     : "";
-  el.innerHTML = '<div class="val-card num">' + med + bar + "</div>";
+  const sent = market.valuation_sentence
+    ? '<p class="val-sentence">' + esc(market.valuation_sentence) + "</p>"
+    : "";
+  el.innerHTML = '<div class="val-card num">' + med + bar + sent + "</div>";
+}
+
+/* ---------- 信号历史 ---------- */
+function renderSignalHistory() {
+  const el = document.getElementById("chart-signal");
+  const entries = (cachedExtra && cachedExtra.signal && cachedExtra.signal.entries) || [];
+  if (!entries.length) { el.innerHTML = TRACK_EMPTY; return; }
+  const H = 150, PT = 12, PB = 20, PL = 26, PR = 8;
+  const W = CW - PL - PR, n = entries.length;
+  const YMAX = 5;
+  const X = function (i) { return PL + (n === 1 ? W / 2 : W * i / (n - 1)); };
+  const Y = function (v) { return PT + (H - PT - PB) * (1 - (v + YMAX) / (2 * YMAX)); };
+  const vcolor = { "偏多": "#76b900", "中性": "#8a8f98", "偏空": "#ff5c5c" };
+  let s = "";
+  // verdict 背景带
+  const bands = [];
+  entries.forEach(function (e, i) {
+    const b = bands[bands.length - 1];
+    if (b && b.v === e.verdict) b.j = i; else bands.push({ v: e.verdict, i: i, j: i });
+  });
+  bands.forEach(function (b) {
+    const x0 = X(b.i) - (n === 1 ? 0 : W / (n - 1) / 2), x1 = X(b.j) + (n === 1 ? 0 : W / (n - 1) / 2);
+    s += '<rect x="' + Math.max(PL, x0).toFixed(1) + '" y="' + PT + '" width="' +
+      (Math.min(PL + W, x1) - Math.max(PL, x0)).toFixed(1) + '" height="' + (H - PT - PB) +
+      '" class="sig-band" fill="' + (vcolor[b.v] || "#8a8f98") + '"/>';
+  });
+  // 零线
+  s += '<line x1="' + PL + '" y1="' + Y(0).toFixed(1) + '" x2="' + (PL + W) +
+    '" y2="' + Y(0).toFixed(1) + '" class="grid"/>';
+  // 阶梯线
+  let d = "";
+  entries.forEach(function (e, i) {
+    const x = X(i), y = Y(Math.max(-YMAX, Math.min(YMAX, e.score)));
+    d += (i === 0 ? "M" : "L") + x.toFixed(1) + " " + y.toFixed(1) + " ";
+    if (i < n - 1) d += "L" + X(i + 1).toFixed(1) + " " + y.toFixed(1) + " ";
+  });
+  s += '<path d="' + d + '" class="sig-line"/>';
+  entries.forEach(function (e, i) {
+    s += '<circle cx="' + X(i).toFixed(1) + '" cy="' +
+      Y(Math.max(-YMAX, Math.min(YMAX, e.score))).toFixed(1) + '" r="2.6" class="sig-dot" fill="' +
+      (vcolor[e.verdict] || "#8a8f98") + '"/>';
+  });
+  // x 轴日期（稀疏标注）
+  const step = Math.max(1, Math.ceil(n / 5));
+  for (let i = 0; i < n; i += step) {
+    s += '<text x="' + X(i).toFixed(1) + '" y="' + (H - 6) +
+      '" class="xlab" text-anchor="middle">' + esc(entries[i].date.slice(5)) + "</text>";
+  }
+  const last = entries[n - 1];
+  s += '<text x="' + (PL + W) + '" y="' + (PT - 2) + '" class="xlab" text-anchor="end">最新：' +
+    esc(last.verdict) + "（" + last.score + "分）</text>";
+  el.innerHTML = chartSvg(H, s);
 }
 
 function thesisGroup(title, items, cls) {
+  const stCls = { "数据支持": "st-ok", "待验证": "st-wait", "被证伪": "st-bad" };
   const rows = items.map((it) =>
     '<details class="thesis-item"><summary>' +
       '<span class="th-title">' + escTag(it.title) + "</span>" +
       '<span class="th-tags"><span class="th-tag">' + esc(it.horizon) + "</span>" +
       '<span class="th-tag ' + (it.strength === "强" ? "strong" : "") + '">' +
-      esc(it.strength || "") + "</span></span>" +
-    "</summary><p>" + escTag(it.detail) + "</p></details>"
+      esc(it.strength || "") + "</span>" +
+      (it.status ? '<span class="th-status ' + (stCls[it.status] || "st-wait") + '">' +
+        esc(it.status) + "</span>" : "") +
+      "</span></summary><p>" + escTag(it.detail) + "</p>" +
+      (it.evidence ? '<p class="th-evidence">复核依据：' + esc(it.evidence) + "</p>" : "") +
+    "</details>"
   ).join("");
   return '<div class="thesis-col ' + cls + '"><h3>' + title + "</h3>" + rows + "</div>";
+}
+
+function renderThesis(th) {
+  const el = document.getElementById("thesis");
+  if (!th || !th.bull) { el.innerHTML = '<p class="track-empty">投资逻辑加载中…</p>'; return; }
+  const rev = document.getElementById("thesis-reviewed");
+  if (rev) rev.textContent = th.reviewed
+    ? "上次复核 " + th.reviewed + " · 每财报季复核" : "";
+  el.innerHTML = '<div class="thesis">' +
+    thesisGroup("看多 · BULL", th.bull || [], "bull") +
+    thesisGroup("看空 · BEAR", th.bear || [], "bear") +
+  "</div>";
 }
 
 function renderThesis(th) {
@@ -560,8 +690,11 @@ function renderTrack() {
   renderPE();
   renderTargets();
   renderRoadmap(cachedExtra && cachedExtra.roadmap);
+  renderRmCountdown();
   renderValuation(cachedNews && cachedNews.market);
+  renderSignalHistory();
   renderThesis(cachedExtra && cachedExtra.thesis);
+  initTrackChips();
 }
 
 /* ---------- 跟踪屏：图表 ---------- */
@@ -985,7 +1118,7 @@ async function fetchJson(url) {
 
 async function load() {
   try {
-    const [news, earnings, roadmap, thesis, financials, price, history, targets, gloss] = await Promise.all([
+    const [news, earnings, roadmap, thesis, financials, price, history, targets, gloss, signal] = await Promise.all([
       fetchJson(NEWS_URL),
       fetchJson(EARNINGS_URL).catch(() => null),
       fetchJson(ROADMAP_URL).catch(() => null),
@@ -995,9 +1128,10 @@ async function load() {
       fetchJson(HIST_URL).catch(() => null),
       fetchJson(TARGETS_URL).catch(() => null),
       fetchJson(GLOSS_URL).catch(() => null),
+      fetchJson(SIG_URL).catch(() => null),
     ]);
     cachedNews = news;
-    cachedExtra = { earnings, roadmap, thesis, financials, price, history, targets };
+    cachedExtra = { earnings, roadmap, thesis, financials, price, history, targets, signal };
     setGlossary(gloss);
     renderToday(news);
     renderNews(news);

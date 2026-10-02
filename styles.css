@@ -836,3 +836,61 @@ body.sheet-open { overflow: hidden; }
   color: var(--muted); font-size: 0.8rem; font-family: inherit;
   cursor: pointer; text-decoration: underline;
 }
+
+/* ---------- track: chips 导航 ---------- */
+.track-chips {
+  position: sticky; top: 0; z-index: 20;
+  display: flex; gap: 8px; overflow-x: auto;
+  padding: 10px 2px; margin: 0 -2px 6px;
+  background: var(--bg); -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.track-chips::-webkit-scrollbar { display: none; }
+.tchip {
+  flex: 0 0 auto; padding: 7px 14px; border-radius: 999px;
+  font-size: 0.8rem; font-weight: 600; font-family: inherit; cursor: pointer;
+  background: var(--card); color: var(--text); border: 1px solid var(--card-border);
+}
+.tchip:active { border-color: var(--green); color: var(--green); }
+
+/* ---------- track: 投资逻辑复核 ---------- */
+.track-sub { margin: -6px 2px 10px; font-size: 0.75rem; color: var(--muted); }
+.th-status {
+  font-size: 0.68rem; font-weight: 700; border-radius: 4px;
+  padding: 1px 6px; white-space: nowrap;
+}
+.th-status.st-ok { color: var(--green); border: 1px solid rgba(118, 185, 0, 0.45); }
+.th-status.st-wait { color: var(--muted); border: 1px solid var(--card-border); }
+.th-status.st-bad { color: var(--red); border: 1px solid rgba(255, 92, 92, 0.45); }
+.th-evidence { color: var(--text) !important; font-size: 0.8rem !important; }
+.th-evidence::before { content: "▸ "; color: var(--green); }
+
+/* ---------- track: 路线图时间线 ---------- */
+.rm-next { margin: 6px 0 0; font-size: 0.78rem; color: var(--green); }
+.rm-hist { margin: 8px 0 2px; }
+.rm-hist summary {
+  cursor: pointer; font-size: 0.78rem; color: var(--muted);
+  list-style: none; padding: 4px 0;
+}
+.rm-hist summary::-webkit-details-marker { display: none; }
+.rm-hist summary::before { content: "▸ "; color: var(--green); }
+.rm-hist-row { margin: 4px 0 4px 12px; font-size: 0.78rem; color: var(--muted); }
+.rm-hist-row .num { color: var(--text); font-weight: 600; margin-right: 6px; }
+.rm-countdown {
+  margin: 0 2px 10px; padding: 10px 14px;
+  background: var(--card); border: 1px solid rgba(118, 185, 0, 0.45);
+  border-radius: 10px; font-size: 0.85rem;
+}
+.rm-countdown b { color: var(--green); }
+
+/* ---------- track: 估值一句话 ---------- */
+.val-sentence {
+  margin: 12px 0 2px; padding-top: 10px;
+  border-top: 1px dashed var(--card-border);
+  font-size: 0.88rem; line-height: 1.6; color: var(--text);
+}
+
+/* ---------- track: 信号历史图 ---------- */
+.sig-band { opacity: 0.12; }
+.sig-line { fill: none; stroke: var(--text); stroke-width: 1.6; }
+.sig-dot { stroke: var(--bg); stroke-width: 1; }
