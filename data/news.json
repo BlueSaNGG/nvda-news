@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-02T18:36:28.208584+00:00",
+ "updated_at": "2026-10-02T18:51:27.043489+00:00",
  "market": {
-  "price": 234.38,
-  "change_pct": 1.52,
+  "price": 234.35,
+  "change_pct": 1.51,
   "as_of": "2026-10-02",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 46
   },
   "day_sentiment": {
-   "avg": 0.56,
-   "count": 173
+   "avg": 0.55,
+   "count": 175
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.56（173条已评分）"
+     "note": "今日新闻情绪 +0.55（175条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $234.38 vs 20日均线 $223.81"
+     "note": "现价 $234.35 vs 20日均线 $223.81"
     },
     {
      "key": "分析师动向",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 35.5,
    "ma20": 223.81,
-   "as_of": "2026-10-02T18:36:28.177977+00:00"
+   "as_of": "2026-10-02T18:51:27.034307+00:00"
   },
   "pe_ttm": 29.8,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "3b91eb36e7bf",
+   "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China - Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlhTZzZkSkdEUlZRM1lhSlFCbTJvU1BPOVRmX0RGeGlkWGU2RTBCZzdOQWJsTDlFY1g4Q1pRRFA2aVlaSDItaVpUaC1zNURkUFh1TlBzS3VqQU91Q0NqV254NXphOG1OTEpWUTVwVzA1SXVWbzVYRHVfWlBSTXV2MzlxV0dFLTZzZ2VEQ1QtMDFBa2ozWmw0ZEphUWl6bnB3OXNLU3JWNFU3MzJwcV96VFJhTWVfQWNr",
+   "source": "Ars Technica",
+   "published_at": "2026-10-02T18:39:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Ars Technica",
+     "published_at": "2026-10-02T18:39:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVlhTZzZkSkdEUlZRM1lhSlFCbTJvU1BPOVRmX0RGeGlkWGU2RTBCZzdOQWJsTDlFY1g4Q1pRRFA2aVlaSDItaVpUaC1zNURkUFh1TlBzS3VqQU91Q0NqV254NXphOG1OTEpWUTVwVzA1SXVWbzVYRHVfWlBSTXV2MzlxV0dFLTZzZ2VEQ1QtMDFBa2ozWmw0ZEphUWl6bnB3OXNLU3JWNFU3MzJwcV96VFJhTWVfQWNr"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "9e99f158f927",
    "title": "Nvidia Is Killing Its Beloved Shield TV Because It Had Too Much Memory - Gizmodo",
@@ -127,7 +144,7 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQlVuMEREdXRNY2x0Wm82TWJWalpqZ1FWZUN2c0FfNGY0Q082NmEwVHVaa2xLeW9MdDNDSEJqc2JqeEc4ZVFJZU8zQ3AtY0FLcXlCZkJTNFpuaGloZkY4R1ZYNkFrRFFxckJfc3JFeW43SDNCRFB2Ni1RdGJIRW5OMnkzRDh1TlFPTzhKSkpDa1dhM0xtQmJmRF9FVVlSVlZZ",
    "source": "Stocktwits",
    "published_at": "2026-10-02T18:15:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Stocktwits",
@@ -138,13 +155,22 @@
      "name": "TradingView",
      "published_at": "2026-10-02T18:15:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd2hONXVKSXUzWGtDaTVRdWlsWmhmNVpQVWw2OHpRSldpQTJZWU1FcTVGRXJXeXlGUGZkQjFURGFGbXNLaHp1eTR2WVlxSF84bGliUVFSTHY2QXRWdXRTUm5BNFEyTUNzVUtuRF9iNTYzZGdyakFZTUlYckR6MnlkTi1aY25pd2VtMzgyUHJvY1llb0lXT3MwdGo4OGtyX1ZqbXp3WkZLOUdTdjRkc09jTURMQUYtdW5fdFNsekduUHQzbGRUc0ZuMW1kMXk5eVVW"
+    },
+    {
+     "name": "tradingview.com",
+     "published_at": "2026-10-02T18:15:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd2hONXVKSXUzWGtDaTVRdWlsWmhmNVpQVWw2OHpRSldpQTJZWU1FcTVGRXJXeXlGUGZkQjFURGFGbXNLaHp1eTR2WVlxSF84bGliUVFSTHY2QXRWdXRTUm5BNFEyTUNzVUtuRF9iNTYzZGdyakFZTUlYckR6MnlkTi1aY25pd2VtMzgyUHJvY1llb0lXT3MwdGo4OGtyX1ZqbXp3WkZLOUdTdjRkc09jTURMQUYtdW5fdFNsekduUHQzbGRUc0ZuMW1kMXk5eVVW"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "Stephanie Link称NVDA是打折龙头股",
    "title_zh": "Hightower的Stephanie Link称NVDA是打折的龙头股",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.18,
+    "window_h": 0.6
+   }
   },
   {
    "id": "ab434ce25ceb",
@@ -185,6 +211,23 @@
    "zh_summary": "英伟达股价今日创历史新高",
    "title_zh": "英伟达股价为何今日创历史新高",
    "sentiment": 2
+  },
+  {
+   "id": "1f8c321e69dd",
+   "title": "Advanced Shader Delivery Adds Nvidia GPU Support Later This Month To Banish Shader Compilation Stutter - Digital Foundry",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS19mcEd4cExuN0FDS21PdndjSHJtN2t2SzNtQXZlZ1hLd1l4cENzQ3MxVE9aMWdOdlRTN3dqakNZaGotbGxCZU1Jeko4N0d1YmdESDJVRVJtdk1ZZ0tqRTlLeXZqSUVkb2pZMUdaMzdVOUw3QnpOMGp6Tm5pS29obFg2U2sxYjA0cG1kMWZubHRqY2NycHVqT2FGWm9mQVVPaEZORU0xRU1rdF9FazJxVjd2eFZkQzk3NEVLTTlRczF2dmhNdWlsaE1PaVJCNHNvbUo4TlJsN3ZqeHBJNEpv",
+   "source": "Digital Foundry",
+   "published_at": "2026-10-02T17:55:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Digital Foundry",
+     "published_at": "2026-10-02T17:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS19mcEd4cExuN0FDS21PdndjSHJtN2t2SzNtQXZlZ1hLd1l4cENzQ3MxVE9aMWdOdlRTN3dqakNZaGotbGxCZU1Jeko4N0d1YmdESDJVRVJtdk1ZZ0tqRTlLeXZqSUVkb2pZMUdaMzdVOUw3QnpOMGp6Tm5pS29obFg2U2sxYjA0cG1kMWZubHRqY2NycHVqT2FGWm9mQVVPaEZORU0xRU1rdF9FazJxVjd2eFZkQzk3NEVLTTlRczF2dmhNdWlsaE1PaVJCNHNvbUo4TlJsN3ZqeHBJNEpv"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "2e609d088abf",
@@ -237,10 +280,15 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3VIdkxDU3VDYjk2RnF5WEdXc3hmT3FZTEt1Ny1FNzFNenZBVkdMZGV2NVZsaEl0QWdrQm9jaG85VGMwTUtxUjF5aFBNenJJTnVzZzFzUmdjRG1oWnlxT3R5c0FfdjNxMVZybldhSlFyMWFQNTVGQ0htY2luVUJvZWVqWGhoZ2VEUzJaM2FvOWpBdzBmd09yUk9B",
    "source": "CNBC",
    "published_at": "2026-10-02T17:13:18+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "CNBC",
+     "published_at": "2026-10-02T17:13:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3VIdkxDU3VDYjk2RnF5WEdXc3hmT3FZTEt1Ny1FNzFNenZBVkdMZGV2NVZsaEl0QWdrQm9jaG85VGMwTUtxUjF5aFBNenJJTnVzZzFzUmdjRG1oWnlxT3R5c0FfdjNxMVZybldhSlFyMWFQNTVGQ0htY2luVUJvZWVqWGhoZ2VEUzJaM2FvOWpBdzBmd09yUk9B"
+    },
+    {
+     "name": "cnbc.com",
      "published_at": "2026-10-02T17:13:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3VIdkxDU3VDYjk2RnF5WEdXc3hmT3FZTEt1Ny1FNzFNenZBVkdMZGV2NVZsaEl0QWdrQm9jaG85VGMwTUtxUjF5aFBNenJJTnVzZzFzUmdjRG1oWnlxT3R5c0FfdjNxMVZybldhSlFyMWFQNTVGQ0htY2luVUJvZWVqWGhoZ2VEUzJaM2FvOWpBdzBmd09yUk9B"
     }
@@ -257,7 +305,7 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWxOTWU2c09XWWZwbEotYjRoeGpaQjRTTGNVczY1UjQwMlhMM3dlOXNCTWhPM1NmWFZlOTg4TE1LdWF0RDdUN2g4UjJGQjZVcWUwZnpMNTBETnJfcGpVR20waEpqeC1xZHRmc3prTEFyRXFjRWlDQkdPUkMzSDJqZ3ZpQ0lMNkFCOUpPQVNOVE1aRTdKSFJ2S3lTYw",
    "source": "GuruFocus",
    "published_at": "2026-10-02T17:01:55+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "GuruFocus",
@@ -273,10 +321,16 @@
      "name": "TradingView",
      "published_at": "2026-10-02T17:41:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT2JyakRRREpQbUllTmc1MUlWbGFMU2dQZEk4c3lpXzVVM2dTMUVyamRRN0tVQzN0X3pNOUhuRlRKMFZlUkdpVUNmYVg2SEY3VERuNXlvOE5TRWd1MW9GeXVBM0ZYNU5rN3JrSjFGX1AzVnNMak50Z3VyQks0c2FwSEczWjIwRDlfal9OU3d0dGlDUGxMcjVWS3RYZTBrQ3BSQkNDbURJZE1pV2pMektDRmRpY1VZWTg"
+    },
+    {
+     "name": "tradingview.com",
+     "published_at": "2026-10-02T17:41:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT2JyakRRREpQbUllTmc1MUlWbGFMU2dQZEk4c3lpXzVVM2dTMUVyamRRN0tVQzN0X3pNOUhuRlRKMFZlUkdpVUNmYVg2SEY3VERuNXlvOE5TRWd1MW9GeXVBM0ZYNU5rN3JrSjFGX1AzVnNMak50Z3VyQks0c2FwSEczWjIwRDlfal9OU3d0dGlDUGxMcjVWS3RYZTBrQ3BSQkNDbURJZE1pV2pMektDRmRpY1VZWTg"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "AI增长强劲，英伟达股价创历史新高",
    "title_zh": "AI增长强劲推动英伟达股价创历史新高",
    "sentiment": 1,
@@ -506,7 +560,7 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEJjOVMyd0NNZ2F3M3ZfaVJLU0xOQkFBRmNaQ0tjSFBIUTVHNWxsQU9XSWwxalNuVEpiOUJsblhfMlNFek9TRmlQUDJPMDM4T3IzVDRkZDJNejd6aHZGOWJ2bDcwaVdPYWxuT0JQcFZlUXE5aDlLd2lHUVBlMjRjMFBYcTljRXdGMmtsRTdGQ2VDU1psVjhvbjVUSE5lZ0w0bTd2QzNn",
    "source": "GuruFocus",
    "published_at": "2026-10-02T16:21:55+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "GuruFocus",
@@ -522,10 +576,16 @@
      "name": "Yahoo! Finance Canada",
      "published_at": "2026-10-02T17:13:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVQWxRVGVsMmtKaERvTS1TVDBnanhsak1JYlFWR0MzbjZFd2I4TnJ5aGk1dTdaOFJ6QnJsUGxMM3M1QTNHenFONkFGMjR5LXBJaUJvM01KRHFNVzZ0LThUYjh0eFZxT0ZBeXlIVkF2RENielpHSEc3aUdSUWs"
+    },
+    {
+     "name": "tradingview.com",
+     "published_at": "2026-10-02T17:13:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTnlPV2oyb0NWU3BOX1ZTMmE5dnVmMWJKRHQxUTNQZjhqcDhyZzJBa2c0NWpjTlY0NThCZm42M1FfallSdk4xMl9lSlV1aVhmUG5ua2FWMnRzelJZckNTakxwbjg5Tl9NU1lwaV84aEx3eEtPVm03Q2pvOVJld0p6VENYM1NuVGZNMTlSbTI0YnFNbU50c0U1R0xHTDdJUzhLWGQ4NEJaTnFrSjVGTVEwXzVFT00ycU9yaUNWUUVPa2x5M3Bq"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "摩根士丹利恢复英伟达首选股评级",
    "title_zh": "摩根士丹利恢复英伟达为首选股，股价上涨2.6%",
    "sentiment": 1,
@@ -923,31 +983,6 @@
    "sentiment": 1
   },
   {
-   "id": "557954e63894",
-   "title": "Options Action: Nvidia hits fresh high - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1RJdWhwMEF6TWVSODF2bnBKTUpRa0s0VGNfa0dXNEtXNS16ZVctaTRKVk45R3lNRnBzaHVGOWRVSENNQ2NXNW95RGdhVnJEdTRwVlBkVW8yOUE5aTJRZ3dXMExTODJ2elAyOTl6N0YxdW1FU0ZYRFV5OHQ4ck10WFM0R3VtaUE",
-   "source": "CNBC",
-   "published_at": "2026-10-02T15:07:53+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-02T15:07:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1RJdWhwMEF6TWVSODF2bnBKTUpRa0s0VGNfa0dXNEtXNS16ZVctaTRKVk45R3lNRnBzaHVGOWRVSENNQ2NXNW95RGdhVnJEdTRwVlBkVW8yOUE5aTJRZ3dXMExTODJ2elAyOTl6N0YxdW1FU0ZYRFV5OHQ4ck10WFM0R3VtaUE"
-    },
-    {
-     "name": "cnbc.com",
-     "published_at": "2026-10-02T15:07:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1RJdWhwMEF6TWVSODF2bnBKTUpRa0s0VGNfa0dXNEtXNS16ZVctaTRKVk45R3lNRnBzaHVGOWRVSENNQ2NXNW95RGdhVnJEdTRwVlBkVW8yOUE5aTJRZ3dXMExTODJ2elAyOTl6N0YxdW1FU0ZYRFV5OHQ4ck10WFM0R3VtaUE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达股价再创新高",
-   "title_zh": "期权观察：英伟达再创新高",
-   "sentiment": 1
-  },
-  {
    "id": "db3e2d62def7",
    "title": "CoreWeave Unleashes Nvidia's Vera Rubin, Analyst Sees Room to Run - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS19TZUtZUnZ5QVZNWUJmWDR6enJJZk5SWWo0dlZFckxfVktDMkNUQVF6UHI0VkQ4eEhwRm9OX1VWbHVORFdOazU2X29Oc0xrS1lXc3pkVlpCa1pObW5xUUJJbEdQMGh1XzVhLTV0S0dqQXdJa3RqSFFvbkI5RGRjMk5LcmZhUlJPMVBYNlUydkZrbU5obHhwZkVBRGpUWC1hdlZKbTN4QWpZX21qalNPRExvSUVLZ081NEk1RkJFZEhSbDdRYjdXRnhOTWZBQ1Z2aEtER2xR",
@@ -1160,6 +1195,31 @@
    "zh_summary": "英伟达Shield TV Pro涨价100美元",
    "title_zh": "英伟达Shield TV Pro时隔七年涨价100美元",
    "sentiment": 0
+  },
+  {
+   "id": "557954e63894",
+   "title": "Options Action: Nvidia hits fresh high - cnbc.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1RJdWhwMEF6TWVSODF2bnBKTUpRa0s0VGNfa0dXNEtXNS16ZVctaTRKVk45R3lNRnBzaHVGOWRVSENNQ2NXNW95RGdhVnJEdTRwVlBkVW8yOUE5aTJRZ3dXMExTODJ2elAyOTl6N0YxdW1FU0ZYRFV5OHQ4ck10WFM0R3VtaUE",
+   "source": "cnbc.com",
+   "published_at": "2026-10-02T14:43:14+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "cnbc.com",
+     "published_at": "2026-10-02T14:43:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1RJdWhwMEF6TWVSODF2bnBKTUpRa0s0VGNfa0dXNEtXNS16ZVctaTRKVk45R3lNRnBzaHVGOWRVSENNQ2NXNW95RGdhVnJEdTRwVlBkVW8yOUE5aTJRZ3dXMExTODJ2elAyOTl6N0YxdW1FU0ZYRFV5OHQ4ck10WFM0R3VtaUE"
+    },
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-02T15:07:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1RJdWhwMEF6TWVSODF2bnBKTUpRa0s0VGNfa0dXNEtXNS16ZVctaTRKVk45R3lNRnBzaHVGOWRVSENNQ2NXNW95RGdhVnJEdTRwVlBkVW8yOUE5aTJRZ3dXMExTODJ2elAyOTl6N0YxdW1FU0ZYRFV5OHQ4ck10WFM0R3VtaUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "英伟达股价再创新高",
+   "title_zh": "期权观察：英伟达再创新高",
+   "sentiment": 1
   },
   {
    "id": "0d751360545b",
@@ -7921,65 +7981,6 @@
    "zh_summary": "多家巨头获分析师评级更新",
    "title_zh": "周四重磅分析师评级：英伟达、苹果、网飞、美光等",
    "sentiment": 0
-  },
-  {
-   "id": "89bd17132ea4",
-   "title": "Cantor Fitzgerald Reaffirms \"Overweight\" Rating for NVIDIA (NASDAQ:NVDA) - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUnU1c00yQ0E4VmZnRTd0T2hrMDZENW9JVTFzQm16d3dsNktiOFNSUnZQU0s0VlpUV3plMVVCalhfVHNzYlEwZVpkZFJpc3VPNHNpcEdISnpzZHNmMVNxbUFCNzZyaHdmT0kyX0lEZGFSaWtjd0RtYW5maDF5LVkyMHdCQVNldXdTU0NvaUdBV3RuWEozX3NaOWY0YnlXclppWFdmbl9HcjNDMXlsblh1ODRJdUdBamFDQUR4ZnZua0dWYU4wd1lfUkwydw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-01T12:18:05+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-01T12:18:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUnU1c00yQ0E4VmZnRTd0T2hrMDZENW9JVTFzQm16d3dsNktiOFNSUnZQU0s0VlpUV3plMVVCalhfVHNzYlEwZVpkZFJpc3VPNHNpcEdISnpzZHNmMVNxbUFCNzZyaHdmT0kyX0lEZGFSaWtjd0RtYW5maDF5LVkyMHdCQVNldXdTU0NvaUdBV3RuWEozX3NaOWY0YnlXclppWFdmbl9HcjNDMXlsblh1ODRJdUdBamFDQUR4ZnZua0dWYU4wd1lfUkwydw"
-    },
-    {
-     "name": "marketbeat.com",
-     "published_at": "2026-10-01T12:18:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUnU1c00yQ0E4VmZnRTd0T2hrMDZENW9JVTFzQm16d3dsNktiOFNSUnZQU0s0VlpUV3plMVVCalhfVHNzYlEwZVpkZFJpc3VPNHNpcEdISnpzZHNmMVNxbUFCNzZyaHdmT0kyX0lEZGFSaWtjd0RtYW5maDF5LVkyMHdCQVNldXdTU0NvaUdBV3RuWEozX3NaOWY0YnlXclppWFdmbl9HcjNDMXlsblh1ODRJdUdBamFDQUR4ZnZua0dWYU4wd1lfUkwydw"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "Cantor重申英伟达增持评级",
-   "title_zh": "Cantor Fitzgerald重申英伟达增持评级",
-   "sentiment": 1
-  },
-  {
-   "id": "a3ee474aed45",
-   "title": "NVIDIA Soars 17% in Three Months: Should Investors Buy the Stock? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1pac2VrS3pVcHJhZWlhaDVKYWhoNHdpQ2VQQXRtQ1pxVnJKZ3YxNFJhR1ZVTG50N0ZZSWJ1Q3NIMU9uNGxRaVpmYjhyU0NGTHRNTWdQM2tHTXQ0LUZZM3ZrMTZuT25HVjR1eFA1RDEtak9TQlZXNlcyQVNsTFMzQ1MzeTFHbXRMQnZxZ0NLWXNWQkZVb0hmSw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-01T11:54:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-01T11:54:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1pac2VrS3pVcHJhZWlhaDVKYWhoNHdpQ2VQQXRtQ1pxVnJKZ3YxNFJhR1ZVTG50N0ZZSWJ1Q3NIMU9uNGxRaVpmYjhyU0NGTHRNTWdQM2tHTXQ0LUZZM3ZrMTZuT25HVjR1eFA1RDEtak9TQlZXNlcyQVNsTFMzQ1MzeTFHbXRMQnZxZ0NLWXNWQkZVb0hmSw"
-    },
-    {
-     "name": "Zacks Investment Research",
-     "published_at": "2026-10-01T11:54:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1pac2VrS3pVcHJhZWlhaDVKYWhoNHdpQ2VQQXRtQ1pxVnJKZ3YxNFJhR1ZVTG50N0ZZSWJ1Q3NIMU9uNGxRaVpmYjhyU0NGTHRNTWdQM2tHTXQ0LUZZM3ZrMTZuT25HVjR1eFA1RDEtak9TQlZXNlcyQVNsTFMzQ1MzeTFHbXRMQnZxZ0NLWXNWQkZVb0hmSw"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-01T11:54:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1pac2VrS3pVcHJhZWlhaDVKYWhoNHdpQ2VQQXRtQ1pxVnJKZ3YxNFJhR1ZVTG50N0ZZSWJ1Q3NIMU9uNGxRaVpmYjhyU0NGTHRNTWdQM2tHTXQ0LUZZM3ZrMTZuT25HVjR1eFA1RDEtak9TQlZXNlcyQVNsTFMzQ1MzeTFHbXRMQnZxZ0NLWXNWQkZVb0hmSw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达三个月股价上涨17%",
-   "title_zh": "英伟达三个月涨17%，投资者该买入吗",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.12,
-    "window_h": 2.0
-   }
   }
  ]
 }
