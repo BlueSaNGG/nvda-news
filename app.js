@@ -4,6 +4,10 @@ const NEWS_URL = "data/news.json";
 const EARNINGS_URL = "data/earnings.json";
 const ROADMAP_URL = "data/roadmap.json";
 const THESIS_URL = "data/thesis.json";
+const FIN_URL = "data/financials_annual.json";
+const PRICE_URL = "data/price_history.json";
+const HIST_URL = "data/company_history.json";
+const TARGETS_URL = "data/analyst_targets.json";
 const REFRESH_MS = 5 * 60 * 1000;
 
 let currentScreen = "today";
@@ -458,9 +462,332 @@ function renderThesis(th) {
 
 function renderTrack() {
   renderEarnings(cachedExtra && cachedExtra.earnings);
+  renderFinCharts();
+  renderCompany(cachedExtra && cachedExtra.history);
+  renderPriceCtl();
+  renderPriceChart();
+  renderPE();
+  renderTargets();
   renderRoadmap(cachedExtra && cachedExtra.roadmap);
   renderValuation(cachedNews && cachedNews.market);
   renderThesis(cachedExtra && cachedExtra.thesis);
+}
+
+/* ---------- 跟踪屏：图表 ---------- */
+const CW = 360;
+const TRACK_EMPTY = '<p class="track-empty">图表数据加载中…</p>';
+
+function qShort(q) {
+  return String(q).replace(" FY20", "'").replace(" FY19", "'");
+}
+
+function fmtTick(v, unit) {
+  if (unit === "%") return v.toFixed(1) + "%";
+  if (unit === "$") return "$" + (v >= 100 ? Math.round(v) : v.toFixed(2));
+  if (unit === "x") return (v >= 100 ? Math.round(v) : v.toFixed(1)) + "x";
+  if (unit === "B") return "$" + v.toFixed(1) + "B";
+  return String(Math.round(v * 10) / 10);
+}
+
+function chartSvg(h, inner) {
+  return '<svg viewBox="0 0 ' + CW + " " + h + '" class="csvg" role="img">' +
+    inner + "</svg>";
+}
+
+/* 通用折线图：data=[{label, v}]，v 可为 null */
+function renderLine(elId, data, o) {
+  o = o || {};
+  const el = document.getElementById(elId);
+  const t = o.log ? function (v) { return Math.log10(v); }
+                  : function (v) { return v; };
+  const inv = o.log ? function (v) { return Math.pow(10, v); }
+                    : function (v) { return v; };
+  const vals = data.map(function (d) { return d.v; })
+    .filter(function (v) { return v != null && (!o.log || v > 0); });
+  if (!vals.length) { el.innerHTML = TRACK_EMPTY; return; }
+  let lo = o.ymin != null ? o.ymin : Math.min.apply(null, vals);
+  let hi = o.ymax != null ? o.ymax : Math.max.apply(null, vals);
+  if (hi <= lo) hi = lo + 1;
+  const pad = (t(hi) - t(lo)) * 0.14 || 1;
+  const tlo = t(lo) - pad, thi = t(hi) + pad;
+  const H = o.h || 150, PT = 8, PB = 18, PL = 36, PR = 8;
+  const W = CW - PL - PR, n = data.length;
+  const X = function (i) { return PL + W * (n === 1 ? 0.5 : i / (n - 1)); };
+  const Y = function (v) { return PT + (H - PT - PB) * (1 - (t(v) - tlo) / (thi - tlo)); };
+  let s = "";
+  for (let g = 0; g <= 3; g++) {
+    const tv = tlo + (thi - tlo) * g / 3, y = Y(inv(tv));
+    s += '<line x1="' + PL + '" y1="' + y.toFixed(1) + '" x2="' + (PL + W) +
+      '" y2="' + y.toFixed(1) + '" class="grid"/>' +
+      '<text x="' + (PL - 4) + '" y="' + (y + 3).toFixed(1) +
+      '" class="ylab" text-anchor="end">' + fmtTick(inv(tv), o.unit) + "</text>";
+  }
+  let d = "", started = false;
+  data.forEach(function (p, i) {
+    if (p.v == null || (o.log && p.v <= 0)) { started = false; return; }
+    d += (started ? "L" : "M") + X(i).toFixed(1) + " " + Y(p.v).toFixed(1) + " ";
+    started = true;
+  });
+  s += '<path d="' + d + '" class="cline" stroke="' + (o.color || "#76b900") + '"/>';
+  if (n <= 30) {
+    data.forEach(function (p, i) {
+      if (p.v == null || (o.log && p.v <= 0)) return;
+      s += '<circle cx="' + X(i).toFixed(1) + '" cy="' + Y(p.v).toFixed(1) +
+        '" r="2.2" class="cdot"/>';
+    });
+  }
+  const step = Math.max(1, Math.ceil(n / 5));
+  for (let i = 0; i < n; i += step) {
+    s += '<text x="' + X(i).toFixed(1) + '" y="' + (H - 5) +
+      '" class="xlab" text-anchor="middle">' + esc(data[i].label) + "</text>";
+  }
+  el.innerHTML = chartSvg(H, s);
+}
+
+/* 通用柱状图：data=[{label, v, top}]，top 为柱顶文字 */
+function renderBars(elId, data, o) {
+  o = o || {};
+  const el = document.getElementById(elId);
+  const vals = data.map(function (d) { return d.v; })
+    .filter(function (v) { return v != null; });
+  if (!vals.length) { el.innerHTML = TRACK_EMPTY; return; }
+  const hi = Math.max.apply(null, vals) * 1.18;
+  const H = o.h || 160, PT = 16, PB = 18, PL = 30, PR = 6;
+  const W = CW - PL - PR, n = data.length;
+  const bw = W / n;
+  const X = function (i) { return PL + bw * i + bw * 0.5; };
+  const Y = function (v) { return PT + (H - PT - PB) * (1 - v / hi); };
+  let s = "";
+  for (let g = 0; g <= 2; g++) {
+    const v = hi * g / 2, y = Y(v);
+    s += '<line x1="' + PL + '" y1="' + y.toFixed(1) + '" x2="' + (PL + W) +
+      '" y2="' + y.toFixed(1) + '" class="grid"/>' +
+      '<text x="' + (PL - 4) + '" y="' + (y + 3).toFixed(1) +
+      '" class="ylab" text-anchor="end">' + fmtTick(v, o.unit) + "</text>";
+  }
+  data.forEach(function (p, i) {
+    if (p.v == null) return;
+    const x = X(i), y = Y(p.v), w = Math.min(34, bw * 0.62);
+    s += '<rect x="' + (x - w / 2).toFixed(1) + '" y="' + y.toFixed(1) +
+      '" width="' + w.toFixed(1) + '" height="' + (H - PB - y).toFixed(1) +
+      '" class="cbar"/>';
+    if (p.top) {
+      s += '<text x="' + x.toFixed(1) + '" y="' + (y - 4).toFixed(1) +
+        '" class="toplab" text-anchor="middle">' + esc(p.top) + "</text>";
+    }
+  });
+  const step = Math.max(1, Math.ceil(n / 6));
+  for (let i = 0; i < n; i += step) {
+    s += '<text x="' + X(i).toFixed(1) + '" y="' + (H - 5) +
+      '" class="xlab" text-anchor="middle">' + esc(data[i].label) + "</text>";
+  }
+  el.innerHTML = chartSvg(H, s);
+}
+
+function chronoQuarters() {
+  const qs = (cachedExtra && cachedExtra.earnings && cachedExtra.earnings.quarters) || [];
+  return qs.slice().reverse();
+}
+
+function renderFinCharts() {
+  const qs = chronoQuarters();
+  if (!qs.length) return;
+  renderLine("chart-gm", qs.map(function (q) {
+    return { label: qShort(q.quarter), v: q.gm_pct };
+  }), { h: 140, unit: "%" });
+  renderBars("chart-dc", qs.map(function (q) {
+    return {
+      label: qShort(q.quarter), v: q.dc_revenue_b,
+      top: q.dc_yoy_pct != null ? "+" + q.dc_yoy_pct + "%" : ""
+    };
+  }), { h: 160, unit: "B" });
+  // 营收 vs 上季指引
+  var rg = qs.map(function (q, i) {
+    return {
+      label: qShort(q.quarter), v: q.revenue_b,
+      guide: i > 0 && qs[i - 1].guidance_next_q_b != null
+        ? qs[i - 1].guidance_next_q_b : null
+    };
+  });
+  (function () {
+    const el = document.getElementById("chart-revguide");
+    const vals = [];
+    rg.forEach(function (p) {
+      if (p.v != null) vals.push(p.v);
+      if (p.guide != null) vals.push(p.guide);
+    });
+    if (!vals.length) { el.innerHTML = TRACK_EMPTY; return; }
+    const hi = Math.max.apply(null, vals) * 1.15;
+    const H = 160, PT = 10, PB = 18, PL = 30, PR = 6;
+    const W = CW - PL - PR, n = rg.length, bw = W / n;
+    const X = function (i) { return PL + bw * i + bw * 0.5; };
+    const Y = function (v) { return PT + (H - PT - PB) * (1 - v / hi); };
+    let s = "";
+    for (let g = 0; g <= 2; g++) {
+      const v = hi * g / 2, y = Y(v);
+      s += '<line x1="' + PL + '" y1="' + y.toFixed(1) + '" x2="' + (PL + W) +
+        '" y2="' + y.toFixed(1) + '" class="grid"/>' +
+        '<text x="' + (PL - 4) + '" y="' + (y + 3).toFixed(1) +
+        '" class="ylab" text-anchor="end">' + fmtTick(v, "B") + "</text>";
+    }
+    rg.forEach(function (p, i) {
+      if (p.v == null) return;
+      const x = X(i), y = Y(p.v), w = Math.min(30, bw * 0.58);
+      s += '<rect x="' + (x - w / 2).toFixed(1) + '" y="' + y.toFixed(1) +
+        '" width="' + w.toFixed(1) + '" height="' + (H - PB - y).toFixed(1) +
+        '" class="cbar"/>';
+      if (p.guide != null) {
+        const gy = Y(p.guide);
+        s += '<line x1="' + (x - w / 2 - 4).toFixed(1) + '" y1="' + gy.toFixed(1) +
+          '" x2="' + (x + w / 2 + 4).toFixed(1) + '" y2="' + gy.toFixed(1) +
+          '" class="guide-line"/>';
+      }
+    });
+    const step = Math.max(1, Math.ceil(n / 6));
+    for (let i = 0; i < n; i += step) {
+      s += '<text x="' + X(i).toFixed(1) + '" y="' + (H - 5) +
+        '" class="xlab" text-anchor="middle">' + esc(rg[i].label) + "</text>";
+    }
+    s += '<g class="legend"><rect x="' + PL + '" y="2" width="10" height="8" class="cbar"/>' +
+      '<text x="' + (PL + 14) + '" y="9" class="xlab">实际营收</text>' +
+      '<line x1="' + (PL + 84) + '" y1="6" x2="' + (PL + 100) + '" y2="6" class="guide-line"/>' +
+      '<text x="' + (PL + 104) + '" y="9" class="xlab">上季指引</text></g>';
+    el.innerHTML = chartSvg(H, s);
+  })();
+}
+
+/* ---------- 全历史股价 ---------- */
+let priceRange = "all", priceLog = false;
+
+function renderPriceCtl() {
+  const el = document.getElementById("price-ctl");
+  const ranges = [["all", "全部"], ["10", "10年"], ["5", "5年"], ["2", "2年"], ["1", "1年"]];
+  el.innerHTML = ranges.map(function (r) {
+    return '<button class="pctl' + (priceRange === r[0] ? " active" : "") +
+      '" data-r="' + r[0] + '">' + r[1] + "</button>";
+  }).join("") + '<button class="pctl' + (priceLog ? " active" : "") +
+    '" data-r="log">对数</button>';
+  el.querySelectorAll(".pctl").forEach(function (b) {
+    b.addEventListener("click", function () {
+      const r = b.dataset.r;
+      if (r === "log") priceLog = !priceLog; else priceRange = r;
+      renderPriceCtl();
+      renderPriceChart();
+    });
+  });
+}
+
+function renderPriceChart() {
+  const el = document.getElementById("chart-price");
+  const all = (cachedExtra && cachedExtra.price && cachedExtra.price.points) || [];
+  if (!all.length) { el.innerHTML = TRACK_EMPTY; return; }
+  let data = all;
+  if (priceRange !== "all") {
+    const months = parseInt(priceRange, 10) * 12;
+    const lm = all[all.length - 1].m.split("-");
+    let cy = parseInt(lm[0], 10), cm = parseInt(lm[1], 10) - months;
+    while (cm <= 0) { cm += 12; cy -= 1; }
+    const cutoff = cy + "-" + String(cm).padStart(2, "0");
+    data = all.filter(function (p) { return p.m >= cutoff; });
+  }
+  renderLine("chart-price", data.map(function (p) {
+    return { label: p.m.slice(2), v: p.c };
+  }), { h: 170, unit: "$", log: priceLog, color: "#76b900" });
+}
+
+/* ---------- TTM P/E ---------- */
+function renderPE() {
+  const fin = (cachedExtra && cachedExtra.financials && cachedExtra.financials.years) || [];
+  const epsMap = {};
+  fin.forEach(function (y) {
+    if (y.eps_gaap != null && y.eps_gaap > 0) epsMap[y.fy] = y.eps_gaap;
+  });
+  // FY2027 TTM：近 4 季 GAAP 净利润 / 最新稀释股数
+  const eq = (cachedExtra && cachedExtra.earnings && cachedExtra.earnings.quarters) || [];
+  const ttmNames = ["Q3 FY2026", "Q4 FY2026", "Q1 FY2027", "Q2 FY2027"];
+  let ttmNI = 0, ok = true;
+  ttmNames.forEach(function (nm) {
+    const q = eq.filter(function (x) { return x.quarter === nm; })[0];
+    if (!q || q.net_income_b == null) ok = false; else ttmNI += q.net_income_b;
+  });
+  const ttmEPS = ok ? ttmNI / 24.285 : null; // Q2 FY2027 稀释股数 24.285B
+  const pts = ((cachedExtra && cachedExtra.price && cachedExtra.price.points) || [])
+    .filter(function (p) { return p.m >= "2010-02"; })
+    .map(function (p) {
+      const sp = p.m.split("-"), y = parseInt(sp[0], 10), mo = parseInt(sp[1], 10);
+      const fy = mo >= 2 ? y + 1 : y; // 财年：2月–次年1月
+      const eps = fy >= 2027 ? ttmEPS : epsMap[fy];
+      return { label: p.m.slice(2), v: eps ? p.c / eps : null };
+    });
+  renderLine("chart-pe", pts, { h: 150, unit: "x", ymin: 0, color: "#4cc3ff" });
+}
+
+/* ---------- 分析师目标价散点 ---------- */
+function renderTargets() {
+  const el = document.getElementById("chart-targets");
+  const ts = ((cachedExtra && cachedExtra.targets && cachedExtra.targets.targets) || [])
+    .filter(function (t) { return t.target_num > 0 && t.date; })
+    .sort(function (a, b) { return new Date(a.date) - new Date(b.date); });
+  if (ts.length < 2) { el.innerHTML = TRACK_EMPTY; return; }
+  const t0 = new Date(ts[0].date).getTime(), t1 = new Date(ts[ts.length - 1].date).getTime();
+  const span = Math.max(1, t1 - t0);
+  const vs = ts.map(function (t) { return t.target_num; });
+  let lo = Math.min.apply(null, vs), hi = Math.max.apply(null, vs);
+  const cur = cachedExtra && cachedNews && cachedNews.market && cachedNews.market.price;
+  if (cur) { lo = Math.min(lo, cur); hi = Math.max(hi, cur); }
+  const pad = (hi - lo) * 0.15 || 1;
+  lo -= pad; hi += pad;
+  const H = 190, PT = 10, PB = 18, PL = 36, PR = 10;
+  const W = CW - PL - PR;
+  const X = function (t) { return PL + W * (new Date(t.date).getTime() - t0) / span; };
+  const Y = function (v) { return PT + (H - PT - PB) * (1 - (v - lo) / (hi - lo)); };
+  let s = "";
+  for (let g = 0; g <= 3; g++) {
+    const v = lo + (hi - lo) * g / 3, y = Y(v);
+    s += '<line x1="' + PL + '" y1="' + y.toFixed(1) + '" x2="' + (PL + W) +
+      '" y2="' + y.toFixed(1) + '" class="grid"/>' +
+      '<text x="' + (PL - 4) + '" y="' + (y + 3).toFixed(1) +
+      '" class="ylab" text-anchor="end">' + fmtTick(v, "$") + "</text>";
+  }
+  if (cur) {
+    const y = Y(cur);
+    s += '<line x1="' + PL + '" y1="' + y.toFixed(1) + '" x2="' + (PL + W) +
+      '" y2="' + y.toFixed(1) + '" class="cur-line"/>' +
+      '<text x="' + (PL + W) + '" y="' + (y - 4).toFixed(1) +
+      '" class="xlab cur-lab" text-anchor="end">现价 $' + cur.toFixed(0) + "</text>";
+  }
+  ts.forEach(function (t, i) {
+    const x = X(t), y = Y(t.target_num);
+    s += '<circle cx="' + x.toFixed(1) + '" cy="' + y.toFixed(1) +
+      '" r="3.4" class="tdot"/>' +
+      '<text x="' + x.toFixed(1) + '" y="' + (y + (i % 2 ? 13 : -7)).toFixed(1) +
+      '" class="tlab" text-anchor="middle">' + esc(t.firm) + " $" +
+      t.target_num.toFixed(0) + "</text>";
+  });
+  const d0 = new Date(t0), d1 = new Date(t1);
+  const f = function (d) { return (d.getMonth() + 1) + "/" + d.getDate(); };
+  s += '<text x="' + PL + '" y="' + (H - 5) + '" class="xlab">' + f(d0) + "</text>" +
+    '<text x="' + (PL + W) + '" y="' + (H - 5) + '" class="xlab" text-anchor="end">' +
+    f(d1) + "</text>";
+  el.innerHTML = chartSvg(H, s);
+}
+
+/* ---------- 公司史 ---------- */
+function renderCompany(h) {
+  const el = document.getElementById("company");
+  if (!h || !h.milestones) { el.innerHTML = TRACK_EMPTY; return; }
+  const ceo = h.ceo || {};
+  let html = '<div class="ceo-card"><p class="ceo-eyebrow">CEO · 创始人</p>' +
+    '<p class="ceo-name">' + esc(ceo.name || "") +
+    (ceo.name_en ? ' <span class="ceo-en">' + esc(ceo.name_en) + "</span>" : "") + "</p>" +
+    '<p class="ceo-desc">' + esc(ceo.desc || "") + "</p></div>";
+  html += '<div class="hist">' + h.milestones.map(function (m) {
+    return '<div class="hist-item"><span class="hist-dot"></span><div class="hist-body">' +
+      '<p class="hist-date num">' + esc(m.date) + '</p>' +
+      '<p class="hist-title">' + esc(m.title) + '</p>' +
+      '<p class="hist-desc">' + esc(m.desc) + "</p></div></div>";
+  }).join("") + "</div>";
+  el.innerHTML = html;
 }
 
 /* ---------- load ---------- */
@@ -472,14 +799,18 @@ async function fetchJson(url) {
 
 async function load() {
   try {
-    const [news, earnings, roadmap, thesis] = await Promise.all([
+    const [news, earnings, roadmap, thesis, financials, price, history, targets] = await Promise.all([
       fetchJson(NEWS_URL),
       fetchJson(EARNINGS_URL).catch(() => null),
       fetchJson(ROADMAP_URL).catch(() => null),
       fetchJson(THESIS_URL).catch(() => null),
+      fetchJson(FIN_URL).catch(() => null),
+      fetchJson(PRICE_URL).catch(() => null),
+      fetchJson(HIST_URL).catch(() => null),
+      fetchJson(TARGETS_URL).catch(() => null),
     ]);
     cachedNews = news;
-    cachedExtra = { earnings, roadmap, thesis };
+    cachedExtra = { earnings, roadmap, thesis, financials, price, history, targets };
     renderToday(news);
     renderNews(news);
     renderTrack();

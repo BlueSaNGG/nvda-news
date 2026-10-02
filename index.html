@@ -76,6 +76,37 @@
     <div class="wrap">
       <p class="eyebrow">EARNINGS · 财报跟踪</p>
       <div id="earnings"></div>
+      <div class="chart-block">
+        <h3>毛利率趋势 <span class="chart-sub">季度 · non-GAAP</span></h3>
+        <div id="chart-gm" class="chart"></div>
+      </div>
+      <div class="chart-block">
+        <h3>数据中心营收 <span class="chart-sub">季度 · 柱上为同比</span></h3>
+        <div id="chart-dc" class="chart"></div>
+      </div>
+      <div class="chart-block">
+        <h3>营收 vs 上季指引 <span class="chart-sub">绿线为财报时给出的下季指引</span></h3>
+        <div id="chart-revguide" class="chart"></div>
+      </div>
+
+      <p class="eyebrow">HISTORY · 公司史</p>
+      <div id="company"></div>
+      <div class="chart-block">
+        <h3>股价全历史 <span class="chart-sub">月线 · 2006年10月起</span></h3>
+        <div class="chart-ctl" id="price-ctl"></div>
+        <div id="chart-price" class="chart"></div>
+      </div>
+      <div class="chart-block">
+        <h3>TTM 市盈率 <span class="chart-sub">月收盘 ÷ 财年GAAP EPS</span></h3>
+        <div id="chart-pe" class="chart"></div>
+        <p class="chart-cap">按财年口径：2月–次年1月使用该财年 EPS；2026年2月起为近4季 TTM。拆股已调整。</p>
+      </div>
+
+      <p class="eyebrow">TARGETS · 分析师目标价</p>
+      <div class="chart-block">
+        <div id="chart-targets" class="chart"></div>
+        <p class="chart-cap">研报目标价散点；绿线为当前价。数据来自媒体报道整理。</p>
+      </div>
 
       <p class="eyebrow">ROADMAP · 芯片路线图</p>
       <div id="roadmap"></div>
@@ -85,7 +116,7 @@
 
       <p class="eyebrow">THESIS · 投资逻辑</p>
       <div id="thesis"></div>
-      <p class="track-note">财报与路线图数据来自 NVIDIA 官方新闻稿及可信媒体整理；投资逻辑初版按公开框架整理，待审阅调整。</p>
+      <p class="track-note">财报、股价与公司史数据来自 NVIDIA 官方新闻稿、10-K 及可信媒体整理；投资逻辑初版按公开框架整理，待审阅调整。</p>
     </div>
   </section>
 </main>
