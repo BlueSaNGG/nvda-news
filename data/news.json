@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-02T15:36:26.840906+00:00",
+ "updated_at": "2026-10-02T15:51:30.714807+00:00",
  "market": {
-  "price": 235.09,
-  "change_pct": 1.83,
+  "price": 235.58,
+  "change_pct": 2.04,
   "as_of": "2026-10-02",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 46
   },
   "day_sentiment": {
-   "avg": 0.57,
-   "count": 131
+   "avg": 0.56,
+   "count": 138
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 99% 分位（偏高）"
+     "note": "现价处于52周区间 100% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +35.1%"
+     "note": "目标价中位数 $318（14家），隐含空间 +34.8%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.57（131条已评分）"
+     "note": "今日新闻情绪 +0.56（138条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $235.09 vs 20日均线 $223.84"
+     "note": "现价 $235.58 vs 20日均线 $223.87"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 99,
+   "price_52w_pct": 100,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 35.1,
-   "ma20": 223.84,
-   "as_of": "2026-10-02T15:36:26.810906+00:00"
+   "implied_upside_pct": 34.8,
+   "ma20": 223.87,
+   "as_of": "2026-10-02T15:51:30.676627+00:00"
   },
   "pe_ttm": 29.9,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+35.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+34.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "eba52cf0f665",
+   "title": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2% - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUVMNnlzM3F6SjRudU9qR25WZnl1bklOSVozNWJJVVhZSTE4dUZDTDdxc3RyaDd1djVwYmdnV1dyS2hITnJ4REtGMmVJeC0xN1REMXVGOGp5dTU0RHNacERQYW1wMzZ0M0ZzZTNJWmZKeDl5b19PQmNzRjBCSS1wWVkwRFFNOFJJNlFfVUFBYlNJVnd1NndsZG5jcmFHYTJHVVl1QWcyTS1ueVo2bEJCZ1hKd2F2Zw",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-02T15:47:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-02T15:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUVMNnlzM3F6SjRudU9qR25WZnl1bklOSVozNWJJVVhZSTE4dUZDTDdxc3RyaDd1djVwYmdnV1dyS2hITnJ4REtGMmVJeC0xN1REMXVGOGp5dTU0RHNacERQYW1wMzZ0M0ZzZTNJWmZKeDl5b19PQmNzRjBCSS1wWVkwRFFNOFJJNlFfVUFBYlNJVnd1NndsZG5jcmFHYTJHVVl1QWcyTS1ueVo2bEJCZ1hKd2F2Zw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "66dcf40ed6ff",
    "title": "Nvidia breaks through to new record highs. Plus, more good news for Boeing - CNBC",
@@ -242,6 +259,23 @@
    "sentiment": 1
   },
   {
+   "id": "1edc2d5a8063",
+   "title": "California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China — federal prosecutors say chips were routed through Malaysia and Singapore using false paperwork - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPTS1ZdWR6VWFvcURsdGFQNUZjODR2QkZVOFk4c3hBT3hBNnlyY0k1Q0oyRzNFNk4wY0Q3VTlKdEU0aVdUdGZHNW1YWkN2LUxpcUE4MmJBdVhSRkFyLTFRSEhocUloZTB1MnFNYnV6TmN0WENtUC01aGc5WkpLazJBZGZuNGYtVzZNYmoyX2pDQjNYS1VYSHd5MklwTk1aVWYwNktaUm1JWms0SGFEbWlTMDBXYzJZRUYtWURTQ2lZaVZxMmptaDdnWDctek81dWJQME4xTHh4a1FQT1NPWHMycWptS0hvUzYxVWhOZXBqVWd2VVgxWWlOWWJRWDg3SGY4OVFMY3lPbGVyU3pXa3QzZnlnTGxtWGRicDhjYjdvbndvTzJGNHlxS05Ja25FRGMyeF96Q1hjLU9JWmlrQ2RBUkw3Tm42dDEzU245ZmxFdVZlT0RtbTVaRUcwTk5TbDJEa3FPdXpyeVZ6OUFxMWY3Yzkwa3JIcERwM0NmX3ozUjJaLWcwY3FXN1FKNm1lMUF4UFE",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-02T14:53:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-02T14:53:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPTS1ZdWR6VWFvcURsdGFQNUZjODR2QkZVOFk4c3hBT3hBNnlyY0k1Q0oyRzNFNk4wY0Q3VTlKdEU0aVdUdGZHNW1YWkN2LUxpcUE4MmJBdVhSRkFyLTFRSEhocUloZTB1MnFNYnV6TmN0WENtUC01aGc5WkpLazJBZGZuNGYtVzZNYmoyX2pDQjNYS1VYSHd5MklwTk1aVWYwNktaUm1JWms0SGFEbWlTMDBXYzJZRUYtWURTQ2lZaVZxMmptaDdnWDctek81dWJQME4xTHh4a1FQT1NPWHMycWptS0hvUzYxVWhOZXBqVWd2VVgxWWlOWWJRWDg3SGY4OVFMY3lPbGVyU3pXa3QzZnlnTGxtWGRicDhjYjdvbndvTzJGNHlxS05Ja25FRGMyeF96Q1hjLU9JWmlrQ2RBUkw3Tm42dDEzU245ZmxFdVZlT0RtbTVaRUcwTk5TbDJEa3FPdXpyeVZ6OUFxMWY3Yzkwa3JIcERwM0NmX3ozUjJaLWcwY3FXN1FKNm1lMUF4UFE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
    "id": "730c5814b9ba",
    "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI - Ars Technica",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTFxRWkwS2E4T1oyby10NHkyZW5Ec0FTWUJ4QThPMzlHR1UtZTJZWHh0RFgyRXlHY3dIeUJoemlzY2FiZ0VuMDR1c3cxSFVFTXVNeE1kdDA5aDBOVHdCNloxTUMyRE1IejBDRV9TVVd4UkZCbXpHTnJRYTc0OUhuZGNvaTN2RXVHNV8tM083Z0JIY0p3bEVBZjJGS3BDam5EMUhoa1cycXFBcjhYRzdlRQ",
@@ -387,10 +421,15 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFBzdF9IT1Y1REstWUdVenRYVjhfVUNEVXZaMlhMdnJHSkVJV0N1XzZqWnN4MWRyWTh4aGRBVjlWN1J5cnF3VTRpeWJfRTMzU2RybDU3cFRUZ3lqZmkwOTFyN1JWNXJkVGdHSTZkTzlfQm0yUU5KN1o1YmFVU3ZFMThjREZwSzhjTkl1dExpS0RHa3JiWXRuVWR5Q2dZZw",
    "source": "PCMag",
    "published_at": "2026-10-02T14:36:01+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "PCMag",
+     "published_at": "2026-10-02T14:36:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFBzdF9IT1Y1REstWUdVenRYVjhfVUNEVXZaMlhMdnJHSkVJV0N1XzZqWnN4MWRyWTh4aGRBVjlWN1J5cnF3VTRpeWJfRTMzU2RybDU3cFRUZ3lqZmkwOTFyN1JWNXJkVGdHSTZkTzlfQm0yUU5KN1o1YmFVU3ZFMThjREZwSzhjTkl1dExpS0RHa3JiWXRuVWR5Q2dZZw"
+    },
+    {
+     "name": "pcmag.com",
      "published_at": "2026-10-02T14:36:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFBzdF9IT1Y1REstWUdVenRYVjhfVUNEVXZaMlhMdnJHSkVJV0N1XzZqWnN4MWRyWTh4aGRBVjlWN1J5cnF3VTRpeWJfRTMzU2RybDU3cFRUZ3lqZmkwOTFyN1JWNXJkVGdHSTZkTzlfQm0yUU5KN1o1YmFVU3ZFMThjREZwSzhjTkl1dExpS0RHa3JiWXRuVWR5Q2dZZw"
     }
@@ -914,12 +953,17 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TbThFSTNFYkI5N3ZCc1dubVpPRnNZMXYzb1Y2TGtsaGNQZ0Y2S2xFdTBzUmVkRU5pbjJUS0pkbUFRN05DeG9iRGlNSVpwbGJQVnJ5dUhPOUJ2TjJydldrTw",
    "source": "cnBeta.COM",
    "published_at": "2026-10-02T13:51:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "cnBeta.COM",
      "published_at": "2026-10-02T13:51:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TbThFSTNFYkI5N3ZCc1dubVpPRnNZMXYzb1Y2TGtsaGNQZ0Y2S2xFdTBzUmVkRU5pbjJUS0pkbUFRN05DeG9iRGlNSVpwbGJQVnJ5dUhPOUJ2TjJydldrTw"
+    },
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-02T15:35:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56XzZ0Zjg4cGlxSGVNdDNhbFBnbWVUVFdtSGY4OE5ic2N1SVl6M1lYdmtCVmlmTkdpcG9mUlc2RFItUF8ybDhYclZLZmRoMnJicUVv"
     }
    ],
    "category": "其他",
@@ -2017,6 +2061,23 @@
    "zh_summary": "称英伟达显卡代际已失去意义",
    "title_zh": "我给RTX 4070 Ti解锁了50系特性，英伟达显卡代际不再有意义",
    "sentiment": 0
+  },
+  {
+   "id": "437df7d968e9",
+   "title": "Why Nvidia Stock Is Rising Today and Why Morgan Stanley Reinstates NVDA as a “Top Pick” - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUZ5SC1oMzZOTmp5VzNLa0F0UXRESG1yczhIOXlOczVNVnBkNFhyTGUxWGQ4TDlIMVhvU2ZQS180M2RVTW0zZklXVmFyX3ZfTGdFTHpvVTBNdW5UWndCT1g1cGdPckNuMDMySWVGQXBpQnd6emY4dzZNdWZCU0xYMGo0UUl4ZEh3YnZqeU5pZTVYVllqaXZiSHpqR0FJanliYWVEVkNka1FIbDh2WkdWZThHN3NmQQ",
+   "source": "TipRanks",
+   "published_at": "2026-10-02T10:56:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-10-02T10:56:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUZ5SC1oMzZOTmp5VzNLa0F0UXRESG1yczhIOXlOczVNVnBkNFhyTGUxWGQ4TDlIMVhvU2ZQS180M2RVTW0zZklXVmFyX3ZfTGdFTHpvVTBNdW5UWndCT1g1cGdPckNuMDMySWVGQXBpQnd6emY4dzZNdWZCU0xYMGo0UUl4ZEh3YnZqeU5pZTVYVllqaXZiSHpqR0FJanliYWVEVkNka1FIbDh2WkdWZThHN3NmQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "3dd3f47dcc23",
@@ -5393,12 +5454,17 @@
   },
   {
    "id": "fb7aa7c74885",
-   "title": "Is NVIDIA Stock Increasing Your Market Risk? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWQ5RWxwREM0dGd2SmxOWThaV1Z0dGZJLXR2ZHNGdnpWS0RFMDBoeks3aC16cm5MXzBTS1BlQ1pZR3JkdHgteS1HY0pTa2hqT0hERjZqZGVBQnN6aUdNZVNrQVNUcmtGaTdpSlpSamdyRkhIdHpnYS1OVGJha0Q5bmtTb240OE5Ec2laNWx1V3lqLXRkY3ptdF9YYXhjeEs4Z2c",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-01T18:05:59+00:00",
-   "outlets_count": 2,
+   "title": "Is NVIDIA Stock Increasing Your Market Risk? - Trefis",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYm53cmc5TURZYWRrZ1BKZzdlRGd4MGpPSDNCRXNnc1lfVk15QVZWWDZRdThaenM3cVE4a2xOdW94UDAzbW1ld2RpVVFCVVRnRGtPY0FXamY2YzBiYUphYXhTTjJIanJLbEhIa3FWU1BrY0l4UnR2eGdFV29EUGFoOTA5ai1wWnFjQ25OWWNkVnc0d25sVzdRUmlBN0VmdGlFMk93dmMzVQ",
+   "source": "Trefis",
+   "published_at": "2026-10-01T18:05:35+00:00",
+   "outlets_count": 3,
    "outlets": [
+    {
+     "name": "Trefis",
+     "published_at": "2026-10-01T18:05:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYm53cmc5TURZYWRrZ1BKZzdlRGd4MGpPSDNCRXNnc1lfVk15QVZWWDZRdThaenM3cVE4a2xOdW94UDAzbW1ld2RpVVFCVVRnRGtPY0FXamY2YzBiYUphYXhTTjJIanJLbEhIa3FWU1BrY0l4UnR2eGdFV29EUGFoOTA5ai1wWnFjQ25OWWNkVnc0d25sVzdRUmlBN0VmdGlFMk93dmMzVQ"
+    },
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-01T18:05:59+00:00",
@@ -5414,7 +5480,11 @@
    "session": "盘中",
    "zh_summary": "英伟达股票是否增加你的市场风险",
    "title_zh": "英伟达股票是否在增加你的市场风险？",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.16,
+    "window_h": 1.8
+   }
   },
   {
    "id": "a15976af6043",
@@ -7616,71 +7686,6 @@
    "session": "盘中",
    "zh_summary": "英伟达发布NeMo Relay追踪工具",
    "title_zh": "英伟达技术博客：NeMo Relay追踪Agent工具行为",
-   "sentiment": 1
-  },
-  {
-   "id": "37942924a5a1",
-   "title": "CoreWeave Delivers NVIDIA Vera Rubin NVL72 at Scale - CoreWeave",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTd2T1pOekRaT3c2NHBWS1NlOVJEWFpiR2JidzlZd18yVkRuNVMyaE5XaERqVGhKbWhrc1c5Y2dXYjFMWEh3MmpBWlZGS3BzSWFZMV82YlBORGVST3B3ZFM0c2N4M1RPQ19jRjVUVTJTR2dmeTR0YUVSYWoySkxvZjhOb2l4TlRIZzg1Z3ZadGFLU2hTWVlDWjduenRiRDVlLTZiR3Q2d1RkY1NnNXVPVVhBaGh2Vk5BYVBaam03M0E5cnpEZzNTbQ",
-   "source": "CoreWeave",
-   "published_at": "2026-09-30T16:21:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CoreWeave",
-     "published_at": "2026-09-30T16:21:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTd2T1pOekRaT3c2NHBWS1NlOVJEWFpiR2JidzlZd18yVkRuNVMyaE5XaERqVGhKbWhrc1c5Y2dXYjFMWEh3MmpBWlZGS3BzSWFZMV82YlBORGVST3B3ZFM0c2N4M1RPQ19jRjVUVTJTR2dmeTR0YUVSYWoySkxvZjhOb2l4TlRIZzg1Z3ZadGFLU2hTWVlDWjduenRiRDVlLTZiR3Q2d1RkY1NnNXVPVVhBaGh2Vk5BYVBaam03M0E5cnpEZzNTbQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "CoreWeave规模化交付Rubin NVL72",
-   "title_zh": "CoreWeave规模化交付英伟达Vera Rubin NVL72",
-   "sentiment": 1
-  },
-  {
-   "id": "62e73e5314d3",
-   "title": "Nvidia Looks Criminally Cheap (NASDAQ:NVDA) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HTUppT3phVV94bVhzQ0FiUTZFM1JXTFYtRWs0LVdrUzdOR1l1UU1fU2d4RFdpb1dhUlZ5bU9rYzdmNmZhLXJaTUtKa1U5a3Bnek0xVVhLQXMyTkM5SEF4eC1TZmw5UXJwMTdKQzBuSU5nRFJRWm0xX1N3",
-   "source": "Seeking Alpha",
-   "published_at": "2026-09-30T16:01:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-09-30T16:01:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HTUppT3phVV94bVhzQ0FiUTZFM1JXTFYtRWs0LVdrUzdOR1l1UU1fU2d4RFdpb1dhUlZ5bU9rYzdmNmZhLXJaTUtKa1U5a3Bnek0xVVhLQXMyTkM5SEF4eC1TZmw5UXJwMTdKQzBuSU5nRFJRWm0xX1N3"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "分析称英伟达估值便宜",
-   "title_zh": "分析称英伟达股价便宜得离谱",
-   "sentiment": 1
-  },
-  {
-   "id": "e01b2b0c0679",
-   "title": "Nvidia is approaching a breakout level. Plus, what we want to see from Micron - cnbc.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc2lpVEVLNWktSkg3alZvRWFYM0lhT3F3WFJqWklma1Q3Sm1CektaRk0yMGlHYTlHQ0dvNVVSQ3RaelNTWFpZVkl6cFBsYVNxUDBxTExOc1NlYlVwSlZvQ3g0NS0wdUFNaUYyNjhGdjkycWNVbkFTZW03TkdlczcyRlpaVW82Z1VxXzRuNHBDNkZHOHlLQ3BTQl9INnhTX19GLWhHR1gtM25MdVg2",
-   "source": "cnbc.com",
-   "published_at": "2026-09-30T15:47:42+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "cnbc.com",
-     "published_at": "2026-09-30T15:47:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc2lpVEVLNWktSkg3alZvRWFYM0lhT3F3WFJqWklma1Q3Sm1CektaRk0yMGlHYTlHQ0dvNVVSQ3RaelNTWFpZVkl6cFBsYVNxUDBxTExOc1NlYlVwSlZvQ3g0NS0wdUFNaUYyNjhGdjkycWNVbkFTZW03TkdlczcyRlpaVW82Z1VxXzRuNHBDNkZHOHlLQ3BTQl9INnhTX19GLWhHR1gtM25MdVg2"
-    },
-    {
-     "name": "CNBC",
-     "published_at": "2026-09-30T15:47:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc2lpVEVLNWktSkg3alZvRWFYM0lhT3F3WFJqWklma1Q3Sm1CektaRk0yMGlHYTlHQ0dvNVVSQ3RaelNTWFpZVkl6cFBsYVNxUDBxTExOc1NlYlVwSlZvQ3g0NS0wdUFNaUYyNjhGdjkycWNVbkFTZW03TkdlczcyRlpaVW82Z1VxXzRuNHBDNkZHOHlLQ3BTQl9INnhTX19GLWhHR1gtM25MdVg2"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘中",
-   "zh_summary": "英伟达逼近突破位",
-   "title_zh": "英伟达逼近突破位，聚焦美光财报预期",
    "sentiment": 1
   }
  ]
