@@ -675,7 +675,9 @@ body {
 .csvg .cur-line { stroke: var(--green); stroke-width: 1.2; stroke-dasharray: 4 3; }
 .csvg .cur-lab { fill: var(--green); font-size: 9px; }
 .csvg .tdot { fill: #4cc3ff; }
-.csvg .tlab { fill: var(--text); font-size: 8.5px; }
+.csvg .thit { fill: transparent; cursor: pointer; }
+.csvg .med-line { stroke: #ffd166; stroke-width: 1.4; }
+.csvg .med-lab { fill: #ffd166; font-size: 9px; }
 .chart-ctl { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
 .pctl {
   background: var(--card);

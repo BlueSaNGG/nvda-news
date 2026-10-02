@@ -769,7 +769,8 @@ function renderLine(elId, data, o) {
   let hi = o.ymax != null ? o.ymax : Math.max.apply(null, vals);
   if (hi <= lo) hi = lo + 1;
   const pad = (t(hi) - t(lo)) * 0.14 || 1;
-  const tlo = t(lo) - pad, thi = t(hi) + pad;
+  // 显式 ymin（如 P/E 的 0 轴）不向下 padding，避免画出无意义的负刻度
+  const tlo = o.ymin != null ? t(lo) : t(lo) - pad, thi = t(hi) + pad;
   const H = o.h || 150, PT = 8, PB = 18, PL = 36, PR = 8;
   const W = CW - PL - PR, n = data.length;
   const X = function (i) { return PL + W * (n === 1 ? 0.5 : i / (n - 1)); };
@@ -982,54 +983,83 @@ function renderPE() {
   renderLine("chart-pe", pts, { h: 150, unit: "x", ymin: 0, color: "#4cc3ff" });
 }
 
-/* ---------- 分析师目标价散点 ---------- */
+/* ---------- 分析师目标价分布（条带图） ---------- */
+function targetAction(t) {
+  const s = (t.source_title || "") + " " + (t.rating || "");
+  if (/下调/.test(s)) return "下调";
+  if (/上调/.test(s)) return "上调";
+  if (/维持|重申/.test(s)) return "维持";
+  return "—";
+}
+function openInfoSheet(title, body) {
+  document.getElementById("term-title").textContent = title;
+  document.getElementById("term-explain").textContent = body;
+  document.getElementById("term-backdrop").hidden = false;
+  document.getElementById("term-sheet").hidden = false;
+  document.body.classList.add("sheet-open");
+}
 function renderTargets() {
   const el = document.getElementById("chart-targets");
+  const cap = document.getElementById("targets-cap");
   const ts = ((cachedExtra && cachedExtra.targets && cachedExtra.targets.targets) || [])
     .filter(function (t) { return t.target_num > 0 && t.date; })
-    .sort(function (a, b) { return new Date(a.date) - new Date(b.date); });
-  if (ts.length < 2) { el.innerHTML = TRACK_EMPTY; return; }
-  const t0 = new Date(ts[0].date).getTime(), t1 = new Date(ts[ts.length - 1].date).getTime();
-  const span = Math.max(1, t1 - t0);
-  const vs = ts.map(function (t) { return t.target_num; });
-  let lo = Math.min.apply(null, vs), hi = Math.max.apply(null, vs);
-  const cur = cachedExtra && cachedNews && cachedNews.market && cachedNews.market.price;
-  if (cur) { lo = Math.min(lo, cur); hi = Math.max(hi, cur); }
-  const pad = (hi - lo) * 0.15 || 1;
-  lo -= pad; hi += pad;
-  const H = 190, PT = 10, PB = 18, PL = 36, PR = 10;
-  const W = CW - PL - PR;
-  const X = function (t) { return PL + W * (new Date(t.date).getTime() - t0) / span; };
-  const Y = function (v) { return PT + (H - PT - PB) * (1 - (v - lo) / (hi - lo)); };
-  let s = "";
-  for (let g = 0; g <= 3; g++) {
-    const v = lo + (hi - lo) * g / 3, y = Y(v);
-    s += '<line x1="' + PL + '" y1="' + y.toFixed(1) + '" x2="' + (PL + W) +
-      '" y2="' + y.toFixed(1) + '" class="grid"/>' +
-      '<text x="' + (PL - 4) + '" y="' + (y + 3).toFixed(1) +
-      '" class="ylab" text-anchor="end">' + fmtTick(v, "$") + "</text>";
+    .sort(function (a, b) { return a.target_num - b.target_num; });
+  if (ts.length < 5) {
+    el.innerHTML = '<p class="track-empty">研报目标价数据积累中（' + ts.length + " 条）</p>";
+    if (cap) cap.textContent = "目标价数据积累中。";
+    return;
   }
+  const vs = ts.map(function (t) { return t.target_num; });
+  const cur = cachedExtra && cachedNews && cachedNews.market && cachedNews.market.price;
+  let lo = Math.min.apply(null, vs), hi = Math.max.apply(null, vs);
+  if (cur) { lo = Math.min(lo, cur); hi = Math.max(hi, cur); }
+  const pad = (hi - lo) * 0.12 || 1;
+  lo -= pad; hi += pad;
+  const med = (vs[(vs.length - 1) >> 1] + vs[vs.length >> 1]) / 2;
+  const H = 200, PT = 16, PB = 22, PL = 40, PR = 12;
+  const W = CW - PL - PR, LANES = 5, laneH = (H - PT - PB) / LANES;
+  const X = function (v) { return PL + W * (v - lo) / (hi - lo); };
+  let s = "";
+  for (let g = 0; g <= 4; g++) {
+    const v = lo + (hi - lo) * g / 4, x = X(v);
+    s += '<line x1="' + x.toFixed(1) + '" y1="' + PT + '" x2="' + x.toFixed(1) +
+      '" y2="' + (H - PB) + '" class="grid"/>' +
+      '<text x="' + x.toFixed(1) + '" y="' + (H - 7) +
+      '" class="xlab" text-anchor="middle">' + fmtTick(v, "$") + "</text>";
+  }
+  const medX = X(med);
+  s += '<line x1="' + medX.toFixed(1) + '" y1="' + PT + '" x2="' + medX.toFixed(1) +
+    '" y2="' + (H - PB) + '" class="med-line"/>' +
+    '<text x="' + Math.min(medX + 4, CW - PR - 60).toFixed(1) + '" y="' + (PT - 4) +
+    '" class="med-lab">中位数 $' + med.toFixed(0) + "</text>";
   if (cur) {
-    const y = Y(cur);
-    s += '<line x1="' + PL + '" y1="' + y.toFixed(1) + '" x2="' + (PL + W) +
-      '" y2="' + y.toFixed(1) + '" class="cur-line"/>' +
-      '<text x="' + (PL + W) + '" y="' + (y - 4).toFixed(1) +
+    const cx = X(cur);
+    s += '<line x1="' + cx.toFixed(1) + '" y1="' + PT + '" x2="' + cx.toFixed(1) +
+      '" y2="' + (H - PB) + '" class="cur-line"/>' +
+      '<text x="' + Math.max(cx - 4, PL + 44).toFixed(1) + '" y="' + (PT - 4) +
       '" class="xlab cur-lab" text-anchor="end">现价 $' + cur.toFixed(0) + "</text>";
   }
   ts.forEach(function (t, i) {
-    const x = X(t), y = Y(t.target_num);
+    const lane = (i * 2 + 1) % LANES; // 确定性分 lane，相邻点错开
+    const y = PT + laneH * (lane + 0.5), x = X(t.target_num);
     s += '<circle cx="' + x.toFixed(1) + '" cy="' + y.toFixed(1) +
-      '" r="3.4" class="tdot"/>' +
-      '<text x="' + x.toFixed(1) + '" y="' + (y + (i % 2 ? 13 : -7)).toFixed(1) +
-      '" class="tlab" text-anchor="middle">' + esc(t.firm) + " $" +
-      t.target_num.toFixed(0) + "</text>";
+      '" r="5" class="tdot"/>' +
+      '<circle cx="' + x.toFixed(1) + '" cy="' + y.toFixed(1) +
+      '" r="14" class="thit" data-ti="' + i + '"/>';
   });
-  const d0 = new Date(t0), d1 = new Date(t1);
-  const f = function (d) { return (d.getMonth() + 1) + "/" + d.getDate(); };
-  s += '<text x="' + PL + '" y="' + (H - 5) + '" class="xlab">' + f(d0) + "</text>" +
-    '<text x="' + (PL + W) + '" y="' + (H - 5) + '" class="xlab" text-anchor="end">' +
-    f(d1) + "</text>";
   el.innerHTML = chartSvg(H, s);
+  el.onclick = function (e) {
+    const hit = e.target.closest ? e.target.closest(".thit") : null;
+    if (!hit) return;
+    const t = ts[parseInt(hit.dataset.ti, 10)];
+    if (!t) return;
+    const d = new Date(t.date);
+    openInfoSheet(t.firm + " · $" + t.target_num.toFixed(0),
+      "目标价 $" + t.target_num.toFixed(0) + " ｜ " + targetAction(t) +
+      " ｜ " + (d.getMonth() + 1) + "/" + d.getDate() +
+      (t.rating ? " ｜ 评级 " + t.rating : ""));
+  };
+  if (cap) cap.textContent = ts.length + " 家研报目标价分布；点击圆点看详情。绿线为当前价，蓝线为中位数。数据来自媒体报道整理。";
 }
 
 /* ---------- 公司史 ---------- */
