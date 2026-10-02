@@ -850,6 +850,129 @@ function chronoQuarters() {
   return qs.slice().reverse();
 }
 
+/* ---------- 入门屏：业务营收结构 ---------- */
+const MIX_SEGS = [
+  { key: "dc",     label: "数据中心",  color: "#76b900" },
+  { key: "gaming", label: "游戏",      color: "#4a9eff" },
+  { key: "proviz", label: "专业可视化", color: "#b07fe8" },
+  { key: "auto",   label: "汽车",      color: "#f0a13c" },
+  { key: "oem",    label: "OEM及其他", color: "#8a8f98" },
+  { key: "edge",   label: "边缘计算*", color: "#5cc8c8" },
+];
+
+function segColor(key) {
+  for (let i = 0; i < MIX_SEGS.length; i++) {
+    if (MIX_SEGS[i].key === key) return MIX_SEGS[i].color;
+  }
+  return "#8a8f98";
+}
+
+function segLabel(key) {
+  for (let i = 0; i < MIX_SEGS.length; i++) {
+    if (MIX_SEGS[i].key === key) return MIX_SEGS[i].label;
+  }
+  return key;
+}
+
+/* 各季度 segments_b -> 有序分段（从下往上堆） */
+function mixSegsFor(q) {
+  const s = q.segments_b || {};
+  if (q.segment_framework === "dc_edge") {
+    return [{ key: "dc", v: s.dc }, { key: "edge", v: s.edge }];
+  }
+  return [
+    { key: "dc", v: s.dc },
+    { key: "gaming", v: s.gaming },
+    { key: "proviz", v: s.proviz },
+    { key: "auto", v: s.auto },
+    { key: "oem", v: s.oem },
+  ];
+}
+
+/* 100% 堆叠条形图：12 个季度营收结构变化 */
+function renderMixChart() {
+  const el = document.getElementById("mix-chart");
+  if (!el) return;
+  const qs = chronoQuarters().filter(function (q) { return q.segments_b; });
+  if (!qs.length) { el.innerHTML = TRACK_EMPTY; return; }
+  const H = 168, PT = 8, PB = 20, PL = 4, PR = 4;
+  const W = CW - PL - PR, n = qs.length, bh = H - PT - PB;
+  const bw = W / n;
+  let s = "";
+  qs.forEach(function (q, i) {
+    const segs = mixSegsFor(q).filter(function (x) { return x.v != null && x.v > 0; });
+    const tot = segs.reduce(function (a, x) { return a + x.v; }, 0);
+    const x = PL + bw * i + bw * 0.5, w = Math.min(26, bw * 0.68);
+    let y = PT + bh;
+    segs.forEach(function (sg) {
+      const frac = tot > 0 ? sg.v / tot : 0;
+      const h = bh * frac;
+      y -= h;
+      s += '<rect x="' + (x - w / 2).toFixed(1) + '" y="' + y.toFixed(1) +
+        '" width="' + w.toFixed(1) + '" height="' + Math.max(h, 0.5).toFixed(1) +
+        '" fill="' + segColor(sg.key) + '"/>';
+    });
+    // 数据中心占比标注在绿色段中央
+    const dcFrac = tot > 0 ? segs[0].v / tot : 0;
+    if (dcFrac > 0.2) {
+      s += '<text x="' + x.toFixed(1) + '" y="' +
+        (PT + bh - bh * dcFrac / 2 + 3).toFixed(1) +
+        '" class="mixpct" text-anchor="middle">' + Math.round(dcFrac * 100) + "%</text>";
+    }
+  });
+  const step = Math.max(1, Math.ceil(n / 4));
+  for (let i = 0; i < n; i += step) {
+    const x = PL + bw * i + bw * 0.5;
+    s += '<text x="' + x.toFixed(1) + '" y="' + (H - 6) +
+      '" class="xlab" text-anchor="middle">' + esc(qShort(qs[i].quarter)) + "</text>";
+  }
+  el.innerHTML = chartSvg(H, s);
+  const lg = document.getElementById("mix-legend");
+  if (lg) {
+    lg.innerHTML = MIX_SEGS.map(function (m) {
+      return '<span class="mix-lg"><i style="background:' + m.color + '"></i>' +
+        esc(m.label) + "</span>";
+    }).join("");
+  }
+}
+
+/* 最新一季环形图：各业务占比明细 */
+function renderMixDonut() {
+  const el = document.getElementById("mix-donut");
+  if (!el) return;
+  const qs = chronoQuarters().filter(function (q) { return q.segments_b; });
+  const q = qs[qs.length - 1];
+  if (!q) { el.innerHTML = TRACK_EMPTY; return; }
+  const segs = mixSegsFor(q).filter(function (x) { return x.v != null && x.v > 0; });
+  const tot = segs.reduce(function (a, x) { return a + x.v; }, 0);
+  const cx = 70, cy = 70, r = 50, sw = 24;
+  let s = "", ang = -Math.PI / 2;
+  segs.forEach(function (sg) {
+    const frac = tot > 0 ? sg.v / tot : 0;
+    const a0 = ang, a1 = ang + frac * Math.PI * 2;
+    const large = (a1 - a0) > Math.PI ? 1 : 0;
+    const x0 = cx + r * Math.cos(a0), y0 = cy + r * Math.sin(a0);
+    const x1 = cx + r * Math.cos(a1), y1 = cy + r * Math.sin(a1);
+    s += '<path d="M' + x0.toFixed(1) + " " + y0.toFixed(1) +
+      " A" + r + " " + r + " 0 " + large + " 1 " + x1.toFixed(1) + " " + y1.toFixed(1) +
+      '" fill="none" stroke="' + segColor(sg.key) + '" stroke-width="' + sw + '"/>';
+    ang = a1;
+  });
+  const dcPct = tot > 0 ? (segs[0].v / tot * 100) : 0;
+  s += '<text x="' + cx + '" y="' + (cy - 1) + '" text-anchor="middle" class="donut-big">' +
+    dcPct.toFixed(1) + "%</text>" +
+    '<text x="' + cx + '" y="' + (cy + 15) + '" text-anchor="middle" class="xlab">数据中心</text>';
+  const rows = segs.map(function (sg) {
+    const pct = tot > 0 ? sg.v / tot * 100 : 0;
+    return '<div class="donut-row"><i style="background:' + segColor(sg.key) + '"></i>' +
+      '<span class="donut-lab">' + esc(segLabel(sg.key)) + "</span>" +
+      '<span class="donut-val num">$' + sg.v.toFixed(1) + "B · " + pct.toFixed(1) + "%</span></div>";
+  }).join("");
+  el.innerHTML = '<svg viewBox="0 0 140 140" class="csvg donut-svg" role="img">' + s + "</svg>" +
+    '<div class="donut-side"><p class="donut-title">最新一季（' + esc(qShort(q.quarter)) +
+    "）营收结构</p>" + rows + "</div>";
+}
+
 function renderFinCharts() {
   const qs = chronoQuarters();
   if (!qs.length) return;
@@ -1129,6 +1252,8 @@ function renderStart() {
   } else {
     risksEl.innerHTML = '<p class="track-empty">加载中…</p>';
   }
+  renderMixChart();
+  renderMixDonut();
 }
 
 function initStartCtas() {

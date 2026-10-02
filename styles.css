@@ -678,6 +678,22 @@ body {
 .csvg .thit { fill: transparent; cursor: pointer; }
 .csvg .med-line { stroke: #ffd166; stroke-width: 1.4; }
 .csvg .med-lab { fill: #ffd166; font-size: 9px; }
+.csvg .mixpct { fill: #fff; font-size: 8.5px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.csvg .donut-big { fill: var(--text); font-size: 17px; font-weight: 800; font-variant-numeric: tabular-nums; }
+
+/* 入门屏：业务结构图 */
+#mix-chart { margin-top: 10px; }
+.mix-legend { display: flex; flex-wrap: wrap; gap: 4px 12px; margin: 8px 0 4px; }
+.mix-lg { display: inline-flex; align-items: center; font-size: 0.75rem; color: var(--muted); }
+.mix-lg i { width: 10px; height: 10px; border-radius: 3px; margin-right: 5px; }
+.mix-donut { display: flex; align-items: center; gap: 14px; margin-top: 10px; }
+.donut-svg { width: 128px; flex: 0 0 128px; }
+.donut-side { flex: 1; min-width: 0; }
+.donut-title { margin: 0 0 6px; font-size: 0.8rem; color: var(--text); font-weight: 700; }
+.donut-row { display: flex; align-items: center; gap: 6px; font-size: 0.78rem; padding: 2px 0; }
+.donut-row i { width: 10px; height: 10px; border-radius: 3px; flex: 0 0 10px; }
+.donut-lab { color: var(--muted); }
+.donut-val { margin-left: auto; color: var(--text); font-weight: 700; white-space: nowrap; }
 .chart-ctl { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
 .pctl {
   background: var(--card);

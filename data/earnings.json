@@ -1,5 +1,5 @@
 {
-  "_note": "12 个季度财报关键数字（Q3 FY2024–Q2 FY2027），来自 NVIDIA 官方财报新闻稿及可信媒体整理；毛利率为 non-GAAP 口径。Q1 FY2026 含 45 亿美元 H20 一次性费用，另注剔除后口径。Q3 FY2024–Q1 FY2025 的 EPS 为 1拆10 前口径。",
+  "_note": "12 个季度财报关键数字（Q3 FY2024–Q2 FY2027），来自 NVIDIA 官方财报新闻稿及可信媒体整理；毛利率为 non-GAAP 口径。Q1 FY2026 含 45 亿美元 H20 一次性费用，另注剔除后口径。Q3 FY2024–Q1 FY2025 的 EPS 为 1拆10 前口径。segments_b 为各业务线营收（十亿美元）：platform5 口径=数据中心/游戏/专业可视化/汽车/OEM及其他；自 Q1 FY2027 起英伟达改用 dc_edge 口径=数据中心/边缘计算（边缘计算含原游戏等业务）。OEM及其他为残差倒推（总数-已披露分项），为近似值。",
   "_sources": [
     "https://coincentral.com/nvidia-nvda-stock-pops-4-on-blowout-earnings-but-margin-dip-raises-questions/",
     "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-First-Quarter-Fiscal-2027/default.aspx",
@@ -7,7 +7,9 @@
     "https://nvidianews.nvidia.com/_gallery/download_pdf/699f6ab43d6332ccaa689907/",
     "https://ts2.tech/en/nvidia-q3-2026-earnings-record-57-billion-revenue-as-ai-chip-demand-supercharges-data-center-business/",
     "https://www.quiverquant.com/news/NVIDIA+Reports+Q2+Fiscal+2026+Revenue+of+%2446.7+Billion%2C+Driven+by+Data+Center+Growth",
-    "https://spotlight-io.com/insight/nvidia-fiscal-first-quarter-2026-earnings"
+    "https://spotlight-io.com/insight/nvidia-fiscal-first-quarter-2026-earnings",
+    "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2026",
+    "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2026"
   ],
   "quarters": [
     {
@@ -22,7 +24,12 @@
       "reported": "2026-08-26",
       "revenue_b": 96.2,
       "revenue_yoy_pct": 106,
-      "net_income_b": 59.688
+      "net_income_b": 59.688,
+      "segments_b": {
+        "dc": 89.0,
+        "edge": 7.2
+      },
+      "segment_framework": "dc_edge"
     },
     {
       "dc_revenue_b": 75.2,
@@ -36,7 +43,12 @@
       "reported": "2026-05-20",
       "revenue_b": 81.6,
       "revenue_yoy_pct": 85,
-      "net_income_b": 58.322
+      "net_income_b": 58.322,
+      "segments_b": {
+        "dc": 75.2,
+        "edge": 6.4
+      },
+      "segment_framework": "dc_edge"
     },
     {
       "dc_revenue_b": 62.3,
@@ -50,7 +62,15 @@
       "reported": "2026-02-25",
       "revenue_b": 68.1,
       "revenue_yoy_pct": 73,
-      "net_income_b": 42.96
+      "net_income_b": 42.96,
+      "segments_b": {
+        "dc": 62.3,
+        "gaming": 3.7,
+        "proviz": 1.3,
+        "auto": 0.604,
+        "oem": 0.223
+      },
+      "segment_framework": "platform5"
     },
     {
       "dc_revenue_b": 51.2,
@@ -64,7 +84,15 @@
       "reported": "2025-11-19",
       "revenue_b": 57.0,
       "revenue_yoy_pct": 62,
-      "net_income_b": 31.91
+      "net_income_b": 31.91,
+      "segments_b": {
+        "dc": 51.2,
+        "gaming": 4.26,
+        "proviz": 0.76,
+        "auto": 0.592,
+        "oem": 0.174
+      },
+      "segment_framework": "platform5"
     },
     {
       "dc_revenue_b": 41.1,
@@ -77,7 +105,15 @@
       "reported": "2025-08-27",
       "revenue_b": 46.7,
       "revenue_yoy_pct": 56,
-      "net_income_b": 26.422
+      "net_income_b": 26.422,
+      "segments_b": {
+        "dc": 41.1,
+        "gaming": 4.3,
+        "proviz": 0.601,
+        "auto": 0.586,
+        "oem": 0.156
+      },
+      "segment_framework": "platform5"
     },
     {
       "dc_revenue_b": 39.1,
@@ -92,7 +128,15 @@
       "reported": "2025-05-28",
       "revenue_b": 44.1,
       "revenue_yoy_pct": 69,
-      "net_income_b": 18.775
+      "net_income_b": 18.775,
+      "segments_b": {
+        "dc": 39.1,
+        "gaming": 3.8,
+        "proviz": 0.509,
+        "auto": 0.567,
+        "oem": 0.086
+      },
+      "segment_framework": "platform5"
     },
     {
       "quarter": "Q4 FY2025",
@@ -106,7 +150,15 @@
       "gm_pct": 73.5,
       "net_income_b": 22.091,
       "guidance_next_q_b": 43.0,
-      "guidance_gm_pct": 71.0
+      "guidance_gm_pct": 71.0,
+      "segments_b": {
+        "dc": 35.6,
+        "gaming": 2.54,
+        "proviz": 0.511,
+        "auto": 0.57,
+        "oem": 0.135
+      },
+      "segment_framework": "platform5"
     },
     {
       "quarter": "Q3 FY2025",
@@ -120,7 +172,15 @@
       "gm_pct": 75.0,
       "net_income_b": 19.309,
       "guidance_next_q_b": 37.5,
-      "guidance_gm_pct": 73.5
+      "guidance_gm_pct": 73.5,
+      "segments_b": {
+        "dc": 30.8,
+        "gaming": 3.28,
+        "proviz": 0.486,
+        "auto": 0.449,
+        "oem": 0.097
+      },
+      "segment_framework": "platform5"
     },
     {
       "quarter": "Q2 FY2025",
@@ -134,7 +194,15 @@
       "gm_pct": 75.7,
       "net_income_b": 16.599,
       "guidance_next_q_b": 32.5,
-      "guidance_gm_pct": 75.0
+      "guidance_gm_pct": 75.0,
+      "segments_b": {
+        "dc": 26.3,
+        "gaming": 2.88,
+        "proviz": 0.454,
+        "auto": 0.346,
+        "oem": 0.088
+      },
+      "segment_framework": "platform5"
     },
     {
       "quarter": "Q1 FY2025",
@@ -148,7 +216,15 @@
       "gm_pct": 78.9,
       "net_income_b": 14.881,
       "guidance_next_q_b": 28.0,
-      "guidance_gm_pct": 75.5
+      "guidance_gm_pct": 75.5,
+      "segments_b": {
+        "dc": 22.6,
+        "gaming": 2.65,
+        "proviz": 0.427,
+        "auto": 0.329,
+        "oem": 0.078
+      },
+      "segment_framework": "platform5"
     },
     {
       "quarter": "Q4 FY2024",
@@ -162,7 +238,15 @@
       "gm_pct": 76.7,
       "net_income_b": 12.285,
       "guidance_next_q_b": 24.0,
-      "guidance_gm_pct": 77.0
+      "guidance_gm_pct": 77.0,
+      "segments_b": {
+        "dc": 18.4,
+        "gaming": 2.87,
+        "proviz": 0.463,
+        "auto": 0.281,
+        "oem": 0.09
+      },
+      "segment_framework": "platform5"
     },
     {
       "quarter": "Q3 FY2024",
@@ -177,7 +261,15 @@
       "net_income_b": 9.243,
       "guidance_next_q_b": 20.0,
       "guidance_gm_pct": 75.5,
-      "note": "EPS 为拆股前口径（2024-06-07 1拆10，拆后约 $0.37/$0.40）"
+      "note": "EPS 为拆股前口径（2024-06-07 1拆10，拆后约 $0.37/$0.40）",
+      "segments_b": {
+        "dc": 14.5,
+        "gaming": 2.86,
+        "proviz": 0.416,
+        "auto": 0.261,
+        "oem": 0.073
+      },
+      "segment_framework": "platform5"
     }
   ],
   "_meta": {
