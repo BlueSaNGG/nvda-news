@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>NVDA 实时新闻</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <h1><span class="ticker">NVDA</span> 实时新闻</h1>
+    <p class="updated">更新于 <span id="updated-at">加载中…</span></p>
+  </div>
+</header>
+
+<main id="timeline" class="timeline" aria-live="polite"></main>
+
+<div id="empty" class="empty" hidden>
+  <p>暂无新闻数据</p>
+  <p class="empty-sub">抓取任务每 15 分钟更新一次，稍后再来看看。</p>
+</div>
+
+<footer class="site-footer">
+  <p>数据来源：Google News · 每 15 分钟自动更新 · 仅供参考</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
