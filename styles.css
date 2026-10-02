@@ -874,7 +874,9 @@ body.sheet-open { overflow: hidden; }
 
 /* ---------- track: chips 导航 ---------- */
 .track-chips {
-  position: sticky; top: 0; z-index: 20;
+  position: sticky; z-index: 5;
+  /* top 由 JS 按顶栏实际高度设置（syncChipsOffset），避免盖住 sticky header；
+     2026-10-02 修 bug：之前 top:0 + z-index:20 会盖住顶栏标题 */
   display: flex; gap: 8px; overflow-x: auto;
   padding: 10px 2px; margin: 0 -2px 6px;
   background: var(--bg); -webkit-overflow-scrolling: touch;

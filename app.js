@@ -566,6 +566,23 @@ function initTrackChips() {
     const sec = document.getElementById(b.dataset.sec);
     if (sec) sec.scrollIntoView({ behavior: "smooth", block: "start" });
   });
+  window.addEventListener("resize", syncChipsOffset);
+}
+
+/* chips 吸顶时贴在顶栏下方：量顶栏实际高度设 top，各 section 设 scroll-margin
+   让点 chip 跳转时标题不被顶栏+chips 挡住 */
+function syncChipsOffset() {
+  const header = document.querySelector(".brand-header");
+  const chips = document.getElementById("track-chips");
+  if (!header || !chips) return;
+  const hh = header.offsetHeight;
+  chips.style.top = hh + "px";
+  const ch = chips.offsetHeight;
+  ["sec-earnings", "sec-history", "sec-targets",
+   "sec-roadmap", "sec-valuation", "sec-thesis"].forEach(function (id) {
+    const s = document.getElementById(id);
+    if (s) s.style.scrollMarginTop = (hh + ch + 10) + "px";
+  });
 }
 
 function renderValuation(market) {
@@ -696,6 +713,7 @@ function renderTrack() {
   renderSignalHistory();
   renderThesis(cachedExtra && cachedExtra.thesis);
   initTrackChips();
+  syncChipsOffset();
 }
 
 /* Freshness suffixes on track-section eyebrows (data/freshness.json).
