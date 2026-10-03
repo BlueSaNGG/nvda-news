@@ -291,6 +291,38 @@ function storyCard(s) {
   );
 }
 
+/* ---------- 每日涨跌归因（一句话） ----------
+   今日涨跌幅 + 当天 price_reaction 最大的 2 条新闻。
+   驱动标注为"相关"而非因果：price_reaction 是新闻发布后 2 小时窗口的
+   股价变动，用作"最可能相关"的启发式排序，不代表贡献度。 */
+function renderAttrLine(market, stories) {
+  const el = document.getElementById("attr-line");
+  const chg = market && market.change_pct;
+  if (typeof chg !== "number") { el.hidden = true; return; }
+  let today = "";
+  try {
+    today = new Date().toLocaleDateString("en-CA", { timeZone: "America/Chicago" });
+  } catch (e) { el.hidden = true; return; }
+  const cands = stories.filter(function (s) {
+    return (s.published_at || "").slice(0, 10) === today &&
+      s.price_reaction && typeof s.price_reaction.pct === "number";
+  }).sort(function (a, b) {
+    return Math.abs(b.price_reaction.pct) - Math.abs(a.price_reaction.pct);
+  }).slice(0, 2);
+  if (!cands.length) { el.hidden = true; return; }
+  const up = chg >= 0;
+  const drivers = cands.map(function (s) {
+    let label = s.zh_summary || s.title_zh || s.title || "";
+    if (label.length > 20) label = label.slice(0, 20) + "…";
+    return esc(label);
+  }).join('<span class="attr-sep">·</span>');
+  el.innerHTML = '<span class="attr-chg ' + (up ? "up" : "down") + '">' +
+    (up ? "▲" : "▼") + " " + (up ? "+" : "") + chg.toFixed(2) +
+    '%</span><span class="attr-sep">·</span><span class="attr-drivers">' +
+    drivers + "</span>";
+  el.hidden = false;
+}
+
 /* ---------- header market line ---------- */
 function renderMarket(market) {
   const el = document.getElementById("quote-line");
@@ -408,6 +440,7 @@ function renderToday(data) {
   document.getElementById("updated-at").textContent = fmtUpdated(data.updated_at);
   renderMarket(market);
   applyLiveQuote(); // re-apply 5-min tick after news.json refresh
+  renderAttrLine(market, stories);
   signalCardHtml(market);
   briefHtml(meta);
   newSinceHtml(stories);

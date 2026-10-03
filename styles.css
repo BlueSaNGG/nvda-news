@@ -164,6 +164,23 @@ body {
 .peer-chgs .up { color: var(--green); }
 .peer-chgs .down { color: var(--red); }
 
+/* ---------- 每日涨跌归因 ---------- */
+.attr-line {
+  font-size: 0.85rem;
+  line-height: 1.55;
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  padding: 9px 12px;
+  margin: 0 0 10px;
+}
+.attr-line[hidden] { display: none; }
+.attr-chg { font-weight: 800; }
+.attr-chg.up { color: var(--green); }
+.attr-chg.down { color: var(--red); }
+.attr-sep { color: var(--muted); margin: 0 6px; }
+.attr-drivers { color: var(--text); }
+
 /* ---------- nav: desktop top / mobile bottom ---------- */
 .topnav { display: none; gap: 6px; margin-top: 12px; }
 .tnav {
