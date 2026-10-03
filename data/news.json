@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T07:36:28.294225+00:00",
+ "updated_at": "2026-10-03T07:51:25.497879+00:00",
  "market": {
   "price": 233.95,
   "change_pct": 1.34,
@@ -10,8 +10,8 @@
    "days_left": 45
   },
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 4
+   "avg": 0.4,
+   "count": 5
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（4条已评分）"
+     "note": "今日新闻情绪 +0.40（5条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 35.7,
    "ma20": 223.79,
-   "as_of": "2026-10-03T07:36:28.273804+00:00"
+   "as_of": "2026-10-03T07:51:25.473660+00:00"
   },
   "pe_ttm": 29.7,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d8009491a771",
+   "title": "逼近6万亿美元市值，英伟达股价刷新今年5月历史高点 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS1QzemVfeDdqa2hUdnNGUU9UeGJsTHF3eHRySmZyT0tXTkxHTEVJX09LaTdzVmlnUVdBTFk3RzNDUDZoNGVQbUZKbnduWmtEcUM3OFJ0UEt6cXA5bTg4MGdQQ1YyRVRzcThhNjlOSXdUc2hiWVgzZktsSm8tNEZMNkYzMGg3cV9r",
+   "source": "搜狐网",
+   "published_at": "2026-10-03T07:18:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-03T07:18:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS1QzemVfeDdqa2hUdnNGUU9UeGJsTHF3eHRySmZyT0tXTkxHTEVJX09LaTdzVmlnUVdBTFk3RzNDUDZoNGVQbUZKbnduWmtEcUM3OFJ0UEt6cXA5bTg4MGdQQ1YyRVRzcThhNjlOSXdUc2hiWVgzZktsSm8tNEZMNkYzMGg3cV9r"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "cc91c76395fa",
    "title": "NVIDIA Corporation $NVDA Stock Acquired by Empirical Asset Management LLC - MarketBeat",
@@ -122,15 +139,37 @@
    "sentiment": -1
   },
   {
+   "id": "433174e81c2e",
+   "title": "NVIDIA Corporation $NVDA Shares Acquired by Danica Pension Livsforsikringsaktieselskab - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObk1aMWtGazVBbG5wTEZnRE4wb2lTYUhCOGNBQ1JKMDRadzNkYV85U0MyZFNTNVpjM0E1WkU4RnhCLThjX2x6bHgyMGstYjNaSWVZLUZWamI0SENuNzRxWFp6TjQtZVV3ZmdNaDAyZ1lTNk0zU21sMS1FUFFxZTR1SkF5Q29Nc0VnMnpHZDVlbnVZdlViM3I0U043ejVzLXpDQWNFeW1CYm1FaVdEQ3VveGYxclVJTFJjZUJvR29zZHloZXNQQ3A5SnVCRVFLdUdxYTl2UUNGLXRhckNYVGU0",
+   "source": "MarketBeat",
+   "published_at": "2026-10-03T07:12:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-03T07:12:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObk1aMWtGazVBbG5wTEZnRE4wb2lTYUhCOGNBQ1JKMDRadzNkYV85U0MyZFNTNVpjM0E1WkU4RnhCLThjX2x6bHgyMGstYjNaSWVZLUZWamI0SENuNzRxWFp6TjQtZVV3ZmdNaDAyZ1lTNk0zU21sMS1FUFFxZTR1SkF5Q29Nc0VnMnpHZDVlbnVZdlViM3I0U043ejVzLXpDQWNFeW1CYm1FaVdEQ3VveGYxclVJTFJjZUJvR29zZHloZXNQQ3A5SnVCRVFLdUdxYTl2UUNGLXRhckNYVGU0"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "39c929b6b837",
    "title": "创历史新高！英伟达市值一夜暴涨5200亿：距史上首家6万亿美元仅一步之遥|开源模型|Qwen|内存|模型|戴尔_手机新浪网 - finance.sina.com.cn",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iSmJKaHhBWjM2aEc2dTlBYkFBT0lSa19xUkNONjJFVlhJSm1vbXI2NkszMzFKN0Y3clpXUHBsYmlaYkRCa2I2QmYzdW11cXRMcDktTDRmQ3NueEhfNFR2QlhPRlk1bVd3eGtuVVhwSnNnZmdZOVEzVEZvOWRDNEU",
    "source": "finance.sina.com.cn",
    "published_at": "2026-10-03T07:08:32+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "finance.sina.com.cn",
+     "published_at": "2026-10-03T07:08:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iSmJKaHhBWjM2aEc2dTlBYkFBT0lSa19xUkNONjJFVlhJSm1vbXI2NkszMzFKN0Y3clpXUHBsYmlaYkRCa2I2QmYzdW11cXRMcDktTDRmQ3NueEhfNFR2QlhPRlk1bVd3eGtuVVhwSnNnZmdZOVEzVEZvOWRDNEU"
+    },
+    {
+     "name": "新浪财经",
      "published_at": "2026-10-03T07:08:32+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iSmJKaHhBWjM2aEc2dTlBYkFBT0lSa19xUkNONjJFVlhJSm1vbXI2NkszMzFKN0Y3clpXUHBsYmlaYkRCa2I2QmYzdW11cXRMcDktTDRmQ3NueEhfNFR2QlhPRlk1bVd3eGtuVVhwSnNnZmdZOVEzVEZvOWRDNEU"
     }
@@ -427,10 +466,15 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FQ3pJRmNuZnIyU0puV2Z4YWx4enVWMjRnbFhxRzFJMXIxWEhYdDhrWGszTVA5ODZCY29vemNiNTItV3loTWRjUUo5OWlCTUk3S1BLVU9KcU9ERVJXc2c",
    "source": "DoNews",
    "published_at": "2026-10-03T01:30:03+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "DoNews",
+     "published_at": "2026-10-03T01:30:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FQ3pJRmNuZnIyU0puV2Z4YWx4enVWMjRnbFhxRzFJMXIxWEhYdDhrWGszTVA5ODZCY29vemNiNTItV3loTWRjUUo5OWlCTUk3S1BLVU9KcU9ERVJXc2c"
+    },
+    {
+     "name": "donews.com",
      "published_at": "2026-10-03T01:30:03+00:00",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FQ3pJRmNuZnIyU0puV2Z4YWx4enVWMjRnbFhxRzFJMXIxWEhYdDhrWGszTVA5ODZCY29vemNiNTItV3loTWRjUUo5OWlCTUk3S1BLVU9KcU9ERVJXc2c"
     }
@@ -598,7 +642,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkZUS0FIQmV6LVcyclB0QWxjZ1ZtQ3JkMEVqT1d2T1haWTZjU094akVzRFV0WFpScHlOY1dRMHRRdWFxMkxhYjdVUEFSQ1dXYVVucXJwZEdyVmk1WjRKUnJLNEM0bTJWSHRuOGo4aS0tUFZZVFhmQ19zZGVocnhqV3RuTXZVX1p1",
    "source": "搜狐网",
    "published_at": "2026-10-03T00:46:52+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "搜狐网",
@@ -622,6 +666,11 @@
     },
     {
      "name": "finance.sina.com.cn",
+     "published_at": "2026-10-03T01:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWTzhNR0RGdHplOUlpdkQ4c0c2eHVyQldFbFRZeTkzWmdrcU5oQzhsdGpwMGFWUmV6RG05a3Q3MjkyTkdKcS1LX252dkRPRF9lYVdsR0JvYlhkSTNyVG4yXzVQU1FBcVlLajlWS1VGWFZTeFZCWjI0bg"
+    },
+    {
+     "name": "手机新浪网",
      "published_at": "2026-10-03T01:46:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWTzhNR0RGdHplOUlpdkQ4c0c2eHVyQldFbFRZeTkzWmdrcU5oQzhsdGpwMGFWUmV6RG05a3Q3MjkyTkdKcS1LX252dkRPRF9lYVdsR0JvYlhkSTNyVG4yXzVQU1FBcVlLajlWS1VGWFZTeFZCWjI0bg"
     }
@@ -789,7 +838,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54aGZhVHFoTHl6RjlHUDBYanIxeHppREZtRzZQR1Bfd3I1WEVnMDZaWGNVdlcxek9HeThya05BdzQ2SWVVVjZGbDhvRWhVeml6LWhuLS0tOUI",
    "source": "驱动之家",
    "published_at": "2026-10-02T23:37:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "驱动之家",
@@ -805,10 +854,16 @@
      "name": "finance.sina.cn",
      "published_at": "2026-10-03T00:11:16+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzlOd1BzaFVvRkZOZXdQNnNuUHBQbGZVc2E3Q2JmR0pBVmEtRnRnakVMRlNEX3pqLU4xODA3VjNOUm54REU5djJsczNwQW9FVDZsRGlVS284QUUtdXdVdUVZMU5qMWdsRHY3WlRpV1FSS21iZTZFZEZ3VjJGOUZ1WUFNQzZJaHdocXB4b0dIamI1REM4R1huTGxFd3UtVnVOOHcwMlkwQQ"
+    },
+    {
+     "name": "news.mydrivers.com",
+     "published_at": "2026-10-02T23:37:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54aGZhVHFoTHl6RjlHUDBYanIxeHppREZtRzZQR1Bfd3I1WEVnMDZaWGNVdlcxek9HeThya05BdzQ2SWVVVjZGbDhvRWhVeml6LWhuLS0tOUI"
     }
    ],
    "category": "其他",
    "session": "盘后",
+   "breaking": true,
    "zh_summary": "RTX 4090 FE散热器脱落维修费2700元",
    "title_zh": "英伟达旗舰卡刚过保就翻车！RTX 4090 FE散热器脱落：维修费高达2700元 - 驱动之家",
    "sentiment": -1
@@ -874,7 +929,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jQWQ4OHpYbmQtYmdRM1hjS1dRQ3MxQzBuN0h0dEJEaFREdTE4VDRzX2EtX2pEdEhXOE5nT3N4VkxvZGZEOEtxbnlreElrNVRwdXRxbWhhZU0",
    "source": "驱动之家",
    "published_at": "2026-10-02T23:16:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "驱动之家",
@@ -885,6 +940,11 @@
      "name": "搜狐网",
      "published_at": "2026-10-02T23:16:58+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmhHN1ZYRjhHaVRkQ1RQXzhQTWJRNV8wektBZUZwd3paelNfWjJjTVRWNGFGemszVkx5bGh1dFduODJIN1AweERzMTFVanhKaUlySDhFMEdmVElHa0NiYnBRZnM3eUhodlJKbWlqNXFpZlJNTHBoYVEyVncxRGFPODBWY0JvdWZM"
+    },
+    {
+     "name": "news.mydrivers.com",
+     "published_at": "2026-10-02T23:16:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jQWQ4OHpYbmQtYmdRM1hjS1dRQ3MxQzBuN0h0dEJEaFREdTE4VDRzX2EtX2pEdEhXOE5nT3N4VkxvZGZEOEtxbnlreElrNVRwdXRxbWhhZU0"
     }
    ],
    "category": "产品技术",
@@ -5481,6 +5541,28 @@
    "sentiment": 0
   },
   {
+   "id": "496d3d85cfac",
+   "title": "大涨超2%，英伟达股价创历史新高，总市值重返5.7万亿美元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxeVVKTTU2SWh2UXZzc0pKTUVIeGdYSFJ5dlpwc0Z0NE9EZVY2cXlJZzNhaG4tZWpiZHpIRE9sTm9TdXE5WjR6TUVYSXFKR0VoNXRoclJrR0NERDREQXFYOFZFdw",
+   "source": "东方财富",
+   "published_at": "2026-10-02T10:59:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-02T10:59:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxeVVKTTU2SWh2UXZzc0pKTUVIeGdYSFJ5dlpwc0Z0NE9EZVY2cXlJZzNhaG4tZWpiZHpIRE9sTm9TdXE5WjR6TUVYSXFKR0VoNXRoclJrR0NERDREQXFYOFZFdw"
+    },
+    {
+     "name": "news.china.com",
+     "published_at": "2026-10-02T14:10:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xb2VYbkhqT1d0Y1p0YnloSHpobFp0aU8yMGU1QTlyU0lhRXJNd0NOTWpqUlhDMXh5SWVtdjQxbEpqcmpWbnltZ0lleUN1Yl9Qa1R4eHVwNGJWX29zRVNkdS1EMXNMYWN5blBzaU9zY0g"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "773a4e307690",
    "title": "英伟达股价刷新历史新高 - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwV1AxenVsTjRWdjRjRExjU2hZX1c1dXRKV3NLYkJra2NhSEFfRzlIZnhaYk1mN3RRNDM4bFlsb1BCM3BrSGVSSUVVWHltT3ZZV2JRa21xdW1ZNDlGZktFOWRfRQ",
@@ -8033,85 +8115,6 @@
    "session": "盘后",
    "zh_summary": "初创公司获英伟达与英特尔投资",
    "title_zh": "获英伟达英特尔支持的AI光学初创公司",
-   "sentiment": 1
-  },
-  {
-   "id": "0d9cc11e22df",
-   "title": "英伟达市值一夜涨超4000亿元 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVlQdXdVOE5FRzJ1Q2FCbDBNY0VlLVduV3pwYlNGMDQtbFY5WXdmYzI4aDhYV2Z4Y3RJM2daR1pOM0VUUDU2dF9PczNGTFY2OHhtcnpEdEZDRmZIZm9fT1ZEeXUwYzJvb3g2c193bC1paWd6WnR4aVIwX1RaRG03bXM1Umh1R1BPbHJiTFM4QUdtWlV1eXMyTWs0S21sTDRTU3RtdGNTRQ",
-   "source": "新浪财经",
-   "published_at": "2026-10-01T23:46:56+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-01T23:46:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVlQdXdVOE5FRzJ1Q2FCbDBNY0VlLVduV3pwYlNGMDQtbFY5WXdmYzI4aDhYV2Z4Y3RJM2daR1pOM0VUUDU2dF9PczNGTFY2OHhtcnpEdEZDRmZIZm9fT1ZEeXUwYzJvb3g2c193bC1paWd6WnR4aVIwX1RaRG03bXM1Umh1R1BPbHJiTFM4QUdtWlV1eXMyTWs0S21sTDRTU3RtdGNTRQ"
-    },
-    {
-     "name": "finance.sina.cn",
-     "published_at": "2026-10-01T23:46:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTVlQdXdVOE5FRzJ1Q2FCbDBNY0VlLVduV3pwYlNGMDQtbFY5WXdmYzI4aDhYV2Z4Y3RJM2daR1pOM0VUUDU2dF9PczNGTFY2OHhtcnpEdEZDRmZIZm9fT1ZEeXUwYzJvb3g2c193bC1paWd6WnR4aVIwX1RaRG03bXM1Umh1R1BPbHJiTFM4QUdtWlV1eXMyTWs0S21sTDRTU3RtdGNTRQ"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-02T00:19:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelFucUdXNng3N3JwamwtOTBpSnNYMFVETWx3WXJPTFJwMTZXN3JmTkc2SkFZZTFlNWtIM2IyTHo3dDBLY0NTZFc1TTdoUmZNV3B2MTZHdkhjTVFzaXRpbGlyQ0hrRWhWZ2pBcm1lMFZhOEduUER2Ym5MNkJrTXdDenpvcS1URkZ2WXVTUWVLTnBLWUNLSExBNmJxS0tmTHZoeWl1VDhNdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达市值一夜涨超4000亿元",
-   "title_zh": "英伟达市值一夜涨超4000亿元 - 新浪财经",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.22,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "ba71eaddd85d",
-   "title": "Nvidia Branded Trailers Tricked Thieves Into Stealing 40,000LBS of Sand - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVlnZWhETU9NWHdiR3Q4WGw4TS1lTFlLc2tKSmdGOV8teWR6OE1HSFBiRm1BVkdRUlpCek5ST0xvMUVpVUZ5c05VVmw3MWpWWHl2VEFWM3R0dGNuSk1qNUpielFqSzN4ekNXYlNDRDBTc0l6bFJxSkxSZmcxOWhDQXVmUHBhU3RzLUp1alNCNjVHdV9pLW9SVQ",
-   "source": "Yahoo",
-   "published_at": "2026-10-01T23:28:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-01T23:28:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVlnZWhETU9NWHdiR3Q4WGw4TS1lTFlLc2tKSmdGOV8teWR6OE1HSFBiRm1BVkdRUlpCek5ST0xvMUVpVUZ5c05VVmw3MWpWWHl2VEFWM3R0dGNuSk1qNUpielFqSzN4ekNXYlNDRDBTc0l6bFJxSkxSZmcxOWhDQXVmUHBhU3RzLUp1alNCNjVHdV9pLW9SVQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "小偷被英伟达货车骗走4万磅沙子",
-   "title_zh": "小偷被英伟达品牌货车骗走4万磅沙子",
-   "sentiment": 0
-  },
-  {
-   "id": "e64eec2aa0db",
-   "title": "S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Cheer Cooling Yields — GOOGL, MU, MAT, NVDA In Focus - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUGg1X2Q3UXBoQVpwMklFRkNpZnF0WmNYRno1ZG9WdWxQc1ItYUhVR2pteUVCcDNUVFd5MmlFamxkZmZJMlFfQ0hNYU4tOXYzd2dLU3g0ZTNMbW5aVHNRWDB2bDNMc0RUaUJkYkJRT3FGNlVoRDFkMl9yNW5TZW5xY2hraWpyU2FzWk8xbHJkbXJhMnVuSEpwa1JEU25QWFVxN2dlRWJBMVVLajlVWGJZcndDMXFhSlgzbl94NW5tcUhJTDhHdldJSU5xbXpNcHZRM2xKeDJZVWpQRUtHQTRqbGtNNHE2cDR2MzZ5V2hObExlcTNPd0hQbEZ1UQ",
-   "source": "Stocktwits",
-   "published_at": "2026-10-01T23:27:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-01T23:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUGg1X2Q3UXBoQVpwMklFRkNpZnF0WmNYRno1ZG9WdWxQc1ItYUhVR2pteUVCcDNUVFd5MmlFamxkZmZJMlFfQ0hNYU4tOXYzd2dLU3g0ZTNMbW5aVHNRWDB2bDNMc0RUaUJkYkJRT3FGNlVoRDFkMl9yNW5TZW5xY2hraWpyU2FzWk8xbHJkbXJhMnVuSEpwa1JEU25QWFVxN2dlRWJBMVVLajlVWGJZcndDMXFhSlgzbl94NW5tcUhJTDhHdldJSU5xbXpNcHZRM2xKeDJZVWpQRUtHQTRqbGtNNHE2cDR2MzZ5V2hObExlcTNPd0hQbEZ1UQ"
-    },
-    {
-     "name": "stocktwits.com",
-     "published_at": "2026-10-01T23:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUGg1X2Q3UXBoQVpwMklFRkNpZnF0WmNYRno1ZG9WdWxQc1ItYUhVR2pteUVCcDNUVFd5MmlFamxkZmZJMlFfQ0hNYU4tOXYzd2dLU3g0ZTNMbW5aVHNRWDB2bDNMc0RUaUJkYkJRT3FGNlVoRDFkMl9yNW5TZW5xY2hraWpyU2FzWk8xbHJkbXJhMnVuSEpwa1JEU25QWFVxN2dlRWJBMVVLajlVWGJZcndDMXFhSlgzbl94NW5tcUhJTDhHdldJSU5xbXpNcHZRM2xKeDJZVWpQRUtHQTRqbGtNNHE2cDR2MzZ5V2hObExlcTNPd0hQbEZ1UQ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘后",
-   "zh_summary": "股指期货走高，NVDA等科技股受关注",
-   "title_zh": "股指期货走高，NVDA等科技股受关注",
    "sentiment": 1
   }
  ]
