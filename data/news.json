@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-02T23:51:31.211291+00:00",
+ "updated_at": "2026-10-03T00:06:31.328820+00:00",
  "market": {
-  "price": 233.95,
-  "change_pct": 1.34,
+  "price": 230.86,
+  "change_pct": 1.09,
   "as_of": "2026-10-02",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 46
   },
   "day_sentiment": {
-   "avg": 0.56,
-   "count": 218
+   "avg": 0.55,
+   "count": 220
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 97% 分位（偏高）"
+     "note": "现价处于52周区间 93% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +35.7%"
+     "note": "目标价中位数 $318（14家），隐含空间 +37.5%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.56（218条已评分）"
+     "note": "今日新闻情绪 +0.55（220条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $233.95 vs 20日均线 $223.79"
+     "note": "现价 $230.86 vs 20日均线 $223.51"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 97,
+   "price_52w_pct": 93,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 35.7,
-   "ma20": 223.79,
-   "as_of": "2026-10-02T23:51:31.187249+00:00"
+   "implied_upside_pct": 37.5,
+   "ma20": 223.51,
+   "as_of": "2026-10-03T00:06:31.310627+00:00"
   },
-  "pe_ttm": 29.7,
-  "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+35.7%空间：估值偏低，预期乐观"
+  "pe_ttm": 29.3,
+  "pe_pct_5y": 27,
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "12b6a2add50c",
+   "title": "纳指、英伟达，盘中双双创新高 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9faFlhMU56aV9jbnBGTzQ3MkJMUGtrSXpNLThlTzJmdGVVMDdmaFlQVDRPOVNhM3BhMmJtcVMzS0tZLUNlVVNWdTVqdTRlWWVqVDB4Z1pKdmREVDJ4YjE0YmlERQ",
+   "source": "东方财富",
+   "published_at": "2026-10-02T23:58:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-02T23:58:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9faFlhMU56aV9jbnBGTzQ3MkJMUGtrSXpNLThlTzJmdGVVMDdmaFlQVDRPOVNhM3BhMmJtcVMzS0tZLUNlVVNWdTVqdTRlWWVqVDB4Z1pKdmREVDJ4YjE0YmlERQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "c386e5cc9d3a",
    "title": "英伟达旗舰卡刚过保就翻车！RTX 4090 FE散热器脱落：维修费高达2700元 - 驱动之家",
@@ -77,9 +94,26 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "英伟达旗舰卡刚过保就翻车！RTX 4090 FE散热器脱落：维修费高达2700元 - 驱动之家",
    "zh_summary": "RTX 4090 FE散热器脱落维修费2700元",
+   "title_zh": "英伟达旗舰卡刚过保就翻车！RTX 4090 FE散热器脱落：维修费高达2700元 - 驱动之家",
    "sentiment": -1
+  },
+  {
+   "id": "8a7d0b2aa3e9",
+   "title": "美股收盘：纳指、英伟达盘中刷新纪录新高，费城半导体指数涨超2%，西部数据、希捷科技双双跌超10% - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMWZUbTktRmFIckQ4WHFDRmJTSXJaVGg0eUIzME5yLUVlSUF2Y1R1ZVV5b1NRcUxZX0cwbldDdjQxLW1jWFRsUXkyUEZJT3E5Z2hNWnBEV25YUFNvcUd6ODlMc24xRTdvMzZvVG5IVEdzQmRjMVE",
+   "source": "新浪财经",
+   "published_at": "2026-10-02T23:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-02T23:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CMWZUbTktRmFIckQ4WHFDRmJTSXJaVGg0eUIzME5yLUVlSUF2Y1R1ZVV5b1NRcUxZX0cwbldDdjQxLW1jWFRsUXkyUEZJT3E5Z2hNWnBEV25YUFNvcUd6ODlMc24xRTdvMzZvVG5IVEdzQmRjMVE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "bb8a237e8121",
@@ -97,8 +131,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "深夜全线大涨，美国重大发布 英伟达创历史新高 - cfi.net.cn",
    "zh_summary": "英伟达股价创历史新高",
+   "title_zh": "深夜全线大涨，美国重大发布 英伟达创历史新高 - cfi.net.cn",
    "sentiment": 1
   },
   {
@@ -312,10 +346,15 @@
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWtFMERtNTYxd1RBMW5tbGt5SDJQRks3QUZJbXFtVGtZdGtMVFFzZ05aNWJxajRjV2RYSjUwOGRrSlByTDVLS1N4VVJoRGRZWEMxN0JjTUcwU1dhbWVRS0xtWmtSeml5eWpVYmJNRHZnNXgtRkZaSmhSRXBWM3BNNkRQYVZWR0xrNWRmLWw3ajZqbmpkdUJyYlozbFZJYmIyQ05FTV92S1RGTlFNaUlidHM0UlNFcUxZSEJxZmdWUGNHV2pTcVdPZ09VaWtGSXpJZmc",
    "source": "South China Morning Post",
    "published_at": "2026-10-02T21:57:01+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "South China Morning Post",
+     "published_at": "2026-10-02T21:57:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWtFMERtNTYxd1RBMW5tbGt5SDJQRks3QUZJbXFtVGtZdGtMVFFzZ05aNWJxajRjV2RYSjUwOGRrSlByTDVLS1N4VVJoRGRZWEMxN0JjTUcwU1dhbWVRS0xtWmtSeml5eWpVYmJNRHZnNXgtRkZaSmhSRXBWM3BNNkRQYVZWR0xrNWRmLWw3ajZqbmpkdUJyYlozbFZJYmIyQ05FTV92S1RGTlFNaUlidHM0UlNFcUxZSEJxZmdWUGNHV2pTcVdPZ09VaWtGSXpJZmc"
+    },
+    {
+     "name": "scmp.com",
      "published_at": "2026-10-02T21:57:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWtFMERtNTYxd1RBMW5tbGt5SDJQRks3QUZJbXFtVGtZdGtMVFFzZ05aNWJxajRjV2RYSjUwOGRrSlByTDVLS1N4VVJoRGRZWEMxN0JjTUcwU1dhbWVRS0xtWmtSeml5eWpVYmJNRHZnNXgtRkZaSmhSRXBWM3BNNkRQYVZWR0xrNWRmLWw3ajZqbmpkdUJyYlozbFZJYmIyQ05FTV92S1RGTlFNaUlidHM0UlNFcUxZSEJxZmdWUGNHV2pTcVdPZ09VaWtGSXpJZmc"
     }
@@ -652,12 +691,12 @@
    "title": "Options Action: Nvidia marches toward $6 trillion - CNBC",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW1RbEZTb2QtcjRRM1BWbFQ2T1EzSThxSGlRYmR5b1RYeW9RenFkeFRUMk9hYVVKcmtqeW91OXVVRUk3UkZiSWswR2EtMHBKU29vVUxHalJnTXUtMlRVdzNKZ0gxeEhXbV9XeGdsS2VIN1pxWGt4ZUtWNjNhamhkNXo0NE5qUXNLOTVNOUxpSUJPbGdE",
    "source": "CNBC",
-   "published_at": "2026-10-02T19:58:09+00:00",
+   "published_at": "2026-10-02T19:55:30+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "CNBC",
-     "published_at": "2026-10-02T19:58:09+00:00",
+     "published_at": "2026-10-02T19:55:30+00:00",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW1RbEZTb2QtcjRRM1BWbFQ2T1EzSThxSGlRYmR5b1RYeW9RenFkeFRUMk9hYVVKcmtqeW91OXVVRUk3UkZiSWswR2EtMHBKU29vVUxHalJnTXUtMlRVdzNKZ0gxeEhXbV9XeGdsS2VIN1pxWGt4ZUtWNjNhamhkNXo0NE5qUXNLOTVNOUxpSUJPbGdE"
     }
    ],
@@ -8123,56 +8162,6 @@
    "session": "盘中",
    "zh_summary": "英伟达NeMo工具包联动AWS构建智能体记忆",
    "title_zh": "用NVIDIA NeMo智能体工具包与AWS S3向量构建智能体记忆",
-   "sentiment": 1
-  },
-  {
-   "id": "c81ec2fbe125",
-   "title": "CoreWeave brings Nvidia Vera Rubin, AI tools to its cloud services - Network World",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmYzcXJwVUZ6RWptRkNtZWxNSDh3YWMyMjRmb3VzUld3VzdYTTZHTDl4Y2dpcV9qYkEybkJNWTJrSG5HbkV6TlhJVFo3c0Fsa0JwVnNxNHVvT1BIbWJmcndNMndYekVybWlPSThNZ0VjQXR3M095SW5VQWVnRlZtMUhkVU54QXFfT2hPbU0xenduQmhucmhUbWVKXzdoTlVlazMwSGRpbFJBOVZvV1JSRzByaGZ6UQ",
-   "source": "Network World",
-   "published_at": "2026-10-01T17:13:23+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Network World",
-     "published_at": "2026-10-01T17:13:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmYzcXJwVUZ6RWptRkNtZWxNSDh3YWMyMjRmb3VzUld3VzdYTTZHTDl4Y2dpcV9qYkEybkJNWTJrSG5HbkV6TlhJVFo3c0Fsa0JwVnNxNHVvT1BIbWJmcndNMndYekVybWlPSThNZ0VjQXR3M095SW5VQWVnRlZtMUhkVU54QXFfT2hPbU0xenduQmhucmhUbWVKXzdoTlVlazMwSGRpbFJBOVZvV1JSRzByaGZ6UQ"
-    },
-    {
-     "name": "networkworld.com",
-     "published_at": "2026-10-01T17:13:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbmYzcXJwVUZ6RWptRkNtZWxNSDh3YWMyMjRmb3VzUld3VzdYTTZHTDl4Y2dpcV9qYkEybkJNWTJrSG5HbkV6TlhJVFo3c0Fsa0JwVnNxNHVvT1BIbWJmcndNMndYekVybWlPSThNZ0VjQXR3M095SW5VQWVnRlZtMUhkVU54QXFfT2hPbU0xenduQmhucmhUbWVKXzdoTlVlazMwSGRpbFJBOVZvV1JSRzByaGZ6UQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "CoreWeave引入英伟达Vera Rubin",
-   "title_zh": "CoreWeave云服务引入英伟达Vera Rubin",
-   "sentiment": 1
-  },
-  {
-   "id": "fdf39a60dd2f",
-   "title": "全球市值最大的公司（2026年9月）：英伟达5.56万亿美元居首，Meta大涨29%反超博通 - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdTBKaFFLbmFpQWgzSHVtb2dlOW9HNV8wXzY0VDdSdFFiTzZOU1VEa2VEVnV2S3VwMEJiTTJiVnVadmNSa2Itb0o1anZIOERNZ1hyN0ZQa3FyeEVDX3UyM2U5VWhNOExrWU9YZ0lrOUluRDFRSm5HcTNMNXBtTF95dVB4YmFiMVI3dFNBb2tuVVMzSWpyU0FRTU1JYkk4TTRXOWs1ZmxuXzZRN0dCOTUtb1Itbl9mMFk3VzhtZGhjXzV6NElRVFI5X3ZKZmNHdmE1eXpwRTBMcG5rRzdtaC1URHNtUExEQllmOXhRa2d3",
-   "source": "TradingKey",
-   "published_at": "2026-10-01T17:03:12+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-01T17:03:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdTBKaFFLbmFpQWgzSHVtb2dlOW9HNV8wXzY0VDdSdFFiTzZOU1VEa2VEVnV2S3VwMEJiTTJiVnVadmNSa2Itb0o1anZIOERNZ1hyN0ZQa3FyeEVDX3UyM2U5VWhNOExrWU9YZ0lrOUluRDFRSm5HcTNMNXBtTF95dVB4YmFiMVI3dFNBb2tuVVMzSWpyU0FRTU1JYkk4TTRXOWs1ZmxuXzZRN0dCOTUtb1Itbl9mMFk3VzhtZGhjXzV6NElRVFI5X3ZKZmNHdmE1eXpwRTBMcG5rRzdtaC1URHNtUExEQllmOXhRa2d3"
-    },
-    {
-     "name": "tradingkey.com",
-     "published_at": "2026-10-01T22:24:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdTBKaFFLbmFpQWgzSHVtb2dlOW9HNV8wXzY0VDdSdFFiTzZOU1VEa2VEVnV2S3VwMEJiTTJiVnVadmNSa2Itb0o1anZIOERNZ1hyN0ZQa3FyeEVDX3UyM2U5VWhNOExrWU9YZ0lrOUluRDFRSm5HcTNMNXBtTF95dVB4YmFiMVI3dFNBb2tuVVMzSWpyU0FRTU1JYkk4TTRXOWs1ZmxuXzZRN0dCOTUtb1Itbl9mMFk3VzhtZGhjXzV6NElRVFI5X3ZKZmNHdmE1eXpwRTBMcG5rRzdtaC1URHNtUExEQllmOXhRa2d3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达5.56万亿美元市值全球居首",
-   "title_zh": "全球市值最大：英伟达5.56万亿美元居首",
    "sentiment": 1
   }
  ]
