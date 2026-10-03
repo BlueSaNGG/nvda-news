@@ -137,6 +137,33 @@ body {
   font-size: 0.85rem;
 }
 
+/* ---------- 同行对比 ---------- */
+.peers-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin: 10px 0 4px;
+}
+.peer-card {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  padding: 10px 12px;
+}
+.peer-name {
+  font-size: 0.82rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.peer-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+.peer-sym { color: var(--muted); font-weight: 400; font-size: 0.72rem; }
+.peer-price { font-size: 1.05rem; font-weight: 800; margin-top: 4px; }
+.peer-chgs { display: flex; gap: 10px; font-size: 0.75rem; color: var(--muted); margin-top: 2px; }
+.peer-chgs .up { color: var(--green); }
+.peer-chgs .down { color: var(--red); }
+
 /* ---------- nav: desktop top / mobile bottom ---------- */
 .topnav { display: none; gap: 6px; margin-top: 12px; }
 .tnav {

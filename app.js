@@ -13,6 +13,7 @@ const SIG_URL = "data/signal_history.json";
 const FRESH_URL = "data/freshness.json";
 const QUOTE_URL = "data/quote.json";
 const ARCH_URL = "data/archive/";
+const PEERS_URL = "data/peers.json";
 const REFRESH_MS = 5 * 60 * 1000;
 const QUOTE_POLL_MS = 60 * 1000;
 const QUOTE_MAX_AGE_MS = 12 * 60 * 1000;
@@ -693,6 +694,109 @@ function thesisGroup(title, items, cls) {
   return '<div class="thesis-col ' + cls + '"><h3>' + title + "</h3>" + rows + "</div>";
 }
 
+/* ---------- 同行对比 ---------- */
+const PEER_ORDER = ["NVDA", "AMD", "AVGO", "MSFT"];
+const PEER_COLORS = { NVDA: "#76b900", AMD: "#ed1c24", AVGO: "#b366ff", MSFT: "#4da3ff" };
+
+function peerStats(closes) {
+  // closes: [[date, close], ...] ascending by date
+  const n = closes.length;
+  const last = closes[n - 1][1];
+  const pct = function (k) {
+    if (n <= k) return null;
+    const base = closes[n - 1 - k][1];
+    if (!base) return null;
+    return (last / base - 1) * 100;
+  };
+  return { last: last, d1m: pct(21), d3m: pct(63), d6m: pct(n - 1) };
+}
+
+function fmtPct(v) {
+  if (v == null || isNaN(v)) return "—";
+  return (v >= 0 ? "+" : "") + v.toFixed(1) + "%";
+}
+
+function renderPeers() {
+  const grid = document.getElementById("peers-grid");
+  const chartEl = document.getElementById("chart-peers");
+  const verdictEl = document.getElementById("peers-verdict");
+  const peers = cachedExtra && cachedExtra.peers;
+  const tk = (peers && peers.tickers) || {};
+  const avail = PEER_ORDER.filter(function (s) {
+    return tk[s] && tk[s].closes && tk[s].closes.length > 20;
+  });
+  if (!avail.length) {
+    grid.innerHTML = "";
+    chartEl.innerHTML = TRACK_EMPTY;
+    if (verdictEl) verdictEl.textContent = "";
+    return;
+  }
+  grid.innerHTML = avail.map(function (s) {
+    const st = peerStats(tk[s].closes);
+    const c3 = st.d3m != null && st.d3m < 0 ? "down" : "up";
+    return '<div class="peer-card">' +
+      '<div class="peer-name"><span class="peer-dot" style="background:' +
+      PEER_COLORS[s] + '"></span>' + esc(tk[s].zh) +
+      ' <span class="peer-sym">' + s + "</span></div>" +
+      '<div class="peer-price">$' + st.last.toFixed(2) + "</div>" +
+      '<div class="peer-chgs"><span>1M ' + fmtPct(st.d1m) + "</span>" +
+      '<span class="' + c3 + '">3M ' + fmtPct(st.d3m) + "</span></div>" +
+      "</div>";
+  }).join("");
+  const ranked = avail.map(function (s) {
+    return { s: s, v: peerStats(tk[s].closes).d3m || 0 };
+  }).sort(function (a, b) { return b.v - a.v; });
+  const nvRank = ranked.findIndex(function (r) { return r.s === "NVDA"; }) + 1;
+  if (verdictEl) {
+    verdictEl.textContent = "近3个月 " + ranked.map(function (r) {
+      return r.s + " " + fmtPct(r.v);
+    }).join(" · ") + "；NVDA 排第 " + nvRank + "/" + ranked.length;
+  }
+  // 归一化走势（起点=100）
+  const H = 170, PT = 8, PB = 20, PL = 38, PR = 6;
+  const W = CW - PL - PR;
+  const norm = {};
+  let lo = Infinity, hi = -Infinity;
+  avail.forEach(function (s) {
+    const cs = tk[s].closes, base = cs[0][1];
+    norm[s] = cs.map(function (p) { return p[1] / base * 100; });
+    norm[s].forEach(function (v) { if (v < lo) lo = v; if (v > hi) hi = v; });
+  });
+  if (hi <= lo) hi = lo + 1;
+  const pad = (hi - lo) * 0.12 || 1;
+  const tlo = lo - pad, thi = hi + pad;
+  const n = norm[avail[0]].length;
+  const X = function (i) { return PL + W * (n === 1 ? 0.5 : i / (n - 1)); };
+  const Y = function (v) { return PT + (H - PT - PB) * (1 - (v - tlo) / (thi - tlo)); };
+  let svg = "";
+  for (let g = 0; g <= 3; g++) {
+    const tv = tlo + (thi - tlo) * g / 3, y = Y(tv);
+    svg += '<line x1="' + PL + '" y1="' + y.toFixed(1) + '" x2="' + (PL + W) +
+      '" y2="' + y.toFixed(1) + '" class="grid"/>' +
+      '<text x="' + (PL - 4) + '" y="' + (y + 3).toFixed(1) +
+      '" class="ylab" text-anchor="end">' + Math.round(tv) + "</text>";
+  }
+  avail.forEach(function (s) {
+    let d = "";
+    norm[s].forEach(function (v, i) {
+      d += (i ? "L" : "M") + X(i).toFixed(1) + " " + Y(v).toFixed(1) + " ";
+    });
+    svg += '<path d="' + d + '" class="cline" stroke="' + PEER_COLORS[s] + '"/>';
+  });
+  const dates = tk[avail[0]].closes.map(function (p) { return p[0]; });
+  const seenMo = {};
+  dates.forEach(function (dt, i) {
+    const mo = dt.slice(0, 7);
+    if (!(mo in seenMo)) seenMo[mo] = i;
+  });
+  Object.keys(seenMo).forEach(function (mo) {
+    svg += '<text x="' + X(seenMo[mo]).toFixed(1) + '" y="' + (H - 6) +
+      '" class="xlab" text-anchor="middle">' + parseInt(mo.slice(5), 10) +
+      "月</text>";
+  });
+  chartEl.innerHTML = chartSvg(H, svg);
+}
+
 function renderThesis(th) {
   const el = document.getElementById("thesis");
   if (!th || !th.bull) { el.innerHTML = '<p class="track-empty">投资逻辑加载中…</p>'; return; }
@@ -726,6 +830,7 @@ function renderTrack() {
   renderRmCountdown();
   renderValuation(cachedNews && cachedNews.market);
   renderSignalHistory();
+  renderPeers();
   renderThesis(cachedExtra && cachedExtra.thesis);
   initTrackChips();
   syncChipsOffset();
@@ -1364,7 +1469,7 @@ function fetchLiveQuote() {
 
 async function load() {
   try {
-    const [news, earnings, roadmap, thesis, financials, price, history, targets, gloss, signal, fresh] = await Promise.all([
+    const [news, earnings, roadmap, thesis, financials, price, history, targets, gloss, signal, fresh, peers] = await Promise.all([
       fetchJson(NEWS_URL),
       fetchJson(EARNINGS_URL).catch(() => null),
       fetchJson(ROADMAP_URL).catch(() => null),
@@ -1376,9 +1481,10 @@ async function load() {
       fetchJson(GLOSS_URL).catch(() => null),
       fetchJson(SIG_URL).catch(() => null),
       fetchJson(FRESH_URL).catch(() => null),
+      fetchJson(PEERS_URL).catch(() => null),
     ]);
     cachedNews = news;
-    cachedExtra = { earnings, roadmap, thesis, financials, price, history, targets, signal, fresh };
+    cachedExtra = { earnings, roadmap, thesis, financials, price, history, targets, signal, fresh, peers };
     setGlossary(gloss);
     renderToday(news);
     renderNews(news);

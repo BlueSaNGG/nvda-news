@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>NVDA Pulse</title>
-<link rel="stylesheet" href="styles.css?v=20261003a">
+<link rel="stylesheet" href="styles.css?v=20261003b">
 </head>
 <body>
 <header class="brand-header">
@@ -85,6 +85,7 @@
         <button class="tchip" data-sec="sec-targets">目标价</button>
         <button class="tchip" data-sec="sec-roadmap">路线图</button>
         <button class="tchip" data-sec="sec-valuation">估值</button>
+        <button class="tchip" data-sec="sec-peers">同行</button>
         <button class="tchip" data-sec="sec-thesis">投资逻辑</button>
       </nav>
       <p class="eyebrow" id="sec-earnings">EARNINGS · 财报跟踪 <span class="fresh" id="fresh-earnings"></span></p>
@@ -130,6 +131,14 @@
       <div class="chart-block">
         <h3>信号历史 <span class="chart-sub">每日信号 · 自 2026-10-01 起积累</span></h3>
         <div id="chart-signal" class="chart"></div>
+      </div>
+
+      <p class="eyebrow" id="sec-peers">PEERS · 同行对比 <span class="fresh" id="fresh-peers"></span></p>
+      <p class="track-sub" id="peers-verdict"></p>
+      <div class="peers-grid" id="peers-grid"></div>
+      <div class="chart-block">
+        <div id="chart-peers" class="chart"></div>
+        <p class="chart-cap">近 6 个月日收盘价归一化（起点=100）；数据来自 Yahoo Finance，每日更新。</p>
       </div>
 
       <p class="eyebrow" id="sec-thesis">THESIS · 投资逻辑 <span class="fresh" id="fresh-thesis"></span></p>
@@ -209,6 +218,6 @@
   </div>
 </div>
 
-<script src="app.js?v=20261003a"></script>
+<script src="app.js?v=20261003b"></script>
 </body>
 </html>
