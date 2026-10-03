@@ -15,7 +15,7 @@ const QUOTE_URL = "data/quote.json";
 const ARCH_URL = "data/archive/";
 const PEERS_URL = "data/peers.json";
 const REFRESH_MS = 5 * 60 * 1000;
-const QUOTE_POLL_MS = 60 * 1000;
+const QUOTE_POLL_MS = 30 * 1000;
 const QUOTE_MAX_AGE_MS = 12 * 60 * 1000;
 
 let currentScreen = "today";
@@ -303,7 +303,7 @@ function renderMarket(market) {
       (up ? "▲" : "▼") + " " + (up ? "+" : "") +
       market.change_pct.toFixed(2) + "%</span>";
     if (market._live) {
-      html += '<span class="quote-live">· 约5分钟延迟</span>';
+      html += '<span class="quote-live">· 约2分钟延迟</span>';
     }
   }
   const ne = market.next_earnings;
