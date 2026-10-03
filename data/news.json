@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T20:51:27.762826+00:00",
+ "updated_at": "2026-10-03T21:06:29.955676+00:00",
  "market": {
   "price": 233.95,
   "change_pct": 1.34,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.02,
-   "count": 45
+   "count": 47
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.02（45条已评分）"
+     "note": "今日新闻情绪 +0.02（47条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 35.7,
    "ma20": 223.79,
-   "as_of": "2026-10-03T20:51:27.754302+00:00"
+   "as_of": "2026-10-03T21:06:29.942447+00:00"
   },
   "pe_ttm": 29.7,
   "pe_pct_5y": 28,
@@ -808,10 +808,15 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jWHFUZmM1S2lNVFFHZFJCczVoc1FuSllib2NBaV85WjJneEZMWUpRcjdwd25ETjBxXzQzUHY5N1I3YTJnOTNPWkRnb3NyX2JqNnVZ",
    "source": "eet-china.com",
    "published_at": "2026-10-03T10:10:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "eet-china.com",
+     "published_at": "2026-10-03T10:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jWHFUZmM1S2lNVFFHZFJCczVoc1FuSllib2NBaV85WjJneEZMWUpRcjdwd25ETjBxXzQzUHY5N1I3YTJnOTNPWkRnb3NyX2JqNnVZ"
+    },
+    {
+     "name": "电子工程专辑",
      "published_at": "2026-10-03T10:10:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jWHFUZmM1S2lNVFFHZFJCczVoc1FuSllib2NBaV85WjJneEZMWUpRcjdwd25ETjBxXzQzUHY5N1I3YTJnOTNPWkRnb3NyX2JqNnVZ"
     }
@@ -987,26 +992,6 @@
    "session": "周末",
    "zh_summary": "英伟达股价创今年新高，逼近6万亿美元市值",
    "title_zh": "逼近6万亿美元市值，英伟达股价刷新今年5月历史高点 - 搜狐网",
-   "sentiment": 1
-  },
-  {
-   "id": "cc91c76395fa",
-   "title": "NVIDIA Corporation $NVDA Stock Acquired by Empirical Asset Management LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYkx6d2dKbldzVmVpUnc3QnFTaU50VWJKTHdmQTBmeVoyNkVLQjFlWElCSl9zU0ZGNGtlT2hva2RfUmVoRk1mY0Nic2F6VlNSYzh4R09Zcm5qTTgxSmZfZWpVTURydDJvb0I3bzZmSmZWM0Z4aXk1MUdfTllubWg1UEd0YzNuSmxCcjFpRjlEclYwMzl6bWtvMHNzX2xSTmhfd3VCaVpwbkFMU0dDaFBPelFHVlN0bVM2Y0Mwb01hMUYzeUpHZTVyMHJvSlJlQQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-03T07:12:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-03T07:12:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYkx6d2dKbldzVmVpUnc3QnFTaU50VWJKTHdmQTBmeVoyNkVLQjFlWElCSl9zU0ZGNGtlT2hva2RfUmVoRk1mY0Nic2F6VlNSYzh4R09Zcm5qTTgxSmZfZWpVTURydDJvb0I3bzZmSmZWM0Z4aXk1MUdfTllubWg1UEd0YzNuSmxCcjFpRjlEclYwMzl6bWtvMHNzX2xSTmhfd3VCaVpwbkFMU0dDaFBPelFHVlN0bVM2Y0Mwb01hMUYzeUpHZTVyMHJvSlJlQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Empirical资产管理买入NVDA股票",
-   "title_zh": "Empirical资产管理公司买入英伟达股票",
    "sentiment": 1
   },
   {
@@ -6245,26 +6230,6 @@
    }
   },
   {
-   "id": "5c8a4ec53e79",
-   "title": "NVDA Stock Hits Record High After Morgan Stanley Names Nvidia Top Pick, Says AI Trends Play To Its ‘Strengths’ - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZV9PanEzZnU4aTRVVXhZd05pbGZ2S2dFeXRVanN4VlNYZVFYQnkwblVJUktfbGJEbllFZlVtaWo4WUJCWHpCRlVKOWxrZzhPRHJGZE9nMXgxczl6M2dhU0hVUnBQQVJCNHVqVDE4MWNmai1LVTFYQ2hXOTVDbWI1b18wWDBPUmZxYnhSZTNfUHBaSHdXcEZjdUN3NUtqRkRaYldTRjVWZXdVM00zZ3RoTUFKclVRVVZsc2w4ZHIxaG9kV2tjVnNwU2RwY2tIUVNsQXE0Nk9neFhMdHdxNjl1MXpOSUx2RFFGMFY1bVNOWTUzQ1p6blZnRC1DVQ",
-   "source": "TradingView",
-   "published_at": "2026-10-02T12:49:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-02T12:49:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZV9PanEzZnU4aTRVVXhZd05pbGZ2S2dFeXRVanN4VlNYZVFYQnkwblVJUktfbGJEbllFZlVtaWo4WUJCWHpCRlVKOWxrZzhPRHJGZE9nMXgxczl6M2dhU0hVUnBQQVJCNHVqVDE4MWNmai1LVTFYQ2hXOTVDbWI1b18wWDBPUmZxYnhSZTNfUHBaSHdXcEZjdUN3NUtqRkRaYldTRjVWZXdVM00zZ3RoTUFKclVRVVZsc2w4ZHIxaG9kV2tjVnNwU2RwY2tIUVNsQXE0Nk9neFhMdHdxNjl1MXpOSUx2RFFGMFY1bVNOWTUzQ1p6blZnRC1DVQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "摩根士丹利将英伟达列为首选股",
-   "title_zh": "大摩将英伟达列为首选股，股价创历史新高",
-   "sentiment": 2
-  },
-  {
    "id": "267a85555403",
    "title": "How Serious Is Alphabet’s Threat to Nvidia? - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnRBWnhTSk80OFU3amJCZi1NR3VIZlJqRXBNUWpiN2ljeDhXYm0taGhQanoxbnJBWExCVWhqay1La0Q0RnlnbHVkdUtqZVdFenFsVUdzNFdkSFZhUXVBalhsZnlFNnhFeGVJTEg4a3JpclpWeURlQkZQZ2VhTlhTWjBWcDdEUko5am9hR1pn",
@@ -8035,6 +8000,40 @@
    "zh_summary": "Meeder Advisory买入NVDA股票",
    "title_zh": "Meeder Advisory Services买入英伟达NVDA股票",
    "sentiment": 1
+  },
+  {
+   "id": "3bcf40f36d8b",
+   "title": "NVIDIA Corporation $NVDA Stock Sold by Artemis Wealth Advisors LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemlUeHNqODE1dnlNU2sxV1EtTXpVeFlpWjBMT001b21iZ1FZZmdLRVdndnc4alByVUlnM0JzR3BVX3FJQmxCTHFpQnhRRkRsNDdaUkROa0Y0Z1hMUW5sQzBvN0JQemZqcTcweWZpY3g3Um5OSmNWYVNxZmtSRVIzcGg2MFB2NVhHWGpMMHVMd3RzMHRYUk9pTkc1VGFST2laV1M0RUQ5ZnJiMDNXaUN6V2NrOTM2TjV3T1MtVGwxUW10b3p6",
+   "source": "MarketBeat",
+   "published_at": "2026-10-02T07:06:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-02T07:06:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemlUeHNqODE1dnlNU2sxV1EtTXpVeFlpWjBMT001b21iZ1FZZmdLRVdndnc4alByVUlnM0JzR3BVX3FJQmxCTHFpQnhRRkRsNDdaUkROa0Y0Z1hMUW5sQzBvN0JQemZqcTcweWZpY3g3Um5OSmNWYVNxZmtSRVIzcGg2MFB2NVhHWGpMMHVMd3RzMHRYUk9pTkc1VGFST2laV1M0RUQ5ZnJiMDNXaUN6V2NrOTM2TjV3T1MtVGwxUW10b3p6"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "1dad9978ead7",
+   "title": "Nvidia’s Blind Spots Exposed by China Chip Smuggling - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnZqUE1kc1RPWjZZTkV6Rjl0NGlnQ0szamJ5YWFURzFpVWJYUThldVJ2Wm5vSEJBTnVGZjlvMEs3REpRVDJaeU5nMDV2bmEzOVV3cE9sYTdZa3g0c2FnNnlhNThXMnBDQTJjZFczaUtJZTZmT0tsMHc4cWZ0U3R6UzRUVUc4V2VNeUdWMS1oU2xDcllzZ05TakN1c1c4Zi1Vc2pQOTFHSVFSY1hI",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-02T06:49:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-02T06:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnZqUE1kc1RPWjZZTkV6Rjl0NGlnQ0szamJ5YWFURzFpVWJYUThldVJ2Wm5vSEJBTnVGZjlvMEs3REpRVDJaeU5nMDV2bmEzOVV3cE9sYTdZa3g0c2FnNnlhNThXMnBDQTJjZFczaUtJZTZmT0tsMHc4cWZ0U3R6UzRUVUc4V2VNeUdWMS1oU2xDcllzZ05TakN1c1c4Zi1Vc2pQOTFHSVFSY1hI"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   }
  ]
 }
