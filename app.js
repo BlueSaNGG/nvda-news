@@ -12,6 +12,7 @@ const GLOSS_URL = "data/glossary.json";
 const SIG_URL = "data/signal_history.json";
 const FRESH_URL = "data/freshness.json";
 const QUOTE_URL = "data/quote.json";
+const ARCH_URL = "data/archive/";
 const REFRESH_MS = 5 * 60 * 1000;
 const QUOTE_POLL_MS = 60 * 1000;
 const QUOTE_MAX_AGE_MS = 12 * 60 * 1000;
@@ -22,6 +23,9 @@ let currentQuery = "";
 let cachedNews = null;
 let cachedExtra = null;
 let liveQuote = null; // latest tick from price_tick.py cron (5-min cadence)
+let searchScope = "recent"; // "recent" | "history"
+let historyPool = null;     // deduped archive + recent stories, loaded on demand
+let historyLoading = false;
 let glossary = [];          // [{term, en, explain}]，按 term 长度降序
 let glossaryMap = {};       // 小写 term -> term 对象
 
@@ -436,7 +440,9 @@ function renderNews(data) {
   const empty = document.getElementById("empty");
   const countEl = document.getElementById("search-count");
 
-  const stories = Array.isArray(data.stories) ? data.stories : [];
+  const recent = Array.isArray(data.stories) ? data.stories : [];
+  const inHistory = searchScope === "history" && historyPool;
+  const stories = inHistory ? historyPool : recent;
   const q = currentQuery.toLowerCase();
   const filtered = stories.filter((s) => {
     if (currentCat !== "全部" && (s.category || "其他") !== currentCat) return false;
@@ -446,7 +452,8 @@ function renderNews(data) {
 
   if (q) {
     countEl.hidden = false;
-    countEl.textContent = "找到 " + filtered.length + " 条";
+    countEl.textContent = (inHistory ? "历史中找到 " : "找到 ") +
+      filtered.length + " 条";
   } else {
     countEl.hidden = true;
   }
@@ -1395,21 +1402,85 @@ function initTabs() {
   });
 }
 
+/* ---------- 历史搜索：按月归档，按需加载 ---------- */
+async function ensureHistory() {
+  if (historyPool) return historyPool;
+  const idx = await fetchJson(ARCH_URL + "index.json");
+  const months = Array.isArray(idx.months) ? idx.months : [];
+  const files = await Promise.all(months.map((m) =>
+    fetchJson(ARCH_URL + m + ".json").catch(() => null)));
+  const seen = new Set();
+  const pool = [];
+  const recent = (cachedNews && cachedNews.stories) || [];
+  const archived = [];
+  for (const f of files) {
+    if (f && Array.isArray(f.stories)) archived.push(...f.stories);
+  }
+  for (const s of recent.concat(archived)) {
+    if (!s || !s.id || seen.has(s.id)) continue;
+    seen.add(s.id);
+    pool.push(s);
+  }
+  pool.sort((a, b) =>
+    String(b.published_at || "").localeCompare(String(a.published_at || "")));
+  historyPool = pool;
+  return pool;
+}
+
+function loadHistoryThenRender() {
+  if (!cachedNews) return;
+  if (historyPool || historyLoading) {
+    if (historyPool) renderNews(cachedNews);
+    return;
+  }
+  historyLoading = true;
+  const timeline = document.getElementById("timeline");
+  const empty = document.getElementById("empty");
+  const countEl = document.getElementById("search-count");
+  empty.hidden = true;
+  countEl.hidden = true;
+  timeline.innerHTML = '<div class="history-loading">正在加载历史新闻…</div>';
+  ensureHistory().catch(() => null).then(() => {
+    historyLoading = false;
+    if (cachedNews && searchScope === "history" && currentQuery) {
+      renderNews(cachedNews);
+    }
+  });
+}
+
+function setScope(scope) {
+  searchScope = scope;
+  document.querySelectorAll("#search-scope .scope-btn").forEach((b) =>
+    b.classList.toggle("active", b.dataset.scope === scope));
+  if (!cachedNews) return;
+  if (scope === "history" && currentQuery) loadHistoryThenRender();
+  else renderNews(cachedNews);
+}
+
+function onQueryChange() {
+  currentQuery = document.getElementById("search").value.trim();
+  document.getElementById("search-clear").hidden = !currentQuery;
+  document.getElementById("search-scope").hidden = !currentQuery;
+  if (!currentQuery && searchScope !== "recent") {
+    setScope("recent");
+    return;
+  }
+  if (!cachedNews) return;
+  if (searchScope === "history" && currentQuery) loadHistoryThenRender();
+  else renderNews(cachedNews);
+}
+
 function initSearch() {
   const input = document.getElementById("search");
   const clear = document.getElementById("search-clear");
-  input.addEventListener("input", () => {
-    currentQuery = input.value.trim();
-    clear.hidden = !currentQuery;
-    if (cachedNews) renderNews(cachedNews);
-  });
+  input.addEventListener("input", onQueryChange);
   clear.addEventListener("click", () => {
     input.value = "";
-    currentQuery = "";
-    clear.hidden = true;
-    if (cachedNews) renderNews(cachedNews);
+    onQueryChange();
     input.blur();
   });
+  document.querySelectorAll("#search-scope .scope-btn").forEach((b) =>
+    b.addEventListener("click", () => setScope(b.dataset.scope)));
 }
 
 initNav();

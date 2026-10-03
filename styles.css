@@ -112,6 +112,31 @@ body {
 .earn { color: var(--muted); font-size: 0.8rem; }
 .quote-live { color: var(--green); font-size: 0.72rem; font-weight: 600; }
 
+/* ---------- 历史搜索范围切换 ---------- */
+.search-scope { display: flex; gap: 8px; margin: 8px 0 2px; }
+.search-scope[hidden] { display: none; }
+.scope-btn {
+  border: 1px solid var(--card-border);
+  background: var(--card);
+  color: var(--muted);
+  font-size: 0.78rem;
+  padding: 5px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+.scope-btn.active {
+  background: var(--green);
+  border-color: var(--green);
+  color: #0b0e11;
+  font-weight: 700;
+}
+.history-loading {
+  text-align: center;
+  color: var(--muted);
+  padding: 28px 0;
+  font-size: 0.85rem;
+}
+
 /* ---------- nav: desktop top / mobile bottom ---------- */
 .topnav { display: none; gap: 6px; margin-top: 12px; }
 .tnav {
