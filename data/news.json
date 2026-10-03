@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T18:36:28.571295+00:00",
+ "updated_at": "2026-10-03T18:51:31.025029+00:00",
  "market": {
   "price": 233.95,
   "change_pct": 1.34,
@@ -10,8 +10,8 @@
    "days_left": 45
   },
   "day_sentiment": {
-   "avg": 0.1,
-   "count": 40
+   "avg": 0.07,
+   "count": 41
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（40条已评分）"
+     "note": "今日新闻情绪 +0.07（41条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 35.7,
    "ma20": 223.79,
-   "as_of": "2026-10-03T18:36:28.559164+00:00"
+   "as_of": "2026-10-03T18:51:30.997505+00:00"
   },
   "pe_ttm": 29.7,
   "pe_pct_5y": 28,
@@ -62,15 +62,40 @@
  },
  "stories": [
   {
+   "id": "c8b4774d24c7",
+   "title": "AI Boom Pushes 7-Year-Old Nvidia Shield TV Price Up $100 - The Tech Buzz",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmJWcDFxMElGaEt5bERCTWhIdHo2bng5MUdfVnVhQ3c5aGtmM2RINzZKU2JTZEthOFNjRzhpMVM2eldiLW5RN0lRck9yeGpQWFNiczBsUFR2RXIySndBLWMwTE10N0xoeXhBaDMzbV9YVXpJbngxSkt0R3dMZGZKaFN5cTJ6SC1UaFpaMmRuRmZkQQ",
+   "source": "The Tech Buzz",
+   "published_at": "2026-10-03T18:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Tech Buzz",
+     "published_at": "2026-10-03T18:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmJWcDFxMElGaEt5bERCTWhIdHo2bng5MUdfVnVhQ3c5aGtmM2RINzZKU2JTZEthOFNjRzhpMVM2eldiLW5RN0lRck9yeGpQWFNiczBsUFR2RXIySndBLWMwTE10N0xoeXhBaDMzbV9YVXpJbngxSkt0R3dMZGZKaFN5cTJ6SC1UaFpaMmRuRmZkQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末",
+   "zh_summary": "AI热潮推动英伟达Shield TV涨价100美元",
+   "title_zh": "AI热潮推动七年老款英伟达Shield TV涨价100美元",
+   "sentiment": 0
+  },
+  {
    "id": "9d90238ee64d",
    "title": "7-year-old Nvidia Shield TV Pro gets shocking 50% price hike driven by AI memory shortage — chipmaker axes entry-level Shield TV as component prices soar - Tom's Hardware",
    "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxObDRmNG9oN1RpNnJDMmZaTThXb054TlBDcERRa1ZicVFCZndDdXdyeHRoUFNDdURCbHR1YjFrSENuUWRmbFlHTnVGWlNxMXMteHhacC1jM0U5TnFRemc2TVREZDJTaG0weUpWcERJS1JpcFVJZ29XRnBfekt0U0FGSHlJd0VQaGJfNkp1ak1hMVI2UTZmMV9WMF9LR25ORWc5QnctcDJseWVEVXhiMjdrY3dqUlNYNlhwVkV4eUZzSGpQdDJXaWZrX2szQVZZNWpNNGN0SVdyb2NkMUZrcWZCT3lIZ3NSLTNoSVR6S3FGcE96c04teXoxalR6LWhZSW1vZVFQYTBfZjlVelV4NHN6eHo0V2pteEJCSUVQQmVUeUJZRHI3dk1XZ3BBa0ZLS1F2bXBOX0xJSGhsOUE",
    "source": "Tom's Hardware",
    "published_at": "2026-10-03T16:59:51+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Tom's Hardware",
+     "published_at": "2026-10-03T16:59:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxObDRmNG9oN1RpNnJDMmZaTThXb054TlBDcERRa1ZicVFCZndDdXdyeHRoUFNDdURCbHR1YjFrSENuUWRmbFlHTnVGWlNxMXMteHhacC1jM0U5TnFRemc2TVREZDJTaG0weUpWcERJS1JpcFVJZ29XRnBfekt0U0FGSHlJd0VQaGJfNkp1ak1hMVI2UTZmMV9WMF9LR25ORWc5QnctcDJseWVEVXhiMjdrY3dqUlNYNlhwVkV4eUZzSGpQdDJXaWZrX2szQVZZNWpNNGN0SVdyb2NkMUZrcWZCT3lIZ3NSLTNoSVR6S3FGcE96c04teXoxalR6LWhZSW1vZVFQYTBfZjlVelV4NHN6eHo0V2pteEJCSUVQQmVUeUJZRHI3dk1XZ3BBa0ZLS1F2bXBOX0xJSGhsOUE"
+    },
+    {
+     "name": "tomshardware.com",
      "published_at": "2026-10-03T16:59:51+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxObDRmNG9oN1RpNnJDMmZaTThXb054TlBDcERRa1ZicVFCZndDdXdyeHRoUFNDdURCbHR1YjFrSENuUWRmbFlHTnVGWlNxMXMteHhacC1jM0U5TnFRemc2TVREZDJTaG0weUpWcERJS1JpcFVJZ29XRnBfekt0U0FGSHlJd0VQaGJfNkp1ak1hMVI2UTZmMV9WMF9LR25ORWc5QnctcDJseWVEVXhiMjdrY3dqUlNYNlhwVkV4eUZzSGpQdDJXaWZrX2szQVZZNWpNNGN0SVdyb2NkMUZrcWZCT3lIZ3NSLTNoSVR6S3FGcE96c04teXoxalR6LWhZSW1vZVFQYTBfZjlVelV4NHN6eHo0V2pteEJCSUVQQmVUeUJZRHI3dk1XZ3BBa0ZLS1F2bXBOX0xJSGhsOUE"
     }
@@ -337,10 +362,15 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLUJzbnd4OEUzVk9pV2hJLWRwWWMwOHNoNENiZFVCalpnZ0pxZENwRVlRRHZQVjlHWGRjYklvOU9GaEhib3JvMDdzZlFYVHFMVy1laW1Bb1FibEFPMEtEVlp2dl9GNUVqUzhIUXV0Tkh3Vm9qcUJDQ1V5NVdHZWhXTVpEa0RBc2I5VnBTQzBrZFhlVUE2bmJaNHhpc2I0NWZQUElwSkhVazBQOEpoZ0UtYTRZYWtsUzAzeE9XaEEwci1iTlJ4WXFMRTJHcw",
    "source": "TradingView",
    "published_at": "2026-10-03T14:10:51+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TradingView",
+     "published_at": "2026-10-03T14:10:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLUJzbnd4OEUzVk9pV2hJLWRwWWMwOHNoNENiZFVCalpnZ0pxZENwRVlRRHZQVjlHWGRjYklvOU9GaEhib3JvMDdzZlFYVHFMVy1laW1Bb1FibEFPMEtEVlp2dl9GNUVqUzhIUXV0Tkh3Vm9qcUJDQ1V5NVdHZWhXTVpEa0RBc2I5VnBTQzBrZFhlVUE2bmJaNHhpc2I0NWZQUElwSkhVazBQOEpoZ0UtYTRZYWtsUzAzeE9XaEEwci1iTlJ4WXFMRTJHcw"
+    },
+    {
+     "name": "tradingview.com",
      "published_at": "2026-10-03T14:10:51+00:00",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLUJzbnd4OEUzVk9pV2hJLWRwWWMwOHNoNENiZFVCalpnZ0pxZENwRVlRRHZQVjlHWGRjYklvOU9GaEhib3JvMDdzZlFYVHFMVy1laW1Bb1FibEFPMEtEVlp2dl9GNUVqUzhIUXV0Tkh3Vm9qcUJDQ1V5NVdHZWhXTVpEa0RBc2I5VnBTQzBrZFhlVUE2bmJaNHhpc2I0NWZQUElwSkhVazBQOEpoZ0UtYTRZYWtsUzAzeE9XaEEwci1iTlJ4WXFMRTJHcw"
     }
@@ -3316,7 +3346,7 @@
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVlJzOHA5dmVfVS1jQ2dQRmpvUnY4eVI1ZkNqYk1sZUFVUlduZF9xMmo5aE9UUmVGZ3FpU05GUW01UW5PNkdqWVFncTRkX09FUUl0clBZMHlKb2J0R2VzSnB5NW55dGllVDJSMmJYaDBHTTFFMERTMkt5dVlXdDh5ZDZ6SDA0NWdHTXZyaWVCcDJQWUZFRDI3Vlhobjh2a2wtZ3RtM0psOC1aYmo2U0dsbTNWZC16Z0ZsTFF4cUFZQXlIQVo0cWZfbllOajN4WjVKTUR1MWZETXd2Zw",
    "source": "Benzinga",
    "published_at": "2026-10-02T16:52:39+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Benzinga",
@@ -3332,10 +3362,16 @@
      "name": "TradingView",
      "published_at": "2026-10-02T16:52:39+00:00",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObjcwNjV3cTJzd0VtWXNtVld1MGpBQXdKa0hLS1VlMDFmRXZua2RMTDdvSnFlY0oxMFBlTVdaN1B0eGcyTGw5dFRvVXJPS05kUHowVkxjLWstY1hvbmh0ODVCZGJCQW1hMTRYcnZuZVhIUWN6bFUtaEo5S2NpNUpRSHl5VWl2ekRfQ3FaTVgwNno0OVVpVzcwSXN4ZW14ckFKV0d5cUs0UXZMM2ZmX3RaZzdyWHhkcTBYRVlvNG4tX1VnLWI5QjFmN0VLLTVibFE"
+    },
+    {
+     "name": "tradingview.com",
+     "published_at": "2026-10-02T16:52:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObjcwNjV3cTJzd0VtWXNtVld1MGpBQXdKa0hLS1VlMDFmRXZua2RMTDdvSnFlY0oxMFBlTVdaN1B0eGcyTGw5dFRvVXJPS05kUHowVkxjLWstY1hvbmh0ODVCZGJCQW1hMTRYcnZuZVhIUWN6bFUtaEo5S2NpNUpRSHl5VWl2ekRfQ3FaTVgwNno0OVVpVzcwSXN4ZW14ckFKV0d5cUs0UXZMM2ZmX3RaZzdyWHhkcTBYRVlvNG4tX1VnLWI5QjFmN0VLLTVibFE"
     }
    ],
    "category": "市场宏观",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "就业数据疲软，英伟达和纳指100创历史新高",
    "title_zh": "就业报告疲软，英伟达与纳指100创历史新高",
    "sentiment": 1,
@@ -6033,6 +6069,26 @@
    "sentiment": 1
   },
   {
+   "id": "5c8a4ec53e79",
+   "title": "NVDA Stock Hits Record High After Morgan Stanley Names Nvidia Top Pick, Says AI Trends Play To Its ‘Strengths’ - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZV9PanEzZnU4aTRVVXhZd05pbGZ2S2dFeXRVanN4VlNYZVFYQnkwblVJUktfbGJEbllFZlVtaWo4WUJCWHpCRlVKOWxrZzhPRHJGZE9nMXgxczl6M2dhU0hVUnBQQVJCNHVqVDE4MWNmai1LVTFYQ2hXOTVDbWI1b18wWDBPUmZxYnhSZTNfUHBaSHdXcEZjdUN3NUtqRkRaYldTRjVWZXdVM00zZ3RoTUFKclVRVVZsc2w4ZHIxaG9kV2tjVnNwU2RwY2tIUVNsQXE0Nk9neFhMdHdxNjl1MXpOSUx2RFFGMFY1bVNOWTUzQ1p6blZnRC1DVQ",
+   "source": "TradingView",
+   "published_at": "2026-10-02T12:49:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-02T12:49:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZV9PanEzZnU4aTRVVXhZd05pbGZ2S2dFeXRVanN4VlNYZVFYQnkwblVJUktfbGJEbllFZlVtaWo4WUJCWHpCRlVKOWxrZzhPRHJGZE9nMXgxczl6M2dhU0hVUnBQQVJCNHVqVDE4MWNmai1LVTFYQ2hXOTVDbWI1b18wWDBPUmZxYnhSZTNfUHBaSHdXcEZjdUN3NUtqRkRaYldTRjVWZXdVM00zZ3RoTUFKclVRVVZsc2w4ZHIxaG9kV2tjVnNwU2RwY2tIUVNsQXE0Nk9neFhMdHdxNjl1MXpOSUx2RFFGMFY1bVNOWTUzQ1p6blZnRC1DVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "摩根士丹利将英伟达列为首选股，股价创新高",
+   "title_zh": "摩根士丹利将英伟达列为首选股，NVDA股价创新高",
+   "sentiment": 1
+  },
+  {
    "id": "267a85555403",
    "title": "How Serious Is Alphabet’s Threat to Nvidia? - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnRBWnhTSk80OFU3amJCZi1NR3VIZlJqRXBNUWpiN2ljeDhXYm0taGhQanoxbnJBWExCVWhqay1La0Q0RnlnbHVkdUtqZVdFenFsVUdzNFdkSFZhUXVBalhsZnlFNnhFeGVJTEg4a3JpclpWeURlQkZQZ2VhTlhTWjBWcDdEUko5am9hR1pn",
@@ -7987,56 +8043,6 @@
    "zh_summary": "英伟达5000亿GPU贷款，Burry买看跌期权",
    "title_zh": "英伟达5000亿GPU贷款、100亿投OpenAI，Burry买2027看跌期权",
    "sentiment": 0
-  },
-  {
-   "id": "0290d9e2722c",
-   "title": "$英伟达 (NVDA.US)$ - moomoo.com",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOcDZza1BHR1NvYlRELTNGak9NZ2ota280VTJtdkk2RTZYYXY3RW11TUIxaTZPOXF3NTRJNnY4amtJUW1sdkM0N1FLbkEwa2tvUjJPLVhLYzhnUy1VTDFDWWNLUk4xN2FEdjVoNVFYX1ZqM3F1NnlNUENuUkZhQQ",
-   "source": "moomoo.com",
-   "published_at": "2026-10-02T07:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "moomoo.com",
-     "published_at": "2026-10-02T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOcDZza1BHR1NvYlRELTNGak9NZ2ota280VTJtdkk2RTZYYXY3RW11TUIxaTZPOXF3NTRJNnY4amtJUW1sdkM0N1FLbkEwa2tvUjJPLVhLYzhnUy1VTDFDWWNLUk4xN2FEdjVoNVFYX1ZqM3F1NnlNUENuUkZhQQ"
-    },
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-02T08:59:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VdFQteE8tM2k1X1AyRGlYLXRBa1VnWHpTSERleFIwNW83LS1IUUc3R2tkdGpwbkE1bE96c2pjNVhyaGxMR2lDOHFJQVpWSWRhNFN0NU9mOXZwZVh3eHVHaHIteEtMZU11M0FMYlZkMDRVM3lrRjVLdDFLUmxPUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Moomoo 英伟达股票动态",
-   "title_zh": "$英伟达 (NVDA.US)$ - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "1dad9978ead7",
-   "title": "Nvidia’s Blind Spots Exposed by China Chip Smuggling - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnZqUE1kc1RPWjZZTkV6Rjl0NGlnQ0szamJ5YWFURzFpVWJYUThldVJ2Wm5vSEJBTnVGZjlvMEs3REpRVDJaeU5nMDV2bmEzOVV3cE9sYTdZa3g0c2FnNnlhNThXMnBDQTJjZFczaUtJZTZmT0tsMHc4cWZ0U3R6UzRUVUc4V2VNeUdWMS1oU2xDcllzZ05TakN1c1c4Zi1Vc2pQOTFHSVFSY1hI",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-02T06:49:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-02T06:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnZqUE1kc1RPWjZZTkV6Rjl0NGlnQ0szamJ5YWFURzFpVWJYUThldVJ2Wm5vSEJBTnVGZjlvMEs3REpRVDJaeU5nMDV2bmEzOVV3cE9sYTdZa3g0c2FnNnlhNThXMnBDQTJjZFczaUtJZTZmT0tsMHc4cWZ0U3R6UzRUVUc4V2VNeUdWMS1oU2xDcllzZ05TakN1c1c4Zi1Vc2pQOTFHSVFSY1hI"
-    },
-    {
-     "name": "bloomberg.com",
-     "published_at": "2026-10-02T06:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnZqUE1kc1RPWjZZTkV6Rjl0NGlnQ0szamJ5YWFURzFpVWJYUThldVJ2Wm5vSEJBTnVGZjlvMEs3REpRVDJaeU5nMDV2bmEzOVV3cE9sYTdZa3g0c2FnNnlhNThXMnBDQTJjZFczaUtJZTZmT0tsMHc4cWZ0U3R6UzRUVUc4V2VNeUdWMS1oU2xDcllzZ05TakN1c1c4Zi1Vc2pQOTFHSVFSY1hI"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "芯片走私暴露英伟达盲点",
-   "title_zh": "中国芯片走私案暴露英伟达的盲点",
-   "sentiment": -1
   }
  ]
 }
