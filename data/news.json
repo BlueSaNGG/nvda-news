@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T14:06:29.469717+00:00",
+ "updated_at": "2026-10-03T14:21:28.164433+00:00",
  "market": {
   "price": 233.95,
   "change_pct": 1.34,
@@ -10,8 +10,8 @@
    "days_left": 45
   },
   "day_sentiment": {
-   "avg": -0.21,
-   "count": 24
+   "avg": -0.2,
+   "count": 25
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.21（24条已评分）"
+     "note": "今日新闻情绪 -0.20（25条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 35.7,
    "ma20": 223.79,
-   "as_of": "2026-10-03T14:06:29.451568+00:00"
+   "as_of": "2026-10-03T14:21:28.144454+00:00"
   },
   "pe_ttm": 29.7,
   "pe_pct_5y": 28,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "a18e5449308a",
+   "title": "NVIDIA DGX Spark 64GB Launched and Big 128GB GB10 Price Increases - ServeTheHome",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORE9tbEJBWVhpc2RqNHZySWtHM3MtU2UtTjZjOGxLcjdBTElybUVqaW8xUDJkU05TUGlucF9SMUh2VDBuY3dUUUtFSXBwUXgwM1ZtcE0tVkY0S0VZbmhyTzBfcEw5LVYybkpRYWYtTFhjU1JiVFhXZnhKSjEyU2Z2UGFvSklJdXN3WVZVbU9JZ0J6c2FaWGNPX3JyMA",
+   "source": "ServeTheHome",
+   "published_at": "2026-10-03T14:12:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "ServeTheHome",
+     "published_at": "2026-10-03T14:12:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORE9tbEJBWVhpc2RqNHZySWtHM3MtU2UtTjZjOGxLcjdBTElybUVqaW8xUDJkU05TUGlucF9SMUh2VDBuY3dUUUtFSXBwUXgwM1ZtcE0tVkY0S0VZbmhyTzBfcEw5LVYybkpRYWYtTFhjU1JiVFhXZnhKSjEyU2Z2UGFvSklJdXN3WVZVbU9JZ0J6c2FaWGNPX3JyMA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
+  {
+   "id": "1a25306892a8",
+   "title": "Notable tech headlines for the week: Micron, Nvidia, Accenture in focus - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLUJzbnd4OEUzVk9pV2hJLWRwWWMwOHNoNENiZFVCalpnZ0pxZENwRVlRRHZQVjlHWGRjYklvOU9GaEhib3JvMDdzZlFYVHFMVy1laW1Bb1FibEFPMEtEVlp2dl9GNUVqUzhIUXV0Tkh3Vm9qcUJDQ1V5NVdHZWhXTVpEa0RBc2I5VnBTQzBrZFhlVUE2bmJaNHhpc2I0NWZQUElwSkhVazBQOEpoZ0UtYTRZYWtsUzAzeE9XaEEwci1iTlJ4WXFMRTJHcw",
+   "source": "TradingView",
+   "published_at": "2026-10-03T14:10:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-03T14:10:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLUJzbnd4OEUzVk9pV2hJLWRwWWMwOHNoNENiZFVCalpnZ0pxZENwRVlRRHZQVjlHWGRjYklvOU9GaEhib3JvMDdzZlFYVHFMVy1laW1Bb1FibEFPMEtEVlp2dl9GNUVqUzhIUXV0Tkh3Vm9qcUJDQ1V5NVdHZWhXTVpEa0RBc2I5VnBTQzBrZFhlVUE2bmJaNHhpc2I0NWZQUElwSkhVazBQOEpoZ0UtYTRZYWtsUzAzeE9XaEEwci1iTlJ4WXFMRTJHcw"
+    }
+   ],
+   "category": "供应链",
+   "session": "周末"
+  },
   {
    "id": "37932be69e47",
    "title": "How much Nvidia stock does CEO Jensen Huang actually own? - thestreet.com",
@@ -77,8 +111,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "黄仁勋实际持有多少英伟达股票",
    "zh_summary": "解析黄仁勋持有的英伟达股份数量",
+   "title_zh": "黄仁勋实际持有多少英伟达股票",
    "sentiment": 0
   },
   {
@@ -638,10 +672,15 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LS0ZveU5SUDRuZzZ1UGE2Uy1FZGxONVgzSWg3TWFfeEtPVTB0MEJ4TUxuUFY2elIySzBjT2VUS0ZHQnN1UDFVdXJRR1BYRkNWSmNyckpZQjg",
    "source": "驱动之家",
    "published_at": "2026-10-03T06:07:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
+     "published_at": "2026-10-03T06:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LS0ZveU5SUDRuZzZ1UGE2Uy1FZGxONVgzSWg3TWFfeEtPVTB0MEJ4TUxuUFY2elIySzBjT2VUS0ZHQnN1UDFVdXJRR1BYRkNWSmNyckpZQjg"
+    },
+    {
+     "name": "news.mydrivers.com",
      "published_at": "2026-10-03T06:07:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LS0ZveU5SUDRuZzZ1UGE2Uy1FZGxONVgzSWg3TWFfeEtPVTB0MEJ4TUxuUFY2elIySzBjT2VUS0ZHQnN1UDFVdXJRR1BYRkNWSmNyckpZQjg"
     }
@@ -916,6 +955,23 @@
    "zh_summary": "华为称昇腾中国市占已超英伟达",
    "title_zh": "【华为徐直军：昇腾中国市场份额已超英伟达】在近期的华为全联接大会期间 - 凤凰网",
    "sentiment": -1
+  },
+  {
+   "id": "fc429c60c889",
+   "title": "英伟达Shield TV Pro涨价100美元，7年前老产品售价升至299.99美元 - 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LemJRcDRGTXM0VVgzV3NTOUdISGNzbWw5ODhMVGk5YTg5OThvNmxSNmdOOF90bFhRdDNoTzFTTmFXVjRVRjU4Mg",
+   "source": "凤凰网",
+   "published_at": "2026-10-03T02:10:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-03T02:10:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LemJRcDRGTXM0VVgzV3NTOUdISGNzbWw5ODhMVGk5YTg5OThvNmxSNmdOOF90bFhRdDNoTzFTTmFXVjRVRjU4Mg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "7f98660f598c",
@@ -7962,170 +8018,6 @@
    "session": "盘后",
    "zh_summary": "英伟达盘中刷新纪录高位",
    "title_zh": "美股三大指数集体收涨 纳指盘中创新高 英伟达盘中刷新纪录高位 - 东方财富",
-   "sentiment": 1
-  },
-  {
-   "id": "f8d274062712",
-   "title": "美股讯号 | 亚马逊计划出售80亿美元英伟达高端芯片以优化资产负债表 ｜#美股资讯# #亚马逊# #市场动态# - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2JnRHpoYTBHZDBSUE1Wb044OGJxUzh5cjBpOWFlal9tWEZwdmk5QTBBQmkzRy1lSV93UTlfWkxBTjFueWZoZG9WY0F2X2R0czBpY2RsNHJjTm00NDFFTVV4NmRuVGxtWjNJbmZRc1pEMDloZTlCd2dDcTRCaTl6eTlEY3d5UUJ1eUNlRw",
-   "source": "搜狐网",
-   "published_at": "2026-10-02T04:06:26+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-02T04:06:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2JnRHpoYTBHZDBSUE1Wb044OGJxUzh5cjBpOWFlal9tWEZwdmk5QTBBQmkzRy1lSV93UTlfWkxBTjFueWZoZG9WY0F2X2R0czBpY2RsNHJjTm00NDFFTVV4NmRuVGxtWjNJbmZRc1pEMDloZTlCd2dDcTRCaTl6eTlEY3d5UUJ1eUNlRw"
-    },
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-02T04:06:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2JnRHpoYTBHZDBSUE1Wb044OGJxUzh5cjBpOWFlal9tWEZwdmk5QTBBQmkzRy1lSV93UTlfWkxBTjFueWZoZG9WY0F2X2R0czBpY2RsNHJjTm00NDFFTVV4NmRuVGxtWjNJbmZRc1pEMDloZTlCd2dDcTRCaTl6eTlEY3d5UUJ1eUNlRw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "亚马逊计划出售80亿美元英伟达芯片",
-   "title_zh": "亚马逊计划出售80亿美元英伟达高端芯片以优化资产负债表",
-   "sentiment": -1
-  },
-  {
-   "id": "925d93d2712c",
-   "title": "Amazon seeks to offload $8bn of Nvidia chips to investors - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlctbklMb2FKVW12SWZYdEpsVnl4UlNLUzNHNlpBcUstaUlwYlBrVEFVNWRZWkhBNTZZTGIzMjVpT2NtSzRfbktWeWFjbVlqX1k1TEl0SkJiTjFDekRsd2h2b2ZaYmNsdXp6NU42T2cwZzFiRmZTakRnLVpHek1LcXl3dUg",
-   "source": "Financial Times",
-   "published_at": "2026-10-02T04:00:33+00:00",
-   "outlets_count": 20,
-   "outlets": [
-    {
-     "name": "Financial Times",
-     "published_at": "2026-10-02T04:00:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlctbklMb2FKVW12SWZYdEpsVnl4UlNLUzNHNlpBcUstaUlwYlBrVEFVNWRZWkhBNTZZTGIzMjVpT2NtSzRfbktWeWFjbVlqX1k1TEl0SkJiTjFDekRsd2h2b2ZaYmNsdXp6NU42T2cwZzFiRmZTakRnLVpHek1LcXl3dUg"
-    },
-    {
-     "name": "reuters.com",
-     "published_at": "2026-10-02T04:12:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWF3eFJHazFWalZDX1QwWHBoSWd5TEwxSW1ZRzNveVhxV1NwRGZVdlpCSHJLUVlVcm1TR1hpb09BZmhGeEFkTnkzQXJLcEh2S2xNaDVobGN3TV9Tc1p2N0UxUUhDdEU4djVpUjlLOXhGd0VReVdxaVBweUJWbk5ab0g5T0hTdTlzbWZiTkFqN3BtVW05WVNxam5WTzdTNkhVYlZlajRvV2lOU3JiekRsRzkxSGwyWjRqNldiaGxZWTlmQnM"
-    },
-    {
-     "name": "KSL.com",
-     "published_at": "2026-10-02T04:28:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRExESjVsNTV4U0p5N243b2MxdUFEc1pPVWYyMEh6ZG1PQ0w4M2ZvTmZ4azZabGdRajVaMXlNY19OcXh4MEloenpYLUZ6NkhHZVZYUzZYNy0xbkFocElCSmVMQjBhWHhLZ1E3Y01McmR0WXJhMmdtbzhlYXlVUllhYjBhVmdLWVBuWmx0dll6ejB4amZwanFaOUUzYk9MbkZ5Z0xKNnJHMkVpMU14VTI0"
-    },
-    {
-     "name": "The Lufkin Daily News",
-     "published_at": "2026-10-02T04:12:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNd1N0OTZEUTE2VUV1R0t5RkhtcXFLWXBzR21jS0lkX0dDNHU0SXM2QlNIbDZISElXWnM3Rm9sQUxGZzNxZEMwand1RTE5ZjR0Y1dkX3YxV29JOHhnSi0zZ0JNR181dDRMbW5JQmVubmlBQWNzQ01JZUVtaUJCaUItRVNaZTg1aTRFb3VmTlFrc3pwTm1yVllqVUhrUUowQUI4aEVwUTdUNDlWZEdQVk16SlI4QnEyQUJ4WDQ0MXp0WEp6ajlBLTFiNU9PWDhDZVJ1anhZQ1FJOUFXUUdaQVcyd3F3STQ4WEFyQXZQMFFIQmFXQkZ3bGZwOWxhZGNEbktnVjYw"
-    },
-    {
-     "name": "CNA",
-     "published_at": "2026-10-02T04:12:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUk5Vd2hQWXNUcVE5cl9nQW9Pb1ZsQ0w4cUpWLUktdkU5UEg0aF9Oak1JYXU4UERnTkstckFzOVJYY3FPdXlSNXFOYzcxWjlyNnZjM2V5ZmVoMGJ2TUlOSERlX3JXS002MXVOaEpKWjRQdkY0bDk0UzNGYUVLcGpSLUlSN1NUV0ZhdElfT1A2bU5FUVBUUWpCQlNpYjU1Q3FzbVp6T0lhOWlIMWcxZjdBQlNVUQ"
-    },
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-02T04:20:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLV9YOXV4V3drMXNvU2gyMGRKSHYtQ3RMeWFfVzRuN0JlRmNjRnVyT2tzeS1HSml6bTlCdGU1Z2ppUm1tQmhjR3hmZ2tTbFVNc1dab19WVE5xOHppZGF0cndvYlQxYWRqRTd0WTl0LTdsTVBnUk45cWNVcEJBY3N4QWVmUlp1M0xGX0VFVXpqZHJRempMZkhqNE9UN0VETzRqazZUOWw2b2VwZzRqVXUxUlJ0YV9LYmRhLUE"
-    },
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-02T04:12:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWF3eFJHazFWalZDX1QwWHBoSWd5TEwxSW1ZRzNveVhxV1NwRGZVdlpCSHJLUVlVcm1TR1hpb09BZmhGeEFkTnkzQXJLcEh2S2xNaDVobGN3TV9Tc1p2N0UxUUhDdEU4djVpUjlLOXhGd0VReVdxaVBweUJWbk5ab0g5T0hTdTlzbWZiTkFqN3BtVW05WVNxam5WTzdTNkhVYlZlajRvV2lOU3JiekRsRzkxSGwyWjRqNldiaGxZWTlmQnM"
-    },
-    {
-     "name": "lufkindailynews.com",
-     "published_at": "2026-10-02T04:12:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNd1N0OTZEUTE2VUV1R0t5RkhtcXFLWXBzR21jS0lkX0dDNHU0SXM2QlNIbDZISElXWnM3Rm9sQUxGZzNxZEMwand1RTE5ZjR0Y1dkX3YxV29JOHhnSi0zZ0JNR181dDRMbW5JQmVubmlBQWNzQ01JZUVtaUJCaUItRVNaZTg1aTRFb3VmTlFrc3pwTm1yVllqVUhrUUowQUI4aEVwUTdUNDlWZEdQVk16SlI4QnEyQUJ4WDQ0MXp0WEp6ajlBLTFiNU9PWDhDZVJ1anhZQ1FJOUFXUUdaQVcyd3F3STQ4WEFyQXZQMFFIQmFXQkZ3bGZwOWxhZGNEbktnVjYw"
-    },
-    {
-     "name": "whbl.com",
-     "published_at": "2026-10-02T04:47:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTZMQ3UzUnNfek9UUWVDTUtOSy1FN002ZFY2X05fMzlURzlkczgxMDZDYWl2VEVJRXNfQmE2U2hfc1ZOWjNtbExjYkYzUHVhX3d0d01mN3lneGJMQ3NMbmtCZGg0ZkhUQy1LUGlTdmxvRVFUVzJoWEd4akQxbTVWdWdGemw0U1Bicmd1MDRDaEs4TmhraEhNR0hUMnZjNnZVUjI0aw"
-    },
-    {
-     "name": "ksl.com",
-     "published_at": "2026-10-02T04:28:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRExESjVsNTV4U0p5N243b2MxdUFEc1pPVWYyMEh6ZG1PQ0w4M2ZvTmZ4azZabGdRajVaMXlNY19OcXh4MEloenpYLUZ6NkhHZVZYUzZYNy0xbkFocElCSmVMQjBhWHhLZ1E3Y01McmR0WXJhMmdtbzhlYXlVUllhYjBhVmdLWVBuWmx0dll6ejB4amZwanFaOUUzYk9MbkZ5Z0xKNnJHMkVpMU14VTI0"
-    },
-    {
-     "name": "Kansas City Star",
-     "published_at": "2026-10-02T04:37:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2Z1hXT2lVbnJUcDFoR0p0Z0twX3BCTE44NFM1SS1LMV9HZ3pIeHQyNHU2WS01d1c5bHJ3ZTNnaUNabDFjN1RHVXEwalpkeG1CZjRXcU4ycVJUZWlWcDltZ1FySDJ5cWF5and3ZXZINA"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-02T04:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUG1iZFZ3Z0NHdHJWNngwbk4zcWJSNUVqbzlDVnp2NWtCWUZRYVp0dGNBT3NQa3JHMEc0SHZkOVFOLVMxOFB1eS15T3pyOHJuR0NBREFwVE94eTNvS2wyUXFUZjRnNEcwd1VIMXJuWFUxaXh0RVdabGNidjYzOVN3dTVzck52Q2hkNEl4WHVNaUduTmY4"
-    },
-    {
-     "name": "The State",
-     "published_at": "2026-10-02T04:45:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TX2UtZmdsSnI4ZUMxamNFWWNYS0l0dXNXbFZpRm44QkJNTlNlWkRicndPeTNNWmVaMF9RenctTUY2Y2ljcHpkZmFBUVE0UnFBVVJYdThaZWtVUWtIQmw3cDdYTGVGQXl1NUZ0aA"
-    },
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-02T04:07:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMV9ZTVpJWm43NGoyLUF5bGVfWVBCbHdBeWc3Z3RQZENCdWlvZWNERDNTUWxPUVIxanV3MFBOUV9pbUU1Mk0zamw5YXplUnlTVGhjSktZWmxmTFFiaHZ4VU4xekRkaWFIOEU3WnN5c3Z0bXdCamt2WDdKUjdfblNvbm1BOUVwMmE1Umt0aXp4TzNlTzViLVNoclJCYnQ1YmkxSWZwdkl0TQ"
-    },
-    {
-     "name": "ft.com",
-     "published_at": "2026-10-02T04:00:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlctbklMb2FKVW12SWZYdEpsVnl4UlNLUzNHNlpBcUstaUlwYlBrVEFVNWRZWkhBNTZZTGIzMjVpT2NtSzRfbktWeWFjbVlqX1k1TEl0SkJiTjFDekRsd2h2b2ZaYmNsdXp6NU42T2cwZzFiRmZTakRnLVpHek1LcXl3dUg"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-02T04:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUG1iZFZ3Z0NHdHJWNngwbk4zcWJSNUVqbzlDVnp2NWtCWUZRYVp0dGNBT3NQa3JHMEc0SHZkOVFOLVMxOFB1eS15T3pyOHJuR0NBREFwVE94eTNvS2wyUXFUZjRnNEcwd1VIMXJuWFUxaXh0RVdabGNidjYzOVN3dTVzck52Q2hkNEl4WHVNaUduTmY4"
-    },
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-02T13:34:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzRUdkVzZ0pEOHphcWMtbmtoTHBsMzRVYzV5ZnlDSVktZml4NlhVVklQbmtaQnpMSWY0UHJZTUxTMktDZkR2TmFRWUhNZnAxdGFtWGx3QWhINnFzMzNqWTFROXA5UlFDLXVSYUVCOE54SGw3TW11OElvbnlzaVZhMVRSQnM4UQ"
-    },
-    {
-     "name": "ca.finance.yahoo.com",
-     "published_at": "2026-10-02T13:34:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzRUdkVzZ0pEOHphcWMtbmtoTHBsMzRVYzV5ZnlDSVktZml4NlhVVklQbmtaQnpMSWY0UHJZTUxTMktDZkR2TmFRWUhNZnAxdGFtWGx3QWhINnFzMzNqWTFROXA5UlFDLXVSYUVCOE54SGw3TW11OElvbnlzaVZhMVRSQnM4UQ"
-    },
-    {
-     "name": "Investopedia",
-     "published_at": "2026-10-02T14:59:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNHphc3o4Y0dGRnBTaE5jUTd0S1dJWFA1OUppaXBsY1hhb0pkRHZZbUUwSWZYQnYyRTl2WDF6d084bnpLSFNZV3ZRRW5jcllFQ1dQWjFIMmZMTkZsYWZrNkNVM3FJazNxTEFfMHJBbzJxeVM4TU9iS1FBWFppYXNhNHh6OV80Rjg0dy0wVkVNOTg4eVJ5cEZva3l6b0J3S1k0QmlnbXZhOHh5S1JYMDFRREhuZ19SOXJ0WTBWTGFkYzZIVE1qcTdZM29R"
-    },
-    {
-     "name": "investopedia.com",
-     "published_at": "2026-10-02T14:59:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNHphc3o4Y0dGRnBTaE5jUTd0S1dJWFA1OUppaXBsY1hhb0pkRHZZbUUwSWZYQnYyRTl2WDF6d084bnpLSFNZV3ZRRW5jcllFQ1dQWjFIMmZMTkZsYWZrNkNVM3FJazNxTEFfMHJBbzJxeVM4TU9iS1FBWFppYXNhNHh6OV80Rjg0dy0wVkVNOTg4eVJ5cEZva3l6b0J3S1k0QmlnbXZhOHh5S1JYMDFRREhuZ19SOXJ0WTBWTGFkYzZIVE1qcTdZM29R"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "亚马逊拟出售80亿美元英伟达芯片",
-   "title_zh": "亚马逊拟向投资者出售80亿美元英伟达芯片",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": -0.22,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "b9a2c9f41b8b",
-   "title": "全球市场：美股三大指数收涨 纳指、英伟达盘中创新高 存储概念股大跌 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XallSTmZmREdXZ2VLTktURGc4LURmLUMyQkR3RzcyaVVHU0xfalEwc1RSd1BkSTFJSUYzZWN0WXRmbjUxckRFUjByV1hVc3d1RTh3SE1mdElZQlRxTVpheDlPTQ",
-   "source": "东方财富",
-   "published_at": "2026-10-02T03:39:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-02T03:39:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XallSTmZmREdXZ2VLTktURGc4LURmLUMyQkR3RzcyaVVHU0xfalEwc1RSd1BkSTFJSUYzZWN0WXRmbjUxckRFUjByV1hVc3d1RTh3SE1mdElZQlRxTVpheDlPTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "纳指、英伟达盘中创新高",
-   "title_zh": "全球市场：美股三大指数收涨 纳指、英伟达盘中创新高 存储概念股大跌 - 东方财富",
    "sentiment": 1
   }
  ]
