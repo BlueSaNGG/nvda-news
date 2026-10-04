@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T15:36:30.313078+00:00",
+ "updated_at": "2026-10-04T15:51:26.962392+00:00",
  "market": {
   "price": 233.95,
   "change_pct": 1.34,
@@ -10,8 +10,8 @@
    "days_left": 44
   },
   "day_sentiment": {
-   "avg": 0.11,
-   "count": 38
+   "avg": 0.13,
+   "count": 39
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.11（38条已评分）"
+     "note": "今日新闻情绪 +0.13（39条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 35.7,
    "ma20": 223.79,
-   "as_of": "2026-10-04T15:36:30.294266+00:00"
+   "as_of": "2026-10-04T15:51:26.950339+00:00"
   },
   "pe_ttm": 29.7,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "bd4b191e7236",
+   "title": "Amazon Wants to Move $8 Billion in Nvidia Chips Off Its Books. Is AI's Financing Model Starting to Change? - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOX3NtWXlXbG03OHl1M3I3c0xLYkhuN21ONTMzMlppNmh6N25WeWFSTkw1RkJjc1llNGtaWEdqSENudHpJWDRuS0lJd0szSEhWYS1OOWJOS0NHU0VYZjQ5RXB4eXFydGlXaUtVRElTcGNpR3kwQThudUhZM1pUbXB0eGxhdXhDVDBfX3lRbWdnQUtsWHg5SUZsR1VkUlMxNEo1X2RObUpRTzJrSVcxNkJhZmwxczBLN3B1ZWNEck9Ea2ZvMXE1b1BqZUptQmZuMmkwaG9iTmN6RlFOTTZIXzRGR0ZqdlRpR2thLU1fbEwzQzFLQUhrVmh6VFFfWHhIdmlVOFNQd1VSREFCUVlWcnc",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-04T15:38:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-04T15:38:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOX3NtWXlXbG03OHl1M3I3c0xLYkhuN21ONTMzMlppNmh6N25WeWFSTkw1RkJjc1llNGtaWEdqSENudHpJWDRuS0lJd0szSEhWYS1OOWJOS0NHU0VYZjQ5RXB4eXFydGlXaUtVRElTcGNpR3kwQThudUhZM1pUbXB0eGxhdXhDVDBfX3lRbWdnQUtsWHg5SUZsR1VkUlMxNEo1X2RObUpRTzJrSVcxNkJhZmwxczBLN3B1ZWNEck9Ea2ZvMXE1b1BqZUptQmZuMmkwaG9iTmN6RlFOTTZIXzRGR0ZqdlRpR2thLU1fbEwzQzFLQUhrVmh6VFFfWHhIdmlVOFNQd1VSREFCUVlWcnc"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
   {
    "id": "4720b88fd694",
    "title": "Nvidia’s $235 Billion Buyback Offers a Powerful Lesson for Founders - inc.com",
@@ -6050,7 +6067,6 @@
    ],
    "category": "产品技术",
    "session": "盘中",
-   "breaking": true,
    "zh_summary": "芯片股延续涨势，英伟达涨2%",
    "title_zh": "芯片股延续涨势：AMD涨3%，Arm涨8%，英伟达涨2%",
    "sentiment": 1,
@@ -8004,26 +8020,6 @@
    "session": "盘前",
    "zh_summary": "英伟达推出64GB版DGX Spark",
    "title_zh": "英伟达推出64GB版DGX Spark，GB10配置4999美元起",
-   "sentiment": 1
-  },
-  {
-   "id": "ec0a216c095f",
-   "title": "NVIDIA Makes DGX Spark More Accessible With A New 64 GB Model - CGMagazine",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ1BTbDB0U3drdFhFMkFXNW1TMzVPVGozR1g4d1RzbDJJUHljZlZPSXpuT1F5eXdfUnBZUXRlclYtcFNqQzJnSGEwY2ktY1hiOTBXazN4NEh6b1Y2SDhOU3RnRW1RbWd3UFlidWdoMXdPckpld3ljVzlJa0VUYk5MY0pKTVQxMXRkcUhOcGFiX1gxLS1maGxGMUdZOA",
-   "source": "CGMagazine",
-   "published_at": "2026-10-02T13:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CGMagazine",
-     "published_at": "2026-10-02T13:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ1BTbDB0U3drdFhFMkFXNW1TMzVPVGozR1g4d1RzbDJJUHljZlZPSXpuT1F5eXdfUnBZUXRlclYtcFNqQzJnSGEwY2ktY1hiOTBXazN4NEh6b1Y2SDhOU3RnRW1RbWd3UFlidWdoMXdPckpld3ljVzlJa0VUYk5MY0pKTVQxMXRkcUhOcGFiX1gxLS1maGxGMUdZOA"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达推出64GB新版DGX Spark，更亲民",
-   "title_zh": "英伟达推出64GB新版DGX Spark，价格更亲民",
    "sentiment": 1
   }
  ]
