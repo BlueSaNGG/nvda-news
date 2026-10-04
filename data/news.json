@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T11:06:29.573464+00:00",
+ "updated_at": "2026-10-04T11:21:28.622767+00:00",
  "market": {
   "price": 233.95,
   "change_pct": 1.34,
@@ -10,8 +10,8 @@
    "days_left": 44
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 18
+   "avg": 0.05,
+   "count": 19
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（18条已评分）"
+     "note": "今日新闻情绪 +0.05（19条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 35.7,
    "ma20": 223.79,
-   "as_of": "2026-10-04T11:06:29.560083+00:00"
+   "as_of": "2026-10-04T11:21:28.613140+00:00"
   },
   "pe_ttm": 29.7,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "59d798519323",
+   "title": "NVIDIA's Results Of Conducting Wayland vs. X.Org Latency Testing - Phoronix",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WTjBNRzMzZzNoRV9paTFhRUREYzFscGxUMzM5aFItckUzQjNlSzVTWGUyV2RETjRXTVk2YXk2NzdEc19iM2YzbldKV0pjbVh0S0NJTGYxcVM2QmN6dmNmWkV3bmp4aGNL",
+   "source": "Phoronix",
+   "published_at": "2026-10-04T11:03:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Phoronix",
+     "published_at": "2026-10-04T11:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WTjBNRzMzZzNoRV9paTFhRUREYzFscGxUMzM5aFItckUzQjNlSzVTWGUyV2RETjRXTVk2YXk2NzdEc19iM2YzbldKV0pjbVh0S0NJTGYxcVM2QmN6dmNmWkV3bmp4aGNL"
+    }
+   ],
+   "category": "财报",
+   "session": "周末"
+  },
   {
    "id": "28defe2d1875",
    "title": "Intel, AMD Slide 4.2% as Nvidia Unveils N1X PC Chip [2026] - tech-insider.org",
@@ -690,31 +707,6 @@
    "sentiment": 1
   },
   {
-   "id": "73dba6d7bee9",
-   "title": "微软扩展高级着色器交付功能适配范围：本月将支持高通、英特尔和英伟达硬件 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53aEUtbWV0SXN6U0hmT3NRakJXQ3hzZUxseC1kT2NuQU1NNlpzdUMwdFk0R29VaDVLc2hOOEZfdTJ3NVo0azNvRER0UjlORDlsSjhKWFVzTkM",
-   "source": "驱动之家",
-   "published_at": "2026-10-04T02:46:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-04T02:46:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53aEUtbWV0SXN6U0hmT3NRakJXQ3hzZUxseC1kT2NuQU1NNlpzdUMwdFk0R29VaDVLc2hOOEZfdTJ3NVo0azNvRER0UjlORDlsSjhKWFVzTkM"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-04T03:05:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSmdNQm5sMGZoRE1BRkEyLTB2amJzNllZRlZpWmZDTW5GSml6czBuMVY1SnREYUdDUk9YUmthMHpnZW5RdXQzWHE2NFQ2Mjd5UGRUTTJvRDJaYktMNjhfMlNvZFJ1a2dtOXpia2UwOGZvOU9DWG1Ca3MtWEV1Tk05V3pzRURTdzI5YjR0RUw3TTlsdm5mUS1oOTlWTzIwQzlCaWVvNWFsNTZ0Q1o2Mm42bW92S0dSSzFIa1JqZEJvTVlaMk5oUW9OT3FHZV9YNHktRXY2QjRUbDRvR0FjalVicVFtNjUxcDNjVTdLVG40LTBTU1dB"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "微软高级着色器交付功能扩展适配英伟达",
-   "title_zh": "微软扩展高级着色器交付功能适配范围：本月将支持高通、英特尔和英伟达硬件 - 手机新浪网",
-   "sentiment": 1
-  },
-  {
    "id": "78b2923a3fed",
    "title": "Nvidia Launches DGX Spark With Half the Memory at $4,999 — Price Actually Goes Up - finance.biggo.com",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VM184TjNBNTJIN1VGa0FCYVpTWVFfUFluZkpiWG1sbUQ5SzVoVGV3RHZFaWR0N2x3T2gzTnNlMGxNUGlPTF9fQmxtUzc5clliQmIwVTJEX1MyTTBKdWk3RWREMHNNSVJkSTFNdG9BbUp1eEF5MGc",
@@ -1174,6 +1166,36 @@
    "zh_summary": "AI热潮推动英伟达Shield TV涨价100美元",
    "title_zh": "AI热潮推动七年老款英伟达Shield TV涨价100美元",
    "sentiment": 0
+  },
+  {
+   "id": "293864fafade",
+   "title": "微软扩展高级着色器交付功能适配范围：本月起将支持高通、英特尔和英伟达硬件 - 超能网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vaWF4NmVLSlNlZ2l1VkpvWENzNlhCcTlxZW16V05qWmZ4UGJGOWdVUVZkMjg2RVQ3VDdlZldSMlBqYU9sdkFIRlBjRQ",
+   "source": "超能网",
+   "published_at": "2026-10-03T17:36:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "超能网",
+     "published_at": "2026-10-03T17:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vaWF4NmVLSlNlZ2l1VkpvWENzNlhCcTlxZW16V05qWmZ4UGJGOWdVUVZkMjg2RVQ3VDdlZldSMlBqYU9sdkFIRlBjRQ"
+    },
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-04T02:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53aEUtbWV0SXN6U0hmT3NRakJXQ3hzZUxseC1kT2NuQU1NNlpzdUMwdFk0R29VaDVLc2hOOEZfdTJ3NVo0azNvRER0UjlORDlsSjhKWFVzTkM"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-04T03:05:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSmdNQm5sMGZoRE1BRkEyLTB2amJzNllZRlZpWmZDTW5GSml6czBuMVY1SnREYUdDUk9YUmthMHpnZW5RdXQzWHE2NFQ2Mjd5UGRUTTJvRDJaYktMNjhfMlNvZFJ1a2dtOXpia2UwOGZvOU9DWG1Ca3MtWEV1Tk05V3pzRURTdzI5YjR0RUw3TTlsdm5mUS1oOTlWTzIwQzlCaWVvNWFsNTZ0Q1o2Mm42bW92S0dSSzFIa1JqZEJvTVlaMk5oUW9OT3FHZV9YNHktRXY2QjRUbDRvR0FjalVicVFtNjUxcDNjVTdLVG40LTBTU1dB"
+    }
+   ],
+   "category": "其他",
+   "session": "周末",
+   "zh_summary": "微软高级着色器交付功能扩展适配英伟达",
+   "title_zh": "微软扩展高级着色器交付功能适配范围：本月将支持高通、英特尔和英伟达硬件 - 手机新浪网",
+   "sentiment": 1
   },
   {
    "id": "548ac121c911",
@@ -8049,31 +8071,6 @@
    "zh_summary": "称英伟达和美光离不开这只增长股",
    "title_zh": "英伟达和美光做AI芯片都离不开这只成长股",
    "sentiment": 0
-  },
-  {
-   "id": "8de50da212a7",
-   "title": "I Correctly Predicted Nvidia Would Overtake Apple in Stock Buybacks and Dividends. Here's the Better Buy Now. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWW00TDBpLS1UR3A4NVp4VlZLQV9TR1Bsbmg2MXBaX09VeFE1RjFiaWlwdzJHNkZXa1FnMlc1SlBSaHk4MUdscTVZWV9NMllRdjJhODdkeS0tRW1iRE1QSFd6N2pSOUxXZ1NrT1FGU2RRVVh5NE5zZDFZcWZkWHdScE05Tzdzamh2X2tIMVhwTFpLRlBKWlhr",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-02T12:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-02T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWW00TDBpLS1UR3A4NVp4VlZLQV9TR1Bsbmg2MXBaX09VeFE1RjFiaWlwdzJHNkZXa1FnMlc1SlBSaHk4MUdscTVZWV9NMllRdjJhODdkeS0tRW1iRE1QSFd6N2pSOUxXZ1NrT1FGU2RRVVh5NE5zZDFZcWZkWHdScE05Tzdzamh2X2tIMVhwTFpLRlBKWlhr"
-    },
-    {
-     "name": "fool.com",
-     "published_at": "2026-10-02T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWW00TDBpLS1UR3A4NVp4VlZLQV9TR1Bsbmg2MXBaX09VeFE1RjFiaWlwdzJHNkZXa1FnMlc1SlBSaHk4MUdscTVZWV9NMllRdjJhODdkeS0tRW1iRE1QSFd6N2pSOUxXZ1NrT1FGU2RRVVh5NE5zZDFZcWZkWHdScE05Tzdzamh2X2tIMVhwTFpLRlBKWlhr"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "预测英伟达回购分红将超苹果",
-   "title_zh": "我曾准确预测英伟达回购分红将超苹果，现在这只更值得买",
-   "sentiment": -1
   }
  ]
 }
