@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-04T08:51:28.644864+00:00",
+ "updated_at": "2026-10-04T09:06:27.583373+00:00",
  "market": {
   "price": 233.95,
   "change_pct": 1.34,
@@ -10,8 +10,8 @@
    "days_left": 44
   },
   "day_sentiment": {
-   "avg": -0.17,
-   "count": 12
+   "avg": -0.08,
+   "count": 13
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.17（12条已评分）"
+     "note": "今日新闻情绪 -0.08（13条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 35.7,
    "ma20": 223.79,
-   "as_of": "2026-10-04T08:51:28.629308+00:00"
+   "as_of": "2026-10-04T09:06:27.572552+00:00"
   },
   "pe_ttm": 29.7,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "750fff3c32c2",
+   "title": "Nvidia’s Agent Watchdog and Its BlueField Hardware Requirement - quasa.io",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeVZvdl9sZ1hmaGhnU3ozUjNrUzdkdlRaTGhtVkVIM0tHOXFpUDkwUTRqcm5mcktUTG1KcnBqZkd4UnV3djF1T0NpcGJkWHN1YUhTUkh0YWdkQjFHc2ZRTnpnYU1fSFFoM05IVG5WTlFBVFA5YUIzc2hLRDJoYjhhNy1PSlBMRE9wZW1jNTVDcHlQQnRURVkxTEJIbW15cF9QLVVz",
+   "source": "quasa.io",
+   "published_at": "2026-10-04T09:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "quasa.io",
+     "published_at": "2026-10-04T09:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeVZvdl9sZ1hmaGhnU3ozUjNrUzdkdlRaTGhtVkVIM0tHOXFpUDkwUTRqcm5mcktUTG1KcnBqZkd4UnV3djF1T0NpcGJkWHN1YUhTUkh0YWdkQjFHc2ZRTnpnYU1fSFFoM05IVG5WTlFBVFA5YUIzc2hLRDJoYjhhNy1PSlBMRE9wZW1jNTVDcHlQQnRURVkxTEJIbW15cF9QLVVz"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "0aaae6e76988",
    "title": "英伟达与鸿海展示自动化成果，机器人组装GB300的母线成功率超95% - 凤凰网科技",
@@ -87,7 +104,7 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU05RVWZjdkR4cjJHSlQ0M0VBc1ctSXktaThQMDluQ25sTGFDOW5IVEZvT2MwNGNuSDU2R1RLZ1pXenVOS1FKYmpRZHFfSlRESWR1N2ZJcmZnNHgyTWR1X0tGSXlVd0pkN2lJZzE5YnFBMWRkV3c3elVxc1JzRHpydF91U0FVWDVCZGxaeTZDOVU3bU9hRUVLRA",
    "source": "The Motley Fool",
    "published_at": "2026-10-04T08:19:53+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -103,10 +120,16 @@
      "name": "The Globe and Mail",
      "published_at": "2026-10-04T08:35:39+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSHJWWENSeEh3d19XaE85QjU4UTgzU1JXVW1uRTI0YW80dktFRllmM1NsdDBzWTdpWVhVaUlGRVFHbjFIb2RqbG5BMmozczBqR28wLUhpSFlRUzdmTG1zOXV5Vk9TUE9OYlR2S3ljTE1RYzNoZGxfbS13WHBtMlJYMDFmbVJIVzZiWU9yLW1XVDZ2Q2dINFhBZXBVN3NXOWxwSU9GdjFLMDdfOXJUZG1rZzhTSkNKUEdrWG5RVU04eDctVGw2RUh2TmZsdktUZkROVk5xeFRvU1ZRbVF5bmtKNDFB"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-04T08:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdXRJQ0JyOE9ON3JpLVEtcVNsR3RfRnotbzdLcnBaMDBkYjNlOW84WGhBOWhrNVg0bktOZ0ZFdTFsUmdyUHJNVVRDOUZNV3NuRDZ3VGl5TFNaelV6M2dIa0tqMzRpVGUwZ04tZ1YtdExjaG9GbjEwUWFCUlpxNUZ5MlN2SzdfMG9INnpYeVhYX2EzYk54Vkwzblh4c3hiRE0"
     }
    ],
    "category": "其他",
    "session": "周末",
+   "breaking": true,
    "zh_summary": "低调供应商或成英伟达秘密武器",
    "title_zh": "低调供应商或是英伟达的秘密武器",
    "sentiment": 1
@@ -117,7 +140,7 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWHphWDQ3ZDJDSTZXb090R00xMGg2b1YwcUtDUmF0bnh6T1R6RHc2aDB4OUR3LUZOM291MUVGMHBJbGRJSzJxbElfVkN2RlJseXo5dG16SXk4aUlNekw5Vl83WmhrQnZsVlExSEMxeGxIaTJpbHFoZW40bndjRTNEX2VfRTBTc1R6bGFXQjRtMXFXM2d1UmxSOQ",
    "source": "The Motley Fool",
    "published_at": "2026-10-04T08:04:08+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -128,6 +151,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-04T08:20:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2xBcFphWmM1WURHOVFodjF6MEFFdC03UVZybVljWk5xNUM3OGVhQ2RvVVNwZTM0S1BPQlhWakM3TjNacEdvaDZpclRwRjlPYklycUZSTm1SSnFKNUQ3NXNJdlhZRVNZcExSaXo4WmY1b05yRXVZdFRvT18xRXNwU1FKNHJCZHFfLWgxVC1Saw"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-04T08:24:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNYWQtcldWZHVXakRKMkk5UUV4UmhIdXRvSGZZTWQ5QWdZdnZlQjhSOUZHc1NVeFFMY015eVZOa0RSNlg4bkZoWGJMWlp0RURsSzY1YmZITTVxaEYyMVM2WTUyS0pRV0ZSMjRXV1R5R0NHSkNpMzZzWWhWQTVHT0tNUmhaTjRaMkNpeEdSOU5RdTFMUzVpOE9DUWc1b3lFNDFSZkhkOEhJVDAzMElpMS1KRHBfdnhyc3hWNjJ3TGh6clZ0Z1d1VDB3Y0l2T25ZeGlxaWh0ZVcwaERqczdVT2RjSGxsWktGamkybGNUMHNsakd3b0N6MUhCRk9RdWotdWNGU3FzTVphdjF6Nm96VVdvLUdiUWtQekt2YmduZmp3"
     }
    ],
    "category": "其他",
@@ -493,26 +521,6 @@
    "sentiment": 1
   },
   {
-   "id": "73dba6d7bee9",
-   "title": "微软扩展高级着色器交付功能适配范围：本月将支持高通、英特尔和英伟达硬件 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSmdNQm5sMGZoRE1BRkEyLTB2amJzNllZRlZpWmZDTW5GSml6czBuMVY1SnREYUdDUk9YUmthMHpnZW5RdXQzWHE2NFQ2Mjd5UGRUTTJvRDJaYktMNjhfMlNvZFJ1a2dtOXpia2UwOGZvOU9DWG1Ca3MtWEV1Tk05V3pzRURTdzI5YjR0RUw3TTlsdm5mUS1oOTlWTzIwQzlCaWVvNWFsNTZ0Q1o2Mm42bW92S0dSSzFIa1JqZEJvTVlaMk5oUW9OT3FHZV9YNHktRXY2QjRUbDRvR0FjalVicVFtNjUxcDNjVTdLVG40LTBTU1dB",
-   "source": "手机新浪网",
-   "published_at": "2026-10-04T03:05:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-04T03:05:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSmdNQm5sMGZoRE1BRkEyLTB2amJzNllZRlZpWmZDTW5GSml6czBuMVY1SnREYUdDUk9YUmthMHpnZW5RdXQzWHE2NFQ2Mjd5UGRUTTJvRDJaYktMNjhfMlNvZFJ1a2dtOXpia2UwOGZvOU9DWG1Ca3MtWEV1Tk05V3pzRURTdzI5YjR0RUw3TTlsdm5mUS1oOTlWTzIwQzlCaWVvNWFsNTZ0Q1o2Mm42bW92S0dSSzFIa1JqZEJvTVlaMk5oUW9OT3FHZV9YNHktRXY2QjRUbDRvR0FjalVicVFtNjUxcDNjVTdLVG40LTBTU1dB"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "微软高级着色器交付功能扩展适配英伟达",
-   "title_zh": "微软扩展高级着色器交付功能适配范围：本月将支持高通、英特尔和英伟达硬件 - 手机新浪网",
-   "sentiment": 1
-  },
-  {
    "id": "8e7695e97e2f",
    "title": "GoalVest Advisory LLC boosts Nvidia stake by 111,496 shares - The Globe and Mail",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOajdCWWU4eWxsOEpuZnVpR0JRMkxlN3lhS2t1QjREbVhOaWpFbXpGRFZSNGVnbk5ROUF1WmlvNEY1OTVibVYwTGsyRTBXR1hLMl9QOTg1NGFpLTlZbG9tLXNFdlRtVV9jV3VHSHpiVEpSeDh4Sl9ManBTR3c3cEdWRDVUaE9ORWhldlpSbEZNcndmQkFBZFlocWVlQWY3NWV2YkVQRjliVnZZM2I0Z1czVW5WWWZvTDh5YU1EdVRVcGRSdFBmOFlzUGkzWjV2MWJRekRvVGtsRmZHRkNHWFRZ",
@@ -535,6 +543,31 @@
    "session": "周末",
    "zh_summary": "GoalVest增持英伟达11.15万股",
    "title_zh": "GoalVest咨询公司将英伟达持股增持11.15万股",
+   "sentiment": 1
+  },
+  {
+   "id": "73dba6d7bee9",
+   "title": "微软扩展高级着色器交付功能适配范围：本月将支持高通、英特尔和英伟达硬件 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53aEUtbWV0SXN6U0hmT3NRakJXQ3hzZUxseC1kT2NuQU1NNlpzdUMwdFk0R29VaDVLc2hOOEZfdTJ3NVo0azNvRER0UjlORDlsSjhKWFVzTkM",
+   "source": "驱动之家",
+   "published_at": "2026-10-04T02:46:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-04T02:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53aEUtbWV0SXN6U0hmT3NRakJXQ3hzZUxseC1kT2NuQU1NNlpzdUMwdFk0R29VaDVLc2hOOEZfdTJ3NVo0azNvRER0UjlORDlsSjhKWFVzTkM"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-04T03:05:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSmdNQm5sMGZoRE1BRkEyLTB2amJzNllZRlZpWmZDTW5GSml6czBuMVY1SnREYUdDUk9YUmthMHpnZW5RdXQzWHE2NFQ2Mjd5UGRUTTJvRDJaYktMNjhfMlNvZFJ1a2dtOXpia2UwOGZvOU9DWG1Ca3MtWEV1Tk05V3pzRURTdzI5YjR0RUw3TTlsdm5mUS1oOTlWTzIwQzlCaWVvNWFsNTZ0Q1o2Mm42bW92S0dSSzFIa1JqZEJvTVlaMk5oUW9OT3FHZV9YNHktRXY2QjRUbDRvR0FjalVicVFtNjUxcDNjVTdLVG40LTBTU1dB"
+    }
+   ],
+   "category": "其他",
+   "session": "周末",
+   "zh_summary": "微软高级着色器交付功能扩展适配英伟达",
+   "title_zh": "微软扩展高级着色器交付功能适配范围：本月将支持高通、英特尔和英伟达硬件 - 手机新浪网",
    "sentiment": 1
   },
   {
@@ -583,7 +616,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNem81YWloQkh3VndjQ09uNGNBOVFja1pzTG1mOTRmVld1Y1NkYlNjdENYeDlEeHp4S21HWG01d1lHNnJGRmZCMUxwZEpfZTNKODNpREVKaEtkeVRTOWtZcGd5NzcxOVFsWGdreDRid2F4MjlZaEE4STgtWEVVYnhkcTFTNnhEQWxx",
    "source": "搜狐网",
    "published_at": "2026-10-04T01:35:40+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "搜狐网",
@@ -599,10 +632,16 @@
      "name": "新浪财经",
      "published_at": "2026-10-04T02:56:59+00:00",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2tTS1hpRndXWFJhTnQ5a2xmcW9mU1A1REszZ1hfNWFPUVQ4Z2xENkJoTEFfek5xSmNieVZjMUtueGR2Q0ZaeHRIdXNORzBSR3JFT2xkc3FHaVlRRGxaeXNWU2l0U0hTYjJhdWo1ZHJBSFY1NDkzVXJ1U1Yydi1oVlM4dHh2SEpRVmxLOS1rS0F5dWtuWE1FLUZKQW9IX2hJQVUtM3c1NlVyaVhXNmNWbzhB"
+    },
+    {
+     "name": "finance.sina.cn",
+     "published_at": "2026-10-04T02:56:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2tTS1hpRndXWFJhTnQ5a2xmcW9mU1A1REszZ1hfNWFPUVQ4Z2xENkJoTEFfek5xSmNieVZjMUtueGR2Q0ZaeHRIdXNORzBSR3JFT2xkc3FHaVlRRGxaeXNWU2l0U0hTYjJhdWo1ZHJBSFY1NDkzVXJ1U1Yydi1oVlM4dHh2SEpRVmxLOS1rS0F5dWtuWE1FLUZKQW9IX2hJQVUtM3c1NlVyaVhXNmNWbzhB"
     }
    ],
    "category": "其他",
    "session": "周末",
+   "breaking": true,
    "zh_summary": "RTX5070Ti显存超频带宽达1248GB/s",
    "title_zh": "英伟达RTX 5070 Ti显存狂超+5500MHz：带宽突破1248 GB/s，游戏实测仅提升5帧 - 搜狐网",
    "sentiment": 0
@@ -3192,6 +3231,23 @@
    "zh_summary": "Vera Rubin NVL72吞吐4.8倍",
    "title_zh": "英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐 - 驱动之家",
    "sentiment": 1
+  },
+  {
+   "id": "773a4e307690",
+   "title": "英伟达股价刷新历史新高 - emwap.eastmoney.com",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwV1AxenVsTjRWdjRjRExjU2hZX1c1dXRKV3NLYkJra2NhSEFfRzlIZnhaYk1mN3RRNDM4bFlsb1BCM3BrSGVSSUVVWHltT3ZZV2JRa21xdW1ZNDlGZktFOWRfRQ",
+   "source": "emwap.eastmoney.com",
+   "published_at": "2026-10-02T22:59:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "emwap.eastmoney.com",
+     "published_at": "2026-10-02T22:59:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwV1AxenVsTjRWdjRjRExjU2hZX1c1dXRKV3NLYkJra2NhSEFfRzlIZnhaYk1mN3RRNDM4bFlsb1BCM3BrSGVSSUVVWHltT3ZZV2JRa21xdW1ZNDlGZktFOWRfRQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "931bca9c6296",
@@ -7803,7 +7859,7 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQXBLRjZpZUgyUG02eHppNjNUVXNBc3FnRzlNWEVmQW1DZkJ2NTFqZkYyV180R1BkZnBLem5obThqakZJa3o4VnNKaXZzaFJEUEEyeVJlTnhWS0UwcjA4VlJJdw",
    "source": "东方财富",
    "published_at": "2026-10-02T11:44:11+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "东方财富",
@@ -7819,6 +7875,11 @@
      "name": "sohu.com",
      "published_at": "2026-10-02T14:36:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQand6VFZaOFZ3eWM5Tjkyd19zd2lqa1pjV1NoZnJCY2VIaXgzRzA1SmxRUi1oMjVpU3ZYcWxHZGV2Skl5QS1PSjVUaGpoQmRIbExIU1Vkal81UXM1cE5Gam1pYnNVWm55RXprS3FkVktuT1VGN2ZRSEJWeDk0ckpMMlhzR0lKU1Z2akRxeQ"
+    },
+    {
+     "name": "emwap.eastmoney.com",
+     "published_at": "2026-10-02T11:44:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQXBLRjZpZUgyUG02eHppNjNUVXNBc3FnRzlNWEVmQW1DZkJ2NTFqZkYyV180R1BkZnBLem5obThqakZJa3o4VnNKaXZzaFJEUEEyeVJlTnhWS0UwcjA4VlJJdw"
     }
    ],
    "category": "其他",
@@ -8062,80 +8123,6 @@
    "price_reaction": {
     "pct": -0.22,
     "window_h": 0.1
-   }
-  },
-  {
-   "id": "7fd7d3bee0e3",
-   "title": "I unlocked RTX 50-series features on my RTX 4070 Ti, and Nvidia's GPU generations don't make sense anymore - XDA",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0Z2em5SdGx2WndEZDJ0eEM0cXRKWWpkRXBrbUIxcm1rSm5NaFZQSlA5M3VrSnB6NUlkSkJrNVdpRDB2VGlCVW5VZElmNTZ3UkRZcWl1NU9TOWhPOHBaTDNZek9JT1VQMU5GYkNLTGtEMS1IbEd2V2VRRFRqWkIzMEVrbHV3VTlDSTJMeGZBS29sanFKeXlKbjUwM3M0c002WFA0blFwZHFKX0N6NFo2MjIyMFNGaWZjRVJmSnRGaXFQT1BQ",
-   "source": "XDA",
-   "published_at": "2026-10-02T11:00:17+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "XDA",
-     "published_at": "2026-10-02T11:00:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0Z2em5SdGx2WndEZDJ0eEM0cXRKWWpkRXBrbUIxcm1rSm5NaFZQSlA5M3VrSnB6NUlkSkJrNVdpRDB2VGlCVW5VZElmNTZ3UkRZcWl1NU9TOWhPOHBaTDNZek9JT1VQMU5GYkNLTGtEMS1IbEd2V2VRRFRqWkIzMEVrbHV3VTlDSTJMeGZBS29sanFKeXlKbjUwM3M0c002WFA0blFwZHFKX0N6NFo2MjIyMFNGaWZjRVJmSnRGaXFQT1BQ"
-    },
-    {
-     "name": "xda-developers.com",
-     "published_at": "2026-10-02T11:00:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0Z2em5SdGx2WndEZDJ0eEM0cXRKWWpkRXBrbUIxcm1rSm5NaFZQSlA5M3VrSnB6NUlkSkJrNVdpRDB2VGlCVW5VZElmNTZ3UkRZcWl1NU9TOWhPOHBaTDNZek9JT1VQMU5GYkNLTGtEMS1IbEd2V2VRRFRqWkIzMEVrbHV3VTlDSTJMeGZBS29sanFKeXlKbjUwM3M0c002WFA0blFwZHFKX0N6NFo2MjIyMFNGaWZjRVJmSnRGaXFQT1BQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "称英伟达显卡代际已失去意义",
-   "title_zh": "我给RTX 4070 Ti解锁了50系特性，英伟达显卡代际不再有意义",
-   "sentiment": 0
-  },
-  {
-   "id": "496d3d85cfac",
-   "title": "大涨超2%，英伟达股价创历史新高，总市值重返5.7万亿美元 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxeVVKTTU2SWh2UXZzc0pKTUVIeGdYSFJ5dlpwc0Z0NE9EZVY2cXlJZzNhaG4tZWpiZHpIRE9sTm9TdXE5WjR6TUVYSXFKR0VoNXRoclJrR0NERDREQXFYOFZFdw",
-   "source": "东方财富",
-   "published_at": "2026-10-02T10:59:00+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-02T10:59:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxeVVKTTU2SWh2UXZzc0pKTUVIeGdYSFJ5dlpwc0Z0NE9EZVY2cXlJZzNhaG4tZWpiZHpIRE9sTm9TdXE5WjR6TUVYSXFKR0VoNXRoclJrR0NERDREQXFYOFZFdw"
-    },
-    {
-     "name": "news.china.com",
-     "published_at": "2026-10-02T14:10:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xb2VYbkhqT1d0Y1p0YnloSHpobFp0aU8yMGU1QTlyU0lhRXJNd0NOTWpqUlhDMXh5SWVtdjQxbEpqcmpWbnltZ0lleUN1Yl9Qa1R4eHVwNGJWX29zRVNkdS1EMXNMYWN5blBzaU9zY0g"
-    },
-    {
-     "name": "中华网",
-     "published_at": "2026-10-02T14:10:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xb2VYbkhqT1d0Y1p0YnloSHpobFp0aU8yMGU1QTlyU0lhRXJNd0NOTWpqUlhDMXh5SWVtdjQxbEpqcmpWbnltZ0lleUN1Yl9Qa1R4eHVwNGJWX29zRVNkdS1EMXNMYWN5blBzaU9zY0g"
-    },
-    {
-     "name": "中国经济网",
-     "published_at": "2026-10-02T23:44:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoS05sTWhpMDI2aXcyRmhWU2FlazVsSUpIQzZwbEF6QXR3UENjMWRDeG9Jb3Nnb0lKcVQ3MlF4eGRGMmhidzdmX3NhRWdnTWFTV1RWek1uSlYxZXpQUG16cEIyWHlkbEE"
-    },
-    {
-     "name": "大河财立方",
-     "published_at": "2026-10-02T13:51:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjVUUzNTM2M0t3RU12TDlicms4QUZtZEJXaDNyQks2NTQtb2Q5a2YyUDlFaGxIXzR0WFFjLXhHVWpGemJnMS1QQ01YRVgzaEdsRkM5dXJYVy1JeHJmakh2bXFBU05YSWhTa3c"
-    },
-    {
-     "name": "emwap.eastmoney.com",
-     "published_at": "2026-10-02T10:59:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxeVVKTTU2SWh2UXZzc0pKTUVIeGdYSFJ5dlpwc0Z0NE9EZVY2cXlJZzNhaG4tZWpiZHpIRE9sTm9TdXE5WjR6TUVYSXFKR0VoNXRoclJrR0NERDREQXFYOFZFdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达大涨超2%，市值重返5.7万亿美元",
-   "title_zh": "大涨超2%，英伟达股价创历史新高，总市值重返5.7万亿美元 - 东方财富",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.41,
-    "window_h": 2.0
    }
   }
  ]
