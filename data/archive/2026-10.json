@@ -39,7 +39,11 @@
    "session": "盘中",
    "zh_summary": "英伟达股价创新高，目标价575美元",
    "title_zh": "英伟达股价创新高，575美元目标价处于中值",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.25,
+    "window_h": 0.6
+   }
   },
   {
    "id": "a766fdb544a2",
@@ -1462,6 +1466,40 @@
    "zh_summary": "星展CIO称英伟达预期市盈率17倍",
    "title_zh": "星展CIO：英伟达(NVDA.US)预期市盈率仅17倍，AI科技股远未到泡沫区域_全球市场_财经 - 证券之星",
    "sentiment": 1
+  },
+  {
+   "id": "5bffc00ff991",
+   "title": "星展CIO：英伟达(NVDA.US)预期市盈率仅17倍，AI科技股远未到泡沫区域 提供者 智通财经 - 英为财情 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ieWRUSk9LYjB6TWdhUW4yV1h3MFhuM09VUXZFTWtZZnJZZHlFSzJGY0ZmOFRRUUJXOFR2bS1zbFVrT2hXeHhKZFQweDVraXAxWDhTM01VVkJHTy1acnotS0x2bkV3eDR5ZHBWUUlSdWg",
+   "source": "英为财情 Investing.com",
+   "published_at": "2026-10-05T07:59:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-05T07:59:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ieWRUSk9LYjB6TWdhUW4yV1h3MFhuM09VUXZFTWtZZnJZZHlFSzJGY0ZmOFRRUUJXOFR2bS1zbFVrT2hXeHhKZFQweDVraXAxWDhTM01VVkJHTy1acnotS0x2bkV3eDR5ZHBWUUlSdWg"
+    },
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-05T07:59:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IaWdFZEVrUFlrUThKaUtPMHRIU3hhbHRqUVlrRmFHdjI1MmdwNWwyQW5Va2t1N3NzZGhtcjBjZWhGajhaYmNSNjgxUkwxTFdpV1VKcG1IbUxZMjZOQ29WVA"
+    },
+    {
+     "name": "stockstar.com",
+     "published_at": "2026-10-05T07:59:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IaWdFZEVrUFlrUThKaUtPMHRIU3hhbHRqUVlrRmFHdjI1MmdwNWwyQW5Va2t1N3NzZGhtcjBjZWhGajhaYmNSNjgxUkwxTFdpV1VKcG1IbUxZMjZOQ29WVA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "星展CIO称英伟达预期市盈率17倍",
+   "title_zh": "星展CIO：英伟达(NVDA.US)预期市盈率仅17倍，AI科技股远未到泡沫区域_全球市场_财经 - 证券之星",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.11,
+    "window_h": 1.4
+   }
   },
   {
    "id": "8545239cd1cf",
@@ -15640,5 +15678,5 @@
    "sentiment": 1
   }
  ],
- "count": 688
+ "count": 689
 }
