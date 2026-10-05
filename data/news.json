@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T23:36:30.446456+00:00",
+ "updated_at": "2026-10-05T23:51:32.300098+00:00",
  "market": {
   "price": 238.9,
   "change_pct": 2.12,
@@ -10,8 +10,8 @@
    "days_left": 43
   },
   "day_sentiment": {
-   "avg": 0.45,
-   "count": 179
+   "avg": 0.46,
+   "count": 180
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.45（179条已评分）"
+     "note": "今日新闻情绪 +0.46（180条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.9,
    "ma20": 224.21,
-   "as_of": "2026-10-05T23:36:30.432803+00:00"
+   "as_of": "2026-10-05T23:51:32.288383+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2ee28bccdc63",
+   "title": "Nvidia advances sports tech with 3D body pose and AI-generated slow motion - The Business Journals",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekRBWXN0aXVyZUxYSG55Y1otRGplR21oVUJyUUwtNXk2VkJ0OHNTNWZzSGEyU3JzNlZUUTM0VlVXbDFhSk0yZUFKOXRIN3JocWF4azhfb2xXUnhmVDlwODh3OWJ0TndYUDE2cWtvODc5X2NwVVdkWFNldDA1VDBVQS1zTXk2RzJjbWJULWtKZDVXOWVabGc",
+   "source": "The Business Journals",
+   "published_at": "2026-10-05T23:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Business Journals",
+     "published_at": "2026-10-05T23:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekRBWXN0aXVyZUxYSG55Y1otRGplR21oVUJyUUwtNXk2VkJ0OHNTNWZzSGEyU3JzNlZUUTM0VlVXbDFhSk0yZUFKOXRIN3JocWF4azhfb2xXUnhmVDlwODh3OWJ0TndYUDE2cWtvODc5X2NwVVdkWFNldDA1VDBVQS1zTXk2RzJjbWJULWtKZDVXOWVabGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "ba29a7aa5743",
    "title": "英伟达美股连续3天创历史新高，本月市值有望冲击6万亿美元 - sohu.com",
@@ -167,10 +184,15 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUjRRdVlGbk10Nks0N2w1dEI5ZVctUVdtYjk4U0JnU21RSTIyVUF0Rnpjc1o4U0lVNlJBNFc3VmJJQkxnNXBLd00xd3VkTzZkeFFMS2pvTE1NN3hDTXZMLXJvU09jX3hmU2o4cW84ZTNtUEtSaDhYS00zeUU4cmFuZ25oWnA1RG9hQUNLenV0Tm8",
    "source": "MIXED Reality News",
    "published_at": "2026-10-05T22:22:45+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "MIXED Reality News",
+     "published_at": "2026-10-05T22:22:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUjRRdVlGbk10Nks0N2w1dEI5ZVctUVdtYjk4U0JnU21RSTIyVUF0Rnpjc1o4U0lVNlJBNFc3VmJJQkxnNXBLd00xd3VkTzZkeFFMS2pvTE1NN3hDTXZMLXJvU09jX3hmU2o4cW84ZTNtUEtSaDhYS00zeUU4cmFuZ25oWnA1RG9hQUNLenV0Tm8"
+    },
+    {
+     "name": "mixed-news.com",
      "published_at": "2026-10-05T22:22:45+00:00",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUjRRdVlGbk10Nks0N2w1dEI5ZVctUVdtYjk4U0JnU21RSTIyVUF0Rnpjc1o4U0lVNlJBNFc3VmJJQkxnNXBLd00xd3VkTzZkeFFMS2pvTE1NN3hDTXZMLXJvU09jX3hmU2o4cW84ZTNtUEtSaDhYS00zeUU4cmFuZ25oWnA1RG9hQUNLenV0Tm8"
     }
@@ -7581,7 +7603,6 @@
    ],
    "category": "其他",
    "session": "周末",
-   "breaking": true,
    "zh_summary": "市值逼近6万亿美元，大摩预计再涨30%",
    "title_zh": "英伟达重返世界之巅，市值逼6万亿美元！但斌激动万分，大摩：再涨30% - 新浪财经",
    "sentiment": 2,
@@ -7854,7 +7875,7 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWEtrSUhLTXVEZU9YNmtCQXJNMXNTU1V1T2tIcTdHU01XZmVzdFF2QzFXay1NS1o1a3Y5VDFBcURzV0FHMjB5LUJMQUtUZmw1eXI1MGRLV1BCQkptSjFKSFJiVHlPelRvc2YwUldGdG12QnNTOFY2N09GSjhVM2M4ZVY2Ylc3clo5X1dYSUljVjRJOFlObDk0bnZCcTlORV9nN3hZbnhVVXBlSjFWRjVjb3hLdllnQQ",
    "source": "Barchart.com",
    "published_at": "2026-10-03T17:30:02+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Barchart.com",
@@ -7868,6 +7889,11 @@
     },
     {
      "name": "Yahoo Finance",
+     "published_at": "2026-10-03T17:30:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0ZKcFVtdEVXeXpNbWYwV0JiR2c2d1ItdmVDbWpLRURzVkR2M0ZVcXdqTk9PU0d2ZndrelRjdkI3RFQwQUl2YmtZMkJPeFpsVFN2SGI1NlQ3ZjlxbDVzeTBGX3dxeFEyOUFDMEdhV25xMEhJejBFbFVRZGhidm02YXZnNEVMbGdlRlhjUWxSRVB1Rlk"
+    },
+    {
+     "name": "finance.yahoo.com",
      "published_at": "2026-10-03T17:30:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0ZKcFVtdEVXeXpNbWYwV0JiR2c2d1ItdmVDbWpLRURzVkR2M0ZVcXdqTk9PU0d2ZndrelRjdkI3RFQwQUl2YmtZMkJPeFpsVFN2SGI1NlQ3ZjlxbDVzeTBGX3dxeFEyOUFDMEdhV25xMEhJejBFbFVRZGhidm02YXZnNEVMbGdlRlhjUWxSRVB1Rlk"
     }
@@ -8184,31 +8210,6 @@
    "zh_summary": "黄仁勋称AI投资回报问题已有答案",
    "title_zh": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
    "sentiment": 1
-  },
-  {
-   "id": "3c66241d126d",
-   "title": "$英伟达 (NVDA.US)$ [抠鼻][抠鼻][抠鼻] - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VeVpPbkFjNXFxbnc4Yzc4QmJ4dXByVXpDOGFfR3VKejRwY2NfUk8wVGZ5ZWw5V04xcmk1NU5PcmZSNU9QUUlRY1c2NnZ4SkFmbE1jVk9NbUJFNXo2SnZmNk9VZzdkNVVvZXg3RjdMbFFqUEh6dUxIZE9IdDNEQQ",
-   "source": "Moomoo",
-   "published_at": "2026-10-03T15:16:32+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-03T15:16:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VeVpPbkFjNXFxbnc4Yzc4QmJ4dXByVXpDOGFfR3VKejRwY2NfUk8wVGZ5ZWw5V04xcmk1NU5PcmZSNU9QUUlRY1c2NnZ4SkFmbE1jVk9NbUJFNXo2SnZmNk9VZzdkNVVvZXg3RjdMbFFqUEh6dUxIZE9IdDNEQQ"
-    },
-    {
-     "name": "moomoo.com",
-     "published_at": "2026-10-03T15:16:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VeVpPbkFjNXFxbnc4Yzc4QmJ4dXByVXpDOGFfR3VKejRwY2NfUk8wVGZ5ZWw5V04xcmk1NU5PcmZSNU9QUUlRY1c2NnZ4SkFmbE1jVk9NbUJFNXo2SnZmNk9VZzdkNVVvZXg3RjdMbFFqUEh6dUxIZE9IdDNEQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Moomoo用户发布NVDA动态",
-   "title_zh": "$英伟达 (NVDA.US)$ Moomoo用户动态",
-   "sentiment": 0
   }
  ]
 }
