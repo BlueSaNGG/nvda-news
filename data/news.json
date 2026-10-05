@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-05T16:36:45.621764+00:00",
+ "updated_at": "2026-10-05T16:51:50.164974+00:00",
  "market": {
-  "price": 236.2,
-  "change_pct": 0.96,
+  "price": 236.43,
+  "change_pct": 1.06,
   "as_of": "2026-10-05",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.44,
-   "count": 111
+   "count": 117
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +34.4%"
+     "note": "目标价中位数 $318（14家），隐含空间 +34.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（111条已评分）"
+     "note": "今日新闻情绪 +0.44（117条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $236.20 vs 20日均线 $224.08"
+     "note": "现价 $236.43 vs 20日均线 $224.09"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 100,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 34.4,
-   "ma20": 224.08,
-   "as_of": "2026-10-05T16:36:45.609617+00:00"
+   "implied_upside_pct": 34.3,
+   "ma20": 224.09,
+   "as_of": "2026-10-05T16:51:50.142674+00:00"
   },
   "pe_ttm": 30.0,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+34.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+34.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -100,6 +100,40 @@
    "zh_summary": "华尔街机构质疑英伟达AI硬件资产估值",
    "title_zh": "华尔街对英伟达先进AI硬件资产估值提出质疑",
    "sentiment": -1
+  },
+  {
+   "id": "4b6f36a39687",
+   "title": "Nvidia’s $20 Billion Groq Deal Draws Investor Court Challenge - Bloomberg Law News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRFk4d1ZmOThiNnJoQXRIdUVKQTFjWXhmNk8tb1pya1BpaTZ1VmxnOUluSnMwdzVYMW9nNHFBZlJjbGpyeWVXY0FZbGdWRDRZWW9yYmkzajNsT3V1dGJIZ2hFck5yVDJYUk00RU5yWFl3ZFpGcGtqNkxnTjNDQnBsc2xPY2tFYTFWd0dkRDVtUVVYU1ZpSmtIaw",
+   "source": "Bloomberg Law News",
+   "published_at": "2026-10-05T16:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg Law News",
+     "published_at": "2026-10-05T16:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRFk4d1ZmOThiNnJoQXRIdUVKQTFjWXhmNk8tb1pya1BpaTZ1VmxnOUluSnMwdzVYMW9nNHFBZlJjbGpyeWVXY0FZbGdWRDRZWW9yYmkzajNsT3V1dGJIZ2hFck5yVDJYUk00RU5yWFl3ZFpGcGtqNkxnTjNDQnBsc2xPY2tFYTFWd0dkRDVtUVVYU1ZpSmtIaw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "b892edd0b6c0",
+   "title": "BNP Paribas Boosts Nvidia (NVDA) Price Target Amid AI Hardware D - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYVQxamFPOUNjeWpBV2pSN3pKcFJSWmxVdWxMV21tTzNxaDM5WVpJZTdjM0M4SjJWZWR3ZFkyUklYakplTmVoQjMzdnM0UWg5dk5YWmg5WTZVdFBMQW1xYm0wa1d1dXg3dHRTMF9lYk94emxNOTBnbkdRZE94TGgyVHp3NVdXLW03RHNTanhyX2VmYmg1aHlZY2lxNHFDSHJaUTdZcmNkLWRKTGxoVEs5VGZn",
+   "source": "GuruFocus",
+   "published_at": "2026-10-05T16:15:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-05T16:15:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYVQxamFPOUNjeWpBV2pSN3pKcFJSWmxVdWxMV21tTzNxaDM5WVpJZTdjM0M4SjJWZWR3ZFkyUklYakplTmVoQjMzdnM0UWg5dk5YWmg5WTZVdFBMQW1xYm0wa1d1dXg3dHRTMF9lYk94emxNOTBnbkdRZE94TGgyVHp3NVdXLW03RHNTanhyX2VmYmg1aHlZY2lxNHFDSHJaUTdZcmNkLWRKTGxoVEs5VGZn"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
   },
   {
    "id": "3d9eec8cfdcc",
@@ -7401,6 +7435,23 @@
    "sentiment": 1
   },
   {
+   "id": "e277df7a00ab",
+   "title": "深夜，全线大涨！美联储加息预期生变，纳指、英伟达创历史新高 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yZDdLSU5lb0dWejJfdHU3UlZmMlBQS21FTF9kQkFLU3pFQjRUU1FIcTlKdmNSNFRpVEZ3N1dBdEJ0dnY0dmRQb0M1LUF3cjdORmpONHppUnFmZWJhU3dEQTAtWFRJQQ",
+   "source": "东方财富",
+   "published_at": "2026-10-03T04:03:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-03T04:03:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yZDdLSU5lb0dWejJfdHU3UlZmMlBQS21FTF9kQkFLU3pFQjRUU1FIcTlKdmNSNFRpVEZ3N1dBdEJ0dnY0dmRQb0M1LUF3cjdORmpONHppUnFmZWJhU3dEQTAtWFRJQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "9352318cc215",
    "title": "美股讯号 | 英伟达与软银完成对OpenAI的投资，市值突破5.7万亿美元 ｜#美股资讯# #英伟达# #市场事件# - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRWtTUWNnYlp6RThmV1lUOGVNeno4WjgyTC11dEY4MGlTOW1rcjRmZ0xHa1RhR19HM0xGM2FDZ2R6dzBqRlpWWGZXeVpLcjdaWTdDT24xakFQYlpmdXVvanMzVzBraWM3WTRTWWplLUlaZ1JQeXZsSUF2enZ2YVNHZ19JOUczYk12Y0RtRw",
@@ -7908,91 +7959,6 @@
    "session": "盘后",
    "zh_summary": "英伟达股价创新高，市值逼近6万亿美元",
    "title_zh": "英伟达股价创新高，逼近6万亿美元",
-   "sentiment": 1
-  },
-  {
-   "id": "d41a81bc11b1",
-   "title": "英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧MacOS 磁盘访问权限；arXiv 每人每月仅允许投递2 篇论文 - 极客公园",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsM3FXck5md3lKbklIemNsYU1Sa3p1b2t0amd1R0ZfOWo0WGxkX0p3cGFyMHB3bHQwdGY2dDF2aXdVblU1VDZwZ1ZRUWM",
-   "source": "极客公园",
-   "published_at": "2026-10-03T01:17:54+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "极客公园",
-     "published_at": "2026-10-03T01:17:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsM3FXck5md3lKbklIemNsYU1Sa3p1b2t0amd1R0ZfOWo0WGxkX0p3cGFyMHB3bHQwdGY2dDF2aXdVblU1VDZwZ1ZRUWM"
-    },
-    {
-     "name": "geekpark.net",
-     "published_at": "2026-10-03T01:17:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsM3FXck5md3lKbklIemNsYU1Sa3p1b2t0amd1R0ZfOWo0WGxkX0p3cGFyMHB3bHQwdGY2dDF2aXdVblU1VDZwZ1ZRUWM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达股价创新高，市值逼近6万亿美元",
-   "title_zh": "英伟达股价创新高，逼近 6 万亿美元；限制 AI 助手，苹果收紧MacOS 磁盘访问权限；arXiv 每人每月仅允许投递2 篇论文 - 极客公园",
-   "sentiment": 1
-  },
-  {
-   "id": "06531b65dbe5",
-   "title": "$英伟达 (NVDA.US)$ 创历史新高！看看能不能继续拉高。 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSE45Nk14SUZZRERtNmlVQXJUZGI0RC11YkFsT3dFZlBWYy1aS3hKRlUyQTdyeXJVX3BkWVEwZEYxMmFuQkZhcl8tYXlSRm1VWDlQbUZ5dngzUk5PaE9mSC1lR0kyYlFPUExJaXh1TFBCS0JVZ0s2d25peXFScEVFT1gwM3ktdTNLLUlGYy1lb3VBbTFVOXdfb0pNZ0QydmxLVWxvLVNR",
-   "source": "Moomoo",
-   "published_at": "2026-10-03T01:13:16+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-03T01:13:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSE45Nk14SUZZRERtNmlVQXJUZGI0RC11YkFsT3dFZlBWYy1aS3hKRlUyQTdyeXJVX3BkWVEwZEYxMmFuQkZhcl8tYXlSRm1VWDlQbUZ5dngzUk5PaE9mSC1lR0kyYlFPUExJaXh1TFBCS0JVZ0s2d25peXFScEVFT1gwM3ktdTNLLUlGYy1lb3VBbTFVOXdfb0pNZ0QydmxLVWxvLVNR"
-    },
-    {
-     "name": "moomoo.com",
-     "published_at": "2026-10-03T01:13:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSE45Nk14SUZZRERtNmlVQXJUZGI0RC11YkFsT3dFZlBWYy1aS3hKRlUyQTdyeXJVX3BkWVEwZEYxMmFuQkZhcl8tYXlSRm1VWDlQbUZ5dngzUk5PaE9mSC1lR0kyYlFPUExJaXh1TFBCS0JVZ0s2d25peXFScEVFT1gwM3ktdTNLLUlGYy1lb3VBbTFVOXdfb0pNZ0QydmxLVWxvLVNR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达股价创历史新高",
-   "title_zh": "$英伟达 (NVDA.US)$ 创历史新高，还能继续拉高吗",
-   "sentiment": 1
-  },
-  {
-   "id": "864699f3f34d",
-   "title": "3 AI Chip Stocks To Watch After Nvidia Stock Hit A Fresh All Time High - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wNVpfNlpyLWF0MkdpZGpYV1RiNUFWQjl5bGpkZmU1Zm91eG1QQkJHSDZjMDZoX3hqWGdHUjBqNjc5NDU1aThuUEMtX2lUYlh6VDZOSW9HLTV5QXBtTXZiSEQ3dmgwRG5iN2xVTXI2SktMQ3B1YkFHVlJVbw",
-   "source": "Yahoo! Finance Canada",
-   "published_at": "2026-10-03T01:11:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-03T01:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wNVpfNlpyLWF0MkdpZGpYV1RiNUFWQjl5bGpkZmU1Zm91eG1QQkJHSDZjMDZoX3hqWGdHUjBqNjc5NDU1aThuUEMtX2lUYlh6VDZOSW9HLTV5QXBtTXZiSEQ3dmgwRG5iN2xVTXI2SktMQ3B1YkFHVlJVbw"
-    },
-    {
-     "name": "ca.finance.yahoo.com",
-     "published_at": "2026-10-03T01:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wNVpfNlpyLWF0MkdpZGpYV1RiNUFWQjl5bGpkZmU1Zm91eG1QQkJHSDZjMDZoX3hqWGdHUjBqNjc5NDU1aThuUEMtX2lUYlh6VDZOSW9HLTV5QXBtTXZiSEQ3dmgwRG5iN2xVTXI2SktMQ3B1YkFHVlJVbw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-03T01:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGtKSEV2U3hSYWE5djM3VUZKVEpqYmRZTENGZWtqT3JhMkdHLW5pYk1hY0ZoZlB3WFJGaHU1WFJ2Sm1RNHJCLV94US1JcFlPRzkyN3VPTm9SbFVFT0xQc1E1eDZjZ1hLMnV4VGd2N0xpTEd6TjhoN3h2blpUR1NGMjV1YzRXR3h5cHhxSFRDMA"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-03T01:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGtKSEV2U3hSYWE5djM3VUZKVEpqYmRZTENGZWtqT3JhMkdHLW5pYk1hY0ZoZlB3WFJGaHU1WFJ2Sm1RNHJCLV94US1JcFlPRzkyN3VPTm9SbFVFT0xQc1E1eDZjZ1hLMnV4VGd2N0xpTEd6TjhoN3h2blpUR1NGMjV1YzRXR3h5cHhxSFRDMA"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "英伟达创历史新高，三只AI芯片股受关注",
-   "title_zh": "英伟达创历史新高后，三只值得关注的AI芯片股",
    "sentiment": 1
   }
  ]
