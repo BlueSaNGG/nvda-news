@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T21:06:32.671147+00:00",
+ "updated_at": "2026-10-05T21:21:33.170421+00:00",
  "market": {
   "price": 238.9,
   "change_pct": 2.12,
@@ -10,8 +10,8 @@
    "days_left": 43
   },
   "day_sentiment": {
-   "avg": 0.43,
-   "count": 161
+   "avg": 0.44,
+   "count": 163
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.43（161条已评分）"
+     "note": "今日新闻情绪 +0.44（163条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.9,
    "ma20": 224.21,
-   "as_of": "2026-10-05T21:06:32.661268+00:00"
+   "as_of": "2026-10-05T21:21:33.161293+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "16a1755a9869",
+   "title": "Groq Shareholders Challenge Nvidia's $20B Reverse Acqui-Hire - Law.com",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGpWS1hYbGlFUFN1NU1UeW1ubWN5azV3RUpoOFV6cHdiWmg2RWs1ckp1ZDI1eWNlcHdVVk9iS081ME9GWXdyQnRCTFRjbm5WNzJFWUFLQV9XZkZVNmswa2s3N1pYRjlVM0dJdG9tS1VHNFI3ZTBUcmQ1c2toZ2RJOXMyTUF3M2lvSkQxakktSElpNGZhRkZucHpyZEt5VlM2MGx3Qw",
+   "source": "Law.com",
+   "published_at": "2026-10-05T20:43:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Law.com",
+     "published_at": "2026-10-05T20:43:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGpWS1hYbGlFUFN1NU1UeW1ubWN5azV3RUpoOFV6cHdiWmg2RWs1ckp1ZDI1eWNlcHdVVk9iS081ME9GWXdyQnRCTFRjbm5WNzJFWUFLQV9XZkZVNmswa2s3N1pYRjlVM0dJdG9tS1VHNFI3ZTBUcmQ1c2toZ2RJOXMyTUF3M2lvSkQxakktSElpNGZhRkZucHpyZEt5VlM2MGx3Qw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "aae1a3ec6399",
    "title": "美股讯号 | 英伟达市值升至5.76万亿美元，纳指创历史新高 ｜#美股资讯# #英伟达# #业绩增长# - 搜狐网",
@@ -255,10 +272,15 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaUR1aHBuLXB5VzBZU0E3S19hamZfZHF0am1SRkVVNDZVYU5jdDVVT1RBUWlZODNnT0l1X0QyZlVZXy1XTzZIVTg0YnJwYll6Q1Jhc2lKM0FDYmhRR2M3aFprU09rSTExXzd1Sk02OFRmVWFHTWR2bUVOT0VocnJGZUM2MlBPNWlOd0loS1ltc2lyV1pvT3BPTU5lVWVudnhNcE1tZTgxX0k5TUZFYTQ4SDZpZ3BFS3BZ",
    "source": "CNBC",
    "published_at": "2026-10-05T19:36:20+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "CNBC",
+     "published_at": "2026-10-05T19:36:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaUR1aHBuLXB5VzBZU0E3S19hamZfZHF0am1SRkVVNDZVYU5jdDVVT1RBUWlZODNnT0l1X0QyZlVZXy1XTzZIVTg0YnJwYll6Q1Jhc2lKM0FDYmhRR2M3aFprU09rSTExXzd1Sk02OFRmVWFHTWR2bUVOT0VocnJGZUM2MlBPNWlOd0loS1ltc2lyV1pvT3BPTU5lVWVudnhNcE1tZTgxX0k5TUZFYTQ4SDZpZ3BFS3BZ"
+    },
+    {
+     "name": "cnbc.com",
      "published_at": "2026-10-05T19:36:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaUR1aHBuLXB5VzBZU0E3S19hamZfZHF0am1SRkVVNDZVYU5jdDVVT1RBUWlZODNnT0l1X0QyZlVZXy1XTzZIVTg0YnJwYll6Q1Jhc2lKM0FDYmhRR2M3aFprU09rSTExXzd1Sk02OFRmVWFHTWR2bUVOT0VocnJGZUM2MlBPNWlOd0loS1ltc2lyV1pvT3BPTU5lVWVudnhNcE1tZTgxX0k5TUZFYTQ4SDZpZ3BFS3BZ"
     }
@@ -340,7 +362,7 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1BvX0FBT0xBVGJmZGtmMjhGQVlkWXBoYzdvZEF3d3BXaklYQkFaQW0zZHBqTHJaVFhJTzRqSS1zYTdIcERqVFRjOUtIZFZHRXRRclg4c0VScG5NQ3JYX1lyTkstTlFzOVlOd0p4MDhZV1diTV9DQjZUZEtxLXdxelZ0U2FlOHZvUE0xTHBUSXVaLUxiQTVMcUFobHdUczdQMmVaTE9MeGM5MUhDUW5lclpkMA",
    "source": "Bloomberg.com",
    "published_at": "2026-10-05T19:00:00+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "Bloomberg.com",
@@ -361,6 +383,11 @@
      "name": "Kansas City Star",
      "published_at": "2026-10-05T21:02:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05cjE5SlJ2bW5BeGFZZHp0ZUM2dGh6RG0tMDlfOUdjbnBVdktkUkdxanRBcTc5WEpVa3VlVlJxU3ZFQWppRWJTUHpvNGdfdWRVUUprTWJnT3Z5c0VwWV8tVHcxQTZMLU80eXFVZEhfWQ"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-05T20:47:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcTFmbFpzLWE4M3dTbFNmMW1OYTJ1S0JxcUFWNVptamNNWVdXQ0VwY2taZHZ0NE5tdWRHX05VQ2xaaENKWkJ5LW5JaVdxV2lpWFpRRkFneGxYNjhta1BFRGJCVURMMm9HbW9wUms2T2hNMTl5YWJDOTc4WU5iMElGMWp2NmpkM0ZfVjB2dGZLMTVpV1lXUE9uVDc3ZEQ1dURITVc3VDNTeV9kQWh1ZkRDSjREdkdKM1hhR1MxSWUxOUFKc0NGWTZfYlFVY25VZ1Axc0NBM2tMRTFQdUVqdWUxVEhB"
     }
    ],
    "category": "政策监管",
@@ -1446,6 +1473,23 @@
    "zh_summary": "First Solar对比英伟达：谁更值得投资",
    "title_zh": "First Solar对比英伟达：哪个更值得投资",
    "sentiment": 0
+  },
+  {
+   "id": "ad432dfaf6ad",
+   "title": "NVIDIA Tokenized Stock Gains On Equity Momentum, Buyback - MarketForces Africa",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkFRWi1rWG55bi1zWmlXX05aLWJRbV9tY0JZcFhpbDRWcGtlUlBXMnZrcEl3WVZwV0lDNkN0eFRCVXR2NWxscHVyRkQ5QlpEXzBFZ2JQMDNqNlNfUGgtTUlkcWlhRWdzcHB0anFUSGNsb0ZyelBuTGhrSkZaY3E3VnhrS0pTU1BNZUE",
+   "source": "MarketForces Africa",
+   "published_at": "2026-10-05T15:14:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketForces Africa",
+     "published_at": "2026-10-05T15:14:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkFRWi1rWG55bi1zWmlXX05aLWJRbV9tY0JZcFhpbDRWcGtlUlBXMnZrcEl3WVZwV0lDNkN0eFRCVXR2NWxscHVyRkQ5QlpEXzBFZ2JQMDNqNlNfUGgtTUlkcWlhRWdzcHB0anFUSGNsb0ZyelBuTGhrSkZaY3E3VnhrS0pTU1BNZUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "252ad67a225f",
@@ -5498,6 +5542,23 @@
    "sentiment": 1
   },
   {
+   "id": "75bfd1ad07dd",
+   "title": "NVDA Stock Eyes Worst First Half Since 2022: Retail Patience Wears Thin As Board Member Trims Stake For Third Time This Year - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORzhNMG5sbTZPeXlsLUFWb0xrc05MRGNQcW9aS3VrOTF5RFRYdFRuQkZvRFFFdkdyNzNiaGNodWdJdjJHZE9oYUNnUWxoclN6LTU4YTRIRnR6NnZKRDV5ZVVSWWJPdGNsdFZZM01rZ1V2ajlPcTFHczdBUElKSUtJbEptTFc5V1JKQXZMbHpkeWxDazRpZGc3eHhDVkxuSXN0OE51QmI3bU1FN2pWMEFVODlFT2Q5SVVrXzNQQktFSjR1dkRFWlBpRlF4V2JuZW1rSFZtSU9sWnU5bXBRaDJxbjVGN3M2cGg4dG5SVWY4d2h6SENzbGlkdGk2dUVvWmtDRmZudmVhOHlmeTNGU0F0S2NWNFdSZw",
+   "source": "Stocktwits",
+   "published_at": "2026-10-04T15:05:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-04T15:05:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORzhNMG5sbTZPeXlsLUFWb0xrc05MRGNQcW9aS3VrOTF5RFRYdFRuQkZvRFFFdkdyNzNiaGNodWdJdjJHZE9oYUNnUWxoclN6LTU4YTRIRnR6NnZKRDV5ZVVSWWJPdGNsdFZZM01rZ1V2ajlPcTFHczdBUElKSUtJbEptTFc5V1JKQXZMbHpkeWxDazRpZGc3eHhDVkxuSXN0OE51QmI3bU1FN2pWMEFVODlFT2Q5SVVrXzNQQktFSjR1dkRFWlBpRlF4V2JuZW1rSFZtSU9sWnU5bXBRaDJxbjVGN3M2cGg4dG5SVWY4d2h6SENzbGlkdGk2dUVvWmtDRmZudmVhOHlmeTNGU0F0S2NWNFdSZw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "ea42f0079fe2",
    "title": "Nvidia-backed Reflection AI prepares first open-weight model launch - app.dealroom.co",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDdUMl9IVDhvZDZCR0RHX3NTX0dqQ1J5a3UwdEd6MjZneTB3bWZzYlJMOFZuNmJGWkFQOHJWUHlyTjNPOGN1VVlCTVYxOWNZb3hzczdmM0pLMkxUMzdfM2NwN0dZcUd6T296TTA5V1JPQ0RvaFZIQXpqM1NGUkZXcFJtUXF1eUVQM1Q3dzBJbHh3LUlFaW91U013eFlEel9OZmo0",
@@ -8036,71 +8097,6 @@
    "zh_summary": "英伟达股价创新高至237.88美元",
    "title_zh": "英伟达股价创237.88美元新高，分析师问突破还是假突破",
    "sentiment": 0
-  },
-  {
-   "id": "53ed8d4620e0",
-   "title": "Nvidia Hits Record High And Reaches $5.7 Trillion Intraday Market Cap - Pulse 2.0",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVMyaTY4bDhIUUtkdHlsZjQ0ZkpPOEJtRjlqR3BrWnpEOWtqRlBNTWlRelpJRk1iN0VfbTFhM1FrUzBQUi1XZnljVmhQZm01cWEwS0FxWW5NeXg4cGoyNHZtLW9jbEpsTDdCdTUycW5pNjBLZGVPSGRYeXJUWjluMGJrWVBQWWpHRXR2WNIBkgFBVV95cUxOY2d6eTg5Yld0Z014X1h2VDZwbFlBWHZFSDhZbElNUEpTSGlRbmpSLWJIemtpUi1sQXhrV3R5SDFXQ0Vac3hqQXJGUlp1aC1yMHZEc1hteldNSDgwMjFKanFodXNYeGVDdmRaa204SHFMSUlBWERpcl9oNkh5UlE4T0NXRGx6bk1jaDVMWmprUW5rdw",
-   "source": "Pulse 2.0",
-   "published_at": "2026-10-03T11:09:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Pulse 2.0",
-     "published_at": "2026-10-03T11:09:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVMyaTY4bDhIUUtkdHlsZjQ0ZkpPOEJtRjlqR3BrWnpEOWtqRlBNTWlRelpJRk1iN0VfbTFhM1FrUzBQUi1XZnljVmhQZm01cWEwS0FxWW5NeXg4cGoyNHZtLW9jbEpsTDdCdTUycW5pNjBLZGVPSGRYeXJUWjluMGJrWVBQWWpHRXR2WNIBkgFBVV95cUxOY2d6eTg5Yld0Z014X1h2VDZwbFlBWHZFSDhZbElNUEpTSGlRbmpSLWJIemtpUi1sQXhrV3R5SDFXQ0Vac3hqQXJGUlp1aC1yMHZEc1hteldNSDgwMjFKanFodXNYeGVDdmRaa204SHFMSUlBWERpcl9oNkh5UlE4T0NXRGx6bk1jaDVMWmprUW5rdw"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "周末",
-   "zh_summary": "英伟达盘中市值达5.7万亿美元创新高",
-   "title_zh": "英伟达创历史新高，盘中市值达5.7万亿美元",
-   "sentiment": 2
-  },
-  {
-   "id": "83a645eb3b80",
-   "title": "Nvidia-backed Neocloud Nscale faces years of delay because UK's 'largest AI supercomputer' can't get enough power from the grid to feed its data centers - TechRadar",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTDh1OFFaVU9Sb0trSlBoZ3k0ZTFLd0F3TzliQnhrYTRQM1ZnaTc0NVBvOE5aNHN6OTVSR3QzNWhBTzZyd3lfMG84NHBKRGhxWTMxOUZ5ZENRZFdQcTJLcW91TkNWR3gyR21lUm9LcVY3UmxsY0dHVmNrSEJXZ1VhVW1XRTh5djUwb2h3cVVOTlhYY29USEpPbi0yRzBQME1jSU1ocFQtZi1fSjJSdVRaUGpjU19ZRkVPbW45UWM5bWVCQ3hwWWpQZlEwZEdDXzh5dzA1R0R1M0RuZUtkTkkydU9uazZra21hTFAxSUFMQzlNdTc5c2dYSktJVFU0aU11Q0tQUGU4V0ljZw",
-   "source": "TechRadar",
-   "published_at": "2026-10-03T11:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechRadar",
-     "published_at": "2026-10-03T11:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTDh1OFFaVU9Sb0trSlBoZ3k0ZTFLd0F3TzliQnhrYTRQM1ZnaTc0NVBvOE5aNHN6OTVSR3QzNWhBTzZyd3lfMG84NHBKRGhxWTMxOUZ5ZENRZFdQcTJLcW91TkNWR3gyR21lUm9LcVY3UmxsY0dHVmNrSEJXZ1VhVW1XRTh5djUwb2h3cVVOTlhYY29USEpPbi0yRzBQME1jSU1ocFQtZi1fSjJSdVRaUGpjU19ZRkVPbW45UWM5bWVCQ3hwWWpQZlEwZEdDXzh5dzA1R0R1M0RuZUtkTkkydU9uazZra21hTFAxSUFMQzlNdTc5c2dYSktJVFU0aU11Q0tQUGU4V0ljZw"
-    }
-   ],
-   "category": "AI需求",
-   "session": "周末",
-   "zh_summary": "Nscale英国超算因电力不足延期",
-   "title_zh": "英伟达支持的Nscale英国超算因电网电力不足面临多年延期",
-   "sentiment": -1
-  },
-  {
-   "id": "5cf87165a9f2",
-   "title": "Ron DeSantis Takes Aim at Nvidia CEO Jensen Huang: 'Superintelligence Factories = Surveillance Centers' - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVU9ISDBVai1WaVBsZWdmVjJiSUNUdnFuajFwSWQ4MXd5LUlZVFRtbVFva1M5b1BvUHk1VW1saVVDMW45d1p0NzV6Wm85SENkYV9KWDV6OXZIdkwyOE0wX3hrbzJ0WUV2MVJHY0VwU1hGWVNodEkxSC02YV9reENfNXU0dS00SWRNLUhsQnNxRXRLZlE",
-   "source": "Yahoo",
-   "published_at": "2026-10-03T10:45:07+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-03T10:45:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVU9ISDBVai1WaVBsZWdmVjJiSUNUdnFuajFwSWQ4MXd5LUlZVFRtbVFva1M5b1BvUHk1VW1saVVDMW45d1p0NzV6Wm85SENkYV9KWDV6OXZIdkwyOE0wX3hrbzJ0WUV2MVJHY0VwU1hGWVNodEkxSC02YV9reENfNXU0dS00SWRNLUhsQnNxRXRLZlE"
-    },
-    {
-     "name": "yahoo.com",
-     "published_at": "2026-10-03T10:45:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVU9ISDBVai1WaVBsZWdmVjJiSUNUdnFuajFwSWQ4MXd5LUlZVFRtbVFva1M5b1BvUHk1VW1saVVDMW45d1p0NzV6Wm85SENkYV9KWDV6OXZIdkwyOE0wX3hrbzJ0WUV2MVJHY0VwU1hGWVNodEkxSC02YV9reENfNXU0dS00SWRNLUhsQnNxRXRLZlE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "德桑蒂斯批评黄仁勋智能工厂",
-   "title_zh": "德桑蒂斯抨击黄仁勋：超智能工厂即监控中心",
-   "sentiment": -1
   }
  ]
 }
