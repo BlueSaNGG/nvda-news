@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-05T19:21:27.975746+00:00",
+ "updated_at": "2026-10-05T19:36:31.309946+00:00",
  "market": {
-  "price": 239.61,
-  "change_pct": 2.42,
+  "price": 239.88,
+  "change_pct": 2.54,
   "as_of": "2026-10-05",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 43
   },
   "day_sentiment": {
-   "avg": 0.43,
-   "count": 144
+   "avg": 0.44,
+   "count": 145
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +32.5%"
+     "note": "目标价中位数 $318（14家），隐含空间 +32.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.43（144条已评分）"
+     "note": "今日新闻情绪 +0.44（145条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $239.61 vs 20日均线 $224.25"
+     "note": "现价 $239.88 vs 20日均线 $224.26"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 100,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 32.5,
-   "ma20": 224.25,
-   "as_of": "2026-10-05T19:21:27.965086+00:00"
+   "implied_upside_pct": 32.4,
+   "ma20": 224.26,
+   "as_of": "2026-10-05T19:36:31.294054+00:00"
   },
   "pe_ttm": 30.5,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+32.5%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+32.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "795f2874d14c",
+   "title": "Nvidia RTX 5060 Ti gaming PC hits $999 with 8-core Ryzen CPU, 16GB RAM, and 1TB PCIe 4.0 SSD — $600 instant savings on a complete 1080p powerhouse - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOTlZ4VjBVbFhfV3dJd3otOEdkcHplakZ1WlVzdWowOE12REVPTWVUOEF5WlNGYldEUnBBYjJxZnlKb3l4MGRvalpVTUlZUEQ1c21SMDZoanlEMzZMY0RKcC0zWEdqMF96VlpEOUd1NkoyRzZkREswUzRETVhfUXZtTmQ3akJDaXRCMUJYWVBFUEZVU2loTXhJd1AxSUpDTlhxbUhtWUFYNWFuSDk4LVNIOWVfLUtTUmRhRE12VERVVHVrWjFSNFZnWTFrYU9QbDB3NC11QllmT2dLc1M5N2oweHZoUXFZRDJDWG95ZVdFSHJSNi1JTTZLaFpxOVFSa0EzVTlTUTR1U3FiSjhubEQ1YzRtWGMxcDNY",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-05T19:31:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-05T19:31:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOTlZ4VjBVbFhfV3dJd3otOEdkcHplakZ1WlVzdWowOE12REVPTWVUOEF5WlNGYldEUnBBYjJxZnlKb3l4MGRvalpVTUlZUEQ1c21SMDZoanlEMzZMY0RKcC0zWEdqMF96VlpEOUd1NkoyRzZkREswUzRETVhfUXZtTmQ3akJDaXRCMUJYWVBFUEZVU2loTXhJd1AxSUpDTlhxbUhtWUFYNWFuSDk4LVNIOWVfLUtTUmRhRE12VERVVHVrWjFSNFZnWTFrYU9QbDB3NC11QllmT2dLc1M5N2oweHZoUXFZRDJDWG95ZVdFSHJSNi1JTTZLaFpxOVFSa0EzVTlTUTR1U3FiSjhubEQ1YzRtWGMxcDNY"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "55e639bebc17",
+   "title": "Nvidia NVDA Stock Hits New $240 Record as Chip Demand Meets Rising Costs - FXLeaders",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHFaeVJVT3Z3MTd4Mjc3VnVLU0tyeGloS0NWeXlERjVreVlQVEtfQm4yR3BSTDM4S1RLVllkS0dTanQzR2J1Tm5nUmZseGlYaXdONGVSYzA0SmVUSGxuMU9Ha0puLVZsV25NdjEydldPUVF2NmpyR1dURDZxemp6c1A0aklzU3A4OWUyYWhGOUFBUVdOM2FmU1p0YjU0VHFfWXA1alJGdF9KWXNYLWRUQ2I2TjU",
+   "source": "FXLeaders",
+   "published_at": "2026-10-05T19:23:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FXLeaders",
+     "published_at": "2026-10-05T19:23:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHFaeVJVT3Z3MTd4Mjc3VnVLU0tyeGloS0NWeXlERjVreVlQVEtfQm4yR3BSTDM4S1RLVllkS0dTanQzR2J1Tm5nUmZseGlYaXdONGVSYzA0SmVUSGxuMU9Ha0puLVZsV25NdjEydldPUVF2NmpyR1dURDZxemp6c1A0aklzU3A4OWUyYWhGOUFBUVdOM2FmU1p0YjU0VHFfWXA1alJGdF9KWXNYLWRUQ2I2TjU"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "390ac02d4e5b",
    "title": "Up 28% in 2026, NVIDIA Just Tapped an All-Time High: Is the Rally Overextended or Just Getting Started? - 24/7 Wall St.",
@@ -321,10 +355,15 @@
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzBHQWRTU0JzWHJ1SkZFZHBqbV8yVVJwdDdoUnk4YUI3dkZRWkpxNGRxUVdiRXQtUmpXLWxrUl9JMU5DaVFPSjFBcEQ1V3QzUzQxcTJjakthc3IydTlFSTYyandkU1ZPQUE4aTRrTU56cVRuRExRVjctNlNTdmRXM2JiaGpMSEJTNHFrZEV5Q2VzZGVZVXplUkpRVF90WkVuZmZjVnpmRFU",
    "source": "TradingView",
    "published_at": "2026-10-05T17:18:40+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TradingView",
+     "published_at": "2026-10-05T17:18:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzBHQWRTU0JzWHJ1SkZFZHBqbV8yVVJwdDdoUnk4YUI3dkZRWkpxNGRxUVdiRXQtUmpXLWxrUl9JMU5DaVFPSjFBcEQ1V3QzUzQxcTJjakthc3IydTlFSTYyandkU1ZPQUE4aTRrTU56cVRuRExRVjctNlNTdmRXM2JiaGpMSEJTNHFrZEV5Q2VzZGVZVXplUkpRVF90WkVuZmZjVnpmRFU"
+    },
+    {
+     "name": "tradingview.com",
      "published_at": "2026-10-05T17:18:40+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbzBHQWRTU0JzWHJ1SkZFZHBqbV8yVVJwdDdoUnk4YUI3dkZRWkpxNGRxUVdiRXQtUmpXLWxrUl9JMU5DaVFPSjFBcEQ1V3QzUzQxcTJjakthc3IydTlFSTYyandkU1ZPQUE4aTRrTU56cVRuRExRVjctNlNTdmRXM2JiaGpMSEJTNHFrZEV5Q2VzZGVZVXplUkpRVF90WkVuZmZjVnpmRFU"
     }
@@ -1091,10 +1130,15 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMUVZbkxtSmxPbjhKcXJuRGIzMkYtemhHS1dGYzdUSGprS3hDRkZMMEdadVNscjZMLTlyX3VSSnRfVWZjbHFIOExzS25VU1ctVnhkd1dQTUNlemJqcjVYcExndlB2WUlhanNwYTlGUklpN0tYbGJZZDhHNV9xSWlnc2ZLRU1vT1hGZGNtdU1ZZkJtMlI3aWRSR1JUbFFNNXJkQURSQU5TX3J5RjdJbXhlanJkWWZPR3U2ZGdZRXhjSWt0SjFQUEh2VlBmSDFOQQ",
    "source": "Trefis",
    "published_at": "2026-10-05T15:15:49+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Trefis",
+     "published_at": "2026-10-05T15:15:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMUVZbkxtSmxPbjhKcXJuRGIzMkYtemhHS1dGYzdUSGprS3hDRkZMMEdadVNscjZMLTlyX3VSSnRfVWZjbHFIOExzS25VU1ctVnhkd1dQTUNlemJqcjVYcExndlB2WUlhanNwYTlGUklpN0tYbGJZZDhHNV9xSWlnc2ZLRU1vT1hGZGNtdU1ZZkJtMlI3aWRSR1JUbFFNNXJkQURSQU5TX3J5RjdJbXhlanJkWWZPR3U2ZGdZRXhjSWt0SjFQUEh2VlBmSDFOQQ"
+    },
+    {
+     "name": "trefis.com",
      "published_at": "2026-10-05T15:15:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMUVZbkxtSmxPbjhKcXJuRGIzMkYtemhHS1dGYzdUSGprS3hDRkZMMEdadVNscjZMLTlyX3VSSnRfVWZjbHFIOExzS25VU1ctVnhkd1dQTUNlemJqcjVYcExndlB2WUlhanNwYTlGUklpN0tYbGJZZDhHNV9xSWlnc2ZLRU1vT1hGZGNtdU1ZZkJtMlI3aWRSR1JUbFFNNXJkQURSQU5TX3J5RjdJbXhlanJkWWZPR3U2ZGdZRXhjSWt0SjFQUEh2VlBmSDFOQQ"
     }
@@ -1215,10 +1259,15 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSUhoeENKRjNodW4yNXZ3Vno1X2pWenotNmMxelMwTFVoSVI4NFV5UzRDOWhSZ05rWHBWSFoyOXBUXy1Mb0EtVklTcWdCd0NfYlhZaDFGeVN5bVZ2U2UxcEZhTmV1YTJ6b1pJSmNOckh2bFhncXlSMTdnTFR0WUVfQzJpZUZpVWtJNGFjZENUNHhXUnRJRElBeDBOZjJqWjhtY1o2UUlYbGFfa0Z6clRPTWFVeTBRaldkNmQ0NzFkRjdXLWxaTXRQQXZn",
    "source": "TradingView",
    "published_at": "2026-10-05T14:58:29+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TradingView",
+     "published_at": "2026-10-05T14:58:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSUhoeENKRjNodW4yNXZ3Vno1X2pWenotNmMxelMwTFVoSVI4NFV5UzRDOWhSZ05rWHBWSFoyOXBUXy1Mb0EtVklTcWdCd0NfYlhZaDFGeVN5bVZ2U2UxcEZhTmV1YTJ6b1pJSmNOckh2bFhncXlSMTdnTFR0WUVfQzJpZUZpVWtJNGFjZENUNHhXUnRJRElBeDBOZjJqWjhtY1o2UUlYbGFfa0Z6clRPTWFVeTBRaldkNmQ0NzFkRjdXLWxaTXRQQXZn"
+    },
+    {
+     "name": "tradingview.com",
      "published_at": "2026-10-05T14:58:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSUhoeENKRjNodW4yNXZ3Vno1X2pWenotNmMxelMwTFVoSVI4NFV5UzRDOWhSZ05rWHBWSFoyOXBUXy1Mb0EtVklTcWdCd0NfYlhZaDFGeVN5bVZ2U2UxcEZhTmV1YTJ6b1pJSmNOckh2bFhncXlSMTdnTFR0WUVfQzJpZUZpVWtJNGFjZENUNHhXUnRJRElBeDBOZjJqWjhtY1o2UUlYbGFfa0Z6clRPTWFVeTBRaldkNmQ0NzFkRjdXLWxaTXRQQXZn"
     }
@@ -2662,31 +2711,6 @@
    "sentiment": 0
   },
   {
-   "id": "fb847a025587",
-   "title": "徐直军：华为昇腾中国份额已超英伟达！（全文） - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbnN5OXM0V3FRUWx5MTJKaVBkdE8yZjNQVzg2cXlfaVppbzJHNFNrU0s1R3R0YUVrTnVEdDBkRUwyUkx3VFVLUHRHYk9NLS1wdFl0NF96Zy1wRTVmQzMwejhNZFMtNmFscUczRTdxSEVQU0NHZWRtSWctWEh6MEZSTko3UDRCbkVTM0ZHQ1VrTkVEaG5DbVhpTGt5ejdYNFI5SzI4TFpoQnBaWDRPN2NieTdpM3ZKOUZ0MXBRN2htZnUtQXJJSkgyaUwyRlUwSjJB",
-   "source": "新浪财经",
-   "published_at": "2026-10-05T11:24:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-05T11:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbnN5OXM0V3FRUWx5MTJKaVBkdE8yZjNQVzg2cXlfaVppbzJHNFNrU0s1R3R0YUVrTnVEdDBkRUwyUkx3VFVLUHRHYk9NLS1wdFl0NF96Zy1wRTVmQzMwejhNZFMtNmFscUczRTdxSEVQU0NHZWRtSWctWEh6MEZSTko3UDRCbkVTM0ZHQ1VrTkVEaG5DbVhpTGt5ejdYNFI5SzI4TFpoQnBaWDRPN2NieTdpM3ZKOUZ0MXBRN2htZnUtQXJJSkgyaUwyRlUwSjJB"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-05T11:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVJuektHcGlrSkNpbzFMWHF3ZlFlNjJRcmFfWHpzNzZFVmp4dW5oclNxNzF0aFFlbnVJME92T2ZhMFE5b19QVFNlZG1CXzRsc1lyZjFFRE9CMFNVd2lKUUFlRDBTT0hNbVFKOG1nUjZ6QTV0alFHUHQzdTRmcnY2ZjhIczJvc3pWSkRWTG1DX3EzSjhXWXo2LVJ2bWVKd0d4Yk9RUjlacWhjc0wzUXlkODNFclBXSkRQaU5ldERleVFBNlJZRE10TDl1UHBEd0Q5"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "徐直军称华为昇腾中国份额已超英伟达",
-   "title_zh": "徐直军：华为昇腾中国份额已超英伟达！（全文） - 新浪财经",
-   "sentiment": -1
-  },
-  {
    "id": "55f8bdcb8ebf",
    "title": "Amazon Wants to Sell Its Nvidia Chips and Rent Them Back. Here’s Why - TIKR.com",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjZVR3VGSGJVYkNOWm0zWnVFNDhaNl9rM3pyMHRqU21LRHQzYXZhQjVNUjdXZGVmbnNEVndRRk1Fdjc4WS1CZkNISy1yZXpYYmpVdnJfbGZIVnNxb3YycExLdkRrLUkyZEtuNldZdFB5bVA2WGJRYXhNQ0FGSlFpZ1RMVy03UXdiZ0VFRUl1SjNXcl9teEtJ",
@@ -4030,7 +4054,7 @@
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSmlwNFBDNnJTdGtaNnFfNTFfZU93a1J2eUFVT3JYUzBRdHN6MTBTeUFLUXpRTjFxREpoekhPckJJckJNS2VhUUNEZ0x2Y09xS2FndlRob25xUE1YVjYtZjJBSE8ycEdtS0RlT19FZzhpVGRwRkNYSjZxZGFQRy1wTTJEVHlIOGRnTlFhblZEYlhSX29KR1ZNZ0VaRmlQMTdEbWpGa1FEVnV3WWFUTGV3RFNMb3N2OFd4Mm1tZGZQZUJaWmNyLXk0X3Z3LTVYVzZSU1QzT0g1cmtmYXUtdWNreHNlZlNhNVBIdU54dzdB",
    "source": "Stocktwits",
    "published_at": "2026-10-05T04:06:13+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Stocktwits",
@@ -4046,6 +4070,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-05T16:59:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0pVbTMtNDRBTDdpVVhHOVBFTWNvZm42bEdZS2g5dnRJdEc2Ti1DWDc2ZmJya2xnVHduZkZwd1EycF9QUnBIenJhVjktdmJ5TjJzWV9hdnVFTzFTbWJxZ25Td0VfaHF1Rl90djJ0TENiUnNnYTFmcXJPSU1KOUp4U3F5cUR3c1Z4VGVvWUdyRURWZnc"
+    },
+    {
+     "name": "tradingview.com",
+     "published_at": "2026-10-05T16:59:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOOTlSSHplWUhwT25CTmNhLTlNZlcxWkJfdHFCS1A1czBUZzgyRHY5QTd0RHRma0k1ZzdJdnJkaTBRMmRmSWtmaF9nZzZqZ0QzMmVSN0F3bGh4VEFsdy1jMXZUbTJldzdyZGlWQ0swTklIR0prUE5RUmUtdDRpWkExc2l0clFtbnRHYkdNbjR6UERFMzF3X2F3NUtBX3NuaXJ2dWxZTnBva3VSWjg0ZFFmUzZKcEFxTjZVYU54d3BkR2Z4UW5nWVVBTHBDcWsyOG94cGlpVmpBRWtmdWJxWjBJem5qLTdodzgxa2R6LVJVNUdIUEVvY1h5S2k0Y0FhM3A2RDlYWl9JWTB0NXFxd2tQWEpMR2E5VGZodGZTdWNsQXlIdw"
     }
    ],
    "category": "市场宏观",
@@ -4543,10 +4572,15 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLW05SEc4dW5NZzFQaWg2TzZIUW5LY1N4aTJYaGZBYjBkN0pxaUpqYjQzUm9RR0ItYnVFMzViUDJIcDE2eUZjRE1OVDRMYmJmSldCRW9fTDNHckdkdWxPVHI1aXhPRnFmNFZSZ1d1ZzZ5MXRPa3JRQTJvdl9WVzg1WThvVFZ1TE5scDhhd3VtTVIxMk9ub3NIQWlkSQ",
    "source": "Moomoo",
    "published_at": "2026-10-04T22:43:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Moomoo",
+     "published_at": "2026-10-04T22:43:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLW05SEc4dW5NZzFQaWg2TzZIUW5LY1N4aTJYaGZBYjBkN0pxaUpqYjQzUm9RR0ItYnVFMzViUDJIcDE2eUZjRE1OVDRMYmJmSldCRW9fTDNHckdkdWxPVHI1aXhPRnFmNFZSZ1d1ZzZ5MXRPa3JRQTJvdl9WVzg1WThvVFZ1TE5scDhhd3VtTVIxMk9ub3NIQWlkSQ"
+    },
+    {
+     "name": "moomoo.com",
      "published_at": "2026-10-04T22:43:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLW05SEc4dW5NZzFQaWg2TzZIUW5LY1N4aTJYaGZBYjBkN0pxaUpqYjQzUm9RR0ItYnVFMzViUDJIcDE2eUZjRE1OVDRMYmJmSldCRW9fTDNHckdkdWxPVHI1aXhPRnFmNFZSZ1d1ZzZ5MXRPa3JRQTJvdl9WVzg1WThvVFZ1TE5scDhhd3VtTVIxMk9ub3NIQWlkSQ"
     }
@@ -7407,6 +7441,36 @@
    "sentiment": -1
   },
   {
+   "id": "8fba409a9acc",
+   "title": "徐直军：华为昇腾中国份额已超英伟达！ - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wZU84d29DLVk4STRfVmlIVzA1dzY5MDl3bXBGb0RuSi1zX1JwLXNPdUZlb1I2QWJpV1Mtazc3WTJoZDFpanp3QVVpX3Rram85Umo0",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-03T13:06:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-03T13:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wZU84d29DLVk4STRfVmlIVzA1dzY5MDl3bXBGb0RuSi1zX1JwLXNPdUZlb1I2QWJpV1Mtazc3WTJoZDFpanp3QVVpX3Rram85Umo0"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-05T11:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbnN5OXM0V3FRUWx5MTJKaVBkdE8yZjNQVzg2cXlfaVppbzJHNFNrU0s1R3R0YUVrTnVEdDBkRUwyUkx3VFVLUHRHYk9NLS1wdFl0NF96Zy1wRTVmQzMwejhNZFMtNmFscUczRTdxSEVQU0NHZWRtSWctWEh6MEZSTko3UDRCbkVTM0ZHQ1VrTkVEaG5DbVhpTGt5ejdYNFI5SzI4TFpoQnBaWDRPN2NieTdpM3ZKOUZ0MXBRN2htZnUtQXJJSkgyaUwyRlUwSjJB"
+    },
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-05T11:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVVJuektHcGlrSkNpbzFMWHF3ZlFlNjJRcmFfWHpzNzZFVmp4dW5oclNxNzF0aFFlbnVJME92T2ZhMFE5b19QVFNlZG1CXzRsc1lyZjFFRE9CMFNVd2lKUUFlRDBTT0hNbVFKOG1nUjZ6QTV0alFHUHQzdTRmcnY2ZjhIczJvc3pWSkRWTG1DX3EzSjhXWXo2LVJ2bWVKd0d4Yk9RUjlacWhjc0wzUXlkODNFclBXSkRQaU5ldERleVFBNlJZRE10TDl1UHBEd0Q5"
+    }
+   ],
+   "category": "政策监管",
+   "session": "周末",
+   "zh_summary": "徐直军称华为昇腾中国份额已超英伟达",
+   "title_zh": "徐直军：华为昇腾中国份额已超英伟达！（全文） - 新浪财经",
+   "sentiment": -1
+  },
+  {
    "id": "753d2f171c8a",
    "title": "NVIDIA (NASDAQ:NVDA) Screens as a Decent Value Stock - ChartMill",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzNKRnBjd2QwWm9RSXdBdWZzdTdURTdaR3N4UENzeEd2MzljRUFNME5qdUtHaDVoSTFfQ21CREtDRmpUYndycF9IMGxDaXhZdDVJZUtQWUpOVmFyTUtEM0t5dkdZMzNleFVTdk1oUHlyWUtVZ2tjMVgxOVdIVlczRzZyMWtzY0ZkODNGS0ZKT1JZZmFFNVhLdnZSYWJPYVVlelRR",
@@ -8055,56 +8119,6 @@
    "zh_summary": "Danica Pension 增持 NVDA 股票",
    "title_zh": "Danica Pension 增持 NVDA 股票",
    "sentiment": 1
-  },
-  {
-   "id": "7406fe65e0fa",
-   "title": "Avaii Wealth Management LLC Acquires 36,295 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONW9raTlPNmpRYllPMXpqakE3NlFBOXBuWDdEb1BfTlo1Tl9MWUVnSWMxSVBGUzQyWm5RU0FWS0g2Ull4RGV4UmtvcTBBd3RjZERTWGQyUGkzN2ROdmtsbFdBUl9iTFVJc0VEeHNPZV94dkc1SGFfdVYyRjNaOTkzWHh1Q0lkOHFEOGRzNWsxMGtOSTExNzZySHV3clVmajlJeGt3NzAzZThINUNJWTlMaEtCdTNSMTV6SnJic09GSll2WTAyRk9SVVA5VzhtQlY1X3Ew",
-   "source": "MarketBeat",
-   "published_at": "2026-10-03T07:08:22+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-03T07:08:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONW9raTlPNmpRYllPMXpqakE3NlFBOXBuWDdEb1BfTlo1Tl9MWUVnSWMxSVBGUzQyWm5RU0FWS0g2Ull4RGV4UmtvcTBBd3RjZERTWGQyUGkzN2ROdmtsbFdBUl9iTFVJc0VEeHNPZV94dkc1SGFfdVYyRjNaOTkzWHh1Q0lkOHFEOGRzNWsxMGtOSTExNzZySHV3clVmajlJeGt3NzAzZThINUNJWTlMaEtCdTNSMTV6SnJic09GSll2WTAyRk9SVVA5VzhtQlY1X3Ew"
-    },
-    {
-     "name": "marketbeat.com",
-     "published_at": "2026-10-04T07:14:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWtPdHZ5eUxQM0NFenFieGgwTWx6NmtrQXhMcEp4ZjdmWE95SWJTbGc4ZmFEM3BQZnRpd09VdWFzeE1mSDBHN2R5dVlYWC1WT3B0YnZmc1hjaU54dFppWGd3dWpZdnNxd3l0U1o0UjdfNm5nZFY0ZlNRVVNrdXFqMGNuWHdvWldMUnZzS05pYU16U29YcmFOU2NXeTYyS2pKTjRzdUlQYlVLc2dtaWpoNVBiUXZjMnJuUGVTT295ZG1jUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Avaii财富管理增持36295股英伟达",
-   "title_zh": "Avaii财富管理公司增持36295股英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "77f0b347b539",
-   "title": "NVIDIA Corporation $NVDA Stock Sold by Addison Advisors LLC - marketbeat.com",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFkwWVg2VVJqa0ltcDV6bm1wZnhDb1NlNGMtVTV0b0JId0kwRFFLVGN5ZDVnNlFvanlFejlMRGplbzFzZHFuMVZrLVc1dnhNSHJEMHZJRTFmYjV5M1F3Q09jeGg3TDRZTXhXSDRxMkFpRkstbGYxRDh5TURXUmhSM0JLWG5CX3dOMGZyVGsyUGZXQUk3MGNmNERvSnVXZ3ZQclVJd1ZPWVBmWUdLMFBvenlQSVBHOUR6N3Vv",
-   "source": "marketbeat.com",
-   "published_at": "2026-10-03T07:08:22+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "marketbeat.com",
-     "published_at": "2026-10-03T07:08:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFkwWVg2VVJqa0ltcDV6bm1wZnhDb1NlNGMtVTV0b0JId0kwRFFLVGN5ZDVnNlFvanlFejlMRGplbzFzZHFuMVZrLVc1dnhNSHJEMHZJRTFmYjV5M1F3Q09jeGg3TDRZTXhXSDRxMkFpRkstbGYxRDh5TURXUmhSM0JLWG5CX3dOMGZyVGsyUGZXQUk3MGNmNERvSnVXZ3ZQclVJd1ZPWVBmWUdLMFBvenlQSVBHOUR6N3Vv"
-    },
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-03T07:12:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUGhqNlRhNXdTRWlCWWl4OEc5UTV5cWlHT0pfRmhkQzYxUzdLMXFvS0toTmZwMWJkaWMtMVBQZjhScERxWi0tNGw1Nl9GUGxOWkh5eldKalVlSk1qRFQyVGNWNDl4NlZFOXlfbmQxM29GSllkeXVDcWdIeUFwTFozRHJRRm0yb0h5b1ZlNjlsdEd5MHFELUJnRGsybVhSbEw0a2FFYmtjVVNJb1UzTjRRSFotVlZKcnQ0UE53eVIwY1ZUZ292WWNCbnp3"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Great Lakes减持39656股NVDA",
-   "title_zh": "Great Lakes Advisors出售39656股英伟达股票",
-   "sentiment": -1
   }
  ]
 }
