@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T12:21:57.482207+00:00",
+ "updated_at": "2026-10-05T12:36:32.557324+00:00",
  "market": {
   "price": 233.95,
   "change_pct": 1.34,
@@ -10,8 +10,8 @@
    "days_left": 43
   },
   "day_sentiment": {
-   "avg": 0.46,
-   "count": 50
+   "avg": 0.45,
+   "count": 53
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.46（50条已评分）"
+     "note": "今日新闻情绪 +0.45（53条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 35.7,
    "ma20": 223.79,
-   "as_of": "2026-10-05T12:21:57.472089+00:00"
+   "as_of": "2026-10-05T12:36:32.540433+00:00"
   },
   "pe_ttm": 29.7,
   "pe_pct_5y": 28,
@@ -62,17 +62,73 @@
  },
  "stories": [
   {
+   "id": "98930e76fdd1",
+   "title": "NVIDIA Head of Sustainability: how to accelerate America’s nuclear energy renaissance - Fortune",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSTdZVlFIS3lMeGUtZGx5QlBZakRZemRFRlZtTUZLd0FvbXZGWHJES2VKVXVSdXBaNmh1NV9aVFBWc01MbkpHRkdES3p0ZzVCUGpNS2pUbk1ZWlZsSUxwUVlGT3VtT2JEODVFN2w4dHJMS19SZkkwY2kzdmxBZw",
+   "source": "Fortune",
+   "published_at": "2026-10-05T12:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Fortune",
+     "published_at": "2026-10-05T12:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSTdZVlFIS3lMeGUtZGx5QlBZakRZemRFRlZtTUZLd0FvbXZGWHJES2VKVXVSdXBaNmh1NV9aVFBWc01MbkpHRkdES3p0ZzVCUGpNS2pUbk1ZWlZsSUxwUVlGT3VtT2JEODVFN2w4dHJMS19SZkkwY2kzdmxBZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "6485f7f29da3",
+   "title": "NVDA, AAPL Stocks In Focus After Foxconn Revenue Hits Record High On AI Pull-In - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEtGN1loQTVkV0hHSXFlb1ROLUFCUW9UejdlUTZzY0dUWDJWYlcydlNtSERiX3dHaE4wdFNnQkRLUUt4R2VkaEZkXzFXZGpDb05POEhwbXFseTI0U1l0bVFlcjZNblcwTW1saTVVaUhxODZsOW43dW1QbkdnbkVoMHRfSHhuZGhNb0FUMzlNTFJmY2IzUDhrdFNGVzcyZkpWNmU3UjlIaktEdGFRd1JRcmNjMjBjQ2UwYWRnTU9WUlBETEJ6RkJqdjB1UFJDajV5TnhhWg",
+   "source": "Stocktwits",
+   "published_at": "2026-10-05T12:23:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-05T12:23:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEtGN1loQTVkV0hHSXFlb1ROLUFCUW9UejdlUTZzY0dUWDJWYlcydlNtSERiX3dHaE4wdFNnQkRLUUt4R2VkaEZkXzFXZGpDb05POEhwbXFseTI0U1l0bVFlcjZNblcwTW1saTVVaUhxODZsOW43dW1QbkdnbkVoMHRfSHhuZGhNb0FUMzlNTFJmY2IzUDhrdFNGVzcyZkpWNmU3UjlIaktEdGFRd1JRcmNjMjBjQ2UwYWRnTU9WUlBETEJ6RkJqdjB1UFJDajV5TnhhWg"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
+  {
+   "id": "00b9146417ac",
+   "title": "Nvidia Gets Another AI Demand Signal As Foxconn Sales Hit Record High – Apple Faces Holiday Test - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcXpra3RCQ0RkVDE1ODM4OGpBY2JKZEk5WDdoQVlSeXZWeF9uNThZY29KdFFoTFBRcjNzU05yVmRrZ1dWOG1zaWRFNmN3TTduaXh4d21sX1Axa2R0Z2tfbkF0U0hDeEpTMkk3enl3OGo5Xy0zMU5rU1ptY2pnamFjYWN2TnJpTTYwQXIxR0pMWnA1cDI3QmFEN2dJcmVfYlhqamJtRnJnWnBNYWJnNUFyeXpZTU5pRnpRVkZzYl82M05PUVpCekszc09TTHRERWw4YmRCMDZuY0RKNEw1d3VRSmZSY1prUFVNYjZv",
+   "source": "TradingView",
+   "published_at": "2026-10-05T12:18:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-05T12:18:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcXpra3RCQ0RkVDE1ODM4OGpBY2JKZEk5WDdoQVlSeXZWeF9uNThZY29KdFFoTFBRcjNzU05yVmRrZ1dWOG1zaWRFNmN3TTduaXh4d21sX1Axa2R0Z2tfbkF0U0hDeEpTMkk3enl3OGo5Xy0zMU5rU1ptY2pnamFjYWN2TnJpTTYwQXIxR0pMWnA1cDI3QmFEN2dJcmVfYlhqamJtRnJnWnBNYWJnNUFyeXpZTU5pRnpRVkZzYl82M05PUVpCekszc09TTHRERWw4YmRCMDZuY0RKNEw1d3VRSmZSY1prUFVNYjZv"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
    "id": "3732e59fab5d",
    "title": "Cantor Fitzgerald reiterates Nvidia stock rating on growth outlook By Investing.com - Investing.com Canada",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3FTTV9HbUk1dTNIM2UySDhoTVpZM0VhWE42bUNkXzJBc2dBTGsyaUh4ektMRFVhSlBHYnFWWVpTT0RJbzdXdmtIM3JRN3d2eVNETV9KMWh6SG43YmxSWlpHcEN2TVVpeGttU2YtMVk3cE56d3JEWWRYdUhyeGZjc3hWaV9sMWd3cUxaY2lSM0lnaTVEQXpZdUQ3SzN6M251NmxDSGRsd3pPeVNXZGMzMHRwcWJMd2h5Y0NCMzBScjE2ZXRlbVE",
    "source": "Investing.com Canada",
    "published_at": "2026-10-05T12:14:48+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Investing.com Canada",
      "published_at": "2026-10-05T12:14:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3FTTV9HbUk1dTNIM2UySDhoTVpZM0VhWE42bUNkXzJBc2dBTGsyaUh4ektMRFVhSlBHYnFWWVpTT0RJbzdXdmtIM3JRN3d2eVNETV9KMWh6SG43YmxSWlpHcEN2TVVpeGttU2YtMVk3cE56d3JEWWRYdUhyeGZjc3hWaV9sMWd3cUxaY2lSM0lnaTVEQXpZdUQ3SzN6M251NmxDSGRsd3pPeVNXZGMzMHRwcWJMd2h5Y0NCMzBScjE2ZXRlbVE"
+    },
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-05T12:24:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUFTOVQxTkoyaThoWnR0YS1WMHFqSlpnS2NmV0FULU44YXVBUWtxczJPOTFXN0VIeUtCcHFubjZFVmVRSzVfRWZ1RjBRdTZ6ZWJCRUhpLTVLQ0QxckczakxGdXdfZ2k3VVkzTy03Sk9STERaRkVlVUJydWN5eElRQ0ZvbHJKZWx6REpEMWx4cDZ5VllpSjc2Z0pjdTFhanFjc2NfaGRsNUg1RU1wN0l1WEpOTTdJMi0zY2M1Qm03NHhvZG5i"
     }
    ],
    "category": "分析师",
@@ -238,12 +294,17 @@
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekthM3FLWDlScTZUbi0xUDdDdlFxVmoxMlpUT1pEZWsyLUxNbkVpWjg5ZkVTNGdwYUc0NEFLSUFnYmh4YnNLTG5fZ3g1aWZSeDhqQ0RzLVFudDRJckRoVHRhOTJBVlJkMnRlOFNNTi16UmNrLVlSUVRsaUJaeXFxQ1pGa0JpNm9ISnZrZmdpNW1ua0JoTGFKb1kwb2NNcGNnVGhIYkFDd1BEQTg",
    "source": "GuruFocus",
    "published_at": "2026-10-05T11:33:48+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "GuruFocus",
      "published_at": "2026-10-05T11:33:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekthM3FLWDlScTZUbi0xUDdDdlFxVmoxMlpUT1pEZWsyLUxNbkVpWjg5ZkVTNGdwYUc0NEFLSUFnYmh4YnNLTG5fZ3g1aWZSeDhqQ0RzLVFudDRJckRoVHRhOTJBVlJkMnRlOFNNTi16UmNrLVlSUVRsaUJaeXFxQ1pGa0JpNm9ISnZrZmdpNW1ua0JoTGFKb1kwb2NNcGNnVGhIYkFDd1BEQTg"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-05T12:18:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYnNQQjB6bkczdkp4N2h0WWlVbFEtdHNZc2RGVVRiUS04c2JvQmN4WU01SW1KTHowYkUtY0ZHbmRCUnJ1OUNsV09PQmNXZTRJeWd5ZWY0d0VjTDBNZC1UUkpwSlJIQTZiUFJvYUtYOUhKYmRVeE1TU29PdE5kcFo2TE9fSmRaR3Z3Q2w2SHlXQ015d2ExQnBPcUtRb08zNkFxMGFYVTRXejhHTFg4X09hMEs4S0E0dmZrWDYwcVh1YkJTcHR5U1NJdA"
     }
    ],
    "category": "其他",
@@ -258,12 +319,17 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPXzA2ZExiRXMtSDZucVpUN1lndlNlQ1NYdE5BYnE3eno3ZU4zamMtNjFTRzM5NXBVelo4cm1RZk9sV0RWMHk4M1RtdWRyTHNRdWdTLTVxeEpPRmc2ZkFoZDhoOEpFNXB2SEJjbTJrc0VVWXNMdnlsWFNQZVZadjU2MEZqTGJDWFBSWmJLbUgteHVZNUJT",
    "source": "GuruFocus",
    "published_at": "2026-10-05T11:33:48+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "GuruFocus",
      "published_at": "2026-10-05T11:33:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPXzA2ZExiRXMtSDZucVpUN1lndlNlQ1NYdE5BYnE3eno3ZU4zamMtNjFTRzM5NXBVelo4cm1RZk9sV0RWMHk4M1RtdWRyTHNRdWdTLTVxeEpPRmc2ZkFoZDhoOEpFNXB2SEJjbTJrc0VVWXNMdnlsWFNQZVZadjU2MEZqTGJDWFBSWmJLbUgteHVZNUJT"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-05T12:19:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3RCQUtKRGZsUFIwM1lWLU1SMjVtdWZYb3J4c0hPOXBqZW41a3BsRDdJbFFHeHpaWDdoeVVsX2ZiMzRxamhseVIwVGhCdEVjMjZhY0QzamtaNS10T1F6V2dZRlA3SVBjdFpfTGtLNFZnY1kxSWNTQUl4QzVxUHE5MU9zRFJKVEh6a0ZNZmlhSjdHZ3dqNHc2U0FzOU8zOWplVUVlQlg5c3pONnRmM2lTZQ"
     }
    ],
    "category": "其他",
@@ -5030,7 +5096,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RZ3JXUG9ZcmJIbWExdHV2NUhHNjFpV2VDM0h1c0ZEaGppRlAtRGhDU2xmNWJiQTNLNnpVa190bkR4OE1BOEV6M0hGc0RFbHA4UHNlSElUdjc",
    "source": "驱动之家",
    "published_at": "2026-10-03T07:58:00+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "驱动之家",
@@ -5056,6 +5122,11 @@
      "name": "news.mydrivers.com",
      "published_at": "2026-10-03T07:58:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RZ3JXUG9ZcmJIbWExdHV2NUhHNjFpV2VDM0h1c0ZEaGppRlAtRGhDU2xmNWJiQTNLNnpVa190bkR4OE1BOEV6M0hGc0RFbHA4UHNlSElUdjc"
+    },
+    {
+     "name": "3DM",
+     "published_at": "2026-10-03T23:02:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94Q2ZmWk83c2h5bW9uRGRvaWxxb2pwMV8xQWdONkFNWGZGWGplTkVZYW9UN0QxeENHXzBVRzg1VnFOOWc1VHNraEZpRzV3YzZXYU5YYjN1VUViTHF4"
     }
    ],
    "category": "产品技术",
@@ -5865,7 +5936,7 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTTBxUFhTbG01SXRGVkZweEhRQ0NFQjgyU3J5ZWpmLVIwTk83Nk9uakhkYnl6ZjFjdUstWDdTdEdQU3VQZHZtTzU3bnl2UVhSUm1fLXozXzFtU3VsMEpKbG1qdEdfTmt6b0N2WHhBWmFKbzgtZjVwR2VrcjFqdmtzZUhPYnFtamdiMTQtQlA0NA",
    "source": "21财经",
    "published_at": "2026-10-03T01:37:00+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "21财经",
@@ -5886,6 +5957,11 @@
      "name": "21jingji.com",
      "published_at": "2026-10-03T01:37:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTTBxUFhTbG01SXRGVkZweEhRQ0NFQjgyU3J5ZWpmLVIwTk83Nk9uakhkYnl6ZjFjdUstWDdTdEdQU3VQZHZtTzU3bnl2UVhSUm1fLXozXzFtU3VsMEpKbG1qdEdfTmt6b0N2WHhBWmFKbzgtZjVwR2VrcjFqdmtzZUhPYnFtamdiMTQtQlA0NA"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-03T08:06:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFZvdi1fcmhkUGd5akxxVDU0dEUxSjFxc0YwUnhNOTNOQWl5akZNUWtUTVYtaFZNM1BSV1lLaFVyUXl0SzJfb2YzLTl0d3VWcmpwVE4wUVdZeEVERDhaQ0xVMEt3U2U3X1R0SG54UEJmQ2RSTTkwTHpoMDFOS2NIckc1b0VubGt3c25DRUh5QndmUmJlU1QtVzdWMHJfZUZIVno3UGpJSQ"
     }
    ],
    "category": "其他",
@@ -7800,114 +7876,6 @@
    "zh_summary": "英伟达发布64GB桌面AI系统",
    "title_zh": "英伟达发布DGX Spark 64GB桌面AI系统",
    "sentiment": 1
-  },
-  {
-   "id": "729bf1d02ad5",
-   "title": "Man Charged by US With Illegally Shipping Nvidia Chips to China - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaG1Cb2o1VlRFTXR6eE14TFgtMVEwbXM5OEJLekFLSXBOUVh2dGwwa3dQc0RhR0d1VjZLb3Y4UVZQb1AwRnpJcV9XNDZkYUs2T0hSQWR0V3JVYVBDTUczNEFOTHhGRjdSazBqVVBCeEhTT1Fncmo3a3l5Q0MwSnlRZTVJcnRTTDY2VjUzNERxeVVmcElpVFhpQTZXWE5ENS1EdFIxV0kwTTVNTE5JUUkwSmJnTUk",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-02T17:10:30+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-02T17:10:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaG1Cb2o1VlRFTXR6eE14TFgtMVEwbXM5OEJLekFLSXBOUVh2dGwwa3dQc0RhR0d1VjZLb3Y4UVZQb1AwRnpJcV9XNDZkYUs2T0hSQWR0V3JVYVBDTUczNEFOTHhGRjdSazBqVVBCeEhTT1Fncmo3a3l5Q0MwSnlRZTVJcnRTTDY2VjUzNERxeVVmcElpVFhpQTZXWE5ENS1EdFIxV0kwTTVNTE5JUUkwSmJnTUk"
-    },
-    {
-     "name": "bloomberg.com",
-     "published_at": "2026-10-02T17:10:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaG1Cb2o1VlRFTXR6eE14TFgtMVEwbXM5OEJLekFLSXBOUVh2dGwwa3dQc0RhR0d1VjZLb3Y4UVZQb1AwRnpJcV9XNDZkYUs2T0hSQWR0V3JVYVBDTUczNEFOTHhGRjdSazBqVVBCeEhTT1Fncmo3a3l5Q0MwSnlRZTVJcnRTTDY2VjUzNERxeVVmcElpVFhpQTZXWE5ENS1EdFIxV0kwTTVNTE5JUUkwSmJnTUk"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "男子涉非法向中国运输英伟达芯片被指控",
-   "title_zh": "美国指控一男子向中国非法运输英伟达芯片",
-   "sentiment": -1
-  },
-  {
-   "id": "76cc89b8a975",
-   "title": "Nvidia Shares Jump to Record High After Strong AI Growth - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWxOTWU2c09XWWZwbEotYjRoeGpaQjRTTGNVczY1UjQwMlhMM3dlOXNCTWhPM1NmWFZlOTg4TE1LdWF0RDdUN2g4UjJGQjZVcWUwZnpMNTBETnJfcGpVR20waEpqeC1xZHRmc3prTEFyRXFjRWlDQkdPUkMzSDJqZ3ZpQ0lMNkFCOUpPQVNOVE1aRTdKSFJ2S3lTYw",
-   "source": "GuruFocus",
-   "published_at": "2026-10-02T17:01:55+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-02T17:01:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWxOTWU2c09XWWZwbEotYjRoeGpaQjRTTGNVczY1UjQwMlhMM3dlOXNCTWhPM1NmWFZlOTg4TE1LdWF0RDdUN2g4UjJGQjZVcWUwZnpMNTBETnJfcGpVR20waEpqeC1xZHRmc3prTEFyRXFjRWlDQkdPUkMzSDJqZ3ZpQ0lMNkFCOUpPQVNOVE1aRTdKSFJ2S3lTYw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-02T17:41:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUtKZHVyOXRHdTJBc1RqUzdXdTh0dlhXNEZfNlBldHVsQV9GdFc5bDRSSXhCZ01yX2w0aERxSkc0SDNoX0ZoMkZudGE1ZEhWNUx2UWdWWThDSEJDY0g5OTlyZjdWQzVRYW44R0g5Q1ItTElJQ1BWRnR4bDh2a2x0RlRDVVpRYmJZS1ZrZGdPVFI3aTJEOGNtTy1Hbw"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-02T17:41:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT2JyakRRREpQbUllTmc1MUlWbGFMU2dQZEk4c3lpXzVVM2dTMUVyamRRN0tVQzN0X3pNOUhuRlRKMFZlUkdpVUNmYVg2SEY3VERuNXlvOE5TRWd1MW9GeXVBM0ZYNU5rN3JrSjFGX1AzVnNMak50Z3VyQks0c2FwSEczWjIwRDlfal9OU3d0dGlDUGxMcjVWS3RYZTBrQ3BSQkNDbURJZE1pV2pMektDRmRpY1VZWTg"
-    },
-    {
-     "name": "tradingview.com",
-     "published_at": "2026-10-02T17:41:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT2JyakRRREpQbUllTmc1MUlWbGFMU2dQZEk4c3lpXzVVM2dTMUVyamRRN0tVQzN0X3pNOUhuRlRKMFZlUkdpVUNmYVg2SEY3VERuNXlvOE5TRWd1MW9GeXVBM0ZYNU5rN3JrSjFGX1AzVnNMak50Z3VyQks0c2FwSEczWjIwRDlfal9OU3d0dGlDUGxMcjVWS3RYZTBrQ3BSQkNDbURJZE1pV2pMektDRmRpY1VZWTg"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-02T17:41:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUtKZHVyOXRHdTJBc1RqUzdXdTh0dlhXNEZfNlBldHVsQV9GdFc5bDRSSXhCZ01yX2w0aERxSkc0SDNoX0ZoMkZudGE1ZEhWNUx2UWdWWThDSEJDY0g5OTlyZjdWQzVRYW44R0g5Q1ItTElJQ1BWRnR4bDh2a2x0RlRDVVpRYmJZS1ZrZGdPVFI3aTJEOGNtTy1Hbw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "AI增长强劲，英伟达股价创历史新高",
-   "title_zh": "AI增长强劲推动英伟达股价创历史新高",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.08,
-    "window_h": 1.5
-   }
-  },
-  {
-   "id": "be683540e211",
-   "title": "Weak Jobs Report Lifts Nvidia, Nasdaq 100 to Record Highs: Stock Market Today - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVlJzOHA5dmVfVS1jQ2dQRmpvUnY4eVI1ZkNqYk1sZUFVUlduZF9xMmo5aE9UUmVGZ3FpU05GUW01UW5PNkdqWVFncTRkX09FUUl0clBZMHlKb2J0R2VzSnB5NW55dGllVDJSMmJYaDBHTTFFMERTMkt5dVlXdDh5ZDZ6SDA0NWdHTXZyaWVCcDJQWUZFRDI3Vlhobjh2a2wtZ3RtM0psOC1aYmo2U0dsbTNWZC16Z0ZsTFF4cUFZQXlIQVo0cWZfbllOajN4WjVKTUR1MWZETXd2Zw",
-   "source": "Benzinga",
-   "published_at": "2026-10-02T16:52:39+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-02T16:52:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVlJzOHA5dmVfVS1jQ2dQRmpvUnY4eVI1ZkNqYk1sZUFVUlduZF9xMmo5aE9UUmVGZ3FpU05GUW01UW5PNkdqWVFncTRkX09FUUl0clBZMHlKb2J0R2VzSnB5NW55dGllVDJSMmJYaDBHTTFFMERTMkt5dVlXdDh5ZDZ6SDA0NWdHTXZyaWVCcDJQWUZFRDI3Vlhobjh2a2wtZ3RtM0psOC1aYmo2U0dsbTNWZC16Z0ZsTFF4cUFZQXlIQVo0cWZfbllOajN4WjVKTUR1MWZETXd2Zw"
-    },
-    {
-     "name": "benzinga.com",
-     "published_at": "2026-10-02T16:52:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVlJzOHA5dmVfVS1jQ2dQRmpvUnY4eVI1ZkNqYk1sZUFVUlduZF9xMmo5aE9UUmVGZ3FpU05GUW01UW5PNkdqWVFncTRkX09FUUl0clBZMHlKb2J0R2VzSnB5NW55dGllVDJSMmJYaDBHTTFFMERTMkt5dVlXdDh5ZDZ6SDA0NWdHTXZyaWVCcDJQWUZFRDI3Vlhobjh2a2wtZ3RtM0psOC1aYmo2U0dsbTNWZC16Z0ZsTFF4cUFZQXlIQVo0cWZfbllOajN4WjVKTUR1MWZETXd2Zw"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-02T16:52:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObjcwNjV3cTJzd0VtWXNtVld1MGpBQXdKa0hLS1VlMDFmRXZua2RMTDdvSnFlY0oxMFBlTVdaN1B0eGcyTGw5dFRvVXJPS05kUHowVkxjLWstY1hvbmh0ODVCZGJCQW1hMTRYcnZuZVhIUWN6bFUtaEo5S2NpNUpRSHl5VWl2ekRfQ3FaTVgwNno0OVVpVzcwSXN4ZW14ckFKV0d5cUs0UXZMM2ZmX3RaZzdyWHhkcTBYRVlvNG4tX1VnLWI5QjFmN0VLLTVibFE"
-    },
-    {
-     "name": "tradingview.com",
-     "published_at": "2026-10-02T16:52:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObjcwNjV3cTJzd0VtWXNtVld1MGpBQXdKa0hLS1VlMDFmRXZua2RMTDdvSnFlY0oxMFBlTVdaN1B0eGcyTGw5dFRvVXJPS05kUHowVkxjLWstY1hvbmh0ODVCZGJCQW1hMTRYcnZuZVhIUWN6bFUtaEo5S2NpNUpRSHl5VWl2ekRfQ3FaTVgwNno0OVVpVzcwSXN4ZW14ckFKV0d5cUs0UXZMM2ZmX3RaZzdyWHhkcTBYRVlvNG4tX1VnLWI5QjFmN0VLLTVibFE"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "就业数据疲软，英伟达和纳指100创历史新高",
-   "title_zh": "就业报告疲软，英伟达与纳指100创历史新高",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.29,
-    "window_h": 2.0
-   }
   }
  ]
 }
