@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-05T17:06:42.942879+00:00",
+ "updated_at": "2026-10-05T17:21:46.823058+00:00",
  "market": {
-  "price": 237.23,
-  "change_pct": 1.4,
+  "price": 237.05,
+  "change_pct": 1.33,
   "as_of": "2026-10-05",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 43
   },
   "day_sentiment": {
-   "avg": 0.42,
-   "count": 120
+   "avg": 0.41,
+   "count": 124
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +33.8%"
+     "note": "目标价中位数 $318（14家），隐含空间 +33.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.42（120条已评分）"
+     "note": "今日新闻情绪 +0.41（124条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $237.23 vs 20日均线 $224.13"
+     "note": "现价 $237.05 vs 20日均线 $224.12"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 100,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 33.8,
-   "ma20": 224.13,
-   "as_of": "2026-10-05T17:06:42.923084+00:00"
+   "implied_upside_pct": 33.9,
+   "ma20": 224.12,
+   "as_of": "2026-10-05T17:21:46.799359+00:00"
   },
-  "pe_ttm": 30.2,
+  "pe_ttm": 30.1,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+33.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+33.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,24 +62,38 @@
  },
  "stories": [
   {
-   "id": "27b10b5c48e5",
-   "title": "Nvidia Is 'Tip Of The Spear' For AI Trade, Says Dan Niles — Warns 'At A Certain Point Either The Bond Market's Wrong Or Stock Market Is Wrong' - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSmlwNFBDNnJTdGtaNnFfNTFfZU93a1J2eUFVT3JYUzBRdHN6MTBTeUFLUXpRTjFxREpoekhPckJJckJNS2VhUUNEZ0x2Y09xS2FndlRob25xUE1YVjYtZjJBSE8ycEdtS0RlT19FZzhpVGRwRkNYSjZxZGFQRy1wTTJEVHlIOGRnTlFhblZEYlhSX29KR1ZNZ0VaRmlQMTdEbWpGa1FEVnV3WWFUTGV3RFNMb3N2OFd4Mm1tZGZQZUJaWmNyLXk0X3Z3LTVYVzZSU1QzT0g1cmtmYXUtdWNreHNlZlNhNVBIdU54dzdB",
-   "source": "Stocktwits",
-   "published_at": "2026-10-05T16:59:00+00:00",
+   "id": "234a6204ca90",
+   "title": "Ex-Groq engineers sue board over $20B Nvidia asset deal - qz.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RMUh3czhoNHdOa0VkRWxHOVNvR1haUDIzSm9yUjhiZHBydmEtUDNYTXI5SnpER3Y5RldaejlydnYtSmQwQUpqNWpfX0V4T3ROMzdRTlZnbXpTVmFZQ0trTVZvb3pvS3QwY3J2bVVFUkpuWWZsQkxR",
+   "source": "qz.com",
+   "published_at": "2026-10-05T17:16:10+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "Stocktwits",
-     "published_at": "2026-10-05T16:59:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSmlwNFBDNnJTdGtaNnFfNTFfZU93a1J2eUFVT3JYUzBRdHN6MTBTeUFLUXpRTjFxREpoekhPckJJckJNS2VhUUNEZ0x2Y09xS2FndlRob25xUE1YVjYtZjJBSE8ycEdtS0RlT19FZzhpVGRwRkNYSjZxZGFQRy1wTTJEVHlIOGRnTlFhblZEYlhSX29KR1ZNZ0VaRmlQMTdEbWpGa1FEVnV3WWFUTGV3RFNMb3N2OFd4Mm1tZGZQZUJaWmNyLXk0X3Z3LTVYVzZSU1QzT0g1cmtmYXUtdWNreHNlZlNhNVBIdU54dzdB"
+     "name": "qz.com",
+     "published_at": "2026-10-05T17:16:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RMUh3czhoNHdOa0VkRWxHOVNvR1haUDIzSm9yUjhiZHBydmEtUDNYTXI5SnpER3Y5RldaejlydnYtSmQwQUpqNWpfX0V4T3ROMzdRTlZnbXpTVmFZQ0trTVZvb3pvS3QwY3J2bVVFUkpuWWZsQkxR"
     }
    ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "丹·奈尔斯：英伟达是AI交易龙头",
-   "title_zh": "丹·奈尔斯称英伟达是AI交易排头兵，警告债市或股市必有一错",
-   "sentiment": 0
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "9d5353d4b4ae",
+   "title": "Reactor Adds NVIDIA and Sapphire Ventures to Series A Funding Round - citybiz",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdnR5RXlXa0w3ZGkzck5JZEVsaEVyTkVVV09wZl8wYlM4bFhCNS0yUDZZMlBHaXVpVkhYdU9HQm4wQjJqbUJjZktDSWEzYWhBamJXQ3ZEZjJtVTh3ZFpuX2VkWk9PT2ZiQk5BYWRZUllid0NDaXpPa2RaWll5eXRMTXQ4bU9iVjJuV2ZqOTNTbTUtOUdrZkd2YWRWWjNpbmV4ZGJSNG9oVzRyUQ",
+   "source": "citybiz",
+   "published_at": "2026-10-05T17:05:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "citybiz",
+     "published_at": "2026-10-05T17:05:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdnR5RXlXa0w3ZGkzck5JZEVsaEVyTkVVV09wZl8wYlM4bFhCNS0yUDZZMlBHaXVpVkhYdU9HQm4wQjJqbUJjZktDSWEzYWhBamJXQ3ZEZjJtVTh3ZFpuX2VkWk9PT2ZiQk5BYWRZUllid0NDaXpPa2RaWll5eXRMTXQ4bU9iVjJuV2ZqOTNTbTUtOUdrZkd2YWRWWjNpbmV4ZGJSNG9oVzRyUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "72af1053e121",
@@ -107,10 +121,15 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnpXd081S0pKZVZIQnBNRjZGZ2FmakJVa0FJMEtSQWdzYWNQbnAwVUpJQmJYbUdaNlFUa3N5QW05V2s3TWpnYld2a0VINEhGRnNONy16aWtkZGdEQk45a05ka25xRXVOTFUyZVM4XzY3My1xUlZVTmJGM3dsLXhlemZqN3dxaWdReWUwQ1VVLTdubWRWUmJtLTFueXBDR0twRGNQZTlqQ0xSRGVvVHZxYkJrYTRmY28",
    "source": "siliconangle.com",
    "published_at": "2026-10-05T16:46:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "siliconangle.com",
+     "published_at": "2026-10-05T16:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnpXd081S0pKZVZIQnBNRjZGZ2FmakJVa0FJMEtSQWdzYWNQbnAwVUpJQmJYbUdaNlFUa3N5QW05V2s3TWpnYld2a0VINEhGRnNONy16aWtkZGdEQk45a05ka25xRXVOTFUyZVM4XzY3My1xUlZVTmJGM3dsLXhlemZqN3dxaWdReWUwQ1VVLTdubWRWUmJtLTFueXBDR0twRGNQZTlqQ0xSRGVvVHZxYkJrYTRmY28"
+    },
+    {
+     "name": "SiliconANGLE",
      "published_at": "2026-10-05T16:46:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnpXd081S0pKZVZIQnBNRjZGZ2FmakJVa0FJMEtSQWdzYWNQbnAwVUpJQmJYbUdaNlFUa3N5QW05V2s3TWpnYld2a0VINEhGRnNONy16aWtkZGdEQk45a05ka25xRXVOTFUyZVM4XzY3My1xUlZVTmJGM3dsLXhlemZqN3dxaWdReWUwQ1VVLTdubWRWUmJtLTFueXBDR0twRGNQZTlqQ0xSRGVvVHZxYkJrYTRmY28"
     }
@@ -127,7 +146,7 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOG9DejQ0NGM3cng4S0MtOURCd0dHMHNNRGZUUlVFM2taSDlUTW03T0xlZG5hQXZiekhNZFBqWVpfNWRRMGVlRkFuV29wbWdFbGlfSnIzY0d0Vkp6NFc2aU5hbG5LNzBITXNxdkFpZkMxbVQ0eTVlZXpJeEhtcFgzbEk2S2NZOU5iYmFKZFJsN2FCM0l4Rm1WeQ",
    "source": "The Motley Fool",
    "published_at": "2026-10-05T16:33:59+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -146,6 +165,11 @@
     },
     {
      "name": "theglobeandmail.com",
+     "published_at": "2026-10-05T16:56:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQLXNKcHJiWmNPalowOG9OaFRjVm0wakNkSGRJdld2U28za2NQLTJ1dUxrNHVZZ0RVdWIySWU1WnNtVnE4aktLQ3p0ckdsdzRWcG5kVTJPVVducVNJWnlOWFdYMUR4UTFUSjZEVkVEQUpvdDZhR281bm5mR0k5Ry1qdEk0ZUhwd09mV2gwQmRSUjZPRVlheC0xLTVlZm12dVQzaF9vLU5nd3k2S0xkS3U0Y0pBSEJ0QjBoS0pHTzIwU0NOaGlqVVBrTG8tMEdWVDRqTktWcHRCZENUSlpqVW14MFRCczJQb3FWQ0t5ZGhFdTYxMWJ0Yk9WM25YSjJPdTRLWjB6Ng"
+    },
+    {
+     "name": "The Globe and Mail",
      "published_at": "2026-10-05T16:56:24+00:00",
      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQLXNKcHJiWmNPalowOG9OaFRjVm0wakNkSGRJdld2U28za2NQLTJ1dUxrNHVZZ0RVdWIySWU1WnNtVnE4aktLQ3p0ckdsdzRWcG5kVTJPVVducVNJWnlOWFdYMUR4UTFUSjZEVkVEQUpvdDZhR281bm5mR0k5Ry1qdEk0ZUhwd09mV2gwQmRSUjZPRVlheC0xLTVlZm12dVQzaF9vLU5nd3k2S0xkS3U0Y0pBSEJ0QjBoS0pHTzIwU0NOaGlqVVBrTG8tMEdWVDRqTktWcHRCZENUSlpqVW14MFRCczJQb3FWQ0t5ZGhFdTYxMWJ0Yk9WM25YSjJPdTRLWjB6Ng"
     }
@@ -167,10 +191,15 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXRseUxkMmlpNm1rVTJmMl9KTklXeVVEVVVuYzlQUkxsaGl0d1QxRU15Z1hXMHRQNkdOazJfM2JzdzZyVEoyLXZwZ2syOWZ6Y2drUmZvTjd0bFhmb01vSDVYRHgwaXMtOHFzVkQ5bDNiVEJXanlQMUozRG9TUFI5cnZsTXhyMzBHYVVTT2Jlaw",
    "source": "techrepublic.com",
    "published_at": "2026-10-05T16:27:56+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "techrepublic.com",
+     "published_at": "2026-10-05T16:27:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXRseUxkMmlpNm1rVTJmMl9KTklXeVVEVVVuYzlQUkxsaGl0d1QxRU15Z1hXMHRQNkdOazJfM2JzdzZyVEoyLXZwZ2syOWZ6Y2drUmZvTjd0bFhmb01vSDVYRHgwaXMtOHFzVkQ5bDNiVEJXanlQMUozRG9TUFI5cnZsTXhyMzBHYVVTT2Jlaw"
+    },
+    {
+     "name": "TechRepublic",
      "published_at": "2026-10-05T16:27:56+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWXRseUxkMmlpNm1rVTJmMl9KTklXeVVEVVVuYzlQUkxsaGl0d1QxRU15Z1hXMHRQNkdOazJfM2JzdzZyVEoyLXZwZ2syOWZ6Y2drUmZvTjd0bFhmb01vSDVYRHgwaXMtOHFzVkQ5bDNiVEJXanlQMUozRG9TUFI5cnZsTXhyMzBHYVVTT2Jlaw"
     }
@@ -272,7 +301,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGRkRGpBbkN5d0t0Y05Qcnh4bS1VcU05STdoVE92X1dlWmxwd2xsdk5oNXRwMkQwemNMd0FaY2dTRzlMTzdTRHhibVE1VW9VdDA5dW1CbGRuajhfTnpDaWlpdjNhdjNSX0NCNnEwMTJQRjZFSzl1YnFITHp6OXNlVWUxQ1RyM0cx",
    "source": "搜狐网",
    "published_at": "2026-10-05T16:08:34+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
@@ -283,13 +312,22 @@
      "name": "sohu.com",
      "published_at": "2026-10-05T16:08:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGRkRGpBbkN5d0t0Y05Qcnh4bS1VcU05STdoVE92X1dlWmxwd2xsdk5oNXRwMkQwemNMd0FaY2dTRzlMTzdTRHhibVE1VW9VdDA5dW1CbGRuajhfTnpDaWlpdjNhdjNSX0NCNnEwMTJQRjZFSzl1YnFITHp6OXNlVWUxQ1RyM0cx"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-05T16:09:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZZkcwejhkb3dhaXJVZ3dRTlgyNGpILWRPak82SS0wSHJld2g5SFRyLWctT2FUY1B6Y2Q0OUNiUUtDYnpmS2thcmc1eEg"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达涨超1%逼近历史新高",
    "title_zh": "纳指盘中再创历史新高：SpaceX涨逾5%，英伟达涨超1%再度逼近历史新高 - 搜狐网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.11,
+    "window_h": 1.2
+   }
   },
   {
    "id": "79fec659aef6",
@@ -3437,6 +3475,31 @@
    "sentiment": 1
   },
   {
+   "id": "27b10b5c48e5",
+   "title": "Nvidia Is 'Tip Of The Spear' For AI Trade, Says Dan Niles — Warns 'At A Certain Point Either The Bond Market's Wrong Or Stock Market Is Wrong' - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSmlwNFBDNnJTdGtaNnFfNTFfZU93a1J2eUFVT3JYUzBRdHN6MTBTeUFLUXpRTjFxREpoekhPckJJckJNS2VhUUNEZ0x2Y09xS2FndlRob25xUE1YVjYtZjJBSE8ycEdtS0RlT19FZzhpVGRwRkNYSjZxZGFQRy1wTTJEVHlIOGRnTlFhblZEYlhSX29KR1ZNZ0VaRmlQMTdEbWpGa1FEVnV3WWFUTGV3RFNMb3N2OFd4Mm1tZGZQZUJaWmNyLXk0X3Z3LTVYVzZSU1QzT0g1cmtmYXUtdWNreHNlZlNhNVBIdU54dzdB",
+   "source": "Stocktwits",
+   "published_at": "2026-10-05T04:06:13+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-05T04:06:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSmlwNFBDNnJTdGtaNnFfNTFfZU93a1J2eUFVT3JYUzBRdHN6MTBTeUFLUXpRTjFxREpoekhPckJJckJNS2VhUUNEZ0x2Y09xS2FndlRob25xUE1YVjYtZjJBSE8ycEdtS0RlT19FZzhpVGRwRkNYSjZxZGFQRy1wTTJEVHlIOGRnTlFhblZEYlhSX29KR1ZNZ0VaRmlQMTdEbWpGa1FEVnV3WWFUTGV3RFNMb3N2OFd4Mm1tZGZQZUJaWmNyLXk0X3Z3LTVYVzZSU1QzT0g1cmtmYXUtdWNreHNlZlNhNVBIdU54dzdB"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-05T16:59:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOOTlSSHplWUhwT25CTmNhLTlNZlcxWkJfdHFCS1A1czBUZzgyRHY5QTd0RHRma0k1ZzdJdnJkaTBRMmRmSWtmaF9nZzZqZ0QzMmVSN0F3bGh4VEFsdy1jMXZUbTJldzdyZGlWQ0swTklIR0prUE5RUmUtdDRpWkExc2l0clFtbnRHYkdNbjR6UERFMzF3X2F3NUtBX3NuaXJ2dWxZTnBva3VSWjg0ZFFmUzZKcEFxTjZVYU54d3BkR2Z4UW5nWVVBTHBDcWsyOG94cGlpVmpBRWtmdWJxWjBJem5qLTdodzgxa2R6LVJVNUdIUEVvY1h5S2k0Y0FhM3A2RDlYWl9JWTB0NXFxd2tQWEpMR2E5VGZodGZTdWNsQXlIdw"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "周末",
+   "zh_summary": "丹·奈尔斯：英伟达是AI交易龙头",
+   "title_zh": "丹·奈尔斯称英伟达是AI交易排头兵，警告债市或股市必有一错",
+   "sentiment": 0
+  },
+  {
    "id": "798f5f35e40e",
    "title": "据报Nvidia(NVDA.US)支持的Reflection将推出开放权重AI模型 - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ndUhrTGJPdU8wSU5PNUpBQ191a1NjR2JNckVYMUprbVNNZEtrMTVsazZiWnNSS1VLcHhTeU9GMGs5Y0ZDcFJPVDhhckFIZk1GMkJCUjBoU194RW5M",
@@ -4664,7 +4727,7 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDcyQ1IxQ1RBUDlEejF2TkZtd2pKRHBTX0lvSjRFZ2JlazI1NG1KQlI5a0E1Ml9raEVJeW0xZVNhaXZ6QmR4VnpTbGFhNDJOWktsUUh3ejVkS2dBbzUxQ2hnTXdHaXhhRXpZSEtqVkdOUGs1ZXRNUVlhWEptV083STVFN05uRHotWkhBMkJUbE1QX2RrQ0NSZS02c1VJS2xTamtUVk1SS2MxMTVSMXc",
    "source": "Construction Owners",
    "published_at": "2026-10-04T12:58:33+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Construction Owners",
@@ -4675,13 +4738,22 @@
      "name": "constructionowners.com",
      "published_at": "2026-10-04T12:58:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDcyQ1IxQ1RBUDlEejF2TkZtd2pKRHBTX0lvSjRFZ2JlazI1NG1KQlI5a0E1Ml9raEVJeW0xZVNhaXZ6QmR4VnpTbGFhNDJOWktsUUh3ejVkS2dBbzUxQ2hnTXdHaXhhRXpZSEtqVkdOUGs1ZXRNUVlhWEptV083STVFN05uRHotWkhBMkJUbE1QX2RrQ0NSZS02c1VJS2xTamtUVk1SS2MxMTVSMXc"
+    },
+    {
+     "name": "Engineering.com",
+     "published_at": "2026-10-05T15:59:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFY5aDhJOGxzaHE4c0k4WkdMQ2dheHlWak12cl92cmFpbEt1dFJaSXZTRGxlWmplUXZZUm5pSUdXYkFCajVOb1ZhSi1TMC0tRURicWZkekM4Yk5PcGduZjBBWG1pLUtSUFN6b1NHOWlHZGhQZGRMRW5MN3psYkhHNFdoRnk2TWM"
     }
    ],
    "category": "其他",
    "session": "周末",
    "zh_summary": "Jacobs将在英伟达AI研究设施部署数字孪生平台",
    "title_zh": "Jacobs将在英伟达AI研究设施部署数字孪生平台",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.35,
+    "window_h": 2.0
+   }
   },
   {
    "id": "82b09a61ee7a",
@@ -7306,6 +7378,23 @@
    "sentiment": 1
   },
   {
+   "id": "5f25930154f0",
+   "title": "39,656 NVIDIA Corporation $NVDA Shares Sold by Great Lakes Advisors LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUGhqNlRhNXdTRWlCWWl4OEc5UTV5cWlHT0pfRmhkQzYxUzdLMXFvS0toTmZwMWJkaWMtMVBQZjhScERxWi0tNGw1Nl9GUGxOWkh5eldKalVlSk1qRFQyVGNWNDl4NlZFOXlfbmQxM29GSllkeXVDcWdIeUFwTFozRHJRRm0yb0h5b1ZlNjlsdEd5MHFELUJnRGsybVhSbEw0a2FFYmtjVVNJb1UzTjRRSFotVlZKcnQ0UE53eVIwY1ZUZ292WWNCbnp3",
+   "source": "MarketBeat",
+   "published_at": "2026-10-03T07:12:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-03T07:12:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUGhqNlRhNXdTRWlCWWl4OEc5UTV5cWlHT0pfRmhkQzYxUzdLMXFvS0toTmZwMWJkaWMtMVBQZjhScERxWi0tNGw1Nl9GUGxOWkh5eldKalVlSk1qRFQyVGNWNDl4NlZFOXlfbmQxM29GSllkeXVDcWdIeUFwTFozRHJRRm0yb0h5b1ZlNjlsdEd5MHFELUJnRGsybVhSbEw0a2FFYmtjVVNJb1UzTjRRSFotVlZKcnQ0UE53eVIwY1ZUZ292WWNCbnp3"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "5f0f3a10d06d",
    "title": "NVIDIA Corporation $NVDA Stock Purchased by Flossbach Von Storch SE - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUloSjNXUGlDTXF5NTBoZGdsQVpwYktpYW5yZjBMQnotOEdPclZISDUtOHViY3E2a19QMGwzWXJkSFZIbFRJT1NZRTY4dVVuay13bXZPbGpnMG5weG9LaXdIdUdoRnJaUWdQX1VCLXNDd0FURjNtbjE4ZU1zOXQ5dnpvc08yQ19fMTRDNEptTlBLZTZEREE2U3kweW4wdzM5VGc5Y0REN3dpU0xkWjhDSEdkQWp3Wlk3ODl5R3M5cThGd2xzOUE",
@@ -7404,31 +7493,6 @@
    "zh_summary": "Avaii财富管理增持36295股英伟达",
    "title_zh": "Avaii财富管理公司增持36295股英伟达股票",
    "sentiment": 1
-  },
-  {
-   "id": "77f0b347b539",
-   "title": "NVIDIA Corporation $NVDA Stock Sold by Addison Advisors LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFkwWVg2VVJqa0ltcDV6bm1wZnhDb1NlNGMtVTV0b0JId0kwRFFLVGN5ZDVnNlFvanlFejlMRGplbzFzZHFuMVZrLVc1dnhNSHJEMHZJRTFmYjV5M1F3Q09jeGg3TDRZTXhXSDRxMkFpRkstbGYxRDh5TURXUmhSM0JLWG5CX3dOMGZyVGsyUGZXQUk3MGNmNERvSnVXZ3ZQclVJd1ZPWVBmWUdLMFBvenlQSVBHOUR6N3Vv",
-   "source": "MarketBeat",
-   "published_at": "2026-10-03T07:08:22+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-03T07:08:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFkwWVg2VVJqa0ltcDV6bm1wZnhDb1NlNGMtVTV0b0JId0kwRFFLVGN5ZDVnNlFvanlFejlMRGplbzFzZHFuMVZrLVc1dnhNSHJEMHZJRTFmYjV5M1F3Q09jeGg3TDRZTXhXSDRxMkFpRkstbGYxRDh5TURXUmhSM0JLWG5CX3dOMGZyVGsyUGZXQUk3MGNmNERvSnVXZ3ZQclVJd1ZPWVBmWUdLMFBvenlQSVBHOUR6N3Vv"
-    },
-    {
-     "name": "marketbeat.com",
-     "published_at": "2026-10-03T07:12:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUGhqNlRhNXdTRWlCWWl4OEc5UTV5cWlHT0pfRmhkQzYxUzdLMXFvS0toTmZwMWJkaWMtMVBQZjhScERxWi0tNGw1Nl9GUGxOWkh5eldKalVlSk1qRFQyVGNWNDl4NlZFOXlfbmQxM29GSllkeXVDcWdIeUFwTFozRHJRRm0yb0h5b1ZlNjlsdEd5MHFELUJnRGsybVhSbEw0a2FFYmtjVVNJb1UzTjRRSFotVlZKcnQ0UE53eVIwY1ZUZ292WWNCbnp3"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "机构减持39656股英伟达",
-   "title_zh": "Great Lakes Advisors减持英伟达39656股",
-   "sentiment": -1
   },
   {
    "id": "b8f9737a86b5",
@@ -7998,51 +8062,6 @@
    "session": "盘后",
    "zh_summary": "Shield TV Pro涨价100美元",
    "title_zh": "英伟达Shield TV Pro涨价100美元，7年前老产品售价升至299.99美元 - 凤凰网",
-   "sentiment": 0
-  },
-  {
-   "id": "7f98660f598c",
-   "title": "卖掉印钞机英伟达，借最贵的钱保OpenAI份额：软银孙正义这一次还能赢吗 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tU3VYXzJudS1DaW9rTFBRd2JDTzFXR21pVTBEU3pqcjQ5T1BVQ1FmMzY0ZTN5V2ZVOVNMNHZnOURsbTRBZnhCb1Rsa28",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-03T01:52:04+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-03T01:52:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tU3VYXzJudS1DaW9rTFBRd2JDTzFXR21pVTBEU3pqcjQ5T1BVQ1FmMzY0ZTN5V2ZVOVNMNHZnOURsbTRBZnhCb1Rsa28"
-    },
-    {
-     "name": "tech.ifeng.com",
-     "published_at": "2026-10-03T03:22:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tU3VYXzJudS1DaW9rTFBRd2JDTzFXR21pVTBEU3pqcjQ5T1BVQ1FmMzY0ZTN5V2ZVOVNMNHZnOURsbTRBZnhCb1Rsa28"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "软银减持英伟达以投资OpenAI",
-   "title_zh": "卖掉印钞机英伟达，借最贵的钱保OpenAI份额：软银孙正义这一次还能赢吗 - 凤凰网科技",
-   "sentiment": -1
-  },
-  {
-   "id": "b745b010fc0a",
-   "title": "美股讯号 | 英伟达以318.30亿美元成交额领跑美股市场 ｜#美股资讯# #英伟达# #市场事件# - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY1JTNFhWSlBnYUhhQ2lrcE9Da2E1blVBZmZFcEZsMnJGRUVzdmg4Ym5jTTNmcGFuZ0ZlMlVCTF9FWWxBazZLVVpZQlRoV0c0NUpSVVoyS1hlaVd3ZDlTN2VBSDNvU0cxT1RDVUJhOWxXekoyQ0RPTGRjT2pOd1hiQkRSRmI0Y0gzMTNNUg",
-   "source": "搜狐网",
-   "published_at": "2026-10-03T01:51:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-03T01:51:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY1JTNFhWSlBnYUhhQ2lrcE9Da2E1blVBZmZFcEZsMnJGRUVzdmg4Ym5jTTNmcGFuZ0ZlMlVCTF9FWWxBazZLVVpZQlRoV0c0NUpSVVoyS1hlaVd3ZDlTN2VBSDNvU0cxT1RDVUJhOWxXekoyQ0RPTGRjT2pOd1hiQkRSRmI0Y0gzMTNNUg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达成交额318.30亿美元居首",
-   "title_zh": "美股讯号 | 英伟达以318.30亿美元成交额领跑美股市场 ｜#美股资讯# #英伟达# #市场事件# - 搜狐网",
    "sentiment": 0
   }
  ]
