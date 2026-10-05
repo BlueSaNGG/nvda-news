@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05T21:21:33.170421+00:00",
+ "updated_at": "2026-10-05T21:36:28.645669+00:00",
  "market": {
   "price": 238.9,
   "change_pct": 2.12,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.44,
-   "count": 163
+   "count": 165
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（163条已评分）"
+     "note": "今日新闻情绪 +0.44（165条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.9,
    "ma20": 224.21,
-   "as_of": "2026-10-05T21:21:33.161293+00:00"
+   "as_of": "2026-10-05T21:36:28.631439+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "8165769d58a7",
+   "title": "NVIDIA (NASDAQ:NVDA) Stock Jumps 2.1% - Here's What Happened - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWlHOVJOamZ6cUQ5b1RNQUtpdk80SU1vaHFZVlU3WUM4cDJ2LWRrU1VKaHdESi1NamRfbmJIclZPdndxLVNBUGJaWGN4SVR0ZUlTTVRfOHlpZGdXaVRPNjhkQmtKcEVXa29XeFpSaHgtdEs1SUNYcnRWa3lMWGtrTWVtZEtxU2JseEdLYUlvQV9jVDhlU0J2bTZXbFppcFR4czdvNXYyQVpEeURKMjZlVTU4TQ",
+   "source": "MarketBeat",
+   "published_at": "2026-10-05T21:24:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-05T21:24:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcWlHOVJOamZ6cUQ5b1RNQUtpdk80SU1vaHFZVlU3WUM4cDJ2LWRrU1VKaHdESi1NamRfbmJIclZPdndxLVNBUGJaWGN4SVR0ZUlTTVRfOHlpZGdXaVRPNjhkQmtKcEVXa29XeFpSaHgtdEs1SUNYcnRWa3lMWGtrTWVtZEtxU2JseEdLYUlvQV9jVDhlU0J2bTZXbFppcFR4czdvNXYyQVpEeURKMjZlVTU4TQ"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘后"
+  },
   {
    "id": "16a1755a9869",
    "title": "Groq Shareholders Challenge Nvidia's $20B Reverse Acqui-Hire - Law.com",
@@ -365,7 +382,7 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1BvX0FBT0xBVGJmZGtmMjhGQVlkWXBoYzdvZEF3d3BXaklYQkFaQW0zZHBqTHJaVFhJTzRqSS1zYTdIcERqVFRjOUtIZFZHRXRRclg4c0VScG5NQ3JYX1lyTkstTlFzOVlOd0p4MDhZV1diTV9DQjZUZEtxLXdxelZ0U2FlOHZvUE0xTHBUSXVaLUxiQTVMcUFobHdUczdQMmVaTE9MeGM5MUhDUW5lclpkMA",
    "source": "Bloomberg.com",
    "published_at": "2026-10-05T19:00:00+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "Bloomberg.com",
@@ -389,6 +406,11 @@
     },
     {
      "name": "TradingView",
+     "published_at": "2026-10-05T20:47:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcTFmbFpzLWE4M3dTbFNmMW1OYTJ1S0JxcUFWNVptamNNWVdXQ0VwY2taZHZ0NE5tdWRHX05VQ2xaaENKWkJ5LW5JaVdxV2lpWFpRRkFneGxYNjhta1BFRGJCVURMMm9HbW9wUms2T2hNMTl5YWJDOTc4WU5iMElGMWp2NmpkM0ZfVjB2dGZLMTVpV1lXUE9uVDc3ZEQ1dURITVc3VDNTeV9kQWh1ZkRDSjREdkdKM1hhR1MxSWUxOUFKc0NGWTZfYlFVY25VZ1Axc0NBM2tMRTFQdUVqdWUxVEhB"
+    },
+    {
+     "name": "tradingview.com",
      "published_at": "2026-10-05T20:47:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcTFmbFpzLWE4M3dTbFNmMW1OYTJ1S0JxcUFWNVptamNNWVdXQ0VwY2taZHZ0NE5tdWRHX05VQ2xaaENKWkJ5LW5JaVdxV2lpWFpRRkFneGxYNjhta1BFRGJCVURMMm9HbW9wUms2T2hNMTl5YWJDOTc4WU5iMElGMWp2NmpkM0ZfVjB2dGZLMTVpV1lXUE9uVDc3ZEQ1dURITVc3VDNTeV9kQWh1ZkRDSjREdkdKM1hhR1MxSWUxOUFKc0NGWTZfYlFVY25VZ1Axc0NBM2tMRTFQdUVqdWUxVEhB"
     }
@@ -673,11 +695,16 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUVpzLVYtOWdGa2JyOHd5WWVLaGRfcHcxSzgxLWgxb2RBWS1FR3d2QTRka1JobkJVbXVxemhvOHk2bmZxSWdEZWZxcVpKSm1vQnZ5czJzYUtLUVE2OW5VVmFMREUtdm5DLVBYYzdLYzhScEpDYWdyZTZ2a1hlREM3ZVVHNFVrUlBfcmYzOEdZRzVLdHc2bzV3MjhrWXM2UWduUTFLYkF3S2dGd2dCaUNzYVQzeXNJRDdFazU5SFhJOTFPMkxwcEVIZVR3Ymo0dw",
    "source": "CoinDesk",
    "published_at": "2026-10-05T17:18:14+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "CoinDesk",
      "published_at": "2026-10-05T17:18:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUVpzLVYtOWdGa2JyOHd5WWVLaGRfcHcxSzgxLWgxb2RBWS1FR3d2QTRka1JobkJVbXVxemhvOHk2bmZxSWdEZWZxcVpKSm1vQnZ5czJzYUtLUVE2OW5VVmFMREUtdm5DLVBYYzdLYzhScEpDYWdyZTZ2a1hlREM3ZVVHNFVrUlBfcmYzOEdZRzVLdHc2bzV3MjhrWXM2UWduUTFLYkF3S2dGd2dCaUNzYVQzeXNJRDdFazU5SFhJOTFPMkxwcEVIZVR3Ymo0dw"
+    },
+    {
+     "name": "coindesk.com",
+     "published_at": "2026-10-05T17:49:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUVpzLVYtOWdGa2JyOHd5WWVLaGRfcHcxSzgxLWgxb2RBWS1FR3d2QTRka1JobkJVbXVxemhvOHk2bmZxSWdEZWZxcVpKSm1vQnZ5czJzYUtLUVE2OW5VVmFMREUtdm5DLVBYYzdLYzhScEpDYWdyZTZ2a1hlREM3ZVVHNFVrUlBfcmYzOEdZRzVLdHc2bzV3MjhrWXM2UWduUTFLYkF3S2dGd2dCaUNzYVQzeXNJRDdFazU5SFhJOTFPMkxwcEVIZVR3Ymo0dw"
     }
    ],
@@ -758,7 +785,7 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdnR5RXlXa0w3ZGkzck5JZEVsaEVyTkVVV09wZl8wYlM4bFhCNS0yUDZZMlBHaXVpVkhYdU9HQm4wQjJqbUJjZktDSWEzYWhBamJXQ3ZEZjJtVTh3ZFpuX2VkWk9PT2ZiQk5BYWRZUllid0NDaXpPa2RaWll5eXRMTXQ4bU9iVjJuV2ZqOTNTbTUtOUdrZkd2YWRWWjNpbmV4ZGJSNG9oVzRyUQ",
    "source": "citybiz",
    "published_at": "2026-10-05T17:05:57+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "citybiz",
@@ -769,13 +796,22 @@
      "name": "Pulse 2.0",
      "published_at": "2026-10-05T19:57:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVFh1SDdKUTdXMHpOQlVIbjg2aTAyYTRxUW1iWUJPWGd1UkI1X05pZ0wwS25hOVFnX2Nmb2l1aG04cmt5SU96MnQwTGVvN3lvaWNhNlRCa3R3U0ViUVJuSm1NbllGc0ZyUGdHUWZCYWRHQ1dsdUxmSXhHbmlodlpTTEtndDN2UdIBiwFBVV95cUxPZDlnRU0tQ3p5SV9qdF91Y3FGc0JBTGIzR0tRZnZVbUpxcU80SFZ1bF9zUmx4MUxqNnJ6Z1ZvUkp6LWZNM1JKaDNrc1NCT2FFNldmLWY5WjhGYUlEcEtqUy1VclNWUkFVajVTLWNJaGEwY3ZvSjI4WkVXd1M5d0YyT04xM3BvMFdnY0Rj"
+    },
+    {
+     "name": "pulse2.com",
+     "published_at": "2026-10-05T19:57:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVFh1SDdKUTdXMHpOQlVIbjg2aTAyYTRxUW1iWUJPWGd1UkI1X05pZ0wwS25hOVFnX2Nmb2l1aG04cmt5SU96MnQwTGVvN3lvaWNhNlRCa3R3U0ViUVJuSm1NbllGc0ZyUGdHUWZCYWRHQ1dsdUxmSXhHbmlodlpTTEtndDN2UdIBiwFBVV95cUxPZDlnRU0tQ3p5SV9qdF91Y3FGc0JBTGIzR0tRZnZVbUpxcU80SFZ1bF9zUmx4MUxqNnJ6Z1ZvUkp6LWZNM1JKaDNrc1NCT2FFNldmLWY5WjhGYUlEcEtqUy1VclNWUkFVajVTLWNJaGEwY3ZvSjI4WkVXd1M5d0YyT04xM3BvMFdnY0Rj"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达参与Reactor的A轮融资",
    "title_zh": "Reactor的A轮融资新增英伟达和Sapphire Ventures",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 1.02,
+    "window_h": 2.0
+   }
   },
   {
    "id": "72af1053e121",
@@ -1381,6 +1417,23 @@
    "zh_summary": "法巴上调英伟达与英特尔目标价",
    "title_zh": "法巴基于AI需求前景上调英伟达、英特尔目标价",
    "sentiment": 1
+  },
+  {
+   "id": "5f42430c1f6c",
+   "title": "Your NVIDIA RTX GPU Is Getting Microsoft's Shader Stutter Fix This Month - HotHardware",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFFDdlpuV0dsclppSTN3WFpxME1MTDBTdUtZdGEySHBUQTlhaXY3RXpKWW1zU3NvRXRGa0o0WnVCemhHSndkWXVtbS1UN0NnU1BWWUdzV2hZVTZEUXVsSVFhakd0aXhYQkZDTWpyQ3NDcjlmQXdocnl6cmlHYW1nX0pCNUZnNXJOLUM4TVgxWjYybnZfRWlJM0JiTjBEVlZmOUE",
+   "source": "HotHardware",
+   "published_at": "2026-10-05T15:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "HotHardware",
+     "published_at": "2026-10-05T15:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFFDdlpuV0dsclppSTN3WFpxME1MTDBTdUtZdGEySHBUQTlhaXY3RXpKWW1zU3NvRXRGa0o0WnVCemhHSndkWXVtbS1UN0NnU1BWWUdzV2hZVTZEUXVsSVFhakd0aXhYQkZDTWpyQ3NDcjlmQXdocnl6cmlHYW1nX0pCNUZnNXJOLUM4TVgxWjYybnZfRWlJM0JiTjBEVlZmOUE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "f34f6ca4bdfe",
@@ -5827,7 +5880,7 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDcyQ1IxQ1RBUDlEejF2TkZtd2pKRHBTX0lvSjRFZ2JlazI1NG1KQlI5a0E1Ml9raEVJeW0xZVNhaXZ6QmR4VnpTbGFhNDJOWktsUUh3ejVkS2dBbzUxQ2hnTXdHaXhhRXpZSEtqVkdOUGs1ZXRNUVlhWEptV083STVFN05uRHotWkhBMkJUbE1QX2RrQ0NSZS02c1VJS2xTamtUVk1SS2MxMTVSMXc",
    "source": "Construction Owners",
    "published_at": "2026-10-04T12:58:33+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Construction Owners",
@@ -5841,6 +5894,11 @@
     },
     {
      "name": "Engineering.com",
+     "published_at": "2026-10-05T15:59:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFY5aDhJOGxzaHE4c0k4WkdMQ2dheHlWak12cl92cmFpbEt1dFJaSXZTRGxlWmplUXZZUm5pSUdXYkFCajVOb1ZhSi1TMC0tRURicWZkekM4Yk5PcGduZjBBWG1pLUtSUFN6b1NHOWlHZGhQZGRMRW5MN3psYkhHNFdoRnk2TWM"
+    },
+    {
+     "name": "engineering.com",
      "published_at": "2026-10-05T15:59:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFY5aDhJOGxzaHE4c0k4WkdMQ2dheHlWak12cl92cmFpbEt1dFJaSXZTRGxlWmplUXZZUm5pSUdXYkFCajVOb1ZhSi1TMC0tRURicWZkekM4Yk5PcGduZjBBWG1pLUtSUFN6b1NHOWlHZGhQZGRMRW5MN3psYkhHNFdoRnk2TWM"
     }
@@ -8061,51 +8119,6 @@
    "zh_summary": "中企涉英伟达Blackwell芯片交易被披露",
    "title_zh": "文件披露中国国企与英伟达Blackwell芯片的相关交易 - RFI",
    "sentiment": -1
-  },
-  {
-   "id": "1c202a06e745",
-   "title": "从“卖铲人”到“造铲人”：英伟达的第二次定价 - or100.cc",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5KbEdTUDNOdzBzOHFaNi11dV9PNHNxUU4tTXFZbkhhR1AtYmVtOFVZRnAydXZVLXNVcU5iZzNPY1dROG9O",
-   "source": "or100.cc",
-   "published_at": "2026-10-03T11:42:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "or100.cc",
-     "published_at": "2026-10-03T11:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5KbEdTUDNOdzBzOHFaNi11dV9PNHNxUU4tTXFZbkhhR1AtYmVtOFVZRnAydXZVLXNVcU5iZzNPY1dROG9O"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达的第二次定价：从卖铲到造铲",
-   "title_zh": "从“卖铲人”到“造铲人”：英伟达的第二次定价 - or100.cc",
-   "sentiment": 0
-  },
-  {
-   "id": "b179729610a5",
-   "title": "Nvidia Hits $237.88 Record High: Ali Martinez Asks Fakeout or Breakout? - Coinpedia Fintech News",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa2F1bGNuMGxQN2hYSzB1TWxRRnhUZ2VFblZ5dXd6SHpBU2Z5eHZEZUpNT25icXAtMm9CWmZXTUljaVF5TzRHdFBSYnpObGdWR01lX0RyY012MUp5czB5T08zZ0hZeWtTYkFRRElBSjYwX2FoQzZkdEFNMDRHWUdnVnJvX3ZXYlc3R2l2eGJsMVZ6UFQtNVAtZGpObjjSAaIBQVVfeXFMTjJycVV0WVdiRnVnQnFEdkhmakFqcHc4QnVYNHI3ZDZrMTFuSjhlcDNCRWdPaW1IaDhieE5lUU5yQnpRZlpWNjIzcWxPdlpoRUVuNnNqU196RF9reFV2Nm5QMnVGUFFIbGR1b2l6U0JpOUMxUTJwbUQtQlZHOXNIVUVMOXg5VjgtYUdfdHZQLXZ4VktLTko2SFBWMnRjdFZUeDJB",
-   "source": "Coinpedia Fintech News",
-   "published_at": "2026-10-03T11:27:27+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Coinpedia Fintech News",
-     "published_at": "2026-10-03T11:27:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa2F1bGNuMGxQN2hYSzB1TWxRRnhUZ2VFblZ5dXd6SHpBU2Z5eHZEZUpNT25icXAtMm9CWmZXTUljaVF5TzRHdFBSYnpObGdWR01lX0RyY012MUp5czB5T08zZ0hZeWtTYkFRRElBSjYwX2FoQzZkdEFNMDRHWUdnVnJvX3ZXYlc3R2l2eGJsMVZ6UFQtNVAtZGpObjjSAaIBQVVfeXFMTjJycVV0WVdiRnVnQnFEdkhmakFqcHc4QnVYNHI3ZDZrMTFuSjhlcDNCRWdPaW1IaDhieE5lUU5yQnpRZlpWNjIzcWxPdlpoRUVuNnNqU196RF9reFV2Nm5QMnVGUFFIbGR1b2l6U0JpOUMxUTJwbUQtQlZHOXNIVUVMOXg5VjgtYUdfdHZQLXZ4VktLTko2SFBWMnRjdFZUeDJB"
-    },
-    {
-     "name": "coinpedia.org",
-     "published_at": "2026-10-03T11:27:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa2F1bGNuMGxQN2hYSzB1TWxRRnhUZ2VFblZ5dXd6SHpBU2Z5eHZEZUpNT25icXAtMm9CWmZXTUljaVF5TzRHdFBSYnpObGdWR01lX0RyY012MUp5czB5T08zZ0hZeWtTYkFRRElBSjYwX2FoQzZkdEFNMDRHWUdnVnJvX3ZXYlc3R2l2eGJsMVZ6UFQtNVAtZGpObjjSAaIBQVVfeXFMTjJycVV0WVdiRnVnQnFEdkhmakFqcHc4QnVYNHI3ZDZrMTFuSjhlcDNCRWdPaW1IaDhieE5lUU5yQnpRZlpWNjIzcWxPdlpoRUVuNnNqU196RF9reFV2Nm5QMnVGUFFIbGR1b2l6U0JpOUMxUTJwbUQtQlZHOXNIVUVMOXg5VjgtYUdfdHZQLXZ4VktLTko2SFBWMnRjdFZUeDJB"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达股价创新高至237.88美元",
-   "title_zh": "英伟达股价创237.88美元新高，分析师问突破还是假突破",
-   "sentiment": 0
   }
  ]
 }
