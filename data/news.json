@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-05T18:36:28.546372+00:00",
+ "updated_at": "2026-10-05T18:51:37.024435+00:00",
  "market": {
-  "price": 238.64,
-  "change_pct": 2.0,
+  "price": 238.9,
+  "change_pct": 2.12,
   "as_of": "2026-10-05",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 43
   },
   "day_sentiment": {
-   "avg": 0.41,
-   "count": 137
+   "avg": 0.42,
+   "count": 139
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +33.0%"
+     "note": "目标价中位数 $318（14家），隐含空间 +32.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.41（137条已评分）"
+     "note": "今日新闻情绪 +0.42（139条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $238.64 vs 20日均线 $224.20"
+     "note": "现价 $238.90 vs 20日均线 $224.21"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 100,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 33.0,
-   "ma20": 224.2,
-   "as_of": "2026-10-05T18:36:28.534751+00:00"
+   "implied_upside_pct": 32.9,
+   "ma20": 224.21,
+   "as_of": "2026-10-05T18:51:36.992802+00:00"
   },
-  "pe_ttm": 30.3,
+  "pe_ttm": 30.4,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+33.0%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+32.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -107,7 +107,7 @@
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONnpjbnZ0OW9SMnl3dlEwQkhXTFItdmxiR242aVhGLXZON01nREVScVlXaDZJRFZMWVRrVS1raUppLTNJaDhzWlJ4Yzh2NTdQbldnNEk5bkFFOHJ0bVowc01EOGdvdG10ckNEZWdHZi1JSG5uRjFiMWFoUFZVbHN1WENIVlgtbVUxT3ZNM01Bb0ZXYWxCN2M0QUZLMFN6ckRNUjJrYnNhWmJFUGQ3c1NFaGlaRVFCNmJJNWtKX2xUUm1abnVIVzFVRTNaTUFFbU02QXhIV3NtazlxUV9LcFE1b2h3",
    "source": "PR Newswire",
    "published_at": "2026-10-05T18:15:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "PR Newswire",
@@ -118,13 +118,22 @@
      "name": "Yahoo Finance UK",
      "published_at": "2026-10-05T18:15:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSS1Ialh2ZVoyT2pTZWlpREhSUTZhbW9tSDN3Y2szXzRjMW1lREo2ZE5Qc1NyYnZWT0lyclpzcEdXbnM0b2JpT1M1YWF1M2N3SndWTUNoRUF1Sk5iLWExOW52UnNnVDRSX0hsaUQ0RHFOUUZYWUxRRmhyYVcxNWhGbDYtQVAxVjh6b2NvLS1mWmI"
+    },
+    {
+     "name": "Morningstar",
+     "published_at": "2026-10-05T18:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb3Mtc05BUUtiYVdwV1pob1FFdFhrZ2RpODdXY2xoOWFRdGw4RDBHMWpnTmpLSF9uall6U25oLVNKc1RFZkgwQjlkWnRNa1o3ZHVCelNSWHVwWFVWbTNZUWNBSjhYS2x6TFk5OU1iMkVoQWRoS2VuLUloRlhWR2ZranhCdjZ4ck5sOWgzNHpWcWQ1cU5wU1VzZ012R2Y4M3F6bXM0MExuSVBxZFhCbzlqbUJYQ0EzSUN6M3FGUFFBaXNfSVg1eVh2SXpSZ0xGLVlVQWI3Q0swSHlrSHVkX2tOdmt5bk1EMmF3"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "VIDIZMO加入英伟达Inception计划",
    "title_zh": "VIDIZMO加入英伟达Inception，推进客户边界内智能体AI",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.29,
+    "window_h": 0.6
+   }
   },
   {
    "id": "d37386e32c07",
@@ -632,6 +641,23 @@
    "sentiment": 0
   },
   {
+   "id": "31900ce55000",
+   "title": "Nvidia and Hon Hai say their robots improving at building AI components - Taipei Times",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMDVSbXVoZENqeVdjUjY1cGNLbFBGME1UU2g4S0lUTE90QmlFaDNDcDl1YzI4Yk94WWk2LUhmUFZGQ1NDS0M0UG9KMGp3Ry10bUJTMTRMeGVEenVPbjRMQ0ZtUGdlQkRZaU1iYmwwQzU4R0hiLUE",
+   "source": "Taipei Times",
+   "published_at": "2026-10-05T16:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Taipei Times",
+     "published_at": "2026-10-05T16:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMDVSbXVoZENqeVdjUjY1cGNLbFBGME1UU2g4S0lUTE90QmlFaDNDcDl1YzI4Yk94WWk2LUhmUFZGQ1NDS0M0UG9KMGp3Ry10bUJTMTRMeGVEenVPbjRMQ0ZtUGdlQkRZaU1iYmwwQzU4R0hiLUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "780db427433a",
    "title": "AI算力需求前景获看好法巴上调英伟达(NVDA.US)、英特尔(INTC.US)目标价但对后者仍持观望态度 - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEFmN09pUWRWSXhQUlpKdlpCVEhQWk4wYmttVlcxeHBFR1NEbjJPMzVVNHdWeVRud19Ea0I4LW9zbFc3QVFJZ1lNN2NOc2ExdWJQYkhGajhiRnoxVXh0Tm5ZajB4VTNfaG1IdTd6VTJOV2FWSkd4cGdGSllGMWtjZXlJOGwxejRDclZTcnI3YlR4bUE4N0dRLWh5eTBHZkNqU3V5OGhDT1JFQWtMdEtxX2NGVUE",
@@ -962,12 +988,29 @@
    "sentiment": 1
   },
   {
+   "id": "f1e1e69ed74e",
+   "title": "First Solar stock vs NVIDIA stock: Which Is A Better Investment? - Trefis",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMUVZbkxtSmxPbjhKcXJuRGIzMkYtemhHS1dGYzdUSGprS3hDRkZMMEdadVNscjZMLTlyX3VSSnRfVWZjbHFIOExzS25VU1ctVnhkd1dQTUNlemJqcjVYcExndlB2WUlhanNwYTlGUklpN0tYbGJZZDhHNV9xSWlnc2ZLRU1vT1hGZGNtdU1ZZkJtMlI3aWRSR1JUbFFNNXJkQURSQU5TX3J5RjdJbXhlanJkWWZPR3U2ZGdZRXhjSWt0SjFQUEh2VlBmSDFOQQ",
+   "source": "Trefis",
+   "published_at": "2026-10-05T15:15:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Trefis",
+     "published_at": "2026-10-05T15:15:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMUVZbkxtSmxPbjhKcXJuRGIzMkYtemhHS1dGYzdUSGprS3hDRkZMMEdadVNscjZMLTlyX3VSSnRfVWZjbHFIOExzS25VU1ctVnhkd1dQTUNlemJqcjVYcExndlB2WUlhanNwYTlGUklpN0tYbGJZZDhHNV9xSWlnc2ZLRU1vT1hGZGNtdU1ZZkJtMlI3aWRSR1JUbFFNNXJkQURSQU5TX3J5RjdJbXhlanJkWWZPR3U2ZGdZRXhjSWt0SjFQUEh2VlBmSDFOQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "252ad67a225f",
    "title": "White House Reveals Voluntary AI Safety Pledge Signed by OpenAI, Nvidia, Alphabet and Meta - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTUzYnJoUzFGQ1g3MU05UDJua3hnTC1fcS1XMmNHZ3lwc1pYWWhZNGk2S3pKRUp1cjNRSUlzZjBXUVMyQnl0YzBHb0JHUjUzUmhJU01CNlhYRUs1Q3ZMbXJjV0VKeWlzcHQtdGJJT3g5eXdFbWVULTVZLTZUdWZzaVgyYmpQbFdTWEZOSW1MdVVqaFFIajFNdnBHNUU",
    "source": "Yahoo Finance",
    "published_at": "2026-10-05T15:12:33+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -978,13 +1021,22 @@
      "name": "TIKR.com",
      "published_at": "2026-10-05T15:20:23+00:00",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUlHck1hRjVIWDBkLTEzSTFtSzZqeTluSTVmcW53aUVEUGl0QThuME85MXk0RzZRMDRjS2poREFpNk1vY0MxTm9uR2FWaWRtMlNsaVpqZnN4VnZRa0RBcGRfQklUS2x1Zi1vZGg5dHJJNUlFck9kcVl6aFVXQTE1d2F0MzhvMlNqZkYtczFaemM4eWdk"
+    },
+    {
+     "name": "tikr.com",
+     "published_at": "2026-10-05T15:20:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUlHck1hRjVIWDBkLTEzSTFtSzZqeTluSTVmcW53aUVEUGl0QThuME85MXk0RzZRMDRjS2poREFpNk1vY0MxTm9uR2FWaWRtMlNsaVpqZnN4VnZRa0RBcGRfQklUS2x1Zi1vZGg5dHJJNUlFck9kcVl6aFVXQTE1d2F0MzhvMlNqZkYtczFaemM4eWdk"
     }
    ],
    "category": "AI需求",
    "session": "盘中",
    "zh_summary": "英伟达等签署AI安全自愿承诺",
    "title_zh": "OpenAI、英伟达等签署白宫AI安全自愿承诺",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.05,
+    "window_h": 2.0
+   }
   },
   {
    "id": "f3b62f884a3d",
@@ -8034,51 +8086,6 @@
    "zh_summary": "英伟达9月30日修复114个GPU驱动漏洞",
    "title_zh": "英伟达9月30日修补114个GPU驱动漏洞，其中一个评级9.9",
    "sentiment": 0
-  },
-  {
-   "id": "8cdf256b67ab",
-   "title": "$英伟达 (NVDA.US)$ Michael Burry…… - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Fb2RNUFZDeWtjREt2cHktUGJ5VEdhbUhmYThlX05rMDVJRzNSa3NFQXpyUUFrcmcyOWE4eWliZWJfV3FORDlDS2xvdDVqcDhpRUtjVFBsa1VlWDJ4Vm93X05lMUFmenFkQmY4MlFFVVl0QkM1dk5OR2dTa0dzUQ",
-   "source": "Moomoo",
-   "published_at": "2026-10-03T04:22:03+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-03T04:22:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Fb2RNUFZDeWtjREt2cHktUGJ5VEdhbUhmYThlX05rMDVJRzNSa3NFQXpyUUFrcmcyOWE4eWliZWJfV3FORDlDS2xvdDVqcDhpRUtjVFBsa1VlWDJ4Vm93X05lMUFmenFkQmY4MlFFVVl0QkM1dk5OR2dTa0dzUQ"
-    },
-    {
-     "name": "moomoo.com",
-     "published_at": "2026-10-03T04:22:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Fb2RNUFZDeWtjREt2cHktUGJ5VEdhbUhmYThlX05rMDVJRzNSa3NFQXpyUUFrcmcyOWE4eWliZWJfV3FORDlDS2xvdDVqcDhpRUtjVFBsa1VlWDJ4Vm93X05lMUFmenFkQmY4MlFFVVl0QkM1dk5OR2dTa0dzUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "Michael Burry 谈英伟达",
-   "title_zh": "$英伟达 (NVDA.US)$ Michael Burry…… - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "7fa85a0a4538",
-   "title": "英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐|CoreWeave|AI软件|强化学习|GPU|云服务_手机新浪网 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2pkT09iZ3FEQ0dOWmFweHV2R1d3R1RHcDJxUlZISWF1UVlncVJlWjdXdUVlZ1BSMmNQNkxuN013VXMzVE9VWTZCeEpNMlNhRjZiRkFFVG4ySndsYmtBeDdPVERHR19IdGprSHVYdnlZTEtEXzI3clJPb3Faamg5c0RsaTJSU0Q0SE1Veml6a1dodFVpUC1Ka0c4T1g2d0dQZmdpMUVHYw",
-   "source": "finance.sina.com.cn",
-   "published_at": "2026-10-03T04:08:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-03T04:08:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2pkT09iZ3FEQ0dOWmFweHV2R1d3R1RHcDJxUlZISWF1UVlncVJlWjdXdUVlZ1BSMmNQNkxuN013VXMzVE9VWTZCeEpNMlNhRjZiRkFFVG4ySndsYmtBeDdPVERHR19IdGprSHVYdnlZTEtEXzI3clJPb3Faamg5c0RsaTJSU0Q0SE1Veml6a1dodFVpUC1Ka0c4T1g2d0dQZmdpMUVHYw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "Rubin NVL72投产，吞吐达4.8倍",
-   "title_zh": "英伟达新王炸投产！Vera Rubin NVL72跑出4.8倍Token吞吐",
-   "sentiment": 1
   }
  ]
 }
