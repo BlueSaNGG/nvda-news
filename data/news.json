@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T18:21:33.375670+00:00",
+ "updated_at": "2026-10-06T18:36:43.068478+00:00",
  "market": {
   "price": 240.13,
   "change_pct": 0.51,
@@ -10,8 +10,8 @@
    "days_left": 42
   },
   "day_sentiment": {
-   "avg": 0.6,
-   "count": 134
+   "avg": 0.61,
+   "count": 137
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.60（134条已评分）"
+     "note": "今日新闻情绪 +0.61（137条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.2,
    "ma20": 224.93,
-   "as_of": "2026-10-06T18:21:33.366780+00:00"
+   "as_of": "2026-10-06T18:36:43.046841+00:00"
   },
   "pe_ttm": 30.5,
   "pe_pct_5y": 28,
@@ -1799,7 +1799,7 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeXVvN3h1YmwwMlp0RWlpZmpEVi01bklYUzlLU3R1QmtISHRicE5pLXh6MUpONmFUVkZEWjNoTjQ3Y25jeUNfQWVVYUFmdWlONHBSNmVpdFRXWTFmc0JfVU5IUzlKSjBjRHRzNGxLa2JaVzQ0bWNqZ1E3RnZMOHpJWGpuSVFsS3FNSjZIUW8zQkVNczVtODlMM2l3",
    "source": "Yahoo Finance",
    "published_at": "2026-10-06T12:26:53+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -1810,13 +1810,22 @@
      "name": "qz.com",
      "published_at": "2026-10-06T12:27:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsWHNQWGdlTElNSUowYmlDcGZ0OEd0bV9kT0RuTXNfTENVc093RGE1bG5IUUN0Ym1UMGxjRm9WMXZ2XzNQUjFCbTVkaVhwX0FJd0ZEcWQtUEZaNC1VSERjTGZrcTRCdWZjWERXQQ"
+    },
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-06T12:27:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsWHNQWGdlTElNSUowYmlDcGZ0OEd0bV9kT0RuTXNfTENVc093RGE1bG5IUUN0Ym1UMGxjRm9WMXZ2XzNQUjFCbTVkaVhwX0FJd0ZEcWQtUEZaNC1VSERjTGZrcTRCdWZjWERXQQ"
     }
    ],
    "category": "财报",
    "session": "盘前",
    "zh_summary": "富士康营收大增后英伟达创新高",
    "title_zh": "富士康三季度营收大增，英伟达创历史新高",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.09,
+    "window_h": 2.0
+   }
   },
   {
    "id": "8fa2ed008d96",
@@ -1844,12 +1853,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXhZNXIwYl80MzNTbTd4cTlwT3ItbEl5eHJNU2Vic0dXUFctUTNZd2VzS1hkUnJFcU9NT0l3c3ZkNmR3NWM5anE2YVlZZWNmTTdyenRfR3lBVmVGaUY1SGpiVEhuMVZOYkpCMGZYN1lOQVRkS0k0OEx4OVRpV1ZiRVJTSUNEVV9n",
    "source": "搜狐网",
    "published_at": "2026-10-06T12:23:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐网",
      "published_at": "2026-10-06T12:23:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXhZNXIwYl80MzNTbTd4cTlwT3ItbEl5eHJNU2Vic0dXUFctUTNZd2VzS1hkUnJFcU9NT0l3c3ZkNmR3NWM5anE2YVlZZWNmTTdyenRfR3lBVmVGaUY1SGpiVEhuMVZOYkpCMGZYN1lOQVRkS0k0OEx4OVRpV1ZiRVJTSUNEVV9n"
+    },
+    {
+     "name": "财联社",
+     "published_at": "2026-10-06T12:26:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOTVZXM3NfMk45V01jeVEyWjA0RTA0dzZvdWNYOW96T0VQQ2JlX1B5NEZiRi1lc19QV2plLUpFMW1va1ZkcXk5cA"
     }
    ],
    "category": "其他",
@@ -3870,26 +3884,6 @@
     "pct": 0.14,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "7672885068b0",
-   "title": "隔夜美股爆发！纳指创新高，英伟达收涨，中概科技龙头拉升 - 中国经营网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oMkx5S21LczBBYWZXVnQ5TnNwNGEwazRZVlBIbGVHZ1FyVzNNQXRTNGJmZWRxYlNsaVptZ2htZnJnV3lrZ2VZTXRwS1RtVzdBWmhDcTlXQzZqYjFXTm1lTmlR",
-   "source": "中国经营网",
-   "published_at": "2026-10-06T02:41:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中国经营网",
-     "published_at": "2026-10-06T02:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oMkx5S21LczBBYWZXVnQ5TnNwNGEwazRZVlBIbGVHZ1FyVzNNQXRTNGJmZWRxYlNsaVptZ2htZnJnV3lrZ2VZTXRwS1RtVzdBWmhDcTlXQzZqYjFXTm1lTmlR"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘后",
-   "zh_summary": "纳指创新高，英伟达收涨",
-   "title_zh": "隔夜美股爆发！纳指创新高，英伟达收涨，中概科技龙头拉升 - 中国经营网",
-   "sentiment": 1
   },
   {
    "id": "4d708f6855d5",
@@ -8200,6 +8194,23 @@
    "zh_summary": "Shield TV Pro涨价至299美元",
    "title_zh": "Shield TV Pro涨价至299美元，基础版停产",
    "sentiment": 0
+  },
+  {
+   "id": "d018db32cbec",
+   "title": "NVIDIA Corporation (NVDA) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzJzYmVRbmJaZ3BaS3dWS01hUDlRM0tXZ25BZGc2M2RURjNpMEtHRG5VZjF3dkFnU2E5WWZKN1NYa1Frb3NzLW12VVZoSnU3WEo4TW1RdzhsNGdtZnJwTDRfa0h2M3hjaXNYNU9qWjAwZXNjcDVJUGgxV2xFWmNGTjhvNUdpQlRUN2JURUFWOURlVTYxNTQ2Sld3ZGxPSDBjZldHUUpKbkpjRzhL",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-05T12:00:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-05T12:00:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzJzYmVRbmJaZ3BaS3dWS01hUDlRM0tXZ25BZGc2M2RURjNpMEtHRG5VZjF3dkFnU2E5WWZKN1NYa1Frb3NzLW12VVZoSnU3WEo4TW1RdzhsNGdtZnJwTDRfa0h2M3hjaXNYNU9qWjAwZXNjcDVJUGgxV2xFWmNGTjhvNUdpQlRUN2JURUFWOURlVTYxNTQ2Sld3ZGxPSDBjZldHUUpKbkpjRzhL"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   }
  ]
 }
