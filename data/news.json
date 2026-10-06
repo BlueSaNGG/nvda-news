@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T09:21:31.256748+00:00",
+ "updated_at": "2026-10-06T09:36:33.704931+00:00",
  "market": {
   "price": 238.9,
   "change_pct": 2.12,
@@ -10,12 +10,12 @@
    "days_left": 42
   },
   "day_sentiment": {
-   "avg": 0.54,
+   "avg": 0.46,
    "count": 24
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.54（24条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.46（24条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.9,
    "ma20": 224.21,
-   "as_of": "2026-10-06T09:21:31.243823+00:00"
+   "as_of": "2026-10-06T09:36:33.695761+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -390,26 +390,6 @@
    "session": "盘前",
    "zh_summary": "TrinityBridge买入85102股NVDA",
    "title_zh": "TrinityBridge买入85102股英伟达NVDA股票",
-   "sentiment": 1
-  },
-  {
-   "id": "79e284cf5857",
-   "title": "NVIDIA Corporation $NVDA Stock Purchased by Robinhood Asset Management LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXVRbTNjUDdKajhiX1hGc2VSaU5MV2RWRjNaclFXUDRYOFM1U1M1OWp2TF8zV0lULXVxV2hVNkxRWmsycXNfQ2s0Y2JleUZMYTI0VUdUUlFraWFmSmptYVhXVlpEREE5cmszYW95SkVwV04zaTY4bWNvc3R0bTVabGZZa25VcGJLTUtSRFVzTzNLa1R0NHNHSG5wc3hRcFJQOGYxQk1kUmk1OUxOOHk4WGhaR1MtUXZXS2I2R1ZjY3NJaXI1UVRmRFFTUWJ4ekU",
-   "source": "MarketBeat",
-   "published_at": "2026-10-06T07:32:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-06T07:32:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXVRbTNjUDdKajhiX1hGc2VSaU5MV2RWRjNaclFXUDRYOFM1U1M1OWp2TF8zV0lULXVxV2hVNkxRWmsycXNfQ2s0Y2JleUZMYTI0VUdUUlFraWFmSmptYVhXVlpEREE5cmszYW95SkVwV04zaTY4bWNvc3R0bTVabGZZa25VcGJLTUtSRFVzTzNLa1R0NHNHSG5wc3hRcFJQOGYxQk1kUmk1OUxOOHk4WGhaR1MtUXZXS2I2R1ZjY3NJaXI1UVRmRFFTUWJ4ekU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Robinhood资管买入NVDA股票",
-   "title_zh": "Robinhood资管买入英伟达NVDA股票",
    "sentiment": 1
   },
   {
@@ -2604,10 +2584,15 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PRE5VRXF3aVR4OXpsdjhyN0ktbzVRM0ZUdUlXbFFrWWVkYnZseEFMVG9rMnNxQlRKaFFscW8ySkR1eTYxeEwtM1pDdGdhN1pfUmViMGdn",
    "source": "雪球",
    "published_at": "2026-10-05T17:28:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "雪球",
+     "published_at": "2026-10-05T17:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PRE5VRXF3aVR4OXpsdjhyN0ktbzVRM0ZUdUlXbFFrWWVkYnZseEFMVG9rMnNxQlRKaFFscW8ySkR1eTYxeEwtM1pDdGdhN1pfUmViMGdn"
+    },
+    {
+     "name": "xueqiu.com",
      "published_at": "2026-10-05T17:28:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PRE5VRXF3aVR4OXpsdjhyN0ktbzVRM0ZUdUlXbFFrWWVkYnZseEFMVG9rMnNxQlRKaFFscW8ySkR1eTYxeEwtM1pDdGdhN1pfUmViMGdn"
     }
@@ -7426,7 +7411,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtcVZYa18wN3VCT3Z2THczVXZERHRQUmhVVllpR3cyam1sSXprRVVoUWl1Q3Zock9jM2JiS2pteTRWYXNMRENfd0M3SGNmUQ",
    "source": "guandian.cn",
    "published_at": "2026-10-05T00:15:46+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "guandian.cn",
@@ -7437,13 +7422,22 @@
      "name": "观点网",
      "published_at": "2026-10-05T00:15:46+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtcVZYa18wN3VCT3Z2THczVXZERHRQUmhVVllpR3cyam1sSXprRVVoUWl1Q3Zock9jM2JiS2pteTRWYXNMRENfd0M3SGNmUQ"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-06T08:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zb0JRZTFlVzlFV0prUUZrZlVKcmlLbG40ekdjTThnX0pyNjdlYm1fcUw1OTgxa1BNV01TMTYyQVVIZVBSRUJ1eVlERGhyOHhlLVFtZUtEbllqTk5VS09lMnd5c2l0LTV0Y0U2aU5EbEtiV2poVmc"
     }
    ],
    "category": "产品技术",
    "session": "周末",
    "zh_summary": "华为称昇腾芯片在华份额超越英伟达",
    "title_zh": "华为徐直军：昇腾芯片中国市场份额已超越英伟达",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.35,
+    "window_h": 2.0
+   }
   },
   {
    "id": "4290ab8852de",
@@ -8067,6 +8061,23 @@
    "zh_summary": "董事会成员年内第三次减持，股价半年最差",
    "title_zh": "英伟达股价或创2022年以来最差半年，董事会成员年内第三次减持",
    "sentiment": -1
+  },
+  {
+   "id": "14c47de78f39",
+   "title": "成交额TOP20 | 英伟达、台积电齐创历史新高；SpaceX大涨近8%，助推马斯克身家再破万亿美元大关；Meta、微软设法减少员工对Claude依赖 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHl4bl9TcmNTU2lXZlEwLUNYZ1RLMVNjekNtTFZlVGgzY05yaTUtQTl3U0FWbXNzUnZpWGRfQmUtZzJyUEVIcE55a0tIcHNrQ1FVWGEtMmtNYXJGVWN6SEhncmQ5Ui01TXNKZnZxZ3NvY2p0ZGdaT3R4OW9xbWV1VGY3TE5vRzQzcm5jbzNxRjBNVlRKOEtORFl5aE5LSS1kNGNB",
+   "source": "富途牛牛",
+   "published_at": "2026-10-04T15:05:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-04T15:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHl4bl9TcmNTU2lXZlEwLUNYZ1RLMVNjekNtTFZlVGgzY05yaTUtQTl3U0FWbXNzUnZpWGRfQmUtZzJyUEVIcE55a0tIcHNrQ1FVWGEtMmtNYXJGVWN6SEhncmQ5Ui01TXNKZnZxZ3NvY2p0ZGdaT3R4OW9xbWV1VGY3TE5vRzQzcm5jbzNxRjBNVlRKOEtORFl5aE5LSS1kNGNB"
+    }
+   ],
+   "category": "供应链",
+   "session": "周末"
   }
  ]
 }
