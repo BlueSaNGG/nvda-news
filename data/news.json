@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T14:21:37.996559+00:00",
+ "updated_at": "2026-10-06T14:36:38.302149+00:00",
  "market": {
-  "price": 242.11,
-  "change_pct": 1.34,
+  "price": 242.06,
+  "change_pct": 1.32,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 42
   },
   "day_sentiment": {
-   "avg": 0.67,
-   "count": 86
+   "avg": 0.66,
+   "count": 89
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +31.1%"
+     "note": "目标价中位数 $318（14家），隐含空间 +31.2%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.67（86条已评分）"
+     "note": "今日新闻情绪 +0.66（89条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $242.11 vs 20日均线 $225.03"
+     "note": "现价 $242.06 vs 20日均线 $225.03"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 100,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 31.1,
+   "implied_upside_pct": 31.2,
    "ma20": 225.03,
-   "as_of": "2026-10-06T14:21:37.975679+00:00"
+   "as_of": "2026-10-06T14:36:38.292071+00:00"
   },
   "pe_ttm": 30.8,
   "pe_pct_5y": 30,
-  "valuation_sentence": "现价处5年P/E 30%分位，目标价隐含+31.1%空间：估值适中，预期乐观"
+  "valuation_sentence": "现价处5年P/E 30%分位，目标价隐含+31.2%空间：估值适中，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "56d5cdd734ea",
+   "title": "S&P 500 hits record high as Nvidia nears $6 trillion milestone - NBC News",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3hzcS00a3M2eTZZRUtOU0tMU2ZpNFN1ejYzRkt6X3NSVC1UN3I5RkJmRkduOFN0Uno3cXZjTEJITG1GeVB2eDMwMTYxMUV3Q0k2NlZlVE9ON3gyQTM2aHNqUDJPRFRnMkp2NmZiRVZlYnVxQV9yOGhIQVZYNjVVTHR4NA",
+   "source": "NBC News",
+   "published_at": "2026-10-06T14:22:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NBC News",
+     "published_at": "2026-10-06T14:22:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3hzcS00a3M2eTZZRUtOU0tMU2ZpNFN1ejYzRkt6X3NSVC1UN3I5RkJmRkduOFN0Uno3cXZjTEJITG1GeVB2eDMwMTYxMUV3Q0k2NlZlVE9ON3gyQTM2aHNqUDJPRFRnMkp2NmZiRVZlYnVxQV9yOGhIQVZYNjVVTHR4NA"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "196637ed6b9b",
+   "title": "CrowdStrike, AWS And Nvidia Launch 4th Cybersecurity Accelerator As Agentic AI Security Push Grows - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTE9Sbm15NGNNekQ4UmdTNURZVGJGcTl4ZUl3ZEtlWm5xd2lUQ25jNHNqNkc0V2k2Z2lDR2ZndkZvY2lLVHd1MHl6aU41V0o5dGVRcFRteWRxMWswRldNU0FrNU1PVHc4ejIxSGdvWVc1SFdldmpGSTZ0VDNQc3hKTkJZcHVvcl9KMThEa3o1eWR0dWY4YzR5eVNMazJ6Q0gwM3RJNU80LWpMQXVxMlFoRkdfaFdiQm04SElJNzZTeDFXN3lFb1N4VVdnQ1F4eWtTdVlLRkZSZ21MZ1NINFBPeWE4UHdxWm1kZzJrT2xaMA",
+   "source": "TradingView",
+   "published_at": "2026-10-06T14:15:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-06T14:15:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTE9Sbm15NGNNekQ4UmdTNURZVGJGcTl4ZUl3ZEtlWm5xd2lUQ25jNHNqNkc0V2k2Z2lDR2ZndkZvY2lLVHd1MHl6aU41V0o5dGVRcFRteWRxMWswRldNU0FrNU1PVHc4ejIxSGdvWVc1SFdldmpGSTZ0VDNQc3hKTkJZcHVvcl9KMThEa3o1eWR0dWY4YzR5eVNMazJ6Q0gwM3RJNU80LWpMQXVxMlFoRkdfaFdiQm04SElJNzZTeDFXN3lFb1N4VVdnQ1F4eWtTdVlLRkZSZ21MZ1NINFBPeWE4UHdxWm1kZzJrT2xaMA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "42b8ec1afe5a",
    "title": "Nvidia, Apple, and Microsoft are keeping the stock market afloat - Yahoo! Finance Canada",
@@ -102,6 +136,23 @@
    "sentiment": 0
   },
   {
+   "id": "e9069d418066",
+   "title": "英伟达市值达5.8万亿美元，创历史新高 - sohu.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGt1UnZiUzA0eHdPRkpKREE0d1VjdmxBZ19haF9ON1lIS3NEaGRwUlJTOGNKaEJzTHg0YU1QMFlaTExnOWp0LUZyV3RBcmZyb1hRbVhBLWdqS1NNSGdla0w0SUxoYWQ1X01XVWo5bjhZUTJJMTNWRktJSnlhWHdNU3RqLWJhSExG",
+   "source": "sohu.com",
+   "published_at": "2026-10-06T13:58:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "sohu.com",
+     "published_at": "2026-10-06T13:58:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGt1UnZiUzA0eHdPRkpKREE0d1VjdmxBZ19haF9ON1lIS3NEaGRwUlJTOGNKaEJzTHg0YU1QMFlaTExnOWp0LUZyV3RBcmZyb1hRbVhBLWdqS1NNSGdla0w0SUxoYWQ1X01XVWo5bjhZUTJJMTNWRktJSnlhWHdNU3RqLWJhSExG"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "bac4aeed61e2",
    "title": "Nvidia stock is closing in on a $6 trillion market cap - qz.com",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uQUVYX2hlTkRtSGtpVVBhRkppcklFTHZFb1RKdk5MOUhVWnhrWWtRUmYxVl9oQ2NrWGxUTzVwVFJlVVNyMEZBVDFHUFpLQUZPTkRlRVJSZ29yakYxcnI1NmNJTG80MW1WN3c",
@@ -127,10 +178,15 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT3QxNzRfbXBzNFJPUG1PNElENklzOEJYNS1XbjFoTk5vZ0dNY3JneWpQWHFjRGYzeFlwTXhHMzltNFN0R09CY0hnd1c3cldPYkNyaHlSZzhJaEhzdS1YMV9MYmszMWNMdk9kcDdjVmZUVXUwZE0xYXdEQXI3dXduVG1LS2llSHlFT3VkRA",
    "source": "搜狐网",
    "published_at": "2026-10-06T13:50:44+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐网",
+     "published_at": "2026-10-06T13:50:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT3QxNzRfbXBzNFJPUG1PNElENklzOEJYNS1XbjFoTk5vZ0dNY3JneWpQWHFjRGYzeFlwTXhHMzltNFN0R09CY0hnd1c3cldPYkNyaHlSZzhJaEhzdS1YMV9MYmszMWNMdk9kcDdjVmZUVXUwZE0xYXdEQXI3dXduVG1LS2llSHlFT3VkRA"
+    },
+    {
+     "name": "sohu.com",
      "published_at": "2026-10-06T13:50:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT3QxNzRfbXBzNFJPUG1PNElENklzOEJYNS1XbjFoTk5vZ0dNY3JneWpQWHFjRGYzeFlwTXhHMzltNFN0R09CY0hnd1c3cldPYkNyaHlSZzhJaEhzdS1YMV9MYmszMWNMdk9kcDdjVmZUVXUwZE0xYXdEQXI3dXduVG1LS2llSHlFT3VkRA"
     }
@@ -147,10 +203,15 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUhlREFKZjNLbnRZU0RjNmxURzJuTWNvZDFYbGE1OW82ZlVndEdHVVJfNGxibkgzNlI5MldqNDJEVTlsQ0hvWWVoUHpqWGZYVE1Qd2t0RXQ2Y01hUW9DamdMdjRzNi1wNFMzOThGSGZPdEpDZzNxRUk0MW1NbmFhUnF3bUw5a1hLckF6Zg",
    "source": "搜狐网",
    "published_at": "2026-10-06T13:46:18+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐网",
+     "published_at": "2026-10-06T13:46:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUhlREFKZjNLbnRZU0RjNmxURzJuTWNvZDFYbGE1OW82ZlVndEdHVVJfNGxibkgzNlI5MldqNDJEVTlsQ0hvWWVoUHpqWGZYVE1Qd2t0RXQ2Y01hUW9DamdMdjRzNi1wNFMzOThGSGZPdEpDZzNxRUk0MW1NbmFhUnF3bUw5a1hLckF6Zg"
+    },
+    {
+     "name": "sohu.com",
      "published_at": "2026-10-06T13:46:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUhlREFKZjNLbnRZU0RjNmxURzJuTWNvZDFYbGE1OW82ZlVndEdHVVJfNGxibkgzNlI5MldqNDJEVTlsQ0hvWWVoUHpqWGZYVE1Qd2t0RXQ2Y01hUW9DamdMdjRzNi1wNFMzOThGSGZPdEpDZzNxRUk0MW1NbmFhUnF3bUw5a1hLckF6Zg"
     }
@@ -230,6 +291,23 @@
    "zh_summary": "Super Micro或被高估76%",
    "title_zh": "SMCI或被高估76%，英伟达消息带热关注",
    "sentiment": 0
+  },
+  {
+   "id": "0e512cdb748d",
+   "title": "Nvidia Is Closing In On $6 Trillion. Wall Street Still Thinks It Looks Cheap. - thewealthadvisor.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1NzMEpwem52OG5vZmdEc3c3b3FFY3N6Si1LQU1VOHJiZWpjLURhVTFmZjl4d3ROS1ZqdFpXZ1BpbVkyeGhxVU1JMXh4Tngyc0hVTkV1SkFtdkF4ME9Ja0QtRWpiUGo1b3p5ajRqa1F0dzRtejViWVpYMUhfSlVzZjJlRk5mOFY0YkxNdmJjMG1uUU5hNWZ5NXdaVDFTNkVYYVd2aF8tTTJXZw",
+   "source": "thewealthadvisor.com",
+   "published_at": "2026-10-06T13:41:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "thewealthadvisor.com",
+     "published_at": "2026-10-06T13:41:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1NzMEpwem52OG5vZmdEc3c3b3FFY3N6Si1LQU1VOHJiZWpjLURhVTFmZjl4d3ROS1ZqdFpXZ1BpbVkyeGhxVU1JMXh4Tngyc0hVTkV1SkFtdkF4ME9Ja0QtRWpiUGo1b3p5ajRqa1F0dzRtejViWVpYMUhfSlVzZjJlRk5mOFY0YkxNdmJjMG1uUU5hNWZ5NXdaVDFTNkVYYVd2aF8tTTJXZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "5f967e1240c5",
@@ -801,6 +879,23 @@
    "sentiment": 1
   },
   {
+   "id": "7c9ef19f6325",
+   "title": "Cheniere Energy, Nvidia, Steel Dynamics And More On CNBC’s ‘Final Trades’ - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUFCQXlaZzZma3J4UUtuaWEtVnByU1NfYVNKdFh3YlRmcF95UVVsZlBOWHEycm1BeTdaUTB5QVREczdia3dJZ0xPcFpCd0NKX3RONkZ4UHNDN3hCblBESVlJTEpMc3FFV05ETFBVdFpmN1pPeExNY253bTFhMHFvcjlDcWJOWUVNTEFNSTgwUm41TkJodUZVZHMtMVhJaThJa0R0S1V2MFQxTWctb3lKNGVHNjhlak1HYmZaSVpZMTJ4SkVNcUZJQVpWN05VQQ",
+   "source": "Benzinga",
+   "published_at": "2026-10-06T12:14:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-06T12:14:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUFCQXlaZzZma3J4UUtuaWEtVnByU1NfYVNKdFh3YlRmcF95UVVsZlBOWHEycm1BeTdaUTB5QVREczdia3dJZ0xPcFpCd0NKX3RONkZ4UHNDN3hCblBESVlJTEpMc3FFV05ETFBVdFpmN1pPeExNY253bTFhMHFvcjlDcWJOWUVNTEFNSTgwUm41TkJodUZVZHMtMVhJaThJa0R0S1V2MFQxTWctb3lKNGVHNjhlak1HYmZaSVpZMTJ4SkVNcUZJQVpWN05VQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "be289f50619d",
    "title": "Morgan Stanley says Nvidia and Broadcom are shielded from data-center power crunch - qz.com",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdzM2UXhQby1mLVhoRExPSW9XdzFNd1R0b0JwdmNHSkQ5WjNPNWZmOE9EVW5zQlFEOGV0THl1X2RtRWE3VnFSb2pNZTU1UkhGYnhnajg1alZQSlJ1V0R3ZzJXT29IbEZSVEFtX0tEWWkxLUszRUhBQ0QwNmN0X1FNRTZSSQ",
@@ -960,7 +1055,7 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenNMbGVYZ0hKWGhoRnJuUHdpMjFIalc5b0FDTkxEb3pkQlh1ZFFNc3NmanZXZHJnMUZrNlU4akxYcTB3eTlBOXVtb0xhYmFYWDhFM2ZGdHUzdFZWM2RGT0pENUU0ZjZrSzhKUXVYc1g4NEc0Qy10OGprdW4zY05vemRIalJVOHdOZnRUdEdpWm1sSERIb3FwTVR6SHFMVUlyN2fSAaABQVVfeXFMTjlBV0VpczR3RnBXRzk0ZTNVSTJVMFB6OUwwVExQeWI1aEVwZ09YeXNfb0VFcnRKUnZKUnJEdFZHX09zSEhSOTdoVXVJc1EwYzdBM25zdHVhZlRfY0hPTXMtM1hqSENjMmlDQ2xyZ2NkZ2RSdkRsOUZsZ09LZVZWUEN3SmJvVDBJeURXQjgxODlkNV9sS1loSF9uYjJMYWRRZA",
    "source": "Українські Національні Новини (УНН)",
    "published_at": "2026-10-06T11:42:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Українські Національні Новини (УНН)",
@@ -976,6 +1071,11 @@
      "name": "finance.yahoo.com",
      "published_at": "2026-10-06T13:49:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdW9rUnp3QTIyOXBfT0thZUI1OVZVdXZiclFLYVZ4OFkwcWRhT0hTdzVER3A4T3dEam5wblU4VVBoXzgwdmFKSi1MS012cjlFUGdxSGp6b2gwS0h6RmlCMmpkeEVXd1JMcGRhRy1MaW5rdWd5NkdIOFNiVEJDNk9jRGJVNDAxSTl0QXBLOVRyNndwazZUWGtkcEhZVWM0cU1h"
+    },
+    {
+     "name": "qz.com",
+     "published_at": "2026-10-06T13:57:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uQUVYX2hlTkRtSGtpVVBhRkppcklFTHZFb1RKdk5MOUhVWnhrWWtRUmYxVl9oQ2NrWGxUTzVwVFJlVVNyMEZBVDFHUFpLQUZPTkRlRVJSZ29yakYxcnI1NmNJTG80MW1WN3c"
     }
    ],
    "category": "市场宏观",
@@ -1509,10 +1609,15 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGlxRXhvYUhfd1JnVkZ1RGdkZkVBa21PWS1od29JLXFlSXFNWUh3X2lCVXNWYVdyRllHcjJaYWlleHg2OFB0NlVXY0JsUC1IZ3gzLUEzcjJYWmJ2bmk5cFVBMHlTVUxnN1FmM1g4eG1OQURkeFVBWXpoaVJGdm1zRTdleVFTS2lQYkR4d0lSSjYyOXBJ",
    "source": "PCMag",
    "published_at": "2026-10-06T09:47:14+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "PCMag",
+     "published_at": "2026-10-06T09:47:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGlxRXhvYUhfd1JnVkZ1RGdkZkVBa21PWS1od29JLXFlSXFNWUh3X2lCVXNWYVdyRllHcjJaYWlleHg2OFB0NlVXY0JsUC1IZ3gzLUEzcjJYWmJ2bmk5cFVBMHlTVUxnN1FmM1g4eG1OQURkeFVBWXpoaVJGdm1zRTdleVFTS2lQYkR4d0lSSjYyOXBJ"
+    },
+    {
+     "name": "pcmag.com",
      "published_at": "2026-10-06T09:47:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGlxRXhvYUhfd1JnVkZ1RGdkZkVBa21PWS1od29JLXFlSXFNWUh3X2lCVXNWYVdyRllHcjJaYWlleHg2OFB0NlVXY0JsUC1IZ3gzLUEzcjJYWmJ2bmk5cFVBMHlTVUxnN1FmM1g4eG1OQURkeFVBWXpoaVJGdm1zRTdleVFTS2lQYkR4d0lSSjYyOXBJ"
     }
@@ -1574,7 +1679,7 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjBCQ0lxWmoxZ2dFeFNPc0k1amU1b1JLWVVFUjRDa3dIeS0wVzNfRmNYcXVPUVhmYmN4andSd2VBcXBKZDRJd3ZNSDBVMFhZemdERGlhOWhPMVFFTTZfUlRfOThMdlQ3dGNZMENGRGlBWmpVRHV5ekc0WVN3NHRQdTJ1bVpEcUkyMkNXTkdwQnZkTFBBWURLZjJFczRXbEtsRmc",
    "source": "富途牛牛",
    "published_at": "2026-10-06T09:42:11+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "富途牛牛",
@@ -1588,6 +1693,11 @@
     },
     {
      "name": "搜狐网",
+     "published_at": "2026-10-06T12:40:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnJPamxNMWZPTlI3NnFmX1RpYmxnUEQxZXhTRHBfdF9SZlVfVWRWTkxTTXJUM1RoVV9rcmRpOFFPSW5HeGpQcTRrcUpjTU54dlZKSFV6V1NqOUdmSmM4ZmJPbUM0THA0bTkxN0NXcDZDZVYyNnUxd2pid2ZQREN5bE1ka2p1QnJC"
+    },
+    {
+     "name": "sohu.com",
      "published_at": "2026-10-06T12:40:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnJPamxNMWZPTlI3NnFmX1RpYmxnUEQxZXhTRHBfdF9SZlVfVWRWTkxTTXJUM1RoVV9rcmRpOFFPSW5HeGpQcTRrcUpjTU54dlZKSFV6V1NqOUdmSmM4ZmJPbUM0THA0bTkxN0NXcDZDZVYyNnUxd2pid2ZQREN5bE1ka2p1QnJC"
     }
@@ -2079,6 +2189,23 @@
    "zh_summary": "Thoroughbred买入4117股NVDA",
    "title_zh": "Thoroughbred金融服务公司买入4117股英伟达(NVDA)",
    "sentiment": 1
+  },
+  {
+   "id": "79e284cf5857",
+   "title": "NVIDIA Corporation $NVDA Stock Purchased by Robinhood Asset Management LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXVRbTNjUDdKajhiX1hGc2VSaU5MV2RWRjNaclFXUDRYOFM1U1M1OWp2TF8zV0lULXVxV2hVNkxRWmsycXNfQ2s0Y2JleUZMYTI0VUdUUlFraWFmSmptYVhXVlpEREE5cmszYW95SkVwV04zaTY4bWNvc3R0bTVabGZZa25VcGJLTUtSRFVzTzNLa1R0NHNHSG5wc3hRcFJQOGYxQk1kUmk1OUxOOHk4WGhaR1MtUXZXS2I2R1ZjY3NJaXI1UVRmRFFTUWJ4ekU",
+   "source": "MarketBeat",
+   "published_at": "2026-10-06T07:32:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-06T07:32:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXVRbTNjUDdKajhiX1hGc2VSaU5MV2RWRjNaclFXUDRYOFM1U1M1OWp2TF8zV0lULXVxV2hVNkxRWmsycXNfQ2s0Y2JleUZMYTI0VUdUUlFraWFmSmptYVhXVlpEREE5cmszYW95SkVwV04zaTY4bWNvc3R0bTVabGZZa25VcGJLTUtSRFVzTzNLa1R0NHNHSG5wc3hRcFJQOGYxQk1kUmk1OUxOOHk4WGhaR1MtUXZXS2I2R1ZjY3NJaXI1UVRmRFFTUWJ4ekU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "498cbfc9d97e",
@@ -8065,175 +8192,6 @@
     "pct": -0.4,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "a2edbc9f6b07",
-   "title": "Nvidia Shield TV gets a significant update seven years after launch, but it's not one everyone will welcome with open arms - Yahoo Tech",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXVCV0tNbVY3bE9kVEY1VV83S0RrWko3NzZkRExGaUdzcVpCbjZGWHgwN3dKOGplT0ZQdjFwZzNwRDVmZjlPZ1JiZXRvLThpSmFnX3VyS19aTTR4MW9EMXFiSUZudW5jZ3N3eGNfa0IzbFJyMWFjbHMxRnlHZWpHcFllTmRLQVVwREZ6TFVrLVB5b2NDdFFQdFJwQW11ekYyZVZZZzJR",
-   "source": "Yahoo Tech",
-   "published_at": "2026-10-05T09:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Tech",
-     "published_at": "2026-10-05T09:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXVCV0tNbVY3bE9kVEY1VV83S0RrWko3NzZkRExGaUdzcVpCbjZGWHgwN3dKOGplT0ZQdjFwZzNwRDVmZjlPZ1JiZXRvLThpSmFnX3VyS19aTTR4MW9EMXFiSUZudW5jZ3N3eGNfa0IzbFJyMWFjbHMxRnlHZWpHcFllTmRLQVVwREZ6TFVrLVB5b2NDdFFQdFJwQW11ekYyZVZZZzJR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Shield TV时隔七年获重大更新",
-   "title_zh": "英伟达Shield TV发布七年后迎来重大更新",
-   "sentiment": 0
-  },
-  {
-   "id": "6365b42c0b0f",
-   "title": "Nvidia Set for Stock Record as Key Supplier Celebrates Booming AI Demand - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2JWNUhNcmRiRHFxQzdEUWlMVDI1d3VvYzFRTnFqT0V3RTdiRVhWUzU5NzhjNFhQdGVZYUdwSkhkWlpuT2RyLVhsYlljekxPeW0ycndId1Q0SThPWlpSMV9VNnV5QUstWkNDR1J4SF9Hc2Y5Rlh5eE93WnNoVk4xLQ",
-   "source": "Barron's",
-   "published_at": "2026-10-05T08:50:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-05T08:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2JWNUhNcmRiRHFxQzdEUWlMVDI1d3VvYzFRTnFqT0V3RTdiRVhWUzU5NzhjNFhQdGVZYUdwSkhkWlpuT2RyLVhsYlljekxPeW0ycndId1Q0SThPWlpSMV9VNnV5QUstWkNDR1J4SF9Hc2Y5Rlh5eE93WnNoVk4xLQ"
-    },
-    {
-     "name": "barrons.com",
-     "published_at": "2026-10-05T08:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2JWNUhNcmRiRHFxQzdEUWlMVDI1d3VvYzFRTnFqT0V3RTdiRVhWUzU5NzhjNFhQdGVZYUdwSkhkWlpuT2RyLVhsYlljekxPeW0ycndId1Q0SThPWlpSMV9VNnV5QUstWkNDR1J4SF9Hc2Y5Rlh5eE93WnNoVk4xLQ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "供应商AI需求旺，英伟达股价望创新高",
-   "title_zh": "英伟达有望创股价新高，关键供应商庆祝AI需求旺盛",
-   "sentiment": 1
-  },
-  {
-   "id": "22747005228b",
-   "title": "Nvidia’s valuation shows AI stocks are far from a bubble, DBS CIO says (NVDA:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0dWc1JXdVYxR1JKQ19tcnk0SUt2WVRvQmRuQlphRWZLUDU0Tm85YXZ3dTdkeVdTdTRoeU10UUVvVGJxZ2k4QnE1WWQ2MXpUTERINzc4dm5qZlFMYXhhTm1PeGJtUllSTVMyOUhtWWhlRGJvWi0yaWNObUtnS1pfVjh0QlVCVUMzaXlYdk5kVVd4c1ZwVHdUX2czNmo0bWc0MUpiR0ZWQjJsZw",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-05T08:11:05+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-05T08:11:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0dWc1JXdVYxR1JKQ19tcnk0SUt2WVRvQmRuQlphRWZLUDU0Tm85YXZ3dTdkeVdTdTRoeU10UUVvVGJxZ2k4QnE1WWQ2MXpUTERINzc4dm5qZlFMYXhhTm1PeGJtUllSTVMyOUhtWWhlRGJvWi0yaWNObUtnS1pfVjh0QlVCVUMzaXlYdk5kVVd4c1ZwVHdUX2czNmo0bWc0MUpiR0ZWQjJsZw"
-    },
-    {
-     "name": "seekingalpha.com",
-     "published_at": "2026-10-05T08:11:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0dWc1JXdVYxR1JKQ19tcnk0SUt2WVRvQmRuQlphRWZLUDU0Tm85YXZ3dTdkeVdTdTRoeU10UUVvVGJxZ2k4QnE1WWQ2MXpUTERINzc4dm5qZlFMYXhhTm1PeGJtUllSTVMyOUhtWWhlRGJvWi0yaWNObUtnS1pfVjh0QlVCVUMzaXlYdk5kVVd4c1ZwVHdUX2czNmo0bWc0MUpiR0ZWQjJsZw"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "星展CIO称英伟达估值显示AI股远非泡沫",
-   "title_zh": "星展银行CIO称英伟达估值显示AI股远非泡沫",
-   "sentiment": 1
-  },
-  {
-   "id": "5bffc00ff991",
-   "title": "星展CIO：英伟达(NVDA.US)预期市盈率仅17倍，AI科技股远未到泡沫区域 提供者 智通财经 - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ieWRUSk9LYjB6TWdhUW4yV1h3MFhuM09VUXZFTWtZZnJZZHlFSzJGY0ZmOFRRUUJXOFR2bS1zbFVrT2hXeHhKZFQweDVraXAxWDhTM01VVkJHTy1acnotS0x2bkV3eDR5ZHBWUUlSdWg",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-05T07:59:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-05T07:59:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ieWRUSk9LYjB6TWdhUW4yV1h3MFhuM09VUXZFTWtZZnJZZHlFSzJGY0ZmOFRRUUJXOFR2bS1zbFVrT2hXeHhKZFQweDVraXAxWDhTM01VVkJHTy1acnotS0x2bkV3eDR5ZHBWUUlSdWg"
-    },
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-05T07:59:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IaWdFZEVrUFlrUThKaUtPMHRIU3hhbHRqUVlrRmFHdjI1MmdwNWwyQW5Va2t1N3NzZGhtcjBjZWhGajhaYmNSNjgxUkwxTFdpV1VKcG1IbUxZMjZOQ29WVA"
-    },
-    {
-     "name": "stockstar.com",
-     "published_at": "2026-10-05T07:59:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IaWdFZEVrUFlrUThKaUtPMHRIU3hhbHRqUVlrRmFHdjI1MmdwNWwyQW5Va2t1N3NzZGhtcjBjZWhGajhaYmNSNjgxUkwxTFdpV1VKcG1IbUxZMjZOQ29WVA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "星展CIO称英伟达预期市盈率17倍",
-   "title_zh": "星展CIO：英伟达(NVDA.US)预期市盈率仅17倍，AI科技股远未到泡沫区域_全球市场_财经 - 证券之星",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.11,
-    "window_h": 1.4
-   }
-  },
-  {
-   "id": "8545239cd1cf",
-   "title": "Nvidia Partner Hon Hai Beats Sales Estimates Due to AI Frenzy - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzlNa1VEX2xXMTVORThGeXAyQVQ1ZTh3VlY4VFZYVzVzVUVlQ3Q1OEo2THN6Ym40MUEtRmJfX19xbFREMHkwQ3U5QmFhbUs4ckRhM3J3VXhvMEhWUWRKRTZlOWdwSm1nOEZhOU9JS0JmbU80by1CdWk0dG5YTkZobmt6MUtFc2VqQ3hwekVJMFc0NGdsRGZUR1dDb2tiTnFyXzJXTkN4MDNmMVdWTDFOUWJ3",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-05T07:43:15+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-05T07:43:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzlNa1VEX2xXMTVORThGeXAyQVQ1ZTh3VlY4VFZYVzVzVUVlQ3Q1OEo2THN6Ym40MUEtRmJfX19xbFREMHkwQ3U5QmFhbUs4ckRhM3J3VXhvMEhWUWRKRTZlOWdwSm1nOEZhOU9JS0JmbU80by1CdWk0dG5YTkZobmt6MUtFc2VqQ3hwekVJMFc0NGdsRGZUR1dDb2tiTnFyXzJXTkN4MDNmMVdWTDFOUWJ3"
-    },
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-05T07:43:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEswQWVNU1NYT2hQQm1rM2FNQnM2b3ZOUjhOb1d3YWtBcFE3X1pOVXdhZERaQ1lhVEk0VjlhSE9fNGRtd05qUlZwLVNWV2F6Y0pFeTNkWm1RcW9uQm1mcS1oR3pDSERlUXk4LWhMaTJFN0RRM0pmNWlkRVpmeVp5ZHZyVQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-05T07:43:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzVhM0wxN2kzNHYyU2RHM1VVQ3g1UjdYWV80UEgyOFR3YzNqQ000RWpNSTZPTkR0ODA0dEM3UnV3cmVKMGRYbmd4OWZoRnVyck5ldHBVNHZISXlTREZTR3ZaaDJISENDV3NZNmp4V3BaUXVEMTRueTdlSElyWHJDSnpNMUZ1Qi1WdEdfX1d0SGpKdnlrTk5F"
-    },
-    {
-     "name": "bloomberg.com",
-     "published_at": "2026-10-05T07:43:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUFlWbk1Na0FTOElXZEpkVzBkZDUydHdBaWlrTzZnRmVSVndLam9yQ1JEVUgybVlGNll1STl4RjNXVlJRaFpVRG53aDlGcHZveFc3UjJyRUNVZ04tUV9iSEVybF9ndlllUWRWNkFhZjZkNDJYSlZjNGhQMDdLbGZZY25HS3Z5bG9UZmZJRXVVRnYyVGktWkFmWDVtT3JpSlBCVjVZYUlzUktYNllvRTl2NjV5YkdrU0FtWnpOSjhCMmE3TE5kaDE1ZjQ2UkgtTDFn"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-05T07:43:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzVhM0wxN2kzNHYyU2RHM1VVQ3g1UjdYWV80UEgyOFR3YzNqQ000RWpNSTZPTkR0ODA0dEM3UnV3cmVKMGRYbmd4OWZoRnVyck5ldHBVNHZISXlTREZTR3ZaaDJISENDV3NZNmp4V3BaUXVEMTRueTdlSElyWHJDSnpNMUZ1Qi1WdEdfX1d0SGpKdnlrTk5F"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "鸿海销售额超预期，受益于AI热潮",
-   "title_zh": "英伟达合作伙伴鸿海销售额超预期，受益于AI热潮",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.4,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "8dca1179e236",
-   "title": "A Soft Jobs Report Takes the Heat Off Rates, and Nvidia Closes In on $6 Trillion - ChartMill",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONG5GemNVbGxwODZwVHpGVE9hWmN1VkJBRE9lOGsxZEltcVJNcnM1aWc5RmJmVEFNOElXVW9HYjRsVllYUGpZNE9VME5SYnd3SDFibUVPM0lxNjlwMUJuMWF2cGk2NlNIXzRVUDZoMU5hNm14cWFRU1BvRGdyNFRIa0ZaaE5MZE1pek1Tc0tDYUNrLTRzLXFxYkpQbDNCRXdPSktNZTR5WXRMMUZZdTFNcnpCNXhNZTF0bmhxdHJfa1I3MnNiTDd3aQ",
-   "source": "ChartMill",
-   "published_at": "2026-10-05T07:29:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ChartMill",
-     "published_at": "2026-10-05T07:29:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONG5GemNVbGxwODZwVHpGVE9hWmN1VkJBRE9lOGsxZEltcVJNcnM1aWc5RmJmVEFNOElXVW9HYjRsVllYUGpZNE9VME5SYnd3SDFibUVPM0lxNjlwMUJuMWF2cGk2NlNIXzRVUDZoMU5hNm14cWFRU1BvRGdyNFRIa0ZaaE5MZE1pek1Tc0tDYUNrLTRzLXFxYkpQbDNCRXdPSktNZTR5WXRMMUZZdTFNcnpCNXhNZTF0bmhxdHJfa1I3MnNiTDd3aQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达市值逼近6万亿美元",
-   "title_zh": "就业数据走软缓解利率压力，英伟达市值逼近6万亿美元",
-   "sentiment": 1
   }
  ]
 }
