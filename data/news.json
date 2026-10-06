@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T08:51:28.261168+00:00",
+ "updated_at": "2026-10-06T09:06:27.511832+00:00",
  "market": {
   "price": 238.9,
   "change_pct": 2.12,
@@ -10,8 +10,8 @@
    "days_left": 42
   },
   "day_sentiment": {
-   "avg": 0.56,
-   "count": 18
+   "avg": 0.5,
+   "count": 20
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.56（18条已评分）"
+     "note": "今日新闻情绪 +0.50（20条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.9,
    "ma20": 224.21,
-   "as_of": "2026-10-06T08:51:28.250266+00:00"
+   "as_of": "2026-10-06T09:06:27.502987+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -62,23 +62,84 @@
  },
  "stories": [
   {
+   "id": "89d73b3b3276",
+   "title": "Nvidia, Lucid, Nike, and More Stocks That Explain Today’s Market - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQZUQ1MzBIN0NFZ3FzTFZodU84NnlYNUgwWWV3OWVaSUZ4d1RiRkhwd0tNRkZmaXNTa1ZCS1FRa2tvUFZicEtGRWZDdWlsczNMdF9TZmRoVlhIX0d6dkhZUndtdzU",
+   "source": "Barron's",
+   "published_at": "2026-10-06T08:57:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-06T08:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQZUQ1MzBIN0NFZ3FzTFZodU84NnlYNUgwWWV3OWVaSUZ4d1RiRkhwd0tNRkZmaXNTa1ZCS1FRa2tvUFZicEtGRWZDdWlsczNMdF9TZmRoVlhIX0d6dkhZUndtdzU"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
+   "id": "49920d5db41c",
+   "title": "Nvidia Stock Chases $6 Trillion Mark After Record High. How It Gets There. - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmctTlFGdm13SGRkLWlpc0lXbmUwTGhGeUxWU1EtZ2ljV1E3SjhiNS1rYi1WenhTTGZIX0pRcEpua1Y3em9kWVBLaTZqcGxwc3dRMGliWXl5TTRTZnVvZzBEYS03VXlCM3F4RzBQOHY5UktiSHdRYWk3b0ZRU0x4VU5tS2w",
+   "source": "Barron's",
+   "published_at": "2026-10-06T08:50:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-06T08:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmctTlFGdm13SGRkLWlpc0lXbmUwTGhGeUxWU1EtZ2ljV1E3SjhiNS1rYi1WenhTTGZIX0pRcEpua1Y3em9kWVBLaTZqcGxwc3dRMGliWXl5TTRTZnVvZzBEYS03VXlCM3F4RzBQOHY5UktiSHdRYWk3b0ZRU0x4VU5tS2w"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "b601556605b0",
+   "title": "Nvidia Heads for $6 Trillion Value With Chipmaker Back at Record - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaC1sSmpWVUxkVXZSLXM3dWU5azIzMFRlZjRMMllaNGVMZGp2MmhxMDVWOVlNdS1JaE5OSU4tUTZGV2hRVG1VQ00yVmJLRHRFTE9JRHRRRkxnR3Z0eXh5SWMzMjc0TGM0MlJKZ3Q0Qm5tQ2JRcG5UTG1HVEdHY256dkRFX3Ywc1JObE00empFNjRIM19seXlSSWRyYmlkSkg3VUdpVU9fb25jUjJGaWJGR3BzaVE",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-06T08:43:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-06T08:43:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaC1sSmpWVUxkVXZSLXM3dWU5azIzMFRlZjRMMllaNGVMZGp2MmhxMDVWOVlNdS1JaE5OSU4tUTZGV2hRVG1VQ00yVmJLRHRFTE9JRHRRRkxnR3Z0eXh5SWMzMjc0TGM0MlJKZ3Q0Qm5tQ2JRcG5UTG1HVEdHY256dkRFX3Ywc1JObE00empFNjRIM19seXlSSWRyYmlkSkg3VUdpVU9fb25jUjJGaWJGR3BzaVE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "1de3015dcc38",
    "title": "华为徐直军：昇腾中国市场份额已超英伟达，中国芯片自主化是必然之路 - 新浪财经",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tWk40QTRLZEVuSDZ1MlBGcHB0TkZkZlpueURrYUUzS3JKN2N0elhEYTRWY2hBaXhsN1A5TzBCZ0xQNDRrVFVQQmh2dlBrWDdBd1h0YjdMUFREYXdjdmlDQnFXYXZ3aHBfbE02bTd6cGViMEtkTFZ3amxiaEZmM3c",
    "source": "新浪财经",
    "published_at": "2026-10-06T08:33:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-06T08:33:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tWk40QTRLZEVuSDZ1MlBGcHB0TkZkZlpueURrYUUzS3JKN2N0elhEYTRWY2hBaXhsN1A5TzBCZ0xQNDRrVFVQQmh2dlBrWDdBd1h0YjdMUFREYXdjdmlDQnFXYXZ3aHBfbE02bTd6cGViMEtkTFZ3amxiaEZmM3c"
+    },
+    {
+     "name": "t.cj.sina.cn",
+     "published_at": "2026-10-06T08:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80RjVUT2ZWcy04Wl9EWkdlNnhsZ21uT3FvM09ROThKUy1ETVVkUkVHNVB3Z1duaWZsM2xNZ3VoVnBROHhiWnZLMmRqVlc1WE1xV21ic294LVFjOFpnU09RbUVuVEhubXk3Vml1SnI3bFduQQ"
+    },
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-06T08:55:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjUGMwR1ozcEowS1g1aW1nUW8wYXNjVXBjQW5rWlpaLWFqSGJjNHoxMnh3MUNIeWFuTG1NektPZDFrSmxiSm1iS1F6Q0JTRFZCNUhB"
     }
    ],
    "category": "产品技术",
    "session": "盘前",
-   "title_zh": "华为徐直军：昇腾中国市场份额已超英伟达，中国芯片自主化是必然之路 - 新浪财经",
    "zh_summary": "华为称昇腾中国份额已超英伟达",
+   "title_zh": "华为徐直军：昇腾中国市场份额已超英伟达，中国芯片自主化是必然之路 - 新浪财经",
    "sentiment": -1
   },
   {
@@ -87,18 +148,23 @@
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR0pTR0MwWTFwWFBCdFlpOTRVNmhXb0JVcEVUbVJNcVgySkU1OVk1WWRpUDlBY3JlRS1uZFB2TFhKZk5kRE8zV3gtOVpuUWQ0ejFPbDFkN3JmZ3ctWGNGQ1RuTGRYbDZqcG1XeXdRMHZvTnFlTDVDMHl6VTdEUXpkaVB5STd3SjhNNjBnaHI4S0s5RjFoQmM2R2VKOHRyOHgyeEY3MUdMTzdVWnlxbUxzMjlrOGY0TzNhLXVYVTk5a2UyQTh1bHhLNGotSTM4V3RDU0dPTlNuWXNBWlU",
    "source": "Stocktwits",
    "published_at": "2026-10-06T08:06:38+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Stocktwits",
      "published_at": "2026-10-06T08:06:38+00:00",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR0pTR0MwWTFwWFBCdFlpOTRVNmhXb0JVcEVUbVJNcVgySkU1OVk1WWRpUDlBY3JlRS1uZFB2TFhKZk5kRE8zV3gtOVpuUWQ0ejFPbDFkN3JmZ3ctWGNGQ1RuTGRYbDZqcG1XeXdRMHZvTnFlTDVDMHl6VTdEUXpkaVB5STd3SjhNNjBnaHI4S0s5RjFoQmM2R2VKOHRyOHgyeEY3MUdMTzdVWnlxbUxzMjlrOGY0TzNhLXVYVTk5a2UyQTh1bHhLNGotSTM4V3RDU0dPTlNuWXNBWlU"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-06T08:39:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSjRZSHNfYlFWZXkwWHBKOGF4eTZkNC1YcHp4TTEtb212NjJnZlByc0dFcTdRS2FSRXZfbVUtcFVRR29VZmtpdTNCcWRjQjFnVWNRWWFQTnRXalZDTVlEZVB0SXdNRmI3WmxFREIwRGszXzF4RFR0VExJVmswbUJxMDhFdGVNenhOYlVuSlZhaUZFLTJQVTdiYktR"
     }
    ],
    "category": "市场宏观",
    "session": "盘前",
-   "title_zh": "道指纳指期货盘前走高，NVDA等多只股受关注",
    "zh_summary": "道指纳指期货盘前走高",
+   "title_zh": "道指纳指期货盘前走高，NVDA等多只股受关注",
    "sentiment": 1
   },
   {
@@ -287,6 +353,23 @@
    "sentiment": 1
   },
   {
+   "id": "79e284cf5857",
+   "title": "NVIDIA Corporation $NVDA Stock Purchased by Robinhood Asset Management LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXVRbTNjUDdKajhiX1hGc2VSaU5MV2RWRjNaclFXUDRYOFM1U1M1OWp2TF8zV0lULXVxV2hVNkxRWmsycXNfQ2s0Y2JleUZMYTI0VUdUUlFraWFmSmptYVhXVlpEREE5cmszYW95SkVwV04zaTY4bWNvc3R0bTVabGZZa25VcGJLTUtSRFVzTzNLa1R0NHNHSG5wc3hRcFJQOGYxQk1kUmk1OUxOOHk4WGhaR1MtUXZXS2I2R1ZjY3NJaXI1UVRmRFFTUWJ4ekU",
+   "source": "MarketBeat",
+   "published_at": "2026-10-06T07:32:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-06T07:32:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXVRbTNjUDdKajhiX1hGc2VSaU5MV2RWRjNaclFXUDRYOFM1U1M1OWp2TF8zV0lULXVxV2hVNkxRWmsycXNfQ2s0Y2JleUZMYTI0VUdUUlFraWFmSmptYVhXVlpEREE5cmszYW95SkVwV04zaTY4bWNvc3R0bTVabGZZa25VcGJLTUtSRFVzTzNLa1R0NHNHSG5wc3hRcFJQOGYxQk1kUmk1OUxOOHk4WGhaR1MtUXZXS2I2R1ZjY3NJaXI1UVRmRFFTUWJ4ekU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "498cbfc9d97e",
    "title": "Nvidia-Backed Reflection AI Targets Low-Cost Chinese Models Like DeepSeek and Kimi - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUdNbzk3OUNsZlNoWGZjZmhkZ0xNRjZrU05hMXphczJ4aDNvaDhMNlVDS1pYVzBHcU9DYUl3Yl9qVGtOeUZiS0JTNmVWck1weHh1ZTJFNDRHeV91dkRxSUx4WFBGLVVNRnBXMHVoc29pZklhczRwckcwMFhnaWVSQ0JYWWd1MnU1ektXOVZkTm9QbzR0cHlVUWRlUWJzTldoZEJwOQ",
@@ -412,10 +495,15 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcE00WkFocTh3N21ESGZ6Sk9DMW5GTXpkWEJha0YzU0s5WGcyWHg2U1dyeFdEclBHVHlxNTNRMlZwdWd3TWlnNmVjQ1YyVEwxc1lRZWdETWE0NGJzSEpJLVF1MGt4ZTMxem9LaHVYc3M5Und4TGYzOHZidjBUQnVpYXFJNkRXODM2YnNFSEZ4UUs2dFdhN0VDYXVSYXFzQjlhbDdsNldLY0U3TWZo",
    "source": "富途牛牛",
    "published_at": "2026-10-06T06:50:53+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "富途牛牛",
+     "published_at": "2026-10-06T06:50:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcE00WkFocTh3N21ESGZ6Sk9DMW5GTXpkWEJha0YzU0s5WGcyWHg2U1dyeFdEclBHVHlxNTNRMlZwdWd3TWlnNmVjQ1YyVEwxc1lRZWdETWE0NGJzSEpJLVF1MGt4ZTMxem9LaHVYc3M5Und4TGYzOHZidjBUQnVpYXFJNkRXODM2YnNFSEZ4UUs2dFdhN0VDYXVSYXFzQjlhbDdsNldLY0U3TWZo"
+    },
+    {
+     "name": "news.futunn.com",
      "published_at": "2026-10-06T06:50:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcE00WkFocTh3N21ESGZ6Sk9DMW5GTXpkWEJha0YzU0s5WGcyWHg2U1dyeFdEclBHVHlxNTNRMlZwdWd3TWlnNmVjQ1YyVEwxc1lRZWdETWE0NGJzSEpJLVF1MGt4ZTMxem9LaHVYc3M5Und4TGYzOHZidjBUQnVpYXFJNkRXODM2YnNFSEZ4UUs2dFdhN0VDYXVSYXFzQjlhbDdsNldLY0U3TWZo"
     }
@@ -833,7 +921,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQldtajhXbkxwS3puWUQzelA0ZWNiN1o5c3BXaHNhMGl0Uzc5dUYtVkFuS1B5ZFZIcVprclNqUVRfb1VjMWpVUE5Lem1TbXh3eGtwcndueGJFOGpqbkNVUkdSbWtaZmNxcVl6QkpLaW9SbmluaGlHMmNBYnUwdUxQdmNQRWcyLWE5",
    "source": "搜狐网",
    "published_at": "2026-10-06T02:18:07+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
@@ -842,6 +930,11 @@
     },
     {
      "name": "凤凰网科技",
+     "published_at": "2026-10-06T02:30:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wTW9PT2Npbm53ZTZIR1ZfX1FqUWdlaXc5X2FReEJubno1V1N6Q0ppS0FJRUxHNlFPcGZXSUJjbWJkbjRESElONElWV1c"
+    },
+    {
+     "name": "tech.ifeng.com",
      "published_at": "2026-10-06T02:30:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wTW9PT2Npbm53ZTZIR1ZfX1FqUWdlaXc5X2FReEJubno1V1N6Q0ppS0FJRUxHNlFPcGZXSUJjbWJkbjRESElONElWV1c"
     }
@@ -858,7 +951,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uVzQxUFJTWXZIWl9pOHFDbVNRVVRHY2U3MzNUcU9uOXFtN0o5TmE1NVZmZHlDaFEySzlkTTdLenluTk5sYk4zS1F0bjNRdw",
    "source": "ithome.com",
    "published_at": "2026-10-06T01:51:00+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "ithome.com",
@@ -882,6 +975,11 @@
     },
     {
      "name": "凤凰网科技",
+     "published_at": "2026-10-06T02:01:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kVnlyRlRXNXZpajFtcTlDdy1iZVRiMkEyY3Z1UVZYSGlpaTJQdGxGNE1VcWp6OGU1S3FacTFXSTUzdG5CMnNzbjd6ZF8"
+    },
+    {
+     "name": "tech.ifeng.com",
      "published_at": "2026-10-06T02:01:06+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kVnlyRlRXNXZpajFtcTlDdy1iZVRiMkEyY3Z1UVZYSGlpaTJQdGxGNE1VcWp6OGU1S3FacTFXSTUzdG5CMnNzbjd6ZF8"
     }
@@ -949,8 +1047,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "英伟达参投Reactor的A轮融资，其估值达7400万美元",
    "zh_summary": "英伟达参投Reactor的A轮融资",
+   "title_zh": "英伟达参投Reactor的A轮融资，其估值达7400万美元",
    "sentiment": 1
   },
   {
@@ -1099,7 +1197,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yNmZ5OGVxcXI5amxfS04ybk9ubi1Bci05MGVmSFFrT1lheTJqZjZiS1VJaWpnZXFDQ1NzNElISjFZekltNThYXzdPMU0wYUpzSFB4eG1fS0x3X09ZS3FXZU9KWUtZcENqQVNwZTAwWlU",
    "source": "t.cj.sina.cn",
    "published_at": "2026-10-06T00:42:20+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "t.cj.sina.cn",
@@ -1115,10 +1213,16 @@
      "name": "凤凰网科技",
      "published_at": "2026-10-06T00:43:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkZ21BNGctcG95ZnFxU1pfUlJmRjFhOTlQXzdvY0dYT0xMTHFmNWRJSXRTQWp5Z1U5YUsxZnJDajAwVVNtRUZrTWRWRzU"
+    },
+    {
+     "name": "tech.ifeng.com",
+     "published_at": "2026-10-06T00:43:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkZ21BNGctcG95ZnFxU1pfUlJmRjFhOTlQXzdvY0dYT0xMTHFmNWRJSXRTQWp5Z1U5YUsxZnJDajAwVVNtRUZrTWRWRzU"
     }
    ],
    "category": "政策监管",
    "session": "盘后",
+   "breaking": true,
    "zh_summary": "英伟达投资AI公司发布首款开放权重模型",
    "title_zh": "英伟达投资的Reflection AI发布首款开放权重模型Beam",
    "sentiment": 1
@@ -1412,6 +1516,23 @@
    "zh_summary": "英伟达强势反弹，入选IBD优选名单",
    "title_zh": "英伟达强势反弹，领衔17只顶级股票上榜IBD",
    "sentiment": 1
+  },
+  {
+   "id": "1fc978633bec",
+   "title": "Jacobs to deploy digital twin at NVIDIA R&D facility - Engineering.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFY5aDhJOGxzaHE4c0k4WkdMQ2dheHlWak12cl92cmFpbEt1dFJaSXZTRGxlWmplUXZZUm5pSUdXYkFCajVOb1ZhSi1TMC0tRURicWZkekM4Yk5PcGduZjBBWG1pLUtSUFN6b1NHOWlHZGhQZGRMRW5MN3psYkhHNFdoRnk2TWM",
+   "source": "Engineering.com",
+   "published_at": "2026-10-05T22:50:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Engineering.com",
+     "published_at": "2026-10-05T22:50:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZFY5aDhJOGxzaHE4c0k4WkdMQ2dheHlWak12cl92cmFpbEt1dFJaSXZTRGxlWmplUXZZUm5pSUdXYkFCajVOb1ZhSi1TMC0tRURicWZkekM4Yk5PcGduZjBBWG1pLUtSUFN6b1NHOWlHZGhQZGRMRW5MN3psYkhHNFdoRnk2TWM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "fb904380f956",
@@ -1789,8 +1910,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "英伟达、特斯拉等60多只美股或将实现链上全天候交易",
    "zh_summary": "美股或将实现链上全天候交易",
+   "title_zh": "英伟达、特斯拉等60多只美股或将实现链上全天候交易",
    "sentiment": 0
   },
   {
@@ -7888,10 +8009,15 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHl4bl9TcmNTU2lXZlEwLUNYZ1RLMVNjekNtTFZlVGgzY05yaTUtQTl3U0FWbXNzUnZpWGRfQmUtZzJyUEVIcE55a0tIcHNrQ1FVWGEtMmtNYXJGVWN6SEhncmQ5Ui01TXNKZnZxZ3NvY2p0ZGdaT3R4OW9xbWV1VGY3TE5vRzQzcm5jbzNxRjBNVlRKOEtORFl5aE5LSS1kNGNB",
    "source": "富途牛牛",
    "published_at": "2026-10-04T15:05:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "富途牛牛",
+     "published_at": "2026-10-04T15:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHl4bl9TcmNTU2lXZlEwLUNYZ1RLMVNjekNtTFZlVGgzY05yaTUtQTl3U0FWbXNzUnZpWGRfQmUtZzJyUEVIcE55a0tIcHNrQ1FVWGEtMmtNYXJGVWN6SEhncmQ5Ui01TXNKZnZxZ3NvY2p0ZGdaT3R4OW9xbWV1VGY3TE5vRzQzcm5jbzNxRjBNVlRKOEtORFl5aE5LSS1kNGNB"
+    },
+    {
+     "name": "news.futunn.com",
      "published_at": "2026-10-04T15:05:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHl4bl9TcmNTU2lXZlEwLUNYZ1RLMVNjekNtTFZlVGgzY05yaTUtQTl3U0FWbXNzUnZpWGRfQmUtZzJyUEVIcE55a0tIcHNrQ1FVWGEtMmtNYXJGVWN6SEhncmQ5Ui01TXNKZnZxZ3NvY2p0ZGdaT3R4OW9xbWV1VGY3TE5vRzQzcm5jbzNxRjBNVlRKOEtORFl5aE5LSS1kNGNB"
     }
@@ -7926,135 +8052,6 @@
    "zh_summary": "Reflection AI筹备发布首个开源模型",
    "title_zh": "英伟达支持的Reflection AI筹备发布首个开放权重模型",
    "sentiment": 1
-  },
-  {
-   "id": "8c32da4ce633",
-   "title": "Michael Burry pulls an old playbook into the Nvidia fight - thestreet.com",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWhscHhvcExMY0lUZmt0UmwxTXcwa0NoYlNocHU2UDY3V0c1OHF5aC1WN09VYU0yeWFYQVBNcklqUkVleWRKQVdKa25lcnhjSTBqekVtZmxDLXVVSEJCdVJkTUl4V0JuZDh2VlNTVEpCX09tclN5dzNLVXJNM3pBVWZuMTVyWnFUSURTWDNTanJVN0JNT2FxbTg2Zw",
-   "source": "thestreet.com",
-   "published_at": "2026-10-04T14:33:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "thestreet.com",
-     "published_at": "2026-10-04T14:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWhscHhvcExMY0lUZmt0UmwxTXcwa0NoYlNocHU2UDY3V0c1OHF5aC1WN09VYU0yeWFYQVBNcklqUkVleWRKQVdKa25lcnhjSTBqekVtZmxDLXVVSEJCdVJkTUl4V0JuZDh2VlNTVEpCX09tclN5dzNLVXJNM3pBVWZuMTVyWnFUSURTWDNTanJVN0JNT2FxbTg2Zw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-04T17:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVRzZlRNekJKQVNSUWZQWmVDNnU0MkFyYml2bGNYX21SYVBKWTd1endhNGVhcG5WUWlDdmZFYWNtbm5namNrUnZMSFRnWndyVFFPT0R2OURKcDZiM0lRaTEwbGVDZkpRcFdSWUU4OVhib0ZScTZvRF85bEszby1Lc2hvdndjVlRIclp3Qlk3dlp3TGw0MXpKLW1WZHp0UQ"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-04T17:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVRzZlRNekJKQVNSUWZQWmVDNnU0MkFyYml2bGNYX21SYVBKWTd1endhNGVhcG5WUWlDdmZFYWNtbm5namNrUnZMSFRnWndyVFFPT0R2OURKcDZiM0lRaTEwbGVDZkpRcFdSWUU4OVhib0ZScTZvRF85bEszby1Lc2hvdndjVlRIclp3Qlk3dlp3TGw0MXpKLW1WZHp0UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "伯里用老套路参与英伟达多空对决",
-   "title_zh": "迈克尔·伯里用老套路介入英伟达对决",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": -0.4,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "308e356efb66",
-   "title": "Modder brings Nvidia Pascal GPU support to Windows XP 32-bit — modded drivers unlock better DisplayPort and HDMI support for modern monitors - Tom's Hardware",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQT25oRzR3UnlDOVFxNElnbE0taU9WS01yQU1nazRlVmt3RDhtVDA3RVc1X0hwaWF0T1g2UENxNGc2Um5OSGtGeElKM0NOQzFqa0NuU2NDa3ZBSExSMXo2dzk0T2FOTFFybnpzMFhReHcwTFk4ZVhqUUhPNTU3VzBmOGcwVlBlc3ZEWVFpbmpfdlJZUERNRjdJTm9RRmt4alVqNEtSd2RGNTcybTFWWHg0TGxVMWR3MTJGR2dXN0Z6eHJ6bFRIYW51U2M2b2VXNXhCMVMwWFNGcTRaOWFyVC05MXRwakFwVDNsSlRhbl9idWs5WE15LXFDcDJIMW9BbTFqWnczNjNKSGhaVGNYN1l6SVNUWWxyOHJqTHNrWUt3",
-   "source": "Tom's Hardware",
-   "published_at": "2026-10-04T14:25:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Tom's Hardware",
-     "published_at": "2026-10-04T14:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQT25oRzR3UnlDOVFxNElnbE0taU9WS01yQU1nazRlVmt3RDhtVDA3RVc1X0hwaWF0T1g2UENxNGc2Um5OSGtGeElKM0NOQzFqa0NuU2NDa3ZBSExSMXo2dzk0T2FOTFFybnpzMFhReHcwTFk4ZVhqUUhPNTU3VzBmOGcwVlBlc3ZEWVFpbmpfdlJZUERNRjdJTm9RRmt4alVqNEtSd2RGNTcybTFWWHg0TGxVMWR3MTJGR2dXN0Z6eHJ6bFRIYW51U2M2b2VXNXhCMVMwWFNGcTRaOWFyVC05MXRwakFwVDNsSlRhbl9idWs5WE15LXFDcDJIMW9BbTFqWnczNjNKSGhaVGNYN1l6SVNUWWxyOHJqTHNrWUt3"
-    },
-    {
-     "name": "tomshardware.com",
-     "published_at": "2026-10-04T15:30:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQT25oRzR3UnlDOVFxNElnbE0taU9WS01yQU1nazRlVmt3RDhtVDA3RVc1X0hwaWF0T1g2UENxNGc2Um5OSGtGeElKM0NOQzFqa0NuU2NDa3ZBSExSMXo2dzk0T2FOTFFybnpzMFhReHcwTFk4ZVhqUUhPNTU3VzBmOGcwVlBlc3ZEWVFpbmpfdlJZUERNRjdJTm9RRmt4alVqNEtSd2RGNTcybTFWWHg0TGxVMWR3MTJGR2dXN0Z6eHJ6bFRIYW51U2M2b2VXNXhCMVMwWFNGcTRaOWFyVC05MXRwakFwVDNsSlRhbl9idWs5WE15LXFDcDJIMW9BbTFqWnczNjNKSGhaVGNYN1l6SVNUWWxyOHJqTHNrWUt3"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "魔改驱动让Win XP支持英伟达显卡",
-   "title_zh": "魔改驱动为Win XP带来英伟达Pascal显卡支持",
-   "sentiment": 0
-  },
-  {
-   "id": "5d171aa64e35",
-   "title": "Nvidia and 3 AI Infrastructure Stocks Backed by Big R and D Spending - Simply Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWNPRUNmVW1wa1JjTC1BQkpXSmEyVjlCNTRPUmpfVHk0Sy1WRmc2NTV5VjdkbElRZUFkS2xrcDVxMEV3WVpodHhWZ280SGlEekg4T1hHQXhpQ25abHVGRmtTckFlcXE5dGZpUGJYczA5eGkwOElBNWpfd2F1cmdfVlRXOVBuWU1Sdk5nR2VpNWZmQkNkdmpuVEZiOHM1VURGcGJnWWN5aXZwRTN0S3dreXBXc1BkUklwNFkwRkpYLUgxeEs4SFVEWFc0ZHBHd3dzQnNpOVVLcXcyV3PSAeABQVVfeXFMTkUxVW5YR0w1RGtKTU9ramdBenZUM2F2d2NFdkZ4MUZiMU94RWxkZnZoMUhsaF9MXzM3MUxHQ3JUR0otbGFlTDFudVFSdjNCZW5KRzJVVzZmYll4NXR1b2toeFBjLVdDVHhNVkI0MUdZRHJlVlYwc080ZlZ3bHYxeWphdXlmQU9XVXVEZDVWekFFYUNzQ2FEanhYSUFLQmRtNWhPOFY3eXBaNlZvclVVS1hEQzgtWlRkZl9YUzhLVk5oMjhMc18zck1FcFdCdVlJNHliNWtWdEx3dHlVZElkWGk",
-   "source": "Simply Wall Street",
-   "published_at": "2026-10-04T14:22:05+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Simply Wall Street",
-     "published_at": "2026-10-04T14:22:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWNPRUNmVW1wa1JjTC1BQkpXSmEyVjlCNTRPUmpfVHk0Sy1WRmc2NTV5VjdkbElRZUFkS2xrcDVxMEV3WVpodHhWZ280SGlEekg4T1hHQXhpQ25abHVGRmtTckFlcXE5dGZpUGJYczA5eGkwOElBNWpfd2F1cmdfVlRXOVBuWU1Sdk5nR2VpNWZmQkNkdmpuVEZiOHM1VURGcGJnWWN5aXZwRTN0S3dreXBXc1BkUklwNFkwRkpYLUgxeEs4SFVEWFc0ZHBHd3dzQnNpOVVLcXcyV3PSAeABQVVfeXFMTkUxVW5YR0w1RGtKTU9ramdBenZUM2F2d2NFdkZ4MUZiMU94RWxkZnZoMUhsaF9MXzM3MUxHQ3JUR0otbGFlTDFudVFSdjNCZW5KRzJVVzZmYll4NXR1b2toeFBjLVdDVHhNVkI0MUdZRHJlVlYwc080ZlZ3bHYxeWphdXlmQU9XVXVEZDVWekFFYUNzQ2FEanhYSUFLQmRtNWhPOFY3eXBaNlZvclVVS1hEQzgtWlRkZl9YUzhLVk5oMjhMc18zck1FcFdCdVlJNHliNWtWdEx3dHlVZElkWGk"
-    },
-    {
-     "name": "simplywall.st",
-     "published_at": "2026-10-04T14:22:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSWNPRUNmVW1wa1JjTC1BQkpXSmEyVjlCNTRPUmpfVHk0Sy1WRmc2NTV5VjdkbElRZUFkS2xrcDVxMEV3WVpodHhWZ280SGlEekg4T1hHQXhpQ25abHVGRmtTckFlcXE5dGZpUGJYczA5eGkwOElBNWpfd2F1cmdfVlRXOVBuWU1Sdk5nR2VpNWZmQkNkdmpuVEZiOHM1VURGcGJnWWN5aXZwRTN0S3dreXBXc1BkUklwNFkwRkpYLUgxeEs4SFVEWFc0ZHBHd3dzQnNpOVVLcXcyV3PSAeABQVVfeXFMTkUxVW5YR0w1RGtKTU9ramdBenZUM2F2d2NFdkZ4MUZiMU94RWxkZnZoMUhsaF9MXzM3MUxHQ3JUR0otbGFlTDFudVFSdjNCZW5KRzJVVzZmYll4NXR1b2toeFBjLVdDVHhNVkI0MUdZRHJlVlYwc080ZlZ3bHYxeWphdXlmQU9XVXVEZDVWekFFYUNzQ2FEanhYSUFLQmRtNWhPOFY3eXBaNlZvclVVS1hEQzgtWlRkZl9YUzhLVk5oMjhMc18zck1FcFdCdVlJNHliNWtWdEx3dHlVZElkWGk"
-    }
-   ],
-   "category": "AI需求",
-   "session": "周末",
-   "zh_summary": "英伟达及三只AI基建股靠研发支出支撑",
-   "title_zh": "英伟达及三只AI基建股靠研发支出支撑",
-   "sentiment": 1
-  },
-  {
-   "id": "29da2a970b27",
-   "title": "全球七雄之一黄仁勋身价重回1.4万亿元：还有600多亿在路上|NVIDIA|全球富豪榜|福布斯|英伟达|马斯克_手机新浪网 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00dG5TdHlkTlpBM2FZTEhBV0E1c0xVMTc3OG9wVUptdnZncUhZYzFoQXFwRkYyTFQySHQ0dTRubE1uXy14UC0wNXFiTFJVczFESEJRaE9BTEgxcEJPODUyS05ZcmJhWlFPN3VhUGtUcXNoRjlkbjNlY1Z5bVFnZjg",
-   "source": "新浪财经",
-   "published_at": "2026-10-04T14:18:31+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-04T14:18:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00dG5TdHlkTlpBM2FZTEhBV0E1c0xVMTc3OG9wVUptdnZncUhZYzFoQXFwRkYyTFQySHQ0dTRubE1uXy14UC0wNXFiTFJVczFESEJRaE9BTEgxcEJPODUyS05ZcmJhWlFPN3VhUGtUcXNoRjlkbjNlY1Z5bVFnZjg"
-    },
-    {
-     "name": "finance.sina.cn",
-     "published_at": "2026-10-04T14:18:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNDQ1cjdWa3JmRFZXd2RLSWU4QVd5X0R0RDhlcWU2eF93QktOSVBOaktKbFlzZ1I0VDNDUG56all5LUNlUFgxSGFqSndONi1nUjZ0aUdSUFllU1phSkFnTUFQT1hDTk85WGFOWDUxVVB1bnJEODFObmktZG11X3VfVlMyV0JQLW05N0lCOXJ3SHR5Sk1hdFFvS1ljRzY5ZmNZd3Q4NVQxaWtNSnVZcmRIdHdFRDFsQloyendOWVZaTC1TZUI5MnUxckFtRS1vQ2VheVVKNHk2YURFYjVqSWZaYUhoOG81LXJoRmdab1RDNmFwNGl0WFZxTnJPOHpESEE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "黄仁勋身价重回1.4万亿元",
-   "title_zh": "全球七雄之一黄仁勋身价重回1.4万亿元：还有600多亿在路上|NVIDIA|全球富豪榜|福布斯|英伟达|马斯克_手机新浪网 - 新浪财经",
-   "sentiment": 1
-  },
-  {
-   "id": "913cdc6643a3",
-   "title": "What a $10,000 Investment Split Between Nvidia and Broadcom Could Be Worth by 2030 - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDRzRWg4ajVTNGhGWEUtcHVkTFhNZERlOGtuMjJnWVctd1I4UGVnR1dzN1hVbUJOUmJWaEVFLVljUVRhQ1FXVWdrSk5PV2loZXMyWlNvUzgzVzU1eUJmN2xfYU5HOENnNkxyN21sajdRTXQxZmF5dU9aYk5BN2p3aHlCVDAxSjFsZk9waFNXemQ",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-04T13:25:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-04T13:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDRzRWg4ajVTNGhGWEUtcHVkTFhNZERlOGtuMjJnWVctd1I4UGVnR1dzN1hVbUJOUmJWaEVFLVljUVRhQ1FXVWdrSk5PV2loZXMyWlNvUzgzVzU1eUJmN2xfYU5HOENnNkxyN21sajdRTXQxZmF5dU9aYk5BN2p3aHlCVDAxSjFsZk9waFNXemQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "title_zh": "1万美元分散投英伟达和博通，到2030年能值多少",
-   "zh_summary": "1万美元投英伟达博通到2030年价值几何",
-   "sentiment": 0
   }
  ]
 }
