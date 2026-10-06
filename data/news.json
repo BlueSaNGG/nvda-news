@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T10:36:29.032542+00:00",
+ "updated_at": "2026-10-06T10:51:28.286993+00:00",
  "market": {
   "price": 238.9,
   "change_pct": 2.12,
@@ -10,12 +10,12 @@
    "days_left": 42
   },
   "day_sentiment": {
-   "avg": 0.46,
-   "count": 28
+   "avg": 0.52,
+   "count": 31
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.46（28条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.52（31条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.9,
    "ma20": 224.21,
-   "as_of": "2026-10-06T10:36:29.023254+00:00"
+   "as_of": "2026-10-06T10:51:28.274895+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "dfc962cfd30e",
+   "title": "电力短缺冲击半导体，英伟达和博通短期业绩影响较小|供应链|美国|芯片|能效比|美国数据 - video.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0JfNDAzQ2Etb3JSVVhkQzhSQUtERWNzZ3RIT3dpTjJLTC1ad0lBU3EzTWJpT0U3eGZ1X2FpVGNjdkY0bHNUNDAtQ3c0UlJzM2RFOUdScHpwWkd4enloNERsV3loYmFRWkExTDFKQk5ibUFZWkRjZUF0ZzlFZWluYW1n",
+   "source": "video.sina.com.cn",
+   "published_at": "2026-10-06T10:39:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "video.sina.com.cn",
+     "published_at": "2026-10-06T10:39:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0JfNDAzQ2Etb3JSVVhkQzhSQUtERWNzZ3RIT3dpTjJLTC1ad0lBU3EzTWJpT0U3eGZ1X2FpVGNjdkY0bHNUNDAtQ3c0UlJzM2RFOUdScHpwWkd4enloNERsV3loYmFRWkExTDFKQk5ibUFZWkRjZUF0ZzlFZWluYW1n"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
   {
    "id": "6a0154f2bd73",
    "title": "Options market points to 50% chance Nvidia hits $6T market cap this month - Seeking Alpha",
@@ -332,7 +349,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tWk40QTRLZEVuSDZ1MlBGcHB0TkZkZlpueURrYUUzS3JKN2N0elhEYTRWY2hBaXhsN1A5TzBCZ0xQNDRrVFVQQmh2dlBrWDdBd1h0YjdMUFREYXdjdmlDQnFXYXZ3aHBfbE02bTd6cGViMEtkTFZ3amxiaEZmM3c",
    "source": "新浪财经",
    "published_at": "2026-10-06T08:33:00+00:00",
-   "outlets_count": 6,
+   "outlets_count": 7,
    "outlets": [
     {
      "name": "新浪财经",
@@ -363,6 +380,11 @@
      "name": "搜狐网",
      "published_at": "2026-10-06T09:42:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkFHWXRBd3hNMDZhX3A3TUFzQ3BIRVotMW5ONDZUX2lFSlNodF96QndCaUI5Y0hmTjRwdk13YktHQVFYYXB6cElhS0YwSXQ4SWtSelRiYW9MT01CVmY1OWxITVM4WGFsdVpyUWJZWmRjLWFSVlF6UTU1X0xiUnJ5TnlIdDBTQTNWQXR1VA"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-06T08:50:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zc2lzUlRqNTNZbFBzWmVxWFNKS2UzdmdNeGZSM3I4ajNtem50MDI0UHM1cmFLX2U4V3dGU2t3YTF6Q2pvVi13Y1hmSUxZOFZXLXVGTm4xeTBTSlZtRkNLUTlwVQ"
     }
    ],
    "category": "产品技术",
@@ -8181,31 +8203,6 @@
    "session": "周末",
    "zh_summary": "Dynamo-Triton提速PyTorch推荐",
    "title_zh": "英伟达Dynamo-Triton加速PyTorch推荐模型",
-   "sentiment": 1
-  },
-  {
-   "id": "154cae99e89c",
-   "title": "NVIDIA Tokenised Stock Climbs To $235 On AI Growth Prospects - MarketForces Africa",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3R4QXNsVzRYRHk3MGJIV2QtSmtDVGdReE5kcHR1ZklUcVNwRXI1a2V2T3FjM28zelViMzRQRjhHUFAxZ2t1T2toNjd3LXZacUtKS1F0N2R3ZWgyOEhwX290c3pVVnYzUlNfb1NZRG0tZXU4Y3EzWkt4eGU5MFBqOVlmTFp5QVlHYkJFYUViYw",
-   "source": "MarketForces Africa",
-   "published_at": "2026-10-04T18:22:03+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "MarketForces Africa",
-     "published_at": "2026-10-04T18:22:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3R4QXNsVzRYRHk3MGJIV2QtSmtDVGdReE5kcHR1ZklUcVNwRXI1a2V2T3FjM28zelViMzRQRjhHUFAxZ2t1T2toNjd3LXZacUtKS1F0N2R3ZWgyOEhwX290c3pVVnYzUlNfb1NZRG0tZXU4Y3EzWkt4eGU5MFBqOVlmTFp5QVlHYkJFYUViYw"
-    },
-    {
-     "name": "dmarketforces.com",
-     "published_at": "2026-10-04T18:22:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3R4QXNsVzRYRHk3MGJIV2QtSmtDVGdReE5kcHR1ZklUcVNwRXI1a2V2T3FjM28zelViMzRQRjhHUFAxZ2t1T2toNjd3LXZacUtKS1F0N2R3ZWgyOEhwX290c3pVVnYzUlNfb1NZRG0tZXU4Y3EzWkt4eGU5MFBqOVlmTFp5QVlHYkJFYUViYw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "代币化NVDA股票涨至235美元",
-   "title_zh": "代币化NVIDIA股票涨至235美元，受益于AI增长前景",
    "sentiment": 1
   }
  ]
