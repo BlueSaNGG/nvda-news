@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T18:36:43.068478+00:00",
+ "updated_at": "2026-10-06T18:51:34.504827+00:00",
  "market": {
-  "price": 240.13,
-  "change_pct": 0.51,
+  "price": 240.49,
+  "change_pct": 0.67,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-11-17",
@@ -25,7 +25,7 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +32.2%"
+     "note": "目标价中位数 $318（14家），隐含空间 +32.0%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $240.13 vs 20日均线 $224.93"
+     "note": "现价 $240.49 vs 20日均线 $224.95"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 100,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 32.2,
-   "ma20": 224.93,
-   "as_of": "2026-10-06T18:36:43.046841+00:00"
+   "implied_upside_pct": 32.0,
+   "ma20": 224.95,
+   "as_of": "2026-10-06T18:51:34.496611+00:00"
   },
-  "pe_ttm": 30.5,
+  "pe_ttm": 30.6,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+32.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+32.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "1ed44b3532ce",
+   "title": "What’s Next for Nvidia, Apple, and Other Trillion-Dollar Stocks? - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVBBZVpqNnZPcjJLeUFoTTljZEhhT1JSY2hQcXFaVUFQaWNJdERIc0JvRDJyS0pGcVlhaEprT3d3VWVycVM0YnlCLXExaVUtSGk4ZllnYm1BNkE3YnFCRlJDRVFvb0dVZnJPWFVpUDdOcWE1VHVKRjdncjRLeGNXR3NkV0NIS0pUMHY1SFJuU05uTHFBeUpSa3EzQUk3eXc",
+   "source": "Barron's",
+   "published_at": "2026-10-06T18:22:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-06T18:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVBBZVpqNnZPcjJLeUFoTTljZEhhT1JSY2hQcXFaVUFQaWNJdERIc0JvRDJyS0pGcVlhaEprT3d3VWVycVM0YnlCLXExaVUtSGk4ZllnYm1BNkE3YnFCRlJDRVFvb0dVZnJPWFVpUDdOcWE1VHVKRjdncjRLeGNXR3NkV0NIS0pUMHY1SFJuU05uTHFBeUpSa3EzQUk3eXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "40028acdb0ed",
    "title": "Nvidia Record-Breaking Jump Sends Shockwaves Through Nearly 900 ETFs - Yahoo Finance",
@@ -305,6 +322,23 @@
    "zh_summary": "英伟达Vera HPC基准对标AMD英特尔",
    "title_zh": "英伟达Vera HPC性能基准挑战AMD英特尔",
    "sentiment": 1
+  },
+  {
+   "id": "5a2ba9e78e36",
+   "title": "Nvidia unveils security platform to stop AI agents from going rogue - AP News",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw",
+   "source": "AP News",
+   "published_at": "2026-10-06T15:58:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "AP News",
+     "published_at": "2026-10-06T15:58:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "0a21aa054b58",
@@ -3884,6 +3918,23 @@
     "pct": 0.14,
     "window_h": 0.1
    }
+  },
+  {
+   "id": "7672885068b0",
+   "title": "隔夜美股爆发！纳指创新高，英伟达收涨，中概科技龙头拉升 - 中国经营网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oMkx5S21LczBBYWZXVnQ5TnNwNGEwazRZVlBIbGVHZ1FyVzNNQXRTNGJmZWRxYlNsaVptZ2htZnJnV3lrZ2VZTXRwS1RtVzdBWmhDcTlXQzZqYjFXTm1lTmlR",
+   "source": "中国经营网",
+   "published_at": "2026-10-06T02:41:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中国经营网",
+     "published_at": "2026-10-06T02:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oMkx5S21LczBBYWZXVnQ5TnNwNGEwazRZVlBIbGVHZ1FyVzNNQXRTNGJmZWRxYlNsaVptZ2htZnJnV3lrZ2VZTXRwS1RtVzdBWmhDcTlXQzZqYjFXTm1lTmlR"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘后"
   },
   {
    "id": "4d708f6855d5",
@@ -8144,76 +8195,6 @@
    "zh_summary": "亚马逊拟将80亿美元英伟达芯片移出资产负债表",
    "title_zh": "亚马逊拟转移80亿美元英伟达芯片",
    "sentiment": -1
-  },
-  {
-   "id": "98930e76fdd1",
-   "title": "NVIDIA Head of Sustainability: how to accelerate America’s nuclear energy renaissance - Fortune",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSTdZVlFIS3lMeGUtZGx5QlBZakRZemRFRlZtTUZLd0FvbXZGWHJES2VKVXVSdXBaNmh1NV9aVFBWc01MbkpHRkdES3p0ZzVCUGpNS2pUbk1ZWlZsSUxwUVlGT3VtT2JEODVFN2w4dHJMS19SZkkwY2kzdmxBZw",
-   "source": "Fortune",
-   "published_at": "2026-10-05T12:30:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Fortune",
-     "published_at": "2026-10-05T12:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSTdZVlFIS3lMeGUtZGx5QlBZakRZemRFRlZtTUZLd0FvbXZGWHJES2VKVXVSdXBaNmh1NV9aVFBWc01MbkpHRkdES3p0ZzVCUGpNS2pUbk1ZWlZsSUxwUVlGT3VtT2JEODVFN2w4dHJMS19SZkkwY2kzdmxBZw"
-    },
-    {
-     "name": "fortune.com",
-     "published_at": "2026-10-05T12:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YSTdZVlFIS3lMeGUtZGx5QlBZakRZemRFRlZtTUZLd0FvbXZGWHJES2VKVXVSdXBaNmh1NV9aVFBWc01MbkpHRkdES3p0ZzVCUGpNS2pUbk1ZWlZsSUxwUVlGT3VtT2JEODVFN2w4dHJMS19SZkkwY2kzdmxBZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达高管谈加速美国核能复兴",
-   "title_zh": "英伟达高管谈如何加速美国核能复兴",
-   "sentiment": 0
-  },
-  {
-   "id": "772033376d1c",
-   "title": "NVIDIA Shield TV Pro Gets a $100 Price Increase Bringing It to $299 as the Non-Pro Version Ceases Production - The FPS Review",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUxfR1dXZmxoQnY1QktvcTl2alBNRXAxbTBNMmJUMEFTOVNMeWk2TE9uR2hFTlJYX0w0NmRPZElmTmxFN01IZ1p5ZV9DQjJNaGJ0LV9VUmQ5dDVEVXNqUGZfYTdUcTZKQVJBLU0zOVozYXBJaHVTeGVLbThOR2VIcHJudHBiVjZJbm5BUTVNd1JmT3Q0cHZDeGhicHJhdXhFckxZWlZPVm1DNXZzcWFibDFSQVZtbXlERnJ3WXRYVDVwQUdqeUFmU2VNNmFZWGd4amNBS3RWWjRLTXVoYVE3Yw",
-   "source": "The FPS Review",
-   "published_at": "2026-10-05T12:29:25+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The FPS Review",
-     "published_at": "2026-10-05T12:29:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUxfR1dXZmxoQnY1QktvcTl2alBNRXAxbTBNMmJUMEFTOVNMeWk2TE9uR2hFTlJYX0w0NmRPZElmTmxFN01IZ1p5ZV9DQjJNaGJ0LV9VUmQ5dDVEVXNqUGZfYTdUcTZKQVJBLU0zOVozYXBJaHVTeGVLbThOR2VIcHJudHBiVjZJbm5BUTVNd1JmT3Q0cHZDeGhicHJhdXhFckxZWlZPVm1DNXZzcWFibDFSQVZtbXlERnJ3WXRYVDVwQUdqeUFmU2VNNmFZWGd4amNBS3RWWjRLTXVoYVE3Yw"
-    },
-    {
-     "name": "thefpsreview.com",
-     "published_at": "2026-10-05T12:29:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUxfR1dXZmxoQnY1QktvcTl2alBNRXAxbTBNMmJUMEFTOVNMeWk2TE9uR2hFTlJYX0w0NmRPZElmTmxFN01IZ1p5ZV9DQjJNaGJ0LV9VUmQ5dDVEVXNqUGZfYTdUcTZKQVJBLU0zOVozYXBJaHVTeGVLbThOR2VIcHJudHBiVjZJbm5BUTVNd1JmT3Q0cHZDeGhicHJhdXhFckxZWlZPVm1DNXZzcWFibDFSQVZtbXlERnJ3WXRYVDVwQUdqeUFmU2VNNmFZWGd4amNBS3RWWjRLTXVoYVE3Yw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Shield TV Pro涨价至299美元",
-   "title_zh": "Shield TV Pro涨价至299美元，基础版停产",
-   "sentiment": 0
-  },
-  {
-   "id": "d018db32cbec",
-   "title": "NVIDIA Corporation (NVDA) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzJzYmVRbmJaZ3BaS3dWS01hUDlRM0tXZ25BZGc2M2RURjNpMEtHRG5VZjF3dkFnU2E5WWZKN1NYa1Frb3NzLW12VVZoSnU3WEo4TW1RdzhsNGdtZnJwTDRfa0h2M3hjaXNYNU9qWjAwZXNjcDVJUGgxV2xFWmNGTjhvNUdpQlRUN2JURUFWOURlVTYxNTQ2Sld3ZGxPSDBjZldHUUpKbkpjRzhL",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-05T12:00:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-05T12:00:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSzJzYmVRbmJaZ3BaS3dWS01hUDlRM0tXZ25BZGc2M2RURjNpMEtHRG5VZjF3dkFnU2E5WWZKN1NYa1Frb3NzLW12VVZoSnU3WEo4TW1RdzhsNGdtZnJwTDRfa0h2M3hjaXNYNU9qWjAwZXNjcDVJUGgxV2xFWmNGTjhvNUdpQlRUN2JURUFWOURlVTYxNTQ2Sld3ZGxPSDBjZldHUUpKbkpjRzhL"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达正吸引投资者关注",
-   "title_zh": "英伟达（NVDA）吸引投资者关注：你需要知道的事",
-   "sentiment": 1
   }
  ]
 }
