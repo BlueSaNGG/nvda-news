@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-10-06T16:36:37.021915+00:00",
+ "updated_at": "2026-10-06T16:52:04.004187+00:00",
  "market": {
-  "price": 240.6,
+  "price": 240.59,
   "change_pct": 0.71,
   "as_of": "2026-10-06",
   "next_earnings": {
@@ -10,8 +10,8 @@
    "days_left": 42
   },
   "day_sentiment": {
-   "avg": 0.62,
-   "count": 122
+   "avg": 0.63,
+   "count": 123
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.62（122条已评分）"
+     "note": "今日新闻情绪 +0.63（123条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $240.60 vs 20日均线 $224.96"
+     "note": "现价 $240.59 vs 20日均线 $224.96"
     },
     {
      "key": "分析师动向",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.0,
    "ma20": 224.96,
-   "as_of": "2026-10-06T16:36:37.013532+00:00"
+   "as_of": "2026-10-06T16:52:03.993304+00:00"
   },
   "pe_ttm": 30.6,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e8938cbe0e8d",
+   "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration | NVIDIA Technical Blog - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pIWHVsaDFjbTdyNzFtQnZBcVJNTVlGOTZsRmlPY21uV1dILUoxV3hsUHVOVmkwemlmQ05NTEYtNzJFZ0RQU2RuNk9US3V4Wmx1Tzc4NnNkMmhnbnoxejNUQjVmNFdBbFB0YW9pUmktV0FjbVNVUU55VUpiQnBObGhjX3pyU2pRVnRqZ1NQWUlmTy1TYlRzYXF1QzBXdw",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-06T16:16:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-06T16:16:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1pIWHVsaDFjbTdyNzFtQnZBcVJNTVlGOTZsRmlPY21uV1dILUoxV3hsUHVOVmkwemlmQ05NTEYtNzJFZ0RQU2RuNk9US3V4Wmx1Tzc4NnNkMmhnbnoxejNUQjVmNFdBbFB0YW9pUmktV0FjbVNVUU55VUpiQnBObGhjX3pyU2pRVnRqZ1NQWUlmTy1TYlRzYXF1QzBXdw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "df1ae15e6b48",
    "title": "Nvidia: Plenty Of Reasons To Worry, But The Stock Keeps Cooking (NASDAQ:NVDA) - Seeking Alpha",
@@ -145,6 +162,23 @@
    "zh_summary": "英伟达股价创历史新高",
    "title_zh": "英伟达股价创历史新高，黄仁勋身家随之上涨",
    "sentiment": 1
+  },
+  {
+   "id": "df1de9b8b2bc",
+   "title": "Buy an Nvidia RTX 5070 Ti 16GB for only $1099 – extra discount on Newegg drops the price on the triple fan Gigabyte Windforce to the lowest price we’ve seen in months - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNTm9CcDlSVDFzSmdPVG1iUDRseHg4OVZXdkpITDFHUHRTWGNaOTNJa0tIWE1tX1B0aGtvTmdQZ0JSdDgxWW5reUNsVGw5ZzhOMzZGTzdwYUdIeERqUzlkSkhVdzA5aVJmYjlPRThIVkYtUGE1RjgtVzdvV3RDemM1QVZqUloxMGpkdVZVTHFtUmRIYTBtTzNKaExnOTRTWjAwVktrRHZjejNNR1BPWVktVXBkdjZoSU9HV2cyVFZaWGdzM1VlY3VJeDBYVzctSEV3UU94VmtwMGVVczc3NWwzV3ViWlV1aXUyeFZ3ZWNJZXJzQzBTaGNxbjE3NF94RkVKb2phWGVNX1UtMGtsZVBHY1V0aWM4VWRmSlJWZ2dTaW01VWxGbnNDZWRWWmUyNVJnRlE",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-06T15:25:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-06T15:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNTm9CcDlSVDFzSmdPVG1iUDRseHg4OVZXdkpITDFHUHRTWGNaOTNJa0tIWE1tX1B0aGtvTmdQZ0JSdDgxWW5reUNsVGw5ZzhOMzZGTzdwYUdIeERqUzlkSkhVdzA5aVJmYjlPRThIVkYtUGE1RjgtVzdvV3RDemM1QVZqUloxMGpkdVZVTHFtUmRIYTBtTzNKaExnOTRTWjAwVktrRHZjejNNR1BPWVktVXBkdjZoSU9HV2cyVFZaWGdzM1VlY3VJeDBYVzctSEV3UU94VmtwMGVVczc3NWwzV3ViWlV1aXUyeFZ3ZWNJZXJzQzBTaGNxbjE3NF94RkVKb2phWGVNX1UtMGtsZVBHY1V0aWM4VWRmSlJWZ2dTaW01VWxGbnNDZWRWWmUyNVJnRlE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "10f50a6f674f",
@@ -505,7 +539,7 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSlN1NjN2ME9YNTVDMGpCTXhtUlZpVXFOczdnUjZvd0tCZk11MGNzOG1SVldyZ2FEUk9XU1pFYkxWcmpUdkRKOHRiczF5MkJJdkZNMGJ1ZURnMldaRi1IY3I2c2x6UmU1WEtIbHhGZVhhT3dOY1h0VUVOMklxLXUzX2RZVUdEVTFRc2Z3dFRNTFEyWmk2b3pJcjRMOA",
    "source": "Yahoo Finance",
    "published_at": "2026-10-06T14:24:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -516,13 +550,22 @@
      "name": "Zacks Investment Research",
      "published_at": "2026-10-06T14:34:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZmlGb0xKN3Fma0ttV2RFS2lYVUpJYVUwaHBvOUZFaE0wWGo2dmM0WDBXTnBNbnAzbEFEU1B2eWlwWjB1UGsyWnVrb0lxdUZLa0Y1SjVqOFl1ZHM0NzJEdmoyMVRidHpBRDBLWkxBZTVCc0JGVGw5aUk3ZDFNdjZCdm9DUTFsRFdSY2RwYmo2TnRlRnFNbl9mUEZUc2JTek0z"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-06T14:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlh2WVc3ckU2QUx5Unk5bzhiaS1nSGNXYkdPN1hxX1Baa0hhU0VlbjVRbGtpam45U0NMRWtOMURldGtVeWV4NlBUU0pHOFQ2amZ3RDVQdDc3eVp3N0VGTy1USG12c2ZLUUFCUzluZ1dhcG9od09FUHlLRWcweTNIc3oxRVpYb2VES3RYQU40NkFoRDZDTGhoUDBBcXF5V3FnM2JJQlZvcG5WY1RvU3FQOTdSdXk"
     }
    ],
    "category": "市场宏观",
    "session": "盘中",
    "zh_summary": "英伟达市值向6万亿美元迈进，相关ETF受关注",
    "title_zh": "英伟达迈向6万亿美元市值，值得买入的ETF",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.44,
+    "window_h": 2.0
+   }
   },
   {
    "id": "56d5cdd734ea",
@@ -947,6 +990,23 @@
    "sentiment": 1
   },
   {
+   "id": "3ccd59b7f92e",
+   "title": "英伟达股价上涨1.3%，创历史新高。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5USGl4V3gtekZZZlVvc0tyb1NyZjUtMGNHRm1rSkE5TUNld3ZQMG1Wa3NSaDc4NTdPMFhGYkZSdnJmSTVyUW9YcHp3cw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-06T13:36:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-06T13:36:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5USGl4V3gtekZZZlVvc0tyb1NyZjUtMGNHRm1rSkE5TUNld3ZQMG1Wa3NSaDc4NTdPMFhGYkZSdnJmSTVyUW9YcHp3cw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "959b69e9c34d",
    "title": "Nvidia Turned $10,000 Into More Than $1.3 Million. Can It Happen Again? - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOTlDNFZSWS1qV3ZUbXJMbF9MZDhCTWZXSjRjc1prZWpDWUJuSE1GMlQ3OElILVJreDU2VGp6NjFmQl9EdHVuYlJoaGVDY2k0QjF0bk1XenA3UmxzXzJwZlJRZENITng1SjY3VzVNWXdCd3Q0bzdBcHhTWW1Zc3FSNXZuM0lmcThTS0lramdIbjE3QXRDZ2NPVWRsRGdobnIxV1pzMmJ2TzlvdnRMVFpv",
@@ -979,6 +1039,23 @@
     "pct": 0.24,
     "window_h": 0.6
    }
+  },
+  {
+   "id": "c2fa1a4d5f76",
+   "title": "GeForce Game Ready Driver For Call of Duty®: Modern Warfare 4® Released - NVIDIA",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEtYWkRJUXRDOTVGMXJjWTJNdDdIUUh6OG83MGhrbDNZYWRYUTByM1ZvNDVjZUhRZmRuekNrQkkzTlN6N19zZHNvR3dqQURBTTY3eW9pUkhZSl9BY3g2czZlOHNkR2Q0S2x1TklhYjhYMXFheTNjS1VGR2IwTlNqaFRHWlMwRUxGVXJhRGtFeXdlOWFQTnVXaGl3c1NUZWxfRmdUZXhRdk9sU0xpTzVOT2Y1Tm0tdw",
+   "source": "NVIDIA",
+   "published_at": "2026-10-06T13:29:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA",
+     "published_at": "2026-10-06T13:29:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEtYWkRJUXRDOTVGMXJjWTJNdDdIUUh6OG83MGhrbDNZYWRYUTByM1ZvNDVjZUhRZmRuekNrQkkzTlN6N19zZHNvR3dqQURBTTY3eW9pUkhZSl9BY3g2czZlOHNkR2Q0S2x1TklhYjhYMXFheTNjS1VGR2IwTlNqaFRHWlMwRUxGVXJhRGtFeXdlOWFQTnVXaGl3c1NUZWxfRmdUZXhRdk9sU0xpTzVOT2Y1Tm0tdw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "c71c354ffa8b",
@@ -4336,7 +4413,7 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkwzWjlVSE9QSjRrcU1xMVVOcnUxWDhHeGtSb3JjTjlCaTNMUUtENHBobXN5WGd4cUxDX0hyNTQwMmxLUkl6Qmh4czhxWnlWa09yQmtUbXlDT1hDMkdTZS0zOXNVZ2E5elp1WnpXU0h6UERJcUl3NDN4SG50ZzdjVW5sM0tsQXE0bVdiUA",
    "source": "sohu.com",
    "published_at": "2026-10-05T23:04:47+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "sohu.com",
@@ -4357,11 +4434,15 @@
      "name": "finance.sina.com.cn",
      "published_at": "2026-10-05T23:45:41+00:00",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXZJMUEyZ0lhMWxaVElGQThKNkJzelljVVZ0NThxN2dkSXNYUjB1cjlhMHN6aEdiRzQ4YWh2QnMzTjFldGpDRVpPeXNaQ0VsZ29Wd1F1bnpRY3VQRDZMUW1lc3NNa3BwQU1Rc3N4MjJ3SXV2bF9saWR1RjZKYWdobm1faEl0eVpZaE56aUpTdlVRaXVzcUNYSHQxWW1oQnlhekFrRXd1SjdlcjlPTHZKa2tR"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-06T16:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMS11aUFFdHRqTkFSOHhRS2t1Qi13ZWR0V0Vra25HNlpTc0NBeXI1cTJIcXl3aW1fUFhvNTlHLWJDSlpONXlpX051V21sMnRPakdpWXBaTXk4ZWxKa2F1X3g4MGdndVVXcHh5NXB2NkJNUUdQcUNCOC1Ed2ZBUUxsWE9yQQ"
     }
    ],
    "category": "其他",
    "session": "盘后",
-   "breaking": true,
    "zh_summary": "纳指英伟达同创历史新高",
    "title_zh": "深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元 - sohu.com",
    "sentiment": 1,
@@ -8193,101 +8274,6 @@
     "pct": -0.35,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "f7d9afdcf52e",
-   "title": "Nvidia's $6-trillion milestone looms. Here's when options traders see it happening - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbG1XWTdSakZtY1ZyblBtWFdRdkF1eU54bklJQy04QjJkZjdtOXlZeWZudWVNOFRCY2dmR1VGSjdQVGI4cUxJWWhJV01JYmZhY2s4d01VNFAxNUpwMFRUdV9RaXR6ME9LTWhZUVZ2NUI4WHJNNGpTblQtQ3k5bDE1UGhZa1FiWXQtaHdwcGRITDVNVlFkdWt5Sy1PLU9VU2ZoM1FOeVVqRUEzdWtxNnlmVVJQOF9RUdIBuwFBVV95cUxNV2RaMmJOVzNLbm1HNXdwUWExdnltWFUzdHpLdGRuZjBjcEtXOTIyY2pBUms4UXQ5dGlrVXNzWmRabmpRazcyNnYtQ00zSUhkT19NcG9yRkNEWHVSNjBnblJ3UTM2Rl9RLTlCaER4WmRaLTlwVVpRWGlKYW5zMWk3NG5RNXdncGgxX25XSVJUVTN3M0IwYlc3SUliSWwzSWJ1YVlrV1dKMFo3SmU4WEF6bEdXQ0pXSjJpZDJB",
-   "source": "CNBC",
-   "published_at": "2026-10-05T11:57:23+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-05T11:57:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbG1XWTdSakZtY1ZyblBtWFdRdkF1eU54bklJQy04QjJkZjdtOXlZeWZudWVNOFRCY2dmR1VGSjdQVGI4cUxJWWhJV01JYmZhY2s4d01VNFAxNUpwMFRUdV9RaXR6ME9LTWhZUVZ2NUI4WHJNNGpTblQtQ3k5bDE1UGhZa1FiWXQtaHdwcGRITDVNVlFkdWt5Sy1PLU9VU2ZoM1FOeVVqRUEzdWtxNnlmVVJQOF9RUdIBuwFBVV95cUxNV2RaMmJOVzNLbm1HNXdwUWExdnltWFUzdHpLdGRuZjBjcEtXOTIyY2pBUms4UXQ5dGlrVXNzWmRabmpRazcyNnYtQ00zSUhkT19NcG9yRkNEWHVSNjBnblJ3UTM2Rl9RLTlCaER4WmRaLTlwVVpRWGlKYW5zMWk3NG5RNXdncGgxX25XSVJUVTN3M0IwYlc3SUliSWwzSWJ1YVlrV1dKMFo3SmU4WEF6bEdXQ0pXSjJpZDJB"
-    },
-    {
-     "name": "cnbc.com",
-     "published_at": "2026-10-05T11:57:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbG1XWTdSakZtY1ZyblBtWFdRdkF1eU54bklJQy04QjJkZjdtOXlZeWZudWVNOFRCY2dmR1VGSjdQVGI4cUxJWWhJV01JYmZhY2s4d01VNFAxNUpwMFRUdV9RaXR6ME9LTWhZUVZ2NUI4WHJNNGpTblQtQ3k5bDE1UGhZa1FiWXQtaHdwcGRITDVNVlFkdWt5Sy1PLU9VU2ZoM1FOeVVqRUEzdWtxNnlmVVJQOF9RUdIBuwFBVV95cUxNV2RaMmJOVzNLbm1HNXdwUWExdnltWFUzdHpLdGRuZjBjcEtXOTIyY2pBUms4UXQ5dGlrVXNzWmRabmpRazcyNnYtQ00zSUhkT19NcG9yRkNEWHVSNjBnblJ3UTM2Rl9RLTlCaER4WmRaLTlwVVpRWGlKYW5zMWk3NG5RNXdncGgxX25XSVJUVTN3M0IwYlc3SUliSWwzSWJ1YVlrV1dKMFo3SmU4WEF6bEdXQ0pXSjJpZDJB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "期权市场预计英伟达市值冲6万亿",
-   "title_zh": "英伟达冲击6万亿美元市值在即，期权交易员预测时间",
-   "sentiment": 1
-  },
-  {
-   "id": "c58c1747f8ce",
-   "title": "Former Groq engineers sue over Nvidia's $20B licence-and-hire deal, saying it left a hollowed-out shell - Dealroom",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUUpPLXJfQlIzZnR6YjRUQTdzS29QakJvdGFQd3ZBcXZaQWlKbzdybXAzNDRhU3hlUHNhQ0EtUnNOLTZvWW1nZFVielNfU3V0blRqRHNlMG5WZHdwdk1TQzh5RGZGaDJ3WG1qbDFQNlZoa2psbE43UjE5UFRGc3Z6MzJqazJkVnBzbWZNRW0xZElXcFVTU2tLTkR1TWRjbUlJMFVMOUxoQW5CRDlNcFNjamNaNV9qcUt3RzhDUVhnX3F2OFR5Qnk2VjQweXVQLUFE",
-   "source": "Dealroom",
-   "published_at": "2026-10-05T11:53:49+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Dealroom",
-     "published_at": "2026-10-05T11:53:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUUpPLXJfQlIzZnR6YjRUQTdzS29QakJvdGFQd3ZBcXZaQWlKbzdybXAzNDRhU3hlUHNhQ0EtUnNOLTZvWW1nZFVielNfU3V0blRqRHNlMG5WZHdwdk1TQzh5RGZGaDJ3WG1qbDFQNlZoa2psbE43UjE5UFRGc3Z6MzJqazJkVnBzbWZNRW0xZElXcFVTU2tLTkR1TWRjbUlJMFVMOUxoQW5CRDlNcFNjamNaNV9qcUt3RzhDUVhnX3F2OFR5Qnk2VjQweXVQLUFE"
-    },
-    {
-     "name": "app.dealroom.co",
-     "published_at": "2026-10-05T11:53:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUUpPLXJfQlIzZnR6YjRUQTdzS29QakJvdGFQd3ZBcXZaQWlKbzdybXAzNDRhU3hlUHNhQ0EtUnNOLTZvWW1nZFVielNfU3V0blRqRHNlMG5WZHdwdk1TQzh5RGZGaDJ3WG1qbDFQNlZoa2psbE43UjE5UFRGc3Z6MzJqazJkVnBzbWZNRW0xZElXcFVTU2tLTkR1TWRjbUlJMFVMOUxoQW5CRDlNcFNjamNaNV9qcUt3RzhDUVhnX3F2OFR5Qnk2VjQweXVQLUFE"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "前Groq工程师起诉英伟达200亿美元交易",
-   "title_zh": "前Groq工程师起诉英伟达200亿美元授权雇佣交易",
-   "sentiment": -1
-  },
-  {
-   "id": "e024db4209b2",
-   "title": "英伟达支持的AI公司Firmus拟IPO筹资55亿美元，估值约306亿美元 - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nTVQtUVhwTkREOGxpbWZ4N0xZTmtIS0tCWl9JaURCOGVLaGFZdGx6OHJqWEpER011eGpkR1BOQXM2eUt5bTlKblJEcDRoelF1ZXdGa0NXV1JiYWc0Z2R5cWxkR2g2QQ",
-   "source": "TradingView",
-   "published_at": "2026-10-05T11:46:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-05T11:46:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nTVQtUVhwTkREOGxpbWZ4N0xZTmtIS0tCWl9JaURCOGVLaGFZdGx6OHJqWEpER011eGpkR1BOQXM2eUt5bTlKblJEcDRoelF1ZXdGa0NXV1JiYWc0Z2R5cWxkR2g2QQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达支持的Firmus拟IPO募55亿美元",
-   "title_zh": "英伟达支持的AI公司Firmus拟IPO筹资55亿美元，估值约306亿美元 - TradingView",
-   "sentiment": 1
-  },
-  {
-   "id": "305d97e81b1d",
-   "title": "Zacks Market Edge Highlights: Meta, NVIDIA and Microsoft - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORDh6TmJCbWprOVZFSDU1bUpGckJzUkRDakEtQkNSTFZ0YTl6VXJnVmQwbUxrU21QQnBWMDRMS2kzd3ZvWkRXSDlibVU2X2k2Zm11b3pYZXJMNExXMDU3bVNQSEluVzBnNDRrMElVXzMtRWtQOGFnT1NfMW82VkFzVmc4cTRGdnhZNkVPV2V0dG9sQU9kV0JpT1pZcDJ4Wml3S0ZWMTdMbFU0NVJKRGsw",
-   "source": "TradingView",
-   "published_at": "2026-10-05T11:46:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-05T11:46:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORDh6TmJCbWprOVZFSDU1bUpGckJzUkRDakEtQkNSTFZ0YTl6VXJnVmQwbUxrU21QQnBWMDRMS2kzd3ZvWkRXSDlibVU2X2k2Zm11b3pYZXJMNExXMDU3bVNQSEluVzBnNDRrMElVXzMtRWtQOGFnT1NfMW82VkFzVmc4cTRGdnhZNkVPV2V0dG9sQU9kV0JpT1pZcDJ4Wml3S0ZWMTdMbFU0NVJKRGsw"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-05T14:08:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSTVxUmZMUlFSbUpkaVZRcThfYm1YTG1GMDZtUUI2Z05ObndlRTMyZG9pY1BFMUJFZm1oekVTWE9IQTkyUE41NUg5eFFDQlFlUlIyWFRsTHRUaUNyem1FbEpqdFNPTkhfMy1yek1oV0J5WDBmbjFWSF93d0Q1ZVBhaGpGM21TX0ZMRzdhSkZyNUE2Z0Uyel92blZWazRsSmVaUFluWWRrRm9MdkJGYkV3QkpZSlhqcnFsVExhR3RyVGZGbzRncGd4NG9kYmVQcmxzWFhhalhR"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "Zacks聚焦Meta、英伟达和微软",
-   "title_zh": "Zacks聚焦：Meta、英伟达和微软",
-   "sentiment": 0
   }
  ]
 }
