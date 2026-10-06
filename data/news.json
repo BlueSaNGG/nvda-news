@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-06T19:36:34.716848+00:00",
+ "updated_at": "2026-10-06T19:51:31.678645+00:00",
  "market": {
-  "price": 239.39,
-  "change_pct": 0.21,
+  "price": 239.38,
+  "change_pct": 0.2,
   "as_of": "2026-10-06",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 42
   },
   "day_sentiment": {
-   "avg": 0.61,
-   "count": 140
+   "avg": 0.62,
+   "count": 143
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.61（140条已评分）"
+     "note": "今日新闻情绪 +0.62（143条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $239.39 vs 20日均线 $224.90"
+     "note": "现价 $239.38 vs 20日均线 $224.90"
     },
     {
      "key": "分析师动向",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.6,
    "ma20": 224.9,
-   "as_of": "2026-10-06T19:36:34.707881+00:00"
+   "as_of": "2026-10-06T19:51:31.655401+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "bd9eca03150b",
+   "title": "Nvidia Strength Is Masking Broader Market Pain, David Rosenberg Says - NVIDIA (NASDAQ:NVDA) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDMtZ2ZqRF9OaFhNZFRyOThaZnljM0J0VXFhY05lSEluLUVsQWdzamhScDZSOEdBVnFZVXZDbzZUc1lLa2h5bWotTHlDNEdySXVOeFlOU2IwLVdDeGpTLTdPUzdqX1huOVRhSVoxSUl1UlB4UU9felhoOWR5MUxVVFphOHc3dWNMX0FuQXgyb01Hc29VbksxYl9RaGF3T3JPeWc",
+   "source": "Benzinga",
+   "published_at": "2026-10-06T19:41:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-06T19:41:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMDMtZ2ZqRF9OaFhNZFRyOThaZnljM0J0VXFhY05lSEluLUVsQWdzamhScDZSOEdBVnFZVXZDbzZUc1lLa2h5bWotTHlDNEdySXVOeFlOU2IwLVdDeGpTLTdPUzdqX1huOVRhSVoxSUl1UlB4UU9felhoOWR5MUxVVFphOHc3dWNMX0FuQXgyb01Hc29VbksxYl9RaGF3T3JPeWc"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "15ae6f181457",
+   "title": "Nvidia stock flashes massive signal as Wall Street leans in - TheStreet",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJcGxnVGN3YXVGSzNTTmY0RDdDLWpVbFlyOU9oQXhxOE9ha0d5ZFdLYXplZGZkS2hIcV9na001RzRkSzZrQ3pvVkpHUTl1clNndVlKeTRoME0ydFg3VzY4SzNidU1mY21jSG42X1p3VFY3dDdsSnRfbTZqQjB1Zw",
+   "source": "TheStreet",
+   "published_at": "2026-10-06T19:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TheStreet",
+     "published_at": "2026-10-06T19:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJcGxnVGN3YXVGSzNTTmY0RDdDLWpVbFlyOU9oQXhxOE9ha0d5ZFdLYXplZGZkS2hIcV9na001RzRkSzZrQ3pvVkpHUTl1clNndVlKeTRoME0ydFg3VzY4SzNidU1mY21jSG42X1p3VFY3dDdsSnRfbTZqQjB1Zw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "32169216cc91",
    "title": "Nvidia Stock Nears Six Trillion Dollar Valuation as Wall Street Upgrade Lifts Chip Sector and NVDA - FXLeaders",
@@ -80,6 +114,40 @@
    "zh_summary": "华尔街上调评级，英伟达逼近6万亿美元市值",
    "title_zh": "英伟达逼近6万亿美元市值，华尔街上调评级提振芯片板块",
    "sentiment": 1
+  },
+  {
+   "id": "7b3f7027c386",
+   "title": "How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack | NVIDIA Technical Blog - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnpvTTJ2OVFQSlFDaEJxby03Z3VhSmpkYkM0WUg2MEFySDdzOWpJZkx4YnU2WjJSZWZEbXJZOXRUVV9KYlpxaGIyVGFNSWowa09ydmZMSXVfMjh4OXlfaVcwVkJhT3ZnRnRVRkczSXk0bTdOWkcyTlU4dGtRTzdJc0hrelE",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-06T19:15:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-06T19:15:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnpvTTJ2OVFQSlFDaEJxby03Z3VhSmpkYkM0WUg2MEFySDdzOWpJZkx4YnU2WjJSZWZEbXJZOXRUVV9KYlpxaGIyVGFNSWowa09ydmZMSXVfMjh4OXlfaVcwVkJhT3ZnRnRVRkczSXk0bTdOWkcyTlU4dGtRTzdJc0hrelE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "bab3d799394c",
+   "title": "Sam Altman: Jensen Huang “Selling Picks and Shovels” as NVIDIA Heads for $6 Trillion - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFdrSVhTendvcW9zVS1fQ2J0cFFxbDRvNU9RZWJ4Vm9uVVBnbWZ2aE45c3JaS3NHa1lNVWNtWjE4VlE4MXp6Q1p5b2dEcmZKQUczUFNoREFxY2dyUmc2c1k1azRMSElReExETFE1QXFOZUZJQXB0RHhyVndFc3JFNlU4S2lfMG1uLWNFamJCNm1kbUE2X05wTUVaam8",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-06T19:12:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-06T19:12:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNFdrSVhTendvcW9zVS1fQ2J0cFFxbDRvNU9RZWJ4Vm9uVVBnbWZ2aE45c3JaS3NHa1lNVWNtWjE4VlE4MXp6Q1p5b2dEcmZKQUczUFNoREFxY2dyUmc2c1k1azRMSElReExETFE1QXFOZUZJQXB0RHhyVndFc3JFNlU4S2lfMG1uLWNFamJCNm1kbUE2X05wTUVaam8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "24388ded6db2",
@@ -1373,6 +1441,23 @@
    "zh_summary": "英伟达股价涨1.3%创历史新高",
    "title_zh": "英伟达股价上涨1.3%，创历史新高。 - 手机新浪网",
    "sentiment": 1
+  },
+  {
+   "id": "d3dfb5fb21f9",
+   "title": "英伟达股价上涨1.3......_7x24快讯_新浪财经 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5USGl4V3gtekZZZlVvc0tyb1NyZjUtMGNHRm1rSkE5TUNld3ZQMG1Wa3NSaDc4NTdPMFhGYkZSdnJmSTVyUW9YcHp3cw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-06T13:36:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-06T13:36:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5USGl4V3gtekZZZlVvc0tyb1NyZjUtMGNHRm1rSkE5TUNld3ZQMG1Wa3NSaDc4NTdPMFhGYkZSdnJmSTVyUW9YcHp3cw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "959b69e9c34d",
@@ -7994,200 +8079,6 @@
    "zh_summary": "分析称英伟达股价接近向上突破",
    "title_zh": "英伟达临近向上突破的临界点（NVDA）",
    "sentiment": 1
-  },
-  {
-   "id": "2c163cbbdb7b",
-   "title": "Prediction: $1,000 Invested in Nvidia Today Will Be Worth This Much by 2030 - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSXJ5THFyWEt5WlZ2Nnp4Sng3N05acEYyTE9seHh2UnRSV2pES1VsZjl4cF9mSU9lSE9CWDF3d2RQdFdOVllxRU1qUjFOWWNEYWNqLV95UnItM0hqWjkxakE3RGNtaDZtTEtadGRmZktYalVoSGZIU1NCcHQ1ck56bXZzQlg3VHhYR3k3b0ZBRkl5UnphaVJ0Mzg0cmZuejJTckp4eVkzdkRQaDByUVFvZHYwT2Z2VWJQMWU0",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-05T13:27:11+00:00",
-   "outlets_count": 8,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-05T13:27:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSXJ5THFyWEt5WlZ2Nnp4Sng3N05acEYyTE9seHh2UnRSV2pES1VsZjl4cF9mSU9lSE9CWDF3d2RQdFdOVllxRU1qUjFOWWNEYWNqLV95UnItM0hqWjkxakE3RGNtaDZtTEtadGRmZktYalVoSGZIU1NCcHQ1ck56bXZzQlg3VHhYR3k3b0ZBRkl5UnphaVJ0Mzg0cmZuejJTckp4eVkzdkRQaDByUVFvZHYwT2Z2VWJQMWU0"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-05T13:43:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzdOVF9CSHN1dHgtRjFZUDV6MXZrY2V4NUFnQl81Ymkwbkp6VXRGbVNrM2NEUGcyTy1UYzIyUFhfaWJhU2hreEE3Z2lpekQyQzhiWmdqMHJiOURyektxTGZzcFl2MzJvZktOSEYyeUJXUjJvUEhOYTFaeHNzVEZ6dUV3ODhKdktDY2dOdnhfbjZBNG9SMXlaSFluUHpVdw"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-05T13:43:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYVFUaWEzWlNmUzB3dUdFU013RnNtRXJDTTc5NXJsNjVoOE9tV1otQWZsMTk1Q0JLUlg2SWd0bk51WGpiSVBMVVh3NzlJTFhxOUoxUGhmTDZBeEw3dUJ3SjktZ0diSFluZzlmT0J6WDhqYzZnbzlpVDVtSWtiSFpPaC1LanlCOFdGSklvNUw0djZuaEFWVzh0UUFrZl9RVlhpangzOUZsbFI2Ukxpa2dHeTNKSzJFMk1vY3hPZFpMVnVaWi0weXE2U1k4WWFhNjBNXzBUNVkyN1dlbGFxUk9HWTFPMFU5QVdXVWtDMjg5SGMxUQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-05T13:43:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzdOVF9CSHN1dHgtRjFZUDV6MXZrY2V4NUFnQl81Ymkwbkp6VXRGbVNrM2NEUGcyTy1UYzIyUFhfaWJhU2hreEE3Z2lpekQyQzhiWmdqMHJiOURyektxTGZzcFl2MzJvZktOSEYyeUJXUjJvUEhOYTFaeHNzVEZ6dUV3ODhKdktDY2dOdnhfbjZBNG9SMXlaSFluUHpVdw"
-    },
-    {
-     "name": "fool.com",
-     "published_at": "2026-10-05T14:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSXJ5THFyWEt5WlZ2Nnp4Sng3N05acEYyTE9seHh2UnRSV2pES1VsZjl4cF9mSU9lSE9CWDF3d2RQdFdOVllxRU1qUjFOWWNEYWNqLV95UnItM0hqWjkxakE3RGNtaDZtTEtadGRmZktYalVoSGZIU1NCcHQ1ck56bXZzQlg3VHhYR3k3b0ZBRkl5UnphaVJ0Mzg0cmZuejJTckp4eVkzdkRQaDByUVFvZHYwT2Z2VWJQMWU0"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-05T13:43:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGhBUE1rNmtjRTlNR3VDS3lWLVFUZjUwLTdXWGNLSXpkR3F4NVBfell1cEx4eDNLc1dPOWV4QzY2ME4zUW44cGlCSU14cWRmZzBzenBkMjdaOWd5ckF6VXBmclY0RXo1a3dlMjZETVNRMVlpalBrRXJZZ2NydVl0dHpn"
-    },
-    {
-     "name": "aol.com",
-     "published_at": "2026-10-05T13:43:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGhBUE1rNmtjRTlNR3VDS3lWLVFUZjUwLTdXWGNLSXpkR3F4NVBfell1cEx4eDNLc1dPOWV4QzY2ME4zUW44cGlCSU14cWRmZzBzenBkMjdaOWd5ckF6VXBmclY0RXo1a3dlMjZETVNRMVlpalBrRXJZZ2NydVl0dHpn"
-    },
-    {
-     "name": "Currently.com",
-     "published_at": "2026-10-06T16:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbE1QN1dicWlSRnpvaDMzdkJJZFktakE1U0ZNN1RWd1FWc2hibk9xOFR4aXJ4MHNBWHphZUhFY1BWTlpidURtWEEtcHJxbl9kYVRCcXV4cmxyUVNuWGF0X25ucDc5RkhXMjVoU2cyOHdJejNuMWhMT0cwRHI4Q2ZwSFF1RENfWllhOXd6dW4zakg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "分析预测投资英伟达的长期回报",
-   "title_zh": "现在投资$1000英伟达，到2030年值多少",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.11,
-    "window_h": 0.6
-   }
-  },
-  {
-   "id": "b1105b92f014",
-   "title": "Cramer Stays Bullish on Nvidia, Micron After Years of AI-Driven Gains - NAI500",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2hiRlBoLVRxVU8xUTQ3a1NlZVdINDBvUmwteHB1ZnQxaVk1RUpWT2RYblRCX0l3YXJqWVV1VzJFQXhmMkpFV3BsWWFvTThBRlZTM09uOXlaSVdBejFTM2pfLUJfNndyUjhISmRlNTVWVElLT1NwQzM1SW1BazlRT2xjS3phQ2lvT3pNQ3hmUGYyU1Y2RXBid0dlRG5DZkdOTzdV",
-   "source": "NAI500",
-   "published_at": "2026-10-05T13:12:14+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "NAI500",
-     "published_at": "2026-10-05T13:12:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2hiRlBoLVRxVU8xUTQ3a1NlZVdINDBvUmwteHB1ZnQxaVk1RUpWT2RYblRCX0l3YXJqWVV1VzJFQXhmMkpFV3BsWWFvTThBRlZTM09uOXlaSVdBejFTM2pfLUJfNndyUjhISmRlNTVWVElLT1NwQzM1SW1BazlRT2xjS3phQ2lvT3pNQ3hmUGYyU1Y2RXBid0dlRG5DZkdOTzdV"
-    },
-    {
-     "name": "nai500.com",
-     "published_at": "2026-10-05T13:12:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2hiRlBoLVRxVU8xUTQ3a1NlZVdINDBvUmwteHB1ZnQxaVk1RUpWT2RYblRCX0l3YXJqWVV1VzJFQXhmMkpFV3BsWWFvTThBRlZTM09uOXlaSVdBejFTM2pfLUJfNndyUjhISmRlNTVWVElLT1NwQzM1SW1BazlRT2xjS3phQ2lvT3pNQ3hmUGYyU1Y2RXBid0dlRG5DZkdOTzdV"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "克拉默维持对英伟达看好",
-   "title_zh": "克拉默仍看好英伟达和美光，多年AI上涨后",
-   "sentiment": 1
-  },
-  {
-   "id": "850054cb846f",
-   "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps - blogs.nvidia.com",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWM1Q4SlZ2X3NFbEpCc3FqZEQ0NjRRZWtFQV9IdnVWTWpZYk5MM2E2U0drZ09EWFJXbTZYcWw5UTNwR1cwR3NBZHlJUGsxQzFKdE9DbUtSYVdWRDlJM2FJMVRJNTc5WWc",
-   "source": "blogs.nvidia.com",
-   "published_at": "2026-10-05T13:08:12+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "blogs.nvidia.com",
-     "published_at": "2026-10-05T13:08:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWM1Q4SlZ2X3NFbEpCc3FqZEQ0NjRRZWtFQV9IdnVWTWpZYk5MM2E2U0drZ09EWFJXbTZYcWw5UTNwR1cwR3NBZHlJUGsxQzFKdE9DbUtSYVdWRDlJM2FJMVRJNTc5WWc"
-    },
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-05T13:08:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWM1Q4SlZ2X3NFbEpCc3FqZEQ0NjRRZWtFQV9IdnVWTWpZYk5MM2E2U0drZ09EWFJXbTZYcWw5UTNwR1cwR3NBZHlJUGsxQzFKdE9DbUtSYVdWRDlJM2FJMVRJNTc5WWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "AI助力缩小乳腺癌诊疗差距",
-   "title_zh": "AI从扫描到治疗规划，助力弥合乳腺癌差距",
-   "sentiment": 1
-  },
-  {
-   "id": "3aa54330b731",
-   "title": "The 1 Chart That Nvidia Bears Don't Want You to See - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblJoLVNKOGRXUjIwRkFvOHdMNW9jYjVneFJycmJxZ3NtZUdrdFZVUXl4blhnRFltOHdDX1BwYmZORV93QkRxVFNUN09adWxvOHFMUzBYVUIwd0NUdEkwOGtDX2gydzF4ZE1LZHNNWnctZjZGVTFkdmVjVkNyZHRuc0s1UVJQZnhxeVdabHJObWdZcE1TSnNydA",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-05T13:02:28+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-05T13:02:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblJoLVNKOGRXUjIwRkFvOHdMNW9jYjVneFJycmJxZ3NtZUdrdFZVUXl4blhnRFltOHdDX1BwYmZORV93QkRxVFNUN09adWxvOHFMUzBYVUIwd0NUdEkwOGtDX2gydzF4ZE1LZHNNWnctZjZGVTFkdmVjVkNyZHRuc0s1UVJQZnhxeVdabHJObWdZcE1TSnNydA"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-05T13:16:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYkplRU9ZOVJObGFVLUJOZ0dRS1lLOFR0ZS10ekRNUUpkMEVXNnFFaWgxUDgwZklyZkdacWVpZ3BYdGlVT1VHV0x1M2FHUHJXMnpiZ01HdFFRdjZCcnRSZWg5Z2FqNFU1UTRibU5YSWZoUWIxNXJGdzZybDJqeFl1c0htZEx4dlhZZ21rRG5GeWpOOTAz"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-05T13:20:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWkl1T1NPaUF4NEpKQjNpX05GQlhFU296a2J1V2VsbkNJYTBsTFRZWHh2RmxnUEY3Z2JnUG52T056RHBBZ2x5STV2Zi1UNVZQdFdUMEpOWGpBY0hhNXYtVlBoTTNNckVUdGJHb0UweHJ6TXJUelhRcGJkamoyQWJ1aXZIY2NvaWhTMnpMUGJiamF4MlJ0LTA2NkZLbWowQ0VTeUdjRGlUVHVvWVdwR2FtSUZoSnhxVm1YcV81WVdvVThxY2RMdGs0ZDdMQkxZQzhi"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-05T13:16:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYkplRU9ZOVJObGFVLUJOZ0dRS1lLOFR0ZS10ekRNUUpkMEVXNnFFaWgxUDgwZklyZkdacWVpZ3BYdGlVT1VHV0x1M2FHUHJXMnpiZ01HdFFRdjZCcnRSZWg5Z2FqNFU1UTRibU5YSWZoUWIxNXJGdzZybDJqeFl1c0htZEx4dlhZZ21rRG5GeWpOOTAz"
-    },
-    {
-     "name": "fool.com",
-     "published_at": "2026-10-05T13:02:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblJoLVNKOGRXUjIwRkFvOHdMNW9jYjVneFJycmJxZ3NtZUdrdFZVUXl4blhnRFltOHdDX1BwYmZORV93QkRxVFNUN09adWxvOHFMUzBYVUIwd0NUdEkwOGtDX2gydzF4ZE1LZHNNWnctZjZGVTFkdmVjVkNyZHRuc0s1UVJQZnhxeVdabHJObWdZcE1TSnNydA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "富尔：英伟达空头忽略的图表",
-   "title_zh": "一张英伟达空头不愿看到的图表",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.4,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "4ebdd297bf1b",
-   "title": "英伟达RTX Spark笔记本OLED屏幕供应商曝光 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUUpQWmZlNW5jZkVybGRWSkZuUWZOUzVtcjZMUWt1RHdvSXU0UzdTckNDbEJmMWJQTUkwN0NCS2dpaDRTWko5bWNHdkg5Y0s0bnpZR2pDSlNUVjlDbW9mRlg0QTZKb3N4c3kxVUdQa3hRQlpScU5WZ19Lc3M3NGs0VHdob2xTdURn",
-   "source": "搜狐网",
-   "published_at": "2026-10-05T13:00:13+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-05T13:00:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUUpQWmZlNW5jZkVybGRWSkZuUWZOUzVtcjZMUWt1RHdvSXU0UzdTckNDbEJmMWJQTUkwN0NCS2dpaDRTWko5bWNHdkg5Y0s0bnpZR2pDSlNUVjlDbW9mRlg0QTZKb3N4c3kxVUdQa3hRQlpScU5WZ19Lc3M3NGs0VHdob2xTdURn"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-05T13:09:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fVGdFenlraG81dDUtdTcxc1pfMkRzeDgtZWNzOWpib3NnbU1KczhqOHVXQlhxSTY3ajV0Q3VEU3dxV3hrUGR0Mw"
-    },
-    {
-     "name": "i.ifeng.com",
-     "published_at": "2026-10-05T13:09:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fVGdFenlraG81dDUtdTcxc1pfMkRzeDgtZWNzOWpib3NnbU1KczhqOHVXQlhxSTY3ajV0Q3VEU3dxV3hrUGR0Mw"
-    },
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-05T13:00:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUUpQWmZlNW5jZkVybGRWSkZuUWZOUzVtcjZMUWt1RHdvSXU0UzdTckNDbEJmMWJQTUkwN0NCS2dpaDRTWko5bWNHdkg5Y0s0bnpZR2pDSlNUVjlDbW9mRlg0QTZKb3N4c3kxVUdQa3hRQlpScU5WZ19Lc3M3NGs0VHdob2xTdURn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "RTX Spark屏幕供应商曝光",
-   "title_zh": "英伟达RTX Spark笔记本OLED屏幕供应商曝光 - 搜狐网",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.14,
-    "window_h": 1.9
-   }
   }
  ]
 }
