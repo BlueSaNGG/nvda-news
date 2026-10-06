@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T12:21:30.479987+00:00",
+ "updated_at": "2026-10-06T12:36:31.212070+00:00",
  "market": {
   "price": 238.9,
   "change_pct": 2.12,
@@ -10,8 +10,8 @@
    "days_left": 42
   },
   "day_sentiment": {
-   "avg": 0.57,
-   "count": 46
+   "avg": 0.62,
+   "count": 53
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.57（46条已评分）"
+     "note": "今日新闻情绪 +0.62（53条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.9,
    "ma20": 224.21,
-   "as_of": "2026-10-06T12:21:30.471935+00:00"
+   "as_of": "2026-10-06T12:36:31.196335+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -62,15 +62,105 @@
  },
  "stories": [
   {
+   "id": "5a514a969b8b",
+   "title": "Nvidia RTX 5070 prebuilt with Ryzen 7 7800X3D and 32GB RAM drops to $1,799 — save $500 before the price bounces back - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTmJISzNuVFllcDcxSTBTWjk5dTZkUFllU3FhVWpsTU1OalNGWGxQemdrNkdqeXM2aHpEajFjSW1kaHJNcGNPb3JleUtiQ1R6Si1qNU9LX01aZUt6dm9EdE1IZzlsbmdMdXBNV0J6S2NDVzdudzVsSDdWcU5CcUpIRC1PMnJHMFhMTWF2THg2VEpOM2prQmxHWC03ZTV1a3BQZ2ZKOXBCYWlpaXZiWTN2M3AzUndPQkJPY3JmTG1VSjV5TGt3OUtJQ2hLMnVaUmhzdTBCcGVmdktncE1YcnF2bjFkRVdmVnFjNEd2bDdvMTIxdjFuUGlJamFnZw",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-06T12:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-06T12:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTmJISzNuVFllcDcxSTBTWjk5dTZkUFllU3FhVWpsTU1OalNGWGxQemdrNkdqeXM2aHpEajFjSW1kaHJNcGNPb3JleUtiQ1R6Si1qNU9LX01aZUt6dm9EdE1IZzlsbmdMdXBNV0J6S2NDVzdudzVsSDdWcU5CcUpIRC1PMnJHMFhMTWF2THg2VEpOM2prQmxHWC03ZTV1a3BQZ2ZKOXBCYWlpaXZiWTN2M3AzUndPQkJPY3JmTG1VSjV5TGt3OUtJQ2hLMnVaUmhzdTBCcGVmdktncE1YcnF2bjFkRVdmVnFjNEd2bDdvMTIxdjFuUGlJamFnZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "046e23cfeb1a",
+   "title": "Here are Tuesday's biggest analyst calls of the day: Nvidia, AMD, Procter & Gamble, Meta & more - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjVIZ0pjYkNPdXl1VFJ1TmQ0U2RhWUI1WXdnSG9OQXA0U2tHOXFrc183SUNDV0dSdjVFSEg2ZUdnYzBONm56U2JPeTdtTW54clNfc1BvWGJsQzd2NjNHRG5FWnNHRTVYRFNyNm1PbGZra09sNV9tMjZfWWQyR3B3TTNQQmk",
+   "source": "CNBC",
+   "published_at": "2026-10-06T12:27:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-06T12:27:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjVIZ0pjYkNPdXl1VFJ1TmQ0U2RhWUI1WXdnSG9OQXA0U2tHOXFrc183SUNDV0dSdjVFSEg2ZUdnYzBONm56U2JPeTdtTW54clNfc1BvWGJsQzd2NjNHRG5FWnNHRTVYRFNyNm1PbGZra09sNV9tMjZfWWQyR3B3TTNQQmk"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
+  },
+  {
+   "id": "c86ca0252321",
+   "title": "Nvidia stock hits record high after Foxconn Q3 2026 revenue surge - qz.com",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsWHNQWGdlTElNSUowYmlDcGZ0OEd0bV9kT0RuTXNfTENVc093RGE1bG5IUUN0Ym1UMGxjRm9WMXZ2XzNQUjFCbTVkaVhwX0FJd0ZEcWQtUEZaNC1VSERjTGZrcTRCdWZjWERXQQ",
+   "source": "qz.com",
+   "published_at": "2026-10-06T12:27:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "qz.com",
+     "published_at": "2026-10-06T12:27:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsWHNQWGdlTElNSUowYmlDcGZ0OEd0bV9kT0RuTXNfTENVc093RGE1bG5IUUN0Ym1UMGxjRm9WMXZ2XzNQUjFCbTVkaVhwX0FJd0ZEcWQtUEZaNC1VSERjTGZrcTRCdWZjWERXQQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
+  {
+   "id": "8fa2ed008d96",
+   "title": "AWS and NVIDIA expand CrowdStrike's program; its startups have raised nearly $1B. - Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEk5cHVYeVJrSFdZZjhpdVBnOHpIcVprX044T3p0dDNuTjkyMHlHWTVJOHVkcXJib25mRlNlOUN4dVd3bTN3dXF5RXNvV09IbzZPRVVLamxPVVRfcWdOUDJQeE9PdlJqcmhCT3dTb0tRcnRUOUljYWtGV2dMOEJVaFlvXzUxWE1CYXNjOHFnOXlfVDk5V3hZWjhqYm0wQWpuYy1lTVJzSjgwc18tczhoQ2ptNGhXNlFuZWc",
+   "source": "Stock Titan",
+   "published_at": "2026-10-06T12:23:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stock Titan",
+     "published_at": "2026-10-06T12:23:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEk5cHVYeVJrSFdZZjhpdVBnOHpIcVprX044T3p0dDNuTjkyMHlHWTVJOHVkcXJib25mRlNlOUN4dVd3bTN3dXF5RXNvV09IbzZPRVVLamxPVVRfcWdOUDJQeE9PdlJqcmhCT3dTb0tRcnRUOUljYWtGV2dMOEJVaFlvXzUxWE1CYXNjOHFnOXlfVDk5V3hZWjhqYm0wQWpuYy1lTVJzSjgwc18tczhoQ2ptNGhXNlFuZWc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "d1ca8172a78f",
+   "title": "NVIDIA Heads 3 Top Undervalued Stocks - Simply Wall Street",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMUt0X2JlQXcxXzZTck5NczlsTEtmdkpWckpGVi12YkJGRFVKYzNSeGVVbXdZSUxvcGI1dnBHSG5sT0hCSERVaWkwb3RpSWY3UUw3eUhaUnEzeDZCV0RQai1UX1RORTFBOVZmUEZyXy1GcTJrNHRxLXFWSjAtWGNaY1VOblF6Q01QN0FXbVhGM09IVVFXRlNHbTVNX21qQUF2ekkxaVJjZTFJWHFK0gGyAUFVX3lxTFBvWW1qRXlBYjNSRWdhSEtSSjRIc1NhQzRMNU9tbGlvRThHNWo5WGNUVUlBRDZRZDRYNkppU0d0NTFxOEdoR0I5eVJhR1ZqbEtEaHRqM3RPaU9QZ283bkc1ZDdkX0Q5Sk9VTVc3YVAzem1ZUU90WFB3S1V6YTk3SW5ISjNpdTRUUG9NYVhJenlrVmdOWmRPVUQ0dVZFRHRsS0J2dnU5S1JMMmozYVc4djZOY0E",
+   "source": "Simply Wall Street",
+   "published_at": "2026-10-06T12:22:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Simply Wall Street",
+     "published_at": "2026-10-06T12:22:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMUt0X2JlQXcxXzZTck5NczlsTEtmdkpWckpGVi12YkJGRFVKYzNSeGVVbXdZSUxvcGI1dnBHSG5sT0hCSERVaWkwb3RpSWY3UUw3eUhaUnEzeDZCV0RQai1UX1RORTFBOVZmUEZyXy1GcTJrNHRxLXFWSjAtWGNaY1VOblF6Q01QN0FXbVhGM09IVVFXRlNHbTVNX21qQUF2ekkxaVJjZTFJWHFK0gGyAUFVX3lxTFBvWW1qRXlBYjNSRWdhSEtSSjRIc1NhQzRMNU9tbGlvRThHNWo5WGNUVUlBRDZRZDRYNkppU0d0NTFxOEdoR0I5eVJhR1ZqbEtEaHRqM3RPaU9QZ283bkc1ZDdkX0Q5Sk9VTVc3YVAzem1ZUU90WFB3S1V6YTk3SW5ISjNpdTRUUG9NYVhJenlrVmdOWmRPVUQ0dVZFRHRsS0J2dnU5S1JMMmozYVc4djZOY0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "d03c99f70fc8",
    "title": "CrowdStrike、AWS和英伟达扩展全球网络安全初创企业加速器，定义智能体时代的下一 - moomoo.com",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWFpTSWlkTWYyaWxma0dkX1dHeFY1UC16QjlTX05QbWhDUHdMODZvQ2xOMVBIclI4T0NsdmdUNkVzb05tSjF4REx1UjB1MWJualNOb01qM0hmZDFHQk85Z1hISXhXSU90MUlrT1VxZ1Awb2xfZW9YU1VHUEpRRFRWaGdPVWx3LTNpcXpxemt1aTQtVnJnZzVCYU1renhrYWFLb0dKOVg4ZHRlSkpPanRwa2xObU9GMS1RZTl6a0VIUTEwSTZCbWlYNUdNb3doQQ",
    "source": "moomoo.com",
    "published_at": "2026-10-06T12:18:28+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "moomoo.com",
+     "published_at": "2026-10-06T12:18:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWFpTSWlkTWYyaWxma0dkX1dHeFY1UC16QjlTX05QbWhDUHdMODZvQ2xOMVBIclI4T0NsdmdUNkVzb05tSjF4REx1UjB1MWJualNOb01qM0hmZDFHQk85Z1hISXhXSU90MUlrT1VxZ1Awb2xfZW9YU1VHUEpRRFRWaGdPVWx3LTNpcXpxemt1aTQtVnJnZzVCYU1renhrYWFLb0dKOVg4ZHRlSkpPanRwa2xObU9GMS1RZTl6a0VIUTEwSTZCbWlYNUdNb3doQQ"
+    },
+    {
+     "name": "Moomoo",
      "published_at": "2026-10-06T12:18:28+00:00",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWFpTSWlkTWYyaWxma0dkX1dHeFY1UC16QjlTX05QbWhDUHdMODZvQ2xOMVBIclI4T0NsdmdUNkVzb05tSjF4REx1UjB1MWJualNOb01qM0hmZDFHQk85Z1hISXhXSU90MUlrT1VxZ1Awb2xfZW9YU1VHUEpRRFRWaGdPVWx3LTNpcXpxemt1aTQtVnJnZzVCYU1renhrYWFLb0dKOVg4ZHRlSkpPanRwa2xObU9GMS1RZTl6a0VIUTEwSTZCbWlYNUdNb3doQQ"
     }
@@ -127,12 +217,17 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU0NEakotYVhWNUxpaS1hNDdKa3prMWR5LW1pY0lmN1FEOUlNVEFLQzFTYTNvRE1DM3hVVHBrQ3hNTmd1LWFLNThiRzBLNi13THpFN0hrZDFDc1BhdkwtenNCNjVyWXd6ek9tSkxvc3FjSDRHZHV1bHYydjV4eGhqSA",
    "source": "Yahoo Finance UK",
    "published_at": "2026-10-06T12:04:48+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance UK",
      "published_at": "2026-10-06T12:04:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU0NEakotYVhWNUxpaS1hNDdKa3prMWR5LW1pY0lmN1FEOUlNVEFLQzFTYTNvRE1DM3hVVHBrQ3hNTmd1LWFLNThiRzBLNi13THpFN0hrZDFDc1BhdkwtenNCNjVyWXd6ek9tSkxvc3FjSDRHZHV1bHYydjV4eGhqSA"
+    },
+    {
+     "name": "tradingview.com",
+     "published_at": "2026-10-06T12:04:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa25UaVlBOHhkeVRRc09nUjhSWVVnTW5OSGRkWXhUNDI3bm9JcmNWaG1XRmVGbEZRR3FfVTFuRmhqSWRGTW50UkdqV29vaTVUaVNaNFBzMmdGN016Y0FVLTVZcGJZaUd6OVUwMnZ6VDlaNHhyMGFMa0NaZzhCUmdZSllpMTlpRnRGcXk5UGdsN0MyOXI5bTBDcFlCWDdxcl9KV2J1bUNQcTJkNjQwYzRHa1JNbWxTYTNlckVzX0xrSEk0cGlG"
     }
    ],
    "category": "其他",
@@ -474,6 +569,23 @@
    "sentiment": 1
   },
   {
+   "id": "28bc5c84a33c",
+   "title": "World's most-valuable company Nvidia now runs 'much more like a family business': Meet Jensen Huang's son - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQUmFYeE5EM05JN00zSE9nVGpNT255Y2RvNUYzRVQzaDFnQ2VRSUMzNTV3SDJucjJKWTR6WUt5NkxvTGFlM3RIRnM1SjRGdXNlTE5qLTFERnRmaTBmUEUyZGt1WjRSRDRmTWpxRzNHUU5yOGFaemVFSC1HS28wbm9DeGI0UWlJWEdSV3l0ZGZ0ZlhuSXQ1Q1c3bWg5MzBiOUVuWW55dEpPcDNNbEdTMFhUS1NndFV4T2p3NkJSSzNCWFFOVjVRTnBxQ21RdXNIV01rWDRJRHFZTV9sdHJCcnJRLTU5S0lWVFdhR3pVQ1hrSDc3RExTY2ZlWnUyT2NadDI0UHRsN05tcTlTVFlKcDJ6Q2hsSFFNSlV6X3FNU0RmQ1BMcjZpcDZCNWVXV3RsbEhrQl9HbUlZTWg4NmdzUkxXd1Q5dXNkYmfSAcwCQVVfeXFMUE1MWmVvWUxVQmRyOWJJYnhqWjVhcGdaQUF1aXFlU01VN2tlVXF6c3FJT0Z4NEhKc1NQRFZKNmdoaDJpMzZLeTBZRXJpUTg3UUNwUlRUQmY0ekJZNEhHYm1sN2cyZXdCY2F6cGxwQTJlRTBnWTRxclZUUWJ6Q0lkYV9WdG5hZVlPRjdpNldrU0Q0UFBBbzhuRUxsNUFOMHhLU25TdG5GODNNU0NQanNkOXY3WVdVS2xYdVR0UlpqUU9RSGNzT2lfRk5KTXNqVTgzc2FmclZqUE9LRHg5YXprNEZsNTVadjY4QnJyY3pTLXlmT0o3X2hMTnRHcV8wQW5JZlFvcVI0QWF3UjMzUnRydlEwZjJMZkU4elZicTQtRFlvTGNkN294V0RpTUFZNGlJQkpCdzNvYjZGR214M0g4Q1BaRkEwdkJoVkhOQnc",
+   "source": "The Times of India",
+   "published_at": "2026-10-06T10:55:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Times of India",
+     "published_at": "2026-10-06T10:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQUmFYeE5EM05JN00zSE9nVGpNT255Y2RvNUYzRVQzaDFnQ2VRSUMzNTV3SDJucjJKWTR6WUt5NkxvTGFlM3RIRnM1SjRGdXNlTE5qLTFERnRmaTBmUEUyZGt1WjRSRDRmTWpxRzNHUU5yOGFaemVFSC1HS28wbm9DeGI0UWlJWEdSV3l0ZGZ0ZlhuSXQ1Q1c3bWg5MzBiOUVuWW55dEpPcDNNbEdTMFhUS1NndFV4T2p3NkJSSzNCWFFOVjVRTnBxQ21RdXNIV01rWDRJRHFZTV9sdHJCcnJRLTU5S0lWVFdhR3pVQ1hrSDc3RExTY2ZlWnUyT2NadDI0UHRsN05tcTlTVFlKcDJ6Q2hsSFFNSlV6X3FNU0RmQ1BMcjZpcDZCNWVXV3RsbEhrQl9HbUlZTWg4NmdzUkxXd1Q5dXNkYmfSAcwCQVVfeXFMUE1MWmVvWUxVQmRyOWJJYnhqWjVhcGdaQUF1aXFlU01VN2tlVXF6c3FJT0Z4NEhKc1NQRFZKNmdoaDJpMzZLeTBZRXJpUTg3UUNwUlRUQmY0ekJZNEhHYm1sN2cyZXdCY2F6cGxwQTJlRTBnWTRxclZUUWJ6Q0lkYV9WdG5hZVlPRjdpNldrU0Q0UFBBbzhuRUxsNUFOMHhLU25TdG5GODNNU0NQanNkOXY3WVdVS2xYdVR0UlpqUU9RSGNzT2lfRk5KTXNqVTgzc2FmclZqUE9LRHg5YXprNEZsNTVadjY4QnJyY3pTLXlmT0o3X2hMTnRHcV8wQW5JZlFvcVI0QWF3UjMzUnRydlEwZjJMZkU4elZicTQtRFlvTGNkN294V0RpTUFZNGlJQkpCdzNvYjZGR214M0g4Q1BaRkEwdkJoVkhOQnc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "b705f14a2328",
    "title": "Groq-Nvidia $20B deal faces suit alleging stockholders were shortchanged: report (NVDA:NASDAQ) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNjI0TjFHSm9fRUoyclQ0V2Y1X2RuR3FUVmhRS3BTa1pFWWNjQWxyNzZGTDJiSThqcHdXYWtCTlVhTnh6U3otRjVVR1ZiMTNqVEI5d3BOckdaZ3lpRWJZLWE1SmtCMmZmQ0lWX0NKU3Y3ZTJfSlN4Z3dNbmNVQWJRVkR0RkppdS04dWlLeUJMRWR3LS12bS0zTEhPMEgtbzF3UVhha3ZkbHhJVmIxVGZOYlRFUktlZEk",
@@ -519,7 +631,7 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMEFFcVZWVUxwYk9QVHVVRW1jY29KU2hHejREVUozQnlyblVuWkhTVEVYZlFKSHN4MUFaZ2FqNWxONWh4cmRmTkY3d3Awd3R3RERzWHRXb0didTNvVHY0S25YSjRlOHJZcjJjbWdsNWREcWh2YzBUUUZnZzlvT3E4VEd6eWV0elZtUUxzYVBQV0s3OWo0bnd2OUlSa1EtVkRMeWRqSDA3MDRtaXU0emc",
    "source": "Seeking Alpha",
    "published_at": "2026-10-06T10:25:27+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Seeking Alpha",
@@ -530,6 +642,11 @@
      "name": "seekingalpha.com",
      "published_at": "2026-10-06T10:25:27+00:00",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMEFFcVZWVUxwYk9QVHVVRW1jY29KU2hHejREVUozQnlyblVuWkhTVEVYZlFKSHN4MUFaZ2FqNWxONWh4cmRmTkY3d3Awd3R3RERzWHRXb0didTNvVHY0S25YSjRlOHJZcjJjbWdsNWREcWh2YzBUUUZnZzlvT3E4VEd6eWV0elZtUUxzYVBQV0s3OWo0bnd2OUlSa1EtVkRMeWRqSDA3MDRtaXU0emc"
+    },
+    {
+     "name": "tradingview.com",
+     "published_at": "2026-10-06T10:25:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2ZSdlRkZDJyX3M3czU0QjF5SzZrMEJMQ2NuU1lIeFBfd3FMRC10QVRIaElNYlNORFd5Vkx3VGFUZUFLbXd4Q095QzJZVEFtLVhtd3FDaVd0UEZRYWUwb2Z0S1dMd0xSXzQwLVMyMElGQm9vTG8yQkp0d3Zpb1J1M3ptcmY0S19BdEg0RFNpN3hrVnY5MHpzelFmWGxTZnBjUnllVUMwbVM0Y2RnSklOY2lfSmdZaHU5YnVjbHRaMm5GZ2NWVGVIdE1LN09uRFk"
     }
    ],
    "category": "市场宏观",
@@ -704,7 +821,7 @@
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUtFd2hpakhjeXVQZ3U2UVJUS1Y2d2pjNWY4Tlk4SlYza21qT3FlaFFaQWpZV3Z3VlQ4STRTbmdfZnJnQkQyZUxCdkdkMmQ5WXgwNk1zUkxIVGFHbE54TE1xQjRET2xNN1NMYlhVT2pBbEV6WUM0X2FQVXUyMmdvQ0NBeHliUjM2Q3REMVluQ0s4MnU1R1h0Q2luSjlMNmd6YURKZENGOGdlMWdDUmlSMF9QNC1FdkY5R1JvMzU5MXFQdFllUXc",
    "source": "The Motley Fool",
    "published_at": "2026-10-06T09:10:09+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -720,10 +837,16 @@
      "name": "finance.yahoo.com",
      "published_at": "2026-10-06T09:26:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRWpKdnEwZHFfWVMtWW5EYWFLZDNiMnRhUmNWei1KTWFrSF9ZVWVPZzhrdlYwWk9Rd0Q1NlI0X1F1NmxhV0VsZ05iWG1aMzlxd25aVUltTXhkbGNMdTVXcmlQVXBKT2hGT0V4WmJjMVF4b24wbkhraHVQdHZtb09EV3k5anFEUEJWVTRfTDlTVk9FaEllNW9aLWN6MmpJYTRaeWlZVVEzOUE4d1Z4"
+    },
+    {
+     "name": "fool.com",
+     "published_at": "2026-10-06T10:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUtFd2hpakhjeXVQZ3U2UVJUS1Y2d2pjNWY4Tlk4SlYza21qT3FlaFFaQWpZV3Z3VlQ4STRTbmdfZnJnQkQyZUxCdkdkMmQ5WXgwNk1zUkxIVGFHbE54TE1xQjRET2xNN1NMYlhVT2pBbEV6WUM0X2FQVXUyMmdvQ0NBeHliUjM2Q3REMVluQ0s4MnU1R1h0Q2luSjlMNmd6YURKZENGOGdlMWdDUmlSMF9QNC1FdkY5R1JvMzU5MXFQdFllUXc"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "英伟达等三家公司发出175亿美元警示",
    "title_zh": "英伟达、Palantir和Alphabet以175亿美元警示震动华尔街",
    "sentiment": -1
@@ -8061,166 +8184,6 @@
    "zh_summary": "AM公司订购2万块英伟达GPU",
    "title_zh": "AM Intelligence订购2万颗英伟达GPU，价值40亿美元",
    "sentiment": 2
-  },
-  {
-   "id": "62d703447661",
-   "title": "HPE’s $1.2B AMD Helios Deal Matches Nvidia’s 72 GPUs [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HYzB6UkhhbFJpWkw3TUdYamNrTnZNSHIxRkV1bjBha05xQkVDYXdZSDFyM1IxLUQ5emt5d1BrNzE1TmE4bUdRU1ZlR29FTERoVUFQcHd6cFUxdkthQ2szMVJmcXJZTVNCRFk4eUktMWIxZw",
-   "source": "shattered.io",
-   "published_at": "2026-10-05T02:53:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-05T02:53:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HYzB6UkhhbFJpWkw3TUdYamNrTnZNSHIxRkV1bjBha05xQkVDYXdZSDFyM1IxLUQ5emt5d1BrNzE1TmE4bUdRU1ZlR29FTERoVUFQcHd6cFUxdkthQ2szMVJmcXJZTVNCRFk4eUktMWIxZw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "HPE 12亿美元AMD订单，对标英伟达72卡方案",
-   "title_zh": "HPE 12亿美元采购AMD Helios系统，对标英伟达72卡方案",
-   "sentiment": -1
-  },
-  {
-   "id": "949ffe98a9aa",
-   "title": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWklSdjZwSjAwQ0VRdzZ3ZnREX25PNjZRQi1OcTBWd0JsUUUzaFcyR19HSUhRMFVfQllIcjd2akItY3dPcGdndlV6RnRSS3ZnSjRIOWx5eFc5QXM3cGJNMzI2ZVdUWTJqNWl5eThMNlEwbVkzb2lWcXVOb0N0eUQ1VTFVblAzclpVeXdjSWFDMGpPem9VUXpBclU2RjZZQ1pzd2hfRktuNWZVeE9Id2NDZF9XUGlzT2NNVXhBeEhIZ18tRElxbElRLS14d2JoU0U0cy1Xc1ZIS3U5VUVYbGNyZDhfWlV1WFU3bEQ5V05wRTFxRDlQM3E2MlJTMHpXa1U5S1VDSENwLWJnX3g4X2s5QVNiVmNEMmszNG5lbldodzRET2lFX1hIZkdQclRFZURfWEJycWRyNGJvN05CTDc5eXE2bGFsZlhGeUd6dHl0bThmZ9IB1wJBVV95cUxNRGJhSk5YRGwzdlZRcVFRcU9WWkc1V1k2QUVmanpJZzF6V0dmbWRxTFozQ0lIRGtRbkFwaUI3anVnalJCem90WUw0SVpPdDhHaDRVTno4ZzZRWDU0NF9fdFhfQnVucXM5MnBhaS1PbVRxTnVlRldsRXc1MTIzbEhxd1I3WHFFUXZ3dmFJX3NtcEFmZ1dCZE9GdWVEUi1Sc1JOMnhlREZtelNLTF9KN0s5Z1RLbGFuXzY5VFpiQWU3TU93a2dwbjZIY21WcGRsRkZMZ1dGSTNuMnlWMHB6ZS1qZ3AtT0pTNUpYZFZIVm92YVBaSFlzQWxRekY1VUFhQWdBcTQzRTV5TmVXdjBXa1E2ZTJ4bjlFeXRETHkxMnZyQS05V0laY2FzLUhaZ0lqVHRlUThpekJkQ1YzT0xGbTY1MnNuUE42OHE5dXhVWEM5bTQ4Y0pFYVdn",
-   "source": "The Times of India",
-   "published_at": "2026-10-05T02:44:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Times of India",
-     "published_at": "2026-10-05T02:44:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWklSdjZwSjAwQ0VRdzZ3ZnREX25PNjZRQi1OcTBWd0JsUUUzaFcyR19HSUhRMFVfQllIcjd2akItY3dPcGdndlV6RnRSS3ZnSjRIOWx5eFc5QXM3cGJNMzI2ZVdUWTJqNWl5eThMNlEwbVkzb2lWcXVOb0N0eUQ1VTFVblAzclpVeXdjSWFDMGpPem9VUXpBclU2RjZZQ1pzd2hfRktuNWZVeE9Id2NDZF9XUGlzT2NNVXhBeEhIZ18tRElxbElRLS14d2JoU0U0cy1Xc1ZIS3U5VUVYbGNyZDhfWlV1WFU3bEQ5V05wRTFxRDlQM3E2MlJTMHpXa1U5S1VDSENwLWJnX3g4X2s5QVNiVmNEMmszNG5lbldodzRET2lFX1hIZkdQclRFZURfWEJycWRyNGJvN05CTDc5eXE2bGFsZlhGeUd6dHl0bThmZ9IB1wJBVV95cUxNRGJhSk5YRGwzdlZRcVFRcU9WWkc1V1k2QUVmanpJZzF6V0dmbWRxTFozQ0lIRGtRbkFwaUI3anVnalJCem90WUw0SVpPdDhHaDRVTno4ZzZRWDU0NF9fdFhfQnVucXM5MnBhaS1PbVRxTnVlRldsRXc1MTIzbEhxd1I3WHFFUXZ3dmFJX3NtcEFmZ1dCZE9GdWVEUi1Sc1JOMnhlREZtelNLTF9KN0s5Z1RLbGFuXzY5VFpiQWU3TU93a2dwbjZIY21WcGRsRkZMZ1dGSTNuMnlWMHB6ZS1qZ3AtT0pTNUpYZFZIVm92YVBaSFlzQWxRekY1VUFhQWdBcTQzRTV5TmVXdjBXa1E2ZTJ4bjlFeXRETHkxMnZyQS05V0laY2FzLUhaZ0lqVHRlUThpekJkQ1YzT0xGbTY1MnNuUE42OHE5dXhVWEM5bTQ4Y0pFYVdn"
-    },
-    {
-     "name": "timesofindia.indiatimes.com",
-     "published_at": "2026-10-05T02:44:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWklSdjZwSjAwQ0VRdzZ3ZnREX25PNjZRQi1OcTBWd0JsUUUzaFcyR19HSUhRMFVfQllIcjd2akItY3dPcGdndlV6RnRSS3ZnSjRIOWx5eFc5QXM3cGJNMzI2ZVdUWTJqNWl5eThMNlEwbVkzb2lWcXVOb0N0eUQ1VTFVblAzclpVeXdjSWFDMGpPem9VUXpBclU2RjZZQ1pzd2hfRktuNWZVeE9Id2NDZF9XUGlzT2NNVXhBeEhIZ18tRElxbElRLS14d2JoU0U0cy1Xc1ZIS3U5VUVYbGNyZDhfWlV1WFU3bEQ5V05wRTFxRDlQM3E2MlJTMHpXa1U5S1VDSENwLWJnX3g4X2s5QVNiVmNEMmszNG5lbldodzRET2lFX1hIZkdQclRFZURfWEJycWRyNGJvN05CTDc5eXE2bGFsZlhGeUd6dHl0bThmZ9IB1wJBVV95cUxNRGJhSk5YRGwzdlZRcVFRcU9WWkc1V1k2QUVmanpJZzF6V0dmbWRxTFozQ0lIRGtRbkFwaUI3anVnalJCem90WUw0SVpPdDhHaDRVTno4ZzZRWDU0NF9fdFhfQnVucXM5MnBhaS1PbVRxTnVlRldsRXc1MTIzbEhxd1I3WHFFUXZ3dmFJX3NtcEFmZ1dCZE9GdWVEUi1Sc1JOMnhlREZtelNLTF9KN0s5Z1RLbGFuXzY5VFpiQWU3TU93a2dwbjZIY21WcGRsRkZMZ1dGSTNuMnlWMHB6ZS1qZ3AtT0pTNUpYZFZIVm92YVBaSFlzQWxRekY1VUFhQWdBcTQzRTV5TmVXdjBXa1E2ZTJ4bjlFeXRETHkxMnZyQS05V0laY2FzLUhaZ0lqVHRlUThpekJkQ1YzT0xGbTY1MnNuUE42OHE5dXhVWEM5bTQ4Y0pFYVdn"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "加州男子因走私英伟达芯片被捕",
-   "title_zh": "加州男子因向中国走私被禁英伟达芯片被捕",
-   "sentiment": -1
-  },
-  {
-   "id": "57df9b2b82d9",
-   "title": "英伟达市值飙升推动黄仁勋净资产重返2000亿美元，全球富豪榜跃居第七 - sohu.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa21DbW93c05FX2hwcnkxQlNwcU4wVTgtVzNWbFIxSlJxNmpLOTRDOVg3V0ZIQlZmRUNhMzJjX21SMWtULXNPeDg1dFQxQkNZVUVacVNPcE9kN3p2c2dNMmtYT3p6dzViQnNNSERHNEduSktxVUZJX2ZuWUxlVnRZZjVBREs4TG1W",
-   "source": "sohu.com",
-   "published_at": "2026-10-05T02:40:38+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-05T02:40:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa21DbW93c05FX2hwcnkxQlNwcU4wVTgtVzNWbFIxSlJxNmpLOTRDOVg3V0ZIQlZmRUNhMzJjX21SMWtULXNPeDg1dFQxQkNZVUVacVNPcE9kN3p2c2dNMmtYT3p6dzViQnNNSERHNEduSktxVUZJX2ZuWUxlVnRZZjVBREs4TG1W"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-05T02:40:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa21DbW93c05FX2hwcnkxQlNwcU4wVTgtVzNWbFIxSlJxNmpLOTRDOVg3V0ZIQlZmRUNhMzJjX21SMWtULXNPeDg1dFQxQkNZVUVacVNPcE9kN3p2c2dNMmtYT3p6dzViQnNNSERHNEduSktxVUZJX2ZuWUxlVnRZZjVBREs4TG1W"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "黄仁勋身家重回2000亿美元，富豪榜第七",
-   "title_zh": "英伟达市值飙升推动黄仁勋净资产重返2000亿美元，全球富豪榜跃居第七",
-   "sentiment": 1
-  },
-  {
-   "id": "a47592e558d5",
-   "title": "华擎DeskSlim X600 / B760台式机支持英伟达RTX PRO Blackwell显卡 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcHM5WmFnVEpJMjB3ZG00Q0NCblFtWDNuQ0wydFFTSGNHWmV6SzdQSE1rdEdCTmtDS29UV01VTzdWa0kwQ3BFMXlZbG42aUI4STlPRTVKdEZvc1FkRzFRSXJZTWF6RE9TNHpndGRCa0pFdjNiZ0pwQTMxY0p6VkxzMjV6WUlJNTc3",
-   "source": "搜狐网",
-   "published_at": "2026-10-05T02:21:24+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-05T02:21:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcHM5WmFnVEpJMjB3ZG00Q0NCblFtWDNuQ0wydFFTSGNHWmV6SzdQSE1rdEdCTmtDS29UV01VTzdWa0kwQ3BFMXlZbG42aUI4STlPRTVKdEZvc1FkRzFRSXJZTWF6RE9TNHpndGRCa0pFdjNiZ0pwQTMxY0p6VkxzMjV6WUlJNTc3"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-05T02:24:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82bEJJWE5RVVIwQ0tZcVNhVnBqSVFrNHNOVU1ZWl9VbXNuX2FZT0RiUW9VY0xSZjJoSFRVb1hYRUNfOGViU3NwSg"
-    },
-    {
-     "name": "i.ifeng.com",
-     "published_at": "2026-10-05T02:24:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82bEJJWE5RVVIwQ0tZcVNhVnBqSVFrNHNOVU1ZWl9VbXNuX2FZT0RiUW9VY0xSZjJoSFRVb1hYRUNfOGViU3NwSg"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-05T02:24:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51MEtKcUx0UWVBaGgxZHhtWFJTZm9SNU1XOEFYVG5PbWo4TVFUWGRxeGtzSE5haV9RUEp1MlNzR192Y1RPa3ZCaEY4Mlg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "breaking": true,
-   "zh_summary": "华擎台式机支持RTX PRO显卡",
-   "title_zh": "华擎DeskSlim X600 / B760台式机支持英伟达RTX PRO Blackwell显卡 - 搜狐网",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.4,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "9d96c1a3000d",
-   "title": "NVIDIA市值冲上5.6万亿美元 黄仁勋身价重回2000亿美元行列 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZDdRd08yRDlzWUVuem1DU3phZDRlZ21Id0dzdk5TdDdpNkdCSm5GMk5FVkRDX01mb2gwY3EtY3VJZTBWNUxaV05XRmhLQkNRMmJMcnFXc1I4VGw3YlNYTjRpTk1fRWVKWW5vSkRSb1dyMU5FUGQ1dkVGUlBzb2M",
-   "source": "新浪财经",
-   "published_at": "2026-10-05T02:16:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-05T02:16:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZDdRd08yRDlzWUVuem1DU3phZDRlZ21Id0dzdk5TdDdpNkdCSm5GMk5FVkRDX01mb2gwY3EtY3VJZTBWNUxaV05XRmhLQkNRMmJMcnFXc1I4VGw3YlNYTjRpTk1fRWVKWW5vSkRSb1dyMU5FUGQ1dkVGUlBzb2M"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-05T02:16:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZDdRd08yRDlzWUVuem1DU3phZDRlZ21Id0dzdk5TdDdpNkdCSm5GMk5FVkRDX01mb2gwY3EtY3VJZTBWNUxaV05XRmhLQkNRMmJMcnFXc1I4VGw3YlNYTjRpTk1fRWVKWW5vSkRSb1dyMU5FUGQ1dkVGUlBzb2M"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达市值冲上5.6万亿美元",
-   "title_zh": "NVIDIA市值冲上5.6万亿美元 黄仁勋身价重回2000亿美元行列 - 新浪财经",
-   "sentiment": 1
-  },
-  {
-   "id": "6dae1b076b3b",
-   "title": "Nvidia, AMD and Nasdaq Are Hitting New Highs. What Comes Next? - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejZsNEpvX3NWYkxtSTBvRUVBeUxrVV9JME1QTloxcFU4WGkxRTd2dkhhN3NRM3prcTdfNmJTQnVhX3JpVm0yLUlvUi1hZkhZWFFNcnpOUFVCd1JQLWpsa2xuaVdRdFdIZDBXR0F1R1BwTXVab0l1Y2RmNXM2M3FlRGtqd1dUYTlZNWtQTnhQcDFDdktEYmN4dU1Qcmd5RWYzcWV5M0dHa1UwUFVL",
-   "source": "Moomoo",
-   "published_at": "2026-10-05T02:07:06+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-05T02:07:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejZsNEpvX3NWYkxtSTBvRUVBeUxrVV9JME1QTloxcFU4WGkxRTd2dkhhN3NRM3prcTdfNmJTQnVhX3JpVm0yLUlvUi1hZkhZWFFNcnpOUFVCd1JQLWpsa2xuaVdRdFdIZDBXR0F1R1BwTXVab0l1Y2RmNXM2M3FlRGtqd1dUYTlZNWtQTnhQcDFDdktEYmN4dU1Qcmd5RWYzcWV5M0dHa1UwUFVL"
-    },
-    {
-     "name": "moomoo.com",
-     "published_at": "2026-10-05T02:07:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOejZsNEpvX3NWYkxtSTBvRUVBeUxrVV9JME1QTloxcFU4WGkxRTd2dkhhN3NRM3prcTdfNmJTQnVhX3JpVm0yLUlvUi1hZkhZWFFNcnpOUFVCd1JQLWpsa2xuaVdRdFdIZDBXR0F1R1BwTXVab0l1Y2RmNXM2M3FlRGtqd1dUYTlZNWtQTnhQcDFDdktEYmN4dU1Qcmd5RWYzcWV5M0dHa1UwUFVL"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "周末",
-   "zh_summary": "英伟达AMD纳指齐创新高",
-   "title_zh": "英伟达、AMD和纳斯达克齐创新高，接下来会怎样",
-   "sentiment": 1
   }
  ]
 }
