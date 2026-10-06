@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T06:51:28.136281+00:00",
+ "updated_at": "2026-10-06T07:06:28.163272+00:00",
  "market": {
   "price": 238.9,
   "change_pct": 2.12,
@@ -10,8 +10,8 @@
    "days_left": 42
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 212
+   "avg": 1.0,
+   "count": 1
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.50（212条已评分）"
+     "note": "今日新闻情绪 +1.00（1条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.9,
    "ma20": 224.21,
-   "as_of": "2026-10-06T06:51:28.119845+00:00"
+   "as_of": "2026-10-06T07:06:28.145837+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "cf3879d33b5c",
+   "title": "获英伟达支持的美国人工智能初创公司Reflection AI于当地时间5日发布了其尖端的开 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcE00WkFocTh3N21ESGZ6Sk9DMW5GTXpkWEJha0YzU0s5WGcyWHg2U1dyeFdEclBHVHlxNTNRMlZwdWd3TWlnNmVjQ1YyVEwxc1lRZWdETWE0NGJzSEpJLVF1MGt4ZTMxem9LaHVYc3M5Und4TGYzOHZidjBUQnVpYXFJNkRXODM2YnNFSEZ4UUs2dFdhN0VDYXVSYXFzQjlhbDdsNldLY0U3TWZo",
+   "source": "富途牛牛",
+   "published_at": "2026-10-06T06:50:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-06T06:50:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcE00WkFocTh3N21ESGZ6Sk9DMW5GTXpkWEJha0YzU0s5WGcyWHg2U1dyeFdEclBHVHlxNTNRMlZwdWd3TWlnNmVjQ1YyVEwxc1lRZWdETWE0NGJzSEpJLVF1MGt4ZTMxem9LaHVYc3M5Und4TGYzOHZidjBUQnVpYXFJNkRXODM2YnNFSEZ4UUs2dFdhN0VDYXVSYXFzQjlhbDdsNldLY0U3TWZo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "3f557462e4b7",
    "title": "GIGABYTE Showcases NVIDIA-Powered AI from Desktop to Enterprise Scale at Ai Everything Abu Dhabi 2026 - PR Newswire",
@@ -542,6 +559,23 @@
    "zh_summary": "英伟达等5只股票今日受投资者关注",
    "title_zh": "英伟达等5只股票为何今日备受投资者关注",
    "sentiment": 0
+  },
+  {
+   "id": "0566d18afa39",
+   "title": "硬科技早报|DeepSeek冲向10万亿参数；英伟达、台积电股价历史新高 - 观察者网",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41cHRQaXpRSDZEUTdWSEVaRDdmSGhfUndYSXNoMXozakVXTnB4dnhhSXJwWXpvZ05rc1BGOGxieEJiUzdjWGpaLWpFcGhKZDhJeUdnbEx6N1d5WU9xc2Y3Wng5cjc",
+   "source": "观察者网",
+   "published_at": "2026-10-06T01:10:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观察者网",
+     "published_at": "2026-10-06T01:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41cHRQaXpRSDZEUTdWSEVaRDdmSGhfUndYSXNoMXozakVXTnB4dnhhSXJwWXpvZ05rc1BGOGxieEJiUzdjWGpaLWpFcGhKZDhJeUdnbEx6N1d5WU9xc2Y3Wng5cjc"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘后"
   },
   {
    "id": "cd023445c0b0",
@@ -8205,56 +8239,6 @@
    "zh_summary": "Csenge Advisory 增持英伟达",
    "title_zh": "Csenge Advisory 集团增持英伟达股票",
    "sentiment": 1
-  },
-  {
-   "id": "cdd966919e94",
-   "title": "Abacus FCF Advisors LLC Cuts Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYUQySUc1YUtURVZVUENjWWlLcVFPcnhCTnJpQlJ2QWFNUEMxYXhaQnZ5ZHZPRFJrVzVYUXQ2TE1FbWxhOThLSHNDOTFvQmZNOXhvZ0NKcXI0M1pCZGFJNUU1dGRyR2ZuTzU3WGVGRmNKUlRvZDFDbEU0WGRXQ0pSbGxjbmtLdXlRYkpjVmM2UEtlaGZRNUtRV0hkMzc5QVNsQTVwOHN4RmxFZTZXRmgwQktDTkhnbDRYdmtjSzViV3VqOEFaLUR4dmRldw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-04T07:16:42+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-04T07:16:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYUQySUc1YUtURVZVUENjWWlLcVFPcnhCTnJpQlJ2QWFNUEMxYXhaQnZ5ZHZPRFJrVzVYUXQ2TE1FbWxhOThLSHNDOTFvQmZNOXhvZ0NKcXI0M1pCZGFJNUU1dGRyR2ZuTzU3WGVGRmNKUlRvZDFDbEU0WGRXQ0pSbGxjbmtLdXlRYkpjVmM2UEtlaGZRNUtRV0hkMzc5QVNsQTVwOHN4RmxFZTZXRmgwQktDTkhnbDRYdmtjSzViV3VqOEFaLUR4dmRldw"
-    },
-    {
-     "name": "marketbeat.com",
-     "published_at": "2026-10-04T07:16:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYUQySUc1YUtURVZVUENjWWlLcVFPcnhCTnJpQlJ2QWFNUEMxYXhaQnZ5ZHZPRFJrVzVYUXQ2TE1FbWxhOThLSHNDOTFvQmZNOXhvZ0NKcXI0M1pCZGFJNUU1dGRyR2ZuTzU3WGVGRmNKUlRvZDFDbEU0WGRXQ0pSbGxjbmtLdXlRYkpjVmM2UEtlaGZRNUtRV0hkMzc5QVNsQTVwOHN4RmxFZTZXRmgwQktDTkhnbDRYdmtjSzViV3VqOEFaLUR4dmRldw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Abacus 减持英伟达股份",
-   "title_zh": "Abacus FCF Advisors 减持英伟达股票",
-   "sentiment": -1
-  },
-  {
-   "id": "4cc40fafd0fa",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by Puzo Michael J - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFc4Q1h2ZWd1QmVseUtiN1hRY3pybFJTbzRiREh1MkplbFVJMUdqRXgydGRmRWtFbWo0c1JmNTVHem45amRod0tFaUUwOXFkNnZqOWNxQ3hOLXRqM1d0ZWtCc29RLWRhQk9SVGNQZTVZWlRXZGkxTnNid19CbWZVaFF1Z0o0RnpuM3dyYVF6ZG80amI3OUMwYjA2YUpGcHc2c2REQTRXYVVYYXBMcEk5bGxQeHg",
-   "source": "MarketBeat",
-   "published_at": "2026-10-04T07:16:41+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-04T07:16:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFc4Q1h2ZWd1QmVseUtiN1hRY3pybFJTbzRiREh1MkplbFVJMUdqRXgydGRmRWtFbWo0c1JmNTVHem45amRod0tFaUUwOXFkNnZqOWNxQ3hOLXRqM1d0ZWtCc29RLWRhQk9SVGNQZTVZWlRXZGkxTnNid19CbWZVaFF1Z0o0RnpuM3dyYVF6ZG80amI3OUMwYjA2YUpGcHc2c2REQTRXYVVYYXBMcEk5bGxQeHg"
-    },
-    {
-     "name": "marketbeat.com",
-     "published_at": "2026-10-04T07:16:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFc4Q1h2ZWd1QmVseUtiN1hRY3pybFJTbzRiREh1MkplbFVJMUdqRXgydGRmRWtFbWo0c1JmNTVHem45amRod0tFaUUwOXFkNnZqOWNxQ3hOLXRqM1d0ZWtCc29RLWRhQk9SVGNQZTVZWlRXZGkxTnNid19CbWZVaFF1Z0o0RnpuM3dyYVF6ZG80amI3OUMwYjA2YUpGcHc2c2REQTRXYVVYYXBMcEk5bGxQeHg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Puzo 卖出英伟达股票",
-   "title_zh": "Puzo Michael J 卖出英伟达股票",
-   "sentiment": -1
   }
  ]
 }
