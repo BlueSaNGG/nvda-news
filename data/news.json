@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T23:06:50.987435+00:00",
+ "updated_at": "2026-10-06T23:21:30.828787+00:00",
  "market": {
   "price": 239.24,
   "change_pct": 0.14,
@@ -10,8 +10,8 @@
    "days_left": 42
   },
   "day_sentiment": {
-   "avg": 0.63,
-   "count": 164
+   "avg": 0.64,
+   "count": 166
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.63（164条已评分）"
+     "note": "今日新闻情绪 +0.64（166条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.7,
    "ma20": 224.89,
-   "as_of": "2026-10-06T23:06:50.977657+00:00"
+   "as_of": "2026-10-06T23:21:30.818807+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "49f181b932fc",
+   "title": "美股讯号 | SpaceX 筹集 400 亿美元资金购买英伟达芯片 ｜#美股资讯# #英伟达# #行业竞争# - Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcm8ydEtybkxQaTBnTmNuMXQ5ZjNqd0szYnVYWHZEcWthWkZNRDZEcFE4MGdYN0ctcWJwb0dpQm9reW5hdHlUck0wWUMtZWdRaXBoRkw1dlRQSkVLZlJWRGpiVUZ2YVhuYTBmdmxSNjkzUVU4NzJqbFJKX0RpQWR6MjNNU3dCSmNRUjBFaw",
+   "source": "Sohu",
+   "published_at": "2026-10-06T22:57:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Sohu",
+     "published_at": "2026-10-06T22:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcm8ydEtybkxQaTBnTmNuMXQ5ZjNqd0szYnVYWHZEcWthWkZNRDZEcFE4MGdYN0ctcWJwb0dpQm9reW5hdHlUck0wWUMtZWdRaXBoRkw1dlRQSkVLZlJWRGpiVUZ2YVhuYTBmdmxSNjkzUVU4NzJqbFJKX0RpQWR6MjNNU3dCSmNRUjBFaw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
   {
    "id": "4aef53c85ec3",
    "title": "英伟达RTX Spark版Surface Laptop Ultra规格曝光 20核Grace CPU搭配6144 CUDA核心 - cnBeta.COM",
@@ -77,9 +94,43 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "英伟达RTX Spark版Surface Laptop Ultra规格曝光 20核Grace CPU搭配6144 CUDA核心 - cnBeta.COM",
    "zh_summary": "英伟达RTX Spark规格曝光，搭Surface",
+   "title_zh": "英伟达RTX Spark版Surface Laptop Ultra规格曝光 20核Grace CPU搭配6144 CUDA核心 - cnBeta.COM",
    "sentiment": 1
+  },
+  {
+   "id": "74ef04b94e44",
+   "title": "NVIDIA Promotes Ex-Skier Son-in-Law to AI Leadership - 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXB5MmVyOGlHWmNnRFpRU2tVUUFwb3QzY2o1STdxVkRxMzZydmZuRmlXb2hKQTY5eFhSNFF0NjRFVHVtQllaSDNfUmVRZGFlQW1LVl9SajJWdEh1cG1vbDVMN3J6M3FXdXdaRlM3anlBSVJTRTJLVnRGRkd3ekJvVmVoVk1rVFZ6",
+   "source": "조선일보",
+   "published_at": "2026-10-06T22:48:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "조선일보",
+     "published_at": "2026-10-06T22:48:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXB5MmVyOGlHWmNnRFpRU2tVUUFwb3QzY2o1STdxVkRxMzZydmZuRmlXb2hKQTY5eFhSNFF0NjRFVHVtQllaSDNfUmVRZGFlQW1LVl9SajJWdEh1cG1vbDVMN3J6M3FXdXdaRlM3anlBSVJTRTJLVnRGRkd3ekJvVmVoVk1rVFZ6"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "65d31f405d5b",
+   "title": "SpaceX拟融资400亿美元采购英伟达芯片 - DoNews",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BbzNsZW9sRG5jLUNiOGR0NjVnaUFkb1VRR250ejZOeW8xeHMtRmd4SVRwLVpfVFRybGdMaVpvNk1lV2lKTUxIV0lzRFdZanZ2Tk93TThqZl9GcThqUFE",
+   "source": "DoNews",
+   "published_at": "2026-10-06T22:46:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "DoNews",
+     "published_at": "2026-10-06T22:46:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BbzNsZW9sRG5jLUNiOGR0NjVnaUFkb1VRR250ejZOeW8xeHMtRmd4SVRwLVpfVFRybGdMaVpvNk1lV2lKTUxIV0lzRFdZanZ2Tk93TThqZl9GcThqUFE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "fdc5ef0df107",
@@ -125,31 +176,6 @@
    "breaking": true,
    "zh_summary": "SpaceX拟筹400亿美元采购英伟达芯片",
    "title_zh": "SpaceX计划筹集400亿美元采购英伟达芯片（FT报道）",
-   "sentiment": 1
-  },
-  {
-   "id": "96feea387763",
-   "title": "SpaceX计划筹集400亿美元以采购英伟达芯片 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14SE1QYWdaVE1LZV9mZGRXZEZOQ0ZPTENCNzV5cUtZU0lOSlV3LUYwVWlPaF8xM3pfOUwyUnpXU1YtQVFDMFpOenBpWnFPYlhXX2tHekd2Z2kzX0tHOFJBNi1zMA",
-   "source": "东方财富",
-   "published_at": "2026-10-06T22:35:18+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-06T22:35:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14SE1QYWdaVE1LZV9mZGRXZEZOQ0ZPTENCNzV5cUtZU0lOSlV3LUYwVWlPaF8xM3pfOUwyUnpXU1YtQVFDMFpOenBpWnFPYlhXX2tHekd2Z2kzX0tHOFJBNi1zMA"
-    },
-    {
-     "name": "DoNews",
-     "published_at": "2026-10-06T22:46:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BbzNsZW9sRG5jLUNiOGR0NjVnaUFkb1VRR250ejZOeW8xeHMtRmd4SVRwLVpfVFRybGdMaVpvNk1lV2lKTUxIV0lzRFdZanZ2Tk93TThqZl9GcThqUFE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "SpaceX拟筹400亿美元采购英伟达芯片",
-   "title_zh": "SpaceX计划筹集400亿美元以采购英伟达芯片 - 东方财富",
    "sentiment": 1
   },
   {
@@ -210,6 +236,36 @@
    "session": "盘后",
    "zh_summary": "英伟达支持的Lambda拟融资40亿美元冲刺IPO",
    "title_zh": "AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO - 新浪网",
+   "sentiment": 1
+  },
+  {
+   "id": "d814d0ad9939",
+   "title": "SpaceX计划筹集400亿美元资金以购买英伟达芯片 | 环球市场 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxYnpPbHBXa1IzMWVucEYxZllQRV9IMGV4ZzFUamZtVDROQm1lUWRoM2NfbHBlLTFfWU45Q2luVW1mSzdtTzR4cA",
+   "source": "财联社",
+   "published_at": "2026-10-06T22:02:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-06T22:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxYnpPbHBXa1IzMWVucEYxZllQRV9IMGV4ZzFUamZtVDROQm1lUWRoM2NfbHBlLTFfWU45Q2luVW1mSzdtTzR4cA"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-06T22:35:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14SE1QYWdaVE1LZV9mZGRXZEZOQ0ZPTENCNzV5cUtZU0lOSlV3LUYwVWlPaF8xM3pfOUwyUnpXU1YtQVFDMFpOenBpWnFPYlhXX2tHekd2Z2kzX0tHOFJBNi1zMA"
+    },
+    {
+     "name": "DoNews",
+     "published_at": "2026-10-06T22:46:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BbzNsZW9sRG5jLUNiOGR0NjVnaUFkb1VRR250ejZOeW8xeHMtRmd4SVRwLVpfVFRybGdMaVpvNk1lV2lKTUxIV0lzRFdZanZ2Tk93TThqZl9GcThqUFE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后",
+   "zh_summary": "SpaceX拟筹400亿美元采购英伟达芯片",
+   "title_zh": "SpaceX计划筹集400亿美元以采购英伟达芯片 - 东方财富",
    "sentiment": 1
   },
   {
@@ -663,8 +719,8 @@
    ],
    "category": "产品技术",
    "session": "盘中",
-   "title_zh": "SpaceX寻求筹集400亿美元购买英伟达芯片——Channel NewsAsia - UA.NEWS",
    "zh_summary": "SpaceX拟筹400亿美元购买英伟达芯片",
+   "title_zh": "SpaceX寻求筹集400亿美元购买英伟达芯片——Channel NewsAsia - UA.NEWS",
    "sentiment": 2
   },
   {
@@ -4532,26 +4588,6 @@
    }
   },
   {
-   "id": "7672885068b0",
-   "title": "隔夜美股爆发！纳指创新高，英伟达收涨，中概科技龙头拉升 - 中国经营网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oMkx5S21LczBBYWZXVnQ5TnNwNGEwazRZVlBIbGVHZ1FyVzNNQXRTNGJmZWRxYlNsaVptZ2htZnJnV3lrZ2VZTXRwS1RtVzdBWmhDcTlXQzZqYjFXTm1lTmlR",
-   "source": "中国经营网",
-   "published_at": "2026-10-06T02:41:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中国经营网",
-     "published_at": "2026-10-06T02:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oMkx5S21LczBBYWZXVnQ5TnNwNGEwazRZVlBIbGVHZ1FyVzNNQXRTNGJmZWRxYlNsaVptZ2htZnJnV3lrZ2VZTXRwS1RtVzdBWmhDcTlXQzZqYjFXTm1lTmlR"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘后",
-   "zh_summary": "英伟达收涨，纳指创历史新高",
-   "title_zh": "隔夜美股爆发！纳指创新高，英伟达收涨，中概科技龙头拉升",
-   "sentiment": 1
-  },
-  {
    "id": "4d708f6855d5",
    "title": "Dan Ives Says Nvidia Fuels AI Market, But What If It Has a Lehman Moment? - BeInCrypto",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94MW54U3RvazljTmRsdnZCLWZlM1hzVHhkUWlGbG5zYzA5RXFsdlh2YWdwWlh3WG9BQkV4WmxMb09DWjhFQXJiREtFSWlKOGNSeUhvSWdkOXZrQ3ZWLW9YOVhpUnZObWdkVFE",
@@ -7868,56 +7904,6 @@
    "session": "盘中",
    "zh_summary": "英伟达测试伙伴瞄准AI驱动突破",
    "title_zh": "英伟达测试伙伴瞄准AI驱动的突破",
-   "sentiment": 1
-  },
-  {
-   "id": "9a622d32e2be",
-   "title": "How Has NVIDIA’s Story Changed? - Trefis",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYmdpS3NQTDhUOVNOaXZpbWJnNXU1TWJsdmZUZG5ENkstc3Nab3JKczJJbTMxamp1Q2xtNG1GTlJkQnpIUFVqdGg2VkJTbjQtY2pYUkxfODNuYl9ETEdsTmd5cWZHMHUyNGdiU0VvSGpiSF9QYXRtNGtDeS0zRjBBOThyeXFXekJ6Yzdxa1U5dllVSmlw",
-   "source": "Trefis",
-   "published_at": "2026-10-05T14:38:57+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Trefis",
-     "published_at": "2026-10-05T14:38:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYmdpS3NQTDhUOVNOaXZpbWJnNXU1TWJsdmZUZG5ENkstc3Nab3JKczJJbTMxamp1Q2xtNG1GTlJkQnpIUFVqdGg2VkJTbjQtY2pYUkxfODNuYl9ETEdsTmd5cWZHMHUyNGdiU0VvSGpiSF9QYXRtNGtDeS0zRjBBOThyeXFXekJ6Yzdxa1U5dllVSmlw"
-    },
-    {
-     "name": "trefis.com",
-     "published_at": "2026-10-05T14:38:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYmdpS3NQTDhUOVNOaXZpbWJnNXU1TWJsdmZUZG5ENkstc3Nab3JKczJJbTMxamp1Q2xtNG1GTlJkQnpIUFVqdGg2VkJTbjQtY2pYUkxfODNuYl9ETEdsTmd5cWZHMHUyNGdiU0VvSGpiSF9QYXRtNGtDeS0zRjBBOThyeXFXekJ6Yzdxa1U5dllVSmlw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达的故事有何变化",
-   "title_zh": "英伟达的故事发生了怎样的变化",
-   "sentiment": 0
-  },
-  {
-   "id": "c358e2eab181",
-   "title": "美股讯号 | SpaceX 股价触及七月高位，里昂看好成英伟达最大客户 ｜#美股资讯# #SpaceX# #股价波动# - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzFtcjFScUZ5OTN2cTRiS1RSV0h0WHBfa0ZIanE2eUQycmVpX0c5T25PSC1vNkNpRmJsNVRrNUlpSmVjREJLeUtGZkNZVUNrQ1oyY1lIZ3p1N1RKQlZ5VmQ2ZDQ1NFlmMzFJbDViQ09tY0lwZ0E1X3d6QVRwMGJTUE1vSWc0MUNpZ2s2OA",
-   "source": "搜狐网",
-   "published_at": "2026-10-05T14:31:58+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-05T14:31:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzFtcjFScUZ5OTN2cTRiS1RSV0h0WHBfa0ZIanE2eUQycmVpX0c5T25PSC1vNkNpRmJsNVRrNUlpSmVjREJLeUtGZkNZVUNrQ1oyY1lIZ3p1N1RKQlZ5VmQ2ZDQ1NFlmMzFJbDViQ09tY0lwZ0E1X3d6QVRwMGJTUE1vSWc0MUNpZ2s2OA"
-    },
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-05T14:31:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzFtcjFScUZ5OTN2cTRiS1RSV0h0WHBfa0ZIanE2eUQycmVpX0c5T25PSC1vNkNpRmJsNVRrNUlpSmVjREJLeUtGZkNZVUNrQ1oyY1lIZ3p1N1RKQlZ5VmQ2ZDQ1NFlmMzFJbDViQ09tY0lwZ0E1X3d6QVRwMGJTUE1vSWc0MUNpZ2s2OA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "里昂看好SpaceX成英伟达最大客户",
-   "title_zh": "美股讯号 | SpaceX 股价触及七月高位，里昂看好成英伟达最大客户 ｜#美股资讯# #SpaceX# #股价波动# - 搜狐网",
    "sentiment": 1
   }
  ]
