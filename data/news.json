@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T10:51:34.071023+00:00",
+ "updated_at": "2026-10-07T11:06:33.676202+00:00",
  "market": {
   "price": 239.24,
   "change_pct": 0.14,
@@ -10,12 +10,12 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.47,
-   "count": 32
+   "avg": 0.5,
+   "count": 34
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.47（32条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（34条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.7,
    "ma20": 224.89,
-   "as_of": "2026-10-07T10:51:34.062333+00:00"
+   "as_of": "2026-10-07T11:06:33.656814+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "ae42e3b8572c",
+   "title": "AVerMedia and Stereolabs Accelerate AI Vision Deployment with NVIDIA JetPack 7.2 - Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZnpjMDVid2hXNGRUMmRMUDJOZWJVMjhFT2NHT1VEaVVhaHd3X3RrRzNlUWQ3NVoxeElrV0tqZEE2bm9BOFExTnBPOEJLMlhCVHFGczVoUkVJX3UtTTU1X1VuME1mdGNQMkFVQ0pLbDJDdGwwd3REMDR6QlV4cGxlX2FSRWZKTnNsZ0xLR01aUTFPMUxFYWt4UklhemhJYUpuTzNaQjZ6eXUwcC0xaTVQWUlLVkNVN25LdlY4d3FrX3pSOFkxS1J4dzA0by1pN3RrdXRz",
+   "source": "Business Wire",
+   "published_at": "2026-10-07T11:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Wire",
+     "published_at": "2026-10-07T11:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZnpjMDVid2hXNGRUMmRMUDJOZWJVMjhFT2NHT1VEaVVhaHd3X3RrRzNlUWQ3NVoxeElrV0tqZEE2bm9BOFExTnBPOEJLMlhCVHFGczVoUkVJX3UtTTU1X1VuME1mdGNQMkFVQ0pLbDJDdGwwd3REMDR6QlV4cGxlX2FSRWZKTnNsZ0xLR01aUTFPMUxFYWt4UklhemhJYUpuTzNaQjZ6eXUwcC0xaTVQWUlLVkNVN25LdlY4d3FrX3pSOFkxS1J4dzA0by1pN3RrdXRz"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "8213cbdaa15c",
+   "title": "Nvidia Is Betting These Start-Ups Will Lift Its Stock - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fQ2FfSUx3dFc1Nkp2SXBiLXZXU0k4WnA4cldzQkdNdTR4Z1ltNEhiSzRMZjl0eDlHVTNGdVBYUUFQYVMyMnVxOHJrRWsyZEdXaHNvWS1SLXEzamRJWWVIN2JuSUxOdlNveTBiOWRnUk9BaS1kc0JhOTFxQ28",
+   "source": "Barron's",
+   "published_at": "2026-10-07T10:47:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-07T10:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fQ2FfSUx3dFc1Nkp2SXBiLXZXU0k4WnA4cldzQkdNdTR4Z1ltNEhiSzRMZjl0eDlHVTNGdVBYUUFQYVMyMnVxOHJrRWsyZEdXaHNvWS1SLXEzamRJWWVIN2JuSUxOdlNveTBiOWRnUk9BaS1kc0JhOTFxQ28"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "0deeae37bcf8",
    "title": "AM Markets Need to Know: SpaceX seeks $40B for Nvidia chips, Skydance leans on technology, and more - TradingView",
@@ -127,12 +161,17 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGRqblRQSXBfVEpxWTZCQWppakx0Ry1FeW4xTGRZZ2xOTmlPeVo3QzN6OFRkNWRtdlZoZ0ZWX2d3TVhsY2diZzhCYXBWMWRqMEpDQXBPRC1WbXJIb2EtZnpZa2JoZi1OVGJVQTE4bW85ZVVrYUFtY1hXSFBIcnJ3VmloVkJ5a2ZmVGk4bGFnbS1NOURKNllORkltWGZIdjFJeW9qVmtR",
    "source": "Seeking Alpha",
    "published_at": "2026-10-07T10:00:46+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Seeking Alpha",
      "published_at": "2026-10-07T10:00:46+00:00",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeGRqblRQSXBfVEpxWTZCQWppakx0Ry1FeW4xTGRZZ2xOTmlPeVo3QzN6OFRkNWRtdlZoZ0ZWX2d3TVhsY2diZzhCYXBWMWRqMEpDQXBPRC1WbXJIb2EtZnpZa2JoZi1OVGJVQTE4bW85ZVVrYUFtY1hXSFBIcnJ3VmloVkJ5a2ZmVGk4bGFnbS1NOURKNllORkltWGZIdjFJeW9qVmtR"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-07T10:00:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa3ZTQjFBeVhfUWVOUEplODFHT1h4enIyR1p1MjBUWHYxM1dqTHlfdW0xb09XM1dKWENIOXRKS3E2b1lHcENxa0dyaGJabzQtUlVjVWt0bXk5YjA1dXBXV1ZRaHJQYzRHeW1kRDBiaE43Um9KMUF0aU94V043OU5DQU9yN1g5b1pzTXFJQlp2MVFLR3I3ay1mOWRSMWNuVkw2a1E2c1NfT1AtekE3YUFIZFBHNWwtTWF3RnlDRTZJUHpkcXR6d1p6Wg"
     }
    ],
    "category": "财报",
@@ -147,7 +186,7 @@
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaEdOT2pNemhhNV9qZkdZaWtYUG13bFJWNEhwSzlXeU41XzRHaW51dHdFZXFySWZwWVNMN0U2Z25PM1MzUGRIdjN5TU9QWjN6dloyenJTSlRGVTlzSm4yMWhuU0UzdDdtTW5Kb0oxZkJJNGdJdDRMXzJJTW93UnJnUFdxUzNMOV9NWHplYmxPX0hsSGxRRkRCNDJFOTNlcXc1OW5MbllvTzRFU2hRNDgzbUtkS2JmMndMQ3RBVmU5NzViTktmZ1hMc0lEUUlHUDJUM21QdQ",
    "source": "TradingView",
    "published_at": "2026-10-07T10:00:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "TradingView",
@@ -163,10 +202,16 @@
      "name": "The Lufkin Daily News",
      "published_at": "2026-10-07T10:08:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZWF0M1E0ZVZhMGpyT1VmeHhNek1Oc1EydzNPRTRueHVfdFFxeWZkbm80U2xGTGxxb2pYeXRKSnh3eVotWlVFbGtTdWZCRHFSS2lqbXNjYVlGd3lvTmJZOHZBTlM0RHc1SGhkSjl6QTdsMVhWQ2tobko3bEtZZzg3VU5iTkJOd1hOR3cwN0dyT0drNVp5MlNYdTA0WWNOTkVoVXlyV2x3SG92cTNnQkU3NFhZbS1LeEkxMzlqdExWWjNXYWtIWHhSZjg2bzZDZW12VldqRTBoMGNnT0xYTjM3R0FDN1BFRUZycGl4ZmVvbDhTSGtjMEQ0TXp4YXc"
+    },
+    {
+     "name": "93.3 The Drive",
+     "published_at": "2026-10-07T10:23:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXZ2QWtyamV2T0pmSkw0MEtLQ2haLUJXaE92blpmYTRUaXpGTVFtU3JtcEFqaEZWWkZrT1BMUHNzdm96aHJFZ2dCMjFjWWU5RnNBaExRZ3hMeTNRRVNkYUYweUlua0lQYS00alZsSWF4ZWgtbURLQ0pOdVNjU08xV3NPUlBuMVg4cFJyb2Y4aEtxX2VlLWNHVEFBdm05VWo5X1dtUGEzV0F0SF9V"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "微软与英伟达CEO将发布新款AI笔记本",
    "title_zh": "微软与英伟达CEO将在旧金山活动发布新款AI笔记本电脑",
    "sentiment": 1
@@ -7566,51 +7611,6 @@
    "session": "盘后",
    "zh_summary": "英伟达涨超2%创历史新高",
    "title_zh": "10月6日美股成交额前20：英伟达涨超2%创历史新高 SpaceX涨超7% 马斯克重回万亿美元身价 - 搜狐网",
-   "sentiment": 1
-  },
-  {
-   "id": "12639cccd34e",
-   "title": "Nvidia's known-issues list carried one GeForce bug for seven drivers, then dropped it - MIXED Reality News",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUjRRdVlGbk10Nks0N2w1dEI5ZVctUVdtYjk4U0JnU21RSTIyVUF0Rnpjc1o4U0lVNlJBNFc3VmJJQkxnNXBLd00xd3VkTzZkeFFMS2pvTE1NN3hDTXZMLXJvU09jX3hmU2o4cW84ZTNtUEtSaDhYS00zeUU4cmFuZ25oWnA1RG9hQUNLenV0Tm8",
-   "source": "MIXED Reality News",
-   "published_at": "2026-10-05T22:22:45+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "MIXED Reality News",
-     "published_at": "2026-10-05T22:22:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUjRRdVlGbk10Nks0N2w1dEI5ZVctUVdtYjk4U0JnU21RSTIyVUF0Rnpjc1o4U0lVNlJBNFc3VmJJQkxnNXBLd00xd3VkTzZkeFFMS2pvTE1NN3hDTXZMLXJvU09jX3hmU2o4cW84ZTNtUEtSaDhYS00zeUU4cmFuZ25oWnA1RG9hQUNLenV0Tm8"
-    },
-    {
-     "name": "mixed-news.com",
-     "published_at": "2026-10-05T22:22:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUjRRdVlGbk10Nks0N2w1dEI5ZVctUVdtYjk4U0JnU21RSTIyVUF0Rnpjc1o4U0lVNlJBNFc3VmJJQkxnNXBLd00xd3VkTzZkeFFMS2pvTE1NN3hDTXZMLXJvU09jX3hmU2o4cW84ZTNtUEtSaDhYS00zeUU4cmFuZ25oWnA1RG9hQUNLenV0Tm8"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "英伟达七代驱动漏洞终被移除",
-   "title_zh": "英伟达已知问题列表连续七代驱动标注一处GeForce漏洞后将其移除",
-   "sentiment": -1
-  },
-  {
-   "id": "55e639bebc17",
-   "title": "Nvidia NVDA Stock Hits New $240 Record as Chip Demand Meets Rising Costs - FXLeaders",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHFaeVJVT3Z3MTd4Mjc3VnVLU0tyeGloS0NWeXlERjVreVlQVEtfQm4yR3BSTDM4S1RLVllkS0dTanQzR2J1Tm5nUmZseGlYaXdONGVSYzA0SmVUSGxuMU9Ha0puLVZsV25NdjEydldPUVF2NmpyR1dURDZxemp6c1A0aklzU3A4OWUyYWhGOUFBUVdOM2FmU1p0YjU0VHFfWXA1alJGdF9KWXNYLWRUQ2I2TjU",
-   "source": "FXLeaders",
-   "published_at": "2026-10-05T22:17:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FXLeaders",
-     "published_at": "2026-10-05T22:17:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaHFaeVJVT3Z3MTd4Mjc3VnVLU0tyeGloS0NWeXlERjVreVlQVEtfQm4yR3BSTDM4S1RLVllkS0dTanQzR2J1Tm5nUmZseGlYaXdONGVSYzA0SmVUSGxuMU9Ha0puLVZsV25NdjEydldPUVF2NmpyR1dURDZxemp6c1A0aklzU3A4OWUyYWhGOUFBUVdOM2FmU1p0YjU0VHFfWXA1alJGdF9KWXNYLWRUQ2I2TjU"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "英伟达股价触及240美元新高",
-   "title_zh": "芯片需求碰上成本上升，英伟达 NVDA 股价触及240美元新高",
    "sentiment": 1
   }
  ]
