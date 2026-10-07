@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T12:51:29.289146+00:00",
+ "updated_at": "2026-10-07T13:06:29.705366+00:00",
  "market": {
   "price": 239.24,
   "change_pct": 0.14,
@@ -10,12 +10,12 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.47,
-   "count": 51
+   "avg": 0.51,
+   "count": 55
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.47（51条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.51（55条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.7,
    "ma20": 224.89,
-   "as_of": "2026-10-07T12:51:29.278439+00:00"
+   "as_of": "2026-10-07T13:06:29.694321+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "84e8920f8813",
+   "title": "SpaceX Seeks $40 Billion To Buy Nvidia AI Chips, Starlink Wins New FCC Approval - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPXzcyM2Y3ZVhKY3RjSGd3dk1Qa1B5bGFSR3ZraFlYWG4zVHo1LXRjeXh3Zmo1U3ZsOU84YjZqM2R6SER1ay14NXBYd1BRU0pVTkFNSGQzZHk0VGt5blpPSHlwX1ZmVU54b2FjOV96bWxnLXJlSmszeWhqZXVrOGw0dUVXLWNNeERrcFdNTmFEN01NQy10UUNZX0FZRnFVVGluUERkbmRqYnVRYjZfWjA5Qmo1aV95MERfQy04Qzh3",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-10-07T12:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-10-07T12:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPXzcyM2Y3ZVhKY3RjSGd3dk1Qa1B5bGFSR3ZraFlYWG4zVHo1LXRjeXh3Zmo1U3ZsOU84YjZqM2R6SER1ay14NXBYd1BRU0pVTkFNSGQzZHk0VGt5blpPSHlwX1ZmVU54b2FjOV96bWxnLXJlSmszeWhqZXVrOGw0dUVXLWNNeERrcFdNTmFEN01NQy10UUNZX0FZRnFVVGluUERkbmRqYnVRYjZfWjA5Qmo1aV95MERfQy04Qzh3"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "7200c1d9537e",
+   "title": "SpaceX Plans $40 Billion Financing Deal Led by Apollo to Buy Nvidia AI Chips - TIKR.com",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemdWUll3c0lFekowMHQ0elZwdWR4TVpULVlxUGpZYUtNQ0RsZXJMQnFPNzBwNm1OVV9mYnMtYUJSWU41OGpNU1RlRFVsTWRsMU02TjZTVDJfSHFzWDljM1h3cDNRemlmcS1zR1hIQkE3QWVTOFEwSmEyd1p1TTZHQnFwYkRqeldEUnFXYQ",
+   "source": "TIKR.com",
+   "published_at": "2026-10-07T12:56:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-10-07T12:56:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemdWUll3c0lFekowMHQ0elZwdWR4TVpULVlxUGpZYUtNQ0RsZXJMQnFPNzBwNm1OVV9mYnMtYUJSWU41OGpNU1RlRFVsTWRsMU02TjZTVDJfSHFzWDljM1h3cDNRemlmcS1zR1hIQkE3QWVTOFEwSmEyd1p1TTZHQnFwYkRqeldEUnFXYQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "3fa34ae6f134",
+   "title": "SpaceX Reportedly Seeks $40 Billion in Loans, Debt to Buy Nvidia Chips - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNkx0TFJ3cW5FOEVKb25aZWc1MzBER2l3R1dVQ3ZUejNHc3pkMTRtLW1HUjVtYWdXRHVWNlVDTTlFWnZkWi1CeDBsRFVhYVNmcDlXM2V5cm84YWQ4SmItNkM0dGhWWHdaa2RWRnBJdUpxYjhYb21hRXFnUDB1aEV0anVuOVh6VjZHUUJYanZSS202ZWVyVExEZHhJakhjbnVtai1FeWRYSURCcUhRRWtsSjE0WDJBanRQUERVQXRidWNHRlVBRHBsRQ",
+   "source": "Benzinga",
+   "published_at": "2026-10-07T12:54:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-07T12:54:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNkx0TFJ3cW5FOEVKb25aZWc1MzBER2l3R1dVQ3ZUejNHc3pkMTRtLW1HUjVtYWdXRHVWNlVDTTlFWnZkWi1CeDBsRFVhYVNmcDlXM2V5cm84YWQ4SmItNkM0dGhWWHdaa2RWRnBJdUpxYjhYb21hRXFnUDB1aEV0anVuOVh6VjZHUUJYanZSS202ZWVyVExEZHhJakhjbnVtai1FeWRYSURCcUhRRWtsSjE0WDJBanRQUERVQXRidWNHRlVBRHBsRQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "520af7f1e902",
    "title": "NVIDIA or AMD: If I Could Only Own 1 for the Next Decade, This Is It - 24/7 Wall St.",
@@ -80,6 +131,23 @@
    "zh_summary": "比较英伟达与AMD十年持有价值",
    "title_zh": "未来十年只能持有一只：英伟达还是AMD",
    "sentiment": 0
+  },
+  {
+   "id": "62b257aadb72",
+   "title": "SpaceX Stock Falls as Musk Doubles Down on Nvidia. Why It’s a Big Deal. - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSm13R2hwRzRwR0t1RjVaMkxZOURtcTltTFBaMG16WkE1ZEdlS1cwSGNHSDJOMDlkNUxGLW5wMUZBSW1ibnc0VnZWLURHN1Q3TTY5SUZWRjVTa0Nsc0gwc2FvM2lqZGZfLVR1eFhGRUEzUEZXbDZ0dHNLbXI1WFR6WW5SWkZRQ1l1",
+   "source": "Barron's",
+   "published_at": "2026-10-07T12:39:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-07T12:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSm13R2hwRzRwR0t1RjVaMkxZOURtcTltTFBaMG16WkE1ZEdlS1cwSGNHSDJOMDlkNUxGLW5wMUZBSW1ibnc0VnZWLURHN1Q3TTY5SUZWRjVTa0Nsc0gwc2FvM2lqZGZfLVR1eFhGRUEzUEZXbDZ0dHNLbXI1WFR6WW5SWkZRQ1l1"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "f67b093d44d6",
@@ -7154,26 +7222,6 @@
    }
   },
   {
-   "id": "d37386e32c07",
-   "title": "NVIDIA’s Record High Raises a Bigger Question About How Far the Rally Can Run - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlJtX2hoSzhCb1hRMjY2V2hyZ3ZlMF93dTNfbXMwcVpwanVNZ1NqV0l3dTI5MHh5MHBHSWl1S1pIMTI0dHNyVVQwRU5lM2tyWXl4VS1XVDFyOGtmcjJUQUk2U0ktOTN5RXJtZ1FfQVI1MFdHWUVVUHRXcFlGOElaamEzUHpzZVhXREFYeXV4dWRaZUVlZm9mbVNaSlF6WG9qWHJodXJZV3g1UjZaamUxa09FWQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-06T02:42:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-06T02:42:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlJtX2hoSzhCb1hRMjY2V2hyZ3ZlMF93dTNfbXMwcVpwanVNZ1NqV0l3dTI5MHh5MHBHSWl1S1pIMTI0dHNyVVQwRU5lM2tyWXl4VS1XVDFyOGtmcjJUQUk2U0ktOTN5RXJtZ1FfQVI1MFdHWUVVUHRXcFlGOElaamEzUHpzZVhXREFYeXV4dWRaZUVlZm9mbVNaSlF6WG9qWHJodXJZV3g1UjZaamUxa09FWQ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘后",
-   "zh_summary": "英伟达创新高后反弹持续性引关注",
-   "title_zh": "英伟达创纪录新高，涨势还能走多远引发关注",
-   "sentiment": 0
-  },
-  {
    "id": "4d708f6855d5",
    "title": "Dan Ives Says Nvidia Fuels AI Market, But What If It Has a Lehman Moment? - BeInCrypto",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94MW54U3RvazljTmRsdnZCLWZlM1hzVHhkUWlGbG5zYzA5RXFsdlh2YWdwWlh3WG9BQkV4WmxMb09DWjhFQXJiREtFSWlKOGNSeUhvSWdkOXZrQ3ZWLW9YOVhpUnZObWdkVFE",
@@ -7462,85 +7510,6 @@
    "zh_summary": "英伟达台积电股价创历史新高",
    "title_zh": "硬科技早报|DeepSeek冲向10万亿参数；英伟达、台积电股价历史新高 - 观察者网",
    "sentiment": 1
-  },
-  {
-   "id": "cd023445c0b0",
-   "title": "叫板 DeepSeek、Kimi，英伟达投资的 Reflection AI 发布旗下首款开放权重 AI 模型 Beam - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbzZTRHo5dDJudFRzSkxnWEJsTWJYVjZ5VGxlcnA5RXVvRmhaWlhOT1RJdFp6aU5MWWlmQXQtTmptNy1Lb3BPWl9ZbWlfd1hQY1I0UDJQdno3ZjNCMHk4NDJrQlBfLVgwaXJ1eDFIVUhvUU5mQnIzdGliTmdnWUJGYndzeDlrZ0g3Qi03UzBKZzhZLWZuZ3VndnFtTzZSUWNPTC0yeVpXNl9qckg0aWFFWGU5eDkwWnB3ODYtYnpwbloxX21yUHZnakFFT0lISDdvUGI3cjBxSEJ2eW1FVWtSMEdLTzNuQktpYUVfdVROdmhVanljYVV1SnROM3Z1VUhmbms1Vm9LZkZPaHgxVk1SVFBJWQ",
-   "source": "新浪财经",
-   "published_at": "2026-10-06T01:06:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-06T01:06:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbzZTRHo5dDJudFRzSkxnWEJsTWJYVjZ5VGxlcnA5RXVvRmhaWlhOT1RJdFp6aU5MWWlmQXQtTmptNy1Lb3BPWl9ZbWlfd1hQY1I0UDJQdno3ZjNCMHk4NDJrQlBfLVgwaXJ1eDFIVUhvUU5mQnIzdGliTmdnWUJGYndzeDlrZ0g3Qi03UzBKZzhZLWZuZ3VndnFtTzZSUWNPTC0yeVpXNl9qckg0aWFFWGU5eDkwWnB3ODYtYnpwbloxX21yUHZnakFFT0lISDdvUGI3cjBxSEJ2eW1FVWtSMEdLTzNuQktpYUVfdVROdmhVanljYVV1SnROM3Z1VUhmbms1Vm9LZkZPaHgxVk1SVFBJWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达投资的Reflection AI发布模型Beam",
-   "title_zh": "叫板 DeepSeek、Kimi，英伟达投资的 Reflection AI 发布旗下首款开放权重 AI 模型 Beam - 新浪财经",
-   "sentiment": 1
-  },
-  {
-   "id": "7175aa8749d4",
-   "title": "Nvidia doubles in Eric Bleeker's AI Portfolio after 753 days - 247wallst.com",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0F4TWx3OXRlQnlWUE5ub1lqODNzOU9QX2pFRW5HR2I2XzhVWTU5dW0tZWtkNEpKSTZ4cGxWOUxibXpCNmFLMGJ4NEYzTklQMTNQbnM5STk5LXR1c2ZldDJ1Ml9uRzd6WFJYSFBfZUpLVjA0SEFvclplMHhqSnB0a0NZSUN5Rk1pU0JHd0NiNjNZTnFmNk1Bc2p6M0N4MW5kamhaWFFKOFh5cnJBZEhhQndLaGRTT1lrejBiN3NVZXFXX1JuYlA4LURaX0lKT1k5cTJKVTVNTQ",
-   "source": "247wallst.com",
-   "published_at": "2026-10-06T00:56:08+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "247wallst.com",
-     "published_at": "2026-10-06T00:56:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0F4TWx3OXRlQnlWUE5ub1lqODNzOU9QX2pFRW5HR2I2XzhVWTU5dW0tZWtkNEpKSTZ4cGxWOUxibXpCNmFLMGJ4NEYzTklQMTNQbnM5STk5LXR1c2ZldDJ1Ml9uRzd6WFJYSFBfZUpLVjA0SEFvclplMHhqSnB0a0NZSUN5Rk1pU0JHd0NiNjNZTnFmNk1Bc2p6M0N4MW5kamhaWFFKOFh5cnJBZEhhQndLaGRTT1lrejBiN3NVZXFXX1JuYlA4LURaX0lKT1k5cTJKVTVNTQ"
-    },
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-06T00:56:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0F4TWx3OXRlQnlWUE5ub1lqODNzOU9QX2pFRW5HR2I2XzhVWTU5dW0tZWtkNEpKSTZ4cGxWOUxibXpCNmFLMGJ4NEYzTklQMTNQbnM5STk5LXR1c2ZldDJ1Ml9uRzd6WFJYSFBfZUpLVjA0SEFvclplMHhqSnB0a0NZSUN5Rk1pU0JHd0NiNjNZTnFmNk1Bc2p6M0N4MW5kamhaWFFKOFh5cnJBZEhhQndLaGRTT1lrejBiN3NVZXFXX1JuYlA4LURaX0lKT1k5cTJKVTVNTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达在某投资组合中753天内翻倍",
-   "title_zh": "英伟达在AI投资组合中持仓753天后翻倍",
-   "sentiment": 1
-  },
-  {
-   "id": "f84178cffd92",
-   "title": "10月5日美股成交额前20：英伟达公司以302.65亿美元居首，SpaceX、美光科技公司、特斯拉紧随其后 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2t4N3kwZUdnczdyTlNDSWJwcmtwdko3bW93RG1KWEgxdDNqaGFOTF9HdWtLX3FGcXRfS3gzaW5VZ1FsdEp5aGZLdnhITDJWNXc5cHA1ZGpyVWlaRDI0YkM3NUZfanhIYWZwWjF4SG50NXFveFhmY2F4bUdoUWJpTU13RWJiYnRf",
-   "source": "搜狐网",
-   "published_at": "2026-10-06T00:46:56+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-06T00:46:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2t4N3kwZUdnczdyTlNDSWJwcmtwdko3bW93RG1KWEgxdDNqaGFOTF9HdWtLX3FGcXRfS3gzaW5VZ1FsdEp5aGZLdnhITDJWNXc5cHA1ZGpyVWlaRDI0YkM3NUZfanhIYWZwWjF4SG50NXFveFhmY2F4bUdoUWJpTU13RWJiYnRf"
-    },
-    {
-     "name": "金融界",
-     "published_at": "2026-10-06T00:46:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OcVhEZUcwb28zWDl2N0gzWlAxMFVkTml5akJvVHlMdERBOTNFMElaS0ZSc2d0NnpoM3V5S0tzRzJEWlo5NTNxN0F4TUdGb2xZWTJfU2dtajFVaVlXWGMzNlZSbXZoZldLWmJWVFZJZEE1cmZY"
-    },
-    {
-     "name": "jrj.com.cn",
-     "published_at": "2026-10-06T00:46:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OcVhEZUcwb28zWDl2N0gzWlAxMFVkTml5akJvVHlMdERBOTNFMElaS0ZSc2d0NnpoM3V5S0tzRzJEWlo5NTNxN0F4TUdGb2xZWTJfU2dtajFVaVlXWGMzNlZSbXZoZldLWmJWVFZJZEE1cmZY"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达以302.65亿美元成交额居首",
-   "title_zh": "10月5日美股成交额前20：英伟达公司以302.65亿美元居首，SpaceX、美光科技公司、特斯拉紧随其后 - 搜狐网",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.14,
-    "window_h": 0.1
-   }
   }
  ]
 }
