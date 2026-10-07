@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T18:36:29.938767+00:00",
+ "updated_at": "2026-10-07T18:51:31.088820+00:00",
  "market": {
-  "price": 236.88,
-  "change_pct": -0.99,
+  "price": 236.76,
+  "change_pct": -1.04,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.71,
-   "count": 139
+   "avg": 0.72,
+   "count": 142
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +34.0%"
+     "note": "目标价中位数 $318（14家），隐含空间 +34.1%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.71（139条已评分）"
+     "note": "今日新闻情绪 +0.72（142条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $236.88 vs 20日均线 $225.55"
+     "note": "现价 $236.76 vs 20日均线 $225.54"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 97,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 34.0,
-   "ma20": 225.55,
-   "as_of": "2026-10-07T18:36:29.920507+00:00"
+   "implied_upside_pct": 34.1,
+   "ma20": 225.54,
+   "as_of": "2026-10-07T18:51:31.078935+00:00"
   },
   "pe_ttm": 30.1,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+34.0%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+34.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,23 +62,79 @@
  },
  "stories": [
   {
+   "id": "c5dfb321f071",
+   "title": "英伟达黄仁勋回忆微软Win95往昔：没有Windows的话，CUDA就不会诞生 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYTVabEVBLVRsdnNWbzc3ZDk2NE1tdkktdGZFNFNoZUJtRHNTOVZ2X0hRRDJyWkxmeWN2QnQ2cDlZVnEyOS1PRlUzNDE0ZGMtMkc3cExsemtvMGQ5UGxSYlBtSDFDTmZXOTZDNG1ubWl0NjlQc1h2bE5uelFaLWU5OVJmejlmTVpV",
+   "source": "搜狐网",
+   "published_at": "2026-10-07T18:28:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-07T18:28:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYTVabEVBLVRsdnNWbzc3ZDk2NE1tdkktdGZFNFNoZUJtRHNTOVZ2X0hRRDJyWkxmeWN2QnQ2cDlZVnEyOS1PRlUzNDE0ZGMtMkc3cExsemtvMGQ5UGxSYlBtSDFDTmZXOTZDNG1ubWl0NjlQc1h2bE5uelFaLWU5OVJmejlmTVpV"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "9eb6696ddc12",
+   "title": "Microsoft looks to reboot the AI PC with Nvidia - Axios",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmpGQ0x6Umk4NEY4YlpBaE1KN19wcE1rbklvV3lOdUk5TjhDUEJKUHFOOWdiNU1vem9FTTVfcTBaX0FGQXptZ3lYT1NDeTlrX21jeG5JWjA4bDdxQXhKNm5id3R5UGRoYkJaUjA1TVV2NzNOUkx5UXNDZ3ZCNWZqV2xzbnJFbzg",
+   "source": "Axios",
+   "published_at": "2026-10-07T18:24:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Axios",
+     "published_at": "2026-10-07T18:24:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmpGQ0x6Umk4NEY4YlpBaE1KN19wcE1rbklvV3lOdUk5TjhDUEJKUHFOOWdiNU1vem9FTTVfcTBaX0FGQXptZ3lYT1NDeTlrX21jeG5JWjA4bDdxQXhKNm5id3R5UGRoYkJaUjA1TVV2NzNOUkx5UXNDZ3ZCNWZqV2xzbnJFbzg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "76695b86364d",
+   "title": "NVIDIA RTX Spark Technology Coming Soon to Laptops; YouTube and More Info at B&H - GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQW1wZVR0Z1o2T1hBanRmUWt3YlZUUjNHVHpERzR5ZU1relNySllndy00Nm5jcGJRU3dpaFZONHNZaWhkNUhCT0hXNVZneVhodlVoY0pWX0ZxcTA4eHpwM3NtVUNLM2kyT0hZSHZZZ3pyTUlOT29PeThTQmNRRl9zWEY1R3J4YmVSTzZhd2hDQVNEby1UVXdJU0UzN3VSV1NINDVEeDdQVWpQeWwzd0NKcHFWQ0dwNFR4Zm1XZDREZklEYUVTUzcyNVE2MUdJTUdNSXd5eVRkamtsV2kwVGZXUGt5SXZ5UQ",
+   "source": "GlobeNewswire",
+   "published_at": "2026-10-07T18:23:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GlobeNewswire",
+     "published_at": "2026-10-07T18:23:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQW1wZVR0Z1o2T1hBanRmUWt3YlZUUjNHVHpERzR5ZU1relNySllndy00Nm5jcGJRU3dpaFZONHNZaWhkNUhCT0hXNVZneVhodlVoY0pWX0ZxcTA4eHpwM3NtVUNLM2kyT0hZSHZZZ3pyTUlOT29PeThTQmNRRl9zWEY1R3J4YmVSTzZhd2hDQVNEby1UVXdJU0UzN3VSV1NINDVEeDdQVWpQeWwzd0NKcHFWQ0dwNFR4Zm1XZDREZklEYUVTUzcyNVE2MUdJTUdNSXd5eVRkamtsV2kwVGZXUGt5SXZ5UQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "f684a0563009",
    "title": "英伟达黄仁勋：RTX Spark是全球唯一本地原生运行所有应用的电脑 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlNkM0JCQVhNUG80YkdzYkVhY3p4MmtwUWx5SDJKYUMzay16NDQtU0xXSUthN0pkN18xYnJWOFhLNFlTQzdNQi1pOXRVa0hPUndWNW5IMWdkS0xHNnE0b3VCcEkyaDhKNXB5YjlFX21vRUlCQkNoWWY0Uy1FRG9uVmI5M2V4WHI0",
    "source": "搜狐网",
    "published_at": "2026-10-07T18:22:04+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐网",
      "published_at": "2026-10-07T18:22:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlNkM0JCQVhNUG80YkdzYkVhY3p4MmtwUWx5SDJKYUMzay16NDQtU0xXSUthN0pkN18xYnJWOFhLNFlTQzdNQi1pOXRVa0hPUndWNW5IMWdkS0xHNnE0b3VCcEkyaDhKNXB5YjlFX21vRUlCQkNoWWY0Uy1FRG9uVmI5M2V4WHI0"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-07T18:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84Xzl6NDFKZmZBV0NBRTVVdXlFdnNZNlE5OEF2X3NlTkJHX0xkakM0UVBHUmlsbWpucnVPQ2xVUTNtY01jTGxSdEhla0hfWVVKOFJ4SXpsOVd1ZGVoM01ZMDByLV9IWWpUYkJ4b3BjSFU3T3RuVXNmcFlHQ0Q"
     }
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "英伟达黄仁勋：RTX Spark是全球唯一本地原生运行所有应用的电脑 - 搜狐网",
    "zh_summary": "黄仁勋称RTX Spark可本地运行所有应用",
+   "title_zh": "英伟达黄仁勋：RTX Spark是全球唯一本地原生运行所有应用的电脑 - 搜狐网",
    "sentiment": 1
   },
   {
@@ -127,13 +183,18 @@
    "sentiment": 1
   },
   {
-   "id": "40f6bfb4fb94",
-   "title": "Watch Sequoia, Nvidia Back Mecka AI’s Robotics Push - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXI3YkpuaG00UkVZakdhX0RRQVZXZndON2R6d0FIelp4MWtBc2czRE9uN1ppeGFXTy1QWFZXb1ZhN1I5NkZBcU9ndGlHOWZEdVFjQnlsNm8zNzVXU3pMa1Q4aDFWYk50Qi1SOUZ0YmRrSEtKbG1VZy11LWxNN2VZUkFucV8zX2w2QTljWXBqczVQVFJ3QkhHWG9ERDNkbXdm",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-07T18:10:43+00:00",
-   "outlets_count": 1,
+   "id": "713f1ee2af8a",
+   "title": "Sequoia, Nvidia Back Mecka AI's Robotics Push - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeU9wVklrQWF4UHhqUE1pSVd2eXdlU3RuVjZYNkh5Zzh3SFNTOTlmQ05jTEU0dUZKM0x6a215cmp3Zk1Oa2ZwY1hnMUpXandvWTRYSGV6T1hNQXZMTXpkNV9vWGxUWWJUQ2I0RVlralRmVm5WeDNwZkFSWUhQS05Kb3hR",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-07T18:09:28+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-07T18:09:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeU9wVklrQWF4UHhqUE1pSVd2eXdlU3RuVjZYNkh5Zzh3SFNTOTlmQ05jTEU0dUZKM0x6a215cmp3Zk1Oa2ZwY1hnMUpXandvWTRYSGV6T1hNQXZMTXpkNV9vWGxUWWJUQ2I0RVlralRmVm5WeDNwZkFSWUhQS05Kb3hR"
+    },
     {
      "name": "Bloomberg.com",
      "published_at": "2026-10-07T18:10:43+00:00",
@@ -167,6 +228,23 @@
    "sentiment": 0
   },
   {
+   "id": "ac2abfe68ca5",
+   "title": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark — RTX Spark preorders live now, coinciding with major Windows 11 changes for agentic AI - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQeHJ0QXM4cldZUWlId2djUG5Mc3FFVHVkWmdCemplNko0bEZrY1RqU3RETzE3ZVk0a1NwbWQyZVJKTGxrUzBrUGNxbVNSQ1A2dUtCbE53aEZkQ0E1UjczUGFkRURIVVcxOWtFQ0ctM2dEZG5OOU52MEtNX2hIeVI5amtnZjA1bnBFMm1iVVo0WV9tTlkwMFhUamZCMEMxQnRwUVRMZ05fbUhTQTBEaHRSZkhsVGVfWE1uc0xtSzZlSFhIcFZFZVR1TzE5T1JfQkVRaXhHQ0VWSjVGbDhIenc2cl8yVE9BTWNFUlR0b1lYcHowYWVPTUIydjRFNUFGZUtlZjFZUzFVYUVWX3VWRXItUkNkOA",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-07T18:07:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-07T18:07:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQeHJ0QXM4cldZUWlId2djUG5Mc3FFVHVkWmdCemplNko0bEZrY1RqU3RETzE3ZVk0a1NwbWQyZVJKTGxrUzBrUGNxbVNSQ1A2dUtCbE53aEZkQ0E1UjczUGFkRURIVVcxOWtFQ0ctM2dEZG5OOU52MEtNX2hIeVI5amtnZjA1bnBFMm1iVVo0WV9tTlkwMFhUamZCMEMxQnRwUVRMZ05fbUhTQTBEaHRSZkhsVGVfWE1uc0xtSzZlSFhIcFZFZVR1TzE5T1JfQkVRaXhHQ0VWSjVGbDhIenc2cl8yVE9BTWNFUlR0b1lYcHowYWVPTUIydjRFNUFGZUtlZjFZUzFVYUVWX3VWRXItUkNkOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "f6650b02d9b1",
    "title": "微软高管表示 搭载英伟达芯片的RTX Spark设备将于下周开始发货 - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XQmo4amxBdllMdjdsb2ROZzRmYmRPcy1FX2JkcVF2UXVCUXJ0VGUtS0pvU2NVWTNSTjNSWGxpVlQ0OHJkT3RZNEs5T2VLcmN5dzI5dVhzMldTdzRZM1dGY2dmYw",
@@ -192,7 +270,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91VlBDc3JaTzhaOGZjaW91dDdGaV9xQTFfYTJHbXdtQl9seGhuYnRVMjRQYmw5VVh5cGNkcjY3OFREdkpGVk14V015eXlJbHJSWWlNYjk3UFBZbVlYLUlYVUxtT1ZOOHlZWjJGQXhoc3ZFVC1vZ250anNxU0VPQUk",
    "source": "新浪财经",
    "published_at": "2026-10-07T17:56:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "新浪财经",
@@ -203,13 +281,22 @@
      "name": "新浪网",
      "published_at": "2026-10-07T18:26:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zd1h4eFVScEdTdXNOY19lRzY5UTV6d3pyWTkyYmZVaHRpMWpXX1RiQXUtSGx2bGJKX0h1ZkdRSU5KemZMSzBOeUw4dDdDcGJsczlzQlU2MXZtYThNRklPamtmVC1Sb05Sb0JOTU9ERTV6UmdvYkhRYk53djdJWkk"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-07T18:41:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ21IOWxTVEltTmtSY0ktRl9ncnNzbEVjMkpMN1RKZmZJQi1ua2FGS19hTzRndnluWGxPU1ZMUEd5MlQxbi1udWJCMXZvZ2FQeFd4S0pGUWNRLTJQNEV5NW91MjJZZ0dBcFF3NFpMN2JMaHZ6ZmRDaDI5Qk8yYVZ1clkwX0QtM09SWGFGbkRmWUFXd1AyaTQzRWpHdTl1Z2psaEcxYURQOExZSmNEYW5Oa0xlS1hGeF9rRGhWR2tyT0o5SzlMb3BKM0NPb29JbmE3MERRd2Y5XzJjTzlvSjF1SV9JajhOb3NSaDdtdGpUMkhka0Zh"
     }
    ],
    "category": "产品技术",
    "session": "盘中",
    "zh_summary": "英伟达发布本地万亿参数AI工作站",
    "title_zh": "英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存 - 新浪财经",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.07,
+    "window_h": 0.9
+   }
   },
   {
    "id": "bb8cadc6cd33",
@@ -352,8 +439,8 @@
    ],
    "category": "财报",
    "session": "盘中",
-   "title_zh": "英伟达和美光即将主宰本轮财报季 - 新浪财经",
    "zh_summary": "英伟达和美光即将主宰本轮财报季",
+   "title_zh": "英伟达和美光即将主宰本轮财报季 - 新浪财经",
    "sentiment": 1
   },
   {
@@ -1711,26 +1798,6 @@
    "sentiment": 1
   },
   {
-   "id": "3df4905c9e96",
-   "title": "Nvidia ($NVDA) Nears $6T Market Cap As Company Stock Hits ATH - Crowdfund Insider",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVhwUG9Ea0FKMk56azVYa1B0N1dUdGtwVW5QQ3ZESUR3alFpWWQ3cHpKeWNsVXM5X3JMN3lZZWRYVmJ1NU1VcUI1eFFjYUxvNDZTNjBUVHZwWWVkN2JMZ0l1TjdEQzB6cXA5Y1RvUXgwRHpzdlVvY0ZKZHJ4NnBiRkVQVEhlVUR5UXlxTU1SRW9sd2lMV3JMUlBTd3BXbHNfRjl3dDJROUpVdw",
-   "source": "Crowdfund Insider",
-   "published_at": "2026-10-07T12:33:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Crowdfund Insider",
-     "published_at": "2026-10-07T12:33:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVhwUG9Ea0FKMk56azVYa1B0N1dUdGtwVW5QQ3ZESUR3alFpWWQ3cHpKeWNsVXM5X3JMN3lZZWRYVmJ1NU1VcUI1eFFjYUxvNDZTNjBUVHZwWWVkN2JMZ0l1TjdEQzB6cXA5Y1RvUXgwRHpzdlVvY0ZKZHJ4NnBiRkVQVEhlVUR5UXlxTU1SRW9sd2lMV3JMUlBTd3BXbHNfRjl3dDJROUpVdw"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "英伟达市值逼近6万亿美元创新高",
-   "title_zh": "英伟达股价创历史新高，市值逼近6万亿美元",
-   "sentiment": 1
-  },
-  {
    "id": "b1c0ce465259",
    "title": "Wall Street Bulls Look Optimistic About Nvidia (NVDA): Should You Buy? - Yahoo! Finance Canada",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa0Z5N0N4MDIxOThVc0RzZ0JkQzRzcDY2SVdBRW9XNmhmWDJZVmJaODBfUFlkNGpDTHZLOE5hUjBUUS1yZmVQMllZSjRkUmg5d1l6cVdFcGUzWG9GLTNvQ2g2Skc1Q3RNLUVqNUI5TXlqLVJVeFBOMmE4SEkxS2ZaTXlSN2pnV1NPVFE",
@@ -1766,8 +1833,8 @@
    ],
    "category": "AI需求",
    "session": "盘前",
-   "title_zh": "英伟达从400亿美元AI需求支持中获得什么",
    "zh_summary": "英伟达获400亿美元AI需求支持",
+   "title_zh": "英伟达从400亿美元AI需求支持中获得什么",
    "sentiment": 2
   },
   {
@@ -1947,6 +2014,26 @@
    "session": "盘前",
    "zh_summary": "传闻微软英伟达CEO将发布AI版Surface",
    "title_zh": "市场传闻：微软、英伟达首席执行官将发布搭载AI的Surface Laptop Ultra - Moomoo",
+   "sentiment": 1
+  },
+  {
+   "id": "3df4905c9e96",
+   "title": "Nvidia ($NVDA) Nears $6T Market Cap As Company Stock Hits ATH - Crowdfund Insider",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVhwUG9Ea0FKMk56azVYa1B0N1dUdGtwVW5QQ3ZESUR3alFpWWQ3cHpKeWNsVXM5X3JMN3lZZWRYVmJ1NU1VcUI1eFFjYUxvNDZTNjBUVHZwWWVkN2JMZ0l1TjdEQzB6cXA5Y1RvUXgwRHpzdlVvY0ZKZHJ4NnBiRkVQVEhlVUR5UXlxTU1SRW9sd2lMV3JMUlBTd3BXbHNfRjl3dDJROUpVdw",
+   "source": "Crowdfund Insider",
+   "published_at": "2026-10-07T11:33:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Crowdfund Insider",
+     "published_at": "2026-10-07T11:33:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVhwUG9Ea0FKMk56azVYa1B0N1dUdGtwVW5QQ3ZESUR3alFpWWQ3cHpKeWNsVXM5X3JMN3lZZWRYVmJ1NU1VcUI1eFFjYUxvNDZTNjBUVHZwWWVkN2JMZ0l1TjdEQzB6cXA5Y1RvUXgwRHpzdlVvY0ZKZHJ4NnBiRkVQVEhlVUR5UXlxTU1SRW9sd2lMV3JMUlBTd3BXbHNfRjl3dDJROUpVdw"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前",
+   "zh_summary": "英伟达市值逼近6万亿美元创新高",
+   "title_zh": "英伟达股价创历史新高，市值逼近6万亿美元",
    "sentiment": 1
   },
   {
@@ -6912,105 +6999,6 @@
    "zh_summary": "RTX 5070主机降价至1799美元",
    "title_zh": "RTX 5070主机降至1799美元，省500美元",
    "sentiment": 0
-  },
-  {
-   "id": "046e23cfeb1a",
-   "title": "Here are Tuesday's biggest analyst calls of the day: Nvidia, AMD, Procter & Gamble, Meta & more - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjVIZ0pjYkNPdXl1VFJ1TmQ0U2RhWUI1WXdnSG9OQXA0U2tHOXFrc183SUNDV0dSdjVFSEg2ZUdnYzBONm56U2JPeTdtTW54clNfc1BvWGJsQzd2NjNHRG5FWnNHRTVYRFNyNm1PbGZra09sNV9tMjZfWWQyR3B3TTNQQmk",
-   "source": "CNBC",
-   "published_at": "2026-10-06T12:27:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-06T12:27:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWjVIZ0pjYkNPdXl1VFJ1TmQ0U2RhWUI1WXdnSG9OQXA0U2tHOXFrc183SUNDV0dSdjVFSEg2ZUdnYzBONm56U2JPeTdtTW54clNfc1BvWGJsQzd2NjNHRG5FWnNHRTVYRFNyNm1PbGZra09sNV9tMjZfWWQyR3B3TTNQQmk"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "CNBC汇总周二重要分析师评级",
-   "title_zh": "CNBC周二重要分析师评级：英伟达等",
-   "sentiment": 0
-  },
-  {
-   "id": "c86ca0252321",
-   "title": "Nvidia stock hits record high after Foxconn Q3 2026 revenue surge - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeXVvN3h1YmwwMlp0RWlpZmpEVi01bklYUzlLU3R1QmtISHRicE5pLXh6MUpONmFUVkZEWjNoTjQ3Y25jeUNfQWVVYUFmdWlONHBSNmVpdFRXWTFmc0JfVU5IUzlKSjBjRHRzNGxLa2JaVzQ0bWNqZ1E3RnZMOHpJWGpuSVFsS3FNSjZIUW8zQkVNczVtODlMM2l3",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-06T12:26:53+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T12:26:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeXVvN3h1YmwwMlp0RWlpZmpEVi01bklYUzlLU3R1QmtISHRicE5pLXh6MUpONmFUVkZEWjNoTjQ3Y25jeUNfQWVVYUFmdWlONHBSNmVpdFRXWTFmc0JfVU5IUzlKSjBjRHRzNGxLa2JaVzQ0bWNqZ1E3RnZMOHpJWGpuSVFsS3FNSjZIUW8zQkVNczVtODlMM2l3"
-    },
-    {
-     "name": "qz.com",
-     "published_at": "2026-10-06T12:27:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsWHNQWGdlTElNSUowYmlDcGZ0OEd0bV9kT0RuTXNfTENVc093RGE1bG5IUUN0Ym1UMGxjRm9WMXZ2XzNQUjFCbTVkaVhwX0FJd0ZEcWQtUEZaNC1VSERjTGZrcTRCdWZjWERXQQ"
-    },
-    {
-     "name": "Quartz",
-     "published_at": "2026-10-06T12:27:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsWHNQWGdlTElNSUowYmlDcGZ0OEd0bV9kT0RuTXNfTENVc093RGE1bG5IUUN0Ym1UMGxjRm9WMXZ2XzNQUjFCbTVkaVhwX0FJd0ZEcWQtUEZaNC1VSERjTGZrcTRCdWZjWERXQQ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "富士康营收大增后英伟达创新高",
-   "title_zh": "富士康三季度营收大增，英伟达创历史新高",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.09,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "8fa2ed008d96",
-   "title": "AWS and NVIDIA expand CrowdStrike's program; its startups have raised nearly $1B. - Stock Titan",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEk5cHVYeVJrSFdZZjhpdVBnOHpIcVprX044T3p0dDNuTjkyMHlHWTVJOHVkcXJib25mRlNlOUN4dVd3bTN3dXF5RXNvV09IbzZPRVVLamxPVVRfcWdOUDJQeE9PdlJqcmhCT3dTb0tRcnRUOUljYWtGV2dMOEJVaFlvXzUxWE1CYXNjOHFnOXlfVDk5V3hZWjhqYm0wQWpuYy1lTVJzSjgwc18tczhoQ2ptNGhXNlFuZWc",
-   "source": "Stock Titan",
-   "published_at": "2026-10-06T12:23:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stock Titan",
-     "published_at": "2026-10-06T12:23:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEk5cHVYeVJrSFdZZjhpdVBnOHpIcVprX044T3p0dDNuTjkyMHlHWTVJOHVkcXJib25mRlNlOUN4dVd3bTN3dXF5RXNvV09IbzZPRVVLamxPVVRfcWdOUDJQeE9PdlJqcmhCT3dTb0tRcnRUOUljYWtGV2dMOEJVaFlvXzUxWE1CYXNjOHFnOXlfVDk5V3hZWjhqYm0wQWpuYy1lTVJzSjgwc18tczhoQ2ptNGhXNlFuZWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "AWS与英伟达扩大CrowdStrike项目",
-   "title_zh": "AWS与英伟达扩大CrowdStrike创业项目",
-   "sentiment": 1
-  },
-  {
-   "id": "77683f79c7fb",
-   "title": "美股期货盘前续走强 英伟达、纳指有望再创新高 | 今夜看点 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXhZNXIwYl80MzNTbTd4cTlwT3ItbEl5eHJNU2Vic0dXUFctUTNZd2VzS1hkUnJFcU9NT0l3c3ZkNmR3NWM5anE2YVlZZWNmTTdyenRfR3lBVmVGaUY1SGpiVEhuMVZOYkpCMGZYN1lOQVRkS0k0OEx4OVRpV1ZiRVJTSUNEVV9n",
-   "source": "搜狐网",
-   "published_at": "2026-10-06T12:23:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-06T12:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXhZNXIwYl80MzNTbTd4cTlwT3ItbEl5eHJNU2Vic0dXUFctUTNZd2VzS1hkUnJFcU9NT0l3c3ZkNmR3NWM5anE2YVlZZWNmTTdyenRfR3lBVmVGaUY1SGpiVEhuMVZOYkpCMGZYN1lOQVRkS0k0OEx4OVRpV1ZiRVJTSUNEVV9n"
-    },
-    {
-     "name": "财联社",
-     "published_at": "2026-10-06T12:26:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOTVZXM3NfMk45V01jeVEyWjA0RTA0dzZvdWNYOW96T0VQQ2JlX1B5NEZiRi1lc19QV2plLUpFMW1va1ZkcXk5cA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "盘前美股走强，英伟达有望再创新高",
-   "title_zh": "美股期货盘前续走强 英伟达、纳指有望再创新高 | 今夜看点 - 搜狐网",
-   "sentiment": 1
   }
  ]
 }
