@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T11:36:30.224694+00:00",
+ "updated_at": "2026-10-07T11:51:27.967136+00:00",
  "market": {
   "price": 239.24,
   "change_pct": 0.14,
@@ -10,12 +10,12 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 40
+   "avg": 0.47,
+   "count": 43
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（40条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.47（43条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.7,
    "ma20": 224.89,
-   "as_of": "2026-10-07T11:36:30.212844+00:00"
+   "as_of": "2026-10-07T11:51:27.949400+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "072e90b73d1d",
+   "title": "市场传闻：微软、英伟达首席执行官将发布搭载AI的Surface Laptop Ultra - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTktyWU43YnZrYTQzVkg3Q0NxQ1AtUXhFajltYU5POVQycm5JVXAtaXdQaWRra2FMa2FDQ1EzVm5XakI1OTgyMmROZFNoVVBmSHdUTXRqb1E2WjJaSjJOd1BqRHdhTnN3V0VwUmhxMFlQUEUtdU5mLVVlTDBza01FZFpOTFdUT05vYWNwZXJaWmpoTGY3bjcwX1RqSV9uWnlTVENDa055Zzh2YUxfckFhZjJURHQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-07T11:46:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-07T11:46:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTktyWU43YnZrYTQzVkg3Q0NxQ1AtUXhFajltYU5POVQycm5JVXAtaXdQaWRra2FMa2FDQ1EzVm5XakI1OTgyMmROZFNoVVBmSHdUTXRqb1E2WjJaSjJOd1BqRHdhTnN3V0VwUmhxMFlQUEUtdU5mLVVlTDBza01FZFpOTFdUT05vYWNwZXJaWmpoTGY3bjcwX1RqSV9uWnlTVENDa055Zzh2YUxfckFhZjJURHQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "7a6bb1cea025",
+   "title": "Market Chatter: Microsoft, Nvidia CEOs to Unveil AI-Powered Surface Laptop Ultra - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQalFObmZ0STRkekoyeUJMVFdnNE5YWmF6UFc1Y2pqRWx0YXJtWmo3RWp2UW0yQ01QdXJRT0V1U0lIYkFCUWtQUVNwUHpLRHE0SUw0UjhXLS0wWllOa3IycGZDelhrY1lKWU9NVmhCVzJUU2ZIbnpLWDQxQ3VnZ2tTSk5FQjYzSXlsMHg3ejdQZ09kSmJjd0ZWNDhwLVdDTUNraGc",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-07T11:42:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-07T11:42:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQalFObmZ0STRkekoyeUJMVFdnNE5YWmF6UFc1Y2pqRWx0YXJtWmo3RWp2UW0yQ01QdXJRT0V1U0lIYkFCUWtQUVNwUHpLRHE0SUw0UjhXLS0wWllOa3IycGZDelhrY1lKWU9NVmhCVzJUU2ZIbnpLWDQxQ3VnZ2tTSk5FQjYzSXlsMHg3ejdQZ09kSmJjd0ZWNDhwLVdDTUNraGc"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
   {
    "id": "0c8e0b1f23f9",
    "title": "Nvidia or Broadcom in October: 1 AI Chip Stock Gets My Money - 24/7 Wall St.",
@@ -1855,12 +1889,17 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0RCWGJpVkdoYm5KXzZHcGNPZzByakxIMWtmUzdSaDU1ckFTaW4yVnkwc2tld2E0anByaF9lVldPUGVsT3N5UTJnV2xTVTdlVUtpTzlRbkpJOW5HU3ZMXzRLZHNkVjlReE9vOXMwMk43RkxkUGVrSkJpSnEwdS1JWHctVU5vbHRDYVNEdHNPSnFuSDVZMUZ6N25kNld0UUgz",
    "source": "Breakingthenews.net",
    "published_at": "2026-10-06T22:44:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Breakingthenews.net",
      "published_at": "2026-10-06T22:44:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0RCWGJpVkdoYm5KXzZHcGNPZzByakxIMWtmUzdSaDU1ckFTaW4yVnkwc2tld2E0anByaF9lVldPUGVsT3N5UTJnV2xTVTdlVUtpTzlRbkpJOW5HU3ZMXzRLZHNkVjlReE9vOXMwMk43RkxkUGVrSkJpSnEwdS1JWHctVU5vbHRDYVNEdHNPSnFuSDVZMUZ6N25kNld0UUgz"
+    },
+    {
+     "name": "Fox Business",
+     "published_at": "2026-10-07T10:59:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02ZC1KNFZuY3hZSmlRQnVXbngxV0hRVmxEVEExYnBsOXYtOXlwUVZKck1GTnNvOWE5YnpORm1JVGNoT0xsbmlzQnJueDY3emFpTEFoZU5EWmtLQTg"
     }
    ],
    "category": "产品技术",
@@ -2843,6 +2882,23 @@
    "zh_summary": "Inception创业公司改善乳腺癌护理",
    "title_zh": "NVIDIA Inception初创企业助力改善乳腺癌护理",
    "sentiment": 0
+  },
+  {
+   "id": "cd164977a932",
+   "title": "深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMS11aUFFdHRqTkFSOHhRS2t1Qi13ZWR0V0Vra25HNlpTc0NBeXI1cTJIcXl3aW1fUFhvNTlHLWJDSlpONXlpX051V21sMnRPakdpWXBaTXk4ZWxKa2F1X3g4MGdndVVXcHh5NXB2NkJNUUdQcUNCOC1Ed2ZBUUxsWE9yQQ",
+   "source": "新浪网",
+   "published_at": "2026-10-06T16:42:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-06T16:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMS11aUFFdHRqTkFSOHhRS2t1Qi13ZWR0V0Vra25HNlpTc0NBeXI1cTJIcXl3aW1fUFhvNTlHLWJDSlpONXlpX051V21sMnRPakdpWXBaTXk4ZWxKa2F1X3g4MGdndVVXcHh5NXB2NkJNUUdQcUNCOC1Ed2ZBUUxsWE9yQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "e8938cbe0e8d",
@@ -7506,85 +7562,6 @@
    "zh_summary": "英伟达等巨头评估英特尔14A制程",
    "title_zh": "英伟达苹果微软等巨头集体评估英特尔14A制程，量产在即引代工格局变革 - 搜狐网",
    "sentiment": 0
-  },
-  {
-   "id": "c04e2b5bcd00",
-   "title": "AI算力需求前景获看好，法巴上调英伟达、英特尔目标价 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVpVUlV0bldlX3duT3VmY0dPNTBUbHVtQjdHWjhlcGZGLWxudlZXR3ltMTl0YmZUOXY1SHFEeVRJTERmY2h4QzZIY29XRDNRMW52aVhaZ1hUOU5iQVQtTE5oS1dkeU41T0U5UU9MQ3QxdzZTV2dkdEdLUzZCVmlFQUpsNUZ5T0FQTW52VXItdkhtaXVna0NjMFhpQ0xJUWtQRy1kQXkwRHpwUlRlbnNLRzd0UEdCQQ",
-   "source": "Moomoo",
-   "published_at": "2026-10-05T23:39:38+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-05T23:39:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVpVUlV0bldlX3duT3VmY0dPNTBUbHVtQjdHWjhlcGZGLWxudlZXR3ltMTl0YmZUOXY1SHFEeVRJTERmY2h4QzZIY29XRDNRMW52aVhaZ1hUOU5iQVQtTE5oS1dkeU41T0U5UU9MQ3QxdzZTV2dkdEdLUzZCVmlFQUpsNUZ5T0FQTW52VXItdkhtaXVna0NjMFhpQ0xJUWtQRy1kQXkwRHpwUlRlbnNLRzd0UEdCQQ"
-    },
-    {
-     "name": "moomoo.com",
-     "published_at": "2026-10-05T23:39:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVpVUlV0bldlX3duT3VmY0dPNTBUbHVtQjdHWjhlcGZGLWxudlZXR3ltMTl0YmZUOXY1SHFEeVRJTERmY2h4QzZIY29XRDNRMW52aVhaZ1hUOU5iQVQtTE5oS1dkeU41T0U5UU9MQ3QxdzZTV2dkdEdLUzZCVmlFQUpsNUZ5T0FQTW52VXItdkhtaXVna0NjMFhpQ0xJUWtQRy1kQXkwRHpwUlRlbnNLRzd0UEdCQQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘后",
-   "zh_summary": "法巴看好算力需求，上调英伟达目标价",
-   "title_zh": "AI算力需求前景获看好，法巴上调英伟达、英特尔目标价 - Moomoo",
-   "sentiment": 1
-  },
-  {
-   "id": "2ee28bccdc63",
-   "title": "Nvidia advances sports tech with 3D body pose and AI-generated slow motion - The Business Journals",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekRBWXN0aXVyZUxYSG55Y1otRGplR21oVUJyUUwtNXk2VkJ0OHNTNWZzSGEyU3JzNlZUUTM0VlVXbDFhSk0yZUFKOXRIN3JocWF4azhfb2xXUnhmVDlwODh3OWJ0TndYUDE2cWtvODc5X2NwVVdkWFNldDA1VDBVQS1zTXk2RzJjbWJULWtKZDVXOWVabGc",
-   "source": "The Business Journals",
-   "published_at": "2026-10-05T23:32:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Business Journals",
-     "published_at": "2026-10-05T23:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekRBWXN0aXVyZUxYSG55Y1otRGplR21oVUJyUUwtNXk2VkJ0OHNTNWZzSGEyU3JzNlZUUTM0VlVXbDFhSk0yZUFKOXRIN3JocWF4azhfb2xXUnhmVDlwODh3OWJ0TndYUDE2cWtvODc5X2NwVVdkWFNldDA1VDBVQS1zTXk2RzJjbWJULWtKZDVXOWVabGc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达以3D姿态识别推进体育科技",
-   "title_zh": "英伟达以3D身体姿态与AI生成慢动作推进体育科技",
-   "sentiment": 1
-  },
-  {
-   "id": "ba29a7aa5743",
-   "title": "英伟达美股连续3天创历史新高，本月市值有望冲击6万亿美元 - sohu.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWG1KR3dmRmtoeE1MVEFjb2NVUEdONEZDNU5XYWlPbi1oMDRKcm1FWHpwQW93ZXQtTWc1UnlaSXVIdDk4QWE0ODBtcjNUT1lHMG93TTBGRExuckYtMjJ3VlRRMURPRV9jakxRWnRodkF2aW1TQlVaOXIteFpMRHBxVV96cmx4SWxt",
-   "source": "sohu.com",
-   "published_at": "2026-10-05T23:05:42+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-05T23:05:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWG1KR3dmRmtoeE1MVEFjb2NVUEdONEZDNU5XYWlPbi1oMDRKcm1FWHpwQW93ZXQtTWc1UnlaSXVIdDk4QWE0ODBtcjNUT1lHMG93TTBGRExuckYtMjJ3VlRRMURPRV9jakxRWnRodkF2aW1TQlVaOXIteFpMRHBxVV96cmx4SWxt"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-05T23:11:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tOTdSdUN4b2ZKRl9ITGR4U1d5SEhjOGwtVFM3Q2xKeUcwSGRsSFhWRWdkTHcyNXVOa0ItX3BRNGJDMTNLejNxZ3M4X2M"
-    },
-    {
-     "name": "tech.ifeng.com",
-     "published_at": "2026-10-05T23:11:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tOTdSdUN4b2ZKRl9ITGR4U1d5SEhjOGwtVFM3Q2xKeUcwSGRsSFhWRWdkTHcyNXVOa0ItX3BRNGJDMTNLejNxZ3M4X2M"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "连续3天创历史新高",
-   "title_zh": "英伟达美股连续3天创历史新高，本月市值有望冲击6万亿美元 - sohu.com",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.14,
-    "window_h": 0.1
-   }
   }
  ]
 }
