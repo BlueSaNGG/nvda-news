@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T17:51:30.477329+00:00",
+ "updated_at": "2026-10-07T18:06:30.647694+00:00",
  "market": {
-  "price": 236.8,
-  "change_pct": -1.02,
+  "price": 237.22,
+  "change_pct": -0.84,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.69,
-   "count": 126
+   "count": 129
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +34.1%"
+     "note": "目标价中位数 $318（14家），隐含空间 +33.8%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.69（126条已评分）"
+     "note": "今日新闻情绪 +0.69（129条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $236.80 vs 20日均线 $225.54"
+     "note": "现价 $237.22 vs 20日均线 $225.57"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 97,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 34.1,
-   "ma20": 225.54,
-   "as_of": "2026-10-07T17:51:30.468468+00:00"
+   "implied_upside_pct": 33.8,
+   "ma20": 225.57,
+   "as_of": "2026-10-07T18:06:30.633531+00:00"
   },
   "pe_ttm": 30.1,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+34.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+33.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "f6650b02d9b1",
+   "title": "微软高管表示 搭载英伟达芯片的RTX Spark设备将于下周开始发货 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XQmo4amxBdllMdjdsb2ROZzRmYmRPcy1FX2JkcVF2UXVCUXJ0VGUtS0pvU2NVWTNSTjNSWGxpVlQ0OHJkT3RZNEs5T2VLcmN5dzI5dVhzMldTdzRZM1dGY2dmYw",
+   "source": "东方财富",
+   "published_at": "2026-10-07T18:05:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-07T18:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XQmo4amxBdllMdjdsb2ROZzRmYmRPcy1FX2JkcVF2UXVCUXJ0VGUtS0pvU2NVWTNSTjNSWGxpVlQ0OHJkT3RZNEs5T2VLcmN5dzI5dVhzMldTdzRZM1dGY2dmYw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "bb8cadc6cd33",
    "title": "Is SpaceX About to Hand Nvidia a $40 Billion Payday? Here's What it Could Mean for Investors. - The Motley Fool",
@@ -80,6 +97,23 @@
    "zh_summary": "SpaceX拟融资400亿美元采购英伟达芯片",
    "title_zh": "SpaceX将为英伟达带来400亿美元大单？",
    "sentiment": 1
+  },
+  {
+   "id": "ce7dd59ade59",
+   "title": "How SpaceX's big Nvidia buy could contribute to 'structural changes' to the economy - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWNPSTh5cG8tcHQzOGZ2dmFwak4zUlBjMDB4NVM4WFBhLWxKMk1wQmgyTjJZdU94eDF6dW1jSWR6RFhhcEhvS2ZSWUN5V0Nmd3otdGFucDBOVjBBOVlzdWRvODVhSU1Eem5sdUVoTWZ2LVZxNWRCZDQ0OWR3anRhUA",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-07T17:45:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-07T17:45:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWNPSTh5cG8tcHQzOGZ2dmFwak4zUlBjMDB4NVM4WFBhLWxKMk1wQmgyTjJZdU94eDF6dW1jSWR6RFhhcEhvS2ZSWUN5V0Nmd3otdGFucDBOVjBBOVlzdWRvODVhSU1Eem5sdUVoTWZ2LVZxNWRCZDQ0OWR3anRhUA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "19ff93d91df9",
@@ -240,6 +274,40 @@
    "zh_summary": "使用数字孪生和AI智能体验证AI工厂变更",
    "title_zh": "使用数字孪生和AI智能体验证AI工厂变更|NVIDIA开发者博客",
    "sentiment": 1
+  },
+  {
+   "id": "af1bbbed5e4a",
+   "title": "Microsoft and Nvidia Detail PC Laptop with RTX Spark Chip Today - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmVJbnpXNmxnLXlXWnZHbldkbTJ6dVhQZk1BMGdqdUxiM3B1QUF4WE5GQTVYakxYNWFLelVYYWpuRXFNZDdiVmlfcU92dGgxeEhXMEVoYmhCaEliaTBwRUFOSFJaTk9Pb01JMkpra3dLWlV1ajI4aS1ILUpUZGVJbUJ1TWFmZGtnUl9JdGtwU3ctenpIc0ZyakhCUXA3Q1ZSNUItaGFWcmFpeUhzWHJQLXh3ZDdmSEJEYUE",
+   "source": "Barron's",
+   "published_at": "2026-10-07T16:02:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-07T16:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmVJbnpXNmxnLXlXWnZHbldkbTJ6dVhQZk1BMGdqdUxiM3B1QUF4WE5GQTVYakxYNWFLelVYYWpuRXFNZDdiVmlfcU92dGgxeEhXMEVoYmhCaEliaTBwRUFOSFJaTk9Pb01JMkpra3dLWlV1ajI4aS1ILUpUZGVJbUJ1TWFmZGtnUl9JdGtwU3ctenpIc0ZyakhCUXA3Q1ZSNUItaGFWcmFpeUhzWHJQLXh3ZDdmSEJEYUE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "1d7cf4666715",
+   "title": "Top Midday Stories: SpaceX Said to Seek $40 Billion in Financing for Nvidia Chips; Webull Poses National Security Threat, House Panel Reportedly Says - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2hrM2pGc2JCcjFONFBKbF9mbV9hWkxza3M4alFZWHQwQkEyRjB5aFBUenphWVhuSi1UNzFHdEhpTGg0TUpJRkVqbzJZNnl2RzJNVWl1NFFsYklrMW0xMHdxWEdwY2VVcFZaZHI1eURTcGx2bUZrc0hOSkpRT3FhcVlrb1V0dUU0M1NXTmpPaWp0aGR2Tm4yVTh1SQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-07T16:00:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-07T16:00:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2hrM2pGc2JCcjFONFBKbF9mbV9hWkxza3M4alFZWHQwQkEyRjB5aFBUenphWVhuSi1UNzFHdEhpTGg0TUpJRkVqbzJZNnl2RzJNVWl1NFFsYklrMW0xMHdxWEdwY2VVcFZaZHI1eURTcGx2bUZrc0hOSkpRT3FhcVlrb1V0dUU0M1NXTmpPaWp0aGR2Tm4yVTh1SQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "25632cfb0008",
@@ -1396,12 +1464,17 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXNIUDJkdXFfSnB6aGJEU3I5ZV9tLUMzMG1SQVd0N2w1bm0xQTZFTmdtR3JCazUtS1VBMzJDeVNfS0xWN3oyTlk5X0lCVld2NjlsdGlYT0dyOEdKTmx6MTFudk5DWkdWUFJMRVF4bVM4VzJLN0doX2lnUFN2T0w3cTlLOUExckU3VHRQUWtXNXlaU0hMMllwaWVxLW9ESGdyNldCUDdsZVR5cENlY0hN",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-07T12:45:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-07T12:45:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXNIUDJkdXFfSnB6aGJEU3I5ZV9tLUMzMG1SQVd0N2w1bm0xQTZFTmdtR3JCazUtS1VBMzJDeVNfS0xWN3oyTlk5X0lCVld2NjlsdGlYT0dyOEdKTmx6MTFudk5DWkdWUFJMRVF4bVM4VzJLN0doX2lnUFN2T0w3cTlLOUExckU3VHRQUWtXNXlaU0hMMllwaWVxLW9ESGdyNldCUDdsZVR5cENlY0hN"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-07T12:45:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVE9CN1FiYkhHYnVFbXgtTUp5OVJhY0NLLXhsbnNTSGUwdDZKdlFkOFBqSDNGeDNGXzZUR0RFUGpRWmdLNmsyNmtDcGtHZERralRqSnJNVDNYOE0yTHZoMXJYN21iMllZb1dzSXZDdnBfaTA5TEsxSHJSNmJ3aXFrZ2NtX0p6QVpnRmZTcHNRQmg4SUFN"
     }
    ],
    "category": "其他",
@@ -5076,26 +5149,6 @@
    }
   },
   {
-   "id": "2556a2068797",
-   "title": "Nvidia stock rises to new highs as market cap closes in on $6 trillion - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVlRRDdLeUlIWFF1RTBmNXljZ0pENE5md1RsRU5Uam8tOHJSRFM4Ykh4YkNKbW5pRzU2azBhTWdrS1JqZUVhLVNfMkprUjAxYWM0d3hOYmd3MmpFd3FKYjRta09JR3dmek9RNmZfZ29sNlBFMEZGblFKall3OVJwMFQtMnpzS1JYWlROQURUYzFhSk9WcC1jN2l2bGJPZjBCUU5DQkFpaVhsX3M0UjlyOGdJd3ZjUHlYVEs0T2dJQTlYZFUzWVlVSw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-06T15:22:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T15:22:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVlRRDdLeUlIWFF1RTBmNXljZ0pENE5md1RsRU5Uam8tOHJSRFM4Ykh4YkNKbW5pRzU2azBhTWdrS1JqZUVhLVNfMkprUjAxYWM0d3hOYmd3MmpFd3FKYjRta09JR3dmek9RNmZfZ29sNlBFMEZGblFKall3OVJwMFQtMnpzS1JYWlROQURUYzFhSk9WcC1jN2l2bGJPZjBCUU5DQkFpaVhsX3M0UjlyOGdJd3ZjUHlYVEs0T2dJQTlYZFUzWVlVSw"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "英伟达股价创新高，市值逼近6万亿美元",
-   "title_zh": "英伟达股价创历史新高，市值逼近6万亿美元",
-   "sentiment": 2
-  },
-  {
    "id": "b9a95ba20dab",
    "title": "Nvidia (NVDA) Shares Hit New High Amid Strong ETF Presence and M - GuruFocus",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLTdITVZkbzNxem9ZbUdKSTNQVzB5Mk1VVWpzakxJYkpHX29BZHdncFNiQnZ5Vkk4a3BqUmFsbEVqSEJOa0JtQ1lwYmw1TVVWODBONGpWUHhaWHljTVhSYjdiYmZIZS1WLW1FM28wY082WDNDZGQtWENfVmFUR3JXcHN0MlNTQWNBSmJueHFobWc5MWRwcElBQnhPVWcyZDZlR2ltQTZSNmVMUVZkVmRUN3g3NGQtQjBScWVtMWM0c0c",
@@ -7002,100 +7055,6 @@
    "zh_summary": "一只网络股从AI数据中心建设中获益",
    "title_zh": "不是英伟达也不是AMD，这只网络股从每座AI数据中心获益",
    "sentiment": 0
-  },
-  {
-   "id": "781caa3846fa",
-   "title": "What is NVIDIA-Backed Reflection AI & its Open-Weight Model? - AI Magazine",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanNWdFF5TjhnYkgzOGMwM2tSWVhpS0licUJ3eTZtbTF6U01DZUdYYWNWcVAyRnpuU2xId2RRMjh4SjdIbng0T0ZONkFfN256dnlmNHhSWHJHcEpTSEl2bzJ1a25IWXpXcjFsMG9rdXo0d3NJUWZmOE5VTnRiOUNQa0hrRl9WRHJHT0EybFB3",
-   "source": "AI Magazine",
-   "published_at": "2026-10-06T11:48:45+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "AI Magazine",
-     "published_at": "2026-10-06T11:48:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanNWdFF5TjhnYkgzOGMwM2tSWVhpS0licUJ3eTZtbTF6U01DZUdYYWNWcVAyRnpuU2xId2RRMjh4SjdIbng0T0ZONkFfN256dnlmNHhSWHJHcEpTSEl2bzJ1a25IWXpXcjFsMG9rdXo0d3NJUWZmOE5VTnRiOUNQa0hrRl9WRHJHT0EybFB3"
-    },
-    {
-     "name": "aimagazine.com",
-     "published_at": "2026-10-06T11:48:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanNWdFF5TjhnYkgzOGMwM2tSWVhpS0licUJ3eTZtbTF6U01DZUdYYWNWcVAyRnpuU2xId2RRMjh4SjdIbng0T0ZONkFfN256dnlmNHhSWHJHcEpTSEl2bzJ1a25IWXpXcjFsMG9rdXo0d3NJUWZmOE5VTnRiOUNQa0hrRl9WRHJHT0EybFB3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达支持的 Reflection AI 开源模型",
-   "title_zh": "英伟达支持的 Reflection AI 是什么及其开源权重模型",
-   "sentiment": 0
-  },
-  {
-   "id": "3527588ed6fd",
-   "title": "Nvidia Approaching $6 Trillion Market Cap, With $10 Trillion in Sight for 2028 - NAI500",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ09EbTJ2aHI2OUJ3Q044ZjB5SDAySDlnX1Q1YmcyLS1uNnozMW1WSWNrTkRfZEtZbVVacmh3eWpuVV9WVU1hZjdydk1KY1B2T3otdlJleFBVVjFnY3BxemNUV3VqSllmamNQYzY5WXJvMzlnOVZvWlJhemJjWWNFZzBHcE13dk85VU1FbUltMU9vZU9zSy1hM2dkSkkzbXVmU0U2X09SVGxhaTRK",
-   "source": "NAI500",
-   "published_at": "2026-10-06T11:43:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NAI500",
-     "published_at": "2026-10-06T11:43:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ09EbTJ2aHI2OUJ3Q044ZjB5SDAySDlnX1Q1YmcyLS1uNnozMW1WSWNrTkRfZEtZbVVacmh3eWpuVV9WVU1hZjdydk1KY1B2T3otdlJleFBVVjFnY3BxemNUV3VqSllmamNQYzY5WXJvMzlnOVZvWlJhemJjWWNFZzBHcE13dk85VU1FbUltMU9vZU9zSy1hM2dkSkkzbXVmU0U2X09SVGxhaTRK"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "英伟达逼近6万亿美元市值，2028年或达10万亿",
-   "title_zh": "英伟达逼近6万亿美元市值，2028年有望达到10万亿",
-   "sentiment": 1
-  },
-  {
-   "id": "0a07892eb755",
-   "title": "Nvidia is approaching the world's first $6 trillion market capitalization - Українські Національні Новини (УНН)",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenNMbGVYZ0hKWGhoRnJuUHdpMjFIalc5b0FDTkxEb3pkQlh1ZFFNc3NmanZXZHJnMUZrNlU4akxYcTB3eTlBOXVtb0xhYmFYWDhFM2ZGdHUzdFZWM2RGT0pENUU0ZjZrSzhKUXVYc1g4NEc0Qy10OGprdW4zY05vemRIalJVOHdOZnRUdEdpWm1sSERIb3FwTVR6SHFMVUlyN2fSAaABQVVfeXFMTjlBV0VpczR3RnBXRzk0ZTNVSTJVMFB6OUwwVExQeWI1aEVwZ09YeXNfb0VFcnRKUnZKUnJEdFZHX09zSEhSOTdoVXVJc1EwYzdBM25zdHVhZlRfY0hPTXMtM1hqSENjMmlDQ2xyZ2NkZ2RSdkRsOUZsZ09LZVZWUEN3SmJvVDBJeURXQjgxODlkNV9sS1loSF9uYjJMYWRRZA",
-   "source": "Українські Національні Новини (УНН)",
-   "published_at": "2026-10-06T11:42:00+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "Українські Національні Новини (УНН)",
-     "published_at": "2026-10-06T11:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenNMbGVYZ0hKWGhoRnJuUHdpMjFIalc5b0FDTkxEb3pkQlh1ZFFNc3NmanZXZHJnMUZrNlU4akxYcTB3eTlBOXVtb0xhYmFYWDhFM2ZGdHUzdFZWM2RGT0pENUU0ZjZrSzhKUXVYc1g4NEc0Qy10OGprdW4zY05vemRIalJVOHdOZnRUdEdpWm1sSERIb3FwTVR6SHFMVUlyN2fSAaABQVVfeXFMTjlBV0VpczR3RnBXRzk0ZTNVSTJVMFB6OUwwVExQeWI1aEVwZ09YeXNfb0VFcnRKUnZKUnJEdFZHX09zSEhSOTdoVXVJc1EwYzdBM25zdHVhZlRfY0hPTXMtM1hqSENjMmlDQ2xyZ2NkZ2RSdkRsOUZsZ09LZVZWUEN3SmJvVDBJeURXQjgxODlkNV9sS1loSF9uYjJMYWRRZA"
-    },
-    {
-     "name": "unn.ua",
-     "published_at": "2026-10-06T11:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenNMbGVYZ0hKWGhoRnJuUHdpMjFIalc5b0FDTkxEb3pkQlh1ZFFNc3NmanZXZHJnMUZrNlU4akxYcTB3eTlBOXVtb0xhYmFYWDhFM2ZGdHUzdFZWM2RGT0pENUU0ZjZrSzhKUXVYc1g4NEc0Qy10OGprdW4zY05vemRIalJVOHdOZnRUdEdpWm1sSERIb3FwTVR6SHFMVUlyN2fSAaABQVVfeXFMTjlBV0VpczR3RnBXRzk0ZTNVSTJVMFB6OUwwVExQeWI1aEVwZ09YeXNfb0VFcnRKUnZKUnJEdFZHX09zSEhSOTdoVXVJc1EwYzdBM25zdHVhZlRfY0hPTXMtM1hqSENjMmlDQ2xyZ2NkZ2RSdkRsOUZsZ09LZVZWUEN3SmJvVDBJeURXQjgxODlkNV9sS1loSF9uYjJMYWRRZA"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-06T13:49:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdW9rUnp3QTIyOXBfT0thZUI1OVZVdXZiclFLYVZ4OFkwcWRhT0hTdzVER3A4T3dEam5wblU4VVBoXzgwdmFKSi1MS012cjlFUGdxSGp6b2gwS0h6RmlCMmpkeEVXd1JMcGRhRy1MaW5rdWd5NkdIOFNiVEJDNk9jRGJVNDAxSTl0QXBLOVRyNndwazZUWGtkcEhZVWM0cU1h"
-    },
-    {
-     "name": "qz.com",
-     "published_at": "2026-10-06T13:57:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uQUVYX2hlTkRtSGtpVVBhRkppcklFTHZFb1RKdk5MOUhVWnhrWWtRUmYxVl9oQ2NrWGxUTzVwVFJlVVNyMEZBVDFHUFpLQUZPTkRlRVJSZ29yakYxcnI1NmNJTG80MW1WN3c"
-    },
-    {
-     "name": "Quartz",
-     "published_at": "2026-10-06T13:57:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uQUVYX2hlTkRtSGtpVVBhRkppcklFTHZFb1RKdk5MOUhVWnhrWWtRUmYxVl9oQ2NrWGxUTzVwVFJlVVNyMEZBVDFHUFpLQUZPTkRlRVJSZ29yakYxcnI1NmNJTG80MW1WN3c"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T13:49:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdW9rUnp3QTIyOXBfT0thZUI1OVZVdXZiclFLYVZ4OFkwcWRhT0hTdzVER3A4T3dEam5wblU4VVBoXzgwdmFKSi1MS012cjlFUGdxSGp6b2gwS0h6RmlCMmpkeEVXd1JMcGRhRy1MaW5rdWd5NkdIOFNiVEJDNk9jRGJVNDAxSTl0QXBLOVRyNndwazZUWGtkcEhZVWM0cU1h"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "英伟达有望成为首家6万亿美元市值公司",
-   "title_zh": "英伟达有望成为全球首家6万亿美元市值的公司",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.24,
-    "window_h": 0.6
-   }
   }
  ]
 }
