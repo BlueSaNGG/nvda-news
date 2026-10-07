@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T06:21:28.314082+00:00",
+ "updated_at": "2026-10-07T06:36:28.935279+00:00",
  "market": {
   "price": 239.24,
   "change_pct": 0.14,
@@ -10,12 +10,12 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 1
+   "avg": -0.5,
+   "count": 4
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.00（1条已评分）"
+     "score": -1,
+     "note": "今日新闻情绪 -0.50（4条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.7,
    "ma20": 224.89,
-   "as_of": "2026-10-07T06:21:28.296873+00:00"
+   "as_of": "2026-10-07T06:36:28.924594+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -140,6 +140,23 @@
    "zh_summary": "英伟达与苹果估值竞争分析",
    "title_zh": "英伟达（NVDA）与苹果（AAPL）：谁将赢得估值竞赛？",
    "sentiment": 0
+  },
+  {
+   "id": "5aef8e5a9740",
+   "title": "Watch SpaceX Eyes $40B for Nvidia Chips, Asian Stocks Hold Near Record Highs - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3c3N1lManVGanFrNWlUbnFMNmdrWnJUa0tvTmZTSFg1NHFlZFdnMzJIZ094Wm1MWTJ5U2NGcGhHcGxhRENkM2Y4VnNmSUtzQkF0dTY5Ul9ORTVseUw0RFE4TC1mVWJGcFZ5emsybDhoRER1d3ZTNTZMSlhlNjJDbUVQcGVJZw",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-07T05:02:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-07T05:02:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3c3N1lManVGanFrNWlUbnFMNmdrWnJUa0tvTmZTSFg1NHFlZFdnMzJIZ094Wm1MWTJ5U2NGcGhHcGxhRENkM2Y4VnNmSUtzQkF0dTY5Ul9ORTVseUw0RFE4TC1mVWJGcFZ5emsybDhoRER1d3ZTNTZMSlhlNjJDbUVQcGVJZw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "8eda0cfbed68",
@@ -5231,26 +5248,6 @@
    "sentiment": 1
   },
   {
-   "id": "79e284cf5857",
-   "title": "NVIDIA Corporation $NVDA Stock Purchased by Robinhood Asset Management LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXVRbTNjUDdKajhiX1hGc2VSaU5MV2RWRjNaclFXUDRYOFM1U1M1OWp2TF8zV0lULXVxV2hVNkxRWmsycXNfQ2s0Y2JleUZMYTI0VUdUUlFraWFmSmptYVhXVlpEREE5cmszYW95SkVwV04zaTY4bWNvc3R0bTVabGZZa25VcGJLTUtSRFVzTzNLa1R0NHNHSG5wc3hRcFJQOGYxQk1kUmk1OUxOOHk4WGhaR1MtUXZXS2I2R1ZjY3NJaXI1UVRmRFFTUWJ4ekU",
-   "source": "MarketBeat",
-   "published_at": "2026-10-06T07:32:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-06T07:32:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXVRbTNjUDdKajhiX1hGc2VSaU5MV2RWRjNaclFXUDRYOFM1U1M1OWp2TF8zV0lULXVxV2hVNkxRWmsycXNfQ2s0Y2JleUZMYTI0VUdUUlFraWFmSmptYVhXVlpEREE5cmszYW95SkVwV04zaTY4bWNvc3R0bTVabGZZa25VcGJLTUtSRFVzTzNLa1R0NHNHSG5wc3hRcFJQOGYxQk1kUmk1OUxOOHk4WGhaR1MtUXZXS2I2R1ZjY3NJaXI1UVRmRFFTUWJ4ekU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Robinhood资管买入NVDA股票",
-   "title_zh": "Robinhood资管购入英伟达NVDA股票",
-   "sentiment": 1
-  },
-  {
    "id": "2617c4e92113",
    "title": "NVIDIA Corporation $NVDA Stock Bought by OneAscent Financial Services LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb29UZ0RGNEVHck16LXdoMFQtZnQzc24tVGYyZTVBZTVRU2Nib0JXdGQ0Z1NSRTV2WnczU3NBT2NJWDg4T3Jpb0dtbUtwR3dpcHNwZEp6R3ZiTUJ4ZllYazBqTVZFVFVUNlctYWk4OVJVTWZ5ejF2VE1IeEVRNUY1Ym1Jd3NBTms0SGxuTlNqeVB5RFYzeHhYY3dUV2VXMDdXOHBWRTdYTzhKdVoxeC1TWlR1alU2Z0RPUnlCMDY4azR5Mmc0c1A1WVdwM1A3UQ",
@@ -6331,6 +6328,23 @@
    "zh_summary": "moomoo用户发帖称梭哈英伟达",
    "title_zh": "moomoo用户发帖称\"不小心又梭哈了\"英伟达",
    "sentiment": 0
+  },
+  {
+   "id": "cde02de94e67",
+   "title": "一觉醒来！纳指、英伟达再创新高 马斯克身家重回1万亿美元 国际油价跌破90美元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0ak5ZdjBEYjNIcWhuQk5rNW5LdTlRLUJnNURNN081ZEQyWTNuczJBelBib2Z5eFo4cGZIOWtxbGtZRG5iY0FtUmhmQkdrN3d0eVNmb3RXV0ZMRDFOb3pPR19FcTM5QQ",
+   "source": "东方财富",
+   "published_at": "2026-10-06T00:39:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-06T00:39:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0ak5ZdjBEYjNIcWhuQk5rNW5LdTlRLUJnNURNN081ZEQyWTNuczJBelBib2Z5eFo4cGZIOWtxbGtZRG5iY0FtUmhmQkdrN3d0eVNmb3RXV0ZMRDFOb3pPR19FcTM5QQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "98f01e47b7ab",
@@ -7750,26 +7764,6 @@
    "session": "盘中",
    "zh_summary": "摩根士丹利称英伟达博通不受AI电力短缺影响",
    "title_zh": "摩根士丹利：英伟达博通或免于AI电力短缺冲击",
-   "sentiment": 1
-  },
-  {
-   "id": "e48e143a7129",
-   "title": "Nvidia looks to take out its record high close — plus, don't worry about Intel's dip - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSHA0b2x1ZkhXMzlJLXdCVHk1SExtYlBEbzdyS0cxakwtZzhOSjhocVZwdnRVZzg5SjlGUXNoMHRwOEtscDd5eDFBbFVhVkpNaGhJVlJzalhfUGthNHZYVXdhbEthQVRVRG5ZN1hPaHBiZ1hKTElfa2ItdTV3aWVwMmZoanR2eWJYeEV3VmNGNTN5UjVtY3E4M2owTTNFZTdEWkhDT0VKd0ZUOFVGS2QyQjNhaWpmV0ZUR0NzRlBudEszVVJ3QnVBLTJB",
-   "source": "CNBC",
-   "published_at": "2026-10-05T18:25:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-05T18:25:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSHA0b2x1ZkhXMzlJLXdCVHk1SExtYlBEbzdyS0cxakwtZzhOSjhocVZwdnRVZzg5SjlGUXNoMHRwOEtscDd5eDFBbFVhVkpNaGhJVlJzalhfUGthNHZYVXdhbEthQVRVRG5ZN1hPaHBiZ1hKTElfa2ItdTV3aWVwMmZoanR2eWJYeEV3VmNGNTN5UjVtY3E4M2owTTNFZTdEWkhDT0VKd0ZUOFVGS2QyQjNhaWpmV0ZUR0NzRlBudEszVVJ3QnVBLTJB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达有望突破收盘历史新高",
-   "title_zh": "英伟达有望突破收盘纪录新高，无需担忧英特尔下跌",
    "sentiment": 1
   }
  ]
