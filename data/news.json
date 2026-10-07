@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T06:36:28.935279+00:00",
+ "updated_at": "2026-10-07T06:51:26.297549+00:00",
  "market": {
   "price": 239.24,
   "change_pct": 0.14,
@@ -10,12 +10,12 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": -0.5,
-   "count": 4
+   "avg": 0.0,
+   "count": 5
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": -1,
-     "note": "今日新闻情绪 -0.50（4条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.00（5条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.7,
    "ma20": 224.89,
-   "as_of": "2026-10-07T06:36:28.924594+00:00"
+   "as_of": "2026-10-07T06:51:26.278212+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "a539b7b4d306",
+   "title": "EIZO launches SOSA-aligned 3U VPX computer with NVIDIA IGX Thor - Military Aerospace",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2o5MGFqLW00eERoSE9nX3dJY2lnWE1DX1Rvdi1wZnl6WUFXLXUxR0V4RmtxY1RCeGVYRXBoazJHS2VkS2RwTmlmVFpGOVFzNlRGbDNOX1lHSy0zYmxNb1JIUnRuTWVraUpEcmV3VUdYS2pOTDZYZXJhWnBvaVR1T043eVpmckxtTVp1a3NUN2JOUGF4WVd0bTVIcFhQSWhtWlQtVXJiT0xMU3hkeHlpUnpqLU5YOWZsTFZEUExuRkVZQQ",
+   "source": "Military Aerospace",
+   "published_at": "2026-10-07T06:39:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Military Aerospace",
+     "published_at": "2026-10-07T06:39:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2o5MGFqLW00eERoSE9nX3dJY2lnWE1DX1Rvdi1wZnl6WUFXLXUxR0V4RmtxY1RCeGVYRXBoazJHS2VkS2RwTmlmVFpGOVFzNlRGbDNOX1lHSy0zYmxNb1JIUnRuTWVraUpEcmV3VUdYS2pOTDZYZXJhWnBvaVR1T043eVpmckxtTVp1a3NUN2JOUGF4WVd0bTVIcFhQSWhtWlQtVXJiT0xMU3hkeHlpUnpqLU5YOWZsTFZEUExuRkVZQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "57ac04e8ba4a",
+   "title": "SPCX: SpaceX Chases $40 Billion for Nvidia Chips. Why Go to Mars When You Can Compute? - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPal9xZThuZ21oSHBkTjVBdjdER2xZNDdXYjJwYmJkNkRLcDEwcnlUbzE4cVJ5eUxkaHBKUU1UUkVwbDNSTVJWN0NraTB4aThoZFNEZlA0RWRCV1hzaEp1bUhIYVE0V0xTUUNnU2VIZWhySE9DSW9CVElDZUpRbFdRdHU4eGs2VEQxZWxkQjBqbDgycVhWWUhFU0g1UkhJNUplWnJkZFVTb0xpWVYyc09RaXZ4RWl4Y1MyRFVrNXVjcVlOMF9qckNKMk0zb1U5LWJkMGtQZTBkMXRPMzI3",
+   "source": "TradingView",
+   "published_at": "2026-10-07T06:24:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-07T06:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPal9xZThuZ21oSHBkTjVBdjdER2xZNDdXYjJwYmJkNkRLcDEwcnlUbzE4cVJ5eUxkaHBKUU1UUkVwbDNSTVJWN0NraTB4aThoZFNEZlA0RWRCV1hzaEp1bUhIYVE0V0xTUUNnU2VIZWhySE9DSW9CVElDZUpRbFdRdHU4eGs2VEQxZWxkQjBqbDgycVhWWUhFU0g1UkhJNUplWnJkZFVTb0xpWVYyc09RaXZ4RWl4Y1MyRFVrNXVjcVlOMF9qckNKMk0zb1U5LWJkMGtQZTBkMXRPMzI3"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "d3374c2a9ca2",
    "title": "Nvidia Shield TV Pro gets 50% price hike as Shield TV is discontinued - FlatpanelsHD",
@@ -1124,7 +1158,7 @@
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdThuRWl1b3NtaUE5aFhSeXVUY0xfYjhBZXJJaG1VWWR0QXBSQ2txLTBrbTlKNm9KQmtqcG95Y3BLNlRQZF96a004TS1xaGlyQUVUaEdqNXZOTzZwdC1IU001ZmM5a191dGNRYjNCWXkwcEk0cjVhams2WUc5aGMxek13b1U",
    "source": "Financial Times",
    "published_at": "2026-10-06T22:28:55+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Financial Times",
@@ -1140,6 +1174,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-06T23:57:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUpQMTgyUVo4dU5OREUwVm9udlUzTHhvYjk0ZnJ6T04tTWk5ejRXQl9fUXd6UTVfSmlXSVg3SThRdllRV3RNeFVaY2txTGNkSjU0eGl3a2d1M2RVNy1NV0pCTUJoS2Z5X25RN0hacENNNU96VjNabmxqQi15M1NVenBEY0pLRTV3TVA1UWNyLURDcnM"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "published_at": "2026-10-07T06:42:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbU1DTXBtMFNsZTBDZDlNUHI5WUpLVFBxcEJ2cW9oWkZtbEI3MVc3ejBGTllfRzVBbmp4NFQ0elppZno4U1hZMFlaRmVCdjNKd3pEU1FyQ3lqcnpGN2VBT3RXNGZ3c0xBTzBxT2dDNkRGeVNxeldkQU1CLVMyUnMyT0dZbXptdGNSUFRrOHBCOUxsdEt1S2czMWZaRFdidw"
     }
    ],
    "category": "产品技术",
@@ -7710,66 +7749,6 @@
    "session": "盘中",
    "zh_summary": "信号显示英伟达股价尚未见顶",
    "title_zh": "信号显示英伟达股价尚未见顶",
-   "sentiment": 1
-  },
-  {
-   "id": "95c4ef4a2a95",
-   "title": "Nvidia, Broadcom May Be Surprisingly Safe From a 32-GW Hole in the AI Boom, Morgan Stanley Says - finance.yahoo.com",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1lHdXFpSFl6TjBJMGJyVUF0ZGRLaDkyZU16Q0Z5UDZILWJjeGxaeEZrZWJHN1RRNmplakNqSmNaMW9XWDhTN0QtelNpX0NIeHA1Q0pybFFFOWVEYUdRTjdKVmVvSEpPLXJfZFdSV09KQ29BWkh4a1JDQ01GWUJmMUpRR0NJSXgyRlpiMEFLbF92V3lIVlRYOWhnS2h4Mnd3bHlV",
-   "source": "finance.yahoo.com",
-   "published_at": "2026-10-05T18:51:53+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-05T18:51:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1lHdXFpSFl6TjBJMGJyVUF0ZGRLaDkyZU16Q0Z5UDZILWJjeGxaeEZrZWJHN1RRNmplakNqSmNaMW9XWDhTN0QtelNpX0NIeHA1Q0pybFFFOWVEYUdRTjdKVmVvSEpPLXJfZFdSV09KQ29BWkh4a1JDQ01GWUJmMUpRR0NJSXgyRlpiMEFLbF92V3lIVlRYOWhnS2h4Mnd3bHlV"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-05T18:51:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1lHdXFpSFl6TjBJMGJyVUF0ZGRLaDkyZU16Q0Z5UDZILWJjeGxaeEZrZWJHN1RRNmplakNqSmNaMW9XWDhTN0QtelNpX0NIeHA1Q0pybFFFOWVEYUdRTjdKVmVvSEpPLXJfZFdSV09KQ29BWkh4a1JDQ01GWUJmMUpRR0NJSXgyRlpiMEFLbF92V3lIVlRYOWhnS2h4Mnd3bHlV"
-    },
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-05T18:51:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTZYODBrV041a0VWY2s3Y3F2d09YNEtZckVnVHRXVVUtRmx0S3NjN2pGYU5zcTBwZmswWmRRbnFJdS1PVVVTdUpycndDTkNxSENxbnNDYThMM3VSN0hsd3kwZ0Y0SWh0MG14TmEzRm4wT1hYTUozSFA2RmF5R2VCTXBER0NEaENrMm80Zkh4R1cxaDA4MWpiM3N3Q19OWFZkWGc"
-    },
-    {
-     "name": "benzinga.com",
-     "published_at": "2026-10-05T18:51:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTZYODBrV041a0VWY2s3Y3F2d09YNEtZckVnVHRXVVUtRmx0S3NjN2pGYU5zcTBwZmswWmRRbnFJdS1PVVVTdUpycndDTkNxSENxbnNDYThMM3VSN0hsd3kwZ0Y0SWh0MG14TmEzRm4wT1hYTUozSFA2RmF5R2VCTXBER0NEaENrMm80Zkh4R1cxaDA4MWpiM3N3Q19OWFZkWGc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "breaking": true,
-   "zh_summary": "摩根士丹利：英伟达博通免于AI电力缺口影响",
-   "title_zh": "摩根士丹利：英伟达、博通或可避开AI电力缺口风险",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.22,
-    "window_h": 1.1
-   }
-  },
-  {
-   "id": "ced533f163f3",
-   "title": "Nvidia, Broadcom May Be Safe From 32-GW AI Power Shortfall: Morgan Stanley - NVIDIA (NASDAQ:NVDA) - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTZYODBrV041a0VWY2s3Y3F2d09YNEtZckVnVHRXVVUtRmx0S3NjN2pGYU5zcTBwZmswWmRRbnFJdS1PVVVTdUpycndDTkNxSENxbnNDYThMM3VSN0hsd3kwZ0Y0SWh0MG14TmEzRm4wT1hYTUozSFA2RmF5R2VCTXBER0NEaENrMm80Zkh4R1cxaDA4MWpiM3N3Q19OWFZkWGc",
-   "source": "Benzinga",
-   "published_at": "2026-10-05T18:51:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-05T18:51:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTZYODBrV041a0VWY2s3Y3F2d09YNEtZckVnVHRXVVUtRmx0S3NjN2pGYU5zcTBwZmswWmRRbnFJdS1PVVVTdUpycndDTkNxSENxbnNDYThMM3VSN0hsd3kwZ0Y0SWh0MG14TmEzRm4wT1hYTUozSFA2RmF5R2VCTXBER0NEaENrMm80Zkh4R1cxaDA4MWpiM3N3Q19OWFZkWGc"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "摩根士丹利称英伟达博通不受AI电力短缺影响",
-   "title_zh": "摩根士丹利：英伟达博通或免于AI电力短缺冲击",
    "sentiment": 1
   }
  ]
