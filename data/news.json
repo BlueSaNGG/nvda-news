@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T08:21:33.079991+00:00",
+ "updated_at": "2026-10-07T08:36:36.162037+00:00",
  "market": {
   "price": 239.24,
   "change_pct": 0.14,
@@ -10,12 +10,12 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.41,
-   "count": 17
+   "avg": 0.58,
+   "count": 19
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.41（17条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.58（19条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.7,
    "ma20": 224.89,
-   "as_of": "2026-10-07T08:21:33.067271+00:00"
+   "as_of": "2026-10-07T08:36:36.152331+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "187d0b4f8e5d",
+   "title": "据悉三星下一代HBM4E通过英伟达等客户质量测试 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0xxQXcxbFU0Y2lNWGZrNExNMUFFZXNYUjVmN0w0MDczNERPLW9uVTJaemI0UzRjOG45V1lVaTU3YlE1NjQtakxNa2NrQjJJX3JuSW5wS0NPRWFWMzRES0NxUlJSX3g5MVVsRElQeXQyZ0ZzNUNlWDNfYi04S0h4MkxRMWY0WEN2UDR6TE9UTWtTZ0NZQmxkd0dINWFrUFJZZkhEX0JEclE",
+   "source": "富途牛牛",
+   "published_at": "2026-10-07T08:28:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-07T08:28:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0xxQXcxbFU0Y2lNWGZrNExNMUFFZXNYUjVmN0w0MDczNERPLW9uVTJaemI0UzRjOG45V1lVaTU3YlE1NjQtakxNa2NrQjJJX3JuSW5wS0NPRWFWMzRES0NxUlJSX3g5MVVsRElQeXQyZ0ZzNUNlWDNfYi04S0h4MkxRMWY0WEN2UDR6TE9UTWtTZ0NZQmxkd0dINWFrUFJZZkhEX0JEclE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "c442ec837863",
    "title": "SpaceX盘前股价跌近2% 公司据悉正寻求400亿美元融资以购买英伟达芯片 - 东方财富",
@@ -77,8 +94,8 @@
    ],
    "category": "产品技术",
    "session": "盘前",
-   "title_zh": "SpaceX盘前股价跌近2% 公司据悉正寻求400亿美元融资以购买英伟达芯片 - 东方财富",
    "zh_summary": "SpaceX寻求400亿美元融资购买英伟达芯片",
+   "title_zh": "SpaceX盘前股价跌近2% 公司据悉正寻求400亿美元融资以购买英伟达芯片 - 东方财富",
    "sentiment": 2
   },
   {
@@ -417,8 +434,8 @@
    ],
    "category": "产品技术",
    "session": "盘前",
-   "title_zh": "SpaceX 寻求 400 亿美元用于英伟达芯片，轨道 AI 竞赛升温 - Cryptopolitan",
    "zh_summary": "SpaceX寻求400亿美元融资购买英伟达芯片",
+   "title_zh": "SpaceX 寻求 400 亿美元用于英伟达芯片，轨道 AI 竞赛升温 - Cryptopolitan",
    "sentiment": 2
   },
   {
@@ -1204,7 +1221,7 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelk1VmhBcFVqRmpRQndWdklsTm1EVVZmaHk4REFBRXk1WmJYdDMxUDBxSEFkNHl1YWs2OUNCU1ZDWXRVcG9XaGJzR2JHaFUtLXlNaHZTZVNxQjN2NGkzTW5jczlfZXN1S3ppd0ttdnJZemtvM3llR25xOUVvSVMxY3hPd1dtaEtVV2NRNXN4eU5wMG4zUjNxWW9WTEFHT2l4V1p5OE1oODNoVE45bXJGZUQ1SQ",
    "source": "Bloomberg.com",
    "published_at": "2026-10-06T22:57:42+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Bloomberg.com",
@@ -1215,6 +1232,11 @@
      "name": "chinadailyhk",
      "published_at": "2026-10-07T05:33:40+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KdE5mbW85RFlpcWp4cnZ6YWt5WEMtQ0g4Uk9aQm5Ka1RWckdqbGt2UFg5NC1BUFpOc3YyVXdoMkFKbGI0NnBMNzFpR2dLZ2Q0RTBQTml6LUw"
+    },
+    {
+     "name": "The Next Web",
+     "published_at": "2026-10-07T08:27:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRFhlYU95STlUVDMzLXhPU3ZZalROMlZsb0ZsN2pGcndpWFJhYThwdm5LcC1KcmNFNzNWSld0MEF2enRGV3dOSWtCN3ZBcEtxYlZPREQ2T19xbUZkTFdMTS1GVXoxT1FXMTNtN3NmUG45TUNuX1hOTUZLX1pJdG9jSy1PempYM1hwbjdYZUtnN19MSndWVnc"
     }
    ],
    "category": "产品技术",
@@ -5673,26 +5695,6 @@
    "session": "盘前",
    "zh_summary": "英伟达隔夜交易涨超2%",
    "title_zh": "为何英伟达 NVDA 今日隔夜交易涨超2%？",
-   "sentiment": 1
-  },
-  {
-   "id": "7672885068b0",
-   "title": "隔夜美股爆发！纳指创新高，英伟达收涨，中概科技龙头拉升 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82RjFHcHBuZGd0bE5vdFcxSTFFVFU0S3NuSmlXeWM3Y2FMc1JiRXZoSUFTS2ZjQkZFZGJLLUZlcmNSR193Qks1Qm9JZ20wRkRTSXVrVnB5d21xQkFCZXluQm5iSVB3UQ",
-   "source": "东方财富",
-   "published_at": "2026-10-06T07:22:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-06T07:22:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82RjFHcHBuZGd0bE5vdFcxSTFFVFU0S3NuSmlXeWM3Y2FMc1JiRXZoSUFTS2ZjQkZFZGJLLUZlcmNSR193Qks1Qm9JZ20wRkRTSXVrVnB5d21xQkFCZXluQm5iSVB3UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "title_zh": "隔夜美股爆发！纳指创新高，英伟达收涨，中概科技龙头拉升 - 东方财富",
-   "zh_summary": "纳指创新高，英伟达收涨",
    "sentiment": 1
   },
   {
