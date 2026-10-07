@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T19:06:28.098272+00:00",
+ "updated_at": "2026-10-07T19:21:28.516826+00:00",
  "market": {
-  "price": 236.46,
-  "change_pct": -1.16,
+  "price": 237.15,
+  "change_pct": -0.87,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.72,
-   "count": 146
+   "avg": 0.71,
+   "count": 156
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 96% 分位（偏高）"
+     "note": "现价处于52周区间 97% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +34.3%"
+     "note": "目标价中位数 $318（14家），隐含空间 +33.9%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.72（146条已评分）"
+     "note": "今日新闻情绪 +0.71（156条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $236.46 vs 20日均线 $225.53"
+     "note": "现价 $237.15 vs 20日均线 $225.56"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 96,
+   "price_52w_pct": 97,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 34.3,
-   "ma20": 225.53,
-   "as_of": "2026-10-07T19:06:28.075844+00:00"
+   "implied_upside_pct": 33.9,
+   "ma20": 225.56,
+   "as_of": "2026-10-07T19:21:28.499895+00:00"
   },
   "pe_ttm": 30.1,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+34.3%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+33.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,91 @@
   }
  },
  "stories": [
+  {
+   "id": "19e110136c6c",
+   "title": "微软Surface Laptop Ultra搭载英伟达芯片定价2599美元|AI芯片|笔记本电脑|Windows|旧金山|芯片技术 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZDRqLXJEMjBRbzhPeURpdHprUFI4cDZKWHg4ck9rNXEtdE1DT0hoRnJrMC13aDg5VGw5U0xxQWtuQXdkUHpDN01GWVctR2RPbEhVYUVVZzc5UW5Fc015cHdtQ3pvMGg4bEJJd0dDTkJDMHJFdDdWX0x2Y2lpUmpRcEptTDZYUnZlUTgxOTRQYlJYaC1WamwxZlZUa2d0bUVWUmtkaXVkOGtKZlJsaDliQ0YwU3N5T29rdzNTNEZfNVJRaXdwRHo3MjVYOGgwVzBjRTVDTF9CTWpYQ0xZbnhadDdDaVkwTjJra0N6bjBrc2g1R01lR3V6Z0xIZGl5UGtuUjNhb1hJU2xJQQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-07T19:13:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-07T19:13:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZDRqLXJEMjBRbzhPeURpdHprUFI4cDZKWHg4ck9rNXEtdE1DT0hoRnJrMC13aDg5VGw5U0xxQWtuQXdkUHpDN01GWVctR2RPbEhVYUVVZzc5UW5Fc015cHdtQ3pvMGg4bEJJd0dDTkJDMHJFdDdWX0x2Y2lpUmpRcEptTDZYUnZlUTgxOTRQYlJYaC1WamwxZlZUa2d0bUVWUmtkaXVkOGtKZlJsaDliQ0YwU3N5T29rdzNTNEZfNVJRaXdwRHo3MjVYOGgwVzBjRTVDTF9CTWpYQ0xZbnhadDdDaVkwTjJra0N6bjBrc2g1R01lR3V6Z0xIZGl5UGtuUjNhb1hJU2xJQQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "e91bc69d80a7",
+   "title": "NVIDIA, Microsoft Partner on RTX Spark AI Agents for Windows - The Tech Buzz",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnlTSmZIUEgtTV90ZVBlUHgyd3ZYX05YSTNwc3htN01NaWpPcUpIOHlzdFFVb3hHd0xCcDZWX1lid2dvTHJvZTFLQ0NWbmxSampfekVORnZnMVFnMWhnbGdLbWNMSVZUWl93ZkMzSkV2QTdvT0Z2N1N5d1AwM3JHaGN4bzh4bFNpUVFDY01XTGlMWFFURU5v",
+   "source": "The Tech Buzz",
+   "published_at": "2026-10-07T19:10:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Tech Buzz",
+     "published_at": "2026-10-07T19:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnlTSmZIUEgtTV90ZVBlUHgyd3ZYX05YSTNwc3htN01NaWpPcUpIOHlzdFFVb3hHd0xCcDZWX1lid2dvTHJvZTFLQ0NWbmxSampfekVORnZnMVFnMWhnbGdLbWNMSVZUWl93ZkMzSkV2QTdvT0Z2N1N5d1AwM3JHaGN4bzh4bFNpUVFDY01XTGlMWFFURU5v"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "4a18d0fc3dfa",
+   "title": "Nvidia’s powerful RTX Spark laptops can cost up to $7,000 - The Verge",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaFZoOTBRZVdoeGMteUNPemoyTmdZMDBjSjFyaVRyNXl4OE1nTzJHRElYeTRNY01IM0xCcjg4RGJxenVkaVZnSUFwT0l3OXVYejJYYW9STlJaNE9yQWVoWVZzSnNGa08zdjJ1Z2FRcGV2ck02UFZ2eUdhSGFpMlBOLXFYcGs3YWhraHNyTjk2V2tCMl9ObmZQTXNmWQ",
+   "source": "The Verge",
+   "published_at": "2026-10-07T19:05:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Verge",
+     "published_at": "2026-10-07T19:05:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaFZoOTBRZVdoeGMteUNPemoyTmdZMDBjSjFyaVRyNXl4OE1nTzJHRElYeTRNY01IM0xCcjg4RGJxenVkaVZnSUFwT0l3OXVYejJYYW9STlJaNE9yQWVoWVZzSnNGa08zdjJ1Z2FRcGV2ck02UFZ2eUdhSGFpMlBOLXFYcGs3YWhraHNyTjk2V2tCMl9ObmZQTXNmWQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "b0fd6de0d36c",
+   "title": "Dan Ives Thinks AI Buildout Still In Early Stages, With NVDA, MSFT, PLTR, AAPL And CRWD As Top AI Picks - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVkF5bk9JWmRJLWZ5R3l3azF3UWgwUjNKWWNHa01MZ0JoYWV1SzBHd3FhbHRIc01JRnJBNUZvQmROZS1MeFZQVFlxbHI0Q1NyNnMyRXBUS3dsVVVEVGRBMHBfZVRzeVZtSlpJcXdlNW14bDFTN2dNemhuRVB0bkl1blZHZjJnb3RkYmVUWXU1M0hMSDk3OWZadmxUbzJ6MmI2dVhBQWVfckU3UENTMldEWTlBWVE2aVdoZGYyRTZ4ZEJRb05md2dkWXM4THNqZHpZQ3FRU2Q5RDNNV2NfakVBc1VxOGQyOGNRQmlIMmNDOVpDdVZTS1E",
+   "source": "Stocktwits",
+   "published_at": "2026-10-07T19:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-07T19:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVkF5bk9JWmRJLWZ5R3l3azF3UWgwUjNKWWNHa01MZ0JoYWV1SzBHd3FhbHRIc01JRnJBNUZvQmROZS1MeFZQVFlxbHI0Q1NyNnMyRXBUS3dsVVVEVGRBMHBfZVRzeVZtSlpJcXdlNW14bDFTN2dNemhuRVB0bkl1blZHZjJnb3RkYmVUWXU1M0hMSDk3OWZadmxUbzJ6MmI2dVhBQWVfckU3UENTMldEWTlBWVE2aVdoZGYyRTZ4ZEJRb05md2dkWXM4THNqZHpZQ3FRU2Q5RDNNV2NfakVBc1VxOGQyOGNRQmlIMmNDOVpDdVZTS1E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "95d14f56e596",
+   "title": "Prediction: Micron Will Have a Larger Market Cap Than Nvidia by 2030 - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWQwdjZHdEhtd3RjRWpCV3V1WndWcVNUM05KMHBNN29POG5SUUNzc0RJaWhRcXhzaHdzUGpNakJJRVd6alNTMFVPd2NBT2Zhd1NDWnM3dEJOWHdzXzRtQ2Q1MFpHamIwaUw5U3pZb1I4clBWMndTQVhzZWVqdWM0Z21La0JxZGNwNXRlNk5sVQ",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-07T18:57:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-07T18:57:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWQwdjZHdEhtd3RjRWpCV3V1WndWcVNUM05KMHBNN29POG5SUUNzc0RJaWhRcXhzaHdzUGpNakJJRVd6alNTMFVPd2NBT2Zhd1NDWnM3dEJOWHdzXzRtQ2Q1MFpHamIwaUw5U3pZb1I4clBWMndTQVhzZWVqdWM0Z21La0JxZGNwNXRlNk5sVQ"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘中"
+  },
   {
    "id": "bde78d19a12e",
    "title": "Microsoft debuts Nvidia-powered Surface Laptop Ultra, as it aims for AI market - Yahoo Finance",
@@ -187,6 +272,23 @@
    "sentiment": -1
   },
   {
+   "id": "995b5f249948",
+   "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3RwVEx5UDFWcFpvRFBFR2hFR3pUUjRuOVE2MUNQVElscTdfNlZZZzNOQzZIRndNcUNKZzFCOVVRbXh2MklhT1NfaHlTTXdIS3Rma29DU3ZRMWtHQWlGdExBYm9oR1M3Wk1kU09LYWNNVDNTNFFBazhNWnQ3X0NOT0FhNXRWTVlHdDloek9GX1dvSFRucjB4U3kxTEpPTkhMNHfSAacBQVVfeXFMUGtjTngzVGppRjdrNnB2OElDaXhfWXRRWnRKTFFXZm04Rkx6U28tZ1loNjJMYms1VnRLZzY2d2hubmVLdGU0WWtlaHBCNGlfcXQ0VzNJVFhFS0NRMzdJdXJwc2Y3Z1RHMlNpLXJPTUEyTTFRVUt1UWJfc3dtdXFyaGpSMlY4bnpLSWdXLTBRaERvN1BPamJhdUd5c1ZpRlFXS21fSEZYZTg",
+   "source": "CNBC",
+   "published_at": "2026-10-07T18:30:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-07T18:30:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3RwVEx5UDFWcFpvRFBFR2hFR3pUUjRuOVE2MUNQVElscTdfNlZZZzNOQzZIRndNcUNKZzFCOVVRbXh2MklhT1NfaHlTTXdIS3Rma29DU3ZRMWtHQWlGdExBYm9oR1M3Wk1kU09LYWNNVDNTNFFBazhNWnQ3X0NOT0FhNXRWTVlHdDloek9GX1dvSFRucjB4U3kxTEpPTkhMNHfSAacBQVVfeXFMUGtjTngzVGppRjdrNnB2OElDaXhfWXRRWnRKTFFXZm04Rkx6U28tZ1loNjJMYms1VnRLZzY2d2hubmVLdGU0WWtlaHBCNGlfcXQ0VzNJVFhFS0NRMzdJdXJwc2Y3Z1RHMlNpLXJPTUEyTTFRVUt1UWJfc3dtdXFyaGpSMlY4bnpLSWdXLTBRaERvN1BPamJhdUd5c1ZpRlFXS21fSEZYZTg"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
    "id": "79f732171f98",
    "title": "MSI Unveils Prestige N16 Flip AI+: An NVIDIA RTX Spark-Powered 2-in-1 Built for the Agentic AI Era - TechPowerUp",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbzBqaHU2V1JCalNWZ05aZXNRNGxOMUhTR0Eteld3WkRhLWlORExfZWxGdHFYMUc5WEQ1UTZjb3I1Tnp3Q2JzYURaLTFxUlg2d2ExX1NjQ2s4dTJ0b1pvOF9mSjJrWHA1NVVWTWZzeU1lNno0ZlJCeDQ2b3J3UVlxenFaX3pDcE5MNWxWLTd4XzJPTkhMdzV0RW5iQ3I2YXBTek9hX21kZ0dGdWxNMkxOUm4waWRlQ1Y2WXN5Zk9wZlJqUXlKcURyMGFaWdIB0AFBVV95cUxQdmgxUzhsU094aGlXNU42T2liMFJRMVg3Q2ZOOUJ6RWxkcGZ2SWN4YjNRbjM1NnE4eEhYX1hzYzJIZFR4ZlpWZk4tY2xIXzZac2QtM3R0WjJvaVlfMmRiSGdKRW05X2dhQWtTSHBISkc1b0lpYlZSZ1JkQmZ5a2lGREZlcmtiQ001Yk9oVDAxd3hhVURFS2FfdjVjbkNjSmxldkw0dDB6MUMzd2lkTjc1b1YyVzBLbFFaeFBEUDRRTncxQkt6NGJoSEZfTERGRjQx",
@@ -302,12 +404,17 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1ckdTSHdoaUVNTGZRWU5ZSFdiYkpMM05ZX3hDdjVVUWNaV1R2dWxMLTMwQkxUZGhEQ2o3MTZZbDlIekM1LVFVUWtqcjk",
    "source": "凤凰网科技",
    "published_at": "2026-10-07T18:22:56+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "凤凰网科技",
      "published_at": "2026-10-07T18:22:56+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1ckdTSHdoaUVNTGZRWU5ZSFdiYkpMM05ZX3hDdjVVUWNaV1R2dWxMLTMwQkxUZGhEQ2o3MTZZbDlIekM1LVFVUWtqcjk"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-07T18:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zR25qNmZicF9WRUVUenBTV1YxcXRPYzBZVWlYYUpFbDh3bm40RDU0cnRObVVrUGRpSi1DUUpsWFdKY3I5dlhzekpVeFkyQlRCUUloeVczZ3huLThwUjhRTjBWLUpvUVMzendRUkctb2dTb3k4TUFYVjQwMUo"
     }
    ],
    "category": "其他",
@@ -6380,6 +6487,23 @@
    "sentiment": 1
   },
   {
+   "id": "826d15083a07",
+   "title": "3 Overlooked Growth Stocks Powering Every AI Chip Nvidia and AMD Build - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPajJiQ2pmWERxa3paTkl3d25SZVpUV0hDSGtudWU5RFBncy1mUW9yS0pGSHJUSjVFalpFLWd5OTJ3Wmp6OTZ4ZndSQjFHZzJjUGhhV1ZJUGdRX3hxZVdPVnB5QVlSLVM0TWpiZlV6VWlQRmF6dVRtQndDOUJ1YmNQaVpFTEZnVnpOSHp2NmpPc3I",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-06T13:48:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-06T13:48:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPajJiQ2pmWERxa3paTkl3d25SZVpUV0hDSGtudWU5RFBncy1mUW9yS0pGSHJUSjVFalpFLWd5OTJ3Wmp6OTZ4ZndSQjFHZzJjUGhhV1ZJUGdRX3hxZVdPVnB5QVlSLVM0TWpiZlV6VWlQRmF6dVRtQndDOUJ1YmNQaVpFTEZnVnpOSHp2NmpPc3I"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
    "id": "a59185d35a23",
    "title": "英伟达GeForce Game Ready 617.42驱动：支持《龙之信条2 : 黑暗觉者》等 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUhlREFKZjNLbnRZU0RjNmxURzJuTWNvZDFYbGE1OW82ZlVndEdHVVJfNGxibkgzNlI5MldqNDJEVTlsQ0hvWWVoUHpqWGZYVE1Qd2t0RXQ2Y01hUW9DamdMdjRzNi1wNFMzOThGSGZPdEpDZzNxRUk0MW1NbmFhUnF3bUw5a1hLckF6Zg",
@@ -6811,185 +6935,6 @@
    "zh_summary": "电信运营商基于开放模型构建AI战略",
    "title_zh": "英伟达博客：电信运营商为何基于开放模型构建AI战略",
    "sentiment": 0
-  },
-  {
-   "id": "0c1bd0c8f808",
-   "title": "英伟达发布617.42 Game Ready显卡驱动：优化《使命召唤：现代战争4》等新作 - Sohu",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREg2ZGhhdWNjLUZaUUl5anBuY0NGQW5aSFgwbVBjTzhDMlVTeU5ULVNNTzN3QXpTQm9jRjJYSGtGcGJsSFZWdXg5bFotRE1PQ3FGeFREREhJVzE0UzJmMTkta2JiemdKZ1dubFBPNVNGUzhxUUpsS3g5bGI1WTk5b2lna0dPZ0cy",
-   "source": "Sohu",
-   "published_at": "2026-10-06T13:03:37+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-06T13:03:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREg2ZGhhdWNjLUZaUUl5anBuY0NGQW5aSFgwbVBjTzhDMlVTeU5ULVNNTzN3QXpTQm9jRjJYSGtGcGJsSFZWdXg5bFotRE1PQ3FGeFREREhJVzE0UzJmMTkta2JiemdKZ1dubFBPNVNGUzhxUUpsS3g5bGI1WTk5b2lna0dPZ0cy"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-06T13:03:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREg2ZGhhdWNjLUZaUUl5anBuY0NGQW5aSFgwbVBjTzhDMlVTeU5ULVNNTzN3QXpTQm9jRjJYSGtGcGJsSFZWdXg5bFotRE1PQ3FGeFREREhJVzE0UzJmMTkta2JiemdKZ1dubFBPNVNGUzhxUUpsS3g5bGI1WTk5b2lna0dPZ0cy"
-    },
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-06T13:03:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPREg2ZGhhdWNjLUZaUUl5anBuY0NGQW5aSFgwbVBjTzhDMlVTeU5ULVNNTzN3QXpTQm9jRjJYSGtGcGJsSFZWdXg5bFotRE1PQ3FGeFREREhJVzE0UzJmMTkta2JiemdKZ1dubFBPNVNGUzhxUUpsS3g5bGI1WTk5b2lna0dPZ0cy"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-06T14:33:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uZ0dhTjdmUTN6UGgzaTZoQ3pYOHFuZFoyRHFqeUlJRTJ5LTVhRF9CRVp3OEdYX3pBVkU5ZDhCeHRmdWhrY2dKcU9PSkg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "英伟达发布617.42显卡驱动优化新作",
-   "title_zh": "英伟达发布617.42 Game Ready显卡驱动：优化《使命召唤：现代战争4》等新作 - Sohu",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.28,
-    "window_h": 1.9
-   }
-  },
-  {
-   "id": "1b23ee1ea40a",
-   "title": "CrowdStrike taps AWS, NVIDIA to fuel cybersecurity startup push - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGpaVkkzVWR6S0dpVVNZek1NWnQtYmViVzZFSUxnWTNSaGQ4bzFjWFNxdU5kRng5TVhJd1Y1WUplOENFYUtuUEFDZmRocHNUZHBjWVY3SUZqMldURXZ0OTY0WmZrQklNNkY5clFGeE1PRE9pU21UdV9aS2Q2ZmEwLWl2elptQ3hhaDloVVdkMngtTE1McjQ1NkNwTE4xNmkwOHJTVFBac0NBdE5aeGVJcmxzYm14RU1jWjBVUUFwb2RQQlk",
-   "source": "TradingView",
-   "published_at": "2026-10-06T13:03:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-06T13:03:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaGpaVkkzVWR6S0dpVVNZek1NWnQtYmViVzZFSUxnWTNSaGQ4bzFjWFNxdU5kRng5TVhJd1Y1WUplOENFYUtuUEFDZmRocHNUZHBjWVY3SUZqMldURXZ0OTY0WmZrQklNNkY5clFGeE1PRE9pU21UdV9aS2Q2ZmEwLWl2elptQ3hhaDloVVdkMngtTE1McjQ1NkNwTE4xNmkwOHJTVFBac0NBdE5aeGVJcmxzYm14RU1jWjBVUUFwb2RQQlk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "CrowdStrike携AWS、英伟达推创业计划",
-   "title_zh": "CrowdStrike携手AWS和英伟达推动网络安全创业计划",
-   "sentiment": 1
-  },
-  {
-   "id": "611297beee9f",
-   "title": "Chips Retake Lead: What AMD and Nvidia Are Telling Us About AI - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2w5M3J3Y0VUMnhvNnRCNUVHWTczaEljYkRLV1NhNVBMTTc5MGRhTjlhUlh3NXMtTFFOZ0JLZnA3cHJOUEpudFJET0VtMlRMSGdRVjRRTDlnd0pDSWZqVF8tb21oRUtSVFZCY3Y5aHNKb2JCaG1OeDNLSlZsMmZqcEJ1RTNCVlJVRGJnWG0zaXBDZ3RBLXlZRkdGSnoxTnBLLWhDd3F6OHF4b1U1QWY1aHRKTDhOQy1K",
-   "source": "TradingView",
-   "published_at": "2026-10-06T13:03:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-06T13:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2w5M3J3Y0VUMnhvNnRCNUVHWTczaEljYkRLV1NhNVBMTTc5MGRhTjlhUlh3NXMtTFFOZ0JLZnA3cHJOUEpudFJET0VtMlRMSGdRVjRRTDlnd0pDSWZqVF8tb21oRUtSVFZCY3Y5aHNKb2JCaG1OeDNLSlZsMmZqcEJ1RTNCVlJVRGJnWG0zaXBDZ3RBLXlZRkdGSnoxTnBLLWhDd3F6OHF4b1U1QWY1aHRKTDhOQy1K"
-    },
-    {
-     "name": "Zacks Investment Research",
-     "published_at": "2026-10-06T13:31:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZm5IZjVxdzU4bF9vVFNwMjdydEZXWGRMeG9vYU9MeEc5N1FsbnBmdGNpVzR6NmxHLW5CRGxHakxEVF9ydzgtY3l0RTRjczRETHJ4M0JZdUtsZVVhYTZTNEtrWkNzb0o1NnNscnFDNGVCU19aVXZhSkszSHJ0VE5SS3RXTzdmQ1B6WjQyalAtZHBuTXFJZUVMaGM4dEdWS1QxNnd6Xw"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-06T15:20:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVDJpMjlydW4zN0xNOGdhT2tfNVhEUkFqRzlyVHpkcjZYVlhQdUxvMXExZmljdnVReEFKN1BFUHJEWDUtRG1Wa3RvaFp5M09QQ3U5NHU1czZmM1FiRUlXdkJDMU84OERUYzFfODFiZHZyc2RGQzRzZ0ZIM1JleXViWk1GcllOeExiNEU3ZDdyUi10VkhJQTktekV0dy1LanZtSjFhTW4weThPZ3ZMeGROTDBXV2JhSkZXV0RYTGdnOGdSOEduZmhMOW9ybjl0SW9qUW5nWkhaSUhvbDNCSFE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "芯片股重掌涨幅，AMD与英伟达传递AI信号",
-   "title_zh": "芯片重掌主导：AMD与英伟达揭示AI信号（Zacks）",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.09,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "a6c6d1857371",
-   "title": "Nvidia Stock Forecast: Rubin Ramp and $108 Billion Q3 Outlook Keep AI Growth Accelerating - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUhxTTJ5cFRRZjRqMFBqVFVQWVRkTlM5NTZycHFBalViSUVIOGFJb3FxM3pkRm10MDJUTGFTYjE2V0xEQUZpWDEtallzODVvOEZTb3lVVmh1RXA5emQwTGxYVTBKZUNfamd5ZTVmamxQVV82TnJ1UmlRaThvVC1EYjNaNG9EWW9IMUs2cS1XRXdFajREZWZNYTFkdU9xeUR2ZUJjY3dtSQ",
-   "source": "TradingKey",
-   "published_at": "2026-10-06T13:02:33+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-06T13:02:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUhxTTJ5cFRRZjRqMFBqVFVQWVRkTlM5NTZycHFBalViSUVIOGFJb3FxM3pkRm10MDJUTGFTYjE2V0xEQUZpWDEtallzODVvOEZTb3lVVmh1RXA5emQwTGxYVTBKZUNfamd5ZTVmamxQVV82TnJ1UmlRaThvVC1EYjNaNG9EWW9IMUs2cS1XRXdFajREZWZNYTFkdU9xeUR2ZUJjY3dtSQ"
-    },
-    {
-     "name": "tradingkey.com",
-     "published_at": "2026-10-06T13:02:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUhxTTJ5cFRRZjRqMFBqVFVQWVRkTlM5NTZycHFBalViSUVIOGFJb3FxM3pkRm10MDJUTGFTYjE2V0xEQUZpWDEtallzODVvOEZTb3lVVmh1RXA5emQwTGxYVTBKZUNfamd5ZTVmamxQVV82TnJ1UmlRaThvVC1EYjNaNG9EWW9IMUs2cS1XRXdFajREZWZNYTFkdU9xeUR2ZUJjY3dtSQ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "Rubin量产提速 Q3指引1080亿美元",
-   "title_zh": "英伟达股票展望：Rubin提速、Q3指引1080亿美元，AI增长加速",
-   "sentiment": 1
-  },
-  {
-   "id": "9c41748f7024",
-   "title": "Dell’s AI Data Platform gets a knowledge graph for agents and faster Nvidia processing - SiliconANGLE",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQamotbVlvQnJXdmljblJsdUswYnJnWV9yYTlScjVMTENxamxhUDFQc0JBdWVZS2RNRlhnRW8xdF85UElwVWlWT2VCZnUxY0JGUTZ5bjBNbDFTdXlaVk1KS2ExZE1WdDNKSUJmR0FsckpYbl9KNkM5V2ptN2l0YzBieGZCaVVOa0xGRWNfNWItc05XMjZvVVJER2U2cFNUMk5ZanU0VlJCejRhaXhpblk1V2lnZEI3aGhKbGRlMHljWQ",
-   "source": "SiliconANGLE",
-   "published_at": "2026-10-06T13:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "SiliconANGLE",
-     "published_at": "2026-10-06T13:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQamotbVlvQnJXdmljblJsdUswYnJnWV9yYTlScjVMTENxamxhUDFQc0JBdWVZS2RNRlhnRW8xdF85UElwVWlWT2VCZnUxY0JGUTZ5bjBNbDFTdXlaVk1KS2ExZE1WdDNKSUJmR0FsckpYbl9KNkM5V2ptN2l0YzBieGZCaVVOa0xGRWNfNWItc05XMjZvVVJER2U2cFNUMk5ZanU0VlJCejRhaXhpblk1V2lnZEI3aGhKbGRlMHljWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "戴尔AI数据平台新增知识图谱与加速处理",
-   "title_zh": "戴尔AI数据平台引入知识图谱，加速Nvidia处理",
-   "sentiment": 1
-  },
-  {
-   "id": "f64a39f17101",
-   "title": "NVIDIA Rolls Out GeForce Game Ready Driver Optimized for Modern Warfare 4, Dark Arisen, STAR WARS: Galactic Racer, and Valor Mortis - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRTc2ajNjZE5RMmtzS1cxVlcxRVJVa1JNZnd6R2hNZHoyNFk0aFJuRW5DVWpPU1lqN0VsUVptWF9pUVE5aGR1cGpHQ0xVWVdPQnVleXMwVWVzWUo2akJKMGhPYndqQjlmb3J4amRZTVR1Z2JDcDZPMTdNTGFTUzdfWDE3ZE9OUjIzZ1BocHF5cVhzTjNvM3B1dFdjV3dGM0FYNDlRYmVveXF1WDJxdkHSAbMBQVVfeXFMT19NWnFfTnVuNHBpN2Q4UDI3TnR5dGszaTBLcUt6ZkFIbjBxX0lfcmxxbUwwbXVlOWJrdlgtZ2FwZjRZd1JKdUk5ZGk5Mms4RHU4NV80VnVEVS10cV9EUkc1dmtLRnlTendUQmxOSFUycUFZd2dKOWRHaXE1NnRybngwNnZEdXhua3NfSFIxSmRhdnZTd1lBOGlhbVA4UXhIVjQtYjdZWGlicmVQalkwd25oZWM",
-   "source": "Wccftech",
-   "published_at": "2026-10-06T13:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-06T13:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRTc2ajNjZE5RMmtzS1cxVlcxRVJVa1JNZnd6R2hNZHoyNFk0aFJuRW5DVWpPU1lqN0VsUVptWF9pUVE5aGR1cGpHQ0xVWVdPQnVleXMwVWVzWUo2akJKMGhPYndqQjlmb3J4amRZTVR1Z2JDcDZPMTdNTGFTUzdfWDE3ZE9OUjIzZ1BocHF5cVhzTjNvM3B1dFdjV3dGM0FYNDlRYmVveXF1WDJxdkHSAbMBQVVfeXFMT19NWnFfTnVuNHBpN2Q4UDI3TnR5dGszaTBLcUt6ZkFIbjBxX0lfcmxxbUwwbXVlOWJrdlgtZ2FwZjRZd1JKdUk5ZGk5Mms4RHU4NV80VnVEVS10cV9EUkc1dmtLRnlTendUQmxOSFUycUFZd2dKOWRHaXE1NnRybngwNnZEdXhua3NfSFIxSmRhdnZTd1lBOGlhbVA4UXhIVjQtYjdZWGlicmVQalkwd25oZWM"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达为多款新游戏推优化驱动",
-   "title_zh": "英伟达推出适配多款新游戏的GeForce驱动",
-   "sentiment": 1
-  },
-  {
-   "id": "c3859b841d52",
-   "title": "Call of Duty®: Modern Warfare 4® Campaign Early Access Begins October 16th With DLSS 4.5 Dynamic Multi Frame Generation & Super Resolution - NVIDIA",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcy1tVkRxVlNrNEMtTnNaMUZHODdDRmR2YzdzVlpSbE5fV255cFhhV1hBbE8yTEM2MkZMSDNjLTFfM3Q0X0dzRENBR05YODBxaUhsQVlSTTVueEVxNC1COHdWSHM1WDNYSHE1MDZCYTFpbW5lT214Ukd5X0xHdFlRUUtrbFRVaHRmbmlFMlNNZTBlcXJMcy1NdS0yT19mOVF3czhNXw",
-   "source": "NVIDIA",
-   "published_at": "2026-10-06T12:56:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA",
-     "published_at": "2026-10-06T12:56:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcy1tVkRxVlNrNEMtTnNaMUZHODdDRmR2YzdzVlpSbE5fV255cFhhV1hBbE8yTEM2MkZMSDNjLTFfM3Q0X0dzRENBR05YODBxaUhsQVlSTTVueEVxNC1COHdWSHM1WDNYSHE1MDZCYTFpbW5lT214Ukd5X0xHdFlRUUtrbFRVaHRmbmlFMlNNZTBlcXJMcy1NdS0yT19mOVF3czhNXw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "MW4战役抢先体验10.16上线支持DLSS4.5",
-   "title_zh": "使命召唤：现代战争4战役抢先体验10月16日开启，支持DLSS 4.5",
-   "sentiment": 1
   }
  ]
 }
