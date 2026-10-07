@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T21:51:27.902472+00:00",
+ "updated_at": "2026-10-07T22:06:30.455923+00:00",
  "market": {
   "price": 237.47,
   "change_pct": -0.74,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.72,
-   "count": 187
+   "count": 188
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.72（187条已评分）"
+     "note": "今日新闻情绪 +0.72（188条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 33.7,
    "ma20": 225.58,
-   "as_of": "2026-10-07T21:51:27.892641+00:00"
+   "as_of": "2026-10-07T22:06:30.441444+00:00"
   },
   "pe_ttm": 30.2,
   "pe_pct_5y": 28,
@@ -240,6 +240,23 @@
    "zh_summary": "SpaceX融资400亿美元大举采购英伟达GPU",
    "title_zh": "SpaceX获400亿美元融资用于采购英伟达GPU",
    "sentiment": 2
+  },
+  {
+   "id": "5b8dfee64449",
+   "title": "Surface Laptop Ultra Hands-On: A Beautiful Beast Powered By NVIDIA's RTX Spark - Engadget",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2NQS3RwNWV1UTNVbzhPaFRPN19WYjIxVWQtSFp5UDJrR2dybkFCUVVvSmktaGhiMm1BdW5Sb09aODNsS2NETU9FU0FpTmhkdmJxVm1idlhOa2pxTnVxaFJtX0I5cko4UEd3czRQNnQyOEhlak1kWXNCblpQNGZUQ1g4ZUhJaG1MQng0dWdydHlZdWNIZHlodHByLTYyckljWC1XTndvVmxIeGNzUnln",
+   "source": "Engadget",
+   "published_at": "2026-10-07T20:04:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Engadget",
+     "published_at": "2026-10-07T20:04:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2NQS3RwNWV1UTNVbzhPaFRPN19WYjIxVWQtSFp5UDJrR2dybkFCUVVvSmktaGhiMm1BdW5Sb09aODNsS2NETU9FU0FpTmhkdmJxVm1idlhOa2pxTnVxaFJtX0I5cko4UEd3czRQNnQyOEhlak1kWXNCblpQNGZUQ1g4ZUhJaG1MQng0dWdydHlZdWNIZHlodHByLTYyckljWC1XTndvVmxIeGNzUnln"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "8fc887914924",
@@ -567,7 +584,7 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01TjdyLXo1dTk0YWVLZ1AyNmhJM1NncmhzSkdycDhjU0xIZndSMGRrY1NwQXcxN3dzTnJBdGo1a0dJSDNPZFJVMTF2UFd6bkNYeTdlMnc4VlJSSVduQVhIQXI0TUJpRGRSRDV3ajdIdw",
    "source": "金融界",
    "published_at": "2026-10-07T18:54:48+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "金融界",
@@ -578,13 +595,22 @@
      "name": "搜狐网",
      "published_at": "2026-10-07T19:27:23+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFhtZjYzZnNIUkNrbmIzUEZKQWoxNnMzMHd3OXl6eUZwOGl3Uk5nY0cxaHRCdEZQNXl6aVhrMHltem5uOEUwblJxZ3BqalV6dWliOGRJYXpPaW1uT1hsV3lIUTB4SDlvQjNHMUd5OG9RaXg2QmtacVh4NjEtckVDM000YlZPZkZk"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-07T19:33:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XblYxQktHSTN1c3dzbklYckgwUkp0SWdXVXdBNzVvNFNmd3VJSGZac1J2eEpEbFNWQ0UwM0J5dFUzbGs3cUFUTDBRZVF5RW04VmZ4NnIyekZIdzVGZktJSA"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达微软发布RTX Spark与AI智能体",
    "title_zh": "英伟达与微软携手以RTX Spark及AI智能体开启Windows PC全新纪元 - 金融界",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.29,
+    "window_h": 1.1
+   }
   },
   {
    "id": "6cb4f805c8ec",
@@ -3219,6 +3245,23 @@
    "zh_summary": "Dan Ives将英伟达列为2027年科技首选股",
    "title_zh": "Dan Ives将苹果、英伟达列为2027年顶级科技股",
    "sentiment": 1
+  },
+  {
+   "id": "e200272a52e9",
+   "title": "NVDA Stock Posts Biggest Jump In 14 Months On $12 Trillion Valuation Call From Raymond James – ‘Supply Is The Primary Constraint’ - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHYtamF4MTFQWEkzTjlQLWFwWTgzSXNsai02bXNfZDhpcnAxVkdDcy1qampmb2FQYlBWVXFnNTdydHhMWUNOX2RwSUpBWktFbENycTBkQU1xaU50R3ZvbXM2RGw5aGVQNnpFXzVGMFRndGRibmlHV1RoWFU0V1h4MU1rQzFBS29GR0VGWmNDZlRtSGFjNWx6TUo1ZUNoVGc4VHZ4TGwtRV9QZFdkTHZOQ3hnQVpRbHlXSHFaeWNLNllIQXAzMjJaMw",
+   "source": "Stocktwits",
+   "published_at": "2026-10-07T10:29:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-07T10:29:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHYtamF4MTFQWEkzTjlQLWFwWTgzSXNsai02bXNfZDhpcnAxVkdDcy1qampmb2FQYlBWVXFnNTdydHhMWUNOX2RwSUpBWktFbENycTBkQU1xaU50R3ZvbXM2RGw5aGVQNnpFXzVGMFRndGRibmlHV1RoWFU0V1h4MU1rQzFBS29GR0VGWmNDZlRtSGFjNWx6TUo1ZUNoVGc4VHZ4TGwtRV9QZFdkTHZOQ3hnQVpRbHlXSHFaeWNLNllIQXAzMjJaMw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "b7b905c60c0d",
@@ -6897,66 +6940,6 @@
    "zh_summary": "英伟达苹果微软撑住大盘",
    "title_zh": "英伟达、苹果和微软支撑股市",
    "sentiment": 1
-  },
-  {
-   "id": "ad4edb52bf24",
-   "title": "英伟达空头押注加码，市值逼近6万亿美元：空头追踪器 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ083eGp5OGZkRUZDTE00enJUSEFMQ0MzYlZ0Wkkxa0o5X1g1SWx6ZHNIYm5vUGl3N1pxV21JVUFFa1pMcnRVbGJXZGJNc2RaaFR2VWgweXRQanU0S2tpQUlha1B6RDk1N2dRUWdwRXhGak0za0pseGZZSlRxaDFsa0F2ejdLdEZjYnRFYkFMd3JhaUNsSGFraWlmXzBfUXhnU3d0Y0FGZ1E3NlM5TVF5ZVpubHg5VWs",
-   "source": "Moomoo",
-   "published_at": "2026-10-06T14:05:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-06T14:05:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ083eGp5OGZkRUZDTE00enJUSEFMQ0MzYlZ0Wkkxa0o5X1g1SWx6ZHNIYm5vUGl3N1pxV21JVUFFa1pMcnRVbGJXZGJNc2RaaFR2VWgweXRQanU0S2tpQUlha1B6RDk1N2dRUWdwRXhGak0za0pseGZZSlRxaDFsa0F2ejdLdEZjYnRFYkFMd3JhaUNsSGFraWlmXzBfUXhnU3d0Y0FGZ1E3NlM5TVF5ZVpubHg5VWs"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "空头押注加码，市值逼近6万亿美元",
-   "title_zh": "英伟达空头押注加码，市值逼近6万亿美元：空头追踪器 - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "e9069d418066",
-   "title": "英伟达市值达5.8万亿美元，创历史新高 - sohu.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGt1UnZiUzA0eHdPRkpKREE0d1VjdmxBZ19haF9ON1lIS3NEaGRwUlJTOGNKaEJzTHg0YU1QMFlaTExnOWp0LUZyV3RBcmZyb1hRbVhBLWdqS1NNSGdla0w0SUxoYWQ1X01XVWo5bjhZUTJJMTNWRktJSnlhWHdNU3RqLWJhSExG",
-   "source": "sohu.com",
-   "published_at": "2026-10-06T13:58:56+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-06T13:58:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGt1UnZiUzA0eHdPRkpKREE0d1VjdmxBZ19haF9ON1lIS3NEaGRwUlJTOGNKaEJzTHg0YU1QMFlaTExnOWp0LUZyV3RBcmZyb1hRbVhBLWdqS1NNSGdla0w0SUxoYWQ1X01XVWo5bjhZUTJJMTNWRktJSnlhWHdNU3RqLWJhSExG"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-06T13:58:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGt1UnZiUzA0eHdPRkpKREE0d1VjdmxBZ19haF9ON1lIS3NEaGRwUlJTOGNKaEJzTHg0YU1QMFlaTExnOWp0LUZyV3RBcmZyb1hRbVhBLWdqS1NNSGdla0w0SUxoYWQ1X01XVWo5bjhZUTJJMTNWRktJSnlhWHdNU3RqLWJhSExG"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-06T13:58:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGt1UnZiUzA0eHdPRkpKREE0d1VjdmxBZ19haF9ON1lIS3NEaGRwUlJTOGNKaEJzTHg0YU1QMFlaTExnOWp0LUZyV3RBcmZyb1hRbVhBLWdqS1NNSGdla0w0SUxoYWQ1X01XVWo5bjhZUTJJMTNWRktJSnlhWHdNU3RqLWJhSExG"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-06T14:19:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGemgzNWRpSEpRTG9BTUE2Z21iVV9ZaFpZbnpkMnd2UHdWRFFKckZfY3l2eGl6WVNxTlZ6U0ljYlFHdUpGdUx2ZkRYUUk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "breaking": true,
-   "zh_summary": "英伟达市值5.8万亿美元创新高",
-   "title_zh": "英伟达市值达5.8万亿美元，创历史新高 - sohu.com",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.19,
-    "window_h": 1.1
-   }
   }
  ]
 }
