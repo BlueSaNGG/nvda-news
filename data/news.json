@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T13:36:35.388914+00:00",
+ "updated_at": "2026-10-07T13:52:40.887355+00:00",
  "market": {
-  "price": 238.63,
-  "change_pct": -0.26,
+  "price": 237.94,
+  "change_pct": -0.54,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.61,
-   "count": 67
+   "avg": 0.65,
+   "count": 71
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 99% 分位（偏高）"
+     "note": "现价处于52周区间 98% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +33.1%"
+     "note": "目标价中位数 $318（14家），隐含空间 +33.4%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.61（67条已评分）"
+     "note": "今日新闻情绪 +0.65（71条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $238.63 vs 20日均线 $225.64"
+     "note": "现价 $237.94 vs 20日均线 $225.60"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 99,
+   "price_52w_pct": 98,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 33.1,
-   "ma20": 225.64,
-   "as_of": "2026-10-07T13:36:35.376274+00:00"
+   "implied_upside_pct": 33.4,
+   "ma20": 225.6,
+   "as_of": "2026-10-07T13:52:40.872601+00:00"
   },
-  "pe_ttm": 30.3,
+  "pe_ttm": 30.2,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+33.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+33.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,91 @@
   }
  },
  "stories": [
+  {
+   "id": "85d2b38b3f41",
+   "title": "NVIDIA 615.78.08 Linux Driver Adds VK_NV_low_latency2 r3 For Improved VKD3D-Proton - Phoronix",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GejJKbFNjeEZvYWJfeXZGdlM5WWpCQ3dIdUVKRUFRYmZtLWlDSHFKbktBOUI1dTVwMlpxWkNEV3IzUlh4cmpFcWVKQmJEdU0zeExuU2QycWtsbi1GRWNlU3B3",
+   "source": "Phoronix",
+   "published_at": "2026-10-07T13:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Phoronix",
+     "published_at": "2026-10-07T13:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GejJKbFNjeEZvYWJfeXZGdlM5WWpCQ3dIdUVKRUFRYmZtLWlDSHFKbktBOUI1dTVwMlpxWkNEV3IzUlh4cmpFcWVKQmJEdU0zeExuU2QycWtsbi1GRWNlU3B3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "313498b4830f",
+   "title": "Nvidia Inside: Microsoft's New Laptop Runs AI Agents Without the Cloud - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLU13enE5dGRFTDg5WmNUU2tsdXo3SC0xeWVMZGRzV0ZxcVhNOWxmTFlqd2VHMVgtRzI5YzQtTzE0WXcxMTdoeGVscnBQQmloalhfdnF3QlctNVA1dk1CRC1UOGpoT0NVTnJ2VzAxcHQwWnVaR0Z2eC1Kb0tUZGZ0LUF0UkhlSmFObHlnVGtSVjBuS1Eza0pkQVA1cWsxdlJMN2lCdllqMUpxRWhpdEgzSzRTeGVWekttNDEzNlBR",
+   "source": "Benzinga",
+   "published_at": "2026-10-07T13:44:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-07T13:44:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLU13enE5dGRFTDg5WmNUU2tsdXo3SC0xeWVMZGRzV0ZxcVhNOWxmTFlqd2VHMVgtRzI5YzQtTzE0WXcxMTdoeGVscnBQQmloalhfdnF3QlctNVA1dk1CRC1UOGpoT0NVTnJ2VzAxcHQwWnVaR0Z2eC1Kb0tUZGZ0LUF0UkhlSmFObHlnVGtSVjBuS1Eza0pkQVA1cWsxdlJMN2lCdllqMUpxRWhpdEgzSzRTeGVWekttNDEzNlBR"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "8e93bd389523",
+   "title": "Q3 2026 insider stock sales: Nvidia's Mark Stevens tops AI sellers - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYVBGWEZaZ01STnZQMkw2QnoyRlhMRkNvS1phNHk5b2wwd2FMTkVldk1La2lXd0JzSDlyb2NpQ3dOLTFiOXM1NmZTSXVXZHM3TXN1R21pVUVlU08wUlFFdERtODR6Ym9fZHYxVEhSMEMzLVotcy01WmJrTFIxRDNJX2w2ZjdORG8",
+   "source": "Quartz",
+   "published_at": "2026-10-07T13:37:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-07T13:37:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYVBGWEZaZ01STnZQMkw2QnoyRlhMRkNvS1phNHk5b2wwd2FMTkVldk1La2lXd0JzSDlyb2NpQ3dOLTFiOXM1NmZTSXVXZHM3TXN1R21pVUVlU08wUlFFdERtODR6Ym9fZHYxVEhSMEMzLVotcy01WmJrTFIxRDNJX2w2ZjdORG8"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "f76bf68f3451",
+   "title": "Microsoft & Nvidia CEOs Team Up for AI-Powered Surface Launch - The Tech Buzz",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlEyNjdxSVM3aml5N2tHT0VWOFBLbnozX0ViU0huYXdPOGllbHFWNWlpQVVIV19VWUROcnM0T2djb0p3TXdCRVROUFBQc0hoa1lCa1Q5U0FDMWhHMDRvaWVzZkxMb2FWOEdyUXhoSGpSTkFFa0VpVlkzcXB2bVFlSjdsb3I0b0VKZ29sbFBqREpfTHVMSmRN",
+   "source": "The Tech Buzz",
+   "published_at": "2026-10-07T13:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Tech Buzz",
+     "published_at": "2026-10-07T13:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlEyNjdxSVM3aml5N2tHT0VWOFBLbnozX0ViU0huYXdPOGllbHFWNWlpQVVIV19VWUROcnM0T2djb0p3TXdCRVROUFBQc0hoa1lCa1Q5U0FDMWhHMDRvaWVzZkxMb2FWOEdyUXhoSGpSTkFFa0VpVlkzcXB2bVFlSjdsb3I0b0VKZ29sbFBqREpfTHVMSmRN"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "45cf25d75282",
+   "title": "黄仁勋女婿两年跃升Nvidia副总裁 掌英伟达AI基建 - 香港01",
+   "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQdGd3OE91Vl82MEFaT1NYc0NDUEFFTkFNcHkwOGdLd3BacVVJdzhRdWttam90VEtGNWhmQkg5MnBmZThPSUR6MkNVdzJiWU1QbWp4bEFrQ1VyeTZUMnUway02eGNCdTBXc28yWDgtb2hIcmloWWdqZW5vZ0tqUmFDaGpkN1VFYWdHbUhTb1VwcnVSX3NKa2lnMDlfaUxmaTlfUU9VODlPWk9fOFpvT3FXbGd0WmRQT2N4Uy0yd0FtZURiMHppc2xHaFczWk5zUDZ2d2ctYWFuYVhnN3Z2MkljNk9YOFAxVGVDUF9uSjg3ZjJCNFp4dUxEdEU1YXg2NURKTURkOFJYR2Z4NmpfcEp5dlFlNHlqT0FSVnFodFBmQUxDRDF4OXZZRjlqd0t4UW4wZURqOVRnVjNjeHFZZEd4VUQ5VXVldFpUbm9Yc1hQMVA4bTNNMkNqQkp4cTRFQQ",
+   "source": "香港01",
+   "published_at": "2026-10-07T13:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "香港01",
+     "published_at": "2026-10-07T13:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQdGd3OE91Vl82MEFaT1NYc0NDUEFFTkFNcHkwOGdLd3BacVVJdzhRdWttam90VEtGNWhmQkg5MnBmZThPSUR6MkNVdzJiWU1QbWp4bEFrQ1VyeTZUMnUway02eGNCdTBXc28yWDgtb2hIcmloWWdqZW5vZ0tqUmFDaGpkN1VFYWdHbUhTb1VwcnVSX3NKa2lnMDlfaUxmaTlfUU9VODlPWk9fOFpvT3FXbGd0WmRQT2N4Uy0yd0FtZURiMHppc2xHaFczWk5zUDZ2d2ctYWFuYVhnN3Z2MkljNk9YOFAxVGVDUF9uSjg3ZjJCNFp4dUxEdEU1YXg2NURKTURkOFJYR2Z4NmpfcEp5dlFlNHlqT0FSVnFodFBmQUxDRDF4OXZZRjlqd0t4UW4wZURqOVRnVjNjeHFZZEd4VUQ5VXVldFpUbm9Yc1hQMVA4bTNNMkNqQkp4cTRFQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "ee761a0aac68",
    "title": "Lumentum Could See a $3.3 Billion Payoff. Nvidia’s Optics Shift Is Moving Faster Than Expected. - Barchart.com",
@@ -440,6 +525,23 @@
    "zh_summary": "英伟达市值逼近6万亿美元创新高",
    "title_zh": "英伟达股价创历史新高，市值逼近6万亿美元",
    "sentiment": 1
+  },
+  {
+   "id": "b1c0ce465259",
+   "title": "Wall Street Bulls Look Optimistic About Nvidia (NVDA): Should You Buy? - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa0Z5N0N4MDIxOThVc0RzZ0JkQzRzcDY2SVdBRW9XNmhmWDJZVmJaODBfUFlkNGpDTHZLOE5hUjBUUS1yZmVQMllZSjRkUmg5d1l6cVdFcGUzWG9GLTNvQ2g2Skc1Q3RNLUVqNUI5TXlqLVJVeFBOMmE4SEkxS2ZaTXlSN2pnV1NPVFE",
+   "source": "Yahoo! Finance Canada",
+   "published_at": "2026-10-07T12:30:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-07T12:30:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa0Z5N0N4MDIxOThVc0RzZ0JkQzRzcDY2SVdBRW9XNmhmWDJZVmJaODBfUFlkNGpDTHZLOE5hUjBUUS1yZmVQMllZSjRkUmg5d1l6cVdFcGUzWG9GLTNvQ2g2Skc1Q3RNLUVqNUI5TXlqLVJVeFBOMmE4SEkxS2ZaTXlSN2pnV1NPVFE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "25f3dbbfe861",
@@ -2378,7 +2480,7 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelk1VmhBcFVqRmpRQndWdklsTm1EVVZmaHk4REFBRXk1WmJYdDMxUDBxSEFkNHl1YWs2OUNCU1ZDWXRVcG9XaGJzR2JHaFUtLXlNaHZTZVNxQjN2NGkzTW5jczlfZXN1S3ppd0ttdnJZemtvM3llR25xOUVvSVMxY3hPd1dtaEtVV2NRNXN4eU5wMG4zUjNxWW9WTEFHT2l4V1p5OE1oODNoVE45bXJGZUQ1SQ",
    "source": "Bloomberg.com",
    "published_at": "2026-10-06T22:57:42+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "Bloomberg.com",
@@ -2404,6 +2506,11 @@
      "name": "Yahoo Finance UK",
      "published_at": "2026-10-07T13:21:32+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXo0c096VnUwc3JJUEZ2VDVreFVoaFd0blVzbnBpT3ZSRW5nMlpnSC1WYmtlZ3d6TkZXSDFyWjN0eGN6M3Z6WnJmaHlYUnJqb1hxdFBpV3Nkc0g2VjMzbnlLZTJ1RWRmZ1FocFpBSnlMYzk4eXNLZi1LT3R4X19UMDFDbUJSWHlz"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-07T13:21:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0dTcU1hd01GcEFfQTBEdERMSTRLcUFhcXY5dml3WC1ZTEU5VkpaNTVCdC0yMzd5aXFDV250eWkxQlMzd2FpUWpTX3B1eVNhNkJlajZSMnVKaTNiRGhKNVZWYmxGZVJFZFZOLWRldmFjdUNKamUwVktWOTlncDFfdTFFYzc"
     }
    ],
    "category": "产品技术",
@@ -2968,7 +3075,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnRkw0S0Jsd3d2VXU0dkh6NlRvcWtyQlJPTWJvYTdZaGVxeHNTNnZwMGlydk9GQV9PVlhUVmtzT1BDekJ2RFpPSkgxOGk2amxVazlZSk8zYnBVSWwzbGV4T3B3",
    "source": "mezha.net",
    "published_at": "2026-10-06T19:42:00+00:00",
-   "outlets_count": 9,
+   "outlets_count": 10,
    "outlets": [
     {
      "name": "mezha.net",
@@ -3014,6 +3121,11 @@
      "name": "搜狐网",
      "published_at": "2026-10-07T01:11:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOWd2X0xBY1A4cXdTNDV3X2xoSjl0cHV4Q0lkQVhtUVAzUVZjNWpYa1JfU0p1VUFwNlUzd3R4T1p3WTIxVVduVTJnNWtyRjNVRVYxZmRHYkhtS21VS2wzcmZkeXYwV2VpTkoza2VDcmRRTWYzTGN2aXlRdkVvY0laUTZCbzV2Mmtp"
+    },
+    {
+     "name": "证券时报网",
+     "published_at": "2026-10-07T03:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12LW5ZeXJaLTRZd1RneDNSRkZYQ0JKS0RMYUNXZlhhZl9NREx6ZXdraWRRR0R0N0lIQnJpT0VYWTF2YUtoak9KeURkRmctdFhkTUpKV0FMTk0tcllHSnc"
     }
    ],
    "category": "产品技术",
@@ -3769,26 +3881,6 @@
     "pct": -0.23,
     "window_h": 0.9
    }
-  },
-  {
-   "id": "2556a2068797",
-   "title": "Nvidia stock rises to new highs as market cap closes in on $6 trillion - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVlRRDdLeUlIWFF1RTBmNXljZ0pENE5md1RsRU5Uam8tOHJSRFM4Ykh4YkNKbW5pRzU2azBhTWdrS1JqZUVhLVNfMkprUjAxYWM0d3hOYmd3MmpFd3FKYjRta09JR3dmek9RNmZfZ29sNlBFMEZGblFKall3OVJwMFQtMnpzS1JYWlROQURUYzFhSk9WcC1jN2l2bGJPZjBCUU5DQkFpaVhsX3M0UjlyOGdJd3ZjUHlYVEs0T2dJQTlYZFUzWVlVSw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-06T15:22:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T15:22:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVlRRDdLeUlIWFF1RTBmNXljZ0pENE5md1RsRU5Uam8tOHJSRFM4Ykh4YkNKbW5pRzU2azBhTWdrS1JqZUVhLVNfMkprUjAxYWM0d3hOYmd3MmpFd3FKYjRta09JR3dmek9RNmZfZ29sNlBFMEZGblFKall3OVJwMFQtMnpzS1JYWlROQURUYzFhSk9WcC1jN2l2bGJPZjBCUU5DQkFpaVhsX3M0UjlyOGdJd3ZjUHlYVEs0T2dJQTlYZFUzWVlVSw"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "英伟达股价创新高，市值逼近6万亿美元",
-   "title_zh": "英伟达股价创新高，市值逼近6万亿美元",
-   "sentiment": 1
   },
   {
    "id": "b9a95ba20dab",
@@ -7334,116 +7426,6 @@
     "pct": 0.42,
     "window_h": 1.4
    }
-  },
-  {
-   "id": "fa8a17b635e3",
-   "title": "大马部署新一代AI算力 AMI购2万颗英伟达Rubin GPU - KLSE Screener",
-   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOU1VCWGwtTlRGVEY3VkRLZlFFM1BqUzF1dkluZmRURENVcU91bWY2TU9MQmF6eUhYTW1uel9mc2JWaW8xU0VFVjQ2ZGd2LTZ4dDk1bGZCM0VZSktKLUlpcC0yWXZEVnV4VGJIYU9MTTFFN3R5NzU0T2JUc3VBdWVxVGhzekZrX2lxSXFPRnc0bTJ3R0RKRzZFWG1RZWYyektqcnU4QU9SRTh2a2M3cl9odUhjSkU1V0NIdXI4VGJ3MF9ZbDlKUDFjaUM0VFZLRDdmLWgyXzNSSWJVRGI4cThIeVRjWk1ZS2ZZQ1JadVBMM2FRekxoSU00NGV3YXNaTUxaektTV29DV0JLejhpRUtNNzBjYVJaa0dKX3BHNzlZQURLdXdiZ2szWg",
-   "source": "KLSE Screener",
-   "published_at": "2026-10-06T04:02:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "KLSE Screener",
-     "published_at": "2026-10-06T04:02:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOU1VCWGwtTlRGVEY3VkRLZlFFM1BqUzF1dkluZmRURENVcU91bWY2TU9MQmF6eUhYTW1uel9mc2JWaW8xU0VFVjQ2ZGd2LTZ4dDk1bGZCM0VZSktKLUlpcC0yWXZEVnV4VGJIYU9MTTFFN3R5NzU0T2JUc3VBdWVxVGhzekZrX2lxSXFPRnc0bTJ3R0RKRzZFWG1RZWYyektqcnU4QU9SRTh2a2M3cl9odUhjSkU1V0NIdXI4VGJ3MF9ZbDlKUDFjaUM0VFZLRDdmLWgyXzNSSWJVRGI4cThIeVRjWk1ZS2ZZQ1JadVBMM2FRekxoSU00NGV3YXNaTUxaektTV29DV0JLejhpRUtNNzBjYVJaa0dKX3BHNzlZQURLdXdiZ2szWg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "AMI购2万颗英伟达Rubin GPU",
-   "title_zh": "大马部署新一代AI算力 AMI购2万颗英伟达Rubin GPU - KLSE Screener",
-   "sentiment": 1
-  },
-  {
-   "id": "a7b5050b2e90",
-   "title": "【深度分析】英伟达为什么可以看涨$260 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTk5SdWlFMURxWFdhVUo5OE5VLTJVd3NLaDBNWFlNVTBoOVhkbzNBdmczUkFUTEZVYTJHbUhqTHB2SUdTSENBamltR2hrRmtDZmJFaHVkQmJ0dkc1Vm5sSjVsZmpGcHlaYzZna1ROdVFfZF84VmFvc0hWRFk0SVhyUkhPN2tzTU15SmRaQnlHMHhoekJYSFFkb19uRlR4T05iZ3dCLVBtcDJfdw",
-   "source": "Moomoo",
-   "published_at": "2026-10-06T03:48:41+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-06T03:48:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTk5SdWlFMURxWFdhVUo5OE5VLTJVd3NLaDBNWFlNVTBoOVhkbzNBdmczUkFUTEZVYTJHbUhqTHB2SUdTSENBamltR2hrRmtDZmJFaHVkQmJ0dkc1Vm5sSjVsZmpGcHlaYzZna1ROdVFfZF84VmFvc0hWRFk0SVhyUkhPN2tzTU15SmRaQnlHMHhoekJYSFFkb19uRlR4T05iZ3dCLVBtcDJfdw"
-    },
-    {
-     "name": "moomoo.com",
-     "published_at": "2026-10-06T03:48:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTk5SdWlFMURxWFdhVUo5OE5VLTJVd3NLaDBNWFlNVTBoOVhkbzNBdmczUkFUTEZVYTJHbUhqTHB2SUdTSENBamltR2hrRmtDZmJFaHVkQmJ0dkc1Vm5sSjVsZmpGcHlaYzZna1ROdVFfZF84VmFvc0hWRFk0SVhyUkhPN2tzTU15SmRaQnlHMHhoekJYSFFkb19uRlR4T05iZ3dCLVBtcDJfdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "分析英伟达为何看涨260美元",
-   "title_zh": "【深度分析】英伟达为什么可以看涨$260 - Moomoo",
-   "sentiment": 1
-  },
-  {
-   "id": "3751d2c9d5b5",
-   "title": "Nvidia: Inventory Doesn't Lie And Says Downgrade (NASDAQ:NVDA) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejQwOURiZl9SNjFTVlEzYUxzVEcwTkwwZ1NJSHY2T3FBVDVPUHkwa0hFT2o5U3locjcyR0xVeHp2cnh2WXRoY0pINFNCN1F0QW9Yak0zTllJejBkRTUtZzVEbThiYk1vaWhJNU5lR1Y0TmtXYlpteWhYTU55MUhJYUlDTU9ubW5nTDJ5RWFjNEE",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-06T03:29:10+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-06T03:29:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejQwOURiZl9SNjFTVlEzYUxzVEcwTkwwZ1NJSHY2T3FBVDVPUHkwa0hFT2o5U3locjcyR0xVeHp2cnh2WXRoY0pINFNCN1F0QW9Yak0zTllJejBkRTUtZzVEbThiYk1vaWhJNU5lR1Y0TmtXYlpteWhYTU55MUhJYUlDTU9ubW5nTDJ5RWFjNEE"
-    },
-    {
-     "name": "seekingalpha.com",
-     "published_at": "2026-10-06T03:29:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejQwOURiZl9SNjFTVlEzYUxzVEcwTkwwZ1NJSHY2T3FBVDVPUHkwa0hFT2o5U3locjcyR0xVeHp2cnh2WXRoY0pINFNCN1F0QW9Yak0zTllJejBkRTUtZzVEbThiYk1vaWhJNU5lR1Y0TmtXYlpteWhYTU55MUhJYUlDTU9ubW5nTDJ5RWFjNEE"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘后",
-   "zh_summary": "Seeking Alpha以库存为由看空英伟达",
-   "title_zh": "Seeking Alpha下调英伟达评级：库存数据说明问题",
-   "sentiment": -1
-  },
-  {
-   "id": "a95ad52eb9df",
-   "title": "Nvidia's 114-CVE driver bulletin went live reading 'Default Summary' for two days - mixed-news.com",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd28xWExRaEpmN0EtWmoxYzh0Z3dqc1VQZ1lGYkRLbVprX3RkZEU3cHdFaTJadncwSk81U0EyQWs1UDA0YzNYdG83MUdSR2NzbnZkanNVTTNPdHpMTWFncFNuZFlNWXRGc3hlOXc4ZGdsWXRKangzenFMbXFRNldCcHF3aTI3aWRDZ1E",
-   "source": "mixed-news.com",
-   "published_at": "2026-10-06T03:20:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "mixed-news.com",
-     "published_at": "2026-10-06T03:20:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd28xWExRaEpmN0EtWmoxYzh0Z3dqc1VQZ1lGYkRLbVprX3RkZEU3cHdFaTJadncwSk81U0EyQWs1UDA0YzNYdG83MUdSR2NzbnZkanNVTTNPdHpMTWFncFNuZFlNWXRGc3hlOXc4ZGdsWXRKangzenFMbXFRNldCcHF3aTI3aWRDZ1E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达驱动公告含114个CVE漏洞",
-   "title_zh": "英伟达发布含114个CVE的驱动安全公告",
-   "sentiment": 0
-  },
-  {
-   "id": "46a600c3b666",
-   "title": "‘One Chip In The World Fueling AI Revolution:’ Dan Ives Supports Nvidia Bull Case As Stock Hits Fresh High - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFBKZGZpZDJRazc2MHlHc20xZXFHM19la2RsU2ZZY0RqLVk3M0hxNE1XcEtOV0k5b2VNTW02bEVTWU1GdUZOcl90ZFZUWEZnZXlQbVZGRmdYZHRQOTVzRVpIdFh0Z0RIQW9tUDFaVmZQclFHUXVJcEFUbDR2Rl9SNUxwa3BDdi1IQUYyRURnckVudFJ2",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-06T03:14:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T03:14:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSFBKZGZpZDJRazc2MHlHc20xZXFHM19la2RsU2ZZY0RqLVk3M0hxNE1XcEtOV0k5b2VNTW02bEVTWU1GdUZOcl90ZFZUWEZnZXlQbVZGRmdYZHRQOTVzRVpIdFh0Z0RIQW9tUDFaVmZQclFHUXVJcEFUbDR2Rl9SNUxwa3BDdi1IQUYyRURnckVudFJ2"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "分析师看多英伟达，股价创历史新高",
-   "title_zh": "Dan Ives支持英伟达多头论，股价创新高",
-   "sentiment": 1
   }
  ]
 }
