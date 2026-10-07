@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T06:51:26.297549+00:00",
+ "updated_at": "2026-10-07T07:06:35.519816+00:00",
  "market": {
   "price": 239.24,
   "change_pct": 0.14,
@@ -10,8 +10,8 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 5
+   "avg": 0.43,
+   "count": 7
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（5条已评分）"
+     "note": "今日新闻情绪 +0.43（7条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.7,
    "ma20": 224.89,
-   "as_of": "2026-10-07T06:51:26.278212+00:00"
+   "as_of": "2026-10-07T07:06:35.510801+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "f97ad0c97057",
+   "title": "Nvidia hits record $5.65 trillion as SpaceX seeks $40 billion to buy its AI chips - CTech",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iYTdrVlVfS0h5b3Q3dVVaSXNjWmd6TmxtVDZqS2tZbWUwNEV0TDNjMzJtMF9XcnM0bURRallPNFlzaExCMXhLcURXU0kyLU9hZzZNQWd0dU5ZTnJsU0E1YmxnWm4ybEk",
+   "source": "CTech",
+   "published_at": "2026-10-07T06:53:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CTech",
+     "published_at": "2026-10-07T06:53:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iYTdrVlVfS0h5b3Q3dVVaSXNjWmd6TmxtVDZqS2tZbWUwNEV0TDNjMzJtMF9XcnM0bURRallPNFlzaExCMXhLcURXU0kyLU9hZzZNQWd0dU5ZTnJsU0E1YmxnWm4ybEk"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "a539b7b4d306",
    "title": "EIZO launches SOSA-aligned 3U VPX computer with NVIDIA IGX Thor - Military Aerospace",
@@ -7736,26 +7753,6 @@
     "pct": -0.27,
     "window_h": 1.0
    }
-  },
-  {
-   "id": "00df51edae75",
-   "title": "Signal Says Nvidia Stock Still Hasn't Hit Its Top - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ04yQ1dQM3BLclpVNThjOE1pY3Y4X0QxSXVGZWxLZDBzOWZBZTk4Q2RkaEc1eFM3N055ZVAtdFRGS1NjWVU3QlhUcmxhWVZGTjBMeWU2emFTWWE2Ql8tOG03OG9ydEJ1YWQ0N0dJNzlkdnRqRWM1NVR4OUZ5M3pIelMyanhhVksxY3Q3SG5NY2d5T2Ywb0Q1cXI1Yw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-05T18:58:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-05T18:58:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ04yQ1dQM3BLclpVNThjOE1pY3Y4X0QxSXVGZWxLZDBzOWZBZTk4Q2RkaEc1eFM3N055ZVAtdFRGS1NjWVU3QlhUcmxhWVZGTjBMeWU2emFTWWE2Ql8tOG03OG9ydEJ1YWQ0N0dJNzlkdnRqRWM1NVR4OUZ5M3pIelMyanhhVksxY3Q3SG5NY2d5T2Ywb0Q1cXI1Yw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "信号显示英伟达股价尚未见顶",
-   "title_zh": "信号显示英伟达股价尚未见顶",
-   "sentiment": 1
   }
  ]
 }
