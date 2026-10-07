@@ -1,17 +1,17 @@
 {
- "updated_at": "2026-10-07T13:21:31.332929+00:00",
+ "updated_at": "2026-10-07T13:36:35.388914+00:00",
  "market": {
-  "price": 239.24,
-  "change_pct": 0.14,
-  "as_of": "2026-10-06",
+  "price": 238.63,
+  "change_pct": -0.26,
+  "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-11-17",
    "label": "Q3 FY2027",
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.59,
-   "count": 59
+   "avg": 0.61,
+   "count": 67
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 100% 分位（偏高）"
+     "note": "现价处于52周区间 99% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +32.7%"
+     "note": "目标价中位数 $318（14家），隐含空间 +33.1%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.59（59条已评分）"
+     "note": "今日新闻情绪 +0.61（67条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $239.24 vs 20日均线 $224.89"
+     "note": "现价 $238.63 vs 20日均线 $225.64"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 100,
+   "price_52w_pct": 99,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 32.7,
-   "ma20": 224.89,
-   "as_of": "2026-10-07T13:21:31.306399+00:00"
+   "implied_upside_pct": 33.1,
+   "ma20": 225.64,
+   "as_of": "2026-10-07T13:36:35.376274+00:00"
   },
-  "pe_ttm": 30.4,
+  "pe_ttm": 30.3,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+32.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+33.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,74 @@
   }
  },
  "stories": [
+  {
+   "id": "ee761a0aac68",
+   "title": "Lumentum Could See a $3.3 Billion Payoff. Nvidia’s Optics Shift Is Moving Faster Than Expected. - Barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPenFzMzhLOTJUNzN3cHF5eEFDQ2JWdG01M1hycjNDLXByc0htb1pVbXRKM2NTU2pHdFN3bmwwZDVEa0RFb2MyeXVGUTRMQXRLSjZuWHF0T2gxSjUyWE1MLVBNUDhfNDhZUmVyM1FyTVpKa1NfeWFqc0o0S1B6Ujdfek1oSVBBR0tjclg1QzJfaU0yNEhRc2tlN3JuWEwxSVBPaWNjZjZ6Ujl5bnZ4YnFfT3dpUjlpWFhCWE9fY2dXNlpzaGtiZ2pRTnFXMW90TF9L",
+   "source": "Barchart.com",
+   "published_at": "2026-10-07T13:26:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barchart.com",
+     "published_at": "2026-10-07T13:26:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPenFzMzhLOTJUNzN3cHF5eEFDQ2JWdG01M1hycjNDLXByc0htb1pVbXRKM2NTU2pHdFN3bmwwZDVEa0RFb2MyeXVGUTRMQXRLSjZuWHF0T2gxSjUyWE1MLVBNUDhfNDhZUmVyM1FyTVpKa1NfeWFqc0o0S1B6Ujdfek1oSVBBR0tjclg1QzJfaU0yNEhRc2tlN3JuWEwxSVBPaWNjZjZ6Ujl5bnZ4YnFfT3dpUjlpWFhCWE9fY2dXNlpzaGtiZ2pRTnFXMW90TF9L"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "26be2cdc0d5b",
+   "title": "Nvidia may have planned $1B investment in Figure - Breakingthenews.net",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDMxQjZGcHQxV1FYb3VLMHFNZk9MZDlCU1RuMzc1WENvMk4tOGpDc0d1aFpkWUZVa2VYdU1zY0dxNDduR0N1dEMwa3NmR3NGaGhHNk9SU2QzM29WejU5ZWhkeHpyUmsxX2JjcHJmVHZ3M0JzN2F4d2dyY1otZVZNdFZ0Rm53VmhjVHZvM0NKTHkxa01RT0FzajRlZ2tQZEU",
+   "source": "Breakingthenews.net",
+   "published_at": "2026-10-07T13:23:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Breakingthenews.net",
+     "published_at": "2026-10-07T13:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMDMxQjZGcHQxV1FYb3VLMHFNZk9MZDlCU1RuMzc1WENvMk4tOGpDc0d1aFpkWUZVa2VYdU1zY0dxNDduR0N1dEMwa3NmR3NGaGhHNk9SU2QzM29WejU5ZWhkeHpyUmsxX2JjcHJmVHZ3M0JzN2F4d2dyY1otZVZNdFZ0Rm53VmhjVHZvM0NKTHkxa01RT0FzajRlZ2tQZEU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "5ae49db18443",
+   "title": "SpaceX's $40B Nvidia Chip Plan Would Help Fuel AI Growth -- Market Talk - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVhMSk1DTXppUWowMThCdEtBM09WcjA4Mzh0WDBvREhyaUd3WGZSMEEyUEpvVnlkVFkydFFkbnBPT1pyNm9FdEctUEhER3B0eTRMS2ZVSF85QVBOX0F5UHgyUzJuMWZxTVZHTVViTDlYSi1UZ2JoME9veVI5ck93TGpEY2RYeEoyUUFiUHFEaFJzUk5RNDIw",
+   "source": "Moomoo",
+   "published_at": "2026-10-07T13:22:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-07T13:22:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVhMSk1DTXppUWowMThCdEtBM09WcjA4Mzh0WDBvREhyaUd3WGZSMEEyUEpvVnlkVFkydFFkbnBPT1pyNm9FdEctUEhER3B0eTRMS2ZVSF85QVBOX0F5UHgyUzJuMWZxTVZHTVViTDlYSi1UZ2JoME9veVI5ck93TGpEY2RYeEoyUUFiUHFEaFJzUk5RNDIw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "87b937315377",
+   "title": "据报道，英伟达讨论再向Figure投资10亿美元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Gd0Z4QWNWRkpta194Y1NvcXBqREpBVjRDLUdDSDZHRmp3Z256WHA0d1pqVnVnMmdvVEZCbDFLQVVsV1RmNmRLUWdWa1d4aGRPeVFiY1Z5b0c5V21Ua3hoQg",
+   "source": "东方财富",
+   "published_at": "2026-10-07T13:21:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-07T13:21:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Gd0Z4QWNWRkpta194Y1NvcXBqREpBVjRDLUdDSDZHRmp3Z256WHA0d1pqVnVnMmdvVEZCbDFLQVVsV1RmNmRLUWdWa1d4aGRPeVFiY1Z5b0c5V21Ua3hoQg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "0f943d06fe5a",
    "title": "得益于人工智能热潮，英伟达的市值已接近 6 万亿美元，超过了苹果公司。 - Vietnam.vn",
@@ -77,8 +145,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "得益于人工智能热潮，英伟达的市值已接近 6 万亿美元，超过了苹果公司。 - Vietnam.vn",
    "zh_summary": "英伟达市值接近6万亿美元超苹果",
+   "title_zh": "得益于人工智能热潮，英伟达的市值已接近 6 万亿美元，超过了苹果公司。 - Vietnam.vn",
    "sentiment": 1
   },
   {
@@ -97,8 +165,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "竞购OpenRouter失利，英伟达推进多笔AI赛道大额投资 - 新浪网",
    "zh_summary": "竞购OpenRouter失利，推进AI赛道大额投资",
+   "title_zh": "竞购OpenRouter失利，英伟达推进多笔AI赛道大额投资 - 新浪网",
    "sentiment": 0
   },
   {
@@ -117,8 +185,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "惠普意外泄露首款英伟达RTX Spark笔记本价格 - The Verge",
    "zh_summary": "惠普意外泄露RTX Spark笔记本价格",
+   "title_zh": "惠普意外泄露首款英伟达RTX Spark笔记本价格 - The Verge",
    "sentiment": 0
   },
   {
@@ -137,8 +205,8 @@
    ],
    "category": "分析师",
    "session": "盘前",
-   "title_zh": "分析师绘制英伟达突破至280美元路径 - Finbold",
    "zh_summary": "分析师看涨英伟达突破路径至280美元",
+   "title_zh": "分析师绘制英伟达突破至280美元路径 - Finbold",
    "sentiment": 1
   },
   {
@@ -157,8 +225,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "据The Information：英伟达(NVDA.O)正讨论向人形机器人公司Figure再投资10亿美元。 - 富途牛牛",
    "zh_summary": "英伟达拟再投Figure机器人10亿美元",
+   "title_zh": "据The Information：英伟达(NVDA.O)正讨论向人形机器人公司Figure再投资10亿美元。 - 富途牛牛",
    "sentiment": 1
   },
   {
@@ -177,8 +245,8 @@
    ],
    "category": "分析师",
    "session": "盘前",
-   "title_zh": "华尔街分析师认为英伟达(NVDA)有望上涨36.64%",
    "zh_summary": "分析师称英伟达(NVDA)或上涨36.64%",
+   "title_zh": "华尔街分析师认为英伟达(NVDA)有望上涨36.64%",
    "sentiment": 1
   },
   {
@@ -197,8 +265,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "英伟达增长势头短期内不太可能受竞争影响",
    "zh_summary": "英伟达增长势头短期难受竞争冲击",
+   "title_zh": "英伟达增长势头短期内不太可能受竞争影响",
    "sentiment": 1
   },
   {
@@ -217,8 +285,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "英伟达1000亿美元投资布局下一步去向",
    "zh_summary": "英伟达1000亿美元交易布局走向",
+   "title_zh": "英伟达1000亿美元投资布局下一步去向",
    "sentiment": 1
   },
   {
@@ -409,7 +477,11 @@
    "session": "盘前",
    "zh_summary": "不止英伟达，AI热潮造就更多赢家",
    "title_zh": "不止英伟达一家从AI热潮中获利",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.1
+   }
   },
   {
    "id": "04b5b7a9f1f0",
@@ -619,7 +691,11 @@
    "session": "盘前",
    "zh_summary": "两家公司借JetPack 7.2加速AI视觉部署",
    "title_zh": "AVerMedia与Stereolabs借JetPack 7.2加速AI视觉部署",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.1
+   }
   },
   {
    "id": "8213cbdaa15c",
@@ -840,7 +916,11 @@
    "breaking": true,
    "zh_summary": "微软与英伟达CEO将发布新款AI笔记本",
    "title_zh": "微软与英伟达CEO将在旧金山活动发布新款AI笔记本电脑",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.1
+   }
   },
   {
    "id": "228e61e5bc47",
@@ -888,26 +968,6 @@
    "sentiment": 1
   },
   {
-   "id": "491c3ef95b41",
-   "title": "【美股盘前】SpaceX跌超1%，拟融资400亿美元采购英伟达芯片；派拉蒙完成对华纳兄弟探索收购，新公司更名Skydance；谷歌与Constellation达成3590兆瓦长期购电协议 - https://www.mrjjxw.com/",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55Z0pFN1lDZWZwTnNYV2tPX0hUYTV0cEo1enFxZHl4bkZocV8wTHY1ZjkzazNOS1BNRF96LWJlaFVzak1GS1FqLTIxeVFkRUZRM1FQYi1heERQSVkyY2ptLVFuazQxQQ",
-   "source": "https://www.mrjjxw.com/",
-   "published_at": "2026-10-07T09:28:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://www.mrjjxw.com/",
-     "published_at": "2026-10-07T09:28:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55Z0pFN1lDZWZwTnNYV2tPX0hUYTV0cEo1enFxZHl4bkZocV8wTHY1ZjkzazNOS1BNRF96LWJlaFVzak1GS1FqLTIxeVFkRUZRM1FQYi1heERQSVkyY2ptLVFuazQxQQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "SpaceX拟融资400亿美元采购英伟达芯片",
-   "title_zh": "【美股盘前】SpaceX跌超1%，拟融资400亿美元采购英伟达芯片；派拉蒙完成对华纳兄弟探索收购，新公司更名Skydance；谷歌与Constellation达成3590兆瓦长期购电协议 - https://www.mrjjxw.com/",
-   "sentiment": 1
-  },
-  {
    "id": "e29775d4c47d",
    "title": "美股讯号 | SpaceX 拟融资 400 亿美元采购英伟达芯片，股价下跌 1.78% ｜#美股资讯# #SpaceX# #股价波动# - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRnFJWjc2MlFlWkFUaXpyeEw2d0RCSGE1M2ZBX2JKcE5GS3lzakxYal9HRmUwNi1WeDVPMXJRWEVKVkNaNzhuajF4WjIzcmdYTzNoUnhsbFVzSHFUZkdIYnA1QUlRcFRjaExMYUVNZ3lqN1czcjFKSmg4bEtxQl9UM016NUc1UFgwTTFuQg",
@@ -926,6 +986,31 @@
    "zh_summary": "SpaceX拟融资400亿美元采购英伟达芯片",
    "title_zh": "美股讯号 | SpaceX 拟融资 400 亿美元采购英伟达芯片，股价下跌 1.78% ｜#美股资讯# #SpaceX# #股价波动# - 搜狐网",
    "sentiment": -1
+  },
+  {
+   "id": "491c3ef95b41",
+   "title": "【美股盘前】SpaceX跌超1%，拟融资400亿美元采购英伟达芯片；派拉蒙完成对华纳兄弟探索收购，新公司更名Skydance；谷歌与Constellation达成3590兆瓦长期购电协议 - 每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUUEE2U1VXRUN5Y2pRY2ZVM1A0Y2szVzloTkxMeVNkcU5DdjYxSnA4OC1sWnBFbUlCblpFMFBaRzdOcGpYbGc0TW9kS01rYXNRN0lucGx3dENnWXlSdWFKNXFJU3lZdw",
+   "source": "每日经济新闻",
+   "published_at": "2026-10-07T09:28:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "每日经济新闻",
+     "published_at": "2026-10-07T09:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUUEE2U1VXRUN5Y2pRY2ZVM1A0Y2szVzloTkxMeVNkcU5DdjYxSnA4OC1sWnBFbUlCblpFMFBaRzdOcGpYbGc0TW9kS01rYXNRN0lucGx3dENnWXlSdWFKNXFJU3lZdw"
+    },
+    {
+     "name": "https://www.mrjjxw.com/",
+     "published_at": "2026-10-07T09:28:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55Z0pFN1lDZWZwTnNYV2tPX0hUYTV0cEo1enFxZHl4bkZocV8wTHY1ZjkzazNOS1BNRF96LWJlaFVzak1GS1FqLTIxeVFkRUZRM1FQYi1heERQSVkyY2ptLVFuazQxQQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前",
+   "zh_summary": "SpaceX拟融资400亿美元采购英伟达芯片",
+   "title_zh": "【美股盘前】SpaceX跌超1%，拟融资400亿美元采购英伟达芯片；派拉蒙完成对华纳兄弟探索收购，新公司更名Skydance；谷歌与Constellation达成3590兆瓦长期购电协议 - https://www.mrjjxw.com/",
+   "sentiment": 1
   },
   {
    "id": "2dbef41228b3",
@@ -955,7 +1040,11 @@
    "session": "盘前",
    "zh_summary": "英伟达董事史蒂文斯减持居榜首",
    "title_zh": "AI富豪三季度大举减持，英伟达董事马克·史蒂文斯居榜首 - 富途牛牛",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.1
+   }
   },
   {
    "id": "c622b1445c10",
@@ -1616,7 +1705,11 @@
    "breaking": true,
    "zh_summary": "英伟达距首家6万亿美元市值仅差4%",
    "title_zh": "英伟达距成为首家6万亿美元公司仅差4%，历史表明里程碑本身说明不了多少",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.1
+   }
   },
   {
    "id": "17aa43cc8daf",
@@ -1932,7 +2025,11 @@
    "breaking": true,
    "zh_summary": "英伟达创历史新高，是否值得买入",
    "title_zh": "英伟达股价创历史新高，该AI股票值得买入吗？",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.1
+   }
   },
   {
    "id": "54f7c4d9b59d",
@@ -2112,7 +2209,11 @@
    "session": "盘后",
    "zh_summary": "对比应用材料与英伟达营收趋势",
    "title_zh": "应用材料 vs 英伟达：营收趋势揭示的AI公司对比",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.1
+   }
   },
   {
    "id": "2a54ab3c602c",
@@ -2265,7 +2366,7 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelk1VmhBcFVqRmpRQndWdklsTm1EVVZmaHk4REFBRXk1WmJYdDMxUDBxSEFkNHl1YWs2OUNCU1ZDWXRVcG9XaGJzR2JHaFUtLXlNaHZTZVNxQjN2NGkzTW5jczlfZXN1S3ppd0ttdnJZemtvM3llR25xOUVvSVMxY3hPd1dtaEtVV2NRNXN4eU5wMG4zUjNxWW9WTEFHT2l4V1p5OE1oODNoVE45bXJGZUQ1SQ",
    "source": "Bloomberg.com",
    "published_at": "2026-10-06T22:57:42+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "Bloomberg.com",
@@ -2286,13 +2387,22 @@
      "name": "Techzine Global",
      "published_at": "2026-10-07T10:47:19+00:00",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZzIxZktwSjluMmU0dDFzcU5WZ2JQR1hzc09MUVB4ZEZOWlp5V2tBdXJUTnJFOE5nUXNJaENBaEhPa0xUUDVvWV9MeTdDN0pRNkdqRkNLTjE3Tkc0X0JGNk81SnA5VDlXazBzVHNYZlBfbk5HVjFiRzZWTjdZUHZVTGJaai1IWnlaMFhGQkRUbVNxNFd0TUdiNzg3cXZxQkNvdGo0Tw"
+    },
+    {
+     "name": "Yahoo Finance UK",
+     "published_at": "2026-10-07T13:21:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXo0c096VnUwc3JJUEZ2VDVreFVoaFd0blVzbnBpT3ZSRW5nMlpnSC1WYmtlZ3d6TkZXSDFyWjN0eGN6M3Z6WnJmaHlYUnJqb1hxdFBpV3Nkc0g2VjMzbnlLZTJ1RWRmZ1FocFpBSnlMYzk4eXNLZi1LT3R4X19UMDFDbUJSWHlz"
     }
    ],
    "category": "产品技术",
    "session": "盘后",
    "zh_summary": "SpaceX洽谈借款400亿美元买英伟达芯片",
    "title_zh": "马斯克SpaceX洽谈借款400亿美元购买英伟达芯片",
-   "sentiment": 2
+   "sentiment": 2,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.1
+   }
   },
   {
    "id": "49f181b932fc",
@@ -2492,7 +2602,11 @@
    "session": "盘后",
    "zh_summary": "SpaceX拟筹400亿美元采购英伟达芯片",
    "title_zh": "SpaceX计划筹集400亿美元采购英伟达芯片（FT报道）",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.1
+   }
   },
   {
    "id": "4a21eb11a341",
@@ -2522,7 +2636,11 @@
    "session": "盘后",
    "zh_summary": "SpaceX计划募资400亿美元购英伟达芯片",
    "title_zh": "消息称SpaceX计划募资400亿美元，用于采购英伟达AI芯片 - 凤凰网科技",
-   "sentiment": 2
+   "sentiment": 2,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.1
+   }
   },
   {
    "id": "ac76329ed6a1",
@@ -2577,7 +2695,11 @@
    "session": "盘后",
    "zh_summary": "SpaceX拟融资400亿美元购英伟达芯片",
    "title_zh": "SpaceX拟融资400亿美元采购英伟达芯片（FT报道）",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.1
+   }
   },
   {
    "id": "cc8ca414a0e5",
@@ -2607,7 +2729,11 @@
    "session": "盘后",
    "zh_summary": "英伟达支持的Lambda拟融资40亿美元冲刺IPO",
    "title_zh": "AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO - 新浪网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.1
+   }
   },
   {
    "id": "d814d0ad9939",
@@ -2648,7 +2774,11 @@
    "breaking": true,
    "zh_summary": "SpaceX拟筹400亿美元采购英伟达芯片",
    "title_zh": "SpaceX计划筹集400亿美元以采购英伟达芯片 - 东方财富",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.1
+   }
   },
   {
    "id": "cc7efe93af0b",
@@ -7302,121 +7432,6 @@
    "zh_summary": "分析师看多英伟达，股价创历史新高",
    "title_zh": "Dan Ives支持英伟达多头论，股价创新高",
    "sentiment": 1
-  },
-  {
-   "id": "5a508b02f75b",
-   "title": "英伟达美股连续3天创历史新高 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjRFc3NmRzM1M3ZsUTBsMjAtUERSY2JlRFRqMVlKeDV0TmVRV0pwRFdsVWMybXFVd0wzS255clN5OFNfZUFKNUpVcllydkJXZ183WUJ5NkRnSkYyQXhxRFYwTFFHcUREQUNDVmY4RWNNV1hkVWZEdDdlMkNYSFlkYWVwdURNejBIREFTdQ",
-   "source": "搜狐网",
-   "published_at": "2026-10-06T03:09:06+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-06T03:09:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjRFc3NmRzM1M3ZsUTBsMjAtUERSY2JlRFRqMVlKeDV0TmVRV0pwRFdsVWMybXFVd0wzS255clN5OFNfZUFKNUpVcllydkJXZ183WUJ5NkRnSkYyQXhxRFYwTFFHcUREQUNDVmY4RWNNV1hkVWZEdDdlMkNYSFlkYWVwdURNejBIREFTdQ"
-    },
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-06T03:09:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjRFc3NmRzM1M3ZsUTBsMjAtUERSY2JlRFRqMVlKeDV0TmVRV0pwRFdsVWMybXFVd0wzS255clN5OFNfZUFKNUpVcllydkJXZ183WUJ5NkRnSkYyQXhxRFYwTFFHcUREQUNDVmY4RWNNV1hkVWZEdDdlMkNYSFlkYWVwdURNejBIREFTdQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达美股连续3天创历史新高",
-   "title_zh": "英伟达美股连续3天创历史新高",
-   "sentiment": 1
-  },
-  {
-   "id": "47513cd4d708",
-   "title": "英伟达锁定2027年全球约37.3%HBM供应 长期承诺达2790亿美元 - guandian.cn",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UM1U5VWxUSWZSMm9JVmNrbTJaRElvNU9vVVlxbkgwamRCWnpmbHJ3N0VXRzY0SllPVGZJSHI2SkhzMUhXdGRRU1VaTWR4TkxTQTRVbjl2R1prcks1UkhHMkxR",
-   "source": "guandian.cn",
-   "published_at": "2026-10-06T03:00:58+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "guandian.cn",
-     "published_at": "2026-10-06T03:00:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UM1U5VWxUSWZSMm9JVmNrbTJaRElvNU9vVVlxbkgwamRCWnpmbHJ3N0VXRzY0SllPVGZJSHI2SkhzMUhXdGRRU1VaTWR4TkxTQTRVbjl2R1prcks1UkhHMkxR"
-    },
-    {
-     "name": "观点网",
-     "published_at": "2026-10-06T03:00:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UM1U5VWxUSWZSMm9JVmNrbTJaRElvNU9vVVlxbkgwamRCWnpmbHJ3N0VXRzY0SllPVGZJSHI2SkhzMUhXdGRRU1VaTWR4TkxTQTRVbjl2R1prcks1UkhHMkxR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达锁定2027年37.3%HBM供应",
-   "title_zh": "英伟达锁定2027年全球约37.3%HBM供应 长期承诺达2790亿美元",
-   "sentiment": 2
-  },
-  {
-   "id": "dd47530de9b2",
-   "title": "Prediction: Nvidia Will Hit a $10 Trillion Market Cap by the End of 2028 - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkxDWUdhbWJxSG5SMk9mUDZCb08wOS1nZXdnS1JPVTJUMHY3NkJ2M3B2Mm1xT25pRVZnZkM5aGtpTzh5V0NwUGRpWXRDUkRBeTZleERQR1NrYkVkQk1RWlZSdEFjaGJ0RFp4alpwMFB0Rml4WnNwWEc2aHEtekltVXVoOFR1blo5Y25RdXZEMmV3RHVsSV9UYg",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-06T02:53:03+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-06T02:53:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkxDWUdhbWJxSG5SMk9mUDZCb08wOS1nZXdnS1JPVTJUMHY3NkJ2M3B2Mm1xT25pRVZnZkM5aGtpTzh5V0NwUGRpWXRDUkRBeTZleERQR1NrYkVkQk1RWlZSdEFjaGJ0RFp4alpwMFB0Rml4WnNwWEc2aHEtekltVXVoOFR1blo5Y25RdXZEMmV3RHVsSV9UYg"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T03:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQektqcng2SkZBc1NyMnNaa3RqcDNILVBSWkJYa0hCbVhOTy1nVi0tN0lrb0lMSkgtSE9DVDVYaVZYRXBrWEtTZTNHYnBFbVd2LVcwN0ZDMG12Ymo3bjkyUjl6d3hpU1RZUk5iR1k1OW5mSkg2U1NpdnRDTkVKVXB1WWNWVTNmSU9ZMkxUOVFMWEZZUzFKTGlzQllkemozbUU"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-06T03:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVFQ3QnIwZ1IxbF9ON1QxU3RoVlJTUENUWnA5QzdpWmhLckRVM1JMV0VPYXZzcEFxWTBMOVBsb3llbk5mUk1OUjVKc3FMcm1hU0xTbm1nRHRWTXJhNkIwTXpMWU5ibkNvV3pMdTI3MDRkenJhYjl3WDJmTFVUR0M0dTU5QQ"
-    },
-    {
-     "name": "fool.com",
-     "published_at": "2026-10-06T03:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkxDWUdhbWJxSG5SMk9mUDZCb08wOS1nZXdnS1JPVTJUMHY3NkJ2M3B2Mm1xT25pRVZnZkM5aGtpTzh5V0NwUGRpWXRDUkRBeTZleERQR1NrYkVkQk1RWlZSdEFjaGJ0RFp4alpwMFB0Rml4WnNwWEc2aHEtekltVXVoOFR1blo5Y25RdXZEMmV3RHVsSV9UYg"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-06T03:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQektqcng2SkZBc1NyMnNaa3RqcDNILVBSWkJYa0hCbVhOTy1nVi0tN0lrb0lMSkgtSE9DVDVYaVZYRXBrWEtTZTNHYnBFbVd2LVcwN0ZDMG12Ymo3bjkyUjl6d3hpU1RZUk5iR1k1OW5mSkg2U1NpdnRDTkVKVXB1WWNWVTNmSU9ZMkxUOVFMWEZZUzFKTGlzQllkemozbUU"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘后",
-   "breaking": true,
-   "zh_summary": "预测英伟达2028年市值达10万亿美元",
-   "title_zh": "预测：英伟达市值将在2028年底达10万亿美元",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.14,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "d37386e32c07",
-   "title": "NVIDIA’s Record High Raises a Bigger Question About How Far the Rally Can Run - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlJtX2hoSzhCb1hRMjY2V2hyZ3ZlMF93dTNfbXMwcVpwanVNZ1NqV0l3dTI5MHh5MHBHSWl1S1pIMTI0dHNyVVQwRU5lM2tyWXl4VS1XVDFyOGtmcjJUQUk2U0ktOTN5RXJtZ1FfQVI1MFdHWUVVUHRXcFlGOElaamEzUHpzZVhXREFYeXV4dWRaZUVlZm9mbVNaSlF6WG9qWHJodXJZV3g1UjZaamUxa09FWQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-06T02:42:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-06T02:42:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlJtX2hoSzhCb1hRMjY2V2hyZ3ZlMF93dTNfbXMwcVpwanVNZ1NqV0l3dTI5MHh5MHBHSWl1S1pIMTI0dHNyVVQwRU5lM2tyWXl4VS1XVDFyOGtmcjJUQUk2U0ktOTN5RXJtZ1FfQVI1MFdHWUVVUHRXcFlGOElaamEzUHpzZVhXREFYeXV4dWRaZUVlZm9mbVNaSlF6WG9qWHJodXJZV3g1UjZaamUxa09FWQ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘后",
-   "title_zh": "英伟达创新高后涨势能走多远引关注",
-   "zh_summary": "英伟达创纪录新高，涨势持续性存疑",
-   "sentiment": 0
   }
  ]
 }
