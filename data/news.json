@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T01:52:38.071493+00:00",
+ "updated_at": "2026-10-07T02:07:22.650986+00:00",
  "market": {
   "price": 239.24,
   "change_pct": 0.14,
@@ -10,8 +10,8 @@
    "days_left": 42
   },
   "day_sentiment": {
-   "avg": 0.67,
-   "count": 190
+   "avg": 0.68,
+   "count": 192
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.67（190条已评分）"
+     "note": "今日新闻情绪 +0.68（192条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.7,
    "ma20": 224.89,
-   "as_of": "2026-10-07T01:52:38.061977+00:00"
+   "as_of": "2026-10-07T02:07:22.636213+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "28678684ef05",
+   "title": "SpaceX Seeks $40 Billion, Led By Apollo, to Buy Nvidia Chips - SpaceX (NASDAQ:SPCX) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWl9WQlQ2T3Brd1lqVkpFTGNRU0t6NjJ4VkRnN3JYc0Q4dGs5SFQ2di1WVEZFT2ZLcWkzX2Vxc1BsZGVlSVNjbGs3UklrZVdRbko3a3VEb2thRldUeHdxeklxa0E5d2g1T2s4NUVLVzFaekZ3YTlfRU82dHJuUURwOWl0NkdSek5xN3JsbEdyMzRkZm53bFJtWTVVeFp0LUtVQVE",
+   "source": "Benzinga",
+   "published_at": "2026-10-07T01:49:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-07T01:49:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWl9WQlQ2T3Brd1lqVkpFTGNRU0t6NjJ4VkRnN3JYc0Q4dGs5SFQ2di1WVEZFT2ZLcWkzX2Vxc1BsZGVlSVNjbGs3UklrZVdRbko3a3VEb2thRldUeHdxeklxa0E5d2g1T2s4NUVLVzFaekZ3YTlfRU82dHJuUURwOWl0NkdSek5xN3JsbEdyMzRkZm53bFJtWTVVeFp0LUtVQVE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
   {
    "id": "cc07206547a7",
    "title": "纳指、英伟达连创新高！A股，节后怎么走？ - 搜狐网",
@@ -415,6 +432,23 @@
    "zh_summary": "SpaceX拟融资400亿美元买英伟达芯片",
    "title_zh": "SpaceX拟融资400亿美元购买英伟达芯片，Apollo牵头融资 - 新浪财经",
    "sentiment": 2
+  },
+  {
+   "id": "2bb1642260cc",
+   "title": "Musk’s SpaceX in Talks to Borrow $40 Billion to Buy Nvidia Chips - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelk1VmhBcFVqRmpRQndWdklsTm1EVVZmaHk4REFBRXk1WmJYdDMxUDBxSEFkNHl1YWs2OUNCU1ZDWXRVcG9XaGJzR2JHaFUtLXlNaHZTZVNxQjN2NGkzTW5jczlfZXN1S3ppd0ttdnJZemtvM3llR25xOUVvSVMxY3hPd1dtaEtVV2NRNXN4eU5wMG4zUjNxWW9WTEFHT2l4V1p5OE1oODNoVE45bXJGZUQ1SQ",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-06T22:57:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-06T22:57:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelk1VmhBcFVqRmpRQndWdklsTm1EVVZmaHk4REFBRXk1WmJYdDMxUDBxSEFkNHl1YWs2OUNCU1ZDWXRVcG9XaGJzR2JHaFUtLXlNaHZTZVNxQjN2NGkzTW5jczlfZXN1S3ppd0ttdnJZemtvM3llR25xOUVvSVMxY3hPd1dtaEtVV2NRNXN4eU5wMG4zUjNxWW9WTEFHT2l4V1p5OE1oODNoVE45bXJGZUQ1SQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "49f181b932fc",
@@ -7760,81 +7794,6 @@
    "zh_summary": "法巴上调英伟达目标价",
    "title_zh": "法国巴黎银行上调英伟达(NVDA)目标价，看好AI硬件需求",
    "sentiment": 1
-  },
-  {
-   "id": "3d9eec8cfdcc",
-   "title": "美股讯号 | OKX 提交文件，拟推出英伟达代币化股票交易平台 ｜#美股资讯# #英伟达# #市场事件# - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS014TzNnR0VZTl9VUU9EQi1oU05XZG1wRXNTOHNUMy1Nd3ZNNlAxQ0dmZEtUWjlqUklmZlNwb3ZVN2VuQ0JISWtkWkUzNGZkb1NORmpTNGpkUVZ2QmJKQVZ2aWJXS21TekUxUE01M3BSY0QtWnRmbW9Iemo1ZnFlQWp6ZkNTZ2t2ZzNrXw",
-   "source": "搜狐网",
-   "published_at": "2026-10-05T16:09:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-05T16:09:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS014TzNnR0VZTl9VUU9EQi1oU05XZG1wRXNTOHNUMy1Nd3ZNNlAxQ0dmZEtUWjlqUklmZlNwb3ZVN2VuQ0JISWtkWkUzNGZkb1NORmpTNGpkUVZ2QmJKQVZ2aWJXS21TekUxUE01M3BSY0QtWnRmbW9Iemo1ZnFlQWp6ZkNTZ2t2ZzNrXw"
-    },
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-05T16:09:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS014TzNnR0VZTl9VUU9EQi1oU05XZG1wRXNTOHNUMy1Nd3ZNNlAxQ0dmZEtUWjlqUklmZlNwb3ZVN2VuQ0JISWtkWkUzNGZkb1NORmpTNGpkUVZ2QmJKQVZ2aWJXS21TekUxUE01M3BSY0QtWnRmbW9Iemo1ZnFlQWp6ZkNTZ2t2ZzNrXw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "OKX拟推英伟达代币化股票",
-   "title_zh": "美股讯号 | OKX 提交文件，拟推出英伟达代币化股票交易平台 ｜#美股资讯# #英伟达# #市场事件# - 搜狐网",
-   "sentiment": 0
-  },
-  {
-   "id": "f481da94e657",
-   "title": "纳指盘中再创历史新高：SpaceX涨逾5%，英伟达涨超1%再度逼近历史新高 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGRkRGpBbkN5d0t0Y05Qcnh4bS1VcU05STdoVE92X1dlWmxwd2xsdk5oNXRwMkQwemNMd0FaY2dTRzlMTzdTRHhibVE1VW9VdDA5dW1CbGRuajhfTnpDaWlpdjNhdjNSX0NCNnEwMTJQRjZFSzl1YnFITHp6OXNlVWUxQ1RyM0cx",
-   "source": "搜狐网",
-   "published_at": "2026-10-05T16:08:34+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-05T16:08:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGRkRGpBbkN5d0t0Y05Qcnh4bS1VcU05STdoVE92X1dlWmxwd2xsdk5oNXRwMkQwemNMd0FaY2dTRzlMTzdTRHhibVE1VW9VdDA5dW1CbGRuajhfTnpDaWlpdjNhdjNSX0NCNnEwMTJQRjZFSzl1YnFITHp6OXNlVWUxQ1RyM0cx"
-    },
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-05T16:08:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGRkRGpBbkN5d0t0Y05Qcnh4bS1VcU05STdoVE92X1dlWmxwd2xsdk5oNXRwMkQwemNMd0FaY2dTRzlMTzdTRHhibVE1VW9VdDA5dW1CbGRuajhfTnpDaWlpdjNhdjNSX0NCNnEwMTJQRjZFSzl1YnFITHp6OXNlVWUxQ1RyM0cx"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-05T16:09:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZZkcwejhkb3dhaXJVZ3dRTlgyNGpILWRPak82SS0wSHJld2g5SFRyLWctT2FUY1B6Y2Q0OUNiUUtDYnpmS2thcmc1eEg"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-05T16:09:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wbGFod1g5czRJT3dmWThsZi0wS2pzQzdVZUpUMV9aSTBOZ0x6T1ZlNWVPOGFleTZRVUVOd2RrOVI3MXVWSHlnUA"
-    },
-    {
-     "name": "i.ifeng.com",
-     "published_at": "2026-10-05T16:09:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wbGFod1g5czRJT3dmWThsZi0wS2pzQzdVZUpUMV9aSTBOZ0x6T1ZlNWVPOGFleTZRVUVOd2RrOVI3MXVWSHlnUA"
-    },
-    {
-     "name": "tech.ifeng.com",
-     "published_at": "2026-10-05T16:09:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZZkcwejhkb3dhaXJVZ3dRTlgyNGpILWRPak82SS0wSHJld2g5SFRyLWctT2FUY1B6Y2Q0OUNiUUtDYnpmS2thcmc1eEg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "breaking": true,
-   "zh_summary": "英伟达涨超1%逼近历史新高",
-   "title_zh": "纳指盘中再创历史新高：SpaceX涨逾5%，英伟达涨超1%再度逼近历史新高 - 搜狐网",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.11,
-    "window_h": 1.2
-   }
   }
  ]
 }
