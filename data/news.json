@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T10:06:32.397507+00:00",
+ "updated_at": "2026-10-07T10:21:33.692769+00:00",
  "market": {
   "price": 239.24,
   "change_pct": 0.14,
@@ -10,12 +10,12 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 28
+   "avg": 0.47,
+   "count": 30
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（28条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.47（30条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.7,
    "ma20": 224.89,
-   "as_of": "2026-10-07T10:06:32.381681+00:00"
+   "as_of": "2026-10-07T10:21:33.681331+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "a0b11bf6e1df",
+   "title": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8",
+   "source": "Reuters",
+   "published_at": "2026-10-07T10:09:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-07T10:09:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "5f0f117b0a34",
+   "title": "Nvidia's AI-driven stock soars, with $1,000 in 2023 growing to $16,765 amid bullish outlook and some caution. - Pluang",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLWp3d2wtclVyM1QyOXQ5ZHVfTGR4bnJoeHRNSnF3U3hoMm1DS3VhYm9OOFVBckR4X0lFUTFPWUZMeEJ1UktSaUk1WEtONi1rZ2IybGhVS0o0bW9sdWZRZHFoeElfT0NoNEVRcTZlSzVUMGU5OWtKVTVveHVEb2lnaU44UGFrN2hDcTBj",
+   "source": "Pluang",
+   "published_at": "2026-10-07T10:07:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Pluang",
+     "published_at": "2026-10-07T10:07:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLWp3d2wtclVyM1QyOXQ5ZHVfTGR4bnJoeHRNSnF3U3hoMm1DS3VhYm9OOFVBckR4X0lFUTFPWUZMeEJ1UktSaUk1WEtONi1rZ2IybGhVS0o0bW9sdWZRZHFoeElfT0NoNEVRcTZlSzVUMGU5OWtKVTVveHVEb2lnaU44UGFrN2hDcTBj"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "afc516a19ed0",
    "title": "Top 10 Q3 insider stock sellers led by Nvidia’s Stevens, Jeff Bezos (NVDA:NASDAQ) - Seeking Alpha",
@@ -7557,51 +7591,6 @@
    "session": "盘后",
    "zh_summary": "英伟达台积电齐创历史新高",
    "title_zh": "成交额TOP20 | 英伟达、台积电齐创历史新高；SpaceX大涨近8%，助推马斯克身家再破万亿美元大关；Meta、微软设法减少员工对Claude依赖",
-   "sentiment": 1
-  },
-  {
-   "id": "4e07ff613838",
-   "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months - MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNnE1ZVh1NDBVSlYyZ21pR3VfNTFaaGpqMVN1aTBIUzgzalZZTDVwZkZ1ekZ2cTZfaTdKWURBOUEteTRPSDVnV2hCWUEtTUhXZl96cVVmUlVqN1pkQ2xyT0ZGbkw1NzJwa1ZZZmhBQ2FYcDZoSi1QUGc1Y1BkZXVXT29IcUZscjhXWk02RHlHOWtFRGh5eDBzZHlXYV9XYnR5eEh2YjhfcnZvMGF1LWdHNE94SG9PT0FxbWJQMlcySW5zaWlFTUdHQmZIck1uMVZrZUZxeg",
-   "source": "MarketWatch",
-   "published_at": "2026-10-05T21:52:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "MarketWatch",
-     "published_at": "2026-10-05T21:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNnE1ZVh1NDBVSlYyZ21pR3VfNTFaaGpqMVN1aTBIUzgzalZZTDVwZkZ1ekZ2cTZfaTdKWURBOUEteTRPSDVnV2hCWUEtTUhXZl96cVVmUlVqN1pkQ2xyT0ZGbkw1NzJwa1ZZZmhBQ2FYcDZoSi1QUGc1Y1BkZXVXT29IcUZscjhXWk02RHlHOWtFRGh5eDBzZHlXYV9XYnR5eEh2YjhfcnZvMGF1LWdHNE94SG9PT0FxbWJQMlcySW5zaWlFTUdHQmZIck1uMVZrZUZxeg"
-    },
-    {
-     "name": "marketwatch.com",
-     "published_at": "2026-10-05T21:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNnE1ZVh1NDBVSlYyZ21pR3VfNTFaaGpqMVN1aTBIUzgzalZZTDVwZkZ1ekZ2cTZfaTdKWURBOUEteTRPSDVnV2hCWUEtTUhXZl96cVVmUlVqN1pkQ2xyT0ZGbkw1NzJwa1ZZZmhBQ2FYcDZoSi1QUGc1Y1BkZXVXT29IcUZscjhXWk02RHlHOWtFRGh5eDBzZHlXYV9XYnR5eEh2YjhfcnZvMGF1LWdHNE94SG9PT0FxbWJQMlcySW5zaWlFTUdHQmZIck1uMVZrZUZxeg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达股价创数月新高后仍看涨",
-   "title_zh": "分析：英伟达股价创数月新高后仍有望继续走高",
-   "sentiment": 1
-  },
-  {
-   "id": "850054cb846f",
-   "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWM1Q4SlZ2X3NFbEpCc3FqZEQ0NjRRZWtFQV9IdnVWTWpZYk5MM2E2U0drZ09EWFJXbTZYcWw5UTNwR1cwR3NBZHlJUGsxQzFKdE9DbUtSYVdWRDlJM2FJMVRJNTc5WWc",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-05T21:41:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-05T21:41:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWM1Q4SlZ2X3NFbEpCc3FqZEQ0NjRRZWtFQV9IdnVWTWpZYk5MM2E2U0drZ09EWFJXbTZYcWw5UTNwR1cwR3NBZHlJUGsxQzFKdE9DbUtSYVdWRDlJM2FJMVRJNTc5WWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达博客：AI助力乳腺癌筛查治疗",
-   "title_zh": "从筛查到治疗，AI缩小乳腺癌诊疗差距",
    "sentiment": 1
   }
  ]
