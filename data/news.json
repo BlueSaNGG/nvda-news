@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T15:36:44.739031+00:00",
+ "updated_at": "2026-10-07T15:51:34.295241+00:00",
  "market": {
-  "price": 237.01,
-  "change_pct": -0.93,
+  "price": 237.73,
+  "change_pct": -0.63,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.64,
-   "count": 100
+   "avg": 0.6,
+   "count": 105
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 97% 分位（偏高）"
+     "note": "现价处于52周区间 98% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +34.0%"
+     "note": "目标价中位数 $318（14家），隐含空间 +33.6%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.64（100条已评分）"
+     "note": "今日新闻情绪 +0.60（105条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $237.01 vs 20日均线 $225.56"
+     "note": "现价 $237.73 vs 20日均线 $225.59"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 97,
+   "price_52w_pct": 98,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 34.0,
-   "ma20": 225.56,
-   "as_of": "2026-10-07T15:36:44.725426+00:00"
+   "implied_upside_pct": 33.6,
+   "ma20": 225.59,
+   "as_of": "2026-10-07T15:51:34.270747+00:00"
   },
-  "pe_ttm": 30.1,
+  "pe_ttm": 30.2,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+34.0%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+33.6%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "7a4121277aa0",
+   "title": "英伟达股价四个月来首创新高市值5.76万亿美元分析师看好继续上涨 - FX168财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42S2tQb0ZXbk5pSTdoR2pTMnZIQWJGeGJWR2prZ01MTmFpd1lzeWJRWmtyWWNCY3k3RjFBR1FBMW9nYWY4bGFmWFYwalRsUUxDUHVKWlFNa0FMU2h3TUpNaTMwV0dMQkt4TElCSTdheC1SWDhEcVBtWQ",
+   "source": "FX168财经",
+   "published_at": "2026-10-07T15:40:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FX168财经",
+     "published_at": "2026-10-07T15:40:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42S2tQb0ZXbk5pSTdoR2pTMnZIQWJGeGJWR2prZ01MTmFpd1lzeWJRWmtyWWNCY3k3RjFBR1FBMW9nYWY4bGFmWFYwalRsUUxDUHVKWlFNa0FMU2h3TUpNaTMwV0dMQkt4TElCSTdheC1SWDhEcVBtWQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
+  {
+   "id": "92d50f2df423",
+   "title": "传三星电子12Hi HBM4E内存已通过英伟达等主要客户质量验证测试 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjJFeDJYNzJIaUJaazBBZHhuRjBlOGk1aHhwVkJBeEJhRWRCcUczeHkzWXBhLUQ3QlZrQTZHcjJBZkQwVXBKcE1TLUloUnd4MnUyOFh3dnlaZTEzbHRDcm1pMGo2dXc1Y0hUMHMyTHBQcFo2T2J4MUR6b1Rsc1FrZWdsUmVvWVZm",
+   "source": "搜狐网",
+   "published_at": "2026-10-07T15:35:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-07T15:35:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjJFeDJYNzJIaUJaazBBZHhuRjBlOGk1aHhwVkJBeEJhRWRCcUczeHkzWXBhLUQ3QlZrQTZHcjJBZkQwVXBKcE1TLUloUnd4MnUyOFh3dnlaZTEzbHRDcm1pMGo2dXc1Y0hUMHMyTHBQcFo2T2J4MUR6b1Rsc1FrZWdsUmVvWVZm"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "ec6e2fea7f8d",
+   "title": "Nvidia Stock: Capitalize On The AI Chipmaker's Moves With This Spread Strategy - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGZ5cXlEM2c5SHRCa2l6TU1EbjlTSEtudm8zYThYZS1Remw1SUpwaWhJV1drZ0lneFlKVnA2UnFxMzJLZEhlbTc0YU13b0prd3ZybGRWeFg5N0hOYkp4cVRDaHFKQUplVHJ0Qkh1TVJDb05RdHVwRXByNGl4QlF4bTNfMXVIQ3VzLV96TV9jdnhRTVlnRTRzQUJzVDB5N1ZuVU0yLVdMbDFkTnVHSXZKNl9RSlFjV2I0",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-10-07T15:31:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-10-07T15:31:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGZ5cXlEM2c5SHRCa2l6TU1EbjlTSEtudm8zYThYZS1Remw1SUpwaWhJV1drZ0lneFlKVnA2UnFxMzJLZEhlbTc0YU13b0prd3ZybGRWeFg5N0hOYkp4cVRDaHFKQUplVHJ0Qkh1TVJDb05RdHVwRXByNGl4QlF4bTNfMXVIQ3VzLV96TV9jdnhRTVlnRTRzQUJzVDB5N1ZuVU0yLVdMbDFkTnVHSXZKNl9RSlFjV2I0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "ef4ac9b8e910",
    "title": "Nvidia-Groq’s “It’s Really Not a Merger” Business Deal Draws Delaware Fiduciary-Duty Suit - The National Law Review",
@@ -100,6 +151,23 @@
    "zh_summary": "Cerebras称英伟达750MW交易不受影响",
    "title_zh": "Cerebras：OpenAI与英伟达合作不影响750MW交易",
    "sentiment": 1
+  },
+  {
+   "id": "acf9da8591e8",
+   "title": "Opinion: Can carriers finally move up the stack? AT&T, Cisco and NVIDIA say AI changes the equation - Fierce Network",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1pSbVlINEhwY2k5aUhWSURyd1JGd05iNzlvZnI1LTZDUl9hVTlLOFVRd0hsVE5YWFFEM3NDZDE5Xy1CZjg2Z0lTUy1rMG9JNkl2MVJyQ294dGpJS0U1TGk0OTZGX0lUZHpSM0ZPS2lHWmJmb09mU3ROWVY1UWxWTEx5SVRoRWp0c2J0S1BDZXItT3YzS1QwcmJta1dsU2U5LWM4MDhOM3Q0QVgzYnNWSkhoVQ",
+   "source": "Fierce Network",
+   "published_at": "2026-10-07T15:17:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Fierce Network",
+     "published_at": "2026-10-07T15:17:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1pSbVlINEhwY2k5aUhWSURyd1JGd05iNzlvZnI1LTZDUl9hVTlLOFVRd0hsVE5YWFFEM3NDZDE5Xy1CZjg2Z0lTUy1rMG9JNkl2MVJyQ294dGpJS0U1TGk0OTZGX0lUZHpSM0ZPS2lHWmJmb09mU3ROWVY1UWxWTEx5SVRoRWp0c2J0S1BDZXItT3YzS1QwcmJta1dsU2U5LWM4MDhOM3Q0QVgzYnNWSkhoVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "cf7a94abb492",
@@ -167,12 +235,17 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUNFTk55VkhkLW1KMDR4QXppd3otQUt1V2s1N0FvZVRqMl9mVlhWRy1Sd1pmcFdnQk5fU1NkdWJJNlhyWmZDMXpzMHdYeThuQmliS29mdXcyd1VNSVRHb01MSWhZaHg4Ni1DaWJSMW9wcmVudVZEOExZcDBSaFZTY29FZXd1SHk5aVRFYzdGT1psYVQyVXFGeDhwNXhiZklMNDRTTEZTY09IMC1WeHdTdDZ1ZkI",
    "source": "TradingView",
    "published_at": "2026-10-07T14:59:45+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TradingView",
      "published_at": "2026-10-07T14:59:45+00:00",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUNFTk55VkhkLW1KMDR4QXppd3otQUt1V2s1N0FvZVRqMl9mVlhWRy1Sd1pmcFdnQk5fU1NkdWJJNlhyWmZDMXpzMHdYeThuQmliS29mdXcyd1VNSVRHb01MSWhZaHg4Ni1DaWJSMW9wcmVudVZEOExZcDBSaFZTY29FZXd1SHk5aVRFYzdGT1psYVQyVXFGeDhwNXhiZklMNDRTTEZTY09IMC1WeHdTdDZ1ZkI"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-07T14:59:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmkxZ2RxZFJ5OVBpVC14ZUMxWkZtVHRmb1pLU3I1M3hXZnRwTXBrcDJWNzRnZ0V2ejdCY2ljNGRwWHQ0VlZoeVNBMFhGcmR5dFJrc1drdHVBRzB6Tks3LWp1Z2gtdXRxN0k0Wm5oUXRLaHo3UlpoV1NiTnF6a1lidGVtT1Z1d0RtT3lqZktlT2dQUXRaUnZ3"
     }
    ],
    "category": "其他",
@@ -187,12 +260,17 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdV9zYy1LaDkxdDFHNGVBSm1NVV9mQ2R1bjFJSjlpSHZkTm1DUU1KdEtBblVyUmFnOXJJSlp2emdqT2twQXNMYXF3R0c3bm55M3U2MGJNS1A3M0RsNkRoa1JpOUJFWEQxSDBja3EyS0J3YWpTVjU4Q2ppVUtNb2Y1Y0h3elN0M2duNzhBMXF5Um1oYUo0QlZXekhOTTk",
    "source": "Yahoo Finance",
    "published_at": "2026-10-07T14:51:08+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-07T14:51:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdV9zYy1LaDkxdDFHNGVBSm1NVV9mQ2R1bjFJSjlpSHZkTm1DUU1KdEtBblVyUmFnOXJJSlp2emdqT2twQXNMYXF3R0c3bm55M3U2MGJNS1A3M0RsNkRoa1JpOUJFWEQxSDBja3EyS0J3YWpTVjU4Q2ppVUtNb2Y1Y0h3elN0M2duNzhBMXF5Um1oYUo0QlZXekhOTTk"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-07T14:51:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcG91d1JUSHJtdENYVkFQck9SbURZaC1pQWZqMVZWZENrdy0zVmkxWmFHV09oTjR4YVNwRWZyc3YtVDk5TkwwMk9MLTdnbm9CbVFMbFBKYUw2azFNbTZ0MjloWFlNb1dwMGpSOURjRl9RYnVyX3MwbWNqcUc0dldpb2kyUmkxVG9CUVpfTDhlUVNXcXRkUVdILW1fWGtOdHlpakdJOGZ3QUZCbEtERmZYZDRhZ2FCLW03ZnUxUzh3"
     }
    ],
    "category": "其他",
@@ -1060,6 +1138,23 @@
    "zh_summary": "因400亿美元事项与SpaceX共同引关注",
    "title_zh": "SpaceX和英伟达因400亿美元事项成新闻焦点",
    "sentiment": 0
+  },
+  {
+   "id": "9e401d12e174",
+   "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Apple, Tesla, Marvell, Flutter, Micron & more - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1NZYlhoSmJLS190RnM3MS1ETl9ZTlkyLW1TYnJucVZnNlhzMEVvcFNhaGlfTjBvMVhlc2otaGNaMExveUtBWHJUdXRab3pZd3JsNVdBX3NDaHJfSHh2bVd0dkNQZ2ZWeGFrZnFzT3RMZ2ZhTGIyVGFzYVpMb2JXNi1lLXQ1R0M4RDNkWURn",
+   "source": "CNBC",
+   "published_at": "2026-10-07T12:01:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-07T12:01:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1NZYlhoSmJLS190RnM3MS1ETl9ZTlkyLW1TYnJucVZnNlhzMEVvcFNhaGlfTjBvMVhlc2otaGNaMExveUtBWHJUdXRab3pZd3JsNVdBX3NDaHJfSHh2bVd0dkNQZ2ZWeGFrZnFzT3RMZ2ZhTGIyVGFzYVpMb2JXNi1lLXQ1R0M4RDNkWURn"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "73668edeac84",
@@ -2312,6 +2407,23 @@
    "zh_summary": "SpaceX计划采购400亿美元英伟达芯片",
    "title_zh": "SpaceX计划采购400亿美元英伟达芯片，亚洲股市接近历史高位",
    "sentiment": 2
+  },
+  {
+   "id": "44307e458bba",
+   "title": "华为徐直军：昇腾中国市场份额已超英伟达 中国芯片自主化是必然之路 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0SzFncVRMOGZmSHQwdlBQdVp2c3QxckdwaXJPTk1vcWU3WGFYUUtqSzFEVHdERXBWaUxCZmhjRzBSQ1EtWmdtMXdJaUoxcjU4OHlaWkNlM3I5bFJTaHpnV0VVaDVGU1BkWWlvazQzTVhuOWlVN0ZkcHA3cEtGdw",
+   "source": "新浪网",
+   "published_at": "2026-10-07T04:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-07T04:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0SzFncVRMOGZmSHQwdlBQdVp2c3QxckdwaXJPTk1vcWU3WGFYUUtqSzFEVHdERXBWaUxCZmhjRzBSQ1EtWmdtMXdJaUoxcjU4OHlaWkNlM3I5bFJTaHpnV0VVaDVGU1BkWWlvazQzTVhuOWlVN0ZkcHA3cEtGdw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "8eda0cfbed68",
@@ -5421,6 +5533,23 @@
    "sentiment": 1
   },
   {
+   "id": "0e72f1f4d3f6",
+   "title": "Nvidia Soars Near $6 Trillion Market Cap With Stock Back at High - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaC1sSmpWVUxkVXZSLXM3dWU5azIzMFRlZjRMMllaNGVMZGp2MmhxMDVWOVlNdS1JaE5OSU4tUTZGV2hRVG1VQ00yVmJLRHRFTE9JRHRRRkxnR3Z0eXh5SWMzMjc0TGM0MlJKZ3Q0Qm5tQ2JRcG5UTG1HVEdHY256dkRFX3Ywc1JObE00empFNjRIM19seXlSSWRyYmlkSkg3VUdpVU9fb25jUjJGaWJGR3BzaVE",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-06T13:38:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-06T13:38:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaC1sSmpWVUxkVXZSLXM3dWU5azIzMFRlZjRMMllaNGVMZGp2MmhxMDVWOVlNdS1JaE5OSU4tUTZGV2hRVG1VQ00yVmJLRHRFTE9JRHRRRkxnR3Z0eXh5SWMzMjc0TGM0MlJKZ3Q0Qm5tQ2JRcG5UTG1HVEdHY256dkRFX3Ywc1JObE00empFNjRIM19seXlSSWRyYmlkSkg3VUdpVU9fb25jUjJGaWJGR3BzaVE"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
    "id": "3ccd59b7f92e",
    "title": "英伟达股价上涨1.3%，创历史新高。 - 手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5USGl4V3gtekZZZlVvc0tyb1NyZjUtMGNHRm1rSkE5TUNld3ZQMG1Wa3NSaDc4NTdPMFhGYkZSdnJmSTVyUW9YcHp3cw",
@@ -7056,214 +7185,6 @@
    "zh_summary": "英伟达市值将触及6万亿美元",
    "title_zh": "英伟达市值即将达到6万亿美元",
    "sentiment": 1
-  },
-  {
-   "id": "5df982acae35",
-   "title": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy Now? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVnZfb0RWUEs4aUNKZ2VHNVZGWWdxb2V6NU4wclNhX2ZnRl9KZ0FfSkdDQ094bTBkOXhtYkFydndUdE11Z2hrNWhpaDQyUnBnS1YzZFk1c19DNElkNk51NS1iZjJCakhPMzFLZVFQQ19YN1V6Mk1abUtlTmxkcnNtc0FZN1NSVEFqdnkzMThPSUVWQVk3",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-06T10:01:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T10:01:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVnZfb0RWUEs4aUNKZ2VHNVZGWWdxb2V6NU4wclNhX2ZnRl9KZ0FfSkdDQ094bTBkOXhtYkFydndUdE11Z2hrNWhpaDQyUnBnS1YzZFk1c19DNElkNk51NS1iZjJCakhPMzFLZVFQQ19YN1V6Mk1abUtlTmxkcnNtc0FZN1NSVEFqdnkzMThPSUVWQVk3"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "对比英伟达与博通哪只更值得买",
-   "title_zh": "英伟达对比博通：现在哪只AI芯片股更值得买",
-   "sentiment": 0
-  },
-  {
-   "id": "d624fab0944b",
-   "title": "Nvidia Shield TV Pro Now Costs $100 More Than It Did 7 Years Ago - PCMag",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGlxRXhvYUhfd1JnVkZ1RGdkZkVBa21PWS1od29JLXFlSXFNWUh3X2lCVXNWYVdyRllHcjJaYWlleHg2OFB0NlVXY0JsUC1IZ3gzLUEzcjJYWmJ2bmk5cFVBMHlTVUxnN1FmM1g4eG1OQURkeFVBWXpoaVJGdm1zRTdleVFTS2lQYkR4d0lSSjYyOXBJ",
-   "source": "PCMag",
-   "published_at": "2026-10-06T09:47:14+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "PCMag",
-     "published_at": "2026-10-06T09:47:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGlxRXhvYUhfd1JnVkZ1RGdkZkVBa21PWS1od29JLXFlSXFNWUh3X2lCVXNWYVdyRllHcjJaYWlleHg2OFB0NlVXY0JsUC1IZ3gzLUEzcjJYWmJ2bmk5cFVBMHlTVUxnN1FmM1g4eG1OQURkeFVBWXpoaVJGdm1zRTdleVFTS2lQYkR4d0lSSjYyOXBJ"
-    },
-    {
-     "name": "pcmag.com",
-     "published_at": "2026-10-06T09:47:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGlxRXhvYUhfd1JnVkZ1RGdkZkVBa21PWS1od29JLXFlSXFNWUh3X2lCVXNWYVdyRllHcjJaYWlleHg2OFB0NlVXY0JsUC1IZ3gzLUEzcjJYWmJ2bmk5cFVBMHlTVUxnN1FmM1g4eG1OQURkeFVBWXpoaVJGdm1zRTdleVFTS2lQYkR4d0lSSjYyOXBJ"
-    },
-    {
-     "name": "PCMag Middle East",
-     "published_at": "2026-10-07T04:09:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVVR3VGNQajM2eDJOLVNZX29Bam55dk5Wb1JobWE5d1NoRE84QWpMazdMSzdtMjNkc2syWlNwZVcwQndLTGFrT0tMYXNBYmdtQlNOa191a1lZMmdDRTlDYUFFbDVqVmhvdWVPa1FsRHZPa2NaTDVlZFZsYUFvYUZMMUYyRlhZdTdjaHh0Mmd2emlfX2M3cmtfTjQxTGFBT0Q5bk00amVzYUNNdjlTNmloQmtiS1luc2tPVGlkRTJB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达Shield TV Pro涨价100美元",
-   "title_zh": "英伟达Shield TV Pro涨价100美元，比7年前贵",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.09,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "e16b82fc9310",
-   "title": "NVDA Stock Bucks Selloff Premarket On SpaceX Boost, Foxconn’s Sales Update - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ1BhVk5SS2pwdGRmM1l6aHBRMUtKTnZCemdjT1BqTzhTVThPQVpYTk1JbFhkeWxVTUJkZzJtZF96S0JFMDkwRXJhNVpNUkswV1pnWklfaUZnVzhWTWFqLUlYMGU1V2t1RzFSbXFrYlpjYmRoSFJqSHBlU251N3g2MzZudEdvMFVOWGV2cF96RFVhZW50Tk5hTDhUcHpJd3dUVkNPUWkxZnQ0YzJyNTdtRU14YlBzZnVRSXdjajN4eXhneVVOWnNDY0ZFallEQ1dFc0l2Xw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-06T09:45:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-06T09:45:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ1BhVk5SS2pwdGRmM1l6aHBRMUtKTnZCemdjT1BqTzhTVThPQVpYTk1JbFhkeWxVTUJkZzJtZF96S0JFMDkwRXJhNVpNUkswV1pnWklfaUZnVzhWTWFqLUlYMGU1V2t1RzFSbXFrYlpjYmRoSFJqSHBlU251N3g2MzZudEdvMFVOWGV2cF96RFVhZW50Tk5hTDhUcHpJd3dUVkNPUWkxZnQ0YzJyNTdtRU14YlBzZnVRSXdjajN4eXhneVVOWnNDY0ZFallEQ1dFc0l2Xw"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "NVDA盘前逆市上涨",
-   "title_zh": "NVDA盘前逆市走强，SpaceX与富士康消息提振",
-   "sentiment": 1
-  },
-  {
-   "id": "d2ef72ac3fa6",
-   "title": "NVIDIA surges toward $6 trillion! Stock price hits record high, yet valuation nears decade-low - news.futunn.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHJYdjFLaFhhYjhUMGdYWE1aeHB6VkFOYW52ZG5jb01TeEdDVDZTNmswbWM1bHdxUDJ4SjQ1dFZmX255UkN6Q3N5QmZyYjNfem82NXFrYUFTdnpPYU1KaUViVHNUSGM1Y1RhTFJrcTEySlhvWjNFM0FmWFMwV3pvemVDdXF0LWx4WFFmTG5DNVZiNXlBZU9VZmctd0RZTTFQT0xzakxB",
-   "source": "news.futunn.com",
-   "published_at": "2026-10-06T09:42:11+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "news.futunn.com",
-     "published_at": "2026-10-06T09:42:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHJYdjFLaFhhYjhUMGdYWE1aeHB6VkFOYW52ZG5jb01TeEdDVDZTNmswbWM1bHdxUDJ4SjQ1dFZmX255UkN6Q3N5QmZyYjNfem82NXFrYUFTdnpPYU1KaUViVHNUSGM1Y1RhTFJrcTEySlhvWjNFM0FmWFMwV3pvemVDdXF0LWx4WFFmTG5DNVZiNXlBZU9VZmctd0RZTTFQT0xzakxB"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-06T09:42:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaHJYdjFLaFhhYjhUMGdYWE1aeHB6VkFOYW52ZG5jb01TeEdDVDZTNmswbWM1bHdxUDJ4SjQ1dFZmX255UkN6Q3N5QmZyYjNfem82NXFrYUFTdnpPYU1KaUViVHNUSGM1Y1RhTFJrcTEySlhvWjNFM0FmWFMwV3pvemVDdXF0LWx4WFFmTG5DNVZiNXlBZU9VZmctd0RZTTFQT0xzakxB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达股价创历史新高，冲向6万亿美元",
-   "title_zh": "英伟达冲向6万亿美元！股价创新高，估值近十年最低",
-   "sentiment": 1
-  },
-  {
-   "id": "bb391ed45d6e",
-   "title": "英伟达冲向6万亿美元！股价创纪录，估值却接近十年最低 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjBCQ0lxWmoxZ2dFeFNPc0k1amU1b1JLWVVFUjRDa3dIeS0wVzNfRmNYcXVPUVhmYmN4andSd2VBcXBKZDRJd3ZNSDBVMFhZemdERGlhOWhPMVFFTTZfUlRfOThMdlQ3dGNZMENGRGlBWmpVRHV5ekc0WVN3NHRQdTJ1bVpEcUkyMkNXTkdwQnZkTFBBWURLZjJFczRXbEtsRmc",
-   "source": "富途牛牛",
-   "published_at": "2026-10-06T09:42:11+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-06T09:42:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjBCQ0lxWmoxZ2dFeFNPc0k1amU1b1JLWVVFUjRDa3dIeS0wVzNfRmNYcXVPUVhmYmN4andSd2VBcXBKZDRJd3ZNSDBVMFhZemdERGlhOWhPMVFFTTZfUlRfOThMdlQ3dGNZMENGRGlBWmpVRHV5ekc0WVN3NHRQdTJ1bVpEcUkyMkNXTkdwQnZkTFBBWURLZjJFczRXbEtsRmc"
-    },
-    {
-     "name": "hstong.com",
-     "published_at": "2026-10-06T09:56:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnV1U0cGk1MUFVaGh6ZzZlSEtOUzJNakp4LWJlV1o5bFI2eC1XM2pWeVF6bnhPZlktNEpFZ2ZqSTRPU2U4U1VwWUcyc1VGQVZIMlN3SlVvcThPS2tQX010SGJn"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-06T12:40:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnJPamxNMWZPTlI3NnFmX1RpYmxnUEQxZXhTRHBfdF9SZlVfVWRWTkxTTXJUM1RoVV9rcmRpOFFPSW5HeGpQcTRrcUpjTU54dlZKSFV6V1NqOUdmSmM4ZmJPbUM0THA0bTkxN0NXcDZDZVYyNnUxd2pid2ZQREN5bE1ka2p1QnJC"
-    },
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-06T12:40:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnJPamxNMWZPTlI3NnFmX1RpYmxnUEQxZXhTRHBfdF9SZlVfVWRWTkxTTXJUM1RoVV9rcmRpOFFPSW5HeGpQcTRrcUpjTU54dlZKSFV6V1NqOUdmSmM4ZmJPbUM0THA0bTkxN0NXcDZDZVYyNnUxd2pid2ZQREN5bE1ka2p1QnJC"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-06T12:40:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdnJPamxNMWZPTlI3NnFmX1RpYmxnUEQxZXhTRHBfdF9SZlVfVWRWTkxTTXJUM1RoVV9rcmRpOFFPSW5HeGpQcTRrcUpjTU54dlZKSFV6V1NqOUdmSmM4ZmJPbUM0THA0bTkxN0NXcDZDZVYyNnUxd2pid2ZQREN5bE1ka2p1QnJC"
-    },
-    {
-     "name": "金十数据",
-     "published_at": "2026-10-06T13:43:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Oa1pDaG5ic1Z4T2tHanBqcUUtMC1SS2JnWEUyeDdhUWg4ampMc2dNRGFTcTBpME1td0RwTVVGeE5zcWVCWUxrZWxuNnp2eFU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达股价创历史新高，冲向6万亿美元",
-   "title_zh": "英伟达冲向6万亿美元！股价创纪录，估值却接近十年最低 - 富途牛牛",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.14,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "b4dc2caa74f5",
-   "title": "Stocks to Watch: SpaceX, Nvidia, Lamb Weston, Uber - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYnFsdDdVSW85eXg3ZjJhRFpycVJBcUwtZ3hmYlItRnY4VGVyMFN0TE1wbWZhUHJGTHNTU0ZQdWc2OEtaMnpsSlgxaDZ4VTNPWFhfcHMtSUZTejB0NkdXaEI4NUFraG1HZ2ZfQ2ZxN2gxMGd4dmtjYjYxd0g0S3IycU5hWkFRX0xOdVhzTXZQOVZkRm4td2UtR2RnaVlCUU12UlNnZEF4cjUtcnY2ZERiNnM4T0ZCVXVPQlRNZEtJdWQySWZKeEFVd1dSYUlMOWUwQ21iazlBR1ZpX1QybWh1Y2x3",
-   "source": "WSJ",
-   "published_at": "2026-10-06T09:24:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-06T09:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYnFsdDdVSW85eXg3ZjJhRFpycVJBcUwtZ3hmYlItRnY4VGVyMFN0TE1wbWZhUHJGTHNTU0ZQdWc2OEtaMnpsSlgxaDZ4VTNPWFhfcHMtSUZTejB0NkdXaEI4NUFraG1HZ2ZfQ2ZxN2gxMGd4dmtjYjYxd0g0S3IycU5hWkFRX0xOdVhzTXZQOVZkRm4td2UtR2RnaVlCUU12UlNnZEF4cjUtcnY2ZERiNnM4T0ZCVXVPQlRNZEtJdWQySWZKeEFVd1dSYUlMOWUwQ21iazlBR1ZpX1QybWh1Y2x3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "WSJ将英伟达列入今日关注股票",
-   "title_zh": "华尔街日报：今日关注SpaceX、英伟达、Uber等股票",
-   "sentiment": 0
-  },
-  {
-   "id": "41210bcdfedd",
-   "title": "Nvidia, Palantir, and Alphabet Are Sending Shockwaves Through Wall Street With This $17.5 Billion Warning - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUtFd2hpakhjeXVQZ3U2UVJUS1Y2d2pjNWY4Tlk4SlYza21qT3FlaFFaQWpZV3Z3VlQ4STRTbmdfZnJnQkQyZUxCdkdkMmQ5WXgwNk1zUkxIVGFHbE54TE1xQjRET2xNN1NMYlhVT2pBbEV6WUM0X2FQVXUyMmdvQ0NBeHliUjM2Q3REMVluQ0s4MnU1R1h0Q2luSjlMNmd6YURKZENGOGdlMWdDUmlSMF9QNC1FdkY5R1JvMzU5MXFQdFllUXc",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-06T09:10:09+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-06T09:10:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUtFd2hpakhjeXVQZ3U2UVJUS1Y2d2pjNWY4Tlk4SlYza21qT3FlaFFaQWpZV3Z3VlQ4STRTbmdfZnJnQkQyZUxCdkdkMmQ5WXgwNk1zUkxIVGFHbE54TE1xQjRET2xNN1NMYlhVT2pBbEV6WUM0X2FQVXUyMmdvQ0NBeHliUjM2Q3REMVluQ0s4MnU1R1h0Q2luSjlMNmd6YURKZENGOGdlMWdDUmlSMF9QNC1FdkY5R1JvMzU5MXFQdFllUXc"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T09:26:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRWpKdnEwZHFfWVMtWW5EYWFLZDNiMnRhUmNWei1KTWFrSF9ZVWVPZzhrdlYwWk9Rd0Q1NlI0X1F1NmxhV0VsZ05iWG1aMzlxd25aVUltTXhkbGNMdTVXcmlQVXBKT2hGT0V4WmJjMVF4b24wbkhraHVQdHZtb09EV3k5anFEUEJWVTRfTDlTVk9FaEllNW9aLWN6MmpJYTRaeWlZVVEzOUE4d1Z4"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-06T09:26:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRWpKdnEwZHFfWVMtWW5EYWFLZDNiMnRhUmNWei1KTWFrSF9ZVWVPZzhrdlYwWk9Rd0Q1NlI0X1F1NmxhV0VsZ05iWG1aMzlxd25aVUltTXhkbGNMdTVXcmlQVXBKT2hGT0V4WmJjMVF4b24wbkhraHVQdHZtb09EV3k5anFEUEJWVTRfTDlTVk9FaEllNW9aLWN6MmpJYTRaeWlZVVEzOUE4d1Z4"
-    },
-    {
-     "name": "fool.com",
-     "published_at": "2026-10-06T10:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUtFd2hpakhjeXVQZ3U2UVJUS1Y2d2pjNWY4Tlk4SlYza21qT3FlaFFaQWpZV3Z3VlQ4STRTbmdfZnJnQkQyZUxCdkdkMmQ5WXgwNk1zUkxIVGFHbE54TE1xQjRET2xNN1NMYlhVT2pBbEV6WUM0X2FQVXUyMmdvQ0NBeHliUjM2Q3REMVluQ0s4MnU1R1h0Q2luSjlMNmd6YURKZENGOGdlMWdDUmlSMF9QNC1FdkY5R1JvMzU5MXFQdFllUXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "英伟达等三家公司发出175亿美元警示",
-   "title_zh": "英伟达、Palantir和Alphabet以175亿美元警示震动华尔街",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 0.14,
-    "window_h": 0.1
-   }
   }
  ]
 }
