@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-07T07:06:35.519816+00:00",
+ "updated_at": "2026-10-07T07:21:34.359736+00:00",
  "market": {
   "price": 239.24,
   "change_pct": 0.14,
@@ -10,12 +10,12 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.43,
-   "count": 7
+   "avg": 0.62,
+   "count": 8
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.43（7条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.62（8条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.7,
    "ma20": 224.89,
-   "as_of": "2026-10-07T07:06:35.510801+00:00"
+   "as_of": "2026-10-07T07:21:34.347699+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2b1cb837cd48",
+   "title": "5,525 NVIDIA Corporation $NVDA Shares Sold by AI Squared Management Ltd - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNmY1cGg2WWVKTnlWMDRpVGY4RUY1Y2NtdG9uQU5GNTA2X0ZFdGtuTDRBd180a1hVOVBreWdTdWo2Nmd4TEVwX2Q3RllPenMyN19xU092UWh1bk5EWk1oU1VqZWRmQkxuTUMzdmFfck1kYW5CakczdW5ZYWhqY0dDb0dPeXdBWXpnODk4ZVB2c1Vxckd4ZkFlVFE2bGg4Y2U2aGRla2E0Q1JuTkFTTU13dmZuVS1nWXB4M281LV9BbVBlVVZSalJjMVh3",
+   "source": "MarketBeat",
+   "published_at": "2026-10-07T07:06:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-07T07:06:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNmY1cGg2WWVKTnlWMDRpVGY4RUY1Y2NtdG9uQU5GNTA2X0ZFdGtuTDRBd180a1hVOVBreWdTdWo2Nmd4TEVwX2Q3RllPenMyN19xU092UWh1bk5EWk1oU1VqZWRmQkxuTUMzdmFfck1kYW5CakczdW5ZYWhqY0dDb0dPeXdBWXpnODk4ZVB2c1Vxckd4ZkFlVFE2bGg4Y2U2aGRla2E0Q1JuTkFTTU13dmZuVS1nWXB4M281LV9BbVBlVVZSalJjMVh3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "f97ad0c97057",
    "title": "Nvidia hits record $5.65 trillion as SpaceX seeks $40 billion to buy its AI chips - CTech",
@@ -2574,6 +2591,23 @@
     "pct": -0.44,
     "window_h": 2.0
    }
+  },
+  {
+   "id": "49234d734913",
+   "title": "Nvidia vs. AMD: Wall Street Sees 35% Upside in One AI Stock — and Just 1% for the Other - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ2s4bldfUmlhNG02bFBMeDRTc0pndlNlQV9QSVVzU1NsMnpxb3I1dXExQ0Etc2hBNlhaUldwQnJfSzhfdm93WUJPS2xEbWk5SjNFQTd3dXBwQ1hzVm1HcWlkbndHV1Y2Tm9OZXVoQnNwV1VUZnl3Z3J0MktaRnhGbmUyWHhVTkxMNHlvcGN4MDRjVFJaem0tZHJub3RoT2dSRDdzLU9TcXdGRHI3LTJxWQ",
+   "source": "TipRanks",
+   "published_at": "2026-10-06T14:22:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-10-06T14:22:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ2s4bldfUmlhNG02bFBMeDRTc0pndlNlQV9QSVVzU1NsMnpxb3I1dXExQ0Etc2hBNlhaUldwQnJfSzhfdm93WUJPS2xEbWk5SjNFQTd3dXBwQ1hzVm1HcWlkbndHV1Y2Tm9OZXVoQnNwV1VUZnl3Z3J0MktaRnhGbmUyWHhVTkxMNHlvcGN4MDRjVFJaem0tZHJub3RoT2dSRDdzLU9TcXdGRHI3LTJxWQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "56d5cdd734ea",
@@ -5341,6 +5375,23 @@
    "sentiment": 1
   },
   {
+   "id": "79e284cf5857",
+   "title": "NVIDIA Corporation $NVDA Stock Purchased by Robinhood Asset Management LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXVRbTNjUDdKajhiX1hGc2VSaU5MV2RWRjNaclFXUDRYOFM1U1M1OWp2TF8zV0lULXVxV2hVNkxRWmsycXNfQ2s0Y2JleUZMYTI0VUdUUlFraWFmSmptYVhXVlpEREE5cmszYW95SkVwV04zaTY4bWNvc3R0bTVabGZZa25VcGJLTUtSRFVzTzNLa1R0NHNHSG5wc3hRcFJQOGYxQk1kUmk1OUxOOHk4WGhaR1MtUXZXS2I2R1ZjY3NJaXI1UVRmRFFTUWJ4ekU",
+   "source": "MarketBeat",
+   "published_at": "2026-10-06T07:32:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-06T07:32:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXVRbTNjUDdKajhiX1hGc2VSaU5MV2RWRjNaclFXUDRYOFM1U1M1OWp2TF8zV0lULXVxV2hVNkxRWmsycXNfQ2s0Y2JleUZMYTI0VUdUUlFraWFmSmptYVhXVlpEREE5cmszYW95SkVwV04zaTY4bWNvc3R0bTVabGZZa25VcGJLTUtSRFVzTzNLa1R0NHNHSG5wc3hRcFJQOGYxQk1kUmk1OUxOOHk4WGhaR1MtUXZXS2I2R1ZjY3NJaXI1UVRmRFFTUWJ4ekU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "498cbfc9d97e",
    "title": "Nvidia-Backed Reflection AI Targets Low-Cost Chinese Models Like DeepSeek and Kimi - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUdNbzk3OUNsZlNoWGZjZmhkZ0xNRjZrU05hMXphczJ4aDNvaDhMNlVDS1pYVzBHcU9DYUl3Yl9qVGtOeUZiS0JTNmVWck1weHh1ZTJFNDRHeV91dkRxSUx4WFBGLVVNRnBXMHVoc29pZklhczRwckcwMFhnaWVSQ0JYWWd1MnU1ektXOVZkTm9QbzR0cHlVUWRlUWJzTldoZEJwOQ",
@@ -7642,120 +7693,6 @@
    "zh_summary": "英伟达股价创历史新高，市值逼近6万亿美元",
    "title_zh": "英伟达股价创历史新高，市值逼近6万亿美元",
    "sentiment": 2
-  },
-  {
-   "id": "c3de65cc69f8",
-   "title": "Dan Ives on Nvidia: It's the one chip in the world fueling the AI revolution - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaUR1aHBuLXB5VzBZU0E3S19hamZfZHF0am1SRkVVNDZVYU5jdDVVT1RBUWlZODNnT0l1X0QyZlVZXy1XTzZIVTg0YnJwYll6Q1Jhc2lKM0FDYmhRR2M3aFprU09rSTExXzd1Sk02OFRmVWFHTWR2bUVOT0VocnJGZUM2MlBPNWlOd0loS1ltc2lyV1pvT3BPTU5lVWVudnhNcE1tZTgxX0k5TUZFYTQ4SDZpZ3BFS3BZ",
-   "source": "CNBC",
-   "published_at": "2026-10-05T19:13:42+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-05T19:13:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaUR1aHBuLXB5VzBZU0E3S19hamZfZHF0am1SRkVVNDZVYU5jdDVVT1RBUWlZODNnT0l1X0QyZlVZXy1XTzZIVTg0YnJwYll6Q1Jhc2lKM0FDYmhRR2M3aFprU09rSTExXzd1Sk02OFRmVWFHTWR2bUVOT0VocnJGZUM2MlBPNWlOd0loS1ltc2lyV1pvT3BPTU5lVWVudnhNcE1tZTgxX0k5TUZFYTQ4SDZpZ3BFS3BZ"
-    },
-    {
-     "name": "cnbc.com",
-     "published_at": "2026-10-05T19:36:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaUR1aHBuLXB5VzBZU0E3S19hamZfZHF0am1SRkVVNDZVYU5jdDVVT1RBUWlZODNnT0l1X0QyZlVZXy1XTzZIVTg0YnJwYll6Q1Jhc2lKM0FDYmhRR2M3aFprU09rSTExXzd1Sk02OFRmVWFHTWR2bUVOT0VocnJGZUM2MlBPNWlOd0loS1ltc2lyV1pvT3BPTU5lVWVudnhNcE1tZTgxX0k5TUZFYTQ4SDZpZ3BFS3BZ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "艾夫斯称英伟达芯片引领AI革命",
-   "title_zh": "Dan Ives：英伟达是全球唯一推动AI革命的芯片",
-   "sentiment": 1
-  },
-  {
-   "id": "390ac02d4e5b",
-   "title": "Up 28% in 2026, NVIDIA Just Tapped an All-Time High: Is the Rally Overextended or Just Getting Started? - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaV9FcGpLbmRreW9BMWFuWVR6dU1TcjhFMy1ra2VFbW40ZEdKUGIyVFF2ZG5FanFacW9xODFGSmI3ZHE4V3ZWc0ZmbGpHdW9rNThmM1B1QXQ3eW5IX05XNEdsR2J6aDFGbm1Za241V2RfVFhuYTNJLS1FZWoyNmV1ZFhNQWhZVXlBdENnS1FMZE5UZzZTbEVMZ2dxTGZrMXJSbl9sMGtmTDZRdzRDekVEQThqY1ZFZHB3MHVsejdOU29saTJObHJ5d1kzWFZVajh0SllEWWttMTAzSGs",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-05T19:12:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-05T19:12:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaV9FcGpLbmRreW9BMWFuWVR6dU1TcjhFMy1ra2VFbW40ZEdKUGIyVFF2ZG5FanFacW9xODFGSmI3ZHE4V3ZWc0ZmbGpHdW9rNThmM1B1QXQ3eW5IX05XNEdsR2J6aDFGbm1Za241V2RfVFhuYTNJLS1FZWoyNmV1ZFhNQWhZVXlBdENnS1FMZE5UZzZTbEVMZ2dxTGZrMXJSbl9sMGtmTDZRdzRDekVEQThqY1ZFZHB3MHVsejdOU29saTJObHJ5d1kzWFZVajh0SllEWWttMTAzSGs"
-    },
-    {
-     "name": "247wallst.com",
-     "published_at": "2026-10-05T19:12:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaV9FcGpLbmRreW9BMWFuWVR6dU1TcjhFMy1ra2VFbW40ZEdKUGIyVFF2ZG5FanFacW9xODFGSmI3ZHE4V3ZWc0ZmbGpHdW9rNThmM1B1QXQ3eW5IX05XNEdsR2J6aDFGbm1Za241V2RfVFhuYTNJLS1FZWoyNmV1ZFhNQWhZVXlBdENnS1FMZE5UZzZTbEVMZ2dxTGZrMXJSbl9sMGtmTDZRdzRDekVEQThqY1ZFZHB3MHVsejdOU29saTJObHJ5d1kzWFZVajh0SllEWWttMTAzSGs"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "年内涨28%创历史新高",
-   "title_zh": "英伟达2026年涨28%创新高，涨势过热还是刚起步？",
-   "sentiment": 1
-  },
-  {
-   "id": "eb45b9d8642f",
-   "title": "Nvidia-Backed Reflection Unveils Open AI Model, Taking on China - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1BvX0FBT0xBVGJmZGtmMjhGQVlkWXBoYzdvZEF3d3BXaklYQkFaQW0zZHBqTHJaVFhJTzRqSS1zYTdIcERqVFRjOUtIZFZHRXRRclg4c0VScG5NQ3JYX1lyTkstTlFzOVlOd0p4MDhZV1diTV9DQjZUZEtxLXdxelZ0U2FlOHZvUE0xTHBUSXVaLUxiQTVMcUFobHdUczdQMmVaTE9MeGM5MUhDUW5lclpkMA",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-05T19:00:00+00:00",
-   "outlets_count": 9,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-05T19:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1BvX0FBT0xBVGJmZGtmMjhGQVlkWXBoYzdvZEF3d3BXaklYQkFaQW0zZHBqTHJaVFhJTzRqSS1zYTdIcERqVFRjOUtIZFZHRXRRclg4c0VScG5NQ3JYX1lyTkstTlFzOVlOd0p4MDhZV1diTV9DQjZUZEtxLXdxelZ0U2FlOHZvUE0xTHBUSXVaLUxiQTVMcUFobHdUczdQMmVaTE9MeGM5MUhDUW5lclpkMA"
-    },
-    {
-     "name": "bloomberg.com",
-     "published_at": "2026-10-05T19:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1BvX0FBT0xBVGJmZGtmMjhGQVlkWXBoYzdvZEF3d3BXaklYQkFaQW0zZHBqTHJaVFhJTzRqSS1zYTdIcERqVFRjOUtIZFZHRXRRclg4c0VScG5NQ3JYX1lyTkstTlFzOVlOd0p4MDhZV1diTV9DQjZUZEtxLXdxelZ0U2FlOHZvUE0xTHBUSXVaLUxiQTVMcUFobHdUczdQMmVaTE9MeGM5MUhDUW5lclpkMA"
-    },
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-05T20:54:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4"
-    },
-    {
-     "name": "Kansas City Star",
-     "published_at": "2026-10-05T21:02:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05cjE5SlJ2bW5BeGFZZHp0ZUM2dGh6RG0tMDlfOUdjbnBVdktkUkdxanRBcTc5WEpVa3VlVlJxU3ZFQWppRWJTUHpvNGdfdWRVUUprTWJnT3Z5c0VwWV8tVHcxQTZMLU80eXFVZEhfWQ"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-05T20:47:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcTFmbFpzLWE4M3dTbFNmMW1OYTJ1S0JxcUFWNVptamNNWVdXQ0VwY2taZHZ0NE5tdWRHX05VQ2xaaENKWkJ5LW5JaVdxV2lpWFpRRkFneGxYNjhta1BFRGJCVURMMm9HbW9wUms2T2hNMTl5YWJDOTc4WU5iMElGMWp2NmpkM0ZfVjB2dGZLMTVpV1lXUE9uVDc3ZEQ1dURITVc3VDNTeV9kQWh1ZkRDSjREdkdKM1hhR1MxSWUxOUFKc0NGWTZfYlFVY25VZ1Axc0NBM2tMRTFQdUVqdWUxVEhB"
-    },
-    {
-     "name": "tradingview.com",
-     "published_at": "2026-10-05T20:47:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcTFmbFpzLWE4M3dTbFNmMW1OYTJ1S0JxcUFWNVptamNNWVdXQ0VwY2taZHZ0NE5tdWRHX05VQ2xaaENKWkJ5LW5JaVdxV2lpWFpRRkFneGxYNjhta1BFRGJCVURMMm9HbW9wUms2T2hNMTl5YWJDOTc4WU5iMElGMWp2NmpkM0ZfVjB2dGZLMTVpV1lXUE9uVDc3ZEQ1dURITVc3VDNTeV9kQWh1ZkRDSjREdkdKM1hhR1MxSWUxOUFKc0NGWTZfYlFVY25VZ1Axc0NBM2tMRTFQdUVqdWUxVEhB"
-    },
-    {
-     "name": "reuters.com",
-     "published_at": "2026-10-05T20:54:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4"
-    },
-    {
-     "name": "santafenewmexican.com",
-     "published_at": "2026-10-06T00:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZzBCdUNDX2JmNEJxbXNxRGlXTVdFbVZXR21NTDFrb1VfTmdkUk44RGcwek5mTHREbDlrNjhNUkhoVl9pUGozRlQzVDVVMnFIeUF6YXRyMHlQOERDMlU1MEtoU0FudkVrc1Fac1dpbDRkelBCMGRjb2V5c1hWcS1PVUlVelJPQ1ZmU1FycFhTQXlBR2dwcURVeF82Q3AzSWpMdFNURGhYS3ZwbHZrNnRzcktIYVVsVWppTENCcFU1ZDV0alhLc1hGWUFaY1A1UkE4aHEwclhOcUdqX180YnJrOHE2ZUpPZWpxYV90QjQ4ZHowdw"
-    },
-    {
-     "name": "Santa Fe New Mexican",
-     "published_at": "2026-10-06T00:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZzBCdUNDX2JmNEJxbXNxRGlXTVdFbVZXR21NTDFrb1VfTmdkUk44RGcwek5mTHREbDlrNjhNUkhoVl9pUGozRlQzVDVVMnFIeUF6YXRyMHlQOERDMlU1MEtoU0FudkVrc1Fac1dpbDRkelBCMGRjb2V5c1hWcS1PVUlVelJPQ1ZmU1FycFhTQXlBR2dwcURVeF82Q3AzSWpMdFNURGhYS3ZwbHZrNnRzcktIYVVsVWppTENCcFU1ZDV0alhLc1hGWUFaY1A1UkE4aHEwclhOcUdqX180YnJrOHE2ZUpPZWpxYV90QjQ4ZHowdw"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘中",
-   "zh_summary": "英伟达参投Reflection发布开源AI模型",
-   "title_zh": "英伟达支持的Reflection发布开源AI模型，对标中国",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.27,
-    "window_h": 1.0
-   }
   }
  ]
 }
