@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-07T15:21:32.967203+00:00",
+ "updated_at": "2026-10-07T15:36:44.739031+00:00",
  "market": {
-  "price": 237.27,
-  "change_pct": -0.82,
+  "price": 237.01,
+  "change_pct": -0.93,
   "as_of": "2026-10-07",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.64,
-   "count": 94
+   "count": 100
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +33.8%"
+     "note": "目标价中位数 $318（14家），隐含空间 +34.0%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.64（94条已评分）"
+     "note": "今日新闻情绪 +0.64（100条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $237.27 vs 20日均线 $225.57"
+     "note": "现价 $237.01 vs 20日均线 $225.56"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 97,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 33.8,
-   "ma20": 225.57,
-   "as_of": "2026-10-07T15:21:32.954184+00:00"
+   "implied_upside_pct": 34.0,
+   "ma20": 225.56,
+   "as_of": "2026-10-07T15:36:44.725426+00:00"
   },
-  "pe_ttm": 30.2,
+  "pe_ttm": 30.1,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+33.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+34.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "ef4ac9b8e910",
+   "title": "Nvidia-Groq’s “It’s Really Not a Merger” Business Deal Draws Delaware Fiduciary-Duty Suit - The National Law Review",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2hWeHBELXdHaWJSUTF5RzFkd1lyQlFqSzJrSVdkaW1VZXpocXZsS204X2s5SzlOWDJnSHhmaEVwWG5jcFZmQUQ3MUdPcGxCOEtZSnEwQjdWM0FMNnJjZmZmS0dicFFrTzVOaS1mRThYZEZJLW1RamZYem5lREFGZklFbDFrbS02cjZkbE9BY1RYWGNoRV9keUpjcFA2ZUxfUDdzTXVhaWxsalpvcDdrQ2Yzbm1zb2PSAbwBQVVfeXFMTXJUMkY0WnBaeXVVUWswT0s1X1pqeFhyTy1QOG04Q3MzYXJsSV9YNzh3VkVMdGtZNWlDNHlpNDBSTTk4cDk2RmlqSnV3LVVBMDdLQ3BlTzF6dG81eFJRLUdYenYzZjFQdjdEQ1FwM0hXT3FmOUN3bWJoODdoM3JvYnpKUnZGV0NpODJUNnZ1VkZtM21DQlhhS0tzZDFnak1nb081V3VxN015clNEb3VVdlNBNzBTYkdFcTJCQzM",
+   "source": "The National Law Review",
+   "published_at": "2026-10-07T15:21:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The National Law Review",
+     "published_at": "2026-10-07T15:21:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2hWeHBELXdHaWJSUTF5RzFkd1lyQlFqSzJrSVdkaW1VZXpocXZsS204X2s5SzlOWDJnSHhmaEVwWG5jcFZmQUQ3MUdPcGxCOEtZSnEwQjdWM0FMNnJjZmZmS0dicFFrTzVOaS1mRThYZEZJLW1RamZYem5lREFGZklFbDFrbS02cjZkbE9BY1RYWGNoRV9keUpjcFA2ZUxfUDdzTXVhaWxsalpvcDdrQ2Yzbm1zb2PSAbwBQVVfeXFMTXJUMkY0WnBaeXVVUWswT0s1X1pqeFhyTy1QOG04Q3MzYXJsSV9YNzh3VkVMdGtZNWlDNHlpNDBSTTk4cDk2RmlqSnV3LVVBMDdLQ3BlTzF6dG81eFJRLUdYenYzZjFQdjdEQ1FwM0hXT3FmOUN3bWJoODdoM3JvYnpKUnZGV0NpODJUNnZ1VkZtM21DQlhhS0tzZDFnak1nb081V3VxN015clNEb3VVdlNBNzBTYkdFcTJCQzM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "718ffd4416e7",
+   "title": "Cerebras: OpenAI's Nvidia Move Doesn't Break The 750 MW Deal (NASDAQ:CBRS) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWtYb2ZTTnlDUHYtRWg3cXpjNVdabkpMejFjRHFISUtqWjdZZkdINnFiSDJYa2J1dWlLYWRPRFRCVFJJVExBbzlHNll5M1RST2Y2UkF2U0NkTExtNURvLUdmWURMeUdpYlF6VEpaRUFyQ09CZUQtOXVmbVEwdE1aSUhDcHFzeXN2Si1GZTBLZDhoTXJMRER3YzBrN0t3X2c",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-07T15:19:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-07T15:19:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWtYb2ZTTnlDUHYtRWg3cXpjNVdabkpMejFjRHFISUtqWjdZZkdINnFiSDJYa2J1dWlLYWRPRFRCVFJJVExBbzlHNll5M1RST2Y2UkF2U0NkTExtNURvLUdmWURMeUdpYlF6VEpaRUFyQ09CZUQtOXVmbVEwdE1aSUhDcHFzeXN2Si1GZTBLZDhoTXJMRER3YzBrN0t3X2c"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
   {
    "id": "cf7a94abb492",
    "title": "$英伟达 (NVDA.US)$ 裁判广告时间到了，不要🙅 再跌了 - Moomoo",
@@ -102,6 +136,23 @@
    "sentiment": 1
   },
   {
+   "id": "171e03455f4e",
+   "title": "Faster Scientific Image Analysis with NVIDIA cuPhoton | NVIDIA Technical Blog - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb002el9MUjhRS1ZhdDBhQnlDcG9idjRYODFoeWVIMFJQNkNaOWRuVi1uRmZqYlh5Sk1yZDBkeERSclpGRGhWTHZjM2s5eWtHZUVHNVpZWVR3RFFwWEdQUEpiR00tUW9VemlfZGc0aXpHTkpJTlVTQUhyVmlTNjdkS2EtWENCUEZDT3RxSVlyTDZ6UQ",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-07T15:01:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-07T15:01:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb002el9MUjhRS1ZhdDBhQnlDcG9idjRYODFoeWVIMFJQNkNaOWRuVi1uRmZqYlh5Sk1yZDBkeERSclpGRGhWTHZjM2s5eWtHZUVHNVpZWVR3RFFwWEdQUEpiR00tUW9VemlfZGc0aXpHTkpJTlVTQUhyVmlTNjdkS2EtWENCUEZDT3RxSVlyTDZ6UQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "152b33364b4d",
    "title": "SpaceX Wants $40 Billion More to Fund Its Nvidia AI Bet - TradingView",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUNFTk55VkhkLW1KMDR4QXppd3otQUt1V2s1N0FvZVRqMl9mVlhWRy1Sd1pmcFdnQk5fU1NkdWJJNlhyWmZDMXpzMHdYeThuQmliS29mdXcyd1VNSVRHb01MSWhZaHg4Ni1DaWJSMW9wcmVudVZEOExZcDBSaFZTY29FZXd1SHk5aVRFYzdGT1psYVQyVXFGeDhwNXhiZklMNDRTTEZTY09IMC1WeHdTdDZ1ZkI",
@@ -140,6 +191,23 @@
    "zh_summary": "艾夫斯将英伟达列入科技首选五强",
    "title_zh": "艾夫斯评选科技五大首选股，英伟达在列",
    "sentiment": 1
+  },
+  {
+   "id": "82c8c58de592",
+   "title": "Nvidia Director Sells $946 Million as AI Insiders Cash In - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUDJDdTFQSEZGU3hjLU9UMXptLXE1WHkyTDR1Vm5WeEZxcHp6QmQtMUtxTEltUDl3SjR6WV82bUU5eWRPcklvNndleGpTaGZuakRLeE1jaEFtTDF5bHp1bFZRMXVnSjBxalZqY2YxeGFyeEtmRXJiU2hfWUZVdHZBWFFCdGthazc4eG9SclRVT1RPWGZlUDdQTTE3WGIwSFZzQXdnMFZSQ1pLS0R0R3A2cGRzcmNwQUE",
+   "source": "TradingView",
+   "published_at": "2026-10-07T14:49:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-07T14:49:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUDJDdTFQSEZGU3hjLU9UMXptLXE1WHkyTDR1Vm5WeEZxcHp6QmQtMUtxTEltUDl3SjR6WV82bUU5eWRPcklvNndleGpTaGZuakRLeE1jaEFtTDF5bHp1bFZRMXVnSjBxalZqY2YxeGFyeEtmRXJiU2hfWUZVdHZBWFFCdGthazc4eG9SclRVT1RPWGZlUDdQTTE3WGIwSFZzQXdnMFZSQ1pLS0R0R3A2cGRzcmNwQUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "0e4767826897",
@@ -1992,6 +2060,23 @@
    "zh_summary": "英伟达GPU价值几何引发热议",
    "title_zh": "引发AI股波动的5000亿美元之问：英伟达GPU到底值多少？",
    "sentiment": 0
+  },
+  {
+   "id": "2072fe287a96",
+   "title": "Brilliance Asset Management Ltd. Cuts Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbWYwakRybG5udVdtbTdwdjNCakp3THlWYnQ2dTlWV2s4bExybW4tdUtLdDlNYkFwT1hfVGNyX2VSSlhYTm5FOUluY3lwTXkxaVR4NVlORlNTcUV6UVY0OWp5OHhQaDBra1JfTkFSTWZKb1dydTZXbTNqcEh6Y3g5RlBad3VHU3NlSnFhVHRZWUowTXE2SGpvbFBVRXdFLXRrTnB3T3RabTVPWW5oUWtWWXdURlpKMFpBcnhBSWhwQm5ESXJCMGpfRjVBSHFKeXE2ZWhuODdB",
+   "source": "MarketBeat",
+   "published_at": "2026-10-07T07:29:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-07T07:29:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbWYwakRybG5udVdtbTdwdjNCakp3THlWYnQ2dTlWV2s4bExybW4tdUtLdDlNYkFwT1hfVGNyX2VSSlhYTm5FOUluY3lwTXkxaVR4NVlORlNTcUV6UVY0OWp5OHhQaDBra1JfTkFSTWZKb1dydTZXbTNqcEh6Y3g5RlBad3VHU3NlSnFhVHRZWUowTXE2SGpvbFBVRXdFLXRrTnB3T3RabTVPWW5oUWtWWXdURlpKMFpBcnhBSWhwQm5ESXJCMGpfRjVBSHFKeXE2ZWhuODdB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "2b1cb837cd48",
@@ -7159,195 +7244,6 @@
    "breaking": true,
    "zh_summary": "英伟达等三家公司发出175亿美元警示",
    "title_zh": "英伟达、Palantir和Alphabet以175亿美元警示震动华尔街",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 0.14,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "89d73b3b3276",
-   "title": "Nvidia, Lucid, Nike, and More Stocks That Explain Today’s Market - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQZUQ1MzBIN0NFZ3FzTFZodU84NnlYNUgwWWV3OWVaSUZ4d1RiRkhwd0tNRkZmaXNTa1ZCS1FRa2tvUFZicEtGRWZDdWlsczNMdF9TZmRoVlhIX0d6dkhZUndtdzU",
-   "source": "Barron's",
-   "published_at": "2026-10-06T08:57:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-06T08:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQZUQ1MzBIN0NFZ3FzTFZodU84NnlYNUgwWWV3OWVaSUZ4d1RiRkhwd0tNRkZmaXNTa1ZCS1FRa2tvUFZicEtGRWZDdWlsczNMdF9TZmRoVlhIX0d6dkhZUndtdzU"
-    },
-    {
-     "name": "barrons.com",
-     "published_at": "2026-10-06T08:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQZUQ1MzBIN0NFZ3FzTFZodU84NnlYNUgwWWV3OWVaSUZ4d1RiRkhwd0tNRkZmaXNTa1ZCS1FRa2tvUFZicEtGRWZDdWlsczNMdF9TZmRoVlhIX0d6dkhZUndtdzU"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "巴伦周刊盘点解释今日市场的股票",
-   "title_zh": "巴伦：Nvidia、Lucid、Nike等股解读今日市场",
-   "sentiment": 0
-  },
-  {
-   "id": "49920d5db41c",
-   "title": "Nvidia Stock Chases $6 Trillion Mark After Record High. How It Gets There. - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmctTlFGdm13SGRkLWlpc0lXbmUwTGhGeUxWU1EtZ2ljV1E3SjhiNS1rYi1WenhTTGZIX0pRcEpua1Y3em9kWVBLaTZqcGxwc3dRMGliWXl5TTRTZnVvZzBEYS03VXlCM3F4RzBQOHY5UktiSHdRYWk3b0ZRU0x4VU5tS2w",
-   "source": "Barron's",
-   "published_at": "2026-10-06T08:50:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-06T08:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmctTlFGdm13SGRkLWlpc0lXbmUwTGhGeUxWU1EtZ2ljV1E3SjhiNS1rYi1WenhTTGZIX0pRcEpua1Y3em9kWVBLaTZqcGxwc3dRMGliWXl5TTRTZnVvZzBEYS03VXlCM3F4RzBQOHY5UktiSHdRYWk3b0ZRU0x4VU5tS2w"
-    },
-    {
-     "name": "barrons.com",
-     "published_at": "2026-10-06T08:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmctTlFGdm13SGRkLWlpc0lXbmUwTGhGeUxWU1EtZ2ljV1E3SjhiNS1rYi1WenhTTGZIX0pRcEpua1Y3em9kWVBLaTZqcGxwc3dRMGliWXl5TTRTZnVvZzBEYS03VXlCM3F4RzBQOHY5UktiSHdRYWk3b0ZRU0x4VU5tS2w"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达创历史新高，剑指6万亿美元市值",
-   "title_zh": "英伟达创新高冲击6万亿美元市值",
-   "sentiment": 1
-  },
-  {
-   "id": "b601556605b0",
-   "title": "Nvidia Heads for $6 Trillion Value With Chipmaker Back at Record - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaC1sSmpWVUxkVXZSLXM3dWU5azIzMFRlZjRMMllaNGVMZGp2MmhxMDVWOVlNdS1JaE5OSU4tUTZGV2hRVG1VQ00yVmJLRHRFTE9JRHRRRkxnR3Z0eXh5SWMzMjc0TGM0MlJKZ3Q0Qm5tQ2JRcG5UTG1HVEdHY256dkRFX3Ywc1JObE00empFNjRIM19seXlSSWRyYmlkSkg3VUdpVU9fb25jUjJGaWJGR3BzaVE",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-06T08:43:36+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-06T08:43:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaC1sSmpWVUxkVXZSLXM3dWU5azIzMFRlZjRMMllaNGVMZGp2MmhxMDVWOVlNdS1JaE5OSU4tUTZGV2hRVG1VQ00yVmJLRHRFTE9JRHRRRkxnR3Z0eXh5SWMzMjc0TGM0MlJKZ3Q0Qm5tQ2JRcG5UTG1HVEdHY256dkRFX3Ywc1JObE00empFNjRIM19seXlSSWRyYmlkSkg3VUdpVU9fb25jUjJGaWJGR3BzaVE"
-    },
-    {
-     "name": "bloomberg.com",
-     "published_at": "2026-10-06T08:43:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaC1sSmpWVUxkVXZSLXM3dWU5azIzMFRlZjRMMllaNGVMZGp2MmhxMDVWOVlNdS1JaE5OSU4tUTZGV2hRVG1VQ00yVmJLRHRFTE9JRHRRRkxnR3Z0eXh5SWMzMjc0TGM0MlJKZ3Q0Qm5tQ2JRcG5UTG1HVEdHY256dkRFX3Ywc1JObE00empFNjRIM19seXlSSWRyYmlkSkg3VUdpVU9fb25jUjJGaWJGR3BzaVE"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T08:43:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzl4SmFUcUhOTHptUmtDM3d0dFRVTjl3TnVianNCVlF1X0xMSUFna3NvV0dLTkRpSGtrN1VZYmxmOWFlZmFDQmFFbkdXY1NlbmJVSlVsVEotRlJsRlliOS1hMjBfS0h5d0pXc3BpbHFTSldpbDd4azMwcExtSUhXcmpGSmg5UGVqcmFIWEROdlpXejVTdnRpaTJn"
-    },
-    {
-     "name": "finance.yahoo.com",
-     "published_at": "2026-10-06T08:43:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzl4SmFUcUhOTHptUmtDM3d0dFRVTjl3TnVianNCVlF1X0xMSUFna3NvV0dLTkRpSGtrN1VZYmxmOWFlZmFDQmFFbkdXY1NlbmJVSlVsVEotRlJsRlliOS1hMjBfS0h5d0pXc3BpbHFTSldpbDd4azMwcExtSUhXcmpGSmg5UGVqcmFIWEROdlpXejVTdnRpaTJn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "彭博：英伟达重返纪录，瞄准6万亿",
-   "title_zh": "英伟达重返纪录高位，市值剑指6万亿美元",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.14,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "0e72f1f4d3f6",
-   "title": "Nvidia Soars Near $6 Trillion Market Cap With Stock Back at High - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaC1sSmpWVUxkVXZSLXM3dWU5azIzMFRlZjRMMllaNGVMZGp2MmhxMDVWOVlNdS1JaE5OSU4tUTZGV2hRVG1VQ00yVmJLRHRFTE9JRHRRRkxnR3Z0eXh5SWMzMjc0TGM0MlJKZ3Q0Qm5tQ2JRcG5UTG1HVEdHY256dkRFX3Ywc1JObE00empFNjRIM19seXlSSWRyYmlkSkg3VUdpVU9fb25jUjJGaWJGR3BzaVE",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-06T08:43:36+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-06T08:43:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaC1sSmpWVUxkVXZSLXM3dWU5azIzMFRlZjRMMllaNGVMZGp2MmhxMDVWOVlNdS1JaE5OSU4tUTZGV2hRVG1VQ00yVmJLRHRFTE9JRHRRRkxnR3Z0eXh5SWMzMjc0TGM0MlJKZ3Q0Qm5tQ2JRcG5UTG1HVEdHY256dkRFX3Ywc1JObE00empFNjRIM19seXlSSWRyYmlkSkg3VUdpVU9fb25jUjJGaWJGR3BzaVE"
-    },
-    {
-     "name": "Advisor Perspectives",
-     "published_at": "2026-10-06T15:00:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON1YxNVcxYUUwcm12ZnhVWTdWZFo0VkJ2WEp4WmhoM0FhR3h6QnhrUEs2WUlFQk9Yd1prc19KbXNvVm16d21zV05LVk5NVVpnMzY3S0o0SF83eWlZMmpDN2prOXkyQTlhVTFEaHJwVUlYR09qdnVrcHd1Z3llOEN6aFV6Nklnd05rT200aGRlZDUwc2M4a1Z2Q0llSDNnYjhzdjhJYg"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "英伟达股价回升至高位，逼近6万亿美元市值",
-   "title_zh": "英伟达股价逼近6万亿美元，重回高位",
-   "sentiment": 1
-  },
-  {
-   "id": "1de3015dcc38",
-   "title": "华为徐直军：昇腾中国市场份额已超英伟达，中国芯片自主化是必然之路 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tWk40QTRLZEVuSDZ1MlBGcHB0TkZkZlpueURrYUUzS3JKN2N0elhEYTRWY2hBaXhsN1A5TzBCZ0xQNDRrVFVQQmh2dlBrWDdBd1h0YjdMUFREYXdjdmlDQnFXYXZ3aHBfbE02bTd6cGViMEtkTFZ3amxiaEZmM3c",
-   "source": "新浪财经",
-   "published_at": "2026-10-06T08:33:00+00:00",
-   "outlets_count": 11,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-06T08:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tWk40QTRLZEVuSDZ1MlBGcHB0TkZkZlpueURrYUUzS3JKN2N0elhEYTRWY2hBaXhsN1A5TzBCZ0xQNDRrVFVQQmh2dlBrWDdBd1h0YjdMUFREYXdjdmlDQnFXYXZ3aHBfbE02bTd6cGViMEtkTFZ3amxiaEZmM3c"
-    },
-    {
-     "name": "t.cj.sina.cn",
-     "published_at": "2026-10-06T08:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80RjVUT2ZWcy04Wl9EWkdlNnhsZ21uT3FvM09ROThKUy1ETVVkUkVHNVB3Z1duaWZsM2xNZ3VoVnBROHhiWnZLMmRqVlc1WE1xV21ic294LVFjOFpnU09RbUVuVEhubXk3Vml1SnI3bFduQQ"
-    },
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-06T08:55:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjUGMwR1ozcEowS1g1aW1nUW8wYXNjVXBjQW5rWlpaLWFqSGJjNHoxMnh3MUNIeWFuTG1NektPZDFrSmxiSm1iS1F6Q0JTRFZCNUhB"
-    },
-    {
-     "name": "wallstreetcn.com",
-     "published_at": "2026-10-06T08:55:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjUGMwR1ozcEowS1g1aW1nUW8wYXNjVXBjQW5rWlpaLWFqSGJjNHoxMnh3MUNIeWFuTG1NektPZDFrSmxiSm1iS1F6Q0JTRFZCNUhB"
-    },
-    {
-     "name": "sohu.com",
-     "published_at": "2026-10-06T09:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkFHWXRBd3hNMDZhX3A3TUFzQ3BIRVotMW5ONDZUX2lFSlNodF96QndCaUI5Y0hmTjRwdk13YktHQVFYYXB6cElhS0YwSXQ4SWtSelRiYW9MT01CVmY1OWxITVM4WGFsdVpyUWJZWmRjLWFSVlF6UTU1X0xiUnJ5TnlIdDBTQTNWQXR1VA"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-06T09:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkFHWXRBd3hNMDZhX3A3TUFzQ3BIRVotMW5ONDZUX2lFSlNodF96QndCaUI5Y0hmTjRwdk13YktHQVFYYXB6cElhS0YwSXQ4SWtSelRiYW9MT01CVmY1OWxITVM4WGFsdVpyUWJZWmRjLWFSVlF6UTU1X0xiUnJ5TnlIdDBTQTNWQXR1VA"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-06T08:50:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zc2lzUlRqNTNZbFBzWmVxWFNKS2UzdmdNeGZSM3I4ajNtem50MDI0UHM1cmFLX2U4V3dGU2t3YTF6Q2pvVi13Y1hmSUxZOFZXLXVGTm4xeTBTSlZtRkNLUTlwVQ"
-    },
-    {
-     "name": "emwap.eastmoney.com",
-     "published_at": "2026-10-06T08:50:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zc2lzUlRqNTNZbFBzWmVxWFNKS2UzdmdNeGZSM3I4ajNtem50MDI0UHM1cmFLX2U4V3dGU2t3YTF6Q2pvVi13Y1hmSUxZOFZXLXVGTm4xeTBTSlZtRkNLUTlwVQ"
-    },
-    {
-     "name": "手机搜狐网",
-     "published_at": "2026-10-06T09:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkFHWXRBd3hNMDZhX3A3TUFzQ3BIRVotMW5ONDZUX2lFSlNodF96QndCaUI5Y0hmTjRwdk13YktHQVFYYXB6cElhS0YwSXQ4SWtSelRiYW9MT01CVmY1OWxITVM4WGFsdVpyUWJZWmRjLWFSVlF6UTU1X0xiUnJ5TnlIdDBTQTNWQXR1VA"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-06T09:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkFHWXRBd3hNMDZhX3A3TUFzQ3BIRVotMW5ONDZUX2lFSlNodF96QndCaUI5Y0hmTjRwdk13YktHQVFYYXB6cElhS0YwSXQ4SWtSelRiYW9MT01CVmY1OWxITVM4WGFsdVpyUWJZWmRjLWFSVlF6UTU1X0xiUnJ5TnlIdDBTQTNWQXR1VA"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-07T04:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0SzFncVRMOGZmSHQwdlBQdVp2c3QxckdwaXJPTk1vcWU3WGFYUUtqSzFEVHdERXBWaUxCZmhjRzBSQ1EtWmdtMXdJaUoxcjU4OHlaWkNlM3I5bFJTaHpnV0VVaDVGU1BkWWlvazQzTVhuOWlVN0ZkcHA3cEtGdw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "华为称昇腾中国份额已超英伟达",
-   "title_zh": "华为徐直军：昇腾中国市场份额已超英伟达，中国芯片自主化是必然之路 - 新浪财经",
    "sentiment": -1,
    "price_reaction": {
     "pct": 0.14,
