@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T14:06:35.751810+00:00",
+ "updated_at": "2026-10-08T14:21:38.827967+00:00",
  "market": {
-  "price": 235.33,
-  "change_pct": -0.9,
+  "price": 236.29,
+  "change_pct": -0.5,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 40
   },
   "day_sentiment": {
-   "avg": 0.38,
-   "count": 92
+   "avg": 0.39,
+   "count": 95
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 95% 分位（偏高）"
+     "note": "现价处于52周区间 96% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +34.9%"
+     "note": "目标价中位数 $318（14家），隐含空间 +34.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.38（92条已评分）"
+     "note": "今日新闻情绪 +0.39（95条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $235.33 vs 20日均线 $226.43"
+     "note": "现价 $236.29 vs 20日均线 $226.48"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 95,
+   "price_52w_pct": 96,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 34.9,
-   "ma20": 226.43,
-   "as_of": "2026-10-08T14:06:35.742644+00:00"
+   "implied_upside_pct": 34.4,
+   "ma20": 226.48,
+   "as_of": "2026-10-08T14:21:38.806071+00:00"
   },
-  "pe_ttm": 29.9,
+  "pe_ttm": 30.0,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+34.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+34.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "549f6fc7c43e",
+   "title": "Intel Slides 3% as Chip Stocks Sell Off With Yields and Oil Higher; NVIDIA and AMD Slip - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa1F0bkdGb3FCUTFZaHhBemZJYUw2MnA2UFZHNTdBYnphcXhHREk3Zk9qZ2cwM2tSVVU4dWx5dWswdThJRER4TFJXX3ZIZ3RCYS1BZC00ekFHcEtUb09nUFktbmFhUDlwMDJNaF9DNHdIazRBT0U5S2dhZGthM2lWYXN5NVpVZkcxNW43cTRPUEx5RUt5OFA4V3Nqa0UwMkxVMW1nMTlELWl6eVNaeUR6cFpLQnhFaEl4aG5NR1FlX25qVDhuSWd2OQ",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-08T14:05:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-08T14:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa1F0bkdGb3FCUTFZaHhBemZJYUw2MnA2UFZHNTdBYnphcXhHREk3Zk9qZ2cwM2tSVVU4dWx5dWswdThJRER4TFJXX3ZIZ3RCYS1BZC00ekFHcEtUb09nUFktbmFhUDlwMDJNaF9DNHdIazRBT0U5S2dhZGthM2lWYXN5NVpVZkcxNW43cTRPUEx5RUt5OFA4V3Nqa0UwMkxVMW1nMTlELWl6eVNaeUR6cFpLQnhFaEl4aG5NR1FlX25qVDhuSWd2OQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "d9bc3b5fe3ce",
    "title": "金斯瑞与英伟达联合推出生命科学初创企业推介大赛，以推动生物技术创新加速发展。 - 手机新浪网",
@@ -100,6 +117,91 @@
    "zh_summary": "顶级AI股票英伟达正在打折",
    "title_zh": "英伟达：顶级AI股票正值折价买入(NASDAQ:NVDA)",
    "sentiment": 1
+  },
+  {
+   "id": "3b763dabf8fd",
+   "title": "GenScript Launches Life Sciences Startup PitchFest with NVIDIA to Accelerate Biotech Innovation - Morningstar",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSkxRcHRrZlZzUEZRb0EyT0tmSGdmb0ZXdGlhSUlDUWdHLUdtSzBLNE11aURBYU9kRkplQnQtVlVSQzc5YlJmSHpvckFaeHd2d2lFaU5LY3ZWY3QtSHZIcVpyUzZmQThncy02WWl0T3IwWklfWTJmUUZad1VRSnRXS0xGVVgxZHZzM0ZBUWJPT08tcmxGUGJTbFNCYS03U1YyYUJIaTA4Z2F4LVFNN1R5UTZ6aHF0T01CQ21wWk84Q3Qxa0hNbHJJRGxZNnU2czZraWZVYkpmdC1ZRzB2OG94Z3dKVVVsRC0wck5uWQ",
+   "source": "Morningstar",
+   "published_at": "2026-10-08T14:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Morningstar",
+     "published_at": "2026-10-08T14:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSkxRcHRrZlZzUEZRb0EyT0tmSGdmb0ZXdGlhSUlDUWdHLUdtSzBLNE11aURBYU9kRkplQnQtVlVSQzc5YlJmSHpvckFaeHd2d2lFaU5LY3ZWY3QtSHZIcVpyUzZmQThncy02WWl0T3IwWklfWTJmUUZad1VRSnRXS0xGVVgxZHZzM0ZBUWJPT08tcmxGUGJTbFNCYS03U1YyYUJIaTA4Z2F4LVFNN1R5UTZ6aHF0T01CQ21wWk84Q3Qxa0hNbHJJRGxZNnU2czZraWZVYkpmdC1ZRzB2OG94Z3dKVVVsRC0wck5uWQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "8c19861a2a38",
+   "title": "NVIDIA (NVDA) Is Still One of the Most Compelling AI Plays: Here’s Why - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTgwalpPQ0Z3Rm9hQkkxdkp5ZzhJS3BGdThCWU1CZ0FSN2NicmJLNHlldHd6RlU2S29kNExBSzZWVnNxS2NjV0FfUWFVRDNGYkh0Ri1RQU05VU85MmZIT1A2bTg1Z2UxOU5Kd0JNQ0ZJNGc2SmVKUXpHR0xIajlBWUxneVRTUHM1ZEZudmV2VXhMdzhp",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-08T13:57:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T13:57:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTgwalpPQ0Z3Rm9hQkkxdkp5ZzhJS3BGdThCWU1CZ0FSN2NicmJLNHlldHd6RlU2S29kNExBSzZWVnNxS2NjV0FfUWFVRDNGYkh0Ri1RQU05VU85MmZIT1A2bTg1Z2UxOU5Kd0JNQ0ZJNGc2SmVKUXpHR0xIajlBWUxneVRTUHM1ZEZudmV2VXhMdzhp"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "94bcf4e33fd4",
+   "title": "Alphacool带来多款GPU单槽冷头，支持NVIDIA、AMD专业显卡 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90VnVXLXNlV2dRamgyUDlCQWI4Z2s4d0hydmdiOF91Q1pHS25xRUp5T2R1S0Q2Y2N2Q09mZURXYXdnWXpuZWdiYlJHUWFLTHgzeFk3RUNIRmZjUVU4SWI0bF9VcUk2TldIWjhVSVZOTU5tQlhMcmdRU256SkQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-08T13:54:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-08T13:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90VnVXLXNlV2dRamgyUDlCQWI4Z2s4d0hydmdiOF91Q1pHS25xRUp5T2R1S0Q2Y2N2Q09mZURXYXdnWXpuZWdiYlJHUWFLTHgzeFk3RUNIRmZjUVU4SWI0bF9VcUk2TldIWjhVSVZOTU5tQlhMcmdRU256SkQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "54434bb86d38",
+   "title": "Why Nvidia & Microsoft still matter when Treasury yields rise - TheStreet",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNME96Nnk5anF1UUFqc0FkaFBUUTNERTdCSE5sZnBWS1NXMHR1VnZ2QUdNc2NYbEdUWnNVakhYeEhWdGIzdm9uS3N4cERraVNxN1RReWo5bHEySTdSRWhPUkJuanlpaUR6TWRlbmhZb1RWaWJUZHF0SldmLW9fWjZFYUlhVVBTb1hDbkg5WDIxYmxqNEJDMllWSkJONA",
+   "source": "TheStreet",
+   "published_at": "2026-10-08T13:47:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TheStreet",
+     "published_at": "2026-10-08T13:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNME96Nnk5anF1UUFqc0FkaFBUUTNERTdCSE5sZnBWS1NXMHR1VnZ2QUdNc2NYbEdUWnNVakhYeEhWdGIzdm9uS3N4cERraVNxN1RReWo5bHEySTdSRWhPUkJuanlpaUR6TWRlbmhZb1RWaWJUZHF0SldmLW9fWjZFYUlhVVBTb1hDbkg5WDIxYmxqNEJDMllWSkJONA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "532469445eda",
+   "title": "特朗普买入Meta、SpaceX股票，卖出波音、英伟达 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMk1DajFRSTNFR2pRdGtuYmNtdEItRHpTckFzNjl4RFZSbmFhX2R3WnZBSFlBazZLbEV1OGN6eDVUenFFWmx0Smp6S0E4aGtrc2VOckxsRkw5dzhYUkljR1oyVFJmVTF2TFBGWVBEV25yVkVVSVNlNFV0cnFXa2ZQR3dBeWo3TFJSSGtLNg",
+   "source": "搜狐网",
+   "published_at": "2026-10-08T13:41:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-08T13:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMk1DajFRSTNFR2pRdGtuYmNtdEItRHpTckFzNjl4RFZSbmFhX2R3WnZBSFlBazZLbEV1OGN6eDVUenFFWmx0Smp6S0E4aGtrc2VOckxsRkw5dzhYUkljR1oyVFJmVTF2TFBGWVBEV25yVkVVSVNlNFV0cnFXa2ZQR3dBeWo3TFJSSGtLNg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "940667428e1d",
@@ -422,7 +524,7 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PbnNrenRWVzhwUWc1MmhUX0hFcmQ1SjFxMkJ2TTZHYjRQMEduYnhJOUxhRkx0NnZKOVdxa2ZqOU1hZDR1NjBvWEhSdw",
    "source": "手机新浪网",
    "published_at": "2026-10-08T12:32:02+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "手机新浪网",
@@ -433,13 +535,22 @@
      "name": "36Kr",
      "published_at": "2026-10-08T12:52:55+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NRkNtWDBKRlg3SFlCSmMyZ1lDVEhVbHJXbnhWZjIxZVFlZmZRck9IVUhIYmlwRXBYdFhKSTRIWE1EU3BVRlc0QllFby1ROWUyaXM5bm9xM3I"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-08T12:36:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb3BTVWdjZVU4aWlZQ1gwNmFVcWpuV25HTEhZWkdYbm5PWUdBZkdHMXRhSXNEZEVmZlZRZHd3Wm9acWk4Uk9BejFiTjB4RXBQdHJkemFjd3BScUktRlFlNEVaYlNGWl9wNjVoaXV4SXd6TEpfMWxMQVYyRG5XYjZLT2RR"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "英伟达支持的AI制药公司Iambic拟赴美上市",
    "title_zh": "英伟达支持的AI制药公司Iambic寻求美国上市 - 手机新浪网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.73,
+    "window_h": 0.9
+   }
   },
   {
    "id": "caf3a918a9e0",
@@ -6529,140 +6640,6 @@
     "pct": -0.36,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "1f8b5023770f",
-   "title": "What Does Nvidia (NVDA) Gain From $40 Billion AI Demand Backing? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQW9jOERlTkhZTGJMM2gwdTRSMm5VbWJWM3FlUFZRVEl2aGp0dnJqR25hb0NzRWhCZW5vS29fSHFCVmJZUVBkUW9lTTBJMUdPY3VEbmF4dDByZFFFM1BfTmFnMGdWNElsY28zQ1VHTi0tWkVJQzdhZTB5UW5IaFlXVVNMS0JMSDZfNV8xTXNKazZpUQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-07T12:16:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T12:16:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQW9jOERlTkhZTGJMM2gwdTRSMm5VbWJWM3FlUFZRVEl2aGp0dnJqR25hb0NzRWhCZW5vS29fSHFCVmJZUVBkUW9lTTBJMUdPY3VEbmF4dDByZFFFM1BfTmFnMGdWNElsY28zQ1VHTi0tWkVJQzdhZTB5UW5IaFlXVVNMS0JMSDZfNV8xTXNKazZpUQ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达获400亿美元AI需求支持",
-   "title_zh": "英伟达从400亿美元AI需求支持中获得什么",
-   "sentiment": 2
-  },
-  {
-   "id": "5de77237def3",
-   "title": "黄仁勋直言：英伟达诞生离不开 Windows，要把AI算力搬上桌面 - 环球网",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DYXFxcEJubjVEeGIwdGpQejBDTUt2YVJrQjhzYW45SlJTMW1adDlpYXhFQnB6eldBY0tVV2FKZWpZU3BBcFR4QWZwb24wZnRRSUYybm5kMA",
-   "source": "环球网",
-   "published_at": "2026-10-07T12:10:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "环球网",
-     "published_at": "2026-10-07T12:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DYXFxcEJubjVEeGIwdGpQejBDTUt2YVJrQjhzYW45SlJTMW1adDlpYXhFQnB6eldBY0tVV2FKZWpZU3BBcFR4QWZwb24wZnRRSUYybm5kMA"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-08T03:10:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXUHpBWVZkYnhLTG5LSjFqMENhWGh2MFBuNlA5RTRZa2NuZHRseURzdElCLVZTUnFER3N4c1NvZURtck9EdTlpbXBib3k3SXY1"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T03:12:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3hmS19yd3hPZDYwTkoxcXVweU5vWEZrZkVwWDVKT005MGpQSHdxTk4yZmI4VkVTOVNDSDRCSTVydThlRE9hN2E3SmZPSG5UbTdwUjQ4c2tOYnlLeDJnRVo3amc4VkJKUFBPMU81TFlRaGY3cFFxNXZRQ2Nkd3JfR1BFTEJiOTdlZUFN"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "黄仁勋称要把AI算力搬上桌面",
-   "title_zh": "黄仁勋直言：英伟达诞生离不开 Windows，要把AI算力搬上桌面 - 环球网",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.36,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "25f3dbbfe861",
-   "title": "A $40 Billion Reason Why SpaceX and Nvidia Stocks Are in the News - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSFRBS1AwMHNjbnFQaWlzNFFCdkItUVcteTBfM3FQNjQydGtjaEFhbjVNZWlDS25XcWNvUHJqa2ZTSlRHcFNkOHMtbFZrajd5RkVmeEVkYWRPTWRHZ0NLVnBJSW0tUEgwUEl0ODRCTl9WampZSmt2SU15VmFER2E0cTRoSkxSV3RPb1JCb3A5V0UzWGc2OF9hbGxaamczdnJpbTVscGtrSGJULVNrTW5zSF96ZGhlZ3Z3bnZpYnNtQ19iQQ",
-   "source": "TradingView",
-   "published_at": "2026-10-07T12:07:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-07T12:07:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSFRBS1AwMHNjbnFQaWlzNFFCdkItUVcteTBfM3FQNjQydGtjaEFhbjVNZWlDS25XcWNvUHJqa2ZTSlRHcFNkOHMtbFZrajd5RkVmeEVkYWRPTWRHZ0NLVnBJSW0tUEgwUEl0ODRCTl9WampZSmt2SU15VmFER2E0cTRoSkxSV3RPb1JCb3A5V0UzWGc2OF9hbGxaamczdnJpbTVscGtrSGJULVNrTW5zSF96ZGhlZ3Z3bnZpYnNtQ19iQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "因400亿美元事项与SpaceX共同引关注",
-   "title_zh": "SpaceX和英伟达因400亿美元事项成新闻焦点",
-   "sentiment": 2
-  },
-  {
-   "id": "f36de581cef3",
-   "title": "美股前瞻| 美债收益率攀升压制期指！市场静候联储局会议纪要；SpaceX将融400亿美元买英伟达芯片；英特尔将继续参与Terafab项目港美股资讯 - 华盛通",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpRFg1RTRSWm1PcGhTZTBVaHAtSHVNV3Q2OVZnVmVsRFp2dmk3YTFhQWpVQmM3STZUTF9UbHNkQUIya2ZCM2pxRlA1NjJfaVVvVlgxc1EyS3N2NWYzZ3lQNlN3",
-   "source": "华盛通",
-   "published_at": "2026-10-07T12:03:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华盛通",
-     "published_at": "2026-10-07T12:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpRFg1RTRSWm1PcGhTZTBVaHAtSHVNV3Q2OVZnVmVsRFp2dmk3YTFhQWpVQmM3STZUTF9UbHNkQUIya2ZCM2pxRlA1NjJfaVVvVlgxc1EyS3N2NWYzZ3lQNlN3"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "SpaceX将融400亿美元买英伟达芯片",
-   "title_zh": "美股前瞻| 美债收益率攀升压制期指！市场静候联储局会议纪要；SpaceX将融400亿美元买英伟达芯片；英特尔将继续参与Terafab项目港美股资讯 - 华盛通",
-   "sentiment": 2
-  },
-  {
-   "id": "9e77d53369ee",
-   "title": "Should You Buy Nvidia Stock in October? - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjdVYWtPNVJKVjNxRFNhdTlseHdsTDVYcnRmMTRmQ1ZxSnBoVmt2YldnVGZ5bUJPNGFTRDdwTEMtcTJZQm1xelU3RXVIZ1d5bjVHR2ZuYm9LNjBDdkdJVTdBNkFDeWtKVXdxSlY1V0VYdkZyaVNUVGttdU9hcW1GVDZ2ZEE5ZGgz",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-07T12:02:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-07T12:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjdVYWtPNVJKVjNxRFNhdTlseHdsTDVYcnRmMTRmQ1ZxSnBoVmt2YldnVGZ5bUJPNGFTRDdwTEMtcTJZQm1xelU3RXVIZ1d5bjVHR2ZuYm9LNjBDdkdJVTdBNkFDeWtKVXdxSlY1V0VYdkZyaVNUVGttdU9hcW1GVDZ2ZEE5ZGgz"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "10月是否该买入英伟达股票",
-   "title_zh": "10月该买英伟达股票吗？",
-   "sentiment": 0
-  },
-  {
-   "id": "9e401d12e174",
-   "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Apple, Tesla, Marvell, Flutter, Micron & more - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1NZYlhoSmJLS190RnM3MS1ETl9ZTlkyLW1TYnJucVZnNlhzMEVvcFNhaGlfTjBvMVhlc2otaGNaMExveUtBWHJUdXRab3pZd3JsNVdBX3NDaHJfSHh2bVd0dkNQZ2ZWeGFrZnFzT3RMZ2ZhTGIyVGFzYVpMb2JXNi1lLXQ1R0M4RDNkWURn",
-   "source": "CNBC",
-   "published_at": "2026-10-07T12:01:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-07T12:01:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1NZYlhoSmJLS190RnM3MS1ETl9ZTlkyLW1TYnJucVZnNlhzMEVvcFNhaGlfTjBvMVhlc2otaGNaMExveUtBWHJUdXRab3pZd3JsNVdBX3NDaHJfSHh2bVd0dkNQZ2ZWeGFrZnFzT3RMZ2ZhTGIyVGFzYVpMb2JXNi1lLXQ1R0M4RDNkWURn"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "CNBC盘点周三主要分析师观点",
-   "title_zh": "CNBC：周三最值得关注的分析师观点",
-   "sentiment": 0
   }
  ]
 }
