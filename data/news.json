@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T13:51:40.774471+00:00",
+ "updated_at": "2026-10-08T14:06:35.751810+00:00",
  "market": {
-  "price": 234.69,
-  "change_pct": -1.17,
+  "price": 235.33,
+  "change_pct": -0.9,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 40
   },
   "day_sentiment": {
-   "avg": 0.39,
-   "count": 88
+   "avg": 0.38,
+   "count": 92
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 94% 分位（偏高）"
+     "note": "现价处于52周区间 95% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +35.3%"
+     "note": "目标价中位数 $318（14家），隐含空间 +34.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（88条已评分）"
+     "note": "今日新闻情绪 +0.38（92条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $234.69 vs 20日均线 $226.40"
+     "note": "现价 $235.33 vs 20日均线 $226.43"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 94,
+   "price_52w_pct": 95,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 35.3,
-   "ma20": 226.4,
-   "as_of": "2026-10-08T13:51:40.760267+00:00"
+   "implied_upside_pct": 34.9,
+   "ma20": 226.43,
+   "as_of": "2026-10-08T14:06:35.742644+00:00"
   },
-  "pe_ttm": 29.8,
+  "pe_ttm": 29.9,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+35.3%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+34.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "d9bc3b5fe3ce",
+   "title": "金斯瑞与英伟达联合推出生命科学初创企业推介大赛，以推动生物技术创新加速发展。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wWjQ4LUtqTGViRGloeUI2Q0lhTzhhX2hvXzJERm1HT3BqTnlMU0NYaHZlV0l3WGRaNTFVMW9feTRzTkxKbEMybk45SQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-08T14:00:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-08T14:00:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wWjQ4LUtqTGViRGloeUI2Q0lhTzhhX2hvXzJERm1HT3BqTnlMU0NYaHZlV0l3WGRaNTFVMW9feTRzTkxKbEMybk45SQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "18f57eb69ab4",
+   "title": "Nvidia: The Top AI Stock Is On Sale (NASDAQ:NVDA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXdhY0ttdm1uc2stdVVOenRVdTVpTU5ETkNUUEhOWjR1bWNIVkVfc3BISG5VRkRLSlgxU0tWX21hZkl4NTlWS09OY2JESGN1MGFJeUV3QUQtZk5PRHk3eFdCUUExU19wTUYyV0t6MUJ3aDRUZFRzcTdTWFlJYkpuTw",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-08T14:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-08T14:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUXdhY0ttdm1uc2stdVVOenRVdTVpTU5ETkNUUEhOWjR1bWNIVkVfc3BISG5VRkRLSlgxU0tWX21hZkl4NTlWS09OY2JESGN1MGFJeUV3QUQtZk5PRHk3eFdCUUExU19wTUYyV0t6MUJ3aDRUZFRzcTdTWFlJYkpuTw"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
   {
    "id": "940667428e1d",
    "title": "Microsoft (MSFT) And Nvidia (NVDA) Look To Reinvent The PC For The Agentic Era - Seeking Alpha",
@@ -165,6 +199,23 @@
    "zh_summary": "英伟达支持的Iambic寻求8亿美元以上IPO估值",
    "title_zh": "英伟达支持的Iambic寻求在美IPO，估值超8亿美元",
    "sentiment": 1
+  },
+  {
+   "id": "2291dcfd5b8d",
+   "title": "Nvidia-backed Iambic to top $800M valuation in U.S. IPO (IAM) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnZiZkRsbk55dklpcVBienN5NDZ3WjdSTWM5N3lwR0o1RXdsNm4wU1dGMlVfclJBSUFLU2IxS3ptSGpCcEw3aXhSbUVGMi1NdndadVlmajZEeGtCRWM4MGEybkRfN3Aza3RaMWVTbHJud3hUUE52MWYzbmotQWJxQ1ZqSmR3VnZ2QWlHZ0pqdDI",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-08T13:16:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-08T13:16:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnZiZkRsbk55dklpcVBienN5NDZ3WjdSTWM5N3lwR0o1RXdsNm4wU1dGMlVfclJBSUFLU2IxS3ptSGpCcEw3aXhSbUVGMi1NdndadVlmajZEeGtCRWM4MGEybkRfN3Aza3RaMWVTbHJud3hUUE52MWYzbmotQWJxQ1ZqSmR3VnZ2QWlHZ0pqdDI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "7a4a392fce99",
@@ -2064,26 +2115,6 @@
    "sentiment": 1
   },
   {
-   "id": "37c19903fb54",
-   "title": "英伟达首度冲击6万亿美元 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91dExKX2xGNWZMOHJhREtaY2owdFUwWmhMeG95UTlVbi1hSF9FMW1lT1JxQXYxZkVwNUREUkxUZzBiSkJrb2pVc0VLdlFQVkZ0RVJMWW1mYkhZSFowemJURE43QktEVzlPSjBQakNwb0pYWXd1R0dveA",
-   "source": "新浪财经",
-   "published_at": "2026-10-08T04:36:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-08T04:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91dExKX2xGNWZMOHJhREtaY2owdFUwWmhMeG95UTlVbi1hSF9FMW1lT1JxQXYxZkVwNUREUkxUZzBiSkJrb2pVc0VLdlFQVkZ0RVJMWW1mYkhZSFowemJURE43QktEVzlPSjBQakNwb0pYWXd1R0dveA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达首度冲击6万亿美元",
-   "title_zh": "英伟达首度冲击6万亿美元 - 新浪财经",
-   "sentiment": 2
-  },
-  {
    "id": "2490d3e26079",
    "title": "AI: Nvidia’s Open Source ‘AI Factory’ Push vs China. AI-RTZ #1233 (Part 1) - AI: Reset to Zero",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80bWxMaFRsWUJ0WUQ5d3IwUnFROWh1UjZaZ0U4d3pMYkhSTkszRlc5bWttc2V0UjN5S1N2T1VhZkg5RmpfSk9aYnhsNlhZeU9tZEdIejhzRlc2bnNXVGVBVWszMlRvMXQ3YUY3MGcwQS11MTJ2bDRrbGdn",
@@ -2814,6 +2845,26 @@
    "zh_summary": "艾夫斯予SpaceX跑赢大盘评级目标价225美元",
    "title_zh": "Ives予SpaceX(SPCX.US)“跑赢大盘”、目标价225美元：发债锁定英伟达芯片可强化AI飞轮_全球市场_财经 - 证券之星",
    "sentiment": 1
+  },
+  {
+   "id": "37c19903fb54",
+   "title": "英伟达首度冲击6万亿美元 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pQjhmN0JVajV2a2NELVdtWDRyRzdUaExabHhmMVhKSkV4UFVJaENLdlBlem1mN1ZGelhVQjd0cEF4WEQ3REZLcE9LTWM1WVNiTXFxV0pneDdiYXlxTzU1T0dNd0F0VWFSRklhZlRGWUF2Vmw0WXc",
+   "source": "新浪财经",
+   "published_at": "2026-10-08T00:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-08T00:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pQjhmN0JVajV2a2NELVdtWDRyRzdUaExabHhmMVhKSkV4UFVJaENLdlBlem1mN1ZGelhVQjd0cEF4WEQ3REZLcE9LTWM1WVNiTXFxV0pneDdiYXlxTzU1T0dNd0F0VWFSRklhZlRGWUF2Vmw0WXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "英伟达首度冲击6万亿美元",
+   "title_zh": "英伟达首度冲击6万亿美元 - 新浪财经",
+   "sentiment": 2
   },
   {
    "id": "6512c93549a5",
@@ -6603,80 +6654,6 @@
    "zh_summary": "CNBC盘点周三主要分析师观点",
    "title_zh": "CNBC：周三最值得关注的分析师观点",
    "sentiment": 0
-  },
-  {
-   "id": "73668edeac84",
-   "title": "Nvidia Isn’t the Only Company Getting Rich From the AI Boom - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa3lKUzJzdk1xbnAzbmxWc082Z2l4RzZfYUNzRXFRZUtLMlN2SEZsN0JleXZJWVFQU1J5VGQzZzNGaVlnY1ZaUkloMkk0SjVET2l3RkF3Skh2VnEwZTdKSXM1NnNLUTI3WTFiX0hBR3lqUlFNRzJDWkt1dHJ0eC1CeXdFNHBsTlk5QS00MXB4ODNhSzZGaGJER2xkUmtZYTdNakxGSg",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-07T12:00:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-07T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa3lKUzJzdk1xbnAzbmxWc082Z2l4RzZfYUNzRXFRZUtLMlN2SEZsN0JleXZJWVFQU1J5VGQzZzNGaVlnY1ZaUkloMkk0SjVET2l3RkF3Skh2VnEwZTdKSXM1NnNLUTI3WTFiX0hBR3lqUlFNRzJDWkt1dHJ0eC1CeXdFNHBsTlk5QS00MXB4ODNhSzZGaGJER2xkUmtZYTdNakxGSg"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T12:00:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSnB2Rl81Qzh6VkJ1aVpmS3dBcWVUODFSaDR6NU5ZQzFONHFxdEhMSlRWbGhtbmt0NG10WDZyMmNCbzVKaEltR3NBSGhCczE1SkFwZVVObVpQSW14WWtCemhPMVlNdzB0TEJuY2h3RkJfLVV4N1dqSzNEcEV3aXNPYW84WWFYRlJpQU1NcEpfdmVWYm8"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-07T12:00:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUS2ItZjdZREI1NEl6dkdGYm44MU4wTVBsUjlRdVZhNDZXOFRTTGhPdG9qZFRVMWVpUmVCQzVPMXFPWWNHM0FGN3lYeFlONUp4T2pRTm56MHlOLVJyZFA4WWVfYmtwN2dOZk54M2tlVWF4QWRSYzB4dg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "不止英伟达，AI热潮造就更多赢家",
-   "title_zh": "不止英伟达一家从AI热潮中获利",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.32,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "04b5b7a9f1f0",
-   "title": "Former Google, Nvidia Execs Launch Company to Ease GPU Crunch - The Information",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUdCUGk0TnAyQVhEWDdxVElBN0d0YlR1RXZ5S2tQbUpoLVZ6WEhyQ21sOXF2WjRxckthZmo2a2JpMm9lVE9hb0JFQ0Q3SnkwMEZvQ1hySEpQeTNZNW1MWHRGT0R1STNsM0l5OXJLQnpfeV84TVlBZjdKTDU2QThZQ19sR0pxZVRUMUVUVTRJU3oxdkhVZWdKLVBfeHREQzg",
-   "source": "The Information",
-   "published_at": "2026-10-07T12:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Information",
-     "published_at": "2026-10-07T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUdCUGk0TnAyQVhEWDdxVElBN0d0YlR1RXZ5S2tQbUpoLVZ6WEhyQ21sOXF2WjRxckthZmo2a2JpMm9lVE9hb0JFQ0Q3SnkwMEZvQ1hySEpQeTNZNW1MWHRGT0R1STNsM0l5OXJLQnpfeV84TVlBZjdKTDU2QThZQ19sR0pxZVRUMUVUVTRJU3oxdkhVZWdKLVBfeHREQzg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "前谷歌英伟达高管创业缓解GPU短缺",
-   "title_zh": "前谷歌和英伟达高管创立公司缓解GPU短缺",
-   "sentiment": 0
-  },
-  {
-   "id": "042ff68240a8",
-   "title": "Why Are Nvidia and AMD Stocks Lower While Intel Edges Higher in Premarket Today, Oct. 7? - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0VQbUZNNktrYlJfWHltZGdRMnh0eHhYQkN3cG43ZHNJNk14a29aZDVEbzJCMWxScDl2Vzk0d2FZQlpCc3NkU2pLbldQcmt0Y0RCT2x0aWNLR2VGZTFxWXpId2VaVENxUDZSbDB4Zkh1TGZtVnVEc2p3b0IxN1V4NmozSU42RDlDeXZ4RDB3SW52WTMwWmRDbTh0NkczdW5waDVVMDcwQnN6RlFQYXRWNmRZNGlEYUZ3STc2WEl3",
-   "source": "TipRanks",
-   "published_at": "2026-10-07T11:57:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-07T11:57:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0VQbUZNNktrYlJfWHltZGdRMnh0eHhYQkN3cG43ZHNJNk14a29aZDVEbzJCMWxScDl2Vzk0d2FZQlpCc3NkU2pLbldQcmt0Y0RCT2x0aWNLR2VGZTFxWXpId2VaVENxUDZSbDB4Zkh1TGZtVnVEc2p3b0IxN1V4NmozSU42RDlDeXZ4RDB3SW52WTMwWmRDbTh0NkczdW5waDVVMDcwQnN6RlFQYXRWNmRZNGlEYUZ3STc2WEl3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达AMD盘前下跌",
-   "title_zh": "为何英伟达和AMD盘前下跌而英特尔上涨？",
-   "sentiment": -1
   }
  ]
 }
