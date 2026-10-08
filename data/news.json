@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T19:21:30.574918+00:00",
+ "updated_at": "2026-10-08T19:36:36.886132+00:00",
  "market": {
-  "price": 230.32,
-  "change_pct": -3.01,
+  "price": 230.54,
+  "change_pct": -2.92,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 40
   },
   "day_sentiment": {
-   "avg": 0.42,
-   "count": 169
+   "avg": 0.39,
+   "count": 174
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +37.9%"
+     "note": "目标价中位数 $318（14家），隐含空间 +37.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.42（169条已评分）"
+     "note": "今日新闻情绪 +0.39（174条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $230.32 vs 20日均线 $226.18"
+     "note": "现价 $230.54 vs 20日均线 $226.19"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 88,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 37.9,
-   "ma20": 226.18,
-   "as_of": "2026-10-08T19:21:30.565286+00:00"
+   "implied_upside_pct": 37.7,
+   "ma20": 226.19,
+   "as_of": "2026-10-08T19:36:36.876210+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "a5e2f7bf38f3",
+   "title": "Nvidia NVDA Stock Falls to $230 as OpenAI Revenue Concerns Hit Chip Stocks - FXLeaders",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXNCZmFjRllueVByOVM1Ul9NVnZ4WjFObS1xQTVwM0k3b1ZaRi1KR0Jsdm51dmZqLUF5UHpZS3NQZUdzR1BRQi0yNUpoYVU4azEwblg0dGVJdF9FS2NtWk5FQU5fc0pEZDJpOC1wdUxkTzV4UEtEYk54Z0hYcUxhQ044UV9FdHR1NjhWVXl4VGRoRUFvQ0VfTGdBUWt0TkhaemVSTTQwUW4tOE9CSUFFUkxPSG42NzA",
+   "source": "FXLeaders",
+   "published_at": "2026-10-08T19:30:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FXLeaders",
+     "published_at": "2026-10-08T19:30:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXNCZmFjRllueVByOVM1Ul9NVnZ4WjFObS1xQTVwM0k3b1ZaRi1KR0Jsdm51dmZqLUF5UHpZS3NQZUdzR1BRQi0yNUpoYVU4azEwblg0dGVJdF9FS2NtWk5FQU5fc0pEZDJpOC1wdUxkTzV4UEtEYk54Z0hYcUxhQ044UV9FdHR1NjhWVXl4VGRoRUFvQ0VfTGdBUWt0TkhaemVSTTQwUW4tOE9CSUFFUkxPSG42NzA"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "3ea5b0e70e91",
+   "title": "Building Reliable Data Analytics Agents: Lessons from the KDD Cup | NVIDIA Technical Blog - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2wyaVBiM0lXc3k3UGFxRTJneXdsWDNSaEQ0eEZtbEVFUVoxODVSeGxLdnAwdldJQ2c5a1BiaTBCOG85QVNGa0pvODRKR1RySjNRa3JaZUFVT19yQmtQV2gxOF9QS1RNajNCdFdaandEa1RMZ0xhdTRoMmFrZWl0VkJqSG9xcE8tYTNBS2pZc2hwWTI3amN0TXVUVVQxUjJv",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-08T19:19:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-08T19:19:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2wyaVBiM0lXc3k3UGFxRTJneXdsWDNSaEQ0eEZtbEVFUVoxODVSeGxLdnAwdldJQ2c5a1BiaTBCOG85QVNGa0pvODRKR1RySjNRa3JaZUFVT19yQmtQV2gxOF9QS1RNajNCdFdaandEa1RMZ0xhdTRoMmFrZWl0VkJqSG9xcE8tYTNBS2pZc2hwWTI3amN0TXVUVVQxUjJv"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "1c15aca9ee78",
+   "title": "NVIDIA Corp Stock (NVDA) Moved Down by 3.06% on Oct 8: What Signal Does It Send? - TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajRyckV1WFo2Z01IWHVXMmYwc2ZlM0h5Y1lWQkttQUZ1OEZZTnVVdDFIM0RUQ08yVjNxNE04ZW03OV9rYTFzelBseWlGYUR5QXVXdXdiRThiUmQxY3J0VUtOWW1Jb3VjTGI5cmM3NHNlV3JOdzFHQ09UenFpQ0NqSkxfdkZKd1VDaVhj",
+   "source": "TradingKey",
+   "published_at": "2026-10-08T19:15:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingKey",
+     "published_at": "2026-10-08T19:15:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNajRyckV1WFo2Z01IWHVXMmYwc2ZlM0h5Y1lWQkttQUZ1OEZZTnVVdDFIM0RUQ08yVjNxNE04ZW03OV9rYTFzelBseWlGYUR5QXVXdXdiRThiUmQxY3J0VUtOWW1Jb3VjTGI5cmM3NHNlV3JOdzFHQ09UenFpQ0NqSkxfdkZKd1VDaVhj"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "6e350a3846cf",
    "title": "Nvidia-backed Firmus delaying planned Australia IPO - Bloomberg - Seeking Alpha",
@@ -102,24 +153,21 @@
    "sentiment": -2
   },
   {
-   "id": "ae21ead3f7b6",
-   "title": "英伟达、甲骨文、CoreWeave及其他AI股票因OpenAI营收报告下跌 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQay1nZG04aktRZnRTS3NrRllobm9va0xSUFhObzAyMlV6dW9BbTZWdXViWnJleFV2OWpCbU5YbEtVOWo1R2JhUzYxaVBrZVgtV2UtVzVtQlM0NzY1enNoN0tBMkdtQUc2NUxLWU1JSGhrd2lXSU1jN3hoZ21OTklpc1hoQklpN1Jrdm4tQg",
-   "source": "搜狐网",
-   "published_at": "2026-10-08T19:01:50+00:00",
+   "id": "90401f3bf562",
+   "title": "Nvidia Puts $1 Billion Behind America's Next Tech Wave - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMDA3cEF1S2x6eXppWnNjeDBWUlBPSkthbFZlbng5Tmkwbi1OWDJ2N3lkR3Z2VDZISlpxNHhpX2JBQzVEMFdEczdHS2U2UkxJZHdHbGlwajY2Rk9UQzNWbzR1NmI2ZjV1QzdQOXFiWlJwYWh3MHZ2NnIxakY4LTB6alY1TDlqTEZpb3VsZ3ZBVkg0LUdNQXo3WGw3dUJQeFNPQXpTXzFMTHd1YTZaUFpMZ0pURQ",
+   "source": "TradingView",
+   "published_at": "2026-10-08T19:04:36+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T19:01:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQay1nZG04aktRZnRTS3NrRllobm9va0xSUFhObzAyMlV6dW9BbTZWdXViWnJleFV2OWpCbU5YbEtVOWo1R2JhUzYxaVBrZVgtV2UtVzVtQlM0NzY1enNoN0tBMkdtQUc2NUxLWU1JSGhrd2lXSU1jN3hoZ21OTklpc1hoQklpN1Jrdm4tQg"
+     "name": "TradingView",
+     "published_at": "2026-10-08T19:04:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMDA3cEF1S2x6eXppWnNjeDBWUlBPSkthbFZlbng5Tmkwbi1OWDJ2N3lkR3Z2VDZISlpxNHhpX2JBQzVEMFdEczdHS2U2UkxJZHdHbGlwajY2Rk9UQzNWbzR1NmI2ZjV1QzdQOXFiWlJwYWh3MHZ2NnIxakY4LTB6alY1TDlqTEZpb3VsZ3ZBVkg0LUdNQXo3WGw3dUJQeFNPQXpTXzFMTHd1YTZaUFpMZ0pURQ"
     }
    ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "OpenAI营收报告拖累AI股票下跌",
-   "title_zh": "英伟达、甲骨文、CoreWeave及其他AI股票因OpenAI营收报告下跌 - 搜狐网",
-   "sentiment": -1
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "1c3751badaad",
@@ -140,6 +188,31 @@
    "zh_summary": "特朗普宣布24亿美元AI投资计划",
    "title_zh": "特朗普宣布科技巨头24亿美元投资资助联邦AI计划",
    "sentiment": 1
+  },
+  {
+   "id": "ae21ead3f7b6",
+   "title": "英伟达、甲骨文、CoreWeave及其他AI股票因OpenAI营收报告下跌 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWlBJTTdEV1l3aHNJZ3ExYlYwci1EOW5Sd2FYWmNaZkMxV0R1Z0pyM2pLR20tcW41WmtBZGNnUDM2Y2pNeDhZb3VLMkFlVkVJRE9zWG9QSWFZc3FwQm1kdlhWODgyQUFoUm1WVkNGNWR0Q3hQaGxGZmZNUkh0TWlrVk03QnNhYzR5dDNNVFdGWldoT2JzNHhYZGI3Yy12cXM3TEhGNlRUTXE0Zmx6Nm5IZ1BnUUQ1Q2xPODIxemFWM0dhOTN2MEt6aUlCN3NHNEMwQVJtUUtPQU05ZkFtRkE",
+   "source": "新浪财经",
+   "published_at": "2026-10-08T19:01:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-08T19:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWlBJTTdEV1l3aHNJZ3ExYlYwci1EOW5Sd2FYWmNaZkMxV0R1Z0pyM2pLR20tcW41WmtBZGNnUDM2Y2pNeDhZb3VLMkFlVkVJRE9zWG9QSWFZc3FwQm1kdlhWODgyQUFoUm1WVkNGNWR0Q3hQaGxGZmZNUkh0TWlrVk03QnNhYzR5dDNNVFdGWldoT2JzNHhYZGI3Yy12cXM3TEhGNlRUTXE0Zmx6Nm5IZ1BnUUQ1Q2xPODIxemFWM0dhOTN2MEt6aUlCN3NHNEMwQVJtUUtPQU05ZkFtRkE"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-08T19:01:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQay1nZG04aktRZnRTS3NrRllobm9va0xSUFhObzAyMlV6dW9BbTZWdXViWnJleFV2OWpCbU5YbEtVOWo1R2JhUzYxaVBrZVgtV2UtVzVtQlM0NzY1enNoN0tBMkdtQUc2NUxLWU1JSGhrd2lXSU1jN3hoZ21OTklpc1hoQklpN1Jrdm4tQg"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中",
+   "zh_summary": "OpenAI营收报告拖累AI股票下跌",
+   "title_zh": "英伟达、甲骨文、CoreWeave及其他AI股票因OpenAI营收报告下跌 - 搜狐网",
+   "sentiment": -1
   },
   {
    "id": "c8f9cd7fff46",
@@ -817,12 +890,17 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWElUSXV6aW44Vk9TbTJEZm42Y3ZQSlJ1MmJZdjQxZE5kbDNYbDhxRXZsWGFCYzZtajZGR1dmWlRUR01TLUFTNzFuY3JsVXYzRkdScUlIbldaSExyZ01ndmRZbGdqaEtmQmdQa0NZNDU1bVdqWG10QjhOdGVIUlc0VDJaSTFiTFk",
    "source": "Decrypt News",
    "published_at": "2026-10-08T15:10:49+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Decrypt News",
      "published_at": "2026-10-08T15:10:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWElUSXV6aW44Vk9TbTJEZm42Y3ZQSlJ1MmJZdjQxZE5kbDNYbDhxRXZsWGFCYzZtajZGR1dmWlRUR01TLUFTNzFuY3JsVXYzRkdScUlIbldaSExyZ01ndmRZbGdqaEtmQmdQa0NZNDU1bVdqWG10QjhOdGVIUlc0VDJaSTFiTFk"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T15:10:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNjgxRXVLajFPZGVzYnFZcmszQmNfejZTRlVsMDhyVmpQVHh3bC1iVTZvcUpJRk1EdmJTYUNkTW9wTG1yNDdEaDBLbzZYaE44TmZnaHBtR09RX05Ndll6bjJjUkd6RXlxdFhCMVotTm1CSUdXM25KQllDc3BiT0hNZjhmNld6aWd3alotNEhJZ1JhODEzOTNBRVo3VVpObERfQTdFNw"
     }
    ],
    "category": "其他",
@@ -2409,12 +2487,17 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWVmUmFIOVpJdjcxQTNyeWZ6ZW14c0JiSGl2YWtVYmVyODY3RTNvdEdBS1pLRVlPbzUtUkFleTlDYldhTS1Ia1FSWXNTQU9OQ2tIVl9yODYxWkc3N25lN09GVmcwSUlnUzAxUHpOUndDb0VVUlQ4SEFRb3h3REVZakZqYmtaVzhOcFF0NzhoY1BpalY0YWtQM0dTUTNYYjg",
    "source": "Barchart.com",
    "published_at": "2026-10-08T11:47:37+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Barchart.com",
      "published_at": "2026-10-08T11:47:37+00:00",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWVmUmFIOVpJdjcxQTNyeWZ6ZW14c0JiSGl2YWtVYmVyODY3RTNvdEdBS1pLRVlPbzUtUkFleTlDYldhTS1Ia1FSWXNTQU9OQ2tIVl9yODYxWkc3N25lN09GVmcwSUlnUzAxUHpOUndDb0VVUlQ4SEFRb3h3REVZakZqYmtaVzhOcFF0NzhoY1BpalY0YWtQM0dTUTNYYjg"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T11:47:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVURqNXNQT0tIRDFaeG1uUEwyc016SzNUdU9nS0tray1kZGNSNk1WRm1FSTZxY3dlb1JwbjNZVFJsVUdpdGhCaFN5WXc0Q2Q0Nkw1R2tiUTZOTzFiZUFRZFROZldhTHVmcmN1V2hhZm4tR25Ud2JxZGdrY21MMEI2V3o5ZDVNZ0pfVExQU2Y2Y1QwZktnd0RqRHpn"
     }
    ],
    "category": "其他",
@@ -6648,86 +6731,6 @@
    "session": "盘中",
    "zh_summary": "SpaceX大买英伟达芯片或致经济结构变革",
    "title_zh": "SpaceX大举采购英伟达芯片或助推经济结构变革",
-   "sentiment": 1
-  },
-  {
-   "id": "6705c198a212",
-   "title": "Watch SpaceX Seeks $40B for Nvidia Chips as AI Megadeals Loom - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbEJHeHhKbFhpYjhrN0xidlljaWNmMFc3dzV2eXhlWnpVYVJESGFZZVBNbzBCZnh6R0hUZEdCYmxTRWE3Mm0wV0g5cUxvN2s0dFFoRjVaNGg0N29nSzZ6RlJJUVFVQ2hILTcxZ0lJbXY3dlRjOGI4dU1tbG9nY25uZEdBNldLZw",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-07T17:42:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-07T17:42:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbEJHeHhKbFhpYjhrN0xidlljaWNmMFc3dzV2eXhlWnpVYVJESGFZZVBNbzBCZnh6R0hUZEdCYmxTRWE3Mm0wV0g5cUxvN2s0dFFoRjVaNGg0N29nSzZ6RlJJUVFVQ2hILTcxZ0lJbXY3dlRjOGI4dU1tbG9nY25uZEdBNldLZw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "SpaceX拟融资400亿美元采购英伟达芯片",
-   "title_zh": "SpaceX寻求400亿美元采购英伟达芯片",
-   "sentiment": 2
-  },
-  {
-   "id": "4009db3fcbdc",
-   "title": "微软高管：《使命召唤》将于 2027 年登陆英伟达 RTX Spark 设备。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Zc1BKZVp2azNhWFNtMEtMX3p5ZE5wc1FjWkJFSG9jeWdLSFNqbEh5MHQ5Nnl6UE5TcWZqbml6cWxXT0U0VS1jaVRldw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-07T17:39:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-07T17:39:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Zc1BKZVp2azNhWFNtMEtMX3p5ZE5wc1FjWkJFSG9jeWdLSFNqbEh5MHQ5Nnl6UE5TcWZqbml6cWxXT0U0VS1jaVRldw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "使命召唤2027年登陆英伟达新设备",
-   "title_zh": "微软高管：《使命召唤》将于 2027 年登陆英伟达 RTX Spark 设备。",
-   "sentiment": 1
-  },
-  {
-   "id": "f7248f281c71",
-   "title": "微软：英伟达全新 Nemotron 模型可在个人笔记本与 PC 上本地运行。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DeGJHcGFoQ1JlQmpDM3kzc1MyZzRqRENiRDJTS0FIRENNUGNVa2ZsS1VyQWJ0NmFXVzRyenBPUWhEMTRrVmlWVVAtMA",
-   "source": "手机新浪网",
-   "published_at": "2026-10-07T17:21:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-07T17:21:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DeGJHcGFoQ1JlQmpDM3kzc1MyZzRqRENiRDJTS0FIRENNUGNVa2ZsS1VyQWJ0NmFXVzRyenBPUWhEMTRrVmlWVVAtMA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达Nemotron模型可在笔记本本地运行",
-   "title_zh": "微软：英伟达全新 Nemotron 模型可在个人笔记本与 PC 上本地运行。 - 手机新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "19ff93d91df9",
-   "title": "Microsoft Gets an Nvidia-Powered AI Laptop. Is It Time to Buy? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXBsRE5NTWlWMjNIclMyWTdVQ205WjczNkxjVTlySVB3NXNhSUctS2NtZjNabTdieExyZGF0TWFucEhzNkR5TGlQOEdDcUQxTGJhakJBcmd1cEIwbkNQeWpRUEl4N0FaTHlsMmhsYXphckh2MmhXOXh0ZlZYSHRMaHZxYTVfbmR5dWlRajRfWFRkajNSR3FXay04QWU",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-07T17:19:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T17:19:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXBsRE5NTWlWMjNIclMyWTdVQ205WjczNkxjVTlySVB3NXNhSUctS2NtZjNabTdieExyZGF0TWFucEhzNkR5TGlQOEdDcUQxTGJhakJBcmd1cEIwbkNQeWpRUEl4N0FaTHlsMmhsYXphckh2MmhXOXh0ZlZYSHRMaHZxYTVfbmR5dWlRajRfWFRkajNSR3FXay04QWU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "微软推出英伟达AI笔记本",
-   "title_zh": "微软推出搭载英伟达芯片的AI笔记本，值得买吗",
    "sentiment": 1
   }
  ]
