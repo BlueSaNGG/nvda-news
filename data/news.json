@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T05:51:27.211344+00:00",
+ "updated_at": "2026-10-08T06:06:30.798183+00:00",
  "market": {
   "price": 237.47,
   "change_pct": -0.74,
@@ -10,12 +10,12 @@
    "days_left": 40
   },
   "day_sentiment": {
-   "avg": -1.0,
+   "avg": 0.0,
    "count": 2
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": -1,
-     "note": "今日新闻情绪 -1.00（2条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.00（2条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 33.7,
    "ma20": 225.58,
-   "as_of": "2026-10-08T05:51:27.202793+00:00"
+   "as_of": "2026-10-08T06:06:30.787591+00:00"
   },
   "pe_ttm": 30.2,
   "pe_pct_5y": 28,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "f6fd083c1160",
+   "title": "比亚迪李柯：英伟达仍是我们非常重要的芯片合作伙伴。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlaDVvX08xcG9lSXZkdEU1QnduVkpvRWwwZ1NyemwxYmtQZzhtaUs1eVp2T2htMkxOUGpiTURQekFGVGp0QkJoNXVWelQwLUE",
+   "source": "手机新浪网",
+   "published_at": "2026-10-08T05:58:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-08T05:58:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlaDVvX08xcG9lSXZkdEU1QnduVkpvRWwwZ1NyemwxYmtQZzhtaUs1eVp2T2htMkxOUGpiTURQekFGVGp0QkJoNXVWelQwLUE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "dfd6c30a3e09",
+   "title": "比亚迪执行副总裁李柯：英伟达(NVDA.O)仍是极具实力的芯片合作伙伴。 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQjJCQ0RNcHlsMDhranYwWWpualRDWFNNOUY4NDVrWU8yZVBhM3JaRlljbFd1N05reTJmekx2Q2c1QS1GcER3YlZ6UXJMLUJEZ2ZqVjZGOERJRV9sdC13VVJ4WkJ2S2RuMXM3aHQ0RWdDdDhqRXRBQmdUZExkclRoYVJTdXJfTHVYbEJXazRySmRhanBZMExkSnk4XzljWUJK",
+   "source": "富途牛牛",
+   "published_at": "2026-10-08T05:58:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-08T05:58:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQjJCQ0RNcHlsMDhranYwWWpualRDWFNNOUY4NDVrWU8yZVBhM3JaRlljbFd1N05reTJmekx2Q2c1QS1GcER3YlZ6UXJMLUJEZ2ZqVjZGOERJRV9sdC13VVJ4WkJ2S2RuMXM3aHQ0RWdDdDhqRXRBQmdUZExkclRoYVJTdXJfTHVYbEJXazRySmRhanBZMExkSnk4XzljWUJK"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "e90e36f44e94",
    "title": "外媒：三星HBM4E 12层通过英伟达质量验证 - 电子工程专辑",
@@ -77,29 +111,26 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "外媒：三星HBM4E 12层通过英伟达质量验证",
    "zh_summary": "三星HBM4E 12层通过英伟达质量验证",
+   "title_zh": "外媒：三星HBM4E 12层通过英伟达质量验证",
    "sentiment": 1
   },
   {
-   "id": "f4fd094910a0",
-   "title": "华为昇腾份额超过英伟达 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbmRsT0pObHNnbnVoNTdNTlI4S2xNNGcwWXYzamxRb3R4OHU5OGppY0FxYkNFdkZDZ3dHS3FyaU1lV2tCSFFqVzJVeEswTEtnQWY3QVlSQUtPV3NPRXI1SHJDU3lIY3RwV1BjcG8yaXBCY21kbFZ1cGREbGJILXc",
-   "source": "新浪网",
-   "published_at": "2026-10-08T05:30:00+00:00",
+   "id": "84d17c33076f",
+   "title": "英伟达收购AI模型平台Hugging Face；AMD收购李飞飞创立的World Labs | 2026年第三季度全球企业十大并购案 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOVF5UWJOQWNJMHdlNDlVZFhQRmc0WDV0bFRFckttOUlqV0l3cndzTWwtQWpScDFLY3l0Z3FLS200SVNWY2JRaDJDSzdONTdTT0F4ZnJIVlVoTkpQZWN4RnpkejJhTjBIUTZlaVpxclNzdm1Ra014YnRFMUxfdHdPV0FRc1M1NXlvRUthbw",
+   "source": "搜狐网",
+   "published_at": "2026-10-08T05:33:00+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "新浪网",
-     "published_at": "2026-10-08T05:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbmRsT0pObHNnbnVoNTdNTlI4S2xNNGcwWXYzamxRb3R4OHU5OGppY0FxYkNFdkZDZ3dHS3FyaU1lV2tCSFFqVzJVeEswTEtnQWY3QVlSQUtPV3NPRXI1SHJDU3lIY3RwV1BjcG8yaXBCY21kbFZ1cGREbGJILXc"
+     "name": "搜狐网",
+     "published_at": "2026-10-08T05:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOVF5UWJOQWNJMHdlNDlVZFhQRmc0WDV0bFRFckttOUlqV0l3cndzTWwtQWpScDFLY3l0Z3FLS200SVNWY2JRaDJDSzdONTdTT0F4ZnJIVlVoTkpQZWN4RnpkejJhTjBIUTZlaVpxclNzdm1Ra014YnRFMUxfdHdPV0FRc1M1NXlvRUthbw"
     }
    ],
    "category": "其他",
-   "session": "盘前",
-   "zh_summary": "华为昇腾份额超过英伟达",
-   "title_zh": "华为昇腾份额超过英伟达 - 新浪网",
-   "sentiment": -1
+   "session": "盘前"
   },
   {
    "id": "658a35963eba",
@@ -407,6 +438,23 @@
    "sentiment": 1
   },
   {
+   "id": "8b2500e97e81",
+   "title": "微软称新旗舰笔记本搭载英伟达芯片，部分AI任务表现优于苹果同类产品_7x24快讯_新浪财经 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvN0NJTTJCYWQ3OVZmOHdRcjVnRGJPNVNoeWNYdzgwQkszdzgtVFJaQWwwQXRZSzc1VzFIQkJ4YnpQX09SRzM3ckVzVQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-08T02:47:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-08T02:47:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvN0NJTTJCYWQ3OVZmOHdRcjVnRGJPNVNoeWNYdzgwQkszdzgtVFJaQWwwQXRZSzc1VzFIQkJ4YnpQX09SRzM3ckVzVQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "2ec9a713b1a5",
    "title": "Nvidia-Backed Firmus Said to Close Books as Mega IPO Struggles - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGxrUDVTc2JTVERpVDhpZ0tCekJVZmRMWjkyRHZWWVpGRWlvbVZxZmZGTUgyZDlxV2MzVUFGSmhjeVc2Qkc4cTlNWnNZaGp3MllmR0FwcjVOV0FLZGRNSVUxZm1VQlFSWE00X1czdkVtaGlWMnFUUC0xM0VVd0ZIWTdrY2xtbUhGY19DTmEwY0VRX2lQQjJ4eUs1SHJwVm5ILTVjVHpYNFAxWVBINzJGOEVQMA",
@@ -567,8 +615,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "\"AI央行\"英伟达的\"千亿资本局\"",
    "zh_summary": "\"AI央行\"英伟达的千亿资本局",
+   "title_zh": "\"AI央行\"英伟达的\"千亿资本局\"",
    "sentiment": 0
   },
   {
@@ -698,12 +746,17 @@
   },
   {
    "id": "46c452691fac",
-   "title": "售价67万元！英伟达推出Windows版DGX Station：单机20 PFLOPs AI算力 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzg1alZqWDBZVzh2ekt0VjhiNWtJODR0eFVOWHJ0RTA2SDJhaXJ6YV9ia0N4SVJmejY5dUNURFJBUTlaRkFzRGwxdnE5UUtVaE8yQVBpa0RhWTgxOWZTZjZTaFd0bTFocWlqVlZZdFhHYUJpWWFoV3FrQVFyR3RxU3dZckd1TTRv",
-   "source": "搜狐网",
-   "published_at": "2026-10-08T01:30:12+00:00",
-   "outlets_count": 2,
+   "title": "售价67万元！英伟达推出Windows版DGX Station：单机20 PFLOPs AI算力 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WeXFFaUFQVkExNENUQnRLM19ZUF9qN0xtTlc2Q2hjNHRTVUpRazhqQmxpbjN2ektod0theGpsNnVhMm1nRXhFdFZha3pmMl80elg5MmNQU3E",
+   "source": "驱动之家",
+   "published_at": "2026-10-08T01:30:00+00:00",
+   "outlets_count": 3,
    "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-08T01:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WeXFFaUFQVkExNENUQnRLM19ZUF9qN0xtTlc2Q2hjNHRTVUpRazhqQmxpbjN2ektod0theGpsNnVhMm1nRXhFdFZha3pmMl80elg5MmNQU3E"
+    },
     {
      "name": "搜狐网",
      "published_at": "2026-10-08T01:30:12+00:00",
@@ -1455,8 +1508,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "特朗普将向马斯克、英伟达黄仁勋授予科学奖",
    "zh_summary": "特朗普将向黄仁勋授予科学奖",
+   "title_zh": "特朗普将向马斯克、英伟达黄仁勋授予科学奖",
    "sentiment": 0
   },
   {
@@ -6643,66 +6696,6 @@
    "zh_summary": "SpaceX据悉筹400亿美元购买英伟达芯片",
    "title_zh": "SpaceX据悉为购买英伟达芯片寻求400亿美元",
    "sentiment": 2
-  },
-  {
-   "id": "33150f9b4430",
-   "title": "采购英伟达芯片，SpaceX拟募资400亿美元 - 凤凰网财经",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWZ1VGRUt6LVF0Q2hPQWh5NlNCRUdVUnZaTUFnUm0xSC1uZXFrYnVubXZqLWRGTmVDRkRITGVXSjdoOW5WcWJENkt5TmRvd0hE",
-   "source": "凤凰网财经",
-   "published_at": "2026-10-06T23:45:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "凤凰网财经",
-     "published_at": "2026-10-06T23:45:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWZ1VGRUt6LVF0Q2hPQWh5NlNCRUdVUnZaTUFnUm0xSC1uZXFrYnVubXZqLWRGTmVDRkRITGVXSjdoOW5WcWJENkt5TmRvd0hE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "SpaceX拟募资400亿美元采购英伟达芯片",
-   "title_zh": "采购英伟达芯片，SpaceX拟募资400亿美元 - 凤凰网财经",
-   "sentiment": 2
-  },
-  {
-   "id": "7ae104c73854",
-   "title": "Is Nvidia’s (NVDA) Free Cash Flow Keeping Pace With Its Reported Earnings? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUHU0NzhWVEt2NGxxRzYyVk04cFZ6emd2VThYal9Bdjlhc0dyZk9pSG1QcllVSmgzak9MYzNHUFNnNlEzcFo3clJwcHZvVVk5aWlidnFOWmkza1gtblNreHBXdHdJYkk5THBLMGg1akVNOUp1UjhlN2kxbWpNZmxVS1hUUFowWFdET1dMM3lrRTFGeVRGR2c",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-06T23:39:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T23:39:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUHU0NzhWVEt2NGxxRzYyVk04cFZ6emd2VThYal9Bdjlhc0dyZk9pSG1QcllVSmgzak9MYzNHUFNnNlEzcFo3clJwcHZvVVk5aWlidnFOWmkza1gtblNreHBXdHdJYkk5THBLMGg1akVNOUp1UjhlN2kxbWpNZmxVS1hUUFowWFdET1dMM3lrRTFGeVRGR2c"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "质疑英伟达自由现金流是否跟上盈利",
-   "title_zh": "英伟达自由现金流能否跟上报告的盈利？",
-   "sentiment": 0
-  },
-  {
-   "id": "35814c3133bb",
-   "title": "黄仁勋女婿何许人也？不到两年直升英伟达权力核心 业界：善抓问题本质 - 集微网",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9MbDh4dEFTUU1oR1VmM09hMm5DSmVuMjNBYnZpTWt1WUFycURieXZmaGdyRkNtVkpoaUxBTU5rVFFLQXc",
-   "source": "集微网",
-   "published_at": "2026-10-06T23:27:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "集微网",
-     "published_at": "2026-10-06T23:27:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9MbDh4dEFTUU1oR1VmM09hMm5DSmVuMjNBYnZpTWt1WUFycURieXZmaGdyRkNtVkpoaUxBTU5rVFFLQXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "黄仁勋女婿两年跻身英伟达权力核心",
-   "title_zh": "黄仁勋女婿何许人也？不到两年直升英伟达权力核心 业界：善抓问题本质 - 集微网",
-   "sentiment": 0
   }
  ]
 }
