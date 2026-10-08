@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T04:36:27.631057+00:00",
+ "updated_at": "2026-10-08T04:51:28.801896+00:00",
  "market": {
   "price": 237.47,
   "change_pct": -0.74,
@@ -10,8 +10,8 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.68,
-   "count": 257
+   "avg": 0.69,
+   "count": 256
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.68（257条已评分）"
+     "note": "今日新闻情绪 +0.69（256条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 33.7,
    "ma20": 225.58,
-   "as_of": "2026-10-08T04:36:27.616696+00:00"
+   "as_of": "2026-10-08T04:51:28.788721+00:00"
   },
   "pe_ttm": 30.2,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "fef672117a44",
+   "title": "Nvidia’s secret to retaining staff? No org charts, a flat structure, and two extra days off every quarter - Fortune",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZnBraGtEd2xyU3BPUi1OTk9lX3U4b09XUHd0ajdTWXNUYnlSRG5vQ2ZrYjBhV2p6Q1gxYkJ5SEdOSFFIcXhfOGNTWmZrYW9rREdEcjRyWERQUVZuTUExWEZ3UmVxb3RFQ2NYTkVLWTA0dlRub0xmZjVsYU9BQTNHSGROa2g4UVByMXY1eGJHbjFMQmRBSzlKa0xDSmEwQVczcTJxNXJGZDlNazRPVkhERjdzYW9oR1BiMXAzQ2pOeHgzWGN3OENJ",
+   "source": "Fortune",
+   "published_at": "2026-10-08T04:44:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Fortune",
+     "published_at": "2026-10-08T04:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZnBraGtEd2xyU3BPUi1OTk9lX3U4b09XUHd0ajdTWXNUYnlSRG5vQ2ZrYjBhV2p6Q1gxYkJ5SEdOSFFIcXhfOGNTWmZrYW9rREdEcjRyWERQUVZuTUExWEZ3UmVxb3RFQ2NYTkVLWTA0dlRub0xmZjVsYU9BQTNHSGROa2g4UVByMXY1eGJHbjFMQmRBSzlKa0xDSmEwQVczcTJxNXJGZDlNazRPVkhERjdzYW9oR1BiMXAzQ2pOeHgzWGN3OENJ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "2490d3e26079",
    "title": "AI: Nvidia’s Open Source ‘AI Factory’ Push vs China. AI-RTZ #1233 (Part 1) - AI: Reset to Zero",
@@ -80,26 +97,6 @@
    "zh_summary": "英伟达开源AI工厂计划对标中国",
    "title_zh": "英伟达开源\"AI工厂\"计划 vs 中国",
    "sentiment": 0
-  },
-  {
-   "id": "0e2de868db2a",
-   "title": "传三星HBM4E已通过英伟达的测试：用于下一代Rubin Ultra平台 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa0x6U1gyUTYyTnNVSlFvdzAyNDdhQmJJaUg2SWtaTkdaVDBNVk9LU2R0aF9BeTNuMGZrNmVVc0wxbTFKZUU2dFNmM1ZEY01hMkxkVXU5NWh5bkd6RHYzUEJUckN5THpxMzVNZ0RwZ3NpVWhuV1poaUNKQnJxS2Rla3pONkY0REtMQS14Rw",
-   "source": "搜狐网",
-   "published_at": "2026-10-08T03:36:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T03:36:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa0x6U1gyUTYyTnNVSlFvdzAyNDdhQmJJaUg2SWtaTkdaVDBNVk9LU2R0aF9BeTNuMGZrNmVVc0wxbTFKZUU2dFNmM1ZEY01hMkxkVXU5NWh5bkd6RHYzUEJUckN5THpxMzVNZ0RwZ3NpVWhuV1poaUNKQnJxS2Rla3pONkY0REtMQS14Rw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "传三星HBM4E通过英伟达测试",
-   "title_zh": "传三星HBM4E已通过英伟达的测试：用于下一代Rubin Ultra平台 - 搜狐网",
-   "sentiment": 1
   },
   {
    "id": "337778ccf766",
@@ -4010,6 +4007,31 @@
    "sentiment": 1
   },
   {
+   "id": "0e2de868db2a",
+   "title": "传三星HBM4E已通过英伟达的测试：用于下一代Rubin Ultra平台 - 雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MRmZkOHJnRDZuMmYwd19ETkNMd0VBMmtMM1hSeG42NzFXcXM1OEhpcUh5TWlUSmEwVDZNb0ZSSWVBSzE5QzFpQVhpcl85U2dO",
+   "source": "雪球",
+   "published_at": "2026-10-07T12:55:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "雪球",
+     "published_at": "2026-10-07T12:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MRmZkOHJnRDZuMmYwd19ETkNMd0VBMmtMM1hSeG42NzFXcXM1OEhpcUh5TWlUSmEwVDZNb0ZSSWVBSzE5QzFpQVhpcl85U2dO"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-08T03:36:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa0x6U1gyUTYyTnNVSlFvdzAyNDdhQmJJaUg2SWtaTkdaVDBNVk9LU2R0aF9BeTNuMGZrNmVVc0wxbTFKZUU2dFNmM1ZEY01hMkxkVXU5NWh5bkd6RHYzUEJUckN5THpxMzVNZ0RwZ3NpVWhuV1poaUNKQnJxS2Rla3pONkY0REtMQS14Rw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "传三星HBM4E通过英伟达测试",
+   "title_zh": "传三星HBM4E已通过英伟达的测试：用于下一代Rubin Ultra平台 - 搜狐网",
+   "sentiment": 1
+  },
+  {
    "id": "3fa34ae6f134",
    "title": "SpaceX Reportedly Seeks $40 Billion in Loans, Debt to Buy Nvidia Chips - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNkx0TFJ3cW5FOEVKb25aZWc1MzBER2l3R1dVQ3ZUejNHc3pkMTRtLW1HUjVtYWdXRHVWNlVDTTlFWnZkWi1CeDBsRFVhYVNmcDlXM2V5cm84YWQ4SmItNkM0dGhWWHdaa2RWRnBJdUpxYjhYb21hRXFnUDB1aEV0anVuOVh6VjZHUUJYanZSS202ZWVyVExEZHhJakhjbnVtai1FeWRYSURCcUhRRWtsSjE0WDJBanRQUERVQXRidWNHRlVBRHBsRQ",
@@ -5368,6 +5390,23 @@
    "sentiment": 1
   },
   {
+   "id": "1139353ed894",
+   "title": "NVIDIA Corporation $NVDA Stock Holdings Reduced by Korea Investment CORP - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc3VDcTB1YzFxVUxkaE4yLTVocWZDdkZNSEc5RjFLaU4yRVJnOGVlREJCOGZhY0Z1cG16Skg1VHZiWVFoUG1wV2wwcGszRFhSZ3hQam1UbHJ6aTJMLXdPZnZvQUJLQ2doU21UWnJyS1NvTXRFekt2emNxTVRKLWpybmZHRTU0VTlRclFxMzVRbGhhUC0wX3dkNS1IYjdjZXdnNlJ3V2doUnNmU21UTmdLZG0zOHROSlF4dDFDY25RNXNfY1ZzSGNkMm9oN1k",
+   "source": "MarketBeat",
+   "published_at": "2026-10-07T07:43:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-07T07:43:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc3VDcTB1YzFxVUxkaE4yLTVocWZDdkZNSEc5RjFLaU4yRVJnOGVlREJCOGZhY0Z1cG16Skg1VHZiWVFoUG1wV2wwcGszRFhSZ3hQam1UbHJ6aTJMLXdPZnZvQUJLQ2doU21UWnJyS1NvTXRFekt2emNxTVRKLWpybmZHRTU0VTlRclFxMzVRbGhhUC0wX3dkNS1IYjdjZXdnNlJ3V2doUnNmU21UTmdLZG0zOHROSlF4dDFDY25RNXNfY1ZzSGNkMm9oN1k"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "71e596479e78",
    "title": "NVIDIA Corporation $NVDA Position Increased by Westpac Banking Corp - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM1h6alllZHJqVHl0S1c1UDBUeF85NzNITXFCTzBtdWUwUC1pQlpnZGROQ0tTQmZibmphZElyUnNaMUYxanM0Zlh2THB1bDVOLTRiM1E4SlpHWG9nTjEtVG43eFlvSkZIUFFtOWR4MVpvdG5UYllacEluczRfRlRwQzFfVFpUZFRIZEpEWlhPNzJTWGhmRGttOURGa3I0M2tPQ2tSSFB2TkNYMXN4MThQWngzS3FOam1xTUlZcXBZZ2F3U2t1SEE",
@@ -5386,26 +5425,6 @@
    "zh_summary": "西太平洋银行增持英伟达股票",
    "title_zh": "西太平洋银行增持英伟达 $NVDA 头寸",
    "sentiment": 1
-  },
-  {
-   "id": "d82c9db90dbb",
-   "title": "NVIDIA Corporation $NVDA Stock Acquired by Emerald Investment Advisers LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMlJNS2I4REIySTJaaDUxVUhBXzdVM3VtSG5WeEJEeXFpZ2FFdEZzNWJ0U1dwemFpTE1meFNWSXZ4eDgxZ1BkVGsxQktRYmJVWVBsRGNVMXBsNDFEY2FvMnAtQ2I5bENaR3BLT2FpLXRiMjNJZkFnSVNjQUYyc1NjUXBsX3JUVnRPdzV6OTNFNUVadnRmaFZLcllpaXlIUzczRENXdkxaV2RWZzQ1b3RaODNuRkV3YnM1N2pyYjV3dGEycHJpblcyZ0VEYU5EeG8",
-   "source": "MarketBeat",
-   "published_at": "2026-10-07T07:43:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-07T07:43:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMlJNS2I4REIySTJaaDUxVUhBXzdVM3VtSG5WeEJEeXFpZ2FFdEZzNWJ0U1dwemFpTE1meFNWSXZ4eDgxZ1BkVGsxQktRYmJVWVBsRGNVMXBsNDFEY2FvMnAtQ2I5bENaR3BLT2FpLXRiMjNJZkFnSVNjQUYyc1NjUXBsX3JUVnRPdzV6OTNFNUVadnRmaFZLcllpaXlIUzczRENXdkxaV2RWZzQ1b3RaODNuRkV3YnM1N2pyYjV3dGEycHJpblcyZ0VEYU5EeG8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "韩国投资公社减持英伟达股票",
-   "title_zh": "韩国投资公社减持英伟达 $NVDA 股票",
-   "sentiment": -1
   },
   {
    "id": "5f8d8ebf1c3e",
@@ -6236,12 +6255,17 @@
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pTGhxM3p6Y21TWlJ4U2drWllNM1A3clgzVmRpMEFUZDI3U0l3VHNTMDkyZERqVFJoallSZVJmZlE1aFNyRHAw",
    "source": "动脉网",
    "published_at": "2026-10-07T00:37:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "动脉网",
      "published_at": "2026-10-07T00:37:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pTGhxM3p6Y21TWlJ4U2drWllNM1A3clgzVmRpMEFUZDI3U0l3VHNTMDkyZERqVFJoallSZVJmZlE1aFNyRHAw"
+    },
+    {
+     "name": "36Kr",
+     "published_at": "2026-10-07T13:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1acVE5dmdHQl9rNmtiZnA3a0YwTm5GNTR0RjFtUGZfNkJ2VThrNGxncjIzdjN2c0ZaM0pJY2MzbXpZUTl6Y3VWbnpILS1Wd1dM"
     }
    ],
    "category": "其他",
@@ -6784,40 +6808,6 @@
     "pct": 0.32,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "073c933e1375",
-   "title": "SpaceX looks to raise $40bn to buy Nvidia chips - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdThuRWl1b3NtaUE5aFhSeXVUY0xfYjhBZXJJaG1VWWR0QXBSQ2txLTBrbTlKNm9KQmtqcG95Y3BLNlRQZF96a004TS1xaGlyQUVUaEdqNXZOTzZwdC1IU001ZmM5a191dGNRYjNCWXkwcEk0cjVhams2WUc5aGMxek13b1U",
-   "source": "Financial Times",
-   "published_at": "2026-10-06T22:28:55+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Financial Times",
-     "published_at": "2026-10-06T22:28:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdThuRWl1b3NtaUE5aFhSeXVUY0xfYjhBZXJJaG1VWWR0QXBSQ2txLTBrbTlKNm9KQmtqcG95Y3BLNlRQZF96a004TS1xaGlyQUVUaEdqNXZOTzZwdC1IU001ZmM5a191dGNRYjNCWXkwcEk0cjVhams2WUc5aGMxek13b1U"
-    },
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-06T22:57:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelk1VmhBcFVqRmpRQndWdklsTm1EVVZmaHk4REFBRXk1WmJYdDMxUDBxSEFkNHl1YWs2OUNCU1ZDWXRVcG9XaGJzR2JHaFUtLXlNaHZTZVNxQjN2NGkzTW5jczlfZXN1S3ppd0ttdnJZemtvM3llR25xOUVvSVMxY3hPd1dtaEtVV2NRNXN4eU5wMG4zUjNxWW9WTEFHT2l4V1p5OE1oODNoVE45bXJGZUQ1SQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T23:57:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUpQMTgyUVo4dU5OREUwVm9udlUzTHhvYjk0ZnJ6T04tTWk5ejRXQl9fUXd6UTVfSmlXSVg3SThRdllRV3RNeFVaY2txTGNkSjU0eGl3a2d1M2RVNy1NV0pCTUJoS2Z5X25RN0hacENNNU96VjNabmxqQi15M1NVenBEY0pLRTV3TVA1UWNyLURDcnM"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "price_reaction": {
-    "pct": -0.36,
-    "window_h": 2.0
-   },
-   "zh_summary": "SpaceX拟融资400亿美元购买英伟达芯片",
-   "title_zh": "SpaceX拟融资400亿美元购买英伟达芯片（金融时报）",
-   "sentiment": 1
   }
  ]
 }
