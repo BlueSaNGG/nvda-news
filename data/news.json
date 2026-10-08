@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T16:36:29.965847+00:00",
+ "updated_at": "2026-10-08T16:51:30.892502+00:00",
  "market": {
-  "price": 235.45,
-  "change_pct": -0.85,
+  "price": 233.67,
+  "change_pct": -1.6,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.42,
-   "count": 142
+   "count": 144
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 95% 分位（偏高）"
+     "note": "现价处于52周区间 92% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +34.8%"
+     "note": "目标价中位数 $318（14家），隐含空间 +35.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.42（142条已评分）"
+     "note": "今日新闻情绪 +0.42（144条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $235.45 vs 20日均线 $226.43"
+     "note": "现价 $233.67 vs 20日均线 $226.34"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 95,
+   "price_52w_pct": 92,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 34.8,
-   "ma20": 226.43,
-   "as_of": "2026-10-08T16:36:29.950313+00:00"
+   "implied_upside_pct": 35.9,
+   "ma20": 226.34,
+   "as_of": "2026-10-08T16:51:30.877592+00:00"
   },
-  "pe_ttm": 29.9,
+  "pe_ttm": 29.7,
   "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+34.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+35.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "5485736778d6",
+   "title": "Meet the RTX Spark, Microsoft and NVIDIA's AI Superchip - AI Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVGZ5SkZoODh1T3pzVm5IZFczR3FpM2x3a3E4YU5XR2pXY2VWREZ5Ymt6RHRUb3VIOTlJQUhHcWdDcVlMb3lKRlFaazlCb3ZIX0pqS2dwWHhtM2cycVh4czZnMFlHdEZSRGRLdEU4YVRZekVhd2R3RzJGcklhUnhlT2xIdGdFLXpl",
+   "source": "AI Magazine",
+   "published_at": "2026-10-08T16:49:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "AI Magazine",
+     "published_at": "2026-10-08T16:49:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVGZ5SkZoODh1T3pzVm5IZFczR3FpM2x3a3E4YU5XR2pXY2VWREZ5Ymt6RHRUb3VIOTlJQUhHcWdDcVlMb3lKRlFaazlCb3ZIX0pqS2dwWHhtM2cycVh4czZnMFlHdEZSRGRLdEU4YVRZekVhd2R3RzJGcklhUnhlT2xIdGdFLXpl"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "f6f7a41ebc0e",
+   "title": "Nvidia Stock Valuation: The Earnings Case for an Undervalued Giant - finchannel",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQTkwOHpKbmdaRkVxMnhaY1kxc2taX1lXdlUzaGJ5cHdQamg5cFJWOGpKZU5vZXM1ZHpJMFUyVy1XN2swc3g2cVo2M1lXUFB1d1EteUZZNEpOcE9UNEJscnRLSmhVU2lZb1NmVjFJN2NZODhQWE5KdDlJdDlmdDItQ2MyQkJGQWxhWFRjeHREaExiUUpTSkRoWm0wbno0bmVzVWdHZmpFSlBBSVNXY1ZmVFU3Tk1qSUtOVnZGOVQ4ZE1jakE0S2xkdHJxdTg0YlF3OHZGTkJGeWhJZw",
+   "source": "finchannel",
+   "published_at": "2026-10-08T16:46:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "finchannel",
+     "published_at": "2026-10-08T16:46:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQTkwOHpKbmdaRkVxMnhaY1kxc2taX1lXdlUzaGJ5cHdQamg5cFJWOGpKZU5vZXM1ZHpJMFUyVy1XN2swc3g2cVo2M1lXUFB1d1EteUZZNEpOcE9UNEJscnRLSmhVU2lZb1NmVjFJN2NZODhQWE5KdDlJdDlmdDItQ2MyQkJGQWxhWFRjeHREaExiUUpTSkRoWm0wbno0bmVzVWdHZmpFSlBBSVNXY1ZmVFU3Tk1qSUtOVnZGOVQ4ZE1jakE0S2xkdHJxdTg0YlF3OHZGTkJGeWhJZw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "0b919c3b54ad",
    "title": "Nvidia poised for strong growth through 2027 am... - Pluang",
@@ -2549,26 +2583,6 @@
    "zh_summary": "英伟达PivotOPD让AI智能体纠错",
    "title_zh": "英伟达PivotOPD教多轮AI智能体从关键错误中恢复",
    "sentiment": 1
-  },
-  {
-   "id": "447eb19426f4",
-   "title": "SpaceX in talks to raise $40 billion in loans for Nvidia chips: Report - Tech Xplore",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ITWt0WWVBU1AyU3FINVJBQno4RF9tWi11dW13UmNGNHdHd3VtV0FhSVotQVpwZzdzaUVmeFAtQmk2dnYwQy1pQW13WU9IRlNUQXhmRFBqU1lTZlFBc3FONkNzb29FZFdrWW80UDE4M3owNmg1d1U4MFV2WDcyNlk",
-   "source": "Tech Xplore",
-   "published_at": "2026-10-08T08:39:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tech Xplore",
-     "published_at": "2026-10-08T08:39:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ITWt0WWVBU1AyU3FINVJBQno4RF9tWi11dW13UmNGNHdHd3VtV0FhSVotQVpwZzdzaUVmeFAtQmk2dnYwQy1pQW13WU9IRlNUQXhmRFBqU1lTZlFBc3FONkNzb29FZFdrWW80UDE4M3owNmg1d1U4MFV2WDcyNlk"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "SpaceX拟融资400亿美元购英伟达芯片",
-   "title_zh": "报道：SpaceX洽谈融资400亿美元购买英伟达芯片",
-   "sentiment": 2
   },
   {
    "id": "fc420fb21919",
@@ -6678,26 +6692,6 @@
    "session": "盘中",
    "zh_summary": "惠普泄露英伟达RTX Spark笔记本定价",
    "title_zh": "惠普泄露显示英伟达RTX Spark笔记本定价",
-   "sentiment": 1
-  },
-  {
-   "id": "171e03455f4e",
-   "title": "Faster Scientific Image Analysis with NVIDIA cuPhoton | NVIDIA Technical Blog - NVIDIA Developer",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb002el9MUjhRS1ZhdDBhQnlDcG9idjRYODFoeWVIMFJQNkNaOWRuVi1uRmZqYlh5Sk1yZDBkeERSclpGRGhWTHZjM2s5eWtHZUVHNVpZWVR3RFFwWEdQUEpiR00tUW9VemlfZGc0aXpHTkpJTlVTQUhyVmlTNjdkS2EtWENCUEZDT3RxSVlyTDZ6UQ",
-   "source": "NVIDIA Developer",
-   "published_at": "2026-10-07T15:01:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Developer",
-     "published_at": "2026-10-07T15:01:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb002el9MUjhRS1ZhdDBhQnlDcG9idjRYODFoeWVIMFJQNkNaOWRuVi1uRmZqYlh5Sk1yZDBkeERSclpGRGhWTHZjM2s5eWtHZUVHNVpZWVR3RFFwWEdQUEpiR00tUW9VemlfZGc0aXpHTkpJTlVTQUhyVmlTNjdkS2EtWENCUEZDT3RxSVlyTDZ6UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达推出cuPhoton加速科学图像分析",
-   "title_zh": "英伟达cuPhoton实现更快的科学图像分析",
    "sentiment": 1
   }
  ]
