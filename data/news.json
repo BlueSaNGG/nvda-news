@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T20:21:35.137139+00:00",
+ "updated_at": "2026-10-08T20:36:29.534495+00:00",
  "market": {
   "price": 230.48,
   "change_pct": -2.94,
@@ -10,8 +10,8 @@
    "days_left": 40
   },
   "day_sentiment": {
-   "avg": 0.37,
-   "count": 182
+   "avg": 0.36,
+   "count": 184
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.37（182条已评分）"
+     "note": "今日新闻情绪 +0.36（184条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.8,
    "ma20": 226.18,
-   "as_of": "2026-10-08T20:21:35.123854+00:00"
+   "as_of": "2026-10-08T20:36:29.520814+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -107,19 +107,33 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdWxVdzN2Um5zZkhPZXJpY04tSlBXdGFKWEdCQ0FQelgwVXBVcnEzcjQ3Y3R5ZE52RHZQdkI5LTZjeFlka2xveWE0VFBXT002b08ybWZrSi11N1daOEJMRUxMRkVDbmFaVGhlLTdDTzA1eG8yVVk5bG8tTE9rQjM0cHdkZG8xbmhnQUFNWDNDRFplRmVtc1h3eUhiNkVBQVBCVTFCZ1FSY1Y1eWRQWkpHNkNmTlIwbkcy",
    "source": "FinancialContent",
    "published_at": "2026-10-08T19:45:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "FinancialContent",
      "published_at": "2026-10-08T19:45:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdWxVdzN2Um5zZkhPZXJpY04tSlBXdGFKWEdCQ0FQelgwVXBVcnEzcjQ3Y3R5ZE52RHZQdkI5LTZjeFlka2xveWE0VFBXT002b08ybWZrSi11N1daOEJMRUxMRkVDbmFaVGhlLTdDTzA1eG8yVVk5bG8tTE9rQjM0cHdkZG8xbmhnQUFNWDNDRFplRmVtc1h3eUhiNkVBQVBCVTFCZ1FSY1Y1eWRQWkpHNkNmTlIwbkcy"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-08T19:45:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnNQVU9MZjdXMm01LU9kOGZkekJtUHluQXhld003WjZKR0diVEl5ZUdmN1FsMzV6cW9FMVBRRVFnRlpCV0lpNFBsSlpyTFFzQmhVUk5SOGVLRXF6T3lwd0hMaXdGNTQ4ZjhYYUFSaGpYeE9FZnRvaVNnMmVHRmlaNUhCYzRpbVo2MERYTkxaRjhmeW9DQ3dqeWJLNklsUVJLRUljaFdqMlU"
+    },
+    {
+     "name": "StockStory",
+     "published_at": "2026-10-08T20:26:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTWxPaEhCeTBGWGduQnhTdFZyNFRDUVAxN21JMW1wYVlvUWlWdVRmUUxHN2lrZy1uRGVMTl8tM3JkNzVSVG5WTV9LV0ZBaW5kVGpNR0J2ZDY4QktfMVlESlYwR3hYZmpOZW5leG03QUVWMkxJb0ZGMWRVNUFxNE5yVlpRaHo0M1VKU1YzajhaazRoSDFQZ3M4UHVma2otN20xMFNpOEhSQjBmT1Fo"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达股票今日下跌原因解析",
    "title_zh": "英伟达（NVDA）股票今日下跌的原因",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.05,
+    "window_h": 0.2
+   }
   },
   {
    "id": "a5e2f7bf38f3",
@@ -925,6 +939,23 @@
    "zh_summary": "英伟达DSX Ready纳入AI工厂供电散热蓝图",
    "title_zh": "英伟达DSX Ready将供电散热纳入AI工厂蓝图",
    "sentiment": 1
+  },
+  {
+   "id": "068df84d9969",
+   "title": "Jensen Huang Has Dismissed AI \"Doomsday Narratives,\" Saying, \"Scaring People Is Unnecessary. It Is Irresponsible.\" Here's Why That Stance Matters for Nvidia's Growth Story. - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYV80YTltc3dxWkgxN21WalVTZVRCTDA2Q3IzcmtlRExMbjNESGF6Nm9fTUxJeDdzR2lfZzhTTjBJMkJUTGE2S2RLc1hjSFBHR3VnT2RQMW5EYXZrcHU4Z1RDOXBoZHFfc2pkb192N1Y2cEFMbmVPQ0JhVEpWZ1FKdWVnTXBGRlV4bXdCWE9lMnNucHBCdGJ3",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-08T15:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-08T15:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYV80YTltc3dxWkgxN21WalVTZVRCTDA2Q3IzcmtlRExMbjNESGF6Nm9fTUxJeDdzR2lfZzhTTjBJMkJUTGE2S2RLc1hjSFBHR3VnT2RQMW5EYXZrcHU4Z1RDOXBoZHFfc2pkb192N1Y2cEFMbmVPQ0JhVEpWZ1FKdWVnTXBGRlV4bXdCWE9lMnNucHBCdGJ3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "f182d55053d9",
@@ -5770,6 +5801,23 @@
    "sentiment": 0
   },
   {
+   "id": "5f06a336615c",
+   "title": "SpaceX seeks $40 billion financing to buy Nvidia chips, sources say - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjBzanVwMDltRU1WZFNTWGF3VUw0ZEdQZmlmQWRsbG5lb21pU3VxTlUtM0tZbzNWaFlXY1JhbHcxV0FXX3RpTUVUQlVGenhSYnZ1VlprMzlqdEZwa1lPbEczRnJWRWZfU19nTDdtMzM2WFlMWm0zeWliejlSRUtrdXJsRmM4VFYtbmJXLVprajJ1U2cxVUZPdGhMaUgzRUVJV2R0Q3BiTGJiOHg0ZUYw",
+   "source": "Reuters",
+   "published_at": "2026-10-07T20:10:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-07T20:10:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjBzanVwMDltRU1WZFNTWGF3VUw0ZEdQZmlmQWRsbG5lb21pU3VxTlUtM0tZbzNWaFlXY1JhbHcxV0FXX3RpTUVUQlVGenhSYnZ1VlprMzlqdEZwa1lPbEczRnJWRWZfU19nTDdtMzM2WFlMWm0zeWliejlSRUtrdXJsRmM4VFYtbmJXLVprajJ1U2cxVUZPdGhMaUgzRUVJV2R0Q3BiTGJiOHg0ZUYw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "2aab21480cb5",
    "title": "SpaceX Secures $40B Financing for Massive Nvidia GPU Buy - The Tech Buzz",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObkxrYlRCbmd5Rms3RFhGNGJQdEdJbW15ZF9hSXVkMUhXbGRzaThjS3htVURETkNsdW1tblI3ZEhDV0lZa01OREsxT1RYYXJBQ2gycGZiUTYxTDNLYkVZWERLc2dudDlqc3hXbUpWdWFlbDJONHF1VHgxYkwwdHFraF9GUDdZYmtOb2JMcTVLM2Zpdw",
@@ -6292,6 +6340,23 @@
    "sentiment": 1
   },
   {
+   "id": "6df26951965f",
+   "title": "英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ21IOWxTVEltTmtSY0ktRl9ncnNzbEVjMkpMN1RKZmZJQi1ua2FGS19hTzRndnluWGxPU1ZMUEd5MlQxbi1udWJCMXZvZ2FQeFd4S0pGUWNRLTJQNEV5NW91MjJZZ0dBcFF3NFpMN2JMaHZ6ZmRDaDI5Qk8yYVZ1clkwX0QtM09SWGFGbkRmWUFXd1AyaTQzRWpHdTl1Z2psaEcxYURQOExZSmNEYW5Oa0xlS1hGeF9rRGhWR2tyT0o5SzlMb3BKM0NPb29JbmE3MERRd2Y5XzJjTzlvSjF1SV9JajhOb3NSaDdtdGpUMkhka0Zh",
+   "source": "手机新浪网",
+   "published_at": "2026-10-07T18:41:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-07T18:41:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ21IOWxTVEltTmtSY0ktRl9ncnNzbEVjMkpMN1RKZmZJQi1ua2FGS19hTzRndnluWGxPU1ZMUEd5MlQxbi1udWJCMXZvZ2FQeFd4S0pGUWNRLTJQNEV5NW91MjJZZ0dBcFF3NFpMN2JMaHZ6ZmRDaDI5Qk8yYVZ1clkwX0QtM09SWGFGbkRmWUFXd1AyaTQzRWpHdTl1Z2psaEcxYURQOExZSmNEYW5Oa0xlS1hGeF9rRGhWR2tyT0o5SzlMb3BKM0NPb29JbmE3MERRd2Y5XzJjTzlvSjF1SV9JajhOb3NSaDdtdGpUMkhka0Zh"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
    "id": "800bb9a2ba70",
    "title": "Microsoft Says New Laptop With Nvidia Chip Outperforms MacBooks - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa09BTnNZWVFzMlJobFBTbUN1TVlHMW9fX0NJOXpZbG82TlphcktROG8tY1VYdkNNTVZONGJaNUJDZlJPcndhOWVDYjhkV0tNcDhkeUd5RUQxLTRvRHJNT0NKV3FGOVNMbDZMN3VLLV83NEZfR1hHY0F3dnNFWlBFNllUbVdlZFBRb0g2VFRXQ1lmZ1FhZ3pEa2pWbnVETGtfVnAweGF4MGV6NVoxeTdoYUlIT2Q",
@@ -6653,71 +6718,6 @@
    "session": "盘中",
    "zh_summary": "英伟达为新Windows开发Nemotron模型",
    "title_zh": "微软表示英伟达正在为新Windows系统开发Nemotron模型 - 富途牛牛",
-   "sentiment": 1
-  },
-  {
-   "id": "713f1ee2af8a",
-   "title": "Sequoia, Nvidia Back Mecka AI's Robotics Push - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeU9wVklrQWF4UHhqUE1pSVd2eXdlU3RuVjZYNkh5Zzh3SFNTOTlmQ05jTEU0dUZKM0x6a215cmp3Zk1Oa2ZwY1hnMUpXandvWTRYSGV6T1hNQXZMTXpkNV9vWGxUWWJUQ2I0RVlralRmVm5WeDNwZkFSWUhQS05Kb3hR",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-07T18:09:28+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T18:09:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeU9wVklrQWF4UHhqUE1pSVd2eXdlU3RuVjZYNkh5Zzh3SFNTOTlmQ05jTEU0dUZKM0x6a215cmp3Zk1Oa2ZwY1hnMUpXandvWTRYSGV6T1hNQXZMTXpkNV9vWGxUWWJUQ2I0RVlralRmVm5WeDNwZkFSWUhQS05Kb3hR"
-    },
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-07T18:10:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXI3YkpuaG00UkVZakdhX0RRQVZXZndON2R6d0FIelp4MWtBc2czRE9uN1ppeGFXTy1QWFZXb1ZhN1I5NkZBcU9ndGlHOWZEdVFjQnlsNm8zNzVXU3pMa1Q4aDFWYk50Qi1SOUZ0YmRrSEtKbG1VZy11LWxNN2VZUkFucV8zX2w2QTljWXBqczVQVFJ3QkhHWG9ERDNkbXdm"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "红杉与英伟达投资MeckaAI机器人项目",
-   "title_zh": "红杉、英伟达押注MeckaAI机器人业务",
-   "sentiment": 1
-  },
-  {
-   "id": "023beb039c26",
-   "title": "Nvidia CEO: 'If not for Windows, Nvidia wouldn't have been founded' - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUDJSTTlzYTUzcENXZUpwZEQ0amhmNGNGd0FVWVZMSmV2c2UzVUxQYU5QSm9BWlVpdEpaTUl2QkROQ1FiaDlyeGV4UWV4MThod0FuUjRyZ1BRVWcwdVE4Z1BDdWMtV29OdGhBdGFwYlI1RkpSejYxMVhvemVMUWFkX2lR",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-07T18:08:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T18:08:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUDJSTTlzYTUzcENXZUpwZEQ0amhmNGNGd0FVWVZMSmV2c2UzVUxQYU5QSm9BWlVpdEpaTUl2QkROQ1FiaDlyeGV4UWV4MThod0FuUjRyZ1BRVWcwdVE4Z1BDdWMtV29OdGhBdGFwYlI1RkpSejYxMVhvemVMUWFkX2lR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋：没有Windows就没有英伟达",
-   "title_zh": "黄仁勋：如果没有Windows，就不会有英伟达",
-   "sentiment": 0
-  },
-  {
-   "id": "ac2abfe68ca5",
-   "title": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark — RTX Spark preorders live now, coinciding with major Windows 11 changes for agentic AI - Tom's Hardware",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQeHJ0QXM4cldZUWlId2djUG5Mc3FFVHVkWmdCemplNko0bEZrY1RqU3RETzE3ZVk0a1NwbWQyZVJKTGxrUzBrUGNxbVNSQ1A2dUtCbE53aEZkQ0E1UjczUGFkRURIVVcxOWtFQ0ctM2dEZG5OOU52MEtNX2hIeVI5amtnZjA1bnBFMm1iVVo0WV9tTlkwMFhUamZCMEMxQnRwUVRMZ05fbUhTQTBEaHRSZkhsVGVfWE1uc0xtSzZlSFhIcFZFZVR1TzE5T1JfQkVRaXhHQ0VWSjVGbDhIenc2cl8yVE9BTWNFUlR0b1lYcHowYWVPTUIydjRFNUFGZUtlZjFZUzFVYUVWX3VWRXItUkNkOA",
-   "source": "Tom's Hardware",
-   "published_at": "2026-10-07T18:07:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tom's Hardware",
-     "published_at": "2026-10-07T18:07:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQeHJ0QXM4cldZUWlId2djUG5Mc3FFVHVkWmdCemplNko0bEZrY1RqU3RETzE3ZVk0a1NwbWQyZVJKTGxrUzBrUGNxbVNSQ1A2dUtCbE53aEZkQ0E1UjczUGFkRURIVVcxOWtFQ0ctM2dEZG5OOU52MEtNX2hIeVI5amtnZjA1bnBFMm1iVVo0WV9tTlkwMFhUamZCMEMxQnRwUVRMZ05fbUhTQTBEaHRSZkhsVGVfWE1uc0xtSzZlSFhIcFZFZVR1TzE5T1JfQkVRaXhHQ0VWSjVGbDhIenc2cl8yVE9BTWNFUlR0b1lYcHowYWVPTUIydjRFNUFGZUtlZjFZUzFVYUVWX3VWRXItUkNkOA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "微软携英伟达发布AI笔记本",
-   "title_zh": "微软携英伟达发布Surface Laptop Ultra",
    "sentiment": 1
   }
  ]
