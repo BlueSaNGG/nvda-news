@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T05:36:28.614758+00:00",
+ "updated_at": "2026-10-08T05:51:27.211344+00:00",
  "market": {
   "price": 237.47,
   "change_pct": -0.74,
@@ -10,12 +10,12 @@
    "days_left": 40
   },
   "day_sentiment": {
-   "avg": 0.69,
-   "count": 256
+   "avg": -1.0,
+   "count": 2
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.69（256条已评分）"
+     "score": -1,
+     "note": "今日新闻情绪 -1.00（2条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 33.7,
    "ma20": 225.58,
-   "as_of": "2026-10-08T05:36:28.607243+00:00"
+   "as_of": "2026-10-08T05:51:27.202793+00:00"
   },
   "pe_ttm": 30.2,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e90e36f44e94",
+   "title": "外媒：三星HBM4E 12层通过英伟达质量验证 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aUmJoTmRrRVY0YW55Q2VaR0RuY3pJaVJWQ0lsWXU1cEtfY0FOMzQ1S0VJWFNUSTdRRlY0MDZSRmJGeVcxTDhJMGRTWW1WUEhtWnktODBtWkhFeTNr",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-08T05:33:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-08T05:33:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aUmJoTmRrRVY0YW55Q2VaR0RuY3pJaVJWQ0lsWXU1cEtfY0FOMzQ1S0VJWFNUSTdRRlY0MDZSRmJGeVcxTDhJMGRTWW1WUEhtWnktODBtWkhFeTNr"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "f4fd094910a0",
    "title": "华为昇腾份额超过英伟达 - 新浪网",
@@ -530,6 +547,23 @@
    "zh_summary": "SpaceX据悉拟融资400亿美元购英伟达芯片",
    "title_zh": "SpaceX 据悉拟融资 400 亿美元用于购买英伟达芯片 - 白鲸出海",
    "sentiment": 2
+  },
+  {
+   "id": "666c90b2642c",
+   "title": "“AI央行”英伟达的“千亿资本局” - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mSTc4SzlXV0k2TThHZ2NNTlcyQ1BvTTNCMy1FSy1tMWVLckFRSWE0Z2lkbHZHUGc2Qi05TW5VOGlnN2pManNTRUQ2Z0Q3bGx5ZUVn",
+   "source": "华尔街见闻",
+   "published_at": "2026-10-08T01:53:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-08T01:53:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mSTc4SzlXV0k2TThHZ2NNTlcyQ1BvTTNCMy1FSy1tMWVLckFRSWE0Z2lkbHZHUGc2Qi05TW5VOGlnN2pManNTRUQ2Z0Q3bGx5ZUVn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "6e54959d00e0",
@@ -1398,6 +1432,23 @@
    "zh_summary": "DGX Station登陆Windows工作站",
    "title_zh": "英伟达DGX Station AI工作站进军Windows平台",
    "sentiment": 1
+  },
+  {
+   "id": "2ac1489963c4",
+   "title": "Trump to Honor Elon Musk, Nvidia’s Huang With Science Awards - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG1lYmxxSGE5bFFXeUdrU1JLR2FrRi02MFVLeHgydmZfemtLVTdxeC1VWG1PNDFVbnVhaTlPSzVfclVtR0YxVkVzRllXQ3BGR2tjZUZFblhHcDlCOTBCenlCem1WS0dmRmd2N0lvbE0yWWhGbzhlMkFHelZqVTVTejVfQlNSTlJnODJ4dzJ2b3p0SHRhU0IwT0M1V3EzdFFWajdKb3J5Z0VBLW40emk4",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-07T20:33:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-07T20:33:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG1lYmxxSGE5bFFXeUdrU1JLR2FrRi02MFVLeHgydmZfemtLVTdxeC1VWG1PNDFVbnVhaTlPSzVfclVtR0YxVkVzRllXQ3BGR2tjZUZFblhHcDlCOTBCenlCem1WS0dmRmd2N0lvbE0yWWhGbzhlMkFHelZqVTVTejVfQlNSTlJnODJ4dzJ2b3p0SHRhU0IwT0M1V3EzdFFWajdKb3J5Z0VBLW40emk4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "043f06977747",
@@ -6643,76 +6694,6 @@
    "zh_summary": "黄仁勋女婿两年跻身英伟达权力核心",
    "title_zh": "黄仁勋女婿何许人也？不到两年直升英伟达权力核心 业界：善抓问题本质 - 集微网",
    "sentiment": 0
-  },
-  {
-   "id": "660a8bbb3c9b",
-   "title": "SpaceX拟融资400亿美元购买英伟达芯片，Apollo牵头融资 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOREE5bGpGdXU2TXdIWGw5a2Y1TllqWHlRcXpJdDlQamtwUFhXSm1WZndiNjhTYk5xX2NFRnhEeDUxU3ZlNUJOQkRTbVNwY1pXUklzQlhkdHVnaHRMSE9kcHEteEFuZ1ROM2czRDFKTGxKSmdwckR3dzFEZjg0Qk1hNWw5M2wwcjB3VVlSRXN0NHMzZ1c3cENvQnVXTkdKM0xETGNVQzdDRnRwZWE0eWMxUDBjX2JfcE1DVFIyR1dSVFJDNlhiWE1NbGkwS2VrZy1ZVFRYM016R0xudGZrUUE",
-   "source": "新浪财经",
-   "published_at": "2026-10-06T23:23:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-06T23:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOREE5bGpGdXU2TXdIWGw5a2Y1TllqWHlRcXpJdDlQamtwUFhXSm1WZndiNjhTYk5xX2NFRnhEeDUxU3ZlNUJOQkRTbVNwY1pXUklzQlhkdHVnaHRMSE9kcHEteEFuZ1ROM2czRDFKTGxKSmdwckR3dzFEZjg0Qk1hNWw5M2wwcjB3VVlSRXN0NHMzZ1c3cENvQnVXTkdKM0xETGNVQzdDRnRwZWE0eWMxUDBjX2JfcE1DVFIyR1dSVFJDNlhiWE1NbGkwS2VrZy1ZVFRYM016R0xudGZrUUE"
-    },
-    {
-     "name": "泰伯网",
-     "published_at": "2026-10-08T02:22:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PVzRoWXpQSVFsVG0xVHpSaGZUNThIbFYyUzBWbzIxbEk5NFBlN3dTVlhvcmE0WG9RZnZSSVR2ZFdJekcwQTktYUxFN0NZT19OZ1g0"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "SpaceX拟融资400亿美元买英伟达芯片",
-   "title_zh": "SpaceX拟融资400亿美元购买英伟达芯片，Apollo牵头融资 - 新浪财经",
-   "sentiment": 2
-  },
-  {
-   "id": "49f181b932fc",
-   "title": "美股讯号 | SpaceX 筹集 400 亿美元资金购买英伟达芯片 ｜#美股资讯# #英伟达# #行业竞争# - Sohu",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcm8ydEtybkxQaTBnTmNuMXQ5ZjNqd0szYnVYWHZEcWthWkZNRDZEcFE4MGdYN0ctcWJwb0dpQm9reW5hdHlUck0wWUMtZWdRaXBoRkw1dlRQSkVLZlJWRGpiVUZ2YVhuYTBmdmxSNjkzUVU4NzJqbFJKX0RpQWR6MjNNU3dCSmNRUjBFaw",
-   "source": "Sohu",
-   "published_at": "2026-10-06T22:57:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-06T22:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcm8ydEtybkxQaTBnTmNuMXQ5ZjNqd0szYnVYWHZEcWthWkZNRDZEcFE4MGdYN0ctcWJwb0dpQm9reW5hdHlUck0wWUMtZWdRaXBoRkw1dlRQSkVLZlJWRGpiVUZ2YVhuYTBmdmxSNjkzUVU4NzJqbFJKX0RpQWR6MjNNU3dCSmNRUjBFaw"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-06T22:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcm8ydEtybkxQaTBnTmNuMXQ5ZjNqd0szYnVYWHZEcWthWkZNRDZEcFE4MGdYN0ctcWJwb0dpQm9reW5hdHlUck0wWUMtZWdRaXBoRkw1dlRQSkVLZlJWRGpiVUZ2YVhuYTBmdmxSNjkzUVU4NzJqbFJKX0RpQWR6MjNNU3dCSmNRUjBFaw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "SpaceX拟融资400亿美元采购英伟达芯片",
-   "title_zh": "美股讯号：SpaceX筹集400亿美元购买英伟达芯片",
-   "sentiment": 1
-  },
-  {
-   "id": "4aef53c85ec3",
-   "title": "英伟达RTX Spark版Surface Laptop Ultra规格曝光 20核Grace CPU搭配6144 CUDA核心 - cnBeta.COM",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Bbkt4bXQ3bmJvV2dibFlTUl9XMnk5VTlHVk15QWRkZlNXbUhEQVlXMTAwcWFGN2xhZlV4UVJ2cE01TjFrbExIMGk0WUpmMHgyanRZRUlvdDkyMkRONXRvNw",
-   "source": "cnBeta.COM",
-   "published_at": "2026-10-06T22:52:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "cnBeta.COM",
-     "published_at": "2026-10-06T22:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Bbkt4bXQ3bmJvV2dibFlTUl9XMnk5VTlHVk15QWRkZlNXbUhEQVlXMTAwcWFGN2xhZlV4UVJ2cE01TjFrbExIMGk0WUpmMHgyanRZRUlvdDkyMkRONXRvNw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达RTX Spark规格曝光，搭Surface",
-   "title_zh": "英伟达RTX Spark版Surface Laptop Ultra规格曝光 20核Grace CPU搭配6144 CUDA核心 - cnBeta.COM",
-   "sentiment": 1
   }
  ]
 }
