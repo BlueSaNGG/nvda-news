@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T22:21:34.574034+00:00",
+ "updated_at": "2026-10-08T22:36:29.682579+00:00",
  "market": {
   "price": 230.48,
   "change_pct": -2.94,
@@ -10,8 +10,8 @@
    "days_left": 40
   },
   "day_sentiment": {
-   "avg": 0.34,
-   "count": 200
+   "avg": 0.35,
+   "count": 201
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.34（200条已评分）"
+     "note": "今日新闻情绪 +0.35（201条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.8,
    "ma20": 226.18,
-   "as_of": "2026-10-08T22:21:34.561986+00:00"
+   "as_of": "2026-10-08T22:36:29.670508+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -61,6 +61,45 @@
   }
  },
  "stories": [
+  {
+   "id": "c226419dd079",
+   "title": "Australian NVIDIA-backed AI data centre operator Firmus shelves IPO - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY21BNU1iQlJDajVWejFGYjVrM2J0cllKVmc5WEVZX2tMQnROZGFJRkRDekhCaFY0MzRnYXhYOGNaVi11cFlndVo5b1RIYUpaS25JbV92dVkwVEZpXzVaTWdtR3piN0d6SUI2OW9qaEI4eHVCV1VBQkFBWXhyemttZDlhMlFVa3hQdDhpWVZkLW95cmxNaEFzZGxWb2dzU3VPSzNlNTc4OEF5YXV1LVoxOHZuUzFsMTZfaDJuckx4UQ",
+   "source": "Reuters",
+   "published_at": "2026-10-08T22:14:26+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-08T22:14:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY21BNU1iQlJDajVWejFGYjVrM2J0cllKVmc5WEVZX2tMQnROZGFJRkRDekhCaFY0MzRnYXhYOGNaVi11cFlndVo5b1RIYUpaS25JbV92dVkwVEZpXzVaTWdtR3piN0d6SUI2OW9qaEI4eHVCV1VBQkFBWXhyemttZDlhMlFVa3hQdDhpWVZkLW95cmxNaEFzZGxWb2dzU3VPSzNlNTc4OEF5YXV1LVoxOHZuUzFsMTZfaDJuckx4UQ"
+    },
+    {
+     "name": "WHTC",
+     "published_at": "2026-10-08T22:28:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTTROeDJqRHk0YXFoNXZmWHFvcFhETGs0ZUFIdURzQU9YRTB1VWl5WEx1WUdiaW5JS3VkSGlGczAxY2NXSDczVlN5TkZ2XzlFZHBDbmpod1R6WVR6T2hVTVVqdUVjN2N3N2FSTFV1S2tHWS1MSTdIdmlzcTRmaUc1YnpMekFzVlljbVE1c0FlRjhxemNGM2RqVi1XaVM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "80623942f880",
+   "title": "OpenAI最新营收数据引发市场担忧AI概念股普跌英伟达(NVDA.US)跌近3%_全球市场_财经 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUa0VuZHBMX0sxX3VpRTVYdVl1R1lhVUhtam5SM0pDbU84OF81U21UcTRhaGtvMUJrNThwOW5YUnp6emZ5czBHNkNCWFZxSDFqUGQ5NHcwbEFKaDNpN2Rkcw",
+   "source": "证券之星",
+   "published_at": "2026-10-08T22:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-08T22:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUa0VuZHBMX0sxX3VpRTVYdVl1R1lhVUhtam5SM0pDbU84OF81U21UcTRhaGtvMUJrNThwOW5YUnp6emZ5czBHNkNCWFZxSDFqUGQ5NHcwbEFKaDNpN2Rkcw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
+  },
   {
    "id": "c6d8702d37b6",
    "title": "美股讯号 | 英伟达股价下跌2.94%，半导体行业普遍走低 ｜#美股资讯# #英伟达# #股价波动# - 搜狐网",
@@ -140,26 +179,6 @@
    "zh_summary": "英伟达发布机器人仿真资产创建教程",
    "title_zh": "英伟达技术博客：用前沿AI模型创建机器人仿真资产的5个步骤",
    "sentiment": 0
-  },
-  {
-   "id": "aa39a82de4c0",
-   "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 2.9% - What's Next? - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM21qcTNQZnk5Z2xGRjBjdm9IdndCclAwVVpza3JmQVJJbXhOUTFVRmRKV3RSZVp5aXdIUmZwYXRTR3ktU1ZmbUdBU0lyLVNSWGlaUzBrUmhEbzRiYnJDbHg0R1hoTDJmVjNod2VhVmN2T3Y0dUZNV0p6SDJ4eVBsc3hlbll2NmMtTnFFWkJ1ZFgxY3BXU2JENjVZRGlON1FTeVdoaTEtMA",
-   "source": "MarketBeat",
-   "published_at": "2026-10-08T21:28:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-08T21:28:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM21qcTNQZnk5Z2xGRjBjdm9IdndCclAwVVpza3JmQVJJbXhOUTFVRmRKV3RSZVp5aXdIUmZwYXRTR3ktU1ZmbUdBU0lyLVNSWGlaUzBrUmhEbzRiYnJDbHg0R1hoTDJmVjNod2VhVmN2T3Y0dUZNV0p6SDJ4eVBsc3hlbll2NmMtTnFFWkJ1ZFgxY3BXU2JENjVZRGlON1FTeVdoaTEtMA"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘后",
-   "zh_summary": "英伟达股价下跌2.9%",
-   "title_zh": "英伟达股价下跌2.9%，下一步怎么走？",
-   "sentiment": -1
   },
   {
    "id": "d820d5b389b3",
@@ -1838,6 +1857,23 @@
    "zh_summary": "HashPack通过SODAX上线代币化股票交易",
    "title_zh": "HashPack通过SODAX上线代币化AAPL、NVDA、TSLA和SPY交易",
    "sentiment": 0
+  },
+  {
+   "id": "cd3561b2c606",
+   "title": "英伟达未来五年将投入10亿美元支持美国科学研究 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qYzYyZkJ5a2JINUg0R2g1S3k1Z1RzWFd6cjNmN1ZkX1BjMnBhNVZFeHlBQ1diNkdTZmtmZDJiOHBMbllUR3haZnJyTkVXQkpzOEpaQzdtSXZWQ3FrM09QMkpxcnBJVkdmQnFqajlmUEZKX2hYRV9XTw",
+   "source": "新浪财经",
+   "published_at": "2026-10-08T14:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-08T14:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qYzYyZkJ5a2JINUg0R2g1S3k1Z1RzWFd6cjNmN1ZkX1BjMnBhNVZFeHlBQ1diNkdTZmtmZDJiOHBMbllUR3haZnJyTkVXQkpzOEpaQzdtSXZWQ3FrM09QMkpxcnBJVkdmQnFqajlmUEZKX2hYRV9XTw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "5d706988757f",
@@ -3634,6 +3670,23 @@
    "sentiment": 1
   },
   {
+   "id": "7bbd0ef4279f",
+   "title": "Microsoft debuts Nvidia-powered Surface Laptop Ultra as it aims for AI market - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSGR6M2gxc2tYM1YxN1M3WnpZdmt3OEN4SFVJbHlOMFN4WW44MlJzLTRCMklUNWVTNUtHUE1yd3ZnLUZjaGNGVUpGVDQ5MnU5ZzBiRDdXam9tcGsxR2wzYzFPdFk2aVc5X3lVUVVZanZ6MFdGOGhYWTlLN09ZMEFuYTY4UU81ZU91UThWZnZBbGx0cmxxemRVMjhiOFlIUkI0RElPbVlrMTE2RmNpV2dqS18tS19VbWpxTHVhUlRFS0Y4RGY2c1NLczBibDF0SWVRWk04",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-08T09:46:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T09:46:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSGR6M2gxc2tYM1YxN1M3WnpZdmt3OEN4SFVJbHlOMFN4WW44MlJzLTRCMklUNWVTNUtHUE1yd3ZnLUZjaGNGVUpGVDQ5MnU5ZzBiRDdXam9tcGsxR2wzYzFPdFk2aVc5X3lVUVVZanZ6MFdGOGhYWTlLN09ZMEFuYTY4UU81ZU91UThWZnZBbGx0cmxxemRVMjhiOFlIUkI0RElPbVlrMTE2RmNpV2dqS18tS19VbWpxTHVhUlRFS0Y4RGY2c1NLczBibDF0SWVRWk04"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
    "id": "25b6b1c9ea76",
    "title": "ASUS ProArt P14 and P16 open for pre-order with Nvidia's RTX Spark chip - Gagadget.com",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGlwSEVxaS0wVXpVY1Y4bklNYzFDLXRTNmx3UHZqVE1sbXFxM3lsT0JFSk9TZUM5ZXhGVldOX1kyeThzODV3dkEzX1RTVF9xbGpxcm13a0JBNTNweldVNnNPbGllTGZzODNoOGIxYTE0ZFByblROenVSY2Z3STlDNlBfN2dfMXBjekZHM3J0c3JzTS1xc1h6TlBPN1lua2xOVFFzaNIBqgFBVV95cUxNMlJnX1J4cENxaVhsX0dwb21pamhneTVDUFRETlFya3pCT0RJN2VUNGdLQm42dkVGMlhNUFlSSGpEWHJTcmt4U0pDd1ZEQ3BWa3dlc2ZSMTlPMXNmLWk5akN6YktHeDFBYkY5UUluc3ZiUjRuX3YyZWtRTGtWSlZib0c3aHRJVGZTellBR0R0bjFYaUtEX2F2MHBvY0EweDRSaE1QUHN6UTVfdw",
@@ -3883,7 +3936,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CNG9QdVBYU1kxdVJfWUNwNnA3ajMxTjBmTTFkdVF5a2ZNOWpBaVJZaDVfWDVPeDRoRUZfeWF5RDZZMXV6LXJoZDY2dVI1M2hhNGdIclJTSmpONDNua1JYdE1n",
    "source": "www.hstong.com",
    "published_at": "2026-10-08T07:40:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "www.hstong.com",
@@ -3899,6 +3952,11 @@
      "name": "新浪网",
      "published_at": "2026-10-08T18:26:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wZXpWZm15WHFuSFBwU08tUk5VSHRzeXZTa1RpbmJWdlVlUF9NdmxxR2hYcFJGazZUN2h1ZEtKWG1JLTB1X3U3SFM2RHh1X0JPOHcwbXhIcnN4MzVYT3BTVTdlWmJGb3FtdHJwRUVzakduem81U1VvVV9ERmI1dw"
+    },
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-08T15:38:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByVldnQzJtc1pZQ01KeFZwMUMtb0hPc0I2TjhNY2lyWUN4cVBOSG9oVnlnT3ZIRmh6LUVhdDIyQzliclJDYkp2VkZsNk9hcWtjNGllWHplUzY"
     }
    ],
    "category": "分析师",
@@ -4450,6 +4508,23 @@
    "zh_summary": "华硕发布搭载RTX Spark芯片的笔记本",
    "title_zh": "华硕发布搭载英伟达RTX Spark的ProArt新品笔记本",
    "sentiment": 1
+  },
+  {
+   "id": "f4fd094910a0",
+   "title": "华为昇腾份额超过英伟达 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbmRsT0pObHNnbnVoNTdNTlI4S2xNNGcwWXYzamxRb3R4OHU5OGppY0FxYkNFdkZDZ3dHS3FyaU1lV2tCSFFqVzJVeEswTEtnQWY3QVlSQUtPV3NPRXI1SHJDU3lIY3RwV1BjcG8yaXBCY21kbFZ1cGREbGJILXc",
+   "source": "新浪网",
+   "published_at": "2026-10-08T05:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-08T05:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbmRsT0pObHNnbnVoNTdNTlI4S2xNNGcwWXYzamxRb3R4OHU5OGppY0FxYkNFdkZDZ3dHS3FyaU1lV2tCSFFqVzJVeEswTEtnQWY3QVlSQUtPV3NPRXI1SHJDU3lIY3RwV1BjcG8yaXBCY21kbFZ1cGREbGJILXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "203a7868b687",
@@ -6353,6 +6428,23 @@
    "sentiment": 1
   },
   {
+   "id": "c7538bab407c",
+   "title": "英伟达与微软携手以RTX Spark及AI智能体开启Windows PC全新纪元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XblYxQktHSTN1c3dzbklYckgwUkp0SWdXVXdBNzVvNFNmd3VJSGZac1J2eEpEbFNWQ0UwM0J5dFUzbGs3cUFUTDBRZVF5RW04VmZ4NnIyekZIdzVGZktJSA",
+   "source": "东方财富",
+   "published_at": "2026-10-07T19:33:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-07T19:33:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XblYxQktHSTN1c3dzbklYckgwUkp0SWdXVXdBNzVvNFNmd3VJSGZac1J2eEpEbFNWQ0UwM0J5dFUzbGs3cUFUTDBRZVF5RW04VmZ4NnIyekZIdzVGZktJSA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "3ee8afa4b776",
    "title": "NVDX: Nvidia Breaks Its Highs, But Its Multiples Keep Shrinking (BATS:NVDX) - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY054dVRNMTNvTkszYVc3UFlUR0tlWDlLWkFpc3JiTl9aeGgxcEo1RGI3cEk3Y0lpYjk5b1FHWDlULVpsUnZ1QWVpVWtTVWZZQTEyZ2YwcGZfRV92d3BSZ1dsdG1aVVRfdEJ4NHd3SzY2cmMxcHRDWGE2RE5XZi16Qy1ISlJuTFFUZ2hONmc3MEF3THFwNzZvLXpWX3RuM1JMTi1nWQ",
@@ -6565,135 +6657,6 @@
    "zh_summary": "微软2599美元新品内置英伟达AI芯片",
    "title_zh": "微软Surface Laptop Ultra定价2599美元，内置英伟达AI芯片",
    "sentiment": 1
-  },
-  {
-   "id": "50060bfbb85c",
-   "title": "Microsoft unveils new Surface laptops with Nvidia chips (MSFT:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbmlSVFdjRW80UTNUVEtNNFB3UnVvaGlvZkxWNlhERnp1ZksxVERyaEpnRzF3Ukw4ZWJlUEgtOHFZQ3VsdVhPUlBtX0E1dmM0QXA5Y3JkREl6OWtjRVhyakxwanB3ZFJvaFlzS0owWDF1bHdueF94TkxiZEgwQi1DcUdvSFhGV1NNYWJ2VzVRTk9mOWoyQnM2RA",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-07T19:08:03+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-07T19:08:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbmlSVFdjRW80UTNUVEtNNFB3UnVvaGlvZkxWNlhERnp1ZksxVERyaEpnRzF3Ukw4ZWJlUEgtOHFZQ3VsdVhPUlBtX0E1dmM0QXA5Y3JkREl6OWtjRVhyakxwanB3ZFJvaFlzS0owWDF1bHdueF94TkxiZEgwQi1DcUdvSFhGV1NNYWJ2VzVRTk9mOWoyQnM2RA"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T19:42:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmhrVzFWT3lIYmJhc0xQWFdzVC1ZUXVuUDhQR0x3NEdaRElBaHZEX3BwTC1VYWo4MVJrb2NieEZpRUxLMDdQWURYREZKcExlVFlUbzFNempWQWlOdDNLVW8zQ05pN1ZpZ1BTSEhBOVRPOHQwbVBGU1RvdkhuRnVxVDYyZ055a2VoWFZzSHg0SWdlemZFOTcydDB6M0FyVkJKLWQ4NA"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "微软发布搭载英伟达芯片的Surface笔记本",
-   "title_zh": "微软发布搭载英伟达芯片的新款Surface笔记本",
-   "sentiment": 1
-  },
-  {
-   "id": "c59921bd30b1",
-   "title": "NVIDIA and Microsoft Bring RTX Spark Laptops, AI Agents to Windows PCs - Unite.AI",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDBsQjQtaFpCYXFUR0tmQXV0NEY0STF3bWlfeGwtcXJNb2YxRDFQZjlJUzRNRVp2ZzB3YnIzZjFpY0xOYm1GNzY3RDdnUnJ2UXVkcHBXaHZVS2NsRks2dU9KUFlockVpOWk0NC1PcVRXQlF2MDJZU2wzSDNOQVFFSGdSbVFzWkhZM08xYWprWVNNQUpVZEE",
-   "source": "Unite.AI",
-   "published_at": "2026-10-07T19:06:05+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Unite.AI",
-     "published_at": "2026-10-07T19:06:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUDBsQjQtaFpCYXFUR0tmQXV0NEY0STF3bWlfeGwtcXJNb2YxRDFQZjlJUzRNRVp2ZzB3YnIzZjFpY0xOYm1GNzY3RDdnUnJ2UXVkcHBXaHZVS2NsRks2dU9KUFlockVpOWk0NC1PcVRXQlF2MDJZU2wzSDNOQVFFSGdSbVFzWkhZM08xYWprWVNNQUpVZEE"
-    },
-    {
-     "name": "The Tech Buzz",
-     "published_at": "2026-10-07T19:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnlTSmZIUEgtTV90ZVBlUHgyd3ZYX05YSTNwc3htN01NaWpPcUpIOHlzdFFVb3hHd0xCcDZWX1lid2dvTHJvZTFLQ0NWbmxSampfekVORnZnMVFnMWhnbGdLbWNMSVZUWl93ZkMzSkV2QTdvT0Z2N1N5d1AwM3JHaGN4bzh4bFNpUVFDY01XTGlMWFFURU5v"
-    },
-    {
-     "name": "Quantum Zeitgeist",
-     "published_at": "2026-10-08T08:23:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BRGJtTHpub2FLdFJ3OHNaR2Y3N2ZPRFRGSUh6Ym9ZRXBwYkg4aXRFUWVFUzE2V1ZWeE9xUE5jUFQ5SjRlZGgwMDFzLXRrbGZjU0xKV2cyWmxpQlhUb0JSajNFaWsyNDZ6QXFWdVNzeEMxZUIzUDU2OXdHMkI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达与微软合作推出RTX Spark AI代理",
-   "title_zh": "英伟达与微软合作在Windows上推出RTX Spark AI代理",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.18,
-    "window_h": 0.8
-   }
-  },
-  {
-   "id": "4a18d0fc3dfa",
-   "title": "Nvidia’s powerful RTX Spark laptops can cost up to $7,000 - The Verge",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaFZoOTBRZVdoeGMteUNPemoyTmdZMDBjSjFyaVRyNXl4OE1nTzJHRElYeTRNY01IM0xCcjg4RGJxenVkaVZnSUFwT0l3OXVYejJYYW9STlJaNE9yQWVoWVZzSnNGa08zdjJ1Z2FRcGV2ck02UFZ2eUdhSGFpMlBOLXFYcGs3YWhraHNyTjk2V2tCMl9ObmZQTXNmWQ",
-   "source": "The Verge",
-   "published_at": "2026-10-07T19:05:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Verge",
-     "published_at": "2026-10-07T19:05:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaFZoOTBRZVdoeGMteUNPemoyTmdZMDBjSjFyaVRyNXl4OE1nTzJHRElYeTRNY01IM0xCcjg4RGJxenVkaVZnSUFwT0l3OXVYejJYYW9STlJaNE9yQWVoWVZzSnNGa08zdjJ1Z2FRcGV2ck02UFZ2eUdhSGFpMlBOLXFYcGs3YWhraHNyTjk2V2tCMl9ObmZQTXNmWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "RTX Spark笔记本最高售价7000美元",
-   "title_zh": "英伟达RTX Spark笔记本最高售价7000美元",
-   "sentiment": 1
-  },
-  {
-   "id": "b0fd6de0d36c",
-   "title": "Dan Ives Thinks AI Buildout Still In Early Stages, With NVDA, MSFT, PLTR, AAPL And CRWD As Top AI Picks - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVkF5bk9JWmRJLWZ5R3l3azF3UWgwUjNKWWNHa01MZ0JoYWV1SzBHd3FhbHRIc01JRnJBNUZvQmROZS1MeFZQVFlxbHI0Q1NyNnMyRXBUS3dsVVVEVGRBMHBfZVRzeVZtSlpJcXdlNW14bDFTN2dNemhuRVB0bkl1blZHZjJnb3RkYmVUWXU1M0hMSDk3OWZadmxUbzJ6MmI2dVhBQWVfckU3UENTMldEWTlBWVE2aVdoZGYyRTZ4ZEJRb05md2dkWXM4THNqZHpZQ3FRU2Q5RDNNV2NfakVBc1VxOGQyOGNRQmlIMmNDOVpDdVZTS1E",
-   "source": "Stocktwits",
-   "published_at": "2026-10-07T19:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-07T19:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVkF5bk9JWmRJLWZ5R3l3azF3UWgwUjNKWWNHa01MZ0JoYWV1SzBHd3FhbHRIc01JRnJBNUZvQmROZS1MeFZQVFlxbHI0Q1NyNnMyRXBUS3dsVVVEVGRBMHBfZVRzeVZtSlpJcXdlNW14bDFTN2dNemhuRVB0bkl1blZHZjJnb3RkYmVUWXU1M0hMSDk3OWZadmxUbzJ6MmI2dVhBQWVfckU3UENTMldEWTlBWVE2aVdoZGYyRTZ4ZEJRb05md2dkWXM4THNqZHpZQ3FRU2Q5RDNNV2NfakVBc1VxOGQyOGNRQmlIMmNDOVpDdVZTS1E"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T19:00:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT2gwaTFKNWhUYnNlTkU3UHFkcThfUUpOUjE5bVp0WWxKLXN3enc2YlVmTWZUWFd2SHl2WFJxa3BnS0swMVQtU2UyaGhmcjRwY3VDaDVmX2p0U3hncUxDNWNCVW5tdkc4RlJxMkw1QU9ya01MWE9FbTJqZWJOd2pObEVZajZpWnBlZUVHNkxYV1ZSY25jY0E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "丹艾夫斯称AI建设仍处早期，NVDA为首选",
-   "title_zh": "丹艾夫斯称AI基建仍处早期，NVDA等为首选股",
-   "sentiment": 1
-  },
-  {
-   "id": "95d14f56e596",
-   "title": "Prediction: Micron Will Have a Larger Market Cap Than Nvidia by 2030 - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWQwdjZHdEhtd3RjRWpCV3V1WndWcVNUM05KMHBNN29POG5SUUNzc0RJaWhRcXhzaHdzUGpNakJJRVd6alNTMFVPd2NBT2Zhd1NDWnM3dEJOWHdzXzRtQ2Q1MFpHamIwaUw5U3pZb1I4clBWMndTQVhzZWVqdWM0Z21La0JxZGNwNXRlNk5sVQ",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-07T18:57:16+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-07T18:57:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWQwdjZHdEhtd3RjRWpCV3V1WndWcVNUM05KMHBNN29POG5SUUNzc0RJaWhRcXhzaHdzUGpNakJJRVd6alNTMFVPd2NBT2Zhd1NDWnM3dEJOWHdzXzRtQ2Q1MFpHamIwaUw5U3pZb1I4clBWMndTQVhzZWVqdWM0Z21La0JxZGNwNXRlNk5sVQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T19:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1lLeWdQbHZIaWR6OG9EbFJjV3l2MjlXU0ZWandQek1IUzN1TmNmSVJtRmRsTmlPSzRXYzA0d1pfRDRSVnFYUFo5eVFJTEpUY2dzdW9ITTRlbWNrUFNCZ0hlVFVHaGJQSHpDY3pSZ2tHUWljakt5YVJkS09DTXlfOEhNZ0xLczYzLWlmY2J4R3cxdWppUUlGcG00aHMxVHQzQ0E"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘中",
-   "zh_summary": "预测美光2030年市值将超过英伟达",
-   "title_zh": "预测美光2030年市值将超过英伟达",
-   "sentiment": -1
   }
  ]
 }
