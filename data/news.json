@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T17:36:29.219098+00:00",
+ "updated_at": "2026-10-08T17:51:28.705638+00:00",
  "market": {
-  "price": 231.09,
-  "change_pct": -2.69,
+  "price": 230.58,
+  "change_pct": -2.9,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.42,
-   "count": 154
+   "count": 158
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 89% 分位（偏高）"
+     "note": "现价处于52周区间 88% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +37.4%"
+     "note": "目标价中位数 $318（14家），隐含空间 +37.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.42（154条已评分）"
+     "note": "今日新闻情绪 +0.42（158条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $231.09 vs 20日均线 $226.21"
+     "note": "现价 $230.58 vs 20日均线 $226.19"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 89,
+   "price_52w_pct": 88,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 37.4,
-   "ma20": 226.21,
-   "as_of": "2026-10-08T17:36:29.210306+00:00"
+   "implied_upside_pct": 37.7,
+   "ma20": 226.19,
+   "as_of": "2026-10-08T17:51:28.692446+00:00"
   },
-  "pe_ttm": 29.4,
+  "pe_ttm": 29.3,
   "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "556af322a327",
+   "title": "Nvidia and SpaceX: Top Analyst Daniel Ives Says These 2 AI Giants Have More Room to Run - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzEwTUlaTnprOElzS2ktY2xteHpDV3V5c2RxaDZyaWRoQzJ1NVhNU3V4QTdzemFqLWhkNXlMTEV5OWJhZVB1OWJOeFhHRUVWVVhvRmFIa1N1czZiZ3ptWWFMU1kwTTQyQUxvUUtWR0xHYXlqMTVreVBnNXpPZGpTeVNUaWhkcjNhdFpJY21wYkxaX3hQQWJHREU4TGk",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-08T17:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T17:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzEwTUlaTnprOElzS2ktY2xteHpDV3V5c2RxaDZyaWRoQzJ1NVhNU3V4QTdzemFqLWhkNXlMTEV5OWJhZVB1OWJOeFhHRUVWVVhvRmFIa1N1czZiZ3ptWWFMU1kwTTQyQUxvUUtWR0xHYXlqMTVreVBnNXpPZGpTeVNUaWhkcjNhdFpJY21wYkxaX3hQQWJHREU4TGk"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
   {
    "id": "500328596299",
    "title": "英伟达承诺5年投入10亿美元助力美国“超级智能”，深度参与“创世纪计划” - 东方财富",
@@ -2844,26 +2861,6 @@
    "zh_summary": "英伟达PivotOPD让AI智能体纠错",
    "title_zh": "英伟达PivotOPD教多轮AI智能体从关键错误中恢复",
    "sentiment": 1
-  },
-  {
-   "id": "447eb19426f4",
-   "title": "SpaceX in talks to raise $40 billion in loans for Nvidia chips: Report - Tech Xplore",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ITWt0WWVBU1AyU3FINVJBQno4RF9tWi11dW13UmNGNHdHd3VtV0FhSVotQVpwZzdzaUVmeFAtQmk2dnYwQy1pQW13WU9IRlNUQXhmRFBqU1lTZlFBc3FONkNzb29FZFdrWW80UDE4M3owNmg1d1U4MFV2WDcyNlk",
-   "source": "Tech Xplore",
-   "published_at": "2026-10-08T08:39:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tech Xplore",
-     "published_at": "2026-10-08T08:39:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ITWt0WWVBU1AyU3FINVJBQno4RF9tWi11dW13UmNGNHdHd3VtV0FhSVotQVpwZzdzaUVmeFAtQmk2dnYwQy1pQW13WU9IRlNUQXhmRFBqU1lTZlFBc3FONkNzb29FZFdrWW80UDE4M3owNmg1d1U4MFV2WDcyNlk"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "SpaceX拟融资400亿美元购英伟达芯片",
-   "title_zh": "报道：SpaceX洽谈贷款400亿美元购英伟达芯片",
-   "sentiment": 2
   },
   {
    "id": "fc420fb21919",
