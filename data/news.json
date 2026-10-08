@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T06:36:30.885570+00:00",
+ "updated_at": "2026-10-08T06:51:29.894557+00:00",
  "market": {
   "price": 237.47,
   "change_pct": -0.74,
@@ -10,8 +10,8 @@
    "days_left": 40
   },
   "day_sentiment": {
-   "avg": 0.33,
-   "count": 6
+   "avg": 0.43,
+   "count": 7
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.33（6条已评分）"
+     "note": "今日新闻情绪 +0.43（7条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 33.7,
    "ma20": 225.58,
-   "as_of": "2026-10-08T06:36:30.870276+00:00"
+   "as_of": "2026-10-08T06:51:29.875079+00:00"
   },
   "pe_ttm": 30.2,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2c8d6e89864f",
+   "title": "Seeds | 前英伟达科学家物理 AI创业，蚂蚁连投两轮 - 盖世汽车社区",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPcGhFUzY1UktKT3VoYXpyMVNEbGZHam83ZEdjWHRxWF9URTRyeWVERXhlRlk1V2Q0cmFtSkdwLXVxRUY0clV4R2hoVGNRSFV6",
+   "source": "盖世汽车社区",
+   "published_at": "2026-10-08T06:31:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "盖世汽车社区",
+     "published_at": "2026-10-08T06:31:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPcGhFUzY1UktKT3VoYXpyMVNEbGZHam83ZEdjWHRxWF9URTRyeWVERXhlRlk1V2Q0cmFtSkdwLXVxRUY0clV4R2hoVGNRSFV6"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "c7b1ef3bc7cd",
    "title": "存储超级周期加持，三星全年利润有望超越英伟达，估值差距依旧明显 - 搜狐网",
@@ -77,8 +94,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "存储超级周期加持，三星全年利润有望超越英伟达，估值差距依旧明显",
    "zh_summary": "存储超级周期助三星利润有望超英伟达",
+   "title_zh": "存储超级周期加持，三星全年利润有望超越英伟达，估值差距依旧明显",
    "sentiment": -1
   },
   {
@@ -177,29 +194,9 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "华硕发布搭载英伟达RTX Spark的ProArt新品笔记本",
    "zh_summary": "华硕发布搭载RTX Spark芯片的笔记本",
+   "title_zh": "华硕发布搭载英伟达RTX Spark的ProArt新品笔记本",
    "sentiment": 1
-  },
-  {
-   "id": "f4fd094910a0",
-   "title": "华为昇腾份额超过英伟达 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbmRsT0pObHNnbnVoNTdNTlI4S2xNNGcwWXYzamxRb3R4OHU5OGppY0FxYkNFdkZDZ3dHS3FyaU1lV2tCSFFqVzJVeEswTEtnQWY3QVlSQUtPV3NPRXI1SHJDU3lIY3RwV1BjcG8yaXBCY21kbFZ1cGREbGJILXc",
-   "source": "新浪网",
-   "published_at": "2026-10-08T05:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T05:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbmRsT0pObHNnbnVoNTdNTlI4S2xNNGcwWXYzamxRb3R4OHU5OGppY0FxYkNFdkZDZ3dHS3FyaU1lV2tCSFFqVzJVeEswTEtnQWY3QVlSQUtPV3NPRXI1SHJDU3lIY3RwV1BjcG8yaXBCY21kbFZ1cGREbGJILXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "华为昇腾份额超过英伟达",
-   "title_zh": "华为昇腾份额超过英伟达 - 新浪网",
-   "sentiment": -1
   },
   {
    "id": "658a35963eba",
@@ -407,7 +404,7 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSDc4UWE3VnA1Z1NUZEVCWTdaNXRKOG9QVG1aWFB4Ui1yd2NoemVFQmFobFp0Y3R5N0luaS0wdkUzZ1V4WlJGWHAxYzNXT2M4NzlVY3NBWFV3Y1lpam5fYjBEbHRzTHNaTWRuSDVxazcyZHZEcm9CVkE4TmJ3NXp0TVdyNDljc19VXzc3SEpNb3lTSXZyX2RuUkljZno",
    "source": "Yahoo Finance",
    "published_at": "2026-10-08T03:18:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -418,6 +415,11 @@
      "name": "TradingView",
      "published_at": "2026-10-08T03:18:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVXJ3X0VuTVJWRW11ekViYjlKeHR3alVUYjRscEMtbGVId0x1bnBKN1NnNHBtVklsSnFuX0UtNDkwMXBQanlIa0Nad2dWUlFaUzdCa0d5TU9lRUQ1eG5GNFZOT3NZQUZQQ2JJaHBqYmNEc1lMVllHUWd1QXlIaGpzN2ZwS3gycGN6MUUzaW5iVEcyN3hNdHdqQ1NtcFhpcDFkdUEwRVJZejVNLUFWaC1PTWpEdGc5ejdaczBFS0FoazY3WkV3bTY2Y3ZFcTdtcFU2Zm9vUVJwMHZHeUU0QWltZmZkcm96OGhYd0MwVkpWNlJoTDdnTjJUUllrRkNjaUJzaHR2aUIydjFGblNi"
+    },
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-08T03:18:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU05fVFR2UTh5czctbGYycVQtaGFlT2ZrMHVKXzJXWmtJSWJPT3djTC1RTDBiR05veUV6ZUhNQmFsbEc4NEtUUndWQURnX2oyUjdWam1CZ3BsUXAzMl9vNXhFRm50QjBhLWxYTll3MjN0RllvczRIOFl4WUFiREJ6dkwxTEQ1VlhoblBaNjhrcE1zaVJEUkI3QWk0b2dxZGYwUy1ZQnZPQjlYTUt2MGl2Z1FfR1RtWnFtcHJCYVN0SDhUTHhFOTlWQWxrZWZyU0FwNjkwYlFn"
     }
    ],
    "category": "产品技术",
@@ -1885,7 +1887,7 @@
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNTTNqamRCSmpuYjNQbXZTQlBiV1RJMEpRUVM0U2l6T1UtOGJrV0xUT0s0T0JuSkE1cGd4S19JSGpDaUFrVWI0d2dVN2xaRktvWVMyaVIzTUttUVFWZ1U0WnlQM3V3a3B1bzg5YkdjMVNpX1RoTl9jbVhR",
    "source": "新浪财经",
    "published_at": "2026-10-07T19:26:00+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "新浪财经",
@@ -1911,6 +1913,11 @@
      "name": "新浪网",
      "published_at": "2026-10-08T02:52:09+00:00",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUDFkcmwxeGJlZTJQMXgzUE1jLV9GQ2lxTXZnZ3J1dGdwNlRpdTFYb1dSYmtadFpsMjJzdUtveGgySzU5VUhZbzFyNTVxNjdLc2RqM0pOUDRTeWtsSFZXY1Rib1V4cS12RUFvT1VyWFZUS3d4MTRtS2MtUUgyUk41a1h3"
+    },
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-08T00:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HM2NzSC15S05HdzFKYklVVWRPejRGR0lvTV9VLUY1OFBmX0FsZHJ0WG1mOHhMN0dVckZHSUZOUDN1bVRxQ0NVc2tQcmVqSER1VFVUejAzcmktQml4TkJQTnVHbkZHUjhEV0tEclN3Vmw"
     }
    ],
    "category": "产品技术",
@@ -3714,26 +3721,6 @@
    "zh_summary": "微软推搭载英伟达芯片的AI笔记本",
    "title_zh": "微软借搭载英伟达的新款笔记本扩展智能体AI",
    "sentiment": 1
-  },
-  {
-   "id": "8bd6023cfa77",
-   "title": "Is Nvidia About to Score a $6 Trillion Market Cap? - Investopedia",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1haUnhBeFlSc2hfc1ZDcUxiSWhfeTlDQkRVV1p5VExwd3MtemtTZEktZkFkSFhIYTI1LXVhWEYyQ21fNEJlRHktWThLVmtrVkQtTWpBS2lkR3JibnhpTFVBN3JTdWk1QkpJOUNJTXM2OGd0TWtELTVzVTdGWC1SdTlVc0sza0VJNXNmSUdDSU9RbmRHR1BjRjZIOHFETF92dTdaNWRZZXc",
-   "source": "Investopedia",
-   "published_at": "2026-10-07T14:17:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investopedia",
-     "published_at": "2026-10-07T14:17:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR1haUnhBeFlSc2hfc1ZDcUxiSWhfeTlDQkRVV1p5VExwd3MtemtTZEktZkFkSFhIYTI1LXVhWEYyQ21fNEJlRHktWThLVmtrVkQtTWpBS2lkR3JibnhpTFVBN3JTdWk1QkpJOUNJTXM2OGd0TWtELTVzVTdGWC1SdTlVc0sza0VJNXNmSUdDSU9RbmRHR1BjRjZIOHFETF92dTdaNWRZZXc"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "英伟达市值能否达6万亿美元",
-   "title_zh": "英伟达市值能冲到6万亿美元吗？",
-   "sentiment": 0
   },
   {
    "id": "4866cf394629",
@@ -6499,7 +6486,7 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbEdfcXNTeVhwbW5ZZzFaRnpuc0RDWkF6LTE1LWVnUllMNkR2NElLWllBWFVvWXdobTN1WHZzU3lmUUIwUVRMU0swaVh5S0VTWlVib1NyalRfTElMWkhkbjU3bU84TllFU2V1WGNTYTRjQTg1djY1YnJXV3l6T0JaYjdnWFJybFE3enpoTg",
    "source": "搜狐网",
    "published_at": "2026-10-07T00:49:42+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "搜狐网",
@@ -6513,6 +6500,11 @@
     },
     {
      "name": "凤凰网财经",
+     "published_at": "2026-10-08T00:33:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hT3Z0bUJqLVNEUF9CVzFSaXpBcno3ZkZ1WUhyZEo2MlNwblZhdXY5QzdnRTdOUUJsajd5YVVjWW5qdjN6aTBSYXI4N2xwUVRR"
+    },
+    {
+     "name": "凤凰网",
      "published_at": "2026-10-08T00:33:54+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hT3Z0bUJqLVNEUF9CVzFSaXpBcno3ZkZ1WUhyZEo2MlNwblZhdXY5QzdnRTdOUUJsajd5YVVjWW5qdjN6aTBSYXI4N2xwUVRR"
     }
@@ -6713,6 +6705,23 @@
     "pct": -0.36,
     "window_h": 2.0
    }
+  },
+  {
+   "id": "1c420afbac89",
+   "title": "SPCX Stock Slips After-Hours As SpaceX Reportedly Seeks $40B For Nvidia Chips - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXBBWFdGdERkRHZ5WHRaU3I0S3NYaWVzejBJYWtaU1Z4UjJiVl8tdm05cU5tSzVLUzRETGtVZ2oxbHdVa3l6QmtrVG1ZczMycmZhc0NUV1pMbnQ4WVBTTXk2NlExVjRLQzhTZGFheHZ5YzRBck4xT3djVTRoenhOaGoyOFE0WWlYbUU0djI3VEoxYXdjVXBDMWtR",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-06T23:48:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-06T23:48:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXBBWFdGdERkRHZ5WHRaU3I0S3NYaWVzejBJYWtaU1Z4UjJiVl8tdm05cU5tSzVLUzRETGtVZ2oxbHdVa3l6QmtrVG1ZczMycmZhc0NUV1pMbnQ4WVBTTXk2NlExVjRLQzhTZGFheHZ5YzRBck4xT3djVTRoenhOaGoyOFE0WWlYbUU0djI3VEoxYXdjVXBDMWtR"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   }
  ]
 }
