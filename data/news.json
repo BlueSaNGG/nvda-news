@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T06:06:30.798183+00:00",
+ "updated_at": "2026-10-08T06:21:30.222697+00:00",
  "market": {
   "price": 237.47,
   "change_pct": -0.74,
@@ -10,12 +10,12 @@
    "days_left": 40
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 2
+   "avg": 0.6,
+   "count": 5
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.00（2条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.60（5条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 33.7,
    "ma20": 225.58,
-   "as_of": "2026-10-08T06:06:30.787591+00:00"
+   "as_of": "2026-10-08T06:21:30.209056+00:00"
   },
   "pe_ttm": 30.2,
   "pe_pct_5y": 28,
@@ -140,6 +140,23 @@
    "zh_summary": "英伟达收购Hugging Face平台",
    "title_zh": "英伟达收购AI模型平台Hugging Face；AMD收购World Labs",
    "sentiment": 1
+  },
+  {
+   "id": "f4fd094910a0",
+   "title": "华为昇腾份额超过英伟达 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbmRsT0pObHNnbnVoNTdNTlI4S2xNNGcwWXYzamxRb3R4OHU5OGppY0FxYkNFdkZDZ3dHS3FyaU1lV2tCSFFqVzJVeEswTEtnQWY3QVlSQUtPV3NPRXI1SHJDU3lIY3RwV1BjcG8yaXBCY21kbFZ1cGREbGJILXc",
+   "source": "新浪网",
+   "published_at": "2026-10-08T05:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-08T05:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbmRsT0pObHNnbnVoNTdNTlI4S2xNNGcwWXYzamxRb3R4OHU5OGppY0FxYkNFdkZDZ3dHS3FyaU1lV2tCSFFqVzJVeEswTEtnQWY3QVlSQUtPV3NPRXI1SHJDU3lIY3RwV1BjcG8yaXBCY21kbFZ1cGREbGJILXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "658a35963eba",
@@ -637,7 +654,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDJCUVJKUXAxZTlsbGhETzIxeXM0TVoybl94MU1nQ2loenhyNWVuMDlnMlhjN09PaEg0ay1wZG5zSEtJME9kUWs3Ymw3RGEyVjRFMU5pZllnZFZqaEkyNTFkOWsxR0dSTFRTbW53ZTBURm9GSjJxQmROTEJtUkNtYWp1S0VtbXZP",
    "source": "搜狐网",
    "published_at": "2026-10-08T01:49:20+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
@@ -648,6 +665,11 @@
      "name": "新浪网",
      "published_at": "2026-10-08T02:11:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yYk8wR096S3dwY19Yd29yR0pPcFhTam16N013cGgzeWJrZUlyYkYzT3ZKeV9QT1VnS3dYdFcwLTQ0ejJ3bWFrVDYwWmp5MmN6d29BTWZYMXlfVkRSVmVnY1NSdTFlZVlnSnpKOGVxbjJCNTdmVzkxak8wUm1Tcjg"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-08T01:54:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpeHZxdjg0QS1SaDJhczBVWDJBaTBIdFgwQUlRMFVSX0o1Q2doekR1Q09ub2twMjVWNlRmZ3lJLUtwTXNvNGhqV3VUU1I"
     }
    ],
    "category": "其他",
@@ -812,12 +834,17 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pNHpNckw5dEFySWpIM2llanFWR2dXM1NhYXg0emVfeUxySXRzLTFCSk1pRWdSMFVNT2xoMm5zazR4Um4yS0RaVl9rVTFwa0NxcGpPdUhZQ3ExQkhFQlh4RjhfTHNacTZNZ0Y1OEdSZU4",
    "source": "https://tech-insider.org/",
    "published_at": "2026-10-08T01:26:09+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "https://tech-insider.org/",
      "published_at": "2026-10-08T01:26:09+00:00",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pNHpNckw5dEFySWpIM2llanFWR2dXM1NhYXg0emVfeUxySXRzLTFCSk1pRWdSMFVNT2xoMm5zazR4Um4yS0RaVl9rVTFwa0NxcGpPdUhZQ3ExQkhFQlh4RjhfTHNacTZNZ0Y1OEdSZU4"
+    },
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-08T02:30:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WcTZVQXFqdE1HcjBjakFhVzlzNC1WTFJ4MFIwZjNOX09pUUoxS3J4c0hrMl90R3ZJR2lFZFVLU0JGMklaakxaVno3WEVMUTRKU2ppZ191NHRreXRuVEhuTi1Bd2szcEJFbUw2OWptMG10MGctU1dGdVdWSHM5UQ"
     }
    ],
    "category": "产品技术",
@@ -6688,26 +6715,6 @@
    "zh_summary": "市场传闻SpaceX融资400亿美元购英伟达芯片",
    "title_zh": "市场传闻：SpaceX寻求$400亿融资以购买英伟达芯片 - Moomoo",
    "sentiment": 1
-  },
-  {
-   "id": "1c420afbac89",
-   "title": "SPCX Stock Slips After-Hours As SpaceX Reportedly Seeks $40B For Nvidia Chips - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXBBWFdGdERkRHZ5WHRaU3I0S3NYaWVzejBJYWtaU1Z4UjJiVl8tdm05cU5tSzVLUzRETGtVZ2oxbHdVa3l6QmtrVG1ZczMycmZhc0NUV1pMbnQ4WVBTTXk2NlExVjRLQzhTZGFheHZ5YzRBck4xT3djVTRoenhOaGoyOFE0WWlYbUU0djI3VEoxYXdjVXBDMWtR",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-06T23:48:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T23:48:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXBBWFdGdERkRHZ5WHRaU3I0S3NYaWVzejBJYWtaU1Z4UjJiVl8tdm05cU5tSzVLUzRETGtVZ2oxbHdVa3l6QmtrVG1ZczMycmZhc0NUV1pMbnQ4WVBTTXk2NlExVjRLQzhTZGFheHZ5YzRBck4xT3djVTRoenhOaGoyOFE0WWlYbUU0djI3VEoxYXdjVXBDMWtR"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "SpaceX据悉筹400亿美元购买英伟达芯片",
-   "title_zh": "SpaceX据悉为购买英伟达芯片寻求400亿美元",
-   "sentiment": 2
   }
  ]
 }
