@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T11:36:36.292004+00:00",
+ "updated_at": "2026-10-08T11:51:30.257015+00:00",
  "market": {
   "price": 237.47,
   "change_pct": -0.74,
@@ -10,8 +10,8 @@
    "days_left": 40
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 48
+   "avg": 0.42,
+   "count": 50
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（48条已评分）"
+     "note": "今日新闻情绪 +0.42（50条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 33.7,
    "ma20": 225.58,
-   "as_of": "2026-10-08T11:36:36.276683+00:00"
+   "as_of": "2026-10-08T11:51:30.247827+00:00"
   },
   "pe_ttm": 30.2,
   "pe_pct_5y": 28,
@@ -62,17 +62,39 @@
  },
  "stories": [
   {
+   "id": "96e60db75afc",
+   "title": "Nvidia, Palantir, and Alphabet send waves through Wall Street - TheStreet",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFdQd202LU92VDc2SWN2S2FweU82cG9uc3dRLXpSZGdVeUgtTzJGa2FsNVVIbVZyUG54MHBldHFWY3RVV21OZFYyZTRjTURWNFRqMWhDMGJaZmVNQXdxbFJrYmtGVUk1SWZ4T1lyRGVOS0Fma0hwSmNubzRXZEZReWlxLW5jaFU",
+   "source": "TheStreet",
+   "published_at": "2026-10-08T11:37:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TheStreet",
+     "published_at": "2026-10-08T11:37:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFdQd202LU92VDc2SWN2S2FweU82cG9uc3dRLXpSZGdVeUgtTzJGa2FsNVVIbVZyUG54MHBldHFWY3RVV21OZFYyZTRjTURWNFRqMWhDMGJaZmVNQXdxbFJrYmtGVUk1SWZ4T1lyRGVOS0Fma0hwSmNubzRXZEZReWlxLW5jaFU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "dd96aa771291",
    "title": "Jensen Huang: 'Nvidia was founded because of Windows' - Yahoo! Finance Canada",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnFSd0s4Tmstak0yWXoyRTJUa21Rb0E1RVh5ZDlUSG5XZmMxNnRmSnhOUG9STHl5c2MxVkFCQ3loRTBqOWFwM2NQUG1tNUIyZFQ2MFpQV2Y4czYwd3gtRl9vWURKaDNTM01aYXVoVjA4Mk5qXzk2RUdxT2diaDFLbHNhUFROODJVMjEzamk4X2xfWUJMUGxHZ0FFeHJTZXE3",
    "source": "Yahoo! Finance Canada",
    "published_at": "2026-10-08T11:18:14+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo! Finance Canada",
      "published_at": "2026-10-08T11:18:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnFSd0s4Tmstak0yWXoyRTJUa21Rb0E1RVh5ZDlUSG5XZmMxNnRmSnhOUG9STHl5c2MxVkFCQ3loRTBqOWFwM2NQUG1tNUIyZFQ2MFpQV2Y4czYwd3gtRl9vWURKaDNTM01aYXVoVjA4Mk5qXzk2RUdxT2diaDFLbHNhUFROODJVMjEzamk4X2xfWUJMUGxHZ0FFeHJTZXE3"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T11:18:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFhfY3pNUHhTcXc3Tkw4UVdxd0UxSW9ZeVVZa05vSC1idXFGMDY1Sml5TE1OaUYtWXhhQ1l4bGw3M2g1dDZ2VlBzUC1fNTgwQXJydmpqNWtsRjctWFgtUWlRZl9mZFBoa2FQZk1tbnlkQmNGUTJIdEhLbTF3QUh0YzAxaW9RcGVBNF9uck53M3BNTjA5WXhtOEN5RVRDMmVsb1p5TWdoMEl5b2JaVEFv"
     }
    ],
    "category": "其他",
@@ -100,6 +122,23 @@
    "zh_summary": "英伟达GPU价格2006对比2026",
    "title_zh": "英伟达GPU价格2006年对比2026年",
    "sentiment": 0
+  },
+  {
+   "id": "f78cc7b6cd25",
+   "title": "Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots - Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFdGb2V6YWlNaUZ2Q0MzSzI1d3o5X0ZRa2xCckNpX3NnTk9pMnJWMTNwY1Z4STB0QTZaTFhCQVNnUjlFLXlNbUJOejJ1aEYtTVFlcE81QkJjbXdaQnIzVHdxZ3pQeEI5NGNXNE4wMzVuRjRpMC00cDlCUHRteWpyc2tidjRzSlFkaTJUakdIYnBGSGhsN3dZM2VXUGlOd1RzVEs3elhCS0NWSG8",
+   "source": "Ars Technica",
+   "published_at": "2026-10-08T11:15:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Ars Technica",
+     "published_at": "2026-10-08T11:15:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFdGb2V6YWlNaUZ2Q0MzSzI1d3o5X0ZRa2xCckNpX3NnTk9pMnJWMTNwY1Z4STB0QTZaTFhCQVNnUjlFLXlNbUJOejJ1aEYtTVFlcE81QkJjbXdaQnIzVHdxZ3pQeEI5NGNXNE4wMzVuRjRpMC00cDlCUHRteWpyc2tidjRzSlFkaTJUakdIYnBGSGhsN3dZM2VXUGlOd1RzVEs3elhCS0NWSG8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "e58f61878556",
@@ -147,7 +186,7 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUVMMGFicmZfaVFPZ0oyRGFuTGJOWXVoOTUyZEN6UHhlX0h0TmFpTWNrRXRRYnBncmpqWmNBaFVPZDlSUHprdGhqeDVpQ0tyaUVHRFRMMHhSbE1tbjBlell3SExFaHhHZXZrY0cwbVQtWXZwUGc0LWdkZlZtLVBtVHQ3ZGc1SktaTWY2SzZ5VE1aU01qcXhYTnRn",
    "source": "Yahoo Finance",
    "published_at": "2026-10-08T11:10:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -158,6 +197,11 @@
      "name": "AOL.com",
      "published_at": "2026-10-08T11:10:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJRExSWXY1RVFTSURHNkVHenhfWWFEZDcyb2NHY1lKVVVqWnQxZ1VLeS13WVFkRHNIRzBOUFVKeGtfam9rME40aktGN2xzUUpNSTJfSU92V3NyVTRYTWhQUHBpYklmWFFGb0hwYVFBSXltc1RpaERIOU1UVE5lUQ"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-08T11:33:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPN1EzaE4zMDEzR3NQX21jXzJiVHg5OXh1REpzTUFMX2VQZkxRemwtM3VWOFBFT0J3N2N3ZUpzYWVMbEQ0ZC0wcnBpckkwbUFPQ19xb0tZWVNKYmFyQzJ0ajlIcXVYdXVyM2lYUy1RbDYzNlBRd1pPWWdvWUs5dlFENUFxT0t5S1NXQnBkVlBCekU3b2dpWmllMnFDanFxWVFpaFI0eEFRanRrQ0oyanVrRHZOaUJkcEJrb0dFcDBRaFhzYlV3aWlRdnVSVlMwUUpBQ3VCNVRiUWhmcGgwZUl2RlFEOHlGOHB5b3pIbWR3eFd2VURjVUpLZEVQdWRYaUwyaUE"
     }
    ],
    "category": "其他",
@@ -690,6 +734,23 @@
    "zh_summary": "Quantbot减持英伟达股票",
    "title_zh": "Quantbot Technologies LP减持英伟达公司股票",
    "sentiment": -1
+  },
+  {
+   "id": "4ea4343ceb1b",
+   "title": "NVIDIA Corporation $NVDA Shares Purchased by LM Advisors LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGJ0SVd4ek55NDViZnZTV3RBUll2MGI5T3dEQWJYaE00M1B3eUlMR0JqMVFvNUNUZk9zNnFsUW5tRTBtSVFOT3ZjSGZLQVcwcVRhMGNlRTN3dkxQNWNzNjRRaE1RR1U2Z3NaOW9CdDIzQjUwYTRSUFVCc0cyZTVpUEVjR1MyREVXQ0E1Q1JyRUFrWGt6RE14OVN0QVdVTlVzdjBQcnJnSWhBekJxRUF6cFJUcjVvaWRFYUFkRg",
+   "source": "MarketBeat",
+   "published_at": "2026-10-08T07:33:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-08T07:33:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONGJ0SVd4ek55NDViZnZTV3RBUll2MGI5T3dEQWJYaE00M1B3eUlMR0JqMVFvNUNUZk9zNnFsUW5tRTBtSVFOT3ZjSGZLQVcwcVRhMGNlRTN3dkxQNWNzNjRRaE1RR1U2Z3NaOW9CdDIzQjUwYTRSUFVCc0cyZTVpUEVjR1MyREVXQ0E1Q1JyRUFrWGt6RE14OVN0QVdVTlVzdjBQcnJnSWhBekJxRUF6cFJUcjVvaWRFYUFkRg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "713f5ab3c3e3",
@@ -6645,66 +6706,6 @@
    "zh_summary": "住友生命保险减持英伟达股份",
    "title_zh": "住友生命保险削减英伟达 $NVDA 持仓",
    "sentiment": -1
-  },
-  {
-   "id": "c4857c45ed5f",
-   "title": "Harber Asset Management LLC Acquires 2,218 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZHpSd0s5cl9paWI2cTJ5eTB4elVBbW1PQ3FEUXpKMjRYZkZfdWtZSXV2RUlPS0hFV01ZS3hacHFUZmdlMWE0aTRvejAyd3UyN0dWZG9rdjk2MHdSN0djZUxVcXBSM1Q3Wm1TVVRGTXg3WE1QYXJYVUNnR3dXTktqSnVHUnRoMjFacTVkdVNrX25kMElXTlA0dGJ2TUx2REtTZWl1WnIzTktxRXkySmp1Q3dULThmam1UcWRraW5mX0NxNmhEdEd4YkZOUVBzb0w3N3c",
-   "source": "MarketBeat",
-   "published_at": "2026-10-07T07:43:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-07T07:43:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZHpSd0s5cl9paWI2cTJ5eTB4elVBbW1PQ3FEUXpKMjRYZkZfdWtZSXV2RUlPS0hFV01ZS3hacHFUZmdlMWE0aTRvejAyd3UyN0dWZG9rdjk2MHdSN0djZUxVcXBSM1Q3Wm1TVVRGTXg3WE1QYXJYVUNnR3dXTktqSnVHUnRoMjFacTVkdVNrX25kMElXTlA0dGJ2TUx2REtTZWl1WnIzTktxRXkySmp1Q3dULThmam1UcWRraW5mX0NxNmhEdEd4YkZOUVBzb0w3N3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Harber资管增持2218股英伟达",
-   "title_zh": "Harber资产管理公司买入2218股英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "1139353ed894",
-   "title": "NVIDIA Corporation $NVDA Stock Holdings Reduced by Korea Investment CORP - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc3VDcTB1YzFxVUxkaE4yLTVocWZDdkZNSEc5RjFLaU4yRVJnOGVlREJCOGZhY0Z1cG16Skg1VHZiWVFoUG1wV2wwcGszRFhSZ3hQam1UbHJ6aTJMLXdPZnZvQUJLQ2doU21UWnJyS1NvTXRFekt2emNxTVRKLWpybmZHRTU0VTlRclFxMzVRbGhhUC0wX3dkNS1IYjdjZXdnNlJ3V2doUnNmU21UTmdLZG0zOHROSlF4dDFDY25RNXNfY1ZzSGNkMm9oN1k",
-   "source": "MarketBeat",
-   "published_at": "2026-10-07T07:43:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-07T07:43:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc3VDcTB1YzFxVUxkaE4yLTVocWZDdkZNSEc5RjFLaU4yRVJnOGVlREJCOGZhY0Z1cG16Skg1VHZiWVFoUG1wV2wwcGszRFhSZ3hQam1UbHJ6aTJMLXdPZnZvQUJLQ2doU21UWnJyS1NvTXRFekt2emNxTVRKLWpybmZHRTU0VTlRclFxMzVRbGhhUC0wX3dkNS1IYjdjZXdnNlJ3V2doUnNmU21UTmdLZG0zOHROSlF4dDFDY25RNXNfY1ZzSGNkMm9oN1k"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "韩国投资公司减持英伟达股票",
-   "title_zh": "韩国投资公司减持英伟达$NVDA股票",
-   "sentiment": -1
-  },
-  {
-   "id": "71e596479e78",
-   "title": "NVIDIA Corporation $NVDA Position Increased by Westpac Banking Corp - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM1h6alllZHJqVHl0S1c1UDBUeF85NzNITXFCTzBtdWUwUC1pQlpnZGROQ0tTQmZibmphZElyUnNaMUYxanM0Zlh2THB1bDVOLTRiM1E4SlpHWG9nTjEtVG43eFlvSkZIUFFtOWR4MVpvdG5UYllacEluczRfRlRwQzFfVFpUZFRIZEpEWlhPNzJTWGhmRGttOURGa3I0M2tPQ2tSSFB2TkNYMXN4MThQWngzS3FOam1xTUlZcXBZZ2F3U2t1SEE",
-   "source": "MarketBeat",
-   "published_at": "2026-10-07T07:43:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-07T07:43:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM1h6alllZHJqVHl0S1c1UDBUeF85NzNITXFCTzBtdWUwUC1pQlpnZGROQ0tTQmZibmphZElyUnNaMUYxanM0Zlh2THB1bDVOLTRiM1E4SlpHWG9nTjEtVG43eFlvSkZIUFFtOWR4MVpvdG5UYllacEluczRfRlRwQzFfVFpUZFRIZEpEWlhPNzJTWGhmRGttOURGa3I0M2tPQ2tSSFB2TkNYMXN4MThQWngzS3FOam1xTUlZcXBZZ2F3U2t1SEE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "西太平洋银行增持英伟达股票",
-   "title_zh": "西太平洋银行增持英伟达 $NVDA 头寸",
-   "sentiment": 1
   }
  ]
 }
