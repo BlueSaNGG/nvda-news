@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T18:36:31.122726+00:00",
+ "updated_at": "2026-10-08T18:51:33.007663+00:00",
  "market": {
-  "price": 230.63,
-  "change_pct": -2.88,
+  "price": 230.17,
+  "change_pct": -3.07,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 40
   },
   "day_sentiment": {
-   "avg": 0.43,
-   "count": 162
+   "avg": 0.42,
+   "count": 166
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +37.7%"
+     "note": "目标价中位数 $318（14家），隐含空间 +37.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.43（162条已评分）"
+     "note": "今日新闻情绪 +0.42（166条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $230.63 vs 20日均线 $226.19"
+     "note": "现价 $230.17 vs 20日均线 $226.17"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 88,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 37.7,
-   "ma20": 226.19,
-   "as_of": "2026-10-08T18:36:31.113134+00:00"
+   "implied_upside_pct": 37.9,
+   "ma20": 226.17,
+   "as_of": "2026-10-08T18:51:32.989608+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ed2a851672fa",
+   "title": "Trump reports Nvidia stock trades ahead of awards to Huang, Musk and Brin - CTech",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xc0NfQ2pzWDZNbHdHTmVVRjhEMDhiRzBST21ZN2MtY210ejdPTXlTRW1XY3NoX1dDTGVOdVpvclNseXVXYU5HQnpCV0Rfbmt2N0FueWN3eHEwdHdtc1NsUEhRMEVEcEpV",
+   "source": "CTech",
+   "published_at": "2026-10-08T18:28:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CTech",
+     "published_at": "2026-10-08T18:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xc0NfQ2pzWDZNbHdHTmVVRjhEMDhiRzBST21ZN2MtY210ejdPTXlTRW1XY3NoX1dDTGVOdVpvclNseXVXYU5HQnpCV0Rfbmt2N0FueWN3eHEwdHdtc1NsUEhRMEVEcEpV"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "a4272acfed8e",
    "title": "High-severity Nvidia bug could crash GPU monitoring on exposed servers - The Register",
@@ -1959,6 +1976,23 @@
    }
   },
   {
+   "id": "e44c812e52a1",
+   "title": "英伟达支持公司赴美IPO，目标估值高达58.5亿元 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0xYeF83eUJycjJxNk1MWmJaN2NWVFpCTkdBakFtNFNBSHI0ZFFGUFdVOVNOUzRySDlhdWtRM3Bzb1NxS18tVDN2S0VnVnd3dUwtTk1uc0dacmhrZi15dDBsWnB0T1YzcVlUbTFScldTRWNGUVFFc1kxV1lJZjRDejlRbmtqM3lTVmhWTg",
+   "source": "搜狐网",
+   "published_at": "2026-10-08T12:31:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-08T12:31:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0xYeF83eUJycjJxNk1MWmJaN2NWVFpCTkdBakFtNFNBSHI0ZFFGUFdVOVNOUzRySDlhdWtRM3Bzb1NxS18tVDN2S0VnVnd3dUwtTk1uc0dacmhrZi15dDBsWnB0T1YzcVlUbTFScldTRWNGUVFFc1kxV1lJZjRDejlRbmtqM3lTVmhWTg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "caf3a918a9e0",
    "title": "Billionaire Mark Stevens sold $947M of Nvidia in Q3, tops list - Billionaires.Africa",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOenZhMy1WN2NXd0EwN0tQVWlmYnRQdTZBUTJ1STMtT0IwWDgxc0pXVTE5R1N3UXg3M3Q5V2hsZU04M21vdjBoNVZFLUZHN2dmbzhzdml0YldJal8xb3dMSnlBdTZDZ2hQbzhYTXFPejhzWVJMUnhoTmFxMzFLZVoyVk05cnZMT2tZYUh1NldWdG5EY0xvNENmTkJwNEowRVNZYkRpVkZwWjExZG5Bc0p5M19uMzhOeFVHOW5iLTU4OUtHMFM2MkJkUU5PNU03dHFqR1VmYUh1ai1sT0N5",
@@ -2039,26 +2073,6 @@
    "sentiment": 0
   },
   {
-   "id": "7f11bcfc4115",
-   "title": "AI赛道55亿美元IPO认购遇冷！英伟达支持的Firmus定价难产，AI融资热现裂痕 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2VtOUxjVXpfWmFUV2Y3Rm1udkpZeWpoaWtQbmIyUzY5LUJzOTdZQjk0akNvcnV6SFZxNGY3MjlQTXpSWng3UFA4eGNvdDUwZmxoVmF5UHdqN2prNnhzcVlKY0hFa3JsUWpvNVpyTGhMNldZT1JKaHdTbFNsUGZIZmFuUGVhSUpuLVpSc2JSLWpwLS1RZzVrOW5xMzBKRTd4WU51Z1BB",
-   "source": "Moomoo",
-   "published_at": "2026-10-08T12:11:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-08T12:11:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2VtOUxjVXpfWmFUV2Y3Rm1udkpZeWpoaWtQbmIyUzY5LUJzOTdZQjk0akNvcnV6SFZxNGY3MjlQTXpSWng3UFA4eGNvdDUwZmxoVmF5UHdqN2prNnhzcVlKY0hFa3JsUWpvNVpyTGhMNldZT1JKaHdTbFNsUGZIZmFuUGVhSUpuLVpSc2JSLWpwLS1RZzVrOW5xMzBKRTd4WU51Z1BB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达支持的Firmus IPO定价遇冷",
-   "title_zh": "AI赛道55亿美元IPO认购遇冷！英伟达支持的Firmus定价难产",
-   "sentiment": -1
-  },
-  {
    "id": "e046d731f743",
    "title": "Nvidia's Linux driver fixes a Last of Us Part II bug reported on its forum four months ago - MIXED Reality News",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMTYydlpBTUlRR3VvUGx0Z0ZoTzVvSHFFbmlnQ01KbG1Iem5jMDlHRU1abExVb21CZV9jWWhsYmFFZEZ6MkZYSUlqeWZ6a0dPZ2NYQ2tuTEFBVG11VzJfdXktaGZrY0ZwWHZ1NTN4aXFETWVTQUlQYm9NSGswMzJRN0lOTGtPN1BfeXlj",
@@ -2122,6 +2136,31 @@
    "zh_summary": "英伟达支持的Iambic赴美IPO",
    "title_zh": "英伟达支持的Iambic赴美IPO，估值至多8.06亿美元",
    "sentiment": 1
+  },
+  {
+   "id": "57e230f2ca99",
+   "title": "AI赛道55亿美元IPO认购遇冷！英伟达支持的Firmus定价难产，AI融资热现裂痕_滚动新闻_财经 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TcjQtLS1laXFsUXFYNk02WDZCWVlJc0g2anlZUnZQbXVFX2ZqekRQYVRtdVgyZDBMVkoteTczX05XaVpialRMWHRUNHZtMDN5elVETmtJTDdCbk1QdjltZQ",
+   "source": "证券之星",
+   "published_at": "2026-10-08T12:05:22+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-08T12:05:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TcjQtLS1laXFsUXFYNk02WDZCWVlJc0g2anlZUnZQbXVFX2ZqekRQYVRtdVgyZDBMVkoteTczX05XaVpialRMWHRUNHZtMDN5elVETmtJTDdCbk1QdjltZQ"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-08T12:11:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2VtOUxjVXpfWmFUV2Y3Rm1udkpZeWpoaWtQbmIyUzY5LUJzOTdZQjk0akNvcnV6SFZxNGY3MjlQTXpSWng3UFA4eGNvdDUwZmxoVmF5UHdqN2prNnhzcVlKY0hFa3JsUWpvNVpyTGhMNldZT1JKaHdTbFNsUGZIZmFuUGVhSUpuLVpSc2JSLWpwLS1RZzVrOW5xMzBKRTd4WU51Z1BB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "英伟达支持的Firmus IPO定价遇冷",
+   "title_zh": "AI赛道55亿美元IPO认购遇冷！英伟达支持的Firmus定价难产",
+   "sentiment": -1
   },
   {
    "id": "b6bb29dbdd23",
@@ -2658,7 +2697,7 @@
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYmsxcV9kSHlDb1BsWjNUMDlXV2FGWGVXdUNkU2Yzb2hJNEc4SmhZM2c4a181dFZUMDZGRmxSSjlrQVRtcWI4SlVqT0ZJdm84dDBjejhncGVtM19PSFZlR3JUZUUxWGZVbWh3S3FOTFVfVGhpaUpKeXZjYVkyZ21CcEhRYjc5NEhZaXcwVV84azRjWkZabmlicHlGRUxGYncyMW1EX2Rhc3A2amZyQUVIamdORUlmTVdsUlowYnh3R0JxVXZuT3ZtcUZhYmZNQU1xeElkbUVFcDJ2bm5F",
    "source": "新浪财经",
    "published_at": "2026-10-08T10:31:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "新浪财经",
@@ -2669,13 +2708,22 @@
      "name": "富途牛牛",
      "published_at": "2026-10-08T10:53:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qNkNxOVdrVU9iVWNzNEQzNERFSklzSUI2NUZka0hJQ01PUWkzTzdjU3hSejBFWDlEMERsTUttZ1B1X29ZUWx1QzU5MzRIVEJD"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-08T10:31:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUdFdHFsZjRnTVByM1lacDBvUlZHdGYtSWN1ZzUxRno2YWFtSkZyaXZQYnlXdFY5emxxWF85MmtSZERVa3lkd2VvU1VUMWlIOXc1SGFKcXNKNEJNb0prZ1BTZ2lxUUthUV9nci1pVG81R1ljQ1BpRVRlVTdsZC12aWRlb0h4b2xqUFBqNw"
     }
    ],
    "category": "产品技术",
    "session": "盘前",
    "zh_summary": "微软推出搭载英伟达芯片Surface新机",
    "title_zh": "微软推出搭载英伟达芯片的Surface Laptop Ultra，发力AI市场",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.55,
+    "window_h": 2.0
+   }
   },
   {
    "id": "90fadd01ad3c",
@@ -5006,6 +5054,23 @@
    }
   },
   {
+   "id": "f0bb6465dbe0",
+   "title": "Microsoft and Nvidia Detail PC Laptop with RTX Spark Chip and On-Device AI - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmVJbnpXNmxnLXlXWnZHbldkbTJ6dVhQZk1BMGdqdUxiM3B1QUF4WE5GQTVYakxYNWFLelVYYWpuRXFNZDdiVmlfcU92dGgxeEhXMEVoYmhCaEliaTBwRUFOSFJaTk9Pb01JMkpra3dLWlV1ajI4aS1ILUpUZGVJbUJ1TWFmZGtnUl9JdGtwU3ctenpIc0ZyakhCUXA3Q1ZSNUItaGFWcmFpeUhzWHJQLXh3ZDdmSEJEYUE",
+   "source": "Barron's",
+   "published_at": "2026-10-07T22:23:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-07T22:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmVJbnpXNmxnLXlXWnZHbldkbTJ6dVhQZk1BMGdqdUxiM3B1QUF4WE5GQTVYakxYNWFLelVYYWpuRXFNZDdiVmlfcU92dGgxeEhXMEVoYmhCaEliaTBwRUFOSFJaTk9Pb01JMkpra3dLWlV1ajI4aS1ILUpUZGVJbUJ1TWFmZGtnUl9JdGtwU3ctenpIc0ZyakhCUXA3Q1ZSNUItaGFWcmFpeUhzWHJQLXh3ZDdmSEJEYUE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "b512e8291772",
    "title": "英伟达推出Windows版DGX Station：748GB统一内存_CNMO - CNMO",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fTkFKdVNDc0FBMkdob3ZWYWFyMl9qSmtRSGtQMjRBdlVpYmp1QUJKTUFKbndSN2xmMGVCNU5vbm5DbGhYdnZOeVh3dw",
@@ -6639,66 +6704,6 @@
    "session": "盘中",
    "zh_summary": "三星12层HBM4E通过英伟达验证",
    "title_zh": "韩媒称三星12层HBM4E通过英伟达等客户验证但尚无供货合同披露- Samsung 三星 - cnBeta.COM",
-   "sentiment": 1
-  },
-  {
-   "id": "24df37b27348",
-   "title": "SpaceX拟举债400亿美元采购英伟达芯片，其股价应声下跌 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXpKTU8tVFIydTF4eURqSkVvVjFxUmVOcFNJY3B3NzduSHktN0p1ZlpDdFNXVUd4REhzNEZxUEFtbHdRazZaWUxXRkFrTnV3UzJvN2FkQXJFN01IZnR0UGNTbVgwZ0lETnk3ZThIbjlEa3VjblhBMFNKSWhBWW9La3JHdV9MTnVJdTNOS05ISjNRRmJ1MmVjbnRoQ2h2Qmo1VmUxUTlkNGdQSDV1cWlhOVZ0S1g0Vl90RXFDZm45YktFSng4T2wyT0JiVmxHWHV2MWtiZDg0b3NsM3hMbFRv",
-   "source": "新浪财经",
-   "published_at": "2026-10-07T16:33:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-07T16:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXpKTU8tVFIydTF4eURqSkVvVjFxUmVOcFNJY3B3NzduSHktN0p1ZlpDdFNXVUd4REhzNEZxUEFtbHdRazZaWUxXRkFrTnV3UzJvN2FkQXJFN01IZnR0UGNTbVgwZ0lETnk3ZThIbjlEa3VjblhBMFNKSWhBWW9La3JHdV9MTnVJdTNOS05ISjNRRmJ1MmVjbnRoQ2h2Qmo1VmUxUTlkNGdQSDV1cWlhOVZ0S1g0Vl90RXFDZm45YktFSng4T2wyT0JiVmxHWHV2MWtiZDg0b3NsM3hMbFRv"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "SpaceX拟举债400亿美元购英伟达芯片",
-   "title_zh": "SpaceX拟举债400亿美元采购英伟达芯片，其股价应声下跌 - 新浪财经",
-   "sentiment": -1
-  },
-  {
-   "id": "3f412614f11c",
-   "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zOVNOd0RRX1RUS0U5UzdXbkFtUklITjdsTmNQbHFzLTVOWWZ2OVJvWDh1X2tpR2VrM2dNajlNbXJ6MThlckFyaGsyS2VRNHlzcjJGcnRNa3Z3UlpaWHRnQTJ1TmhNcEJxRXVxejM2MlRTVFZ6aGhHeTdxcHNLUdIBgwFBVV95cUxPRkhleVRwMXRWMWZmdlB3NHI4VEY3QzlOakUyTG9oMjE4WFo0Vm1NbHNKcHJIaGg0SkJUaUxJNkxSdW5kWFluak5xQXF5WTV3ZlBUN084MkRWcEY2eUduWTRGU1RWUVRzVVl5QkRSU3FkOFBVTW1RLXhOWlkzampncy1uYw",
-   "source": "CNBC",
-   "published_at": "2026-10-07T16:32:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-07T16:32:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zOVNOd0RRX1RUS0U5UzdXbkFtUklITjdsTmNQbHFzLTVOWWZ2OVJvWDh1X2tpR2VrM2dNajlNbXJ6MThlckFyaGsyS2VRNHlzcjJGcnRNa3Z3UlpaWHRnQTJ1TmhNcEJxRXVxejM2MlRTVFZ6aGhHeTdxcHNLUdIBgwFBVV95cUxPRkhleVRwMXRWMWZmdlB3NHI4VEY3QzlOakUyTG9oMjE4WFo0Vm1NbHNKcHJIaGg0SkJUaUxJNkxSdW5kWFluak5xQXF5WTV3ZlBUN084MkRWcEY2eUduWTRGU1RWUVRzVVl5QkRSU3FkOFBVTW1RLXhOWlkzampncy1uYw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "阿波罗等洽谈融资SpaceX购芯",
-   "title_zh": "阿波罗等银行洽谈融资SpaceX的400亿美元英伟达GPU采购",
-   "sentiment": 1
-  },
-  {
-   "id": "7837c16a8e49",
-   "title": "Samsung HBM4E Passes Testing for NVIDIA's \"Rubin Ultra\" GPU - TechPowerUp",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUhuVFJvR0IyUm5Yd0FRdnR4bGh1NS1BSHNrbTBnU0tnWU80N2lmQVQ4UFBaRzRIQUk5cVUtdWdFbE96SEwtODFiYnI4ZHJTZWZ2NmNURk84SnhiUVRWYlNGdEI4cS1namdlRUFVa0FPRy1GYk0zYVI5UTF6dHgzRUphZ0o4MEdiMUhtbHl0UGktZzJVWFHSAZsBQVVfeXFMTVB6ZkdGSmNTbGtFNGYyaU96SDBNMXJfcGM3bkRFY0R1ZW1LWWpBZUN2YVN1MTBpdUR5bmFKQnIwQnFkYVhZNFlSRHA2YzJDMnduQWJIX2RKM2dfajJ5VFZSOHRjbkJPYU4yQjhEWEViQ2JneDVWRmFOZm9rc2dDVEFNZUNBcElBMWtiTDB4YjZJQkJDQnctSHVnWms",
-   "source": "TechPowerUp",
-   "published_at": "2026-10-07T16:28:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechPowerUp",
-     "published_at": "2026-10-07T16:28:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUhuVFJvR0IyUm5Yd0FRdnR4bGh1NS1BSHNrbTBnU0tnWU80N2lmQVQ4UFBaRzRIQUk5cVUtdWdFbE96SEwtODFiYnI4ZHJTZWZ2NmNURk84SnhiUVRWYlNGdEI4cS1namdlRUFVa0FPRy1GYk0zYVI5UTF6dHgzRUphZ0o4MEdiMUhtbHl0UGktZzJVWFHSAZsBQVVfeXFMTVB6ZkdGSmNTbGtFNGYyaU96SDBNMXJfcGM3bkRFY0R1ZW1LWWpBZUN2YVN1MTBpdUR5bmFKQnIwQnFkYVhZNFlSRHA2YzJDMnduQWJIX2RKM2dfajJ5VFZSOHRjbkJPYU4yQjhEWEViQ2JneDVWRmFOZm9rc2dDVEFNZUNBcElBMWtiTDB4YjZJQkJDQnctSHVnWms"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "三星HBM4E通过Rubin Ultra测试",
-   "title_zh": "三星HBM4E通过英伟达Rubin Ultra GPU测试",
    "sentiment": 1
   }
  ]
