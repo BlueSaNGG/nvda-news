@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-08T18:21:29.620840+00:00",
+ "updated_at": "2026-10-08T18:36:31.122726+00:00",
  "market": {
-  "price": 231.04,
-  "change_pct": -2.71,
+  "price": 230.63,
+  "change_pct": -2.88,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 40
   },
   "day_sentiment": {
-   "avg": 0.42,
-   "count": 160
+   "avg": 0.43,
+   "count": 162
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 89% 分位（偏高）"
+     "note": "现价处于52周区间 88% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +37.4%"
+     "note": "目标价中位数 $318（14家），隐含空间 +37.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.42（160条已评分）"
+     "note": "今日新闻情绪 +0.43（162条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $231.04 vs 20日均线 $226.21"
+     "note": "现价 $230.63 vs 20日均线 $226.19"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 89,
+   "price_52w_pct": 88,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 37.4,
-   "ma20": 226.21,
-   "as_of": "2026-10-08T18:21:29.610059+00:00"
+   "implied_upside_pct": 37.7,
+   "ma20": 226.19,
+   "as_of": "2026-10-08T18:36:31.113134+00:00"
   },
-  "pe_ttm": 29.4,
+  "pe_ttm": 29.3,
   "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,74 @@
   }
  },
  "stories": [
+  {
+   "id": "a4272acfed8e",
+   "title": "High-severity Nvidia bug could crash GPU monitoring on exposed servers - The Register",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYVNCdm1XT2pOMlhNQkZIMUdpQlFkRnRaTkQySHJZb3ItWENIWGRQc1hGMVh6czA3aFFjaGtTYVVDanh1ck5QZXlELUdDYXhQU01BMWNDTzlWQklUZm5kLWNEMWZOZm9ud1dKbXBoQloyRHFpMW9zUWNnbjZGU1k4X0FRY2pSaV9XSDRQVnVubDRILTBGUzNFcHI4bjAtUFJpcHdiT1o3ZUwxVUZjUFpybUttd0VRWC1FbmVENWE0WXotNzN0",
+   "source": "The Register",
+   "published_at": "2026-10-08T18:17:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Register",
+     "published_at": "2026-10-08T18:17:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYVNCdm1XT2pOMlhNQkZIMUdpQlFkRnRaTkQySHJZb3ItWENIWGRQc1hGMVh6czA3aFFjaGtTYVVDanh1ck5QZXlELUdDYXhQU01BMWNDTzlWQklUZm5kLWNEMWZOZm9ud1dKbXBoQloyRHFpMW9zUWNnbjZGU1k4X0FRY2pSaV9XSDRQVnVubDRILTBGUzNFcHI4bjAtUFJpcHdiT1o3ZUwxVUZjUFpybUttd0VRWC1FbmVENWE0WXotNzN0"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "a7ddadfd71f3",
+   "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG8tazVEa2hVcWdlYU1pZk53QzNMLU1lVWk4c2U0NFRvMk5IMnJYMWdTZERsSHhkYWo1dkRlczFWcGdwRHJfbFJzQ09kUEo1elE4YVRQZWp0Z3lVbU1MUjJIVV9lbFFHbUxPUlJhUER6NzgwdjVFTHM4UVhGZ3pNd3pR0gGHAUFVX3lxTE9nLWxxNlZwaWJicm9JSVBTT3lHeElLRDJ2QklRT2FkelA0eXZSNDlyRWh6dWlhNFloNzZfOUtid3dmcEJsTGNNcTE5VnhEbURXWWo0UGktcmhXNV8tS1lHYndTellPVm00RmFpeFVLTnBqNENtUUtBdHV2NVdPU0Jnb1A1NnpzSQ",
+   "source": "CNBC",
+   "published_at": "2026-10-08T18:14:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-08T18:14:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG8tazVEa2hVcWdlYU1pZk53QzNMLU1lVWk4c2U0NFRvMk5IMnJYMWdTZERsSHhkYWo1dkRlczFWcGdwRHJfbFJzQ09kUEo1elE4YVRQZWp0Z3lVbU1MUjJIVV9lbFFHbUxPUlJhUER6NzgwdjVFTHM4UVhGZ3pNd3pR0gGHAUFVX3lxTE9nLWxxNlZwaWJicm9JSVBTT3lHeElLRDJ2QklRT2FkelA0eXZSNDlyRWh6dWlhNFloNzZfOUtid3dmcEJsTGNNcTE5VnhEbURXWWo0UGktcmhXNV8tS1lHYndTellPVm00RmFpeFVLTnBqNENtUUtBdHV2NVdPU0Jnb1A1NnpzSQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "8278474b58c8",
+   "title": "Nvidia-backed Iambic Therapeutics launches IPO as biotechs buck market gloom - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3dGX1ZFb0Q1WFVPT2FtUTllR2JQNFFzY3NBaWlEWHN1TjhKdTd0N3pyNHNROU9SZUNjLTlmTld0bTVzblJOQXZoVm1qZ24zWjM1Q21YUWt0ZzhhNG1nVzBtN2JBTlhKODhfQV9HdmFjbXhLMmZIT0dkS3dwNFgzeXFNWDlfYUdfOVRYRUlUaV9LN3htZmZLZ012UWw3dXBMVHk5UXdZRjZqQWdPdHdPMXd2Y2JoUlJGWlZMOURmdnd6MWhjbVJqNA",
+   "source": "marketscreener.com",
+   "published_at": "2026-10-08T18:09:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-08T18:09:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3dGX1ZFb0Q1WFVPT2FtUTllR2JQNFFzY3NBaWlEWHN1TjhKdTd0N3pyNHNROU9SZUNjLTlmTld0bTVzblJOQXZoVm1qZ24zWjM1Q21YUWt0ZzhhNG1nVzBtN2JBTlhKODhfQV9HdmFjbXhLMmZIT0dkS3dwNFgzeXFNWDlfYUdfOVRYRUlUaV9LN3htZmZLZ012UWw3dXBMVHk5UXdZRjZqQWdPdHdPMXd2Y2JoUlJGWlZMOURmdnd6MWhjbVJqNA"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "41d6c6b0ed65",
+   "title": "Nvidia Stock Drops, but a Big Options Trade Bet Suggests It Could Go Higher - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OR2d5TV9DVTYyTUREaERXMDdRV3BqMFptZUZVREFCZGFaRXhyeDUxdWdhLWpoeE5OcnV6ejQwMFl0ZDljNnR1ZWlnZmJybjJWTTI2eGZsY3ZFOEMtSURPMFhINXJSR2tvcW5aeDY0QWo5RkFkdzRDRlhyZFRzQ3M",
+   "source": "Barron's",
+   "published_at": "2026-10-08T18:08:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-08T18:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OR2d5TV9DVTYyTUREaERXMDdRV3BqMFptZUZVREFCZGFaRXhyeDUxdWdhLWpoeE5OcnV6ejQwMFl0ZDljNnR1ZWlnZmJybjJWTTI2eGZsY3ZFOEMtSURPMFhINXJSR2tvcW5aeDY0QWo5RkFkdzRDRlhyZFRzQ3M"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "ce59c439b0af",
    "title": "Is Microsoft Stock a Buy After Expanding Its Nvidia Partnership? - Zacks Investment Research",
@@ -80,26 +148,6 @@
    "zh_summary": "微软扩大与英伟达合作关系",
    "title_zh": "微软扩大与英伟达的合作后，其股票值得买入吗？",
    "sentiment": 1
-  },
-  {
-   "id": "615d950055cc",
-   "title": "Nvidia-Backed Firmus Is Set To Postpone IPO, Weigh Private Round - Bloomberg News - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMWxPcXVzSXJiVHBua2JzdG9iUDFxTFB1U0F2X2ZRbkNvQmt1UUM2Y1FSbHcxU2MzNHl0a0ZiY2tDQXkwY1hETFZIdEc1VE9ISmg2NjlBbGNuVEJJVTVjcWEwdHJ2SVZrQ2FlT0VFWHJHaXFaUEw5bFlMS1BjdHNCX2x5Ujh0RTJoLTZiQ1U1Nlp5SmdIZlQ0UXAyODU5a2w0UVhTdmVXZlVVSFBod0FyUkNjS0k4RXpsU0pGc0VWNzY5dWNHZnR0R1NWLU5NZ0QzaDY1dmZLb3dIMVZjbUZpaWN3",
-   "source": "TradingView",
-   "published_at": "2026-10-08T17:30:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-08T17:30:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMWxPcXVzSXJiVHBua2JzdG9iUDFxTFB1U0F2X2ZRbkNvQmt1UUM2Y1FSbHcxU2MzNHl0a0ZiY2tDQXkwY1hETFZIdEc1VE9ISmg2NjlBbGNuVEJJVTVjcWEwdHJ2SVZrQ2FlT0VFWHJHaXFaUEw5bFlMS1BjdHNCX2x5Ujh0RTJoLTZiQ1U1Nlp5SmdIZlQ0UXAyODU5a2w0UVhTdmVXZlVVSFBod0FyUkNjS0k4RXpsU0pGc0VWNzY5dWNHZnR0R1NWLU5NZ0QzaDY1dmZLb3dIMVZjbUZpaWN3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达参投的Firmus拟推迟IPO改私募",
-   "title_zh": "英伟达参投的Firmus拟推迟IPO，考虑私募融资",
-   "sentiment": 0
   },
   {
    "id": "556af322a327",
@@ -140,6 +188,31 @@
    "zh_summary": "英伟达5年投10亿美元助力美国超智能",
    "title_zh": "英伟达承诺5年投10亿美元助力美国“超级智能”，深度参与“创世纪计划”",
    "sentiment": 1
+  },
+  {
+   "id": "2507dbfaa2fd",
+   "title": "Nvidia-Backed Firmus Is Set to Postpone IPO, Weigh Private Round - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTTdRWmlock9MZXVkX09SREZqQW43VE9DQ2ltalZmaE5DNzdjaGdhRm1tZHVJaTlQT2F3Q1g5NTMtcENBQWU5dXI3NTk3M0J4UkNEak5FQkdEUmlHSEJQZ09FWXRvblIzWnNRQzNha3BrWklQN3dCTkdnOVBLbkZ3bTdIb1EzZmo0NlVicF9WcTJJekRZNUdtb1kxTFpraXpMVWRpZFFFdXFRZDhhS05zTjJqNks",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-08T17:17:21+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-08T17:17:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTTdRWmlock9MZXVkX09SREZqQW43VE9DQ2ltalZmaE5DNzdjaGdhRm1tZHVJaTlQT2F3Q1g5NTMtcENBQWU5dXI3NTk3M0J4UkNEak5FQkdEUmlHSEJQZ09FWXRvblIzWnNRQzNha3BrWklQN3dCTkdnOVBLbkZ3bTdIb1EzZmo0NlVicF9WcTJJekRZNUdtb1kxTFpraXpMVWRpZFFFdXFRZDhhS05zTjJqNks"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-08T17:30:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMWxPcXVzSXJiVHBua2JzdG9iUDFxTFB1U0F2X2ZRbkNvQmt1UUM2Y1FSbHcxU2MzNHl0a0ZiY2tDQXkwY1hETFZIdEc1VE9ISmg2NjlBbGNuVEJJVTVjcWEwdHJ2SVZrQ2FlT0VFWHJHaXFaUEw5bFlMS1BjdHNCX2x5Ujh0RTJoLTZiQ1U1Nlp5SmdIZlQ0UXAyODU5a2w0UVhTdmVXZlVVSFBod0FyUkNjS0k4RXpsU0pGc0VWNzY5dWNHZnR0R1NWLU5NZ0QzaDY1dmZLb3dIMVZjbUZpaWN3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "英伟达参投的Firmus拟推迟IPO改私募",
+   "title_zh": "英伟达参投的Firmus拟推迟IPO，考虑私募融资",
+   "sentiment": 0
   },
   {
    "id": "5fa59e5d4f32",
@@ -2956,7 +3029,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CNG9QdVBYU1kxdVJfWUNwNnA3ajMxTjBmTTFkdVF5a2ZNOWpBaVJZaDVfWDVPeDRoRUZfeWF5RDZZMXV6LXJoZDY2dVI1M2hhNGdIclJTSmpONDNua1JYdE1n",
    "source": "www.hstong.com",
    "published_at": "2026-10-08T07:40:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "www.hstong.com",
@@ -2967,13 +3040,22 @@
      "name": "华盛通",
      "published_at": "2026-10-08T09:25:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CNG9QdVBYU1kxdVJfWUNwNnA3ajMxTjBmTTFkdVF5a2ZNOWpBaVJZaDVfWDVPeDRoRUZfeWF5RDZZMXV6LXJoZDY2dVI1M2hhNGdIclJTSmpONDNua1JYdE1n"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-08T18:26:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wZXpWZm15WHFuSFBwU08tUk5VSHRzeXZTa1RpbmJWdlVlUF9NdmxxR2hYcFJGazZUN2h1ZEtKWG1JLTB1X3U3SFM2RHh1X0JPOHcwbXhIcnN4MzVYT3BTVTdlWmJGb3FtdHJwRUVzakduem81U1VvVV9ERmI1dw"
     }
    ],
    "category": "分析师",
    "session": "盘前",
    "zh_summary": "分析师公布2027年五大首选科技股看好英伟达生态",
    "title_zh": "知名分析师重出江湖：公布2027年五大首选科技股，看好\"英伟达生态\"！",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.55,
+    "window_h": 2.0
+   }
   },
   {
    "id": "08dd4445cb2e",
@@ -6606,86 +6688,6 @@
    "zh_summary": "三星HBM4E通过Rubin Ultra测试",
    "title_zh": "三星HBM4E通过英伟达Rubin Ultra GPU测试",
    "sentiment": 1
-  },
-  {
-   "id": "42760029e25d",
-   "title": "Validate AI Factory Changes with Digital Twins and AI Agents | NVIDIA Technical Blog - NVIDIA Developer",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONUtHdkhnQVpDR0t3VENUUXBwbWJtTTdIMjc1OGRSRUE4U09taWJuVF9UOFFkSk9jeXZJRGl4X1lBUkxIWl9vZzdZRzNjUWRmNk9FdmhmUTd1djF4X1pEMUpsZzg4T3dHaXVvTHVVaFpua2g5LTZ4cmFyZk9oRUJ6Nkd2U0tIUm5JSFBISTRYX1BKdi0zRDk5S29EWQ",
-   "source": "NVIDIA Developer",
-   "published_at": "2026-10-07T16:27:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Developer",
-     "published_at": "2026-10-07T16:27:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONUtHdkhnQVpDR0t3VENUUXBwbWJtTTdIMjc1OGRSRUE4U09taWJuVF9UOFFkSk9jeXZJRGl4X1lBUkxIWl9vZzdZRzNjUWRmNk9FdmhmUTd1djF4X1pEMUpsZzg4T3dHaXVvTHVVaFpua2g5LTZ4cmFyZk9oRUJ6Nkd2U0tIUm5JSFBISTRYX1BKdi0zRDk5S29EWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "使用数字孪生和AI智能体验证AI工厂变更",
-   "title_zh": "使用数字孪生和AI智能体验证AI工厂变更|NVIDIA开发者博客",
-   "sentiment": 1
-  },
-  {
-   "id": "9c24ae904845",
-   "title": "Scaling Decision Optimization to 100 Million Variables and Beyond with mPDLP in NVIDIA cuOpt - NVIDIA Developer",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT0haZ0VnaWhOaXljYUM0c1hiWlJ6NWJ5NU5HcEFVUUh0YmNFUV9Vb200NTRfWERuRG9Ja3YwOVBKUzV3YS03bjBrbUQ2OG41Z1h6OGhIT21YMHBleTg3RWZEVFhaaDF3TEtmSXFMeHU3cG14ZWRUT2E4QmVzYlB6SkZtTGRSZkxsN3JkNXU4MEhrN0oyLTlGcHlPWDJsTmhNN2hXMkZuSVZYQl93cXlfS29KQlN1UW1RN3FTazE4M000X3JiZEE",
-   "source": "NVIDIA Developer",
-   "published_at": "2026-10-07T16:05:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Developer",
-     "published_at": "2026-10-07T16:05:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT0haZ0VnaWhOaXljYUM0c1hiWlJ6NWJ5NU5HcEFVUUh0YmNFUV9Vb200NTRfWERuRG9Ja3YwOVBKUzV3YS03bjBrbUQ2OG41Z1h6OGhIT21YMHBleTg3RWZEVFhaaDF3TEtmSXFMeHU3cG14ZWRUT2E4QmVzYlB6SkZtTGRSZkxsN3JkNXU4MEhrN0oyLTlGcHlPWDJsTmhNN2hXMkZuSVZYQl93cXlfS29KQlN1UW1RN3FTazE4M000X3JiZEE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达cuOpt优化扩展至1亿变量",
-   "title_zh": "用mPDLP将NVIDIA cuOpt决策优化扩展到1亿变量及以上",
-   "sentiment": 0
-  },
-  {
-   "id": "af1bbbed5e4a",
-   "title": "Microsoft and Nvidia Detail PC Laptop with RTX Spark Chip Today - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmVJbnpXNmxnLXlXWnZHbldkbTJ6dVhQZk1BMGdqdUxiM3B1QUF4WE5GQTVYakxYNWFLelVYYWpuRXFNZDdiVmlfcU92dGgxeEhXMEVoYmhCaEliaTBwRUFOSFJaTk9Pb01JMkpra3dLWlV1ajI4aS1ILUpUZGVJbUJ1TWFmZGtnUl9JdGtwU3ctenpIc0ZyakhCUXA3Q1ZSNUItaGFWcmFpeUhzWHJQLXh3ZDdmSEJEYUE",
-   "source": "Barron's",
-   "published_at": "2026-10-07T16:02:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-07T16:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmVJbnpXNmxnLXlXWnZHbldkbTJ6dVhQZk1BMGdqdUxiM3B1QUF4WE5GQTVYakxYNWFLelVYYWpuRXFNZDdiVmlfcU92dGgxeEhXMEVoYmhCaEliaTBwRUFOSFJaTk9Pb01JMkpra3dLWlV1ajI4aS1ILUpUZGVJbUJ1TWFmZGtnUl9JdGtwU3ctenpIc0ZyakhCUXA3Q1ZSNUItaGFWcmFpeUhzWHJQLXh3ZDdmSEJEYUE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "微软英伟达详解RTX Spark芯片电脑",
-   "title_zh": "微软与英伟达今日详解RTX Spark芯片笔记本",
-   "sentiment": 1
-  },
-  {
-   "id": "1d7cf4666715",
-   "title": "Top Midday Stories: SpaceX Said to Seek $40 Billion in Financing for Nvidia Chips; Webull Poses National Security Threat, House Panel Reportedly Says - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2hrM2pGc2JCcjFONFBKbF9mbV9hWkxza3M4alFZWHQwQkEyRjB5aFBUenphWVhuSi1UNzFHdEhpTGg0TUpJRkVqbzJZNnl2RzJNVWl1NFFsYklrMW0xMHdxWEdwY2VVcFZaZHI1eURTcGx2bUZrc0hOSkpRT3FhcVlrb1V0dUU0M1NXTmpPaWp0aGR2Tm4yVTh1SQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-07T16:00:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T16:00:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2hrM2pGc2JCcjFONFBKbF9mbV9hWkxza3M4alFZWHQwQkEyRjB5aFBUenphWVhuSi1UNzFHdEhpTGg0TUpJRkVqbzJZNnl2RzJNVWl1NFFsYklrMW0xMHdxWEdwY2VVcFZaZHI1eURTcGx2bUZrc0hOSkpRT3FhcVlrb1V0dUU0M1NXTmpPaWp0aGR2Tm4yVTh1SQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "SpaceX拟融资400亿美元采购英伟达芯片",
-   "title_zh": "午间要闻：SpaceX拟融资400亿美元买英伟达芯片",
-   "sentiment": 2
   }
  ]
 }
