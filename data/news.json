@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T02:06:28.883114+00:00",
+ "updated_at": "2026-10-08T02:21:33.165070+00:00",
  "market": {
   "price": 237.47,
   "change_pct": -0.74,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.7,
-   "count": 228
+   "count": 229
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.70（228条已评分）"
+     "note": "今日新闻情绪 +0.70（229条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 33.7,
    "ma20": 225.58,
-   "as_of": "2026-10-08T02:06:28.874858+00:00"
+   "as_of": "2026-10-08T02:21:33.155002+00:00"
   },
   "pe_ttm": 30.2,
   "pe_pct_5y": 28,
@@ -62,17 +62,73 @@
  },
  "stories": [
   {
+   "id": "c7fa5c3ded74",
+   "title": "最高4.6万元！首批搭载英伟达RTX Spark笔记本曝光 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjgzWjNxbzM5a1BGd1I0U0xjOVo1RTFkYzRUTG1jT2Fob2RnM25wR0ZqQW5teGpGR1U3and5R1UzdERuUnJnWVFfMG9mZDJrSTVDazJaTmZiS2pqNEUtY1hjdG5OU2JpeXoyS2hQRHo0YThHY1NCeEtfeklaV2ZmMkRBRE5GbEdJ",
+   "source": "搜狐网",
+   "published_at": "2026-10-08T02:12:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-08T02:12:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjgzWjNxbzM5a1BGd1I0U0xjOVo1RTFkYzRUTG1jT2Fob2RnM25wR0ZqQW5teGpGR1U3and5R1UzdERuUnJnWVFfMG9mZDJrSTVDazJaTmZiS2pqNEUtY1hjdG5OU2JpeXoyS2hQRHo0YThHY1NCeEtfeklaV2ZmMkRBRE5GbEdJ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "c482bd69016e",
+   "title": "美国没想通：卡住了英伟达芯片，却卡不住中国的算力！ - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkI1TGRNZGthejB6SUQ1NGZZWVE4OHk1THczQ043U1o4bWVNVS1SUEJmNnltaDlIR25UbkRqYVFPMmxZN3RCcER5RHFhVzFuUnpJMEd5OHVTMHlmYWhZTU52TkxIZU9SSDZxR3VibUxlS0VZOFQzN1FOWEtTcy13S2l2b0JxSmk5bGw3Sg",
+   "source": "搜狐网",
+   "published_at": "2026-10-08T02:02:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-08T02:02:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkI1TGRNZGthejB6SUQ1NGZZWVE4OHk1THczQ043U1o4bWVNVS1SUEJmNnltaDlIR25UbkRqYVFPMmxZN3RCcER5RHFhVzFuUnpJMEd5OHVTMHlmYWhZTU52TkxIZU9SSDZxR3VibUxlS0VZOFQzN1FOWEtTcy13S2l2b0JxSmk5bGw3Sg"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "83570a5e8f5f",
+   "title": "英伟达支持的Firmus结束IPO簿记建档 遇冷募资55亿美元 - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWUWF6TTVRUWxKOUtXMzc0ei1tS1QzWHdDNFk3RHNqSUtlT1BYRXZTX0N3UnZqNkduUXVxUF84MGRkQlREM2ZwMjgxNTdWc19QSFRPeG9vYUNKVC1PZDk5TUR3",
+   "source": "观点网",
+   "published_at": "2026-10-08T02:02:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-08T02:02:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWUWF6TTVRUWxKOUtXMzc0ei1tS1QzWHdDNFk3RHNqSUtlT1BYRXZTX0N3UnZqNkduUXVxUF84MGRkQlREM2ZwMjgxNTdWc19QSFRPeG9vYUNKVC1PZDk5TUR3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "6e54959d00e0",
    "title": "黄仁勋焦虑AI需求降温，曝英伟达拟再投10亿美元加码人形机器人企业Figure - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDJCUVJKUXAxZTlsbGhETzIxeXM0TVoybl94MU1nQ2loenhyNWVuMDlnMlhjN09PaEg0ay1wZG5zSEtJME9kUWs3Ymw3RGEyVjRFMU5pZllnZFZqaEkyNTFkOWsxR0dSTFRTbW53ZTBURm9GSjJxQmROTEJtUkNtYWp1S0VtbXZP",
    "source": "搜狐网",
    "published_at": "2026-10-08T01:49:20+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐网",
      "published_at": "2026-10-08T01:49:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDJCUVJKUXAxZTlsbGhETzIxeXM0TVoybl94MU1nQ2loenhyNWVuMDlnMlhjN09PaEg0ay1wZG5zSEtJME9kUWs3Ymw3RGEyVjRFMU5pZllnZFZqaEkyNTFkOWsxR0dSTFRTbW53ZTBURm9GSjJxQmROTEJtUkNtYWp1S0VtbXZP"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-08T02:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yYk8wR096S3dwY19Yd29yR0pPcFhTam16N013cGgzeWJrZUlyYkYzT3ZKeV9QT1VnS3dYdFcwLTQ0ejJ3bWFrVDYwWmp5MmN6d29BTWZYMXlfVkRSVmVnY1NSdTFlZVlnSnpKOGVxbjJCNTdmVzkxak8wUm1Tcjg"
     }
    ],
    "category": "其他",
@@ -185,6 +241,23 @@
    "zh_summary": "华为昇腾份额反超英伟达后的产能挑战",
    "title_zh": "份额反超英伟达之后，华为昇腾的下一道坎是产能 - 搜狐网",
    "sentiment": -1
+  },
+  {
+   "id": "42c18323bb5a",
+   "title": "NVIDIA DGX Station Goes Windows: 748GB, 20 PFLOPs [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pNHpNckw5dEFySWpIM2llanFWR2dXM1NhYXg0emVfeUxySXRzLTFCSk1pRWdSMFVNT2xoMm5zazR4Um4yS0RaVl9rVTFwa0NxcGpPdUhZQ3ExQkhFQlh4RjhfTHNacTZNZ0Y1OEdSZU4",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-08T01:26:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-08T01:26:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pNHpNckw5dEFySWpIM2llanFWR2dXM1NhYXg0emVfeUxySXRzLTFCSk1pRWdSMFVNT2xoMm5zazR4Um4yS0RaVl9rVTFwa0NxcGpPdUhZQ3ExQkhFQlh4RjhfTHNacTZNZ0Y1OEdSZU4"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "faca93b6141f",
@@ -683,7 +756,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2cxa2x3TG1hZDZJSnJTS1NQZkNUMFA5R3hPdFZRY000em5EZ1RwQVZGYTRNNXJOSG1hdFVwd3pjemhETWJtcVZaYy1DRjFrSmF1WlFzQVl5RkhVa2trU2tmNDJ4Ym1pYXQ3VmFEWm8yTFltdy1UWGYyRVhEUnVRbjZYQUNXdzVL",
    "source": "搜狐网",
    "published_at": "2026-10-07T22:27:55+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
@@ -694,6 +767,11 @@
      "name": "凤凰网科技",
      "published_at": "2026-10-07T22:38:12+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53V1g3QnlKTm9lYUhvbkRybUxCQndIcUlROGhFVWczM2c5MUd3N3phTVR6U08zVjhNdmRkcXoxVDZwWGFNUXJqZkJSeVU"
+    },
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-08T02:13:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FckN3OGFiNGFsRW5JeGdPM3pTMTdoOFJUUEJ0aDBMWW1ldjMzX1hleTViWFhlMlZ1UHBJaFRSQzNDU1g2SExQUTVLNjliUm8tNDlzUXU2cjM"
     }
    ],
    "category": "产品技术",
@@ -1802,7 +1880,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91VlBDc3JaTzhaOGZjaW91dDdGaV9xQTFfYTJHbXdtQl9seGhuYnRVMjRQYmw5VVh5cGNkcjY3OFREdkpGVk14V015eXlJbHJSWWlNYjk3UFBZbVlYLUlYVUxtT1ZOOHlZWjJGQXhoc3ZFVC1vZ250anNxU0VPQUk",
    "source": "新浪财经",
    "published_at": "2026-10-07T17:56:00+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "新浪财经",
@@ -1823,6 +1901,11 @@
      "name": "凤凰网科技",
      "published_at": "2026-10-07T18:11:40+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01N2NnY0l5aUpabFZ2ZTVPNFJHdkFydWc5dVpTRGJoeThlMzRWWk01UFN4ZDZHaHFuUGNyNGMyS0x4ZGppWC1BV2lVbmw"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-07T18:19:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORE9FQjNjd0wwcG5yYzY4QnlRTVJ2YlJnY0MtSm51RDh6cGZRaXoyM3lVQ0trSEpfaTVhaFFDbTdVdnQxUDh0ckVlR0VxYmx2TkN3ai1FWGszLTF2US1KSWpYU3Y4dWcxU1pvVUpxMVoxN1dBZG9MbXF6dk5BallDelI0RXZtdnlDeTBySg"
     }
    ],
    "category": "产品技术",
@@ -1835,6 +1918,23 @@
     "pct": -0.07,
     "window_h": 0.9
    }
+  },
+  {
+   "id": "1c60d4f50ec2",
+   "title": "微软(MSFT.O)：新的英伟达(NVDA.O)Nemotron模型将可在单台笔记本电脑和PC上运行。 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHlLOV9YTm1rTWF1TnpiUHRyMTFpT1JZd1NWQXhIZUVEaVF5UmRkN19DQl90NWNaOU42NXpOYUJ5M2UwNVZVX0VnSUtZQjlJUUtaWnQzYk5raWxYbFhwTGRuS2VzLTJfV3BjZ2xiWXh4bF95MEIySzIwbEdudzlERFR3eFc0eDFWM0g3d2lmZWMyd2FTM0JHOVhuRHY5aXZEaWc",
+   "source": "富途牛牛",
+   "published_at": "2026-10-07T17:52:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-07T17:52:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHlLOV9YTm1rTWF1TnpiUHRyMTFpT1JZd1NWQXhIZUVEaVF5UmRkN19DQl90NWNaOU42NXpOYUJ5M2UwNVZVX0VnSUtZQjlJUUtaWnQzYk5raWxYbFhwTGRuS2VzLTJfV3BjZ2xiWXh4bF95MEIySzIwbEdudzlERFR3eFc0eDFWM0g3d2lmZWMyd2FTM0JHOVhuRHY5aXZEaWc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "bb8cadc6cd33",
@@ -6192,7 +6292,7 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQS1sSkpfT2NNejdqX1hCRVZpWDUzYXU4UHNsTHJ5RF9feVE3ZHg1aXJILTdTaE9uQWVvczF6XzdyVm5KNFg3YXRwNXREdWNZajJmS0hTSXhVaTlfYktxdnVWUHV5ZnUzV1NDSks3ekJickstRG95WU5xRlNKUVhLNUdnbWFmQ2o5VjRwU0VrR1kzaExmLU1aTWt3b29VRHBFUnlqUURJWkZjdHBL",
    "source": "富途牛牛",
    "published_at": "2026-10-06T22:34:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "富途牛牛",
@@ -6208,6 +6308,11 @@
      "name": "搜狐网",
      "published_at": "2026-10-07T02:13:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3gyYzhCSER2Q09lRjEzQ0xvdXQyZTdoRkFDZHBrRmVOZTBQQ3J4cm5HUmtqV1RHYVFHbHFFMmpOMlFCdmRkWHI1Y0xvNk9uNlcxMTdRUlNBdEdNRlFsRjdTTlRjZXhpeUhjSjFJc2F5TWZDaUY0QVEtYThnYk5KQWVCUW9BZzdzaUdRTw"
+    },
+    {
+     "name": "白鲸出海",
+     "published_at": "2026-10-08T02:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ESjBHV2F5NHhLQzV0UEtkcTFXUjQwN3p5SjR0djU3WklqTmRIOUFhU09xZlVWV1Z0SmctTXhlNDI4Q3BSUlAxT2Q1QlZ1cjcwRFFvSktFVnc"
     }
    ],
    "category": "产品技术",
@@ -6781,131 +6886,6 @@
    "zh_summary": "英伟达支持的Lambda拟IPO前融资40亿美元",
    "title_zh": "英伟达支持的云计算公司Lambda拟IPO前融资40亿美元",
    "sentiment": 1
-  },
-  {
-   "id": "2b3baa8dab70",
-   "title": "Stock market today: S&P 500, Nasdaq hit record highs as Nvidia, AMD lead tech higher - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVA4dXZfTlMzdGNsZDZOM19oNng1YzJqNl9wTDE2RmhKblJZOURISlRVbEVldE1MV0huXzZUUWROdlFRRl9OWllPN2VZbmNSem5YU251WlBESy05c3lpR25hdjl2NzJ5U1BVMHBSWnBfdjlxMEdRV3o4UFNDTXVXV01HU0FXSmtMOE9DWDBsVTdYNVJkUGlpS0NpR2JrSE1SZVRkMG9SMGFxZEQ4",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-06T18:38:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T18:38:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVA4dXZfTlMzdGNsZDZOM19oNng1YzJqNl9wTDE2RmhKblJZOURISlRVbEVldE1MV0huXzZUUWROdlFRRl9OWllPN2VZbmNSem5YU251WlBESy05c3lpR25hdjl2NzJ5U1BVMHBSWnBfdjlxMEdRV3o4UFNDTXVXV01HU0FXSmtMOE9DWDBsVTdYNVJkUGlpS0NpR2JrSE1SZVRkMG9SMGFxZEQ4"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "标普纳指创新高，英伟达领涨科技股",
-   "title_zh": "英伟达领涨科技股，标普纳指创历史新高",
-   "sentiment": 1
-  },
-  {
-   "id": "1ed44b3532ce",
-   "title": "What’s Next for Nvidia, Apple, and Other Trillion-Dollar Stocks? - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVBBZVpqNnZPcjJLeUFoTTljZEhhT1JSY2hQcXFaVUFQaWNJdERIc0JvRDJyS0pGcVlhaEprT3d3VWVycVM0YnlCLXExaVUtSGk4ZllnYm1BNkE3YnFCRlJDRVFvb0dVZnJPWFVpUDdOcWE1VHVKRjdncjRLeGNXR3NkV0NIS0pUMHY1SFJuU05uTHFBeUpSa3EzQUk3eXc",
-   "source": "Barron's",
-   "published_at": "2026-10-06T18:22:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-06T18:22:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVBBZVpqNnZPcjJLeUFoTTljZEhhT1JSY2hQcXFaVUFQaWNJdERIc0JvRDJyS0pGcVlhaEprT3d3VWVycVM0YnlCLXExaVUtSGk4ZllnYm1BNkE3YnFCRlJDRVFvb0dVZnJPWFVpUDdOcWE1VHVKRjdncjRLeGNXR3NkV0NIS0pUMHY1SFJuU05uTHFBeUpSa3EzQUk3eXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "巴伦周刊展望万亿美元巨头后市",
-   "title_zh": "巴伦周刊：英伟达、苹果等万亿美元巨头后市展望",
-   "sentiment": 0
-  },
-  {
-   "id": "40028acdb0ed",
-   "title": "Nvidia Record-Breaking Jump Sends Shockwaves Through Nearly 900 ETFs - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOTRTbDBfRld0TVU2Y3dGVHo5SURuTVRfS2lHM1UwTFdadW84LXo4NnJZMEE4Z3ZHamRRNmxOdW9PdmhfUHFMTWxNQjdPcWpvZGpPVTJtUnJhUWU2d1o1NFlPa1AwTFhYRDlScTIzdlFrU2JwMW1VNkxrN0VEZ3FEXzl3TG9lUFZqQkNNcmpOTGVRckc4OXJ5Z1pZQTlPMTA",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-06T18:11:59+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T18:11:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOTRTbDBfRld0TVU2Y3dGVHo5SURuTVRfS2lHM1UwTFdadW84LXo4NnJZMEE4Z3ZHamRRNmxOdW9PdmhfUHFMTWxNQjdPcWpvZGpPVTJtUnJhUWU2d1o1NFlPa1AwTFhYRDlScTIzdlFrU2JwMW1VNkxrN0VEZ3FEXzl3TG9lUFZqQkNNcmpOTGVRckc4OXJ5Z1pZQTlPMTA"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-06T18:11:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmpHeUlDalhuQUZCTzNTQ18tSWs5d09hY1FNQWJxMV9pdXJtYnlkaXNrMERHTTQ3VzFsWlhqajFsMGJwdVFTY215ZWFMc2xKRmxpTnhJSElGOUZobWo0cUM1ckVLR0VYODRDWDBUcHNDUGprZzVJaXhlbXk1NWpLQnJGUjlxUjcwQkpNZFAtNVRSRFRFOFBkdnlKRXZHRUkxcXRzRVBxRTJPZ1pwTjFpQjIxYmhHcUlSWUp5UkVCd1VTLVpJR3pF"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达大涨传导至近900只ETF",
-   "title_zh": "英伟达破纪录上涨，震动近900只ETF",
-   "sentiment": 2
-  },
-  {
-   "id": "adfd3d57159f",
-   "title": "Nvidia-backed Lambda targets $4 billion raise ahead of planned IPO, WSJ reports - The Mighty 790 KFGO",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnVkZVhMenBNVVFvSU9CeklXZTRZbWZESG5WRklxb1BMY0xROTloaHdxb1JsQU85dl9OVjN6MmRCVkFvd0Q2M0dyMkFnY3VkdjZNNUJHSGFKdC0zQjdTUlNpam9CRnhhVUppV2M3T2czZy1WU1V6aTRITWQ0cDVWM1hKRUxkUnhaSldNV0pTcWd5bG9IZ29rdUVYLUR2SW9tWldvbE5Nc1gwdw",
-   "source": "The Mighty 790 KFGO",
-   "published_at": "2026-10-06T18:04:35+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "The Mighty 790 KFGO",
-     "published_at": "2026-10-06T18:04:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnVkZVhMenBNVVFvSU9CeklXZTRZbWZESG5WRklxb1BMY0xROTloaHdxb1JsQU85dl9OVjN6MmRCVkFvd0Q2M0dyMkFnY3VkdjZNNUJHSGFKdC0zQjdTUlNpam9CRnhhVUppV2M3T2czZy1WU1V6aTRITWQ0cDVWM1hKRUxkUnhaSldNV0pTcWd5bG9IZ29rdUVYLUR2SW9tWldvbE5Nc1gwdw"
-    },
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-06T19:01:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3dfcjJxclVWTV9faDZyaUpIZ3F3cl95X2dFdzRaN0IxTWFuX0VwdWFBeEFtdjdqNVlKRHVCNVUzZF9paU9Cb0F3Y1NLR1l1UnNMVXNudDVYTEg4SVlVSHl2b1QwWjR6WV92ZV92MEUzRnozaEx4cHF6ZURxdUY2VDNlWWZSaGIxX3hsWEsxalhvZjhpSk85dWEwNWN6U0ZKeUNPdklHYnZpQjlORGpKemZOY0NfWkZFWHdvUkd3"
-    },
-    {
-     "name": "The Lufkin Daily News",
-     "published_at": "2026-10-06T19:01:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQmI4a2piVDRFXy0zQm41Nno5Wlh5bzdEYVFfTlVmTVNqeUhPc3c5QU5jcHdzX0REX1lJUFJUTjBfRy1DUGU0RDNXYnhqbDJ4QWd5SmRWUlJ1UWVQQ3RVVXRJbHV1ZXZsdjV3ak80a3FPazBDR3dUa1lPdkhTZXBXZjlQZlNYVldhbElEQjJJRW42amU0M0FUN0tJWXE3U1JacTEyb3FrS3pwdnhPTGhMb3hVd0dLM01WeVZQY1FZQndMbG9ialg2WDBpNVl5TmctSVJLbUdyN3JzR015Z1VWSnFDcjJMQldfTlB0OEQ2WjByTFJUdDN6Q0N4UngyY3ZDM2hteGZwd0c"
-    },
-    {
-     "name": "Charlotte Observer",
-     "published_at": "2026-10-06T19:07:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JV0VSYkRhZ2dUZ3MyUUswVkhscm5KOVgxaGtOaktpRTFvd3hiZ1RDQ3Z4bkhSVmFIZElCSnM5R1l0TWdMX3RBdWl4Z0Vsbzc3WFRCWXpORDJaZkR1a1hyTEREbzE4cncwcVZpY2ZidEh0aVBBZWYzdQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "breaking": true,
-   "zh_summary": "英伟达支持的Lambda拟IPO前募资40亿美元",
-   "title_zh": "WSJ：英伟达支持的Lambda计划IPO前募资40亿美元",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.37,
-    "window_h": 1.5
-   }
-  },
-  {
-   "id": "dec32d8a8306",
-   "title": "NVIDIA Releases GeForce 617.42 WHQL Game Ready Drivers - TechPowerUp",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQampha21HLWZqdVNGUXlCVXJxZnFRYTVGWjZrUGF4RnJWR0M5RTB3RlQ3WW5kZHR3enNBelNjRERaRTBmRUVlTF9YekkyRXFnYVRjY1VfLWtSd2tuc0s4TG43YVVRQkJxV0RCZE1NUm5wZ1FIRFY4Sl8wdF9uVXVOdy1yUW5wdWNVWHBDWHFWcU03ZzjSAZgBQVVfeXFMTWZ6Xy1VSzlMOTROUC0zRXE3ME1IV1RpOTU2Mmd0RUlrbGlLQmt2QTlDWndBWWtIM2VQX09NQU45Q1ZvNloyWjcxQWFPYy1iWVhNalA5QUNWN2JtSkFMMnpxb2tIeG5qUG84VTcxM0tWVkdPSUpVT0tNWVVlTi1yNERLeFpWYzFlRkt6S0FwM3RZZmRQaWszNkE",
-   "source": "TechPowerUp",
-   "published_at": "2026-10-06T18:04:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechPowerUp",
-     "published_at": "2026-10-06T18:04:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQampha21HLWZqdVNGUXlCVXJxZnFRYTVGWjZrUGF4RnJWR0M5RTB3RlQ3WW5kZHR3enNBelNjRERaRTBmRUVlTF9YekkyRXFnYVRjY1VfLWtSd2tuc0s4TG43YVVRQkJxV0RCZE1NUm5wZ1FIRFY4Sl8wdF9uVXVOdy1yUW5wdWNVWHBDWHFWcU03ZzjSAZgBQVVfeXFMTWZ6Xy1VSzlMOTROUC0zRXE3ME1IV1RpOTU2Mmd0RUlrbGlLQmt2QTlDWndBWWtIM2VQX09NQU45Q1ZvNloyWjcxQWFPYy1iWVhNalA5QUNWN2JtSkFMMnpxb2tIeG5qUG84VTcxM0tWVkdPSUpVT0tNWVVlTi1yNERLeFpWYzFlRkt6S0FwM3RZZmRQaWszNkE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达发布GeForce显卡驱动更新",
-   "title_zh": "英伟达发布 GeForce 617.42 WHQL 游戏就绪驱动",
-   "sentiment": 0
   }
  ]
 }
