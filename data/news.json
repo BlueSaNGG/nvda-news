@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08T00:21:29.243245+00:00",
+ "updated_at": "2026-10-08T00:36:33.340192+00:00",
  "market": {
   "price": 239.24,
   "change_pct": 0.14,
@@ -10,8 +10,8 @@
    "days_left": 41
   },
   "day_sentiment": {
-   "avg": 0.73,
-   "count": 210
+   "avg": 0.72,
+   "count": 217
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.73（210条已评分）"
+     "note": "今日新闻情绪 +0.72（217条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 32.7,
    "ma20": 224.89,
-   "as_of": "2026-10-08T00:21:29.227756+00:00"
+   "as_of": "2026-10-08T00:36:33.322339+00:00"
   },
   "pe_ttm": 30.4,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6512c93549a5",
+   "title": "With RTX Spark and 'Builder PCs,' Microsoft and Nvidia Usher Personal Computing Into Its Agentic Era - PCMag",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQm5OU0NZRTJxMlFyN1lRVzZwSWMzaE1qa0RGVVVhWFhwRFpZY2s0SWxpVkpBNjhXdTlrY1BEaWo5bnIxanV5RzN1UTNMVjBqakZTa0VpUmFhNEUzM1VzR0NQaGxPc2NCS3BOdkNobVdvNmNDYlFoNWtSX0RkcUNBby1vdEliZW5uUGZvdkJkNFFycU1QLWxUMkNJQXFqZkZTTTVPdkxn",
+   "source": "PCMag",
+   "published_at": "2026-10-08T00:13:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PCMag",
+     "published_at": "2026-10-08T00:13:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQm5OU0NZRTJxMlFyN1lRVzZwSWMzaE1qa0RGVVVhWFhwRFpZY2s0SWxpVkpBNjhXdTlrY1BEaWo5bnIxanV5RzN1UTNMVjBqakZTa0VpUmFhNEUzM1VzR0NQaGxPc2NCS3BOdkNobVdvNmNDYlFoNWtSX0RkcUNBby1vdEliZW5uUGZvdkJkNFFycU1QLWxUMkNJQXFqZkZTTTVPdkxn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "629416ce7338",
    "title": "科技早报 | 华为徐直军：昇腾中国市场份额已超英伟达；苹果一号电脑或拍出80万美元 - Jiemian.com",
@@ -82,17 +99,39 @@
    "sentiment": -1
   },
   {
+   "id": "c64905a480a4",
+   "title": "10月8日早餐 | 华为昇腾国内份额超英伟达；谷歌签科技史上最大核能协议 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmppaGVrZkEwSUlBWUx4WFlWVnNheGxPVTI5dFV0LTlXOXU0VXJhZXEzVW9GdzRRdWFaQ3lEZ2ViQ2xzbHlJdlpGd01aLTlMY1Nzdk91cTlKVGM4LTBVZHhBdXFCbXVfMmVzOENkQzVwWDdTVlRnZVZmbnk5dEdEcm5LLVlIbVBycXlj",
+   "source": "搜狐网",
+   "published_at": "2026-10-08T00:04:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-08T00:04:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmppaGVrZkEwSUlBWUx4WFlWVnNheGxPVTI5dFV0LTlXOXU0VXJhZXEzVW9GdzRRdWFaQ3lEZ2ViQ2xzbHlJdlpGd01aLTlMY1Nzdk91cTlKVGM4LTBVZHhBdXFCbXVfMmVzOENkQzVwWDdTVlRnZVZmbnk5dEdEcm5LLVlIbVBycXlj"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "918803fb05e3",
    "title": "Jensen Huang Said Nvidia Now Has \"a Lot Greater Visibility\" Into Demand, Letting It Forecast a Full Year Ahead for the First Time Ever. Does That Confidence Justify Nvidia's Premium Valuation? - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRURvaGJOVnZnWU9GNzBVY3llUFJxUEhqbEM1Z1dOalEtNGx1OHJkTWR0dDJEUWRzOVRRajJtR0d3RHBCbmNlSjdjSkNqb25OQTJ2aGppV1pnS2xfS3JsTHB2aWVsVFI5QjFtVjNRQVVGRVN0bk1TYjRLV3N0REVpY0xxU2p6UVREajJ6TkNMMndpRWMyUmtjUg",
    "source": "The Motley Fool",
    "published_at": "2026-10-08T00:03:04+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-08T00:03:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRURvaGJOVnZnWU9GNzBVY3llUFJxUEhqbEM1Z1dOalEtNGx1OHJkTWR0dDJEUWRzOVRRajJtR0d3RHBCbmNlSjdjSkNqb25OQTJ2aGppV1pnS2xfS3JsTHB2aWVsVFI5QjFtVjNRQVVGRVN0bk1TYjRLV3N0REVpY0xxU2p6UVREajJ6TkNMMndpRWMyUmtjUg"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T00:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeXd1RDZwOVkxdWtvT284S3Eta3h4MHBKS1hOcVRLLVQ2U1VseWVic3htMjcxeFQtLW9lTXFNaE5PWTJmU1NnUFlPb1oyZkltQjdHczRORmhMSHR0VGstd05UQ3l1dTRnenI3bmVjN3lKZFJ1N3NDb3hJR3RoSmNGcWJGb0hiN2psS3J4MHRZRFM4N3pFaWI2Zg"
     }
    ],
    "category": "其他",
@@ -127,7 +166,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDZBMmV1My1TbU1WeTNNT3VzaHhTMGMzaC1YOHd5UWtSYUdzazI4dms1UHZMZVNVRG5VZjB1UTVmc0VfSzhlUWl4NGh6UFpoNWNRRzVNYmJUYzZfdE9Vd0pCWGNtR2ZjblFVSExDZDlhRl9URFczUWMyVzJ0cHptaGJUTlZFcU5V",
    "source": "搜狐网",
    "published_at": "2026-10-07T23:49:22+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
@@ -138,6 +177,11 @@
      "name": "新浪网",
      "published_at": "2026-10-08T00:11:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mc1VXbG9RNXZXc1BKLXpOdWhrX2pqZ2U5ankzZHFaZ2lhYkI4bUEyRkRjeUxKbXRzQVNoUGNBTEhFMlBta3RycEhoOEtudVlCWldMSFc1dW9vVUkxUUFSQWJOQ3JBajRsY1NiSnl5VUljam5VdXlLTXl6elVLYTQ"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-07T23:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pX0VsWUlNVzliX244TGhneGQyZi1HVTR4QkEteUU0QVloODdVTHhFUUNzNEdhRm9CVGNJTGZnSlpDSmFqVkMyZm5FaEsyOTFGQjZtZGxHc1JLQTdyOFd0OHNiX1RNdDdPSFZQQ3RxbDlIZkVucnVqTWp2YWM"
     }
    ],
    "category": "其他",
@@ -6823,46 +6867,6 @@
    "zh_summary": "Inception创业公司改善乳腺癌护理",
    "title_zh": "NVIDIA Inception初创企业助力改善乳腺癌护理",
    "sentiment": 0
-  },
-  {
-   "id": "cd164977a932",
-   "title": "深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMS11aUFFdHRqTkFSOHhRS2t1Qi13ZWR0V0Vra25HNlpTc0NBeXI1cTJIcXl3aW1fUFhvNTlHLWJDSlpONXlpX051V21sMnRPakdpWXBaTXk4ZWxKa2F1X3g4MGdndVVXcHh5NXB2NkJNUUdQcUNCOC1Ed2ZBUUxsWE9yQQ",
-   "source": "新浪网",
-   "published_at": "2026-10-06T16:42:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-06T16:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMS11aUFFdHRqTkFSOHhRS2t1Qi13ZWR0V0Vra25HNlpTc0NBeXI1cTJIcXl3aW1fUFhvNTlHLWJDSlpONXlpX051V21sMnRPakdpWXBaTXk4ZWxKa2F1X3g4MGdndVVXcHh5NXB2NkJNUUdQcUNCOC1Ed2ZBUUxsWE9yQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达创新高，科技股大涨",
-   "title_zh": "深夜纳指、英伟达创新高，美股科技股大涨，SpaceX涨超7%，马斯克身家重回1万亿美元，国际油价跌破90美元 - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "ef6fa56a0806",
-   "title": "Prediction: $500 a Month Invested in Nvidia Stock Will Be Worth This Much by Year-end 2030 - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVJJTGt3Y0FvUllINEplUzkxYzRzbmtkN2Q1ak1uUzhqRXZIRzZacWU1VWZ5bkhKTjRTYjJrcVpXenRXckJIcTRQZjN3RkthZ3MybVBzb0NSMmhWbHBVR0hmWHN1TTZsSTNuWXlkM2s0ZGRSVkd3enBjR3RIWEwtam1feHpDd3NSZUxNVHhBRTY0TGJ3TkEwakJseHRVMndvenZr",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-06T16:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-06T16:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVJJTGt3Y0FvUllINEplUzkxYzRzbmtkN2Q1ak1uUzhqRXZIRzZacWU1VWZ5bkhKTjRTYjJrcVpXenRXckJIcTRQZjN3RkthZ3MybVBzb0NSMmhWbHBVR0hmWHN1TTZsSTNuWXlkM2s0ZGRSVkd3enBjR3RIWEwtam1feHpDd3NSZUxNVHhBRTY0TGJ3TkEwakJseHRVMndvenZr"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "每月投500美元2030年值多少",
-   "title_zh": "预测：每月投500美元买英伟达，到2030年底值多少",
-   "sentiment": 1
   }
  ]
 }
