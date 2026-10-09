@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T19:21:30.396431+00:00",
+ "updated_at": "2026-10-09T19:36:48.109362+00:00",
  "market": {
-  "price": 229.92,
-  "change_pct": -0.24,
+  "price": 229.76,
+  "change_pct": -0.31,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 39
   },
   "day_sentiment": {
-   "avg": 0.3,
-   "count": 128
+   "avg": 0.31,
+   "count": 127
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +37.0%"
+     "note": "目标价中位数 $315（15家），隐含空间 +37.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（128条已评分）"
+     "note": "今日新闻情绪 +0.31（127条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $229.92 vs 20日均线 $226.77"
+     "note": "现价 $229.76 vs 20日均线 $226.76"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 87,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 37.0,
-   "ma20": 226.77,
-   "as_of": "2026-10-09T19:21:30.379384+00:00"
+   "implied_upside_pct": 37.1,
+   "ma20": 226.76,
+   "as_of": "2026-10-09T19:36:48.095570+00:00"
   },
   "pe_ttm": 29.2,
   "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.0%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -465,6 +465,23 @@
    "zh_summary": "三星12层HBM4E通过英伟达验证",
    "title_zh": "三星12层HBM4E通过英伟达验证，量产时间仍待定 - 搜狐网",
    "sentiment": 1
+  },
+  {
+   "id": "a747645c8853",
+   "title": "NVIDIA Throws RTX Spark Launch Party in Berlin on October 16. You Can Be There, it's Public - TechPowerUp",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmxMOTVUeUFZaC1wdHVYUTVicE5DQnlNb0VGTlV4M1BqRHBxYzdINllJOHZ2c1FaaTRKVmNZcEItYWJYLWZvUE5aUWVRZGRfWWE0VmlGTmZhSWY3QTFMU3BHOVh5NV8tWnYzb0c5dXNGazBSMjNPb1RfNDBOU01MbGdDMzRPNS1tdkNWMzBmd2tTajB5TkRFd1lUNmx5amIwOVQyRGVZYTIwbk93Z3BfV2VsWmg3TVg4elhITWJSMGbSAcYBQVVfeXFMT2dGSVk1czNNZjU5QUlpV3hjMGxrU19GS05kQkk3Mml3TVhJSWlBcjY0bnBZS3BhQWdZeXRrQ3ZId1VBMldTbm93anpBZUUyOEV1dWZVZHN4RVBkWWJtZHZlQVdJMUhRc1g1MWZMcDNrdEhybERJcWZXeDhwN3lCUXl3SEtGeFFFSjZOcnY2cThwUi1aTEJ5WVFBZ2xpOXpoMFBNY3plb09TcElfRS1hRFJNRkhxTjNmZEw1OEVFOUNRUmxVQ3NB",
+   "source": "TechPowerUp",
+   "published_at": "2026-10-09T15:31:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-10-09T15:31:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONmxMOTVUeUFZaC1wdHVYUTVicE5DQnlNb0VGTlV4M1BqRHBxYzdINllJOHZ2c1FaaTRKVmNZcEItYWJYLWZvUE5aUWVRZGRfWWE0VmlGTmZhSWY3QTFMU3BHOVh5NV8tWnYzb0c5dXNGazBSMjNPb1RfNDBOU01MbGdDMzRPNS1tdkNWMzBmd2tTajB5TkRFd1lUNmx5amIwOVQyRGVZYTIwbk93Z3BfV2VsWmg3TVg4elhITWJSMGbSAcYBQVVfeXFMT2dGSVk1czNNZjU5QUlpV3hjMGxrU19GS05kQkk3Mml3TVhJSWlBcjY0bnBZS3BhQWdZeXRrQ3ZId1VBMldTbm93anpBZUUyOEV1dWZVZHN4RVBkWWJtZHZlQVdJMUhRc1g1MWZMcDNrdEhybERJcWZXeDhwN3lCUXl3SEtGeFFFSjZOcnY2cThwUi1aTEJ5WVFBZ2xpOXpoMFBNY3plb09TcElfRS1hRFJNRkhxTjNmZEw1OEVFOUNRUmxVQ3NB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "eb1d4edb0dbb",
@@ -2299,26 +2316,6 @@
    "sentiment": -1
   },
   {
-   "id": "656b8ee9c3fe",
-   "title": "NVIDIA Corporation $NVDA Stock Sold by Polymer Capital Management HK LTD - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDhVa2pES204UlRJM2d4NGF1SHpyQzNpRDViTUNERVdxcWdfVUFrVWlFUElSWXJxOC1xU0VXSkhGdlZ6c1RRQ0hHQ2t3VFFUVXA1OUM1VDJFdnpjSHlyWmlqMlZua0lFVkYzb21XMGh4OXh3cmRyNEs4SFAwOWMtMGE4N3ppT1ZsWjNCSWFwVTI5cWZOV3NpR1dhcDl0a1FnZHc0Tl9YQW9tRTgwYzJfaGI5SDlUMnhlRGFHV0lOX3BYUzdoTE9mWFd0dTI",
-   "source": "MarketBeat",
-   "published_at": "2026-10-09T07:37:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-09T07:37:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDhVa2pES204UlRJM2d4NGF1SHpyQzNpRDViTUNERVdxcWdfVUFrVWlFUElSWXJxOC1xU0VXSkhGdlZ6c1RRQ0hHQ2t3VFFUVXA1OUM1VDJFdnpjSHlyWmlqMlZua0lFVkYzb21XMGh4OXh3cmRyNEs4SFAwOWMtMGE4N3ppT1ZsWjNCSWFwVTI5cWZOV3NpR1dhcDl0a1FnZHc0Tl9YQW9tRTgwYzJfaGI5SDlUMnhlRGFHV0lOX3BYUzdoTE9mWFd0dTI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Polymer资本管理香港抛售NVDA股票",
-   "title_zh": "Polymer Capital Management香港出售英伟达股票",
-   "sentiment": -1
-  },
-  {
    "id": "edab735d58c5",
    "title": "NVIDIA Corporation $NVDA Shares Newly Acquired by Mission Financial Group LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONVo3RjNJT0V2NmpZVmo0X2ZQaG8tdjVWWFBoT1BjYUpPb0lMWkVYUUpKdXE2UGp6LWY2V1pCNmxhOGFyazZ6MDVZZ0tZU1BSY0xJblh2U0JYd3FJSDVVRnlGZlhxRWg2d2xiV0dpbG81OU1peGVpSnlMY0hBZUtoTmo3VEVpdmEzSDFNdWg4NGhJNE1CRE9zNGZ2OElsZjNkUXVKaDZ5UFB2ZnRxRWVtbVRtNXktclVtYU92TmFjdGZxQUplMGFxVDMwejRDNkN6TF84",
@@ -2337,6 +2334,23 @@
    "zh_summary": "Mission金融新建仓英伟达",
    "title_zh": "Mission金融新建仓英伟达$NVDA股票",
    "sentiment": 1
+  },
+  {
+   "id": "9608d0103676",
+   "title": "NVIDIA Corporation $NVDA Stock Holdings Raised by Saranac Partners Ltd - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVEVEa2JLemtmUE9xZFBJOXJuS3JydUNLeno3QXY0clJYUmVWZFYwNmhVM0Q4UzN5MlhndmpXdnJYTWxGNFk1c1NKa29MTVhzZUVhakxrS3BBenFsWHlmZnF5dWs3N2FyeHM4VmFtUHExYTlkeXVXUWRtaGNtOHRqYVJmZTdUQUVpOW5pOGZxbW51SUZBUmVua01BeWsxZmJZMTJ3YmV4UkhKNXVVWFQ3NHBNZ1lxQlhnWGZjbWFhNGktMjk4V1Y3bnFB",
+   "source": "MarketBeat",
+   "published_at": "2026-10-09T07:37:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-09T07:37:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVEVEa2JLemtmUE9xZFBJOXJuS3JydUNLeno3QXY0clJYUmVWZFYwNmhVM0Q4UzN5MlhndmpXdnJYTWxGNFk1c1NKa29MTVhzZUVhakxrS3BBenFsWHlmZnF5dWs3N2FyeHM4VmFtUHExYTlkeXVXUWRtaGNtOHRqYVJmZTdUQUVpOW5pOGZxbW51SUZBUmVua01BeWsxZmJZMTJ3YmV4UkhKNXVVWFQ3NHBNZ1lxQlhnWGZjbWFhNGktMjk4V1Y3bnFB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "018efc34658e",
@@ -2437,26 +2451,6 @@
    "zh_summary": "Forefront Analytics买入NVDA",
    "title_zh": "Forefront Analytics LLC买入5291股英伟达$NVDA",
    "sentiment": 1
-  },
-  {
-   "id": "fbc52b4f1964",
-   "title": "NVIDIA Corporation $NVDA Stock Holdings Cut by OMERS ADMINISTRATION Corp - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLVdRMEZCRUY4YlIyMlBwUW5fR3RZa3d3YUplRkZCSGc4NXcta09MOG9SWnFTMDlua2J6X1c0RkpkR3BldEpDZmIzSEZrUnBKUDlnSE1MaEhyNFJPcV94TWQyVDZ6QlhNTHFFWktnVFpDNnAyd2VDZlJ2Yjk4dXhLZ0U3NHZYWmxvS2x2X080ckh2cEw0bl90c2RKcWZ5MmFLZGVfTWI2bEs2Vk9DUE5TNW14WEpTQ2w4RXZkM3pnek9iMFp6X21uaG1mdi0",
-   "source": "MarketBeat",
-   "published_at": "2026-10-09T07:37:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-09T07:37:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLVdRMEZCRUY4YlIyMlBwUW5fR3RZa3d3YUplRkZCSGc4NXcta09MOG9SWnFTMDlua2J6X1c0RkpkR3BldEpDZmIzSEZrUnBKUDlnSE1MaEhyNFJPcV94TWQyVDZ6QlhNTHFFWktnVFpDNnAyd2VDZlJ2Yjk4dXhLZ0U3NHZYWmxvS2x2X080ckh2cEw0bl90c2RKcWZ5MmFLZGVfTWI2bEs2Vk9DUE5TNW14WEpTQ2w4RXZkM3pnek9iMFp6X21uaG1mdi0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "OMERS削减英伟达持股",
-   "title_zh": "OMERS减持英伟达股票",
-   "sentiment": -1
   },
   {
    "id": "c6b064c7c438",
@@ -5566,7 +5560,7 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLcXN3Vk5pQ2JRa1VuNmRMY0w5OFozbWhlQ0ppS0ZIM3dsOTFUNHNGdDZkajR5dXFFbm10dUQ3NGp1M2RQRnZPS0o3WW9uX0VfbXB3YnVtaElLOFJIMU9IQ1VRek53QQ",
    "source": "东方财富",
    "published_at": "2026-10-08T17:23:20+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "东方财富",
@@ -5592,6 +5586,11 @@
      "name": "新浪财经",
      "published_at": "2026-10-09T08:33:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KT3prQi02VFhFV3cwSk1xY3lmdU1XWmhiRVpJQmVWdDlRX09BM2lhMFZnSUtnUGRzc3ZqTnhsemNSdThuajRpb2tqZmNSalAtZlNxNHAwdmM2Q2JyWW1LLTJ4Y0hsbHhNOTBxVlBHdDZGR3NhSmxJYQ"
+    },
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-09T14:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fOFFoSXhmcTJUWUJFZ1ZSMV8xclJNYzdPRXczWk5PZjZQVzIza3ZuY2R6OGc1LVFCYnpjdV9GOFkxZjdhMFVYazJwU1lVMTVkLUFCZkk1TnA"
     }
    ],
    "category": "其他",
