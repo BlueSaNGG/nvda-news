@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T12:06:32.535544+00:00",
+ "updated_at": "2026-10-09T12:21:35.796502+00:00",
  "market": {
   "price": 230.48,
   "change_pct": -2.94,
@@ -10,8 +10,8 @@
    "days_left": 39
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 73
+   "avg": 0.43,
+   "count": 76
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（73条已评分）"
+     "note": "今日新闻情绪 +0.43（76条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.8,
    "ma20": 226.18,
-   "as_of": "2026-10-09T12:06:32.516798+00:00"
+   "as_of": "2026-10-09T12:21:35.776099+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "44a4f4a1b7ce",
+   "title": "Nvidia-backed Upscale unveils fabric that lets engineers break vendor lock-in and mix rival XPUs - SDxCentral",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLXpJVlF1QnNzUHdzbDhLYnJRZTBfekpocmZjSkw1WkFsbWRoenVFM0R5WmdmQ3ptY2Y2eGhTbWN6MGs5NlNwS2w5VWlSME1TMkVmMDNuNVJlOHJjRlNUM2h5NVlsamlrdzNxNk81eGt4UV92UVVmUHVodXlEWGdvLWZWbUlNVVBmSnFjdVFxNmxOZXJCR3pfcnRkOUd0MHF0Mnl4aER2RC1EZ25CNFdNTm9HR2o1VHpYNktheXI0Ry0wSHBrTnItdQ",
+   "source": "SDxCentral",
+   "published_at": "2026-10-09T12:18:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "SDxCentral",
+     "published_at": "2026-10-09T12:18:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLXpJVlF1QnNzUHdzbDhLYnJRZTBfekpocmZjSkw1WkFsbWRoenVFM0R5WmdmQ3ptY2Y2eGhTbWN6MGs5NlNwS2w5VWlSME1TMkVmMDNuNVJlOHJjRlNUM2h5NVlsamlrdzNxNk81eGt4UV92UVVmUHVodXlEWGdvLWZWbUlNVVBmSnFjdVFxNmxOZXJCR3pfcnRkOUd0MHF0Mnl4aER2RC1EZ25CNFdNTm9HR2o1VHpYNktheXI0Ry0wSHBrTnItdQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "f0218e63a3fd",
+   "title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Tesla, Boeing, Apple, American Express & more - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVDYzV1h2R2R1TXdkTWFBNDREVDRNY0hvWFdBaDNsSTg1Y2UwZUdacjNYYXNhNjcyUXFFeG53VmlYWThaQkFZa1YxcnhLZnFLc0tDM0NvdlRiLW9kVnZqb0xsSHlORGV6NGJ2TloweDFsQXBuWFJJUmhrY3hUODZMWWg0dEE5Q0VXblM4bA",
+   "source": "CNBC",
+   "published_at": "2026-10-09T12:11:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-09T12:11:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVDYzV1h2R2R1TXdkTWFBNDREVDRNY0hvWFdBaDNsSTg1Y2UwZUdacjNYYXNhNjcyUXFFeG53VmlYWThaQkFZa1YxcnhLZnFLc0tDM0NvdlRiLW9kVnZqb0xsSHlORGV6NGJ2TloweDFsQXBuWFJJUmhrY3hUODZMWWg0dEE5Q0VXblM4bA"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
+  },
   {
    "id": "5c7c352d4f50",
    "title": "Report: Nvidia plans to invest in inference chip startup d-Matrix - Data Center Dynamics",
@@ -127,12 +161,17 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWko3RFp3TVJaOUUwNU1hZ0d0bTFFU1FCV3UtU2s1SGczclRkSUVENC1LdmZFT1AtODdfWm5xdTBEWW5UM21vQThkZkRzMU5FWFBCT1N2RFF6dC00ZEhzUjY1NXVtOXlzeVY1a0ozOVZoUFBuYWJQWG9POWh0WTFvRndDR0ZpV3FCVk9YVURiZFNQSDBpYnBsZG1iWk1zd2lEVUJic0pWMm1LanY2bG9QTlVlME9TS1ZDV1RTc3pfekFHT0xZREx2SUhlNNIB0AFBVV95cUxOdzc0WkdPMHRGVENHSjRUY2h4amxHd1V6SVIxZVJIZjd0TC1JdW5ydEZkVHZGdl9zVzNEeERhU3doOWlpVXJwRWdNLXNEc1FVbnBHcW5GaVFpN0dKZkMxbkx6V2drZlpTaVhFbzVLUjlUQkludVJ5UjZOcnpRdnlTbm9sQXpyVGt6U2Z0dU1nUDB5b01oTDQxbVFuWVV3SmdHbDJFRjFNSm4tOTNSZ1pzM2RaaEtfSHM2SnF1UW5MbmVEb0FmdGlka3hiTTRRb2xi",
    "source": "Simply Wall Street",
    "published_at": "2026-10-09T11:21:37+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Simply Wall Street",
      "published_at": "2026-10-09T11:21:37+00:00",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWko3RFp3TVJaOUUwNU1hZ0d0bTFFU1FCV3UtU2s1SGczclRkSUVENC1LdmZFT1AtODdfWm5xdTBEWW5UM21vQThkZkRzMU5FWFBCT1N2RFF6dC00ZEhzUjY1NXVtOXlzeVY1a0ozOVZoUFBuYWJQWG9POWh0WTFvRndDR0ZpV3FCVk9YVURiZFNQSDBpYnBsZG1iWk1zd2lEVUJic0pWMm1LanY2bG9QTlVlME9TS1ZDV1RTc3pfekFHT0xZREx2SUhlNNIB0AFBVV95cUxOdzc0WkdPMHRGVENHSjRUY2h4amxHd1V6SVIxZVJIZjd0TC1JdW5ydEZkVHZGdl9zVzNEeERhU3doOWlpVXJwRWdNLXNEc1FVbnBHcW5GaVFpN0dKZkMxbkx6V2drZlpTaVhFbzVLUjlUQkludVJ5UjZOcnpRdnlTbm9sQXpyVGt6U2Z0dU1nUDB5b01oTDQxbVFuWVV3SmdHbDJFRjFNSm4tOTNSZ1pzM2RaaEtfSHM2SnF1UW5MbmVEb0FmdGlka3hiTTRRb2xi"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T11:37:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWlZbHBaakEwclBEWnlLVTFNQ0htZ2dtZF82ZnBIdlI4bm12TmM1NUhoMkVUR2lzTDBpVnRKVzlZSkJ0MEN5WkxLeGN3cUFkTHo4R1I3OTU3MHBDbWc1dGZ2LUR0X0FUdnpXbko0bERUYjdvQTRvaElBRGFIZ3VCbU42SzRPVV9lQ25kT3Fzd1Zldm8"
     }
    ],
    "category": "产品技术",
@@ -6684,46 +6723,6 @@
    "zh_summary": "英伟达支持的Upscale AI发布平台",
    "title_zh": "英伟达支持的Upscale AI发布平台，连接竞争对手芯片",
    "sentiment": 0
-  },
-  {
-   "id": "8238b17b436e",
-   "title": "Dell, NVIDIA and Microsoft Bring Local Agentic AI to Windows With New Creator PCs and Workstations - AndroidGuys",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUg5WER4eGpLcUdENWhlX1dobUpEMU0zYVNxY18wamNEV1lFTkVFdUJWdUd0aDFadEcxQzZGRl9zTDBIclk0X1p3SmcwOTkyLVB2bzNIWVpvbTNpcUlNcHg5cmQ3TGNJZVBDRENsUnVqUUJhRURZUjVjZ0hsaEp5UGlQYUdRS2h2b0ZMUDhpeE5VOUp6QnB6TnlR",
-   "source": "AndroidGuys",
-   "published_at": "2026-10-08T12:00:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "AndroidGuys",
-     "published_at": "2026-10-08T12:00:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUg5WER4eGpLcUdENWhlX1dobUpEMU0zYVNxY18wamNEV1lFTkVFdUJWdUd0aDFadEcxQzZGRl9zTDBIclk0X1p3SmcwOTkyLVB2bzNIWVpvbTNpcUlNcHg5cmQ3TGNJZVBDRENsUnVqUUJhRURZUjVjZ0hsaEp5UGlQYUdRS2h2b0ZMUDhpeE5VOUp6QnB6TnlR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "戴尔英伟达微软合作推Windows本地AI PC",
-   "title_zh": "戴尔英伟达微软携手推出Windows本地智能体AI PC与工作站",
-   "sentiment": 1
-  },
-  {
-   "id": "50ad6aba6f1f",
-   "title": "Marvell's 0B Custom AI Chip Bet vs Nvidia [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SbldvOHhfR243ZXBhOGtRMkY5LWVlbW9VWVpsSksyMmFhT0xxYkk4TjhtVU8zZG5KbENSUmtIdldETHF1ZWV5UlRHY2FEQkhhMVhKVG1TRjFnTExKU1NOOTBDeE5HTk1SUmdFUGdLbnU3ZElySXR5bVp3",
-   "source": "shattered.io",
-   "published_at": "2026-10-08T11:50:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-08T11:50:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SbldvOHhfR243ZXBhOGtRMkY5LWVlbW9VWVpsSksyMmFhT0xxYkk4TjhtVU8zZG5KbENSUmtIdldETHF1ZWV5UlRHY2FEQkhhMVhKVG1TRjFnTExKU1NOOTBDeE5HTk1SUmdFUGdLbnU3ZElySXR5bVp3"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "Marvell押注定制AI芯片挑战英伟达",
-   "title_zh": "Marvell押注定制AI芯片，对标英伟达[2026]",
-   "sentiment": -1
   }
  ]
 }
