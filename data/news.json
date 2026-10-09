@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T13:36:33.720516+00:00",
+ "updated_at": "2026-10-09T13:51:36.148617+00:00",
  "market": {
-  "price": 231.17,
-  "change_pct": 0.3,
+  "price": 231.21,
+  "change_pct": 0.32,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.39,
-   "count": 84
+   "count": 90
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（84条已评分）"
+     "note": "今日新闻情绪 +0.39（90条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $231.17 vs 20日均线 $226.83"
+     "note": "现价 $231.21 vs 20日均线 $226.83"
     },
     {
      "key": "分析师动向",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.3,
    "ma20": 226.83,
-   "as_of": "2026-10-09T13:36:33.710157+00:00"
+   "as_of": "2026-10-09T13:51:36.129932+00:00"
   },
   "pe_ttm": 29.4,
   "pe_pct_5y": 27,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "371597fa02c8",
+   "title": "Nvidia director sold $947M in stock last quarte... - Pluang",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQakVocy02Yml0WUxHbjdDRENldkpSUkFHSmNPYi13M09DcnI5d2pLNWtzSDh1QWRHdnR6ZzZENVhPMTFpRTRqREtXZFpKY2hrTnE4WGpHLXZLenBsenpZN3NndGVkcHQxcjZMam1feDZqM2JYV0JSczBpRHZjNnlaWUlJenNBYzlMdFNXbnJza2I1ZEE3U1pn",
+   "source": "Pluang",
+   "published_at": "2026-10-09T13:37:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Pluang",
+     "published_at": "2026-10-09T13:37:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQakVocy02Yml0WUxHbjdDRENldkpSUkFHSmNPYi13M09DcnI5d2pLNWtzSDh1QWRHdnR6ZzZENVhPMTFpRTRqREtXZFpKY2hrTnE4WGpHLXZLenBsenpZN3NndGVkcHQxcjZMam1feDZqM2JYV0JSczBpRHZjNnlaWUlJenNBYzlMdFNXbnJza2I1ZEE3U1pn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "955e1d85cca8",
+   "title": "Nvidia and Micron are about to lord their successes all over Wall Street - TheStreet",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmlzVm5iREgzRG0tc19lcHZCQkZWcV9fOFc2ekZGZWVZUnR4ZDVsbEV3dXFCNzAzU1FyZnpiU1RWcUtpQ3ZLQnhGZGRXYXNNa1RUX0owSG9yektaQmFoRzA0bWk2NzRqVVQzNHNGMzNzV1QyUUx6bDVIdjJzQ1RfaHlVYjhoQ3BwNFpyVEwycGtBX0xHd3dRMGtwNVRrT0RwazFnYTVHU3phWkNlbmNLV1JibjltQQ",
+   "source": "TheStreet",
+   "published_at": "2026-10-09T13:37:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TheStreet",
+     "published_at": "2026-10-09T13:37:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmlzVm5iREgzRG0tc19lcHZCQkZWcV9fOFc2ekZGZWVZUnR4ZDVsbEV3dXFCNzAzU1FyZnpiU1RWcUtpQ3ZLQnhGZGRXYXNNa1RUX0owSG9yektaQmFoRzA0bWk2NzRqVVQzNHNGMzNzV1QyUUx6bDVIdjJzQ1RfaHlVYjhoQ3BwNFpyVEwycGtBX0xHd3dRMGtwNVRrT0RwazFnYTVHU3phWkNlbmNLV1JibjltQQ"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘中"
+  },
+  {
+   "id": "7c2f172918f7",
+   "title": "Nvidia and Micron stocks bounce on OpenAI $70B revenue target - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OZkZJMktSbEpPT1h5UG5Gb282YlRTaTFIZ04zNmpIQzZhVVF0R1dpWXUyRzRWVHRFYUFwRmlxRGpmMjJBak1OajFyb0xZcnhFNU1wS3BQbXNGOXVpanBKOVJaVngzd3JGRDhGMTBUUnlsNkFvV3UwS0x2T21hUQ",
+   "source": "Quartz",
+   "published_at": "2026-10-09T13:34:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-09T13:34:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OZkZJMktSbEpPT1h5UG5Gb282YlRTaTFIZ04zNmpIQzZhVVF0R1dpWXUyRzRWVHRFYUFwRmlxRGpmMjJBak1OajFyb0xZcnhFNU1wS3BQbXNGOXVpanBKOVJaVngzd3JGRDhGMTBUUnlsNkFvV3UwS0x2T21hUQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "a09ba96692d2",
    "title": "Is the Options Market Predicting a Spike in NVIDIA Stock? - Zacks Investment Research",
@@ -77,8 +128,8 @@
    ],
    "category": "市场宏观",
    "session": "盘中",
-   "title_zh": "期权市场是否预示英伟达股价将飙升",
    "zh_summary": "期权市场押注NVDA股价大波动",
+   "title_zh": "期权市场是否预示英伟达股价将飙升",
    "sentiment": 0
   },
   {
@@ -97,9 +148,26 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "预测：英伟达或将率先成为10万亿美元公司",
    "zh_summary": "预测NVDA成首家10万亿美元公司",
+   "title_zh": "预测：英伟达或将率先成为10万亿美元公司",
    "sentiment": 1
+  },
+  {
+   "id": "a2f599489e9b",
+   "title": "Nvidia (NVDA) More Than Doubled Revenue, Yet Its Multiple Sits Below History. Bargain or Warning? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSllnZUxfMEdNUVB4TlJJaW9NVmhOT2NjN0F2bVdiRkxRS2QyQ1pSS0p3eWN1dFNqX09aRnUzZ0EzdzBCR053SEJqWDlLUmhwY0ZlaXgtdHp4aDA3ZnVrNGN4aUpxczlsQlR3Ym81ODhqcktLMzZXRzZIOEpoMEhFaTlMWDlyVTREeHd3WWZRVVZlNU5XUkR1ajdMaDczQQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-09T13:25:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T13:25:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSllnZUxfMEdNUVB4TlJJaW9NVmhOT2NjN0F2bVdiRkxRS2QyQ1pSS0p3eWN1dFNqX09aRnUzZ0EzdzBCR053SEJqWDlLUmhwY0ZlaXgtdHp4aDA3ZnVrNGN4aUpxczlsQlR3Ym81ODhqcktLMzZXRzZIOEpoMEhFaTlMWDlyVTREeHd3WWZRVVZlNU5XUkR1ajdMaDczQQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
   },
   {
    "id": "40b9ae3d6c71",
@@ -117,8 +185,8 @@
    ],
    "category": "AI需求",
    "session": "盘前",
-   "title_zh": "英伟达和美光反弹，OpenAI关键事项明朗",
    "zh_summary": "OpenAI事项明朗NVDA反弹",
+   "title_zh": "英伟达和美光反弹，OpenAI关键事项明朗",
    "sentiment": 1
   },
   {
@@ -137,9 +205,26 @@
    ],
    "category": "产品技术",
    "session": "盘前",
-   "title_zh": "英伟达安全漏洞或致GPU监控服务崩溃",
    "zh_summary": "NVDA安全漏洞可致监控崩溃",
+   "title_zh": "英伟达安全漏洞或致GPU监控服务崩溃",
    "sentiment": -1
+  },
+  {
+   "id": "f27349227532",
+   "title": "NVIDIA's $1 Billion Plan Aims To Supercharge America's AI Science Race - HotHardware",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1N5eVhycEhmdWxMcW5VUlhlN0dLd0RRNm5QZ3llcmlDMXJWbVZfY0pnVDV4RGRKNVlMcnhpRXgtcThYWF95LW9xVmdKQXJlaVlqWmJPWDl0c19Ib0tldFUtUUh5bmFZTVZRU0loamlSMTk5QnQyZW1nWXhrZVdwS09uUWdzcFgzSnBVSFpYVQ",
+   "source": "HotHardware",
+   "published_at": "2026-10-09T13:12:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "HotHardware",
+     "published_at": "2026-10-09T13:12:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1N5eVhycEhmdWxMcW5VUlhlN0dLd0RRNm5QZ3llcmlDMXJWbVZfY0pnVDV4RGRKNVlMcnhpRXgtcThYWF95LW9xVmdKQXJlaVlqWmJPWDl0c19Ib0tldFUtUUh5bmFZTVZRU0loamlSMTk5QnQyZW1nWXhrZVdwS09uUWdzcFgzSnBVSFpYVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "d7d88097cf6c",
@@ -929,8 +1014,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "宏观策略下NVDA趋势技术面解读",
    "zh_summary": "技术面看NVDA宏观策略趋势",
+   "title_zh": "宏观策略下NVDA趋势技术面解读",
    "sentiment": 0
   },
   {
@@ -1094,8 +1179,8 @@
    ],
    "category": "市场宏观",
    "session": "盘前",
-   "title_zh": "纳指期货盘前为何走高？NVDA等领涨",
    "zh_summary": "纳指期货盘前走高NVDA领涨",
+   "title_zh": "纳指期货盘前为何走高？NVDA等领涨",
    "sentiment": 1
   },
   {
@@ -1895,6 +1980,23 @@
    "zh_summary": "特朗普向黄仁勋颁国家科学奖章",
    "title_zh": "特朗普颁国家科学奖章予黄仁勋，赞英伟达奠基超级智能 - 新浪网",
    "sentiment": 1
+  },
+  {
+   "id": "7852b2e524b9",
+   "title": "NVIDIA’s Quantum Pledge—a Billion Dollars For US Science Over Five Years - Quantum Zeitgeist",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hRjRvVjhWRFd1RVJpcEFrVmpwOEtkdnRhOUlTM2ZrNEFGelpRZGhRNUxJaHAwRmJTektHYlNvUTdEUm5ySHBxRUowQWtmUWd0X3gweTNkaldrQTVHa2hSTDNCQzU1RUJQYzk2eU8zdVMzQm5uc1RKQQ",
+   "source": "Quantum Zeitgeist",
+   "published_at": "2026-10-09T05:55:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quantum Zeitgeist",
+     "published_at": "2026-10-09T05:55:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hRjRvVjhWRFd1RVJpcEFrVmpwOEtkdnRhOUlTM2ZrNEFGelpRZGhRNUxJaHAwRmJTektHYlNvUTdEUm5ySHBxRUowQWtmUWd0X3gweTNkaldrQTVHa2hSTDNCQzU1RUJQYzk2eU8zdVMzQm5uc1RKQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "d829c6c4c961",
@@ -4828,7 +4930,7 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY1VFWjlLYVZTU1lPMHdtMm4wOWRZVllXbFVfdW01OWdQVzNjSUZ6c29mS3hHUzVpV3lzYXFCbGdhRFZQcWhXaTdYVENyUkdYZ2xSdUQ3YVRhaVVvUGItTXFvdG5NSFgyR2JsRzdrVmxlYjBHQjdoeXgxcVVXNGNKOU03Y3JIMU01YUlfaThRd3NiU2pTaWVNR1RfR0p5bEVVT2ow",
    "source": "The Quantum Insider",
    "published_at": "2026-10-08T17:17:20+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Quantum Insider",
@@ -4839,13 +4941,22 @@
      "name": "Quartz",
      "published_at": "2026-10-09T12:35:37+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2hCYUVNcUx0Tk15YWRsa1dQWEZLNG90THhKa3NnQ01PRUxUcmNSU2hRTThjY19VbGtJd2pfcndUWXlkWmx1TjVfc1hUTnl1ckNhWHBvVDhTMGpTZlE2NHVkU3FNRmNuVVpaT3lackdpeUs2UGU4LUxFWlBnUmtXQWNMVzRJWHZ6"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T12:35:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUh1ZkRwNzYwNVJza0kxd1hKTHJuYXRfR09mWHpHT0ZFVEpXcHFwbzE0UHFIWGxIWXdLTEtldW1IZXJ2dlNaeVJSa051VGsyYUd3WjdaYWNrTzc0Z1BtdzhnY1JXS3NQbzRFNjVVaWp6TlU1ZmFLbk5UR2ZMWUg3dktqYUNndDYyUEZHWDR1b054cF9t"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达承诺向美科学量子计算投10亿美元",
    "title_zh": "英伟达承诺向美国科学和量子计算投入10亿美元",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.03,
+    "window_h": 2.0
+   }
   },
   {
    "id": "b7d1848f960b",
@@ -6706,136 +6817,6 @@
    "zh_summary": "Securitize引苹果英伟达入Solana链",
    "title_zh": "Securitize将苹果英伟达特斯拉引入Solana",
    "sentiment": 0
-  },
-  {
-   "id": "fc44761f029d",
-   "title": "Rally Up: ‘Gears of War: E-Day’ Launches on GeForce NOW - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SbkdJR1htaWJHVHU2bmpsZVNJTEN3a3Z2LXpXNlJhOEtqTy1OT0NKb0ZQOUx3N1VxbmpRSmdlQWR3bjBOM005dk01OGFSMFY0MDdZYU9pc2Z3MU43dVBaazg0OWhwc2RZdW9RNFE4eVhlN0xjWENqcnBn",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-08T13:03:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-08T13:03:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SbkdJR1htaWJHVHU2bmpsZVNJTEN3a3Z2LXpXNlJhOEtqTy1OT0NKb0ZQOUx3N1VxbmpRSmdlQWR3bjBOM005dk01OGFSMFY0MDdZYU9pc2Z3MU43dVBaazg0OWhwc2RZdW9RNFE4eVhlN0xjWENqcnBn"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "战争机器E-Day登陆GeForce NOW",
-   "title_zh": "《战争机器：E-Day》在GeForce NOW上线",
-   "sentiment": 1
-  },
-  {
-   "id": "e9ac9336ca65",
-   "title": "英伟达欲加码玻璃基板决战AI先进封装 A股相关企业抢先布局 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnbVRpOTJRRy1tTHVYMVJYNXFJYXp3S1NRR1ZHNGhBZ0lIUjFGa0RjMUlaX0l6T1pWdTFMb2VaeXhIQ1VMTGFGZFEtSlJndS1EUU4wLWM5SDhlMjJLazZfd1NlNk5pZndMQzI2N2RxVXFjWkpYOVVYSA",
-   "source": "新浪财经",
-   "published_at": "2026-10-08T13:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-08T13:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnbVRpOTJRRy1tTHVYMVJYNXFJYXp3S1NRR1ZHNGhBZ0lIUjFGa0RjMUlaX0l6T1pWdTFMb2VaeXhIQ1VMTGFGZFEtSlJndS1EUU4wLWM5SDhlMjJLazZfd1NlNk5pZndMQzI2N2RxVXFjWkpYOVVYSA"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-09T03:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGNCTDFjQ2NlaEcwSDFXQ2NWX19fVzFyWVVrWGFFQlZCYXhWTmxpWU13WVh0Mnl6ZzNvNUNidG0wWnNFQk0zNjUxbXF0WmtRU1pGeDEwRUdTenNiQmNPRjlFbFlCN3FsaUZlalh1TThNWmZaajQxTTFHVEpCOUhrbW5UMENSR1plQnpfOA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达加码玻璃基板先进封装",
-   "title_zh": "英伟达欲加码玻璃基板决战AI先进封装 A股相关企业抢先布局 - 新浪财经",
-   "sentiment": 1
-  },
-  {
-   "id": "9c586107bb73",
-   "title": "New Buy Rating for Nvidia (NVDA), the Technology Giant - The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbjhWaTFUVENjbktCUDRZU2lMMnN6NjByQ3F4T3lxWWNlZUdJTG84ZGplcjhXdlhDOXZnSWpXRUhSNkZjU1pEUWNjNFhGQjItZHVPYW10X2VIaUZ3Y0tteHFhRmhJQk5DdEJIbmlnUndYdTYxQ2k1V3VlOVNtUWRFNjc2cFRTVzRzQ0xRQ0c2YnZwalE4d19ONGcyQ2cxd0hGaG1mc1dRWTZ1UllUZ3VqTVc0OWFtY1A2VTA3UWNpMzY2M1d3dXZLbm5qZEZaQm9UQzVwSA",
-   "source": "The Globe and Mail",
-   "published_at": "2026-10-08T12:58:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-08T12:58:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbjhWaTFUVENjbktCUDRZU2lMMnN6NjByQ3F4T3lxWWNlZUdJTG84ZGplcjhXdlhDOXZnSWpXRUhSNkZjU1pEUWNjNFhGQjItZHVPYW10X2VIaUZ3Y0tteHFhRmhJQk5DdEJIbmlnUndYdTYxQ2k1V3VlOVNtUWRFNjc2cFRTVzRzQ0xRQ0c2YnZwalE4d19ONGcyQ2cxd0hGaG1mc1dRWTZ1UllUZ3VqTVc0OWFtY1A2VTA3UWNpMzY2M1d3dXZLbm5qZEZaQm9UQzVwSA"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "英伟达获新的买入评级",
-   "title_zh": "机构新予英伟达(NVDA)买入评级",
-   "sentiment": 1
-  },
-  {
-   "id": "511b123f6750",
-   "title": "Nvidia-Backed Firmus IPO Hits a Wall as Investors Balk at $30 Billion Valuation - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa0lVZ05QVVhPOG5kUU0tS0Iwam93ZEY5OGhfMTlsTThkbElqTmNrTzhyYW5VUjdWa1JUYU9OWXByN1JzNUpTWFFKaDNVSF9FLU9VcjNmSW02b1A3ZThuSzhEdXQ3bl90bVZESzhnQUtaczNCYVdKV3NaVE1SR1FhaHlIVDZlUkRNVlpwZkhjNk95dGV5R0JaeWpn",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-08T12:47:54+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-08T12:47:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa0lVZ05QVVhPOG5kUU0tS0Iwam93ZEY5OGhfMTlsTThkbElqTmNrTzhyYW5VUjdWa1JUYU9OWXByN1JzNUpTWFFKaDNVSF9FLU9VcjNmSW02b1A3ZThuSzhEdXQ3bl90bVZESzhnQUtaczNCYVdKV3NaVE1SR1FhaHlIVDZlUkRNVlpwZkhjNk95dGV5R0JaeWpn"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-08T12:47:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaU5PZXdpT1B6aTBMdjRuamFyOS0xUURvLXBvOTNCb2VQRURwaFZOU2JIRFV4cGNhdXEwTFoxOXVYMWNod3Q4WmdJMWNBTFE1eDUwb3YzTERLQXNwWEtfZnBWdzctQ1h2OFF0dDh4ZFIwbVRZZFNscXZrdlc0bjh4QWtEWmtOTC00cDRoMWZ3UDRzX05vRlU4N1pwdjRUZ1hQS0lWbFVCVVpzelBsUE5SQVJaVnJDUzFmMWtMcWJMVllXbzhvUVVhRGN3bHhmSEtxNG1maA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Firmus IPO遇阻，300亿美元估值遭质疑",
-   "title_zh": "英伟达投资的Firmus IPO遇阻，估值300亿美元遭质疑",
-   "sentiment": -1
-  },
-  {
-   "id": "4e8207d3516c",
-   "title": "Nvidia (NVDA) Stock Could Be 24% Undervalued Despite A Record Buyback Plan - Simply Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0JxMW5oeFNXa1dwTjJVbGw4SXBYNzlwRElVMW1SdnR0R1pvN2NTckZWcXZYVDVxSDV6Qm1rdmEtaEZkMTR1cU9fcGR2WWxKa1ZkNWFWMlJDRTE2SWdBZDlHUS1Jb2NEY3Z6SlBkRktBVXBBZ1hqVmh3aHdLWUJYV0cxeEFSZ0FQWjZUZzkzV0poVE1ROW1XdUlTRWRyOUtUaDlIMUdyYllsNWcwZDVXd004OV9tbm80dG1UVnZLZDQ0Rk5ZbUxPRFlQNNIB0AFBVV95cUxNUnZqN2pBaUxtQUpYaklvMGhXb2tjM0JDMWJnWWN4R1VfUGo5amZ2T1hPWlpZbVFBSXMyUlFWaE5KV0ZmUTA3d1ZKb0JhSFZCTHZaSnBOLWtIUVh5M2htWlgwd0dKNDA1TVBTNUxkNzRzMTBETUswRnFvMC1lbDVPaVpzRXBpVTNma2ZnZ1FTSWc3Mk82cTQ1U25kSUpfajIyN1ppSUU4bXN1Q3hKQ0ExSm9teEwxNW5FS0JJRkx2WTYxTFlfeG5xMVN2ejY3OVRJ",
-   "source": "Simply Wall Street",
-   "published_at": "2026-10-08T12:46:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Simply Wall Street",
-     "published_at": "2026-10-08T12:46:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0JxMW5oeFNXa1dwTjJVbGw4SXBYNzlwRElVMW1SdnR0R1pvN2NTckZWcXZYVDVxSDV6Qm1rdmEtaEZkMTR1cU9fcGR2WWxKa1ZkNWFWMlJDRTE2SWdBZDlHUS1Jb2NEY3Z6SlBkRktBVXBBZ1hqVmh3aHdLWUJYV0cxeEFSZ0FQWjZUZzkzV0poVE1ROW1XdUlTRWRyOUtUaDlIMUdyYllsNWcwZDVXd004OV9tbm80dG1UVnZLZDQ0Rk5ZbUxPRFlQNNIB0AFBVV95cUxNUnZqN2pBaUxtQUpYaklvMGhXb2tjM0JDMWJnWWN4R1VfUGo5amZ2T1hPWlpZbVFBSXMyUlFWaE5KV0ZmUTA3d1ZKb0JhSFZCTHZaSnBOLWtIUVh5M2htWlgwd0dKNDA1TVBTNUxkNzRzMTBETUswRnFvMC1lbDVPaVpzRXBpVTNma2ZnZ1FTSWc3Mk82cTQ1U25kSUpfajIyN1ppSUU4bXN1Q3hKQ0ExSm9teEwxNW5FS0JJRkx2WTYxTFlfeG5xMVN2ejY3OVRJ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达或被低估24%，有巨额回购",
-   "title_zh": "英伟达股价或被低估24%，创纪录回购加持",
-   "sentiment": 1
-  },
-  {
-   "id": "a8b6c894945a",
-   "title": "SolarEdge, NVIDIA publish 800 VDC safety framework as AI data center powertrain goes live - Dealroom",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEVpQTNxZ01ZNkp6cUctdEs3eWlpVllXYjRNWW4xRFl6TXZrNThqUmhlLVo2V1hSbWpRYVlwdWFRQjR0LXkzNnN5MFI4X1hMNUZnbmFPVFJoZ0JTQW9nU2tMLWloN0plV3labVZZRDlPNVNZWlBjQmpVVWc0ZTRiMy1VeTQ1WWhXRlJuV2dNVWg4SUt0bjdTdEVFT01JZ0RnOVJzcmd2WHVnd25WZWdNb1lhU3J5UE1xV3Q0ekhtWQ",
-   "source": "Dealroom",
-   "published_at": "2026-10-08T12:41:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Dealroom",
-     "published_at": "2026-10-08T12:41:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEVpQTNxZ01ZNkp6cUctdEs3eWlpVllXYjRNWW4xRFl6TXZrNThqUmhlLVo2V1hSbWpRYVlwdWFRQjR0LXkzNnN5MFI4X1hMNUZnbmFPVFJoZ0JTQW9nU2tMLWloN0plV3labVZZRDlPNVNZWlBjQmpVVWc0ZTRiMy1VeTQ1WWhXRlJuV2dNVWg4SUt0bjdTdEVFT01JZ0RnOVJzcmd2WHVnd25WZWdNb1lhU3J5UE1xV3Q0ekhtWQ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "SolarEdge与英伟达发布AI数据中心安全框架",
-   "title_zh": "SolarEdge和英伟达发布AI数据中心800V安全框架",
-   "sentiment": 1
   }
  ]
 }
