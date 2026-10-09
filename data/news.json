@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T11:21:32.465149+00:00",
+ "updated_at": "2026-10-09T11:36:31.266868+00:00",
  "market": {
   "price": 230.48,
   "change_pct": -2.94,
@@ -10,8 +10,8 @@
    "days_left": 39
   },
   "day_sentiment": {
-   "avg": 0.49,
-   "count": 61
+   "avg": 0.45,
+   "count": 67
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.49（61条已评分）"
+     "note": "今日新闻情绪 +0.45（67条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.8,
    "ma20": 226.18,
-   "as_of": "2026-10-09T11:21:32.447634+00:00"
+   "as_of": "2026-10-09T11:36:31.252758+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -62,17 +62,61 @@
  },
  "stories": [
   {
+   "id": "a03e32300d82",
+   "title": "分析师：英伟达或将在2028年下半年采用英特尔Foveros封装技术 - Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWFVQVJmUEg4X1RxdEJtN0Z6X3JYQ3dhX3pwelNlRFRSTkNxelcwVnFfWm9LVlFOeXZmY05Eb1dIcFZ0VElUYkx3V1ZMSjlkLWY5V0xqY1dFMEIxazU3VHhZMFBfRDBCZUJnVzlrLTBia05LaG1XZWF6YTNKcWhJZ3VHWFpKOXlOcnB1Sw",
+   "source": "Sohu",
+   "published_at": "2026-10-09T11:23:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Sohu",
+     "published_at": "2026-10-09T11:23:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWFVQVJmUEg4X1RxdEJtN0Z6X3JYQ3dhX3pwelNlRFRSTkNxelcwVnFfWm9LVlFOeXZmY05Eb1dIcFZ0VElUYkx3V1ZMSjlkLWY5V0xqY1dFMEIxazU3VHhZMFBfRDBCZUJnVzlrLTBia05LaG1XZWF6YTNKcWhJZ3VHWFpKOXlOcnB1Sw"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
+  },
+  {
+   "id": "b03d7de9e002",
+   "title": "AI Chips Update - NVIDIA's $1B Boost for US Scientific Innovation - Simply Wall Street",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWko3RFp3TVJaOUUwNU1hZ0d0bTFFU1FCV3UtU2s1SGczclRkSUVENC1LdmZFT1AtODdfWm5xdTBEWW5UM21vQThkZkRzMU5FWFBCT1N2RFF6dC00ZEhzUjY1NXVtOXlzeVY1a0ozOVZoUFBuYWJQWG9POWh0WTFvRndDR0ZpV3FCVk9YVURiZFNQSDBpYnBsZG1iWk1zd2lEVUJic0pWMm1LanY2bG9QTlVlME9TS1ZDV1RTc3pfekFHT0xZREx2SUhlNNIB0AFBVV95cUxOdzc0WkdPMHRGVENHSjRUY2h4amxHd1V6SVIxZVJIZjd0TC1JdW5ydEZkVHZGdl9zVzNEeERhU3doOWlpVXJwRWdNLXNEc1FVbnBHcW5GaVFpN0dKZkMxbkx6V2drZlpTaVhFbzVLUjlUQkludVJ5UjZOcnpRdnlTbm9sQXpyVGt6U2Z0dU1nUDB5b01oTDQxbVFuWVV3SmdHbDJFRjFNSm4tOTNSZ1pzM2RaaEtfSHM2SnF1UW5MbmVEb0FmdGlka3hiTTRRb2xi",
+   "source": "Simply Wall Street",
+   "published_at": "2026-10-09T11:21:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Simply Wall Street",
+     "published_at": "2026-10-09T11:21:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWko3RFp3TVJaOUUwNU1hZ0d0bTFFU1FCV3UtU2s1SGczclRkSUVENC1LdmZFT1AtODdfWm5xdTBEWW5UM21vQThkZkRzMU5FWFBCT1N2RFF6dC00ZEhzUjY1NXVtOXlzeVY1a0ozOVZoUFBuYWJQWG9POWh0WTFvRndDR0ZpV3FCVk9YVURiZFNQSDBpYnBsZG1iWk1zd2lEVUJic0pWMm1LanY2bG9QTlVlME9TS1ZDV1RTc3pfekFHT0xZREx2SUhlNNIB0AFBVV95cUxOdzc0WkdPMHRGVENHSjRUY2h4amxHd1V6SVIxZVJIZjd0TC1JdW5ydEZkVHZGdl9zVzNEeERhU3doOWlpVXJwRWdNLXNEc1FVbnBHcW5GaVFpN0dKZkMxbkx6V2drZlpTaVhFbzVLUjlUQkludVJ5UjZOcnpRdnlTbm9sQXpyVGt6U2Z0dU1nUDB5b01oTDQxbVFuWVV3SmdHbDJFRjFNSm4tOTNSZ1pzM2RaaEtfSHM2SnF1UW5MbmVEb0FmdGlka3hiTTRRb2xi"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "b77f6d0b6d81",
    "title": "SpaceX Just Gave Me 40 Billion Reasons to Add More Nvidia - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUNPVHo0YTZjZXo4UGxobTZVOFZxRnp3WmlzSEoyUnYtcU9CZ1R4eUJ2Uk1BZ2hqSVR0OUdkSEhibXY3dTV1aDdNZ0o5Wi1Vdnlkek82ZG5nQmdoZDZCSDU4TWdUZUNjRHhnMDB2ZVIzZkFoUHlzTVd2LXBaTUVXRXl4eXQzV0o4V0gtVDJEZ05oeEw5cEhtVGQ2dk83bjJYbWln",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-09T11:15:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-09T11:15:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUNPVHo0YTZjZXo4UGxobTZVOFZxRnp3WmlzSEoyUnYtcU9CZ1R4eUJ2Uk1BZ2hqSVR0OUdkSEhibXY3dTV1aDdNZ0o5Wi1Vdnlkek82ZG5nQmdoZDZCSDU4TWdUZUNjRHhnMDB2ZVIzZkFoUHlzTVd2LXBaTUVXRXl4eXQzV0o4V0gtVDJEZ05oeEw5cEhtVGQ2dk83bjJYbWln"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T11:15:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTTZDNWExMXhwSVJ5dnpGZlRjRTctMjgxcnJqb2ZoNEhqRTBuVkxCbHNMWDJFZmxaY3cyNEduMFFRWXdYbjgzbV81VWRKVDk3cEp2VmM5R2NmM2FCaldscUZHN1A3MEdsMUcxNlVlaFlfMXFaX1BqVjYxb2hvdVBsVUtLTW8zdjd2S1h5ZlBXX0Q4V1FRbmZr"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-09T11:15:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BdVRJZ1dqMzl4SGF1S25MV0x0eGI2UmlWZ0h4b3ZjWlFDN3pCT3FGbllmV3pIQy0xdHdmbkxXcHZ3RXZVeU1nbGx4TzZ2Y0E5RHBuQ19PVm5tYURkN0xVZWo4a2ZGaDVDakFpTm5CTjdxNHltT3cxdmI2MA"
     }
    ],
    "category": "其他",
@@ -87,12 +131,17 @@
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYUQ4MWJIczJPcVozSmhweGhibXBYa2Z5dUExMk9JUTNZeldNcXB2ZEhqdnRBd2ZQblRmSUtWMnNpU2ZnNkJVUkdraVoxb0JCb2ZWemJUb2NyazkwbkNJRmMxWDBWSXViN3RmWmstSHNFcFpYWl9oZmExQWgzUlFTalFNSVQ1Y0J0UnNiTFhaRzhrNDdYV2FsM2RxUldQam1DOHY1Q1JpdzNfQWJzZDJ1UTN5blFXckV0OTNfZkZHWFJaYm5Xcm5iQjhOb0M",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-09T11:15:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-09T11:15:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYUQ4MWJIczJPcVozSmhweGhibXBYa2Z5dUExMk9JUTNZeldNcXB2ZEhqdnRBd2ZQblRmSUtWMnNpU2ZnNkJVUkdraVoxb0JCb2ZWemJUb2NyazkwbkNJRmMxWDBWSXViN3RmWmstSHNFcFpYWl9oZmExQWgzUlFTalFNSVQ1Y0J0UnNiTFhaRzhrNDdYV2FsM2RxUldQam1DOHY1Q1JpdzNfQWJzZDJ1UTN5blFXckV0OTNfZkZHWFJaYm5Xcm5iQjhOb0M"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T11:15:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdDFTdmhNSHJ4OXdGRTROLXpPamlQRUN5MFlNNXJYcHJxUWR4RFd0SlpzcHNoQWdiamhOd29LaVljRG5CeU1XdnhsWko4dlQ1aVg2U2FSb3o3bXhGbVFRc1lLNkJMTWdsU1VHUGFrQ3hOOTRSNVdKN3ZsTm95ZEJqUDVjZDIxVU9NbGxZcEtUODJWLV9TdlllNFN0V2FtZlo2aENz"
     }
    ],
    "category": "财报",
@@ -120,6 +169,23 @@
    "zh_summary": "英伟达有意收购OpenRouter",
    "title_zh": "英伟达对OpenRouter表现出收购兴趣",
    "sentiment": 1
+  },
+  {
+   "id": "ef06af10f536",
+   "title": "国产 AI 彻底崛起！华为升腾 950 超节点产能告急，破英伟达垄断地位 - Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORm1ubUJaR0Z5TW1FRWItRmF6ZlV3TVcyQnZ5UXRXYlFkb3h3VFBMQ3RxWXh0ZzZ4ZHIwYVRHMHBzNWExUGdXN0Y5VE5RMngwbFBfalc4OGpYaWlfRHJnNWx3b1BvdlFXbF9HTDF6WExBQXY4ZDZzQTZZXzBNc2ZKZVRjeUFCSUdCNzI4Tw",
+   "source": "Sohu",
+   "published_at": "2026-10-09T11:05:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Sohu",
+     "published_at": "2026-10-09T11:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORm1ubUJaR0Z5TW1FRWItRmF6ZlV3TVcyQnZ5UXRXYlFkb3h3VFBMQ3RxWXh0ZzZ4ZHIwYVRHMHBzNWExUGdXN0Y5VE5RMngwbFBfalc4OGpYaWlfRHJnNWx3b1BvdlFXbF9HTDF6WExBQXY4ZDZzQTZZXzBNc2ZKZVRjeUFCSUdCNzI4Tw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "06096cba2a8d",
@@ -187,7 +253,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kNmhoVHVFMmxuMVJmQ2xGNmtuemUydlQwcGFSTDBNcjAtbUx1SXFBekZPRTR4Vkh3dHBwYm9FVElXUHRVTXY2cmRldUIwNVh4ckljRnNLYmFobGF0",
    "source": "www.caiwennews.com",
    "published_at": "2026-10-09T10:54:55+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "www.caiwennews.com",
@@ -198,6 +264,11 @@
      "name": "新浪网",
      "published_at": "2026-10-09T11:13:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JZ0tjRHlUa2tuOUFVN2VOWUNlaEdsSFJiTzhESzNrUWgybms2UFRRV1lnQVltRFhtUFl3djZTcjJkMS1FcDl1WTRJQ092Z1BqUVlvdUF2Z1M2NWpXUktxZzlvT3c4UGdNLTNQdHdiQUwwaDIwRWFIc2k5dkFvbnc"
+    },
+    {
+     "name": "Sohu",
+     "published_at": "2026-10-09T11:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdU9nNkhZZUdtNG1lXzQyMkxzVlVlTkl5ZngyTHpqaFU2cVhDSkhFUGdCMjVYSG5uN2tGcmhleFFZSHRvekFqSml6NHVUaENMaWhRN1BDakc3MkMxcGFrbUZHLUZZQnd3ZURZczgzUXBuQXBPX2xpcFJxV1BBVTA3YWVVVm55cFg4ZWZqWg"
     }
    ],
    "category": "其他",
@@ -1445,6 +1516,23 @@
    "zh_summary": "Zacks精选关注美光英伟达等股",
    "title_zh": "Zacks精选：美光、英伟达、Par Pacific",
    "sentiment": 1
+  },
+  {
+   "id": "29b25b8e1ff4",
+   "title": "GF证券分析师：英伟达或在部分后端环节采用英特尔Foveros封装 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb3BvR20tOUIwWFQ2VTE2SmlCcnFrcnZyZTJZUTBpQW5LYlQ3cVZ2ellQcnRYMXpJSmpmUFJ4dnVyZ2ZOZ2IxOUJDVFBJNEZoU1ZWVl9WaDAxVDJJYjlwZ0pBcDNlNXpraUtlSlZkd2F2SUFiVk94U1JBQzNCb2tIUjhYU1JSbVF6Qk84blFDODg4QTA",
+   "source": "新浪财经",
+   "published_at": "2026-10-09T05:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-09T05:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb3BvR20tOUIwWFQ2VTE2SmlCcnFrcnZyZTJZUTBpQW5LYlQ3cVZ2ellQcnRYMXpJSmpmUFJ4dnVyZ2ZOZ2IxOUJDVFBJNEZoU1ZWVl9WaDAxVDJJYjlwZ0pBcDNlNXpraUtlSlZkd2F2SUFiVk94U1JBQzNCb2tIUjhYU1JSbVF6Qk84blFDODg4QTA"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "62b78bccac9c",
@@ -3138,6 +3226,28 @@
    "zh_summary": "三大巨头令指数投资者承压",
    "title_zh": "英伟达、苹果、微软给指数投资者带来麻烦",
    "sentiment": -1
+  },
+  {
+   "id": "163ca3ebe54e",
+   "title": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy for the Next 5 Years? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkhIRFhJRF9CdV9YZTA4QUFrV0JGOTU1TGJtdnVoSHNzc2tfY2lLdFlvSGcxWDVkRzBUcnRCMFdnaXY4eEgxV1J0VHlaLUc2blNzMnFCVVZTSWVBUmNzZWZvM0JFTUIyVVQ2UHc1cmlVUWVKb2Y5XzNMQ0xpRDhVV3ZGUGYxczJLTGR1Nk1RXzhkSEdq",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-08T21:49:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-08T21:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkhIRFhJRF9CdV9YZTA4QUFrV0JGOTU1TGJtdnVoSHNzc2tfY2lLdFlvSGcxWDVkRzBUcnRCMFdnaXY4eEgxV1J0VHlaLUc2blNzMnFCVVZTSWVBUmNzZWZvM0JFTUIyVVQ2UHc1cmlVUWVKb2Y5XzNMQ0xpRDhVV3ZGUGYxczJLTGR1Nk1RXzhkSEdq"
+    },
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-08T22:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1dmNWJGZE5wejI3U2RWZldFRzNCMDZLZDJFVjB3bW0xeTZJc3N4dHpfUUYyaVk2eGZIVTFWNVBDeU0wclR2MHNuWXREWndFSDlWQmtyR3ZwSzFvQkpyVlVPcGdNTFZnUDFFWVBkbV9YUmwwai1XNkl1b2luTy00NWR6dk5RRmhtT3FzZ1o1VEo0cTl0dy1SSA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "c6d8702d37b6",
@@ -6608,111 +6718,6 @@
    "session": "盘前",
    "zh_summary": "英伟达参投的Firmus搁置澳洲IPO",
    "title_zh": "英伟达参投的Firmus为何搁置澳洲IPO？OpenAI算力供应商转向私募融资 - TradingKey",
-   "sentiment": 0
-  },
-  {
-   "id": "794c9456f569",
-   "title": "Here's How Much a $1000 Investment in Nvidia Made 10 Years Ago Would Be Worth Today - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTkpXWm1sMzlleV9acFQ4cTA0QTZqUGRlOWZXeDFSYXdUNlRIZUxQSHFTRlV1ZEdocnRRYk1KSTlWQVpxa2x2TnpyVkZzUXhBZVJMRFBQRUJjSWlGSFVKbkRmVVdyNTgxaGdLczl1MFFMTmoycDRlNjF0MXIwU2RaVWQzT29RSUw1RUVjT1ZiNGNCRlc5ZkZDOW1yeVktM0k",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-08T11:30:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-08T11:30:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTkpXWm1sMzlleV9acFQ4cTA0QTZqUGRlOWZXeDFSYXdUNlRIZUxQSHFTRlV1ZEdocnRRYk1KSTlWQVpxa2x2TnpyVkZzUXhBZVJMRFBQRUJjSWlGSFVKbkRmVVdyNTgxaGdLczl1MFFMTmoycDRlNjF0MXIwU2RaVWQzT29RSUw1RUVjT1ZiNGNCRlc5ZkZDOW1yeVktM0k"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "十年前投1000美元买英伟达回报回顾",
-   "title_zh": "十年前投1000美元买英伟达如今值多少",
-   "sentiment": 0
-  },
-  {
-   "id": "5fc5040b6d73",
-   "title": "英伟达投资的Firmus Grid IPO目标估值300亿美元，订单簿关闭后价格未定陷入撤回风险 - 凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tYUxXNHlPNGRYUGZncV9NR2szOWJsQmtjcDVraDlrX0xheVdwem1LcTZvMHltMElNQ3RmVmxJaFN1dEZJRE81TkVycEdjblFO",
-   "source": "凤凰网",
-   "published_at": "2026-10-08T11:24:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-08T11:24:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tYUxXNHlPNGRYUGZncV9NR2szOWJsQmtjcDVraDlrX0xheVdwem1LcTZvMHltMElNQ3RmVmxJaFN1dEZJRE81TkVycEdjblFO"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Firmus Grid IPO存撤回风险",
-   "title_zh": "英伟达投资的Firmus Grid IPO目标估值300亿美元，订单簿关闭后价格未定陷入撤回风险 - 凤凰网",
-   "sentiment": 0
-  },
-  {
-   "id": "428b23859de9",
-   "title": "韩国专家称中国用100个华为芯片硬刚英伟达 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KTUg3TVFHdEZoYkhuUG5hT0F5bURQVmZPajRTMW1meDlXdjA1MC0tVnU5ejg1c1VndFZCNXIxTURwS21UWmRqdEJaektfNFNaQ2lqTkw1Y0VDRHpmZmE0X1JqdEJiRkRQX3dmNkR0MWNub2xJQzFLTw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-08T11:23:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-08T11:23:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KTUg3TVFHdEZoYkhuUG5hT0F5bURQVmZPajRTMW1meDlXdjA1MC0tVnU5ejg1c1VndFZCNXIxTURwS21UWmRqdEJaektfNFNaQ2lqTkw1Y0VDRHpmZmE0X1JqdEJiRkRQX3dmNkR0MWNub2xJQzFLTw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "韩专家称中国用100个华为芯片硬刚英伟达",
-   "title_zh": "韩国专家称中国用100个华为芯片硬刚英伟达 - 手机新浪网",
-   "sentiment": -1
-  },
-  {
-   "id": "dd96aa771291",
-   "title": "Jensen Huang: 'Nvidia was founded because of Windows' - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnFSd0s4Tmstak0yWXoyRTJUa21Rb0E1RVh5ZDlUSG5XZmMxNnRmSnhOUG9STHl5c2MxVkFCQ3loRTBqOWFwM2NQUG1tNUIyZFQ2MFpQV2Y4czYwd3gtRl9vWURKaDNTM01aYXVoVjA4Mk5qXzk2RUdxT2diaDFLbHNhUFROODJVMjEzamk4X2xfWUJMUGxHZ0FFeHJTZXE3",
-   "source": "Yahoo! Finance Canada",
-   "published_at": "2026-10-08T11:18:14+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-08T11:18:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnFSd0s4Tmstak0yWXoyRTJUa21Rb0E1RVh5ZDlUSG5XZmMxNnRmSnhOUG9STHl5c2MxVkFCQ3loRTBqOWFwM2NQUG1tNUIyZFQ2MFpQV2Y4czYwd3gtRl9vWURKaDNTM01aYXVoVjA4Mk5qXzk2RUdxT2diaDFLbHNhUFROODJVMjEzamk4X2xfWUJMUGxHZ0FFeHJTZXE3"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-08T11:18:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFhfY3pNUHhTcXc3Tkw4UVdxd0UxSW9ZeVVZa05vSC1idXFGMDY1Sml5TE1OaUYtWXhhQ1l4bGw3M2g1dDZ2VlBzUC1fNTgwQXJydmpqNWtsRjctWFgtUWlRZl9mZFBoa2FQZk1tbnlkQmNGUTJIdEhLbTF3QUh0YzAxaW9RcGVBNF9uck53M3BNTjA5WXhtOEN5RVRDMmVsb1p5TWdoMEl5b2JaVEFv"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋称英伟达创立源于Windows",
-   "title_zh": "黄仁勋：英伟达创立源于Windows",
-   "sentiment": 0
-  },
-  {
-   "id": "3c7c786812ea",
-   "title": "Here's How Much Nvidia GPUs Cost In 2006 Vs. 2026 - BGR",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fc1RMeHlkTEdyREw3QlZVM3RCbHMxUVZSeDcyc0NpNWp1SkpzOU42d3paUWExMjNZcEpIZkYtdGEzR1YyTHQ2SEo5d3dWTUswSEpscFRJN0MtV2FBZFZVeC1ReXZMWmdkU3JVOGtB",
-   "source": "BGR",
-   "published_at": "2026-10-08T11:17:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BGR",
-     "published_at": "2026-10-08T11:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fc1RMeHlkTEdyREw3QlZVM3RCbHMxUVZSeDcyc0NpNWp1SkpzOU42d3paUWExMjNZcEpIZkYtdGEzR1YyTHQ2SEo5d3dWTUswSEpscFRJN0MtV2FBZFZVeC1ReXZMWmdkU3JVOGtB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达GPU价格2006对比2026",
-   "title_zh": "英伟达GPU价格2006年对比2026年",
    "sentiment": 0
   }
  ]
