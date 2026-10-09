@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T04:36:29.629224+00:00",
+ "updated_at": "2026-10-09T04:51:32.018197+00:00",
  "market": {
   "price": 230.48,
   "change_pct": -2.94,
@@ -10,8 +10,8 @@
    "days_left": 40
   },
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 274
+   "avg": 0.23,
+   "count": 277
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（274条已评分）"
+     "note": "今日新闻情绪 +0.23（277条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.8,
    "ma20": 226.18,
-   "as_of": "2026-10-09T04:36:29.614937+00:00"
+   "as_of": "2026-10-09T04:51:32.008775+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -62,20 +62,42 @@
  },
  "stories": [
   {
-   "id": "afe51af5293c",
-   "title": "Nvidia-backed AI firm Firmus cancels historic $5B IPO (NVDA:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0tPRVlOaXFiejd4S1N1R01zMDEzZHJuaW9hbmpZcXpzd0QwLWd0TVg0Z0UtQmZvR3JtVHRiWDZOMzdoZWc2MmxlX0FWN3JGTDA0bmZBVjJDNGswQjdhSncweGl4aThWMUFFeEdpZVpJSENxc01BUkh0MjlCRUxmOHI5SThHNkhKejRxbEtXOTA5UUlL",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-09T04:23:15+00:00",
+   "id": "37f9369c301a",
+   "title": "英伟达五年10亿美元押注美国科研算力：一场围绕“超级智能”的全球产业竞赛 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTHRQb21jdGFJb09zMHh0R2Ntdl81blRaQzIyUTZZZEkxRmk1S05PTGRpa251RHRIdDlIcVg3U2JBOUs5TjhZay0tOEM1eEVWME83cFpWNlREU2V3WGI0MG1MdVR1eGdhbGFVSlBLYXB4RTVhZmFNcnZRUUZ0NUNRa3czeG8wczY2",
+   "source": "搜狐网",
+   "published_at": "2026-10-09T04:36:00+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-09T04:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTHRQb21jdGFJb09zMHh0R2Ntdl81blRaQzIyUTZZZEkxRmk1S05PTGRpa251RHRIdDlIcVg3U2JBOUs5TjhZay0tOEM1eEVWME83cFpWNlREU2V3WGI0MG1MdVR1eGdhbGFVSlBLYXB4RTVhZmFNcnZRUUZ0NUNRa3czeG8wczY2"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
+  {
+   "id": "003c6db4db99",
+   "title": "Nvidia-backed AI firm Firmus cancels historic $5B IPO - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1E0UEhTUVZpZTFGVldYdk44czJxclF4N2Y5Y25hRHJBbUhid3VQR1VNRjFhZVBMVUR4WVl6ZEt1QURSYmRTR2NlZUFTY1ExNXFsYmdfcTdoUjdJNFctQlllZTZOa0hwWkQybF9UM2RfTWxCa3VtanNYNy1nMFhka2E2OGZHbjhDbkFWdkdtN1pqeGhIbk4tbmoyZjB4dkJnMnhVNGJJZXNjUWZSNTlJaGdkT3llUQ",
+   "source": "TradingView",
+   "published_at": "2026-10-09T04:23:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-09T04:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1E0UEhTUVZpZTFGVldYdk44czJxclF4N2Y5Y25hRHJBbUhid3VQR1VNRjFhZVBMVUR4WVl6ZEt1QURSYmRTR2NlZUFTY1ExNXFsYmdfcTdoUjdJNFctQlllZTZOa0hwWkQybF9UM2RfTWxCa3VtanNYNy1nMFhka2E2OGZHbjhDbkFWdkdtN1pqeGhIbk4tbmoyZjB4dkJnMnhVNGJJZXNjUWZSNTlJaGdkT3llUQ"
+    },
     {
      "name": "Seeking Alpha",
      "published_at": "2026-10-09T04:23:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0tPRVlOaXFiejd4S1N1R01zMDEzZHJuaW9hbmpZcXpzd0QwLWd0TVg0Z0UtQmZvR3JtVHRiWDZOMzdoZWc2MmxlX0FWN3JGTDA0bmZBVjJDNGswQjdhSncweGl4aThWMUFFeEdpZVpJSENxc01BUkh0MjlCRUxmOHI5SThHNkhKejRxbEtXOTA5UUlL"
     }
    ],
-   "category": "市场宏观",
+   "category": "其他",
    "session": "盘后",
    "zh_summary": "英伟达支持的Firmus取消50亿美元IPO",
    "title_zh": "英伟达支持的AI公司Firmus取消历史性50亿美元IPO",
@@ -140,6 +162,23 @@
    "zh_summary": "坦克700新能源搭载英伟达芯片",
    "title_zh": "【视频】坦克700新能源配英伟达芯片，辅助驾驶是硬派越野新标配？ - 汽车之家",
    "sentiment": 1
+  },
+  {
+   "id": "3d544f3e7a54",
+   "title": "报告：英伟达可能在部分后端环节采用英特尔的Foveros芯片技术 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkJhV2NxM3JTSzRkMlptbXhsNmFIcVQtUnlCaWlHN09qZm85d3l4UUVwZ1o5bE5OemM0dGJXdklmQVJOR1E3R3hYZndlSEc3SzhBdDZ0QnJ5aDRrZmtiQnRndmc1aWVqZ2t4aWpmeWlyVWdweW9IT0tqbzJnMjBjR1hTbzBEZmpZRGZyZlViazNHY0FrbjdSWEZ2Q3BHWEU",
+   "source": "富途牛牛",
+   "published_at": "2026-10-09T03:57:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-09T03:57:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkJhV2NxM3JTSzRkMlptbXhsNmFIcVQtUnlCaWlHN09qZm85d3l4UUVwZ1o5bE5OemM0dGJXdklmQVJOR1E3R3hYZndlSEc3SzhBdDZ0QnJ5aDRrZmtiQnRndmc1aWVqZ2t4aWpmeWlyVWdweW9IT0tqbzJnMjBjR1hTbzBEZmpZRGZyZlViazNHY0FrbjdSWEZ2Q3BHWEU"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "d5b3adc680da",
@@ -4274,6 +4313,23 @@
    "sentiment": 1
   },
   {
+   "id": "009c992d1e8b",
+   "title": "断供 4 年，逼出中国半导体奇迹！英伟达暴跌九成，华为凭啥过半？ - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFM2b1dzR1MzZGNjbEN0V3pJR2dMeGZrOFpmVTVTU1RJTkN1b2tCMGk4X0trWVBXeC1HYUUwMFVfWm9nQzdaTE1ySUNDVF9kNS1CU01aWlRzeU5jNHhyZHZwMFJ0cTVlZFZ2ei16NDdUaXVQZWtnQnlNZlBPX3QxQXZEZ2VHaFNOODZnZA",
+   "source": "搜狐网",
+   "published_at": "2026-10-08T12:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-08T12:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFM2b1dzR1MzZGNjbEN0V3pJR2dMeGZrOFpmVTVTU1RJTkN1b2tCMGk4X0trWVBXeC1HYUUwMFVfWm9nQzdaTE1ySUNDVF9kNS1CU01aWlRzeU5jNHhyZHZwMFJ0cTVlZFZ2ei16NDdUaXVQZWtnQnlNZlBPX3QxQXZEZ2VHaFNOODZnZA"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
+  {
    "id": "d5f920ad1e5c",
    "title": "Samsung's $80 Billion Quarterly Profit Tops Nvidia - Apple (NASDAQ:AAPL), Alphabet (NASDAQ:GOOG) - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXJ6WmRyU0F4Ym45aEl1SFZBX3hzbnB3c0NadkVUVlRtbDIzeVBOVFQxNnc4dTlQeVBlM1JzcFo5X3FYSlRRWmdESG5VaGVRRG12M1p0eVdOVW1nVGI3SF83VXhWYmVBOUNVMnlvNW5xRlhVWENKYU85cndqejBiMmFKZkZyRWZ1SjN3REplaU9IQTRfbmhYSXB6cjVBR0pZVmV3ODZxbERZbk0x",
@@ -6597,66 +6653,6 @@
    "session": "盘后",
    "zh_summary": "微软笔记本搭载英伟达芯片",
    "title_zh": "微软称新旗舰笔记本搭载英伟达芯片，部分AI任务表现优于苹果同类产品",
-   "sentiment": 1
-  },
-  {
-   "id": "2ec9a713b1a5",
-   "title": "Nvidia-Backed Firmus Said to Close Books as Mega IPO Struggles - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGxrUDVTc2JTVERpVDhpZ0tCekJVZmRMWjkyRHZWWVpGRWlvbVZxZmZGTUgyZDlxV2MzVUFGSmhjeVc2Qkc4cTlNWnNZaGp3MllmR0FwcjVOV0FLZGRNSVUxZm1VQlFSWE00X1czdkVtaGlWMnFUUC0xM0VVd0ZIWTdrY2xtbUhGY19DTmEwY0VRX2lQQjJ4eUs1SHJwVm5ILTVjVHpYNFAxWVBINzJGOEVQMA",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-08T02:44:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-08T02:44:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGxrUDVTc2JTVERpVDhpZ0tCekJVZmRMWjkyRHZWWVpGRWlvbVZxZmZGTUgyZDlxV2MzVUFGSmhjeVc2Qkc4cTlNWnNZaGp3MllmR0FwcjVOV0FLZGRNSVUxZm1VQlFSWE00X1czdkVtaGlWMnFUUC0xM0VVd0ZIWTdrY2xtbUhGY19DTmEwY0VRX2lQQjJ4eUs1SHJwVm5ILTVjVHpYNFAxWVBINzJGOEVQMA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达支持的Firmus完成簿记，IPO遇阻",
-   "title_zh": "消息：英伟达支持的Firmus关闭簿记，大型IPO遇困",
-   "sentiment": -1
-  },
-  {
-   "id": "3af05314c647",
-   "title": "“用英伟达股票买咖啡”！Gate押注超级金融App：股票、黄金、加密货币都能直接花 - FX168财经",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QcW9pX2pOODlKXzc0TGJnM3VRNUoxQ2MyQ1VYTVBUX3JZdS1LQkZmLUt3cUZwdVI1NFU1aTB1Y1BiMGhQejZwaGtvd0hQQXJfeUJ1bmFER2UwQQ",
-   "source": "FX168财经",
-   "published_at": "2026-10-08T02:40:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FX168财经",
-     "published_at": "2026-10-08T02:40:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QcW9pX2pOODlKXzc0TGJnM3VRNUoxQ2MyQ1VYTVBUX3JZdS1LQkZmLUt3cUZwdVI1NFU1aTB1Y1BiMGhQejZwaGtvd0hQQXJfeUJ1bmFER2UwQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "Gate推出股票黄金加密货币支付功能",
-   "title_zh": "\"用英伟达股票买咖啡\"！Gate押注超级金融App：股票、黄金、加密货币都能直接花 - FX168财经",
-   "sentiment": 1
-  },
-  {
-   "id": "21b7afc76245",
-   "title": "3D打印“算力冷板”变得很“热” 温州这家企业英伟达订单假期满负荷赶工 - 温州新闻",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQTE1vWEhuY0d2RDBIbFVuQVFXVjRJdk1iVnRwODZYekc4alVIYU1VaDI4eVZRdDBYWGhpTkJNblY5Rk1MNWVYa09uVnlPR0JVZHFlamRHUzF4UEZVM1ZaR1NvYm1Kbm1MMEE",
-   "source": "温州新闻",
-   "published_at": "2026-10-08T02:37:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "温州新闻",
-     "published_at": "2026-10-08T02:37:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQTE1vWEhuY0d2RDBIbFVuQVFXVjRJdk1iVnRwODZYekc4alVIYU1VaDI4eVZRdDBYWGhpTkJNblY5Rk1MNWVYa09uVnlPR0JVZHFlamRHUzF4UEZVM1ZaR1NvYm1Kbm1MMEE"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "温州企业为英伟达订单假期满负荷赶工",
-   "title_zh": "3D打印\"算力冷板\"变得很\"热\" 温州这家企业英伟达订单假期满负荷赶工 - 温州新闻",
    "sentiment": 1
   }
  ]
