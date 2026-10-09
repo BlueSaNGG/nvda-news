@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T00:21:31.272996+00:00",
+ "updated_at": "2026-10-09T00:36:34.870883+00:00",
  "market": {
   "price": 237.47,
   "change_pct": -0.74,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.28,
-   "count": 227
+   "count": 226
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（227条已评分）"
+     "note": "今日新闻情绪 +0.28（226条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 33.7,
    "ma20": 225.58,
-   "as_of": "2026-10-09T00:21:31.254536+00:00"
+   "as_of": "2026-10-09T00:36:34.860967+00:00"
   },
   "pe_ttm": 30.2,
   "pe_pct_5y": 28,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "9eda055a1ac8",
+   "title": "How Long Do Nvidia GPUs Get Software Updates? - BGR",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IbkZwb3FFY0lMRzc4TGJ4TlFXOEtXRmY1ZER2U09LTUxJQTRRQ1l4ZnFPU1NwemdvLXpwcTBEUUczMkJKQzQ0bGFiVC1JT0RtNnhUMF94NWlFeUNldXpSSTMyNUdwbTZsMDBHcXBpN2J6V3gyNkVUZ2V3",
+   "source": "BGR",
+   "published_at": "2026-10-09T00:20:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BGR",
+     "published_at": "2026-10-09T00:20:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IbkZwb3FFY0lMRzc4TGJ4TlFXOEtXRmY1ZER2U09LTUxJQTRRQ1l4ZnFPU1NwemdvLXpwcTBEUUczMkJKQzQ0bGFiVC1JT0RtNnhUMF94NWlFeUNldXpSSTMyNUdwbTZsMDBHcXBpN2J6V3gyNkVUZ2V3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "15922b5bb5fe",
    "title": "OpenAI收入不及预期报道引发“过度担忧”，美光、英伟达等AI芯片股下跌 - 华尔街日报中文版",
@@ -152,12 +169,17 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81d1BObnF0cm5kMm1mLTY0YzFJcnA5dlBwelE0cnY4SmV3SEd3OUotd09EM0xleTFOcDlybzJla25wY1Z2ZGJfWFVBbW5DeEFzcW8wUm1XN2t6R09heURUakJNcw",
    "source": "东方财富",
    "published_at": "2026-10-08T23:34:48+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "东方财富",
      "published_at": "2026-10-08T23:34:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81d1BObnF0cm5kMm1mLTY0YzFJcnA5dlBwelE0cnY4SmV3SEd3OUotd09EM0xleTFOcDlybzJla25wY1Z2ZGJfWFVBbW5DeEFzcW8wUm1XN2t6R09heURUakJNcw"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-09T00:12:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFR5aW1DV2FieWtiOUkwUm5tTWh4bFdLMlJ4XzdwcFVVLXZ0V1ZUV0pjTUc4Y25WN2Y0Tmp2ek5lVWFNN1E0NzZSQVRZdXk4aDVYWEsxUzhtZGRnOHNNMDYxNU56TGZVbnpXV1hHMFZJLV9hQWtueUtQWlZIY1pOemVxLXJnQWViWkJITA"
     }
    ],
    "category": "其他",
@@ -185,6 +207,23 @@
    "zh_summary": "三星12层HBM4E通过英伟达验证",
    "title_zh": "韩媒称三星12层HBM4E通过英伟达等客户验证 但尚无供货合同披露 - 集微网",
    "sentiment": 0
+  },
+  {
+   "id": "944ad60dc2b6",
+   "title": "美股半导体股全线下跌，英伟达市值一夜蒸发超万亿元 - 网易新闻客户端",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJcllDQjRJMFhEejBXV1g4bUEtRkh4RmtWbG8xTk15aG9xdEtHWnF1clpsT2R0TklfQUF2d3N5N0o1YTd4NFdBeFZ1aUJwS1JoMHAyRDVFTG83Qmpu",
+   "source": "网易新闻客户端",
+   "published_at": "2026-10-08T23:28:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网易新闻客户端",
+     "published_at": "2026-10-08T23:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJcllDQjRJMFhEejBXV1g4bUEtRkh4RmtWbG8xTk15aG9xdEtHWnF1clpsT2R0TklfQUF2d3N5N0o1YTd4NFdBeFZ1aUJwS1JoMHAyRDVFTG83Qmpu"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "d7f667b42900",
@@ -277,13 +316,38 @@
    "sentiment": -1
   },
   {
-   "id": "a7174165c948",
-   "title": "美股半导体股全线下跌，英伟达市值一夜蒸发超万亿元，加密货币19万人爆仓 - 21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTA5VENrcWtWenJPcWlVY1JjdmtqV1IyaWg5SEdXNXJhaFYtNGVUeXJDb3JaaVNlMVlVQzFfa1FnazhZNVRFeTdudWdvck5yd2h5UUlWR1VZWnFhSW9ELTZVY2V5dnJPT3o1M0RIS0ZWdjFTSmZsbUFzdzVBLTkyVHhMdFlFMUlTZGd6c1dJYw",
-   "source": "21财经",
-   "published_at": "2026-10-08T23:14:00+00:00",
-   "outlets_count": 4,
+   "id": "77452483c0b5",
+   "title": "英伟达宣布投入10亿美元助力美国\"超级智能\"研发 - 虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SSno2N28xNzRQUHpqMjIxVWk5dzlmLXlqZTc4SkJZQldHbU05VUIzVXhiaFdvTlI1emtqWjZmWHdhek5tX1FKM2EyNjh2Vl9lMTM4",
+   "source": "虎嗅网",
+   "published_at": "2026-10-08T23:08:39+00:00",
+   "outlets_count": 1,
    "outlets": [
+    {
+     "name": "虎嗅网",
+     "published_at": "2026-10-08T23:08:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SSno2N28xNzRQUHpqMjIxVWk5dzlmLXlqZTc4SkJZQldHbU05VUIzVXhiaFdvTlI1emtqWjZmWHdhek5tX1FKM2EyNjh2Vl9lMTM4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "英伟达投入10亿美元助力美国超级智能研发",
+   "title_zh": "英伟达宣布投入10亿美元助力美国\"超级智能\"研发 - 虎嗅网",
+   "sentiment": 1
+  },
+  {
+   "id": "c5c45d9b917a",
+   "title": "美股半导体股全线下跌，英伟达市值一夜蒸发超万亿元，加密货币19万人爆仓，特朗普称中期选举前不会攻击伊朗 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CakFKcE80d1Y4UVpJLU9UU1BtYUdUenNkZVdfaUNoVkYyaW42OVljV3UzRW5wXzF0X19ZQ1c0U1I1NUJaVHNiUldzUml6WDZZM0w4VDZDSExFRE1XMkZyeGtRbkxnWU9uNE96WjNvV1EtQkV6OGc",
+   "source": "新浪财经",
+   "published_at": "2026-10-08T23:03:00+00:00",
+   "outlets_count": 5,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-08T23:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CakFKcE80d1Y4UVpJLU9UU1BtYUdUenNkZVdfaUNoVkYyaW42OVljV3UzRW5wXzF0X19ZQ1c0U1I1NUJaVHNiUldzUml6WDZZM0w4VDZDSExFRE1XMkZyeGtRbkxnWU9uNE96WjNvV1EtQkV6OGc"
+    },
     {
      "name": "21财经",
      "published_at": "2026-10-08T23:14:00+00:00",
@@ -311,26 +375,6 @@
    "zh_summary": "英伟达市值一夜蒸发超万亿元",
    "title_zh": "美股半导体股全线下跌，英伟达市值一夜蒸发超万亿元，加密货币19万人爆仓 - 21财经",
    "sentiment": -1
-  },
-  {
-   "id": "77452483c0b5",
-   "title": "英伟达宣布投入10亿美元助力美国\"超级智能\"研发 - 虎嗅网",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SSno2N28xNzRQUHpqMjIxVWk5dzlmLXlqZTc4SkJZQldHbU05VUIzVXhiaFdvTlI1emtqWjZmWHdhek5tX1FKM2EyNjh2Vl9lMTM4",
-   "source": "虎嗅网",
-   "published_at": "2026-10-08T23:08:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "虎嗅网",
-     "published_at": "2026-10-08T23:08:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SSno2N28xNzRQUHpqMjIxVWk5dzlmLXlqZTc4SkJZQldHbU05VUIzVXhiaFdvTlI1emtqWjZmWHdhek5tX1FKM2EyNjh2Vl9lMTM4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达投入10亿美元助力美国超级智能研发",
-   "title_zh": "英伟达宣布投入10亿美元助力美国\"超级智能\"研发 - 虎嗅网",
-   "sentiment": 1
   },
   {
    "id": "ccf11d1f53f9",
@@ -737,6 +781,23 @@
    "zh_summary": "OpenAI收入缺口200亿美元引发AI股抛售",
    "title_zh": "英伟达等AI股为何下跌？OpenAI 200亿美元收入缺口引发抛售",
    "sentiment": -1
+  },
+  {
+   "id": "cd74b2bf3fc8",
+   "title": "英伟达期权聚焦：10月8日成交297.76万张，未平仓合约1,515.96万张 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUp1c09zeHBSTy10el9kNFZrRVhsbmpYRWhWUWhCUjJtd0V1VDFHZFlVYnU2VDg1X20zeHZxc3ZVSF9iM1dhd29PXzUwZkpiNWM5RHpMWUEzcFZWcmtOaHdVRHBZRGk1c2ExNmNFY3diS2Q1WGkxWWNPRkZjSmFrYXJxb19hMGhGdm9rZWtuTlRwdnJobjQtZm1xdmM0RW1D",
+   "source": "Moomoo",
+   "published_at": "2026-10-08T20:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-08T20:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUp1c09zeHBSTy10el9kNFZrRVhsbmpYRWhWUWhCUjJtd0V1VDFHZFlVYnU2VDg1X20zeHZxc3ZVSF9iM1dhd29PXzUwZkpiNWM5RHpMWUEzcFZWcmtOaHdVRHBZRGk1c2ExNmNFY3diS2Q1WGkxWWNPRkZjSmFrYXJxb19hMGhGdm9rZWtuTlRwdnJobjQtZm1xdmM0RW1D"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "cc8ca414a0e5",
@@ -5018,26 +5079,6 @@
    "sentiment": 1
   },
   {
-   "id": "f4fd094910a0",
-   "title": "华为昇腾份额超过英伟达 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbmRsT0pObHNnbnVoNTdNTlI4S2xNNGcwWXYzamxRb3R4OHU5OGppY0FxYkNFdkZDZ3dHS3FyaU1lV2tCSFFqVzJVeEswTEtnQWY3QVlSQUtPV3NPRXI1SHJDU3lIY3RwV1BjcG8yaXBCY21kbFZ1cGREbGJILXc",
-   "source": "新浪网",
-   "published_at": "2026-10-08T05:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-08T05:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HbmRsT0pObHNnbnVoNTdNTlI4S2xNNGcwWXYzamxRb3R4OHU5OGppY0FxYkNFdkZDZ3dHS3FyaU1lV2tCSFFqVzJVeEswTEtnQWY3QVlSQUtPV3NPRXI1SHJDU3lIY3RwV1BjcG8yaXBCY21kbFZ1cGREbGJILXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "华为昇腾市场份额超过英伟达",
-   "title_zh": "华为昇腾份额超过英伟达",
-   "sentiment": -1
-  },
-  {
    "id": "203a7868b687",
    "title": "LIVE: Microsoft partners with Nvidia to announce joint Windows & Local AI Event - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1Z5dDhralFsdDNuWUlUNTZXS3BuRnVIb2lOUFNMdzRDYTdlSTRMRnNudjBzYTBuNlhpQnFHMDBxbFpnSUgxS0ktbFhmbTZjQnJGTTJ0T3BkZldKNjVSZkRUWWZCMER3U2R5SGcxTVh6T2d6S0JabmNFUUVRLUhKWjE2anNHbm9GSlhQbEpHT1NvWjZ2ZVJYM0ljb05saWYwTENpT2VnZWJYZFZscFh6YTJWZE8yLURyUTFVLTY1aDJrQQ",
@@ -5255,26 +5296,6 @@
    "session": "盘后",
    "zh_summary": "英伟达进军PC市场打响第一枪",
    "title_zh": "英伟达叩响PC大门：Surface Laptop Ultra打响Wintel联盟第一枪 - www.or100.cc",
-   "sentiment": 1
-  },
-  {
-   "id": "f84f80d30ec4",
-   "title": "美股Q3财报季将登场：标普500盈利料增近三成 英伟达美光“唱主角” - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Zb1liWENKQ3p1NmsyQmxMVWgwRFYybi1PY3pJUWY0THA2SURkcUVabWxOQkpHcmI4cEpOa2RWZzhPX0JMVkVzSw",
-   "source": "财联社",
-   "published_at": "2026-10-08T03:19:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-08T03:19:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Zb1liWENKQ3p1NmsyQmxMVWgwRFYybi1PY3pJUWY0THA2SURkcUVabWxOQkpHcmI4cEpOa2RWZzhPX0JMVkVzSw"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "标普Q3盈利料增近三成，英伟达领衔",
-   "title_zh": "美股Q3财报季将登场：标普500盈利料增近三成 英伟达美光“唱主角” - 财联社",
    "sentiment": 1
   },
   {
@@ -5858,6 +5879,23 @@
    "zh_summary": "DGX Station将支持Windows",
    "title_zh": "英伟达DGX Station转Windows：748GB，20 PFLOPs",
    "sentiment": 1
+  },
+  {
+   "id": "9eb6696ddc12",
+   "title": "Microsoft looks to reboot the AI PC with Nvidia - Axios",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmpGQ0x6Umk4NEY4YlpBaE1KN19wcE1rbklvV3lOdUk5TjhDUEJKUHFOOWdiNU1vem9FTTVfcTBaX0FGQXptZ3lYT1NDeTlrX21jeG5JWjA4bDdxQXhKNm5id3R5UGRoYkJaUjA1TVV2NzNOUkx5UXNDZ3ZCNWZqV2xzbnJFbzg",
+   "source": "Axios",
+   "published_at": "2026-10-08T01:16:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Axios",
+     "published_at": "2026-10-08T01:16:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmpGQ0x6Umk4NEY4YlpBaE1KN19wcE1rbklvV3lOdUk5TjhDUEJKUHFOOWdiNU1vem9FTTVfcTBaX0FGQXptZ3lYT1NDeTlrX21jeG5JWjA4bDdxQXhKNm5id3R5UGRoYkJaUjA1TVV2NzNOUkx5UXNDZ3ZCNWZqV2xzbnJFbzg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "faca93b6141f",
@@ -6672,46 +6710,6 @@
    "zh_summary": "SpaceX寻求400亿美元购买英伟达AI芯片",
    "title_zh": "SpaceX寻求400亿美元买英伟达AI芯片，Starlink获FCC新批准",
    "sentiment": 2
-  },
-  {
-   "id": "2ac1489963c4",
-   "title": "Trump to Honor Elon Musk, Nvidia’s Huang With Science Awards - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG1lYmxxSGE5bFFXeUdrU1JLR2FrRi02MFVLeHgydmZfemtLVTdxeC1VWG1PNDFVbnVhaTlPSzVfclVtR0YxVkVzRllXQ3BGR2tjZUZFblhHcDlCOTBCenlCem1WS0dmRmd2N0lvbE0yWWhGbzhlMkFHelZqVTVTejVfQlNSTlJnODJ4dzJ2b3p0SHRhU0IwT0M1V3EzdFFWajdKb3J5Z0VBLW40emk4",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-07T20:33:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-07T20:33:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG1lYmxxSGE5bFFXeUdrU1JLR2FrRi02MFVLeHgydmZfemtLVTdxeC1VWG1PNDFVbnVhaTlPSzVfclVtR0YxVkVzRllXQ3BGR2tjZUZFblhHcDlCOTBCenlCem1WS0dmRmd2N0lvbE0yWWhGbzhlMkFHelZqVTVTejVfQlNSTlJnODJ4dzJ2b3p0SHRhU0IwT0M1V3EzdFFWajdKb3J5Z0VBLW40emk4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特朗普将向黄仁勋授予科学奖",
-   "title_zh": "特朗普将向马斯克、英伟达黄仁勋授予科学奖",
-   "sentiment": 1
-  },
-  {
-   "id": "ef3b772b2430",
-   "title": "SpaceX stock slips on report of its $40 billion in new debt for Nvidia chips - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUmpyUVZ1UWIzcy1TeXItY2FQMU1CMk1uUW1YcVBfdGdxUkdwX0JJTjE3c3FFYXh5dkVrZHhYUEljS0ZqLTg5cTJ3WnA2LWFvMFJSWHpFckNYUkw3SF9odVFFUWktMUtQSDV4QzJrRnhqOV8zLVNJa1Z3NHlXUTB5d2FEUlRBVnUxUGlZT3hMbmtPT1BQaGJGUEdwZVFfa0pCME5kWHFqVUNaYUlWSE5Zc2tWNkJVM2VYa3pYSmY1eXdEeVBCcHBaNk91ZmxhZ2l5NUxYOTVB",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-07T20:33:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-07T20:33:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUmpyUVZ1UWIzcy1TeXItY2FQMU1CMk1uUW1YcVBfdGdxUkdwX0JJTjE3c3FFYXh5dkVrZHhYUEljS0ZqLTg5cTJ3WnA2LWFvMFJSWHpFckNYUkw3SF9odVFFUWktMUtQSDV4QzJrRnhqOV8zLVNJa1Z3NHlXUTB5d2FEUlRBVnUxUGlZT3hMbmtPT1BQaGJGUEdwZVFfa0pCME5kWHFqVUNaYUlWSE5Zc2tWNkJVM2VYa3pYSmY1eXdEeVBCcHBaNk91ZmxhZ2l5NUxYOTVB"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "SpaceX因400亿美元债务消息股价下跌",
-   "title_zh": "SpaceX为购英伟达芯片举债400亿美元，股价下跌",
-   "sentiment": 1
   }
  ]
 }
