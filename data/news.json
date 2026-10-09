@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T12:36:32.582956+00:00",
+ "updated_at": "2026-10-09T12:51:31.977799+00:00",
  "market": {
   "price": 230.48,
   "change_pct": -2.94,
@@ -10,8 +10,8 @@
    "days_left": 39
   },
   "day_sentiment": {
-   "avg": 0.47,
-   "count": 75
+   "avg": 0.44,
+   "count": 77
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.47（75条已评分）"
+     "note": "今日新闻情绪 +0.44（77条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.8,
    "ma20": 226.18,
-   "as_of": "2026-10-09T12:36:32.565325+00:00"
+   "as_of": "2026-10-09T12:51:31.962305+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ec6663ef5969",
+   "title": "Exposed Nvidia GPU monitors can reveal AI infrastructure secrets - CSO Online",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2xxOGpTMDFtRVQ4OGlvZDU2R09udVJ3d29pMGpfdU5HaEliODRBczFSV0NubzZYWFNBV1FtNHMwWWVuNlFiQVhTa1pScGE1d1FlYWlaTUg1TWVtakd3NGo2aElzRTN1YkozamtJdW1ZTHp3VkYxenBKV2dzbWthWEpremJ5YkpwcUx3bEN5Z0I4YndfT0V2T1l0c3NFZVhvbmw5eWRzdkQ3TmctRTNISA",
+   "source": "CSO Online",
+   "published_at": "2026-10-09T12:36:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CSO Online",
+     "published_at": "2026-10-09T12:36:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2xxOGpTMDFtRVQ4OGlvZDU2R09udVJ3d29pMGpfdU5HaEliODRBczFSV0NubzZYWFNBV1FtNHMwWWVuNlFiQVhTa1pScGE1d1FlYWlaTUg1TWVtakd3NGo2aElzRTN1YkozamtJdW1ZTHp3VkYxenBKV2dzbWthWEpremJ5YkpwcUx3bEN5Z0I4YndfT0V2T1l0c3NFZVhvbmw5eWRzdkQ3TmctRTNISA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "a501d0a2af68",
    "title": "High-severity NVIDIA vulnerability lets unauthenticated attackers crash GPU monitoring - Help Net Security",
@@ -180,6 +197,23 @@
    "zh_summary": "英伟达拟投资推理芯片初创d-Matrix",
    "title_zh": "报道：英伟达计划投资推理芯片初创公司d-Matrix",
    "sentiment": 1
+  },
+  {
+   "id": "1cbd6c96926c",
+   "title": "Guess Who's Back? Apple, Nvidia, Meta And More Titans Make This Triumphant Return - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWFsY25rNE1FcUdTNFBVX2VzRVhLWkxEQlZ3Q2dSaGdGcklnbS1xblNmdEozRW9nNzBwYWxYcmJvdVBxc2NrLTU4NWxGNkVZLWRCV3VONGNsTnVRQWZucmdKU215ejhJcTZBWTZPcnJSSDFzMjF4Mml3SkF5TkxwMjA1SXJHMVgtdW8yNHhpS2JoUnotRTQ2OUYxTkRsMUdiWnBDWUxHSFZ2S3BMbDhhN1ZIZWJ3emJ0bFZCb3RackJvcnlENGxLLU5IdmE",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-10-09T12:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-10-09T12:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWFsY25rNE1FcUdTNFBVX2VzRVhLWkxEQlZ3Q2dSaGdGcklnbS1xblNmdEozRW9nNzBwYWxYcmJvdVBxc2NrLTU4NWxGNkVZLWRCV3VONGNsTnVRQWZucmdKU215ejhJcTZBWTZPcnJSSDFzMjF4Mml3SkF5TkxwMjA1SXJHMVgtdW8yNHhpS2JoUnotRTQ2OUYxTkRsMUdiWnBDWUxHSFZ2S3BMbDhhN1ZIZWJ3emJ0bFZCb3RackJvcnlENGxLLU5IdmE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "ca333ef540b3",
@@ -1052,31 +1086,6 @@
    "sentiment": -1
   },
   {
-   "id": "d970d3b4c650",
-   "title": "Why Are Nasdaq Futures Surging Premarket? SPCX, ASTS, AAPL, TMUS, VZ, NVDA, MU, LITE Stocks In Focus - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTDVaRVlxR2F0Z1gwTUZRRW1GeHlvVVBBd2syd1Rqcm56Tlc0VnppYnc2MjJPVE0yZGdLWmJycWtWcnJKa2hLYlBRWktVY1FGdFFlNVZxNmJ0eHk1N3FDNlRDTmhKMTVuV0tUVEpFUFJZT3BxbnZfVUg0S3k3VjFEeHBTalJONzVUQzBBb003eEt0aG5DWktuQTJGZFIyY1oyX0xvREEyMzVuYUN4OTU3cUxpcVl6RGtBeno3NmswQzc1WndZdVRYWGFwbFhpOHp6V0tMTTJYS1lDLWxoaVY2Y1FFTEhabmxRNEFZTg",
-   "source": "Stocktwits",
-   "published_at": "2026-10-09T07:54:06+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-09T07:54:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTDVaRVlxR2F0Z1gwTUZRRW1GeHlvVVBBd2syd1Rqcm56Tlc0VnppYnc2MjJPVE0yZGdLWmJycWtWcnJKa2hLYlBRWktVY1FGdFFlNVZxNmJ0eHk1N3FDNlRDTmhKMTVuV0tUVEpFUFJZT3BxbnZfVUg0S3k3VjFEeHBTalJONzVUQzBBb003eEt0aG5DWktuQTJGZFIyY1oyX0xvREEyMzVuYUN4OTU3cUxpcVl6RGtBeno3NmswQzc1WndZdVRYWGFwbFhpOHp6V0tMTTJYS1lDLWxoaVY2Y1FFTEhabmxRNEFZTg"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-09T08:38:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRlRPdWJWU3UtNTVHSUdxSDdObHVsZ0N2cTRwd3dsczA1WExnV2xrZ3M3Nl9rVFZvbkdzcl9YNllwWHZNSTRWTGdXV3J0WjZuS0VKTFh1RlFCZWlTWXRmU2MxT2FDSzg1THZ3c2k3Z090TVl2UWRVdUtSQlJldEU1NkllQUI2MlRfRFdFOUtTeTJfZ2RDUVc3VGZ2MWpyQzJxdUpj"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "盘前纳指期货上涨，多只芯片股受关注",
-   "title_zh": "盘前为何纳指期货上涨？NVDA等股票成焦点",
-   "sentiment": 1
-  },
-  {
    "id": "e41879b51b82",
    "title": "英伟达推开源Rust GPU驱动Nova，目标替代Nouveau并主线集成Linux内核 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUhMalp4cExTSlh2MVh0c1pBcUVtaVpET3FKMUw5QmxKMjBSVXRVWXNubUpueVkzY09RalVaYzk1R1BwVzRTVjR3TGNZVmFQYk1RaGxWSi1seS1peEZRTUpNNGo5QW43Z3lONUM3S3Z1UFVBRG56NmJDTnFaUElEWTJ6TVlrZ3pn",
@@ -1315,6 +1324,23 @@
    "zh_summary": "蓝鲸资本增持英伟达股票",
    "title_zh": "蓝鲸资本增持英伟达股票",
    "sentiment": 1
+  },
+  {
+   "id": "fbc52b4f1964",
+   "title": "NVIDIA Corporation $NVDA Stock Holdings Cut by OMERS ADMINISTRATION Corp - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLVdRMEZCRUY4YlIyMlBwUW5fR3RZa3d3YUplRkZCSGc4NXcta09MOG9SWnFTMDlua2J6X1c0RkpkR3BldEpDZmIzSEZrUnBKUDlnSE1MaEhyNFJPcV94TWQyVDZ6QlhNTHFFWktnVFpDNnAyd2VDZlJ2Yjk4dXhLZ0U3NHZYWmxvS2x2X080ckh2cEw0bl90c2RKcWZ5MmFLZGVfTWI2bEs2Vk9DUE5TNW14WEpTQ2w4RXZkM3pnek9iMFp6X21uaG1mdi0",
+   "source": "MarketBeat",
+   "published_at": "2026-10-09T07:37:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-09T07:37:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLVdRMEZCRUY4YlIyMlBwUW5fR3RZa3d3YUplRkZCSGc4NXcta09MOG9SWnFTMDlua2J6X1c0RkpkR3BldEpDZmIzSEZrUnBKUDlnSE1MaEhyNFJPcV94TWQyVDZ6QlhNTHFFWktnVFpDNnAyd2VDZlJ2Yjk4dXhLZ0U3NHZYWmxvS2x2X080ckh2cEw0bl90c2RKcWZ5MmFLZGVfTWI2bEs2Vk9DUE5TNW14WEpTQ2w4RXZkM3pnek9iMFp6X21uaG1mdi0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "c6b064c7c438",
@@ -4481,12 +4507,17 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY1VFWjlLYVZTU1lPMHdtMm4wOWRZVllXbFVfdW01OWdQVzNjSUZ6c29mS3hHUzVpV3lzYXFCbGdhRFZQcWhXaTdYVENyUkdYZ2xSdUQ3YVRhaVVvUGItTXFvdG5NSFgyR2JsRzdrVmxlYjBHQjdoeXgxcVVXNGNKOU03Y3JIMU01YUlfaThRd3NiU2pTaWVNR1RfR0p5bEVVT2ow",
    "source": "The Quantum Insider",
    "published_at": "2026-10-08T17:17:20+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Quantum Insider",
      "published_at": "2026-10-08T17:17:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY1VFWjlLYVZTU1lPMHdtMm4wOWRZVllXbFVfdW01OWdQVzNjSUZ6c29mS3hHUzVpV3lzYXFCbGdhRFZQcWhXaTdYVENyUkdYZ2xSdUQ3YVRhaVVvUGItTXFvdG5NSFgyR2JsRzdrVmxlYjBHQjdoeXgxcVVXNGNKOU03Y3JIMU01YUlfaThRd3NiU2pTaWVNR1RfR0p5bEVVT2ow"
+    },
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-09T12:35:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2hCYUVNcUx0Tk15YWRsa1dQWEZLNG90THhKa3NnQ01PRUxUcmNSU2hRTThjY19VbGtJd2pfcndUWXlkWmx1TjVfc1hUTnl1ckNhWHBvVDhTMGpTZlE2NHVkU3FNRmNuVVpaT3lackdpeUs2UGU4LUxFWlBnUmtXQWNMVzRJWHZ6"
     }
    ],
    "category": "其他",
@@ -6693,51 +6724,6 @@
    "zh_summary": "英伟达Linux驱动修复游戏Bug",
    "title_zh": "英伟达Linux驱动修复四个月前论坛报告的游戏Bug",
    "sentiment": 0
-  },
-  {
-   "id": "46753cbd63de",
-   "title": "美股讯号 | SpaceX 寻求融资 400 亿美元以购买英伟达芯片 ｜#美股资讯# #SpaceX# #行业动态# - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUtMZkhSN3FmZVRzZVBCQ3h0WHBXS0t3aXFhLXRPaUc1Rk5WSnJNV1BMSm1MWTB4S3hlT1RuaGp3RVBkeFZQMzNISkVUd3NXMTZwQXhKalJISzdwaDl6MTc1eGM5LTlRSC1hd1FOenB4cEpBX29WWnJ3RjBQV1FwVDNRSjlDcUhlT09xYg",
-   "source": "搜狐网",
-   "published_at": "2026-10-08T12:07:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T12:07:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUtMZkhSN3FmZVRzZVBCQ3h0WHBXS0t3aXFhLXRPaUc1Rk5WSnJNV1BMSm1MWTB4S3hlT1RuaGp3RVBkeFZQMzNISkVUd3NXMTZwQXhKalJISzdwaDl6MTc1eGM5LTlRSC1hd1FOenB4cEpBX29WWnJ3RjBQV1FwVDNRSjlDcUhlT09xYg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "SpaceX 寻求融资400亿美元购买英伟达芯片",
-   "title_zh": "美股讯号 | SpaceX 寻求融资 400 亿美元以购买英伟达芯片 ｜#美股资讯# #SpaceX# #行业动态# - 搜狐网",
-   "sentiment": 1
-  },
-  {
-   "id": "0fc7814ad9e3",
-   "title": "Nvidia-backed Iambic Therapeutics targets up to $806 million valuation in US IPO - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMjJlX1F1VHJ0d0dIV2tuQk9WWGNIOW95cy11RUlwb1NSUFBpcHBCemZ5dVBROTZ6Y3lPSEdnNGFVbld5Um5DMFZuTUNMQk53c3d2cmZhSWlMNTBxc3ZNVVZOUnBrR3ZmVWRDdXdjUGYwV1JjcTB3SW8wV095SWJRTktoYVMxTmRkZmxveXQ0WWVEU2k0ZDJESWxaM1hJUmpRTDlOUE8yTVZtWTczV2JVQUo3dk1WMlhsa3hva2ZMYmtEM19wYkd0OTU1Uzg0XzJPMUxRU3dzVk4tcmlTU21MOVVNZw",
-   "source": "TradingView",
-   "published_at": "2026-10-08T12:06:33+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-08T12:06:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMjJlX1F1VHJ0d0dIV2tuQk9WWGNIOW95cy11RUlwb1NSUFBpcHBCemZ5dVBROTZ6Y3lPSEdnNGFVbld5Um5DMFZuTUNMQk53c3d2cmZhSWlMNTBxc3ZNVVZOUnBrR3ZmVWRDdXdjUGYwV1JjcTB3SW8wV095SWJRTktoYVMxTmRkZmxveXQ0WWVEU2k0ZDJESWxaM1hJUmpRTDlOUE8yTVZtWTczV2JVQUo3dk1WMlhsa3hva2ZMYmtEM19wYkd0OTU1Uzg0XzJPMUxRU3dzVk4tcmlTU21MOVVNZw"
-    },
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-08T12:08:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT2duSWZGV1gtNHhZUVRCMHQ4QTN4ZzAzOFR1QjVlbmNfdEYwRG9HRWc1ai1WUXV0TFlESmpzSnhQSW1jT2xDYmdhSXZrXzZTUFVyX1N5VFltX2VyVDZPeEUzZ0hxYnB1MmpYYVhvU3h0VlB3MjZrMThFZFhwMkk2cEw0eGdKSHdySTJEWTNsZklka25TamNFbG91UXRPSjJPYjl4d2JvREdwa2QyeTh5bHpRN3dmUXJzbXRUOFJacHpuM3M0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达支持的Iambic赴美IPO",
-   "title_zh": "英伟达支持的Iambic赴美IPO，估值至多8.06亿美元",
-   "sentiment": 1
   }
  ]
 }
