@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T01:21:33.220504+00:00",
+ "updated_at": "2026-10-09T01:36:30.593076+00:00",
  "market": {
-  "price": 237.47,
-  "change_pct": -0.74,
+  "price": 230.48,
+  "change_pct": -2.94,
   "as_of": "2026-10-08",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.28,
-   "count": 232
+   "count": 235
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 98% 分位（偏高）"
+     "note": "现价处于52周区间 88% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $318（14家），隐含空间 +33.7%"
+     "note": "目标价中位数 $318（14家），隐含空间 +37.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（232条已评分）"
+     "note": "今日新闻情绪 +0.28（235条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $237.47 vs 20日均线 $225.58"
+     "note": "现价 $230.48 vs 20日均线 $226.18"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 98,
+   "price_52w_pct": 88,
    "target_median": 317.5,
    "target_count": 14,
-   "implied_upside_pct": 33.7,
-   "ma20": 225.58,
-   "as_of": "2026-10-09T01:21:33.199195+00:00"
+   "implied_upside_pct": 37.8,
+   "ma20": 226.18,
+   "as_of": "2026-10-09T01:36:30.580760+00:00"
   },
-  "pe_ttm": 30.2,
-  "pe_pct_5y": 28,
-  "valuation_sentence": "现价处5年P/E 28%分位，目标价隐含+33.7%空间：估值偏低，预期乐观"
+  "pe_ttm": 29.3,
+  "pe_pct_5y": 27,
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "25d00b3f03a9",
+   "title": "天阳科技采购2万张英伟达GPU_7x24快讯_新浪财经 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyaHBBQ2xEVnFvVE9xOWJBam8zem1jQVhzd2xMbE5MOGNuWnhRQ3VZRDQxUnppcTNSZ3VzUXZtZV8zSWYyLW9DTkw1QQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-09T01:29:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-09T01:29:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyaHBBQ2xEVnFvVE9xOWJBam8zem1jQVhzd2xMbE5MOGNuWnhRQ3VZRDQxUnppcTNSZ3VzUXZtZV8zSWYyLW9DTkw1QQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "67ebe94e93e2",
+   "title": "英伟达推出机器人控制模型 Long-WAM - DoNews",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lZTFYeUVBcVRNbnNXN3dUQm1nakpmV1hKSEFWY2pfa0Z3a056cnBYS1Z0UkxMSEpDSGZsYWVsMGhXOG5mRDlUbG0xT09WN3NtMFVKMGI5a19iMnBRVGc",
+   "source": "DoNews",
+   "published_at": "2026-10-09T01:29:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "DoNews",
+     "published_at": "2026-10-09T01:29:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lZTFYeUVBcVRNbnNXN3dUQm1nakpmV1hKSEFWY2pfa0Z3a056cnBYS1Z0UkxMSEpDSGZsYWVsMGhXOG5mRDlUbG0xT09WN3NtMFVKMGI5a19iMnBRVGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "e0303316bf4c",
+   "title": "美股涨跌不一，科技股大跌，英伟达市值蒸发超万亿元！国际油价飙升 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yTjJ5SzlCdTRzekttSWJoU2p1Vm90WlNLUU1nb2ZiSE5KT0pxTTROeVZEeGN5M3hGWnk1VmFIaUFhb3BHYjlndVB6VWVUU1Q1S3AyQWg3NVBXNVlTUkdOU2c3N3Y4QQ",
+   "source": "东方财富",
+   "published_at": "2026-10-09T01:18:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-09T01:18:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yTjJ5SzlCdTRzekttSWJoU2p1Vm90WlNLUU1nb2ZiSE5KT0pxTTROeVZEeGN5M3hGWnk1VmFIaUFhb3BHYjlndVB6VWVUU1Q1S3AyQWg3NVBXNVlTUkdOU2c3N3Y4QQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "fdd0c5a21a76",
    "title": "Is Jacobs Solutions (J) Undervalued Following Its NVIDIA AI Facility Deal? - Simply Wall Street",
@@ -80,6 +131,23 @@
    "zh_summary": "Jacobs与英伟达达成AI设施合作",
    "title_zh": "Jacobs与英伟达AI设施合作后是否被低估",
    "sentiment": 1
+  },
+  {
+   "id": "b6dfd2df1ae2",
+   "title": "公司是否有跟英伟达、谷歌等海外大厂合作？德明利回应 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWZsa0J3WkZ0bktKUktvUUxETzQ4ckhMaHdtek1KTFEwMlc2SVQyZ2FodlNlUDRxbjFZaHBLVEJzVDA1dG0tRXBQSFZUWnctZHVFUmEyOVFQd1h5TVZodkdzUFR0bS04ejFRQWg5Y1V0V3VGM0hYbTB4LV9tMnViU0JaNmZBaXlrS1RpNA",
+   "source": "搜狐网",
+   "published_at": "2026-10-09T01:12:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-09T01:12:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWZsa0J3WkZ0bktKUktvUUxETzQ4ckhMaHdtek1KTFEwMlc2SVQyZ2FodlNlUDRxbjFZaHBLVEJzVDA1dG0tRXBQSFZUWnctZHVFUmEyOVFQd1h5TVZodkdzUFR0bS04ejFRQWg5Y1V0V3VGM0hYbTB4LV9tMnViU0JaNmZBaXlrS1RpNA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "0006bb242b02",
@@ -183,12 +251,17 @@
   },
   {
    "id": "9eda055a1ac8",
-   "title": "How Long Do Nvidia GPUs Get Software Updates? - BGR",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IbkZwb3FFY0lMRzc4TGJ4TlFXOEtXRmY1ZER2U09LTUxJQTRRQ1l4ZnFPU1NwemdvLXpwcTBEUUczMkJKQzQ0bGFiVC1JT0RtNnhUMF94NWlFeUNldXpSSTMyNUdwbTZsMDBHcXBpN2J6V3gyNkVUZ2V3",
-   "source": "BGR",
-   "published_at": "2026-10-09T00:20:13+00:00",
-   "outlets_count": 1,
+   "title": "How Long Do Nvidia GPUs Get Software Updates? - AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNamt1V1pBQ29PTTJYcENaaXRJMVR3MEJrVGgzUnExUHhqcGhQV2NZZ0tpcFNLb1Y3aW1hMzVVTV9lTW9EOEJodzNZQnExUWh2bnl2SlA0U3VNSE90a3hpd3hZTThBbE1yc0gyUWRxSTVHNmxrbTN2SElSM19ueDJrdWZuOA",
+   "source": "AOL.com",
+   "published_at": "2026-10-09T00:17:00+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-09T00:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNamt1V1pBQ29PTTJYcENaaXRJMVR3MEJrVGgzUnExUHhqcGhQV2NZZ0tpcFNLb1Y3aW1hMzVVTV9lTW9EOEJodzNZQnExUWh2bnl2SlA0U3VNSE90a3hpd3hZTThBbE1yc0gyUWRxSTVHNmxrbTN2SElSM19ueDJrdWZuOA"
+    },
     {
      "name": "BGR",
      "published_at": "2026-10-09T00:20:13+00:00",
@@ -240,6 +313,23 @@
    "zh_summary": "OpenAI收入不及预期传闻致英伟达等芯片股下跌",
    "title_zh": "OpenAI收入不及预期报道引发“过度担忧”，美光、英伟达等AI芯片股下跌 - 华尔街日报中文版",
    "sentiment": -1
+  },
+  {
+   "id": "809319b64426",
+   "title": "OpenAI年化收入低于此前报道约180亿美元，英伟达、甲骨文等AI股下跌；特朗普8月买入最高2500万美元Meta股票，并增持SpaceX债券｜全球科技早参 - 每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NR2czTnVhWHdhWW9EVEVDN2NtOTFPWmdHS3VtMkxnT0tObGNxRUlCak9GNEs4Y2RZdGFnTW9nM1pabHhSSVBZM2puZEx5aFJqRWpTbDNBUGpKUTdHVTBYQVh1UHJTZw",
+   "source": "每日经济新闻",
+   "published_at": "2026-10-08T23:59:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "每日经济新闻",
+     "published_at": "2026-10-08T23:59:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NR2czTnVhWHdhWW9EVEVDN2NtOTFPWmdHS3VtMkxnT0tObGNxRUlCak9GNEs4Y2RZdGFnTW9nM1pabHhSSVBZM2puZEx5aFJqRWpTbDNBUGpKUTdHVTBYQVh1UHJTZw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
   },
   {
    "id": "f505642b998a",
@@ -4704,26 +4794,6 @@
    "sentiment": -1
   },
   {
-   "id": "fa29996a3dcb",
-   "title": "NVIDIA Corporation $NVDA Stock Sold by Matters Capital LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejkxdGU3OVNyaHJHNklpZWZ3Zkxyc253Uzh3X1Y5RVpSSkc2bVluZGI4Zm43YkM3RFdzVDRIbVdhVmxpNnFzUGpwUldidmdoWGNwT3NiWG9HbmVsNjdBaWRoT01aWHBZSWlyWWEzS2hpb3dScm9tQWFZWloxZTVxTExyQ3c2VWkydEpaRS1DdWtwU3h5SndJaE9ScmFkUHFFeUFOUUVQQlgxX19XczVUbkxYZmFETUJOV2c",
-   "source": "MarketBeat",
-   "published_at": "2026-10-08T07:33:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-08T07:33:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejkxdGU3OVNyaHJHNklpZWZ3Zkxyc253Uzh3X1Y5RVpSSkc2bVluZGI4Zm43YkM3RFdzVDRIbVdhVmxpNnFzUGpwUldidmdoWGNwT3NiWG9HbmVsNjdBaWRoT01aWHBZSWlyWWEzS2hpb3dScm9tQWFZWloxZTVxTExyQ3c2VWkydEpaRS1DdWtwU3h5SndJaE9ScmFkUHFFeUFOUUVQQlgxX19XczVUbkxYZmFETUJOV2c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Matters Capital减持英伟达股票",
-   "title_zh": "Matters Capital LLC减持NVDA股票—MarketBeat",
-   "sentiment": -1
-  },
-  {
    "id": "c61973ae0cf9",
    "title": "Kendall Capital Management Raises Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaEx2MDdGeFpremY0Y0hubDRtTXdpVV85NGJRN1FrZnVNbEx3M0JXOXdhUGs4aUdWd2ZOVlpPajJIU2k2dmE3Zlc3OHV2NF9kWE81Nl9DSnRrcElQeEk0MGlKTllDRmxlY1FaOW1iSWpUN3h5SUtfeDFyZDZGS1pQU0hSWEZOU0l5Y28wRWI5ZUNiQzNyZDRMRlMycFFTNXdFYnEzZUdoVXNNOEZ1NmFMbmZZbnhUczRWYVZ6Y0k1eFh6allSU1Jad2NWMWpVMW5Pa1E",
@@ -4822,6 +4892,26 @@
    "zh_summary": "Haverford Trust增持英伟达",
    "title_zh": "Haverford Trust增持英伟达$NVDA股份",
    "sentiment": 1
+  },
+  {
+   "id": "a0078e29931e",
+   "title": "NVIDIA Corporation $NVDA Stock Bought by GQG Partners LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlVNMnR4V09aZWxWeVYwWDZwX3E0ZktJaURFejRHMWU5WmZoSnlJaEJpOVJNWjVfYVU4czltaFR1LUR1NGNPR0owVXlMRGpTY0NkcFlQNDZMT1hwRXpHV1dHM2lsZ0psMjNUTWNwaTlzREdaampRUi1aQV82c2h0X0NrMUMtQ2JjT1g2R1pCSHNEcHZCZGZ3VWRqUDdjcFg2TFk2ZkhnSFA5TzJnWHNxWHV0eDJwbmRW",
+   "source": "MarketBeat",
+   "published_at": "2026-10-08T07:31:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-08T07:31:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlVNMnR4V09aZWxWeVYwWDZwX3E0ZktJaURFejRHMWU5WmZoSnlJaEJpOVJNWjVfYVU4czltaFR1LUR1NGNPR0owVXlMRGpTY0NkcFlQNDZMT1hwRXpHV1dHM2lsZ0psMjNUTWNwaTlzREdaampRUi1aQV82c2h0X0NrMUMtQ2JjT1g2R1pCSHNEcHZCZGZ3VWRqUDdjcFg2TFk2ZkhnSFA5TzJnWHNxWHV0eDJwbmRW"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "Matters Capital减持英伟达股票",
+   "title_zh": "Matters Capital LLC减持NVDA股票—MarketBeat",
+   "sentiment": -1
   },
   {
    "id": "a6e0daf934cc",
@@ -6588,130 +6678,6 @@
    "session": "盘后",
    "zh_summary": "英伟达新工作站可本地运行万亿参数模型",
    "title_zh": "英伟达新工作站本地跑万亿参数模型 万亿参数AI模型，正式入驻你的桌面 - 搜狐网",
-   "sentiment": 1
-  },
-  {
-   "id": "43322053646c",
-   "title": "英伟达工作站可本地跑万亿参数模型 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU293YTV1ZkNfWmlaUmtGbjdmWGhvbllON0xBU2xDdFZ6QW5ma2RiZ0Z3eWNDZW9JdlcySjZjU0RXa3BoT3F0VG9VN2xXMTRIaG5GQTFER1FjbE5HTTJMTEc1R0VCbDEzWnE4ekNxQ05aQ0FLSnVIOFh1VHFOeFpPOExaWl9EdHNn",
-   "source": "搜狐网",
-   "published_at": "2026-10-07T22:39:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-07T22:39:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU293YTV1ZkNfWmlaUmtGbjdmWGhvbllON0xBU2xDdFZ6QW5ma2RiZ0Z3eWNDZW9JdlcySjZjU0RXa3BoT3F0VG9VN2xXMTRIaG5GQTFER1FjbE5HTTJMTEc1R0VCbDEzWnE4ekNxQ05aQ0FLSnVIOFh1VHFOeFpPOExaWl9EdHNn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达工作站可本地运行万亿参数模型",
-   "title_zh": "英伟达工作站可本地跑万亿参数模型 - 搜狐网",
-   "sentiment": 1
-  },
-  {
-   "id": "5c95a9374c42",
-   "title": "华硕推出 ProArt P14/P16 笔记本：搭载英伟达 RTX Spark 超级芯片 - IT之家",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pRVljTGFRU1U4UnRIbmtGaksyVENQU09UcE1LUkVidHVKZ0VqaXZwR3VnMmV2M0t4S3Zac3E3QUFSOFlhd1I4eExjbFBVQQ",
-   "source": "IT之家",
-   "published_at": "2026-10-07T22:27:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "IT之家",
-     "published_at": "2026-10-07T22:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pRVljTGFRU1U4UnRIbmtGaksyVENQU09UcE1LUkVidHVKZ0VqaXZwR3VnMmV2M0t4S3Zac3E3QUFSOFlhd1I4eExjbFBVQQ"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-07T22:27:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2cxa2x3TG1hZDZJSnJTS1NQZkNUMFA5R3hPdFZRY000em5EZ1RwQVZGYTRNNXJOSG1hdFVwd3pjemhETWJtcVZaYy1DRjFrSmF1WlFzQVl5RkhVa2trU2tmNDJ4Ym1pYXQ3VmFEWm8yTFltdy1UWGYyRVhEUnVRbjZYQUNXdzVL"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-07T22:38:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53V1g3QnlKTm9lYUhvbkRybUxCQndIcUlROGhFVWczM2c5MUd3N3phTVR6U08zVjhNdmRkcXoxVDZwWGFNUXJqZkJSeVU"
-    },
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-08T02:13:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FckN3OGFiNGFsRW5JeGdPM3pTMTdoOFJUUEJ0aDBMWW1ldjMzX1hleTViWFhlMlZ1UHBJaFRSQzNDU1g2SExQUTVLNjliUm8tNDlzUXU2cjM"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "华硕新笔记本搭载英伟达RTX Spark芯片",
-   "title_zh": "华硕推出ProArt P14/P16笔记本：搭载英伟达RTX Spark超级芯片 - 搜狐网",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.04,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "f0bb6465dbe0",
-   "title": "Microsoft and Nvidia Detail PC Laptop with RTX Spark Chip and On-Device AI - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmVJbnpXNmxnLXlXWnZHbldkbTJ6dVhQZk1BMGdqdUxiM3B1QUF4WE5GQTVYakxYNWFLelVYYWpuRXFNZDdiVmlfcU92dGgxeEhXMEVoYmhCaEliaTBwRUFOSFJaTk9Pb01JMkpra3dLWlV1ajI4aS1ILUpUZGVJbUJ1TWFmZGtnUl9JdGtwU3ctenpIc0ZyakhCUXA3Q1ZSNUItaGFWcmFpeUhzWHJQLXh3ZDdmSEJEYUE",
-   "source": "Barron's",
-   "published_at": "2026-10-07T22:23:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-07T22:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmVJbnpXNmxnLXlXWnZHbldkbTJ6dVhQZk1BMGdqdUxiM3B1QUF4WE5GQTVYakxYNWFLelVYYWpuRXFNZDdiVmlfcU92dGgxeEhXMEVoYmhCaEliaTBwRUFOSFJaTk9Pb01JMkpra3dLWlV1ajI4aS1ILUpUZGVJbUJ1TWFmZGtnUl9JdGtwU3ctenpIc0ZyakhCUXA3Q1ZSNUItaGFWcmFpeUhzWHJQLXh3ZDdmSEJEYUE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "微软英伟达公布RTX Spark AI笔记本",
-   "title_zh": "微软与英伟达详解搭载RTX Spark芯片的端侧AI笔记本",
-   "sentiment": 1
-  },
-  {
-   "id": "b512e8291772",
-   "title": "英伟达推出Windows版DGX Station：748GB统一内存_CNMO - CNMO",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fTkFKdVNDc0FBMkdob3ZWYWFyMl9qSmtRSGtQMjRBdlVpYmp1QUJKTUFKbndSN2xmMGVCNU5vbm5DbGhYdnZOeVh3dw",
-   "source": "CNMO",
-   "published_at": "2026-10-07T22:11:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "CNMO",
-     "published_at": "2026-10-07T22:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5fTkFKdVNDc0FBMkdob3ZWYWFyMl9qSmtRSGtQMjRBdlVpYmp1QUJKTUFKbndSN2xmMGVCNU5vbm5DbGhYdnZOeVh3dw"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-07T22:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzNwb1BmbVRJUkdjUXQwZlZ4YUhCVHNFRUkwdVBCZHBCRENWWHB1dFdzVEFqZnpHX3JCRUVwNWQ2OGh6ckU3ZjMwTEY1aFRLMlNqdEZnWUwwSnJvWGM3Tzl0M0pvMUJiRUVVSUpETUM4MGdnU0VtZl9LWjhESVZpemVRNE9WVi1K"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达发布Windows版DGX Station",
-   "title_zh": "英伟达推出Windows版DGX Station：748GB统一内存_CNMO",
-   "sentiment": 1
-  },
-  {
-   "id": "59943894db11",
-   "title": "Microsoft, Nvidia unveil new AI laptop for Windows - The American Bazaar",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObEdBSHdlMWpYd0tHYmRnZnlfdzRKNEFUVl9JLVVHamdrWlpWZ0tlV3RzdS1sd01PN0VsR2RIekV5R2VUdkxHWll3X3dZcG9jVXA0ajlfbFFJNW9IU3dYMUJFaEtEdFRKbGlhajluZzFQMml4OE93ZHZxemNGaVROZ21pSFRYY00zcVpjd0JNWEpyZ0M1Z1IyT0Vn",
-   "source": "The American Bazaar",
-   "published_at": "2026-10-07T22:10:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The American Bazaar",
-     "published_at": "2026-10-07T22:10:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObEdBSHdlMWpYd0tHYmRnZnlfdzRKNEFUVl9JLVVHamdrWlpWZ0tlV3RzdS1sd01PN0VsR2RIekV5R2VUdkxHWll3X3dZcG9jVXA0ajlfbFFJNW9IU3dYMUJFaEtEdFRKbGlhajluZzFQMml4OE93ZHZxemNGaVROZ21pSFRYY00zcVpjd0JNWEpyZ0M1Z1IyT0Vn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "微软英伟达发布新款AI笔记本",
-   "title_zh": "微软与英伟达推出新款 Windows AI 笔记本电脑",
    "sentiment": 1
   }
  ]
