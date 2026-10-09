@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T08:06:30.823875+00:00",
+ "updated_at": "2026-10-09T08:21:29.524129+00:00",
  "market": {
   "price": 230.48,
   "change_pct": -2.94,
@@ -10,12 +10,12 @@
    "days_left": 39
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 20
+   "avg": 0.46,
+   "count": 24
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（20条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.46（24条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.8,
    "ma20": 226.18,
-   "as_of": "2026-10-09T08:06:30.814809+00:00"
+   "as_of": "2026-10-09T08:21:29.515685+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "b92410f3ce8b",
+   "title": "Nvidia-backed Firmus scraps $5 billion Australia IPO amid growing AI scrutiny By Reuters - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORktvNnFCM0hUWmZXWW9fQU1MZWg4ZEQtZ284VVFsR3QtWVRXM3lTSzZseU1rN0x1bHlQbVh0bWZFRkxpUDQ0Q3p0RDRCRGRwMmNfMzgtWXJlY0hZREZEd1l5RTh0b2RzdXVRb3p1Q0VVeHVKZm9lNzc1YjZEVHluYVl2NmwyZjZ6N1BKX2hEcXZVMUFqS21wS1BiS29VMlg0cEc3NlNfTHFIbF9NRTUwd2M3ODAtRjAwM2gtdjVEc1g",
+   "source": "Investing.com",
+   "published_at": "2026-10-09T08:03:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-09T08:03:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORktvNnFCM0hUWmZXWW9fQU1MZWg4ZEQtZ284VVFsR3QtWVRXM3lTSzZseU1rN0x1bHlQbVh0bWZFRkxpUDQ0Q3p0RDRCRGRwMmNfMzgtWXJlY0hZREZEd1l5RTh0b2RzdXVRb3p1Q0VVeHVKZm9lNzc1YjZEVHluYVl2NmwyZjZ6N1BKX2hEcXZVMUFqS21wS1BiS29VMlg0cEc3NlNfTHFIbF9NRTUwd2M3ODAtRjAwM2gtdjVEc1g"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "5f737f478bd1",
+   "title": "Nvidia’s AI power problem is turning into its biggest edge - TheStreet",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckRyQlNOMVR0UTAxamdETzdPdVVnZDFmU0N4dnhHUjFPU2tUZVJBS1VnNFNTbkR2LTBXN3dVQnlQb2RTQW9ZT0J4U1IwaXp6eWppVmxXc1oySDJRX253VGtQZ3I5Z1h3eG1md0pZOEZFOVMtR2tBNk40cUNGMXI1UE11M2JaWnBB",
+   "source": "TheStreet",
+   "published_at": "2026-10-09T08:03:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TheStreet",
+     "published_at": "2026-10-09T08:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckRyQlNOMVR0UTAxamdETzdPdVVnZDFmU0N4dnhHUjFPU2tUZVJBS1VnNFNTbkR2LTBXN3dVQnlQb2RTQW9ZT0J4U1IwaXp6eWppVmxXc1oySDJRX253VGtQZ3I5Z1h3eG1md0pZOEZFOVMtR2tBNk40cUNGMXI1UE11M2JaWnBB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "f0a96011c872",
    "title": "Nvidia-backed Firmus eyes $3B funding after scrapping $5B IPO: report (NVDA:NASDAQ) - Seeking Alpha",
@@ -280,6 +314,23 @@
    "zh_summary": "Shield TV Pro涨价至299.99美元",
    "title_zh": "英伟达Shield TV Pro发布7年后售价跃升至299.99美元",
    "sentiment": 1
+  },
+  {
+   "id": "3e24314d0297",
+   "title": "一边买英伟达，一边表彰黄仁勋！特朗普最新财务披露引爆争议 - FX168财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jUFpfTVEyc3VwbERLX2ZHTkFLenpYZHVia3JDcWRfU0p6dThpUURFQjBHbXlFV0U3ZUlMTVdRNWVOMU1qMktlRmk0YnA0Y0ViQnVMM0tRU3hjdDFKR0E0YUNjSVlFYlo4Q05LT0NrazlWb1VfbXJOdA",
+   "source": "FX168财经",
+   "published_at": "2026-10-09T07:30:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FX168财经",
+     "published_at": "2026-10-09T07:30:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jUFpfTVEyc3VwbERLX2ZHTkFLenpYZHVia3JDcWRfU0p6dThpUURFQjBHbXlFV0U3ZUlMTVdRNWVOMU1qMktlRmk0YnA0Y0ViQnVMM0tRU3hjdDFKR0E0YUNjSVlFYlo4Q05LT0NrazlWb1VfbXJOdA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "de54dd8400fc",
@@ -1018,12 +1069,17 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUExHSEFTQ2hYdGR0cFF0UFQ1TEtsTVprYnBrRkZLazdPbjh3a2V5WTJmQWZqekx2MkRiUW16N3FNUjlKMW8tM1VvRFlfYkItbTI0",
    "source": "第一财经",
    "published_at": "2026-10-09T02:21:24+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "第一财经",
      "published_at": "2026-10-09T02:21:24+00:00",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUExHSEFTQ2hYdGR0cFF0UFQ1TEtsTVprYnBrRkZLazdPbjh3a2V5WTJmQWZqekx2MkRiUW16N3FNUjlKMW8tM1VvRFlfYkItbTI0"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-09T07:56:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBubEhkYTlISkV6a2dXT2ZzdFdyQzE4ZTFyWXRSUmhVemUzYjBLNk1zR2ZLN2pFbVpUdXYwVlJCYWJmbHlTRjFtNlgzNTdzQVFLamtaajlSeGp5Q0RJUzRKS1lCSm9aNGN5MFUycERzUDl3RkZ6N3dEUg"
     }
    ],
    "category": "财报",
@@ -1416,6 +1472,23 @@
    "zh_summary": "英伟达拟投资芯片对手d-Matrix",
    "title_zh": "前瞻全球产业早报：英伟达拟投资芯片对手d-Matrix_产经 - 前瞻网",
    "sentiment": 1
+  },
+  {
+   "id": "e200272a52e9",
+   "title": "NVDA Stock Posts Biggest Jump In 14 Months On $12 Trillion Valuation Call From Raymond James – ‘Supply Is The Primary Constraint’ - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHYtamF4MTFQWEkzTjlQLWFwWTgzSXNsai02bXNfZDhpcnAxVkdDcy1qampmb2FQYlBWVXFnNTdydHhMWUNOX2RwSUpBWktFbENycTBkQU1xaU50R3ZvbXM2RGw5aGVQNnpFXzVGMFRndGRibmlHV1RoWFU0V1h4MU1rQzFBS29GR0VGWmNDZlRtSGFjNWx6TUo1ZUNoVGc4VHZ4TGwtRV9QZFdkTHZOQ3hnQVpRbHlXSHFaeWNLNllIQXAzMjJaMw",
+   "source": "Stocktwits",
+   "published_at": "2026-10-09T00:41:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-09T00:41:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHYtamF4MTFQWEkzTjlQLWFwWTgzSXNsai02bXNfZDhpcnAxVkdDcy1qampmb2FQYlBWVXFnNTdydHhMWUNOX2RwSUpBWktFbENycTBkQU1xaU50R3ZvbXM2RGw5aGVQNnpFXzVGMFRndGRibmlHV1RoWFU0V1h4MU1rQzFBS29GR0VGWmNDZlRtSGFjNWx6TUo1ZUNoVGc4VHZ4TGwtRV9QZFdkTHZOQ3hnQVpRbHlXSHFaeWNLNllIQXAzMjJaMw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "e5c51465110d",
@@ -6624,86 +6697,6 @@
    "zh_summary": "Alta Advisers买入177316股英伟达",
    "title_zh": "Alta Advisers买入177316股英伟达$NVDA",
    "sentiment": 1
-  },
-  {
-   "id": "c79ce5f1f6c3",
-   "title": "NVIDIA Corporation $NVDA Stake Boosted by Elefante Mark B - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcFQ0YzJqLWdsdDI5TmxrNHFoY1AzNDJrVk9oZzVhcjZTTTZYaTZKZGR6M0JvdlpDdndCeDFQdVRaN0ZYZmJmSUVzSm9PTVdQN2VpTjJESGF1OE9yT1p5WlZVcUZVQ0NIR3BFMkVsbmlTM2dSblRrcnhicTJ5dU9QaHVGdU95WVRIQTNjTmpRN29iNEd0elJ3ZzZEb0pFaFNUMWtwNk5RdXlNaWhtSldHTGhZdExKWHRW",
-   "source": "MarketBeat",
-   "published_at": "2026-10-08T07:29:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-08T07:29:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcFQ0YzJqLWdsdDI5TmxrNHFoY1AzNDJrVk9oZzVhcjZTTTZYaTZKZGR6M0JvdlpDdndCeDFQdVRaN0ZYZmJmSUVzSm9PTVdQN2VpTjJESGF1OE9yT1p5WlZVcUZVQ0NIR3BFMkVsbmlTM2dSblRrcnhicTJ5dU9QaHVGdU95WVRIQTNjTmpRN29iNEd0elJ3ZzZEb0pFaFNUMWtwNk5RdXlNaWhtSldHTGhZdExKWHRW"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Elefante增持英伟达股份",
-   "title_zh": "Elefante Mark B增持英伟达$NVDA股份",
-   "sentiment": 1
-  },
-  {
-   "id": "40ac8bc57d67",
-   "title": "77,013 NVIDIA Corporation $NVDA Shares Sold by Daiichi Life Insurance Co. Ltd. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVC1nVTMyazNwT1BCdGRZcVByenVISTMtTGNpOVdzRm5CZzFTYzd2THNYWVRSVFd6VURaRUFFZFBnbGpmdWtmUGxyNjhkT1RpaEdxVUx1a2tGQWFGVnloX1BJSDhpb2c1dV9vR00yaHc5YXlPUHJRVVVvWFlva2xDaHVaMl9FZ2tvZER6c05jRkZ5YnVSbGZsUGRTMy12MmgtekFMRFBRVzBYcGhkZ0pxcWg0XzRxR3piSEszN05iaW1qS01MS3NjendYenBfY0l6",
-   "source": "MarketBeat",
-   "published_at": "2026-10-08T07:29:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-08T07:29:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVC1nVTMyazNwT1BCdGRZcVByenVISTMtTGNpOVdzRm5CZzFTYzd2THNYWVRSVFd6VURaRUFFZFBnbGpmdWtmUGxyNjhkT1RpaEdxVUx1a2tGQWFGVnloX1BJSDhpb2c1dV9vR00yaHc5YXlPUHJRVVVvWFlva2xDaHVaMl9FZ2tvZER6c05jRkZ5YnVSbGZsUGRTMy12MmgtekFMRFBRVzBYcGhkZ0pxcWg0XzRxR3piSEszN05iaW1qS01MS3NjendYenBfY0l6"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "第一生命出售77013股英伟达股票",
-   "title_zh": "第一生命人寿出售77013股英伟达股票",
-   "sentiment": -1
-  },
-  {
-   "id": "ac21a2fcdfe6",
-   "title": "美股讯号 | 英伟达与美光将驱动 Q3 财报增长，市场期待强劲表现 ｜#美股资讯# #英伟达# #财报发布# - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3Y5b3BrNDdhbTluNXZWWlhHb0QtSjVtMFQ2RVFULW1FZ3praVBJeFpLNXB0Y0U2THBSZzFpR2NEUXFsSEp3WXcxblhkNHdlQmNkcktoeDdHTU1SOHp0MS1mamRpb1QybGRpblVzMi1XdGU0Z0JjOUVidm03ZXR5YkxYOVcyZzl0M2llSw",
-   "source": "搜狐网",
-   "published_at": "2026-10-08T07:27:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T07:27:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3Y5b3BrNDdhbTluNXZWWlhHb0QtSjVtMFQ2RVFULW1FZ3praVBJeFpLNXB0Y0U2THBSZzFpR2NEUXFsSEp3WXcxblhkNHdlQmNkcktoeDdHTU1SOHp0MS1mamRpb1QybGRpblVzMi1XdGU0Z0JjOUVidm03ZXR5YkxYOVcyZzl0M2llSw"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "英伟达与美光将驱动Q3财报增长",
-   "title_zh": "美股讯号 | 英伟达与美光将驱动 Q3 财报增长，市场期待强劲表现 ｜#美股资讯# #英伟达# #财报发布# - 搜狐网",
-   "sentiment": 1
-  },
-  {
-   "id": "77734fb494db",
-   "title": "Ironwood TPU vs Nvidia B200: 18% Cheaper [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbm9LQnI4SEJRXzlXbHdlVHZJYklKVmczRG1ES0RkMzZpYWJxbTViaWIxQ0NWTzhMc2tTYmstWWZaODlydlFLbzFXUHZiaExubldsQmlmelZBRldLc2VobFZTMnZVajFyQW5Vb194WFBOWFBLUzhOQjNlZUIyeWR4TF8wanVFdw",
-   "source": "shattered.io",
-   "published_at": "2026-10-08T07:23:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-08T07:23:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbm9LQnI4SEJRXzlXbHdlVHZJYklKVmczRG1ES0RkMzZpYWJxbTViaWIxQ0NWTzhMc2tTYmstWWZaODlydlFLbzFXUHZiaExubldsQmlmelZBRldLc2VobFZTMnZVajFyQW5Vb194WFBOWFBLUzhOQjNlZUIyeWR4TF8wanVFdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Ironwood TPU比B200便宜18%",
-   "title_zh": "Ironwood TPU对比英伟达B200，便宜18%",
-   "sentiment": -1
   }
  ]
 }
