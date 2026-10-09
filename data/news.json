@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T19:06:52.142137+00:00",
+ "updated_at": "2026-10-09T19:21:30.396431+00:00",
  "market": {
-  "price": 229.74,
-  "change_pct": -0.32,
+  "price": 229.92,
+  "change_pct": -0.24,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.3,
-   "count": 125
+   "count": 128
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +37.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +37.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（125条已评分）"
+     "note": "今日新闻情绪 +0.30（128条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $229.74 vs 20日均线 $226.76"
+     "note": "现价 $229.92 vs 20日均线 $226.77"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 87,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 37.1,
-   "ma20": 226.76,
-   "as_of": "2026-10-09T19:06:52.127397+00:00"
+   "implied_upside_pct": 37.0,
+   "ma20": 226.77,
+   "as_of": "2026-10-09T19:21:30.379384+00:00"
   },
   "pe_ttm": 29.2,
   "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -2299,6 +2299,23 @@
    "sentiment": -1
   },
   {
+   "id": "656b8ee9c3fe",
+   "title": "NVIDIA Corporation $NVDA Stock Sold by Polymer Capital Management HK LTD - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDhVa2pES204UlRJM2d4NGF1SHpyQzNpRDViTUNERVdxcWdfVUFrVWlFUElSWXJxOC1xU0VXSkhGdlZ6c1RRQ0hHQ2t3VFFUVXA1OUM1VDJFdnpjSHlyWmlqMlZua0lFVkYzb21XMGh4OXh3cmRyNEs4SFAwOWMtMGE4N3ppT1ZsWjNCSWFwVTI5cWZOV3NpR1dhcDl0a1FnZHc0Tl9YQW9tRTgwYzJfaGI5SDlUMnhlRGFHV0lOX3BYUzdoTE9mWFd0dTI",
+   "source": "MarketBeat",
+   "published_at": "2026-10-09T07:37:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-09T07:37:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDhVa2pES204UlRJM2d4NGF1SHpyQzNpRDViTUNERVdxcWdfVUFrVWlFUElSWXJxOC1xU0VXSkhGdlZ6c1RRQ0hHQ2t3VFFUVXA1OUM1VDJFdnpjSHlyWmlqMlZua0lFVkYzb21XMGh4OXh3cmRyNEs4SFAwOWMtMGE4N3ppT1ZsWjNCSWFwVTI5cWZOV3NpR1dhcDl0a1FnZHc0Tl9YQW9tRTgwYzJfaGI5SDlUMnhlRGFHV0lOX3BYUzdoTE9mWFd0dTI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "edab735d58c5",
    "title": "NVIDIA Corporation $NVDA Shares Newly Acquired by Mission Financial Group LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONVo3RjNJT0V2NmpZVmo0X2ZQaG8tdjVWWFBoT1BjYUpPb0lMWkVYUUpKdXE2UGp6LWY2V1pCNmxhOGFyazZ6MDVZZ0tZU1BSY0xJblh2U0JYd3FJSDVVRnlGZlhxRWg2d2xiV0dpbG81OU1peGVpSnlMY0hBZUtoTmo3VEVpdmEzSDFNdWg4NGhJNE1CRE9zNGZ2OElsZjNkUXVKaDZ5UFB2ZnRxRWVtbVRtNXktclVtYU92TmFjdGZxQUplMGFxVDMwejRDNkN6TF84",
@@ -2651,40 +2668,6 @@
    "zh_summary": "英伟达标志配图（无实质内容）",
    "title_zh": "资料图：英伟达标志插图",
    "sentiment": 0
-  },
-  {
-   "id": "dd9fd1da1952",
-   "title": "英伟达未来5年将斥资10亿美元推动美国科学发展 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tWE9VX29OZll5a05GSDhHdFRZd01qcUxCOGRKd1JhZWxUbUdybUdfVUpjMU1aSjdzQXpyV3JQUWlyei1tZDlfNEM0YlM",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-09T06:29:29+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-09T06:29:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tWE9VX29OZll5a05GSDhHdFRZd01qcUxCOGRKd1JhZWxUbUdybUdfVUpjMU1aSjdzQXpyV3JQUWlyei1tZDlfNEM0YlM"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-09T06:29:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4Vm5haXlDN19ES0Zmb05tX2NPUlNpdThWT19YaWtVcHlCcGp1b2NmVzktYWx6anp4akFwa2VQMGZCYXJDbU1kbw"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-09T07:25:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0VCT2JhZklLZWl5YWs1MXJLdzE0UncwRVc4aWxBd25LdlFyNWlIMjRoSW4tZlZxTGJkTlZ2VG0wYV9fS3MzUDUwVDVsOXphZ2xWbEtkWnhhRDZmX0RxRFZtR0hUZE42bFRDV1NzZU5GYVM5ODg0YTJSckg2X1pDSHVJVWg3bUs0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达5年斥资10亿美元推动美国科学发展",
-   "title_zh": "英伟达未来5年将斥资10亿美元推动美国科学发展 - 凤凰网科技",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.27,
-    "window_h": 0.1
-   }
   },
   {
    "id": "2e6677ccabda",
@@ -6384,7 +6367,7 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdk1vYWJ4MEJfYmtueHVwXzNRVXVFT3lqUjdjdE5UbFJhd1UyN29sdmVzU2VQWldtRjk4eDZ1NlBtaW9uY243MTNiZTdhU1l1MUFvSTNVMkV5VHlTdlhxRXVHV0VVcDMzRG54b3AxbjBhcUNKLTVOMkpzR1Q1OVpSUzdPZVdQOEExYXNxRmphdEs3MGFURndoV3VqQWtsYS1NQXBXYXNzX3JnOVVpVVZndk0tdThVa0Nk",
    "source": "Investing.com",
    "published_at": "2026-10-08T15:06:12+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Investing.com",
@@ -6395,13 +6378,22 @@
      "name": "Quartz",
      "published_at": "2026-10-09T12:35:37+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2hCYUVNcUx0Tk15YWRsa1dQWEZLNG90THhKa3NnQ01PRUxUcmNSU2hRTThjY19VbGtJd2pfcndUWXlkWmx1TjVfc1hUTnl1ckNhWHBvVDhTMGpTZlE2NHVkU3FNRmNuVVpaT3lackdpeUs2UGU4LUxFWlBnUmtXQWNMVzRJWHZ6"
+    },
+    {
+     "name": "NVIDIA Newsroom",
+     "published_at": "2026-10-08T17:19:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWV9LdlNrOEhZeWpWaHNwSUlhSllPWFo3Y05sckNRbXBIeVZ5NElkNDdJbHlOR0pvZHRfRk9CMEI3U0xmNlU5RndtMkx3TWFRVk5oLWxIRktoeS0wMGxZMEpkN2hEVWZQa0JuWk85RUpZRVAxVGkwdnkxa1dxR0cxdFdXVlpQQUk3dGYzM21IVDdwZjJCNjFPamRib2FfdHhsWF9Ma2VFNVZmUQ"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达承诺5年投10亿美元做科研",
    "title_zh": "英伟达承诺5年内向美国科研投入10亿美元",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -1.59,
+    "window_h": 2.0
+   }
   },
   {
    "id": "d39fb6c03e44",
@@ -6509,26 +6501,6 @@
    "sentiment": 0
   },
   {
-   "id": "c043bc9cb125",
-   "title": "英伟达承诺未来五年投入10亿美元助力美国科研发展- nVIDIA - cnBeta.COM",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5la2NBRGVrWF90TjFtVzRSRlRaOUFZUEh6M0V4WjlaXy1uZGRSOGlVb2ZEYlRJOVJabnNRQ2E3MEtTbVZTLTU1ZFU3T3BGNkd3LThtREs0M0s0T0t0NzJlYw",
-   "source": "cnBeta.COM",
-   "published_at": "2026-10-08T14:54:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "cnBeta.COM",
-     "published_at": "2026-10-08T14:54:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5la2NBRGVrWF90TjFtVzRSRlRaOUFZUEh6M0V4WjlaXy1uZGRSOGlVb2ZEYlRJOVJabnNRQ2E3MEtTbVZTLTU1ZFU3T3BGNkd3LThtREs0M0s0T0t0NzJlYw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达承诺五年投10亿美元助力科研",
-   "title_zh": "英伟达承诺未来五年投入10亿美元助力美国科研发展- nVIDIA - cnBeta.COM",
-   "sentiment": 1
-  },
-  {
    "id": "0da8cb7fb8fc",
    "title": "Nvidia stock drops to decade-low valuation desp... - Pluang",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GQVlTWkgyM2NTY0ExNmd2QzcycEFWbHVtaDEzTXpaYmtqNWNRTkxYS0kzT0dPZldVbi11ZEdnMGFqVkRRRlVvci01bmloZmJpUXNoRjk4cnQ0a0tqY0syemNuX1lsUndoVm0wWXJzNXBIZUFDLXVFOA",
@@ -6574,12 +6546,17 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVY0ZlQwYks5dFhiQmlWU0IzR2xhSENrUTcyempsSWV5S2FQU1RRNTVrNUV2cUpzR29LMkJRWTBMSFdWX3JrMDd5UTFOdWowbFMtbWFyRkxKUUwyWlNBTWpkUy1oNjFidHZsc0xRQWtmT0ZRa1ZJOUR0akxTa1cyTVhrS1hTVEVqa21DSXc5Y3ZmT3B1eXVGMnFwYWZYWnc0V2wtekNEa2VLbnV4eEJLUlRB",
    "source": "marketscreener.com",
    "published_at": "2026-10-08T14:49:15+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "marketscreener.com",
      "published_at": "2026-10-08T14:49:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVY0ZlQwYks5dFhiQmlWU0IzR2xhSENrUTcyempsSWV5S2FQU1RRNTVrNUV2cUpzR29LMkJRWTBMSFdWX3JrMDd5UTFOdWowbFMtbWFyRkxKUUwyWlNBTWpkUy1oNjFidHZsc0xRQWtmT0ZRa1ZJOUR0akxTa1cyTVhrS1hTVEVqa21DSXc5Y3ZmT3B1eXVGMnFwYWZYWnc0V2wtekNEa2VLbnV4eEJLUlRB"
+    },
+    {
+     "name": "Engineering.com",
+     "published_at": "2026-10-09T06:54:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNanA0RktDVVpEMTFqNkE3Ty14YXBfX3plUjZYNy16UHNTcmdvZXZXRnd2OFVTbjNwTUZhbmJ2MjZLX3NoMzFKYzVEempsMnQxNTh3aDNJWEpzU08zcUJYWjdvQmtKT3QtUk9EeVFxbzEwSUhCVGJKQ1hsUVdqV1dVZ211eFNfZ1RjcGdtZ0tReEE"
     }
    ],
    "category": "其他",
@@ -6712,6 +6689,50 @@
    "zh_summary": "英伟达200亿美元开源押注瞄准中国领先",
    "title_zh": "英伟达200亿美元开源押注瞄准中国领先地位",
    "sentiment": 1
+  },
+  {
+   "id": "64adc3cf8dfc",
+   "title": "英伟达承诺在未来五年内投入10亿美元推动美国科学发展 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QbEZYMnNxZFpNWXFYZk5WQ0NvYUJ0dGFYXzhwZkpUM3VCR1ZGVmhVVWtzZmxWbDd2NFlzSU5KTzA0R2w5UVNuLTFJZ1lYcGp1NGIxNHI0ZEUyVmFEWVRscg",
+   "source": "东方财富",
+   "published_at": "2026-10-08T14:44:36+00:00",
+   "outlets_count": 5,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-08T14:44:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QbEZYMnNxZFpNWXFYZk5WQ0NvYUJ0dGFYXzhwZkpUM3VCR1ZGVmhVVWtzZmxWbDd2NFlzSU5KTzA0R2w5UVNuLTFJZ1lYcGp1NGIxNHI0ZEUyVmFEWVRscg"
+    },
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-08T14:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5la2NBRGVrWF90TjFtVzRSRlRaOUFZUEh6M0V4WjlaXy1uZGRSOGlVb2ZEYlRJOVJabnNRQ2E3MEtTbVZTLTU1ZFU3T3BGNkd3LThtREs0M0s0T0t0NzJlYw"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-09T06:29:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tWE9VX29OZll5a05GSDhHdFRZd01qcUxCOGRKd1JhZWxUbUdybUdfVUpjMU1aSjdzQXpyV3JQUWlyei1tZDlfNEM0YlM"
+    },
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-09T06:29:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4Vm5haXlDN19ES0Zmb05tX2NPUlNpdThWT19YaWtVcHlCcGp1b2NmVzktYWx6anp4akFwa2VQMGZCYXJDbU1kbw"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-09T07:25:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0VCT2JhZklLZWl5YWs1MXJLdzE0UncwRVc4aWxBd25LdlFyNWlIMjRoSW4tZlZxTGJkTlZ2VG0wYV9fS3MzUDUwVDVsOXphZ2xWbEtkWnhhRDZmX0RxRFZtR0hUZE42bFRDV1NzZU5GYVM5ODg0YTJSckg2X1pDSHVJVWg3bUs0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "英伟达承诺五年投10亿美元助力科研",
+   "title_zh": "英伟达承诺未来五年投入10亿美元助力美国科研发展- nVIDIA - cnBeta.COM",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.27,
+    "window_h": 0.1
+   }
   },
   {
    "id": "f9354f932fb3",
