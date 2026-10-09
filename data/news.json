@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T09:36:26.895626+00:00",
+ "updated_at": "2026-10-09T09:51:27.756353+00:00",
  "market": {
   "price": 230.48,
   "change_pct": -2.94,
@@ -10,8 +10,8 @@
    "days_left": 39
   },
   "day_sentiment": {
-   "avg": 0.49,
-   "count": 45
+   "avg": 0.48,
+   "count": 50
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.49（45条已评分）"
+     "note": "今日新闻情绪 +0.48（50条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.8,
    "ma20": 226.18,
-   "as_of": "2026-10-09T09:36:26.875936+00:00"
+   "as_of": "2026-10-09T09:51:27.746017+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ce400759b284",
+   "title": "英伟达没能捧出澳洲的AI估值神话 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyR3hJelZYTDk0Z2xZZkJnUk9VVkUwQTFZTmliUWViYlNUNGtnU1RMemlDV3F2NUZYdG4zaTk5U2dRczNRVTVkYWNhbnZZUUNy",
+   "source": "富途牛牛",
+   "published_at": "2026-10-09T09:41:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-09T09:41:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyR3hJelZYTDk0Z2xZZkJnUk9VVkUwQTFZTmliUWViYlNUNGtnU1RMemlDV3F2NUZYdG4zaTk5U2dRczNRVTVkYWNhbnZZUUNy"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "0a586da38cd1",
    "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks - WSJ",
@@ -82,13 +99,52 @@
    "sentiment": 0
   },
   {
-   "id": "60a4eb41c0b6",
-   "title": "英伟达拟投资芯片竞争对手d‑Matrix：一众挑战者纷纷选择合作路线- nVIDIA - cnBeta.COM",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1acGs3ZzVRR3pDb2VLczc4OEVPRGhkMnQwUGt5dXoxSzhES3UxMkpGYXVCV095TG44clhoNjZrVFFlRERnNlhySzRLTERvQWlsWUN0NXc5RkctNlcwaXp0bA",
-   "source": "cnBeta.COM",
-   "published_at": "2026-10-09T09:27:00+00:00",
+   "id": "0c5090913d7f",
+   "title": "Nvidia Changed How It Talks About Cash Flow. What That Means for Buybacks. - Heard on the Street -- WSJ - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnFNQVlxcDh1OGdDVUdvUmFQVTJmM2RodGVtdk9Bc2E5alQtbVdOS3Yyb2pUSTlfTDVyTmE4MGQ1V2ZyZGdVVXEzT1VrcG16VnA5eXF4NXByUmlpeEFnMTBIc3RxYUU0aUZobzgyT1hNT2ZnZXFzanNHNjNQU0xUd3ZrOC00bTJGLVZXMzNLVVcwWGJCdWFHZw",
+   "source": "富途牛牛",
+   "published_at": "2026-10-09T09:30:00+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-09T09:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnFNQVlxcDh1OGdDVUdvUmFQVTJmM2RodGVtdk9Bc2E5alQtbVdOS3Yyb2pUSTlfTDVyTmE4MGQ1V2ZyZGdVVXEzT1VrcG16VnA5eXF4NXByUmlpeEFnMTBIc3RxYUU0aUZobzgyT1hNT2ZnZXFzanNHNjNQU0xUd3ZrOC00bTJGLVZXMzNLVVcwWGJCdWFHZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "4be1ac3dca5f",
+   "title": "Update: Market Chatter: Nvidia-Backed Firmus Reportedly Scraps $5 Billion IPO - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkoyQWJUWXhzMHZxejhvWnk2czlpT0N0bVl3czRvUnIyZ3VseFJqdXFVcm1GemZsU1hRUTJJZnl1MkR6Q21mMWpDb3FubEFkNk9sS0gySWpqVUlYSmhraWppZlRaenRraERrS1BtMUZ3LVoxb20yU3VBVTZmNDNneUZDUWxncmVJSENfR1VoOGREZFhrcUFhLTdmUVpNTFRRWUE",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-09T09:28:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T09:28:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkoyQWJUWXhzMHZxejhvWnk2czlpT0N0bVl3czRvUnIyZ3VseFJqdXFVcm1GemZsU1hRUTJJZnl1MkR6Q21mMWpDb3FubEFkNk9sS0gySWpqVUlYSmhraWppZlRaenRraERrS1BtMUZ3LVoxb20yU3VBVTZmNDNneUZDUWxncmVJSENfR1VoOGREZFhrcUFhLTdmUVpNTFRRWUE"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
+   "id": "40332938bf1c",
+   "title": "英伟达拟投资芯片竞争对手d‑Matrix：一众挑战者纷纷选择合作路线 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM3JDMGsxcmtjRkxSbkt3TnV6VEVlZk0wTzVvYkRDR2pWOGROb3hybkthMWFDSm1RVnRZMWRGeTFpQUdSQmUwYWRSVU42N3AwYVRpZnZxelpDZ3VjaHJiYTMyVG1pbFhKcWU3OFprSXY2Z0wtNFFFWjFyclhaZHVnY3Rhck9DWTJDVFdxLVJYVmdxRDVtMmhwNDdobjI1akZCclUxU3AyTFZvT09PdGd3ZUdaMlhaczBfYjZvSDYwckp4ZXlMTmlPbG9ENDc4UTRIRkdFZW9PaGpuMTY3TXc",
+   "source": "新浪财经",
+   "published_at": "2026-10-09T09:24:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-09T09:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM3JDMGsxcmtjRkxSbkt3TnV6VEVlZk0wTzVvYkRDR2pWOGROb3hybkthMWFDSm1RVnRZMWRGeTFpQUdSQmUwYWRSVU42N3AwYVRpZnZxelpDZ3VjaHJiYTMyVG1pbFhKcWU3OFprSXY2Z0wtNFFFWjFyclhaZHVnY3Rhck9DWTJDVFdxLVJYVmdxRDVtMmhwNDdobjI1akZCclUxU3AyTFZvT09PdGd3ZUdaMlhaczBfYjZvSDYwckp4ZXlMTmlPbG9ENDc4UTRIRkdFZW9PaGpuMTY3TXc"
+    },
     {
      "name": "cnBeta.COM",
      "published_at": "2026-10-09T09:27:00+00:00",
@@ -3613,12 +3669,17 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzEwTUlaTnprOElzS2ktY2xteHpDV3V5c2RxaDZyaWRoQzJ1NVhNU3V4QTdzemFqLWhkNXlMTEV5OWJhZVB1OWJOeFhHRUVWVVhvRmFIa1N1czZiZ3ptWWFMU1kwTTQyQUxvUUtWR0xHYXlqMTVreVBnNXpPZGpTeVNUaWhkcjNhdFpJY21wYkxaX3hQQWJHREU4TGk",
    "source": "Yahoo Finance",
    "published_at": "2026-10-08T17:20:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-08T17:20:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzEwTUlaTnprOElzS2ktY2xteHpDV3V5c2RxaDZyaWRoQzJ1NVhNU3V4QTdzemFqLWhkNXlMTEV5OWJhZVB1OWJOeFhHRUVWVVhvRmFIa1N1czZiZ3ptWWFMU1kwTTQyQUxvUUtWR0xHYXlqMTVreVBnNXpPZGpTeVNUaWhkcjNhdFpJY21wYkxaX3hQQWJHREU4TGk"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-09T09:29:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRmpuS0wzb29Pd2VBRlI5WmpCREpacEcwOGltcXVnYmxSakRSREJMdzA5VTFLQWxreGYyZS0wZFN4LXFXcnNzRmd1ZHRtVzh6c05MSVpVZWpnTy1HR3NIRG4xeGd4SUdVR3ExaGZBRFlJSGhoTEtkWmk3dHk3ajE2NzVaU1g1X2tjQ1NYU2xIOUQtOWp4bjFFQ0d5NjgxUVJpTHBDR2d2WU9iR19jR1dEOHB6aW5UR29IVVhFUGJuVVVYQ2swWG1MbVcyWmVOclUwdndkZFFkTHRXSWM5N2UxU1huNF9mUXJpOFhKN2VuekNjV0FNd3RXYmU4TUFkaGw2MzM0"
     }
    ],
    "category": "分析师",
@@ -3711,6 +3772,23 @@
    "zh_summary": "英伟达投资的Firmus推迟澳洲IPO",
    "title_zh": "英伟达投资的Firmus将推迟澳大利亚IPO，考虑与现有投资方及其他方进行私募融资。 - 手机新浪网",
    "sentiment": -1
+  },
+  {
+   "id": "500328596299",
+   "title": "英伟达承诺5年投入10亿美元助力美国“超级智能”，深度参与“创世纪计划” - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LMng3TDF3czhiWXNGcWwzcW9HRHdYbUQtNkU3Ym9LNTJNUVh4TTdUZ0NHSmJmVlVrMnBNTzhlRURXWjZ6MUxQVg",
+   "source": "财联社",
+   "published_at": "2026-10-08T17:14:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-08T17:14:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LMng3TDF3czhiWXNGcWwzcW9HRHdYbUQtNkU3Ym9LNTJNUVh4TTdUZ0NHSmJmVlVrMnBNTzhlRURXWjZ6MUxQVg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "f3be79dbd136",
@@ -6607,97 +6685,6 @@
    "zh_summary": "BNP Exane上调NVDA评级至强烈买入",
    "title_zh": "BNP Paribas Exane上调英伟达评级至强烈买入",
    "sentiment": 1
-  },
-  {
-   "id": "77b62f4f5984",
-   "title": "Why Nvidia, Broadcom, and Marvell Stocks Are Falling in Premarket Today, October 8 - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWh4Y1Y5Q00yWllZbXE2S3V6aVUtVFpyVVBnTmNnVnNZR252ZXJlUXpETTlHZWNhSV9qeEdIR3VOSTVGZnFqODFoeHhUb2JOcWRiSklTUUZ5c1l5S1FmTDgtRnVNd01LeENHTVN1NGV1anBjUVFERXFRaTBVeHE3REdrOEM3MGVrOEVITERvXzhCUDlNNWtWM3J4MGZRenc1MkloQXZNYlM3MURIcnc",
-   "source": "TipRanks",
-   "published_at": "2026-10-08T10:22:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-08T10:22:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWh4Y1Y5Q00yWllZbXE2S3V6aVUtVFpyVVBnTmNnVnNZR252ZXJlUXpETTlHZWNhSV9qeEdIR3VOSTVGZnFqODFoeHhUb2JOcWRiSklTUUZ5c1l5S1FmTDgtRnVNd01LeENHTVN1NGV1anBjUVFERXFRaTBVeHE3REdrOEM3MGVrOEVITERvXzhCUDlNNWtWM3J4MGZRenc1MkloQXZNYlM3MURIcnc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达、博通、迈威尔盘前下跌",
-   "title_zh": "英伟达、博通、迈威尔今日盘前下跌",
-   "sentiment": -1
-  },
-  {
-   "id": "afc80391e45e",
-   "title": "Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1Bic0VhVWU5NVVMNWxfTzl3WTJPenlXS0JGVzl1cW1NUVlzWHhhcDBteV9nUUJrTFlmVG9DZFpnUGF2N1A5amJoeTItX2pGUnVDaUFjb1UtRGNyZ0N4UzdKeHR4RkYzTkxnX0VSV3V3ODlWMFJiYVN6QkhGU2IyYVh6QmZFQ1dWSmVFalpqX0IwcS03TklBazZFcU1wX19qSmdSNHlLVUdiMzZpRDNVczFkTmNYUQ",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-08T10:20:43+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-08T10:20:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1Bic0VhVWU5NVVMNWxfTzl3WTJPenlXS0JGVzl1cW1NUVlzWHhhcDBteV9nUUJrTFlmVG9DZFpnUGF2N1A5amJoeTItX2pGUnVDaUFjb1UtRGNyZ0N4UzdKeHR4RkYzTkxnX0VSV3V3ODlWMFJiYVN6QkhGU2IyYVh6QmZFQ1dWSmVFalpqX0IwcS03TklBazZFcU1wX19qSmdSNHlLVUdiMzZpRDNVczFkTmNYUQ"
-    },
-    {
-     "name": "Yahoo Finance Australia",
-     "published_at": "2026-10-08T10:20:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM0RFWFRZbW9hb3Z3dTUtWDlINzZqeUlwQzI5REtyWDg5cnZlMWx6T0lEOXdxNi1nOENLUm5YWGRXanZKcHJlREpqVGk0b0VSMnVaeUFaV1o5Uk5HZkdCQlZDbVZCLUFXYlpJb2Jpc3p0dmhHWjRiWEFiS2l3Nm5ZeFJqZWNTT19IMUk4"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-08T10:20:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkxVcHFodTdrTDRFTUNuZmo3bnB1VUNiWlhrN3dCaTFvNERyRUhjcmpMdE9QTDhMenRwSkFzdHJNYWE0MkZ0cS1McFNIMDJRS0lrMG1qalBMYXlOYmdvRV9qc2xuRWRtQ256WlJBTVRyYWlDdjQwMlB5S3FBdTlWMXhLQ2ZSbE90eEw1bUlvS0lrajZscG1CeWhKd1dLaVE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达参投IPO认购遇冷，警示AI融资",
-   "title_zh": "英伟达参投的IPO需求惨淡，给AI融资敲响警钟",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": -0.04,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "d486e83c29f0",
-   "title": "NVIDIA DGX Station Puts a Trillion-Parameter AI Model on Your Desk - Intelligent Living",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVVhjT09xU2tMLTBzdDEyQWU5S2xLRXE1eTB2R3I4UjI3RFZXWUZSb2FXblhZRXNsbUxPeEJoMFo5UC1fazhTX0NMUF9yVlhYSmcyeEJrZTdDZ1p5VmhCMlk3TzI5aURsendUUTB3",
-   "source": "Intelligent Living",
-   "published_at": "2026-10-08T10:15:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Intelligent Living",
-     "published_at": "2026-10-08T10:15:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HVVhjT09xU2tMLTBzdDEyQWU5S2xLRXE1eTB2R3I4UjI3RFZXWUZSb2FXblhZRXNsbUxPeEJoMFo5UC1fazhTX0NMUF9yVlhYSmcyeEJrZTdDZ1p5VmhCMlk3TzI5aURsendUUTB3"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "DGX Station支持万亿参数模型",
-   "title_zh": "英伟达DGX Station把万亿参数模型搬上桌面",
-   "sentiment": 1
-  },
-  {
-   "id": "586229988cc9",
-   "title": "97 Billion Nvidia Partners Just Got a Strong Buy Endorsement (Hint: It's Not Palantir or Micron) - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNTF4MkVvWUFFaTJtM2Z2Y0hMOE93VWRhbHlBXzV0SktWY1UxY0NlOU85U1A2NzhWQy10alZRZ2pUY0xIU3VfT1NEcUMzYXJIUktOLUxiWkpRWmVxWW12V19ERVEyXzRWNlhSQkN0YlZwMmFwLVpnQ3NKMVZiR0s1T0U0b2txbE1SNm1ldGVPYURYOGpHUk84Yg",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-08T10:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-08T10:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNTF4MkVvWUFFaTJtM2Z2Y0hMOE93VWRhbHlBXzV0SktWY1UxY0NlOU85U1A2NzhWQy10alZRZ2pUY0xIU3VfT1NEcUMzYXJIUktOLUxiWkpRWmVxWW12V19ERVEyXzRWNlhSQkN0YlZwMmFwLVpnQ3NKMVZiR0s1T0U0b2txbE1SNm1ldGVPYURYOGpHUk84Yg"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前"
   }
  ]
 }
