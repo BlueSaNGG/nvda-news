@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T18:36:38.958307+00:00",
+ "updated_at": "2026-10-09T18:51:37.549395+00:00",
  "market": {
-  "price": 229.62,
-  "change_pct": -0.37,
+  "price": 229.86,
+  "change_pct": -0.27,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 39
   },
   "day_sentiment": {
-   "avg": 0.31,
-   "count": 120
+   "avg": 0.29,
+   "count": 123
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +37.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +37.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（120条已评分）"
+     "note": "今日新闻情绪 +0.29（123条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $229.62 vs 20日均线 $226.75"
+     "note": "现价 $229.86 vs 20日均线 $226.76"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 87,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 37.2,
-   "ma20": 226.75,
-   "as_of": "2026-10-09T18:36:38.939835+00:00"
+   "implied_upside_pct": 37.0,
+   "ma20": 226.76,
+   "as_of": "2026-10-09T18:51:37.533042+00:00"
   },
   "pe_ttm": 29.2,
   "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "f5eeef266663",
+   "title": "市场传闻：英伟达计划投资芯片竞争对手D-Matrix - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc2JsY25JM3BwSnRjN0ZJTHZGYmd6TUdYZm8xa3RqM3dlZ2VkYzZzRXYzVjNqYW5IYnMtV0VaZjhKdFZmYUdubGE3cWZqSnpONTBGSFAwcXByLXpHek5SXzhIYjVpTWVobTZtaDYyVWctQTBqSmxoNVZOX0FSZ3hFZi12S2RlWTlrMl9veFZtS2U3dlItUC0yQ0doTmVUU2pJWWhLdg",
+   "source": "Moomoo",
+   "published_at": "2026-10-09T18:42:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-09T18:42:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc2JsY25JM3BwSnRjN0ZJTHZGYmd6TUdYZm8xa3RqM3dlZ2VkYzZzRXYzVjNqYW5IYnMtV0VaZjhKdFZmYUdubGE3cWZqSnpONTBGSFAwcXByLXpHek5SXzhIYjVpTWVobTZtaDYyVWctQTBqSmxoNVZOX0FSZ3hFZi12S2RlWTlrMl9veFZtS2U3dlItUC0yQ0doTmVUU2pJWWhLdg"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "443c60ff0c06",
    "title": "微软发布搭载英伟达AI芯片笔记本电脑 - 新浪网",
@@ -80,6 +97,45 @@
    "zh_summary": "微软发布搭载英伟达AI芯片笔记本电脑",
    "title_zh": "微软发布搭载英伟达AI芯片笔记本电脑 - 新浪网",
    "sentiment": 1
+  },
+  {
+   "id": "e84133a7d766",
+   "title": "Management Raised the Bar For NVIDIA Stock; Does The Chart Agree? - Trefis",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFdSS1ZVdkh4VElmdWJia1FsVmVJU1ZJZnV0UWJKRDlQaUQwUENfb2wzQlpYZWhZYU9ldzhJM3p6Zk05RkU0Ry0zUHFmZnZIT2tMWHdJaDNPYUM2TmEydWllR2IzY2dHZmRsWVdOR25NVUJQWG5nUXp5Z0preG1wQ3hiTGpaT2NLQW1TVGc4R0xpcUhrelYzNEVzS0NWbmJsVi1sXzNFY01kNllJcmxuZ29yZw",
+   "source": "Trefis",
+   "published_at": "2026-10-09T18:21:45+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Trefis",
+     "published_at": "2026-10-09T18:21:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFdSS1ZVdkh4VElmdWJia1FsVmVJU1ZJZnV0UWJKRDlQaUQwUENfb2wzQlpYZWhZYU9ldzhJM3p6Zk05RkU0Ry0zUHFmZnZIT2tMWHdJaDNPYUM2TmEydWllR2IzY2dHZmRsWVdOR25NVUJQWG5nUXp5Z0preG1wQ3hiTGpaT2NLQW1TVGc4R0xpcUhrelYzNEVzS0NWbmJsVi1sXzNFY01kNllJcmxuZ29yZw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T18:22:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHFjeG5EV1FmbGhsNldvcnNlYTAwRW5NUzNrMGZoaFJ4aF9iaFU4dm9RcUVSOHVoMUdGX1gwNnBZU0JTTXFuVERhWHd1b1lhNkFiM1lSc005ejFnck1mM2E5b3lrUDJpd3I5VkJ5aHJJaG1iYWVyVElSR1FOck8zNjNvcjFYamV6R0RidVJmNFZIZGZLVzkzOFIxa3hQUmRk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "899b36d43897",
+   "title": "Nvidia-Backed Fermus Wanted $30 Billion Valuation on Just $51 Million in Revenue - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUVsamVTZHZRTVk3eENlVm9sMEZZRkN5TnFNZWlaWEt2LTRkWXpYRURQdi1IQU9sTTBRUEc5aXVwb2lLMnI5OWUtUmh5NDlIQ2NvT09oT2haRWpNUV95OE5ZSDVlbFc1Nl90MFp3eHFRNEs2Q2tYNllwcHNoYjJjM3NnMjZnQ3doQ052S0ZDbWdZR3M1VUZNN2hn",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-09T18:20:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T18:20:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUVsamVTZHZRTVk3eENlVm9sMEZZRkN5TnFNZWlaWEt2LTRkWXpYRURQdi1IQU9sTTBRUEc5aXVwb2lLMnI5OWUtUmh5NDlIQ2NvT09oT2haRWpNUV95OE5ZSDVlbFc1Nl90MFp3eHFRNEs2Q2tYNllwcHNoYjJjM3NnMjZnQ3doQ052S0ZDbWdZR3M1VUZNN2hn"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "3ca003f643b8",
@@ -6790,66 +6846,6 @@
     "pct": -0.26,
     "window_h": 0.4
    }
-  },
-  {
-   "id": "189a40bcd081",
-   "title": "英伟达(NVDA.O)：旨在增强美国在关键领域的超级智能研发能力，以维护美国在这些领域的领 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzdCMkJPeTU5MVc1QU1fbW5TX3R3Z0pSZG5OM1ZFMEVaYnI4eFpqUGlmbTRLNUcwUUlSUG05TVdjaVlfYlRnNmJGQ0RVaTFlSk9uQTMzUm9hb2NyTmdueWhiS3R6UGREY0lwLXdJT1Q1YnNfQmZQYVdVMHNETHdMeXhCamhPR01GcjNUSDQxTldhVWc4QW93",
-   "source": "富途牛牛",
-   "published_at": "2026-10-08T14:34:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-08T14:34:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzdCMkJPeTU5MVc1QU1fbW5TX3R3Z0pSZG5OM1ZFMEVaYnI4eFpqUGlmbTRLNUcwUUlSUG05TVdjaVlfYlRnNmJGQ0RVaTFlSk9uQTMzUm9hb2NyTmdueWhiS3R6UGREY0lwLXdJT1Q1YnNfQmZQYVdVMHNETHdMeXhCamhPR01GcjNUSDQxTldhVWc4QW93"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "增强美国关键领域超级智能研发能力",
-   "title_zh": "英伟达(NVDA.O)：旨在增强美国在关键领域的超级智能研发能力，以维护美国在这些领域的领 - 富途牛牛",
-   "sentiment": 1
-  },
-  {
-   "id": "45cd0ae98633",
-   "title": "NVIDIA exec says one company has the edge on self-driving cars - Detroit Free Press",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenFyblFIV2otMlVNSUhlSmhfelB6R3JwMWtVUDF0bW1qeHAyZ2RPWXRkOGxvZUFxbDg1RXNyZHh3X0k1aFRLZ3J4V1oxTXN2bVhmMkxPQ0M3blFCUnp2S2o4TEhLNV9MbklURTVudm9lRjUwT3l3MGpRQmp0T1oyX0tYaTkwQm1ELTlfdWpjazJqb3NRc3F2TmVEcGJ5MjZoYWcwVA",
-   "source": "Detroit Free Press",
-   "published_at": "2026-10-08T14:34:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Detroit Free Press",
-     "published_at": "2026-10-08T14:34:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenFyblFIV2otMlVNSUhlSmhfelB6R3JwMWtVUDF0bW1qeHAyZ2RPWXRkOGxvZUFxbDg1RXNyZHh3X0k1aFRLZ3J4V1oxTXN2bVhmMkxPQ0M3blFCUnp2S2o4TEhLNV9MbklURTVudm9lRjUwT3l3MGpRQmp0T1oyX0tYaTkwQm1ELTlfdWpjazJqb3NRc3F2TmVEcGJ5MjZoYWcwVA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达高管称自动驾驶领域有一家公司占优势",
-   "title_zh": "英伟达高管：自动驾驶领域一家公司具领先优势",
-   "sentiment": 0
-  },
-  {
-   "id": "ea04bcf08a27",
-   "title": "英伟达：旨在扩大美国在关乎其领导地位的关键领域的超级智能研发产能。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZOEczMWJ0QTBGUUVlTHhlYjI5SldMb0RMVnNFUWdrTmVLdkFOS0FGN2JXM1o2ZTBfWVlQMFZnQkF4bnlCeGZJUWF0Zw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-08T14:33:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-08T14:33:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZOEczMWJ0QTBGUUVlTHhlYjI5SldMb0RMVnNFUWdrTmVLdkFOS0FGN2JXM1o2ZTBfWVlQMFZnQkF4bnlCeGZJUWF0Zw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达称扩大美国超级智能研发产能",
-   "title_zh": "英伟达：旨在扩大美国在关乎其领导地位的关键领域的超级智能研发产能。 - 手机新浪网",
-   "sentiment": 1
   }
  ]
 }
