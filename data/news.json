@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T11:06:30.690919+00:00",
+ "updated_at": "2026-10-09T11:21:32.465149+00:00",
  "market": {
   "price": 230.48,
   "change_pct": -2.94,
@@ -10,7 +10,7 @@
    "days_left": 39
   },
   "day_sentiment": {
-   "avg": 0.46,
+   "avg": 0.49,
    "count": 61
   },
   "daily_signal": {
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.46（61条已评分）"
+     "note": "今日新闻情绪 +0.49（61条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.8,
    "ma20": 226.18,
-   "as_of": "2026-10-09T11:06:30.680010+00:00"
+   "as_of": "2026-10-09T11:21:32.447634+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -62,23 +62,130 @@
  },
  "stories": [
   {
+   "id": "b77f6d0b6d81",
+   "title": "SpaceX Just Gave Me 40 Billion Reasons to Add More Nvidia - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUNPVHo0YTZjZXo4UGxobTZVOFZxRnp3WmlzSEoyUnYtcU9CZ1R4eUJ2Uk1BZ2hqSVR0OUdkSEhibXY3dTV1aDdNZ0o5Wi1Vdnlkek82ZG5nQmdoZDZCSDU4TWdUZUNjRHhnMDB2ZVIzZkFoUHlzTVd2LXBaTUVXRXl4eXQzV0o4V0gtVDJEZ05oeEw5cEhtVGQ2dk83bjJYbWln",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-09T11:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-09T11:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUNPVHo0YTZjZXo4UGxobTZVOFZxRnp3WmlzSEoyUnYtcU9CZ1R4eUJ2Uk1BZ2hqSVR0OUdkSEhibXY3dTV1aDdNZ0o5Wi1Vdnlkek82ZG5nQmdoZDZCSDU4TWdUZUNjRHhnMDB2ZVIzZkFoUHlzTVd2LXBaTUVXRXl4eXQzV0o4V0gtVDJEZ05oeEw5cEhtVGQ2dk83bjJYbWln"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "57199c1a7172",
+   "title": "OpenAI's Revenue Is Reportedly $20 Billion Lower Than Thought. Nvidia Just Lost $170 Billion - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYUQ4MWJIczJPcVozSmhweGhibXBYa2Z5dUExMk9JUTNZeldNcXB2ZEhqdnRBd2ZQblRmSUtWMnNpU2ZnNkJVUkdraVoxb0JCb2ZWemJUb2NyazkwbkNJRmMxWDBWSXViN3RmWmstSHNFcFpYWl9oZmExQWgzUlFTalFNSVQ1Y0J0UnNiTFhaRzhrNDdYV2FsM2RxUldQam1DOHY1Q1JpdzNfQWJzZDJ1UTN5blFXckV0OTNfZkZHWFJaYm5Xcm5iQjhOb0M",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-09T11:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-09T11:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYUQ4MWJIczJPcVozSmhweGhibXBYa2Z5dUExMk9JUTNZeldNcXB2ZEhqdnRBd2ZQblRmSUtWMnNpU2ZnNkJVUkdraVoxb0JCb2ZWemJUb2NyazkwbkNJRmMxWDBWSXViN3RmWmstSHNFcFpYWl9oZmExQWgzUlFTalFNSVQ1Y0J0UnNiTFhaRzhrNDdYV2FsM2RxUldQam1DOHY1Q1JpdzNfQWJzZDJ1UTN5blFXckV0OTNfZkZHWFJaYm5Xcm5iQjhOb0M"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
+  {
+   "id": "13af995c1bd9",
+   "title": "Nvidia Shows Acquisition Interest in OpenRouter Amid Strong Valu - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMnduZmJNaDVMd1pLeTBoc25xeUhCZjItMkhPTzd6S1pGUnlYb0pGV1hBZlloVEVnT2FlSHdVWHpsMGRvVFNzSndFR1pCWE1WV056M2gweG9WQ196eGNmaFk0VUJ2a1pBdWFEMnhUQy1ranoxZE1hUVhfc3ZuSmw5YW04VWtiMTZCZG9Bd1Z6Nk11bTZ2VWg2SThncDlUUFh0cWx5WkJuUzlSbUhPbW9zTXFNT0VNR1E2TmFXYzRB",
+   "source": "GuruFocus",
+   "published_at": "2026-10-09T11:05:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-09T11:05:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMnduZmJNaDVMd1pLeTBoc25xeUhCZjItMkhPTzd6S1pGUnlYb0pGV1hBZlloVEVnT2FlSHdVWHpsMGRvVFNzSndFR1pCWE1WV056M2gweG9WQ196eGNmaFk0VUJ2a1pBdWFEMnhUQy1ranoxZE1hUVhfc3ZuSmw5YW04VWtiMTZCZG9Bd1Z6Nk11bTZ2VWg2SThncDlUUFh0cWx5WkJuUzlSbUhPbW9zTXFNT0VNR1E2TmFXYzRB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "06096cba2a8d",
+   "title": "Nvidia GPU servers exposed to crash risk via monitoring tool - Cybernews",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53bHJWS3JCQlZvTFpzTTJfVTVJWXJsUzU1NzdsWGo0dnlCYjN2SWNrYUlKRUpNRlpsS0xoVk54czJtd2QydG5JdFdQck13XzRfTi1XQUh0eWxjT25sTkVjRXNzZ3NEZ28weGpVTDZiUHQyOGp1",
+   "source": "Cybernews",
+   "published_at": "2026-10-09T11:03:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Cybernews",
+     "published_at": "2026-10-09T11:03:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53bHJWS3JCQlZvTFpzTTJfVTVJWXJsUzU1NzdsWGo0dnlCYjN2SWNrYUlKRUpNRlpsS0xoVk54czJtd2QydG5JdFdQck13XzRfTi1XQUh0eWxjT25sTkVjRXNzZ3NEZ28weGpVTDZiUHQyOGp1"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "72075bccc153",
+   "title": "Jay Woods breaks down Nvidia's warning signs and key market levels - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXM2QTFXaTZNY0NQZjVENjRaQmhWZXlGZmdxQXgtMlJKTHVqRHZmd1VEUUZsTEwwQzRWLTNkRmdvSlk2NGs4Rk9pUXNpVmkxRUVzaUhPT1k2czBSZlphYjVrNGVOZjhaQlp2YldqN1dLdVlnR2dYVmdJYnU4NHk3cW0xSThMQkdpYWtGdWxLblhJS0o4dnRtMFlDNlRhSDNoRDRZOWVSOFBLTGhy",
+   "source": "CNBC",
+   "published_at": "2026-10-09T11:01:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-09T11:01:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXM2QTFXaTZNY0NQZjVENjRaQmhWZXlGZmdxQXgtMlJKTHVqRHZmd1VEUUZsTEwwQzRWLTNkRmdvSlk2NGs4Rk9pUXNpVmkxRUVzaUhPT1k2czBSZlphYjVrNGVOZjhaQlp2YldqN1dLdVlnR2dYVmdJYnU4NHk3cW0xSThMQkdpYWtGdWxLblhJS0o4dnRtMFlDNlRhSDNoRDRZOWVSOFBLTGhy"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
+   "id": "ff64cc8a18e6",
+   "title": "Fund Update: 285,209 NVIDIA (NVDA) shares added to Border to Coast Pensions Partnership Ltd portfolio - Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWWlQakp2Q25JS0dUNzhUMkRzam81Z3kzcURoXzNTN0FQQ2l1R0loMkx5dU1Rd3ZIOXVxb0tKc0M3czlOTS1hOU5KbDJMWndOUjUxRlVoUzcyc254elRWUUpyRWxMYVpXQ3JBcFl0T1FHX3Bmb1BONU84RVJhWXh4VzQ0NDczWEYtSGNSa0tlRmdWVTg0dkEzcURFNVpMUmQ0NDB2TW9LZ3hJWmN5R08tSEhIVGRmUWloTVlXMUNsWnVBYjFRX05pVlRZdV9VRWNSc0tvRGsxTnVXdw",
+   "source": "Quiver Quantitative",
+   "published_at": "2026-10-09T11:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quiver Quantitative",
+     "published_at": "2026-10-09T11:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWWlQakp2Q25JS0dUNzhUMkRzam81Z3kzcURoXzNTN0FQQ2l1R0loMkx5dU1Rd3ZIOXVxb0tKc0M3czlOTS1hOU5KbDJMWndOUjUxRlVoUzcyc254elRWUUpyRWxMYVpXQ3JBcFl0T1FHX3Bmb1BONU84RVJhWXh4VzQ0NDczWEYtSGNSa0tlRmdWVTg0dkEzcURFNVpMUmQ0NDB2TW9LZ3hJWmN5R08tSEhIVGRmUWloTVlXMUNsWnVBYjFRX05pVlRZdV9VRWNSc0tvRGsxTnVXdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "64f3b2b7679c",
    "title": "英伟达牵手微软携手，以 RTX Spark 和 AI 智能体开启 Windows PC 新序章 - www.caiwennews.com",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kNmhoVHVFMmxuMVJmQ2xGNmtuemUydlQwcGFSTDBNcjAtbUx1SXFBekZPRTR4Vkh3dHBwYm9FVElXUHRVTXY2cmRldUIwNVh4ckljRnNLYmFobGF0",
    "source": "www.caiwennews.com",
    "published_at": "2026-10-09T10:54:55+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "www.caiwennews.com",
      "published_at": "2026-10-09T10:54:55+00:00",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kNmhoVHVFMmxuMVJmQ2xGNmtuemUydlQwcGFSTDBNcjAtbUx1SXFBekZPRTR4Vkh3dHBwYm9FVElXUHRVTXY2cmRldUIwNVh4ckljRnNLYmFobGF0"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-09T11:13:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JZ0tjRHlUa2tuOUFVN2VOWUNlaEdsSFJiTzhESzNrUWgybms2UFRRV1lnQVltRFhtUFl3djZTcjJkMS1FcDl1WTRJQ092Z1BqUVlvdUF2Z1M2NWpXUktxZzlvT3c4UGdNLTNQdHdiQUwwaDIwRWFIc2k5dkFvbnc"
     }
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "英伟达牵手微软携手，以 RTX Spark 和 AI 智能体开启 Windows PC 新序章 - www.caiwennews.com",
    "zh_summary": "英伟达携手微软推RTX Spark",
+   "title_zh": "英伟达牵手微软携手，以 RTX Spark 和 AI 智能体开启 Windows PC 新序章 - www.caiwennews.com",
    "sentiment": 1
   },
   {
@@ -97,8 +204,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "英伟达携手微软，笔记本电脑10月16日上市 - Sohu",
    "zh_summary": "英伟达与微软合作笔记本10月16日上市",
+   "title_zh": "英伟达携手微软，笔记本电脑10月16日上市 - Sohu",
    "sentiment": 1
   },
   {
@@ -330,31 +437,6 @@
    "zh_summary": "英伟达支持的Firmus取消50亿美元IPO",
    "title_zh": "市场传言：英伟达支持的Firmus取消50亿美元IPO",
    "sentiment": -1
-  },
-  {
-   "id": "40332938bf1c",
-   "title": "英伟达拟投资芯片竞争对手d‑Matrix：一众挑战者纷纷选择合作路线 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM3JDMGsxcmtjRkxSbkt3TnV6VEVlZk0wTzVvYkRDR2pWOGROb3hybkthMWFDSm1RVnRZMWRGeTFpQUdSQmUwYWRSVU42N3AwYVRpZnZxelpDZ3VjaHJiYTMyVG1pbFhKcWU3OFprSXY2Z0wtNFFFWjFyclhaZHVnY3Rhck9DWTJDVFdxLVJYVmdxRDVtMmhwNDdobjI1akZCclUxU3AyTFZvT09PdGd3ZUdaMlhaczBfYjZvSDYwckp4ZXlMTmlPbG9ENDc4UTRIRkdFZW9PaGpuMTY3TXc",
-   "source": "新浪财经",
-   "published_at": "2026-10-09T09:24:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-09T09:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM3JDMGsxcmtjRkxSbkt3TnV6VEVlZk0wTzVvYkRDR2pWOGROb3hybkthMWFDSm1RVnRZMWRGeTFpQUdSQmUwYWRSVU42N3AwYVRpZnZxelpDZ3VjaHJiYTMyVG1pbFhKcWU3OFprSXY2Z0wtNFFFWjFyclhaZHVnY3Rhck9DWTJDVFdxLVJYVmdxRDVtMmhwNDdobjI1akZCclUxU3AyTFZvT09PdGd3ZUdaMlhaczBfYjZvSDYwckp4ZXlMTmlPbG9ENDc4UTRIRkdFZW9PaGpuMTY3TXc"
-    },
-    {
-     "name": "cnBeta.COM",
-     "published_at": "2026-10-09T09:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1acGs3ZzVRR3pDb2VLczc4OEVPRGhkMnQwUGt5dXoxSzhES3UxMkpGYXVCV095TG44clhoNjZrVFFlRERnNlhySzRLTERvQWlsWUN0NXc5RkctNlcwaXp0bA"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达拟投资d-Matrix",
-   "title_zh": "英伟达拟投资芯片竞争对手d-Matrix：一众挑战者纷纷选择合作路线",
-   "sentiment": 1
   },
   {
    "id": "51c1e6efb295",
@@ -912,26 +994,6 @@
    "sentiment": 1
   },
   {
-   "id": "fbc52b4f1964",
-   "title": "NVIDIA Corporation $NVDA Stock Holdings Cut by OMERS ADMINISTRATION Corp - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLVdRMEZCRUY4YlIyMlBwUW5fR3RZa3d3YUplRkZCSGc4NXcta09MOG9SWnFTMDlua2J6X1c0RkpkR3BldEpDZmIzSEZrUnBKUDlnSE1MaEhyNFJPcV94TWQyVDZ6QlhNTHFFWktnVFpDNnAyd2VDZlJ2Yjk4dXhLZ0U3NHZYWmxvS2x2X080ckh2cEw0bl90c2RKcWZ5MmFLZGVfTWI2bEs2Vk9DUE5TNW14WEpTQ2w4RXZkM3pnek9iMFp6X21uaG1mdi0",
-   "source": "MarketBeat",
-   "published_at": "2026-10-09T07:37:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-09T07:37:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLVdRMEZCRUY4YlIyMlBwUW5fR3RZa3d3YUplRkZCSGc4NXcta09MOG9SWnFTMDlua2J6X1c0RkpkR3BldEpDZmIzSEZrUnBKUDlnSE1MaEhyNFJPcV94TWQyVDZ6QlhNTHFFWktnVFpDNnAyd2VDZlJ2Yjk4dXhLZ0U3NHZYWmxvS2x2X080ckh2cEw0bl90c2RKcWZ5MmFLZGVfTWI2bEs2Vk9DUE5TNW14WEpTQ2w4RXZkM3pnek9iMFp6X21uaG1mdi0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "OMERS减持英伟达$NVDA",
-   "title_zh": "OMERS减持英伟达$NVDA持股",
-   "sentiment": -1
-  },
-  {
    "id": "8ea8c371a9bc",
    "title": "NVIDIA Corporation $NVDA Stock Position Increased by Infrastructure Capital Advisors LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWEFsOEhwdm9nLU1JYzRvMWdyYkFkWXhZdG1SbTNicHo4Vm9XYXVKZHZ1cUVtODk5SHJtQVcwQTJ2Y0lYeWNxZWFZYnNPaGJBMm1TSkJLYVhPODhtNGQwZEdoZnlGT2ZSU2V2dFRqNVl3MFJ3RjZ4aTk1Z0hBZU03bTd2OFB1S0huNlEwV2JhZzc0V3cxNHZ2UVotZ29weHBEYnptblpCbTFhbk1VZEdwcHFCMThBeTBieEpJTm5RV3NVTElGd1p0ODdJS2xxQlh3QXFqSVl4Q0w4SHc4NGEwaDln",
@@ -1372,10 +1434,15 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObU5VWmFYX2J2Ri1fWEJaTkc3X3RKVUdZa3J3OTlwMy1tR21rVUhoNXB0NnNGSllXUVREWjVJNUdwYlJrNnRCbGRibkNRRU5rem1fTzlURnhISXFJUXRhc3RqbkJHQ2J6OUZMd2FTUkxqRGp3ZXZDSWFtWTVYVVphbUozdE5Xdzc4",
    "source": "搜狐网",
    "published_at": "2026-10-09T05:08:49+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐网",
+     "published_at": "2026-10-09T05:08:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObU5VWmFYX2J2Ri1fWEJaTkc3X3RKVUdZa3J3OTlwMy1tR21rVUhoNXB0NnNGSllXUVREWjVJNUdwYlJrNnRCbGRibkNRRU5rem1fTzlURnhISXFJUXRhc3RqbkJHQ2J6OUZMd2FTUkxqRGp3ZXZDSWFtWTVYVVphbUozdE5Xdzc4"
+    },
+    {
+     "name": "Sohu",
      "published_at": "2026-10-09T05:08:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObU5VWmFYX2J2Ri1fWEJaTkc3X3RKVUdZa3J3OTlwMy1tR21rVUhoNXB0NnNGSllXUVREWjVJNUdwYlJrNnRCbGRibkNRRU5rem1fTzlURnhISXFJUXRhc3RqbkJHQ2J6OUZMd2FTUkxqRGp3ZXZDSWFtWTVYVVphbUozdE5Xdzc4"
     }
@@ -1958,7 +2025,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PUWhMclV0dFVxTXZwZ0dJR1hlVWZVVGVxSG5pZGJYVFRiTi1KV01HNDJlUVlxMXowZHdqM0RJV19rWE56RkF2Q1JNY0dBcElBRGRhaW5abVdQQ1BlOFh1cGJ0cjVPQzZkSU1ELWJQdXdzcHZiNzlDOWp2N3NQQVk",
    "source": "新浪网",
    "published_at": "2026-10-09T02:09:40+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "新浪网",
@@ -1969,6 +2036,11 @@
      "name": "搜狐网",
      "published_at": "2026-10-09T05:10:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQnpsakMyN21NZU5OUzRxYjl0b2c3NnRteElxaC05eE9iblhMQkJySzJPQlFTMURHUVVaOVJDN3BmUE9wOE1oX3g1eDNOVHdKVFpTUWtMQjNpVktwMWRZWGF3dlI1NEd0dENLd0dGRk02RDFpOFlLY0gyRmRjMzdKblBTbWdzek16"
+    },
+    {
+     "name": "央广网",
+     "published_at": "2026-10-09T05:10:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Cd2ZYM09CekpnNmpJMkRXREtmaUF1ajdJSFRtaHp0Sl9QZWxnVExZQ18wUV9FYzNJbVMtaEtwQkhYSGl5SC1YOFpqazZKR01LVG1MLUVyZjZ1VUNES2Z3Ujlwc0xTeVhybUxwNG53"
     }
    ],
    "category": "产品技术",
@@ -3681,6 +3753,40 @@
    "zh_summary": "英伟达系Upscale推出AI网络新品",
    "title_zh": "英伟达支持的Upscale以Token Fabric打破AI网络孤岛",
    "sentiment": 1
+  },
+  {
+   "id": "40332938bf1c",
+   "title": "英伟达拟投资芯片竞争对手d‑Matrix：一众挑战者纷纷选择合作路线 - 雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4SjRwMmlOOEI5aE5ubTBiaFFDY1V6a0daSS1TTWxIekdmU0tzbTh1aVVhSUU5Y2FubzRjY3hfNlFSUk5vSU54SExHaVE1WUp3",
+   "source": "雪球",
+   "published_at": "2026-10-08T18:30:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "雪球",
+     "published_at": "2026-10-08T18:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4SjRwMmlOOEI5aE5ubTBiaFFDY1V6a0daSS1TTWxIekdmU0tzbTh1aVVhSUU5Y2FubzRjY3hfNlFSUk5vSU54SExHaVE1WUp3"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-09T09:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM3JDMGsxcmtjRkxSbkt3TnV6VEVlZk0wTzVvYkRDR2pWOGROb3hybkthMWFDSm1RVnRZMWRGeTFpQUdSQmUwYWRSVU42N3AwYVRpZnZxelpDZ3VjaHJiYTMyVG1pbFhKcWU3OFprSXY2Z0wtNFFFWjFyclhaZHVnY3Rhck9DWTJDVFdxLVJYVmdxRDVtMmhwNDdobjI1akZCclUxU3AyTFZvT09PdGd3ZUdaMlhaczBfYjZvSDYwckp4ZXlMTmlPbG9ENDc4UTRIRkdFZW9PaGpuMTY3TXc"
+    },
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-09T09:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1acGs3ZzVRR3pDb2VLczc4OEVPRGhkMnQwUGt5dXoxSzhES3UxMkpGYXVCV095TG44clhoNjZrVFFlRERnNlhySzRLTERvQWlsWUN0NXc5RkctNlcwaXp0bA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中",
+   "zh_summary": "英伟达拟投资d-Matrix",
+   "title_zh": "英伟达拟投资芯片竞争对手d-Matrix：一众挑战者纷纷选择合作路线",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.2,
+    "window_h": 1.5
+   }
   },
   {
    "id": "ed2a851672fa",
@@ -6590,125 +6696,6 @@
    "zh_summary": "英伟达GPU价格2006对比2026",
    "title_zh": "英伟达GPU价格2006年对比2026年",
    "sentiment": 0
-  },
-  {
-   "id": "f78cc7b6cd25",
-   "title": "Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots - Ars Technica",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFdGb2V6YWlNaUZ2Q0MzSzI1d3o5X0ZRa2xCckNpX3NnTk9pMnJWMTNwY1Z4STB0QTZaTFhCQVNnUjlFLXlNbUJOejJ1aEYtTVFlcE81QkJjbXdaQnIzVHdxZ3pQeEI5NGNXNE4wMzVuRjRpMC00cDlCUHRteWpyc2tidjRzSlFkaTJUakdIYnBGSGhsN3dZM2VXUGlOd1RzVEs3elhCS0NWSG8",
-   "source": "Ars Technica",
-   "published_at": "2026-10-08T11:15:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Ars Technica",
-     "published_at": "2026-10-08T11:15:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFdGb2V6YWlNaUZ2Q0MzSzI1d3o5X0ZRa2xCckNpX3NnTk9pMnJWMTNwY1Z4STB0QTZaTFhCQVNnUjlFLXlNbUJOejJ1aEYtTVFlcE81QkJjbXdaQnIzVHdxZ3pQeEI5NGNXNE4wMzVuRjRpMC00cDlCUHRteWpyc2tidjRzSlFkaTJUakdIYnBGSGhsN3dZM2VXUGlOd1RzVEs3elhCS0NWSG8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达押注实体AI与人形机器人",
-   "title_zh": "英伟达押注实体AI：更安全的无人出租车与人形机器人",
-   "sentiment": 1
-  },
-  {
-   "id": "e58f61878556",
-   "title": "All of the new NVIDIA RTX Spark-powered Copilot+ PCs now up for pre-order from Microsoft, Dell, HP, and more - 9to5Toys",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjZ0MG02d00zcnRqLWozeHh0MzJTb2wtWklGYk1GWUZVUE5OSkF1S0M4NFFpdWZSTVozbC1HTU1Sd3piZnplTDFfbmU1ZFc1OVF1eEtCa0FxWUU5NXh1YjV3TWRhYmxWV2dROFo3WlZVbzdGdGtSbkN2YnZLMXNmeUlTbFc3VlV0NDZjRVZJTk11NEk5MFVrM0NB",
-   "source": "9to5Toys",
-   "published_at": "2026-10-08T11:14:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "9to5Toys",
-     "published_at": "2026-10-08T11:14:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjZ0MG02d00zcnRqLWozeHh0MzJTb2wtWklGYk1GWUZVUE5OSkF1S0M4NFFpdWZSTVozbC1HTU1Sd3piZnplTDFfbmU1ZFc1OVF1eEtCa0FxWUU5NXh1YjV3TWRhYmxWV2dROFo3WlZVbzdGdGtSbkN2YnZLMXNmeUlTbFc3VlV0NDZjRVZJTk11NEk5MFVrM0NB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "微软/戴尔/惠普开启RTX Spark PC预售",
-   "title_zh": "搭载RTX Spark的新款Copilot+ PC已开放预售",
-   "sentiment": 1
-  },
-  {
-   "id": "b209120f893f",
-   "title": "萨提亚、黄仁勋同台：RTX Spark落地，微软与英伟达为Agent时代打造Windows PC！ - 科技行者",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JTGR3eEtCUWI4bXlqVXhaWDJwbFc0SzQta2RXc19DR29hODBYWlhjTDJIblYzNWJpM3p5cGdIT1J4SzRLeS1DZ0h2ak1KQmRtdzR0TllZeGxlUl9STUhN",
-   "source": "科技行者",
-   "published_at": "2026-10-08T11:12:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "科技行者",
-     "published_at": "2026-10-08T11:12:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JTGR3eEtCUWI4bXlqVXhaWDJwbFc0SzQta2RXc19DR29hODBYWlhjTDJIblYzNWJpM3p5cGdIT1J4SzRLeS1DZ0h2ak1KQmRtdzR0TllZeGxlUl9STUhN"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "微软与英伟达联合推出RTX Spark PC",
-   "title_zh": "萨提亚、黄仁勋同台：RTX Spark落地，微软与英伟达为Agent时代打造Windows PC！ - 科技行者",
-   "sentiment": 1
-  },
-  {
-   "id": "7f171e1d537d",
-   "title": "1 Reason Nvidia Is a Screaming Buy in October, and 1 Reason Investors Should Be Cautious - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUVMMGFicmZfaVFPZ0oyRGFuTGJOWXVoOTUyZEN6UHhlX0h0TmFpTWNrRXRRYnBncmpqWmNBaFVPZDlSUHprdGhqeDVpQ0tyaUVHRFRMMHhSbE1tbjBlell3SExFaHhHZXZrY0cwbVQtWXZwUGc0LWdkZlZtLVBtVHQ3ZGc1SktaTWY2SzZ5VE1aU01qcXhYTnRn",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-08T11:10:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-08T11:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUVMMGFicmZfaVFPZ0oyRGFuTGJOWXVoOTUyZEN6UHhlX0h0TmFpTWNrRXRRYnBncmpqWmNBaFVPZDlSUHprdGhqeDVpQ0tyaUVHRFRMMHhSbE1tbjBlell3SExFaHhHZXZrY0cwbVQtWXZwUGc0LWdkZlZtLVBtVHQ3ZGc1SktaTWY2SzZ5VE1aU01qcXhYTnRn"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-08T11:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJRExSWXY1RVFTSURHNkVHenhfWWFEZDcyb2NHY1lKVVVqWnQxZ1VLeS13WVFkRHNIRzBOUFVKeGtfam9rME40aktGN2xzUUpNSTJfSU92V3NyVTRYTWhQUHBpYklmWFFGb0hwYVFBSXltc1RpaERIOU1UVE5lUQ"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-08T11:33:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPN1EzaE4zMDEzR3NQX21jXzJiVHg5OXh1REpzTUFMX2VQZkxRemwtM3VWOFBFT0J3N2N3ZUpzYWVMbEQ0ZC0wcnBpckkwbUFPQ19xb0tZWVNKYmFyQzJ0ajlIcXVYdXVyM2lYUy1RbDYzNlBRd1pPWWdvWUs5dlFENUFxT0t5S1NXQnBkVlBCekU3b2dpWmllMnFDanFxWVFpaFI0eEFRanRrQ0oyanVrRHZOaUJkcEJrb0dFcDBRaFhzYlV3aWlRdnVSVlMwUUpBQ3VCNVRiUWhmcGgwZUl2RlFEOHlGOHB5b3pIbWR3eFd2VURjVUpLZEVQdWRYaUwyaUE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "看多买入理由与一项谨慎理由",
-   "title_zh": "英伟达10月值得买的1个理由和应谨慎的1个理由",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.04,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "4292e5cda33c",
-   "title": "搭载英伟达超级芯片，联想AI PC来了！ - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zdl9wbE9CZThGTGRqWjFJaGhrWFVKWmNiZUNLTDd3Rnd1QUZyblVIdU9GS2JMR1ZjYURMTEFLV05xX090azRYTEZtYXNJWDVhcnBoNmR0RkU0NHIwZHUzbGplT1U2WlhRLWN1Tm9jX0tkbzZnOFZQdA",
-   "source": "新浪财经",
-   "published_at": "2026-10-08T11:10:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-08T11:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zdl9wbE9CZThGTGRqWjFJaGhrWFVKWmNiZUNLTDd3Rnd1QUZyblVIdU9GS2JMR1ZjYURMTEFLV05xX090azRYTEZtYXNJWDVhcnBoNmR0RkU0NHIwZHUzbGplT1U2WlhRLWN1Tm9jX0tkbzZnOFZQdA"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T13:15:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTnNpV1ltQjctTEtWSlJTTXJaTDZFT3lENXFTbkd5S0hvX2pUaXdrVTcwUGoyc2drQ25CclBFTThWa3FvT2NEWWdaNG93MzRDS3NGZWEyV3Z1SlFnSXA1WU5LWDNocklTakdmREZxdmlSNmk2YWctMjNseDNCNDRCaXZaYnF1VEIyLUx4ZA"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "联想推出搭载英伟达超级芯片AI PC",
-   "title_zh": "搭载英伟达超级芯片，联想AI PC来了！ - 新浪财经",
-   "sentiment": 1
   }
  ]
 }
