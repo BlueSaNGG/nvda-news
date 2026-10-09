@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-09T17:36:31.527685+00:00",
+ "updated_at": "2026-10-09T17:51:40.738185+00:00",
  "market": {
-  "price": 229.5,
-  "change_pct": -0.43,
+  "price": 229.6,
+  "change_pct": -0.38,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 39
   },
   "day_sentiment": {
-   "avg": 0.32,
-   "count": 117
+   "avg": 0.31,
+   "count": 118
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +37.3%"
+     "note": "目标价中位数 $315（15家），隐含空间 +37.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.32（117条已评分）"
+     "note": "今日新闻情绪 +0.31（118条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $229.50 vs 20日均线 $226.75"
+     "note": "现价 $229.60 vs 20日均线 $226.75"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 87,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 37.3,
+   "implied_upside_pct": 37.2,
    "ma20": 226.75,
-   "as_of": "2026-10-09T17:36:31.512498+00:00"
+   "as_of": "2026-10-09T17:51:40.728677+00:00"
   },
   "pe_ttm": 29.2,
   "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.3%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -593,7 +593,7 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeGdDX19XYWJWaVFjMk4zRFo3QWVzbVZYZGpOT0RfUDFQRVBta3RuR3ZObVRqU0oyakUzdmxlNWljZVRrX1pHOTJuZFp1dE44end2UkFQLTFmVTRyRWVSM0t5VE9mYndrUnNEeVg1OHllbTNSeXpwTHdSNUxTbC1kdUppU2lucDVEYlVSU0hqMFdBN0VRd25waWlkZ3VpN1JsUlY2bVhha25EZzdnMGxUUTZQaUdKSWh5VE90alk2MA",
    "source": "MarketWatch",
    "published_at": "2026-10-09T13:21:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "MarketWatch",
@@ -604,13 +604,22 @@
      "name": "Moomoo",
      "published_at": "2026-10-09T13:30:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQTc2XzhQSS1FOHUtb3V0aTZnYTFHWlVyeHM1SWs0YUNKOC04emxnMFoxMUU3eVNGTVZES25YQzBvNTY3alNYSjdRWjdkYmdCVV8xZ1phSEFEX0NWczdCWTNiY0wxVjNoZlluR3hZQmtXWXVaM3Y4RXhnN196RkZDZHc5YVp6dGdZWWlBWk1meEJOQm0zYXFwcnJVa0dYSnNsMGM1WEZR"
+    },
+    {
+     "name": "Morningstar",
+     "published_at": "2026-10-09T13:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcC1lM1BCQ1U2R3ViVHJVTDQ4WlZya21BV3NackZmcm5CLVFZSkxIWEFtaEF6QlFoQXlWcHFCTW81NkpFZlJ1RnE4WmpHUFVGdmZUUWI1a2toc2ctNk1FYVcwT0o4aElwMXJHaFVWWkNtRGs4Qnh5X2UxRUltaGx4ZmZSamNHdXpzaGpSMWdrRVZaX2ZSaWJyMDV5dXV6T25zZ2FJbFM2cFNRQjhyMk8zOFc2RVBjVzVvbXRGQW5lRU1JcnlKMWI3eTZKY0lHM0h3clE"
     }
    ],
    "category": "AI需求",
    "session": "盘前",
    "zh_summary": "OpenAI事项明朗NVDA反弹",
    "title_zh": "英伟达和美光反弹，OpenAI关键事项明朗",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.78,
+    "window_h": 2.0
+   }
   },
   {
    "id": "c98f217a4c34",
@@ -975,6 +984,23 @@
    "zh_summary": "NVDA盘中涨近2%，结束三连跌",
    "title_zh": "英伟达股价预测：盘中涨近2%结束三连跌，新涨势将至？",
    "sentiment": 1
+  },
+  {
+   "id": "2830066967d4",
+   "title": "不起眼的工业微钻，全球市占近三成，鼎泰高科切入英伟达上游 - 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDa0J4NUlLcHhicW1WbUVEVkdRWTdxZUtiRThrMVpXZV9PN054aUxXU1NfSHBzNzVNU3RXNnJWZ3NEY0wxQVBrNVh1dXlwQUct",
+   "source": "凤凰网",
+   "published_at": "2026-10-09T11:27:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-09T11:27:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDa0J4NUlLcHhicW1WbUVEVkdRWTdxZUtiRThrMVpXZV9PN054aUxXU1NfSHBzNzVNU3RXNnJWZ3NEY0wxQVBrNVh1dXlwQUct"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "a03e32300d82",
@@ -2048,6 +2074,40 @@
    "zh_summary": "Allstate卖出237,507股英伟达",
    "title_zh": "Allstate卖出23.75万股英伟达$NVDA股票",
    "sentiment": -1
+  },
+  {
+   "id": "656b8ee9c3fe",
+   "title": "NVIDIA Corporation $NVDA Stock Sold by Polymer Capital Management HK LTD - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDhVa2pES204UlRJM2d4NGF1SHpyQzNpRDViTUNERVdxcWdfVUFrVWlFUElSWXJxOC1xU0VXSkhGdlZ6c1RRQ0hHQ2t3VFFUVXA1OUM1VDJFdnpjSHlyWmlqMlZua0lFVkYzb21XMGh4OXh3cmRyNEs4SFAwOWMtMGE4N3ppT1ZsWjNCSWFwVTI5cWZOV3NpR1dhcDl0a1FnZHc0Tl9YQW9tRTgwYzJfaGI5SDlUMnhlRGFHV0lOX3BYUzdoTE9mWFd0dTI",
+   "source": "MarketBeat",
+   "published_at": "2026-10-09T07:37:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-09T07:37:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDhVa2pES204UlRJM2d4NGF1SHpyQzNpRDViTUNERVdxcWdfVUFrVWlFUElSWXJxOC1xU0VXSkhGdlZ6c1RRQ0hHQ2t3VFFUVXA1OUM1VDJFdnpjSHlyWmlqMlZua0lFVkYzb21XMGh4OXh3cmRyNEs4SFAwOWMtMGE4N3ppT1ZsWjNCSWFwVTI5cWZOV3NpR1dhcDl0a1FnZHc0Tl9YQW9tRTgwYzJfaGI5SDlUMnhlRGFHV0lOX3BYUzdoTE9mWFd0dTI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "08c477c476ba",
+   "title": "2,819 NVIDIA Corporation $NVDA Shares Sold by Leigh Baldwin & CO. LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQak1LWEEwSmJJZjdNN0Z4LTNzT0pTRHN4c0NESWNNWHdIcHM3bVVCQVB5aXh3OU5WLU5SZUJMUFRvTWdGMUhwcGVCeWxub0NOZmt2eHktRzgxT2JyZnBKN18wNERHcmFEU3dQNm5iNmZmeFJYaTMycEpyUDE1TVJIZjZjWUhYM0d4TVVjTHE0YWpaQ2FQNms5ZDI4bWFEY2dEVG43d1pQSGlSREMxb2J1NjFVMTdNSjI2T2RSWjUwejA4ZDg",
+   "source": "MarketBeat",
+   "published_at": "2026-10-09T07:37:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-09T07:37:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQak1LWEEwSmJJZjdNN0Z4LTNzT0pTRHN4c0NESWNNWHdIcHM3bVVCQVB5aXh3OU5WLU5SZUJMUFRvTWdGMUhwcGVCeWxub0NOZmt2eHktRzgxT2JyZnBKN18wNERHcmFEU3dQNm5iNmZmeFJYaTMycEpyUDE1TVJIZjZjWUhYM0d4TVVjTHE0YWpaQ2FQNms5ZDI4bWFEY2dEVG43d1pQSGlSREMxb2J1NjFVMTdNSjI2T2RSWjUwejA4ZDg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "edab735d58c5",
@@ -6752,101 +6812,6 @@
    "zh_summary": "英伟达参与创世纪任务奖第二阶段合作",
    "title_zh": "英伟达公司参与量子、聚变、微电子领域“创世纪任务奖”第二阶段合作。 - 手机新浪网",
    "sentiment": 1
-  },
-  {
-   "id": "873d5f139a79",
-   "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Joins Nvidia in the $5 Trillion Club - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2xTdkx6THZlYm1JZmJhQUxJVHA3QlJ5Q2JnN25tMzRLZ2hKRElwSzRUcE83Vm9WSTZ5UWNLNkVJZU9abFRlbVdray1MWWc2UXBMQWFObm1ZNVdFOVhvMlpOTXZUeHVQUXhZcHl4S0hkVzAxQXNzZy1qdkZ0ZUhwaFdBRzgzNHZWRmRUVVZEMXpaMDhlMjl5Wg",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-08T14:32:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-08T14:32:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2xTdkx6THZlYm1JZmJhQUxJVHA3QlJ5Q2JnN25tMzRLZ2hKRElwSzRUcE83Vm9WSTZ5UWNLNkVJZU9abFRlbVdray1MWWc2UXBMQWFObm1ZNVdFOVhvMlpOTXZUeHVQUXhZcHl4S0hkVzAxQXNzZy1qdkZ0ZUhwaFdBRzgzNHZWRmRUVVZEMXpaMDhlMjl5Wg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "分析称某AI股将加入5万亿美元俱乐部",
-   "title_zh": "AI股有望加入英伟达的5万亿美元俱乐部",
-   "sentiment": 1
-  },
-  {
-   "id": "7963e7c708f7",
-   "title": "英伟达承诺在未来五年内投入$10亿以推动美国科学发展 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9IZ2E4ZHRoZnk4aEpQQXA3UE8wTGRaaF9vRGZGRFo0R3N0Ym4zSHk3Q0lsMlA5YjVaZHY0NVRCMWxNMXZUdXNHNG1TUEJpam9ORVQta3ZsaHFDUTFVRHUtSU9td2M2MUprUnY0X3FTRGtvRzhMQ2R0eDRTMUJqV0Y1NXpwNDlCLXN2SXktdHNZVVhzaGlIRjVFN044OVUxUnhUbXZHVQ",
-   "source": "Moomoo",
-   "published_at": "2026-10-08T14:31:00+00:00",
-   "outlets_count": 7,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-08T14:31:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9IZ2E4ZHRoZnk4aEpQQXA3UE8wTGRaaF9vRGZGRFo0R3N0Ym4zSHk3Q0lsMlA5YjVaZHY0NVRCMWxNMXZUdXNHNG1TUEJpam9ORVQta3ZsaHFDUTFVRHUtSU9td2M2MUprUnY0X3FTRGtvRzhMQ2R0eDRTMUJqV0Y1NXpwNDlCLXN2SXktdHNZVVhzaGlIRjVFN044OVUxUnhUbXZHVQ"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-08T14:32:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EclBaZ2JMMVF0cEtWemF4UDRuSHg1RGNBLXdtTEtLMW51N0xiVGw3NjRuNzN2RkJkRFgtbmFzZDhrZmtBUXB5T2x5U0NWUjg"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-08T14:32:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkJidVVWS0VIclFHU1hWTTZmTnpzcFJDeUNfSmQxaUQ4RGUwUkROMWQ3ejUyWUFjbDg1OEtULVgyWEROSzcwdDUtUWdBdUFSbGpFamt1NlhXUzMtVmFBUXptTzdraUhQaDd2eDdtRXd1c2hCWVVDNElnT2xfYzBmd3FxU3NnU2tiNnF4dmZCQzRPQUlCa0NjTURR"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-08T14:37:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DLUcxaTdESHliSVhzOU5MWWZZcElQVUpjZDNGSUxDNldOc2hKN1JYMGwxaWxSQVpXeFA1M3hoYUtkTVphYXFqRmhhSVJrZ1hncDdGN2ZjY2I5LUNnMmo5cGowcw"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-08T14:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMXBmYUdkUE5CUlFjSUdyV3h0Z0lxXzJjUEx5c2JCX1lWVDczSlphRE90WVh1R0Y4cGEwaEJDX01VYXVQZkYzYTNkVGZMMjF0SGhDYmFYdzVSeEwxTTlLRm1WeGR4ZWdNN3dJbGd4UVE0NEF2bGhLQXlGNkFlNlY1bGZUOFBlSkl2NWMycEJuTHNGYkJkcm1XNDdqRWxyZGd1c0RQdVBPNHV5QUJhRkRVVmVXR21IZ0ttZkJPZ1k1RWc3alE5UzUzd0lnYVc3Nl9GOHc4cjd1RFBRSktFaDA0"
-    },
-    {
-     "name": "cnBeta.COM",
-     "published_at": "2026-10-08T14:54:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5la2NBRGVrWF90TjFtVzRSRlRaOUFZUEh6M0V4WjlaXy1uZGRSOGlVb2ZEYlRJOVJabnNRQ2E3MEtTbVZTLTU1ZFU3T3BGNkd3LThtREs0M0s0T0t0NzJlYw"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-08T14:41:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGJVMVpxaTJ2VmZpcnhDVkR4NkM2dGVzXzBpM045Q29MajhvYmpybkFZWmgxNWN0V1pkWEhhcUtVZDkzS09MTk5kelltQ0RXMjBKdG9Fb1c2WjZIMXZONjN4cFI1MzZxbXg0Qk03RzJJZ1Z5MUdqVTBnXzBEWF9CQVdXWjhrUTUtOENVeA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "breaking": true,
-   "zh_summary": "英伟达承诺五年投10亿美元推动科学发展",
-   "title_zh": "英伟达承诺未来五年投入10亿美元推动美国科学发展。 - 手机新浪网",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.0,
-    "window_h": 0.3
-   }
-  },
-  {
-   "id": "549f6fc7c43e",
-   "title": "Intel Slides 3% as Chip Stocks Sell Off With Yields and Oil Higher; NVIDIA and AMD Slip - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDU2WU80ZHFCVUhacU5IWTlHYWVTR3RYeVQwMkN4Z0VKTnUwV0xUcC1SS1M2YkdTRV93eVlsNk1hRWZBcjAyOWZKNzdReG9BekprbHluV0hNLWplS08wQXJsUGFRbVN6dE1IWkRCR1RQMmpxSE01cnFvLXR6ZGRnMXFjTzR3TTRZY09WeGNoUWNPem4zMEE",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-08T14:05:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-08T14:05:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDU2WU80ZHFCVUhacU5IWTlHYWVTR3RYeVQwMkN4Z0VKTnUwV0xUcC1SS1M2YkdTRV93eVlsNk1hRWZBcjAyOWZKNzdReG9BekprbHluV0hNLWplS08wQXJsUGFRbVN6dE1IWkRCR1RQMmpxSE01cnFvLXR6ZGRnMXFjTzR3TTRZY09WeGNoUWNPem4zMEE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "收益率和油价上涨拖累芯片股下跌",
-   "title_zh": "英特尔重挫3%，收益率和油价上涨拖累芯片股下滑",
-   "sentiment": -1
   }
  ]
 }
