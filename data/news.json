@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T07:21:32.292114+00:00",
+ "updated_at": "2026-10-09T07:36:31.442892+00:00",
  "market": {
   "price": 230.48,
   "change_pct": -2.94,
@@ -10,8 +10,8 @@
    "days_left": 39
   },
   "day_sentiment": {
-   "avg": 0.71,
-   "count": 7
+   "avg": 0.56,
+   "count": 9
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.71（7条已评分）"
+     "note": "今日新闻情绪 +0.56（9条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.8,
    "ma20": 226.18,
-   "as_of": "2026-10-09T07:21:32.269893+00:00"
+   "as_of": "2026-10-09T07:36:31.422753+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -62,17 +62,56 @@
  },
  "stories": [
   {
+   "id": "263bedf92e5d",
+   "title": "Nvidia Shield TV Pro Jumps to $299.99 Seven Years After Launch - eCoustics",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZcmh1VVg2a2o5MGdmWVp2WkoyNUtZNDZqSVpSdUVoWVU5bUxUamwwcVlaQmVrT081TnMtWGJWZG15czFRNHdEcjhyRUJjMTBKVjVPLWJYLUNLT2RJVFYyQ2VveUFLUWo2TVZqUHMzVDJDTUJ2NVM4S21WVlo",
+   "source": "eCoustics",
+   "published_at": "2026-10-09T07:31:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "eCoustics",
+     "published_at": "2026-10-09T07:31:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZcmh1VVg2a2o5MGdmWVp2WkoyNUtZNDZqSVpSdUVoWVU5bUxUamwwcVlaQmVrT081TnMtWGJWZG15czFRNHdEcjhyRUJjMTBKVjVPLWJYLUNLT2RJVFYyQ2VveUFLUWo2TVZqUHMzVDJDTUJ2NVM4S21WVlo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "de54dd8400fc",
+   "title": "英伟达RTX 50系跑黑苹果有戏了！民间开发者公开macOS显卡驱动源码 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLVzRaTHJKRXZ4ZHBBeEFYdG1CN0gxOWtscXV6NWFZN1RzTmMxTl9CTzZsZEJCQzhrVmNPWW9WV0VtVnhHWVh6TldhZDZIcndEenFibEZJVG0",
+   "source": "驱动之家",
+   "published_at": "2026-10-09T07:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-09T07:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLVzRaTHJKRXZ4ZHBBeEFYdG1CN0gxOWtscXV6NWFZN1RzTmMxTl9CTzZsZEJCQzhrVmNPWW9WV0VtVnhHWVh6TldhZDZIcndEenFibEZJVG0"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "8bb71a5d690b",
    "title": "Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom - WSJ",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWFkcXdfaE16UDI1bFo3blBEbDdtT0NRZjN0WkR3aTczRHBBOWJmMTI1empxRm5MRU9nMHRITlNWaGl5Zm9LZk5KTVhyWHdWT2NteXJxbUFxNUZSSFVtbWtYanNaa0lUTHBjdF9zOXBBX0JlYUFOVDBKSlpQeWYtUzRFQjJuMWs5dHlkUk9RdHBvQzNHNmUtSWszNnhwZ1pjX3MwM3hLY2FOMGZrVVE",
    "source": "WSJ",
    "published_at": "2026-10-09T07:18:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "WSJ",
      "published_at": "2026-10-09T07:18:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWFkcXdfaE16UDI1bFo3blBEbDdtT0NRZjN0WkR3aTczRHBBOWJmMTI1empxRm5MRU9nMHRITlNWaGl5Zm9LZk5KTVhyWHdWT2NteXJxbUFxNUZSSFVtbWtYanNaa0lUTHBjdF9zOXBBX0JlYUFOVDBKSlpQeWYtUzRFQjJuMWs5dHlkUk9RdHBvQzNHNmUtSWszNnhwZ1pjX3MwM3hLY2FOMGZrVVE"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-09T07:25:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOek9Cajg2aGZfR0RDTFc0ZF9qRm45RWVCcGNtbVBxOTRxLUxZWm14VXhVc0ViS0lDRTlSWDlVVS1UbldpT3dIUEdWNjBvR1dfV2lEVmRVUHljMUw2blZnOFYyVGh6bXRiNkU2ZVZSWnE5Z0FfQld1Q1pReDFpQUNwaUpEQU9nbGhpTVVoOHE1Tl9uanRpTTBzMXlOY0NraDdKY1dHa1ozRk4wdw"
     }
    ],
    "category": "其他",
@@ -100,6 +139,23 @@
    "zh_summary": "英伟达五年投入10亿美元参与创世纪计划",
    "title_zh": "英伟达承诺五年投入10亿美元参与特朗普政府创世纪计划 - 观点网",
    "sentiment": 1
+  },
+  {
+   "id": "9f3d03dc0784",
+   "title": "Key facts: NVIDIA (NVDA) $96B Qtr; SpaceX GPU Demand; $1B R&D Pledge - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0FZUUNEMkZlZmxaZmdKVlMwRVhCOFVqWmVJMjJxRklXTkR6ak55V2pHa2VKRkdpRVVlYmhmX1c1ZHFPc0VrQzRmNHozbW1YempvOHN0RnhPNGdibWJuSFNlMTZBVEJVNWVkSTE3MmtuX1VIbEV6WGFFNThNaE5yeDdiQk53bGxzUjZwRnVVZzl4N0s2RXRPbjFPM1VSUmNCZ1d0TTZvVU9wZjJtZF85VDM1RWVYVzV4Y2dXXzZtVDM",
+   "source": "TradingView",
+   "published_at": "2026-10-09T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-09T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0FZUUNEMkZlZmxaZmdKVlMwRVhCOFVqWmVJMjJxRklXTkR6ak55V2pHa2VKRkdpRVVlYmhmX1c1ZHFPc0VrQzRmNHozbW1YempvOHN0RnhPNGdibWJuSFNlMTZBVEJVNWVkSTE3MmtuX1VIbEV6WGFFNThNaE5yeDdiQk53bGxzUjZwRnVVZzl4N0s2RXRPbjFPM1VSUmNCZ1d0TTZvVU9wZjJtZF85VDM1RWVYVzV4Y2dXXzZtVDM"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "187e8ea0a4d6",
@@ -701,6 +757,23 @@
    "zh_summary": "英伟达支持的Firmus取消澳洲IPO",
    "title_zh": "英伟达支持的Firmus取消澳大利亚IPO计划",
    "sentiment": -1
+  },
+  {
+   "id": "b2dc90ec0713",
+   "title": "业绩承压下豪购2万张英伟达GPU！天阳科技股价涨超12% - 第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUExHSEFTQ2hYdGR0cFF0UFQ1TEtsTVprYnBrRkZLazdPbjh3a2V5WTJmQWZqekx2MkRiUW16N3FNUjlKMW8tM1VvRFlfYkItbTI0",
+   "source": "第一财经",
+   "published_at": "2026-10-09T02:21:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "第一财经",
+     "published_at": "2026-10-09T02:21:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUExHSEFTQ2hYdGR0cFF0UFQ1TEtsTVprYnBrRkZLazdPbjh3a2V5WTJmQWZqekx2MkRiUW16N3FNUjlKMW8tM1VvRFlfYkItbTI0"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
   },
   {
    "id": "ced316bee3f8",
@@ -6022,6 +6095,23 @@
    "sentiment": -1
   },
   {
+   "id": "fa29996a3dcb",
+   "title": "NVIDIA Corporation $NVDA Stock Sold by Matters Capital LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejkxdGU3OVNyaHJHNklpZWZ3Zkxyc253Uzh3X1Y5RVpSSkc2bVluZGI4Zm43YkM3RFdzVDRIbVdhVmxpNnFzUGpwUldidmdoWGNwT3NiWG9HbmVsNjdBaWRoT01aWHBZSWlyWWEzS2hpb3dScm9tQWFZWloxZTVxTExyQ3c2VWkydEpaRS1DdWtwU3h5SndJaE9ScmFkUHFFeUFOUUVQQlgxX19XczVUbkxYZmFETUJOV2c",
+   "source": "MarketBeat",
+   "published_at": "2026-10-08T07:33:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-08T07:33:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejkxdGU3OVNyaHJHNklpZWZ3Zkxyc253Uzh3X1Y5RVpSSkc2bVluZGI4Zm43YkM3RFdzVDRIbVdhVmxpNnFzUGpwUldidmdoWGNwT3NiWG9HbmVsNjdBaWRoT01aWHBZSWlyWWEzS2hpb3dScm9tQWFZWloxZTVxTExyQ3c2VWkydEpaRS1DdWtwU3h5SndJaE9ScmFkUHFFeUFOUUVQQlgxX19XczVUbkxYZmFETUJOV2c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "c61973ae0cf9",
    "title": "Kendall Capital Management Raises Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaEx2MDdGeFpremY0Y0hubDRtTXdpVV85NGJRN1FrZnVNbEx3M0JXOXdhUGs4aUdWd2ZOVlpPajJIU2k2dmE3Zlc3OHV2NF9kWE81Nl9DSnRrcElQeEk0MGlKTllDRmxlY1FaOW1iSWpUN3h5SUtfeDFyZDZGS1pQU0hSWEZOU0l5Y28wRWI5ZUNiQzNyZDRMRlMycFFTNXdFYnEzZUdoVXNNOEZ1NmFMbmZZbnhUczRWYVZ6Y0k1eFh6allSU1Jad2NWMWpVMW5Pa1E",
@@ -6120,26 +6210,6 @@
    "zh_summary": "Haverford Trust增持英伟达",
    "title_zh": "Haverford Trust增持英伟达$NVDA股份",
    "sentiment": 1
-  },
-  {
-   "id": "a0078e29931e",
-   "title": "NVIDIA Corporation $NVDA Stock Bought by GQG Partners LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlVNMnR4V09aZWxWeVYwWDZwX3E0ZktJaURFejRHMWU5WmZoSnlJaEJpOVJNWjVfYVU4czltaFR1LUR1NGNPR0owVXlMRGpTY0NkcFlQNDZMT1hwRXpHV1dHM2lsZ0psMjNUTWNwaTlzREdaampRUi1aQV82c2h0X0NrMUMtQ2JjT1g2R1pCSHNEcHZCZGZ3VWRqUDdjcFg2TFk2ZkhnSFA5TzJnWHNxWHV0eDJwbmRW",
-   "source": "MarketBeat",
-   "published_at": "2026-10-08T07:31:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-08T07:31:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlVNMnR4V09aZWxWeVYwWDZwX3E0ZktJaURFejRHMWU5WmZoSnlJaEJpOVJNWjVfYVU4czltaFR1LUR1NGNPR0owVXlMRGpTY0NkcFlQNDZMT1hwRXpHV1dHM2lsZ0psMjNUTWNwaTlzREdaampRUi1aQV82c2h0X0NrMUMtQ2JjT1g2R1pCSHNEcHZCZGZ3VWRqUDdjcFg2TFk2ZkhnSFA5TzJnWHNxWHV0eDJwbmRW"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Matters Capital减持英伟达股票",
-   "title_zh": "Matters Capital LLC减持NVDA股票—MarketBeat",
-   "sentiment": -1
   },
   {
    "id": "a6e0daf934cc",
@@ -6605,86 +6675,6 @@
    "zh_summary": "英伟达参投Firmus结束IPO询价",
    "title_zh": "英伟达参投的Firmus结束IPO询价，投资者支持减弱",
    "sentiment": -1
-  },
-  {
-   "id": "fef672117a44",
-   "title": "Nvidia’s secret to retaining staff? No org charts, a flat structure, and two extra days off every quarter - Fortune",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZnBraGtEd2xyU3BPUi1OTk9lX3U4b09XUHd0ajdTWXNUYnlSRG5vQ2ZrYjBhV2p6Q1gxYkJ5SEdOSFFIcXhfOGNTWmZrYW9rREdEcjRyWERQUVZuTUExWEZ3UmVxb3RFQ2NYTkVLWTA0dlRub0xmZjVsYU9BQTNHSGROa2g4UVByMXY1eGJHbjFMQmRBSzlKa0xDSmEwQVczcTJxNXJGZDlNazRPVkhERjdzYW9oR1BiMXAzQ2pOeHgzWGN3OENJ",
-   "source": "Fortune",
-   "published_at": "2026-10-08T04:44:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Fortune",
-     "published_at": "2026-10-08T04:44:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZnBraGtEd2xyU3BPUi1OTk9lX3U4b09XUHd0ajdTWXNUYnlSRG5vQ2ZrYjBhV2p6Q1gxYkJ5SEdOSFFIcXhfOGNTWmZrYW9rREdEcjRyWERQUVZuTUExWEZ3UmVxb3RFQ2NYTkVLWTA0dlRub0xmZjVsYU9BQTNHSGROa2g4UVByMXY1eGJHbjFMQmRBSzlKa0xDSmEwQVczcTJxNXJGZDlNazRPVkhERjdzYW9oR1BiMXAzQ2pOeHgzWGN3OENJ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达靠扁平架构与季度额外休假留人",
-   "title_zh": "英伟达留人秘诀：扁平架构，每季度多两天假",
-   "sentiment": 0
-  },
-  {
-   "id": "fa0cbacaf85e",
-   "title": "AI Agents Without The Cloud: Microsoft, Nvidia Ready A 128GB Surface Laptop - Yellow.com",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HSW1Wb2M0LXZCYkRzODlNMUI5TnB2QkNRcTNodkUzTnlaUXpmNXd4Y0UyRnVNV3FoWVRaQXFPeENwN2ZPdUhqc2NiZDRHSDVLYmVNRmNnUm1iazVYVmNMWFZfQXJyaHYxRnJwYXpFZ18yQQ",
-   "source": "Yellow.com",
-   "published_at": "2026-10-08T04:39:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yellow.com",
-     "published_at": "2026-10-08T04:39:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HSW1Wb2M0LXZCYkRzODlNMUI5TnB2QkNRcTNodkUzTnlaUXpmNXd4Y0UyRnVNV3FoWVRaQXFPeENwN2ZPdUhqc2NiZDRHSDVLYmVNRmNnUm1iazVYVmNMWFZfQXJyaHYxRnJwYXpFZ18yQQ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "微软英伟达筹备128GB端侧AI笔记本",
-   "title_zh": "微软、英伟达筹备128GB端侧AI笔记本电脑",
-   "sentiment": 1
-  },
-  {
-   "id": "37c19903fb54",
-   "title": "英伟达首度冲击6万亿美元 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91dExKX2xGNWZMOHJhREtaY2owdFUwWmhMeG95UTlVbi1hSF9FMW1lT1JxQXYxZkVwNUREUkxUZzBiSkJrb2pVc0VLdlFQVkZ0RVJMWW1mYkhZSFowemJURE43QktEVzlPSjBQakNwb0pYWXd1R0dveA",
-   "source": "新浪财经",
-   "published_at": "2026-10-08T04:36:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-08T04:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91dExKX2xGNWZMOHJhREtaY2owdFUwWmhMeG95UTlVbi1hSF9FMW1lT1JxQXYxZkVwNUREUkxUZzBiSkJrb2pVc0VLdlFQVkZ0RVJMWW1mYkhZSFowemJURE43QktEVzlPSjBQakNwb0pYWXd1R0dveA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达首度冲击6万亿美元",
-   "title_zh": "英伟达首度冲击6万亿美元 - 新浪财经",
-   "sentiment": 1
-  },
-  {
-   "id": "2490d3e26079",
-   "title": "AI: Nvidia’s Open Source ‘AI Factory’ Push vs China. AI-RTZ #1233 (Part 1) - AI: Reset to Zero",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80bWxMaFRsWUJ0WUQ5d3IwUnFROWh1UjZaZ0U4d3pMYkhSTkszRlc5bWttc2V0UjN5S1N2T1VhZkg5RmpfSk9aYnhsNlhZeU9tZEdIejhzRlc2bnNXVGVBVWszMlRvMXQ3YUY3MGcwQS11MTJ2bDRrbGdn",
-   "source": "AI: Reset to Zero",
-   "published_at": "2026-10-08T04:10:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "AI: Reset to Zero",
-     "published_at": "2026-10-08T04:10:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80bWxMaFRsWUJ0WUQ5d3IwUnFROWh1UjZaZ0U4d3pMYkhSTkszRlc5bWttc2V0UjN5S1N2T1VhZkg5RmpfSk9aYnhsNlhZeU9tZEdIejhzRlc2bnNXVGVBVWszMlRvMXQ3YUY3MGcwQS11MTJ2bDRrbGdn"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘后",
-   "zh_summary": "英伟达开源AI工厂计划对标中国",
-   "title_zh": "英伟达开源\"AI工厂\"计划 vs 中国",
-   "sentiment": 0
   }
  ]
 }
