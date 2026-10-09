@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T06:51:31.093853+00:00",
+ "updated_at": "2026-10-09T07:06:31.436478+00:00",
  "market": {
   "price": 230.48,
   "change_pct": -2.94,
@@ -10,8 +10,8 @@
    "days_left": 39
   },
   "day_sentiment": {
-   "avg": 1.0,
-   "count": 4
+   "avg": 0.8,
+   "count": 5
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.00（4条已评分）"
+     "note": "今日新闻情绪 +0.80（5条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.8,
    "ma20": 226.18,
-   "as_of": "2026-10-09T06:51:31.074652+00:00"
+   "as_of": "2026-10-09T07:06:31.427271+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -61,6 +61,45 @@
   }
  },
  "stories": [
+  {
+   "id": "187e8ea0a4d6",
+   "title": "FILE PHOTO: FILE PHOTO: Illustration shows NVIDIA logo - The Lufkin Daily News",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd2RjMDk2c1VXR2lWaERlRzdBR1EtcGNxQkpzVlNFangtcUpxY05PMF8tQ1FVaGtaWUtiRFFxdzNLcVBoU0dmOUFyYUtRU2VLMjlFTTROSDZxUmtaMXlZMVR1Nlo5SzczZ1pfWkMxNl83cTRIR3c3UVlYZ2cwdVc3M1JsTThlbFc5NXhwZGVPVUpWcjNNZ0lRSkRldFpIZDEwM21vMER3VFpqUmF2aEl3ZzJZZkdPN29SRWRiSDZ1S2dkMjBXSmQ0azFDa3VQMThHaUZVNHhYMkNrdnhReTdMYXlWT1c",
+   "source": "The Lufkin Daily News",
+   "published_at": "2026-10-09T06:45:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Lufkin Daily News",
+     "published_at": "2026-10-09T06:45:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd2RjMDk2c1VXR2lWaERlRzdBR1EtcGNxQkpzVlNFangtcUpxY05PMF8tQ1FVaGtaWUtiRFFxdzNLcVBoU0dmOUFyYUtRU2VLMjlFTTROSDZxUmtaMXlZMVR1Nlo5SzczZ1pfWkMxNl83cTRIR3c3UVlYZ2cwdVc3M1JsTThlbFc5NXhwZGVPVUpWcjNNZ0lRSkRldFpIZDEwM21vMER3VFpqUmF2aEl3ZzJZZkdPN29SRWRiSDZ1S2dkMjBXSmQ0azFDa3VQMThHaUZVNHhYMkNrdnhReTdMYXlWT1c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "dd9fd1da1952",
+   "title": "英伟达未来5年将斥资10亿美元推动美国科学发展 - 凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tWE9VX29OZll5a05GSDhHdFRZd01qcUxCOGRKd1JhZWxUbUdybUdfVUpjMU1aSjdzQXpyV3JQUWlyei1tZDlfNEM0YlM",
+   "source": "凤凰网科技",
+   "published_at": "2026-10-09T06:29:29+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-09T06:29:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tWE9VX29OZll5a05GSDhHdFRZd01qcUxCOGRKd1JhZWxUbUdybUdfVUpjMU1aSjdzQXpyV3JQUWlyei1tZDlfNEM0YlM"
+    },
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-09T06:29:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4Vm5haXlDN19ES0Zmb05tX2NPUlNpdThWT19YaWtVcHlCcGp1b2NmVzktYWx6anp4akFwa2VQMGZCYXJDbU1kbw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "6e84e9a2da31",
    "title": "英伟达不再挤牙膏！Nova驱动定下终极目标：RTX 20到50系全支持 - 驱动之家",
@@ -265,6 +304,23 @@
    "zh_summary": "分析称英伟达股价面临周期下行与AI泡沫风险",
    "title_zh": "英伟达股价：陷入周期下行风险与AI泡沫之间",
    "sentiment": 0
+  },
+  {
+   "id": "abc29f9920ec",
+   "title": "Nvidia-Backed Firmus Withdraws Its ASX IPO After Investors Balked - Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnJDN0Rad2VrcUZiM0diRmJfZzJlaFZQWEh2cWE0VWdtMHh4Yk4wOXBVbjZsdmJjc1plcmFrTkZUVnFpbUU0RTB1cWpsTXBhbGF1QklZY0pXT2tNVVZReVU2UnVudzh1WS1WRWk5eERjenRzZHFsSEVCR0tId3AtRThJRk5fN1RKNEhzVDFWY1liVU1oQXBiaQ",
+   "source": "Startup Fortune",
+   "published_at": "2026-10-09T04:20:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Startup Fortune",
+     "published_at": "2026-10-09T04:20:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnJDN0Rad2VrcUZiM0diRmJfZzJlaFZQWEh2cWE0VWdtMHh4Yk4wOXBVbjZsdmJjc1plcmFrTkZUVnFpbUU0RTB1cWpsTXBhbGF1QklZY0pXT2tNVVZReVU2UnVudzh1WS1WRWk5eERjenRzZHFsSEVCR0tId3AtRThJRk5fN1RKNEhzVDFWY1liVU1oQXBiaQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "a6c99d0fd190",
@@ -1148,6 +1204,23 @@
    "sentiment": -1
   },
   {
+   "id": "8ad4b416a653",
+   "title": "Dell launches Nvidia RTX Spark laptop with 18-core CPU, 3.2K 120Hz OLED display and 99 Wh battery - Notebookcheck",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYmFnQnlhZ0J2RGpyR29RMkh1ODNXTmRuZERXTmpLQm1ROW9aYzlYQ181dXNjZV9kWjZMcm1uNERuSUVINnlFdDFzbjYyU2RlR1VoVTd4d0dYd1hMXzRndm5jRTFTTUgxbWNjenp6NV91V1NhZFBMdG9vYndvR2tfQU5kcFZ3S2FwRkdwNWYzbUFWMlJOb3ZCbXZkNzNMNHk1NURIdnU4VWlOR2s2cXN1MWZaUnhjRDlKcE5aUFVIUnkzc0szdEc0anhHUGYySkFNZm1ZZXNDbjU",
+   "source": "Notebookcheck",
+   "published_at": "2026-10-08T23:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Notebookcheck",
+     "published_at": "2026-10-08T23:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYmFnQnlhZ0J2RGpyR29RMkh1ODNXTmRuZERXTmpLQm1ROW9aYzlYQ181dXNjZV9kWjZMcm1uNERuSUVINnlFdDFzbjYyU2RlR1VoVTd4d0dYd1hMXzRndm5jRTFTTUgxbWNjenp6NV91V1NhZFBMdG9vYndvR2tfQU5kcFZ3S2FwRkdwNWYzbUFWMlJOb3ZCbXZkNzNMNHk1NURIdnU4VWlOR2s2cXN1MWZaUnhjRDlKcE5aUFVIUnkzc0szdEc0anhHUGYySkFNZm1ZZXNDbjU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "f505642b998a",
    "title": "英伟达市值，一夜蒸发超万亿元 - 凤凰网财经",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1odkpEVDZzT3ZHaWpKYzRJbWVnZjNFTTdMYkxUWUFYM3lKMkJUOXU3UTV6cFFNamxMUmNjdVo2b08taDl0X09oRklLU01pV3FH",
@@ -1298,26 +1371,6 @@
    "sentiment": 0
   },
   {
-   "id": "944ad60dc2b6",
-   "title": "美股半导体股全线下跌，英伟达市值一夜蒸发超万亿元 - 网易新闻客户端",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJcllDQjRJMFhEejBXV1g4bUEtRkh4RmtWbG8xTk15aG9xdEtHWnF1clpsT2R0TklfQUF2d3N5N0o1YTd4NFdBeFZ1aUJwS1JoMHAyRDVFTG83Qmpu",
-   "source": "网易新闻客户端",
-   "published_at": "2026-10-08T23:28:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "网易新闻客户端",
-     "published_at": "2026-10-08T23:28:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJcllDQjRJMFhEejBXV1g4bUEtRkh4RmtWbG8xTk15aG9xdEtHWnF1clpsT2R0TklfQUF2d3N5N0o1YTd4NFdBeFZ1aUJwS1JoMHAyRDVFTG83Qmpu"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "半导体股全线下跌，英伟达市值蒸发超万亿元",
-   "title_zh": "美股半导体股全线下跌，英伟达市值一夜蒸发超万亿元 - 网易新闻客户端",
-   "sentiment": -1
-  },
-  {
    "id": "d7f667b42900",
    "title": "Nvidia To Invest In Chip Rival D-Matrix - The Information - TradingView",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZkpLMUNWNUJlS3NienFRN3FBUUtTQ2lfdVZpUDlWSzVWYmltWlJUeDQ1NDBZdnNtY0lLanN3S0JRbHFYbTZDZlhjVGk1d1dkaGx1cVFUUUptOGlTNWE3TXczZ3JBd1lLVVdIRzFTVXFFczQ4UFBJS05qV1llZ2stLVc4NzdZTXRkT0F3TnZGT21PVGdHYlFlMEs2b0dNa1NyNGhsWXFWdjQxbzhwam0wd2J3WGhHZVFnamVUMkNiaEZrWXM",
@@ -1361,6 +1414,31 @@
    "zh_summary": "英伟达将投资竞争对手D-Matrix",
    "title_zh": "英伟达投资芯片竞争对手D-Matrix",
    "sentiment": 1
+  },
+  {
+   "id": "944ad60dc2b6",
+   "title": "美股半导体股全线下跌，英伟达市值一夜蒸发超万亿元 - 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd0ZveWJPYS1oc1o3RWhuYmV0eG5JUlROaFVCTTFoNmlqajhPNTZCRFU2blFoVGI5NmV5eG9qbXpaU1J2YkFNajZxTXNpYXJtdTZ4cm9LOGNYUzNrcm9XQmJLbmQ1dXFEeXFUZDN0MnRQZGhvaDNkRnBucHptQWxNTzUtbDMyR1NHRXdLbGo3bw",
+   "source": "21财经",
+   "published_at": "2026-10-08T23:21:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "21财经",
+     "published_at": "2026-10-08T23:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd0ZveWJPYS1oc1o3RWhuYmV0eG5JUlROaFVCTTFoNmlqajhPNTZCRFU2blFoVGI5NmV5eG9qbXpaU1J2YkFNajZxTXNpYXJtdTZ4cm9LOGNYUzNrcm9XQmJLbmQ1dXFEeXFUZDN0MnRQZGhvaDNkRnBucHptQWxNTzUtbDMyR1NHRXdLbGo3bw"
+    },
+    {
+     "name": "网易新闻客户端",
+     "published_at": "2026-10-08T23:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJcllDQjRJMFhEejBXV1g4bUEtRkh4RmtWbG8xTk15aG9xdEtHWnF1clpsT2R0TklfQUF2d3N5N0o1YTd4NFdBeFZ1aUJwS1JoMHAyRDVFTG83Qmpu"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "半导体股全线下跌，英伟达市值蒸发超万亿元",
+   "title_zh": "美股半导体股全线下跌，英伟达市值一夜蒸发超万亿元 - 网易新闻客户端",
+   "sentiment": -1
   },
   {
    "id": "2de161ee5564",
@@ -3672,7 +3750,7 @@
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUdsUEFkTW5td1lmZEh1dkJuZXNCSFM0V3BSMFFPWkR0dmRnd2Q2SGYxMk1mV283cy1mYXBVZG50VVF6T0w2U3pCZVJuclV6emx2MjFYOVNrdFd5bEhOVmdLQjF4aXlCMlBrNHlLZWJlek4wWUJVeHhZQUV5VU5aN0xCSjdXREM4TWk4bnlPNUxsTW50WC0zQzM1TEcxTFl4S3NqTGZVUWF5WTBGd0VGLWJxTjR4aWxXMnpLeWNJZDlUNGxHQjJQaUJ5ejlwenhIcU9B",
    "source": "TradingView",
    "published_at": "2026-10-08T14:35:25+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "TradingView",
@@ -3693,6 +3771,11 @@
      "name": "Scientific Computing World",
      "published_at": "2026-10-08T16:38:37+00:00",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRy1rSzhLNmhCTGtDS3F5ZjlQdWdfLTdEa3ZtdTRFWG54bElLYnZncHdnX29zOGRWS1RpQ1RKZUx6S0wxOUJpWV9qazNNNDlXaDZSMFZ4UnFMaVpwSDQwSXpIOFZiNHkzQURBYm9tOGI0MzNzeUloejFmVjBDNFdMNTl3V0w2cDVMODlSdFdaTkFydw"
+    },
+    {
+     "name": "Engineering.com",
+     "published_at": "2026-10-09T06:54:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNanA0RktDVVpEMTFqNkE3Ty14YXBfX3plUjZYNy16UHNTcmdvZXZXRnd2OFVTbjNwTUZhbmJ2MjZLX3NoMzFKYzVEempsMnQxNTh3aDNJWEpzU08zcUJYWjdvQmtKT3QtUk9EeVFxbzEwSUhCVGJKQ1hsUVdqV1dVZ211eFNfZ1RjcGdtZ0tReEE"
     }
    ],
    "category": "其他",
@@ -6604,101 +6687,6 @@
    "zh_summary": "三星电子或超英伟达成全球利润第一",
    "title_zh": "存储芯片超级景气周期，三星电子有望超越英伟达，冲刺全球营业利润第一 - 搜狐网",
    "sentiment": -1
-  },
-  {
-   "id": "337778ccf766",
-   "title": "MSFT Stock On 4-Day Winning Streak: Microsoft Takes On Apple's Macs With Nvidia-Powered Surface Ultra, More On-Device AI - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaHpad1Y1VDZXeWFHTDJxOVAwT2R1S2U2MVV5OHdod0hNRklwaFVnWTV0RnF4QjNYQndzNnd2MlNFNzR4VXNBdl81UGNRenpTOVRXc0YyYWxDcFE1cFlRUzZrN080eUZPRENPNm93azBkMWl6c0liRGJBN3N3Y1NxX3pPSXEwR0VyMXVMTFBOY01sbUd1YkFTWW9vY2FQYWcxeldJM2pKMHpaZG9Rd1I4UnY4MHltQWRNRnlETXdRR3U3eGMyOEdpS1V6UlZ0LTY5MzdxMm1PX2VpSXBGYVpnVkZvX19IeG9PUHBnbEFQSC0ybllRQVJodHU5ZFN0Vjh6LXN4bmlsUTJNdVE",
-   "source": "TradingView",
-   "published_at": "2026-10-08T03:28:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-08T03:28:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaHpad1Y1VDZXeWFHTDJxOVAwT2R1S2U2MVV5OHdod0hNRklwaFVnWTV0RnF4QjNYQndzNnd2MlNFNzR4VXNBdl81UGNRenpTOVRXc0YyYWxDcFE1cFlRUzZrN080eUZPRENPNm93azBkMWl6c0liRGJBN3N3Y1NxX3pPSXEwR0VyMXVMTFBOY01sbUd1YkFTWW9vY2FQYWcxeldJM2pKMHpaZG9Rd1I4UnY4MHltQWRNRnlETXdRR3U3eGMyOEdpS1V6UlZ0LTY5MzdxMm1PX2VpSXBGYVpnVkZvX19IeG9PUHBnbEFQSC0ybllRQVJodHU5ZFN0Vjh6LXN4bmlsUTJNdVE"
-    },
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-08T03:33:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQOGRUY1dzVGtXbjE0UGttUU5wSS02Z1JKeHotM0xZbGtVVm85N3hfUlBMV1hTSlJlZlV2WW9nTDZ3ZU5MR19DbFBtOEpldHZOaXQ2V3VFNUlBMGtYVUlhcXJLLUxCWXphcm9fVXdHTUN2MFRDd21WWXJpeTFHT3hmYk9tX3drSXRGRmJqaFFrRGI5Y01GWm9LZjdvYnJLUy13cFhXdDRYWV9uOER4bUdXeklUMk4zM3I0aWwtSkV0cGRqZEpZUDdJM2VLVUFoMlo3clA1U2RqMHQzQVZPcWZ5bUVmMS1YVEc1ZnFKNE51RWxjMHJEZWxmal8yR3ZuVXRoYWUwcGhrdU5hMVphaHhB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "微软新款Surface搭载英伟达AI芯片",
-   "title_zh": "微软Surface Ultra搭载英伟达芯片对抗苹果Mac",
-   "sentiment": 1
-  },
-  {
-   "id": "ab24220477d7",
-   "title": "2680亿重磅订单！SpaceX拟融资购买英伟达AI芯片 交易2027年落地 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtd3ZuM2l6V0VwSWh4VU91NHdNRDZkSTFXNFZlVDdyRUZXYy1LTm9ablFJN0NVX3dfYjd0RnhraEhlaEc4UWRrQTFOMHJoeDNtSk9QVzNUZVg",
-   "source": "驱动之家",
-   "published_at": "2026-10-08T03:27:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-08T03:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtd3ZuM2l6V0VwSWh4VU91NHdNRDZkSTFXNFZlVDdyRUZXYy1LTm9ablFJN0NVX3dfYjd0RnhraEhlaEc4UWRrQTFOMHJoeDNtSk9QVzNUZVg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "SpaceX拟融资购买英伟达AI芯片",
-   "title_zh": "2680亿重磅订单！SpaceX拟融资购买英伟达AI芯片 交易2027年落地 - 驱动之家",
-   "sentiment": 2
-  },
-  {
-   "id": "74efb64bba13",
-   "title": "SpaceX Reportedly Wants to Borrow $40 Billion for Nvidia Chips Despite a $100 Billion Cash Pile - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUlhzLU5zU0tVTmpxa1o5SGphMENzWm9oZTd1SjAyc0hDNklrU2FFVTNTYURaNlZhOWs2YlgwcjJLcHZGbGM1RWkwZDBIZDNDYzZldjZNbVZVR09laE5sRGJVNlExYTlpTHV1MENhMzY4SUx6eVRYSlVjN0lqQkRyVDlRQXdhM2RkUmo2VXVzSkJTVFJ0cTgxQTR5a0xTanNaUmxzQVZZUEFqZE9LTVNCaU5wb2ZyNGEzVkd6LTVKWG5oVUpRdTgxR3B1R2dRUWp4N0d2NU9YYVpDdw",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-08T03:26:20+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-08T03:26:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUlhzLU5zU0tVTmpxa1o5SGphMENzWm9oZTd1SjAyc0hDNklrU2FFVTNTYURaNlZhOWs2YlgwcjJLcHZGbGM1RWkwZDBIZDNDYzZldjZNbVZVR09laE5sRGJVNlExYTlpTHV1MENhMzY4SUx6eVRYSlVjN0lqQkRyVDlRQXdhM2RkUmo2VXVzSkJTVFJ0cTgxQTR5a0xTanNaUmxzQVZZUEFqZE9LTVNCaU5wb2ZyNGEzVkd6LTVKWG5oVUpRdTgxR3B1R2dRUWp4N0d2NU9YYVpDdw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-08T03:43:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcnZNQi1xMlY3ZWFTMW5yczY5TG9hak1TZ3NoSXJfR25BTmtDOF9tOFZkOW14aU9ZWGFjRW5BTkREMHhhVEtObFQyX1FuVHFjY0NkMEJjc20ybk9rMEV1bTUwcHFRTGpMTnVaMEJHa0U0LVR2Wk9fQ2xiblc0UG1pMW1WcTU1cmh0N2xaZDZEQVhGXzZhYUlqb0pkRzdaZDg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "SpaceX拟融资400亿美元购英伟达芯片",
-   "title_zh": "SpaceX拟融资400亿美元购买英伟达芯片",
-   "sentiment": 2
-  },
-  {
-   "id": "b678d25c70ac",
-   "title": "英伟达叩响PC大门：Surface Laptop Ultra打响Wintel联盟第一枪 - www.or100.cc",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5SMWtOaVVHMDZkU0JPQ1dHSTRUTUdweHEwTGtpWkRvTFhETEt4WGVFcFdONXJ2THRhUEN3b1Btb25MQndY",
-   "source": "www.or100.cc",
-   "published_at": "2026-10-08T03:26:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "www.or100.cc",
-     "published_at": "2026-10-08T03:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5SMWtOaVVHMDZkU0JPQ1dHSTRUTUdweHEwTGtpWkRvTFhETEt4WGVFcFdONXJ2THRhUEN3b1Btb25MQndY"
-    },
-    {
-     "name": "OR新媒体",
-     "published_at": "2026-10-08T03:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5SMWtOaVVHMDZkU0JPQ1dHSTRUTUdweHEwTGtpWkRvTFhETEt4WGVFcFdONXJ2THRhUEN3b1Btb25MQndY"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达进军PC市场打响第一枪",
-   "title_zh": "英伟达叩响PC大门：Surface Laptop Ultra打响Wintel联盟第一枪 - www.or100.cc",
-   "sentiment": 1
   }
  ]
 }
