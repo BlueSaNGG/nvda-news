@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-09T08:21:29.524129+00:00",
+ "updated_at": "2026-10-09T08:36:30.166626+00:00",
  "market": {
   "price": 230.48,
   "change_pct": -2.94,
@@ -10,8 +10,8 @@
    "days_left": 39
   },
   "day_sentiment": {
-   "avg": 0.46,
-   "count": 24
+   "avg": 0.41,
+   "count": 27
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.46（24条已评分）"
+     "note": "今日新闻情绪 +0.41（27条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 14,
    "implied_upside_pct": 37.8,
    "ma20": 226.18,
-   "as_of": "2026-10-09T08:21:29.515685+00:00"
+   "as_of": "2026-10-09T08:36:30.140069+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "fa20935771f8",
+   "title": "英特尔战略奏效：英伟达或将采用其Foveros封装技术 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSjRzMXl3UG1WV0I2aG9RWUlPbWp0RFJ0WnN5cGxoZHBXTTY5aUVvYXFOMkpkWEZWajNLMEhpS3VJeU9mcmdKQ3paeXI5OEx4aWlFbVllbkdWdXpTcW4weDE3elAtR0xFTkx5Umd6dnNaZ3BhQzFVdjNvaU9wQ3ZjSkNYVVJyZ2Rm",
+   "source": "搜狐网",
+   "published_at": "2026-10-09T08:18:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-09T08:18:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSjRzMXl3UG1WV0I2aG9RWUlPbWp0RFJ0WnN5cGxoZHBXTTY5aUVvYXFOMkpkWEZWajNLMEhpS3VJeU9mcmdKQ3paeXI5OEx4aWlFbVllbkdWdXpTcW4weDE3elAtR0xFTkx5Umd6dnNaZ3BhQzFVdjNvaU9wQ3ZjSkNYVVJyZ2Rm"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "5f443cd4fb74",
+   "title": "豪购2万张英伟达GPU，300872，股价大涨 - 凤凰网财经",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EREQyMV85LU9wWG5CY2R2cmF3M015LVNyUFRwMUtqWkhYZzFCdkQ0eGdoS3pjc1BwNXFrZGhTX2hwRE0xY2s3eHJkMmhGUnFf",
+   "source": "凤凰网财经",
+   "published_at": "2026-10-09T08:12:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网财经",
+     "published_at": "2026-10-09T08:12:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EREQyMV85LU9wWG5CY2R2cmF3M015LVNyUFRwMUtqWkhYZzFCdkQ0eGdoS3pjc1BwNXFrZGhTX2hwRE0xY2s3eHJkMmhGUnFf"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "b92410f3ce8b",
    "title": "Nvidia-backed Firmus scraps $5 billion Australia IPO amid growing AI scrutiny By Reuters - Investing.com",
@@ -107,12 +141,17 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXdMZmkxZTNqbnNZbUdMZlcxRWJPZ3k4SnlLS1RVVXdMVG1odTAxNURhd2x0dUpnNTNWNjhaR2dQX0R4TG83SlZucE8walg1Vi16eTZEM1ZWTVRjOHZwWFhwTFBLNDJha3VBUi1pY0hkTlE5aXFuS1RsNkhqMVVaMmlyZEhjRmdnVm9sbktJbjgyckdTYlFXLVBMUmRyaUwwcV9wMjJnOA",
    "source": "Seeking Alpha",
    "published_at": "2026-10-09T07:57:58+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Seeking Alpha",
      "published_at": "2026-10-09T07:57:58+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXdMZmkxZTNqbnNZbUdMZlcxRWJPZ3k4SnlLS1RVVXdMVG1odTAxNURhd2x0dUpnNTNWNjhaR2dQX0R4TG83SlZucE8walg1Vi16eTZEM1ZWTVRjOHZwWFhwTFBLNDJha3VBUi1pY0hkTlE5aXFuS1RsNkhqMVVaMmlyZEhjRmdnVm9sbktJbjgyckdTYlFXLVBMUmRyaUwwcV9wMjJnOA"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-09T07:57:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR1N4MGw1Zy1qcTY0NUtQNUN3MGdEMVNRUG9fdFRfb0k3dW5hU3JmSEVieHZhaWYzLWlyQlNRRDdLQlZhOVE2T2JjX2VJYXNHTTR4ZXdNMUQ0dXZoaXliNVZzbVRmRnVCU2Q5clYyRWx6bEl6VGl5V1BlMV91VzdMY2FaLTlGUlJzZ1VlQWFmc2dFMjJGQVF5Y0hmcjRWSlJJQ2Rjc3huNHVrNmVxVldncjNVSUY4eVplLTZ6dUxjZVhQYmJpWW96Vw"
     }
    ],
    "category": "市场宏观",
@@ -1098,26 +1137,6 @@
    "sentiment": 1
   },
   {
-   "id": "ced316bee3f8",
-   "title": "特朗普，卖出英伟达 - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pbnVYX3d5TExyVkR5TldXTkUtckZYWW9NWVJMY2lnS19VdmRhSk1xUjBZZmRzSGRDak5WbUNUYnc3SXM1TXpjOEdhS2V5MTJYMmp3",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-09T02:21:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-09T02:21:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pbnVYX3d5TExyVkR5TldXTkUtckZYWW9NWVJMY2lnS19VdmRhSk1xUjBZZmRzSGRDak5WbUNUYnc3SXM1TXpjOEdhS2V5MTJYMmp3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "特朗普出售英伟达持仓披露",
-   "title_zh": "特朗普，卖出英伟达 - 电子工程专辑",
-   "sentiment": -1
-  },
-  {
    "id": "3bdbb7bc8e7b",
    "title": "英伟达微软联手 - 新浪财经",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU01oS3dGaFBlejI4S29FUWpCLVhDWXRTVXFsSjJvVnZOakhsUUtzeW54SUptbnVjT1JhYWhwb0ZkOUM2OFVlN0I5OFdYT1JWRnBFZGlheTJMT05kNFhBNDBfN3VCZ0tiaG8yR2xRSzhDYmJYRGYzZG5vajNGcWpRMGVXRnQ",
@@ -1196,6 +1215,26 @@
    "zh_summary": "联想首款RTX Spark芯片AI PC中国预售",
    "title_zh": "联想首款搭载英伟达RTX Spark芯片AI PC新品中国预售，加速构建Agent时代个人AI计算底座 - 新浪网",
    "sentiment": 1
+  },
+  {
+   "id": "ced316bee3f8",
+   "title": "特朗普，卖出英伟达 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pbnVYX3d5TExyVkR5TldXTkUtckZYWW9NWVJMY2lnS19VdmRhSk1xUjBZZmRzSGRDak5WbUNUYnc3SXM1TXpjOEdhS2V5MTJYMmp3",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-09T02:06:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-09T02:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pbnVYX3d5TExyVkR5TldXTkUtckZYWW9NWVJMY2lnS19VdmRhSk1xUjBZZmRzSGRDak5WbUNUYnc3SXM1TXpjOEdhS2V5MTJYMmp3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "特朗普出售英伟达持仓披露",
+   "title_zh": "特朗普，卖出英伟达 - 电子工程专辑",
+   "sentiment": -1
   },
   {
    "id": "e37e42b83353",
@@ -6491,26 +6530,6 @@
    "sentiment": -1
   },
   {
-   "id": "203a526aae7d",
-   "title": "NVIDIA Corporation $NVDA Stock Purchased by Northwestern Mutual Wealth Management Co. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSW1zR1hPVEY4b09jVXdFcHNoalB1THJndjN6MmZzLU5hSEJkc0hOa0tNU2ltcG5GVEkxUjNKa05JMkgwdXJTd05QMDBiRDlKVzhBQlc0aTQtMk5zSllNVENaWWpTNXRaUjYzYjFVcTNfeklGU2paWmZMV2lFdzRBa3dNNXVaekRFOXE1XzBUcUpkbm9ENkdweUNxekE2b3BneGxkVzVTZmhIMjk4YlFiYTRNMjNGTDlEeXpUZ0JvaTV3UHVfei1ndE1ZYmExTmJVRHgtMmVBbklrRkxC",
-   "source": "MarketBeat",
-   "published_at": "2026-10-08T07:33:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-08T07:33:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSW1zR1hPVEY4b09jVXdFcHNoalB1THJndjN6MmZzLU5hSEJkc0hOa0tNU2ltcG5GVEkxUjNKa05JMkgwdXJTd05QMDBiRDlKVzhBQlc0aTQtMk5zSllNVENaWWpTNXRaUjYzYjFVcTNfeklGU2paWmZMV2lFdzRBa3dNNXVaekRFOXE1XzBUcUpkbm9ENkdweUNxekE2b3BneGxkVzVTZmhIMjk4YlFiYTRNMjNGTDlEeXpUZ0JvaTV3UHVfei1ndE1ZYmExTmJVRHgtMmVBbklrRkxC"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Northwestern Mutual买入NVDA",
-   "title_zh": "Northwestern Mutual增持英伟达股票",
-   "sentiment": 1
-  },
-  {
    "id": "c61973ae0cf9",
    "title": "Kendall Capital Management Raises Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaEx2MDdGeFpremY0Y0hubDRtTXdpVV85NGJRN1FrZnVNbEx3M0JXOXdhUGs4aUdWd2ZOVlpPajJIU2k2dmE3Zlc3OHV2NF9kWE81Nl9DSnRrcElQeEk0MGlKTllDRmxlY1FaOW1iSWpUN3h5SUtfeDFyZDZGS1pQU0hSWEZOU0l5Y28wRWI5ZUNiQzNyZDRMRlMycFFTNXdFYnEzZUdoVXNNOEZ1NmFMbmZZbnhUczRWYVZ6Y0k1eFh6allSU1Jad2NWMWpVMW5Pa1E",
@@ -6689,26 +6708,6 @@
    "zh_summary": "Evolve减持36220股英伟达",
    "title_zh": "Evolve Private Wealth出售36220股英伟达$NVDA",
    "sentiment": -1
-  },
-  {
-   "id": "ac3e03072e15",
-   "title": "Alta Advisers Ltd Purchases 177,316 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVzVSejE2ZDBKODNVNUFKbTd1ZTBDNElRdUpLOHBMOW1HZF9wQVdoZndNM1ZwSVF5SjYwN1FLcVlJQUNtR2w3VERRZ2xpM2N6aVg2NG1FQTdpSGhSc3U3UDU0TW54a19lMlVQaGUycnlLVmpnWWttSU9RaTIwSzFzSmJHQS1XckhtQi0wcjVfbDFWUmhhMGlvaTNfR0pPQ0dBc0dJWEZTalpuSWdyc21hSF94QXFhaVN4Z0RmQlpnM1UtUEJJN2hHUQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-08T07:29:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-08T07:29:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVzVSejE2ZDBKODNVNUFKbTd1ZTBDNElRdUpLOHBMOW1HZF9wQVdoZndNM1ZwSVF5SjYwN1FLcVlJQUNtR2w3VERRZ2xpM2N6aVg2NG1FQTdpSGhSc3U3UDU0TW54a19lMlVQaGUycnlLVmpnWWttSU9RaTIwSzFzSmJHQS1XckhtQi0wcjVfbDFWUmhhMGlvaTNfR0pPQ0dBc0dJWEZTalpuSWdyc21hSF94QXFhaVN4Z0RmQlpnM1UtUEJJN2hHUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Alta Advisers买入177316股英伟达",
-   "title_zh": "Alta Advisers买入177316股英伟达$NVDA",
-   "sentiment": 1
   }
  ]
 }
