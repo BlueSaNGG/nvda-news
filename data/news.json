@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T16:06:29.198402+00:00",
+ "updated_at": "2026-10-10T16:21:32.761586+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,8 +10,8 @@
    "days_left": 38
   },
   "day_sentiment": {
-   "avg": 0.41,
-   "count": 49
+   "avg": 0.38,
+   "count": 50
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.41（49条已评分）"
+     "note": "今日新闻情绪 +0.38（50条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-10T16:06:29.180577+00:00"
+   "as_of": "2026-10-10T16:21:32.749203+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -995,6 +995,23 @@
    "zh_summary": "英伟达架构师辞职创业，做物理AI芯片",
    "title_zh": "绕不开英伟达，也不能被它困住：英伟达架构师辞职做物理AI芯片 - 创业邦",
    "sentiment": 0
+  },
+  {
+   "id": "d4b7bfda03d6",
+   "title": "英伟达发布开放智能体安全平台，监管智能体AI行为 - 至顶网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zdVVkTEJYTmhPeVU2TW5jU2t5RmtqWVVzLUFXVkVYa280ZjVzay1EYm9wOTVZZzVGdWxWSzJfRTBvUVo1dkFHbVdXdDNsbDN0OVFDUVNNVlRvTzJMUXVYSk1PNF9FWXoxc2o0LWNLS0w",
+   "source": "至顶网",
+   "published_at": "2026-10-10T06:46:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "至顶网",
+     "published_at": "2026-10-10T06:46:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zdVVkTEJYTmhPeVU2TW5jU2t5RmtqWVVzLUFXVkVYa280ZjVzay1EYm9wOTVZZzVGdWxWSzJfRTBvUVo1dkFHbVdXdDNsbDN0OVFDUVNNVlRvTzJMUXVYSk1PNF9FWXoxc2o0LWNLS0w"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "995a81baa421",
@@ -6401,7 +6418,7 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CakFKcE80d1Y4UVpJLU9UU1BtYUdUenNkZVdfaUNoVkYyaW42OVljV3UzRW5wXzF0X19ZQ1c0U1I1NUJaVHNiUldzUml6WDZZM0w4VDZDSExFRE1XMkZyeGtRbkxnWU9uNE96WjNvV1EtQkV6OGc",
    "source": "新浪财经",
    "published_at": "2026-10-08T23:03:00+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "新浪财经",
@@ -6427,6 +6444,11 @@
      "name": "搜狐网",
      "published_at": "2026-10-08T23:58:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXpfVG1fT1JPOWtvc0doZkpDZGhWU01vRHktUEMwb05BQ2VFS3k3Q2Rma3pvTGFRc29ncnlKX2MySmVIQkFTdkVITFRIREotZVQ0MHlySGViMF9kMUNHM0J1R1hHZ3YtcDBSeFRNQkY1T0NHLXY5MWdvM0JyUDIxZjh4TURMOUtJVVNVdA"
+    },
+    {
+     "name": "同花顺",
+     "published_at": "2026-10-08T23:13:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBcDg2SlVBTVN2bnBhZlZPdVdvOWVMbnY2UlJKamdPNE9UYzFxdnBMd0ZRaW9CeUdzWFlENDJmQTNIUHA5M214d2dCZHdCWXRGMzdYZi0xc3JtTF9LSWdHemRn"
     }
    ],
    "category": "其他",
@@ -6752,26 +6774,6 @@
    "session": "盘后",
    "zh_summary": "英伟达出资10亿美元支持美国科学计算",
    "title_zh": "英伟达出资10亿美元，助力美国科学计算领先地位",
-   "sentiment": 1
-  },
-  {
-   "id": "4d94548c1161",
-   "title": "NVIDIA Unleashes AI Agents to Build Omniverse Simulations - The Tech Buzz",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYlpWRXlTQnRVZzF3NUdPeVdJbWpSdGlfZ3pzS21vMGRTdUlOTEpza3VEaXI3VzhoenRtRE9OWlQwWmJjYUMtREw3T3ROZ3c0MXpTYlZaSjdvRTRuZ0VWZl9OUGRXbUF2U3RYcjFJdy1wMUhRSHNXZVI0cHhZTVBMcWlfekRickE2bmdTVy1GS2pab1dX",
-   "source": "The Tech Buzz",
-   "published_at": "2026-10-08T21:38:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Tech Buzz",
-     "published_at": "2026-10-08T21:38:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYlpWRXlTQnRVZzF3NUdPeVdJbWpSdGlfZ3pzS21vMGRTdUlOTEpza3VEaXI3VzhoenRtRE9OWlQwWmJjYUMtREw3T3ROZ3c0MXpTYlZaSjdvRTRuZ0VWZl9OUGRXbUF2U3RYcjFJdy1wMUhRSHNXZVI0cHhZTVBMcWlfekRickE2bmdTVy1GS2pab1dX"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达推出AI智能体构建Omniverse仿真",
-   "title_zh": "英伟达推出AI智能体，构建Omniverse仿真世界",
    "sentiment": 1
   }
  ]
