@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T09:36:28.923874+00:00",
+ "updated_at": "2026-10-10T09:51:28.041370+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,8 +10,8 @@
    "days_left": 38
   },
   "day_sentiment": {
-   "avg": 0.35,
-   "count": 26
+   "avg": 0.33,
+   "count": 27
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.35（26条已评分）"
+     "note": "今日新闻情绪 +0.33（27条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-10T09:36:28.910231+00:00"
+   "as_of": "2026-10-10T09:51:28.024485+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "0b7f783f1cca",
+   "title": "绕不开英伟达，也不能被它困住：英伟达架构师辞职做物理AI芯片 - 创业邦",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoTUpoVnVrVFBNTC1iTEpLLXN3eWdhRWx6Y2JWMTkyWDdBbFRiNkZQYVVCU3BuaWs5bE90aGdHZ0RwWF9PaWNrY25ONlI0OTBI",
+   "source": "创业邦",
+   "published_at": "2026-10-10T09:44:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "创业邦",
+     "published_at": "2026-10-10T09:44:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoTUpoVnVrVFBNTC1iTEpLLXN3eWdhRWx6Y2JWMTkyWDdBbFRiNkZQYVVCU3BuaWs5bE90aGdHZ0RwWF9PaWNrY25ONlI0OTBI"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
   {
    "id": "975f698ca5ce",
    "title": "涉转运搭载英伟达先进AI芯片服务器至中国 超微电脑案中间人认罪 - RFI",
@@ -77,8 +94,8 @@
    ],
    "category": "产品技术",
    "session": "周末",
-   "title_zh": "涉转运搭载英伟达先进AI芯片服务器至中国 超微电脑案中间人认罪 - RFI",
    "zh_summary": "超微电脑案中间人认罪转运英伟达AI服务器",
+   "title_zh": "涉转运搭载英伟达先进AI芯片服务器至中国 超微电脑案中间人认罪 - RFI",
    "sentiment": 0
   },
   {
@@ -312,12 +329,17 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnMEU0V05qUkl3eGk4ZExxUnE4eWE1T0xEMHhzUEhTVEdDVXNEZ0lrbkg1elBOc2k3amU1a3hEM1Q1aUhDdFpVU2ZEV1Jwa3lHY29fYjYxOWJEdDZ2",
    "source": "3DM",
    "published_at": "2026-10-10T07:42:20+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "3DM",
      "published_at": "2026-10-10T07:42:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnMEU0V05qUkl3eGk4ZExxUnE4eWE1T0xEMHhzUEhTVEdDVXNEZ0lrbkg1elBOc2k3amU1a3hEM1Q1aUhDdFpVU2ZEV1Jwa3lHY29fYjYxOWJEdDZ2"
+    },
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-10T08:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EcGpvR0JSUmRLTmdCZWNCSmV3QmFMY3lZR3Z6REMtdktYSG9lRTZmU01IM0VJam8xd2VwNlFHLWxNenByQXRCRm14MEg2Z0tWcU41d1JsMjdxYkFuTDk2ZA"
     }
    ],
    "category": "产品技术",
@@ -6760,40 +6782,6 @@
    "zh_summary": "英伟达系Upscale推出AI网络新品",
    "title_zh": "英伟达支持的Upscale以Token Fabric打破AI网络孤岛",
    "sentiment": 1
-  },
-  {
-   "id": "40332938bf1c",
-   "title": "英伟达拟投资芯片竞争对手d‑Matrix：一众挑战者纷纷选择合作路线 - 雪球",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4SjRwMmlOOEI5aE5ubTBiaFFDY1V6a0daSS1TTWxIekdmU0tzbTh1aVVhSUU5Y2FubzRjY3hfNlFSUk5vSU54SExHaVE1WUp3",
-   "source": "雪球",
-   "published_at": "2026-10-08T18:30:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "雪球",
-     "published_at": "2026-10-08T18:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4SjRwMmlOOEI5aE5ubTBiaFFDY1V6a0daSS1TTWxIekdmU0tzbTh1aVVhSUU5Y2FubzRjY3hfNlFSUk5vSU54SExHaVE1WUp3"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-09T09:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM3JDMGsxcmtjRkxSbkt3TnV6VEVlZk0wTzVvYkRDR2pWOGROb3hybkthMWFDSm1RVnRZMWRGeTFpQUdSQmUwYWRSVU42N3AwYVRpZnZxelpDZ3VjaHJiYTMyVG1pbFhKcWU3OFprSXY2Z0wtNFFFWjFyclhaZHVnY3Rhck9DWTJDVFdxLVJYVmdxRDVtMmhwNDdobjI1akZCclUxU3AyTFZvT09PdGd3ZUdaMlhaczBfYjZvSDYwckp4ZXlMTmlPbG9ENDc4UTRIRkdFZW9PaGpuMTY3TXc"
-    },
-    {
-     "name": "cnBeta.COM",
-     "published_at": "2026-10-09T09:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1acGs3ZzVRR3pDb2VLczc4OEVPRGhkMnQwUGt5dXoxSzhES3UxMkpGYXVCV095TG44clhoNjZrVFFlRERnNlhySzRLTERvQWlsWUN0NXc5RkctNlcwaXp0bA"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达拟投资d-Matrix",
-   "title_zh": "英伟达拟投资芯片竞争对手d-Matrix：一众挑战者纷纷选择合作路线",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.2,
-    "window_h": 1.5
-   }
   }
  ]
 }
