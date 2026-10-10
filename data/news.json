@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T11:06:27.039416+00:00",
+ "updated_at": "2026-10-10T11:21:28.391931+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,8 +10,8 @@
    "days_left": 38
   },
   "day_sentiment": {
-   "avg": 0.34,
-   "count": 32
+   "avg": 0.29,
+   "count": 34
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.34（32条已评分）"
+     "note": "今日新闻情绪 +0.29（34条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-10T11:06:27.027125+00:00"
+   "as_of": "2026-10-10T11:21:28.376159+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e801048cb191",
+   "title": "RTX 5090突然停产！英伟达新旗舰换成RTX 5080 24GB：玩家彻底哭了 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YTmd5ckRKNkRqT1JJSWx1YmVXY2tMbE8tMVhSeVpTOF9lS3VWbjZvVVl5OF9CckhuWUxWZ0NLQ1JXWDVVcUFrcE5ORUxkVC11WjBvRmpVcHU",
+   "source": "驱动之家",
+   "published_at": "2026-10-10T11:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-10T11:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YTmd5ckRKNkRqT1JJSWx1YmVXY2tMbE8tMVhSeVpTOF9lS3VWbjZvVVl5OF9CckhuWUxWZ0NLQ1JXWDVVcUFrcE5ORUxkVC11WjBvRmpVcHU"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "59cd29da806e",
    "title": "The RTX 3060's 12GB accidentally solved the GPU memory crisis Nvidia created - XDA",
@@ -80,6 +97,23 @@
    "zh_summary": "RTX 3060 12GB版意外缓解显存危机",
    "title_zh": "RTX 3060 的 12GB 显存意外缓解了英伟达引发的显存危机",
    "sentiment": 0
+  },
+  {
+   "id": "9e8b453bd982",
+   "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmtTenlrQjRUaUpoSkxKY2NrVExBSWI1ZmN5aUlWajNBZHBxd21iZlBtOURpeDEzTWRQVU9YSTVtYmN6Z191c0VwVGotdzBMeEhMSWszWGVqMUdueEtucFoyYmd4c3VZckdXRmdjby1EeXNydEpCV3kwQUxZdUw3UnRzeFZ0c0VBa0lpb3g0NkQwWHJXVjB1emRzWdIBoAFBVV95cUxNT1F3c2tTN3lVN2d2dWpuWWh1eW9adnlCWE51YlcwUVZmMHpNcUM2MjFpUFNBa1lnalZEbjRWaFNsVzJ2ZlRNRUZzV2R0NjM0dGZXNTVVU3ZFN0ZxZjJ5SHhoR0djUXgzX3NGRHpHN1hVRVM3ejkyMlNzS3RzS19uWENzaHFCRHdSM201b3dnN0dsdk5QN0doekp4MG5HRlpR",
+   "source": "CNBC",
+   "published_at": "2026-10-10T11:00:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-10T11:00:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmtTenlrQjRUaUpoSkxKY2NrVExBSWI1ZmN5aUlWajNBZHBxd21iZlBtOURpeDEzTWRQVU9YSTVtYmN6Z191c0VwVGotdzBMeEhMSWszWGVqMUdueEtucFoyYmd4c3VZckdXRmdjby1EeXNydEpCV3kwQUxZdUw3UnRzeFZ0c0VBa0lpb3g0NkQwWHJXVjB1emRzWdIBoAFBVV95cUxNT1F3c2tTN3lVN2d2dWpuWWh1eW9adnlCWE51YlcwUVZmMHpNcUM2MjFpUFNBa1lnalZEbjRWaFNsVzJ2ZlRNRUZzV2R0NjM0dGZXNTVVU3ZFN0ZxZjJ5SHhoR0djUXgzX3NGRHpHN1hVRVM3ejkyMlNzS3RzS19uWENzaHFCRHdSM201b3dnN0dsdk5QN0doekp4MG5HRlpR"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "23812c33e847",
@@ -6620,12 +6654,17 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jZWZzT1plemVXSVZwdmFyN2RmdnFlRldCbkJwaUQzY3g0NkVkOG5TRDZ6ZXB3elVsSjZyU3YtRnRYV2I4eUh5MmcyX0NUeFBJSVVVRHA0VlpneVZOOXJnaExnbm1ORUxfVDhPRXM4eFk0Ti1Y",
    "source": "Crypto Briefing",
    "published_at": "2026-10-08T20:24:30+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Crypto Briefing",
      "published_at": "2026-10-08T20:24:30+00:00",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jZWZzT1plemVXSVZwdmFyN2RmdnFlRldCbkJwaUQzY3g0NkVkOG5TRDZ6ZXB3elVsSjZyU3YtRnRYV2I4eUh5MmcyX0NUeFBJSVVVRHA0VlpneVZOOXJnaExnbm1ORUxfVDhPRXM4eFk0Ti1Y"
+    },
+    {
+     "name": "TweakTown",
+     "published_at": "2026-10-10T11:05:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSVNkam1rSW1SaGk4Y1d5MGowYWplQjNYUmFlYlNwQUVSR3lKcTJqLWpsa1p5cWpkQzRnQzN5OU96Wm5QMy1Zb1ZXNVF3WnQ3c2ZBQXh6RWt6dTNyOXVNV21HSFFBMGFlRy1uQnczaGZBT2d2UnRiZG1aaTNMNndycmpFOExfRUpRYkNRdnk4MXhsR1I2MFFjVjNMeU4wRmlwaVhKdmlIdUNmWnFDaWlXWktiUjVLek9WMC12ZXFDQm85RGhYR2Q2ZVFNTjcya01JU1M1T2Q2cFF1VVp3b0xoaDFZSXJ0dw"
     }
    ],
    "category": "其他",
@@ -6731,46 +6770,6 @@
     "pct": -0.05,
     "window_h": 0.2
    }
-  },
-  {
-   "id": "a5e2f7bf38f3",
-   "title": "Nvidia NVDA Stock Falls to $230 as OpenAI Revenue Concerns Hit Chip Stocks - FXLeaders",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXNCZmFjRllueVByOVM1Ul9NVnZ4WjFObS1xQTVwM0k3b1ZaRi1KR0Jsdm51dmZqLUF5UHpZS3NQZUdzR1BRQi0yNUpoYVU4azEwblg0dGVJdF9FS2NtWk5FQU5fc0pEZDJpOC1wdUxkTzV4UEtEYk54Z0hYcUxhQ044UV9FdHR1NjhWVXl4VGRoRUFvQ0VfTGdBUWt0TkhaemVSTTQwUW4tOE9CSUFFUkxPSG42NzA",
-   "source": "FXLeaders",
-   "published_at": "2026-10-08T19:30:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FXLeaders",
-     "published_at": "2026-10-08T19:30:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXNCZmFjRllueVByOVM1Ul9NVnZ4WjFObS1xQTVwM0k3b1ZaRi1KR0Jsdm51dmZqLUF5UHpZS3NQZUdzR1BRQi0yNUpoYVU4azEwblg0dGVJdF9FS2NtWk5FQU5fc0pEZDJpOC1wdUxkTzV4UEtEYk54Z0hYcUxhQ044UV9FdHR1NjhWVXl4VGRoRUFvQ0VfTGdBUWt0TkhaemVSTTQwUW4tOE9CSUFFUkxPSG42NzA"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "OpenAI营收担忧致英伟达跌至230美元",
-   "title_zh": "英伟达(NVDA)跌至230美元，OpenAI营收担忧冲击芯片股",
-   "sentiment": -1
-  },
-  {
-   "id": "3ea5b0e70e91",
-   "title": "Building Reliable Data Analytics Agents: Lessons from the KDD Cup | NVIDIA Technical Blog - NVIDIA Developer",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2wyaVBiM0lXc3k3UGFxRTJneXdsWDNSaEQ0eEZtbEVFUVoxODVSeGxLdnAwdldJQ2c5a1BiaTBCOG85QVNGa0pvODRKR1RySjNRa3JaZUFVT19yQmtQV2gxOF9QS1RNajNCdFdaandEa1RMZ0xhdTRoMmFrZWl0VkJqSG9xcE8tYTNBS2pZc2hwWTI3amN0TXVUVVQxUjJv",
-   "source": "NVIDIA Developer",
-   "published_at": "2026-10-08T19:19:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Developer",
-     "published_at": "2026-10-08T19:19:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2wyaVBiM0lXc3k3UGFxRTJneXdsWDNSaEQ0eEZtbEVFUVoxODVSeGxLdnAwdldJQ2c5a1BiaTBCOG85QVNGa0pvODRKR1RySjNRa3JaZUFVT19yQmtQV2gxOF9QS1RNajNCdFdaandEa1RMZ0xhdTRoMmFrZWl0VkJqSG9xcE8tYTNBS2pZc2hwWTI3amN0TXVUVVQxUjJv"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达技术博客：KDD Cup数据智能体经验",
-   "title_zh": "英伟达技术博客：构建可靠数据分析智能体——KDD Cup的经验",
-   "sentiment": 0
   }
  ]
 }
