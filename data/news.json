@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T12:21:31.116872+00:00",
+ "updated_at": "2026-10-10T12:36:29.186395+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,8 +10,8 @@
    "days_left": 38
   },
   "day_sentiment": {
-   "avg": 0.31,
-   "count": 39
+   "avg": 0.33,
+   "count": 43
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（39条已评分）"
+     "note": "今日新闻情绪 +0.33（43条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-10T12:21:31.090055+00:00"
+   "as_of": "2026-10-10T12:36:29.171283+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "f625fbd5ab9a",
+   "title": "Opinion: Why Nvidia’s stock is dodging the AI credit scare that is crushing Broadcom and Oracle - MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTV9hSzlieTl3S1hRYklaZmQtMzZ4UGtTVUtscUUxeS1Sd1NkUEU2ZU1HLWFleUcyWXA5Sl9VU1hOMmhHVzZNY1YzQWk5SHRic1JXOGppcXZSSFNqU21yM2JaZHFkLU9XRWdteWptNmxGTTM4YzgwOTNOZ29kN2hOLW5DVTZTMlFXNEprYXdyVjFLWDhvWkZQU203czNWRmNoV0JfNThPZ3pKVUV5emNvLTNQZS1XRE1ZZERoRlRCTVIwMmsxVTVZ",
+   "source": "MarketWatch",
+   "published_at": "2026-10-10T12:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketWatch",
+     "published_at": "2026-10-10T12:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTV9hSzlieTl3S1hRYklaZmQtMzZ4UGtTVUtscUUxeS1Sd1NkUEU2ZU1HLWFleUcyWXA5Sl9VU1hOMmhHVzZNY1YzQWk5SHRic1JXOGppcXZSSFNqU21yM2JaZHFkLU9XRWdteWptNmxGTTM4YzgwOTNOZ29kN2hOLW5DVTZTMlFXNEprYXdyVjFLWDhvWkZQU203czNWRmNoV0JfNThPZ3pKVUV5emNvLTNQZS1XRE1ZZERoRlRCTVIwMmsxVTVZ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "67f576d826ef",
+   "title": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs — impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming flagship - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQSjBCd255Y1gyWXBvSnlpVW4xNHVteF9MTG40Yngxdml6SnJ2R2JoNkF4OTdzMGJ1dkRIaVNoVlc0MnItdkNCTV9QX2FscW4zRGw1UkFTV285VW9DZS0tWmNXdmR2dUtCNmh6dWRWcmxSN3lVWDVhZ01qNUxGZ2k1bW03LWZPWndlX3NXcENxczczNUJNSUU4OHNzN3pQbmlkMmpPM2xfVXA1Z1E0b2dsMUZ4UXRGUkJ5aWh5MnVMUjZuNDMyeHBOUFdjNEJ1X3V2Wm1seDlfWHpEbC1idlR3RFhIMzhvTzRhYXFYWF91UEhXTEpfMldZUXNhMmt6Vmtsa0dnQ1B3eS15X0tmVEFXYWo5RFlUZWl6b21LTUtGM3FQbjJ0eFZscy1IOE9LaEdWb3F2Nnd4TWVXcnBKN2J1TTNzbEhaQ0ExVEpYQTRuaEhOLWg1elY2U0pYc3dvdHBac0JLLQ",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-10T12:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-10T12:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQSjBCd255Y1gyWXBvSnlpVW4xNHVteF9MTG40Yngxdml6SnJ2R2JoNkF4OTdzMGJ1dkRIaVNoVlc0MnItdkNCTV9QX2FscW4zRGw1UkFTV285VW9DZS0tWmNXdmR2dUtCNmh6dWRWcmxSN3lVWDVhZ01qNUxGZ2k1bW03LWZPWndlX3NXcENxczczNUJNSUU4OHNzN3pQbmlkMmpPM2xfVXA1Z1E0b2dsMUZ4UXRGUkJ5aWh5MnVMUjZuNDMyeHBOUFdjNEJ1X3V2Wm1seDlfWHpEbC1idlR3RFhIMzhvTzRhYXFYWF91UEhXTEpfMldZUXNhMmt6Vmtsa0dnQ1B3eS15X0tmVEFXYWo5RFlUZWl6b21LTUtGM3FQbjJ0eFZscy1IOE9LaEdWb3F2Nnd4TWVXcnBKN2J1TTNzbEhaQ0ExVEpYQTRuaEhOLWg1elY2U0pYc3dvdHBac0JLLQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
   {
    "id": "8b58874cb44a",
    "title": "What a New Groq Lawsuit Means for Nvidia Stock Holders - Barchart.com",
@@ -107,12 +141,17 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wVHd4T2Y0WHZ1NlVpOHdzYUhha0R4Y2ZXMzB4ZXRjcjdMcjhKYjBNUHlqSUxjanI0MUN6UXlFdFg0RjBraG92TA",
    "source": "凤凰网",
    "published_at": "2026-10-10T11:43:25+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "凤凰网",
      "published_at": "2026-10-10T11:43:25+00:00",
      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wVHd4T2Y0WHZ1NlVpOHdzYUhha0R4Y2ZXMzB4ZXRjcjdMcjhKYjBNUHlqSUxjanI0MUN6UXlFdFg0RjBraG92TA"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-10T11:43:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5QmlCYVR6TnBlNEtXcHFrUDNvem9pcWdEVVF4NlJnMExva2JrOXNPV0Jyd2ZxakZJM1NJcXQtb3VjRnJMeHhrMkpUeFo"
     }
    ],
    "category": "其他",
@@ -1483,7 +1522,7 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VT1RGbFJLR09hRXFVSWpWY0x4OFprOUN0b2kyUnZfX3RxUUlLMjQwYUptb3prdjJLRU5lXzlBdWNybHBIeGRtaWVqcVpnSHpTUlp4Zk9R",
    "source": "雪球",
    "published_at": "2026-10-09T20:38:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "雪球",
@@ -1494,6 +1533,11 @@
      "name": "CSDN博客",
      "published_at": "2026-10-10T11:38:56+00:00",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VY3VtYjg1bUNaNGRLWHROV24wMTBJalczclRYeUM5Z2FBOWNLbUpDUDVWZ3d4TnFFNE9tQVZ2TEZ1cmxTN09LcTg5d0dxMm9TTE5XMXpTTWJmMzhyNFctbkJUXzdhTDN5"
+    },
+    {
+     "name": "53AI",
+     "published_at": "2026-10-10T09:02:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIRGFLaHhtQVVOb0tkWVVNWFExak1KMkZVdUpScDVrckNfbjRBWEllNHdhazRvQkNBOTRnWWMwVkUtbUFYUjkwejNUNU4yV1pIbFowNnRQdjRPQUlJVVBPRWRiRUpzQzF2MUtLMA"
     }
    ],
    "category": "其他",
@@ -1521,6 +1565,23 @@
    "zh_summary": "企业传播主管任职四个月后离职",
    "title_zh": "英伟达企业传播主管任职约四个月后离职",
    "sentiment": 0
+  },
+  {
+   "id": "84090484cc06",
+   "title": "英伟达期权聚焦：10月9日成交317.87万张，未平仓合约1,520.55万张 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVFEZndzUjJOMHFLRzBVaTZCajJZLUh1RmN5TVhUMXVUQ3Z2SENfUlYxNjkzS3o3T2JzYTN1WTQwRnhHc0laMzVySVBfYUZwblJBRDltRUF1eHBvel8tb3hidUNMQnA0NlhKRks2U0tHTEdFVFIzOHhPNFB3WU5OZmNHNExmOElRQWkzelRiVV9meUduU3hHRXdLVE1vTVVH",
+   "source": "Moomoo",
+   "published_at": "2026-10-09T20:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-09T20:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVFEZndzUjJOMHFLRzBVaTZCajJZLUh1RmN5TVhUMXVUQ3Z2SENfUlYxNjkzS3o3T2JzYTN1WTQwRnhHc0laMzVySVBfYUZwblJBRDltRUF1eHBvel8tb3hidUNMQnA0NlhKRks2U0tHTEdFVFIzOHhPNFB3WU5OZmNHNExmOElRQWkzelRiVV9meUduU3hHRXdLVE1vTVVH"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "e9ac9336ca65",
@@ -6673,66 +6734,6 @@
    "zh_summary": "投资人建议持有英伟达而非内存股",
    "title_zh": "投资人建议持有英伟达而非内存股",
    "sentiment": 1
-  },
-  {
-   "id": "75bfd1ad07dd",
-   "title": "NVDA Stock Eyes Worst First Half Since 2022: Retail Patience Wears Thin As Board Member Trims Stake For Third Time This Year - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORzhNMG5sbTZPeXlsLUFWb0xrc05MRGNQcW9aS3VrOTF5RFRYdFRuQkZvRFFFdkdyNzNiaGNodWdJdjJHZE9oYUNnUWxoclN6LTU4YTRIRnR6NnZKRDV5ZVVSWWJPdGNsdFZZM01rZ1V2ajlPcTFHczdBUElKSUtJbEptTFc5V1JKQXZMbHpkeWxDazRpZGc3eHhDVkxuSXN0OE51QmI3bU1FN2pWMEFVODlFT2Q5SVVrXzNQQktFSjR1dkRFWlBpRlF4V2JuZW1rSFZtSU9sWnU5bXBRaDJxbjVGN3M2cGg4dG5SVWY4d2h6SENzbGlkdGk2dUVvWmtDRmZudmVhOHlmeTNGU0F0S2NWNFdSZw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-08T21:07:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-08T21:07:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORzhNMG5sbTZPeXlsLUFWb0xrc05MRGNQcW9aS3VrOTF5RFRYdFRuQkZvRFFFdkdyNzNiaGNodWdJdjJHZE9oYUNnUWxoclN6LTU4YTRIRnR6NnZKRDV5ZVVSWWJPdGNsdFZZM01rZ1V2ajlPcTFHczdBUElKSUtJbEptTFc5V1JKQXZMbHpkeWxDazRpZGc3eHhDVkxuSXN0OE51QmI3bU1FN2pWMEFVODlFT2Q5SVVrXzNQQktFSjR1dkRFWlBpRlF4V2JuZW1rSFZtSU9sWnU5bXBRaDJxbjVGN3M2cGg4dG5SVWY4d2h6SENzbGlkdGk2dUVvWmtDRmZudmVhOHlmeTNGU0F0S2NWNFdSZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "董事今年第三次减持NVDA股票",
-   "title_zh": "NVDA恐迎2022年以来最差上半年：董事今年第三次减持",
-   "sentiment": -1
-  },
-  {
-   "id": "927ed9f03da7",
-   "title": "Micron (MU) and Nvidia (NVDA) Stocks Decline as Apple (AAPL) Con - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSjZidEZzSnI1X1ZsbVBHQ1hma1J4NnBNMlhJejRJbDhKYjNrNGtyZC1SaVBWVnhQSHhvX3VYRlRTTTdRTmM2ZS1lY3FkV0NxLVdGaTI1djVEYmx5bEVBRFVCV1Q3TmdvT2pvTko4aDdySXFRMllKU1lvMW1WUTd5SmF0U08tOXdaRm1CbmgxWWltMHhGYm1fU0NSUldMWTlUTXFvSWhrdVBMZEROeHBLX0ozQVRoZXJrU1E1QnVn",
-   "source": "GuruFocus",
-   "published_at": "2026-10-08T21:02:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-08T21:02:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSjZidEZzSnI1X1ZsbVBHQ1hma1J4NnBNMlhJejRJbDhKYjNrNGtyZC1SaVBWVnhQSHhvX3VYRlRTTTdRTmM2ZS1lY3FkV0NxLVdGaTI1djVEYmx5bEVBRFVCV1Q3TmdvT2pvTko4aDdySXFRMllKU1lvMW1WUTd5SmF0U08tOXdaRm1CbmgxWWltMHhGYm1fU0NSUldMWTlUTXFvSWhrdVBMZEROeHBLX0ozQVRoZXJrU1E1QnVn"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘后",
-   "zh_summary": "美光与英伟达股价下跌",
-   "title_zh": "美光与英伟达股价下跌，苹果相关消息拖累",
-   "sentiment": -1
-  },
-  {
-   "id": "c366c10514c9",
-   "title": "Nvidia (NVDA)’s $20 Billion Groq Deal Faces a Legal Test. Does It Matter for NVDA’s Valuation? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1YwNUxRbHFBRGh4RlJaazdlUlpMNm9RRU4xZ1lYZ1ZST2hRTEQ1Umt3SW9XZEVMN0xBNDF0X0h4U2RSalJjSFUxVEthVHhLTXVnY3NyOF9xRzN4YmhObVRJSUVGejI0aHBzWEdFTFBPaVVRQ0Z6M2Q0aTBZRV85N3lkLVVDV0djalYzRnpBeW9uWFBoMlE",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-08T20:54:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-08T20:54:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1YwNUxRbHFBRGh4RlJaazdlUlpMNm9RRU4xZ1lYZ1ZST2hRTEQ1Umt3SW9XZEVMN0xBNDF0X0h4U2RSalJjSFUxVEthVHhLTXVnY3NyOF9xRzN4YmhObVRJSUVGejI0aHBzWEdFTFBPaVVRQ0Z6M2Q0aTBZRV85N3lkLVVDV0djalYzRnpBeW9uWFBoMlE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "200亿美元Groq交易面临法律考验",
-   "title_zh": "英伟达(NVDA)200亿美元Groq交易面临法律考验，对估值有影响吗",
-   "sentiment": -1
   }
  ]
 }
