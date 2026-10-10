@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T00:21:40.008148+00:00",
+ "updated_at": "2026-10-10T00:41:43.704057+00:00",
  "market": {
   "price": 230.48,
   "change_pct": -2.94,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.24,
-   "count": 147
+   "count": 148
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（147条已评分）"
+     "note": "今日新闻情绪 +0.24（148条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 36.7,
    "ma20": 226.18,
-   "as_of": "2026-10-10T00:21:39.996679+00:00"
+   "as_of": "2026-10-10T00:41:43.693505+00:00"
   },
   "pe_ttm": 29.3,
   "pe_pct_5y": 27,
@@ -87,7 +87,7 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWU1BR0kzclBiMlBNbWZ1bXFLT28yN2lJcW5UOGhBSlNTSnZDUE5YRVRrcWd6TXhSOXM0bldmUVhleS1ZYklSVXdodEdCaFpYWXg4NWVNQkNQQV9GY3J6UGxZU0l6VGZ1blJESjdGbU5odFRDaHFxUkQxWVY4NHR1cHpEb2tHR0pGeTdseVZib2xxeGdia3o5dVVQbmZXaDlHdlE",
    "source": "The Motley Fool",
    "published_at": "2026-10-09T23:44:21+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -103,10 +103,16 @@
      "name": "Currently.com",
      "published_at": "2026-10-10T00:01:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaVplaHV0eWo0MVdqeEhQZ1BfZnd4OGtRY2IzZE1hbzZlVjR6b3RfVC1NTUF2T2RnNktFU3RQSTRwLWtzRFZ6emF1aXljdmpRV3I1TXl5WWw0cWljTUp4X1RqbjE1R0otT21iWnhFV2NpRDBHZ2NqTFVBUlhsQW1tUnFYbS0"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-10T00:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQlQ0T2E4UjdmS1VsVEZuNTNaMnZxRjV0czJVRktJZENzTlZSTDFvdms3a1VKcG03V3cwZEpLdUt3LWkyWjI0eUJlMWprS25ac2w5NmJjTGZPTGxBV0RwQndOcS1uWUlsNkwtN3NwLVlUckUtUmhOQkdnRWpmNWxybUwxSEh0UTRrSjFnTjNKSFNCRE14ZEE"
     }
    ],
    "category": "其他",
    "session": "盘后",
+   "breaking": true,
    "zh_summary": "Motley Fool称想买英伟达持有物理AI",
    "title_zh": "什么是物理AI？想拥有它就买英伟达股票",
    "sentiment": 1
@@ -5220,26 +5226,6 @@
    "sentiment": -1
   },
   {
-   "id": "cc8ca414a0e5",
-   "title": "AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QWTFiay1LRjU3QkRoYlhVeVI4X1hKaHNXRE9WS1IzOWFSdXNueG1MRk9jRGtlR3JKOVJJWnpyTDBrOG00dlU2YQ",
-   "source": "财联社",
-   "published_at": "2026-10-08T21:26:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-08T21:26:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QWTFiay1LRjU3QkRoYlhVeVI4X1hKaHNXRE9WS1IzOWFSdXNueG1MRk9jRGtlR3JKOVJJWnpyTDBrOG00dlU2YQ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "Lambda订单达500亿美元，拟融资40亿IPO",
-   "title_zh": "AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO - 财联社",
-   "sentiment": 1
-  },
-  {
    "id": "d820d5b389b3",
    "title": "Intel Drops 2.6% as Nvidia RTX Spark Eclipses Xeon 6 [2026] - shattered.io",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU00ySnNnSnhFUktnVGJGbHA3OHpaT01ZdjlfdDBUZ1RCR3RnMXltdWFoWkRpQWVKenhrVDhBM09ZYXpGeTAzVFh3Q3VpLTgyYmpHZ0daaG9VMHQtekViU3pmbmgyR2thSUowSmh6WnpCclhIYzFmaDd5WDR0RmRvSEJ3UDJVU244RzRZ",
@@ -6138,6 +6124,28 @@
    "zh_summary": "艾夫斯称英伟达与SpaceX仍有上涨空间",
    "title_zh": "分析师Daniel Ives称英伟达和SpaceX还有上涨空间",
    "sentiment": 1
+  },
+  {
+   "id": "4b35b8206838",
+   "title": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years - NVIDIA Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWV9LdlNrOEhZeWpWaHNwSUlhSllPWFo3Y05sckNRbXBIeVZ5NElkNDdJbHlOR0pvZHRfRk9CMEI3U0xmNlU5RndtMkx3TWFRVk5oLWxIRktoeS0wMGxZMEpkN2hEVWZQa0JuWk85RUpZRVAxVGkwdnkxa1dxR0cxdFdXVlpQQUk3dGYzM21IVDdwZjJCNjFPamRib2FfdHhsWF9Ma2VFNVZmUQ",
+   "source": "NVIDIA Newsroom",
+   "published_at": "2026-10-08T17:19:04+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "NVIDIA Newsroom",
+     "published_at": "2026-10-08T17:19:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWV9LdlNrOEhZeWpWaHNwSUlhSllPWFo3Y05sckNRbXBIeVZ5NElkNDdJbHlOR0pvZHRfRk9CMEI3U0xmNlU5RndtMkx3TWFRVk5oLWxIRktoeS0wMGxZMEpkN2hEVWZQa0JuWk85RUpZRVAxVGkwdnkxa1dxR0cxdFdXVlpQQUk3dGYzM21IVDdwZjJCNjFPamRib2FfdHhsWF9Ma2VFNVZmUQ"
+    },
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-09T12:35:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2hCYUVNcUx0Tk15YWRsa1dQWEZLNG90THhKa3NnQ01PRUxUcmNSU2hRTThjY19VbGtJd2pfcndUWXlkWmx1TjVfc1hUTnl1ckNhWHBvVDhTMGpTZlE2NHVkU3FNRmNuVVpaT3lackdpeUs2UGU4LUxFWlBnUmtXQWNMVzRJWHZ6"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "2507dbfaa2fd",
