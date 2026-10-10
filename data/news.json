@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-10T01:21:36.136257+00:00",
+ "updated_at": "2026-10-10T01:36:58.018844+00:00",
  "market": {
-  "price": 230.48,
-  "change_pct": -2.94,
+  "price": 229.28,
+  "change_pct": -0.52,
   "as_of": "2026-10-09",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.23,
-   "count": 149
+   "count": 151
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 88% 分位（偏高）"
+     "note": "现价处于52周区间 87% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +36.7%"
+     "note": "目标价中位数 $315（15家），隐含空间 +37.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（149条已评分）"
+     "note": "今日新闻情绪 +0.23（151条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $230.48 vs 20日均线 $226.18"
+     "note": "现价 $229.28 vs 20日均线 $226.73"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 88,
+   "price_52w_pct": 87,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 36.7,
-   "ma20": 226.18,
-   "as_of": "2026-10-10T01:21:36.122934+00:00"
+   "implied_upside_pct": 37.4,
+   "ma20": 226.73,
+   "as_of": "2026-10-10T01:36:58.010103+00:00"
   },
-  "pe_ttm": 29.3,
+  "pe_ttm": 29.1,
   "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+36.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "50d4f67974c4",
+   "title": "涉转运英伟达AI服务器至中国 美超微包商认罪 - e南洋",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UenVyclotQjdqTXRkQ3p3SE1Rc1VtakZKUHZtXzlQbDlYbG9xeUZvTjRVa1E5TjRZd2dHN0JWWmNHMl9ia2RMODF5QUt3ZTlpN2NCV3VhOVR1RHVmU2NRbG5HUQ",
+   "source": "e南洋",
+   "published_at": "2026-10-10T01:31:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "e南洋",
+     "published_at": "2026-10-10T01:31:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UenVyclotQjdqTXRkQ3p3SE1Rc1VtakZKUHZtXzlQbDlYbG9xeUZvTjRVa1E5TjRZd2dHN0JWWmNHMl9ia2RMODF5QUt3ZTlpN2NCV3VhOVR1RHVmU2NRbG5HUQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘后"
+  },
   {
    "id": "0cb4fe44ad74",
    "title": "英伟达悄然重新定义自由现金流，千亿回购计划暗藏水分？ - 富途牛牛",
@@ -77,8 +94,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "英伟达悄然重新定义自由现金流，千亿回购计划暗藏水分？ - 富途牛牛",
    "zh_summary": "英伟达重新定义自由现金流，回购计划被质疑",
+   "title_zh": "英伟达悄然重新定义自由现金流，千亿回购计划暗藏水分？ - 富途牛牛",
    "sentiment": -1
   },
   {
@@ -323,8 +340,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "英伟达Vera CPU上线2000沙盒，超AMD EPYC Zen 5",
    "zh_summary": "Vera CPU性能达AMD EPYC Zen 5两倍",
+   "title_zh": "英伟达Vera CPU上线2000沙盒，超AMD EPYC Zen 5",
    "sentiment": 1
   },
   {
@@ -6850,26 +6867,6 @@
     "pct": -0.15,
     "window_h": 0.3
    }
-  },
-  {
-   "id": "0f70af0dd3cb",
-   "title": "Meet the Super Semiconductor Stock Crushing Nvidia in 2026 - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWUM1OURoWmI5amFYM2hONXJyLVEybXFpWWNMLThuUTFoMklCaldmMUtncGhQR3lPTVlORUd5WEdkU2toVFgzZC1DaGlsNU1XSUxvZG1IUXdpeXpRNFB0Tkc1aVozeWZqMmh3aTNMczRrZnVXeThzdlpTNURaMTZpSFdLZjRMRzBBa3pVZjVwQV9KOUw4enIw",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-08T15:11:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-08T15:11:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWUM1OURoWmI5amFYM2hONXJyLVEybXFpWWNMLThuUTFoMklCaldmMUtncGhQR3lPTVlORUd5WEdkU2toVFgzZC1DaGlsNU1XSUxvZG1IUXdpeXpRNFB0Tkc1aVozeWZqMmh3aTNMczRrZnVXeThzdlpTNURaMTZpSFdLZjRMRzBBa3pVZjVwQV9KOUw4enIw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "盘点2026年超越英伟达的半导体股",
-   "title_zh": "认识这只2026年击败英伟达的超级半导体股",
-   "sentiment": -1
   }
  ]
 }
