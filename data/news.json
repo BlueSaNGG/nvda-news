@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T06:36:32.412237+00:00",
+ "updated_at": "2026-10-11T06:51:29.823926+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,8 +10,8 @@
    "days_left": 37
   },
   "day_sentiment": {
-   "avg": 1.0,
-   "count": 2
+   "avg": 0.67,
+   "count": 3
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.00（2条已评分）"
+     "note": "今日新闻情绪 +0.67（3条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-11T06:36:32.389164+00:00"
+   "as_of": "2026-10-11T06:51:29.805088+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "fa49050bedbe",
+   "title": "Nvidia weighs buyout of Reflection AI at $25B valuation - Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeHQ1cjBTTjlrVkRLaTU0RlhVcjFLbkRmUkhxZHlZdHdZTndJTG53U3pVSnlBWUJxbGFVVVBqbW5BMnBpOWtIckxlcmREQTZGYmhWdUdNbzktNWRjSWdPZTZDVU1remRKRHVHdGhnbVdEM0hrc0FGankwclhWTUZfT193SV9HYVRQRGJJcXdzNDdiZw",
+   "source": "Dealroom",
+   "published_at": "2026-10-11T06:48:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Dealroom",
+     "published_at": "2026-10-11T06:48:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeHQ1cjBTTjlrVkRLaTU0RlhVcjFLbkRmUkhxZHlZdHdZTndJTG53U3pVSnlBWUJxbGFVVVBqbW5BMnBpOWtIckxlcmREQTZGYmhWdUdNbzktNWRjSWdPZTZDVU1remRKRHVHdGhnbVdEM0hrc0FGankwclhWTUZfT193SV9HYVRQRGJJcXdzNDdiZw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "e6d141aef068",
    "title": "AI bubble? Nvidia is now bigger than Japan, but valuation looks modest - The Irish Times",
@@ -167,12 +184,17 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xQWpjLWdub3dKbXpLVEhYRndLTDZvY0ljMTdmOGNmdGFYUmlpbVl5LWQ5M0RvOHIxMjNUWHRRWi1PUDVtSlMxWjhNYk1HamxGZkctN0NRc1M",
    "source": "快科技",
    "published_at": "2026-10-11T02:25:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "快科技",
      "published_at": "2026-10-11T02:25:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xQWpjLWdub3dKbXpLVEhYRndLTDZvY0ljMTdmOGNmdGFYUmlpbVl5LWQ5M0RvOHIxMjNUWHRRWi1PUDVtSlMxWjhNYk1HamxGZkctN0NRc1M"
+    },
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-11T02:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vZGVMMjRRdEhLanVPLW9QenBQc0dONzlCS1FsRDRwSjdIeXVJOEM1MnV0SFZCZUJRV19PZTRRM0RjRlJKbkpJNTRYSktmQmVNZXZsNlJRTTM"
     }
    ],
    "category": "产品技术",
@@ -200,6 +222,23 @@
    "zh_summary": "传英伟达RTX5090停产，GB202转供数据中心",
    "title_zh": "传英伟达RTX5090停产：GB202芯片全面转供数据中心！ - 芯智讯",
    "sentiment": 0
+  },
+  {
+   "id": "be54dc8da7ef",
+   "title": "超微电脑承包商承认参与将英伟达AI服务器转运至中国的计划| Mezha - mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNm5OY1gyeTdBM2FrbnZvcG1WVl9SSlg5Q0VNdEpBSU5LdDNVSzl1TGhDblk3OHljbVVNZUE1UGotNXI0ZTZmSU9EaS1zODMxakxSSVpvZFFSRUJ2bS1xajdLbUtjLVgzNVJycGFoZlltUjJYRWdzZmItb1I0bExWUjNIVVM2TjdZd0U5eVVlbXlvUFh1OEJXdlVyemJmUQ",
+   "source": "mezha.net",
+   "published_at": "2026-10-11T01:42:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "mezha.net",
+     "published_at": "2026-10-11T01:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNm5OY1gyeTdBM2FrbnZvcG1WVl9SSlg5Q0VNdEpBSU5LdDNVSzl1TGhDblk3OHljbVVNZUE1UGotNXI0ZTZmSU9EaS1zODMxakxSSVpvZFFSRUJ2bS1xajdLbUtjLVgzNVJycGFoZlltUjJYRWdzZmItb1I0bExWUjNIVVM2TjdZd0U5eVVlbXlvUFh1OEJXdlVyemJmUQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "周末"
   },
   {
    "id": "d2772091f62d",
@@ -612,12 +651,17 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEhNbm44LUd6U3ZnU2t4ZXVxVlBObW55LURVTlJjcnNOWHJmZEhwNEd4UDdiWHFwaDBZSGw0blpidEN3QldtTl9haFYwNjVpUFJYTVRUOHJ6bU9SZE5jLUVzT2ItQXk4cjNhVEk5TnlBZnIxeE5SZ2x2cW9XRFVRb2lDQkdlWUF5S01CN1RKZGxnRWQ0aVhFNmhaS2VFUXhYVlAtYjJnUlBoSFZ6VUE",
    "source": "Bloomberg.com",
    "published_at": "2026-10-10T18:52:58+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Bloomberg.com",
      "published_at": "2026-10-10T18:52:58+00:00",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEhNbm44LUd6U3ZnU2t4ZXVxVlBObW55LURVTlJjcnNOWHJmZEhwNEd4UDdiWHFwaDBZSGw0blpidEN3QldtTl9haFYwNjVpUFJYTVRUOHJ6bU9SZE5jLUVzT2ItQXk4cjNhVEk5TnlBZnIxeE5SZ2x2cW9XRFVRb2lDQkdlWUF5S01CN1RKZGxnRWQ0aVhFNmhaS2VFUXhYVlAtYjJnUlBoSFZ6VUE"
+    },
+    {
+     "name": "NDTV Profit",
+     "published_at": "2026-10-11T05:55:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQajk1bWpDdkZrWERuSkNoUnNKaHJsTHUwazduS3owYW5BZTBrQXdfZEhtVVNqSUlHVDE1amxGQ056MGhnU0JHUHNEWUhULXluUDJjUk1SWElMZDJpOWprdUVFdnNLQ0lkVW94TU1saFl2Y0N1UkpsZzVGZjIxUmRDeGs5TXBSWVozd2gxdHlUcFlXV1U5ZFJKZS10b3hiVjhLS0phMm01dmZjVmRWZ1HSAbYBQVVfeXFMUDhITHBjdVRvdk1vVERQTm9LNzdsaWhycGd2VmNBV0w1SUswTXE3ZXJlMHlkX2Y5MjFGc2lzNml3a1F5N2ZPSVhZNnNSeXNsZG9WWURvOXhjUjBDemgwS3VRSnY5TElqSEZzYTVmVnh6RnpFUGNJSmpQY3JPZHNIZmVCVXdWSm40VGNSbXFjMHhVU1ZpUkJqbjkxLUpzSDM4VmJ0OTVnazVkRVJlbU1tdElkNm56cnc"
     }
    ],
    "category": "其他",
@@ -3707,6 +3751,23 @@
    "sentiment": 0
   },
   {
+   "id": "b2dc90ec0713",
+   "title": "业绩承压下豪购2万张英伟达GPU！天阳科技股价涨超12% - 第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUExHSEFTQ2hYdGR0cFF0UFQ1TEtsTVprYnBrRkZLazdPbjh3a2V5WTJmQWZqekx2MkRiUW16N3FNUjlKMW8tM1VvRFlfYkItbTI0",
+   "source": "第一财经",
+   "published_at": "2026-10-09T14:21:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "第一财经",
+     "published_at": "2026-10-09T14:21:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUExHSEFTQ2hYdGR0cFF0UFQ1TEtsTVprYnBrRkZLazdPbjh3a2V5WTJmQWZqekx2MkRiUW16N3FNUjlKMW8tM1VvRFlfYkItbTI0"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "968e069f2d8d",
    "title": "Nvidia stock price target maintained at $300 by UBS on Taiwan data - Investing.com",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2U4cWxfOERxUzlxTms5RTFGamJIeEZzRFJENks5dWZVZkhFWTN2V05PeVNQTTdYeGhKTTBIZ3J3ZndNOGxsNEJ4QlgyODh2UjQ4aTZtaktBRVVOWjd4LWgyaXhhQm5VTjZOakxaSE1Qc0EwNE4zcGxMMTY3Q2xFZElUNl82S3VmLXNUUUJXbEhWSk9ra3hCSEhTVGxobFZOdjM4OUY1eTlSU3VPUTJCU2ttbjFxa1RTU0RlbXBpTDRDdG8",
@@ -6610,76 +6671,6 @@
    "session": "盘后",
    "zh_summary": "英伟达投资的Firmus撤回澳洲IPO",
    "title_zh": "英伟达投资的Firmus撤回澳洲大型IPO计划 AI估值疑虑升温 - 联合早报",
-   "sentiment": -1
-  },
-  {
-   "id": "56551efe643c",
-   "title": "A股公司购买2万张英伟达GPU，最新回应 - 凤凰网财经",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1SjJ3Zi1GbS1kMjM3dWluSEtBRzVBWmw3NFRBWUNMb210NEE5OFBMTEhjVWFMbmFSS3kxSFY4a0dNWWlYeTF0YVRiX2MybHI0",
-   "source": "凤凰网财经",
-   "published_at": "2026-10-09T03:07:43+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "凤凰网财经",
-     "published_at": "2026-10-09T03:07:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1SjJ3Zi1GbS1kMjM3dWluSEtBRzVBWmw3NFRBWUNMb210NEE5OFBMTEhjVWFMbmFSS3kxSFY4a0dNWWlYeTF0YVRiX2MybHI0"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-09T03:07:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1SjJ3Zi1GbS1kMjM3dWluSEtBRzVBWmw3NFRBWUNMb210NEE5OFBMTEhjVWFMbmFSS3kxSFY4a0dNWWlYeTF0YVRiX2MybHI0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "A股公司购买2万张英伟达GPU",
-   "title_zh": "A股公司购买2万张英伟达GPU，最新回应 - 凤凰网财经",
-   "sentiment": 1
-  },
-  {
-   "id": "69ceabc7d07d",
-   "title": "Nvidia Stock Faces Critical Warning Sign. Is the AI Trade Breaking? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNE9vRG1WR1hhNk04UHVKZDlWeWl6Z2E1elNMOC0yUkd5eGl1UHNqbU9XRlRNZGM1QUpoMzY4eGs0clc0MnlHZzI3ZlE3X3lfMC1nZ3AxSHFmTUlqQ1NaeW5KVk5nNHJmOEFXdGNQQ3dlLWJ2Vmx0VHo2SXFuenk5eVlQOWVOZkFDV3FFVW5PQnl4RFNscWhnSzVMcFZCajE1dWc",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-09T03:04:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-09T03:04:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNE9vRG1WR1hhNk04UHVKZDlWeWl6Z2E1elNMOC0yUkd5eGl1UHNqbU9XRlRNZGM1QUpoMzY4eGs0clc0MnlHZzI3ZlE3X3lfMC1nZ3AxSHFmTUlqQ1NaeW5KVk5nNHJmOEFXdGNQQ3dlLWJ2Vmx0VHo2SXFuenk5eVlQOWVOZkFDV3FFVW5PQnl4RFNscWhnSzVMcFZCajE1dWc"
-    },
-    {
-     "name": "BeInCrypto",
-     "published_at": "2026-10-09T03:04:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51VWx6Z0doY3FuSEhXRmtNQmVLTFQtVmd4R1ROeWFXeGlKVlVxLU1oNXdXVHJDWkFVMFRPbzE4b3hzY3dUdlB5Q25VRlhRNDJhcGszLUI1cmlsSEZ2eFRVZ3k0bUJhcnFzWkE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达股价出现关键警示信号",
-   "title_zh": "英伟达股价现关键警示信号，AI交易动摇？",
-   "sentiment": -1
-  },
-  {
-   "id": "7b0e1fb334fa",
-   "title": "Firmus Shelves $5B IPO on Poor Demand and Market Volatility - NVIDIA (NASDAQ:NVDA) - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWhZN1ltVFk1Q282UDRBZTdHMXdraWhNeHF6MjRkN0wtZ096emItX0JNa3VseC1VbUk5V1VEcTNEZkZQaFYwUTVNQ0FxZUNDd3hfb05HeTFYeWV1eWVTVy1lRk1ZeFdJbEh4RFA1NHhMYVlXcEV2US0zdFhVTWc0LVptRl93MVd0by1ibW0xOWMtX3FwU05sUUtuYnRrV2FvRDI4cFNsRDdUd2c2LXh6TjY4WFo0TUpYdHFvU0Fwb2tEcnpYS2Rrc2FSa0c",
-   "source": "Benzinga",
-   "published_at": "2026-10-09T02:58:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-09T02:58:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWhZN1ltVFk1Q282UDRBZTdHMXdraWhNeHF6MjRkN0wtZ096emItX0JNa3VseC1VbUk5V1VEcTNEZkZQaFYwUTVNQ0FxZUNDd3hfb05HeTFYeWV1eWVTVy1lRk1ZeFdJbEh4RFA1NHhMYVlXcEV2US0zdFhVTWc0LVptRl93MVd0by1ibW0xOWMtX3FwU05sUUtuYnRrV2FvRDI4cFNsRDdUd2c2LXh6TjY4WFo0TUpYdHFvU0Fwb2tEcnpYS2Rrc2FSa0c"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘后",
-   "zh_summary": "Firmus因需求不佳搁置50亿美元IPO",
-   "title_zh": "Firmus因需求不佳和市场波动搁置50亿美元IPO",
    "sentiment": -1
   }
  ]
