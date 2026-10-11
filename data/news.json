@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T21:51:36.648825+00:00",
+ "updated_at": "2026-10-11T22:06:34.176650+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,12 +10,12 @@
    "days_left": 37
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 62
+   "avg": 0.48,
+   "count": 64
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（62条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.48（64条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-11T21:51:36.635659+00:00"
+   "as_of": "2026-10-11T22:06:34.153894+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "f3ab4d305594",
+   "title": "Nvidia rumoured to replace RTX 5080 with new 24GB model - KitGuru",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbVIzQW9oMVNKS3prYzRNQXV4aVYzNUtuaG85YWpuXy1YcEFvcGl0TWotQjBtME8xZGlGSGFwajdyWVcwel80c3drVWlLeU1ldEhYcWtmaG1rLUkzMUowd0hwNUxuT1BCRlFSS2ptaVM4TElBU3dOMUxYNEdIXzJRZi1mZHdCSlRRdWEtN3lESk5EYWJZZkNVRnNCNDVWbTVab3phMlNycndFbzZ4a2N6Z0JSQ3I2VlY4LVljX29feVB0eEFCWF91NW4yenlKVDY3MTJFeHFTT18",
+   "source": "KitGuru",
+   "published_at": "2026-10-11T22:04:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "KitGuru",
+     "published_at": "2026-10-11T22:04:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbVIzQW9oMVNKS3prYzRNQXV4aVYzNUtuaG85YWpuXy1YcEFvcGl0TWotQjBtME8xZGlGSGFwajdyWVcwel80c3drVWlLeU1ldEhYcWtmaG1rLUkzMUowd0hwNUxuT1BCRlFSS2ptaVM4TElBU3dOMUxYNEdIXzJRZi1mZHdCSlRRdWEtN3lESk5EYWJZZkNVRnNCNDVWbTVab3phMlNycndFbzZ4a2N6Z0JSQ3I2VlY4LVljX29feVB0eEFCWF91NW4yenlKVDY3MTJFeHFTT18"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "5625b917d91e",
    "title": "Nvidia's mod runtime gives Blackwell Ultra by default. RTX Spark gets Medium. - MIXED Reality News",
@@ -270,6 +287,23 @@
    "zh_summary": "英伟达280美元公允价值值得买吗",
    "title_zh": "Simply Wall Street：英伟达AI叙事指向280美元公允价值",
    "sentiment": 1
+  },
+  {
+   "id": "6ac4aac3143c",
+   "title": "RTX 5090’s Exit Echoes Nvidia’s 8-Year Chip Playbook [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yWTF5SEMtSkhDSzRuTWlLVy1qY0RDaUZ5Qi03R3FCNzNsUjFvMkdCRGtOd0hoVzFPNDlqenNHbEJlYzJuQzF4MkZtSjRxc1FHR3RHUDdFc3ZrUks2c3ZFbUxVOW9LdGgwc2JybEVUU2NBSnM",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-11T15:48:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-11T15:48:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yWTF5SEMtSkhDSzRuTWlLVy1qY0RDaUZ5Qi03R3FCNzNsUjFvMkdCRGtOd0hoVzFPNDlqenNHbEJlYzJuQzF4MkZtSjRxc1FHR3RHUDdFc3ZrUks2c3ZFbUxVOW9LdGgwc2JybEVUU2NBSnM"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
   },
   {
    "id": "a7836ad476ed",
@@ -6640,46 +6674,6 @@
    "zh_summary": "OpenAI担忧拖累AI股，英伟达Call押注反弹",
    "title_zh": "期权扫描 | OpenAI营收缩水带崩AI股！英伟达、英特尔、甲骨文热门Call单押注短线反弹；Palantir期权环比放量逾200% - 华盛通",
    "sentiment": -1
-  },
-  {
-   "id": "51c1e6efb295",
-   "title": "社区开源驱动突破：英伟达RTX 50系显卡首次原生支持macOS 15 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2ZTazZIQ3VZcHU4SXN0V0xpcFVybEpWOFZSTGJFOHdHZ05aX0x6NHZSaHNyakx1ejNxTTktVTdFM3FpZ1pwdjFWc2JiLWQ1OFN4cmdXMDJRSUlUYy1QTmJsT3p3NW5tT0JBSzBlc0luX3liWENYeWFXUEgzc01odmpUaEQ2a0Vf",
-   "source": "搜狐网",
-   "published_at": "2026-10-09T09:03:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-09T09:03:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2ZTazZIQ3VZcHU4SXN0V0xpcFVybEpWOFZSTGJFOHdHZ05aX0x6NHZSaHNyakx1ejNxTTktVTdFM3FpZ1pwdjFWc2JiLWQ1OFN4cmdXMDJRSUlUYy1QTmJsT3p3NW5tT0JBSzBlc0luX3liWENYeWFXUEgzc01odmpUaEQ2a0Vf"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "开源驱动使RTX 50系原生支持macOS 15",
-   "title_zh": "社区开源驱动突破：英伟达RTX 50系显卡首次原生支持macOS 15 - 搜狐网",
-   "sentiment": 1
-  },
-  {
-   "id": "aabbe9d64845",
-   "title": "Wall Street is inventing an entirely new financial system around Nvidia's AI chips - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEpqbXIyV2NmNG9fQUpudG13WWZUbUJMdlQxRU51Qy12cTVEUlNYZlp4d3J5dkUweDhhUURFUDVPYlFWLU9pNlJfd0FkOEFkb2JWQ1FOcUJTYWJZeDJFQzJEdHpxVkk0bkNRVDJYdUI4YXRSVlFfNjZyUUxUQm9zRU9uY3dNa2ZkcDBfWHhNQlIxRkZ1Y2JF",
-   "source": "Business Insider",
-   "published_at": "2026-10-09T09:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Business Insider",
-     "published_at": "2026-10-09T09:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEpqbXIyV2NmNG9fQUpudG13WWZUbUJMdlQxRU51Qy12cTVEUlNYZlp4d3J5dkUweDhhUURFUDVPYlFWLU9pNlJfd0FkOEFkb2JWQ1FOcUJTYWJZeDJFQzJEdHpxVkk0bkNRVDJYdUI4YXRSVlFfNjZyUUxUQm9zRU9uY3dNa2ZkcDBfWHhNQlIxRkZ1Y2JF"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "华尔街围绕英伟达芯片构建新金融体系",
-   "title_zh": "华尔街正围绕英伟达AI芯片构建全新金融体系",
-   "sentiment": 1
   }
  ]
 }
