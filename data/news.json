@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T03:06:29.626658+00:00",
+ "updated_at": "2026-10-11T03:21:38.801248+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.46,
-   "count": 87
+   "count": 89
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.46（87条已评分）"
+     "note": "今日新闻情绪 +0.46（89条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-11T03:06:29.612934+00:00"
+   "as_of": "2026-10-11T03:21:38.783684+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -190,6 +190,23 @@
    "zh_summary": "亚马逊拟让投资者融资80亿美元购买英伟达芯片",
    "title_zh": "亚马逊希望投资者融资80亿美元购买英伟达芯片，AI支出是否过重？",
    "sentiment": 0
+  },
+  {
+   "id": "820f685657e5",
+   "title": "GTC DC - NVIDIA - NVIDIA",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhUzNBanQ2TGNXNFpWTUE1eE9kb0RjOEE4OFUxZVZVS3hNVFVhQTZzZGFEV3ZKMUtSNDhpVjZJQVRuaTYycTZPS3dBamFDa0J2dFVhVHlXMFFLRTNOeHRV",
+   "source": "NVIDIA",
+   "published_at": "2026-10-10T21:37:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA",
+     "published_at": "2026-10-10T21:37:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhUzNBanQ2TGNXNFpWTUE1eE9kb0RjOEE4OFUxZVZVS3hNVFVhQTZzZGFEV3ZKMUtSNDhpVjZJQVRuaTYycTZPS3dBamFDa0J2dFVhVHlXMFFLRTNOeHRV"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "f10bca178624",
@@ -2308,12 +2325,17 @@
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00eW80bG9ESmZBa2tPYnRwWkM2UXB1VWR1WlBtWkJrVl9DV0FmbktXOUpYeTJQdG5TVkd0TkdpNERUUFhtWGNqcDcxR3FXeVFWMjVHT2Z3",
    "source": "投资界",
    "published_at": "2026-10-10T00:02:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "投资界",
      "published_at": "2026-10-10T00:02:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00eW80bG9ESmZBa2tPYnRwWkM2UXB1VWR1WlBtWkJrVl9DV0FmbktXOUpYeTJQdG5TVkd0TkdpNERUUFhtWGNqcDcxR3FXeVFWMjVHT2Z3"
+    },
+    {
+     "name": "文学城",
+     "published_at": "2026-10-11T02:48:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1WGhCQ0NmZE42alhJSWhKODBHVlpRUnBUUGZwWVV5TUNLRUU2cEx3OUN0eG5lZkpBbmstUVZSZzdORTFORUZMVFdEcE55MkY3OUV3Wk9vQU84UlIxTDFKMGdkTVBCY3ZF"
     }
    ],
    "category": "AI需求",
@@ -6713,26 +6735,6 @@
     "pct": -0.27,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "67ebe94e93e2",
-   "title": "英伟达推出机器人控制模型 Long-WAM - DoNews",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lZTFYeUVBcVRNbnNXN3dUQm1nakpmV1hKSEFWY2pfa0Z3a056cnBYS1Z0UkxMSEpDSGZsYWVsMGhXOG5mRDlUbG0xT09WN3NtMFVKMGI5a19iMnBRVGc",
-   "source": "DoNews",
-   "published_at": "2026-10-09T01:29:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "DoNews",
-     "published_at": "2026-10-09T01:29:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lZTFYeUVBcVRNbnNXN3dUQm1nakpmV1hKSEFWY2pfa0Z3a056cnBYS1Z0UkxMSEpDSGZsYWVsMGhXOG5mRDlUbG0xT09WN3NtMFVKMGI5a19iMnBRVGc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达推出机器人控制模型Long-WAM",
-   "title_zh": "英伟达推出机器人控制模型 Long-WAM - DoNews",
-   "sentiment": 1
   }
  ]
 }
