@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T21:36:34.665527+00:00",
+ "updated_at": "2026-10-11T21:51:36.648825+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,12 +10,12 @@
    "days_left": 37
   },
   "day_sentiment": {
-   "avg": 0.49,
-   "count": 61
+   "avg": 0.5,
+   "count": 62
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.49（61条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（62条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-11T21:36:34.648696+00:00"
+   "as_of": "2026-10-11T21:51:36.635659+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "5625b917d91e",
+   "title": "Nvidia's mod runtime gives Blackwell Ultra by default. RTX Spark gets Medium. - MIXED Reality News",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb050THF0eGlORXZIdk5FS0xHOXZLZkV3ZWxrZ2JwSy1yUXVXa0NlZlVQeFA1bWV5VEQ0SXIwWkdHZmZnMld4alVHZklLbEM1eVAyeDA5WlBnUG45QnJPS1ZGYzB1R3hXZzlodEt3aDMtMkxhaGxPVGllcFkyeVpyZzk4d0VEbzZqTFdqOGVPcw",
+   "source": "MIXED Reality News",
+   "published_at": "2026-10-11T21:43:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MIXED Reality News",
+     "published_at": "2026-10-11T21:43:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb050THF0eGlORXZIdk5FS0xHOXZLZkV3ZWxrZ2JwSy1yUXVXa0NlZlVQeFA1bWV5VEQ0SXIwWkdHZmZnMld4alVHZklLbEM1eVAyeDA5WlBnUG45QnJPS1ZGYzB1R3hXZzlodEt3aDMtMkxhaGxPVGllcFkyeVpyZzk4d0VEbzZqTFdqOGVPcw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
+  {
+   "id": "102e7d5d5eff",
+   "title": "Anna Soellner Exits Nvidia After Brief Stint as Corporate Comms Head - PRovoke Media",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2hMdlpOWG9vb3JtWWtqU3VWRjhrc2tNakJNUlhrSUJqbjJkWHJBMnV4YmpIX3l2d3J1OEpReXlEXzBxQ3R5bVNxdGdqd01WRno5d29iTkFBXzlZc3pnZ2tBczRUbDh2THpLN2hxUEtxWmNKNGVHTFVWV2pkS3FUYm9vRVRsQ0p2bTRnVi1rbGFxYzlWTnJ2ampzaVF2VVE4cklFaTdHQkQwem1KX0dVcDRn",
+   "source": "PRovoke Media",
+   "published_at": "2026-10-11T21:41:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PRovoke Media",
+     "published_at": "2026-10-11T21:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2hMdlpOWG9vb3JtWWtqU3VWRjhrc2tNakJNUlhrSUJqbjJkWHJBMnV4YmpIX3l2d3J1OEpReXlEXzBxQ3R5bVNxdGdqd01WRno5d29iTkFBXzlZc3pnZ2tBczRUbDh2THpLN2hxUEtxWmNKNGVHTFVWV2pkS3FUYm9vRVRsQ0p2bTRnVi1rbGFxYzlWTnJ2ampzaVF2VVE4cklFaTdHQkQwem1KX0dVcDRn"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "e34659982f1a",
    "title": "MSI reveals new 16-inch, 128GB beast powered by Nvidia RTX Spark - TechRadar",
@@ -6639,46 +6673,6 @@
    "session": "盘前",
    "zh_summary": "华尔街围绕英伟达芯片构建新金融体系",
    "title_zh": "华尔街正围绕英伟达AI芯片构建全新金融体系",
-   "sentiment": 1
-  },
-  {
-   "id": "c439eca49709",
-   "title": "I didn’t believe an Nvidia RTX Spark laptop would have the same performance both on and off the charger — so I put it to the test - Tom's Guide",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRzFkM1FoWVA5cWJPVlhhcGdIcHJMUkxtS3FRaEZ4ZXZPUWRtdTZ4U1Jhb0VnRnJrZFp2MUhfS0c0TDNyakN4YUpYZ2QxY1NOZFhFZ0ZMc1FUeXdEWS05cm95dDVpdEZBVGM5aU1oZVFYSWlVLWxQUVVaa0VvOWZjRndaMnBIZTJyZV9MQ2VSN3NiMkpVOEJRWWcxN29RNTdhc1RuajJNT21YZ2x5Ry12UHoxb3AtaG1IRk1wdXdtXzhGU2R2ZDhZdjZWck54LTg0V1pEQXhnWkM4SjlCbXZMN3ptMERONzVKUG5meWFtc3J1eld1LTh2YmJqRQ",
-   "source": "Tom's Guide",
-   "published_at": "2026-10-09T09:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tom's Guide",
-     "published_at": "2026-10-09T09:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRzFkM1FoWVA5cWJPVlhhcGdIcHJMUkxtS3FRaEZ4ZXZPUWRtdTZ4U1Jhb0VnRnJrZFp2MUhfS0c0TDNyakN4YUpYZ2QxY1NOZFhFZ0ZMc1FUeXdEWS05cm95dDVpdEZBVGM5aU1oZVFYSWlVLWxQUVVaa0VvOWZjRndaMnBIZTJyZV9MQ2VSN3NiMkpVOEJRWWcxN29RNTdhc1RuajJNT21YZ2x5Ry12UHoxb3AtaG1IRk1wdXdtXzhGU2R2ZDhZdjZWck54LTg0V1pEQXhnWkM4SjlCbXZMN3ptMERONzVKUG5meWFtc3J1eld1LTh2YmJqRQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "测试RTX Spark笔记本插电与电池性能",
-   "title_zh": "实测：英伟达RTX Spark笔记本插电与否性能一致",
-   "sentiment": 1
-  },
-  {
-   "id": "8fad4dfcf088",
-   "title": "NVIDIA Qualifies Shell DLC Fluid for AI Liquid Cooling - Data Centre Magazine",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQU15cHJ2d056eEpyWVNDRzJZaWlUbl9NVXE1TXdqdngzbFF1bmk5NkxWLUR0MmNoa2tkY2ozUUk3TWt6WHpGR1NjcEt0UGNKamNsVHVPS2lJWll6QzJYZDJoZkVjX1prRVFNeDJvN3hxbEdfWHpHVFJsZlV6S0lGNzdTdm1lQk5EWERDMTFaUHNXOTlm",
-   "source": "Data Centre Magazine",
-   "published_at": "2026-10-09T08:59:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Data Centre Magazine",
-     "published_at": "2026-10-09T08:59:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQU15cHJ2d056eEpyWVNDRzJZaWlUbl9NVXE1TXdqdngzbFF1bmk5NkxWLUR0MmNoa2tkY2ozUUk3TWt6WHpGR1NjcEt0UGNKamNsVHVPS2lJWll6QzJYZDJoZkVjX1prRVFNeDJvN3hxbEdfWHpHVFJsZlV6S0lGNzdTdm1lQk5EWERDMTFaUHNXOTlm"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达认证壳牌DLC液冷液用于AI",
-   "title_zh": "英伟达认证壳牌DLC冷却液用于AI液冷",
    "sentiment": 1
   }
  ]
