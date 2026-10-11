@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T11:06:40.252032+00:00",
+ "updated_at": "2026-10-11T11:21:37.682956+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,12 +10,12 @@
    "days_left": 37
   },
   "day_sentiment": {
-   "avg": 0.45,
-   "count": 22
+   "avg": 0.5,
+   "count": 24
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.45（22条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（24条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-11T11:06:40.236603+00:00"
+   "as_of": "2026-10-11T11:21:37.663861+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -62,17 +62,39 @@
  },
  "stories": [
   {
+   "id": "f7326cb3e4b5",
+   "title": "Nvidia may be planning for more stake or acquisition deal for $25 billion in open-source AI startup - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQMWtWV0tqVjZhTmQ5V2R1OV9zN2ppRC1XUl8xUkhPb0otNzVoOXVCcUljWmlCaG1KNW4wbTV5d0RIcmVMRVRFdEZNVmtweU9kaE9MWWVYRW4xOF8xZDdfb0RSNTdKcXFTclRXT0VkaG1WNkpPWFZPeVVPT0J4akwzQ2JxalpHdGRvMVY5LWdkNWY5aEc5TjF5cHNiVnFmeXA3SmpmdXh1blo1MC1OX2FQZnFvYmowU2dxZFBhQzZvQndqcjVkR0lBRDUyNmhOX2xsUlRtSlhmNDkwWEtjeW14Ulo5cWVzWHlKcmdQVXhCQTdyZW5DbklmajZHOUVacndQbXpVdWg4SF92SEczNVHSAZMCQVVfeXFMTThwU1pXRlNGVER5XzdzUXdNOEpqUHd6NkVjWS15U0J6bkNVRmFvVl9JeUhHSW1ucHhXa3p3RzlFOXA1OFBNVVF0N3gzdHRJYnVTeDhUaGU1Z1VzZXpMancxUXpETUl5ZW1KMHZ1czczTkwxRWJBQWw0Skc4ei1ZRjNIdVg3eDl2Y0pCSnUwT19zb3dDSjRQZWFRTjk4Q29URDRYeDdJMV9sLTZmWWlwZWc3N1dYRG5qVHJsbkFIbTN1VGdpb1ZHTUE2TmlxN014QXE0YUxGQURjQTg0dHRsbXJidWlxblRpb1YtWGllVmhWeGpIQ09VUW9yejdxNVBTalphbXNLbUkyVEJkSG00SV9mdlk",
+   "source": "The Times of India",
+   "published_at": "2026-10-11T11:03:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Times of India",
+     "published_at": "2026-10-11T11:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQMWtWV0tqVjZhTmQ5V2R1OV9zN2ppRC1XUl8xUkhPb0otNzVoOXVCcUljWmlCaG1KNW4wbTV5d0RIcmVMRVRFdEZNVmtweU9kaE9MWWVYRW4xOF8xZDdfb0RSNTdKcXFTclRXT0VkaG1WNkpPWFZPeVVPT0J4akwzQ2JxalpHdGRvMVY5LWdkNWY5aEc5TjF5cHNiVnFmeXA3SmpmdXh1blo1MC1OX2FQZnFvYmowU2dxZFBhQzZvQndqcjVkR0lBRDUyNmhOX2xsUlRtSlhmNDkwWEtjeW14Ulo5cWVzWHlKcmdQVXhCQTdyZW5DbklmajZHOUVacndQbXpVdWg4SF92SEczNVHSAZMCQVVfeXFMTThwU1pXRlNGVER5XzdzUXdNOEpqUHd6NkVjWS15U0J6bkNVRmFvVl9JeUhHSW1ucHhXa3p3RzlFOXA1OFBNVVF0N3gzdHRJYnVTeDhUaGU1Z1VzZXpMancxUXpETUl5ZW1KMHZ1czczTkwxRWJBQWw0Skc4ei1ZRjNIdVg3eDl2Y0pCSnUwT19zb3dDSjRQZWFRTjk4Q29URDRYeDdJMV9sLTZmWWlwZWc3N1dYRG5qVHJsbkFIbTN1VGdpb1ZHTUE2TmlxN014QXE0YUxGQURjQTg0dHRsbXJidWlxblRpb1YtWGllVmhWeGpIQ09VUW9yejdxNVBTalphbXNLbUkyVEJkSG00SV9mdlk"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "48fd3094f747",
    "title": "英伟达表外承诺飙升至5300亿美元！SemiAnalysis：未来可能突破1万亿美元 - 华尔街见闻",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52bk9CNFNfSWRHUEg1dDVISGVobGhvbEFkMnZ3cENWM1ppT01FdXAwbjZWMXhDN0hGNjFURkdHZVd2WWtRMHd1cEJOWGRwaTlHWUdF",
    "source": "华尔街见闻",
    "published_at": "2026-10-11T10:56:33+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "华尔街见闻",
      "published_at": "2026-10-11T10:56:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52bk9CNFNfSWRHUEg1dDVISGVobGhvbEFkMnZ3cENWM1ppT01FdXAwbjZWMXhDN0hGNjFURkdHZVd2WWtRMHd1cEJOWGRwaTlHWUdF"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-11T10:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QLTJCMDJ1ZVhhM3B4bE9BU2NTVTY1Q2hGVERSTTEwZnZURmlYVUhCdkpVbmQwY1VzT05NVUljYkh3bkl2ZzhqaDdfSzJtdEVTTnRjRWp0RmtVc2lYNlFienRGYThTTlh0dzdRY05wU1ppTlRCZEcxYmRtVGg"
     }
    ],
    "category": "其他",
@@ -380,6 +402,23 @@
    "zh_summary": "50余家龙头企业将集中亮相展会",
    "title_zh": "多个展会和论坛将举办，英伟达、华为、百度、宇树科技等50余家国内外行业龙头集中亮相 - 搜狐",
    "sentiment": 0
+  },
+  {
+   "id": "09734730c721",
+   "title": "$英伟达 (NVDA.US)$ [偷笑][偷笑] - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UalFZSnZtSk80SldZVXVJR0hTcjc1SGJyY2ZGV3FTMGVVSHFzRjRDMVI3VUFmeWpSYy1VODAwck9KRmpJQkUweTlaU0tjNnpCYmRIR0NLdUhzWkpVSEhmUXZacDY3SW82VEZlZWFxOGFWTkFfUGcxR1RzWTQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-11T08:40:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-11T08:40:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UalFZSnZtSk80SldZVXVJR0hTcjc1SGJyY2ZGV3FTMGVVSHFzRjRDMVI3VUFmeWpSYy1VODAwck9KRmpJQkUweTlaU0tjNnpCYmRIR0NLdUhzWkpVSEhmUXZacDY3SW82VEZlZWFxOGFWTkFfUGcxR1RzWTQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "4237fe7862c7",
@@ -787,12 +826,17 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11RzZJc3gzelhLTkxhZHlqeUtqdWtESXN4T2xMOHpJZjlKYVZEMEZneGU3bUIxWFBCRjBYQnFtbXhfSThHRk4xZURlSVVXX0x3dVJXUEU5RGViVU1FdHo2VEtFeGhJUWljTkZkWm1BQ2dKRFdmSWc",
    "source": "新浪财经",
    "published_at": "2026-10-11T00:20:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-11T00:20:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11RzZJc3gzelhLTkxhZHlqeUtqdWtESXN4T2xMOHpJZjlKYVZEMEZneGU3bUIxWFBCRjBYQnFtbXhfSThHRk4xZURlSVVXX0x3dVJXUEU5RGViVU1FdHo2VEtFeGhJUWljTkZkWm1BQ2dKRFdmSWc"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-11T00:24:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTVVWdDNjMmtKY1AtX0tkM2VOQ0FLbldxWS1SZDAzRVBXR1BHc1Y2aGRLM1AxbWZITFo1OUJBQVRrYkZwWHgzR0VPRVd3NkNNdDFtVU02amhxY2c3bEF4SlFHcTA0SVRTWEgzckpSdXhxMl95anZEbFJpRHBkaHdSeXRZQ3pHQnowNEVlVw"
     }
    ],
    "category": "AI需求",
@@ -6627,46 +6671,6 @@
    "session": "盘前",
    "zh_summary": "英伟达影子股业绩增长141%",
    "title_zh": "英伟达唯一影子股，业绩暴增141%，美国高盛、北向资金重仓锁死，到时",
-   "sentiment": 1
-  },
-  {
-   "id": "6e84e9a2da31",
-   "title": "英伟达不再挤牙膏！Nova驱动定下终极目标：RTX 20到50系全支持 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mMF9zX1gtMV8ya0NCdUZTQjVxcVVKeFVYbmZSeG5Jb0l2QkRoLUhpLXBvazVJWm54WERkc29KVnhOMFR2dElvQXcydk1xNDFna29GOXN2U28",
-   "source": "驱动之家",
-   "published_at": "2026-10-09T06:07:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-09T06:07:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mMF9zX1gtMV8ya0NCdUZTQjVxcVVKeFVYbmZSeG5Jb0l2QkRoLUhpLXBvazVJWm54WERkc29KVnhOMFR2dElvQXcydk1xNDFna29GOXN2U28"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达Nova驱动将支持RTX20至50系",
-   "title_zh": "英伟达不再挤牙膏！Nova驱动定下终极目标：RTX 20到50系全支持 - 驱动之家",
-   "sentiment": 1
-  },
-  {
-   "id": "edbf58d8de6e",
-   "title": "特朗普颁国家科学奖章予黄仁勋，赞英伟达奠基超级智能 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMWNkMVQ0QUdKMDh0eWhoNVV6V2lHd0p1S1JhdnUyeEhKSjMwb2dtNDVNcWFkdGNzT0lYb3dpdk5maXA2RGRyUkdSa1h0YkJWc2I2Vktwd21YNUdoeEcxVEllWFhVQmVVTlZEbVhuSXd2VnNDWGtxVmQxNTM1RUM4Vw",
-   "source": "新浪网",
-   "published_at": "2026-10-09T06:02:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-09T06:02:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMWNkMVQ0QUdKMDh0eWhoNVV6V2lHd0p1S1JhdnUyeEhKSjMwb2dtNDVNcWFkdGNzT0lYb3dpdk5maXA2RGRyUkdSa1h0YkJWc2I2Vktwd21YNUdoeEcxVEllWFhVQmVVTlZEbVhuSXd2VnNDWGtxVmQxNTM1RUM4Vw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特朗普向黄仁勋颁国家科学奖章",
-   "title_zh": "特朗普颁国家科学奖章予黄仁勋，赞英伟达奠基超级智能 - 新浪网",
    "sentiment": 1
   }
  ]
