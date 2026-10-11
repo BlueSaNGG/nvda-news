@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T16:06:33.524431+00:00",
+ "updated_at": "2026-10-11T16:21:29.047849+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,12 +10,12 @@
    "days_left": 37
   },
   "day_sentiment": {
-   "avg": 0.49,
-   "count": 47
+   "avg": 0.5,
+   "count": 48
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.49（47条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（48条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-11T16:06:33.514896+00:00"
+   "as_of": "2026-10-11T16:21:29.032089+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "4f4e51ac3814",
+   "title": "Is NVIDIA (NVDA) Cheap As Its AI Narrative Points To $280 Fair Value? - Simply Wall Street",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYTZDaE1QdllESjVKUHBVVWVxR3dxLUVyYmtMeUxMNk13WXNUc0tCbUhkb180QUZ6Z3BQWktZNklMN2lmMEtZb01meGpBYmlydURMUi1jYy1ZNlZqQk9nNnBEMzdSZ2hOVTdPeWlDR0szQ3QtR1ZWazhndl9PelFKYzBydm5QVi00eWJNRlFoMlNINExrWDhubEw2X0hKWHVTVlk0RG9aZ01zSFdQS0F2QnJhUjR4UnJLc3dINmxLbEI3cTFqR3ZkZElB0gHPAUFVX3lxTE14RjYxbzJxQkxjRVpwdTdlM0dVMkdkeFhCdExFbHRsbnNfcElKZ3JUeGVVZm1JQVdpWDdkbHJIWkNzN2phSUFYZ1BtVVpLYU9QSzNOS1FTQXBuM2hmeGNsZElrOV9hWkowaFZma0pCWDAtNlo3eTN2X0ZYNUVnNGY3TGk3LTJkVGJyUFVkLWhybDBnNFhZemdwTDVMNW5PS28yOVFOLTVFVkxENFVRZ25oOU80MkxURkU1TXB2MkFyU0REN2tReFRWajhBZmZCOA",
+   "source": "Simply Wall Street",
+   "published_at": "2026-10-11T16:10:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Simply Wall Street",
+     "published_at": "2026-10-11T16:10:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYTZDaE1QdllESjVKUHBVVWVxR3dxLUVyYmtMeUxMNk13WXNUc0tCbUhkb180QUZ6Z3BQWktZNklMN2lmMEtZb01meGpBYmlydURMUi1jYy1ZNlZqQk9nNnBEMzdSZ2hOVTdPeWlDR0szQ3QtR1ZWazhndl9PelFKYzBydm5QVi00eWJNRlFoMlNINExrWDhubEw2X0hKWHVTVlk0RG9aZ01zSFdQS0F2QnJhUjR4UnJLc3dINmxLbEI3cTFqR3ZkZElB0gHPAUFVX3lxTE14RjYxbzJxQkxjRVpwdTdlM0dVMkdkeFhCdExFbHRsbnNfcElKZ3JUeGVVZm1JQVdpWDdkbHJIWkNzN2phSUFYZ1BtVVpLYU9QSzNOS1FTQXBuM2hmeGNsZElrOV9hWkowaFZma0pCWDAtNlo3eTN2X0ZYNUVnNGY3TGk3LTJkVGJyUFVkLWhybDBnNFhZemdwTDVMNW5PS28yOVFOLTVFVkxENFVRZ25oOU80MkxURkU1TXB2MkFyU0REN2tReFRWajhBZmZCOA"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "d6ee39eba047",
    "title": "Dow Jones futures: S&P 500, Nasdaq near highs; ASML, Nvidia's chipmaker Taiwan Semi to kick off AI earnings - MSN",
@@ -3738,26 +3755,6 @@
    "sentiment": -1
   },
   {
-   "id": "64f3b2b7679c",
-   "title": "英伟达牵手微软携手，以 RTX Spark 和 AI 智能体开启 Windows PC 新序章 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUlXd3h6eGU4Z2kyTldlU3FtWTdqLTA4dTlMLUI2LXVuNWR2TU5GZm1MSFR1ckN2aXJXY3BZRGpwTlBOX1FINTQ1NU1qV1plQzhCd2RWRy1TdTFlTHV4eFBKTzFvVEI4aF91QWQ0a2VtbzZyWnA1SVBnWnpGYlBmMTRsRVFpUUh3cVZ5NE40c1pVR24yTHJCa1JPRi1RNHBPb0dNOWF2dU9LOVpxMUdoZEZ3",
-   "source": "新浪财经",
-   "published_at": "2026-10-09T23:54:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-09T23:54:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUlXd3h6eGU4Z2kyTldlU3FtWTdqLTA4dTlMLUI2LXVuNWR2TU5GZm1MSFR1ckN2aXJXY3BZRGpwTlBOX1FINTQ1NU1qV1plQzhCd2RWRy1TdTFlTHV4eFBKTzFvVEI4aF91QWQ0a2VtbzZyWnA1SVBnWnpGYlBmMTRsRVFpUUh3cVZ5NE40c1pVR24yTHJCa1JPRi1RNHBPb0dNOWF2dU9LOVpxMUdoZEZ3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达联手微软发布RTX Spark及AI智能体",
-   "title_zh": "英伟达牵手微软，以RTX Spark和AI智能体开启PC新序章",
-   "sentiment": 1
-  },
-  {
    "id": "3ee070095516",
    "title": "What Is Physical AI? Nvidia Is the Stock I'd Buy to Own It. - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWU1BR0kzclBiMlBNbWZ1bXFLT28yN2lJcW5UOGhBSlNTSnZDUE5YRVRrcWd6TXhSOXM0bldmUVhleS1ZYklSVXdodEdCaFpYWXg4NWVNQkNQQV9GY3J6UGxZU0l6VGZ1blJESjdGbU5odFRDaHFxUkQxWVY4NHR1cHpEb2tHR0pGeTdseVZib2xxeGdia3o5dVVQbmZXaDlHdlE",
@@ -5515,6 +5512,23 @@
    "sentiment": 0
   },
   {
+   "id": "e200272a52e9",
+   "title": "NVDA Stock Posts Biggest Jump In 14 Months On $12 Trillion Valuation Call From Raymond James – ‘Supply Is The Primary Constraint’ - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHYtamF4MTFQWEkzTjlQLWFwWTgzSXNsai02bXNfZDhpcnAxVkdDcy1qampmb2FQYlBWVXFnNTdydHhMWUNOX2RwSUpBWktFbENycTBkQU1xaU50R3ZvbXM2RGw5aGVQNnpFXzVGMFRndGRibmlHV1RoWFU0V1h4MU1rQzFBS29GR0VGWmNDZlRtSGFjNWx6TUo1ZUNoVGc4VHZ4TGwtRV9QZFdkTHZOQ3hnQVpRbHlXSHFaeWNLNllIQXAzMjJaMw",
+   "source": "Stocktwits",
+   "published_at": "2026-10-09T12:04:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-09T12:04:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHYtamF4MTFQWEkzTjlQLWFwWTgzSXNsai02bXNfZDhpcnAxVkdDcy1qampmb2FQYlBWVXFnNTdydHhMWUNOX2RwSUpBWktFbENycTBkQU1xaU50R3ZvbXM2RGw5aGVQNnpFXzVGMFRndGRibmlHV1RoWFU0V1h4MU1rQzFBS29GR0VGWmNDZlRtSGFjNWx6TUo1ZUNoVGc4VHZ4TGwtRV9QZFdkTHZOQ3hnQVpRbHlXSHFaeWNLNllIQXAzMjJaMw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "5c7c352d4f50",
    "title": "Report: Nvidia plans to invest in inference chip startup d-Matrix - Data Center Dynamics",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ1YzTkNWY1FUc2had1NodFZjRHZaY1BTTDk3TXFQWVRkbGc3Z00tWkFVWUpkeEhHRkFybHRJanZ5NDNZaUZmcU9lRndVYVNieFdYMHpwajFGYzAtOVUxVEJTM1BtUVZCNmRjSWM5b0Zrb2hIRGxKQjRIY3dROURBZGVHR0VhUzZkclhMSW1MdVR1S0NJUjNzdEY4NFFqZEF1aW1xYjdsQzc1RklT",
@@ -6669,31 +6683,6 @@
    "zh_summary": "英伟达将AI电力挑战转为竞争优势",
    "title_zh": "英伟达的AI电力难题正变成其最大优势",
    "sentiment": 1
-  },
-  {
-   "id": "f0a96011c872",
-   "title": "Nvidia-backed Firmus eyes $3B funding after scrapping $5B IPO: report (NVDA:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXdMZmkxZTNqbnNZbUdMZlcxRWJPZ3k4SnlLS1RVVXdMVG1odTAxNURhd2x0dUpnNTNWNjhaR2dQX0R4TG83SlZucE8walg1Vi16eTZEM1ZWTVRjOHZwWFhwTFBLNDJha3VBUi1pY0hkTlE5aXFuS1RsNkhqMVVaMmlyZEhjRmdnVm9sbktJbjgyckdTYlFXLVBMUmRyaUwwcV9wMjJnOA",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-09T07:57:58+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-09T07:57:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXdMZmkxZTNqbnNZbUdMZlcxRWJPZ3k4SnlLS1RVVXdMVG1odTAxNURhd2x0dUpnNTNWNjhaR2dQX0R4TG83SlZucE8walg1Vi16eTZEM1ZWTVRjOHZwWFhwTFBLNDJha3VBUi1pY0hkTlE5aXFuS1RsNkhqMVVaMmlyZEhjRmdnVm9sbktJbjgyckdTYlFXLVBMUmRyaUwwcV9wMjJnOA"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-09T07:57:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR1N4MGw1Zy1qcTY0NUtQNUN3MGdEMVNRUG9fdFRfb0k3dW5hU3JmSEVieHZhaWYzLWlyQlNRRDdLQlZhOVE2T2JjX2VJYXNHTTR4ZXdNMUQ0dXZoaXliNVZzbVRmRnVCU2Q5clYyRWx6bEl6VGl5V1BlMV91VzdMY2FaLTlGUlJzZ1VlQWFmc2dFMjJGQVF5Y0hmcjRWSlJJQ2Rjc3huNHVrNmVxVldncjNVSUY4eVplLTZ6dUxjZVhQYmJpWW96Vw"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "英伟达支持的Firmus取消50亿美元IPO",
-   "title_zh": "英伟达支持的Firmus取消50亿美元IPO，转寻求30亿美元融资",
-   "sentiment": -1
   }
  ]
 }
