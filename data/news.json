@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-11T23:36:34.529810+00:00",
+ "updated_at": "2026-10-11T23:51:43.465131+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,12 +10,12 @@
    "days_left": 37
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 72
+   "avg": 0.49,
+   "count": 73
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（72条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.49（73条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-11T23:36:34.515856+00:00"
+   "as_of": "2026-10-11T23:51:43.451877+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "5e42cc917ad8",
+   "title": "Vertiv 2.3MW CDU Meets NVIDIA DSX Ready Requirements - THE ELEC, Korea Electronics Industry Media",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hSXhsZUxMUnNTRVhLQXhzNjVMVzV5WTZ6eVU2cWRZaGtYWnVTSzF6dzBvRDVNeFpEam1xMTQ0WmYtempkbXFFRUVERHMyZDc1Y3ZWUWk2VEhrUWd6THRDbndMN1M1ZlE",
+   "source": "THE ELEC, Korea Electronics Industry Media",
+   "published_at": "2026-10-11T23:41:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "THE ELEC, Korea Electronics Industry Media",
+     "published_at": "2026-10-11T23:41:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hSXhsZUxMUnNTRVhLQXhzNjVMVzV5WTZ6eVU2cWRZaGtYWnVTSzF6dzBvRDVNeFpEam1xMTQ0WmYtempkbXFFRUVERHMyZDc1Y3ZWUWk2VEhrUWd6THRDbndMN1M1ZlE"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "896bba1bde79",
+   "title": "英伟达DGX Station 为何首推Windows版？ - 53AI",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lbDZXcllkT1UwM2dYYTBCVU1uSDFUTE9BWEpORUNjY3gyVGdaRldPOVE1UDRacUpGWjFLOVZfNWhjUE04Sk9RU1gtV3JVZy1GVzNfbkhfZG03d0hybXlfcG02VnpSZ2g5dFo3dg",
+   "source": "53AI",
+   "published_at": "2026-10-11T23:34:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "53AI",
+     "published_at": "2026-10-11T23:34:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lbDZXcllkT1UwM2dYYTBCVU1uSDFUTE9BWEpORUNjY3gyVGdaRldPOVE1UDRacUpGWjFLOVZfNWhjUE04Sk9RU1gtV3JVZy1GVzNfbkhfZG03d0hybXlfcG02VnpSZ2g5dFo3dg"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "8608fe5b4ecb",
    "title": "Not Nvidia. Not Broadcom. This Little-Known Chip Supplier Could Be the AI Boom's Best-Kept Secret. - The Motley Fool",
@@ -80,6 +114,23 @@
    "zh_summary": "鲜为人知的芯片供应商被看好为AI黑马",
    "title_zh": "不是英伟达也不是博通，这家小众芯片供应商或成AI繁荣的最大黑马",
    "sentiment": 0
+  },
+  {
+   "id": "df3c38146fa9",
+   "title": "Amazon is reportedly circling Decart after Nvidia and Anthropic both walked away - Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONy1kbUM5WnEyOXRQNUJ5VGhtNDhfa3F1U0hUUUFYSFJocGVHeG1KWXBDVHZDREZ6VnlJdEIyTW9XZHVVQ0cway1DeUNid0JZNUlFN3NjdFZHcXpDN19HUEx3a2JDalJSV1BubERvdHlody1PZU04cDgwMUV6LVYxVkwwRjBKZjB5Y0xwYU85M2VITUYzVmkwX3A2Yk50Y3JnLVhCaExHcENWNlln",
+   "source": "Startup Fortune",
+   "published_at": "2026-10-11T23:19:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Startup Fortune",
+     "published_at": "2026-10-11T23:19:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONy1kbUM5WnEyOXRQNUJ5VGhtNDhfa3F1U0hUUUFYSFJocGVHeG1KWXBDVHZDREZ6VnlJdEIyTW9XZHVVQ0cway1DeUNid0JZNUlFN3NjdFZHcXpDN19HUEx3a2JDalJSV1BubERvdHlody1PZU04cDgwMUV6LVYxVkwwRjBKZjB5Y0xwYU85M2VITUYzVmkwX3A2Yk50Y3JnLVhCaExHcENWNlln"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "a82ac8eb4f18",
@@ -6615,66 +6666,6 @@
    "zh_summary": "英伟达上涨但IPO担忧冲击AI板块",
    "title_zh": "英伟达股价上涨，但IPO担忧震荡AI市场",
    "sentiment": 0
-  },
-  {
-   "id": "b402e88e80c9",
-   "title": "Boro: NVIDIA's Open-Source Effort For AI-Assisted Linux Kernel Development - Phoronix",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56ajdBNVNweDRvaHdBTmZrTi1EaFVRNlRkaVFZcVlxcjFtd3pKREU5UG9vTHYySlhKZ2prVjQ3NW0xdjVJN1E1NV91cktRUmZtZzlud3JUclk4Q3Q5QkNzQWNiNXZtb1Qy",
-   "source": "Phoronix",
-   "published_at": "2026-10-09T10:06:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Phoronix",
-     "published_at": "2026-10-09T10:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56ajdBNVNweDRvaHdBTmZrTi1EaFVRNlRkaVFZcVlxcjFtd3pKREU5UG9vTHYySlhKZ2prVjQ3NW0xdjVJN1E1NV91cktRUmZtZzlud3JUclk4Q3Q5QkNzQWNiNXZtb1Qy"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达开源AI辅助Linux内核开发",
-   "title_zh": "Boro：英伟达开源AI辅助的Linux内核开发项目",
-   "sentiment": 1
-  },
-  {
-   "id": "ed46a68de422",
-   "title": "黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值” - InfoQ-CN",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qM0FOU3NJV21CdlF4S2h5RU5ucXV1TnBPWjVwYl90SVhkcjRmOEE0bTBYVW9zbXBUUkVMdm9ZUGFveXVyRGlkNzlEcmx2aHU5ak0zRGcwNTZ4Zw",
-   "source": "InfoQ-CN",
-   "published_at": "2026-10-09T09:56:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "InfoQ-CN",
-     "published_at": "2026-10-09T09:56:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qM0FOU3NJV21CdlF4S2h5RU5ucXV1TnBPWjVwYl90SVhkcjRmOEE0bTBYVW9zbXBUUkVMdm9ZUGFveXVyRGlkNzlEcmx2aHU5ak0zRGcwNTZ4Zw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋为微软站台，感谢Windows生态",
-   "title_zh": "黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值” - InfoQ-CN",
-   "sentiment": 1
-  },
-  {
-   "id": "74c48bb28e0d",
-   "title": "或超20亿元！这家公司购买2万张英伟达GPU - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWppOVdWZXpmX3N4aHprV3FhZkl5cnBjcFJVR1NCdTlkb1A3MkVaaHpXR2RSbmNlUUUwTGtuQjBMYUoteHZ1RTc0eEw4dGVXQ1Iw",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-09T09:55:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-09T09:55:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84eWppOVdWZXpmX3N4aHprV3FhZkl5cnBjcFJVR1NCdTlkb1A3MkVaaHpXR2RSbmNlUUUwTGtuQjBMYUoteHZ1RTc0eEw4dGVXQ1Iw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "一公司买2万张英伟达GPU超20亿元",
-   "title_zh": "或超20亿元！这家公司购买2万张英伟达GPU - 电子工程专辑",
-   "sentiment": 1
   }
  ]
 }
