@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T22:36:31.236295+00:00",
+ "updated_at": "2026-10-12T22:51:29.044910+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.15,
-   "count": 183
+   "count": 185
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（183条已评分）"
+     "note": "今日新闻情绪 +0.15（185条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-12T22:36:31.216014+00:00"
+   "as_of": "2026-10-12T22:51:29.034004+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -1311,12 +1311,17 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVpFaHZSVUE0U1FmY2ktWmt5alA1YjZRd1JGZ2k1b1FyakFqVTBZV2NzMkw4cTBnVG0zU1RXd0pQZ2x6RUZsOTZaUjAwSU03c2dqaGxEQzdkZE1tblJjNGpkcDU3UnFlZmNaMmU4VGYyamNYaWRGYkRNRGJNSnRkdVdQVkliX1k",
    "source": "新浪财经",
    "published_at": "2026-10-12T15:19:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-12T15:19:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVpFaHZSVUE0U1FmY2ktWmt5alA1YjZRd1JGZ2k1b1FyakFqVTBZV2NzMkw4cTBnVG0zU1RXd0pQZ2x6RUZsOTZaUjAwSU03c2dqaGxEQzdkZE1tblJjNGpkcDU3UnFlZmNaMmU4VGYyamNYaWRGYkRNRGJNSnRkdVdQVkliX1k"
+    },
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-12T16:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4M3JyQmlxOUxGZTNHSTlDS3QwYU1ZTGstZ3ZhS0FHb1RSV0h5eks5OEdxMUFjRjJFUWJEMi1WMHdXWHM1NWdXSGZlbzEySjR3c0VtX281RUxEX3Z5MXdwRQ"
     }
    ],
    "category": "产品技术",
@@ -1888,6 +1893,23 @@
    "zh_summary": "英伟达连续投资中国AI芯片企业",
    "title_zh": "英伟达连投三家的热门赛道，上海跑出中国第一，无问芯穹再揽23亿IPO在即 - 上观新闻",
    "sentiment": 0
+  },
+  {
+   "id": "b185e70b108d",
+   "title": "$英伟达 (NVDA.US)$[偷笑][调皮] - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Udm5ZR2FTNWNnc1dqWk1maUtFMUVJVXFValAxaVhETFhYc1ozOFJVczVzdWZNblJsTUtoRF9IY3FsZ2JjTWNEbVd5MUVMODhhekRsenJMOUgyelJNRUJGOEJVRnNWS2JON2NERDRLbElYX3otbHRGMXdwdW1wQQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-12T14:50:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-12T14:50:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Udm5ZR2FTNWNnc1dqWk1maUtFMUVJVXFValAxaVhETFhYc1ozOFJVczVzdWZNblJsTUtoRF9IY3FsZ2JjTWNEbVd5MUVMODhhekRsenJMOUgyelJNRUJGOEJVRnNWS2JON2NERDRLbElYX3otbHRGMXdwdW1wQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "828439646ff6",
@@ -6514,26 +6536,6 @@
    "session": "周末",
    "zh_summary": "CUDA护城河助推RTX Spark笔记本销售",
    "title_zh": "CUDA护城河加速RTX Spark笔记本销售，128GB统一内存款已售罄",
-   "sentiment": 1
-  },
-  {
-   "id": "c28368714bbf",
-   "title": "英伟达盯上250亿美元AI独角兽 深度布局AI产业新赛道 - 36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZN0J4UmhtMktkeHp4NmRTZU9IMk04TEZZaXgtWlB2TGE4Y2V2dlpCTWE5OW0wSTdDM0ZQQndDMXFTcm9zR3dYQ0hmcHk2dHVRZ1dJ",
-   "source": "36Kr",
-   "published_at": "2026-10-11T08:47:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-11T08:47:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZN0J4UmhtMktkeHp4NmRTZU9IMk04TEZZaXgtWlB2TGE4Y2V2dlpCTWE5OW0wSTdDM0ZQQndDMXFTcm9zR3dYQ0hmcHk2dHVRZ1dJ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达布局250亿美元AI独角兽新赛道",
-   "title_zh": "英伟达盯上250亿美元AI独角兽 深度布局AI产业新赛道 - 36Kr",
    "sentiment": 1
   }
  ]
