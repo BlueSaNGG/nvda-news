@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T01:06:32.352256+00:00",
+ "updated_at": "2026-10-12T01:21:27.527988+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.5,
-   "count": 80
+   "count": 82
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.50（80条已评分）"
+     "note": "今日新闻情绪 +0.50（82条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-12T01:06:32.337258+00:00"
+   "as_of": "2026-10-12T01:21:27.507573+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "1a5d3c9b7f0b",
+   "title": "HPE确认英伟达将推出Rubin PCIe GPU - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZnFaQlZDYjhySElUOEt2T0RUMWktWkU5bEdVTU1vT3psMXNKRzhtVFBPYno1UWdfRDRlU2I0S05kV3g2S3BPc1VQOUJHTWZFTWRUVm1KTGI2cGRoakw4NmVQSGtnclVWQ1o2Y0Z2LVRmQS1maktQcjg0a2paUzBYLUl4eE95R0Rf",
+   "source": "搜狐",
+   "published_at": "2026-10-12T01:05:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-12T01:05:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZnFaQlZDYjhySElUOEt2T0RUMWktWkU5bEdVTU1vT3psMXNKRzhtVFBPYno1UWdfRDRlU2I0S05kV3g2S3BPc1VQOUJHTWZFTWRUVm1KTGI2cGRoakw4NmVQSGtnclVWQ1o2Y0Z2LVRmQS1maktQcjg0a2paUzBYLUl4eE95R0Rf"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
   {
    "id": "ee810246e87b",
    "title": "盯上“美版DeepSeek”！英伟达在下一盘大棋 - 搜狐",
@@ -87,12 +104,22 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84dUZ3U29OY1V3VUk3M290blgzOG1Zek5yajdVcGppRU9yek1VQm9RSjZVd0hoN04yTEoyRmFKNlRlZWFzWHJmcQ",
    "source": "凤凰网",
    "published_at": "2026-10-12T00:10:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "凤凰网",
      "published_at": "2026-10-12T00:10:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84dUZ3U29OY1V3VUk3M290blgzOG1Zek5yajdVcGppRU9yek1VQm9RSjZVd0hoN04yTEoyRmFKNlRlZWFzWHJmcQ"
+    },
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-12T00:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03UzF2cC1SRXFUM2xiRHdQdmI1NmNJYm9EOWdyWG9zc0F1amVLeFJ2bGlMN09EeVhwRnVTTEYtS2k2OURyUzJQRWs1Z2psN3JUVW5mdjlQd0I"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-12T01:20:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcEhMS2hGT1BqU09KM2VBQmdxUnJKRjkzZmpVVHhVZUIwZjBwYTd5ZGFWOGtuNGZhYUdIN1BWWDNHSmx1ZzVEMTZ0TmluSnJaMGhiUS1LLUZobFFHVVRDbG9CWXpnUklOb3hiYnE2bFpYSXowY0IzWHpNMHdTN05zN0ZEUmNTTlBpT21Wa1VsWExVNDFueXRlWUFWZEMwYkV5bEE"
     }
    ],
    "category": "其他",
@@ -6656,26 +6683,6 @@
    "session": "盘前",
    "zh_summary": "养老金基金增持285209股英伟达",
    "title_zh": "基金更新：Border to Coast养老金增持285209股NVDA",
-   "sentiment": 1
-  },
-  {
-   "id": "b6cac73733a4",
-   "title": "RTX Spark Builder PCs: Microsoft, Nvidia Debut [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kNkMwalNXNnhEWDJOd3g5b3hLM0JEX2JBNFFzcWNTOTFIN2R0c21jREVLVkFCN3RFUmV2MGlCYXdmVmkxc3FyYjRDdXpnYkVHOHpvN3lXWXNLcS1QUGhWTWVkdGRrWUQwSjNyQUNXcnZqdkdLM0gybQ",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-09T10:59:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-09T10:59:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kNkMwalNXNnhEWDJOd3g5b3hLM0JEX2JBNFFzcWNTOTFIN2R0c21jREVLVkFCN3RFUmV2MGlCYXdmVmkxc3FyYjRDdXpnYkVHOHpvN3lXWXNLcS1QUGhWTWVkdGRrWUQwSjNyQUNXcnZqdkdLM0gybQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "微软与英伟达发布RTX Spark电脑",
-   "title_zh": "微软与英伟达发布RTX Spark电脑",
    "sentiment": 1
   }
  ]
