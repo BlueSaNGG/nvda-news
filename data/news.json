@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T18:21:32.062406+00:00",
+ "updated_at": "2026-10-12T18:36:33.788603+00:00",
  "market": {
-  "price": 226.34,
-  "change_pct": -1.28,
+  "price": 226.67,
+  "change_pct": -1.14,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.18,
-   "count": 137
+   "count": 139
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（137条已评分）"
+     "note": "今日新闻情绪 +0.18（139条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $226.34 vs 20日均线 $227.50"
+     "note": "现价 $226.67 vs 20日均线 $227.52"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 83,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.2,
-   "ma20": 227.5,
-   "as_of": "2026-10-12T18:21:32.045227+00:00"
+   "implied_upside_pct": 39.0,
+   "ma20": 227.52,
+   "as_of": "2026-10-12T18:36:33.772410+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "f4cfb75b0d99",
+   "title": "Watch Cisco, Nvidia Tackle AI’s Growing Data Center Bottleneck - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY3A0ZVhpdnpoV0UzVzdXMkxVb1dJcnV4S25HV2RXSnl1aTVDYWR1Z1g3X0k2NDdQWUNmU0F0VWlJYkpGQ2pQQXo2cmFVVGdsay1tWHZUbVIzZ2VEQjNpSU82ZmVIVFpHdTNlSVFfYVZoTGl5TTJib1AwdmRFQVdiRy10LUt0ajhQLWJKeUlGendvMEUwMzZ3akc1YVdOTmhrbDh1TVhpelM3TW4wTFBV",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-12T18:25:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-12T18:25:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY3A0ZVhpdnpoV0UzVzdXMkxVb1dJcnV4S25HV2RXSnl1aTVDYWR1Z1g3X0k2NDdQWUNmU0F0VWlJYkpGQ2pQQXo2cmFVVGdsay1tWHZUbVIzZ2VEQjNpSU82ZmVIVFpHdTNlSVFfYVZoTGl5TTJib1AwdmRFQVdiRy10LUt0ajhQLWJKeUlGendvMEUwMzZ3akc1YVdOTmhrbDh1TVhpelM3TW4wTFBV"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "ff3ccb4fa719",
+   "title": "Microsoft to Reduce Nvidia Reliance With Maia 300 AI Chip - The National CIO Review",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGtINjRIUndlZkUxdUd6QTVoa2dSdDNaR1R1Ylp0cC1kOFpXZHNXdGVYWHpUMG9xVWRWYXVyRkJ4UG1DSjRvTWhIYzRGYmVkVVo5WHZfZ29lc0k2dEM1bUprdVN4Sy1wLVpxOFZzaEdLYkV6b25hRG9jdjNvRm4zS0tmbEZET3laUXRkVGtvRkJ0eEZIbExqQS0yRVllTXJQdUxWaF9aTDlIcW5nZEpCLUgxMmdGQWpJM1E",
+   "source": "The National CIO Review",
+   "published_at": "2026-10-12T18:24:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The National CIO Review",
+     "published_at": "2026-10-12T18:24:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGtINjRIUndlZkUxdUd6QTVoa2dSdDNaR1R1Ylp0cC1kOFpXZHNXdGVYWHpUMG9xVWRWYXVyRkJ4UG1DSjRvTWhIYzRGYmVkVVo5WHZfZ29lc0k2dEM1bUprdVN4Sy1wLVpxOFZzaEdLYkV6b25hRG9jdjNvRm4zS0tmbEZET3laUXRkVGtvRkJ0eEZIbExqQS0yRVllTXJQdUxWaF9aTDlIcW5nZEpCLUgxMmdGQWpJM1E"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "d7041f09eecb",
    "title": "【公司治理】从英伟达大规模回购股票说起 - 东方财富",
@@ -139,26 +173,6 @@
    "session": "盘中",
    "zh_summary": "亚马逊与英伟达洽谈AI初创交易",
    "title_zh": "报道：亚马逊和英伟达考虑AI初创交易",
-   "sentiment": 1
-  },
-  {
-   "id": "eef0b0eacf7c",
-   "title": "盲插液冷、800V供电、下一代可插拔光模块：英伟达推进新标准 港美股资讯 - 华盛通",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52NFMtYXZVbDBzampLVDZNZjUyV2xWbmxmV2NqbEFqSnBvYTktZ1lETFc3bUt1R2YyaXRYZFZDUmFfY1pNMDYyT3c1MDNCUE5qYW53UGhKMFRCVlNIaEt5c2V3",
-   "source": "华盛通",
-   "published_at": "2026-10-12T17:52:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华盛通",
-     "published_at": "2026-10-12T17:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52NFMtYXZVbDBzampLVDZNZjUyV2xWbmxmV2NqbEFqSnBvYTktZ1lETFc3bUt1R2YyaXRYZFZDUmFfY1pNMDYyT3c1MDNCUE5qYW53UGhKMFRCVlNIaEt5c2V3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达推进盲插液冷、800V供电等新标准",
-   "title_zh": "盲插液冷、800V供电、下一代可插拔光模块：英伟达推进新标准 港美股资讯 - 华盛通",
    "sentiment": 1
   },
   {
@@ -337,26 +351,6 @@
    "sentiment": 0
   },
   {
-   "id": "75ed64c0e4a9",
-   "title": "Nvidia Falls Back From Record High. Its Stock Chart Offers a Warning. - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ",
-   "source": "Barron's",
-   "published_at": "2026-10-12T16:23:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-12T16:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达自历史高点回落，图表现警示",
-   "title_zh": "英伟达从历史高点回落，巴伦周刊称图表现警示",
-   "sentiment": -1
-  },
-  {
    "id": "63fc6447c68a",
    "title": "微软将加大自研AI芯片使用，降低对英伟达依赖|云平台|Copilot|模型|谷歌|首席执行官 - 新浪财经",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZ0VsU0FEVVZUemdVX1pXVk42dFBIQWhKSWJSOTAyR1VqTW9KVHRUOEFkbkJtMWJiZVBFNlV2ckU5Y1p1dk85aDl1dEh0Qmk2LVlTaHhpTDJENU9VcnFGQ3RwSEJEODB3TEp1RkhXMU5wSDl0NXhYOER0Q2FTcXgyRFNRUUxTQkpWSm5pME05ekQ4NW5rLWswRjB1UFVQUGFvbktxOFk4N1hfcXM4RnJ2TTZDMlBVb2JyM25OSWpCejFOUVZEMVAwMlJ6LWE1amtiUUk5OHVyN201ZVhRbFNJamN2MEF4bDNmeGRTYng3S3Q3WXFaQ0R2VlhJZEJpVHVUUUdmZ21GWFRhZw",
@@ -522,12 +516,17 @@
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObnhSQi1TdU9vNmdnS3UzTDhPdWFvcDRhYlkxV016dXp2Zmgwd3F2SHRGekdLWTB3YmVPOVlRS1FJY1Q3QUNNUGlhT2Z4b25VbjBaVEQxZjZKLXdUSTgzc0l2Q3RxTFRvQ05DcnJZY01mZ1NMSmpCNC04aTY2aWpYZTJhSzBPNWNLNkhFajFhZjBZMTBiWThPM2phd2xLZ3M5bU0yaHhJQ3lUZlJ1UlV1QV9TczFhWS00Tjg0Y1N2eUV5UmVfMU5tSUh5bkZtVTVmdFctdFhWYlU4QQ",
    "source": "PR Newswire",
    "published_at": "2026-10-12T15:30:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "PR Newswire",
      "published_at": "2026-10-12T15:30:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObnhSQi1TdU9vNmdnS3UzTDhPdWFvcDRhYlkxV016dXp2Zmgwd3F2SHRGekdLWTB3YmVPOVlRS1FJY1Q3QUNNUGlhT2Z4b25VbjBaVEQxZjZKLXdUSTgzc0l2Q3RxTFRvQ05DcnJZY01mZ1NMSmpCNC04aTY2aWpYZTJhSzBPNWNLNkhFajFhZjBZMTBiWThPM2phd2xLZ3M5bU0yaHhJQ3lUZlJ1UlV1QV9TczFhWS00Tjg0Y1N2eUV5UmVfMU5tSUh5bkZtVTVmdFctdFhWYlU4QQ"
+    },
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-10-12T18:16:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ1JGUEtnaHVJOGF5a2FJdHYwaHVjS0hxbHN1eDlxWkZFaVhHdjNHQ1Ixcy15b1J4U3NzX09fWnBheEhsUlhVM3Q2Rm9HeVpHalB3YTlZS1hCQkYyU05mczlhUDlqOWFNaHEwZGVJajhaNzBvMm9LSUpMQzY3UDRuRGIwc3hjbmZsZ1BETmtvU3pyV3Q0YlYzNE5WOEPSAaIBQVVfeXFMT1piWHRfM3ZzRW9tVUhIM3hMUDJLOWl6OVhwWDF0QTZmSUhHbTAyNVUzc3FnTGVLTi1wak9nQ0Fac0ZrT1JVd3dQZlEzcW9aZWxJbU9HWFRCWkJLRXFYckRYekhFSTV0ZWpvaHRMOXVUTnM1OEpVTi1iclhVNTAtdzRhREJzc24xV3VhVnk1RV9tN1d1WnJhVl9mbW5xQklXMWJ3"
     }
    ],
    "category": "其他",
@@ -1879,6 +1878,26 @@
    "sentiment": -1
   },
   {
+   "id": "75ed64c0e4a9",
+   "title": "Nvidia Falls Back From Record High. Its Stock Chart Offers a Warning. - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ",
+   "source": "Barron's",
+   "published_at": "2026-10-12T12:13:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-12T12:13:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "英伟达自历史高点回落，图表现警示",
+   "title_zh": "英伟达从历史高点回落，巴伦周刊称图表现警示",
+   "sentiment": -1
+  },
+  {
    "id": "81eb18f87dda",
    "title": "Here are Monday's biggest analyst calls: SpaceX, Nvidia, Apple, Salesforce, Robinhood, First Solar & more - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdG9FV3kxVEFjMXFqQVV2bmloQXYyMnJ3dzhDalktVGtCcnVSbU5pLXFrbmgwNUs3MzB0OUNZaG9scnR1VEJ3RzBJWnljTy11SmlQaWhEQzFJalBpdlpDTEtkQURkVldCQzhkM0NZam9LNEFRT0lzb0xTaFhXLUJjVW1iNXc",
@@ -2127,6 +2146,23 @@
     "pct": -0.2,
     "window_h": 0.1
    }
+  },
+  {
+   "id": "a480d41dc013",
+   "title": "英伟达被曝已通知客户，AI芯片价格将普遍上涨超过15% - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPZWVnNUlhWW96QVVLRGVYNFUwUUxSdDNKTEt4X1hWWjZHMXY1SERST0NQSzFHSTU3SmVXU3IzMm1XZHl5eERmblU2VHdlMmZTaUFQV004cktpWjBxM1JJRVVWLXFCUlZUUDZvb0hpOHZzbkxfMnB5ODdaM1ktRHFoQnhJM2NsRHllSGFVUS14QlhXZjNyVl8yVEZkWjZTMHF0dDZ5aEVPNnBlR3BYRVFkRnFGelNjNVB4X2dvWk5CTEZDQzQ1d0RPVW9LaXVCTUVhODM1SThLXzBpcmNhSFBPM3BNMGlJSHFPMzFBNUtNV0F1cnZ6TW92Q2Z4aW5BU2hacUliSEtJQmVZcHEzNDNjcWJFQjBpRDdqaHFtVDdNZE1TOGNzdDB4eUpUZGZyOUZGUmpld1A0WkM4RUNmQU5IdF8tMTQ1b3pWSjZzOVR2ZGV0YVJWSWhKTFlBSk50aTJuUnNwVm5oeHFVVG04UVhHZEc2NGJMd09XLWZEOG9SejdxM1RwRVUzUVQyNUFDTWJSQllaRzZsZjdMa3NNaE5lWjA1WHVGOHRPMnYwTi1KV1RzbEFIbmdpNmRpTnBuNVBCZVNuNUh0ZUxacE5uY0FJdzd1TmIyOVR3THdNTWJfOGw0MDRVbFlBckFkai0xbkRORUFwa1RiZHV3bnQ0MDcyZFZpQ1F5XzZEZEJSNzVOX1RUdGRlMkU2blFTOWF4aGtaZno5UktuU2p0eS1maW1oWDdoMnZjN05IUzFvd1ZQM0NkT3A1Zk03U21BSVBxRVd5MmdoRUFjYnVEMWxCcG12STU1RE8wQQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-12T10:49:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-12T10:49:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPZWVnNUlhWW96QVVLRGVYNFUwUUxSdDNKTEt4X1hWWjZHMXY1SERST0NQSzFHSTU3SmVXU3IzMm1XZHl5eERmblU2VHdlMmZTaUFQV004cktpWjBxM1JJRVVWLXFCUlZUUDZvb0hpOHZzbkxfMnB5ODdaM1ktRHFoQnhJM2NsRHllSGFVUS14QlhXZjNyVl8yVEZkWjZTMHF0dDZ5aEVPNnBlR3BYRVFkRnFGelNjNVB4X2dvWk5CTEZDQzQ1d0RPVW9LaXVCTUVhODM1SThLXzBpcmNhSFBPM3BNMGlJSHFPMzFBNUtNV0F1cnZ6TW92Q2Z4aW5BU2hacUliSEtJQmVZcHEzNDNjcWJFQjBpRDdqaHFtVDdNZE1TOGNzdDB4eUpUZGZyOUZGUmpld1A0WkM4RUNmQU5IdF8tMTQ1b3pWSjZzOVR2ZGV0YVJWSWhKTFlBSk50aTJuUnNwVm5oeHFVVG04UVhHZEc2NGJMd09XLWZEOG9SejdxM1RwRVUzUVQyNUFDTWJSQllaRzZsZjdMa3NNaE5lWjA1WHVGOHRPMnYwTi1KV1RzbEFIbmdpNmRpTnBuNVBCZVNuNUh0ZUxacE5uY0FJdzd1TmIyOVR3THdNTWJfOGw0MDRVbFlBckFkai0xbkRORUFwa1RiZHV3bnQ0MDcyZFZpQ1F5XzZEZEJSNzVOX1RUdGRlMkU2blFTOWF4aGtaZno5UktuU2p0eS1maW1oWDdoMnZjN05IUzFvd1ZQM0NkT3A1Zk03U21BSVBxRVd5MmdoRUFjYnVEMWxCcG12STU1RE8wQQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "51eea91f45d7",
@@ -3275,6 +3311,31 @@
    "zh_summary": "哪款英伟达GPU媲美ROG Xbox Ally X",
    "title_zh": "哪款英伟达GPU可媲美ROG Xbox Ally X？",
    "sentiment": 0
+  },
+  {
+   "id": "f9aa1faf6b7b",
+   "title": "盲插液冷、800V供电、下一代可插拔光模块：英伟达推进新标准 - 财联社电报",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhbW9tSTA5MVhGRGxNSVFJOFVmUkxxSzBCbzB3MkkybjVIQUlEVFRQYlIxa3pESllCV0pmQW11ZzFaamEyYmc",
+   "source": "财联社电报",
+   "published_at": "2026-10-12T02:52:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "财联社电报",
+     "published_at": "2026-10-12T02:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhbW9tSTA5MVhGRGxNSVFJOFVmUkxxSzBCbzB3MkkybjVIQUlEVFRQYlIxa3pESllCV0pmQW11ZzFaamEyYmc"
+    },
+    {
+     "name": "华盛通",
+     "published_at": "2026-10-12T17:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52NFMtYXZVbDBzampLVDZNZjUyV2xWbmxmV2NqbEFqSnBvYTktZ1lETFc3bUt1R2YyaXRYZFZDUmFfY1pNMDYyT3c1MDNCUE5qYW53UGhKMFRCVlNIaEt5c2V3"
+    }
+   ],
+   "category": "其他",
+   "session": "周末",
+   "zh_summary": "英伟达推进盲插液冷、800V供电等新标准",
+   "title_zh": "盲插液冷、800V供电、下一代可插拔光模块：英伟达推进新标准 港美股资讯 - 华盛通",
+   "sentiment": 1
   },
   {
    "id": "8551aee53418",
@@ -6578,71 +6639,6 @@
     "pct": -0.2,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "76106e6169d4",
-   "title": "英伟达正洽谈收购reflection AI_7x24快讯_新浪财经 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYS2o3eTNGS2RELUxiN1d5Z28xRVpQMzgyZV9vM3FDNDIzLU5feFVFLWtmWktob0NLQzVnUkZXX2N5UGlUcUR2TGh5UQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-10T18:22:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-10T18:22:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYS2o3eTNGS2RELUxiN1d5Z28xRVpQMzgyZV9vM3FDNDIzLU5feFVFLWtmWktob0NLQzVnUkZXX2N5UGlUcUR2TGh5UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达正洽谈收购Reflection AI",
-   "title_zh": "英伟达正洽谈收购reflection AI",
-   "sentiment": 1
-  },
-  {
-   "id": "10fbac41e88a",
-   "title": "Nvidia-Backed Neoclouds Face a Test as IREN, CoreWeave and Nebius Stocks Slide - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFhkbHQ5a3d1bzVwZWFzMU8zUjNpMWFNd2NkRVFsZVhqSEJJTHFyZ2ZGN0FzejZqVkJieThCa1FXeW5aMTZFVWxVSlNKdm5YS1JlT0g1ZVpDUkF0LUZPWll4VEk0R3pPNjdpQV9sZk42czVrTWdkZy1fUjRRTDB4U1dzTGhHLUw2VTEwellEZGg4NUUxaTVhSlJidElsVFFlOG1qLVp4M1M4cGJ6VjNIYjdDaWx5OFVxY3RrQ3h2Y3VGTm4tZGYzbW1oenRLenc",
-   "source": "Benzinga",
-   "published_at": "2026-10-10T18:20:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-10T18:20:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFhkbHQ5a3d1bzVwZWFzMU8zUjNpMWFNd2NkRVFsZVhqSEJJTHFyZ2ZGN0FzejZqVkJieThCa1FXeW5aMTZFVWxVSlNKdm5YS1JlT0g1ZVpDUkF0LUZPWll4VEk0R3pPNjdpQV9sZk42czVrTWdkZy1fUjRRTDB4U1dzTGhHLUw2VTEwellEZGg4NUUxaTVhSlJidElsVFFlOG1qLVp4M1M4cGJ6VjNIYjdDaWx5OFVxY3RrQ3h2Y3VGTm4tZGYzbW1oenRLenc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Nvidia支持的云厂商IREN等股价下滑",
-   "title_zh": "英伟达支持的云厂商受考验，IREN等股价下跌",
-   "sentiment": -1
-  },
-  {
-   "id": "7b15fc3508b3",
-   "title": "英伟达正洽谈收购Reflection AI，双方谈判尚处于早期阶段。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zMUd5SnVVNHVsaDR2bUZ1ZVZ4cFZOM1FjRERwNk1BUEtsNHhaMzNpT2paQmZoSHdUNkMydVhtMVk1WGpudVUxOGlqWQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-10T18:16:26+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-10T18:16:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zMUd5SnVVNHVsaDR2bUZ1ZVZ4cFZOM1FjRERwNk1BUEtsNHhaMzNpT2paQmZoSHdUNkMydVhtMVk1WGpudVUxOGlqWQ"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-10T19:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdC1aSEJCSVg0c1FvN2ZrYkRoRVNxSDFlVVYwMUczUkNpZm5Jd2pBZTRNVTlRY3BXa192WWlnWjIyRzNhZlhDYXNPb2ZkRzZzWFdFY1NlQk80c183dmJ4R21mSG1ENTdOS3gzWWtINXdRdlAweVpPQ3k1LTFHUGdPeVpuWU05RGM"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达洽谈收购Reflection AI处早期",
-   "title_zh": "英伟达正洽谈收购Reflection AI，双方谈判尚处于早期阶段。 - 手机新浪网",
-   "sentiment": 1
   }
  ]
 }
