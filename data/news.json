@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T00:36:37.829648+00:00",
+ "updated_at": "2026-10-12T00:51:30.354872+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,12 +10,12 @@
    "days_left": 37
   },
   "day_sentiment": {
-   "avg": 0.49,
-   "count": 77
+   "avg": 0.5,
+   "count": 78
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.49（77条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（78条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-12T00:36:37.812718+00:00"
+   "as_of": "2026-10-12T00:51:30.340776+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ee810246e87b",
+   "title": "盯上“美版DeepSeek”！英伟达在下一盘大棋 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN2pvQXFaT0lVV3JOSWtIeFpKSXA4dHpLd01DX3ZXamhLQU9hR1cyZTduVDZ6bW1fTFVzVGtBZXpBbXNoZWF6dGItVmJMam45Rm9TR3ZMc2l2T2hVRE41Q2pXNWhFLXh5dnJraEJrU0tndXNtdWxVRXdoOVlkbnM0MDFTZFllc1JOZ1AySQ",
+   "source": "搜狐",
+   "published_at": "2026-10-12T00:22:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-12T00:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN2pvQXFaT0lVV3JOSWtIeFpKSXA4dHpLd01DX3ZXamhLQU9hR1cyZTduVDZ6bW1fTFVzVGtBZXpBbXNoZWF6dGItVmJMam45Rm9TR3ZMc2l2T2hVRE41Q2pXNWhFLXh5dnJraEJrU0tndXNtdWxVRXdoOVlkbnM0MDFTZFllc1JOZ1AySQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "0be43ee0b03f",
    "title": "Nvidia Looks to Purchase Open-Weight AI Firm Reflection - PYMNTS.com",
@@ -100,6 +117,23 @@
    "zh_summary": "Vertiv液冷设备获英伟达认证",
    "title_zh": "Vertiv 2.3MW液冷设备通过英伟达DSX Ready认证",
    "sentiment": 1
+  },
+  {
+   "id": "333208ac4f55",
+   "title": "GenScript and NVIDIA Launch Global PitchFest to Accelerate AI-Driven Drug Discovery Startups - BioPharma APAC",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNTAyd2xsTW5POWdSS1l2cjlQeXlpbjY3aXpwdERYNTJnaEljWi05OHVRUVhkcG5JRWxYSkNmN2Nza2htU3M2VlVGZGtwVzdSa2lSNVFJVnF6TVZTYTdlVUJ5XzRFWGpnSHp2d2FzMkVQVmlfOXNKZW1TWkNrbjFOUXMtUGVNemh5Q2NXVmtKQW1UX1VYUUUtOHdCM3hBSTlRR0EyYkhOU2Z3TExUc2pFR21vaDFKdFpLT0N4WTFMM0RhVU9NN1diZ252c25WcFN6bVE",
+   "source": "BioPharma APAC",
+   "published_at": "2026-10-11T23:39:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BioPharma APAC",
+     "published_at": "2026-10-11T23:39:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNTAyd2xsTW5POWdSS1l2cjlQeXlpbjY3aXpwdERYNTJnaEljWi05OHVRUVhkcG5JRWxYSkNmN2Nza2htU3M2VlVGZGtwVzdSa2lSNVFJVnF6TVZTYTdlVUJ5XzRFWGpnSHp2d2FzMkVQVmlfOXNKZW1TWkNrbjFOUXMtUGVNemh5Q2NXVmtKQW1UX1VYUUUtOHdCM3hBSTlRR0EyYkhOU2Z3TExUc2pFR21vaDFKdFpLT0N4WTFMM0RhVU9NN1diZ252c25WcFN6bVE"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "896bba1bde79",
@@ -2425,7 +2459,7 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVM3Vrbk5pM2gzLUZTZldPQ2ZkOGluNVcycWx3OFlkUVVNZFc1dEtJM2ZaRG51SS15SGV1eHlqMmttRlpONHNMWk9RVHJ2Rk55M293",
    "source": "币界网",
    "published_at": "2026-10-10T18:26:13+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "币界网",
@@ -2436,6 +2470,11 @@
      "name": "富途牛牛",
      "published_at": "2026-10-10T18:34:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMjROT2pwTzlrbjlrNzkwRGdrcl9TT0dMMWdEd3pIalNmRXJOMU9qT2VYLVVNclpSZU1Oa3htT1NsMnl5ZVF4amZTVVhqdlNwZUk5UFByTnZKYzZXX2FoaVNCbFprQWlTeTNCWUdqU0RqQV9WSHV4TUhObzQ1TTcyMGJFM3R5dEIxVzRiWmNDTU9CbVJsR1g5NndDOEZWbUJ2bTFtdnZn"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-12T00:47:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yRDY0LTBNQ0tCSjlwUVE1S1dLQ2FGZDhKUlJVazlINURJQTllMjNreUg3dHBpTGdLMmRNZkJMaGk1OFlrNzJRd19OeENQcWtzVzRwaVktcGdjNEFlOUt6QVptNF93QQ"
     }
    ],
    "category": "其他",
@@ -3153,6 +3192,28 @@
    "zh_summary": "微软与英伟达合作延伸至AI代理",
    "title_zh": "微软英伟达将合作延伸至AI代理 新架构运算能力达1 PFLOPS - 观点网",
    "sentiment": 1
+  },
+  {
+   "id": "af592f90e427",
+   "title": "英伟达英伟达(NVDA.US)拟以“收购式招聘”拿下Reflection AI：先投8亿，再用买人不买公司绕开监管 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGZpQ0gwR1NuMURraC1EUEMyVjNCcmVNdGxaeFZiWVZyV19fajBFUkFRNHpLNnhiQWhmSFBNMXYzN3QtZFVWUTJKUmI3NFdrQVU2cnRJNWdZVFBCZVFMS0VxbHVUYzVCNlhHVDBndG1udDdVUVNReFVNcG5IeEFmem5La3Nrd25JR3pNV0Jjc1Y0U3oyUkZVNkswZC16ZjBzWXlr",
+   "source": "富途牛牛",
+   "published_at": "2026-10-10T10:36:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-10T10:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGZpQ0gwR1NuMURraC1EUEMyVjNCcmVNdGxaeFZiWVZyV19fajBFUkFRNHpLNnhiQWhmSFBNMXYzN3QtZFVWUTJKUmI3NFdrQVU2cnRJNWdZVFBCZVFMS0VxbHVUYzVCNlhHVDBndG1udDdVUVNReFVNcG5IeEFmem5La3Nrd25JR3pNV0Jjc1Y0U3oyUkZVNkswZC16ZjBzWXlr"
+    },
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-12T00:05:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JN1g3RWxMTjUtSE1xc3ZwcC04YTFBc3B2dkRwRDhJM3B5VjkzdnR5eVJRb254VlY4Tl9rQXk0TngwSUI5VnJxWnlBTDNGZ09scFl0UjZsWjFoZzNtUjBCaw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "23812c33e847",
@@ -6616,80 +6677,6 @@
    "zh_summary": "GBM在阿联酋启动基于英伟达基建的AI实验室",
    "title_zh": "GBM在阿联酋推出基于思科和英伟达基础设施的AI实验室",
    "sentiment": 1
-  },
-  {
-   "id": "ea3922729bda",
-   "title": "Dell XPS 16 Creator Edition Launches: What Nvidia RTX Spark Means for the Channel - Channel Insider",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUm5kUHRTT1oyRGdDTHdiX2xkaUxXMmgtUjd5bjB2MkpGbVJQTFhocl9HQTNLMzJ0QXVPcXhxOE82ZFNWVndsdk5ScjNWVkEySUl0Q3JibVpEQUFJb0k2M3RxZzVoZzJHNFBXMFdVZlcxeVdwdC1vM0JFNDNXbmZpcWNWc3g3SlpVclVrbmNoODNvWUkyRHVzTkF4SEFkNWVVeXEw",
-   "source": "Channel Insider",
-   "published_at": "2026-10-09T10:31:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Channel Insider",
-     "published_at": "2026-10-09T10:31:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUm5kUHRTT1oyRGdDTHdiX2xkaUxXMmgtUjd5bjB2MkpGbVJQTFhocl9HQTNLMzJ0QXVPcXhxOE82ZFNWVndsdk5ScjNWVkEySUl0Q3JibVpEQUFJb0k2M3RxZzVoZzJHNFBXMFdVZlcxeVdwdC1vM0JFNDNXbmZpcWNWc3g3SlpVclVrbmNoODNvWUkyRHVzTkF4SEFkNWVVeXEw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "戴尔XPS 16创作者版搭载英伟达技术",
-   "title_zh": "戴尔XPS 16创作者版发布：解析英伟达RTX Spark",
-   "sentiment": 1
-  },
-  {
-   "id": "a74ed25d6c77",
-   "title": "曝英伟达计划投资d-Matrix：AI推理芯片竞争对手们，正变成伙伴 - Sohu",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjlZYXhtM2paOU9wejRuTXVvbmlUOWJvN2Y2WXNnVGdibkdpcWUwY0dkM3pKd18tTXBrbWJ4by1Ibkc2TWhYbl9DZU4xM0xkX0lxTjhOSjk3djU5N0lHOVpTWDBCMHJ6eUpPREJCLVF3cV80c0JTdHozOThiNExkWnVGOE9PNWxuMkxScg",
-   "source": "Sohu",
-   "published_at": "2026-10-09T10:30:20+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-09T10:30:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjlZYXhtM2paOU9wejRuTXVvbmlUOWJvN2Y2WXNnVGdibkdpcWUwY0dkM3pKd18tTXBrbWJ4by1Ibkc2TWhYbl9DZU4xM0xkX0lxTjhOSjk3djU5N0lHOVpTWDBCMHJ6eUpPREJCLVF3cV80c0JTdHozOThiNExkWnVGOE9PNWxuMkxScg"
-    },
-    {
-     "name": "智东西",
-     "published_at": "2026-10-09T10:30:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51NXRpLVd6RkhvSi1hOG5GVW5iYV9yX3d0ZkFodnUxNkg1ZmE4akpGOXpOLXFSZF9KNGtac3dybjE5bDhoRzE0Tg"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-09T10:30:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjlZYXhtM2paOU9wejRuTXVvbmlUOWJvN2Y2WXNnVGdibkdpcWUwY0dkM3pKd18tTXBrbWJ4by1Ibkc2TWhYbl9DZU4xM0xkX0lxTjhOSjk3djU5N0lHOVpTWDBCMHJ6eUpPREJCLVF3cV80c0JTdHozOThiNExkWnVGOE9PNWxuMkxScg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "曝英伟达计划投资d-Matrix",
-   "title_zh": "曝英伟达计划投资d-Matrix：AI推理芯片竞争对手们，正变成伙伴",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.78,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "2a06824ddf01",
-   "title": "Nvidia: Jensen Huang And Lisa Su Agree On One Thing (NASDAQ:NVDA) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkZDUnVuV1M0aUthUnQwU09uWWR5UGhEZ0F4MkFxbllWYWxRbUMyNFJQMTRrTFNFcDJ3eW1WaTNCV1pCMVpqOHIyT0FnTERCWDJfb1NBV1pJNEstM1BMMUVlU09GMjFJanViOVZuRnNpRGxQbkxWdnNQdnFuamtHUU1odjZTQjE1d2xmN3pNazhuV2ZUZkE",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-09T10:18:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-09T10:18:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkZDUnVuV1M0aUthUnQwU09uWWR5UGhEZ0F4MkFxbllWYWxRbUMyNFJQMTRrTFNFcDJ3eW1WaTNCV1pCMVpqOHIyT0FnTERCWDJfb1NBV1pJNEstM1BMMUVlU09GMjFJanViOVZuRnNpRGxQbkxWdnNQdnFuamtHUU1odjZTQjE1d2xmN3pNazhuV2ZUZkE"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "黄仁勋与苏姿丰在一个观点上达成一致",
-   "title_zh": "英伟达：黄仁勋与苏姿丰在一点上达成一致",
-   "sentiment": 0
   }
  ]
 }
