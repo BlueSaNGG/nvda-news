@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T03:51:27.941004+00:00",
+ "updated_at": "2026-10-12T04:06:27.575183+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,12 +10,12 @@
    "days_left": 37
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 105
+   "avg": 0.49,
+   "count": 106
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（105条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.49（106条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-12T03:51:27.924296+00:00"
+   "as_of": "2026-10-12T04:06:27.557527+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -3050,7 +3050,7 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVM3Vrbk5pM2gzLUZTZldPQ2ZkOGluNVcycWx3OFlkUVVNZFc1dEtJM2ZaRG51SS15SGV1eHlqMmttRlpONHNMWk9RVHJ2Rk55M293",
    "source": "币界网",
    "published_at": "2026-10-10T18:26:13+00:00",
-   "outlets_count": 6,
+   "outlets_count": 7,
    "outlets": [
     {
      "name": "币界网",
@@ -3081,6 +3081,11 @@
      "name": "搜狐",
      "published_at": "2026-10-12T01:47:09+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV3JOSWNSekx3TnlwYUZwSWdNbElzalpCQkxSVmRmbFFlWUhuRWtMZzNHbkhlcFI1Uy1iMGlSbnM2djNXQV9sWGZlUzFoaUtjSDhpZi1ZSENzUjdRM3RnMGgzX2dmc1E3ZGhvcGdHR29ZZWtMSmtfQU1tOWw0NlNSWXgwQV9BOE5m"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-12T01:47:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUG1BbGJIYnVXaEdfS2VJT01nWi0yOUwzS1pzN3JudkJTMlo2TGlramVXUjFlMjdWdEs2U05iTzAzcWg0YVFNYmVNbkVzTWNGSkVBMUxka1R3eUw1MmZQanN5a3ZjVVZwXzIzWXZMQkx0YUhpYURyeGN5NkVDZGJ5NGc5Nk44dng4azk0"
     }
    ],
    "category": "其他",
@@ -6474,6 +6479,23 @@
    "sentiment": 1
   },
   {
+   "id": "a09ba96692d2",
+   "title": "Is the Options Market Predicting a Spike in NVIDIA Stock? - Zacks Investment Research",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2luQnlPZ1JPZWR1OERJLUNRSVpGUk1XQUVoVjI0cTFUS0UyYk9YQ005YW9hWnhmbUZlT0c5eXF3YTI3R25oNXRBdTkwNXk4N1BGM1NQQnNNMGdnU0cwOHEtNWZIVEs5VExnSkg1NWlpUXJSUlEzclZrcjYxZ3dhelhTWkJ2dngxeDBCYWRaWGN3VlpIQjFPaTBGX2ROUQ",
+   "source": "Zacks Investment Research",
+   "published_at": "2026-10-09T13:33:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Zacks Investment Research",
+     "published_at": "2026-10-09T13:33:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2luQnlPZ1JPZWR1OERJLUNRSVpGUk1XQUVoVjI0cTFUS0UyYk9YQ005YW9hWnhmbUZlT0c5eXF3YTI3R25oNXRBdTkwNXk4N1BGM1NQQnNNMGdnU0cwOHEtNWZIVEs5VExnSkg1NWlpUXJSUlEzclZrcjYxZ3dhelhTWkJ2dngxeDBCYWRaWGN3VlpIQjFPaTBGX2ROUQ"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
    "id": "13a493ea7fb7",
    "title": "Prediction: Nvidia Could Become the World’s First $10 Trillion Company on This Date - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOG8tREttM2JLbzMxZUlPTHp3ZmRWbzVQcmdnbGdBLXctT0ljUDEzZ19mYVlnMjNHY0lXYXNFakNqN0RwNWlldW5fcjRMeHoyNWt4NklNQkZBVGtuaDRzY0U0WUcxSXlOQm5CbHJUeEc3aHE5bmFxWGZ0NHdDR05zSFZxTWVwdDFIZWhXR2k3X0lsU1IxTk5fbkt1RUFkVGJwRHpENDBTNlZjelZOaEgwbzl5bnpYcVpDTE5tUHlSQ3B6Zw",
@@ -6645,26 +6667,6 @@
    "zh_summary": "英伟达10亿美元计划助力美国AI科研",
    "title_zh": "英伟达10亿美元计划加速美国AI科研竞赛",
    "sentiment": 1
-  },
-  {
-   "id": "4148ac81ab83",
-   "title": "Nvidia-Backed Firmus Cancels Mega IPO Over Market Volatility - TIKR.com",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkdXVmcwSWNQaTQ4UmkyVkV3eWc4QjRFWGg4QVBzQ3Y5M1lUYWlQNDVJMGx6eGd3SzhXaTYwUm5tcDFMb3E3eGhCaDRVRVZFTTN2NHg4a1ZGVTBvaDA1SFQxZVc4Yi1acVV1eEJka0hacEFGTzhCTXRmSVlVUnBuMnp3",
-   "source": "TIKR.com",
-   "published_at": "2026-10-09T13:03:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TIKR.com",
-     "published_at": "2026-10-09T13:03:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkdXVmcwSWNQaTQ4UmkyVkV3eWc4QjRFWGg4QVBzQ3Y5M1lUYWlQNDVJMGx6eGd3SzhXaTYwUm5tcDFMb3E3eGhCaDRVRVZFTTN2NHg4a1ZGVTBvaDA1SFQxZVc4Yi1acVV1eEJka0hacEFGTzhCTXRmSVlVUnBuMnp3"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "英伟达支持的Firmus因市场波动取消IPO",
-   "title_zh": "英伟达支持的Firmus因市场波动取消大型IPO",
-   "sentiment": 0
   }
  ]
 }
