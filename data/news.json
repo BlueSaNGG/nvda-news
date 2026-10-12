@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T13:36:34.521411+00:00",
+ "updated_at": "2026-10-12T13:51:26.564919+00:00",
  "market": {
-  "price": 227.6,
-  "change_pct": -0.73,
+  "price": 227.79,
+  "change_pct": -0.65,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 60
+   "avg": 0.23,
+   "count": 65
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 84% 分位（偏高）"
+     "note": "现价处于52周区间 85% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +38.4%"
+     "note": "目标价中位数 $315（15家），隐含空间 +38.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（60条已评分）"
+     "note": "今日新闻情绪 +0.23（65条已评分）"
     },
     {
      "key": "动量",
      "score": 1,
-     "note": "现价 $227.60 vs 20日均线 $227.57"
+     "note": "现价 $227.79 vs 20日均线 $227.57"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 84,
+   "price_52w_pct": 85,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 38.4,
+   "implied_upside_pct": 38.3,
    "ma20": 227.57,
-   "as_of": "2026-10-12T13:36:34.502418+00:00"
+   "as_of": "2026-10-12T13:51:26.535897+00:00"
   },
-  "pe_ttm": 28.9,
+  "pe_ttm": 29.0,
   "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+38.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+38.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,17 +62,56 @@
  },
  "stories": [
   {
+   "id": "6e5815cf9d3e",
+   "title": "Rob Newport's Xerxes Home Lab Blade-ifies Raspberry Pi CM5, NVIDIA Jetson COMs for Neat Clusters - Hackster.io",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQlFrQXZNaVhSVERjbzhVWklIdEoxdm9EdzZaamVYbldfU1dZMERFSFY5VHh6NnZTU29sUjNWYWtqZTF4dDZwem44Sk1iSHllTkUyYW9UNHpDMHJEaWFOTVExME8wbTdSV3Y4ellkckxFdHNrOGVtTEVvMGtRNWs1NlNTNV9SemowY3dPbjF0MHlwZ25UdVh5X2t6dUhPOGVsUkpQSnJlRElaZldPU1EyQVYxek8tVVVVUWIyU2lHUnY2d2tlVWtldW0zUWxaR0VJWUVr",
+   "source": "Hackster.io",
+   "published_at": "2026-10-12T13:43:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Hackster.io",
+     "published_at": "2026-10-12T13:43:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQlFrQXZNaVhSVERjbzhVWklIdEoxdm9EdzZaamVYbldfU1dZMERFSFY5VHh6NnZTU29sUjNWYWtqZTF4dDZwem44Sk1iSHllTkUyYW9UNHpDMHJEaWFOTVExME8wbTdSV3Y4ellkckxFdHNrOGVtTEVvMGtRNWs1NlNTNV9SemowY3dPbjF0MHlwZ25UdVh5X2t6dUhPOGVsUkpQSnJlRElaZldPU1EyQVYxek8tVVVVUWIyU2lHUnY2d2tlVWtldW0zUWxaR0VJWUVr"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "8897623b735b",
+   "title": "AI sets date when Nvidia stock will hit $10 trillion market cap - Finbold",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2RTVUJGOU9kdXE1aFZxVkJhM2hVRVlmNUpVYXdHdm5CdGpqRGtSb0pYRlRnUlhUZlN4SHF4TmxyRDlUU1Z4TVFNYy1rR2g0V0ZPeGYtcGFtdmMxeDA4b3pVOGtvNWFiOTJQZ2hLcUxkQUZhMm1NUXRRN3VTUEtudnVIYWc1bGNmODhuWmpR",
+   "source": "Finbold",
+   "published_at": "2026-10-12T13:31:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Finbold",
+     "published_at": "2026-10-12T13:31:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2RTVUJGOU9kdXE1aFZxVkJhM2hVRVlmNUpVYXdHdm5CdGpqRGtSb0pYRlRnUlhUZlN4SHF4TmxyRDlUU1Z4TVFNYy1rR2g0V0ZPeGYtcGFtdmMxeDA4b3pVOGtvNWFiOTJQZ2hLcUxkQUZhMm1NUXRRN3VTUEtudnVIYWc1bGNmODhuWmpR"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
    "id": "30eaed8891b4",
    "title": "Nvidia Has a $5.5 Trillion Valuation. Can the AI Giant Still Go Higher? - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZmFLSjFwdXJBYTlqa0JZTVVUWDZ1eE9EZzV3Mk9rV21pTm1Xc3hmeDllSWNpVXpBR2JucWJNWWFiZ1BHV2hvLTFxc2tzQlNrS08yZWdRMXZheW0zaFhwTVFkeWpsdzR1QmxFZGp4OFQ5dGJCUEJpWGh5WFR6aVZOX0NsMkR5SFRKNDZma05pa3N3SkxQM0JhdHY0V2pxY2R4SEJIRHpoWm1DeUNyWXNOamlB",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-12T13:30:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-12T13:30:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZmFLSjFwdXJBYTlqa0JZTVVUWDZ1eE9EZzV3Mk9rV21pTm1Xc3hmeDllSWNpVXpBR2JucWJNWWFiZ1BHV2hvLTFxc2tzQlNrS08yZWdRMXZheW0zaFhwTVFkeWpsdzR1QmxFZGp4OFQ5dGJCUEJpWGh5WFR6aVZOX0NsMkR5SFRKNDZma05pa3N3SkxQM0JhdHY0V2pxY2R4SEJIRHpoWm1DeUNyWXNOamlB"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-12T13:30:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TNXhtaVRLeEJRMHprSXI1MlBnVHZLMVVfRUdfaTR3X0MtQ3NRNTJwa21tZXV1TGMwT1FXVUZyS1JXZXRfVzZiVzFyc2g5YWt3NThMQUNBWWVSSTFXeW1TLXpXVmtOb3ctUHBRZW54Y0M4MEpaNDIzQUttZmI4UQ"
     }
    ],
    "category": "其他",
@@ -379,6 +418,23 @@
    "zh_summary": "英伟达投资Reflection传闻",
    "title_zh": "AI前瞻：亚马逊拟购Decart，英伟达投资Reflection",
    "sentiment": 1
+  },
+  {
+   "id": "7300b8fb90cb",
+   "title": "Report: RTX 5090 GPUs discontinued by Nvidia, as GB202 is reserved for AI workstation cards - Digital Foundry",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGdJa01PUTV6UmlTajA3RUxPNkxNclVfaHV4NGxHeTdTTzByOThmTkIwZHRZLWltS0NWakhxekdraTJIUnZJZUo1YnY2YW1FSFR2dUFWT08xaTNVWGgwSnZ1VUJUcjZMcV84SkU1UFdLeFk0Mk5kUGtWandCcVQ1dlZxdXNaNXBQYTN3X0hkMW1EV01ZbGxoNXNqZjZGd25WRTVNVjBCeFZwSjRFbm9hby01bmxWU3ZPSUNoQlhnd012ZVlRNmtwLV8xWUo1QQ",
+   "source": "Digital Foundry",
+   "published_at": "2026-10-12T12:44:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Digital Foundry",
+     "published_at": "2026-10-12T12:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdGdJa01PUTV6UmlTajA3RUxPNkxNclVfaHV4NGxHeTdTTzByOThmTkIwZHRZLWltS0NWakhxekdraTJIUnZJZUo1YnY2YW1FSFR2dUFWT08xaTNVWGgwSnZ1VUJUcjZMcV84SkU1UFdLeFk0Mk5kUGtWandCcVQ1dlZxdXNaNXBQYTN3X0hkMW1EV01ZbGxoNXNqZjZGd25WRTVNVjBCeFZwSjRFbm9hby01bmxWU3ZPSUNoQlhnd012ZVlRNmtwLV8xWUo1QQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "e7bc8c939439",
@@ -6598,76 +6654,6 @@
    "zh_summary": "OpenAI转向英伟达，CBRS回撤超50%",
    "title_zh": "CBRS股价预测：较历史高点回撤超50%，OpenAI转向英伟达削弱其战略地位，股价还会复苏吗？ - TradingKey",
    "sentiment": 1
-  },
-  {
-   "id": "a4cc72238570",
-   "title": "英伟达计划投资AI推理芯片竞争对手d-Matrix，推动“解耦推理”兼容生态 - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyaEJ2NGs5QkdKRG1LM0RHMlRoUGhCN0tNMlpvRGphMTQ2MEtWTVdHMnk4NEptS0xfanJ6TXN4QTBtcDJ1bXJjSnJaek5md2R5V0lSOUlpbEZ3R2V3",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-10T03:35:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-10T03:35:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyaEJ2NGs5QkdKRG1LM0RHMlRoUGhCN0tNMlpvRGphMTQ2MEtWTVdHMnk4NEptS0xfanJ6TXN4QTBtcDJ1bXJjSnJaek5md2R5V0lSOUlpbEZ3R2V3"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "英伟达拟投资推理芯片公司d-Matrix",
-   "title_zh": "英伟达计划投资AI推理芯片竞争对手d-Matrix，推动“解耦推理”兼容生态 - 电子工程专辑",
-   "sentiment": 1
-  },
-  {
-   "id": "9ecc57e13708",
-   "title": "MAG 7 Voices: How Nvidia, Microsoft, Alphabet, Meta Reshaped AI This Week - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXRFaXVwV0tpVEo3YXpEeXJ0TVREdjZESjBRdjhOdlFrUlNocVNINy1PczZyeVNiYl9sSGlrbHJvUUtMV25HaEZpY09yczB3UEhPcFdneEdUcGJNY1ZQYXJIaHNOV05ZQWZmT2xPOVZhMnVWY3QzcVJIc01yYlBubS1NYmNmVjR4NXRqTnY1YXJ1OTA2WnJzbQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-10T03:26:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-10T03:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXRFaXVwV0tpVEo3YXpEeXJ0TVREdjZESjBRdjhOdlFrUlNocVNINy1PczZyeVNiYl9sSGlrbHJvUUtMV25HaEZpY09yczB3UEhPcFdneEdUcGJNY1ZQYXJIaHNOV05ZQWZmT2xPOVZhMnVWY3QzcVJIc01yYlBubS1NYmNmVjR4NXRqTnY1YXJ1OTA2WnJzbQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达等七巨头重塑本周AI格局",
-   "title_zh": "七巨头声音：英伟达、微软等如何重塑本周AI格局",
-   "sentiment": 0
-  },
-  {
-   "id": "03b4abfce335",
-   "title": "【财经分析】英伟达股价连日回调 美股AI泡沫论演化之路怎么看？ - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iZDZ4TWJ6RnhyWmNIVnBSVWNMbEMtcEVXclJzRS1wWFRmemZUdGFPd0JFMFlmdklZa3Fsb1BIay1sM3lIX0VUekhSeFZNRVBReWtZdFdOTXcxaXpQR09jeFhLMlFRd1BHMmhMc2hrZXBvdE5kNUN2VA",
-   "source": "新浪财经",
-   "published_at": "2026-10-10T03:11:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-10T03:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iZDZ4TWJ6RnhyWmNIVnBSVWNMbEMtcEVXclJzRS1wWFRmemZUdGFPd0JFMFlmdklZa3Fsb1BIay1sM3lIX0VUekhSeFZNRVBReWtZdFdOTXcxaXpQR09jeFhLMlFRd1BHMmhMc2hrZXBvdE5kNUN2VA"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T03:43:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQak42UjVOc1gwbkZFYTVRbVkzVUFiVmpCZkgwOTBwb3l0NTZxTE1meWhzd29RTWhzd3ZyV2lDNndOOWVES3FpV0o3elRQQVFqY1ROX0hSbENocW1QOWlXa0s1WWo0YVh2WWxoaDVYREdBLV8wNF9zM2lpQUs5RXhYOU4ya20xeldLUTBOVg"
-    },
-    {
-     "name": "中国金融信息网",
-     "published_at": "2026-10-10T03:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LLUwtV1NaczBVZDFPczZ4akVuV3VwTFpqOU1EYjBxTG84X05WaTRpUkJlcTZKS0dRMlRsUURoclNYWjVSRnc4VkpLb1h0c25YQmRmTHJPTExrTVZNcVVyWGZCcGl2aFE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达股价连日回调，AI泡沫论演化",
-   "title_zh": "【财经分析】英伟达股价连日回调 美股AI泡沫论演化之路怎么看？ - 新浪财经",
-   "sentiment": -1
   }
  ]
 }
