@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T14:51:30.215485+00:00",
+ "updated_at": "2026-10-12T15:06:35.450783+00:00",
  "market": {
-  "price": 225.54,
-  "change_pct": -1.63,
+  "price": 225.99,
+  "change_pct": -1.43,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.15,
-   "count": 78
+   "avg": 0.13,
+   "count": 82
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.7%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（78条已评分）"
+     "note": "今日新闻情绪 +0.13（82条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $225.54 vs 20日均线 $227.46"
+     "note": "现价 $225.99 vs 20日均线 $227.49"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 82,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.7,
-   "ma20": 227.46,
-   "as_of": "2026-10-12T14:51:30.206058+00:00"
+   "implied_upside_pct": 39.4,
+   "ma20": 227.49,
+   "as_of": "2026-10-12T15:06:35.438079+00:00"
   },
   "pe_ttm": 28.7,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,113 @@
   }
  },
  "stories": [
+  {
+   "id": "775c5e4dcbeb",
+   "title": "Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide - NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHRtZFJkSHY5UmNqNElRSWs1Uk4tNTFMb09nWHl5Y0haeU1DcVVTYU1zdldja3lfY2hiTnZsNGJxek1OZzMtaDhMLWtyRUpqZHZtbzNvb19HYm1wbVVlcmR3cC1Qbk12VjU0U3V5cHduTW9ZQ1M1WlZaQzVNYnltLW5SYUQ",
+   "source": "NVIDIA Blog",
+   "published_at": "2026-10-12T15:03:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Blog",
+     "published_at": "2026-10-12T15:03:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHRtZFJkSHY5UmNqNElRSWs1Uk4tNTFMb09nWHl5Y0haeU1DcVVTYU1zdldja3lfY2hiTnZsNGJxek1OZzMtaDhMLWtyRUpqZHZtbzNvb19HYm1wbVVlcmR3cC1Qbk12VjU0U3V5cHduTW9ZQ1M1WlZaQzVNYnltLW5SYUQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "be8cf7c49a91",
+   "title": "Nvidia and Cisco unveil new USFP optical module for AI data centers - StreetInsider",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFZ4N3RIaS1ST3BxQzFZemZwVUhZNFVzVlhTSGpGVEUtU2JjR0xNTFd3bHE3YmZjZnJBTlNZeXlOc0dTWHBPRE1maks0T1hfRmozTGp4cml2Ui1lbXZob1YzcEpQVm1DZHd6ME83STI1SWNKenJ5OG1TYVBpU0tpay1XY1dyMVRIbjBOZEpxOHVhbEEwRzFYVE82c3RuX0s3Tl9mamNHYncwYkk3eC1lNWJXNnNQaUh5ZG9XeDUyWjhXaFF2",
+   "source": "StreetInsider",
+   "published_at": "2026-10-12T15:02:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "StreetInsider",
+     "published_at": "2026-10-12T15:02:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFZ4N3RIaS1ST3BxQzFZemZwVUhZNFVzVlhTSGpGVEUtU2JjR0xNTFd3bHE3YmZjZnJBTlNZeXlOc0dTWHBPRE1maks0T1hfRmozTGp4cml2Ui1lbXZob1YzcEpQVm1DZHd6ME83STI1SWNKenJ5OG1TYVBpU0tpay1XY1dyMVRIbjBOZEpxOHVhbEEwRzFYVE82c3RuX0s3Tl9mamNHYncwYkk3eC1lNWJXNnNQaUh5ZG9XeDUyWjhXaFF2"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "cb05aa5c6787",
+   "title": "Nvidia and Cisco unveil pluggable optics for AI factories - GamesBeat",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTndWczFocmNONEU2Z0VjZVl2RzUySGpHRl9TQnFBOU9ITFR3OEdfQWZUcEtTQ2N3RzZlcERzemtPbS01bDdoUnE3MGxYZ0NrSDdCQnVBTXpZend4NnBZZVk0RThaMkplTWxxQ0RVNEdwMzl0OUlnb0N1R0xIMXZEN3NMV0tJb1U",
+   "source": "GamesBeat",
+   "published_at": "2026-10-12T15:01:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "GamesBeat",
+     "published_at": "2026-10-12T15:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTndWczFocmNONEU2Z0VjZVl2RzUySGpHRl9TQnFBOU9ITFR3OEdfQWZUcEtTQ2N3RzZlcERzemtPbS01bDdoUnE3MGxYZ0NrSDdCQnVBTXpZend4NnBZZVk0RThaMkplTWxxQ0RVNEdwMzl0OUlnb0N1R0xIMXZEN3NMV0tJb1U"
+    },
+    {
+     "name": "NVIDIA Newsroom",
+     "published_at": "2026-10-12T15:03:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU25leElMeUlqdXdSV1pBVElBWWh2aU5tSElwcG9RSFR4d1A3TlRSeE40M3N2a1htZ25BcDlyMHJsdmRwcWRmSDlXbTBha1J5RkFwVzVGMjdNVjJ0RDBWX3lpTXBrQW51MnhGa2xBX0kxell3QlFKNG9vTERORmd6TDdLbDlwUFg5bGRmVXh3Z2VTbGhCQk4yd1hkRHlUZFNvclR4MG1LUFlkcktHUDZWNEJyTjlPckU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "79ca9014c9e1",
+   "title": "DG Matrix Unveils Interport 360 SST and Interport OS for AI Factories Based on NVIDIA MGX - Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeDJvM2VSWTNIUjN3VlA0MGVLSlZKMUV0OXRZblZEMElWajlLNUZQbHNjTzdrNzgwc1RhdDdpajExcXhIVzVPUnhZb2REa2NWMWU1WjlPWXFrZkhpZUtjQzRpVkN5VUF4SkV6UFFtajViU1I1aXFRLXNIb3dKNzdEUmFIdUx2OWNyMHRIb0s2REV1T2tBZkxzNVpDMnVUeDdRVl9keWJBN1MxN0NGVmdaRGZXbWlNU3pOMFR1ZUlQaVQ4a0d6RUo1REFlT1FtY1hsSlcxMnZkU3dhU041dF8w",
+   "source": "Business Wire",
+   "published_at": "2026-10-12T15:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Wire",
+     "published_at": "2026-10-12T15:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeDJvM2VSWTNIUjN3VlA0MGVLSlZKMUV0OXRZblZEMElWajlLNUZQbHNjTzdrNzgwc1RhdDdpajExcXhIVzVPUnhZb2REa2NWMWU1WjlPWXFrZkhpZUtjQzRpVkN5VUF4SkV6UFFtajViU1I1aXFRLXNIb3dKNzdEUmFIdUx2OWNyMHRIb0s2REV1T2tBZkxzNVpDMnVUeDdRVl9keWJBN1MxN0NGVmdaRGZXbWlNU3pOMFR1ZUlQaVQ4a0d6RUo1REFlT1FtY1hsSlcxMnZkU3dhU041dF8w"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "a71f95561c8d",
+   "title": "Nvidia may be killing off the RTX 5090 as AI chips take priority over gaming GPUs - TechSpot",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcFlINFpKRm5YSEVlN19UQW1YQkhLSjVSRHNfT0dJRWI1b3lDRUY5MTdEbURRZk1ialBUYzl0ZXhsMFl3VjFvXzZEcmstLWlnRHhjUktYWWpVQkZ5ZUZKeFNZZnlCVUcybmgtWTk3RmF5M2ZESkJ3OFhyNmpYVEI5blEyejgxRE9NQUE",
+   "source": "TechSpot",
+   "published_at": "2026-10-12T14:59:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechSpot",
+     "published_at": "2026-10-12T14:59:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcFlINFpKRm5YSEVlN19UQW1YQkhLSjVSRHNfT0dJRWI1b3lDRUY5MTdEbURRZk1ialBUYzl0ZXhsMFl3VjFvXzZEcmstLWlnRHhjUktYWWpVQkZ5ZUZKeFNZZnlCVUcybmgtWTk3RmF5M2ZESkJ3OFhyNmpYVEI5blEyejgxRE9NQUE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "828439646ff6",
+   "title": "Global markets live: Nvidia, Apple, Microsoft, Amazon, Broadcom… - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLW5iTV9ZZjRRX2lhUlhDZ3I2bS1QTVpraXFGWFZYcTFzc09DMm5tbTJKdXRLVmRER3ZTcXg5dGprTEd6RW11SElQYWRjcjVYVndTOGJoSTNaNXFvZk9UWUE5ZEhWRmNUZ1pFV3dMcWtFY0t1elVuTURTM2ZIV2szT2hRdUlLb3VoNEdMTEwzbEFKZzVqS016WWYyMmJLT2p4bW1ZejVobGhMdUUyOXdCcEkwOA",
+   "source": "marketscreener.com",
+   "published_at": "2026-10-12T14:49:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-12T14:49:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLW5iTV9ZZjRRX2lhUlhDZ3I2bS1QTVpraXFGWFZYcTFzc09DMm5tbTJKdXRLVmRER3ZTcXg5dGprTEd6RW11SElQYWRjcjVYVndTOGJoSTNaNXFvZk9UWUE5ZEhWRmNUZ1pFV3dMcWtFY0t1elVuTURTM2ZIV2szT2hRdUlLb3VoNEdMTEwzbEFKZzVqS016WWYyMmJLT2p4bW1ZejVobGhMdUUyOXdCcEkwOA"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
   {
    "id": "cce3ffda7580",
    "title": "Zacks.com featured highlights include NVIDIA, Marathon Petroleum, Ralph Lauren and Lincoln Electric - The Globe and Mail",
@@ -262,6 +369,23 @@
    "sentiment": 0
   },
   {
+   "id": "3fa97c05b824",
+   "title": "近30亿元！弘信电子子公司大手笔采购算力芯片，该子公司系英伟达双精英级合作伙伴 - 每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95Nm9DdGI1YjRFczJKdWp3YThMdUpIQzRsSENtYnNLTE1lMWFqOUFMUWtsUWtWa01sNlU2X3piRm1ka0N4YkJLOFJtNnl3Q1RNTWtScjFBLVNZU2pjd0ZuMkNtRUpWdw",
+   "source": "每日经济新闻",
+   "published_at": "2026-10-12T13:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "每日经济新闻",
+     "published_at": "2026-10-12T13:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95Nm9DdGI1YjRFczJKdWp3YThMdUpIQzRsSENtYnNLTE1lMWFqOUFMUWtsUWtWa01sNlU2X3piRm1ka0N4YkJLOFJtNnl3Q1RNTWtScjFBLVNZU2pjd0ZuMkNtRUpWdw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
    "id": "8897623b735b",
    "title": "AI sets date when Nvidia stock will hit $10 trillion market cap - Finbold",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2RTVUJGOU9kdXE1aFZxVkJhM2hVRVlmNUpVYXdHdm5CdGpqRGtSb0pYRlRnUlhUZlN4SHF4TmxyRDlUU1Z4TVFNYy1rR2g0V0ZPeGYtcGFtdmMxeDA4b3pVOGtvNWFiOTJQZ2hLcUxkQUZhMm1NUXRRN3VTUEtudnVIYWc1bGNmODhuWmpR",
@@ -441,12 +565,17 @@
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeTV1SnZoUHBOQmZ6Y29QZS1ham9ZRkhZejkxWmpQOWFKOVFHZ2dSVFhBOG1IMXNJalF6TXFHYjRUQnFXZzBOdk1NQ1NnTDQ1enhjd081ekRFbjdoTEhFNnptLXh0eWFsdFBGcS1TYkVuOUN3SWR2VjdoZmMyMXhHWU1OLXkxRi02c2tfU0FfV010SUthajVDQWtmdVNMY0x4ZEo5SUo5b2l3aC13dzFLUmVxc01Ccm90TmVYbUZuWEk1VW1GWk5YMWZjVXZScWxMNlVlMF9vM0JFWVpRalBwQVlmN2FKUjF4YXU4TzdWZWtnd19iT3VxUUVB",
    "source": "Zacks Investment Research",
    "published_at": "2026-10-12T13:10:56+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Zacks Investment Research",
      "published_at": "2026-10-12T13:10:56+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeTV1SnZoUHBOQmZ6Y29QZS1ham9ZRkhZejkxWmpQOWFKOVFHZ2dSVFhBOG1IMXNJalF6TXFHYjRUQnFXZzBOdk1NQ1NnTDQ1enhjd081ekRFbjdoTEhFNnptLXh0eWFsdFBGcS1TYkVuOUN3SWR2VjdoZmMyMXhHWU1OLXkxRi02c2tfU0FfV010SUthajVDQWtmdVNMY0x4ZEo5SUo5b2l3aC13dzFLUmVxc01Ccm90TmVYbUZuWEk1VW1GWk5YMWZjVXZScWxMNlVlMF9vM0JFWVpRalBwQVlmN2FKUjF4YXU4TzdWZWtnd19iT3VxUUVB"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-12T14:45:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMUhzSzUtUTRvOUZwSmhxTGhCdHFVSWYwLVV1Y1gyTkdldGJwN21rNWpfalZOXzBuaDhueER3dmltRzVWUDhGWENmem9JbEZiSExPSDA3c2JuSm42TEZoMnNEQ3dEU2tacEFBcTZpR19BLWRxeU0tODBzQWgyWllYVm9ZNHQ3Y0xvN3VPREpDQ2xuRGdzS1hJOWp4V2toeE1LTGJVYUVEaXB0QVk0OVdNTnM4ZEJHVzVsTG04cEEydkprUEtkN05VWGdYaUdrdjVRTGpTUHZUNTRKR2JqUHNjX214VDhXMUg0LVNBLTU4Z2pzSFNsQ0toWGZpU1lSZw"
     }
    ],
    "category": "供应链",
@@ -640,12 +769,17 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUdTQ0Y3V29DYXhOaVI2M0FtZm84c0hoUXlMVmgwMWI4U01zaHpKdV8xRk9vOEt3c0oxNl9XT3lZMjVmZVBieXZJQ2FCQzY1Qno4S3o2R2pSNGNDb2xYX3NVMHpPWDVkLWF1ZTljcUU0OEFEVi1yeWtYdzhmMnNNZ2c3dU1HOGMyYzFLRFZNcDJ0WnVzdnpUbW13NlJPR1BZNWY0ZEZkZnJRYzdPZ3AySkN4ZHZvQQ",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-12T12:46:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-12T12:46:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUdTQ0Y3V29DYXhOaVI2M0FtZm84c0hoUXlMVmgwMWI4U01zaHpKdV8xRk9vOEt3c0oxNl9XT3lZMjVmZVBieXZJQ2FCQzY1Qno4S3o2R2pSNGNDb2xYX3NVMHpPWDVkLWF1ZTljcUU0OEFEVi1yeWtYdzhmMnNNZ2c3dU1HOGMyYzFLRFZNcDJ0WnVzdnpUbW13NlJPR1BZNWY0ZEZkZnJRYzdPZ3AySkN4ZHZvQQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-12T12:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFBtQVRaYlBLcDBGamYzekh1TjNYNlJWdEtpUGJQTTRjUTJfcnExZHpyQS1fdGlGd2t0U1p1d25FRVRjVlRadlplb1lWa3R4YWdFUmFTTVotRkJEQTlzdkVSZG00dGlBTjdrMzdWcDJOdnE3TGZQZmVqV0JpbmlPYXF4aXBrNlo3Q2dGRkhVbWNuaUFCWWdxRXZ4SQ"
     }
    ],
    "category": "其他",
@@ -1202,6 +1336,23 @@
    "zh_summary": "芯片股最惨一周后开盘涨跌互现",
    "title_zh": "英特尔、AMD、英伟达、美光：经历近一月最惨一周后盘前涨跌互现",
    "sentiment": 0
+  },
+  {
+   "id": "67425b1e6b54",
+   "title": "Nvidia and Reflection AI: Three Ways the Deal Could Go - Intelligent Living",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0WkpFYzIzd2Y2QkE2T2F6eDFqSWF4dXZGWkhSRHdQZFNJOGlTeHU1dGpNd2RsV0t5THVJMEVqRDdPUzJwZXFPVmZnbGEzV3lvTlhmUGpISC1vNGt1dXN2TFV3bG9fZkZQbWhkMzByb0taMl9ORmQ0",
+   "source": "Intelligent Living",
+   "published_at": "2026-10-12T08:44:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Intelligent Living",
+     "published_at": "2026-10-12T08:44:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0WkpFYzIzd2Y2QkE2T2F6eDFqSWF4dXZGWkhSRHdQZFNJOGlTeHU1dGpNd2RsV0t5THVJMEVqRDdPUzJwZXFPVmZnbGEzV3lvTlhmUGpISC1vNGt1dXN2TFV3bG9fZkZQbWhkMzByb0taMl9ORmQ0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "9c4ff1492320",
@@ -6513,166 +6664,6 @@
    "zh_summary": "谈四巨头节后行情展望",
    "title_zh": "$SpaceX (SPCX.US)$ $甲骨文 (ORCL.US)$ $英伟达 (NVDA.US)$ $英特尔 (INTC.US)$ 过完节应该是另一种景象了吧 - Moomoo",
    "sentiment": 0
-  },
-  {
-   "id": "44e15d762b3e",
-   "title": "NVIDIA Corporation $NVDA Stock: L2 Asset Management LLC Raises Stake - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGQ0NWJrQnl5djdGb0RSSnZqWUoxRTNuZHJldERYczRrWXhrXzVUUmV6VDBMUFNJWkVQZUxXZUVZbEowT21kbDRaa2JUVUVpUjFCLWM5Snh2X3ZnV3RsQ0lsZlM0Vnk3QjhyUkowZmpNamY2bDRWMktyZVByV1ZwbDJlSmRSWlp4Sm5jTTJ6VW5KVk9WMVNNbkZGWEkzU3VjTFhSZXh1VHI5Y0VlbHlUU3dVN0xyRy11Ni1kMlNoUUxodFBHeUE",
-   "source": "MarketBeat",
-   "published_at": "2026-10-10T07:32:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-10T07:32:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGQ0NWJrQnl5djdGb0RSSnZqWUoxRTNuZHJldERYczRrWXhrXzVUUmV6VDBMUFNJWkVQZUxXZUVZbEowT21kbDRaa2JUVUVpUjFCLWM5Snh2X3ZnV3RsQ0lsZlM0Vnk3QjhyUkowZmpNamY2bDRWMktyZVByV1ZwbDJlSmRSWlp4Sm5jTTJ6VW5KVk9WMVNNbkZGWEkzU3VjTFhSZXh1VHI5Y0VlbHlUU3dVN0xyRy11Ni1kMlNoUUxodFBHeUE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "L2资产管理增持英伟达股票",
-   "title_zh": "L2资产管理增持英伟达$NVDA股票",
-   "sentiment": 1
-  },
-  {
-   "id": "981599d397e6",
-   "title": "NVIDIA Corporation $NVDA Stock: Fiduciary Financial Advisors Grows Stake - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcTRIbWNGSldWN2x1MmtXTzdrWVZiR3hUaElCTGpBME1LVUNPaE1VT0xCMHVLSGIwUWZmd01LWTBQV0tzWUZmV0ZCbHJWUXB3YVZuQkItYUptb1pXSEZZM21weFBwYkNKMk1PZmRHUVlMdzFObnZlY2Z1eUplZm96eFk2LW95a2pZdW5wUFVJYXlRZFRubkEtVnpLZVRvRENEWjdaVm8zS3BWTmdhTzdLZ1NseW92dVdzVHdHLWpsQmN0akZuMmVJMlM4Zw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-10T07:32:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-10T07:32:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcTRIbWNGSldWN2x1MmtXTzdrWVZiR3hUaElCTGpBME1LVUNPaE1VT0xCMHVLSGIwUWZmd01LWTBQV0tzWUZmV0ZCbHJWUXB3YVZuQkItYUptb1pXSEZZM21weFBwYkNKMk1PZmRHUVlMdzFObnZlY2Z1eUplZm96eFk2LW95a2pZdW5wUFVJYXlRZFRubkEtVnpLZVRvRENEWjdaVm8zS3BWTmdhTzdLZ1NseW92dVdzVHdHLWpsQmN0akZuMmVJMlM4Zw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Fiduciary财务顾问增持英伟达",
-   "title_zh": "Fiduciary财务顾问增持英伟达$NVDA股票",
-   "sentiment": 1
-  },
-  {
-   "id": "d432313f7326",
-   "title": "Manning & Napier Advisors LLC Sells 320,275 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPam52WkE1QUdwY2NBWHIycWhWM2FoV3lzZ0t4M0JXR3BXd3gzRUgxUVJ6NWVsLUcyaDJ3MGVNN1phRFV1c2NhOFZwTV96UG5Ncl8yYmtFazFhQ3EzMkE4RHpTdm15Z25BMTNud2s4X0RsZnVZY09XQVZBZnJkbk9YRWJFMHB1WEZzT1YzclNidm1QTHJLUDlORHRQWXNSZnJUT3RWUnhGUW1uWk4wbjlZSFZpOFR3SnRGYVd1dXpFTGl1ekJLcUNVaENXdnc5ZFFJ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-10T07:32:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-10T07:32:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPam52WkE1QUdwY2NBWHIycWhWM2FoV3lzZ0t4M0JXR3BXd3gzRUgxUVJ6NWVsLUcyaDJ3MGVNN1phRFV1c2NhOFZwTV96UG5Ncl8yYmtFazFhQ3EzMkE4RHpTdm15Z25BMTNud2s4X0RsZnVZY09XQVZBZnJkbk9YRWJFMHB1WEZzT1YzclNidm1QTHJLUDlORHRQWXNSZnJUT3RWUnhGUW1uWk4wbjlZSFZpOFR3SnRGYVd1dXpFTGl1ekJLcUNVaENXdnc5ZFFJ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Manning Napier减持320275股英伟达",
-   "title_zh": "Manning & Napier减持320,275股英伟达股票",
-   "sentiment": -1
-  },
-  {
-   "id": "85d8bfe376d8",
-   "title": "Gallo Partners LP Purchases New Stake in NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVhraThkbW4tYlJtX2N6bnY2dFVOT2Y5Qlh2T0tVa2lJUTBOV0xkUndRUFBVdVI5b040Z3F3VTNvZUtJQ081UjZTcjI4RmxsYlc3T3UxNGJRZkJyUFoySWNVZHpBWHQ3S1RQUGJIOWlEMFM0bnZVMFRLeXlKaDVKSWVoenNEVXJESDJoYVFqM3phZmdyb2xQeVRlSi05SWZ4bTBzNU9GdW9CQmNVMWtTM3NJaVhtOHRoYWtldnVJZW9Cekk",
-   "source": "MarketBeat",
-   "published_at": "2026-10-10T07:32:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-10T07:32:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVhraThkbW4tYlJtX2N6bnY2dFVOT2Y5Qlh2T0tVa2lJUTBOV0xkUndRUFBVdVI5b040Z3F3VTNvZUtJQ081UjZTcjI4RmxsYlc3T3UxNGJRZkJyUFoySWNVZHpBWHQ3S1RQUGJIOWlEMFM0bnZVMFRLeXlKaDVKSWVoenNEVXJESDJoYVFqM3phZmdyb2xQeVRlSi05SWZ4bTBzNU9GdW9CQmNVMWtTM3NJaVhtOHRoYWtldnVJZW9Cekk"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Gallo Partners新建仓英伟达",
-   "title_zh": "Gallo Partners新买入英伟达$NVDA股票",
-   "sentiment": 1
-  },
-  {
-   "id": "0c0cd3abdf82",
-   "title": "8月国内辅助驾驶域控芯片装机量：英伟达、地平线位居前二 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zSU9xVUM4Tk9ZRzctV0pyb1JDTWNlNGhES2JyMDFqUmNnX2lxbEw4ejF1aGwtWTRkUE1XMjgzTnQweHB3UVVrUHRYcDVaVGRrZmMzYTZZUnJ3V0E",
-   "source": "汽车之家",
-   "published_at": "2026-10-10T07:23:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-10T07:23:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zSU9xVUM4Tk9ZRzctV0pyb1JDTWNlNGhES2JyMDFqUmNnX2lxbEw4ejF1aGwtWTRkUE1XMjgzTnQweHB3UVVrUHRYcDVaVGRrZmMzYTZZUnJ3V0E"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "8月智驾芯片装机量英伟达居前二",
-   "title_zh": "8月国内辅助驾驶域控芯片装机量：英伟达、地平线位居前二 - 汽车之家",
-   "sentiment": 1
-  },
-  {
-   "id": "7882d6d0e890",
-   "title": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series - VideoCardz.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcExaZXhVWXRWdVdGWDB6M1d2S3B1LWxmZUktVG5FbUxCd2pSWEJ2dVNaWWFRaE52ekdYOU0xMl9lMThxWDRQYnA2dmZ2cUpwZnh3Y2p2RnhsdVNDdjJGdXFKNUFxa2JDbDFqTHBvcUpZV1g5aWs4dW1IUmVGbzk0U2l5dnlkV3BoSGJBVlpQaXZpYjFZdGlGNUhicXhIOGxVQkdXcWQxX25SMFVJRTNyR2Nndw",
-   "source": "VideoCardz.com",
-   "published_at": "2026-10-10T07:21:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "VideoCardz.com",
-     "published_at": "2026-10-10T07:21:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcExaZXhVWXRWdVdGWDB6M1d2S3B1LWxmZUktVG5FbUxCd2pSWEJ2dVNaWWFRaE52ekdYOU0xMl9lMThxWDRQYnA2dmZ2cUpwZnh3Y2p2RnhsdVNDdjJGdXFKNUFxa2JDbDFqTHBvcUpZV1g5aWs4dW1IUmVGbzk0U2l5dnlkV3BoSGJBVlpQaXZpYjFZdGlGNUhicXhIOGxVQkdXcWQxX25SMFVJRTNyR2Nndw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "传RTX 5090停产，GB202转向专业卡",
-   "title_zh": "传英伟达停产RTX 5090，GB202留给专业显卡",
-   "sentiment": 0
-  },
-  {
-   "id": "5af4a88cbfff",
-   "title": "智驾芯片“双强”格局持续强化：英伟达第一，地平线稳居第二，份额差距缩小_公司新闻_财经 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiOWdJdEJZVjZBVmRhUGRFQ3JQSUwwcHlqUnFhY2tlOXVueEtyTThGVmxGUnVwZUExYVZZazdZZDhOLVotdWZBLS1kRXBGcTZTNW1feEduSDRZb01tY2lLdw",
-   "source": "证券之星",
-   "published_at": "2026-10-10T07:16:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-10T07:16:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiOWdJdEJZVjZBVmRhUGRFQ3JQSUwwcHlqUnFhY2tlOXVueEtyTThGVmxGUnVwZUExYVZZazdZZDhOLVotdWZBLS1kRXBGcTZTNW1feEduSDRZb01tY2lLdw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "智驾芯片双强格局英伟达第一",
-   "title_zh": "智驾芯片“双强”格局持续强化：英伟达第一，地平线稳居第二，份额差距缩小_公司新闻_财经 - 证券之星",
-   "sentiment": 0
-  },
-  {
-   "id": "3c06eb74587a",
-   "title": "NVIDIA Corporation $NVDA Stock Sold by Algert Global LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUcxQ3BaY2x2R1g5UVVWRzZqWktPeTE4dkV3SkcxVlM4WC1nS2xSaWJsQjUwVVZNWWQxSE4zU0JIRFNPMU15bVlGVldCbXJRUnJNUVp5bklSTmUweUZCbGMwNXBQTWJjc0UtakV3OFo0VmFuZWhFbHZjZm9BZzlQZGtZY0RyRVNSTGs2WWN1OU0zR2lsZWFta2VxSzJseERZcHV1WWtfZy1IZWlpTWQyMWFqYWNiLWs",
-   "source": "MarketBeat",
-   "published_at": "2026-10-10T07:10:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-10T07:10:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUcxQ3BaY2x2R1g5UVVWRzZqWktPeTE4dkV3SkcxVlM4WC1nS2xSaWJsQjUwVVZNWWQxSE4zU0JIRFNPMU15bVlGVldCbXJRUnJNUVp5bklSTmUweUZCbGMwNXBQTWJjc0UtakV3OFo0VmFuZWhFbHZjZm9BZzlQZGtZY0RyRVNSTGs2WWN1OU0zR2lsZWFta2VxSzJseERZcHV1WWtfZy1IZWlpTWQyMWFqYWNiLWs"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Legal&General减持英伟达",
-   "title_zh": "Legal & General减持英伟达股份",
-   "sentiment": -1
   }
  ]
 }
