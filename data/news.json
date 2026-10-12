@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T20:06:27.712196+00:00",
+ "updated_at": "2026-10-12T20:21:30.053992+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,8 +10,8 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.14,
-   "count": 156
+   "avg": 0.15,
+   "count": 157
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.14（156条已评分）"
+     "note": "今日新闻情绪 +0.15（157条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-12T20:06:27.688312+00:00"
+   "as_of": "2026-10-12T20:21:30.040781+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6bd2ce535543",
+   "title": "NVIDIA tests $226 support confluence: Live levels - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVZkYnJrNU5tZlRXdUxuREg0OUdGUjNkU2Z0c0NsazNaWDRicVNoMnE2TmxrZDBMY2VtejdOaUZoa3JXdWE3LWFKSHhLM2JQZk1NVVVCMlVUX1pWWHA1NmJNTXpOeXE2NEI3Y1RSY1FiVXFHWFBvc01oWWg0WTNYR1lTQmNlcGJ3aEx1MUMxbndIZ1BUanNGM2UtMWhsMUJsUEwtTXZTMUQxY0FjM0o4cVBBTlNCY3p3czZyampGNnpEdw",
+   "source": "Investing.com",
+   "published_at": "2026-10-12T20:12:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-12T20:12:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVZkYnJrNU5tZlRXdUxuREg0OUdGUjNkU2Z0c0NsazNaWDRicVNoMnE2TmxrZDBMY2VtejdOaUZoa3JXdWE3LWFKSHhLM2JQZk1NVVVCMlVUX1pWWHA1NmJNTXpOeXE2NEI3Y1RSY1FiVXFHWFBvc01oWWg0WTNYR1lTQmNlcGJ3aEx1MUMxbndIZ1BUanNGM2UtMWhsMUJsUEwtTXZTMUQxY0FjM0o4cVBBTlNCY3p3czZyampGNnpEdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "611f3194b35f",
    "title": "Your Nvidia RTX GPU Can Make Old Videos Look Better - Here's How - BGR",
@@ -1594,6 +1611,23 @@
    "zh_summary": "家庭实验室刀片机支持Jetson模组",
    "title_zh": "Xerxes Home Lab推出支持树莓派CM5与英伟达Jetson的集群刀片",
    "sentiment": 0
+  },
+  {
+   "id": "34cfe62c4750",
+   "title": "英伟达DGX Spark推出64GB版本 本地AI能力再升级 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUN3OHpQSHlFN3R0eXBKUnJvclp3N09GQndjWVMwVDBESmZVZ0dERmFfdXYzR2NIVURySzFTbVI1dURZbi1OV0RXM1JyQlJqRGdKOTRpWHJySFVtWEhSUkVQT3B6bWR2eEJrTUZyOWpybjBGb1M4SjFGWTFfSkhPUWFfOC03ekx6",
+   "source": "搜狐",
+   "published_at": "2026-10-12T13:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-12T13:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUN3OHpQSHlFN3R0eXBKUnJvclp3N09GQndjWVMwVDBESmZVZ0dERmFfdXYzR2NIVURySzFTbVI1dURZbi1OV0RXM1JyQlJqRGdKOTRpWHJySFVtWEhSUkVQT3B6bWR2eEJrTUZyOWpybjBGb1M4SjFGWTFfSkhPUWFfOC03ekx6"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "3fa97c05b824",
@@ -6530,46 +6564,6 @@
    "zh_summary": "英伟达洽谈收购Reflection AI",
    "title_zh": "英伟达加码布局开放AI模型！据悉正洽谈收购Reflection AI - 财联社",
    "sentiment": 1
-  },
-  {
-   "id": "b2dc90ec0713",
-   "title": "业绩承压下豪购2万张英伟达GPU！天阳科技股价涨超12% - 第一财经",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUExHSEFTQ2hYdGR0cFF0UFQ1TEtsTVprYnBrRkZLazdPbjh3a2V5WTJmQWZqekx2MkRiUW16N3FNUjlKMW8tM1VvRFlfYkItbTI0",
-   "source": "第一财经",
-   "published_at": "2026-10-10T20:59:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "第一财经",
-     "published_at": "2026-10-10T20:59:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUExHSEFTQ2hYdGR0cFF0UFQ1TEtsTVprYnBrRkZLazdPbjh3a2V5WTJmQWZqekx2MkRiUW16N3FNUjlKMW8tM1VvRFlfYkItbTI0"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "天阳科技豪购2万张英伟达GPU",
-   "title_zh": "业绩承压下豪购2万张英伟达GPU！天阳科技股价涨超12% - 第一财经",
-   "sentiment": 1
-  },
-  {
-   "id": "f10bca178624",
-   "title": "New mod brings NVIDIA's DLSS 3.7 upscaling to AMD Radeon GPUs - TweakTown",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnFmakpyQlpsaG5keXdaMUxvUzhvdXh3OE5Gck1ZS29HdVlRMWtzc01sNGJrdUp6QjhWN3JSLUd5bmxxXzZTWE1CSG0yTHZNTndkYk9FdmtGVmZsLWhoaFd5ekFnUHVpZHRLNHNHT2p4NF9hQ2VIVHNyN1owMmFrQkdGM3dnREVON2RxTktJQ1VrcFVSMHNjZko2NS00YWd5amFGZXRZdkNLdmFUZVE",
-   "source": "TweakTown",
-   "published_at": "2026-10-10T20:50:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TweakTown",
-     "published_at": "2026-10-10T20:50:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnFmakpyQlpsaG5keXdaMUxvUzhvdXh3OE5Gck1ZS29HdVlRMWtzc01sNGJrdUp6QjhWN3JSLUd5bmxxXzZTWE1CSG0yTHZNTndkYk9FdmtGVmZsLWhoaFd5ekFnUHVpZHRLNHNHT2p4NF9hQ2VIVHNyN1owMmFrQkdGM3dnREVON2RxTktJQ1VrcFVSMHNjZko2NS00YWd5amFGZXRZdkNLdmFUZVE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "新模组让AMD显卡用上DLSS 3.7",
-   "title_zh": "新模组将英伟达DLSS 3.7超采样带到AMD显卡",
-   "sentiment": 0
   }
  ]
 }
