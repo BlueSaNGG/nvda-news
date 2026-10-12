@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T18:36:33.788603+00:00",
+ "updated_at": "2026-10-12T18:51:28.348451+00:00",
  "market": {
-  "price": 226.67,
-  "change_pct": -1.14,
+  "price": 226.52,
+  "change_pct": -1.2,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.18,
-   "count": 139
+   "count": 142
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.0%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（139条已评分）"
+     "note": "今日新闻情绪 +0.18（142条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $226.67 vs 20日均线 $227.52"
+     "note": "现价 $226.52 vs 20日均线 $227.51"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 83,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.0,
-   "ma20": 227.52,
-   "as_of": "2026-10-12T18:36:33.772410+00:00"
+   "implied_upside_pct": 39.1,
+   "ma20": 227.51,
+   "as_of": "2026-10-12T18:51:28.327758+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.0%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -627,6 +627,23 @@
    "sentiment": 1
   },
   {
+   "id": "4e7e98b97280",
+   "title": "NVIDIA RTX 5080 24 GB GPU Expected To Arrive In Q1 2027 As The New Flagship Blackwell GeForce GPU - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUG1BTVJER212NndfQ21KRlFEM2ZBNExrTVROb0dRdjlld0ZPZG9IcWVIcmxKRGdPMDJZMHB2VVpqckhzSElXQjNtMFROY2p2U2FIZk9pX25IVkNuTWtlZ290NGItMTExbWhPczhqYzRaTzN5b2VXRklJcWtDd3BUQXlWY9IBiAFBVV95cUxQcldxQmZmd1JuZlBmX0ZWay1IQmdQUXh1NVJpb3NtNDAxUk9XdnVOeTJiY2R1aWVtUmIxci1qazVsdkVmaWVUQlhEUTFBX0U4Ri1MUVBXTHZFcjcyYzNQdDhQaUJXUS1ZRjBJakVKeFMxTTV3cHlUT3NsTGE2VUV0TUdHSG1FMTNM",
+   "source": "Wccftech",
+   "published_at": "2026-10-12T15:13:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-12T15:13:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUG1BTVJER212NndfQ21KRlFEM2ZBNExrTVROb0dRdjlld0ZPZG9IcWVIcmxKRGdPMDJZMHB2VVpqckhzSElXQjNtMFROY2p2U2FIZk9pX25IVkNuTWtlZ290NGItMTExbWhPczhqYzRaTzN5b2VXRklJcWtDd3BUQXlWY9IBiAFBVV95cUxQcldxQmZmd1JuZlBmX0ZWay1IQmdQUXh1NVJpb3NtNDAxUk9XdnVOeTJiY2R1aWVtUmIxci1qazVsdkVmaWVUQlhEUTFBX0U4Ri1MUVBXTHZFcjcyYzNQdDhQaUJXUS1ZRjBJakVKeFMxTTV3cHlUT3NsTGE2VUV0TUdHSG1FMTNM"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "953a4f6eafdd",
    "title": "NVIDIA and Cisco Announce USFP, a 400Gb/s-per-Lane Optical Module for Next-Generation AI Fabrics - Quiver Quantitative",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRnVOQjBrRVJ6WjZmUmhaWUlqMnFKM1pnXzNpMDU3LW1wUzk2MFlFLWRoTldIMV9nYW1EejA4UGoyMDlodHZmUFp1dFJra2NIUkk4NDVhc2FTVXRad1N2dEhocTdqSzhDRXB6RWl1bmh2bXFNdVlRcHc2TXdIa3ZEZFRlZXM0dGJ6ZTFyX0tmcUx6RTVGQVUxZGs2T3BRV05hbERrM3V6ZVNjRDVaQjB6QkpLN1REckV1LUJ1SlBQYzcyUW44VGUxRVN2b1dtQQ",
@@ -872,6 +889,23 @@
    "sentiment": 1
   },
   {
+   "id": "0fd1c4fde6fe",
+   "title": "NVIDIA Hands Its Vera Rubin Rack Designs To OCP, Stripping Compute Trays Of Every Cable, Hose, And Fan - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjBrUXRWSTc3NEVTc294M1NIQXY4MTV1a1l1NXJjZlVKWXUwNmo4YW5pYUlLVWJsVWZTMURLZUNOSzRLaVp5VkhFU2ZtSXpmZWtYb3k0aUdRcDZIYmF5OEs1aG0tWjVhQ3JLbF9wdW1LU1dRQm5jQlR3dEFCMFVzeHhoeDNDUWVjcHhFZnBR0gGTAUFVX3lxTE1HX0Utc3dQVTZ3M2pFamQwQWlTbE00Q3BPTjZITXpLZXY1eHc3aVEwb2xBV01yemp1UHJKQ081OGJnUzdFcWpncVNSOTg5YUpKaWJ6YnRCTDZZM2lKVlVTRHJTZzA5VjJkWjVjel9KVGlBVHNaMkJzLTFlZ1Q3eXpkX3o0bHVrMTBXRkRkT0lBeHB1WQ",
+   "source": "Wccftech",
+   "published_at": "2026-10-12T15:00:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-12T15:00:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjBrUXRWSTc3NEVTc294M1NIQXY4MTV1a1l1NXJjZlVKWXUwNmo4YW5pYUlLVWJsVWZTMURLZUNOSzRLaVp5VkhFU2ZtSXpmZWtYb3k0aUdRcDZIYmF5OEs1aG0tWjVhQ3JLbF9wdW1LU1dRQm5jQlR3dEFCMFVzeHhoeDNDUWVjcHhFZnBR0gGTAUFVX3lxTE1HX0Utc3dQVTZ3M2pFamQwQWlTbE00Q3BPTjZITXpLZXY1eHc3aVEwb2xBV01yemp1UHJKQ081OGJnUzdFcWpncVNSOTg5YUpKaWJ6YnRCTDZZM2lKVlVTRHJTZzA5VjJkWjVjel9KVGlBVHNaMkJzLTFlZ1Q3eXpkX3o0bHVrMTBXRkRkT0lBeHB1WQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
    "id": "79ca9014c9e1",
    "title": "DG Matrix Unveils Interport 360 SST and Interport OS for AI Factories Based on NVIDIA MGX - Business Wire",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeDJvM2VSWTNIUjN3VlA0MGVLSlZKMUV0OXRZblZEMElWajlLNUZQbHNjTzdrNzgwc1RhdDdpajExcXhIVzVPUnhZb2REa2NWMWU1WjlPWXFrZkhpZUtjQzRpVkN5VUF4SkV6UFFtajViU1I1aXFRLXNIb3dKNzdEUmFIdUx2OWNyMHRIb0s2REV1T2tBZkxzNVpDMnVUeDdRVl9keWJBN1MxN0NGVmdaRGZXbWlNU3pOMFR1ZUlQaVQ4a0d6RUo1REFlT1FtY1hsSlcxMnZkU3dhU041dF8w",
@@ -897,7 +931,7 @@
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQmJBRTgzQTlZMjdPa0xseTlVMFVYenQ5alEtYkdiLWswSVVpNnlFakNsc1Q3SFFKdTJSaE5vREI1ZDR5ZHY5eUczdjlkcy0wN2hoSXRxUmFXcE94RzdiRXM3b0dpYmNhSEFOa01QSU55VDlFMFA4SG5DejRfUnJOQzdZUnIyZ2dHQmlhWUEwdkZWUmM2LWs4cXNxOE8xUmp3c0d6SzlMX2twTXBpNzNCT0taOGd4MXR5eDdabHRacmkzSTJYeTJiLXBPWXh6amdweTFsUnhmaVRaeGtPeGd6TkZZYzJLdGhv",
    "source": "GlobeNewswire",
    "published_at": "2026-10-12T15:00:00+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "GlobeNewswire",
@@ -923,6 +957,11 @@
      "name": "Fierce Network",
      "published_at": "2026-10-12T17:34:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeDFDa0N2bnFBMFZCblNWX2xrTDhJNnZBVVY0bm90c21TSWxoa1R2RVdJNVRHd3lzRzhwSWk0WTlaRGE0RWZuN1JIN25hOHJfNVgwMDF4X19DTV9aZGV2OEVZOHJRdktZYkl0REhQT29mMDdGV0RsN0VoMjhhUWZLNURSeUs4VE9pV0xxaFFNMTJfcXQzeTJRdU9FR281SVRLcHRDS19iRQ"
+    },
+    {
+     "name": "Cisco Newsroom",
+     "published_at": "2026-10-12T15:09:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVo3M2FCNkl0RU44dmtMQ2I5d3BvRS02Z1hxQTZidEhsaGZ6ajd2RlFaZ21rTHNLNElfdVBBQm91UGJvMkZuZEtOcTBGY1dqX0J3YlpyS1NDRzJCU3lXMWxfOU5rU1dwZWRGb2w3MjRSX1J2U3c2WVNjOVRqQWVuSFgwZzhrWmh5VEQ1bGNDS0IwbzllMVVocXdiakoxazdNaFlZREZncklpeVdSODJKUnF0LWVYeWd1MDRjLVMzYw"
     }
    ],
    "category": "其他",
@@ -1739,6 +1778,23 @@
    "sentiment": 1
   },
   {
+   "id": "64980db50c14",
+   "title": "Super Micro contractor pleaded guilty to smuggling $2.5B in Nvidia AI servers to China - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOTRLZFJhaUh6NGFhdFVBekhsZjVoTW15NDREWFYyZ1RXTTJhRnBycUFqejdmODNHOFNkcUtfY3ptN3hRSTZiS1RSaEthTkQzekV6WGJtWXk3OC10MENsWXNRdUJ0MTI3eENHNVI1clJfM1BGS3RrOVZRaUJfT2hvcFl1OC1xZUU",
+   "source": "Quartz",
+   "published_at": "2026-10-12T12:47:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-12T12:47:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOTRLZFJhaUh6NGFhdFVBekhsZjVoTW15NDREWFYyZ1RXTTJhRnBycUFqejdmODNHOFNkcUtfY3ptN3hRSTZiS1RSaEthTkQzekV6WGJtWXk3OC10MENsWXNRdUJ0MTI3eENHNVI1clJfM1BGS3RrOVZRaUJfT2hvcFl1OC1xZUU"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
+  {
    "id": "0a75683904f6",
    "title": "Someone Just Spent $21 Million Betting Nvidia Falls Below $180 by January - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUdTQ0Y3V29DYXhOaVI2M0FtZm84c0hoUXlMVmgwMWI4U01zaHpKdV8xRk9vOEt3c0oxNl9XT3lZMjVmZVBieXZJQ2FCQzY1Qno4S3o2R2pSNGNDb2xYX3NVMHpPWDVkLWF1ZTljcUU0OEFEVi1yeWtYdzhmMnNNZ2c3dU1HOGMyYzFLRFZNcDJ0WnVzdnpUbW13NlJPR1BZNWY0ZEZkZnJRYzdPZ3AySkN4ZHZvQQ",
@@ -1862,6 +1918,23 @@
    "zh_summary": "英伟达RTX Spark 10月16日北京首发",
    "title_zh": "英伟达发微博： NVIDIA RTX Spark10月16日北京首发_7x24快讯_新浪财经 - 手机新浪网",
    "sentiment": 1
+  },
+  {
+   "id": "b60e916cb1bd",
+   "title": "《财富》未来增长潜力120强：11家中企入选 英伟达、OpenAI、苹果上榜 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFB0QXZWM01aMTJvQllib1VQZXF2djBydjFTd3h1ZldfUG1zWHNBbTVSQ0pIV3JwSzBueTN5b3lyTTljMkxzOUtVekJxR0ZlbF9zcmlHeGhNVmwtdzM2TXpXT241b2JxZlpRRTJZTUJ6dHNEVXQ2MTBhZk9yVTB2MjAyWkpwMG94UWZvMg",
+   "source": "搜狐",
+   "published_at": "2026-10-12T12:22:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-12T12:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFB0QXZWM01aMTJvQllib1VQZXF2djBydjFTd3h1ZldfUG1zWHNBbTVSQ0pIV3JwSzBueTN5b3lyTTljMkxzOUtVekJxR0ZlbF9zcmlHeGhNVmwtdzM2TXpXT241b2JxZlpRRTJZTUJ6dHNEVXQ2MTBhZk9yVTB2MjAyWkpwMG94UWZvMg"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
   },
   {
    "id": "9309714924e8",
@@ -3327,7 +3400,7 @@
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhbW9tSTA5MVhGRGxNSVFJOFVmUkxxSzBCbzB3MkkybjVIQUlEVFRQYlIxa3pESllCV0pmQW11ZzFaamEyYmc",
    "source": "财联社电报",
    "published_at": "2026-10-12T02:52:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "财联社电报",
@@ -3338,13 +3411,22 @@
      "name": "华盛通",
      "published_at": "2026-10-12T17:52:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52NFMtYXZVbDBzampLVDZNZjUyV2xWbmxmV2NqbEFqSnBvYTktZ1lETFc3bUt1R2YyaXRYZFZDUmFfY1pNMDYyT3c1MDNCUE5qYW53UGhKMFRCVlNIaEt5c2V3"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-12T18:28:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbDB0SGY4Uk4wZzRZS1ZMT2xOUGFaYXZsWmQwUnB3OVgtYnkwRmlpOEpUQTA5X2Vya1hfOW9FTVB4ZVpBenBHRWg3d0tHYmVNSnR4MTZGVDYyRVpWZEpZQVFIMjl3XzBQdjVkZFdBVUZuT1FUUkhtaDFyaWZhRllPTGlmaUsxYkpzaERoRQ"
     }
    ],
    "category": "其他",
    "session": "周末",
    "zh_summary": "英伟达推进盲插液冷、800V供电等新标准",
    "title_zh": "盲插液冷、800V供电、下一代可插拔光模块：英伟达推进新标准 港美股资讯 - 华盛通",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -1.03,
+    "window_h": 2.0
+   }
   },
   {
    "id": "8551aee53418",
@@ -6480,174 +6562,6 @@
    "zh_summary": "传英伟达停产RTX5090，芯片专供专业卡",
    "title_zh": "曝英伟达停产RTX 5090，GB202芯片专供专业卡 - 搜狐",
    "sentiment": 0
-  },
-  {
-   "id": "0debd01e5f69",
-   "title": "Report: Nvidia Eyes Reflection AI Takeover as the AI Arms Race Heats Up - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0JueHF0dGo3LWRNQ3g2QnZIWGpGM2JlNGtEVDhtaHBTRXdQUjgtSXd4TkFlM2xILUtmOGdrWmZmbjFERVYza1FJX05OUDMyakVhZFlYMnhnVmxhVkJYc0FXbjctYmp0ODRTYjc5dVYwZjQ2VXdYVk85c0tjMXAxcUdkR3lJejRQTnNFS0FYb2FtUVpycFhPWng1Qm9pMUlWdld4djR6UEtOZ19qYjRWbDZwSzk",
-   "source": "Benzinga",
-   "published_at": "2026-10-10T19:15:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-10T19:15:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0JueHF0dGo3LWRNQ3g2QnZIWGpGM2JlNGtEVDhtaHBTRXdQUjgtSXd4TkFlM2xILUtmOGdrWmZmbjFERVYza1FJX05OUDMyakVhZFlYMnhnVmxhVkJYc0FXbjctYmp0ODRTYjc5dVYwZjQ2VXdYVk85c0tjMXAxcUdkR3lJejRQTnNFS0FYb2FtUVpycFhPWng1Qm9pMUlWdld4djR6UEtOZ19qYjRWbDZwSzk"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达拟收购Reflection AI",
-   "title_zh": "报道称英伟达有意收购Reflection AI，AI军备竞赛升温",
-   "sentiment": 1
-  },
-  {
-   "id": "109718b9cd09",
-   "title": "Nvidia Discusses Boosting Reflection Investment, Computing Deal - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEhNbm44LUd6U3ZnU2t4ZXVxVlBObW55LURVTlJjcnNOWHJmZEhwNEd4UDdiWHFwaDBZSGw0blpidEN3QldtTl9haFYwNjVpUFJYTVRUOHJ6bU9SZE5jLUVzT2ItQXk4cjNhVEk5TnlBZnIxeE5SZ2x2cW9XRFVRb2lDQkdlWUF5S01CN1RKZGxnRWQ0aVhFNmhaS2VFUXhYVlAtYjJnUlBoSFZ6VUE",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-10T18:52:58+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-10T18:52:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEhNbm44LUd6U3ZnU2t4ZXVxVlBObW55LURVTlJjcnNOWHJmZEhwNEd4UDdiWHFwaDBZSGw0blpidEN3QldtTl9haFYwNjVpUFJYTVRUOHJ6bU9SZE5jLUVzT2ItQXk4cjNhVEk5TnlBZnIxeE5SZ2x2cW9XRFVRb2lDQkdlWUF5S01CN1RKZGxnRWQ0aVhFNmhaS2VFUXhYVlAtYjJnUlBoSFZ6VUE"
-    },
-    {
-     "name": "NDTV Profit",
-     "published_at": "2026-10-11T05:55:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQajk1bWpDdkZrWERuSkNoUnNKaHJsTHUwazduS3owYW5BZTBrQXdfZEhtVVNqSUlHVDE1amxGQ056MGhnU0JHUHNEWUhULXluUDJjUk1SWElMZDJpOWprdUVFdnNLQ0lkVW94TU1saFl2Y0N1UkpsZzVGZjIxUmRDeGs5TXBSWVozd2gxdHlUcFlXV1U5ZFJKZS10b3hiVjhLS0phMm01dmZjVmRWZ1HSAbYBQVVfeXFMUDhITHBjdVRvdk1vVERQTm9LNzdsaWhycGd2VmNBV0w1SUswTXE3ZXJlMHlkX2Y5MjFGc2lzNml3a1F5N2ZPSVhZNnNSeXNsZG9WWURvOXhjUjBDemgwS3VRSnY5TElqSEZzYTVmVnh6RnpFUGNJSmpQY3JPZHNIZmVCVXdWSm40VGNSbXFjMHhVU1ZpUkJqbjkxLUpzSDM4VmJ0OTVnazVkRVJlbU1tdElkNm56cnc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达商讨增资Reflection并合作",
-   "title_zh": "英伟达商讨增资Reflection并达成算力合作",
-   "sentiment": 1
-  },
-  {
-   "id": "5d9ad8e76855",
-   "title": "Nvidia in talks to buy Reflection AI or deepen its investment, FT reports - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcDloWWQxU3pPSXFIWGFfSUF6R0w5SW82RWhmNFZBSHIyOEw0U1Y0ejRlNjc0VWVXdVIwM255OVU1NmtmbkZaaDByT0pNOWRLR2d5Vm1ZSU9UU2pFc3BGUHB2TkszczFRU2doTDBqZllKald2ZjRQZmw0TmlGYmlTYk1neEFsaXFhbkF4ZTJnWXVtY2VOalBqc1R3Qmsybi1rUEthNzhUSmM0SnRobTU0bG1DS3MtXzJNRzFCZlBpV2t2S0k",
-   "source": "marketscreener.com",
-   "published_at": "2026-10-10T18:41:31+00:00",
-   "outlets_count": 8,
-   "outlets": [
-    {
-     "name": "marketscreener.com",
-     "published_at": "2026-10-10T18:41:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcDloWWQxU3pPSXFIWGFfSUF6R0w5SW82RWhmNFZBSHIyOEw0U1Y0ejRlNjc0VWVXdVIwM255OVU1NmtmbkZaaDByT0pNOWRLR2d5Vm1ZSU9UU2pFc3BGUHB2TkszczFRU2doTDBqZllKald2ZjRQZmw0TmlGYmlTYk1neEFsaXFhbkF4ZTJnWXVtY2VOalBqc1R3Qmsybi1rUEthNzhUSmM0SnRobTU0bG1DS3MtXzJNRzFCZlBpV2t2S0k"
-    },
-    {
-     "name": "StreetInsider",
-     "published_at": "2026-10-10T19:34:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdFVpMklJVGNUaV9zdjgtM1Y0OXEweGhFc1E4TTJuM3ZLUGF4RmNINDJITHQ2T0lMMjd4RDNIY2E2MFlhQTdGcms0cldONDNrZHdobjdNOFpYaFVJY0tJMUhwUW9BLV8ya2Q3QkxSb29XWGljOTJRb2dfWkYwcGFuLUVtT0ZfamJIS3lXY21UMkxDU3lJLXlOMncwSUliSFZKSEl6Mzk1ZmtOQWpIVGsyOGJoVFhHQV9NT1l6eEh1bWptQzgz"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-10T19:25:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNU9sT3hMdTNzbFhTNXU0X0tZUnIwOS0zSEdxMGhnQTNucE83M3RRRGdaUkI5TkZpYWRBNmVUaXZ3X0k1bkk5N0JVREE1ZjE5Q3RYVUVCT055QjEtbDB4dlpHdmtod0ZVUHlYaXotcGFwWmxTT0E2cWljMEFiRWxrWWh4ZlFVNmEtWWJmUnZQR21JN3ZwcWNlamdiamdaVl82azVyajJGMUpEckZMdzdfdW95S21uQXVOemRIRVd1cWlJX0I3MWpjdVJ1X0V2QzdOc0t0OUdhTXU"
-    },
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-10T19:33:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc"
-    },
-    {
-     "name": "Central Oregon Daily",
-     "published_at": "2026-10-10T19:32:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPd3JCTUlibjA5dXN3X2FzYlhTczB4YlZFcmt4cmwwMHIyeUxLNWk4a29JdGhvTW5ZYkNBUjRsWUVsNWo3R0J0QWlyRGFhM21LMXo4RW5ybVBhQUJVTnFLM1dEcEpBbm5xYm9xeHpEeHZuZHRYWFNNR1hVZEwwX0huTFk1R3dHM09kWFBocG1wT19PV3AtZWw4dE1ueHpRajlScmZvak5zc1JIcFpvczFMUGVENzZGRm5YNDdDLXhIQm0yTldnRThzMnp6VnVXaHgxMmxkQ2x1eE9nSkNmMk9yM3pNdVMxcFNvdkRFdzFWcVRUamhybEZoR0tsZnhleDQ"
-    },
-    {
-     "name": "The Lufkin Daily News",
-     "published_at": "2026-10-10T19:32:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQeExYalU2VTZPb3ZObFBfc1lQbEE1bVVHWEh6VWFWaHo2SEs2QzlHOGI3Njd4SzgxSU9OUFlzWFNkbHNJLU1YWlJLVFRCRUJHYkI5OHdOTi1HQUR2U05tZ0ZWQ2NvN3E5a0hFbmNmbmtWMmhROUpSREhTdE05Q1RobDQwZWFlRWNSaXI5a2VzYldtQnpwZm1NQUUxTVNESWJsS2pHWTBPcUhPLW42eDQtODJJWjNsRzN6ZDZ4TFRSaDd5SXNDeHdqckExZmZwdVZHSUctNVd3VEgtU2RGTGVtSmNwQVZTTlEtWHdqc1RxSnBIWGVjc09sRjJIUXE3MjZ0"
-    },
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-10T23:48:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTTRtMjIwWk96dHZOc0pzekVaWnBiTkxTdW14alA1YUluNzRxRnlYZXBNYnpyQi1aVWpiVzNBVzhZU3liT3lpTzhtbVpSMlpTbklKUU83U085MzlEc0pQeTcwb3NVWG44ZGhDYXBMME9xcUktTXRmbGZpLU9QZi1CY3REbFdkRE1NUnF1cG5fcHVCM3ZvbS1HSjVXZnpsdkxFU291ZW5lODF1b05uTjU2MmlNaVdGaEY2VDJ3RFh6UWp5Uk0x"
-    },
-    {
-     "name": "The Next Web",
-     "published_at": "2026-10-12T08:30:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TQUl2ZWNDcGF5SU85Rk1WbTNXb1RpMHc3VTZLTjhJY0QwUml0UENLUm1lUXl1ZmJ1dWQweVJ2TXBLVF9XdDlzN2JSRzZseXItWkJUbzVHNGM2clJGMlo3OG05aUgxcVptTDZzWmdlS0dobXFvZEtYYg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达洽谈收购Reflection AI",
-   "title_zh": "英伟达洽谈收购Reflection AI或加深投资，FT报道",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.2,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "c9c620c36e7a",
-   "title": "英伟达洽谈收购AI初创公司Reflection AI - 币界网",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVM3Vrbk5pM2gzLUZTZldPQ2ZkOGluNVcycWx3OFlkUVVNZFc1dEtJM2ZaRG51SS15SGV1eHlqMmttRlpONHNMWk9RVHJ2Rk55M293",
-   "source": "币界网",
-   "published_at": "2026-10-10T18:26:13+00:00",
-   "outlets_count": 9,
-   "outlets": [
-    {
-     "name": "币界网",
-     "published_at": "2026-10-10T18:26:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVM3Vrbk5pM2gzLUZTZldPQ2ZkOGluNVcycWx3OFlkUVVNZFc1dEtJM2ZaRG51SS15SGV1eHlqMmttRlpONHNMWk9RVHJ2Rk55M293"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-10T18:34:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMjROT2pwTzlrbjlrNzkwRGdrcl9TT0dMMWdEd3pIalNmRXJOMU9qT2VYLVVNclpSZU1Oa3htT1NsMnl5ZVF4amZTVVhqdlNwZUk5UFByTnZKYzZXX2FoaVNCbFprQWlTeTNCWUdqU0RqQV9WSHV4TUhObzQ1TTcyMGJFM3R5dEIxVzRiWmNDTU9CbVJsR1g5NndDOEZWbUJ2bTFtdnZn"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-12T00:47:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yRDY0LTBNQ0tCSjlwUVE1S1dLQ2FGZDhKUlJVazlINURJQTllMjNreUg3dHBpTGdLMmRNZkJMaGk1OFlrNzJRd19OeENQcWtzVzRwaVktcGdjNEFlOUt6QVptNF93QQ"
-    },
-    {
-     "name": "观点网",
-     "published_at": "2026-10-12T01:47:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03MF9yWmJlWjltUjNGNU1yaUlDdzF5bDlJYldGcTIyRHh2RUF0aGZMWXFGaVVNQm5MWXUtYUt4ZkFVV281RV9Bb2t4eHdoemlLRGZCTk9Fc3lIbUNOYVM1OW1R"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-12T00:36:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNUxWLUc1cnRBU3RCbU9VczhkUVVYbVlPZzVkM3BZb2VfNHhZQ0paVzhqS0J3b2QxN0JUTWlqS3lHUklhcDRoTjN6UUxtN0VLakI2dGFKSnFNaGZoNzFUd0tlQW9XZEtPV3dicFJWbjkteXZOOW1rUXl1ZlQ3dDItUkN3"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-12T01:47:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV3JOSWNSekx3TnlwYUZwSWdNbElzalpCQkxSVmRmbFFlWUhuRWtMZzNHbkhlcFI1Uy1iMGlSbnM2djNXQV9sWGZlUzFoaUtjSDhpZi1ZSENzUjdRM3RnMGgzX2dmc1E3ZGhvcGdHR29ZZWtMSmtfQU1tOWw0NlNSWXgwQV9BOE5m"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-12T01:47:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUG1BbGJIYnVXaEdfS2VJT01nWi0yOUwzS1pzN3JudkJTMlo2TGlramVXUjFlMjdWdEs2U05iTzAzcWg0YVFNYmVNbkVzTWNGSkVBMUxka1R3eUw1MmZQanN5a3ZjVVZwXzIzWXZMQkx0YUhpYURyeGN5NkVDZGJ5NGc5Nk44dng4azk0"
-    },
-    {
-     "name": "品玩",
-     "published_at": "2026-10-12T02:34:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54VlFfNndULWJIb3dtVG5DV3hCYjduUEt6QnUxRVpsZldKRHBQRnVJNUUzOGI0azlRcDFiSlN0c2VNLS13bElOTQ"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-12T00:30:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5R1VGLVBZRU1TZjFOWUFPdXI1VE9SQ2pEbmtnMzhLMFJmcGVyRDU5a205ZEpOSWlmYlN3NXJWejdCTVFmRy0zeXY0OA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达洽谈收购AI初创ReflectionAI",
-   "title_zh": "英伟达洽谈收购AI初创公司Reflection AI - 币界网",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.2,
-    "window_h": 0.1
-   }
   }
  ]
 }
