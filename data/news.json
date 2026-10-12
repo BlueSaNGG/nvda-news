@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T16:06:32.249037+00:00",
+ "updated_at": "2026-10-12T16:21:28.220084+00:00",
  "market": {
-  "price": 226.8,
-  "change_pct": -1.08,
+  "price": 226.62,
+  "change_pct": -1.16,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.28,
-   "count": 113
+   "count": 117
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +38.9%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（113条已评分）"
+     "note": "今日新闻情绪 +0.28（117条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $226.80 vs 20日均线 $227.53"
+     "note": "现价 $226.62 vs 20日均线 $227.52"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 83,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 38.9,
-   "ma20": 227.53,
-   "as_of": "2026-10-12T16:06:32.234168+00:00"
+   "implied_upside_pct": 39.0,
+   "ma20": 227.52,
+   "as_of": "2026-10-12T16:21:28.198786+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+38.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "10b3302b9dcc",
+   "title": "Nvidia reportedly ends GeForce RTX 5090 graphics card production - GamesIndustry.biz",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWE5R29MM2tsRjhwcEduWlVfWnlacVV2Y0IzTV82RTNKd3pmTDktOTNrNTFWZDhkMlpxck5uRWNrRm5GcThBc3lUT0NuaDVnenI3VEtYMVk0WVlhazRIX0s3V2owdFh2QWlLSmtGN0FJaTgzQ2Y3ZmdmYmZHdi1RZWF6bW5fQXVxdjM2dlpmbHZQNkhmV3pPN2R3",
+   "source": "GamesIndustry.biz",
+   "published_at": "2026-10-12T16:17:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GamesIndustry.biz",
+     "published_at": "2026-10-12T16:17:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORWE5R29MM2tsRjhwcEduWlVfWnlacVV2Y0IzTV82RTNKd3pmTDktOTNrNTFWZDhkMlpxck5uRWNrRm5GcThBc3lUT0NuaDVnenI3VEtYMVk0WVlhazRIX0s3V2owdFh2QWlLSmtGN0FJaTgzQ2Y3ZmdmYmZHdi1RZWF6bW5fQXVxdjM2dlpmbHZQNkhmV3pPN2R3"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "58da25e128bb",
+   "title": "Nvidia are abandoning their RTX 5090 graphics cards in order to focus on AI dev friendly RTX Pro ones, leaker claims - Rock Paper Shotgun",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZjl6Um0zNGxlNjlxVlo3RTlZUm02cTdJT19wbnhPQ2ZpVjNaRVBzVS1tRldxQm9SMllKdk96dkFwMVBDcEVaN0kxc0Q3VWRLZFd1VkRuazJhR0R1YkhXenloN2JZNUVyRG80SEE0WkUtMXMwSF92YjhqX2dzal9WTjM5Umc0eDhxUlA5TjhJSEU5MnFrM3h3N0k5WXVmV3lyQVlGenJBV0YtaHRmNGpPRnA3d3hoSXAtVFVmWFlwTF9mUUozbi0zTE5UcktyVjJmY043N0FGQ2dvcGxfVU5nRjdB",
+   "source": "Rock Paper Shotgun",
+   "published_at": "2026-10-12T16:06:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Rock Paper Shotgun",
+     "published_at": "2026-10-12T16:06:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZjl6Um0zNGxlNjlxVlo3RTlZUm02cTdJT19wbnhPQ2ZpVjNaRVBzVS1tRldxQm9SMllKdk96dkFwMVBDcEVaN0kxc0Q3VWRLZFd1VkRuazJhR0R1YkhXenloN2JZNUVyRG80SEE0WkUtMXMwSF92YjhqX2dzal9WTjM5Umc0eDhxUlA5TjhJSEU5MnFrM3h3N0k5WXVmV3lyQVlGenJBV0YtaHRmNGpPRnA3d3hoSXAtVFVmWFlwTF9mUUozbi0zTE5UcktyVjJmY043N0FGQ2dvcGxfVU5nRjdB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "f07fb62bd787",
+   "title": "Nvidia shares fall 1% as Microsoft develops new AI chip - Proactive financial news",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3NUYWFudy1BMjRyTm5BNGFyRHFFdzd3Wm96RGpobm1ra0pXWjJLNGVnU0l6S3JHRWk4QlYzb2lwMUhJQUdFaThVWTgwRGVaT0lBYU8xY3lCOTJKcUY1VEFLRHpEQW5ndU1hQ19TanZqZU83WEc3X2hsWGt4dDhVQjlJZEVqcFlSaGM3WDRjSHd2bFlPZW9fbUkzcWFaRUZ6WTE0OU9MUEl4TGQtY1MxVmpjNFF4TWM4dnNTeC1PZFU4aWs",
+   "source": "Proactive financial news",
+   "published_at": "2026-10-12T16:02:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Proactive financial news",
+     "published_at": "2026-10-12T16:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3NUYWFudy1BMjRyTm5BNGFyRHFFdzd3Wm96RGpobm1ra0pXWjJLNGVnU0l6S3JHRWk4QlYzb2lwMUhJQUdFaThVWTgwRGVaT0lBYU8xY3lCOTJKcUY1VEFLRHpEQW5ndU1hQ19TanZqZU83WEc3X2hsWGt4dDhVQjlJZEVqcFlSaGM3WDRjSHd2bFlPZW9fbUkzcWFaRUZ6WTE0OU9MUEl4TGQtY1MxVmpjNFF4TWM4dnNTeC1PZFU4aWs"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "ff7751c0cc2d",
    "title": "ASUS Debuts XA P2N-E2 Server With Dual NVIDIA Vera CPUs at OCP - Unite.AI",
@@ -477,7 +528,7 @@
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQmJBRTgzQTlZMjdPa0xseTlVMFVYenQ5alEtYkdiLWswSVVpNnlFakNsc1Q3SFFKdTJSaE5vREI1ZDR5ZHY5eUczdjlkcy0wN2hoSXRxUmFXcE94RzdiRXM3b0dpYmNhSEFOa01QSU55VDlFMFA4SG5DejRfUnJOQzdZUnIyZ2dHQmlhWUEwdkZWUmM2LWs4cXNxOE8xUmp3c0d6SzlMX2twTXBpNzNCT0taOGd4MXR5eDdabHRacmkzSTJYeTJiLXBPWXh6amdweTFsUnhmaVRaeGtPeGd6TkZZYzJLdGhv",
    "source": "GlobeNewswire",
    "published_at": "2026-10-12T15:00:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "GlobeNewswire",
@@ -493,10 +544,16 @@
      "name": "NVIDIA Newsroom",
      "published_at": "2026-10-12T15:03:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU25leElMeUlqdXdSV1pBVElBWWh2aU5tSElwcG9RSFR4d1A3TlRSeE40M3N2a1htZ25BcDlyMHJsdmRwcWRmSDlXbTBha1J5RkFwVzVGMjdNVjJ0RDBWX3lpTXBrQW51MnhGa2xBX0kxell3QlFKNG9vTERORmd6TDdLbDlwUFg5bGRmVXh3Z2VTbGhCQk4yd1hkRHlUZFNvclR4MG1LUFlkcktHUDZWNEJyTjlPckU"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-12T15:34:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZE45cUNIMm8wOEd5MFl6WklqVjRVS195U0g5amlES1NaNXNQWnFZbWF2eDQ4clZBQ2Z4eUFXc1l0U3NLZW9EM3FLbXdjZk9pd1NhbG16c3hlTkJCTTRud0NieXlHYm1IeGExRHFhODVzN1ZMeUgtbUh1OE5nS1ZDbHJGUVV4djBYNlhWVmxObnlxYlNZenh5LUltVUFVYTVQMk1wU2tTbFNfaTE3dnNPdTdHMHBhODgtSGxZMVptS1k0U3hWNWlidWhNeEZISW5lOHBKQ0llZVYteDAxTkJtcg"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "英伟达思科推可插拔光模块",
    "title_zh": "英伟达与思科为AI工厂推出可插拔光模块",
    "sentiment": 1,
@@ -6586,81 +6643,6 @@
    "zh_summary": "英伟达停产RTX 5090，转产AI数据中心GPU",
    "title_zh": "英伟达据报停产RTX 5090，转向AI数据中心与专业GPU",
    "sentiment": 1
-  },
-  {
-   "id": "8b58874cb44a",
-   "title": "What a New Groq Lawsuit Means for Nvidia Stock Holders - Barchart.com",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFpjRFRtTzV5Rzh5YmxhMFJkMktGNlhNajdidjJ5ZXhnUlhnX0xuU1dja1l5TGF6cnhsOUVtMVlxWjdHUFJnS1N3MzlqcmVPUWJrbEVsME5aVUxIQkZQS3BSNGNmX09mbFo2Uy1YUVluLU1YT1dJME5hekRhSl94RVVQdEc1UUM3dUQ5ZWp1azhDSWZCcG5Fd0tiaUIzUmM",
-   "source": "Barchart.com",
-   "published_at": "2026-10-10T12:08:48+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Barchart.com",
-     "published_at": "2026-10-10T12:08:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFpjRFRtTzV5Rzh5YmxhMFJkMktGNlhNajdidjJ5ZXhnUlhnX0xuU1dja1l5TGF6cnhsOUVtMVlxWjdHUFJnS1N3MzlqcmVPUWJrbEVsME5aVUxIQkZQS3BSNGNmX09mbFo2Uy1YUVluLU1YT1dJME5hekRhSl94RVVQdEc1UUM3dUQ5ZWp1azhDSWZCcG5Fd0tiaUIzUmM"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-10T12:08:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXVpcEdGbERBQ0RjbnpLVGEyZGQ2eW5lLWV3amRWd2UxX1VZTUxOOVl4N3hWZXBJN1pqcE9IOURrMnVuM2ZTeWJ3dEljTS02NGlFWndDNzZuUTJVZ0dXSlcxUTBpZjhZSEJPaDVpVTE2Q3NSY2NRR1hrX012aE5xd1dBVmlvOHNxNXZGNDhzNl9IdzdYdmhDTG5XT2c"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Groq新诉讼对英伟达股东影响",
-   "title_zh": "Groq新诉讼对英伟达股东意味着什么",
-   "sentiment": 0
-  },
-  {
-   "id": "c500bca6ba64",
-   "title": "Benzinga Bulls and Bears: Nvidia, Lumentum, Planet Labs - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdkRDZmZpWUVVNTBkekZLR1c5aHZEemVZaDRIcTBIQlJGdHBmUENsTEdNMGpTbExNMEVWUzBzakNqT0FOUGxTTkM5SklNLVhrSFlrVFEzZ1BxTFpadk1CRnFONXV0dHY1VlNJRnZHUVV6bE9MRkFqb18tX1lDMi1Qek1UTnpRcVh4ZWxsVmpmcTU3SEFVZm8zMnN4YURBVWRpZXNSdjN6YUYxcTVtMXhlYUtXSGY2QQ",
-   "source": "Benzinga",
-   "published_at": "2026-10-10T12:00:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-10T12:00:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdkRDZmZpWUVVNTBkekZLR1c5aHZEemVZaDRIcTBIQlJGdHBmUENsTEdNMGpTbExNMEVWUzBzakNqT0FOUGxTTkM5SklNLVhrSFlrVFEzZ1BxTFpadk1CRnFONXV0dHY1VlNJRnZHUVV6bE9MRkFqb18tX1lDMi1Qek1UTnpRcVh4ZWxsVmpmcTU3SEFVZm8zMnN4YURBVWRpZXNSdjN6YUYxcTVtMXhlYUtXSGY2QQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Benzinga多空栏目提及英伟达",
-   "title_zh": "Benzinga多空分析：英伟达、Lumentum、Planet Labs",
-   "sentiment": 0
-  },
-  {
-   "id": "0a7ddaf0c324",
-   "title": "这时间点太巧了！英伟达股票刚卖完 特朗普就给黄仁勋发奖章 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LNE50Y29pR2pEejZ4ZklUc1FnMWh5VXYwMVhER00xbHlzTjNzNUFwU3V4c2lxd1psbng5M3ZSNW14U2Itemdkekh4cFNPdklBeDNNcG56dl8",
-   "source": "驱动之家",
-   "published_at": "2026-10-10T11:43:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-10T11:43:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LNE50Y29pR2pEejZ4ZklUc1FnMWh5VXYwMVhER00xbHlzTjNzNUFwU3V4c2lxd1psbng5M3ZSNW14U2Itemdkekh4cFNPdklBeDNNcG56dl8"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-10T11:43:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wVHd4T2Y0WHZ1NlVpOHdzYUhha0R4Y2ZXMzB4ZXRjcjdMcjhKYjBNUHlqSUxjanI0MUN6UXlFdFg0RjBraG92TA"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-10T11:43:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5QmlCYVR6TnBlNEtXcHFrUDNvem9pcWdEVVF4NlJnMExva2JrOXNPV0Jyd2ZxakZJM1NJcXQtb3VjRnJMeHhrMkpUeFo"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特朗普给黄仁勋颁发奖章",
-   "title_zh": "这时间点太巧了！英伟达股票刚卖完 特朗普就给黄仁勋发奖章 - 凤凰网",
-   "sentiment": 0
   }
  ]
 }
