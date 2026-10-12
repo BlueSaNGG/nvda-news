@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T17:21:30.087310+00:00",
+ "updated_at": "2026-10-12T17:37:00.278560+00:00",
  "market": {
-  "price": 226.43,
-  "change_pct": -1.24,
+  "price": 226.42,
+  "change_pct": -1.25,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 126
+   "avg": 0.22,
+   "count": 129
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（126条已评分）"
+     "note": "今日新闻情绪 +0.22（129条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $226.43 vs 20日均线 $227.51"
+     "note": "现价 $226.42 vs 20日均线 $227.51"
     },
     {
      "key": "分析师动向",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.1,
    "ma20": 227.51,
-   "as_of": "2026-10-12T17:21:30.075327+00:00"
+   "as_of": "2026-10-12T17:37:00.270261+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "777ced3432fe",
+   "title": "Broadcom Is Building an AI Business Unlike Nvidia’s. Here’s My Price Prediction - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3VHVzZhaFI5M0tSQmMzSGkxck5CczN5b1Z2dGNpWDVQZk15VzFhdGM3Q1BVdjM5cUVwdGR3eXVESlQxNW9QbGNSTWZSR3JHdGxyYVNaT2RMOTNLeGt4eFFLUzNHZXRlN3pxWjJ5YndyS2xVX2E0OHNwQi13LXdsVTc5RFBuR013MWdIdnAtZFJLeDh2eDFwaUVhWEkyOWN4OU9WeGdFbDVqdWo4Ym1fcXk2a3RjYVJxVFk2bA",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-12T17:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-12T17:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3VHVzZhaFI5M0tSQmMzSGkxck5CczN5b1Z2dGNpWDVQZk15VzFhdGM3Q1BVdjM5cUVwdGR3eXVESlQxNW9QbGNSTWZSR3JHdGxyYVNaT2RMOTNLeGt4eFFLUzNHZXRlN3pxWjJ5YndyS2xVX2E0OHNwQi13LXdsVTc5RFBuR013MWdIdnAtZFJLeDh2eDFwaUVhWEkyOWN4OU9WeGdFbDVqdWo4Ym1fcXk2a3RjYVJxVFk2bA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "b0f51a17587b",
    "title": "Microsoft’s Maia 300 chip and what it means for Nvidia - Investing.com",
@@ -127,12 +144,17 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNXzZWT2tfclZ6eHlKbzJ1ZjZSNFRJc3ZYVDhJMzRKVWI0SWRaRU5Nc0p0UjVJWEVBVS1PX0xfZ3I0UHk1VlN4MkQ0VjZsMEwwdjROa0FJOEIweHBFQzNvT2NuQnZaWlh4cFo4eXNiYUxsUXRfZV9MQTN2OTg3Q2ZpV3YzZF9US3JWN01EZ2hxajZydUstRktoTnY2cG4",
    "source": "Yahoo Finance",
    "published_at": "2026-10-12T16:52:13+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-12T16:52:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNXzZWT2tfclZ6eHlKbzJ1ZjZSNFRJc3ZYVDhJMzRKVWI0SWRaRU5Nc0p0UjVJWEVBVS1PX0xfZ3I0UHk1VlN4MkQ0VjZsMEwwdjROa0FJOEIweHBFQzNvT2NuQnZaWlh4cFo4eXNiYUxsUXRfZV9MQTN2OTg3Q2ZpV3YzZF9US3JWN01EZ2hxajZydUstRktoTnY2cG4"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-12T16:52:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdURvbzdQY1RMZHF4RTlPWDFNTjltUXIzcVlDSjMtZjJGQ0xlUzJQVTZESmVjWmk2NnZMMkl2QU5aVVpiUjUtQjFvNS1JcVhCVWFob2t3elVyaTV6ZW5QTWt1ZTFoUVpJTlFwSjNVc2NCcFBoOEhIYnVxWkV5UlpNcUNPQk9tb2g2WHpqNk5LalJsNHdLai1fc2M2VlBua2JzbkZ5WV9zQm9pXzNKWEpPcDdaLXpKcXFBaWcxbDJaSEdVam1EVzdYc0FvdGtEOWZF"
     }
    ],
    "category": "产品技术",
@@ -225,6 +247,23 @@
    "zh_summary": "微软加大自研芯片，减少对英伟达依赖",
    "title_zh": "微软将加大自研AI芯片使用，降低对英伟达依赖|云平台|Copilot|模型|谷歌|首席执行官 - 新浪财经",
    "sentiment": -1
+  },
+  {
+   "id": "c5aa9f589fc8",
+   "title": "Michael Burry's Big Short Gets Broader: Nvidia-Heavy Chip ETF, Nasdaq Now in Focus - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU2FyYzgwVzBVY2trVzBBSU1CNVZRVWRkRzNWTnVNdHRMcE5MLV9BNjFiYWFOS0R3UnowYVJXcDJqY1ROd3AwUVZPOUhmWGlSX2xWQ09sV0tmandsQWN2Qk05UkF2M0FjNF9GOU0xYVV4N3BDRWdEYURFd01IYXkwRlJpZmFBYXp4OXF5d0cwRHBtTUlTRFExOUZwRGJRaG5ta2taU0tEUWZhc0VoUTVhSnNHMFo2a04zcHQ5aF9nTVh5T3loRnhmSWpHREZtMVZjcl9oOWVn",
+   "source": "TradingView",
+   "published_at": "2026-10-12T16:17:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-12T16:17:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU2FyYzgwVzBVY2trVzBBSU1CNVZRVWRkRzNWTnVNdHRMcE5MLV9BNjFiYWFOS0R3UnowYVJXcDJqY1ROd3AwUVZPOUhmWGlSX2xWQ09sV0tmandsQWN2Qk05UkF2M0FjNF9GOU0xYVV4N3BDRWdEYURFd01IYXkwRlJpZmFBYXp4OXF5d0cwRHBtTUlTRFExOUZwRGJRaG5ta2taU0tEUWZhc0VoUTVhSnNHMFo2a04zcHQ5aF9nTVh5T3loRnhmSWpHREZtMVZjcl9oOWVn"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "10b3302b9dcc",
@@ -2524,10 +2563,15 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91T3ZwcXZXSE84R1A0WEI0WjE5YzhDVEtsdEtEQVpPdElBWFF6Q0VXbG9kRm42VzlTQzZscmcwX1JXTm9ibzQtcVUtaHRSMjlqZk1YUHY5b19WWlBtem5fTDBnNldpS2s2Nms4UnFWOFZVUQ",
    "source": "新浪财经",
    "published_at": "2026-10-12T07:12:23+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
+     "published_at": "2026-10-12T07:12:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91T3ZwcXZXSE84R1A0WEI0WjE5YzhDVEtsdEtEQVpPdElBWFF6Q0VXbG9kRm42VzlTQzZscmcwX1JXTm9ibzQtcVUtaHRSMjlqZk1YUHY5b19WWlBtem5fTDBnNldpS2s2Nms4UnFWOFZVUQ"
+    },
+    {
+     "name": "finance.sina.com.cn",
      "published_at": "2026-10-12T07:12:23+00:00",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91T3ZwcXZXSE84R1A0WEI0WjE5YzhDVEtsdEtEQVpPdElBWFF6Q0VXbG9kRm42VzlTQzZscmcwX1JXTm9ibzQtcVUtaHRSMjlqZk1YUHY5b19WWlBtem5fTDBnNldpS2s2Nms4UnFWOFZVUQ"
     }
@@ -6617,46 +6661,6 @@
    "zh_summary": "英伟达或停产RTX 5090",
    "title_zh": "英伟达或停产RTX 5090，2027年推24GB 5080 SUPER",
    "sentiment": 0
-  },
-  {
-   "id": "b6d3ddfbf42e",
-   "title": "AMD Hikes GDDR6 Prices For Partners Starting October 1st, While NVIDIA Reportedly Holds Off On GDDR7 - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWk9FR1A1MGN3d01uaDREaFJKZEJodHBmZk9yNTUzNzBaYmUzeDVNd0pySHltck40a1FnLWV2TU02c09waGhNenkxQ3Q3Nkh4azlmdHIyNjVDcF96RVgxX0VJbTVBMUpYem1majdLSXJpRTJDdlNGYXlPMmJaZnhWRUV1dFJYckHSAYwBQVVfeXFMTkd4WTNlc0Rxc0RJTEJmazlDbXpvTnh4T1JqUDllcVljejlaVThad0lvTTBZLVBUemhvVWd2YjNvekFtOHFWRlBFbTQxVDZrZmJyb0ppbDFFSUp4WDZoVWRINkJ4ZkxnMlduNjQ2SU10UVB0Y3pBWnV1NXN6ZUdYY1QzWVhyWFR0YmJpdUY",
-   "source": "Wccftech",
-   "published_at": "2026-10-10T14:09:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-10T14:09:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWk9FR1A1MGN3d01uaDREaFJKZEJodHBmZk9yNTUzNzBaYmUzeDVNd0pySHltck40a1FnLWV2TU02c09waGhNenkxQ3Q3Nkh4azlmdHIyNjVDcF96RVgxX0VJbTVBMUpYem1majdLSXJpRTJDdlNGYXlPMmJaZnhWRUV1dFJYckHSAYwBQVVfeXFMTkd4WTNlc0Rxc0RJTEJmazlDbXpvTnh4T1JqUDllcVljejlaVThad0lvTTBZLVBUemhvVWd2YjNvekFtOHFWRlBFbTQxVDZrZmJyb0ppbDFFSUp4WDZoVWRINkJ4ZkxnMlduNjQ2SU10UVB0Y3pBWnV1NXN6ZUdYY1QzWVhyWFR0YmJpdUY"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "AMD上调GDDR6价格，英伟达暂缓GDDR7",
-   "title_zh": "AMD上调GDDR6价格，英伟达暂缓上调GDDR7价格",
-   "sentiment": 0
-  },
-  {
-   "id": "57442283b191",
-   "title": "Cerebras：不切晶圆的芯片“怪兽”，有希望挑战英伟达？ - 创业邦",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RVU1PeGVNbGJDT2ZNY21oazYxR0NuV1FIcXNheE9iSFhvVE5kSWFmUm1kTDJNdi01MWdXWkRIMzkwRnNtZHJQLXhFaHdvQ2JW",
-   "source": "创业邦",
-   "published_at": "2026-10-10T14:02:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "创业邦",
-     "published_at": "2026-10-10T14:02:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RVU1PeGVNbGJDT2ZNY21oazYxR0NuV1FIcXNheE9iSFhvVE5kSWFmUm1kTDJNdi01MWdXWkRIMzkwRnNtZHJQLXhFaHdvQ2JW"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "Cerebras晶圆级芯片挑战英伟达？",
-   "title_zh": "Cerebras：不切晶圆的芯片“怪兽”，有希望挑战英伟达？ - 创业邦",
-   "sentiment": -1
   }
  ]
 }
