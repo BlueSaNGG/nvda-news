@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T15:36:27.202756+00:00",
+ "updated_at": "2026-10-12T15:51:32.494397+00:00",
  "market": {
-  "price": 225.83,
-  "change_pct": -1.5,
+  "price": 226.38,
+  "change_pct": -1.27,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.27,
-   "count": 103
+   "count": 108
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 82% 分位（偏高）"
+     "note": "现价处于52周区间 83% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.5%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（103条已评分）"
+     "note": "今日新闻情绪 +0.27（108条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $225.83 vs 20日均线 $227.48"
+     "note": "现价 $226.38 vs 20日均线 $227.50"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 82,
+   "price_52w_pct": 83,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.5,
-   "ma20": 227.48,
-   "as_of": "2026-10-12T15:36:27.183609+00:00"
+   "implied_upside_pct": 39.1,
+   "ma20": 227.5,
+   "as_of": "2026-10-12T15:51:32.482028+00:00"
   },
-  "pe_ttm": 28.7,
+  "pe_ttm": 28.8,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.5%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "4ab332713146",
+   "title": "NVIDIA is discontinuing shipments of its flagship GeForce RTX 5090 graphics card chips. - GameGPU",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ2dCNmk4MVdUMVRqUWMwUjdfV196SkRVdmFBeUVYcDIxTjZXLTUxR3FTb1R5VXV2dl80d0RaTTZkbGI4MkJPWi1aOG9nM3hlTmkxcGdfdUowc05JYkRSbmRCTURaYU41Z3MyMDNoRGNIZWtreEx3eWw1QVY0S3B3UnliaU5wQWJRaDdiVlpLSkVzeXZCRmpFbDRYMGoxbUQ4dXFjUFh0X3UtcEotLVdYMVF2Rm5JRUtV",
+   "source": "GameGPU",
+   "published_at": "2026-10-12T15:39:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GameGPU",
+     "published_at": "2026-10-12T15:39:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ2dCNmk4MVdUMVRqUWMwUjdfV196SkRVdmFBeUVYcDIxTjZXLTUxR3FTb1R5VXV2dl80d0RaTTZkbGI4MkJPWi1aOG9nM3hlTmkxcGdfdUowc05JYkRSbmRCTURaYU41Z3MyMDNoRGNIZWtreEx3eWw1QVY0S3B3UnliaU5wQWJRaDdiVlpLSkVzeXZCRmpFbDRYMGoxbUQ4dXFjUFh0X3UtcEotLVdYMVF2Rm5JRUtV"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "6a29309e2273",
    "title": "ASUS Unveils XA P2N-E2 Powered by NVIDIA Vera CPU for Agentic AI Workloads at OCP 2026 - PR Newswire",
@@ -87,10 +104,15 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeWlRMlV4ckFsOF80UjVmeVZobmFYYzJ4dDVQWXRPbEgyd3R6MHgwQ182SFJmdWtMeTVKY0pYZFpsLWg4dUVxLVk1NTd6YWt3cm42YzhlV0JZNXl3MDExTjNlU2xiazVYbVJUTGRYSzMycW14RGpwVVZrZFBqT0Y0a2dqTGRjVFNyc0p5VVR0RVc",
    "source": "www.cheddar.com",
    "published_at": "2026-10-12T15:27:08+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "www.cheddar.com",
+     "published_at": "2026-10-12T15:27:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeWlRMlV4ckFsOF80UjVmeVZobmFYYzJ4dDVQWXRPbEgyd3R6MHgwQ182SFJmdWtMeTVKY0pYZFpsLWg4dUVxLVk1NTd6YWt3cm42YzhlV0JZNXl3MDExTjNlU2xiazVYbVJUTGRYSzMycW14RGpwVVZrZFBqT0Y0a2dqTGRjVFNyc0p5VVR0RVc"
+    },
+    {
+     "name": "Cheddar",
      "published_at": "2026-10-12T15:27:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeWlRMlV4ckFsOF80UjVmeVZobmFYYzJ4dDVQWXRPbEgyd3R6MHgwQ182SFJmdWtMeTVKY0pYZFpsLWg4dUVxLVk1NTd6YWt3cm42YzhlV0JZNXl3MDExTjNlU2xiazVYbVJUTGRYSzMycW14RGpwVVZrZFBqT0Y0a2dqTGRjVFNyc0p5VVR0RVc"
     }
@@ -481,6 +503,23 @@
    "sentiment": 1
   },
   {
+   "id": "0240a6b589ef",
+   "title": "Nvidia, AMD, Google, and Meta team up on global blueprint for data center design - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFN3R3NFLVVVZE40T3c5ZmVhdzFFQ24taFViMElfVC1STTkwSWlIMHJ5X1BCZWJWQ2Vkck1EWklDS2Z1cEktb3NyY2FNMzBST2ozM08wUU44VnUwc3hKQ0pwT2JtQlpsd1RrMzlPbWh1UVQxM2Z1ZzRNclhCbTFMdDd0LU56MmRIYTM3cGpBZl9zaklycS1VMmlycHNPTGpQN21lNUxEbDVzMXByMDBrazZfbmRCLXlialBEbFVaN1N5SFRnRlRFOThFUXA0Yl9jdjNN",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-12T15:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-12T15:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdFN3R3NFLVVVZE40T3c5ZmVhdzFFQ24taFViMElfVC1STTkwSWlIMHJ5X1BCZWJWQ2Vkck1EWklDS2Z1cEktb3NyY2FNMzBST2ozM08wUU44VnUwc3hKQ0pwT2JtQlpsd1RrMzlPbWh1UVQxM2Z1ZzRNclhCbTFMdDd0LU56MmRIYTM3cGpBZl9zaklycS1VMmlycHNPTGpQN21lNUxEbDVzMXByMDBrazZfbmRCLXlialBEbFVaN1N5SFRnRlRFOThFUXA0Yl9jdjNN"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
    "id": "a71f95561c8d",
    "title": "Nvidia may be killing off the RTX 5090 as AI chips take priority over gaming GPUs - TechSpot",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcFlINFpKRm5YSEVlN19UQW1YQkhLSjVSRHNfT0dJRWI1b3lDRUY5MTdEbURRZk1ialBUYzl0ZXhsMFl3VjFvXzZEcmstLWlnRHhjUktYWWpVQkZ5ZUZKeFNZZnlCVUcybmgtWTk3RmF5M2ZESkJ3OFhyNmpYVEI5blEyejgxRE9NQUE",
@@ -499,6 +538,23 @@
    "zh_summary": "英伟达或停产RTX 5090显卡",
    "title_zh": "英伟达或停产RTX 5090，优先保证AI芯片供应",
    "sentiment": 0
+  },
+  {
+   "id": "9878dcd2dab7",
+   "title": "英伟达连投三家的热门赛道，上海跑出中国第一，无问芯穹再揽23亿IPO在即 - 上观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlRzMzYUNhckRNUE5GRFFsNFQxcUl0SnphbmQyRjBHOG05T2NLRU56cmNNOGZKMHZXcXVjUEM4UVF5ZTA2VVNUNDFDbWJTSFQyMWJLR0h3eHFsUy1MdWc",
+   "source": "上观新闻",
+   "published_at": "2026-10-12T14:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "上观新闻",
+     "published_at": "2026-10-12T14:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlRzMzYUNhckRNUE5GRFFsNFQxcUl0SnphbmQyRjBHOG05T2NLRU56cmNNOGZKMHZXcXVjUEM4UVF5ZTA2VVNUNDFDbWJTSFQyMWJLR0h3eHFsUy1MdWc"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
   },
   {
    "id": "828439646ff6",
@@ -699,6 +755,23 @@
    "zh_summary": "Thurrott：迎来RTX Spark时代",
    "title_zh": "欢迎来到英伟达 RTX Spark 时代",
    "sentiment": 1
+  },
+  {
+   "id": "c54a47defdb4",
+   "title": "Nvidia's AI-driven growth fuels a $5.5T valuati... - Pluang",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeU5yMzROeFJwYXpUSWlSaWNiUkZaeHNwUWo0MFZGbE5wYVg5TmlseFBMSV84RDdWUEkwS1hIVE95SkYwUndLaDIxNW1tX0FXbHBJeUtDMGFIUEd6RG1aZ0JvUnB4Z2NycEZCX0JUaUpwZHhadzU0Rl82N2JRYlVKWVRhV0d1U2xRZXZNbjVkVDZLRG1qYmliT1VNYw",
+   "source": "Pluang",
+   "published_at": "2026-10-12T13:51:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Pluang",
+     "published_at": "2026-10-12T13:51:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeU5yMzROeFJwYXpUSWlSaWNiUkZaeHNwUWo0MFZGbE5wYVg5TmlseFBMSV84RDdWUEkwS1hIVE95SkYwUndLaDIxNW1tX0FXbHBJeUtDMGFIUEd6RG1aZ0JvUnB4Z2NycEZCX0JUaUpwZHhadzU0Rl82N2JRYlVKWVRhV0d1U2xRZXZNbjVkVDZLRG1qYmliT1VNYw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "faaebd6652d9",
@@ -1222,6 +1295,23 @@
    "zh_summary": "英伟达增长强劲但估值仍偏低",
    "title_zh": "英伟达(NVDA)增长迅猛但看起来仍很便宜",
    "sentiment": 1
+  },
+  {
+   "id": "0494db64c0d0",
+   "title": "英伟达发微博： NVIDIA RTX Spark10月16日北京首发_7x24快讯_新浪财经 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZMldQVHlOZzkyWWIzd0k5X2dzS1F2SVhYbldfTTZ4RVhZWTI0VDJySDBubjJ2Vk9oaDFHLVc3OWJSZGNDNEdWcVJtcw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-12T12:34:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-12T12:34:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZMldQVHlOZzkyWWIzd0k5X2dzS1F2SVhYbldfTTZ4RVhZWTI0VDJySDBubjJ2Vk9oaDFHLVc3OWJSZGNDNEdWcVJtcw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "9309714924e8",
@@ -6561,116 +6651,6 @@
    "zh_summary": "Flutterwave CEO加入英伟达等董事会",
    "title_zh": "Flutterwave CEO加入OpenAI、英伟达和微软董事会（2026）",
    "sentiment": 0
-  },
-  {
-   "id": "9e8b453bd982",
-   "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmtTenlrQjRUaUpoSkxKY2NrVExBSWI1ZmN5aUlWajNBZHBxd21iZlBtOURpeDEzTWRQVU9YSTVtYmN6Z191c0VwVGotdzBMeEhMSWszWGVqMUdueEtucFoyYmd4c3VZckdXRmdjby1EeXNydEpCV3kwQUxZdUw3UnRzeFZ0c0VBa0lpb3g0NkQwWHJXVjB1emRzWdIBoAFBVV95cUxNT1F3c2tTN3lVN2d2dWpuWWh1eW9adnlCWE51YlcwUVZmMHpNcUM2MjFpUFNBa1lnalZEbjRWaFNsVzJ2ZlRNRUZzV2R0NjM0dGZXNTVVU3ZFN0ZxZjJ5SHhoR0djUXgzX3NGRHpHN1hVRVM3ejkyMlNzS3RzS19uWENzaHFCRHdSM201b3dnN0dsdk5QN0doekp4MG5HRlpR",
-   "source": "CNBC",
-   "published_at": "2026-10-10T11:00:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-10T11:00:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmtTenlrQjRUaUpoSkxKY2NrVExBSWI1ZmN5aUlWajNBZHBxd21iZlBtOURpeDEzTWRQVU9YSTVtYmN6Z191c0VwVGotdzBMeEhMSWszWGVqMUdueEtucFoyYmd4c3VZckdXRmdjby1EeXNydEpCV3kwQUxZdUw3UnRzeFZ0c0VBa0lpb3g0NkQwWHJXVjB1emRzWdIBoAFBVV95cUxNT1F3c2tTN3lVN2d2dWpuWWh1eW9adnlCWE51YlcwUVZmMHpNcUM2MjFpUFNBa1lnalZEbjRWaFNsVzJ2ZlRNRUZzV2R0NjM0dGZXNTVVU3ZFN0ZxZjJ5SHhoR0djUXgzX3NGRHpHN1hVRVM3ejkyMlNzS3RzS19uWENzaHFCRHdSM201b3dnN0dsdk5QN0doekp4MG5HRlpR"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "企业通过多种方式获取英伟达GPU",
-   "title_zh": "英伟达GPU遍地开花，企业获取算力的多种方式",
-   "sentiment": 1
-  },
-  {
-   "id": "50b2a506e983",
-   "title": "微软英伟达将合作延伸至AI代理 新架构运算能力达1 PFLOPS - 观点网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jN2VvRWN2T192U1A0Qm1sSkh3NFc4V3dNdWQ2aG1qMFdIaFF1UDF0RHo4NENhUWlhaFNOaHFGRzNQX2gzemZidTRYa3l0bkwxYWtwV05OZ2F1WU5lUGd0Vm13",
-   "source": "观点网",
-   "published_at": "2026-10-10T10:53:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "观点网",
-     "published_at": "2026-10-10T10:53:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jN2VvRWN2T192U1A0Qm1sSkh3NFc4V3dNdWQ2aG1qMFdIaFF1UDF0RHo4NENhUWlhaFNOaHFGRzNQX2gzemZidTRYa3l0bkwxYWtwV05OZ2F1WU5lUGd0Vm13"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "微软与英伟达合作延伸至AI代理",
-   "title_zh": "微软英伟达将合作延伸至AI代理 新架构运算能力达1 PFLOPS - 观点网",
-   "sentiment": 1
-  },
-  {
-   "id": "af592f90e427",
-   "title": "英伟达英伟达(NVDA.US)拟以“收购式招聘”拿下Reflection AI：先投8亿，再用买人不买公司绕开监管 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGZpQ0gwR1NuMURraC1EUEMyVjNCcmVNdGxaeFZiWVZyV19fajBFUkFRNHpLNnhiQWhmSFBNMXYzN3QtZFVWUTJKUmI3NFdrQVU2cnRJNWdZVFBCZVFMS0VxbHVUYzVCNlhHVDBndG1udDdVUVNReFVNcG5IeEFmem5La3Nrd25JR3pNV0Jjc1Y0U3oyUkZVNkswZC16ZjBzWXlr",
-   "source": "富途牛牛",
-   "published_at": "2026-10-10T10:36:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-10T10:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGZpQ0gwR1NuMURraC1EUEMyVjNCcmVNdGxaeFZiWVZyV19fajBFUkFRNHpLNnhiQWhmSFBNMXYzN3QtZFVWUTJKUmI3NFdrQVU2cnRJNWdZVFBCZVFMS0VxbHVUYzVCNlhHVDBndG1udDdVUVNReFVNcG5IeEFmem5La3Nrd25JR3pNV0Jjc1Y0U3oyUkZVNkswZC16ZjBzWXlr"
-    },
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-12T00:05:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JN1g3RWxMTjUtSE1xc3ZwcC04YTFBc3B2dkRwRDhJM3B5VjkzdnR5eVJRb254VlY4Tl9rQXk0TngwSUI5VnJxWnlBTDNGZ09scFl0UjZsWjFoZzNtUjBCaw"
-    },
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-12T00:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sdXJfTDlGYm9UR01VQ21WQ25FaHZoX0hlcTJBWDhINHppUDA5aHk1eUE4UThFVkh5b2FGbWlvZzFvYnp6RGRhUXg2U3RCNEJqdG5Tb0dKM050dkYtTHF4UTVrWkNtTWVOakZCcmNMTXI"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达拟先投8亿美元再收购式招聘Reflection AI",
-   "title_zh": "英伟达英伟达(NVDA.US)拟以“收购式招聘”拿下Reflection AI：先投8亿，再用买人不买公司绕开监管 - 富途牛牛",
-   "sentiment": 1
-  },
-  {
-   "id": "23812c33e847",
-   "title": "Nvidia’s comms chief leaves after four months, Business Insider reports - The Next Web",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DdTJtalVreXhPaWJGSTk1VVA3TWZ6NmxsaS1SZm0wYy1ZYnlmaTVUR1pwUUE2aEplTFBZOWZrei1CZ2FUYWpud285YWlQbzZ1XzlnVWYtRThwYjVWYWNwelRvaG1RNGc5eTlCRmtvYW5laUpHZUE",
-   "source": "The Next Web",
-   "published_at": "2026-10-10T10:12:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Next Web",
-     "published_at": "2026-10-10T10:12:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DdTJtalVreXhPaWJGSTk1VVA3TWZ6NmxsaS1SZm0wYy1ZYnlmaTVUR1pwUUE2aEplTFBZOWZrei1CZ2FUYWpud285YWlQbzZ1XzlnVWYtRThwYjVWYWNwelRvaG1RNGc5eTlCRmtvYW5laUpHZUE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达公关主管入职四个月离职",
-   "title_zh": "据 Business Insider 报道，英伟达公关主管任职四个月后离职",
-   "sentiment": -1
-  },
-  {
-   "id": "bc9f45f47a38",
-   "title": "英伟达押注的AI制药公司冲刺IPO：药物研发，终于要拿临床结果说话了 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM3I1cTdORGc4b1JsZDVranJveGpPcVZxYlNFQWQ4aXF3MWNSZmRmaDU5QWROb0N3eEFIUkYyQmRhQzVxMjQtcDhfa2o5WHdTWkNFZXc0SE4xa2FKdC1CUzhfcDh1ZjIzUS1YSHFNUTFaRUpScHV3MGpSLWE4ZVhtS25RNTZGS0VXOFh4Ng",
-   "source": "搜狐网",
-   "published_at": "2026-10-10T10:05:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T10:05:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM3I1cTdORGc4b1JsZDVranJveGpPcVZxYlNFQWQ4aXF3MWNSZmRmaDU5QWROb0N3eEFIUkYyQmRhQzVxMjQtcDhfa2o5WHdTWkNFZXc0SE4xa2FKdC1CUzhfcDh1ZjIzUS1YSHFNUTFaRUpScHV3MGpSLWE4ZVhtS25RNTZGS0VXOFh4Ng"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达押注的AI制药公司冲刺IPO",
-   "title_zh": "英伟达押注的AI制药公司冲刺IPO：药物研发，终于要拿临床结果说话了 - 搜狐网",
-   "sentiment": 1
   }
  ]
 }
