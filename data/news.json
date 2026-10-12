@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T03:06:28.250005+00:00",
+ "updated_at": "2026-10-12T03:21:29.219501+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,8 +10,8 @@
    "days_left": 37
   },
   "day_sentiment": {
-   "avg": 0.51,
-   "count": 95
+   "avg": 0.5,
+   "count": 103
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.51（95条已评分）"
+     "note": "今日新闻情绪 +0.50（103条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-12T03:06:28.221972+00:00"
+   "as_of": "2026-10-12T03:21:29.205233+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -347,12 +347,17 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50aDFqU0psdEp4WWdUa2R2SHU4UWtiYXVSbGx3WFlURnJVU2VvYnR4bXVCNy1QQVlzYnJUUXVyZVV2bHVDMzNPb00wWVF4cUs0Ti1fNHhsTXA",
    "source": "驱动之家",
    "published_at": "2026-10-12T01:24:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
      "published_at": "2026-10-12T01:24:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50aDFqU0psdEp4WWdUa2R2SHU4UWtiYXVSbGx3WFlURnJVU2VvYnR4bXVCNy1QQVlzYnJUUXVyZVV2bHVDMzNPb00wWVF4cUs0Ti1fNHhsTXA"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-12T02:56:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQndkYUxZdDJzVFR4N2otNGs2QlhlY2FsM2d3ZWh2TlJIZDdvN29fWnNGTjQtLW9uaFJKNkdRZl9zQUdoaVhoS09EQjJEOG14RmcyNjM0cXpvZ2lwR3luWTU4TGhyb2Y4TDR2d0NyU210VFBJLWdWa1ZSdFBZN0Jibk9BeTJaT3Ff"
     }
    ],
    "category": "政策监管",
@@ -2643,6 +2648,23 @@
    "zh_summary": "英伟达或将GB202芯片转产AI GPU",
    "title_zh": "RTX 5090或将停产，英伟达把GB202芯片留给AI显卡",
    "sentiment": 0
+  },
+  {
+   "id": "e200272a52e9",
+   "title": "NVDA Stock Posts Biggest Jump In 14 Months On $12 Trillion Valuation Call From Raymond James – ‘Supply Is The Primary Constraint’ - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHYtamF4MTFQWEkzTjlQLWFwWTgzSXNsai02bXNfZDhpcnAxVkdDcy1qampmb2FQYlBWVXFnNTdydHhMWUNOX2RwSUpBWktFbENycTBkQU1xaU50R3ZvbXM2RGw5aGVQNnpFXzVGMFRndGRibmlHV1RoWFU0V1h4MU1rQzFBS29GR0VGWmNDZlRtSGFjNWx6TUo1ZUNoVGc4VHZ4TGwtRV9QZFdkTHZOQ3hnQVpRbHlXSHFaeWNLNllIQXAzMjJaMw",
+   "source": "Stocktwits",
+   "published_at": "2026-10-10T20:31:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-10T20:31:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSHYtamF4MTFQWEkzTjlQLWFwWTgzSXNsai02bXNfZDhpcnAxVkdDcy1qampmb2FQYlBWVXFnNTdydHhMWUNOX2RwSUpBWktFbENycTBkQU1xaU50R3ZvbXM2RGw5aGVQNnpFXzVGMFRndGRibmlHV1RoWFU0V1h4MU1rQzFBS29GR0VGWmNDZlRtSGFjNWx6TUo1ZUNoVGc4VHZ4TGwtRV9QZFdkTHZOQ3hnQVpRbHlXSHFaeWNLNllIQXAzMjJaMw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "195ddd18b734",
@@ -6659,26 +6681,6 @@
    "zh_summary": "华尔街或未准备好迎接英伟达等公司前景",
    "title_zh": "华尔街可能还没准备好迎接英伟达、美光、闪迪的未来",
    "sentiment": -1
-  },
-  {
-   "id": "558d266e91e6",
-   "title": "$NVIDIA (NVDA.US)$ - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5heFZ1Z2ZfbUJuY0FuTmlnN2ZjVS03T195Yzk1SDB2dC13NmZRSGdyOFRCaWljVFNfSy1sYUFobnU0X2RkR19TQjVvQVd1NXp2YlFwZzNQRHB1UGtBbzVkeWZEZlZmemR6eGhkeG5YRXVnQzJSZXRv",
-   "source": "Moomoo",
-   "published_at": "2026-10-09T12:59:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-09T12:59:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5heFZ1Z2ZfbUJuY0FuTmlnN2ZjVS03T195Yzk1SDB2dC13NmZRSGdyOFRCaWljVFNfSy1sYUFobnU0X2RkR19TQjVvQVd1NXp2YlFwZzNQRHB1UGtBbzVkeWZEZlZmemR6eGhkeG5YRXVnQzJSZXRv"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "富途牛牛提及英伟达(NVDA)行情",
-   "title_zh": "富途牛牛：英伟达(NVDA)",
-   "sentiment": 0
   }
  ]
 }
