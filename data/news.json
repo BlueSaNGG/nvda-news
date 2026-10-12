@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T13:51:26.564919+00:00",
+ "updated_at": "2026-10-12T14:06:26.584910+00:00",
  "market": {
-  "price": 227.79,
-  "change_pct": -0.65,
+  "price": 226.75,
+  "change_pct": -1.1,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,32 +10,32 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 65
+   "avg": 0.22,
+   "count": 68
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": -1,
    "dims": [
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 85% 分位（偏高）"
+     "note": "现价处于52周区间 83% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +38.3%"
+     "note": "目标价中位数 $315（15家），隐含空间 +38.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（65条已评分）"
+     "note": "今日新闻情绪 +0.22（68条已评分）"
     },
     {
      "key": "动量",
-     "score": 1,
-     "note": "现价 $227.79 vs 20日均线 $227.57"
+     "score": -1,
+     "note": "现价 $226.75 vs 20日均线 $227.52"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 85,
+   "price_52w_pct": 83,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 38.3,
-   "ma20": 227.57,
-   "as_of": "2026-10-12T13:51:26.535897+00:00"
+   "implied_upside_pct": 38.9,
+   "ma20": 227.52,
+   "as_of": "2026-10-12T14:06:26.568869+00:00"
   },
-  "pe_ttm": 29.0,
-  "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+38.3%空间：估值偏低，预期乐观"
+  "pe_ttm": 28.8,
+  "pe_pct_5y": 25,
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+38.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "4c78f9111a29",
+   "title": "Welcome to the Nvidia RTX Spark Era ⭐ - Thurrott.com",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1NaRlcwclNwQnk4UjBycmptVWxrQ05tcE0xZ2dFa3daYkhDbUoxQnB4U1h6U0lxRFp3X0RNRzAwZFhPb2FSUFB3NGlUaS1iUXFfNkUwYW9oUWxObXJ1ME54ZXRkU09kckRVVnZWYzZfcl9oc2xNbHF5c2FMeVVMaA",
+   "source": "Thurrott.com",
+   "published_at": "2026-10-12T13:51:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Thurrott.com",
+     "published_at": "2026-10-12T13:51:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1NaRlcwclNwQnk4UjBycmptVWxrQ05tcE0xZ2dFa3daYkhDbUoxQnB4U1h6U0lxRFp3X0RNRzAwZFhPb2FSUFB3NGlUaS1iUXFfNkUwYW9oUWxObXJ1ME54ZXRkU09kckRVVnZWYzZfcl9oc2xNbHF5c2FMeVVMaA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "6e5815cf9d3e",
    "title": "Rob Newport's Xerxes Home Lab Blade-ifies Raspberry Pi CM5, NVIDIA Jetson COMs for Neat Clusters - Hackster.io",
@@ -107,7 +124,7 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZmFLSjFwdXJBYTlqa0JZTVVUWDZ1eE9EZzV3Mk9rV21pTm1Xc3hmeDllSWNpVXpBR2JucWJNWWFiZ1BHV2hvLTFxc2tzQlNrS08yZWdRMXZheW0zaFhwTVFkeWpsdzR1QmxFZGp4OFQ5dGJCUEJpWGh5WFR6aVZOX0NsMkR5SFRKNDZma05pa3N3SkxQM0JhdHY0V2pxY2R4SEJIRHpoWm1DeUNyWXNOamlB",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-12T13:30:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "24/7 Wall St.",
@@ -118,13 +135,56 @@
      "name": "AOL.com",
      "published_at": "2026-10-12T13:30:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TNXhtaVRLeEJRMHprSXI1MlBnVHZLMVVfRUdfaTR3X0MtQ3NRNTJwa21tZXV1TGMwT1FXVUZyS1JXZXRfVzZiVzFyc2g5YWt3NThMQUNBWWVSSTFXeW1TLXpXVmtOb3ctUHBRZW54Y0M4MEpaNDIzQUttZmI4UQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-12T13:30:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdGRUeVZ3WFZ0U3RRTDRwQXc5T3EyS29TQUYwaDI1RkdEOC1PWEdDVDQ2Z1lBN2tKMGNpWUpGWHFDM1pGWXJtTjlKcHZFMGFjS3g2b0V0N1NwSGZJRWUxUXlGemF5WlZEM19tX0RVa28tRlg4SVVqRC1HT0NFODA2N2tZQlBVY2RzcUFlVXhaU2RidUMxcHBqYjZ3"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达市值达5.5万亿美元，还能再涨吗",
    "title_zh": "英伟达市值达5.5万亿美元，还能涨更高吗？",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.57,
+    "window_h": 0.6
+   }
+  },
+  {
+   "id": "faf82594bd28",
+   "title": "Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C — bespoke Frore LiquidJet Diamond cooling tames 770 W/cm² hotspots - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQWGdBblFiUVc3Tkd4dmI3U0JYQmNINjg5QzVaVmpoX0s0UVdKbWwxZWJmM191S1d1RE5YMUVtNC1KbUZiS19XLS1YNnVvTk9nSlVnY1h3VXJON3gzOXh2aWVhYXZhalA2VUItd1pLcHBheVo4azBMVnBSaGNwTlJkR0hqcWF6Y0FlRWJMd0xzRk41VUoybUlSUjF2OEp1R3dsMjVZZmN3UW50UWVnMU1uMnkyUC1lSDFvQkVwT2lpaWtQZWh3MTc4LU1ySVkwTXo5aV9UNmRPLTBSRUNReW91cnFZQWFYTmV3cjlpOF9EM29zRmN4Q3VwbWpNSk13STRXSXNocU5KSUYtVVlHV1hGSkJqUjlEU2xkSFlNM0dKb3BDSVNEVmJwNmkyTWt1RnZOajA5Mg",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-12T13:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-12T13:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQWGdBblFiUVc3Tkd4dmI3U0JYQmNINjg5QzVaVmpoX0s0UVdKbWwxZWJmM191S1d1RE5YMUVtNC1KbUZiS19XLS1YNnVvTk9nSlVnY1h3VXJON3gzOXh2aWVhYXZhalA2VUItd1pLcHBheVo4azBMVnBSaGNwTlJkR0hqcWF6Y0FlRWJMd0xzRk41VUoybUlSUjF2OEp1R3dsMjVZZmN3UW50UWVnMU1uMnkyUC1lSDFvQkVwT2lpaWtQZWh3MTc4LU1ySVkwTXo5aV9UNmRPLTBSRUNReW91cnFZQWFYTmV3cjlpOF9EM29zRmN4Q3VwbWpNSk13STRXSXNocU5KSUYtVVlHV1hGSkJqUjlEU2xkSFlNM0dKb3BDSVNEVmJwNmkyTWt1RnZOajA5Mg"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "a6b61d77c2d5",
+   "title": "Chip Stocks Fall Nearly 3% As Micron, Intel, Nvidia, AMD, SK Hynix And SanDisk Trade Lower Pre-Market Amid High Bond Yield, Oil Prices - NDTV Profit",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOEJRR3FIZ2pKeXBlSDF1enljNklVOV9LYTBuVF9aMTBCSDFpNkd4Q2lmOVRoOFdteXhCbWhER2U3WENTWl9ZWmp0azE0QVFUU2MxQklQaGZCako0eE5NTFVlc2VuQV82cm9UQ2ZUNUNtWDRieVMzUzhINUhTYklHZjVvcWNMTE1yd1pWUGJ4Q2lfaHhQY0h6ZldjVUJwNTNmU0tuTXEtT1lNNnNWMHhhclZxdElLVEZzcEZzb1FtSlE3R0EyQ1JQYXN6RTdtc2d4Z3JGczdhZ2NIVEFDek1USTZkNU9QRlE2YWd4a0p3OWxsYnJfdXdEelJIQ3JucktQOEHSAYoCQVVfeXFMTkNpSXpaOU4tOThCLTJkSVRXb2JhOWo4YTRVZVY2M1A3b2JqX0hyeXlua19CTWt6NWRocTlLQzlhZHZTM2F2WG9reHNha240V09COWxPR05oaGozOWhfOTZ1OXlSOXVoNGd3WmpwSXJsZkxHbGlYMG5pZkt5NWlKejU3aUVXY2I0Um0wcUlzZVR3TVNKOHhzUkVGeTVtZGNQVE1hZEs1ZGpRODZNd0dJZy05TVZOWXRLSXNoNmRZWkY4eE5qd2hISUtZbG1COTNIWENidkpDUGhZVnVhVDIwbk1XcUFqajlXaEw5cFk2T0ZrNGxvdWdyRm1yaUR0VHBkdHFlaUVCTVdlNWc",
+   "source": "NDTV Profit",
+   "published_at": "2026-10-12T13:29:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NDTV Profit",
+     "published_at": "2026-10-12T13:29:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOEJRR3FIZ2pKeXBlSDF1enljNklVOV9LYTBuVF9aMTBCSDFpNkd4Q2lmOVRoOFdteXhCbWhER2U3WENTWl9ZWmp0azE0QVFUU2MxQklQaGZCako0eE5NTFVlc2VuQV82cm9UQ2ZUNUNtWDRieVMzUzhINUhTYklHZjVvcWNMTE1yd1pWUGJ4Q2lfaHhQY0h6ZldjVUJwNTNmU0tuTXEtT1lNNnNWMHhhclZxdElLVEZzcEZzb1FtSlE3R0EyQ1JQYXN6RTdtc2d4Z3JGczdhZ2NIVEFDek1USTZkNU9QRlE2YWd4a0p3OWxsYnJfdXdEelJIQ3JucktQOEHSAYoCQVVfeXFMTkNpSXpaOU4tOThCLTJkSVRXb2JhOWo4YTRVZVY2M1A3b2JqX0hyeXlua19CTWt6NWRocTlLQzlhZHZTM2F2WG9reHNha240V09COWxPR05oaGozOWhfOTZ1OXlSOXVoNGd3WmpwSXJsZkxHbGlYMG5pZkt5NWlKejU3aUVXY2I0Um0wcUlzZVR3TVNKOHhzUkVGeTVtZGNQVE1hZEs1ZGpRODZNd0dJZy05TVZOWXRLSXNoNmRZWkY4eE5qd2hISUtZbG1COTNIWENidkpDUGhZVnVhVDIwbk1XcUFqajlXaEw5cFk2T0ZrNGxvdWdyRm1yaUR0VHBkdHFlaUVCTVdlNWc"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "bc172c511103",
@@ -6602,66 +6662,6 @@
    "session": "周末",
    "zh_summary": "播客讨论OpenAI收入与英伟达地位",
    "title_zh": "AI：OpenAI营收数学、英伟达造王者、AI沙皇2.0等 第1235期",
-   "sentiment": 1
-  },
-  {
-   "id": "9bbf914f3e25",
-   "title": "英伟达和高通掐起来了？智己LS9辅助驾驶体验 - 爱咖号",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCLXJUTUNRbFpmNWxMa0NmbVRSSXcwdldKTk9qZVUyai1ma2pKRDIxeHV4cmdzMEJtaVVlTktUdmJ1d0N6WF9qdE5fVk9HeTlPNWduMHlBNlY1UQ",
-   "source": "爱咖号",
-   "published_at": "2026-10-10T04:28:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "爱咖号",
-     "published_at": "2026-10-10T04:28:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCLXJUTUNRbFpmNWxMa0NmbVRSSXcwdldKTk9qZVUyai1ma2pKRDIxeHV4cmdzMEJtaVVlTktUdmJ1d0N6WF9qdE5fVk9HeTlPNWduMHlBNlY1UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "智己LS9辅助驾驶对比英伟达与高通芯片",
-   "title_zh": "英伟达和高通掐起来了？智己LS9辅助驾驶体验 - 爱咖号",
-   "sentiment": 0
-  },
-  {
-   "id": "3c67176006bc",
-   "title": "民间开发者发力：英伟达黑苹果开源驱动发布，16/20/30/40/50系显卡都能用|macOS 15 Sequoia|显卡驱动|测试|图灵|插件 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdQTVNWQVFiaDhDRUN1bG5VQ2huZi1xR1c0V2c4VlZReW9TY2dna05OWlN3aHdoLVM0OE1wd3VOQXplSUFvLW84bDRfODhWU1N0Y2x2RXJGWjFwd2J0N2IwQzVPeVdjTnhJNXNiY1phR0k5SGtZQ3M1RkYyVHpkMFJfOVhXV3dDNmJ0TzhaUVBKcWc2SE1TV1g2eGV1VGlDdHRRUlFrUV82dU9hVnRObTlR",
-   "source": "新浪财经",
-   "published_at": "2026-10-10T04:21:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-10T04:21:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdQTVNWQVFiaDhDRUN1bG5VQ2huZi1xR1c0V2c4VlZReW9TY2dna05OWlN3aHdoLVM0OE1wd3VOQXplSUFvLW84bDRfODhWU1N0Y2x2RXJGWjFwd2J0N2IwQzVPeVdjTnhJNXNiY1phR0k5SGtZQ3M1RkYyVHpkMFJfOVhXV3dDNmJ0TzhaUVBKcWc2SE1TV1g2eGV1VGlDdHRRUlFrUV82dU9hVnRObTlR"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "民间开发者发布黑苹果显卡开源驱动",
-   "title_zh": "民间开发者发力：英伟达黑苹果开源驱动发布，16/20/30/40/50系显卡都能用|macOS 15 Sequoia|显卡驱动|测试|图灵|插件 - 新浪财经",
-   "sentiment": 0
-  },
-  {
-   "id": "2538c4914b2f",
-   "title": "CBRS股价预测：较历史高点回撤超50%，OpenAI转向英伟达削弱其战略地位，股价还会复苏吗？ - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX2ZET1lUZG1pZ2M0elhYVjNtSmNFU3c4MGYxR3NzX0dKMFU4anp6T1R1cHdTOVFMR2JkaVlESXZrRnlHbklkV19xLXhpVFR0WWJDcklCZ3JZR1NaWkctdnJkZDl6MU1yekFPdXI3UUJlWVl2QU1RYlA3T202MEZ0NTdsd2pnTkZSS2NHcHRvcmNzZnBsaFg1U1hUa040aUg4VmlQSzlfOWFHRXlOU0ZZNnRROGVGVDQ1dVAxaC00aDA0VnM5WHIwUHNxa2w2dlV4ZEkwTWxFSUNPZWNTOEpaV0tn",
-   "source": "TradingKey",
-   "published_at": "2026-10-10T04:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-10T04:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX2ZET1lUZG1pZ2M0elhYVjNtSmNFU3c4MGYxR3NzX0dKMFU4anp6T1R1cHdTOVFMR2JkaVlESXZrRnlHbklkV19xLXhpVFR0WWJDcklCZ3JZR1NaWkctdnJkZDl6MU1yekFPdXI3UUJlWVl2QU1RYlA3T202MEZ0NTdsd2pnTkZSS2NHcHRvcmNzZnBsaFg1U1hUa040aUg4VmlQSzlfOWFHRXlOU0ZZNnRROGVGVDQ1dVAxaC00aDA0VnM5WHIwUHNxa2w2dlV4ZEkwTWxFSUNPZWNTOEpaV0tn"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "OpenAI转向英伟达，CBRS回撤超50%",
-   "title_zh": "CBRS股价预测：较历史高点回撤超50%，OpenAI转向英伟达削弱其战略地位，股价还会复苏吗？ - TradingKey",
    "sentiment": 1
   }
  ]
