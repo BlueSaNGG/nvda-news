@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T16:36:29.088129+00:00",
+ "updated_at": "2026-10-12T16:51:32.416620+00:00",
  "market": {
-  "price": 226.52,
-  "change_pct": -1.2,
+  "price": 226.15,
+  "change_pct": -1.37,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 120
+   "avg": 0.25,
+   "count": 122
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 83% 分位（偏高）"
+     "note": "现价处于52周区间 82% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（120条已评分）"
+     "note": "今日新闻情绪 +0.25（122条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $226.52 vs 20日均线 $227.51"
+     "note": "现价 $226.15 vs 20日均线 $227.49"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 83,
+   "price_52w_pct": 82,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.1,
-   "ma20": 227.51,
-   "as_of": "2026-10-12T16:36:29.076074+00:00"
+   "implied_upside_pct": 39.3,
+   "ma20": 227.49,
+   "as_of": "2026-10-12T16:51:32.407634+00:00"
   },
-  "pe_ttm": 28.8,
+  "pe_ttm": 28.7,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -80,6 +80,23 @@
    "zh_summary": "传RTX5080Super2027年Q1发布",
    "title_zh": "传RTX 5080 Super将于2027年Q1到来，RTX 6090遥遥无期",
    "sentiment": 0
+  },
+  {
+   "id": "75ed64c0e4a9",
+   "title": "Nvidia Falls Back From Record High. Its Stock Chart Offers a Warning. - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ",
+   "source": "Barron's",
+   "published_at": "2026-10-12T16:23:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-12T16:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "63fc6447c68a",
@@ -1964,12 +1981,17 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80dThjUHNZeW5uOXBQbDRmM0xDdzV1MkNiLW1SdzZXR2NPWnhpZkdLY1BfN0Q3UnBSR2RNSnVneWNncFZScEZNbHBFZw",
    "source": "超能网",
    "published_at": "2026-10-12T09:03:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "超能网",
      "published_at": "2026-10-12T09:03:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80dThjUHNZeW5uOXBQbDRmM0xDdzV1MkNiLW1SdzZXR2NPWnhpZkdLY1BfN0Q3UnBSR2RNSnVneWNncFZScEZNbHBFZw"
+    },
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-12T13:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4YlBXZUdVTktpb0hqM21lZEdQVDhvdl9faEZpYjc3UjBqdXd2YWJXbkVRSU43M0VQc09saFNTajBqcnZXbjIzaXMzRmVZSVBfd0NiR0lKLWNIZVpZanl1Zg"
     }
    ],
    "category": "产品技术",
@@ -6631,26 +6653,6 @@
    "session": "周末",
    "zh_summary": "英伟达人均创收约700万美元",
    "title_zh": "英伟达每位员工创造约700万美元营收",
-   "sentiment": 1
-  },
-  {
-   "id": "e4c4f32f888a",
-   "title": "Why Is Nvidia (NVDA) Pushing Deeper Into Open AI And Consumer Devices? - Simply Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSEZwcU8zYVVNdHJCckd0cFZzNC1pWlkzY0dKRjlrSDd1ZXUwMmVzVDlkVzh3c0dTdXJZSFU0bC1KN0htRndSR3ZQMUF6YkJKdjV5TUdNM0t0X3ppZEhXdWphYk1qODA1ZDlydmV5UVphQkdKcHR1Y1lLVjVfZ2FPVlM5WXRMdVc5YlFBb2NObFhXeWY1SEYtZl9zX0VKa1F2aXRZMFRaQ2RHN3JsaVdjNFZpUWh5UjFmaXc0Y19vZVNmN2V6NVVvSXl30gHPAUFVX3lxTE9WUFZCQ0lidERoOFgxSDNlNHY2enZXc3ZZY2xjNXIzdU1Dc3I3QWdFYXRIdHVjVkNyLWVUUEhjRTBYR3pfSDVhRnlxNWhNcGRVVGs3OFJjTkhYYmpCZnJFb2RhYzcycXBndHQxcjJCd0hydE9FSnVfRlM5TUVibWdmWU55YXd2ZFVxYlA0RWxDSG1hVWpzcl9fakV4c052UTQ0OU5lUmluN29wTFJwbHRkeEtjWk1mYTFpUEpFVVVpTVg4RXJGRzZQWmFzdlFJVQ",
-   "source": "Simply Wall Street",
-   "published_at": "2026-10-10T12:38:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Simply Wall Street",
-     "published_at": "2026-10-10T12:38:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSEZwcU8zYVVNdHJCckd0cFZzNC1pWlkzY0dKRjlrSDd1ZXUwMmVzVDlkVzh3c0dTdXJZSFU0bC1KN0htRndSR3ZQMUF6YkJKdjV5TUdNM0t0X3ppZEhXdWphYk1qODA1ZDlydmV5UVphQkdKcHR1Y1lLVjVfZ2FPVlM5WXRMdVc5YlFBb2NObFhXeWY1SEYtZl9zX0VKa1F2aXRZMFRaQ2RHN3JsaVdjNFZpUWh5UjFmaXc0Y19vZVNmN2V6NVVvSXl30gHPAUFVX3lxTE9WUFZCQ0lidERoOFgxSDNlNHY2enZXc3ZZY2xjNXIzdU1Dc3I3QWdFYXRIdHVjVkNyLWVUUEhjRTBYR3pfSDVhRnlxNWhNcGRVVGs3OFJjTkhYYmpCZnJFb2RhYzcycXBndHQxcjJCd0hydE9FSnVfRlM5TUVibWdmWU55YXd2ZFVxYlA0RWxDSG1hVWpzcl9fakV4c052UTQ0OU5lUmluN29wTFJwbHRkeEtjWk1mYTFpUEpFVVVpTVg4RXJGRzZQWmFzdlFJVQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达深入布局OpenAI与消费设备",
-   "title_zh": "英伟达为何深入布局OpenAI与消费设备",
    "sentiment": 1
   }
  ]
