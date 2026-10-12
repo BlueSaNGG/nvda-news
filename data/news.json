@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T01:21:27.527988+00:00",
+ "updated_at": "2026-10-12T01:36:29.960314+00:00",
  "market": {
   "price": 229.28,
   "change_pct": -0.52,
@@ -10,8 +10,8 @@
    "days_left": 37
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 82
+   "avg": 0.51,
+   "count": 83
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.50（82条已评分）"
+     "note": "今日新闻情绪 +0.51（83条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.4,
    "ma20": 226.73,
-   "as_of": "2026-10-12T01:21:27.507573+00:00"
+   "as_of": "2026-10-12T01:36:29.937618+00:00"
   },
   "pe_ttm": 29.1,
   "pe_pct_5y": 27,
@@ -62,17 +62,44 @@
  },
  "stories": [
   {
+   "id": "c7884056b1f2",
+   "title": "8000张英伟达GPU到达中国！软通动力自建工厂开造服务器：年产10万台 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50aDFqU0psdEp4WWdUa2R2SHU4UWtiYXVSbGx3WFlURnJVU2VvYnR4bXVCNy1QQVlzYnJUUXVyZVV2bHVDMzNPb00wWVF4cUs0Ti1fNHhsTXA",
+   "source": "驱动之家",
+   "published_at": "2026-10-12T01:24:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-12T01:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50aDFqU0psdEp4WWdUa2R2SHU4UWtiYXVSbGx3WFlURnJVU2VvYnR4bXVCNy1QQVlzYnJUUXVyZVV2bHVDMzNPb00wWVF4cUs0Ti1fNHhsTXA"
+    }
+   ],
+   "category": "政策监管",
+   "session": "周末"
+  },
+  {
    "id": "1a5d3c9b7f0b",
    "title": "HPE确认英伟达将推出Rubin PCIe GPU - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZnFaQlZDYjhySElUOEt2T0RUMWktWkU5bEdVTU1vT3psMXNKRzhtVFBPYno1UWdfRDRlU2I0S05kV3g2S3BPc1VQOUJHTWZFTWRUVm1KTGI2cGRoakw4NmVQSGtnclVWQ1o2Y0Z2LVRmQS1maktQcjg0a2paUzBYLUl4eE95R0Rf",
    "source": "搜狐",
    "published_at": "2026-10-12T01:05:35+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-12T01:05:35+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZnFaQlZDYjhySElUOEt2T0RUMWktWkU5bEdVTU1vT3psMXNKRzhtVFBPYno1UWdfRDRlU2I0S05kV3g2S3BPc1VQOUJHTWZFTWRUVm1KTGI2cGRoakw4NmVQSGtnclVWQ1o2Y0Z2LVRmQS1maktQcjg0a2paUzBYLUl4eE95R0Rf"
+    },
+    {
+     "name": "DoNews",
+     "published_at": "2026-10-12T01:13:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DMFJJRmhON1hDblJkcDFJS2dTWjMtMG4yblJpVXVMcVluQ3JIV2ExS0UtUXctbjBhbllTTDZRck5DZTdaVU1qUGFlRllzMU1TLXd6enFXYlV2Y1Bsc3c"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-12T01:16:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFSW1MWF90enJtWEZCdlZpdFVUMkcxdkxhZUF2Slg4MXFmTU0tanNCd2YtWldRdDgwM0g3THc1N2VnUDdNNkM4YXRrNkU"
     }
    ],
    "category": "产品技术",
@@ -1730,7 +1757,7 @@
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQlJqS2RiZnZPRnY5eHVDclhCdkJycDM0OVE0Mk5BN2NvdEtxR1hjZkZKTVJNbU1rSnhVbW51Vl9sWlRBZjU1TExUQlhwQmlycXhDUE5iVm9SVjVXQWthZEFnT0pwQUxQSkhPY2VwcUREN1NjVUViWmJZQ2o2XzdzejFPWnQ0ejAxR2cxUWpFeFE3cWt3MUF2bGZvLWFTS1V1THhWbnp4dnRocVRaTldBWDMtWjl3NHFpM3BRSDNuTFc3MTUyNDE0WEFjUXNsMlNYWVEzYmhtYUVYM3VJc29r",
    "source": "新浪财经",
    "published_at": "2026-10-11T06:53:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "新浪财经",
@@ -1746,10 +1773,16 @@
      "name": "cnBeta.COM",
      "published_at": "2026-10-11T07:14:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBybV9uVWxwc0g4d1dwYXY1LWtTY3dVOHBDNTRFVE42ZUpRUTBCQzNFYVotd0l2NFp3M05waG9HNkVvUkFNZHRVM0JjaDgtM0x4eS1DVGZsRXNQT2o2eUNtQw"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-11T06:53:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYUFYY3pvNm10TkNQYkY0cENMUXItaXpOY3d1ZjNZdWFnVGVtOE54Y3I5NG1tWUU1dVJaaS00clpoZXd5LWNfeG9DckdfZG9vbjY2R3poMWlZZ3BYQTh2OTlzdDZfQlBVTUtjS3NZSm1PaEZpV0hTbklYc2E1Sll2dWZPaThVVThEV1dSUg"
     }
    ],
    "category": "其他",
    "session": "周末",
+   "breaking": true,
    "zh_summary": "洽谈收购Reflection AI，估值250亿美元",
    "title_zh": "英伟达洽谈收购Reflection AI，已投资8亿美元，后者估值达250亿美元 - Moomoo",
    "sentiment": 1
@@ -3280,7 +3313,7 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVGZpQ0gwR1NuMURraC1EUEMyVjNCcmVNdGxaeFZiWVZyV19fajBFUkFRNHpLNnhiQWhmSFBNMXYzN3QtZFVWUTJKUmI3NFdrQVU2cnRJNWdZVFBCZVFMS0VxbHVUYzVCNlhHVDBndG1udDdVUVNReFVNcG5IeEFmem5La3Nrd25JR3pNV0Jjc1Y0U3oyUkZVNkswZC16ZjBzWXlr",
    "source": "富途牛牛",
    "published_at": "2026-10-10T10:36:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "富途牛牛",
@@ -3291,6 +3324,11 @@
      "name": "证券之星",
      "published_at": "2026-10-12T00:05:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JN1g3RWxMTjUtSE1xc3ZwcC04YTFBc3B2dkRwRDhJM3B5VjkzdnR5eVJRb254VlY4Tl9rQXk0TngwSUI5VnJxWnlBTDNGZ09scFl0UjZsWjFoZzNtUjBCaw"
+    },
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-12T00:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sdXJfTDlGYm9UR01VQ21WQ25FaHZoX0hlcTJBWDhINHppUDA5aHk1eUE4UThFVkh5b2FGbWlvZzFvYnp6RGRhUXg2U3RCNEJqdG5Tb0dKM050dkYtTHF4UTVrWkNtTWVOakZCcmNMTXI"
     }
    ],
    "category": "其他",
@@ -4900,6 +4938,23 @@
    "sentiment": 0
   },
   {
+   "id": "4f1780d7473a",
+   "title": "Jim Cramer Said NVIDIA’s Shares Were Due For A Gut Check Following Morgan Stanley’s Coverage - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0NRYmJCSTdzV3FHcnlXMV9iS0ZsbDRFeDI3dTV4SjJQQVhQVGkzVmhtWmI0X3gzY3hMdnZwYW5HZF9BZHJhbURyRUdxUWg5YWRFVlNKQ3RtSzZDUllyZjl0M2E2dVRnTjdlanNtMG9WXzJpRlF0MzNfWnc3cVprQ1ZZc0xGdmRucWI0UGc2Vk1zOXpJc3JURnBR",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-09T20:22:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-09T20:22:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0NRYmJCSTdzV3FHcnlXMV9iS0ZsbDRFeDI3dTV4SjJQQVhQVGkzVmhtWmI0X3gzY3hMdnZwYW5HZF9BZHJhbURyRUdxUWg5YWRFVlNKQ3RtSzZDUllyZjl0M2E2dVRnTjdlanNtMG9WXzJpRlF0MzNfWnc3cVprQ1ZZc0xGdmRucWI0UGc2Vk1zOXpJc3JURnBR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "e9ac9336ca65",
    "title": "英伟达欲加码玻璃基板决战AI先进封装 A股相关企业抢先布局 - 新浪财经",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NM0xoUml5TDJucm9FQnhWLXhleHBucVNCazQ5ZHBaUzl2Nmtrc2dfd2hlUVNGSU5sRXRLUTlxdVBiVTNWT0VXMUdtS005Uzh5R1dPVzJURTRkRnVrWTRqcHpQaVNIRVpBT2pNWFVob3lNWGZmOVNJNg",
@@ -6077,6 +6132,23 @@
    "sentiment": 1
   },
   {
+   "id": "4148ac81ab83",
+   "title": "Nvidia-Backed Firmus Cancels Mega IPO Over Market Volatility - TIKR.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkdXVmcwSWNQaTQ4UmkyVkV3eWc4QjRFWGg4QVBzQ3Y5M1lUYWlQNDVJMGx6eGd3SzhXaTYwUm5tcDFMb3E3eGhCaDRVRVZFTTN2NHg4a1ZGVTBvaDA1SFQxZVc4Yi1acVV1eEJka0hacEFGTzhCTXRmSVlVUnBuMnp3",
+   "source": "TIKR.com",
+   "published_at": "2026-10-09T13:03:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-10-09T13:03:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkdXVmcwSWNQaTQ4UmkyVkV3eWc4QjRFWGg4QVBzQ3Y5M1lUYWlQNDVJMGx6eGd3SzhXaTYwUm5tcDFMb3E3eGhCaDRVRVZFTTN2NHg4a1ZGVTBvaDA1SFQxZVc4Yi1acVV1eEJka0hacEFGTzhCTXRmSVlVUnBuMnp3"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
    "id": "a09ba96692d2",
    "title": "Is the Options Market Predicting a Spike in NVIDIA Stock? - Yahoo! Finance Canada",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWJROGZScVg0RGpJbmhaNFpGWFFHQXo3WlVWTVJFOVc0VXppTFRMVGtUaVBjUHZmY1k0dHpOMmZCVDhVSjRnX1lCaE5iMVhiNEVzeUZ0ajk0OGgwZW1MX2NsbmJWcUoycFpZbDdRYko5dGRkalh1X2RITHhwYU5HeF9FSG5wRFVLNFdNZjFmeUI",
@@ -6627,66 +6699,6 @@
    "zh_summary": "华为升腾950超节点产能告急",
    "title_zh": "国产 AI 彻底崛起！华为升腾 950 超节点产能告急，破英伟达垄断地位 - Sohu",
    "sentiment": -1
-  },
-  {
-   "id": "06096cba2a8d",
-   "title": "Nvidia GPU servers exposed to crash risk via monitoring tool - Cybernews",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53bHJWS3JCQlZvTFpzTTJfVTVJWXJsUzU1NzdsWGo0dnlCYjN2SWNrYUlKRUpNRlpsS0xoVk54czJtd2QydG5JdFdQck13XzRfTi1XQUh0eWxjT25sTkVjRXNzZ3NEZ28weGpVTDZiUHQyOGp1",
-   "source": "Cybernews",
-   "published_at": "2026-10-09T11:03:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Cybernews",
-     "published_at": "2026-10-09T11:03:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53bHJWS3JCQlZvTFpzTTJfVTVJWXJsUzU1NzdsWGo0dnlCYjN2SWNrYUlKRUpNRlpsS0xoVk54czJtd2QydG5JdFdQck13XzRfTi1XQUh0eWxjT25sTkVjRXNzZ3NEZ28weGpVTDZiUHQyOGp1"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "监控工具致英伟达GPU服务器有崩溃风险",
-   "title_zh": "监控工具使英伟达GPU服务器面临崩溃风险",
-   "sentiment": -1
-  },
-  {
-   "id": "72075bccc153",
-   "title": "Jay Woods breaks down Nvidia's warning signs and key market levels - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXM2QTFXaTZNY0NQZjVENjRaQmhWZXlGZmdxQXgtMlJKTHVqRHZmd1VEUUZsTEwwQzRWLTNkRmdvSlk2NGs4Rk9pUXNpVmkxRUVzaUhPT1k2czBSZlphYjVrNGVOZjhaQlp2YldqN1dLdVlnR2dYVmdJYnU4NHk3cW0xSThMQkdpYWtGdWxLblhJS0o4dnRtMFlDNlRhSDNoRDRZOWVSOFBLTGhy",
-   "source": "CNBC",
-   "published_at": "2026-10-09T11:01:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-09T11:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTXM2QTFXaTZNY0NQZjVENjRaQmhWZXlGZmdxQXgtMlJKTHVqRHZmd1VEUUZsTEwwQzRWLTNkRmdvSlk2NGs4Rk9pUXNpVmkxRUVzaUhPT1k2czBSZlphYjVrNGVOZjhaQlp2YldqN1dLdVlnR2dYVmdJYnU4NHk3cW0xSThMQkdpYWtGdWxLblhJS0o4dnRtMFlDNlRhSDNoRDRZOWVSOFBLTGhy"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "Jay Woods谈英伟达警示信号与关键价位",
-   "title_zh": "Jay Woods解读英伟达警示信号与关键价位",
-   "sentiment": -1
-  },
-  {
-   "id": "ff64cc8a18e6",
-   "title": "Fund Update: 285,209 NVIDIA (NVDA) shares added to Border to Coast Pensions Partnership Ltd portfolio - Quiver Quantitative",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWWlQakp2Q25JS0dUNzhUMkRzam81Z3kzcURoXzNTN0FQQ2l1R0loMkx5dU1Rd3ZIOXVxb0tKc0M3czlOTS1hOU5KbDJMWndOUjUxRlVoUzcyc254elRWUUpyRWxMYVpXQ3JBcFl0T1FHX3Bmb1BONU84RVJhWXh4VzQ0NDczWEYtSGNSa0tlRmdWVTg0dkEzcURFNVpMUmQ0NDB2TW9LZ3hJWmN5R08tSEhIVGRmUWloTVlXMUNsWnVBYjFRX05pVlRZdV9VRWNSc0tvRGsxTnVXdw",
-   "source": "Quiver Quantitative",
-   "published_at": "2026-10-09T11:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Quiver Quantitative",
-     "published_at": "2026-10-09T11:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWWlQakp2Q25JS0dUNzhUMkRzam81Z3kzcURoXzNTN0FQQ2l1R0loMkx5dU1Rd3ZIOXVxb0tKc0M3czlOTS1hOU5KbDJMWndOUjUxRlVoUzcyc254elRWUUpyRWxMYVpXQ3JBcFl0T1FHX3Bmb1BONU84RVJhWXh4VzQ0NDczWEYtSGNSa0tlRmdWVTg0dkEzcURFNVpMUmQ0NDB2TW9LZ3hJWmN5R08tSEhIVGRmUWloTVlXMUNsWnVBYjFRX05pVlRZdV9VRWNSc0tvRGsxTnVXdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "养老金基金增持285209股英伟达",
-   "title_zh": "基金更新：Border to Coast养老金增持285209股NVDA",
-   "sentiment": 1
   }
  ]
 }
