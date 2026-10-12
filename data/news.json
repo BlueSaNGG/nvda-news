@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T19:51:28.392968+00:00",
+ "updated_at": "2026-10-12T20:06:27.712196+00:00",
  "market": {
-  "price": 226.78,
-  "change_pct": -1.09,
+  "price": 226.32,
+  "change_pct": -1.29,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.16,
-   "count": 153
+   "avg": 0.14,
+   "count": 156
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +38.9%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.16（153条已评分）"
+     "note": "今日新闻情绪 +0.14（156条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $226.78 vs 20日均线 $227.52"
+     "note": "现价 $226.32 vs 20日均线 $227.50"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 83,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 38.9,
-   "ma20": 227.52,
-   "as_of": "2026-10-12T19:51:28.381363+00:00"
+   "implied_upside_pct": 39.2,
+   "ma20": 227.5,
+   "as_of": "2026-10-12T20:06:27.688312+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+38.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,17 +62,39 @@
  },
  "stories": [
   {
+   "id": "611f3194b35f",
+   "title": "Your Nvidia RTX GPU Can Make Old Videos Look Better - Here's How - BGR",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FUTNFVWw5OWZweDllV2VjcGp3ZlJTM2J6V3BWNlRSWTNRMW5JZm1WeXlSWVhTWVVOVjFhVWxxNFo1NXhjemwteXR0MVBGSjZBQkZzaEtCMDhTSUN2Y2VCUzlvRjFleUZpOFpONUZ3c2xab21p",
+   "source": "BGR",
+   "published_at": "2026-10-12T19:47:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BGR",
+     "published_at": "2026-10-12T19:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FUTNFVWw5OWZweDllV2VjcGp3ZlJTM2J6V3BWNlRSWTNRMW5JZm1WeXlSWVhTWVVOVjFhVWxxNFo1NXhjemwteXR0MVBGSjZBQkZzaEtCMDhTSUN2Y2VCUzlvRjFleUZpOFpONUZ3c2xab21p"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
    "id": "326c5f7e79b2",
    "title": "Nvidia and AMD Reached a Historic Valuation Split. 1 Stock Is Far Safer. - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnBXbzZNNjl2alg4RnNpb0VtS3pRQjdNWmdmeEpLc0RPODdqa0t5aWl0YUhpVUhtcWJaQ0ZsUWZVT056d3YzT1B6aVlsLTlCTlhraWN0eEtuSUpIcHZTbzBhNkNxUGZXMFYwTk1UVVA2OG0wWE1YbVBwZjJLR2U3ZVRkYlViRG5GNDJrQkVTN3lNeV9kVWVJ",
    "source": "The Motley Fool",
    "published_at": "2026-10-12T19:34:04+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-12T19:34:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnBXbzZNNjl2alg4RnNpb0VtS3pRQjdNWmdmeEpLc0RPODdqa0t5aWl0YUhpVUhtcWJaQ0ZsUWZVT056d3YzT1B6aVlsLTlCTlhraWN0eEtuSUpIcHZTbzBhNkNxUGZXMFYwTk1UVVA2OG0wWE1YbVBwZjJLR2U3ZVRkYlViRG5GNDJrQkVTN3lNeV9kVWVJ"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-12T19:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRDhuenA5a256ZnU2bWFBWTB3UW9XYTJUUTY0dGhhdy1ELVU5R0REdkhDWXhxdDNjWGZ6dDExT0FreXNFZ2N0NnNNN1VZZzVCQ0Z2cWlOaG5lQzVoMTV5U2pwTmJaN28xQ215TmFzU2xFSXZ4MjZjUDNhbmhvdzA4d0tUbzNhVTVvVFRqN3dXc0psQVZlU2tPWklrSzB4STJQUDBLV1hkOGttc04ydmt3Qy1jVTQtUGwzdk85dFNteWJtcU1uQ1BEcWhRY05ndnBaTVUtMkxUU0JPeFNzc0JYOU1Zb043d3J1MVZubQ"
     }
    ],
    "category": "其他",
@@ -6545,31 +6567,6 @@
    "zh_summary": "新模组让AMD显卡用上DLSS 3.7",
    "title_zh": "新模组将英伟达DLSS 3.7超采样带到AMD显卡",
    "sentiment": 0
-  },
-  {
-   "id": "e7ff510c2eb8",
-   "title": "NVIDIA Explores Acquisition of Reflection AI - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaUVmc1Z4Ukk0N29tMkE4aVVORC01dVg5NmRRT0t6UXEtbXo1c1BYaThZUzZuMXk5dnpIZXdqVmNRLVhJR29KclQ2U3VVWFk2QmUxb0ZhRWR1d1lMTlNaSm5EVVM3RWUxSlhXV0hHTVJuOUhralVHel80YU4tQ0lHdW9pUjQ3QmR4WWVN",
-   "source": "GuruFocus",
-   "published_at": "2026-10-10T20:48:05+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-10T20:48:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaUVmc1Z4Ukk0N29tMkE4aVVORC01dVg5NmRRT0t6UXEtbXo1c1BYaThZUzZuMXk5dnpIZXdqVmNRLVhJR29KclQ2U3VVWFk2QmUxb0ZhRWR1d1lMTlNaSm5EVVM3RWUxSlhXV0hHTVJuOUhralVHel80YU4tQ0lHdW9pUjQ3QmR4WWVN"
-    },
-    {
-     "name": "marketscreener.com",
-     "published_at": "2026-10-12T09:31:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkwzam5wZ0dkNXRwZWtsWF9pVTNpbm1icmVkeFNUa3FBc1htNWVMdlpWNVdveTUwWENSaXk2ZHZWbTlCaUpGeUV1akt4azZtc3lKSGQ1dXBybmowQXF6MTNVYmJyR3JselN5RDNWWXZfeUwyWU5jZVQyN1FuVGRGUEZYVWVUNGJWMU1MM3djR2R3c2pUM0g0Z1ZFQ1I0WGhaOGc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达探索收购Reflection AI",
-   "title_zh": "英伟达探索收购 Reflection AI - GuruFocus",
-   "sentiment": 1
   }
  ]
 }
