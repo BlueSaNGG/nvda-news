@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T14:36:27.071649+00:00",
+ "updated_at": "2026-10-12T14:51:30.215485+00:00",
  "market": {
-  "price": 225.31,
-  "change_pct": -1.73,
+  "price": 225.54,
+  "change_pct": -1.63,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.19,
-   "count": 73
+   "avg": 0.15,
+   "count": 78
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 81% 分位（偏高）"
+     "note": "现价处于52周区间 82% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.8%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.19（73条已评分）"
+     "note": "今日新闻情绪 +0.15（78条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $225.31 vs 20日均线 $227.45"
+     "note": "现价 $225.54 vs 20日均线 $227.46"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 81,
+   "price_52w_pct": 82,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.8,
-   "ma20": 227.45,
-   "as_of": "2026-10-12T14:36:27.056674+00:00"
+   "implied_upside_pct": 39.7,
+   "ma20": 227.46,
+   "as_of": "2026-10-12T14:51:30.206058+00:00"
   },
-  "pe_ttm": 28.6,
+  "pe_ttm": 28.7,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "cce3ffda7580",
+   "title": "Zacks.com featured highlights include NVIDIA, Marathon Petroleum, Ralph Lauren and Lincoln Electric - The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObm9GWm41eS02YUoycnQzelAwVEVpdW4weVc1N2ZyMS15X0N5ZUczZW5xN21OU3RzeFJ6MFhyVE1QZTlES1g0ZW1jVlRpWlFuaVlVb19zNE5TMkN6UU1DUGNJQXlDWVNzM0xGbk9XaTZIQWRuaF9SbVd3QTJNM2hiMzB0akhvb0xWQWdBNlBybXpkdlFMZmJtem43MnliUXVRNnpXbkxMUkt6NmU4ZTU4Yl9FRURBaGdPZmN1bWZsMjE4eGZRb010NWd2c1BveFI2MXhhekppcTlVOE0yVHd0Zm4tN0dTSTVkdXpUX0RIT3dSVUNiWThvUURCYXRLclBmdnJja01IVTVZQTZ3",
+   "source": "The Globe and Mail",
+   "published_at": "2026-10-12T14:40:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-12T14:40:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObm9GWm41eS02YUoycnQzelAwVEVpdW4weVc1N2ZyMS15X0N5ZUczZW5xN21OU3RzeFJ6MFhyVE1QZTlES1g0ZW1jVlRpWlFuaVlVb19zNE5TMkN6UU1DUGNJQXlDWVNzM0xGbk9XaTZIQWRuaF9SbVd3QTJNM2hiMzB0akhvb0xWQWdBNlBybXpkdlFMZmJtem43MnliUXVRNnpXbkxMUkt6NmU4ZTU4Yl9FRURBaGdPZmN1bWZsMjE4eGZRb010NWd2c1BveFI2MXhhekppcTlVOE0yVHd0Zm4tN0dTSTVkdXpUX0RIT3dSVUNiWThvUURCYXRLclBmdnJja01IVTVZQTZ3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "5aebb26d8f96",
+   "title": "$英伟达 (NVDA.US)$ 我在soxx596的时候我成了Maverick 一伙的了 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcGNUZUpTX0VDYVE0RnBwazZVaWNseW1vWUJXNlR2cGJnYkVjYmtOWDJtbTN6STNfNnMxRURoVlZnVzYzTnlEc3A0UFZaV21naEdxVG1uLTlPSElmZFJOSDNSUUM0VmVGQUJDTkVGa0JxbFppekNLTmtvY3ZNYlRRTFJudWRmOXRpOU9ucEZKQzFYQU1ram1qeGM3cEp3dEV1Y213eVdoVQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-12T14:34:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-12T14:34:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcGNUZUpTX0VDYVE0RnBwazZVaWNseW1vWUJXNlR2cGJnYkVjYmtOWDJtbTN6STNfNnMxRURoVlZnVzYzTnlEc3A0UFZaV21naEdxVG1uLTlPSElmZFJOSDNSUUM0VmVGQUJDTkVGa0JxbFppekNLTmtvY3ZNYlRRTFJudWRmOXRpOU9ucEZKQzFYQU1ram1qeGM3cEp3dEV1Y213eVdoVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "7d7ba3e13675",
    "title": "中国“英伟达”诞生！掌握100%自研技术，国产替代迎来腾飞！ - 新浪网",
@@ -180,6 +214,23 @@
    "zh_summary": "Thurrott：迎来RTX Spark时代",
    "title_zh": "欢迎来到英伟达 RTX Spark 时代",
    "sentiment": 1
+  },
+  {
+   "id": "faaebd6652d9",
+   "title": "Anthropic’s CEO Has 1 Direct Report. Nvidia’s Jensen Huang Has 60. I’ve Tried Both. Here’s Which One Founders Should Copy - Inc.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmlrZDdrY2NKWTF0SjF2U0ZPcWVYUnpxaHpKX1lTQ0NnckJJSE9rdVp3a1IwRlZMVEpNUVlIZW9KVVQ4ZGNCay1pa29yVlpmZ1JiQkJ2b093eWVvU2JEYjZWQXpabl9BYlJrT1JwV2xHc2ZKcVpfOFVwWkhNcGhBTlNGVHRvSEl1bTJSY2p6bmxGZ1NxdUZpeGk4bGY0WExLa3psckJIVEk",
+   "source": "Inc.com",
+   "published_at": "2026-10-12T13:45:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Inc.com",
+     "published_at": "2026-10-12T13:45:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmlrZDdrY2NKWTF0SjF2U0ZPcWVYUnpxaHpKX1lTQ0NnckJJSE9rdVp3a1IwRlZMVEpNUVlIZW9KVVQ4ZGNCay1pa29yVlpmZ1JiQkJ2b093eWVvU2JEYjZWQXpabl9BYlJrT1JwV2xHc2ZKcVpfOFVwWkhNcGhBTlNGVHRvSEl1bTJSY2p6bmxGZ1NxdUZpeGk4bGY0WExLa3psckJIVEk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "6e5815cf9d3e",
@@ -923,6 +974,23 @@
    "zh_summary": "英伟达或收购模型公司引猜测",
    "title_zh": "BiyaPay 行情观察｜英伟达要收购模型公司？ AI 芯片龙头为何跨界？ - Odaily星球日报",
    "sentiment": 0
+  },
+  {
+   "id": "669d392df70e",
+   "title": "'They are new to the laptop market': AMD issues a reality check to Nvidia’s RTX Spark and fires a warning shot at Arm - Tom's Guide",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMVZDZGxEcTdLdTJHZVZ1Uy1YbU9fY0htSXpvWTQzWWdrQ2N5eG45ZWVZYVcwM01ieFFvM1hXRm82VjVncWIxSktHQ0VtaEpubG9EQWRoaDJETkJrRlNvNWUxNEJzQ0ZpYXNqdjNnazlkQ3otalZZUUdtRVdPeEVJMlhvLWlmN1FnazhXYjhyTHVMdGp3V0xrRTE5a2pPVTFheGxnMFlua24wV05EbnJBSUVQTHg2YTRLbzZPWjRrazQyejhPUzRMNzhzendTSExmTmhLTVhjZjUwZnFvN0tPTEtlekxPZ1hFd2dvd3F3",
+   "source": "Tom's Guide",
+   "published_at": "2026-10-12T10:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Guide",
+     "published_at": "2026-10-12T10:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMVZDZGxEcTdLdTJHZVZ1Uy1YbU9fY0htSXpvWTQzWWdrQ2N5eG45ZWVZYVcwM01ieFFvM1hXRm82VjVncWIxSktHQ0VtaEpubG9EQWRoaDJETkJrRlNvNWUxNEJzQ0ZpYXNqdjNnazlkQ3otalZZUUdtRVdPeEVJMlhvLWlmN1FnazhXYjhyTHVMdGp3V0xrRTE5a2pPVTFheGxnMFlua24wV05EbnJBSUVQTHg2YTRLbzZPWjRrazQyejhPUzRMNzhzendTSExmTmhLTVhjZjUwZnFvN0tPTEtlekxPZ1hFd2dvd3F3"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
   },
   {
    "id": "52b63c8903a6",
@@ -2400,6 +2468,23 @@
    "sentiment": 1
   },
   {
+   "id": "b1fbfa752003",
+   "title": "微软发布Maia 300芯片 加速降低对英伟达依赖 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuZGlyUkwwRU5QWTM0SVpkazRhSUlPNUtaeXZEVjBoTlZiQ0lXeDZDZjE4dlNUOXFPdzhUVWlxa3diRUpvNFp5eUJ5SlJEbmY4Q3pLM2Z5bWFaOUg0QTQ3ZQ",
+   "source": "东方财富",
+   "published_at": "2026-10-11T23:49:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-11T23:49:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuZGlyUkwwRU5QWTM0SVpkazRhSUlPNUtaeXZEVjBoTlZiQ0lXeDZDZjE4dlNUOXFPdzhUVWlxa3diRUpvNFp5eUJ5SlJEbmY4Q3pLM2Z5bWFaOUg0QTQ3ZQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
+  {
    "id": "3c0f4645e7df",
    "title": "ASML上调韩国客户零部件价格10%，三星、SK海力士接受涨价；英伟达洽谈收购Reflection AI，估值250亿美元｜全球科技早参 - 每日经济新闻",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56ekpjc0hFaUp0bnkyc2hmM3J5RkdHV3g0a1NKcHRydGNveF84MnNFTG1rWV92elZCMjQ2NnM4M3VwckMwT1R3QmpQLXQ3ak5Pa2lpWGtlUDhTaUNNcHJzSkVUWUtnUQ",
@@ -2443,6 +2528,23 @@
    "zh_summary": "Vertiv液冷设备获英伟达认证",
    "title_zh": "Vertiv 2.3MW液冷设备通过英伟达DSX Ready认证",
    "sentiment": 1
+  },
+  {
+   "id": "f46c79dcd834",
+   "title": "英伟达支持的Firmus上市折戟 提高了亚太AI公司筹资门槛 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55VW1uNlJmLWxGSmV1b3pTNWpQOVU3QUhDNlowQVFtdlBVbV83TVJxT2JLVE5kekxnNnVJaXhuM05XTkhuci1QMGFKMkttT2pONmx4VGQyUFN0OUxRWXNJRw",
+   "source": "东方财富",
+   "published_at": "2026-10-11T23:41:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-11T23:41:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55VW1uNlJmLWxGSmV1b3pTNWpQOVU3QUhDNlowQVFtdlBVbV83TVJxT2JLVE5kekxnNnVJaXhuM05XTkhuci1QMGFKMkttT2pONmx4VGQyUFN0OUxRWXNJRw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "333208ac4f55",
@@ -6553,131 +6655,6 @@
    "zh_summary": "Legal&General减持英伟达",
    "title_zh": "Legal & General减持英伟达股份",
    "sentiment": -1
-  },
-  {
-   "id": "e0e19b8c1ab5",
-   "title": "NVIDIA Corporation $NVDA Stock Position Cut by Aberdeen Wealth Management LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTXZVRl9LUm5sUTY5YS03a2lDRGx3THlfRXdvTXhZNG5ZT25wMTZuaFo2c0htelhKYkhuN3dGUWptVWVMc3RaU2N6aHZlYTZTbndDUkk0MUFmMzgzQUc2anBxUEJnZnM5S0FiWUt5b3pKZDZmM0RVUUJRazNDaENnbEF3c3YwY0EzQkxNeHpKNUVsbjcydU1nRTYzQ3BqS1E2VFJrcjkyVTY0OTdIelg1dy1JX3diRUQ2b0VZNjdQOExnTmxJTHBDOEhSc0ZwWlVnSXZn",
-   "source": "MarketBeat",
-   "published_at": "2026-10-10T07:10:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-10T07:10:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTXZVRl9LUm5sUTY5YS03a2lDRGx3THlfRXdvTXhZNG5ZT25wMTZuaFo2c0htelhKYkhuN3dGUWptVWVMc3RaU2N6aHZlYTZTbndDUkk0MUFmMzgzQUc2anBxUEJnZnM5S0FiWUt5b3pKZDZmM0RVUUJRazNDaENnbEF3c3YwY0EzQkxNeHpKNUVsbjcydU1nRTYzQ3BqS1E2VFJrcjkyVTY0OTdIelg1dy1JX3diRUQ2b0VZNjdQOExnTmxJTHBDOEhSc0ZwWlVnSXZn"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Aberdeen资管减持英伟达持仓",
-   "title_zh": "Aberdeen Wealth Management减持$NVDA股票头寸",
-   "sentiment": -1
-  },
-  {
-   "id": "2e6677ccabda",
-   "title": "英伟达唯一影子股，业绩暴增141%，美国高盛、北向资金重仓锁死，到时 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZDcyYUhhTDN1ZXpHMzJ4bkRzNWc1c0d2eVRBR3NCVUR3ck9jSDB4MGFZX2E2SHAwb2NzQjBCZ2otMGZJWkJTU2tFdUJvTzlQcHlmQlk3dFRNdjgtTDNRS2Jjb0ZzM29VMUx4T1poRWNKRmhwb0lnNjBxRm9QX3daa0tySVZIVGxoZmhUcjhKRm5xSks5cWc",
-   "source": "新浪网",
-   "published_at": "2026-10-10T07:01:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-10T07:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZDcyYUhhTDN1ZXpHMzJ4bkRzNWc1c0d2eVRBR3NCVUR3ck9jSDB4MGFZX2E2SHAwb2NzQjBCZ2otMGZJWkJTU2tFdUJvTzlQcHlmQlk3dFRNdjgtTDNRS2Jjb0ZzM29VMUx4T1poRWNKRmhwb0lnNjBxRm9QX3daa0tySVZIVGxoZmhUcjhKRm5xSks5cWc"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "英伟达影子股业绩暴增141%获外资重仓",
-   "title_zh": "英伟达唯一影子股，业绩暴增141%，美国高盛、北向资金重仓锁死，到时 - 新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "7582b4227b06",
-   "title": "Key facts: NVIDIA (NVDA) $2.38 EPS $104B; backs d‑Matrix; $1.5T funding - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVFc3RmtNZV9sUzNpcl9qM0RXdlBvZzJEV2ZoOUR3M240RGNFMG1fVGlWOXlXX2FiWkhmdy1aS0FtRk0zVTFUZ191WUZycVRoYUU4eTF4UVZVYWZ2bGpIMjZaSlpraVlLV1kzbGVWeExJamZ2aWd1M2JQdUpmYjJBalRNTW5EUGFfdGc5U2V5SHEtU0FIVUM4OEpXaUgtaElPcUVIaHlVRGM5cExhSVVRSFdIS1NYQ0psT203N2VuMFI1M0U",
-   "source": "TradingView",
-   "published_at": "2026-10-10T07:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-10T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVFc3RmtNZV9sUzNpcl9qM0RXdlBvZzJEV2ZoOUR3M240RGNFMG1fVGlWOXlXX2FiWkhmdy1aS0FtRk0zVTFUZ191WUZycVRoYUU4eTF4UVZVYWZ2bGpIMjZaSlpraVlLV1kzbGVWeExJamZ2aWd1M2JQdUpmYjJBalRNTW5EUGFfdGc5U2V5SHEtU0FIVUM4OEpXaUgtaElPcUVIaHlVRGM5cExhSVVRSFdIS1NYQ0psT203N2VuMFI1M0U"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "英伟达支持d-Matrix；每股收益2.38美元",
-   "title_zh": "关键事实：英伟达EPS 2.38美元，支持d-Matrix，1.5万亿美元融资",
-   "sentiment": 1
-  },
-  {
-   "id": "701148ed7439",
-   "title": "NVIDIA Throws Free RTX Spark Party in Berlin Oct. 16 [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95WHo0cnp2ZmJ4WV82WGxMVk9ZVkJmMHVnT0pwUk5NU3NMWk5iMHhwazVMS1pTZ054cWtBaHlmN05QOGpLTDJzbVM2N3U4SlpoN1R1RVBYV0VwRFg0cXBPOWlsdnJsMi1KXzlKRHNLTlQ",
-   "source": "shattered.io",
-   "published_at": "2026-10-10T06:56:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-10T06:56:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95WHo0cnp2ZmJ4WV82WGxMVk9ZVkJmMHVnT0pwUk5NU3NMWk5iMHhwazVMS1pTZ054cWtBaHlmN05QOGpLTDJzbVM2N3U4SlpoN1R1RVBYV0VwRFg0cXBPOWlsdnJsMi1KXzlKRHNLTlQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达在柏林办RTX Spark免费派对",
-   "title_zh": "英伟达10月16日在柏林举办RTX Spark免费派对",
-   "sentiment": 1
-  },
-  {
-   "id": "0b7f783f1cca",
-   "title": "绕不开英伟达，也不能被它困住：英伟达架构师辞职做物理AI芯片 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNclJreVp0TXg4bVIyWFcydVk3WlJaVG5QU1NDVmNDdElzVm1YSGVrRDJTNG5hU0tLd1BhQ2htWFcxaTVuZlByZEJfY19Fb25sY1pua3Z1cTZFelcyaDhnOE85bU52OE95bzhaTjhmYWxmVGE3US1KVXRvWUxYZDlwQzVRMUNJRDBV",
-   "source": "搜狐网",
-   "published_at": "2026-10-10T06:47:48+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T06:47:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNclJreVp0TXg4bVIyWFcydVk3WlJaVG5QU1NDVmNDdElzVm1YSGVrRDJTNG5hU0tLd1BhQ2htWFcxaTVuZlByZEJfY19Fb25sY1pua3Z1cTZFelcyaDhnOE85bU52OE95bzhaTjhmYWxmVGE3US1KVXRvWUxYZDlwQzVRMUNJRDBV"
-    },
-    {
-     "name": "创业邦",
-     "published_at": "2026-10-10T09:44:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoTUpoVnVrVFBNTC1iTEpLLXN3eWdhRWx6Y2JWMTkyWDdBbFRiNkZQYVVCU3BuaWs5bE90aGdHZ0RwWF9PaWNrY25ONlI0OTBI"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "英伟达架构师辞职创业，做物理AI芯片",
-   "title_zh": "绕不开英伟达，也不能被它困住：英伟达架构师辞职做物理AI芯片 - 创业邦",
-   "sentiment": 0
-  },
-  {
-   "id": "d4b7bfda03d6",
-   "title": "英伟达发布开放智能体安全平台，监管智能体AI行为 - 至顶网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zdVVkTEJYTmhPeVU2TW5jU2t5RmtqWVVzLUFXVkVYa280ZjVzay1EYm9wOTVZZzVGdWxWSzJfRTBvUVo1dkFHbVdXdDNsbDN0OVFDUVNNVlRvTzJMUXVYSk1PNF9FWXoxc2o0LWNLS0w",
-   "source": "至顶网",
-   "published_at": "2026-10-10T06:46:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "至顶网",
-     "published_at": "2026-10-10T06:46:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zdVVkTEJYTmhPeVU2TW5jU2t5RmtqWVVzLUFXVkVYa280ZjVzay1EYm9wOTVZZzVGdWxWSzJfRTBvUVo1dkFHbVdXdDNsbDN0OVFDUVNNVlRvTzJMUXVYSk1PNF9FWXoxc2o0LWNLS0w"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达发布开放智能体安全平台",
-   "title_zh": "英伟达发布开放智能体安全平台，监管智能体AI行为 - 至顶网",
-   "sentiment": 1
   }
  ]
 }
