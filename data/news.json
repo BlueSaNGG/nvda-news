@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T18:51:28.348451+00:00",
+ "updated_at": "2026-10-12T19:06:30.568984+00:00",
  "market": {
-  "price": 226.52,
-  "change_pct": -1.2,
+  "price": 226.54,
+  "change_pct": -1.19,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.18,
-   "count": 142
+   "count": 146
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（142条已评分）"
+     "note": "今日新闻情绪 +0.18（146条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $226.52 vs 20日均线 $227.51"
+     "note": "现价 $226.54 vs 20日均线 $227.51"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 83,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.1,
+   "implied_upside_pct": 39.0,
    "ma20": 227.51,
-   "as_of": "2026-10-12T18:51:28.327758+00:00"
+   "as_of": "2026-10-12T19:06:30.543054+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -607,6 +607,23 @@
    "sentiment": 1
   },
   {
+   "id": "6bce49c86de4",
+   "title": "微软将加大自研AI芯片使用，降低对英伟达依赖 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVpFaHZSVUE0U1FmY2ktWmt5alA1YjZRd1JGZ2k1b1FyakFqVTBZV2NzMkw4cTBnVG0zU1RXd0pQZ2x6RUZsOTZaUjAwSU03c2dqaGxEQzdkZE1tblJjNGpkcDU3UnFlZmNaMmU4VGYyamNYaWRGYkRNRGJNSnRkdVdQVkliX1k",
+   "source": "新浪财经",
+   "published_at": "2026-10-12T15:19:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-12T15:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVpFaHZSVUE0U1FmY2ktWmt5alA1YjZRd1JGZ2k1b1FyakFqVTBZV2NzMkw4cTBnVG0zU1RXd0pQZ2x6RUZsOTZaUjAwSU03c2dqaGxEQzdkZE1tblJjNGpkcDU3UnFlZmNaMmU4VGYyamNYaWRGYkRNRGJNSnRkdVdQVkliX1k"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
    "id": "9c48d8eec6e0",
    "title": "NVIDIA and Cisco launch USFP optics for 400Gb/s lanes to boost AI data center efficiency and scale. - Pluang",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORDVyaGhOd1V3ZnNIQWU4cEdGWEl2d1JfNTRiaXg4LS1MeTNvVXM5YnZ0dU1HSHJ6YXNuWjZkQkRsUXhCUGIwLUdJU01WTFg5bDd0Zm1UQXNhZkJKdVZzVFNJWENFQXlhQUkxZHJxLVpZekhOY01CVnlTWEtOU2I4MGE3YXlNVVBlT3RQQ1hpZ2F2dWlrMkpxQTZ6QnFUeHNZb2JSeHFxSVpVRnI4Wk1pUmZR",
@@ -890,6 +907,23 @@
    "zh_summary": "英伟达与思科联合推出USFP光模块",
    "title_zh": "英伟达与思科联合推出USFP光模块",
    "sentiment": 1
+  },
+  {
+   "id": "2557c07eb8e0",
+   "title": "NVIDIA And Cisco Cram 4x OSFP’s Bandwidth Density Into An OSFP-Sized Module, Pushing AI Fabrics To 12.8 Tb/s With USFP - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3J2Y1I3Q2o1ODlEaWdBWUlHTjl0TENOODhQWFhxTXh3blJTdWVsOE9KRVhfNUhSTVFlTzB0ZlFack5BY0Y2aGJGRkVMcEJweG0tTHU4Z2tSMzZwQUpFTkN4akNyQndmbks3b2FlRnJYN3JKUlFGelpjT2gySjNWTlgtYkI1MVpVbmp2bEJKd2NxWHRrS2d6dzNLWmFJTS1yUjRUM3ZFRUFubWhZdzhoWUdFZC1NQdIBuwFBVV95cUxPcFhBNzlQVlh5Q25HenhZR1NrWGxxeGU3UkFwVFJjN1ZjSE5OczJkbzI0dG1EV0hjVVdEN2lic0lzeGpqblIzWFVLcE1LcXVYZE9jaFhxOVRIcEhTT2tqdElkWS10cVlvOEppWnBUUjlsdEViTmp4RXpGUlFJU2hyTno5VGlJbnUzNzhvMDdtUmZ1a3RzT0RVWnltWFowLXB3dEEzMjV6ZjNYRUV6b2ItMkNTV1ctMlBIZHRv",
+   "source": "Wccftech",
+   "published_at": "2026-10-12T15:00:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-12T15:00:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3J2Y1I3Q2o1ODlEaWdBWUlHTjl0TENOODhQWFhxTXh3blJTdWVsOE9KRVhfNUhSTVFlTzB0ZlFack5BY0Y2aGJGRkVMcEJweG0tTHU4Z2tSMzZwQUpFTkN4akNyQndmbks3b2FlRnJYN3JKUlFGelpjT2gySjNWTlgtYkI1MVpVbmp2bEJKd2NxWHRrS2d6dzNLWmFJTS1yUjRUM3ZFRUFubWhZdzhoWUdFZC1NQdIBuwFBVV95cUxPcFhBNzlQVlh5Q25HenhZR1NrWGxxeGU3UkFwVFJjN1ZjSE5OczJkbzI0dG1EV0hjVVdEN2lic0lzeGpqblIzWFVLcE1LcXVYZE9jaFhxOVRIcEhTT2tqdElkWS10cVlvOEppWnBUUjlsdEViTmp4RXpGUlFJU2hyTno5VGlJbnUzNzhvMDdtUmZ1a3RzT0RVWnltWFowLXB3dEEzMjV6ZjNYRUV6b2ItMkNTV1ctMlBIZHRv"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "0fd1c4fde6fe",
@@ -3661,6 +3695,23 @@
    "sentiment": -1
   },
   {
+   "id": "94c454a08f14",
+   "title": "英伟达据悉洽谈追加投资或收购AI初创公司Reflection AI - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUG1BbGJIYnVXaEdfS2VJT01nWi0yOUwzS1pzN3JudkJTMlo2TGlramVXUjFlMjdWdEs2U05iTzAzcWg0YVFNYmVNbkVzTWNGSkVBMUxka1R3eUw1MmZQanN5a3ZjVVZwXzIzWXZMQkx0YUhpYURyeGN5NkVDZGJ5NGc5Nk44dng4azk0",
+   "source": "搜狐网",
+   "published_at": "2026-10-12T01:47:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-12T01:47:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUG1BbGJIYnVXaEdfS2VJT01nWi0yOUwzS1pzN3JudkJTMlo2TGlramVXUjFlMjdWdEs2U05iTzAzcWg0YVFNYmVNbkVzTWNGSkVBMUxka1R3eUw1MmZQanN5a3ZjVVZwXzIzWXZMQkx0YUhpYURyeGN5NkVDZGJ5NGc5Nk44dng4azk0"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "6de786447b88",
    "title": "宁王的资本局， 神似英伟达 - 虎嗅网",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SZEJyQk1TcUk5N2FTOUlJRUw2SFdXZ3I0N2NSWktTdnFsNEwwWnpYRkRpM2E5cUFSVWpqY3BFZnRqVkZwa0RtMjI3TVZqZ20tTmJsbw",
@@ -3736,7 +3787,7 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2dTRUFSUElDd0tDWGxEanl6WVdiaHdLQ2o4RFNtcXBNSjFTUjVXUE5EN2VGNV81Yzl2RllMUUJxbGlwUFgzOGt4alhQZEdhd0F1OFhOWGJ3aFBac2VNaGhtSWhMZGlmZDhEemNPaUpzN2ZqOG1Ldmc4dG82M0RtSVpMVldpUDN5TmlpUQ",
    "source": "搜狐",
    "published_at": "2026-10-12T01:22:00+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "搜狐",
@@ -3757,6 +3808,11 @@
      "name": "新浪财经",
      "published_at": "2026-10-12T07:12:23+00:00",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91T3ZwcXZXSE84R1A0WEI0WjE5YzhDVEtsdEtEQVpPdElBWFF6Q0VXbG9kRm42VzlTQzZscmcwX1JXTm9ibzQtcVUtaHRSMjlqZk1YUHY5b19WWlBtem5fTDBnNldpS2s2Nms4UnFWOFZVUQ"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-12T02:07:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14ak5oeXpJNi1aVTlwY3JRZFkxWGJyQnR2VFNUZnZiLTNTcnZHUkdNamJXY1laNFRUdTZGbHNNekZNU0xSdVdudGx4MmFyRHFyS3JCTjFsQWxRODVnZEVhQnM2THJ0Zw"
     }
    ],
    "category": "产品技术",
@@ -6372,6 +6428,23 @@
    "sentiment": 1
   },
   {
+   "id": "109718b9cd09",
+   "title": "Nvidia Discusses Boosting Reflection Investment, Computing Deal - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEhNbm44LUd6U3ZnU2t4ZXVxVlBObW55LURVTlJjcnNOWHJmZEhwNEd4UDdiWHFwaDBZSGw0blpidEN3QldtTl9haFYwNjVpUFJYTVRUOHJ6bU9SZE5jLUVzT2ItQXk4cjNhVEk5TnlBZnIxeE5SZ2x2cW9XRFVRb2lDQkdlWUF5S01CN1RKZGxnRWQ0aVhFNmhaS2VFUXhYVlAtYjJnUlBoSFZ6VUE",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-10T20:22:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-10T20:22:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEhNbm44LUd6U3ZnU2t4ZXVxVlBObW55LURVTlJjcnNOWHJmZEhwNEd4UDdiWHFwaDBZSGw0blpidEN3QldtTl9haFYwNjVpUFJYTVRUOHJ6bU9SZE5jLUVzT2ItQXk4cjNhVEk5TnlBZnIxeE5SZ2x2cW9XRFVRb2lDQkdlWUF5S01CN1RKZGxnRWQ0aVhFNmhaS2VFUXhYVlAtYjJnUlBoSFZ6VUE"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "902a5e4702bd",
    "title": "Nvidia Reportedly in Talks to Acquire Reflection AI, Betting on Open-Weight Models and New AI Computing Demand - TradingKey",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVTdoMzRYOXY0WFJUQ3FrbmNCSjlyWUx5TFE3VXFlS1NTdjJJdEpVbFJPQjBTY3VmS2FMbE41SF9RbTBrd3FaZFBuNWtqVDlVdU90ckdBTTdZdXNQdWctdWpSWU16SGhXVUpCckpWWTM1dTI2RVl4bDRPaFdHaWRZTWQ0eU1YYktMY01SaUU3WVotVEJ2c09OTjl6Wm5RZHAzXy1sdnNGSW9hSE8yd2MwVXA0emNsNXpXSDZja2N3aWZpSGllTW9tZ0czQV9sa2R2ZUUwWkFIS0I",
@@ -6457,7 +6530,7 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0ZCYmZHb25TR19pRVg0NVQwNm12cFg4TVBKeXdhbE9vakNhNTF0eGtFNF9tZkMyVERQX3REV21icXQyOUgxOVprUERqVXBxMjlZbTViRUhXbmdOSmdDWWRTR2Z2MnZLdVduM21XenBfTUFLTzdOcnNaSDJ4elR0MTNpb1QxSW8",
    "source": "新浪财经",
    "published_at": "2026-10-10T20:05:00+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "新浪财经",
@@ -6478,6 +6551,11 @@
      "name": "观点网",
      "published_at": "2026-10-11T11:27:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53MG9YbEx5bDV3MFpoSVh1X044Qmd1V3NZRVMzYkxnd0tocXctS294TUFWLVFTeUJfOW5iUUdtZ3lxTHhGZk9QTWxMc1I3cXVuaDZRSXcyZjJpQ2lLYTVaOXFB"
+    },
+    {
+     "name": "品玩",
+     "published_at": "2026-10-12T02:34:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54VlFfNndULWJIb3dtVG5DV3hCYjduUEt6QnUxRVpsZldKRHBQRnVJNUUzOGI0azlRcDFiSlN0c2VNLS13bElOTQ"
     }
    ],
    "category": "其他",
@@ -6489,91 +6567,6 @@
     "pct": -0.2,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "7846c46af47a",
-   "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports By Reuters - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNms5TDJPbFZZcU9FTmhIYzZ3anpCNEhVZmQya0IwT0s5a2VXTWVOdFFIeGJKY01aZ3psMmNBSWtsd09vdEZBUi15NV9KUmxyRVk0REZUYVRNVFlGOUFJT2dQcVU0alVhNlR6SENlcFBHTW16ME0xVUFLNmNpbk15MlZaN3ZCVVFMU3lDNlZXS215blgwQ3FNeWQybTRPdXhxUG1CWk5HMk8xcFhxeXczSVZsdlNwTWpoNE1sWUxPajktVmtocTJF",
-   "source": "Investing.com",
-   "published_at": "2026-10-10T19:55:49+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-10T19:55:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNms5TDJPbFZZcU9FTmhIYzZ3anpCNEhVZmQya0IwT0s5a2VXTWVOdFFIeGJKY01aZ3psMmNBSWtsd09vdEZBUi15NV9KUmxyRVk0REZUYVRNVFlGOUFJT2dQcVU0alVhNlR6SENlcFBHTW16ME0xVUFLNmNpbk15MlZaN3ZCVVFMU3lDNlZXS215blgwQ3FNeWQybTRPdXhxUG1CWk5HMk8xcFhxeXczSVZsdlNwTWpoNE1sWUxPajktVmtocTJF"
-    },
-    {
-     "name": "WNWN-FM",
-     "published_at": "2026-10-10T20:01:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXJ5WEEzNFhZdXdfRHRORERlcUZTam9QcFdYdkk4T3lBT2xzQ3lpVGpGOFpCM3ZTenZBcU1XSzRRRVBZMDZzMlZIYnRoT0EtQ2Q2alZCSVpYQ2h1SVpMbjljUXhJRkc5aUJFQXNuaXRqRHlQdUFyNS1pbW5RcW9IVEJ0dnNKcFJQM1d2NzA4aFd0enhtVm1NNVJRX0ZleXJreGR4VE91c0xLUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达洽谈追加投资或收购Reflection AI",
-   "title_zh": "据FT报道英伟达洽谈追加投资或收购Reflection AI",
-   "sentiment": 1
-  },
-  {
-   "id": "7b41167fcbb6",
-   "title": "GTC - NVIDIA - NVIDIA",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IX1lvZGNiMnNKQkk5dzZ1X2g5Y2xnbjgzQU56cnlNcHhMM3V4Szdncl9MVUVEVmtaZzJXUXBxNGtUQ2lBZlNWeXhIWVBad0xVeW8tTWFxQkRmbjFtRHJMdkJETQ",
-   "source": "NVIDIA",
-   "published_at": "2026-10-10T19:38:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA",
-     "published_at": "2026-10-10T19:38:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IX1lvZGNiMnNKQkk5dzZ1X2g5Y2xnbjgzQU56cnlNcHhMM3V4Szdncl9MVUVEVmtaZzJXUXBxNGtUQ2lBZlNWeXhIWVBad0xVeW8tTWFxQkRmbjFtRHJMdkJETQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达举办GTC华盛顿特区大会",
-   "title_zh": "英伟达 GTC 华盛顿特区大会",
-   "sentiment": 0
-  },
-  {
-   "id": "b4a0359888bf",
-   "title": "NVIDIA DLSS 5 via DOSBox radically changed the look of 1985's Super Mario Bros. - GameGPU",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV0ZhSl9QbU9KWEJzWEcyS0s3enpWSDhnXzdNTExBMGNSNzU0M0ZKWEtnNGhLQkYxZnB6WmtOTXEwODJ5MXYxN2U0Szd4QjlOcVBMaUN6djlXekpxb1hyS1FkTTEzaWNFcVRGaUM5QlhVS1NSTkJHSk5UaHBKTlZzaUUyLTVwVXBDXzgyQnZOSlNjVFBXQ1ktdzFQTndUYXJLeG5ZdnRDMjFBVm1RZUNFVkhPMzFkYmFIUkVz",
-   "source": "GameGPU",
-   "published_at": "2026-10-10T19:38:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GameGPU",
-     "published_at": "2026-10-10T19:38:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV0ZhSl9QbU9KWEJzWEcyS0s3enpWSDhnXzdNTExBMGNSNzU0M0ZKWEtnNGhLQkYxZnB6WmtOTXEwODJ5MXYxN2U0Szd4QjlOcVBMaUN6djlXekpxb1hyS1FkTTEzaWNFcVRGaUM5QlhVS1NSTkJHSk5UaHBKTlZzaUUyLTVwVXBDXzgyQnZOSlNjVFBXQ1ktdzFQTndUYXJLeG5ZdnRDMjFBVm1RZUNFVkhPMzFkYmFIUkVz"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "用DLSS 5经DOSBox重制1985超级马里奥",
-   "title_zh": "英伟达DLSS 5经DOSBox重制1985年《超级马里奥兄弟》",
-   "sentiment": 1
-  },
-  {
-   "id": "498f1dc0d466",
-   "title": "曝英伟达停产RTX 5090，GB202芯片专供专业卡 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2pnRHJKd1paWUhYb21hekNTcklZc01wNWswNE10cnN4SFRDeV9UcEpTd1JJLTA5TTBLSTA4X3Y5VHNxUDhxSmstOW9ZM2VPT1YwTFJTaEl6UTdfeHdWeTZXRERmRHZxRVdFRm1QRE5aSDR1eVpXOFhNNW9DNTNieE9oS0dVZV9Ydm1keQ",
-   "source": "搜狐",
-   "published_at": "2026-10-10T19:26:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-10T19:26:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2pnRHJKd1paWUhYb21hekNTcklZc01wNWswNE10cnN4SFRDeV9UcEpTd1JJLTA5TTBLSTA4X3Y5VHNxUDhxSmstOW9ZM2VPT1YwTFJTaEl6UTdfeHdWeTZXRERmRHZxRVdFRm1QRE5aSDR1eVpXOFhNNW9DNTNieE9oS0dVZV9Ydm1keQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "传英伟达停产RTX5090，芯片专供专业卡",
-   "title_zh": "曝英伟达停产RTX 5090，GB202芯片专供专业卡 - 搜狐",
-   "sentiment": 0
   }
  ]
 }
