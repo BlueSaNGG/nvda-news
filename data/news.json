@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T18:06:32.747985+00:00",
+ "updated_at": "2026-10-12T18:21:32.062406+00:00",
  "market": {
-  "price": 226.39,
-  "change_pct": -1.26,
+  "price": 226.34,
+  "change_pct": -1.28,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.19,
-   "count": 135
+   "avg": 0.18,
+   "count": 137
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.19（135条已评分）"
+     "note": "今日新闻情绪 +0.18（137条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $226.39 vs 20日均线 $227.51"
+     "note": "现价 $226.34 vs 20日均线 $227.50"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 83,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.1,
-   "ma20": 227.51,
-   "as_of": "2026-10-12T18:06:32.733385+00:00"
+   "implied_upside_pct": 39.2,
+   "ma20": 227.5,
+   "as_of": "2026-10-12T18:21:32.045227+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "d7041f09eecb",
+   "title": "【公司治理】从英伟达大规模回购股票说起 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DRnlIa0FZaElEQWlCQmFoTWhGZ280cUxNblBnYzdDckw5clNGRk1ZUUhSdklURGhYYWgtYWhzcW1hdm41RlVwakF4anh2TmJUR2luWWFGUkJMdVowRVcwNGY2bw",
+   "source": "东方财富",
+   "published_at": "2026-10-12T18:17:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-12T18:17:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DRnlIa0FZaElEQWlCQmFoTWhGZ280cUxNblBnYzdDckw5clNGRk1ZUUhSdklURGhYYWgtYWhzcW1hdm41RlVwakF4anh2TmJUR2luWWFGUkJMdVowRVcwNGY2bw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "b35391eccc86",
+   "title": "Microsoft and Amazon chip away at Nvidia’s dominance - LinkedIn",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNay11ZkZPeWF2VFZQcU8wU0NZQUNoVi16c0NrYkhzNDlRdHBiUUg0Q283X1BUMXpON1NseVhya1paYWFBOUpDNElXQThnNmRTX05KajktMVRzVWhTUFpydUhfaWlsTnM4ejBudF81LUdmU2ZRdXFUS2VrcVFpNDl5NE40THVtNVFWVnFIQXJfS0FKR1Ny",
+   "source": "LinkedIn",
+   "published_at": "2026-10-12T18:17:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "LinkedIn",
+     "published_at": "2026-10-12T18:17:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNay11ZkZPeWF2VFZQcU8wU0NZQUNoVi16c0NrYkhzNDlRdHBiUUg0Q283X1BUMXpON1NseVhya1paYWFBOUpDNElXQThnNmRTX05KajktMVRzVWhTUFpydUhfaWlsTnM4ejBudF81LUdmU2ZRdXFUS2VrcVFpNDl5NE40THVtNVFWVnFIQXJfS0FKR1Ny"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "f9a6ed950c4e",
    "title": "Nvidia Stocks Fall 1.5% as Microsoft Pushes Maia Into Inference - GuruFocus",
@@ -80,6 +114,23 @@
    "zh_summary": "微软Maia芯片进推理，英伟达跌1.5%",
    "title_zh": "微软推进Maia芯片进入推理领域，英伟达股价下跌1.5%",
    "sentiment": -1
+  },
+  {
+   "id": "27eabbc87aea",
+   "title": "Amazon and Nvidia considering AI startup deals: Reports - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3ZTd1JwbXJaNjZ5OGNCTzRqNEJvc3hmOGVmVHZGalplaGk2blB4MnlGVDlqSElQclMxc0ptSzNHYkE4NTBpOUJIV0Nob3FfbDhlUmFoQ2F2aGFWWXBxamxIM3JPOWRHd0cyVTlta0FlRGktdzVPTmdVUVplNVB1Zks4ZkNOZDF0SkUydmRkRDZ6T0pGN3UwVGxoeGY3UQ",
+   "source": "CNBC",
+   "published_at": "2026-10-12T17:53:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-12T17:53:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3ZTd1JwbXJaNjZ5OGNCTzRqNEJvc3hmOGVmVHZGalplaGk2blB4MnlGVDlqSElQclMxc0ptSzNHYkE4NTBpOUJIV0Nob3FfbDhlUmFoQ2F2aGFWWXBxamxIM3JPOWRHd0cyVTlta0FlRGktdzVPTmdVUVplNVB1Zks4ZkNOZDF0SkUydmRkRDZ6T0pGN3UwVGxoeGY3UQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "eef0b0eacf7c",
@@ -5480,6 +5531,28 @@
    "sentiment": -1
   },
   {
+   "id": "62c952be2c40",
+   "title": "持续加码AI模型！英伟达洽谈收购美国版DeepSeek - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1dm8xQWRSeFJQVktLalZpRENaeFhGRVZCOFJEOEVpejBYanpnQXFyUHFDYXI4SzdPQnB5WGJzLWtBZTNsQVhqaVgtN1BMV3k5ZHRXUTI4X1g",
+   "source": "驱动之家",
+   "published_at": "2026-10-11T07:25:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-11T07:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1dm8xQWRSeFJQVktLalZpRENaeFhGRVZCOFJEOEVpejBYanpnQXFyUHFDYXI4SzdPQnB5WGJzLWtBZTNsQVhqaVgtN1BMV3k5ZHRXUTI4X1g"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-12T01:36:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53NzhpdUp6WmlZbmh0dkl2WkZOUGtJbVFlQlRVX3V3MXZkVWpBMHJWaWtfVlhJRjctZVZta1ViaTJfeGJWd19ESVlOc1lsQXhNNE5JZzVmZ3JjWUVoWFBRSQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "7f994dfafa1b",
    "title": "Nvidia Weighs Buying Reflection AI, the $25 Billion Open-Weight Model Startup It Already Backs - TIKR.com",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb0tXTDQ1TmtvaEhWdTY3Rmp4UlctaExBdGVwWmRONzZzbDB6RTJqZkNEWm5GbHRvWEFKdFNxcklsNGh2S3UtYzNwSUFJcm9iNnF4cUhRVmdiemJhX0NlbnczSTJCMXI1ay1TN3ZRdUllbURMelNlYVFzZDNjOTY1azVJUTJINUhITkJETTlyNXNycTVMdjZFb2RFWVczNFlvU2dBMFZ2LVlKZFRmaVQ1cms5MF9zc1Jxbnc",
@@ -6557,115 +6630,6 @@
    "session": "周末",
    "zh_summary": "英伟达洽谈收购Reflection AI处早期",
    "title_zh": "英伟达正洽谈收购Reflection AI，双方谈判尚处于早期阶段。 - 手机新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "400b489eda82",
-   "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI - Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFAzNzlXTG5BbHZkbU5EX3lMZEl6Z3ZROVJPbE5NbFNwdXQtZ3N3cDlCYTNBVlg2VF9fTVE5RnIxS0I3b0dUejNudmZseG03RzVCdTBBS3hWaWM5S05KYV9WLWVOMENkODV0N2RXQzctank0bVpfSWo1bjNmbGg0Wi1RWFA",
-   "source": "Financial Times",
-   "published_at": "2026-10-10T18:14:28+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "Financial Times",
-     "published_at": "2026-10-10T18:14:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSFAzNzlXTG5BbHZkbU5EX3lMZEl6Z3ZROVJPbE5NbFNwdXQtZ3N3cDlCYTNBVlg2VF9fTVE5RnIxS0I3b0dUejNudmZseG03RzVCdTBBS3hWaWM5S05KYV9WLWVOMENkODV0N2RXQzctank0bVpfSWo1bjNmbGg0Wi1RWFA"
-    },
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-10T19:12:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXZ1ZEtGRWFDZGoycHJ5WVN6ZllVd3R0dXI1TnJxX0ljT21hODJQR014QlJLMzkzRjlmS1ZzV3VKX0djUnI5QmxHT0pQMmJnVXFUQTNoTDlPdDBsUnJVZjZ6REJHYXhsamZzc045TTJScTBud25kVnRXZm51T1pFVzRtS24tM2xy"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-10T18:16:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUkNlZ0owUlVoS2hwUmtEVERmdjNLa1BHNm1iVkR2SFRNVzhNeENNUW5oZ183ekV0Z3lmS1ptQmJ6MnBIaDR2YjRjN3JTTmRlUklwbFMtNkhDaGVKTkxPTjFYVEREakJkeHJCRkhOeWpkVkN5YjRTTHpBT1pMdkFGQlJ3ZVU5T3dJY3FCU2xuSUZFajliVklRemtZc2JFOW1EVk9uekQyM05NUkVKeElIbkI0WTZCU3JTUEhpMTU3LVBqQWotTlNldHJLRjItNXgxcFNKanZpWUkxZDZ6WDJva2hHUldiZ3NJWFpzZw"
-    },
-    {
-     "name": "www.trendingtopics.eu",
-     "published_at": "2026-10-12T05:48:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uTW5iR19KRjc4TWRfS1JfSW84YlJTV2FQNjBNc3dTQ2trRnhnNjNHaFZObndxb0FRYUU2akFGYXNXd0pDOFFZdWlvSWhTa0ctb29VY1JPV0gxc3NGaWZiMm15X2x6dS1kQk45SzVVdEQ"
-    },
-    {
-     "name": "AI Magazine",
-     "published_at": "2026-10-12T08:33:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDhqUVpYSXRubVV3S2FXaXlSU3o5cXZiaEJJaUNTVjlzYjhiLVFrR183N1B6U2EwbV84NldTNkhiOTZLcFoyOXVldTREWF9DS1VjVTM1VkM5TElXdWJaRDdGYXNkNFpzMjg1UVlQV2EzRG40SXMtNDlCUGtMRzFGdk9wRnN6c3lGbEVj"
-    },
-    {
-     "name": "Quartz",
-     "published_at": "2026-10-12T11:22:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pUDJkYVZtbzB2czB3X3pzVnlxVUJESThMY2JmTDBMYm4tQTN2WTZJTHNqZ0FUVlZLTVJIRFFhSDRuWUdBaTFYaGZ6Qkdib3RyUlBNTmZzX1VWUmo2VjdoR1NjcEhyaXJrQ1o4aWFJM2xuYktLM1JxMDAybw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达洽谈收购Reflection AI",
-   "title_zh": "英伟达洽谈收购美国开源模型初创公司Reflection AI",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.2,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "1f59b7cfd248",
-   "title": "What Could Shape Nvidia (NASDAQ:NVDA) From Here? - Kalkine Media",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGFCOHJYQVZzMktzTTQxRVh3dnk3OVdiX3VLTlE0c1h5dGRMQXA5c0d5Z2pPMEl4VFR4V044dWwwNzQzTTI4ckhmWnlqLXpmNThaV1dvRlhHZ3RfZWZ0aG12YmRoM2JNZ1JxZFFobHB2S2t4VXNwOTlNU3BBU1BkRXl0RkY2NmN6WFRRdzhaRXZyZw",
-   "source": "Kalkine Media",
-   "published_at": "2026-10-10T17:48:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Kalkine Media",
-     "published_at": "2026-10-10T17:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGFCOHJYQVZzMktzTTQxRVh3dnk3OVdiX3VLTlE0c1h5dGRMQXA5c0d5Z2pPMEl4VFR4V044dWwwNzQzTTI4ckhmWnlqLXpmNThaV1dvRlhHZ3RfZWZ0aG12YmRoM2JNZ1JxZFFobHB2S2t4VXNwOTlNU3BBU1BkRXl0RkY2NmN6WFRRdzhaRXZyZw"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "周末",
-   "zh_summary": "展望：影响英伟达走势的因素",
-   "title_zh": "展望未来：哪些因素将影响英伟达(NVDA)？",
-   "sentiment": 0
-  },
-  {
-   "id": "a48bc9161310",
-   "title": "Analysts Offer Insights on Technology Companies: AST SpaceMobile (ASTS) and Nvidia (NVDA) - The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTGMxR3E1cGVxR25taGlfLTc3Z0I5am13Rm1PTzN2R0p1cjRaRGM5enZpNUlmVHhFVTY2SVh0Q1NneE5IVTdQbzJuYlExSml0VU4xeTJVX1h4VU1TODl2d2FNdkM1MTM2SEN1MEt2ZkJvbHpobHdUeDVyam5xeTJhUGdEeUpHWTVqMVlHUkRNWktXVklIMHg5TGllYU81YUxkdUN2RHN4VGJCb3poYUM1YnhSS3RhVE1qMDhrZHVuNFhlMmo5RF9reVVYeTY2bmYtWVczRTJybV9FYmY1Ui1YZnJpSGlmLUxXckJGYklOaWVvSHVxQmduRWdEU2xCQQ",
-   "source": "The Globe and Mail",
-   "published_at": "2026-10-10T17:46:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-10T17:46:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTGMxR3E1cGVxR25taGlfLTc3Z0I5am13Rm1PTzN2R0p1cjRaRGM5enZpNUlmVHhFVTY2SVh0Q1NneE5IVTdQbzJuYlExSml0VU4xeTJVX1h4VU1TODl2d2FNdkM1MTM2SEN1MEt2ZkJvbHpobHdUeDVyam5xeTJhUGdEeUpHWTVqMVlHUkRNWktXVklIMHg5TGllYU81YUxkdUN2RHN4VGJCb3poYUM1YnhSS3RhVE1qMDhrZHVuNFhlMmo5RF9reVVYeTY2bmYtWVczRTJybV9FYmY1Ui1YZnJpSGlmLUxXckJGYklOaWVvSHVxQmduRWdEU2xCQQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "周末",
-   "zh_summary": "分析师解读科技股：ASTS与NVDA",
-   "title_zh": "分析师解读科技公司：AST太空移动与英伟达(NVDA)",
-   "sentiment": 0
-  },
-  {
-   "id": "b1b5cb0d3084",
-   "title": "NVIDIA DLSS 5 could see up to a 60% performance boost when natively integrated into game engines. - GameGPU",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS1dtWDBVcGVmUGdNQlBwVm9zd0FvWGNPdUozSnM5elA1LXR6bkhQdkpzR1pkQ2o2cnFpUG5PdVhxRzduYnQ1Nl9pRVVTQmpqakh0T0dqU01zVk95RXg2bXEzRGw5SUcyZjRxSFUyWm1VazZHeWpTYmoyY1BZWXV5SWVGZ3p5TW5YQWkxcWFXdzNTZVVDd1NQcWxJWGk1Vy0wRkgtMUhTSGtnWGpnYUNJMGpNSWZMV3lUMlU4",
-   "source": "GameGPU",
-   "published_at": "2026-10-10T17:29:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GameGPU",
-     "published_at": "2026-10-10T17:29:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS1dtWDBVcGVmUGdNQlBwVm9zd0FvWGNPdUozSnM5elA1LXR6bkhQdkpzR1pkQ2o2cnFpUG5PdVhxRzduYnQ1Nl9pRVVTQmpqakh0T0dqU01zVk95RXg2bXEzRGw5SUcyZjRxSFUyWm1VazZHeWpTYmoyY1BZWXV5SWVGZ3p5TW5YQWkxcWFXdzNTZVVDd1NQcWxJWGk1Vy0wRkgtMUhTSGtnWGpnYUNJMGpNSWZMV3lUMlU4"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "DLSS 5原生集成游戏引擎性能提升60%",
-   "title_zh": "英伟达DLSS 5原生集成游戏引擎，性能提升60%",
    "sentiment": 1
   }
  ]
