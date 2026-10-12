@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T15:51:32.494397+00:00",
+ "updated_at": "2026-10-12T16:06:32.249037+00:00",
  "market": {
-  "price": 226.38,
-  "change_pct": -1.27,
+  "price": 226.8,
+  "change_pct": -1.08,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 108
+   "avg": 0.28,
+   "count": 113
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +38.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（108条已评分）"
+     "note": "今日新闻情绪 +0.28（113条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $226.38 vs 20日均线 $227.50"
+     "note": "现价 $226.80 vs 20日均线 $227.53"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 83,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.1,
-   "ma20": 227.5,
-   "as_of": "2026-10-12T15:51:32.482028+00:00"
+   "implied_upside_pct": 38.9,
+   "ma20": 227.53,
+   "as_of": "2026-10-12T16:06:32.234168+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+38.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ff7751c0cc2d",
+   "title": "ASUS Debuts XA P2N-E2 Server With Dual NVIDIA Vera CPUs at OCP - Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHlyUDdFSVZMTG9qYVQ4YzZRek5RbFpkWjE5UmFLaFdGcXoxUENra2M3OTZ0SkdFbkw4X3dPYlRfOGx5TzJ6RzhFaWlaR2l3WHJVSHJEWVVNSEotbjZqMlFCVEg0NUQzZDBSc3otRXdPSl9qRTZJSUtSdkNuaVB4a3dUam1MeVJDTVkxNA",
+   "source": "Unite.AI",
+   "published_at": "2026-10-12T15:56:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Unite.AI",
+     "published_at": "2026-10-12T15:56:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHlyUDdFSVZMTG9qYVQ4YzZRek5RbFpkWjE5UmFLaFdGcXoxUENra2M3OTZ0SkdFbkw4X3dPYlRfOGx5TzJ6RzhFaWlaR2l3WHJVSHJEWVVNSEotbjZqMlFCVEg0NUQzZDBSc3otRXdPSl9qRTZJSUtSdkNuaVB4a3dUam1MeVJDTVkxNA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "4ab332713146",
    "title": "NVIDIA is discontinuing shipments of its flagship GeForce RTX 5090 graphics card chips. - GameGPU",
@@ -80,6 +97,23 @@
    "zh_summary": "英伟达旗舰RTX 5090芯片被曝停产",
    "title_zh": "英伟达停止供应旗舰显卡RTX 5090芯片",
    "sentiment": 0
+  },
+  {
+   "id": "7b721576c8f9",
+   "title": "Microsoft Unveils New Maia AI Chips on a Rough Day for Nvidia Stock - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0xiX25MdWZKcWVyVVUyN013VnRRQkhXRzlqeUtaeHVmc2ExMjVKb1k4bmRWTzFRY0pUQXItRE1TcWs1RUxpSVVvU2Zmb0s2TkRsMVN1cnFYeTlydmlSVUZxOXUweXBobGZrcGU5WUs5ODU1eVBORW95UmpncmZBVg",
+   "source": "Barron's",
+   "published_at": "2026-10-12T15:39:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-12T15:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0xiX25MdWZKcWVyVVUyN013VnRRQkhXRzlqeUtaeHVmc2ExMjVKb1k4bmRWTzFRY0pUQXItRE1TcWs1RUxpSVVvU2Zmb0s2TkRsMVN1cnFYeTlydmlSVUZxOXUweXBobGZrcGU5WUs5ODU1eVBORW95UmpncmZBVg"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "6a29309e2273",
@@ -526,6 +560,23 @@
    "sentiment": 1
   },
   {
+   "id": "5035ac3399e6",
+   "title": "Nvidia tackles AI factory scaling bottlenecks with open rack designs and networking advances - SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDR5LVBqRE1pV3NhandIU1ZqdG9SN3JPeHNQMF9VN3QxWWRQZEFibEZlSld2aDBRMTlVZnBLenhOenBtdUtacjloRFIwdjloMnY1OUxKWGF6bVlwZVpkdGtsRVZNVXIwdzRoS09fdHVvNFMybjBLdWM5N1FKU19tRzNEeWFMR3NWUThieEJCUWtsRGtlS2ZjSWdkaXlVaC1GaHBxd1Y5eG5OWjJIVjNlTkMxc3pKT0FfY3VUTmJsWWhCei01MTYzaQ",
+   "source": "SiliconANGLE",
+   "published_at": "2026-10-12T15:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "SiliconANGLE",
+     "published_at": "2026-10-12T15:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDR5LVBqRE1pV3NhandIU1ZqdG9SN3JPeHNQMF9VN3QxWWRQZEFibEZlSld2aDBRMTlVZnBLenhOenBtdUtacjloRFIwdjloMnY1OUxKWGF6bVlwZVpkdGtsRVZNVXIwdzRoS09fdHVvNFMybjBLdWM5N1FKU19tRzNEeWFMR3NWUThieEJCUWtsRGtlS2ZjSWdkaXlVaC1GaHBxd1Y5eG5OWjJIVjNlTkMxc3pKT0FfY3VUTmJsWWhCei01MTYzaQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "a71f95561c8d",
    "title": "Nvidia may be killing off the RTX 5090 as AI chips take priority over gaming GPUs - TechSpot",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcFlINFpKRm5YSEVlN19UQW1YQkhLSjVSRHNfT0dJRWI1b3lDRUY5MTdEbURRZk1ialBUYzl0ZXhsMFl3VjFvXzZEcmstLWlnRHhjUktYWWpVQkZ5ZUZKeFNZZnlCVUcybmgtWTk3RmF5M2ZESkJ3OFhyNmpYVEI5blEyejgxRE9NQUE",
@@ -938,6 +989,23 @@
    "zh_summary": "高收益率油价拖累芯片股盘前跌近3%",
    "title_zh": "高收益率和油价拖累芯片股盘前跌近3%",
    "sentiment": -1
+  },
+  {
+   "id": "02ccc9223c80",
+   "title": "Intel CEO Lip-Bu Tan may have just agreed with Nvidia CEO Jensen Huang and Meta's former chief AI scienti - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPRFo3OWRmVDRVcjdMU0hkam4waHB3U3NfMnRLUjRUNGNtYm5VeXZpcVk3VjR1T04xdGhfWlVBRGFrZWRWSUdhSGFiWEZWVlB0aEhPTXJEejV4bHdOODFCRmpadHRfZHlvb3JqcVFoMTVQcm5ZOGlmQXRBLTc5UmhnYTRlM19LOUJvZ2tjb3NuRTd6Ul9CRFJZWXNSdHZELUNhRWFGSnZPQ0ducWhrMVYwM3B3NjctaW96bm5nN3FxYVUxdEk0SHJqb3VxRURYbkRBWDF2Q3N1QjgzZFJ6XzhzTEN6dVo5ZkdMLVhfRU1jS2JXUWNrTzhCdU9tTkp4b0d4V1lpamFLd3BIRllfRGMxeEgwSWdZWnhsOC04bTFCVUxLUmF5b3lyU0RobmFqSDJLZGY1X2pyMW1TZ2UtWE84bWx5aklaNXVX0gHOAkFVX3lxTE5CXzlsWm5hUTZadFJGR3NnRmJKSDU5YVN0ejZ0aWFpb0NBeHZhWkFwOTRsVkM5LXBVQ1NqU0FyLUk1OUZXOEF4dldFdUlEV0RGUEVvdnJPVHVGTWVsQ1RuTDMzRnJSOTFaaDN2ZmthRkREWS04MnA0Yko1NGo0NnNvM3B3UGdTekgxS3VJYVJ3LTBnTTJCWWdSa0h5WnBiWl8zTkd1dDlxZ0hpMHpXVTFxWjh5Y1VRaW9HamtTU3ZRMG5XSEd6UC1adG83QmdnZmp2RXBKbmctTTRMdEdMTnB3S1E4cDY5RmpiV01nd21EanhnS2dBWS0zTnVoTzlZaFAwNUg2MmRZcDJ1dGJOakMtci1QYjBvODZ4V01KMi1jNzdmSGh2NWpQX04xOWQ4ZTk4b1dRaENTelJweTF4NGo1cjBBSEs5TTlKNUluY0E",
+   "source": "The Times of India",
+   "published_at": "2026-10-12T13:29:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Times of India",
+     "published_at": "2026-10-12T13:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPRFo3OWRmVDRVcjdMU0hkam4waHB3U3NfMnRLUjRUNGNtYm5VeXZpcVk3VjR1T04xdGhfWlVBRGFrZWRWSUdhSGFiWEZWVlB0aEhPTXJEejV4bHdOODFCRmpadHRfZHlvb3JqcVFoMTVQcm5ZOGlmQXRBLTc5UmhnYTRlM19LOUJvZ2tjb3NuRTd6Ul9CRFJZWXNSdHZELUNhRWFGSnZPQ0ducWhrMVYwM3B3NjctaW96bm5nN3FxYVUxdEk0SHJqb3VxRURYbkRBWDF2Q3N1QjgzZFJ6XzhzTEN6dVo5ZkdMLVhfRU1jS2JXUWNrTzhCdU9tTkp4b0d4V1lpamFLd3BIRllfRGMxeEgwSWdZWnhsOC04bTFCVUxLUmF5b3lyU0RobmFqSDJLZGY1X2pyMW1TZ2UtWE84bWx5aklaNXVX0gHOAkFVX3lxTE5CXzlsWm5hUTZadFJGR3NnRmJKSDU5YVN0ejZ0aWFpb0NBeHZhWkFwOTRsVkM5LXBVQ1NqU0FyLUk1OUZXOEF4dldFdUlEV0RGUEVvdnJPVHVGTWVsQ1RuTDMzRnJSOTFaaDN2ZmthRkREWS04MnA0Yko1NGo0NnNvM3B3UGdTekgxS3VJYVJ3LTBnTTJCWWdSa0h5WnBiWl8zTkd1dDlxZ0hpMHpXVTFxWjh5Y1VRaW9HamtTU3ZRMG5XSEd6UC1adG83QmdnZmp2RXBKbmctTTRMdEdMTnB3S1E4cDY5RmpiV01nd21EanhnS2dBWS0zTnVoTzlZaFAwNUg2MmRZcDJ1dGJOakMtci1QYjBvODZ4V01KMi1jNzdmSGh2NWpQX04xOWQ4ZTk4b1dRaENTelJweTF4NGo1cjBBSEs5TTlKNUluY0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "bc172c511103",
@@ -3058,6 +3126,23 @@
     "pct": -0.2,
     "window_h": 0.1
    }
+  },
+  {
+   "id": "bf0039c30cc6",
+   "title": "英伟达拟以“收购式招聘”拿下Reflection AI：先投8亿，再用买人不买公司绕开监管 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHdTUlhhVm5IR1UzQjBpa3RzU3dpY0p1bjFjblhmX0tKZTZBSnJUcmpOTjMtaF9oNjJVRkNiT2hONTFRcEhMVFJIc0ZXMnZaLUVrRE92X0FLLTVNMEFtV2dHNjB6Y2lkdGJFb0RVMGt6bmtLeUVkbHhxY0VrZFozX2xTYUNHYmtCYkotY0RzdXY5M1F1NGtKOFpVVTFoWVJfQlZsbXdrTS0yZXYyRmRJ",
+   "source": "富途牛牛",
+   "published_at": "2026-10-12T00:39:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-12T00:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHdTUlhhVm5IR1UzQjBpa3RzU3dpY0p1bjFjblhmX0tKZTZBSnJUcmpOTjMtaF9oNjJVRkNiT2hONTFRcEhMVFJIc0ZXMnZaLUVrRE92X0FLLTVNMEFtV2dHNjB6Y2lkdGJFb0RVMGt6bmtLeUVkbHhxY0VrZFozX2xTYUNHYmtCYkotY0RzdXY5M1F1NGtKOFpVVTFoWVJfQlZsbXdrTS0yZXYyRmRJ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "ee810246e87b",
@@ -6560,111 +6645,6 @@
    "session": "周末",
    "zh_summary": "特朗普给黄仁勋颁发奖章",
    "title_zh": "这时间点太巧了！英伟达股票刚卖完 特朗普就给黄仁勋发奖章 - 凤凰网",
-   "sentiment": 0
-  },
-  {
-   "id": "5479c13acf9a",
-   "title": "NVIDIA Reportedly Ending the RTX 5090, Reserves GB202 Silicon for Workstation GPUs - TechPowerUp",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFFOWUwxeWx5d0oxZnVjVEJhSy0wZ0JkWnN1SldpdlNPYUpBNHhFOU5OOFFockJNZU1fb0xMNVNOV2tuX3g1NzktTHhZakxYa3c0WG54Z3Z0cFkxVnVtS1pDdGNpWXBiU0RfaDRTVmNSOS0yOU5KQms2NldHLTJoOTh2X0VtbmtqbjhoMXg1YW5PeG04ejNLU0d6Zmt6ODRUZTMzeUM3blBFZ1Qzd0prRWxVclF1bWvSAbwBQVVfeXFMT3hDcjVITzBRUFhGalJncURuSWY1ckh2QWZodHhycE83cTVtT0RoMW1mdzBiSmRfT001bjRteHFxUWlCSFNJbWJUNGZJbTM4TTN5eFFOd1E3X2NMT3ZrRzNBSTVvR1lOQUd2clF0M0FNZWtEM3puQUlIbEhXTnJHREMwX3BOdWo5eVhFaGloYUNzZkZGUzVuYXRsMmpyT1NkQW01cVZwR0otVHViYkJuUkZxWDExX053OGNRVDA",
-   "source": "TechPowerUp",
-   "published_at": "2026-10-10T11:36:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechPowerUp",
-     "published_at": "2026-10-10T11:36:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMFFOWUwxeWx5d0oxZnVjVEJhSy0wZ0JkWnN1SldpdlNPYUpBNHhFOU5OOFFockJNZU1fb0xMNVNOV2tuX3g1NzktTHhZakxYa3c0WG54Z3Z0cFkxVnVtS1pDdGNpWXBiU0RfaDRTVmNSOS0yOU5KQms2NldHLTJoOTh2X0VtbmtqbjhoMXg1YW5PeG04ejNLU0d6Zmt6ODRUZTMzeUM3blBFZ1Qzd0prRWxVclF1bWvSAbwBQVVfeXFMT3hDcjVITzBRUFhGalJncURuSWY1ckh2QWZodHhycE83cTVtT0RoMW1mdzBiSmRfT001bjRteHFxUWlCSFNJbWJUNGZJbTM4TTN5eFFOd1E3X2NMT3ZrRzNBSTVvR1lOQUd2clF0M0FNZWtEM3puQUlIbEhXTnJHREMwX3BOdWo5eVhFaGloYUNzZkZGUzVuYXRsMmpyT1NkQW01cVZwR0otVHViYkJuUkZxWDExX053OGNRVDA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达被曝停产RTX 5090，芯片转工作站GPU",
-   "title_zh": "英伟达被曝停产RTX 5090，GB202芯片留给工作站GPU",
-   "sentiment": 0
-  },
-  {
-   "id": "e801048cb191",
-   "title": "RTX 5090突然停产！英伟达新旗舰换成RTX 5080 24GB：玩家彻底哭了 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YTmd5ckRKNkRqT1JJSWx1YmVXY2tMbE8tMVhSeVpTOF9lS3VWbjZvVVl5OF9CckhuWUxWZ0NLQ1JXWDVVcUFrcE5ORUxkVC11WjBvRmpVcHU",
-   "source": "驱动之家",
-   "published_at": "2026-10-10T11:07:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-10T11:07:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YTmd5ckRKNkRqT1JJSWx1YmVXY2tMbE8tMVhSeVpTOF9lS3VWbjZvVVl5OF9CckhuWUxWZ0NLQ1JXWDVVcUFrcE5ORUxkVC11WjBvRmpVcHU"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-10T11:07:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2Vka0VLZGNmWmUzdS01QnI2bWhZeGRfYmxBMVNBZEV3RkhLX1gydWVoTWxOcEloWDY1cHVSVzJqRk1jTVBVQWJLZWlnQUVoRHNlcGV0UzEyeG9BR1FVSmdQdnZvanBwdFF6TWJ1bmxwa01GQVIxMmd5WTdpQlZ6Z2VidE05WG4x"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "RTX5090或停产，5080 24GB成新旗舰",
-   "title_zh": "RTX 5090突然停产！英伟达新旗舰换成RTX 5080 24GB：玩家彻底哭了 - 驱动之家",
-   "sentiment": 0
-  },
-  {
-   "id": "9324dddc456b",
-   "title": "NVIDIA CEO Jensen Huang receives National Medal of Science for turning gaming GPUs into AI powerhouses - TweakTown",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSVNkam1rSW1SaGk4Y1d5MGowYWplQjNYUmFlYlNwQUVSR3lKcTJqLWpsa1p5cWpkQzRnQzN5OU96Wm5QMy1Zb1ZXNVF3WnQ3c2ZBQXh6RWt6dTNyOXVNV21HSFFBMGFlRy1uQnczaGZBT2d2UnRiZG1aaTNMNndycmpFOExfRUpRYkNRdnk4MXhsR1I2MFFjVjNMeU4wRmlwaVhKdmlIdUNmWnFDaWlXWktiUjVLek9WMC12ZXFDQm85RGhYR2Q2ZVFNTjcya01JU1M1T2Q2cFF1VVp3b0xoaDFZSXJ0dw",
-   "source": "TweakTown",
-   "published_at": "2026-10-10T11:05:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TweakTown",
-     "published_at": "2026-10-10T11:05:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSVNkam1rSW1SaGk4Y1d5MGowYWplQjNYUmFlYlNwQUVSR3lKcTJqLWpsa1p5cWpkQzRnQzN5OU96Wm5QMy1Zb1ZXNVF3WnQ3c2ZBQXh6RWt6dTNyOXVNV21HSFFBMGFlRy1uQnczaGZBT2d2UnRiZG1aaTNMNndycmpFOExfRUpRYkNRdnk4MXhsR1I2MFFjVjNMeU4wRmlwaVhKdmlIdUNmWnFDaWlXWktiUjVLek9WMC12ZXFDQm85RGhYR2Q2ZVFNTjcya01JU1M1T2Q2cFF1VVp3b0xoaDFZSXJ0dw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "黄仁勋获颁国家科学奖章",
-   "title_zh": "黄仁勋获颁国家科学奖章，表彰其将游戏GPU变为AI动力",
-   "sentiment": 1
-  },
-  {
-   "id": "59cd29da806e",
-   "title": "The RTX 3060's 12GB accidentally solved the GPU memory crisis Nvidia created - XDA",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSHBFNXh0WmlaS3lOMUVqLWs2UlpXVmV1SjVYdmZ5V3hVX1RUNk1zQ3lBMHk3WWZUYXlJWnJrZ2dNMXVuOWJYai14RUY1REdDaDNqVDBFV3ZvM3NIS0lZYnVWOXVUSUZma001RGlHQ3VFdGFsaVhhbVNPa25UczAyMTktRlZiOHR3QmNwV1VUV1RtWV9FUU4tVVlpQzJFbXV6cGhuYmRHaw",
-   "source": "XDA",
-   "published_at": "2026-10-10T11:01:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "XDA",
-     "published_at": "2026-10-10T11:01:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSHBFNXh0WmlaS3lOMUVqLWs2UlpXVmV1SjVYdmZ5V3hVX1RUNk1zQ3lBMHk3WWZUYXlJWnJrZ2dNMXVuOWJYai14RUY1REdDaDNqVDBFV3ZvM3NIS0lZYnVWOXVUSUZma001RGlHQ3VFdGFsaVhhbVNPa25UczAyMTktRlZiOHR3QmNwV1VUV1RtWV9FUU4tVVlpQzJFbXV6cGhuYmRHaw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "RTX 3060 12GB版意外缓解显存危机",
-   "title_zh": "RTX 3060 的 12GB 显存意外缓解了英伟达引发的显存危机",
-   "sentiment": 0
-  },
-  {
-   "id": "69412a006c76",
-   "title": "Flutterwave CEO Joins OpenAI, NVIDIA, Microsoft Board [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkt2NE9yTmUzRmRlQmZJXzhwdDBrOGQ5dTJCMExST0s1RWFHRkZyMmVSSFQ3cWxQZEIzY3NjSzhrU25SSC1lc0R4Ylh2UDJUSVFKRlhVaEZEeUFfc1J6Y0JySEdCY2ZKTk9PN25Velg4d1NtdUIzWmpLbFl3SVNFVl9uUVU0MklxR3A1bmJhQ3UzUGM",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-10T11:01:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-10T11:01:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkt2NE9yTmUzRmRlQmZJXzhwdDBrOGQ5dTJCMExST0s1RWFHRkZyMmVSSFQ3cWxQZEIzY3NjSzhrU25SSC1lc0R4Ylh2UDJUSVFKRlhVaEZEeUFfc1J6Y0JySEdCY2ZKTk9PN25Velg4d1NtdUIzWmpLbFl3SVNFVl9uUVU0MklxR3A1bmJhQ3UzUGM"
-    }
-   ],
-   "category": "AI需求",
-   "session": "周末",
-   "zh_summary": "Flutterwave CEO加入英伟达等董事会",
-   "title_zh": "Flutterwave CEO加入OpenAI、英伟达和微软董事会（2026）",
    "sentiment": 0
   }
  ]
