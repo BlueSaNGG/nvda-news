@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T16:21:28.220084+00:00",
+ "updated_at": "2026-10-12T16:36:29.088129+00:00",
  "market": {
-  "price": 226.62,
-  "change_pct": -1.16,
+  "price": 226.52,
+  "change_pct": -1.2,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.28,
-   "count": 117
+   "avg": 0.27,
+   "count": 120
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.0%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（117条已评分）"
+     "note": "今日新闻情绪 +0.27（120条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $226.62 vs 20日均线 $227.52"
+     "note": "现价 $226.52 vs 20日均线 $227.51"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 83,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.0,
-   "ma20": 227.52,
-   "as_of": "2026-10-12T16:21:28.198786+00:00"
+   "implied_upside_pct": 39.1,
+   "ma20": 227.51,
+   "as_of": "2026-10-12T16:36:29.076074+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.0%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "f73f6c24ce8f",
+   "title": "If NVIDIA RTX 5080 Super GPU arriving in Q1 2027 rumor is true, that's surely a big hint we won't get an RTX 6090 for ages - TweakTown",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY3JKT1c5dFVrS1Q2N1NDSWhoWXF3U2J2MEhMOERuQXdyUmtMVEZSQXR3U2c4Q0N3MFpGeDhxTF9MUkRUWmZHLTc1dXl5NHcxenNrcXQ5MzhlV1RqaGF0NDJMQWE1c2VlTjFVZUZ1V3E1cDZZTE1FbU9RdFdBbG5ZcktSN184eFV4bFVKZTV2eFJ5U280aDNvNlNsZzJBSnU4SDB4ZmhMVEJyLVpmRGg4aFdlOTBUMFZuMmppUmhwUkRXOXItR0ZmOXQ4UjdVYThoRlRaTmQyb04zeF9nc21LeTI0Q3RxbWVPNkc0N0R6NU9yeU9rWFpnUUhkU2k",
+   "source": "TweakTown",
+   "published_at": "2026-10-12T16:30:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TweakTown",
+     "published_at": "2026-10-12T16:30:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY3JKT1c5dFVrS1Q2N1NDSWhoWXF3U2J2MEhMOERuQXdyUmtMVEZSQXR3U2c4Q0N3MFpGeDhxTF9MUkRUWmZHLTc1dXl5NHcxenNrcXQ5MzhlV1RqaGF0NDJMQWE1c2VlTjFVZUZ1V3E1cDZZTE1FbU9RdFdBbG5ZcktSN184eFV4bFVKZTV2eFJ5U280aDNvNlNsZzJBSnU4SDB4ZmhMVEJyLVpmRGg4aFdlOTBUMFZuMmppUmhwUkRXOXItR0ZmOXQ4UjdVYThoRlRaTmQyb04zeF9nc21LeTI0Q3RxbWVPNkc0N0R6NU9yeU9rWFpnUUhkU2k"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "63fc6447c68a",
+   "title": "微软将加大自研AI芯片使用，降低对英伟达依赖|云平台|Copilot|模型|谷歌|首席执行官 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZ0VsU0FEVVZUemdVX1pXVk42dFBIQWhKSWJSOTAyR1VqTW9KVHRUOEFkbkJtMWJiZVBFNlV2ckU5Y1p1dk85aDl1dEh0Qmk2LVlTaHhpTDJENU9VcnFGQ3RwSEJEODB3TEp1RkhXMU5wSDl0NXhYOER0Q2FTcXgyRFNRUUxTQkpWSm5pME05ekQ4NW5rLWswRjB1UFVQUGFvbktxOFk4N1hfcXM4RnJ2TTZDMlBVb2JyM25OSWpCejFOUVZEMVAwMlJ6LWE1amtiUUk5OHVyN201ZVhRbFNJamN2MEF4bDNmeGRTYng3S3Q3WXFaQ0R2VlhJZEJpVHVUUUdmZ21GWFRhZw",
+   "source": "新浪财经",
+   "published_at": "2026-10-12T16:22:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-12T16:22:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZ0VsU0FEVVZUemdVX1pXVk42dFBIQWhKSWJSOTAyR1VqTW9KVHRUOEFkbkJtMWJiZVBFNlV2ckU5Y1p1dk85aDl1dEh0Qmk2LVlTaHhpTDJENU9VcnFGQ3RwSEJEODB3TEp1RkhXMU5wSDl0NXhYOER0Q2FTcXgyRFNRUUxTQkpWSm5pME05ekQ4NW5rLWswRjB1UFVQUGFvbktxOFk4N1hfcXM4RnJ2TTZDMlBVb2JyM25OSWpCejFOUVZEMVAwMlJ6LWE1amtiUUk5OHVyN201ZVhRbFNJamN2MEF4bDNmeGRTYng3S3Q3WXFaQ0R2VlhJZEJpVHVUUUdmZ21GWFRhZw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "10b3302b9dcc",
    "title": "Nvidia reportedly ends GeForce RTX 5090 graphics card production - GamesIndustry.biz",
@@ -3170,6 +3204,23 @@
     "pct": -0.2,
     "window_h": 0.1
    }
+  },
+  {
+   "id": "e3cfaa9c53ea",
+   "title": "大摩：英伟达路演5 个产业信号摩根士丹利近期在纽约和波士顿与英伟达CEO黄仁勋、CFO及投资者关系负责人进行了系列交流，核心是对当前AI投资环境... - 雪球",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YZU1LUXV5Qk5pRGFheENPQ29OTExMYTUzX0NMNzMwQmxxUnJtRTJtV3JiV0tqdnhydGhHWWVTbWhsVGcxQUJWUGR5Y2dORjQzcU9vUDV3",
+   "source": "雪球",
+   "published_at": "2026-10-12T01:09:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "雪球",
+     "published_at": "2026-10-12T01:09:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YZU1LUXV5Qk5pRGFheENPQ29OTExMYTUzX0NMNzMwQmxxUnJtRTJtV3JiV0tqdnhydGhHWWVTbWhsVGcxQUJWUGR5Y2dORjQzcU9vUDV3"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "1a5d3c9b7f0b",
@@ -6591,66 +6642,6 @@
    "session": "周末",
    "zh_summary": "英伟达深入布局OpenAI与消费设备",
    "title_zh": "英伟达为何深入布局OpenAI与消费设备",
-   "sentiment": 1
-  },
-  {
-   "id": "18299ed4c6db",
-   "title": "Nvidia shrugs off the AI credit jitters hitting Broadcom and Oracle - Crypto Briefing",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aYUlEUVIyOXJtcGRfQmRCbVZ3RUI5b2d6SmoxNHo0LXpEUy1xM0NoZmtEX0pGZzg4eVYwUnIzTHctSE9NZ29lX0x3N0JyYU93d3ZWMkJ1MFlhdE1WV3ZhZzY3ckh4dEpjQmg3QTBCLUt2eHBjZkNZWTR3",
-   "source": "Crypto Briefing",
-   "published_at": "2026-10-10T12:35:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Crypto Briefing",
-     "published_at": "2026-10-10T12:35:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aYUlEUVIyOXJtcGRfQmRCbVZ3RUI5b2d6SmoxNHo0LXpEUy1xM0NoZmtEX0pGZzg4eVYwUnIzTHctSE9NZ29lX0x3N0JyYU93d3ZWMkJ1MFlhdE1WV3ZhZzY3ckh4dEpjQmg3QTBCLUt2eHBjZkNZWTR3"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达不受AI信贷担忧影响",
-   "title_zh": "英伟达无视冲击博通与甲骨文的AI信贷担忧",
-   "sentiment": 1
-  },
-  {
-   "id": "f625fbd5ab9a",
-   "title": "Opinion: Why Nvidia’s stock is dodging the AI credit scare that is crushing Broadcom and Oracle - MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTV9hSzlieTl3S1hRYklaZmQtMzZ4UGtTVUtscUUxeS1Sd1NkUEU2ZU1HLWFleUcyWXA5Sl9VU1hOMmhHVzZNY1YzQWk5SHRic1JXOGppcXZSSFNqU21yM2JaZHFkLU9XRWdteWptNmxGTTM4YzgwOTNOZ29kN2hOLW5DVTZTMlFXNEprYXdyVjFLWDhvWkZQU203czNWRmNoV0JfNThPZ3pKVUV5emNvLTNQZS1XRE1ZZERoRlRCTVIwMmsxVTVZ",
-   "source": "MarketWatch",
-   "published_at": "2026-10-10T12:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketWatch",
-     "published_at": "2026-10-10T12:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTV9hSzlieTl3S1hRYklaZmQtMzZ4UGtTVUtscUUxeS1Sd1NkUEU2ZU1HLWFleUcyWXA5Sl9VU1hOMmhHVzZNY1YzQWk5SHRic1JXOGppcXZSSFNqU21yM2JaZHFkLU9XRWdteWptNmxGTTM4YzgwOTNOZ29kN2hOLW5DVTZTMlFXNEprYXdyVjFLWDhvWkZQU203czNWRmNoV0JfNThPZ3pKVUV5emNvLTNQZS1XRE1ZZERoRlRCTVIwMmsxVTVZ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达躲过AI信贷冲击，博通甲骨文大跌",
-   "title_zh": "观点：为何英伟达股价躲过了重创博通和甲骨文的AI信贷恐慌",
-   "sentiment": 1
-  },
-  {
-   "id": "67f576d826ef",
-   "title": "Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs — impending supply drought expected to drive up prices, RTX 5080 24GB rumored as new gaming flagship - Tom's Hardware",
-   "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQSjBCd255Y1gyWXBvSnlpVW4xNHVteF9MTG40Yngxdml6SnJ2R2JoNkF4OTdzMGJ1dkRIaVNoVlc0MnItdkNCTV9QX2FscW4zRGw1UkFTV285VW9DZS0tWmNXdmR2dUtCNmh6dWRWcmxSN3lVWDVhZ01qNUxGZ2k1bW03LWZPWndlX3NXcENxczczNUJNSUU4OHNzN3pQbmlkMmpPM2xfVXA1Z1E0b2dsMUZ4UXRGUkJ5aWh5MnVMUjZuNDMyeHBOUFdjNEJ1X3V2Wm1seDlfWHpEbC1idlR3RFhIMzhvTzRhYXFYWF91UEhXTEpfMldZUXNhMmt6Vmtsa0dnQ1B3eS15X0tmVEFXYWo5RFlUZWl6b21LTUtGM3FQbjJ0eFZscy1IOE9LaEdWb3F2Nnd4TWVXcnBKN2J1TTNzbEhaQ0ExVEpYQTRuaEhOLWg1elY2U0pYc3dvdHBac0JLLQ",
-   "source": "Tom's Hardware",
-   "published_at": "2026-10-10T12:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tom's Hardware",
-     "published_at": "2026-10-10T12:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQSjBCd255Y1gyWXBvSnlpVW4xNHVteF9MTG40Yngxdml6SnJ2R2JoNkF4OTdzMGJ1dkRIaVNoVlc0MnItdkNCTV9QX2FscW4zRGw1UkFTV285VW9DZS0tWmNXdmR2dUtCNmh6dWRWcmxSN3lVWDVhZ01qNUxGZ2k1bW03LWZPWndlX3NXcENxczczNUJNSUU4OHNzN3pQbmlkMmpPM2xfVXA1Z1E0b2dsMUZ4UXRGUkJ5aWh5MnVMUjZuNDMyeHBOUFdjNEJ1X3V2Wm1seDlfWHpEbC1idlR3RFhIMzhvTzRhYXFYWF91UEhXTEpfMldZUXNhMmt6Vmtsa0dnQ1B3eS15X0tmVEFXYWo5RFlUZWl6b21LTUtGM3FQbjJ0eFZscy1IOE9LaEdWb3F2Nnd4TWVXcnBKN2J1TTNzbEhaQ0ExVEpYQTRuaEhOLWg1elY2U0pYc3dvdHBac0JLLQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "英伟达停产RTX 5090，转产AI数据中心GPU",
-   "title_zh": "英伟达据报停产RTX 5090，转向AI数据中心与专业GPU",
    "sentiment": 1
   }
  ]
