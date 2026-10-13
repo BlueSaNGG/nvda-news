@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T15:51:27.929824+00:00",
+ "updated_at": "2026-10-13T16:06:32.515509+00:00",
  "market": {
-  "price": 225.4,
-  "change_pct": -0.4,
+  "price": 225.8,
+  "change_pct": -0.23,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": 0.25,
-   "count": 136
+   "avg": 0.26,
+   "count": 137
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 81% 分位（偏高）"
+     "note": "现价处于52周区间 82% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.8%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.25（136条已评分）"
+     "note": "今日新闻情绪 +0.26（137条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $225.40 vs 20日均线 $228.17"
+     "note": "现价 $225.80 vs 20日均线 $228.18"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 81,
+   "price_52w_pct": 82,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.8,
-   "ma20": 228.17,
-   "as_of": "2026-10-13T15:51:27.912291+00:00"
+   "implied_upside_pct": 39.5,
+   "ma20": 228.18,
+   "as_of": "2026-10-13T16:06:32.498698+00:00"
   },
-  "pe_ttm": 28.6,
+  "pe_ttm": 28.7,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,46 @@
   }
  },
  "stories": [
+  {
+   "id": "68568d72db1f",
+   "title": "英伟达将收购法国在线医疗平台Doctolib的部分股权。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mRzRZdEltbThYUnlyTVpzM1FjN1NMTjVKV2hkOUw3bWtrZnZYYkVNTHFpMU55SDlOVE1sUTdIbndsMDlWUDBLenBaczZLTDA",
+   "source": "手机新浪网",
+   "published_at": "2026-10-13T15:55:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-13T15:55:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mRzRZdEltbThYUnlyTVpzM1FjN1NMTjVKV2hkOUw3bWtrZnZYYkVNTHFpMU55SDlOVE1sUTdIbndsMDlWUDBLenBaczZLTDA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "英伟达拟收购Doctolib部分股权",
+   "sentiment": 1,
+   "title_zh": "英伟达将收购法国在线医疗平台Doctolib的部分股权。 - 手机新浪网"
+  },
+  {
+   "id": "51e8e3cf6dbf",
+   "title": "AMD Lands New AI Infrastructure Win Against Nvidia Blackwell - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUxjSmZ5clFVcS1yRHhjclJ3Ui1KbVpaTkJNRElocW1VdlR3eUNjSTJteUZvaVVWdXY4dVdfNlZRV0oxVmplRFZ5UU9ySkx4bmQzRklFNlNYdkFnbGFTYXVhTzViWXNNVlJ5VUM2Y2Y5VThmVUhmNVlhQnBUbm9HQ19FNlVyZlNmMzVzU2tHNnBSTTNsZlFYd3I4aw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-13T15:44:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T15:44:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUxjSmZ5clFVcS1yRHhjclJ3Ui1KbVpaTkJNRElocW1VdlR3eUNjSTJteUZvaVVWdXY4dVdfNlZRV0oxVmplRFZ5UU9ySkx4bmQzRklFNlNYdkFnbGFTYXVhTzViWXNNVlJ5VUM2Y2Y5VThmVUhmNVlhQnBUbm9HQ19FNlVyZlNmMzVzU2tHNnBSTTNsZlFYd3I4aw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中",
+   "zh_summary": "AMD在AI基建订单中击败英伟达Blackwell",
+   "title_zh": "AMD赢得AI基础设施订单，力压英伟达Blackwell",
+   "sentiment": -1
+  },
   {
    "id": "0775b7a6559d",
    "title": "Amazon Wants to Pay $7 Billion for a 3-Year-Old AI Startup That Makes AI Run Faster on Nvidia's Chips and Its Own - 24/7 Wall St.",
@@ -892,6 +932,26 @@
    "sentiment": 0
   },
   {
+   "id": "b1e9527ef7cf",
+   "title": "New USFP Pluggable Optics Form Factor for Higher Speeds from Cisco and NVIDIA - ServeTheHome",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uRWM2dGhHd2dVeGhLUENzMzNhVDA0Y2NaVW5tWnhkVjhZbUtpVExEb3cyRkRpdDRoMlc4R2k2cHBnVGhXY0twSlRvMEREUmJDT3NYbmpIN3dJaDh2Rkx0UHFVZGY5TUlmbTcxM0JZY2hOQkZVX2hYMVlLeUVMeE0",
+   "source": "ServeTheHome",
+   "published_at": "2026-10-13T13:00:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "ServeTheHome",
+     "published_at": "2026-10-13T13:00:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uRWM2dGhHd2dVeGhLUENzMzNhVDA0Y2NaVW5tWnhkVjhZbUtpVExEb3cyRkRpdDRoMlc4R2k2cHBnVGhXY0twSlRvMEREUmJDT3NYbmpIN3dJaDh2Rkx0UHFVZGY5TUlmbTcxM0JZY2hOQkZVX2hYMVlLeUVMeE0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "思科与英伟达推出新光模块形态",
+   "title_zh": "思科与英伟达推出新一代高速光模块USFP形态",
+   "sentiment": 1
+  },
+  {
    "id": "7e7bdf36d1ac",
    "title": "Bot Auto Selects Lenovo AD1 built on NVIDIA Hyperion to Scale Driverless Trucking - PR Newswire",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTWNBX0h2ZUNNZVA0WkNUd1NOT05rWDJ0eWJHMzFfOGhRbnZBOHMwOFNaN2l1bWxvVEFMSU1iSThqN29hcE80bG9XSkFhbV9TZUpxWUg1Q3l2YTItWXpqbUF6WkUtY2JtYWNVREp2MTE3ZWdlazllOTNSUEM1X3czUXRYOU1ManRKNHlwT1ktaWNkX1c5bjJhOWdPR2ZUSU9YbmtIVUh2Y0RIUW1BdUZ6UGJBcGE0TlhEcnZ5SDVwOUM1NkUxY3p1T3FKczczbHBMOGNN",
@@ -1544,6 +1604,26 @@
    "zh_summary": "报道称NVIDIA与华为AI芯片差距缩小至6%",
    "title_zh": "黄仁勋最担心的事正在发生：NVIDIA、华为差距缩小至6%！ - 电子工程专辑",
    "sentiment": -1
+  },
+  {
+   "id": "c0fc8284b193",
+   "title": "Dear Nvidia Stock Fans, Mark Your Calendars for October 13 - Barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUxJYU5oQ2JZVEJLbW5fSzBuVG9NcGx6eVpSaUlDbWRjT2x6OXd5VEozLXVZTExmQnlRdDY2Z3MtZUJPcGZEZll5ejhWTFBMaGJURDVEWjNPekpKdS1iX1BfLVM2T1BKQzNUSEY2dlByQzRxZ3FkbmQ5NlpKdWpfcXdjNTBwcEVkU2RrUUZ3RDd4V0FVUzY1T1FaR2k1OFRZUm1J",
+   "source": "Barchart.com",
+   "published_at": "2026-10-13T11:14:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barchart.com",
+     "published_at": "2026-10-13T11:14:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUxJYU5oQ2JZVEJLbW5fSzBuVG9NcGx6eVpSaUlDbWRjT2x6OXd5VEozLXVZTExmQnlRdDY2Z3MtZUJPcGZEZll5ejhWTFBMaGJURDVEWjNPekpKdS1iX1BfLVM2T1BKQzNUSEY2dlByQzRxZ3FkbmQ5NlpKdWpfcXdjNTBwcEVkU2RrUUZ3RDd4V0FVUzY1T1FaR2k1OFRZUm1J"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "提醒股民关注10月13日",
+   "title_zh": "亲爱的英伟达股东们：记住10月13日这一天",
+   "sentiment": 0
   },
   {
    "id": "a8473413f6ce",
@@ -3700,6 +3780,31 @@
    "sentiment": -1
   },
   {
+   "id": "3dbc5135d3a6",
+   "title": "英伟达计划本周宣布在欧洲进行20亿美元的AI相关投资 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EblZabXRfMlpvSktidjBqamZRRERmLWFvaXpUZHJsR0gwRXg1QktUM29SQ1N6cFcyb012b0EzLUVuUkV6R29qVDZUV3h0NWRCVFdNWHo5S1hadmw2RTZ1Mm9naw",
+   "source": "东方财富",
+   "published_at": "2026-10-13T00:55:38+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-13T00:55:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EblZabXRfMlpvSktidjBqamZRRERmLWFvaXpUZHJsR0gwRXg1QktUM29SQ1N6cFcyb012b0EzLUVuUkV6R29qVDZUV3h0NWRCVFdNWHo5S1hadmw2RTZ1Mm9naw"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-13T15:51:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDZ1Qi1OYmtOeXFHOXZQLUR5dUdiYVBHdHFpM0t5TDFWZENyRzRsLTZkZktHSlA0UmVkeE5CUllfQ2dTOWdITFlYSS1JelBBNjlfam1GQlVhWFowTldsSURKOFpNNWlVeDlHa1BtZkhsdmxURFRuTVpJY19nT2EzUlRoMWdPX1VVRkhieHNIbzZtRGp2aHpCZl9MVEhfZ2c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "英伟达拟在欧洲投资20亿美元AI",
+   "sentiment": 1,
+   "title_zh": "英伟达计划本周宣布在欧洲进行20亿美元的AI相关投资 - 东方财富"
+  },
+  {
    "id": "7c95a0e80d27",
    "title": "英伟达携手思科推出首款400G / lane可插拔光模块规范USFP - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMmotbTVxTmVRUFdLSEJNTVhVZU9naFU5VUdrS1BmQm9iT1owWEZWMGZObjg5dHJaS2VZbWR5aDEtWVd5aG81Tk9nT0dGRGRjamR6Skp4cTVSb0pGZUF1bHpyTFlSNTlZS19hSzdfZ3RIOWEtclliejZFNUh4T0x1VnZBUTZvS3dJ",
@@ -5033,7 +5138,7 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TdnZ0eU1WVWRTdGg4OXpwVllrYktuejNGSHlkM2lRX0FWdE9WeUdJaG44QzZqYXFjUFdIUHBQSV9uVEtQVEttcw",
    "source": "财联社",
    "published_at": "2026-10-12T17:56:31+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "财联社",
@@ -5044,13 +5149,22 @@
      "name": "凤凰网",
      "published_at": "2026-10-12T23:29:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80SnE2Y192V1FXbTh6em9lQU5WQXJlUGNGLXg5U2pUdWJlZ21mRkdHeDhJVkVDZThrV2g3RkpYNUtTczJRUGloN2FMd0ZfVERY"
+    },
+    {
+     "name": "36Kr",
+     "published_at": "2026-10-13T12:50:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vaU1LSm5BZkRSSnRTUXR6Sk9UZ0VuZmhPYVE3cXBzdFhmbGZackJyTmtvbWt5bEZEYkd5R2VOMFRremd0ZlMtYnlWWUozdw"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达推进盲插液冷800V供电新标准",
    "title_zh": "盲插液冷、800V供电、下一代可插拔光模块：英伟达推进新标准 - 财联社",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.02,
+    "window_h": 1.9
+   }
   },
   {
    "id": "27eabbc87aea",
@@ -6497,120 +6611,6 @@
    "zh_summary": "黄仁勋直接下属60人管理风格引讨论",
    "title_zh": "黄仁勋有60位直接下属，创始人该学谁",
    "sentiment": 0
-  },
-  {
-   "id": "6e5815cf9d3e",
-   "title": "Rob Newport's Xerxes Home Lab Blade-ifies Raspberry Pi CM5, NVIDIA Jetson COMs for Neat Clusters - Hackster.io",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQlFrQXZNaVhSVERjbzhVWklIdEoxdm9EdzZaamVYbldfU1dZMERFSFY5VHh6NnZTU29sUjNWYWtqZTF4dDZwem44Sk1iSHllTkUyYW9UNHpDMHJEaWFOTVExME8wbTdSV3Y4ellkckxFdHNrOGVtTEVvMGtRNWs1NlNTNV9SemowY3dPbjF0MHlwZ25UdVh5X2t6dUhPOGVsUkpQSnJlRElaZldPU1EyQVYxek8tVVVVUWIyU2lHUnY2d2tlVWtldW0zUWxaR0VJWUVr",
-   "source": "Hackster.io",
-   "published_at": "2026-10-12T13:43:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Hackster.io",
-     "published_at": "2026-10-12T13:43:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQlFrQXZNaVhSVERjbzhVWklIdEoxdm9EdzZaamVYbldfU1dZMERFSFY5VHh6NnZTU29sUjNWYWtqZTF4dDZwem44Sk1iSHllTkUyYW9UNHpDMHJEaWFOTVExME8wbTdSV3Y4ellkckxFdHNrOGVtTEVvMGtRNWs1NlNTNV9SemowY3dPbjF0MHlwZ25UdVh5X2t6dUhPOGVsUkpQSnJlRElaZldPU1EyQVYxek8tVVVVUWIyU2lHUnY2d2tlVWtldW0zUWxaR0VJWUVr"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "家庭实验室刀片机支持Jetson模组",
-   "title_zh": "Xerxes Home Lab推出支持树莓派CM5与英伟达Jetson的集群刀片",
-   "sentiment": 0
-  },
-  {
-   "id": "34cfe62c4750",
-   "title": "英伟达DGX Spark推出64GB版本 本地AI能力再升级 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUN3OHpQSHlFN3R0eXBKUnJvclp3N09GQndjWVMwVDBESmZVZ0dERmFfdXYzR2NIVURySzFTbVI1dURZbi1OV0RXM1JyQlJqRGdKOTRpWHJySFVtWEhSUkVQT3B6bWR2eEJrTUZyOWpybjBGb1M4SjFGWTFfSkhPUWFfOC03ekx6",
-   "source": "搜狐",
-   "published_at": "2026-10-12T13:33:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-12T13:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUN3OHpQSHlFN3R0eXBKUnJvclp3N09GQndjWVMwVDBESmZVZ0dERmFfdXYzR2NIVURySzFTbVI1dURZbi1OV0RXM1JyQlJqRGdKOTRpWHJySFVtWEhSUkVQT3B6bWR2eEJrTUZyOWpybjBGb1M4SjFGWTFfSkhPUWFfOC03ekx6"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "DGX Spark推出64GB版本，本地AI升级",
-   "title_zh": "英伟达DGX Spark推出64GB版本 本地AI能力再升级 - 搜狐",
-   "sentiment": 1
-  },
-  {
-   "id": "3fa97c05b824",
-   "title": "近30亿元！弘信电子子公司大手笔采购算力芯片，该子公司系英伟达双精英级合作伙伴 - 每日经济新闻",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95Nm9DdGI1YjRFczJKdWp3YThMdUpIQzRsSENtYnNLTE1lMWFqOUFMUWtsUWtWa01sNlU2X3piRm1ka0N4YkJLOFJtNnl3Q1RNTWtScjFBLVNZU2pjd0ZuMkNtRUpWdw",
-   "source": "每日经济新闻",
-   "published_at": "2026-10-12T13:32:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "每日经济新闻",
-     "published_at": "2026-10-12T13:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95Nm9DdGI1YjRFczJKdWp3YThMdUpIQzRsSENtYnNLTE1lMWFqOUFMUWtsUWtWa01sNlU2X3piRm1ka0N4YkJLOFJtNnl3Q1RNTWtScjFBLVNZU2pjd0ZuMkNtRUpWdw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "弘信电子子公司近30亿元采购算力芯片",
-   "title_zh": "近30亿元！弘信电子子公司大手笔采购算力芯片，该子公司系英伟达双精英级合作伙伴",
-   "sentiment": 1
-  },
-  {
-   "id": "8897623b735b",
-   "title": "AI sets date when Nvidia stock will hit $10 trillion market cap - Finbold",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2RTVUJGOU9kdXE1aFZxVkJhM2hVRVlmNUpVYXdHdm5CdGpqRGtSb0pYRlRnUlhUZlN4SHF4TmxyRDlUU1Z4TVFNYy1rR2g0V0ZPeGYtcGFtdmMxeDA4b3pVOGtvNWFiOTJQZ2hLcUxkQUZhMm1NUXRRN3VTUEtudnVIYWc1bGNmODhuWmpR",
-   "source": "Finbold",
-   "published_at": "2026-10-12T13:31:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Finbold",
-     "published_at": "2026-10-12T13:31:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2RTVUJGOU9kdXE1aFZxVkJhM2hVRVlmNUpVYXdHdm5CdGpqRGtSb0pYRlRnUlhUZlN4SHF4TmxyRDlUU1Z4TVFNYy1rR2g0V0ZPeGYtcGFtdmMxeDA4b3pVOGtvNWFiOTJQZ2hLcUxkQUZhMm1NUXRRN3VTUEtudnVIYWc1bGNmODhuWmpR"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "AI预测英伟达何时市值达10万亿美元",
-   "title_zh": "AI预测英伟达股价达到10万亿美元市值的时间点",
-   "sentiment": 0
-  },
-  {
-   "id": "30eaed8891b4",
-   "title": "Nvidia Has a $5.5 Trillion Valuation. Can the AI Giant Still Go Higher? - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZmFLSjFwdXJBYTlqa0JZTVVUWDZ1eE9EZzV3Mk9rV21pTm1Xc3hmeDllSWNpVXpBR2JucWJNWWFiZ1BHV2hvLTFxc2tzQlNrS08yZWdRMXZheW0zaFhwTVFkeWpsdzR1QmxFZGp4OFQ5dGJCUEJpWGh5WFR6aVZOX0NsMkR5SFRKNDZma05pa3N3SkxQM0JhdHY0V2pxY2R4SEJIRHpoWm1DeUNyWXNOamlB",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-12T13:30:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-12T13:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZmFLSjFwdXJBYTlqa0JZTVVUWDZ1eE9EZzV3Mk9rV21pTm1Xc3hmeDllSWNpVXpBR2JucWJNWWFiZ1BHV2hvLTFxc2tzQlNrS08yZWdRMXZheW0zaFhwTVFkeWpsdzR1QmxFZGp4OFQ5dGJCUEJpWGh5WFR6aVZOX0NsMkR5SFRKNDZma05pa3N3SkxQM0JhdHY0V2pxY2R4SEJIRHpoWm1DeUNyWXNOamlB"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-12T13:30:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TNXhtaVRLeEJRMHprSXI1MlBnVHZLMVVfRUdfaTR3X0MtQ3NRNTJwa21tZXV1TGMwT1FXVUZyS1JXZXRfVzZiVzFyc2g5YWt3NThMQUNBWWVSSTFXeW1TLXpXVmtOb3ctUHBRZW54Y0M4MEpaNDIzQUttZmI4UQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-12T13:30:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdGRUeVZ3WFZ0U3RRTDRwQXc5T3EyS29TQUYwaDI1RkdEOC1PWEdDVDQ2Z1lBN2tKMGNpWUpGWHFDM1pGWXJtTjlKcHZFMGFjS3g2b0V0N1NwSGZJRWUxUXlGemF5WlZEM19tX0RVa28tRlg4SVVqRC1HT0NFODA2N2tZQlBVY2RzcUFlVXhaU2RidUMxcHBqYjZ3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达市值达5.5万亿美元，还能再涨吗",
-   "title_zh": "英伟达市值达5.5万亿美元，还能涨更高吗？",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.57,
-    "window_h": 0.6
-   }
   }
  ]
 }
