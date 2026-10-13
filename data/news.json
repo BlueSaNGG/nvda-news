@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T12:21:31.784961+00:00",
+ "updated_at": "2026-10-13T12:36:29.841708+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": -0.04,
-   "count": 70
+   "avg": -0.01,
+   "count": 75
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.04（70条已评分）"
+     "note": "今日新闻情绪 -0.01（75条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T12:21:31.771922+00:00"
+   "as_of": "2026-10-13T12:36:29.825316+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a6636a519d45",
+   "title": "Here are Tuesday's biggest analyst calls: Nvidia, Apple, Netflix, Meta, Galaxy, SoFi, Viking, AT&T & more - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3ZjX1BUQ1ktZG9zdU1zdzB4Uk84aEQ3Y3ktUnNzblRmaE1NTkxBQUo0RUQ5ZWpkQnE3VnZBNGhQZ0VLa05ncm4xYjdwQS1McXlDS0phY1NpNnE5NkRFdVpvc1VHb29YMG15RDQ4Tzk3R09DT1g2NVlUcVNQdmNhWDJwRlp3eF9BWmJnT1dfUQ",
+   "source": "CNBC",
+   "published_at": "2026-10-13T12:31:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-13T12:31:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3ZjX1BUQ1ktZG9zdU1zdzB4Uk84aEQ3Y3ktUnNzblRmaE1NTkxBQUo0RUQ5ZWpkQnE3VnZBNGhQZ0VLa05ncm4xYjdwQS1McXlDS0phY1NpNnE5NkRFdVpvc1VHb29YMG15RDQ4Tzk3R09DT1g2NVlUcVNQdmNhWDJwRlp3eF9BWmJnT1dfUQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
+  },
   {
    "id": "f70b6bf30db4",
    "title": "Nvidia plans a $0.25 per share dividend payout on Dec 26, 2026, marking an 1800% increase from last year. - Pluang",
@@ -80,6 +97,23 @@
    "zh_summary": "英伟达宣布每股派息0.25美元",
    "title_zh": "英伟达计划12月26日每股派息0.25美元",
    "sentiment": 1
+  },
+  {
+   "id": "330f9895e864",
+   "title": "Nvidia Corp (NVDA): Jensen Huang’s Visionary Leadership Drives Long-Term AI Growth - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak0zNjQwcVJ4UC14VDVWc0tPRGxVVjNaRUd5NGpWSDJIWXlwb0E3QVB0X2dULVR5YjRUOGtOeDg3Z3FqNXN1akNfdVlleW9Sak9JdmowR0lBQk9vNUY1bEpsaTJYMVc0YXdRUG8tOFEwZkdpVm5NTU5yeXJ5ZEI2eEd0b0hhdU5Qd1BKX0JQQk9VX2JKMFNtT3VR",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-13T12:09:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T12:09:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak0zNjQwcVJ4UC14VDVWc0tPRGxVVjNaRUd5NGpWSDJIWXlwb0E3QVB0X2dULVR5YjRUOGtOeDg3Z3FqNXN1akNfdVlleW9Sak9JdmowR0lBQk9vNUY1bEpsaTJYMVc0YXdRUG8tOFEwZkdpVm5NTU5yeXJ5ZEI2eEd0b0hhdU5Qd1BKX0JQQk9VX2JKMFNtT3VR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "f96360f104f9",
@@ -127,12 +161,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHRnS09jTE5rMm5XdFdiX0lVZktlb1V5UnhJTWQweHlacmVIcGkyTDdBc0Nmc2NQWUFFeU1sTGlDVjZ2aXpuejNpblZfSzJfTHBEa2xibFBnQTBlbmJvd2RCWFFDaHNBVDJ0VzFJVTg4dFlLX3owcTJscFRfNWpZRmRVd0xEMGxw",
    "source": "搜狐",
    "published_at": "2026-10-13T12:02:15+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-13T12:02:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHRnS09jTE5rMm5XdFdiX0lVZktlb1V5UnhJTWQweHlacmVIcGkyTDdBc0Nmc2NQWUFFeU1sTGlDVjZ2aXpuejNpblZfSzJfTHBEa2xibFBnQTBlbmJvd2RCWFFDaHNBVDJ0VzFJVTg4dFlLX3owcTJscFRfNWpZRmRVd0xEMGxw"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-13T12:04:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MLTlMSVpvX1Z3bmxxbDQ1bmJMZkhuRjMwcGdGNWdBVW5QZk1sREV1dVVfVFJ1WTc5dGZaUzlxYVZXRDFSQ0Y5RzlMamI"
     }
    ],
    "category": "产品技术",
@@ -220,6 +259,23 @@
    "zh_summary": "DLSS 5登陆霍格沃茨之遗与RTX Spark",
    "title_zh": "DLSS 5登陆《霍格沃茨之遗》与RTX Spark，模型速度快2倍",
    "sentiment": 1
+  },
+  {
+   "id": "ceea549bd331",
+   "title": "RTX Spark: Hundreds of Games Oct 16 - NVIDIA",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObjhLNXNOdENvME9BNXdBa3hEeVRPTGpFQWIxaEdnRWhNaEpvNUQyaDZpUm5FRGR0dEJyOGFiLV8zTWZ1YTRTeUxNdXBDLW9CajRPN1c3Tl9uUlU3MGZSY2pjQ21JQ3JNb0Rhdk1XLWtYVlQzX19nUGozbnNDYUJOQzlOb0w4MmhGLXc",
+   "source": "NVIDIA",
+   "published_at": "2026-10-13T11:59:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA",
+     "published_at": "2026-10-13T11:59:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObjhLNXNOdENvME9BNXdBa3hEeVRPTGpFQWIxaEdnRWhNaEpvNUQyaDZpUm5FRGR0dEJyOGFiLV8zTWZ1YTRTeUxNdXBDLW9CajRPN1c3Tl9uUlU3MGZSY2pjQ21JQ3JNb0Rhdk1XLWtYVlQzX19nUGozbnNDYUJOQzlOb0w4MmhGLXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "efdc24f426d4",
@@ -1353,6 +1409,23 @@
    "sentiment": 0
   },
   {
+   "id": "d4f81af33762",
+   "title": "英伟达和思科推出全新可插拔光模块规格，助力规模化扩展AI工厂 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDVIWHRuY2hkWjV1QjUyZEdYeFd3cVVjX0poM1JoWE4tWk1qbXl0cGsyWUJVai1qT1cyNVphRHZxYWUzeURvY2VhbkVSQTliOGQxaVlRR2YxQkpZM3c2Q0dzbXlpd2xUUXJCNTBRSmRRU0FtVTdNVGZsVFlYY09ndFJzUmpqdnRkS3ZQRw",
+   "source": "搜狐",
+   "published_at": "2026-10-13T06:23:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-13T06:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDVIWHRuY2hkWjV1QjUyZEdYeFd3cVVjX0poM1JoWE4tWk1qbXl0cGsyWUJVai1qT1cyNVphRHZxYWUzeURvY2VhbkVSQTliOGQxaVlRR2YxQkpZM3c2Q0dzbXlpd2xUUXJCNTBRSmRRU0FtVTdNVGZsVFlYY09ndFJzUmpqdnRkS3ZQRw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "fc2a4239805a",
    "title": "英伟达中国 GPU 出货量暴跌 44%！仍居第一 - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeGRWemJpbnRrNkhHdjJVUEtTTUluV3BtZHZhX0UzSUk1QUdYNDFMaXV6ekFRZjZ3VGlTNGR1MWtsZl9iYVdVVjRTelpxMFIwVnRJTy1RbWJWMzNPX0FVSEVjRnNNTXZKRTQzWjRORWprTEpYdmJ3ekFEUzU5M2hDWGZyT3dxWDVCckRMQw",
@@ -1583,7 +1656,7 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFalJGNXpEYlVacmJBTXBNWE90bTBydG1TRHVGM3dvVDdJWFF3ZWNraXBNLWJVVGlvS3IwR3lSU0thbVJISTA5YmItSTMyWWxKS0NqTFUxOERKc25PZUtaLXY2X2thQXJObGc",
    "source": "联合早报",
    "published_at": "2026-10-13T05:02:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "联合早报",
@@ -1594,6 +1667,11 @@
      "name": "早晨报",
      "published_at": "2026-10-13T06:15:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rd1lxTXZ4UGdKNlpTTnBzZTAzVlYtYmxleDR6UTM5VkJGVEwyTkJVUzVXOGd1a3ltMl9QeEt0a19Pc2FydzlXcFdMSm5qODJIMno0eWdqU3ViVFQtcGJfYTk2X1VVenJ5"
+    },
+    {
+     "name": "C114通信网",
+     "published_at": "2026-10-13T09:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwNVdDUG9oZmU1alhGMHhrWTg0dHBNaGxpTnEwRkcwRUtpX1RjTm5DVXRGUWlkMDZSVkNsU2tGaHVCRDU2SHM4YjZRdmFwc0tYNmc"
     }
    ],
    "category": "其他",
@@ -1791,6 +1869,23 @@
    "zh_summary": "俄罗斯关键基础设施将放行英伟达芯片",
    "title_zh": "国产GPU不争气！俄罗斯被迫放行英伟达：关键基础设施也要用外国芯 - 驱动之家",
    "sentiment": 1
+  },
+  {
+   "id": "c6f029c27897",
+   "title": "NVIDIA celebrates 20 years of the GeForce 8800 GTX, its first CUDA-capable GPU - TweakTown",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOXpxTzZ1aFVjUVRwU0psNTdHWEo2bmhDT0Y0a0M0OU54Ml9YSzVPTXRzaEVDcVY3UlVsM3AzTC1FTnF3MkpCTjh2ZVFqMHRieHBCRERRMDZlTkwyTXRIeGI1a29LVTV1LTIwbV90bkR3NXVKOWFDc2E0WkROS3NmTkloR3NUbWNCNi1zMmtRNk9iLWdFdmJTckI1V2VnQzc4M2lIQWxtQUIzQUNxeDU4T1liWHpzV2F5VFRtMVYtbE9NM3du",
+   "source": "TweakTown",
+   "published_at": "2026-10-13T03:40:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TweakTown",
+     "published_at": "2026-10-13T03:40:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOXpxTzZ1aFVjUVRwU0psNTdHWEo2bmhDT0Y0a0M0OU54Ml9YSzVPTXRzaEVDcVY3UlVsM3AzTC1FTnF3MkpCTjh2ZVFqMHRieHBCRERRMDZlTkwyTXRIeGI1a29LVTV1LTIwbV90bkR3NXVKOWFDc2E0WkROS3NmTkloR3NUbWNCNi1zMmtRNk9iLWdFdmJTckI1V2VnQzc4M2lIQWxtQUIzQUNxeDU4T1liWHpzV2F5VFRtMVYtbE9NM3du"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "7a71dc57b093",
@@ -2011,6 +2106,23 @@
    "zh_summary": "英伟达在中国AI芯片市场失守",
    "title_zh": "英伟达在中国AI芯片市场份额下滑",
    "sentiment": -1
+  },
+  {
+   "id": "2830d1ca6926",
+   "title": "$英伟达 (NVDA.US)$ 展望 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWRDV294enNvMUNpU0JyLUkxYWsyVGg3ZkFVb08zUUxsbFR4aXZ1UzhxSzl2MjdHOVZsUmFtdDdtMHgzUVd6YzFMTUZIOHQ4ZkVTcWhoZUR4a1RSdG50TlRHN0xoYzh5QnE1V1ZpMXp3Yl9iZlN0ajE1c0NMUGV2Y25RNnVsV0ZqVFE",
+   "source": "Moomoo",
+   "published_at": "2026-10-13T01:57:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-13T01:57:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWRDV294enNvMUNpU0JyLUkxYWsyVGg3ZkFVb08zUUxsbFR4aXZ1UzhxSzl2MjdHOVZsUmFtdDdtMHgzUVd6YzFMTUZIOHQ4ZkVTcWhoZUR4a1RSdG50TlRHN0xoYzh5QnE1V1ZpMXp3Yl9iZlN0ajE1c0NMUGV2Y25RNnVsV0ZqVFE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "7da248695570",
@@ -2781,6 +2893,28 @@
    "zh_summary": "英伟达思科光模块每通道400Gb/s",
    "title_zh": "NVIDIA 和 Cisco 的 USFP 光模块目标是每通道 400Gb/s 的传输速度，并将在 2026 年 OCP 会议上推出 MGX 1.2 和 DSX 操作系统更新。 - StorageReview.com",
    "sentiment": 1
+  },
+  {
+   "id": "c745d4140954",
+   "title": "天阳科技：签订2万张英伟达GPU产品采购合同 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OYzRxc3UzRThwWHNhZFFQNTNTQXIzUml3Wk84SjMzWFJHelZ3eFJ1WkRqbUZuUkhGRXJTTUFmVDBuMl94SWdVczJKQ1VscXpDLUJjZUtmelloXzlTRDZtUjNVS09hUQ",
+   "source": "东方财富",
+   "published_at": "2026-10-12T21:24:49+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-12T21:24:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OYzRxc3UzRThwWHNhZFFQNTNTQXIzUml3Wk84SjMzWFJHelZ3eFJ1WkRqbUZuUkhGRXJTTUFmVDBuMl94SWdVczJKQ1VscXpDLUJjZUtmelloXzlTRDZtUjNVS09hUQ"
+    },
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-13T05:28:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fTk9ES1hPMTJENDREd1A1Q0pPcW1CS1JtLXFlT2xlNDlOWVhkUC16anJNa3ZubjFRdUxIRHRIVFM1Rmp0dTAxa1pKTFhCLVNPMmVaSWh2MUFMdmNiOEhQRA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "4e08f5606619",
@@ -6459,151 +6593,6 @@
    "zh_summary": "Freestone Grove买入3.5万股英伟达",
    "title_zh": "Freestone Grove Partners买入3.5万股英伟达",
    "sentiment": 1
-  },
-  {
-   "id": "e723a20ad03e",
-   "title": "Arohi Asset Management PTE Ltd. Makes New $7.71 Million Investment in NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUjZHcElWRXdRbjFYbURDai1qNGdkSnczUG43aGdWYVNGRjl6S2cwQ3NKbm53VGdpbkV0WWhhLVY5WkdKeXJoQm9mdTNfYU9ONzdtM3h3UjhYQkQ4Q3NIazVlajNYNkg4NmdnVHlhWVZwd1BuWlAxQm1aTnhKWlB6Q0x3OW4zelc3M3lkbHFvTmh2bjJrakduYVpEWW42eXBrUVF4dHQxejlldkhKS1Npc3VONDF2VUpVclFHVFZMQTJDRVF5eVlsbzFFMjdQN182VWlIZnBoWHdwTkprQzR0bURKSnV3UQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-12T07:19:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-12T07:19:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUjZHcElWRXdRbjFYbURDai1qNGdkSnczUG43aGdWYVNGRjl6S2cwQ3NKbm53VGdpbkV0WWhhLVY5WkdKeXJoQm9mdTNfYU9ONzdtM3h3UjhYQkQ4Q3NIazVlajNYNkg4NmdnVHlhWVZwd1BuWlAxQm1aTnhKWlB6Q0x3OW4zelc3M3lkbHFvTmh2bjJrakduYVpEWW42eXBrUVF4dHQxejlldkhKS1Npc3VONDF2VUpVclFHVFZMQTJDRVF5eVlsbzFFMjdQN182VWlIZnBoWHdwTkprQzR0bURKSnV3UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Arohi资管新投771万美元英伟达",
-   "title_zh": "Arohi资管对英伟达新投资771万美元",
-   "sentiment": 1
-  },
-  {
-   "id": "18b73dcdf91d",
-   "title": "NVIDIA Corporation $NVDA Stock: Invst LLC Trims Holdings - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlhyV2pnVkQ1MnBsOGRKUzYzZHdlWUFyTFJ0MFZIbXlfNHE2OUVvMkxPMk1pb0E0X3FiWmxxdUJSaEJ4SmN6aFR6aFlodTNDdWV4Z29XSlNNVzF3VEJQOEV4ZzZ6Y1FXN1RlVnlOVE9xU21QMHFFdVp5ck5WbG01VFp5cmUxcEZQTHIyY0hBU0RYRUNELS1CSWY2NzJUVEQ2VzFSOThENmN3eE9VdWpMbzRTV3U5UQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-12T07:19:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-12T07:19:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlhyV2pnVkQ1MnBsOGRKUzYzZHdlWUFyTFJ0MFZIbXlfNHE2OUVvMkxPMk1pb0E0X3FiWmxxdUJSaEJ4SmN6aFR6aFlodTNDdWV4Z29XSlNNVzF3VEJQOEV4ZzZ6Y1FXN1RlVnlOVE9xU21QMHFFdVp5ck5WbG01VFp5cmUxcEZQTHIyY0hBU0RYRUNELS1CSWY2NzJUVEQ2VzFSOThENmN3eE9VdWpMbzRTV3U5UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Invst LLC减持英伟达股份",
-   "title_zh": "Invst LLC减持英伟达股票",
-   "sentiment": -1
-  },
-  {
-   "id": "f42f946347bd",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by Caisse de depot et placement du Quebec - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVpfWFhjVWRnZTg0VFFoY0QzNEZqYjk1NUl5clF2d0VIaVFOVm9ULUJqOVVCc1NNakhhMm5GYXJPQkFJRjlGaXM1d2FtSkkySkNjVFFLUUo4UUdPRUxwaDljS1RDcDZIczRURS1NZmRTVk1EWERrZW1SOXRrb0s5MllHNkd5Yk9QcF8yNlZzUGlGUFpUYUUzX3JGcjVIRmYxa3c0QWg2aXZYNWM4UG5tUjBiS2FtMGFHcFZGc0xfZk1oc0tMT3BSemJVM2g0QWljdnpDaw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-12T07:19:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-12T07:19:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVpfWFhjVWRnZTg0VFFoY0QzNEZqYjk1NUl5clF2d0VIaVFOVm9ULUJqOVVCc1NNakhhMm5GYXJPQkFJRjlGaXM1d2FtSkkySkNjVFFLUUo4UUdPRUxwaDljS1RDcDZIczRURS1NZmRTVk1EWERrZW1SOXRrb0s5MllHNkd5Yk9QcF8yNlZzUGlGUFpUYUUzX3JGcjVIRmYxa3c0QWg2aXZYNWM4UG5tUjBiS2FtMGFHcFZGc0xfZk1oc0tMT3BSemJVM2g0QWljdnpDaw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "魁北克储蓄投资集团出售英伟达股份",
-   "title_zh": "魁北克储蓄投资集团卖出英伟达股票",
-   "sentiment": -1
-  },
-  {
-   "id": "c7191f13b0f4",
-   "title": "NVIDIA Corporation $NVDA Stock Purchased by Hhlr Advisors LTD. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTGtnZEZ2OTkxdUdYR1NQMkYtMmhJRUZBelFSTlJGTF9ScFdSVTdIN0VnTmEtVFh1c19mUUNFY3pQc19ibFN3UG9zelFMdklPM0dvYU5xSTFjaFdIMC1KWWZGcG4yR2gtSlJOTU9jaGttWG5XaWFlNDIxdzBYX3B3VGpZX1ZKX0ppU21xMVdrUUhrTUE2NzRLb3ZpTmFOVjFjakZ4RWZLX0FmWDRMZkM4ZFBzbW9RSFBVbGRIYTRn",
-   "source": "MarketBeat",
-   "published_at": "2026-10-12T07:19:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-12T07:19:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTGtnZEZ2OTkxdUdYR1NQMkYtMmhJRUZBelFSTlJGTF9ScFdSVTdIN0VnTmEtVFh1c19mUUNFY3pQc19ibFN3UG9zelFMdklPM0dvYU5xSTFjaFdIMC1KWWZGcG4yR2gtSlJOTU9jaGttWG5XaWFlNDIxdzBYX3B3VGpZX1ZKX0ppU21xMVdrUUhrTUE2NzRLb3ZpTmFOVjFjakZ4RWZLX0FmWDRMZkM4ZFBzbW9RSFBVbGRIYTRn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Hhlr Advisors增持英伟达股票",
-   "title_zh": "Hhlr Advisors买入英伟达(NVDA)股票",
-   "sentiment": 1
-  },
-  {
-   "id": "fa370699f183",
-   "title": "NVIDIA Corporation $NVDA Stake Reduced by Kranot Hishtalmut Le Morim Tichoniim Havera Menahelet LTD - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRHo2QzhLRDJkaUFKbTNPazl4dWZTbldUMVluYVlLcXZCcE94aW1rQzVIc182ZW00X2xnRjFJbGJvQ2YzMnE5emMxTGxYbE4xbFI5QlRPWENCaDJxT0hBWWYwMjJOMEJ6ekZWLXVtdW85QjBIQjFGalNLYzB2bGQyRmZDX2dfUk1UQlIxd0U4MUtZckZVMXUzV1d0Nm9zU3VMWHBFbmRVelB4dkNweEE0OERGOTNZNmxmd1RxdGxBLU1JTWZoRkdqS3RfZzlMTGh2N0lWSWVLOVFOQmdIVjZUcDdKLWtfb1JJY09PT3VId0I",
-   "source": "MarketBeat",
-   "published_at": "2026-10-12T07:18:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-12T07:18:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRHo2QzhLRDJkaUFKbTNPazl4dWZTbldUMVluYVlLcXZCcE94aW1rQzVIc182ZW00X2xnRjFJbGJvQ2YzMnE5emMxTGxYbE4xbFI5QlRPWENCaDJxT0hBWWYwMjJOMEJ6ekZWLXVtdW85QjBIQjFGalNLYzB2bGQyRmZDX2dfUk1UQlIxd0U4MUtZckZVMXUzV1d0Nm9zU3VMWHBFbmRVelB4dkNweEE0OERGOTNZNmxmd1RxdGxBLU1JTWZoRkdqS3RfZzlMTGh2N0lWSWVLOVFOQmdIVjZUcDdKLWtfb1JJY09PT3VId0I"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Kranot基金减持英伟达股份",
-   "title_zh": "Kranot基金减持英伟达股份",
-   "sentiment": -1
-  },
-  {
-   "id": "6486f5dc7c5f",
-   "title": "英伟达最强游戏显卡，被曝即将停产|RTX 5090|芯片|Zed|爆料|截图 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91T3ZwcXZXSE84R1A0WEI0WjE5YzhDVEtsdEtEQVpPdElBWFF6Q0VXbG9kRm42VzlTQzZscmcwX1JXTm9ibzQtcVUtaHRSMjlqZk1YUHY5b19WWlBtem5fTDBnNldpS2s2Nms4UnFWOFZVUQ",
-   "source": "新浪财经",
-   "published_at": "2026-10-12T07:12:23+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-12T07:12:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91T3ZwcXZXSE84R1A0WEI0WjE5YzhDVEtsdEtEQVpPdElBWFF6Q0VXbG9kRm42VzlTQzZscmcwX1JXTm9ibzQtcVUtaHRSMjlqZk1YUHY5b19WWlBtem5fTDBnNldpS2s2Nms4UnFWOFZVUQ"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-12T07:12:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91T3ZwcXZXSE84R1A0WEI0WjE5YzhDVEtsdEtEQVpPdElBWFF6Q0VXbG9kRm42VzlTQzZscmcwX1JXTm9ibzQtcVUtaHRSMjlqZk1YUHY5b19WWlBtem5fTDBnNldpS2s2Nms4UnFWOFZVUQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "RTX 5090游戏显卡被曝即将停产",
-   "title_zh": "英伟达最强游戏显卡，被曝即将停产|RTX 5090|芯片|Zed|爆料|截图 - 新浪财经",
-   "sentiment": 0
-  },
-  {
-   "id": "bf53d00fb93b",
-   "title": "我做空英伟达，做多价值股，持有40%现金，正值互联网泡沫以来市场广度最差的时期，结果居然还能跑赢大盘，简直不可思议。耐心终有回报。 $英伟达 (NVDA.US)$$游戏驿站 (GME.US)$$伯克希尔-B (BRK.B.US)$$可口可乐 (KO.US)$$西方石油 (OXY.US)$$阿里巴 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1lUS25QZjM4ZFBXSC1kSGJ2X3BuN2M1dGR6bHB3N2pTUkhLQjVseGZqc0ExanB6VWdFZ05pSnF3QXUtbmIwMnNqVGRvVmkwWThwTWtRNk9Jb2lFaDFVVUY3ZVZvYktySlU5SlVXOHdCbkUxZ0NRR1JZOUVlM1BrVUhRZWNDeUlPalFOUjlwam52WHpoTGxoMHNjSlFXT1UweHlESnZB",
-   "source": "Moomoo",
-   "published_at": "2026-10-12T07:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-12T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1lUS25QZjM4ZFBXSC1kSGJ2X3BuN2M1dGR6bHB3N2pTUkhLQjVseGZqc0ExanB6VWdFZ05pSnF3QXUtbmIwMnNqVGRvVmkwWThwTWtRNk9Jb2lFaDFVVUY3ZVZvYktySlU5SlVXOHdCbkUxZ0NRR1JZOUVlM1BrVUhRZWNDeUlPalFOUjlwam52WHpoTGxoMHNjSlFXT1UweHlESnZB"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "一位投资者做空英伟达跑赢大盘",
-   "title_zh": "我做空英伟达，做多价值股，持有40%现金，正值互联网泡沫以来市场广度最差的时期，结果居然还能跑赢大盘，简直不可思议。耐心终有回报。 $英伟达 (NVDA.US)$$游戏驿站 (GME.US)$$伯克希尔-B (BRK.B.US)$$可口可乐 (KO.US)$$西方石油 (OXY.US)$$阿里巴 - Moomoo",
-   "sentiment": 0
   }
  ]
 }
