@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T10:06:30.593485+00:00",
+ "updated_at": "2026-10-13T10:21:28.984826+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": -0.02,
-   "count": 46
+   "avg": 0.0,
+   "count": 48
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.02（46条已评分）"
+     "note": "今日新闻情绪 +0.00（48条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T10:06:30.569792+00:00"
+   "as_of": "2026-10-13T10:21:28.974197+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "f9d530fcbf10",
+   "title": "Nvidia reportedly plans upgraded RTX 5080 with 24GB VRAM as RTX 5090 rumored to be discontinued - PC Guide",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX2dodFlUQ0VWMU5JdVlIX29mbHd2ZEQ3bTdhMS1CMmhfTjhUbko4eUtFZ2pMbG5zbzVCZ2tTOG9zOXQ5bmo2VkJpZkduTG9UMlZBVVU3ZjlLaDhnQUlhaGZ5OWVMb3B4NEFHdUVqV09maml2aGNNN3lTZGs3dzBlWGl5YnNQVngxajVScXhWR2xid2o4M1Vwd1RUUThOUkxSNlZ4V3hxZlU3MjVWTlloWG9MOXdROXNvSFR6Z0xJQkJ5ZzQ",
+   "source": "PC Guide",
+   "published_at": "2026-10-13T10:03:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PC Guide",
+     "published_at": "2026-10-13T10:03:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX2dodFlUQ0VWMU5JdVlIX29mbHd2ZEQ3bTdhMS1CMmhfTjhUbko4eUtFZ2pMbG5zbzVCZ2tTOG9zOXQ5bmo2VkJpZkduTG9UMlZBVVU3ZjlLaDhnQUlhaGZ5OWVMb3B4NEFHdUVqV09maml2aGNNN3lTZGs3dzBlWGl5YnNQVngxajVScXhWR2xid2o4M1Vwd1RUUThOUkxSNlZ4V3hxZlU3MjVWTlloWG9MOXdROXNvSFR6Z0xJQkJ5ZzQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "b61ebed4801b",
+   "title": "市场传闻：英伟达在中国AI芯片市场份额下滑 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1pSSktzT3lVMkRWY2tTaFlyZ0xPS0ZMMDkxcl9XU2pxLXpCYzNPR1d5ZHlSQnJyNjdvd3p0SlJ5Smk1dFVkN0hLaDRNZEZsanFjMmI2T255SU5OVHc2TGF1aE9RdTJ5Ulk4cGJ6ZnZjMkY5LTJfSFR1YXlQR29Kc3lCOWwzVTVnNnZDNWJKM0lWM1h6US1zcw",
+   "source": "富途牛牛",
+   "published_at": "2026-10-13T09:54:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-13T09:54:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1pSSktzT3lVMkRWY2tTaFlyZ0xPS0ZMMDkxcl9XU2pxLXpCYzNPR1d5ZHlSQnJyNjdvd3p0SlJ5Smk1dFVkN0hLaDRNZEZsanFjMmI2T255SU5OVHc2TGF1aE9RdTJ5Ulk4cGJ6ZnZjMkY5LTJfSFR1YXlQR29Kc3lCOWwzVTVnNnZDNWJKM0lWM1h6US1zcw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "8348eab4bdc4",
    "title": "网传英伟达减单？景旺电子最新回应：公司在手订单饱满 - 搜狐",
@@ -480,6 +514,23 @@
    "zh_summary": "Corient抛售72万股NVDA",
    "title_zh": "Corient私人财富抛售722670股NVDA",
    "sentiment": -1
+  },
+  {
+   "id": "af7ff7443d52",
+   "title": "Stonebridge Capital Management Inc. Sells 7,587 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjBBeEo1SHQ5MG94bFh4eDBHWG91SFRoYlB4X0xManRldFBlVGdrZm1vSERTbU9mNV9Ua1BvdUtUc24ta2t5cEJVV1Yzck1rU2lLMzl3anhFN29qOVdfSDd1a0ZUQ3BFUHFlbUd2VU9sTEVWdzZKWlpzd201bE9UNkp1U1diaXdKZVcycnQ5R094NlZRWjFQRUFGSkxYSExXUFZqWFg5Rm00cDRacDdRX0JjYk9JTWhHSVlxcU1rQ3pSTEtBakd5U3k5QWxjLS1HdXB6bTlvcw",
+   "source": "MarketBeat",
+   "published_at": "2026-10-13T07:42:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-13T07:42:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjBBeEo1SHQ5MG94bFh4eDBHWG91SFRoYlB4X0xManRldFBlVGdrZm1vSERTbU9mNV9Ua1BvdUtUc24ta2t5cEJVV1Yzck1rU2lLMzl3anhFN29qOVdfSDd1a0ZUQ3BFUHFlbUd2VU9sTEVWdzZKWlpzd201bE9UNkp1U1diaXdKZVcycnQ5R094NlZRWjFQRUFGSkxYSExXUFZqWFg5Rm00cDRacDdRX0JjYk9JTWhHSVlxcU1rQ3pSTEtBakd5U3k5QWxjLS1HdXB6bTlvcw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "185cec9c8285",
@@ -6531,66 +6582,6 @@
    "zh_summary": "天阳科技锁定2万张英伟达GPU",
    "title_zh": "天阳科技锁定2万张英伟达先进GPU 算力服务+金融AI应用协同价值重估_公司新闻_财经 - 证券之星",
    "sentiment": 1
-  },
-  {
-   "id": "95e714996696",
-   "title": "英伟达正评估是否收购Reflection AI - 品玩",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54VlFfNndULWJIb3dtVG5DV3hCYjduUEt6QnUxRVpsZldKRHBQRnVJNUUzOGI0azlRcDFiSlN0c2VNLS13bElOTQ",
-   "source": "品玩",
-   "published_at": "2026-10-12T02:34:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "品玩",
-     "published_at": "2026-10-12T02:34:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54VlFfNndULWJIb3dtVG5DV3hCYjduUEt6QnUxRVpsZldKRHBQRnVJNUUzOGI0azlRcDFiSlN0c2VNLS13bElOTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达正评估收购Reflection AI",
-   "title_zh": "英伟达正评估是否收购Reflection AI - 品玩",
-   "sentiment": 1
-  },
-  {
-   "id": "0394c9e8765a",
-   "title": "美国AI牛市四岁 英伟达市值暴涨20倍 市场分化引担忧 - 中华网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIVERjTmxCYXZvMGMwU2p2QzNQa1lfRXVrTFFTbXBYU3Ftdm41ZExCTHJmVTIxMlV3d2RONmJCUzd2SHRmNXhUVHNxNEZjdS1neVMyNUpRU0FsVE1pSXV2LUJrWWNGRnBXOHQ4QmttbE0",
-   "source": "中华网",
-   "published_at": "2026-10-12T02:29:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中华网",
-     "published_at": "2026-10-12T02:29:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIVERjTmxCYXZvMGMwU2p2QzNQa1lfRXVrTFFTbXBYU3Ftdm41ZExCTHJmVTIxMlV3d2RONmJCUzd2SHRmNXhUVHNxNEZjdS1neVMyNUpRU0FsVE1pSXV2LUJrWWNGRnBXOHQ4QmttbE0"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "美AI牛市四年，英伟达市值增20倍，分化引担忧",
-   "title_zh": "美国AI牛市四岁 英伟达市值暴涨20倍 市场分化引担忧 - 中华网",
-   "sentiment": 1
-  },
-  {
-   "id": "13fd63a0ed5c",
-   "title": "你被英伟达驱动坑过吗！这个库记了507个问题 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03TGE0c25INFdGc1BSOTZBOU9nblprdWNsU2o0Q1BpWm5ZdnFXa0U3TTQwbGhGaHhCcm9xZEI5MURXVlFKZnRFcV9kN21CVjFvMFc5Z1M3Rjk",
-   "source": "驱动之家",
-   "published_at": "2026-10-12T02:29:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-12T02:29:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03TGE0c25INFdGc1BSOTZBOU9nblprdWNsU2o0Q1BpWm5ZdnFXa0U3TTQwbGhGaHhCcm9xZEI5MURXVlFKZnRFcV9kN21CVjFvMFc5Z1M3Rjk"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "某网站记录507个英伟达驱动问题",
-   "title_zh": "你被英伟达驱动坑过吗！这个库记了507个问题 - 驱动之家",
-   "sentiment": 0
   }
  ]
 }
