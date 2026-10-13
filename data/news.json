@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T13:36:31.693224+00:00",
+ "updated_at": "2026-10-13T13:51:35.031314+00:00",
  "market": {
-  "price": 223.59,
-  "change_pct": -1.21,
+  "price": 224.67,
+  "change_pct": -0.73,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,32 +10,32 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": 0.14,
-   "count": 98
+   "avg": 0.15,
+   "count": 100
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": -1,
    "dims": [
     {
      "key": "估值位置",
-     "score": 0,
-     "note": "现价处于52周区间 79% 分位"
+     "score": -1,
+     "note": "现价处于52周区间 80% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +40.9%"
+     "note": "目标价中位数 $315（15家），隐含空间 +40.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.14（98条已评分）"
+     "note": "今日新闻情绪 +0.15（100条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $223.59 vs 20日均线 $228.08"
+     "note": "现价 $224.67 vs 20日均线 $228.13"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 79,
+   "price_52w_pct": 80,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 40.9,
-   "ma20": 228.08,
-   "as_of": "2026-10-13T13:36:31.673917+00:00"
+   "implied_upside_pct": 40.2,
+   "ma20": 228.13,
+   "as_of": "2026-10-13T13:51:35.012815+00:00"
   },
-  "pe_ttm": 28.4,
+  "pe_ttm": 28.6,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+40.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+40.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "f4001b67d755",
+   "title": "Bond Investors Are Wary of SpaceX's Borrowing Binge to Buy Nvidia Chips - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0lHZzZ5czE5c3ZFOXpBY3dMZGNOSzVaTmE0SDgzaFd0UEF1Ti1oX0NVOXFOWkVvNEZVcDhFaXJSdEtwWXRUMnN1TEJUdzhNU2hNRWxQdXJqQTM5ZHltUkE5bzI3b0ExanFpcms0S2FCUXJFaXlDOTJXQXVqb1I3SEVaWXh5RFBiOTZqa3NKMk5ZaDNSWXlpRg",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-13T13:42:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-13T13:42:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0lHZzZ5czE5c3ZFOXpBY3dMZGNOSzVaTmE0SDgzaFd0UEF1Ti1oX0NVOXFOWkVvNEZVcDhFaXJSdEtwWXRUMnN1TEJUdzhNU2hNRWxQdXJqQTM5ZHltUkE5bzI3b0ExanFpcms0S2FCUXJFaXlDOTJXQXVqb1I3SEVaWXh5RFBiOTZqa3NKMk5ZaDNSWXlpRg"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "ea3b7c70873f",
+   "title": "Nvidia (NVDA) Was Among Claude AI’s Top Picks This Year. Can The Stock Keep Rising? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelBUb2tTdXZWdUdLeGQ3MF9HVnhNMGg5bkFKWXJ0Nm9aX1B4T2JzalJpbEJOSEZBM1RUQTc3dk82dkpRZTJVM3ZPeGZCQm5WSUJ4NlpRbTExRDEwOXBRNTdrUGU4Q3h2bm8yb3hSX2dMSW1GRzFnbjJFZzlrNHpMZkdTYzc3R19tWFRJbDBYMmRvVVFTWjkw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-13T13:39:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T13:39:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelBUb2tTdXZWdUdLeGQ3MF9HVnhNMGg5bkFKWXJ0Nm9aX1B4T2JzalJpbEJOSEZBM1RUQTc3dk82dkpRZTJVM3ZPeGZCQm5WSUJ4NlpRbTExRDEwOXBRNTdrUGU4Q3h2bm8yb3hSX2dMSW1GRzFnbjJFZzlrNHpMZkdTYzc3R19tWFRJbDBYMmRvVVFTWjkw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "07f24b7400eb",
+   "title": "Nvidia: The Buyback Is The Opportunity (NASDAQ:NVDA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTVOSDRXZ1JURlNOZ0lPOEpSVmo0bXlzaDMzNHlYa0xRVGdDY05MU19hMFg4Zzg4THF4bjRJemtNVmdjbmxVVUpSdjRSVnlIT2Z5Q1I5bndteG9wVTlXdVZkbF94b2NBbjFFWTM3UldBUy1NeExiajNZNHRicDBkcUh1cWk",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-13T13:36:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-13T13:36:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSTVOSDRXZ1JURlNOZ0lPOEpSVmo0bXlzaDMzNHlYa0xRVGdDY05MU19hMFg4Zzg4THF4bjRJemtNVmdjbmxVVUpSdjRSVnlIT2Z5Q1I5bndteG9wVTlXdVZkbF94b2NBbjFFWTM3UldBUy1NeExiajNZNHRicDBkcUh1cWk"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
   {
    "id": "f2558021cfdd",
    "title": "SolarEdge Showcases MVAC-to-800 VDC AI Factory Power Technology at NVIDIA AI Factory MGX Ecosystem Showcase at OCP Global Summit, Oct. 12-15 - Investing News Network",
@@ -180,6 +231,23 @@
    "zh_summary": "NVDA股价五连跌，关注下一个支撑位",
    "title_zh": "NVDA股价五连跌，下一个防线在哪里",
    "sentiment": -1
+  },
+  {
+   "id": "9707ea99b982",
+   "title": "NVIDIA Unveils \"Preset C \"DLSS Frame Generation with up to 35% Faster Generation - TechPowerUp",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckwxTk43RWxBcjlSQ2cyVXFxRTZvdkREZDY0bjF4U2JDMlNsaExWVno4NF96WlRQWElUR3IxeHkyRnpIU2ZsUzZJZjIzMkx0RElLaElfY2ZmblJLNF9RbHVLTWJpdC1vcG9xQUhhMTR5Mm9jajJ2VTNmcTRscThsSFhZZER5RmdSZEpnc2ZpYUc1TFNITV9VOVhoQnMtSDNvNVVqR1Y1bzNOaVZIS2Zkd3NB0gG3AUFVX3lxTE5KUGVUaG56UTBPSENCUDRPTUdTdXZVZDNyblF5bTNYdFprMVJYVXZyb1JYa0NoS1duUHZoNGU4WWRBNWZ4bVBFaDZaSm42SFdfV29yR2tLcGFXRXJfaWptemVXT2JaSkJaSUM3bGxYVFA1LXRzdW92TU10bXNRekM2bWtEcjFTd00tMjZva2ZVUnJVY0NyMlAzYmtoUjdLOGVPMVN0YUZqRmNlY1pMMDU3a3dxVnNCNA",
+   "source": "TechPowerUp",
+   "published_at": "2026-10-13T13:06:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-10-13T13:06:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckwxTk43RWxBcjlSQ2cyVXFxRTZvdkREZDY0bjF4U2JDMlNsaExWVno4NF96WlRQWElUR3IxeHkyRnpIU2ZsUzZJZjIzMkx0RElLaElfY2ZmblJLNF9RbHVLTWJpdC1vcG9xQUhhMTR5Mm9jajJ2VTNmcTRscThsSFhZZER5RmdSZEpnc2ZpYUc1TFNITV9VOVhoQnMtSDNvNVVqR1Y1bzNOaVZIS2Zkd3NB0gG3AUFVX3lxTE5KUGVUaG56UTBPSENCUDRPTUdTdXZVZDNyblF5bTNYdFprMVJYVXZyb1JYa0NoS1duUHZoNGU4WWRBNWZ4bVBFaDZaSm42SFdfV29yR2tLcGFXRXJfaWptemVXT2JaSkJaSUM3bGxYVFA1LXRzdW92TU10bXNRekM2bWtEcjFTd00tMjZva2ZVUnJVY0NyMlAzYmtoUjdLOGVPMVN0YUZqRmNlY1pMMDU3a3dxVnNCNA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "2b3c5c3587f8",
@@ -512,6 +580,23 @@
    "sentiment": 1
   },
   {
+   "id": "a7a05a614415",
+   "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip - Axios",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ",
+   "source": "Axios",
+   "published_at": "2026-10-13T12:22:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Axios",
+     "published_at": "2026-10-13T12:22:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "f70b6bf30db4",
    "title": "Nvidia plans a $0.25 per share dividend payout on Dec 26, 2026, marking an 1800% increase from last year. - Pluang",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM1EtOXF3ZXd5Tmhxc3hlWlZ0WFptejZVM3hjYUdxbFl3NVdLWjZ5MVN2c3JLcV9lZE5qSzBiRU8xUjBTa3JPSU1ZMG5JMnRZZjdzMWVvM3hHSW5WdzZHQjVQNGMzWkp2ZXY2SzYwdEQtVS1LU3JHMXB4SE5UeEVNM1lRQ0lkdXRtOUtjNk95MTlFTFhpRW83VjFQRWpscU80aWhxUHRR",
@@ -840,26 +925,6 @@
    "zh_summary": "英伟达GPU在华出货量大跌44%",
    "title_zh": "英伟达GPU在华出货量大跌44% - 观察者网",
    "sentiment": -1
-  },
-  {
-   "id": "0140cc49dfa3",
-   "title": "Dan Ives Says Semiconductor Sell-Off Is ‘Way Overdone’ As AI Spending Fears Rattle NVDA, MU, SKHY, SNDK - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0MteWRuVjJVampmWTZZTFQwTGhjbHFTSTFIbWpEcUVUVzF4RHQzWVgtMmJCRXBFT2J1WmlmVF9Dd21JWktWcTZobXNTSUptMmVKb0pLR3pNaC1Lb194NkVBR0lDZ0c2TUhxeTRMZ2txMXFtdmYxVHJXcGtXNzhURWlnUTNpM1RzdnVqSVh5T3ZXN3FWQUs3eWVfV2phZw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-13T10:52:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-13T10:52:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0MteWRuVjJVampmWTZZTFQwTGhjbHFTSTFIbWpEcUVUVzF4RHQzWVgtMmJCRXBFT2J1WmlmVF9Dd21JWktWcTZobXNTSUptMmVKb0pLR3pNaC1Lb194NkVBR0lDZ0c2TUhxeTRMZ2txMXFtdmYxVHJXcGtXNzhURWlnUTNpM1RzdnVqSVh5T3ZXN3FWQUs3eWVfV2phZw"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "艾夫斯称半导体抛售过度，AI支出担忧拖累英伟达",
-   "title_zh": "丹·艾夫斯称半导体抛售过度，AI支出担忧波及英伟达",
-   "sentiment": 1
   },
   {
    "id": "ae608c762993",
@@ -1592,6 +1657,23 @@
    "sentiment": -1
   },
   {
+   "id": "724c7c178c4e",
+   "title": "NVIDIA Corporation $NVDA Stock: Transamerica Financial Advisors LLC Increases Stake - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUUtBRnRiS05VWGExUG0wd0pGdjNPSnNDaFBUNExoUEZ0WnZmdGs3VjVLWktQcTd3cTQ5QUpPMGtmWWRtaDA0bWc2MThBQXBZUmRSdVREOHhQZC1xRm92cVl0dVdMZWlLX1phdzBlcmd5dUNvbExULTF4ZDdOVVBmLXB5OExEeHpkMzZMMXF1Z21tSWwzRVVYSzlnN1h1SlRQTnh4M2dmNkp5dk8xUjkyWWdpR2x1MHdKSkhBRUVzVllpVm9XV1ZIYVVrcWg1cW1vVUJNMnpKeVFYUQ",
+   "source": "MarketBeat",
+   "published_at": "2026-10-13T07:42:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-13T07:42:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUUtBRnRiS05VWGExUG0wd0pGdjNPSnNDaFBUNExoUEZ0WnZmdGs3VjVLWktQcTd3cTQ5QUpPMGtmWWRtaDA0bWc2MThBQXBZUmRSdVREOHhQZC1xRm92cVl0dVdMZWlLX1phdzBlcmd5dUNvbExULTF4ZDdOVVBmLXB5OExEeHpkMzZMMXF1Z21tSWwzRVVYSzlnN1h1SlRQTnh4M2dmNkp5dk8xUjkyWWdpR2x1MHdKSkhBRUVzVllpVm9XV1ZIYVVrcWg1cW1vVUJNMnpKeVFYUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "07ec84e88579",
    "title": "IDC报告：英伟达在华数据中心AI芯片份额降至34% - 观点网",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFWlpZVDdEd0NWekt2TTFnSlFid3BrcVl4Mms1RHFmQ3c1ekJ5YVU0OTBDUk9mRlQ2QkhEam5rci1YNHNXMkJjSC1Mc1RzdFpIWnU1Q0JBano1SFZBMU5Bek5n",
@@ -1610,6 +1692,23 @@
    "zh_summary": "IDC报告称英伟达在华AI芯片份额降至34%",
    "title_zh": "IDC报告：英伟达在华数据中心AI芯片份额降至34% - 观点网",
    "sentiment": -1
+  },
+  {
+   "id": "80dbacf89475",
+   "title": "NVIDIA Corporation $NVDA Stock: Petrus Trust Company LTA Raises Stake - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM21BeHBnUllMNlZPbV9JWDJYUzRWQ0thNndWUjB1QmJYdHhreWYyVk9HLTVsMGJqMUVDMjhJLUczRWEtRmJveHRSN05laGNXSGZRT1RBOTE5T2paUnM5dzdnbm1SZU9ja2NMXy1lVnhyUHE2LTVNM0hGNXBDMDBLeXZjZkpKSWRKb1ZSNy0tVno4bldSSmhrUXhuYm5xNzd6dlItUVQwTHBlVmwwdXlKbGtGVG1BU0Iwd09zN3k3UDNzWVAta1Rr",
+   "source": "MarketBeat",
+   "published_at": "2026-10-13T07:34:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-13T07:34:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM21BeHBnUllMNlZPbV9JWDJYUzRWQ0thNndWUjB1QmJYdHhreWYyVk9HLTVsMGJqMUVDMjhJLUczRWEtRmJveHRSN05laGNXSGZRT1RBOTE5T2paUnM5dzdnbm1SZU9ja2NMXy1lVnhyUHE2LTVNM0hGNXBDMDBLeXZjZkpKSWRKb1ZSNy0tVno4bldSSmhrUXhuYm5xNzd6dlItUVQwTHBlVmwwdXlKbGtGVG1BU0Iwd09zN3k3UDNzWVAta1Rr"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "9b2be2f8f858",
@@ -2707,7 +2806,7 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZZjJsSE1wWG4xZ1R2R01Ya0JLMUkzN0EtVjFiYXpmc2dGWmhZcE80VDNoZXBHM1VEakp4T1NZbEM4TnlVU2l2emJxeU5sUlMyNjVOTU05eTY3ZVZERENrQWpaSXhyUQ",
    "source": "东方财富",
    "published_at": "2026-10-13T01:36:40+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "东方财富",
@@ -2722,6 +2821,11 @@
     {
      "name": "同花顺财经",
      "published_at": "2026-10-13T07:43:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8taGc4cGpuTGZRN2stNEFGeXNtcjNjNno3djI3Y3YtT3RfVDNpb2VpanZUUXU5c01IaHFISVZFa3NSMVl6ZERHWmdKVlF4S3ZxU1kyZzhEM0lMLUF1U0lVM3RB"
+    },
+    {
+     "name": "同花顺",
+     "published_at": "2026-10-13T07:53:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8taGc4cGpuTGZRN2stNEFGeXNtcjNjNno3djI3Y3YtT3RfVDNpb2VpanZUUXU5c01IaHFISVZFa3NSMVl6ZERHWmdKVlF4S3ZxU1kyZzhEM0lMLUF1U0lVM3RB"
     }
    ],
@@ -4604,6 +4708,23 @@
    "sentiment": 1
   },
   {
+   "id": "b40237138477",
+   "title": "Nvidia Stock May Have Peaked. How to Spot the Warning Signs. - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYjZGMnNCMmxKUklyUlNMVVI0bVpwRHhyZENJWThZeHBKYWx3NVRBQmVJQkh3dEVSXy16OWo4WlREdFZKUnhSVDlxYWI2NTR0bi00NnNqX1E5Q3M1RHFoVzdzUHNaakVUVVB5alZ3X0NPbWFlMWNPbWJZcEJfV2pIQVNhUlNiNlJ3cXJvZkE1d2NiR2NyelpBZXl1dDI",
+   "source": "Moomoo",
+   "published_at": "2026-10-12T15:45:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-12T15:45:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYjZGMnNCMmxKUklyUlNMVVI0bVpwRHhyZENJWThZeHBKYWx3NVRBQmVJQkh3dEVSXy16OWo4WlREdFZKUnhSVDlxYWI2NTR0bi00NnNqX1E5Q3M1RHFoVzdzUHNaakVUVVB5alZ3X0NPbWFlMWNPbWJZcEJfV2pIQVNhUlNiNlJ3cXJvZkE1d2NiR2NyelpBZXl1dDI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "4ab332713146",
    "title": "NVIDIA is discontinuing shipments of its flagship GeForce RTX 5090 graphics card chips. - GameGPU",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ2dCNmk4MVdUMVRqUWMwUjdfV196SkRVdmFBeUVYcDIxTjZXLTUxR3FTb1R5VXV2dl80d0RaTTZkbGI4MkJPWi1aOG9nM3hlTmkxcGdfdUowc05JYkRSbmRCTURaYU41Z3MyMDNoRGNIZWtreEx3eWw1QVY0S3B3UnliaU5wQWJRaDdiVlpLSkVzeXZCRmpFbDRYMGoxbUQ4dXFjUFh0X3UtcEotLVdYMVF2Rm5JRUtV",
@@ -6451,176 +6572,6 @@
    "zh_summary": "9年前V100组4卡，推理可超M5 Ultra",
    "title_zh": "9年前V100四卡组仍有推理战力，可超越M5 Ultra",
    "sentiment": 1
-  },
-  {
-   "id": "d4561804ca3c",
-   "title": "英伟达下一代Rubin Ultra服务器测试新型覆铜板？A股覆铜板相关概念股集体下挫，多家上市公司紧急回应 - https://www.mrjjxw.com/",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QOGZudGJQNFBDLVVHeVpPekh1WEZaZTRDRHFRVWVoaDRNelZJaDZqTVE2RG16eEtTd25jaktjbTlHM292LW1OOGY5YktGdGVUOUJGbnlpTDdPZHlYc3NYODRFZXJPUQ",
-   "source": "https://www.mrjjxw.com/",
-   "published_at": "2026-10-12T12:00:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://www.mrjjxw.com/",
-     "published_at": "2026-10-12T12:00:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QOGZudGJQNFBDLVVHeVpPekh1WEZaZTRDRHFRVWVoaDRNelZJaDZqTVE2RG16eEtTd25jaktjbTlHM292LW1OOGY5YktGdGVUOUJGbnlpTDdPZHlYc3NYODRFZXJPUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Rubin Ultra测试新型覆铜板，概念股下跌",
-   "title_zh": "英伟达下一代Rubin Ultra服务器测试新型覆铜板？A股覆铜板相关概念股集体下挫，多家上市公司紧急回应",
-   "sentiment": 0
-  },
-  {
-   "id": "aa9f0da5db04",
-   "title": "英伟达庆祝GeForce 8800 GTX发布20周年 开启CUDA时代的首款显卡 - 3DM",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhTlExZXdzT2JVbmMyTWx6djIxc1ZEZFAzOGpvYXBxZjhvNXRJWnVROFoyc2JEcnhPaDBJcG5IMHJfdW5wOGdGZnllV1RfdnFQVDNhQVFXYmUyOWZJ",
-   "source": "3DM",
-   "published_at": "2026-10-12T11:48:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "3DM",
-     "published_at": "2026-10-12T11:48:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhTlExZXdzT2JVbmMyTWx6djIxc1ZEZFAzOGpvYXBxZjhvNXRJWnVROFoyc2JEcnhPaDBJcG5IMHJfdW5wOGdGZnllV1RfdnFQVDNhQVFXYmUyOWZJ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达庆祝8800 GTX发布20周年",
-   "title_zh": "英伟达庆祝GeForce 8800 GTX发布20周年 开启CUDA时代的首款显卡 - 3DM",
-   "sentiment": 0
-  },
-  {
-   "id": "f3da3dcd5e4e",
-   "title": "$美光科技 (MU.US)$ $SpaceX (SPCX.US)$ $英伟达 (NVDA.US)$ - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWl85UlJYVzFkYXJMSXlFZkIyMC1lVTdoc3ZNQk90VGV2a04ybmt2bHBkMlpKQ3o2R2FpLWlENEdvdExWWkloU0VVTXloYThLSDQtWktYMHdyTjhhbk5BUWNDSEpKS1NJSWphSUVZUTZfOTNOeEFSdU1JdnlLUl90N2s0MTNxYlJ6ZkJPZjYtaGItWENxc29LSTc1UkpLZENYLVBER2tid093blA4MDJYZF9R",
-   "source": "Moomoo",
-   "published_at": "2026-10-12T11:39:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-12T11:39:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWl85UlJYVzFkYXJMSXlFZkIyMC1lVTdoc3ZNQk90VGV2a04ybmt2bHBkMlpKQ3o2R2FpLWlENEdvdExWWkloU0VVTXloYThLSDQtWktYMHdyTjhhbk5BUWNDSEpKS1NJSWphSUVZUTZfOTNOeEFSdU1JdnlLUl90N2s0MTNxYlJ6ZkJPZjYtaGItWENxc29LSTc1UkpLZENYLVBER2tid093blA4MDJYZF9R"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "美光、SpaceX、英伟达动态",
-   "title_zh": "$美光科技 (MU.US)$ $SpaceX (SPCX.US)$ $英伟达 (NVDA.US)$ - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "5acff035e554",
-   "title": "Adding Nvidia During The Current Uncertainty is How Fortunes Are Made - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWklpXzVKSVhCRXQ0TnJhTk5IQk9kYjhvd1ZmNXQyWVhkN2dXNjRla2NIaUNiQTNxaGhPTHM2dlFTSFMtbE0zNVVoVkNnTENvdTEzNENtbU9BZU4zbzFZT2Mtb0JEc2xVRkt5RDZpTGtlUTBDLVRUT1RqdnIySWhxV2ZPUllLRGtiZWxZUzJPZlNtNjRvY3RjX0FtU2NLSkVzd3dLVHlmZmF0cE1iNURUdkRJdw",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-12T11:15:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-12T11:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWklpXzVKSVhCRXQ0TnJhTk5IQk9kYjhvd1ZmNXQyWVhkN2dXNjRla2NIaUNiQTNxaGhPTHM2dlFTSFMtbE0zNVVoVkNnTENvdTEzNENtbU9BZU4zbzFZT2Mtb0JEc2xVRkt5RDZpTGtlUTBDLVRUT1RqdnIySWhxV2ZPUllLRGtiZWxZUzJPZlNtNjRvY3RjX0FtU2NLSkVzd3dLVHlmZmF0cE1iNURUdkRJdw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-12T11:15:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUE92SGNIWFBvWnBGLUFfVXNCTDBiWFlNZjNnNjcwT2FLWHBPMTdfeEVaSk1WRi1fU1JqR1VTTmFwdUEtTFlfcURLWDN5c3RTNHZTVmEwZ1RUalNfUXVDSXlOY3JVLTdET0NZYkhQVXFrMnJ2QkIwQjBFaTR5NGRla1dQeGo0SHJtSUozVnlfSTRwdXhVQVhEejgyNzhobDg2YWl0LVdFSTU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "24/7华尔街建议逢低买入英伟达",
-   "title_zh": "24/7华尔街：在不确定性中买入英伟达是造富之道",
-   "sentiment": 1
-  },
-  {
-   "id": "b7b5d28de0f5",
-   "title": "L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI-Native Factory - L&T Technology Services",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MYktEQlQ5eC1jZVg1WDdUa3lqMnRSYkJoYzJsSjhQbEdkeVpiU0JGZUx0LTFmTUZ0Ty1HUEl4UDhIX1JMTGZ4N1c3a1VzQmtza19BcHVCTHB1aDhwMEZN",
-   "source": "L&T Technology Services",
-   "published_at": "2026-10-12T10:49:40+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "L&T Technology Services",
-     "published_at": "2026-10-12T10:49:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MYktEQlQ5eC1jZVg1WDdUa3lqMnRSYkJoYzJsSjhQbEdkeVpiU0JGZUx0LTFmTUZ0Ty1HUEl4UDhIX1JMTGZ4N1c3a1VzQmtza19BcHVCTHB1aDhwMEZN"
-    },
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-12T11:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTnh5OXRhNTVlWEIyYlJ4Z1NiY21OMmgyQm9ldjB4Nlppb1dWM0JIVWxwNURsZ0hpQVlpYjVrVzB3TGVDcXVCM3JpRW9sRGdsWnZoTXNQYUowemoxc0ZNZXF6YkRwdWhwSlVCSUxuaEpwQUVmLWhqVHEzdDRzUDNMSjRIMGF6cTVG"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-12T11:06:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTGdKcWthUGNENnZaZ0VRRU9aeExJX3lISGZnOVluNWJNM3d6d0lyN25IRE96d01nMXNzbkEybkVfNHQ2Z2R3YmkyLXhlYXNfSFVoaktNeFpBVTc0UURPX0lZMjhZUHF1Q3NoR3U5R1BjVzlrSGlVaEFUNG5Yb1VMcGR3"
-    },
-    {
-     "name": "PA Media",
-     "published_at": "2026-10-12T11:10:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPY0p6WmNFVDh1S2dEMmRZTlBqLUhad21GNDNPT09nbDBXX1Y1dmFxX3pNUnNhdVlCMGlSVGlGMUQ0MlRoRjBOVlA2elVVeWVkNTFmdW1Md2UzTEYtVzY5Qzd5UmhoUEcyRmxyQ3BGNlhXMEhRS3o3M25PQVRyb0hYRHlFb0RZRTNxakRLNUhldGhqWlJ5aEdGZk5vY3k1dngxLUpKeVFaSFlHR2NJSGN1UjRHcTZMdXRnQ0FPV2pZZlBlMXlaNi1sSG9xa0syRWtkenNUSjFxTlJzLTJCVjRfOUxsaHBSdWdOeEhOTnZ1cWp4Q2FGZWZQUl9lak40YTQ"
-    },
-    {
-     "name": "Financial Times",
-     "published_at": "2026-10-12T11:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMkNSWFZSakVXd3lOLXViMldEMUpWTWdDdDJ6OXE4RVUtYi1xMnpkQ25uSXNuODA5X2QtQ0RVdXloUzkzbzNPX3NzVEhfb3JSd2ZOMW45SXBWV01yLVlvdW02dm80Y0dDeWVoTENIODA4Yk5aRkkwMlIwZ2dEc1FhRmZXMU0wa1Q2U2ZHOVVfNEkzd1FrUFhlb1EtRmk4TEUtUmhZOVFB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "L&T推出AI工厂实验室，采用英伟达加速",
-   "title_zh": "L&T推出制造运营EI实验室，采用英伟达加速AI原生工厂",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.2,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "a480d41dc013",
-   "title": "英伟达被曝已通知客户，AI芯片价格将普遍上涨超过15% - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPZWVnNUlhWW96QVVLRGVYNFUwUUxSdDNKTEt4X1hWWjZHMXY1SERST0NQSzFHSTU3SmVXU3IzMm1XZHl5eERmblU2VHdlMmZTaUFQV004cktpWjBxM1JJRVVWLXFCUlZUUDZvb0hpOHZzbkxfMnB5ODdaM1ktRHFoQnhJM2NsRHllSGFVUS14QlhXZjNyVl8yVEZkWjZTMHF0dDZ5aEVPNnBlR3BYRVFkRnFGelNjNVB4X2dvWk5CTEZDQzQ1d0RPVW9LaXVCTUVhODM1SThLXzBpcmNhSFBPM3BNMGlJSHFPMzFBNUtNV0F1cnZ6TW92Q2Z4aW5BU2hacUliSEtJQmVZcHEzNDNjcWJFQjBpRDdqaHFtVDdNZE1TOGNzdDB4eUpUZGZyOUZGUmpld1A0WkM4RUNmQU5IdF8tMTQ1b3pWSjZzOVR2ZGV0YVJWSWhKTFlBSk50aTJuUnNwVm5oeHFVVG04UVhHZEc2NGJMd09XLWZEOG9SejdxM1RwRVUzUVQyNUFDTWJSQllaRzZsZjdMa3NNaE5lWjA1WHVGOHRPMnYwTi1KV1RzbEFIbmdpNmRpTnBuNVBCZVNuNUh0ZUxacE5uY0FJdzd1TmIyOVR3THdNTWJfOGw0MDRVbFlBckFkai0xbkRORUFwa1RiZHV3bnQ0MDcyZFZpQ1F5XzZEZEJSNzVOX1RUdGRlMkU2blFTOWF4aGtaZno5UktuU2p0eS1maW1oWDdoMnZjN05IUzFvd1ZQM0NkT3A1Zk03U21BSVBxRVd5MmdoRUFjYnVEMWxCcG12STU1RE8wQQ",
-   "source": "新浪财经",
-   "published_at": "2026-10-12T10:49:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-12T10:49:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPZWVnNUlhWW96QVVLRGVYNFUwUUxSdDNKTEt4X1hWWjZHMXY1SERST0NQSzFHSTU3SmVXU3IzMm1XZHl5eERmblU2VHdlMmZTaUFQV004cktpWjBxM1JJRVVWLXFCUlZUUDZvb0hpOHZzbkxfMnB5ODdaM1ktRHFoQnhJM2NsRHllSGFVUS14QlhXZjNyVl8yVEZkWjZTMHF0dDZ5aEVPNnBlR3BYRVFkRnFGelNjNVB4X2dvWk5CTEZDQzQ1d0RPVW9LaXVCTUVhODM1SThLXzBpcmNhSFBPM3BNMGlJSHFPMzFBNUtNV0F1cnZ6TW92Q2Z4aW5BU2hacUliSEtJQmVZcHEzNDNjcWJFQjBpRDdqaHFtVDdNZE1TOGNzdDB4eUpUZGZyOUZGUmpld1A0WkM4RUNmQU5IdF8tMTQ1b3pWSjZzOVR2ZGV0YVJWSWhKTFlBSk50aTJuUnNwVm5oeHFVVG04UVhHZEc2NGJMd09XLWZEOG9SejdxM1RwRVUzUVQyNUFDTWJSQllaRzZsZjdMa3NNaE5lWjA1WHVGOHRPMnYwTi1KV1RzbEFIbmdpNmRpTnBuNVBCZVNuNUh0ZUxacE5uY0FJdzd1TmIyOVR3THdNTWJfOGw0MDRVbFlBckFkai0xbkRORUFwa1RiZHV3bnQ0MDcyZFZpQ1F5XzZEZEJSNzVOX1RUdGRlMkU2blFTOWF4aGtaZno5UktuU2p0eS1maW1oWDdoMnZjN05IUzFvd1ZQM0NkT3A1Zk03U21BSVBxRVd5MmdoRUFjYnVEMWxCcG12STU1RE8wQQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达AI芯片价格将普涨超15%",
-   "title_zh": "英伟达被曝已通知客户，AI芯片价格将普遍上涨超过15%",
-   "sentiment": 1
-  },
-  {
-   "id": "51eea91f45d7",
-   "title": "BiyaPay 行情观察｜英伟达要收购模型公司？ AI 芯片龙头为何跨界？ - Odaily星球日报",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TWHNzRzlyVkJHSjdrOVRiMXFpdjN1YWN3ckpPVmg4bzVlZUF5dGNJVkYyYi1CaTF1dHNNQ0thZUxPSzJWT09zZVBhLWZNTTBDQWpDUQ",
-   "source": "Odaily星球日报",
-   "published_at": "2026-10-12T10:46:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Odaily星球日报",
-     "published_at": "2026-10-12T10:46:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TWHNzRzlyVkJHSjdrOVRiMXFpdjN1YWN3ckpPVmg4bzVlZUF5dGNJVkYyYi1CaTF1dHNNQ0thZUxPSzJWT09zZVBhLWZNTTBDQWpDUQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达或收购模型公司引猜测",
-   "title_zh": "BiyaPay 行情观察｜英伟达要收购模型公司？ AI 芯片龙头为何跨界？ - Odaily星球日报",
-   "sentiment": 0
   }
  ]
 }
