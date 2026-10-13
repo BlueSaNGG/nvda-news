@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T15:36:34.128825+00:00",
+ "updated_at": "2026-10-13T15:51:27.929824+00:00",
  "market": {
-  "price": 224.66,
-  "change_pct": -0.73,
+  "price": 225.4,
+  "change_pct": -0.4,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": 0.21,
-   "count": 126
+   "avg": 0.25,
+   "count": 136
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 80% 分位（偏高）"
+     "note": "现价处于52周区间 81% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +40.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.21（126条已评分）"
+     "note": "今日新闻情绪 +0.25（136条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $224.66 vs 20日均线 $228.13"
+     "note": "现价 $225.40 vs 20日均线 $228.17"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 80,
+   "price_52w_pct": 81,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 40.2,
-   "ma20": 228.13,
-   "as_of": "2026-10-13T15:36:34.121478+00:00"
+   "implied_upside_pct": 39.8,
+   "ma20": 228.17,
+   "as_of": "2026-10-13T15:51:27.912291+00:00"
   },
   "pe_ttm": 28.6,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+40.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "0775b7a6559d",
+   "title": "Amazon Wants to Pay $7 Billion for a 3-Year-Old AI Startup That Makes AI Run Faster on Nvidia's Chips and Its Own - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMVNsWkxxQlBtSi1pX3Z5NWtoMktqNlVLM194MHB2MHllZU85ckI0NFlDTG5DQlFjUWY4cjdoNGItdEVKSDZqdDFweGoxRnp3YjdtcGRjVzg5cTYtN0pGeFI0aXRUaHJCaUFyV2JjY2VCaGJnVWEtaGM2RUNiLVZWdm5PQ1dKOXZFN3o3el9zXzlSUzZVRjZ2Z1hPTm14dmhMbVRCYUZyMVZEWE42WHhqRmtGZmpiS1hjS182U3pzYXhZSWlIREJvMlI5Qkx2bTZUUFZpeVUxZGNnMTVCSThpN0RrQjV6YnVETWow",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-13T15:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-13T15:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMVNsWkxxQlBtSi1pX3Z5NWtoMktqNlVLM194MHB2MHllZU85ckI0NFlDTG5DQlFjUWY4cjdoNGItdEVKSDZqdDFweGoxRnp3YjdtcGRjVzg5cTYtN0pGeFI0aXRUaHJCaUFyV2JjY2VCaGJnVWEtaGM2RUNiLVZWdm5PQ1dKOXZFN3o3el9zXzlSUzZVRjZ2Z1hPTm14dmhMbVRCYUZyMVZEWE42WHhqRmtGZmpiS1hjS182U3pzYXhZSWlIREJvMlI5Qkx2bTZUUFZpeVUxZGNnMTVCSThpN0RrQjV6YnVETWow"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "4fddd4b2e664",
    "title": "If NVIDIA Grows At 10% a Year, Here’s What $1,000 Becomes By 2030 - 24/7 Wall St.",
@@ -167,12 +184,17 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTR2FiRzZnR3d1UHFOeTB4dElILUxGWVA0VWFENmY5TTc5RFVKc2VNcV9qdVpIVUI4WEhYZTBXbHphYllaaDdDQWMwaw",
    "source": "手机新浪网",
    "published_at": "2026-10-13T15:23:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "手机新浪网",
      "published_at": "2026-10-13T15:23:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTR2FiRzZnR3d1UHFOeTB4dElILUxGWVA0VWFENmY5TTc5RFVKc2VNcV9qdVpIVUI4WEhYZTBXbHphYllaaDdDQWMwaw"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-13T15:26:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjczc081VVlvLVlkZ1NfSXJuMzZXQ09STThjUzA1cUg3czFWQTdLeFBYRnVPWjM0UW51d2NHUDFVUnN6RkRIQWVfWHFka3ZDa2Z3N3NSX3ptdFNzaHlIUTBkWTJ5X1dWMkNzMlM0RUpwY05mTk1Mc243QTJPeWRRdUdTS1VPSE1lWXJJejhyU09yRFk4WTVBU0NlS2Z6Zw"
     }
    ],
    "category": "其他",
@@ -3795,15 +3817,15 @@
   {
    "id": "084b08cb2235",
    "title": "英伟达首席执行官黄仁勋表示 公司过去一年在欧洲的投资总额达到80亿美元 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tRlA0TGxYMnZqSTRoMVZneDBvalgyUlpIUU1UMzRGR05DQzRVRUlXSDFEWUNVbW9KTjVabktzakU3TEFTMHRENXhaRkUtdTYxYVlnR1QyZFZ1X1RuZzN1bm05Zw",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0bG1XX2N2bDJ3MVU3MnhrcFBSdlBGd1ZDRUlXdHdwanhoQ1dZWjlxZlFNbnBldlN6S1JJelZoUmM0S1NucWl0b2pJNFRQOE5rbUhlcW9vUGhoN3FQb3hKLQ",
    "source": "东方财富",
-   "published_at": "2026-10-13T00:35:45+00:00",
+   "published_at": "2026-10-13T00:35:17+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "东方财富",
-     "published_at": "2026-10-13T00:35:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tRlA0TGxYMnZqSTRoMVZneDBvalgyUlpIUU1UMzRGR05DQzRVRUlXSDFEWUNVbW9KTjVabktzakU3TEFTMHRENXhaRkUtdTYxYVlnR1QyZFZ1X1RuZzN1bm05Zw"
+     "published_at": "2026-10-13T00:35:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0bG1XX2N2bDJ3MVU3MnhrcFBSdlBGd1ZDRUlXdHdwanhoQ1dZWjlxZlFNbnBldlN6S1JJelZoUmM0S1NucWl0b2pJNFRQOE5rbUhlcW9vUGhoN3FQb3hKLQ"
     }
    ],
    "category": "其他",
@@ -6586,26 +6608,6 @@
     "pct": -0.57,
     "window_h": 0.6
    }
-  },
-  {
-   "id": "faf82594bd28",
-   "title": "Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C — bespoke Frore LiquidJet Diamond cooling tames 770 W/cm² hotspots - Tom's Hardware",
-   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQWGdBblFiUVc3Tkd4dmI3U0JYQmNINjg5QzVaVmpoX0s0UVdKbWwxZWJmM191S1d1RE5YMUVtNC1KbUZiS19XLS1YNnVvTk9nSlVnY1h3VXJON3gzOXh2aWVhYXZhalA2VUItd1pLcHBheVo4azBMVnBSaGNwTlJkR0hqcWF6Y0FlRWJMd0xzRk41VUoybUlSUjF2OEp1R3dsMjVZZmN3UW50UWVnMU1uMnkyUC1lSDFvQkVwT2lpaWtQZWh3MTc4LU1ySVkwTXo5aV9UNmRPLTBSRUNReW91cnFZQWFYTmV3cjlpOF9EM29zRmN4Q3VwbWpNSk13STRXSXNocU5KSUYtVVlHV1hGSkJqUjlEU2xkSFlNM0dKb3BDSVNEVmJwNmkyTWt1RnZOajA5Mg",
-   "source": "Tom's Hardware",
-   "published_at": "2026-10-12T13:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tom's Hardware",
-     "published_at": "2026-10-12T13:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQWGdBblFiUVc3Tkd4dmI3U0JYQmNINjg5QzVaVmpoX0s0UVdKbWwxZWJmM191S1d1RE5YMUVtNC1KbUZiS19XLS1YNnVvTk9nSlVnY1h3VXJON3gzOXh2aWVhYXZhalA2VUItd1pLcHBheVo4azBMVnBSaGNwTlJkR0hqcWF6Y0FlRWJMd0xzRk41VUoybUlSUjF2OEp1R3dsMjVZZmN3UW50UWVnMU1uMnkyUC1lSDFvQkVwT2lpaWtQZWh3MTc4LU1ySVkwTXo5aV9UNmRPLTBSRUNReW91cnFZQWFYTmV3cjlpOF9EM29zRmN4Q3VwbWpNSk13STRXSXNocU5KSUYtVVlHV1hGSkJqUjlEU2xkSFlNM0dKb3BDSVNEVmJwNmkyTWt1RnZOajA5Mg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "Frore 水冷板助 Rubin 降温 22°C",
-   "title_zh": "金刚石水冷板助英伟达 Rubin 降温 22°C",
-   "sentiment": 1
   }
  ]
 }
