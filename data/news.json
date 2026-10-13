@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T11:06:33.284569+00:00",
+ "updated_at": "2026-10-13T11:22:10.918974+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": -0.04,
-   "count": 56
+   "avg": -0.07,
+   "count": 58
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.04（56条已评分）"
+     "note": "今日新闻情绪 -0.07（58条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T11:06:33.270788+00:00"
+   "as_of": "2026-10-13T11:22:10.910309+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "021b6813b0db",
+   "title": "Broadcom vs. Nvidia: The AI Revolution Is Big Enough for Both. Here's the Better Buy. - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOEhXdzJLdExDUTJPQ0VTYmJvZEhqWkRYYVdXa2tKUF81a3pScUZsSTVlbFJ1cklXRElFMlM0bjJNRHAxVEZuaUp1NUl1YWlaa3g5ZkVvWnRjTkU3LXR5Y0J6MjFPMWNsS3k2YzVlTE4tVGNqWWJtMk5zMjZQQ0JkdTJ2bXE0bHRHRlo4Y0VxN0M2Sk11RzFEdQ",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-13T11:17:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-13T11:17:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOEhXdzJLdExDUTJPQ0VTYmJvZEhqWkRYYVdXa2tKUF81a3pScUZsSTVlbFJ1cklXRElFMlM0bjJNRHAxVEZuaUp1NUl1YWlaa3g5ZkVvWnRjTkU3LXR5Y0J6MjFPMWNsS3k2YzVlTE4tVGNqWWJtMk5zMjZQQ0JkdTJ2bXE0bHRHRlo4Y0VxN0M2Sk11RzFEdQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "ae608c762993",
    "title": "静默间谍、炽热信贷，以及3倍标准差的英伟达看跌/看涨期权价差 | 期权市场统计 - Moomoo",
@@ -77,8 +94,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "静默间谍、炽热信贷，以及3倍标准差的英伟达看跌/看涨期权价差",
    "zh_summary": "英伟达看跌/看涨期权价差达3倍标准差",
+   "title_zh": "静默间谍、炽热信贷，以及3倍标准差的英伟达看跌/看涨期权价差",
    "sentiment": -1
   },
   {
@@ -233,8 +250,8 @@
    ],
    "category": "产品技术",
    "session": "盘前",
-   "title_zh": "微软研发自有芯片，减少对英伟达依赖",
    "zh_summary": "微软自研芯片替代英伟达产品",
+   "title_zh": "微软研发自有芯片，减少对英伟达依赖",
    "sentiment": -1
   },
   {
@@ -3153,12 +3170,17 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TdnZ0eU1WVWRTdGg4OXpwVllrYktuejNGSHlkM2lRX0FWdE9WeUdJaG44QzZqYXFjUFdIUHBQSV9uVEtQVEttcw",
    "source": "财联社",
    "published_at": "2026-10-12T17:56:31+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "财联社",
      "published_at": "2026-10-12T17:56:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TdnZ0eU1WVWRTdGg4OXpwVllrYktuejNGSHlkM2lRX0FWdE9WeUdJaG44QzZqYXFjUFdIUHBQSV9uVEtQVEttcw"
+    },
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-12T23:29:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80SnE2Y192V1FXbTh6em9lQU5WQXJlUGNGLXg5U2pUdWJlZ21mRkdHeDhJVkVDZThrV2g3RkpYNUtTczJRUGloN2FMd0ZfVERY"
     }
    ],
    "category": "其他",
@@ -6568,26 +6590,6 @@
    "zh_summary": "英伟达Vera CPU含1K项重排序缓冲",
    "title_zh": "英伟达Vera CPU定制Olympus核心搭载1K项重排序缓冲",
    "sentiment": 1
-  },
-  {
-   "id": "94f5d4cc77c7",
-   "title": "英伟达旗舰游戏显卡RTX 5090被曝即将停产 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFE3Ynh6QkRSU1lDMFZ4Zlgyamk4N0hybWVURm9mWXRVbXJKSUExVnRaMXBkY1dBTXJMc0pGQzR5Qk5IWlB6TWExeUF1RnRkdUNqNDVYUm40X1B6ZUpOSWxtVlVDRzlnelNVbFM3RExHWmNqVlMxcU1XLVVPMkZZVjFFVGFEa2tx",
-   "source": "搜狐",
-   "published_at": "2026-10-12T03:51:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-12T03:51:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFE3Ynh6QkRSU1lDMFZ4Zlgyamk4N0hybWVURm9mWXRVbXJKSUExVnRaMXBkY1dBTXJMc0pGQzR5Qk5IWlB6TWExeUF1RnRkdUNqNDVYUm40X1B6ZUpOSWxtVlVDRzlnelNVbFM3RExHWmNqVlMxcU1XLVVPMkZZVjFFVGFEa2tx"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "RTX 5090被曝即将停产",
-   "title_zh": "英伟达旗舰游戏显卡RTX 5090被曝即将停产 - 搜狐",
-   "sentiment": 0
   }
  ]
 }
