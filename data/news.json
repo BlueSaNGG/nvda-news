@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T02:36:33.086082+00:00",
+ "updated_at": "2026-10-13T02:51:33.316103+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,8 +10,8 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.18,
-   "count": 211
+   "avg": 0.17,
+   "count": 212
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（211条已评分）"
+     "note": "今日新闻情绪 +0.17（212条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T02:36:33.074325+00:00"
+   "as_of": "2026-10-13T02:51:33.299486+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -62,17 +62,44 @@
  },
  "stories": [
   {
-   "id": "0eabdcf1e172",
-   "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds - StreetInsider",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHBfelUyYlByWHpsUU85MVh3VnE2ZzJUZ0tqRHhjVGNhcVl2RzQ0bUVVYzR6SkRHeDJSZ0ZqVnEzVGZuUTRHbmVUV0NON1NSeDJHS0FGMUlDYWRJZjJHd3pPcllSZlNXRVF6bGowVF9EeEpoSl9EY1drdzVPQlN4Q1dwb3BnUmphVmgxaFZxZVlodzFSUVVKOEFSZEZkQW53cGZRczNwSWdrLVFhNHBiVmI4T3BkbmN2S3pqb1FxTQ",
-   "source": "StreetInsider",
-   "published_at": "2026-10-13T02:34:19+00:00",
+   "id": "cc13fa13c794",
+   "title": "天阳科技采购2万张NVIDIA GPU产品用于AI应用推理等_公司新闻_财经 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KempEalcxMlZycjR2Si1uaXpMcEFHTl91LWJ4MUcyVFh2dnJqOEZiX0lXdzVQTWxHVjM3YTduamtIaGRKS0F1MHhOVHBfRGR0ekVoVl8teWMwQTh6MldidA",
+   "source": "证券之星",
+   "published_at": "2026-10-13T02:40:02+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-13T02:40:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KempEalcxMlZycjR2Si1uaXpMcEFHTl91LWJ4MUcyVFh2dnJqOEZiX0lXdzVQTWxHVjM3YTduamtIaGRKS0F1MHhOVHBfRGR0ekVoVl8teWMwQTh6MldidA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "0eabdcf1e172",
+   "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k",
+   "source": "Reuters",
+   "published_at": "2026-10-13T02:33:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-13T02:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2lCcTJZLWVsU3NJWjJRV2xZd0RXM1NtbWNnQUtfb1RsSjlNVmFEWnVxYVJ5Y0pXS0lWV284NlVCWkp2Qy1jbm5na2ZFeE5BYmNlWFVaVGttNElacjE1SGlaeVBOc1J5Z042bUlOS3JPbWpHcloxVDF5X3B2NG5hSEdCcHp0SGswU3d5VWNNWE02bE1KS0VyTVROTlJxUTRFUzNQM3hrbERWWWh5X21pSFg2ajBBOG02cXdzS1UyV09MY0k"
+    },
     {
      "name": "StreetInsider",
      "published_at": "2026-10-13T02:34:19+00:00",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHBfelUyYlByWHpsUU85MVh3VnE2ZzJUZ0tqRHhjVGNhcVl2RzQ0bUVVYzR6SkRHeDJSZ0ZqVnEzVGZuUTRHbmVUV0NON1NSeDJHS0FGMUlDYWRJZjJHd3pPcllSZlNXRVF6bGowVF9EeEpoSl9EY1drdzVPQlN4Q1dwb3BnUmphVmgxaFZxZVlodzFSUVVKOEFSZEZkQW53cGZRczNwSWdrLVFhNHBiVmI4T3BkbmN2S3pqb1FxTQ"
+    },
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-13T02:40:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQXF1MHluc2FYbVA2T0JIY3pUY1plQl9OdVU3cWRKUFRObkZmaHlKeUZCMHp0MzNLNHZrOGE3Z1BwanR2ckFDR2Rnd2FFeURlenMtYVZzOEtVbFRuVjNEUTJkUHl1U1hoc3NpR09jTUlCdl9rZW54RlFJQURYWFU1WXZ3Z3JOTld6dGtScFNvY09kWkIxbTdMZS1PTW13Y2x5OUMwT0ZtWm1CTkNWQWkybkE1U0hxUkl3cy1hdTdhYjI"
     }
    ],
    "category": "产品技术",
@@ -337,7 +364,7 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VWGZaSzZ2clkwMEFwNWp3RkprdTdmMHZLNHFNZ0E4RVR6YXc1Qjc2bEd6WVpFUzVTT3NuMG1RY3QtS3NvdjBERHJjUzlNQWVEUlNURHZHM19ULUVOT2UzUDJrU2dwOHMzNlVBeXRMc2llX0NZVmdpWg",
    "source": "讯石光通讯网",
    "published_at": "2026-10-13T00:43:48+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "讯石光通讯网",
@@ -348,6 +375,11 @@
      "name": "搜狐",
      "published_at": "2026-10-13T02:12:40+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkM5b2NEMlp2Tnhsd3doWVNzSGVJWHA0U28tZDB4eW82T3FRTlJuQUZDZDB0OVF5OVRFbGZndmpMMlpCTllMS0ZUQ0xNaGxvbER6TUZwak94SDl4bC1FQXZKdExhYXNBcHo2VGhLY2phODRJRXpCRFgweXZUd2Q5Y0VaaGd5aXp4"
+    },
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-13T02:22:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12WHhSdmlUYmlFbWkydkh2Mi1YOThDemkwbXQ5a2VPcDNpOXRQUWxlYUNXb2dLRU90TkphbklYWDNFRlJoX0IxOA"
     }
    ],
    "category": "其他",
@@ -6512,6 +6544,23 @@
    "sentiment": 1
   },
   {
+   "id": "b95d71cfd969",
+   "title": "This Nvidia Partner Was My Top Pick for 2026, and It's Up 43%: Here's Why It's Still a Great Value Now - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYnNnOXRKRDNkYUJkd1ZUMXFvdVZnRGROaU05R21RX2RXd19tSTIxQW9iVkszWU44bl9JamptWkF6anZsTkgtdHRKaFRXNlZnVzhLTTRWaXJ3c292OEVEWWlJS3pRbjlFN19lVHkzVmVGUTBKNjh1Y1lCaVlUSjRKOTM0ZlB4MkJndkVlejZmV1pLSHhoazJVcw",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-11T12:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-11T12:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYnNnOXRKRDNkYUJkd1ZUMXFvdVZnRGROaU05R21RX2RXd19tSTIxQW9iVkszWU44bl9JamptWkF6anZsTkgtdHRKaFRXNlZnVzhLTTRWaXJ3c292OEVEWWlJS3pRbjlFN19lVHkzVmVGUTBKNjh1Y1lCaVlUSjRKOTM0ZlB4MkJndkVlejZmV1pLSHhoazJVcw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "22c5a68bcc9e",
    "title": "英伟达据报洽谈收购Reflection AI：这家开放模型公司为何值得NVDA押注？ - TradingKey",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeEV5OHRXRGFCSjJKVFp6a1l6b0FmT2JCRkFVbEZCM2NfR0J2THduYVQyaDVEM182RVdsemtoa2JDdTR4WnFjaTB3VE9LWHA3ZmFwR2g3N2d3ZkN0eDhBeEI3NDlEazNtQ1Z5MUZ4MXp1RnlxZzJXZXZEUFZ5cDBaUkJyWVRFWnFHRVFTY0hEMTRIWWRRZjM1Wkw2MkFad0hfUEp4OHVkSk11ZDBVd0V4RGEydmxRS3p1WkxieFFTZjlKX0FPV0kxdw",
@@ -6529,46 +6578,6 @@
    "session": "周末",
    "zh_summary": "英伟达据报洽谈收购Reflection AI",
    "title_zh": "英伟达据报洽谈收购Reflection AI：这家开放模型公司为何值得NVDA押注？ - TradingKey",
-   "sentiment": 1
-  },
-  {
-   "id": "ae5920f7b3e9",
-   "title": "Nvidia Shifts GB202 Chips to RTX Pro, Squeezes RTX 5090 - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3cVBRVmxwRTdfeGMwZk5RNUZGS0VEQkJTZ3c4NmFiSWJTVFgzUDBhRTlPVHBWcG1fdmJ3WFAxZmtnOXNacm1fRHJoWXcwTEpEM1NEU0VBbTZWTHh6ZUczWjVYcVJra1pNUHNxcG1ZcE10aEt5",
-   "source": "shattered.io",
-   "published_at": "2026-10-11T11:39:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-11T11:39:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3cVBRVmxwRTdfeGMwZk5RNUZGS0VEQkJTZ3c4NmFiSWJTVFgzUDBhRTlPVHBWcG1fdmJ3WFAxZmtnOXNacm1fRHJoWXcwTEpEM1NEU0VBbTZWTHh6ZUczWjVYcVJra1pNUHNxcG1ZcE10aEt5"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "GB202芯片转供RTX Pro、5090被挤压",
-   "title_zh": "英伟达将GB202芯片转向RTX Pro专业卡，RTX 5090供应承压",
-   "sentiment": 0
-  },
-  {
-   "id": "d26ecf6cfd94",
-   "title": "Nvidia in Talks for $25B Reflection AI Stake [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORUpyY1BHdDVlaHRlaUpjQ0lKMTZKNzZCMmhaQWJRUllnNE9kZER4QUdhN1hiNzU5eVdYaFBRaGgzTko3TWVqMEo0Wm00SjloV3dLN1JQc1lxOWVscDU4SEtlU3Y4QUlkNHVaeG5SSFZQcGhvQXI4b0RHVnJpVkJBWGY1SDBVNHM",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-11T11:37:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-11T11:37:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORUpyY1BHdDVlaHRlaUpjQ0lKMTZKNzZCMmhaQWJRUllnNE9kZER4QUdhN1hiNzU5eVdYaFBRaGgzTko3TWVqMEo0Wm00SjloV3dLN1JQc1lxOWVscDU4SEtlU3Y4QUlkNHVaeG5SSFZQcGhvQXI4b0RHVnJpVkJBWGY1SDBVNHM"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达$25B洽购Reflection AI股份",
-   "title_zh": "英伟达洽谈以250亿美元入股Reflection AI",
    "sentiment": 1
   }
  ]
