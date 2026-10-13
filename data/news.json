@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T10:36:31.912618+00:00",
+ "updated_at": "2026-10-13T10:51:28.791328+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 50
+   "avg": -0.05,
+   "count": 55
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（50条已评分）"
+     "note": "今日新闻情绪 -0.05（55条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T10:36:31.898349+00:00"
+   "as_of": "2026-10-13T10:51:28.780342+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -67,12 +67,22 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPOVBtNnhqNko1amFEX0p0dmVSY1c5bmdTUVhwcHBDNXBldTlWY1ZNcll3R0pRN2VJRnJlZFFUWjhUS2tUMmVQb211VkJSRVdTTEZR",
    "source": "第一财经",
    "published_at": "2026-10-13T10:33:06+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "第一财经",
      "published_at": "2026-10-13T10:33:06+00:00",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPOVBtNnhqNko1amFEX0p0dmVSY1c5bmdTUVhwcHBDNXBldTlWY1ZNcll3R0pRN2VJRnJlZFFUWjhUS2tUMmVQb211VkJSRVdTTEZR"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-13T10:40:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnl2MVk4TGJQS0g0NTdXSEk4MFRIRG9uNzBnSnBZc0lpWHJPb0pnTVRtX3Uyczd4OFFpOXlPWUxmRHJqZTJBcjQtR01NZ3NiRl8zRFVTX0hqS2ROME51aV83VFhBczh6dHBjRmQyYzA0RDk2a1J2MV9tbWQzZlpfMFlPZFMtNEwxY1VPcw"
+    },
+    {
+     "name": "币界网",
+     "published_at": "2026-10-13T10:43:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44NzJiSHFwUDJlT2VWMnd0ZG5RY1JQMDBTOXNKblJ6Q2RiNmNIVVlTcTZEUmFZRE9QSjlCbTJGNUJ5akdpVUFOdmtnT00zQndlbnpB"
     }
    ],
    "category": "其他",
@@ -120,6 +130,23 @@
    "zh_summary": "英伟达Nova驱动领跑Linux GPU驱动",
    "title_zh": "英伟达Nova驱动在Linux GPU驱动中持续领先",
    "sentiment": 0
+  },
+  {
+   "id": "4c95f830e956",
+   "title": "上半年中国AI加速器出货量：英伟达67.8万颗、华为57.2万颗 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2l0aTAyMmVLbGlTd21TVnNjaWFvU1ozWUhpaU1kVmRJQXhyaTE0VWd6d1lOeEo4akY0Smp0VDRfTkZyRUtDcEF0ZWVhdkt4MUVYbmhKWkNsVFR3UTFWZU0yVjRaSXpkX3JkczRZQ0s1em1rY2Vyb0FOdGxPSF93YmRxSUlfZFdMMjBMSQ",
+   "source": "搜狐",
+   "published_at": "2026-10-13T10:25:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-13T10:25:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2l0aTAyMmVLbGlTd21TVnNjaWFvU1ozWUhpaU1kVmRJQXhyaTE0VWd6d1lOeEo4akY0Smp0VDRfTkZyRUtDcEF0ZWVhdkt4MUVYbmhKWkNsVFR3UTFWZU0yVjRaSXpkX3JkczRZQ0s1em1rY2Vyb0FOdGxPSF93YmRxSUlfZFdMMjBMSQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
   },
   {
    "id": "17b9ba3c45af",
@@ -1300,6 +1327,23 @@
    "zh_summary": "英伟达副总裁谈哈萨克斯坦数字创业",
    "title_zh": "英伟达副总裁：哈萨克斯坦应发挥优势，推进数字创业",
    "sentiment": 0
+  },
+  {
+   "id": "bb8904a8c3bd",
+   "title": "Nvidia China Share Drops to 34% as Huawei Hits 28% [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGtFX2k4d1dpUDUyUU9DMFpiNGZxeEpfdmtlemNLZjE0alpZS0MwX1RZOXFBaFhCdE5kTmllU1I4M044czNTbDBUeEVCTDA0bGIxSlZianBPNmgyZm9mdnZDY3dtRjNzLUs1M1RCQmRYQnlwSWMtMWFrWmd0eC1rQlo1ZWt6bmd3",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-13T04:36:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-13T04:36:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGtFX2k4d1dpUDUyUU9DMFpiNGZxeEpfdmtlemNLZjE0alpZS0MwX1RZOXFBaFhCdE5kTmllU1I4M044czNTbDBUeEVCTDA0bGIxSlZianBPNmgyZm9mdnZDY3dtRjNzLUs1M1RCQmRYQnlwSWMtMWFrWmd0eC1rQlo1ZWt6bmd3"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘后"
   },
   {
    "id": "0d5328f32b63",
@@ -3050,6 +3094,23 @@
    "zh_summary": "微软Maia芯片进推理，英伟达跌1.5%",
    "title_zh": "微软推进Maia芯片进入推理领域，英伟达股价下跌1.5%",
    "sentiment": -1
+  },
+  {
+   "id": "f9aa1faf6b7b",
+   "title": "盲插液冷、800V供电、下一代可插拔光模块：英伟达推进新标准 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TdnZ0eU1WVWRTdGg4OXpwVllrYktuejNGSHlkM2lRX0FWdE9WeUdJaG44QzZqYXFjUFdIUHBQSV9uVEtQVEttcw",
+   "source": "财联社",
+   "published_at": "2026-10-12T17:56:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-12T17:56:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TdnZ0eU1WVWRTdGg4OXpwVllrYktuejNGSHlkM2lRX0FWdE9WeUdJaG44QzZqYXFjUFdIUHBQSV9uVEtQVEttcw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "27eabbc87aea",
@@ -6512,66 +6573,6 @@
    "zh_summary": "RTX 5090停产传闻：芯片转供专业卡利润更高",
    "title_zh": "英伟达RTX 5090被曝停产传闻背后：同颗GB202芯片卖专业卡利润数倍于游戏卡 - 电子工程专辑",
    "sentiment": 1
-  },
-  {
-   "id": "487f6042dbd1",
-   "title": "英伟达10-Q披露表外财务承诺约5300亿美元单季增幅逾180%_公司新闻_财经 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KVS1NRVdrMzRjSG9ncTVwd3J5eEhsT1RkOWQ0SWZVWEdNYWtvaTJEYTdpenhNRnhVQnFXb3g1S3VuMHVQanhrSTNON1pYUlYyUTlmT082cFljWURBY0M3bA",
-   "source": "证券之星",
-   "published_at": "2026-10-12T03:03:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-12T03:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KVS1NRVdrMzRjSG9ncTVwd3J5eEhsT1RkOWQ0SWZVWEdNYWtvaTJEYTdpenhNRnhVQnFXb3g1S3VuMHVQanhrSTNON1pYUlYyUTlmT082cFljWURBY0M3bA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "10-Q披露表外财务承诺5300亿美元",
-   "title_zh": "英伟达10-Q披露表外财务承诺约5300亿美元单季增幅逾180%_公司新闻_财经 - 证券之星",
-   "sentiment": 0
-  },
-  {
-   "id": "4ba34d9133b7",
-   "title": "Nvidia Reportedly in Talks to Acquire Reflection AI: Why This Open-Model Company Is Worth NVDA's Bet - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMkZqYXozcjF2VVVDQ2kzazlTZ0JfbW9HYnotT1hESENZUTdzN0VSdlBCcW5BMEhsbUxCQk9zM0tqZVM4QkJEeVI5UFFnNFdxNGtWRUw1ZDBUT3JaeDNRWGRYUGp4R0dieW5uYjc1VEIxWGZ3UFZBam5LQ3QtNExUTE15TGFRbkdmUm1UTnlkdDJMY3YwU1dmQm0tM3RRVlFNR0tnUWhiNTJ4TW1GY3ZwNnM5VjU4aGxaZWhBU2Nnaw",
-   "source": "TradingKey",
-   "published_at": "2026-10-12T02:54:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-12T02:54:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMkZqYXozcjF2VVVDQ2kzazlTZ0JfbW9HYnotT1hESENZUTdzN0VSdlBCcW5BMEhsbUxCQk9zM0tqZVM4QkJEeVI5UFFnNFdxNGtWRUw1ZDBUT3JaeDNRWGRYUGp4R0dieW5uYjc1VEIxWGZ3UFZBam5LQ3QtNExUTE15TGFRbkdmUm1UTnlkdDJMY3YwU1dmQm0tM3RRVlFNR0tnUWhiNTJ4TW1GY3ZwNnM5VjU4aGxaZWhBU2Nnaw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达洽谈收购Reflection AI",
-   "title_zh": "英伟达据报洽谈收购Reflection AI开源模型公司",
-   "sentiment": 1
-  },
-  {
-   "id": "bc6438e58359",
-   "title": "英伟达调整现金流表述方式，这对股票回购意味着什么? - 华尔街日报中文网",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlkwdy1mbURsYVJuNkJBeHZ3WWllNWhpTHo1cFNRenRXT1B2ZHhyRFl0LWJsek9rTTE0b3ktdnJ2V1phMHRyMDlXQmlXZFVuQVhHd01Vd21qSTdMOU5UeGRoazV6Q25fXzBoUDNfbE1pY2dkMHhsUmxXVXI2VTFXbHlfUHJqcnNhSlRMRS1Vb09tN0Y1OFdxcWdQNVY3X2otTk5SY3hSeWVxbW15YXhGSV9aczZyVC1LMVV3",
-   "source": "华尔街日报中文网",
-   "published_at": "2026-10-12T02:54:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华尔街日报中文网",
-     "published_at": "2026-10-12T02:54:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlkwdy1mbURsYVJuNkJBeHZ3WWllNWhpTHo1cFNRenRXT1B2ZHhyRFl0LWJsek9rTTE0b3ktdnJ2V1phMHRyMDlXQmlXZFVuQVhHd01Vd21qSTdMOU5UeGRoazV6Q25fXzBoUDNfbE1pY2dkMHhsUmxXVXI2VTFXbHlfUHJqcnNhSlRMRS1Vb09tN0Y1OFdxcWdQNVY3X2otTk5SY3hSeWVxbW15YXhGSV9aczZyVC1LMVV3"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达调整现金流表述方式",
-   "title_zh": "英伟达调整现金流表述方式，这对股票回购意味着什么? - 华尔街日报中文网",
-   "sentiment": 0
   }
  ]
 }
