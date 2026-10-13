@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T00:21:34.207864+00:00",
+ "updated_at": "2026-10-13T00:36:30.426812+00:00",
  "market": {
-  "price": 229.28,
-  "change_pct": -0.52,
+  "price": 226.32,
+  "change_pct": -1.29,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,32 +10,32 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.16,
-   "count": 187
+   "avg": 0.18,
+   "count": 194
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": -1,
    "dims": [
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 87% 分位（偏高）"
+     "note": "现价处于52周区间 83% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +37.4%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.16（187条已评分）"
+     "note": "今日新闻情绪 +0.18（194条已评分）"
     },
     {
      "key": "动量",
-     "score": 1,
-     "note": "现价 $229.28 vs 20日均线 $226.73"
+     "score": -1,
+     "note": "现价 $226.32 vs 20日均线 $227.50"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 87,
+   "price_52w_pct": 83,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 37.4,
-   "ma20": 226.73,
-   "as_of": "2026-10-13T00:21:34.189081+00:00"
+   "implied_upside_pct": 39.2,
+   "ma20": 227.5,
+   "as_of": "2026-10-13T00:36:30.417109+00:00"
   },
-  "pe_ttm": 29.1,
-  "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.4%空间：估值偏低，预期乐观"
+  "pe_ttm": 28.8,
+  "pe_pct_5y": 25,
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2dbd3e3eebb3",
+   "title": "NVIDIA与Cisco推出USFP可插拔光模块 面向AI工厂 - 讯石光通讯网",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15M1Q4OWoxanhVOGQydHZmVzZYaS1KTVlERWEyazRXczBDRXJTMGV0N0xEWFFZUXVuSWFtMm0wOG1jUjE0aE13dlVFbWVuNzBJajlCcDRWQ0VNQ0U3UFBKUERhNVNHZzk3NGRTMnVWSVdINTA1TzQ2WQ",
+   "source": "讯石光通讯网",
+   "published_at": "2026-10-13T00:30:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "讯石光通讯网",
+     "published_at": "2026-10-13T00:30:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15M1Q4OWoxanhVOGQydHZmVzZYaS1KTVlERWEyazRXczBDRXJTMGV0N0xEWFFZUXVuSWFtMm0wOG1jUjE0aE13dlVFbWVuNzBJajlCcDRWQ0VNQ0U3UFBKUERhNVNHZzk3NGRTMnVWSVdINTA1TzQ2WQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "493b1cabfaa4",
    "title": "China faces uphill battle to wean tech firms off Nvidia chips - Financial Times",
@@ -140,6 +157,40 @@
    "zh_summary": "天阳科技签订2万张英伟达GPU采购合同",
    "title_zh": "天阳科技：签订2万张英伟达GPU产品采购合同_7x24快讯_新浪财经 - 手机新浪网",
    "sentiment": 1
+  },
+  {
+   "id": "65d020b5add3",
+   "title": "小K播早报|英伟达推进下一代可插拔光模块新标准 Meta推出Muse Wonder AI模型 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGFoWW5Xel85b1BNdTlYTkJiTXVrRUlUTExHWTgtSzZ2dlVXVTFXWGN0RjNKVkIya1ZLV1JXeHl6dVQ3TUhReVAwWUFDSDVuTTd6bkpTQWRDZDZBV3JoRjNsU0drUWE4RnJJTHozZGhTSVg5MGlGR19PZVRGWW5VMmRna2xYMUcwdks3dzhzclRGM2NFNEI4Z0F1OWpuOHZiVWRKbHZqdjdrXzg",
+   "source": "Moomoo",
+   "published_at": "2026-10-13T00:07:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-13T00:07:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGFoWW5Xel85b1BNdTlYTkJiTXVrRUlUTExHWTgtSzZ2dlVXVTFXWGN0RjNKVkIya1ZLV1JXeHl6dVQ3TUhReVAwWUFDSDVuTTd6bkpTQWRDZDZBV3JoRjNsU0drUWE4RnJJTHozZGhTSVg5MGlGR19PZVRGWW5VMmRna2xYMUcwdks3dzhzclRGM2NFNEI4Z0F1OWpuOHZiVWRKbHZqdjdrXzg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "e4567c00a7f0",
+   "title": "Intel names its Nvidia rival chip the GPU D270 with 480GB of memory - Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRms0eEcxM3NtNVhhb21HWDBCS0hsNmtiMVJvcTF0RkFrSkdiR3duOVU1OHl2QWpXbTRQX1N0T3NVZGxUWW5neHR5RHlPQXRhcUctZENBS3lPeTFfY296UzZvQU9vemZLT3J0OUs4aXdidkdBRzR0ZlVuMDF1c3NOSV9CSjFJZ2pEUko1NGRtcmRSYm44NEJQblZXaw",
+   "source": "Startup Fortune",
+   "published_at": "2026-10-13T00:00:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Startup Fortune",
+     "published_at": "2026-10-13T00:00:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRms0eEcxM3NtNVhhb21HWDBCS0hsNmtiMVJvcTF0RkFrSkdiR3duOVU1OHl2QWpXbTRQX1N0T3NVZGxUWW5neHR5RHlPQXRhcUctZENBS3lPeTFfY296UzZvQU9vemZLT3J0OUs4aXdidkdBRzR0ZlVuMDF1c3NOSV9CSjFJZ2pEUko1NGRtcmRSYm44NEJQblZXaw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "93935ee79aa1",
@@ -732,7 +783,7 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnBXbzZNNjl2alg4RnNpb0VtS3pRQjdNWmdmeEpLc0RPODdqa0t5aWl0YUhpVUhtcWJaQ0ZsUWZVT056d3YzT1B6aVlsLTlCTlhraWN0eEtuSUpIcHZTbzBhNkNxUGZXMFYwTk1UVVA2OG0wWE1YbVBwZjJLR2U3ZVRkYlViRG5GNDJrQkVTN3lNeV9kVWVJ",
    "source": "The Motley Fool",
    "published_at": "2026-10-12T19:31:36+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -748,10 +799,16 @@
      "name": "AOL.com",
      "published_at": "2026-10-12T19:50:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2s3SVdOUlphR1VNQ1h5eTk2T0VaQjVjZmw5Yndrd280dGtnRlBTQndjOElMaG9rMzJHRkdXZWhmNFpxM251RENvdHgwVGVOTmQ4ZnZuOHNuS1drUUU5dUlxem42Tm56LVZuU3ZpYklMWS1ENS1RV0xBQ2pUU3VmalpBT1hBZVRr"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-12T19:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcEh6SmdHdXh4WGl2N09FN0RHOFhNRW1CUkxWY2F5TWl5RlJQenc3VWM0ajV4S1JlSjBNS0xXQjVVamFjaFhsSWE4SFRoRFhFbzh4X3RvcGMtb1gwaGxpSXVjSDJuaVdEeDVyX0Y0bklFLWZnQlNLYVNocVdzWlkxdmVOeVpxVEpQVFdsYWVwenJYanlQdXRkNUtZWVpqTEdpTU1SRw"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "英伟达与AMD估值现历史性分化",
    "title_zh": "英伟达与AMD估值现历史性分化，一只股票安全得多",
    "sentiment": 0,
@@ -6512,66 +6569,6 @@
    "session": "周末",
    "zh_summary": "Wedbush增持英伟达股份",
    "title_zh": "Wedbush基金顾问增持英伟达持仓",
-   "sentiment": 1
-  },
-  {
-   "id": "bf70c5f8f7e1",
-   "title": "Kapitalo Investimentos Ltda Acquires 42,650 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc2Y1UzhWNVlycHF2WUNfNjlyZDBZdWxEbzQwZmMtODdZYXdnTWlLaWh5Zkx2dVRtblNzRTM4OFZwTVFwQnQ0RUdQb0o5WmF2ZTZCRERCQ205V01yT09BMzNqQjViblBLc2pYc3JSN2Zrb0o5bGlHbWd1czlqYjdDY3FBZ0VIQ2NrT3lRN08wMGxUVFJ6VEMtRFkyVS1EX095akZpdFVEcmVqWUY4aU5Pb2Y0ZkN0bkxVUVdsWWpyX0tEZnNWdlBvOE5uSTFjbDdJSUM0",
-   "source": "MarketBeat",
-   "published_at": "2026-10-11T09:58:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-11T09:58:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc2Y1UzhWNVlycHF2WUNfNjlyZDBZdWxEbzQwZmMtODdZYXdnTWlLaWh5Zkx2dVRtblNzRTM4OFZwTVFwQnQ0RUdQb0o5WmF2ZTZCRERCQ205V01yT09BMzNqQjViblBLc2pYc3JSN2Zrb0o5bGlHbWd1czlqYjdDY3FBZ0VIQ2NrT3lRN08wMGxUVFJ6VEMtRFkyVS1EX095akZpdFVEcmVqWUY4aU5Pb2Y0ZkN0bkxVUVdsWWpyX0tEZnNWdlBvOE5uSTFjbDdJSUM0"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "巴西Kapitalo增持4.27万股英伟达",
-   "title_zh": "Kapitalo购入4.27万股英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "830ee92de6b3",
-   "title": "NVIDIA Corporation $NVDA Shares Newly Acquired by Jupiter Topco LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTlXNXlVaHBaQVp3bFpSTDFSdjA4ejV0RVFyTjV3TFQ2Ql9jenRpV0R0dEhOazQ0LTdDcktKOHlQU3BxSkc5OWVUT0hab0xwTlh6ZUVuanpUMk9pNVJPNTNCV1l0NzhDZ05oRHp3eTZES1N0bFZKRm81Zk9HR0NZVmJhc0NUUmlWRHVZYlNUT0loUkNpanpYSDZ5X2trdWdIcnpteHM2OUdBMUhDRTZRczVzczdGSlJKNFNXdW1qaHNfUHpzYWc",
-   "source": "MarketBeat",
-   "published_at": "2026-10-11T09:58:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-11T09:58:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTlXNXlVaHBaQVp3bFpSTDFSdjA4ejV0RVFyTjV3TFQ2Ql9jenRpV0R0dEhOazQ0LTdDcktKOHlQU3BxSkc5OWVUT0hab0xwTlh6ZUVuanpUMk9pNVJPNTNCV1l0NzhDZ05oRHp3eTZES1N0bFZKRm81Zk9HR0NZVmJhc0NUUmlWRHVZYlNUT0loUkNpanpYSDZ5X2trdWdIcnpteHM2OUdBMUhDRTZRczVzczdGSlJKNFNXdW1qaHNfUHpzYWc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Jupiter Topco LLC新建仓持有NVDA股票",
-   "title_zh": "Jupiter Topco LLC新建仓持有英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "92603d319f83",
-   "title": "5,328 NVIDIA Corporation $NVDA Shares Purchased by Sone Capital Management LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSVcwd2ZWU2ZiVVdkdG1wTEFYOG5RR2sxVFFjcGE0bC0xUWxBWGFjZm12R1AwMDhLNFhKQzNzOVFXWmNHZ0NaQnFMcUNwbVZzdzNCMURSWEJ3RGg5YlQzR0xvNW9GLUtib05zLUxwWkZSb3pxUHJQX3A3WTc2dTh2YWt2WjVJN2FfSV83ZDgzV3JCbzZ0dTIyYzJuR2cteXVHS0RLYWEtVHBaa3lPMWVTTzQyZHU1eTdEdmZPclM1Nk1LUTY4a2ZRa0VwYnJiUGhzS093",
-   "source": "MarketBeat",
-   "published_at": "2026-10-11T09:58:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-11T09:58:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSVcwd2ZWU2ZiVVdkdG1wTEFYOG5RR2sxVFFjcGE0bC0xUWxBWGFjZm12R1AwMDhLNFhKQzNzOVFXWmNHZ0NaQnFMcUNwbVZzdzNCMURSWEJ3RGg5YlQzR0xvNW9GLUtib05zLUxwWkZSb3pxUHJQX3A3WTc2dTh2YWt2WjVJN2FfSV83ZDgzV3JCbzZ0dTIyYzJuR2cteXVHS0RLYWEtVHBaa3lPMWVTTzQyZHU1eTdEdmZPclM1Nk1LUTY4a2ZRa0VwYnJiUGhzS093"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Sone Capital买入5328股英伟达",
-   "title_zh": "Sone Capital买入5328股英伟达",
    "sentiment": 1
   }
  ]
