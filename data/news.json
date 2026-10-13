@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T05:06:30.684203+00:00",
+ "updated_at": "2026-10-13T05:21:27.269634+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,12 +10,12 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": 0.21,
-   "count": 223
+   "avg": -0.5,
+   "count": 2
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": -1,
+   "verdict": "偏空",
+   "score": -2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.21（223条已评分）"
+     "score": -1,
+     "note": "今日新闻情绪 -0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T05:06:30.671064+00:00"
+   "as_of": "2026-10-13T05:21:27.244731+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "eb62f01bee46",
+   "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA - NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTRGZFbUlVZjJzY1M2ZGVVc3hubnlhYmNTTlJCWk5xdWJBeENiZzN2RGRfZ2U5d21tMjNVV0xKcFFSMm5BWDFydDhjT0o1NFBGQlc5aWlEcG5kMUlNY1pNS2J1UGhJaGlwbmhkaTFnYmtoNEE",
+   "source": "NVIDIA Blog",
+   "published_at": "2026-10-13T05:03:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Blog",
+     "published_at": "2026-10-13T05:03:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTRGZFbUlVZjJzY1M2ZGVVc3hubnlhYmNTTlJCWk5xdWJBeENiZzN2RGRfZ2U5d21tMjNVV0xKcFFSMm5BWDFydDhjT0o1NFBGQlc5aWlEcG5kMUlNY1pNS2J1UGhJaGlwbmhkaTFnYmtoNEE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "650861bb3955",
    "title": "Alice & Bob decodes LDPC-cat codes on GPUs with NVIDIA NVQLink - EIN News",
@@ -102,17 +119,56 @@
    "sentiment": -1
   },
   {
+   "id": "2cbd90d30a90",
+   "title": "NVIDIA Lands in Europe for GTC Berlin - NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw",
+   "source": "NVIDIA Blog",
+   "published_at": "2026-10-13T05:00:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Blog",
+     "published_at": "2026-10-13T05:00:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "ab708dc9c2f5",
+   "title": "英伟达在中国AI芯片市场份额降至34% 华为升至28% - cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LbUNoNEVqSmVGczBlZ3Y0ZXdpUTlpZm5FdE1UVVNSZFJYVUNHRjZDRjdzZ3U0LTRMR3lwcWNWSUxhdVdIazJheWFzM0piaUx3WkVaS2w0Vm5WLTRmU1Jjbg",
+   "source": "cnBeta.COM",
+   "published_at": "2026-10-13T05:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-13T05:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LbUNoNEVqSmVGczBlZ3Y0ZXdpUTlpZm5FdE1UVVNSZFJYVUNHRjZDRjdzZ3U0LTRMR3lwcWNWSUxhdVdIazJheWFzM0piaUx3WkVaS2w0Vm5WLTRmU1Jjbg"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "32eb47bd6862",
    "title": "Better Artificial Intelligence Stock for 2026: Intel vs. NVIDIA - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFJLZDZSUVl1dkc3V0xubDlza3FBaWFKdG4yeWhWUXZacU4tMDVYRXJVeG1oYmtVdmoxYVJScHVaNlhjbUU3LV9UN0dicGphY1J2UHRoZVpDVHNrcUpIem5rck5kSDJacENKR19KZEFyZnlkbXlhVlFJVzlqWmJWZ1BuUkNSa1B5NjJDWFNTMHVVV1VrZGhvV1lzc1FwcmlVZ0k4OC1uREJpZUkzVi0ydW9Kd1I",
    "source": "The Motley Fool",
    "published_at": "2026-10-13T04:49:02+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-13T04:49:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFJLZDZSUVl1dkc3V0xubDlza3FBaWFKdG4yeWhWUXZacU4tMDVYRXJVeG1oYmtVdmoxYVJScHVaNlhjbUU3LV9UN0dicGphY1J2UHRoZVpDVHNrcUpIem5rck5kSDJacENKR19KZEFyZnlkbXlhVlFJVzlqWmJWZ1BuUkNSa1B5NjJDWFNTMHVVV1VrZGhvV1lzc1FwcmlVZ0k4OC1uREJpZUkzVi0ydW9Kd1I"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T05:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcG5UT3E0dm4tUDZ3XzdWOVJMNTgybFNaZDF3VGs2YndqeUVzZ0FPNjEzQ3owVDJFTTlJS0oyMzNmdlh2emtSTl9JQXphVkRvOElIdnRrQkFOMnJJcUU0UloxcTFmSUJGOWw1R1l2M1JyOGxqYkNRWnEzZnU2VkFyYm40ZFR5ZHhpQVVhNFE0dHNMVE9hQ0ZMQ3FJQ2M2ZTBrQnNqQXoxQk5OZw"
     }
    ],
    "category": "其他",
@@ -347,7 +403,7 @@
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPODIyeHZRMnlTWFNoamF5X25xNFEyd2FqY0xWTFMwblJ4eG0tcmlfLVItVnRoRTRzaE5vaXZCRkFESWx6c1l0UGdCMG03LWxQUTdkWTd5QU1GU21FRzNqcFdueG01TlRxVGZ2aW9WaE9zWFY3cnpaU25mMFpwQ1JxVUVzbW5kUmoyWGp5NHdBbWh6NHdnTXExTFZRM0FIREhSdHJZNl9idWZVQXV1SlRFNE5CNGhkME8yTEo4ZmpoZ1h3UmJIVFAyV3docXpRMGJKemM2cA",
    "source": "TradingView",
    "published_at": "2026-10-13T02:30:00+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "TradingView",
@@ -373,6 +429,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-13T02:32:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakNuckZoYmwxVFJyQWQxWHhvNEtzM1lkcmEyOGZnVG90TW5jaWpLUXBac2ZQemxBblVhR2pHVnp0MFM5Nnk1WkNJak9INGw4Sm1ZcTEzWUlWWEdDUENsWUlDNlpoNFJTYzA1ZVdVbDVOUGVaYmdtbTRyUTNFQk04NTN0Y2I2VVBWM3c2V0FUT0FDcl9oSmc"
+    },
+    {
+     "name": "The Lufkin Daily News",
+     "published_at": "2026-10-13T02:32:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVnZGQ1JHTEw3ZkpmYmVoUWxZclZxOU9abkFwUHNTX2xXZGtNN0hJbE5zZFFsZTAtUmY1RzB4aUk1dExIQXh1V2RPRTY2VnNuOW9YUWtXOTFMcnBnRmM4bUhuN2VOaTlaVnI3Qmh5XzF0UkZ5dElFcVhyeUJlZU9tdWtyZEVPdThIb1I4SXdNdGR0VHljQU91c0JQenpmRUZSa1R3bE9IMG5PY2xVTkVIdnhlR2RIel93LXA3X2NvMW8tWUlwN2tCbUFya1pkenQ5VnhLSUlEVnJtZzdQMDBHdm5oQUVrT1IyZDBJVGZoOHJUcS1ncUlCVTNqQQ"
     }
    ],
    "category": "产品技术",
@@ -4103,12 +4164,17 @@
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrY3k1ZS1pODN6eFFRNnVkLVVBT3F0Y0lGVmVYd052OGtxUzhueXVYZklvMzJkRWRZTkhvSzZnajVoWFJPYUZlZXljSEtzV0tkaFc4VVJrX2xXb1dsRGF6RkNuakZPTzYtWFVzb2hyMV9wcExXb3JR",
    "source": "Barron's",
    "published_at": "2026-10-12T10:24:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Barron's",
      "published_at": "2026-10-12T10:24:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrY3k1ZS1pODN6eFFRNnVkLVVBT3F0Y0lGVmVYd052OGtxUzhueXVYZklvMzJkRWRZTkhvSzZnajVoWFJPYUZlZXljSEtzV0tkaFc4VVJrX2xXb1dsRGF6RkNuakZPTzYtWFVzb2hyMV9wcExXb3JR"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-12T15:45:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYjZGMnNCMmxKUklyUlNMVVI0bVpwRHhyZENJWThZeHBKYWx3NVRBQmVJQkh3dEVSXy16OWo4WlREdFZKUnhSVDlxYWI2NTR0bi00NnNqX1E5Q3M1RHFoVzdzUHNaakVUVVB5alZ3X0NPbWFlMWNPbWJZcEJfV2pIQVNhUlNiNlJ3cXJvZkE1d2NiR2NyelpBZXl1dDI"
     }
    ],
    "category": "产品技术",
@@ -6560,71 +6626,6 @@
    "zh_summary": "传言英伟达停产RTX 5090转向工作站",
    "title_zh": "【传言】英伟达停产RTX 5090，旗舰芯片全面转向工作站 - 机核GCORES",
    "sentiment": 0
-  },
-  {
-   "id": "48d0495366f1",
-   "title": "英伟达，被曝“新布局” - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KR21xM2RldTM4d0ZoSXhMeC1NbnJJS3NYRHdkek40Q2FKTzZGUWo5MWFWNUEtbGRPUHlHQ2VtclktOE9EVVB6eG1QVm9xM2xLTmhrZjJITmcxXzd2ZEF3Xw",
-   "source": "东方财富",
-   "published_at": "2026-10-11T15:56:45+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-11T15:56:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KR21xM2RldTM4d0ZoSXhMeC1NbnJJS3NYRHdkek40Q2FKTzZGUWo5MWFWNUEtbGRPUHlHQ2VtclktOE9EVVB6eG1QVm9xM2xLTmhrZjJITmcxXzd2ZEF3Xw"
-    },
-    {
-     "name": "大江网",
-     "published_at": "2026-10-12T06:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTTGRLSE9fZFUteDVSdnNsMjh6ck1EaWE5dk8wSTl4SHNXVFpkQk5xS1VfSXhmRXF1WGwyWl9uR0NkMk9jWVQ4U1RPMUMwUEpxWmhLZmpmRXVJd0VlWXk2dXh5dUQxMW15XzQwSg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达被曝进行新布局",
-   "title_zh": "英伟达，被曝“新布局” - 大江网",
-   "sentiment": 0
-  },
-  {
-   "id": "6ac4aac3143c",
-   "title": "RTX 5090’s Exit Echoes Nvidia’s 8-Year Chip Playbook [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yWTF5SEMtSkhDSzRuTWlLVy1qY0RDaUZ5Qi03R3FCNzNsUjFvMkdCRGtOd0hoVzFPNDlqenNHbEJlYzJuQzF4MkZtSjRxc1FHR3RHUDdFc3ZrUks2c3ZFbUxVOW9LdGgwc2JybEVUU2NBSnM",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-11T15:48:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-11T15:48:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yWTF5SEMtSkhDSzRuTWlLVy1qY0RDaUZ5Qi03R3FCNzNsUjFvMkdCRGtOd0hoVzFPNDlqenNHbEJlYzJuQzF4MkZtSjRxc1FHR3RHUDdFc3ZrUks2c3ZFbUxVOW9LdGgwc2JybEVUU2NBSnM"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "RTX 5090停产呼应英伟达八年芯片策略",
-   "title_zh": "RTX 5090退出呼应英伟达八年芯片策略",
-   "sentiment": 0
-  },
-  {
-   "id": "a7836ad476ed",
-   "title": "Dan Ives Calls SpaceX’s $40B Nvidia Chip Debt Plan a ‘Smart Move’ - Barchart.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHJ1TW1IRk8wY2ZyVnJGZHYzbVhnNS04N2NVSVpmMVpJcDNpU0dJZVZhcXVDTGF5R0FiamRkUDAzNDZkNUc3c0NyNUY1TWRSMEx0UEdISDR3T2JpMG9UT0hyTUhvOXZPcWNPdFpvX2RSdGJnU0FmU2lNdUgzVTQyT0lMcTM0QWJic19mNUNJZmJXb2hNS1EzSmxWaDRpenl6M3d4dkJ0eGU",
-   "source": "Barchart.com",
-   "published_at": "2026-10-11T15:30:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barchart.com",
-     "published_at": "2026-10-11T15:30:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHJ1TW1IRk8wY2ZyVnJGZHYzbVhnNS04N2NVSVpmMVpJcDNpU0dJZVZhcXVDTGF5R0FiamRkUDAzNDZkNUc3c0NyNUY1TWRSMEx0UEdISDR3T2JpMG9UT0hyTUhvOXZPcWNPdFpvX2RSdGJnU0FmU2lNdUgzVTQyT0lMcTM0QWJic19mNUNJZmJXb2hNS1EzSmxWaDRpenl6M3d4dkJ0eGU"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "SpaceX筹资400亿美元购买英伟达芯片",
-   "title_zh": "艾夫斯：SpaceX举债400亿美元购买英伟达芯片是明智之举",
-   "sentiment": 1
   }
  ]
 }
