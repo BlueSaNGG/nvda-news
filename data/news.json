@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T09:36:25.614979+00:00",
+ "updated_at": "2026-10-13T09:51:34.146497+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": -0.02,
-   "count": 46
+   "count": 48
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.02（46条已评分）"
+     "note": "今日新闻情绪 -0.02（48条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T09:36:25.601162+00:00"
+   "as_of": "2026-10-13T09:51:34.137101+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -937,12 +937,17 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iNW9XZGdmcUR0MW14UFJ4b2hnVzFRYTN2YW83cmdCVkt2bVJiYW5DY0hiU0xZX0RTWkpMXzZ0bGRRUDlKWnhMa05iTlVlSVpUMEtCcjRLWVJLOWxELTdpMW9IY1lYdw",
    "source": "东方财富",
    "published_at": "2026-10-13T05:27:08+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "东方财富",
      "published_at": "2026-10-13T05:27:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iNW9XZGdmcUR0MW14UFJ4b2hnVzFRYTN2YW83cmdCVkt2bVJiYW5DY0hiU0xZX0RTWkpMXzZ0bGRRUDlKWnhMa05iTlVlSVpUMEtCcjRLWVJLOWxELTdpMW9IY1lYdw"
+    },
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-13T09:08:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiMk9YWkt3ZVBGa3BYQ25nLWZtdkh4V2RqUHAtcE05cEdwRUtWblVDNVNUSTBMTWJ4czQ2S1B1Sl9NMy1UMWtaMDZCNmFMUHlBUnRrX09QWDFMM2lMN0NHeg"
     }
    ],
    "category": "其他",
@@ -1342,7 +1347,7 @@
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPODIyeHZRMnlTWFNoamF5X25xNFEyd2FqY0xWTFMwblJ4eG0tcmlfLVItVnRoRTRzaE5vaXZCRkFESWx6c1l0UGdCMG03LWxQUTdkWTd5QU1GU21FRzNqcFdueG01TlRxVGZ2aW9WaE9zWFY3cnpaU25mMFpwQ1JxVUVzbW5kUmoyWGp5NHdBbWh6NHdnTXExTFZRM0FIREhSdHJZNl9idWZVQXV1SlRFNE5CNGhkME8yTEo4ZmpoZ1h3UmJIVFAyV3docXpRMGJKemM2cA",
    "source": "TradingView",
    "published_at": "2026-10-13T02:30:00+00:00",
-   "outlets_count": 6,
+   "outlets_count": 7,
    "outlets": [
     {
      "name": "TradingView",
@@ -1373,11 +1378,15 @@
      "name": "The Lufkin Daily News",
      "published_at": "2026-10-13T02:32:59+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVnZGQ1JHTEw3ZkpmYmVoUWxZclZxOU9abkFwUHNTX2xXZGtNN0hJbE5zZFFsZTAtUmY1RzB4aUk1dExIQXh1V2RPRTY2VnNuOW9YUWtXOTFMcnBnRmM4bUhuN2VOaTlaVnI3Qmh5XzF0UkZ5dElFcVhyeUJlZU9tdWtyZEVPdThIb1I4SXdNdGR0VHljQU91c0JQenpmRUZSa1R3bE9IMG5PY2xVTkVIdnhlR2RIel93LXA3X2NvMW8tWUlwN2tCbUFya1pkenQ5VnhLSUlEVnJtZzdQMDBHdm5oQUVrT1IyZDBJVGZoOHJUcS1ncUlCVTNqQQ"
+    },
+    {
+     "name": "Techi",
+     "published_at": "2026-10-13T09:27:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5obXEyeFRMcW1CdzBxbFJxbC1jV1FOQ245d0JOV0NpUUU0cDZqSTcxR2pRdWV3OHlxZWoxdHpOWHAxLVAyZG5LZ0FMRXROUnpjY1dWTnM1M2JPTjN0eFdXSjhsNHdFcVhDMVFHVTdOSjNyVzQ"
     }
    ],
    "category": "产品技术",
    "session": "盘后",
-   "breaking": true,
    "zh_summary": "英伟达中国AI芯片份额下滑，华为追赶",
    "title_zh": "英伟达中国AI芯片份额下滑，报告称华为缩小差距",
    "sentiment": -1
