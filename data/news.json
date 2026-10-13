@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T12:51:29.793477+00:00",
+ "updated_at": "2026-10-13T13:06:28.049801+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": 0.03,
-   "count": 79
+   "avg": 0.09,
+   "count": 82
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.03（79条已评分）"
+     "note": "今日新闻情绪 +0.09（82条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T12:51:29.773970+00:00"
+   "as_of": "2026-10-13T13:06:28.035730+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "7e7bdf36d1ac",
+   "title": "Bot Auto Selects Lenovo AD1 built on NVIDIA Hyperion to Scale Driverless Trucking - PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTWNBX0h2ZUNNZVA0WkNUd1NOT05rWDJ0eWJHMzFfOGhRbnZBOHMwOFNaN2l1bWxvVEFMSU1iSThqN29hcE80bG9XSkFhbV9TZUpxWUg1Q3l2YTItWXpqbUF6WkUtY2JtYWNVREp2MTE3ZWdlazllOTNSUEM1X3czUXRYOU1ManRKNHlwT1ktaWNkX1c5bjJhOWdPR2ZUSU9YbmtIVUh2Y0RIUW1BdUZ6UGJBcGE0TlhEcnZ5SDVwOUM1NkUxY3p1T3FKczczbHBMOGNN",
+   "source": "PR Newswire",
+   "published_at": "2026-10-13T13:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PR Newswire",
+     "published_at": "2026-10-13T13:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTWNBX0h2ZUNNZVA0WkNUd1NOT05rWDJ0eWJHMzFfOGhRbnZBOHMwOFNaN2l1bWxvVEFMSU1iSThqN29hcE80bG9XSkFhbV9TZUpxWUg1Q3l2YTItWXpqbUF6WkUtY2JtYWNVREp2MTE3ZWdlazllOTNSUEM1X3czUXRYOU1ManRKNHlwT1ktaWNkX1c5bjJhOWdPR2ZUSU9YbmtIVUh2Y0RIUW1BdUZ6UGJBcGE0TlhEcnZ5SDVwOUM1NkUxY3p1T3FKczczbHBMOGNN"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "019c6c8fddcb",
    "title": "Nvidia doubles DLSS 5 performance, reduces 4K VRAM usage by 20% with latest model — October update cuts footprint by 24% to roughly 118 million parameters - Tom's Hardware",
@@ -82,26 +99,6 @@
    "sentiment": 1
   },
   {
-   "id": "cff541922d4b",
-   "title": "网易游戏《燕云十六声》将支持英伟达DLSS 5技术 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wcEtiTzB6b09EdzBYTGcwaXRycVo4eFVfNHFtVXlrMVM4VklUa3ZmR2IwU01MazB4OVUzblJGa25pMUUzc2wxMnNpM0VmUG5sUXZ1ZmhDRlg5OGhKSnhORA",
-   "source": "东方财富",
-   "published_at": "2026-10-13T12:46:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-13T12:46:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wcEtiTzB6b09EdzBYTGcwaXRycVo4eFVfNHFtVXlrMVM4VklUa3ZmR2IwU01MazB4OVUzblJGa25pMUUzc2wxMnNpM0VmUG5sUXZ1ZmhDRlg5OGhKSnhORA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "网易《燕云十六声》将支持DLSS 5",
-   "title_zh": "网易游戏《燕云十六声》将支持英伟达DLSS 5技术 - 东方财富",
-   "sentiment": 1
-  },
-  {
    "id": "ac53911acf0a",
    "title": "软通动力到货8000张英伟达GPU卡？知情人士：是客观事实，用于生产服务器 - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTNXk5MlZJTi1CVnUtZHROY1RBMHNuYUxKSkJwcE1xY21HV0l4VFlmNzJFMkdxUWZwUWxQVEpnOFctcVVIbEJjd1BiS0RhYU8yUHllSmFranlhQW1tUDRIajJGck9EZw",
@@ -120,6 +117,48 @@
    "zh_summary": "软通动力到货8000张英伟达GPU卡",
    "title_zh": "软通动力到货8000张英伟达GPU卡？知情人士：是客观事实，用于生产服务器 - 东方财富",
    "sentiment": 1
+  },
+  {
+   "id": "49fcba6d6a77",
+   "title": "国内首款！网易官宣《燕云十六声》11月支持英伟达DLSS 5 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1idkFYb3JyaGtJY2dzenJUazJKemNqM21mbkVyd3A4cmlkTFFrcVdMcTdTZngxVWFQeUpwR09oQnhWbEtqbWgtUndxLWhFR1ZEdUhQV29STFM",
+   "source": "驱动之家",
+   "published_at": "2026-10-13T12:44:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-13T12:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1idkFYb3JyaGtJY2dzenJUazJKemNqM21mbkVyd3A4cmlkTFFrcVdMcTdTZngxVWFQeUpwR09oQnhWbEtqbWgtUndxLWhFR1ZEdUhQV29STFM"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-13T12:46:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wcEtiTzB6b09EdzBYTGcwaXRycVo4eFVfNHFtVXlrMVM4VklUa3ZmR2IwU01MazB4OVUzblJGa25pMUUzc2wxMnNpM0VmUG5sUXZ1ZmhDRlg5OGhKSnhORA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "网易《燕云十六声》将支持DLSS 5",
+   "title_zh": "网易游戏《燕云十六声》将支持英伟达DLSS 5技术 - 东方财富",
+   "sentiment": 1
+  },
+  {
+   "id": "852ed3937ca6",
+   "title": "U.S. Export Restrictions Drive Nvidia China AI Chip Market Share Down to 34% - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQUpNWndGWWhqc3pMbkV0SEFkb3N4REVSQmpRZEsxdHlZZTIwVktsLXBjSTBxWDlrSjhNalJmakRzdFlmQm9TQlhhMXVWSjZ6UHNlY2RybldidkRaZHBKNk5NY3ZIUzdYcTVyZ2hpb3loaEkyUldsX2Nsb0xkWk43d3NwVWZkelMxMDRnUUpQaDNyUkxFUGFXY3VHeGFkeUU",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-13T12:43:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T12:43:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQUpNWndGWWhqc3pMbkV0SEFkb3N4REVSQmpRZEsxdHlZZTIwVktsLXBjSTBxWDlrSjhNalJmakRzdFlmQm9TQlhhMXVWSjZ6UHNlY2RybldidkRaZHBKNk5NY3ZIUzdYcTVyZ2hpb3loaEkyUldsX2Nsb0xkWk43d3NwVWZkelMxMDRnUUpQaDNyUkxFUGFXY3VHeGFkeUU"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "a6636a519d45",
@@ -1175,26 +1214,6 @@
    "session": "盘前",
    "zh_summary": "Corient抛售72万股NVDA",
    "title_zh": "Corient私人财富抛售722670股NVDA",
-   "sentiment": -1
-  },
-  {
-   "id": "af7ff7443d52",
-   "title": "Stonebridge Capital Management Inc. Sells 7,587 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjBBeEo1SHQ5MG94bFh4eDBHWG91SFRoYlB4X0xManRldFBlVGdrZm1vSERTbU9mNV9Ua1BvdUtUc24ta2t5cEJVV1Yzck1rU2lLMzl3anhFN29qOVdfSDd1a0ZUQ3BFUHFlbUd2VU9sTEVWdzZKWlpzd201bE9UNkp1U1diaXdKZVcycnQ5R094NlZRWjFQRUFGSkxYSExXUFZqWFg5Rm00cDRacDdRX0JjYk9JTWhHSVlxcU1rQ3pSTEtBakd5U3k5QWxjLS1HdXB6bTlvcw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-13T07:42:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-13T07:42:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjBBeEo1SHQ5MG94bFh4eDBHWG91SFRoYlB4X0xManRldFBlVGdrZm1vSERTbU9mNV9Ua1BvdUtUc24ta2t5cEJVV1Yzck1rU2lLMzl3anhFN29qOVdfSDd1a0ZUQ3BFUHFlbUd2VU9sTEVWdzZKWlpzd201bE9UNkp1U1diaXdKZVcycnQ5R094NlZRWjFQRUFGSkxYSExXUFZqWFg5Rm00cDRacDdRX0JjYk9JTWhHSVlxcU1rQ3pSTEtBakd5U3k5QWxjLS1HdXB6bTlvcw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Stonebridge减持7587股英伟达",
-   "title_zh": "Stonebridge减持7587股英伟达股票",
    "sentiment": -1
   },
   {
@@ -2258,7 +2277,7 @@
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVbEZvanZaM0xwLWpwNnhiVkljR2xnYVNENS1mSDEtWndnR2FmV3UyaWVLWVJYcjY5YVA5WmtDRG5SQldtaTRpdjc2VDZ0ZllT",
    "source": "富途牛牛",
    "published_at": "2026-10-13T01:37:57+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "富途牛牛",
@@ -2269,6 +2288,11 @@
      "name": "搜狐",
      "published_at": "2026-10-13T02:33:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUURyTDNLOEs4blFMX2trWlQyMW1xWENRc3lsTlRsN1RJdFhLVnN5UDQ5Ym00ZW5vM21BRldHMEFQWWRubC04WUJzZ05xQVJaeXRoTThBS3dzeVppSld4UGFSZ1hjR3JnV25PcjZLMTNmR0pYY1pvNEowdGNueG1aN3RpdWZNSmtETjNQZA"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-13T01:37:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mdC1oUS1iU05XeDFiWnRMa2FGcEl1OXdBd3IwRXBHeVJZXzlVTlRGSC01LUxKdFliaGpYNnExVjN3b1ZWSVI3LUp6cTRSODNjSmRCZXQ3dklEeHQw"
     }
    ],
    "category": "其他",
@@ -6607,26 +6631,6 @@
    "session": "盘前",
    "zh_summary": "英伟达发布开源语音AI模型",
    "title_zh": "英伟达发布能边听边说的开源语音AI",
-   "sentiment": 1
-  },
-  {
-   "id": "7f9ac9de1846",
-   "title": "NVIDIA Corporation $NVDA Stock Acquired by Roberts Glore & Co. Inc. IL - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckt2dU8wck1hSjYzWG5ENm5uc0FEemxPcXhMeTV6U1lnZ2c4S3dlZHZsZnNlNmI2VU1SVml5a0xLVzUyekZfNXVuWWNhY2dkbS1XakNob0pvdThuTWcyX041SHQ5UFd1VzZSdjlzbG44RlF1SFZMTXBfOTBnX1ZWMVNHcWZDdmIybTV4bnFSeFhPVDhOTUVPOEx4M3Nab1A5V1phUUZYdkE3RDRhSXR6WDF0TVJXX0lUb3RIcUdRRlhtcTF4",
-   "source": "MarketBeat",
-   "published_at": "2026-10-12T07:25:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-12T07:25:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckt2dU8wck1hSjYzWG5ENm5uc0FEemxPcXhMeTV6U1lnZ2c4S3dlZHZsZnNlNmI2VU1SVml5a0xLVzUyekZfNXVuWWNhY2dkbS1XakNob0pvdThuTWcyX041SHQ5UFd1VzZSdjlzbG44RlF1SFZMTXBfOTBnX1ZWMVNHcWZDdmIybTV4bnFSeFhPVDhOTUVPOEx4M3Nab1A5V1phUUZYdkE3RDRhSXR6WDF0TVJXX0lUb3RIcUdRRlhtcTF4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "机构Roberts Glore增持英伟达股票",
-   "title_zh": "Roberts Glore公司建仓买入NVDA股票",
    "sentiment": 1
   }
  ]
