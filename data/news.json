@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T14:21:35.217698+00:00",
+ "updated_at": "2026-10-13T14:36:29.336864+00:00",
  "market": {
-  "price": 225.57,
-  "change_pct": -0.33,
+  "price": 225.68,
+  "change_pct": -0.28,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": 0.19,
-   "count": 111
+   "avg": 0.2,
+   "count": 114
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.19（111条已评分）"
+     "note": "今日新闻情绪 +0.20（114条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $225.57 vs 20日均线 $228.17"
+     "note": "现价 $225.68 vs 20日均线 $228.18"
     },
     {
      "key": "分析师动向",
@@ -47,8 +47,8 @@
    "target_median": 315.0,
    "target_count": 15,
    "implied_upside_pct": 39.6,
-   "ma20": 228.17,
-   "as_of": "2026-10-13T14:21:35.205120+00:00"
+   "ma20": 228.18,
+   "as_of": "2026-10-13T14:36:29.322213+00:00"
   },
   "pe_ttm": 28.7,
   "pe_pct_5y": 25,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "ab0ca1752994",
+   "title": "Chinese AI companies buy 1 million Nvidia GPUs in a single year, report claims — export control-compliant chips flood the market to bridge gap in compute demand - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQVHVNbjRZMUpXekp4di1oY1JvZjlJUkR2bXhWdUttRVdtcGVDQjNxbEpVTG5Ra0w3RFU0R1M5R3haOHFLTEE2OFBuQ3R4eVBhMDc2UXhtZjd4eWFPMWVlaEdmYU0wM3Y0c1ViVENxcUtSVzhUSHliM05ZbjBuVjB5YTJtS3YtTkx4NjdRNTZtbGhIdS1ydkZnRGNwbFhWRFQzR05keU9RX1Qwb0ZydHEwQ3lFcUtpTDZRbGxKdl90SXh1X0xwYXhZcHp6QTlxQTBFNGJPLThIdk04QWhZTW9xUTQwQ0hFMWhpaXM0OXpQU1M0ZnpRNF9lTzJhbjhaajRNWThIdnlLLUN0M05sVlRzNnFjeVZPeXJiUlFZU2RFZ0FrbFRuOEdaRGlTN1lHdw",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-13T14:32:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-13T14:32:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQVHVNbjRZMUpXekp4di1oY1JvZjlJUkR2bXhWdUttRVdtcGVDQjNxbEpVTG5Ra0w3RFU0R1M5R3haOHFLTEE2OFBuQ3R4eVBhMDc2UXhtZjd4eWFPMWVlaEdmYU0wM3Y0c1ViVENxcUtSVzhUSHliM05ZbjBuVjB5YTJtS3YtTkx4NjdRNTZtbGhIdS1ydkZnRGNwbFhWRFQzR05keU9RX1Qwb0ZydHEwQ3lFcUtpTDZRbGxKdl90SXh1X0xwYXhZcHp6QTlxQTBFNGJPLThIdk04QWhZTW9xUTQwQ0hFMWhpaXM0OXpQU1M0ZnpRNF9lTzJhbjhaajRNWThIdnlLLUN0M05sVlRzNnFjeVZPeXJiUlFZU2RFZ0FrbFRuOEdaRGlTN1lHdw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "e975fe319b40",
+   "title": "Nvidia (NVDA) Is In Advanced Talks To Acquire Reflection AI - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMU9naHhIVDhzaExIS013N00ydW1zbXdfTFNhSl82RUdONHdMNndpQk5jQV9XeE4xZ1RVamN6LU11MnlwaWY0ejQyZmFHVWsteC1TeDBkQWRLZDA4WjIyMzhhNnFnN1ZLb2Y1dkMxeE94M3hCYWJjY0g5LVpkazBIeFUtRFJWNWtydHVkRWJJTkQtd1BCdzhvOTNXS0ZRX2s",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-13T14:11:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T14:11:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMU9naHhIVDhzaExIS013N00ydW1zbXdfTFNhSl82RUdONHdMNndpQk5jQV9XeE4xZ1RVamN6LU11MnlwaWY0ejQyZmFHVWsteC1TeDBkQWRLZDA4WjIyMzhhNnFnN1ZLb2Y1dkMxeE94M3hCYWJjY0g5LVpkazBIeFUtRFJWNWtydHVkRWJJTkQtd1BCdzhvOTNXS0ZRX2s"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "f26f503dcb9d",
    "title": "Nvidia Is 'Too Big to Fail,' Semafor Editor Warns: 'The Government Would Step In' - Benzinga",
@@ -6566,46 +6600,6 @@
    "zh_summary": "《财富》120强增长榜：英伟达上榜",
    "title_zh": "《财富》未来增长潜力120强：11家中企入选 英伟达、OpenAI、苹果上榜",
    "sentiment": 1
-  },
-  {
-   "id": "9309714924e8",
-   "title": "Intel CEO Reportedly Echoes Nvidia’s Jensen Huang On Lower-Cost Chinese AI Models – Traders Watch $100 Level - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWUIxa3d1dDF5VFUzd0w0ekwzVExrcFl5UGt4SjdUY1NkOTFxWGxSclp6WUxiaFlSOXRTcGJvSXhoZzFFSHY1aGdUWXNGYmdQWEFvZzZCTHdtamR2R2xadXNaOGdqM1lzM3A1SjY3TTJ6X19jWG9tR2t0WEdTTzFoaEtRQ2dkMklNSmI1TDgwSVYtRldyMFRNVFFYdGlock5maGg1UVdWUG5GUktrRVAwa1hxbFhmem5yMlByMEJmWVc5R2JKYU1fV3h5cFF2MmtOOW5odHNGVTZVQkdrRU9KRm54Yl9kQ2c",
-   "source": "Stocktwits",
-   "published_at": "2026-10-12T12:21:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-12T12:21:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWUIxa3d1dDF5VFUzd0w0ekwzVExrcFl5UGt4SjdUY1NkOTFxWGxSclp6WUxiaFlSOXRTcGJvSXhoZzFFSHY1aGdUWXNGYmdQWEFvZzZCTHdtamR2R2xadXNaOGdqM1lzM3A1SjY3TTJ6X19jWG9tR2t0WEdTTzFoaEtRQ2dkMklNSmI1TDgwSVYtRldyMFRNVFFYdGlock5maGg1UVdWUG5GUktrRVAwa1hxbFhmem5yMlByMEJmWVc5R2JKYU1fV3h5cFF2MmtOOW5odHNGVTZVQkdrRU9KRm54Yl9kQ2c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英特尔CEO呼应黄仁勋谈中国低成本AI模型",
-   "title_zh": "英特尔CEO呼应黄仁勋，谈中国低成本AI模型",
-   "sentiment": -1
-  },
-  {
-   "id": "75ed64c0e4a9",
-   "title": "Nvidia Falls Back From Record High. Its Stock Chart Offers a Warning. - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ",
-   "source": "Barron's",
-   "published_at": "2026-10-12T12:13:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-12T12:13:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOejVzVFN5MzdQZlAybkJUWldaVW5Db2lsbUZZeHF6MW9mdkxVYl9JSE5iZFpmV1R2NlhiWmw3a0M4RFRjNW9uV0V0OVZqSXRYUDBRamZCdk5EYmZpMFlwbzZPVUFJc2ZvZ0RmVXJodEJoMHRwZkFjVk5uVC1OS3dpdmZRSnQtX2hncndRQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达自历史高点回落，图表现警示",
-   "title_zh": "英伟达从历史高点回落，巴伦周刊称图表现警示",
-   "sentiment": -1
   }
  ]
 }
