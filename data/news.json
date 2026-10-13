@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T06:21:26.009423+00:00",
+ "updated_at": "2026-10-13T06:36:28.245776+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": -0.33,
-   "count": 9
+   "avg": -0.2,
+   "count": 10
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.33（9条已评分）"
+     "note": "今日新闻情绪 -0.20（10条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T06:21:25.991722+00:00"
+   "as_of": "2026-10-13T06:36:28.235580+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,26 +61,6 @@
   }
  },
  "stories": [
-  {
-   "id": "89a8cceeafdf",
-   "title": "英伟达开放Vera Rubin机柜设计，创业板算力ETF天弘(158061)标的指数盘中大涨超4% - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kUlAwT2U2REdudWt5ejVUbHJ3anZDLWNBMTNLc01WMFdkRl9nWEQ2ZEVJOFBkR0FLSDlyV2dURUtRWWFVNFVDck1ZNTNhdTB5RXF3U2F4clhIS3o5b0R3Qm9GVnpsWlZCeUxaaEZYZ0pqUQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-13T06:10:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-13T06:10:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kUlAwT2U2REdudWt5ejVUbHJ3anZDLWNBMTNLc01WMFdkRl9nWEQ2ZEVJOFBkR0FLSDlyV2dURUtRWWFVNFVDck1ZNTNhdTB5RXF3U2F4clhIS3o5b0R3Qm9GVnpsWlZCeUxaaEZYZ0pqUQ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达开放Vera Rubin机柜设计",
-   "title_zh": "英伟达开放Vera Rubin机柜设计，创业板算力ETF天弘(158061)标的指数盘中大涨超4% - 手机新浪网",
-   "sentiment": 1
-  },
   {
    "id": "898dc8abd922",
    "title": "Nvidia AI chip share in China falls as Huawei catches up- Reuters - Investing.com",
@@ -120,6 +100,26 @@
    "zh_summary": "中国AI芯片份额降至34%出货降44%",
    "title_zh": "英伟达中国数据中心AI芯片市场份额降至34% 出货量同比降44% - 凤凰网",
    "sentiment": -1
+  },
+  {
+   "id": "89a8cceeafdf",
+   "title": "英伟达开放Vera Rubin机柜设计，创业板算力ETF天弘(158061)标的指数盘中大涨超4% - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WeWtvRDZhUzZ3MmNpQm5YY0ZlSkpkZHFselJ6RV9lOVVab3dneDRueDItaV96OW9LQ1pFUy1kQngwSllNVHhpRGp2cE14dVc3eTNfZFZXd19fRmFrTG9salh4cGtQeUFrM0JLZm9NRjVBdw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-13T05:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-13T05:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WeWtvRDZhUzZ3MmNpQm5YY0ZlSkpkZHFselJ6RV9lOVVab3dneDRueDItaV96OW9LQ1pFUy1kQngwSllNVHhpRGp2cE14dVc3eTNfZFZXd19fRmFrTG9salh4cGtQeUFrM0JLZm9NRjVBdw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前",
+   "zh_summary": "英伟达开放Vera Rubin机柜设计",
+   "title_zh": "英伟达开放Vera Rubin机柜设计，创业板算力ETF天弘(158061)标的指数盘中大涨超4% - 手机新浪网",
+   "sentiment": 1
   },
   {
    "id": "283ef39fddf5",
@@ -658,6 +658,23 @@
    "sentiment": -1
   },
   {
+   "id": "279cb1f90983",
+   "title": "天阳科技：签署合同采购20000张英伟达GPU产品 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zZGVfLXU1OWN6LVN3LXEyVTFyaGwzMTVuZHlqUHNyUGFUYk43OGR5bTVGRzdIQ3A5djdKeFV3bVpBRVZrMUprMEYwQjBHOXhQcFZGOUZDbkR3SHFzYmFKSTRmOV9OQQ",
+   "source": "东方财富",
+   "published_at": "2026-10-13T01:37:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-13T01:37:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zZGVfLXU1OWN6LVN3LXEyVTFyaGwzMTVuZHlqUHNyUGFUYk43OGR5bTVGRzdIQ3A5djdKeFV3bVpBRVZrMUprMEYwQjBHOXhQcFZGOUZDbkR3SHFzYmFKSTRmOV9OQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "ed6c8316cd03",
    "title": "天阳科技公告签署销售合同 采购2万张英伟达RTX PRO 5500 GPU - 观点网",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wRDRncVo0X3M0eWZfZDFnSGdHMFZBaDRLSDFDR3k5eU1tcXZDWVY0Y3RvOHlPeVRkejM5eERXd1lLUHh3ekVKUjZhWTBMTG16Vm9JTHhGNms3RmlDLTl6NWF3",
@@ -961,61 +978,6 @@
    "zh_summary": "英伟达宣布1500亿美元股票回购计划",
    "title_zh": "英伟达（NVDA）宣布1500亿美元股票回购计划 - GuruFocus",
    "sentiment": 2
-  },
-  {
-   "id": "376c31630488",
-   "title": "天阳科技签订采购20000张英伟达GPU合同 - 币界网",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40a0l0Tm9RSEV0bEFoRFoydTVOaFJ5U2NnZnFsbWQ5RTl5al85UFQtWFRybkpfa2JiNjBkdkJvbEZhR05fbnYwcGpFb3RCM1MwQkVZ",
-   "source": "币界网",
-   "published_at": "2026-10-13T00:10:16+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "币界网",
-     "published_at": "2026-10-13T00:10:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40a0l0Tm9RSEV0bEFoRFoydTVOaFJ5U2NnZnFsbWQ5RTl5al85UFQtWFRybkpfa2JiNjBkdkJvbEZhR05fbnYwcGpFb3RCM1MwQkVZ"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-13T00:40:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUZuM3RIQmFsZnBqNmpKdWtVWHpQN0RQaFZLNjdFWC1pRUxMTWpuWlYyRVZHNktyVW1ONGg2anpvZGszLWlaVTlnb0huWS0xdDlBcjdRcklWdGVqaDBIM04xSmJPY1ltMEpZaUVRRUY1YWtkaDZCOFhyWUw1U2NaYUV0am9MODZrNzFGM181R0hqVHBiWVEtRG12QXFUU1Q2YV8tb0J0MEM"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-13T01:37:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zZGVfLXU1OWN6LVN3LXEyVTFyaGwzMTVuZHlqUHNyUGFUYk43OGR5bTVGRzdIQ3A5djdKeFV3bVpBRVZrMUprMEYwQjBHOXhQcFZGOUZDbkR3SHFzYmFKSTRmOV9OQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "天阳科技签订2万张英伟达GPU采购合同",
-   "title_zh": "天阳科技签订采购20000张英伟达GPU合同 - 币界网",
-   "sentiment": 1
-  },
-  {
-   "id": "1e2de74b99eb",
-   "title": "天阳科技：签订2万张英伟达GPU产品采购合同_7x24快讯_新浪财经 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tVTkxYmczbm95LVgxdnBNbWJhZXJyUXUwbW9yRC1LbVctUUNpcVdaNGdRT2N2NnFCUHQzUkxRSXhTUGJVVmxQUGRmSQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-13T00:08:27+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-13T00:08:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tVTkxYmczbm95LVgxdnBNbWJhZXJyUXUwbW9yRC1LbVctUUNpcVdaNGdRT2N2NnFCUHQzUkxRSXhTUGJVVmxQUGRmSQ"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-13T00:13:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUNybUFnT0xjTm9IdFpiOE1PaXVXdVNRV2dWUDIzMHV1RkpHcUFuNlBMTmoydld6QUFTWVVDX0hFQjIwdXQtTVRxTmc1XzJabldJVC1VVUM0N3o5cEpDOVZ4MjkwNG5KUFhnRnBoSWFSWnEyNmhlaDFjMlNDbzNFTUJqX1gtSllyRlllTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "天阳科技签订2万张英伟达GPU采购合同",
-   "title_zh": "天阳科技：签订2万张英伟达GPU产品采购合同_7x24快讯_新浪财经 - 手机新浪网",
-   "sentiment": 1
   },
   {
    "id": "65d020b5add3",
@@ -5999,6 +5961,55 @@
    "zh_summary": "英伟达拟收购式招聘拿下Reflection AI",
    "title_zh": "英伟达拟以“收购式招聘”拿下Reflection AI：先投8亿，再用买人不买公司绕开监管 - 富途牛牛",
    "sentiment": 1
+  },
+  {
+   "id": "c745d4140954",
+   "title": "天阳科技：签订2万张英伟达GPU产品采购合同 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OYzRxc3UzRThwWHNhZFFQNTNTQXIzUml3Wk84SjMzWFJHelZ3eFJ1WkRqbUZuUkhGRXJTTUFmVDBuMl94SWdVczJKQ1VscXpDLUJjZUtmelloXzlTRDZtUjNVS09hUQ",
+   "source": "东方财富",
+   "published_at": "2026-10-12T00:24:49+00:00",
+   "outlets_count": 6,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-12T00:24:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OYzRxc3UzRThwWHNhZFFQNTNTQXIzUml3Wk84SjMzWFJHelZ3eFJ1WkRqbUZuUkhGRXJTTUFmVDBuMl94SWdVczJKQ1VscXpDLUJjZUtmelloXzlTRDZtUjNVS09hUQ"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-13T00:08:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tVTkxYmczbm95LVgxdnBNbWJhZXJyUXUwbW9yRC1LbVctUUNpcVdaNGdRT2N2NnFCUHQzUkxRSXhTUGJVVmxQUGRmSQ"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-13T00:13:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOUNybUFnT0xjTm9IdFpiOE1PaXVXdVNRV2dWUDIzMHV1RkpHcUFuNlBMTmoydld6QUFTWVVDX0hFQjIwdXQtTVRxTmc1XzJabldJVC1VVUM0N3o5cEpDOVZ4MjkwNG5KUFhnRnBoSWFSWnEyNmhlaDFjMlNDbzNFTUJqX1gtSllyRlllTQ"
+    },
+    {
+     "name": "币界网",
+     "published_at": "2026-10-13T00:10:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40a0l0Tm9RSEV0bEFoRFoydTVOaFJ5U2NnZnFsbWQ5RTl5al85UFQtWFRybkpfa2JiNjBkdkJvbEZhR05fbnYwcGpFb3RCM1MwQkVZ"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-13T00:40:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUZuM3RIQmFsZnBqNmpKdWtVWHpQN0RQaFZLNjdFWC1pRUxMTWpuWlYyRVZHNktyVW1ONGg2anpvZGszLWlaVTlnb0huWS0xdDlBcjdRcklWdGVqaDBIM04xSmJPY1ltMEpZaUVRRUY1YWtkaDZCOFhyWUw1U2NaYUV0am9MODZrNzFGM181R0hqVHBiWVEtRG12QXFUU1Q2YV8tb0J0MEM"
+    },
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-13T05:28:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fTk9ES1hPMTJENDREd1A1Q0pPcW1CS1JtLXFlT2xlNDlOWVhkUC16anJNa3ZubjFRdUxIRHRIVFM1Rmp0dTAxa1pKTFhCLVNPMmVaSWh2MUFMdmNiOEhQRA"
+    }
+   ],
+   "category": "其他",
+   "session": "周末",
+   "zh_summary": "天阳科技签订2万张英伟达GPU采购合同",
+   "title_zh": "天阳科技：签订2万张英伟达GPU产品采购合同_7x24快讯_新浪财经 - 手机新浪网",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -1.03,
+    "window_h": 2.0
+   }
   },
   {
    "id": "ee810246e87b",
