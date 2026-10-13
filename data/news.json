@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T18:51:30.605601+00:00",
+ "updated_at": "2026-10-13T19:06:37.483042+00:00",
  "market": {
-  "price": 227.15,
-  "change_pct": 0.37,
+  "price": 227.37,
+  "change_pct": 0.46,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": 0.29,
-   "count": 167
+   "avg": 0.3,
+   "count": 169
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +38.7%"
+     "note": "目标价中位数 $315（15家），隐含空间 +38.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（167条已评分）"
+     "note": "今日新闻情绪 +0.30（169条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $227.15 vs 20日均线 $228.25"
+     "note": "现价 $227.37 vs 20日均线 $228.26"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 84,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 38.7,
-   "ma20": 228.25,
-   "as_of": "2026-10-13T18:51:30.592633+00:00"
+   "implied_upside_pct": 38.5,
+   "ma20": 228.26,
+   "as_of": "2026-10-13T19:06:37.462780+00:00"
   },
   "pe_ttm": 28.9,
-  "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+38.7%空间：估值偏低，预期乐观"
+  "pe_pct_5y": 27,
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+38.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "b1fdf6a72033",
+   "title": "NVIDIA Doubles DLSS 5 Speed And Slashes VRAM Use For RTX Spark Launch - HotHardware",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJaWQwaWRyOG9vakdDazRjR1hrT2pvMFRfTml5TkFrY0otVXAzUFNoOW04MEFhYWJVdWRqY3dGQjR0UExaSVhHTDNZbUc4Sm9uLUhNZVZCbEtXRDRscEZmOEVDeWRrYkRQYWN3cGowVHhyRERn",
+   "source": "HotHardware",
+   "published_at": "2026-10-13T18:55:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "HotHardware",
+     "published_at": "2026-10-13T18:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJaWQwaWRyOG9vakdDazRjR1hrT2pvMFRfTml5TkFrY0otVXAzUFNoOW04MEFhYWJVdWRqY3dGQjR0UExaSVhHTDNZbUc4Sm9uLUhNZVZCbEtXRDRscEZmOEVDeWRrYkRQYWN3cGowVHhyRERn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "65e559db821a",
+   "title": "Why Nvidia Stock Is Up Even as Microsoft Launches the Maia 300 - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkt5Y3pFZXJHTFMtVjBsRS03eGdxUkFudlQwQ0JUWjlRT3JHOWxnMXlNaE9vOHhLTUdGWVNMWDFibUhzSDdielo5OThVbU85bTBMdllNZXJYSFNScVZrdEVkYVZSUlVfVGYyS29BR1dwMVM4c1E5eE1nc0JhTy1uRTFXRVZFeEFLNmpmOQ",
+   "source": "Barron's",
+   "published_at": "2026-10-13T18:53:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-13T18:53:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkt5Y3pFZXJHTFMtVjBsRS03eGdxUkFudlQwQ0JUWjlRT3JHOWxnMXlNaE9vOHhLTUdGWVNMWDFibUhzSDdielo5OThVbU85bTBMdllNZXJYSFNScVZrdEVkYVZSUlVfVGYyS29BR1dwMVM4c1E5eE1nc0JhTy1uRTFXRVZFeEFLNmpmOQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "e7110b103881",
    "title": "Nvidia Stock Shakes Off Fallout From Broadcom CEO and Microsoft's New Chip -- Barrons.com - Moomoo",
@@ -80,6 +114,23 @@
    "zh_summary": "英伟达股价从博通微软芯片消息中回升",
    "title_zh": "英伟达股价摆脱博通CEO和微软新芯片影响",
    "sentiment": 1
+  },
+  {
+   "id": "4834cfb06989",
+   "title": "Nvidia (NVDA) or Apple (AAPL): Which Is the Better Bet on Dan Ives’ $4 Trillion AI Wave? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkZSTGlmbnBRSDQ4WnJCbHpldVBCQ3ZMTXBWbTktQk16MmtBWDA5elpFb3Q3RjFwVE5Fdjh3akhySnN1eV80b3JnQXROb0pLc21NRkFDZ2RRa1VpQmc2el9id0FGcHVIbnRSTWh4TzVSRk5uc2RLME1yYjJ4TW4tM0FYUUNtZ3htaFNfZ3V5RkNhRjZ4NU9EOA",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-13T18:41:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T18:41:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkZSTGlmbnBRSDQ4WnJCbHpldVBCQ3ZMTXBWbTktQk16MmtBWDA5elpFb3Q3RjFwVE5Fdjh3akhySnN1eV80b3JnQXROb0pLc21NRkFDZ2RRa1VpQmc2el9id0FGcHVIbnRSTWh4TzVSRk5uc2RLME1yYjJ4TW4tM0FYUUNtZ3htaFNfZ3V5RkNhRjZ4NU9EOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "e03ff2d2bc9e",
@@ -206,7 +257,7 @@
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ3c3WDFBRGNaZURKS2RYaHBuTGFHcGJ4Q3ZJQXpJc3MtMzNoVDdRQmlNT2IxU1NGMWtaQU9FaUxRcE5YMDFSV3dOQl83d3c3emhxVmR5LXRhRnh0RmJNTEpwWnFMNHY1aXlsUkU4SEdUY1pIQXVLb3RrTGJfN20xLUhKU3RBcmYxTGZRNmN5TUgtTnh3NGp0Wk9NNjFnODB0VEFxS1ZNR0t5dmVWejZsUjZPY3hBVk9UeFY4ckplRnYwTG1DUDJtdFM1UjZYbktka0NyVTBDdTRBdl96TkpGWjZIbGF3b1NpMW0zZEdtYkxNbnB6WjZR",
    "source": "Central Oregon Daily",
    "published_at": "2026-10-13T17:49:44+00:00",
-   "outlets_count": 3,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "Central Oregon Daily",
@@ -222,10 +273,21 @@
      "name": "Investing.com",
      "published_at": "2026-10-13T18:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVG9PMDRPT2NXYjA3RzBtNWMzVHh5YmVxejRYem1PdDVFOENlaUR6SVVZSlVrcHlRSi0zLWt0N0RkTlNJUkZxSW44Nzg3ZWdwNGpQRjhNZU40Q28walFMdm9KcVAzVWx6d0ZFSHZmazl2RkR1SmQ5SGdqeVFLSGxxVkVXYm1MaElGUXpEM2dHZUJvelZzY1FCREY1TU9QTDRTdFNoX202QlJucXQ2dkRxM21EWnpvU0ZLMEZoQjAtWWpFZw"
+    },
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-13T18:06:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T18:26:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemlFR1B4bTg0WVN0UTBIZVkyb2dEMkFZSU5YYTFNdWJiTVJDYU12ZG91ZklCMUtJT1Y1WmIySzhnN1F4c1BlaDk2TTc0VGk1Z1NyLW5OS05wZXpzTVZ5cnhFWm5pVXphV3k1QU1JWmlmdUE3QjlidmlVYjNJQzdENWs5NkVjRXhMYVA1c0lKbVI0YlB6MkE0cWwtLUM4QzA"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "英伟达入股四家法国科技初创公司",
    "title_zh": "据回声报报道英伟达入股四家法国科技初创公司",
    "sentiment": 1,
@@ -717,6 +779,40 @@
    "zh_summary": "AMD在AI基建订单中击败英伟达Blackwell",
    "title_zh": "AMD赢得AI基础设施订单，力压英伟达Blackwell",
    "sentiment": -1
+  },
+  {
+   "id": "742aaa78db36",
+   "title": "英伟达还投资了法国巴黎AI材料科学初创企业Entalpic。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oQ2lLeW9xQUFLU2szaHA5Z0ZReGEyVElDbHBQRmstY3pCeXloOXVWa21oeTFnNTRvejlRWV83TUhzV1RrQWlxVlBQWQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-13T15:36:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-13T15:36:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oQ2lLeW9xQUFLU2szaHA5Z0ZReGEyVElDbHBQRmstY3pCeXloOXVWa21oeTFnNTRvejlRWV83TUhzV1RrQWlxVlBQWQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "d637e25ef5ab",
+   "title": "英伟达投资了法国医疗数字化平台Doctolib、AI创药企业Genesis AI、法国企业财务规划AI软件厂商Pigment。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzc3hmMUlTelA5N3d1WWJURVBPSnJORC1wMWE0RC1MZ2w1OXpucVhPRE1rZV9lUl9Tei1JUXlTak5uckNzZnRrdDgzbw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-13T15:32:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-13T15:32:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzc3hmMUlTelA5N3d1WWJURVBPSnJORC1wMWE0RC1MZ2w1OXpucVhPRE1rZV9lUl9Tei1JUXlTak5uckNzZnRrdDgzbw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "0775b7a6559d",
@@ -1860,6 +1956,23 @@
     "pct": 0.27,
     "window_h": 2.0
    }
+  },
+  {
+   "id": "9a0a0ded89ee",
+   "title": "NVIDIA DLSS 5 Gets 2x Performance Boost with 20% Less VRAM Usage - TechPowerUp",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjNhTUk1a29kbGtzUUFVNXZPTFFoOUtlNFo3WWhLTnBkY3ZpOVhJckk3Sk4wMTVMaFl5c1NSQjhnUDZoUlpHcXFzSUhXOEZRSTlMSUVFamc2RVg0d3pHdHl5Z3gzemtZLU8yTElSX0szWmNGVGVPQzJ4SDRFa1RTb2tTOWU3QXJlY2IybEJnVUlVRFJNR2VPM05seVVZVDDSAaQBQVVfeXFMUEdFMklkY2FzSkV5YU1qN2ZNcHpwbDc5OEdRam9wWEEycFZDWDRvQXpwZ3pOUkdtdXR1dFdOcnNFSjZtYXlfOXdvMXZ4cDRqTWNNaHQtYkppQ3VNOGtNTEg5dS1HMFk3V3hjMHJzSnJEWS1COW9qVENBNnZxV29SeklWak1lYlp4X3Bwc3Nib1kyelhxY0FrSjBKMlU1V1ozMzJ1ekI",
+   "source": "TechPowerUp",
+   "published_at": "2026-10-13T12:34:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-10-13T12:34:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjNhTUk1a29kbGtzUUFVNXZPTFFoOUtlNFo3WWhLTnBkY3ZpOVhJckk3Sk4wMTVMaFl5c1NSQjhnUDZoUlpHcXFzSUhXOEZRSTlMSUVFamc2RVg0d3pHdHl5Z3gzemtZLU8yTElSX0szWmNGVGVPQzJ4SDRFa1RTb2tTOWU3QXJlY2IybEJnVUlVRFJNR2VPM05seVVZVDDSAaQBQVVfeXFMUEdFMklkY2FzSkV5YU1qN2ZNcHpwbDc5OEdRam9wWEEycFZDWDRvQXpwZ3pOUkdtdXR1dFdOcnNFSjZtYXlfOXdvMXZ4cDRqTWNNaHQtYkppQ3VNOGtNTEg5dS1HMFk3V3hjMHJzSnJEWS1COW9qVENBNnZxV29SeklWak1lYlp4X3Bwc3Nib1kyelhxY0FrSjBKMlU1V1ozMzJ1ekI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "ac53911acf0a",
@@ -6554,126 +6667,6 @@
    "session": "盘中",
    "zh_summary": "英伟达思科推出新型可插拔光模块",
    "title_zh": "英伟达与思科推出新型可插拔光模块以扩展AI工厂",
-   "sentiment": 1
-  },
-  {
-   "id": "da35494db78e",
-   "title": "英伟达公司 - 公司与思科计划为USFP制定开放行业规范 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSGwxcFBsTmxqcWg1ekJjQU14bDFtNHFWc1lNUFV6bmxVbjZKQ21tWEFkSVYyV053eWNNUkhEY2RXRjMtX0I1Y25YRHJDVFpvc2twTGZkbnFtWXZWQ2lUYVpqa2Nnc2EtanZxZ1dNMXJWUW9hcUxnNmR3MllUenpzeWxZT3RKU1AtY3JVRHlaY05mMGVoU1RGRGxyMEl5R29kY0NjWXFRaEVETXh5YkZfX3pNTUthaUxwb2c",
-   "source": "Moomoo",
-   "published_at": "2026-10-12T15:09:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-12T15:09:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSGwxcFBsTmxqcWg1ekJjQU14bDFtNHFWc1lNUFV6bmxVbjZKQ21tWEFkSVYyV053eWNNUkhEY2RXRjMtX0I1Y25YRHJDVFpvc2twTGZkbnFtWXZWQ2lUYVpqa2Nnc2EtanZxZ1dNMXJWUW9hcUxnNmR3MllUenpzeWxZT3RKU1AtY3JVRHlaY05mMGVoU1RGRGxyMEl5R29kY0NjWXFRaEVETXh5YkZfX3pNTUthaUxwb2c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达与思科拟为USFP制定开放规范",
-   "title_zh": "英伟达公司 - 公司与思科计划为USFP制定开放行业规范 - Moomoo",
-   "sentiment": 1
-  },
-  {
-   "id": "46e78687f217",
-   "title": "英伟达公司与思科携手泰科电子和安费诺，共同推进USFP生态系统 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2FlSFpzRmZHbE5fMi1PcldfOXJTN1lSbWM5Wk1nTTA4LXZNbXRBcXJkQ2FsWi1taUR5eGVJX2Q1UWQyczZkcHNRWmdxd255ZUs1THRDNkRZc1ZFc3Z4MkJoVWtMZmViWllGaklIMnBMVGFvc1VaU2daN2hfNVpLZEdDQklvdVljNk84TXlqNlJWX1BSMnZPa1p4SHNpdzdKeFhQRXlGUzlSNlAyLUtNUXBmV254aVlXY2c",
-   "source": "Moomoo",
-   "published_at": "2026-10-12T15:09:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-12T15:09:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2FlSFpzRmZHbE5fMi1PcldfOXJTN1lSbWM5Wk1nTTA4LXZNbXRBcXJkQ2FsWi1taUR5eGVJX2Q1UWQyczZkcHNRWmdxd255ZUs1THRDNkRZc1ZFc3Z4MkJoVWtMZmViWllGaklIMnBMVGFvc1VaU2daN2hfNVpLZEdDQklvdVljNk84TXlqNlJWX1BSMnZPa1p4SHNpdzdKeFhQRXlGUzlSNlAyLUtNUXBmV254aVlXY2c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达思科携TE/安费诺推USFP生态",
-   "title_zh": "英伟达公司与思科携手泰科电子和安费诺，共同推进USFP生态系统 - Moomoo",
-   "sentiment": 1
-  },
-  {
-   "id": "4a956301036c",
-   "title": "英伟达与思科计划制定 USFP （新一代可插拔光模块封装标准）开放行业规范。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XTi05T2JwWjhHUWVnWUpXWXJKUnQzU2dmZ2tsWW1jUlEwX0RtV1ZPNXh2SmhHVkVybW9WOWdiSmZTRm5RZFVTU3lQSQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-12T15:08:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-12T15:08:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XTi05T2JwWjhHUWVnWUpXWXJKUnQzU2dmZ2tsWW1jUlEwX0RtV1ZPNXh2SmhHVkVybW9WOWdiSmZTRm5RZFVTU3lQSQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达与思科计划制定光模块新标准",
-   "title_zh": "英伟达与思科计划制定 USFP （新一代可插拔光模块封装标准）开放行业规范。 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "a6a410a7e41c",
-   "title": "Cisco nabs Nvidia for pluggable power up, snuggles closer to SONiC - SDxCentral",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjVTbjZPcFlDVFpOTktYcU5vWUozY0tiUDYxVHVOUkMxTXU4TTZ2SjVaQVNCaFNGcGVMcFJsSFlYTWY5SXFVVkJ5UkU5OW1oY3ZmVTd4azNIZGlMTWVLaDhIeVRKbjVFT3FUWEhQdHdOUmNYX1A2aU44RUtNYnJDYmswOGRuNDlpX3Y0YkdJQXdIZTB2dldEMS1QQTg5ckk",
-   "source": "SDxCentral",
-   "published_at": "2026-10-12T15:05:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "SDxCentral",
-     "published_at": "2026-10-12T15:05:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjVTbjZPcFlDVFpOTktYcU5vWUozY0tiUDYxVHVOUkMxTXU4TTZ2SjVaQVNCaFNGcGVMcFJsSFlYTWY5SXFVVkJ5UkU5OW1oY3ZmVTd4azNIZGlMTWVLaDhIeVRKbjVFT3FUWEhQdHdOUmNYX1A2aU44RUtNYnJDYmswOGRuNDlpX3Y0YkdJQXdIZTB2dldEMS1QQTg5ckk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "思科借力英伟达强化可插拔光模块",
-   "title_zh": "思科拉拢英伟达发力可插拔光模块，与SONiC走近",
-   "sentiment": 1
-  },
-  {
-   "id": "77cc5b2a2fb2",
-   "title": "Nvidia opens up Vera Rubin rack and tray designs to OCP - SDxCentral",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWZyanhYM1hVUThrdFNRUmt0emN4WXBhTmM1WHQ0UTNfNlN0Q2VxS09xd1ZOb3lwWFZ3b3daTXMwNjB3MkNoTERFQ3JVWlZFX2c2UzEtbVotUVZUUmd0R0FPLXFWbEJ6T2txTHlLNGM0ZmlDd3pINTZ0SkZITGJJaHBwM0pQcGFpTlVmb1o2V3dzdw",
-   "source": "SDxCentral",
-   "published_at": "2026-10-12T15:04:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "SDxCentral",
-     "published_at": "2026-10-12T15:04:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWZyanhYM1hVUThrdFNRUmt0emN4WXBhTmM1WHQ0UTNfNlN0Q2VxS09xd1ZOb3lwWFZ3b3daTXMwNjB3MkNoTERFQ3JVWlZFX2c2UzEtbVotUVZUUmd0R0FPLXFWbEJ6T2txTHlLNGM0ZmlDd3pINTZ0SkZITGJJaHBwM0pQcGFpTlVmb1o2V3dzdw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达向OCP开放Rubin机架设计",
-   "title_zh": "英伟达向OCP开放Vera Rubin机架与托盘设计",
-   "sentiment": 1
-  },
-  {
-   "id": "576ab4bce305",
-   "title": "Nvidia adds Google Falcon support to meet growing transport diversity demands - SDxCentral",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3d6ckR1bUNEVnFSYllWRnBPanc4RnQ3cUQxRF9GM3Q2SXBsc3JhckpTb1JKNWRYSVFhLVcyeEZxaUtRckhxTVVDN0hSQ2ZCSERsRW85ZjFQdWotOUJCb0JyQzVtNnBXeHhKZUpkLUZIQmpuM2NGRmRSV0hFQ1lmY0FHdExpeUNIbU1DZmo4TUUtOGQtT1JtZTJFVzA5ZWxkOTJLb1BTRG00ei1GM0w4",
-   "source": "SDxCentral",
-   "published_at": "2026-10-12T15:04:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "SDxCentral",
-     "published_at": "2026-10-12T15:04:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3d6ckR1bUNEVnFSYllWRnBPanc4RnQ3cUQxRF9GM3Q2SXBsc3JhckpTb1JKNWRYSVFhLVcyeEZxaUtRckhxTVVDN0hSQ2ZCSERsRW85ZjFQdWotOUJCb0JyQzVtNnBXeHhKZUpkLUZIQmpuM2NGRmRSV0hFQ1lmY0FHdExpeUNIbU1DZmo4TUUtOGQtT1JtZTJFVzA5ZWxkOTJLb1BTRG00ei1GM0w4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达新增谷歌Falcon支持",
-   "title_zh": "英伟达新增谷歌Falcon支持，应对传输多元化需求",
    "sentiment": 1
   }
  ]
