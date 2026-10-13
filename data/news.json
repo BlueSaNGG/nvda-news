@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T05:51:29.238737+00:00",
+ "updated_at": "2026-10-13T06:06:26.693653+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 6
+   "avg": -0.33,
+   "count": 9
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（6条已评分）"
+     "note": "今日新闻情绪 -0.33（9条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T05:51:29.225540+00:00"
+   "as_of": "2026-10-13T06:06:26.676998+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -568,12 +568,17 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95OHh4UnMxRWNpc3RqWUJkTzkwMWxwVHNGN2YzZkxWSGhIU25VdW1pMS1sVWRPZ1JiYzFyWGVWLS1zQUZ2eVF6bmU2aTRWTzEzZ2NhSU9Ed1lNTElLT1lIRnVOdjlyZw",
    "source": "东方财富",
    "published_at": "2026-10-13T01:46:42+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "东方财富",
      "published_at": "2026-10-13T01:46:42+00:00",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95OHh4UnMxRWNpc3RqWUJkTzkwMWxwVHNGN2YzZkxWSGhIU25VdW1pMS1sVWRPZ1JiYzFyWGVWLS1zQUZ2eVF6bmU2aTRWTzEzZ2NhSU9Ed1lNTElLT1lIRnVOdjlyZw"
+    },
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-13T05:28:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fTk9ES1hPMTJENDREd1A1Q0pPcW1CS1JtLXFlT2xlNDlOWVhkUC16anJNa3ZubjFRdUxIRHRIVFM1Rmp0dTAxa1pKTFhCLVNPMmVaSWh2MUFMdmNiOEhQRA"
     }
    ],
    "category": "其他",
@@ -1071,6 +1076,23 @@
    "zh_summary": "英伟达推出新型可插拔光模块规格",
    "title_zh": "10月13日早餐 | 英伟达推出新型可插拔光模块外形规格；Meta发布个人智能体模型 - 搜狐",
    "sentiment": 1
+  },
+  {
+   "id": "c380ee4db630",
+   "title": "NVIDIA and Cisco Advance 400Gb/s Ethernet AI Infrastructure with USFP - The Fast Mode",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGxZWlhUNWZ2dDBhMy04RW1OV2NrSVBrbjhaZVNxNXROVXdMV25YN1dJbVJZSGZSUGVQVDZ3TTdZT09lSkxYdTR5QWdfQUJKQmlTVmVLVFloMUxHMDZRZHV1UlEta1FETWxwTU02bHBmMFY3eVBFdFpRWFhHNUtyUjRURGNxMXMwcVlISGpRcWFFbm1ZSV9aQlZMQVliaUU5MGUyVE1EbE00R1hQbWdnY2wzQnZnQkE4UXltd2tIdzVNZw",
+   "source": "The Fast Mode",
+   "published_at": "2026-10-12T23:46:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Fast Mode",
+     "published_at": "2026-10-12T23:46:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGxZWlhUNWZ2dDBhMy04RW1OV2NrSVBrbjhaZVNxNXROVXdMV25YN1dJbVJZSGZSUGVQVDZ3TTdZT09lSkxYdTR5QWdfQUJKQmlTVmVLVFloMUxHMDZRZHV1UlEta1FETWxwTU02bHBmMFY3eVBFdFpRWFhHNUtyUjRURGNxMXMwcVlISGpRcWFFbm1ZSV9aQlZMQVliaUU5MGUyVE1EbE00R1hQbWdnY2wzQnZnQkE4UXltd2tIdzVNZw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
   },
   {
    "id": "8f1bad4b3684",
@@ -6611,40 +6633,6 @@
    "zh_summary": "Nous Research获9000万美元融资",
    "title_zh": "Nous Research获9000万美元融资，英伟达、M12、三星等参投",
    "sentiment": 1
-  },
-  {
-   "id": "d41df8ae5d88",
-   "title": "If I Had a Choice to Invest $10,000 in SpaceX or Nvidia, Here's What I Would Do - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbzBXdnQySlJKQVNzTHpLZW9VVDZwdUNsbFRPeHdyaVZYMkcxR0ZORUNsNnVmd3o1eEJndnFJNmFQemZTUXJlcXFKNW9aalp4NGtiNVNlc2dBUThObEtjal9Ud0pnTGxJM2RNWmZwcHhDcjBmbHBocmZQY3RjTEJxZnd0UEpHZVZPQVlBb2FR",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-11T17:25:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-11T17:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbzBXdnQySlJKQVNzTHpLZW9VVDZwdUNsbFRPeHdyaVZYMkcxR0ZORUNsNnVmd3o1eEJndnFJNmFQemZTUXJlcXFKNW9aalp4NGtiNVNlc2dBUThObEtjal9Ud0pnTGxJM2RNWmZwcHhDcjBmbHBocmZQY3RjTEJxZnd0UEpHZVZPQVlBb2FR"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-11T17:38:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0lHUE45N0lZSHZRS3h2ajNCT09HUFA3NHNwNFZvcWlrLVA4cmJqSnBPX1Q3Ql9Lck5pckpJUnRSVjhvY2VWeENlLUhXNXJOU0pYZm03bk5EZEdmR1dhV012V2lwNU1udF9raGpXRWZPZVlIMm9vWTZMdExoMEhULTNTV1hWZGc3RlVCb1k1R1FGb1U"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-11T17:41:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSHRnRlpsVko2NEZOaEEybENfbDVmVlI2OURfZWo3TkpBNHlVc29QUExrZkRHV01jV3BLaFB1QmVlcUkxbFdSNlRWSkpxMjdVeU41QW9mYnVVajBJTHlqZW5Pa053R1dydDZSemdob3h5eDBHdUNab3ZOOElTdnVMdnJjOHRiOE1YYmdibmlrTUh4cGN4SVpaVVBiZV9TcmJRd1lybGJLMkJkVGRWNkN3X3JFUUlTcWJjTFQ2aks2T1lyN1N4RXZ0ZkhqRE5LNGoxV3pJdHVIZEgwYUxwVWEybVpscm4yNFZKYXlNV3hCWnl0XzVXT0NN"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "分析师对比：投SpaceX还是英伟达",
-   "title_zh": "投1万美元选SpaceX还是英伟达：分析师这样选",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.2,
-    "window_h": 0.1
-   }
   }
  ]
 }
