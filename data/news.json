@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T16:21:30.649046+00:00",
+ "updated_at": "2026-10-13T16:36:30.623723+00:00",
  "market": {
-  "price": 226.24,
-  "change_pct": -0.04,
+  "price": 227.05,
+  "change_pct": 0.32,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.26,
-   "count": 141
+   "count": 145
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 82% 分位（偏高）"
+     "note": "现价处于52周区间 84% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +38.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（141条已评分）"
+     "note": "今日新闻情绪 +0.26（145条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $226.24 vs 20日均线 $228.21"
+     "note": "现价 $227.05 vs 20日均线 $228.24"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 82,
+   "price_52w_pct": 84,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.2,
-   "ma20": 228.21,
-   "as_of": "2026-10-13T16:21:30.631061+00:00"
+   "implied_upside_pct": 38.7,
+   "ma20": 228.24,
+   "as_of": "2026-10-13T16:36:30.602681+00:00"
   },
-  "pe_ttm": 28.8,
+  "pe_ttm": 28.9,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+38.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,17 +62,61 @@
  },
  "stories": [
   {
+   "id": "a6892ca4053d",
+   "title": "英伟达将宣布20亿美元欧洲AI新投资 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlI4MllzWHlqclF2U0t2VG83akhJR2x0ZGt2ekM3MEpEQkttZzRyNG5GamVkUzRNeDRGNXJEb2lLTjRaYmFGYWtJMDgyMzg2d0ZzZ2o2cjRUMVJScGFybnhJVFFsazFNV2c2S1k5c2ROY2lsTk1HZW5tVGI1a2EzTFFn",
+   "source": "新浪网",
+   "published_at": "2026-10-13T16:28:39+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-13T16:28:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlI4MllzWHlqclF2U0t2VG83akhJR2x0ZGt2ekM3MEpEQkttZzRyNG5GamVkUzRNeDRGNXJEb2lLTjRaYmFGYWtJMDgyMzg2d0ZzZ2o2cjRUMVJScGFybnhJVFFsazFNV2c2S1k5c2ROY2lsTk1HZW5tVGI1a2EzTFFn"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-13T16:35:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4aXRncWtSX2l0dk5HWGpSLWdiSDU3QkE1V2QtLTFjdzNTb2dHenh6UUNRakJkWms5MUNibExKQzVNaTUxZ04zemIyTUc1TF9wZW1KNVVSa2FTMUZzU0ZVcld2MA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "d803a0d8732a",
+   "title": "Nvidia DLSS 5 is coming to Hogwarts Legacy and is 2x faster than before - The Shortcut | Matt Swider",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEF6YzR2ZDdobFZtUmswaW8wbWRlM2ZPQXZhNGROYUM1TFp6T1pjcG9BNVZ6TVJjWlo2dTAyMHFPcVZqSFUtdHlTUno2aTNWZmtFUFVLSnJ5SkZ0V0FLTlBDeVhleXNQdFFWYmRZdUZ3U2xYTXpGeU5xdVhmRHFCRndBd05Kb1VZQkZTS1h5ZlgtaVBDbVhVazRRYXJWbzh4RTVJ",
+   "source": "The Shortcut | Matt Swider",
+   "published_at": "2026-10-13T16:17:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Shortcut | Matt Swider",
+     "published_at": "2026-10-13T16:17:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEF6YzR2ZDdobFZtUmswaW8wbWRlM2ZPQXZhNGROYUM1TFp6T1pjcG9BNVZ6TVJjWlo2dTAyMHFPcVZqSFUtdHlTUno2aTNWZmtFUFVLSnJ5SkZ0V0FLTlBDeVhleXNQdFFWYmRZdUZ3U2xYTXpGeU5xdVhmRHFCRndBd05Kb1VZQkZTS1h5ZlgtaVBDbVhVazRRYXJWbzh4RTVJ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "98387a7b165f",
    "title": "Nvidia to buy a minority stake in France's Doctolib - Reuters",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI",
    "source": "Reuters",
    "published_at": "2026-10-13T16:08:32+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Reuters",
      "published_at": "2026-10-13T16:08:32+00:00",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI"
+    },
+    {
+     "name": "whbl.com",
+     "published_at": "2026-10-13T16:22:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3ljbHpaSERjajE4Y3FYUFJubVUwRkkteXdxbUlVeUF1Tl9Zc1lyVXhFS29PV2NzQno2c19yVGtSLUFhSFBQOWpGZ3JEazNlaUJrcnZfTEgyek9vVWxCZnRwUnl3MWdFS2lNdWV6d2lJQnVnalVRbHFoT0hTOTVsczhvbWp2QQ"
     }
    ],
    "category": "其他",
@@ -332,12 +376,17 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWF9wZzZpV203OTB3ekdyZDQyaUc3REtiRWo4WG05ZWZ2d2UzbnNLNHJMdjN3QWRzcktMZDlScXQ5ejluSk9odHJYbDRNcS1oaXVHUDdGcEZlZzBqTGhJR3RrUGdkQkRUb3FBTjl3b2YxWHhPMXJ6X0Y5SDI0SGFLNlNMYy1OdXYxQVFCVUtHWTl3T3NYYmtfaEFjc04xNC1rRFhKaVU5Nzl6X3hv",
    "source": "GuruFocus",
    "published_at": "2026-10-13T15:03:04+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "GuruFocus",
      "published_at": "2026-10-13T15:03:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWF9wZzZpV203OTB3ekdyZDQyaUc3REtiRWo4WG05ZWZ2d2UzbnNLNHJMdjN3QWRzcktMZDlScXQ5ejluSk9odHJYbDRNcS1oaXVHUDdGcEZlZzBqTGhJR3RrUGdkQkRUb3FBTjl3b2YxWHhPMXJ6X0Y5SDI0SGFLNlNMYy1OdXYxQVFCVUtHWTl3T3NYYmtfaEFjc04xNC1rRFhKaVU5Nzl6X3hv"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-13T15:52:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVmRPNkthYzFyYWlwQ2M2cm9SNlpJbGFKUlNmUENpZkpfT3RZY0Y5T25nMlZSQktkWWE0RDZPeF84WGF0T2R1QzNhRFdFNmFIUk80NklsSXZ4T1ByVWM4QnZ5aHM2cVBfOEpBRVRIMDBJNlYxeFh6UTZYLTRDZmJuanZiSkMyeC1YOS1GQng4OHRBa0VLOGJfcXBINmllRHlIdGI2cjd6bWg1T01PaGxpVFlOODR5NE56OEM0eVRuVzFzV1pWbGRDdG13"
     }
    ],
    "category": "产品技术",
@@ -607,10 +656,15 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9naHJtcFhBNTZCaVVpR1BxZmQxU3RHNi1VazE0czhXc2I1bENlSzhHRk45bTdkOWw0amRfcHg5TVp2WkFTLVpSX0lCYWpnSHZUWm1zNFdiS0lYZTIzODBNLW5hWHQ0cFE",
    "source": "www.calcalistech.com",
    "published_at": "2026-10-13T14:00:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "www.calcalistech.com",
+     "published_at": "2026-10-13T14:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9naHJtcFhBNTZCaVVpR1BxZmQxU3RHNi1VazE0czhXc2I1bENlSzhHRk45bTdkOWw0amRfcHg5TVp2WkFTLVpSX0lCYWpnSHZUWm1zNFdiS0lYZTIzODBNLW5hWHQ0cFE"
+    },
+    {
+     "name": "CTech",
      "published_at": "2026-10-13T14:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9naHJtcFhBNTZCaVVpR1BxZmQxU3RHNi1VazE0czhXc2I1bENlSzhHRk45bTdkOWw0amRfcHg5TVp2WkFTLVpSX0lCYWpnSHZUWm1zNFdiS0lYZTIzODBNLW5hWHQ0cFE"
     }
@@ -1010,6 +1064,23 @@
    "zh_summary": "思科与英伟达推出新光模块形态",
    "title_zh": "思科与英伟达推出新一代高速光模块USFP形态",
    "sentiment": 1
+  },
+  {
+   "id": "a6c34d85ac1a",
+   "title": "NVIDIA’s New Frame Generation Mode Significantly Boosts FPS on RTX 50 & RTX 40 GPUs With Only A Minor Trade-off In Visual Quality - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFNJczRoU3lJZVdYd1pnbFRCWTc1d0ZuRmNMUDc4S3JJeU53SGtLQWY4Tmtrd2ZKaDFyZzNQdTNmanZFc3JwOVVTVzkxYUxIbUc0b0xDR3hoV1ZCeGx2LXNfNkczYndYejhyeTZLaHN4Yi1INGtGaWhsbUpnLVR6aUpXTE1VMHBaODFTekFTUDJqQTM4QW1jQWRjaFpWQnF3Ynpn0gGoAUFVX3lxTE1FR3dFNDRseFZreF8tSkFjdk50VHV4cGt5Y1JWUGk3cEFDV3dFWl9PTGM3SVdpZkVBaWlxTXVYRmE4d3JPS0J0eHhXT3VVbUIwbktlcEhsRUxHZTNoY3BRaXFJZEh0cUdaYmMxV2pmRE1NZmxtNzVmQkx6Y0VENWMwVkFUd0dvMDEzN3MyU2xqdnBFZ0QzZWFHRnBPNDlaVmk1d1B4R1hZUA",
+   "source": "Wccftech",
+   "published_at": "2026-10-13T13:00:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-13T13:00:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFNJczRoU3lJZVdYd1pnbFRCWTc1d0ZuRmNMUDc4S3JJeU53SGtLQWY4Tmtrd2ZKaDFyZzNQdTNmanZFc3JwOVVTVzkxYUxIbUc0b0xDR3hoV1ZCeGx2LXNfNkczYndYejhyeTZLaHN4Yi1INGtGaWhsbUpnLVR6aUpXTE1VMHBaODFTekFTUDJqQTM4QW1jQWRjaFpWQnF3Ynpn0gGoAUFVX3lxTE1FR3dFNDRseFZreF8tSkFjdk50VHV4cGt5Y1JWUGk3cEFDV3dFWl9PTGM3SVdpZkVBaWlxTXVYRmE4d3JPS0J0eHhXT3VVbUIwbktlcEhsRUxHZTNoY3BRaXFJZEh0cUdaYmMxV2pmRE1NZmxtNzVmQkx6Y0VENWMwVkFUd0dvMDEzN3MyU2xqdnBFZ0QzZWFHRnBPNDlaVmk1d1B4R1hZUA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "7e7bdf36d1ac",
@@ -6551,66 +6622,6 @@
    "zh_summary": "分析称英伟达增长快估值仍偏低",
    "title_zh": "英伟达增长迅猛但估值仍偏低",
    "sentiment": 1
-  },
-  {
-   "id": "6ce4d821e31e",
-   "title": "$英伟达 (NVDA.US)$ $博通 (AVGO.US)$ 熊正在数💰 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UVHZsQ0N6Vlh0TDFUQ09rdG5PTG1PZWVtSkI1Q19qOUNFQ2JHTlA4elhtUTBYS1Utck11Q2JxX3U3ZnNrTWFveFk0LUtaYU5jdTJCWGZHRTYzYUkxQVJDb3BrQUxMbFc2eElYWFlxcjV0eFptZzF1Z3o0d1RBdw",
-   "source": "Moomoo",
-   "published_at": "2026-10-12T14:21:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-12T14:21:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UVHZsQ0N6Vlh0TDFUQ09rdG5PTG1PZWVtSkI1Q19qOUNFQ2JHTlA4elhtUTBYS1Utck11Q2JxX3U3ZnNrTWFveFk0LUtaYU5jdTJCWGZHRTYzYUkxQVJDb3BrQUxMbFc2eElYWFlxcjV0eFptZzF1Z3o0d1RBdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "空头正在数钱，股价承压",
-   "title_zh": "$英伟达 (NVDA.US)$ $博通 (AVGO.US)$ 熊正在数💰 - Moomoo",
-   "sentiment": -1
-  },
-  {
-   "id": "301a9d7ff2ed",
-   "title": "With Maia 300, Microsoft Wants to Break Free From Nvidia - www.trendingtopics.eu",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Lc3JsTEx5YTRxOHJ2YXZneENXZUxCdWZKNzF0X2hHbXJqVnNRamNPV0xvc2NXT1FPTEYwb2hPOUk4N3dWTHRSdXpYRTV1S0J2VXFva2F4R1FTdnBkTDE2U2tfVGNqUEFKdWFDNEZ3",
-   "source": "www.trendingtopics.eu",
-   "published_at": "2026-10-12T14:19:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "www.trendingtopics.eu",
-     "published_at": "2026-10-12T14:19:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Lc3JsTEx5YTRxOHJ2YXZneENXZUxCdWZKNzF0X2hHbXJqVnNRamNPV0xvc2NXT1FPTEYwb2hPOUk4N3dWTHRSdXpYRTV1S0J2VXFva2F4R1FTdnBkTDE2U2tfVGNqUEFKdWFDNEZ3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "微软Maia 300芯片欲摆脱英伟达依赖",
-   "title_zh": "微软推出Maia 300芯片，意在摆脱对英伟达依赖",
-   "sentiment": -1
-  },
-  {
-   "id": "3e40bce49443",
-   "title": "NVIDIA teeters at $225 support with fading momentum: Live levels - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVZkYnJrNU5tZlRXdUxuREg0OUdGUjNkU2Z0c0NsazNaWDRicVNoMnE2TmxrZDBMY2VtejdOaUZoa3JXdWE3LWFKSHhLM2JQZk1NVVVCMlVUX1pWWHA1NmJNTXpOeXE2NEI3Y1RSY1FiVXFHWFBvc01oWWg0WTNYR1lTQmNlcGJ3aEx1MUMxbndIZ1BUanNGM2UtMWhsMUJsUEwtTXZTMUQxY0FjM0o4cVBBTlNCY3p3czZyampGNnpEdw",
-   "source": "Investing.com",
-   "published_at": "2026-10-12T14:17:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-12T14:17:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVZkYnJrNU5tZlRXdUxuREg0OUdGUjNkU2Z0c0NsazNaWDRicVNoMnE2TmxrZDBMY2VtejdOaUZoa3JXdWE3LWFKSHhLM2JQZk1NVVVCMlVUX1pWWHA1NmJNTXpOeXE2NEI3Y1RSY1FiVXFHWFBvc01oWWg0WTNYR1lTQmNlcGJ3aEx1MUMxbndIZ1BUanNGM2UtMWhsMUJsUEwtTXZTMUQxY0FjM0o4cVBBTlNCY3p3czZyampGNnpEdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "股价在225美元支撑位附近徘徊",
-   "title_zh": "英伟达在225美元支撑位附近震荡，动能减弱",
-   "sentiment": -1
   }
  ]
 }
