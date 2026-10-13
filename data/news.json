@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T12:36:29.841708+00:00",
+ "updated_at": "2026-10-13T12:51:29.793477+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": -0.01,
-   "count": 75
+   "avg": 0.03,
+   "count": 79
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.01（75条已评分）"
+     "note": "今日新闻情绪 +0.03（79条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T12:36:29.825316+00:00"
+   "as_of": "2026-10-13T12:51:29.773970+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "019c6c8fddcb",
+   "title": "Nvidia doubles DLSS 5 performance, reduces 4K VRAM usage by 20% with latest model — October update cuts footprint by 24% to roughly 118 million parameters - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPZTIzSDlIN3pqdndNSlFNQWF1S2p2UkFuUjFSejduMDhONzg1NXpiVFhrd3pRQ0tPT1Blall5RnY4S1dUaE16Y09WZXNsLWhLX0pDdldzQ0xCNWRYZE1KVmYwQmItWFhDYUFtT0htejdOekJhdXlPcTBaZDFkTHhSaWZUbC0wSXg4RHF3TkRiVUZUd2gyNUExdldTQ09FbC1tSkhpSl9KTWF5Sm5SWHBZQnNZUFk0MWwtQ29rT25qbUcwSWg4NE03MF81ODJjbElOWXdWVjhzbWJOcHIwMHJ2eG5rc3ZhWjQxQ2FMMlZZc1c3S2ZxQUY0R1c0WXUxY09mNlVkUGttRXJfRWcwZWxIcFdEdDdJbENxVklSNjA0Zk9vOGFOT2E0bnBjazlqb2dEeXVONnphVHI",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-13T12:47:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-13T12:47:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPZTIzSDlIN3pqdndNSlFNQWF1S2p2UkFuUjFSejduMDhONzg1NXpiVFhrd3pRQ0tPT1Blall5RnY4S1dUaE16Y09WZXNsLWhLX0pDdldzQ0xCNWRYZE1KVmYwQmItWFhDYUFtT0htejdOekJhdXlPcTBaZDFkTHhSaWZUbC0wSXg4RHF3TkRiVUZUd2gyNUExdldTQ09FbC1tSkhpSl9KTWF5Sm5SWHBZQnNZUFk0MWwtQ29rT25qbUcwSWg4NE03MF81ODJjbElOWXdWVjhzbWJOcHIwMHJ2eG5rc3ZhWjQxQ2FMMlZZc1c3S2ZxQUY0R1c0WXUxY09mNlVkUGttRXJfRWcwZWxIcFdEdDdJbENxVklSNjA0Zk9vOGFOT2E0bnBjazlqb2dEeXVONnphVHI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "cff541922d4b",
+   "title": "网易游戏《燕云十六声》将支持英伟达DLSS 5技术 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wcEtiTzB6b09EdzBYTGcwaXRycVo4eFVfNHFtVXlrMVM4VklUa3ZmR2IwU01MazB4OVUzblJGa25pMUUzc2wxMnNpM0VmUG5sUXZ1ZmhDRlg5OGhKSnhORA",
+   "source": "东方财富",
+   "published_at": "2026-10-13T12:46:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-13T12:46:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wcEtiTzB6b09EdzBYTGcwaXRycVo4eFVfNHFtVXlrMVM4VklUa3ZmR2IwU01MazB4OVUzblJGa25pMUUzc2wxMnNpM0VmUG5sUXZ1ZmhDRlg5OGhKSnhORA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "ac53911acf0a",
+   "title": "软通动力到货8000张英伟达GPU卡？知情人士：是客观事实，用于生产服务器 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTNXk5MlZJTi1CVnUtZHROY1RBMHNuYUxKSkJwcE1xY21HV0l4VFlmNzJFMkdxUWZwUWxQVEpnOFctcVVIbEJjd1BiS0RhYU8yUHllSmFranlhQW1tUDRIajJGck9EZw",
+   "source": "东方财富",
+   "published_at": "2026-10-13T12:44:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-13T12:44:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTNXk5MlZJTi1CVnUtZHROY1RBMHNuYUxKSkJwcE1xY21HV0l4VFlmNzJFMkdxUWZwUWxQVEpnOFctcVVIbEJjd1BiS0RhYU8yUHllSmFranlhQW1tUDRIajJGck9EZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "a6636a519d45",
    "title": "Here are Tuesday's biggest analyst calls: Nvidia, Apple, Netflix, Meta, Galaxy, SoFi, Viking, AT&T & more - CNBC",
@@ -696,6 +747,23 @@
    "zh_summary": "传英伟达有意收购模型公司",
    "title_zh": "英伟达要收购模型公司？BiyaPay行情观察：AI芯片龙头为何跨界？ - TOM科技",
    "sentiment": 0
+  },
+  {
+   "id": "3a68fada95eb",
+   "title": "景旺电子回应网传英伟达减单：订单饱满产能利用率较高 - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kdDVYTkhCX2lhcjA1UHFkbm5IdlJFQVBLTkw4UUpkTDNiQ2NVY196RkRUSzRpRWVDZWpHS1QzN1YyNVJHYWNTUXNaQ2pwLXBXTW8xX1FKTEdmX2Q4Z0FwUHRB",
+   "source": "观点网",
+   "published_at": "2026-10-13T09:39:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-13T09:39:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kdDVYTkhCX2lhcjA1UHFkbm5IdlJFQVBLTkw4UUpkTDNiQ2NVY196RkRUSzRpRWVDZWpHS1QzN1YyNVJHYWNTUXNaQ2pwLXBXTW8xX1FKTEdmX2Q4Z0FwUHRB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "5ca53139023a",
@@ -2103,7 +2171,7 @@
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tOTc0U2NUZEtteEZNNFg4bWxyLW9oOElfQlplUE9leVBNN3o4dGRkQV9pQnZoSXFWY0hnbnIwSk9fQWNKWE4zaHJVSmJsYU9qMlhicXRvWWg4ajBRdFBiSldSeUJycV9JU3JHSEl4eHRackQ0eWpJX29rZG96Zw",
    "source": "Finimize",
    "published_at": "2026-10-13T02:04:10+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Finimize",
@@ -2114,6 +2182,11 @@
      "name": "GuruFocus",
      "published_at": "2026-10-13T11:34:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMUFLQVR4LUd5WHFOSHo4WHVEc1pKU05IZmh6UGdxakJ0VEd3RDRrdjljSlJHUFBwSFJHVThrcVpRbjRXeWNobWtETUxwQWVqV0VhTGRqM0xuMjhCSVpQTmNkbktOVXBMWW1VdEpuVTRPMm9JX2o5cnloQmxGTExIOWZzMDZfVHU0eEpld3RDRWgyNTRic3dXUkZxaGNVeU0"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-13T12:23:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFFoWld0RzFpYUVpUHh5WHhZSE9rcGZnVkpRZEhQYWdNTUpodUdMdENwT2djcFZjWjA2Qi1MMlF4Mkd2UVZ3ajhXRG5HX1FOeFBfeWFWcmZzSWFNcU5BZU96cVVsNkVyTG85ZFBoMXZxSjg4ajVPU29Tc2d4ZHFXWHAzbHZaMG55djk3ZWNhY3VXNy15YnRMekFhU2dLVVBEZldqOU52TWlrYmZCOXh5M3E2TVZYN09Xb1Zr"
     }
    ],
    "category": "产品技术",
@@ -4552,7 +4625,7 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFZ4N3RIaS1ST3BxQzFZemZwVUhZNFVzVlhTSGpGVEUtU2JjR0xNTFd3bHE3YmZjZnJBTlNZeXlOc0dTWHBPRE1maks0T1hfRmozTGp4cml2Ui1lbXZob1YzcEpQVm1DZHd6ME83STI1SWNKenJ5OG1TYVBpU0tpay1XY1dyMVRIbjBOZEpxOHVhbEEwRzFYVE82c3RuX0s3Tl9mamNHYncwYkk3eC1lNWJXNnNQaUh5ZG9XeDUyWjhXaFF2",
    "source": "StreetInsider",
    "published_at": "2026-10-12T15:02:08+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "StreetInsider",
@@ -4563,13 +4636,22 @@
      "name": "Investing.com",
      "published_at": "2026-10-12T15:20:39+00:00",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWpDN3lXMWhPcXJEVlZ6b0Z4a1VnZk1UMlhJeG5Nbk5vN085MUtlWG5mOTBlRkdGY1ZuWXI5V0laM3NKbjdYSWNGRE9mZjZIRTBoUU1JYXNjbi1aTzZ0a2gwV1dhdUJLYlRGSEgyZUJfUXk3X1g2UXpLWnFFaE84NEUtNHM1ME1jRklNeDJpaFhTeFdseTF6QzVRUkliNlFaZ2RyTGpHS1RGLWY2dkZUaFJSQk05YnNfaVJ6bFZn"
+    },
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-13T06:36:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRl9IUG9PYnFNdGg0YVhlVGxJR0gyZjREcjZ6OFJBbWJuWDhqTTBweFFvTEdZRFdQYjRCSDNnYm9JNWMtdUM0S1NqczhuaThoMFVrZ1dsQWZwZXA4THlrcS1iV0NwWEI5RFZzbU1wckVnUHMxbVRMVkh4TEFVUjB5WGRUbWRxbWtoeDkyTjl6emdtOWlVWXRvMDJvcFlQOHBYZ1RGaGN0aGUxM082WDlmN01USzlxYTJtRlQ3VA"
     }
    ],
    "category": "AI需求",
    "session": "盘中",
    "zh_summary": "英伟达与思科联合推出USFP光模块",
    "title_zh": "英伟达与思科联合推出USFP光模块",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.23,
+    "window_h": 2.0
+   }
   },
   {
    "id": "2557c07eb8e0",
@@ -6533,86 +6615,6 @@
    "session": "盘前",
    "zh_summary": "机构Roberts Glore增持英伟达股票",
    "title_zh": "Roberts Glore公司建仓买入NVDA股票",
-   "sentiment": 1
-  },
-  {
-   "id": "e5f92a4f62a7",
-   "title": "NVIDIA Corporation $NVDA Holdings Increased by Strategic Global Advisors LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlRHd05lMnlxVlNjREE3dlVpaFk1ME0zems2SGppMVV6ZGV2bkNWX3VOcmpOZFlpVjBxcVJjcW5nQy1FWTdQYWdxNlpCOTN5ZGl2RUtSQmpUVHh5ZTB1cEZ2dzFrNEF1MUhKTTBTc2RZVldRLXo3SFpYR1hWZzlONy10NU5WV2hyeDgtQVhORmFQeVRmNXJ1M3F5bTJzY21pbTZkVlE1NFA4ZXN6cE93TEE0UEJPRVpGTnlwYUhTbW5rN3ZmMVo3bVY0NmNaeHFESXc",
-   "source": "MarketBeat",
-   "published_at": "2026-10-12T07:25:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-12T07:25:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlRHd05lMnlxVlNjREE3dlVpaFk1ME0zems2SGppMVV6ZGV2bkNWX3VOcmpOZFlpVjBxcVJjcW5nQy1FWTdQYWdxNlpCOTN5ZGl2RUtSQmpUVHh5ZTB1cEZ2dzFrNEF1MUhKTTBTc2RZVldRLXo3SFpYR1hWZzlONy10NU5WV2hyeDgtQVhORmFQeVRmNXJ1M3F5bTJzY21pbTZkVlE1NFA4ZXN6cE93TEE0UEJPRVpGTnlwYUhTbW5rN3ZmMVo3bVY0NmNaeHFESXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Strategic Global增持英伟达股票",
-   "title_zh": "Strategic Global Advisors增持NVDA股票",
-   "sentiment": 1
-  },
-  {
-   "id": "22247c2df4b6",
-   "title": "Pinnacle Family Advisors LLC Sells 2,689 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlR5TVdPUWJhVmxuSFFUWmc4SzdXMkZZQ2VETXBkaHdZWG9QTGdIYWNiSzAwVzZ2SHB2SkM2N2FIQjNUeGMzTkQxV3lTckd1aExDRDVDYnhmOFppRzdQX2RWNEtDYXVHTDNoTGNHaTI5dFVzcDlUSmhYNllEemJzSjZxcjkzR3Q4SXdPRHBDd1lWSFRzbGJIdEpHZmIxX21DMTREY3hKOXQtNTVKbHIzYU5jMmxfTjZXVHd2Tm80R2tXZ0k4eFBITi1wSkV3RnM",
-   "source": "MarketBeat",
-   "published_at": "2026-10-12T07:25:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-12T07:25:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlR5TVdPUWJhVmxuSFFUWmc4SzdXMkZZQ2VETXBkaHdZWG9QTGdIYWNiSzAwVzZ2SHB2SkM2N2FIQjNUeGMzTkQxV3lTckd1aExDRDVDYnhmOFppRzdQX2RWNEtDYXVHTDNoTGNHaTI5dFVzcDlUSmhYNllEemJzSjZxcjkzR3Q4SXdPRHBDd1lWSFRzbGJIdEpHZmIxX21DMTREY3hKOXQtNTVKbHIzYU5jMmxfTjZXVHd2Tm80R2tXZ0k4eFBITi1wSkV3RnM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Pinnacle减持2689股英伟达",
-   "title_zh": "Pinnacle Family Advisors LLC卖出2689股英伟达$NVDA",
-   "sentiment": 0
-  },
-  {
-   "id": "1b1075c2aa62",
-   "title": "Bank of America Corp DE Acquires 4,165,875 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTXA1TzRvVjcwYUgwVkVrZzFySnVqOEZ4bnh3OF9pQTFzbmZHb0FpVmxmZ1ZkMlV3UFRxYTFTMzduVkFOcGtIWUI0VVFKc1VRMFk2b241YmpTSV9hV2pNZk9ySENOSmNvdmZjNVg5QUg0UEtCLVhEdWg5XzgtdnUtOG9mQ0o0aUh0X2ljeGlMbzVMS1lyTWplVng5VkV4ZUxkVVdwcDBHNnhQXzZCWGJoYXNDTWFKbGF0bWhlOERFcGI1S0FkOTZyb0xUanJhZkRl",
-   "source": "MarketBeat",
-   "published_at": "2026-10-12T07:19:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-12T07:19:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTXA1TzRvVjcwYUgwVkVrZzFySnVqOEZ4bnh3OF9pQTFzbmZHb0FpVmxmZ1ZkMlV3UFRxYTFTMzduVkFOcGtIWUI0VVFKc1VRMFk2b241YmpTSV9hV2pNZk9ySENOSmNvdmZjNVg5QUg0UEtCLVhEdWg5XzgtdnUtOG9mQ0o0aUh0X2ljeGlMbzVMS1lyTWplVng5VkV4ZUxkVVdwcDBHNnhQXzZCWGJoYXNDTWFKbGF0bWhlOERFcGI1S0FkOTZyb0xUanJhZkRl"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "美国银行收购416.6万股英伟达股票",
-   "title_zh": "美国银行收购英伟达416.6万股股票",
-   "sentiment": 1
-  },
-  {
-   "id": "3d8fe3717d75",
-   "title": "35,160 Shares of NVIDIA Corporation $NVDA Purchased by Freestone Grove Partners LP - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONzR2VmlBQnJNSWc3UGNHQVpCbWVoS3U2NmRUTVp2NF9RZjVhLWJERXBPMmRKU0tSY1c2LUZoQjVURTAzVzVJOC0tNS1pWlNrcUlrcUp2MERwT1dJMW9CR2Flb1NpTEpTYW8zRlU1WHhySTM3MXF0aWRJSTFsUWx5c2ZXLTRtdngyekJLdGpfZENXNzdTRnRVVmozMFRrcTdHaC1CdWlBUl9KemNrZ0JITjA5dWlHeC1VTy02Uk5wT2p4RnAxci1XZ1VUSkFZempJZXFfdklQQTA",
-   "source": "MarketBeat",
-   "published_at": "2026-10-12T07:19:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-12T07:19:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONzR2VmlBQnJNSWc3UGNHQVpCbWVoS3U2NmRUTVp2NF9RZjVhLWJERXBPMmRKU0tSY1c2LUZoQjVURTAzVzVJOC0tNS1pWlNrcUlrcUp2MERwT1dJMW9CR2Flb1NpTEpTYW8zRlU1WHhySTM3MXF0aWRJSTFsUWx5c2ZXLTRtdngyekJLdGpfZENXNzdTRnRVVmozMFRrcTdHaC1CdWlBUl9KemNrZ0JITjA5dWlHeC1VTy02Uk5wT2p4RnAxci1XZ1VUSkFZempJZXFfdklQQTA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Freestone Grove买入3.5万股英伟达",
-   "title_zh": "Freestone Grove Partners买入3.5万股英伟达",
    "sentiment": 1
   }
  ]
