@@ -1,41 +1,41 @@
 {
- "updated_at": "2026-10-13T13:21:30.060224+00:00",
+ "updated_at": "2026-10-13T13:36:31.693224+00:00",
  "market": {
-  "price": 226.32,
-  "change_pct": -1.29,
-  "as_of": "2026-10-12",
+  "price": 223.59,
+  "change_pct": -1.21,
+  "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-11-17",
    "label": "Q3 FY2027",
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": 0.08,
-   "count": 84
+   "avg": 0.14,
+   "count": 98
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": -1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
-     "score": -1,
-     "note": "现价处于52周区间 83% 分位（偏高）"
+     "score": 0,
+     "note": "现价处于52周区间 79% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +40.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.08（84条已评分）"
+     "note": "今日新闻情绪 +0.14（98条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $226.32 vs 20日均线 $227.50"
+     "note": "现价 $223.59 vs 20日均线 $228.08"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 83,
+   "price_52w_pct": 79,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.2,
-   "ma20": 227.5,
-   "as_of": "2026-10-13T13:21:30.045504+00:00"
+   "implied_upside_pct": 40.9,
+   "ma20": 228.08,
+   "as_of": "2026-10-13T13:36:31.673917+00:00"
   },
-  "pe_ttm": 28.8,
+  "pe_ttm": 28.4,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+40.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "f2558021cfdd",
+   "title": "SolarEdge Showcases MVAC-to-800 VDC AI Factory Power Technology at NVIDIA AI Factory MGX Ecosystem Showcase at OCP Global Summit, Oct. 12-15 - Investing News Network",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeFprOVZBNjJqQVdldHRzMnpsbXJwQ2RDMlBuR1F6THJrWmZBSWQwUWphOU1pUWU1TTlTdFY4MVZhaTNNc0lLTFNRVHZxc05ROTA0Sm1DbFBpajdxc0RyTW5zd2w5Mk1MczI1UGdYSkZHZDNQa1EyRVVYM3AtanJvRXp6VWpwUE1wZjRYY3R0NXVUYXMzSUVYWEdZSi1leS1WZGJpV0E1aVhzaWR5YTNyaFF6UExzd09neWJPWGdlcldnWC1ONGgxT2hPNUF6TEk4Y19JNW5iRFktZlVvRVk0VHZKZkpZeC1sazBiWFZqQnlwX05DQlM4cg",
+   "source": "Investing News Network",
+   "published_at": "2026-10-13T13:20:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing News Network",
+     "published_at": "2026-10-13T13:20:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeFprOVZBNjJqQVdldHRzMnpsbXJwQ2RDMlBuR1F6THJrWmZBSWQwUWphOU1pUWU1TTlTdFY4MVZhaTNNc0lLTFNRVHZxc05ROTA0Sm1DbFBpajdxc0RyTW5zd2w5Mk1MczI1UGdYSkZHZDNQa1EyRVVYM3AtanJvRXp6VWpwUE1wZjRYY3R0NXVUYXMzSUVYWEdZSi1leS1WZGJpV0E1aVhzaWR5YTNyaFF6UExzd09neWJPWGdlcldnWC1ONGgxT2hPNUF6TEk4Y19JNW5iRFktZlVvRVk0VHZKZkpZeC1sazBiWFZqQnlwX05DQlM4cg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "9daaf48f2788",
    "title": "Cisco, Nvidia push ultra-dense networking for Ethernet AI fabrics - Network World",
@@ -80,6 +97,23 @@
    "zh_summary": "思科与英伟达推动以太网AI网络结构",
    "title_zh": "思科与英伟达推动超高密度以太网AI网络结构",
    "sentiment": 1
+  },
+  {
+   "id": "6b711a9a7d01",
+   "title": "Nvidia: The Share Price Already Assumes No China Data Center Sales (NASDAQ:NVDA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXpVZ1JyZ1ZHeGhlMzNsRWFIZTY0bDhUenlJWHdKOVUxTV9EOFRHSVkwUEFhbDIxODN0QjllYVdJYmxHUS1Rb0t6TlE5RThfSmtVSVBudGdDYkpFckdZV296NUE2WElTN085RllnbXo3SDlXaVpDbzdxUkx2dFBLMGZOQThWVHZHOVhqR2hWdUhrR0dPVlM0ZVNLdTRuVkZjclYzc2tlUmNuZw",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-13T13:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-13T13:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXpVZ1JyZ1ZHeGhlMzNsRWFIZTY0bDhUenlJWHdKOVUxTV9EOFRHSVkwUEFhbDIxODN0QjllYVdJYmxHUS1Rb0t6TlE5RThfSmtVSVBudGdDYkpFckdZV296NUE2WElTN085RllnbXo3SDlXaVpDbzdxUkx2dFBLMGZOQThWVHZHOVhqR2hWdUhrR0dPVlM0ZVNLdTRuVkZjclYzc2tlUmNuZw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
   },
   {
    "id": "9301cd37552f",
@@ -287,12 +321,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFJ6eVp1cGVaaDVPcTMybmROTDlVZ0lfYV9KdFc0eDZ5OFFaOVVwMHhpWFJvR3Ztc0RTcFNVMGFDMXctS2Z2amw5cElVNC1xVVFaejRQMXJ2VHZtSGVmcmFyUUVkYjA3bVV6eGNsSXJHdnZvVDFONzN5NWpfZkxtVl9STktRS1l5",
    "source": "搜狐",
    "published_at": "2026-10-13T12:57:11+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-13T12:57:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFJ6eVp1cGVaaDVPcTMybmROTDlVZ0lfYV9KdFc0eDZ5OFFaOVVwMHhpWFJvR3Ztc0RTcFNVMGFDMXctS2Z2amw5cElVNC1xVVFaejRQMXJ2VHZtSGVmcmFyUUVkYjA3bVV6eGNsSXJHdnZvVDFONzN5NWpfZkxtVl9STktRS1l5"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-13T13:02:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0b1U5R2FuWVIyWkcyMERWTEQ5SmNiT0xneUc3NkpCaW01SkRyZzJxZDE0bEpfMHBuUUxwN1VzcGpUc0kxOUozQmEyRGM"
     }
    ],
    "category": "其他",
@@ -875,7 +914,11 @@
    "breaking": true,
    "zh_summary": "软通动力回应到货8000张GPU报道",
    "title_zh": "删除\"到货8000张英伟达GPU\"相关文章，软通动力回应 - 第一财经",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "c8173da58fa4",
@@ -1021,6 +1064,23 @@
    "zh_summary": "英伟达传升级RTX 5080至24GB",
    "title_zh": "英伟达计划推出24GB版RTX 5080，5090传将停产",
    "sentiment": 1
+  },
+  {
+   "id": "05d57f8d5c47",
+   "title": "刚亮相就传被英伟达收购：Gemini 老兵团队凭什么还敢押注 Coding Agent？ - InfoQ-CN",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXaEdlSUhXYnE0LURUbF9CNVVncmpodVZNQ0JZMXRnQ0E2Vl9zLVU3SGt2WHJuZmNXdk1XWmNlNVpmdFJGYkhZSVFTOHdYMUxGdzhHeFlnUWR6NmwxU3c",
+   "source": "InfoQ-CN",
+   "published_at": "2026-10-13T10:01:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "InfoQ-CN",
+     "published_at": "2026-10-13T10:01:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXaEdlSUhXYnE0LURUbF9CNVVncmpodVZNQ0JZMXRnQ0E2Vl9zLVU3SGt2WHJuZmNXdk1XWmNlNVpmdFJGYkhZSVFTOHdYMUxGdzhHeFlnUWR6NmwxU3c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "b61ebed4801b",
@@ -1503,26 +1563,6 @@
    "sentiment": -1
   },
   {
-   "id": "b87273824943",
-   "title": "NVIDIA Corporation $NVDA Stock Sold by Parkwood LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRTltY3hUUm1uNHRXRlAwQ0tERXdnWmFPYTJ0VUhjczh5Q29UeTRxUHpjMlVBU3ZPODczNndFZlQxMUtLQ3VLSVIwVkdEMzU1WDFBYzdhU3FFeF9ZbVpwMXhWTlhJUFVERXc4dUdZXzU2TUxRTDNOZGdNdmVJODZpdUhtcEV4WFBQc0hsOVZpV0NZZ1kxcVBEN1I0WVpPdldIVzBsWUZfTlVDVmxta0E4Sg",
-   "source": "MarketBeat",
-   "published_at": "2026-10-13T07:42:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-13T07:42:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRTltY3hUUm1uNHRXRlAwQ0tERXdnWmFPYTJ0VUhjczh5Q29UeTRxUHpjMlVBU3ZPODczNndFZlQxMUtLQ3VLSVIwVkdEMzU1WDFBYzdhU3FFeF9ZbVpwMXhWTlhJUFVERXc4dUdZXzU2TUxRTDNOZGdNdmVJODZpdUhtcEV4WFBQc0hsOVZpV0NZZ1kxcVBEN1I0WVpPdldIVzBsWUZfTlVDVmxta0E4Sg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Parkwood LLC减持英伟达股票",
-   "title_zh": "Parkwood LLC出售英伟达股票",
-   "sentiment": -1
-  },
-  {
    "id": "185cec9c8285",
    "title": "NVIDIA Corporation $NVDA Shares Sold by MASTERINVEST Kapitalanlage GmbH - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWDhNeTdWZ3FLam9ab0lhVGN1RHg4aEFkcWZlNkVYSE5HaTZCekxaVFpHZlBmOUR5UDFhTjluTVk4OUFHNlpvc1RIdnZaZktjMW9yLU94d3d2TElyaHdsMkhRTVlLa3JyWFY4OVZvNDdabzhSR1MyS1pmSzN5XzRROVNxRlhzVWJJbm1JUnprZmdIa09JVE11OHhGSXFBeTY2a1Ayd3NRM1doTmdhS0wzNUlWYkRHWFRJQkNMRW83QnNJSi1MaFBlOEVmdw",
@@ -1541,26 +1581,6 @@
    "zh_summary": "MASTERINVEST抛售NVDA股票",
    "title_zh": "MASTERINVEST抛售英伟达NVDA股票",
    "sentiment": -1
-  },
-  {
-   "id": "724c7c178c4e",
-   "title": "NVIDIA Corporation $NVDA Stock: Transamerica Financial Advisors LLC Increases Stake - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUUtBRnRiS05VWGExUG0wd0pGdjNPSnNDaFBUNExoUEZ0WnZmdGs3VjVLWktQcTd3cTQ5QUpPMGtmWWRtaDA0bWc2MThBQXBZUmRSdVREOHhQZC1xRm92cVl0dVdMZWlLX1phdzBlcmd5dUNvbExULTF4ZDdOVVBmLXB5OExEeHpkMzZMMXF1Z21tSWwzRVVYSzlnN1h1SlRQTnh4M2dmNkp5dk8xUjkyWWdpR2x1MHdKSkhBRUVzVllpVm9XV1ZIYVVrcWg1cW1vVUJNMnpKeVFYUQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-13T07:42:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-13T07:42:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUUtBRnRiS05VWGExUG0wd0pGdjNPSnNDaFBUNExoUEZ0WnZmdGs3VjVLWktQcTd3cTQ5QUpPMGtmWWRtaDA0bWc2MThBQXBZUmRSdVREOHhQZC1xRm92cVl0dVdMZWlLX1phdzBlcmd5dUNvbExULTF4ZDdOVVBmLXB5OExEeHpkMzZMMXF1Z21tSWwzRVVYSzlnN1h1SlRQTnh4M2dmNkp5dk8xUjkyWWdpR2x1MHdKSkhBRUVzVllpVm9XV1ZIYVVrcWg1cW1vVUJNMnpKeVFYUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Transamerica增持英伟达股票",
-   "title_zh": "Transamerica增持英伟达股票",
-   "sentiment": 1
   },
   {
    "id": "07ec84e88579",
@@ -1820,7 +1840,11 @@
    "session": "盘前",
    "zh_summary": "纳维斯发布24千瓦英伟达AI电源板",
    "title_zh": "纳维斯发布24kW英伟达AI电源板，目标效率97%",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "05a94c864077",
@@ -2115,7 +2139,11 @@
    "session": "盘前",
    "zh_summary": "报告称英伟达在华份额下滑",
    "title_zh": "报告：英伟达在华AI晶片份额下滑 华为缩小差距 - 联合早报",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "2cbd90d30a90",
@@ -2520,7 +2548,11 @@
    "session": "盘后",
    "zh_summary": "英伟达中国AI芯片份额下滑，华为追赶",
    "title_zh": "英伟达中国AI芯片份额下滑，报告称华为缩小差距",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "ce6b01528410",
@@ -2528,7 +2560,7 @@
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tOTc0U2NUZEtteEZNNFg4bWxyLW9oOElfQlplUE9leVBNN3o4dGRkQV9pQnZoSXFWY0hnbnIwSk9fQWNKWE4zaHJVSmJsYU9qMlhicXRvWWg4ajBRdFBiSldSeUJycV9JU3JHSEl4eHRackQ0eWpJX29rZG96Zw",
    "source": "Finimize",
    "published_at": "2026-10-13T02:04:10+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Finimize",
@@ -2544,13 +2576,22 @@
      "name": "TradingView",
      "published_at": "2026-10-13T12:23:06+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFFoWld0RzFpYUVpUHh5WHhZSE9rcGZnVkpRZEhQYWdNTUpodUdMdENwT2djcFZjWjA2Qi1MMlF4Mkd2UVZ3ajhXRG5HX1FOeFBfeWFWcmZzSWFNcU5BZU96cVVsNkVyTG85ZFBoMXZxSjg4ajVPU29Tc2d4ZHFXWHAzbHZaMG55djk3ZWNhY3VXNy15YnRMekFhU2dLVVBEZldqOU52TWlrYmZCOXh5M3E2TVZYN09Xb1Zr"
+    },
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-13T10:28:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDBUXzBJNnQyZkJPbHY3MEhtU0RCYlE3THlBOGlqRUQ0NGk1bDN0NjNibHZ4NFE2YXBCb3E0Tk9ZVXFEXzk1dVcybW1vWEZVeFVkbkk5NUFqa1NTRzNIYzVxdkYzZDlDNDJlT1l1M2lDRlpxMHBxYmo4ckRFbktrX2k3a3UwcHlUSzRNTEYzZWlXMmYwcWNTaDZKQXZ1OGM"
     }
    ],
    "category": "产品技术",
    "session": "盘后",
    "zh_summary": "英伟达在中国AI芯片市场失守",
    "title_zh": "英伟达在中国AI芯片市场份额下滑",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "2830d1ca6926",
@@ -2625,7 +2666,11 @@
    "session": "盘后",
    "zh_summary": "高通组团或挑战英伟达",
    "title_zh": "高通组团，挑战英伟达？ - 富途牛牛",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "ed6c8316cd03",
@@ -2675,7 +2720,11 @@
    "session": "盘后",
    "zh_summary": "天阳科技签约采购20000张英伟达GPU",
    "title_zh": "天阳科技：签署合同采购20000张英伟达GPU产品 - 东方财富",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "91d6eb994485",
@@ -2895,7 +2944,11 @@
    "session": "盘后",
    "zh_summary": "英伟达携手思科推出首款400G光模块规范",
    "title_zh": "英伟达携手思科推出首款400G / lane可插拔光模块规范USFP - 搜狐",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "cfe4d1cfacc5",
@@ -2935,7 +2988,11 @@
    "session": "盘后",
    "zh_summary": "英伟达在OCP峰会开放Rubin架构",
    "title_zh": "NVIDIA在OCP峰会开放Vera Rubin架构 加速全球AI工厂扩展",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "e10c087941ad",
@@ -6407,6 +6464,23 @@
    "sentiment": 0
   },
   {
+   "id": "aa9f0da5db04",
+   "title": "英伟达庆祝GeForce 8800 GTX发布20周年 开启CUDA时代的首款显卡 - 3DM",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhTlExZXdzT2JVbmMyTWx6djIxc1ZEZFAzOGpvYXBxZjhvNXRJWnVROFoyc2JEcnhPaDBJcG5IMHJfdW5wOGdGZnllV1RfdnFQVDNhQVFXYmUyOWZJ",
+   "source": "3DM",
+   "published_at": "2026-10-12T11:48:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "3DM",
+     "published_at": "2026-10-12T11:48:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhTlExZXdzT2JVbmMyTWx6djIxc1ZEZFAzOGpvYXBxZjhvNXRJWnVROFoyc2JEcnhPaDBJcG5IMHJfdW5wOGdGZnllV1RfdnFQVDNhQVFXYmUyOWZJ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "f3da3dcd5e4e",
    "title": "$美光科技 (MU.US)$ $SpaceX (SPCX.US)$ $英伟达 (NVDA.US)$ - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWl85UlJYVzFkYXJMSXlFZkIyMC1lVTdoc3ZNQk90VGV2a04ybmt2bHBkMlpKQ3o2R2FpLWlENEdvdExWWkloU0VVTXloYThLSDQtWktYMHdyTjhhbk5BUWNDSEpKS1NJSWphSUVZUTZfOTNOeEFSdU1JdnlLUl90N2s0MTNxYlJ6ZkJPZjYtaGItWENxc29LSTc1UkpLZENYLVBER2tid093blA4MDJYZF9R",
@@ -6535,46 +6609,6 @@
    "zh_summary": "英伟达或收购模型公司引猜测",
    "title_zh": "BiyaPay 行情观察｜英伟达要收购模型公司？ AI 芯片龙头为何跨界？ - Odaily星球日报",
    "sentiment": 0
-  },
-  {
-   "id": "669d392df70e",
-   "title": "'They are new to the laptop market': AMD issues a reality check to Nvidia’s RTX Spark and fires a warning shot at Arm - Tom's Guide",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMVZDZGxEcTdLdTJHZVZ1Uy1YbU9fY0htSXpvWTQzWWdrQ2N5eG45ZWVZYVcwM01ieFFvM1hXRm82VjVncWIxSktHQ0VtaEpubG9EQWRoaDJETkJrRlNvNWUxNEJzQ0ZpYXNqdjNnazlkQ3otalZZUUdtRVdPeEVJMlhvLWlmN1FnazhXYjhyTHVMdGp3V0xrRTE5a2pPVTFheGxnMFlua24wV05EbnJBSUVQTHg2YTRLbzZPWjRrazQyejhPUzRMNzhzendTSExmTmhLTVhjZjUwZnFvN0tPTEtlekxPZ1hFd2dvd3F3",
-   "source": "Tom's Guide",
-   "published_at": "2026-10-12T10:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tom's Guide",
-     "published_at": "2026-10-12T10:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMVZDZGxEcTdLdTJHZVZ1Uy1YbU9fY0htSXpvWTQzWWdrQ2N5eG45ZWVZYVcwM01ieFFvM1hXRm82VjVncWIxSktHQ0VtaEpubG9EQWRoaDJETkJrRlNvNWUxNEJzQ0ZpYXNqdjNnazlkQ3otalZZUUdtRVdPeEVJMlhvLWlmN1FnazhXYjhyTHVMdGp3V0xrRTE5a2pPVTFheGxnMFlua24wV05EbnJBSUVQTHg2YTRLbzZPWjRrazQyejhPUzRMNzhzendTSExmTmhLTVhjZjUwZnFvN0tPTEtlekxPZ1hFd2dvd3F3"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "AMD向英伟达RTX Spark发出挑战",
-   "title_zh": "AMD对英伟达RTX Spark发起现实检验警告Arm",
-   "sentiment": -1
-  },
-  {
-   "id": "52b63c8903a6",
-   "title": "Samsung’s HBM4E Passes Nvidia’s Tests: The Memory That Could Decide the Next AI Race - Intelligent Living",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jMW81MkcyaUFQRDk1c0pESzBHYTk2anktZ0djYlo0VWlZaFB3VmNIamVka25JbU45dzl0Mk0yMFR5OF9xS2ZiQ1pBV1hHa3lsRzlRZTFzTndtTkFwdnBWci1HdEtPMjNOUTF4b3VxNTFOUXRhSGc",
-   "source": "Intelligent Living",
-   "published_at": "2026-10-12T10:24:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Intelligent Living",
-     "published_at": "2026-10-12T10:24:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jMW81MkcyaUFQRDk1c0pESzBHYTk2anktZ0djYlo0VWlZaFB3VmNIamVka25JbU45dzl0Mk0yMFR5OF9xS2ZiQ1pBV1hHa3lsRzlRZTFzTndtTkFwdnBWci1HdEtPMjNOUTF4b3VxNTFOUXRhSGc"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "三星HBM4E通过英伟达测试",
-   "title_zh": "三星HBM4E通过英伟达测试，或成下一代AI关键",
-   "sentiment": 1
   }
  ]
 }
