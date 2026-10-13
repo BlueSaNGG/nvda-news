@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T18:21:28.033628+00:00",
+ "updated_at": "2026-10-13T18:36:32.153905+00:00",
  "market": {
-  "price": 227.45,
-  "change_pct": 0.5,
+  "price": 227.43,
+  "change_pct": 0.49,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.3,
-   "count": 161
+   "count": 162
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（161条已评分）"
+     "note": "今日新闻情绪 +0.30（162条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $227.45 vs 20日均线 $228.27"
+     "note": "现价 $227.43 vs 20日均线 $228.26"
     },
     {
      "key": "分析师动向",
@@ -47,8 +47,8 @@
    "target_median": 315.0,
    "target_count": 15,
    "implied_upside_pct": 38.5,
-   "ma20": 228.27,
-   "as_of": "2026-10-13T18:21:28.019127+00:00"
+   "ma20": 228.26,
+   "as_of": "2026-10-13T18:36:32.135462+00:00"
   },
   "pe_ttm": 28.9,
   "pe_pct_5y": 27,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "e03ff2d2bc9e",
+   "title": "英伟达拟在欧洲追加20亿美元投资 黄仁勋呼吁加快AI布局 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kNGhQYTljdkREYjhLZU9uV1hTY0VKbG1JN01ubWl4WWk2bkwxTnVDalhFZU5VbGFuZkRnN0xTa3hBYlBvMU42Z2tKeHJob1JtMjNZZnVNM3FTdlhI",
+   "source": "Moomoo",
+   "published_at": "2026-10-13T18:33:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-13T18:33:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kNGhQYTljdkREYjhLZU9uV1hTY0VKbG1JN01ubWl4WWk2bkwxTnVDalhFZU5VbGFuZkRnN0xTa3hBYlBvMU42Z2tKeHJob1JtMjNZZnVNM3FTdlhI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "4d2e715969f7",
+   "title": "Mirakl cut seller onboarding to under 2 hours on open models, NVIDIA says - PPC Land",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVFkdXA3bTdNYTE3N3d2NzYwUXpKVldfNmVZOTdQTjAtUmRrT1psTldnMHQzT1l4NzhYNHlIbHRQWkl0cHc0c05abWctak9KMlY2ZXRwS2l1T19JUTdVNDdrYTZPeXFlNmZUR18zWWZ5Q2NSWE80QjQ2Y25wSDRQLXFvU3BMTmhqdnlMWFpOQlJiRTJm",
+   "source": "PPC Land",
+   "published_at": "2026-10-13T18:29:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PPC Land",
+     "published_at": "2026-10-13T18:29:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVFkdXA3bTdNYTE3N3d2NzYwUXpKVldfNmVZOTdQTjAtUmRrT1psTldnMHQzT1l4NzhYNHlIbHRQWkl0cHc0c05abWctak9KMlY2ZXRwS2l1T19JUTdVNDdrYTZPeXFlNmZUR18zWWZ5Q2NSWE80QjQ2Y25wSDRQLXFvU3BMTmhqdnlMWFpOQlJiRTJm"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "8a4b7f817685",
+   "title": "Microsoft: The Nvidia Escape Plan (NASDAQ:MSFT) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nZms3SVdEY2ZqTDFiZ1psQzhnSjZoZmRXR3J4OUdDYzFqN3JLc2hjVmhxeDZ4U3FQUEVwMTJ5d21XaWh5X1U4Z2IyaW1xRFZ1WnpIY2QwU3hFeklKeUllZnFlYUtZcHJyTnRkc2FvTVE3N01YaGNSbzdBbzJMQQ",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-13T18:20:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-13T18:20:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nZms3SVdEY2ZqTDFiZ1psQzhnSjZoZmRXR3J4OUdDYzFqN3JLc2hjVmhxeDZ4U3FQUEVwMTJ5d21XaWh5X1U4Z2IyaW1xRFZ1WnpIY2QwU3hFeklKeUllZnFlYUtZcHJyTnRkc2FvTVE3N01YaGNSbzdBbzJMQQ"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
   {
    "id": "2b30feeb190f",
    "title": "Nvidia says to invest in French medical website - Yahoo Finance UK",
@@ -101,7 +152,7 @@
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ3c3WDFBRGNaZURKS2RYaHBuTGFHcGJ4Q3ZJQXpJc3MtMzNoVDdRQmlNT2IxU1NGMWtaQU9FaUxRcE5YMDFSV3dOQl83d3c3emhxVmR5LXRhRnh0RmJNTEpwWnFMNHY1aXlsUkU4SEdUY1pIQXVLb3RrTGJfN20xLUhKU3RBcmYxTGZRNmN5TUgtTnh3NGp0Wk9NNjFnODB0VEFxS1ZNR0t5dmVWejZsUjZPY3hBVk9UeFY4ckplRnYwTG1DUDJtdFM1UjZYbktka0NyVTBDdTRBdl96TkpGWjZIbGF3b1NpMW0zZEdtYkxNbnB6WjZR",
    "source": "Central Oregon Daily",
    "published_at": "2026-10-13T17:49:44+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Central Oregon Daily",
@@ -112,13 +163,22 @@
      "name": "Yahoo! Finance Canada",
      "published_at": "2026-10-13T17:49:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYU91emRkQ1RtR2xiQXNuVnhwaXRZTkVMMW5GTGdBUldxUjJpVEtCWXJpSC1mVzRNaVc1djRNZ21NZFE0N0xiZlFUY0dHQWZWZlFTbVIxcHlJNVNSV2ZtWlFOcExXNWhURmZVUHdMcHl4STVldWZPZ0JIY1dMam9XemF3dzR0QQ"
+    },
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-13T18:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVG9PMDRPT2NXYjA3RzBtNWMzVHh5YmVxejRYem1PdDVFOENlaUR6SVVZSlVrcHlRSi0zLWt0N0RkTlNJUkZxSW44Nzg3ZWdwNGpQRjhNZU40Q28walFMdm9KcVAzVWx6d0ZFSHZmazl2RkR1SmQ5SGdqeVFLSGxxVkVXYm1MaElGUXpEM2dHZUJvelZzY1FCREY1TU9QTDRTdFNoX202QlJucXQ2dkRxM21EWnpvU0ZLMEZoQjAtWWpFZw"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达入股四家法国科技初创公司",
    "title_zh": "据回声报报道英伟达入股四家法国科技初创公司",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.26,
+    "window_h": 0.8
+   }
   },
   {
    "id": "872203a6e8e1",
@@ -518,6 +578,23 @@
    "zh_summary": "芯片股抛售下NVDA放量成交1.139亿股",
    "title_zh": "芯片股抛售中，NVDA为何成交1.139亿股？",
    "sentiment": -1
+  },
+  {
+   "id": "a2ac065467d0",
+   "title": "NVIDIA Unbundles the AI Factory and Turns Openness Into Its Strong Suit - The Futurum Group",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXUzMVloOXFtaHdzc1Y1dElWLVN5b1dJUGlvYjBIYlBvTW5rYWROMWhfdHRZRzhRdDF2Uk5QbkFJQVlXLTJ0VDV1WkZwRlZwUjN0R1dxZUI2YXREMUtXQjg4YlRKekw5U05EbWJsamdpUTNGbXltVFVRZ2t4ek82RkNxdV9wVkxLVkYwOElldF9TRjJDVllMZU40V1BFUWRHUjVBWFp5NkQ4Zw",
+   "source": "The Futurum Group",
+   "published_at": "2026-10-13T15:55:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Futurum Group",
+     "published_at": "2026-10-13T15:55:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXUzMVloOXFtaHdzc1Y1dElWLVN5b1dJUGlvYjBIYlBvTW5rYWROMWhfdHRZRzhRdDF2Uk5QbkFJQVlXLTJ0VDV1WkZwRlZwUjN0R1dxZUI2YXREMUtXQjg4YlRKekw5U05EbWJsamdpUTNGbXltVFVRZ2t4ek82RkNxdV9wVkxLVkYwOElldF9TRjJDVllMZU40V1BFUWRHUjVBWFp5NkQ4Zw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "68568d72db1f",
@@ -1609,26 +1686,6 @@
    "sentiment": 1
   },
   {
-   "id": "ac53911acf0a",
-   "title": "软通动力到货8000张英伟达GPU卡？知情人士：是客观事实，用于生产服务器 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTNXk5MlZJTi1CVnUtZHROY1RBMHNuYUxKSkJwcE1xY21HV0l4VFlmNzJFMkdxUWZwUWxQVEpnOFctcVVIbEJjd1BiS0RhYU8yUHllSmFranlhQW1tUDRIajJGck9EZw",
-   "source": "东方财富",
-   "published_at": "2026-10-13T12:44:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-13T12:44:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTNXk5MlZJTi1CVnUtZHROY1RBMHNuYUxKSkJwcE1xY21HV0l4VFlmNzJFMkdxUWZwUWxQVEpnOFctcVVIbEJjd1BiS0RhYU8yUHllSmFranlhQW1tUDRIajJGck9EZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "软通动力到货8000张英伟达GPU卡",
-   "title_zh": "软通动力到货8000张英伟达GPU卡？知情人士：是客观事实，用于生产服务器 - 东方财富",
-   "sentiment": 1
-  },
-  {
    "id": "49fcba6d6a77",
    "title": "国内首款！网易官宣《燕云十六声》11月支持英伟达DLSS 5 - 驱动之家",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1idkFYb3JyaGtJY2dzenJUazJKemNqM21mbkVyd3A4cmlkTFFrcVdMcTdTZngxVWFQeUpwR09oQnhWbEtqbWgtUndxLWhFR1ZEdUhQV29STFM",
@@ -1748,6 +1805,31 @@
    }
   },
   {
+   "id": "ac53911acf0a",
+   "title": "软通动力到货8000张英伟达GPU卡？知情人士：是客观事实，用于生产服务器 - https://www.mrjjxw.com/",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50X3lxOWpTY01SOXo0aDRuMG93Z0pVbVRWS1lLT0xYUjJyOF9qRWhIa2pHZ1lVcWRmaDFZTk9uS2I1cDFaWXBabjBWV3JMNFd6S050V2NxN05wWHczbUw4WW41MkRaZw",
+   "source": "https://www.mrjjxw.com/",
+   "published_at": "2026-10-13T12:31:30+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "https://www.mrjjxw.com/",
+     "published_at": "2026-10-13T12:31:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50X3lxOWpTY01SOXo0aDRuMG93Z0pVbVRWS1lLT0xYUjJyOF9qRWhIa2pHZ1lVcWRmaDFZTk9uS2I1cDFaWXBabjBWV3JMNFd6S050V2NxN05wWHczbUw4WW41MkRaZw"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-13T12:44:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTNXk5MlZJTi1CVnUtZHROY1RBMHNuYUxKSkJwcE1xY21HV0l4VFlmNzJFMkdxUWZwUWxQVEpnOFctcVVIbEJjd1BiS0RhYU8yUHllSmFranlhQW1tUDRIajJGck9EZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "软通动力到货8000张英伟达GPU卡",
+   "title_zh": "软通动力到货8000张英伟达GPU卡？知情人士：是客观事实，用于生产服务器 - 东方财富",
+   "sentiment": 1
+  },
+  {
    "id": "a6636a519d45",
    "title": "Here are Tuesday's biggest analyst calls: Nvidia, Apple, Netflix, Meta, Galaxy, SoFi, Viking, AT&T & more - CNBC",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa3ZjX1BUQ1ktZG9zdU1zdzB4Uk84aEQ3Y3ktUnNzblRmaE1NTkxBQUo0RUQ5ZWpkQnE3VnZBNGhQZ0VLa05ncm4xYjdwQS1McXlDS0phY1NpNnE5NkRFdVpvc1VHb29YMG15RDQ4Tzk3R09DT1g2NVlUcVNQdmNhWDJwRlp3eF9BWmJnT1dfUQ",
@@ -1826,6 +1908,23 @@
    "zh_summary": "4家油气公司采用英伟达AI技术",
    "title_zh": "4家油气公司押注英伟达AI技术",
    "sentiment": 1
+  },
+  {
+   "id": "af44e4a21db9",
+   "title": "英伟达、AMD连跌四天：AI芯片的游戏规则变了 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS010QjJCOUVfcnduYjNOM09vZS1zSVRhekg1SHl3cFdLRmhqWTZpdHVRMkFMU1BzSXZoZ3dGWjlNbXc2ZnN2M05iTTd3ajg5YTI2Y3lhV1IzZm1maU5BQVZBcFNPQjREV09iSnFzRmxyVGxDLWhwazhPUUxXZDRvREZUUVlkYTJwX3VqRQ",
+   "source": "搜狐",
+   "published_at": "2026-10-13T12:19:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-13T12:19:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS010QjJCOUVfcnduYjNOM09vZS1zSVRhekg1SHl3cFdLRmhqWTZpdHVRMkFMU1BzSXZoZ3dGWjlNbXc2ZnN2M05iTTd3ajg5YTI2Y3lhV1IzZm1maU5BQVZBcFNPQjREV09iSnFzRmxyVGxDLWhwazhPUUxXZDRvREZUUVlkYTJwX3VqRQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "f70b6bf30db4",
@@ -2548,26 +2647,6 @@
    "sentiment": 0
   },
   {
-   "id": "a7a05a614415",
-   "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip - Axios",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ",
-   "source": "Axios",
-   "published_at": "2026-10-13T09:04:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Axios",
-     "published_at": "2026-10-13T09:04:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "微软发布Maia芯片，英伟达大客户变竞争对手",
-   "title_zh": "微软发布新Maia芯片，英伟达大客户皆成竞争者",
-   "sentiment": -1
-  },
-  {
    "id": "52058ba276f5",
    "title": "Cisco & NVIDIA Launch New Pluggable Optics for AI Factories - Data Centre Magazine",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjdEVHBXSHVoU09vZUNjTWg0MG9HQk5NRGF0STNMZ29sdGtIZFdtNkdyZUU4RlNGTWdhd0FoTER6YUc0UERRYVBxZk9fZEsxTi0wel8zYjZZRHBnY0VQZ3RCNUhvdE1ZTHlBaEFCenpaVV9kVnBkTEFkc3pCelJHUDNDVVduZHdEMVJmZnYxUUlFeDQweEJZX2hn",
@@ -2586,6 +2665,31 @@
    "zh_summary": "思科英伟达推出AI工厂光模块",
    "title_zh": "思科与英伟达为AI工厂推出新型可插拔光模块",
    "sentiment": 1
+  },
+  {
+   "id": "a7a05a614415",
+   "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2VWVzlXX0NrcC1UaFZxZ1FydUl5NThDRFA2VDJSMkRmc2dMcGMtcEFaMUFtSnR0UmJMci1raDlnODBNdTVrWEgtNERER3ljT2Z0YzQ2WGtUdHhiSmJMX0gtUkhRTVpmUG80NEREYjh5ZEIxSGpTdERkeG82bGZ3ZWplUVZ3YloxOW41T2NHTkpvVGlWZnFPV2RDWQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-13T09:00:07+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T09:00:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2VWVzlXX0NrcC1UaFZxZ1FydUl5NThDRFA2VDJSMkRmc2dMcGMtcEFaMUFtSnR0UmJMci1raDlnODBNdTVrWEgtNERER3ljT2Z0YzQ2WGtUdHhiSmJMX0gtUkhRTVpmUG80NEREYjh5ZEIxSGpTdERkeG82bGZ3ZWplUVZ3YloxOW41T2NHTkpvVGlWZnFPV2RDWQ"
+    },
+    {
+     "name": "Axios",
+     "published_at": "2026-10-13T09:04:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前",
+   "zh_summary": "微软发布Maia芯片，英伟达大客户变竞争对手",
+   "title_zh": "微软发布新Maia芯片，英伟达大客户皆成竞争者",
+   "sentiment": -1
   },
   {
    "id": "3121e5c4e0da",
@@ -6348,6 +6452,28 @@
    "sentiment": 1
   },
   {
+   "id": "f991a2b53758",
+   "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories - Cisco Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVo3M2FCNkl0RU44dmtMQ2I5d3BvRS02Z1hxQTZidEhsaGZ6ajd2RlFaZ21rTHNLNElfdVBBQm91UGJvMkZuZEtOcTBGY1dqX0J3YlpyS1NDRzJCU3lXMWxfOU5rU1dwZWRGb2w3MjRSX1J2U3c2WVNjOVRqQWVuSFgwZzhrWmh5VEQ1bGNDS0IwbzllMVVocXdiakoxazdNaFlZREZncklpeVdSODJKUnF0LWVYeWd1MDRjLVMzYw",
+   "source": "Cisco Newsroom",
+   "published_at": "2026-10-12T15:09:14+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Cisco Newsroom",
+     "published_at": "2026-10-12T15:09:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVo3M2FCNkl0RU44dmtMQ2I5d3BvRS02Z1hxQTZidEhsaGZ6ajd2RlFaZ21rTHNLNElfdVBBQm91UGJvMkZuZEtOcTBGY1dqX0J3YlpyS1NDRzJCU3lXMWxfOU5rU1dwZWRGb2w3MjRSX1J2U3c2WVNjOVRqQWVuSFgwZzhrWmh5VEQ1bGNDS0IwbzllMVVocXdiakoxazdNaFlZREZncklpeVdSODJKUnF0LWVYeWd1MDRjLVMzYw"
+    },
+    {
+     "name": "NVIDIA Newsroom",
+     "published_at": "2026-10-12T15:10:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU25leElMeUlqdXdSV1pBVElBWWh2aU5tSElwcG9RSFR4d1A3TlRSeE40M3N2a1htZ25BcDlyMHJsdmRwcWRmSDlXbTBha1J5RkFwVzVGMjdNVjJ0RDBWX3lpTXBrQW51MnhGa2xBX0kxell3QlFKNG9vTERORmd6TDdLbDlwUFg5bGRmVXh3Z2VTbGhCQk4yd1hkRHlUZFNvclR4MG1LUFlkcktHUDZWNEJyTjlPckU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "da35494db78e",
    "title": "英伟达公司 - 公司与思科计划为USFP制定开放行业规范 - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSGwxcFBsTmxqcWg1ekJjQU14bDFtNHFWc1lNUFV6bmxVbjZKQ21tWEFkSVYyV053eWNNUkhEY2RXRjMtX0I1Y25YRHJDVFpvc2twTGZkbnFtWXZWQ2lUYVpqa2Nnc2EtanZxZ1dNMXJWUW9hcUxnNmR3MllUenpzeWxZT3RKU1AtY3JVRHlaY05mMGVoU1RGRGxyMEl5R29kY0NjWXFRaEVETXh5YkZfX3pNTUthaUxwb2c",
@@ -6525,140 +6651,6 @@
    "session": "盘中",
    "zh_summary": "英伟达或收购Reflection AI",
    "title_zh": "英伟达拟收购Reflection AI或增资8亿美元",
-   "sentiment": 1
-  },
-  {
-   "id": "775c5e4dcbeb",
-   "title": "Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHRtZFJkSHY5UmNqNElRSWs1Uk4tNTFMb09nWHl5Y0haeU1DcVVTYU1zdldja3lfY2hiTnZsNGJxek1OZzMtaDhMLWtyRUpqZHZtbzNvb19HYm1wbVVlcmR3cC1Qbk12VjU0U3V5cHduTW9ZQ1M1WlZaQzVNYnltLW5SYUQ",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-12T15:03:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-12T15:03:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHRtZFJkSHY5UmNqNElRSWs1Uk4tNTFMb09nWHl5Y0haeU1DcVVTYU1zdldja3lfY2hiTnZsNGJxek1OZzMtaDhMLWtyRUpqZHZtbzNvb19HYm1wbVVlcmR3cC1Qbk12VjU0U3V5cHduTW9ZQ1M1WlZaQzVNYnltLW5SYUQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达开放Vera Rubin架构",
-   "title_zh": "英伟达开放Vera Rubin架构，助力AI工厂扩产",
-   "sentiment": 1
-  },
-  {
-   "id": "6562632c4bdb",
-   "title": "Cisco and NVIDIA Announce USFP: Expanding the Path to AI Connectivity - Cisco Blogs",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORW82XzZySmhBUllpTmFFR1RWSVBWUGN0UUZjOE1FNlFsYzg3WlJXRjMzWHRBdWZvRE9GUDRCWkF5UGl2NG9EbG9abGVFMkVlYWFsRFV5cDVqLWZ6bG4ta3g4NENfTkcxQzIyOUpla0cwVEtrdE16dFhvcTVYcDFiNnFWSGRWSWRwQ2J5SERJTTRMWmpkV1M5MGRvdEZMZw",
-   "source": "Cisco Blogs",
-   "published_at": "2026-10-12T15:03:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Cisco Blogs",
-     "published_at": "2026-10-12T15:03:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORW82XzZySmhBUllpTmFFR1RWSVBWUGN0UUZjOE1FNlFsYzg3WlJXRjMzWHRBdWZvRE9GUDRCWkF5UGl2NG9EbG9abGVFMkVlYWFsRFV5cDVqLWZ6bG4ta3g4NENfTkcxQzIyOUpla0cwVEtrdE16dFhvcTVYcDFiNnFWSGRWSWRwQ2J5SERJTTRMWmpkV1M5MGRvdEZMZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "思科与英伟达发布USFP",
-   "title_zh": "思科与英伟达发布USFP，拓展AI连接路径",
-   "sentiment": 1
-  },
-  {
-   "id": "be8cf7c49a91",
-   "title": "Nvidia and Cisco unveil new USFP optical module for AI data centers - StreetInsider",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFZ4N3RIaS1ST3BxQzFZemZwVUhZNFVzVlhTSGpGVEUtU2JjR0xNTFd3bHE3YmZjZnJBTlNZeXlOc0dTWHBPRE1maks0T1hfRmozTGp4cml2Ui1lbXZob1YzcEpQVm1DZHd6ME83STI1SWNKenJ5OG1TYVBpU0tpay1XY1dyMVRIbjBOZEpxOHVhbEEwRzFYVE82c3RuX0s3Tl9mamNHYncwYkk3eC1lNWJXNnNQaUh5ZG9XeDUyWjhXaFF2",
-   "source": "StreetInsider",
-   "published_at": "2026-10-12T15:02:08+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "StreetInsider",
-     "published_at": "2026-10-12T15:02:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFZ4N3RIaS1ST3BxQzFZemZwVUhZNFVzVlhTSGpGVEUtU2JjR0xNTFd3bHE3YmZjZnJBTlNZeXlOc0dTWHBPRE1maks0T1hfRmozTGp4cml2Ui1lbXZob1YzcEpQVm1DZHd6ME83STI1SWNKenJ5OG1TYVBpU0tpay1XY1dyMVRIbjBOZEpxOHVhbEEwRzFYVE82c3RuX0s3Tl9mamNHYncwYkk3eC1lNWJXNnNQaUh5ZG9XeDUyWjhXaFF2"
-    },
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-12T15:20:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWpDN3lXMWhPcXJEVlZ6b0Z4a1VnZk1UMlhJeG5Nbk5vN085MUtlWG5mOTBlRkdGY1ZuWXI5V0laM3NKbjdYSWNGRE9mZjZIRTBoUU1JYXNjbi1aTzZ0a2gwV1dhdUJLYlRGSEgyZUJfUXk3X1g2UXpLWnFFaE84NEUtNHM1ME1jRklNeDJpaFhTeFdseTF6QzVRUkliNlFaZ2RyTGpHS1RGLWY2dkZUaFJSQk05YnNfaVJ6bFZn"
-    },
-    {
-     "name": "marketscreener.com",
-     "published_at": "2026-10-13T06:36:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRl9IUG9PYnFNdGg0YVhlVGxJR0gyZjREcjZ6OFJBbWJuWDhqTTBweFFvTEdZRFdQYjRCSDNnYm9JNWMtdUM0S1NqczhuaThoMFVrZ1dsQWZwZXA4THlrcS1iV0NwWEI5RFZzbU1wckVnUHMxbVRMVkh4TEFVUjB5WGRUbWRxbWtoeDkyTjl6emdtOWlVWXRvMDJvcFlQOHBYZ1RGaGN0aGUxM082WDlmN01USzlxYTJtRlQ3VA"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘中",
-   "zh_summary": "英伟达与思科联合推出USFP光模块",
-   "title_zh": "英伟达与思科联合推出USFP光模块",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.23,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "2557c07eb8e0",
-   "title": "NVIDIA And Cisco Cram 4x OSFP’s Bandwidth Density Into An OSFP-Sized Module, Pushing AI Fabrics To 12.8 Tb/s With USFP - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3J2Y1I3Q2o1ODlEaWdBWUlHTjl0TENOODhQWFhxTXh3blJTdWVsOE9KRVhfNUhSTVFlTzB0ZlFack5BY0Y2aGJGRkVMcEJweG0tTHU4Z2tSMzZwQUpFTkN4akNyQndmbks3b2FlRnJYN3JKUlFGelpjT2gySjNWTlgtYkI1MVpVbmp2bEJKd2NxWHRrS2d6dzNLWmFJTS1yUjRUM3ZFRUFubWhZdzhoWUdFZC1NQdIBuwFBVV95cUxPcFhBNzlQVlh5Q25HenhZR1NrWGxxeGU3UkFwVFJjN1ZjSE5OczJkbzI0dG1EV0hjVVdEN2lic0lzeGpqblIzWFVLcE1LcXVYZE9jaFhxOVRIcEhTT2tqdElkWS10cVlvOEppWnBUUjlsdEViTmp4RXpGUlFJU2hyTno5VGlJbnUzNzhvMDdtUmZ1a3RzT0RVWnltWFowLXB3dEEzMjV6ZjNYRUV6b2ItMkNTV1ctMlBIZHRv",
-   "source": "Wccftech",
-   "published_at": "2026-10-12T15:00:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-12T15:00:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3J2Y1I3Q2o1ODlEaWdBWUlHTjl0TENOODhQWFhxTXh3blJTdWVsOE9KRVhfNUhSTVFlTzB0ZlFack5BY0Y2aGJGRkVMcEJweG0tTHU4Z2tSMzZwQUpFTkN4akNyQndmbks3b2FlRnJYN3JKUlFGelpjT2gySjNWTlgtYkI1MVpVbmp2bEJKd2NxWHRrS2d6dzNLWmFJTS1yUjRUM3ZFRUFubWhZdzhoWUdFZC1NQdIBuwFBVV95cUxPcFhBNzlQVlh5Q25HenhZR1NrWGxxeGU3UkFwVFJjN1ZjSE5OczJkbzI0dG1EV0hjVVdEN2lic0lzeGpqblIzWFVLcE1LcXVYZE9jaFhxOVRIcEhTT2tqdElkWS10cVlvOEppWnBUUjlsdEViTmp4RXpGUlFJU2hyTno5VGlJbnUzNzhvMDdtUmZ1a3RzT0RVWnltWFowLXB3dEEzMjV6ZjNYRUV6b2ItMkNTV1ctMlBIZHRv"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达与思科发布USFP模块，推高AI网络带宽",
-   "title_zh": "英伟达与思科推出USFP模块，AI网络带宽达12.8Tb/s",
-   "sentiment": 1
-  },
-  {
-   "id": "0fd1c4fde6fe",
-   "title": "NVIDIA Hands Its Vera Rubin Rack Designs To OCP, Stripping Compute Trays Of Every Cable, Hose, And Fan - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjBrUXRWSTc3NEVTc294M1NIQXY4MTV1a1l1NXJjZlVKWXUwNmo4YW5pYUlLVWJsVWZTMURLZUNOSzRLaVp5VkhFU2ZtSXpmZWtYb3k0aUdRcDZIYmF5OEs1aG0tWjVhQ3JLbF9wdW1LU1dRQm5jQlR3dEFCMFVzeHhoeDNDUWVjcHhFZnBR0gGTAUFVX3lxTE1HX0Utc3dQVTZ3M2pFamQwQWlTbE00Q3BPTjZITXpLZXY1eHc3aVEwb2xBV01yemp1UHJKQ081OGJnUzdFcWpncVNSOTg5YUpKaWJ6YnRCTDZZM2lKVlVTRHJTZzA5VjJkWjVjel9KVGlBVHNaMkJzLTFlZ1Q3eXpkX3o0bHVrMTBXRkRkT0lBeHB1WQ",
-   "source": "Wccftech",
-   "published_at": "2026-10-12T15:00:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-12T15:00:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjBrUXRWSTc3NEVTc294M1NIQXY4MTV1a1l1NXJjZlVKWXUwNmo4YW5pYUlLVWJsVWZTMURLZUNOSzRLaVp5VkhFU2ZtSXpmZWtYb3k0aUdRcDZIYmF5OEs1aG0tWjVhQ3JLbF9wdW1LU1dRQm5jQlR3dEFCMFVzeHhoeDNDUWVjcHhFZnBR0gGTAUFVX3lxTE1HX0Utc3dQVTZ3M2pFamQwQWlTbE00Q3BPTjZITXpLZXY1eHc3aVEwb2xBV01yemp1UHJKQ081OGJnUzdFcWpncVNSOTg5YUpKaWJ6YnRCTDZZM2lKVlVTRHJTZzA5VjJkWjVjel9KVGlBVHNaMkJzLTFlZ1Q3eXpkX3o0bHVrMTBXRkRkT0lBeHB1WQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达将Rubin机架设计交给OCP",
-   "title_zh": "英伟达将Vera Rubin机架设计交给OCP，去掉所有线缆水管风扇",
-   "sentiment": 1
-  },
-  {
-   "id": "79ca9014c9e1",
-   "title": "DG Matrix Unveils Interport 360 SST and Interport OS for AI Factories Based on NVIDIA MGX - Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeDJvM2VSWTNIUjN3VlA0MGVLSlZKMUV0OXRZblZEMElWajlLNUZQbHNjTzdrNzgwc1RhdDdpajExcXhIVzVPUnhZb2REa2NWMWU1WjlPWXFrZkhpZUtjQzRpVkN5VUF4SkV6UFFtajViU1I1aXFRLXNIb3dKNzdEUmFIdUx2OWNyMHRIb0s2REV1T2tBZkxzNVpDMnVUeDdRVl9keWJBN1MxN0NGVmdaRGZXbWlNU3pOMFR1ZUlQaVQ4a0d6RUo1REFlT1FtY1hsSlcxMnZkU3dhU041dF8w",
-   "source": "Business Wire",
-   "published_at": "2026-10-12T15:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Business Wire",
-     "published_at": "2026-10-12T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeDJvM2VSWTNIUjN3VlA0MGVLSlZKMUV0OXRZblZEMElWajlLNUZQbHNjTzdrNzgwc1RhdDdpajExcXhIVzVPUnhZb2REa2NWMWU1WjlPWXFrZkhpZUtjQzRpVkN5VUF4SkV6UFFtajViU1I1aXFRLXNIb3dKNzdEUmFIdUx2OWNyMHRIb0s2REV1T2tBZkxzNVpDMnVUeDdRVl9keWJBN1MxN0NGVmdaRGZXbWlNU3pOMFR1ZUlQaVQ4a0d6RUo1REFlT1FtY1hsSlcxMnZkU3dhU041dF8w"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "DG Matrix基于英伟达MGX推出新品",
-   "title_zh": "DG Matrix基于英伟达MGX推出Interport 360 SST",
    "sentiment": 1
   }
  ]
