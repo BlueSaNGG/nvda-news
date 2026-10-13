@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T04:21:28.268208+00:00",
+ "updated_at": "2026-10-13T04:36:30.614020+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.2,
-   "count": 220
+   "count": 221
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.20（220条已评分）"
+     "note": "今日新闻情绪 +0.20（221条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T04:21:28.250182+00:00"
+   "as_of": "2026-10-13T04:36:30.599669+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "0d5328f32b63",
+   "title": "Nvidia, AMD, Google, Meta Set Data Center Spec v0.7 [2026] - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdm5VdzJFT2hDRnNTalZMSEpsOHhwQ2ZwMEdGN014aUNiVE52Tk9oTS1GS242YTBoV19fTGxvTERqUUY5TWk5Y1Nkd211dnFDaU5CWmtHc0EzbG1mSmlma1FpRU91Q2ZNUjlRUHU3N2tvMVV5eVhMalZKLXRXbXA2cA",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-13T04:28:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-13T04:28:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdm5VdzJFT2hDRnNTalZMSEpsOHhwQ2ZwMEdGN014aUNiVE52Tk9oTS1GS242YTBoV19fTGxvTERqUUY5TWk5Y1Nkd211dnFDaU5CWmtHc0EzbG1mSmlma1FpRU91Q2ZNUjlRUHU3N2tvMVV5eVhMalZKLXRXbXA2cA"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
   {
    "id": "f12be06e3015",
    "title": "国产GPU不争气！俄罗斯被迫放行英伟达：关键基础设施也要用外国芯 - 驱动之家",
@@ -142,6 +159,23 @@
    "sentiment": 1
   },
   {
+   "id": "d97ffb4ba6ba",
+   "title": "Nvidia-backed data centre firm Firmus seeks up to USD 3 billion after scrapping IPO - https://internationalfinance.com/",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVC1XU0FPWTVDblBLcnB5d01pWEtqSHRBQWJSaU1rNlQySWFqSGpyR21lYmRNaU5yRkNUX0IyWWJvenZscTQyazN2bk0xRmFQdEMzZ2JkRDI3RFdzWTNGbl9iM0FVWWF4OUdITjZybExtSnpNS1RYV1pQNUZzcjg3VmNCQTlBMVFfZ0NjUGt4UlN4bncyNlZla1pnQjdlVllNd3lRdjFHdlZqRzFRV2VSSThSSWlXYVZmQV9TTDZXeVRjUDR1OXRF",
+   "source": "https://internationalfinance.com/",
+   "published_at": "2026-10-13T03:00:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://internationalfinance.com/",
+     "published_at": "2026-10-13T03:00:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVC1XU0FPWTVDblBLcnB5d01pWEtqSHRBQWJSaU1rNlQySWFqSGpyR21lYmRNaU5yRkNUX0IyWWJvenZscTQyazN2bk0xRmFQdEMzZ2JkRDI3RFdzWTNGbl9iM0FVWWF4OUdITjZybExtSnpNS1RYV1pQNUZzcjg3VmNCQTlBMVFfZ0NjUGt4UlN4bncyNlZla1pnQjdlVllNd3lRdjFHdlZqRzFRV2VSSThSSWlXYVZmQV9TTDZXeVRjUDR1OXRF"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "a179f4f6dd97",
    "title": "英伟达开放 Vera Rubin 机架设计 - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWVFIdFVWUEtYc29JLW1nMENPcV84YTBIcU42czJYa2pPRXJsVFhxZ3JIUGJZQzRuQkhWOXZjbVF0d3o5WFp1ZV9aUXpFQlZEb0JsaUotREs3MVdlSFROVzlwME1fUUF2Zk1fNmpPU1ZlRXpEWEt4ZjdEV1d3SFhpZ0RTclZJeW5LbXBxUA",
@@ -207,7 +241,7 @@
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPODIyeHZRMnlTWFNoamF5X25xNFEyd2FqY0xWTFMwblJ4eG0tcmlfLVItVnRoRTRzaE5vaXZCRkFESWx6c1l0UGdCMG03LWxQUTdkWTd5QU1GU21FRzNqcFdueG01TlRxVGZ2aW9WaE9zWFY3cnpaU25mMFpwQ1JxVUVzbW5kUmoyWGp5NHdBbWh6NHdnTXExTFZRM0FIREhSdHJZNl9idWZVQXV1SlRFNE5CNGhkME8yTEo4ZmpoZ1h3UmJIVFAyV3docXpRMGJKemM2cA",
    "source": "TradingView",
    "published_at": "2026-10-13T02:30:00+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "TradingView",
@@ -228,6 +262,11 @@
      "name": "Investing.com",
      "published_at": "2026-10-13T02:40:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQXF1MHluc2FYbVA2T0JIY3pUY1plQl9OdVU3cWRKUFRObkZmaHlKeUZCMHp0MzNLNHZrOGE3Z1BwanR2ckFDR2Rnd2FFeURlenMtYVZzOEtVbFRuVjNEUTJkUHl1U1hoc3NpR09jTUlCdl9rZW54RlFJQURYWFU1WXZ3Z3JOTld6dGtScFNvY09kWkIxbTdMZS1PTW13Y2x5OUMwT0ZtWm1CTkNWQWkybkE1U0hxUkl3cy1hdTdhYjI"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T02:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakNuckZoYmwxVFJyQWQxWHhvNEtzM1lkcmEyOGZnVG90TW5jaWpLUXBac2ZQemxBblVhR2pHVnp0MFM5Nnk1WkNJak9INGw4Sm1ZcTEzWUlWWEdDUENsWUlDNlpoNFJTYzA1ZVdVbDVOUGVaYmdtbTRyUTNFQk04NTN0Y2I2VVBWM3c2V0FUT0FDcl9oSmc"
     }
    ],
    "category": "产品技术",
@@ -6585,46 +6624,6 @@
    "zh_summary": "加拿大英伟达期权收益ETF投资思路",
    "title_zh": "加拿大投资者：基于英伟达的期权收益ETF YNVD:CA",
    "sentiment": 0
-  },
-  {
-   "id": "fe998fdb1bf9",
-   "title": "KINGPIN Says a Connector Dispute With NVIDIA Derailed EVGA's Last Flagship Card - TechPowerUp",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbG9CNVNWUTlobWFobERtV0hrTlJxb1FjX09fV2o0MXZqRnR2S1F3WGk3YzRGX2U4VWprbkQ1WUFHZzJaX2g2RWF4cy13TGpnOFh2MUxGM25xVFVBWFlWVTFaOFAtYVlIeFB6eHJzY0d4UG9VR3hjSWRKdEs3d1NsOGFxNmkxdXZSeUVNMDNXdGNJb1lHZndzQlJDTWNBSXdjUXZocmd3VVRfUTJ6N3VpU1hfa9IBuAFBVV95cUxOTmYtWkVCa3NRWk9xMkNtZGYyQUpNb0VLc1ZMRllvYTZieWJRdV9lQzVpb0Zqd3ZWWFhYTXp6clAxbGhvRVpMSHZSMVotRkpSaWtTeXhLZzF3OFM0empYeVdZamp3VEtPWkdoLUVXUkFJTnA4bmJGSjVxa3RoWVBUSGFWWXJJUWJYYmtxZkFZWnp6OEVwb1UxZkU1cFBSaHdrblFLa3dNUVVMZXotRVdxVXYxSTdLU0FV",
-   "source": "TechPowerUp",
-   "published_at": "2026-10-11T12:52:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechPowerUp",
-     "published_at": "2026-10-11T12:52:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbG9CNVNWUTlobWFobERtV0hrTlJxb1FjX09fV2o0MXZqRnR2S1F3WGk3YzRGX2U4VWprbkQ1WUFHZzJaX2g2RWF4cy13TGpnOFh2MUxGM25xVFVBWFlWVTFaOFAtYVlIeFB6eHJzY0d4UG9VR3hjSWRKdEs3d1NsOGFxNmkxdXZSeUVNMDNXdGNJb1lHZndzQlJDTWNBSXdjUXZocmd3VVRfUTJ6N3VpU1hfa9IBuAFBVV95cUxOTmYtWkVCa3NRWk9xMkNtZGYyQUpNb0VLc1ZMRllvYTZieWJRdV9lQzVpb0Zqd3ZWWFhYTXp6clAxbGhvRVpMSHZSMVotRkpSaWtTeXhLZzF3OFM0empYeVdZamp3VEtPWkdoLUVXUkFJTnA4bmJGSjVxa3RoWVBUSGFWWXJJUWJYYmtxZkFZWnp6OEVwb1UxZkU1cFBSaHdrblFLa3dNUVVMZXotRVdxVXYxSTdLU0FV"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "接口争议致EVGA旗舰卡项目流产",
-   "title_zh": "KINGPIN称与英伟达的接口争议导致EVGA末代旗舰卡夭折",
-   "sentiment": 0
-  },
-  {
-   "id": "b95d71cfd969",
-   "title": "This Nvidia Partner Was My Top Pick for 2026, and It's Up 43%: Here's Why It's Still a Great Value Now - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYnNnOXRKRDNkYUJkd1ZUMXFvdVZnRGROaU05R21RX2RXd19tSTIxQW9iVkszWU44bl9JamptWkF6anZsTkgtdHRKaFRXNlZnVzhLTTRWaXJ3c292OEVEWWlJS3pRbjlFN19lVHkzVmVGUTBKNjh1Y1lCaVlUSjRKOTM0ZlB4MkJndkVlejZmV1pLSHhoazJVcw",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-11T12:15:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-11T12:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYnNnOXRKRDNkYUJkd1ZUMXFvdVZnRGROaU05R21RX2RXd19tSTIxQW9iVkszWU44bl9JamptWkF6anZsTkgtdHRKaFRXNlZnVzhLTTRWaXJ3c292OEVEWWlJS3pRbjlFN19lVHkzVmVGUTBKNjh1Y1lCaVlUSjRKOTM0ZlB4MkJndkVlejZmV1pLSHhoazJVcw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达合作伙伴涨43%仍被看好",
-   "title_zh": "这家英伟达合作伙伴今年涨43%，仍具价值",
-   "sentiment": 1
   }
  ]
 }
