@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T17:21:30.229423+00:00",
+ "updated_at": "2026-10-13T17:36:27.613540+00:00",
  "market": {
-  "price": 227.23,
-  "change_pct": 0.4,
+  "price": 226.79,
+  "change_pct": 0.21,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.29,
-   "count": 154
+   "count": 155
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 84% 分位（偏高）"
+     "note": "现价处于52周区间 83% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +38.6%"
+     "note": "目标价中位数 $315（15家），隐含空间 +38.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（154条已评分）"
+     "note": "今日新闻情绪 +0.29（155条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $227.23 vs 20日均线 $228.25"
+     "note": "现价 $226.79 vs 20日均线 $228.23"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 84,
+   "price_52w_pct": 83,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 38.6,
-   "ma20": 228.25,
-   "as_of": "2026-10-13T17:21:30.213374+00:00"
+   "implied_upside_pct": 38.9,
+   "ma20": 228.23,
+   "as_of": "2026-10-13T17:36:27.598691+00:00"
   },
-  "pe_ttm": 28.9,
-  "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+38.6%空间：估值偏低，预期乐观"
+  "pe_ttm": 28.8,
+  "pe_pct_5y": 25,
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+38.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ed04ad50a6d6",
+   "title": "Nvidia's Jensen Huang is planning $2 billion in new European AI investments - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hd2wwbTVNdkpxTWduLUYxQ2h3bnVwb1lCYTdMR0NUbjNkMFBva0tQb3JkMmY4UVpSQ1pFSmU3MzlHRTNhU3NaOVpKU3VRTlNMaU9uN1YwVVFUUHZxeUktWnlfd0J1SUNIM2pmRjhudE0",
+   "source": "Quartz",
+   "published_at": "2026-10-13T17:24:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-13T17:24:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hd2wwbTVNdkpxTWduLUYxQ2h3bnVwb1lCYTdMR0NUbjNkMFBva0tQb3JkMmY4UVpSQ1pFSmU3MzlHRTNhU3NaOVpKU3VRTlNMaU9uN1YwVVFUUHZxeUktWnlfd0J1SUNIM2pmRjhudE0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "c358cbbc0e12",
    "title": "NVIDIA stock could rise 43% as AI demand and hy... - Pluang",
@@ -87,7 +104,7 @@
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdGlMRnRRTy1MclhYVjkya19qVVVINWN6RWJjZ3hPV3VHZ3B0SGxUXzBTZmxRMW5ENHNROVBYd2tnUWJla04xR0ZtczR4NjhmZ21xRlNFNDNCUmtTbHlFNTdXN2ZqRTYxUXZRc0RxTjNadHM1Y1hDM1NmWjRqM255VlVkV0V2Z3RyQy1OVWhvVTBMOGJxRGQtTnhWYjJWcGFkUDZSLTVXZ2stQnlRUXI3eWNucEZGM0hBZ3BKQVJfNEdDaGhnZmRxMlZJWkNqTUNGRk5Z",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-13T17:00:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "24/7 Wall St.",
@@ -98,13 +115,22 @@
      "name": "AOL.com",
      "published_at": "2026-10-13T17:00:55+00:00",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZUF4aTJXMm5xWmZHQmZLbkozOFp1WXpaSGlKTE42T2dQa3RDaTAydEhiUnBfaTAxZzFmZ1l3eHhjQVIxQWY4MzFRcXhPUk9ZLXZET2taWW05Vy16YWRPYnRDYzdtWlJ0c3VUVHRHby1NaDBBT2l0VVoxRERaU3VlbTRB"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T17:00:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWpjaFgzeEw5SzNJNGFKYzNheE8tdFN4VGdHeWxOdWZ5RHFmd2VpQUw5V3pzTmc4SkZrZHJVOXZHaTZXaE8tUGNReVU2Y29hanJIVTdnaXFBRUx1WDJDcG5FdUZUTllSYjIwd3Y5QlRROXFYR2dlanJVdkZxWFZXVGVPNW5nTlp0dEFrdVRaNkQ1c0NYMDVMVWtXcFJfUQ"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "24/7华尔街发布英伟达看多报告",
    "title_zh": "24/7华尔街发布英伟达看多报告：AI带来强劲东风",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.07,
+    "window_h": 0.6
+   }
   },
   {
    "id": "50e4c4192fe3",
@@ -132,12 +158,17 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTkprTWN4ZGlESmUxTmtxeHpQNnhsLXA4Y2dDVU5ab3FoSXVUbl80UTUtVWcyMDJEQVJ3QkR6TkVXVXM3RHVab1l6ZTFVRFJkSVdmb0ZEMk9DYzZYcGZLLXdib0M1S0Y2cXN4Zlc4UlNCWmtLazliOEhVYjN2QzdVVXpNaXJmd3d6eUQzRnM4Z09lNmxiYU9KUWZWVEl6MWtlYXU4",
    "source": "Trefis",
    "published_at": "2026-10-13T16:47:41+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Trefis",
      "published_at": "2026-10-13T16:47:41+00:00",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTkprTWN4ZGlESmUxTmtxeHpQNnhsLXA4Y2dDVU5ab3FoSXVUbl80UTUtVWcyMDJEQVJ3QkR6TkVXVXM3RHVab1l6ZTFVRFJkSVdmb0ZEMk9DYzZYcGZLLXdib0M1S0Y2cXN4Zlc4UlNCWmtLazliOEhVYjN2QzdVVXpNaXJmd3d6eUQzRnM4Z09lNmxiYU9KUWZWVEl6MWtlYXU4"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T16:48:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVzJQMUV0dW9jNk5DT25zVmlTcUhKdzZwN04tcmFKTFlwM3FFYlU2V2htYmtwSVZhRTY3VmE4MFRELXRzUnQ0ODNoQ0RqWk9Lb2JzZjhWc0dLWUMwWTlJMFJ3eHpmNGN0QTVSbUZqaEI1cDNxN0lTdWpqcUlDWXpLOHc3LU80cXg2eVBfZzQ2TWd1S2wzZXlTQmhBZlpCNDg"
     }
    ],
    "category": "其他",
@@ -3104,26 +3135,6 @@
    "sentiment": 0
   },
   {
-   "id": "d4f81af33762",
-   "title": "英伟达和思科推出全新可插拔光模块规格，助力规模化扩展AI工厂 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDVIWHRuY2hkWjV1QjUyZEdYeFd3cVVjX0poM1JoWE4tWk1qbXl0cGsyWUJVai1qT1cyNVphRHZxYWUzeURvY2VhbkVSQTliOGQxaVlRR2YxQkpZM3c2Q0dzbXlpd2xUUXJCNTBRSmRRU0FtVTdNVGZsVFlYY09ndFJzUmpqdnRkS3ZQRw",
-   "source": "搜狐",
-   "published_at": "2026-10-13T06:23:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-13T06:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDVIWHRuY2hkWjV1QjUyZEdYeFd3cVVjX0poM1JoWE4tWk1qbXl0cGsyWUJVai1qT1cyNVphRHZxYWUzeURvY2VhbkVSQTliOGQxaVlRR2YxQkpZM3c2Q0dzbXlpd2xUUXJCNTBRSmRRU0FtVTdNVGZsVFlYY09ndFJzUmpqdnRkS3ZQRw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达与思科推出可插拔光模块新规格",
-   "title_zh": "英伟达和思科推出全新可插拔光模块规格，助力规模化扩展AI工厂 - 搜狐",
-   "sentiment": 1
-  },
-  {
    "id": "fc2a4239805a",
    "title": "英伟达中国 GPU 出货量暴跌 44%！仍居第一 - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeGRWemJpbnRrNkhHdjJVUEtTTUluV3BtZHZhX0UzSUk1QUdYNDFMaXV6ekFRZjZ3VGlTNGR1MWtsZl9iYVdVVjRTelpxMFIwVnRJTy1RbWJWMzNPX0FVSEVjRnNNTXZKRTQzWjRORWprTEpYdmJ3ekFEUzU5M2hDWGZyT3dxWDVCckRMQw",
@@ -3277,31 +3288,6 @@
    "zh_summary": "在华份额跌破四成国产芯片崛起",
    "title_zh": "英伟达在华份额跌破四成：国产AI芯片如何重塑算力市场格局？ - 搜狐",
    "sentiment": -1
-  },
-  {
-   "id": "8b81cabe25d7",
-   "title": "天阳科技拟采购2万张英伟达GPU产品，主要用于AI应用推理等专业工作负载 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iNW9XZGdmcUR0MW14UFJ4b2hnVzFRYTN2YW83cmdCVkt2bVJiYW5DY0hiU0xZX0RTWkpMXzZ0bGRRUDlKWnhMa05iTlVlSVpUMEtCcjRLWVJLOWxELTdpMW9IY1lYdw",
-   "source": "东方财富",
-   "published_at": "2026-10-13T05:27:08+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-13T05:27:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iNW9XZGdmcUR0MW14UFJ4b2hnVzFRYTN2YW83cmdCVkt2bVJiYW5DY0hiU0xZX0RTWkpMXzZ0bGRRUDlKWnhMa05iTlVlSVpUMEtCcjRLWVJLOWxELTdpMW9IY1lYdw"
-    },
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-13T09:08:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiMk9YWkt3ZVBGa3BYQ25nLWZtdkh4V2RqUHAtcE05cEdwRUtWblVDNVNUSTBMTWJ4czQ2S1B1Sl9NMy1UMWtaMDZCNmFMUHlBUnRrX09QWDFMM2lMN0NHeg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "天阳科技拟采购2万张英伟达GPU",
-   "title_zh": "天阳科技拟采购2万张英伟达GPU产品，主要用于AI应用推理等专业工作负载 - 东方财富",
-   "sentiment": 1
   },
   {
    "id": "0931f495d72a",
@@ -3590,6 +3576,31 @@
    "session": "盘后",
    "zh_summary": "俄罗斯关键基础设施将放行英伟达芯片",
    "title_zh": "国产GPU不争气！俄罗斯被迫放行英伟达：关键基础设施也要用外国芯 - 驱动之家",
+   "sentiment": 1
+  },
+  {
+   "id": "8b81cabe25d7",
+   "title": "天阳科技拟采购2万张英伟达GPU产品，主要用于AI应用推理等专业工作负载 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iNW9XZGdmcUR0MW14UFJ4b2hnVzFRYTN2YW83cmdCVkt2bVJiYW5DY0hiU0xZX0RTWkpMXzZ0bGRRUDlKWnhMa05iTlVlSVpUMEtCcjRLWVJLOWxELTdpMW9IY1lYdw",
+   "source": "东方财富",
+   "published_at": "2026-10-13T03:51:21+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-13T03:51:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iNW9XZGdmcUR0MW14UFJ4b2hnVzFRYTN2YW83cmdCVkt2bVJiYW5DY0hiU0xZX0RTWkpMXzZ0bGRRUDlKWnhMa05iTlVlSVpUMEtCcjRLWVJLOWxELTdpMW9IY1lYdw"
+    },
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-13T09:08:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiMk9YWkt3ZVBGa3BYQ25nLWZtdkh4V2RqUHAtcE05cEdwRUtWblVDNVNUSTBMTWJ4czQ2S1B1Sl9NMy1UMWtaMDZCNmFMUHlBUnRrX09QWDFMM2lMN0NHeg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "天阳科技拟采购2万张英伟达GPU",
+   "title_zh": "天阳科技拟采购2万张英伟达GPU产品，主要用于AI应用推理等专业工作负载 - 东方财富",
    "sentiment": 1
   },
   {
