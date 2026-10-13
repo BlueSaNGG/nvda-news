@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T09:06:26.108341+00:00",
+ "updated_at": "2026-10-13T09:21:30.164799+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": -0.12,
-   "count": 40
+   "avg": -0.07,
+   "count": 43
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.12（40条已评分）"
+     "note": "今日新闻情绪 -0.07（43条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T09:06:26.091721+00:00"
+   "as_of": "2026-10-13T09:21:30.150969+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "5ca53139023a",
+   "title": "英伟达思科联合发布USFP可插拔光模块规格：400G/lane、12.8T容量 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81UFhjcUZaRm53dDJaZVFhaUFPSTZyMW10dG5lWExfN3R0WC1DMlV0b0NmMmgzcXEySUMzcXNtOE1wbEdaWU9PdUsyWnM3MU1KUFRhN1YyNG9ndTFW",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-13T09:09:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-13T09:09:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81UFhjcUZaRm53dDJaZVFhaUFPSTZyMW10dG5lWExfN3R0WC1DMlV0b0NmMmgzcXEySUMzcXNtOE1wbEdaWU9PdUsyWnM3MU1KUFRhN1YyNG9ndTFW"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "38f362f3244f",
+   "title": "宁王的资本局，神似英伟达 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2M1N1hlRkg5cW5XLUx4NVR0blVuSGRDaTREaHYtVElaUHhUY2VfSjlpX0pidmhydzU0Nm9UT1JwMVp1Mjdqa1QzR0IzUWFiU1lpY1RTMjhNcVVIZm1lMjVFVWNGR0NXUnFheTVNYXYyT0FhMDVzbGVXTW1jYWFSempmeXlCTEgy",
+   "source": "搜狐",
+   "published_at": "2026-10-13T09:07:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-13T09:07:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2M1N1hlRkg5cW5XLUx4NVR0blVuSGRDaTREaHYtVElaUHhUY2VfSjlpX0pidmhydzU0Nm9UT1JwMVp1Mjdqa1QzR0IzUWFiU1lpY1RTMjhNcVVIZm1lMjVFVWNGR0NXUnFheTVNYXYyT0FhMDVzbGVXTW1jYWFSempmeXlCTEgy"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "52058ba276f5",
+   "title": "Cisco & NVIDIA Launch New Pluggable Optics for AI Factories - Data Centre Magazine",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjdEVHBXSHVoU09vZUNjTWg0MG9HQk5NRGF0STNMZ29sdGtIZFdtNkdyZUU4RlNGTWdhd0FoTER6YUc0UERRYVBxZk9fZEsxTi0wel8zYjZZRHBnY0VQZ3RCNUhvdE1ZTHlBaEFCenpaVV9kVnBkTEFkc3pCelJHUDNDVVduZHdEMVJmZnYxUUlFeDQweEJZX2hn",
+   "source": "Data Centre Magazine",
+   "published_at": "2026-10-13T09:03:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Centre Magazine",
+     "published_at": "2026-10-13T09:03:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjdEVHBXSHVoU09vZUNjTWg0MG9HQk5NRGF0STNMZ29sdGtIZFdtNkdyZUU4RlNGTWdhd0FoTER6YUc0UERRYVBxZk9fZEsxTi0wel8zYjZZRHBnY0VQZ3RCNUhvdE1ZTHlBaEFCenpaVV9kVnBkTEFkc3pCelJHUDNDVVduZHdEMVJmZnYxUUlFeDQweEJZX2hn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "c8dcfc026bfb",
    "title": "景旺电子回应英伟达减单传闻 - Jiemian.com",
@@ -107,12 +158,17 @@
    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPYzdXN2JsSWEyczhnMm9HUWdqU1UteEY0MW1FMU5yNnFaTjdHb0RkMlNVcUZwRHRrVUJPM1JLZUFDekdrZEtqRVZWcV8wN1laekgtUzZXbkRmVUVhbnRKUmV3bTloekwta2ZocE9INkpoLW4yTGFWTUNWbkpzekNWMU9meENhX0k2dkdzWnBfd01zOTZZSUtid2F4N3VhQWhiX3ltSHZiYTVFNHNhcHlpcUY1YjhkZGZad0p2NjJGZThCc1Bjb2FvVXRIZ3IzRGtJMHJNc01LQ01SOHpvZU9HQUd6c1FWVjJwdVdwYk1NWFV6azE0OXRCU09uRnBkYlA2bkpWZXFqUFhpV2FmTjlKMUc2SS1IUjVCQzBqRExBLVB5bThJRDZ5ajln",
    "source": "TradingView",
    "published_at": "2026-10-13T08:37:30+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TradingView",
      "published_at": "2026-10-13T08:37:30+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPYzdXN2JsSWEyczhnMm9HUWdqU1UteEY0MW1FMU5yNnFaTjdHb0RkMlNVcUZwRHRrVUJPM1JLZUFDekdrZEtqRVZWcV8wN1laekgtUzZXbkRmVUVhbnRKUmV3bTloekwta2ZocE9INkpoLW4yTGFWTUNWbkpzekNWMU9meENhX0k2dkdzWnBfd01zOTZZSUtid2F4N3VhQWhiX3ltSHZiYTVFNHNhcHlpcUY1YjhkZGZad0p2NjJGZThCc1Bjb2FvVXRIZ3IzRGtJMHJNc01LQ01SOHpvZU9HQUd6c1FWVjJwdVdwYk1NWFV6azE0OXRCU09uRnBkYlA2bkpWZXFqUFhpV2FmTjlKMUc2SS1IUjVCQzBqRExBLVB5bThJRDZ5ajln"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-13T08:37:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcEpYNkM1RmwzZmlDLVk2R2xQYW42N3ZER3dyRXo4dUFUVGc5Z0NGZUhyYVZ1akR1MnBrMUNGRjY2Zmh1R0ZvQzg1M1p0OVZCRjJleWtSVUZJWWJSRmoxbVhNaHdZNFUtVk5KQ1pKNkNvTEloTDlBU0I5V05Md2lGdmxxOUdQbVNFUG9acnlUNWRxdzhDb1JDcGR3"
     }
    ],
    "category": "财报",
@@ -370,26 +426,6 @@
    "zh_summary": "Corient抛售72万股NVDA",
    "title_zh": "Corient私人财富抛售722670股NVDA",
    "sentiment": -1
-  },
-  {
-   "id": "af7ff7443d52",
-   "title": "Stonebridge Capital Management Inc. Sells 7,587 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjBBeEo1SHQ5MG94bFh4eDBHWG91SFRoYlB4X0xManRldFBlVGdrZm1vSERTbU9mNV9Ua1BvdUtUc24ta2t5cEJVV1Yzck1rU2lLMzl3anhFN29qOVdfSDd1a0ZUQ3BFUHFlbUd2VU9sTEVWdzZKWlpzd201bE9UNkp1U1diaXdKZVcycnQ5R094NlZRWjFQRUFGSkxYSExXUFZqWFg5Rm00cDRacDdRX0JjYk9JTWhHSVlxcU1rQ3pSTEtBakd5U3k5QWxjLS1HdXB6bTlvcw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-13T07:42:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-13T07:42:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjBBeEo1SHQ5MG94bFh4eDBHWG91SFRoYlB4X0xManRldFBlVGdrZm1vSERTbU9mNV9Ua1BvdUtUc24ta2t5cEJVV1Yzck1rU2lLMzl3anhFN29qOVdfSDd1a0ZUQ3BFUHFlbUd2VU9sTEVWdzZKWlpzd201bE9UNkp1U1diaXdKZVcycnQ5R094NlZRWjFQRUFGSkxYSExXUFZqWFg5Rm00cDRacDdRX0JjYk9JTWhHSVlxcU1rQ3pSTEtBakd5U3k5QWxjLS1HdXB6bTlvcw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Stonebridge减持7587股英伟达股票",
-   "title_zh": "Stonebridge减持7587股$NVDA",
-   "sentiment": 0
   },
   {
    "id": "185cec9c8285",
@@ -6527,46 +6563,6 @@
    "zh_summary": "英伟达隐藏GPU设置，微星小飞机解锁",
    "title_zh": "NVIDIA不让板厂公开的GPU设置：微星小飞机全给你了！风险自担 - 驱动之家",
    "sentiment": 0
-  },
-  {
-   "id": "8cb30dae4c11",
-   "title": "消息称英伟达洽谈收购 / 追加投资 Reflection AI，加码开源模型 - 白鲸出海",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55UE9KZ1dzOVlEQnRqRWdRSlFHMGlOa2lFMkhmQ1UyRFpKaDd3eU45cXlNLVl4TTJHZExzZ0V0Nm1JWmZPMlJyc0Z2czIycTBzZUZRbmhFam8",
-   "source": "白鲸出海",
-   "published_at": "2026-10-12T02:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "白鲸出海",
-     "published_at": "2026-10-12T02:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55UE9KZ1dzOVlEQnRqRWdRSlFHMGlOa2lFMkhmQ1UyRFpKaDd3eU45cXlNLVl4TTJHZExzZ0V0Nm1JWmZPMlJyc0Z2czIycTBzZUZRbmhFam8"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达洽谈收购或追加投资Reflection AI",
-   "title_zh": "消息称英伟达洽谈收购 / 追加投资 Reflection AI，加码开源模型 - 白鲸出海",
-   "sentiment": 1
-  },
-  {
-   "id": "87de2822b484",
-   "title": "继续抄底英伟达 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDhDX1hjUXJmaVYzZ3JfS3dmWktpeHIwUlY2UlZUU2ZuVXRrT2VYTEVJLS02MklsazZpcUpDQTlIajJaZ092c21OeU1IeUk3bGJuamlxQkk3NHluemd1WGhJRU1ZR0t1MGpsQUdObGFqVmhERWNDMjZMdzI2anh0UHdRRnVkTUlGTkk1NmhMVDctdWJYb0R3",
-   "source": "Moomoo",
-   "published_at": "2026-10-12T02:14:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-12T02:14:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDhDX1hjUXJmaVYzZ3JfS3dmWktpeHIwUlY2UlZUU2ZuVXRrT2VYTEVJLS02MklsazZpcUpDQTlIajJaZ092c21OeU1IeUk3bGJuamlxQkk3NHluemd1WGhJRU1ZR0t1MGpsQUdObGFqVmhERWNDMjZMdzI2anh0UHdRRnVkTUlGTkk1NmhMVDctdWJYb0R3"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Moomoo建议继续抄底英伟达",
-   "title_zh": "继续抄底英伟达 - Moomoo",
-   "sentiment": 1
   }
  ]
 }
