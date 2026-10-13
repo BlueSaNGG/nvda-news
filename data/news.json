@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T16:06:32.515509+00:00",
+ "updated_at": "2026-10-13T16:21:30.649046+00:00",
  "market": {
-  "price": 225.8,
-  "change_pct": -0.23,
+  "price": 226.24,
+  "change_pct": -0.04,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.26,
-   "count": 137
+   "count": 141
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.5%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（137条已评分）"
+     "note": "今日新闻情绪 +0.26（141条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $225.80 vs 20日均线 $228.18"
+     "note": "现价 $226.24 vs 20日均线 $228.21"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 82,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.5,
-   "ma20": 228.18,
-   "as_of": "2026-10-13T16:06:32.498698+00:00"
+   "implied_upside_pct": 39.2,
+   "ma20": 228.21,
+   "as_of": "2026-10-13T16:21:30.631061+00:00"
   },
-  "pe_ttm": 28.7,
+  "pe_ttm": 28.8,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.5%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,66 @@
   }
  },
  "stories": [
+  {
+   "id": "98387a7b165f",
+   "title": "Nvidia to buy a minority stake in France's Doctolib - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI",
+   "source": "Reuters",
+   "published_at": "2026-10-13T16:08:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-13T16:08:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "英伟达拟购法国Doctolib少数股权",
+   "title_zh": "路透：英伟达将收购法国Doctolib少数股权",
+   "sentiment": 1
+  },
+  {
+   "id": "906f7ba7984c",
+   "title": "Nvidia’s Huang Plans $2 Billion in Europe AI Deals in Next Week - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTUyMWwxLUpnYVFUYlNzVS1YS0d5UkpaWXhsbmZ6U08xMmNKUTFSU01rSTRjN0Z4UF9hTG0tajg4TFZqZExYVS1oZkxJWlNFM0hBc2ctbUZBU1htclhwWVB6ajludXpVT3NDZ21YaEk3UExON3ZpZVF3YU1ycDI2MS0tVU1jelR5N3F2emRKT2JDcUE4V3hiUzlxY21SNXBXdHl1YzJWREFfY2I3cWhEa2Z0VQ",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-13T16:07:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-13T16:07:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTUyMWwxLUpnYVFUYlNzVS1YS0d5UkpaWXhsbmZ6U08xMmNKUTFSU01rSTRjN0Z4UF9hTG0tajg4TFZqZExYVS1oZkxJWlNFM0hBc2ctbUZBU1htclhwWVB6ajludXpVT3NDZ21YaEk3UExON3ZpZVF3YU1ycDI2MS0tVU1jelR5N3F2emRKT2JDcUE4V3hiUzlxY21SNXBXdHl1YzJWREFfY2I3cWhEa2Z0VQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "黄仁勋下周拟在欧洲达成20亿美元AI交易",
+   "title_zh": "黄仁勋计划下周在欧洲达成20亿美元AI交易",
+   "sentiment": 1
+  },
+  {
+   "id": "daa51a32ad57",
+   "title": "Why Did 113.9M Nvidia (NASDAQ:NVDA) Shares Trade in a Chip Rout? - kalkine.ca",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXM1UkI2RW5ZeGgtaXdVSi1wMU1OeGFITGR2cTdoc3dfdlBhTUtSUUZYY2EwbG4wU3dWRjBHbHpVSFdpa1FxSTcxUHB6OGVQQlZaMjNYaUtVaVZYU2RmaThiN2xQWU1ZeDNpVU9FX0VvbFdmQ1MxaFVHMC14cTdQNE1pR21vcnVnM0R5X01ocV81TzBULV9GeU5tY1Bxbjlna2NDSVZvTUhVQTQ",
+   "source": "kalkine.ca",
+   "published_at": "2026-10-13T16:03:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "kalkine.ca",
+     "published_at": "2026-10-13T16:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXM1UkI2RW5ZeGgtaXdVSi1wMU1OeGFITGR2cTdoc3dfdlBhTUtSUUZYY2EwbG4wU3dWRjBHbHpVSFdpa1FxSTcxUHB6OGVQQlZaMjNYaUtVaVZYU2RmaThiN2xQWU1ZeDNpVU9FX0VvbFdmQ1MxaFVHMC14cTdQNE1pR21vcnVnM0R5X01ocV81TzBULV9GeU5tY1Bxbjlna2NDSVZvTUhVQTQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中",
+   "zh_summary": "芯片股抛售下NVDA放量成交1.139亿股",
+   "title_zh": "芯片股抛售中，NVDA为何成交1.139亿股？",
+   "sentiment": -1
+  },
   {
    "id": "68568d72db1f",
    "title": "英伟达将收购法国在线医疗平台Doctolib的部分股权。 - 手机新浪网",
@@ -78,8 +138,8 @@
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达拟收购Doctolib部分股权",
-   "sentiment": 1,
-   "title_zh": "英伟达将收购法国在线医疗平台Doctolib的部分股权。 - 手机新浪网"
+   "title_zh": "英伟达将收购法国在线医疗平台Doctolib的部分股权。 - 手机新浪网",
+   "sentiment": 1
   },
   {
    "id": "51e8e3cf6dbf",
@@ -1054,6 +1114,26 @@
    "session": "盘前",
    "zh_summary": "DLSS 5性能翻倍，4K显存占用降20%",
    "title_zh": "英伟达新模型令DLSS 5性能翻倍，4K显存占用降低20%",
+   "sentiment": 1
+  },
+  {
+   "id": "e8a2aaf204c4",
+   "title": "NVIDIA DLSS 5 Runs 30% Faster Now, Reduces VRAM Use By 20% & Coming To Hogwarts Legacy & Where Winds Meet In November - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSndNaGF5eUM1SWhGVzhGUElDVXpKajJycHo3LVdVOWF3aUl4cXpqeUR0bFNoeGVXWVI5S1pST1pPZjVhckw5M3c5aEdOOE85ellUZmwycF9MTXdEdXR5YkZyMTNuRWFfc1BoeGdqWWhkX2hVMzg2STNURE85UUhJenI3LUFBRU9nZndOS1doMno3MEVJZVh0ZHZwRmxXVFRtU09SZEl2S2lidFHSAbABQVVfeXFMT0dsYzNLakZKLWFfLVFxcWFFTVhpZjZZRGV4S1kxMGRNMlRRNFgzN0Z3bk0td3BqNHNNamhsWGxnam12TWMtdlR1TGpRT29GNUx4ck5CYkFsb05vWXZNTEdmRVRfQzVWbEs1S09VNlNPbEs4Ylh4S1ZsanZCUG1WVE9yTzhmZlVfeEhNVlVtMEZpUk01MXlGQmJLSDhJUmNVSjk2YzMxSTd6ZWZJY3RNT2U",
+   "source": "Wccftech",
+   "published_at": "2026-10-13T12:44:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-13T12:44:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSndNaGF5eUM1SWhGVzhGUElDVXpKajJycHo3LVdVOWF3aUl4cXpqeUR0bFNoeGVXWVI5S1pST1pPZjVhckw5M3c5aEdOOE85ellUZmwycF9MTXdEdXR5YkZyMTNuRWFfc1BoeGdqWWhkX2hVMzg2STNURE85UUhJenI3LUFBRU9nZndOS1doMno3MEVJZVh0ZHZwRmxXVFRtU09SZEl2S2lidFHSAbABQVVfeXFMT0dsYzNLakZKLWFfLVFxcWFFTVhpZjZZRGV4S1kxMGRNMlRRNFgzN0Z3bk0td3BqNHNNamhsWGxnam12TWMtdlR1TGpRT29GNUx4ck5CYkFsb05vWXZNTEdmRVRfQzVWbEs1S09VNlNPbEs4Ylh4S1ZsanZCUG1WVE9yTzhmZlVfeEhNVlVtMEZpUk01MXlGQmJLSDhJUmNVSjk2YzMxSTd6ZWZJY3RNT2U"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "DLSS 5提速30%降显存20%，11月上线新作",
+   "title_zh": "DLSS 5提速30%、显存占用降20%，11月登陆霍格沃茨之遗等游戏",
    "sentiment": 1
   },
   {
@@ -3801,8 +3881,8 @@
    "category": "其他",
    "session": "盘后",
    "zh_summary": "英伟达拟在欧洲投资20亿美元AI",
-   "sentiment": 1,
-   "title_zh": "英伟达计划本周宣布在欧洲进行20亿美元的AI相关投资 - 东方财富"
+   "title_zh": "英伟达计划本周宣布在欧洲进行20亿美元的AI相关投资 - 东方财富",
+   "sentiment": 1
   },
   {
    "id": "7c95a0e80d27",
@@ -6531,86 +6611,6 @@
    "zh_summary": "股价在225美元支撑位附近徘徊",
    "title_zh": "英伟达在225美元支撑位附近震荡，动能减弱",
    "sentiment": -1
-  },
-  {
-   "id": "a37f28b1be2d",
-   "title": "Microsoft challenges Nvidia with new Maia 300 AI chip promising 40% greater efficiency - Ynetnews",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TaW9GR0FyMklyc3piSVNLNDRRcEZ5M09yaXpaR3EzV05aUlZoRXEzQ2Q2X3I1bTBDZUg1NDJtaFE5RkNScl9XMG40cHFGRWZaakVJX3ozZzRZV3YzQ0R2MGR0b3FmZUw3bl9veA",
-   "source": "Ynetnews",
-   "published_at": "2026-10-12T14:08:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Ynetnews",
-     "published_at": "2026-10-12T14:08:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TaW9GR0FyMklyc3piSVNLNDRRcEZ5M09yaXpaR3EzV05aUlZoRXEzQ2Q2X3I1bTBDZUg1NDJtaFE5RkNScl9XMG40cHFGRWZaakVJX3ozZzRZV3YzQ0R2MGR0b3FmZUw3bl9veA"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "微软推出Maia 300芯片，效率提升40%",
-   "title_zh": "微软发布新款Maia 300 AI芯片，效率提升40%",
-   "sentiment": -1
-  },
-  {
-   "id": "4c78f9111a29",
-   "title": "Welcome to the Nvidia RTX Spark Era ⭐ - Thurrott.com",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1NaRlcwclNwQnk4UjBycmptVWxrQ05tcE0xZ2dFa3daYkhDbUoxQnB4U1h6U0lxRFp3X0RNRzAwZFhPb2FSUFB3NGlUaS1iUXFfNkUwYW9oUWxObXJ1ME54ZXRkU09kckRVVnZWYzZfcl9oc2xNbHF5c2FMeVVMaA",
-   "source": "Thurrott.com",
-   "published_at": "2026-10-12T13:51:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Thurrott.com",
-     "published_at": "2026-10-12T13:51:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1NaRlcwclNwQnk4UjBycmptVWxrQ05tcE0xZ2dFa3daYkhDbUoxQnB4U1h6U0lxRFp3X0RNRzAwZFhPb2FSUFB3NGlUaS1iUXFfNkUwYW9oUWxObXJ1ME54ZXRkU09kckRVVnZWYzZfcl9oc2xNbHF5c2FMeVVMaA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Thurrott：迎来RTX Spark时代",
-   "title_zh": "欢迎来到英伟达 RTX Spark 时代",
-   "sentiment": 1
-  },
-  {
-   "id": "c54a47defdb4",
-   "title": "Nvidia's AI-driven growth fuels a $5.5T valuati... - Pluang",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeU5yMzROeFJwYXpUSWlSaWNiUkZaeHNwUWo0MFZGbE5wYVg5TmlseFBMSV84RDdWUEkwS1hIVE95SkYwUndLaDIxNW1tX0FXbHBJeUtDMGFIUEd6RG1aZ0JvUnB4Z2NycEZCX0JUaUpwZHhadzU0Rl82N2JRYlVKWVRhV0d1U2xRZXZNbjVkVDZLRG1qYmliT1VNYw",
-   "source": "Pluang",
-   "published_at": "2026-10-12T13:51:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Pluang",
-     "published_at": "2026-10-12T13:51:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeU5yMzROeFJwYXpUSWlSaWNiUkZaeHNwUWo0MFZGbE5wYVg5TmlseFBMSV84RDdWUEkwS1hIVE95SkYwUndLaDIxNW1tX0FXbHBJeUtDMGFIUEd6RG1aZ0JvUnB4Z2NycEZCX0JUaUpwZHhadzU0Rl82N2JRYlVKWVRhV0d1U2xRZXZNbjVkVDZLRG1qYmliT1VNYw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达AI增长推动市值达5.5万亿美元",
-   "title_zh": "英伟达AI增长助市值达5.5万亿美元",
-   "sentiment": 1
-  },
-  {
-   "id": "faaebd6652d9",
-   "title": "Anthropic’s CEO Has 1 Direct Report. Nvidia’s Jensen Huang Has 60. I’ve Tried Both. Here’s Which One Founders Should Copy - Inc.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmlrZDdrY2NKWTF0SjF2U0ZPcWVYUnpxaHpKX1lTQ0NnckJJSE9rdVp3a1IwRlZMVEpNUVlIZW9KVVQ4ZGNCay1pa29yVlpmZ1JiQkJ2b093eWVvU2JEYjZWQXpabl9BYlJrT1JwV2xHc2ZKcVpfOFVwWkhNcGhBTlNGVHRvSEl1bTJSY2p6bmxGZ1NxdUZpeGk4bGY0WExLa3psckJIVEk",
-   "source": "Inc.com",
-   "published_at": "2026-10-12T13:45:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Inc.com",
-     "published_at": "2026-10-12T13:45:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmlrZDdrY2NKWTF0SjF2U0ZPcWVYUnpxaHpKX1lTQ0NnckJJSE9rdVp3a1IwRlZMVEpNUVlIZW9KVVQ4ZGNCay1pa29yVlpmZ1JiQkJ2b093eWVvU2JEYjZWQXpabl9BYlJrT1JwV2xHc2ZKcVpfOFVwWkhNcGhBTlNGVHRvSEl1bTJSY2p6bmxGZ1NxdUZpeGk4bGY0WExLa3psckJIVEk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋直接下属60人管理风格引讨论",
-   "title_zh": "黄仁勋有60位直接下属，创始人该学谁",
-   "sentiment": 0
   }
  ]
 }
