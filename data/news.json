@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T05:21:27.269634+00:00",
+ "updated_at": "2026-10-13T05:36:29.662674+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,12 +10,12 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": -0.5,
-   "count": 2
+   "avg": -0.2,
+   "count": 5
   },
   "daily_signal": {
-   "verdict": "偏空",
-   "score": -2,
+   "verdict": "中性",
+   "score": -1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": -1,
-     "note": "今日新闻情绪 -0.50（2条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 -0.20（5条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T05:21:27.244731+00:00"
+   "as_of": "2026-10-13T05:36:29.643576+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "283ef39fddf5",
+   "title": "​Nvidia to Invest $1 Billion in U.S. Superintelligence Infrastructure - www.thelec.net",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HVEVEc2IyZVlVRlVfRXFFemdFSmJwUVE1Q002aVdUODJJOTlGc0tmT18xWlR2aGtSZVoyOHJIZWN0RzE1djh3bkZzZUpGWjhBa2ZQUV8taTVXSUUyWjFKTTk2UVZMWnc",
+   "source": "www.thelec.net",
+   "published_at": "2026-10-13T05:28:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "www.thelec.net",
+     "published_at": "2026-10-13T05:28:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HVEVEc2IyZVlVRlVfRXFFemdFSmJwUVE1Q002aVdUODJJOTlGc0tmT18xWlR2aGtSZVoyOHJIZWN0RzE1djh3bkZzZUpGWjhBa2ZQUV8taTVXSUUyWjFKTTk2UVZMWnc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "eb62f01bee46",
    "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA - NVIDIA Blog",
@@ -6615,26 +6632,6 @@
    "zh_summary": "英伟达280美元公允价值值得买吗",
    "title_zh": "Simply Wall Street：英伟达AI叙事指向280美元公允价值",
    "sentiment": 1
-  },
-  {
-   "id": "b75e80777f9f",
-   "title": "【传言】英伟达停产RTX 5090，旗舰芯片全面转向工作站 - 机核GCORES",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsaXo1X1RfeGVmMzJPa1ZKZlpqdmJpWDI5eXgyVjJNaUhvdl9jT1J2aGFfdFZqci1oNVR0aGVfRlhhYnQ3eU55Ql8tYmY0T3M",
-   "source": "机核GCORES",
-   "published_at": "2026-10-11T15:59:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "机核GCORES",
-     "published_at": "2026-10-11T15:59:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsaXo1X1RfeGVmMzJPa1ZKZlpqdmJpWDI5eXgyVjJNaUhvdl9jT1J2aGFfdFZqci1oNVR0aGVfRlhhYnQ3eU55Ql8tYmY0T3M"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "传言英伟达停产RTX 5090转向工作站",
-   "title_zh": "【传言】英伟达停产RTX 5090，旗舰芯片全面转向工作站 - 机核GCORES",
-   "sentiment": 0
   }
  ]
 }
