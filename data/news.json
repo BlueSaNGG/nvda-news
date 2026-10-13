@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-12T23:51:31.960429+00:00",
+ "updated_at": "2026-10-13T00:06:35.253556+00:00",
  "market": {
-  "price": 226.32,
-  "change_pct": -1.29,
+  "price": 229.28,
+  "change_pct": -0.52,
   "as_of": "2026-10-12",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,32 +10,32 @@
    "days_left": 36
   },
   "day_sentiment": {
-   "avg": 0.15,
-   "count": 186
+   "avg": 0.16,
+   "count": 187
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": -1,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 83% 分位（偏高）"
+     "note": "现价处于52周区间 87% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +37.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（186条已评分）"
+     "note": "今日新闻情绪 +0.16（187条已评分）"
     },
     {
      "key": "动量",
-     "score": -1,
-     "note": "现价 $226.32 vs 20日均线 $227.50"
+     "score": 1,
+     "note": "现价 $229.28 vs 20日均线 $226.73"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 83,
+   "price_52w_pct": 87,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.2,
-   "ma20": 227.5,
-   "as_of": "2026-10-12T23:51:31.949590+00:00"
+   "implied_upside_pct": 37.4,
+   "ma20": 226.73,
+   "as_of": "2026-10-13T00:06:35.238646+00:00"
   },
-  "pe_ttm": 28.8,
-  "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.2%空间：估值偏低，预期乐观"
+  "pe_ttm": 29.1,
+  "pe_pct_5y": 27,
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "93935ee79aa1",
+   "title": "10月13日早餐 | 英伟达推出新型可插拔光模块外形规格；Meta发布个人智能体模型 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3Npa3pxWmdFbWs2MDAxN0JzZGFVWVVCSU1QeHlBQmhvcEJVRUFkdHlRN3lHTzMyWGtMMXBhMXM1R01Mejh6TTBVUzhJWGpyNWlvYnctRVluVU9udUVIOVpKZHMzMmk3LVh3SGRHTEFrRUZlX25LZHV0SEJobW05NWxfd0Mwd190",
+   "source": "搜狐",
+   "published_at": "2026-10-12T23:53:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-12T23:53:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3Npa3pxWmdFbWs2MDAxN0JzZGFVWVVCSU1QeHlBQmhvcEJVRUFkdHlRN3lHTzMyWGtMMXBhMXM1R01Mejh6TTBVUzhJWGpyNWlvYnctRVluVU9udUVIOVpKZHMzMmk3LVh3SGRHTEFrRUZlX25LZHV0SEJobW05NWxfd0Mwd190"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "8f1bad4b3684",
+   "title": "英伟达RTX Spark全球巡展官宣：北京等6城将开启体验 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZHp1cXY4THN0ZVN2LXdYNTNsX0FUelJvUmFPYjNKLXNtdWJfQUpMQTRKS1dlVzdJNlhVRGk3QllYbGNNSlFaSFEwbUhqdXVkSnJpdnVGZHhhcDk4WkNLcUxwMG1lZjJMYzlta19Qd1p0eC16ZkZvU0t0VWdtejg1M21wMzgxYm5F",
+   "source": "搜狐",
+   "published_at": "2026-10-12T23:38:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-12T23:38:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZHp1cXY4THN0ZVN2LXdYNTNsX0FUelJvUmFPYjNKLXNtdWJfQUpMQTRKS1dlVzdJNlhVRGk3QllYbGNNSlFaSFEwbUhqdXVkSnJpdnVGZHhhcDk4WkNLcUxwMG1lZjJMYzlta19Qd1p0eC16ZkZvU0t0VWdtejg1M21wMzgxYm5F"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "f8b212195ce9",
    "title": "谷歌与Meta在OCP大会采用英伟达网络设备，最大竞争对手转为合作伙伴 - Cryptopolitan",
@@ -4323,7 +4357,7 @@
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhbW9tSTA5MVhGRGxNSVFJOFVmUkxxSzBCbzB3MkkybjVIQUlEVFRQYlIxa3pESllCV0pmQW11ZzFaamEyYmc",
    "source": "财联社电报",
    "published_at": "2026-10-12T02:52:00+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "财联社电报",
@@ -4344,6 +4378,11 @@
      "name": "凤凰网",
      "published_at": "2026-10-12T23:29:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80SnE2Y192V1FXbTh6em9lQU5WQXJlUGNGLXg5U2pUdWJlZ21mRkdHeDhJVkVDZThrV2g3RkpYNUtTczJRUGloN2FMd0ZfVERY"
+    },
+    {
+     "name": "财联社",
+     "published_at": "2026-10-12T17:56:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TdnZ0eU1WVWRTdGg4OXpwVllrYktuejNGSHlkM2lRX0FWdE9WeUdJaG44QzZqYXFjUFdIUHBQSV9uVEtQVEttcw"
     }
    ],
    "category": "其他",
@@ -6541,51 +6580,6 @@
    "session": "周末",
    "zh_summary": "天阳科技披露2万张英伟达专业卡采购协议",
    "title_zh": "天阳科技披露2万张英伟达RTX PRO 5500采购协议",
-   "sentiment": 1
-  },
-  {
-   "id": "ea3df6817f8a",
-   "title": "多个展会和论坛将举办，英伟达、华为、百度、宇树科技等50余家国内外行业龙头集中亮相 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXcwQjF1bzkzLWtRVTQxaGFjSmlISzNLTXlERkJWUExHaVVfMzUxT18xSzJfX3Z3ZXF0S05RdVdFQnlBYkVhbUdiRmtvOE1tNGl5WUEzT1IyRDZpeGhDd3BCQk5RUnQ5ZTdFckF0NEdKaGJ4M1VtYzB3ODJGSm5XMnZmdG81YXBkS210Wg",
-   "source": "搜狐",
-   "published_at": "2026-10-11T09:44:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-11T09:44:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXcwQjF1bzkzLWtRVTQxaGFjSmlISzNLTXlERkJWUExHaVVfMzUxT18xSzJfX3Z3ZXF0S05RdVdFQnlBYkVhbUdiRmtvOE1tNGl5WUEzT1IyRDZpeGhDd3BCQk5RUnQ5ZTdFckF0NEdKaGJ4M1VtYzB3ODJGSm5XMnZmdG81YXBkS210Wg"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-11T09:44:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXcwQjF1bzkzLWtRVTQxaGFjSmlISzNLTXlERkJWUExHaVVfMzUxT18xSzJfX3Z3ZXF0S05RdVdFQnlBYkVhbUdiRmtvOE1tNGl5WUEzT1IyRDZpeGhDd3BCQk5RUnQ5ZTdFckF0NEdKaGJ4M1VtYzB3ODJGSm5XMnZmdG81YXBkS210Wg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "50余家龙头企业将集中亮相展会",
-   "title_zh": "多个展会和论坛将举办，英伟达、华为、百度、宇树科技等50余家国内外行业龙头集中亮相 - 搜狐",
-   "sentiment": 0
-  },
-  {
-   "id": "764634e7729d",
-   "title": "Element Capital Management LLC Purchases 32,890 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSm5zOXMyZUtkNFZ0T2l4ZXQ1YTNtemJBUDFaek04WEs4NjVJWTc0LW8wdnlMQWNUSlFUZEFUUWFtUXVTeUh0X09XanA5Q0pFc2lQWXJuWTh4LUIwd2pyQzlyN1RQNlZOS2thZXNQbGVRc0RLZGRDcG5mUmttaWJUbFBSWVZYcmozSE1taVpjNk5nQi1YZV9yaF9uam9kcFNEampLUUtQcWZkdW90UEdLOTlYcFRHSzJ0dXdHeVhVMnVjMUNuZHp4ZHZRWUtobFd1empRc0pQN2Q",
-   "source": "MarketBeat",
-   "published_at": "2026-10-11T09:43:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-11T09:43:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSm5zOXMyZUtkNFZ0T2l4ZXQ1YTNtemJBUDFaek04WEs4NjVJWTc0LW8wdnlMQWNUSlFUZEFUUWFtUXVTeUh0X09XanA5Q0pFc2lQWXJuWTh4LUIwd2pyQzlyN1RQNlZOS2thZXNQbGVRc0RLZGRDcG5mUmttaWJUbFBSWVZYcmozSE1taVpjNk5nQi1YZV9yaF9uam9kcFNEampLUUtQcWZkdW90UEdLOTlYcFRHSzJ0dXdHeVhVMnVjMUNuZHp4ZHZRWUtobFd1empRc0pQN2Q"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Element Capital买入32890股",
-   "title_zh": "Element Capital买入32890股英伟达股票",
    "sentiment": 1
   }
  ]
