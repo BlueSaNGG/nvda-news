@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T10:51:28.791328+00:00",
+ "updated_at": "2026-10-13T11:06:33.284569+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": -0.05,
-   "count": 55
+   "avg": -0.04,
+   "count": 56
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.05（55条已评分）"
+     "note": "今日新闻情绪 -0.04（56条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-13T10:51:28.780342+00:00"
+   "as_of": "2026-10-13T11:06:33.270788+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -62,12 +62,29 @@
  },
  "stories": [
   {
+   "id": "ae608c762993",
+   "title": "静默间谍、炽热信贷，以及3倍标准差的英伟达看跌/看涨期权价差 | 期权市场统计 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTU40X1ZDUkUyQi1jRWRvZjd1SzNTTU1oeWxKRlhNSDJ4SWtsV3psVExENUJBeGdVd1M4c2RkMjljcGJZVnZwcHk3ZzBMdEtSaDBpMjAyWnZBVmtESWV4cmZOYzNjaTBFTTRBVDBsR005cEItc3ZteWVDUGYwamFzWlFpMmw1am9GQmhOeF9TUGdRUHkwVU5yd2FsOXRuRTRMSzNkQ1V1Z1VLWExoZEE",
+   "source": "Moomoo",
+   "published_at": "2026-10-13T10:51:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-13T10:51:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTU40X1ZDUkUyQi1jRWRvZjd1SzNTTU1oeWxKRlhNSDJ4SWtsV3psVExENUJBeGdVd1M4c2RkMjljcGJZVnZwcHk3ZzBMdEtSaDBpMjAyWnZBVmtESWV4cmZOYzNjaTBFTTRBVDBsR005cEItc3ZteWVDUGYwamFzWlFpMmw1am9GQmhOeF9TUGdRUHkwVU5yd2FsOXRuRTRMSzNkQ1V1Z1VLWExoZEE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "5dcd1ac4b163",
    "title": "删除“到货8000张英伟达GPU”相关文章，软通动力回应 - 第一财经",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPOVBtNnhqNko1amFEX0p0dmVSY1c5bmdTUVhwcHBDNXBldTlWY1ZNcll3R0pRN2VJRnJlZFFUWjhUS2tUMmVQb211VkJSRVdTTEZR",
    "source": "第一财经",
    "published_at": "2026-10-13T10:33:06+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "第一财经",
@@ -83,10 +100,16 @@
      "name": "币界网",
      "published_at": "2026-10-13T10:43:52+00:00",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44NzJiSHFwUDJlT2VWMnd0ZG5RY1JQMDBTOXNKblJ6Q2RiNmNIVVlTcTZEUmFZRE9QSjlCbTJGNUJ5akdpVUFOdmtnT00zQndlbnpB"
+    },
+    {
+     "name": "观察者网",
+     "published_at": "2026-10-13T10:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HdXZiZjhFZlNmQ2hsS1Q3NkxuZXdsZzRGZXQtMW1UbWFWV1U1dVVEVHhubkFSaWFDamJDUXhhazBJNWhGcXZ5cVJTTnNxVWI1eTBPNGI5V0pnOF92c3d0Y2NGOFU"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "软通动力回应到货8000张GPU报道",
    "title_zh": "删除\"到货8000张英伟达GPU\"相关文章，软通动力回应 - 第一财经",
    "sentiment": -1
@@ -190,6 +213,23 @@
    "zh_summary": "英伟达在华AI芯片份额下滑",
    "title_zh": "英伟达在中国AI数据中心芯片市场份额下滑",
    "sentiment": -1
+  },
+  {
+   "id": "451419206f99",
+   "title": "Microsoft weans itself off Nvidia chips with home-grown alternative - IT Pro",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXVsUUd6RHZxaHZlNjZwWlE0ajNybm83bjVaZzNlbnp5eW1IcktaV0tRYUtYSi1KeXZ6TzN3V0RlSHBCUnVCRXBYVVVmVXE4VGdrMmNIcFNBcWNLMTJvaDFmTmZab0xfNDhqMXU4d0RHUjlvRVVxNldaNGN4Zlkxa0VMckcyWWotdGsxeDJxdDBvOVQ5R1h3Rk4ycmhqOTg",
+   "source": "IT Pro",
+   "published_at": "2026-10-13T10:16:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "IT Pro",
+     "published_at": "2026-10-13T10:16:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXVsUUd6RHZxaHZlNjZwWlE0ajNybm83bjVaZzNlbnp5eW1IcktaV0tRYUtYSi1KeXZ6TzN3V0RlSHBCUnVCRXBYVVVmVXE4VGdrMmNIcFNBcWNLMTJvaDFmTmZab0xfNDhqMXU4d0RHUjlvRVVxNldaNGN4Zlkxa0VMckcyWWotdGsxeDJxdDBvOVQ5R1h3Rk4ycmhqOTg"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "f9d530fcbf10",
@@ -6542,46 +6582,6 @@
    "zh_summary": "RTX 5090被曝即将停产",
    "title_zh": "英伟达旗舰游戏显卡RTX 5090被曝即将停产 - 搜狐",
    "sentiment": 0
-  },
-  {
-   "id": "60ac930fb5cb",
-   "title": "华尔街日报警示英伟达自由现金流风险：424亿美元战略投资或使自由现金流减半 - 虎嗅网",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBMklwcEI5T1p1bU5tQi1SaW1rTm52SjQ0NGo0VTJUQ2cwZDFwRjhaSzdvMkVCRDdIdWU4MW5TbUNNeW1PS1A5SkdoM1dWT05wSW5DVA",
-   "source": "虎嗅网",
-   "published_at": "2026-10-12T03:22:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "虎嗅网",
-     "published_at": "2026-10-12T03:22:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBMklwcEI5T1p1bU5tQi1SaW1rTm52SjQ0NGo0VTJUQ2cwZDFwRjhaSzdvMkVCRDdIdWU4MW5TbUNNeW1PS1A5SkdoM1dWT05wSW5DVA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "WSJ警示英伟达自由现金流风险",
-   "title_zh": "华尔街日报警示英伟达自由现金流风险：424亿美元战略投资或使自由现金流减半 - 虎嗅网",
-   "sentiment": -1
-  },
-  {
-   "id": "213c3ecab319",
-   "title": "英伟达RTX 5090被曝停产传闻背后：同颗GB202芯片卖专业卡利润数倍于游戏卡 - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zdVVQYmlVMGQtQmxpZjdOSkd4bmJTb19oUXJ2WTUtRmU2MnBPeU10RmhfOWpQVzI3b2xvRXdHaVQ5UzhmVWVLeGhFdzFEVjRBcFdOSDJ0XzkxN01r",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-12T03:12:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-12T03:12:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zdVVQYmlVMGQtQmxpZjdOSkd4bmJTb19oUXJ2WTUtRmU2MnBPeU10RmhfOWpQVzI3b2xvRXdHaVQ5UzhmVWVLeGhFdzFEVjRBcFdOSDJ0XzkxN01r"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "RTX 5090停产传闻：芯片转供专业卡利润更高",
-   "title_zh": "英伟达RTX 5090被曝停产传闻背后：同颗GB202芯片卖专业卡利润数倍于游戏卡 - 电子工程专辑",
-   "sentiment": 1
   }
  ]
 }
