@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T06:21:27.273532+00:00",
+ "updated_at": "2026-10-14T06:36:32.069644+00:00",
  "market": {
   "price": 228.52,
   "change_pct": 0.97,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 1.0,
-   "count": 3
+   "count": 11
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.00（3条已评分）"
+     "note": "今日新闻情绪 +1.00（11条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.8,
    "ma20": 228.32,
-   "as_of": "2026-10-14T06:21:27.252335+00:00"
+   "as_of": "2026-10-14T06:36:32.060287+00:00"
   },
   "pe_ttm": 29.0,
   "pe_pct_5y": 27,
@@ -61,6 +61,50 @@
   }
  },
  "stories": [
+  {
+   "id": "452ebea3b433",
+   "title": "LSEG teams up with NVIDIA for faster market data processing - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYy1XWU5PM1RfaklzejU4RG1OOEV6YTkyTms1aGNfbTFiSXJmNkdTbkpSeWo2VElLV2ZCMVlta29aSWlGMHR5c3QyQV9hS0xSaDZCUjZxaU1QeGtaNHgwd0l2Nm9tR2ZaaFBRdFd4TF9Jb0lHdnR2eXI4ZzVjaGhDMDRUU0ZPcVdVb2Q1TlpqT2YxaDdoYjVScFZNVVg1YVdkWkE",
+   "source": "Reuters",
+   "published_at": "2026-10-14T06:21:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-14T06:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYy1XWU5PM1RfaklzejU4RG1OOEV6YTkyTms1aGNfbTFiSXJmNkdTbkpSeWo2VElLV2ZCMVlta29aSWlGMHR5c3QyQV9hS0xSaDZCUjZxaU1QeGtaNHgwd0l2Nm9tR2ZaaFBRdFd4TF9Jb0lHdnR2eXI4ZzVjaGhDMDRUU0ZPcVdVb2Q1TlpqT2YxaDdoYjVScFZNVVg1YVdkWkE"
+    },
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-14T06:27:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFcwZV9xUVk1VTNFdDJacXRUalhwMVBzSzV5ZzFITXFvUzc4QTRmMW80alY2d19VY1ZfSmljbWI0YlR3UHZMYjZMYmxXWVZTYk9VbVBVSjFHXzhsUi1LQnZ3Z19GT1BzdDlzdkZoaFVVMVBiU0U5QkZ1eWtmQlh5bmdIa291OW1VY2VJU3laTk5teU9HQzFPWlBJalhTYzlYVVF4YmRpSEV0YmpnWUFTbjhEYlRjcjg"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
+   "id": "cfc3a8e11499",
+   "title": "Nvidia pledges $250 million to boost UK AI safety research - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1pFUmU1TjNGdW44THRFdlVLU285bHh3azlnTGNFWEJqcnF3T0lzc0pRWi1aTnZOeXlJY1VrbXBXSUxFNTdlS3NCYkptd0ZFb283c1NRc2dLRk9zcEJXenlrV3Q0UVhYTFQ4b1lnVTdLUzFrejJLMFpBcUhLVTRlZC13ZUNXZXk1RU5yWkVEd3M2RWVFUkJlOTlvQVBwRlJRR3dN",
+   "source": "Reuters",
+   "published_at": "2026-10-14T06:19:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-14T06:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1pFUmU1TjNGdW44THRFdlVLU285bHh3azlnTGNFWEJqcnF3T0lzc0pRWi1aTnZOeXlJY1VrbXBXSUxFNTdlS3NCYkptd0ZFb283c1NRc2dLRk9zcEJXenlrV3Q0UVhYTFQ4b1lnVTdLUzFrejJLMFpBcUhLVTRlZC13ZUNXZXk1RU5yWkVEd3M2RWVFUkJlOTlvQVBwRlJRR3dN"
+    },
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-14T06:27:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa3BHc2kyXzYzSDJhZ1NRS0pIWXZuV2tPTFN3MHljUHVPaENXZThLQ0xmLVdSdE1rR1hBaTVUMTFZQlZYdG5QanZCX20ybTIwNG55RzFMLXdYZjVyTFhPbUhmX09OTkRJbWh1d1hNcmtvMHY5MkowTW45ZllOSUxYM2N0YmxaNWUtYU42VC0zN0tOZG9xZWJLOHFTOTEwekJpeVNuVXYzNEVCSjlMNllGc2dKVW0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "808b81051efc",
    "title": "NVIDIA Details AI Agent Deployments for City Operations Across EMEA - Unite.AI",
@@ -257,6 +301,23 @@
    "sentiment": 1
   },
   {
+   "id": "021e32572961",
+   "title": "LSEG Accelerates Tick History Analysis With NVIDIA - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkJ3QUZsMVlpMy1WekJzM1pETkF5TWY2WGhja1VkdWt3X3IwZzV5TFA3amVOXzFGN1RNVXlMYV9ZRTZ0S0JnSFIzVl9sNmpsSDhsNU5lQWc2c2l5ZElxSHhoY1piSGxGdnRRTDZmRWEwcE1mX0RmUlB1QVhTUDRJU3JNc21fNEdzdW1EalBfM2Q2dkYwWURaOVhDYmhSODBH",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-14T06:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-14T06:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkJ3QUZsMVlpMy1WekJzM1pETkF5TWY2WGhja1VkdWt3X3IwZzV5TFA3amVOXzFGN1RNVXlMYV9ZRTZ0S0JnSFIzVl9sNmpsSDhsNU5lQWc2c2l5ZElxSHhoY1piSGxGdnRRTDZmRWEwcE1mX0RmUlB1QVhTUDRJU3JNc21fNEdzdW1EalBfM2Q2dkYwWURaOVhDYmhSODBH"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "8d45aee241ad",
    "title": "英伟达发布全新帧生成模型预设C 游戏性能最高提升35% - cnBeta.COM",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wRllJblZrcmVEd0YwZDNlUmN0WmR3RnMySzREREpjM09jZE1LdEtmV0FnSkx4V25TaVFrMmNwNkg4SDZwY3EyX1RfZEhLYTBsYTRPMC01YXVxUVpEdkxleg",
@@ -375,6 +436,23 @@
    "zh_summary": "DLSS5新模型本周更新，速度达3月公布时10倍",
    "title_zh": "英伟达DLSS5新模型本周更新 运行速度达3月首次公布时10倍 - 观点网",
    "sentiment": 1
+  },
+  {
+   "id": "6d0424355817",
+   "title": "从苹果到英伟达：东山精密为什么非去香港不可 - 凤凰网财经",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Xa3o3OG94Rl93RUJuNGxlQk9BZjAwT2JEWTBOY3RNYmlUci14Z2VkQkl1NzdjMHBMTS1GaTA3YmhHZzFySEt2ODVSUVRCb2p3",
+   "source": "凤凰网财经",
+   "published_at": "2026-10-14T02:49:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网财经",
+     "published_at": "2026-10-14T02:49:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Xa3o3OG94Rl93RUJuNGxlQk9BZjAwT2JEWTBOY3RNYmlUci14Z2VkQkl1NzdjMHBMTS1GaTA3YmhHZzFySEt2ODVSUVRCb2p3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "67d91fa3dc72",
@@ -740,6 +818,23 @@
    "zh_summary": "此芯科技推桌面级AI超算AGX Station",
    "title_zh": "对标英伟达DGX Spark！此芯科技推桌面级AI超算AGX Station - 驱动之家",
    "sentiment": -1
+  },
+  {
+   "id": "d692ce123ca8",
+   "title": "Watch Ark's Wood Favors Nvidia, AMD in 'Volatile' Chip Cycle - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnQ2TkVWSXAyMmR3cEVpT255VkJyU0F4bk0tT1RCY25yRnlGY096bWczTUtTRjJLcjBkV2pIWUlxT0E2ZlFsbXR6Q1Q4b0ZoMFdUbDREaGZwQWl0cGFvZXRhOV9mdzVELWxYTTd1SXdCbFpwSW53R1pnQlBaNzBEYTdnVWdjQWk4WW9Bd3F5S0V1OFB4SWE3Z3NmMEVaeFlZQWw4enVoZ1Nfdw",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-14T00:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-14T00:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnQ2TkVWSXAyMmR3cEVpT255VkJyU0F4bk0tT1RCY25yRnlGY096bWczTUtTRjJLcjBkV2pIWUlxT0E2ZlFsbXR6Q1Q4b0ZoMFdUbDREaGZwQWl0cGFvZXRhOV9mdzVELWxYTTd1SXdCbFpwSW53R1pnQlBaNzBEYTdnVWdjQWk4WW9Bd3F5S0V1OFB4SWE3Z3NmMEVaeFlZQWw4enVoZ1Nfdw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "76e0f60dc25a",
@@ -6628,106 +6723,6 @@
    "zh_summary": "英伟达或停产RTX 5090，优先AI硬件",
    "title_zh": "传英伟达将停产RTX 5090显卡，优先保障AI硬件 - Diario AS",
    "sentiment": 1
-  },
-  {
-   "id": "ac223386c41a",
-   "title": "Your Nvidia RTX GPU Won't Get New Windows 10 Drivers Anymore - Here's Why - BGR",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXc1ExX2F5dXhUR3VFNE40WG5Xa2pIRWhrM3paWTltZElkVlJxMzFSSnlPbjFVZEJ2WE9uLWltRHVidUtEdi1uZVRtQmJpWVJKYnplNHhpeng5dEtyWEJfLTJzZEE1YXNRNHZFTGFfWWUxd0FBYVBhUFRn",
-   "source": "BGR",
-   "published_at": "2026-10-12T22:17:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BGR",
-     "published_at": "2026-10-12T22:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXc1ExX2F5dXhUR3VFNE40WG5Xa2pIRWhrM3paWTltZElkVlJxMzFSSnlPbjFVZEJ2WE9uLWltRHVidUtEdi1uZVRtQmJpWVJKYnplNHhpeng5dEtyWEJfLTJzZEE1YXNRNHZFTGFfWWUxd0FBYVBhUFRn"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "英伟达RTX显卡停止更新Win10驱动",
-   "title_zh": "你的Nvidia RTX显卡将不再获得Win10新驱动—原因解析",
-   "sentiment": 0
-  },
-  {
-   "id": "8fdc767fead3",
-   "title": "成交额TOP20 | Meta涨超3%，推出新模型Muse Wonder；英伟达宣布开放Vera Rubin机柜和计算托盘的关键设计 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMEg5dGIydlFBNGFSeFFEQkJuV3JFWGNpYnF1YThNOC00NElwNHRSN2psS3QwcVJrNkpOWGNVRjVYSlFwY1VNSm9QbXY4T3F6UkN4cnhyX05icUlsb2pxUWF0eHBQR2pVMVJLMGt6Z2VHcDNVZzE4aWMzZTJoVEFZbWRQVDJ1OE1CMDdsMHhhMA",
-   "source": "富途牛牛",
-   "published_at": "2026-10-12T22:04:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-12T22:04:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMEg5dGIydlFBNGFSeFFEQkJuV3JFWGNpYnF1YThNOC00NElwNHRSN2psS3QwcVJrNkpOWGNVRjVYSlFwY1VNSm9QbXY4T3F6UkN4cnhyX05icUlsb2pxUWF0eHBQR2pVMVJLMGt6Z2VHcDNVZzE4aWMzZTJoVEFZbWRQVDJ1OE1CMDdsMHhhMA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达开放Vera Rubin机柜设计",
-   "title_zh": "成交额TOP20 | Meta涨超3%，推出新模型Muse Wonder；英伟达宣布开放Vera Rubin机柜和计算托盘的关键设计 - 富途牛牛",
-   "sentiment": 1
-  },
-  {
-   "id": "2319e3bcc97e",
-   "title": "Microsoft's AI chief on whether Maia 300 cuts its Nvidia dependence: 'Competition is good' - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRExCRzJMMWhmSjJ6ay1FaUhYM2tzTmlsVTNreWd2cFZQQlAxUlJST2JEbFNCNG51NU54TUpnX0NFaTVla3k0a0liRlpqWlV3UnRRck1tS2tpTnF2azRQQVdfS0xQMjhzNmU1bkZTLVVGd1RWUHFPdmJVVG1Mdzg5ak1aRFlvb1BHbVNlWlpSSWZFeVBBQzRqeFFoR29Ua18yaVJ2bmpFTXlzMmhmY3dJek5JVEk3akpoMnoyX0lGWE9rcEM0ZVdwYlFFS1QyQQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-12T22:03:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-12T22:03:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRExCRzJMMWhmSjJ6ay1FaUhYM2tzTmlsVTNreWd2cFZQQlAxUlJST2JEbFNCNG51NU54TUpnX0NFaTVla3k0a0liRlpqWlV3UnRRck1tS2tpTnF2azRQQVdfS0xQMjhzNmU1bkZTLVVGd1RWUHFPdmJVVG1Mdzg5ak1aRFlvb1BHbVNlWlpSSWZFeVBBQzRqeFFoR29Ua18yaVJ2bmpFTXlzMmhmY3dJek5JVEk3akpoMnoyX0lGWE9rcEM0ZVdwYlFFS1QyQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "微软AI主管谈Maia 300与英伟达竞争",
-   "title_zh": "微软AI主管谈Maia 300：竞争是好事",
-   "sentiment": -1
-  },
-  {
-   "id": "30722d6412b3",
-   "title": "英伟达股价预测：NVDA股价五连跌，下一个防线在哪？ - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0dCcnJoYXk5dWVVbVoySTZWSXFBYUd2UTRXb2NERkJDOTN0ZkpPWmxVTWl6Nlk1YUotN2NzLXFidDBiZUZ2WmZCaF9ZT3lCWVl6UlY3aTRzVzlfTXcteEVXMVZ0LV9WNkFmd21HNXZJeEhPOWN1ZXd3UWZvc0MtWk5QYUVSYUNYOUFaTlRGSWJfMkhURTB5LUotUEFLcEpZbW9fQ1NIRjY1a0lOLXZJNDNZOFplNzU1UFg0R3p6VzctTVMteThjMzdTNHNVT3NfMWhvcQ",
-   "source": "TradingKey",
-   "published_at": "2026-10-12T22:03:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-12T22:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb0dCcnJoYXk5dWVVbVoySTZWSXFBYUd2UTRXb2NERkJDOTN0ZkpPWmxVTWl6Nlk1YUotN2NzLXFidDBiZUZ2WmZCaF9ZT3lCWVl6UlY3aTRzVzlfTXcteEVXMVZ0LV9WNkFmd21HNXZJeEhPOWN1ZXd3UWZvc0MtWk5QYUVSYUNYOUFaTlRGSWJfMkhURTB5LUotUEFLcEpZbW9fQ1NIRjY1a0lOLXZJNDNZOFplNzU1UFg0R3p6VzctTVMteThjMzdTNHNVT3NfMWhvcQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "NVDA股价五连跌，关注下一个支撑位",
-   "title_zh": "英伟达股价预测：NVDA股价五连跌，下一个防线在哪？",
-   "sentiment": -1
-  },
-  {
-   "id": "eb495e787464",
-   "title": "NVIDIA (NASDAQ:NVDA) Shares Down 1.3% - Here's Why - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3c1S3NsY3hEeEN0enRPbDVXUkZJSWU5dnFmMi1JbDhGV3FuSTNxWTlGcVBOdk5KUDZ2dlNMeUlydXhXa1JLOFUyWDRsVzBqY1YwT05sSDZFYXVuVTFaOWd4SEYzcXV0Z2dEelRpUk5nS1BFamtlWk5abTczZ3psTElmNW5qRUEtQ2k4SFRjNDFJSmc4RzhGN21BWUxISTlncXdETFVR",
-   "source": "MarketBeat",
-   "published_at": "2026-10-12T21:40:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-12T21:40:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3c1S3NsY3hEeEN0enRPbDVXUkZJSWU5dnFmMi1JbDhGV3FuSTNxWTlGcVBOdk5KUDZ2dlNMeUlydXhXa1JLOFUyWDRsVzBqY1YwT05sSDZFYXVuVTFaOWd4SEYzcXV0Z2dEelRpUk5nS1BFamtlWk5abTczZ3psTElmNW5qRUEtQ2k4SFRjNDFJSmc4RzhGN21BWUxISTlncXdETFVR"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘后",
-   "zh_summary": "英伟达股价下跌1.3%",
-   "title_zh": "英伟达(NVDA)股价下跌1.3%：原因分析",
-   "sentiment": -1
   }
  ]
 }
