@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T22:06:33.596503+00:00",
+ "updated_at": "2026-10-14T22:21:36.464552+00:00",
  "market": {
   "price": 221.3,
   "change_pct": -3.16,
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.42,
-   "count": 170
+   "avg": 0.41,
+   "count": 173
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.42（170条已评分）"
+     "note": "今日新闻情绪 +0.41（173条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 42.3,
    "ma20": 228.69,
-   "as_of": "2026-10-14T22:06:33.587128+00:00"
+   "as_of": "2026-10-14T22:21:36.451216+00:00"
   },
   "pe_ttm": 28.1,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "5f84e48e1a1e",
+   "title": "6 Big Intel, AMD And Nvidia AI Data Center Announcements At OCP 2026 - CRN",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXFXSTFqS2F1Y1A2MG9IVlBuSkNSMHRmcEtyRUpEUVhHc3pNU3lyUWpPekJXUlBuV3J2SWhCT0VTaW5rQkF0UTB6OUJmaS1oSHBNZDQtTHU3TVFpME9aWC16dG5OLTRoTXVrTnduVzRaRXJwVHJmWTN1TURsYW11VTJNR1VJQ1pIdVdZbjNNZnRMTGN1QUd2eU1YRTBtNlBSU3JEZEdPRVZmNjBrZ0VsS0tZMUdybzB4eExsMg",
+   "source": "CRN",
+   "published_at": "2026-10-14T22:03:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CRN",
+     "published_at": "2026-10-14T22:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXFXSTFqS2F1Y1A2MG9IVlBuSkNSMHRmcEtyRUpEUVhHc3pNU3lyUWpPekJXUlBuV3J2SWhCT0VTaW5rQkF0UTB6OUJmaS1oSHBNZDQtTHU3TVFpME9aWC16dG5OLTRoTXVrTnduVzRaRXJwVHJmWTN1TURsYW11VTJNR1VJQ1pIdVdZbjNNZnRMTGN1QUd2eU1YRTBtNlBSU3JEZEdPRVZmNjBrZ0VsS0tZMUdybzB4eExsMg"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
   {
    "id": "42f9b00015c1",
    "title": "NVIDIA (NVDA) Shares Drop 3.16% Amid AI Concerns - GuruFocus",
@@ -87,10 +104,15 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14QkNBVlA2c3NhMVR1S0Z3aDlZc1M0VkNrQzdxUl9WODlHU0RaUklNOTdUNXlqa1dKTTlWa1pDc0ZRald5VDhFUDhGaHlxd2lRM0JoTmNnUTRpVHl2RDhHSlpuVVNaLURfRVhlUlVfRUZVY21FSml5QQ",
    "source": "tech-insider.org",
    "published_at": "2026-10-14T21:58:04+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "tech-insider.org",
+     "published_at": "2026-10-14T21:58:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14QkNBVlA2c3NhMVR1S0Z3aDlZc1M0VkNrQzdxUl9WODlHU0RaUklNOTdUNXlqa1dKTTlWa1pDc0ZRald5VDhFUDhGaHlxd2lRM0JoTmNnUTRpVHl2RDhHSlpuVVNaLURfRVhlUlVfRUZVY21FSml5QQ"
+    },
+    {
+     "name": "https://tech-insider.org/",
      "published_at": "2026-10-14T21:58:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14QkNBVlA2c3NhMVR1S0Z3aDlZc1M0VkNrQzdxUl9WODlHU0RaUklNOTdUNXlqa1dKTTlWa1pDc0ZRald5VDhFUDhGaHlxd2lRM0JoTmNnUTRpVHl2RDhHSlpuVVNaLURfRVhlUlVfRUZVY21FSml5QQ"
     }
@@ -140,6 +162,23 @@
    "zh_summary": "英伟达股价下跌3.2%，是否该卖出？",
    "title_zh": "英伟达(NASDAQ:NVDA)股价下跌3.2%——是时候卖出了吗？",
    "sentiment": -1
+  },
+  {
+   "id": "c4bb9d832490",
+   "title": "Daniel Meuser from Pennsylvania’s 9th district makes partial sale of NVIDIA stocks - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUWZNbE5FQWw2c1dPVUo3dUlTN2psTWFZcVMyUElfenkwV3Q3SmM3RkhJcEhfblB5d2tUNFJsclBhMlo2ZkFxcDdiM2JFUUJiWEtWcmVWbjN0UWp5a0I2OXNpTDNqWDJqZXJRY3E2NGROTHJicWVRaUpEdjFJQlI2Tzd2dzA5WHFHMXI0WFNKZXcxOFdWQmFNTk1wTFk4WkVQaGJ5WGZCd2dYYnhRMURnV0FXQjVVX0NQWUo0cGllbjVZaWF0UEJjc2Z0WFJRdXZTRWhsZw",
+   "source": "Investing.com",
+   "published_at": "2026-10-14T21:07:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-14T21:07:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUWZNbE5FQWw2c1dPVUo3dUlTN2psTWFZcVMyUElfenkwV3Q3SmM3RkhJcEhfblB5d2tUNFJsclBhMlo2ZkFxcDdiM2JFUUJiWEtWcmVWbjN0UWp5a0I2OXNpTDNqWDJqZXJRY3E2NGROTHJicWVRaUpEdjFJQlI2Tzd2dzA5WHFHMXI0WFNKZXcxOFdWQmFNTk1wTFk4WkVQaGJ5WGZCd2dYYnhRMURnV0FXQjVVX0NQWUo0cGllbjVZaWF0UEJjc2Z0WFJRdXZTRWhsZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "2b04d618c5a9",
@@ -2826,26 +2865,6 @@
    "zh_summary": "Maxele Advisors新买入NVDA股票",
    "title_zh": "Maxele Advisors新买入英伟达NVDA股票",
    "sentiment": 1
-  },
-  {
-   "id": "c14281e1fda0",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by Glenview Trust Co - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T08:09:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T08:09:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Glenview信托公司减持英伟达股票",
-   "title_zh": "Glenview信托公司卖出英伟达(NVDA)股票",
-   "sentiment": -1
   },
   {
    "id": "329bba1f810b",
@@ -6683,26 +6702,6 @@
    "zh_summary": "出口管制压制英伟达股价持平",
    "title_zh": "美国出口管制致英伟达股价持平",
    "sentiment": -1
-  },
-  {
-   "id": "9301cd37552f",
-   "title": "Nvidia's $4 Trillion 2030 Projection Makes It the Best Buy in the Market - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEZHNkVGY1VVaklyano4RjBiZUhzX1VBbnF2c0RhYXpVTWgyZmE5N3hXUGs1clh5SXhTRE4zeWlkVTVCaXhZd2JlSTRmdGxvREZ4TWdjeklqejlLR1RPd29oMUVKcGxXb2JYOWItLUdZZ2tYbWxKWktINGRTVUFUOFJwTF91RDVVTnN0bUpwcW8yd2NEc2l4Rw",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-13T14:02:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-13T14:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEZHNkVGY1VVaklyano4RjBiZUhzX1VBbnF2c0RhYXpVTWgyZmE5N3hXUGs1clh5SXhTRE4zeWlkVTVCaXhZd2JlSTRmdGxvREZ4TWdjeklqejlLR1RPd29oMUVKcGxXb2JYOWItLUdZZ2tYbWxKWktINGRTVUFUOFJwTF91RDVVTnN0bUpwcW8yd2NEc2l4Rw"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "英伟达2030年4万亿美元预测",
-   "title_zh": "英伟达2030年市值达$4万亿，被看作市场最佳买入选择",
-   "sentiment": 1
   }
  ]
 }
