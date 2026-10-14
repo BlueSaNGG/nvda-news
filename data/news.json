@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T07:06:31.573726+00:00",
+ "updated_at": "2026-10-14T07:21:32.340414+00:00",
  "market": {
   "price": 228.52,
   "change_pct": 0.97,
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.93,
-   "count": 15
+   "avg": 0.84,
+   "count": 19
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.93（15条已评分）"
+     "note": "今日新闻情绪 +0.84（19条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.8,
    "ma20": 228.32,
-   "as_of": "2026-10-14T07:06:31.562198+00:00"
+   "as_of": "2026-10-14T07:21:32.325495+00:00"
   },
   "pe_ttm": 29.0,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ecbe13908c53",
+   "title": "Nvidia Commits $250M to UK AI Safety Research, Bolstering NVDA's Strategic Position - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1VQUkxtRmJ4XzREZnJraEtueWRqdmQ5dTU3VUVJT2FNVWhFOS1jbWtFUjZzR2hBZFVXUnlyRnA2dWV4bC1vb2wySlhsUVlQZDUyVmRwd2hWUEM4b0V2THdOcFZEVzlRUVktYU1ENjFKYjhmclZ5NjlBTWlyQ0lhOW5vdWVtcTFPYm5CbElqUWlteWtYOUhodHAtcXhxVnVYZmN0MmFqMC1KcUZtMXcyV1NmWmVSQnh6a19B",
+   "source": "GuruFocus",
+   "published_at": "2026-10-14T07:12:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-14T07:12:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX1VQUkxtRmJ4XzREZnJraEtueWRqdmQ5dTU3VUVJT2FNVWhFOS1jbWtFUjZzR2hBZFVXUnlyRnA2dWV4bC1vb2wySlhsUVlQZDUyVmRwd2hWUEM4b0V2THdOcFZEVzlRUVktYU1ENjFKYjhmclZ5NjlBTWlyQ0lhOW5vdWVtcTFPYm5CbElqUWlteWtYOUhodHAtcXhxVnVYZmN0MmFqMC1KcUZtMXcyV1NmWmVSQnh6a19B"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "a699d480753d",
    "title": "Where Winds Meet to Support NVIDIA DLSS 5 in Late November - Inven Global",
@@ -122,12 +139,29 @@
    "sentiment": 0
   },
   {
+   "id": "4d729248b187",
+   "title": "Danaher and NVIDIA Partner to Integrate AI Into Scientific Instruments - Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMUNHdVpMT2FXb1dyT1FlQXlmSkM3ZGJuWEE3OU94a1Jma1NkQnZidGZoQW9TaDR3U2lnLTBYTFVGVk5WMHptSk5oYWdNWmQyM0RRRlhMRENLYk05ZEhsYjF2b3pBUzRzeVBPMjZXRjltdzhyZlJtanhLOFQySDFUaEN3Q204VzRodlBmdlo0dmd2eGpyNmI4",
+   "source": "Unite.AI",
+   "published_at": "2026-10-14T06:25:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Unite.AI",
+     "published_at": "2026-10-14T06:25:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMUNHdVpMT2FXb1dyT1FlQXlmSkM3ZGJuWEE3OU94a1Jma1NkQnZidGZoQW9TaDR3U2lnLTBYTFVGVk5WMHptSk5oYWdNWmQyM0RRRlhMRENLYk05ZEhsYjF2b3pBUzRzeVBPMjZXRjltdzhyZlJtanhLOFQySDFUaEN3Q204VzRodlBmdlo0dmd2eGpyNmI4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "452ebea3b433",
    "title": "LSEG teams up with NVIDIA for faster market data processing - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYy1XWU5PM1RfaklzejU4RG1OOEV6YTkyTms1aGNfbTFiSXJmNkdTbkpSeWo2VElLV2ZCMVlta29aSWlGMHR5c3QyQV9hS0xSaDZCUjZxaU1QeGtaNHgwd0l2Nm9tR2ZaaFBRdFd4TF9Jb0lHdnR2eXI4ZzVjaGhDMDRUU0ZPcVdVb2Q1TlpqT2YxaDdoYjVScFZNVVg1YVdkWkE",
    "source": "Reuters",
    "published_at": "2026-10-14T06:21:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "Reuters",
@@ -143,10 +177,21 @@
      "name": "Central Oregon Daily",
      "published_at": "2026-10-14T06:23:24+00:00",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYU1QNnVHQkhSbmZENzVuRXpsSzlwdjBsYWJBcHpVN092cEh6dW9SU0ZjQUdQdzRUQWVoaXJ2dUs2WElTWFpfVWRyaHhQR2F4Tk1qd1NGYUxSYXliVmdJY2p3WU0tOURFYUFKemRycjh6c20za2Q2SnAxcnU5TVJkSVU5R2g0dU84UG5ELS10UVN4ZEFjTXh0clZzVHQ1dEdEekF6c0YyZ1ZSVkpLYVVIMmJCenlfdzlMSTJLOXJGS1lGTFJJVkJqQWE0RUxRU1QyVnAtTDVxMXZOUnFEZ254bzlwakg2OHZKbUdSQ3p4bw"
+    },
+    {
+     "name": "KSL",
+     "published_at": "2026-10-14T07:05:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOE1FLWZuamZHdXR6ZEpJdjQxSkJkRHhtdHl2akhyOU1LUTFzX2FsMjBsV1VTMi03WnlPYXRPbnVMLVJLbmROeHJYcFBmbE1ZOVZhcGl0Ukk0Y0tyRGRpVTFXZUtQM3gzUE00a0VuSldVWGNfdWMyR0haWnR3SVREa1NoSU01eVFyY1ZlNkVmVGFNMFU5bFBqZm11cThFUmM"
+    },
+    {
+     "name": "U.S. News - Money",
+     "published_at": "2026-10-14T07:08:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSFpPMUVEeXlsXzB3SzZFdVhwWkozWmU5b3pESTNJdUtKemtZNlFxZF9vUFVYMVplM3kxdjdNMndTQWhCOVJXTk1IVXlkVVhZZDVZNU1VX2ktVDdkS0d6SWtXRms2SnVRSmdTdUozcHd2QzMzNG5IX2Zub3o4dDBRUHpkel9WVGVFM3V0SW45dFJrT0prS0VGZWFmNkRvZndSQkl3UjNfRzByb0RDaVAxZ1FCS2RmTDRxS0Rr"
     }
    ],
    "category": "市场宏观",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "伦敦证交所与英伟达合作加速市场数据处理",
    "title_zh": "伦敦证交所与英伟达合作，加速市场数据处理",
    "sentiment": 1
@@ -295,6 +340,23 @@
    "zh_summary": "欧洲城市部署英伟达AI智能体优化城市运营",
    "title_zh": "欧洲城市部署英伟达驱动的AI智能体，实现更智慧的城市运营",
    "sentiment": 1
+  },
+  {
+   "id": "d30580a2a3a9",
+   "title": "伦敦证券交易所集团（LSEG）与英伟达合作，利用GPU加速对逐笔历史数据进行分析 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXJNMzV6Z3RPS0JzRzFSbURVVXJyR1Zvenp6UU5FbHdyNEZvVjh5Mm5rdElGSWJuNFcyamRFYy1YUkZmTW9NcnkyTVRJZEpvTVFNMFk2QkRBM05lOFZvY25qNHlHSU9rY3QyMTBCTTR3dTBWWXVBYlJpTEdqOXluS3k4WjVkSjN5TlRnNkUtNHhlSEpZZWU0UldtellfMG5SWDUyWg",
+   "source": "富途牛牛",
+   "published_at": "2026-10-14T06:01:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-14T06:01:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXJNMzV6Z3RPS0JzRzFSbURVVXJyR1Zvenp6UU5FbHdyNEZvVjh5Mm5rdElGSWJuNFcyamRFYy1YUkZmTW9NcnkyTVRJZEpvTVFNMFk2QkRBM05lOFZvY25qNHlHSU9rY3QyMTBCTTR3dTBWWXVBYlJpTEdqOXluS3k4WjVkSjN5TlRnNkUtNHhlSEpZZWU0UldtellfMG5SWDUyWg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "90afee6228ad",
@@ -3415,6 +3477,23 @@
    "zh_summary": "DLSS 5新模型性能翻倍，显存占用降20%",
    "title_zh": "英伟达DLSS 5最新模型10月16日推送：性能相比9月翻倍，4K显存占用降低20%",
    "sentiment": 1
+  },
+  {
+   "id": "7f3fb231cb3f",
+   "title": "盲插液冷、下一代可插拔光模块：英伟达推进新标准 - 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vaU1LSm5BZkRSSnRTUXR6Sk9UZ0VuZmhPYVE3cXBzdFhmbGZackJyTmtvbWt5bEZEYkd5R2VOMFRremd0ZlMtYnlWWUozdw",
+   "source": "36Kr",
+   "published_at": "2026-10-13T12:50:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "36Kr",
+     "published_at": "2026-10-13T12:50:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vaU1LSm5BZkRSSnRTUXR6Sk9UZ0VuZmhPYVE3cXBzdFhmbGZackJyTmtvbWt5bEZEYkd5R2VOMFRremd0ZlMtYnlWWUozdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "019c6c8fddcb",
@@ -6668,91 +6747,6 @@
    "zh_summary": "英伟达宣布1500亿美元股票回购计划",
    "title_zh": "英伟达（NVDA）宣布1500亿美元股票回购计划 - GuruFocus",
    "sentiment": 2
-  },
-  {
-   "id": "65d020b5add3",
-   "title": "小K播早报|英伟达推进下一代可插拔光模块新标准 Meta推出Muse Wonder AI模型 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HZExhVGV2czRUcU1BNXNCRENkd05YTWIyQkV5OUMzckE0V0lHWjU4dFNzQmNaSk13RDNUS242NTdIR2hGZlRIZQ",
-   "source": "财联社",
-   "published_at": "2026-10-13T00:07:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-13T00:07:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HZExhVGV2czRUcU1BNXNCRENkd05YTWIyQkV5OUMzckE0V0lHWjU4dFNzQmNaSk13RDNUS242NTdIR2hGZlRIZQ"
-    },
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-13T00:07:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGFoWW5Xel85b1BNdTlYTkJiTXVrRUlUTExHWTgtSzZ2dlVXVTFXWGN0RjNKVkIya1ZLV1JXeHl6dVQ3TUhReVAwWUFDSDVuTTd6bkpTQWRDZDZBV3JoRjNsU0drUWE4RnJJTHozZGhTSVg5MGlGR19PZVRGWW5VMmRna2xYMUcwdks3dzhzclRGM2NFNEI4Z0F1OWpuOHZiVWRKbHZqdjdrXzg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达推进可插拔光模块新标准",
-   "title_zh": "小K播早报|英伟达推进下一代可插拔光模块新标准 Meta推出Muse Wonder AI模型 - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "e4567c00a7f0",
-   "title": "Intel names its Nvidia rival chip the GPU D270 with 480GB of memory - Startup Fortune",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRms0eEcxM3NtNVhhb21HWDBCS0hsNmtiMVJvcTF0RkFrSkdiR3duOVU1OHl2QWpXbTRQX1N0T3NVZGxUWW5neHR5RHlPQXRhcUctZENBS3lPeTFfY296UzZvQU9vemZLT3J0OUs4aXdidkdBRzR0ZlVuMDF1c3NOSV9CSjFJZ2pEUko1NGRtcmRSYm44NEJQblZXaw",
-   "source": "Startup Fortune",
-   "published_at": "2026-10-13T00:00:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Startup Fortune",
-     "published_at": "2026-10-13T00:00:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRms0eEcxM3NtNVhhb21HWDBCS0hsNmtiMVJvcTF0RkFrSkdiR3duOVU1OHl2QWpXbTRQX1N0T3NVZGxUWW5neHR5RHlPQXRhcUctZENBS3lPeTFfY296UzZvQU9vemZLT3J0OUs4aXdidkdBRzR0ZlVuMDF1c3NOSV9CSjFJZ2pEUko1NGRtcmRSYm44NEJQblZXaw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "英特尔命名对标NVDA的GPU D270芯片",
-   "title_zh": "英特尔将其英伟达竞品芯片命名为GPU D270，配备480GB内存",
-   "sentiment": -1
-  },
-  {
-   "id": "b6be40deb00a",
-   "title": "英伟达将在北京等6城举办RTX Spark发布活动 - DoNews",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91a3VTSVhPVDF0OFEwcWlYZ1hNQXgwLXh3MW5ZSXdtdGtvaG96X0c3VjhDRHBTU1QzV3g3VTVUd0lJZWtFZzdadkQtbXJuTU1YR0FHRGF6bXFJWkYyX1E",
-   "source": "DoNews",
-   "published_at": "2026-10-12T23:54:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "DoNews",
-     "published_at": "2026-10-12T23:54:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91a3VTSVhPVDF0OFEwcWlYZ1hNQXgwLXh3MW5ZSXdtdGtvaG96X0c3VjhDRHBTU1QzV3g3VTVUd0lJZWtFZzdadkQtbXJuTU1YR0FHRGF6bXFJWkYyX1E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达将在北京等6城举办RTX Spark发布活动",
-   "title_zh": "英伟达将在北京等6城举办RTX Spark发布活动 - DoNews",
-   "sentiment": 1
-  },
-  {
-   "id": "93935ee79aa1",
-   "title": "10月13日早餐 | 英伟达推出新型可插拔光模块外形规格；Meta发布个人智能体模型 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3Npa3pxWmdFbWs2MDAxN0JzZGFVWVVCSU1QeHlBQmhvcEJVRUFkdHlRN3lHTzMyWGtMMXBhMXM1R01Mejh6TTBVUzhJWGpyNWlvYnctRVluVU9udUVIOVpKZHMzMmk3LVh3SGRHTEFrRUZlX25LZHV0SEJobW05NWxfd0Mwd190",
-   "source": "搜狐",
-   "published_at": "2026-10-12T23:53:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-12T23:53:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3Npa3pxWmdFbWs2MDAxN0JzZGFVWVVCSU1QeHlBQmhvcEJVRUFkdHlRN3lHTzMyWGtMMXBhMXM1R01Mejh6TTBVUzhJWGpyNWlvYnctRVluVU9udUVIOVpKZHMzMmk3LVh3SGRHTEFrRUZlX25LZHV0SEJobW05NWxfd0Mwd190"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达推出新型可插拔光模块规格",
-   "title_zh": "10月13日早餐 | 英伟达推出新型可插拔光模块外形规格；Meta发布个人智能体模型 - 搜狐",
-   "sentiment": 1
   }
  ]
 }
