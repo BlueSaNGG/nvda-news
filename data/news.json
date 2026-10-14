@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T11:06:26.804671+00:00",
+ "updated_at": "2026-10-14T11:21:28.865246+00:00",
  "market": {
   "price": 228.52,
   "change_pct": 0.97,
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.73,
-   "count": 52
+   "avg": 0.7,
+   "count": 53
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.73（52条已评分）"
+     "note": "今日新闻情绪 +0.70（53条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.8,
    "ma20": 228.32,
-   "as_of": "2026-10-14T11:06:26.791765+00:00"
+   "as_of": "2026-10-14T11:21:28.855160+00:00"
   },
   "pe_ttm": 29.0,
   "pe_pct_5y": 27,
@@ -61,6 +61,91 @@
   }
  },
  "stories": [
+  {
+   "id": "644685ee8084",
+   "title": "Is AMD Even a Real Threat to Nvidia or Just a Pricing Lever? - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2tENzdDcTRMTkhjZ0FNMTFQZ21TTlZIUm55dHh3VWgxaHEzU0g3cXBhSDEzc2djTUZnR3J5bm1pc3lEcEFBU3R6Y1k4YzZPamthT29hUzc2SHozZGlvV1hjOUllREEzMG5BeXZIQ19DTFJlcjNzSGJpeE45dXlwdHJFeERXU2wtRVlUNUtiM0d0bWpHbm5DV1pOWEdiWWhTOFMtYm93",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-14T11:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-14T11:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR2tENzdDcTRMTkhjZ0FNMTFQZ21TTlZIUm55dHh3VWgxaHEzU0g3cXBhSDEzc2djTUZnR3J5bm1pc3lEcEFBU3R6Y1k4YzZPamthT29hUzc2SHozZGlvV1hjOUllREEzMG5BeXZIQ19DTFJlcjNzSGJpeE45dXlwdHJFeERXU2wtRVlUNUtiM0d0bWpHbm5DV1pOWEdiWWhTOFMtYm93"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "801045211634",
+   "title": "What's Going On With Danaher Stock Wednesday? - NVIDIA (NASDAQ:NVDA), Danaher (NYSE:DHR) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUWx0UlZvNVAyaFFvSFVGZHlwazRHNDFPMUtEYWk3REFabWN0S3VGakppRUtQN1JVOC0xcGxmOWxmQVBVRWNIZjFBc0tpSnp4S2NlTUUtSG1SOVg4cC05NVZLdFk5SHlCbEUzeEVfWWdINDJwRFNCMXJzSHZZQzU1WUN6d2hyeTdWa1V1Tzd5WHZrSzdJem1iVEJLcGZYYWFOVHpPeGpVVTdKUXQ5aHNEVnhQXzhIVGdJRGdoZ2FEYWVCTkJBQ2llWEsxYnJ4WjM1Nmc",
+   "source": "Benzinga",
+   "published_at": "2026-10-14T11:11:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-14T11:11:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUWx0UlZvNVAyaFFvSFVGZHlwazRHNDFPMUtEYWk3REFabWN0S3VGakppRUtQN1JVOC0xcGxmOWxmQVBVRWNIZjFBc0tpSnp4S2NlTUUtSG1SOVg4cC05NVZLdFk5SHlCbEUzeEVfWWdINDJwRFNCMXJzSHZZQzU1WUN6d2hyeTdWa1V1Tzd5WHZrSzdJem1iVEJLcGZYYWFOVHpPeGpVVTdKUXQ5aHNEVnhQXzhIVGdJRGdoZ2FEYWVCTkJBQ2llWEsxYnJ4WjM1Nmc"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
+   "id": "090a6fb7c644",
+   "title": "Nvidia's Market Share in China AI Chips Drops Amid U.S. Export R - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjBfM2JrQjdHVk9ldkduR0hSVEhJVzdHcUtmTUx1amNfLXFCc2FSYkRmMDlQLVpZMlNRZTFwTktfN3llRE9CellCbS0zRFdKRU1RWmlabDZCQVllNHFfNm9VeGExb3FxR3VBX09RaTNGdVd1cVdJTU9KZ2tkdjdsWHBCQzhvYmY0S3dmQURlOW5aU1liWnpaTXR5VXd6dDQ0UW1aT1dSOW9lbUZJUHh2WFFkQUI3SEk",
+   "source": "GuruFocus",
+   "published_at": "2026-10-14T11:06:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-14T11:06:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjBfM2JrQjdHVk9ldkduR0hSVEhJVzdHcUtmTUx1amNfLXFCc2FSYkRmMDlQLVpZMlNRZTFwTktfN3llRE9CellCbS0zRFdKRU1RWmlabDZCQVllNHFfNm9VeGExb3FxR3VBX09RaTNGdVd1cVdJTU9KZ2tkdjdsWHBCQzhvYmY0S3dmQURlOW5aU1liWnpaTXR5VXd6dDQ0UW1aT1dSOW9lbUZJUHh2WFFkQUI3SEk"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "725bb72040a5",
+   "title": "What's Going On With NVIDIA Stock Wednesday? - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNjZZMG83akNMZ3Z1THFhZ2pjWVBOVE1sVjc2eHIxU0xGZlR5QUdyMGVJd3FHWDNsdEFKbElLd29KbW5Rajc0RDc5bThJZGJMMWo3RmY3dElwNU8yU1lEenpwNzE0S0RPM1dTbTFacWZrcTJnaFlXV25DN2JhSUNjOFF6a0hrb2tFMkVKOTN4b2tWTmZKNU9XZ0o2eDE1dw",
+   "source": "Benzinga",
+   "published_at": "2026-10-14T11:01:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-14T11:01:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNjZZMG83akNMZ3Z1THFhZ2pjWVBOVE1sVjc2eHIxU0xGZlR5QUdyMGVJd3FHWDNsdEFKbElLd29KbW5Rajc0RDc5bThJZGJMMWo3RmY3dElwNU8yU1lEenpwNzE0S0RPM1dTbTFacWZrcTJnaFlXV25DN2JhSUNjOFF6a0hrb2tFMkVKOTN4b2tWTmZKNU9XZ0o2eDE1dw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "dd62d4c225c6",
+   "title": "Danaher Teams Up With NVIDIA, Aims To Bring Accelerated Computing, Physical AI Into Labs - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSTBnS1hxa1ZCMXdGNElZQ2JLSy1KanZleUJPOS1acEczUHJJenBtNFRGdlFQcW9nMVo4SUZNNE1BNzJCOHdjaFR1bjg0XzZSRUNzTENSZ2E5cklQNmxTeEYtNm9xdHNwWVhpNU1lLVp1Tm9MWV9MeU0zMlJsZUZ3aGdYT1dmS0NBQnNEM29iaWZSczZpSXZ4U2F0cUo2V3lLdWEyblhGWXdGcFNhNlRqbllpdmQ5Nk5CSW1EMnRHZmZHSzdWQWM2cDhjMHVvUF9zTnNyUTNBMld2LTExMXZTU2pXcUo",
+   "source": "Stocktwits",
+   "published_at": "2026-10-14T10:57:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-14T10:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSTBnS1hxa1ZCMXdGNElZQ2JLSy1KanZleUJPOS1acEczUHJJenBtNFRGdlFQcW9nMVo4SUZNNE1BNzJCOHdjaFR1bjg0XzZSRUNzTENSZ2E5cklQNmxTeEYtNm9xdHNwWVhpNU1lLVp1Tm9MWV9MeU0zMlJsZUZ3aGdYT1dmS0NBQnNEM29iaWZSczZpSXZ4U2F0cUo2V3lLdWEyblhGWXdGcFNhNlRqbllpdmQ5Nk5CSW1EMnRHZmZHSzdWQWM2cDhjMHVvUF9zTnNyUTNBMld2LTExMXZTU2pXcUo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "4b52d10b4db1",
    "title": "Not Nvidia. Not Broadcom. This Storage Stock Could Be 2027's Hidden AI Winner. - The Motley Fool",
@@ -105,6 +190,23 @@
    "zh_summary": "英伟达架构师解读AV2视频技术",
    "title_zh": "英伟达首席架构师、艾美奖得主，解读 AV2 与下一代视频交付 - TOM",
    "sentiment": 0
+  },
+  {
+   "id": "df88a8090fc8",
+   "title": "NVIDIA Pledges Five Years of Compute to UK Agentic Safety Research - Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ2VFdlBPeXNWMFFNSDBkOS1ValZUbE5uX0pSbVNKQjROcXlvbFBYYjRqWlFYeTdfYWw2UVo1eDlYQzFJOGtYa1dndFl6OWVmNjVmZlNXWjRoeDQtVUxSUjhRTEMyUW1FSjBEc2g1MDJ3LWNjWFBtMHNYSGsxOHNocnh2bGNhSzZrT1lKdDRoeU5JUQ",
+   "source": "Unite.AI",
+   "published_at": "2026-10-14T10:20:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Unite.AI",
+     "published_at": "2026-10-14T10:20:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ2VFdlBPeXNWMFFNSDBkOS1ValZUbE5uX0pSbVNKQjROcXlvbFBYYjRqWlFYeTdfYWw2UVo1eDlYQzFJOGtYa1dndFl6OWVmNjVmZlNXWjRoeDQtVUxSUjhRTEMyUW1FSjBEc2g1MDJ3LWNjWFBtMHNYSGsxOHNocnh2bGNhSzZrT1lKdDRoeU5JUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "9d2e6027ff31",
@@ -457,26 +559,6 @@
    "sentiment": 1
   },
   {
-   "id": "be69121a87a8",
-   "title": "NVIDIA Corporation $NVDA Shares Newly Purchased by Maxele Advisors LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVhUUDhrdnJnYmM0czZaMXNuTXZYZHJXMGNTbmRjLWpEeUpoanNRbC1mcEtxRUdheEp3cDMxNENoUkJQamlRaWZ4Wmtac2tvMVRKSi1wMF9HOUd3dTFZdmp5ZGdySFNJdDN2VGpXT0RrOVlnLUpSUTdyZkY3UXgyMGVxandxR0NVakVtNzQyNWNyaURoVmRKM2toZVpmV2VUV3dYT3VxdF9hUUgxUEZLSnczM0RwcXFQVjQwbW1TdFVXWVhZb2NLQURR",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T08:09:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T08:09:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVhUUDhrdnJnYmM0czZaMXNuTXZYZHJXMGNTbmRjLWpEeUpoanNRbC1mcEtxRUdheEp3cDMxNENoUkJQamlRaWZ4Wmtac2tvMVRKSi1wMF9HOUd3dTFZdmp5ZGdySFNJdDN2VGpXT0RrOVlnLUpSUTdyZkY3UXgyMGVxandxR0NVakVtNzQyNWNyaURoVmRKM2toZVpmV2VUV3dYT3VxdF9hUUgxUEZLSnczM0RwcXFQVjQwbW1TdFVXWVhZb2NLQURR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Maxele Advisors新购英伟达股份",
-   "title_zh": "Maxele Advisors LLC 新购英伟达 NVDA 股份",
-   "sentiment": 1
-  },
-  {
    "id": "c298a0b59443",
    "title": "Fulcrum Asset Management LLP Sells 64,683 Shares of NVIDIA Corporation $NVDA - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRTM2TWhtb25JMGhfeWJuUjNSWFczNEYwUHR3OG5QU3dBV1NjRlF1Q0tPY19lblpwMnpjaG1TRENTOEk1VGJlWUpwUmM5NGptLVgtVlR2czh3ci14N2lpX3FRcnRHOHE5VGJNYW4zek1mT3ZZZlpkaVh2OUlLdlowLUg4UUc4STl1NDRyTVBsZkJVTVhvb1liWTQ0MFFwTXNDWnBTS0F5WXV6LWEzV0xLQlFPNldUX01valdsUFdPd2VNc05pbktXWk5yX1JRZGZF",
@@ -602,26 +684,6 @@
    "sentiment": 1
   },
   {
-   "id": "115768eddaad",
-   "title": "313,966 NVIDIA Corporation $NVDA Shares Bought by Empowered Funds LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkN0dTVRT2E5SHNkeWIycDBqR3FjMDVtTVp4MXVueXlqNTVCWkJNU1h3OTBLdkpSeHJ5T3dQaUpBSm5nTlZEaWhnd1VWS2pXTGtOZFV4WGxLVDBSdDB0ODROaDZqU3FacE9DMUhnYk5vQ19jdS1yekR1SmpBTm1JRUN6U0FreG40X29YTjNnMVZ5blhqVmF3ZmhmYXphbTRveVA1RjRMMzRIR3gxMDFGdGt0ODJhdDVhOGZtci1Ed2VwYTNCWk53",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T07:33:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T07:33:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkN0dTVRT2E5SHNkeWIycDBqR3FjMDVtTVp4MXVueXlqNTVCWkJNU1h3OTBLdkpSeHJ5T3dQaUpBSm5nTlZEaWhnd1VWS2pXTGtOZFV4WGxLVDBSdDB0ODROaDZqU3FacE9DMUhnYk5vQ19jdS1yekR1SmpBTm1JRUN6U0FreG40X29YTjNnMVZ5blhqVmF3ZmhmYXphbTRveVA1RjRMMzRIR3gxMDFGdGt0ODJhdDVhOGZtci1Ed2VwYTNCWk53"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Empowered买入31.4万股英伟达",
-   "title_zh": "Empowered Funds LLC买入313,966股英伟达",
-   "sentiment": 1
-  },
-  {
    "id": "29c4d540ebd8",
    "title": "NVIDIA Corporation $NVDA Stock: Light Street Capital Management LLC Reduces Position - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzdOZThIdmUwd2NvWHhOVFBKMnpkSDhtVnFoeURZV3YzdjE1R1VIWkdSVmdNVnNldFVrak1ZX2pVMzFGQy1MZExzLUYtTnRIa05KSkJnQktWcl93aU9VRk4tc2dWaGJnY0pqMlB2M1VhTnpuUFV5cGxOSGZFdUFyNlVITTRWc05vcmRYMUxVVG1peUtJb0hfd2ZXNk03bUdrZEhpZ2dyN3BVb28yajBfTTJFVU9XZlc4OHpoekR3TmRvbHJFRWhuWW1lMUhXZlRraFk0S1lzS0tYQzQ",
@@ -699,26 +761,6 @@
    "session": "盘前",
    "zh_summary": "Camarda增持英伟达股票",
    "title_zh": "Camarda Financial增持英伟达持仓",
-   "sentiment": 1
-  },
-  {
-   "id": "a1435489b49d",
-   "title": "Caitlin John LLC Buys 3,800 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVURrbXNybWdyZTJHU3dmMUhlMm83OEpuTWg0TVNsU25KWU9HQnBNUmZ1WThDZE1Ta2VmVllsamk3b2FqMlhTWkVIUDVYa3U5Q0hqQUR3RkthV08zczJrZ2tCUW95dktfYUlHRnpFQmhpNlAxM1FRSFBDNnhDWFFtSnVTRXRMTTZVclJHeHA2UFliZC1tbHJ2NHBBdTd2R1lhcjhQM3JHMkMxa2Q4c3pMU2xLbVIzRF9MdTNpbzJn",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T07:20:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T07:20:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVURrbXNybWdyZTJHU3dmMUhlMm83OEpuTWg0TVNsU25KWU9HQnBNUmZ1WThDZE1Ta2VmVllsamk3b2FqMlhTWkVIUDVYa3U5Q0hqQUR3RkthV08zczJrZ2tCUW95dktfYUlHRnpFQmhpNlAxM1FRSFBDNnhDWFFtSnVTRXRMTTZVclJHeHA2UFliZC1tbHJ2NHBBdTd2R1lhcjhQM3JHMkMxa2Q4c3pMU2xLbVIzRF9MdTNpbzJn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Caitlin John买入3800股英伟达",
-   "title_zh": "Caitlin John LLC买入3,800股英伟达",
    "sentiment": 1
   },
   {
@@ -1248,7 +1290,7 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkJ3QUZsMVlpMy1WekJzM1pETkF5TWY2WGhja1VkdWt3X3IwZzV5TFA3amVOXzFGN1RNVXlMYV9ZRTZ0S0JnSFIzVl9sNmpsSDhsNU5lQWc2c2l5ZElxSHhoY1piSGxGdnRRTDZmRWEwcE1mX0RmUlB1QVhTUDRJU3JNc21fNEdzdW1EalBfM2Q2dkYwWURaOVhDYmhSODBH",
    "source": "Yahoo Finance",
    "published_at": "2026-10-14T06:00:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -1259,6 +1301,11 @@
      "name": "Bozeman Daily Chronicle",
      "published_at": "2026-10-14T06:48:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMURaZGZMM3ltbThaQ0x1WUVKRmRlM2taZHdhREJSaHJGZ0xXeGw0SDFpRVBZZ2xucW56dU9aa2RWV1QzbVk1b3NueGtlbjBfOE51YjJCVWN5enZaOEt4NVJIZVhIa2pkX0Y4d3VqUUtsemo5MFJzcGpJVnZqTl92Z2V3eElyRXdZRXhUV1ZFcHVqc1dSYnZmVU5SYXhEWHBVSFRFbm9GWnlNZWo1NTZPNno2bWpseUJPUlhNUXZRNjgzdUNRYVdZUEJFdl9Dd3c1ZUI1LW1vSExNVEZySzVr"
+    },
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-14T10:50:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYVotLUVnYWU0VEdBMGpacGNESnhUdEZYQmcwVGgydjVCMkcwb1M2NzFzRGg3YjY5MlVSeGI0T0RWNjA2NGxILWhZX3diVkFFUjlqN3RXbGJJUHlUQzF2dlFBSF9sVFVnVWV4UjFrenlEMlpOYXcwbUYzMzU4RWJzSGZYMkZYdGNyOUZHVWoyOTcwUncxMVdOSUZXVE5tYy1aLVEyNjkyTkk0Q3pHUGtBbWRUb01CWHg5QXh0SGx0cWlFbG9TS0o2V0dB"
     }
    ],
    "category": "其他",
@@ -1721,6 +1768,23 @@
    "zh_summary": "帧生成新增性能模式，RTX 5060实测348帧",
    "title_zh": "最高提升35%！英伟达帧生成新增性能模式：RTX 5060实测跑到348帧 - 驱动之家",
    "sentiment": 1
+  },
+  {
+   "id": "41ea96c96366",
+   "title": "同比下滑44%！报告：英伟达在中国AI芯片市场份额降至34% 华为升至28% - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MMHBXZDZ6M2RKb09NX0pxZmM3NUQwYnNiMHZNbXlUdnVLcE1od2l3aE02RG1VUVV0anlVc2RYQVJINGg0SUc5WEY0VnEtaHM0YzIzTDRHdms",
+   "source": "驱动之家",
+   "published_at": "2026-10-14T01:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-14T01:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MMHBXZDZ6M2RKb09NX0pxZmM3NUQwYnNiMHZNbXlUdnVLcE1od2l3aE02RG1VUVV0anlVc2RYQVJINGg0SUc5WEY0VnEtaHM0YzIzTDRHdms"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "9e674c95b7c5",
@@ -6116,6 +6180,26 @@
    "sentiment": -1
   },
   {
+   "id": "bfa58ed063aa",
+   "title": "101,481 NVIDIA Corporation $NVDA Shares Bought by Proficio Capital Partners LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMndER04yYlJlN005bzktVEk0Y1U1RzB2Ty1MdUxtclZmOG4yMmFxUnh3NzA5MExIbmREUVU3VFpIOTNjZXN0V0tuQ21Cb2FsU21OV1VOb0w2Y3BMY1JWMFpLdlFUTUZaS1JZSUY1eGZONnRQUThzblhPdWpCRHN4YXcxUkN1bVJzaWtScGVqQnllM1FXenVmVTl1bHBhbjhxNE9JRHdZcGM4SjZHQlExLUlzXzFJNXdaY1JUSzliR3BBNnVya1VuTkdEd2tRUnNEc0VrMg",
+   "source": "MarketBeat",
+   "published_at": "2026-10-13T07:38:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-13T07:38:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMndER04yYlJlN005bzktVEk0Y1U1RzB2Ty1MdUxtclZmOG4yMmFxUnh3NzA5MExIbmREUVU3VFpIOTNjZXN0V0tuQ21Cb2FsU21OV1VOb0w2Y3BMY1JWMFpLdlFUTUZaS1JZSUY1eGZONnRQUThzblhPdWpCRHN4YXcxUkN1bVJzaWtScGVqQnllM1FXenVmVTl1bHBhbjhxNE9JRHdZcGM4SjZHQlExLUlzXzFJNXdaY1JUSzliR3BBNnVya1VuTkdEd2tRUnNEc0VrMg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "Empowered买入31.4万股英伟达",
+   "title_zh": "Empowered Funds LLC买入313,966股英伟达",
+   "sentiment": 1
+  },
+  {
    "id": "80dbacf89475",
    "title": "NVIDIA Corporation $NVDA Stock: Petrus Trust Company LTA Raises Stake - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM21BeHBnUllMNlZPbV9JWDJYUzRWQ0thNndWUjB1QmJYdHhreWYyVk9HLTVsMGJqMUVDMjhJLUczRWEtRmJveHRSN05laGNXSGZRT1RBOTE5T2paUnM5dzdnbm1SZU9ja2NMXy1lVnhyUHE2LTVNM0hGNXBDMDBLeXZjZkpKSWRKb1ZSNy0tVno4bldSSmhrUXhuYm5xNzd6dlItUVQwTHBlVmwwdXlKbGtGVG1BU0Iwd09zN3k3UDNzWVAta1Rr",
@@ -6252,6 +6336,26 @@
    "session": "盘前",
    "zh_summary": "N10资产新建仓NVDA股票",
    "title_zh": "N10资产新购入英伟达NVDA股票",
+   "sentiment": 1
+  },
+  {
+   "id": "351eb6a77c70",
+   "title": "Coastal Bridge Advisors LLC Buys 5,088 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ2dua3dlaGFHdU9aenRWaFhhTHJhY1V4Ym40MlpEZzdtRUFuLU5GOU9ycFNXelpGalFpZ2tsSjVISGlYTmxLcFNCUWJzLWlCcGo5RUh1NkhlWDVMUTN1dGNpMjZxTGhRNnZqVkVlTjFtV0xpODVXelNmVTduaHgxMk9acU1qemllUWM1UEo2V2hPdDB2U0pWYjh5RXZnV0plNVFxTTFrakhXU2NlRmZVSnZjWENvRnlSSGNlVWMwUk9WckZpMVoxa0JOaDM",
+   "source": "MarketBeat",
+   "published_at": "2026-10-13T07:06:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-13T07:06:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ2dua3dlaGFHdU9aenRWaFhhTHJhY1V4Ym40MlpEZzdtRUFuLU5GOU9ycFNXelpGalFpZ2tsSjVISGlYTmxLcFNCUWJzLWlCcGo5RUh1NkhlWDVMUTN1dGNpMjZxTGhRNnZqVkVlTjFtV0xpODVXelNmVTduaHgxMk9acU1qemllUWM1UEo2V2hPdDB2U0pWYjh5RXZnV0plNVFxTTFrakhXU2NlRmZVSnZjWENvRnlSSGNlVWMwUk9WckZpMVoxa0JOaDM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "Caitlin John买入3800股英伟达",
+   "title_zh": "Caitlin John LLC买入3,800股英伟达",
    "sentiment": 1
   },
   {
@@ -6547,145 +6651,6 @@
    "zh_summary": "英伟达拟在美国投10亿美元建超级智能基础设施",
    "title_zh": "英伟达计划投资10亿美元建设美国超级智能基础设施",
    "sentiment": 1
-  },
-  {
-   "id": "eedd9495ac2b",
-   "title": "英伟达在华份额跌破四成：国产AI芯片如何重塑算力市场格局？ - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSmV1Yk5zanZXTl9XNWJKbFNscTFRd1BJZ2djLXFoT0s5ZkJpUTcybmlZZDUzc19rMWw5TFdDOWYwQlc4Y1JvZVJrYWoza3dRbDlhaXFnb0cycXFLS000WFNPZFR3aVY4eGhnTjkxdHRid0dWcnhBU0xhRWY0UG41S0xXUTdabVdD",
-   "source": "搜狐",
-   "published_at": "2026-10-13T05:28:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-13T05:28:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSmV1Yk5zanZXTl9XNWJKbFNscTFRd1BJZ2djLXFoT0s5ZkJpUTcybmlZZDUzc19rMWw5TFdDOWYwQlc4Y1JvZVJrYWoza3dRbDlhaXFnb0cycXFLS000WFNPZFR3aVY4eGhnTjkxdHRid0dWcnhBU0xhRWY0UG41S0xXUTdabVdD"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "在华份额跌破四成国产芯片崛起",
-   "title_zh": "英伟达在华份额跌破四成：国产AI芯片如何重塑算力市场格局？ - 搜狐",
-   "sentiment": -1
-  },
-  {
-   "id": "0931f495d72a",
-   "title": "NVIDIA Announces New Investments in France’s Startup Ecosystem - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTRGZFbUlVZjJzY1M2ZGVVc3hubnlhYmNTTlJCWk5xdWJBeENiZzN2RGRfZ2U5d21tMjNVV0xKcFFSMm5BWDFydDhjT0o1NFBGQlc5aWlEcG5kMUlNY1pNS2J1UGhJaGlwbmhkaTFnYmtoNEE",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-13T05:03:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-13T05:03:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTRGZFbUlVZjJzY1M2ZGVVc3hubnlhYmNTTlJCWk5xdWJBeENiZzN2RGRfZ2U5d21tMjNVV0xKcFFSMm5BWDFydDhjT0o1NFBGQlc5aWlEcG5kMUlNY1pNS2J1UGhJaGlwbmhkaTFnYmtoNEE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达宣布投资法国初创生态",
-   "title_zh": "英伟达宣布在法国初创生态追加投资",
-   "sentiment": 1
-  },
-  {
-   "id": "eb62f01bee46",
-   "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTRGZFbUlVZjJzY1M2ZGVVc3hubnlhYmNTTlJCWk5xdWJBeENiZzN2RGRfZ2U5d21tMjNVV0xKcFFSMm5BWDFydDhjT0o1NFBGQlc5aWlEcG5kMUlNY1pNS2J1UGhJaGlwbmhkaTFnYmtoNEE",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-13T05:03:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-13T05:03:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTRGZFbUlVZjJzY1M2ZGVVc3hubnlhYmNTTlJCWk5xdWJBeENiZzN2RGRfZ2U5d21tMjNVV0xKcFFSMm5BWDFydDhjT0o1NFBGQlc5aWlEcG5kMUlNY1pNS2J1UGhJaGlwbmhkaTFnYmtoNEE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "法国生态系统以英伟达实现智能体计算规模化",
-   "title_zh": "从地球到太空，法国生态系统与英伟达规模化落地智能体计算",
-   "sentiment": 1
-  },
-  {
-   "id": "650861bb3955",
-   "title": "Alice & Bob decodes LDPC-cat codes on GPUs with NVIDIA NVQLink - EIN News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDdkTVBUSkJ2MGJHWWtuelVXSGc5LTgzNVV0ZWxRM3NmOWxRV0FjaVNyUGV2OWNrQnpGN0s3eGtRY3JBM2JmejVYZ0lyOUpSQ0V2cnFxUlVzNlJnZDBla3QyM29nMlFEY09aS3ZjTFZDNjlqNWkxUWJGSk5MczJlWGc4S01xTVBrMm02UThYNVhsc2E0eXJqMFNsWXpjY3p6WDltVU1n",
-   "source": "EIN News",
-   "published_at": "2026-10-13T05:02:02+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "EIN News",
-     "published_at": "2026-10-13T05:02:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDdkTVBUSkJ2MGJHWWtuelVXSGc5LTgzNVV0ZWxRM3NmOWxRV0FjaVNyUGV2OWNrQnpGN0s3eGtRY3JBM2JmejVYZ0lyOUpSQ0V2cnFxUlVzNlJnZDBla3QyM29nMlFEY09aS3ZjTFZDNjlqNWkxUWJGSk5MczJlWGc4S01xTVBrMm02UThYNVhsc2E0eXJqMFNsWXpjY3p6WDltVU1n"
-    },
-    {
-     "name": "The Quantum Insider",
-     "published_at": "2026-10-13T08:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0prT2xlUHpfd0w0LXl3aTlNUi12Skc0ejRNSlkzSVVLdFJSYkhEbnp0UkdFdlVIemNGTHBQSGdFTlBOZkNhaFMxRF9QR0tNdndTNWpNdFFYUjB4ZkpWdjMtNDM3WC1Vd1hfRjIxQnB1d3N0VVFOaU9UTGtMYjVzVE14R2ZlcHc2bzFYQTd0NWNyOE5NNVhZMFNLd2VkSXZKVFFtNQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Alice & Bob 用英伟达GPU解码新码型",
-   "title_zh": "用英伟达 NVQLink 在 GPU 上解码 LDPC-cat 码",
-   "sentiment": 0
-  },
-  {
-   "id": "878bddb91ace",
-   "title": "报告：英伟达在华AI晶片份额下滑 华为缩小差距 - 联合早报",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFalJGNXpEYlVacmJBTXBNWE90bTBydG1TRHVGM3dvVDdJWFF3ZWNraXBNLWJVVGlvS3IwR3lSU0thbVJISTA5YmItSTMyWWxKS0NqTFUxOERKc25PZUtaLXY2X2thQXJObGc",
-   "source": "联合早报",
-   "published_at": "2026-10-13T05:02:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "联合早报",
-     "published_at": "2026-10-13T05:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFalJGNXpEYlVacmJBTXBNWE90bTBydG1TRHVGM3dvVDdJWFF3ZWNraXBNLWJVVGlvS3IwR3lSU0thbVJISTA5YmItSTMyWWxKS0NqTFUxOERKc25PZUtaLXY2X2thQXJObGc"
-    },
-    {
-     "name": "早晨报",
-     "published_at": "2026-10-13T06:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rd1lxTXZ4UGdKNlpTTnBzZTAzVlYtYmxleDR6UTM5VkJGVEwyTkJVUzVXOGd1a3ltMl9QeEt0a19Pc2FydzlXcFdMSm5qODJIMno0eWdqU3ViVFQtcGJfYTk2X1VVenJ5"
-    },
-    {
-     "name": "C114通信网",
-     "published_at": "2026-10-13T09:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwNVdDUG9oZmU1alhGMHhrWTg0dHBNaGxpTnEwRkcwRUtpX1RjTm5DVXRGUWlkMDZSVkNsU2tGaHVCRDU2SHM4YjZRdmFwc0tYNmc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "报告称英伟达在华份额下滑",
-   "title_zh": "报告：英伟达在华AI晶片份额下滑 华为缩小差距 - 联合早报",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": -0.13,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "2cbd90d30a90",
-   "title": "NVIDIA Lands in Europe for GTC Berlin - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-13T05:00:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-13T05:00:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达GTC柏林站落地欧洲",
-   "title_zh": "英伟达为GTC柏林登陆欧洲",
-   "sentiment": 0
   }
  ]
 }
