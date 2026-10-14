@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T05:36:27.751610+00:00",
+ "updated_at": "2026-10-14T05:51:28.238670+00:00",
  "market": {
   "price": 228.52,
   "change_pct": 0.97,
@@ -10,12 +10,12 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.32,
-   "count": 231
+   "avg": 1.0,
+   "count": 1
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.32（231条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +1.00（1条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.8,
    "ma20": 228.32,
-   "as_of": "2026-10-14T05:36:27.742775+00:00"
+   "as_of": "2026-10-14T05:51:28.219448+00:00"
   },
   "pe_ttm": 29.0,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "8d45aee241ad",
+   "title": "英伟达发布全新帧生成模型预设C 游戏性能最高提升35% - cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wRllJblZrcmVEd0YwZDNlUmN0WmR3RnMySzREREpjM09jZE1LdEtmV0FnSkx4V25TaVFrMmNwNkg4SDZwY3EyX1RfZEhLYTBsYTRPMC01YXVxUVpEdkxleg",
+   "source": "cnBeta.COM",
+   "published_at": "2026-10-14T05:38:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-14T05:38:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wRllJblZrcmVEd0YwZDNlUmN0WmR3RnMySzREREpjM09jZE1LdEtmV0FnSkx4V25TaVFrMmNwNkg4SDZwY3EyX1RfZEhLYTBsYTRPMC01YXVxUVpEdkxleg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "f0974a9c4ed8",
    "title": "黄仁勋：英伟达将在欧洲追加20亿美元投资 并投资法国四间初创公司 - 搜狐",
@@ -6713,26 +6730,6 @@
    "zh_summary": "微软自研AI芯片挑战英伟达",
    "title_zh": "微软押注自研AI芯片挑战英伟达",
    "sentiment": -1
-  },
-  {
-   "id": "adbb1c3fb9a6",
-   "title": "英伟达期权聚焦：10月12日成交282.56万张，未平仓合约1,570.83万张 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOGUxWnU5SWROT29uZjBDUTc1SkVyX0wwZmZmWWwtMWNFem5iNkFGdzdZOVFPWl94b295NTVPVnRQM1JnRzlGdEZJM1paZ0pqVUVjaEw2Nmw4ZWNmWkhnaWlTVjU5MDVncUtlcElmem9jbnJ2MGVuSFJTTG5RTDNMcmVCUlNaLXRUTi02a0xvQmpwZm4tdGhKR0V5ZDRZNWZ3eFE",
-   "source": "Moomoo",
-   "published_at": "2026-10-12T20:33:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-12T20:33:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOGUxWnU5SWROT29uZjBDUTc1SkVyX0wwZmZmWWwtMWNFem5iNkFGdzdZOVFPWl94b295NTVPVnRQM1JnRzlGdEZJM1paZ0pqVUVjaEw2Nmw4ZWNmWkhnaWlTVjU5MDVncUtlcElmem9jbnJ2MGVuSFJTTG5RTDNMcmVCUlNaLXRUTi02a0xvQmpwZm4tdGhKR0V5ZDRZNWZ3eFE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达10月12日期权成交282.56万张",
-   "title_zh": "英伟达期权聚焦：10月12日成交282.56万张，未平仓合约1,570.83万张 - Moomoo",
-   "sentiment": 0
   }
  ]
 }
