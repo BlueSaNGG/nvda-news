@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T15:07:04.010863+00:00",
+ "updated_at": "2026-10-14T15:22:03.966734+00:00",
  "market": {
-  "price": 223.86,
-  "change_pct": -2.04,
+  "price": 223.15,
+  "change_pct": -2.35,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.59,
-   "count": 104
+   "avg": 0.55,
+   "count": 108
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 79% 分位"
+     "note": "现价处于52周区间 78% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +40.7%"
+     "note": "目标价中位数 $315（15家），隐含空间 +41.2%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.59（104条已评分）"
+     "note": "今日新闻情绪 +0.55（108条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $223.86 vs 20日均线 $228.82"
+     "note": "现价 $223.15 vs 20日均线 $228.78"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 79,
+   "price_52w_pct": 78,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 40.7,
-   "ma20": 228.82,
-   "as_of": "2026-10-14T15:07:03.993927+00:00"
+   "implied_upside_pct": 41.2,
+   "ma20": 228.78,
+   "as_of": "2026-10-14T15:22:03.949750+00:00"
   },
-  "pe_ttm": 28.5,
+  "pe_ttm": 28.4,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+40.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+41.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "8c2a5d5a319a",
+   "title": "NVIDIA’s $250M Agentic AI Safety Bet: What GMP Gains - PharmTech.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOajVaSVQzMEFVUFlTbEN2RVlLaDlwR1loRzBwOG1yaHBtTHRVcGhGMk9feXJZWUJ0SzlEZVlNZnExUHBIX0JqMUZ1dmdha1FpYkVOY2ZnV0Y5NlB1aktqQzVoaF9rTDFNNU1UVU5weG81c1RkcFhYTTJFNU5NNFNfeGVYTUo3VVI1",
+   "source": "PharmTech.com",
+   "published_at": "2026-10-14T15:14:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PharmTech.com",
+     "published_at": "2026-10-14T15:14:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOajVaSVQzMEFVUFlTbEN2RVlLaDlwR1loRzBwOG1yaHBtTHRVcGhGMk9feXJZWUJ0SzlEZVlNZnExUHBIX0JqMUZ1dmdha1FpYkVOY2ZnV0Y5NlB1aktqQzVoaF9rTDFNNU1UVU5weG81c1RkcFhYTTJFNU5NNFNfeGVYTUo3VVI1"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "ad3ea075cad9",
+   "title": "Exclusive: Nvidia and ChipAgents Launch Evaluation For AI-Powered Chip Design - The Information",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVlDaG9fR0pKSnNHYzdxRmUyTXdCbW4wNmk4bGpnbWJsVk9JZDRCTXJ4NUNLMkRXQ3J6WWNwTEZYZnQ4dE5LVWtWZkx0cTdDeVZpRGxXYXU4QnJvOTBNZG5lcGo5UXpZaWFmb3pDY0tpUGtjQVRmTTY2YVN5eFlJZlVobmJPV0FNSE9WSjFzb1E1ZjA1VjR4S2hyTFB1YWNCRFlqNGJfb0t1bzQyUnc",
+   "source": "The Information",
+   "published_at": "2026-10-14T15:10:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Information",
+     "published_at": "2026-10-14T15:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVlDaG9fR0pKSnNHYzdxRmUyTXdCbW4wNmk4bGpnbWJsVk9JZDRCTXJ4NUNLMkRXQ3J6WWNwTEZYZnQ4dE5LVWtWZkx0cTdDeVZpRGxXYXU4QnJvOTBNZG5lcGo5UXpZaWFmb3pDY0tpUGtjQVRmTTY2YVN5eFlJZlVobmJPV0FNSE9WSjFzb1E1ZjA1VjR4S2hyTFB1YWNCRFlqNGJfb0t1bzQyUnc"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "7c824bf3b3b2",
    "title": "Broadcom vs. Nvidia: If I Could Only Own One for the Next 5 Years, It Would Be This One - The Motley Fool",
@@ -165,6 +199,23 @@
    "zh_summary": "英伟达跌2.05%，总市值5.39万亿美元",
    "title_zh": "美股讯号 | 英伟达股价下跌 2.05%，总市值达 5.39 万亿美元 ｜#美股资讯# #英伟达# #股价波动# - 搜狐",
    "sentiment": -1
+  },
+  {
+   "id": "c30d696659bd",
+   "title": "London Stock Exchange Group partners with Nvidia on data analysis - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWUl5Ny1jcXZBRGZpVVBJUXZfc2lGWnpmdGFpUTJrWDBKcmNBdnhPR0pHbG9aNkFHa2lsV0k2VmxZQmluTmpONkdsMGsyWnZ0V2hrWFdZS3lEVzcyV2hmd0UydXhFZEJXcUNjTEZ3QVVQb3lFbFJ0bS1MVGdOWEgtcDVrSlNScHNpQ29WVFd2NE9hdnVRN19yQm1QNEtzdzJ5RzZZUFUzSW5aS283YjRVaXN2S3BoX2FKTWhrUG01dG4zbERzWWc",
+   "source": "Investing.com",
+   "published_at": "2026-10-14T14:28:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-14T14:28:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWUl5Ny1jcXZBRGZpVVBJUXZfc2lGWnpmdGFpUTJrWDBKcmNBdnhPR0pHbG9aNkFHa2lsV0k2VmxZQmluTmpONkdsMGsyWnZ0V2hrWFdZS3lEVzcyV2hmd0UydXhFZEJXcUNjTEZ3QVVQb3lFbFJ0bS1MVGdOWEgtcDVrSlNScHNpQ29WVFd2NE9hdnVRN19yQm1QNEtzdzJ5RzZZUFUzSW5aS283YjRVaXN2S3BoX2FKTWhrUG01dG4zbERzWWc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "cac22b2a9ad9",
@@ -6630,71 +6681,6 @@
    "zh_summary": "马斯克芯片计划或提振某AI股票",
    "title_zh": "马斯克芯片野心或助力某AI股票，非特斯拉非英伟达",
    "sentiment": 0
-  },
-  {
-   "id": "d9dc7d66fd9f",
-   "title": "NVIDIA's Nova Driver Continues Leading The Way For Linux Rust GPU Drivers - Phoronix",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxaER4U1pIRFUyaEQtNVNpLUJpRnZyeHRZN2RIZDJvd0FENFdpWmZmOU9HZXJ2Yk95aHlqTmpPeDVSNl9QMnhOVzFCTnJkUXJVbzNYRXBEUmx4ajhsaDlJLUVrbDFxdDJ5MGdv",
-   "source": "Phoronix",
-   "published_at": "2026-10-13T10:28:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Phoronix",
-     "published_at": "2026-10-13T10:28:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxaER4U1pIRFUyaEQtNVNpLUJpRnZyeHRZN2RIZDJvd0FENFdpWmZmOU9HZXJ2Yk95aHlqTmpPeDVSNl9QMnhOVzFCTnJkUXJVbzNYRXBEUmx4ajhsaDlJLUVrbDFxdDJ5MGdv"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达Nova驱动领跑Linux GPU驱动",
-   "title_zh": "英伟达Nova驱动在Linux GPU驱动中持续领先",
-   "sentiment": 0
-  },
-  {
-   "id": "4c95f830e956",
-   "title": "上半年中国AI加速器出货量：英伟达67.8万颗、华为57.2万颗 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2l0aTAyMmVLbGlTd21TVnNjaWFvU1ozWUhpaU1kVmRJQXhyaTE0VWd6d1lOeEo4akY0Smp0VDRfTkZyRUtDcEF0ZWVhdkt4MUVYbmhKWkNsVFR3UTFWZU0yVjRaSXpkX3JkczRZQ0s1em1rY2Vyb0FOdGxPSF93YmRxSUlfZFdMMjBMSQ",
-   "source": "搜狐",
-   "published_at": "2026-10-13T10:25:58+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-13T10:25:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2l0aTAyMmVLbGlTd21TVnNjaWFvU1ozWUhpaU1kVmRJQXhyaTE0VWd6d1lOeEo4akY0Smp0VDRfTkZyRUtDcEF0ZWVhdkt4MUVYbmhKWkNsVFR3UTFWZU0yVjRaSXpkX3JkczRZQ0s1em1rY2Vyb0FOdGxPSF93YmRxSUlfZFdMMjBMSQ"
-    },
-    {
-     "name": "智东西",
-     "published_at": "2026-10-13T10:25:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92VFp5VngtU2VHZkd5OHNJUkllNDdXek94NEh2WmV0UXQyVDBxbXBpNEVZNGp5YUluOElBdmI1cmZEV0Fjdllocw"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "上半年中国AI加速器英伟达出货67.8万颗",
-   "title_zh": "上半年中国AI加速器出货量：英伟达67.8万颗、华为57.2万颗 - 搜狐",
-   "sentiment": 1
-  },
-  {
-   "id": "17b9ba3c45af",
-   "title": "Nvidia Stock Slips. How Broadcom and Microsoft Are Shaking the Chip Sector. - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXVla2g5SlhMWnc4QkQ4LUl3U2ZvU09mcXVQQXFORlQ4Mk55VXFKNG9UVkFiYzI1TVhZbGVnMUtxc1BBM0pfVnQzU1B3ZkJTQlctMDZweG1FSUczWnp1NTlGd0p4aFk1SWZ5c0JCbzV1RXdJN0xzejZIZEx6RlN0ZlJ2cktzdXNCcGY2eDhB",
-   "source": "Barron's",
-   "published_at": "2026-10-13T10:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-13T10:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXVla2g5SlhMWnc4QkQ4LUl3U2ZvU09mcXVQQXFORlQ4Mk55VXFKNG9UVkFiYzI1TVhZbGVnMUtxc1BBM0pfVnQzU1B3ZkJTQlctMDZweG1FSUczWnp1NTlGd0p4aFk1SWZ5c0JCbzV1RXdJN0xzejZIZEx6RlN0ZlJ2cktzdXNCcGY2eDhB"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达股价下滑，博通微软搅动芯片业",
-   "title_zh": "英伟达股价下滑，博通与微软搅动芯片板块",
-   "sentiment": -1
   }
  ]
 }
