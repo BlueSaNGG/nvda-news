@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T00:06:28.598543+00:00",
+ "updated_at": "2026-10-14T00:21:29.650216+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.33,
-   "count": 201
+   "count": 203
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.33（201条已评分）"
+     "note": "今日新闻情绪 +0.33（203条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-14T00:06:28.586065+00:00"
+   "as_of": "2026-10-14T00:21:29.636921+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b20de5c2024f",
+   "title": "对标英伟达DGX Spark！此芯科技推桌面级AI超算AGX Station - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UUmlOYXhld1Y0LVRXSk5ldS1Xam9YY1UwU29xalhFZ2IzcC1rWGhpQUU0YzFRbWlUYWktSTNPOFVQOHlKWk1xX0Q4QVh0aWNnd1NQZGxRNHM",
+   "source": "驱动之家",
+   "published_at": "2026-10-14T00:11:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-14T00:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UUmlOYXhld1Y0LVRXSk5ldS1Xam9YY1UwU29xalhFZ2IzcC1rWGhpQUU0YzFRbWlUYWktSTNPOFVQOHlKWk1xX0Q4QVh0aWNnd1NQZGxRNHM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "76e0f60dc25a",
    "title": "金融时报:填补AI芯片缺口 中企狂买英伟达游戏芯片凑数 - KLSE Screener",
@@ -82,6 +99,23 @@
    "sentiment": 1
   },
   {
+   "id": "aba2789ff753",
+   "title": "英伟达，发布DLSS 5新模型 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NckFJT3BLdzBfN19KNG9GZlYxX2hxZERncGJCLXhhN0x6V0sxVmJEWXhSQ0dJOXFDclpmbkRBX3l0UXBTWURvUEVmb29iYUd4X0hr",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-13T23:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-13T23:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NckFJT3BLdzBfN19KNG9GZlYxX2hxZERncGJCLXhhN0x6V0sxVmJEWXhSQ0dJOXFDclpmbkRBX3l0UXBTWURvUEVmb29iYUd4X0hr"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "b06e668e3b96",
    "title": "Nvidia prepays for US chip-testing capacity in KYEC's $1.4B expansion - Dealroom",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzdod0x5NW5TdnB6Tk5wRE9IR2tyYmt4NUxUVjFfLXZDSkhwY1VxUDh4dEpGdWJ4U0JEYWExSkNhNElRdFFYNmRnQjdTSFFLRE9rVEM1ZVk5TlE0ZVpQWHdjVVNmT3QybmlpS2VyMzJ6bGNMYjd4YXdWRC1kSlBaMTAwTVphYmYzMjlFTTNWMTNQbEI2cE1rWHlyMkhsNzB5RDFzRA",
@@ -97,8 +131,8 @@
    ],
    "category": "产品技术",
    "session": "盘后",
-   "title_zh": "英伟达预付费锁定KYEC 14亿美元扩产的美国芯片测试产能",
    "zh_summary": "英伟达预付锁定美国芯片测试产能",
+   "title_zh": "英伟达预付费锁定KYEC 14亿美元扩产的美国芯片测试产能",
    "sentiment": 1
   },
   {
@@ -6666,51 +6700,6 @@
    "zh_summary": "亚马逊与英伟达洽谈AI初创交易",
    "title_zh": "报道：亚马逊和英伟达考虑AI初创交易",
    "sentiment": 1
-  },
-  {
-   "id": "777ced3432fe",
-   "title": "Broadcom Is Building an AI Business Unlike Nvidia’s. Here’s My Price Prediction - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3VHVzZhaFI5M0tSQmMzSGkxck5CczN5b1Z2dGNpWDVQZk15VzFhdGM3Q1BVdjM5cUVwdGR3eXVESlQxNW9QbGNSTWZSR3JHdGxyYVNaT2RMOTNLeGt4eFFLUzNHZXRlN3pxWjJ5YndyS2xVX2E0OHNwQi13LXdsVTc5RFBuR013MWdIdnAtZFJLeDh2eDFwaUVhWEkyOWN4OU9WeGdFbDVqdWo4Ym1fcXk2a3RjYVJxVFk2bA",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-12T17:30:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-12T17:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3VHVzZhaFI5M0tSQmMzSGkxck5CczN5b1Z2dGNpWDVQZk15VzFhdGM3Q1BVdjM5cUVwdGR3eXVESlQxNW9QbGNSTWZSR3JHdGxyYVNaT2RMOTNLeGt4eFFLUzNHZXRlN3pxWjJ5YndyS2xVX2E0OHNwQi13LXdsVTc5RFBuR013MWdIdnAtZFJLeDh2eDFwaUVhWEkyOWN4OU9WeGdFbDVqdWo4Ym1fcXk2a3RjYVJxVFk2bA"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-12T17:30:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTm1URFdBN0doTWk5YmFlcTZOVkx6QU12M0FNWFpEQUstMHprX0dHZUtQODNzanpDaDBLVkpGOGNCYjFLWGt2eWFxYVNmVU1GelFDVGJjSnFXQzN1OTBxc0NXUmNjd0Y0THJremkwM1BEQTFzRGxmXzFISVhEYm1SSmQ1MEI3T3RUS1d0YjhlOWFFLTc1RGNtb3V4UW5HeHFBc0E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "博通打造有别于英伟达的AI业务",
-   "title_zh": "博通正在打造与英伟达不同的AI业务，并预测其股价",
-   "sentiment": -1
-  },
-  {
-   "id": "b0f51a17587b",
-   "title": "Microsoft’s Maia 300 chip and what it means for Nvidia - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRC1FcFBWeS1PMnRNYUd2cm13ZmJqUWJkblJKN2RxSlJGSWlJclZHeWlHYzlqaXNqOEtoSUEzSUxKb0RPUUtLT2dMX3VYbzFua0JZN21UTy1TeC1YSkhrWk1vb1MzNUxxWkJXRGtoaG5SalFneVM5UGpUX0RJTS1IUmUzSFFoSlNELUxpTnlLZkZlbTVEWUtxeVB0RnZHYy1PVVdfc1ZkQ3RLVGtDTGNJMVg4MjcxQQ",
-   "source": "Investing.com",
-   "published_at": "2026-10-12T17:18:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-12T17:18:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRC1FcFBWeS1PMnRNYUd2cm13ZmJqUWJkblJKN2RxSlJGSWlJclZHeWlHYzlqaXNqOEtoSUEzSUxKb0RPUUtLT2dMX3VYbzFua0JZN21UTy1TeC1YSkhrWk1vb1MzNUxxWkJXRGtoaG5SalFneVM5UGpUX0RJTS1IUmUzSFFoSlNELUxpTnlLZkZlbTVEWUtxeVB0RnZHYy1PVVdfc1ZkQ3RLVGtDTGNJMVg4MjcxQQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "微软Maia 300芯片解析及对英伟达的影响",
-   "title_zh": "微软Maia 300芯片及其对英伟达意味着什么",
-   "sentiment": -1
   }
  ]
 }
