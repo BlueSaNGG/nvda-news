@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T15:36:49.873813+00:00",
+ "updated_at": "2026-10-14T15:51:32.986178+00:00",
  "market": {
-  "price": 223.02,
-  "change_pct": -2.4,
+  "price": 222.44,
+  "change_pct": -2.66,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.56,
-   "count": 111
+   "avg": 0.55,
+   "count": 113
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 78% 分位"
+     "note": "现价处于52周区间 77% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +41.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +41.6%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.56（111条已评分）"
+     "note": "今日新闻情绪 +0.55（113条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $223.02 vs 20日均线 $228.78"
+     "note": "现价 $222.44 vs 20日均线 $228.75"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 78,
+   "price_52w_pct": 77,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 41.2,
-   "ma20": 228.78,
-   "as_of": "2026-10-14T15:36:49.852076+00:00"
+   "implied_upside_pct": 41.6,
+   "ma20": 228.75,
+   "as_of": "2026-10-14T15:51:32.977457+00:00"
   },
   "pe_ttm": 28.3,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+41.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+41.6%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "0853735ce0c5",
+   "title": "Nvidia Opens Its Vera Rubin Rack Design To Speed Up AI Data Centers - Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWlEYWF6NHFBdWZ3SjA4c0lNX1J3Sk8tVFlZb2d3UkwwbnpzSThoSExCWVFCZkpjMHUzRUFWaDFxM3V0WXRpdkpwU1BLSmtZSE1wa1dqSDk5Mml0R3NZMk9YXzUwOXYtSjd5bFNLWEJ0a0FIOGlDYkFMSGxBX0phSnZiZGNGVEZ0ZjJHMWdlNFRTTTgxR2IzTXJoWjJpU2gxMWJQLVdqajBZSjFmYmNYUmtkTGpEUWo5T0Vr",
+   "source": "Forbes",
+   "published_at": "2026-10-14T15:45:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Forbes",
+     "published_at": "2026-10-14T15:45:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWlEYWF6NHFBdWZ3SjA4c0lNX1J3Sk8tVFlZb2d3UkwwbnpzSThoSExCWVFCZkpjMHUzRUFWaDFxM3V0WXRpdkpwU1BLSmtZSE1wa1dqSDk5Mml0R3NZMk9YXzUwOXYtSjd5bFNLWEJ0a0FIOGlDYkFMSGxBX0phSnZiZGNGVEZ0ZjJHMWdlNFRTTTgxR2IzTXJoWjJpU2gxMWJQLVdqajBZSjFmYmNYUmtkTGpEUWo5T0Vr"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "1ef666cac77e",
+   "title": "Don’t Get NVIDIA’s Reflection AI Interest Wrong: Its Moat Could Deepen - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlFPUWx6RnVOdHBSX3dnZ1d6cjIwRmhwOGF0aDJ0bFQ2c1RGNFZHQzcwcFM5T2dRejlpOTQ4bmh6VHNYVnNKWVQwOHRDTFBkVmZhSFhIRXpXeVJLN09DOVQ5OVl6bEF1OW4xZEZQRGhqZldNR2k0YzY2eUNxSVdrQjZwWEl4eWlyeUF4bWVCeWdFV1ZCdF9xU2Vub1BteW10SWJKNlBTNA",
+   "source": "MarketBeat",
+   "published_at": "2026-10-14T15:37:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-14T15:37:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlFPUWx6RnVOdHBSX3dnZ1d6cjIwRmhwOGF0aDJ0bFQ2c1RGNFZHQzcwcFM5T2dRejlpOTQ4bmh6VHNYVnNKWVQwOHRDTFBkVmZhSFhIRXpXeVJLN09DOVQ5OVl6bEF1OW4xZEZQRGhqZldNR2k0YzY2eUNxSVdrQjZwWEl4eWlyeUF4bWVCeWdFV1ZCdF9xU2Vub1BteW10SWJKNlBTNA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "addeb6d8dc5c",
    "title": "英伟达：发布DLSS 5新模型，游戏股的“GPT时刻”来了 - 搜狐",
@@ -80,6 +114,40 @@
    "zh_summary": "英伟达发布DLSS 5新模型",
    "title_zh": "英伟达：发布DLSS 5新模型，游戏股的“GPT时刻”来了 - 搜狐",
    "sentiment": 1
+  },
+  {
+   "id": "f004288ed558",
+   "title": "Nvidia CEO Jensen Huang 'optimistic' on AI risks, sovereignty and jobs - Le Monde.fr",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeVNuZndDRk9kcGNna2F1Q3hqeTJMQUdqekJYSGFrMmtxWDhka1BEU3BPd2hldV9HdkwwX0ZwSFhGdTI1bjl5V3FrQTVQT1lRZWp2UjhRblNKbWVCODJjQlBSTGhWYXJaRWVNaUJnTWMyUzRXYWNSX0F2cmk5OUFGNzRCRU9UbVdqSVlrWENNNGxxX05hQXFWa2k2M1A2Y3VxWnBpTVZBYm94WTh4ZFVFQkRqMW91cXh5ZHNoX2cxbUJQem5GbzhZR3YyQmdjRHNnQnc",
+   "source": "Le Monde.fr",
+   "published_at": "2026-10-14T15:29:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Le Monde.fr",
+     "published_at": "2026-10-14T15:29:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeVNuZndDRk9kcGNna2F1Q3hqeTJMQUdqekJYSGFrMmtxWDhka1BEU3BPd2hldV9HdkwwX0ZwSFhGdTI1bjl5V3FrQTVQT1lRZWp2UjhRblNKbWVCODJjQlBSTGhWYXJaRWVNaUJnTWMyUzRXYWNSX0F2cmk5OUFGNzRCRU9UbVdqSVlrWENNNGxxX05hQXFWa2k2M1A2Y3VxWnBpTVZBYm94WTh4ZFVFQkRqMW91cXh5ZHNoX2cxbUJQem5GbzhZR3YyQmdjRHNnQnc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "c9c118740f8e",
+   "title": "Global markets live: Apple, Bank of America, Nvidia, AT&T, Boeing… - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmNSR3YteHNfSnlVZHBSbm1VMWtKR0lpcGYyamdod3BKNC05T3dsT1RPaDB3YW50MC1jbWpLcEZjSWRjZHl3VV9IMXh1bEhKRmk0U0VrZFlyZWRsUHhLQ3dwcm5oZUZiX3NKZE1waGtTc01YYzV0RG5jYXV0YnRZQkcwVzVQWXJVVWtGUnpwVUEzUTNnZmRGZmM5a3RCMHU3NVVMM19abEFIMFYtRXViOVF2Wi1kdw",
+   "source": "marketscreener.com",
+   "published_at": "2026-10-14T15:17:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-14T15:17:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmNSR3YteHNfSnlVZHBSbm1VMWtKR0lpcGYyamdod3BKNC05T3dsT1RPaDB3YW50MC1jbWpLcEZjSWRjZHl3VV9IMXh1bEhKRmk0U0VrZFlyZWRsUHhLQ3dwcm5oZUZiX3NKZE1waGtTc01YYzV0RG5jYXV0YnRZQkcwVzVQWXJVVWtGUnpwVUEzUTNnZmRGZmM5a3RCMHU3NVVMM19abEFIMFYtRXViOVF2Wi1kdw"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
   },
   {
    "id": "8c2a5d5a319a",
@@ -251,12 +319,12 @@
    "title": "Nvidia Commits US$1B to American Science Push in Tech Energy & Healthcare - Streetwise Reports",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDA2dl9xWlBxaFZCYTZ5X29nMXpFR2ZibnNNdWpDRF9yY0dtWGhfWmwwdE0tdXNQcXJKTVFBa3ZocHV6QUFXcFBwRUpKcS1UeGV4WVdvQm1icmVUTWNINng3amZQTFl3VWFlOGRtWF9aS1RCS2kxWEtRNko2TG9ubk5vV3JZcVFPOG4xRXp5YzJKU2dQWGdncTk5cjBKRF9HTzdXRnl2b25UcjQydk1UVFUzZzJwckF4bnJFRm1oR0JEQXlhd1FzQ2hhSkhBUQ",
    "source": "Streetwise Reports",
-   "published_at": "2026-10-14T14:24:24+00:00",
+   "published_at": "2026-10-14T14:23:34+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Streetwise Reports",
-     "published_at": "2026-10-14T14:24:24+00:00",
+     "published_at": "2026-10-14T14:23:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDA2dl9xWlBxaFZCYTZ5X29nMXpFR2ZibnNNdWpDRF9yY0dtWGhfWmwwdE0tdXNQcXJKTVFBa3ZocHV6QUFXcFBwRUpKcS1UeGV4WVdvQm1icmVUTWNINng3amZQTFl3VWFlOGRtWF9aS1RCS2kxWEtRNko2TG9ubk5vV3JZcVFPOG4xRXp5YzJKU2dQWGdncTk5cjBKRF9HTzdXRnl2b25UcjQydk1UVFUzZzJwckF4bnJFRm1oR0JEQXlhd1FzQ2hhSkhBUQ"
     }
    ],
@@ -6580,86 +6648,6 @@
    "zh_summary": "博通与英伟达对比：AI革命市场足够大",
    "title_zh": "博通 vs 英伟达：AI革命足够容下两者，哪个更值得买",
    "sentiment": 0
-  },
-  {
-   "id": "fa8b35fecf9c",
-   "title": "黄仁勋最担心的事正在发生：NVIDIA、华为差距缩小至6%！ - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRZWtKalI1SjJDM0RZb2FvMEpodThGeU91SlhoeUxQOUlnOEc5UkNYY1ZHSG9HNHBialhCeTluTFF1MlRXRklmNnhzenQwQmhXcjdj",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-13T11:17:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-13T11:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRZWtKalI1SjJDM0RZb2FvMEpodThGeU91SlhoeUxQOUlnOEc5UkNYY1ZHSG9HNHBialhCeTluTFF1MlRXRklmNnhzenQwQmhXcjdj"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "报道称NVIDIA与华为AI芯片差距缩小至6%",
-   "title_zh": "黄仁勋最担心的事正在发生：NVIDIA、华为差距缩小至6%！ - 电子工程专辑",
-   "sentiment": -1
-  },
-  {
-   "id": "c0fc8284b193",
-   "title": "Dear Nvidia Stock Fans, Mark Your Calendars for October 13 - Barchart.com",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUxJYU5oQ2JZVEJLbW5fSzBuVG9NcGx6eVpSaUlDbWRjT2x6OXd5VEozLXVZTExmQnlRdDY2Z3MtZUJPcGZEZll5ejhWTFBMaGJURDVEWjNPekpKdS1iX1BfLVM2T1BKQzNUSEY2dlByQzRxZ3FkbmQ5NlpKdWpfcXdjNTBwcEVkU2RrUUZ3RDd4V0FVUzY1T1FaR2k1OFRZUm1J",
-   "source": "Barchart.com",
-   "published_at": "2026-10-13T11:14:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barchart.com",
-     "published_at": "2026-10-13T11:14:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUxJYU5oQ2JZVEJLbW5fSzBuVG9NcGx6eVpSaUlDbWRjT2x6OXd5VEozLXVZTExmQnlRdDY2Z3MtZUJPcGZEZll5ejhWTFBMaGJURDVEWjNPekpKdS1iX1BfLVM2T1BKQzNUSEY2dlByQzRxZ3FkbmQ5NlpKdWpfcXdjNTBwcEVkU2RrUUZ3RDd4V0FVUzY1T1FaR2k1OFRZUm1J"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "提醒股民关注10月13日",
-   "title_zh": "亲爱的英伟达股东们：记住10月13日这一天",
-   "sentiment": 0
-  },
-  {
-   "id": "a8473413f6ce",
-   "title": "英伟达GPU在华出货量大跌44% - 观察者网",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iTDV5dUhWZVJreXJiWGRJRUZVRUVxamdNd2NrQVQ5V3UzdHJNMEdfSEVEcnJTQi1jYUlreDRUdEluN2Z6LU9uUW5FRk5SR2VodUFMSk1UU0NiZlZGb2hqLUlEMFM",
-   "source": "观察者网",
-   "published_at": "2026-10-13T10:53:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "观察者网",
-     "published_at": "2026-10-13T10:53:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iTDV5dUhWZVJreXJiWGRJRUZVRUVxamdNd2NrQVQ5V3UzdHJNMEdfSEVEcnJTQi1jYUlreDRUdEluN2Z6LU9uUW5FRk5SR2VodUFMSk1UU0NiZlZGb2hqLUlEMFM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达GPU在华出货量大跌44%",
-   "title_zh": "英伟达GPU在华出货量大跌44% - 观察者网",
-   "sentiment": -1
-  },
-  {
-   "id": "ae608c762993",
-   "title": "静默间谍、炽热信贷，以及3倍标准差的英伟达看跌/看涨期权价差 | 期权市场统计 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTU40X1ZDUkUyQi1jRWRvZjd1SzNTTU1oeWxKRlhNSDJ4SWtsV3psVExENUJBeGdVd1M4c2RkMjljcGJZVnZwcHk3ZzBMdEtSaDBpMjAyWnZBVmtESWV4cmZOYzNjaTBFTTRBVDBsR005cEItc3ZteWVDUGYwamFzWlFpMmw1am9GQmhOeF9TUGdRUHkwVU5yd2FsOXRuRTRMSzNkQ1V1Z1VLWExoZEE",
-   "source": "Moomoo",
-   "published_at": "2026-10-13T10:51:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-13T10:51:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTU40X1ZDUkUyQi1jRWRvZjd1SzNTTU1oeWxKRlhNSDJ4SWtsV3psVExENUJBeGdVd1M4c2RkMjljcGJZVnZwcHk3ZzBMdEtSaDBpMjAyWnZBVmtESWV4cmZOYzNjaTBFTTRBVDBsR005cEItc3ZteWVDUGYwamFzWlFpMmw1am9GQmhOeF9TUGdRUHkwVU5yd2FsOXRuRTRMSzNkQ1V1Z1VLWExoZEE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达看跌/看涨期权价差达3倍标准差",
-   "title_zh": "静默间谍、炽热信贷，以及3倍标准差的英伟达看跌/看涨期权价差",
-   "sentiment": -1
   }
  ]
 }
