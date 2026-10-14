@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T17:37:34.143036+00:00",
+ "updated_at": "2026-10-14T17:55:10.994029+00:00",
  "market": {
-  "price": 221.34,
-  "change_pct": -3.14,
+  "price": 220.71,
+  "change_pct": -3.42,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
@@ -20,12 +20,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 76% 分位"
+     "note": "现价处于52周区间 75% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +42.3%"
+     "note": "目标价中位数 $315（15家），隐含空间 +42.7%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $221.34 vs 20日均线 $228.69"
+     "note": "现价 $220.71 vs 20日均线 $228.66"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 76,
+   "price_52w_pct": 75,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 42.3,
-   "ma20": 228.69,
-   "as_of": "2026-10-14T17:37:34.131892+00:00"
+   "implied_upside_pct": 42.7,
+   "ma20": 228.66,
+   "as_of": "2026-10-14T17:55:10.984897+00:00"
   },
   "pe_ttm": 28.1,
-  "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.3%空间：估值偏低，预期乐观"
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+42.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,74 @@
   }
  },
  "stories": [
+  {
+   "id": "78f470c1986e",
+   "title": "Watch AI Boom Drives ASML Higher as Nvidia Bets on Europe - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0prSF9vU0dIOHdkRkdiVWYwOHpvRzhob2N5MmNIODNQaXl5cWVGU1pVZEpsQ19uclFQdkh0a2VFOWZuU0g3MDdaR1VMTXl2c0wxTVJRbjNrd3FXZldhUEdjbGpCWmFYUW5tSFNYZTZyOHpMUHdVcGI3anhtUmNkdEhaRU5Td1E",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-14T17:50:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-14T17:50:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0prSF9vU0dIOHdkRkdiVWYwOHpvRzhob2N5MmNIODNQaXl5cWVGU1pVZEpsQ19uclFQdkh0a2VFOWZuU0g3MDdaR1VMTXl2c0wxTVJRbjNrd3FXZldhUEdjbGpCWmFYUW5tSFNYZTZyOHpMUHdVcGI3anhtUmNkdEhaRU5Td1E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "d6cea0371f43",
+   "title": "英伟达CEO黄仁勋表示：将切断所有开发不安全AI产品的客户的供货 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MRGZXYXNPZmRmbzFFMlJsZDU3UTRXbEJleXByMWVldm5HQ3ZtRWo4MGxxa1hZRWdZRF9NdGdMeWVaYlpaelVxelF0M1ZOdUYwZnhWeldWV1FXR0llUm5KSQ",
+   "source": "东方财富",
+   "published_at": "2026-10-14T17:42:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-14T17:42:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MRGZXYXNPZmRmbzFFMlJsZDU3UTRXbEJleXByMWVldm5HQ3ZtRWo4MGxxa1hZRWdZRF9NdGdMeWVaYlpaelVxelF0M1ZOdUYwZnhWeldWV1FXR0llUm5KSQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "907993c3c83f",
+   "title": "Stocks on Watch After CPI-Fueled Breakdown: SPX, Nasdaq, NVDA - StoneX",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ0JPYTlHRzVWNm5SVDkzcXY0ODdkODZEcUhoSTlLdGVNWnd1VW1Wejg5RUxkdDJpV2xUdU1NYUQ4VzkwUW1WRWRPNzBVd3lsZjl3ZUdnVEpqQzdZN3FlejhDSmpQMXR6Ty1mcFRUQW05OUVoU2loRWZEMVhtQ1ZKb194VThTcDhrY0NoVlQzc2xaZFlvcHhNdXM2VExTT0lGVlEzbEJ4WUZPUDZqVDk2dGgzdE1hbWRT",
+   "source": "StoneX",
+   "published_at": "2026-10-14T17:40:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "StoneX",
+     "published_at": "2026-10-14T17:40:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ0JPYTlHRzVWNm5SVDkzcXY0ODdkODZEcUhoSTlLdGVNWnd1VW1Wejg5RUxkdDJpV2xUdU1NYUQ4VzkwUW1WRWRPNzBVd3lsZjl3ZUdnVEpqQzdZN3FlejhDSmpQMXR6Ty1mcFRUQW05OUVoU2loRWZEMVhtQ1ZKb194VThTcDhrY0NoVlQzc2xaZFlvcHhNdXM2VExTT0lGVlEzbEJ4WUZPUDZqVDk2dGgzdE1hbWRT"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "fe1ac5e35021",
+   "title": "Nvidia CEO Says He Would Cut Off Customers Who Build Unsafe AI - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnhxakNaMklvT25NQjFreTNHYVhMME45SHh4QkhBSGhVNFlPUFFCTmNyaGhYWFJobXZSMFZSUGtlUE5JNkxicGNhOVIzUkowVFo1UjlfZmliN2lFVmlJVDN6UGNUMFhDN0twbnJ6ejdpU19xQ01jSUR5Y3lnWnkxM0pUdGVDQnNiNFdkenE2dG9Zcm1DakdFUUdnbFZqTXc4TVR1c2hHX0hWV2I3aGFFcmhTcw",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-14T17:34:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-14T17:34:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnhxakNaMklvT25NQjFreTNHYVhMME45SHh4QkhBSGhVNFlPUFFCTmNyaGhYWFJobXZSMFZSUGtlUE5JNkxicGNhOVIzUkowVFo1UjlfZmliN2lFVmlJVDN6UGNUMFhDN0twbnJ6ejdpU19xQ01jSUR5Y3lnWnkxM0pUdGVDQnNiNFdkenE2dG9Zcm1DakdFUUdnbFZqTXc4TVR1c2hHX0hWV2I3aGFFcmhTcw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "b049fb3898a8",
    "title": "NVIDIA Broadcast 2.3.0 adds RTX Video upscaling and frame generation to video files and webcams - TweakTown",
@@ -782,6 +850,23 @@
    "zh_summary": "投资者错过的2350亿美元看涨信号",
    "title_zh": "英伟达：投资者错过的2350亿美元看涨信号",
    "sentiment": 1
+  },
+  {
+   "id": "e14c3669b898",
+   "title": "NVIDIA RTX 5060 Ti 16 GB Surges Up To 144% In Japan, Hitting $1,292 As RTX 5080 Climbs Past $2,400 - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnc2xCck1RYjBMc0N3VTZ5dzdFOEJZWXVvOW5LWkg1TnhNZlI5djlsY3oyYk9Vd3FTTkNlU3pJUXdleVJaNlgzZVdMcnh6Uzd6SS1BT0cxVm9Vd0FicUxLUVJRLWRORThoaUVGdWsyUGN3RFM5YllTWk5lNVfSAYIBQVVfeXFMT0ptVlZIU004OEtzUFFMMDc4VlJ0MFRadVZMYnRDLXJvNkRZeWdNbGt1NExfemU0NXRkaWVBN2t0dkNWVWphT0pXNGpyY3FuN0hFenV6cHlxZk1WY1VKdmlEenhVNHUyRXlWYy1HSFVYQVh5QWNiaFpqclljSjM4WVpWZw",
+   "source": "Wccftech",
+   "published_at": "2026-10-14T14:06:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-14T14:06:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnc2xCck1RYjBMc0N3VTZ5dzdFOEJZWXVvOW5LWkg1TnhNZlI5djlsY3oyYk9Vd3FTTkNlU3pJUXdleVJaNlgzZVdMcnh6Uzd6SS1BT0cxVm9Vd0FicUxLUVJRLWRORThoaUVGdWsyUGN3RFM5YllTWk5lNVfSAYIBQVVfeXFMT0ptVlZIU004OEtzUFFMMDc4VlJ0MFRadVZMYnRDLXJvNkRZeWdNbGt1NExfemU0NXRkaWVBN2t0dkNWVWphT0pXNGpyY3FuN0hFenV6cHlxZk1WY1VKdmlEenhVNHUyRXlWYy1HSFVYQVh5QWNiaFpqclljSjM4WVpWZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "66cba1ba2779",
@@ -2190,6 +2275,23 @@
    "zh_summary": "Fulcrum资管减持英伟达64683股",
    "title_zh": "Fulcrum资管出售64683股英伟达股份",
    "sentiment": -1
+  },
+  {
+   "id": "115768eddaad",
+   "title": "313,966 NVIDIA Corporation $NVDA Shares Bought by Empowered Funds LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkN0dTVRT2E5SHNkeWIycDBqR3FjMDVtTVp4MXVueXlqNTVCWkJNU1h3OTBLdkpSeHJ5T3dQaUpBSm5nTlZEaWhnd1VWS2pXTGtOZFV4WGxLVDBSdDB0ODROaDZqU3FacE9DMUhnYk5vQ19jdS1yekR1SmpBTm1JRUN6U0FreG40X29YTjNnMVZ5blhqVmF3ZmhmYXphbTRveVA1RjRMMzRIR3gxMDFGdGt0ODJhdDVhOGZtci1Ed2VwYTNCWk53",
+   "source": "MarketBeat",
+   "published_at": "2026-10-14T07:33:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-14T07:33:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkN0dTVRT2E5SHNkeWIycDBqR3FjMDVtTVp4MXVueXlqNTVCWkJNU1h3OTBLdkpSeHJ5T3dQaUpBSm5nTlZEaWhnd1VWS2pXTGtOZFV4WGxLVDBSdDB0ODROaDZqU3FacE9DMUhnYk5vQ19jdS1yekR1SmpBTm1JRUN6U0FreG40X29YTjNnMVZ5blhqVmF3ZmhmYXphbTRveVA1RjRMMzRIR3gxMDFGdGt0ODJhdDVhOGZtci1Ed2VwYTNCWk53"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "29c4d540ebd8",
@@ -6554,150 +6656,6 @@
    "zh_summary": "网易《燕云十六声》将支持DLSS 5",
    "title_zh": "网易游戏《燕云十六声》将支持英伟达DLSS 5技术 - 东方财富",
    "sentiment": 1
-  },
-  {
-   "id": "1c188fb9cd9c",
-   "title": "【明日主题前瞻】AI游戏领域新动作，英伟达发布新技术、微软成立新团队 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fUTV0VmExalpaVWlxOXlCcFZGZzBwZUljbk9DNktWWUF1VmdoZXEzbUtQVUtta0gxUGhSbWRvbC1JQ0JyMjVRVA",
-   "source": "财联社",
-   "published_at": "2026-10-13T12:44:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-13T12:44:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fUTV0VmExalpaVWlxOXlCcFZGZzBwZUljbk9DNktWWUF1VmdoZXEzbUtQVUtta0gxUGhSbWRvbC1JQ0JyMjVRVA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达发布AI游戏新技术",
-   "title_zh": "【明日主题前瞻】AI游戏领域新动作，英伟达发布新技术、微软成立新团队 - 财联社",
-   "sentiment": 1
-  },
-  {
-   "id": "852ed3937ca6",
-   "title": "U.S. Export Restrictions Drive Nvidia China AI Chip Market Share Down to 34% - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQUpNWndGWWhqc3pMbkV0SEFkb3N4REVSQmpRZEsxdHlZZTIwVktsLXBjSTBxWDlrSjhNalJmakRzdFlmQm9TQlhhMXVWSjZ6UHNlY2RybldidkRaZHBKNk5NY3ZIUzdYcTVyZ2hpb3loaEkyUldsX2Nsb0xkWk43d3NwVWZkelMxMDRnUUpQaDNyUkxFUGFXY3VHeGFkeUU",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-13T12:43:25+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-13T12:43:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQUpNWndGWWhqc3pMbkV0SEFkb3N4REVSQmpRZEsxdHlZZTIwVktsLXBjSTBxWDlrSjhNalJmakRzdFlmQm9TQlhhMXVWSjZ6UHNlY2RybldidkRaZHBKNk5NY3ZIUzdYcTVyZ2hpb3loaEkyUldsX2Nsb0xkWk43d3NwVWZkelMxMDRnUUpQaDNyUkxFUGFXY3VHeGFkeUU"
-    },
-    {
-     "name": "TIKR.com",
-     "published_at": "2026-10-13T12:58:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjJWSjl6UktlV2tqSDljbkJUVTF1eHZHVEdVMnRTSnZaTVlmTG9JMndIVlRnczNSYnNIa2g5UHFtWjZyMnI5SFVIdUozeWtkQWMzajgydkYwTFNScS02TnhCdVNIMHZnUFduOFV0MUxtLU1fYnZqdmh1NEROMU9IVDRNNnZWY1VUOTNEOG9lQ2hYSGtSSmlv"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "美国出口限制致英伟达在华AI芯片份额降至34%",
-   "title_zh": "美国出口限制使英伟达在华 AI 芯片市场份额降至 34%",
-   "sentiment": -1
-  },
-  {
-   "id": "9eaca8630c33",
-   "title": "NVIDIA introduces up to 35% faster DLSS Frame Generation mode for RTX 40 and RTX 50 GPUs - VideoCardz.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLS1rbkhFTmRUQ0tDMjR6TUFsa2NJOVJscENVbUp0R1FyWU1kelJvemFVbFlDdmNnQU5QWXZaRWp6ZXhRRGEzX2xfUktYSE14bktZZGN0bjM1N2poWHotWEVzbTVtNkFOSmpvYXJ2eUNJMTlhUFQydFRnR2xrNE5aOUxlR1lPNXNLRUJjckxoZHQwOFVMNG83WjlSSjU3b0N1TkgwSlQzTk96U3pxMEZWWUhKUGZ6QQ",
-   "source": "VideoCardz.com",
-   "published_at": "2026-10-13T12:38:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "VideoCardz.com",
-     "published_at": "2026-10-13T12:38:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLS1rbkhFTmRUQ0tDMjR6TUFsa2NJOVJscENVbUp0R1FyWU1kelJvemFVbFlDdmNnQU5QWXZaRWp6ZXhRRGEzX2xfUktYSE14bktZZGN0bjM1N2poWHotWEVzbTVtNkFOSmpvYXJ2eUNJMTlhUFQydFRnR2xrNE5aOUxlR1lPNXNLRUJjckxoZHQwOFVMNG83WjlSSjU3b0N1TkgwSlQzTk96U3pxMEZWWUhKUGZ6QQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达推出帧生成提速35%的DLSS模式",
-   "title_zh": "英伟达为RTX 40/50显卡推出快35%的DLSS帧生成",
-   "sentiment": 1
-  },
-  {
-   "id": "f7a9946877a0",
-   "title": "NVIDIA shows updated DLSS 5 in Hogwarts Legacy, and the faces look very different from earlier demo - VideoCardz.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc2RsOE5UNXUwTWtNQnA5MGdRWENCWi1rSUo3bUVwSEszSXYydmZvWGpaRmk5LVlqTTlYM2I1QmdTZWdBc0lsaFQzd2JiVlZqMkpKR0I1NVc0TUxiZEFwZWhwM0Vod05WN2tMU3pjOW05RXU3VDI1NTlNVEhkdW1GVVN6SXNCU2xPZVN3amRBZENHbzRKdjAxenNDRkh2aVZjbkF4NnZJaE9ZSWVLamFRalNZRUNPcEpqOW1KSGNxZHVIWWRE",
-   "source": "VideoCardz.com",
-   "published_at": "2026-10-13T12:38:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "VideoCardz.com",
-     "published_at": "2026-10-13T12:38:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc2RsOE5UNXUwTWtNQnA5MGdRWENCWi1rSUo3bUVwSEszSXYydmZvWGpaRmk5LVlqTTlYM2I1QmdTZWdBc0lsaFQzd2JiVlZqMkpKR0I1NVc0TUxiZEFwZWhwM0Vod05WN2tMU3pjOW05RXU3VDI1NTlNVEhkdW1GVVN6SXNCU2xPZVN3amRBZENHbzRKdjAxenNDRkh2aVZjbkF4NnZJaE9ZSWVLamFRalNZRUNPcEpqOW1KSGNxZHVIWWRE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "DLSS 5在霍格沃茨之遗中展示画质改进",
-   "title_zh": "英伟达在《霍格沃茨之遗》展示更新的DLSS 5",
-   "sentiment": 1
-  },
-  {
-   "id": "f954fd1a7957",
-   "title": "NVIDIA Begins Vera Rubin Production: Can It Extend NVDA's AI Lead? - Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2FvZTVVS1ZfTkRhdGZrallrLW95VVQwbE5RTzRJNHl1bU45eDJob0lQaTBwTHlYNEVORlhQNjdlenBpc0hMc2tERlZGWTd3ODA3MEV2QWhLS0xJUy1KSGtaQ3VON2ZlWGNTTEVfZVZPNEtPR29JRGZMMl9Oc0RtZzBpbzRVSDZLTHFTUA",
-   "source": "Yahoo Finance Singapore",
-   "published_at": "2026-10-13T12:38:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Yahoo Finance Singapore",
-     "published_at": "2026-10-13T12:38:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2FvZTVVS1ZfTkRhdGZrallrLW95VVQwbE5RTzRJNHl1bU45eDJob0lQaTBwTHlYNEVORlhQNjdlenBpc0hMc2tERlZGWTd3ODA3MEV2QWhLS0xJUy1KSGtaQ3VON2ZlWGNTTEVfZVZPNEtPR29JRGZMMl9Oc0RtZzBpbzRVSDZLTHFTUA"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-13T12:38:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmRBRUdPSjlvalNpMTRMaVptVU5sYzJBWFBPcVdSX2NZbnZRRFZrQnJWUFdvYzFMLUxlTFhYc1daWEM5cnMtdjVvT0lHLUt1UHZkRE9ua3g4N19fRVRFY2xVT2dSaUczZDJUSnhfRTNDajFnaWdrRDNHVW5OdGlRMkUtQUFTNXpLQk8tZnYwbnh2WUU4ZEJNT216SlduYVV2N1JtSm5NZnczbVhob0dQaGtPWUY1VkRVa1NQaA"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-13T15:23:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZW9zbExEQjRkWkcyWGVzaXFKRmR2cVlDSnZMVUI3anc3QXN1bkUyRHZRb3NBY01zYTl3aFhua05mNXNyMlYwVi1pd0ZBd2Y4QVdNMjdJR3E0RUhWdDV6WExlQ3ZnOGd2RENiMG96Qlk3RWdpekJzVWFtbEJXQlg0TDV2bDdJZ0JmejlqVHhpZ1E4ZmhiSGNoOW1JTHg0empFWGpxT1piV3FyMFphanZHaUt2Tk8ydU9ndTBGYWxWVTlXcXNLTzR4RXBDTU1pemRNVTQ0eDhLSDZseW15UmV1eg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达启动Vera Rubin芯片生产",
-   "title_zh": "英伟达启动Vera Rubin生产，能延续AI领先优势吗",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.27,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "3b6923c9d7e7",
-   "title": "英伟达与华为的6个百分点：中国AI芯片市场竞争格局生变 - 36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCa191ZEd2cWE1WlpZeUhHR2dCY2k4ek1wZTZ4TjVUdVA3T1ctbU54QWg0MmNTU2RybjlCRWFmaWdkQVhOVFh4cmpydw",
-   "source": "36Kr",
-   "published_at": "2026-10-13T12:38:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-13T12:38:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCa191ZEd2cWE1WlpZeUhHR2dCY2k4ek1wZTZ4TjVUdVA3T1ctbU54QWg0MmNTU2RybjlCRWFmaWdkQVhOVFh4cmpydw"
-    },
-    {
-     "name": "36氪",
-     "published_at": "2026-10-13T12:38:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VT3E4b05kbDdGTDFhejdvSVBNbVhJZUJnNFVJT3dIaUxoRFNYNHV4eUtGQzVaRkxTVnJPQl9rVVpZWC02dkdhVXJrbGlkZw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "中国AI芯片竞争格局生变",
-   "title_zh": "英伟达与华为的6个百分点：中国AI芯片市场竞争格局生变 - 36Kr",
-   "sentiment": -1
   }
  ]
 }
