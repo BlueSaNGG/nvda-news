@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T19:54:35.110461+00:00",
+ "updated_at": "2026-10-14T20:07:12.560940+00:00",
  "market": {
-  "price": 221.02,
-  "change_pct": -3.28,
+  "price": 221.3,
+  "change_pct": -3.16,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.45,
-   "count": 157
+   "avg": 0.46,
+   "count": 158
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 75% 分位"
+     "note": "现价处于52周区间 76% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +42.5%"
+     "note": "目标价中位数 $315（15家），隐含空间 +42.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.45（157条已评分）"
+     "note": "今日新闻情绪 +0.46（158条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $221.02 vs 20日均线 $228.68"
+     "note": "现价 $221.30 vs 20日均线 $228.69"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 75,
+   "price_52w_pct": 76,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 42.5,
-   "ma20": 228.68,
-   "as_of": "2026-10-14T19:54:35.098191+00:00"
+   "implied_upside_pct": 42.3,
+   "ma20": 228.69,
+   "as_of": "2026-10-14T20:07:12.547836+00:00"
   },
   "pe_ttm": 28.1,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.5%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6f0a8503b59c",
+   "title": "NVIDIA RTX 5060 Ti hits nearly $775 at Tokyo retailer, 41% above U.S. pricing - TweakTown",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUkxJN2VSRzlPTDltUHdUTWt6RVlqS3hRUG5iWWw3SEUyNjFfblNLWHpaS0VpSDV2TE4zeVdERGtYbTFDakk0SDlrSzRIN0VlWUdLci1ZU1A0TGxfbWJKVVhLc0ZLRXJ1c1hzSmlpM0doVG5oTHcwVHNjTnRBQi03Q3BMRHVFQVdDWTlpclBMbGs3SDRoMkpaYmtYVGI1a3dNWW9peG1yTXFJODl3a3RMaUllekhITXVGVnJGNUNpQ2pxRS1VNDFTM0VWbUxvRFNhdzFR",
+   "source": "TweakTown",
+   "published_at": "2026-10-14T19:40:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TweakTown",
+     "published_at": "2026-10-14T19:40:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUkxJN2VSRzlPTDltUHdUTWt6RVlqS3hRUG5iWWw3SEUyNjFfblNLWHpaS0VpSDV2TE4zeVdERGtYbTFDakk0SDlrSzRIN0VlWUdLci1ZU1A0TGxfbWJKVVhLc0ZLRXJ1c1hzSmlpM0doVG5oTHcwVHNjTnRBQi03Q3BMRHVFQVdDWTlpclBMbGs3SDRoMkpaYmtYVGI1a3dNWW9peG1yTXFJODl3a3RMaUllekhITXVGVnJGNUNpQ2pxRS1VNDFTM0VWbUxvRFNhdzFR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "0f97860a53ae",
    "title": "英伟达CEO黄仁勋：会对开发不安全AI软件的客户断供芯片 - 搜狐",
@@ -6659,26 +6676,6 @@
    "session": "盘前",
    "zh_summary": "分析：股价已计入中国数据中心零销售",
    "title_zh": "英伟达：股价已消化中国数据中心零销售预期",
-   "sentiment": 1
-  },
-  {
-   "id": "9301cd37552f",
-   "title": "Nvidia's $4 Trillion 2030 Projection Makes It the Best Buy in the Market - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEZHNkVGY1VVaklyano4RjBiZUhzX1VBbnF2c0RhYXpVTWgyZmE5N3hXUGs1clh5SXhTRE4zeWlkVTVCaXhZd2JlSTRmdGxvREZ4TWdjeklqejlLR1RPd29oMUVKcGxXb2JYOWItLUdZZ2tYbWxKWktINGRTVUFUOFJwTF91RDVVTnN0bUpwcW8yd2NEc2l4Rw",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-13T13:14:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-13T13:14:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEZHNkVGY1VVaklyano4RjBiZUhzX1VBbnF2c0RhYXpVTWgyZmE5N3hXUGs1clh5SXhTRE4zeWlkVTVCaXhZd2JlSTRmdGxvREZ4TWdjeklqejlLR1RPd29oMUVKcGxXb2JYOWItLUdZZ2tYbWxKWktINGRTVUFUOFJwTF91RDVVTnN0bUpwcW8yd2NEc2l4Rw"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "分析师预测2030年英伟达市值达4万亿美元",
-   "title_zh": "英伟达2030年市值4万亿美元预测使其成为市场最佳买入",
    "sentiment": 1
   }
  ]
