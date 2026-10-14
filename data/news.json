@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T14:07:43.891988+00:00",
+ "updated_at": "2026-10-14T14:22:19.292903+00:00",
  "market": {
-  "price": 224.73,
-  "change_pct": -1.66,
+  "price": 224.46,
+  "change_pct": -1.77,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.63,
-   "count": 92
+   "avg": 0.64,
+   "count": 97
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +40.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +40.3%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.63（92条已评分）"
+     "note": "今日新闻情绪 +0.64（97条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $224.73 vs 20日均线 $228.86"
+     "note": "现价 $224.46 vs 20日均线 $228.85"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 80,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 40.2,
-   "ma20": 228.86,
-   "as_of": "2026-10-14T14:07:43.845842+00:00"
+   "implied_upside_pct": 40.3,
+   "ma20": 228.85,
+   "as_of": "2026-10-14T14:22:19.284050+00:00"
   },
-  "pe_ttm": 28.6,
+  "pe_ttm": 28.5,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+40.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+40.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "2a8d00f5a4a6",
+   "title": "AMD Challenges Nvidia in AI Inference, SemiAnalysis Finds - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbjlkSGFsN19jUWVBN0VWd1JSd3hHeWZwLWF3aENsUGQ1VHJRbXdHc1NkZlk5UWpkUTgyRW5jbFZKOWUxaTdRd3ZPdl9ZU1FXUU4xWTBnUzdxRkQzMTFvS1czaW1lZUkwWlFUcDU1NTc0R2pZWnJReU9DMDIxQkZKMFE4bXdOOWRGOVV6S2tlemNKY1dwbU8xUjlvWDB3QmdLQS1JeWFBamU",
+   "source": "Benzinga",
+   "published_at": "2026-10-14T14:07:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-14T14:07:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbjlkSGFsN19jUWVBN0VWd1JSd3hHeWZwLWF3aENsUGQ1VHJRbXdHc1NkZlk5UWpkUTgyRW5jbFZKOWUxaTdRd3ZPdl9ZU1FXUU4xWTBnUzdxRkQzMTFvS1czaW1lZUkwWlFUcDU1NTc0R2pZWnJReU9DMDIxQkZKMFE4bXdOOWRGOVV6S2tlemNKY1dwbU8xUjlvWDB3QmdLQS1JeWFBamU"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "1b28b6b56cb9",
+   "title": "Nvidia: The $235 Billion Bullish Signal Investors Are Missing (NASDAQ:NVDA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMy1tU19oVXVjT3Qwemh1anREV2V5ME1tU29mYXkxLW8zM3RWUjZoM0JvalFYYXpVSWx3OElGOGZNUDhHZzlWOFBUdEFwU0pnODc5UTU2MDN5Rm1zaXMwYTg3dURsQTF5QzBhRnJyNUZ0cnVsaHNGRkNwYlZKVG0tZzJLUGJvWWo2bElmSHRMRE1PU3ZyM3d6TU1OV25WUWo0WWc",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-14T14:06:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-14T14:06:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMy1tU19oVXVjT3Qwemh1anREV2V5ME1tU29mYXkxLW8zM3RWUjZoM0JvalFYYXpVSWx3OElGOGZNUDhHZzlWOFBUdEFwU0pnODc5UTU2MDN5Rm1zaXMwYTg3dURsQTF5QzBhRnJyNUZ0cnVsaHNGRkNwYlZKVG0tZzJLUGJvWWo2bElmSHRMRE1PU3ZyM3d6TU1OV25WUWo0WWc"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
   {
    "id": "66cba1ba2779",
    "title": "Nvidia's New DLSS Frame Generation Mode May Boost Your FPS Even More - PCMag",
@@ -139,26 +173,6 @@
    "session": "盘中",
    "zh_summary": "霍尼韦尔AI试点在英伟达园区减少90%无效警报",
    "title_zh": "霍尼韦尔AI试点在英伟达园区将无效警报平均减少90%",
-   "sentiment": 1
-  },
-  {
-   "id": "ae8ff1214f35",
-   "title": "Nvidia (NVDA) Just Overtook the 20-Day Moving Average - Zacks Investment Research",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNVRTd3ZTMnpEWm4wNG5oaGZPX0FRQ2ZXYTNrN2UxbFBteUZJS3FXMWlyZ3B0NG5lbkR0Um1UbGR6LXFvbVVkSVBFOE42a0R3U0Z5ZWZXZUFoZDc0cFU1NTlFalBTUmpTdWtCQkpaV3R1T2t1LVZ5WWZ6djVGUEJPM0lFM1h4S2JVR0NhVWRRNThhZm9BUzFFRlFQTzhIX3lVRld4ZFZBdzZnbFhjd28wRlNzejFmVnU3TXk5bGQzYS1OQXFMMUtvYmtfd2c0Z2xacDlCRzJYS2NZY1k2MlBOQ0Nvb0JDMnZ5ZDk5eGxzN3dmRTJ1ZHZJODRCaw",
-   "source": "Zacks Investment Research",
-   "published_at": "2026-10-14T13:48:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Zacks Investment Research",
-     "published_at": "2026-10-14T13:48:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNVRTd3ZTMnpEWm4wNG5oaGZPX0FRQ2ZXYTNrN2UxbFBteUZJS3FXMWlyZ3B0NG5lbkR0Um1UbGR6LXFvbVVkSVBFOE42a0R3U0Z5ZWZXZUFoZDc0cFU1NTlFalBTUmpTdWtCQkpaV3R1T2t1LVZ5WWZ6djVGUEJPM0lFM1h4S2JVR0NhVWRRNThhZm9BUzFFRlFQTzhIX3lVRld4ZFZBdzZnbFhjd28wRlNzejFmVnU3TXk5bGQzYS1OQXFMMUtvYmtfd2c0Z2xacDlCRzJYS2NZY1k2MlBOQ0Nvb0JDMnZ5ZDk5eGxzN3dmRTJ1ZHZJODRCaw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达股价突破20日均线",
-   "title_zh": "英伟达突破20日均线（Zacks研报）",
    "sentiment": 1
   },
   {
@@ -444,6 +458,31 @@
    "session": "盘前",
    "zh_summary": "英伟达积极扩大股票回购规模",
    "title_zh": "英伟达积极扩大回购规模，被视为积极信号",
+   "sentiment": 1
+  },
+  {
+   "id": "ae8ff1214f35",
+   "title": "Nvidia (NVDA) Just Overtook the 20-Day Moving Average - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3FDOFJPc1B4elo4RTdYLWlNYTktSnRBVXE3SVVYcElOaW56QzJuZjF3eUhkM0lmQk1GcVpwajZoNUlUMkMzc3U0SnpfYWJVdmdRWTZ6U09SNFhEaFFOSWQyQ1hTLU9fM1E3dlBzc3IzUEdteWw3MzN2SjVpX0V2X2lGOFBoNUxpc094OUJsSnhVR1NYWE40dQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-14T12:35:01+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-14T12:35:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3FDOFJPc1B4elo4RTdYLWlNYTktSnRBVXE3SVVYcElOaW56QzJuZjF3eUhkM0lmQk1GcVpwajZoNUlUMkMzc3U0SnpfYWJVdmdRWTZ6U09SNFhEaFFOSWQyQ1hTLU9fM1E3dlBzc3IzUEdteWw3MzN2SjVpX0V2X2lGOFBoNUxpc094OUJsSnhVR1NYWE40dQ"
+    },
+    {
+     "name": "Zacks Investment Research",
+     "published_at": "2026-10-14T13:48:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNVRTd3ZTMnpEWm4wNG5oaGZPX0FRQ2ZXYTNrN2UxbFBteUZJS3FXMWlyZ3B0NG5lbkR0Um1UbGR6LXFvbVVkSVBFOE42a0R3U0Z5ZWZXZUFoZDc0cFU1NTlFalBTUmpTdWtCQkpaV3R1T2t1LVZ5WWZ6djVGUEJPM0lFM1h4S2JVR0NhVWRRNThhZm9BUzFFRlFQTzhIX3lVRld4ZFZBdzZnbFhjd28wRlNzejFmVnU3TXk5bGQzYS1OQXFMMUtvYmtfd2c0Z2xacDlCRzJYS2NZY1k2MlBOQ0Nvb0JDMnZ5ZDk5eGxzN3dmRTJ1ZHZJODRCaw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "英伟达股价突破20日均线",
+   "title_zh": "英伟达突破20日均线（Zacks研报）",
    "sentiment": 1
   },
   {
@@ -915,12 +954,17 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTFWWDRjdHpCVTY0NVQwVE5PT1Z4NDRveTB1WUp3eU9KR0lhLVh2QmJQaHc1QVdnZ3A0d3VqSTY4S1hCam4zelZOUkxIck1yYXh6NFFqOG9XWGlXZmN4Sy1Mbk94VXZSb1NvcTlNd01ZcDQ5eEcwRE9ZUlNoNldSRXNkUkhPSlNSVW15TEF5d1dyb2xqV1d4c2N4ejljd3IyNHZLbUd1Z2V1RWNaWGMxeWdaYlV5UDd2a2JF",
    "source": "Seeking Alpha",
    "published_at": "2026-10-14T10:06:53+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Seeking Alpha",
      "published_at": "2026-10-14T10:06:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTFWWDRjdHpCVTY0NVQwVE5PT1Z4NDRveTB1WUp3eU9KR0lhLVh2QmJQaHc1QVdnZ3A0d3VqSTY4S1hCam4zelZOUkxIck1yYXh6NFFqOG9XWGlXZmN4Sy1Mbk94VXZSb1NvcTlNd01ZcDQ5eEcwRE9ZUlNoNldSRXNkUkhPSlNSVW15TEF5d1dyb2xqV1d4c2N4ejljd3IyNHZLbUd1Z2V1RWNaWGMxeWdaYlV5UDd2a2JF"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-14T10:06:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWWg1RF90dzF4WHAyTHdUb0YzMkM0QXNZZFJ1RF9Ddkx2cVVKM25LbWdwV1MzNVF6bmNneW9rZmdNWG9NcUpfLTV3S0F3UEpWUDBDcUs1YjBFQUlid1FjRW9JWk92R1NaVWgxc1JTYkI2aDgxejA1b2FqTE1tTGxNUmZDNTZzZ05Pc3NEODV0b29XSE81Y0gzY3dwOXR0TW1ZbTBIRnFsZG9BazFSaEl4WS1OdGxJdk1EbS03R25reWF3SHBXQjhYamJTbHFXeDA4WVVPa25XaFgyWVJY"
     }
    ],
    "category": "其他",
@@ -2962,6 +3006,23 @@
    "zh_summary": "马克龙感谢黄仁勋信任与支持",
    "title_zh": "马克龙感谢英伟达CEO的信任与支持",
    "sentiment": 0
+  },
+  {
+   "id": "39d144e87e18",
+   "title": "网易携手英伟达！《燕云十六声》率先接入DLSS 5技术 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oTHNjVEwtbGVGMklHV3ZaRm9hb09uX3JrTnllZzF2T3h3c1psajJrSlk1Y1AxcDBsbUJWOUJUV0RpelNkXzBVaFVPNTFFSmQxYzZlMGhKQXJWamNjTy1uWg",
+   "source": "东方财富",
+   "published_at": "2026-10-13T23:14:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-13T23:14:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oTHNjVEwtbGVGMklHV3ZaRm9hb09uX3JrTnllZzF2T3h3c1psajJrSlk1Y1AxcDBsbUJWOUJUV0RpelNkXzBVaFVPNTFFSmQxYzZlMGhKQXJWamNjTy1uWg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "5a88ca8d31ab",
@@ -6620,76 +6681,6 @@
    "zh_summary": "英伟达思科联合发布光模块规格",
    "title_zh": "英伟达思科联合发布USFP可插拔光模块规格：400G/lane、12.8T容量",
    "sentiment": 1
-  },
-  {
-   "id": "38f362f3244f",
-   "title": "宁王的资本局，神似英伟达 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2M1N1hlRkg5cW5XLUx4NVR0blVuSGRDaTREaHYtVElaUHhUY2VfSjlpX0pidmhydzU0Nm9UT1JwMVp1Mjdqa1QzR0IzUWFiU1lpY1RTMjhNcVVIZm1lMjVFVWNGR0NXUnFheTVNYXYyT0FhMDVzbGVXTW1jYWFSempmeXlCTEgy",
-   "source": "搜狐",
-   "published_at": "2026-10-13T09:07:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-13T09:07:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2M1N1hlRkg5cW5XLUx4NVR0blVuSGRDaTREaHYtVElaUHhUY2VfSjlpX0pidmhydzU0Nm9UT1JwMVp1Mjdqa1QzR0IzUWFiU1lpY1RTMjhNcVVIZm1lMjVFVWNGR0NXUnFheTVNYXYyT0FhMDVzbGVXTW1jYWFSempmeXlCTEgy"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "宁德时代资本运作被比作英伟达",
-   "title_zh": "宁王的资本局，神似英伟达",
-   "sentiment": 0
-  },
-  {
-   "id": "52058ba276f5",
-   "title": "Cisco & NVIDIA Launch New Pluggable Optics for AI Factories - Data Centre Magazine",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjdEVHBXSHVoU09vZUNjTWg0MG9HQk5NRGF0STNMZ29sdGtIZFdtNkdyZUU4RlNGTWdhd0FoTER6YUc0UERRYVBxZk9fZEsxTi0wel8zYjZZRHBnY0VQZ3RCNUhvdE1ZTHlBaEFCenpaVV9kVnBkTEFkc3pCelJHUDNDVVduZHdEMVJmZnYxUUlFeDQweEJZX2hn",
-   "source": "Data Centre Magazine",
-   "published_at": "2026-10-13T09:03:51+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Data Centre Magazine",
-     "published_at": "2026-10-13T09:03:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjdEVHBXSHVoU09vZUNjTWg0MG9HQk5NRGF0STNMZ29sdGtIZFdtNkdyZUU4RlNGTWdhd0FoTER6YUc0UERRYVBxZk9fZEsxTi0wel8zYjZZRHBnY0VQZ3RCNUhvdE1ZTHlBaEFCenpaVV9kVnBkTEFkc3pCelJHUDNDVVduZHdEMVJmZnYxUUlFeDQweEJZX2hn"
-    },
-    {
-     "name": "Fierce Network",
-     "published_at": "2026-10-13T23:11:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1MyZHhxSHdVaGxkbDNvZDBMUEVvSDQ1TmI0Tm53RHFhUExzSG1GMUhJWndXLWhsTHJzOHhXRHZUVEFBOHhxOWN2bl82MXpud1A2Qlo2OFRYM3d0QkY2clVsZENGWnZjamd1Q3JNQnE5Y3hCeGZxZmNtdVE1WVlpS0FmM0hXRXdmSzBvQkgtVXMxd0l4VTNUaUdWMVNwVDF0ekt5UUJONHZ5S2NI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "思科英伟达推出AI工厂光模块",
-   "title_zh": "思科与英伟达为AI工厂推出新型可插拔光模块",
-   "sentiment": 1
-  },
-  {
-   "id": "a7a05a614415",
-   "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2VWVzlXX0NrcC1UaFZxZ1FydUl5NThDRFA2VDJSMkRmc2dMcGMtcEFaMUFtSnR0UmJMci1raDlnODBNdTVrWEgtNERER3ljT2Z0YzQ2WGtUdHhiSmJMX0gtUkhRTVpmUG80NEREYjh5ZEIxSGpTdERkeG82bGZ3ZWplUVZ3YloxOW41T2NHTkpvVGlWZnFPV2RDWQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-13T09:00:07+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-13T09:00:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2VWVzlXX0NrcC1UaFZxZ1FydUl5NThDRFA2VDJSMkRmc2dMcGMtcEFaMUFtSnR0UmJMci1raDlnODBNdTVrWEgtNERER3ljT2Z0YzQ2WGtUdHhiSmJMX0gtUkhRTVpmUG80NEREYjh5ZEIxSGpTdERkeG82bGZ3ZWplUVZ3YloxOW41T2NHTkpvVGlWZnFPV2RDWQ"
-    },
-    {
-     "name": "Axios",
-     "published_at": "2026-10-13T09:04:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "微软发布Maia芯片，英伟达大客户变竞争对手",
-   "title_zh": "微软发布新Maia芯片，英伟达大客户皆成竞争者",
-   "sentiment": -1
   }
  ]
 }
