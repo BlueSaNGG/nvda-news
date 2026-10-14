@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T00:21:29.650216+00:00",
+ "updated_at": "2026-10-14T00:36:30.734457+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.33,
-   "count": 203
+   "count": 205
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.33（203条已评分）"
+     "note": "今日新闻情绪 +0.33（205条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-14T00:21:29.636921+00:00"
+   "as_of": "2026-10-14T00:36:30.719052+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2ffdf373caac",
+   "title": "NVIDIA Halts RTX 5090 GPU Production? - Dark Horizons",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hN2JBWmYzWlNJY3pUOEtYT1hSc1NJZDBjaTNrUVBpN2Q3aGI1b2xvMG9oSExDMDFqT3dDVTJWY1FnYkNFb1hsOWh5Um1sQ3plRkJGM1dGVWxka3R0QS0zYzlwNDlMN3IxQ240R2dGQklSMnBH",
+   "source": "Dark Horizons",
+   "published_at": "2026-10-14T00:29:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Dark Horizons",
+     "published_at": "2026-10-14T00:29:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hN2JBWmYzWlNJY3pUOEtYT1hSc1NJZDBjaTNrUVBpN2Q3aGI1b2xvMG9oSExDMDFqT3dDVTJWY1FnYkNFb1hsOWh5Um1sQ3plRkJGM1dGVWxka3R0QS0zYzlwNDlMN3IxQ240R2dGQklSMnBH"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
   {
    "id": "b20de5c2024f",
    "title": "对标英伟达DGX Spark！此芯科技推桌面级AI超算AGX Station - 驱动之家",
@@ -77,8 +94,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "对标英伟达DGX Spark！此芯科技推桌面级AI超算AGX Station - 驱动之家",
    "zh_summary": "此芯科技推桌面级AI超算AGX Station",
+   "title_zh": "对标英伟达DGX Spark！此芯科技推桌面级AI超算AGX Station - 驱动之家",
    "sentiment": -1
   },
   {
@@ -87,12 +104,17 @@
    "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOQTFvNDJzNHRaWUlHaFBnaEdqVkE0SjA3cVgtTHNYUFB0aGtrX2czeDl6aHVIeWVBcnpJTjF3UkcyQ09FQV9zRXdabWJFN1hBT3R6a2ZVLU1ZNmdTQW9uQkxRVXRlVzhkUmlEanVOX2dibzVEU1I5S0RNUWk0ekVqdjU4clNJbEg3enlKdFltUnN0T0hXcVRRSV9NWjZ2dUdjS1JDYUE0UVczdmM3SlRtVDNtaERfa05JdDdxWmNmZElDcUh1aEo0SllYbmgyT3ZWUzd6UWpuYm54Und4UTJnWXJjOW5PWURHNXdDVFJVbHp2MjkxZlUtWkhQRWtOYUhqazhZdWhEWUljYUgyTmtMRlZ2RXV2aXlxeHBtZWFFcGhtTmZMTEI0cTJYaDI3M0Jmekx3NFhYNG9kOFQ1bnNONjJSaWI2WXVGYjlNb3VWc2dJcXVwd0J6dlltcUFVc044TUhKR2daMzdWVVRLanlGU21rNmhmSmdE",
    "source": "KLSE Screener",
    "published_at": "2026-10-13T23:58:05+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "KLSE Screener",
      "published_at": "2026-10-13T23:58:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOQTFvNDJzNHRaWUlHaFBnaEdqVkE0SjA3cVgtTHNYUFB0aGtrX2czeDl6aHVIeWVBcnpJTjF3UkcyQ09FQV9zRXdabWJFN1hBT3R6a2ZVLU1ZNmdTQW9uQkxRVXRlVzhkUmlEanVOX2dibzVEU1I5S0RNUWk0ekVqdjU4clNJbEg3enlKdFltUnN0T0hXcVRRSV9NWjZ2dUdjS1JDYUE0UVczdmM3SlRtVDNtaERfa05JdDdxWmNmZElDcUh1aEo0SllYbmgyT3ZWUzd6UWpuYm54Und4UTJnWXJjOW5PWURHNXdDVFJVbHp2MjkxZlUtWkhQRWtOYUhqazhZdWhEWUljYUgyTmtMRlZ2RXV2aXlxeHBtZWFFcGhtTmZMTEI0cTJYaDI3M0Jmekx3NFhYNG9kOFQ1bnNONjJSaWI2WXVGYjlNb3VWc2dJcXVwd0J6dlltcUFVc044TUhKR2daMzdWVVRLanlGU21rNmhmSmdE"
+    },
+    {
+     "name": "e南洋",
+     "published_at": "2026-10-13T23:58:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuVHhhOVJmT3dxT01UdkxOUjVwM2NwN2hhTVZOemU2dERHVjJVTHRiZ1NzQVA1U3FQdDVzNC1RNVM2dVJJaVBLcG0yYlZRT1NPeF81YWVmak9yakFDN3FUR2FBbw"
     }
    ],
    "category": "产品技术",
@@ -117,8 +139,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "英伟达，发布DLSS 5新模型 - 电子工程专辑",
    "zh_summary": "英伟达发布DLSS 5新模型",
+   "title_zh": "英伟达，发布DLSS 5新模型 - 电子工程专辑",
    "sentiment": 1
   },
   {
@@ -140,6 +162,40 @@
    "zh_summary": "英伟达预付锁定美国芯片测试产能",
    "title_zh": "英伟达预付费锁定KYEC 14亿美元扩产的美国芯片测试产能",
    "sentiment": 1
+  },
+  {
+   "id": "34d4ff0b5258",
+   "title": "Macron thanks Nvidia CEO for 'trust and support' - Breakingthenews.net",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTVSVTFOLXRNSVJfY0JsOVBKY0dXM0E2Y0FYeFF0Nk1CNHJSTDFNWXMxTnZZZGNMR19vQ3pIWVlEQWk4MXNKMUNTbzdvc19oZi1ucVdUekxLUGNlbE1hcmc1QUZWejVMbVRXZzNITkZ2WC1FWlVRcDUtQndWcXF4bm1DbnJHZlBCQ05fUTd0MHgyM3BJNUxMaQ",
+   "source": "Breakingthenews.net",
+   "published_at": "2026-10-13T23:53:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Breakingthenews.net",
+     "published_at": "2026-10-13T23:53:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOTVSVTFOLXRNSVJfY0JsOVBKY0dXM0E2Y0FYeFF0Nk1CNHJSTDFNWXMxTnZZZGNMR19vQ3pIWVlEQWk4MXNKMUNTbzdvc19oZi1ucVdUekxLUGNlbE1hcmc1QUZWejVMbVRXZzNITkZ2WC1FWlVRcDUtQndWcXF4bm1DbnJHZlBCQ05fUTd0MHgyM3BJNUxMaQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "5a88ca8d31ab",
+   "title": "Nvidia Faces Suit Over AI Training Music Data - Law360",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU0ZCN25xTUo2MUlidGNWY3A3d2dfemx4ZmlpNTY4SU1wbkl4YmRCWEF4RGRhUGw0MlM4Y2hhWjJsU3RTcWVMR3lhdDF6YUxvV1luVW9FZklZeS1FZWFHQ1g5UUxFYWdtVWhzUHM1YnJmSktiNEhTalI5NXc5TXNfMVZabnZmUzJGS3lKZFRXYXRQcHdoU0RqdXNoemrSAVZBVV95cUxOZWxLYnVpaTNVZDB2andTOGRQaTIwVlNHR0c5OVF2WWtyZktONVFWU2hLTUFldGliZFZEVWl6UE5xNFFJcTZ0V2k2TFdhSEVYZFVfMTdVQQ",
+   "source": "Law360",
+   "published_at": "2026-10-13T23:11:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Law360",
+     "published_at": "2026-10-13T23:11:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU0ZCN25xTUo2MUlidGNWY3A3d2dfemx4ZmlpNTY4SU1wbkl4YmRCWEF4RGRhUGw0MlM4Y2hhWjJsU3RTcWVMR3lhdDF6YUxvV1luVW9FZklZeS1FZWFHQ1g5UUxFYWdtVWhzUHM1YnJmSktiNEhTalI5NXc5TXNfMVZabnZmUzJGS3lKZFRXYXRQcHdoU0RqdXNoemrSAVZBVV95cUxOZWxLYnVpaTNVZDB2andTOGRQaTIwVlNHR0c5OVF2WWtyZktONVFWU2hLTUFldGliZFZEVWl6UE5xNFFJcTZ0V2k2TFdhSEVYZFVfMTdVQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "7e1da7a01524",
@@ -6622,90 +6678,6 @@
    "zh_summary": "微软与亚马逊蚕食英伟达主导地位",
    "title_zh": "微软和亚马逊正在蚕食英伟达的主导地位",
    "sentiment": -1
-  },
-  {
-   "id": "f9a6ed950c4e",
-   "title": "Nvidia Stocks Fall 1.5% as Microsoft Pushes Maia Into Inference - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa19rWFBpTmJwYTFCbWdKcXZyZ0JCb3dia3BTVWJnR1VWNXVzTk5ZdkdjbW53LTd2OENyOTlMT2FzZmltanV5MTZjMlI1UE1XT0lxelU5OHlKSnVHbFhNUnpYWEFDSGY1ckNGeWN0eTQyekpYYnRVTzdwV1pXQXgtanFmbFRDOF9INERLM1NqNWl0LWdsWFljMHBPc2dxVEhYc2c",
-   "source": "GuruFocus",
-   "published_at": "2026-10-12T18:02:40+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-12T18:02:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa19rWFBpTmJwYTFCbWdKcXZyZ0JCb3dia3BTVWJnR1VWNXVzTk5ZdkdjbW53LTd2OENyOTlMT2FzZmltanV5MTZjMlI1UE1XT0lxelU5OHlKSnVHbFhNUnpYWEFDSGY1ckNGeWN0eTQyekpYYnRVTzdwV1pXQXgtanFmbFRDOF9INERLM1NqNWl0LWdsWFljMHBPc2dxVEhYc2c"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-12T18:31:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWRIQTVjaDF1UHM4QndKUGpDQ1ZIV1lZSHFoZTJ4azNQZTdHbDBUTV9TWTZRWEJyS1JmSWNwMlRDZ0hXRTdxc0duanBjZkVHdVI2TEpSQUhISEgxR3lzSFZYWHhKZkd6eVU2Vkd5RC1KRjh1N1pHMUdFV0RSTHNaME9vQ09RbXhuTnB0X0oxakxyOE1VX2lUT0cxWERGa3F5dUJ0bkhKR1I5MlhfbTU5Q21JY1RHMzFBdTl2SERaZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "微软Maia芯片进推理，英伟达跌1.5%",
-   "title_zh": "微软推进Maia芯片进入推理领域，英伟达股价下跌1.5%",
-   "sentiment": -1
-  },
-  {
-   "id": "f9aa1faf6b7b",
-   "title": "盲插液冷、800V供电、下一代可插拔光模块：英伟达推进新标准 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TdnZ0eU1WVWRTdGg4OXpwVllrYktuejNGSHlkM2lRX0FWdE9WeUdJaG44QzZqYXFjUFdIUHBQSV9uVEtQVEttcw",
-   "source": "财联社",
-   "published_at": "2026-10-12T17:56:31+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-12T17:56:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TdnZ0eU1WVWRTdGg4OXpwVllrYktuejNGSHlkM2lRX0FWdE9WeUdJaG44QzZqYXFjUFdIUHBQSV9uVEtQVEttcw"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-12T23:29:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80SnE2Y192V1FXbTh6em9lQU5WQXJlUGNGLXg5U2pUdWJlZ21mRkdHeDhJVkVDZThrV2g3RkpYNUtTczJRUGloN2FMd0ZfVERY"
-    },
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-13T12:50:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vaU1LSm5BZkRSSnRTUXR6Sk9UZ0VuZmhPYVE3cXBzdFhmbGZackJyTmtvbWt5bEZEYkd5R2VOMFRremd0ZlMtYnlWWUozdw"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-12T18:00:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lRkdHdFotMXY5M25QMkFSSzZ1RzRYa09ySHZveUJ0TkY4LUJDZ1I5dC1XblIwOGZRWWt3Z3VZOTJfMTZTb1l4dkRmZHVCTUhibTdDRmNKc1NmWXJhajE3Mg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达推进盲插液冷800V供电新标准",
-   "title_zh": "盲插液冷、800V供电、下一代可插拔光模块：英伟达推进新标准 - 财联社",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.02,
-    "window_h": 1.9
-   }
-  },
-  {
-   "id": "27eabbc87aea",
-   "title": "Amazon and Nvidia considering AI startup deals: Reports - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3ZTd1JwbXJaNjZ5OGNCTzRqNEJvc3hmOGVmVHZGalplaGk2blB4MnlGVDlqSElQclMxc0ptSzNHYkE4NTBpOUJIV0Nob3FfbDhlUmFoQ2F2aGFWWXBxamxIM3JPOWRHd0cyVTlta0FlRGktdzVPTmdVUVplNVB1Zks4ZkNOZDF0SkUydmRkRDZ6T0pGN3UwVGxoeGY3UQ",
-   "source": "CNBC",
-   "published_at": "2026-10-12T17:45:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-12T17:45:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3ZTd1JwbXJaNjZ5OGNCTzRqNEJvc3hmOGVmVHZGalplaGk2blB4MnlGVDlqSElQclMxc0ptSzNHYkE4NTBpOUJIV0Nob3FfbDhlUmFoQ2F2aGFWWXBxamxIM3JPOWRHd0cyVTlta0FlRGktdzVPTmdVUVplNVB1Zks4ZkNOZDF0SkUydmRkRDZ6T0pGN3UwVGxoeGY3UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "亚马逊与英伟达洽谈AI初创交易",
-   "title_zh": "报道：亚马逊和英伟达考虑AI初创交易",
-   "sentiment": 1
   }
  ]
 }
