@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T17:06:53.846209+00:00",
+ "updated_at": "2026-10-14T17:22:04.852764+00:00",
  "market": {
-  "price": 222.29,
-  "change_pct": -2.73,
+  "price": 221.87,
+  "change_pct": -2.91,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.51,
-   "count": 134
+   "avg": 0.5,
+   "count": 135
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +41.7%"
+     "note": "目标价中位数 $315（15家），隐含空间 +42.0%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.51（134条已评分）"
+     "note": "今日新闻情绪 +0.50（135条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $222.29 vs 20日均线 $228.74"
+     "note": "现价 $221.87 vs 20日均线 $228.72"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 77,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 41.7,
-   "ma20": 228.74,
-   "as_of": "2026-10-14T17:06:53.829440+00:00"
+   "implied_upside_pct": 42.0,
+   "ma20": 228.72,
+   "as_of": "2026-10-14T17:22:04.834228+00:00"
   },
-  "pe_ttm": 28.3,
+  "pe_ttm": 28.2,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+41.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -265,6 +265,23 @@
    "zh_summary": "英伟达发布NeMo Gym芯片设计优化方案",
    "title_zh": "英伟达NeMo Gym优化芯片设计智能体可靠性",
    "sentiment": 0
+  },
+  {
+   "id": "7965d2a2d4f0",
+   "title": "Caterpillar, NVIDIA Corp. Share Losses Contribute To Dow's Nearly 150-Point Drop - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3d0aFZITVZsME5Vb1NidnJpcUhuTjVqYVEwS2pFSFVrM1BBWkpDdlNDU0NUR2Q1WE4yczVQTEhSem00Zk1pM2h4TS1Db2k0clBwVFIyV0xuTFBHUmQ0ZmRhYjVuTFNOSC00OUFEeTdweXJYRG14aGR1M2dLQURFQU53Q3dlTUhJVXRvbjgyYW1Jbjd0YlFJY3lSU3pXNjhLYU5UYmJtZkdxNW8",
+   "source": "Moomoo",
+   "published_at": "2026-10-14T16:14:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-14T16:14:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3d0aFZITVZsME5Vb1NidnJpcUhuTjVqYVEwS2pFSFVrM1BBWkpDdlNDU0NUR2Q1WE4yczVQTEhSem00Zk1pM2h4TS1Db2k0clBwVFIyV0xuTFBHUmQ0ZmRhYjVuTFNOSC00OUFEeTdweXJYRG14aGR1M2dLQURFQU53Q3dlTUhJVXRvbjgyYW1Jbjd0YlFJY3lSU3pXNjhLYU5UYmJtZkdxNW8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "4b05a9b34916",
@@ -2804,7 +2821,7 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN001cXBCdFZ4bTFlSUIwem8xamFyeVliaU4yTDRoWlo0NlpBMmVPTDFMV0xKa2ZjRkpwckFHRXBLcjY5Vi0xSU1TdW9COTQ3d1ZnN1NCdS12Z0ZZMzc5dFYwb2pRaDJvYWhvSF9GV0o1dVZuaGpVeG5qbThxYTFQVWsxTDFLV1YtcVRrOVowdDR0M29FamZmaUU4WFJ4QzA",
    "source": "Yahoo Finance",
    "published_at": "2026-10-14T06:01:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -2820,6 +2837,11 @@
      "name": "Quiver Quantitative",
      "published_at": "2026-10-14T06:10:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2owOVdkdEF1VWhlVWRieXFIUERlaVlodi1BSmd2TmN2LVNmOTBtZjJjVGNHb2lNTUFiSzdiZm8zWG95V3lDODFaUXZnc3dBTTVVMFpaZW14UnVXX1dVOWROWDZhaXFObWgxTHZQTHlxMVFmeVJGdFd2M1BtQWtabW9nSHF2MzdTMmlrWTJUaWY4V2FQaEFiOWtfc05SbS1obi0yblUwYXhEMEZ2Q0dnYTk4WnJyLVBudGR0V0VyZm5hZ3phdkE"
+    },
+    {
+     "name": "Pulse 2.0",
+     "published_at": "2026-10-14T16:31:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORk5QUHVaR1RUZ1FYenlzQnpzQ1l4YXVsQzNPMkdja3dQTTJtbXhSVGhQcFFUd3hBTHdXdFJ3UmhvR0lYZzVGdC12NWNkZVFJWEQ5RUVZWUY2SDVwWWRRVUxxV1hPZU1KN29MN0dJSldOV2R4Q2oya19oVXR4VGhvbFdvUzVqTkxFdFhVSndZYVItOG1BZ2JNZDFqemQxb25vQ3c"
     }
    ],
    "category": "其他",
@@ -6678,26 +6700,6 @@
    "session": "盘前",
    "zh_summary": "CNBC盘点周二主要分析师评级",
    "title_zh": "CNBC盘点周二主要分析师评级（英伟达等）",
-   "sentiment": 0
-  },
-  {
-   "id": "d2aa55e84814",
-   "title": "DLSS This Week: Call of Duty®: Modern Warfare 4® Campaign Early Access, New Game Releases, DLSS 5 Gets Faster - NVIDIA",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2pNS3pmZGRHQXR4MTRtcEd5RnFJV0RUaWg1X1BKdXJ5VWl5VjVNVE15S2Uxbm9kOWM1cnhDOVNiZ2p6c05LZDQ3bF9XVDFDRTdleXI0SFpnNVloX1hOZ2c4cWZNbXAxR0ktZWJiVXF5ZjY4RHI1d1haRkpRQ0tZcFpOZXNERHV6U1RlZUM4clFVZUItLWQxNWh1NnJoV2RPcFBhYmxR",
-   "source": "NVIDIA",
-   "published_at": "2026-10-13T12:23:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA",
-     "published_at": "2026-10-13T12:23:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2pNS3pmZGRHQXR4MTRtcEd5RnFJV0RUaWg1X1BKdXJ5VWl5VjVNVE15S2Uxbm9kOWM1cnhDOVNiZ2p6c05LZDQ3bF9XVDFDRTdleXI0SFpnNVloX1hOZ2c4cWZNbXAxR0ktZWJiVXF5ZjY4RHI1d1haRkpRQ0tZcFpOZXNERHV6U1RlZUM4clFVZUItLWQxNWh1NnJoV2RPcFBhYmxR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "DLSS本周：新游戏支持与DLSS 5加速",
-   "title_zh": "DLSS本周：使命召唤等新游戏支持，DLSS 5更快",
    "sentiment": 0
   }
  ]
