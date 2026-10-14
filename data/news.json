@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T19:10:35.836321+00:00",
+ "updated_at": "2026-10-14T19:25:23.522092+00:00",
  "market": {
-  "price": 220.0,
-  "change_pct": -3.73,
+  "price": 221.02,
+  "change_pct": -3.28,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 153
+   "avg": 0.45,
+   "count": 154
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 74% 分位"
+     "note": "现价处于52周区间 75% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +43.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +42.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（153条已评分）"
+     "note": "今日新闻情绪 +0.45（154条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $220.00 vs 20日均线 $228.62"
+     "note": "现价 $221.02 vs 20日均线 $228.68"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 74,
+   "price_52w_pct": 75,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 43.2,
-   "ma20": 228.62,
-   "as_of": "2026-10-14T19:10:35.709617+00:00"
+   "implied_upside_pct": 42.5,
+   "ma20": 228.68,
+   "as_of": "2026-10-14T19:25:23.499503+00:00"
   },
-  "pe_ttm": 28.0,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+43.2%空间：估值偏低，预期乐观"
+  "pe_ttm": 28.1,
+  "pe_pct_5y": 25,
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,13 +62,52 @@
  },
  "stories": [
   {
-   "id": "830885eeabe1",
-   "title": "Why is NVIDIA stock sliding today? - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOGpqZzg3NmtJWE1IRUhmUWZRdHctOHp0aUxfSEk0Nk42VEdPbEVUUGtZODJoTVpST3lHWTl5bm9Zd3Jfb09qbzVWWU51bTNzNUEtYlFKVkpEbEI0MFFtY0VKdERmaTNzZ0NMUzNoQWFzTElxVVBDYzdJdlFyZ3p6S3hLcFN4djU3U0M2MkFDR0JNOGtNN2lzb2s5VQ",
-   "source": "Investing.com",
-   "published_at": "2026-10-14T18:47:32+00:00",
+   "id": "b685662b7ea8",
+   "title": "Nvidia Talked Up Generative AI 2 Weeks Before ChatGPT. The Clues Hold Up. - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2F6Q2xIV2NkSnV3eDRzMkM5Q29ELWFIVThTaFhtbkJOUVpxV2hDWnlvN3RqRmw0NlFxYlBpOGhPMVFqdEdqcVhvR2lDUEp4cXM5NmZZUXNyUENMOW94QzY2MGNLTldKLVkwRkZvSkxJeURtdWdQX0dnbHh3cmI3RHp3YzYyWGJDbk1Ha2RxUVJLMHFWX05ac0hpc3ZLWTgtLUFmX2Vqc2JhRmV4MHJiUzM3Qk4",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-14T19:22:26+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-14T19:22:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2F6Q2xIV2NkSnV3eDRzMkM5Q29ELWFIVThTaFhtbkJOUVpxV2hDWnlvN3RqRmw0NlFxYlBpOGhPMVFqdEdqcVhvR2lDUEp4cXM5NmZZUXNyUENMOW94QzY2MGNLTldKLVkwRkZvSkxJeURtdWdQX0dnbHh3cmI3RHp3YzYyWGJDbk1Ha2RxUVJLMHFWX05ac0hpc3ZLWTgtLUFmX2Vqc2JhRmV4MHJiUzM3Qk4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "13d5b6ca98f3",
+   "title": "NVIDIA May Unveil $2999 GeForce RTX 6090 at CES 2027 - GameGPU",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPREhjS0dlQ0p5ZnVud1hEUHpwanRDVEtWOXNnenlpa2pvMzNGM3ZBVDVCU3c1enBNVG9pai1hOFhOcjF3Mjd2OHk0T0JBWGtGY2lGU2lPWm00XzFTbVhxWjdVY1BxUGNNbWxyMGFIUzhteEhNX0NzMUx2QzcweTI0S0ZGTVRWc093R1JpQUl6amsyLWZlaUtvZUtWZ1hxblZvbjZ3",
+   "source": "GameGPU",
+   "published_at": "2026-10-14T19:08:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GameGPU",
+     "published_at": "2026-10-14T19:08:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPREhjS0dlQ0p5ZnVud1hEUHpwanRDVEtWOXNnenlpa2pvMzNGM3ZBVDVCU3c1enBNVG9pai1hOFhOcjF3Mjd2OHk0T0JBWGtGY2lGU2lPWm00XzFTbVhxWjdVY1BxUGNNbWxyMGFIUzhteEhNX0NzMUx2QzcweTI0S0ZGTVRWc093R1JpQUl6amsyLWZlaUtvZUtWZ1hxblZvbjZ3"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "5372ccfa238f",
+   "title": "Why is NVIDIA stock sliding today? By Investing.com - Investing.com UK",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR01GVW4zcEdTRmZXNnNlZFdZNUdQSEpnTGdCYkxlNU80amJrMHFoVFltd0tzX3NtZVRNMExMZGNEMl9hd0ZuSW9TU3ZVSUhvVGk5T2NEeGYtRzd1RDJkZGlFdGd0SVQ2OGlHQ0tUTFQ4bW9mMldOcmh4cmVaeGJtalJBUmtPdjV0UGswZFVlQTFORDU3R2Nud2Rn",
+   "source": "Investing.com UK",
+   "published_at": "2026-10-14T18:46:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Investing.com UK",
+     "published_at": "2026-10-14T18:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR01GVW4zcEdTRmZXNnNlZFdZNUdQSEpnTGdCYkxlNU80amJrMHFoVFltd0tzX3NtZVRNMExMZGNEMl9hd0ZuSW9TU3ZVSUhvVGk5T2NEeGYtRzd1RDJkZGlFdGd0SVQ2OGlHQ0tUTFQ4bW9mMldOcmh4cmVaeGJtalJBUmtPdjV0UGswZFVlQTFORDU3R2Nud2Rn"
+    },
     {
      "name": "Investing.com",
      "published_at": "2026-10-14T18:47:32+00:00",
@@ -2393,26 +2432,6 @@
    "zh_summary": "Glenview Trust减持英伟达股份",
    "title_zh": "Glenview Trust公司出售英伟达NVDA股票",
    "sentiment": -1
-  },
-  {
-   "id": "be69121a87a8",
-   "title": "NVIDIA Corporation $NVDA Shares Newly Purchased by Maxele Advisors LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVhUUDhrdnJnYmM0czZaMXNuTXZYZHJXMGNTbmRjLWpEeUpoanNRbC1mcEtxRUdheEp3cDMxNENoUkJQamlRaWZ4Wmtac2tvMVRKSi1wMF9HOUd3dTFZdmp5ZGdySFNJdDN2VGpXT0RrOVlnLUpSUTdyZkY3UXgyMGVxandxR0NVakVtNzQyNWNyaURoVmRKM2toZVpmV2VUV3dYT3VxdF9hUUgxUEZLSnczM0RwcXFQVjQwbW1TdFVXWVhZb2NLQURR",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T08:09:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T08:09:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVhUUDhrdnJnYmM0czZaMXNuTXZYZHJXMGNTbmRjLWpEeUpoanNRbC1mcEtxRUdheEp3cDMxNENoUkJQamlRaWZ4Wmtac2tvMVRKSi1wMF9HOUd3dTFZdmp5ZGdySFNJdDN2VGpXT0RrOVlnLUpSUTdyZkY3UXgyMGVxandxR0NVakVtNzQyNWNyaURoVmRKM2toZVpmV2VUV3dYT3VxdF9hUUgxUEZLSnczM0RwcXFQVjQwbW1TdFVXWVhZb2NLQURR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Maxele Advisors 新买入英伟达股票",
-   "title_zh": "Maxele Advisors 新买入英伟达 NVDA 股票",
-   "sentiment": 1
   },
   {
    "id": "329bba1f810b",
@@ -5405,6 +5424,23 @@
    "sentiment": -1
   },
   {
+   "id": "212b3630b656",
+   "title": "独家报道：软通动力“到货英伟达8000张GPU” 究竟是真是假? 知情人士：是客观事实用于生产服务器 - 每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81YXVWR1J2MEFUMnhDdklpVGlTcXZ1dDZkb2trVVh5VnZtMTM3V2NEaXNhQ253QzFINVQzdURHQzlyZTJoYVI0UUhYRGdGSXREZDNNMHNyUmY2bk9wYkNwUVJYWVhkZw",
+   "source": "每日经济新闻",
+   "published_at": "2026-10-13T16:24:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "每日经济新闻",
+     "published_at": "2026-10-13T16:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81YXVWR1J2MEFUMnhDdklpVGlTcXZ1dDZkb2trVVh5VnZtMTM3V2NEaXNhQ253QzFINVQzdURHQzlyZTJoYVI0UUhYRGdGSXREZDNNMHNyUmY2bk9wYkNwUVJYWVhkZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "0207a12be413",
    "title": "英伟达将宣布20亿美元欧洲AI新投资_7x24快讯_新浪财经 - 手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zZ1REV2JoOHNxVkNIa2d5ZURwYTJCOU5iWkdfQUg3UVlET1h2TnBOS3VJSk4xdnJRdnY0UXgzdEhIMm9RVzFfR2hpTQ",
@@ -6625,46 +6661,6 @@
    "zh_summary": "NVDA股价五连跌，关注下一个支撑位",
    "title_zh": "NVDA股价五连跌，下一个防线在哪里",
    "sentiment": -1
-  },
-  {
-   "id": "9707ea99b982",
-   "title": "NVIDIA Unveils \"Preset C \"DLSS Frame Generation with up to 35% Faster Generation - TechPowerUp",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckwxTk43RWxBcjlSQ2cyVXFxRTZvdkREZDY0bjF4U2JDMlNsaExWVno4NF96WlRQWElUR3IxeHkyRnpIU2ZsUzZJZjIzMkx0RElLaElfY2ZmblJLNF9RbHVLTWJpdC1vcG9xQUhhMTR5Mm9jajJ2VTNmcTRscThsSFhZZER5RmdSZEpnc2ZpYUc1TFNITV9VOVhoQnMtSDNvNVVqR1Y1bzNOaVZIS2Zkd3NB0gG3AUFVX3lxTE5KUGVUaG56UTBPSENCUDRPTUdTdXZVZDNyblF5bTNYdFprMVJYVXZyb1JYa0NoS1duUHZoNGU4WWRBNWZ4bVBFaDZaSm42SFdfV29yR2tLcGFXRXJfaWptemVXT2JaSkJaSUM3bGxYVFA1LXRzdW92TU10bXNRekM2bWtEcjFTd00tMjZva2ZVUnJVY0NyMlAzYmtoUjdLOGVPMVN0YUZqRmNlY1pMMDU3a3dxVnNCNA",
-   "source": "TechPowerUp",
-   "published_at": "2026-10-13T13:06:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechPowerUp",
-     "published_at": "2026-10-13T13:06:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckwxTk43RWxBcjlSQ2cyVXFxRTZvdkREZDY0bjF4U2JDMlNsaExWVno4NF96WlRQWElUR3IxeHkyRnpIU2ZsUzZJZjIzMkx0RElLaElfY2ZmblJLNF9RbHVLTWJpdC1vcG9xQUhhMTR5Mm9jajJ2VTNmcTRscThsSFhZZER5RmdSZEpnc2ZpYUc1TFNITV9VOVhoQnMtSDNvNVVqR1Y1bzNOaVZIS2Zkd3NB0gG3AUFVX3lxTE5KUGVUaG56UTBPSENCUDRPTUdTdXZVZDNyblF5bTNYdFprMVJYVXZyb1JYa0NoS1duUHZoNGU4WWRBNWZ4bVBFaDZaSm42SFdfV29yR2tLcGFXRXJfaWptemVXT2JaSkJaSUM3bGxYVFA1LXRzdW92TU10bXNRekM2bWtEcjFTd00tMjZva2ZVUnJVY0NyMlAzYmtoUjdLOGVPMVN0YUZqRmNlY1pMMDU3a3dxVnNCNA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达发布新DLSS帧生成技术，提速35%",
-   "title_zh": "英伟达发布Preset C版DLSS帧生成技术",
-   "sentiment": 1
-  },
-  {
-   "id": "2b3c5c3587f8",
-   "title": "$英伟达 (NVDA.US)$ 我刚刚在回调时买入了一些NVDA和INTW；这两只股票已回调至这一价位，是个不错的入场点... - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGhNcUlaelllaDd4SWpBbWtRbWhXYnRfbkF6ZXcxUEhqVHlTbFRzSURyNndCNmNiRS1pcE9scXpDcktFUGdnd1RZWHZoWWxDWk95T0oxMTRqelV2amQ4MTZDZ0VySXYzb19acU00QVFYQTlZTUZHeG1EVDFTSmJWRUlSSUV6TjhEU1RlcURpLTFjRUlLd0lLdmpIRlh0RjROMy04Z2VONmc5QQ",
-   "source": "Moomoo",
-   "published_at": "2026-10-13T13:04:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-13T13:04:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGhNcUlaelllaDd4SWpBbWtRbWhXYnRfbkF6ZXcxUEhqVHlTbFRzSURyNndCNmNiRS1pcE9scXpDcktFUGdnd1RZWHZoWWxDWk95T0oxMTRqelV2amQ4MTZDZ0VySXYzb19acU00QVFYQTlZTUZHeG1EVDFTSmJWRUlSSUV6TjhEU1RlcURpLTFjRUlLd0lLdmpIRlh0RjROMy04Z2VONmc5QQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "散户在回调时买入NVDA，认为是入场点",
-   "title_zh": "$英伟达 (NVDA.US)$ 我刚刚在回调时买入了一些NVDA和INTW；这两只股票已回调至这一价位，是个不错的入场点...",
-   "sentiment": 0
   }
  ]
 }
