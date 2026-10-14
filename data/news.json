@@ -1,41 +1,41 @@
 {
- "updated_at": "2026-10-14T13:21:30.682831+00:00",
+ "updated_at": "2026-10-14T13:36:32.903556+00:00",
  "market": {
-  "price": 228.52,
-  "change_pct": 0.97,
-  "as_of": "2026-10-13",
+  "price": 224.57,
+  "change_pct": -1.73,
+  "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
    "label": "Q3 FY2027",
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.68,
-   "count": 79
+   "avg": 0.66,
+   "count": 83
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 86% 分位（偏高）"
+     "note": "现价处于52周区间 80% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +37.8%"
+     "note": "目标价中位数 $315（15家），隐含空间 +40.3%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.68（79条已评分）"
+     "note": "今日新闻情绪 +0.66（83条已评分）"
     },
     {
      "key": "动量",
-     "score": 1,
-     "note": "现价 $228.52 vs 20日均线 $228.32"
+     "score": -1,
+     "note": "现价 $224.57 vs 20日均线 $228.87"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 86,
+   "price_52w_pct": 80,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 37.8,
-   "ma20": 228.32,
-   "as_of": "2026-10-14T13:21:30.668290+00:00"
+   "implied_upside_pct": 40.3,
+   "ma20": 228.87,
+   "as_of": "2026-10-14T13:36:32.893749+00:00"
   },
-  "pe_ttm": 29.0,
-  "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.8%空间：估值偏低，预期乐观"
+  "pe_ttm": 28.5,
+  "pe_pct_5y": 25,
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+40.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,91 @@
   }
  },
  "stories": [
+  {
+   "id": "2d8d6241fe52",
+   "title": "Nvidia's Valuation Is Becoming Absurdly Cheap (NASDAQ:NVDA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTkJyb2dGVHVpaEVhRHhMbVJZRVZNSW1KdlBscjlWQVJ6WnhpS2FzRm5JVzZyTUNXd0dVYnFNRmFiSklyWmJQVTNUdkt3Y1hnSDRyVm1fenlPSEt0RkJ6WUNNbW4zRFVHdzNCbEJqXzF1eFlDcFZqQ2YwYVJGbGtheXhPSzVwWFBfUmluWA",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-14T13:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-14T13:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTkJyb2dGVHVpaEVhRHhMbVJZRVZNSW1KdlBscjlWQVJ6WnhpS2FzRm5JVzZyTUNXd0dVYnFNRmFiSklyWmJQVTNUdkt3Y1hnSDRyVm1fenlPSEt0RkJ6WUNNbW4zRFVHdzNCbEJqXzF1eFlDcFZqQ2YwYVJGbGtheXhPSzVwWFBfUmluWA"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "6358f4c7d89f",
+   "title": "Cisco, Nvidia team up to build fatter, faster pluggable - The Register",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWt5Zmt6OHhZSk1qZ1djZjFWSmp1NDU2M2QxNy1OYjd5VTNNYXA2MEZqcWlHVUhhOWJSQm5ZWXY5M1ViVmxfTVF3SlRyX2JRVk1SZnk0bzBTUmV0dW1CQ0VJSHR0elFGU1NCajV0OTZDeGdxOW12bW1zQlJaWUZjNmdtYmNNcHZZWlJ0eVJvTTNOa2U0RjBSVlN4YmsyYXFQS1NWd01tTEZaXzFfeGc",
+   "source": "The Register",
+   "published_at": "2026-10-14T13:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Register",
+     "published_at": "2026-10-14T13:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWt5Zmt6OHhZSk1qZ1djZjFWSmp1NDU2M2QxNy1OYjd5VTNNYXA2MEZqcWlHVUhhOWJSQm5ZWXY5M1ViVmxfTVF3SlRyX2JRVk1SZnk0bzBTUmV0dW1CQ0VJSHR0elFGU1NCajV0OTZDeGdxOW12bW1zQlJaWUZjNmdtYmNNcHZZWlJ0eVJvTTNOa2U0RjBSVlN4YmsyYXFQS1NWd01tTEZaXzFfeGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "dd84b07d86a7",
+   "title": "Why NVIDIA is Backing Britain’s AI Safety With US$250m Push - AI Magazine",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVNhY2tXbDhoVmNKbHY0d21LdzNzVjcyRHMwU0V5STFveXQ4TDN3RVpNZkIxbXpWeWlxZDBBT2o0Q0VwbVBIOXd6RThNVWtBSG1oNmRaMW11UExlMkNIT3FMVk9VQjVUYU13VHpxSWlScU5nRF9NN01IcDBSdlRvVzlpc3d1UDc1WkVKdlVTcw",
+   "source": "AI Magazine",
+   "published_at": "2026-10-14T13:28:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "AI Magazine",
+     "published_at": "2026-10-14T13:28:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVNhY2tXbDhoVmNKbHY0d21LdzNzVjcyRHMwU0V5STFveXQ4TDN3RVpNZkIxbXpWeWlxZDBBT2o0Q0VwbVBIOXd6RThNVWtBSG1oNmRaMW11UExlMkNIT3FMVk9VQjVUYU13VHpxSWlScU5nRF9NN01IcDBSdlRvVzlpc3d1UDc1WkVKdlVTcw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "6cd80a794211",
+   "title": "Why Nvidia CEO Jensen Huang Believes Suffering Is Part of Success - Inc.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUJBTldZX29weW5oQVlab0tDYmwwNUw0OHNORkttaVFkUDBFVFd2Ul9iSS1MWXRKdUQ3VlJDMUMzbjhTczNhN3VBSms1YWVuMXVOdzhNd2gwbGZORVZoaHpFSUFoakZLQmQ0amVvb2pRQUR1OS1qM0VaQjVmQWc4U1FfWHFYN2wxbDNTN3R6eUFCaFBmUGY1SDlNd0tCY2hfNWlLNXVNa3RqdVU",
+   "source": "Inc.com",
+   "published_at": "2026-10-14T13:20:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Inc.com",
+     "published_at": "2026-10-14T13:20:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUJBTldZX29weW5oQVlab0tDYmwwNUw0OHNORkttaVFkUDBFVFd2Ul9iSS1MWXRKdUQ3VlJDMUMzbjhTczNhN3VBSms1YWVuMXVOdzhNd2gwbGZORVZoaHpFSUFoakZLQmQ0amVvb2pRQUR1OS1qM0VaQjVmQWc4U1FfWHFYN2wxbDNTN3R6eUFCaFBmUGY1SDlNd0tCY2hfNWlLNXVNa3RqdVU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "0290d9e2722c",
+   "title": "$英伟达 (NVDA.US)$ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yelN5SkNvUUhDY0lpcHU1clZrRjJQa2VqUWJHb19vUWdZQmRkbmlFYnVNSEh6dXdJT0lvalNhR09XZFVudlF3Mi1zZ0lUZmI3NjFDNnZZNUx6andseExJdy1xNThwcXo0X2dFczIzclRqY1EyaE5yY2FDZHVMUQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-14T13:16:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-14T13:16:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yelN5SkNvUUhDY0lpcHU1clZrRjJQa2VqUWJHb19vUWdZQmRkbmlFYnVNSEh6dXdJT0lvalNhR09XZFVudlF3Mi1zZ0lUZmI3NjFDNnZZNUx6andseExJdy1xNThwcXo0X2dFczIzclRqY1EyaE5yY2FDZHVMUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "2c3878dc8db7",
    "title": "A $250 Million Why Nvidia Stock in News - GuruFocus",
@@ -484,7 +569,11 @@
    "session": "盘前",
    "zh_summary": "丹纳赫与英伟达合作推动实验室AI应用",
    "title_zh": "丹纳赫联手英伟达将加速计算与物理AI引入实验室",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.06,
+    "window_h": 0.1
+   }
   },
   {
    "id": "4b52d10b4db1",
@@ -514,7 +603,11 @@
    "session": "盘前",
    "zh_summary": "这支存储股或成2027年AI黑马",
    "title_zh": "不是英伟达，不是博通：这支存储股或成2027年AI黑马",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.06,
+    "window_h": 0.1
+   }
   },
   {
    "id": "bfdecef99a8d",
@@ -952,46 +1045,6 @@
    "sentiment": 1
   },
   {
-   "id": "c14281e1fda0",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by Glenview Trust Co - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T08:09:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T08:09:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Glenview Trust减持英伟达股份",
-   "title_zh": "Glenview Trust出售英伟达NVDA股份",
-   "sentiment": -1
-  },
-  {
-   "id": "c298a0b59443",
-   "title": "Fulcrum Asset Management LLP Sells 64,683 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRTM2TWhtb25JMGhfeWJuUjNSWFczNEYwUHR3OG5QU3dBV1NjRlF1Q0tPY19lblpwMnpjaG1TRENTOEk1VGJlWUpwUmM5NGptLVgtVlR2czh3ci14N2lpX3FRcnRHOHE5VGJNYW4zek1mT3ZZZlpkaVh2OUlLdlowLUg4UUc4STl1NDRyTVBsZkJVTVhvb1liWTQ0MFFwTXNDWnBTS0F5WXV6LWEzV0xLQlFPNldUX01valdsUFdPd2VNc05pbktXWk5yX1JRZGZF",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T08:09:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T08:09:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRTM2TWhtb25JMGhfeWJuUjNSWFczNEYwUHR3OG5QU3dBV1NjRlF1Q0tPY19lblpwMnpjaG1TRENTOEk1VGJlWUpwUmM5NGptLVgtVlR2czh3ci14N2lpX3FRcnRHOHE5VGJNYW4zek1mT3ZZZlpkaVh2OUlLdlowLUg4UUc4STl1NDRyTVBsZkJVTVhvb1liWTQ0MFFwTXNDWnBTS0F5WXV6LWEzV0xLQlFPNldUX01valdsUFdPd2VNc05pbktXWk5yX1JRZGZF"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Fulcrum资管减持英伟达64683股",
-   "title_zh": "Fulcrum资管出售64683股英伟达股份",
-   "sentiment": -1
-  },
-  {
    "id": "329bba1f810b",
    "title": "Riverlane And Nvidia Speed Up Quantum Error Correction With AI - Quantum Zeitgeist",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84LTRSUTY4bXBJeXZiUVAtZlZJMUdXOEpDeXp0dVQ5d0RHQlgtY1RVNWV5TzFTZDRadnIwaE83ZF9fWDlKZFktMkZyRDhRNGlXR19JbzhKQi1hUE5qOGpUaDZMS3A2TXRZRlBHMnpNLUoyd3NDSUpNMkpWaw",
@@ -1095,6 +1148,26 @@
    "zh_summary": "英伟达投资额超510亿美元，入股Doctolib等",
    "title_zh": "英伟达入股Doctolib和Genesis AI，投资账面超510亿美元",
    "sentiment": 1
+  },
+  {
+   "id": "0c1c44b1b40e",
+   "title": "Copia Wealth Management Buys 2,483 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN2ZnY0JWdDA3dVlqVnBtMEZaMUlmNXpuV2JxUXpkWmw1NWgyaWkxLW1jenE3Ry10SkM0Q2xVNkxKQjEtNFFXQ0xkbW5pUG9Cbko5UVZKVkJfRFlFMW9JQnlKN3VGdFBVRkRpT00wRFp2Sm5fcVpobE5Cc3dlYTRTV1k4MWlVQlRkR0FBV2JrRjhQTkdjV3hoTHN1S19ZU2UxZmpDSEExNm9ydmZFVUJwbGJ3dEhOdzc3Z3lsMFlRRXFIVDlpdXNZ",
+   "source": "MarketBeat",
+   "published_at": "2026-10-14T07:33:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-14T07:33:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN2ZnY0JWdDA3dVlqVnBtMEZaMUlmNXpuV2JxUXpkWmw1NWgyaWkxLW1jenE3Ry10SkM0Q2xVNkxKQjEtNFFXQ0xkbW5pUG9Cbko5UVZKVkJfRFlFMW9JQnlKN3VGdFBVRkRpT00wRFp2Sm5fcVpobE5Cc3dlYTRTV1k4MWlVQlRkR0FBV2JrRjhQTkdjV3hoTHN1S19ZU2UxZmpDSEExNm9ydmZFVUJwbGJ3dEhOdzc3Z3lsMFlRRXFIVDlpdXNZ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "Fulcrum资管减持英伟达64683股",
+   "title_zh": "Fulcrum资管出售64683股英伟达股份",
+   "sentiment": -1
   },
   {
    "id": "29c4d540ebd8",
@@ -1307,12 +1380,17 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0d1JMd3VUZ2lLSExsRVZTVnN4SnFheVJ6NktNWXBBR3FIWUZLcUhSdkUxN3pLWnRobldhdkdiWU1hXzlHdUF4dTRLZEdQMEdNb3Q4RkwxdGNpTm1K",
    "source": "www.caiwennews.com",
    "published_at": "2026-10-14T07:00:52+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "www.caiwennews.com",
      "published_at": "2026-10-14T07:00:52+00:00",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0d1JMd3VUZ2lLSExsRVZTVnN4SnFheVJ6NktNWXBBR3FIWUZLcUhSdkUxN3pLWnRobldhdkdiWU1hXzlHdUF4dTRLZEdQMEdNb3Q4RkwxdGNpTm1K"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-14T07:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGlmc2Q0UUtGcXpyVW5SY1VodkozUTY2VEV2bWpZMms3cC1mWGVkYjc3dkpVdXlWSTZvdFNSdTFFdTFKMDhDN0hveTZkVG1neXF6Wm5wVkdid0ZmanNjdjFmVjZwaTZ0TkVybjhaSnY0QU1kSlZ0MmhWVjlpandRSDZacjJheGVQVDFwcg"
     }
    ],
    "category": "其他",
@@ -1387,6 +1465,23 @@
    "sentiment": 0
   },
   {
+   "id": "75bfd1ad07dd",
+   "title": "NVDA Stock Eyes Worst First Half Since 2022: Retail Patience Wears Thin As Board Member Trims Stake For Third Time This Year - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORzhNMG5sbTZPeXlsLUFWb0xrc05MRGNQcW9aS3VrOTF5RFRYdFRuQkZvRFFFdkdyNzNiaGNodWdJdjJHZE9oYUNnUWxoclN6LTU4YTRIRnR6NnZKRDV5ZVVSWWJPdGNsdFZZM01rZ1V2ajlPcTFHczdBUElKSUtJbEptTFc5V1JKQXZMbHpkeWxDazRpZGc3eHhDVkxuSXN0OE51QmI3bU1FN2pWMEFVODlFT2Q5SVVrXzNQQktFSjR1dkRFWlBpRlF4V2JuZW1rSFZtSU9sWnU5bXBRaDJxbjVGN3M2cGg4dG5SVWY4d2h6SENzbGlkdGk2dUVvWmtDRmZudmVhOHlmeTNGU0F0S2NWNFdSZw",
+   "source": "Stocktwits",
+   "published_at": "2026-10-14T06:28:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-14T06:28:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORzhNMG5sbTZPeXlsLUFWb0xrc05MRGNQcW9aS3VrOTF5RFRYdFRuQkZvRFFFdkdyNzNiaGNodWdJdjJHZE9oYUNnUWxoclN6LTU4YTRIRnR6NnZKRDV5ZVVSWWJPdGNsdFZZM01rZ1V2ajlPcTFHczdBUElKSUtJbEptTFc5V1JKQXZMbHpkeWxDazRpZGc3eHhDVkxuSXN0OE51QmI3bU1FN2pWMEFVODlFT2Q5SVVrXzNQQktFSjR1dkRFWlBpRlF4V2JuZW1rSFZtSU9sWnU5bXBRaDJxbjVGN3M2cGg4dG5SVWY4d2h6SENzbGlkdGk2dUVvWmtDRmZudmVhOHlmeTNGU0F0S2NWNFdSZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "4d729248b187",
    "title": "Danaher and NVIDIA Partner to Integrate AI Into Scientific Instruments - Unite.AI",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMUNHdVpMT2FXb1dyT1FlQXlmSkM3ZGJuWEE3OU94a1Jma1NkQnZidGZoQW9TaDR3U2lnLTBYTFVGVk5WMHptSk5oYWdNWmQyM0RRRlhMRENLYk05ZEhsYjF2b3pBUzRzeVBPMjZXRjltdzhyZlJtanhLOFQySDFUaEN3Q204VzRodlBmdlo0dmd2eGpyNmI4",
@@ -1455,7 +1550,11 @@
    "breaking": true,
    "zh_summary": "伦敦证交所与英伟达合作加速市场数据处理",
    "title_zh": "伦敦证交所与英伟达合作，加速市场数据处理",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.06,
+    "window_h": 0.1
+   }
   },
   {
    "id": "cfc3a8e11499",
@@ -1520,7 +1619,11 @@
    "session": "盘前",
    "zh_summary": "英伟达承诺投入2.5亿美元支持英国AI安全研究",
    "title_zh": "英伟达承诺出资2.5亿美元支持英国AI安全研究",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.06,
+    "window_h": 0.1
+   }
   },
   {
    "id": "808b81051efc",
@@ -1715,7 +1818,11 @@
    "session": "盘前",
    "zh_summary": "英伟达未来五年投2.5亿美元促英国研究",
    "title_zh": "英伟达承诺未来五年投入2.5亿美元推进英国智能体安全研究",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.06,
+    "window_h": 0.1
+   }
   },
   {
    "id": "8d5485849af8",
@@ -1750,7 +1857,11 @@
    "session": "盘前",
    "zh_summary": "英伟达未来五年投入2.5亿美元促英国研究",
    "title_zh": "英伟达承诺在未来五年内投入$2.5亿，推进英国智能体安全与研究 - 富途牛牛",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.06,
+    "window_h": 0.1
+   }
   },
   {
    "id": "d29c50829180",
@@ -1840,7 +1951,11 @@
    "session": "盘前",
    "zh_summary": "伦敦证交所借助英伟达加速历史数据分析",
    "title_zh": "伦敦证交所携手英伟达加速历史交易数据分析",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.06,
+    "window_h": 0.1
+   }
   },
   {
    "id": "3a9d0969fe93",
@@ -2180,7 +2295,11 @@
    "session": "盘后",
    "zh_summary": "华为AI芯片在华出货量逼近英伟达",
    "title_zh": "华为AI芯片中国市场出货量逼近英伟达 - 搜狐",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.06,
+    "window_h": 0.1
+   }
   },
   {
    "id": "24f7329268e9",
@@ -2250,7 +2369,11 @@
    "session": "盘后",
    "zh_summary": "仁宝在OCP峰会展出新一代英伟达平台",
    "title_zh": "仁宝在OCP全球峰会加速AI落地，展出新一代英伟达平台",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.06,
+    "window_h": 0.1
+   }
   },
   {
    "id": "7346c3cdf78e",
@@ -2780,7 +2903,11 @@
    "session": "盘后",
    "zh_summary": "Motley Fool 预测英伟达五年走势",
    "title_zh": "Motley Fool：英伟达五年后股价将走向何方",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.06,
+    "window_h": 0.1
+   }
   },
   {
    "id": "a1956a356e1d",
@@ -6550,130 +6677,6 @@
    "zh_summary": "英伟达韩负责人：平台是实体AI核心",
    "title_zh": "英伟达韩国负责人：英伟达平台是实体AI核心技术",
    "sentiment": 1
-  },
-  {
-   "id": "5464752a7783",
-   "title": "Nvidia’s China AI chip market share falls to 34% as Huawei gains ground: IDC (NVDA:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVm9JY1RJX0hYcERmWjVPcW1oUktJejViVE9kZUdNY3ZfVWJndWtrZjFrZnhydk90MmtVOU1DblcwQ2tuRkM4YjVhck1GTmtQRjJRakE5bGRjZmhkS3Z3YkNfNTAtc1lZNWhEdUJQYV9MV0NlbzJjV0lqMzlybk91WGNqUzhIeTE5TTNTN1RRZUtRNFo5ZlpHRjYyXzRYZVdReDZMN3E2R0ZnWlJOdHdFVQ",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-13T08:24:56+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-13T08:24:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVm9JY1RJX0hYcERmWjVPcW1oUktJejViVE9kZUdNY3ZfVWJndWtrZjFrZnhydk90MmtVOU1DblcwQ2tuRkM4YjVhck1GTmtQRjJRakE5bGRjZmhkS3Z3YkNfNTAtc1lZNWhEdUJQYV9MV0NlbzJjV0lqMzlybk91WGNqUzhIeTE5TTNTN1RRZUtRNFo5ZlpHRjYyXzRYZVdReDZMN3E2R0ZnWlJOdHdFVQ"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-13T08:24:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPalNfNGdtUm8yNjYwSUd1VlFkZGkzRFhqaVlSMktrNlB2b0VOVk1mZC1ocGJyb2dSdEJHWExSZW96Snp3MEZGQXV6YTVNb0RaY09jcV9lYU1QM2NLcnpvNnh4d3puUVBsY1llTUtWM3FmQm5WRkY4QXY3ZFlWUzRoNmJSZHRCR1dURWI5ejBtY1AyaUdKemJzT01TcWRvamh3ZVEtY2YySm1TS1BMNG1ETGJrQTg2UmxGdEUyLVQyaW9wdVBnMEIyQkM5UUVfblJkbWN3"
-    },
-    {
-     "name": "Mexico Business News",
-     "published_at": "2026-10-13T20:37:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaUxJdVNwblBhMC1rUU9TbGpZSW5OWFo5WmdHcGczYjBaeFJ0OWtKckV0dWRIUkR5LVJmRl8zTnI5UnlSSmhlM3R3MkdRUFNlZkRfY0RDLXdpd015N3Fqc0IwcHpmWjhFSXRnUkNVRVlXYWZuakpNaEVxOWY2LVp2cUpiTDVfQ0FGa25yMW01dzZmeXpxamlNdEd0NmtZQkN6SWtUdw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "IDC：英伟达中国AI芯片份额降至34%",
-   "title_zh": "IDC称英伟达中国AI芯片份额降至34%，华为份额上升",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 0.27,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "ef813be86657",
-   "title": "英伟达与思科推出USFP光模块 单模块容量最高达12.8Tb/s - 观点网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0UmR1cDNPR0todHZMZWJKOXlET3dyZXZuRWtvdU93eEJrU2wyRGVkUnlvNk5WVjJfU013bWl2T1ItanVoM2QzaWVoTkxKRWRiZ1lLVjZnZ3BOWHhGdmR1U1BR",
-   "source": "观点网",
-   "published_at": "2026-10-13T08:24:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "观点网",
-     "published_at": "2026-10-13T08:24:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0UmR1cDNPR0todHZMZWJKOXlET3dyZXZuRWtvdU93eEJrU2wyRGVkUnlvNk5WVjJfU013bWl2T1ItanVoM2QzaWVoTkxKRWRiZ1lLVjZnZ3BOWHhGdmR1U1BR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达与思科推出USFP光模块",
-   "title_zh": "英伟达与思科推出USFP光模块 单模块容量最高达12.8Tb/s - 观点网",
-   "sentiment": 1
-  },
-  {
-   "id": "c8dcfc026bfb",
-   "title": "景旺电子回应英伟达减单传闻 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3Y2NGV05kWmg1YWJDX2xrZTZ2S1R1TDRxc1pyRmN1Sk5Ld2lLcHpqQ294TWhmNVYtdDZ2emRfX1AyaGIxS1hDcEp0NDVWT3Z5blNDQ1UwQXZRemZOZHVMdWxzXzFNaDFKNnlNMWhSalZqczlJLXY0eUJsdjFmUVU",
-   "source": "finance.sina.com.cn",
-   "published_at": "2026-10-13T08:17:25+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-13T08:17:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3Y2NGV05kWmg1YWJDX2xrZTZ2S1R1TDRxc1pyRmN1Sk5Ld2lLcHpqQ294TWhmNVYtdDZ2emRfX1AyaGIxS1hDcEp0NDVWT3Z5blNDQ1UwQXZRemZOZHVMdWxzXzFNaDFKNnlNMWhSalZqczlJLXY0eUJsdjFmUVU"
-    },
-    {
-     "name": "Jiemian.com",
-     "published_at": "2026-10-13T08:48:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nLUZjaWpTc1pPSGhfWmp6bUk5NDZBRU0yU3RWdDNuQlhYUkhZQmVoM0dISWpOZUdtUVZwN3d5Zlo2eGVoT1BpbGlEUlVDVGl0M2Q4YmdLaVA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "景旺电子否认英伟达减单传闻",
-   "title_zh": "景旺电子回应英伟达减单传闻",
-   "sentiment": 1
-  },
-  {
-   "id": "733c340d5378",
-   "title": "Tencent leases 100000 banned Nvidia chips through Oracle in Southeast Asia - Startup Fortune",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkhmVTV0YzVEYUQ2NTUzYkVHdHowX2tpXzBRckdHVmRIZnlnN3V1bF9rWGxUSVc3V1Z3S01kaUdlVTVrRlJLZmFLbWxhVzhNQ0NRQUFYazRMaGdWRmwtNi1hVThxRmtEOE1wRjVadGN2UVMtVmpaUnNEQ2dmcEs0ZEVPMXR1WkZjVXc2S3JYQVNxNnZGclJ4MVZISjJobXlrQXBRcw",
-   "source": "Startup Fortune",
-   "published_at": "2026-10-13T08:17:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Startup Fortune",
-     "published_at": "2026-10-13T08:17:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkhmVTV0YzVEYUQ2NTUzYkVHdHowX2tpXzBRckdHVmRIZnlnN3V1bF9rWGxUSVc3V1Z3S01kaUdlVTVrRlJLZmFLbWxhVzhNQ0NRQUFYazRMaGdWRmwtNi1hVThxRmtEOE1wRjVadGN2UVMtVmpaUnNEQ2dmcEs0ZEVPMXR1WkZjVXc2S3JYQVNxNnZGclJ4MVZISjJobXlrQXBRcw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "腾讯被曝经甲骨文在东南亚租用10万颗禁售芯片",
-   "title_zh": "腾讯经甲骨文在东南亚租用10万颗被禁英伟达芯片",
-   "sentiment": 0
-  },
-  {
-   "id": "ec2f1f5b175e",
-   "title": "软通动力删除“到货英伟达8000张GPU”相关公众号推文，公司最新回应 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTE0yU3dGUk5VNFJLcHlnbTkyX0hMTXJKQzRZU2ZHdjBMNVIyNDZwR24zY2kzcy1mQVh0WHJvcThMbUZQLUxkNllTUER3V3NuOElGSk81Vld4SGNxTTU2ZUhRbUdoQV9ORFBTZ0NERDloZEJOOWI5WjZScGZPWW1QaGQzMU56Zkg0Z1JJVVJ4dmptS0p4aW1Ba2JBT1pBRWttRnJ0VExvUkFSMnltLXZtRmViMi1iYkplQnhJMHNkdDJodw",
-   "source": "Moomoo",
-   "published_at": "2026-10-13T08:04:57+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-13T08:04:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTE0yU3dGUk5VNFJLcHlnbTkyX0hMTXJKQzRZU2ZHdjBMNVIyNDZwR24zY2kzcy1mQVh0WHJvcThMbUZQLUxkNllTUER3V3NuOElGSk81Vld4SGNxTTU2ZUhRbUdoQV9ORFBTZ0NERDloZEJOOWI5WjZScGZPWW1QaGQzMU56Zkg0Z1JJVVJ4dmptS0p4aW1Ba2JBT1pBRWttRnJ0VExvUkFSMnltLXZtRmViMi1iYkplQnhJMHNkdDJodw"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-13T08:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2tBMFpKQmZERkN1MHNhRUkyc0J1QUJRUXMzUVBfTzVScnoxenFQSnFQUTVNR0lEY2hvVVFDcVp1V1FqbVNvZ1RnWXlDSFlLY284RnVVRXlnU1J3ZUxRWEREajBOX1VQUy1jai1BNmdnNHlrR0tZLWQ4clZkOFpReU9rTURJUmh6"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "软通动力删除英伟达8000GPU到货推文",
-   "title_zh": "软通动力删除“到货英伟达8000张GPU”相关公众号推文，公司最新回应 - 搜狐",
-   "sentiment": -1
   }
  ]
 }
