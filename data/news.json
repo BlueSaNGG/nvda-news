@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T15:51:32.986178+00:00",
+ "updated_at": "2026-10-14T16:06:32.181440+00:00",
  "market": {
-  "price": 222.44,
-  "change_pct": -2.66,
+  "price": 222.67,
+  "change_pct": -2.56,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.55,
-   "count": 113
+   "count": 117
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 77% 分位"
+     "note": "现价处于52周区间 78% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +41.6%"
+     "note": "目标价中位数 $315（15家），隐含空间 +41.5%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.55（113条已评分）"
+     "note": "今日新闻情绪 +0.55（117条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $222.44 vs 20日均线 $228.75"
+     "note": "现价 $222.67 vs 20日均线 $228.76"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 77,
+   "price_52w_pct": 78,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 41.6,
-   "ma20": 228.75,
-   "as_of": "2026-10-14T15:51:32.977457+00:00"
+   "implied_upside_pct": 41.5,
+   "ma20": 228.76,
+   "as_of": "2026-10-14T16:06:32.165331+00:00"
   },
   "pe_ttm": 28.3,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+41.6%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+41.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a55f6e79522a",
+   "title": "NVIDIA donates $250m to support UK’s AI research and security - Medical Device Network",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjEyVGRGWVhUeEhTaWFKRFQyNWxXY1NJNXpoQzE0VlhQcnhLV2VsUlJudk50bGFaWFUzNnYtYVB4WGg0ZG9kR0JsdmhMUldJYlBwNVlkbG1ZcGk5M0kyd3BpTlpTaWhCUC1Za05wd3pFdWMyUEpHRTlHd2hZYkFNY3Q1TVF3NGo4SjMwRDR4VElMTE9jVm5XQU02M2hWZHB6ZDJIUw",
+   "source": "Medical Device Network",
+   "published_at": "2026-10-14T15:53:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Medical Device Network",
+     "published_at": "2026-10-14T15:53:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjEyVGRGWVhUeEhTaWFKRFQyNWxXY1NJNXpoQzE0VlhQcnhLV2VsUlJudk50bGFaWFUzNnYtYVB4WGg0ZG9kR0JsdmhMUldJYlBwNVlkbG1ZcGk5M0kyd3BpTlpTaWhCUC1Za05wd3pFdWMyUEpHRTlHd2hZYkFNY3Q1TVF3NGo4SjMwRDR4VElMTE9jVm5XQU02M2hWZHB6ZDJIUw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "0853735ce0c5",
    "title": "Nvidia Opens Its Vera Rubin Rack Design To Speed Up AI Data Centers - Forbes",
@@ -187,12 +204,17 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVlDaG9fR0pKSnNHYzdxRmUyTXdCbW4wNmk4bGpnbWJsVk9JZDRCTXJ4NUNLMkRXQ3J6WWNwTEZYZnQ4dE5LVWtWZkx0cTdDeVZpRGxXYXU4QnJvOTBNZG5lcGo5UXpZaWFmb3pDY0tpUGtjQVRmTTY2YVN5eFlJZlVobmJPV0FNSE9WSjFzb1E1ZjA1VjR4S2hyTFB1YWNCRFlqNGJfb0t1bzQyUnc",
    "source": "The Information",
    "published_at": "2026-10-14T15:10:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Information",
      "published_at": "2026-10-14T15:10:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVlDaG9fR0pKSnNHYzdxRmUyTXdCbW4wNmk4bGpnbWJsVk9JZDRCTXJ4NUNLMkRXQ3J6WWNwTEZYZnQ4dE5LVWtWZkx0cTdDeVZpRGxXYXU4QnJvOTBNZG5lcGo5UXpZaWFmb3pDY0tpUGtjQVRmTTY2YVN5eFlJZlVobmJPV0FNSE9WSjFzb1E1ZjA1VjR4S2hyTFB1YWNCRFlqNGJfb0t1bzQyUnc"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-14T15:14:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWTQyRzZyWHBLb1V3RHo5YVU1d25VOEpRVFRiLTdrUkZMcXJsSjBTNmRzZklWRlQxM3ljZVJKUzBQcGpldWRFZDl4TEtFbkdXNmZFZlhCVWpUMi00NFBfVUZaLXVQLUhuRVRfTXNpckFjdENhRXVodG5lNkQwbUlZYkZGeWlpSzV0ZEZtODdQcURkM3NqUjhmYXlnNGJGNV9reXpTaUNGRmxNZkNtakt1bi1JUFExTlNTZG1VUUVWbGpwSDNsQnpaSmpqT3F5b05BemsxUXpONlNWYlpwQXI0RUUyeUxiWGM"
     }
    ],
    "category": "产品技术",
@@ -1355,26 +1377,6 @@
    "sentiment": 0
   },
   {
-   "id": "74c56087d97f",
-   "title": "伦交所集团与英伟达合作 加快历史市场数据处理速度 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VSUNLbWRJNnhtSnE5bVc4aVRNdTJjeVJTUWdiOFAxWi1pMFlwbU1zNWY2X01WMUs4OWhPRmF0TGZYcGFOQlI2XzVoRGNncm9uU3lZcDl4LU04V3RsRWllRlRfWQ",
-   "source": "东方财富",
-   "published_at": "2026-10-14T09:55:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-14T09:55:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VSUNLbWRJNnhtSnE5bVc4aVRNdTJjeVJTUWdiOFAxWi1pMFlwbU1zNWY2X01WMUs4OWhPRmF0TGZYcGFOQlI2XzVoRGNncm9uU3lZcDl4LU04V3RsRWllRlRfWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "伦交所与英伟达合作处理市场数据",
-   "title_zh": "伦交所集团与英伟达合作 加快历史市场数据处理速度 - 东方财富",
-   "sentiment": 1
-  },
-  {
    "id": "c7ac853c0fe4",
    "title": "France carves its own path in AI race with Nvidia’s help - Euronews",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWh5OUZuUklwLXhBd2pSd054NTROYkFyZDRHT19JT2hCeEI2Q2Z5TDVXRmJDN0FtbVN5dnpJTERDc09kSTNjZUQxQmJKdTdQem1UZWUxVUROVFdvQUc0SG96V0ZKQmFoejNPZlA1d0Y5SHBPMnNvdHdpcHZ2NXVRcTN5c1pHLUJDVDFvVHZTZWQ3RUdQRjJtNlpBWWtKb1NPSUhiNVdRQ0pTLWtlVzUycEUxYUt5aDZs",
@@ -1648,6 +1650,23 @@
    "zh_summary": "North Star资管公司出售NVDA股票",
    "title_zh": "North Star资产管理公司出售NVDA股票",
    "sentiment": -1
+  },
+  {
+   "id": "c14281e1fda0",
+   "title": "NVIDIA Corporation $NVDA Shares Sold by Glenview Trust Co - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0",
+   "source": "MarketBeat",
+   "published_at": "2026-10-14T08:09:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-14T08:09:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "329bba1f810b",
@@ -2027,6 +2046,26 @@
    "session": "盘前",
    "zh_summary": "OneAdvanced用英伟达技术打造安全AI",
    "title_zh": "OneAdvanced采用英伟达技术，推动英国关键行业安全智能体AI",
+   "sentiment": 1
+  },
+  {
+   "id": "74c56087d97f",
+   "title": "伦交所集团与英伟达合作 加快历史市场数据处理速度 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VSUNLbWRJNnhtSnE5bVc4aVRNdTJjeVJTUWdiOFAxWi1pMFlwbU1zNWY2X01WMUs4OWhPRmF0TGZYcGFOQlI2XzVoRGNncm9uU3lZcDl4LU04V3RsRWllRlRfWQ",
+   "source": "东方财富",
+   "published_at": "2026-10-14T06:55:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-14T06:55:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VSUNLbWRJNnhtSnE5bVc4aVRNdTJjeVJTUWdiOFAxWi1pMFlwbU1zNWY2X01WMUs4OWhPRmF0TGZYcGFOQlI2XzVoRGNncm9uU3lZcDl4LU04V3RsRWllRlRfWQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "伦交所与英伟达合作处理市场数据",
+   "title_zh": "伦交所集团与英伟达合作 加快历史市场数据处理速度 - 东方财富",
    "sentiment": 1
   },
   {
@@ -4063,7 +4102,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaZUhkMUpIYUgxNjlyaGZEY1RPYTZBdC0xbW8xcVVqXzl1d2hOOHZ2QUlmSkxpSEJfdmZNX1NLWG0wbWhJY3VpUUNDSDBrY3dnYkVzN2xwbHlzZkpfNmRadQ",
    "source": "cnBeta.COM",
    "published_at": "2026-10-13T18:32:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "cnBeta.COM",
@@ -4074,13 +4113,22 @@
      "name": "Moomoo",
      "published_at": "2026-10-13T18:33:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kNGhQYTljdkREYjhLZU9uV1hTY0VKbG1JN01ubWl4WWk2bkwxTnVDalhFZU5VbGFuZkRnN0xTa3hBYlBvMU42Z2tKeHJob1JtMjNZZnVNM3FTdlhI"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-13T23:48:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UVmlqUkhmRzR2X2UxVmhCVVl3a2oxX0IybmFOTk04QVcxcGJlVFFsMlo2dUZ2Y2NZM3h0WTNOaXQwdW9XZ2t5Um5rLWd6MXN4TzBzUS1lLUV3MkxiZGM3Vg"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达拟在欧洲追加20亿美元投资",
    "title_zh": "英伟达拟在欧洲追加20亿美元投资 黄仁勋呼吁加快AI布局 - Moomoo",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.58,
+    "window_h": 1.3
+   }
   },
   {
    "id": "7e287e42793c",
@@ -6615,51 +6663,6 @@
    "zh_summary": "华为AI芯片出货近翻倍，占据28%市场份额",
    "title_zh": "华为AI芯片出货近翻倍占28%份额，英伟达在华失守",
    "sentiment": -1
-  },
-  {
-   "id": "d6cb577ce183",
-   "title": "Scaleway to open Nvidia-powered computing site in Copenhagen - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMndKTHg3Y01YZ2lPQ2QySW11UFI4OHNYalBlRDZtSUs0cnY4WmlKN3AyOXNwQWtQNEJ2MWZJVjJPMUlmQ1RjSXZYOXhJMFFZZDVwRC11czFtX1d4VmlwdWw1RVhuME5rV2VFLXVQaWc4aFJQQVdyQ3diZENlMzVhUDY4bVdDbUNSQjNUREJvN2xWbDlCRE1LZHpWN0JkdWctaXFCQ0xSSmpVWFY0OGRNb0E5NA",
-   "source": "Reuters",
-   "published_at": "2026-10-13T11:17:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-13T11:17:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMndKTHg3Y01YZ2lPQ2QySW11UFI4OHNYalBlRDZtSUs0cnY4WmlKN3AyOXNwQWtQNEJ2MWZJVjJPMUlmQ1RjSXZYOXhJMFFZZDVwRC11czFtX1d4VmlwdWw1RVhuME5rV2VFLXVQaWc4aFJQQVdyQ3diZENlMzVhUDY4bVdDbUNSQjNUREJvN2xWbDlCRE1LZHpWN0JkdWctaXFCQ0xSSmpVWFY0OGRNb0E5NA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Scaleway将在哥本哈根开设算力站点",
-   "title_zh": "Scaleway将在哥本哈根开设英伟达算力站点",
-   "sentiment": 1
-  },
-  {
-   "id": "021b6813b0db",
-   "title": "Broadcom vs. Nvidia: The AI Revolution Is Big Enough for Both. Here's the Better Buy. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOEhXdzJLdExDUTJPQ0VTYmJvZEhqWkRYYVdXa2tKUF81a3pScUZsSTVlbFJ1cklXRElFMlM0bjJNRHAxVEZuaUp1NUl1YWlaa3g5ZkVvWnRjTkU3LXR5Y0J6MjFPMWNsS3k2YzVlTE4tVGNqWWJtMk5zMjZQQ0JkdTJ2bXE0bHRHRlo4Y0VxN0M2Sk11RzFEdQ",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-13T11:17:05+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-13T11:17:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOEhXdzJLdExDUTJPQ0VTYmJvZEhqWkRYYVdXa2tKUF81a3pScUZsSTVlbFJ1cklXRElFMlM0bjJNRHAxVEZuaUp1NUl1YWlaa3g5ZkVvWnRjTkU3LXR5Y0J6MjFPMWNsS3k2YzVlTE4tVGNqWWJtMk5zMjZQQ0JkdTJ2bXE0bHRHRlo4Y0VxN0M2Sk11RzFEdQ"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-13T11:34:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa0gtT0RXbmRpRnFSWlgyNnNiQUdiZ3ZOZURYLXlUcGk0VTJITU9rcmNQSXp4dm90d3VQM2F3SDhKMU5lcThjMklqZjFuc1NISGw2NVJ6b2tYT2Mtcl92ZlRBQWdzWHJpNWVUVG43RERLN2VETDJtc3lYM1diYUMwSTZaMFRqVTV1aGxJTzU4MTFQN1A1NUtkd2xrckg3aWp5RDczQUdGaVBzak1feDVzZGhhRU8yMjNwdFRFOUNkdWc5dU9XckRNRzlORTAzdU1TVUl1RExNb1pLNEtpSWdxaUdwMVFuWWhSRElZNEVuMHpXZ3hmWTdDZEcwako"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "博通与英伟达对比：AI革命市场足够大",
-   "title_zh": "博通 vs 英伟达：AI革命足够容下两者，哪个更值得买",
-   "sentiment": 0
   }
  ]
 }
