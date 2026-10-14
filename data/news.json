@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-13T23:51:35.705127+00:00",
+ "updated_at": "2026-10-14T00:06:28.598543+00:00",
  "market": {
-  "price": 228.52,
-  "change_pct": 0.97,
+  "price": 226.32,
+  "change_pct": -1.29,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-11-17",
@@ -15,17 +15,17 @@
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": -1,
    "dims": [
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 86% 分位（偏高）"
+     "note": "现价处于52周区间 83% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +37.8%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.2%"
     },
     {
      "key": "新闻情绪",
@@ -34,8 +34,8 @@
     },
     {
      "key": "动量",
-     "score": 1,
-     "note": "现价 $228.52 vs 20日均线 $228.32"
+     "score": -1,
+     "note": "现价 $226.32 vs 20日均线 $227.50"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 86,
+   "price_52w_pct": 83,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 37.8,
-   "ma20": 228.32,
-   "as_of": "2026-10-13T23:51:35.696181+00:00"
+   "implied_upside_pct": 39.2,
+   "ma20": 227.5,
+   "as_of": "2026-10-14T00:06:28.586065+00:00"
   },
-  "pe_ttm": 29.0,
-  "pe_pct_5y": 27,
-  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.8%空间：估值偏低，预期乐观"
+  "pe_ttm": 28.8,
+  "pe_pct_5y": 25,
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "76e0f60dc25a",
+   "title": "金融时报:填补AI芯片缺口 中企狂买英伟达游戏芯片凑数 - KLSE Screener",
+   "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOQTFvNDJzNHRaWUlHaFBnaEdqVkE0SjA3cVgtTHNYUFB0aGtrX2czeDl6aHVIeWVBcnpJTjF3UkcyQ09FQV9zRXdabWJFN1hBT3R6a2ZVLU1ZNmdTQW9uQkxRVXRlVzhkUmlEanVOX2dibzVEU1I5S0RNUWk0ekVqdjU4clNJbEg3enlKdFltUnN0T0hXcVRRSV9NWjZ2dUdjS1JDYUE0UVczdmM3SlRtVDNtaERfa05JdDdxWmNmZElDcUh1aEo0SllYbmgyT3ZWUzd6UWpuYm54Und4UTJnWXJjOW5PWURHNXdDVFJVbHp2MjkxZlUtWkhQRWtOYUhqazhZdWhEWUljYUgyTmtMRlZ2RXV2aXlxeHBtZWFFcGhtTmZMTEI0cTJYaDI3M0Jmekx3NFhYNG9kOFQ1bnNONjJSaWI2WXVGYjlNb3VWc2dJcXVwd0J6dlltcUFVc044TUhKR2daMzdWVVRLanlGU21rNmhmSmdE",
+   "source": "KLSE Screener",
+   "published_at": "2026-10-13T23:58:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "KLSE Screener",
+     "published_at": "2026-10-13T23:58:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOQTFvNDJzNHRaWUlHaFBnaEdqVkE0SjA3cVgtTHNYUFB0aGtrX2czeDl6aHVIeWVBcnpJTjF3UkcyQ09FQV9zRXdabWJFN1hBT3R6a2ZVLU1ZNmdTQW9uQkxRVXRlVzhkUmlEanVOX2dibzVEU1I5S0RNUWk0ekVqdjU4clNJbEg3enlKdFltUnN0T0hXcVRRSV9NWjZ2dUdjS1JDYUE0UVczdmM3SlRtVDNtaERfa05JdDdxWmNmZElDcUh1aEo0SllYbmgyT3ZWUzd6UWpuYm54Und4UTJnWXJjOW5PWURHNXdDVFJVbHp2MjkxZlUtWkhQRWtOYUhqazhZdWhEWUljYUgyTmtMRlZ2RXV2aXlxeHBtZWFFcGhtTmZMTEI0cTJYaDI3M0Jmekx3NFhYNG9kOFQ1bnNONjJSaWI2WXVGYjlNb3VWc2dJcXVwd0J6dlltcUFVc044TUhKR2daMzdWVVRLanlGU21rNmhmSmdE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "b06e668e3b96",
+   "title": "Nvidia prepays for US chip-testing capacity in KYEC's $1.4B expansion - Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzdod0x5NW5TdnB6Tk5wRE9IR2tyYmt4NUxUVjFfLXZDSkhwY1VxUDh4dEpGdWJ4U0JEYWExSkNhNElRdFFYNmRnQjdTSFFLRE9rVEM1ZVk5TlE0ZVpQWHdjVVNmT3QybmlpS2VyMzJ6bGNMYjd4YXdWRC1kSlBaMTAwTVphYmYzMjlFTTNWMTNQbEI2cE1rWHlyMkhsNzB5RDFzRA",
+   "source": "Dealroom",
+   "published_at": "2026-10-13T23:55:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Dealroom",
+     "published_at": "2026-10-13T23:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzdod0x5NW5TdnB6Tk5wRE9IR2tyYmt4NUxUVjFfLXZDSkhwY1VxUDh4dEpGdWJ4U0JEYWExSkNhNElRdFFYNmRnQjdTSFFLRE9rVEM1ZVk5TlE0ZVpQWHdjVVNmT3QybmlpS2VyMzJ6bGNMYjd4YXdWRC1kSlBaMTAwTVphYmYzMjlFTTNWMTNQbEI2cE1rWHlyMkhsNzB5RDFzRA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
   {
    "id": "7e1da7a01524",
    "title": "一博科技10月13日回应英伟达概念话题：和英伟达业务合作情况正常_公司新闻 - 证券之星",
@@ -657,7 +691,7 @@
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNEZaT01td2ktdzUydXZmdnZKOXdJYklPQ1d1UHA5YVJ2b3V0Z3JUa2xONF80WnZ0QkVfaS05eDlGWFo0eGFOdUY4LVkwODRfODlDVVE5N09FQnpzTjhjeUJRR183Sk5BQ3ZtcTg4VWtjdnp0LVZkM3M3aHBPOG1QM2tYanR5NzlCMHc",
    "source": "Yahoo Finance UK",
    "published_at": "2026-10-13T17:53:32+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Yahoo Finance UK",
@@ -673,10 +707,16 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-13T17:53:32+00:00",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUkl6OTRZM0loQ2NLZ1VOS19ETmtnVGtDSW1UM201NVBnbllsS0tRY3ZjaDhXX3N5bkZZUFJSOVViSVkzbmVMeXdwcDMzaDVMS2ItdDFNYkExVmNVRHJYVFktdGNpUmRYY25wNmZTN2hXVV9nWTItdHpNUWE1eTd1Z256eXRfMng2R2U5QXNaZWxMbU9ybGpYNDFn"
+    },
+    {
+     "name": "France 24",
+     "published_at": "2026-10-13T17:59:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObTdfTkd0SEljWHI3cDJuRkVjdDZGUHVFM09Da0gxRzFNNmlQN0htaHp5eWRfckdYZHJjczBZUTdpWDA5cVhlWnJCanNMb25oclR4S25JOS1RWTY1d0tLR1Ezbjc4S0tJLUtVRzdXVDJuU2ZfWW51ZV9ObTM1ODJRUXBBdTVoczRzYUpYcUZmQXVkRUJzTUxWTkhR"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "英伟达将投资法国医疗网站",
    "title_zh": "英伟达宣布投资法国医疗网站",
    "sentiment": 1,
@@ -6665,46 +6705,6 @@
    "zh_summary": "微软Maia 300芯片解析及对英伟达的影响",
    "title_zh": "微软Maia 300芯片及其对英伟达意味着什么",
    "sentiment": -1
-  },
-  {
-   "id": "8ab5e2cbb5ca",
-   "title": "NVDA Stock Falls to $225 as Microsoft Chip and Talks to Invest in Reflection AI Raise Debt Fears - FXLeaders",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQi1kRFM2TlhPWllzeE9LeGdRNGF0V1VROGNqOEtCM2JraDB4N2xta1czaE1ZeE9MRzljZlpfaUdSTFdFV05vM0JodkZibGh1MktvcHBhdkR0VWRjZEVaeUN4QVFydzhVdFJmYmlsM3Vsb3RFS21qTHhvdmFDUGJYTEpuNVRFV1Eza0l5Qk9MVF82eEozb2N1dk02dGdSRVU5NElMd183SzNKQjlYSXF1amFXaWdyZWxQcXh1Y0xZVy1vdjlKUUxaNFNEdmhvcEw4TVRseA",
-   "source": "FXLeaders",
-   "published_at": "2026-10-12T17:02:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FXLeaders",
-     "published_at": "2026-10-12T17:02:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQi1kRFM2TlhPWllzeE9LeGdRNGF0V1VROGNqOEtCM2JraDB4N2xta1czaE1ZeE9MRzljZlpfaUdSTFdFV05vM0JodkZibGh1MktvcHBhdkR0VWRjZEVaeUN4QVFydzhVdFJmYmlsM3Vsb3RFS21qTHhvdmFDUGJYTEpuNVRFV1Eza0l5Qk9MVF82eEozb2N1dk02dGdSRVU5NElMd183SzNKQjlYSXF1amFXaWdyZWxQcXh1Y0xZVy1vdjlKUUxaNFNEdmhvcEw4TVRseA"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "NVDA股价跌至225美元，举债投资引发担忧",
-   "title_zh": "英伟达跌至225美元，举债收购Reflection AI引担忧",
-   "sentiment": -1
-  },
-  {
-   "id": "94e3fe3561cb",
-   "title": "Microsoft’s Maia 300 isn’t a Nvidia killer – it’s a power play - Fierce Network",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGRPcGxVUDBQMWRvWUFCU3EySUhyQWU2WUFtWnVUbzhhX0VnZ2swRzBRbHJlUTBhZ1dxbElJdi1TTzRWLWpOaHQwMnI5WkpGOFZuLTdTOFBsX0dsU2dlbUJfWE5oTkdtd0FOUzNzMkhNejhfVVlFWmVleG5DRzFoRTZjSnAyRnlQM0NwcTB5emNSeXhm",
-   "source": "Fierce Network",
-   "published_at": "2026-10-12T17:02:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Fierce Network",
-     "published_at": "2026-10-12T17:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGRPcGxVUDBQMWRvWUFCU3EySUhyQWU2WUFtWnVUbzhhX0VnZ2swRzBRbHJlUTBhZ1dxbElJdi1TTzRWLWpOaHQwMnI5WkpGOFZuLTdTOFBsX0dsU2dlbUJfWE5oTkdtd0FOUzNzMkhNejhfVVlFWmVleG5DRzFoRTZjSnAyRnlQM0NwcTB5emNSeXhm"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "微软Maia 300并非英伟达杀手",
-   "title_zh": "微软Maia 300不是英伟达杀手，而是一场权力博弈",
-   "sentiment": 0
   }
  ]
 }
