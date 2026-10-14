@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T01:21:39.264222+00:00",
+ "updated_at": "2026-10-14T01:36:30.776238+00:00",
  "market": {
-  "price": 226.32,
-  "change_pct": -1.29,
+  "price": 228.52,
+  "change_pct": 0.97,
   "as_of": "2026-10-13",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,32 +10,32 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": 0.32,
-   "count": 210
+   "avg": 0.33,
+   "count": 212
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": -1,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 83% 分位（偏高）"
+     "note": "现价处于52周区间 86% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +39.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +37.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.32（210条已评分）"
+     "note": "今日新闻情绪 +0.33（212条已评分）"
     },
     {
      "key": "动量",
-     "score": -1,
-     "note": "现价 $226.32 vs 20日均线 $227.50"
+     "score": 1,
+     "note": "现价 $228.52 vs 20日均线 $228.32"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 83,
+   "price_52w_pct": 86,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 39.2,
-   "ma20": 227.5,
-   "as_of": "2026-10-14T01:21:39.246493+00:00"
+   "implied_upside_pct": 37.8,
+   "ma20": 228.32,
+   "as_of": "2026-10-14T01:36:30.761552+00:00"
   },
-  "pe_ttm": 28.8,
-  "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.2%空间：估值偏低，预期乐观"
+  "pe_ttm": 29.0,
+  "pe_pct_5y": 27,
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "9e674c95b7c5",
+   "title": "性能再提30%！英伟达DLSS 5公布十月重大更新：显存占用直降20% - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HT2lnZmhFclNuYXQ3dlNscVBHcmhLRlJBUDdFNlZRT3hXUHFjWVBpQ0dKdnNWSndhVFBTVC10bTJhbERjOXNiWjczUkswV3hxTWdNQkdncUM",
+   "source": "驱动之家",
+   "published_at": "2026-10-14T01:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-14T01:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HT2lnZmhFclNuYXQ3dlNscVBHcmhLRlJBUDdFNlZRT3hXUHFjWVBpQ0dKdnNWSndhVFBTVC10bTJhbERjOXNiWjczUkswV3hxTWdNQkdncUM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "ada489c522fd",
    "title": "英伟达与京元电签订预付款协议 预留后者美国新厂测试产能 - 富途牛牛",
@@ -1240,13 +1257,18 @@
    "sentiment": -1
   },
   {
-   "id": "a6892ca4053d",
-   "title": "英伟达将宣布20亿美元欧洲AI新投资 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlI4MllzWHlqclF2U0t2VG83akhJR2x0ZGt2ekM3MEpEQkttZzRyNG5GamVkUzRNeDRGNXJEb2lLTjRaYmFGYWtJMDgyMzg2d0ZzZ2o2cjRUMVJScGFybnhJVFFsazFNV2c2S1k5c2ROY2lsTk1HZW5tVGI1a2EzTFFn",
-   "source": "新浪网",
-   "published_at": "2026-10-13T16:26:20+00:00",
-   "outlets_count": 2,
+   "id": "0207a12be413",
+   "title": "英伟达将宣布20亿美元欧洲AI新投资_7x24快讯_新浪财经 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zZ1REV2JoOHNxVkNIa2d5ZURwYTJCOU5iWkdfQUg3UVlET1h2TnBOS3VJSk4xdnJRdnY0UXgzdEhIMm9RVzFfR2hpTQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-13T16:19:30+00:00",
+   "outlets_count": 3,
    "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-13T16:19:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zZ1REV2JoOHNxVkNIa2d5ZURwYTJCOU5iWkdfQUg3UVlET1h2TnBOS3VJSk4xdnJRdnY0UXgzdEhIMm9RVzFfR2hpTQ"
+    },
     {
      "name": "新浪网",
      "published_at": "2026-10-13T16:26:20+00:00",
@@ -1262,7 +1284,11 @@
    "session": "盘中",
    "zh_summary": "英伟达将在欧洲投资20亿美元AI项目",
    "title_zh": "英伟达将宣布20亿美元欧洲AI新投资 - 新浪网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.35,
+    "window_h": 2.0
+   }
   },
   {
    "id": "d803a0d8732a",
@@ -1858,26 +1884,6 @@
    "sentiment": 1
   },
   {
-   "id": "94ddfa6da63f",
-   "title": "英伟达与微软携手开启Windows PC智能体新时代 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlNYbkhTcGpqd0o2d2xBdTBPNDJVVnlmXzZfWG1mbDhaN0pwVWs4dXpSQkY4cDVlU3NfcjhpMGZCZVdIMTFSMU1qYWpnUTVpXy1kdmxyTFVCNmVGZ0lXZVdJelM1bXFUZG9HTGNDM3dsaElJbzhsUEN2VlhjUnlxZlNVS2dPVU5P",
-   "source": "搜狐",
-   "published_at": "2026-10-13T14:29:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-13T14:29:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlNYbkhTcGpqd0o2d2xBdTBPNDJVVnlmXzZfWG1mbDhaN0pwVWs4dXpSQkY4cDVlU3NfcjhpMGZCZVdIMTFSMU1qYWpnUTVpXy1kdmxyTFVCNmVGZ0lXZVdJelM1bXFUZG9HTGNDM3dsaElJbzhsUEN2VlhjUnlxZlNVS2dPVU5P"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达与微软合作推动智能体PC",
-   "title_zh": "英伟达与微软携手开启Windows PC智能体新时代 - 搜狐",
-   "sentiment": 1
-  },
-  {
    "id": "052da4e760c8",
    "title": "Arista强化以太网方案 挑战英伟达AI扩展网络 - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRG5Gb0N0b002akZYWVFoMzBjMUVJUmJNUnNWSW5QRC1TODFHVm1KMVA4cWZFQlY0a25HSWhmZjRPU2xZUlF6TTZKdVlmMVhaUkdzRkVMOF9XTTVCc0ZBRXVnT0F4VkJvUU95M2VaZ3FlOHVnMmxlbXRCV0gwYTBuemdkNjBOeThV",
@@ -2236,6 +2242,31 @@
    "zh_summary": "SolarEdge展示800V AI电源技术",
    "title_zh": "SolarEdge在OCP全球峰会上展示面向英伟达AI工厂的800V电源技术",
    "sentiment": 0
+  },
+  {
+   "id": "9a0c2856df3a",
+   "title": "英伟达与微软携手开启Windows PC智能体新时代-AI基础设施 - 至顶网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hMUNSbUtnUXlhZmFUb3dpMXpBbXR5YjNidnB5LXNWVXlQaUtRVlF3UDZKWVFpcnhnRWc2YUtuTDJzUjh4dnpjcURvUnJJUUFLRW8wUElUOGlZckVQSHBTZ3hHOHRiS2N6cXNtdWlHRmpPQQ",
+   "source": "至顶网",
+   "published_at": "2026-10-13T13:18:04+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "至顶网",
+     "published_at": "2026-10-13T13:18:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hMUNSbUtnUXlhZmFUb3dpMXpBbXR5YjNidnB5LXNWVXlQaUtRVlF3UDZKWVFpcnhnRWc2YUtuTDJzUjh4dnpjcURvUnJJUUFLRW8wUElUOGlZckVQSHBTZ3hHOHRiS2N6cXNtdWlHRmpPQQ"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-13T14:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlNYbkhTcGpqd0o2d2xBdTBPNDJVVnlmXzZfWG1mbDhaN0pwVWs4dXpSQkY4cDVlU3NfcjhpMGZCZVdIMTFSMU1qYWpnUTVpXy1kdmxyTFVCNmVGZ0lXZVdJelM1bXFUZG9HTGNDM3dsaElJbzhsUEN2VlhjUnlxZlNVS2dPVU5P"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "英伟达与微软合作推动智能体PC",
+   "title_zh": "英伟达与微软携手开启Windows PC智能体新时代 - 搜狐",
+   "sentiment": 1
   },
   {
    "id": "9daaf48f2788",
@@ -6671,26 +6702,6 @@
    "zh_summary": "RTX 5080S或推迟至CES 2027",
    "title_zh": "AI吞噬内存产能，RTX 5080 Super 24GB或推迟至CES 2027",
    "sentiment": 0
-  },
-  {
-   "id": "f3bf26062229",
-   "title": "Amazon Eyes Massive $7 Billion Deal in Fresh Nvidia Challenge - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ3dLWWZWajA2akJUaWhOODZDVnRJYktuZG5rNlpKM081azBRVU1KTXowVG9ycWowNUl0UmdGNWx1M3VtbjdjQnRjLTg3d3RZdWhIUEEtMjVvYVlfenJ0SF9CbllVbW52S09wSDhna19fWnFMdTE0MmJ4UzJLU2R3b093UjVnLUszN0dUV0pPaVRHYWVET3BJdjd5RkQ5OWZ1cHNFUVBuNFpsTEd6VG41XzNNdU1xLUoydlAtag",
-   "source": "TradingView",
-   "published_at": "2026-10-12T18:38:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-12T18:38:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ3dLWWZWajA2akJUaWhOODZDVnRJYktuZG5rNlpKM081azBRVU1KTXowVG9ycWowNUl0UmdGNWx1M3VtbjdjQnRjLTg3d3RZdWhIUEEtMjVvYVlfenJ0SF9CbllVbW52S09wSDhna19fWnFMdTE0MmJ4UzJLU2R3b093UjVnLUszN0dUV0pPaVRHYWVET3BJdjd5RkQ5OWZ1cHNFUVBuNFpsTEd6VG41XzNNdU1xLUoydlAtag"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "亚马逊70亿美元布局挑战英伟达",
-   "title_zh": "亚马逊70亿美元大单挑战英伟达",
-   "sentiment": -1
   }
  ]
 }
