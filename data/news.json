@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T10:21:28.242538+00:00",
+ "updated_at": "2026-10-14T10:36:25.668299+00:00",
  "market": {
   "price": 228.52,
   "change_pct": 0.97,
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.74,
-   "count": 46
+   "avg": 0.73,
+   "count": 49
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.74（46条已评分）"
+     "note": "今日新闻情绪 +0.73（49条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 37.8,
    "ma20": 228.32,
-   "as_of": "2026-10-14T10:21:28.222616+00:00"
+   "as_of": "2026-10-14T10:36:25.655556+00:00"
   },
   "pe_ttm": 29.0,
   "pe_pct_5y": 27,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "fe302c284a20",
+   "title": "英伟达首席架构师、艾美奖得主，解读 AV2 与下一代视频交付 - TOM",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5veTlmaWM5TUZWU3VCX3FmekM3LTZKZ1VuOERIeXJBejBRWkYwdzkyR0hxR3pULXRaUEdpU3lURUVHN25jNnRVdDNpR2dtZ0pRLVlMMnF3",
+   "source": "TOM",
+   "published_at": "2026-10-14T10:23:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TOM",
+     "published_at": "2026-10-14T10:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5veTlmaWM5TUZWU3VCX3FmekM3LTZKZ1VuOERIeXJBejBRWkYwdzkyR0hxR3pULXRaUEdpU3lURUVHN25jNnRVdDNpR2dtZ0pRLVlMMnF3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "9d2e6027ff31",
    "title": "Mirantis integrates NVIDIA Run:ai with k0rdent AI - Engineering.com",
@@ -80,6 +97,40 @@
    "zh_summary": "Mirantis集成NVIDIA Run:ai",
    "title_zh": "Mirantis将NVIDIA Run:ai与k0rdent AI集成",
    "sentiment": 1
+  },
+  {
+   "id": "714931e0878d",
+   "title": "美国科技巨头英伟达投资Doctolib和三家法国人工智能初创公司 - RFI",
+   "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQMVpKem1NOFhkNTQ3NmJRZ2NaeUpiQ29iTUhVU3NCTWpRVkwwLXFzMF8tbzkxQVlyc21vR25WZXdjclE5ZnBoR2dQenlsMDdPX1RweTNRUGpIZ0xWcTFzVVlsLUxySlRNRy1qS054TTQ1dHlRc2NPc0NMbVhmcC1iOHpvZXhlMzZGT0tOZUFVSEhXRDZtdTk1S0hsRG9wQWdoeElpb2VGWXFFQm1RX0dfN1ZUd0pqSVhCRDA3WDUtNlBHRGJfNXQ3QTlfbFZoVy1IZC1zYzZncDNTaGRDTFVIZko2WnVJLVN5dU1TQy11bHR6Tm4zcmx2QUwzbExYRWRranJmYzI2RGhqdDhYVEZyWHlyRTFGYTlra1NvLXFLcEpkT3lvNXVYeFhMcjZGNWl2YkdHRmZ0XzZyRFliYUtXWG5CVHIyQlZ1b2o1VXpHMF9LRTNSTkttOVUyVklSM216SjhBb18yX1FTMVBpR29tX2hrQTQ5NTZoOFpTSzVaVVFMSmxfT2FsZzlB",
+   "source": "RFI",
+   "published_at": "2026-10-14T10:17:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "RFI",
+     "published_at": "2026-10-14T10:17:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQMVpKem1NOFhkNTQ3NmJRZ2NaeUpiQ29iTUhVU3NCTWpRVkwwLXFzMF8tbzkxQVlyc21vR25WZXdjclE5ZnBoR2dQenlsMDdPX1RweTNRUGpIZ0xWcTFzVVlsLUxySlRNRy1qS054TTQ1dHlRc2NPc0NMbVhmcC1iOHpvZXhlMzZGT0tOZUFVSEhXRDZtdTk1S0hsRG9wQWdoeElpb2VGWXFFQm1RX0dfN1ZUd0pqSVhCRDA3WDUtNlBHRGJfNXQ3QTlfbFZoVy1IZC1zYzZncDNTaGRDTFVIZko2WnVJLVN5dU1TQy11bHR6Tm4zcmx2QUwzbExYRWRranJmYzI2RGhqdDhYVEZyWHlyRTFGYTlra1NvLXFLcEpkT3lvNXVYeFhMcjZGNWl2YkdHRmZ0XzZyRFliYUtXWG5CVHIyQlZ1b2o1VXpHMF9LRTNSTkttOVUyVklSM216SjhBb18yX1FTMVBpR29tX2hrQTQ5NTZoOFpTSzVaVVFMSmxfT2FsZzlB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "68d4f9c42a1a",
+   "title": "Crypto markets predict Nvidia stock price for October 31, 2026 - Finbold",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcGxPWFRqSUpnRk5yQmJhOXE0WUVOUms5dndmcHk1eGFfem5EYTRmU3d4aTZuemhPbkpmMnNnckV1YlpWRllTTDVsaEN4cmZkX1lSbFdpV1ZyM3l2eHFZYTEtYWd3VlVNaEtmMEVqMk9iVWQySllFeVEyNy04Ti13UEwyZHJXemQ1blE",
+   "source": "Finbold",
+   "published_at": "2026-10-14T10:14:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Finbold",
+     "published_at": "2026-10-14T10:14:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcGxPWFRqSUpnRk5yQmJhOXE0WUVOUms5dndmcHk1eGFfem5EYTRmU3d4aTZuemhPbkpmMnNnckV1YlpWRllTTDVsaEN4cmZkX1lSbFdpV1ZyM3l2eHFZYTEtYWd3VlVNaEtmMEVqMk9iVWQySllFeVEyNy04Ti13UEwyZHJXemQ1blE"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
   },
   {
    "id": "a139201d3ef1",
@@ -2267,6 +2318,23 @@
    "zh_summary": "马克龙与黄仁勋探讨AI安全及开源智能体平台",
    "title_zh": "英伟达：马克龙与黄仁勋探讨了人工智能安全以及我方近期推出的开源智能体安全平台。 - 手机新浪网",
    "sentiment": 0
+  },
+  {
+   "id": "340b548cbb27",
+   "title": "英伟达“新王炸”！游戏“GPT时刻”或至 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WN2RMWmdjQ2NxQUxEelVjNWlLVzluYXFoU0NvQ0wxZUNXX2ptYU02ak1jVnJjZFRMc1NWcGItTlVkMHFzdWdNOGtMXy14NTJrMzQxY3BUaVloUVA3NExWbg",
+   "source": "东方财富",
+   "published_at": "2026-10-13T19:27:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-13T19:27:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WN2RMWmdjQ2NxQUxEelVjNWlLVzluYXFoU0NvQ0wxZUNXX2ptYU02ak1jVnJjZFRMc1NWcGItTlVkMHFzdWdNOGtMXy14NTJrMzQxY3BUaVloUVA3NExWbg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "9065fb9218ed",
@@ -6620,86 +6688,6 @@
    "session": "盘后",
    "zh_summary": "天阳科技采购2万张英伟达GPU",
    "title_zh": "天阳科技官宣，采购2万张英伟达GPU产品 - 东方财富",
-   "sentiment": 1
-  },
-  {
-   "id": "1232d792357f",
-   "title": "Enthusiast claims to push NVIDIA's Quadro RTX 4000 to 2,010MHz with a $5 liquid cooler - TweakTown",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMUN2WldjUktfTUNRSF9OeERReEVuMWx5by1XRXVuRHlKcjlQY05oeFZWR2RvOTgzVFM2YjlJZUgya2JiczlUOEZOR255Tjg3OUlJdDRPd0hDakcwbk83REZjdWVwYS1IY0tGenptOU1VNlNycmdGLVM5ZXp5bHBoLWVyREdKbUQ0RnhkQUdiSTBEWFppYmRwQjRsWHRsellRdU5ndHBCNVZQYXZlSHktSG5jbTMyNVhScGJ3WWhsakg0Z3JQZGpILWtqUHpoLUl3cC1BRUhR",
-   "source": "TweakTown",
-   "published_at": "2026-10-13T04:45:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TweakTown",
-     "published_at": "2026-10-13T04:45:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMUN2WldjUktfTUNRSF9OeERReEVuMWx5by1XRXVuRHlKcjlQY05oeFZWR2RvOTgzVFM2YjlJZUgya2JiczlUOEZOR255Tjg3OUlJdDRPd0hDakcwbk83REZjdWVwYS1IY0tGenptOU1VNlNycmdGLVM5ZXp5bHBoLWVyREdKbUQ0RnhkQUdiSTBEWFppYmRwQjRsWHRsellRdU5ndHBCNVZQYXZlSHktSG5jbTMyNVhScGJ3WWhsakg0Z3JQZGpILWtqUHpoLUl3cC1BRUhR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "玩家用5美元水冷将Quadro超频到2010MHz",
-   "title_zh": "发烧友用5美元液冷将Quadro RTX 4000超频至2010MHz",
-   "sentiment": 0
-  },
-  {
-   "id": "365fd7bcbef3",
-   "title": "Kazakhstan Can Build on Its Strengths, Advance Digital Entrepreneurs, Says NVIDIA’s VP - The Astana Times",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1E4UkJBcmQ1Skk3U1FObGFfTVM3TF9iYjRrU3RoWGdHeHRvS3BNbUMtM2NOdVdnQ0I1WkdBa3VET2xFMlV3cEJIN3pvYjR0SllBMDkzc2h5TnhaQVJoRXFGUm5vVnJDTVBrNnBHTXU5T2pYTDJNbGh0Y3hVWndmd1hycnlyWURFMmdRbTJiX3lJOTd6eXhVcmRaLVoycm55SnpPcnljMFlHRkE0TEYzWVF6YWU1N2s",
-   "source": "The Astana Times",
-   "published_at": "2026-10-13T04:38:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Astana Times",
-     "published_at": "2026-10-13T04:38:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1E4UkJBcmQ1Skk3U1FObGFfTVM3TF9iYjRrU3RoWGdHeHRvS3BNbUMtM2NOdVdnQ0I1WkdBa3VET2xFMlV3cEJIN3pvYjR0SllBMDkzc2h5TnhaQVJoRXFGUm5vVnJDTVBrNnBHTXU5T2pYTDJNbGh0Y3hVWndmd1hycnlyWURFMmdRbTJiX3lJOTd6eXhVcmRaLVoycm55SnpPcnljMFlHRkE0TEYzWVF6YWU1N2s"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达副总裁谈哈萨克斯坦数字创业",
-   "title_zh": "英伟达副总裁：哈萨克斯坦应发挥优势，推进数字创业",
-   "sentiment": 0
-  },
-  {
-   "id": "bb8904a8c3bd",
-   "title": "Nvidia China Share Drops to 34% as Huawei Hits 28% [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGtFX2k4d1dpUDUyUU9DMFpiNGZxeEpfdmtlemNLZjE0alpZS0MwX1RZOXFBaFhCdE5kTmllU1I4M044czNTbDBUeEVCTDA0bGIxSlZianBPNmgyZm9mdnZDY3dtRjNzLUs1M1RCQmRYQnlwSWMtMWFrWmd0eC1rQlo1ZWt6bmd3",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-13T04:36:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-13T04:36:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGtFX2k4d1dpUDUyUU9DMFpiNGZxeEpfdmtlemNLZjE0alpZS0MwX1RZOXFBaFhCdE5kTmllU1I4M044czNTbDBUeEVCTDA0bGIxSlZianBPNmgyZm9mdnZDY3dtRjNzLUs1M1RCQmRYQnlwSWMtMWFrWmd0eC1rQlo1ZWt6bmd3"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘后",
-   "zh_summary": "英伟达中国市场份额降至34%",
-   "title_zh": "英伟达中国市场份额降至34%，华为达28%",
-   "sentiment": -1
-  },
-  {
-   "id": "a120249accf5",
-   "title": "英伟达DLSS 5催化游戏“GPT时刻”！近一周10只概念股获融资客买入(名单) - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJWnJadnE4V25qNDZydlRpY1dnb1o0dFJCU3UzZjlTVzdoc0kyUk4yaEx4bFNDVHBhVDBCMHgtQUdWMVVsMWUxeWZISWNJU0VJN2gtVTdSLWREMy1pNTVCbw",
-   "source": "东方财富",
-   "published_at": "2026-10-13T04:32:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-13T04:32:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJWnJadnE4V25qNDZydlRpY1dnb1o0dFJCU3UzZjlTVzdoc0kyUk4yaEx4bFNDVHBhVDBCMHgtQUdWMVVsMWUxeWZISWNJU0VJN2gtVTdSLWREMy1pNTVCbw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "DLSS5催化游戏GPT时刻，10概念股获融资买入",
-   "title_zh": "英伟达DLSS 5催化游戏“GPT时刻”！近一周10只概念股获融资客买入(名单) - 东方财富",
    "sentiment": 1
   }
  ]
