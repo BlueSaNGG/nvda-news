@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T20:53:30.247507+00:00",
+ "updated_at": "2026-10-14T21:08:34.822702+00:00",
  "market": {
   "price": 221.3,
   "change_pct": -3.16,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.44,
-   "count": 160
+   "count": 165
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（160条已评分）"
+     "note": "今日新闻情绪 +0.44（165条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 42.3,
    "ma20": 228.69,
-   "as_of": "2026-10-14T20:53:30.233948+00:00"
+   "as_of": "2026-10-14T21:08:34.812672+00:00"
   },
   "pe_ttm": 28.1,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2b04d618c5a9",
+   "title": "Microsoft Just Unveiled a Brand-New AI Chip. Could It Be the \"Nvidia Killer\" Everyone's Been Looking For? - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzNibHkxcXpGVU1NNE5xVTlpU0NRWFo0R1JZdTRGRUR6MnFfTGx0aXl0ZFY5UGl4T2NPX3cxQWdNWTVvUTFaOGNFaGNLTkdBckoxR2xMUlQ0RHFVT0ttRGZROFlwY3ZCVlJ6aHA1TFpWc0pGNzFpV21SbC14RzlTdDhucWdCRkxBSDZrLWRR",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-14T21:03:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-14T21:03:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzNibHkxcXpGVU1NNE5xVTlpU0NRWFo0R1JZdTRGRUR6MnFfTGx0aXl0ZFY5UGl4T2NPX3cxQWdNWTVvUTFaOGNFaGNLTkdBckoxR2xMUlQ0RHFVT0ttRGZROFlwY3ZCVlJ6aHA1TFpWc0pGNzFpV21SbC14RzlTdDhucWdCRkxBSDZrLWRR"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
   {
    "id": "22b79258b197",
    "title": "NVIDIA's cuPotential Takes the CUDA Moat Down to the Atom in the AI-Defined Fab - The Futurum Group",
@@ -205,6 +222,23 @@
    "zh_summary": "英伟达两周前曾谈及生成式AI",
    "title_zh": "英伟达在ChatGPT前两周谈及生成式AI",
    "sentiment": 1
+  },
+  {
+   "id": "26e52bc09fff",
+   "title": "Nvidia's Jensen Huang responds to Pope Leo's AI safety criticism—'We all care about the same thing' - Fortune",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcE1vZ2xQLVlBMVh6RkFoMjF0bWMxZW9qMzNWYkdRU3gxUjhIRXMwcVVPRTBVM2Jpc0xWNVNLNVJQVnVHbHUybkV1akFVUWdtMEQ5SDFtaXRZVXZ6V19wbjZ3ejZ0RGxqVngzY0dOa09DaTJaVmdERFc5Nks0amNFZWUxU1pBM0tZdGx4dk1kMGE1YTVfTFJiSUVGSk1IaDN4c2N0RDNMeHByYi1iSzZEdlNERlBHYUJ1ZVAtRktPcjk0ZXAzaVE",
+   "source": "Fortune",
+   "published_at": "2026-10-14T19:21:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Fortune",
+     "published_at": "2026-10-14T19:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcE1vZ2xQLVlBMVh6RkFoMjF0bWMxZW9qMzNWYkdRU3gxUjhIRXMwcVVPRTBVM2Jpc0xWNVNLNVJQVnVHbHUybkV1akFVUWdtMEQ5SDFtaXRZVXZ6V19wbjZ3ejZ0RGxqVngzY0dOa09DaTJaVmdERFc5Nks0amNFZWUxU1pBM0tZdGx4dk1kMGE1YTVfTFJiSUVGSk1IaDN4c2N0RDNMeHByYi1iSzZEdlNERlBHYUJ1ZVAtRktPcjk0ZXAzaVE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "13d5b6ca98f3",
@@ -2630,9 +2664,9 @@
    "sentiment": -1
   },
   {
-   "id": "c14281e1fda0",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by Glenview Trust Co - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0",
+   "id": "be69121a87a8",
+   "title": "NVIDIA Corporation $NVDA Shares Newly Purchased by Maxele Advisors LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVhUUDhrdnJnYmM0czZaMXNuTXZYZHJXMGNTbmRjLWpEeUpoanNRbC1mcEtxRUdheEp3cDMxNENoUkJQamlRaWZ4Wmtac2tvMVRKSi1wMF9HOUd3dTFZdmp5ZGdySFNJdDN2VGpXT0RrOVlnLUpSUTdyZkY3UXgyMGVxandxR0NVakVtNzQyNWNyaURoVmRKM2toZVpmV2VUV3dYT3VxdF9hUUgxUEZLSnczM0RwcXFQVjQwbW1TdFVXWVhZb2NLQURR",
    "source": "MarketBeat",
    "published_at": "2026-10-14T08:09:42+00:00",
    "outlets_count": 1,
@@ -2640,14 +2674,11 @@
     {
      "name": "MarketBeat",
      "published_at": "2026-10-14T08:09:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0"
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVhUUDhrdnJnYmM0czZaMXNuTXZYZHJXMGNTbmRjLWpEeUpoanNRbC1mcEtxRUdheEp3cDMxNENoUkJQamlRaWZ4Wmtac2tvMVRKSi1wMF9HOUd3dTFZdmp5ZGdySFNJdDN2VGpXT0RrOVlnLUpSUTdyZkY3UXgyMGVxandxR0NVakVtNzQyNWNyaURoVmRKM2toZVpmV2VUV3dYT3VxdF9hUUgxUEZLSnczM0RwcXFQVjQwbW1TdFVXWVhZb2NLQURR"
     }
    ],
    "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Glenview Trust减持英伟达股份",
-   "title_zh": "Glenview Trust公司出售英伟达NVDA股票",
-   "sentiment": -1
+   "session": "盘前"
   },
   {
    "id": "329bba1f810b",
@@ -6634,46 +6665,6 @@
    "session": "盘中",
    "zh_summary": "英伟达称DLSS 5速度较9月翻倍",
    "title_zh": "英伟达称DLSS 5速度为9月时的两倍",
-   "sentiment": 1
-  },
-  {
-   "id": "6c3d1090d221",
-   "title": "Jensen Huang Reaffirmed His Forecast That AI Infrastructure Spending Will Hit $3 Trillion to $4 Trillion by 2030, a Projection He's Now Repeated for Several Years Running. Is Nvidia Still a Buy at These Levels? - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUsyN1E1LXRac0lIcHJ1cjMwOUlKOXh3U01ieXhHVVVzWjNWSUhUaGRLelhjVnNUV2k4elFwUTNqV3BRUnBhWkVjRE9yNHowYXBaWm5lUFdhZlcyeGpDYldNU3Q2aUhIUnBkVDVHQTA5cDJOZEdFUVFwZU5uQko4U2ttc3Z6U2J5bkhEZS1vcjVoU0ZYanBESQ",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-13T13:55:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-13T13:55:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUsyN1E1LXRac0lIcHJ1cjMwOUlKOXh3U01ieXhHVVVzWjNWSUhUaGRLelhjVnNUV2k4elFwUTNqV3BRUnBhWkVjRE9yNHowYXBaWm5lUFdhZlcyeGpDYldNU3Q2aUhIUnBkVDVHQTA5cDJOZEdFUVFwZU5uQko4U2ttc3Z6U2J5bkhEZS1vcjVoU0ZYanBESQ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘中",
-   "zh_summary": "黄仁勋重申2030年AI基建支出达3-4万亿美元",
-   "title_zh": "黄仁勋重申AI基建支出2030年达3-4万亿美元预测，英伟达还值得买吗",
-   "sentiment": 1
-  },
-  {
-   "id": "d566b9494f7a",
-   "title": "Nvidia boosts DLSS Frame Generation with new \"Preset C\" beta - OC3D",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2Mycy0ya3pROTRvMEVXWnl6SEkzQkpPdUhwZkRYUkYyM09wZWhtNmh2THpNRnAyam1QRDRfQ3lJUlpfb3MyZ0llNGxCdVlITXUwMHBZYnVHWkZpakZfXzI5VEFDRGpqWnBFX051UlU2amhCT2xoWFdXa2MyNExPVUZfWjR6SmI5dXFWRkJZdjdWeWRERjFOOElEZWpDUDJiYklB",
-   "source": "OC3D",
-   "published_at": "2026-10-13T13:53:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "OC3D",
-     "published_at": "2026-10-13T13:53:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2Mycy0ya3pROTRvMEVXWnl6SEkzQkpPdUhwZkRYUkYyM09wZWhtNmh2THpNRnAyam1QRDRfQ3lJUlpfb3MyZ0llNGxCdVlITXUwMHBZYnVHWkZpakZfXzI5VEFDRGpqWnBFX051UlU2amhCT2xoWFdXa2MyNExPVUZfWjR6SmI5dXFWRkJZdjdWeWRERjFOOElEZWpDUDJiYklB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达推出DLSS帧生成Preset C测试版",
-   "title_zh": "英伟达发布DLSS帧生成“Preset C”测试版",
    "sentiment": 1
   }
  ]
