@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T13:36:32.903556+00:00",
+ "updated_at": "2026-10-14T13:51:38.361745+00:00",
  "market": {
-  "price": 224.57,
-  "change_pct": -1.73,
+  "price": 225.82,
+  "change_pct": -1.18,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.66,
-   "count": 83
+   "avg": 0.63,
+   "count": 89
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": -1,
-     "note": "现价处于52周区间 80% 分位（偏高）"
+     "note": "现价处于52周区间 82% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +40.3%"
+     "note": "目标价中位数 $315（15家），隐含空间 +39.5%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.66（83条已评分）"
+     "note": "今日新闻情绪 +0.63（89条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $224.57 vs 20日均线 $228.87"
+     "note": "现价 $225.82 vs 20日均线 $228.92"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 80,
+   "price_52w_pct": 82,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 40.3,
-   "ma20": 228.87,
-   "as_of": "2026-10-14T13:36:32.893749+00:00"
+   "implied_upside_pct": 39.5,
+   "ma20": 228.92,
+   "as_of": "2026-10-14T13:51:38.347606+00:00"
   },
-  "pe_ttm": 28.5,
+  "pe_ttm": 28.7,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+40.3%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+39.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "ae8ff1214f35",
+   "title": "Nvidia (NVDA) Just Overtook the 20-Day Moving Average - Zacks Investment Research",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNVRTd3ZTMnpEWm4wNG5oaGZPX0FRQ2ZXYTNrN2UxbFBteUZJS3FXMWlyZ3B0NG5lbkR0Um1UbGR6LXFvbVVkSVBFOE42a0R3U0Z5ZWZXZUFoZDc0cFU1NTlFalBTUmpTdWtCQkpaV3R1T2t1LVZ5WWZ6djVGUEJPM0lFM1h4S2JVR0NhVWRRNThhZm9BUzFFRlFQTzhIX3lVRld4ZFZBdzZnbFhjd28wRlNzejFmVnU3TXk5bGQzYS1OQXFMMUtvYmtfd2c0Z2xacDlCRzJYS2NZY1k2MlBOQ0Nvb0JDMnZ5ZDk5eGxzN3dmRTJ1ZHZJODRCaw",
+   "source": "Zacks Investment Research",
+   "published_at": "2026-10-14T13:48:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Zacks Investment Research",
+     "published_at": "2026-10-14T13:48:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNVRTd3ZTMnpEWm4wNG5oaGZPX0FRQ2ZXYTNrN2UxbFBteUZJS3FXMWlyZ3B0NG5lbkR0Um1UbGR6LXFvbVVkSVBFOE42a0R3U0Z5ZWZXZUFoZDc0cFU1NTlFalBTUmpTdWtCQkpaV3R1T2t1LVZ5WWZ6djVGUEJPM0lFM1h4S2JVR0NhVWRRNThhZm9BUzFFRlFQTzhIX3lVRld4ZFZBdzZnbFhjd28wRlNzejFmVnU3TXk5bGQzYS1OQXFMMUtvYmtfd2c0Z2xacDlCRzJYS2NZY1k2MlBOQ0Nvb0JDMnZ5ZDk5eGxzN3dmRTJ1ZHZJODRCaw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "211911176fb6",
+   "title": "Trump and Nancy Pelosi’s Top AI Stock Pick: NVIDIA (NVDA) - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2dzUkJHbHQ3c1VVS0pwZXQ5dFpkLUJyQTRHM2UxMDZIWmlVY1lKb0dESkJyODh6YzVmUE1pd0NWRHpWX2Z2WGI1M0tPbTc5TkZpSFByMVpGaWpfSF9jVnY3dlQ3YjlmUEhYRFZ3WFlxTjRLenNvUHJDdFFPOW5JX2pVdEtqWHJEUVl2YjY0S1J1bnoy",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-14T13:33:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-14T13:33:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2dzUkJHbHQ3c1VVS0pwZXQ5dFpkLUJyQTRHM2UxMDZIWmlVY1lKb0dESkJyODh6YzVmUE1pd0NWRHpWX2Z2WGI1M0tPbTc5TkZpSFByMVpGaWpfSF9jVnY3dlQ3YjlmUEhYRFZ3WFlxTjRLenNvUHJDdFFPOW5JX2pVdEtqWHJEUVl2YjY0S1J1bnoy"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "2d8d6241fe52",
    "title": "Nvidia's Valuation Is Becoming Absurdly Cheap (NASDAQ:NVDA) - Seeking Alpha",
@@ -106,12 +140,12 @@
    "title": "Why NVIDIA is Backing Britain’s AI Safety With US$250m Push - AI Magazine",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVNhY2tXbDhoVmNKbHY0d21LdzNzVjcyRHMwU0V5STFveXQ4TDN3RVpNZkIxbXpWeWlxZDBBT2o0Q0VwbVBIOXd6RThNVWtBSG1oNmRaMW11UExlMkNIT3FMVk9VQjVUYU13VHpxSWlScU5nRF9NN01IcDBSdlRvVzlpc3d1UDc1WkVKdlVTcw",
    "source": "AI Magazine",
-   "published_at": "2026-10-14T13:28:58+00:00",
+   "published_at": "2026-10-14T13:28:54+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "AI Magazine",
-     "published_at": "2026-10-14T13:28:58+00:00",
+     "published_at": "2026-10-14T13:28:54+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVNhY2tXbDhoVmNKbHY0d21LdzNzVjcyRHMwU0V5STFveXQ4TDN3RVpNZkIxbXpWeWlxZDBBT2o0Q0VwbVBIOXd6RThNVWtBSG1oNmRaMW11UExlMkNIT3FMVk9VQjVUYU13VHpxSWlScU5nRF9NN01IcDBSdlRvVzlpc3d1UDc1WkVKdlVTcw"
     }
    ],
@@ -287,12 +321,17 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOThSbFQ5VzlRaE5JOEd3RUZ1Y1RuUzItVk53M0xrdi1wMU5ER25INE40SldLekNZQmdad0ZWd2tucUhkRDliRDNUd2piM2hsLTlIREZCOWdrM3JxR2p4Nl9CaEhZWU9ubG1jemE0OTVtVlVWUlpyWUFJWXVBSlJkODFUZ0dmZkw4N1MzeF9VTHAyX29CM1dKVTR6Q1ZCNThWZ040VmtGTHV4Zw",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-14T12:45:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-14T12:45:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOThSbFQ5VzlRaE5JOEd3RUZ1Y1RuUzItVk53M0xrdi1wMU5ER25INE40SldLekNZQmdad0ZWd2tucUhkRDliRDNUd2piM2hsLTlIREZCOWdrM3JxR2p4Nl9CaEhZWU9ubG1jemE0OTVtVlVWUlpyWUFJWXVBSlJkODFUZ0dmZkw4N1MzeF9VTHAyX29CM1dKVTR6Q1ZCNThWZ040VmtGTHV4Zw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-14T12:45:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeUlwNk0wbmk1UHQ3ZzlYbVJqS1hPaUVKQjg3cHN5RzBvaVNTTDVtZ2FEWnBUMnk2TmlGdWt5Vy1VWm9BZS1HSDMtUkZGX2pKaWJWazFsb1piUmVILURnTDkxeVpZN2Q1WWRMQ3RhellLRWNMUnJGTWkwM0RtNzNQZ0g5aTd1OV9VNWNuUVJtMllMTDFheFMzSzdMUHQ2eGdwWjZxWFFFZG9WVEtfU0E"
     }
    ],
    "category": "其他",
@@ -300,6 +339,23 @@
    "zh_summary": "英伟达积极扩大股票回购规模",
    "title_zh": "英伟达积极扩大回购规模，被视为积极信号",
    "sentiment": 1
+  },
+  {
+   "id": "d1c1c529ae7d",
+   "title": "Here are Wednesday's biggest analyst calls: SpaceX, Nvidia, Apple, Meta, Brinker, Kontoor Brands & more - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT2ZXLUFXdURqaHZfQ2pOTVVZLUIzMHh3SF9WeVl5SnBJZUUyQm93RmszTDh3T1kzdWxKZXI4NTl5dzdxRFhWVDVENk1NYUppdDJmb3lnT1VRck9tOHRZUGpNUWR3NE1nYnI4UC1fdXRlUlU0X05Oa3c2Nk1QQU0yWUIzODZLaVVJRWpKRjFrRDRpTmxRY2c",
+   "source": "CNBC",
+   "published_at": "2026-10-14T12:09:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-14T12:09:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT2ZXLUFXdURqaHZfQ2pOTVVZLUIzMHh3SF9WeVl5SnBJZUUyQm93RmszTDh3T1kzdWxKZXI4NTl5dzdxRFhWVDVENk1NYUppdDJmb3lnT1VRck9tOHRZUGpNUWR3NE1nYnI4UC1fdXRlUlU0X05Oa3c2Nk1QQU0yWUIzODZLaVVJRWpKRjFrRDRpTmxRY2c"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "f8136bb4bcad",
@@ -1058,6 +1114,23 @@
    "zh_summary": "Liontrust买入4.6万股英伟达",
    "title_zh": "Liontrust建仓4.6万股英伟达",
    "sentiment": 1
+  },
+  {
+   "id": "c14281e1fda0",
+   "title": "NVIDIA Corporation $NVDA Shares Sold by Glenview Trust Co - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0",
+   "source": "MarketBeat",
+   "published_at": "2026-10-14T08:09:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-14T08:09:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "329bba1f810b",
@@ -6605,96 +6678,6 @@
    "zh_summary": "英伟达开源CAD内核SMLib软件",
    "title_zh": "英伟达将CAD内核SMLib作为开源软件发布，采用Apache 2.0许可证",
    "sentiment": 0
-  },
-  {
-   "id": "0f69a656f0f8",
-   "title": "网传英伟达减单？这家A股公司最新回应 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43ZG1zNHFHYkw5SEFFTDVCSTdLRTh1dDZNMGRranVGWXQxR0dsdERmbDJTXzI4dVVETXlYMFpmTTNuS05ScFVkR25jZ1J5cmVHdmc",
-   "source": "搜狐网",
-   "published_at": "2026-10-13T08:34:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-13T08:34:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43ZG1zNHFHYkw5SEFFTDVCSTdLRTh1dDZNMGRranVGWXQxR0dsdERmbDJTXzI4dVVETXlYMFpmTTNuS05ScFVkR25jZ1J5cmVHdmc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "网传英伟达减单，A股公司回应",
-   "title_zh": "网传英伟达减单？这家A股公司最新回应 - 搜狐网",
-   "sentiment": 0
-  },
-  {
-   "id": "acf1f06a1690",
-   "title": "曝英伟达或停产RTX 5090，GB202芯片专供专业卡 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPblRSVzVzLXVET0FKX2tydFBnQ2d5cVZkS1V2QWtxNWZIa2JOXy1mRVE4a0Fidi1laXJUR1BVQXUybDJDQVREeE1Ea1VTNmNXME1fUEhIYUdPQkliVElLUEp0YkdpcXFUSGlwejJqRWptYmpvaE5LN1k1R292MDNqdndFNnpib2tOd2g4UA",
-   "source": "搜狐",
-   "published_at": "2026-10-13T08:32:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-13T08:32:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPblRSVzVzLXVET0FKX2tydFBnQ2d5cVZkS1V2QWtxNWZIa2JOXy1mRVE4a0Fidi1laXJUR1BVQXUybDJDQVREeE1Ea1VTNmNXME1fUEhIYUdPQkliVElLUEp0YkdpcXFUSGlwejJqRWptYmpvaE5LN1k1R292MDNqdndFNnpib2tOd2g4UA"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "传英伟达停产RTX 5090，芯片专供专业卡",
-   "title_zh": "曝英伟达或停产RTX 5090，GB202芯片专供专业卡",
-   "sentiment": 0
-  },
-  {
-   "id": "104852bd2d3e",
-   "title": "华硕发布NVIDIA MGX服务器XA P2N-E2，支持RTX PRO 6000 Blackwell双卡 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9na2lXdF83ZTJNM3hTOER3T1Q5dm0wVU1jX0tFSVEtSG5nMWwxYmh4elJYYmdaaFhIc3R3cUNWdHo0UjltV05YSGlTUVA",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-13T08:28:48+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-13T08:28:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9na2lXdF83ZTJNM3hTOER3T1Q5dm0wVU1jX0tFSVEtSG5nMWwxYmh4elJYYmdaaFhIc3R3cUNWdHo0UjltV05YSGlTUVA"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-13T15:28:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00WEktN0c5LW0tbnhqVFRrSVUyNTBpQmNpOGV0bkJERlVpbEd3V3hUMk0wOVI4cDdtdC00NkQ5Q2RLdTVQVmRyd2RWaUQ1S0xFNEMwWms0QkU1M2xvQ1J0ckpXcnlKVzhSVUJNYUM1T3g2YndvcGtFUlVzMV9FSEk"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "华硕发布支持RTX PRO 6000双卡的服务器",
-   "title_zh": "华硕发布NVIDIA MGX服务器XA P2N-E2，支持RTX PRO 6000 Blackwell双卡 - 凤凰网科技",
-   "sentiment": 1
-  },
-  {
-   "id": "ce806a857eca",
-   "title": "英伟达韩国负责人：英伟达平台是实现Physical AI的核心技术_7x24快讯_新浪财经 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ubFB0WlpxQ1ZTeFhmVkhMOTY1SUsxeWF0Rm90STA5cDJpZmViS3FHVHBsY0NDdDhadzFBeGp3MF9keklxd3g5Mk14YWttODQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-13T08:27:07+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-13T08:27:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ubFB0WlpxQ1ZTeFhmVkhMOTY1SUsxeWF0Rm90STA5cDJpZmViS3FHVHBsY0NDdDhadzFBeGp3MF9keklxd3g5Mk14YWttODQ"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-13T08:47:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYXpEZm5IVHBMYldBVDhIYWw1d21td0pURUFNejN2cGZNakV6QzFOamFLcDJlUkc3d3E5Z0ZEOGhUMVV4dlowOVhuOEh2aWVEOGlaeFd5UkczSWV2aTFSSmFaNExKb1ZPVDN5Sm9wSnBETXdLcmZ1OC1GOWNKV2lua2tR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达韩负责人：平台是实体AI核心",
-   "title_zh": "英伟达韩国负责人：英伟达平台是实体AI核心技术",
-   "sentiment": 1
   }
  ]
 }
