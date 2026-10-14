@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T14:22:19.292903+00:00",
+ "updated_at": "2026-10-14T14:37:56.591002+00:00",
  "market": {
-  "price": 224.46,
-  "change_pct": -1.77,
+  "price": 223.49,
+  "change_pct": -2.2,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,32 +10,32 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.64,
-   "count": 97
+   "avg": 0.63,
+   "count": 99
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
-     "score": -1,
-     "note": "现价处于52周区间 80% 分位（偏高）"
+     "score": 0,
+     "note": "现价处于52周区间 79% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +40.3%"
+     "note": "目标价中位数 $315（15家），隐含空间 +40.9%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.64（97条已评分）"
+     "note": "今日新闻情绪 +0.63（99条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $224.46 vs 20日均线 $228.85"
+     "note": "现价 $223.49 vs 20日均线 $228.80"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 80,
+   "price_52w_pct": 79,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 40.3,
-   "ma20": 228.85,
-   "as_of": "2026-10-14T14:22:19.284050+00:00"
+   "implied_upside_pct": 40.9,
+   "ma20": 228.8,
+   "as_of": "2026-10-14T14:37:56.577759+00:00"
   },
-  "pe_ttm": 28.5,
+  "pe_ttm": 28.4,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+40.3%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+40.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "24f01680b3e7",
+   "title": "Not Nvidia. Not Micron. This Under-the-Radar Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner in 2027. - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzZ2NU5fcG1WbFdrOFpUMF9NWFRibEhqclowaW1QVk1rMGFaZFhnRmt2WmVvdi1WMnNlRXpsamdSSmNDWng0S2x2cXplZE5aZWFQZG5mLUN4MzNVYXlWMzBHQ0dYREd0LVRIOGowM1YtYTUwWjhpUDExdDk1Xy1wY1lsa1E5STJva19iaFdpWkpiaDVuYWRNOA",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-14T14:34:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-14T14:34:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObzZ2NU5fcG1WbFdrOFpUMF9NWFRibEhqclowaW1QVk1rMGFaZFhnRmt2WmVvdi1WMnNlRXpsamdSSmNDWng0S2x2cXplZE5aZWFQZG5mLUN4MzNVYXlWMzBHQ0dYREd0LVRIOGowM1YtYTUwWjhpUDExdDk1Xy1wY1lsa1E5STJva19iaFdpWkpiaDVuYWRNOA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "cac22b2a9ad9",
+   "title": "Nvidia Commits US$1B to American Science Push in Tech Energy & Healthcare - Streetwise Reports",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDA2dl9xWlBxaFZCYTZ5X29nMXpFR2ZibnNNdWpDRF9yY0dtWGhfWmwwdE0tdXNQcXJKTVFBa3ZocHV6QUFXcFBwRUpKcS1UeGV4WVdvQm1icmVUTWNINng3amZQTFl3VWFlOGRtWF9aS1RCS2kxWEtRNko2TG9ubk5vV3JZcVFPOG4xRXp5YzJKU2dQWGdncTk5cjBKRF9HTzdXRnl2b25UcjQydk1UVFUzZzJwckF4bnJFRm1oR0JEQXlhd1FzQ2hhSkhBUQ",
+   "source": "Streetwise Reports",
+   "published_at": "2026-10-14T14:24:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Streetwise Reports",
+     "published_at": "2026-10-14T14:24:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDA2dl9xWlBxaFZCYTZ5X29nMXpFR2ZibnNNdWpDRF9yY0dtWGhfWmwwdE0tdXNQcXJKTVFBa3ZocHV6QUFXcFBwRUpKcS1UeGV4WVdvQm1icmVUTWNINng3amZQTFl3VWFlOGRtWF9aS1RCS2kxWEtRNko2TG9ubk5vV3JZcVFPOG4xRXp5YzJKU2dQWGdncTk5cjBKRF9HTzdXRnl2b25UcjQydk1UVFUzZzJwckF4bnJFRm1oR0JEQXlhd1FzQ2hhSkhBUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "6930df13c474",
+   "title": "Can Navitas Semiconductor (NVTS) Turn NVIDIA-Aligned 800V AI Power Designs Into Durable Competitive Advantage? - Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzBvT2pWVnphMkxZaHp3M2l5TC1FX014Q19GSXRtb0NFQ0RXdWpEVWxKSlhzU3NxdElkLVZPUVk1UTJiT19fOUlsQnlodHlEZjIweXdlRkxPdVNzUElMUFVHQ0p0Q2NISjdNN1NNMmszQ1I3QXRZdWR0a2ptMThieTJVekVReUJBVG5nN2hUa3k",
+   "source": "Yahoo Finance Singapore",
+   "published_at": "2026-10-14T14:20:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance Singapore",
+     "published_at": "2026-10-14T14:20:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzBvT2pWVnphMkxZaHp3M2l5TC1FX014Q19GSXRtb0NFQ0RXdWpEVWxKSlhzU3NxdElkLVZPUVk1UTJiT19fOUlsQnlodHlEZjIweXdlRkxPdVNzUElMUFVHQ0p0Q2NISjdNN1NNMmszQ1I3QXRZdWR0a2ptMThieTJVekVReUJBVG5nN2hUa3k"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "2a8d00f5a4a6",
    "title": "AMD Challenges Nvidia in AI Inference, SemiAnalysis Finds - Advanced Micro Devices (NASDAQ:AMD) - Benzinga",
@@ -3054,6 +3105,23 @@
    "sentiment": -1
   },
   {
+   "id": "af19f6e5461a",
+   "title": "Cisco and Nvidia develop new pluggable optic module for AI data centers - Fierce Network",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3V1MHdCZnZjQXRZR3FlT0NEeEFobGgxQ1c5V3F2U3BLeHduMmVURkpUTkh3Z2psT1RrU2s0MnotU1QyZlNFWW9GdVFKOUFOdVFBUEd3SEN2ZFJXRDB2X3I1dllHQUtYdTRuVEowcUZmRHYyaWR1UVdwT0VRRVJUc1oyX09wcmRaaWNGdXVxM0lUZzRzaXg4UER1cjBDVWlQeHg4ellGbWdVem9n",
+   "source": "Fierce Network",
+   "published_at": "2026-10-13T23:11:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Fierce Network",
+     "published_at": "2026-10-13T23:11:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3V1MHdCZnZjQXRZR3FlT0NEeEFobGgxQ1c5V3F2U3BLeHduMmVURkpUTkh3Z2psT1RrU2s0MnotU1QyZlNFWW9GdVFKOUFOdVFBUEd3SEN2ZFJXRDB2X3I1dllHQUtYdTRuVEowcUZmRHYyaWR1UVdwT0VRRVJUc1oyX09wcmRaaWNGdXVxM0lUZzRzaXg4UER1cjBDVWlQeHg4ellGbWdVem9n"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
+  {
    "id": "7e1da7a01524",
    "title": "一博科技10月13日回应英伟达概念话题：和英伟达业务合作情况正常_公司新闻 - 证券之星",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yTWdxcjhDdnAyWmNuSVVOXzhBM1NlVmxvaVJKLVVRQUhkTGRtN2dib3A3RXg2cGFzNW9RWW5mOFBsUGg1dkJZQk9VOXJBM054QndKdExUSklBdEpZT0JfSDh3",
@@ -3731,6 +3799,23 @@
    "zh_summary": "微软制定摆脱英伟达依赖的计划",
    "title_zh": "微软的英伟达逃离计划",
    "sentiment": -1
+  },
+  {
+   "id": "a7a05a614415",
+   "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip - Axios",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ",
+   "source": "Axios",
+   "published_at": "2026-10-13T18:04:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Axios",
+     "published_at": "2026-10-13T18:04:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "2b30feeb190f",
@@ -6590,106 +6675,6 @@
    "zh_summary": "传英伟达中国AI芯片份额下滑",
    "title_zh": "市场传闻：英伟达在中国AI芯片市场份额下滑 - 富途牛牛",
    "sentiment": -1
-  },
-  {
-   "id": "8348eab4bdc4",
-   "title": "网传英伟达减单？景旺电子最新回应：公司在手订单饱满 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWFWM3JpanpHMlByVmZ1TmwycElpeTVYRlVTMjFzVHFPRE1BZmk0S2pOQVhuZTlzOC01d3l5TnJ2eTZwQkZHT3FnQkVKbURxVkRKSEJlRFByNWhfcElpcU5BWVh5UVZJZ1JqbmNWRFJvTmktZnZRanZobmZzbGJ1NV9WbGhkSXBsVFFYMg",
-   "source": "搜狐",
-   "published_at": "2026-10-13T09:49:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-13T09:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWFWM3JpanpHMlByVmZ1TmwycElpeTVYRlVTMjFzVHFPRE1BZmk0S2pOQVhuZTlzOC01d3l5TnJ2eTZwQkZHT3FnQkVKbURxVkRKSEJlRFByNWhfcElpcU5BWVh5UVZJZ1JqbmNWRFJvTmktZnZRanZobmZzbGJ1NV9WbGhkSXBsVFFYMg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "景旺电子回应在手订单饱满",
-   "title_zh": "网传英伟达减单？景旺电子最新回应：公司在手订单饱满 - 搜狐",
-   "sentiment": 1
-  },
-  {
-   "id": "a32c309505a7",
-   "title": "英伟达要收购模型公司？BiyaPay行情观察：AI芯片龙头为何跨界？ - TOM科技",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XY3RORU9NZHlDajRLb1RLMGw5bGgyY1BiMkVaZlhQWnhZQTRscmtKUnByMjI3REhrZEk0ajRYN2NycjJxZ05HT3IyVHM5QXp3cEdEU2t3",
-   "source": "TOM科技",
-   "published_at": "2026-10-13T09:47:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TOM科技",
-     "published_at": "2026-10-13T09:47:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XY3RORU9NZHlDajRLb1RLMGw5bGgyY1BiMkVaZlhQWnhZQTRscmtKUnByMjI3REhrZEk0ajRYN2NycjJxZ05HT3IyVHM5QXp3cEdEU2t3"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "传英伟达有意收购模型公司",
-   "title_zh": "英伟达要收购模型公司？BiyaPay行情观察：AI芯片龙头为何跨界？ - TOM科技",
-   "sentiment": 0
-  },
-  {
-   "id": "3a68fada95eb",
-   "title": "景旺电子回应网传英伟达减单：订单饱满产能利用率较高 - 观点网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kdDVYTkhCX2lhcjA1UHFkbm5IdlJFQVBLTkw4UUpkTDNiQ2NVY196RkRUSzRpRWVDZWpHS1QzN1YyNVJHYWNTUXNaQ2pwLXBXTW8xX1FKTEdmX2Q4Z0FwUHRB",
-   "source": "观点网",
-   "published_at": "2026-10-13T09:39:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "观点网",
-     "published_at": "2026-10-13T09:39:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kdDVYTkhCX2lhcjA1UHFkbm5IdlJFQVBLTkw4UUpkTDNiQ2NVY196RkRUSzRpRWVDZWpHS1QzN1YyNVJHYWNTUXNaQ2pwLXBXTW8xX1FKTEdmX2Q4Z0FwUHRB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "景旺电子否认英伟达减单，订单饱满",
-   "title_zh": "景旺电子回应网传英伟达减单：订单饱满产能利用率较高 - 观点网",
-   "sentiment": 1
-  },
-  {
-   "id": "9ad87e4e5446",
-   "title": "【AI大模型新动向】 英伟达拟投资/收购美版DeepSeek Reflection AI，旗下5010亿参数开放权重模... - 雪球",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50RmZUejNEb3dYNEotdWtUaTM4VVBWZWRzZVJOUUNZSEtldTdjT08xS2M5ZTU4elFsM3U4WVRGVUEwaE82TVhJMkRNM3VBS092aWtXNUdR",
-   "source": "雪球",
-   "published_at": "2026-10-13T09:16:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "雪球",
-     "published_at": "2026-10-13T09:16:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50RmZUejNEb3dYNEotdWtUaTM4VVBWZWRzZVJOUUNZSEtldTdjT08xS2M5ZTU4elFsM3U4WVRGVUEwaE82TVhJMkRNM3VBS092aWtXNUdR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达拟投资Reflection AI",
-   "title_zh": "【AI大模型新动向】 英伟达拟投资/收购美版DeepSeek Reflection AI，旗下5010亿参数开放权重模... - 雪球",
-   "sentiment": 1
-  },
-  {
-   "id": "5ca53139023a",
-   "title": "英伟达思科联合发布USFP可插拔光模块规格：400G/lane、12.8T容量 - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81UFhjcUZaRm53dDJaZVFhaUFPSTZyMW10dG5lWExfN3R0WC1DMlV0b0NmMmgzcXEySUMzcXNtOE1wbEdaWU9PdUsyWnM3MU1KUFRhN1YyNG9ndTFW",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-13T09:09:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-13T09:09:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81UFhjcUZaRm53dDJaZVFhaUFPSTZyMW10dG5lWExfN3R0WC1DMlV0b0NmMmgzcXEySUMzcXNtOE1wbEdaWU9PdUsyWnM3MU1KUFRhN1YyNG9ndTFW"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达思科联合发布光模块规格",
-   "title_zh": "英伟达思科联合发布USFP可插拔光模块规格：400G/lane、12.8T容量",
-   "sentiment": 1
   }
  ]
 }
