@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T16:21:45.276406+00:00",
+ "updated_at": "2026-10-14T16:36:34.930459+00:00",
  "market": {
-  "price": 221.92,
-  "change_pct": -2.89,
+  "price": 221.72,
+  "change_pct": -2.98,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.53,
-   "count": 119
+   "count": 125
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 77% 分位"
+     "note": "现价处于52周区间 76% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +41.9%"
+     "note": "目标价中位数 $315（15家），隐含空间 +42.1%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.53（119条已评分）"
+     "note": "今日新闻情绪 +0.53（125条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $221.92 vs 20日均线 $228.72"
+     "note": "现价 $221.72 vs 20日均线 $228.71"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 77,
+   "price_52w_pct": 76,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 41.9,
-   "ma20": 228.72,
-   "as_of": "2026-10-14T16:21:45.261888+00:00"
+   "implied_upside_pct": 42.1,
+   "ma20": 228.71,
+   "as_of": "2026-10-14T16:36:34.913360+00:00"
   },
   "pe_ttm": 28.2,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+41.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,108 @@
   }
  },
  "stories": [
+  {
+   "id": "ef1c16a78f7b",
+   "title": "英伟达日内跌幅达3% - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QYmxEZFY4TDRjNWtxN0ljcDdSRVdtanBFVkRud3Foa0pFMGEzNG4xdm1UMXlvVmRTOXlYblkwOEhlNmswUG0tcE96ei1Bdk5VUXRqYnF5LVR3OVJUMklNb3kxWQ",
+   "source": "东方财富",
+   "published_at": "2026-10-14T16:35:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-14T16:35:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QYmxEZFY4TDRjNWtxN0ljcDdSRVdtanBFVkRud3Foa0pFMGEzNG4xdm1UMXlvVmRTOXlYblkwOEhlNmswUG0tcE96ei1Bdk5VUXRqYnF5LVR3OVJUMklNb3kxWQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "b9da61d9faef",
+   "title": "Nvidia Stock NVDA Falls Toward $220 as Data-Center Debt Weigh on Sentiment - FXLeaders",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZBQkJZNXBRblJDUV93a1Rlbld0MWdnNU9GMGkyd3dUWHBhVzVMUTUzYVpvZEZ4cjdZRkZGRW9PaTVqTmpmcDFyZGxCYmxmNFlWOHIzYXNxWHNnMng2cVIzWTNPVk56T1JtY0tKODdaV3dwN0FhYTdFbnB1cnJuOFN5dTUtbVBONUltOGZhOXl5VVJuZVVxRnF4UXJkRGR5MzNmeU1QcjF1LWJGRThQX0VValYyUVE",
+   "source": "FXLeaders",
+   "published_at": "2026-10-14T16:31:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FXLeaders",
+     "published_at": "2026-10-14T16:31:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZBQkJZNXBRblJDUV93a1Rlbld0MWdnNU9GMGkyd3dUWHBhVzVMUTUzYVpvZEZ4cjdZRkZGRW9PaTVqTmpmcDFyZGxCYmxmNFlWOHIzYXNxWHNnMng2cVIzWTNPVk56T1JtY0tKODdaV3dwN0FhYTdFbnB1cnJuOFN5dTUtbVBONUltOGZhOXl5VVJuZVVxRnF4UXJkRGR5MzNmeU1QcjF1LWJGRThQX0VValYyUVE"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "7dfb6ccb7b1f",
+   "title": "Nvidia launches cuPotential library for chip manufacturing - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZllaQmUyTDNWbm5hU052YkZyT3hOY01PWm1VVWdKQVdYUG8xbjR2TGJfRUhVVWRSem5xSGRRWlhDa2FyckROTGUzeVVQUDlSUzh1dFZEbFNhRFdKREVKeXp5c1VoQnB0N1FTOVNicjFRbmIxcVBTMHhKRGhJcWg2ZEFDdGlhenBfTXBGemtaeExnTHh0UTFzU0Judlg3QTN4d0ZybkxiLW5HNXNXaXpyOXV6ellWZw",
+   "source": "Investing.com",
+   "published_at": "2026-10-14T16:25:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-14T16:25:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZllaQmUyTDNWbm5hU052YkZyT3hOY01PWm1VVWdKQVdYUG8xbjR2TGJfRUhVVWRSem5xSGRRWlhDa2FyckROTGUzeVVQUDlSUzh1dFZEbFNhRFdKREVKeXp5c1VoQnB0N1FTOVNicjFRbmIxcVBTMHhKRGhJcWg2ZEFDdGlhenBfTXBGemtaeExnTHh0UTFzU0Judlg3QTN4d0ZybkxiLW5HNXNXaXpyOXV6ellWZw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "7ff4b026548f",
+   "title": "Nvidia unveils AI tools to accelerate chipmaking - Breakingthenews.net",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFc2Tm5PSnVEdFZpNkpXYWNHWDlPWEZsaDEtRmtyQXFKMkFoR2VzZWRXam1vT1RJSEdGb0VSWFctUldyckdxYnUxbkNHaVZCRE5GVmoxOWNoTlJqdmFzTHNDYlpmSFhGdHowOXRtdUJPaHF2Q2dRV181MkowcGdaUXRtcGI0SFBHLW12VERkVFJ1LTVKNk1RMw",
+   "source": "Breakingthenews.net",
+   "published_at": "2026-10-14T16:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Breakingthenews.net",
+     "published_at": "2026-10-14T16:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFc2Tm5PSnVEdFZpNkpXYWNHWDlPWEZsaDEtRmtyQXFKMkFoR2VzZWRXam1vT1RJSEdGb0VSWFctUldyckdxYnUxbkNHaVZCRE5GVmoxOWNoTlJqdmFzTHNDYlpmSFhGdHowOXRtdUJPaHF2Q2dRV181MkowcGdaUXRtcGI0SFBHLW12VERkVFJ1LTVKNk1RMw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "fd811723ef8f",
+   "title": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for AI-Defined Fabs - NVIDIA Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0JQSW1rVk16Vk96aEt1QzRJeHNUNXZfclVRVlBFdmhhQ09HS2N3YUlfRnRTejgtdGkwc040QWdHbXkyVXFJcW1uaTdZdV9EMUo0ZDN6cnFiOWxneTlidVpIYmljSHJkTVJaNmhUTDRwb2czQXNtN00taFQ5MkhBZVlITUN6QTBYcUVrdV8tQXFtcDJ2d2EwRjVONU1VdGRCNUhRRnBUbUp1UFRfMmNqaWFJMVdRVXRLa2UzTF9yVmhnM0VadXk3TzRSTjJMZGJn",
+   "source": "NVIDIA Newsroom",
+   "published_at": "2026-10-14T16:18:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Newsroom",
+     "published_at": "2026-10-14T16:18:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0JQSW1rVk16Vk96aEt1QzRJeHNUNXZfclVRVlBFdmhhQ09HS2N3YUlfRnRTejgtdGkwc040QWdHbXkyVXFJcW1uaTdZdV9EMUo0ZDN6cnFiOWxneTlidVpIYmljSHJkTVJaNmhUTDRwb2czQXNtN00taFQ5MkhBZVlITUN6QTBYcUVrdV8tQXFtcDJ2d2EwRjVONU1VdGRCNUhRRnBUbUp1UFRfMmNqaWFJMVdRVXRLa2UzTF9yVmhnM0VadXk3TzRSTjJMZGJn"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "3f9bea8cde92",
+   "title": "ChipAgents与英伟达(NVDA.O)合作推出Build-a-Chip-Bench 用于自主芯片设计与实现 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OZzkzOGUzQWc2cTdsRTI0ZnVwTUpMWGFUandmcG53R1B5TndGNDBIZTZDYzNHdUE4VnVGTGtKX181ZmZfUEFoRXh1VzNvU2cweGVYbF9rM0VhcVVvRHB2WQ",
+   "source": "东方财富",
+   "published_at": "2026-10-14T16:18:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-14T16:18:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OZzkzOGUzQWc2cTdsRTI0ZnVwTUpMWGFUandmcG53R1B5TndGNDBIZTZDYzNHdUE4VnVGTGtKX181ZmZfUEFoRXh1VzNvU2cweGVYbF9rM0VhcVVvRHB2WQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "4cde5c7b3d4b",
    "title": "Is Nvidia Still the Best AI Stock to Buy in 2026, or Is This Challenger? - The Motley Fool",
@@ -107,12 +209,17 @@
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNVNGdExHRDhlWkxNcnJLVXg3WVB2WE9tV2V1MWlabGN1Sk43bDVEcHJYdFg0bzJmZk54V2xaZDMtZnlFdnh0VjdGLWVZbWNlQm5NbndZLWZqSnQ2YzlVb3B2SFUzbHpjNkY0a3JyMzNITkNEbXB0WlNpOW1pSUlHNnEydHFOckpRakFaVlZ1YThpYlhKVlFGR0xZaEQ2V29IQTk4Sm1xUW92ZFRUUXNpdWVNLVRHamdmSi1oSzJ1OWZkQXYtT0JaZTB5NHhtVG81MmF6OUR0NkxkSWluVkRLa2FUZUswQ05DTjZFZHVKTENlM1F5eER6Q2pERQ",
    "source": "Business Wire",
    "published_at": "2026-10-14T16:10:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Business Wire",
      "published_at": "2026-10-14T16:10:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNVNGdExHRDhlWkxNcnJLVXg3WVB2WE9tV2V1MWlabGN1Sk43bDVEcHJYdFg0bzJmZk54V2xaZDMtZnlFdnh0VjdGLWVZbWNlQm5NbndZLWZqSnQ2YzlVb3B2SFUzbHpjNkY0a3JyMzNITkNEbXB0WlNpOW1pSUlHNnEydHFOckpRakFaVlZ1YThpYlhKVlFGR0xZaEQ2V29IQTk4Sm1xUW92ZFRUUXNpdWVNLVRHamdmSi1oSzJ1OWZkQXYtT0JaZTB5NHhtVG81MmF6OUR0NkxkSWluVkRLa2FUZUswQ05DTjZFZHVKTENlM1F5eER6Q2pERQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-14T16:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXRJNjVuWjNPV00tTXF4TFRDQ25HVk9vTmdCVXdfdDlZQWFFYXJUS3dpOFFocURMVE5CZXRWbDBFLWFrN3RsMXAySDJ2QVpvaEFQVGRYNHN3d0xVSVpVRUcxZkk3eEd3amNVR1gtNEVqcGt6QjlYeXpmNVhVYzNmVzAxVzlCUEh5OXJ4RFlBTU04VE1yV1lBZ2JPdjlMM0RDam56WXdvSnBMaGs"
     }
    ],
    "category": "产品技术",
@@ -162,16 +269,33 @@
    "sentiment": 1
   },
   {
+   "id": "655cb89ec158",
+   "title": "LITEON Showcases NVIDIA 800 VDC Architecture and Thermal Management Portfolio at OCP Global Summit 2026 - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFZCR0tMamVKS3RCeWhTTDNZM1Rxa21vZk41T0tMTmttTW1RZFJHbzlnRG8xSnhZMllFQ1RSUVZaZzNhYU41N0c4eGpaS3hWMkNiblFaSVhlWWZEVUd5RG9NTlpjWEx4SkttR29TLVJpclZ5R3RjMER2M2pwWklmc2V6UTVsQnRIZFNaZHNTR0labUZLUV90dzladw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-14T16:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-14T16:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFZCR0tMamVKS3RCeWhTTDNZM1Rxa21vZk41T0tMTmttTW1RZFJHbzlnRG8xSnhZMllFQ1RSUVZaZzNhYU41N0c4eGpaS3hWMkNiblFaSVhlWWZEVUd5RG9NTlpjWEx4SkttR29TLVJpclZ5R3RjMER2M2pwWklmc2V6UTVsQnRIZFNaZHNTR0labUZLUV90dzladw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "a55f6e79522a",
    "title": "NVIDIA donates $250m to support UK’s AI research and security - Medical Device Network",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjEyVGRGWVhUeEhTaWFKRFQyNWxXY1NJNXpoQzE0VlhQcnhLV2VsUlJudk50bGFaWFUzNnYtYVB4WGg0ZG9kR0JsdmhMUldJYlBwNVlkbG1ZcGk5M0kyd3BpTlpTaWhCUC1Za05wd3pFdWMyUEpHRTlHd2hZYkFNY3Q1TVF3NGo4SjMwRDR4VElMTE9jVm5XQU02M2hWZHB6ZDJIUw",
    "source": "Medical Device Network",
-   "published_at": "2026-10-14T15:53:13+00:00",
+   "published_at": "2026-10-14T15:52:22+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Medical Device Network",
-     "published_at": "2026-10-14T15:53:13+00:00",
+     "published_at": "2026-10-14T15:52:22+00:00",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjEyVGRGWVhUeEhTaWFKRFQyNWxXY1NJNXpoQzE0VlhQcnhLV2VsUlJudk50bGFaWFUzNnYtYVB4WGg0ZG9kR0JsdmhMUldJYlBwNVlkbG1ZcGk5M0kyd3BpTlpTaWhCUC1Za05wd3pFdWMyUEpHRTlHd2hZYkFNY3Q1TVF3NGo4SjMwRDR4VElMTE9jVm5XQU02M2hWZHB6ZDJIUw"
     }
    ],
@@ -1918,6 +2042,23 @@
    "zh_summary": "Fulcrum资管减持英伟达64683股",
    "title_zh": "Fulcrum资管出售64683股英伟达股份",
    "sentiment": -1
+  },
+  {
+   "id": "115768eddaad",
+   "title": "313,966 NVIDIA Corporation $NVDA Shares Bought by Empowered Funds LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkN0dTVRT2E5SHNkeWIycDBqR3FjMDVtTVp4MXVueXlqNTVCWkJNU1h3OTBLdkpSeHJ5T3dQaUpBSm5nTlZEaWhnd1VWS2pXTGtOZFV4WGxLVDBSdDB0ODROaDZqU3FacE9DMUhnYk5vQ19jdS1yekR1SmpBTm1JRUN6U0FreG40X29YTjNnMVZ5blhqVmF3ZmhmYXphbTRveVA1RjRMMzRIR3gxMDFGdGt0ODJhdDVhOGZtci1Ed2VwYTNCWk53",
+   "source": "MarketBeat",
+   "published_at": "2026-10-14T07:33:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-14T07:33:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkN0dTVRT2E5SHNkeWIycDBqR3FjMDVtTVp4MXVueXlqNTVCWkJNU1h3OTBLdkpSeHJ5T3dQaUpBSm5nTlZEaWhnd1VWS2pXTGtOZFV4WGxLVDBSdDB0ODROaDZqU3FacE9DMUhnYk5vQ19jdS1yekR1SmpBTm1JRUN6U0FreG40X29YTjNnMVZ5blhqVmF3ZmhmYXphbTRveVA1RjRMMzRIR3gxMDFGdGt0ODJhdDVhOGZtci1Ed2VwYTNCWk53"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "29c4d540ebd8",
@@ -6504,171 +6645,6 @@
    "zh_summary": "4家油气公司采用英伟达AI技术",
    "title_zh": "4家油气公司押注英伟达AI技术",
    "sentiment": 1
-  },
-  {
-   "id": "af44e4a21db9",
-   "title": "英伟达、AMD连跌四天：AI芯片的游戏规则变了 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS010QjJCOUVfcnduYjNOM09vZS1zSVRhekg1SHl3cFdLRmhqWTZpdHVRMkFMU1BzSXZoZ3dGWjlNbXc2ZnN2M05iTTd3ajg5YTI2Y3lhV1IzZm1maU5BQVZBcFNPQjREV09iSnFzRmxyVGxDLWhwazhPUUxXZDRvREZUUVlkYTJwX3VqRQ",
-   "source": "搜狐",
-   "published_at": "2026-10-13T12:19:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-13T12:19:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS010QjJCOUVfcnduYjNOM09vZS1zSVRhekg1SHl3cFdLRmhqWTZpdHVRMkFMU1BzSXZoZ3dGWjlNbXc2ZnN2M05iTTd3ajg5YTI2Y3lhV1IzZm1maU5BQVZBcFNPQjREV09iSnFzRmxyVGxDLWhwazhPUUxXZDRvREZUUVlkYTJwX3VqRQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达AMD连跌四天",
-   "title_zh": "英伟达、AMD连跌四天：AI芯片的游戏规则变了 - 搜狐",
-   "sentiment": -1
-  },
-  {
-   "id": "021b6813b0db",
-   "title": "Broadcom vs. Nvidia: The AI Revolution Is Big Enough for Both. Here's the Better Buy. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOEhXdzJLdExDUTJPQ0VTYmJvZEhqWkRYYVdXa2tKUF81a3pScUZsSTVlbFJ1cklXRElFMlM0bjJNRHAxVEZuaUp1NUl1YWlaa3g5ZkVvWnRjTkU3LXR5Y0J6MjFPMWNsS3k2YzVlTE4tVGNqWWJtMk5zMjZQQ0JkdTJ2bXE0bHRHRlo4Y0VxN0M2Sk11RzFEdQ",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-13T12:14:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-13T12:14:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOEhXdzJLdExDUTJPQ0VTYmJvZEhqWkRYYVdXa2tKUF81a3pScUZsSTVlbFJ1cklXRElFMlM0bjJNRHAxVEZuaUp1NUl1YWlaa3g5ZkVvWnRjTkU3LXR5Y0J6MjFPMWNsS3k2YzVlTE4tVGNqWWJtMk5zMjZQQ0JkdTJ2bXE0bHRHRlo4Y0VxN0M2Sk11RzFEdQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "博通与英伟达对比，AI市场容得下两者",
-   "title_zh": "博通对决英伟达：AI革命足够大，两者都可买，哪个更好？",
-   "sentiment": 1
-  },
-  {
-   "id": "f70b6bf30db4",
-   "title": "Nvidia plans a $0.25 per share dividend payout on Dec 26, 2026, marking an 1800% increase from last year. - Pluang",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM1EtOXF3ZXd5Tmhxc3hlWlZ0WFptejZVM3hjYUdxbFl3NVdLWjZ5MVN2c3JLcV9lZE5qSzBiRU8xUjBTa3JPSU1ZMG5JMnRZZjdzMWVvM3hHSW5WdzZHQjVQNGMzWkp2ZXY2SzYwdEQtVS1LU3JHMXB4SE5UeEVNM1lRQ0lkdXRtOUtjNk95MTlFTFhpRW83VjFQRWpscU80aWhxUHRR",
-   "source": "Pluang",
-   "published_at": "2026-10-13T12:11:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Pluang",
-     "published_at": "2026-10-13T12:11:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM1EtOXF3ZXd5Tmhxc3hlWlZ0WFptejZVM3hjYUdxbFl3NVdLWjZ5MVN2c3JLcV9lZE5qSzBiRU8xUjBTa3JPSU1ZMG5JMnRZZjdzMWVvM3hHSW5WdzZHQjVQNGMzWkp2ZXY2SzYwdEQtVS1LU3JHMXB4SE5UeEVNM1lRQ0lkdXRtOUtjNk95MTlFTFhpRW83VjFQRWpscU80aWhxUHRR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达宣布每股派息0.25美元",
-   "title_zh": "英伟达计划12月26日每股派息0.25美元",
-   "sentiment": 1
-  },
-  {
-   "id": "97f3ba20d75b",
-   "title": "Nvidia launches USD BRep geometry kernel for solid modelling - Develop3D",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONEo0UkpkX21EV051Mmk1QXg5b3p1RERCeDJlaGhyX2Z0MVQ4TEhYRGNpa3pvLUdOdENGaTZfZUYyQzNOU1JzVWlIVDFxTlpXRXV6UnlhY2s5STNYai1MRVZRRkk5eVo1ZHZIdmpmRkJfQlFleXV2R2lPa2ljR1U5OG1uckJDTHN3SERhdVZ1M1E",
-   "source": "Develop3D",
-   "published_at": "2026-10-13T12:10:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Develop3D",
-     "published_at": "2026-10-13T12:10:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONEo0UkpkX21EV051Mmk1QXg5b3p1RERCeDJlaGhyX2Z0MVQ4TEhYRGNpa3pvLUdOdENGaTZfZUYyQzNOU1JzVWlIVDFxTlpXRXV6UnlhY2s5STNYai1MRVZRRkk5eVo1ZHZIdmpmRkJfQlFleXV2R2lPa2ljR1U5OG1uckJDTHN3SERhdVZ1M1E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达发布USD BRep实体建模几何内核",
-   "title_zh": "英伟达发布用于实体建模的USD BRep几何内核",
-   "sentiment": 1
-  },
-  {
-   "id": "330f9895e864",
-   "title": "Nvidia Corp (NVDA): Jensen Huang’s Visionary Leadership Drives Long-Term AI Growth - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak0zNjQwcVJ4UC14VDVWc0tPRGxVVjNaRUd5NGpWSDJIWXlwb0E3QVB0X2dULVR5YjRUOGtOeDg3Z3FqNXN1akNfdVlleW9Sak9JdmowR0lBQk9vNUY1bEpsaTJYMVc0YXdRUG8tOFEwZkdpVm5NTU5yeXJ5ZEI2eEd0b0hhdU5Qd1BKX0JQQk9VX2JKMFNtT3VR",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-13T12:09:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-13T12:09:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak0zNjQwcVJ4UC14VDVWc0tPRGxVVjNaRUd5NGpWSDJIWXlwb0E3QVB0X2dULVR5YjRUOGtOeDg3Z3FqNXN1akNfdVlleW9Sak9JdmowR0lBQk9vNUY1bEpsaTJYMVc0YXdRUG8tOFEwZkdpVm5NTU5yeXJ5ZEI2eEd0b0hhdU5Qd1BKX0JQQk9VX2JKMFNtT3VR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋领导力驱动AI长期增长",
-   "title_zh": "黄仁勋的远见卓识推动英伟达长期AI增长",
-   "sentiment": 1
-  },
-  {
-   "id": "f96360f104f9",
-   "title": "Chinese tech firms bought more than 1mn Nvidia gaming and workstation chips this year to work around export controls - Dealroom",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZEE0NldkVFlwX3NUdFdpTVQzVVRfNElOcTVVYnRReTIzTEVoSktsV3pfNm5ISlVNcU9nZEtwS3VReDEwZHZOUmwyV2dCVGp1TUtXRFYyOGhSWnJUWDdaRzFkQmlBTFNHSlV6dkszTFJ1RVRkUC03dzdiYjJIQ25COWc3ejcwSXRMWjRUQ3NPeWZwSWNvTHh6WFk3Q1FUN1JSWS1fb01zaWdjdmxhVjliV18zUVdSbGRUTWU3RlRyZzE0b2daSXNUM3A3amo4TEhWeGpVYW0zMnBpY21jZkhKZTVtczA",
-   "source": "Dealroom",
-   "published_at": "2026-10-13T12:05:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Dealroom",
-     "published_at": "2026-10-13T12:05:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZEE0NldkVFlwX3NUdFdpTVQzVVRfNElOcTVVYnRReTIzTEVoSktsV3pfNm5ISlVNcU9nZEtwS3VReDEwZHZOUmwyV2dCVGp1TUtXRFYyOGhSWnJUWDdaRzFkQmlBTFNHSlV6dkszTFJ1RVRkUC03dzdiYjJIQ25COWc3ejcwSXRMWjRUQ3NPeWZwSWNvTHh6WFk3Q1FUN1JSWS1fb01zaWdjdmxhVjliV18zUVdSbGRUTWU3RlRyZzE0b2daSXNUM3A3amo4TEhWeGpVYW0zMnBpY21jZkhKZTVtczA"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "中国公司今年购逾百万颗英伟达芯片",
-   "title_zh": "中国科技公司今年购买逾百万颗英伟达游戏与工作站芯片以规避出口管制",
-   "sentiment": 1
-  },
-  {
-   "id": "41236162e37c",
-   "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YMXVMb1E3Vk9kaDQwSXlQdElpejdWTGpSS1I2aFJ2aFpiTXhGVEM1ZXZxSDhzR2c5ZV9tOGwyRnlERGNLNExWeTJPTXdTMDVzSy1wcWIyMmZaSEpvY05KZDM3SnRSRUdJN0luOU1NYmJGbThOSzlzVGNhM3dqY0E",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-13T12:03:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-13T12:03:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YMXVMb1E3Vk9kaDQwSXlQdElpejdWTGpSS1I2aFJ2aFpiTXhGVEM1ZXZxSDhzR2c5ZV9tOGwyRnlERGNLNExWeTJPTXdTMDVzSy1wcWIyMmZaSEpvY05KZDM3SnRSRUdJN0luOU1NYmJGbThOSzlzVGNhM3dqY0E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达RTX Spark获全球PC应用生态支持",
-   "title_zh": "全球PC应用生态已就绪，支持英伟达RTX Spark",
-   "sentiment": 1
-  },
-  {
-   "id": "65f6c0043793",
-   "title": "爱芯元智AX8860系列芯片发布，性能对标英伟达DGX Spark但价格更低 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHRnS09jTE5rMm5XdFdiX0lVZktlb1V5UnhJTWQweHlacmVIcGkyTDdBc0Nmc2NQWUFFeU1sTGlDVjZ2aXpuejNpblZfSzJfTHBEa2xibFBnQTBlbmJvd2RCWFFDaHNBVDJ0VzFJVTg4dFlLX3owcTJscFRfNWpZRmRVd0xEMGxw",
-   "source": "搜狐",
-   "published_at": "2026-10-13T12:02:15+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-13T12:02:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHRnS09jTE5rMm5XdFdiX0lVZktlb1V5UnhJTWQweHlacmVIcGkyTDdBc0Nmc2NQWUFFeU1sTGlDVjZ2aXpuejNpblZfSzJfTHBEa2xibFBnQTBlbmJvd2RCWFFDaHNBVDJ0VzFJVTg4dFlLX3owcTJscFRfNWpZRmRVd0xEMGxw"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-13T12:04:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1MLTlMSVpvX1Z3bmxxbDQ1bmJMZkhuRjMwcGdGNWdBVW5QZk1sREV1dVVfVFJ1WTc5dGZaUzlxYVZXRDFSQ0Y5RzlMamI"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "爱芯元智发布AX8860对标DGX Spark",
-   "title_zh": "爱芯元智AX8860系列芯片发布，性能对标英伟达DGX Spark但价格更低",
-   "sentiment": -1
   }
  ]
 }
