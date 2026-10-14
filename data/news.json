@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T16:36:34.930459+00:00",
+ "updated_at": "2026-10-14T16:52:05.979473+00:00",
  "market": {
-  "price": 221.72,
-  "change_pct": -2.98,
+  "price": 222.13,
+  "change_pct": -2.8,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.53,
-   "count": 125
+   "avg": 0.52,
+   "count": 132
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 76% 分位"
+     "note": "现价处于52周区间 77% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +42.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +41.8%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.53（125条已评分）"
+     "note": "今日新闻情绪 +0.52（132条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $221.72 vs 20日均线 $228.71"
+     "note": "现价 $222.13 vs 20日均线 $228.73"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 76,
+   "price_52w_pct": 77,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 42.1,
-   "ma20": 228.71,
-   "as_of": "2026-10-14T16:36:34.913360+00:00"
+   "implied_upside_pct": 41.8,
+   "ma20": 228.73,
+   "as_of": "2026-10-14T16:52:05.963238+00:00"
   },
   "pe_ttm": 28.2,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+41.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,17 +62,34 @@
  },
  "stories": [
   {
+   "id": "eda06e0c7f6a",
+   "title": "NVIDIA Unveils cuPotential as Semiconductor Leaders Adopt CUDA-X - Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSTBlMkt5YnRVNk1IT3psUzdWQ1JYTkdfYi1saEZOWTlJZS12Z3BJeC1YcEl1dWNRLTJBVDliaWdrbXBaTUJidU5ObDFFeUJaYkFBbUlhRjZvb3JwVTloTzNWbDVBZ0ZzUnZHeEpHUUlqZVA2RmJOTjNzMmoyS0dkTVZUY2ZmMlJZTG5NVi1wSQ",
+   "source": "Unite.AI",
+   "published_at": "2026-10-14T16:48:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Unite.AI",
+     "published_at": "2026-10-14T16:48:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSTBlMkt5YnRVNk1IT3psUzdWQ1JYTkdfYi1saEZOWTlJZS12Z3BJeC1YcEl1dWNRLTJBVDliaWdrbXBaTUJidU5ObDFFeUJaYkFBbUlhRjZvb3JwVTloTzNWbDVBZ0ZzUnZHeEpHUUlqZVA2RmJOTjNzMmoyS0dkTVZUY2ZmMlJZTG5NVi1wSQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
    "id": "ef1c16a78f7b",
    "title": "英伟达日内跌幅达3% - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QYmxEZFY4TDRjNWtxN0ljcDdSRVdtanBFVkRud3Foa0pFMGEzNG4xdm1UMXlvVmRTOXlYblkwOEhlNmswUG0tcE96ei1Bdk5VUXRqYnF5LVR3OVJUMklNb3kxWQ",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMVDEtbl9vTHl0Y2ZOa1U0R2hOYVdIVk5uU1ctRFZDM1dmM0NpaWFSZEt0SDJDM2ZKQWh5X2JzNGwwWkU2aUs1cUYxUkNzNGdVWk1iRHlSbjNTeFpWUkJucA",
    "source": "东方财富",
-   "published_at": "2026-10-14T16:35:49+00:00",
+   "published_at": "2026-10-14T16:34:13+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "东方财富",
-     "published_at": "2026-10-14T16:35:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QYmxEZFY4TDRjNWtxN0ljcDdSRVdtanBFVkRud3Foa0pFMGEzNG4xdm1UMXlvVmRTOXlYblkwOEhlNmswUG0tcE96ei1Bdk5VUXRqYnF5LVR3OVJUMklNb3kxWQ"
+     "published_at": "2026-10-14T16:34:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMVDEtbl9vTHl0Y2ZOa1U0R2hOYVdIVk5uU1ctRFZDM1dmM0NpaWFSZEt0SDJDM2ZKQWh5X2JzNGwwWkU2aUs1cUYxUkNzNGdVWk1iRHlSbjNTeFpWUkJucA"
     }
    ],
    "category": "其他",
@@ -86,12 +103,12 @@
    "title": "Nvidia Stock NVDA Falls Toward $220 as Data-Center Debt Weigh on Sentiment - FXLeaders",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZBQkJZNXBRblJDUV93a1Rlbld0MWdnNU9GMGkyd3dUWHBhVzVMUTUzYVpvZEZ4cjdZRkZGRW9PaTVqTmpmcDFyZGxCYmxmNFlWOHIzYXNxWHNnMng2cVIzWTNPVk56T1JtY0tKODdaV3dwN0FhYTdFbnB1cnJuOFN5dTUtbVBONUltOGZhOXl5VVJuZVVxRnF4UXJkRGR5MzNmeU1QcjF1LWJGRThQX0VValYyUVE",
    "source": "FXLeaders",
-   "published_at": "2026-10-14T16:31:01+00:00",
+   "published_at": "2026-10-14T16:30:27+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "FXLeaders",
-     "published_at": "2026-10-14T16:31:01+00:00",
+     "published_at": "2026-10-14T16:30:27+00:00",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZBQkJZNXBRblJDUV93a1Rlbld0MWdnNU9GMGkyd3dUWHBhVzVMUTUzYVpvZEZ4cjdZRkZGRW9PaTVqTmpmcDFyZGxCYmxmNFlWOHIzYXNxWHNnMng2cVIzWTNPVk56T1JtY0tKODdaV3dwN0FhYTdFbnB1cnJuOFN5dTUtbVBONUltOGZhOXl5VVJuZVVxRnF4UXJkRGR5MzNmeU1QcjF1LWJGRThQX0VValYyUVE"
     }
    ],
@@ -107,12 +124,17 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZllaQmUyTDNWbm5hU052YkZyT3hOY01PWm1VVWdKQVdYUG8xbjR2TGJfRUhVVWRSem5xSGRRWlhDa2FyckROTGUzeVVQUDlSUzh1dFZEbFNhRFdKREVKeXp5c1VoQnB0N1FTOVNicjFRbmIxcVBTMHhKRGhJcWg2ZEFDdGlhenBfTXBGemtaeExnTHh0UTFzU0Judlg3QTN4d0ZybkxiLW5HNXNXaXpyOXV6ellWZw",
    "source": "Investing.com",
    "published_at": "2026-10-14T16:25:32+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Investing.com",
      "published_at": "2026-10-14T16:25:32+00:00",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZllaQmUyTDNWbm5hU052YkZyT3hOY01PWm1VVWdKQVdYUG8xbjR2TGJfRUhVVWRSem5xSGRRWlhDa2FyckROTGUzeVVQUDlSUzh1dFZEbFNhRFdKREVKeXp5c1VoQnB0N1FTOVNicjFRbmIxcVBTMHhKRGhJcWg2ZEFDdGlhenBfTXBGemtaeExnTHh0UTFzU0Judlg3QTN4d0ZybkxiLW5HNXNXaXpyOXV6ellWZw"
+    },
+    {
+     "name": "The Tech Buzz",
+     "published_at": "2026-10-14T16:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON3JadG0wZzlWNjRkRjVCb2YxWnFBMmFqOHNERUtibVlRTUY3TnVjNjFMdDRyVHVEU0NncnlzS1ZNZkRBRXV5MnIweW5oRXFzcmRqQktkdldaTGpOXzl4MjlHLTBrQnEwX0FGaE9oci1aTExtUWR3SXR0MzNZYlJhU0Q4MHJfc0JTS3RPY2JLb3RhR0RQZkxnNURB"
     }
    ],
    "category": "产品技术",
@@ -187,19 +209,50 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcktBMVhpVFVZU1ozb0c5U3g0NXFvcVAySGp6Y0xiZmNzVlM1aGE4QlBlRU85Q1lrSUljYVYteGRpb1pFUmhCTHVCTlVsOHByUWdUQlNJd2VnMjFOQ1BVVjl4NmF4U01ITVBhLURTZlZuc2UxM1NMbm9LelptTWtoN280T0VQd1ViVElNdGZJU0k0cXNnMTMzOGFZWTU4REpmS1ZOOHFHQWYtOHh5MDdhN3dfVQ",
    "source": "The Motley Fool",
    "published_at": "2026-10-14T16:17:39+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-14T16:17:39+00:00",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcktBMVhpVFVZU1ozb0c5U3g0NXFvcVAySGp6Y0xiZmNzVlM1aGE4QlBlRU85Q1lrSUljYVYteGRpb1pFUmhCTHVCTlVsOHByUWdUQlNJd2VnMjFOQ1BVVjl4NmF4U01ITVBhLURTZlZuc2UxM1NMbm9LelptTWtoN280T0VQd1ViVElNdGZJU0k0cXNnMTMzOGFZWTU4REpmS1ZOOHFHQWYtOHh5MDdhN3dfVQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-14T16:25:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY1RPVjdGRTM5RG8ySFFZdEhFcWpRWENISndTTGpDQzJJdGJGejNFY1QyY2NwUUlHNkRrUWtCd2dCMFZ4dlFnaXRvTG1uNkZwSVgwNXZWd3VGSTEyVTlWalJndjlDazJGNjhNNUtOaVE5UEhISmtrRl8wOUtsZFFyN2hPUGhpakdwRGJYUlkweGFGeEMyYnc"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-14T16:29:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORTlOWXA0UkY4OFNxR0pmSjJYem5EX0U3MkdoVFRZQnpsZUtBS1ItQmVDMEw3TTlGdUgtVkZnYTFiZWdBUURRdnlKNmhsNGk2ZWhNT3JEcFV6eWV0aHhNUF9TRlNBc3hQd29WZERsZE1mUHVEVTlkbXQ1Wks1NEVhUDduaVFJTTRKeXVzeVVuSFYwU0dnRkpqRTZ3d092c2dmdHcwNDJPLXVnalhqeDFkd0ZlUGljbmREOGVwUG1sZEhQekpZalItVHFyXzg5X0drZ0hDdUZ0SEtwQjRCajZtUnVRTVRydUNuVEx0RWpB"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达仍是最佳AI股票吗？与挑战者对比",
    "title_zh": "英伟达仍是2026年最佳AI股票，还是挑战者更胜一筹？",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.31,
+    "window_h": 0.5
+   }
+  },
+  {
+   "id": "bb655eabd134",
+   "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUtZWjdMZWpRUFVYTHNFTTRJNUNnclI4R2ttbmhfamJMX1R0Sk1JOEZfR2wxMXg2enlYOWxVMjhudDl3Wk5jaWluNEN1RHVhdWhSN2hoYm53WkRQZm0xVWc2ZzJjT0pUeHlFeHhOTUNIOGh2emhzR0R1SVh6bjRiX1pjRWJtd2JXVmRJdFJZcDZEZkpuLV95V3VVVTBRYnN1QnI2Z0ZIOVFkdlh5YXhRck1hZzNieUFXQXU3T3ZHZVFzVy1zRDlTWQ",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-14T16:16:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-14T16:16:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUtZWjdMZWpRUFVYTHNFTTRJNUNnclI4R2ttbmhfamJMX1R0Sk1JOEZfR2wxMXg2enlYOWxVMjhudDl3Wk5jaWluNEN1RHVhdWhSN2hoYm53WkRQZm0xVWc2ZzJjT0pUeHlFeHhOTUNIOGh2emhzR0R1SVh6bjRiX1pjRWJtd2JXVmRJdFJZcDZEZkpuLV95V3VVVTBRYnN1QnI2Z0ZIOVFkdlh5YXhRck1hZzNieUFXQXU3T3ZHZVFzVy1zRDlTWQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "4b05a9b34916",
@@ -252,12 +305,17 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTl9UcmNCNVJvLUVDTjdEZWxoU01aR2g4VHdjcFhOZXJnZ1JxRHdfbDZmM292cmRpYkNiSDdIcDV4dU1faTFGYkR0Y2JzQW9CRmxpWkZhVmRvSmpNUHNLeVo5Ukk2OVJsSmZ3aWgzWjE0ZFQ5WmNNZnhOYnVEOVJ2V0JkWGZiaU84ekdPYmpaczRnckpidkhOeHR3",
    "source": "Yahoo Finance",
    "published_at": "2026-10-14T16:02:13+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-14T16:02:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTl9UcmNCNVJvLUVDTjdEZWxoU01aR2g4VHdjcFhOZXJnZ1JxRHdfbDZmM292cmRpYkNiSDdIcDV4dU1faTFGYkR0Y2JzQW9CRmxpWkZhVmRvSmpNUHNLeVo5Ukk2OVJsSmZ3aWgzWjE0ZFQ5WmNNZnhOYnVEOVJ2V0JkWGZiaU84ekdPYmpaczRnckpidkhOeHR3"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-14T16:32:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVFI5UVAxT29QU3YwWDdCNkJJbFdNc1lKZDJ3M0FBTGlaV29oLTAxdlVzTEowRDIxZlhPeWJlR1U0UkFnendnS0pHa0p2aFBEbnEyTng1SVFud01FUGlFRmNiTWxjc3J0QTFQZnhCOFBVUVVGc1A5ZXgxMEJGYnN3MjY1VFpqNzBWWHpTR3pmM2VDaVd4RXl3ZW5tcG52b25lODRkRDI3SHdYNGhuVXJMVF9HLUhrWm13VnRXQXNqV3lrSk1oTGt0ZA"
     }
    ],
    "category": "其他",
@@ -2063,26 +2121,6 @@
    "zh_summary": "Fulcrum资管减持英伟达64683股",
    "title_zh": "Fulcrum资管出售64683股英伟达股份",
    "sentiment": -1
-  },
-  {
-   "id": "115768eddaad",
-   "title": "313,966 NVIDIA Corporation $NVDA Shares Bought by Empowered Funds LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkN0dTVRT2E5SHNkeWIycDBqR3FjMDVtTVp4MXVueXlqNTVCWkJNU1h3OTBLdkpSeHJ5T3dQaUpBSm5nTlZEaWhnd1VWS2pXTGtOZFV4WGxLVDBSdDB0ODROaDZqU3FacE9DMUhnYk5vQ19jdS1yekR1SmpBTm1JRUN6U0FreG40X29YTjNnMVZ5blhqVmF3ZmhmYXphbTRveVA1RjRMMzRIR3gxMDFGdGt0ODJhdDVhOGZtci1Ed2VwYTNCWk53",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T07:33:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T07:33:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkN0dTVRT2E5SHNkeWIycDBqR3FjMDVtTVp4MXVueXlqNTVCWkJNU1h3OTBLdkpSeHJ5T3dQaUpBSm5nTlZEaWhnd1VWS2pXTGtOZFV4WGxLVDBSdDB0ODROaDZqU3FacE9DMUhnYk5vQ19jdS1yekR1SmpBTm1JRUN6U0FreG40X29YTjNnMVZ5blhqVmF3ZmhmYXphbTRveVA1RjRMMzRIR3gxMDFGdGt0ODJhdDVhOGZtci1Ed2VwYTNCWk53"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Empowered增持31.4万股NVDA",
-   "title_zh": "Empowered Funds买入313,966股NVDA",
-   "sentiment": 1
   },
   {
    "id": "29c4d540ebd8",
@@ -6648,26 +6686,6 @@
    "session": "盘前",
    "zh_summary": "DLSS 5速度翻倍，显存占用降20%",
    "title_zh": "英伟达DLSS 5速度翻倍，显存占用降低20%",
-   "sentiment": 1
-  },
-  {
-   "id": "377c13aae0e7",
-   "title": "4 Oil & Gas Firms Betting on NVIDIA-Powered AI Technology - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVFDRy1lUFo5UlhhR1JUdHlBVnYyR0J4OVN6aWt5VmhseC1pVFRBcjI2Qzg2OElyVTdUbXJWdE9INGpGbnllUVh1eWJkekEwNEllZ2lTbnlMX3Q5LXUyU0VEUnJqMWNHbThXRVBhSDlzXzZiQ2NwVXVHT3BxaVFjVzdFeFhMVU5iS0V0dHRRMXRINkpQdk9obHVmckMwaDd0RXJuRkl4Z3BHekZSME9PdA",
-   "source": "TradingView",
-   "published_at": "2026-10-13T12:23:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-13T12:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVFDRy1lUFo5UlhhR1JUdHlBVnYyR0J4OVN6aWt5VmhseC1pVFRBcjI2Qzg2OElyVTdUbXJWdE9INGpGbnllUVh1eWJkekEwNEllZ2lTbnlMX3Q5LXUyU0VEUnJqMWNHbThXRVBhSDlzXzZiQ2NwVXVHT3BxaVFjVzdFeFhMVU5iS0V0dHRRMXRINkpQdk9obHVmckMwaDd0RXJuRkl4Z3BHekZSME9PdA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "4家油气公司采用英伟达AI技术",
-   "title_zh": "4家油气公司押注英伟达AI技术",
    "sentiment": 1
   }
  ]
