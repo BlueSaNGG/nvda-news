@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T00:36:30.734457+00:00",
+ "updated_at": "2026-10-14T00:51:39.927399+00:00",
  "market": {
   "price": 226.32,
   "change_pct": -1.29,
@@ -10,8 +10,8 @@
    "days_left": 35
   },
   "day_sentiment": {
-   "avg": 0.33,
-   "count": 205
+   "avg": 0.32,
+   "count": 208
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.33（205条已评分）"
+     "note": "今日新闻情绪 +0.32（208条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 39.2,
    "ma20": 227.5,
-   "as_of": "2026-10-14T00:36:30.719052+00:00"
+   "as_of": "2026-10-14T00:51:39.917485+00:00"
   },
   "pe_ttm": 28.8,
   "pe_pct_5y": 25,
@@ -1355,7 +1355,7 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83SHNUQXhJUjUxcVV1aVNlcTA2MXdQREt6d2lSQ2hjYU1DS3pNT1RfeXNfaF9MekhqTzRfQnNQRUVqSTl4bXRyQw",
    "source": "财联社",
    "published_at": "2026-10-13T15:52:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "财联社",
@@ -1366,13 +1366,22 @@
      "name": "搜狐",
      "published_at": "2026-10-13T21:11:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ05KN3p6SWFXWWhQQmtrZXZNdnkwWVBCYXRVNG1TWDlEZS1hYTJMRzVndE1VSHhsQnhyb3p6aE5BMjRPWlFvb2xMU1hVLUFJS3RlQjNVUGRIV2VmbTVJWGlfR2l2Mnc4VU4xWmhRbWZVYy1oMDRFTWNTX05OLUdodS1ZdW15aHZE"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-13T21:17:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nTjE3VmlZNU10UC1vWTBTOHZ2bS1HdUhWNy1seUJvbWNVWll4UDE3ZndMeHlPOE45bVRCSy1SdDBNWjIwamN4RWUxQ040X21SdklDbDNOeHQ4dnFVR3JFdg"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达发布DLSS 5新模型",
    "title_zh": "游戏行业的“GPT时刻”又进一步？英伟达发布DLSS 5新模型 半年性能暴涨10倍 - 搜狐",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.54,
+    "window_h": 2.0
+   }
   },
   {
    "id": "99dcab065057",
