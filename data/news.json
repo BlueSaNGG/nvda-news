@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T18:51:34.364206+00:00",
+ "updated_at": "2026-10-15T19:06:32.391140+00:00",
  "market": {
-  "price": 217.15,
-  "change_pct": -1.88,
+  "price": 217.79,
+  "change_pct": -1.59,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.35,
-   "count": 201
+   "count": 205
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 70% 分位"
+     "note": "现价处于52周区间 71% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +44.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.35（201条已评分）"
+     "note": "今日新闻情绪 +0.35（205条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.15 vs 20日均线 $228.58"
+     "note": "现价 $217.79 vs 20日均线 $228.61"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 70,
+   "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.1,
-   "ma20": 228.58,
-   "as_of": "2026-10-15T18:51:34.338066+00:00"
+   "implied_upside_pct": 44.6,
+   "ma20": 228.61,
+   "as_of": "2026-10-15T19:06:32.378572+00:00"
   },
-  "pe_ttm": 27.6,
+  "pe_ttm": 27.7,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.6%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "8f2531191453",
+   "title": "CoreWeave Stock Snaps Back as Nvidia CEO Signals Support - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVNFSHBqa0l4azhDV3c5NmdmVi1HZHZXS0tpTVJqOHFHZUdCTENjMWZEXzNwU3dHWFA0UkVMcVZOVThpTXlUOUlZazhlQnFfTUl1Q2hSV2xkVHVCamxWb2g1dll6czZRczJTSllibWFEc1lBc3dfMnRuNUFVN2JzeTBWQU82Q1E2anptU3NUY21TdU9mb0pjWERVaEdlRXNQMXNoS2d6QWVtLUFleHRVZTNWb2t3NUFu",
+   "source": "Benzinga",
+   "published_at": "2026-10-15T18:56:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-15T18:56:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVNFSHBqa0l4azhDV3c5NmdmVi1HZHZXS0tpTVJqOHFHZUdCTENjMWZEXzNwU3dHWFA0UkVMcVZOVThpTXlUOUlZazhlQnFfTUl1Q2hSV2xkVHVCamxWb2g1dll6czZRczJTSllibWFEc1lBc3dfMnRuNUFVN2JzeTBWQU82Q1E2anptU3NUY21TdU9mb0pjWERVaEdlRXNQMXNoS2d6QWVtLUFleHRVZTNWb2t3NUFu"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "433eccd071d4",
    "title": "Nvidia NVDA Stock Extends Toward $200 as ASML Warns of Chipmaking Capacity - FXLeaders",
@@ -180,6 +197,23 @@
    "zh_summary": "英伟达跌3%，现金流转换引关注",
    "title_zh": "英伟达股价下跌3%，现金转换受关注",
    "sentiment": -1
+  },
+  {
+   "id": "27e728cda2ba",
+   "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72 | NVIDIA Technical Blog - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGRJekpZczhaUHVVVVJDeUY0R0NvZFktQm5BTXBteVhUdWJ6OWYxMW8xZEtqTmxGbVpVV0FGM0I3WHYxVUZkY2dRbzl4d3gzV2kxQ3F3UXNjRXVGcjR1VlFuZWhEenk1SEZqWjRlMlZrNmdYRHZTcU9pMElTRXVVeHpGTzA5elJUTzhkalNVazhHNEt4UU0tVmZNSTFWX0tFcDdNajRSR3ViMTZJVFhKUlZWTEU",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-15T18:14:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-15T18:14:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGRJekpZczhaUHVVVVJDeUY0R0NvZFktQm5BTXBteVhUdWJ6OWYxMW8xZEtqTmxGbVpVV0FGM0I3WHYxVUZkY2dRbzl4d3gzV2kxQ3F3UXNjRXVGcjR1VlFuZWhEenk1SEZqWjRlMlZrNmdYRHZTcU9pMElTRXVVeHpGTzA5elJUTzhkalNVazhHNEt4UU0tVmZNSTFWX0tFcDdNajRSR3ViMTZJVFhKUlZWTEU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "de60c3524d17",
@@ -557,7 +591,7 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRE1IMDJia1dnc0xxbFZUUFd5SzgtSk1jT3BZbDYxSzhyTkRpT196OWl1OWdLUVE3Y1lfUHVDRllzVjlWOUhuano4aTJRZkJTdFl4ZnlBQlNaSGIzdTF3QmFrZXo0S1JTaHdyOFlCMVg3YTlvUk1GNHB4TmZHWE9rR1REejNydGF4aWhVNkxUZmpqRGFaMXBfRWtDMTRNSWxWUGtuUm9oU2dvZzVOc29TRllwTExzZjd3cUljUQ",
    "source": "Business Wire",
    "published_at": "2026-10-15T17:00:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Business Wire",
@@ -568,13 +602,22 @@
      "name": "NVIDIA Newsroom",
      "published_at": "2026-10-15T17:03:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDBoazRVektwUFEyamlIT0hOcjJLZ1hhbEpKZ1NKRzRQNzh3Ykg2UlhBakRTZGd0dDNJTzJza1dBdXJMTGRiVmRYZkZoN0FwQk41MWY1d091SUxiNEx1Rkp6UjNudDd2UUxqUFVITGp3czVLRjBUcnJVem84NzZfNkVmME94Y3M2MFZNNmVvaldFMXZyM3FaUXhvR2FLSTA"
+    },
+    {
+     "name": "Rutland Herald",
+     "published_at": "2026-10-15T17:02:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUUttWG1wREppYmpYMVRjUUQwblVNeVZZS3d3NGp3WlRTMzUwR0NrczU1WFBvMkJsamtLSks5clFYcUZDME12djVxamZiVmdXdXlaT0lvOUFNRHdIZWpPU2VwMU5CSHdTdHZwRXpmLXlWam5ISDZRWEtLOHNoa0JqbDFQelVOc3htbnZfZGZONGZDYVo5V3lmdlpPVGlGSW5CdzhTLWxsTjdvajNteWhGSy01dmpBMjVEamVuU2xRWkh1bFhFMUlSYll1TkI3dHItdGR4NzR1U0RTMDRwY2EwX1BnVVFZNDY1TXlWYUl3"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "Adobe与英伟达扩大合作提速智能体创作",
    "title_zh": "Adobe与英伟达扩大合作，加速智能体创作",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.23,
+    "window_h": 2.0
+   }
   },
   {
    "id": "bcc26fc031b5",
@@ -640,6 +683,23 @@
    "zh_summary": "英伟达推RTX Spark优化应用游戏",
    "title_zh": "英伟达展示RTX Spark优化应用与游戏",
    "sentiment": 1
+  },
+  {
+   "id": "9a80437b66dc",
+   "title": "CoreWeave违约概率超六成！黄仁勋“灭火”：融资成本在下降，无需英伟达兜底 - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vMGl2V0xpMEh2WnFDcFlSMXZXSUktTTI5YUJJOTE2TWtBN1dQc2ZKS214cE55OTBlY1Y2ZGN0TWZXd282RU5Nc3IzdlBWRjlZdGo4",
+   "source": "华尔街见闻",
+   "published_at": "2026-10-15T16:31:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-15T16:31:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vMGl2V0xpMEh2WnFDcFlSMXZXSUktTTI5YUJJOTE2TWtBN1dQc2ZKS214cE55OTBlY1Y2ZGN0TWZXd282RU5Nc3IzdlBWRjlZdGo4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "fc1497a033dc",
@@ -1956,6 +2016,23 @@
    "sentiment": -1
   },
   {
+   "id": "10a4cac6d7d8",
+   "title": "德国计划与英伟达达成AI合作协议，《商报》报道 - Mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObURZSHE1dEJQdmFuUUNIVy1yOGUzUjVFQ1NVU0M3TklMaEYtLTFCcUtkYlNXNVZpbWNqb0hvR2dLRGdEUFliZlp0SHJWUW14cGY3amFtS3dLQUpJSlNIWm5VSlptOTU3X0JLeHdNVVdxTlBEbmFyRngzMmlvZXM1d0hvWTYzdXFzNWplMkxCaDc0NXdNRkFzcVRIUk4",
+   "source": "Mezha.net",
+   "published_at": "2026-10-15T13:56:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Mezha.net",
+     "published_at": "2026-10-15T13:56:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObURZSHE1dEJQdmFuUUNIVy1yOGUzUjVFQ1NVU0M3TklMaEYtLTFCcUtkYlNXNVZpbWNqb0hvR2dLRGdEUFliZlp0SHJWUW14cGY3amFtS3dLQUpJSlNIWm5VSlptOTU3X0JLeHdNVVdxTlBEbmFyRngzMmlvZXM1d0hvWTYzdXFzNWplMkxCaDc0NXdNRkFzcVRIUk4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "276709e657f6",
    "title": "科技巨头英伟达和苹果各承诺为特朗普舞厅出资$2,500万——《华盛顿邮报》 - 富途牛牛",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWI3UXZpbVRiZGVjdUE5U2dJUDlickgzLU0tallwejlqZWI1NGR0aThJZU42TS1sbS1fNGhQdVdXbm5ZbmNoTloyOXliUmV5NDVCVjRDRF9DcEs4a3dZekpOODZPRlNpYk1YTUliWXphVXpNY19kRVA5VUtaVUdWa01XTTNDclB2cmc2YTAybkhDenNnYTZMMmZ5SUpRT0NT",
@@ -2437,21 +2514,21 @@
   },
   {
    "id": "879a9402fc13",
-   "title": "Nvidia’s Jensen Huang Says US ‘Absolutely Must’ Work With China On ‘Potentially Dangerous’ AI - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV0o2RV9OYnJQSTh4enB0d21yZnFsTTd4aEY0YnBwbzZ4VklPZURWTF9DT0w4M3d0RnlLcFJURHpLdThmRGRrQmhON1pLTVYzTldTSVBnODNqQVpmOG5lX1ctQ245akxjX0F2Q0hFRUl2NzNkUlFwUDFDZXVFWnJZTTg2OEo4OGhmbWVuQU1wQkx5bmx5VUE",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-15T12:48:47+00:00",
+   "title": "Nvidia’s Jensen Huang Says US ‘Absolutely Must’ Work With China On ‘Potentially Dangerous’ AI - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQanM1Tjd2WWlIQzdZNzNDVUxEU0dJYUYzSDh5bzBsbm9oWkV5ZzY2WEYxZTZGenpXb3lUUHBPV3JEQ0pUMkE5aWQ2T01pcW1CTmFWUHZfcWZGUlVQOVEtZHFfZUpMSVNFQ3Y0RHI1QTJmaXRrdTZYMmI2RHIwdHRFS0FXRnZENW16QUM1Rm5TZWpiLXZvSm5lV0t6eHU0clN6NFF2MWhIR2xlZVUzbEVvLXFpRUZ4SHhPUV9OYUVRZl9sWWgyYndnVWxqeGVzeEFkMndYTFNsUGpJSHFqNU9rU0Y2MlUyQQ",
+   "source": "Stocktwits",
+   "published_at": "2026-10-15T12:48:00+00:00",
    "outlets_count": 2,
    "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-15T12:48:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQanM1Tjd2WWlIQzdZNzNDVUxEU0dJYUYzSDh5bzBsbm9oWkV5ZzY2WEYxZTZGenpXb3lUUHBPV3JEQ0pUMkE5aWQ2T01pcW1CTmFWUHZfcWZGUlVQOVEtZHFfZUpMSVNFQ3Y0RHI1QTJmaXRrdTZYMmI2RHIwdHRFS0FXRnZENW16QUM1Rm5TZWpiLXZvSm5lV0t6eHU0clN6NFF2MWhIR2xlZVUzbEVvLXFpRUZ4SHhPUV9OYUVRZl9sWWgyYndnVWxqeGVzeEFkMndYTFNsUGpJSHFqNU9rU0Y2MlUyQQ"
+    },
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-15T12:48:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV0o2RV9OYnJQSTh4enB0d21yZnFsTTd4aEY0YnBwbzZ4VklPZURWTF9DT0w4M3d0RnlLcFJURHpLdThmRGRrQmhON1pLTVYzTldTSVBnODNqQVpmOG5lX1ctQ245akxjX0F2Q0hFRUl2NzNkUlFwUDFDZXVFWnJZTTg2OEo4OGhmbWVuQU1wQkx5bmx5VUE"
-    },
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-15T12:51:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQanM1Tjd2WWlIQzdZNzNDVUxEU0dJYUYzSDh5bzBsbm9oWkV5ZzY2WEYxZTZGenpXb3lUUHBPV3JEQ0pUMkE5aWQ2T01pcW1CTmFWUHZfcWZGUlVQOVEtZHFfZUpMSVNFQ3Y0RHI1QTJmaXRrdTZYMmI2RHIwdHRFS0FXRnZENW16QUM1Rm5TZWpiLXZvSm5lV0t6eHU0clN6NFF2MWhIR2xlZVUzbEVvLXFpRUZ4SHhPUV9OYUVRZl9sWWgyYndnVWxqeGVzeEFkMndYTFNsUGpJSHFqNU9rU0Y2MlUyQQ"
     }
    ],
    "category": "政策监管",
@@ -4157,6 +4234,23 @@
    "sentiment": 1
   },
   {
+   "id": "33fa4569bd99",
+   "title": "$英伟达 (NVDA.US)$ AI真的崩了，还有谁敢买……这也太可疑了吧！ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNm1mUWdlZ0N0U1NNX21RTjYyTGpXZUZ6bWpQZFVlYW9OVTBtejNuMW5oMXpWb2Frck4xcXZqWFk4TExVTlZITHdoU2hSODN0NloteHY1ZUhTRWZPMm1XODktUjNoU3pFLUt5YjV4LXVOcG1vMUM3bWs3SWRQQTRKcG5UTWh4aDhBZ3V6TlNXVWFFajgxc1FCX2YwRGF1SFpwMmVIWVUxMlB3UQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-15T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-15T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNm1mUWdlZ0N0U1NNX21RTjYyTGpXZUZ6bWpQZFVlYW9OVTBtejNuMW5oMXpWb2Frck4xcXZqWFk4TExVTlZITHdoU2hSODN0NloteHY1ZUhTRWZPMm1XODktUjNoU3pFLUt5YjV4LXVOcG1vMUM3bWs3SWRQQTRKcG5UTWh4aDhBZ3V6TlNXVWFFajgxc1FCX2YwRGF1SFpwMmVIWVUxMlB3UQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "95797419e3c8",
    "title": "NVIDIA releases GeForce 617.70 hotfix driver to fix G-SYNC Pulsar 320 FPS bug and black flashes - VideoCardz.com",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWi1Kalk2ckkyQWR6aW5jazBUSmVWZVlyQmpTd2NiUGZYTTNEbXJjNHJEbVNGdVdxcG5pMFhYQVFheUlheWFUMGZCZVRybm05TTZ2TVlVdjI3SUJSaGlfSTJRWjdGU0VEZ2lpYk5MbGFDa0dnZFFYZEtJS090aDlEUjU2b0VHNFV1eXg1bTRDRjZHY2l4elV1elF2WXV2Z1pvVnlrSWM4cGtFUW04ek84MlpVTmxxZ3pUN0N2M3FHU1c",
@@ -5014,6 +5108,23 @@
    "sentiment": -1
   },
   {
+   "id": "150bd62384ea",
+   "title": "Nvidia, AMD, Dell sell-off in global tech rout on AI funding worries - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhRTkZ4cjB1WFcxY0ZaekZ0anhJSW1MYlRMVV9pZzFacHJySWt5QkZaSEFoMmVBbVZKRzc0TmloQXkydmRSaGs5RW1vQjIyZ1hhQzFBSXN1ZGlJVmI1b2VKU1FIaXlZVTJBZHZZMUkxemJ1ZWZUY3E5Q205RWp1WFItS2FJMEx2Zjg4ejRHQy11UjRMbkFPSXJnSkluT01nMVNKbHRn0gGrAUFVX3lxTE1fQkI2UFBBMEExelZWTnRzQ1lzaE1Hdms2R3hjLW9tVmdsZ1hWNGdxRVE1VnlZWVBQU1ZZTW56SUJrYVNYX25QTFFOMExfZmpZY1RCRkpwZmFZX3d6T1BCdU5Rd3ZsME5zdHJhUFRkNG5KUHdkNUsyRHBjX3I1VWNpZkhWRVZ4eFZlS3Jhc1ZoS1dBbVpPRlFyTkRUd1pRNDNqMHNDTWgzV1VGaw",
+   "source": "CNBC",
+   "published_at": "2026-10-15T00:42:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-15T00:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhRTkZ4cjB1WFcxY0ZaekZ0anhJSW1MYlRMVV9pZzFacHJySWt5QkZaSEFoMmVBbVZKRzc0TmloQXkydmRSaGs5RW1vQjIyZ1hhQzFBSXN1ZGlJVmI1b2VKU1FIaXlZVTJBZHZZMUkxemJ1ZWZUY3E5Q205RWp1WFItS2FJMEx2Zjg4ejRHQy11UjRMbkFPSXJnSkluT01nMVNKbHRn0gGrAUFVX3lxTE1fQkI2UFBBMEExelZWTnRzQ1lzaE1Hdms2R3hjLW9tVmdsZ1hWNGdxRVE1VnlZWVBQU1ZZTW56SUJrYVNYX25QTFFOMExfZmpZY1RCRkpwZmFZX3d6T1BCdU5Rd3ZsME5zdHJhUFRkNG5KUHdkNUsyRHBjX3I1VWNpZkhWRVZ4eFZlS3Jhc1ZoS1dBbVpPRlFyTkRUd1pRNDNqMHNDTWgzV1VGaw"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘后"
+  },
+  {
    "id": "b4e8646815b4",
    "title": "美股讯号 | 英伟达跌超1%，科技七巨头多数下滑 ｜#美股资讯# #英伟达# #股价波动# - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHowR2VwVXVTN2dUeGRRV3ljb2lQZndremZZQlQzdjZNVUsyN2xEQnI4cWZmXzlUeE9DV3lrNE1jYmN4c3VvYk5zLUdqNERzWEZmaWVDb1dJdGo2WDZWRjd0bFJEQms5T3k1VFJHOHJqNDVlaks4N3F0NDlRblR3LVcyT00tOFpORE5qSQ",
@@ -5099,6 +5210,23 @@
    "sentiment": 1
   },
   {
+   "id": "a46e4a7c279d",
+   "title": "AI借贷狂潮引爆担忧！英伟达“亲儿子”债券收益率逼近15% 科技板块重挫 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LR05aVEswVjFRT2dGSUh0dWtYa1hPSS03R3ZaNUZDQkE2VDVHeHhsTTJ1YWdROUJxT3A4NjExN2hRR2dnMVctXw",
+   "source": "财联社",
+   "published_at": "2026-10-15T00:07:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-15T00:07:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LR05aVEswVjFRT2dGSUh0dWtYa1hPSS03R3ZaNUZDQkE2VDVHeHhsTTJ1YWdROUJxT3A4NjExN2hRR2dnMVctXw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "5c8efa31ab6c",
    "title": "美股讯号 | 英伟达受美联储加息预期影响，芯片股集体重挫 ｜#美股资讯# #英伟达# #股价波动# - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPczFaT2hzQkd0bDU3bzBZZFJJUDRNRGZzTTN1TkNUT0c4V19kR01QMjNGU2VxWkRacU5kejZxQ2JOSWd5SHY4eV9xLS10b21mZU5yZW5KSVpFTF9QUXhXYUI5ZUgwSFU1NVhkRzVULWU0Nm9OQjNSdFU5WkdzdEpucm5XTmp5ZTNhbVQ3Wg",
@@ -5177,26 +5305,6 @@
    "zh_summary": "英伟达RTX Spark首发支持数十款游戏",
    "title_zh": "英伟达称RTX Spark首发支持数十款AAA游戏 正推进反作弊兼容 - 搜狐",
    "sentiment": 1
-  },
-  {
-   "id": "a6f81383df6b",
-   "title": "英伟达的CoreWeave困局：被迫救援还是坐视不管？ - 华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlSVlHWXBEaUo5T2xiY2VSWlJYd1JPcE8zNE81b21yblgyTEU0cVFOTUoxSFNHbEZTQUpxVE85NWdiSkdzSzlrbGN6UTQ3QWZ1Z2Fj",
-   "source": "华尔街见闻",
-   "published_at": "2026-10-14T23:58:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-14T23:58:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlSVlHWXBEaUo5T2xiY2VSWlJYd1JPcE8zNE81b21yblgyTEU0cVFOTUoxSFNHbEZTQUpxVE85NWdiSkdzSzlrbGN6UTQ3QWZ1Z2Fj"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达或被迫救援CoreWeave，陷入两难",
-   "title_zh": "英伟达的CoreWeave困局：被迫救援还是坐视不管？",
-   "sentiment": 0
   },
   {
    "id": "de6df57fa3fd",
@@ -6372,131 +6480,6 @@
    "session": "盘中",
    "zh_summary": "Broadcast2.3.0新增RTX视频超分",
    "title_zh": "NVIDIA Broadcast 2.3.0新增RTX视频超分与帧生成",
-   "sentiment": 1
-  },
-  {
-   "id": "396520652df9",
-   "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw",
-   "source": "财联社",
-   "published_at": "2026-10-14T16:57:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-14T16:57:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋称AI投资回报率已有答案",
-   "title_zh": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
-   "sentiment": 1
-  },
-  {
-   "id": "eda06e0c7f6a",
-   "title": "NVIDIA Unveils cuPotential as Semiconductor Leaders Adopt CUDA-X - Unite.AI",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSTBlMkt5YnRVNk1IT3psUzdWQ1JYTkdfYi1saEZOWTlJZS12Z3BJeC1YcEl1dWNRLTJBVDliaWdrbXBaTUJidU5ObDFFeUJaYkFBbUlhRjZvb3JwVTloTzNWbDVBZ0ZzUnZHeEpHUUlqZVA2RmJOTjNzMmoyS0dkTVZUY2ZmMlJZTG5NVi1wSQ",
-   "source": "Unite.AI",
-   "published_at": "2026-10-14T16:48:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Unite.AI",
-     "published_at": "2026-10-14T16:48:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSTBlMkt5YnRVNk1IT3psUzdWQ1JYTkdfYi1saEZOWTlJZS12Z3BJeC1YcEl1dWNRLTJBVDliaWdrbXBaTUJidU5ObDFFeUJaYkFBbUlhRjZvb3JwVTloTzNWbDVBZ0ZzUnZHeEpHUUlqZVA2RmJOTjNzMmoyS0dkTVZUY2ZmMlJZTG5NVi1wSQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达推出cuPotential计算库",
-   "title_zh": "英伟达发布cuPotential，多家半导体龙头采用CUDA-X",
-   "sentiment": 1
-  },
-  {
-   "id": "ef1c16a78f7b",
-   "title": "英伟达日内跌幅达3% - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMVDEtbl9vTHl0Y2ZOa1U0R2hOYVdIVk5uU1ctRFZDM1dmM0NpaWFSZEt0SDJDM2ZKQWh5X2JzNGwwWkU2aUs1cUYxUkNzNGdVWk1iRHlSbjNTeFpWUkJucA",
-   "source": "东方财富",
-   "published_at": "2026-10-14T16:34:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-14T16:34:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMVDEtbl9vTHl0Y2ZOa1U0R2hOYVdIVk5uU1ctRFZDM1dmM0NpaWFSZEt0SDJDM2ZKQWh5X2JzNGwwWkU2aUs1cUYxUkNzNGdVWk1iRHlSbjNTeFpWUkJucA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达日内跌幅达3%",
-   "title_zh": "英伟达日内跌幅达3% - 东方财富",
-   "sentiment": -1
-  },
-  {
-   "id": "b9da61d9faef",
-   "title": "Nvidia Stock NVDA Falls Toward $220 as Data-Center Debt Weigh on Sentiment - FXLeaders",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZBQkJZNXBRblJDUV93a1Rlbld0MWdnNU9GMGkyd3dUWHBhVzVMUTUzYVpvZEZ4cjdZRkZGRW9PaTVqTmpmcDFyZGxCYmxmNFlWOHIzYXNxWHNnMng2cVIzWTNPVk56T1JtY0tKODdaV3dwN0FhYTdFbnB1cnJuOFN5dTUtbVBONUltOGZhOXl5VVJuZVVxRnF4UXJkRGR5MzNmeU1QcjF1LWJGRThQX0VValYyUVE",
-   "source": "FXLeaders",
-   "published_at": "2026-10-14T16:30:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FXLeaders",
-     "published_at": "2026-10-14T16:30:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZBQkJZNXBRblJDUV93a1Rlbld0MWdnNU9GMGkyd3dUWHBhVzVMUTUzYVpvZEZ4cjdZRkZGRW9PaTVqTmpmcDFyZGxCYmxmNFlWOHIzYXNxWHNnMng2cVIzWTNPVk56T1JtY0tKODdaV3dwN0FhYTdFbnB1cnJuOFN5dTUtbVBONUltOGZhOXl5VVJuZVVxRnF4UXJkRGR5MzNmeU1QcjF1LWJGRThQX0VValYyUVE"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘中",
-   "zh_summary": "NVDA跌向220美元，数据中心债务担忧",
-   "title_zh": "英伟达股价跌向220美元，数据中心债务担忧",
-   "sentiment": -1
-  },
-  {
-   "id": "7dfb6ccb7b1f",
-   "title": "Nvidia launches cuPotential library for chip manufacturing - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZllaQmUyTDNWbm5hU052YkZyT3hOY01PWm1VVWdKQVdYUG8xbjR2TGJfRUhVVWRSem5xSGRRWlhDa2FyckROTGUzeVVQUDlSUzh1dFZEbFNhRFdKREVKeXp5c1VoQnB0N1FTOVNicjFRbmIxcVBTMHhKRGhJcWg2ZEFDdGlhenBfTXBGemtaeExnTHh0UTFzU0Judlg3QTN4d0ZybkxiLW5HNXNXaXpyOXV6ellWZw",
-   "source": "Investing.com",
-   "published_at": "2026-10-14T16:25:32+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-14T16:25:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZllaQmUyTDNWbm5hU052YkZyT3hOY01PWm1VVWdKQVdYUG8xbjR2TGJfRUhVVWRSem5xSGRRWlhDa2FyckROTGUzeVVQUDlSUzh1dFZEbFNhRFdKREVKeXp5c1VoQnB0N1FTOVNicjFRbmIxcVBTMHhKRGhJcWg2ZEFDdGlhenBfTXBGemtaeExnTHh0UTFzU0Judlg3QTN4d0ZybkxiLW5HNXNXaXpyOXV6ellWZw"
-    },
-    {
-     "name": "The Tech Buzz",
-     "published_at": "2026-10-14T16:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON3JadG0wZzlWNjRkRjVCb2YxWnFBMmFqOHNERUtibVlRTUY3TnVjNjFMdDRyVHVEU0NncnlzS1ZNZkRBRXV5MnIweW5oRXFzcmRqQktkdldaTGpOXzl4MjlHLTBrQnEwX0FGaE9oci1aTExtUWR3SXR0MzNZYlJhU0Q4MHJfc0JTS3RPY2JLb3RhR0RQZkxnNURB"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达发布芯片制造工具cuPotential",
-   "title_zh": "英伟达发布cuPotential芯片制造库",
-   "sentiment": 1
-  },
-  {
-   "id": "7ff4b026548f",
-   "title": "Nvidia unveils AI tools to accelerate chipmaking - Breakingthenews.net",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFc2Tm5PSnVEdFZpNkpXYWNHWDlPWEZsaDEtRmtyQXFKMkFoR2VzZWRXam1vT1RJSEdGb0VSWFctUldyckdxYnUxbkNHaVZCRE5GVmoxOWNoTlJqdmFzTHNDYlpmSFhGdHowOXRtdUJPaHF2Q2dRV181MkowcGdaUXRtcGI0SFBHLW12VERkVFJ1LTVKNk1RMw",
-   "source": "Breakingthenews.net",
-   "published_at": "2026-10-14T16:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Breakingthenews.net",
-     "published_at": "2026-10-14T16:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFc2Tm5PSnVEdFZpNkpXYWNHWDlPWEZsaDEtRmtyQXFKMkFoR2VzZWRXam1vT1RJSEdGb0VSWFctUldyckdxYnUxbkNHaVZCRE5GVmoxOWNoTlJqdmFzTHNDYlpmSFhGdHowOXRtdUJPaHF2Q2dRV181MkowcGdaUXRtcGI0SFBHLW12VERkVFJ1LTVKNk1RMw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达发布AI芯片制造加速工具",
-   "title_zh": "英伟达发布AI芯片制造加速工具",
    "sentiment": 1
   }
  ]
