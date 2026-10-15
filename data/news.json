@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T05:36:31.276965+00:00",
+ "updated_at": "2026-10-15T05:51:34.862466+00:00",
  "market": {
   "price": 221.3,
   "change_pct": -3.16,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 1.0,
-   "count": 2
+   "count": 3
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.00（2条已评分）"
+     "note": "今日新闻情绪 +1.00（3条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 42.3,
    "ma20": 228.69,
-   "as_of": "2026-10-15T05:36:31.265675+00:00"
+   "as_of": "2026-10-15T05:51:34.850325+00:00"
   },
   "pe_ttm": 28.1,
   "pe_pct_5y": 25,
@@ -4117,26 +4117,6 @@
    "sentiment": 1
   },
   {
-   "id": "c14281e1fda0",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by Glenview Trust Co - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T08:09:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T08:09:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Glenview Trust减持英伟达股份",
-   "title_zh": "Glenview Trust出售英伟达$NVDA股票",
-   "sentiment": 0
-  },
-  {
    "id": "329bba1f810b",
    "title": "Riverlane And Nvidia Speed Up Quantum Error Correction With AI - Quantum Zeitgeist",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84LTRSUTY4bXBJeXZiUVAtZlZJMUdXOEpDeXp0dVQ5d0RHQlgtY1RVNWV5TzFTZDRadnIwaE83ZF9fWDlKZFktMkZyRDhRNGlXR19JbzhKQi1hUE5qOGpUaDZMS3A2TXRZRlBHMnpNLUoyd3NDSUpNMkpWaw",
@@ -6653,6 +6633,23 @@
    "zh_summary": "英伟达DLSS 5速度翻倍、显存占用减少",
    "title_zh": "英伟达发布RTX Spark：DLSS 5速度翻倍、显存更省",
    "sentiment": 1
+  },
+  {
+   "id": "65e559db821a",
+   "title": "Why Nvidia Stock Is Up Even as Microsoft Launches the Maia 300 - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkt5Y3pFZXJHTFMtVjBsRS03eGdxUkFudlQwQ0JUWjlRT3JHOWxnMXlNaE9vOHhLTUdGWVNMWDFibUhzSDdielo5OThVbU85bTBMdllNZXJYSFNScVZrdEVkYVZSUlVfVGYyS29BR1dwMVM4c1E5eE1nc0JhTy1uRTFXRVZFeEFLNmpmOQ",
+   "source": "Barron's",
+   "published_at": "2026-10-13T18:53:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-13T18:53:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkt5Y3pFZXJHTFMtVjBsRS03eGdxUkFudlQwQ0JUWjlRT3JHOWxnMXlNaE9vOHhLTUdGWVNMWDFibUhzSDdielo5OThVbU85bTBMdllNZXJYSFNScVZrdEVkYVZSUlVfVGYyS29BR1dwMVM4c1E5eE1nc0JhTy1uRTFXRVZFeEFLNmpmOQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   }
  ]
 }
