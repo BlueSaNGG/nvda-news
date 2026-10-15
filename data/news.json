@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T19:36:34.991954+00:00",
+ "updated_at": "2026-10-15T19:51:39.167323+00:00",
  "market": {
-  "price": 217.39,
-  "change_pct": -1.77,
+  "price": 217.26,
+  "change_pct": -1.83,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.35,
-   "count": 213
+   "count": 215
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 71% 分位"
+     "note": "现价处于52周区间 70% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +44.9%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.35（213条已评分）"
+     "note": "今日新闻情绪 +0.35（215条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.39 vs 20日均线 $228.59"
+     "note": "现价 $217.26 vs 20日均线 $228.59"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 71,
+   "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 44.9,
+   "implied_upside_pct": 45.0,
    "ma20": 228.59,
-   "as_of": "2026-10-15T19:36:34.977105+00:00"
+   "as_of": "2026-10-15T19:51:39.153039+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "627d56d0edd7",
+   "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yUUM5S3dabkpGNmw0elRibGZTMVh3VExkeXlGWFU5QjFLLXBTWlhIb0JHVmMxM09UOXZNUm9HbVhSMktFMjNfZExqdWdZUk9PSEEwR3pBbVpXa2lqdTdxaUNEM0d2RzkxZDNZQ0otMWs5bE9ISklhRlpITlhKWnfSAYQBQVVfeXFMTkhDdXRCanpLQTdBclpTWE1MYVhRdXUxZVA0M0lyYnJnaXNoTG9LeHZwYUtLTVF1bXBiUk03SWVWeDU3b09jVldEenRMaEpkdGF5U0lZMDd0cDhHMUFEaHFERkQwRVRNSFBsT3UwVFZ1NHo5NzVwUDNyZ2d3NDMyemkyWEh2",
+   "source": "CNBC",
+   "published_at": "2026-10-15T19:42:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-15T19:42:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yUUM5S3dabkpGNmw0elRibGZTMVh3VExkeXlGWFU5QjFLLXBTWlhIb0JHVmMxM09UOXZNUm9HbVhSMktFMjNfZExqdWdZUk9PSEEwR3pBbVpXa2lqdTdxaUNEM0d2RzkxZDNZQ0otMWs5bE9ISklhRlpITlhKWnfSAYQBQVVfeXFMTkhDdXRCanpLQTdBclpTWE1MYVhRdXUxZVA0M0lyYnJnaXNoTG9LeHZwYUtLTVF1bXBiUk03SWVWeDU3b09jVldEenRMaEpkdGF5U0lZMDd0cDhHMUFEaHFERkQwRVRNSFBsT3UwVFZ1NHo5NzVwUDNyZ2d3NDMyemkyWEh2"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "8f2531191453",
    "title": "CoreWeave Stock Snaps Back as Nvidia CEO Signals Support - Benzinga",
@@ -5441,26 +5458,6 @@
    "zh_summary": "英伟达RTX Spark首发支持数十款游戏",
    "title_zh": "英伟达称RTX Spark首发支持数十款AAA游戏 正推进反作弊兼容 - 搜狐",
    "sentiment": 1
-  },
-  {
-   "id": "a6f81383df6b",
-   "title": "英伟达的CoreWeave困局：被迫救援还是坐视不管？ - 华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlSVlHWXBEaUo5T2xiY2VSWlJYd1JPcE8zNE81b21yblgyTEU0cVFOTUoxSFNHbEZTQUpxVE85NWdiSkdzSzlrbGN6UTQ3QWZ1Z2Fj",
-   "source": "华尔街见闻",
-   "published_at": "2026-10-14T23:58:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-14T23:58:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlSVlHWXBEaUo5T2xiY2VSWlJYd1JPcE8zNE81b21yblgyTEU0cVFOTUoxSFNHbEZTQUpxVE85NWdiSkdzSzlrbGN6UTQ3QWZ1Z2Fj"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达或被迫救援CoreWeave",
-   "title_zh": "英伟达的CoreWeave困局：被迫救援还是坐视不管？ - 华尔街见闻",
-   "sentiment": -1
   },
   {
    "id": "de6df57fa3fd",
