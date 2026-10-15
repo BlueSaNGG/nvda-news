@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T06:51:28.369899+00:00",
+ "updated_at": "2026-10-15T07:06:27.495768+00:00",
  "market": {
   "price": 221.3,
   "change_pct": -3.16,
@@ -10,12 +10,12 @@
    "days_left": 33
   },
   "day_sentiment": {
-   "avg": 0.75,
-   "count": 4
+   "avg": 0.4,
+   "count": 5
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.75（4条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.40（5条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 42.3,
    "ma20": 228.69,
-   "as_of": "2026-10-15T06:51:28.349589+00:00"
+   "as_of": "2026-10-15T07:06:27.479996+00:00"
   },
   "pe_ttm": 28.1,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "046a21b8a716",
+   "title": "性能最高提升35%：非官方英伟达DLSS预设C登场，RTX 30系列显卡也能用 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR1FhbnVOXzhDMkVMUE4yamEwT3R5bEdLUDlWNzJvaHdobDBEOEl2T3BMdjFPdDYtRndKWTZxRF9pcHRkRlZhNFVNcE1fYm1xRUduclJhSmxpbmpUVjRFVVlIN2stNm5FdTVyc1g2NHpiMzNkNUdqWnBmVmVuQXBZVE9IaEtFTDRB",
+   "source": "搜狐",
+   "published_at": "2026-10-15T06:50:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T06:50:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR1FhbnVOXzhDMkVMUE4yamEwT3R5bEdLUDlWNzJvaHdobDBEOEl2T3BMdjFPdDYtRndKWTZxRF9pcHRkRlZhNFVNcE1fYm1xRUduclJhSmxpbmpUVjRFVVlIN2stNm5FdTVyc1g2NHpiMzNkNUdqWnBmVmVuQXBZVE9IaEtFTDRB"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "43ceff5b3cae",
    "title": "Rep. Daniel Meuser Sells Shares of NVIDIA Corporation (NASDAQ:NVDA) - MarketBeat",
@@ -592,12 +609,17 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyWFFuVHo5NHB3OEhPTkV6ZTN4R3Q1YTM1WUZLTWVsM0JBQ0xTSHJDa3Z2Z1l6Z0hHSkZBWTNIaVpYQk1XQnk4ZTROVjRpRkxuRWRiOXRnSmdtZ3RuMUVfSXR1V2dQckMtSmZrYk5Eemsxb2Qz",
    "source": "金融界",
    "published_at": "2026-10-15T00:46:57+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "金融界",
      "published_at": "2026-10-15T00:46:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyWFFuVHo5NHB3OEhPTkV6ZTN4R3Q1YTM1WUZLTWVsM0JBQ0xTSHJDa3Z2Z1l6Z0hHSkZBWTNIaVpYQk1XQnk4ZTROVjRpRkxuRWRiOXRnSmdtZ3RuMUVfSXR1V2dQckMtSmZrYk5Eemsxb2Qz"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T00:46:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWGc4SFFwOGdLREM0SnJuQVdYQm4zN2xpUUNvZlBlOWV5Rm8wX3lOakdPVTdBVVFiU0h3bUJYVjNqazYxOXc0YjlwTy05Y1d1ckdxcnJ4cWFfblpTUkJIeFRlcmdBb0d2dFZGMUpTaTh0SnpmdE9zckJjVE5rakhtMy01Zm10Y0Zl"
     }
    ],
    "category": "其他",
@@ -3099,6 +3121,23 @@
    "sentiment": 1
   },
   {
+   "id": "e92c33018a7f",
+   "title": "英伟达DLSS 5半年提速10倍 神经渲染技术迎来颠覆性变革新机遇 - 36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aZmlTeVlTZGo4WGQyZnB5Yk5NcXNHLUM0T0tZWTFjcFBFMHdicDlsSTZCRjVYcm1IMWNsX3FST1RYR3ltU0N5WF9FUEg3R245eEYw",
+   "source": "36 Kr",
+   "published_at": "2026-10-14T13:18:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "36 Kr",
+     "published_at": "2026-10-14T13:18:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aZmlTeVlTZGo4WGQyZnB5Yk5NcXNHLUM0T0tZWTFjcFBFMHdicDlsSTZCRjVYcm1IMWNsX3FST1RYR3ltU0N5WF9FUEg3R245eEYw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "0290d9e2722c",
    "title": "$英伟达 (NVDA.US)$ - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yelN5SkNvUUhDY0lpcHU1clZrRjJQa2VqUWJHb19vUWdZQmRkbmlFYnVNSEh6dXdJT0lvalNhR09XZFVudlF3Mi1zZ0lUZmI3NjFDNnZZNUx6andseExJdy1xNThwcXo0X2dFczIzclRqY1EyaE5yY2FDZHVMUQ",
@@ -4147,9 +4186,9 @@
    "sentiment": -1
   },
   {
-   "id": "be69121a87a8",
-   "title": "NVIDIA Corporation $NVDA Shares Newly Purchased by Maxele Advisors LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVhUUDhrdnJnYmM0czZaMXNuTXZYZHJXMGNTbmRjLWpEeUpoanNRbC1mcEtxRUdheEp3cDMxNENoUkJQamlRaWZ4Wmtac2tvMVRKSi1wMF9HOUd3dTFZdmp5ZGdySFNJdDN2VGpXT0RrOVlnLUpSUTdyZkY3UXgyMGVxandxR0NVakVtNzQyNWNyaURoVmRKM2toZVpmV2VUV3dYT3VxdF9hUUgxUEZLSnczM0RwcXFQVjQwbW1TdFVXWVhZb2NLQURR",
+   "id": "c14281e1fda0",
+   "title": "NVIDIA Corporation $NVDA Shares Sold by Glenview Trust Co - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0",
    "source": "MarketBeat",
    "published_at": "2026-10-14T08:09:42+00:00",
    "outlets_count": 1,
@@ -4157,14 +4196,11 @@
     {
      "name": "MarketBeat",
      "published_at": "2026-10-14T08:09:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVhUUDhrdnJnYmM0czZaMXNuTXZYZHJXMGNTbmRjLWpEeUpoanNRbC1mcEtxRUdheEp3cDMxNENoUkJQamlRaWZ4Wmtac2tvMVRKSi1wMF9HOUd3dTFZdmp5ZGdySFNJdDN2VGpXT0RrOVlnLUpSUTdyZkY3UXgyMGVxandxR0NVakVtNzQyNWNyaURoVmRKM2toZVpmV2VUV3dYT3VxdF9hUUgxUEZLSnczM0RwcXFQVjQwbW1TdFVXWVhZb2NLQURR"
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0"
     }
    ],
    "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Maxele Advisors新买入NVDA股票",
-   "title_zh": "Maxele Advisors LLC新建仓买入英伟达股票",
-   "sentiment": 1
+   "session": "盘前"
   },
   {
    "id": "329bba1f810b",
@@ -6636,51 +6672,6 @@
    "zh_summary": "DLSS 5在霍格沃茨之遗性能翻倍",
    "title_zh": "英伟达称DLSS 5在《霍格沃茨之遗》性能翻倍",
    "sentiment": 1
-  },
-  {
-   "id": "e540d66c5a3d",
-   "title": "Nvidia Stocks Fall as Copenhagen Adds a Blackwell Deployment - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0F2TXE3ajFaSnY4cVljY0RabDZ5VHlUTU1aS2tQYkZyaFVwQ1RtSnNfWTVXOUNLc1hYME9PLS10VnpZTEkxTzZBZG1UdE94dURNck05VURLSnMyVFphRXE4WVQxXzF1TDhZZ3lzVGRGcFhpNV9aWFFSa3pFYl94VGhTeGhmTnp3dE1DNV9zcThiNUkwVW4zQmFTZGJjSGFQUXZYU2s4eThybEFlamhWUnFZLTRSaDVQck5udw",
-   "source": "TradingView",
-   "published_at": "2026-10-13T19:09:01+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-13T19:09:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0F2TXE3ajFaSnY4cVljY0RabDZ5VHlUTU1aS2tQYkZyaFVwQ1RtSnNfWTVXOUNLc1hYME9PLS10VnpZTEkxTzZBZG1UdE94dURNck05VURLSnMyVFphRXE4WVQxXzF1TDhZZ3lzVGRGcFhpNV9aWFFSa3pFYl94VGhTeGhmTnp3dE1DNV9zcThiNUkwVW4zQmFTZGJjSGFQUXZYU2s4eThybEFlamhWUnFZLTRSaDVQck5udw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-13T19:09:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3Uwbl8wWU5ERnRPbTBlT0lNelZXVDRYRW5lRTk2eUtKYjBKNmlGbU1WX2ZyODRlck16N3BqMEtoa2VqTGM1QlRnbXlqMFFJQnB6M0xGX3lnVWhQQXVPMkFvTVVSMHJ4UDBwWk92d0VIWGVVWVlNVzNrU3lWN2hDWlIzLVpjY0U5QkJHb095eHlwa0dvQmE3aGx6NC1ZYnpJ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "哥本哈根新增Blackwell部署",
-   "title_zh": "哥本哈根新增Blackwell部署，英伟达股价下跌",
-   "sentiment": -1
-  },
-  {
-   "id": "1230043d872d",
-   "title": "Nvidia buys stakes in French tech startups Doctolib, Genesis AI - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI",
-   "source": "Reuters",
-   "published_at": "2026-10-13T18:56:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-13T18:56:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达入股法国AI初创公司",
-   "title_zh": "英伟达入股法国科技初创公司Doctolib和Genesis AI",
-   "sentiment": 0
   }
  ]
 }
