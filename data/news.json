@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T07:06:27.495768+00:00",
+ "updated_at": "2026-10-15T07:21:29.110772+00:00",
  "market": {
   "price": 221.3,
   "change_pct": -3.16,
@@ -10,12 +10,12 @@
    "days_left": 33
   },
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 5
+   "avg": 0.5,
+   "count": 6
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.40（5条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（6条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 42.3,
    "ma20": 228.69,
-   "as_of": "2026-10-15T07:06:27.479996+00:00"
+   "as_of": "2026-10-15T07:21:29.092505+00:00"
   },
   "pe_ttm": 28.1,
   "pe_pct_5y": 25,
@@ -447,6 +447,23 @@
    "sentiment": 1
   },
   {
+   "id": "4a0df6915dbe",
+   "title": "NVIDIA RTX Spark Launch Week: DLSS 5 Doubles Speed [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oMHgxY21UcDN0ZVUzWUVuZzBpOHVtV1hXdW5FV3RTbUlUcUJOVEtlZjRzNzNFRFFzV1NHZHpCYjYxR0dUd3ExYVFSNENIS2txLWpQanRRYUxiWG9Gb0RjSGx1S2xkcnlFQjBRVzBpcw",
+   "source": "shattered.io",
+   "published_at": "2026-10-15T02:02:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-15T02:02:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oMHgxY21UcDN0ZVUzWUVuZzBpOHVtV1hXdW5FV3RTbUlUcUJOVEtlZjRzNzNFRFFzV1NHZHpCYjYxR0dUd3ExYVFSNENIS2txLWpQanRRYUxiWG9Gb0RjSGx1S2xkcnlFQjBRVzBpcw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "a8f802781e8c",
    "title": "博通跌至346美元：AI芯片收入暴涨221%，英伟达之外的另一家万亿巨头 - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamUtYmRrYVlua0w4UnkzNWJDOVAyeTZZVlFQc21yeVpwdzVjZkZtUXluRjN6UFBQREJhWWNPTWhtSmVTSHJzNFZ5NkJzOXpvcFZueHNEUkMxTFFkOXFESERRYThCTTl1TFFObVhyT0F1eTNWUFpuUU9keVBrT1FGdl9hNTNHVlJzR1ZOS1NaZDFXbUxTeTJpUzVpb3A0cDZ6WV9RaFAwQWJZaVRQc0MtUVh0dnM4RXY0",
@@ -591,12 +608,12 @@
    "title": "AMD跑赢英伟达！背后竟是一款中国开源软件 - 华尔街见闻",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0eHBJVE5RMlhvVzVGeWxSMlFkbDlKNzdaNkFuNEFmVm00R01RU1dQdUFzMXc5TVZ6QkZDQXBFTE0yNXlITHZSeTVZQXVZUDlhMGc",
    "source": "华尔街见闻",
-   "published_at": "2026-10-15T01:09:38+00:00",
+   "published_at": "2026-10-15T01:06:00+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "华尔街见闻",
-     "published_at": "2026-10-15T01:09:38+00:00",
+     "published_at": "2026-10-15T01:06:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0eHBJVE5RMlhvVzVGeWxSMlFkbDlKNzdaNkFuNEFmVm00R01RU1dQdUFzMXc5TVZ6QkZDQXBFTE0yNXlITHZSeTVZQXVZUDlhMGc"
     }
    ],
@@ -1176,26 +1193,6 @@
    "zh_summary": "英伟达与Anthropic就AI安全表态",
    "title_zh": "英伟达与Anthropic就AI安全保障表态",
    "sentiment": 0
-  },
-  {
-   "id": "f0192f4c0902",
-   "title": "NVIDIA (NASDAQ:NVDA) Shares Down 3.2% - Time to Sell? - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2xiX0hKR3B1NUdLYkNnS25YZDJwSTB2NHozd1NWZGozOXF5YnhzWng5V05BY2Y1dUljMFd1SlRFbDRNUV91bzRvSjdSZW8yMHlQQVFhcEJHQTduTlFvVG5paFA2bG54TGh6V2ktb1RnanJrOFdETUd2ZXFqbU1jbGNjZ01ROTNQUWpnRmxsWnJJa1FQaXkwVVpURFBQeUxXdVV6NWMtUTA1UQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-14T21:35:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-14T21:35:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2xiX0hKR3B1NUdLYkNnS25YZDJwSTB2NHozd1NWZGozOXF5YnhzWng5V05BY2Y1dUljMFd1SlRFbDRNUV91bzRvSjdSZW8yMHlQQVFhcEJHQTduTlFvVG5paFA2bG54TGh6V2ktb1RnanJrOFdETUd2ZXFqbU1jbGNjZ01ROTNQUWpnRmxsWnJJa1FQaXkwVVpURFBQeUxXdVV6NWMtUTA1UQ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘后",
-   "zh_summary": "英伟达股价下跌3.2%，是否该抛售",
-   "title_zh": "英伟达(NASDAQ:NVDA)股价下跌3.2%：是否该抛售",
-   "sentiment": -1
   },
   {
    "id": "c4bb9d832490",
@@ -2021,12 +2018,17 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OZzkzOGUzQWc2cTdsRTI0ZnVwTUpMWGFUandmcG53R1B5TndGNDBIZTZDYzNHdUE4VnVGTGtKX181ZmZfUEFoRXh1VzNvU2cweGVYbF9rM0VhcVVvRHB2WQ",
    "source": "东方财富",
    "published_at": "2026-10-14T16:18:16+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "东方财富",
      "published_at": "2026-10-14T16:18:16+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OZzkzOGUzQWc2cTdsRTI0ZnVwTUpMWGFUandmcG53R1B5TndGNDBIZTZDYzNHdUE4VnVGTGtKX181ZmZfUEFoRXh1VzNvU2cweGVYbF9rM0VhcVVvRHB2WQ"
+    },
+    {
+     "name": "观点网",
+     "published_at": "2026-10-15T07:15:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlTXJIbTJvaGZSR1JvOTlpZHF5dnA5NW9fQ2E4RFdoeUN5anNQZVJwZXhkN05LcTU1bERXWjRRVVEwOUxaYnF4c0M5a0FYb1Y3OUNpdXEwNjdwQ0dYNS1NOEdR"
     }
    ],
    "category": "产品技术",
@@ -4990,45 +4992,6 @@
    "sentiment": 1
   },
   {
-   "id": "90afee6228ad",
-   "title": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN001cXBCdFZ4bTFlSUIwem8xamFyeVliaU4yTDRoWlo0NlpBMmVPTDFMV0xKa2ZjRkpwckFHRXBLcjY5Vi0xSU1TdW9COTQ3d1ZnN1NCdS12Z0ZZMzc5dFYwb2pRaDJvYWhvSF9GV0o1dVZuaGpVeG5qbThxYTFQVWsxTDFLV1YtcVRrOVowdDR0M29FamZmaUU4WFJ4QzA",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-14T06:01:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-14T06:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN001cXBCdFZ4bTFlSUIwem8xamFyeVliaU4yTDRoWlo0NlpBMmVPTDFMV0xKa2ZjRkpwckFHRXBLcjY5Vi0xSU1TdW9COTQ3d1ZnN1NCdS12Z0ZZMzc5dFYwb2pRaDJvYWhvSF9GV0o1dVZuaGpVeG5qbThxYTFQVWsxTDFLV1YtcVRrOVowdDR0M29FamZmaUU4WFJ4QzA"
-    },
-    {
-     "name": "NVIDIA Newsroom",
-     "published_at": "2026-10-14T06:08:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObFZSeVlfYXk3T3JDamt0enRzU3UwYVpvSmlfcVlrdkJSbmtxSTg2eVR5bkRYNmlHVDdDeWtiVVBmYUdyajNSRWhwTkRxVTltaGVIVEg2VGJ2ZU5nb1RETW9jMnVFbWtNWF9OZUdSeGZnZ0FxNExYZVJzSlFtQ25tdVpSbmlYUlVYVC1LQW5DN01Lck9pNWNXdGlIOF90UVhERzBjMGtJVEVqUWJIb1Zsdm5OSkdPV0xmT1BaZ1h6M1NtNjdzYklhOUNudko0V2dxLXRn"
-    },
-    {
-     "name": "Quiver Quantitative",
-     "published_at": "2026-10-14T06:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2owOVdkdEF1VWhlVWRieXFIUERlaVlodi1BSmd2TmN2LVNmOTBtZjJjVGNHb2lNTUFiSzdiZm8zWG95V3lDODFaUXZnc3dBTTVVMFpaZW14UnVXX1dVOWROWDZhaXFObWgxTHZQTHlxMVFmeVJGdFd2M1BtQWtabW9nSHF2MzdTMmlrWTJUaWY4V2FQaEFiOWtfc05SbS1obi0yblUwYXhEMEZ2Q0dnYTk4WnJyLVBudGR0V0VyZm5hZ3phdkE"
-    },
-    {
-     "name": "Pulse 2.0",
-     "published_at": "2026-10-14T16:31:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORk5QUHVaR1RUZ1FYenlzQnpzQ1l4YXVsQzNPMkdja3dQTTJtbXhSVGhQcFFUd3hBTHdXdFJ3UmhvR0lYZzVGdC12NWNkZVFJWEQ5RUVZWUY2SDVwWWRRVUxxV1hPZU1KN29MN0dJSldOV2R4Q2oya19oVXR4VGhvbFdvUzVqTkxFdFhVSndZYVItOG1BZ2JNZDFqemQxb25vQ3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达未来五年投2.5亿美元促英国研究",
-   "title_zh": "英伟达承诺未来五年投入2.5亿美元推进英国智能体安全研究",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.06,
-    "window_h": 0.1
-   }
-  },
-  {
    "id": "8d5485849af8",
    "title": "英伟达承诺在未来五年内投入$2.5亿，推进英国智能体安全与研究 - 富途牛牛",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbHMtQmRpMjhUazFFNzBIV2NHZkdzSTFyT3Bkc3RIc0FKTmRXVkFtZjAzT0RzaUNfVE94VHVtbVhkc3U0R3RTZzlBd2F0TFJsVHJIM0JVNFdTNFBibXBtQVR2a2tRdzZUenNabDJNclIyNmhIOEFKZHdqME1pek9OU29RanNLRWI1a3lmSGVZRGt5dW9OLXoyTU9NajJINVpX",
@@ -6681,6 +6644,23 @@
    "zh_summary": "DLSS 5在霍格沃茨之遗性能翻倍",
    "title_zh": "英伟达称DLSS 5在《霍格沃茨之遗》性能翻倍",
    "sentiment": 1
+  },
+  {
+   "id": "1230043d872d",
+   "title": "Nvidia buys stakes in French tech startups Doctolib, Genesis AI - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI",
+   "source": "Reuters",
+   "published_at": "2026-10-13T18:56:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-13T18:56:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   }
  ]
 }
