@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T09:06:30.167864+00:00",
+ "updated_at": "2026-10-15T09:21:29.566854+00:00",
  "market": {
   "price": 221.3,
   "change_pct": -3.16,
@@ -10,8 +10,8 @@
    "days_left": 33
   },
   "day_sentiment": {
-   "avg": 0.26,
-   "count": 23
+   "avg": 0.19,
+   "count": 26
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.26（23条已评分）"
+     "note": "今日新闻情绪 +0.19（26条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 42.3,
    "ma20": 228.69,
-   "as_of": "2026-10-15T09:06:30.155127+00:00"
+   "as_of": "2026-10-15T09:21:29.549315+00:00"
   },
   "pe_ttm": 28.1,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2c4112f2ad9e",
+   "title": "英伟达高端显卡价格飙涨，走私行为遭海关打击 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDYzTWtobnZzRzRFZTEyUTZsWF9YVTVweXVrZjBtUDBhQ3EwQWhKMjRTdjUyMjk0eWN3X29kQ0VjbGxtaEhuaDdoZldkRHhoaVVKaU0zZ0hFSW5xUGdpYkNHeHN4MmZKcXItM1BIY2RNMlRBbVdIbjM3WmNWeWUyZnlfUWZQY1k1",
+   "source": "搜狐",
+   "published_at": "2026-10-15T09:03:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T09:03:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDYzTWtobnZzRzRFZTEyUTZsWF9YVTVweXVrZjBtUDBhQ3EwQWhKMjRTdjUyMjk0eWN3X29kQ0VjbGxtaEhuaDdoZldkRHhoaVVKaU0zZ0hFSW5xUGdpYkNHeHN4MmZKcXItM1BIY2RNMlRBbVdIbjM3WmNWeWUyZnlfUWZQY1k1"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "00a3a48d2b0c",
    "title": "通胀数据飙升，比特币与科技股纷纷下挫。英伟达、特斯拉与纳斯达克接下来将如何走势？ - Moomoo",
@@ -6652,26 +6669,6 @@
    "zh_summary": "英伟达因AI音乐数据面临诉讼",
    "title_zh": "英伟达因AI训练音乐数据遭起诉",
    "sentiment": -1
-  },
-  {
-   "id": "af19f6e5461a",
-   "title": "Cisco and Nvidia develop new pluggable optic module for AI data centers - Fierce Network",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3V1MHdCZnZjQXRZR3FlT0NEeEFobGgxQ1c5V3F2U3BLeHduMmVURkpUTkh3Z2psT1RrU2s0MnotU1QyZlNFWW9GdVFKOUFOdVFBUEd3SEN2ZFJXRDB2X3I1dllHQUtYdTRuVEowcUZmRHYyaWR1UVdwT0VRRVJUc1oyX09wcmRaaWNGdXVxM0lUZzRzaXg4UER1cjBDVWlQeHg4ellGbWdVem9n",
-   "source": "Fierce Network",
-   "published_at": "2026-10-13T23:11:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Fierce Network",
-     "published_at": "2026-10-13T23:11:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3V1MHdCZnZjQXRZR3FlT0NEeEFobGgxQ1c5V3F2U3BLeHduMmVURkpUTkh3Z2psT1RrU2s0MnotU1QyZlNFWW9GdVFKOUFOdVFBUEd3SEN2ZFJXRDB2X3I1dllHQUtYdTRuVEowcUZmRHYyaWR1UVdwT0VRRVJUc1oyX09wcmRaaWNGdXVxM0lUZzRzaXg4UER1cjBDVWlQeHg4ellGbWdVem9n"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "思科英伟达合作开发AI数据中心光模块",
-   "title_zh": "思科与英伟达联合开发AI数据中心新型可插拔光模块",
-   "sentiment": 1
   }
  ]
 }
