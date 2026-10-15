@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T06:36:33.862173+00:00",
+ "updated_at": "2026-10-15T06:51:28.369899+00:00",
  "market": {
   "price": 221.3,
   "change_pct": -3.16,
@@ -10,8 +10,8 @@
    "days_left": 33
   },
   "day_sentiment": {
-   "avg": 1.0,
-   "count": 3
+   "avg": 0.75,
+   "count": 4
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.00（3条已评分）"
+     "note": "今日新闻情绪 +0.75（4条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 42.3,
    "ma20": 228.69,
-   "as_of": "2026-10-15T06:36:33.848665+00:00"
+   "as_of": "2026-10-15T06:51:28.349589+00:00"
   },
   "pe_ttm": 28.1,
   "pe_pct_5y": 25,
@@ -80,6 +80,23 @@
    "zh_summary": "国会议员丹尼尔·米尤泽减持英伟达股票",
    "title_zh": "议员丹尼尔·米尤泽出售英伟达股份",
    "sentiment": 0
+  },
+  {
+   "id": "0c0ca9213340",
+   "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3VYYnpOcklLUTlBMXpHcThzRXQ1OUM4eDl1b3pnZHhZU2hsMTVZZzk2WkJNQW5Jc3lCNGNuWkJ1M25wUnZWUENGbzktTDZmUXBRNklORWE4Z0RhOXlFQkJEcDZZUFpoMFNBUFdiSC1ZYkxoYklUMUNhZS1uUDB1R3h4NlBUR1RJMjM3OHhUdGtqNDNOM0lB",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-15T06:16:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T06:16:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3VYYnpOcklLUTlBMXpHcThzRXQ1OUM4eDl1b3pnZHhZU2hsMTVZZzk2WkJNQW5Jc3lCNGNuWkJ1M25wUnZWUENGbzktTDZmUXBRNklORWE4Z0RhOXlFQkJEcDZZUFpoMFNBUFdiSC1ZYkxoYklUMUNhZS1uUDB1R3h4NlBUR1RJMjM3OHhUdGtqNDNOM0lB"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "1c9df4b1938e",
@@ -4127,9 +4144,9 @@
    "sentiment": -1
   },
   {
-   "id": "c14281e1fda0",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by Glenview Trust Co - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0",
+   "id": "be69121a87a8",
+   "title": "NVIDIA Corporation $NVDA Shares Newly Purchased by Maxele Advisors LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVhUUDhrdnJnYmM0czZaMXNuTXZYZHJXMGNTbmRjLWpEeUpoanNRbC1mcEtxRUdheEp3cDMxNENoUkJQamlRaWZ4Wmtac2tvMVRKSi1wMF9HOUd3dTFZdmp5ZGdySFNJdDN2VGpXT0RrOVlnLUpSUTdyZkY3UXgyMGVxandxR0NVakVtNzQyNWNyaURoVmRKM2toZVpmV2VUV3dYT3VxdF9hUUgxUEZLSnczM0RwcXFQVjQwbW1TdFVXWVhZb2NLQURR",
    "source": "MarketBeat",
    "published_at": "2026-10-14T08:09:42+00:00",
    "outlets_count": 1,
@@ -4137,14 +4154,11 @@
     {
      "name": "MarketBeat",
      "published_at": "2026-10-14T08:09:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0"
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWVhUUDhrdnJnYmM0czZaMXNuTXZYZHJXMGNTbmRjLWpEeUpoanNRbC1mcEtxRUdheEp3cDMxNENoUkJQamlRaWZ4Wmtac2tvMVRKSi1wMF9HOUd3dTFZdmp5ZGdySFNJdDN2VGpXT0RrOVlnLUpSUTdyZkY3UXgyMGVxandxR0NVakVtNzQyNWNyaURoVmRKM2toZVpmV2VUV3dYT3VxdF9hUUgxUEZLSnczM0RwcXFQVjQwbW1TdFVXWVhZb2NLQURR"
     }
    ],
    "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Glenview Trust 公司减持英伟达股份",
-   "title_zh": "Glenview Trust 公司减持英伟达股份",
-   "sentiment": 0
+   "session": "盘前"
   },
   {
    "id": "329bba1f810b",
@@ -6661,26 +6675,6 @@
    "zh_summary": "英伟达入股法国AI初创公司",
    "title_zh": "英伟达入股法国科技初创公司Doctolib和Genesis AI",
    "sentiment": 0
-  },
-  {
-   "id": "b1fdf6a72033",
-   "title": "NVIDIA Doubles DLSS 5 Speed And Slashes VRAM Use For RTX Spark Launch - HotHardware",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJaWQwaWRyOG9vakdDazRjR1hrT2pvMFRfTml5TkFrY0otVXAzUFNoOW04MEFhYWJVdWRqY3dGQjR0UExaSVhHTDNZbUc4Sm9uLUhNZVZCbEtXRDRscEZmOEVDeWRrYkRQYWN3cGowVHhyRERn",
-   "source": "HotHardware",
-   "published_at": "2026-10-13T18:55:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "HotHardware",
-     "published_at": "2026-10-13T18:55:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJaWQwaWRyOG9vakdDazRjR1hrT2pvMFRfTml5TkFrY0otVXAzUFNoOW04MEFhYWJVdWRqY3dGQjR0UExaSVhHTDNZbUc4Sm9uLUhNZVZCbEtXRDRscEZmOEVDeWRrYkRQYWN3cGowVHhyRERn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达DLSS 5速度翻倍、显存占用减少",
-   "title_zh": "英伟达发布RTX Spark：DLSS 5速度翻倍、显存更省",
-   "sentiment": 1
   }
  ]
 }
