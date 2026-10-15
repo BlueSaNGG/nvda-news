@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T09:36:27.496766+00:00",
+ "updated_at": "2026-10-15T09:51:28.405915+00:00",
  "market": {
   "price": 221.3,
   "change_pct": -3.16,
@@ -10,8 +10,8 @@
    "days_left": 33
   },
   "day_sentiment": {
-   "avg": 0.19,
-   "count": 27
+   "avg": 0.2,
+   "count": 30
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.19（27条已评分）"
+     "note": "今日新闻情绪 +0.20（30条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 42.3,
    "ma20": 228.69,
-   "as_of": "2026-10-15T09:36:27.485902+00:00"
+   "as_of": "2026-10-15T09:51:28.393865+00:00"
   },
   "pe_ttm": 28.1,
   "pe_pct_5y": 25,
@@ -327,7 +327,7 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EYVIyM2NLMHhOSVNZVmVBdlB1MUlFcFFQTHpUV3I1YmZnQlFXYXREMUx3N2pJc0lieW90dWhDLUMwdHBNYldnejhjd254Q1cwV09WcDJkdnd1amZHNkVTLXNxQQ",
    "source": "东方财富",
    "published_at": "2026-10-15T08:13:44+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "东方财富",
@@ -343,10 +343,16 @@
      "name": "富途牛牛",
      "published_at": "2026-10-15T08:27:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5dEhGVFIzNmR5d2lGc2VxbldxVVRBWVNJWGdCRFJpNUR2Y2xIcXpuRVdpOFhlQUNzRWZiOVQ4bHViN0lpT3hJbENlYy1fODV1QVFleExDX3dYanJ2TmVGQk0zZEE1LTFuTkRiRHh0S1ZWSGJYMl90SW9nZU4"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T09:41:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeVJoLWRRMm9fSDlEUHZ3NGg3NjFnLV84UmFUeXAzaTNDOW1Qcjc1ajV1WlFSeVU1M2RkdmJnLTd0ME5HNWgyUGZncGdiSFlCcXBZeU16Z0tqXzR3Wm1TRGFlWmhGWG1PaHF5UzU4cFo2akZ0N1VSeFFkcllfcjFqQVZPYl84cjFKUklOWg"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "美的加入英伟达MGX生态链",
    "title_zh": "美的加入英伟达MGX生态链 - 东方财富",
    "sentiment": 1
@@ -682,31 +688,6 @@
    "sentiment": 1
   },
   {
-   "id": "58ad9e9a789d",
-   "title": "黄仁勋：英伟达将停止向开发不安全AI的客户供应芯片 - 网易新闻客户端",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCNm1lRk83d1hjSHFJcTc3V2RlRE1YMmlQSkpjWlNBOW8wdS0ybDFYMkZTMG1kVEF0a0V4eWYyQmhGUFRuSkl4eFREeXF6MzZjZU5oc3BaMmRycFpl",
-   "source": "网易新闻客户端",
-   "published_at": "2026-10-15T04:49:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "网易新闻客户端",
-     "published_at": "2026-10-15T04:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCNm1lRk83d1hjSHFJcTc3V2RlRE1YMmlQSkpjWlNBOW8wdS0ybDFYMkZTMG1kVEF0a0V4eWYyQmhGUFRuSkl4eFREeXF6MzZjZU5oc3BaMmRycFpl"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-15T09:17:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXUwOVUwMUtHTTRqUFRSNzV1VHRrUnFNUXpqWlFtbXVDS2tqWWNFQnNaZ0s5Q1RWZDBWbFE1V0JEb3F6OEYxM0ZNTTJ4a1RfTzVyb0IxdFdUZ0t4YXRHUllTMFpKQ2N4SXRpRTdWb2tqTDVORHlONVRKMzJVcDU3ekktRG5QZmcwRXJOQg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "黄仁勋称将停止向开发不安全AI的客户供芯片",
-   "title_zh": "黄仁勋：英伟达将停止向开发不安全AI的客户供应芯片 - 网易新闻客户端",
-   "sentiment": -1
-  },
-  {
    "id": "739de67ac12f",
    "title": "US tech firm Nvidia buys stake in French health platform Doctolib - Yahoo News Canada",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FUDl5NEF5ekdFME1jTFNlOU4tTmdiU040TEtYUTFHNFFuT0Vaemw4TGRlRnpGaksyUlVuX1FGcENGT29qZ2tzNGVSMHpFaE1aQ1FkWUw1RUhMX3VJSTE3LWM5YlU2NkVFTS14T29CbG5rU28",
@@ -730,6 +711,36 @@
    "zh_summary": "英伟达入股法国健康平台Doctolib",
    "title_zh": "美国科技巨头英伟达收购法国健康平台Doctolib股份",
    "sentiment": 1
+  },
+  {
+   "id": "58ad9e9a789d",
+   "title": "黄仁勋：英伟达将停止向开发不安全AI的客户供应芯片 - 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV0ZMY0VZRmZzb1loZFFDSW15N0xqZGl2blJOdkFmTUxhRE5DMDlKSGM2MDNGVmliWlRNbU5mcm1jQUdhQjZQdjZtek1RT2ZaYWg5b09LaGxrbzJ6X1lkbm5NVmVNdGF1OHlYdmxRSkpscnczd21jNVlkMVJJeV9JcEJxVDF5MmhVdW1xeklKQQ",
+   "source": "21财经",
+   "published_at": "2026-10-15T04:31:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "21财经",
+     "published_at": "2026-10-15T04:31:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV0ZMY0VZRmZzb1loZFFDSW15N0xqZGl2blJOdkFmTUxhRE5DMDlKSGM2MDNGVmliWlRNbU5mcm1jQUdhQjZQdjZtek1RT2ZaYWg5b09LaGxrbzJ6X1lkbm5NVmVNdGF1OHlYdmxRSkpscnczd21jNVlkMVJJeV9JcEJxVDF5MmhVdW1xeklKQQ"
+    },
+    {
+     "name": "网易新闻客户端",
+     "published_at": "2026-10-15T04:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCNm1lRk83d1hjSHFJcTc3V2RlRE1YMmlQSkpjWlNBOW8wdS0ybDFYMkZTMG1kVEF0a0V4eWYyQmhGUFRuSkl4eFREeXF6MzZjZU5oc3BaMmRycFpl"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T09:17:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXUwOVUwMUtHTTRqUFRSNzV1VHRrUnFNUXpqWlFtbXVDS2tqWWNFQnNaZ0s5Q1RWZDBWbFE1V0JEb3F6OEYxM0ZNTTJ4a1RfTzVyb0IxdFdUZ0t4YXRHUllTMFpKQ2N4SXRpRTdWb2tqTDVORHlONVRKMzJVcDU3ekktRG5QZmcwRXJOQg"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后",
+   "zh_summary": "黄仁勋称将停止向开发不安全AI的客户供芯片",
+   "title_zh": "黄仁勋：英伟达将停止向开发不安全AI的客户供应芯片 - 网易新闻客户端",
+   "sentiment": -1
   },
   {
    "id": "aa45913a8027",
