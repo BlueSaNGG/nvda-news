@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T04:06:29.405677+00:00",
+ "updated_at": "2026-10-15T04:21:32.097207+00:00",
  "market": {
   "price": 221.3,
   "change_pct": -3.16,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.35,
-   "count": 221
+   "count": 223
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.35（221条已评分）"
+     "note": "今日新闻情绪 +0.35（223条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 42.3,
    "ma20": 228.69,
-   "as_of": "2026-10-15T04:06:29.390817+00:00"
+   "as_of": "2026-10-15T04:21:32.086017+00:00"
   },
   "pe_ttm": 28.1,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "aa45913a8027",
+   "title": "黄仁勋放狠话：客户乱用AI 英伟达将切断芯片供货 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oLVdCQ1Y5YzlHLVpocHlKckdPVXZ4dm8zbmdITVlvVVBaOFl5QV92V2ZlSjFLa000Vk1BaFNSckx0YXRfVkNpS29wWnJESG83eFVWYUt5SVE",
+   "source": "驱动之家",
+   "published_at": "2026-10-15T04:06:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-15T04:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oLVdCQ1Y5YzlHLVpocHlKckdPVXZ4dm8zbmdITVlvVVBaOFl5QV92V2ZlSjFLa000Vk1BaFNSckx0YXRfVkNpS29wWnJESG83eFVWYUt5SVE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
   {
    "id": "023840177e38",
    "title": "英伟达持股药企上市筹资金 Iambic募得6亿推进抗癌新药 - e南洋",
@@ -6450,6 +6467,23 @@
    "sentiment": -1
   },
   {
+   "id": "1230043d872d",
+   "title": "Nvidia buys stakes in French tech startups Doctolib, Genesis AI - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI",
+   "source": "Reuters",
+   "published_at": "2026-10-13T18:56:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-13T18:56:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "b1fdf6a72033",
    "title": "NVIDIA Doubles DLSS 5 Speed And Slashes VRAM Use For RTX Spark Launch - HotHardware",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJaWQwaWRyOG9vakdDazRjR1hrT2pvMFRfTml5TkFrY0otVXAzUFNoOW04MEFhYWJVdWRqY3dGQjR0UExaSVhHTDNZbUc4Sm9uLUhNZVZCbEtXRDRscEZmOEVDeWRrYkRQYWN3cGowVHhyRERn",
@@ -6622,46 +6656,6 @@
    "zh_summary": "英伟达拟在欧洲追加20亿美元投资",
    "title_zh": "英伟达拟在欧洲追加20亿美元投资",
    "sentiment": 1
-  },
-  {
-   "id": "8a4b7f817685",
-   "title": "Microsoft: The Nvidia Escape Plan (NASDAQ:MSFT) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nZms3SVdEY2ZqTDFiZ1psQzhnSjZoZmRXR3J4OUdDYzFqN3JLc2hjVmhxeDZ4U3FQUEVwMTJ5d21XaWh5X1U4Z2IyaW1xRFZ1WnpIY2QwU3hFeklKeUllZnFlYUtZcHJyTnRkc2FvTVE3N01YaGNSbzdBbzJMQQ",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-13T18:20:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-13T18:20:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nZms3SVdEY2ZqTDFiZ1psQzhnSjZoZmRXR3J4OUdDYzFqN3JLc2hjVmhxeDZ4U3FQUEVwMTJ5d21XaWh5X1U4Z2IyaW1xRFZ1WnpIY2QwU3hFeklKeUllZnFlYUtZcHJyTnRkc2FvTVE3N01YaGNSbzdBbzJMQQ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "微软制定摆脱英伟达依赖的计划",
-   "title_zh": "微软的英伟达逃离计划",
-   "sentiment": -1
-  },
-  {
-   "id": "a7a05a614415",
-   "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip - Axios",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ",
-   "source": "Axios",
-   "published_at": "2026-10-13T18:04:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Axios",
-     "published_at": "2026-10-13T18:04:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwYVA3bU1jWS1xcGxwMGdRSE9FdUs2WWRzZWk1ajBITXFaemNSOTFkSjRlcWxNYlBBZkEzdm50dFRHSlctT0ktLVZySzBUallmVkZSVXNJZ3FlVkJLZkhwYXFNOGVGeXVCQmtVODRYZDZDQQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "微软发布Maia芯片，英伟达客户变对手",
-   "title_zh": "微软发布Maia芯片，英伟达主要客户都成了竞争对手",
-   "sentiment": -1
   }
  ]
 }
