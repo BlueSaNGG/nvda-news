@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T18:21:31.416655+00:00",
+ "updated_at": "2026-10-15T18:36:29.573635+00:00",
  "market": {
-  "price": 217.02,
-  "change_pct": -1.93,
+  "price": 217.1,
+  "change_pct": -1.9,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.35,
-   "count": 194
+   "count": 198
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.35（194条已评分）"
+     "note": "今日新闻情绪 +0.35（198条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.02 vs 20日均线 $228.57"
+     "note": "现价 $217.10 vs 20日均线 $228.58"
     },
     {
      "key": "分析师动向",
@@ -47,12 +47,12 @@
    "target_median": 315.0,
    "target_count": 15,
    "implied_upside_pct": 45.1,
-   "ma20": 228.57,
-   "as_of": "2026-10-15T18:21:31.405357+00:00"
+   "ma20": 228.58,
+   "as_of": "2026-10-15T18:36:29.562732+00:00"
   },
   "pe_ttm": 27.6,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "91fdd86f286f",
+   "title": "Nvidia RTX Spark: A new beginning for Windows PCs - Jon Peddie Research",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXVWMWNwMmZGVWIwNENuX3BwOGFlQ2RSV3VRYjZZQUxwZDAzTDdDdTNtWXN0S2dCRklnRGkwclJJa1BwZ3lIY1pIQW1nb3ktMF9mNXA3UVd2LTM1Snd1djEzb2FVS0lCU0JFTGVkLTBmaHB0di1lVWoybklFT1lXbHBXckZtdUk",
+   "source": "Jon Peddie Research",
+   "published_at": "2026-10-15T18:27:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Jon Peddie Research",
+     "published_at": "2026-10-15T18:27:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXVWMWNwMmZGVWIwNENuX3BwOGFlQ2RSV3VRYjZZQUxwZDAzTDdDdTNtWXN0S2dCRklnRGkwclJJa1BwZ3lIY1pIQW1nb3ktMF9mNXA3UVd2LTM1Snd1djEzb2FVS0lCU0JFTGVkLTBmaHB0di1lVWoybklFT1lXbHBXckZtdUk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "91d984037118",
    "title": "Nvidia Stocks Fall 3.0% With Cash Conversion in Focus After Bair - GuruFocus",
@@ -370,6 +387,23 @@
    "zh_summary": "英伟达发布高效智能体大模型",
    "title_zh": "英伟达扩展Nemotron大模型家族，面向智能体系统推出高效模型",
    "sentiment": 1
+  },
+  {
+   "id": "6a26c124a2c1",
+   "title": "Nvidia RTX Spark: Everything You Need to Know Before Our First Tests - PCMag",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONE95c1AzcmdDbTItRlpNSjZhUGJmZ2pZVnoydTU5bndUbjhsWm5yOER4dlFYLUZfVEcxNWtMZ0h1T2poUTFBSVhjdDFfUHh4dllpc1VLaTJCMWdDaHVqWWdHd1FWUkFzeTA5dlFYMFZTbklxWFhNVEM1c3IyRWZ1ODhfczc0TUtHT015Vm9JM3R0TXM0TVdhdmlB",
+   "source": "PCMag",
+   "published_at": "2026-10-15T17:09:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PCMag",
+     "published_at": "2026-10-15T17:09:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONE95c1AzcmdDbTItRlpNSjZhUGJmZ2pZVnoydTU5bndUbjhsWm5yOER4dlFYLUZfVEcxNWtMZ0h1T2poUTFBSVhjdDFfUHh4dllpc1VLaTJCMWdDaHVqWWdHd1FWUkFzeTA5dlFYMFZTbklxWFhNVEM1c3IyRWZ1ODhfczc0TUtHT015Vm9JM3R0TXM0TVdhdmlB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "58f2dd4c108d",
@@ -2560,26 +2594,6 @@
    "sentiment": 0
   },
   {
-   "id": "cf91720ca6c6",
-   "title": "英伟达撑腰，利率拆台：CoreWeave股债双杀，高杠杆算力遇考 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JRTdOdWRZOUJSV0RPaW0xUVAyZ1FlTzViemdKbGJyNUNOTUZtWkNEejM2VUZfYlV2Wm5KREJ5MlZVaEJvc3RYS2tsUGtLNHhWdlVTTXNJV0F0SkdGc2gxcGVKZE1zdw",
-   "source": "东方财富",
-   "published_at": "2026-10-15T12:22:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-15T12:22:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JRTdOdWRZOUJSV0RPaW0xUVAyZ1FlTzViemdKbGJyNUNOTUZtWkNEejM2VUZfYlV2Wm5KREJ5MlZVaEJvc3RYS2tsUGtLNHhWdlVTTXNJV0F0SkdGc2gxcGVKZE1zdw"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "CoreWeave股债双杀，高杠杆算力承压",
-   "title_zh": "英伟达撑腰，利率拆台：CoreWeave股债双杀，高杠杆算力遇考 - 东方财富",
-   "sentiment": -1
-  },
-  {
    "id": "6f851a88fa06",
    "title": "英伟达SST生态伙伴首次公开，阳光电源入选 - 电子工程专辑",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aMktLV3VWM1JpTlhKTmZpbGRSRHJYOFJFc1FtLVBDMHZaV0dVdm5uN0ZMSVBBNUI0Vk5ZWWRmS19ZUm5nX2F6VGtBMUhrZEV0OElR",
@@ -2638,6 +2652,23 @@
    "zh_summary": "Baird称华尔街厌倦英伟达式卖方融资",
    "title_zh": "Baird：华尔街厌倦'英伟达银行、AMD银行、博通银行'模式",
    "sentiment": -1
+  },
+  {
+   "id": "d79bc7bf81de",
+   "title": "英伟达黄仁勋盛赞OpenClaw 助力机器人技术发展，但权限管控必须得有- 产业链 - 光通信Pro",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yNVVxZFFVYm1RUkVmNWJqWXBJUXR5T0Nya3VLdEY2bzE2V0xWSGZkQVc5TzBlRmJPTWh2N3NpMmUxQUNtUjIwdlBFRVlRbldCeE05TmRTTQ",
+   "source": "光通信Pro",
+   "published_at": "2026-10-15T12:09:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "光通信Pro",
+     "published_at": "2026-10-15T12:09:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yNVVxZFFVYm1RUkVmNWJqWXBJUXR5T0Nya3VLdEY2bzE2V0xWSGZkQVc5TzBlRmJPTWh2N3NpMmUxQUNtUjIwdlBFRVlRbldCeE05TmRTTQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "21344887b568",
@@ -3657,6 +3688,23 @@
    "sentiment": 1
   },
   {
+   "id": "c6ab1f56ed89",
+   "title": "联手英伟达，网易旗下《燕云十六声》率先接入DLSS 5技术 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXNhYy0zWXJPdGxxcGJQXy1TclNHRTczQzJmMUJOdHpZenJIbkxCbk52QUo1ZUJfaGxqYk1OdEE0bE9PS0xXMmZrVjBxTXN5N2JjMzdLMWl4Sy1rS0M2X29ibzF2VG1IVmRKeDhqcGdEWmpxSzRtaWtVdjdJVlhscUQ5THdwWkUtb1h5Mg",
+   "source": "搜狐",
+   "published_at": "2026-10-15T08:39:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T08:39:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXNhYy0zWXJPdGxxcGJQXy1TclNHRTczQzJmMUJOdHpZenJIbkxCbk52QUo1ZUJfaGxqYk1OdEE0bE9PS0xXMmZrVjBxTXN5N2JjMzdLMWl4Sy1rS0M2X29ibzF2VG1IVmRKeDhqcGdEWmpxSzRtaWtVdjdJVlhscUQ5THdwWkUtb1h5Mg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "af656d2930fd",
    "title": "11,773,591 NVIDIA Corporation $NVDA Shares Sold by Wellington Management Group LLP - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFBfZnpZUEs5RW4xLWRLS3ByaVBycjh0YnRIUnhnTFI2czFzaDFkc2IxTzcwZnZtQ2lISXZTNlZSaDhQcEJLUjhMa0RaU3I3Qm1obVhaV2NKajA2eC1Fb0xoY0YyU0NIZkVBMjF4OTItVl9lTk95TmxLNDJHZXV3OFZGVWpYX010NVJCZVRDYVMxel84c09jTXN3cE0zQjdsbld4UGltSFZXU09ObGpDdjdsZTJ1Tnk5QVExTjZudlRXbmRQa2djSW1tZ091d0FvQmtXSnBsRQ",
@@ -4318,6 +4366,26 @@
     "pct": 0.13,
     "window_h": 0.1
    }
+  },
+  {
+   "id": "cf91720ca6c6",
+   "title": "英伟达撑腰，利率拆台：CoreWeave股债双杀，高杠杆算力遇考 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JRTdOdWRZOUJSV0RPaW0xUVAyZ1FlTzViemdKbGJyNUNOTUZtWkNEejM2VUZfYlV2Wm5KREJ5MlZVaEJvc3RYS2tsUGtLNHhWdlVTTXNJV0F0SkdGc2gxcGVKZE1zdw",
+   "source": "东方财富",
+   "published_at": "2026-10-15T04:29:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-15T04:29:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JRTdOdWRZOUJSV0RPaW0xUVAyZ1FlTzViemdKbGJyNUNOTUZtWkNEejM2VUZfYlV2Wm5KREJ5MlZVaEJvc3RYS2tsUGtLNHhWdlVTTXNJV0F0SkdGc2gxcGVKZE1zdw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后",
+   "zh_summary": "CoreWeave股债双杀，高杠杆算力承压",
+   "title_zh": "英伟达撑腰，利率拆台：CoreWeave股债双杀，高杠杆算力遇考 - 东方财富",
+   "sentiment": -1
   },
   {
    "id": "aa45913a8027",
@@ -6443,91 +6511,6 @@
     "pct": 0.31,
     "window_h": 0.5
    }
-  },
-  {
-   "id": "bb655eabd134",
-   "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym - NVIDIA Developer",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUtZWjdMZWpRUFVYTHNFTTRJNUNnclI4R2ttbmhfamJMX1R0Sk1JOEZfR2wxMXg2enlYOWxVMjhudDl3Wk5jaWluNEN1RHVhdWhSN2hoYm53WkRQZm0xVWc2ZzJjT0pUeHlFeHhOTUNIOGh2emhzR0R1SVh6bjRiX1pjRWJtd2JXVmRJdFJZcDZEZkpuLV95V3VVVTBRYnN1QnI2Z0ZIOVFkdlh5YXhRck1hZzNieUFXQXU3T3ZHZVFzVy1zRDlTWQ",
-   "source": "NVIDIA Developer",
-   "published_at": "2026-10-14T16:16:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Developer",
-     "published_at": "2026-10-14T16:16:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUUtZWjdMZWpRUFVYTHNFTTRJNUNnclI4R2ttbmhfamJMX1R0Sk1JOEZfR2wxMXg2enlYOWxVMjhudDl3Wk5jaWluNEN1RHVhdWhSN2hoYm53WkRQZm0xVWc2ZzJjT0pUeHlFeHhOTUNIOGh2emhzR0R1SVh6bjRiX1pjRWJtd2JXVmRJdFJZcDZEZkpuLV95V3VVVTBRYnN1QnI2Z0ZIOVFkdlh5YXhRck1hZzNieUFXQXU3T3ZHZVFzVy1zRDlTWQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达发布NeMo Gym芯片设计优化方案",
-   "title_zh": "英伟达NeMo Gym优化芯片设计智能体可靠性",
-   "sentiment": 0
-  },
-  {
-   "id": "7965d2a2d4f0",
-   "title": "Caterpillar, NVIDIA Corp. Share Losses Contribute To Dow's Nearly 150-Point Drop - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3d0aFZITVZsME5Vb1NidnJpcUhuTjVqYVEwS2pFSFVrM1BBWkpDdlNDU0NUR2Q1WE4yczVQTEhSem00Zk1pM2h4TS1Db2k0clBwVFIyV0xuTFBHUmQ0ZmRhYjVuTFNOSC00OUFEeTdweXJYRG14aGR1M2dLQURFQU53Q3dlTUhJVXRvbjgyYW1Jbjd0YlFJY3lSU3pXNjhLYU5UYmJtZkdxNW8",
-   "source": "Moomoo",
-   "published_at": "2026-10-14T16:14:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-14T16:14:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN3d0aFZITVZsME5Vb1NidnJpcUhuTjVqYVEwS2pFSFVrM1BBWkpDdlNDU0NUR2Q1WE4yczVQTEhSem00Zk1pM2h4TS1Db2k0clBwVFIyV0xuTFBHUmQ0ZmRhYjVuTFNOSC00OUFEeTdweXJYRG14aGR1M2dLQURFQU53Q3dlTUhJVXRvbjgyYW1Jbjd0YlFJY3lSU3pXNjhLYU5UYmJtZkdxNW8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达与卡特彼勒下跌拖累道指",
-   "title_zh": "卡特彼勒与英伟达下跌，拖累道指跌近150点",
-   "sentiment": -1
-  },
-  {
-   "id": "4b05a9b34916",
-   "title": "英伟达刚刚入股了一家医疗健康平台。而最值得关注的真相，恰恰是那些尚未被披露的信息。 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0lDMnUtZmF3TlowbTV1WmRJemxqaUVyT1gwZjJvYjRiNHQ3MzhOX2h3R3pQZGpORXhRV0FNb0ZRVlhWRmNxeUpJN01Wd2tnckpUUkFBMVJBcnBDLVUyOHlQbGZPVDE3RUJpc3lvcHdCblhFN3hzVGl4ZFN6YmtObUJ2bnc4RnZ3ODZia3dTcWxyVUs4Y2pFWFRGX2JXZlQ4bWV4d3h0R0w2bVBRWmd6c3FNdVRSbmJwMTVVNA",
-   "source": "Moomoo",
-   "published_at": "2026-10-14T16:12:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-14T16:12:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0lDMnUtZmF3TlowbTV1WmRJemxqaUVyT1gwZjJvYjRiNHQ3MzhOX2h3R3pQZGpORXhRV0FNb0ZRVlhWRmNxeUpJN01Wd2tnckpUUkFBMVJBcnBDLVUyOHlQbGZPVDE3RUJpc3lvcHdCblhFN3hzVGl4ZFN6YmtObUJ2bnc4RnZ3ODZia3dTcWxyVUs4Y2pFWFRGX2JXZlQ4bWV4d3h0R0w2bVBRWmd6c3FNdVRSbmJwMTVVNA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达入股一家医疗健康平台",
-   "title_zh": "英伟达刚刚入股了一家医疗健康平台。而最值得关注的真相，恰恰是那些尚未被披露的信息。 - Moomoo",
-   "sentiment": 1
-  },
-  {
-   "id": "056a1aa46a82",
-   "title": "ChipAgents Collaborates With NVIDIA to Launch Build-A-Chip-Bench for Autonomous Chip Design and Implementation - Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNVNGdExHRDhlWkxNcnJLVXg3WVB2WE9tV2V1MWlabGN1Sk43bDVEcHJYdFg0bzJmZk54V2xaZDMtZnlFdnh0VjdGLWVZbWNlQm5NbndZLWZqSnQ2YzlVb3B2SFUzbHpjNkY0a3JyMzNITkNEbXB0WlNpOW1pSUlHNnEydHFOckpRakFaVlZ1YThpYlhKVlFGR0xZaEQ2V29IQTk4Sm1xUW92ZFRUUXNpdWVNLVRHamdmSi1oSzJ1OWZkQXYtT0JaZTB5NHhtVG81MmF6OUR0NkxkSWluVkRLa2FUZUswQ05DTjZFZHVKTENlM1F5eER6Q2pERQ",
-   "source": "Business Wire",
-   "published_at": "2026-10-14T16:10:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Business Wire",
-     "published_at": "2026-10-14T16:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNVNGdExHRDhlWkxNcnJLVXg3WVB2WE9tV2V1MWlabGN1Sk43bDVEcHJYdFg0bzJmZk54V2xaZDMtZnlFdnh0VjdGLWVZbWNlQm5NbndZLWZqSnQ2YzlVb3B2SFUzbHpjNkY0a3JyMzNITkNEbXB0WlNpOW1pSUlHNnEydHFOckpRakFaVlZ1YThpYlhKVlFGR0xZaEQ2V29IQTk4Sm1xUW92ZFRUUXNpdWVNLVRHamdmSi1oSzJ1OWZkQXYtT0JaZTB5NHhtVG81MmF6OUR0NkxkSWluVkRLa2FUZUswQ05DTjZFZHVKTENlM1F5eER6Q2pERQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-14T16:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbXRJNjVuWjNPV00tTXF4TFRDQ25HVk9vTmdCVXdfdDlZQWFFYXJUS3dpOFFocURMVE5CZXRWbDBFLWFrN3RsMXAySDJ2QVpvaEFQVGRYNHN3d0xVSVpVRUcxZkk3eEd3amNVR1gtNEVqcGt6QjlYeXpmNVhVYzNmVzAxVzlCUEh5OXJ4RFlBTU04VE1yV1lBZ2JPdjlMM0RDam56WXdvSnBMaGs"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "与ChipAgents合作推出AI芯片设计基准",
-   "title_zh": "ChipAgents与英伟达合作推出自主芯片设计基准测试",
-   "sentiment": 1
   }
  ]
 }
