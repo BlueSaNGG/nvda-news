@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-14T23:51:30.433526+00:00",
+ "updated_at": "2026-10-15T00:06:35.112926+00:00",
  "market": {
-  "price": 221.3,
-  "change_pct": -3.16,
+  "price": 228.52,
+  "change_pct": 0.97,
   "as_of": "2026-10-14",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,32 +10,32 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 182
+   "avg": 0.39,
+   "count": 185
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
-     "score": 0,
-     "note": "现价处于52周区间 76% 分位"
+     "score": -1,
+     "note": "现价处于52周区间 86% 分位（偏高）"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +42.3%"
+     "note": "目标价中位数 $315（15家），隐含空间 +37.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（182条已评分）"
+     "note": "今日新闻情绪 +0.39（185条已评分）"
     },
     {
      "key": "动量",
-     "score": -1,
-     "note": "现价 $221.30 vs 20日均线 $228.69"
+     "score": 1,
+     "note": "现价 $228.52 vs 20日均线 $228.32"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 76,
+   "price_52w_pct": 86,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 42.3,
-   "ma20": 228.69,
-   "as_of": "2026-10-14T23:51:30.414814+00:00"
+   "implied_upside_pct": 37.8,
+   "ma20": 228.32,
+   "as_of": "2026-10-15T00:06:35.092921+00:00"
   },
-  "pe_ttm": 28.1,
-  "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.3%空间：估值偏低，预期乐观"
+  "pe_ttm": 29.0,
+  "pe_pct_5y": 27,
+  "valuation_sentence": "现价处5年P/E 27%分位，目标价隐含+37.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,91 @@
   }
  },
  "stories": [
+  {
+   "id": "b26501f0202c",
+   "title": "An Interview with Nvidia’s Ian Buck on Why GPUs Keep Winning - Key Context by Tae Kim",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tMDdRQUl2cUpIdlhsQ2RSZTJaU3NZSFRFV3JIcDAyOF9NRWhLT3NRSlNJWDNvN21MSTZrWGVfMVpyOEd5cWlENmh2eWs2alIzWjFPcWZsbHRxbjg4MHJ1emtJMVhaR0szMzNPRk0xREM3NkhfZDFj",
+   "source": "Key Context by Tae Kim",
+   "published_at": "2026-10-15T00:02:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Key Context by Tae Kim",
+     "published_at": "2026-10-15T00:02:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tMDdRQUl2cUpIdlhsQ2RSZTJaU3NZSFRFV3JIcDAyOF9NRWhLT3NRSlNJWDNvN21MSTZrWGVfMVpyOEd5cWlENmh2eWs2alIzWjFPcWZsbHRxbjg4MHJ1emtJMVhaR0szMzNPRk0xREM3NkhfZDFj"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "de6df57fa3fd",
+   "title": "History Says Nvidia Stock Usually Rises in the Fourth Quarter -- It Has in 20 of the Last 27 - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGhzSEMtZHZhSjJQVVNCeDFIX2FhRHE5TnQ2ZlJzOTV2UjZrNUltY0dFckdnYnZ0NkNoZzFhalJXMnJZeG96T3BXUUE2WUxGLW1rZXYzUzNHUng2c0NTend6UHpJaFNhcENvdS0yc25PTkYtaFItbXo5QjdUSHE2YnU1TmEzaW1SM2pCUjEwOE5NdmZTazZpTlVlNUdaTXhlTU9uOFRBUGxwMVpndEFEZDdBdjE4ZU0tbDJSTzg1SnFmU1J2NTM0aUU0SEU",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-14T23:56:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-14T23:56:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGhzSEMtZHZhSjJQVVNCeDFIX2FhRHE5TnQ2ZlJzOTV2UjZrNUltY0dFckdnYnZ0NkNoZzFhalJXMnJZeG96T3BXUUE2WUxGLW1rZXYzUzNHUng2c0NTend6UHpJaFNhcENvdS0yc25PTkYtaFItbXo5QjdUSHE2YnU1TmEzaW1SM2pCUjEwOE5NdmZTazZpTlVlNUdaTXhlTU9uOFRBUGxwMVpndEFEZDdBdjE4ZU0tbDJSTzg1SnFmU1J2NTM0aUU0SEU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "110bcd1fa507",
+   "title": "英伟达黄仁勋：若客户开发不安全AI软件，极端措施可断供芯片 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVNQLWJQNWVGRWY5aVQ2cV9tNzRKMmtfS01uTDR1Rmw2bTduRllVd1A0SlZHR1Fsa1pyWURwR3FCVlVKUWJzNmNKTFZPTUlXZDk0NF91Z0Y3cXJxWnFsOEp3cWlHcXcta2hFbmpkemkyRjZiNjZ1RTAyX3pTQWdaLUxHcGNGeHcy",
+   "source": "搜狐",
+   "published_at": "2026-10-14T23:54:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-14T23:54:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVNQLWJQNWVGRWY5aVQ2cV9tNzRKMmtfS01uTDR1Rmw2bTduRllVd1A0SlZHR1Fsa1pyWURwR3FCVlVKUWJzNmNKTFZPTUlXZDk0NF91Z0Y3cXJxWnFsOEp3cWlHcXcta2hFbmpkemkyRjZiNjZ1RTAyX3pTQWdaLUxHcGNGeHcy"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "2eabc0aa79b2",
+   "title": "英伟达支持的AI制药公司Iambic IPO定价16美元 预计募资1.5亿美元 - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kYnFlMzhSdzROblZ1UFFNdmUzR2JWQ2FuYkUzcklaQWNicWp5ekVWeGdpZUFKOXpYb1YxOW5pcDZIR3R2bVIxNHNGTjJmcW9JMUpWRTlJV0NQdVIzRUQtNl9R",
+   "source": "观点网",
+   "published_at": "2026-10-14T23:54:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-14T23:54:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kYnFlMzhSdzROblZ1UFFNdmUzR2JWQ2FuYkUzcklaQWNicWp5ekVWeGdpZUFKOXpYb1YxOW5pcDZIR3R2bVIxNHNGTjJmcW9JMUpWRTlJV0NQdVIzRUQtNl9R"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "32d07bbd5c31",
+   "title": "英伟达首席执行官表示，将切断与开发不安全人工智能的客户的合作 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNkdvWDVsMldrclhtejBRM2NFTWdPaWtMNHRFNTNaZURKeC1mZFBZZ0J5NHhXakt6V19wd09uZ0ZndWFSeTZhNllNUncydnNxQTlEN092VmxNZ2JRejhsZWdaLVEtQXNVZVMxc0c3ZTQ4RVJ2b0VmdmE0N2kwSDhFNFF1U3BOekNtRnhJX3A3YS1mM1BScUVPcy1CX1ZqZ1oyZURId25OVTJsUQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-14T23:50:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-14T23:50:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNkdvWDVsMldrclhtejBRM2NFTWdPaWtMNHRFNTNaZURKeC1mZFBZZ0J5NHhXakt6V19wd09uZ0ZndWFSeTZhNllNUncydnNxQTlEN092VmxNZ2JRejhsZWdaLVEtQXNVZVMxc0c3ZTQ4RVJ2b0VmdmE0N2kwSDhFNFF1U3BOekNtRnhJX3A3YS1mM1BScUVPcy1CX1ZqZ1oyZURId25OVTJsUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "316b4a1e8359",
    "title": "Navitas Stock In Focus After Nvidia AI Power Board Launch - Simply Wall Street",
@@ -87,7 +172,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjFwcHFqbkxlZUhlcXEwUEFHejFhVlhzdE5KXzBQd1UwdlBwLTFHUXpWSnRGLW5jb0NZZkFZV3JCWjh2QUJ5OUxpcTFUb2NXSlV6SWRWTk5YaXlqTk9nUl92eUxPOENMbjJXTEF2RnB2d1B1ekhCTnlrV0NnSUZ3eFFhbGhyRWpq",
    "source": "搜狐",
    "published_at": "2026-10-14T23:13:43+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐",
@@ -98,6 +183,11 @@
      "name": "东方财富",
      "published_at": "2026-10-14T23:27:06+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mZm4xWlZ2U3ZWRmprajRIRXJkemZqREM0LUxPZHFuRTRrb2l1ZkVnS3ZhTXFqMFAzSnk3RkVGVkxJTFBNWXhCYlJfdWlBMHJxX3NlR3dRb3k3M1ZWNVgxVg"
+    },
+    {
+     "name": "凤凰网财经",
+     "published_at": "2026-10-14T23:21:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SblNFZ0F3NFc5bFNqSWdpakJQR0FYUl9QSTN2R2pUVHBpajh0bjR3TncyZnN6bzJSODRFUXJ3dm9DM1JhdWRWbkpnWi1aYS1U"
     }
    ],
    "category": "其他",
@@ -340,6 +430,23 @@
    "zh_summary": "微软发布新AI芯片，被称为英伟达杀手",
    "title_zh": "微软发布全新AI芯片，或成“英伟达杀手”？",
    "sentiment": -1
+  },
+  {
+   "id": "747c55c5962c",
+   "title": "Apple Joins Nvidia in the $5 Trillion Valuation Club - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUl0aDJRcG4wTnlOalA2Xy1CeERRdzY1NFhBYUphcVUyVGFKV2NUbzlQY2FLUHBsMzFEOGNzSVotQXppWkgyVk5tM2g2Y2VRcDVyTzNEcXhJVDJ6OGhSdmlaM3hzai1PbjVmc0pydXZuaWZXNE5ONFVhcVhfcHE1Yy1HY2FpdzhCR0dTZGVDMGdyZkp3MzNpWTlfSlBMTWNPd0dNTnRBWWZZMnNSTFIzYw",
+   "source": "WSJ",
+   "published_at": "2026-10-14T20:55:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-14T20:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUl0aDJRcG4wTnlOalA2Xy1CeERRdzY1NFhBYUphcVUyVGFKV2NUbzlQY2FLUHBsMzFEOGNzSVotQXppWkgyVk5tM2g2Y2VRcDVyTzNEcXhJVDJ6OGhSdmlaM3hzai1PbjVmc0pydXZuaWZXNE5ONFVhcVhfcHE1Yy1HY2FpdzhCR0dTZGVDMGdyZkp3MzNpWTlfSlBMTWNPd0dNTnRBWWZZMnNSTFIzYw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "22b79258b197",
@@ -3095,6 +3202,23 @@
    "zh_summary": "Maxele Advisors新买入NVDA股票",
    "title_zh": "Maxele Advisors公司新买入英伟达(NVDA)股票",
    "sentiment": 1
+  },
+  {
+   "id": "c14281e1fda0",
+   "title": "NVIDIA Corporation $NVDA Shares Sold by Glenview Trust Co - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0",
+   "source": "MarketBeat",
+   "published_at": "2026-10-14T08:09:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-14T08:09:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "329bba1f810b",
@@ -6558,166 +6682,6 @@
    "zh_summary": "思科400G单通道设计进入英伟达光模块路线图",
    "title_zh": "思科USFP将400G单通道设计引入英伟达光学路线图",
    "sentiment": 1
-  },
-  {
-   "id": "437d0b8b072e",
-   "title": "英伟达CEO黄仁勋：英伟达在过去一年中在欧洲投资了80亿美元。 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDBRX2dmRHROd1ZDb1FLQ2dKWVRrSWZDMVA3dXVXZl9JU05fN3BzZ1JEOWg3bEN6VHlUSll2Rmx0MFRRajV6LUlaSEVfNWNlb3ZsRWJYMDZEQzB2QVRGck52Q014SVhoTWtDVjl5M2lMWHVNaEdRZlBiaUUzeXFPSkduLUFjeFdXVGxGeWZGRVV1cDRjZVJuQWhSZE5MOU5iSXc",
-   "source": "富途牛牛",
-   "published_at": "2026-10-13T15:24:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-13T15:24:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeDBRX2dmRHROd1ZDb1FLQ2dKWVRrSWZDMVA3dXVXZl9JU05fN3BzZ1JEOWg3bEN6VHlUSll2Rmx0MFRRajV6LUlaSEVfNWNlb3ZsRWJYMDZEQzB2QVRGck52Q014SVhoTWtDVjl5M2lMWHVNaEdRZlBiaUUzeXFPSkduLUFjeFdXVGxGeWZGRVV1cDRjZVJuQWhSZE5MOU5iSXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋：英伟达过去一年在欧洲投资80亿美元",
-   "title_zh": "英伟达CEO黄仁勋：英伟达在过去一年中在欧洲投资了80亿美元。 - 富途牛牛",
-   "sentiment": 1
-  },
-  {
-   "id": "39071d196152",
-   "title": "英伟达CEO黄仁勋：......_7x24快讯_新浪财经 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpS3J5OHNSVkk3VDc0OGlRS21ZRzdOeUZfM1VrTk1fTEJDSFVMVER2OVFrWG5pSmQwUC1sa1BFeWlXVDJTQTRKLUN2NjF4QjA",
-   "source": "手机新浪网",
-   "published_at": "2026-10-13T15:24:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-13T15:24:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpS3J5OHNSVkk3VDc0OGlRS21ZRzdOeUZfM1VrTk1fTEJDSFVMVER2OVFrWG5pSmQwUC1sa1BFeWlXVDJTQTRKLUN2NjF4QjA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋相关快讯",
-   "title_zh": "英伟达CEO黄仁勋：......_7x24快讯_新浪财经 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "7881edf8321f",
-   "title": "vCluster Labs Turns Open-Source NVIDIA Run:ai Into a Managed Cluster Product - Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3JTdHJvdldQLTFpNU0zWlJLXzBiZWt4cVNTWGJIQW1fa3pETUFGRHdWUFZVUEVmSG9kajFuQkUzeEpnZEptalh2cVY2bXhHR1QzSV9nVFo4ZFNfa3BibFNKbV9ZSXV6LWttbWFwRUlzOHpFZ1ZkOHVxUDRrWk1mRGpBRE9OOWd4R0J1aC1SNDFCc1dob0xvbEhOYkh6SDZaSlE3NDBxdDFqNEZZeEhlSlF4d3FVelp2QjdZQ0hacWZDOENHZkhmYlZ6Y24",
-   "source": "Business Wire",
-   "published_at": "2026-10-13T15:23:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Business Wire",
-     "published_at": "2026-10-13T15:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3JTdHJvdldQLTFpNU0zWlJLXzBiZWt4cVNTWGJIQW1fa3pETUFGRHdWUFZVUEVmSG9kajFuQkUzeEpnZEptalh2cVY2bXhHR1QzSV9nVFo4ZFNfa3BibFNKbV9ZSXV6LWttbWFwRUlzOHpFZ1ZkOHVxUDRrWk1mRGpBRE9OOWd4R0J1aC1SNDFCc1dob0xvbEhOYkh6SDZaSlE3NDBxdDFqNEZZeEhlSlF4d3FVelp2QjdZQ0hacWZDOENHZkhmYlZ6Y24"
-    },
-    {
-     "name": "AiThority",
-     "published_at": "2026-10-14T07:57:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajBiZHIteTgxeGZONDF6QUxya3FqanRTS2tOVmtpWXRUc1I3VHRicC1CNHhxaXFHaS1Fd3A1UmhmQ3VYQ3RFYWhfQTNNdWtJUU1wdjdpZEpXVnZIMGp3NktoT2NTaHRndzE3cDhVeFRVZy1ZcTBrcDhxX3Y2ZVc5LVNrM3N0bTVVMjVmUGJ1Y0lvbmNObDh2S1Uxdmg4R2pWQ0duM1BUdlFEUlRBV0pQRmlBc0hqdGM3UHc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "vCluster推出Run:ai托管集群产品",
-   "title_zh": "vCluster Labs将开源Run:ai打造成托管集群产品",
-   "sentiment": 1
-  },
-  {
-   "id": "c29d7baf20ba",
-   "title": "英伟达CEO黄仁勋：开放模型对欧洲而言是一大优势。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTR2FiRzZnR3d1UHFOeTB4dElILUxGWVA0VWFENmY5TTc5RFVKc2VNcV9qdVpIVUI4WEhYZTBXbHphYllaaDdDQWMwaw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-13T15:23:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-13T15:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTR2FiRzZnR3d1UHFOeTB4dElILUxGWVA0VWFENmY5TTc5RFVKc2VNcV9qdVpIVUI4WEhYZTBXbHphYllaaDdDQWMwaw"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-13T15:26:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjczc081VVlvLVlkZ1NfSXJuMzZXQ09STThjUzA1cUg3czFWQTdLeFBYRnVPWjM0UW51d2NHUDFVUnN6RkRIQWVfWHFka3ZDa2Z3N3NSX3ptdFNzaHlIUTBkWTJ5X1dWMkNzMlM0RUpwY05mTk1Mc243QTJPeWRRdUdTS1VPSE1lWXJJejhyU09yRFk4WTVBU0NlS2Z6Zw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋：开放模型对欧洲是一大优势",
-   "title_zh": "英伟达CEO黄仁勋：开放模型对欧洲而言是一大优势。 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "360a4f962054",
-   "title": "DLSS 5 officially expands to Hogwarts Legacy soon, as Nvidia doubles model performance since launch day - PC Guide",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFZENUdnOWFIWl84QkxNZDM3a2ZXSm1MQzdpWE9nZ215OHJZMkpOT2VWbHBtcmJRZ2NWVW51ejlLbDF3OTdOOHFEaGc5XzZHb0dYaU9LZ3d1VXR3WXk3NklKTzJVSkxQVXdBMFg2VER4TjJOS0JjTEJHSXo1U1FfNmFRNElVLUt6MUhrS3V5emZhcXBnOWRFY2pmZG44SVgyRDRNR1dwTndycnJMYU9ZSG1fVXUyTVlCOHpHLTdMVE44eWZ5dHZpVW5NTzM",
-   "source": "PC Guide",
-   "published_at": "2026-10-13T15:21:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "PC Guide",
-     "published_at": "2026-10-13T15:21:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFZENUdnOWFIWl84QkxNZDM3a2ZXSm1MQzdpWE9nZ215OHJZMkpOT2VWbHBtcmJRZ2NWVW51ejlLbDF3OTdOOHFEaGc5XzZHb0dYaU9LZ3d1VXR3WXk3NklKTzJVSkxQVXdBMFg2VER4TjJOS0JjTEJHSXo1U1FfNmFRNElVLUt6MUhrS3V5emZhcXBnOWRFY2pmZG44SVgyRDRNR1dwTndycnJMYU9ZSG1fVXUyTVlCOHpHLTdMVE44eWZ5dHZpVW5NTzM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "DLSS 5将支持霍格沃茨之遗，性能较首发翻倍",
-   "title_zh": "DLSS 5即将扩展至《霍格沃茨之遗》，模型性能较首发翻倍",
-   "sentiment": 1
-  },
-  {
-   "id": "e80ffdd0bcbe",
-   "title": "Nvidia Stock Falls as China AI-Chip Share Drops to 34% and Huawe - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWF9wZzZpV203OTB3ekdyZDQyaUc3REtiRWo4WG05ZWZ2d2UzbnNLNHJMdjN3QWRzcktMZDlScXQ5ejluSk9odHJYbDRNcS1oaXVHUDdGcEZlZzBqTGhJR3RrUGdkQkRUb3FBTjl3b2YxWHhPMXJ6X0Y5SDI0SGFLNlNMYy1OdXYxQVFCVUtHWTl3T3NYYmtfaEFjc04xNC1rRFhKaVU5Nzl6X3hv",
-   "source": "GuruFocus",
-   "published_at": "2026-10-13T15:03:04+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-13T15:03:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWF9wZzZpV203OTB3ekdyZDQyaUc3REtiRWo4WG05ZWZ2d2UzbnNLNHJMdjN3QWRzcktMZDlScXQ5ejluSk9odHJYbDRNcS1oaXVHUDdGcEZlZzBqTGhJR3RrUGdkQkRUb3FBTjl3b2YxWHhPMXJ6X0Y5SDI0SGFLNlNMYy1OdXYxQVFCVUtHWTl3T3NYYmtfaEFjc04xNC1rRFhKaVU5Nzl6X3hv"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-13T15:52:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVmRPNkthYzFyYWlwQ2M2cm9SNlpJbGFKUlNmUENpZkpfT3RZY0Y5T25nMlZSQktkWWE0RDZPeF84WGF0T2R1QzNhRFdFNmFIUk80NklsSXZ4T1ByVWM4QnZ5aHM2cVBfOEpBRVRIMDBJNlYxeFh6UTZYLTRDZmJuanZiSkMyeC1YOS1GQng4OHRBa0VLOGJfcXBINmllRHlIdGI2cjd6bWg1T01PaGxpVFlOODR5NE56OEM0eVRuVzFzV1pWbGRDdG13"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "在华AI芯片份额降至34%，股价下跌",
-   "title_zh": "英伟达股价下跌，其中国AI芯片份额降至34%",
-   "sentiment": -1
-  },
-  {
-   "id": "1686aea698a3",
-   "title": "Liqid Appoints Former NVIDIA Executive Kevin Connors to Board of Directors - Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0JEc2ZfcXNCd1VPQWtfYWJyWHJYNl85bkZtc1JJWnNGREhkWFFLNXF6M1hDY2lHTTkyUUVxUVF6blpWYVZuZmwyYUhRc3JNalQwMy1MOVF4NkFxSXYxb2M4SDVjMERXOFhtZmpfZG9Lb1dtOXFJVFkydEFGT0c1NVRaNFlzQm9IcDliNHlBNjctMnhKalZ6ZVI2Vi1sSU9RcFNJSV9jdlh0UThTRTNLdDVOX3hFdV93cDdDek1fMC1QSk9xS3hnRVRMUQ",
-   "source": "Business Wire",
-   "published_at": "2026-10-13T15:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Business Wire",
-     "published_at": "2026-10-13T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0JEc2ZfcXNCd1VPQWtfYWJyWHJYNl85bkZtc1JJWnNGREhkWFFLNXF6M1hDY2lHTTkyUUVxUVF6blpWYVZuZmwyYUhRc3JNalQwMy1MOVF4NkFxSXYxb2M4SDVjMERXOFhtZmpfZG9Lb1dtOXFJVFkydEFGT0c1NVRaNFlzQm9IcDliNHlBNjctMnhKalZ6ZVI2Vi1sSU9RcFNJSV9jdlh0UThTRTNLdDVOX3hFdV93cDdDek1fMC1QSk9xS3hnRVRMUQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-13T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalI2VVU2UnFCVUNrRkJiME00RWdzNk9WbUVpYkpNSkg2Z3Z1emdMR0x1aUx0U2U2bXA0dVRQaTlDbEdHdi1PTUVNQ2RCQTcteHZRZFVkLVZadFc5VXNjWjlEUGxrOEp1TkpVUnJxWHdUYV9Dd1lSVV9jd1JBTFRjdFhpdVRTQ3hSUUhkY1ZKUTczb1RhWW5TTk5BempHM3F2VGxwZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "前英伟达高管加入Liqid董事会",
-   "title_zh": "Liqid任命前英伟达高管凯文·康纳斯为董事",
-   "sentiment": 0
   }
  ]
 }
