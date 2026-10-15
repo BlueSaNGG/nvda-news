@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T21:36:32.412408+00:00",
+ "updated_at": "2026-10-15T21:51:32.075029+00:00",
  "market": {
   "price": 217.23,
   "change_pct": -1.84,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.34,
-   "count": 229
+   "count": 230
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.34（229条已评分）"
+     "note": "今日新闻情绪 +0.34（230条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.0,
    "ma20": 228.58,
-   "as_of": "2026-10-15T21:36:32.396506+00:00"
+   "as_of": "2026-10-15T21:51:32.055251+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -2045,7 +2045,7 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbUFLeEl2X21tYU9pZFZ5dXVLbGNsTDhRY0tPUVRiSnJjaDh1cDVCSDJoaFZZY1NqVkNrLUh4UDM5QkRNcGpkczgwUUpvRFNJdEFhWjhuME5fWU43ckRmZTlJdXFBWUk4SUtaZ19QNTY4M1hEWXU4VTFSZUpjS1UycnR3RmNRMWk4QUl0Ug",
    "source": "搜狐",
    "published_at": "2026-10-15T14:51:16+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐",
@@ -2056,13 +2056,22 @@
      "name": "cnBeta.COM",
      "published_at": "2026-10-15T15:29:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JSms5b0QxOERjLWJLSDE4aWFSNXIza01iWlkwV1h5MDFOUHVfTzJidG1RU3Y3VEFVdHBKWWFPZ3FyMnVnbWNVY2VwMVZDRmU3S0JlRTZXdTh1bTFCYWhCQg"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-15T19:05:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMkdGSmlySjgzQ25ocGphbU5Ra1N0aE03UjJfQVlVcWhpVkxRbUpfYzFONkVhcndZTXhHNFlzSExCOTZ4eFEtMUlxc2pKdlIwWTFDeUc2YmNKTXpSMkdaX2NTY1VTWEtOY2l6M1ZYRmh3MTIyTjJzbjN3UWprMVBvZ3VR"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "德国计划与英伟达开展大规模合作",
    "title_zh": "德国计划与英伟达开展大规模合作 西门子、奥迪等12家企业参与",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.15,
+    "window_h": 2.0
+   }
   },
   {
    "id": "3c1cf43579e6",
@@ -2622,6 +2631,23 @@
    "zh_summary": "黄仁勋：特定情况下英伟达将断供芯片",
    "title_zh": "黄仁勋：这种情况，英伟达将断供芯片！ - 搜狐",
    "sentiment": 0
+  },
+  {
+   "id": "2e0a2cad89d7",
+   "title": "Nvidia RTX Spark - gaming performance and early impressions - PC Gamer",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUFM4Z3NBVkItNWdjOS1jWFRtRVJNUWFQckR6YlRndkRhWE1IbFhzNDVOX0s5WDY1RDl4WVdwVG9LQVFpMUtfVDBIZVp1dDNnc3dRcXp0NVYtMkhlN1phVnlFenRwcXVWTDItOVQwNnlvbnhnZ3gtSVJuV1ZMYmdyWm9RWWZ4ZC1FdHFleUFlWHRTYldhYUpZQWVWYWQ3STdUSHdFR3NtUnpHM0dYLVRTRFQ1TmdBTmJBZ3B2b19IYnhDWDhwV2dRaE1CSjY4NXdhTGNxZ3JCaEkySjU3NWcydjNaM1NaWnVtNG1YRzhHdGZRQi1YcEhUenVn",
+   "source": "PC Gamer",
+   "published_at": "2026-10-15T13:35:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PC Gamer",
+     "published_at": "2026-10-15T13:35:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUFM4Z3NBVkItNWdjOS1jWFRtRVJNUWFQckR6YlRndkRhWE1IbFhzNDVOX0s5WDY1RDl4WVdwVG9LQVFpMUtfVDBIZVp1dDNnc3dRcXp0NVYtMkhlN1phVnlFenRwcXVWTDItOVQwNnlvbnhnZ3gtSVJuV1ZMYmdyWm9RWWZ4ZC1FdHFleUFlWHRTYldhYUpZQWVWYWQ3STdUSHdFR3NtUnpHM0dYLVRTRFQ1TmdBTmJBZ3B2b19IYnhDWDhwV2dRaE1CSjY4NXdhTGNxZ3JCaEkySjU3NWcydjNaM1NaWnVtNG1YRzhHdGZRQi1YcEhUenVn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "a7c590655774",
@@ -5811,26 +5837,6 @@
    "zh_summary": "英伟达RTX Spark首发支持数十款游戏",
    "title_zh": "英伟达称RTX Spark首发支持数十款AAA游戏 正推进反作弊兼容 - 搜狐",
    "sentiment": 1
-  },
-  {
-   "id": "a6f81383df6b",
-   "title": "英伟达的CoreWeave困局：被迫救援还是坐视不管？ - 华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlSVlHWXBEaUo5T2xiY2VSWlJYd1JPcE8zNE81b21yblgyTEU0cVFOTUoxSFNHbEZTQUpxVE85NWdiSkdzSzlrbGN6UTQ3QWZ1Z2Fj",
-   "source": "华尔街见闻",
-   "published_at": "2026-10-14T23:58:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-14T23:58:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlSVlHWXBEaUo5T2xiY2VSWlJYd1JPcE8zNE81b21yblgyTEU0cVFOTUoxSFNHbEZTQUpxVE85NWdiSkdzSzlrbGN6UTQ3QWZ1Z2Fj"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达陷CoreWeave困局：救援或坐视",
-   "sentiment": -1,
-   "title_zh": "英伟达的CoreWeave困局：被迫救援还是坐视不管？ - 华尔街见闻"
   },
   {
    "id": "de6df57fa3fd",
