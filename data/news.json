@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T02:21:32.191514+00:00",
+ "updated_at": "2026-10-15T02:36:29.611623+00:00",
  "market": {
   "price": 221.3,
   "change_pct": -3.16,
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.36,
-   "count": 205
+   "avg": 0.35,
+   "count": 210
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（205条已评分）"
+     "note": "今日新闻情绪 +0.35（210条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 42.3,
    "ma20": 228.69,
-   "as_of": "2026-10-15T02:21:32.172924+00:00"
+   "as_of": "2026-10-15T02:36:29.593231+00:00"
   },
   "pe_ttm": 28.1,
   "pe_pct_5y": 25,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "ed1e5b1738a2",
+   "title": "黄仁勋:AI开发商若危及安全 英伟达不排除断供芯片 - e南洋",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vVnhLcmV5UmRvay1FeE05eTJ1MTNBQ1BnYW1iQ2xzanJ5QUdyd2RDVEpwbjg3UlM3d1BCWnpKc2k2a2V1TmtVZGl5VWJNTk5ab2poM21sSTVkWWRBYmxXazZSOA",
+   "source": "e南洋",
+   "published_at": "2026-10-15T02:25:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "e南洋",
+     "published_at": "2026-10-15T02:25:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vVnhLcmV5UmRvay1FeE05eTJ1MTNBQ1BnYW1iQ2xzanJ5QUdyd2RDVEpwbjg3UlM3d1BCWnpKc2k2a2V1TmtVZGl5VWJNTk5ab2poM21sSTVkWWRBYmxXazZSOA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "2b5ebfb22aca",
+   "title": "英伟达宣布DLSS5技术新进展 微软组建XboxLabs探索AI游戏改造 - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4taVhkX21HVU5BOE5IWHNWMUNJYnpEcS1XNUNWVHFUN0lheGlJWW5VQ3BheVNjbDRqZ3dFeWJMTnhOOTE3VXpPSnVGYzJPTzI1TkR6ZzRnRk5JdGRDSUF4Xzln",
+   "source": "观点网",
+   "published_at": "2026-10-15T02:23:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-15T02:23:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4taVhkX21HVU5BOE5IWHNWMUNJYnpEcS1XNUNWVHFUN0lheGlJWW5VQ3BheVNjbDRqZ3dFeWJMTnhOOTE3VXpPSnVGYzJPTzI1TkR6ZzRnRk5JdGRDSUF4Xzln"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "459e1e065d9f",
    "title": "NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing - EE Times Asia",
@@ -77,8 +111,8 @@
    ],
    "category": "产品技术",
    "session": "盘后",
-   "title_zh": "英伟达扩展面向AI驱动半导体制造的GPU库",
    "zh_summary": "英伟达扩展GPU库助AI芯片制造",
+   "title_zh": "英伟达扩展面向AI驱动半导体制造的GPU库",
    "sentiment": 1
   },
   {
@@ -97,8 +131,8 @@
    ],
    "category": "产品技术",
    "session": "盘后",
-   "title_zh": "博通跌至346美元：AI芯片收入暴涨221%，英伟达之外的另一家万亿巨头 - Moomoo",
    "zh_summary": "博通跌至346美元，AI芯片收入大增221%",
+   "title_zh": "博通跌至346美元：AI芯片收入暴涨221%，英伟达之外的另一家万亿巨头 - Moomoo",
    "sentiment": 1
   },
   {
@@ -117,9 +151,26 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "英伟达重磅升级！游戏概念震荡拉升，电魂网络2连板 - 搜狐",
    "zh_summary": "英伟达升级带动游戏概念股拉升",
+   "title_zh": "英伟达重磅升级！游戏概念震荡拉升，电魂网络2连板 - 搜狐",
    "sentiment": 1
+  },
+  {
+   "id": "6711cfdb625c",
+   "title": "英伟达系AI 抗癌药企Iambic (IAM.US)登陆纳斯达克：发行价定在区间中位，募资1.5 亿美元提供者智通财经 - 英为财情 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMZzJjVWpaaUhJbHFOZjRUMEU0UmYwXzc1ZGJpU0FwS3Y0OW9mSkNfT0huclpZOEdvc3BjWUNhMzJTcFFaYzMwQkY5cVVzQW95Yk5MalFCdU93cVdiLTd4ZGZJUnYwZUhFeXc2RzlqQ1c",
+   "source": "英为财情 Investing.com",
+   "published_at": "2026-10-15T01:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-15T01:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMZzJjVWpaaUhJbHFOZjRUMEU0UmYwXzc1ZGJpU0FwS3Y0OW9mSkNfT0huclpZOEdvc3BjWUNhMzJTcFFaYzMwQkY5cVVzQW95Yk5MalFCdU93cVdiLTd4ZGZJUnYwZUhFeXc2RzlqQ1c"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘后"
   },
   {
    "id": "d6e116a4a349",
@@ -1212,8 +1263,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "英伟达股价预测：NVDA跌3.33%，214.49美元支撑受关注",
    "zh_summary": "NVDA跌3.33%，关注214.49美元支撑",
+   "title_zh": "英伟达股价预测：NVDA跌3.33%，214.49美元支撑受关注",
    "sentiment": -1
   },
   {
@@ -1827,8 +1878,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "英伟达周三股价为何下跌超2%",
    "zh_summary": "英伟达周三股价跌超2%",
+   "title_zh": "英伟达周三股价为何下跌超2%",
    "sentiment": -1
   },
   {
@@ -6641,76 +6692,6 @@
    "zh_summary": "RTX5090涨至5500欧元，股价仅涨6.5%",
    "title_zh": "GeForce RTX 5090涨至5500欧元，英伟达股价仅涨6.5%",
    "sentiment": 0
-  },
-  {
-   "id": "50e4c4192fe3",
-   "title": "据报道，英伟达首席执行官黄仁勋表示，公司计划宣布在欧洲投资$20亿 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkFfdlJDekdtTWwyMW0yNGRjQ0RGY0lUcHIyaUJJdkw1LU1kT1lMbnFPX0pYMkxaZDR0cExtQUh6UV9MMExwWEIwbm5VY1VMam4tczJGWHBTWVphZzFtMU5Sb1lDeXJWVVl5RXVycUhUOEVPS24wdllSOFFPY3d2c2FZdUFRODIybjlIdEd4clpFQ29YZVpFMGt0QWxGRjltTWdPRGFYMFJSR1o5MGlOWg",
-   "source": "Moomoo",
-   "published_at": "2026-10-13T16:58:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-13T16:58:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkFfdlJDekdtTWwyMW0yNGRjQ0RGY0lUcHIyaUJJdkw1LU1kT1lMbnFPX0pYMkxaZDR0cExtQUh6UV9MMExwWEIwbm5VY1VMam4tczJGWHBTWVphZzFtMU5Sb1lDeXJWVVl5RXVycUhUOEVPS24wdllSOFFPY3d2c2FZdUFRODIybjlIdEd4clpFQ29YZVpFMGt0QWxGRjltTWdPRGFYMFJSR1o5MGlOWg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋称英伟达计划在欧洲投资20亿美元",
-   "title_zh": "据报道，英伟达首席执行官黄仁勋表示，公司计划宣布在欧洲投资$20亿 - Moomoo",
-   "sentiment": 1
-  },
-  {
-   "id": "1ec9df86cfd9",
-   "title": "How Rare Is Nvidia’s Record Profit Margin? - Trefis",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTkprTWN4ZGlESmUxTmtxeHpQNnhsLXA4Y2dDVU5ab3FoSXVUbl80UTUtVWcyMDJEQVJ3QkR6TkVXVXM3RHVab1l6ZTFVRFJkSVdmb0ZEMk9DYzZYcGZLLXdib0M1S0Y2cXN4Zlc4UlNCWmtLazliOEhVYjN2QzdVVXpNaXJmd3d6eUQzRnM4Z09lNmxiYU9KUWZWVEl6MWtlYXU4",
-   "source": "Trefis",
-   "published_at": "2026-10-13T16:47:41+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Trefis",
-     "published_at": "2026-10-13T16:47:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTkprTWN4ZGlESmUxTmtxeHpQNnhsLXA4Y2dDVU5ab3FoSXVUbl80UTUtVWcyMDJEQVJ3QkR6TkVXVXM3RHVab1l6ZTFVRFJkSVdmb0ZEMk9DYzZYcGZLLXdib0M1S0Y2cXN4Zlc4UlNCWmtLazliOEhVYjN2QzdVVXpNaXJmd3d6eUQzRnM4Z09lNmxiYU9KUWZWVEl6MWtlYXU4"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-13T16:48:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVzJQMUV0dW9jNk5DT25zVmlTcUhKdzZwN04tcmFKTFlwM3FFYlU2V2htYmtwSVZhRTY3VmE4MFRELXRzUnQ0ODNoQ0RqWk9Lb2JzZjhWc0dLWUMwWTlJMFJ3eHpmNGN0QTVSbUZqaEI1cDNxN0lTdWpqcUlDWXpLOHc3LU80cXg2eVBfZzQ2TWd1S2wzZXlTQmhBZlpCNDg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达创纪录利润率有多罕见",
-   "title_zh": "Trefis：英伟达创纪录利润率有多罕见？",
-   "sentiment": 0
-  },
-  {
-   "id": "998ca4cb2a13",
-   "title": "Ray Dalio’s Actions – Not His Words – Keep Me Buying Nvidia - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzdDSkxoaUM4d3FlNTdkTGI5MFJKY2NXT1BkZXRnRVlETVE5Vm9pMzFZZ0tsNzNtdXZMXzZiQVZ1UjJGb2VJNWNtVW9vZmhMbThzakhDdjliYmNKM0dEV21HVUZ6cFhUS2ZLcGFLMUpLMFp3WmpjeWRKV1hRWmxFRTduaU5EZDZFMkU4OHpUM213X1V5QUhjUGRQUGJpYmM",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-13T16:45:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-13T16:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzdDSkxoaUM4d3FlNTdkTGI5MFJKY2NXT1BkZXRnRVlETVE5Vm9pMzFZZ0tsNzNtdXZMXzZiQVZ1UjJGb2VJNWNtVW9vZmhMbThzakhDdjliYmNKM0dEV21HVUZ6cFhUS2ZLcGFLMUpLMFp3WmpjeWRKV1hRWmxFRTduaU5EZDZFMkU4OHpUM213X1V5QUhjUGRQUGJpYmM"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-13T16:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMUw4ZUZNelM5Tnk3WE1FSEhzN0Z6eWRHMXhsUUsyMjloenNYZGVWZ29vWmp0UmJpdmxLQjhXREQ3OXVjSjlULUl1ZEs1d2lhMlFWc2tiTVhldTQ1SnZIa0pLZWtYclRFa281TVdYQ01LcWd1WGRaY1d4TXJLNWNvY2Fsanh0eHZhMlJGbVBKS1lxbmJrcWEw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "达利欧买入行为支撑继续持有英伟达",
-   "title_zh": "达利欧用行动而非言语支持继续买入英伟达",
-   "sentiment": 1
   }
  ]
 }
