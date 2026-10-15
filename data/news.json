@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T16:06:34.372859+00:00",
+ "updated_at": "2026-10-15T16:21:29.804564+00:00",
  "market": {
-  "price": 217.62,
-  "change_pct": -1.66,
+  "price": 216.63,
+  "change_pct": -2.11,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 33
   },
   "day_sentiment": {
-   "avg": 0.29,
-   "count": 150
+   "avg": 0.28,
+   "count": 155
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 71% 分位"
+     "note": "现价处于52周区间 69% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +44.7%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（150条已评分）"
+     "note": "今日新闻情绪 +0.28（155条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.62 vs 20日均线 $228.60"
+     "note": "现价 $216.63 vs 20日均线 $228.55"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 71,
+   "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 44.7,
-   "ma20": 228.6,
-   "as_of": "2026-10-15T16:06:34.356365+00:00"
+   "implied_upside_pct": 45.4,
+   "ma20": 228.55,
+   "as_of": "2026-10-15T16:21:29.789578+00:00"
   },
-  "pe_ttm": 27.7,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.7%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.5,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "ac6028c722d2",
+   "title": "NTT deploys Nvidia GPU test cluster at Munich 2 data center - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWDZRWUFfU0hTUmxvbm9USHdIS2VQU0g0T0gwRF9XX2ZpX000VVNQTWdxSnhTa0pMM21seDAyOU1mWHpJUUZYOTVrUEc3OWxHSWJXTHNUcm9NWWVKVjRKdjIxdDBPVkVMSFNVMlhsbkV2T2JrakJBSnNRRElrNFpFdVhWUTRNRDJuNHgzbnMxTlplVjl6b0tmME5ELUpNcThUa1FnZzNB",
+   "source": "Data Center Dynamics",
+   "published_at": "2026-10-15T16:18:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Dynamics",
+     "published_at": "2026-10-15T16:18:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWDZRWUFfU0hTUmxvbm9USHdIS2VQU0g0T0gwRF9XX2ZpX000VVNQTWdxSnhTa0pMM21seDAyOU1mWHpJUUZYOTVrUEc3OWxHSWJXTHNUcm9NWWVKVjRKdjIxdDBPVkVMSFNVMlhsbkV2T2JrakJBSnNRRElrNFpFdVhWUTRNRDJuNHgzbnMxTlplVjl6b0tmME5ELUpNcThUa1FnZzNB"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "3f61c241d211",
+   "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop - the-decoder.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3FldmQtcVFnTWoyb1BWelp0S3NTc01zZkRFcTFwVGN4S1dZU1NjR3RBcjVkbkc5TWp6Z1RIOTJRem9NbFdxUUVCUEtQWDBGYUZFV1RDS0tkNHNOeWdTUVNiQzFxSi1SaVEwUk9SVFlWR2NOTzRFbmp1N1FVT3ZnQWVNYzRjSDE3SnVtM2tnclZtSUlNQUhvN29ia0FqRE44RS1jTVg5VE5JOFhIWmVKcEV2WQ",
+   "source": "the-decoder.com",
+   "published_at": "2026-10-15T16:13:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "the-decoder.com",
+     "published_at": "2026-10-15T16:13:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3FldmQtcVFnTWoyb1BWelp0S3NTc01zZkRFcTFwVGN4S1dZU1NjR3RBcjVkbkc5TWp6Z1RIOTJRem9NbFdxUUVCUEtQWDBGYUZFV1RDS0tkNHNOeWdTUVNiQzFxSi1SaVEwUk9SVFlWR2NOTzRFbmp1N1FVT3ZnQWVNYzRjSDE3SnVtM2tnclZtSUlNQUhvN29ia0FqRE44RS1jTVg5VE5JOFhIWmVKcEV2WQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "256fe413cf8e",
+   "title": "Chip Stocks Plummet Amid Inflation Concerns: NVDA, AMD, MU, TSM - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGRZSllDM0xBbmZXV19COHRsaHFicW51UG5JRnBiWEk0ZjhYQ2FrWXpMWm9iQVd4N0hyNTFaSTlqY213cG03MnFtaXBNUDRZMUd0QWQwMXgxMWVqSllUbmdHV2k5Wm1iOWxNQ3RFRk1rVFNoQ1U0dXlzZnFDWFFwY3liakk0M19kMENxZ1h4Q1Z3QURZRURTUzBWQ0kyYmM",
+   "source": "GuruFocus",
+   "published_at": "2026-10-15T16:07:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-15T16:07:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMGRZSllDM0xBbmZXV19COHRsaHFicW51UG5JRnBiWEk0ZjhYQ2FrWXpMWm9iQVd4N0hyNTFaSTlqY213cG03MnFtaXBNUDRZMUd0QWQwMXgxMWVqSllUbmdHV2k5Wm1iOWxNQ3RFRk1rVFNoQ1U0dXlzZnFDWFFwY3liakk0M19kMENxZ1h4Q1Z3QURZRURTUzBWQ0kyYmM"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "59a90f8fb0d9",
    "title": "Nvidia CEO says CoreWeave needs no backstop as shares extend slide - Investing.com",
@@ -127,12 +178,17 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmLXZCclliNXNFZTUzZkNRUkgxa0hUbTVtakk0VjR3eGVnXzUxaGNXSEJzSHp2NWp1c2ZDYXREdnpmRUhnYUMySQ",
    "source": "智东西",
    "published_at": "2026-10-15T15:46:18+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "智东西",
      "published_at": "2026-10-15T15:46:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmLXZCclliNXNFZTUzZkNRUkgxa0hUbTVtakk0VjR3eGVnXzUxaGNXSEJzSHp2NWp1c2ZDYXREdnpmRUhnYUMySQ"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T15:46:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOek1UcFMwNzJQaU4zR1cwdEc2UU0zWHVINlFUbUJiLUFUTm5yMkpqT084MmpmV2RfVndvQmVKcjZCLWtoLWthNGpFM0tIbmdxLU1YaWtoUFVVdUtHajM0VElBbExST09zZmxwVEpEaXlyT19YT2IxdmUtVUZfVmJ4OEVVY3hVUmNNd0pBbA"
     }
    ],
    "category": "其他",
@@ -180,6 +236,23 @@
    "zh_summary": "英伟达发布1200亿参数Nemotron模型",
    "title_zh": "英伟达发布Nemotron 3.5系列1200亿参数模型",
    "sentiment": 1
+  },
+  {
+   "id": "9debfbbf1cf2",
+   "title": "Nvidia unveils Nemotron 3.5 models - Breakingthenews.net",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORVB1OWd1VlpRdnFIcXprb1p5ZURfSWpkWmtkNGRGaWdGdTMwWDhyLUwtX004RVFjMkZoTmQwYjRUeGgxSlUzWjlXTFlCV3BjSEZ2ak9XckxBR2hvVWNwQWY5ekYxT09vQUVvUWVvbXgxM01CWWt6TEU3Qll3MlZqVWVvRUp3UQ",
+   "source": "Breakingthenews.net",
+   "published_at": "2026-10-15T15:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Breakingthenews.net",
+     "published_at": "2026-10-15T15:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORVB1OWd1VlpRdnFIcXprb1p5ZURfSWpkWmtkNGRGaWdGdTMwWDhyLUwtX004RVFjMkZoTmQwYjRUeGgxSlUzWjlXTFlCV3BjSEZ2ak9XckxBR2hvVWNwQWY5ekYxT09vQUVvUWVvbXgxM01CWWt6TEU3Qll3MlZqVWVvRUp3UQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "9a87ef3a7a50",
@@ -247,24 +320,21 @@
    "sentiment": -1
   },
   {
-   "id": "44079897f922",
-   "title": "Here's What $5,000 Invested in Nvidia Stock Could Be Worth by the End of 2030 - The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYXBKQ01ad051Y1poWk5aWFE2T25KMnZDSldCeVpkZFlaWjh6aUk4aXM1WUhyaUpUc3VyenU0eXBJTVFNeGUxbzdBV21hMkgzZ1RsUnlPZlpFTXVacGtiVjNZZjlmdlUyRGprbXFHWC02RW9uMFpPU3FIZl81dThzcHdLcFhrb3hfUzNOS015T0tmN3I5eEtlWWpXRlg3QkVoekxESjN0S21iV2lpcV9ZNDJCdVBqVGs2ckk1ckRERTB4aWNEdXNHY1RmVk5CckZCcmp6eUhaSzhSYThWNkQ1UlRXNnNXdk9UdngzU1dCMUVEVC1tZEE",
-   "source": "The Globe and Mail",
-   "published_at": "2026-10-15T15:27:22+00:00",
+   "id": "cf759d13ee54",
+   "title": "Nvidia CEO Huang Says CoreWeave Improving, No Backstop Needed - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTDQyZF9hQzg5YmxhM2ZBQmZfYjhQdkhWSG5IdEdfQXJFU3NTbWdJVllGR3lCcm1FMUdHLUxxNWl0VGoydU5wZlE3dEVMaUN4c3VGa29VU01Ga1NYa0pvRS1NU05xSHVUTExqdE5yZVVXWmRlWnBtdUlGcWtVVDd5dE8xbDQxYjNWVjVZb2tEeVZGaU41dHFMSENORWY3Y01ZSzVmenpMQTczWVc5V1FMNA",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-15T15:27:52+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-15T15:27:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYXBKQ01ad051Y1poWk5aWFE2T25KMnZDSldCeVpkZFlaWjh6aUk4aXM1WUhyaUpUc3VyenU0eXBJTVFNeGUxbzdBV21hMkgzZ1RsUnlPZlpFTXVacGtiVjNZZjlmdlUyRGprbXFHWC02RW9uMFpPU3FIZl81dThzcHdLcFhrb3hfUzNOS015T0tmN3I5eEtlWWpXRlg3QkVoekxESjN0S21iV2lpcV9ZNDJCdVBqVGs2ckk1ckRERTB4aWNEdXNHY1RmVk5CckZCcmp6eUhaSzhSYThWNkQ1UlRXNnNXdk9UdngzU1dCMUVEVC1tZEE"
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-15T15:27:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTDQyZF9hQzg5YmxhM2ZBQmZfYjhQdkhWSG5IdEdfQXJFU3NTbWdJVllGR3lCcm1FMUdHLUxxNWl0VGoydU5wZlE3dEVMaUN4c3VGa29VU01Ga1NYa0pvRS1NU05xSHVUTExqdE5yZVVXWmRlWnBtdUlGcWtVVDd5dE8xbDQxYjNWVjVZb2tEeVZGaU41dHFMSENORWY3Y01ZSzVmenpMQTczWVc5V1FMNA"
     }
    ],
    "category": "其他",
-   "session": "盘中",
-   "zh_summary": "$5,000投资英伟达2030年价值几何",
-   "title_zh": "《环球邮报》：5000美元投资英伟达，2030年底或值多少",
-   "sentiment": 0
+   "session": "盘中"
   },
   {
    "id": "6028a9ed6c17",
@@ -305,6 +375,26 @@
    "zh_summary": "英伟达发布Nemotron 3.5新模型",
    "title_zh": "英伟达发布Nemotron 3.5 Super VL大模型",
    "sentiment": 1
+  },
+  {
+   "id": "44079897f922",
+   "title": "Here's What $5,000 Invested in Nvidia Stock Could Be Worth by the End of 2030 - The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU3ZVYjN0WmFQUmhyV3g0bTFnbUMtaGJ3QkF6Ung1a2ZGeFc4Q2VDY0FxX3RSbjNvXy1iZkJLLVpnMEhaNGU0U29INmljajR0bVZYU3JWc1JfdVJsblBvUmp0YzNqWjVhN1piMUdNT1RKaVNhUUhvS0lpX3VGRUh5WFU5UzBxSEoxU19ESXVwWkMzZ1V1NS1Kbzh5Z00yS0tqWEwxNkpjRFhwVFBEbU5peFo1WGF2R0tZVW9KbDd0a2l5dUlwR3FVYUpmRzc2N1E2OHVsXzZ5a0NsLXZkNVc4NlVtTkt5R2pWZXJGUWZrTWc",
+   "source": "The Globe and Mail",
+   "published_at": "2026-10-15T15:18:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-15T15:18:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU3ZVYjN0WmFQUmhyV3g0bTFnbUMtaGJ3QkF6Ung1a2ZGeFc4Q2VDY0FxX3RSbjNvXy1iZkJLLVpnMEhaNGU0U29INmljajR0bVZYU3JWc1JfdVJsblBvUmp0YzNqWjVhN1piMUdNT1RKaVNhUUhvS0lpX3VGRUh5WFU5UzBxSEoxU19ESXVwWkMzZ1V1NS1Kbzh5Z00yS0tqWEwxNkpjRFhwVFBEbU5peFo1WGF2R0tZVW9KbDd0a2l5dUlwR3FVYUpmRzc2N1E2OHVsXzZ5a0NsLXZkNVc4NlVtTkt5R2pWZXJGUWZrTWc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "$5,000投资英伟达2030年价值几何",
+   "title_zh": "《环球邮报》：5000美元投资英伟达，2030年底或值多少",
+   "sentiment": 0
   },
   {
    "id": "9861694bf86e",
@@ -712,17 +802,39 @@
    "sentiment": 1
   },
   {
+   "id": "8a935779ea9b",
+   "title": "Nvidia's Huang Says CoreWeave Doesn't Need a Backstop - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR",
+   "source": "Barron's",
+   "published_at": "2026-10-15T14:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-15T14:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "d0125baf4043",
    "title": "特朗普白宫宴会捐款名单曝光：苹果、英伟达各捐2500万美元为单笔最高金额 - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWVheUZnYlE1YWdiWVdEelVlODktRFVWcnNWS3NsU1VkWV9YRzlybTZ1NEU1NTdENlY1bk1weG1HSVVDN1czRmZsYl9pOU9sUUs0TlIxSTUtVTNYUk5mRGdNRXFxWW5EWGhqdF83MElYZ0tvOUxON2c3dHpCZFFpT3MxQ0VlNGRr",
    "source": "搜狐",
    "published_at": "2026-10-15T14:31:52+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-15T14:31:52+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWVheUZnYlE1YWdiWVdEelVlODktRFVWcnNWS3NsU1VkWV9YRzlybTZ1NEU1NTdENlY1bk1weG1HSVVDN1czRmZsYl9pOU9sUUs0TlIxSTUtVTNYUk5mRGdNRXFxWW5EWGhqdF83MElYZ0tvOUxON2c3dHpCZFFpT3MxQ0VlNGRr"
+    },
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-15T16:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtbTUyLXR4NXZtX05EWGFXM1JHVGZpcTBrWktfOGZBdzQtSGMzanJISVRPWlhrWXJPQVpIWWpneFZwcWRlVUducFg1V1h6bWE4b1FnTm9Rc0w"
     }
    ],
    "category": "其他",
@@ -2194,6 +2306,23 @@
    "zh_summary": "苹果市值突破5万亿美元挑战英伟达",
    "title_zh": "苹果市值破5万亿美元，能否超越英伟达成全球市值第一",
    "sentiment": -1
+  },
+  {
+   "id": "85ef4f6aab4f",
+   "title": "微软为英伟达 RTX Spark 优化视窗系统，强化本地人工智能与游戏兼容 - Mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhaTUwWmhPdkRjZkJ4YmVXUUFMQzVNSUNFcV9LMGNNZFY2aE1YTE80NnVEU2VMYTNxR2dqRElPTGYyYVJ2UnpJaU5FZC1kdGVBYTBMUm9YMlZ6YnFKV1ZFdVFVYVlpbnhWLTRPaGo3RXp0WXJpOEE",
+   "source": "Mezha.net",
+   "published_at": "2026-10-15T11:13:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Mezha.net",
+     "published_at": "2026-10-15T11:13:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhaTUwWmhPdkRjZkJ4YmVXUUFMQzVNSUNFcV9LMGNNZFY2aE1YTE80NnVEU2VMYTNxR2dqRElPTGYyYVJ2UnpJaU5FZC1kdGVBYTBMUm9YMlZ6YnFKV1ZFdVFVYVlpbnhWLTRPaGo3RXp0WXJpOEE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "6953f001cb86",
@@ -6357,151 +6486,6 @@
    "session": "盘中",
    "zh_summary": "2027年英伟达、美光、闪迪看涨理由",
    "title_zh": "2027年英伟达、美光、闪迪的看涨逻辑",
-   "sentiment": 1
-  },
-  {
-   "id": "6ccf52c075a5",
-   "title": "美股AI芯片股集体下跌，AMD跌超3%，英伟达跌超2% - 格隆汇",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HODNNUkVDTmJDS3g1SGRaTWZGSWNyZ0xFbjdEbmItc1hmOUhJb2tITUpMeGZpOV96WTNUVXpxS0k3NUhreDVlNXFGUTk0R3M",
-   "source": "格隆汇",
-   "published_at": "2026-10-14T13:57:58+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "格隆汇",
-     "published_at": "2026-10-14T13:57:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HODNNUkVDTmJDS3g1SGRaTWZGSWNyZ0xFbjdEbmItc1hmOUhJb2tITUpMeGZpOV96WTNUVXpxS0k3NUhreDVlNXFGUTk0R3M"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-14T14:43:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40Y3laclNXajJTbWstMFVaS0hxOGh5eWNjQ0kzVjBYRG9IaWlxU0pMLUdEQlZJTUdrTV9nUHJISTQxNmJXX05JZmZyNXBWcml4UmZTSi1ieWIwX1o0MlJoN3M4X0RDVkxtRUhyLUF5UQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "AI芯片股集体下跌，英伟达跌超2%",
-   "title_zh": "美股AI芯片股集体下跌，AMD跌超3%，英伟达跌超2% - 格隆汇",
-   "sentiment": -1
-  },
-  {
-   "id": "0962403ba19d",
-   "title": "$NVIDIA (NVDA.US)$[Scream][My Eyes!] - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lNkFqSUhOZHktSm8yZEVmOEhOLWdNaU5tU1hGRE5Nd1ZvbGFqdDNaUGFKaUFWaGhhcUJyVVc1UDFIZXJBWkFRTFJnOF9CN2xqYXM0OGhtOWJPcWkwLXdPSU1IOVhWcm1ZZmpTSjlZdUt0WVJXWEJ3",
-   "source": "Moomoo",
-   "published_at": "2026-10-14T13:52:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-14T13:52:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lNkFqSUhOZHktSm8yZEVmOEhOLWdNaU5tU1hGRE5Nd1ZvbGFqdDNaUGFKaUFWaGhhcUJyVVc1UDFIZXJBWkFRTFJnOF9CN2xqYXM0OGhtOWJPcWkwLXdPSU1IOVhWcm1ZZmpTSjlZdUt0WVJXWEJ3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Moomoo网友发帖惊叹NVDA走势",
-   "title_zh": "Moomoo网友发帖：NVDA走势令人惊叹",
-   "sentiment": 0
-  },
-  {
-   "id": "6c12e5f8eadd",
-   "title": "At NVIDIA’s campus, Honeywell’s AI pilot cut unnecessary alerts by up to 90% on average - Stock Titan",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGJBZlBxNHlsUkZHT0dZaENRMS1QRkxwUU84NnVCUldEWW54Q19DaXMyY3ZJbWJHU3IyRXJTN0xTbkNBcmM2MEgybC1Pa1dtd2dhWm1lU0RMWFgzT0tHZkZZdXByUE5ScWRCdzhnWGVBc1dzNUJkT015b0g1cS12SEoyLVE1amhVVGhYQWxpaUJka1R1b2lWWWp2UlRoM0NIejJyVC1FTnA5dThUWjN0VG5LNXpPNTdsSlYzM01UWQ",
-   "source": "Stock Titan",
-   "published_at": "2026-10-14T13:52:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stock Titan",
-     "published_at": "2026-10-14T13:52:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGJBZlBxNHlsUkZHT0dZaENRMS1QRkxwUU84NnVCUldEWW54Q19DaXMyY3ZJbWJHU3IyRXJTN0xTbkNBcmM2MEgybC1Pa1dtd2dhWm1lU0RMWFgzT0tHZkZZdXByUE5ScWRCdzhnWGVBc1dzNUJkT015b0g1cS12SEoyLVE1amhVVGhYQWxpaUJka1R1b2lWWWp2UlRoM0NIejJyVC1FTnA5dThUWjN0VG5LNXpPNTdsSlYzM01UWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "霍尼韦尔AI试点在英伟达园区减少90%无效警报",
-   "title_zh": "霍尼韦尔AI试点在英伟达园区将无效警报平均减少90%",
-   "sentiment": 1
-  },
-  {
-   "id": "494bbd0f4082",
-   "title": "Honeywell launches AI platform with Nvidia, Dell for building automation (HON:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHI1RkluVmhPcTJCaWVGUE5MYVVKOXkyejBXWHMxcENjS3Mzakk4TkhuZHo4aWItQll1b0lWbzBIT01JQ1NRYU10Zk94c00wRFdmM0FscWxubE1VTnAzX04zQU5uNHIwOWVvRWhBVGlvbmREUUZ0cUxKaUhwcnhUcFJCREV4cEswcUEyd3ctN1dsZ2FTMFVwa2pDcXJVeFV5RE5zNUJkdERaZ3BPa2c",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-14T13:46:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-14T13:46:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHI1RkluVmhPcTJCaWVGUE5MYVVKOXkyejBXWHMxcENjS3Mzakk4TkhuZHo4aWItQll1b0lWbzBIT01JQ1NRYU10Zk94c00wRFdmM0FscWxubE1VTnAzX04zQU5uNHIwOWVvRWhBVGlvbmREUUZ0cUxKaUhwcnhUcFJCREV4cEswcUEyd3ctN1dsZ2FTMFVwa2pDcXJVeFV5RE5zNUJkdERaZ3BPa2c"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "霍尼韦尔联合英伟达戴尔发布楼宇AI平台",
-   "title_zh": "霍尼韦尔与英伟达、戴尔合作推出楼宇自动化AI平台",
-   "sentiment": 1
-  },
-  {
-   "id": "fa23b4dc05c2",
-   "title": "Chip Stocks Down As Intel, Micron Nvidia Trade Lower On ASML Upgrade, China's CXMT Progress - NDTV Profit",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVIxZGwwajloVUhBb2RnTmR5Skp4SGV3ckFRbzN1OHh3cjRZRmF0SXQteWZRRk9IcDIwWlYtQmRNcUlyYkRlS2k0aVd3TVlyMm9FaEQ4SG5HczUwTU1mSlVJZ1owYTJuVHpYQ0RHT0pSV3hoc3BWc2lVdHFRc19rMm5Ia2ZiUGczV2dvaDJPd0RtWGxhZkdwelV0QjJPUGN4dEdFczI1cS01bHdNNGtxemVDMVhMbEtqS2tjR1lmdUgyUWcxeGwyZVhrdlnSAdQBQVVfeXFMTmNDMGlYb1ZaTmFZYl9CRVlPVFhycnRZdDZOQ2ZwTkswRUNOcDNGUWEtdXZYMDUtMEYyZk5rU2s5NVIwYjFwcU5YWm5DbzBmbGNodm5UZUJXeEFRU2xmZ2JqUjNzMzJmTG5nNTFuWEc2enlWVXhLVXgwN2xacXA2OEV5Y1lPaGRNVGdhUllERjlGWHRMZGVnX2pZRGdkUGhtR0JaOTNGcmJxVnZCa1ZsZmtoX3dvR01LNkJHOVhZQjJDV1NBaU8yc3JxS0NNWDZCVlhtaU8",
-   "source": "NDTV Profit",
-   "published_at": "2026-10-14T13:44:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NDTV Profit",
-     "published_at": "2026-10-14T13:44:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVIxZGwwajloVUhBb2RnTmR5Skp4SGV3ckFRbzN1OHh3cjRZRmF0SXQteWZRRk9IcDIwWlYtQmRNcUlyYkRlS2k0aVd3TVlyMm9FaEQ4SG5HczUwTU1mSlVJZ1owYTJuVHpYQ0RHT0pSV3hoc3BWc2lVdHFRc19rMm5Ia2ZiUGczV2dvaDJPd0RtWGxhZkdwelV0QjJPUGN4dEdFczI1cS01bHdNNGtxemVDMVhMbEtqS2tjR1lmdUgyUWcxeGwyZVhrdlnSAdQBQVVfeXFMTmNDMGlYb1ZaTmFZYl9CRVlPVFhycnRZdDZOQ2ZwTkswRUNOcDNGUWEtdXZYMDUtMEYyZk5rU2s5NVIwYjFwcU5YWm5DbzBmbGNodm5UZUJXeEFRU2xmZ2JqUjNzMzJmTG5nNTFuWEc2enlWVXhLVXgwN2xacXA2OEV5Y1lPaGRNVGdhUllERjlGWHRMZGVnX2pZRGdkUGhtR0JaOTNGcmJxVnZCa1ZsZmtoX3dvR01LNkJHOVhZQjJDV1NBaU8yc3JxS0NNWDZCVlhtaU8"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "zh_summary": "受ASML上调评级与长鑫进展影响，芯片股走低",
-   "title_zh": "英特尔、美光、英伟达走低，芯片股因ASML上调评级与中国长鑫进展下跌",
-   "sentiment": -1
-  },
-  {
-   "id": "211911176fb6",
-   "title": "Trump and Nancy Pelosi’s Top AI Stock Pick: NVIDIA (NVDA) - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2dzUkJHbHQ3c1VVS0pwZXQ5dFpkLUJyQTRHM2UxMDZIWmlVY1lKb0dESkJyODh6YzVmUE1pd0NWRHpWX2Z2WGI1M0tPbTc5TkZpSFByMVpGaWpfSF9jVnY3dlQ3YjlmUEhYRFZ3WFlxTjRLenNvUHJDdFFPOW5JX2pVdEtqWHJEUVl2YjY0S1J1bnoy",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-14T13:33:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-14T13:33:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2dzUkJHbHQ3c1VVS0pwZXQ5dFpkLUJyQTRHM2UxMDZIWmlVY1lKb0dESkJyODh6YzVmUE1pd0NWRHpWX2Z2WGI1M0tPbTc5TkZpSFByMVpGaWpfSF9jVnY3dlQ3YjlmUEhYRFZ3WFlxTjRLenNvUHJDdFFPOW5JX2pVdEtqWHJEUVl2YjY0S1J1bnoy"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "特朗普佩洛西共同看好英伟达",
-   "title_zh": "特朗普和佩洛西共同的AI股票选择：英伟达",
-   "sentiment": 1
-  },
-  {
-   "id": "2d8d6241fe52",
-   "title": "Nvidia's Valuation Is Becoming Absurdly Cheap (NASDAQ:NVDA) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTkJyb2dGVHVpaEVhRHhMbVJZRVZNSW1KdlBscjlWQVJ6WnhpS2FzRm5JVzZyTUNXd0dVYnFNRmFiSklyWmJQVTNUdkt3Y1hnSDRyVm1fenlPSEt0RkJ6WUNNbW4zRFVHdzNCbEJqXzF1eFlDcFZqQ2YwYVJGbGtheXhPSzVwWFBfUmluWA",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-14T13:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-14T13:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTkJyb2dGVHVpaEVhRHhMbVJZRVZNSW1KdlBscjlWQVJ6WnhpS2FzRm5JVzZyTUNXd0dVYnFNRmFiSklyWmJQVTNUdkt3Y1hnSDRyVm1fenlPSEt0RkJ6WUNNbW4zRFVHdzNCbEJqXzF1eFlDcFZqQ2YwYVJGbGtheXhPSzVwWFBfUmluWA"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "英伟达估值正变得异常便宜",
-   "title_zh": "Seeking Alpha称英伟达估值正变得异常便宜",
    "sentiment": 1
   }
  ]
