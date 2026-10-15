@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T05:21:34.434520+00:00",
+ "updated_at": "2026-10-15T05:36:31.276965+00:00",
  "market": {
   "price": 221.3,
   "change_pct": -3.16,
@@ -10,12 +10,12 @@
    "days_left": 33
   },
   "day_sentiment": {
-   "avg": 0.36,
-   "count": 225
+   "avg": 1.0,
+   "count": 2
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.36（225条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +1.00（2条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 42.3,
    "ma20": 228.69,
-   "as_of": "2026-10-15T05:21:34.421319+00:00"
+   "as_of": "2026-10-15T05:36:31.265675+00:00"
   },
   "pe_ttm": 28.1,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "1c9df4b1938e",
+   "title": "Nvidia invests in five UK start-ups - Electronics Weekly",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVlzOVpabW5QTThwNnFQeXhISktmMlpwWWtfS3dsRzJDd25NcXZCcGpPcUk0VFNnSHFiSnI2dTM2NUNLbXgyc3BQXzVqa3RaeTFoRUVkMWtjbkV6VXQ5LWt4TVJsQUp6T3hzaHZYemZOUmxqRTlUcjZYdjRNanI3b2tFdU9zTDZXblFzdVVDZkNMYm5TMUE",
+   "source": "Electronics Weekly",
+   "published_at": "2026-10-15T05:25:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Electronics Weekly",
+     "published_at": "2026-10-15T05:25:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVlzOVpabW5QTThwNnFQeXhISktmMlpwWWtfS3dsRzJDd25NcXZCcGpPcUk0VFNnSHFiSnI2dTM2NUNLbXgyc3BQXzVqa3RaeTFoRUVkMWtjbkV6VXQ5LWt4TVJsQUp6T3hzaHZYemZOUmxqRTlUcjZYdjRNanI3b2tFdU9zTDZXblFzdVVDZkNMYm5TMUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "a12a49eed12f",
    "title": "Nvidia to spend $250m on UK computing resources - Electronics Weekly",
@@ -4097,6 +4114,23 @@
    "sentiment": 1
   },
   {
+   "id": "c14281e1fda0",
+   "title": "NVIDIA Corporation $NVDA Shares Sold by Glenview Trust Co - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0",
+   "source": "MarketBeat",
+   "published_at": "2026-10-14T08:09:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-14T08:09:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpzc1luRGhYY3l6czVZX2tycUpWWnpTNklhR2l0TDdid29saUxjSk9QaDM0N0JkX1g1Z3NPOW1yR1BzaDBQR2F0R2tlNUpZR1VkcVY1VlB5UE9TU3FxRTdUTmlpME9HSnItbGhjZWI2RXpIR2lKa0tZUExzemNwMWF6NHpnbGU5b1hlYnRhd1NNaWNUM3pmaHhKNVM1cnJCUTZxN0VzYmJUbVhfU2s5NVgzdV8xLXI0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "329bba1f810b",
    "title": "Riverlane And Nvidia Speed Up Quantum Error Correction With AI - Quantum Zeitgeist",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84LTRSUTY4bXBJeXZiUVAtZlZJMUdXOEpDeXp0dVQ5d0RHQlgtY1RVNWV5TzFTZDRadnIwaE83ZF9fWDlKZFktMkZyRDhRNGlXR19JbzhKQi1hUE5qOGpUaDZMS3A2TXRZRlBHMnpNLUoyd3NDSUpNMkpWaw",
@@ -6612,46 +6646,6 @@
    "session": "盘中",
    "zh_summary": "英伟达DLSS 5速度翻倍、显存占用减少",
    "title_zh": "英伟达发布RTX Spark：DLSS 5速度翻倍、显存更省",
-   "sentiment": 1
-  },
-  {
-   "id": "65e559db821a",
-   "title": "Why Nvidia Stock Is Up Even as Microsoft Launches the Maia 300 - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkt5Y3pFZXJHTFMtVjBsRS03eGdxUkFudlQwQ0JUWjlRT3JHOWxnMXlNaE9vOHhLTUdGWVNMWDFibUhzSDdielo5OThVbU85bTBMdllNZXJYSFNScVZrdEVkYVZSUlVfVGYyS29BR1dwMVM4c1E5eE1nc0JhTy1uRTFXRVZFeEFLNmpmOQ",
-   "source": "Barron's",
-   "published_at": "2026-10-13T18:53:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-13T18:53:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkt5Y3pFZXJHTFMtVjBsRS03eGdxUkFudlQwQ0JUWjlRT3JHOWxnMXlNaE9vOHhLTUdGWVNMWDFibUhzSDdielo5OThVbU85bTBMdllNZXJYSFNScVZrdEVkYVZSUlVfVGYyS29BR1dwMVM4c1E5eE1nc0JhTy1uRTFXRVZFeEFLNmpmOQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "微软发布竞品Maia 300，英伟达股价逆势上涨",
-   "title_zh": "微软发布Maia 300竞争芯片，英伟达股价仍上涨",
-   "sentiment": 1
-  },
-  {
-   "id": "e7110b103881",
-   "title": "Nvidia Stock Shakes Off Fallout From Broadcom CEO and Microsoft's New Chip -- Barrons.com - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1FiaHRINjJTbGREUEFCSmNmdWNGWVVnZUI0OUNLREtrOG5fZkQ2TWdTUjdQY0I5N0hmZV96R1pVVi0wS3pWQmFlM3lBY2x0SFBBV0dHckxlMERPakFrT19Hd25Fdng0VnE2T28tZGViWkRGRGR0czhDQWI3WTgxNUVIZWRiQTZtNFdaMmJIaHhxR0pnT2hSSEhReEt5UkRZM2d6R1hTck9FUTg",
-   "source": "Moomoo",
-   "published_at": "2026-10-13T18:47:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-13T18:47:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1FiaHRINjJTbGREUEFCSmNmdWNGWVVnZUI0OUNLREtrOG5fZkQ2TWdTUjdQY0I5N0hmZV96R1pVVi0wS3pWQmFlM3lBY2x0SFBBV0dHckxlMERPakFrT19Hd25Fdng0VnE2T28tZGViWkRGRGR0czhDQWI3WTgxNUVIZWRiQTZtNFdaMmJIaHhxR0pnT2hSSEhReEt5UkRZM2d6R1hTck9FUTg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达股价从博通微软芯片消息中回升",
-   "title_zh": "英伟达股价摆脱博通CEO和微软新芯片影响",
    "sentiment": 1
   }
  ]
