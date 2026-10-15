@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-15T14:06:50.797582+00:00",
+ "updated_at": "2026-10-15T14:21:43.252709+00:00",
  "market": {
-  "price": 215.24,
-  "change_pct": -2.74,
+  "price": 215.72,
+  "change_pct": -2.52,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 33
   },
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 105
+   "avg": 0.22,
+   "count": 111
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +46.3%"
+     "note": "目标价中位数 $315（15家），隐含空间 +46.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（105条已评分）"
+     "note": "今日新闻情绪 +0.22（111条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $215.24 vs 20日均线 $228.48"
+     "note": "现价 $215.72 vs 20日均线 $228.51"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 68,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 46.3,
-   "ma20": 228.48,
-   "as_of": "2026-10-15T14:06:50.787427+00:00"
+   "implied_upside_pct": 46.0,
+   "ma20": 228.51,
+   "as_of": "2026-10-15T14:21:43.233038+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.3%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,79 @@
   }
  },
  "stories": [
+  {
+   "id": "43c4a1c2d3f7",
+   "title": "Nvidia joins The Earthshot Prize as new founding member - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNUYxUkNhdnJuNHMtSjJEQ3NUQ2RlODJXRVl4Si03blpWZkFhQ1QyRHU0NTc2LVpIR3ZxbjN1UzJjRUFndngtYkpUS0tIbjhNY1BuaTI4TFFXQVFWSGotN2NRQmR5Wkd2aFdzMFY3TUFsVnl0dDlBWmtMQkpXOElmS2YtLUNmSFNJdkpvZGJLaDR3N2FJeWZxZTJ5R1hfendr",
+   "source": "Data Center Dynamics",
+   "published_at": "2026-10-15T14:17:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Dynamics",
+     "published_at": "2026-10-15T14:17:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNUYxUkNhdnJuNHMtSjJEQ3NUQ2RlODJXRVl4Si03blpWZkFhQ1QyRHU0NTc2LVpIR3ZxbjN1UzJjRUFndngtYkpUS0tIbjhNY1BuaTI4TFFXQVFWSGotN2NRQmR5Wkd2aFdzMFY3TUFsVnl0dDlBWmtMQkpXOElmS2YtLUNmSFNJdkpvZGJLaDR3N2FJeWZxZTJ5R1hfendr"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "7f09bffd4938",
+   "title": "黄仁勋：英伟达须与中国AI企业合作监测风险 - DoNews",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55ZV9NdzlSdGx4eWRDZWtta3lsbjR0OUlxNWczRGhxTGJ5aXZxUXVxQUdlY1Vua3NrLS1IcHVXWUphcmd3VWE5Y005ZXp2TDkzUDg2aWFaQW1POHBHMGc",
+   "source": "DoNews",
+   "published_at": "2026-10-15T14:14:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "DoNews",
+     "published_at": "2026-10-15T14:14:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55ZV9NdzlSdGx4eWRDZWtta3lsbjR0OUlxNWczRGhxTGJ5aXZxUXVxQUdlY1Vua3NrLS1IcHVXWUphcmd3VWE5Y005ZXp2TDkzUDg2aWFaQW1POHBHMGc"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "52606570badf",
+   "title": "Beyond Nvidia: how alternative silicon is reshaping datacentre design - Computer Weekly",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNk1LUXBLak8tdFF6cnB2dmpCRXFPYzRpU1lhcmhjYXRDNU9qaDJjaXBxcVppbkVNd0JPYm40bDkxRWlsMzlWemJwX3Y4Nkp0TE55RHpWTF84bzI1a00tNURaZU95MW4zYTNnMkZpbnFWMERILUw4SWhwMFhOSDZ6YUNlVmZtX3pQSno5SXByZlZlWWVFRmtVWnM4Nk9ycDFUVVZ0dklwV05jVzA",
+   "source": "Computer Weekly",
+   "published_at": "2026-10-15T14:08:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Computer Weekly",
+     "published_at": "2026-10-15T14:08:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNk1LUXBLak8tdFF6cnB2dmpCRXFPYzRpU1lhcmhjYXRDNU9qaDJjaXBxcVppbkVNd0JPYm40bDkxRWlsMzlWemJwX3Y4Nkp0TE55RHpWTF84bzI1a00tNURaZU95MW4zYTNnMkZpbnFWMERILUw4SWhwMFhOSDZ6YUNlVmZtX3pQSno5SXByZlZlWWVFRmtVWnM4Nk9ycDFUVVZ0dklwV05jVzA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "3eb300813858",
+   "title": "Nvidia, Apple Each Gave $25 Million for Trump's Ballroom, Washington Post Reports - U.S. News & World Report",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONHFja0x3ZjNuLWY2YnkxR1dhT09aUmVkdUs5bmFBZFpjNVR4VnJrOGpvS3lSd2J0YXZDdjZNT0Q1Sk9YZnpWVzhWRzhkMUFQdENKNTM0Z3F4SjlxQUNUckRRSEJ0SU1namlnaC1uWUtaNjM2M2RKNHQwdFB3Znp4Z1dtN2NjUkhfWk9CWW1yNGlUaWRZczFBSlNqQWpqZERpMEt5VDZ0ODB2NmFUbnB2RU5ZRmhTaHJGN2Z5a0cydmcydzdodW9wV0RaUjExR3M",
+   "source": "U.S. News & World Report",
+   "published_at": "2026-10-15T14:04:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "U.S. News & World Report",
+     "published_at": "2026-10-15T14:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONHFja0x3ZjNuLWY2YnkxR1dhT09aUmVkdUs5bmFBZFpjNVR4VnJrOGpvS3lSd2J0YXZDdjZNT0Q1Sk9YZnpWVzhWRzhkMUFQdENKNTM0Z3F4SjlxQUNUckRRSEJ0SU1namlnaC1uWUtaNjM2M2RKNHQwdFB3Znp4Z1dtN2NjUkhfWk9CWW1yNGlUaWRZczFBSlNqQWpqZERpMEt5VDZ0ODB2NmFUbnB2RU5ZRmhTaHJGN2Z5a0cydmcydzdodW9wV0RaUjExR3M"
+    },
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-15T14:11:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1poWEFKa01FenF2THNycHFFMFNaeklhc2JGSVJqa21nTGo1cFpyMFR5cGFwMHN1cVdjdWM5NjhiaU9Zakg2ZUJDVG1aeVBPRHVNYm95NEItUlFGNndZQnhVQUE3bE1rZE52bHgxM3Jmd1RCVm9FNy1LNFlFb1RXQ0ZXRG9CRXNUUE9PUG1rbHdqSE5XT3FOSzBlUFdoTUoxZmwxbUFoY01ZMG85cG5INDg2ZmdycTdUaHc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "f88d8f0afd05",
    "title": "热门板块速睇：美股盘中英伟达持仓概念走弱，NEBIUS领跌 - Moomoo",
@@ -180,6 +253,28 @@
    "zh_summary": "英伟达领跌，芯片股走低",
    "title_zh": "AI交易降温，英伟达领跌芯片股",
    "sentiment": -1
+  },
+  {
+   "id": "c107481fea6d",
+   "title": "The Case For NVIDIA Stock Rests On One Thing - Trefis",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRTFEZ3NfcmVLeW9WbUd5MndhdzVGNHI2X0hWRmZrUEF6RHU1ZmNmREZicTBfNVpYOU5GVERxZkNxQTdxdDBNNGw3cV9SVmNiS29YUlJwTnVkeDdQXzEyUnhTX0hYTVlzbmU0X1FZSEFWdHdJeW1hYV9NZktXWEVNV2djak0wcE9SZ0lEdFRQN1N0T1RtS0lOMWlxLWtDc3FnMHAxSmFlQlU",
+   "source": "Trefis",
+   "published_at": "2026-10-15T13:42:12+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Trefis",
+     "published_at": "2026-10-15T13:42:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRTFEZ3NfcmVLeW9WbUd5MndhdzVGNHI2X0hWRmZrUEF6RHU1ZmNmREZicTBfNVpYOU5GVERxZkNxQTdxdDBNNGw3cV9SVmNiS29YUlJwTnVkeDdQXzEyUnhTX0hYTVlzbmU0X1FZSEFWdHdJeW1hYV9NZktXWEVNV2djak0wcE9SZ0lEdFRQN1N0T1RtS0lOMWlxLWtDc3FnMHAxSmFlQlU"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T13:42:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXE5R2YxMEVIQmVYdjgyLUx4dDNmMlh0aW1nLTdwNWpBV2Y5aEtHVFpvVkp5cnBFblFhUTRTanJrczFENzRHQzNkRS1USWMtZ0pKQ1lfU0c5NllqNnNRb2I4QW4wV1p2UzA1eFhtOEN6MWdlZUtrNzAwSEdrWWh1OWxBOE5KaFd3bU1PM3dWT0p5WE9NdlA4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "c9392e878b2d",
@@ -1900,51 +1995,6 @@
    "sentiment": 1
   },
   {
-   "id": "e9c47ee00191",
-   "title": "美的加入英伟达MGX生态链 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EYVIyM2NLMHhOSVNZVmVBdlB1MUlFcFFQTHpUV3I1YmZnQlFXYXREMUx3N2pJc0lieW90dWhDLUMwdHBNYldnejhjd254Q1cwV09WcDJkdnd1amZHNkVTLXNxQQ",
-   "source": "东方财富",
-   "published_at": "2026-10-15T08:13:44+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-15T08:13:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EYVIyM2NLMHhOSVNZVmVBdlB1MUlFcFFQTHpUV3I1YmZnQlFXYXREMUx3N2pJc0lieW90dWhDLUMwdHBNYldnejhjd254Q1cwV09WcDJkdnd1amZHNkVTLXNxQQ"
-    },
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-15T08:14:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GaHp0YXZXdHQzUXNfYk1tcTVyeXdDb1NMYl9FYzNfR2FNVVBkQWZRbFJ3VjFjVWhYZWozZEJFZWVFaVV4TFdEVWVyemYzMUhybnFmeDZJYzRDX3VD"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-15T08:27:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5dEhGVFIzNmR5d2lGc2VxbldxVVRBWVNJWGdCRFJpNUR2Y2xIcXpuRVdpOFhlQUNzRWZiOVQ4bHViN0lpT3hJbENlYy1fODV1QVFleExDX3dYanJ2TmVGQk0zZEE1LTFuTkRiRHh0S1ZWSGJYMl90SW9nZU4"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-15T09:41:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeVJoLWRRMm9fSDlEUHZ3NGg3NjFnLV84UmFUeXAzaTNDOW1Qcjc1ajV1WlFSeVU1M2RkdmJnLTd0ME5HNWgyUGZncGdiSFlCcXBZeU16Z0tqXzR3Wm1TRGFlWmhGWG1PaHF5UzU4cFo2akZ0N1VSeFFkcllfcjFqQVZPYl84cjFKUklOWg"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-15T09:41:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1ExVmRhZjRSU2hlQmg4MEpOVXA3R195NEJFb3VsQ093YkFhQ3FCU3Q3QjJJNk9Na2dTS0FEQnZPc3FUNk5vM1gteTVTTHFvbGgzQ0tOcDZNN2RvOHc5aHN1b3RLNXB3QklMYldtQWxxTEtOYmZZeDBsVnZKdDRIYTRfMk9UNjJ1ZmJTNG5Saw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "美的加入英伟达MGX生态链",
-   "title_zh": "美的加入英伟达MGX生态链 - 东方财富",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.13,
-    "window_h": 0.1
-   }
-  },
-  {
    "id": "85aaee279f0f",
    "title": "Apple Tops $5T, Chases Nvidia’s $5.3T Crown [2026] - https://tech-insider.org/",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwUnZOYWVLUmZGUVk3WjBtUElDbTRCcnZDTmRqNGE3MUt2VmF2bzBFdnV1OWl4dndSY3dzTWJYaE9KbmNCRnJCQkxHYldWNzI0Vi1DYzIwTmtOdW51bGI3NDl2UXBDNmZDVWFpaHlFZk1QLWM",
@@ -2343,6 +2393,50 @@
    "zh_summary": "继英伟达后苹果跻身5兆俱乐部",
    "title_zh": "继英伟达之后，苹果跻身“5兆俱乐部” - 万维读者网",
    "sentiment": 0
+  },
+  {
+   "id": "e9c47ee00191",
+   "title": "美的加入英伟达MGX生态链 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EYVIyM2NLMHhOSVNZVmVBdlB1MUlFcFFQTHpUV3I1YmZnQlFXYXREMUx3N2pJc0lieW90dWhDLUMwdHBNYldnejhjd254Q1cwV09WcDJkdnd1amZHNkVTLXNxQQ",
+   "source": "东方财富",
+   "published_at": "2026-10-15T05:19:29+00:00",
+   "outlets_count": 5,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-15T05:19:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EYVIyM2NLMHhOSVNZVmVBdlB1MUlFcFFQTHpUV3I1YmZnQlFXYXREMUx3N2pJc0lieW90dWhDLUMwdHBNYldnejhjd254Q1cwV09WcDJkdnd1amZHNkVTLXNxQQ"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-15T08:14:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GaHp0YXZXdHQzUXNfYk1tcTVyeXdDb1NMYl9FYzNfR2FNVVBkQWZRbFJ3VjFjVWhYZWozZEJFZWVFaVV4TFdEVWVyemYzMUhybnFmeDZJYzRDX3VD"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-15T08:27:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5dEhGVFIzNmR5d2lGc2VxbldxVVRBWVNJWGdCRFJpNUR2Y2xIcXpuRVdpOFhlQUNzRWZiOVQ4bHViN0lpT3hJbENlYy1fODV1QVFleExDX3dYanJ2TmVGQk0zZEE1LTFuTkRiRHh0S1ZWSGJYMl90SW9nZU4"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-15T09:41:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeVJoLWRRMm9fSDlEUHZ3NGg3NjFnLV84UmFUeXAzaTNDOW1Qcjc1ajV1WlFSeVU1M2RkdmJnLTd0ME5HNWgyUGZncGdiSFlCcXBZeU16Z0tqXzR3Wm1TRGFlWmhGWG1PaHF5UzU4cFo2akZ0N1VSeFFkcllfcjFqQVZPYl84cjFKUklOWg"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-15T09:41:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1ExVmRhZjRSU2hlQmg4MEpOVXA3R195NEJFb3VsQ093YkFhQ3FCU3Q3QjJJNk9Na2dTS0FEQnZPc3FUNk5vM1gteTVTTHFvbGgzQ0tOcDZNN2RvOHc5aHN1b3RLNXB3QklMYldtQWxxTEtOYmZZeDBsVnZKdDRIYTRfMk9UNjJ1ZmJTNG5Saw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "美的加入英伟达MGX生态链",
+   "title_zh": "美的加入英伟达MGX生态链 - 东方财富",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.13,
+    "window_h": 0.1
+   }
   },
   {
    "id": "a12a49eed12f",
@@ -6412,144 +6506,6 @@
    "session": "盘前",
    "zh_summary": "英伟达发布Vera CPU机架规格",
    "title_zh": "英伟达发布Vera CPU机架规格加速智能体AI",
-   "sentiment": 1
-  },
-  {
-   "id": "a6f81383df6b",
-   "title": "英伟达的CoreWeave困局：被迫救援还是坐视不管？ - 雪球",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBZHQ4VndYdmx3bGJMU2xEVTVYY09DbEhvamlhVEZtcWhCRGR1cHBZR3hYa0hvTXRqRXpINmZITTRwb1M0bGU5d3B1alpncmds",
-   "source": "雪球",
-   "published_at": "2026-10-14T09:20:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "雪球",
-     "published_at": "2026-10-14T09:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBZHQ4VndYdmx3bGJMU2xEVTVYY09DbEhvamlhVEZtcWhCRGR1cHBZR3hYa0hvTXRqRXpINmZITTRwb1M0bGU5d3B1alpncmds"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-14T23:58:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmg4VklKTjNtTzRCYWtJVnhzektTUFFNQmFLSFZ1enlTRjdhQjZ0SHZwUUZVMlNJM0Y1YlBuTXdObGFwS0lUbzFxWXlTQkFrcDFXWGZ5RjEtWFNxeVR5aU9NaEF1clQ2UXFmc1NEcVhlVHEyUU1QRVRWWXMwRWJiWnVBVVZJOC01"
-    },
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-14T23:58:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlSVlHWXBEaUo5T2xiY2VSWlJYd1JPcE8zNE81b21yblgyTEU0cVFOTUoxSFNHbEZTQUpxVE85NWdiSkdzSzlrbGN6UTQ3QWZ1Z2Fj"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "CoreWeave困局下英伟达两难",
-   "title_zh": "英伟达的CoreWeave困局：被迫救援还是坐视不管？ - 搜狐",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.86,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "a46e4a7c279d",
-   "title": "AI借贷狂潮引爆担忧！英伟达“亲儿子”债券收益率逼近15% 科技板块重挫 - 财联社电报",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwNTRic3NEWW1VMWExNnZFb004TzM0MFBLMThVcjE0V0NIcHhLdlBUM1RNZk5BMzJwZkQ0ZXlWd3dXN3ZKNmc",
-   "source": "财联社电报",
-   "published_at": "2026-10-14T09:05:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "财联社电报",
-     "published_at": "2026-10-14T09:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwNTRic3NEWW1VMWExNnZFb004TzM0MFBLMThVcjE0V0NIcHhLdlBUM1RNZk5BMzJwZkQ0ZXlWd3dXN3ZKNmc"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-15T00:06:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnJrRXd3b21faEFqQi0tRjJLSVUtTHI5UVBoNVkyajdnWERwcE41bEEzcno0STBOa000bHdORjNOYklESGxJRnpBaXlfbHdqSFl1b0hDWUFDQWZfYWxMR1NpenVLSm9rd1ZWU1dycUVvbl9zT2RDX3dsM3BMeEF0TWc5dzktMkJT"
-    },
-    {
-     "name": "财联社",
-     "published_at": "2026-10-15T00:07:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LR05aVEswVjFRT2dGSUh0dWtYa1hPSS03R3ZaNUZDQkE2VDVHeHhsTTJ1YWdROUJxT3A4NjExN2hRR2dnMVctXw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "CoreWeave债券收益率逼近15%",
-   "title_zh": "AI借贷狂潮引爆担忧！英伟达“亲儿子”债券收益率逼近15% 科技板块重挫 - 搜狐",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": -0.86,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "493e60ed7e2c",
-   "title": "Locai Labs Announces the Launch of NVIDIA Nemotron-Personas for the UK - The National Law Review",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTTVJM1Q3Zk1RTHRhXzRhTDBNTzdBdnI4UEl4blhqeXZXTWNjaHJ1cGhIQjFnZlN0RVkzeThvVlRqalVhaTNTSUZpT0RMSW5YVy13WXpraXU1ZGFtRmRzZ2tzR0lQUjMwX3Fmc1VrWGlzTm9weWJ2eUhGbGhjVGtKbTZOTmdLNVp2V2hlM3lob1JSa252Y3RRSWxGcw",
-   "source": "The National Law Review",
-   "published_at": "2026-10-14T08:54:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The National Law Review",
-     "published_at": "2026-10-14T08:54:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTTVJM1Q3Zk1RTHRhXzRhTDBNTzdBdnI4UEl4blhqeXZXTWNjaHJ1cGhIQjFnZlN0RVkzeThvVlRqalVhaTNTSUZpT0RMSW5YVy13WXpraXU1ZGFtRmRzZ2tzR0lQUjMwX3Fmc1VrWGlzTm9weWJ2eUhGbGhjVGtKbTZOTmdLNVp2V2hlM3lob1JSa252Y3RRSWxGcw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Locai推出英伟达Nemotron产品",
-   "title_zh": "Locai Labs在英国推出NVIDIA Nemotron-Personas",
-   "sentiment": 1
-  },
-  {
-   "id": "b66ee8808226",
-   "title": "Palantir Billionaire Peter Thiel Buys 2 Brilliant AI Stocks (Hint: Not Nvidia or Micron) - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMW1KeW1JNS1Fb3ZreU1RYzVpSUJ3bUlWTzh6bUZ6Z0JQR2lFeXRNRkk2Sjl6dXRuaGc5V0FBN1BIZkdtQUp2M1FyamtGcE9FOGlSZ2J2b01MWG0tRmQ1b1pSbDMtRXRoaGZzdGxMN0I0dXhzaWk2R0tPYW5mVURhaFBHVHVhaGt5cTNnUDUzemNFSTZWNDJDa2xpaF9id3c",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-14T08:53:29+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-14T08:53:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMW1KeW1JNS1Fb3ZreU1RYzVpSUJ3bUlWTzh6bUZ6Z0JQR2lFeXRNRkk2Sjl6dXRuaGc5V0FBN1BIZkdtQUp2M1FyamtGcE9FOGlSZ2J2b01MWG0tRmQ1b1pSbDMtRXRoaGZzdGxMN0I0dXhzaWk2R0tPYW5mVURhaFBHVHVhaGt5cTNnUDUzemNFSTZWNDJDa2xpaF9id3c"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-14T09:08:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT2hNYmE0WE1RQjBsSEpIb2dCWFRPRmhPaVR3aVJsVnJGXzA3a2pMREhnc0tQZ0tNVHpJVmc2UmZXSU1XdzMzV19QeXpvWFZOQm9qQ01waTVaY2UtYWwydE03SHlHVU9vQnhCWVRCckdUQVN1QUtkYzRuUDk3SWtheGRrbWhzSzN4OUlhN19EMHFDVzdHZVVna0paMDRKd3NSVFlF"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "蒂尔买入两只AI股票(非英伟达)",
-   "title_zh": "彼得·蒂尔买入两只AI股票(非英伟达或美光)",
-   "sentiment": 0
-  },
-  {
-   "id": "2d9454d9955e",
-   "title": "LSEG taps Nvidia to speed up financial data crunching (NVDA:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2M5dGp2dDZqUWxvbk0xcmhaWTFwb1ptOVJsbzdRRHBWV0JYYnhLM29wY0FyRE9oV1VZVWxCUmxJaXhnb1RmTkxuT2V5MzFjRlNjZDk1Y3VvMWRCU0hlNnhpRjRsNGxTT0FvRzF4cDFVYWdIb19MN1pCNXAwUmhrUHVDbHlwRVZtS05MYTRVUk9YSEc2ZlE",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-14T08:53:24+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-14T08:53:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2M5dGp2dDZqUWxvbk0xcmhaWTFwb1ptOVJsbzdRRHBWV0JYYnhLM29wY0FyRE9oV1VZVWxCUmxJaXhnb1RmTkxuT2V5MzFjRlNjZDk1Y3VvMWRCU0hlNnhpRjRsNGxTT0FvRzF4cDFVYWdIb19MN1pCNXAwUmhrUHVDbHlwRVZtS05MYTRVUk9YSEc2ZlE"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-14T08:53:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnNwWEZ3Nmk2djNRQnRWbDJtT2VMX0VoelVIQURxZ3Vqdi1IRU84SERDOXF0X0J2X01RRnVCYnBMR19KbmdNRC1jN3p4UkpZZmprdnZ3M19ELThPUDVGUlBHQ1YtRGdkaHduZGpjeFh2YlNrLUhMTU4zSmZlTnFnejFXeVRWMlE4ZkNRa3RvdFBveTlwVDVXTkhOZ0N3Qkd2cW1CN2l4NzNKSU1ZQ2x5Y01DUG9reFU"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "LSEG采用英伟达加速金融数据处理",
-   "title_zh": "LSEG采用英伟达加速金融数据处理",
    "sentiment": 1
   }
  ]
