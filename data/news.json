@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T01:23:01.172840+00:00",
+ "updated_at": "2026-10-15T01:36:28.608125+00:00",
  "market": {
   "price": 221.3,
   "change_pct": -3.16,
@@ -10,8 +10,8 @@
    "days_left": 34
   },
   "day_sentiment": {
-   "avg": 0.36,
-   "count": 200
+   "avg": 0.35,
+   "count": 203
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（200条已评分）"
+     "note": "今日新闻情绪 +0.35（203条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 42.3,
    "ma20": 228.69,
-   "as_of": "2026-10-15T01:23:01.163500+00:00"
+   "as_of": "2026-10-15T01:36:28.597099+00:00"
   },
   "pe_ttm": 28.1,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d6e116a4a349",
+   "title": "【视频】英伟达Thor-U 700TOPS算力！东风风神L8+，新一代泊车侠认证！ - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzT25UZDBfNFVIRm5lLVNoLWlSWUZCUHVDM25YOFp1anFQZUVNbWE1b1VXdEcxNU5qVmJCbTdLVGZub24yVkVGanplWUJ3VWI0M3B0a1c2VmdvNms",
+   "source": "汽车之家",
+   "published_at": "2026-10-15T01:34:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-15T01:34:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzT25UZDBfNFVIRm5lLVNoLWlSWUZCUHVDM25YOFp1anFQZUVNbWE1b1VXdEcxNU5qVmJCbTdLVGZub24yVkVGanplWUJ3VWI0M3B0a1c2VmdvNms"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
   {
    "id": "d290bc5023be",
    "title": "Matrix Game 4.0击败英伟达同期竞品，实现全球首个消费级显卡落地|Coding Agent|RTX 5090|rtx|Hugging Face|游戏 - 手机新浪网",
@@ -307,31 +324,6 @@
    "sentiment": 1
   },
   {
-   "id": "110bcd1fa507",
-   "title": "英伟达黄仁勋：若客户开发不安全AI软件，极端措施可断供芯片 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVNQLWJQNWVGRWY5aVQ2cV9tNzRKMmtfS01uTDR1Rmw2bTduRllVd1A0SlZHR1Fsa1pyWURwR3FCVlVKUWJzNmNKTFZPTUlXZDk0NF91Z0Y3cXJxWnFsOEp3cWlHcXcta2hFbmpkemkyRjZiNjZ1RTAyX3pTQWdaLUxHcGNGeHcy",
-   "source": "搜狐",
-   "published_at": "2026-10-14T23:54:39+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-14T23:54:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVNQLWJQNWVGRWY5aVQ2cV9tNzRKMmtfS01uTDR1Rmw2bTduRllVd1A0SlZHR1Fsa1pyWURwR3FCVlVKUWJzNmNKTFZPTUlXZDk0NF91Z0Y3cXJxWnFsOEp3cWlHcXcta2hFbmpkemkyRjZiNjZ1RTAyX3pTQWdaLUxHcGNGeHcy"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-14T23:56:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hT1djU0RPVXpzZ3hDNml5dHd3dGt1ZFB4UjU0RmtXODB3WkZ3dTFnMm5fS1ZGd0NWTlB1V1ZuclE0TTRHbWNoZFVGVjM"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "黄仁勋称极端情况下可断供芯片",
-   "title_zh": "英伟达黄仁勋：若客户开发不安全AI软件，极端措施可断供芯片 - 搜狐",
-   "sentiment": 0
-  },
-  {
    "id": "2eabc0aa79b2",
    "title": "英伟达支持的AI制药公司Iambic IPO定价16美元 预计募资1.5亿美元 - 观点网",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kYnFlMzhSdzROblZ1UFFNdmUzR2JWQ2FuYkUzcklaQWNicWp5ekVWeGdpZUFKOXpYb1YxOW5pcDZIR3R2bVIxNHNGTjJmcW9JMUpWRTlJV0NQdVIzRUQtNl9R",
@@ -400,6 +392,36 @@
    "zh_summary": "英伟达发布AI电源板Navitas受关注",
    "title_zh": "英伟达发布AI电源板后Navitas股票受关注",
    "sentiment": 1
+  },
+  {
+   "id": "41a85c838830",
+   "title": "英伟达黄仁勋：对开发不安全AI软件的客户断供芯片 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53VVdSR2JOVWhIMFRkX3ZKODBZN2RYcldfYlNhenUyYlRNMGF5bGRKck9ycXBaM2toTFBrVlZxNnVLRFdZS014T1FfanlQMVVkQnA1YXg4OXc",
+   "source": "驱动之家",
+   "published_at": "2026-10-14T23:19:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-14T23:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53VVdSR2JOVWhIMFRkX3ZKODBZN2RYcldfYlNhenUyYlRNMGF5bGRKck9ycXBaM2toTFBrVlZxNnVLRFdZS014T1FfanlQMVVkQnA1YXg4OXc"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-14T23:54:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQVNQLWJQNWVGRWY5aVQ2cV9tNzRKMmtfS01uTDR1Rmw2bTduRllVd1A0SlZHR1Fsa1pyWURwR3FCVlVKUWJzNmNKTFZPTUlXZDk0NF91Z0Y3cXJxWnFsOEp3cWlHcXcta2hFbmpkemkyRjZiNjZ1RTAyX3pTQWdaLUxHcGNGeHcy"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-14T23:56:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hT1djU0RPVXpzZ3hDNml5dHd3dGt1ZFB4UjU0RmtXODB3WkZ3dTFnMm5fS1ZGd0NWTlB1V1ZuclE0TTRHbWNoZFVGVjM"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后",
+   "zh_summary": "黄仁勋称极端情况下可断供芯片",
+   "title_zh": "英伟达黄仁勋：若客户开发不安全AI软件，极端措施可断供芯片 - 搜狐",
+   "sentiment": 0
   },
   {
    "id": "50a6428c534c",
@@ -698,12 +720,17 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUl0aDJRcG4wTnlOalA2Xy1CeERRdzY1NFhBYUphcVUyVGFKV2NUbzlQY2FLUHBsMzFEOGNzSVotQXppWkgyVk5tM2g2Y2VRcDVyTzNEcXhJVDJ6OGhSdmlaM3hzai1PbjVmc0pydXZuaWZXNE5ONFVhcVhfcHE1Yy1HY2FpdzhCR0dTZGVDMGdyZkp3MzNpWTlfSlBMTWNPd0dNTnRBWWZZMnNSTFIzYw",
    "source": "WSJ",
    "published_at": "2026-10-14T20:55:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "WSJ",
      "published_at": "2026-10-14T20:55:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUl0aDJRcG4wTnlOalA2Xy1CeERRdzY1NFhBYUphcVUyVGFKV2NUbzlQY2FLUHBsMzFEOGNzSVotQXppWkgyVk5tM2g2Y2VRcDVyTzNEcXhJVDJ6OGhSdmlaM3hzai1PbjVmc0pydXZuaWZXNE5ONFVhcVhfcHE1Yy1HY2FpdzhCR0dTZGVDMGdyZkp3MzNpWTlfSlBMTWNPd0dNTnRBWWZZMnNSTFIzYw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T00:14:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR3ZBX0VLU3phdXlzWWNMR21UWi1FTlAyMmxIRzBVMm51Qjkyb1pULU1PUjVHMzFfWFF3WWhQb1RVcmRjRzh4RXg5RmVJWHVJX3Z6UzdTRFVhNTg0RFM4WDdpMWh3bnlCcUhHdHZfOGdoLXc1bzhXLWhWd0lUcFcxWUFtMFYwZUJFUkVOMXZQdWRwbXdfS3FZSVZB"
     }
    ],
    "category": "其他",
@@ -818,40 +845,6 @@
    "sentiment": 0
   },
   {
-   "id": "0f97860a53ae",
-   "title": "英伟达CEO黄仁勋：会对开发不安全AI软件的客户断供芯片 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWcwRVhIY195MmlGZ1pyQ1FWMDFELVJ3MFR4SkYzM2kwWE9PRTYzdm5saG1RMXhwVzR0STcxZUtFRkdFakd2dERpMkI3ZVFCUWo5WEVvU0lWYU8tRjhyeUlabHRMcGxZVFdTR3F5cjZHTVFCYlFIb29vS1o4YVBYOWxzS3IwUHQ2WnZsUg",
-   "source": "搜狐",
-   "published_at": "2026-10-14T19:22:34+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-14T19:22:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWcwRVhIY195MmlGZ1pyQ1FWMDFELVJ3MFR4SkYzM2kwWE9PRTYzdm5saG1RMXhwVzR0STcxZUtFRkdFakd2dERpMkI3ZVFCUWo5WEVvU0lWYU8tRjhyeUlabHRMcGxZVFdTR3F5cjZHTVFCYlFIb29vS1o4YVBYOWxzS3IwUHQ2WnZsUg"
-    },
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-14T21:33:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14SUV1ZE9UUEJSRjR0TWpIb1FVQ2U4Q1RyU3VubHJzaDVKcjNqd0U0bGRFUWxDVktBRjRKdjdSNTlXQXdEUjZkY04yNDlvR3Q3OElN"
-    },
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-14T23:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53VVdSR2JOVWhIMFRkX3ZKODBZN2RYcldfYlNhenUyYlRNMGF5bGRKck9ycXBaM2toTFBrVlZxNnVLRFdZS014T1FfanlQMVVkQnA1YXg4OXc"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "黄仁勋称将对不安全AI软件客户断供",
-   "title_zh": "英伟达CEO黄仁勋：会对开发不安全AI软件的客户断供芯片",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.09,
-    "window_h": 0.6
-   }
-  },
-  {
    "id": "b685662b7ea8",
    "title": "Nvidia Talked Up Generative AI 2 Weeks Before ChatGPT. The Clues Hold Up. - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2F6Q2xIV2NkSnV3eDRzMkM5Q29ELWFIVThTaFhtbkJOUVpxV2hDWnlvN3RqRmw0NlFxYlBpOGhPMVFqdEdqcVhvR2lDUEp4cXM5NmZZUXNyUENMOW94QzY2MGNLTldKLVkwRkZvSkxJeURtdWdQX0dnbHh3cmI3RHp3YzYyWGJDbk1Ha2RxUVJLMHFWX05ac0hpc3ZLWTgtLUFmX2Vqc2JhRmV4MHJiUzM3Qk4",
@@ -915,6 +908,45 @@
    "zh_summary": "黄仁勋称不会向不负责任的AI客户售芯片",
    "title_zh": "黄仁勋称不会向不负责任的AI客户出售芯片",
    "sentiment": 0
+  },
+  {
+   "id": "f0ece0c5e7a7",
+   "title": "英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片_7x24快讯_新浪财经 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15QVk4eDU1V3hnMWNRVDl2cG5JQTZZTHNhVVpoY3dDX3prcHpmQkVySGtDN3VLcXBMcXZQU2NnSE1YZFNPU1JJNUhaUQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-14T19:19:29+00:00",
+   "outlets_count": 4,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-14T19:19:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15QVk4eDU1V3hnMWNRVDl2cG5JQTZZTHNhVVpoY3dDX3prcHpmQkVySGtDN3VLcXBMcXZQU2NnSE1YZFNPU1JJNUhaUQ"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-14T19:22:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWcwRVhIY195MmlGZ1pyQ1FWMDFELVJ3MFR4SkYzM2kwWE9PRTYzdm5saG1RMXhwVzR0STcxZUtFRkdFakd2dERpMkI3ZVFCUWo5WEVvU0lWYU8tRjhyeUlabHRMcGxZVFdTR3F5cjZHTVFCYlFIb29vS1o4YVBYOWxzS3IwUHQ2WnZsUg"
+    },
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-14T21:33:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14SUV1ZE9UUEJSRjR0TWpIb1FVQ2U4Q1RyU3VubHJzaDVKcjNqd0U0bGRFUWxDVktBRjRKdjdSNTlXQXdEUjZkY04yNDlvR3Q3OElN"
+    },
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-14T23:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53VVdSR2JOVWhIMFRkX3ZKODBZN2RYcldfYlNhenUyYlRNMGF5bGRKck9ycXBaM2toTFBrVlZxNnVLRFdZS014T1FfanlQMVVkQnA1YXg4OXc"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中",
+   "zh_summary": "黄仁勋称将对不安全AI软件客户断供",
+   "title_zh": "英伟达CEO黄仁勋：会对开发不安全AI软件的客户断供芯片",
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.09,
+    "window_h": 0.6
+   }
   },
   {
    "id": "d09bf3b51159",
@@ -1250,6 +1282,23 @@
    "zh_summary": "Broadcast2.3.0新增RTX视频超分",
    "title_zh": "NVIDIA Broadcast 2.3.0新增RTX视频超分与帧生成",
    "sentiment": 1
+  },
+  {
+   "id": "396520652df9",
+   "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw",
+   "source": "财联社",
+   "published_at": "2026-10-14T16:57:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-14T16:57:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "eda06e0c7f6a",
@@ -6649,71 +6698,6 @@
    "session": "盘中",
    "zh_summary": "网易《燕云十六声》首款支持英伟达DLSS 5",
    "title_zh": "联手英伟达，网易旗下《燕云十六声》成全国首款支持DLSS 5游戏 - 36Kr",
-   "sentiment": 1
-  },
-  {
-   "id": "98387a7b165f",
-   "title": "Nvidia to buy a minority stake in France's Doctolib - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI",
-   "source": "Reuters",
-   "published_at": "2026-10-13T16:08:32+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-13T16:08:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1BSmpvVlh6YW1EbjdzZEV1eC1EM0Jmcm5RS1pnNWdqQTlua19zbWtZVW9UeGJoV2lucjJFajItdWVmSVZ2dHk3YzBRbEFGLVlHZ1U4UnBSWFBhTlJZTnByRjRmcWVGenVkcTB2OXVQeWx3Z19qbTBSdFFleTBpbGlaVWFLZlJVMHdUeE9RNVExX2VlT09EZkI4ekg2SEdhVmlqdW45VGhBbzRadERGZ3AwQlI"
-    },
-    {
-     "name": "whbl.com",
-     "published_at": "2026-10-13T16:22:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3ljbHpaSERjajE4Y3FYUFJubVUwRkkteXdxbUlVeUF1Tl9Zc1lyVXhFS29PV2NzQno2c19yVGtSLUFhSFBQOWpGZ3JEazNlaUJrcnZfTEgyek9vVWxCZnRwUnl3MWdFS2lNdWV6d2lJQnVnalVRbHFoT0hTOTVsczhvbWp2QQ"
-    },
-    {
-     "name": "The Mighty 790 KFGO",
-     "published_at": "2026-10-13T16:32:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZTRGWFF2SGpvYTV2REMzQ21VMzlUTWdDOV9KeU53VmdNTmVSdXpseGlsc2RXZTVMQzJDODlmWF9neHd0Nmo5RjV4TWxMak9NU2YydmtCakN0LW5YVWVoXzZIRzVMblYwWlRqNTNvMzc2eEF0ME5hQmRPYUsyaHQtVkRFZzBlQQ"
-    },
-    {
-     "name": "KSL News",
-     "published_at": "2026-10-13T16:33:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2ZjbTBONmNiNVI0YzV3NW5ocWlCcE1kNFJHMjFnTC1CMnA2a3hKcHExNkxGbXRTTmgzVHgwbmRWTlhKSl9JTE41WEM4eWVpTXZyOGRPU3ItM08wcVJqVlFzTVdBTUg3M09ZSDh6c0xNRkNncXlpanBoaWJOeHNYWUIxRVJETWtFaGI4YlJOQXA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "breaking": true,
-   "zh_summary": "英伟达拟购法国Doctolib少数股权",
-   "title_zh": "路透：英伟达将收购法国Doctolib少数股权",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.4,
-    "window_h": 0.7
-   }
-  },
-  {
-   "id": "906f7ba7984c",
-   "title": "Nvidia’s Huang Plans $2 Billion in Europe AI Deals in Next Week - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTUyMWwxLUpnYVFUYlNzVS1YS0d5UkpaWXhsbmZ6U08xMmNKUTFSU01rSTRjN0Z4UF9hTG0tajg4TFZqZExYVS1oZkxJWlNFM0hBc2ctbUZBU1htclhwWVB6ajludXpVT3NDZ21YaEk3UExON3ZpZVF3YU1ycDI2MS0tVU1jelR5N3F2emRKT2JDcUE4V3hiUzlxY21SNXBXdHl1YzJWREFfY2I3cWhEa2Z0VQ",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-13T16:07:12+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-13T16:07:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTUyMWwxLUpnYVFUYlNzVS1YS0d5UkpaWXhsbmZ6U08xMmNKUTFSU01rSTRjN0Z4UF9hTG0tajg4TFZqZExYVS1oZkxJWlNFM0hBc2ctbUZBU1htclhwWVB6ajludXpVT3NDZ21YaEk3UExON3ZpZVF3YU1ycDI2MS0tVU1jelR5N3F2emRKT2JDcUE4V3hiUzlxY21SNXBXdHl1YzJWREFfY2I3cWhEa2Z0VQ"
-    },
-    {
-     "name": "The Next Web",
-     "published_at": "2026-10-13T16:41:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JSUZZLXllTFRXQXpGOFJWcHpIY0tmbkdORWZCQWFIZ2ltNmIwYkNVWVBVaGl3U2R4RHNKMmJJenAwYUE2SWpqcEpYUHhzZTRnTldqZkYzTGNKckVMSDdVd0w1TVgydzRV"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋下周拟在欧洲达成20亿美元AI交易",
-   "title_zh": "黄仁勋计划下周在欧洲达成20亿美元AI交易",
    "sentiment": 1
   }
  ]
