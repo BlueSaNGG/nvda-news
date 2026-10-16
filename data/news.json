@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T05:21:42.126704+00:00",
+ "updated_at": "2026-10-16T05:36:34.785402+00:00",
  "market": {
   "price": 217.23,
   "change_pct": -1.84,
@@ -10,12 +10,12 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 1
+   "avg": 0.5,
+   "count": 2
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.00（1条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.0,
    "ma20": 228.58,
-   "as_of": "2026-10-16T05:21:42.112389+00:00"
+   "as_of": "2026-10-16T05:36:34.769959+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -315,6 +315,23 @@
    "zh_summary": "沃尔沃与英伟达扩大合作推自动驾驶",
    "title_zh": "沃尔沃汽车与英伟达声明扩大合作 推进安全自动驾驶技术 - 观点网",
    "sentiment": 1
+  },
+  {
+   "id": "0a9797cac299",
+   "title": "Taiwan plans $4 bln Texas park to support Nvidia’s AI supply chain - Bloomberg - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1N5OHJkQU5KdDBUV2V5anJERDQzUFNIQXJ0ME85a3A1WGk1Z3pjT04xRTdTQ3ViMUd5U010WjVJMm51OFBxVHk0LXpZSm1jMmM0S0s4N3BTeHdiVzZXY0tad1FFWEJaWHhlelY4b0dHUUNNbllDQUQxNHNNQzBDbjVTMzd4N250UjAwc1VhX1MweVJLM0NTb1ExT01mWE5jeFl3VWgtQWd6bXBaV1J3QVlQb0RjeHJMUVI5Y2t2N0dMVE9FZ0tvY1kzcXE",
+   "source": "Investing.com",
+   "published_at": "2026-10-16T02:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-16T02:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1N5OHJkQU5KdDBUV2V5anJERDQzUFNIQXJ0ME85a3A1WGk1Z3pjT04xRTdTQ3ViMUd5U010WjVJMm51OFBxVHk0LXpZSm1jMmM0S0s4N3BTeHdiVzZXY0tad1FFWEJaWHhlelY4b0dHUUNNbllDQUQxNHNNQzBDbjVTMzd4N250UjAwc1VhX1MweVJLM0NTb1ExT01mWE5jeFl3VWgtQWd6bXBaV1J3QVlQb0RjeHJMUVI5Y2t2N0dMVE9FZ0tvY1kzcXE"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘后"
   },
   {
    "id": "d79f3e749ddc",
@@ -6551,31 +6568,6 @@
    "session": "盘后",
    "zh_summary": "英伟达宣布DLSS5技术新进展",
    "title_zh": "英伟达宣布DLSS5技术新进展 微软组建XboxLabs探索AI游戏改造 - 观点网",
-   "sentiment": 1
-  },
-  {
-   "id": "459e1e065d9f",
-   "title": "NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing - EE Times Asia",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTHZYY1pGc08xUHQwSGhQN055UDdpY0lfN25oRWswUjM5bHByUmFSbFRpYjJCZlZ0SjZ2dzh3MEgwQkRDajZlNUpUSEVDaW9oNktvZHBieUFzNGlPWnk2U2JaTkZUVnBVTkgzelRpWW95MG5BYU1sUFByR0lDaFpfSE10dV9PZmQ2ZE1aNTQ5WDFhc0xaNlBWdW0yZw",
-   "source": "EE Times Asia",
-   "published_at": "2026-10-15T02:11:17+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "EE Times Asia",
-     "published_at": "2026-10-15T02:11:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTHZYY1pGc08xUHQwSGhQN055UDdpY0lfN25oRWswUjM5bHByUmFSbFRpYjJCZlZ0SjZ2dzh3MEgwQkRDajZlNUpUSEVDaW9oNktvZHBieUFzNGlPWnk2U2JaTkZUVnBVTkgzelRpWW95MG5BYU1sUFByR0lDaFpfSE10dV9PZmQ2ZE1aNTQ5WDFhc0xaNlBWdW0yZw"
-    },
-    {
-     "name": "Advanced Manufacturing",
-     "published_at": "2026-10-15T19:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNFp4TDF6dTA2RXZzNHc4R3pwbVpocGFVRXYtYzlyNjYybDB0MWtHM1lqOE05eTdfYU9pTUFLSlV0eXA5Y1M2NEpZaUY1aFFvWDZVQUowcDhGQVRuYU9ZVTU5TGo2d2JyV2VJSXAzakM1TkttSlRURTZQSjJxazRmLThha0JoMUZxS3l3a2lsRHlVd3RtYVdVd202TU9qM3RxRHJveDU5N2k5dnVwLWsxZzQ4ZUxfVjlpa25aekRTMEhLLVRnZUE4Z1NPVkNLNVhtUkVqaUxBT1pTekRjMGxCNFNONkVNbnJRMTVjdnBWSnhNdw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "英伟达扩展GPU库助AI芯片制造",
-   "title_zh": "英伟达扩展面向AI驱动半导体制造的GPU库",
    "sentiment": 1
   }
  ]
