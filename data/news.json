@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T17:38:27.023391+00:00",
+ "updated_at": "2026-10-16T17:53:23.076849+00:00",
  "market": {
-  "price": 215.56,
-  "change_pct": -0.77,
+  "price": 215.42,
+  "change_pct": -0.83,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.53,
-   "count": 133
+   "avg": 0.52,
+   "count": 135
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +46.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +46.2%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.53（133条已评分）"
+     "note": "今日新闻情绪 +0.52（135条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $215.56 vs 20日均线 $228.25"
+     "note": "现价 $215.42 vs 20日均线 $228.24"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 68,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 46.1,
-   "ma20": 228.25,
-   "as_of": "2026-10-16T17:38:27.019651+00:00"
+   "implied_upside_pct": 46.2,
+   "ma20": 228.24,
+   "as_of": "2026-10-16T17:53:23.063167+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -4241,6 +4241,23 @@
    "sentiment": 1
   },
   {
+   "id": "818648b69de7",
+   "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lhcFhDalVzMzVWSUVsUWo2ZWtLYjdpR3dQUXJWWDc1UUFONzJUM3ZvazhJWFhxU0dST2R4cTgtaUdoTGx1MzFjOUU5U09ma3c4d0JNc3MzLWZxSGVOUVFTSFRxMWFRUEgxR1NCR2lWUHc5MFZZQmRJM1d1dFNZWWFkRnk5a0VWbXphUk90TWtUUktraE5lczFfLVVSbFBoRnBHYWMyY2VHSXFKd3p4VkZ6dW9NYUdwVTNHdTF0T0Y3SkVxbDhNQ2NTc2F4SnVrVGtReEt3",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-15T20:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T20:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lhcFhDalVzMzVWSUVsUWo2ZWtLYjdpR3dQUXJWWDc1UUFONzJUM3ZvazhJWFhxU0dST2R4cTgtaUdoTGx1MzFjOUU5U09ma3c4d0JNc3MzLWZxSGVOUVFTSFRxMWFRUEgxR1NCR2lWUHc5MFZZQmRJM1d1dFNZWWFkRnk5a0VWbXphUk90TWtUUktraE5lczFfLVVSbFBoRnBHYWMyY2VHSXFKd3p4VkZ6dW9NYUdwVTNHdTF0T0Y3SkVxbDhNQ2NTc2F4SnVrVGtReEt3"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "3eb300813858",
    "title": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1poWEFKa01FenF2THNycHFFMFNaeklhc2JGSVJqa21nTGo1cFpyMFR5cGFwMHN1cVdjdWM5NjhiaU9Zakg2ZUJDVG1aeVBPRHVNYm95NEItUlFGNndZQnhVQUE3bE1rZE52bHgxM3Jmd1RCVm9FNy1LNFlFb1RXQ0ZXRG9CRXNUUE9PUG1rbHdqSE5XT3FOSzBlUFdoTUoxZmwxbUFoY01ZMG85cG5INDg2ZmdycTdUaHc",
@@ -6614,26 +6631,6 @@
     "pct": 0.09,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "43c4a1c2d3f7",
-   "title": "Nvidia joins The Earthshot Prize as new founding member - Data Center Dynamics",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNUYxUkNhdnJuNHMtSjJEQ3NUQ2RlODJXRVl4Si03blpWZkFhQ1QyRHU0NTc2LVpIR3ZxbjN1UzJjRUFndngtYkpUS0tIbjhNY1BuaTI4TFFXQVFWSGotN2NRQmR5Wkd2aFdzMFY3TUFsVnl0dDlBWmtMQkpXOElmS2YtLUNmSFNJdkpvZGJLaDR3N2FJeWZxZTJ5R1hfendr",
-   "source": "Data Center Dynamics",
-   "published_at": "2026-10-15T14:17:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Data Center Dynamics",
-     "published_at": "2026-10-15T14:17:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNUYxUkNhdnJuNHMtSjJEQ3NUQ2RlODJXRVl4Si03blpWZkFhQ1QyRHU0NTc2LVpIR3ZxbjN1UzJjRUFndngtYkpUS0tIbjhNY1BuaTI4TFFXQVFWSGotN2NRQmR5Wkd2aFdzMFY3TUFsVnl0dDlBWmtMQkpXOElmS2YtLUNmSFNJdkpvZGJLaDR3N2FJeWZxZTJ5R1hfendr"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘中",
-   "zh_summary": "英伟达成地球奖创始成员",
-   "title_zh": "英伟达加入地球奖，成为创始成员",
-   "sentiment": 0
   }
  ]
 }
