@@ -1,41 +1,41 @@
 {
- "updated_at": "2026-10-16T13:21:38.245556+00:00",
+ "updated_at": "2026-10-16T13:36:33.381937+00:00",
  "market": {
-  "price": 217.23,
-  "change_pct": -1.84,
-  "as_of": "2026-10-15",
+  "price": 216.07,
+  "change_pct": -0.53,
+  "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-11-17",
    "label": "Q3 FY2027",
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.49,
-   "count": 85
+   "avg": 0.51,
+   "count": 91
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 70% 分位"
+     "note": "现价处于52周区间 69% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.0%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.8%"
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.49（85条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.51（91条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.23 vs 20日均线 $228.58"
+     "note": "现价 $216.07 vs 20日均线 $228.28"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 70,
+   "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.0,
-   "ma20": 228.58,
-   "as_of": "2026-10-16T13:21:38.224715+00:00"
+   "implied_upside_pct": 45.8,
+   "ma20": 228.28,
+   "as_of": "2026-10-16T13:36:33.361861+00:00"
   },
-  "pe_ttm": 27.6,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.0%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.5,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "5fba32f00f84",
+   "title": "联想YOGA首发英伟达RTX Spark！ - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYTJCakNja0dlTEtlNEc1OFJyRDYyUmZZbzU4c2VvbEVOR0ZsMTFSMS1nYUVDLTdGV2JIalZSRktWQXVFc1psZldWUXdFcm5Ud29wMGRmZ1dyWl9JQTkwMXd3MmJBczhrdEQzOXBfUDVrUUFzS2pwOHVsN1UwQWp5Vi03OUJJSUdS",
+   "source": "搜狐",
+   "published_at": "2026-10-16T13:27:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-16T13:27:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYTJCakNja0dlTEtlNEc1OFJyRDYyUmZZbzU4c2VvbEVOR0ZsMTFSMS1nYUVDLTdGV2JIalZSRktWQXVFc1psZldWUXdFcm5Ud29wMGRmZ1dyWl9JQTkwMXd3MmJBczhrdEQzOXBfUDVrUUFzS2pwOHVsN1UwQWp5Vi03OUJJSUdS"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "5acad4835815",
+   "title": "Nvidia stock pullback a buying opportunity, says Dan Ives (NVDA:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVURhbHBtczFDVnk0NlpxVFNoNUFpOG44M0tzRE1RdGwwQmdKWl96Q0dWcXpwRU1UTGo4Z1Z0NWtkdld4bFVCMnpWY3gtMXZrem5vR2poMmM3N2NnNDNJRlA3LUVsNWc1MU9NVjh3QnlrSTBld0NwVTVPMDByc29BV2NhRDFqUHJUMXUwbjA5LU1UM05JbGVJZ0lB",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-16T13:19:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-16T13:19:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVURhbHBtczFDVnk0NlpxVFNoNUFpOG44M0tzRE1RdGwwQmdKWl96Q0dWcXpwRU1UTGo4Z1Z0NWtkdld4bFVCMnpWY3gtMXZrem5vR2poMmM3N2NnNDNJRlA3LUVsNWc1MU9NVjh3QnlrSTBld0NwVTVPMDByc29BV2NhRDFqUHJUMXUwbjA5LU1UM05JbGVJZ0lB"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
   {
    "id": "d9e15bcced01",
    "title": "SANGRIX Inc. Updates Delivery Timeline for 128-GPU NVIDIA Blackwell B300 AI Infrastructure in Malaysia - Quiver Quantitative",
@@ -187,12 +221,17 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHprOU1HX196a0xrUXBNdTNBdnc2TXJjN0VlYlhjV1dPUC1DcldxOUNPVnBCRU1oTUtsbU9hN09TQzFmVmZYV3VmM1BpRmZZbkl3Y0VmdlFybFhFeDBXd1h3YllVQWMxRkFXdXhXSHg1X0s1cXM4cFhoNVpnY0xiQ19CM1JtdDUzREFDS05DUQ",
    "source": "21财经",
    "published_at": "2026-10-16T12:54:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "21财经",
      "published_at": "2026-10-16T12:54:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHprOU1HX196a0xrUXBNdTNBdnc2TXJjN0VlYlhjV1dPUC1DcldxOUNPVnBCRU1oTUtsbU9hN09TQzFmVmZYV3VmM1BpRmZZbkl3Y0VmdlFybFhFeDBXd1h3YllVQWMxRkFXdXhXSHg1X0s1cXM4cFhoNVpnY0xiQ19CM1JtdDUzREFDS05DUQ"
+    },
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-16T13:15:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MUGpMQjFHZk9yZzVBaDJNVlRHS3RtODVzXy1ZRmlzVC1hQTZ2aVlRaHdfRFhYS3FDQVd1UWNZUmx6X00zSjk3LXhqSzNPcmhrOXY3MmdyX3NsWUVXdGc"
     }
    ],
    "category": "其他",
@@ -697,10 +736,15 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zZjJLVjZDWF9tQ0pIQW82b3RIdTM5ZHozWDlHbWxxNFNpTGJVS2pnTm1PUHJMS2JaRHBhVkFCekp6Ynp5VUJMLVN5Q3RPUU1iVjZjX0FoYTd1VElyQ2dwSWhobDhrN0J2R19mZnBn",
    "source": "tech-insider.org",
    "published_at": "2026-10-16T11:00:31+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "tech-insider.org",
+     "published_at": "2026-10-16T11:00:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zZjJLVjZDWF9tQ0pIQW82b3RIdTM5ZHozWDlHbWxxNFNpTGJVS2pnTm1PUHJMS2JaRHBhVkFCekp6Ynp5VUJMLVN5Q3RPUU1iVjZjX0FoYTd1VElyQ2dwSWhobDhrN0J2R19mZnBn"
+    },
+    {
+     "name": "https://tech-insider.org/",
      "published_at": "2026-10-16T11:00:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zZjJLVjZDWF9tQ0pIQW82b3RIdTM5ZHozWDlHbWxxNFNpTGJVS2pnTm1PUHJMS2JaRHBhVkFCekp6Ynp5VUJMLVN5Q3RPUU1iVjZjX0FoYTd1VElyQ2dwSWhobDhrN0J2R19mZnBn"
     }
@@ -759,7 +803,11 @@
    "session": "盘前",
    "zh_summary": "台湾拟在德州建40亿美元产业园供英伟达供应商",
    "title_zh": "台湾计划在德州建40亿美元产业园，服务英伟达供应商",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "0a01fc3289c4",
@@ -855,7 +903,11 @@
    "breaking": true,
    "zh_summary": "比较SpaceX与英伟达的投资价值",
    "title_zh": "更好的AI股票：SpaceX还是英伟达",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "47ba1c6d1eaa",
@@ -2105,7 +2157,11 @@
    "session": "盘后",
    "zh_summary": "银行对CoreWeave谨慎，仍看好买入英伟达",
    "title_zh": "银行对CoreWeave态度转谨慎，但作者仍看好英伟达",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "cae711a55979",
@@ -2590,7 +2646,11 @@
    "session": "盘后",
    "zh_summary": "台湾资助40亿美元德州AI园区",
    "title_zh": "台湾将资助40亿美元德州AI园区，英伟达为合作伙伴",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "227eb687ce08",
@@ -2685,7 +2745,11 @@
    "session": "盘后",
    "zh_summary": "黄仁勋称AI芯片供不应求订单持续涌入",
    "title_zh": "英伟达黄仁勋：AI芯片供不应求 订单几乎每日持续涌入 - 驱动之家",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "e03d9994dc00",
@@ -2715,7 +2779,11 @@
    "session": "盘后",
    "zh_summary": "英伟达苹果各向白宫舞厅项目捐赠2500万美元",
    "title_zh": "白宫舞厅3.33亿美元筹款名单曝光：英伟达苹果各捐2500万，多数捐赠者匿名 - 凤凰网",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "4beff4504fc2",
@@ -2790,7 +2858,11 @@
    "session": "盘后",
    "zh_summary": "抵押NVDA借款USDC面临强制清算",
    "title_zh": "英伟达(NVDA.US)抵押借 USDC：40% 阈值难挡强制清算 - 富途牛牛",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "0244f3eb1575",
@@ -2865,7 +2937,11 @@
    "session": "盘后",
    "zh_summary": "德国拟与英伟达签AI协议，或涉及数亿欧元投资",
    "title_zh": "德国拟同英伟达签署AI合作协议 或涉及数亿欧元投资 - 观点网",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "f74230a71bf8",
@@ -2960,7 +3036,11 @@
    "session": "盘后",
    "zh_summary": "沃尔沃宣布扩大与英伟达合作",
    "title_zh": "沃尔沃汽车宣布扩大与英伟达合作，新技术将搭载于下一代车型 - 网通社",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "993202cd0d0c",
@@ -3175,7 +3255,11 @@
    "session": "盘后",
    "zh_summary": "马斯克回应黄仁勋：Star Mind明年量产",
    "title_zh": "马斯克回应黄仁勋赞赏：英伟达团队才华横溢，Star Mind太空服务器明年量产 - 全天候科技",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.09,
+    "window_h": 0.1
+   }
   },
   {
    "id": "24f4031f1381",
@@ -4417,26 +4501,6 @@
    "zh_summary": "通胀担忧致芯片股大跌NVDA在列",
    "title_zh": "通胀担忧下芯片股大跌，NVDA、AMD、MU、TSM在列",
    "sentiment": -1
-  },
-  {
-   "id": "e191056ddfd8",
-   "title": "Better Artificial Intelligence Stock for 2026: Broadcom vs. NVIDIA - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3Vyd3V4TUVxbTV6Q3Q5WU1hanpTeTJsRG5rLWJEMXBhdUdmdGFiZUVJN1UydDE3R1gtOUFDNnpYWjB0aTY0VlpsNWhYOG5wMHJMS19UUDQ3ZnBWZy1oSTNLTnp4S3VmUG1BeklRek81U0xlOVJnSGJPR3MwWU1WQ2RobDVwaUN1OHFrNjYxbWNuSlA1ak01U0FGSnVBY3dIaC1rdG9ncHRqMjcwMUpaY0w0cUxJQTJZ",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-15T16:06:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-15T16:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3Vyd3V4TUVxbTV6Q3Q5WU1hanpTeTJsRG5rLWJEMXBhdUdmdGFiZUVJN1UydDE3R1gtOUFDNnpYWjB0aTY0VlpsNWhYOG5wMHJMS19UUDQ3ZnBWZy1oSTNLTnp4S3VmUG1BeklRek81U0xlOVJnSGJPR3MwWU1WQ2RobDVwaUN1OHFrNjYxbWNuSlA1ak01U0FGSnVBY3dIaC1rdG9ncHRqMjcwMUpaY0w0cUxJQTJZ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Spinnaker Trust买入英伟达股票",
-   "title_zh": "Spinnaker Trust买入英伟达股票",
-   "sentiment": 1
   },
   {
    "id": "b13fa5ba70de",
@@ -6630,31 +6694,6 @@
    "zh_summary": "苹果市值破5万亿，冲击英伟达市值榜首",
    "title_zh": "苹果市值破 5 万亿！能否超越英伟达登顶市值巅峰？ - NAI500",
    "sentiment": -1
-  },
-  {
-   "id": "7580b58b36f5",
-   "title": "市场动态：英伟达首席执行官呼吁与中国人工智能企业加强对话 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdEd1dWJXOWxLVlZ1WDY0bkZJTzYxTzZ6Z0tQY1dsb3VERWhZUlhRdWxvS1V4dVEweEdBQnBVMXZrMkF2UXQtMjljb1cyUEszcThyY09HZFBjbnVoRmhRelZ5Mk92ZzVXS0VFVVhKd0dvaWlOSkFGNUhMSU9HcnppMVBfb3ZZWFJlN2tvNGYwWjR0TnJzdklBMWxCMFhNZU9PQnRQc3g4eEU5dFBDVjhaNA",
-   "source": "Moomoo",
-   "published_at": "2026-10-15T12:22:36+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-15T12:22:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdEd1dWJXOWxLVlZ1WDY0bkZJTzYxTzZ6Z0tQY1dsb3VERWhZUlhRdWxvS1V4dVEweEdBQnBVMXZrMkF2UXQtMjljb1cyUEszcThyY09HZFBjbnVoRmhRelZ5Mk92ZzVXS0VFVVhKd0dvaWlOSkFGNUhMSU9HcnppMVBfb3ZZWFJlN2tvNGYwWjR0TnJzdklBMWxCMFhNZU9PQnRQc3g4eEU5dFBDVjhaNA"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-15T12:24:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkUyeHlKVlBiOTQxUGFHdU1vWUJjS3NSMEZfdl9xbU5WY2p0czQwT0dBV0pWYnRHY0t4ZEVmNTZDY0c0MEpldldKV1VKX2gwX0dqMFpSdnFkTGY2bGE3c3ByOVJmb0ZKb0YzQnFIZlZENDhYcUJQakRHNzZQYnhwSWIzNDl5WXd5Z3pFc3dVOUZJVGtpSWF2bUZsZUtjWHVmWkIxMQ"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "黄仁勋呼吁与中国AI企业加强对话",
-   "title_zh": "市场动态：英伟达首席执行官呼吁与中国人工智能企业加强对话 - Moomoo",
-   "sentiment": 0
   }
  ]
 }
