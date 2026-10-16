@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T05:51:32.952170+00:00",
+ "updated_at": "2026-10-16T06:06:37.080961+00:00",
  "market": {
   "price": 217.23,
   "change_pct": -1.84,
@@ -10,7 +10,7 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.5,
+   "avg": 1.0,
    "count": 2
   },
   "daily_signal": {
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.50（2条已评分）"
+     "note": "今日新闻情绪 +1.00（2条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.0,
    "ma20": 228.58,
-   "as_of": "2026-10-16T05:51:32.931467+00:00"
+   "as_of": "2026-10-16T06:06:37.060380+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -100,26 +100,6 @@
    "zh_summary": "英伟达RTX Spark智能体PC首发",
    "title_zh": "英伟达RTX Spark智能体PC首发！ - 搜狐",
    "sentiment": 1
-  },
-  {
-   "id": "bed79bd82546",
-   "title": "协创数据：子公司已取得英伟达NCP高级别云合作伙伴认证 - 36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aM0ZtM0I0RXpoaWdxRW5GMjg5ekRJTjRRd2ZMc2NPWHhZMUx2VGtYZDliWW9NQXVzNlh3cWFXQkdkRGtmN0gwdi1pd3M1U01uMjcwbDBLVEg",
-   "source": "36Kr",
-   "published_at": "2026-10-16T05:05:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-16T05:05:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aM0ZtM0I0RXpoaWdxRW5GMjg5ekRJTjRRd2ZMc2NPWHhZMUx2VGtYZDliWW9NQXVzNlh3cWFXQkdkRGtmN0gwdi1pd3M1U01uMjcwbDBLVEg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "子公司获英伟达NCP云合作伙伴认证",
-   "title_zh": "协创数据子公司取得英伟达NCP高级别云合作伙伴认证",
-   "sentiment": 0
   },
   {
    "id": "f4dd2be9777d",
@@ -257,6 +237,23 @@
    "sentiment": 0
   },
   {
+   "id": "cae711a55979",
+   "title": "技嘉携手英伟达赠定制RTX 5080显卡，美加用户限时参与抽奖 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUFyeXJvWDBuRENNWUdRcUVGMUprR0h2bkVnVDFVaFBWaTFDOTdZYUdhM3FNWDRxU1RrSWRtMGdOOXdtMkduc0IzdWI2R3ZjTVpiYThTSDhTd0lkNmFUYzdOQ1p3STVnU3NkQXNIOFY3TnVPUWVYcnQtLTA2bFJTZTZ4TDFOcVlk",
+   "source": "搜狐",
+   "published_at": "2026-10-16T03:43:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-16T03:43:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUFyeXJvWDBuRENNWUdRcUVGMUprR0h2bkVnVDFVaFBWaTFDOTdZYUdhM3FNWDRxU1RrSWRtMGdOOXdtMkduc0IzdWI2R3ZjTVpiYThTSDhTd0lkNmFUYzdOQ1p3STVnU3NkQXNIOFY3TnVPUWVYcnQtLTA2bFJTZTZ4TDFOcVlk"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "1d2bee34a6f3",
    "title": "黄仁勋亲自站台！沃尔沃联手英伟达搞自动驾驶：老牌车企要翻盘 - 驱动之家",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NVEhDQ25hMUVVdm93MXVaczZwUEtNdk1pdkhrSEZndUJKU2gwNEFMZ0VYT0JsOXJpREhTN1FKTVpoU0FBUVk3VjVrQXJXUnBsaW93ekZIWmU",
@@ -341,12 +338,12 @@
    "title": "Taiwan plans $4 bln Texas park to support Nvidia’s AI supply chain - Bloomberg - Investing.com",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1N5OHJkQU5KdDBUV2V5anJERDQzUFNIQXJ0ME85a3A1WGk1Z3pjT04xRTdTQ3ViMUd5U010WjVJMm51OFBxVHk0LXpZSm1jMmM0S0s4N3BTeHdiVzZXY0tad1FFWEJaWHhlelY4b0dHUUNNbllDQUQxNHNNQzBDbjVTMzd4N250UjAwc1VhX1MweVJLM0NTb1ExT01mWE5jeFl3VWgtQWd6bXBaV1J3QVlQb0RjeHJMUVI5Y2t2N0dMVE9FZ0tvY1kzcXE",
    "source": "Investing.com",
-   "published_at": "2026-10-16T02:40:00+00:00",
+   "published_at": "2026-10-16T02:39:12+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Investing.com",
-     "published_at": "2026-10-16T02:40:00+00:00",
+     "published_at": "2026-10-16T02:39:12+00:00",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1N5OHJkQU5KdDBUV2V5anJERDQzUFNIQXJ0ME85a3A1WGk1Z3pjT04xRTdTQ3ViMUd5U010WjVJMm51OFBxVHk0LXpZSm1jMmM0S0s4N3BTeHdiVzZXY0tad1FFWEJaWHhlelY4b0dHUUNNbllDQUQxNHNNQzBDbjVTMzd4N250UjAwc1VhX1MweVJLM0NTb1ExT01mWE5jeFl3VWgtQWd6bXBaV1J3QVlQb0RjeHJMUVI5Y2t2N0dMVE9FZ0tvY1kzcXE"
     }
    ],
@@ -2833,6 +2830,23 @@
    }
   },
   {
+   "id": "a120249accf5",
+   "title": "英伟达DLSS 5催化游戏“GPT时刻”！近一周10只概念股获融资客买入(名单) - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJWnJadnE4V25qNDZydlRpY1dnb1o0dFJCU3UzZjlTVzdoc0kyUk4yaEx4bFNDVHBhVDBCMHgtQUdWMVVsMWUxeWZISWNJU0VJN2gtVTdSLWREMy1pNTVCbw",
+   "source": "东方财富",
+   "published_at": "2026-10-15T15:23:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-15T15:23:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJWnJadnE4V25qNDZydlRpY1dnb1o0dFJCU3UzZjlTVzdoc0kyUk4yaEx4bFNDVHBhVDBCMHgtQUdWMVVsMWUxeWZISWNJU0VJN2gtVTdSLWREMy1pNTVCbw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "44079897f922",
    "title": "Here's What $5,000 Invested in Nvidia Stock Could Be Worth by the End of 2030 - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWUyZVBFY3VuQjg2YlJRTm5BVG55Z09rbG4xZi00emc3ejZRU09OQnJYV1NQLUpESXdqT3Y2YVhmQ3pDWU1vS2pxY3FJVXRIQklYcGx1Sy1KY29FSjdpUld2MnpJRmxyNlNJOUVLVGRCRmZfa3BGSTRuV1F6a2Y3NHdfU09qZVdiNy1JczJhNzFkQ01mbDdJ",
@@ -3549,6 +3563,26 @@
     "pct": 0.8,
     "window_h": 1.3
    }
+  },
+  {
+   "id": "bed79bd82546",
+   "title": "协创数据：子公司已取得英伟达NCP高级别云合作伙伴认证 - 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MFlVQWJyUFc3RzZIcmx5YUFkbmpLSERnOVNKbE9CUnE1Um5yRjRWbTFPU2xfTnBxVWNhSWhqNG5iNjFJSHZmNWkxMjI2MDlYRkY0SzFJT2NEQjg",
+   "source": "36Kr",
+   "published_at": "2026-10-15T14:02:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "36Kr",
+     "published_at": "2026-10-15T14:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MFlVQWJyUFc3RzZIcmx5YUFkbmpLSERnOVNKbE9CUnE1Um5yRjRWbTFPU2xfTnBxVWNhSWhqNG5iNjFJSHZmNWkxMjI2MDlYRkY0SzFJT2NEQjg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "子公司获英伟达NCP云合作伙伴认证",
+   "title_zh": "协创数据子公司取得英伟达NCP高级别云合作伙伴认证",
+   "sentiment": 0
   },
   {
    "id": "c31ac3d9be57",
@@ -6527,46 +6561,6 @@
    "zh_summary": "丹纳赫与英伟达联手推进AI实验室",
    "title_zh": "丹纳赫与英伟达联手，将自主AI引入实验室",
    "sentiment": 1
-  },
-  {
-   "id": "f12b6fe3b497",
-   "title": "Nvidia filed bug 6924256 for the Firefox crash, but cannot reproduce the DirectX 12 half - MIXED Reality News",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNTdiSFJrR2dtYm43YTIwRHh2RWY3MUZPS0FEMmZMZ1JkTmtLc1BSNmNFTEtZbTFmdkh4N2szUmxjdGZhZVVNVHJNMjNINGVfOFRqS0RTMmNLd1lkdGVtOEFkQWZMV2hreVBxaWl0QkdoY1kxSmlsQW95M29IanpEUGZaWmM4N2FmMFJvdjVWaUdOd25R",
-   "source": "MIXED Reality News",
-   "published_at": "2026-10-15T02:58:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MIXED Reality News",
-     "published_at": "2026-10-15T02:58:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNTdiSFJrR2dtYm43YTIwRHh2RWY3MUZPS0FEMmZMZ1JkTmtLc1BSNmNFTEtZbTFmdkh4N2szUmxjdGZhZVVNVHJNMjNINGVfOFRqS0RTMmNLd1lkdGVtOEFkQWZMV2hreVBxaWl0QkdoY1kxSmlsQW95M29IanpEUGZaWmM4N2FmMFJvdjVWaUdOd25R"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达提交Firefox崩溃bug报告",
-   "title_zh": "英伟达就Firefox崩溃提交bug报告，未能复现DX12部分",
-   "sentiment": 0
-  },
-  {
-   "id": "a305700926c2",
-   "title": "苹果市值收盘首破5万亿美元，成继英伟达后第二家 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ncFlCdTlhYXhjZl9MY3JRRjE0WTU1ZGFjZWtOMWYxQjlOLS1WaWJqR3cxVzF0ZmhMRkJndUthaWkyVzEzcm5UclZlUlVoR0JON3NMWEw5enNpcUN0bFdUVG5PNVpHUHlmQkVraEZaUzU",
-   "source": "手机新浪网",
-   "published_at": "2026-10-15T02:48:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-15T02:48:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ncFlCdTlhYXhjZl9MY3JRRjE0WTU1ZGFjZWtOMWYxQjlOLS1WaWJqR3cxVzF0ZmhMRkJndUthaWkyVzEzcm5UclZlUlVoR0JON3NMWEw5enNpcUN0bFdUVG5PNVpHUHlmQkVraEZaUzU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "苹果市值首破5万亿美元，全球第二家",
-   "title_zh": "苹果市值收盘首破5万亿美元，成继英伟达后第二家 - 手机新浪网",
-   "sentiment": 0
   }
  ]
 }
