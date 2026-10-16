@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T18:07:29.555573+00:00",
+ "updated_at": "2026-10-16T18:22:35.594847+00:00",
  "market": {
-  "price": 214.94,
-  "change_pct": -1.05,
+  "price": 214.46,
+  "change_pct": -1.28,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.52,
-   "count": 135
+   "count": 136
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +46.6%"
+     "note": "目标价中位数 $315（15家），隐含空间 +46.9%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.52（135条已评分）"
+     "note": "今日新闻情绪 +0.52（136条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $214.94 vs 20日均线 $228.22"
+     "note": "现价 $214.46 vs 20日均线 $228.20"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 67,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 46.6,
-   "ma20": 228.22,
-   "as_of": "2026-10-16T18:07:29.548322+00:00"
+   "implied_upside_pct": 46.9,
+   "ma20": 228.2,
+   "as_of": "2026-10-16T18:22:35.584308+00:00"
   },
   "pe_ttm": 27.3,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.6%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "f85651c3db1b",
+   "title": "Taiwan is planning U.S. industrial parks for Nvidia's AI suppliers, starting in Texas - qz.com",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Oay16SE9GR3dQbktjZElxVVowYlIyQnkxU1FZTnFmeTd3RGpHTnBTNnVuUVJSc3dzbHN0cDlQNGJBRms3aVE2d3k5bWVDdW1NU3FMZTktT3pOTGJyVWpScXJXR2Q5TWpyczJ3ZEQxem5ldVp5cWRPTERSaw",
+   "source": "qz.com",
+   "published_at": "2026-10-16T18:15:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "qz.com",
+     "published_at": "2026-10-16T18:15:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Oay16SE9GR3dQbktjZElxVVowYlIyQnkxU1FZTnFmeTd3RGpHTnBTNnVuUVJSc3dzbHN0cDlQNGJBRms3aVE2d3k5bWVDdW1NU3FMZTktT3pOTGJyVWpScXJXR2Q5TWpyczJ3ZEQxem5ldVp5cWRPTERSaw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "464d21da5f80",
+   "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark | NVIDIA Technical Blog - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnpOOTdkUDRPcEk5Z1NYR3UzbHhnT1ByMHN5M2ZaNFlicC1XTks3VmY3eEo2cE5IaFZIMTU1SU5veWtmaTlxRUJqamxJNTlJaW1fdk9ET2c0UjJKZXh6UUxJTEtyalhtTDdldGJha0xQYUQycE9xY3Y0QnduSmhzdURjMkFDaVozd3dDTFFlYldNTlZxdkVR",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-16T17:08:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-16T17:08:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnpOOTdkUDRPcEk5Z1NYR3UzbHhnT1ByMHN5M2ZaNFlicC1XTks3VmY3eEo2cE5IaFZIMTU1SU5veWtmaTlxRUJqamxJNTlJaW1fdk9ET2c0UjJKZXh6UUxJTEtyalhtTDdldGJha0xQYUQycE9xY3Y0QnduSmhzdURjMkFDaVozd3dDTFFlYldNTlZxdkVR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "5d8da22729de",
    "title": "Dan Ives Says 'Buy the Dip' in Nvidia Stock After Brutal Sell-Of - GuruFocus",
@@ -1337,7 +1371,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHaFl4cS0yWlVUZ0pSaUl3RkxHb1NxcmotNEhoZ2dHbEpuZjVQZUFHS0VHT1A4WWVVZVJTTC13MV9ZdFBVM1Z3WlZLaVI",
    "source": "凤凰网汽车",
    "published_at": "2026-10-16T11:55:17+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "凤凰网汽车",
@@ -1348,13 +1382,22 @@
      "name": "车家号",
      "published_at": "2026-10-16T12:13:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OU1g2R2FZUDZVX1hnczhqbWZpRm45aDRhWEhVUGliQmFLX3FWeEFpQnNKa2J1ZzFhYm9XdzRnZ0tPUUhER0gydnp1VDRyeERyZE1Iei14LUZvcUk"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-16T12:13:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OU1g2R2FZUDZVX1hnczhqbWZpRm45aDRhWEhVUGliQmFLX3FWeEFpQnNKa2J1ZzFhYm9XdzRnZ0tPUUhER0gydnp1VDRyeERyZE1Iei14LUZvcUk"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "英伟达携手沃尔沃打造下一代汽车",
    "title_zh": "英伟达牵手沃尔沃，跨界合作打造下一世代汽车 - 车家号",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.52,
+    "window_h": 2.0
+   }
   },
   {
    "id": "7f6cf1f6566f",
@@ -1375,6 +1418,23 @@
    "zh_summary": "英伟达等发布新开放模型",
    "title_zh": "英伟达、Meta、苹果发布新开放模型",
    "sentiment": 1
+  },
+  {
+   "id": "b1c9479497c4",
+   "title": "英伟达MGX AI工厂102家生态伙伴解读 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tekRiZklKeC1mYXctaElfeXl2aXRPdTNLRnBDTVZCaVBJSzFRdnZJU1NUbTU2YWxiVDJKSjg1VDItME5VQzJ0aUhUMDlmUjNEaDhN",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-16T11:49:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-16T11:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tekRiZklKeC1mYXctaElfeXl2aXRPdTNLRnBDTVZCaVBJSzFRdnZJU1NUbTU2YWxiVDJKSjg1VDItME5VQzJ0aUhUMDlmUjNEaDhN"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "facadcd450ef",
@@ -2094,6 +2154,23 @@
    "zh_summary": "FPT与英伟达扩大Nemotron数据集10倍",
    "title_zh": "FPT与英伟达扩大Nemotron越南数据集10倍",
    "sentiment": 1
+  },
+  {
+   "id": "a40ed0123fdd",
+   "title": "中国芯，杀破英伟达！ - 财经号",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RdmdIUUg0dWtsM1k3RUh5UXZtaWVBLVF3NHZYMTVZb3VEeGtaNlQwNDFfTnlKVmljRnQ5dHN5NmU3TEU3MU1GWktiMGFxaFVaOVhCQUpDSlJxOURuR09vc01vNA",
+   "source": "财经号",
+   "published_at": "2026-10-16T09:14:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财经号",
+     "published_at": "2026-10-16T09:14:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RdmdIUUg0dWtsM1k3RUh5UXZtaWVBLVF3NHZYMTVZb3VEeGtaNlQwNDFfTnlKVmljRnQ5dHN5NmU3TEU3MU1GWktiMGFxaFVaOVhCQUpDSlJxOURuR09vc01vNA"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
   },
   {
    "id": "01e2cebae7ea",
@@ -3534,7 +3611,7 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFNGT3M3T0FkM01lWGVUVllTWV9GOUU2V0hJNHpRNmRQdDNWNk01RXJjRnozSGcwSEUwSHpYMmI3eEVnX3NHSm9aYlpCUWFrRmFheUJpb1pNVHRRNHd4dEc4cDZYWVNtZ3FjMTlwYzRYUVNMbElZLWRhckM4LUV1OXp4QU84RldCb0tLamdzdUZRMUFJcXJMZ1c1SU5fb1AzV1N0czBISWt4eFg2NVBJeWlB",
    "source": "Bloomberg.com",
    "published_at": "2026-10-16T01:32:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Bloomberg.com",
@@ -3550,6 +3627,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-16T01:32:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa1QwdFNfczhoZG04WGNOaHpYbE9hRjBLWjVLUGU5OHlsRW5ySmxQM0hONWZwam9yRElkcFp2aXZlZDItNnNpcVdZQnJ1M21hZGRpU1FXZnBiNl90MHZLSHdBMlhYYVVZU1R2YnJsZ2ZxNDlzYk0zOW1CbXJaMlp6c3ItQ0dfMmpqNjJnVzcxdTlMeDlhcHc"
+    },
+    {
+     "name": "Insurance Journal",
+     "published_at": "2026-10-16T16:55:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDMmlFdHA1aVowbHBxMkhrWkhWSmRvOVhNR0dpWFFNdEZPUTJpQVhWRmVJUk5yX0p6MDY5ZEJuRkszN1Z4Mm9tTWlCbDdoWlUtRy1oT1B6YnR6UVRJeV9tNDBld3A5YTdDaUZlMUo4bFByMlc5U0JzTnc2Uks"
     }
    ],
    "category": "其他",
@@ -4264,6 +4346,23 @@
    "zh_summary": "Adobe与英伟达扩大AI合作",
    "title_zh": "Adobe与英伟达扩大AI合作",
    "sentiment": 1
+  },
+  {
+   "id": "818648b69de7",
+   "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lhcFhDalVzMzVWSUVsUWo2ZWtLYjdpR3dQUXJWWDc1UUFONzJUM3ZvazhJWFhxU0dST2R4cTgtaUdoTGx1MzFjOUU5U09ma3c4d0JNc3MzLWZxSGVOUVFTSFRxMWFRUEgxR1NCR2lWUHc5MFZZQmRJM1d1dFNZWWFkRnk5a0VWbXphUk90TWtUUktraE5lczFfLVVSbFBoRnBHYWMyY2VHSXFKd3p4VkZ6dW9NYUdwVTNHdTF0T0Y3SkVxbDhNQ2NTc2F4SnVrVGtReEt3",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-15T20:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T20:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lhcFhDalVzMzVWSUVsUWo2ZWtLYjdpR3dQUXJWWDc1UUFONzJUM3ZvazhJWFhxU0dST2R4cTgtaUdoTGx1MzFjOUU5U09ma3c4d0JNc3MzLWZxSGVOUVFTSFRxMWFRUEgxR1NCR2lWUHc5MFZZQmRJM1d1dFNZWWFkRnk5a0VWbXphUk90TWtUUktraE5lczFfLVVSbFBoRnBHYWMyY2VHSXFKd3p4VkZ6dW9NYUdwVTNHdTF0T0Y3SkVxbDhNQ2NTc2F4SnVrVGtReEt3"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "3eb300813858",
@@ -6501,144 +6600,6 @@
    "zh_summary": "英伟达参与斯德哥尔摩AI中心建设",
    "title_zh": "英伟达携手Klarna联合创始人基金会成立斯德哥尔摩AI中心",
    "sentiment": 1
-  },
-  {
-   "id": "8a935779ea9b",
-   "title": "Nvidia's Huang Says CoreWeave Doesn't Need a Backstop - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR",
-   "source": "Barron's",
-   "published_at": "2026-10-15T14:33:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-15T14:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋称CoreWeave不需要兜底",
-   "title_zh": "黄仁勋称CoreWeave不需要兜底支持",
-   "sentiment": 1
-  },
-  {
-   "id": "a19d00fede28",
-   "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops - The Verge",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmh5dTZkek1DYWZtc0VtWlgtSENTQXo2MmtVU2FKemJHVjJHVGxsSHdOek9QVWJwSTRSem5DeGZtMGJTZWd6V1lpSXo0bGNGWVZQOF83UmhTNFp4M1NKaU9wOXR5ZVhVOTJtcVowZTY4dXZKdjBxd2Q3UUJudVU2SDAtZ0hmbkMwaU9JUXZMMmkxLUVv",
-   "source": "The Verge",
-   "published_at": "2026-10-15T14:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Verge",
-     "published_at": "2026-10-15T14:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdmh5dTZkek1DYWZtc0VtWlgtSENTQXo2MmtVU2FKemJHVjJHVGxsSHdOek9QVWJwSTRSem5DeGZtMGJTZWd6V1lpSXo0bGNGWVZQOF83UmhTNFp4M1NKaU9wOXR5ZVhVOTJtcVowZTY4dXZKdjBxd2Q3UUJudVU2SDAtZ0hmbkMwaU9JUXZMMmkxLUVv"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Windows正优化适配英伟达RTX Spark",
-   "title_zh": "Windows正优化适配英伟达RTX Spark笔记本",
-   "sentiment": 1
-  },
-  {
-   "id": "90988d2a1a2a",
-   "title": "Nvidia Stock Slips as the Chip Leader Can’t Escape the AI Selloff - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5QUx6M3FGYWk0Sng4U3NGRW1tVGhpYmZic2pXTm03VHZ2ZEp6a215OFdVaXVETDFMVWtYZUtrbXNlVVdvT05CcDVaaE5uUWpUdEhjMFBFWm1TcUZHYWp5UUZubTdSMlR1ZnNuaUxuQVpwQ2c",
-   "source": "Barron's",
-   "published_at": "2026-10-15T14:25:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-15T14:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5QUx6M3FGYWk0Sng4U3NGRW1tVGhpYmZic2pXTm03VHZ2ZEp6a215OFdVaXVETDFMVWtYZUtrbXNlVVdvT05CcDVaaE5uUWpUdEhjMFBFWm1TcUZHYWp5UUZubTdSMlR1ZnNuaUxuQVpwQ2c"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达股价随AI板块抛售下滑",
-   "title_zh": "英伟达股价下跌，未能躲过AI股抛售潮",
-   "sentiment": -1
-  },
-  {
-   "id": "2655ccae6d50",
-   "title": "联想集团全球交付英伟达Vera Rubin NVL72，AI云超级工厂加速落地 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMlNDTmxodk5fV0plNmpXaEtrNExoNU94VldYd1dRWFd1cm5xRUh0NGlRbnlBWW13bUdyUUZQRXhVZDNfQWtJcnN6bTlBbjl6b2lnd3Noa2hHSWdDZ3puZ0ZOUVRab0pCRTNrLVlPU2xZTEdYSlo4ZWk2OW1kVFB5QklCa2pSQ0Z5OFNpc3lIdzI2aTBSUkw0MDVBTlBDWjJrZ1ZVRg",
-   "source": "富途牛牛",
-   "published_at": "2026-10-15T14:25:00+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-15T14:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMlNDTmxodk5fV0plNmpXaEtrNExoNU94VldYd1dRWFd1cm5xRUh0NGlRbnlBWW13bUdyUUZQRXhVZDNfQWtJcnN6bTlBbjl6b2lnd3Noa2hHSWdDZ3puZ0ZOUVRab0pCRTNrLVlPU2xZTEdYSlo4ZWk2OW1kVFB5QklCa2pSQ0Z5OFNpc3lIdzI2aTBSUkw0MDVBTlBDWjJrZ1ZVRg"
-    },
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-16T03:55:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tSTc3Z2x4N3BMcWJfYm4xRmNrRTZXT09QMnBmbXZxVjdxczFFOHczcHZwaC0teHRKRTREUTRzWkpQY3VTMUd6NUd0S0hja2JJcHVjSjR3NjVaLWVU"
-    },
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-16T04:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NNUlVek5zQVBfenB6MGE2MHhiM1lneWgzMGFKQzlnMWdfUm5icFB2aDdmWEhabWJ0N0RTYkFVSG1xRzBkaWxRRXpiY2xFTGVDTWpjYmJsaEg"
-    },
-    {
-     "name": "新京报",
-     "published_at": "2026-10-16T07:56:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1VjdJSDZWR2xDZXNMaF9IdEFwUXZwVjBzdm92S2ZXV1NFd1dLTThwbUYyMWNVZGhFTTd5OHZCbnIzUURPeGlsaFdPdVhSSFd4NVRrTmdsMWo3SmxCYUgxVmF5ems"
-    },
-    {
-     "name": "观点网",
-     "published_at": "2026-10-16T08:09:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tdGc4VTBLZ3N1bGtTcEYyUU1FZ2pJYmxIQzh4alp5OGVjQ0p6UVQ1S1ZnWTZGeEhkRXBXQVZINnU2R2k0RE1ZS1dCOGtrZVJlNTIyUGZqbHptWEZyOTI5T3VB"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "联想全球交付英伟达Vera Rubin NVL72",
-   "title_zh": "联想集团全球交付英伟达Vera Rubin NVL72，AI云超级工厂加速落地 - Moomoo",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.09,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "f5c5cd694d4f",
-   "title": "沃尔沃扩大与英伟达在自动驾驶领域的合作 - Mezha.net",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3BoXzRkZHdnNkNVcC1RYUVFYWp3REFOTkRYMVZkS2VnYXBhTi1pVTROVFIyaUdiZ1N2WVp3blhvX1hnQ1RISHBDNUtzTGdCLWY5dmZHYnktOENNUnhRX1lyOURkSUR1WnBjWFBEN3JFLUF1R0VSa3lUWmp0UHpyUUdDQUxiTDdqd0w2R0RTYTVHcXBRU1JyenNyZ1BlbVU",
-   "source": "Mezha.net",
-   "published_at": "2026-10-15T14:21:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Mezha.net",
-     "published_at": "2026-10-15T14:21:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV3BoXzRkZHdnNkNVcC1RYUVFYWp3REFOTkRYMVZkS2VnYXBhTi1pVTROVFIyaUdiZ1N2WVp3blhvX1hnQ1RISHBDNUtzTGdCLWY5dmZHYnktOENNUnhRX1lyOURkSUR1WnBjWFBEN3JFLUF1R0VSa3lUWmp0UHpyUUdDQUxiTDdqd0w2R0RTYTVHcXBRU1JyenNyZ1BlbVU"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-15T22:14:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSHAwNnUzWE0xYjdtZVAyb0hDVWpCSnplN1NwUGZUcnA2ODhUbUdSSExydGdOT0F6bktiU3c5cUFNd0dNSXdYek45bHM4WVNkTVp0algtZGJSR2hkSFg0TDdSVVMta0JGZ3ZTdHBoYkt0RmlNWk4tbmpfQXJKNTRYempR"
-    },
-    {
-     "name": "车家号",
-     "published_at": "2026-10-16T02:59:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CMXFhODdKQWNScG5pR01DSXUwMjB3TEpFNG5YemNMcV9hb2xqUUpfNWhoLWN3RGhZeHZMc01ob2NDc3oza3NIVThTQWxMd00wdklnQ09RQkpZWHI0RUg1WDQ0RXRYT214Snc4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "沃尔沃扩大与英伟达自动驾驶合作",
-   "title_zh": "沃尔沃扩大与英伟达在自动驾驶领域的合作 - Mezha.net",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.09,
-    "window_h": 2.0
-   }
   }
  ]
 }
