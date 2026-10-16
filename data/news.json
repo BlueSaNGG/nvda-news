@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T13:51:48.257657+00:00",
+ "updated_at": "2026-10-16T14:06:37.682367+00:00",
  "market": {
-  "price": 215.54,
-  "change_pct": -0.78,
+  "price": 216.62,
+  "change_pct": -0.28,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.52,
-   "count": 93
+   "count": 94
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 68% 分位"
+     "note": "现价处于52周区间 69% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +46.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.4%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.52（93条已评分）"
+     "note": "今日新闻情绪 +0.52（94条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $215.54 vs 20日均线 $228.25"
+     "note": "现价 $216.62 vs 20日均线 $228.30"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 68,
+   "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 46.1,
-   "ma20": 228.25,
-   "as_of": "2026-10-16T13:51:48.249304+00:00"
+   "implied_upside_pct": 45.4,
+   "ma20": 228.3,
+   "as_of": "2026-10-16T14:06:37.663914+00:00"
   },
-  "pe_ttm": 27.4,
+  "pe_ttm": 27.5,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,16 +62,50 @@
  },
  "stories": [
   {
+   "id": "ded8c9eee695",
+   "title": "NVIDIA GeForce NOW Unlocks 4X Frame Gen With Full DLSS 4.5 Controls - HotHardware",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRklMN3V4SFFtWVAxM0dHcHJoY0w0TVU1YnpPZnVNUkNkek1hNGp2c2JVa3RzQ2JJMzVIWnZfSXplc1VQUnJiNWQ2ZmkzclFrRXBqTzlJb09icmxqa3dnbDVZUmN5dk9uX1p3STRyYnJDVmFrYkFMakFwRXdhbXB1UC0wWTdXT1JhMHpXZTVR",
+   "source": "HotHardware",
+   "published_at": "2026-10-16T14:02:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "HotHardware",
+     "published_at": "2026-10-16T14:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRklMN3V4SFFtWVAxM0dHcHJoY0w0TVU1YnpPZnVNUkNkek1hNGp2c2JVa3RzQ2JJMzVIWnZfSXplc1VQUnJiNWQ2ZmkzclFrRXBqTzlJb09icmxqa3dnbDVZUmN5dk9uX1p3STRyYnJDVmFrYkFMakFwRXdhbXB1UC0wWTdXT1JhMHpXZTVR"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "12784990d9aa",
+   "title": "Nvidia GPUs Become Wall Street Collateral As AI Financing Expands - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOUVXYnZuUVdjazJ3WDhyQ1hwNXNOZjMzd052RDlSb2hPR3dna3cyTWZoc1NNWXphVklLdFUxMDdDOEJaMlozUWQ0Qml1OVd6eWs3dmVRWmc4c1FTRnBVWWNhTWc5Q1Q2OTJ4bjVkbXZ2MWFWLVNqZDE3blpiSEkyWk5uSWxyQXFuOGZzU1FuUW1EQWVzQ25adllfdENXRUx6ZVI4Q2NjZFJJYmNGVklkajln",
+   "source": "Benzinga",
+   "published_at": "2026-10-16T13:50:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-16T13:50:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOUVXYnZuUVdjazJ3WDhyQ1hwNXNOZjMzd052RDlSb2hPR3dna3cyTWZoc1NNWXphVklLdFUxMDdDOEJaMlozUWQ0Qml1OVd6eWs3dmVRWmc4c1FTRnBVWWNhTWc5Q1Q2OTJ4bjVkbXZ2MWFWLVNqZDE3blpiSEkyWk5uSWxyQXFuOGZzU1FuUW1EQWVzQ25adllfdENXRUx6ZVI4Q2NjZFJJYmNGVklkajln"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "75a1cf46dcdf",
    "title": "Nvidia’s 800VDC Tech Unlocks AI Power & Thermal Dissipation - Data Centre Magazine",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0lKb3R1eVlBX1I4RXB3bGxIRzRIVmxUTU9lbG5aaG9WenFzS2lfT0tVY1M2ZXNOcFBhdFBzWC1kRjctb3dLanVWTHJ5OHBVTGlPeFhHQnB4NTdpS19UTlNLdGo1VUpJeDJTTkZRQkZoQ01ZOFRFRjFSUXVBY1otMjYtRGpjN2VuZ29SMmxGR240TFMtZHpNeWFEMzY",
    "source": "Data Centre Magazine",
-   "published_at": "2026-10-16T13:39:53+00:00",
+   "published_at": "2026-10-16T13:39:49+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Data Centre Magazine",
-     "published_at": "2026-10-16T13:39:53+00:00",
+     "published_at": "2026-10-16T13:39:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0lKb3R1eVlBX1I4RXB3bGxIRzRIVmxUTU9lbG5aaG9WenFzS2lfT0tVY1M2ZXNOcFBhdFBzWC1kRjctb3dLanVWTHJ5OHBVTGlPeFhHQnB4NTdpS19UTlNLdGo1VUpJeDJTTkZRQkZoQ01ZOFRFRjFSUXVBY1otMjYtRGpjN2VuZ29SMmxGR240TFMtZHpNeWFEMzY"
     }
    ],
@@ -80,6 +114,23 @@
    "zh_summary": "英伟达800V直流技术提升AI供电与散热效率",
    "title_zh": "英伟达800V直流技术解锁AI电力与散热",
    "sentiment": 1
+  },
+  {
+   "id": "bcea6ccceb3d",
+   "title": "SANGRIX Sets November 2026 Delivery Schedule for 128 NVIDIA Blackwell B300 GPUs in Malaysia - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzUwLUtITUtLYk5qZHhGNzI0YWl0OFduUEZQYS1uS2p6Z1ZQWHYzR2tBeXFYVllLRlJnVk1vZzV4OXJ2cXRKMWoxQlBLZ0VtQ2VWaVE1bEtOZjNPYTZzWHlNUmZBQjNDN0k0dGZ5TVAxVEIxeG5malIyMHNxNlNTTWxYRDlNS0hNMnlBdElTQWplUkxrb2VaSmNvbXRqNDg1",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-16T13:30:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-16T13:30:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzUwLUtITUtLYk5qZHhGNzI0YWl0OFduUEZQYS1uS2p6Z1ZQWHYzR2tBeXFYVllLRlJnVk1vZzV4OXJ2cXRKMWoxQlBLZ0VtQ2VWaVE1bEtOZjNPYTZzWHlNUmZBQjNDN0k0dGZ5TVAxVEIxeG5malIyMHNxNlNTTWxYRDlNS0hNMnlBdElTQWplUkxrb2VaSmNvbXRqNDg1"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "5fba32f00f84",
@@ -2215,12 +2266,17 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NVEhDQ25hMUVVdm93MXVaczZwUEtNdk1pdkhrSEZndUJKU2gwNEFMZ0VYT0JsOXJpREhTN1FKTVpoU0FBUVk3VjVrQXJXUnBsaW93ekZIWmU",
    "source": "驱动之家",
    "published_at": "2026-10-16T03:24:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
      "published_at": "2026-10-16T03:24:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NVEhDQ25hMUVVdm93MXVaczZwUEtNdk1pdkhrSEZndUJKU2gwNEFMZ0VYT0JsOXJpREhTN1FKTVpoU0FBUVk3VjVrQXJXUnBsaW93ekZIWmU"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-16T03:49:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUV3NmUwUlR2YmlpQkw4ZmpuVGh6OWlfUlhRQl9oNEVZWmdSODZ1dWN0eDVEbUd2OEVSTW9DaEI3SzAxMkJ0QTZQSDcwTzJyQ3ZCVXBZZGJEbFdPNnNkbmt1b0duUjl1S0Rsa3RObHRfYjB2UUlRSFYwdjFUVW9IMXR6LW5WN3Z4OEpraA"
     }
    ],
    "category": "其他",
@@ -6635,71 +6691,6 @@
     "pct": 0.23,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "6e2df429fc2b",
-   "title": "Apple Just Made History, Joining Nvidia in the $5 Trillion Club - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZXJSQVBRQm05bG9EeEZUeVpOS01WTEFGSjRBVkUzbzMzSWJTbzRPM21jRnFiVTVDQm9DRHNJc0JaM19ncGFkSkQzRUdoOTNCS21HZHNReEp0b3pFdGdmamppT25TR1ZMeDJ1d3hKRzdxX3JxOHNWQnZ3S255ZkZxbExlWHdQNmZCZUo3V3JDMEtiNHUwdnJoWTIwaDI2YWtVUGwyaWlWMjVIQjloZFU0Y2tWQmdSNVVvVWNRUTZB",
-   "source": "TradingView",
-   "published_at": "2026-10-15T12:30:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-15T12:30:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZXJSQVBRQm05bG9EeEZUeVpOS01WTEFGSjRBVkUzbzMzSWJTbzRPM21jRnFiVTVDQm9DRHNJc0JaM19ncGFkSkQzRUdoOTNCS21HZHNReEp0b3pFdGdmamppT25TR1ZMeDJ1d3hKRzdxX3JxOHNWQnZ3S255ZkZxbExlWHdQNmZCZUo3V3JDMEtiNHUwdnJoWTIwaDI2YWtVUGwyaWlWMjVIQjloZFU0Y2tWQmdSNVVvVWNRUTZB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "苹果与英伟达同属5万亿美元俱乐部",
-   "title_zh": "苹果创造历史，与英伟达同属5万亿美元俱乐部",
-   "sentiment": 0
-  },
-  {
-   "id": "4145a1fd6527",
-   "title": "Nvidia CEO Calls for More Dialogue With Chinese AI Firms - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObkk4aHlrYmMzeUJfTnk3Vmtkc2xCc2VmenZSTXpjbWhab3I3dDhfenItVFk3S21kdE5ELWdsYlluWXE4NVByNlplTF9vTzZCRnBsdXlKcDZGUTIySDZ3Wm1MZTRQemdpcThuN2JWN1FXbk5mMS1IbHE3cmpTRE05a0RUdjRXUHd6NElCYWVjalpTOUs0MkxERzZ1NlZodER5aDhvemZlQ3lrRHZkRWc",
-   "source": "marketscreener.com",
-   "published_at": "2026-10-15T12:30:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "marketscreener.com",
-     "published_at": "2026-10-15T12:30:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObkk4aHlrYmMzeUJfTnk3Vmtkc2xCc2VmenZSTXpjbWhab3I3dDhfenItVFk3S21kdE5ELWdsYlluWXE4NVByNlplTF9vTzZCRnBsdXlKcDZGUTIySDZ3Wm1MZTRQemdpcThuN2JWN1FXbk5mMS1IbHE3cmpTRE05a0RUdjRXUHd6NElCYWVjalpTOUs0MkxERzZ1NlZodER5aDhvemZlQ3lrRHZkRWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达CEO呼吁与中国AI企业对话",
-   "title_zh": "英伟达CEO呼吁与中国AI公司加强对话",
-   "sentiment": 0
-  },
-  {
-   "id": "915db90ced82",
-   "title": "黄仁勋下周GTC要讲什么？英伟达正在把GPU生意做成AI工厂 - 雪球",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VczlIVHRuR25UdDZmY1BxeElQT1g4Q0UzWGdwVWtPdTFEQnJtd3A2emVzTG14eGhGeXpYbWpxamczcHYwdzVNLVByOV8xUGREaXllVjZB",
-   "source": "雪球",
-   "published_at": "2026-10-15T12:29:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "雪球",
-     "published_at": "2026-10-15T12:29:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VczlIVHRuR25UdDZmY1BxeElQT1g4Q0UzWGdwVWtPdTFEQnJtd3A2emVzTG14eGhGeXpYbWpxamczcHYwdzVNLVByOV8xUGREaXllVjZB"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-16T03:26:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdDk2NFF6b3RHZmFzM0NvZnV0c3phOWpyVXRKZnFJNExPTnZTbGVacXlkeEVCX0xqVXJlUGU0NENWRVhHY2x0MkdPT0E4RjdMNFdVSjJVcTJLMy1CcHNsSnBmdU5kdkRMQnEyTW1UZmVTcXFBUXpQaGJneXA3T2w1R0JHcFBtMEhjZXE3Tg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋下周GTC演讲，英伟达转向AI工厂模式",
-   "title_zh": "黄仁勋下周GTC要讲什么？英伟达正在把GPU生意做成AI工厂 - 搜狐",
-   "sentiment": 1
   }
  ]
 }
