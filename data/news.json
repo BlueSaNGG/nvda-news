@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T01:36:30.700111+00:00",
+ "updated_at": "2026-10-16T01:51:30.029113+00:00",
  "market": {
   "price": 217.23,
   "change_pct": -1.84,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.31,
-   "count": 251
+   "count": 254
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.31（251条已评分）"
+     "note": "今日新闻情绪 +0.31（254条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.0,
    "ma20": 228.58,
-   "as_of": "2026-10-16T01:36:30.686703+00:00"
+   "as_of": "2026-10-16T01:51:30.015638+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "2e622c50d08f",
+   "title": "英伟达疑似“弃游戏保AI”：国内炒到5.4万元 RTX 5090或已停产 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Mejg1Vy1QVVBYbWhESmI1MzVENlhPQUlQdHBhMS02b2pjeDdsT0lWX0RIZEs5OE5SNXB1Q1ZYc2VPckQ3X0FwYk9YOWFsa3ZfRlJUcVlaQUgtNHli",
+   "source": "Moomoo",
+   "published_at": "2026-10-16T01:49:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-16T01:49:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Mejg1Vy1QVVBYbWhESmI1MzVENlhPQUlQdHBhMS02b2pjeDdsT0lWX0RIZEs5OE5SNXB1Q1ZYc2VPckQ3X0FwYk9YOWFsa3ZfRlJUcVlaQUgtNHli"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "9a0716047139",
+   "title": "德国计划与英伟达开展大规模合作西门子、奥迪等12家企业参与|Anthropic|OpenAI|AI芯片|联邦政府|自动驾驶 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNQ0ZESFI1SlpRYU5oU1Z0V3llajhDQXBHc19YVUF3RVdVWmJFaTV4c3dnZ0dUUXVLLWx1UXMxcy1JU0hmbDJ0VWF4YkdtZTBkeGRDNm9SdWxYRzllend4WjlUYThKcmFTY1VvNDhWVVJwMHY0ZGFBeExtRWZyVU9PVzhGbVQ5cUY4RVJSbkVLQ3JNbGpCNk91Y1ZXeEZzeVZrVE12enY1MWNDMkVHeVRHMjdnc0Q4N2x0dHdDMWFZd09XX3d2bzVNaTVIS0hNYnhxN1E0WDA1QTE0cGE1eVkweGFhUnFvVVhsSE5JSmdocHZNc0t4dUZoNno1NDhYNFU2WlRrVUVkLUlfNDRxd2dyTnBac04zWk9OVW9PdzR2cy1hTXN4a1dZQ05la1lGUFp0SHFhRlRDSDBDQWY4dk85enNXbXBKb0FseVMwM0RWT2dpMGlRZWE5elhLYVlZcFUtTC1QWVhmNHZqOWJkLTVZX0VzRVhDUDJzV2RDQUFyMThsdVgzcjEyclhySHA3UlJlUFRxUXlmc1l1UUp1SFpwbVFDajZDaV9FdmhzQXNuS3VJQzlDY2tjdmQ5X284Szh4VTNuRG85M0FVWTNXLUYxamhWR19HbjFaa24xMFZISlBsWXJWQzVRbzRWWG12aXpEVVBj",
+   "source": "finance.sina.com.cn",
+   "published_at": "2026-10-16T01:38:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-16T01:38:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNQ0ZESFI1SlpRYU5oU1Z0V3llajhDQXBHc19YVUF3RVdVWmJFaTV4c3dnZ0dUUXVLLWx1UXMxcy1JU0hmbDJ0VWF4YkdtZTBkeGRDNm9SdWxYRzllend4WjlUYThKcmFTY1VvNDhWVVJwMHY0ZGFBeExtRWZyVU9PVzhGbVQ5cUY4RVJSbkVLQ3JNbGpCNk91Y1ZXeEZzeVZrVE12enY1MWNDMkVHeVRHMjdnc0Q4N2x0dHdDMWFZd09XX3d2bzVNaTVIS0hNYnhxN1E0WDA1QTE0cGE1eVkweGFhUnFvVVhsSE5JSmdocHZNc0t4dUZoNno1NDhYNFU2WlRrVUVkLUlfNDRxd2dyTnBac04zWk9OVW9PdzR2cy1hTXN4a1dZQ05la1lGUFp0SHFhRlRDSDBDQWY4dk85enNXbXBKb0FseVMwM0RWT2dpMGlRZWE5elhLYVlZcFUtTC1QWVhmNHZqOWJkLTVZX0VzRVhDUDJzV2RDQUFyMThsdVgzcjEyclhySHA3UlJlUFRxUXlmc1l1UUp1SFpwbVFDajZDaV9FdmhzQXNuS3VJQzlDY2tjdmQ5X284Szh4VTNuRG85M0FVWTNXLUYxamhWR19HbjFaa24xMFZISlBsWXJWQzVRbzRWWG12aXpEVVBj"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "fda8bd4a118f",
+   "title": "沃尔沃与英伟达扩大战略合作，打造新一代自动驾驶技术栈 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04d1lwNDFNU1FRRlBGenU2c0gxdHdEbk16cVc2RG5rUnpBUkpFdHdNMFRoTlFRbkQ2eEhrRlFsTjZleUlQZnItY0xHazJmWTZBRURTS2I2Sk1qalBv",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-16T01:32:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-16T01:32:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04d1lwNDFNU1FRRlBGenU2c0gxdHdEbk16cVc2RG5rUnpBUkpFdHdNMFRoTlFRbkQ2eEhrRlFsTjZleUlQZnItY0xHazJmWTZBRURTS2I2Sk1qalBv"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "74b8e51a218f",
    "title": "黄仁勋：英伟达客户远不止两家AI巨头，传统业务年增30%–40% - 华尔街见闻",
@@ -77,8 +128,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "黄仁勋：英伟达客户远不止两家AI巨头，传统业务年增30%–40%",
    "zh_summary": "黄仁勋称客户远不止两家AI巨头",
+   "title_zh": "黄仁勋：英伟达客户远不止两家AI巨头，传统业务年增30%–40%",
    "sentiment": 1
   },
   {
@@ -97,8 +148,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "国内价格已飙至5.4万！英伟达官方商城下架RTX 5090：停产传闻坐实",
    "zh_summary": "英伟达官网下架RTX 5090",
+   "title_zh": "国内价格已飙至5.4万！英伟达官方商城下架RTX 5090：停产传闻坐实",
    "sentiment": 0
   },
   {
@@ -2000,8 +2051,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "网易携手英伟达！《燕云十六声》率先接入DLSS 5技术",
    "zh_summary": "燕云十六声率先接入DLSS 5",
+   "title_zh": "网易携手英伟达！《燕云十六声》率先接入DLSS 5技术",
    "sentiment": 1
   },
   {
@@ -2135,7 +2186,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MYlVUY095aG1JWjN4TmVFYm5ScTc0VldFOTNCNHBOTmlRSWhTMXpvemU1OE9jRW0tLVFDS1NNbERRdS14WkFUdklmcjA",
    "source": "凤凰网科技",
    "published_at": "2026-10-15T15:24:06+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "凤凰网科技",
@@ -2146,13 +2197,22 @@
      "name": "搜狐",
      "published_at": "2026-10-16T00:30:43+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU0h4SmtWSXNQUU91cVdQNi1yRGxMWkgtREpjU25FbWxmVExRaHpTdHlfTXV0YXhEc3Bsc3UtZWJYZWxsZklTNkEwZEZmY21teEtoakdDSUpFTHRsLVJyNDFLZFFla2R5OENJZVV5TkZEUXpIclFpSmNYTHR4ZWVhS1BSR25iUHkzQk9nMA"
+    },
+    {
+     "name": "DoNews",
+     "published_at": "2026-10-16T00:30:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zRmxVNnhJUGNYT1JyLUJ4dTNBQmZ5UDd6amFTVU9FR25tU1ZzdzEyelVzeWUzWTZsUmtxNXcyTy1BZW5FMFg2ZFpJM25tcWNnd2hIOXZJNVZHd2NqR3c"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达发布Nemotron 3.5新模型",
    "title_zh": "英伟达发布Nemotron 3.5 Super VL大模型",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.29,
+    "window_h": 2.0
+   }
   },
   {
    "id": "44079897f922",
@@ -6429,66 +6489,6 @@
    "zh_summary": "英伟达CEO称将切断不安全AI客户合作",
    "title_zh": "英伟达首席执行官表示，将切断与开发不安全人工智能的客户的合作 - Moomoo",
    "sentiment": 0
-  },
-  {
-   "id": "316b4a1e8359",
-   "title": "Navitas Stock In Focus After Nvidia AI Power Board Launch - Simply Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVEU3QkFuTE1LOV9nNUpEUjR1NFJpNnJnNXJVNG41bl9udmppRXdtN0xidEJyaTZnZjh2c3pVOHNPNUoxa2hQQTF6SHlxTHpJNzFuMkdxVnF1RmNjY3N4N1FMSy1GWmNaaWFzVE1WMmZ6MWJSOUN0bEdEanpmNEtjQkNMVTc3Smo4a0tJalg3U3hWUTZrcmViMUlPM0VJdjJrUWQ4cEJ5b3Jhb2ZSME5YSGRXVkdRRzdKcUdsNEppMGhVdU0tVTVXNFNKYjFjc09Ta194LXNfa2RPbVHSAeABQVVfeXFMT3p1YUJhcGpIc2dFcFQyU0VVcGxMVzhFaTV5dDZRamtGWUEycGQ3amoxd1ByRUYyMGs3Rl9LcGd3aHdaZ2M3R2pvaDVRSHdnSnlrOHZKZTRaZnpPTVhCTk53ek10aDBncjJsVWhKQzVuU3I2N1Fxc2ZEWHRZaXRtWXpiNFJRM2ViZVFJZVFzSHlsTEw2R0R2RjZXcUpmaE9Ha0JCdWtCREFPLXp6SEdJcTdpaXdJbGt5bXpUc3cxU01EQ2E5S0RNZ1g4WFBVaHQ0ZTFQVW1DTEVqOXBVTWY5eVM",
-   "source": "Simply Wall Street",
-   "published_at": "2026-10-14T23:48:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Simply Wall Street",
-     "published_at": "2026-10-14T23:48:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVEU3QkFuTE1LOV9nNUpEUjR1NFJpNnJnNXJVNG41bl9udmppRXdtN0xidEJyaTZnZjh2c3pVOHNPNUoxa2hQQTF6SHlxTHpJNzFuMkdxVnF1RmNjY3N4N1FMSy1GWmNaaWFzVE1WMmZ6MWJSOUN0bEdEanpmNEtjQkNMVTc3Smo4a0tJalg3U3hWUTZrcmViMUlPM0VJdjJrUWQ4cEJ5b3Jhb2ZSME5YSGRXVkdRRzdKcUdsNEppMGhVdU0tVTVXNFNKYjFjc09Ta194LXNfa2RPbVHSAeABQVVfeXFMT3p1YUJhcGpIc2dFcFQyU0VVcGxMVzhFaTV5dDZRamtGWUEycGQ3amoxd1ByRUYyMGs3Rl9LcGd3aHdaZ2M3R2pvaDVRSHdnSnlrOHZKZTRaZnpPTVhCTk53ek10aDBncjJsVWhKQzVuU3I2N1Fxc2ZEWHRZaXRtWXpiNFJRM2ViZVFJZVFzSHlsTEw2R0R2RjZXcUpmaE9Ha0JCdWtCREFPLXp6SEdJcTdpaXdJbGt5bXpUc3cxU01EQ2E5S0RNZ1g4WFBVaHQ0ZTFQVW1DTEVqOXBVTWY5eVM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达发布AI电源板Navitas受关注",
-   "title_zh": "英伟达发布AI电源板后Navitas股票受关注",
-   "sentiment": 1
-  },
-  {
-   "id": "4a63cd230668",
-   "title": "NVIDIA RTX 5060 Ti 16 GB Price Hikes Put Entry-Level GPU Above $1,200 in Japan - TechPowerUp",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODFCbUlBRGtpWDhjdXh5c1dXUjBJbnNZbHlyT1g5aDlNVjdaUklEeFpQeVBGLXdnVF8ya095R0JnT1pFV3RtcmNTOWQzTTRHRnVWYzlCMkJEYUpSWFl3bktiZHB3anpaQ2J0R3RIcnRjazVYbGpsalhadjl2ZTM4UEI0QnlHajhfdVExQWIxYm5zclZYVWVUT2ZCWjRJNmY3OFRscl9aTXBQWm5nVGVDTmVRTGVJR0E",
-   "source": "TechPowerUp",
-   "published_at": "2026-10-14T23:26:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechPowerUp",
-     "published_at": "2026-10-14T23:26:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOODFCbUlBRGtpWDhjdXh5c1dXUjBJbnNZbHlyT1g5aDlNVjdaUklEeFpQeVBGLXdnVF8ya095R0JnT1pFV3RtcmNTOWQzTTRHRnVWYzlCMkJEYUpSWFl3bktiZHB3anpaQ2J0R3RIcnRjazVYbGpsalhadjl2ZTM4UEI0QnlHajhfdVExQWIxYm5zclZYVWVUT2ZCWjRJNmY3OFRscl9aTXBQWm5nVGVDTmVRTGVJR0E"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "5060 Ti 16G日本涨价，超1200美元",
-   "title_zh": "英伟达RTX 5060 Ti 16G日本涨价，入门显卡超1200美元",
-   "sentiment": 0
-  },
-  {
-   "id": "41a85c838830",
-   "title": "英伟达黄仁勋：对开发不安全AI软件的客户断供芯片 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53VVdSR2JOVWhIMFRkX3ZKODBZN2RYcldfYlNhenUyYlRNMGF5bGRKck9ycXBaM2toTFBrVlZxNnVLRFdZS014T1FfanlQMVVkQnA1YXg4OXc",
-   "source": "驱动之家",
-   "published_at": "2026-10-14T23:19:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-14T23:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53VVdSR2JOVWhIMFRkX3ZKODBZN2RYcldfYlNhenUyYlRNMGF5bGRKck9ycXBaM2toTFBrVlZxNnVLRFdZS014T1FfanlQMVVkQnA1YXg4OXc"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "黄仁勋称对不安全AI客户断供芯片",
-   "title_zh": "英伟达黄仁勋：对开发不安全AI软件的客户断供芯片 - 驱动之家",
-   "sentiment": -1
   }
  ]
 }
