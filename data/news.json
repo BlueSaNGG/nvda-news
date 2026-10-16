@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T06:51:34.811510+00:00",
+ "updated_at": "2026-10-16T07:06:30.249756+00:00",
  "market": {
   "price": 217.23,
   "change_pct": -1.84,
@@ -10,8 +10,8 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 1.0,
-   "count": 5
+   "avg": 0.83,
+   "count": 6
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.00（5条已评分）"
+     "note": "今日新闻情绪 +0.83（6条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.0,
    "ma20": 228.58,
-   "as_of": "2026-10-16T06:51:34.786149+00:00"
+   "as_of": "2026-10-16T07:06:30.241456+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "5cd542dc2f4c",
+   "title": "美媒：英伟达与思科证实向特朗普白宫宴会厅项目捐赠数百万美元 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVZ1VUVGY3dfWC1ldmdLNktxS01vZVBVSUJyT3hVTVNJcXVtSzNzTm9iNnA3Z1RheXpYUU1HWHpxTTZsUXY2M3lUa1ViM2V3RE5vSWlXSHZKMDNKaEVWbWVZYjdILVpqM0tiZjQ2QXl4X1VRY0FNaktoMGt0VzN5RWlBeVdkV19qY2JweHZXS3E1MF9pSDM2Y2ZhSlVGek9oQzh2ZnEzalZiVG8",
+   "source": "富途牛牛",
+   "published_at": "2026-10-16T07:03:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-16T07:03:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVZ1VUVGY3dfWC1ldmdLNktxS01vZVBVSUJyT3hVTVNJcXVtSzNzTm9iNnA3Z1RheXpYUU1HWHpxTTZsUXY2M3lUa1ViM2V3RE5vSWlXSHZKMDNKaEVWbWVZYjdILVpqM0tiZjQ2QXl4X1VRY0FNaktoMGt0VzN5RWlBeVdkV19qY2JweHZXS3E1MF9pSDM2Y2ZhSlVGek9oQzh2ZnEzalZiVG8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "6bbfd119d0e1",
    "title": "英伟达只投不做的生意， 这家中国公司想接住 - 虎嗅网",
@@ -80,6 +97,40 @@
    "zh_summary": "中国公司欲承接英伟达只投不做业务",
    "title_zh": "英伟达只投不做的生意， 这家中国公司想接住 - 虎嗅网",
    "sentiment": 0
+  },
+  {
+   "id": "5b5f8f31ddb2",
+   "title": "英伟达CEO黄仁勋：AI网络安全应做到“零事故”，反驳OepnAI CEO奥尔特曼立场 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1dE84aV9hR3Jsd0ZvS2x6X2N1dkN1WXVJUVJCSlRnUjFzSi1JZ1pQcTlBWXRFRG0yak9tdnk1d2lwUEpkcFZyU0pVNkFScURza2w3RXpyN0xJZUxF",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-16T06:42:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-16T06:42:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1dE84aV9hR3Jsd0ZvS2x6X2N1dkN1WXVJUVJCSlRnUjFzSi1JZ1pQcTlBWXRFRG0yak9tdnk1d2lwUEpkcFZyU0pVNkFScURza2w3RXpyN0xJZUxF"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "19547fe4b039",
+   "title": "Lobbying Update: $110,000 of NVIDIA CORPORATION lobbying was just disclosed - Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1ZhVzdLR0tvbHJRUVZZOU5QVVI4a1ctUnBBeU1ZTkg1aFFBdFVOcV9yc0VVZUlDVzBsYWZFMm5nTV9kcGdSN3ZHdmhaSkdEMXd0eXh0R1pJSUZfOWJIWjJqUzV1ZzN4RjNydVczcnd2Yk1qZXp6ZlBFSW1hX2hwVFNwVHRIUFZ5Y2xBRkNtZHBuSU8zeXJHZUpaV2IxUnp3UWEyNDB5WEd3dDNJN000emhNWE0",
+   "source": "Quiver Quantitative",
+   "published_at": "2026-10-16T06:34:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quiver Quantitative",
+     "published_at": "2026-10-16T06:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1ZhVzdLR0tvbHJRUVZZOU5QVVI4a1ctUnBBeU1ZTkg1aFFBdFVOcV9yc0VVZUlDVzBsYWZFMm5nTV9kcGdSN3ZHdmhaSkdEMXd0eXh0R1pJSUZfOWJIWjJqUzV1ZzN4RjNydVczcnd2Yk1qZXp6ZlBFSW1hX2hwVFNwVHRIUFZ5Y2xBRkNtZHBuSU8zeXJHZUpaV2IxUnp3UWEyNDB5WEd3dDNJN000emhNWE0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "f17391bc4d22",
@@ -6502,71 +6553,6 @@
    "session": "盘后",
    "zh_summary": "黄仁勋称客户乱用AI将断供芯片",
    "title_zh": "黄仁勋放狠话：客户乱用AI 英伟达将切断芯片供货 - 驱动之家",
-   "sentiment": 0
-  },
-  {
-   "id": "036f70f86675",
-   "title": "英伟达通过开放学习资源、合作及计算能力，扩大欧洲科学界对先进技术的访问 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTNtQXhrMTE3Ulp2YWVqQkV3MTFIaERsNnk3OWtseFdCeHJoRkVmSTRZZVo0R2NReFNuaTREbm5XT1BEc2NRdGZJclFBd0ZRRl9TOEVjMjFGR1RwbW1GNHFrM1lkSzR4RkhxQWNsNXpkUENlTkhkOHlkZHBzSFVnVV83RmRVLXdldEdOdHpxaFFJTHBoQ0hYYTk4SUYwYzZ6V2Z0a1lxSUNuUUswWVFEUkVNWWNhdw",
-   "source": "富途牛牛",
-   "published_at": "2026-10-15T04:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-15T04:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTNtQXhrMTE3Ulp2YWVqQkV3MTFIaERsNnk3OWtseFdCeHJoRkVmSTRZZVo0R2NReFNuaTREbm5XT1BEc2NRdGZJclFBd0ZRRl9TOEVjMjFGR1RwbW1GNHFrM1lkSzR4RkhxQWNsNXpkUENlTkhkOHlkZHBzSFVnVV83RmRVLXdldEdOdHpxaFFJTHBoQ0hYYTk4SUYwYzZ6V2Z0a1lxSUNuUUswWVFEUkVNWWNhdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达扩大欧洲科学界技术访问",
-   "title_zh": "英伟达通过开放学习资源、合作及计算能力，扩大欧洲科学界对先进技术的访问",
-   "sentiment": 0
-  },
-  {
-   "id": "752ab319b891",
-   "title": "Matrix Game 4.0击败英伟达同期竞品，实现全球首个消费级显卡落地 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSUZSbU04TjhvRVFQeG5mOGZJN19Pczh4X0FySzQzSWJtbWhlQWx2ZG5Xb29mT1g2RnlISlNNdkliSkRYaG85MUJyVlZOTnJoRWllQVlWT0VwOUhQUE00eDI4QTFXVEFpdkxKUXQwYklkMUM0MzRSbFg4M2p1R3FvaUtOZVd6UHN5VkFN",
-   "source": "搜狐网",
-   "published_at": "2026-10-15T03:51:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-15T03:51:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSUZSbU04TjhvRVFQeG5mOGZJN19Pczh4X0FySzQzSWJtbWhlQWx2ZG5Xb29mT1g2RnlISlNNdkliSkRYaG85MUJyVlZOTnJoRWllQVlWT0VwOUhQUE00eDI4QTFXVEFpdkxKUXQwYklkMUM0MzRSbFg4M2p1R3FvaUtOZVd6UHN5VkFN"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "Matrix Game 4.0落地，宣称击败英伟达",
-   "title_zh": "Matrix Game 4.0落地，击败英伟达同期竞品",
-   "sentiment": 0
-  },
-  {
-   "id": "023840177e38",
-   "title": "英伟达持股药企上市筹资金 Iambic募得6亿推进抗癌新药 - e南洋",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPX3poMXZtRzQxNWx0VnMzdWh0TW52UlNqLXZfTmRBUzdzcTFlTFZ3VU5NVUNlcXR6aWx4TFIxQ3g5MUpRQkpmcUpxTGc4TTV1LTZmbEZ2bncyVThHR3ZvRHhHVQ",
-   "source": "e南洋",
-   "published_at": "2026-10-15T03:46:18+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "e南洋",
-     "published_at": "2026-10-15T03:46:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPX3poMXZtRzQxNWx0VnMzdWh0TW52UlNqLXZfTmRBUzdzcTFlTFZ3VU5NVUNlcXR6aWx4TFIxQ3g5MUpRQkpmcUpxTGc4TTV1LTZmbEZ2bncyVThHR3ZvRHhHVQ"
-    },
-    {
-     "name": "KLSE Screener",
-     "published_at": "2026-10-15T03:46:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPMEFMMWdNQTFFQS1XSjc0U2JGMnppeXA3QllGdVBNVzhlek1jTzU0VEEyUFVCTmFxcERGWW9PeWZnYWM0UjQ5WjNoMDZxVW1QZFY0dHIwTURqZWtVMjJLOFJhcm1OUGp6bzRTNGl3ZnR4dmlxRDI1QXBNVWU5d3Bremd5Z25jeVhaWjJQWEVIWGlkcTV0S2V2YlZ0c0RQMmcycm1MVXdwSElWaEQ5LVd1M1k3aWtOQWVjZmdQUjZ4Rm1zOEM5ckcySGR4T1Q4T1FQYUhuckxJOXp0QnBXeEJhUEtqRzZvLTlDOWgtU3FqdHBJQXpwaUlLdWxPa0pJUzZLVXR3TWhXLV9ZVmFaWUI1Tk5VTmdWNTEtT1hBd1VqbjhDMnlDek9FWEZTRFNjSVQxM3AxdnprYlc2Q2VnYkVRd3FXcnBtOXd2N1R4VElHOWhuWDVwV3pjMjRSUjVELUxJVjgzOGRR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达参投药企Iambic募资6亿推进抗癌新药",
-   "title_zh": "英伟达持股药企上市筹资金 Iambic募得6亿推进抗癌新药 - e南洋",
    "sentiment": 0
   }
  ]
