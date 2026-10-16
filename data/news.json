@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T18:37:37.732637+00:00",
+ "updated_at": "2026-10-16T18:53:02.867511+00:00",
  "market": {
-  "price": 214.71,
-  "change_pct": -1.16,
+  "price": 213.94,
+  "change_pct": -1.51,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.51,
-   "count": 140
+   "avg": 0.5,
+   "count": 142
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 67% 分位"
+     "note": "现价处于52周区间 66% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +46.7%"
+     "note": "目标价中位数 $315（15家），隐含空间 +47.2%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.51（140条已评分）"
+     "note": "今日新闻情绪 +0.50（142条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $214.71 vs 20日均线 $228.21"
+     "note": "现价 $213.94 vs 20日均线 $228.17"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 67,
+   "price_52w_pct": 66,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 46.7,
-   "ma20": 228.21,
-   "as_of": "2026-10-16T18:37:37.725117+00:00"
+   "implied_upside_pct": 47.2,
+   "ma20": 228.17,
+   "as_of": "2026-10-16T18:53:02.858106+00:00"
   },
-  "pe_ttm": 27.3,
+  "pe_ttm": 27.2,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,16 +62,55 @@
  },
  "stories": [
   {
+   "id": "3e27e88938fd",
+   "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity? - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmUybE1nMEtyMGJFb0VDd2dpOHFTYjU1eXJHc2xXbnRfc25LVjB2UVpSLU5mR1Jqa2NvNVMzSTJFVXFlZGJKbUtDQWljUG1SUmVEZHdOMjZQVWhSUFV6QnFLVzdVSGl1UGdMMll5Y2c3T2g5cDNvd2FOYnFTZU1ELXQ4eGxlNHNqY295R1hDakVJYWZCYzZyaw",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-16T18:35:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-16T18:35:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmUybE1nMEtyMGJFb0VDd2dpOHFTYjU1eXJHc2xXbnRfc25LVjB2UVpSLU5mR1Jqa2NvNVMzSTJFVXFlZGJKbUtDQWljUG1SUmVEZHdOMjZQVWhSUFV6QnFLVzdVSGl1UGdMMll5Y2c3T2g5cDNvd2FOYnFTZU1ELXQ4eGxlNHNqY295R1hDakVJYWZCYzZyaw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "48ab02f24cfc",
+   "title": "Nvidia (NVDA): Can Paid Software Make Its Earnings Less Dependent on Hardware Sales? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRjBMSFBUb3l5a2IyNUJXR3VkNjN6ZmFDMGsyeHVRcEdsZmg1RkZYTWRKcm1pM0plaUVMUnZ0QUpMUzRCcGxlT3FncjcxMUhRQWZSNUwtNUIxd3E5d2h1QkVqcHRBc3JINmZtZFlCcEdDM3U4dk9QQXIwZ0huVkFpRXQ0aXpBNFVXRmRFTzU1UjZfQnZTV0NVY1AyWQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-16T18:29:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-16T18:29:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRjBMSFBUb3l5a2IyNUJXR3VkNjN6ZmFDMGsyeHVRcEdsZmg1RkZYTWRKcm1pM0plaUVMUnZ0QUpMUzRCcGxlT3FncjcxMUhRQWZSNUwtNUIxd3E5d2h1QkVqcHRBc3JINmZtZFlCcEdDM3U4dk9QQXIwZ0huVkFpRXQ0aXpBNFVXRmRFTzU1UjZfQnZTV0NVY1AyWQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "f85651c3db1b",
    "title": "Taiwan is planning U.S. industrial parks for Nvidia's AI suppliers, starting in Texas - qz.com",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Oay16SE9GR3dQbktjZElxVVowYlIyQnkxU1FZTnFmeTd3RGpHTnBTNnVuUVJSc3dzbHN0cDlQNGJBRms3aVE2d3k5bWVDdW1NU3FMZTktT3pOTGJyVWpScXJXR2Q5TWpyczJ3ZEQxem5ldVp5cWRPTERSaw",
    "source": "qz.com",
    "published_at": "2026-10-16T18:15:24+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "qz.com",
      "published_at": "2026-10-16T18:15:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Oay16SE9GR3dQbktjZElxVVowYlIyQnkxU1FZTnFmeTd3RGpHTnBTNnVuUVJSc3dzbHN0cDlQNGJBRms3aVE2d3k5bWVDdW1NU3FMZTktT3pOTGJyVWpScXJXR2Q5TWpyczJ3ZEQxem5ldVp5cWRPTERSaw"
+    },
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-16T18:20:23+00:00",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Oay16SE9GR3dQbktjZElxVVowYlIyQnkxU1FZTnFmeTd3RGpHTnBTNnVuUVJSc3dzbHN0cDlQNGJBRms3aVE2d3k5bWVDdW1NU3FMZTktT3pOTGJyVWpScXJXR2Q5TWpyczJ3ZEQxem5ldVp5cWRPTERSaw"
     }
    ],
@@ -140,6 +179,28 @@
    "zh_summary": "艾夫斯称英伟达大跌后可逢低买入",
    "title_zh": "艾夫斯：英伟达遭重挫后可逢低买入",
    "sentiment": 1
+  },
+  {
+   "id": "c0ee821bc583",
+   "title": "Nvidia Stocks Slip 0.7% Although RTX Spark Opens a $2,599 Local-AI Channel - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLUhTRl9WUnhJVWVDWk94V2c2TUs2T0Noc1FoQjJPUVM3MmRDRGNZTHlYVzM5aWtpVUloS0cxM3kwMlRZOE5FWGNQZ1ctWWx5M2NhLWtHYnBkczhuV25waV9SejNEX2lDc0x1Q0JaM1RYTGlsc1k0YW9PYzRONGVxVXZadjRmRGZfeldRMUdEclEyRHVQVkJ3Nkc0NlJoU1E2dERhQjdtRVNmQUlU",
+   "source": "GuruFocus",
+   "published_at": "2026-10-16T17:01:54+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-16T17:01:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLUhTRl9WUnhJVWVDWk94V2c2TUs2T0Noc1FoQjJPUVM3MmRDRGNZTHlYVzM5aWtpVUloS0cxM3kwMlRZOE5FWGNQZ1ctWWx5M2NhLWtHYnBkczhuV25waV9SejNEX2lDc0x1Q0JaM1RYTGlsc1k0YW9PYzRONGVxVXZadjRmRGZfeldRMUdEclEyRHVQVkJ3Nkc0NlJoU1E2dERhQjdtRVNmQUlU"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-16T17:53:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNzZUS285cXBXWDVwXzJicWFzRVUzLVpoX3NOSDVycjQzcDV5bFo3ZG00RmRibGhkY3NKUFRmZEFiRzZjTlVGNzFTZ1p1RHdpMktnRGJhckNkVU8xcGE4OGFGMGl4bmhfaGtoTGlyTVdjdFRidVVXRHNNNVNBSDlsekJjR0ZRU1NsQWViNWd4WTU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "fc08efc5f301",
@@ -3169,13 +3230,13 @@
    ],
    "category": "产品技术",
    "session": "盘后",
+   "zh_summary": "联想全球交付Vera Rubin NVL72",
+   "title_zh": "联想集团全球交付英伟达Vera Rubin NVL72，AI云超级工厂加速落地",
+   "sentiment": 1,
    "price_reaction": {
     "pct": 0.52,
     "window_h": 2.0
-   },
-   "zh_summary": "联想全球交付Vera Rubin NVL72",
-   "title_zh": "联想集团全球交付英伟达Vera Rubin NVL72，AI云超级工厂加速落地",
-   "sentiment": 1
+   }
   },
   {
    "id": "5c5135b272bf",
@@ -6247,26 +6308,6 @@
    }
   },
   {
-   "id": "a120249accf5",
-   "title": "英伟达DLSS 5催化游戏“GPT时刻”！近一周10只概念股获融资客买入(名单) - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJWnJadnE4V25qNDZydlRpY1dnb1o0dFJCU3UzZjlTVzdoc0kyUk4yaEx4bFNDVHBhVDBCMHgtQUdWMVVsMWUxeWZISWNJU0VJN2gtVTdSLWREMy1pNTVCbw",
-   "source": "东方财富",
-   "published_at": "2026-10-15T15:23:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-15T15:23:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJWnJadnE4V25qNDZydlRpY1dnb1o0dFJCU3UzZjlTVzdoc0kyUk4yaEx4bFNDVHBhVDBCMHgtQUdWMVVsMWUxeWZISWNJU0VJN2gtVTdSLWREMy1pNTVCbw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "DLSS5催化游戏GPT时刻，概念股获融资买入",
-   "title_zh": "英伟达DLSS 5催化游戏“GPT时刻”！近一周10只概念股获融资客买入(名单)",
-   "sentiment": 1
-  },
-  {
    "id": "44079897f922",
    "title": "Here's What $5,000 Invested in Nvidia Stock Could Be Worth by the End of 2030 - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWUyZVBFY3VuQjg2YlJRTm5BVG55Z09rbG4xZi00emc3ejZRU09OQnJYV1NQLUpESXdqT3Y2YVhmQ3pDWU1vS2pxY3FJVXRIQklYcGx1Sy1KY29FSjdpUld2MnpJRmxyNlNJOUVLVGRCRmZfa3BGSTRuV1F6a2Y3NHdfU09qZVdiNy1JczJhNzFkQ01mbDdJ",
@@ -6574,46 +6615,6 @@
    "session": "盘中",
    "zh_summary": "英伟达发布三款开放AI模型",
    "title_zh": "英伟达发布三款全新开放AI模型",
-   "sentiment": 1
-  },
-  {
-   "id": "7db12e953f56",
-   "title": "Germany said to plan AI partnership with Nvidia - Breakingthenews.net",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdjZGUlNNVmJlRFFUMVhKaW9aR0N4cjRiVFlHSkoxRnR2N25GUlhtVk5JaGhyeHdZblFNS0pESV9idGRCWkVNNGV2Y2tBY3ZpYnkyN1RSU05aejdySXAyZHZHMUY2ckVEVE5HTUVfa2lRWXMzSkM2SjF1V2w5dmhTYmNUTXZQOHZGdk40My1CMnBLUnBPTFlN",
-   "source": "Breakingthenews.net",
-   "published_at": "2026-10-15T14:53:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Breakingthenews.net",
-     "published_at": "2026-10-15T14:53:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdjZGUlNNVmJlRFFUMVhKaW9aR0N4cjRiVFlHSkoxRnR2N25GUlhtVk5JaGhyeHdZblFNS0pESV9idGRCWkVNNGV2Y2tBY3ZpYnkyN1RSU05aejdySXAyZHZHMUY2ckVEVE5HTUVfa2lRWXMzSkM2SjF1V2w5dmhTYmNUTXZQOHZGdk40My1CMnBLUnBPTFlN"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "德国拟与英伟达建立AI合作伙伴关系",
-   "title_zh": "消息称德国计划与英伟达达成AI合作",
-   "sentiment": 1
-  },
-  {
-   "id": "e839d327dcbf",
-   "title": "Scale Partners With NVIDIA on Post Training - Scale AI",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKVWs3MHNQb3ZaRmtIdlc2QzFWV3ZBdHFvRmwzWVZUVnFvVXRVbERsbWQ0SkFYc2ZTV2ZrQXpMLW1ZalRpb185VDZ3ajkwNEFIaVdLdVZ2REZEYlhTMXc",
-   "source": "Scale AI",
-   "published_at": "2026-10-15T14:52:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Scale AI",
-     "published_at": "2026-10-15T14:52:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKVWs3MHNQb3ZaRmtIdlc2QzFWV3ZBdHFvRmwzWVZUVnFvVXRVbERsbWQ0SkFYc2ZTV2ZrQXpMLW1ZalRpb185VDZ3ajkwNEFIaVdLdVZ2REZEYlhTMXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Scale AI与英伟达在后训练领域合作",
-   "title_zh": "Scale AI宣布与英伟达在后训练领域合作",
    "sentiment": 1
   }
  ]
