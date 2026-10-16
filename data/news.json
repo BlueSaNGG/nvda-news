@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T07:21:31.216084+00:00",
+ "updated_at": "2026-10-16T07:36:29.848013+00:00",
  "market": {
   "price": 217.23,
   "change_pct": -1.84,
@@ -10,12 +10,12 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.56,
-   "count": 9
+   "avg": 0.42,
+   "count": 12
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.56（9条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.42（12条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.0,
    "ma20": 228.58,
-   "as_of": "2026-10-16T07:21:31.200883+00:00"
+   "as_of": "2026-10-16T07:36:29.826800+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -62,16 +62,67 @@
  },
  "stories": [
   {
+   "id": "f98c3968e5fe",
+   "title": "NVIDIA Corporation $NVDA Shares Acquired by Cookson Peirce & Co. Inc. - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZmdQblVOWGFOM1Y1M2psRHJZNU1qZlp3RkxWaVg1Sk4xaC12Q2hRRE1wVENXYmRLamx3WnBnNzJtYi1GV29PeXdxTmJEOXFsekF1Yzk5dFVScC12eDZNbW1nUWJKa3pLVVlmS19DREJlYlUzLXdaRE1zRy00ajRISjhHZjVjUHdVZVNHN2xITGdHeDdrX3BpQUtVa19qeTAtdTRYNW1ocWhYdW90NXVzMUlMT1Bwei1Xdzl6MTBmNDBNRXc",
+   "source": "MarketBeat",
+   "published_at": "2026-10-16T07:27:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-16T07:27:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZmdQblVOWGFOM1Y1M2psRHJZNU1qZlp3RkxWaVg1Sk4xaC12Q2hRRE1wVENXYmRLamx3WnBnNzJtYi1GV29PeXdxTmJEOXFsekF1Yzk5dFVScC12eDZNbW1nUWJKa3pLVVlmS19DREJlYlUzLXdaRE1zRy00ajRISjhHZjVjUHdVZVNHN2xITGdHeDdrX3BpQUtVa19qeTAtdTRYNW1ocWhYdW90NXVzMUlMT1Bwei1Xdzl6MTBmNDBNRXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "16d0cfaf45f0",
+   "title": "GTS Securities LLC Purchases 122,310 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObDRmb2hWNUloNjRWVzQyZTZ6OVpsaFY4OHRzVGlsR0hmdjlRSHVVeXQ2UHV5cUVWakNRenFPTFJ2NDRHSE1EY3dJNWcyUXZXU0dxZHlfbkFtdkJ2Tmc5MFpIRTdvdC10b095YS10d1lqMUwyVHVIcHZIOWxhWmQwUUJ3Z1RWM2lFQ05BTFVnSlh2ZmZSOTRCY1l5enl6UTE5aTlxcEFqeFBsQWhvYkN6Y2ZXRHNuNU04XzgxZVNMdmtTN0FSZHl0dE93",
+   "source": "MarketBeat",
+   "published_at": "2026-10-16T07:27:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-16T07:27:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObDRmb2hWNUloNjRWVzQyZTZ6OVpsaFY4OHRzVGlsR0hmdjlRSHVVeXQ2UHV5cUVWakNRenFPTFJ2NDRHSE1EY3dJNWcyUXZXU0dxZHlfbkFtdkJ2Tmc5MFpIRTdvdC10b095YS10d1lqMUwyVHVIcHZIOWxhWmQwUUJ3Z1RWM2lFQ05BTFVnSlh2ZmZSOTRCY1l5enl6UTE5aTlxcEFqeFBsQWhvYkN6Y2ZXRHNuNU04XzgxZVNMdmtTN0FSZHl0dE93"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "c5a84143ead9",
+   "title": "NVIDIA Corporation $NVDA Stock Position Trimmed by Alyeska Investment Group L.P. - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEdXMlJzOXVLNGZoWmY4ckNvM2tVLV9kTDRzbF9QejRnbXRxOUVjNFBXTkxjazhpQ2dkYnFKZnVFXzQyWktkU2NzcGQzWlhTOW9WeDlMNU5UdmlJWURMS2dsWVRybUo5Z1hGRFowMUtQUFBpMjNvajFfMmo0Ulc1dUtuanNib0FadE9wNmNvZ3dLTlcwTV9wUkZFaHJEUjVHNmMyZlUyeGxrLTJuTTV2Q204aW41QlZBUTZaX0Z5U1B2VUVZWVJmUWJVaUZhVnRVYmlaUA",
+   "source": "MarketBeat",
+   "published_at": "2026-10-16T07:23:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-16T07:23:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSEdXMlJzOXVLNGZoWmY4ckNvM2tVLV9kTDRzbF9QejRnbXRxOUVjNFBXTkxjazhpQ2dkYnFKZnVFXzQyWktkU2NzcGQzWlhTOW9WeDlMNU5UdmlJWURMS2dsWVRybUo5Z1hGRFowMUtQUFBpMjNvajFfMmo0Ulc1dUtuanNib0FadE9wNmNvZ3dLTlcwTV9wUkZFaHJEUjVHNmMyZlUyeGxrLTJuTTV2Q204aW41QlZBUTZaX0Z5U1B2VUVZWVJmUWJVaUZhVnRVYmlaUA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "dab36918dd89",
    "title": "The Earthshot Prize Welcomes NVIDIA as a Founding Partner - Sustainability Magazine",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelBLc2IyQ2x5a1cxRFg0VVI2b0VKNGt4YWVhNVA1RXN6RV9iVzRhMmk2NVROTDFQS1dBeVhaZGtsWnVpNUk4QlZ6R1dxSk0zWTJjQTNYSkxxakdoam9KVDJrd1JVTzhNSDlYc2JSeno3TW1kU3oyNXRDOTZGNUJwS3RudExYcjZEbFFIMmtDc3I1SkY1b2Vz",
    "source": "Sustainability Magazine",
-   "published_at": "2026-10-16T07:16:36+00:00",
+   "published_at": "2026-10-16T07:16:33+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Sustainability Magazine",
-     "published_at": "2026-10-16T07:16:36+00:00",
+     "published_at": "2026-10-16T07:16:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelBLc2IyQ2x5a1cxRFg0VVI2b0VKNGt4YWVhNVA1RXN6RV9iVzRhMmk2NVROTDFQS1dBeVhaZGtsWnVpNUk4QlZ6R1dxSk0zWTJjQTNYSkxxakdoam9KVDJrd1JVTzhNSDlYc2JSeno3TW1kU3oyNXRDOTZGNUJwS3RudExYcjZEbFFIMmtDc3I1SkY1b2Vz"
     }
    ],
@@ -225,6 +276,23 @@
    "zh_summary": "台湾计划在德州建40亿美元AI中心",
    "title_zh": "台湾计划在德州打造40亿美元AI中心，英伟达供应商入驻",
    "sentiment": 1
+  },
+  {
+   "id": "6bd5e7677215",
+   "title": "Taiwan reportedly plans $4B Texas complex for Nvidia AI supply chain; tightens China AI chip exports - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNajZyOVdQUHQ4SUZ0cmE0cDMySGlpbUFGa2NndmFXZFNScFFYVG1zanJRQkNDMzU1cUUyOEVWVlZncGVJcFdGZEtGOE1yQXh4UHpBNzdOUzVUaUFGUDkybV9jNll1V0hPcHJNVVBhVUM0UVNCdGFhY0Y4ckRPMmFvWU1IN19WNDVmMVdIT1pVLXdhRTdsS3JWNUJhNWU3M1c0eENLc3ZlY2ZnTUdFQ1BoUWhOMzlSRjdyandzXzdPOW40ZHBnNVFIYUl5OThDMmZtNHdRRGpQbEFNTU9DaWg5Q2pYTnZSMkdNTEdGc3g3T1hqcjg",
+   "source": "TradingView",
+   "published_at": "2026-10-16T06:11:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-16T06:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNajZyOVdQUHQ4SUZ0cmE0cDMySGlpbUFGa2NndmFXZFNScFFYVG1zanJRQkNDMzU1cUUyOEVWVlZncGVJcFdGZEtGOE1yQXh4UHpBNzdOUzVUaUFGUDkybV9jNll1V0hPcHJNVVBhVUM0UVNCdGFhY0Y4ckRPMmFvWU1IN19WNDVmMVdIT1pVLXdhRTdsS3JWNUJhNWU3M1c0eENLc3ZlY2ZnTUdFQ1BoUWhOMzlSRjdyandzXzdPOW40ZHBnNVFIYUl5OThDMmZtNHdRRGpQbEFNTU9DaWg5Q2pYTnZSMkdNTEdGc3g3T1hqcjg"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "04aa91c6b7bf",
@@ -906,12 +974,12 @@
    "title": "黄仁勋：英伟达客户远不止两家AI巨头，传统业务年增30%–40% - 华尔街见闻",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xVE1MVXY4RWZaelFXaGQ0cVNMUkpfS0kxcUZYTmFIZUplcjBVN0ZnYXNIZmJpMXBPT3pzSnpTVDhLTGV0UlltTk84VHVvMlBKVmc",
    "source": "华尔街见闻",
-   "published_at": "2026-10-16T01:26:58+00:00",
+   "published_at": "2026-10-16T01:22:00+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "华尔街见闻",
-     "published_at": "2026-10-16T01:26:58+00:00",
+     "published_at": "2026-10-16T01:22:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xVE1MVXY4RWZaelFXaGQ0cVNMUkpfS0kxcUZYTmFIZUplcjBVN0ZnYXNIZmJpMXBPT3pzSnpTVDhLTGV0UlltTk84VHVvMlBKVmc"
     }
    ],
@@ -4571,7 +4639,7 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFlnem5aM2dyQUJpTFRVWEs1OTZXMHhLUWY3WmUtUXU2VjB0dTB5c3poaDNjbjlfMzdPQXQ3elJSVl92d0l4a0RYWWh5NE9xWkphZmxHbHgzVkZPZHJCVzJvWmFjcjBHVlZCSW9rVi13d2QwZlZfLUpsM3pBeUxOdDJLcHZSa3dfZFdKWVVxU0w3YUlLX0RzQTdsb2N6TjJj",
    "source": "Adobe Newsroom",
    "published_at": "2026-10-15T12:32:08+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "Adobe Newsroom",
@@ -4597,6 +4665,11 @@
      "name": "Investing News Network",
      "published_at": "2026-10-15T19:34:46+00:00",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRXhESnFLU3dQbWw1VGlHeC1jcnY4UXg4WXk3ZU5Odk1Na1FxZEhWVjNGZ25ZRXpDUGRHSEFnRm1JNnFyWUZHSGVFaWhPZHUtY3BjajFCcFpsZ29oNXhzbUtnQnNHRklQaTNIVDM5Q2E1TTBmZ3RVeDVxNHNJYjh6cVVaSmdOMGJhVnRZRTZ1Q2NpVUVo"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T17:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEpvU1BRb29ramJpX21lRjVXMDIxQmJrX2Q3WVc5Q1JsaG9oV2VxS25JRzIxcXJDS1ZxcUJpVnpkbmVabWFhdkMwYk9Od0hXV19ja0lOME5ZazFFLWxHOTh3NlVhQS1CMFg5ZV9wVWhFRVNlem5zRWZVR3RPUElsaGRiaE9fZnVwXy1OTS1LMEI5NVlSVjNiUmRPdEI0dmVNRU9BQmVB"
     }
    ],
    "category": "其他",
@@ -5532,6 +5605,23 @@
    "sentiment": 0
   },
   {
+   "id": "cf91720ca6c6",
+   "title": "英伟达撑腰，利率拆台：CoreWeave股债双杀，高杠杆算力遇考 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JRTdOdWRZOUJSV0RPaW0xUVAyZ1FlTzViemdKbGJyNUNOTUZtWkNEejM2VUZfYlV2Wm5KREJ5MlZVaEJvc3RYS2tsUGtLNHhWdlVTTXNJV0F0SkdGc2gxcGVKZE1zdw",
+   "source": "东方财富",
+   "published_at": "2026-10-15T10:29:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-15T10:29:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JRTdOdWRZOUJSV0RPaW0xUVAyZ1FlTzViemdKbGJyNUNOTUZtWkNEejM2VUZfYlV2Wm5KREJ5MlZVaEJvc3RYS2tsUGtLNHhWdlVTTXNJV0F0SkdGc2gxcGVKZE1zdw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
    "id": "df3e4c6d33e7",
    "title": "Nvidia RTX 5090 models listed as \"not carried\" by Micro Center - OC3D",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWQweDV0Y2Z3QnlSc21oR3BiWjMzblNLdFR2SVU2U2FRb1ZCNHlaSDFrcU5MVmxpYWVsTzU5Z2RuaHdma1ZoMWNxOUtGZWRZUi1xNVpvZWlPbGJtXzRFZVBYT2JIdTlBU2lQYmhIc3hnRGloZ0xSbXk3Z1ZWWlNjbFp4c3VfMTFzTFFkXzMzNkFDMVVZWTVjRWRHbTk3MXR0N3NoSGh3",
@@ -6424,135 +6514,6 @@
    "session": "盘前",
    "zh_summary": "英伟达投资五家英国初创公司",
    "title_zh": "英伟达投资五家英国初创公司",
-   "sentiment": 1
-  },
-  {
-   "id": "69b2f4603870",
-   "title": "继英伟达之后，苹果跻身“5兆俱乐部” - 万维读者网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94THdWUFk1X1VWUmozN2xLbVJka1c4WkV2LXpZN0Fxc3J5R0l3T0tNb0ZJTWtOR1FFMURiT2h5NGllSFR2QVpYVW9xcFVKTExudGVhZngzSTBmQ2hTLVVWLUl3",
-   "source": "万维读者网",
-   "published_at": "2026-10-15T05:23:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "万维读者网",
-     "published_at": "2026-10-15T05:23:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94THdWUFk1X1VWUmozN2xLbVJka1c4WkV2LXpZN0Fxc3J5R0l3T0tNb0ZJTWtOR1FFMURiT2h5NGllSFR2QVpYVW9xcFVKTExudGVhZngzSTBmQ2hTLVVWLUl3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "继英伟达后苹果跻身5兆俱乐部",
-   "title_zh": "继英伟达之后，苹果跻身“5兆俱乐部” - 万维读者网",
-   "sentiment": 0
-  },
-  {
-   "id": "e9c47ee00191",
-   "title": "美的加入英伟达MGX生态链 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EYVIyM2NLMHhOSVNZVmVBdlB1MUlFcFFQTHpUV3I1YmZnQlFXYXREMUx3N2pJc0lieW90dWhDLUMwdHBNYldnejhjd254Q1cwV09WcDJkdnd1amZHNkVTLXNxQQ",
-   "source": "东方财富",
-   "published_at": "2026-10-15T05:19:29+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-15T05:19:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EYVIyM2NLMHhOSVNZVmVBdlB1MUlFcFFQTHpUV3I1YmZnQlFXYXREMUx3N2pJc0lieW90dWhDLUMwdHBNYldnejhjd254Q1cwV09WcDJkdnd1amZHNkVTLXNxQQ"
-    },
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-15T08:14:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GaHp0YXZXdHQzUXNfYk1tcTVyeXdDb1NMYl9FYzNfR2FNVVBkQWZRbFJ3VjFjVWhYZWozZEJFZWVFaVV4TFdEVWVyemYzMUhybnFmeDZJYzRDX3VD"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-15T08:27:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5dEhGVFIzNmR5d2lGc2VxbldxVVRBWVNJWGdCRFJpNUR2Y2xIcXpuRVdpOFhlQUNzRWZiOVQ4bHViN0lpT3hJbENlYy1fODV1QVFleExDX3dYanJ2TmVGQk0zZEE1LTFuTkRiRHh0S1ZWSGJYMl90SW9nZU4"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-15T09:41:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeVJoLWRRMm9fSDlEUHZ3NGg3NjFnLV84UmFUeXAzaTNDOW1Qcjc1ajV1WlFSeVU1M2RkdmJnLTd0ME5HNWgyUGZncGdiSFlCcXBZeU16Z0tqXzR3Wm1TRGFlWmhGWG1PaHF5UzU4cFo2akZ0N1VSeFFkcllfcjFqQVZPYl84cjFKUklOWg"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-15T09:41:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1ExVmRhZjRSU2hlQmg4MEpOVXA3R195NEJFb3VsQ093YkFhQ3FCU3Q3QjJJNk9Na2dTS0FEQnZPc3FUNk5vM1gteTVTTHFvbGgzQ0tOcDZNN2RvOHc5aHN1b3RLNXB3QklMYldtQWxxTEtOYmZZeDBsVnZKdDRIYTRfMk9UNjJ1ZmJTNG5Saw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "美的加入英伟达MGX生态链",
-   "title_zh": "美的加入英伟达MGX生态链 - 东方财富",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.13,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "a12a49eed12f",
-   "title": "Nvidia to spend $250m on UK computing resources - Electronics Weekly",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGFmMGQyR2c3ZDhfYV80cC1GR3JfUDl1czNqOFZrNkZNLUtfVHZ4SFR0N1M0WjNPWEdscTIzTS14VldqbVlWVVJMeXhibXkwcmgtbnRDUkROVTlidXlYSW0xMG9DOGFrTEtSUXRvSFZJdDF5RE54NENGRmVZa2ZHV1RIdXV3ZXV0WmVkd2J6dzJUbEs4RjhvQTZlQzRoMmwyYjVReWRR",
-   "source": "Electronics Weekly",
-   "published_at": "2026-10-15T05:12:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Electronics Weekly",
-     "published_at": "2026-10-15T05:12:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGFmMGQyR2c3ZDhfYV80cC1GR3JfUDl1czNqOFZrNkZNLUtfVHZ4SFR0N1M0WjNPWEdscTIzTS14VldqbVlWVVJMeXhibXkwcmgtbnRDUkROVTlidXlYSW0xMG9DOGFrTEtSUXRvSFZJdDF5RE54NENGRmVZa2ZHV1RIdXV3ZXV0WmVkd2J6dzJUbEs4RjhvQTZlQzRoMmwyYjVReWRR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达将在英国投资2.5亿美元建算力",
-   "title_zh": "英伟达将在英国投入2.5亿美元建设算力资源",
-   "sentiment": 1
-  },
-  {
-   "id": "d2d793e3662b",
-   "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1VnZ3Q0NabGw5VDBWc3RjSEotNnNaRDhyMTRJcF9VczhMTTB5Ui1ad2FQZllkTy1WNUhubmNBLXdjcDVQc3V3VzJsWkhjWlF2M044SWNVWGQxYkhBajBXeGVEeEpDU0UxZWZr",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-15T05:02:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-15T05:02:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1VnZ3Q0NabGw5VDBWc3RjSEotNnNaRDhyMTRJcF9VczhMTTB5Ui1ad2FQZllkTy1WNUhubmNBLXdjcDVQc3V3VzJsWkhjWlF2M044SWNVWGQxYkhBajBXeGVEeEpDU0UxZWZr"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "北欧与英伟达展示先进算力合作成果",
-   "title_zh": "北欧与英伟达展示地区投入先进算力的成果",
-   "sentiment": 1
-  },
-  {
-   "id": "739de67ac12f",
-   "title": "US tech firm Nvidia buys stake in French health platform Doctolib - Yahoo News Canada",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FUDl5NEF5ekdFME1jTFNlOU4tTmdiU040TEtYUTFHNFFuT0Vaemw4TGRlRnpGaksyUlVuX1FGcENGT29qZ2tzNGVSMHpFaE1aQ1FkWUw1RUhMX3VJSTE3LWM5YlU2NkVFTS14T29CbG5rU28",
-   "source": "Yahoo News Canada",
-   "published_at": "2026-10-15T04:39:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo News Canada",
-     "published_at": "2026-10-15T04:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FUDl5NEF5ekdFME1jTFNlOU4tTmdiU040TEtYUTFHNFFuT0Vaemw4TGRlRnpGaksyUlVuX1FGcENGT29qZ2tzNGVSMHpFaE1aQ1FkWUw1RUhMX3VJSTE3LWM5YlU2NkVFTS14T29CbG5rU28"
-    },
-    {
-     "name": "RFI",
-     "published_at": "2026-10-15T04:39:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTW5iSV91a1F4bHZrSm4tSXljZ1Y2UFlQUXFNbzFBdFhqVEE4UWZaZ1Rjbi04VnJrblRxUmtkeThEUi1GN1hnUzIwZmpnakRyYWMwQm1BeVl5SXNhN2dCWGxYS0pvRGFNNE9TMENhc3hCUFEtYWI1Z1RKeFVYYlRDcGpDSFpDcTZiVVNTQ1N2dnRPcjE1cWNIZ080WUJOZzNnMlJEMmh3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达入股法国健康平台Doctolib",
-   "title_zh": "美国科技巨头英伟达收购法国健康平台Doctolib股份",
    "sentiment": 1
   }
  ]
