@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T19:23:07.482880+00:00",
+ "updated_at": "2026-10-16T19:38:07.189989+00:00",
  "market": {
-  "price": 214.71,
-  "change_pct": -1.16,
+  "price": 214.3,
+  "change_pct": -1.35,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.49,
-   "count": 148
+   "count": 150
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 67% 分位"
+     "note": "现价处于52周区间 66% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +46.7%"
+     "note": "目标价中位数 $315（15家），隐含空间 +47.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.49（148条已评分）"
+     "note": "今日新闻情绪 +0.49（150条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $214.71 vs 20日均线 $228.21"
+     "note": "现价 $214.30 vs 20日均线 $228.19"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 67,
+   "price_52w_pct": 66,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 46.7,
-   "ma20": 228.21,
-   "as_of": "2026-10-16T19:23:07.457025+00:00"
+   "implied_upside_pct": 47.0,
+   "ma20": 228.19,
+   "as_of": "2026-10-16T19:38:07.166125+00:00"
   },
-  "pe_ttm": 27.3,
+  "pe_ttm": 27.2,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -307,12 +307,17 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2xkODBFNndkNEhPcXdCeTIzek1XY083QzZRNHpBR2V1dmxPZ2hVMXYyV3Njd2VEMnFKU2MyUDBob05oa1FtMkJaVktxeFlpd3JybEI3RjFaa1NwY2FMbDJtZUlid1FLelRoakFjN01uRnlGT3ZmcDQtWXJ3WWdYOFFQOUFPR1NWeWJaemF4YU1Mako2WWVR",
    "source": "Yahoo Finance",
    "published_at": "2026-10-16T16:30:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-16T16:30:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2xkODBFNndkNEhPcXdCeTIzek1XY083QzZRNHpBR2V1dmxPZ2hVMXYyV3Njd2VEMnFKU2MyUDBob05oa1FtMkJaVktxeFlpd3JybEI3RjFaa1NwY2FMbDJtZUlid1FLelRoakFjN01uRnlGT3ZmcDQtWXJ3WWdYOFFQOUFPR1NWeWJaemF4YU1Mako2WWVR"
+    },
+    {
+     "name": "TechCrunch",
+     "published_at": "2026-10-16T16:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmNZRTdpUVF4bEVCeTgzVkhOLURxbGI4cmxPVE01TWN1b1VoUHpnS01ySjVHamc1Z2t2SzZCbWRnX190TW5hS29admttWnhkY2FCMGpaNUFwUlRuZnV2Tk1UMDlmOWFsNXpELVpnYkVYZmdfamthalRZQjd4QU9lYzRDUGh2X1A2R2tWQnJGa284Y3p1RFpjTXJzQnc2amdfeU5EUmRtQ1g"
     }
    ],
    "category": "其他",
