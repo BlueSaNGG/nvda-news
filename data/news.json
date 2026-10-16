@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T16:06:38.014700+00:00",
+ "updated_at": "2026-10-16T16:21:41.804825+00:00",
  "market": {
-  "price": 216.99,
-  "change_pct": -0.11,
+  "price": 217.45,
+  "change_pct": 0.1,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.52,
-   "count": 121
+   "count": 122
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 70% 分位"
+     "note": "现价处于52周区间 71% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +44.9%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.52（121条已评分）"
+     "note": "今日新闻情绪 +0.52（122条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.99 vs 20日均线 $228.32"
+     "note": "现价 $217.45 vs 20日均线 $228.34"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 70,
+   "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.2,
-   "ma20": 228.32,
-   "as_of": "2026-10-16T16:06:37.998437+00:00"
+   "implied_upside_pct": 44.9,
+   "ma20": 228.34,
+   "as_of": "2026-10-16T16:21:41.790613+00:00"
   },
   "pe_ttm": 27.6,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.2%空间：估值偏低，预期乐观"
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "60de53c5104c",
+   "title": "英伟达RTX Spark PC首销火爆：开启Windows PC新序章 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JYWRSOEdQTGlnbzA4LV9MWFE1MHBlTjJjbll6ZUpUV3VKN2FGS2dZUnZyc0Izd0FNNVdtdHZKM0pza1c0aG9pT0hlMkl2bVRqbmJfMjRLVWU",
+   "source": "驱动之家",
+   "published_at": "2026-10-16T16:03:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-16T16:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JYWRSOEdQTGlnbzA4LV9MWFE1MHBlTjJjbll6ZUpUV3VKN2FGS2dZUnZyc0Izd0FNNVdtdHZKM0pza1c0aG9pT0hlMkl2bVRqbmJfMjRLVWU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "d08c52b2d03d",
+   "title": "AMD, Nvidia and More Buying Opportunities Hidden in the Chip Stock Chaos - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwbkNEWGJ0OTR4WkVyM2pjVFBMQTBQcE0xbElNMXpsWGlvRWctSV9LSVdmakFaNk9UTktPNE1mUzFidFdfNERrZUVOOXZnejBOR2ZQTXJsbGx6bzFQSFlMRGVrYjFaZTdMNVNaVVNSMVFrSk4ybGRjWGMxN0o",
+   "source": "Barron's",
+   "published_at": "2026-10-16T16:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-16T16:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwbkNEWGJ0OTR4WkVyM2pjVFBMQTBQcE0xbElNMXpsWGlvRWctSV9LSVdmakFaNk9UTktPNE1mUzFidFdfNERrZUVOOXZnejBOR2ZQTXJsbGx6bzFQSFlMRGVrYjFaZTdMNVNaVVNSMVFrSk4ybGRjWGMxN0o"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "5ec1d60c9033",
    "title": "$英伟达 (NVDA.US)$ 跟着这首歌一起唱，多头们 🐂 - Moomoo",
@@ -100,6 +134,23 @@
    "zh_summary": "预计2027年股价有望涨至400美元",
    "title_zh": "英伟达股价到2027年有望上涨80%至400美元",
    "sentiment": 1
+  },
+  {
+   "id": "e000245c0c71",
+   "title": "Nvidia RTX Spark devices are now officially on sale, secure the Surface Laptop Ultra or other RTX Spark laptops here — starting at $2,599; where to buy, pricing, and availability revealed on several models - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQMjFneXFPNkhmRGxYWlhGZDdfeGN1SUVGcERzY2dTWS1nVnpVRThCRUkyY1h4T2cwbXdKZmxoTW1EYk5HMEZySGFVdDdOeUd3ci1Cd2hTN3dSYTJHREFTdFBKVnB5eFdLMEFfc2dzWVF1QnFRTXBZSkkwVzZ0NEdySjRsTGNTbi00RWI1VWZrZVBxNFhOYXFVb25EYXlnazYxOEJaN3l6ejRkbGtZWUU1QTBKRDFiQXZIdC1CREZ1SnlfS3pScWdoSmN2UEZQSlJRYnZ2U2pSd0g0aTRzRENzWnBlV2tpMDNQeXdBRThPcWhPTFYtUGg1Y2h4N0pQTHRoOXJ3RUJ2ZS16TGlnem9qUm51TTlveWktbHU2TXZ5TkVmOF9vd2luaWdoRmpLOGRIZXRJRGtxY1hOcGtVYTZIS0ctcnFUa1pZckR0dUZkS2NIVVYtdHpPSE5B",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-16T15:38:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-16T15:38:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQMjFneXFPNkhmRGxYWlhGZDdfeGN1SUVGcERzY2dTWS1nVnpVRThCRUkyY1h4T2cwbXdKZmxoTW1EYk5HMEZySGFVdDdOeUd3ci1Cd2hTN3dSYTJHREFTdFBKVnB5eFdLMEFfc2dzWVF1QnFRTXBZSkkwVzZ0NEdySjRsTGNTbi00RWI1VWZrZVBxNFhOYXFVb25EYXlnazYxOEJaN3l6ejRkbGtZWUU1QTBKRDFiQXZIdC1CREZ1SnlfS3pScWdoSmN2UEZQSlJRYnZ2U2pSd0g0aTRzRENzWnBlV2tpMDNQeXdBRThPcWhPTFYtUGg1Y2h4N0pQTHRoOXJ3RUJ2ZS16TGlnem9qUm51TTlveWktbHU2TXZ5TkVmOF9vd2luaWdoRmpLOGRIZXRJRGtxY1hOcGtVYTZIS0ctcnFUa1pZckR0dUZkS2NIVVYtdHpPSE5B"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "c42939909768",
@@ -6603,71 +6654,6 @@
    "session": "盘中",
    "zh_summary": "英伟达显卡国内价从2.8万涨至近4万",
    "title_zh": "价格飙涨！英伟达一显卡国内价格从2.8万元涨至近4万元；有卖家：近期不少销售商选择封仓不卖货，留着涨价；走私行为遭海关打击 - 搜狐网",
-   "sentiment": 1
-  },
-  {
-   "id": "818648b69de7",
-   "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHlfaC1zS3lncTY1VlI4b1lqX0F3UVNNeEV2d09iWHY4NE54dnNmeTctVHRLaEFhSzNDUU1KZC1FQWFOM1MtdWJxU29FNjdzMEk4Nzc2ck9NNDJoR29uOTE2blFHWGc0Sm50VkFHdG43NEUzS2hvbGwySkJjV3o5S1AtNEx2Q2NwN3ByeGZuVW1jWUQ3OFZEUUp6T3dRVWppUWVJSFF6RWxDOGdfeWk0bHVONng",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-15T13:42:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-15T13:42:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHlfaC1zS3lncTY1VlI4b1lqX0F3UVNNeEV2d09iWHY4NE54dnNmeTctVHRLaEFhSzNDUU1KZC1FQWFOM1MtdWJxU29FNjdzMEk4Nzc2ck9NNDJoR29uOTE2blFHWGc0Sm50VkFHdG43NEUzS2hvbGwySkJjV3o5S1AtNEx2Q2NwN3ByeGZuVW1jWUQ3OFZEUUp6T3dRVWppUWVJSFF6RWxDOGdfeWk0bHVONng"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达领跌，芯片股走低",
-   "title_zh": "AI交易降温，英伟达领跌芯片股",
-   "sentiment": -1
-  },
-  {
-   "id": "a84c97f13bb1",
-   "title": "Nvidia stock sinks amid concerns over AI financing - AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeXVuNkxSanNnRXl2RVBJeUIxTE45ajl1NjBGbzl6X2wyMWQ4SWQtazEyRVhQQ3VRYkw5bU5TMzR3WExTNjIwVkRsb2t1dFZnWTVCdzVZSzJHbXlRbjVXZXZQSkhnVEFONHE2NTJlanIwTV85em1tSFJWeGt2QmE0WERR",
-   "source": "AOL.com",
-   "published_at": "2026-10-15T13:42:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-15T13:42:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeXVuNkxSanNnRXl2RVBJeUIxTE45ajl1NjBGbzl6X2wyMWQ4SWQtazEyRVhQQ3VRYkw5bU5TMzR3WExTNjIwVkRsb2t1dFZnWTVCdzVZSzJHbXlRbjVXZXZQSkhnVEFONHE2NTJlanIwTV85em1tSFJWeGt2QmE0WERR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达股价因AI融资担忧下跌",
-   "title_zh": "英伟达股价因AI融资担忧下跌",
-   "sentiment": -1
-  },
-  {
-   "id": "c107481fea6d",
-   "title": "The Case For NVIDIA Stock Rests On One Thing - Trefis",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRTFEZ3NfcmVLeW9WbUd5MndhdzVGNHI2X0hWRmZrUEF6RHU1ZmNmREZicTBfNVpYOU5GVERxZkNxQTdxdDBNNGw3cV9SVmNiS29YUlJwTnVkeDdQXzEyUnhTX0hYTVlzbmU0X1FZSEFWdHdJeW1hYV9NZktXWEVNV2djak0wcE9SZ0lEdFRQN1N0T1RtS0lOMWlxLWtDc3FnMHAxSmFlQlU",
-   "source": "Trefis",
-   "published_at": "2026-10-15T13:42:12+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Trefis",
-     "published_at": "2026-10-15T13:42:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRTFEZ3NfcmVLeW9WbUd5MndhdzVGNHI2X0hWRmZrUEF6RHU1ZmNmREZicTBfNVpYOU5GVERxZkNxQTdxdDBNNGw3cV9SVmNiS29YUlJwTnVkeDdQXzEyUnhTX0hYTVlzbmU0X1FZSEFWdHdJeW1hYV9NZktXWEVNV2djak0wcE9SZ0lEdFRQN1N0T1RtS0lOMWlxLWtDc3FnMHAxSmFlQlU"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-15T13:42:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXE5R2YxMEVIQmVYdjgyLUx4dDNmMlh0aW1nLTdwNWpBV2Y5aEtHVFpvVkp5cnBFblFhUTRTanJrczFENzRHQzNkRS1USWMtZ0pKQ1lfU0c5NllqNnNRb2I4QW4wV1p2UzA1eFhtOEN6MWdlZUtrNzAwSEdrWWh1OWxBOE5KaFd3bU1PM3dWT0p5WE9NdlA4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "看涨英伟达逻辑关键在一点",
-   "title_zh": "Trefis：英伟达看涨逻辑关键在于一点",
    "sentiment": 1
   }
  ]
