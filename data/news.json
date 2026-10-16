@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T14:21:53.338792+00:00",
+ "updated_at": "2026-10-16T14:36:35.409303+00:00",
  "market": {
-  "price": 217.02,
-  "change_pct": -0.1,
+  "price": 218.06,
+  "change_pct": 0.38,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.54,
-   "count": 97
+   "avg": 0.52,
+   "count": 99
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 70% 分位"
+     "note": "现价处于52周区间 71% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +44.5%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.54（97条已评分）"
+     "note": "今日新闻情绪 +0.52（99条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.02 vs 20日均线 $228.32"
+     "note": "现价 $218.06 vs 20日均线 $228.37"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 70,
+   "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.1,
-   "ma20": 228.32,
-   "as_of": "2026-10-16T14:21:53.320890+00:00"
+   "implied_upside_pct": 44.5,
+   "ma20": 228.37,
+   "as_of": "2026-10-16T14:36:35.394826+00:00"
   },
-  "pe_ttm": 27.6,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.7,
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e16474f4f374",
+   "title": "谢谢，我打算回半导体领域。博通、台积电、英伟达…… - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2NaTGJxTnc3bDltak5qSmVkVW9TS2YtLUV0VUpHVmg1clhpOVd3NVJtbVVtbERVYkd4UDc1dDN3YW9vdWxpd2ZKTVdHSDRHbm44dVNpWTgtdl9oRFVSTUhsTWgyOWUzMDFVUk10WGk0a2I0akwxaFd2STdzV1IwOHFINGxyVVJWTlhsREQyRHRDMGZzRklldWd1dEc1QzdRM1BzODFFb0h4N2FxYzVz",
+   "source": "Moomoo",
+   "published_at": "2026-10-16T14:03:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-16T14:03:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2NaTGJxTnc3bDltak5qSmVkVW9TS2YtLUV0VUpHVmg1clhpOVd3NVJtbVVtbERVYkd4UDc1dDN3YW9vdWxpd2ZKTVdHSDRHbm44dVNpWTgtdl9oRFVSTUhsTWgyOWUzMDFVUk10WGk0a2I0akwxaFd2STdzV1IwOHFINGxyVVJWTlhsREQyRHRDMGZzRklldWd1dEc1QzdRM1BzODFFb0h4N2FxYzVz"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘中"
+  },
   {
    "id": "ded8c9eee695",
    "title": "NVIDIA GeForce NOW Unlocks 4X Frame Gen With Full DLSS 4.5 Controls - HotHardware",
@@ -105,6 +122,23 @@
    "zh_summary": "英伟达与苹果向白宫计划项目捐赠数百万美元",
    "title_zh": "英伟达与苹果向白宫计划项目捐赠数百万美元",
    "sentiment": 0
+  },
+  {
+   "id": "fccc0d173cfd",
+   "title": "AI交易进入“算账阶段”！英伟达(NVDA.US)GTC柏林大会将至 能否为算力超级周期续写新逻辑？ - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1paUlIYUt2cU9rOVZoNlRXZ2F0bmNTQ21EZWU0NEo0UnJCcFpfczQzcmVDcTBFVC1MZFdib0ZkYmkxUktzSlJYU04wVFdtejhkREJ4Nm9LNTF5OVNPek93dA",
+   "source": "证券之星",
+   "published_at": "2026-10-16T13:55:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-16T13:55:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1paUlIYUt2cU9rOVZoNlRXZ2F0bmNTQ21EZWU0NEo0UnJCcFpfczQzcmVDcTBFVC1MZFdib0ZkYmkxUktzSlJYU04wVFdtejhkREJ4Nm9LNTF5OVNPek93dA"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
   },
   {
    "id": "2acd1e176019",
@@ -1741,7 +1775,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMenNXUUhPLVJUbjJ4XzdFMktiMVotczUyQlBwY2VzNV9CX2pGOWFCMXd3MHp2TmpyRkowYWMyVkpEejZFWkk5Mnc3Qjk2MnpQWE9fMmgtRVJYOWxOeTRvdzBfYlJNQkNyMWxGY1pYVWNLWHdzWHpHTWZOLVoxZzQ",
    "source": "新浪财经",
    "published_at": "2026-10-16T07:29:59+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "新浪财经",
@@ -1752,13 +1786,22 @@
      "name": "搜狐",
      "published_at": "2026-10-16T07:29:59+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUXUzNFNTanc4dHFzYzRKa1ZKcG9Fdnh4NzBFTnZkd0Vwb3oxd2RRM25qQjlfd3M5ZUhNLXNVc3ZLSDUwQkpYNEl4Nldjd205Y0xYaE1wWVQySnFQU18zQndUUzItSExTazNPSm83cThXbV83U05WQ2FEYWpTdXdJZDhwbGZ4YTRV"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-16T07:39:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZNkxlR0ttVEFVWldrQU93WWlyTEhWU0h6ajMtMFVUcHl0N0xmMk42MEhxS3Y0ZjhEWDJCNGdlYzhmbGxQN25oOGExaVE"
     }
    ],
    "category": "产品技术",
    "session": "盘前",
    "zh_summary": "英特尔获苹果英伟达等六家芯片订单",
    "title_zh": "KeyBanc：英特尔获苹果、英伟达等六家芯片代工订单",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.85,
+    "window_h": 1.1
+   }
   },
   {
    "id": "f98c3968e5fe",
@@ -6645,46 +6688,6 @@
     "pct": 1.09,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "ebdd73564818",
-   "title": "NVIDIA RTX Spark Review Roundup - VideoCardz.com",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52WFoxVXRyUHVBUXhTcFdtU2pESFJRNWVhVTdfWFQ4XzlqN1VtQ0hldEg1RDk0QXh3TFJxN3Z0eHZlVG1qN09jb2djaGxoRWxhWWk1R3RwLWI2dDV5cjRiMW1sLTNhVDZiVHlJdGNB",
-   "source": "VideoCardz.com",
-   "published_at": "2026-10-15T12:38:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "VideoCardz.com",
-     "published_at": "2026-10-15T12:38:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52WFoxVXRyUHVBUXhTcFdtU2pESFJRNWVhVTdfWFQ4XzlqN1VtQ0hldEg1RDk0QXh3TFJxN3Z0eHZlVG1qN09jb2djaGxoRWxhWWk1R3RwLWI2dDV5cjRiMW1sLTNhVDZiVHlJdGNB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达RTX Spark评测汇总",
-   "title_zh": "英伟达 RTX Spark 评测汇总",
-   "sentiment": 0
-  },
-  {
-   "id": "746714610d34",
-   "title": "I asked Nvidia Spark's AI agent to run Blender for me – here's what happened - Creative Bloq",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUplQ0ZPdnRnQkJ3a2JaMDB4VENiVk1RdEZFLWxXaE0xV1ZVbjZDVlNHZWdpOEYwaXZMSjdteDM4M2NRUWw3bC1ycFBhbzdyRkFZS19UbjNYaHhpN2hoTHVqYkxJY1ZobUstMlMyU1IzUlEwd3FhVGw1LWJOTkdpdUJUbllaWVE2VG52ZTVPckJHT0V6UGpMcjBmdkY4RVdwbWp2RVFQNUFyQUpwZ3c4",
-   "source": "Creative Bloq",
-   "published_at": "2026-10-15T12:36:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Creative Bloq",
-     "published_at": "2026-10-15T12:36:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNUplQ0ZPdnRnQkJ3a2JaMDB4VENiVk1RdEZFLWxXaE0xV1ZVbjZDVlNHZWdpOEYwaXZMSjdteDM4M2NRUWw3bC1ycFBhbzdyRkFZS19UbjNYaHhpN2hoTHVqYkxJY1ZobUstMlMyU1IzUlEwd3FhVGw1LWJOTkdpdUJUbllaWVE2VG52ZTVPckJHT0V6UGpMcjBmdkY4RVdwbWp2RVFQNUFyQUpwZ3c4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "体验英伟达Spark AI智能体",
-   "title_zh": "我让英伟达Spark的AI智能体运行Blender——结果如下",
-   "sentiment": 0
   }
  ]
 }
