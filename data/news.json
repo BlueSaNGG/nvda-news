@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T19:08:45.266803+00:00",
+ "updated_at": "2026-10-16T19:23:07.482880+00:00",
  "market": {
-  "price": 213.67,
-  "change_pct": -1.64,
+  "price": 214.71,
+  "change_pct": -1.16,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,32 +10,32 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 142
+   "avg": 0.49,
+   "count": 148
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 65% 分位"
+     "note": "现价处于52周区间 67% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +47.4%"
+     "note": "目标价中位数 $315（15家），隐含空间 +46.7%"
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（142条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.49（148条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.67 vs 20日均线 $228.15"
+     "note": "现价 $214.71 vs 20日均线 $228.21"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 65,
+   "price_52w_pct": 67,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 47.4,
-   "ma20": 228.15,
-   "as_of": "2026-10-16T19:08:45.245026+00:00"
+   "implied_upside_pct": 46.7,
+   "ma20": 228.21,
+   "as_of": "2026-10-16T19:23:07.457025+00:00"
   },
-  "pe_ttm": 27.2,
+  "pe_ttm": 27.3,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d7b8a44caad2",
+   "title": "Germany Confirms Its Nvidia AI Deal: Will Any of Huang’s $2 Billion Europe Pledge Land in Berlin? - TIKR.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGphMF9ITjBJTUI1MGY2V25VRjNVZ3JzdG9zaDdyNUZXTmxnelVLN216QmtvU2tHNjBtUDdRS3pZbnVqbzFZZmwtV0ZuR0FheWxLa0xabjkxRzFqb3YwcDUzZVRJdDNEeFVyNG5RZ0FvQXV3UzNWZUFOVUxUNFJiRkVWYnRoZVNYd1dLZzNvY3lfRy1xdzl3RTlqTjdQSTU3Z002UGl3S19wXzV2XzZYMU9uV3NrYXVFMzNB",
+   "source": "TIKR.com",
+   "published_at": "2026-10-16T19:09:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-10-16T19:09:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGphMF9ITjBJTUI1MGY2V25VRjNVZ3JzdG9zaDdyNUZXTmxnelVLN216QmtvU2tHNjBtUDdRS3pZbnVqbzFZZmwtV0ZuR0FheWxLa0xabjkxRzFqb3YwcDUzZVRJdDNEeFVyNG5RZ0FvQXV3UzNWZUFOVUxUNFJiRkVWYnRoZVNYd1dLZzNvY3lfRy1xdzl3RTlqTjdQSTU3Z002UGl3S19wXzV2XzZYMU9uV3NrYXVFMzNB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "8517e25eb3ea",
    "title": "Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production. - The Motley Fool",
@@ -340,6 +357,23 @@
    "zh_summary": "苹果英伟达领衔向特朗普白宫舞厅项目捐款",
    "title_zh": "苹果、英伟达领衔科技公司为特朗普白宫舞厅项目捐款",
    "sentiment": 0
+  },
+  {
+   "id": "2f100d1f3411",
+   "title": "Nvidia Begins Selling AI-Optimized Personal Computers - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXJERm51TUtldEx6YVpCOGhCZ2phblRLWWg3aGo1bWlDZ3BsUmE4Tmp6YXlmWXBOYXpLZjBRMkY4a3dueDdxQUtEN2pxYmdtYm80ek0xM3ZjUFEtLVVqVWZGMlBjTXlNVHowc3VVU0YyUlB1R3BXNEQtNGdCUzZ6WDZFUy1EVEF6OXYtTlBzRFdXT2JsR1dwS0FwNWR5eThFbWR6RWEwNlFJZw",
+   "source": "marketscreener.com",
+   "published_at": "2026-10-16T16:09:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-16T16:09:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXJERm51TUtldEx6YVpCOGhCZ2phblRLWWg3aGo1bWlDZ3BsUmE4Tmp6YXlmWXBOYXpLZjBRMkY4a3dueDdxQUtEN2pxYmdtYm80ek0xM3ZjUFEtLVVqVWZGMlBjTXlNVHowc3VVU0YyUlB1R3BXNEQtNGdCUzZ6WDZFUy1EVEF6OXYtTlBzRFdXT2JsR1dwS0FwNWR5eThFbWR6RWEwNlFJZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "60de53c5104c",
@@ -4942,12 +4976,17 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYUotRjZnUVZXRlh2TVN0dFYzNUFmT3BYZzg4OWF6cUNWZzlrcWNwY05lWjBBTUpydVB0TUxzd3RPLS1MUXFZazRaLVhBXzRnT21Lb0RWUGF2ME11aG5NS3FEdEVOTGhqb0tUWWlGbmJFMlBhY1lHNHplOTQxZlVLbU9pTkQ2Mks2SzRpV0VjOW9iZnRCbWFnUG94MXpGQQ",
    "source": "Seeking Alpha",
    "published_at": "2026-10-15T18:16:30+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Seeking Alpha",
      "published_at": "2026-10-15T18:16:30+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYUotRjZnUVZXRlh2TVN0dFYzNUFmT3BYZzg4OWF6cUNWZzlrcWNwY05lWjBBTUpydVB0TUxzd3RPLS1MUXFZazRaLVhBXzRnT21Lb0RWUGF2ME11aG5NS3FEdEVOTGhqb0tUWWlGbmJFMlBhY1lHNHplOTQxZlVLbU9pTkQ2Mks2SzRpV0VjOW9iZnRCbWFnUG94MXpGQQ"
+    },
+    {
+     "name": "Future Transport-News",
+     "published_at": "2026-10-16T18:12:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWExPaUZZQnhhR2U2eW5lMWdsVmtvb1VUT2o3Sll3anJoblVXcnRIM2Ywajdha3FlM0lBcl9ENUVRX09xQ3g5cVE1ckViOFdpeXFLanEzUzRyd1l2UDhKWnhTeDNlWjFPRnY4SkNJU1R3a2JQd3RCaTZrLXk0U0w5ZTRneXFFZ2lUd0l4WWtxRXpZNmRSYUpsRndlUk0wVDB4b09jOVhuZEwtTzk5"
     }
    ],
    "category": "其他",
@@ -6595,46 +6634,6 @@
    "zh_summary": "德国将与英伟达开展AI发展合作",
    "title_zh": "德国将与英伟达在AI发展倡议上合作",
    "sentiment": 1
-  },
-  {
-   "id": "2c3fe8419ec9",
-   "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI - ZDNET",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZS04S3VOcXI5X3NUSEEtVWxPRTMzelVGUDNhR3JyanVaR0lWd21OenRaMG9ZRERkTDNmSkRxLWRpWEFUelRDdWtIM3dBanBqRF96TzB5M1J2SGlSMm14aVV4eFZWbU1ocWNuc3Y3UUFFNWUzbl9qRzZhNUVpWnQwWFN4dzhvQ1hCMXdoS1NYUQ",
-   "source": "ZDNET",
-   "published_at": "2026-10-15T15:00:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ZDNET",
-     "published_at": "2026-10-15T15:00:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZS04S3VOcXI5X3NUSEEtVWxPRTMzelVGUDNhR3JyanVaR0lWd21OenRaMG9ZRERkTDNmSkRxLWRpWEFUelRDdWtIM3dBanBqRF96TzB5M1J2SGlSMm14aVV4eFZWbU1ocWNuc3Y3UUFFNWUzbl9qRzZhNUVpWnQwWFN4dzhvQ1hCMXdoS1NYUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达新模型推动美国开源权重AI发展",
-   "title_zh": "英伟达Nemotron 3.5 Super VL助力美国开源权重AI再进一步",
-   "sentiment": 1
-  },
-  {
-   "id": "3782d5a618b9",
-   "title": "Pennsylvania Rep. Daniel Meuser Sold Over $1K Worth of NVIDIA Stock: Here’s What You Should Know - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObE5OaUNkSlpqWFJqLXdIbzBVellid0dHNFViODRQZnAxVDNRWVJFUWNVRkNsQmo1MV8xVlBkV19CTUNsM09BbFpfSmJqZGlDR0lPM1BveUpPU1pFdEZlQ3VqQ2NyZndKaUJLZW1KN2lPM2lqZjJBYm4ydjZ4YzdTb1V6RzRoODdyMzBCZ1Q3cG9NOGJVOG5rWUluenRWVVVIeHU1TXhoNGNyMEpiX2VpQnFqSlZlbnJsckJyaC1JcGVVRVRQMnVmM3RuRVVHeWpMZC1NNjdRNlA",
-   "source": "Benzinga",
-   "published_at": "2026-10-15T15:00:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-15T15:00:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObE5OaUNkSlpqWFJqLXdIbzBVellid0dHNFViODRQZnAxVDNRWVJFUWNVRkNsQmo1MV8xVlBkV19CTUNsM09BbFpfSmJqZGlDR0lPM1BveUpPU1pFdEZlQ3VqQ2NyZndKaUJLZW1KN2lPM2lqZjJBYm4ydjZ4YzdTb1V6RzRoODdyMzBCZ1Q3cG9NOGJVOG5rWUluenRWVVVIeHU1TXhoNGNyMEpiX2VpQnFqSlZlbnJsckJyaC1JcGVVRVRQMnVmM3RuRVVHeWpMZC1NNjdRNlA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "宾州众议员梅瑟卖出逾1000美元英伟达股票",
-   "title_zh": "宾州众议员梅瑟卖出逾1000美元英伟达股票",
-   "sentiment": 0
   }
  ]
 }
