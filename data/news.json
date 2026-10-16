@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T20:52:53.225086+00:00",
+ "updated_at": "2026-10-16T21:06:34.831338+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,8 +10,8 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.51,
-   "count": 158
+   "avg": 0.5,
+   "count": 160
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.51（158条已评分）"
+     "note": "今日新闻情绪 +0.50（160条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-16T20:52:53.216313+00:00"
+   "as_of": "2026-10-16T21:06:34.811634+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -1370,6 +1370,23 @@
    "zh_summary": "德国拟下周宣布与英伟达AI合作",
    "title_zh": "消息称德国下周宣布与英伟达AI合作",
    "sentiment": 1
+  },
+  {
+   "id": "4ab989e0d606",
+   "title": "黄仁勋：英伟达在AI安全上“绝对必须”与中国公司合作 - https://ijiwei.com/",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBoaUtqLXljWTRxdDV1Yk9DWVVVN2FIdjRvelRUcFV2OTZFQkhtT1JRZ1NfYnNoQXpVR1Z4LW8wWnFXQQ",
+   "source": "https://ijiwei.com/",
+   "published_at": "2026-10-16T13:01:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://ijiwei.com/",
+     "published_at": "2026-10-16T13:01:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBoaUtqLXljWTRxdDV1Yk9DWVVVN2FIdjRvelRUcFV2OTZFQkhtT1JRZ1NfYnNoQXpVR1Z4LW8wWnFXQQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
   },
   {
    "id": "c09bae33c700",
@@ -2875,7 +2892,7 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93Zm90UlMwQ0QyeTJUbXdZYXBNdV9oOWV0Yk9zSmtCOWpGZGtBT0w0ck15dEcyci1VRldLV2ZPbVNBNXQyUTdPUnV6RFVFeEdPT1lQejIxdXdfbnJlYmZPWUZhMURwYWRnaG4xWWpRYw",
    "source": "金融界",
    "published_at": "2026-10-16T08:07:18+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "金融界",
@@ -2886,13 +2903,22 @@
      "name": "车家号",
      "published_at": "2026-10-16T09:01:54+00:00",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSdjl0RHlkbU9OT0p1aWV5eXZaWmtvYW50ZUk4VGdka1I0cjhOalFFU250UllXdVVUWUxHZ0N2STdrUHJhY0d3OVFta2pEVVFvemhPcHlfc0tQbFU"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-16T09:01:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSdjl0RHlkbU9OT0p1aWV5eXZaWmtvYW50ZUk4VGdka1I0cjhOalFFU250UllXdVVUWUxHZ0N2STdrUHJhY0d3OVFta2pEVVFvemhPcHlfc0tQbFU"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "英伟达与奔驰扩大合作共推自动驾驶系统",
    "title_zh": "英伟达与梅赛德斯-奔驰扩大合作 共推下一代自动驾驶系统 - 金融界",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.52,
+    "window_h": 2.0
+   }
   },
   {
    "id": "3cda93633781",
@@ -6611,26 +6637,6 @@
    "zh_summary": "黄仁勋称无需援助CoreWeave",
    "title_zh": "英伟达CEO称无需兜底陷入困境的CoreWeave",
    "sentiment": -1
-  },
-  {
-   "id": "6028a9ed6c17",
-   "title": "$英伟达 (NVDA.US)$ 明天得暴涨 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbnlteGp3dUFwVHpyVHN5WHFnY3VhZWpXMWtwcTNqOHo3eDVMMHN4VTZ1Y3I0THZFQWZyY3ZHOXB4ajlkVjhpYmwzVXFBQlhiZUI0d3ZmYVNkaUNmTF9MWVRCaU9rR2RuY3d1TlVqRnFLNHVmbE9VNHBfVWc3SzBJekdLQ3NmX1NiRWhyQTA2WmwtbXBOMFRQZ2FPYnJIREFBSXNxNw",
-   "source": "Moomoo",
-   "published_at": "2026-10-15T15:25:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-15T15:25:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbnlteGp3dUFwVHpyVHN5WHFnY3VhZWpXMWtwcTNqOHo3eDVMMHN4VTZ1Y3I0THZFQWZyY3ZHOXB4ajlkVjhpYmwzVXFBQlhiZUI0d3ZmYVNkaUNmTF9MWVRCaU9rR2RuY3d1TlVqRnFLNHVmbE9VNHBfVWc3SzBJekdLQ3NmX1NiRWhyQTA2WmwtbXBOMFRQZ2FPYnJIREFBSXNxNw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Moomoo社媒帖预测NVDA明日上涨",
-   "title_zh": "$英伟达 (NVDA.US)$ 明天得暴涨 - Moomoo",
-   "sentiment": 0
   }
  ]
 }
