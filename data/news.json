@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T00:21:33.685345+00:00",
+ "updated_at": "2026-10-16T00:36:30.222985+00:00",
  "market": {
-  "price": 221.3,
-  "change_pct": -3.16,
+  "price": 217.23,
+  "change_pct": -1.84,
   "as_of": "2026-10-15",
   "next_earnings": {
    "date": "2026-11-17",
@@ -20,12 +20,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 76% 分位"
+     "note": "现价处于52周区间 70% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +42.3%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.0%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $221.30 vs 20日均线 $228.69"
+     "note": "现价 $217.23 vs 20日均线 $228.58"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 76,
+   "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 42.3,
-   "ma20": 228.69,
-   "as_of": "2026-10-16T00:21:33.673273+00:00"
+   "implied_upside_pct": 45.0,
+   "ma20": 228.58,
+   "as_of": "2026-10-16T00:36:30.209478+00:00"
   },
-  "pe_ttm": 28.1,
-  "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.3%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.6,
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "03938159b1db",
+   "title": "德国拟同英伟达签署AI合作协议 或涉及数亿欧元投资 - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92d3A5NXdiRnQ5ZzIzeUVMWFFfMFBIWnVpN3h2d2tSdFR5QThUdWJNaWgySlpaSFZtMjEtcFVHZ216bE1mVHROWU40bE5Fb0ZUY0JlRTVoNHZuWHV6dUE2YURR",
+   "source": "观点网",
+   "published_at": "2026-10-16T00:22:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-16T00:22:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92d3A5NXdiRnQ5ZzIzeUVMWFFfMFBIWnVpN3h2d2tSdFR5QThUdWJNaWgySlpaSFZtMjEtcFVHZ216bE1mVHROWU40bE5Fb0ZUY0JlRTVoNHZuWHV6dUE2YURR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "0244f3eb1575",
+   "title": "英伟达RTX 5090旗舰显卡恐迎“绝版”时刻：官方商城消失 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmRLcExJdUh4MjRBNEFWVHM2a1QweThYbmxMNklqOTdBeGRqd0UzcmpDRE4zYUJHNDkybERIcEVGUTdWMWo1OG55MzNpamMyOTdMVnN1TEo2dDRjbmllRGN4Y0JhNVZpNUlWSWRmUnBjR2hLSHFkTmtoYTJYdm1nOFdiQkNDZkM5",
+   "source": "搜狐",
+   "published_at": "2026-10-16T00:11:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-16T00:11:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmRLcExJdUh4MjRBNEFWVHM2a1QweThYbmxMNklqOTdBeGRqd0UzcmpDRE4zYUJHNDkybERIcEVGUTdWMWo1OG55MzNpamMyOTdMVnN1TEo2dDRjbmllRGN4Y0JhNVZpNUlWSWRmUnBjR2hLSHFkTmtoYTJYdm1nOFdiQkNDZkM5"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "4cfe733bd9fa",
+   "title": "英伟达、思科等科技公司向特朗普白宫宴会厅捐赠 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzdYaXZlb0paRkFqd3kxZTkzOEhDY2RTT3JUOHNFY3VaNk1qT3k2WXFwVnl3VHdRZ080N2ZGSDd4cVJhVm9FUGFBclJ5aW1vZWJITjJLN3BHdE90bUg0cWZCTjV6SDBBUTVNbmQ4bkdhLU5OM3NqbWRDX20xWUNXSEZ6dXZPeERLQ0N2ZDFfdHR2RG95cGNfYjNVUkRIZG84QlpwM19GY3diRmtO",
+   "source": "Moomoo",
+   "published_at": "2026-10-15T23:59:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-15T23:59:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzdYaXZlb0paRkFqd3kxZTkzOEhDY2RTT3JUOHNFY3VaNk1qT3k2WXFwVnl3VHdRZ080N2ZGSDd4cVJhVm9FUGFBclJ5aW1vZWJITjJLN3BHdE90bUg0cWZCTjV6SDBBUTVNbmQ4bkdhLU5OM3NqbWRDX20xWUNXSEZ6dXZPeERLQ0N2ZDFfdHR2RG95cGNfYjNVUkRIZG84QlpwM19GY3diRmtO"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "f3ff9cbf5a83",
    "title": "英伟达CEO黄仁勋自述：当年为了联系台积电，我打了好几次电话都没人回 - 搜狐",
@@ -402,12 +453,17 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mckFxbzhLY0QxQ1FVdUY4V2F6SVM2ZlVOeVFRSkNnNk9MNnRRZmVRSWdPRXBoVWtYSVZNbVBuZTZEdi02N3ljMDJmdU5nQk84ZWgxWV9GN0ExUDZyQTRGcw",
    "source": "cnBeta.COM",
    "published_at": "2026-10-15T19:41:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "cnBeta.COM",
      "published_at": "2026-10-15T19:41:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mckFxbzhLY0QxQ1FVdUY4V2F6SVM2ZlVOeVFRSkNnNk9MNnRRZmVRSWdPRXBoVWtYSVZNbVBuZTZEdi02N3ljMDJmdU5nQk84ZWgxWV9GN0ExUDZyQTRGcw"
+    },
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-16T00:27:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iLWhjUWxfZzlmWGMwWmhjV013QXBHM2gzRXJiam5RX1BaRDBQNmZsVkhQRjhkQnFKdG5zU2F2R2tZSXV2NmlrRG5jR3pjNm1iOTdPV2lncE1kVnM"
     }
    ],
    "category": "其他",
@@ -1470,6 +1526,23 @@
    "sentiment": -1
   },
   {
+   "id": "e191056ddfd8",
+   "title": "Better Artificial Intelligence Stock for 2026: Broadcom vs. NVIDIA - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3Vyd3V4TUVxbTV6Q3Q5WU1hanpTeTJsRG5rLWJEMXBhdUdmdGFiZUVJN1UydDE3R1gtOUFDNnpYWjB0aTY0VlpsNWhYOG5wMHJMS19UUDQ3ZnBWZy1oSTNLTnp4S3VmUG1BeklRek81U0xlOVJnSGJPR3MwWU1WQ2RobDVwaUN1OHFrNjYxbWNuSlA1ak01U0FGSnVBY3dIaC1rdG9ncHRqMjcwMUpaY0w0cUxJQTJZ",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-15T16:06:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-15T16:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3Vyd3V4TUVxbTV6Q3Q5WU1hanpTeTJsRG5rLWJEMXBhdUdmdGFiZUVJN1UydDE3R1gtOUFDNnpYWjB0aTY0VlpsNWhYOG5wMHJMS19UUDQ3ZnBWZy1oSTNLTnp4S3VmUG1BeklRek81U0xlOVJnSGJPR3MwWU1WQ2RobDVwaUN1OHFrNjYxbWNuSlA1ak01U0FGSnVBY3dIaC1rdG9ncHRqMjcwMUpaY0w0cUxJQTJZ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "b13fa5ba70de",
    "title": "Nvidia, Micron and SanDisk Leads Chip Sell-Off as Rising Yields Rattle AI Investors - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0JHMTduak5XUHRaNHVDeTZCTW9RSHdCcGE1MjB0ZWZiYTJaSzhTM09MQ1ZmZDJYZlN2S3k1VDN6OGNDNXdyUU5TWjlGOW5IQm9WNFVaQ0txbENMWTZYVUtPVmRzMmFqaVljVXlyM1F6TklZRlFIVjNhTHlTRXlJdFVDV1BzM0pvQkJSM05VT1hlM1BqYWNBSA",
@@ -1758,6 +1831,23 @@
    "zh_summary": "贝尔德称华尔街厌倦英伟达银行",
    "title_zh": "贝尔德分析师：华尔街已“厌倦英伟达银行” - 搜狐",
    "sentiment": -1
+  },
+  {
+   "id": "39d144e87e18",
+   "title": "网易携手英伟达！《燕云十六声》率先接入DLSS 5技术 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oTHNjVEwtbGVGMklHV3ZaRm9hb09uX3JrTnllZzF2T3h3c1psajJrSlk1Y1AxcDBsbUJWOUJUV0RpelNkXzBVaFVPNTFFSmQxYzZlMGhKQXJWamNjTy1uWg",
+   "source": "东方财富",
+   "published_at": "2026-10-15T15:41:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-15T15:41:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oTHNjVEwtbGVGMklHV3ZaRm9hb09uX3JrTnllZzF2T3h3c1psajJrSlk1Y1AxcDBsbUJWOUJUV0RpelNkXzBVaFVPNTFFSmQxYzZlMGhKQXJWamNjTy1uWg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "4d80ae9b1352",
@@ -6384,111 +6474,6 @@
    "zh_summary": "IDC：英伟达中国AI芯片份额降34%，华为28%",
    "title_zh": "IDC：2026上半年英伟达中国数据中心AI芯片份额降至34%，华为升至28% - 电子工程专辑",
    "sentiment": -1
-  },
-  {
-   "id": "5f84e48e1a1e",
-   "title": "6 Big Intel, AMD And Nvidia AI Data Center Announcements At OCP 2026 - CRN",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXFXSTFqS2F1Y1A2MG9IVlBuSkNSMHRmcEtyRUpEUVhHc3pNU3lyUWpPekJXUlBuV3J2SWhCT0VTaW5rQkF0UTB6OUJmaS1oSHBNZDQtTHU3TVFpME9aWC16dG5OLTRoTXVrTnduVzRaRXJwVHJmWTN1TURsYW11VTJNR1VJQ1pIdVdZbjNNZnRMTGN1QUd2eU1YRTBtNlBSU3JEZEdPRVZmNjBrZ0VsS0tZMUdybzB4eExsMg",
-   "source": "CRN",
-   "published_at": "2026-10-14T22:03:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CRN",
-     "published_at": "2026-10-14T22:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXFXSTFqS2F1Y1A2MG9IVlBuSkNSMHRmcEtyRUpEUVhHc3pNU3lyUWpPekJXUlBuV3J2SWhCT0VTaW5rQkF0UTB6OUJmaS1oSHBNZDQtTHU3TVFpME9aWC16dG5OLTRoTXVrTnduVzRaRXJwVHJmWTN1TURsYW11VTJNR1VJQ1pIdVdZbjNNZnRMTGN1QUd2eU1YRTBtNlBSU3JEZEdPRVZmNjBrZ0VsS0tZMUdybzB4eExsMg"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "英特尔AMD英伟达OCP大会6大AI数据中心发布",
-   "title_zh": "英特尔、AMD与英伟达在OCP 2026的6大AI数据中心发布",
-   "sentiment": 1
-  },
-  {
-   "id": "42f9b00015c1",
-   "title": "NVIDIA (NVDA) Shares Drop 3.16% Amid AI Concerns - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU3dDY2lyODZUQWJxbWkwLUNQNmFWMS1RVW9pQVk0QndSeHRoY19HZ0h0VTF4Z1l2S25vLUVzSWRfbWZTSTNlblp2Z0NPSUl5NDF6czRCNW1xMjZ0a1IzMTZiakZTVE5QbGZtZThEQ2R5dzIydXhxZVo1SDAtRTJsQUZOWUc4LU1TOG5F",
-   "source": "GuruFocus",
-   "published_at": "2026-10-14T21:59:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-14T21:59:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU3dDY2lyODZUQWJxbWkwLUNQNmFWMS1RVW9pQVk0QndSeHRoY19HZ0h0VTF4Z1l2S25vLUVzSWRfbWZTSTNlblp2Z0NPSUl5NDF6czRCNW1xMjZ0a1IzMTZiakZTVE5QbGZtZThEQ2R5dzIydXhxZVo1SDAtRTJsQUZOWUc4LU1TOG5F"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达股价下跌3.16%，AI担忧情绪发酵",
-   "title_zh": "英伟达(NVDA)股价因AI担忧下跌3.16%",
-   "sentiment": -1
-  },
-  {
-   "id": "bcb4bdd509fc",
-   "title": "Nvidia DLSS 5 Update: 2x Faster Model, 20% Less VRAM [2026] - tech-insider.org",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14QkNBVlA2c3NhMVR1S0Z3aDlZc1M0VkNrQzdxUl9WODlHU0RaUklNOTdUNXlqa1dKTTlWa1pDc0ZRald5VDhFUDhGaHlxd2lRM0JoTmNnUTRpVHl2RDhHSlpuVVNaLURfRVhlUlVfRUZVY21FSml5QQ",
-   "source": "tech-insider.org",
-   "published_at": "2026-10-14T21:58:04+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "tech-insider.org",
-     "published_at": "2026-10-14T21:58:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14QkNBVlA2c3NhMVR1S0Z3aDlZc1M0VkNrQzdxUl9WODlHU0RaUklNOTdUNXlqa1dKTTlWa1pDc0ZRald5VDhFUDhGaHlxd2lRM0JoTmNnUTRpVHl2RDhHSlpuVVNaLURfRVhlUlVfRUZVY21FSml5QQ"
-    },
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-14T21:58:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14QkNBVlA2c3NhMVR1S0Z3aDlZc1M0VkNrQzdxUl9WODlHU0RaUklNOTdUNXlqa1dKTTlWa1pDc0ZRald5VDhFUDhGaHlxd2lRM0JoTmNnUTRpVHl2RDhHSlpuVVNaLURfRVhlUlVfRUZVY21FSml5QQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达DLSS 5：模型速度翻倍，显存少20%",
-   "title_zh": "英伟达DLSS 5更新：模型快2倍，显存占用减少20%",
-   "sentiment": 1
-  },
-  {
-   "id": "2b04d618c5a9",
-   "title": "Microsoft Just Unveiled a Brand-New AI Chip. Could It Be the \"Nvidia Killer\" Everyone's Been Looking For? - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzNibHkxcXpGVU1NNE5xVTlpU0NRWFo0R1JZdTRGRUR6MnFfTGx0aXl0ZFY5UGl4T2NPX3cxQWdNWTVvUTFaOGNFaGNLTkdBckoxR2xMUlQ0RHFVT0ttRGZROFlwY3ZCVlJ6aHA1TFpWc0pGNzFpV21SbC14RzlTdDhucWdCRkxBSDZrLWRR",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-14T21:57:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-14T21:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzNibHkxcXpGVU1NNE5xVTlpU0NRWFo0R1JZdTRGRUR6MnFfTGx0aXl0ZFY5UGl4T2NPX3cxQWdNWTVvUTFaOGNFaGNLTkdBckoxR2xMUlQ0RHFVT0ttRGZROFlwY3ZCVlJ6aHA1TFpWc0pGNzFpV21SbC14RzlTdDhucWdCRkxBSDZrLWRR"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "微软发布新AI芯片称或成英伟达杀手",
-   "title_zh": "微软发布全新AI芯片，或成英伟达杀手？",
-   "sentiment": -1
-  },
-  {
-   "id": "26cb3fdcb789",
-   "title": "Nvidia CEO Says He Would Stop Selling Chips to Firms Developing Unsafe AI - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3ZETmdvOW1Ya09EcGFZTkkzendiVkYxZGdJbUNGZXdDbDJac1Q5ZGtxNFJoSF92NGQtaTh1QkFBbm9uVEFxcUx5OFRiTkI2d0F0NTV5VmdLcDBCMmR0cFhvanFvejRuTTRoZmM3ZUJwbDVCOFE3NlB2b2ZGV3UzeEIyM0FyM3hRZzRaYmY2b3JFWVI0aXJBUlBmVDlXWHRhaGhtcnBR",
-   "source": "TipRanks",
-   "published_at": "2026-10-14T21:44:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-14T21:44:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3ZETmdvOW1Ya09EcGFZTkkzendiVkYxZGdJbUNGZXdDbDJac1Q5ZGtxNFJoSF92NGQtaTh1QkFBbm9uVEFxcUx5OFRiTkI2d0F0NTV5VmdLcDBCMmR0cFhvanFvejRuTTRoZmM3ZUJwbDVCOFE3NlB2b2ZGV3UzeEIyM0FyM3hRZzRaYmY2b3JFWVI0aXJBUlBmVDlXWHRhaGhtcnBR"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "黄仁勋称将停止向不安全AI公司售芯片",
-   "title_zh": "英伟达CEO表示将停止向开发不安全AI的公司售芯片",
-   "sentiment": 0
   }
  ]
 }
