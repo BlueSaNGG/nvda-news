@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T12:21:28.972159+00:00",
+ "updated_at": "2026-10-16T12:36:36.583180+00:00",
  "market": {
   "price": 217.23,
   "change_pct": -1.84,
@@ -10,12 +10,12 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.49,
-   "count": 67
+   "avg": 0.5,
+   "count": 74
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.49（67条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（74条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.0,
    "ma20": 228.58,
-   "as_of": "2026-10-16T12:21:28.948240+00:00"
+   "as_of": "2026-10-16T12:36:36.566798+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -206,12 +206,12 @@
    "title": "Nvidia, Meta and Apple Unveil New Open Models The Morning Download for Oct. 16 - WSJ",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzl4Qm1LOUgzSHRaWEdvRDhKYkRaemRoOV9GWWVuU0N1THhvaXFnYnhQOWRWaGZBQlBUN3dicGJmWWVuZW9BS3BnLVlGYks2R3I1b1ZuVW9ObVhXX3I1cGViWnJyTnIwd3pfV3BXQVhWZy15dkpDTlFUSVg1YUtjR28wRkFrRHNpT2ktMnpR",
    "source": "WSJ",
-   "published_at": "2026-10-16T11:54:19+00:00",
+   "published_at": "2026-10-16T11:52:00+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "WSJ",
-     "published_at": "2026-10-16T11:54:19+00:00",
+     "published_at": "2026-10-16T11:52:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzl4Qm1LOUgzSHRaWEdvRDhKYkRaemRoOV9GWWVuU0N1THhvaXFnYnhQOWRWaGZBQlBUN3dicGJmWWVuZW9BS3BnLVlGYks2R3I1b1ZuVW9ObVhXX3I1cGViWnJyTnIwd3pfV3BXQVhWZy15dkpDTlFUSVg1YUtjR28wRkFrRHNpT2ktMnpR"
     }
    ],
@@ -1006,6 +1006,23 @@
    "zh_summary": "英伟达发布自家硬件专用开源模型",
    "title_zh": "英伟达为自家硬件发布自研开源模型，走向垂直整合",
    "sentiment": 1
+  },
+  {
+   "id": "3c5631c2cb45",
+   "title": "NVIDIA Corporation $NVDA Stock Bought by Spinnaker Trust - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDZ6Sk51aUItYlJsaXJ4THE2SkttS2QweXg1Y3lfelhOVnVwMnhkVExSSFlfWWtPSmVNX29Hd0tzaDNNY25sc21aeF9TaTlRaVR2YU5CNUhvUGpUNFNwNkVldGJSZUN4YjJCakQydWdXX1RDQ0xPN2ZUU1phMlpKempOOU1vS3ZadDR0cFdwR2h1U01RM0pESWg0ZS1ZUy1ySDl1UjVuUmFlejlFRnB2Zk95OFJaQzQ",
+   "source": "MarketBeat",
+   "published_at": "2026-10-16T08:53:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-16T08:53:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDZ6Sk51aUItYlJsaXJ4THE2SkttS2QweXg1Y3lfelhOVnVwMnhkVExSSFlfWWtPSmVNX29Hd0tzaDNNY25sc21aeF9TaTlRaVR2YU5CNUhvUGpUNFNwNkVldGJSZUN4YjJCakQydWdXX1RDQ0xPN2ZUU1phMlpKempOOU1vS3ZadDR0cFdwR2h1U01RM0pESWg0ZS1ZUy1ySDl1UjVuUmFlejlFRnB2Zk95OFJaQzQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "cc0d584414a8",
@@ -1863,12 +1880,17 @@
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1N5OHJkQU5KdDBUV2V5anJERDQzUFNIQXJ0ME85a3A1WGk1Z3pjT04xRTdTQ3ViMUd5U010WjVJMm51OFBxVHk0LXpZSm1jMmM0S0s4N3BTeHdiVzZXY0tad1FFWEJaWHhlelY4b0dHUUNNbllDQUQxNHNNQzBDbjVTMzd4N250UjAwc1VhX1MweVJLM0NTb1ExT01mWE5jeFl3VWgtQWd6bXBaV1J3QVlQb0RjeHJMUVI5Y2t2N0dMVE9FZ0tvY1kzcXE",
    "source": "Investing.com",
    "published_at": "2026-10-16T02:39:12+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Investing.com",
      "published_at": "2026-10-16T02:39:12+00:00",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1N5OHJkQU5KdDBUV2V5anJERDQzUFNIQXJ0ME85a3A1WGk1Z3pjT04xRTdTQ3ViMUd5U010WjVJMm51OFBxVHk0LXpZSm1jMmM0S0s4N3BTeHdiVzZXY0tad1FFWEJaWHhlelY4b0dHUUNNbllDQUQxNHNNQzBDbjVTMzd4N250UjAwc1VhX1MweVJLM0NTb1ExT01mWE5jeFl3VWgtQWd6bXBaV1J3QVlQb0RjeHJMUVI5Y2t2N0dMVE9FZ0tvY1kzcXE"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-16T12:14:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOURTWEFVTWswbkVuU3Q4bnhSbnp0SnJMNE44cDV5YUwwWElVVlF5Yy1FYW5wcVA1VlFXUE05RWNNR1kxeW9BZ1hoVzY3YzBGLVZldHlrUi1ROWZkUEJqZkQ1RzMybXMxb3VQbkl6dUFnb2Z1VGN6cGh1VGVJSFlSREh1Zzh2ZzA0cnZHUXU0X1hwUTJUa0JPTHU4aTVSa09pSzNEUktxOTBlWDdrb3Z1TGxGcVJNUDhuRUZZ"
     }
    ],
    "category": "供应链",
@@ -6629,26 +6651,6 @@
    "session": "盘前",
    "zh_summary": "亲身体验英伟达RTX Spark一周性能强劲",
    "title_zh": "体验英伟达RTX Spark一周：强劲而独特的新品类",
-   "sentiment": 1
-  },
-  {
-   "id": "ba4f9490ec6b",
-   "title": "Adobe Rebuilt Photoshop And Premiere For NVIDIA's RTX Spark Platform - Engadget",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOExVdXVfYkl0VHhwQjh3OWwyWkVRTWc5QmFqdVdHeTN0ZDlycU1JdGNIX2pNQkxoRVFiNUdiOGtnTElDb0gyLU9DNVZFakVPVm1CdXFzZ1cyeHZPN2xCdXExanFJR3V4NzdtYzRhWk40c1Y2dHM0VTU4elNkdDhZVU9mSVhPUHJOdXlDTzhTQ1p3NndzT0E",
-   "source": "Engadget",
-   "published_at": "2026-10-15T12:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Engadget",
-     "published_at": "2026-10-15T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOExVdXVfYkl0VHhwQjh3OWwyWkVRTWc5QmFqdVdHeTN0ZDlycU1JdGNIX2pNQkxoRVFiNUdiOGtnTElDb0gyLU9DNVZFakVPVm1CdXFzZ1cyeHZPN2xCdXExanFJR3V4NzdtYzRhWk40c1Y2dHM0VTU4elNkdDhZVU9mSVhPUHJOdXlDTzhTQ1p3NndzT0E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Adobe为英伟达RTX Spark重构PS和PR",
-   "title_zh": "Adobe为英伟达RTX Spark平台重构Photoshop和Premiere",
    "sentiment": 1
   }
  ]
