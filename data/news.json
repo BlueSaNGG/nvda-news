@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T15:06:35.383572+00:00",
+ "updated_at": "2026-10-16T15:21:48.369915+00:00",
  "market": {
-  "price": 216.85,
-  "change_pct": -0.17,
+  "price": 216.41,
+  "change_pct": -0.38,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.53,
-   "count": 106
+   "avg": 0.52,
+   "count": 109
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 70% 分位"
+     "note": "现价处于52周区间 69% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.3%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.6%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.53（106条已评分）"
+     "note": "今日新闻情绪 +0.52（109条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.85 vs 20日均线 $228.31"
+     "note": "现价 $216.41 vs 20日均线 $228.29"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 70,
+   "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.3,
-   "ma20": 228.31,
-   "as_of": "2026-10-16T15:06:35.369196+00:00"
+   "implied_upside_pct": 45.6,
+   "ma20": 228.29,
+   "as_of": "2026-10-16T15:21:48.350776+00:00"
   },
-  "pe_ttm": 27.6,
+  "pe_ttm": 27.5,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.3%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.6%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "6a2464b22c20",
+   "title": "How NVIDIA is Navigating the Next Phase of the AI Boom - Data Center Richness | Substack",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOURyeEY1Z09tdHk3RVJLQTd2WHRkYkxSQ245TGNBSVgya3ZyMFFidkZ5YjNDUkhMRGt4Tk8ycHE0UmJ3S09NZmU5enJ5WmpIUDZWZ1NIckxNS0pzTzFtMmIzMDZ4Y2hsbW8tMmhmdnE3OVdyX044TVBQMmNTbDBmdw",
+   "source": "Data Center Richness | Substack",
+   "published_at": "2026-10-16T15:15:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Richness | Substack",
+     "published_at": "2026-10-16T15:15:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOURyeEY1Z09tdHk3RVJLQTd2WHRkYkxSQ245TGNBSVgya3ZyMFFidkZ5YjNDUkhMRGt4Tk8ycHE0UmJ3S09NZmU5enJ5WmpIUDZWZ1NIckxNS0pzTzFtMmIzMDZ4Y2hsbW8tMmhmdnE3OVdyX044TVBQMmNTbDBmdw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "41cf9066e8b0",
+   "title": "Intel and AMD Drop 3% as Rotation Out of AI Chip Stocks Continues; NVIDIA Holds Steady - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkx0cUlYODFLcFU1VmZRLThzT01WVVlib1hPV0NvTmJYTnhzbFZjZTNpelZjdDd0ZEZmWGNLVE5xYTVHWWhYS2JaNklfQ3hnMGVPRVJCVTlBOFJSQ1hFTXBjWmZMdDdzZ1dWS2ZtOE14SWxFMmJTeU82YmhWVjlMQ1BxN3B6MGNjTkxVa21tTnViRmxXSDZMZEhtZWVpbVRCOFVTM2VDUS0tS05vT1o1d1NPYW41VV9YMjhJellwSjh3dGQ5Mk5j",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-16T14:54:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-16T14:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkx0cUlYODFLcFU1VmZRLThzT01WVVlib1hPV0NvTmJYTnhzbFZjZTNpelZjdDd0ZEZmWGNLVE5xYTVHWWhYS2JaNklfQ3hnMGVPRVJCVTlBOFJSQ1hFTXBjWmZMdDdzZ1dWS2ZtOE14SWxFMmJTeU82YmhWVjlMQ1BxN3B6MGNjTkxVa21tTnViRmxXSDZMZEhtZWVpbVRCOFVTM2VDUS0tS05vT1o1d1NPYW41VV9YMjhJellwSjh3dGQ5Mk5j"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "94c37ef40b90",
    "title": "Nvidia Launches Three Nemotron AI Models, Including Two for Local AI Agents - TechRepublic",
@@ -152,10 +186,15 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tWEViMFBKbl9oX1l4c29yeTFCcEtQUE5NZEZldE82V2FnM3dCd1pmNlZnbEljcThGb3B0czJCNG5LaEtOem5xbkxlYUFoUlV4NUVHRWFrOGtsNFNFa2dOek9BaGxfTGpCdUVXTjhjQUs",
    "source": "tech-insider.org",
    "published_at": "2026-10-16T14:36:14+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "tech-insider.org",
+     "published_at": "2026-10-16T14:36:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tWEViMFBKbl9oX1l4c29yeTFCcEtQUE5NZEZldE82V2FnM3dCd1pmNlZnbEljcThGb3B0czJCNG5LaEtOem5xbkxlYUFoUlV4NUVHRWFrOGtsNFNFa2dOek9BaGxfTGpCdUVXTjhjQUs"
+    },
+    {
+     "name": "https://tech-insider.org/",
      "published_at": "2026-10-16T14:36:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tWEViMFBKbl9oX1l4c29yeTFCcEtQUE5NZEZldE82V2FnM3dCd1pmNlZnbEljcThGb3B0czJCNG5LaEtOem5xbkxlYUFoUlV4NUVHRWFrOGtsNFNFa2dOek9BaGxfTGpCdUVXTjhjQUs"
     }
@@ -6629,51 +6668,6 @@
    "zh_summary": "Virtuozzo基础设施系统集成NVIDIA更新",
    "title_zh": "Virtuozzo基础设施系统新增NVIDIA更新与轻量部署选项",
    "sentiment": 1
-  },
-  {
-   "id": "3346877be107",
-   "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SQXpCaDJHYnltSGNUeDZKYjZxRjQ2djh1Ti1LUkJVUlVsRjRuSWpabXVILV9kU24tZHFIYW14QTJvYVZSc3lEUUdLM0dESGZFTXpMZGl2M2FkRVVSd05RUlRPVVZYMEJvVEZIdGhyNEtSakVqaHphcQ",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-15T13:04:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-15T13:04:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SQXpCaDJHYnltSGNUeDZKYjZxRjQ2djh1Ti1LUkJVUlVsRjRuSWpabXVILV9kU24tZHFIYW14QTJvYVZSc3lEUUdLM0dESGZFTXpMZGl2M2FkRVVSd05RUlRPVVZYMEJvVEZIdGhyNEtSakVqaHphcQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达博客介绍GeForce NOW新增DLSS 4.5控制",
-   "title_zh": "云端升级：英伟达DLSS 4.5控制登陆GeForce NOW",
-   "sentiment": 1
-  },
-  {
-   "id": "164193df1d8d",
-   "title": "Nvidia’s key chip supplier has a surprising warning for customers - TheStreet",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wc1J4ZFJweU5LTS1wZ0hsYkZEWkpLZTI4T052RUlkZEF6dGh0a0xZSHE2b2Vxa2RRX0N4bWtFV2E5ZGgxcGlvNmtzOU0yOUdsNkVSbjV0RGpreEppZXZYVWEtZHFvc21UZDBZOF8wek9hZw",
-   "source": "TheStreet",
-   "published_at": "2026-10-15T13:03:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TheStreet",
-     "published_at": "2026-10-15T13:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wc1J4ZFJweU5LTS1wZ0hsYkZEWkpLZTI4T052RUlkZEF6dGh0a0xZSHE2b2Vxa2RRX0N4bWtFV2E5ZGgxcGlvNmtzOU0yOUdsNkVSbjV0RGpreEppZXZYVWEtZHFvc21UZDBZOF8wek9hZw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-15T16:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUXE2cm1GbEFHUzN4MGVnbXdJaElCRWdicmk5TzVvUzF0VEUxQW9tblNwa0U1eTN5V0NQRWRRaTlnNE5uTE81djZjLVVoa1FFcVd5XzNWOWlQZkdxOUxYMWpYV3RLeUtZZ2FiWGt1MmRydng3Q2xSZ0wzYWJDV3B3ZjZjZmxDZFoxSFh3SGtwMTFvVEhBbVNCRUdWTms4Zw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达关键芯片供应商警告客户",
-   "title_zh": "英伟达关键芯片供应商向客户发出意外警告",
-   "sentiment": -1
   }
  ]
 }
