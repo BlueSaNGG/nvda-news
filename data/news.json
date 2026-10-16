@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T20:36:32.263153+00:00",
+ "updated_at": "2026-10-16T20:52:53.225086+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,12 +10,12 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.49,
-   "count": 152
+   "avg": 0.51,
+   "count": 158
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.49（152条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.51（158条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-16T20:36:32.247099+00:00"
+   "as_of": "2026-10-16T20:52:53.216313+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "66611c51a7d8",
+   "title": "英伟达(NVDA.O)CEO黄仁勋：（关于AI市场动荡）这一切都会过去的。 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0VQdVRITEF6NGZNc0E5N3Q2dFFReGdQNE9lSUhGdjN1MGpVS255V1c4U0pDajJhcmFOQ21meFltS0p5ei1DcFdTeVh4cUpVTk9meG9FaFRyMDR2Qi1xOVFLd2F4OEIwc1VIY2NSY1ZhNmRaVlZIY0hqMUdiRDhRLTEwVVhrSWRDOFRnNHVUQUowUFBTTm5wc3ZBU0VZNU8y",
+   "source": "富途牛牛",
+   "published_at": "2026-10-16T20:47:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-16T20:47:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT0VQdVRITEF6NGZNc0E5N3Q2dFFReGdQNE9lSUhGdjN1MGpVS255V1c4U0pDajJhcmFOQ21meFltS0p5ei1DcFdTeVh4cUpVTk9meG9FaFRyMDR2Qi1xOVFLd2F4OEIwc1VIY2NSY1ZhNmRaVlZIY0hqMUdiRDhRLTEwVVhrSWRDOFRnNHVUQUowUFBTTm5wc3ZBU0VZNU8y"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "2216c5b9d94a",
+   "title": "Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’ - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnVUc280UUFsc3NKaDM5VU5Bbng3WXA4bGhETWY4RE1NVTY5Yk5qVmhsN2VFdHE2M1pIUTRrTTk3QjZsYUMxWTQ3QmRacGhiUzdMM1VwQnh3c0c0Tk5zandkMjhhdnUxb0tMZzZDc3dIOUZhT2ZGSlRnVG5qdGp2RUplaWFxU1NiSXZGZHhBZTZjekdLSU1WZUhvZXMzUzd4YXRmMS0yYnNkTkp1cndfNQ",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-16T20:33:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-16T20:33:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnVUc280UUFsc3NKaDM5VU5Bbng3WXA4bGhETWY4RE1NVTY5Yk5qVmhsN2VFdHE2M1pIUTRrTTk3QjZsYUMxWTQ3QmRacGhiUzdMM1VwQnh3c0c0Tk5zandkMjhhdnUxb0tMZzZDc3dIOUZhT2ZGSlRnVG5qdGp2RUplaWFxU1NiSXZGZHhBZTZjekdLSU1WZUhvZXMzUzd4YXRmMS0yYnNkTkp1cndfNQ"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘后"
+  },
   {
    "id": "03cfa63c7b80",
    "title": "英伟达期权聚焦：10月16日成交335.21万张，未平仓合约1,618.86万张 - Moomoo",
@@ -4784,6 +4818,23 @@
    "sentiment": 1
   },
   {
+   "id": "818648b69de7",
+   "title": "Nvidia leads chip stocks lower as AI trade takes - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lhcFhDalVzMzVWSUVsUWo2ZWtLYjdpR3dQUXJWWDc1UUFONzJUM3ZvazhJWFhxU0dST2R4cTgtaUdoTGx1MzFjOUU5U09ma3c4d0JNc3MzLWZxSGVOUVFTSFRxMWFRUEgxR1NCR2lWUHc5MFZZQmRJM1d1dFNZWWFkRnk5a0VWbXphUk90TWtUUktraE5lczFfLVVSbFBoRnBHYWMyY2VHSXFKd3p4VkZ6dW9NYUdwVTNHdTF0T0Y3SkVxbDhNQ2NTc2F4SnVrVGtReEt3",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-15T20:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T20:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY1lhcFhDalVzMzVWSUVsUWo2ZWtLYjdpR3dQUXJWWDc1UUFONzJUM3ZvazhJWFhxU0dST2R4cTgtaUdoTGx1MzFjOUU5U09ma3c4d0JNc3MzLWZxSGVOUVFTSFRxMWFRUEgxR1NCR2lWUHc5MFZZQmRJM1d1dFNZWWFkRnk5a0VWbXphUk90TWtUUktraE5lczFfLVVSbFBoRnBHYWMyY2VHSXFKd3p4VkZ6dW9NYUdwVTNHdTF0T0Y3SkVxbDhNQ2NTc2F4SnVrVGtReEt3"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "3eb300813858",
    "title": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1poWEFKa01FenF2THNycHFFMFNaeklhc2JGSVJqa21nTGo1cFpyMFR5cGFwMHN1cVdjdWM5NjhiaU9Zakg2ZUJDVG1aeVBPRHVNYm95NEItUlFGNndZQnhVQUE3bE1rZE52bHgxM3Jmd1RCVm9FNy1LNFlFb1RXQ0ZXRG9CRXNUUE9PUG1rbHdqSE5XT3FOSzBlUFdoTUoxZmwxbUFoY01ZMG85cG5INDg2ZmdycTdUaHc",
@@ -6571,85 +6622,6 @@
    "zh_summary": "Moomoo社媒帖预测NVDA明日上涨",
    "title_zh": "$英伟达 (NVDA.US)$ 明天得暴涨 - Moomoo",
    "sentiment": 0
-  },
-  {
-   "id": "178c8d0deb1e",
-   "title": "英伟达发布1200亿参数大模型Nemotron 3.5 Super VL：单GPU智能体任务吞吐量最高提升5倍 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MYlVUY095aG1JWjN4TmVFYm5ScTc0VldFOTNCNHBOTmlRSWhTMXpvemU1OE9jRW0tLVFDS1NNbERRdS14WkFUdklmcjA",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-15T15:24:06+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-15T15:24:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MYlVUY095aG1JWjN4TmVFYm5ScTc0VldFOTNCNHBOTmlRSWhTMXpvemU1OE9jRW0tLVFDS1NNbERRdS14WkFUdklmcjA"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-16T00:30:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU0h4SmtWSXNQUU91cVdQNi1yRGxMWkgtREpjU25FbWxmVExRaHpTdHlfTXV0YXhEc3Bsc3UtZWJYZWxsZklTNkEwZEZmY21teEtoakdDSUpFTHRsLVJyNDFLZFFla2R5OENJZVV5TkZEUXpIclFpSmNYTHR4ZWVhS1BSR25iUHkzQk9nMA"
-    },
-    {
-     "name": "DoNews",
-     "published_at": "2026-10-16T00:30:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zRmxVNnhJUGNYT1JyLUJ4dTNBQmZ5UDd6amFTVU9FR25tU1ZzdzEyelVzeWUzWTZsUmtxNXcyTy1BZW5FMFg2ZFpJM25tcWNnd2hIOXZJNVZHd2NqR3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达发布Nemotron 3.5新模型",
-   "title_zh": "英伟达发布Nemotron 3.5 Super VL大模型",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.29,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "44079897f922",
-   "title": "Here's What $5,000 Invested in Nvidia Stock Could Be Worth by the End of 2030 - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWUyZVBFY3VuQjg2YlJRTm5BVG55Z09rbG4xZi00emc3ejZRU09OQnJYV1NQLUpESXdqT3Y2YVhmQ3pDWU1vS2pxY3FJVXRIQklYcGx1Sy1KY29FSjdpUld2MnpJRmxyNlNJOUVLVGRCRmZfa3BGSTRuV1F6a2Y3NHdfU09qZVdiNy1JczJhNzFkQ01mbDdJ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-15T15:18:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-15T15:18:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWUyZVBFY3VuQjg2YlJRTm5BVG55Z09rbG4xZi00emc3ejZRU09OQnJYV1NQLUpESXdqT3Y2YVhmQ3pDWU1vS2pxY3FJVXRIQklYcGx1Sy1KY29FSjdpUld2MnpJRmxyNlNJOUVLVGRCRmZfa3BGSTRuV1F6a2Y3NHdfU09qZVdiNy1JczJhNzFkQ01mbDdJ"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-15T15:18:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU3ZVYjN0WmFQUmhyV3g0bTFnbUMtaGJ3QkF6Ung1a2ZGeFc4Q2VDY0FxX3RSbjNvXy1iZkJLLVpnMEhaNGU0U29INmljajR0bVZYU3JWc1JfdVJsblBvUmp0YzNqWjVhN1piMUdNT1RKaVNhUUhvS0lpX3VGRUh5WFU5UzBxSEoxU19ESXVwWkMzZ1V1NS1Kbzh5Z00yS0tqWEwxNkpjRFhwVFBEbU5peFo1WGF2R0tZVW9KbDd0a2l5dUlwR3FVYUpmRzc2N1E2OHVsXzZ5a0NsLXZkNVc4NlVtTkt5R2pWZXJGUWZrTWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "$5,000投资英伟达2030年价值几何",
-   "title_zh": "《环球邮报》：5000美元投资英伟达，2030年底或值多少",
-   "sentiment": 0
-  },
-  {
-   "id": "9861694bf86e",
-   "title": "Multiverse Computing Launches Comet 60B in collaboration with NVIDIA: Multimodal Capabilities at Half the Parameters - Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenNEZXJiTEVGaGplX29TMnpYaDhITXoyZ2duR3FadHFNMWdYdHBvRWVHcDlYZjVYcjZfTFc0YXpvY25WZmJ2MmVIdDBqck1aM2JRLW9zQkVKbFZ1T3FBYzlzLVZiTlU2LThUOWpwZlZNakltdnc5a0s1cFd6eTRnOFBnbEM3M1RPUzhxd0lYX2xpZw",
-   "source": "Yahoo Finance UK",
-   "published_at": "2026-10-15T15:15:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance UK",
-     "published_at": "2026-10-15T15:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenNEZXJiTEVGaGplX29TMnpYaDhITXoyZ2duR3FadHFNMWdYdHBvRWVHcDlYZjVYcjZfTFc0YXpvY25WZmJ2MmVIdDBqck1aM2JRLW9zQkVKbFZ1T3FBYzlzLVZiTlU2LThUOWpwZlZNakltdnc5a0s1cFd6eTRnOFBnbEM3M1RPUzhxd0lYX2xpZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "与英伟达合作发布Comet 60B模型",
-   "title_zh": "与英伟达合作发布Comet 60B，多模态能力减半参数",
-   "sentiment": 1
   }
  ]
 }
