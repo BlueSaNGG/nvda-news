@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T18:53:02.867511+00:00",
+ "updated_at": "2026-10-16T19:08:45.266803+00:00",
  "market": {
-  "price": 213.94,
-  "change_pct": -1.51,
+  "price": 213.67,
+  "change_pct": -1.64,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-11-17",
@@ -20,12 +20,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 66% 分位"
+     "note": "现价处于52周区间 65% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +47.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +47.4%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.94 vs 20日均线 $228.17"
+     "note": "现价 $213.67 vs 20日均线 $228.15"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 66,
+   "price_52w_pct": 65,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 47.2,
-   "ma20": 228.17,
-   "as_of": "2026-10-16T18:53:02.858106+00:00"
+   "implied_upside_pct": 47.4,
+   "ma20": 228.15,
+   "as_of": "2026-10-16T19:08:45.245026+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,17 +62,56 @@
  },
  "stories": [
   {
+   "id": "8517e25eb3ea",
+   "title": "Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production. - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcUx0aVowcldxZUptbXVWRC1QbWxSWEJJc2VDOFk3eV9HQWlSemRwcVBlVUFSUUluZDNodEY2RGVwS3VHeWxkdHZuSF96eTRkNFRNaVlNUXE1UUJxdDVWem5jNVVMeW5MbnoxYUdKSk43MkpqUmVPWlpDNkFlUW56cmprU0JfdWk3NGRCWVI1N3VTeVNTZGVkSw",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-16T19:00:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-16T19:00:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcUx0aVowcldxZUptbXVWRC1QbWxSWEJJc2VDOFk3eV9HQWlSemRwcVBlVUFSUUluZDNodEY2RGVwS3VHeWxkdHZuSF96eTRkNFRNaVlNUXE1UUJxdDVWem5jNVVMeW5MbnoxYUdKSk43MkpqUmVPWlpDNkFlUW56cmprU0JfdWk3NGRCWVI1N3VTeVNTZGVkSw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "0308b963a873",
+   "title": "Nvidia's communications team has undergone a shake-up as its public profile exploded - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmQ5aS01cWpzX19DUWRwV19ZbklGRUxxOUVsSzQwLThOOG9aaDh2X1RoVXEwREE4bW5ZRDFONkU4OG8xVW1oRi1yOElVbG1QXzV1V0hRbDlBX21Hc2R5OGRTVmNhSG0xd2JjWklod2J2bFVqN2toUkRncXBTWTAyZ3o2TFkxUDJHZWNWVmlGNms4UDA",
+   "source": "Business Insider",
+   "published_at": "2026-10-16T18:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Insider",
+     "published_at": "2026-10-16T18:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmQ5aS01cWpzX19DUWRwV19ZbklGRUxxOUVsSzQwLThOOG9aaDh2X1RoVXEwREE4bW5ZRDFONkU4OG8xVW1oRi1yOElVbG1QXzV1V0hRbDlBX21Hc2R5OGRTVmNhSG0xd2JjWklod2J2bFVqN2toUkRncXBTWTAyZ3o2TFkxUDJHZWNWVmlGNms4UDA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "3e27e88938fd",
    "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity? - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmUybE1nMEtyMGJFb0VDd2dpOHFTYjU1eXJHc2xXbnRfc25LVjB2UVpSLU5mR1Jqa2NvNVMzSTJFVXFlZGJKbUtDQWljUG1SUmVEZHdOMjZQVWhSUFV6QnFLVzdVSGl1UGdMMll5Y2c3T2g5cDNvd2FOYnFTZU1ELXQ4eGxlNHNqY295R1hDakVJYWZCYzZyaw",
    "source": "The Motley Fool",
    "published_at": "2026-10-16T18:35:29+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-16T18:35:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmUybE1nMEtyMGJFb0VDd2dpOHFTYjU1eXJHc2xXbnRfc25LVjB2UVpSLU5mR1Jqa2NvNVMzSTJFVXFlZGJKbUtDQWljUG1SUmVEZHdOMjZQVWhSUFV6QnFLVzdVSGl1UGdMMll5Y2c3T2g5cDNvd2FOYnFTZU1ELXQ4eGxlNHNqY295R1hDakVJYWZCYzZyaw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-16T18:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDdMcVRWa1ljMXpMMzd6V1N6TXNvY1ZjNlh5N19PczRwRHlHMHBlV3pGcnhwUDJ1eDFDak5zdF9RSHBCbWRpdy1mbjNLWjl0TkpBZWdwSmwxZnNZOHFqSG1kT0F3MUREWDQ4QURpLXJXV1BmWnY0V2FYLXFMWEktWWR4eXpxeXNlZGNvTGQxVzN6bVY3cXVTdg"
     }
    ],
    "category": "财报",
@@ -166,12 +205,17 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0ZlN2hNaGdkYkNaUExvZUYzeWg2d1FKeGVuQng0c3NOVmdVZDRPLUsyVElCd19xaDZINUJ4a2RHOHl3SHh0dmlCMER1eWR1TldCc2Z5elVnTFpNQ2RDM0VnckVabjRiNkozLXhOQ3QxZjNSODRhV2RhV3pFRFdPNEhLN1JSR08zWVphbHhZdTNwbjlkSm1kWFRIcTM3dk55Rnkw",
    "source": "GuruFocus",
    "published_at": "2026-10-16T17:01:54+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "GuruFocus",
      "published_at": "2026-10-16T17:01:54+00:00",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0ZlN2hNaGdkYkNaUExvZUYzeWg2d1FKeGVuQng0c3NOVmdVZDRPLUsyVElCd19xaDZINUJ4a2RHOHl3SHh0dmlCMER1eWR1TldCc2Z5elVnTFpNQ2RDM0VnckVabjRiNkozLXhOQ3QxZjNSODRhV2RhV3pFRFdPNEhLN1JSR08zWVphbHhZdTNwbjlkSm1kWFRIcTM3dk55Rnkw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-16T17:54:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkp0S3lzeERfM1NlNEg2VnFuaUsySEdWM1VTYjIzMDdTcFFWekM0UjZzdjl1ZjFUb0t4YXdkZ1dlZzVuRkMtY1ctcUZGLWJnekd6Nk5SNGlRNWN4UDY2alVXQjdlTXNVTDJXTHkzdVZITGhKa2ViODFkWnUzd3g2YkJCd0pHN0VBUHFXU0tMcw"
     }
    ],
    "category": "其他",
@@ -1121,6 +1165,23 @@
    "zh_summary": "Navan将部署英伟达Nemotron模型",
    "title_zh": "Navan推进开放模型战略部署英伟达Nemotron 3.5",
    "sentiment": 1
+  },
+  {
+   "id": "f1f5bf2cc4c1",
+   "title": "SimBioSys nabs FDA clearance for Nvidia-powered, MRI-derived breast cancer recurrence tool - Fierce Biotech",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3ptWXRFYm1BdVcxdlVmdXQ0WjNkRTdBa3RsckdBUXRYLXZaR3lKYThXMDJvR19NaGdabjFQZzNSQ0pnTnhtZGJiM0Fxbkg2ZmVKNVkxNlNlU3BjSXhHQmt0LXRhRjVNeFFhN2Z3bUFzZ3hfNUNlRmZvUWZibHYtcE9hS3d0QnE2ZEVickU5Z0ZWSk1ZU0VqdVctZEVYbTlDa1d3dFlSNzB2TXBHOW95cDZqZnNLLVR4eVJPWjRWNWQ",
+   "source": "Fierce Biotech",
+   "published_at": "2026-10-16T13:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Fierce Biotech",
+     "published_at": "2026-10-16T13:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3ptWXRFYm1BdVcxdlVmdXQ0WjNkRTdBa3RsckdBUXRYLXZaR3lKYThXMDJvR19NaGdabjFQZzNSQ0pnTnhtZGJiM0Fxbkg2ZmVKNVkxNlNlU3BjSXhHQmt0LXRhRjVNeFFhN2Z3bUFzZ3hfNUNlRmZvUWZibHYtcE9hS3d0QnE2ZEVickU5Z0ZWSk1ZU0VqdVctZEVYbTlDa1d3dFlSNzB2TXBHOW95cDZqZnNLLVR4eVJPWjRWNWQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "3222199d3837",
@@ -4824,7 +4885,7 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXVWMWNwMmZGVWIwNENuX3BwOGFlQ2RSV3VRYjZZQUxwZDAzTDdDdTNtWXN0S2dCRklnRGkwclJJa1BwZ3lIY1pIQW1nb3ktMF9mNXA3UVd2LTM1Snd1djEzb2FVS0lCU0JFTGVkLTBmaHB0di1lVWoybklFT1lXbHBXckZtdUk",
    "source": "Jon Peddie Research",
    "published_at": "2026-10-15T18:27:57+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Jon Peddie Research",
@@ -4840,6 +4901,11 @@
      "name": "Investing News Network",
      "published_at": "2026-10-16T14:10:58+00:00",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTG9FWi1jRmVIS1dua0d6aEduOGMwZ3I0UmpMazV0VDlEa3pRby1yQ0UtTXZnb3pLOE5JakF2Ti10V05sTWtpY2gxWDRjUHpZLUItdDBsSU9CWnY4T2xXdEl3R2xOTUlvZVV1RmplZnAwOUpjREFVZHRtMVhmQ1E3N0VtRW5hUFdzeWhGdFI1dXRwYWFPc2JNbDludw"
+    },
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-10-16T14:32:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkN1ZlRscTBId1NvQWRDYWZoR0VWeUtTSGhpc0lzQmJfbHZMNWIyNGxHNmVneUllWDFab0dFOG43allfcGNTbUUxb0pQdXQxdzREdENsTjN1N05CWWZZOHlrRVJFT2g3V0doSlA4TDA2Skl6dnhqMEpHaXZLUFpfMWszcEZVZDhYWTQ1U1VPZnhheUNzWmdwYVJDSmFMakRCbTlmOWxR0gGrAUFVX3lxTE5mcHFiZzdvNUFsM01rVjJ2YVVjVVowengzTFZrZURWNERvTmpyTTd6UlVua0hKSGpDX0NrdVVnRDFSZVcxckl6RmZfbTZzcUROWURQcjlYMVRROHdIU2JuTnE2QlgxRjRhVGdjQVNWMUF1MW9QYm5uMUhVbDY2dldPS0RHMHZoNHlyQncxUjU1MXhuRGJ4UV9IZWJUTGw5Z21lOHRUc0ZoTGIwSQ"
     }
    ],
    "category": "其他",
@@ -6551,71 +6617,6 @@
    "zh_summary": "宾州众议员梅瑟卖出逾1000美元英伟达股票",
    "title_zh": "宾州众议员梅瑟卖出逾1000美元英伟达股票",
    "sentiment": 0
-  },
-  {
-   "id": "e68015125257",
-   "title": "Announcing Mindbeam's Collaboration with NVIDIA: Bringing Greater Speed and Efficiency to Open Source AI - PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSXlwck9vdGFSeFNOVXBSU1FOaWJpMjNhWGFBZVctamcxRWJweWdzUmhsTGxIbFlNdGJzWDRIZTJlZUh1TmZvZ3RxU0lSRmt3LTBWR0lyYmZQNjk4d2hjOHJzTTBVMkNkbFhMaklyS0ZKME84cWpkX3k5eEI0MUNqUDFVZTdvNFJGLWUzNHVPaTBaUFpIMkpGMDR6Ml8zYndiRzBsR1V3UG9TRzdCUF9qSExOYnBVR2ozOVgtd25hVXhuclpkNlRPQUZSM1FmYW55MDVKNEt3N2M4M1JMY0JpbEtmdnFMazRSQ2Fwem9RVQ",
-   "source": "PR Newswire",
-   "published_at": "2026-10-15T15:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "PR Newswire",
-     "published_at": "2026-10-15T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSXlwck9vdGFSeFNOVXBSU1FOaWJpMjNhWGFBZVctamcxRWJweWdzUmhsTGxIbFlNdGJzWDRIZTJlZUh1TmZvZ3RxU0lSRmt3LTBWR0lyYmZQNjk4d2hjOHJzTTBVMkNkbFhMaklyS0ZKME84cWpkX3k5eEI0MUNqUDFVZTdvNFJGLWUzNHVPaTBaUFpIMkpGMDR6Ml8zYndiRzBsR1V3UG9TRzdCUF9qSExOYnBVR2ozOVgtd25hVXhuclpkNlRPQUZSM1FmYW55MDVKNEt3N2M4M1JMY0JpbEtmdnFMazRSQ2Fwem9RVQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-15T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTVVVTEdSbFNCN1pxRXYzRUNNeWExR0VmMHB6YUJVekZvS3VCQlRIaHlQR3FmUkc1dldIN1h3TDdSN2pBbEE0OFdxMWtCRnBNcm5IaEVldzk3WS1RRmlyUHltN3k4eUdudjl4ZEFJbmcxZW5naXJFd3J4RUdCb2VRWWpMWENLb1FrZVhuWjl2VkJLejJhRmhRNEFPN001a0Q0YmhrYlp5YWRCTFdtQ2xXeHkwbGw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Mindbeam宣布与英伟达合作，加速开源AI",
-   "title_zh": "Mindbeam宣布与英伟达合作，提升开源AI速度与效率",
-   "sentiment": 1
-  },
-  {
-   "id": "252328830f20",
-   "title": "NVIDIA's Nemotron 3.5 Super VL with post-training beats Claude Opus 5, GPT-6.1 Sol on specialized task benchmarks - VentureBeat",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLWRFblUzdUF1ejJTVzQwQ2s0WHhjalR3ZDY4UlBrQ0RMZ3FNRzhVRHRnb1VvM0hHaERyX0xGRURPN1o3VTFGSjhLcmJxV2l4Q01ublBqZjVEWncxQ0swdEVxdk5oX09rNWZrN1dVekZIRjRGbWhydklKVHNjbGFiUWdMMmxLay14MTQ5QnFrRUh5YWFRbVFvOWc5ZlVhekN3c0hLaVllajlSMDJSbkZwdERmMGV2ei14OUJCdV8yVzBMVHBOWWdTWlFINGlNeUZmN2FIXzZGYkttZTA0UEhBNE05VWxzQ1pVRjVF",
-   "source": "VentureBeat",
-   "published_at": "2026-10-15T15:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "VentureBeat",
-     "published_at": "2026-10-15T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLWRFblUzdUF1ejJTVzQwQ2s0WHhjalR3ZDY4UlBrQ0RMZ3FNRzhVRHRnb1VvM0hHaERyX0xGRURPN1o3VTFGSjhLcmJxV2l4Q01ublBqZjVEWncxQ0swdEVxdk5oX09rNWZrN1dVekZIRjRGbWhydklKVHNjbGFiUWdMMmxLay14MTQ5QnFrRUh5YWFRbVFvOWc5ZlVhekN3c0hLaVllajlSMDJSbkZwdERmMGV2ei14OUJCdV8yVzBMVHBOWWdTWlFINGlNeUZmN2FIXzZGYkttZTA0UEhBNE05VWxzQ1pVRjVF"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达Nemotron 3.5基准测试击败多款模型",
-   "title_zh": "英伟达Nemotron 3.5 Super VL专项基准测试超越多款大模型",
-   "sentiment": 1
-  },
-  {
-   "id": "859be5060fc4",
-   "title": "Nvidia debuts three new open AI models - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVW9sWFJ6TXBCVE1GNXVKV0g4MEt0WU1WUjh4WHkxMmVrOHdIajlLMXFZZ2ZZWk1uUVlxclpfVHNFYV9QT3QzRHlsTGlZZGlsZEJ6SGJWNFZ3NTFYZ2M4YUV3dm9tQXRQOGl2M0pOVDRlN1UzMU9seV9IZ095S0pBNFA4VWVMa285RDdaN1h3dzNUWnk3NXNxUUE3OXp6Sk0",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-15T15:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-15T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVW9sWFJ6TXBCVE1GNXVKV0g4MEt0WU1WUjh4WHkxMmVrOHdIajlLMXFZZ2ZZWk1uUVlxclpfVHNFYV9QT3QzRHlsTGlZZGlsZEJ6SGJWNFZ3NTFYZ2M4YUV3dm9tQXRQOGl2M0pOVDRlN1UzMU9seV9IZ095S0pBNFA4VWVMa285RDdaN1h3dzNUWnk3NXNxUUE3OXp6Sk0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达发布三款开放AI模型",
-   "title_zh": "英伟达发布三款全新开放AI模型",
-   "sentiment": 1
   }
  ]
 }
