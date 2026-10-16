@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T13:06:31.170506+00:00",
+ "updated_at": "2026-10-16T13:21:38.245556+00:00",
  "market": {
   "price": 217.23,
   "change_pct": -1.84,
@@ -10,12 +10,12 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.51,
-   "count": 79
+   "avg": 0.49,
+   "count": 85
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.51（79条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.49（85条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.0,
    "ma20": 228.58,
-   "as_of": "2026-10-16T13:06:31.153381+00:00"
+   "as_of": "2026-10-16T13:21:38.224715+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "d9e15bcced01",
+   "title": "SANGRIX Inc. Updates Delivery Timeline for 128-GPU NVIDIA Blackwell B300 AI Infrastructure in Malaysia - Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWEtGYmRVSF9DQ051dHIxZzJEbF9WY0QtYkpxeEpIa2hEMFVDOWtDNzVxUktGck1xUl9OSm9talZIRzVZam5mLUlQbjEzQTA1cDZJb0JwVl9CTEFtLWhRMnpJWVB4bVR5TklZN3JiV2N4YlVVRVl0c1J2YTZLejc2Rng2UV84a3lvTzhRcWdMenR4WmJ6YzZlU01mVDhVMnVCa2g2cmxPUXZaS0FfOGREcFQ5S21YTXJnNlh0eU82blRqREl3THV4SWFWTEhTWDla",
+   "source": "Quiver Quantitative",
+   "published_at": "2026-10-16T13:10:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quiver Quantitative",
+     "published_at": "2026-10-16T13:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWEtGYmRVSF9DQ051dHIxZzJEbF9WY0QtYkpxeEpIa2hEMFVDOWtDNzVxUktGck1xUl9OSm9talZIRzVZam5mLUlQbjEzQTA1cDZJb0JwVl9CTEFtLWhRMnpJWVB4bVR5TklZN3JiV2N4YlVVRVl0c1J2YTZLejc2Rng2UV84a3lvTzhRcWdMenR4WmJ6YzZlU01mVDhVMnVCa2g2cmxPUXZaS0FfOGREcFQ5S21YTXJnNlh0eU82blRqREl3THV4SWFWTEhTWDla"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "9428d355609b",
+   "title": "Nvidia CEO Jensen Huang defends CoreWeave as default risk rises - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yeTU3LXJ4N0lmaHB2NWNjYTJlUXRTOGxlRzlLcnJKZEpZN2tfUjJiSTRrX1VRWHNRWGx6aTcwTE9DM1lkaGpRdE9weDUzMVk3c2k2WXVTdERiWGxvZWxtN3g5NUlybnYyTURTQ0F6WUY4QkQ3d0lwcg",
+   "source": "Quartz",
+   "published_at": "2026-10-16T13:09:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-16T13:09:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yeTU3LXJ4N0lmaHB2NWNjYTJlUXRTOGxlRzlLcnJKZEpZN2tfUjJiSTRrX1VRWHNRWGx6aTcwTE9DM1lkaGpRdE9weDUzMVk3c2k2WXVTdERiWGxvZWxtN3g5NUlybnYyTURTQ0F6WUY4QkQ3d0lwcg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "c30bef46f9ad",
    "title": "Germany to announce AI partnership with Nvidia next week, sources say - The Next Web",
@@ -122,6 +156,23 @@
    "sentiment": 1
   },
   {
+   "id": "b19a978f499c",
+   "title": "‘Most important strategic partner’: Mercedes’ Nvidia self-driving deal - The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKN1Bta0tlckhUSElCQXhKblhKb3pDSzM3c3cxdFZqRFZMZXI3UmxabXRWbDVrWWt3VXlQMmlnMDJ1NU5GMldnUE5pTFBjaEx3TExabUtoQVdIejdiZ0haZXZSSjRIaHhIdm5vVG9LaFhOWUFySFE",
+   "source": "The Next Web",
+   "published_at": "2026-10-16T12:56:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Next Web",
+     "published_at": "2026-10-16T12:56:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKN1Bta0tlckhUSElCQXhKblhKb3pDSzM3c3cxdFZqRFZMZXI3UmxabXRWbDVrWWt3VXlQMmlnMDJ1NU5GMldnUE5pTFBjaEx3TExabUtoQVdIejdiZ0haZXZSSjRIaHhIdm5vVG9LaFhOWUFySFE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "f2a96e657dce",
    "title": "英伟达押注智能体PC，能否撬动换机需求？ - 21财经",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHprOU1HX196a0xrUXBNdTNBdnc2TXJjN0VlYlhjV1dPUC1DcldxOUNPVnBCRU1oTUtsbU9hN09TQzFmVmZYV3VmM1BpRmZZbkl3Y0VmdlFybFhFeDBXd1h3YllVQWMxRkFXdXhXSHg1X0s1cXM4cFhoNVpnY0xiQ19CM1JtdDUzREFDS05DUQ",
@@ -160,6 +211,23 @@
    "zh_summary": "分析称黄仁勋难靠支出脱困",
    "title_zh": "英伟达：黄仁勋靠砸钱也摆脱不了困境",
    "sentiment": -1
+  },
+  {
+   "id": "f215df310544",
+   "title": "英伟达推出RTX Spark笔记本电脑，起售价$2,599 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1pZRnRmaE1uellZR1hPWmYwd19IYmhyeXgyZlliNThhWmc4X01IR1ZMS1JHNnZvRDRNVlZxWEN3NlNsM3FiT0YzaUppVmFpSHc5Um1PcmIwTGFNbk1tRk9ic0NZNzBudDUzSVNzcTJIdnFJcmg5ZGF0SDJMQlYtZ1NKUzhLanc4SERadGY2Yk5MWmh1",
+   "source": "富途牛牛",
+   "published_at": "2026-10-16T12:48:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-16T12:48:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1pZRnRmaE1uellZR1hPWmYwd19IYmhyeXgyZlliNThhWmc4X01IR1ZMS1JHNnZvRDRNVlZxWEN3NlNsM3FiT0YzaUppVmFpSHc5Um1PcmIwTGFNbk1tRk9ic0NZNzBudDUzSVNzcTJIdnFJcmg5ZGF0SDJMQlYtZ1NKUzhLanc4SERadGY2Yk5MWmh1"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "31f2490203d8",
@@ -220,6 +288,23 @@
    "zh_summary": "华硕ProArt创16开售，搭载RTX Spark",
    "title_zh": "华硕ProArt创16开售：全球首款AI智能体PC，搭载英伟达RTX Spark",
    "sentiment": 1
+  },
+  {
+   "id": "02958d308ad8",
+   "title": "NVIDIA RTX Spark Laptops Launch Worldwide With Local AI Agent Support - Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUhxbzhuRXF5U25udk1xLUVGd1lWcXFPSkwxcENqcUxCOWpaOHVJOU1ZVVNMbWV5SXVaZVo4ZXJVVE45ck05a00tOUF1ZHNLcGdhbG10NGlTTktPazg4R2VOU282Tk9hMG9VUTJXc2FMcEN1VTFSc1dnbHV5T2pSMXJVS2FwWWFJVFY1TlQtNXZ3NTF4d0E",
+   "source": "Unite.AI",
+   "published_at": "2026-10-16T12:24:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Unite.AI",
+     "published_at": "2026-10-16T12:24:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObUhxbzhuRXF5U25udk1xLUVGd1lWcXFPSkwxcENqcUxCOWpaOHVJOU1ZVVNMbWV5SXVaZVo4ZXJVVE45ck05a00tOUF1ZHNLcGdhbG10NGlTTktPazg4R2VOU282Tk9hMG9VUTJXc2FMcEN1VTFSc1dnbHV5T2pSMXJVS2FwWWFJVFY1TlQtNXZ3NTF4d0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "5cf881b4b42e",
@@ -420,6 +505,23 @@
    "zh_summary": "英伟达等发布新开放模型",
    "title_zh": "英伟达、Meta、苹果发布新开放模型",
    "sentiment": 1
+  },
+  {
+   "id": "facadcd450ef",
+   "title": "The Zacks Analyst Blog Highlights NVIDIA, Philip Morris International, Home Depot and CPI Aerostructures - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUXljWnJHRERQSXRGd3VJSnl1NkFpNUxsb1lwVXJmOW50YkZDelhrbHNzaU1VQ2R2S2ZadURZZFdyUl94cUIwampSenlac2RReGQtSzdfN0VINGhfZm95SUF3UUJvemNqblNkVjk2QmpYMDZFNGpwalFkb2NSNkJ6VFpqc2doNFRfb2k2dXdwTHFJMTFsMzFEa01RTHZPVmV3Z3Zv",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-16T11:48:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-16T11:48:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUXljWnJHRERQSXRGd3VJSnl1NkFpNUxsb1lwVXJmOW50YkZDelhrbHNzaU1VQ2R2S2ZadURZZFdyUl94cUIwampSenlac2RReGQtSzdfN0VINGhfZm95SUF3UUJvemNqblNkVjk2QmpYMDZFNGpwalFkb2NSNkJ6VFpqc2doNFRfb2k2dXdwTHFJMTFsMzFEa01RTHZPVmV3Z3Zv"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "fa79dc770b13",
@@ -1373,12 +1475,17 @@
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTXA1UW9vQzZaTV9SWVNMN1hYdUVlTENDeUZCTG9VR3loWWVJS1E0bjZJcFJndFNyZDZYaTh2bF9OU24yeF93d1FwbUNCWnZZbmZXUTNTcklPN25DTGtIeFN2NEdZaElkUTUtV3dHWWtKaU90VmtGWDNCYkNRcGtva21IRFRmcUFDUkhyWXcyLTFUNDZ1aGhDaHotZ1hkYmw3Z0MwM3NZVkdqR3pyZWhEVXF6ZVNoYkZtWXNwS09OQjZLLU9aaUtENVNDT3Y0NXFlcWY0TkxZNWpsY3M5QnBZNVFB",
    "source": "NVIDIA Newsroom",
    "published_at": "2026-10-16T08:03:57+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "NVIDIA Newsroom",
      "published_at": "2026-10-16T08:03:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTXA1UW9vQzZaTV9SWVNMN1hYdUVlTENDeUZCTG9VR3loWWVJS1E0bjZJcFJndFNyZDZYaTh2bF9OU24yeF93d1FwbUNCWnZZbmZXUTNTcklPN25DTGtIeFN2NEdZaElkUTUtV3dHWWtKaU90VmtGWDNCYkNRcGtva21IRFRmcUFDUkhyWXcyLTFUNDZ1aGhDaHotZ1hkYmw3Z0MwM3NZVkdqR3pyZWhEVXF6ZVNoYkZtWXNwS09OQjZLLU9aaUtENVNDT3Y0NXFlcWY0TkxZNWpsY3M5QnBZNVFB"
+    },
+    {
+     "name": "Mercedes-Benz Group",
+     "published_at": "2026-10-16T08:44:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUR6VEtzOVh2aWNQOUJHb1cwR1VjWjI0dXNpVGdyNEJZcmphTnlvbk1COGp2NlhINVJNeUp5Q0VBZ0Qxa1dlT0FyZWRLY3BqV29wQnRjaHVYaTJ4ekVZc3Z3dFpVdlo5ZHJ6QTBJX3IwcmNqYll6cWp0R3BnejhOR3UtX25IYmlpQ0JsS2FzSElnUkYyZGE4"
     }
    ],
    "category": "其他",
@@ -6529,131 +6636,6 @@
    "session": "盘前",
    "zh_summary": "黄仁勋呼吁与中国AI企业加强对话",
    "title_zh": "市场动态：英伟达首席执行官呼吁与中国人工智能企业加强对话 - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "6f851a88fa06",
-   "title": "英伟达SST生态伙伴首次公开，阳光电源入选 - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aMktLV3VWM1JpTlhKTmZpbGRSRHJYOFJFc1FtLVBDMHZaV0dVdm5uN0ZMSVBBNUI0Vk5ZWWRmS19ZUm5nX2F6VGtBMUhrZEV0OElR",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-15T12:15:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-15T12:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aMktLV3VWM1JpTlhKTmZpbGRSRHJYOFJFc1FtLVBDMHZaV0dVdm5uN0ZMSVBBNUI0Vk5ZWWRmS19ZUm5nX2F6VGtBMUhrZEV0OElR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达SST生态伙伴首公开",
-   "title_zh": "英伟达SST生态伙伴首次公开，阳光电源入选 - 电子工程专辑",
-   "sentiment": 1
-  },
-  {
-   "id": "64fe562958c0",
-   "title": "热管理或成AI工厂“标准模块” 英伟达MGX生态链美的在列 - 新浪新闻",
-   "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQemZLc09WSE54OVVwQzE2QVNpOGEtb003dlR5cXVTTGUxUXNvTUFiall6d3lrdzc2YnZNdm1ocUhFbnp5ZXFlZGs1X21rT0J6RjZGV1pNQm9PWHFmRFcyaVUtNkx3Ql9jZlBhNFR2cWFJR1k4NTk5ZDVDYWNtd0xvd0U0ZVAzXzFNRHVZS0VVdF9uQTJ2V1JtUm83RVJzUWJMQzM2U3lfU3lKb1QwaW5WaHRIc0Voal83TmhLNEw1LVFnZ3dvLTB5Vi1wUUJSOE44cktVaG9YUWc2bENIbFhFOS1zZW43SjFLUDMzNy1NOVFKMHhremw5Nms0TjlLbXBFVnlrX2dVOUxZTFRzaUc2aHdjU0R6cTAyWGNZN1JqZGRzSnI1dkdBOEZ3RnUxalZKT0QxU0t1dDcweGswV2IwNEk4aExnSVMtRWhjc0pEcFRNYndwZENKeVVEYUlPN05ZcEFJ",
-   "source": "新浪新闻",
-   "published_at": "2026-10-15T12:14:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪新闻",
-     "published_at": "2026-10-15T12:14:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQemZLc09WSE54OVVwQzE2QVNpOGEtb003dlR5cXVTTGUxUXNvTUFiall6d3lrdzc2YnZNdm1ocUhFbnp5ZXFlZGs1X21rT0J6RjZGV1pNQm9PWHFmRFcyaVUtNkx3Ql9jZlBhNFR2cWFJR1k4NTk5ZDVDYWNtd0xvd0U0ZVAzXzFNRHVZS0VVdF9uQTJ2V1JtUm83RVJzUWJMQzM2U3lfU3lKb1QwaW5WaHRIc0Voal83TmhLNEw1LVFnZ3dvLTB5Vi1wUUJSOE44cktVaG9YUWc2bENIbFhFOS1zZW43SjFLUDMzNy1NOVFKMHhremw5Nms0TjlLbXBFVnlrX2dVOUxZTFRzaUc2aHdjU0R6cTAyWGNZN1JqZGRzSnI1dkdBOEZ3RnUxalZKT0QxU0t1dDcweGswV2IwNEk4aExnSVMtRWhjc0pEcFRNYndwZENKeVVEYUlPN05ZcEFJ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "热管理或成AI工厂标准模块美的入MGX生态链",
-   "title_zh": "热管理或成AI工厂“标准模块” 英伟达MGX生态链美的在列 - 新浪新闻",
-   "sentiment": 1
-  },
-  {
-   "id": "a6a9920ba71e",
-   "title": "Wall Street is 'tiring of the Bank of Nvidia, the Bank of AMD and the Bank of Broadcom': Baird's Mortonson - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORkdyc3Y4YW9yMy16ZURxa09KMnc4Yk9YelpKVHpmNU5EcEpBODJKNXJiOE9jU1hkMnFFckNRbWJoVHRZSDNfOVg2WHpBdFlTSHdYV2VUcmxYeGUtR2Z1Zk95X09NVF84dFNaWHM1VWJIVDJud0ZJUmRSMFpfMl9lYkJCOWNUa1VRajQwQlNOU0gteml2Vlk4ZVQyNE0xX2cxOG5nQU82eW1iUXRBcnVBZEdxRjZsanlhQ2JsbW1jdkp1bmN6blJVYlRSYzMzbTRBMVJfYl9iRy1XWFcxeEJYRmxxLUxMalFyRXk1RkpqSQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-15T12:12:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-15T12:12:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORkdyc3Y4YW9yMy16ZURxa09KMnc4Yk9YelpKVHpmNU5EcEpBODJKNXJiOE9jU1hkMnFFckNRbWJoVHRZSDNfOVg2WHpBdFlTSHdYV2VUcmxYeGUtR2Z1Zk95X09NVF84dFNaWHM1VWJIVDJud0ZJUmRSMFpfMl9lYkJCOWNUa1VRajQwQlNOU0gteml2Vlk4ZVQyNE0xX2cxOG5nQU82eW1iUXRBcnVBZEdxRjZsanlhQ2JsbW1jdkp1bmN6blJVYlRSYzMzbTRBMVJfYl9iRy1XWFcxeEJYRmxxLUxMalFyRXk1RkpqSQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Baird称华尔街厌倦英伟达式卖方融资",
-   "title_zh": "Baird：华尔街厌倦'英伟达银行、AMD银行、博通银行'模式",
-   "sentiment": -1
-  },
-  {
-   "id": "d79bc7bf81de",
-   "title": "英伟达黄仁勋盛赞OpenClaw 助力机器人技术发展，但权限管控必须得有- 产业链 - 光通信Pro",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yNVVxZFFVYm1RUkVmNWJqWXBJUXR5T0Nya3VLdEY2bzE2V0xWSGZkQVc5TzBlRmJPTWh2N3NpMmUxQUNtUjIwdlBFRVlRbldCeE05TmRTTQ",
-   "source": "光通信Pro",
-   "published_at": "2026-10-15T12:09:13+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "光通信Pro",
-     "published_at": "2026-10-15T12:09:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yNVVxZFFVYm1RUkVmNWJqWXBJUXR5T0Nya3VLdEY2bzE2V0xWSGZkQVc5TzBlRmJPTWh2N3NpMmUxQUNtUjIwdlBFRVlRbldCeE05TmRTTQ"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-15T23:10:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNS1vZy1tbnN2M1NOVDc1WTY3Tk92NjlidmZtUnhWMEtoYkNJaGctUkRqMGR6T1JtdkR3bklkcjRiTlItZXZOTEN4MlpDU2l0TElwVXJ0TlV3Rm5uRnR6YTlySXFSWHN2VVFHdlB1SHB2WmFJcXpWaHA1LTZJR0lEZWlzVF9TM3d6cUNLbg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋盛赞 OpenClaw 助机器人发展",
-   "title_zh": "英伟达黄仁勋盛赞OpenClaw 助力机器人技术发展，但权限管控必须得有- 产业链 - 光通信Pro",
-   "sentiment": 1
-  },
-  {
-   "id": "21344887b568",
-   "title": "Nvidia CEO Calls for AI Safety Collaboration with China - The Tech Buzz",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlBVd1J5N2ZsMVNsdlFEZVFJay12ZUpReWVaSTFKQkNDX1hvMS0wYnZkTDVmcnpWRDJGSUhWejdPYi04OTNPV0pLNnROQUNjM1hBU0JxNHliRDVpOFMzTXduZDdqc0QzWFZham0tbzNxY01ScHJlckJrQkplUlZGU3RDei1VSjljX0xDTDRHRmx6dw",
-   "source": "The Tech Buzz",
-   "published_at": "2026-10-15T12:06:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Tech Buzz",
-     "published_at": "2026-10-15T12:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlBVd1J5N2ZsMVNsdlFEZVFJay12ZUpReWVaSTFKQkNDX1hvMS0wYnZkTDVmcnpWRDJGSUhWejdPYi04OTNPV0pLNnROQUNjM1hBU0JxNHliRDVpOFMzTXduZDdqc0QzWFZham0tbzNxY01ScHJlckJrQkplUlZGU3RDei1VSjljX0xDTDRHRmx6dw"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "英伟达CEO呼吁与中国合作AI安全",
-   "title_zh": "英伟达CEO呼吁与中国合作推动AI安全",
-   "sentiment": 0
-  },
-  {
-   "id": "054dd3324105",
-   "title": "How Nvidia Could Stop the CoreWeave Panic - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR",
-   "source": "Barron's",
-   "published_at": "2026-10-15T12:06:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-15T12:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSk9TQTJodzlYbzRfUlVmU2dvbUstbGZqbWJrV0RPX1E2ZWk3WXFTcnVPNWxrS19oZTdBX3FHaG93eEQ2Vi1QQU9lcnAzaVBqQVNVWTdMcE9fekZPRlZwY294ZHhfbmpjZGNIekl5aEFzSzVlYTBreHp1RXM5VVhiVGtWcU5uRFZ2eGpWUkhR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达如何平息CoreWeave恐慌",
-   "title_zh": "英伟达如何平息CoreWeave恐慌",
    "sentiment": 0
   }
  ]
