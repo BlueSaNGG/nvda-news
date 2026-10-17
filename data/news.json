@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T00:36:44.364484+00:00",
+ "updated_at": "2026-10-17T00:51:34.211351+00:00",
  "market": {
   "price": 217.23,
   "change_pct": -1.84,
@@ -10,8 +10,8 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.49,
-   "count": 171
+   "avg": 0.48,
+   "count": 172
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.49（171条已评分）"
+     "note": "今日新闻情绪 +0.48（172条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.0,
    "ma20": 228.58,
-   "as_of": "2026-10-17T00:36:44.342859+00:00"
+   "as_of": "2026-10-17T00:51:34.195584+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -87,12 +87,17 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmFaTEdHUV9LOWlib1JRMHJlaU5WRkdpa1lTNzZ6ZmY0OVV0ZTJYanVncmR3ZDNCaGJOcjBHUXlYamZPNi1kclFlSnZ3QktPZ204R3dYb1JuMU5jaFVrNFhGZEQ5Qkk2OE92TDAxQ1cxRTVBZDg0TkR3MVV1YkRsNWRLRHJwTi1RUnotRg",
    "source": "搜狐",
    "published_at": "2026-10-16T23:41:49+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-16T23:41:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmFaTEdHUV9LOWlib1JRMHJlaU5WRkdpa1lTNzZ6ZmY0OVV0ZTJYanVncmR3ZDNCaGJOcjBHUXlYamZPNi1kclFlSnZ3QktPZ204R3dYb1JuMU5jaFVrNFhGZEQ5Qkk2OE92TDAxQ1cxRTVBZDg0TkR3MVV1YkRsNWRLRHJwTi1RUnotRg"
+    },
+    {
+     "name": "凤凰网财经",
+     "published_at": "2026-10-17T00:19:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CS0lyVzBRdkpuME5hOER5S2pJbzhqcjdqeUN1bUdYSWptWV94NlJCalpYdmlCOEZJX1VwR2JKODNBQXdWcEdYeEhLMkMwY3Jv"
     }
    ],
    "category": "其他",
@@ -401,6 +406,23 @@
    "zh_summary": "英伟达公关团队在曝光度激增后重组",
    "title_zh": "英伟达公关团队在公司曝光度激增后大调整",
    "sentiment": 0
+  },
+  {
+   "id": "f87c8f9ce364",
+   "title": "Open source and on device: the strategy behind Nvidia’s new AI models - TechTarget",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0w2akJBX0EyTklXMFVNZEd2RHhJZzdPLTFDc1dPUDZJcWxoTWl2RklBRHh0b1o0WDRmMjJzNF9lTEpRdWFtQWpIbXlSX1ZDV0N2elVXMWhmVndoeHVGNWl4aE8xWVRsb1hWdVBzVmRldU9wWGMwdHlwOG9yaW8zeU8zZmZUamhzcjZWaFhESW1MZ3VGeXFiSUU0S0Q1eWVHTW05b283aDlYOVRkajRHUHFB",
+   "source": "TechTarget",
+   "published_at": "2026-10-16T18:56:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechTarget",
+     "published_at": "2026-10-16T18:56:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0w2akJBX0EyTklXMFVNZEd2RHhJZzdPLTFDc1dPUDZJcWxoTWl2RklBRHh0b1o0WDRmMjJzNF9lTEpRdWFtQWpIbXlSX1ZDV0N2elVXMWhmVndoeHVGNWl4aE8xWVRsb1hWdVBzVmRldU9wWGMwdHlwOG9yaW8zeU8zZmZUamhzcjZWaFhESW1MZ3VGeXFiSUU0S0Q1eWVHTW05b283aDlYOVRkajRHUHFB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "3e27e88938fd",
@@ -6640,31 +6662,6 @@
    "session": "盘中",
    "zh_summary": "市场传闻英伟达或与德国政府达成AI合作",
    "title_zh": "市场传闻：英伟达或与德国政府达成人工智能合作 - 富途牛牛",
-   "sentiment": 1
-  },
-  {
-   "id": "364fc627c48b",
-   "title": "英伟达RTX Spark真机上手！十大亮点都在这了 - 智东西",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmLXZCclliNXNFZTUzZkNRUkgxa0hUbTVtakk0VjR3eGVnXzUxaGNXSEJzSHp2NWp1c2ZDYXREdnpmRUhnYUMySQ",
-   "source": "智东西",
-   "published_at": "2026-10-15T15:46:18+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "智东西",
-     "published_at": "2026-10-15T15:46:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmLXZCclliNXNFZTUzZkNRUkgxa0hUbTVtakk0VjR3eGVnXzUxaGNXSEJzSHp2NWp1c2ZDYXREdnpmRUhnYUMySQ"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-15T15:46:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOek1UcFMwNzJQaU4zR1cwdEc2UU0zWHVINlFUbUJiLUFUTm5yMkpqT084MmpmV2RfVndvQmVKcjZCLWtoLWthNGpFM0tIbmdxLU1YaWtoUFVVdUtHajM0VElBbExST09zZmxwVEpEaXlyT19YT2IxdmUtVUZfVmJ4OEVVY3hVUmNNd0pBbA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "RTX Spark真机上手十大亮点",
-   "title_zh": "英伟达RTX Spark真机上手！十大亮点都在这了 - 智东西",
    "sentiment": 1
   }
  ]
