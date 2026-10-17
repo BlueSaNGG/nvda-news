@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T06:21:30.154046+00:00",
+ "updated_at": "2026-10-17T06:36:31.819038+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,8 +10,8 @@
    "days_left": 31
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 4
+   "avg": 0.2,
+   "count": 5
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（4条已评分）"
+     "note": "今日新闻情绪 +0.20（5条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-17T06:21:30.133805+00:00"
+   "as_of": "2026-10-17T06:36:31.796407+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "c3a3439ac607",
+   "title": "英伟达黄仁勋称AI现在不是泡沫，安全不应成减速理由|CoreWeave|IT之家|云服务|伦敦|英国 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTM5X0prNDFwYWhSTVcwb3VDbHc5c3ZUdk9zQjJ5VEc4VDM5N2h5WjRCSTRib0MwU2RXLXVNU0tZaDFfVTBjS0lxSXhVTUJ2RE5xX0FnakRjQjhIVUNnbWtzMWp5eG9zanBGdDFwWXJtQ2pDbFMzR0xJVFJwNTBRYlBCcEZia3dYR3VjYzItdlgzZW5iVmJGVlZidWJGSW10Zm96RndhVkJmdmNfVmluTzhR",
+   "source": "finance.sina.com.cn",
+   "published_at": "2026-10-17T06:21:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-17T06:21:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTM5X0prNDFwYWhSTVcwb3VDbHc5c3ZUdk9zQjJ5VEc4VDM5N2h5WjRCSTRib0MwU2RXLXVNU0tZaDFfVTBjS0lxSXhVTUJ2RE5xX0FnakRjQjhIVUNnbWtzMWp5eG9zanBGdDFwWXJtQ2pDbFMzR0xJVFJwNTBRYlBCcEZia3dYR3VjYzItdlgzZW5iVmJGVlZidWJGSW10Zm96RndhVkJmdmNfVmluTzhR"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "545b81256078",
    "title": "刚刚，英伟达开源机器人Harness！接入GPT-6 Astra一夜刷爆所有基准 - 搜狐",
@@ -6412,6 +6429,23 @@
    "sentiment": 1
   },
   {
+   "id": "704271162efb",
+   "title": "Micron vs. NVIDIA: Which AI Stock Is the Better Buy After Earnings? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXN1dzBRLVdJMURmaVJ2OFo0Slo1M1ZseVU5OU54bGZSc3JfUGk2dUZvOC1NcnljQ3RiWEQ0ZVFER0F0NGsxMGZOU1YxbHZkc091NXhtblBHNE00WHF2S0QzRlhnajFxNll1RGJBYk5QQk5wNlVnNTlGTGk3amdVUDE3MjVtRG51M3BCR2xjZHVEbF9f",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-15T18:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-15T18:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXN1dzBRLVdJMURmaVJ2OFo0Slo1M1ZseVU5OU54bGZSc3JfUGk2dUZvOC1NcnljQ3RiWEQ0ZVFER0F0NGsxMGZOU1YxbHZkc091NXhtblBHNE00WHF2S0QzRlhnajFxNll1RGJBYk5QQk5wNlVnNTlGTGk3amdVUDE3MjVtRG51M3BCR2xjZHVEbF9f"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "952ddb5a0bae",
    "title": "NVIDIA’s latest 120-billion-parameter model completes agent tasks 5x faster than rivals - Interesting Engineering",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUEhVVXpYdVRTNmU4TFFVWEFUbkdIaGQtM21QR08yZXZsX3NYZWktZjMzSDExMVc5SXNwOG1LdW82Y04xYlpMNDkxVGd2TXduXzdkWi1QQ0l2SkRqY3BNLWg2RG5heG80WU85bzNMcktqNm8tWGt3UlpOZUVxMlpkNWlqVlVBdTdOU2tTRQ",
@@ -6603,46 +6637,6 @@
    "session": "盘中",
    "zh_summary": "沃尔沃将采用英伟达技术做自动驾驶",
    "title_zh": "沃尔沃将使用英伟达技术实现点对点自动驾驶",
-   "sentiment": 1
-  },
-  {
-   "id": "f1f7a38698b8",
-   "title": "Adobe Expands NVIDIA Collaboration as RTX Spark Reaches Creative Apps - Unite.AI",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHdlMnYwQlRtZXBINlRuRGdPdnF2N3dHOFhiM3JCYXF1UGpydGdhcDhDSFVDbkxRcnc2SlR3MUJYLTdRMWtublRqMVVUZFRhNWViV3pjRnJ3MHBTYWdxOWN4Wm85ck9CTUZBOEZKOXU5bDFGaXFXcUlYLTJtNXFWYy1LSXNkUF8zOWtBOVZfYks1Mi1DSHc",
-   "source": "Unite.AI",
-   "published_at": "2026-10-15T17:24:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Unite.AI",
-     "published_at": "2026-10-15T17:24:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHdlMnYwQlRtZXBINlRuRGdPdnF2N3dHOFhiM3JCYXF1UGpydGdhcDhDSFVDbkxRcnc2SlR3MUJYLTdRMWtublRqMVVUZFRhNWViV3pjRnJ3MHBTYWdxOWN4Wm85ck9CTUZBOEZKOXU5bDFGaXFXcUlYLTJtNXFWYy1LSXNkUF8zOWtBOVZfYks1Mi1DSHc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Adobe扩大与英伟达合作",
-   "title_zh": "Adobe扩大与英伟达合作，RTX Spark进入创意应用",
-   "sentiment": 1
-  },
-  {
-   "id": "8791451d92eb",
-   "title": "Nvidia-backed Iambic stock gains on trading debut (IAM:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzhSRXcyTE9fdi15Q2h6b0hMeXZWWlNSTGJkWlh1eU5aQ3pQRllreklVQVF4OEdoYl9lNzNralhyb05BZE96cU9reEVDU1QyTFJxek4tSkhiR3FXSnk4UFd3UUtISEdLVnNEYXZ5TXV0cklnck5ydk9kY0pNY0EzcHc0OWNmcklid3RoYg",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-15T17:20:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-15T17:20:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzhSRXcyTE9fdi15Q2h6b0hMeXZWWlNSTGJkWlh1eU5aQ3pQRllreklVQVF4OEdoYl9lNzNralhyb05BZE96cU9reEVDU1QyTFJxek4tSkhiR3FXSnk4UFd3UUtISEdLVnNEYXZ5TXV0cklnck5ydk9kY0pNY0EzcHc0OWNmcklid3RoYg"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "英伟达投资的Iambic上市首日股价上涨",
-   "title_zh": "英伟达支持的Iambic上市首日股价上涨",
    "sentiment": 1
   }
  ]
