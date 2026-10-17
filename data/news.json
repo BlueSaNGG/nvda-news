@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T08:36:27.439913+00:00",
+ "updated_at": "2026-10-17T08:51:31.574802+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.33,
-   "count": 15
+   "count": 18
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.33（15条已评分）"
+     "note": "今日新闻情绪 +0.33（18条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-17T08:36:27.426230+00:00"
+   "as_of": "2026-10-17T08:51:31.564652+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -87,10 +87,15 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VZDVmdXBCVGJPZmtVTTZ1WDZMTVdBRklyNFZELVlYNmpFNGE3ZzI2aHdNdFBUUXVKejk1RmNQLWNWN0JWNERZMVZiS3RSZm1MZmVlRGVwNXR0ZjNESVBiTGsxandfZw",
    "source": "www.mrjjxw.com",
    "published_at": "2026-10-17T08:24:08+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "www.mrjjxw.com",
+     "published_at": "2026-10-17T08:24:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VZDVmdXBCVGJPZmtVTTZ1WDZMTVdBRklyNFZELVlYNmpFNGE3ZzI2aHdNdFBUUXVKejk1RmNQLWNWN0JWNERZMVZiS3RSZm1MZmVlRGVwNXR0ZjNESVBiTGsxandfZw"
+    },
+    {
+     "name": "https://www.mrjjxw.com/",
      "published_at": "2026-10-17T08:24:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VZDVmdXBCVGJPZmtVTTZ1WDZMTVdBRklyNFZELVlYNmpFNGE3ZzI2aHdNdFBUUXVKejk1RmNQLWNWN0JWNERZMVZiS3RSZm1MZmVlRGVwNXR0ZjNESVBiTGsxandfZw"
     }
@@ -2986,6 +2991,23 @@
    "zh_summary": "微软新笔电搭载英伟达RTX Spark",
    "title_zh": "微软Surface Ultra新机搭载RTX Spark",
    "sentiment": 1
+  },
+  {
+   "id": "845eb0a6158a",
+   "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs - NVIDIA Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFF1Y3NscnpKMlBtdk52SF9LOFE5Y2F3VjBMRGZFNVhOX2NTQkJEUGFENTdvZVQ0ajI0R012ZmNxeTBYaVZzaEJhc0J2YVM2Vy0xZVpqOTNKeno5TDZqMEJSWFU2b1BNb3FrOVZHU29ERXoxYzBKVW9lR1JyVzlIUmRYSXVLX28yNmtja3hDdWQ5QXI4SHBWLTlmNkQ5TTFwRVh6VXZB",
+   "source": "NVIDIA Newsroom",
+   "published_at": "2026-10-16T12:03:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Newsroom",
+     "published_at": "2026-10-16T12:03:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFF1Y3NscnpKMlBtdk52SF9LOFE5Y2F3VjBMRGZFNVhOX2NTQkJEUGFENTdvZVQ0ajI0R012ZmNxeTBYaVZzaEJhc0J2YVM2Vy0xZVpqOTNKeno5TDZqMEJSWFU2b1BNb3FrOVZHU29ERXoxYzBKVW9lR1JyVzlIUmRYSXVLX28yNmtja3hDdWQ5QXI4SHBWLTlmNkQ5TTFwRVh6VXZB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "f5923d64d9a2",
@@ -6581,31 +6603,6 @@
    "zh_summary": "ASML警告芯片产能，NVDA逼近200美元",
    "title_zh": "英伟达逼近200美元，ASML警告芯片制造产能",
    "sentiment": -1
-  },
-  {
-   "id": "c42108fa6bc1",
-   "title": "AI Stocks Plunge, but Jensen Huang Says Nvidia Gets New Chip Orders Almost Daily - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0ZiMVIxeDBtWVM4ZDRoc1RWbGNMMk9Vb21GTW1BYjMzekRWcDFmM0EtZlEtcVVhejAyTERyenU1LWVMV1pDRU9rbVJURVBzTEYtSGZIVVRIUEE2Ymw2TWVraTdtV2M4azlpTVBzYy1IdWhEczJiUURrZmIxYUs5VEdqN3ZyOHoxbGs2SXBGek0ycGZzV200X255OGo1VmZKNFJ6Q19B",
-   "source": "Benzinga",
-   "published_at": "2026-10-15T18:37:17+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-15T18:37:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb0ZiMVIxeDBtWVM4ZDRoc1RWbGNMMk9Vb21GTW1BYjMzekRWcDFmM0EtZlEtcVVhejAyTERyenU1LWVMV1pDRU9rbVJURVBzTEYtSGZIVVRIUEE2Ymw2TWVraTdtV2M4azlpTVBzYy1IdWhEczJiUURrZmIxYUs5VEdqN3ZyOHoxbGs2SXBGek0ycGZzV200X255OGo1VmZKNFJ6Q19B"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-15T18:37:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3ZzSjJ2VUh6VHQ0TEE2QV92SFR5enRpRlhQZ2ZqcWVmZjhOTnhMRHlFVWdnTkJUV3ZDZTRIZFpwSDhBTWJDcGo0QnN1eWIxZjZYc3lSblVYS242OFRjM1VteW1NYVlZOHFiTElVS3FodWFLUUppSlRPMVJfZWppTV94UW1IQ2hud1FkUXNCcjlmSmw0RUFfZHlR"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "AI股大跌，但黄仁勋称订单几乎每天有",
-   "title_zh": "AI股大跌，但黄仁勋称英伟达几乎每天有新订单",
-   "sentiment": 0
   }
  ]
 }
