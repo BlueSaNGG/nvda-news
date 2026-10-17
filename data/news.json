@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T13:21:37.297360+00:00",
+ "updated_at": "2026-10-17T13:36:30.019115+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,12 +10,12 @@
    "days_left": 31
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 27
+   "avg": 0.52,
+   "count": 29
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.44（27条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.52（29条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-17T13:21:37.288100+00:00"
+   "as_of": "2026-10-17T13:36:30.008685+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "f496ad439e1b",
+   "title": "叫板英伟达！Bolt Zeus GPU测试芯片零缺陷：路径追踪性能号称超RTX 5090十倍 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yNkFwTURaZ01sOGhWQ0lpWnFJR0dqRV9KUnZENXljazAwekR0UDFqc1Z2VUt2a2hTWlFOaWZuU1JxZUxrM2dodXFiZWxrS1BGaV9vZlgzWk4",
+   "source": "驱动之家",
+   "published_at": "2026-10-17T13:23:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-17T13:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yNkFwTURaZ01sOGhWQ0lpWnFJR0dqRV9KUnZENXljazAwekR0UDFqc1Z2VUt2a2hTWlFOaWZuU1JxZUxrM2dodXFiZWxrS1BGaV9vZlgzWk4"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
+  {
+   "id": "1ef926cf412e",
+   "title": "三星电子季度营业利润超越Nvidia，跻身全球第一 提供者 Investing.com - 英为财情 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UMFRrZnB4TUtXMmVKM1pBSGFsOEFBMmx2VGhJMm92SlhiNlcyZThEc1A4LXNYM0Vpa1U3VDBOWUUzc1hEQ0FBT2tjY1VLVWpYRUM1VDRaYXNsWGg2ZkY4Wmc0cXR2U1loT3dON3pBWFQ",
+   "source": "英为财情 Investing.com",
+   "published_at": "2026-10-17T13:12:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-17T13:12:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UMFRrZnB4TUtXMmVKM1pBSGFsOEFBMmx2VGhJMm92SlhiNlcyZThEc1A4LXNYM0Vpa1U3VDBOWUUzc1hEQ0FBT2tjY1VLVWpYRUM1VDRaYXNsWGg2ZkY4Wmc0cXR2U1loT3dON3pBWFQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "a13de0d56281",
    "title": "NVIDIA 与半导体领军企业携手推进 AI 在芯片设计与制造领域的应用，助力实现 AI 定义的晶圆厂 - 新浪网",
@@ -100,6 +134,23 @@
    "zh_summary": "SpaceX AI转型隐含英伟达144万GPU",
    "title_zh": "SpaceX AI转型隐含144万块英伟达GPU采购",
    "sentiment": 2
+  },
+  {
+   "id": "89f75c0b5f39",
+   "title": "NVIDIA has officially denied rumors about the discontinuation of the GeForce RTX 5090. - GameGPU",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0VMVjRxQkRZZVVNQW5fTGhQazY0NUVoSFNGT0t5LVlZdUoxcXNVUF9MSGdhdkNfTFlNMVJQX0VUSlZVallSeWQxQlZVbHBXVTNnQllaTkVzOTNvc2JKdGJodVdBa1A2ODZQTnVPakU5dlhWRE42MW9jQm1DUE5odkRtWW1NbHYydWE5cDR0ODVqZ21kUHdsYktUX3lqTkFwTFNQZkFMUXFRNTl3MUNfYWNaS2NIWlhuZlE",
+   "source": "GameGPU",
+   "published_at": "2026-10-17T12:29:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GameGPU",
+     "published_at": "2026-10-17T12:29:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0VMVjRxQkRZZVVNQW5fTGhQazY0NUVoSFNGT0t5LVlZdUoxcXNVUF9MSGdhdkNfTFlNMVJQX0VUSlZVallSeWQxQlZVbHBXVTNnQllaTkVzOTNvc2JKdGJodVdBa1A2ODZQTnVPakU5dlhWRE42MW9jQm1DUE5odkRtWW1NbHYydWE5cDR0ODVqZ21kUHdsYktUX3lqTkFwTFNQZkFMUXFRNTl3MUNfYWNaS2NIWlhuZlE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
   },
   {
    "id": "e452c46caf85",
@@ -1751,6 +1802,23 @@
    "zh_summary": "英伟达RTX Spark支持一机代码测试部署",
    "title_zh": "英伟达RTX Spark：代码、测试、部署一机完成",
    "sentiment": 0
+  },
+  {
+   "id": "0a66ed17463b",
+   "title": "Nvidia and Apple Each Gave $25 Million to Trump’s White House Ballroom - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWxtLVRyeVpQZXdsNnp1UGtTLThzS2NkU1Z3bnI3UkhjZ08teDFVUnJMNWxKMkJhaDhSS0FsVWRVXzhCQUJBeWVWazVpUGdVeXVfZWlBUDRVaGNhcXdkNktJWUhKTHgxYWdpaVRQUkp4WFE5a1JXMERieDNyWUVWS0JURFRNSWhsNWdwSmtyRkp5NnpKa2xGVA",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-16T17:06:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-16T17:06:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWxtLVRyeVpQZXdsNnp1UGtTLThzS2NkU1Z3bnI3UkhjZ08teDFVUnJMNWxKMkJhaDhSS0FsVWRVXzhCQUJBeWVWazVpUGdVeXVfZWlBUDRVaGNhcXdkNktJWUhKTHgxYWdpaVRQUkp4WFE5a1JXMERieDNyWUVWS0JURFRNSWhsNWdwSmtyRkp5NnpKa2xGVA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "ced9bcb8ce9e",
@@ -6572,86 +6640,6 @@
    "session": "盘后",
    "zh_summary": "英伟达股价下跌1.8%",
    "title_zh": "英伟达股价下跌1.8%：发生了什么",
-   "sentiment": -1
-  },
-  {
-   "id": "60072295ba34",
-   "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell - MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdzFZUlhsa21xa19DOXJyb3plbFQ1ek53ZF81bXdhOWJwcURqN043VktFUjBjYzVoWndQai1Dd05nUVo5N0xvejRJWGtyWi1McmRXTmFqS0tsWDV2LW96bHZISnpPY3FaVXNLQVdXV0ZnZWhRc0RKajN0MmpfamQyM2dHSkdEZ1JycTJLdmI0LU5EZTRMYXdMVENTcVBlRTBBQmJ0cjg0a0E4MjlMRU9aczNtVHRIdnh1NWc",
-   "source": "MarketWatch",
-   "published_at": "2026-10-15T21:23:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketWatch",
-     "published_at": "2026-10-15T21:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdzFZUlhsa21xa19DOXJyb3plbFQ1ek53ZF81bXdhOWJwcURqN043VktFUjBjYzVoWndQai1Dd05nUVo5N0xvejRJWGtyWi1McmRXTmFqS0tsWDV2LW96bHZISnpPY3FaVXNLQVdXV0ZnZWhRc0RKajN0MmpfamQyM2dHSkdEZ1JycTJLdmI0LU5EZTRMYXdMVENTcVBlRTBBQmJ0cjg0a0E4MjlMRU9aczNtVHRIdnh1NWc"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "AI担忧再起，英伟达等芯片股承压",
-   "title_zh": "AI担忧加剧，英伟达等芯片股再承压",
-   "sentiment": -1
-  },
-  {
-   "id": "151c94a978d6",
-   "title": "Volvo Cars expands automated driving partnership with Nvidia - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLWtIdFNOaHNvOGk3ZDB4eHM3LWhYaWhNX3hDdE16S3RIMW1PanNrX0RDdWthRDV1ZGxaUVlQQXRuN2RsZ3Z2WkMzUWx5amJSdDdiOEFqaEo1Z3JsV0s0UkttS3I3dTJWYUtzR3hlRjl2WmM2enZkNGM3bGwtYzVyVWdGNFZOUzFuYW5MSFpiOUlxQmNKTlBfTVdZRUlaUU1nVC1rRVBUY2RoSUh4NV90WDF6Zjc5MlpneTZVWFB5RmFNZkFG",
-   "source": "Reuters",
-   "published_at": "2026-10-15T21:22:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-15T21:22:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLWtIdFNOaHNvOGk3ZDB4eHM3LWhYaWhNX3hDdE16S3RIMW1PanNrX0RDdWthRDV1ZGxaUVlQQXRuN2RsZ3Z2WkMzUWx5amJSdDdiOEFqaEo1Z3JsV0s0UkttS3I3dTJWYUtzR3hlRjl2WmM2enZkNGM3bGwtYzVyVWdGNFZOUzFuYW5MSFpiOUlxQmNKTlBfTVdZRUlaUU1nVC1rRVBUY2RoSUh4NV90WDF6Zjc5MlpneTZVWFB5RmFNZkFG"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "沃尔沃扩大与英伟达自动驾驶合作",
-   "title_zh": "沃尔沃扩大与英伟达的自动驾驶合作",
-   "sentiment": 1
-  },
-  {
-   "id": "8b8c875ad3eb",
-   "title": "黄仁勋称CoreWeave财务实力改善英伟达无需为其提供兜底支持|斯德哥尔摩|财务状况|运营商|信贷|融资 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxPcUxhOUhHS1hYRkdyQy1FWHY1Ukd1SXY5cDNvMWN6bG9HMnZYRWRoRGJRWmx6M3Zyd0gyX2RiaGZIWVdFdHNXTkxGbkUtMVNjemoxOEQ4bk5jNGMzdERPNFl3clU3M191TFFqeVJuTkUwaFk2eDdpMWxmUGFVZ19SSC1ZRmt0YVF0TnM5NXJDcGU2eUZySTZXd3h0WExuSDJVSXBydTh2cFg2YlNRbERvdUhoSWloWGhTeEJVVGpIeENtaDFWYTE2cXhySXA2SEZudGpKdmMxS01BVDZBWlZtbE41bmc3RDBkdUZIVHJObUE0dHRtVFZxVDVxRFhFbUNlZEdZLWpxcEhvYTZEa1lEVzRrX0lKM1UyOHA3TXM1U2hRRzlwUUFaSFhCS0ZVY0pUYWRMQ1VySjR4eWhzcmphRmR2UHIyYTJmNUhnTk1sNHZuQUY4bUdoczlkQWRXWFNYQ3V6eDFIcE80dEVGODhsN3NtLXpCYW8zZ2tXcTd2djRhVDBFazE2OEpHUWQyVlVaYW1yY1RtcHFvX3BsYk1rWUd0TDBFMEZQUi1jbWt0QXd0Q0o2MmhvRVRLNm9EelBhby1XZE1RVmhFcnVtdkJKcWcxMTlySGlWMEljQ3UtUjVMenlfMkF5T0JISndiaEpSQ0NN",
-   "source": "finance.sina.com.cn",
-   "published_at": "2026-10-15T21:12:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-15T21:12:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxPcUxhOUhHS1hYRkdyQy1FWHY1Ukd1SXY5cDNvMWN6bG9HMnZYRWRoRGJRWmx6M3Zyd0gyX2RiaGZIWVdFdHNXTkxGbkUtMVNjemoxOEQ4bk5jNGMzdERPNFl3clU3M191TFFqeVJuTkUwaFk2eDdpMWxmUGFVZ19SSC1ZRmt0YVF0TnM5NXJDcGU2eUZySTZXd3h0WExuSDJVSXBydTh2cFg2YlNRbERvdUhoSWloWGhTeEJVVGpIeENtaDFWYTE2cXhySXA2SEZudGpKdmMxS01BVDZBWlZtbE41bmc3RDBkdUZIVHJObUE0dHRtVFZxVDVxRFhFbUNlZEdZLWpxcEhvYTZEa1lEVzRrX0lKM1UyOHA3TXM1U2hRRzlwUUFaSFhCS0ZVY0pUYWRMQ1VySjR4eWhzcmphRmR2UHIyYTJmNUhnTk1sNHZuQUY4bUdoczlkQWRXWFNYQ3V6eDFIcE80dEVGODhsN3NtLXpCYW8zZ2tXcTd2djRhVDBFazE2OEpHUWQyVlVaYW1yY1RtcHFvX3BsYk1rWUd0TDBFMEZQUi1jbWt0QXd0Q0o2MmhvRVRLNm9EelBhby1XZE1RVmhFcnVtdkJKcWcxMTlySGlWMEljQ3UtUjVMenlfMkF5T0JISndiaEpSQ0NN"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "黄仁勋：英伟达无需兜底CoreWeave",
-   "title_zh": "黄仁勋称CoreWeave财务实力改善英伟达无需为其提供兜底支持|斯德哥尔摩|财务状况|运营商|信贷|融资 - finance.sina.com.cn",
-   "sentiment": 1
-  },
-  {
-   "id": "9a80437b66dc",
-   "title": "CoreWeave违约概率超六成！黄仁勋“灭火”：融资成本在下降，无需英伟达兜底 - 华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vMGl2V0xpMEh2WnFDcFlSMXZXSUktTTI5YUJJOTE2TWtBN1dQc2ZKS214cE55OTBlY1Y2ZGN0TWZXd282RU5Nc3IzdlBWRjlZdGo4",
-   "source": "华尔街见闻",
-   "published_at": "2026-10-15T21:00:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-15T21:00:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vMGl2V0xpMEh2WnFDcFlSMXZXSUktTTI5YUJJOTE2TWtBN1dQc2ZKS214cE55OTBlY1Y2ZGN0TWZXd282RU5Nc3IzdlBWRjlZdGo4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "CoreWeave违约概率超六成，黄仁勋灭火",
-   "title_zh": "CoreWeave违约概率超六成！黄仁勋“灭火”：融资成本在下降，无需英伟达兜底 - 华尔街见闻",
    "sentiment": -1
   }
  ]
