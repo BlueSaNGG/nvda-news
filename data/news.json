@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T15:36:31.092878+00:00",
+ "updated_at": "2026-10-17T15:51:31.322839+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,8 +10,8 @@
    "days_left": 31
   },
   "day_sentiment": {
-   "avg": 0.32,
-   "count": 47
+   "avg": 0.31,
+   "count": 51
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.32（47条已评分）"
+     "note": "今日新闻情绪 +0.31（51条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-17T15:36:31.084328+00:00"
+   "as_of": "2026-10-17T15:51:31.305612+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b81ca8bc13ca",
+   "title": "Nvidia says the RTX 5090 is not dead but admits supply is tight - Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVFNWm9hd0p1a1EwdE5ZRXNKVEstZFpDXzdBQWJ6Zl9MLXlZaVF0VVVSMFZwWUk3VzVoOVYwOE5sS2ttOG00eldNQ294VUdGSXpyU29MVXNwUnJnbHpSUlZ5dWdvdVlLZDZwWDR0LUxvaVpVYXdVNk9meEhpbk5ocmttY3ktWHcwdHZJTHFGNTQ3R2k4MGc",
+   "source": "Startup Fortune",
+   "published_at": "2026-10-17T15:35:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Startup Fortune",
+     "published_at": "2026-10-17T15:35:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVFNWm9hd0p1a1EwdE5ZRXNKVEstZFpDXzdBQWJ6Zl9MLXlZaVF0VVVSMFZwWUk3VzVoOVYwOE5sS2ttOG00eldNQ294VUdGSXpyU29MVXNwUnJnbHpSUlZ5dWdvdVlLZDZwWDR0LUxvaVpVYXdVNk9meEhpbk5ocmttY3ktWHcwdHZJTHFGNTQ3R2k4MGc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "aece9caee776",
    "title": "英伟达否认GeForce RTX 5090停产传闻称旗舰显卡仍将持续出货- nVIDIA - cnBeta.COM",
@@ -1761,6 +1778,23 @@
    "zh_summary": "GTX 10显卡通过模组获DLSS 3.7支持",
    "title_zh": "英伟达GTX 10显卡通过模组非官方支持DLSS 3.7",
    "sentiment": 0
+  },
+  {
+   "id": "2e805da26bdc",
+   "title": "英伟达黄仁勋：AI芯片供不应求 订单几乎每日持续涌入 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85VFNtMVJvTVdBdzVWRDdIV0lmWTJhaC05NDNvNXdUWnJUY0VYMmVabHpsZVFUOFpKU21LaGlnSDlKdDl5Qm1NUjFhUmgxU0thVmp0d2tEeTg1MEhpTk5zeDNTbW13dV92THd2SmthYVZyZw",
+   "source": "新浪网",
+   "published_at": "2026-10-16T21:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-16T21:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85VFNtMVJvTVdBdzVWRDdIV0lmWTJhaC05NDNvNXdUWnJUY0VYMmVabHpsZVFUOFpKU21LaGlnSDlKdDl5Qm1NUjFhUmgxU0thVmp0d2tEeTg1MEhpTk5zeDNTbW13dV92THd2SmthYVZyZw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "66611c51a7d8",
@@ -6523,51 +6557,6 @@
    "zh_summary": "黄仁勋称AI芯片需求强劲，Dan Ives看好抛售",
    "title_zh": "英伟达股价预测：黄仁勋称AI芯片需求强劲，Dan Ives看好抛售为买入机会，股价能重返上升趋势吗？ - TradingKey",
    "sentiment": 1
-  },
-  {
-   "id": "74b8e51a218f",
-   "title": "黄仁勋：英伟达客户远不止两家AI巨头，传统业务年增30%–40% - 华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xVE1MVXY4RWZaelFXaGQ0cVNMUkpfS0kxcUZYTmFIZUplcjBVN0ZnYXNIZmJpMXBPT3pzSnpTVDhLTGV0UlltTk84VHVvMlBKVmc",
-   "source": "华尔街见闻",
-   "published_at": "2026-10-16T01:22:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-16T01:22:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xVE1MVXY4RWZaelFXaGQ0cVNMUkpfS0kxcUZYTmFIZUplcjBVN0ZnYXNIZmJpMXBPT3pzSnpTVDhLTGV0UlltTk84VHVvMlBKVmc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "黄仁勋称客户远不止两家AI巨头",
-   "title_zh": "黄仁勋：英伟达客户远不止两家AI巨头，传统业务年增30%–40%",
-   "sentiment": 1
-  },
-  {
-   "id": "f157dd1ee738",
-   "title": "国内价格已飙至5.4万！英伟达官方商城下架RTX 5090：停产传闻坐实 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqV0dnTDNnZEhwUmNrMXdDLWxEM2Ezb09uMVU0di1SbWc3TUhfdTdtSXF6UGtiLXpONm5FeTFpWjgwSjE2QVBqcV9XSVNSdEFhMkZPR3pJWGU",
-   "source": "驱动之家",
-   "published_at": "2026-10-16T01:19:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-16T01:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqV0dnTDNnZEhwUmNrMXdDLWxEM2Ezb09uMVU0di1SbWc3TUhfdTdtSXF6UGtiLXpONm5FeTFpWjgwSjE2QVBqcV9XSVNSdEFhMkZPR3pJWGU"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-16T01:19:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZFNyNUdYTUVIUmJqQThHMXhaSlliZHpuWXpBUXJWNWxYeFY5VTNGSGtEdnhTNVRHcndrVk9uRFh0emx2OXpfclFka0NER05SV2tET0xxaVZkMW1TeERlaUJzZTYyTGRCb1NQWVk2U3BheTlNaUtJM09TaDR3SXJPWlJNS0dENkkt"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达官网下架RTX 5090",
-   "title_zh": "国内价格已飙至5.4万！英伟达官方商城下架RTX 5090：停产传闻坐实",
-   "sentiment": 0
   }
  ]
 }
