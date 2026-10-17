@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T12:36:35.478947+00:00",
+ "updated_at": "2026-10-17T12:51:33.970346+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,12 +10,12 @@
    "days_left": 31
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 24
+   "avg": 0.48,
+   "count": 25
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（24条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.48（25条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-17T12:36:35.461131+00:00"
+   "as_of": "2026-10-17T12:51:33.952917+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -372,7 +372,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iZ3ZoVVRBZG56XzR6M0FNeWhHcktjNHc0WjExSndLbElQdDE2WXhxSHVHT19uQTVxS01GZndtd21oOEdDVmZMSDdhSUxGZw",
    "source": "IT之家",
    "published_at": "2026-10-17T07:07:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "IT之家",
@@ -383,6 +383,11 @@
      "name": "搜狐",
      "published_at": "2026-10-17T07:07:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3k5LWRtRzcyN3EtOTlIZ2NKdGpUQk1MWExmNEpjcV9vODlIeW5iVGdzdG5jM05ncHBNbUNkeW5rS3Z4S0RiZVUzUklsNDZrbTRKakNxa3dXSW9lTzBnYWZCbEZQVWRWWE9DRXl1MTllR3JtX3ZLaHJaeUxhSkxXSG1EcWJvVlA0"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-17T07:07:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tM0V2VWdQREZPUFNkQlc1R3BPYmh3V1Z0U3pNTFgwa3loZHJKQklvUjZqTHBlb19adWJQN0NyLTYwUDJidUYyRU16OWo4dVRJV2stMW9yeDM4eGFyRFhPVXI3MUM5OUV5UWhjUFhSZWk"
     }
    ],
    "category": "其他",
@@ -432,6 +437,23 @@
    "sentiment": -1
   },
   {
+   "id": "eb5c96a2a5b8",
+   "title": "周末读物| 一通电话救了英伟达！黄仁勋回忆英伟达与台积电结缘史，谈中国AI公司：算力越缺，越逼着他们把架构做到极致 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONW1jTnN0VFZRRkN4STBGdmNqVjdoMkY2anBMTUQ0ZUcxSGtaR3M0OGg4cDJMaUdWcTRmYzVGS1ZmWk5MYmdSUG4wQkpuZjBnejNSWHA3Qnh3YWlFYTVWTUN6X0dWMXllYmprMks1SzJWNTR5UWRIbnR3R0gyX2otaG9tVGttcjVWVnR0Z3FiWC03U29KSjQzSUVvOEI5alQ4Z0t3eA",
+   "source": "富途牛牛",
+   "published_at": "2026-10-17T06:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-17T06:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONW1jTnN0VFZRRkN4STBGdmNqVjdoMkY2anBMTUQ0ZUcxSGtaR3M0OGg4cDJMaUdWcTRmYzVGS1ZmWk5MYmdSUG4wQkpuZjBnejNSWHA3Qnh3YWlFYTVWTUN6X0dWMXllYmprMks1SzJWNTR5UWRIbnR3R0gyX2otaG9tVGttcjVWVnR0Z3FiWC03U29KSjQzSUVvOEI5alQ4Z0t3eA"
+    }
+   ],
+   "category": "AI需求",
+   "session": "周末"
+  },
+  {
    "id": "c3a3439ac607",
    "title": "英伟达黄仁勋称AI现在不是泡沫，安全不应成减速理由|CoreWeave|IT之家|云服务|伦敦|英国 - finance.sina.com.cn",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTM5X0prNDFwYWhSTVcwb3VDbHc5c3ZUdk9zQjJ5VEc4VDM5N2h5WjRCSTRib0MwU2RXLXVNU0tZaDFfVTBjS0lxSXhVTUJ2RE5xX0FnakRjQjhIVUNnbWtzMWp5eG9zanBGdDFwWXJtQ2pDbFMzR0xJVFJwNTBRYlBCcEZia3dYR3VjYzItdlgzZW5iVmJGVlZidWJGSW10Zm96RndhVkJmdmNfVmluTzhR",
@@ -450,6 +472,23 @@
    "zh_summary": "黄仁勋称AI现在不是泡沫",
    "title_zh": "英伟达黄仁勋称AI现在不是泡沫，安全不应成减速理由",
    "sentiment": 1
+  },
+  {
+   "id": "1b6b1d6ea469",
+   "title": "变天了，英伟达的PC来了 华硕ProArt 创16RTX Spark评测 - 太平洋科技",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tT3lwbHlyQzZ3NWotYVRQRFpkZkJuV0RpWEdxSktncFU5a0dXanh6T3R1UmdKTkYtTTJVNjNXb0o3QjlveHNzaE9oUFBjOW1XQzNTSHRaTTRCMHVDaVZvLQ",
+   "source": "太平洋科技",
+   "published_at": "2026-10-17T06:02:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "太平洋科技",
+     "published_at": "2026-10-17T06:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tT3lwbHlyQzZ3NWotYVRQRFpkZkJuV0RpWEdxSktncFU5a0dXanh6T3R1UmdKTkYtTTJVNjNXb0o3QjlveHNzaE9oUFBjOW1XQzNTSHRaTTRCMHVDaVZvLQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "799cf6982267",
@@ -3043,7 +3082,7 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHprOU1HX196a0xrUXBNdTNBdnc2TXJjN0VlYlhjV1dPUC1DcldxOUNPVnBCRU1oTUtsbU9hN09TQzFmVmZYV3VmM1BpRmZZbkl3Y0VmdlFybFhFeDBXd1h3YllVQWMxRkFXdXhXSHg1X0s1cXM4cFhoNVpnY0xiQ19CM1JtdDUzREFDS05DUQ",
    "source": "21财经",
    "published_at": "2026-10-16T12:54:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "21财经",
@@ -3054,13 +3093,22 @@
      "name": "证券之星",
      "published_at": "2026-10-16T13:15:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MUGpMQjFHZk9yZzVBaDJNVlRHS3RtODVzXy1ZRmlzVC1hQTZ2aVlRaHdfRFhYS3FDQVd1UWNZUmx6X00zSjk3LXhqSzNPcmhrOXY3MmdyX3NsWUVXdGc"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-16T12:54:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VdzVCa2lCYzR4Wk1rY1d0ejdLVmUxNi0zZEFXNHktREF1Q2FWMVU3NGNRZklUOGxEWVktNlg0N1BtYnBHUEtxYzNrSmZ5OXhWVUYzQUlrZjJiMG1MbUJMRThETmN3bmxZeW5hN0doUjJuX0hlaFhpTw"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "英伟达押注智能体PC换机需求",
    "title_zh": "英伟达押注智能体PC，能否撬动换机需求？ - 21财经",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.52,
+    "window_h": 2.0
+   }
   },
   {
    "id": "c22da66a04fb",
@@ -3148,12 +3196,17 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nZkxQWG1IRHJZaTZ2NV9mTjVzQ2dLS0MyS1RlN08zRTd1T3BDQmlERkVvUWt6cnNtNlVFUGVPbFVrQkstaEs1X3NLRXJkSVRVNTlQOWVHUWE",
    "source": "驱动之家",
    "published_at": "2026-10-16T12:29:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
      "published_at": "2026-10-16T12:29:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nZkxQWG1IRHJZaTZ2NV9mTjVzQ2dLS0MyS1RlN08zRTd1T3BDQmlERkVvUWt6cnNtNlVFUGVPbFVrQkstaEs1X3NLRXJkSVRVNTlQOWVHUWE"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-16T12:29:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yLTI3VTZDWWRLYUFhNUJ1QTg5YzJuWnhPSGg0THNWckVpVUlOR19UazBWdUptMk9PQ1Q3a2luOFd2cTh1b0c2Qm1TZkNQbFA2NHBIRlFSZEhIOFVTXzFjak96QmdXOEJhdkgtbzc5TldDLTU4ZVl0SjhsQ1VuN00"
     }
    ],
    "category": "其他",
@@ -6617,51 +6670,6 @@
     "pct": -0.09,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "24f4031f1381",
-   "title": "GDT Exec: Channel Can Benefit From Nvidia’s AI Financing Boom—But Hurdles Persist - CRN",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcnNQQkJ3eHViSGE0NXBmbGFRYXRCN3VEWlRHeVg0UVoxajlBYy1xVFp6ME9KUHRwWWhyU2VaalFLWFlsbnZpVEx4Q1ZSd2Yxc0NHS3pnLWlWV0hfVWttMER6TjI2RUxTT3VBS3g2S25YUkl0TWk2ek9lWFFEdWI1TlRVQmNzd0lialVCdXlHLWFMQjhob2VsNnVhRDl3VGR4UjNObmEwb29SZjVkZVZGT0lvMDVqaDZNejVvaEtuTQ",
-   "source": "CRN",
-   "published_at": "2026-10-15T20:36:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CRN",
-     "published_at": "2026-10-15T20:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcnNQQkJ3eHViSGE0NXBmbGFRYXRCN3VEWlRHeVg0UVoxajlBYy1xVFp6ME9KUHRwWWhyU2VaalFLWFlsbnZpVEx4Q1ZSd2Yxc0NHS3pnLWlWV0hfVWttMER6TjI2RUxTT3VBS3g2S25YUkl0TWk2ek9lWFFEdWI1TlRVQmNzd0lialVCdXlHLWFMQjhob2VsNnVhRDl3VGR4UjNObmEwb29SZjVkZVZGT0lvMDVqaDZNejVvaEtuTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "GDT高管：渠道从AI融资热潮受益但仍存障碍",
-   "title_zh": "GDT高管：渠道可从英伟达AI融资热潮中受益，但障碍犹存",
-   "sentiment": 0
-  },
-  {
-   "id": "f7ef9291bc85",
-   "title": "Adobe, NVIDIA Expand Their AI Partnership - TVTechnology",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNER6cmtrUzU2TWxZMVhNM0pzbEZoVlRmM24tbE8zY0h0UFNGN2c2bk5GTDlEOUdrbkxrRExjc1R2bFlvVVcwaEdkUHl0bTRmV0ZZMko5YUZGbVIyYU9LUm1EZ0hBeWpUZWh1aW9MQ2VQaEdQbVZlLWxVZjhrNWh5QXdrQ2lvWkU",
-   "source": "TVTechnology",
-   "published_at": "2026-10-15T20:34:55+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TVTechnology",
-     "published_at": "2026-10-15T20:34:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNER6cmtrUzU2TWxZMVhNM0pzbEZoVlRmM24tbE8zY0h0UFNGN2c2bk5GTDlEOUdrbkxrRExjc1R2bFlvVVcwaEdkUHl0bTRmV0ZZMko5YUZGbVIyYU9LUm1EZ0hBeWpUZWh1aW9MQ2VQaEdQbVZlLWxVZjhrNWh5QXdrQ2lvWkU"
-    },
-    {
-     "name": "Newsshooter",
-     "published_at": "2026-10-17T04:32:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUzhjU3I1blRTcGxwN1hwRzkyakVjYVRtUFpNakJzUVhadXk5UUhBSEw4eGJESGFoYnZhNFM4Y0ZSWEROTGRjNWZ2R2w0djBUcHhfMnBVVFBsLUZZY1BRanhYYWg5d1hBWmxkcDVpQjRrWEZscWVBREZFcExXWGpnLTRrSjlJRm9nVnJxYjRaR0syYWpZR25pR2ZDVQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "Adobe与英伟达扩大AI合作",
-   "title_zh": "Adobe与英伟达扩大AI合作",
-   "sentiment": 1
   }
  ]
 }
