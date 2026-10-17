@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T17:21:31.567425+00:00",
+ "updated_at": "2026-10-17T17:36:37.489631+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,8 +10,8 @@
    "days_left": 31
   },
   "day_sentiment": {
-   "avg": 0.36,
-   "count": 56
+   "avg": 0.39,
+   "count": 59
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（56条已评分）"
+     "note": "今日新闻情绪 +0.39（59条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-17T17:21:31.556614+00:00"
+   "as_of": "2026-10-17T17:36:37.482833+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -1027,7 +1027,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iZ3ZoVVRBZG56XzR6M0FNeWhHcktjNHc0WjExSndLbElQdDE2WXhxSHVHT19uQTVxS01GZndtd21oOEdDVmZMSDdhSUxGZw",
    "source": "IT之家",
    "published_at": "2026-10-17T07:07:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "IT之家",
@@ -1043,10 +1043,16 @@
      "name": "手机新浪网",
      "published_at": "2026-10-17T07:07:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tM0V2VWdQREZPUFNkQlc1R3BPYmh3V1Z0U3pNTFgwa3loZHJKQklvUjZqTHBlb19adWJQN0NyLTYwUDJidUYyRU16OWo4dVRJV2stMW9yeDM4eGFyRFhPVXI3MUM5OUV5UWhjUFhSZWk"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-17T07:07:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tM0V2VWdQREZPUFNkQlc1R3BPYmh3V1Z0U3pNTFgwa3loZHJKQklvUjZqTHBlb19adWJQN0NyLTYwUDJidUYyRU16OWo4dVRJV2stMW9yeDM4eGFyRFhPVXI3MUM5OUV5UWhjUFhSZWk"
     }
    ],
    "category": "其他",
    "session": "周末",
+   "breaking": true,
    "zh_summary": "社区移植DLSS 5模型，老游戏帧率最高提升40%",
    "title_zh": "社区移植英伟达DLSS 5新版模型文件，较旧版游戏帧率最高暴涨40%",
    "sentiment": 1
@@ -1300,6 +1306,23 @@
    "zh_summary": "前英伟达高管称机器人仍处早期阶段",
    "title_zh": "前英伟达高管：机器人仍处\"乐高时代\"，物理AI等待ChatGPT时刻",
    "sentiment": 0
+  },
+  {
+   "id": "bf9b462ec6fb",
+   "title": "Nvidia Partner GMI Cloud Calls CoreWeave’s 15% Yield ‘Insane’ - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3FBWFA5WHdRZUVyMFR3TTJ0U0ZWektqWXdFVlBkTTFobTJXNmY2MTlfdFFGRkFIWjhHZmtfVFJYSlc5M2pVNlMyTHdJelRyb2RhWDhIV3pqMHlJN2hOZEdhM3o1Q3NwTDBoSjJiMDFQUXBpeHNnYkxmVEJyUFFpcUJMU1dtMWgyTEVscVJIWnRUWWtIWjRXMjVZOHdncHBWRGVUN1d1TkRsTDBBUUE",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-17T05:04:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-17T05:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3FBWFA5WHdRZUVyMFR3TTJ0U0ZWektqWXdFVlBkTTFobTJXNmY2MTlfdFFGRkFIWjhHZmtfVFJYSlc5M2pVNlMyTHdJelRyb2RhWDhIV3pqMHlJN2hOZEdhM3o1Q3NwTDBoSjJiMDFQUXBpeHNnYkxmVEJyUFFpcUJMU1dtMWgyTEVscVJIWnRUWWtIWjRXMjVZOHdncHBWRGVUN1d1TkRsTDBBUUE"
+    }
+   ],
+   "category": "AI需求",
+   "session": "周末"
   },
   {
    "id": "3b049963b14f",
@@ -6245,6 +6268,23 @@
    "sentiment": -1
   },
   {
+   "id": "9a0716047139",
+   "title": "德国计划与英伟达开展大规模合作西门子、奥迪等12家企业参与|Anthropic|OpenAI|AI芯片|联邦政府|自动驾驶 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWjVVZFpFcWhJR05LRklkbVowUWJ3UmtiYXhqalVGV3JNeTdfWjYyLTVhcWZkTlYzNEtDcktwZnVoOUZYaGZzMjdPdld1V2J1ckE0Z2lxUlZ5azhINUhoSkMtSWVRSkJ0SFU3NUxyeEdtOGtMQ3hQbWhXTXRMS2FXVWhRVS1VT1RLZFE",
+   "source": "finance.sina.com.cn",
+   "published_at": "2026-10-16T02:48:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-16T02:48:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWjVVZFpFcWhJR05LRklkbVowUWJ3UmtiYXhqalVGV3JNeTdfWjYyLTVhcWZkTlYzNEtDcktwZnVoOUZYaGZzMjdPdld1V2J1ckE0Z2lxUlZ5azhINUhoSkMtSWVRSkJ0SFU3NUxyeEdtOGtMQ3hQbWhXTXRMS2FXVWhRVS1VT1RLZFE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "0dd00e67d762",
    "title": "沃尔沃汽车与英伟达声明扩大合作 推进安全自动驾驶技术 - 观点网",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lMWtGcGc1VFVhTDJIeUVlaGg5YUpuWm1QdmNnYXRldW11QmQ3T1JVWHoyRG5peWtMdlUyUmozS2RLMGh4U3dCaXJXYVU3NXVtQlJvcjFuUTFxZ01iT1JxOVhR",
@@ -6513,46 +6553,6 @@
    "zh_summary": "英伟达RTX Spark 10月16日发货",
    "title_zh": "英伟达RTX Spark 10月16日发货，对标苹果128GB",
    "sentiment": 1
-  },
-  {
-   "id": "e1ed996e01ac",
-   "title": "中国AI芯片：英伟达份额33.8%排第1，华为第2，寒武纪第4 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEFIZWphOTJ3eEFkWmMwU3ZLU0pnalphUXVrdTNVUHlTdnV3eUFFXzFuWW02c1JPWUh6akVxUGFvSllpV01FdnMtOVo2aVZmNmFodzFVb3hiX0ZObXplREhabWxhMjlwdU15ak1DRXZqU2JYU0owNTN0THZPdjNzYXl0ZFhqVjJtenNtUg",
-   "source": "搜狐",
-   "published_at": "2026-10-16T01:55:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-16T01:55:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEFIZWphOTJ3eEFkWmMwU3ZLU0pnalphUXVrdTNVUHlTdnV3eUFFXzFuWW02c1JPWUh6akVxUGFvSllpV01FdnMtOVo2aVZmNmFodzFVb3hiX0ZObXplREhabWxhMjlwdU15ak1DRXZqU2JYU0owNTN0THZPdjNzYXl0ZFhqVjJtenNtUg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "中国AI芯片市场英伟达份额33.8%第一",
-   "title_zh": "中国AI芯片：英伟达份额33.8%排第1，华为第2，寒武纪第4 - 搜狐",
-   "sentiment": 1
-  },
-  {
-   "id": "2e622c50d08f",
-   "title": "英伟达疑似“弃游戏保AI”：国内炒到5.4万元 RTX 5090或已停产 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Mejg1Vy1QVVBYbWhESmI1MzVENlhPQUlQdHBhMS02b2pjeDdsT0lWX0RIZEs5OE5SNXB1Q1ZYc2VPckQ3X0FwYk9YOWFsa3ZfRlJUcVlaQUgtNHli",
-   "source": "Moomoo",
-   "published_at": "2026-10-16T01:49:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-16T01:49:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Mejg1Vy1QVVBYbWhESmI1MzVENlhPQUlQdHBhMS02b2pjeDdsT0lWX0RIZEs5OE5SNXB1Q1ZYc2VPckQ3X0FwYk9YOWFsa3ZfRlJUcVlaQUgtNHli"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "疑RTX 5090停产致国内价格炒至5.4万元",
-   "title_zh": "英伟达疑似\"弃游戏保AI\"：国内炒到5.4万元 RTX 5090或已停产",
-   "sentiment": 0
   }
  ]
 }
