@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-16T23:51:32.154597+00:00",
+ "updated_at": "2026-10-17T00:06:32.641540+00:00",
  "market": {
-  "price": 214.13,
-  "change_pct": -1.43,
+  "price": 217.23,
+  "change_pct": -1.84,
   "as_of": "2026-10-16",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 32
   },
   "day_sentiment": {
-   "avg": 0.51,
-   "count": 168
+   "avg": 0.5,
+   "count": 170
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 66% 分位"
+     "note": "现价处于52周区间 70% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +47.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.0%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.51（168条已评分）"
+     "note": "今日新闻情绪 +0.50（170条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $214.13 vs 20日均线 $228.18"
+     "note": "现价 $217.23 vs 20日均线 $228.58"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 66,
+   "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 47.1,
-   "ma20": 228.18,
-   "as_of": "2026-10-16T23:51:32.137213+00:00"
+   "implied_upside_pct": 45.0,
+   "ma20": 228.58,
+   "as_of": "2026-10-17T00:06:32.604301+00:00"
   },
-  "pe_ttm": 27.2,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.1%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.6,
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -77,9 +77,26 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "纳指重挫2.14%！美股AI板块血流成河，英伟达跌1.43%，油价大幅飙高 - 搜狐",
    "zh_summary": "纳指重挫2.14%，英伟达跌1.43%",
+   "title_zh": "纳指重挫2.14%！美股AI板块血流成河，英伟达跌1.43%，油价大幅飙高 - 搜狐",
    "sentiment": -1
+  },
+  {
+   "id": "4ec6ee7e0ae1",
+   "title": "美股讯号 | 英伟达因AI板块下跌而跌 1.43%，本周累计跌幅达 6.34% ｜#美股资讯# #英伟达# #股价波动# - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjNIZ0VQWmp1eUhOMjFvbU5ZMy1mSGhHNmVfUWF6ZlFuOGJkY0JTY0Y5cmwtRmJxZUtNT3FxeVNBNFlpaVBMVzBzS1pJTURkR04zLUFZaG9wUmFzRVl5UzBVMjJwR0JrRUlwWW54VkdPekQtcXVhOFdlbnpVdHNPMTdINnVwdmR0dlRyYQ",
+   "source": "搜狐",
+   "published_at": "2026-10-16T23:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-16T23:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjNIZ0VQWmp1eUhOMjFvbU5ZMy1mSGhHNmVfUWF6ZlFuOGJkY0JTY0Y5cmwtRmJxZUtNT3FxeVNBNFlpaVBMVzBzS1pJTURkR04zLUFZaG9wUmFzRVl5UzBVMjJwR0JrRUlwWW54VkdPekQtcXVhOFdlbnpVdHNPMTdINnVwdmR0dlRyYQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "ba69f0165f76",
@@ -97,8 +114,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "CoreWeave涨价武器和英伟达王牌",
    "zh_summary": "CoreWeave涨价，英伟达成其王牌",
+   "title_zh": "CoreWeave涨价武器和英伟达王牌",
    "sentiment": 1
   },
   {
@@ -6645,26 +6662,6 @@
    "session": "盘中",
    "zh_summary": "黄仁勋称英伟达无需为CoreWeave兜底",
    "title_zh": "黄仁勋：英伟达无需为CoreWeave兜底",
-   "sentiment": 1
-  },
-  {
-   "id": "99ebb687e2f1",
-   "title": "英伟达发布Nemotron 3.5系列模型1200亿参数旗舰与轻量级边缘AI同步亮相- nVIDIA - cnBeta.COM",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HU1cyZHF2aGJ4UEtyXzRDZkV4UGF1NGpWY1RKRHJNcWI0ak9VMGx3TENPZ0ZTY0RUWEVPbWcwV0tSS2t4ZVZFYW1hQjBXalNzUEFwUnR3ZTFoNFplMjRkYQ",
-   "source": "cnBeta.COM",
-   "published_at": "2026-10-15T15:46:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "cnBeta.COM",
-     "published_at": "2026-10-15T15:46:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HU1cyZHF2aGJ4UEtyXzRDZkV4UGF1NGpWY1RKRHJNcWI0ak9VMGx3TENPZ0ZTY0RUWEVPbWcwV0tSS2t4ZVZFYW1hQjBXalNzUEFwUnR3ZTFoNFplMjRkYQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达发布1200亿参数Nemotron模型",
-   "title_zh": "英伟达发布Nemotron 3.5系列1200亿参数模型",
    "sentiment": 1
   }
  ]
