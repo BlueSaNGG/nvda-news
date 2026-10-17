@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T13:36:30.019115+00:00",
+ "updated_at": "2026-10-17T13:51:33.256333+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,12 +10,12 @@
    "days_left": 31
   },
   "day_sentiment": {
-   "avg": 0.52,
-   "count": 29
+   "avg": 0.44,
+   "count": 32
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.52（29条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.44（32条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-17T13:36:30.008685+00:00"
+   "as_of": "2026-10-17T13:51:33.246796+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "cb0c40442e28",
+   "title": "Could NVIDIA AI Acceleration Change The Bull Case For Adobe Stock (ADBE)? - Simply Wall Street",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGIxU0xPQTdMakRXWjhtQmUwZWctcFVINTVDanBGTDA5WVR0UzlZRF9sQjRZakF0dHNGVXk0bUxJaVc1cEtVMlZtWU12SXJkLWZrcWEtYkFWaHlCSEdUeHl1NVNJVmNkMGhUR1laQTRHd2NHQTk1ZEFDTTRzQjFTeWtwdVpLcUtXcnJRWHcxSUdmc3B5Rm41MkRDcTFFbmoybTJXc3plM1dwY2JXZVoxQkVOVC1EVEdjNFNtcVZKWE7SAcYBQVVfeXFMTmNJclpLWUVEYTBkQUNXX2dFLXN1V1V1YURlSnFCeGtpVThhV25KazJKbUdjTTBrSEl6cGtHRkZueGJiRTg0RHRwSHRuT09Oa2Z4YmFVVWxLanNsUkNQb2JUblFpY29sSXBYTWp5YTE0cEJqMnFjNkNDZUdNTmhETjYtTUtsRGUwdUxoWW1ySTNRUFpLZ1pGVWlUaVdWcW1xMUxIdjlGY0w0RS1mTDNVeDM1UC1QSWpCU3hVNzZLZTJTY1NXWFR3",
+   "source": "Simply Wall Street",
+   "published_at": "2026-10-17T13:40:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Simply Wall Street",
+     "published_at": "2026-10-17T13:40:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGIxU0xPQTdMakRXWjhtQmUwZWctcFVINTVDanBGTDA5WVR0UzlZRF9sQjRZakF0dHNGVXk0bUxJaVc1cEtVMlZtWU12SXJkLWZrcWEtYkFWaHlCSEdUeHl1NVNJVmNkMGhUR1laQTRHd2NHQTk1ZEFDTTRzQjFTeWtwdVpLcUtXcnJRWHcxSUdmc3B5Rm41MkRDcTFFbmoybTJXc3plM1dwY2JXZVoxQkVOVC1EVEdjNFNtcVZKWE7SAcYBQVVfeXFMTmNJclpLWUVEYTBkQUNXX2dFLXN1V1V1YURlSnFCeGtpVThhV25KazJKbUdjTTBrSEl6cGtHRkZueGJiRTg0RHRwSHRuT09Oa2Z4YmFVVWxLanNsUkNQb2JUblFpY29sSXBYTWp5YTE0cEJqMnFjNkNDZUdNTmhETjYtTUtsRGUwdUxoWW1ySTNRUFpLZ1pGVWlUaVdWcW1xMUxIdjlGY0w0RS1mTDNVeDM1UC1QSWpCU3hVNzZLZTJTY1NXWFR3"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "f496ad439e1b",
    "title": "叫板英伟达！Bolt Zeus GPU测试芯片零缺陷：路径追踪性能号称超RTX 5090十倍 - 驱动之家",
@@ -77,8 +94,8 @@
    ],
    "category": "产品技术",
    "session": "周末",
-   "title_zh": "叫板英伟达！Bolt Zeus GPU测试芯片零缺陷：路径追踪性能号称超RTX 5090十倍 - 驱动之家",
    "zh_summary": "Bolt Zeus芯片号称超RTX 5090十倍",
+   "title_zh": "叫板英伟达！Bolt Zeus GPU测试芯片零缺陷：路径追踪性能号称超RTX 5090十倍 - 驱动之家",
    "sentiment": 0
   },
   {
@@ -97,8 +114,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "三星电子季度营业利润超越Nvidia，跻身全球第一 提供者 Investing.com - 英为财情 Investing.com",
    "zh_summary": "三星季度营业利润超越英伟达成全球第一",
+   "title_zh": "三星电子季度营业利润超越Nvidia，跻身全球第一 提供者 Investing.com - 英为财情 Investing.com",
    "sentiment": -1
   },
   {
@@ -157,8 +174,8 @@
    ],
    "category": "产品技术",
    "session": "周末",
-   "title_zh": "英伟达正式否认停产GeForce RTX 5090传闻",
    "zh_summary": "英伟达否认RTX 5090停产传闻",
+   "title_zh": "英伟达正式否认停产GeForce RTX 5090传闻",
    "sentiment": 0
   },
   {
@@ -1212,7 +1229,7 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmFaTEdHUV9LOWlib1JRMHJlaU5WRkdpa1lTNzZ6ZmY0OVV0ZTJYanVncmR3ZDNCaGJOcjBHUXlYamZPNi1kclFlSnZ3QktPZ204R3dYb1JuMU5jaFVrNFhGZEQ5Qkk2OE92TDAxQ1cxRTVBZDg0TkR3MVV1YkRsNWRLRHJwTi1RUnotRg",
    "source": "搜狐",
    "published_at": "2026-10-16T23:41:49+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "搜狐",
@@ -1228,6 +1245,11 @@
      "name": "凤凰网",
      "published_at": "2026-10-17T00:19:23+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CS0lyVzBRdkpuME5hOER5S2pJbzhqcjdqeUN1bUdYSWptWV94NlJCalpYdmlCOEZJX1VwR2JKODNBQXdWcEdYeEhLMkMwY3Jv"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-17T13:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdm1tOVhtMmZOcmlIZlcxQjJmdFhoeFlHOGg0ejZEXzlGOXlzeUpheDNjelNZdjlfN19haW9RS0xSbWV5MkY3aDd1U3dDMlpwYk9td18zYndZRmt5OWFvdEVPazN6b3J2R1dNMmZDUy1xNmNpNFo1UzdmQmFVTkJqSnM1cw"
     }
    ],
    "category": "其他",
@@ -1828,8 +1850,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "英伟达和苹果各捐2500万美元建特朗普白宫宴会厅",
    "zh_summary": "英伟达与苹果各捐2500万美元建白宫宴会厅",
+   "title_zh": "英伟达和苹果各捐2500万美元建特朗普白宫宴会厅",
    "sentiment": 0
   },
   {
@@ -6633,26 +6655,6 @@
    "zh_summary": "超微聘任新CFO结束两年寻才",
    "title_zh": "超微在$25亿美元英伟达走私案后聘任新CFO，结束两年搜寻",
    "sentiment": 0
-  },
-  {
-   "id": "47bbaa13c2dd",
-   "title": "NVIDIA (NASDAQ:NVDA) Shares Down 1.8% - Here's What Happened - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0xuLVlSOWFvVDVQN0ZXWWRZTUw5NWJnYXRNQkdGM1hYT1duYUdJRVFrZlh6OVU0anNJcTFQRFBxR1VnZUdBU2NWR1NVQmFBeXktVGRiM1FyYk1lYnByd1Y1ZUR5TFJCR2lJczllQTdrZ1pyU3ZhOFc2X3A2dTlwbnJfaU4tNDZkX25fcFFUZDJOdUc1dnBRNzVuM2N0Z3Q5MVR0QWQ1Y2FrTS1DbHFLMHU3VQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-15T21:23:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-15T21:23:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0xuLVlSOWFvVDVQN0ZXWWRZTUw5NWJnYXRNQkdGM1hYT1duYUdJRVFrZlh6OVU0anNJcTFQRFBxR1VnZUdBU2NWR1NVQmFBeXktVGRiM1FyYk1lYnByd1Y1ZUR5TFJCR2lJczllQTdrZ1pyU3ZhOFc2X3A2dTlwbnJfaU4tNDZkX25fcFFUZDJOdUc1dnBRNzVuM2N0Z3Q5MVR0QWQ1Y2FrTS1DbHFLMHU3VQ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘后",
-   "zh_summary": "英伟达股价下跌1.8%",
-   "title_zh": "英伟达股价下跌1.8%：发生了什么",
-   "sentiment": -1
   }
  ]
 }
