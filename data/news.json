@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T23:21:32.729526+00:00",
+ "updated_at": "2026-10-18T23:36:32.290324+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,8 +10,8 @@
    "days_left": 30
   },
   "day_sentiment": {
-   "avg": 0.28,
-   "count": 61
+   "avg": 0.27,
+   "count": 62
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（61条已评分）"
+     "note": "今日新闻情绪 +0.27（62条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-18T23:21:32.707708+00:00"
+   "as_of": "2026-10-18T23:36:32.258444+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "cb882144b603",
+   "title": "NVIDIA expands AI training and research computing access in Europe | ETIH EdTech News - EdTech Innovation Hub",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOajh6eG9pUUF1TEI0QmRGSVBPUVZyTW5uM2o0NHRjM0tveUpQcFJzMnR3cTlQdjEtQWxVakc3SjQ4dmRrdWxOVDdqMVh0dXlMSHlzdGlxLTdKaU1hQU8yeWsxQXRDNG1JS0lsZDFVRWtxUUdyckw3MzlsTS1YVkZDRmhXX01NcDFEOWt5dlNTUmxybTg2bERHZEhYOHcxU2xfSXV2cDlpMVlIelhDUFlPRmU2T1FmQjFBM1dHOXAxT1hWMElqekE",
+   "source": "EdTech Innovation Hub",
+   "published_at": "2026-10-18T23:31:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "EdTech Innovation Hub",
+     "published_at": "2026-10-18T23:31:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOajh6eG9pUUF1TEI0QmRGSVBPUVZyTW5uM2o0NHRjM0tveUpQcFJzMnR3cTlQdjEtQWxVakc3SjQ4dmRrdWxOVDdqMVh0dXlMSHlzdGlxLTdKaU1hQU8yeWsxQXRDNG1JS0lsZDFVRWtxUUdyckw3MzlsTS1YVkZDRmhXX01NcDFEOWt5dlNTUmxybTg2bERHZEhYOHcxU2xfSXV2cDlpMVlIelhDUFlPRmU2T1FmQjFBM1dHOXAxT1hWMElqekE"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "7a96223c428b",
    "title": "Adobe (ADBE) Could Be 23% Undervalued As Nvidia Partnership Fuels AI Optimism - Simply Wall Street",
@@ -1610,6 +1627,23 @@
    "zh_summary": "德国筹备与英伟达合作大型AI项目",
    "title_zh": "德国筹备与英伟达合作大型人工智能项目 - 新浪网",
    "sentiment": 1
+  },
+  {
+   "id": "51956f96e1cc",
+   "title": "Elon Musk Says Jensen Huang 'Rocks' as SpaceX, Nvidia Team Up on AI Data Centers in Space: ‘Far Better Than Almost Anyone Expects’ - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdDZlRzVyQ1ZRaHRqajVXVFNJckVBeE4xaFR2bUVFcVF0OEVVWVNPakZTcThwRXREY01QY2c0SzdXQXM2RGZvSTdIRzVGY3ZHWWpmSzlMeEhhQnpoUVF6bVdRWmhFblRxOU5iUmdKYmdaTGo4emRVSmExTFdqbWdNM1JlUnRmSURfU01JNEVJNWtldkpRRmc",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-18T00:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-18T00:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdDZlRzVyQ1ZRaHRqajVXVFNJckVBeE4xaFR2bUVFcVF0OEVVWVNPakZTcThwRXREY01QY2c0SzdXQXM2RGZvSTdIRzVGY3ZHWWpmSzlMeEhhQnpoUVF6bVdRWmhFblRxOU5iUmdKYmdaTGo4emRVSmExTFdqbWdNM1JlUnRmSURfU01JNEVJNWtldkpRRmc"
+    }
+   ],
+   "category": "AI需求",
+   "session": "周末"
   },
   {
    "id": "3449ab232ba2",
@@ -4049,7 +4083,6 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "breaking": true,
    "zh_summary": "某项明显指标让英伟达成首选买入",
    "title_zh": "一个显而易见的指标让英伟达成为现在最值得买入的股票",
    "sentiment": 1
@@ -6495,46 +6528,6 @@
    "session": "盘前",
    "zh_summary": "英伟达等发布新开放模型",
    "title_zh": "英伟达、Meta、苹果发布新开放模型",
-   "sentiment": 1
-  },
-  {
-   "id": "b1c9479497c4",
-   "title": "英伟达MGX AI工厂102家生态伙伴解读 - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tekRiZklKeC1mYXctaElfeXl2aXRPdTNLRnBDTVZCaVBJSzFRdnZJU1NUbTU2YWxiVDJKSjg1VDItME5VQzJ0aUhUMDlmUjNEaDhN",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-16T11:49:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-16T11:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tekRiZklKeC1mYXctaElfeXl2aXRPdTNLRnBDTVZCaVBJSzFRdnZJU1NUbTU2YWxiVDJKSjg1VDItME5VQzJ0aUhUMDlmUjNEaDhN"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "解读英伟达MGX AI工厂102家生态伙伴",
-   "title_zh": "英伟达MGX AI工厂102家生态伙伴解读",
-   "sentiment": 0
-  },
-  {
-   "id": "facadcd450ef",
-   "title": "The Zacks Analyst Blog Highlights NVIDIA, Philip Morris International, Home Depot and CPI Aerostructures - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUXljWnJHRERQSXRGd3VJSnl1NkFpNUxsb1lwVXJmOW50YkZDelhrbHNzaU1VQ2R2S2ZadURZZFdyUl94cUIwampSenlac2RReGQtSzdfN0VINGhfZm95SUF3UUJvemNqblNkVjk2QmpYMDZFNGpwalFkb2NSNkJ6VFpqc2doNFRfb2k2dXdwTHFJMTFsMzFEa01RTHZPVmV3Z3Zv",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-16T11:48:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-16T11:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUXljWnJHRERQSXRGd3VJSnl1NkFpNUxsb1lwVXJmOW50YkZDelhrbHNzaU1VQ2R2S2ZadURZZFdyUl94cUIwampSenlac2RReGQtSzdfN0VINGhfZm95SUF3UUJvemNqblNkVjk2QmpYMDZFNGpwalFkb2NSNkJ6VFpqc2doNFRfb2k2dXdwTHFJMTFsMzFEa01RTHZPVmV3Z3Zv"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "Zacks分析师博客点评英伟达等股票",
-   "title_zh": "Zacks分析师博客点评英伟达、菲利普莫里斯等多家公司",
    "sentiment": 1
   }
  ]
