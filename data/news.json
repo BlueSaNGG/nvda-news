@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T00:06:37.548627+00:00",
+ "updated_at": "2026-10-19T00:21:36.082009+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,8 +10,8 @@
    "days_left": 30
   },
   "day_sentiment": {
-   "avg": 0.29,
-   "count": 63
+   "avg": 0.27,
+   "count": 66
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.29（63条已评分）"
+     "note": "今日新闻情绪 +0.27（66条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-19T00:06:37.536777+00:00"
+   "as_of": "2026-10-19T00:21:36.067006+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "3c7f845a9ec5",
+   "title": "科技早报 | iPhone Duo黄牛溢价已有回落；英伟达辟谣RTX 5090停产 - Jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pV0t4cUx3OFN5MDFVTXdwLXBOWnRNd3JLeGNUYnlZck5WSWlVUC1tTTNORkwyN2dwQlJ5Q1NpNVZTSUUxRzNtZmhIbmhDS0E1cC1IdUExMHc",
+   "source": "Jiemian.com",
+   "published_at": "2026-10-19T00:09:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Jiemian.com",
+     "published_at": "2026-10-19T00:09:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pV0t4cUx3OFN5MDFVTXdwLXBOWnRNd3JLeGNUYnlZck5WSWlVUC1tTTNORkwyN2dwQlJ5Q1NpNVZTSUUxRzNtZmhIbmhDS0E1cC1IdUExMHc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "632037d0118e",
+   "title": "本周市场前瞻：Meta等企业财报及英伟达GTC大会成AI交易“大考” 地缘局势持续牵动通胀担忧提供者智通财经 - 英为财情 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRMmQxazF6aXYxOTBNU0w3RHhrT1V4SmlJOXNfNWU0N3hhNXdIQXE1SkQ2UFJOSTFsS0hJaHpRT2xZOXVwOFRvNEotYjNWRWxlRTByYWl6Nm8xbnJuWk5xUS0wb1puc1cxZWlZb1JrOVU",
+   "source": "英为财情 Investing.com",
+   "published_at": "2026-10-18T23:52:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-18T23:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRMmQxazF6aXYxOTBNU0w3RHhrT1V4SmlJOXNfNWU0N3hhNXdIQXE1SkQ2UFJOSTFsS0hJaHpRT2xZOXVwOFRvNEotYjNWRWxlRTByYWl6Nm8xbnJuWk5xUS0wb1puc1cxZWlZb1JrOVU"
+    }
+   ],
+   "category": "财报",
+   "session": "周末"
+  },
   {
    "id": "cb882144b603",
    "title": "NVIDIA expands AI training and research computing access in Europe | ETIH EdTech News - EdTech Innovation Hub",
@@ -277,12 +311,17 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0NTenN0aEZuX19LRDV0RklTZU5TT0JuaTBDbEN6SVotVDFfVWl3WjJEanp4aUNqUlZEenpheEJuNzVDQTB4eUVRRjhsbWJJNWdUMkNURDZYQVVIcUFHTXR6a2JIaXowcHJ4SDI1VkQ2SDZ5MmNUMWY4a1lyUTBuMmZFeWV5SVlDa2l6V3pHd3lFcUhLWUVrNmlHcjVZTjN5dDFsbUJhbkNCNmhu",
    "source": "Autoblog",
    "published_at": "2026-10-18T21:01:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Autoblog",
      "published_at": "2026-10-18T21:01:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0NTenN0aEZuX19LRDV0RklTZU5TT0JuaTBDbEN6SVotVDFfVWl3WjJEanp4aUNqUlZEenpheEJuNzVDQTB4eUVRRjhsbWJJNWdUMkNURDZYQVVIcUFHTXR6a2JIaXowcHJ4SDI1VkQ2SDZ5MmNUMWY4a1lyUTBuMmZFeWV5SVlDa2l6V3pHd3lFcUhLWUVrNmlHcjVZTjN5dDFsbUJhbkNCNmhu"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-18T21:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1waEJ2LVRVOVpRODRNMWRyTkhDdmRvZlVfRmNTUVR2emxPMjViQjFpM0FxcVZ2RmRtUWh2UXNrN3FlQ1lyQTFGTnZMRktDdm5pVEZXaFFxWjdoZHhoV21JaHVscmNyaXRBQkEwMlU2cV9RTDNMYmFiOHFQWmE"
     }
    ],
    "category": "其他",
@@ -2402,6 +2441,23 @@
    "sentiment": 1
   },
   {
+   "id": "0a1d72456a83",
+   "title": "4,356 NVIDIA Corporation $NVDA Shares Sold by M Holdings Securities Inc. - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcGhLMDBjaFFOVm03SHd6UVd0aFhjQkNHS0FxclpzTzBkWm9OQTVGZi03MGtDcklJS3l6NDhtRnZUeHhMNC1mZ3dKWHlIX2dlMHdYdDhkTWZmN0t5QmQzOVlNYkJETDdGWWd0bXBhLVRiVDhTRDVxazY0ZmxPdVpfc1YyY3VmRmRhYjQwdVRRSUVvcEctVkRTSEIzc3ExaTRhbW16dUFqR19tSEdPcmJWWll0VFJsRk4zQjdBTk9uS0s3VG1NSTNGNG5n",
+   "source": "MarketBeat",
+   "published_at": "2026-10-17T14:50:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-17T14:50:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcGhLMDBjaFFOVm03SHd6UVd0aFhjQkNHS0FxclpzTzBkWm9OQTVGZi03MGtDcklJS3l6NDhtRnZUeHhMNC1mZ3dKWHlIX2dlMHdYdDhkTWZmN0t5QmQzOVlNYkJETDdGWWd0bXBhLVRiVDhTRDVxazY0ZmxPdVpfc1YyY3VmRmRhYjQwdVRRSUVvcEctVkRTSEIzc3ExaTRhbW16dUFqR19tSEdPcmJWWll0VFJsRk4zQjdBTk9uS0s3VG1NSTNGNG5n"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "86acfcf5e86f",
    "title": "NVIDIA Corporation $NVDA Stock Acquired by Railway Pension Investments Ltd - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc1lHZjJxSkVsZjlIZU45V1d5TW5EbzhlRTgxNGxQZ1NVT3pXdTlGbGVOcUVhaXFFTk4xSEF1eXlRTm0wOFNxZHQwQ1ZWUHZtTUluOFlEdlY0S3BOQjNIOTFKNjE5bzE2MUhlS05IaDlKMFJmb280ZVpFUWUxRVpNTDE0WDVPd1RMenplb1BTT2VDejdmcUxhM0xIQ0lGZ2JlSnpQTGdodVZjNktObWphODlVVkNiY0w0cTdjQ1h6VUQ5bElvRldvZjN1all2QUk",
@@ -2440,26 +2496,6 @@
    "zh_summary": "Pelham新建NVDA仓位",
    "title_zh": "Pelham Capital新建NVDA投资仓位",
    "sentiment": 1
-  },
-  {
-   "id": "a84bf545adf3",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by NS Partners Ltd - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmlPZXplUlZmR2FVamVwVnFVUUJyZXZPb3hXSGdxMmJxTTRvTGlqMnQxNDBXTDFHeGQwWGZNTTA5WWVBTGZESm9TRHBVMEdYMkR1cVl2QWxQc1V3dDdyS29YTUVvall0OG96dnhVV2cwYnZxM1dETnFmanliZlYtZGRSdnAxTjNiSnZqOVpka1A0dXdMazdzMHNWWHFEbGtYYTJfUkludUl1RUI2WWZhbncyMFFtZw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-17T14:50:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-17T14:50:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmlPZXplUlZmR2FVamVwVnFVUUJyZXZPb3hXSGdxMmJxTTRvTGlqMnQxNDBXTDFHeGQwWGZNTTA5WWVBTGZESm9TRHBVMEdYMkR1cVl2QWxQc1V3dDdyS29YTUVvall0OG96dnhVV2cwYnZxM1dETnFmanliZlYtZGRSdnAxTjNiSnZqOVpka1A0dXdMazdzMHNWWHFEbGtYYTJfUkludUl1RUI2WWZhbncyMFFtZw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "M Holdings减持4356股英伟达",
-   "title_zh": "M Holdings Securities减持4356股英伟达股票",
-   "sentiment": -1
   },
   {
    "id": "8e93c8f40972",
@@ -6481,46 +6517,6 @@
    "zh_summary": "RTX Spark PC今日正式开售",
    "title_zh": "NVIDIA RTX Spark PC今日上市，Windows PC新纪元开端",
    "sentiment": 1
-  },
-  {
-   "id": "f5923d64d9a2",
-   "title": "Nvidia is no longer a PC gaming company. Get used to it - PCWorld",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNclBMYVlvQTFxR3VtcDNHQ1hPbVpzZXdnZU9uNFo1WUUwVEVEeWstTUM4bjhzWklxRTB3VnI2OUdvVThnazhncXFRSXMxZmRfSUFFcExPY016WVBKdXp6WFVKT0FDYXpjZDJVWXd1Y2FXNHlnYTNOUU14ZjJQM1NKUXFRMWRQWXFZRllLdDZLZXMtN1NZc25IS3E2RnltOFdY",
-   "source": "PCWorld",
-   "published_at": "2026-10-16T12:01:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "PCWorld",
-     "published_at": "2026-10-16T12:01:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNclBMYVlvQTFxR3VtcDNHQ1hPbVpzZXdnZU9uNFo1WUUwVEVEeWstTUM4bjhzWklxRTB3VnI2OUdvVThnazhncXFRSXMxZmRfSUFFcExPY016WVBKdXp6WFVKT0FDYXpjZDJVWXd1Y2FXNHlnYTNOUU14ZjJQM1NKUXFRMWRQWXFZRllLdDZLZXMtN1NZc25IS3E2RnltOFdY"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "分析称英伟达已非游戏公司",
-   "title_zh": "英伟达不再是PC游戏公司，请习惯",
-   "sentiment": 0
-  },
-  {
-   "id": "1315cf699a8d",
-   "title": "We need an 'AI police': Should it be Nvidia's Jensen Huang? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0JxdUMtMTFkaVpZNE1lR3ZpMFo4c1ZBTE1OYzhGT3BiaUhfQ1JNYzJESnZjRk51dU5xejVQZG5Ib25JMjlEb0c2YXIxY084RUhMMjhFbUx5R255aXFIRm56a3ZNWWRld3hXMjJsb3hmVjRTbE45bW04OG1ORDZaMXJkaw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-16T12:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-16T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0JxdUMtMTFkaVpZNE1lR3ZpMFo4c1ZBTE1OYzhGT3BiaUhfQ1JNYzJESnZjRk51dU5xejVQZG5Ib25JMjlEb0c2YXIxY084RUhMMjhFbUx5R255aXFIRm56a3ZNWWRld3hXMjJsb3hmVjRTbE45bW04OG1ORDZaMXJkaw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "评论建议黄仁勋担任AI监管者",
-   "title_zh": "我们需要\"AI警察\"：黄仁勋合适吗？",
-   "sentiment": 0
   }
  ]
 }
