@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T01:36:46.819039+00:00",
+ "updated_at": "2026-10-19T01:52:09.551055+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.3,
-   "count": 71
+   "count": 77
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（71条已评分）"
+     "note": "今日新闻情绪 +0.30（77条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-19T01:36:46.802462+00:00"
+   "as_of": "2026-10-19T01:52:09.535170+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "5401c733b5e1",
+   "title": "英伟达承认芯片设计走弯路：单核性能被牺牲多年 智能体AI逼着改回来 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVFhPQldZV2xjbFByM2RGaGJScm5YN2RhNG1oOWxqenR4dFlXT2JxMzBSQ2l4VGpOdzRUbGhOZ1NiaXluYUh0V3h4MVJNcHdwY3NWcXpVX18",
+   "source": "驱动之家",
+   "published_at": "2026-10-19T01:38:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-19T01:38:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVFhPQldZV2xjbFByM2RGaGJScm5YN2RhNG1oOWxqenR4dFlXT2JxMzBSQ2l4VGpOdzRUbGhOZ1NiaXluYUh0V3h4MVJNcHdwY3NWcXpVX18"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
+  {
+   "id": "c345b8869e27",
+   "title": "赶在A股开盘前半小时，公众号发文蹭英伟达概念，上市公司当日股价涨超12%，公司及董秘收监管函 - 金融界",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WN0psck5MMDE3QWJzOEpJVFdIM0phdHo1dnc0UTdzdWxpTkUwQTExNkp6TElkUldOaHB0VVQ5cjZ1WlVyR3VTZE5OaEx3cUxVblFDdk94UTZwZTg3R0VQNUhnbnVPRDI3N1p4RmtTOE1wZw",
+   "source": "金融界",
+   "published_at": "2026-10-19T01:32:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "金融界",
+     "published_at": "2026-10-19T01:32:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WN0psck5MMDE3QWJzOEpJVFdIM0phdHo1dnc0UTdzdWxpTkUwQTExNkp6TElkUldOaHB0VVQ5cjZ1WlVyR3VTZE5OaEx3cUxVblFDdk94UTZwZTg3R0VQNUhnbnVPRDI3N1p4RmtTOE1wZw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "c10e3fa260b8",
    "title": "Nvidia Denies RTX 5090 Dead as GB202 Goes to AI [2026] - tech-insider.org",
@@ -260,6 +294,23 @@
    "zh_summary": "三星或用台积电3纳米为英伟达造HBM基底",
    "title_zh": "三星据悉将采用台积电3纳米工艺为英伟达生产下一代HBM基底裸片 - 搜狐",
    "sentiment": 1
+  },
+  {
+   "id": "923cf1b5b2df",
+   "title": "早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产 - 爱范儿",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5FSERaSHEzdFIwVk1JUnUzMU03UUlXWTR4UnZaQTdsaXJIa0s1WWZERWZkeHFWMW84eURvS0RUTmpKeVk",
+   "source": "爱范儿",
+   "published_at": "2026-10-19T00:00:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "爱范儿",
+     "published_at": "2026-10-19T00:00:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5FSERaSHEzdFIwVk1JUnUzMU03UUlXWTR4UnZaQTdsaXJIa0s1WWZERWZkeHFWMW84eURvS0RUTmpKeVk"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "632037d0118e",
@@ -1077,7 +1128,7 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmx6UGxZZ2tKejFNMVF6dVFZZXduVDdYQzAwRU4tQUt1SkIwNXJWLVYzdVVpVHhTci1QSDZ0QV9fTE9VRmxvenhCcWJsbzc1ZlliUW5QTW5iejI5ZEhsV1hHRi1OWEw3eVNJWFF4azRkQzJJMUxqSmYwMmNyd2ZPT3g1UkFFakloeElieUZOZkdrY3lhODhsZw",
    "source": "The Motley Fool",
    "published_at": "2026-10-18T13:15:33+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -1088,6 +1139,11 @@
      "name": "The Globe and Mail",
      "published_at": "2026-10-18T13:38:39+00:00",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQalNfNWdrWE9PMVBtVzhDUGJQd3VlNkQ0U2QzVXV2QnljUENKY0RxZEFZSnlSOS1hS1dvSi1tcTJJbXUyVW5iQ3pDUUxweWVIci1nUzdLdXpGMjZReG1vODVGQmhwaXdwSTV2QWIxNjZXYXhzS0FleGNROFRHbm9WSDdWYjNiYWR2SklwNHBKQ1BwZ2NpR0ZKbktqMkRrYlVnNnM0RGJWU3Z6UEhwbzdjSEJVSU1LYjZETjNPM3Jkd1A2OFVINmFzWlBEMmdWWjJ4UVBpd0Q5ZWtuMkpMMWhvV1BSalBab0Z1WmM0X0NrN0hfTndX"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-18T13:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFRSOEpDb25mejl3cUJ4X1ZwOW1BX0ZGRXQtQm15NkFKMHhYaDZFV2RwWXVqcjEtQjljNW1iUzlsVGdVR09YMjRLdnhnV0NoVnp3dWI2QWswS0J5MVZCajVjQ0tBS2thdDRaOEFheGJUZXNUWXFuNFZoUW1XN2p1RV9LQm83NTNXSVU3dTEwSWF5c1RM"
     }
    ],
    "category": "其他",
@@ -1420,6 +1476,23 @@
    "zh_summary": "Nykredit增持英伟达股票",
    "title_zh": "Nykredit新买入英伟达股票",
    "sentiment": 0
+  },
+  {
+   "id": "2969261f8b9e",
+   "title": "NVIDIA Corporation $NVDA Shares Acquired by Nan Shan Life Insurance Co. Ltd. - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWpBQ2t1NGNXRWY5dGMyTVlZYU1WZDd0SXdITUsxS1gzLXp5cGpPajlENnhIUlB6MkIyaHRIYTd5TlRHaF90RXJMLS00TlR2Q2pybW9PSnFLbGYyVWV6TFp6OHNTVlpRUzUydUVadzFQV0QxVmcwQkF4aW4zR21hYnRLdVlSVGRZZUxSSnRrWElINHRpcmpCenZZdWlUN1NZaWpTdF9yNW5QUVdIeWpSajVGd1ZzOHc3YUE5T0JmaldVQVhaTUhBU3pvdjNpMmc",
+   "source": "MarketBeat",
+   "published_at": "2026-10-18T09:02:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-18T09:02:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWpBQ2t1NGNXRWY5dGMyTVlZYU1WZDd0SXdITUsxS1gzLXp5cGpPajlENnhIUlB6MkIyaHRIYTd5TlRHaF90RXJMLS00TlR2Q2pybW9PSnFLbGYyVWV6TFp6OHNTVlpRUzUydUVadzFQV0QxVmcwQkF4aW4zR21hYnRLdVlSVGRZZUxSSnRrWElINHRpcmpCenZZdWlUN1NZaWpTdF9yNW5QUVdIeWpSajVGd1ZzOHc3YUE5T0JmaldVQVhaTUhBU3pvdjNpMmc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "f89c3ca11d98",
@@ -4499,6 +4572,23 @@
    "sentiment": 1
   },
   {
+   "id": "9313161654ca",
+   "title": "NVIDIA (NASDAQ:NVDA) Shares Down 1.4% - Here's What Happened - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLU1za2psc0lCOUxhWUJHc3J1UXVkWEM3TUU5LW51OWV5cEo0ZnBTVU83OVJ1TmxpV2tFR29nQnpPYm5SSXpaVUJ2ZGF3Z3Y4V3JscWc5RmlHTUp1WmRMdUUxUXZZRGNkSEV3TmREZHN1RFN4dm1kazAtSDRSVXhMem9icDlWRFRndmZHd1UzVkhDbVd4TVpTc2FWRkJuamktLXJqRFZaM0JaWnNHQk1YS2V1SQ",
+   "source": "MarketBeat",
+   "published_at": "2026-10-16T21:46:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-16T21:46:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLU1za2psc0lCOUxhWUJHc3J1UXVkWEM3TUU5LW51OWV5cEo0ZnBTVU83OVJ1TmxpV2tFR29nQnpPYm5SSXpaVUJ2ZGF3Z3Y4V3JscWc5RmlHTUp1WmRMdUUxUXZZRGNkSEV3TmREZHN1RFN4dm1kazAtSDRSVXhMem9icDlWRFRndmZHd1UzVkhDbVd4TVpTc2FWRkJuamktLXJqRFZaM0JaWnNHQk1YS2V1SQ"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘后"
+  },
+  {
    "id": "0e83da73a76f",
    "title": "英伟达每日2倍做多ETF收跌3.03%，成交额2.6亿美元 - 新浪网",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTi1ncmRjMHo5MnhqdFVia21DNXpzMDR2LWMwWWVNR0p4NVZVd1l6dEtWSE1sWmZIYTBZNDVyOU1RSWdMdjF2SF9qeGFLRm54bkZmYVJESDBUMGZfN29CS2tIbzVETC15NVo3SzhWak5GTnBLUTJCY1k3a09lSW82WVRB",
@@ -6451,106 +6541,6 @@
    "zh_summary": "Navan将部署英伟达Nemotron模型",
    "title_zh": "Navan推进开放模型战略部署英伟达Nemotron 3.5",
    "sentiment": 1
-  },
-  {
-   "id": "f1f5bf2cc4c1",
-   "title": "SimBioSys nabs FDA clearance for Nvidia-powered, MRI-derived breast cancer recurrence tool - Fierce Biotech",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3ptWXRFYm1BdVcxdlVmdXQ0WjNkRTdBa3RsckdBUXRYLXZaR3lKYThXMDJvR19NaGdabjFQZzNSQ0pnTnhtZGJiM0Fxbkg2ZmVKNVkxNlNlU3BjSXhHQmt0LXRhRjVNeFFhN2Z3bUFzZ3hfNUNlRmZvUWZibHYtcE9hS3d0QnE2ZEVickU5Z0ZWSk1ZU0VqdVctZEVYbTlDa1d3dFlSNzB2TXBHOW95cDZqZnNLLVR4eVJPWjRWNWQ",
-   "source": "Fierce Biotech",
-   "published_at": "2026-10-16T13:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Fierce Biotech",
-     "published_at": "2026-10-16T13:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3ptWXRFYm1BdVcxdlVmdXQ0WjNkRTdBa3RsckdBUXRYLXZaR3lKYThXMDJvR19NaGdabjFQZzNSQ0pnTnhtZGJiM0Fxbkg2ZmVKNVkxNlNlU3BjSXhHQmt0LXRhRjVNeFFhN2Z3bUFzZ3hfNUNlRmZvUWZibHYtcE9hS3d0QnE2ZEVickU5Z0ZWSk1ZU0VqdVctZEVYbTlDa1d3dFlSNzB2TXBHOW95cDZqZnNLLVR4eVJPWjRWNWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "SimBioSys获FDA许可，英伟达技术驱动",
-   "title_zh": "SimBioSys获FDA许可，乳腺癌复发工具由英伟达技术驱动",
-   "sentiment": 1
-  },
-  {
-   "id": "e29415cb469c",
-   "title": "NVIDIA’s AI model matched or beat rivals on six of seven measures in Navan’s tests. - Stock Titan",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVWZCQkNubF9xS2xkUnhoZ2dzeFhyX25rQ3pPX1p4Vng4Wlp6aXk4b3pjOG9OVlVESk5hNTZTc3M5YVJuaDJFT2hhTUprNGE4WnJGOGg4dTBZaUgwTnpTTFNDSDNyUE1kOWNHaS1vV2gwM185Sy1NTXNnTHRSWEcyaU5MbEgtMGxqSkpLMWxoVmFNWVYzWnk1WmtvN0V4SlotVHQ3Y2xreUxvY3BhVmlvOHd2MmxtLUh5b0E",
-   "source": "Stock Titan",
-   "published_at": "2026-10-16T13:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stock Titan",
-     "published_at": "2026-10-16T13:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVWZCQkNubF9xS2xkUnhoZ2dzeFhyX25rQ3pPX1p4Vng4Wlp6aXk4b3pjOG9OVlVESk5hNTZTc3M5YVJuaDJFT2hhTUprNGE4WnJGOGg4dTBZaUgwTnpTTFNDSDNyUE1kOWNHaS1vV2gwM185Sy1NTXNnTHRSWEcyaU5MbEgtMGxqSkpLMWxoVmFNWVYzWnk1WmtvN0V4SlotVHQ3Y2xreUxvY3BhVmlvOHd2MmxtLUh5b0E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达AI模型在六项测试中击败对手",
-   "title_zh": "英伟达AI模型在Navan测试中六项指标达到或超越对手",
-   "sentiment": 1
-  },
-  {
-   "id": "3222199d3837",
-   "title": "德国或下周宣布英伟达AI合作，规模达数亿欧元！ - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSjdGN0xxVDJ4b0Q3TFBDcGRMamUweDJGREg4WHJCdTNuWWsweDItRjR4Vk93Y2NBTmNNdVlydWFBQjZveG1fTmdMNFoza1VCNmNOdnBxMEpHRFpoNTZCR0xjbmNuZUlnQnRGTHZ3Ymd1bi0tbTNrWExIaW1kNG5CNHNZbXoycjJYRmxBUDhZdENkUV8tc3hkVDBpMjA2ZW5xd3c",
-   "source": "富途牛牛",
-   "published_at": "2026-10-16T12:56:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-16T12:56:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSjdGN0xxVDJ4b0Q3TFBDcGRMamUweDJGREg4WHJCdTNuWWsweDItRjR4Vk93Y2NBTmNNdVlydWFBQjZveG1fTmdMNFoza1VCNmNOdnBxMEpHRFpoNTZCR0xjbmNuZUlnQnRGTHZ3Ymd1bi0tbTNrWExIaW1kNG5CNHNZbXoycjJYRmxBUDhZdENkUV8tc3hkVDBpMjA2ZW5xd3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "德国或下周宣布英伟达AI合作",
-   "title_zh": "德国或下周宣布英伟达AI合作，规模达数亿欧元！ - 富途牛牛",
-   "sentiment": 1
-  },
-  {
-   "id": "b19a978f499c",
-   "title": "‘Most important strategic partner’: Mercedes’ Nvidia self-driving deal - The Next Web",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKN1Bta0tlckhUSElCQXhKblhKb3pDSzM3c3cxdFZqRFZMZXI3UmxabXRWbDVrWWt3VXlQMmlnMDJ1NU5GMldnUE5pTFBjaEx3TExabUtoQVdIejdiZ0haZXZSSjRIaHhIdm5vVG9LaFhOWUFySFE",
-   "source": "The Next Web",
-   "published_at": "2026-10-16T12:56:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Next Web",
-     "published_at": "2026-10-16T12:56:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKN1Bta0tlckhUSElCQXhKblhKb3pDSzM3c3cxdFZqRFZMZXI3UmxabXRWbDVrWWt3VXlQMmlnMDJ1NU5GMldnUE5pTFBjaEx3TExabUtoQVdIejdiZ0haZXZSSjRIaHhIdm5vVG9LaFhOWUFySFE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "奔驰与英伟达达成自动驾驶合作",
-   "title_zh": "奔驰与英伟达自动驾驶合作，被称为最重要的战略伙伴",
-   "sentiment": 1
-  },
-  {
-   "id": "c22da66a04fb",
-   "title": "Nvidia Stock: Jensen Can't Spend His Way Out Of This One (NASDAQ:NVDA) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWJLUnJzR2ZXQlhEOVc0RkpwWDktb0xpVzNHeGhCN1hCbHhGaVowd1hSMWNLMmNLOTljVlN6NE1DMkVRd29EZl9TQW5sd0FIUFF2T0lVcVFTcXBLcVhsUjBhNzJ4bHVpNVhKZ1FoQnVRVlJ5ekhiWU10djhucFZUVC10d3l1XzdVT0tTLVNyTkVtYzQ",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-16T12:49:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-16T12:49:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWJLUnJzR2ZXQlhEOVc0RkpwWDktb0xpVzNHeGhCN1hCbHhGaVowd1hSMWNLMmNLOTljVlN6NE1DMkVRd29EZl9TQW5sd0FIUFF2T0lVcVFTcXBLcVhsUjBhNzJ4bHVpNVhKZ1FoQnVRVlJ5ekhiWU10djhucFZUVC10d3l1XzdVT0tTLVNyTkVtYzQ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "分析称黄仁勋难靠支出脱困",
-   "title_zh": "英伟达：黄仁勋靠砸钱也摆脱不了困境",
-   "sentiment": -1
   }
  ]
 }
