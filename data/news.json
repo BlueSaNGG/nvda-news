@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T17:36:32.934871+00:00",
+ "updated_at": "2026-10-19T17:51:29.456437+00:00",
  "market": {
-  "price": 217.65,
-  "change_pct": 1.64,
+  "price": 216.97,
+  "change_pct": 1.33,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 29
   },
   "day_sentiment": {
-   "avg": 0.38,
-   "count": 155
+   "avg": 0.39,
+   "count": 158
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 71% 分位"
+     "note": "现价处于52周区间 70% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +44.7%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.38（155条已评分）"
+     "note": "今日新闻情绪 +0.39（158条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.65 vs 20日均线 $227.69"
+     "note": "现价 $216.97 vs 20日均线 $227.66"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 71,
+   "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 44.7,
-   "ma20": 227.69,
-   "as_of": "2026-10-19T17:36:32.924634+00:00"
+   "implied_upside_pct": 45.2,
+   "ma20": 227.66,
+   "as_of": "2026-10-19T17:51:29.445007+00:00"
   },
-  "pe_ttm": 27.7,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.7%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.6,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,17 +62,56 @@
  },
  "stories": [
   {
+   "id": "6a3fe42e25c1",
+   "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs - The Robot Report",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWEdjTkNaU0JmNXhnTHpmNGNXNnpXUlBpMjZJTHBlcUxGcEZtVHZTd2tjeHZnT1phbkg2ZUpfanFRcVQxeWI1UVd0dV9iTnRxMmFRUXZ0Mmw0SjBKc0NFSmRDbDdseGhraFdQbDFQSklqc0pMXzRHYTRCa05DZkVQWUVVaVRMUnpXS2ZxSmRjd3QtdWFaeUg4czBFSDNSdmhrdDdvWloxYVB3Y1ktQ0c0TjZJUWVQOEpuTEU5dDJLRjlwc25SdWZoeVM0dXpfNHVEeXd5ak9HakxER1p5",
+   "source": "The Robot Report",
+   "published_at": "2026-10-19T17:42:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Robot Report",
+     "published_at": "2026-10-19T17:42:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWEdjTkNaU0JmNXhnTHpmNGNXNnpXUlBpMjZJTHBlcUxGcEZtVHZTd2tjeHZnT1phbkg2ZUpfanFRcVQxeWI1UVd0dV9iTnRxMmFRUXZ0Mmw0SjBKc0NFSmRDbDdseGhraFdQbDFQSklqc0pMXzRHYTRCa05DZkVQWUVVaVRMUnpXS2ZxSmRjd3QtdWFaeUg4czBFSDNSdmhrdDdvWloxYVB3Y1ktQ0c0TjZJUWVQOEpuTEU5dDJLRjlwc25SdWZoeVM0dXpfNHVEeXd5ak9HakxER1p5"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "1ee05cb80e66",
+   "title": "Nvidia (NVDA) Stock Price Lags Massive Earnings Growth—A Compelling Value Opportunity - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWtGVi1wUVdnVHBCcFd5WFo4VWRRbWdYYjhjZ0tCaEVmT3M2YzJkMmN6VTJEUzFXdlhEWFhBcVBGMjJ3MFAtNkFMRWtNaHU4YzdiMzRhbm44MXBxcnAzdzlHcFZwSTRrVGRlWmg5ZWFDcVlSSG5qbTVscC1qY21HTm90Vm1SSDh0N0dHVm9TcnVfOXRKZzh5Tw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T17:32:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T17:32:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWtGVi1wUVdnVHBCcFd5WFo4VWRRbWdYYjhjZ0tCaEVmT3M2YzJkMmN6VTJEUzFXdlhEWFhBcVBGMjJ3MFAtNkFMRWtNaHU4YzdiMzRhbm44MXBxcnAzdzlHcFZwSTRrVGRlWmg5ZWFDcVlSSG5qbTVscC1qY21HTm90Vm1SSDh0N0dHVm9TcnVfOXRKZzh5Tw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "532819534f3e",
    "title": "德国总理默茨：英伟达计划在德国投资数十亿美元。 - 手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEUGViNnNsN2JfN0p5V2RHbTl0ZG1oS2hsNU9kYWgzV21SVWxnRjRHLWFnb2QwU3VfM1lNZ0xVVDk3cTVvX01VdGdzOA",
    "source": "手机新浪网",
    "published_at": "2026-10-19T17:30:44+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "手机新浪网",
      "published_at": "2026-10-19T17:30:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEUGViNnNsN2JfN0p5V2RHbTl0ZG1oS2hsNU9kYWgzV21SVWxnRjRHLWFnb2QwU3VfM1lNZ0xVVDk3cTVvX01VdGdzOA"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-19T17:34:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTXFpN2FmaTRoSUZlQXpVay1UMlVIc25GbnA1eTEyNlpuRkZVNGdzSTNfcmFSOTQ1bmhHaVphQ2pvcFIwNmMwWXNaVXNrWWtSTm5yR0F6TkJKMWlhX1Q5NnFvZVJib2V0bXUtNU9JSGxoS2VreDd6NjR3elI3dFk0NHBqNkxOM0UwTUVVWUdDZWM3YnJvdllQd2wwZ2VLaE9hQnlYMUlzNA"
     }
    ],
    "category": "其他",
@@ -270,6 +309,23 @@
    "zh_summary": "Chamath称连谷歌也因英伟达求内存",
    "title_zh": "Chamath：连谷歌都因英伟达而\"乞讨内存\"",
    "sentiment": 1
+  },
+  {
+   "id": "4d6637f6eab5",
+   "title": "Nvidia says the RTX 5090 isn't discontinued, but most listings are over $9,300 - TechSpot",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHozeWhrYk5mWHZ6d3ZvWlk2SDNyN3NTVkNuVXlSMFNzSkFCdnlWb3NJSDU2clNraGhNUWo4VDBDZHVRTVBKQi1faUhMUm5vRzZnbVlBUTUyUUlXVVpjN0VNUU9PQW5CYUYtOTluSEFELWRRbEY0Tm1HdU5rSkp5c2VsQkJxNnpaYW9yWm95NzhqRHNjNGc",
+   "source": "TechSpot",
+   "published_at": "2026-10-19T16:14:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechSpot",
+     "published_at": "2026-10-19T16:14:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHozeWhrYk5mWHZ6d3ZvWlk2SDNyN3NTVkNuVXlSMFNzSkFCdnlWb3NJSDU2clNraGhNUWo4VDBDZHVRTVBKQi1faUhMUm5vRzZnbVlBUTUyUUlXVVpjN0VNUU9PQW5CYUYtOTluSEFELWRRbEY0Tm1HdU5rSkp5c2VsQkJxNnpaYW9yWm95NzhqRHNjNGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "d39f17489f5e",
@@ -6581,66 +6637,6 @@
    "session": "周末",
    "zh_summary": "德国筹备与英伟达合作大型AI项目",
    "title_zh": "德国筹备与英伟达合作大型人工智能项目 - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "51956f96e1cc",
-   "title": "Elon Musk Says Jensen Huang 'Rocks' as SpaceX, Nvidia Team Up on AI Data Centers in Space: ‘Far Better Than Almost Anyone Expects’ - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdDZlRzVyQ1ZRaHRqajVXVFNJckVBeE4xaFR2bUVFcVF0OEVVWVNPakZTcThwRXREY01QY2c0SzdXQXM2RGZvSTdIRzVGY3ZHWWpmSzlMeEhhQnpoUVF6bVdRWmhFblRxOU5iUmdKYmdaTGo4emRVSmExTFdqbWdNM1JlUnRmSURfU01JNEVJNWtldkpRRmc",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-18T00:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-18T00:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdDZlRzVyQ1ZRaHRqajVXVFNJckVBeE4xaFR2bUVFcVF0OEVVWVNPakZTcThwRXREY01QY2c0SzdXQXM2RGZvSTdIRzVGY3ZHWWpmSzlMeEhhQnpoUVF6bVdRWmhFblRxOU5iUmdKYmdaTGo4emRVSmExTFdqbWdNM1JlUnRmSURfU01JNEVJNWtldkpRRmc"
-    }
-   ],
-   "category": "AI需求",
-   "session": "周末",
-   "zh_summary": "SpaceX与英伟达合作太空AI数据中心",
-   "title_zh": "马斯克称黄仁勋'很牛'，SpaceX与英伟达合作太空AI数据中心",
-   "sentiment": 1
-  },
-  {
-   "id": "b48e613be852",
-   "title": "英伟达官方平台下架RTX 5090 零售商正加速清库存 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45bHFPdExwUGpITDJSM0U4SWtiSV9DY2xxQmRfVWdveU1xaUVXRU96MkJ3eHF0ZTN6YWo0U01TZldnY3V4ZkNVTGJDdC1leEljeDlzTkpRUG4",
-   "source": "驱动之家",
-   "published_at": "2026-10-18T00:08:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-18T00:08:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45bHFPdExwUGpITDJSM0U4SWtiSV9DY2xxQmRfVWdveU1xaUVXRU96MkJ3eHF0ZTN6YWo0U01TZldnY3V4ZkNVTGJDdC1leEljeDlzTkpRUG4"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达官方平台下架RTX 5090，零售商清库存",
-   "title_zh": "英伟达官方平台下架RTX 5090 零售商正加速清库存 - 驱动之家",
-   "sentiment": -1
-  },
-  {
-   "id": "3449ab232ba2",
-   "title": "How Nvidia Could Make $150 Billion Look Small - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUFdsamNWSmhkU1VYem1fX3NkalE1cjBtWEtLbENaYURTZ1lRaDBoX2s4LUdnWk5hMlV0b0FVcERKck9fUXM0amZuVkk5ZEJkOEVmZUtHeXg0Y0REcEtUakhuVlNTUWo3bm84ZzFoa1h3OUhWU0VIQkpwQkwtcnFGTXJiS1dpNzM0SWc3WDVjOVZMeVlW",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-18T00:07:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-18T00:07:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUFdsamNWSmhkU1VYem1fX3NkalE1cjBtWEtLbENaYURTZ1lRaDBoX2s4LUdnWk5hMlV0b0FVcERKck9fUXM0amZuVkk5ZEJkOEVmZUtHeXg0Y0REcEtUakhuVlNTUWo3bm84ZzFoa1h3OUhWU0VIQkpwQkwtcnFGTXJiS1dpNzM0SWc3WDVjOVZMeVlW"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "分析称英伟达增长潜力远超1500亿美元",
-   "title_zh": "Motley Fool：英伟达增长可使1500亿美元相形见绌",
    "sentiment": 1
   }
  ]
