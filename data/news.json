@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T08:51:29.057802+00:00",
+ "updated_at": "2026-10-19T09:06:31.236762+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,8 +10,8 @@
    "days_left": 29
   },
   "day_sentiment": {
-   "avg": 0.56,
-   "count": 45
+   "avg": 0.55,
+   "count": 49
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.56（45条已评分）"
+     "note": "今日新闻情绪 +0.55（49条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-19T08:51:29.042065+00:00"
+   "as_of": "2026-10-19T09:06:31.225055+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "5b800d24d458",
+   "title": "英伟达：消费级GPU短缺并非我们所能控制 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oTE84ZC03YWpMYzB2bXFHN0ZpRXd4cDdxZ3A0TFA4TUI2Y1J0R09rclN2YS0tSEMyMzJtTVFmMG1NcVNvYWlrcmJidw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-19T08:48:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-19T08:48:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oTE84ZC03YWpMYzB2bXFHN0ZpRXd4cDdxZ3A0TFA4TUI2Y1J0R09rclN2YS0tSEMyMzJtTVFmMG1NcVNvYWlrcmJidw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "3e52d1dedf52",
    "title": "Nvidia RTX Spark N1X 20-Core Processor - Benchmarks and Specs - Notebookcheck",
@@ -80,6 +97,23 @@
    "zh_summary": "英伟达RTX Spark N1X 20核跑分公布",
    "title_zh": "英伟达RTX Spark N1X 20核处理器跑分与规格解析",
    "sentiment": 0
+  },
+  {
+   "id": "768ff1788cb3",
+   "title": "Nvidia CEO among top business execs to attend German investment summit - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORERwcE9BUnFELVpON3VSYXVMWmJWd0JLTWw0NEpISVV6NFliQjZBaWl3QXpVcG8xQUNuNHdQMDBaSHN0UDE3NlRQdnNfaklxQkk4dUpCTnNPaTJDbm9pa20xb253YjlPcnVOSmRReDk1WHZsd3JOb3RXT3ZxcTk2ZnhYd2FXU1FhV2xmLW8xNURubDk4SER2T05R",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T08:33:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T08:33:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORERwcE9BUnFELVpON3VSYXVMWmJWd0JLTWw0NEpISVV6NFliQjZBaWl3QXpVcG8xQUNuNHdQMDBaSHN0UDE3NlRQdnNfaklxQkk4dUpCTnNPaTJDbm9pa20xb253YjlPcnVOSmRReDk1WHZsd3JOb3RXT3ZxcTk2ZnhYd2FXU1FhV2xmLW8xNURubDk4SER2T05R"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "4af7d660cd87",
@@ -272,7 +306,7 @@
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcTFXNk1PWDdHUERoeWd6blBpdVkyUW9YaHBGMHg5bl9vV0M3T1JyeV94YVk2WU9vM3BUWFA5QnFVTDRTQjZTZTdEM3pwT0x0UzZVNW1vM2RZendJcFlOcjhLWnB0WXRYSVV3TW9jNmd0NzdCc2hwWWkzc0J1SDg3UUNkWEh4NzlpUy10cmNEUWZLbFljNWZHSXl5Q08wRXBYeENnZjlxR2c0U0U3N0NnVDBjNmFvTWVqLWx6YV9GaF8ySHRwN0V1R3NnblROSnd2VTduY1FiYjlsTkE4NFB5NEQ4bW8",
    "source": "Business Wire",
    "published_at": "2026-10-19T08:00:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Business Wire",
@@ -283,6 +317,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-19T08:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWszUHE2Nl9IQ2dlUGVrYmFEUV8xaGRKcGF0bzlhNk9LZDdPODRVTGpBUnctcmhZdWNXY0R6OG5wQmJkcXVnSVlXN3YxS3FMaHhHc0U0dVZDSm13b3U1dFFXRDZRTVVCamhDWUxVV2kzVjhkeGdwWlMxVmpmZnRhWGV5bTZnWFQ0UUl3S2ZLcWxnZ1lMVTNnZmlR"
+    },
+    {
+     "name": "AFP.com",
+     "published_at": "2026-10-19T08:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeTdEaGEyWWlfd1RDajB1QU1KMWVKQ3JBTGZER0Zqc0RjcjVJUk1HakFTZGJVWkkzWUhSTi1nM0tGMjNENzdGc0VJZHVxVjFJamt0S1ZzRjZLZnlhUjVzbnRTb3prQ2pqbzlxZ0FQTEJpZnBWTDF6eTBmOXkxZkgxSzJwUENiY0pCM3NteS1qbzhucTFXeGFFUVFSdWpKR0w2MzFhLU1sYUhLZm9FQlBsTlNtWEZ4MWZjWi1YRHpR"
     }
    ],
    "category": "其他",
@@ -1517,7 +1556,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVFhPQldZV2xjbFByM2RGaGJScm5YN2RhNG1oOWxqenR4dFlXT2JxMzBSQ2l4VGpOdzRUbGhOZ1NiaXluYUh0V3h4MVJNcHdwY3NWcXpVX18",
    "source": "驱动之家",
    "published_at": "2026-10-19T01:38:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "驱动之家",
@@ -1533,10 +1572,16 @@
      "name": "新浪财经",
      "published_at": "2026-10-19T01:53:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DY2ZEc1ZtTDU5amU2MF9abnk0U3Y1STQzazM2UjRQa0hCNUpWVkhJQXZURkp3MlEwNk1ZSDR0UVlRVVAtb3l4dlQ4ak5kRDI3VEY2WHdwSkdxaXl0YlhUZ0dISTQxVjRZc0ZmWjBZUmt6V3pqdDJmNHRodmc"
+    },
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-19T01:38:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yZC13QVFrUmZMRWJEaFg4bk9xcmlhSDQ3aUd3MkJTQVlHOEF4TnJJN19LYlNWTU13WmZILWZDTnZ3alh5UzFDYQ"
     }
    ],
    "category": "产品技术",
    "session": "周末",
+   "breaking": true,
    "zh_summary": "英伟达承认芯片单核性能被牺牲多年",
    "title_zh": "英伟达承认芯片设计走弯路：单核性能被牺牲多年 智能体AI逼着改回来 - 驱动之家",
    "sentiment": 0
@@ -6554,46 +6599,6 @@
    "session": "盘后",
    "zh_summary": "黄仁勋：AI市场动荡终将过去",
    "title_zh": "英伟达CEO：AI市场动荡终将过去",
-   "sentiment": 0
-  },
-  {
-   "id": "035ad2018646",
-   "title": "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price - The Register",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdXY2Z3RYZHhkN2pxdDRkWWQ0czZEcmVoa3FxUFdUMDc3M3pqTE9nWmZCQXYtU0tKSUdRUUpXTDlzMDczSVhWeTQyM3BlYUN5T3lBeXBpQjJhMkVtRUw5V3VfSFNaZ3EtdTV0anhLNEZBREtSeVFXQVo2UHJrdlVRQURKTW9uVGFHM1dVSkxDOVg5Q0Q5aGF5bEswbURkTWJUc3J2WFZCcC1RSjVjMXJ0aU5hb202QlVfOERJbGc0RW1UUjJTXzlHSVl4QU5WcWIwdmMzMll5NTdJWW82",
-   "source": "The Register",
-   "published_at": "2026-10-16T20:31:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Register",
-     "published_at": "2026-10-16T20:31:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdXY2Z3RYZHhkN2pxdDRkWWQ0czZEcmVoa3FxUFdUMDc3M3pqTE9nWmZCQXYtU0tKSUdRUUpXTDlzMDczSVhWeTQyM3BlYUN5T3lBeXBpQjJhMkVtRUw5V3VfSFNaZ3EtdTV0anhLNEZBREtSeVFXQVo2UHJrdlVRQURKTW9uVGFHM1dVSkxDOVg5Q0Q5aGF5bEswbURkTWJUc3J2WFZCcC1RSjVjMXJ0aU5hb202QlVfOERJbGc0RW1UUjJTXzlHSVl4QU5WcWIwdmMzMll5NTdJWW82"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达RTX Spark笔记本本地AI算力实测",
-   "title_zh": "英伟达RTX Spark笔记本实测：本地AI算力强劲但价格不菲",
-   "sentiment": 1
-  },
-  {
-   "id": "03cfa63c7b80",
-   "title": "英伟达期权聚焦：10月16日成交335.21万张，未平仓合约1,618.86万张 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNklpSy1ZRGgyWXd6SGJWMVNHUlNrdlVJYjRQQ0dKTDVEQWh2LUY3RVBPRF9yM1RJTVRiQkF3WU94WWhzdkcyODdpR2pqWTZnUTB5TUw5WmJ5ZEJiVnZTX216TzlOcTAyb2dqMll5bTkyRllOQlRZcEhPME1lV0dqS3NyN2owbW9EVUIwQWVTR2ZiTjBCamRPTGpSeWVJMGx0QVE",
-   "source": "Moomoo",
-   "published_at": "2026-10-16T20:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-16T20:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNklpSy1ZRGgyWXd6SGJWMVNHUlNrdlVJYjRQQ0dKTDVEQWh2LUY3RVBPRF9yM1RJTVRiQkF3WU94WWhzdkcyODdpR2pqWTZnUTB5TUw5WmJ5ZEJiVnZTX216TzlOcTAyb2dqMll5bTkyRllOQlRZcEhPME1lV0dqS3NyN2owbW9EVUIwQWVTR2ZiTjBCamRPTGpSeWVJMGx0QVE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "10月16日英伟达期权成交335.21万张",
-   "title_zh": "英伟达期权聚焦：10月16日成交335.21万张，未平仓合约1,618.86万张 - Moomoo",
    "sentiment": 0
   }
  ]
