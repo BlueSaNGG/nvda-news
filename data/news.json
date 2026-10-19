@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T13:36:28.619323+00:00",
+ "updated_at": "2026-10-19T13:51:32.133275+00:00",
  "market": {
-  "price": 215.85,
-  "change_pct": 0.8,
+  "price": 215.62,
+  "change_pct": 0.7,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,12 +10,12 @@
    "days_left": 29
   },
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 106
+   "avg": 0.38,
+   "count": 112
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -25,34 +25,34 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.9%"
+     "note": "目标价中位数 $315（15家），隐含空间 +46.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（106条已评分）"
+     "note": "今日新闻情绪 +0.38（112条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $215.85 vs 20日均线 $227.60"
+     "note": "现价 $215.62 vs 20日均线 $227.59"
     },
     {
      "key": "分析师动向",
-     "score": 0,
-     "note": "近14天无分析师动作"
+     "score": 1,
+     "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
    "price_52w_pct": 68,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.9,
-   "ma20": 227.6,
-   "as_of": "2026-10-19T13:36:28.607650+00:00"
+   "implied_upside_pct": 46.1,
+   "ma20": 227.59,
+   "as_of": "2026-10-19T13:51:32.122117+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,46 @@
   }
  },
  "stories": [
+  {
+   "id": "f34892ae0e8d",
+   "title": "Intel and AMD Rise 4% as JPMorgan Upgrades Intel After Steep Pullback; NVIDIA Edges Higher - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlJVZGtGZ0s2aHdPTTNMczRITmZ3ZmxkVU5sdkxvMlVwclNyX1Y4cExOYjFmZXd6SWRTandUdzJNdnhmUUJqV2pBc3duZ25uYjdFSzBIUkZQR0dNbkdFTUw4ZFRfUGVrTEtETGxmLU9oVkROMHhjc0tYUm9NR2IxUnllaFpGU0wyYlNuU0tVcy1Fekot",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T13:36:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T13:36:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlJVZGtGZ0s2aHdPTTNMczRITmZ3ZmxkVU5sdkxvMlVwclNyX1Y4cExOYjFmZXd6SWRTandUdzJNdnhmUUJqV2pBc3duZ25uYjdFSzBIUkZQR0dNbkdFTUw4ZFRfUGVrTEtETGxmLU9oVkROMHhjc0tYUm9NR2IxUnllaFpGU0wyYlNuU0tVcy1Fekot"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中",
+   "analyst": {
+    "firm": "JPMorgan",
+    "action": "上调",
+    "target": null,
+    "rating": null
+   }
+  },
+  {
+   "id": "308dfe70d4a1",
+   "title": "Nvidia Has $62 Billion in Cash and a Lower P/E. Is It a Buy? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQV9NNEJxTzNwRlFRa1FST2dITHZpbEVfWU9CUEtaUmF4a3U3NXJYSjNQRHlfUkQtdDk0NXhSNlJuZ0ZFQTJIaHJGY25ZczFEMkRsOURBbzVUVkJ3R1FpdjBvUk5HaVEybVo4dGJjdVdXVVg5SjYzWTVPVDdWNVBfN090TlZNcjdTZmhnLTg5LTFYdHBud3d6cg",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T13:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T13:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQV9NNEJxTzNwRlFRa1FST2dITHZpbEVfWU9CUEtaUmF4a3U3NXJYSjNQRHlfUkQtdDk0NXhSNlJuZ0ZFQTJIaHJGY25ZczFEMkRsOURBbzVUVkJ3R1FpdjBvUk5HaVEybVo4dGJjdVdXVVg5SjYzWTVPVDdWNVBfN090TlZNcjdTZmhnLTg5LTFYdHBud3d6cg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "4791cf4c636f",
    "title": "Amazon challenges Nvidia’s software advantage with new tool for its AI chips - GeekWire",
@@ -6533,46 +6573,6 @@
    "zh_summary": "SpaceX AI转型隐含英伟达144万GPU",
    "title_zh": "SpaceX AI转型隐含144万块英伟达GPU采购",
    "sentiment": 2
-  },
-  {
-   "id": "89f75c0b5f39",
-   "title": "NVIDIA has officially denied rumors about the discontinuation of the GeForce RTX 5090. - GameGPU",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0VMVjRxQkRZZVVNQW5fTGhQazY0NUVoSFNGT0t5LVlZdUoxcXNVUF9MSGdhdkNfTFlNMVJQX0VUSlZVallSeWQxQlZVbHBXVTNnQllaTkVzOTNvc2JKdGJodVdBa1A2ODZQTnVPakU5dlhWRE42MW9jQm1DUE5odkRtWW1NbHYydWE5cDR0ODVqZ21kUHdsYktUX3lqTkFwTFNQZkFMUXFRNTl3MUNfYWNaS2NIWlhuZlE",
-   "source": "GameGPU",
-   "published_at": "2026-10-17T12:29:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GameGPU",
-     "published_at": "2026-10-17T12:29:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0VMVjRxQkRZZVVNQW5fTGhQazY0NUVoSFNGT0t5LVlZdUoxcXNVUF9MSGdhdkNfTFlNMVJQX0VUSlZVallSeWQxQlZVbHBXVTNnQllaTkVzOTNvc2JKdGJodVdBa1A2ODZQTnVPakU5dlhWRE42MW9jQm1DUE5odkRtWW1NbHYydWE5cDR0ODVqZ21kUHdsYktUX3lqTkFwTFNQZkFMUXFRNTl3MUNfYWNaS2NIWlhuZlE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "英伟达否认RTX 5090停产传闻",
-   "title_zh": "英伟达正式否认停产GeForce RTX 5090传闻",
-   "sentiment": 0
-  },
-  {
-   "id": "e452c46caf85",
-   "title": "Smuggling Nvidia Chips Into China Is About to Become a Crime in Taiwan - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1pHcU9SeHNnbmpjQlpzVXVDNmNEUTJlTllEdkoySjBFWmJYMEs3ZENORlBpMVpISFBJRFpvZnUzRlhUWUVtLWNJc1gxOWJKRXFsVGExR0xZdjM1X0lHOFdUQTN5T0tuNEZmOHlNWk1TNkk4c3BkRjJZMEFXV1ltNW5lZ2lCX3B2Q0ctWEo2aVd5RVdzYXFZdVV3TXNKQ0J4QU0zc1FrRXd5dktfYVJIR0J5SVk",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-17T12:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-17T12:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1pHcU9SeHNnbmpjQlpzVXVDNmNEUTJlTllEdkoySjBFWmJYMEs3ZENORlBpMVpISFBJRFpvZnUzRlhUWUVtLWNJc1gxOWJKRXFsVGExR0xZdjM1X0lHOFdUQTN5T0tuNEZmOHlNWk1TNkk4c3BkRjJZMEFXV1ltNW5lZ2lCX3B2Q0ctWEo2aVd5RVdzYXFZdVV3TXNKQ0J4QU0zc1FrRXd5dktfYVJIR0J5SVk"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "台湾拟将向中国走私芯片定为犯罪",
-   "title_zh": "台湾拟立法：将向中国走私英伟达芯片定为犯罪",
-   "sentiment": 0
   }
  ]
 }
