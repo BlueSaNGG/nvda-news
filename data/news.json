@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T11:21:29.621514+00:00",
+ "updated_at": "2026-10-19T11:36:29.945287+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,8 +10,8 @@
    "days_left": 29
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 64
+   "avg": 0.37,
+   "count": 67
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（64条已评分）"
+     "note": "今日新闻情绪 +0.37（67条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-19T11:21:29.609432+00:00"
+   "as_of": "2026-10-19T11:36:29.930522+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -62,17 +62,44 @@
  },
  "stories": [
   {
+   "id": "68dda0390fcd",
+   "title": "The neocloud shakeout is coming, and Nvidia has the most to lose - the-decoder.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZHlzakJhR1hRTGxOTENlZTNPM0NiRHhOZ0tvMEs0SDQ0QlRHUm4wa0k0Nmt5VzVDMGVpQndNMHNaQkFoZkdodW1NY2ctQ2RBQzg1YXJuVHV0Nm8zT0NLaUxXOG1PN2t1aUlxTGNTemVvRzFMMkVtcmM1YzFYS0t3U2ZtVGNLd0hNMFYwMU4zVmhNUQ",
+   "source": "the-decoder.com",
+   "published_at": "2026-10-19T11:34:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "the-decoder.com",
+     "published_at": "2026-10-19T11:34:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZHlzakJhR1hRTGxOTENlZTNPM0NiRHhOZ0tvMEs0SDQ0QlRHUm4wa0k0Nmt5VzVDMGVpQndNMHNaQkFoZkdodW1NY2ctQ2RBQzg1YXJuVHV0Nm8zT0NLaUxXOG1PN2t1aUlxTGNTemVvRzFMMkVtcmM1YzFYS0t3U2ZtVGNLd0hNMFYwMU4zVmhNUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "9444be802639",
    "title": "Spotlight on Levered Chip Financing Heightens: What is Happening at Nvidia and AMD? - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDNvSVNtRW9uQ1RTY3FPTFNLblBjLVN0a0FieThBZXpRQkV5YnFiSVJSYnZ3RUNIaEtiQ2puSFpDTUxCNm8ya0dYd3A1YkdqWFdWR0lPOFRUaE0wWUZIWE9iRE5EZlRXVkE1VUgtMVMwdXJFUWJrQTFublpNcGJPMUVVSDB6Z2d1dkFOWFRoZDZMejMyNHRjY2o4c09rbXd2b01CMFVpWk1NR2hPY3JNdVhma29fdDZQazdwUWdUUlp5ZGc",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-19T11:15:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-19T11:15:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDNvSVNtRW9uQ1RTY3FPTFNLblBjLVN0a0FieThBZXpRQkV5YnFiSVJSYnZ3RUNIaEtiQ2puSFpDTUxCNm8ya0dYd3A1YkdqWFdWR0lPOFRUaE0wWUZIWE9iRE5EZlRXVkE1VUgtMVMwdXJFUWJrQTFublpNcGJPMUVVSDB6Z2d1dkFOWFRoZDZMejMyNHRjY2o4c09rbXd2b01CMFVpWk1NR2hPY3JNdVhma29fdDZQazdwUWdUUlp5ZGc"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T11:15:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2Y2NGZfUFk2VEQ1Y2tyTk1oR3Vkc2VCSWNKaXBUblFvOEdpcEZGV1Zqb3pxU09XSG94cWdxNndnNWJSdWhXOUZBUjBrOUFqS2QyUFdnWWRaR1l5OFdxTEpxenRMeU9vRl9TTFZ3TnBPMktsNzdBQ2NPbEh2TDAxaGVWc0xnSWJlVkY1Z2gya1YwRjlwSzRCT1g1aUVBZ2thWUp2ZzRMb095R2s"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-19T11:15:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdElrcHVPWUV3Vm5mc21mbkd6RmpqRzh0Um9jcGtBcnpjeWx6dm8ySm53NlNJTi1jcEl0eDdjVDloY1dLNnBJdXJETGwxeThyQzItbW5NWTFmLTV3WFVwWW5HeWxqRGZSLU1MdzFjSFgtRnBvMENvTUJiVDc4dUxWV0VVdGpqVDV6Y3d1NFB6NA"
     }
    ],
    "category": "产品技术",
@@ -87,12 +114,17 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT0o5bmV2SHhhN292a1F2a0RpVFpuLXo0Ql9mVnZvTUNGLUt1RmFnSWpIcFVDeEptTlNvbm1Bc2Z6VGVmRDhmWmJtNERkV05LRlRTSm5RbmhIemlWdHU3bU9zQUNXWmd0bWRYUEp5MjdoX0RSVUJkRDMzaFpOTnFzdzZfbG5JMDJfRnVlY1ItS3RsY2hQUUE0TTkxell1M1dHWUVockR3WWZwSlVsZnp2VHpn",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-19T11:15:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-19T11:15:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT0o5bmV2SHhhN292a1F2a0RpVFpuLXo0Ql9mVnZvTUNGLUt1RmFnSWpIcFVDeEptTlNvbm1Bc2Z6VGVmRDhmWmJtNERkV05LRlRTSm5RbmhIemlWdHU3bU9zQUNXWmd0bWRYUEp5MjdoX0RSVUJkRDMzaFpOTnFzdzZfbG5JMDJfRnVlY1ItS3RsY2hQUUE0TTkxell1M1dHWUVockR3WWZwSlVsZnp2VHpn"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-19T11:15:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcy1fMmd6NHRweXJBX3JyV3NfdVFDNG1SRWNaM2xtcFp0bkdjTG5qQ082UGY0dFZwcUhLY3NSb0ViNk9GbnIwQVoyM3VmUWFTd2pScVh2NmlVQ1M2YkFNX0JhaHU3ek90RHVLYUNObTdoY3otTTFnS2QxUXExMll0dE9IMnh0dm8"
     }
    ],
    "category": "其他",
@@ -100,6 +132,57 @@
    "zh_summary": "英伟达估值与叙事风险较高，需谨慎应对",
    "title_zh": "英伟达估值与叙事风险高企，建议谨慎应对",
    "sentiment": -1
+  },
+  {
+   "id": "ddc5c9f1aed5",
+   "title": "Direxion Daily Technology Bull 3X (TECL) Sells NVIDIA and Apple on Oct. 15 - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEdsMmp5MEdZcTNqN25XbllxYkRuSXRGdUhDNldmbm9aZmRuS0t0dGYtOVhIblVvdnViYWhEaEduSExiZEI5by1NeVVrT2VLaUJuSlFrdnQ1MEtCYWdsLW52cXNmZGxKTVE0cGxUcFdfaXppWkJsdElPMXQ5U0kwdEhHSFdVMVZZc2VUcHFMLUVxT1Itano4OXlWVk00UVE",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T11:03:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T11:03:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEdsMmp5MEdZcTNqN25XbllxYkRuSXRGdUhDNldmbm9aZmRuS0t0dGYtOVhIblVvdnViYWhEaEduSExiZEI5by1NeVVrT2VLaUJuSlFrdnQ1MEtCYWdsLW52cXNmZGxKTVE0cGxUcFdfaXppWkJsdElPMXQ5U0kwdEhHSFdVMVZZc2VUcHFMLUVxT1Itano4OXlWVk00UVE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "040de493d873",
+   "title": "Invesco QQQ (QQQ) Adds NVIDIA and Apple on Oct. 15 - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTlczR2lqenlDWFl6YTBUdTdvd2EtT0hWWU40Z3JzdzdUdkl2UDRuOUd5bV9DcGZRRzQ0UU1yelc3QndITjBZYl9CSkFJVXZvNnZ5V09xcHM3UmhvTy1IM1E4Wkx6elEtNFZKeFYwaFBaRmVCMkFjTEFyT3FkRmNtRkZFY0IxZ2lwWmVHRVBJZ1ZKSnhwSXBJ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T11:03:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T11:03:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTlczR2lqenlDWFl6YTBUdTdvd2EtT0hWWU40Z3JzdzdUdkl2UDRuOUd5bV9DcGZRRzQ0UU1yelc3QndITjBZYl9CSkFJVXZvNnZ5V09xcHM3UmhvTy1IM1E4Wkx6elEtNFZKeFYwaFBaRmVCMkFjTEFyT3FkRmNtRkZFY0IxZ2lwWmVHRVBJZ1ZKSnhwSXBJ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "3d7ce6de9af6",
+   "title": "ETFs Are Net Sellers of NVIDIA (NVDA) on Thursday - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaUUxcDBRVHFkRXJQYWZiWHlJVEtyWE1GRzlRMmZjVEkyQ3pTV1RUejlTMTBfc1RaQl9xb1VlM1RwNTNNb2RObHI3T3p4T0JnSm8zemM2Vzl2U3lGSWY1TU1oU1dhLVFGWGJoZDR3c1N4YUs2dGE0VUp3eFBVclZBSERJcUFNX2dSQXo4R0lSaXNpWkZRMHpKdQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T11:01:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T11:01:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaUUxcDBRVHFkRXJQYWZiWHlJVEtyWE1GRzlRMmZjVEkyQ3pTV1RUejlTMTBfc1RaQl9xb1VlM1RwNTNNb2RObHI3T3p4T0JnSm8zemM2Vzl2U3lGSWY1TU1oU1dhLVFGWGJoZDR3c1N4YUs2dGE0VUp3eFBVclZBSERJcUFNX2dSQXo4R0lSaXNpWkZRMHpKdQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "e0bb13ae5f52",
@@ -1485,6 +1568,23 @@
    "zh_summary": "沃尔沃扩大与英伟达十年合作，共研发辅助驾驶",
    "title_zh": "沃尔沃扩大与英伟达十年合作，联合开发新一代辅助驾驶系统_车市动态 - 中金在线",
    "sentiment": 1
+  },
+  {
+   "id": "a1b739f21634",
+   "title": "【网通社快报】沃尔沃汽车宣布扩大与NVIDIA十年合作 联合开发辅助驾驶系统 - 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5lVkhXRXd4NVZRQUVrMlQtUm8tdlFjU2N2NHVxbGV5Nnpjc1U4VjRsYXVyTVVTQVd3SFJWQXZyYlM3R1o3NGhWNUM1Qng",
+   "source": "凤凰网",
+   "published_at": "2026-10-19T04:57:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-19T04:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5lVkhXRXd4NVZRQUVrMlQtUm8tdlFjU2N2NHVxbGV5Nnpjc1U4VjRsYXVyTVVTQVd3SFJWQXZyYlM3R1o3NGhWNUM1Qng"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "4aba8d3387b8",
@@ -6431,121 +6531,6 @@
    "zh_summary": "Moomoo用户聊英伟达股价反弹预期",
    "title_zh": "Moomoo用户讨论NVDA反弹：下周走势待观察",
    "sentiment": 0
-  },
-  {
-   "id": "8ba88bc01625",
-   "title": "TSMC Says AI Chip Demand Is Still Far Above What It Can Supply. That's Why I'd Buy Nvidia Stock. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNUo1TjQxakNiT2tFaUFidFJPM3JpTG44QV9XZS1kR1NoRmgwb3N1UFJzLXdPVUlFSzd0T2dvdlFKX1M5SEh2bk5wb3N4YThYM2t3RElBUUVYRDVWbHo0QlR2NDZXQjZtc1NpZGhVWFpBdzB1RkZlTnNTaUJfd0lqNTc5WkpKb1BTZ2cxVTA4Y2poUDl4a29HR2U5V0NLSFp4cHppc3JQaHJiU2RhcG8zU2ZPVE1GcW45Tkx6LTNjQXJzOEVIZTVJaTd3TEU3RkVoMEhN",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-17T03:03:53+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-17T03:03:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNUo1TjQxakNiT2tFaUFidFJPM3JpTG44QV9XZS1kR1NoRmgwb3N1UFJzLXdPVUlFSzd0T2dvdlFKX1M5SEh2bk5wb3N4YThYM2t3RElBUUVYRDVWbHo0QlR2NDZXQjZtc1NpZGhVWFpBdzB1RkZlTnNTaUJfd0lqNTc5WkpKb1BTZ2cxVTA4Y2poUDl4a29HR2U5V0NLSFp4cHppc3JQaHJiU2RhcG8zU2ZPVE1GcW45Tkx6LTNjQXJzOEVIZTVJaTd3TEU3RkVoMEhN"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-17T03:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2JhQVVYRlR0dWIxZjBLVVI1eEM5bWF0UWU2LUNtdXVZN19vVTJlTG50Rk9YX3hNSzdMTUxKNTBCYjFXR1FRT1pBSFBlVlBBQ3dwNmJIcTRiSGQ2QXZWRGdfUWh6YnF5RjFOcjJkMWZseVpZeDltTEdJVUJTSE9xMm1wVGQyNXdTQU9UUGpBdC1qZw"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-17T03:17:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTXNHb0hFMmFaLWdNTUIxRVpuX0FtNnFmZG9rNkJQSGhfcWNBSjJ3TnlxcXNaNUxrV1lvWjZzX0MtYjU1TnZKRUdGSmpEVGZZeFliLXR0TDdvMEJNMjhhSTJIY0FCZThJcHFkWW5JOTA3RUVkU3A0djZRZFRWYk81RDI1MzFoZDR5bFJCSE9RN3VOY2luMkFUSnR3TkFRS0pUTlpJNG9XbVQyNUZCaUJhMHR6c3dkSGxycjMzZnZ4bS11WmdVSG9FQmV4R1F2TDNCa2VqX2NSNUZDWGN4ZERYUHN4dmhSdmMwTHRmVEc4T2pMZFJkR2NUeUFnVGdSc3MzT0hodkV5SDZJamxqNkE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "台积电称AI芯片需求远超供给",
-   "title_zh": "台积电称AI芯片需求远超供应，分析师建议买入英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "3805afbd1dfb",
-   "title": "美股讯号 | 英伟达股价下跌，AI板块持续承压 ｜#美股资讯# #英伟达# #股价波动# - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUVoMmhXMWVodE95ZkRFZVBSZkd0eGJmck5Qa1VzclQ1RHdtQ3NzdnQ0b2phTTdweWNOejBxeFduek9vQWprUlZ1VllTMG9fSTRfS3NIQ1dKOXE0bVhuTWpMdFhJRlI4QllDZDZ4SndtUDVpY2VIekFra3Bhcy01TmwwbDlsS3hNanplQQ",
-   "source": "搜狐",
-   "published_at": "2026-10-17T02:59:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-17T02:59:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUVoMmhXMWVodE95ZkRFZVBSZkd0eGJmck5Qa1VzclQ1RHdtQ3NzdnQ0b2phTTdweWNOejBxeFduek9vQWprUlZ1VllTMG9fSTRfS3NIQ1dKOXE0bVhuTWpMdFhJRlI4QllDZDZ4SndtUDVpY2VIekFra3Bhcy01TmwwbDlsS3hNanplQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达股价下跌，AI板块承压",
-   "title_zh": "美股讯号：英伟达股价下跌，AI板块持续承压",
-   "sentiment": -1
-  },
-  {
-   "id": "9a1d16348aad",
-   "title": "Nvidia CEO Jensen Huang ‘strongly’ disagrees with OpenAI’s Sam Altman on AI agents hacking websites, ‘I’m - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQ1NXNHZ3SkRQUmNIVHNDZmYtUF8zM0M2UzZ0Qm1FMGFibXBKZ3pzMk9mZEVoOG5LS01mWllZc182a3A1dThhYWV1T2hfelZMY3k0SVZxZjZnMTVtQVJaaU5rVjc2bmYwUHFzejVDT3Y1Ym5EYTQ5U1hKbWt0OUpCSXFvZWhIMU9SdEExREw5S205UE9UN2l4TmRyYURYd0l5RDExNW4takJ6cUZXS3ItcWI4TU85aEdydWZyclRZV08tMVJnVGVkMTFRSlM4ekpjTmR6S3RKRmlqckktMXd0eUpkb0JqZlY5UXVqV0lpdll5TGFPc282MVFDYUZ4WFVPNERRS0dTM2N0YTV0OUo5ejdKSU94Q01YeGh5YzB5RERNR0I0QUxDUER3NNIBsAJBVV95cUxQUjdSN2hNNWM2VjlqRlFwNmRMT2NsZUhtVHlwZ0tFMmVkamdjeVpYQS14NG41NEE0Tm15NENJcTNWSDZ4dXRLbmN5UjB2aVE4UDBKVkFHdENaSFZIWFBHMUdESGlaLXZjUWt5eEpva2dGRlJpWkxWV3hZdTNBZTI5aEJIeEFwYVhJT09nZkRTVmJMNTZfbXVjczBQU3MxNmtsYkFjRTRPcldkVmV4ck9NOXhCMkdQaWllbDV5QmVFX0ZzaDcwMkRBaVRNckRHMlliUDBQWE93bHpIWE5fQ0NSclZIOENOWHFDdEhPc0Q4S3M3eFhXYXdNZEtvenZTQXFnNFB0QW02ZzhpWS0tUkR0RHNzTWw0UEo3dDhjMVhpTVlxOVgzRVIzOXhEVi16RXlP",
-   "source": "The Times of India",
-   "published_at": "2026-10-17T02:57:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Times of India",
-     "published_at": "2026-10-17T02:57:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQ1NXNHZ3SkRQUmNIVHNDZmYtUF8zM0M2UzZ0Qm1FMGFibXBKZ3pzMk9mZEVoOG5LS01mWllZc182a3A1dThhYWV1T2hfelZMY3k0SVZxZjZnMTVtQVJaaU5rVjc2bmYwUHFzejVDT3Y1Ym5EYTQ5U1hKbWt0OUpCSXFvZWhIMU9SdEExREw5S205UE9UN2l4TmRyYURYd0l5RDExNW4takJ6cUZXS3ItcWI4TU85aEdydWZyclRZV08tMVJnVGVkMTFRSlM4ekpjTmR6S3RKRmlqckktMXd0eUpkb0JqZlY5UXVqV0lpdll5TGFPc282MVFDYUZ4WFVPNERRS0dTM2N0YTV0OUo5ejdKSU94Q01YeGh5YzB5RERNR0I0QUxDUER3NNIBsAJBVV95cUxQUjdSN2hNNWM2VjlqRlFwNmRMT2NsZUhtVHlwZ0tFMmVkamdjeVpYQS14NG41NEE0Tm15NENJcTNWSDZ4dXRLbmN5UjB2aVE4UDBKVkFHdENaSFZIWFBHMUdESGlaLXZjUWt5eEpva2dGRlJpWkxWV3hZdTNBZTI5aEJIeEFwYVhJT09nZkRTVmJMNTZfbXVjczBQU3MxNmtsYkFjRTRPcldkVmV4ck9NOXhCMkdQaWllbDV5QmVFX0ZzaDcwMkRBaVRNckRHMlliUDBQWE93bHpIWE5fQ0NSclZIOENOWHFDdEhPc0Q4S3M3eFhXYXdNZEtvenZTQXFnNFB0QW02ZzhpWS0tUkR0RHNzTWw0UEo3dDhjMVhpTVlxOVgzRVIzOXhEVi16RXlP"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "黄仁勋强烈反对奥尔特曼关于AI智能体观点",
-   "title_zh": "黄仁勋强烈反对奥尔特曼：AI智能体不应攻击网站",
-   "sentiment": 0
-  },
-  {
-   "id": "1f0c6941fa00",
-   "title": "Elon Musk’s Roadster, Nvidia’s Space AI Push, Nadella’s Security Warning: Mag 7 Voices This Week - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlJVUVpSek1QYTZBeFRBakx3YWhfQ1pJdUloTmctaEZyQlIxa3Q1dkdoMGViNlJoQlAwalo1MHhZZ2lzWDF4YkFqQnRXWkZpbDZKMWlhUlNMUDQxSmhaMVFfRTNrdmIwSXFyZW9vc1BGR2lKVWJwNkxWTzdmMzRkemxlSHZYQk9OMFpCTi1TZVFTRGs5RzZ6aUNiTQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-17T02:46:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-17T02:46:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlJVUVpSek1QYTZBeFRBakx3YWhfQ1pJdUloTmctaEZyQlIxa3Q1dkdoMGViNlJoQlAwalo1MHhZZ2lzWDF4YkFqQnRXWkZpbDZKMWlhUlNMUDQxSmhaMVFfRTNrdmIwSXFyZW9vc1BGR2lKVWJwNkxWTzdmMzRkemxlSHZYQk9OMFpCTi1TZVFTRGs5RzZ6aUNiTQ"
-    },
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-17T02:51:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX2Q0TVpjSWp5WVBsZFkxUjhzWUJxNlZPaEEwNmx2UTlhemtCUjVCcTU3QXVkSXdramFKRFFCZEczY0VXenJaRXJ0NFBBNFROT2NieUNNWWZLRW1HUGlHRVdtMjBCQ0RGQlFhM0RzRlVYb2RtbjZjTkhmQThMU29TOG5abl9aN0xHQjBCS3FrMDcwdF9qTmR1Wm5pbnR6c2VueXAxbE5uNVhlMUlHM09KQlpXcWdNMTFvaFJpTW9sbzl3VHFvMmJzbGhlVUNuR1otVzBvR3R5LWZKZ0g5bF9XemRZYw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达太空AI布局等Mag7本周动态",
-   "title_zh": "马斯克Roadster、英伟达太空AI、纳德拉安全警告：本周Mag7声音",
-   "sentiment": 0
-  },
-  {
-   "id": "749e027294ce",
-   "title": "英伟达9天蒸发4万亿元，费城半导体指数八连跌，创金融危机以来最长连跌纪录；黄仁勋：一切都会过去 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81Q3dqR044bzBfWTdXa0Y1NVpFTzdSZnpjX0lreTVNZ3F0dmlYSC1rWVlsT0I1Qmd0ZEctcWRkekIwRnZfQzZyQnR5c1VfUEkyeTNNUDJvaUhUNHhFUVhITmQxYk4xZw",
-   "source": "东方财富",
-   "published_at": "2026-10-17T02:44:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-17T02:44:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81Q3dqR044bzBfWTdXa0Y1NVpFTzdSZnpjX0lreTVNZ3F0dmlYSC1rWVlsT0I1Qmd0ZEctcWRkekIwRnZfQzZyQnR5c1VfUEkyeTNNUDJvaUhUNHhFUVhITmQxYk4xZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达9天市值蒸发4万亿元",
-   "title_zh": "英伟达9天蒸发4万亿元，费城半导体指数八连跌，创金融危机以来最长连跌纪录；黄仁勋：一切都会过去 - 东方财富",
-   "sentiment": -1
   }
  ]
 }
