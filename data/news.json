@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T23:36:38.482953+00:00",
+ "updated_at": "2026-10-19T23:53:04.488950+00:00",
  "market": {
   "price": 217.09,
   "change_pct": 1.38,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.4,
-   "count": 239
+   "count": 241
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（239条已评分）"
+     "note": "今日新闻情绪 +0.40（241条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.1,
    "ma20": 227.66,
-   "as_of": "2026-10-19T23:36:38.465542+00:00"
+   "as_of": "2026-10-19T23:53:04.479955+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -62,17 +62,39 @@
  },
  "stories": [
   {
+   "id": "1509262b5dd1",
+   "title": "Anthropic被曝开发新模型，重点提升模糊指令理解能力；英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成｜全球科技早参 - www.mrjjxw.com",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IOTNJSl9ON3k0UnJKQUtqNDI3T0hOUVc4VnNrb0dwQko2bk5BNTlUTUJiNDdBbXBOdW45LWlrWW1nbTl6djFPUWszaWNDcnpfWk5JTzhkZllBemh3a3ZjaE5MdWJKUQ",
+   "source": "www.mrjjxw.com",
+   "published_at": "2026-10-19T23:39:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "www.mrjjxw.com",
+     "published_at": "2026-10-19T23:39:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IOTNJSl9ON3k0UnJKQUtqNDI3T0hOUVc4VnNrb0dwQko2bk5BNTlUTUJiNDdBbXBOdW45LWlrWW1nbTl6djFPUWszaWNDcnpfWk5JTzhkZllBemh3a3ZjaE5MdWJKUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "873b2cdd2d7d",
    "title": "Thinking Nvidia Stock Could Hit $10 Trillion? Here's 1 Reason I'd Be Cautious - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZG9NMFREdDlFT0NTVFV3NFI2TWNOeDdXckFvb1BtcnBRM3JMTDJicWw3eXRXZVdDaUpMaUV0Z2NaTnR1SDZIdFhtR3dmd3p0c20xeWJGbmhqSDFWRDYtMFMwYW83Y01rZlk3VXNoZlVhV1hONVRDcHp0NDJ5T0t1eDZfOUVDR1Z6bnBMQ2twSQ",
    "source": "The Motley Fool",
    "published_at": "2026-10-19T23:16:21+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-19T23:16:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZG9NMFREdDlFT0NTVFV3NFI2TWNOeDdXckFvb1BtcnBRM3JMTDJicWw3eXRXZVdDaUpMaUV0Z2NaTnR1SDZIdFhtR3dmd3p0c20xeWJGbmhqSDFWRDYtMFMwYW83Y01rZlk3VXNoZlVhV1hONVRDcHp0NDJ5T0t1eDZfOUVDR1Z6bnBMQ2twSQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T23:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUXZmUkFoLVl3Z1VvS0l3UTBMQ2ZWMjRHTGl3bnlPRjllbXhNUUt0VWR3bGRQRDVzRzMzNXpKejVlUU5qZmpVbG1BeHZMSmxtR3J4SkpLMEFadDBwM09sQ2RVNVJEWnJOZS1LZW1uRFJXQlpyWFJ5Rk5GeURNcXlZLU4tTnRkVDVrX0ZDanlMSzB0WEd2MV96S29JVHY"
     }
    ],
    "category": "其他",
@@ -165,6 +187,23 @@
    "zh_summary": "欧洲超算实现创纪录容错模拟",
    "title_zh": "英伟达(NVDA.US)“借力”欧洲超级计算机实现创纪录容错模拟！物理量子比特减少90% 提供者智通财经 - 英为财情 Investing.com",
    "sentiment": 1
+  },
+  {
+   "id": "adf05b5c62a5",
+   "title": "NVIDIA and Jülich Run 104-Qubit Magic State Cultivation Simulation on JUPITER Supercomputer - Quantum Computing Report",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEFicmZTZGFDdUFvU0oybHE5SXBSbHhBclcyNjRUaW1CRzliTl9DZlAwVTdxczNfRWVmdGt4TW9NMG0yTUdkVUdwcDFQa0NBTGM5NTRYTmdEa3VnT0F1NHNZeG5fUy01eGRhOV94SXJVSkUyNXZ1MmF2VWRXanVzR29lTmVYa0JuMElBTk90ejRRRGt6OFFmWXBCY21SV3ZaX1l4eS1LcmlHUVpGMmJVSVJkOXdqeTJib21EZGRyRjhSeVktZ1HSAcsBQVVfeXFMTmRRaG1xa0pESGNDSW1YMmxaTmJ0eTJqRjdya0hreXNqeVkwdEpCQjVxRWVxMzBSaVhTWUJMOXpJTUF3VU95M3dIczhHUTEwZUg1Z21JaVU5VktucWJhUDVSV2djSWhxVnVuR3RwdEhrUkVvX1RuNlcxRW96TXdDbDZ5Rk5scEdqUTB1ZnJWSHJUeW04SkRNR0UwT05CQ2FScXR4RUZwc0VrbVkyT3NNeC1VVGRHZGlsbWZHSlhsalNLM3lkeWRablY4WlU",
+   "source": "Quantum Computing Report",
+   "published_at": "2026-10-19T22:51:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quantum Computing Report",
+     "published_at": "2026-10-19T22:51:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEFicmZTZGFDdUFvU0oybHE5SXBSbHhBclcyNjRUaW1CRzliTl9DZlAwVTdxczNfRWVmdGt4TW9NMG0yTUdkVUdwcDFQa0NBTGM5NTRYTmdEa3VnT0F1NHNZeG5fUy01eGRhOV94SXJVSkUyNXZ1MmF2VWRXanVzR29lTmVYa0JuMElBTk90ejRRRGt6OFFmWXBCY21SV3ZaX1l4eS1LcmlHUVpGMmJVSVJkOXdqeTJib21EZGRyRjhSeVktZ1HSAcsBQVVfeXFMTmRRaG1xa0pESGNDSW1YMmxaTmJ0eTJqRjdya0hreXNqeVkwdEpCQjVxRWVxMzBSaVhTWUJMOXpJTUF3VU95M3dIczhHUTEwZUg1Z21JaVU5VktucWJhUDVSV2djSWhxVnVuR3RwdEhrUkVvX1RuNlcxRW96TXdDbDZ5Rk5scEdqUTB1ZnJWSHJUeW04SkRNR0UwT05CQ2FScXR4RUZwc0VrbVkyT3NNeC1VVGRHZGlsbWZHSlhsalNLM3lkeWRablY4WlU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "c0f8c38e4633",
@@ -2381,26 +2420,6 @@
    "sentiment": 1
   },
   {
-   "id": "b0d5e3b89e47",
-   "title": "$英伟达 (NVDA.US)$ 逼空 [抓狂] - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlBOTHNXMVNiYWNDa1FoeDB4VGFtLTF4M0hNLVpod2NGbzR0QXdVOXQ3bDlINGdOZlNCQ1h0eGVUaEdoYzlMTWRmUmFHb1ZBMzRXUTlpVWpHTTVtR21IaUZNQUFkaDNIcW9HdkIydTYtQnBDOWczejlGVjc3aEVyZG5KMEljYnk4eXRzX2phLWk",
-   "source": "Moomoo",
-   "published_at": "2026-10-19T14:28:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-19T14:28:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlBOTHNXMVNiYWNDa1FoeDB4VGFtLTF4M0hNLVpod2NGbzR0QXdVOXQ3bDlINGdOZlNCQ1h0eGVUaEdoYzlMTWRmUmFHb1ZBMzRXUTlpVWpHTTVtR21IaUZNQUFkaDNIcW9HdkIydTYtQnBDOWczejlGVjc3aEVyZG5KMEljYnk4eXRzX2phLWk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达逼空行情上演",
-   "title_zh": "$英伟达 (NVDA.US)$ 逼空 [抓狂] - Moomoo",
-   "sentiment": 1
-  },
-  {
    "id": "910fd3941833",
    "title": "Not Nvidia. Not Micron. This Artificial Intelligence (AI) Chip Stock Has the Most Upside Through 2030. - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0d2eFFKZlpsWTdhdUE4UkR6ZGpKS0pqTFZFelFhRU1XNTJZWXRzN0xjekZ4dXE2Rnp6Q0RZR0s4OHVhdVhjOV9Cb0VwYUQxWFRLamEyZ0xpQm9QWC0yR2tTVWk1TWVkY2wwQURNUGpQNmd4UFB6WThqY3hRRFhwOGZRTUVsNmVKdUxwaHk1MEdtN29SWnRTYg",
@@ -4030,7 +4049,7 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0pZREF3WWNPak52UUt1ZE9ZMTFDNEFlZm8wbFBXQ0hQUTZrZnI0TEJoZzZNZV85a1VPd0d3eUtSc0JFYUFUUExUTHMxWnFIbFRweTdzR3ZYY2JLRm83ZDI0cFZwd05qTHNFNkt1WTVVdENxZ0E4X19mZUVQMDZCYldBdlN1UFZzcHVxaQ",
    "source": "搜狐",
    "published_at": "2026-10-19T10:11:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "搜狐",
@@ -4046,6 +4065,11 @@
      "name": "光通信Pro",
      "published_at": "2026-10-19T10:52:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBObHZxUVo3c01ReE5MUjR6YUptZ0NHcmlPT0wyVjEzNFNzM19CdjA2R2c2TGR6enZzejV4TUh0Z296SXNyRXZJNEthR21lVHo1NkZfZW5Ibw"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-19T10:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vYjFqSUZxNjUyS2d3eTVIX2diTU95VHMwUGFxMjMtRzlDemUxdmpYR1MtaThlLVhDOVBQU2UzNllKZEl6WVo0NEpKN2syMDJiZHRTXzlR"
     }
    ],
    "category": "其他",
@@ -4811,6 +4835,26 @@
    "zh_summary": "显卡可免刷写加载自定义VBIOS",
    "title_zh": "GeForce 50/40/30可免刷写加载自定义VBIOS",
    "sentiment": 0
+  },
+  {
+   "id": "2a28ba0f2903",
+   "title": "$英伟达 (NVDA.US)$ 加油呀 老黄 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa1QybkFhM0M5NGtsc2ZaNG5mNURZREtHR1FaZ28wOXRFTC1JUmRsejhGU1VadFZlcHV0enQtckJ2TlZwaGN2NUEyWURmTm9HQkJnWV9oeHc1SWd0dnVDUWFsWUtyTENmdG8yVnAyMjNEZ3JWMUE3M0x0MHdhaVZhbGtmMHR2a1FRakp5TGtwdHE4ODkyVVE",
+   "source": "Moomoo",
+   "published_at": "2026-10-19T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-19T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa1QybkFhM0M5NGtsc2ZaNG5mNURZREtHR1FaZ28wOXRFTC1JUmRsejhGU1VadFZlcHV0enQtckJ2TlZwaGN2NUEyWURmTm9HQkJnWV9oeHc1SWd0dnVDUWFsWUtyTENmdG8yVnAyMjNEZ3JWMUE3M0x0MHdhaVZhbGtmMHR2a1FRakp5TGtwdHE4ODkyVVE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "英伟达逼空行情上演",
+   "title_zh": "$英伟达 (NVDA.US)$ 逼空 [抓狂] - Moomoo",
+   "sentiment": 1
   },
   {
    "id": "fdea62dacae8",
@@ -6575,46 +6619,6 @@
    "zh_summary": "英伟达否认RTX 5090停产，称供应紧张",
    "title_zh": "英伟达否认RTX 5090停产，1999美元机型供应紧张",
    "sentiment": 0
-  },
-  {
-   "id": "7043acbdea0c",
-   "title": "NVIDIA thinks the CPU industry chased too many cores, and AI agents are bringing single-core speed back - Digital Trends",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSGFYTzVLZmdQQXgtUHhQZmUyTjNHMTNELW1ZeklJVFZFTDJsb0REVEhnZkxZaU1NXzZQNEFZX2RFV1pRVDhJZGtJZzZNbUJqb0xVbzhZYVU4RDlCSUE4Vm94dUtmSk1PNldHLVNnNTRtTnE2SmNCWldiR3R6T3FJX19SNXFHajlFWEE",
-   "source": "Digital Trends",
-   "published_at": "2026-10-18T21:25:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Digital Trends",
-     "published_at": "2026-10-18T21:25:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSGFYTzVLZmdQQXgtUHhQZmUyTjNHMTNELW1ZeklJVFZFTDJsb0REVEhnZkxZaU1NXzZQNEFZX2RFV1pRVDhJZGtJZzZNbUJqb0xVbzhZYVU4RDlCSUE4Vm94dUtmSk1PNldHLVNnNTRtTnE2SmNCWldiR3R6T3FJX19SNXFHajlFWEE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达称AI代理时代单核速度回归",
-   "title_zh": "英伟达：CPU行业追逐多核走错了路，AI代理让单核速度回归",
-   "sentiment": 0
-  },
-  {
-   "id": "92251b64a80d",
-   "title": "Nvidia (NASDAQ:NVDA) Stock Loses $350 Billion in One Week as AI Selloff Deepens - Stocks Down Under",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YSXlJZmpnb3lSVnpMX041Um9TVVh3NW1HNUtqM1JWY084SkVUai1fNHRyTTNxR1NYRXcxZnplTmFyUkFHTGpCbVVCVFQxNWRabXJKUWpnYUFCZ3YwSXpjU1VJTXpxRHFmRDVaemhWRFVQdw",
-   "source": "Stocks Down Under",
-   "published_at": "2026-10-18T21:17:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocks Down Under",
-     "published_at": "2026-10-18T21:17:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YSXlJZmpnb3lSVnpMX041Um9TVVh3NW1HNUtqM1JWY084SkVUai1fNHRyTTNxR1NYRXcxZnplTmFyUkFHTGpCbVVCVFQxNWRabXJKUWpnYUFCZ3YwSXpjU1VJTXpxRHFmRDVaemhWRFVQdw"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "周末",
-   "zh_summary": "英伟达一周市值蒸发3500亿美元",
-   "title_zh": "英伟达一周跌去3500亿美元市值，AI抛售加深",
-   "sentiment": -1
   }
  ]
 }
