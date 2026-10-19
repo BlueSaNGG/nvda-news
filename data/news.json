@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T16:36:27.793309+00:00",
+ "updated_at": "2026-10-19T16:51:30.738513+00:00",
  "market": {
-  "price": 218.28,
-  "change_pct": 1.94,
+  "price": 218.1,
+  "change_pct": 1.85,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 29
   },
   "day_sentiment": {
-   "avg": 0.39,
-   "count": 144
+   "avg": 0.4,
+   "count": 146
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 72% 分位"
+     "note": "现价处于52周区间 71% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +44.3%"
+     "note": "目标价中位数 $315（15家），隐含空间 +44.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（144条已评分）"
+     "note": "今日新闻情绪 +0.40（146条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $218.28 vs 20日均线 $227.72"
+     "note": "现价 $218.10 vs 20日均线 $227.71"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 72,
+   "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 44.3,
-   "ma20": 227.72,
-   "as_of": "2026-10-19T16:36:27.779711+00:00"
+   "implied_upside_pct": 44.4,
+   "ma20": 227.71,
+   "as_of": "2026-10-19T16:51:30.716047+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.3%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,13 +62,86 @@
  },
  "stories": [
   {
-   "id": "d39f17489f5e",
-   "title": "Jensen Huang Declares NVIDIA Can Win “in the Absence of Any AI Labs” - TIKR.com",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEU3MEZYTTVkRExVUVp5dXUxVWhSd1hIUS15MW53cW04Y1F1WE1JalRmZ0ZLVjNBMmRod291YkFCbTBpNFROdlFUanp6by1TWk9pRXhLU0ZXSE1BZnBIdGlPWjRPX3M2bnFJaWhVNkNLVE1BOHp0YmZBOWhYN21mYjlHUDZUV0RnRTVCRTFQalUtdC0xVDMw",
-   "source": "TIKR.com",
-   "published_at": "2026-10-19T16:24:32+00:00",
+   "id": "3a282d14ff06",
+   "title": "Broadcom’s Time is Nearing as Neocloud Risk Jolts Nvidia - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaC05bEFVbjJEM1V6VVRnYUk1T1FWRXdxZGh1OTJKWWFZQ05QcWllRnNqd25XNC1raFJvT2xpZ29BRU84REl4SDhJeVIxR0xNMVVSYmU4dFU3VXp4ZG1EWHQ2SWJSX1Jza09iS0w0UDZmSGdVN2VZT2ZUSFRyR2l0d213UkxMWlhQMXV6dlVkYzRZQkZxdTd5SXJiajE5Tkh2",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-19T16:45:00+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-19T16:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaC05bEFVbjJEM1V6VVRnYUk1T1FWRXdxZGh1OTJKWWFZQ05QcWllRnNqd25XNC1raFJvT2xpZ29BRU84REl4SDhJeVIxR0xNMVVSYmU4dFU3VXp4ZG1EWHQ2SWJSX1Jza09iS0w0UDZmSGdVN2VZT2ZUSFRyR2l0d213UkxMWlhQMXV6dlVkYzRZQkZxdTd5SXJiajE5Tkh2"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "4d70f6149aa9",
+   "title": "Nvidia-Backed Double AI Debuts AI ‘Code Execution’ Models - PYMNTS.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZTNsV05wUjJ2aFJkd2puQ3I5VmJqTnUtenhCOUQ2cUp5YklRRHZIYkRrM282STJCSDMzejNSNnk0X2VhbFdoMTg3VGpSRTE3V0JxeVRBcUhpaVIyU1VOREREVUc3NnhxYm1xM25PRW8tbWtqd3k4bXdvb1dfVXltZ09GdDl1YndaU1NMUV9FWEtPNWhtNVFBamJBeTd2R2QweEZuenB4MFJRMGFPcmE0TlZUUQ",
+   "source": "PYMNTS.com",
+   "published_at": "2026-10-19T16:43:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PYMNTS.com",
+     "published_at": "2026-10-19T16:43:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZTNsV05wUjJ2aFJkd2puQ3I5VmJqTnUtenhCOUQ2cUp5YklRRHZIYkRrM282STJCSDMzejNSNnk0X2VhbFdoMTg3VGpSRTE3V0JxeVRBcUhpaVIyU1VOREREVUc3NnhxYm1xM25PRW8tbWtqd3k4bXdvb1dfVXltZ09GdDl1YndaU1NMUV9FWEtPNWhtNVFBamJBeTd2R2QweEZuenB4MFJRMGFPcmE0TlZUUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "b297a77c2395",
+   "title": "Family unswayed by autopsy after NVIDIA scientist’s death - Palo Alto Online",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObkNoYWt4bzljWUlPTFdQbUJaY3hlRlMzTktDaVRJTG9UNV9pMmlCOXE2TEhWUm1qSnAwVXh3MTJ3YUJsbmc3dU1BeXNBQVozcDNEZldHblp1U2N3cGRaQU9pdVdTWC1HQWt1V19ZU3MtREJSQWdydTZVWmp3VXpGMm4tZUVtNFlSTWZoc0NSdERUeUlTZUtVUlZycG11OWpENVJrQVBIVXBPS2trWGROVEs3YWdldnRHM3c",
+   "source": "Palo Alto Online",
+   "published_at": "2026-10-19T16:32:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Palo Alto Online",
+     "published_at": "2026-10-19T16:32:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObkNoYWt4bzljWUlPTFdQbUJaY3hlRlMzTktDaVRJTG9UNV9pMmlCOXE2TEhWUm1qSnAwVXh3MTJ3YUJsbmc3dU1BeXNBQVozcDNEZldHblp1U2N3cGRaQU9pdVdTWC1HQWt1V19ZU3MtREJSQWdydTZVWmp3VXpGMm4tZUVtNFlSTWZoc0NSdERUeUlTZUtVUlZycG11OWpENVJrQVBIVXBPS2trWGROVEs3YWdldnRHM3c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "cb085b238439",
+   "title": "Chamath: Even Google “Tin Cups for Memory” Thanks to Nvidia. Here’s What Happens Next - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTRVX1JYeDE5WWZIQ2k0Z1J0NUs0VjdIY1Mxb0ZyV0VKYWVrRVhJRE84R09Ja2F0bzI2UHpIU1hfdlZiY2g5NW91eE1iOHYxb2tUNUROV3o3a2UyYUcwd0dfVkpURE9oeWZNRnhLbFNHYlI5T3I5dy1sNy0xRWNzNjJuM2pjNmNYZjU0ejVMeE5IYnY4QUpN",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T16:20:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T16:20:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTRVX1JYeDE5WWZIQ2k0Z1J0NUs0VjdIY1Mxb0ZyV0VKYWVrRVhJRE84R09Ja2F0bzI2UHpIU1hfdlZiY2g5NW91eE1iOHYxb2tUNUROV3o3a2UyYUcwd0dfVkpURE9oeWZNRnhLbFNHYlI5T3I5dy1sNy0xRWNzNjJuM2pjNmNYZjU0ejVMeE5IYnY4QUpN"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "d39f17489f5e",
+   "title": "Jensen Huang Declares NVIDIA Can Win “in the Absence of Any AI Labs” - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2xkS0tSQUpOQi1pNjc1dDhtR3dxUUhJcV84QWYtdG0wUFUxcGs2OE9mQ3lOT0ZFc1pIZ3RNYU5EY2FfWmJYY1NwZ0dkR1R6NFNvUF9aLWw0bTZQc3ZqMDYtdnV6N05yaTBsN2V4ZlhoM3JkVTllR0lFRU5WLThQSXlONng3M21vQ0ZnT1ZoNmFTVDJkTnVHLTEtWXc",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T16:12:37+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T16:12:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2xkS0tSQUpOQi1pNjc1dDhtR3dxUUhJcV84QWYtdG0wUFUxcGs2OE9mQ3lOT0ZFc1pIZ3RNYU5EY2FfWmJYY1NwZ0dkR1R6NFNvUF9aLWw0bTZQc3ZqMDYtdnV6N05yaTBsN2V4ZlhoM3JkVTllR0lFRU5WLThQSXlONng3M21vQ0ZnT1ZoNmFTVDJkTnVHLTEtWXc"
+    },
     {
      "name": "TIKR.com",
      "published_at": "2026-10-19T16:24:32+00:00",
@@ -80,6 +153,23 @@
    "zh_summary": "黄仁勋称英伟达无AI实验室也能赢",
    "title_zh": "黄仁勋称英伟达无需AI实验室也能获胜",
    "sentiment": 1
+  },
+  {
+   "id": "3c1dc3c98cfc",
+   "title": "What Is Nvidia (NVDA) Signaling With New AI Chip And Space Computing Deals? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2dpOGYtRVpzWWYzZDdveWdwZ3hHbUJDNVRQb2RQemxsX1ZIemxFRkV0Y3l4Ry1BNDJpT3lpSloyRGtQQktCQWExRFJrY1lOS05ZblFlZVFHX0R4Yzd4Yk5HU3ZoNWl4dVZXTEpHQlZNOFg3ell6SWJoRG14TGZveThrSEpnQ0h5eHBhamt1Nnl0LVRsWnZrRQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T16:11:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T16:11:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2dpOGYtRVpzWWYzZDdveWdwZ3hHbUJDNVRQb2RQemxsX1ZIemxFRkV0Y3l4Ry1BNDJpT3lpSloyRGtQQktCQWExRFJrY1lOS05ZblFlZVFHX0R4Yzd4Yk5HU3ZoNWl4dVZXTEpHQlZNOFg3ell6SWJoRG14TGZveThrSEpnQ0h5eHBhamt1Nnl0LVRsWnZrRQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "bf6fd4b1c4f5",
@@ -6535,111 +6625,6 @@
    "session": "周末",
    "zh_summary": "AI工厂变现功能上线英伟达DSX Air",
    "title_zh": "Monetize360：AI工厂变现功能登陆NVIDIA DSX Air",
-   "sentiment": 1
-  },
-  {
-   "id": "334124a25ff0",
-   "title": "应英伟达标准化要求，三星将与台积电首次合作生产HBM！ - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRFduRXFucDdmcGZFZVF5UWJnQTVDY0RnNDVpZ0RMTllOWTc5aTVqcVM5Rm9sYTB4T1J1Und0WUhuYThIWjRWdURCUDZTdXEzdWtGN2dkQ1c4VkR6TlRPOUdqZm1pdVlfME95dkVKNVpBcWdydmE2N0RQblR2ajdLekFxUlJzTy14NVRwWkpsa2llc3BXazFORlY3c3RkS2RUTldsTG4xV1E5amF4M0dCaktzUzh0N29Ib1NURWJ3",
-   "source": "富途牛牛",
-   "published_at": "2026-10-17T18:55:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-17T18:55:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRFduRXFucDdmcGZFZVF5UWJnQTVDY0RnNDVpZ0RMTllOWTc5aTVqcVM5Rm9sYTB4T1J1Und0WUhuYThIWjRWdURCUDZTdXEzdWtGN2dkQ1c4VkR6TlRPOUdqZm1pdVlfME95dkVKNVpBcWdydmE2N0RQblR2ajdLekFxUlJzTy14NVRwWkpsa2llc3BXazFORlY3c3RkS2RUTldsTG4xV1E5amF4M0dCaktzUzh0N29Ib1NURWJ3"
-    },
-    {
-     "name": "财联社",
-     "published_at": "2026-10-19T03:31:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XaVpMbXY0eWg1ai1kdDU0WGdjaEdUb3ZtYmdsa2lhYzF3TlhwSHFULVI0bGM1ZDVFVUJxLW5ZTE1GaTVWYzhWMA"
-    }
-   ],
-   "category": "供应链",
-   "session": "周末",
-   "zh_summary": "三星将与台积电首次合作生产HBM",
-   "title_zh": "应英伟达标准化要求 三星将与台积电首次合作生产HBM！ - 富途牛牛",
-   "sentiment": 1
-  },
-  {
-   "id": "1bb3897f5aff",
-   "title": "奔驰与英伟达共同开发下一代自动驾驶系统，目标瞄准L4级？｜懂车帝视线 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YdEpvazdBd0JpN1JmYkRtTi1VeGpHUzVFVVZlbWp0dnNfSU04Mm5WMDhMOXV1d016aVotVXgtVHBoN0RwWklqSGNvRjV5M2dFbV9TV3FKa0RLaHB3VEdwRU44d29QWk9rVU43NGV3RThvOWc",
-   "source": "新浪网",
-   "published_at": "2026-10-17T18:50:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T18:50:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YdEpvazdBd0JpN1JmYkRtTi1VeGpHUzVFVVZlbWp0dnNfSU04Mm5WMDhMOXV1d016aVotVXgtVHBoN0RwWklqSGNvRjV5M2dFbV9TV3FKa0RLaHB3VEdwRU44d29QWk9rVU43NGV3RThvOWc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "奔驰与英伟达共研下一代自动驾驶系统",
-   "title_zh": "奔驰与英伟达共同开发下一代自动驾驶系统，目标瞄准L4级？｜懂车帝视线 - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "b7618367c222",
-   "title": "Nvidia (NVDA) Trades Far Below Its Usual Multiple, Is Customer Debt the Real Risk? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0RqY1JjcXVtOWFoM2F2ZmRINWluWTJqV2UyQU5UaldWN1ozeDhrMHV0X280WWIzYlU5dTVRUTFwbDB1OXJZc3ZHeU9zRWhMOV90dlZYQkFyR0ViSXRRbTQxbjFDQ1MwNXlrTTh6Vld2clBiS256VlR4UkNKUTRWbUZjcjBSTWZBZ1pWZ3ZRa1MydEQ3cHowaA",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-17T17:35:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-17T17:35:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0RqY1JjcXVtOWFoM2F2ZmRINWluWTJqV2UyQU5UaldWN1ozeDhrMHV0X280WWIzYlU5dTVRUTFwbDB1OXJZc3ZHeU9zRWhMOV90dlZYQkFyR0ViSXRRbTQxbjFDQ1MwNXlrTTh6Vld2clBiS256VlR4UkNKUTRWbUZjcjBSTWZBZ1pWZ3ZRa1MydEQ3cHowaA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达估值远低于往常，客户债务是否为真风险",
-   "title_zh": "英伟达(NVDA)股价远低于其通常市盈率，客户债务是真正风险吗",
-   "sentiment": 0
-  },
-  {
-   "id": "4d3b214805d9",
-   "title": "Nvidia says the RTX 5090 is alive. Its availability begs to differ - Digital Trends",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVHkxTGdnSE5KRlptUXB0NEJ2c1RTaXZORXllZGNNVHExNnRyeHoyY3Bvc1RyZEJ1QVVvajVxZS1peHBadlVIdTA1M01zaWlCTzluTUxHTTlhUTFuekE5bGZZQ3dCZDRmcDdCc0Z0WmNrOTlhLVdaMEo2eEZmMWM3blBZVVFPNWJUb3c",
-   "source": "Digital Trends",
-   "published_at": "2026-10-17T17:08:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Digital Trends",
-     "published_at": "2026-10-17T17:08:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVHkxTGdnSE5KRlptUXB0NEJ2c1RTaXZORXllZGNNVHExNnRyeHoyY3Bvc1RyZEJ1QVVvajVxZS1peHBadlVIdTA1M01zaWlCTzluTUxHTTlhUTFuekE5bGZZQ3dCZDRmcDdCc0Z0WmNrOTlhLVdaMEo2eEZmMWM3blBZVVFPNWJUb3c"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达称RTX 5090仍在售但缺货",
-   "title_zh": "英伟达称RTX 5090仍在售，但其供货情况存疑",
-   "sentiment": 0
-  },
-  {
-   "id": "c9dc3e0a55b4",
-   "title": "NVIDIA RTX Spark N1X Launch Overview: NVIDIA Arms Windows - ServeTheHome",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnR6WkVnYXd0LUZ3RHExOU1NSEdKazFldS1nTGZnM2JiazJrYnYtLVpTYWVMZS1pTDNObjBxOU5ZdURmaFJzc1RkRHpLQV9tOTU3dm93OTNURHkxcmNEMGRxS05jR0N0MGw5RFRSN01jZl9pVUVPcXVyemlkT195MVhsZV9KXy12MUd5U1h5OA",
-   "source": "ServeTheHome",
-   "published_at": "2026-10-17T17:00:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ServeTheHome",
-     "published_at": "2026-10-17T17:00:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnR6WkVnYXd0LUZ3RHExOU1NSEdKazFldS1nTGZnM2JiazJrYnYtLVpTYWVMZS1pTDNObjBxOU5ZdURmaFJzc1RkRHpLQV9tOTU3dm93OTNURHkxcmNEMGRxS05jR0N0MGw5RFRSN01jZl9pVUVPcXVyemlkT195MVhsZV9KXy12MUd5U1h5OA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达RTX Spark N1X发布综述",
-   "title_zh": "NVIDIA RTX Spark N1X发布综述：英伟达武装Windows",
    "sentiment": 1
   }
  ]
