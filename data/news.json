@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T00:36:33.680542+00:00",
+ "updated_at": "2026-10-19T00:51:36.333631+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,8 +10,8 @@
    "days_left": 30
   },
   "day_sentiment": {
-   "avg": 0.28,
-   "count": 68
+   "avg": 0.29,
+   "count": 69
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（68条已评分）"
+     "note": "今日新闻情绪 +0.29（69条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-19T00:36:33.661052+00:00"
+   "as_of": "2026-10-19T00:51:36.318965+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "29269caefe02",
+   "title": "Samsung Collaborates with TSMC for Nvidia's Next-Gen NVHBM Produ - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObmNENFFaUThVZzZBUFlWSzhEaXFiOW8xeVU1Vjk3elJMT05fenFRTEJZX1lIakRxQnk4Y1JrN2thRGdXcmtHS2wzV2toOXF5ZlhIa3k3YkVxZDVhZXlaai1HUGF6UFhHblFrRDBKRkc0bkMtZTJJMU42S3JoSzdVU1dRd1ppLWNRWW9XczRGdWZITDRSVVdTVHFYS2RwQnJBNEk3Z0otUlMwdw",
+   "source": "GuruFocus",
+   "published_at": "2026-10-19T00:36:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-19T00:36:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObmNENFFaUThVZzZBUFlWSzhEaXFiOW8xeVU1Vjk3elJMT05fenFRTEJZX1lIakRxQnk4Y1JrN2thRGdXcmtHS2wzV2toOXF5ZlhIa3k3YkVxZDVhZXlaai1HUGF6UFhHblFrRDBKRkc0bkMtZTJJMU42S3JoSzdVU1dRd1ppLWNRWW9XczRGdWZITDRSVVdTVHFYS2RwQnJBNEk3Z0otUlMwdw"
+    }
+   ],
+   "category": "供应链",
+   "session": "周末"
+  },
   {
    "id": "3c7f845a9ec5",
    "title": "科技早报 | iPhone Duo黄牛溢价已有回落；英伟达辟谣RTX 5090停产 - Jiemian.com",
@@ -1745,6 +1762,23 @@
    "zh_summary": "黄仁勋称Surface新机倾注热爱",
    "title_zh": "黄仁勋盛赞新款Surface Laptop Ultra：这是倾注热爱的作品",
    "sentiment": 1
+  },
+  {
+   "id": "cf65e7757046",
+   "title": "中国三季度GDP、10月LPR将出炉；英伟达GTC柏林大会将开幕丨一周前瞻 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pSEx3OUdSTXBCMDZhazE4WXdYQnNyQmtHWUlBeTVDUllXeU9NenhTRlA1cWZibFQ5OEt6eGhScUtvUWdzX3p3MVBwZGY1X1p5QjU4UVY5Z0lwaVoxM2tBM21WaEFDUQ",
+   "source": "东方财富",
+   "published_at": "2026-10-18T00:50:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-18T00:50:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pSEx3OUdSTXBCMDZhazE4WXdYQnNyQmtHWUlBeTVDUllXeU9NenhTRlA1cWZibFQ5OEt6eGhScUtvUWdzX3p3MVBwZGY1X1p5QjU4UVY5Z0lwaVoxM2tBM21WaEFDUQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "周末"
   },
   {
    "id": "c5c27d6520d8",
@@ -6496,46 +6530,6 @@
    "zh_summary": "德国工业AI项目选用英伟达芯片",
    "title_zh": "德国工业AI计划选用英伟达，金额有限",
    "sentiment": 1
-  },
-  {
-   "id": "62ac87397270",
-   "title": "Microsoft Surface Laptop Ultra: NVIDIA RTX Spark means business - Computerworld",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXRNVVQxVlBWUHllZzU3LXNzakhBWFRYaExHei1KUUlvVi1Zb0ZxSU9EVmFjbVJRTUV6aUJTLUs5UVlwd1l5RFA5X1N5Y0pQalFyMjlqanV6VWNRZTZxNVktaWUtR0pVYUZfcldGbG5ENUZHUXdlRndMZzkwSnRqQTN3el9GWGhTWGlrNzI4Vmd3aXp0NWM4YWczR3JNdjlfSFQ2NnFSMXJRbG43N0VOWlc1bw",
-   "source": "Computerworld",
-   "published_at": "2026-10-16T12:05:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Computerworld",
-     "published_at": "2026-10-16T12:05:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXRNVVQxVlBWUHllZzU3LXNzakhBWFRYaExHei1KUUlvVi1Zb0ZxSU9EVmFjbVJRTUV6aUJTLUs5UVlwd1l5RFA5X1N5Y0pQalFyMjlqanV6VWNRZTZxNVktaWUtR0pVYUZfcldGbG5ENUZHUXdlRndMZzkwSnRqQTN3el9GWGhTWGlrNzI4Vmd3aXp0NWM4YWczR3JNdjlfSFQ2NnFSMXJRbG43N0VOWlc1bw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "微软新笔电搭载英伟达RTX Spark",
-   "title_zh": "微软Surface Ultra新机搭载RTX Spark",
-   "sentiment": 1
-  },
-  {
-   "id": "901ebae15302",
-   "title": "Meet the New Nasdaq-100 Stock That’s Crushing Nvidia, Micron, and Sandisk. Is It Too Late to Buy? - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlhjVDk2V2FoTzZQNFJXZC1ERHNSaDJIRGV3RW9ocXp6TmxxeWVBQmR5OXBzclpIdEJ0eWZKUDlRNnRKT05jRUtfTDRuWnc0R1JHS3V4SjRubklTVmpEdVdwOTVkcnM3TjhEZmd3R2MxYXhYNWNOQk9VRUlhQ3hpTHRabTU1cDFhc2xUeVRfQzBtc1A5NXhTcHpwTlVVREQ1eEQ0N0pkejdSZUhDSExkY0RZOHRsYl9kWGZTTXFfbXczNjVLMXpqcWtHUU9CQ3ZKLWc",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-16T12:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-16T12:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNlhjVDk2V2FoTzZQNFJXZC1ERHNSaDJIRGV3RW9ocXp6TmxxeWVBQmR5OXBzclpIdEJ0eWZKUDlRNnRKT05jRUtfTDRuWnc0R1JHS3V4SjRubklTVmpEdVdwOTVkcnM3TjhEZmd3R2MxYXhYNWNOQk9VRUlhQ3hpTHRabTU1cDFhc2xUeVRfQzBtc1A5NXhTcHpwTlVVREQ1eEQ0N0pkejdSZUhDSExkY0RZOHRsYl9kWGZTTXFfbXczNjVLMXpqcWtHUU9CQ3ZKLWc"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "纳斯达克新成分股涨势超过英伟达等",
-   "title_zh": "纳斯达克100新成分股涨势超过英伟达等，现在买入还来得及吗？",
-   "sentiment": -1
   }
  ]
 }
