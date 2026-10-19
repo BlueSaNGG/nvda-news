@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T03:51:42.046727+00:00",
+ "updated_at": "2026-10-19T04:06:32.241402+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.3,
-   "count": 98
+   "count": 101
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（98条已评分）"
+     "note": "今日新闻情绪 +0.30（101条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-19T03:51:42.033516+00:00"
+   "as_of": "2026-10-19T04:06:32.231177+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "64a59e40f994",
+   "title": "Nvidia Shield Running Slow? Here's How To Speed It Up - BGR",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaQjZnT0t6cmt1YlR6R3JGRlZRbWdlOEpKVzNKWmp6b1J2X010YUFYRENiSEMtajN4SEx5NTVlbDhDWHBrQmVLRUFZX24taUdHNnprQjh0V2huOFBmZGRER3BSeU55bkoyWm9r",
+   "source": "BGR",
+   "published_at": "2026-10-19T04:01:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BGR",
+     "published_at": "2026-10-19T04:01:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaQjZnT0t6cmt1YlR6R3JGRlZRbWdlOEpKVzNKWmp6b1J2X010YUFYRENiSEMtajN4SEx5NTVlbDhDWHBrQmVLRUFZX24taUdHNnprQjh0V2huOFBmZGRER3BSeU55bkoyWm9r"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "649df47c6e71",
    "title": "英伟达联合vLLM推出CuTe DSL定制解码链路，Kimi K3在GB300上解码吞吐提升1.8倍 - SmartHey",
@@ -6483,6 +6500,23 @@
    "sentiment": 0
   },
   {
+   "id": "d1868accd892",
+   "title": "Nvidia and Apple Donate Millions for Planned White House Project - TIKR.com",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPckZTVUctVTktRnY1TGVYTV8xM2Y4bm9kX3JfdTgzUVlQbDJBMENuVjVEYXh2SndQQWJEd19vaVpYaTA4UjltZjY2V0Zxbmx6TUZxbm5GcGpnNlg2V3dUYzFYbDJaQkN1OWo1dWpzU1lZalRFUTBn",
+   "source": "TIKR.com",
+   "published_at": "2026-10-16T14:06:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-10-16T14:06:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPckZTVUctVTktRnY1TGVYTV8xM2Y4bm9kX3JfdTgzUVlQbDJBMENuVjVEYXh2SndQQWJEd19vaVpYaTA4UjltZjY2V0Zxbmx6TUZxbm5GcGpnNlg2V3dUYzFYbDJaQkN1OWo1dWpzU1lZalRFUTBn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "e16474f4f374",
    "title": "谢谢，我打算回半导体领域。博通、台积电、英伟达…… - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2NaTGJxTnc3bDltak5qSmVkVW9TS2YtLUV0VUpHVmg1clhpOVd3NVJtbVVtbERVYkd4UDc1dDN3YW9vdWxpd2ZKTVdHSDRHbm44dVNpWTgtdl9oRFVSTUhsTWgyOWUzMDFVUk10WGk0a2I0akwxaFd2STdzV1IwOHFINGxyVVJWTlhsREQyRHRDMGZzRklldWd1dEc1QzdRM1BzODFFb0h4N2FxYzVz",
@@ -6525,51 +6559,6 @@
    "session": "盘中",
    "zh_summary": "NVIDIA RTX Spark PC 现已上市",
    "title_zh": "NVIDIA RTX Spark PC 现已上市 – 开启 Windows PC 新序章 - 驱动之家",
-   "sentiment": 1
-  },
-  {
-   "id": "ded8c9eee695",
-   "title": "NVIDIA GeForce NOW Unlocks 4X Frame Gen With Full DLSS 4.5 Controls - HotHardware",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRklMN3V4SFFtWVAxM0dHcHJoY0w0TVU1YnpPZnVNUkNkek1hNGp2c2JVa3RzQ2JJMzVIWnZfSXplc1VQUnJiNWQ2ZmkzclFrRXBqTzlJb09icmxqa3dnbDVZUmN5dk9uX1p3STRyYnJDVmFrYkFMakFwRXdhbXB1UC0wWTdXT1JhMHpXZTVR",
-   "source": "HotHardware",
-   "published_at": "2026-10-16T14:02:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "HotHardware",
-     "published_at": "2026-10-16T14:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRklMN3V4SFFtWVAxM0dHcHJoY0w0TVU1YnpPZnVNUkNkek1hNGp2c2JVa3RzQ2JJMzVIWnZfSXplc1VQUnJiNWQ2ZmkzclFrRXBqTzlJb09icmxqa3dnbDVZUmN5dk9uX1p3STRyYnJDVmFrYkFMakFwRXdhbXB1UC0wWTdXT1JhMHpXZTVR"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达云游戏支持4X帧生成与DLSS 4.5控制",
-   "title_zh": "英伟达GeForce NOW解锁4X帧生成，全面支持DLSS 4.5控制",
-   "sentiment": 1
-  },
-  {
-   "id": "c365c383cd05",
-   "title": "Nvidia AI Deal Talks Just Gave Bulls a Fresh Reason to Buy NVDA Stock - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMW1BTXB0SG9mUURlcXpQQjI4bmZBMjhYSHZXWkc5dW1hWEdKOEU2NFk0b2gzRmR4WTNQQ3JvcWl0aVBteEIyNW1BdXBKUTE1NGk1d09reXFNMGV1UEw0N29Db3NzX2hKdDN5ZDQ3NkFDRXBqQVozaXh6M2NlcXFlOHBFT19WMW4xeGRldmFLQ0hNUmc",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-16T14:00:02+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-16T14:00:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMW1BTXB0SG9mUURlcXpQQjI4bmZBMjhYSHZXWkc5dW1hWEdKOEU2NFk0b2gzRmR4WTNQQ3JvcWl0aVBteEIyNW1BdXBKUTE1NGk1d09reXFNMGV1UEw0N29Db3NzX2hKdDN5ZDQ3NkFDRXBqQVozaXh6M2NlcXFlOHBFT19WMW4xeGRldmFLQ0hNUmc"
-    },
-    {
-     "name": "Barchart.com",
-     "published_at": "2026-10-16T14:00:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFlxcjBGR3Y1WjVTa3pXWlg5dUhNVkdrMTBJTDZTeDhVdDRJdThBQ0p2VUpNc203eHkwdzZKYUdrMVk5TURpUGRIakZzWDd6YWZ2V3BXWEVlQzZiUGVfalUyRmdldF9nX1AxYkpRYlcyWW5HcW13cjN6cWFWZkZMa2dxQk8xdDZ1TEx0cVRULTc0YS1vQmpMOGRkbG1BRDJOZGprNWRucDBIMjBVekFHRVV0aw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "AI交易谈判给多头买入新理由",
-   "title_zh": "英伟达AI交易谈判给多头新的买入理由",
    "sentiment": 1
   }
  ]
