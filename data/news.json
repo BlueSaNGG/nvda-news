@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T08:06:30.626760+00:00",
+ "updated_at": "2026-10-19T08:21:29.947730+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,8 +10,8 @@
    "days_left": 29
   },
   "day_sentiment": {
-   "avg": 0.55,
-   "count": 33
+   "avg": 0.5,
+   "count": 38
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.55（33条已评分）"
+     "note": "今日新闻情绪 +0.50（38条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-19T08:06:30.611588+00:00"
+   "as_of": "2026-10-19T08:21:29.936841+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "4d318d252100",
+   "title": "Santander Signs Three-year Framework With Nvidia to Extend AI Collaboration - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcU5GT0FFdnROcUkyTmFJbndwdnp2Q0tRTnR0S0pqdnd2M2RBRUxmZWFoR0JzQTluNDZ3clF6cjIyeDVXSTNyRnVvcm9oQ3c1THdCYkZrbVM5RW1QclY1VUdEMnJqNFFETHlKWjBtTEpKZzEzakZBNk5WTXp2dWZMQzVVS2hTTVdtanBEY3B6TnpkUC1fNnlBRXBGc0c1a09jak8zNEk5M2o",
+   "source": "Moomoo",
+   "published_at": "2026-10-19T08:18:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-19T08:18:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcU5GT0FFdnROcUkyTmFJbndwdnp2Q0tRTnR0S0pqdnd2M2RBRUxmZWFoR0JzQTluNDZ3clF6cjIyeDVXSTNyRnVvcm9oQ3c1THdCYkZrbVM5RW1QclY1VUdEMnJqNFFETHlKWjBtTEpKZzEzakZBNk5WTXp2dWZMQzVVS2hTTVdtanBEY3B6TnpkUC1fNnlBRXBGc0c1a09jak8zNEk5M2o"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "e469dd7f1255",
+   "title": "桑坦德银行与英伟达签署为期三年的合作框架，以深化人工智能领域的合作 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYk5waHBGYUxQUkxtejVJQTEyUF84LTVBY0VSNUU0UzNjNnJfOS1hMUtrcHRjQ3VDaVBBbDZhNUc2NS16ejB5aVVzSEIxRkR0cXBNLW9QVTR1ZkdTODRPV3hsd2w1d25YTDlLUmtOZ1BZelV5UFRnRmQ5bjI4bnJjMHhBeTNSZXV4Q3NaRV9pQUFyS1FVcF9xTEp5MW5ZWDhjUDV5VTlkX0NZN19xangw",
+   "source": "Moomoo",
+   "published_at": "2026-10-19T08:15:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-19T08:15:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYk5waHBGYUxQUkxtejVJQTEyUF84LTVBY0VSNUU0UzNjNnJfOS1hMUtrcHRjQ3VDaVBBbDZhNUc2NS16ejB5aVVzSEIxRkR0cXBNLW9QVTR1ZkdTODRPV3hsd2w1d25YTDlLUmtOZ1BZelV5UFRnRmQ5bjI4bnJjMHhBeTNSZXV4Q3NaRV9pQUFyS1FVcF9xTEp5MW5ZWDhjUDV5VTlkX0NZN19xangw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "9d3cc04f9a8c",
    "title": "Testing Support Level, NVDA Stock Drops: What to Know - JournalArta",
@@ -87,12 +121,17 @@
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcTFXNk1PWDdHUERoeWd6blBpdVkyUW9YaHBGMHg5bl9vV0M3T1JyeV94YVk2WU9vM3BUWFA5QnFVTDRTQjZTZTdEM3pwT0x0UzZVNW1vM2RZendJcFlOcjhLWnB0WXRYSVV3TW9jNmd0NzdCc2hwWWkzc0J1SDg3UUNkWEh4NzlpUy10cmNEUWZLbFljNWZHSXl5Q08wRXBYeENnZjlxR2c0U0U3N0NnVDBjNmFvTWVqLWx6YV9GaF8ySHRwN0V1R3NnblROSnd2VTduY1FiYjlsTkE4NFB5NEQ4bW8",
    "source": "Business Wire",
    "published_at": "2026-10-19T08:00:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Business Wire",
      "published_at": "2026-10-19T08:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcTFXNk1PWDdHUERoeWd6blBpdVkyUW9YaHBGMHg5bl9vV0M3T1JyeV94YVk2WU9vM3BUWFA5QnFVTDRTQjZTZTdEM3pwT0x0UzZVNW1vM2RZendJcFlOcjhLWnB0WXRYSVV3TW9jNmd0NzdCc2hwWWkzc0J1SDg3UUNkWEh4NzlpUy10cmNEUWZLbFljNWZHSXl5Q08wRXBYeENnZjlxR2c0U0U3N0NnVDBjNmFvTWVqLWx6YV9GaF8ySHRwN0V1R3NnblROSnd2VTduY1FiYjlsTkE4NFB5NEQ4bW8"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T08:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWszUHE2Nl9IQ2dlUGVrYmFEUV8xaGRKcGF0bzlhNk9LZDdPODRVTGpBUnctcmhZdWNXY0R6OG5wQmJkcXVnSVlXN3YxS3FMaHhHc0U0dVZDSm13b3U1dFFXRDZRTVVCamhDWUxVV2kzVjhkeGdwWlMxVmpmZnRhWGV5bTZnWFQ0UUl3S2ZLcWxnZ1lMVTNnZmlR"
     }
    ],
    "category": "其他",
@@ -100,6 +139,23 @@
    "zh_summary": "Reply获得英伟达物理AI专项认证",
    "title_zh": "Reply获得英伟达物理AI专项认证，用于生产级机器人与数字孪生",
    "sentiment": 1
+  },
+  {
+   "id": "db3e660049ad",
+   "title": "沃尔沃汽车与英伟达扩大合作，共同推动安全辅助驾驶发展 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONW50VEJSYmpjVV9mWFUxVEpTOEN3bHBPRVBud3c5VTI3aTh2SEhaNmdJVVN0ZVptNDY0eVVVLThsVDNMZjlNblUxb01WUUlvOTdhSVRBbDRvbmxhRVAzeWxBTE1WT1ZiZmNTTzlRM3FoUEVuUHdDZW5RczdIbndPYUFUWjdjVUktYVFOMg",
+   "source": "搜狐",
+   "published_at": "2026-10-19T07:51:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-19T07:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONW50VEJSYmpjVV9mWFUxVEpTOEN3bHBPRVBud3c5VTI3aTh2SEhaNmdJVVN0ZVptNDY0eVVVLThsVDNMZjlNblUxb01WUUlvOTdhSVRBbDRvbmxhRVAzeWxBTE1WT1ZiZmNTTzlRM3FoUEVuUHdDZW5RczdIbndPYUFUWjdjVUktYVFOMg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "c85a5c919423",
@@ -731,12 +787,12 @@
    "title": "桑坦德银行与英伟达达成新的人工智能合作里程碑。 - 手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IQ2t4ck9obERTdURrMm9CbWVJU2RQVTRxY3lyREFYOUU0eTdsaG9MNzVsWktEZV9vNnM1ZTlnbTZ3dnl5NW8tNEkzQQ",
    "source": "手机新浪网",
-   "published_at": "2026-10-19T05:08:50+00:00",
+   "published_at": "2026-10-19T05:08:47+00:00",
    "outlets_count": 2,
    "outlets": [
     {
      "name": "手机新浪网",
-     "published_at": "2026-10-19T05:08:50+00:00",
+     "published_at": "2026-10-19T05:08:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IQ2t4ck9obERTdURrMm9CbWVJU2RQVTRxY3lyREFYOUU0eTdsaG9MNzVsWktEZV9vNnM1ZTlnbTZ3dnl5NW8tNEkzQQ"
     },
     {
@@ -770,6 +826,23 @@
    "zh_summary": "桑坦德银行采用英伟达技术布局AI",
    "title_zh": "桑坦德银行利用英伟达......_7x24快讯_新浪财经 - 手机新浪网",
    "sentiment": 1
+  },
+  {
+   "id": "6cb24028704e",
+   "title": "桑坦德银行利用英伟达人工智能基础设施构建人工智能能力。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DOVBaNkxUWm91b3VVU2xhTFFjZXhfTzhwb2cwbjhuMHRuS3VRV0FSX3R2RFpoZ0ZnRFhUSnUwTldCUEdvclU0NnJTNA",
+   "source": "手机新浪网",
+   "published_at": "2026-10-19T05:06:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-19T05:06:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DOVBaNkxUWm91b3VVU2xhTFFjZXhfTzhwb2cwbjhuMHRuS3VRV0FSX3R2RFpoZ0ZnRFhUSnUwTldCUEdvclU0NnJTNA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "1739098d606a",
@@ -6496,96 +6569,6 @@
    "zh_summary": "分析：AI芯片产能真正的瓶颈是设备商",
    "title_zh": "不是英伟达也不是台积电，这家设备商才是AI芯片瓶颈",
    "sentiment": 1
-  },
-  {
-   "id": "0308b963a873",
-   "title": "Nvidia's communications team has undergone a shake-up as its public profile exploded - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmQ5aS01cWpzX19DUWRwV19ZbklGRUxxOUVsSzQwLThOOG9aaDh2X1RoVXEwREE4bW5ZRDFONkU4OG8xVW1oRi1yOElVbG1QXzV1V0hRbDlBX21Hc2R5OGRTVmNhSG0xd2JjWklod2J2bFVqN2toUkRncXBTWTAyZ3o2TFkxUDJHZWNWVmlGNms4UDA",
-   "source": "Business Insider",
-   "published_at": "2026-10-16T18:58:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Business Insider",
-     "published_at": "2026-10-16T18:58:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmQ5aS01cWpzX19DUWRwV19ZbklGRUxxOUVsSzQwLThOOG9aaDh2X1RoVXEwREE4bW5ZRDFONkU4OG8xVW1oRi1yOElVbG1QXzV1V0hRbDlBX21Hc2R5OGRTVmNhSG0xd2JjWklod2J2bFVqN2toUkRncXBTWTAyZ3o2TFkxUDJHZWNWVmlGNms4UDA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达公关团队在曝光度激增后重组",
-   "title_zh": "英伟达公关团队在公司曝光度激增后大调整",
-   "sentiment": 0
-  },
-  {
-   "id": "f87c8f9ce364",
-   "title": "Open source and on device: the strategy behind Nvidia’s new AI models - TechTarget",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0w2akJBX0EyTklXMFVNZEd2RHhJZzdPLTFDc1dPUDZJcWxoTWl2RklBRHh0b1o0WDRmMjJzNF9lTEpRdWFtQWpIbXlSX1ZDV0N2elVXMWhmVndoeHVGNWl4aE8xWVRsb1hWdVBzVmRldU9wWGMwdHlwOG9yaW8zeU8zZmZUamhzcjZWaFhESW1MZ3VGeXFiSUU0S0Q1eWVHTW05b283aDlYOVRkajRHUHFB",
-   "source": "TechTarget",
-   "published_at": "2026-10-16T18:56:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechTarget",
-     "published_at": "2026-10-16T18:56:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0w2akJBX0EyTklXMFVNZEd2RHhJZzdPLTFDc1dPUDZJcWxoTWl2RklBRHh0b1o0WDRmMjJzNF9lTEpRdWFtQWpIbXlSX1ZDV0N2elVXMWhmVndoeHVGNWl4aE8xWVRsb1hWdVBzVmRldU9wWGMwdHlwOG9yaW8zeU8zZmZUamhzcjZWaFhESW1MZ3VGeXFiSUU0S0Q1eWVHTW05b283aDlYOVRkajRHUHFB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达新AI模型策略：开源与端侧",
-   "title_zh": "开源且设备端：英伟达新AI模型的战略布局",
-   "sentiment": 1
-  },
-  {
-   "id": "5b95527c064a",
-   "title": "Why Dan Ives Says Now Is the Time to Buy the Dip on Nvidia Stock - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaTdpWG5GWUxmQlU0NXRMaDhvdHpFRUhXem5tNG9KaFl2aHh3VS11YldrczV2U1Izb3VVcUtVc01jMlJhX3ZTLVZYaGFualRLOGt0QUlScjFtWUpMY3BScEhfWElXMEt4ZXdyNjZEZVYxS1k2SVhwUjhkZE1KOFFXWWtEcnV5ZkdkMHg0aXZ1WQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-16T18:39:43+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-16T18:39:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaTdpWG5GWUxmQlU0NXRMaDhvdHpFRUhXem5tNG9KaFl2aHh3VS11YldrczV2U1Izb3VVcUtVc01jMlJhX3ZTLVZYaGFualRLOGt0QUlScjFtWUpMY3BScEhfWElXMEt4ZXdyNjZEZVYxS1k2SVhwUjhkZE1KOFFXWWtEcnV5ZkdkMHg0aXZ1WQ"
-    },
-    {
-     "name": "Barchart.com",
-     "published_at": "2026-10-16T18:39:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjFabWR4eXh5aWgzaUl5c0lnYklvb0N4T2xrdE9PcVl4cEk4MERtbndEWnpmYTYwVGFIaFpEVkFqeDBlMWxpUXF4MVpFOUVrSWJGYzNlSWlKU1NYdW1DWk9nNVZkVi1FVmc4UXMtR2JucEZFdjJsX2hYWTl3WGZwdkUzVExMNjhoRk1RcEt4TkhlN0Q5YVdfMEJhZnlUa0JNMW5DQ0pveUZ3eTU2"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Ives认为抄底英伟达时机已到",
-   "title_zh": "Ives称现在是抄底英伟达的好时机",
-   "sentiment": 1
-  },
-  {
-   "id": "3e27e88938fd",
-   "title": "Jensen Huang's Nvidia Lost $200 Billion in Value After OpenAI's Revenue Run Rate Came Up $18 Billion Below Expectations. Is This AI-Jitters Sell-Off a Buying Opportunity? - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmUybE1nMEtyMGJFb0VDd2dpOHFTYjU1eXJHc2xXbnRfc25LVjB2UVpSLU5mR1Jqa2NvNVMzSTJFVXFlZGJKbUtDQWljUG1SUmVEZHdOMjZQVWhSUFV6QnFLVzdVSGl1UGdMMll5Y2c3T2g5cDNvd2FOYnFTZU1ELXQ4eGxlNHNqY295R1hDakVJYWZCYzZyaw",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-16T18:35:29+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-16T18:35:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmUybE1nMEtyMGJFb0VDd2dpOHFTYjU1eXJHc2xXbnRfc25LVjB2UVpSLU5mR1Jqa2NvNVMzSTJFVXFlZGJKbUtDQWljUG1SUmVEZHdOMjZQVWhSUFV6QnFLVzdVSGl1UGdMMll5Y2c3T2g5cDNvd2FOYnFTZU1ELXQ4eGxlNHNqY295R1hDakVJYWZCYzZyaw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-16T18:51:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDdMcVRWa1ljMXpMMzd6V1N6TXNvY1ZjNlh5N19PczRwRHlHMHBlV3pGcnhwUDJ1eDFDak5zdF9RSHBCbWRpdy1mbjNLWjl0TkpBZWdwSmwxZnNZOHFqSG1kT0F3MUREWDQ4QURpLXJXV1BmWnY0V2FYLXFMWEktWWR4eXpxeXNlZGNvTGQxVzN6bVY3cXVTdg"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "英伟达市值蒸发2000亿美元",
-   "title_zh": "OpenAI收入低于预期180亿美元，英伟达市值蒸发2000亿美元",
-   "sentiment": -1
   }
  ]
 }
