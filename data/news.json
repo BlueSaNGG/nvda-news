@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T16:21:35.928059+00:00",
+ "updated_at": "2026-10-19T16:36:27.793309+00:00",
  "market": {
-  "price": 218.59,
-  "change_pct": 2.08,
+  "price": 218.28,
+  "change_pct": 1.94,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.39,
-   "count": 140
+   "count": 144
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +44.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +44.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（140条已评分）"
+     "note": "今日新闻情绪 +0.39（144条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $218.59 vs 20日均线 $227.74"
+     "note": "现价 $218.28 vs 20日均线 $227.72"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 72,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 44.1,
-   "ma20": 227.74,
-   "as_of": "2026-10-19T16:21:35.905206+00:00"
+   "implied_upside_pct": 44.3,
+   "ma20": 227.72,
+   "as_of": "2026-10-19T16:36:27.779711+00:00"
   },
-  "pe_ttm": 27.8,
+  "pe_ttm": 27.7,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d39f17489f5e",
+   "title": "Jensen Huang Declares NVIDIA Can Win “in the Absence of Any AI Labs” - TIKR.com",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEU3MEZYTTVkRExVUVp5dXUxVWhSd1hIUS15MW53cW04Y1F1WE1JalRmZ0ZLVjNBMmRod291YkFCbTBpNFROdlFUanp6by1TWk9pRXhLU0ZXSE1BZnBIdGlPWjRPX3M2bnFJaWhVNkNLVE1BOHp0YmZBOWhYN21mYjlHUDZUV0RnRTVCRTFQalUtdC0xVDMw",
+   "source": "TIKR.com",
+   "published_at": "2026-10-19T16:24:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-10-19T16:24:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEU3MEZYTTVkRExVUVp5dXUxVWhSd1hIUS15MW53cW04Y1F1WE1JalRmZ0ZLVjNBMmRod291YkFCbTBpNFROdlFUanp6by1TWk9pRXhLU0ZXSE1BZnBIdGlPWjRPX3M2bnFJaWhVNkNLVE1BOHp0YmZBOWhYN21mYjlHUDZUV0RnRTVCRTFQalUtdC0xVDMw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "bf6fd4b1c4f5",
    "title": "Modal Plans NVIDIA Vera Rollout for Sandboxes in First Arm Move - Unite.AI",
@@ -976,6 +993,23 @@
    "sentiment": 1
   },
   {
+   "id": "2846101e450b",
+   "title": "梅赛德斯-奔驰与英伟达拓展战略合作 推进自动驾驶系统研发 - 凤凰网汽车",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uTU9IOFd5LUM0Nng5RTNZT0pMVzl0dng1Y2dEM3Q2eTJyOVNCYmItUjRRRC1icU93eXItYkJGRE43ZEp4eEtzR2VFb2I",
+   "source": "凤凰网汽车",
+   "published_at": "2026-10-19T12:20:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网汽车",
+     "published_at": "2026-10-19T12:20:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uTU9IOFd5LUM0Nng5RTNZT0pMVzl0dng1Y2dEM3Q2eTJyOVNCYmItUjRRRC1icU93eXItYkJGRE43ZEp4eEtzR2VFb2I"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "ac89b7be70e2",
    "title": "Stock Market Today: Tech Futures Rebound As AI Names Bounce; AMD, CoreWeave, Nvidia Rally (Live Coverage) - Investor's Business Daily",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORXNBVmY5QW01S283Ul9KVExGV1RFeXFxWlpROFh3QzBNTkJNY3NkbkZWU2xUMEc5UXMtS05xUTFFMTR1aW1sWTFIV3BLR0VVSk9rZk02RU52VU8zMFEyX2lBV1NoakVyYUozNmtVc1lqb2NoOGpDeGVHd0FwRGNzR3FQSHMtSVBmVG0zT3lveHpMX0FyNlVJOUticTR1Tmx5NmpLRjMyQmg1alVKaDBTUg",
@@ -1813,42 +1847,22 @@
    "sentiment": 0
   },
   {
-   "id": "1e14fc596124",
-   "title": "梅赛德斯-奔驰与英伟达深化战略合作，共同推动下一代辅助驾驶系统开发 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVp2djVsUEZUZE1fREttSDVfU1hkdXdDbjgtUmJGV0lkUHA4c0phMHVYVFlfeGNBSHlHcUpPZzAyU3pBa0VaUmZxT05oNFM1eVM5UmtjaWNIejFXRW0tdk5ZYlpUejdFU3p1WG9iQ0d5XzE2dmNiWlpUX0NJQlk5LUxjMHhKN2xT",
-   "source": "搜狐",
-   "published_at": "2026-10-19T10:27:15+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-19T10:27:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVp2djVsUEZUZE1fREttSDVfU1hkdXdDbjgtUmJGV0lkUHA4c0phMHVYVFlfeGNBSHlHcUpPZzAyU3pBa0VaUmZxT05oNFM1eVM5UmtjaWNIejFXRW0tdk5ZYlpUejdFU3p1WG9iQ0d5XzE2dmNiWlpUX0NJQlk5LUxjMHhKN2xT"
-    },
-    {
-     "name": "凤凰网汽车",
-     "published_at": "2026-10-19T12:20:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uTU9IOFd5LUM0Nng5RTNZT0pMVzl0dng1Y2dEM3Q2eTJyOVNCYmItUjRRRC1icU93eXItYkJGRE43ZEp4eEtzR2VFb2I"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "奔驰与英伟达深化合作开发辅助驾驶",
-   "title_zh": "梅赛德斯-奔驰与英伟达深化战略合作，共推下一代辅助驾驶",
-   "sentiment": 1
-  },
-  {
    "id": "fc1aae1805b3",
    "title": "四氟膜龙头直线20CM涨停，英伟达为何看上PTFE_滚动新闻_财经 - 证券之星",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMdzdDWXpRQzhzUUNkc2U3WWp5MzJBdEQwckZOUVVQa1Q1djlRVkgwN0o0M2wtQm0zamtndk5ZMGcwbDRzT2FiXzBFRVdDQkN4NnFvTi1HR3ZHeW9KSTU2Sw",
    "source": "证券之星",
    "published_at": "2026-10-19T10:17:10+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "证券之星",
      "published_at": "2026-10-19T10:17:10+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMdzdDWXpRQzhzUUNkc2U3WWp5MzJBdEQwckZOUVVQa1Q1djlRVkgwN0o0M2wtQm0zamtndk5ZMGcwbDRzT2FiXzBFRVdDQkN4NnFvTi1HR3ZHeW9KSTU2Sw"
+    },
+    {
+     "name": "同花顺",
+     "published_at": "2026-10-19T10:24:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GSmx1cEF3UXpnRTJoMkhLNXNTUk14SGE4MjlXQ3BQUHhVYmlOUmVTYndjQTJ5SjQ5TkFCUGd2OFdqb3doOTYtaVNyUE0zR1JaZEhPLW5NVzBuSDZ4NW53Rw"
     }
    ],
    "category": "其他",
@@ -1921,6 +1935,31 @@
    "zh_summary": "英伟达公关团队人力翻倍",
    "title_zh": "招手专业菁英加入 英伟达公关团队人力翻倍 - e南洋",
    "sentiment": 0
+  },
+  {
+   "id": "65aab07fd07b",
+   "title": "梅赛德斯-奔驰和英伟达深化战略合作，推动下一代辅助驾驶系统开发 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0pZREF3WWNPak52UUt1ZE9ZMTFDNEFlZm8wbFBXQ0hQUTZrZnI0TEJoZzZNZV85a1VPd0d3eUtSc0JFYUFUUExUTHMxWnFIbFRweTdzR3ZYY2JLRm83ZDI0cFZwd05qTHNFNkt1WTVVdENxZ0E4X19mZUVQMDZCYldBdlN1UFZzcHVxaQ",
+   "source": "搜狐",
+   "published_at": "2026-10-19T10:11:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-19T10:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0pZREF3WWNPak52UUt1ZE9ZMTFDNEFlZm8wbFBXQ0hQUTZrZnI0TEJoZzZNZV85a1VPd0d3eUtSc0JFYUFUUExUTHMxWnFIbFRweTdzR3ZYY2JLRm83ZDI0cFZwd05qTHNFNkt1WTVVdENxZ0E4X19mZUVQMDZCYldBdlN1UFZzcHVxaQ"
+    },
+    {
+     "name": "凤凰网汽车",
+     "published_at": "2026-10-19T12:20:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uTU9IOFd5LUM0Nng5RTNZT0pMVzl0dng1Y2dEM3Q2eTJyOVNCYmItUjRRRC1icU93eXItYkJGRE43ZEp4eEtzR2VFb2I"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "奔驰与英伟达深化合作开发辅助驾驶",
+   "title_zh": "梅赛德斯-奔驰与英伟达深化战略合作，共推下一代辅助驾驶",
+   "sentiment": 1
   },
   {
    "id": "a83573bb5a49",
@@ -5407,6 +5446,23 @@
    "sentiment": 0
   },
   {
+   "id": "2dd6f9b8231d",
+   "title": "RTX 5090真要停产停售吗：英伟达回应了！ - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YaDQ0Mm1xekFxNTBOUUhuN2ZlYzJuM3NaSEhhd1lEUy15Nko5S0k0TEFiNnE2cVhyN2Fnb1c2MW9heVRuQl9IM3pLMTZWZF9qMEtv",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-18T10:51:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-18T10:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YaDQ0Mm1xekFxNTBOUUhuN2ZlYzJuM3NaSEhhd1lEUy15Nko5S0k0TEFiNnE2cVhyN2Fnb1c2MW9heVRuQl9IM3pLMTZWZF9qMEtv"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "cf03cf26270c",
    "title": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry, As Both Manufacturers Join Forces To Develop “Base Die” On The 3nm Node - Wccftech",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BTkpLWnF6anJoSlk0V0pXOWpCYUJnSWYweVdzS2Q0MDRTZG53alNxSVhPNXVmSEZBSWt2VW9RSzItRkJ4Ul9ISGQxNllIYXVzTFZSTXZ5N3pZNy05RHNWU3J2bUs0R1dhc1Jzc3MwSFdYd1XSAXhBVV95cUxNREVfbGx3VXpvejk1WFFUVDFEVzdnZzZ0MjRGTFhCYl9MTEZuNFNteHBURmtPeGpHdkEtZjFGbW9vRWdtNGdkc2E4bW1aTExhWXpvMXhmdlY4OGdzMEMxeXpuYW9zakMzSGxvbzVDbVVLLW9uSFVDN3g",
@@ -5527,26 +5583,6 @@
    "sentiment": 0
   },
   {
-   "id": "e29cc37d2221",
-   "title": "NVIDIA Corporation $NVDA Shares Newly Purchased by Nykredit A S - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd0xNa25zelprZWNDV0d4eDJBV1h3YVRHTW00aVdXa3VrVjZtZGNnNWZocXhfRFltRUhvdG9GaEcweFNNbVI0T3RMUFNTM1V4WjBpWHRIZC10a2c0aDBVcE9LLWUtcW5DVTdab05lRjFzRWNJSkpQaGVhZzR4NkFoa2ZHQWxKUXp5dS1tUmk3bzRtbFZRc2FrYzBaWFduLWN5eXRoNDlLOXVqcGlBdEpZVUZpZ0c5Z3JVR1B0OE13WUc",
-   "source": "MarketBeat",
-   "published_at": "2026-10-18T09:02:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-18T09:02:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd0xNa25zelprZWNDV0d4eDJBV1h3YVRHTW00aVdXa3VrVjZtZGNnNWZocXhfRFltRUhvdG9GaEcweFNNbVI0T3RMUFNTM1V4WjBpWHRIZC10a2c0aDBVcE9LLWUtcW5DVTdab05lRjFzRWNJSkpQaGVhZzR4NkFoa2ZHQWxKUXp5dS1tUmk3bzRtbFZRc2FrYzBaWFduLWN5eXRoNDlLOXVqcGlBdEpZVUZpZ0c5Z3JVR1B0OE13WUc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Nykredit增持英伟达股票",
-   "title_zh": "Nykredit新买入英伟达股票",
-   "sentiment": 0
-  },
-  {
    "id": "2969261f8b9e",
    "title": "NVIDIA Corporation $NVDA Shares Acquired by Nan Shan Life Insurance Co. Ltd. - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWpBQ2t1NGNXRWY5dGMyTVlZYU1WZDd0SXdITUsxS1gzLXp5cGpPajlENnhIUlB6MkIyaHRIYTd5TlRHaF90RXJMLS00TlR2Q2pybW9PSnFLbGYyVWV6TFp6OHNTVlpRUzUydUVadzFQV0QxVmcwQkF4aW4zR21hYnRLdVlSVGRZZUxSSnRrWElINHRpcmpCenZZdWlUN1NZaWpTdF9yNW5QUVdIeWpSajVGd1ZzOHc3YUE5T0JmaldVQVhaTUhBU3pvdjNpMmc",
@@ -5565,6 +5601,23 @@
    "zh_summary": "南山人寿增持英伟达NVDA股份",
    "title_zh": "南山人寿收购英伟达NVDA股份",
    "sentiment": 1
+  },
+  {
+   "id": "046cb2909fc9",
+   "title": "NVIDIA Corporation $NVDA Stock Bought by Vanguard Capital Wealth Advisors - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0E3NUc5dXpGNjJwLTZHd1dpbmNaRUFTejJmSGRXSUVIT1VQV2VidlhRQVNndkhPYWRpekVuZkdyZGNqUDV3V29ndWlZVFk1YTk0UGtBRUE1SE1wV2pkRVVJWTRVUEtWdkxIU21ub0xJb3kyandpMjF5T0xzYjE2aUV2dEhPSGxtdlh5cVlfNVUtS0JYVWMtcVEzdnpfNmh2U05ESnR5UTRUUFNZenlLLUNoVHZWWUwzVDBuMWxrYWRkQmx6dGxFZjNFZXZOdw",
+   "source": "MarketBeat",
+   "published_at": "2026-10-18T09:02:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-18T09:02:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0E3NUc5dXpGNjJwLTZHd1dpbmNaRUFTejJmSGRXSUVIT1VQV2VidlhRQVNndkhPYWRpekVuZkdyZGNqUDV3V29ndWlZVFk1YTk0UGtBRUE1SE1wV2pkRVVJWTRVUEtWdkxIU21ub0xJb3kyandpMjF5T0xzYjE2aUV2dEhPSGxtdlh5cVlfNVUtS0JYVWMtcVEzdnpfNmh2U05ESnR5UTRUUFNZenlLLUNoVHZWWUwzVDBuMWxrYWRkQmx6dGxFZjNFZXZOdw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "f89c3ca11d98",
@@ -6575,71 +6628,6 @@
    "session": "周末",
    "zh_summary": "英伟达RTX Spark N1X发布综述",
    "title_zh": "NVIDIA RTX Spark N1X发布综述：英伟达武装Windows",
-   "sentiment": 1
-  },
-  {
-   "id": "e6be6ab052bc",
-   "title": "NVIDIA RTX Spark Laptops Officially Launch, Finally Offer Windows Users a Strong MacBook Pro Alternative - TechEBlog -",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWkVwUF8yUUw3UTJLN3hEWGlQeXQ1M0VfeDlCUlJpdURTbVdHUkh2YkhnUEdRYW5zSUg1bDRBS3otV0Y4d1Zrd3JtV3ZZbE1yRUZlcG13NEpiMkhzYUNDN1prTjRRNkxwQTF1d2RZOGFpNGY3S2NyZ1NtS2V6TVNWbVJUZFBCMDg0SG5FdWRLV2pxTVZrdlBXOXluaVViUQ",
-   "source": "TechEBlog -",
-   "published_at": "2026-10-17T16:49:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechEBlog -",
-     "published_at": "2026-10-17T16:49:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWkVwUF8yUUw3UTJLN3hEWGlQeXQ1M0VfeDlCUlJpdURTbVdHUkh2YkhnUEdRYW5zSUg1bDRBS3otV0Y4d1Zrd3JtV3ZZbE1yRUZlcG13NEpiMkhzYUNDN1prTjRRNkxwQTF1d2RZOGFpNGY3S2NyZ1NtS2V6TVNWbVJUZFBCMDg0SG5FdWRLV2pxTVZrdlBXOXluaVViUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达RTX Spark笔记本正式发布",
-   "title_zh": "英伟达RTX Spark笔记本发布，对标MacBook Pro",
-   "sentiment": 1
-  },
-  {
-   "id": "2cbd90d30a90",
-   "title": "NVIDIA Lands in Europe for GTC Berlin - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-17T16:16:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-17T16:16:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达GTC柏林站落地欧洲",
-   "title_zh": "英伟达为GTC柏林登陆欧洲",
-   "sentiment": 0
-  },
-  {
-   "id": "5664245e9882",
-   "title": "Nvidia Stock Is Up 13% This Year. Where Does the Stock Stand Now? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdW5ncS1OSEF4d3ZsS0tWRTJ5cl9aeXd6OWpya0dMY1JkQU9xM1BtQUNZZE9OTTB1LUZOLUtwc3FKdlhuSEVtQjBocUxPdWZ5Z1F1Ym1wbkRMb1RWYXRSWXlXMFZ2QXU1V3Z1RkhfZ2xhLUhHZm03U0VNNEp1LWdob05PY053X2NDdGpiWU5NejVJcW1mUXc",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-17T16:07:14+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-17T16:07:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdW5ncS1OSEF4d3ZsS0tWRTJ5cl9aeXd6OWpya0dMY1JkQU9xM1BtQUNZZE9OTTB1LUZOLUtwc3FKdlhuSEVtQjBocUxPdWZ5Z1F1Ym1wbkRMb1RWYXRSWXlXMFZ2QXU1V3Z1RkhfZ2xhLUhHZm03U0VNNEp1LWdob05PY053X2NDdGpiWU5NejVJcW1mUXc"
-    },
-    {
-     "name": "TIKR.com",
-     "published_at": "2026-10-17T16:15:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcU1qa3pTbnVjTlVPbzhXSDcwZUYwdTNGWkRwYmh4OXVpc1FYUjYxUlp6Vi1vakZjS0F5YU5SMDNSU2hnSXlWODUzMkh6OXhEbG5qOVlDZmd5WURLMmdQYUlRU2NxSGlyNEl2SG1YRUkzRENpYTYtZmxPOF84ZjFQUGFaekhRVVh1dGlRSGQ4TnU2OEU"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达今年以来股价上涨13%",
-   "title_zh": "英伟达今年涨13%，股价现在处于什么位置",
    "sentiment": 1
   }
  ]
