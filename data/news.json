@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T17:21:28.532912+00:00",
+ "updated_at": "2026-10-19T17:36:32.934871+00:00",
  "market": {
-  "price": 217.99,
-  "change_pct": 1.8,
+  "price": 217.65,
+  "change_pct": 1.64,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.38,
-   "count": 154
+   "count": 155
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +44.5%"
+     "note": "目标价中位数 $315（15家），隐含空间 +44.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.38（154条已评分）"
+     "note": "今日新闻情绪 +0.38（155条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.99 vs 20日均线 $227.71"
+     "note": "现价 $217.65 vs 20日均线 $227.69"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 44.5,
-   "ma20": 227.71,
-   "as_of": "2026-10-19T17:21:28.523490+00:00"
+   "implied_upside_pct": 44.7,
+   "ma20": 227.69,
+   "as_of": "2026-10-19T17:36:32.924634+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.5%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "532819534f3e",
+   "title": "德国总理默茨：英伟达计划在德国投资数十亿美元。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEUGViNnNsN2JfN0p5V2RHbTl0ZG1oS2hsNU9kYWgzV21SVWxnRjRHLWFnb2QwU3VfM1lNZ0xVVDk3cTVvX01VdGdzOA",
+   "source": "手机新浪网",
+   "published_at": "2026-10-19T17:30:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-19T17:30:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEUGViNnNsN2JfN0p5V2RHbTl0ZG1oS2hsNU9kYWgzV21SVWxnRjRHLWFnb2QwU3VfM1lNZ0xVVDk3cTVvX01VdGdzOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "8bd0c56b9a8a",
+   "title": "Can You Use AMD And NVIDIA GPUs In The Same PC? - BGR",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pQ0YweWZOcGJiaERSMk14NlhMN0dzOGw5Mmk5QWFhUTR4RnNiWGdMZUxadVdqT1k1QXlhck52UlpUangtTlNmcVYycWZmY3pjYzB6QnFmU1FBVWRvZjgyVTdTSk5QQ0NPdVhGUG9BTmVSQQ",
+   "source": "BGR",
+   "published_at": "2026-10-19T17:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BGR",
+     "published_at": "2026-10-19T17:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pQ0YweWZOcGJiaERSMk14NlhMN0dzOGw5Mmk5QWFhUTR4RnNiWGdMZUxadVdqT1k1QXlhck52UlpUangtTlNmcVYycWZmY3pjYzB6QnFmU1FBVWRvZjgyVTdTSk5QQ0NPdVhGUG9BTmVSQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "ef7f1f93330f",
    "title": "市场动态：英伟达面临来自DeepSeek与华为合作的AI芯片挑战 - Moomoo",
@@ -85,6 +119,23 @@
    "zh_summary": "英伟达面临DeepSeek与华为合作挑战",
    "title_zh": "市场动态：英伟达面临来自DeepSeek与华为合作的AI芯片挑战",
    "sentiment": -1
+  },
+  {
+   "id": "7de45b7c149c",
+   "title": "Martin Shkreli Warns on Quantum Stocks: “They’ll Never Beat an NVIDIA Machine” - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzltWWstdll6anI0bjBsN3lJSjhNNzYzM0pTdDU4emxURnhaakhyNGNuN0xLU2dzUk1fd2NxamZPNzRDY01ib05pc3VEeTN3MUZQQ2VlTGlRSElWNUtHZ0VrRDhNSF82MWxJa1RFeXNXSzdGRUc5QllSdDZNSEpWR2gtUTgwNGtTU1RnNlY3c0xucG9hSGRqa3JJZUIySGpr",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T16:51:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T16:51:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzltWWstdll6anI0bjBsN3lJSjhNNzYzM0pTdDU4emxURnhaakhyNGNuN0xLU2dzUk1fd2NxamZPNzRDY01ib05pc3VEeTN3MUZQQ2VlTGlRSElWNUtHZ0VrRDhNSF82MWxJa1RFeXNXSzdGRUc5QllSdDZNSEpWR2gtUTgwNGtTU1RnNlY3c0xucG9hSGRqa3JJZUIySGpr"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "0837de817321",
@@ -6581,80 +6632,6 @@
    "session": "周末",
    "zh_summary": "分析称英伟达增长潜力远超1500亿美元",
    "title_zh": "Motley Fool：英伟达增长可使1500亿美元相形见绌",
-   "sentiment": 1
-  },
-  {
-   "id": "4c67303c3640",
-   "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030 - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR3dPRm9vb1NvUzFESHZ6YWtJLVEtd3p3UVRNUkpBdkJMeFB6cXZoaWNwcnJCQzJWSUNrLWNvOFQ5cDlDdGJ2clE3emVySlVkeHZtOTFYN3VrYmphNGVONmVsMjFFbm5Vb3V6NlBPRGZfRkw5MHQ1VDN0TGJyMWtDUTdlUnJXdXlrVDJNUkw5SURmQmljbU9VZQ",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-18T00:03:04+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-18T00:03:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR3dPRm9vb1NvUzFESHZ6YWtJLVEtd3p3UVRNUkpBdkJMeFB6cXZoaWNwcnJCQzJWSUNrLWNvOFQ5cDlDdGJ2clE3emVySlVkeHZtOTFYN3VrYmphNGVONmVsMjFFbm5Vb3V6NlBPRGZfRkw5MHQ1VDN0TGJyMWtDUTdlUnJXdXlrVDJNUkw5SURmQmljbU9VZQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-18T00:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2l1RTh5SXRoaVI4ci05eDRHUWpJdG54TU1HbkRRRlc5Y1ctdDI1VG9tN1BXTS1keVJOZndJX1BfN3hrWUNfX1dVMi1HVjhDREIyRlNvdEt2VnJnWlMzaElOTkRLN2hRbkNLQ2QzbVJ4c25scnFHV3E4NVFKdWMtRUI0dVVSSGl3SW04b3hVTkppVExz"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-18T00:40:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdnV4czAxQVV4VUZYRXRDbExVdThFcTltbFBxT1UzLXRrSnd2RHJsMENZMXg4MzhtTVpfeEZFZ3kyakMwbEY0WU9ycG1yMTAwNnJyZlVWVXRSVVlmM2lMa0Z5R2JKZUpnTzVzbGxVRWM0b0EyZHlrbXFiaUdiOFRVWDlNYkFCNTFrcXM1bHRNdEpZU2dxMkowNDU1YUtiQXZMRzRQYlhJUGtvNnpGTlIwWXJPQktDazVBUG1hdjNjZ0VHbEFPdUlZdGozZjREMlhqVEZ0VzdtMkc4LXJDbVlMVnotc3hFRloycnVv"
-    }
-   ],
-   "category": "供应链",
-   "session": "周末",
-   "zh_summary": "$3000分散投英伟达等三巨头2030年价值推算",
-   "title_zh": "3000美元投英伟达/博通/台积电2030年价值推算",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.11,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "c7aceb57534b",
-   "title": "NVIDIA DLSS Ray Reconstruction Now Works On AMD Radeon GPUs Through New Mod, Alongside DLSS SR 4.5, MFG & DLSS 5 - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORVVaWGdjMFZKdTBmYkV4N3dtNi1JSWxvamdEblZFbnhXQ1JuOEFaTXFWTGFQX0tLTENORzVVUndqYWNFSzlkWFA3YlU1UkZ6ZXNrMzBBamFzWWJHa0Y0MFEtdWg3QzVIdUp2M0Zfcnc4RFhCVThDemNkWlo2MlFtenJLRDVHSVd4Z2FfbVFxTUVrVTE1TklGWHp0cUkzeFQ2T2JiMmpNQTdpQW45ckVBa1k0SVBTdVZDZzhseklBeHhvemZTQ0R2RE9B0gHPAUFVX3lxTE9kRUVqZW5VRE1pRE5FMU9BSkR4aGtHZTAyU09nUng3RWJqalpoV3pxUGJ0QmhET3JmYTMzWldxRW1yZ1MtbWVOTHpuYktlTGo5aExNZ250cFV4NFVqaFlUMHczTzNHRFV6SGx4YTRkUnUwY1lKckZrazFBNkJfa29VLTUyMkJTaDdEUm8zaDFkQlViV3paTmVyM1pQd1hEQjhLSlJwNWNFQnhDT0J5Z3J5TE1qbXl3UzVHdFY5V1dlM1BnSVRsSGZBYWZ1SUtfQQ",
-   "source": "Wccftech",
-   "published_at": "2026-10-18T00:01:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-18T00:01:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORVVaWGdjMFZKdTBmYkV4N3dtNi1JSWxvamdEblZFbnhXQ1JuOEFaTXFWTGFQX0tLTENORzVVUndqYWNFSzlkWFA3YlU1UkZ6ZXNrMzBBamFzWWJHa0Y0MFEtdWg3QzVIdUp2M0Zfcnc4RFhCVThDemNkWlo2MlFtenJLRDVHSVd4Z2FfbVFxTUVrVTE1TklGWHp0cUkzeFQ2T2JiMmpNQTdpQW45ckVBa1k0SVBTdVZDZzhseklBeHhvemZTQ0R2RE9B0gHPAUFVX3lxTE9kRUVqZW5VRE1pRE5FMU9BSkR4aGtHZTAyU09nUng3RWJqalpoV3pxUGJ0QmhET3JmYTMzWldxRW1yZ1MtbWVOTHpuYktlTGo5aExNZ250cFV4NFVqaFlUMHczTzNHRFV6SGx4YTRkUnUwY1lKckZrazFBNkJfa29VLTUyMkJTaDdEUm8zaDFkQlViV3paTmVyM1pQd1hEQjhLSlJwNWNFQnhDT0J5Z3J5TE1qbXl3UzVHdFY5V1dlM1BnSVRsSGZBYWZ1SUtfQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "DLSS光线重建通过模组支持AMD显卡",
-   "title_zh": "英伟达DLSS光线重建经模组可在AMD显卡上运行",
-   "sentiment": 0
-  },
-  {
-   "id": "e16b82fc9310",
-   "title": "NVDA Stock Bucks Selloff Premarket On SpaceX Boost, Foxconn’s Sales Update - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ1BhVk5SS2pwdGRmM1l6aHBRMUtKTnZCemdjT1BqTzhTVThPQVpYTk1JbFhkeWxVTUJkZzJtZF96S0JFMDkwRXJhNVpNUkswV1pnWklfaUZnVzhWTWFqLUlYMGU1V2t1RzFSbXFrYlpjYmRoSFJqSHBlU251N3g2MzZudEdvMFVOWGV2cF96RFVhZW50Tk5hTDhUcHpJd3dUVkNPUWkxZnQ0YzJyNTdtRU14YlBzZnVRSXdjajN4eXhneVVOWnNDY0ZFallEQ1dFc0l2Xw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-17T23:56:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-17T23:56:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ1BhVk5SS2pwdGRmM1l6aHBRMUtKTnZCemdjT1BqTzhTVThPQVpYTk1JbFhkeWxVTUJkZzJtZF96S0JFMDkwRXJhNVpNUkswV1pnWklfaUZnVzhWTWFqLUlYMGU1V2t1RzFSbXFrYlpjYmRoSFJqSHBlU251N3g2MzZudEdvMFVOWGV2cF96RFVhZW50Tk5hTDhUcHpJd3dUVkNPUWkxZnQ0YzJyNTdtRU14YlBzZnVRSXdjajN4eXhneVVOWnNDY0ZFallEQ1dFc0l2Xw"
-    }
-   ],
-   "category": "供应链",
-   "session": "周末",
-   "zh_summary": "SpaceX与富士康消息提振NVDA盘前",
-   "title_zh": "NVDA盘前逆市上涨，受SpaceX和富士康销售更新提振",
    "sentiment": 1
   }
  ]
