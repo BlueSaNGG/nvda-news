@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T07:06:29.154846+00:00",
+ "updated_at": "2026-10-19T07:21:33.416681+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,8 +10,8 @@
    "days_left": 29
   },
   "day_sentiment": {
-   "avg": 0.79,
-   "count": 19
+   "avg": 0.76,
+   "count": 21
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.79（19条已评分）"
+     "note": "今日新闻情绪 +0.76（21条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-19T07:06:29.141365+00:00"
+   "as_of": "2026-10-19T07:21:33.404686+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "af9f79cb81d4",
+   "title": "Samsung Reportedly Taps TSMC for Nvidia's Next-Gen Memory - Taiwan Semiconductor (NYSE:TSM) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQlBoNkE2aVpqckllakV3ak9vZXBBTkUzMU9zSzJLY1RSRGhUTGRKcEV4M2lQMTg2ai1zT0VnbWI0ZkxIbGltcUxVQjg2aTg4YVFsdm5ob0haRHB5c2xnVm15aG5YLXA3N0I0dTRHNlNCU01qVnJndnVzdFdHdUpUU0dfZDBJUDRmV3Q4UjNvei1uMHBqSVE1X0tiMzZMQURZbUpnVHNSeWp6VnpNRFRZUkw1dFQ1OUd0cEE",
+   "source": "Benzinga",
+   "published_at": "2026-10-19T07:10:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-19T07:10:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQlBoNkE2aVpqckllakV3ak9vZXBBTkUzMU9zSzJLY1RSRGhUTGRKcEV4M2lQMTg2ai1zT0VnbWI0ZkxIbGltcUxVQjg2aTg4YVFsdm5ob0haRHB5c2xnVm15aG5YLXA3N0I0dTRHNlNCU01qVnJndnVzdFdHdUpUU0dfZDBJUDRmV3Q4UjNvei1uMHBqSVE1X0tiMzZMQURZbUpnVHNSeWp6VnpNRFRZUkw1dFQ1OUd0cEE"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘前"
+  },
+  {
+   "id": "ded8a4294aa0",
+   "title": "DLSS 5 mods using NVIDIA's latest model show big performance gains - TweakTown",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2pCUDRzSS1xMjN3aHBMZDdCWlpGME9QX2djRzdHd3NxT3BTa1pmTEhTamlOSXdqOXJ3c280SkRtaFRSTG5TYzYxaFFKdlZHWEtYV1RIWkhkMjRIdFVPczhyeHpOT2xETzJZWWxROUtKejg0XzNpVERHcXI1QXQ5UnUwUkhsX0cxMTNwREFLQUZza3QtMDBMR3g2MU1SdzhlOHhVYl9nX0NfemtOYk5rWGcyc2Y",
+   "source": "TweakTown",
+   "published_at": "2026-10-19T07:03:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TweakTown",
+     "published_at": "2026-10-19T07:03:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2pCUDRzSS1xMjN3aHBMZDdCWlpGME9QX2djRzdHd3NxT3BTa1pmTEhTamlOSXdqOXJ3c280SkRtaFRSTG5TYzYxaFFKdlZHWEtYV1RIWkhkMjRIdFVPczhyeHpOT2xETzJZWWxROUtKejg0XzNpVERHcXI1QXQ5UnUwUkhsX0cxMTNwREFLQUZza3QtMDBMR3g2MU1SdzhlOHhVYl9nX0NfemtOYk5rWGcyc2Y"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "abac3a63988c",
    "title": "英伟达GTC聚焦物理AI等，全球科技巨头加速布局“AI下一站”物理AI丨盘中雷达 - 东方财富",
@@ -77,8 +111,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "英伟达GTC聚焦物理AI等，全球科技巨头加速布局“AI下一站”物理AI丨盘中雷达 - 东方财富",
    "zh_summary": "英伟达GTC聚焦物理AI新布局",
+   "title_zh": "英伟达GTC聚焦物理AI等，全球科技巨头加速布局“AI下一站”物理AI丨盘中雷达 - 东方财富",
    "sentiment": 1
   },
   {
@@ -197,8 +231,8 @@
    ],
    "category": "供应链",
    "session": "盘前",
-   "title_zh": "英伟达NVHBM消除三星与台积电代工竞争， - 超能网",
    "zh_summary": "英伟达NVHBM化解代工竞争",
+   "title_zh": "英伟达NVHBM消除三星与台积电代工竞争， - 超能网",
    "sentiment": 0
   },
   {
@@ -645,26 +679,6 @@
    "zh_summary": "特朗普宴会厅捐赠名单涉英伟达",
    "title_zh": "特朗普3.3亿美元白宫宴会厅捐赠名单曝出英伟达、苹果、谷歌",
    "sentiment": 0
-  },
-  {
-   "id": "88398d59dfb7",
-   "title": "应英伟达标准化要求 三星将与台积电首次合作生产HBM！ - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmQ4TWNhZUtDd1V2S1Vvd01DdHh3MDl2NC1yRmlPZTd2VGVlTWIxMGZZWHFaX1FodXBqZjdVaEVBTmtIQnNLQ3JmY2laYWY2UjNPRVpCYkhTZ29UTXVMcVdyNVI1NXV2eFVpSzlqLUJhSWYzSzlpMnozY3ppZFkyOWxyeV9vaVl4VzZuTFFZaU14YzNnSkhING5maWpKQ19MRlVvQzZnTGpRa2diTnEwMDlLWjI5YUxh",
-   "source": "富途牛牛",
-   "published_at": "2026-10-19T03:27:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-19T03:27:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmQ4TWNhZUtDd1V2S1Vvd01DdHh3MDl2NC1yRmlPZTd2VGVlTWIxMGZZWHFaX1FodXBqZjdVaEVBTmtIQnNLQ3JmY2laYWY2UjNPRVpCYkhTZ29UTXVMcVdyNVI1NXV2eFVpSzlqLUJhSWYzSzlpMnozY3ppZFkyOWxyeV9vaVl4VzZuTFFZaU14YzNnSkhING5maWpKQ19MRlVvQzZnTGpRa2diTnEwMDlLWjI5YUxh"
-    }
-   ],
-   "category": "供应链",
-   "session": "周末",
-   "zh_summary": "三星将与台积电首次合作生产HBM",
-   "title_zh": "应英伟达标准化要求 三星将与台积电首次合作生产HBM！ - 富途牛牛",
-   "sentiment": 1
   },
   {
    "id": "d48cf0f42c49",
@@ -2532,8 +2546,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "英伟达辟谣 - 新浪财经",
    "zh_summary": "英伟达发布澄清辟谣",
+   "title_zh": "英伟达辟谣 - 新浪财经",
    "sentiment": 0
   },
   {
@@ -3424,6 +3438,26 @@
    "session": "周末",
    "zh_summary": "RTX Spark新品引发全球庆祝，新PC上市",
    "title_zh": "RTX Spark点燃全球庆祝，新款Windows PC上市——英伟达博客",
+   "sentiment": 1
+  },
+  {
+   "id": "334124a25ff0",
+   "title": "应英伟达标准化要求，三星将与台积电首次合作生产HBM！ - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRFduRXFucDdmcGZFZVF5UWJnQTVDY0RnNDVpZ0RMTllOWTc5aTVqcVM5Rm9sYTB4T1J1Und0WUhuYThIWjRWdURCUDZTdXEzdWtGN2dkQ1c4VkR6TlRPOUdqZm1pdVlfME95dkVKNVpBcWdydmE2N0RQblR2ajdLekFxUlJzTy14NVRwWkpsa2llc3BXazFORlY3c3RkS2RUTldsTG4xV1E5amF4M0dCaktzUzh0N29Ib1NURWJ3",
+   "source": "富途牛牛",
+   "published_at": "2026-10-17T20:55:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-17T20:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRFduRXFucDdmcGZFZVF5UWJnQTVDY0RnNDVpZ0RMTllOWTc5aTVqcVM5Rm9sYTB4T1J1Und0WUhuYThIWjRWdURCUDZTdXEzdWtGN2dkQ1c4VkR6TlRPOUdqZm1pdVlfME95dkVKNVpBcWdydmE2N0RQblR2ajdLekFxUlJzTy14NVRwWkpsa2llc3BXazFORlY3c3RkS2RUTldsTG4xV1E5amF4M0dCaktzUzh0N29Ib1NURWJ3"
+    }
+   ],
+   "category": "供应链",
+   "session": "周末",
+   "zh_summary": "三星将与台积电首次合作生产HBM",
+   "title_zh": "应英伟达标准化要求 三星将与台积电首次合作生产HBM！ - 富途牛牛",
    "sentiment": 1
   },
   {
@@ -4758,7 +4792,6 @@
    ],
    "category": "其他",
    "session": "周末",
-   "breaking": true,
    "zh_summary": "社区移植DLSS 5模型，老游戏帧率最高提升40%",
    "title_zh": "社区移植英伟达DLSS 5新版模型文件，较旧版游戏帧率最高暴涨40%",
    "sentiment": 1
@@ -6561,51 +6594,6 @@
    "zh_summary": "思科联手英伟达打造以太网AI网络互联方案",
    "title_zh": "Cisco与英伟达联手打造以太网AI网络超高密度互联方案",
    "sentiment": 1
-  },
-  {
-   "id": "3f526844ac56",
-   "title": "Why Nvidia Stock Can Defy the Broader Chip Sector Slump - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY",
-   "source": "Barron's",
-   "published_at": "2026-10-16T16:23:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-16T16:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVVcyTUpzN3dWbVBTZ3ZmX19KNHc1UFoyUm9JeGFfa01DWXA3Mkh3VXNtMFJ1ZTZNU1BFN3EzbTk5SnR1VXU0NERRRHlwaW5hSmMxdnhJN0t4cTNNVlNXdG1Wbjd6TG1KMVRONkYtRmY"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "巴伦周刊：英伟达能跑赢芯片板块低迷",
-   "title_zh": "巴伦周刊：为何英伟达股价能摆脱芯片板块低迷",
-   "sentiment": 1
-  },
-  {
-   "id": "12464d5f9f1d",
-   "title": "Apple, Nvidia lead list of tech companies that donated to Trump’s White House ballroom project - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmtwQ3I4cXV3S3NYb1BGQVpDNGpjRzNwSW5ZQWo0a2NuWG5QdzdQMklpQlhGdEtfaE9OMDZTZjlNQ0ZhX2FYV3pUcGpnSmdiWHVuM2JKeXZxQ25Yb21sR1BXTldhUENEZE5FcFFxd04wTWRlU1hwR21CRWZWdFZCb1RwMFhEeGV5b1pwMVN6dmM",
-   "source": "Yahoo",
-   "published_at": "2026-10-16T16:15:48+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-16T16:15:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmtwQ3I4cXV3S3NYb1BGQVpDNGpjRzNwSW5ZQWo0a2NuWG5QdzdQMklpQlhGdEtfaE9OMDZTZjlNQ0ZhX2FYV3pUcGpnSmdiWHVuM2JKeXZxQ25Yb21sR1BXTldhUENEZE5FcFFxd04wTWRlU1hwR21CRWZWdFZCb1RwMFhEeGV5b1pwMVN6dmM"
-    },
-    {
-     "name": "Mashable",
-     "published_at": "2026-10-16T16:20:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGpONWU5MVBQZnFzZ2RLeUdyRlpuX0lFb3JKYV82WjRYQWJ1RW1VdHVoNXY0OXZUQWtVTDNHTVJITGNtUkhmdTRQQ2NHUkJxX0t4eTB1THB4ZEk5UnhYVU95NDYzc2dnRmE2bHV2ZDdMbEpJM0NLRGFWQnlyUGJyWFJ0RXJNRVFjTi10T2Z5M3UtdVRGR0ZuSmtiUTM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "苹果英伟达领衔向特朗普白宫舞厅项目捐款",
-   "title_zh": "苹果、英伟达领衔科技公司为特朗普白宫舞厅项目捐款",
-   "sentiment": 0
   }
  ]
 }
