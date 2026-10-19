@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T06:21:30.523942+00:00",
+ "updated_at": "2026-10-19T06:36:29.000578+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 1.0,
-   "count": 12
+   "count": 14
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.00（12条已评分）"
+     "note": "今日新闻情绪 +1.00（14条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-19T06:21:30.512443+00:00"
+   "as_of": "2026-10-19T06:36:28.979736+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "74322eaf05ae",
+   "title": "Stocktwits Tech Watch: Netflix And Meta Report Earnings As Nvidia, Oracle Product Events Loom - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUU9FemxlamYyRUZhOG44Rmo4OWJuSFVzVW5ueVhZaTJkN2U0dWp1QzMtNTByUE9RcWdRb3lXM3ZTNWNMcnhDY1BQNGdSOUNVdVo4SUUwUF9iZFBFSHhNQ3NwSnBFdlNWdzZnSHhldVFSdl9SS1JLb3o1VjFFNUVmSVRwcjZ5bkx5R3YxbFNCZFFPQ2tuWkJIN0NnNDB6bkdvNjEtdGt6UEZGejQ2OUdNaUpBMldWTGd3bnZLMjRvLTZnWnc5UFdJV0h2bHJUSnFuWHozQkx3ZlVwSnJzU0RzODEzQW1KN0hBcTZF",
+   "source": "Stocktwits",
+   "published_at": "2026-10-19T06:31:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-19T06:31:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUU9FemxlamYyRUZhOG44Rmo4OWJuSFVzVW5ueVhZaTJkN2U0dWp1QzMtNTByUE9RcWdRb3lXM3ZTNWNMcnhDY1BQNGdSOUNVdVo4SUUwUF9iZFBFSHhNQ3NwSnBFdlNWdzZnSHhldVFSdl9SS1JLb3o1VjFFNUVmSVRwcjZ5bkx5R3YxbFNCZFFPQ2tuWkJIN0NnNDB6bkdvNjEtdGt6UEZGejQ2OUdNaUpBMldWTGd3bnZLMjRvLTZnWnc5UFdJV0h2bHJUSnFuWHozQkx3ZlVwSnJzU0RzODEzQW1KN0hBcTZF"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
+  {
+   "id": "9568ab4d05f2",
+   "title": "沃尔沃扩大与英伟达十年合作，联合开发新一代辅助驾驶系统_车市动态 - 中金在线",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHTVlldlRNQjU2ek1vdk4tc3VKLVBoWFJUNkJyNkliTDNKdG1acWNxYnk3NDZ0Vk4tUlRHengtcm9PMXlVSzY5RTZ4ektOSGFTX0JQc1JUajdzTFc2OTZseXpQemRCcU9oZ3Q0",
+   "source": "中金在线",
+   "published_at": "2026-10-19T06:14:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中金在线",
+     "published_at": "2026-10-19T06:14:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHTVlldlRNQjU2ek1vdk4tc3VKLVBoWFJUNkJyNkliTDNKdG1acWNxYnk3NDZ0Vk4tUlRHengtcm9PMXlVSzY5RTZ4ektOSGFTX0JQc1JUajdzTFc2OTZseXpQemRCcU9oZ3Q0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "522d0a07a8e3",
    "title": "三星携手台积电代工英伟达下一代HBM芯片，半导体ETF博时(159582)近10日合计“吸金”超8800万元 - Jiemian.com",
@@ -6546,51 +6580,6 @@
    "zh_summary": "英伟达RTX Spark设备正式开售，2599美元起",
    "title_zh": "英伟达RTX Spark设备正式开售，2599美元起",
    "sentiment": 1
-  },
-  {
-   "id": "c42939909768",
-   "title": "Tesla Gets Competition From Nvidia In Self Driving Cars - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkVqdFQxdDVXWnV2RGJuUFp3Ykc3eXJZX0hLRDkwcW42N3ZhS1A0bEpHdDBRYVJzTURGd21MNkg0UTNwUHBYMmNhdm1EcDQxQnIxb0ZFcVlJZk1CdkluWnBaRUpZVHd6YXhXYlBfeGtlYktiSktDV2FUZVJBZF9PVkFRVUVGWFpHNEs2elRXenZIZE8zdWxrejNIbUtGMS1YYkNwcjBldXI4QQ",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-16T15:19:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-16T15:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkVqdFQxdDVXWnV2RGJuUFp3Ykc3eXJZX0hLRDkwcW42N3ZhS1A0bEpHdDBRYVJzTURGd21MNkg0UTNwUHBYMmNhdm1EcDQxQnIxb0ZFcVlJZk1CdkluWnBaRUpZVHd6YXhXYlBfeGtlYktiSktDV2FUZVJBZF9PVkFRVUVGWFpHNEs2elRXenZIZE8zdWxrejNIbUtGMS1YYkNwcjBldXI4QQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-16T15:19:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMERVZzN2X0h2N1Vqekd2QmJiMDhvd05JVG9fcExIcFBvTVZtbVZXeVNGanhQY1ZzSHZuQXNYbFcxaXVkd1RURHE1TTdJRFdHNGZvUTFyZ2czaDg2N1VvYnhRRDJ2U1U4WENhcElBa195ZXhfd2d2clVwSFFlTUxKVnVJR0dzVVlGV1dPU2Iwb2V4clZlblREM213cw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达入局自动驾驶叫板特斯拉",
-   "title_zh": "英伟达自动驾驶业务向特斯拉发起挑战",
-   "sentiment": 1
-  },
-  {
-   "id": "6a2464b22c20",
-   "title": "How NVIDIA is Navigating the Next Phase of the AI Boom - Data Center Richness | Substack",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOURyeEY1Z09tdHk3RVJLQTd2WHRkYkxSQ245TGNBSVgya3ZyMFFidkZ5YjNDUkhMRGt4Tk8ycHE0UmJ3S09NZmU5enJ5WmpIUDZWZ1NIckxNS0pzTzFtMmIzMDZ4Y2hsbW8tMmhmdnE3OVdyX044TVBQMmNTbDBmdw",
-   "source": "Data Center Richness | Substack",
-   "published_at": "2026-10-16T15:15:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Data Center Richness | Substack",
-     "published_at": "2026-10-16T15:15:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOURyeEY1Z09tdHk3RVJLQTd2WHRkYkxSQ245TGNBSVgya3ZyMFFidkZ5YjNDUkhMRGt4Tk8ycHE0UmJ3S09NZmU5enJ5WmpIUDZWZ1NIckxNS0pzTzFtMmIzMDZ4Y2hsbW8tMmhmdnE3OVdyX044TVBQMmNTbDBmdw"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘中",
-   "zh_summary": "英伟达如何驾驭AI热潮下一阶段",
-   "title_zh": "英伟达如何应对AI热潮的下一阶段",
-   "sentiment": 0
   }
  ]
 }
