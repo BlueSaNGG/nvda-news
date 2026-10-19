@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T15:36:30.901232+00:00",
+ "updated_at": "2026-10-19T15:51:51.808901+00:00",
  "market": {
-  "price": 219.2,
-  "change_pct": 2.37,
+  "price": 219.32,
+  "change_pct": 2.42,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 29
   },
   "day_sentiment": {
-   "avg": 0.39,
-   "count": 133
+   "avg": 0.38,
+   "count": 136
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +43.7%"
+     "note": "目标价中位数 $315（15家），隐含空间 +43.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（133条已评分）"
+     "note": "今日新闻情绪 +0.38（136条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $219.20 vs 20日均线 $227.77"
+     "note": "现价 $219.32 vs 20日均线 $227.77"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 73,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 43.7,
+   "implied_upside_pct": 43.6,
    "ma20": 227.77,
-   "as_of": "2026-10-19T15:36:30.878001+00:00"
+   "as_of": "2026-10-19T15:51:51.799182+00:00"
   },
   "pe_ttm": 27.9,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+43.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+43.6%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "feae9c0b7869",
+   "title": "Nvidia launches new open models to run agents in the enterprise and on PCs - TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc",
+   "source": "TechCrunch",
+   "published_at": "2026-10-19T15:37:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechCrunch",
+     "published_at": "2026-10-19T15:37:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "adcc8bef58a2",
+   "title": "Samsung Makes Unusual Move for Nvidia Chips - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWm9zeXV2U3hyUVBzNzlCTEtkS0UtLVljSTRLeUowN1FGVHFCeU9oUVFfYV9leVpaOUR5czJTOXJWbk9wYkdKaWdLanR5UzlJMW5zT2lyN1dCc21YNG1TTEdsbkI1eU9NU0hFYm1EX2o1T2NQUWhhS2hjeVFjRFVKOG85RWpITGVqNmh1SHl6ZVdUVWFBMXB5OUNyX1FOQQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T15:34:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T15:34:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWm9zeXV2U3hyUVBzNzlCTEtkS0UtLVljSTRLeUowN1FGVHFCeU9oUVFfYV9leVpaOUR5czJTOXJWbk9wYkdKaWdLanR5UzlJMW5zT2lyN1dCc21YNG1TTEdsbkI1eU9NU0hFYm1EX2o1T2NQUWhhS2hjeVFjRFVKOG85RWpITGVqNmh1SHl6ZVdUVWFBMXB5OUNyX1FOQQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "7bcf64934f66",
    "title": "The RTX 5090 Isn’t ‘Alive’ if It Costs $10,000, No Matter What Nvidia Says - Gizmodo",
@@ -6586,46 +6620,6 @@
    "zh_summary": "改装电源方案防8500美元RTX 5090烧毁",
    "title_zh": "改装者推出四路8针电源方案，防RTX 5090接口熔化",
    "sentiment": -1
-  },
-  {
-   "id": "20eae751df9d",
-   "title": "NVIDIA says RTX 5090 is not discontinued, but good luck finding one for $1,999 - VideoCardz.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRE5Md0thQWl4VUI4UkFBM1BBeGloVEpvdmxiNmIwSy1nVHVrclhOQ2hOOFNvYmp0V0doQWwyV3ZUT1ZDZ2JMb3Y1WE1VdEtPNW1CT2w2WkhZeEFtdmM4U25hLUFpcjRUVFBXSmdUWGVqNlJRUHdkQ1VtYW9NQ0pnallzUjlybVQxbnZSVWtMdUctT0NlVzlWVmduN1B3a29MQmpiOGpn",
-   "source": "VideoCardz.com",
-   "published_at": "2026-10-17T15:02:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "VideoCardz.com",
-     "published_at": "2026-10-17T15:02:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRE5Md0thQWl4VUI4UkFBM1BBeGloVEpvdmxiNmIwSy1nVHVrclhOQ2hOOFNvYmp0V0doQWwyV3ZUT1ZDZ2JMb3Y1WE1VdEtPNW1CT2w2WkhZeEFtdmM4U25hLUFpcjRUVFBXSmdUWGVqNlJRUHdkQ1VtYW9NQ0pnallzUjlybVQxbnZSVWtMdUctT0NlVzlWVmduN1B3a29MQmpiOGpn"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达否认RTX 5090停产但难原价买到",
-   "title_zh": "英伟达称RTX 5090不会停产，但1999美元原价难买到",
-   "sentiment": 0
-  },
-  {
-   "id": "8092eeaa867a",
-   "title": "Apple, Nvidia each gave $25M to Trump's White House ballroom — but the president's own name is nowhere on the donor list - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOENIeGpZZzRrX05HQl9mVzlBTjhsS0tfYUplRzBUYUpUbFVEenZITmxFX2Jzd3BDM0lzYUs5emxoM3c0ZlhKRjRzN01HYmd5aVJLTUJ5blVmUXBZNU8wV1VOeElxTGZvZ1BmeGxzbmlZSlM5d2NidmlFOHp2VlVGbmhXRUo4ZXI2c2hMRXZKOGNRU3pOVUpMTA",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-17T15:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-17T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOENIeGpZZzRrX05HQl9mVzlBTjhsS0tfYUplRzBUYUpUbFVEenZITmxFX2Jzd3BDM0lzYUs5emxoM3c0ZlhKRjRzN01HYmd5aVJLTUJ5blVmUXBZNU8wV1VOeElxTGZvZ1BmeGxzbmlZSlM5d2NidmlFOHp2VlVGbmhXRUo4ZXI2c2hMRXZKOGNRU3pOVUpMTA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达等向白宫舞厅捐款2500万美元",
-   "title_zh": "苹果、英伟达各向特朗普白宫舞厅捐款2500万美元，特朗普本名未上名单",
-   "sentiment": 0
   }
  ]
 }
