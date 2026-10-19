@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T18:06:35.205727+00:00",
+ "updated_at": "2026-10-19T18:21:28.355201+00:00",
  "market": {
-  "price": 217.16,
-  "change_pct": 1.42,
+  "price": 217.44,
+  "change_pct": 1.55,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 29
   },
   "day_sentiment": {
-   "avg": 0.39,
-   "count": 161
+   "avg": 0.4,
+   "count": 164
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 70% 分位"
+     "note": "现价处于52周区间 71% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +44.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（161条已评分）"
+     "note": "今日新闻情绪 +0.40（164条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.16 vs 20日均线 $227.67"
+     "note": "现价 $217.44 vs 20日均线 $227.68"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 70,
+   "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.1,
-   "ma20": 227.67,
-   "as_of": "2026-10-19T18:06:35.196956+00:00"
+   "implied_upside_pct": 44.9,
+   "ma20": 227.68,
+   "as_of": "2026-10-19T18:21:28.345554+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,125 @@
   }
  },
  "stories": [
+  {
+   "id": "a372584192cd",
+   "title": "540 NVIDIA GPUs Power Japan’s Research Institute’s New Quantum-HPC System - Quantum Zeitgeist",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRVlqSlV0RXpyZVZUQ2ZBUlloWkxMUHJYdWh4ZWxhS3pMLXZkdWpQcnhNUWYxYUVqdkRJOXRIaDMwaWdqcU56b2R5VnlkdTBFVEJFam40eFM5emtFUUlscGs3MzBPVlNlN29NOA",
+   "source": "Quantum Zeitgeist",
+   "published_at": "2026-10-19T18:19:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quantum Zeitgeist",
+     "published_at": "2026-10-19T18:19:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KRVlqSlV0RXpyZVZUQ2ZBUlloWkxMUHJYdWh4ZWxhS3pMLXZkdWpQcnhNUWYxYUVqdkRJOXRIaDMwaWdqcU56b2R5VnlkdTBFVEJFam40eFM5emtFUUlscGs3MzBPVlNlN29NOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "3c425ae8c4ed",
+   "title": "NVIDIA sets 104-qubit quantum simulation record on JUPITER supercomputer - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkRwMUhnSHBiRGlWY1p3TGVTZzdHN2NQcklkU3Fra2QyelFfcllkTUlJVWRwRlFtWkhSazVIQy0teDc5ZU5fTl84bHk3d3A4Y19FWDIwQ0xIRkIzbHNVaEtUZkN6bmJiTGZmN2JDVmsyZy02amxCSEFISFcxOXE4enJqbHNZWXVCZEVjdW51dTQ4Z2M1QTFCc1Y1N0wtOWFFYmtaSnFRaFpoRS1xckJNSWhReFlFSXVyMlFCLU9LRGkzSFYtYmcw",
+   "source": "Investing.com",
+   "published_at": "2026-10-19T18:18:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-19T18:18:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkRwMUhnSHBiRGlWY1p3TGVTZzdHN2NQcklkU3Fra2QyelFfcllkTUlJVWRwRlFtWkhSazVIQy0teDc5ZU5fTl84bHk3d3A4Y19FWDIwQ0xIRkIzbHNVaEtUZkN6bmJiTGZmN2JDVmsyZy02amxCSEFISFcxOXE4enJqbHNZWXVCZEVjdW51dTQ4Z2M1QTFCc1Y1N0wtOWFFYmtaSnFRaFpoRS1xckJNSWhReFlFSXVyMlFCLU9LRGkzSFYtYmcw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "e92a389a9d1e",
+   "title": "Is Nvidia Stock Really Trading for Just 8 Times 2030 Earnings? - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmNna0dmYkFSSUl2XzNQNHpzak9hU0xxdVdVUXFtRmh6WnB1UnZTa2pyZnFoUnZPYVhXZWNtTDlkR2k5WlFkN1lTM3ZPRk54a0Q2ZXkyV0hid2NQVFhHQ1RxSVdIRGdqQ2JiczgtNUd5dmFJZXYtOWt1TEpSZjltVk80UFlwR0lseTh0ZDh4WkNkZDJ4SDlLYQ",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-19T18:13:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-19T18:13:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmNna0dmYkFSSUl2XzNQNHpzak9hU0xxdVdVUXFtRmh6WnB1UnZTa2pyZnFoUnZPYVhXZWNtTDlkR2k5WlFkN1lTM3ZPRk54a0Q2ZXkyV0hid2NQVFhHQ1RxSVdIRGdqQ2JiczgtNUd5dmFJZXYtOWt1TEpSZjltVk80UFlwR0lseTh0ZDh4WkNkZDJ4SDlLYQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "fe6834c60fd0",
+   "title": "Modal says Nvidia’s Vera CPU doubles throughput for its AI sandboxes - The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15cU81T2JQRTMxaUdIelV4WWkyWVBldWVpZlBZWEJHU0Q0aTNZcWp4UGNYN3ZGaVd5LUM0eDJiVDUxdjJyWkFFdHc1ajNoLXpQYUF0ZEVtcGxDZC1oemhfM09rQzlaUXJNSEE4",
+   "source": "The Next Web",
+   "published_at": "2026-10-19T18:11:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Next Web",
+     "published_at": "2026-10-19T18:11:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15cU81T2JQRTMxaUdIelV4WWkyWVBldWVpZlBZWEJHU0Q0aTNZcWp4UGNYN3ZGaVd5LUM0eDJiVDUxdjJyWkFFdHc1ajNoLXpQYUF0ZEVtcGxDZC1oemhfM09rQzlaUXJNSEE4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "6a3b31682a95",
+   "title": "NVIDIA Uses JUPITER Exascale Supercomputer for Record-Scale Fault-Tolerant Quantum Computing Simulation - Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcDV2MFBNWlA0c19Xb2NLR0RXRzVjQUZLMnYzTDdvVlZNLUJyRGVzNkdNUXRpdXEzUEcwNTZvMnlCQmxuQ3ZRN0toZXRUa0hLOUNKWXptUEYzZTM3XzFhTkd4TVphQ1F4Uk9selFCcVBKTm1MeTQ1ZGFHZjBXa01rYU9MeFp6N0hnVndLaVRHVDUtZ2lITzVGLW1qMVk2NHAzdlVFSzM1Z3I3R0xYeTA0bDN6djlYY0t1ckp6VjdPMnljLXY2TFFTMUxDRGpyNE9UaUE",
+   "source": "Quiver Quantitative",
+   "published_at": "2026-10-19T18:10:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quiver Quantitative",
+     "published_at": "2026-10-19T18:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcDV2MFBNWlA0c19Xb2NLR0RXRzVjQUZLMnYzTDdvVlZNLUJyRGVzNkdNUXRpdXEzUEcwNTZvMnlCQmxuQ3ZRN0toZXRUa0hLOUNKWXptUEYzZTM3XzFhTkd4TVphQ1F4Uk9selFCcVBKTm1MeTQ1ZGFHZjBXa01rYU9MeFp6N0hnVndLaVRHVDUtZ2lITzVGLW1qMVk2NHAzdlVFSzM1Z3I3R0xYeTA0bDN6djlYY0t1ckp6VjdPMnljLXY2TFFTMUxDRGpyNE9UaUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "e5647b024e40",
+   "title": "英伟达在“木星”系统上实现创纪录的量子计算模拟，该公司运行104量子比特容错量子计算模拟 - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JbjFFRnVWd2F1ZGFXb2FfYVFQSWtHTEZhYmkxVzBkZmpXaV9SbUFoMGdEN21ZazZBNUF1Y3hwcnA3R2RpMlpva2xZWjFEN0xXRnc0",
+   "source": "华尔街见闻",
+   "published_at": "2026-10-19T18:09:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-19T18:09:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JbjFFRnVWd2F1ZGFXb2FfYVFQSWtHTEZhYmkxVzBkZmpXaV9SbUFoMGdEN21ZazZBNUF1Y3hwcnA3R2RpMlpva2xZWjFEN0xXRnc0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "c6d9c98e38ec",
+   "title": "Is Nvidia (NVDA) Stock Priced Right? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVFUQnhDODFOX1o0Zkl1WWJQbTRfRkZjSFNNdnBYaGV5TkMydWFxX3VGdTJzRzh4RlVyNXpIMXhPb1NscWlMS1h4NG5TV3pCNXhPekIyOGkwbktPWnJMdFFESjdRbVJheVVJV2t4X3FXemlvYThrTWRFZHF0YkM0NjRtTzNmU3VkLS03VzBLb1c5X28",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T18:07:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T18:07:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVFUQnhDODFOX1o0Zkl1WWJQbTRfRkZjSFNNdnBYaGV5TkMydWFxX3VGdTJzRzh4RlVyNXpIMXhPb1NscWlMS1h4NG5TV3pCNXhPekIyOGkwbktPWnJMdFFESjdRbVJheVVJV2t4X3FXemlvYThrTWRFZHF0YkM0NjRtTzNmU3VkLS03VzBLb1c5X28"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "f42f607d8e0f",
    "title": "英伟达于于利希超级计算中心完成创纪录的容错量子计算模拟。 - 手机新浪网",
@@ -80,6 +199,62 @@
    "zh_summary": "英伟达在于利希超算中心完成创纪录容错量子模拟",
    "title_zh": "英伟达于于利希超级计算中心完成创纪录的容错量子计算模拟。 - 手机新浪网",
    "sentiment": 1
+  },
+  {
+   "id": "0e06295a29af",
+   "title": "A quantum approach needs 90% fewer building blocks than earlier methods. NVIDIA simulated it on a supercomputer. - Stock Titan",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUE13TzB1a1lpQVh1Q09WREx5dkliOTdRV3ExTGhjanloU1NkSGJqUElFVEczaVBReDlfeDdLUUsxSlROZHpYclVubjB3M3lac004R2w5R0ZLQXotLVRKN2w0TjUzVjh4QWROMVJicTZzdGtTZFFOUGs3MkNPUVdCR1dlSGthc3ZFY1ZYMGhSY2cyTlNzRWY1MG5Ib1JlYWxBUFlaeHp4b2pYUjBfbnZjYWsxdVdPbDdsWjdpSUhoSTY",
+   "source": "Stock Titan",
+   "published_at": "2026-10-19T18:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stock Titan",
+     "published_at": "2026-10-19T18:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUE13TzB1a1lpQVh1Q09WREx5dkliOTdRV3ExTGhjanloU1NkSGJqUElFVEczaVBReDlfeDdLUUsxSlROZHpYclVubjB3M3lac004R2w5R0ZLQXotLVRKN2w0TjUzVjh4QWROMVJicTZzdGtTZFFOUGs3MkNPUVdCR1dlSGthc3ZFY1ZYMGhSY2cyTlNzRWY1MG5Ib1JlYWxBUFlaeHp4b2pYUjBfbnZjYWsxdVdPbDdsWjdpSUhoSTY"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "efa8f22d3fff",
+   "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjlqNjZuS0UyX09JeEh0dVJIM0E2OHY3X01OdExzbi1EWG9iWXVxOFhzVUNadmVTaHpSLWhEMlQzSXJMcVVJS0ZpM045cnQyUnNyZkFpMjJCaUF5UnFJNGhBTmM5bkttRVdmU0ZYZVVuU0U5WnpRNC1hTG5OVHVlMnJEUFlmRnNlcHdvell2dlBWdFNUcU9KSHV0clFfUmFq",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T18:00:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T18:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjlqNjZuS0UyX09JeEh0dVJIM0E2OHY3X01OdExzbi1EWG9iWXVxOFhzVUNadmVTaHpSLWhEMlQzSXJMcVVJS0ZpM045cnQyUnNyZkFpMjJCaUF5UnFJNGhBTmM5bkttRVdmU0ZYZVVuU0U5WnpRNC1hTG5OVHVlMnJEUFlmRnNlcHdvell2dlBWdFNUcU9KSHV0clFfUmFq"
+    },
+    {
+     "name": "NVIDIA Newsroom",
+     "published_at": "2026-10-19T18:03:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVG1WY2dfWHlKMC03cS1qQllzc3hyT0ptajMtQUJvdlNMZ1ZkVHM0bDdJRnloMVdQNDZxMHhXcnhyQUR5eW9EVENZWm1Yb0RMMlBCMHU2b1NfbzNaeGxSY3pFbjFpM1lNS01YbFZOMDBzc3dmRjFZM2hoSXpoQTVvbFVyeGNvRlRxWFp4QlEyMlhVWE1QeHljWTNGQkE0SlBKNDJGa0phLXhpNWFBSVBDRTE4dFFRS2puNDRuSUdKUDlscEkwaVE4TmFVS3I"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "92a1dd851485",
+   "title": "Jensen Huang: Token Costs Are Falling “30, 40 Times per Year.” That’s Nvidia’s Plan - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzRkbHdMLU12RHRUOUhQZG9OemtfZUZCUE9lUlhNVGFqNkl3bVJyWlpvN2lnNkhodnlxb0l5Z24wQ0pELWRkNGQ4dmNGOHJxQ1IxQU9UR0RkdnljR2x4dm1MRkxCTDBhTDIwdUQ5RHVDMGxCWC03Uy1ZbVUtQkwwRkVJOG5zOFJTY3Jfc193UWU3N1VEVlc4T1JfSko",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T17:49:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T17:49:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzRkbHdMLU12RHRUOUhQZG9OemtfZUZCUE9lUlhNVGFqNkl3bVJyWlpvN2lnNkhodnlxb0l5Z24wQ0pELWRkNGQ4dmNGOHJxQ1IxQU9UR0RkdnljR2x4dm1MRkxCTDBhTDIwdUQ5RHVDMGxCWC03Uy1ZbVUtQkwwRkVJOG5zOFJTY3Jfc193UWU3N1VEVlc4T1JfSko"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "6a3fe42e25c1",
@@ -1711,26 +1886,6 @@
    "sentiment": 1
   },
   {
-   "id": "1f9901c57ca7",
-   "title": "美股前瞻| 三大股指期货涨跌不一科技巨头财报本周重磅来袭英伟达GTC柏林大会即将开幕_全球市场_财经 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyVkF6QmpKSnZCT2FOYjJLeXQxbmtzWFNTRWhKa2RFcWFfUkpwbXA1WC1wZTg4ZGxPQmRUMDdFTzBlSXNJRmF6enl6QjRzNWwxZHdMNEdPLTJFYlhSemVPcg",
-   "source": "证券之星",
-   "published_at": "2026-10-19T11:51:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-19T11:51:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyVkF6QmpKSnZCT2FOYjJLeXQxbmtzWFNTRWhKa2RFcWFfUkpwbXA1WC1wZTg4ZGxPQmRUMDdFTzBlSXNJRmF6enl6QjRzNWwxZHdMNEdPLTJFYlhSemVPcg"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "英伟达GTC柏林大会即将开幕",
-   "title_zh": "美股前瞻| 三大股指期货涨跌不一科技巨头财报本周重磅来袭英伟达GTC柏林大会即将开幕_全球市场_财经 - 证券之星",
-   "sentiment": 0
-  },
-  {
    "id": "ffaff241371a",
    "title": "三星与台积电合作 联手生产英伟达下一代HBM芯片 - e南洋",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpcldPMGhEVVU2UEFXZHNKQ2QtbUM3UzRMZXBTV1ZPUFExZlVtV0ZTd0pNVDcwdFBBWWZGdURZM01MSzR6T2FodVF3OHBJZDFwS3QxQWtPYUtPU0FlWWQ1cGdmcw",
@@ -1754,6 +1909,31 @@
    "zh_summary": "三星台积电合作生产英伟达下一代HBM芯片",
    "title_zh": "三星与台积电合作 联手生产英伟达下一代HBM芯片 - e南洋",
    "sentiment": 1
+  },
+  {
+   "id": "1082778f3094",
+   "title": "美股前瞻| 三大股指期货涨跌不一科技巨头财报本周重磅来袭英伟达GTC柏林大会即将开幕提供者智通财经 - 英为财情 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Qc2JKMDR5dm1YQkVGSU9NQVpTdkxxbFRMVmdyMjdVNVkyQXFjaWhlN1JXaDFFZjRHWDltVzVFa2xicU9ib1FGRkNxNzZGWU1MVVdQbTJ0aXZoWmdrN2t5enB4NTM1UnFURm5CdFZOZEw",
+   "source": "英为财情 Investing.com",
+   "published_at": "2026-10-19T11:51:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-19T11:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Qc2JKMDR5dm1YQkVGSU9NQVpTdkxxbFRMVmdyMjdVNVkyQXFjaWhlN1JXaDFFZjRHWDltVzVFa2xicU9ib1FGRkNxNzZGWU1MVVdQbTJ0aXZoWmdrN2t5enB4NTM1UnFURm5CdFZOZEw"
+    },
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-19T11:51:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyVkF6QmpKSnZCT2FOYjJLeXQxbmtzWFNTRWhKa2RFcWFfUkpwbXA1WC1wZTg4ZGxPQmRUMDdFTzBlSXNJRmF6enl6QjRzNWwxZHdMNEdPLTJFYlhSemVPcg"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前",
+   "zh_summary": "英伟达GTC柏林大会即将开幕",
+   "title_zh": "美股前瞻| 三大股指期货涨跌不一科技巨头财报本周重磅来袭英伟达GTC柏林大会即将开幕_全球市场_财经 - 证券之星",
+   "sentiment": 0
   },
   {
    "id": "0465c20881d6",
@@ -6038,6 +6218,23 @@
    "sentiment": 1
   },
   {
+   "id": "e29cc37d2221",
+   "title": "NVIDIA Corporation $NVDA Shares Newly Purchased by Nykredit A S - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd0xNa25zelprZWNDV0d4eDJBV1h3YVRHTW00aVdXa3VrVjZtZGNnNWZocXhfRFltRUhvdG9GaEcweFNNbVI0T3RMUFNTM1V4WjBpWHRIZC10a2c0aDBVcE9LLWUtcW5DVTdab05lRjFzRWNJSkpQaGVhZzR4NkFoa2ZHQWxKUXp5dS1tUmk3bzRtbFZRc2FrYzBaWFduLWN5eXRoNDlLOXVqcGlBdEpZVUZpZ0c5Z3JVR1B0OE13WUc",
+   "source": "MarketBeat",
+   "published_at": "2026-10-18T09:02:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-18T09:02:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd0xNa25zelprZWNDV0d4eDJBV1h3YVRHTW00aVdXa3VrVjZtZGNnNWZocXhfRFltRUhvdG9GaEcweFNNbVI0T3RMUFNTM1V4WjBpWHRIZC10a2c0aDBVcE9LLWUtcW5DVTdab05lRjFzRWNJSkpQaGVhZzR4NkFoa2ZHQWxKUXp5dS1tUmk3bzRtbFZRc2FrYzBaWFduLWN5eXRoNDlLOXVqcGlBdEpZVUZpZ0c5Z3JVR1B0OE13WUc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "f89c3ca11d98",
    "title": "嘴巴补货没用！5090停产流言四起 价格狂飙到5.5W 英伟达官方回应 - 直播吧",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SUk03TFpJbWVub3ZDdXJ2MmJyRVZCS2RKWXEzYUJHaTBjWndQSEg0TWpqaVRlNmlTZC1ScUlIRmlyeGQ2Q0tKeHc4ckZaQU1iQ1hwbHBkSkRVUV9hYkJOR1FjRU04V2lsZG5fU1ZtSGUzQVBhSFFCcg",
@@ -6374,279 +6571,6 @@
    "session": "周末",
    "zh_summary": "AI气候初创获英伟达投资支持",
    "title_zh": "搁置气候业务后，这家AI气候初创仍获英伟达支持",
-   "sentiment": 1
-  },
-  {
-   "id": "562834c4fbb6",
-   "title": "英伟达GTC柏林大会即将开幕 黄仁勋将发表主题演讲 AI工厂、欧洲投资引关注 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WTEFEN0pHeVlDMGhSODNZVzZFWGtnOTMwMEk3MmdIRlB6MEk2TlRkeUxEb3diRkZHdXU3MENCcTB5LVNSVzdGZF9UemNmSlZHNkZvcXByd05YZ3hSTDQtRVRURVdTdw",
-   "source": "东方财富",
-   "published_at": "2026-10-18T05:05:34+00:00",
-   "outlets_count": 8,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-18T05:05:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WTEFEN0pHeVlDMGhSODNZVzZFWGtnOTMwMEk3MmdIRlB6MEk2TlRkeUxEb3diRkZHdXU3MENCcTB5LVNSVzdGZF9UemNmSlZHNkZvcXByd05YZ3hSTDQtRVRURVdTdw"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-19T04:59:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRW1hUVZfUEZwTExEOGN2NGsxRDZta2kyQldRa0ZPOExiaHA1Um9DMl9TTkEzbm1KSk5PN0NXMUt0YzQtNVh1aE82NWR2Y09ra1VyZXRWWkF6T2V3M2hYcGd3aXJhbkNLaGN4N3Y5eHRPOEF5alFlT2NieHNta1lJUWRqbXhRWTBq"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-19T05:20:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4ZVFndk5paXNNdDc2eU1rWXJhclNYa1RjZnl5Y2dDdG94VHk3U2VTS0pzTXFxX0o5T0hzQmFDbnZXbGRzclhISkQ5dlQ"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-19T04:59:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzJINFVOUzV3QmxNRE1kWFZnanY1eTFvc2xyY3dDUldaRDg2NVNDY0R5RWdJYnQtRE5UUl9UNEtacnV3Y1VnN0lmZHFxZFFNeWpfNWJFdS0xZFR0UXJWNTdfRkw4U0F4S3U1bG8yNm1TVXRKbDBSam5VeGU0aHBKdVZSdER4OEJzNV80"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-19T07:01:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVpBSUlHSGE2OFFSRmtkd2poY3VpU2NOcXU5VXU5MXBpNnFjOE5XTWtjVWduQW82VUpyWWdoQzNJOTdjMW04eG1GaS1HUWh0dWNNOVdFVDFVTDNla01fTHFQdnRYNHI3RmJtSlJoNW1IbEl4UklxelAtdWd6cm1GemsyQW5idjVJRlpMRnEtbXlzd29LQ3c"
-    },
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-19T05:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iLXRyUUlqV095NTVaSXhKLTUxY1RRcU9oZVhpZkhHeVIwc2dKTTNZOVd2OWpmOUJLVkxqYlFCSE1PRnVrV21MNG1yWVZiRDNybVNV"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-19T05:21:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TVjdLRDF2eS1hN01aMGtqUllEbm1sU295RXZDaXMzUGM2VkZidlRHMW1aVDZBU3d0Ry1OSlNRRWVLU2hVMUh4eEozdw"
-    },
-    {
-     "name": "财联社",
-     "published_at": "2026-10-19T03:04:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zbUZHQVZxTUxGakJGSEgzRnJYMk5JSXFlWFhTdUlLdkRpNzNKZ292U1dia29PQk14NWd3OGt2clBiQkNkRTc3Zg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "黄仁勋将在GTC柏林大会发表主题演讲",
-   "title_zh": "英伟达GTC柏林大会即将开幕 黄仁勋将发表主题演讲 AI工厂、欧洲投资引关注",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.11,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "1e51c15e2635",
-   "title": "下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报 - 华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BOTJVdzJjOTFGTl81dldkb1IyWnM4bEYyMXFhQzFQZ2dwazNBTUFvSmY1WTJzRU56RjFBeVN4Qi13VHJhWEtRQWE2ZnhyUTF5dEhj",
-   "source": "华尔街见闻",
-   "published_at": "2026-10-18T03:44:24+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-18T03:44:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BOTJVdzJjOTFGTl81dldkb1IyWnM4bEYyMXFhQzFQZ2dwazNBTUFvSmY1WTJzRU56RjFBeVN4Qi13VHJhWEtRQWE2ZnhyUTF5dEhj"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-18T05:28:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYk16amphTkVTSkJ6Qk90VWV0WDdlcjI2MmtFUEcxaFo4dzhBNUs2ek8wTXdCYlpCZmpXbDJEbFRzQmttOHlxSl8wUGEybW9mU05qWTUteHZHNDlXckRWMmpUSzZ6VzZ1MHo5VDlMLTNDYVlWbV9ETXM0WnU2NkQ0ZTd6aW9kOXFG"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-18T05:28:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMC1kcVJzWEFzYjdnQlp1ODQwV2E3RDFmQTZ4cU85RkJPbkE0eTdVNGJCWjRQZmVfOExudVBqcDA1bW5TNEk4MGxxbkZrVWJLMWFmQTJOU2xiWUdRbVctM0luSWJ1QWZ0U184T3RwTmNiLS1UQnp2dVRHRlJ2aE5DNTExNzZZR1RfWXpR"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "英伟达GTC大会下周举行",
-   "title_zh": "下周重磅日程：英伟达GTC、特斯拉Meta财报 - 华尔街见闻",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.11,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "14e8ed9cda62",
-   "title": "美股讯号 | 英伟达因AI融资体系信用裂缝遭遇市场动荡 ｜#美股资讯# #英伟达# #市场事件# - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFNmSjNwcWhuTjAzZDhyYkNrOVJ4alJHT1BGdnd0cDZVaGJiOEFxYl93aGZnVXcyOW9COTZ6NS1fWkYwNmNDeUlTTl92azJNV3RMc21HajRQR0cyZkFwYXhzRXdKS1NGZ0hCdThjRkdlQ1hKYTg4bGg4YWxLZmp0ekliQXZrUWVoSGxkRw",
-   "source": "搜狐",
-   "published_at": "2026-10-18T03:06:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-18T03:06:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFNmSjNwcWhuTjAzZDhyYkNrOVJ4alJHT1BGdnd0cDZVaGJiOEFxYl93aGZnVXcyOW9COTZ6NS1fWkYwNmNDeUlTTl92azJNV3RMc21HajRQR0cyZkFwYXhzRXdKS1NGZ0hCdThjRkdlQ1hKYTg4bGg4YWxLZmp0ekliQXZrUWVoSGxkRw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达因AI融资体系信用裂缝遭遇市场动荡",
-   "title_zh": "美股讯号 | 英伟达因AI融资体系信用裂缝遭遇市场动荡 ｜#美股资讯# #英伟达# #市场事件# - 搜狐",
-   "sentiment": -1
-  },
-  {
-   "id": "67908b184571",
-   "title": "打入英伟达核心供应链？蓝思科技宣布重大并购 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRk1ySzRZVXE1ZUxpSE8tUzZJRVQwdlJPZTZMQWhFWF9nQ01jQndTTk1qRGRKczM4NmhDZFpSUzZCTm5XTGgwUGFuT0JUaGpfTVdKZDNFMG9GTG9QRWhiSkxqRHdRNkxRVHJ3MXhYUHJ5ZXFfSGxvd0hlUmhDc2FEeDNkOWY1alFLX1o3Vw",
-   "source": "搜狐",
-   "published_at": "2026-10-18T02:37:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-18T02:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRk1ySzRZVXE1ZUxpSE8tUzZJRVQwdlJPZTZMQWhFWF9nQ01jQndTTk1qRGRKczM4NmhDZFpSUzZCTm5XTGgwUGFuT0JUaGpfTVdKZDNFMG9GTG9QRWhiSkxqRHdRNkxRVHJ3MXhYUHJ5ZXFfSGxvd0hlUmhDc2FEeDNkOWY1alFLX1o3Vw"
-    }
-   ],
-   "category": "供应链",
-   "session": "周末",
-   "zh_summary": "蓝思科技宣布重大并购，或打入英伟达供应链",
-   "title_zh": "打入英伟达核心供应链？蓝思科技宣布重大并购",
-   "sentiment": 0
-  },
-  {
-   "id": "95cb1a857c8b",
-   "title": "AMD Radeon RX 9070 XT was able to run NVIDIA Ray Reconstruction at 60 FPS in Cyberpunk 2077 - GameGPU",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejZRSTJPMTBjTWpqRkNQTTY1WnpxOGQ0R2JEYUlxd2pLc1k2bEhCd2dYYXFBcERTaVpnSUdpUDVIdnVJMkJnTk9tUlJ2aGpLNmtaWWhIeDRaNVNTMTFaM3F4cy1DVG5yN1BDbUpwWnhveEdRUEo4RWhrcjhPMEZjTFlONEc4ZFB3Q29DWnZFUkFZMDRhb1BYUGJaaGc3NE1BcTRfR1c2STZEVFQ3dUVBZ0VYcjN0MnRpeUlUaGcyWkRLQQ",
-   "source": "GameGPU",
-   "published_at": "2026-10-18T02:17:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GameGPU",
-     "published_at": "2026-10-18T02:17:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejZRSTJPMTBjTWpqRkNQTTY1WnpxOGQ0R2JEYUlxd2pLc1k2bEhCd2dYYXFBcERTaVpnSUdpUDVIdnVJMkJnTk9tUlJ2aGpLNmtaWWhIeDRaNVNTMTFaM3F4cy1DVG5yN1BDbUpwWnhveEdRUEo4RWhrcjhPMEZjTFlONEc4ZFB3Q29DWnZFUkFZMDRhb1BYUGJaaGc3NE1BcTRfR1c2STZEVFQ3dUVBZ0VYcjN0MnRpeUlUaGcyWkRLQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "AMD显卡运行英伟达光线重建达60帧",
-   "title_zh": "AMD显卡运行英伟达光追重构赛博朋克2077达60帧",
-   "sentiment": 0
-  },
-  {
-   "id": "094d81d5b11b",
-   "title": "Nvidia RTX Spark Gaming Tests: Are These New AI Laptops Good for Play, Too? - PCMag",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOajBJb0RBeWdvMDJHNm1RSWxhSzhmNzRDdkdHckNtczRMTVJkdk9yM3RFS0RZckZIWmZTdWd0WHhvT2NvUkt6VjlYRHJzY0lqUXJWbHg2ZEJTZEhjQlU2Zm1QSmZVSjRLcUx6Wm5ya2U0TUloM3M4d294U2czSXFCZGVrNmsxczJpNkNvLTR1blQ5SUxXZUd3SUVKVWdxYjNw",
-   "source": "PCMag",
-   "published_at": "2026-10-18T02:06:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "PCMag",
-     "published_at": "2026-10-18T02:06:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOajBJb0RBeWdvMDJHNm1RSWxhSzhmNzRDdkdHckNtczRMTVJkdk9yM3RFS0RZckZIWmZTdWd0WHhvT2NvUkt6VjlYRHJzY0lqUXJWbHg2ZEJTZEhjQlU2Zm1QSmZVSjRLcUx6Wm5ya2U0TUloM3M4d294U2czSXFCZGVrNmsxczJpNkNvLTR1blQ5SUxXZUd3SUVKVWdxYjNw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达RTX Spark笔记本游戏测试",
-   "title_zh": "英伟达RTX Spark游戏测试：AI笔记本玩游戏如何？",
-   "sentiment": 0
-  },
-  {
-   "id": "cc182f56b49f",
-   "title": "NVIDIA RTX Spark vs MacBook Pro — Which Laptop Wins for Local AI? - ThePCEnthusiast",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jMGlWT2pMTFNkcjY4SGhMU2JoZG1tSExNOWtkZnRRdmVna08xYWlyNWVBS0ZUNVhkUkJQbnZINFNJSEtCODZHZ2RLSm13OXdJSVpsTTE3Sm42QjZpX3E0U0dzLVRKbTRtZ0ptUlBaZUZ1REZNV21fag",
-   "source": "ThePCEnthusiast",
-   "published_at": "2026-10-18T02:04:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ThePCEnthusiast",
-     "published_at": "2026-10-18T02:04:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jMGlWT2pMTFNkcjY4SGhMU2JoZG1tSExNOWtkZnRRdmVna08xYWlyNWVBS0ZUNVhkUkJQbnZINFNJSEtCODZHZ2RLSm13OXdJSVpsTTE3Sm42QjZpX3E0U0dzLVRKbTRtZ0ptUlBaZUZ1REZNV21fag"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "RTX Spark对比MacBook本地AI性能",
-   "title_zh": "英伟达RTX Spark对阵MacBook Pro：本地AI谁更强",
-   "sentiment": 0
-  },
-  {
-   "id": "9133ee1ec8ed",
-   "title": "英伟达的“九日变局”：4万亿元蒸发之后，黄仁勋的乐观与估值的重力 - OR新媒体",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94ZEJzWDBSWWk4Y25PN3FPbFRja3BUMzRQVmUtWTJGMG5CVnFXaWQ4OGtUN3p4MkhlRzRxSUNtdjNHVFFB",
-   "source": "OR新媒体",
-   "published_at": "2026-10-18T01:47:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "OR新媒体",
-     "published_at": "2026-10-18T01:47:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE94ZEJzWDBSWWk4Y25PN3FPbFRja3BUMzRQVmUtWTJGMG5CVnFXaWQ4OGtUN3p4MkhlRzRxSUNtdjNHVFFB"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "九日变局：4万亿蒸发后，黄仁勋乐观与估值重力",
-   "title_zh": "英伟达的“九日变局”：4万亿元蒸发之后，黄仁勋的乐观与估值的重力",
-   "sentiment": 0
-  },
-  {
-   "id": "fb905295cbae",
-   "title": "Nvidia (NVDA) Stock Trades Below Fair Value On Cash Flow - Simply Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHRaSVVUVjhFLThyZzczVVVhM1ROd1VrWkFpdzczeFRaamNUd0FsMzFBTVZQakVPRDc2MUNBZlNHTkxrTEdHdzRGZy1uaG5mLXlLVFBJMC1zVEwtTnFEVXZWbzB3aXpZdkpwWVBzZVZjT25rdDRHVlFPNjlfT285S0RjV0t0R3lSeF8tUTZvM2dNLVZBemFBZ055T3h5d1F1bm9VbkhURHlUdGlGaEt3Q1lyaHRkci1VQzB0WmpYUWF2NTjSAcgBQVVfeXFMTnI5NVNVTWloZ0Q1SldST3dDcV9CdmJSeVY3RVBUYnA2STRoWjE4N01YYmxMTmxESUIybzJBd2tTejQ0M2szMGxuNU1YQWtpNy1nT01Hb0ZrVnk4V0VfLVQxOVJONEM4Q1djVnBkZE1RMzAyRFRsaWFsbU8xT0gtMmY5akVINEhVZWVhVFZTdHhoU3BTdmsxR291OVVMUloyREJoSFNTOHYtTEZzNUo1RXFpNlZTN25KeHQ0SGFiYzI0TDg2aS00d1c",
-   "source": "Simply Wall Street",
-   "published_at": "2026-10-18T01:40:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Simply Wall Street",
-     "published_at": "2026-10-18T01:40:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHRaSVVUVjhFLThyZzczVVVhM1ROd1VrWkFpdzczeFRaamNUd0FsMzFBTVZQakVPRDc2MUNBZlNHTkxrTEdHdzRGZy1uaG5mLXlLVFBJMC1zVEwtTnFEVXZWbzB3aXpZdkpwWVBzZVZjT25rdDRHVlFPNjlfT285S0RjV0t0R3lSeF8tUTZvM2dNLVZBemFBZ055T3h5d1F1bm9VbkhURHlUdGlGaEt3Q1lyaHRkci1VQzB0WmpYUWF2NTjSAcgBQVVfeXFMTnI5NVNVTWloZ0Q1SldST3dDcV9CdmJSeVY3RVBUYnA2STRoWjE4N01YYmxMTmxESUIybzJBd2tTejQ0M2szMGxuNU1YQWtpNy1nT01Hb0ZrVnk4V0VfLVQxOVJONEM4Q1djVnBkZE1RMzAyRFRsaWFsbU8xT0gtMmY5akVINEhVZWVhVFZTdHhoU3BTdmsxR291OVVMUloyREJoSFNTOHYtTEZzNUo1RXFpNlZTN25KeHQ0SGFiYzI0TDg2aS00d1c"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达股价低于现金流公允价值",
-   "title_zh": "英伟达（NVDA）股价低于现金流公允价值",
-   "sentiment": 1
-  },
-  {
-   "id": "3cd8e9ac0052",
-   "title": "英伟达否认RTX 5090停产报道 确认将继续出货 - 3DM",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10WEJoLVNraFJrcXZzZG5vSWtrZ3RjM1lxaXZiczh0VFBidllLdFh0SWpkd3BsTVZ0dUxuV1gzMVU2RlR6MXFLbWFneEJMWFhFS1lOeGRwUS1OeDVB",
-   "source": "3DM",
-   "published_at": "2026-10-18T01:38:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "3DM",
-     "published_at": "2026-10-18T01:38:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10WEJoLVNraFJrcXZzZG5vSWtrZ3RjM1lxaXZiczh0VFBidllLdFh0SWpkd3BsTVZ0dUxuV1gzMVU2RlR6MXFLbWFneEJMWFhFS1lOeGRwUS1OeDVB"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达否认RTX 5090停产传闻",
-   "title_zh": "英伟达否认RTX 5090停产报道 确认将继续出货 - 3DM",
-   "sentiment": 0
-  },
-  {
-   "id": "b2f58064f2c7",
-   "title": "联想集团全球交付英伟达Vera Rubin NVL72，创业板算力ETF天弘(158061)上一个交易日换手率超45%交投活跃 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzcWtTNWlWT2E3Y3l1SXZvdmxEdjNicS1hVXdXSE1YUHNXYUVTRkJ2UVk4eXc3c3RKRXFJSE96bnJoMFZOS29WT25RWl80amJ6dUZ0bTd3RXBxdlRFVkJfX1VkTC1EUQ",
-   "source": "东方财富",
-   "published_at": "2026-10-18T01:28:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-18T01:28:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzcWtTNWlWT2E3Y3l1SXZvdmxEdjNicS1hVXdXSE1YUHNXYUVTRkJ2UVk4eXc3c3RKRXFJSE96bnJoMFZOS29WT25RWl80amJ6dUZ0bTd3RXBxdlRFVkJfX1VkTC1EUQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "联想全球交付英伟达Vera Rubin NVL72",
-   "title_zh": "联想集团全球交付英伟达Vera Rubin NVL72，创业板算力ETF天弘(158061)上一个交易日换手率超45%交投活跃 - 东方财富",
    "sentiment": 1
   }
  ]
