@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T03:36:35.990689+00:00",
+ "updated_at": "2026-10-19T03:51:42.046727+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,8 +10,8 @@
    "days_left": 30
   },
   "day_sentiment": {
-   "avg": 0.28,
-   "count": 96
+   "avg": 0.3,
+   "count": 98
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.28（96条已评分）"
+     "note": "今日新闻情绪 +0.30（98条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-19T03:36:35.970129+00:00"
+   "as_of": "2026-10-19T03:51:42.033516+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "649df47c6e71",
+   "title": "英伟达联合vLLM推出CuTe DSL定制解码链路，Kimi K3在GB300上解码吞吐提升1.8倍 - SmartHey",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TSmEzWjJvdGhuTWF1M3V2Q3Z3YkYtSTEtVmUzLTdGVmdIR191OEJQeHRReTVBbkczS3o5dTBLQkRwZGRmZmM4S0ZueXBqMS1nRWJNVENxYjFvZFBiVVE",
+   "source": "SmartHey",
+   "published_at": "2026-10-19T03:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "SmartHey",
+     "published_at": "2026-10-19T03:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TSmEzWjJvdGhuTWF1M3V2Q3Z3YkYtSTEtVmUzLTdGVmdIR191OEJQeHRReTVBbkczS3o5dTBLQkRwZGRmZmM4S0ZueXBqMS1nRWJNVENxYjFvZFBiVVE"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "5c693a9467b8",
+   "title": "Axera unveils AX8860P SoC to compete with NVIDIA DGX Spark at lower cost - Global Sources",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYlgxZHBqNjBZekpsMEJPZW52MEVmamFIbC1mTkxvV1VhSk5HZnJ6Z1FjOVJpV2V0dGlfOXZ6YWpRV29NQ20wWllzSEI4TC1leVo5aXpYUHlGQjBrUjlENm5aM0xiTXRLZWgyTjlCeXZBS1VENzlVb0YzUHRtLXl1Y3JiV2dEOXRwMEk1d3RacjFoVHFDN18tQlVDWTRwN1FnbUs4VlZ0VGIzaWZQeEdMS05YRktpNHVZaFdmTnVMTHhlclBzV1Rla2gtQXVHM2sySGw1WlJB",
+   "source": "Global Sources",
+   "published_at": "2026-10-19T03:35:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Global Sources",
+     "published_at": "2026-10-19T03:35:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYlgxZHBqNjBZekpsMEJPZW52MEVmamFIbC1mTkxvV1VhSk5HZnJ6Z1FjOVJpV2V0dGlfOXZ6YWpRV29NQ20wWllzSEI4TC1leVo5aXpYUHlGQjBrUjlENm5aM0xiTXRLZWgyTjlCeXZBS1VENzlVb0YzUHRtLXl1Y3JiV2dEOXRwMEk1d3RacjFoVHFDN18tQlVDWTRwN1FnbUs4VlZ0VGIzaWZQeEdMS05YRktpNHVZaFdmTnVMTHhlclBzV1Rla2gtQXVHM2sySGw1WlJB"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
   {
    "id": "88398d59dfb7",
    "title": "应英伟达标准化要求 三星将与台积电首次合作生产HBM！ - 富途牛牛",
@@ -140,6 +174,23 @@
    "zh_summary": "英伟达传推三星等用台积电3nm造NVHBM基础晶粒",
    "title_zh": "英伟达被曝要求三星、SK海力士、美光用台积电3nm造NVHBM晶粒",
    "sentiment": 1
+  },
+  {
+   "id": "7e2887cd2abc",
+   "title": "Volvo and Mercedes expand NVIDIA driving partnership - EV Infrastructure News",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLWVBZ3RmWDR5RHROcV8tNXJWT0xsX2luUVZCX1RkUDVkUEJuSHNlbXg2cWhDNjIyZF9yVk5zU0g1a1lXX3UydHZVQWprdGhGazc3TGRod3FSbUEwVTFnWEZ5ME1NVkZqVkV3X3VvX1ZmVlNheEFYbzVPeXk4anhBVUx1MWowY0FBRkJmY2JQMDhfVHh4N2lsZXF1WlRjOUFaNi1XRFNJVGtFckR5QW1nNWMwNzNTMUdSUlMtVU5qblBhOUoyVHFHeTVBalJ5TVk2clpj",
+   "source": "EV Infrastructure News",
+   "published_at": "2026-10-19T03:07:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "EV Infrastructure News",
+     "published_at": "2026-10-19T03:07:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLWVBZ3RmWDR5RHROcV8tNXJWT0xsX2luUVZCX1RkUDVkUEJuSHNlbXg2cWhDNjIyZF9yVk5zU0g1a1lXX3UydHZVQWprdGhGazc3TGRod3FSbUEwVTFnWEZ5ME1NVkZqVkV3X3VvX1ZmVlNheEFYbzVPeXk4anhBVUx1MWowY0FBRkJmY2JQMDhfVHh4N2lsZXF1WlRjOUFaNi1XRFNJVGtFckR5QW1nNWMwNzNTMUdSUlMtVU5qblBhOUoyVHFHeTVBalJ5TVk2clpj"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "f473de750a44",
@@ -6511,71 +6562,6 @@
    "zh_summary": "AI交易谈判给多头买入新理由",
    "title_zh": "英伟达AI交易谈判给多头新的买入理由",
    "sentiment": 1
-  },
-  {
-   "id": "399ef5e94cf3",
-   "title": "Nvidia Stock (NVDA) Dips Despite a New RTX Spark AI Laptop Launch - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUlJqbUktMjA4OHdWOFpLLURPbTNMb1dIOENxVm9EanhJQXkyZk85WGNGVzBPcHNDdktsNHJPR2Voc1FaUUZGYnNURmJXOU53cnNTdk9iWUJCM001WnR2VzVVVUdGZ3dLWHNmSld5ODc2TTJPbE5DcFZ5SDBjRGRZU3ZXZnRabVhrcU5DdEtSQ0JrLUtHSU9WRQ",
-   "source": "TipRanks",
-   "published_at": "2026-10-16T13:56:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-16T13:56:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUlJqbUktMjA4OHdWOFpLLURPbTNMb1dIOENxVm9EanhJQXkyZk85WGNGVzBPcHNDdktsNHJPR2Voc1FaUUZGYnNURmJXOU53cnNTdk9iWUJCM001WnR2VzVVVUdGZ3dLWHNmSld5ODc2TTJPbE5DcFZ5SDBjRGRZU3ZXZnRabVhrcU5DdEtSQ0JrLUtHSU9WRQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "新RTX Spark笔记本发布仍难挡NVDA下跌",
-   "title_zh": "英伟达发布新RTX Spark AI笔记本，股价仍下跌",
-   "sentiment": -1
-  },
-  {
-   "id": "d1868accd892",
-   "title": "Nvidia and Apple Donate Millions for Planned White House Project - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdHhIS0h1SExtb016THBmdnZZSVFKcEgxNTlsamgxOG85bFpIS0U3QzdTRDZQMGpvek5EWjZSVlVjUDhlYXRuM3FoWHRzVVk2elBFSjI1SDlCUXBDQVN5QXJub3JaSF8xM0p2WGxVd1Y3SllWMkVQaHNLQzNYTnNRcDd0dnhFU1g5NjFyUnVMUjE3SFd4NFVwb29tNjByazFvM1Q0",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-16T13:55:45+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-16T13:55:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdHhIS0h1SExtb016THBmdnZZSVFKcEgxNTlsamgxOG85bFpIS0U3QzdTRDZQMGpvek5EWjZSVlVjUDhlYXRuM3FoWHRzVVk2elBFSjI1SDlCUXBDQVN5QXJub3JaSF8xM0p2WGxVd1Y3SllWMkVQaHNLQzNYTnNRcDd0dnhFU1g5NjFyUnVMUjE3SFd4NFVwb29tNjByazFvM1Q0"
-    },
-    {
-     "name": "TIKR.com",
-     "published_at": "2026-10-16T14:06:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPckZTVUctVTktRnY1TGVYTV8xM2Y4bm9kX3JfdTgzUVlQbDJBMENuVjVEYXh2SndQQWJEd19vaVpYaTA4UjltZjY2V0Zxbmx6TUZxbm5GcGpnNlg2V3dUYzFYbDJaQkN1OWo1dWpzU1lZalRFUTBn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达与苹果向白宫计划项目捐赠数百万美元",
-   "title_zh": "英伟达与苹果向白宫计划项目捐赠数百万美元",
-   "sentiment": 0
-  },
-  {
-   "id": "fccc0d173cfd",
-   "title": "AI交易进入“算账阶段”！英伟达(NVDA.US)GTC柏林大会将至 能否为算力超级周期续写新逻辑？ - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1paUlIYUt2cU9rOVZoNlRXZ2F0bmNTQ21EZWU0NEo0UnJCcFpfczQzcmVDcTBFVC1MZFdib0ZkYmkxUktzSlJYU04wVFdtejhkREJ4Nm9LNTF5OVNPek93dA",
-   "source": "证券之星",
-   "published_at": "2026-10-16T13:55:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-16T13:55:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1paUlIYUt2cU9rOVZoNlRXZ2F0bmNTQ21EZWU0NEo0UnJCcFpfczQzcmVDcTBFVC1MZFdib0ZkYmkxUktzSlJYU04wVFdtejhkREJ4Nm9LNTF5OVNPek93dA"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘中",
-   "zh_summary": "GTC柏林大会将至，能否续写算力周期",
-   "title_zh": "AI交易进入“算账阶段”！英伟达(NVDA.US)GTC柏林大会将至 能否为算力超级周期续写新逻辑？ - 证券之星",
-   "sentiment": 0
   }
  ]
 }
