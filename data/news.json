@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T15:06:30.668932+00:00",
+ "updated_at": "2026-10-19T15:21:28.106132+00:00",
  "market": {
-  "price": 218.15,
-  "change_pct": 1.88,
+  "price": 218.23,
+  "change_pct": 1.91,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 29
   },
   "day_sentiment": {
-   "avg": 0.37,
-   "count": 125
+   "avg": 0.38,
+   "count": 129
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +44.4%"
+     "note": "目标价中位数 $315（15家），隐含空间 +44.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.37（125条已评分）"
+     "note": "今日新闻情绪 +0.38（129条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $218.15 vs 20日均线 $227.72"
+     "note": "现价 $218.23 vs 20日均线 $227.72"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 72,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 44.4,
+   "implied_upside_pct": 44.3,
    "ma20": 227.72,
-   "as_of": "2026-10-19T15:06:30.650258+00:00"
+   "as_of": "2026-10-19T15:21:28.092937+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "13bf91f73686",
+   "title": "What Nvidia Knows About Keeping Great Employees That Many Companies Miss - Inc.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR0g4elFaS0duN19DSUloeUF4QW9WdWFXVU9pUXNHRVJWdEJkU2dySDhXNE5PbXVlcUR4dTF3ZDBPaE9saW1mb29qOHNLc0tsbVIzWDExanAwOFg0XzBZVVlIZy1MYmtDbDJ0bXRfdkdnMzhqWWJHS056S0FJLUZlSjBiYlZoV1pyU1hjeUk5ZTBvTFhTZ0NQRHVaZnVzU1BuNUdhSjU4aVhXNU5wSnZhUlNSam5VWC1ZLU0w",
+   "source": "Inc.com",
+   "published_at": "2026-10-19T15:08:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Inc.com",
+     "published_at": "2026-10-19T15:08:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR0g4elFaS0duN19DSUloeUF4QW9WdWFXVU9pUXNHRVJWdEJkU2dySDhXNE5PbXVlcUR4dTF3ZDBPaE9saW1mb29qOHNLc0tsbVIzWDExanAwOFg0XzBZVVlIZy1MYmtDbDJ0bXRfdkdnMzhqWWJHS056S0FJLUZlSjBiYlZoV1pyU1hjeUk5ZTBvTFhTZ0NQRHVaZnVzU1BuNUdhSjU4aVhXNU5wSnZhUlNSam5VWC1ZLU0w"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "74b54330b07e",
+   "title": "Nvidia, Intel, Micron, Monolithic Power Are Buys Ahead of Tech Earnings. - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUdZbkIzLXZ5YW0wMkVnUjFGR09FSERGOTRJUXI4Ql9aR1lWRmZwMXZYYzVqamNsSmR2VDdnMV9faFJrTXhKd3dYT20wemE3d0FUNWlvSENUVTdrSS1SazRFdnh3WU5vWkxVQU0xcDk5ajlrcjc5YmlpWk5FMWY1MWdBbEx2VVMxLWZfaA",
+   "source": "Barron's",
+   "published_at": "2026-10-19T15:04:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-19T15:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUdZbkIzLXZ5YW0wMkVnUjFGR09FSERGOTRJUXI4Ql9aR1lWRmZwMXZYYzVqamNsSmR2VDdnMV9faFJrTXhKd3dYT20wemE3d0FUNWlvSENUVTdrSS1SazRFdnh3WU5vWkxVQU0xcDk5ajlrcjc5YmlpWk5FMWY1MWdBbEx2VVMxLWZfaA"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "2e3f5e90267a",
+   "title": "Nvidia and 3 Other Chip Stocks to Play Before Big Tech Earnings -- Barrons.com - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYXN2Rm12TllHVEZXTkNVX1hubkt1T2U0WEc2VWVXcTJiQ1A5dlZXZXpwUUxXc1Flbm40THNFbmlpUl8xZ0lyTnppSmtvem9meWEzYmhFUDh3cGc1WHJyLWNoOENjYjUzSzctNDhYWl9OdldFUGM5N3VLR2RYTXJlNnEyeG9VOEo5djgzWXBZQUhiUWM",
+   "source": "富途牛牛",
+   "published_at": "2026-10-19T15:04:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-19T15:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYXN2Rm12TllHVEZXTkNVX1hubkt1T2U0WEc2VWVXcTJiQ1A5dlZXZXpwUUxXc1Flbm40THNFbmlpUl8xZ0lyTnppSmtvem9meWEzYmhFUDh3cGc1WHJyLWNoOENjYjUzSzctNDhYWl9OdldFUGM5N3VLR2RYTXJlNnEyeG9VOEo5djgzWXBZQUhiUWM"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "ecaf0e3ef198",
    "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production - NVIDIA Blog",
@@ -328,6 +379,23 @@
     "pct": -0.08,
     "window_h": 0.4
    }
+  },
+  {
+   "id": "39c0e0d915d4",
+   "title": "Nvidia wins fast-growing AI startup Modal for new central processors - Euronext Markets: Real-time Stock Market Data | live",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVHc5VVp5NGNaTGZOS2tEQ2hLSnBFbkpVNVFYbkhUWEJlUW9PZnRlUElVRDl3OThYVHdMV0JOTi1hWlpmeW1GZ1Etckt3QzlJUXQtVkE2Y0lxbHB1cWZPcVZUNUpIdFd1bmQ3NWN4Vm94SmpJWW5uLXhwUm4tVFVEeFZJRGNUNXhzVjdPQTNna3pQXzRnajVSRF96dzN1ZEE2TTQ5R0t5YU5ESnNL",
+   "source": "Euronext Markets: Real-time Stock Market Data | live",
+   "published_at": "2026-10-19T14:12:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Euronext Markets: Real-time Stock Market Data | live",
+     "published_at": "2026-10-19T14:12:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVHc5VVp5NGNaTGZOS2tEQ2hLSnBFbkpVNVFYbkhUWEJlUW9PZnRlUElVRDl3OThYVHdMV0JOTi1hWlpmeW1GZ1Etckt3QzlJUXQtVkE2Y0lxbHB1cWZPcVZUNUpIdFd1bmQ3NWN4Vm94SmpJWW5uLXhwUm4tVFVEeFZJRGNUNXhzVjdPQTNna3pQXzRnajVSRF96dzN1ZEE2TTQ5R0t5YU5ESnNL"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
   },
   {
    "id": "206e5548eeaa",
@@ -1708,10 +1776,15 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2RjVNTk1kZWxPbW9KTFJheUhRTHpPSlU1d3JoMV9nWEVMd0tabVF0N1NBNHo3ajVqUWJkOG5uLU1KVWZ3WTMzYUtnMDdYOFZkWHA0cnJqR1ljbmpZLWtOUmRfTXZfQQ",
    "source": "www.mrjjxw.com",
    "published_at": "2026-10-19T09:06:02+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "www.mrjjxw.com",
+     "published_at": "2026-10-19T09:06:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2RjVNTk1kZWxPbW9KTFJheUhRTHpPSlU1d3JoMV9nWEVMd0tabVF0N1NBNHo3ajVqUWJkOG5uLU1KVWZ3WTMzYUtnMDdYOFZkWHA0cnJqR1ljbmpZLWtOUmRfTXZfQQ"
+    },
+    {
+     "name": "https://www.mrjjxw.com/",
      "published_at": "2026-10-19T09:06:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2RjVNTk1kZWxPbW9KTFJheUhRTHpPSlU1d3JoMV9nWEVMd0tabVF0N1NBNHo3ajVqUWJkOG5uLU1KVWZ3WTMzYUtnMDdYOFZkWHA0cnJqR1ljbmpZLWtOUmRfTXZfQQ"
     }
@@ -6546,86 +6619,6 @@
    "zh_summary": "英伟达市值蒸发3660亿美元",
    "title_zh": "英伟达：市值蒸发 3660 亿美元 - 搜狐",
    "sentiment": -2
-  },
-  {
-   "id": "7a0688cba5e2",
-   "title": "488,100 NVIDIA Corporation $NVDA Shares Sold by Senator Investment Group LP - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2VxazZTNkdCNk5Kc3hBbWg3dmZzYjV1S2FJWktGaWpXZkloLV9mWTlUMGZtS0tPdEU1YU9vMTFtZ2JGbjZYTUsySEczell4bjBlb1JCb09ZOXIxUkl6dWZ6aTZidWs3YnhydlV6WE9aS2pFRzhKU2VxV25WbWpNdHFCVjVQVTdZZUV6UzhiZ0FQYmw0aVN3LXQ5c2o2VGVsVGxrQ0VROW91LTU3QUJOV0k3QW5yYXB4SzBVU1F2cEpUSzB6bmhMZlhuRFFLazQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-17T14:50:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-17T14:50:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2VxazZTNkdCNk5Kc3hBbWg3dmZzYjV1S2FJWktGaWpXZkloLV9mWTlUMGZtS0tPdEU1YU9vMTFtZ2JGbjZYTUsySEczell4bjBlb1JCb09ZOXIxUkl6dWZ6aTZidWs3YnhydlV6WE9aS2pFRzhKU2VxV25WbWpNdHFCVjVQVTdZZUV6UzhiZ0FQYmw0aVN3LXQ5c2o2VGVsVGxrQ0VROW91LTU3QUJOV0k3QW5yYXB4SzBVU1F2cEpUSzB6bmhMZlhuRFFLazQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Senator减持488,100股NVDA",
-   "title_zh": "Senator Investment Group LP减持488100股NVDA",
-   "sentiment": -1
-  },
-  {
-   "id": "88896aba0177",
-   "title": "101,481 NVIDIA Corporation $NVDA Shares Acquired by Proficio Capital Partners LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQblpqbFdvWXRVTzZCSHl2MmV4R2JGX3VPSVdaOWoyU2JkOVA3enRMeHFkY3V3blZaN2ZIeWdnLWlnUHNMc1hqWlhzUHlUZ1JzVXgyTjUtWUszNGVrcFN3ZHBTMDA2STcyLV9TZFJnY2ozbTdQemR6WkVUUURRa0FsSmpndTF2NkZCWHJkVnNGNG9na09mWm51cHJKcVVPX0xXdW9sb1BmSy1KTk10MTl0OURCaFY1Z1NlSzVsdmhKMXhINVRHMFYteHhWSlEydXNIYzZpTVV2bw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-17T14:50:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-17T14:50:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQblpqbFdvWXRVTzZCSHl2MmV4R2JGX3VPSVdaOWoyU2JkOVA3enRMeHFkY3V3blZaN2ZIeWdnLWlnUHNMc1hqWlhzUHlUZ1JzVXgyTjUtWUszNGVrcFN3ZHBTMDA2STcyLV9TZFJnY2ozbTdQemR6WkVUUURRa0FsSmpndTF2NkZCWHJkVnNGNG9na09mWm51cHJKcVVPX0xXdW9sb1BmSy1KTk10MTl0OURCaFY1Z1NlSzVsdmhKMXhINVRHMFYteHhWSlEydXNIYzZpTVV2bw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Proficio增持101,481股NVDA",
-   "title_zh": "Proficio Capital Partners增持101,481股NVDA",
-   "sentiment": 1
-  },
-  {
-   "id": "94375cd2e42f",
-   "title": "Orgel Wealth Management LLC Purchases New Position in NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGVtQUJ3bXo2VEhiaFZsT2JCTjluYnJpVHhhcjJRdzVWR3dRM2RreWplaFhFWW1mUzFybDh0cjlIY0x4dmJMVlFQeV84bE1oSzIzTWllNVRkVERhbm5sZUNzVGR5Qi1uQmE4UGRXMkpuYVRsLXMxbEYzLU0xTmJWUUpYV2txLXZNWi04bUt6RmlOd0ZaNXg5cTVhRU5vajBWcW01THNEUUNQVklTT0tud2liS1NwYkpuQVRENURVd0xRSHhuYktSSEhmMS1qRnNjZGFqYQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-17T14:50:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-17T14:50:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGVtQUJ3bXo2VEhiaFZsT2JCTjluYnJpVHhhcjJRdzVWR3dRM2RreWplaFhFWW1mUzFybDh0cjlIY0x4dmJMVlFQeV84bE1oSzIzTWllNVRkVERhbm5sZUNzVGR5Qi1uQmE4UGRXMkpuYVRsLXMxbEYzLU0xTmJWUUpYV2txLXZNWi04bUt6RmlOd0ZaNXg5cTVhRU5vajBWcW01THNEUUNQVklTT0tud2liS1NwYkpuQVRENURVd0xRSHhuYktSSEhmMS1qRnNjZGFqYQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Orgel新建NVDA仓位",
-   "title_zh": "Orgel Wealth Management LLC新建NVDA仓位",
-   "sentiment": 1
-  },
-  {
-   "id": "a691f6c3cb5a",
-   "title": "NVIDIA Corporation $NVDA Shares Bought by Montanova Capital LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcXRMQktWTjhiOEtHaXdYMm5OeTNkTlE5M0JaR0pMUTlDOXVSZVVXRUV6LUNkeDh5OUhQY0NIZW1KVGd5UnduYi0wMGRyc1Z4RExKNXRZaXZpbk5ISDRHejZZWk1qaVl3V0dpYjY0Y1JqR29TU0pQd25DNmxINWNuRW8zczhyVzdXS2NkMTJMZGw2OV90MFU4Sk1RSXl1SVRvcmpac3lFWFVlRDRBUkE1eGt1WTJucXlzVEtpNzVsN28",
-   "source": "MarketBeat",
-   "published_at": "2026-10-17T14:50:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-17T14:50:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcXRMQktWTjhiOEtHaXdYMm5OeTNkTlE5M0JaR0pMUTlDOXVSZVVXRUV6LUNkeDh5OUhQY0NIZW1KVGd5UnduYi0wMGRyc1Z4RExKNXRZaXZpbk5ISDRHejZZWk1qaVl3V0dpYjY0Y1JqR29TU0pQd25DNmxINWNuRW8zczhyVzdXS2NkMTJMZGw2OV90MFU4Sk1RSXl1SVRvcmpac3lFWFVlRDRBUkE1eGt1WTJucXlzVEtpNzVsN28"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Vanguard Capital增持NVDA股票",
-   "title_zh": "Vanguard Capital Wealth Advisors增持英伟达股票",
-   "sentiment": 1
   }
  ]
 }
