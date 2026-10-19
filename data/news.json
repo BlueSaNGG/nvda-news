@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T10:06:31.580278+00:00",
+ "updated_at": "2026-10-19T10:21:27.500278+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -10,12 +10,12 @@
    "days_left": 29
   },
   "day_sentiment": {
-   "avg": 0.51,
-   "count": 55
+   "avg": 0.48,
+   "count": 56
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.51（55条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.48（56条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-19T10:06:31.570773+00:00"
+   "as_of": "2026-10-19T10:21:27.484285+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "8bd5159c3da2",
+   "title": "NVIDIA Says Slow CPUs Can Leave AI GPUs Waiting - Dataconomy",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZzN4ZWZpSGlUQVdiUWVnenE4RUVBVjV1dkRxeE5QLWFGX1czOWxGMXNwRjluM1ZJckNKQTZyUGVwTG1Td0l5c0xRa0RQY2xCLXlscTQ0b1lyWFhPSkZNRkxrcVFqQk85WWN6QUxwalQzV1FGQU8xNVZnRlE3S3VuUjhuQ2g4X2FJY0E",
+   "source": "Dataconomy",
+   "published_at": "2026-10-19T10:15:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Dataconomy",
+     "published_at": "2026-10-19T10:15:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZzN4ZWZpSGlUQVdiUWVnenE4RUVBVjV1dkRxeE5QLWFGX1czOWxGMXNwRjluM1ZJckNKQTZyUGVwTG1Td0l5c0xRa0RQY2xCLXlscTQ0b1lyWFhPSkZNRkxrcVFqQk85WWN6QUxwalQzV1FGQU8xNVZnRlE3S3VuUjhuQ2g4X2FJY0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "3e90cdf20fd1",
+   "title": "放弃芯粒路线？英伟达Vera团队细谈CPU取舍 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXNqU2VrclhuREMxY0dXMXdGNmZyMWE0bkRvV0ZjUFRiU0J3QU40cGo2RkpWZEgycTZURk1jekVkWnZHeFVMWVEtVVExYUpuaEk1amxKcVJscVJnYWJTZGRBYjEtU0dzVnlvSmRJWENMMFhwWDVQOTBXRG9CMWJPUHdWTW00TlFvZVFyQw",
+   "source": "搜狐",
+   "published_at": "2026-10-19T10:12:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-19T10:12:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXNqU2VrclhuREMxY0dXMXdGNmZyMWE0bkRvV0ZjUFRiU0J3QU40cGo2RkpWZEgycTZURk1jekVkWnZHeFVMWVEtVVExYUpuaEk1amxKcVJscVJnYWJTZGRBYjEtU0dzVnlvSmRJWENMMFhwWDVQOTBXRG9CMWJPUHdWTW00TlFvZVFyQw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "2de83a050e23",
+   "title": "招手专业菁英加入 英伟达公关团队人力翻倍 - e南洋",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ESEhlbFllYmZxZGUzRFloTHJvdVZOdy1yMGNlc1kxcks3eEFvbDNtSVA2Mnd1UFpScUR6azBST002T1JPUzJsNDBpM0RXejhEelZfdmhHWnBxRmJNV0VVWEI1UQ",
+   "source": "e南洋",
+   "published_at": "2026-10-19T10:11:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "e南洋",
+     "published_at": "2026-10-19T10:11:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ESEhlbFllYmZxZGUzRFloTHJvdVZOdy1yMGNlc1kxcks3eEFvbDNtSVA2Mnd1UFpScUR6azBST002T1JPUzJsNDBpM0RXejhEelZfdmhHWnBxRmJNV0VVWEI1UQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "a83573bb5a49",
    "title": "Nvidia says it’s still making GeForce RTX 5090, blames supply chain issues for low stock - Club386",
@@ -1270,6 +1321,23 @@
    "zh_summary": "英伟达公关团队因爆红形象重组",
    "title_zh": "英伟达公众形象的爆红，其公关团队进行了重组 - ThePaper.cn",
    "sentiment": 0
+  },
+  {
+   "id": "b35313a68be1",
+   "title": "Nvidia RTX Spark First Tests: Can These Ambitious AI Laptops Beat Apple’s M5 Max? - PCMag Middle East",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbExmY1ljbERLakFOamlFeEZEaWZOU0lYNzIxNGpXMWRDcS1Eb0k1ajRGV01WNlQ1MmpXRTd0RDRQT2tpRnZnU0dZc1RVcVhGaDE4dHFOVjYzSWNDblRJVzhSVzhVeEY0aEtpTlhMekZwUFN6WHdTZkNKQ2xHYUpYRFRIX3pFMlliTndLck82TjlDTk8tR2VrNXRUWUt0Um14VGJWNW5mcG00V2E1QTVQY1NhQzB5WnM",
+   "source": "PCMag Middle East",
+   "published_at": "2026-10-19T04:13:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PCMag Middle East",
+     "published_at": "2026-10-19T04:13:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbExmY1ljbERLakFOamlFeEZEaWZOU0lYNzIxNGpXMWRDcS1Eb0k1ajRGV01WNlQ1MmpXRTd0RDRQT2tpRnZnU0dZc1RVcVhGaDE4dHFOVjYzSWNDblRJVzhSVzhVeEY0aEtpTlhMekZwUFN6WHdTZkNKQ2xHYUpYRFRIX3pFMlliTndLck82TjlDTk8tR2VrNXRUWUt0Um14VGJWNW5mcG00V2E1QTVQY1NhQzB5WnM"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "a2dba5f96987",
@@ -6475,131 +6543,6 @@
    "session": "盘后",
    "zh_summary": "黄仁勋称9天市值蒸发4万亿会过去",
    "title_zh": "英伟达市值，9天蒸发4万亿元，黄仁勋很乐观：这一切都会过去 - 搜狐",
-   "sentiment": -1
-  },
-  {
-   "id": "f82ffec20302",
-   "title": "梅赛德斯-奔驰与英伟达宣布扩大自动驾驶战略合作 - 网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hSGx4ekdOdGtBZmdhb25rLWVibUU0aWxoM1JZVU1aOC1ZTlk3MW1RSng3UlBseXFSSG9vNFdpVVd5NFVKcmFOYlZoc0g5aFRzbXd4ampCR3M2SWs",
-   "source": "网通社",
-   "published_at": "2026-10-17T00:33:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "网通社",
-     "published_at": "2026-10-17T00:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hSGx4ekdOdGtBZmdhb25rLWVibUU0aWxoM1JZVU1aOC1ZTlk3MW1RSng3UlBseXFSSG9vNFdpVVd5NFVKcmFOYlZoc0g5aFRzbXd4ampCR3M2SWs"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-17T00:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3aU1rUXRiblhHanBGcmp0OVROZ0pEVEdMTUZhZEtTMk9YZWI2OFlhelBIeW5Fd2RxbGpIcTVrUXJySlNhNFg4cDF2WFI"
-    },
-    {
-     "name": "凤凰网汽车",
-     "published_at": "2026-10-17T00:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3aU1rUXRiblhHanBGcmp0OVROZ0pEVEdMTUZhZEtTMk9YZWI2OFlhelBIeW5Fd2RxbGpIcTVrUXJySlNhNFg4cDF2WFI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "梅赛德斯奔驰与英伟达扩大自动驾驶合作",
-   "title_zh": "梅赛德斯-奔驰与英伟达宣布扩大自动驾驶战略合作 - 网通社",
-   "sentiment": 1
-  },
-  {
-   "id": "89a199c2f7f3",
-   "title": "英伟达市值9天蒸发4万亿元 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1taFNHWTRETlpqTXdhd21IRkZsZWtOa3ZnREh4NjJ2dHJYV2JxMktYdTVUdklrTnI3czNPdUhyY1BjT2V4NUN1UHNGcE5jejd3c0xObWREOEMxNGZaaWJqcmNfWQ",
-   "source": "东方财富",
-   "published_at": "2026-10-17T00:27:57+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-17T00:27:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1taFNHWTRETlpqTXdhd21IRkZsZWtOa3ZnREh4NjJ2dHJYV2JxMktYdTVUdklrTnI3czNPdUhyY1BjT2V4NUN1UHNGcE5jejd3c0xObWREOEMxNGZaaWJqcmNfWQ"
-    },
-    {
-     "name": "中华网",
-     "published_at": "2026-10-17T03:58:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDOUdPd3RxRlY5dHY4M1o2MWJ3c3laQ0lzNEVVRFhfTFdacVJ4UXZuYURGQ1A3bDZmUFc4dnEtVmx2TllFX1pLaFdOZjl1aXN6SnZ2SE9MckJVeERRQTh0alVZY3RidkplVTkzeUlXb0c"
-    },
-    {
-     "name": "中华军事",
-     "published_at": "2026-10-19T03:08:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10dWNUN0c4RXk5WmI4dTduWEhUbG1pQkV3bV9aRUpMUkRkcHpEbDNuSGxpSmJfRnJpVkJhTHp0bkQ2YllRU01adTM1UFV0bE0tZ1hjVjFXRVVKcmxLbVhQNDk3d0VsYUJ1d09xdkZRQlY"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达9天市值蒸发约4万亿元",
-   "title_zh": "英伟达市值9天蒸发4万亿元 AI股持续走弱",
-   "sentiment": -1
-  },
-  {
-   "id": "6d62009d2b63",
-   "title": "纳指重挫2.14%！美股AI板块血流成河，英伟达跌1.43%，油价大幅飙高 - 第一财经",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LNmpyVzAtZTN5M1F5OGd4bE5aM21SVVRWOFRTUUctUUdORTNBbVRlcVZlVEFlMUFaRTYtZnJPYXphU211RzEtakFCNG5IY2Nmb3ZV",
-   "source": "第一财经",
-   "published_at": "2026-10-16T23:36:13+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "第一财经",
-     "published_at": "2026-10-16T23:36:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LNmpyVzAtZTN5M1F5OGd4bE5aM21SVVRWOFRTUUctUUdORTNBbVRlcVZlVEFlMUFaRTYtZnJPYXphU211RzEtakFCNG5IY2Nmb3ZV"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-16T23:41:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmFaTEdHUV9LOWlib1JRMHJlaU5WRkdpa1lTNzZ6ZmY0OVV0ZTJYanVncmR3ZDNCaGJOcjBHUXlYamZPNi1kclFlSnZ3QktPZ204R3dYb1JuMU5jaFVrNFhGZEQ5Qkk2OE92TDAxQ1cxRTVBZDg0TkR3MVV1YkRsNWRLRHJwTi1RUnotRg"
-    },
-    {
-     "name": "凤凰网财经",
-     "published_at": "2026-10-17T00:19:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CS0lyVzBRdkpuME5hOER5S2pJbzhqcjdqeUN1bUdYSWptWV94NlJCalpYdmlCOEZJX1VwR2JKODNBQXdWcEdYeEhLMkMwY3Jv"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-17T00:19:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CS0lyVzBRdkpuME5hOER5S2pJbzhqcjdqeUN1bUdYSWptWV94NlJCalpYdmlCOEZJX1VwR2JKODNBQXdWcEdYeEhLMkMwY3Jv"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-17T13:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdm1tOVhtMmZOcmlIZlcxQjJmdFhoeFlHOGg0ejZEXzlGOXlzeUpheDNjelNZdjlfN19haW9RS0xSbWV5MkY3aDd1U3dDMlpwYk9td18zYndZRmt5OWFvdEVPazN6b3J2R1dNMmZDUy1xNmNpNFo1UzdmQmFVTkJqSnM1cw"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-17T02:21:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MVllhZHlnSEhiNVVBNUJyWkFoNFd1aEFwelVoUUI4eTNqamFYVmxsSklzTEZoektFVGJsRlNfWjM5Q3AtUUVJb0NPUjlUMlJiU0FFQVY2Ym4xdGRIQWR4Tm9FUk85RTE1N2tEMUgzbWIyNVR0VlhUXw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "纳指重挫2.14%，英伟达跌1.43%",
-   "title_zh": "纳指重挫2.14%！美股AI板块血流成河，英伟达跌1.43%，油价大幅飙高 - 搜狐",
-   "sentiment": -1
-  },
-  {
-   "id": "4ec6ee7e0ae1",
-   "title": "美股讯号 | 英伟达因AI板块下跌而跌 1.43%，本周累计跌幅达 6.34% ｜#美股资讯# #英伟达# #股价波动# - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjNIZ0VQWmp1eUhOMjFvbU5ZMy1mSGhHNmVfUWF6ZlFuOGJkY0JTY0Y5cmwtRmJxZUtNT3FxeVNBNFlpaVBMVzBzS1pJTURkR04zLUFZaG9wUmFzRVl5UzBVMjJwR0JrRUlwWW54VkdPekQtcXVhOFdlbnpVdHNPMTdINnVwdmR0dlRyYQ",
-   "source": "搜狐",
-   "published_at": "2026-10-16T23:36:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-16T23:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjNIZ0VQWmp1eUhOMjFvbU5ZMy1mSGhHNmVfUWF6ZlFuOGJkY0JTY0Y5cmwtRmJxZUtNT3FxeVNBNFlpaVBMVzBzS1pJTURkR04zLUFZaG9wUmFzRVl5UzBVMjJwR0JrRUlwWW54VkdPekQtcXVhOFdlbnpVdHNPMTdINnVwdmR0dlRyYQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达随AI板块跌1.43%，本周累跌6.34%",
-   "title_zh": "美股讯号 | 英伟达因AI板块下跌而跌 1.43%，本周累计跌幅达 6.34% ｜#美股资讯# #英伟达# #股价波动# - 搜狐",
    "sentiment": -1
   }
  ]
