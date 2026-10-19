@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T12:21:28.503510+00:00",
+ "updated_at": "2026-10-19T12:36:28.463327+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.38,
-   "count": 80
+   "count": 89
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.38（80条已评分）"
+     "note": "今日新闻情绪 +0.38（89条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-19T12:21:28.487834+00:00"
+   "as_of": "2026-10-19T12:36:28.450748+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -62,17 +62,56 @@
  },
  "stories": [
   {
+   "id": "2223582d31e3",
+   "title": "Siemens, Nvidia partner on AI autonomous factories - Breakingthenews.net",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0V4emRCTXZXckJsWk9qV3NmajczdzVsM3EtSXRFamw0ZGwxUzRyR2xkN1VmRFlVM214YVk4WDlHNVpBaXpLLXJ0cFhHSHlRa1JaMTg0cGVwQTZSajRuVFpDYl84R090Z2ZRTkR3QTdmaU1TTnQweUdFNTJIdEZmb2dWNlU2UFJlSFExUUt2WklScGVfOEc2Sk9B",
+   "source": "Breakingthenews.net",
+   "published_at": "2026-10-19T12:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Breakingthenews.net",
+     "published_at": "2026-10-19T12:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0V4emRCTXZXckJsWk9qV3NmajczdzVsM3EtSXRFamw0ZGwxUzRyR2xkN1VmRFlVM214YVk4WDlHNVpBaXpLLXJ0cFhHSHlRa1JaMTg0cGVwQTZSajRuVFpDYl84R090Z2ZRTkR3QTdmaU1TTnQweUdFNTJIdEZmb2dWNlU2UFJlSFExUUt2WklScGVfOEc2Sk9B"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "ab7723793988",
+   "title": "Samsung Is Turning to Rival TSMC for Nvidia's Next AI Memory - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnNGMFU2S3J3OGp3WDZFN3gwOXNFck14eHdiUGFzNUdYbS1TakVYZG1qekZOV3dibW9CbmtjS1pIckQ2RDlQTXpZNk9NcFJwSlRhaEFWUkdrNTdMNjRMREM1SnlJeWlNUFVsYWNlN3hKS3dPMFZSUlU0b2YwNUlGRHV5VHpOTlRUZXlzZ00weXBrcDhNb2ZHTkNzTUJ5eFE",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T12:15:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T12:15:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnNGMFU2S3J3OGp3WDZFN3gwOXNFck14eHdiUGFzNUdYbS1TakVYZG1qekZOV3dibW9CbmtjS1pIckQ2RDlQTXpZNk9NcFJwSlRhaEFWUkdrNTdMNjRMREM1SnlJeWlNUFVsYWNlN3hKS3dPMFZSUlU0b2YwNUlGRHV5VHpOTlRUZXlzZ00weXBrcDhNb2ZHTkNzTUJ5eFE"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘前"
+  },
+  {
    "id": "496de56fd088",
    "title": "Nvidia-Backed Nscale's IPO Faces Valuation Pushback as AI Infrastructure Stocks Slide - TradingView",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemNEMGxkMWhVWGVTaFVkNkJRQjVjMXpQRlIteE1kUWlkTnlKb0pyWDVoYWtNSWE5Zzc5aXBQMjljWnN6WjdfSzdJcElmQ2NhcTR2X0dUdWVwenlrbkcxVVVnQ0x1bExFRlhtVWlPcXI2SlNHd09xQ09LbThLM0JqV00zVU4xZElZTkw1eDZLc041OHFmLVQzQmV2VXZzQTlvRnlVSVQ4ZFZ1aWJnekNMaVRvNUpfN1QyaEpQdW9aS0g3R0NzaWFDMVJ1dnlJTVlxZTJaQ0VRRzYtUW9RcWc",
    "source": "TradingView",
    "published_at": "2026-10-19T12:13:14+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TradingView",
      "published_at": "2026-10-19T12:13:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemNEMGxkMWhVWGVTaFVkNkJRQjVjMXpQRlIteE1kUWlkTnlKb0pyWDVoYWtNSWE5Zzc5aXBQMjljWnN6WjdfSzdJcElmQ2NhcTR2X0dUdWVwenlrbkcxVVVnQ0x1bExFRlhtVWlPcXI2SlNHd09xQ09LbThLM0JqV00zVU4xZElZTkw1eDZLc041OHFmLVQzQmV2VXZzQTlvRnlVSVQ4ZFZ1aWJnekNMaVRvNUpfN1QyaEpQdW9aS0g3R0NzaWFDMVJ1dnlJTVlxZTJaQ0VRRzYtUW9RcWc"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T12:13:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDI2NWhJUzc4V3lXQ2kxWGE4bUxPb0VGd1dWcFh3ZmRoYkI2cS1ROUVoN00tSEhDU0Q4OFZVRXhaTVl4Ti02d1NXaVFjTmNCWUMwenBkM0tWc3FwOGNGRXBRVzFBWGc3TDdIVkxDNERvbFVZQWx5MnpQX0hrZGozck5odGZtSy1iOGtUQlJkOUtJZHBmbEFQa2MzRTY"
     }
    ],
    "category": "AI需求",
@@ -217,17 +256,56 @@
    "sentiment": 1
   },
   {
+   "id": "75d4b52936f8",
+   "title": "Siemens partners with NVIDIA to advance AI-driven, autonomous fact ... - Siemens press",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlpjNDhhNElaeVYxT1JuVXY5MWVvYUlOaWpNanllTklOZVF0Qllpcm5zTDliZnVjZENvZUsxNWZSZjl5T2lWcjlnOXhlUUtDUHZaYzhWRGlnYmJxSWllRjBwblRVUEJUZVFJLXFQWXJfOUJkV200NGxRQUpvdzRTUEctVjNOY293MG1WNzJzLUotSmk3Mmx5WGxsM00wV1UteEd2RF95V1FwcDM3TzI5Qg",
+   "source": "Siemens press",
+   "published_at": "2026-10-19T11:59:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Siemens press",
+     "published_at": "2026-10-19T11:59:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlpjNDhhNElaeVYxT1JuVXY5MWVvYUlOaWpNanllTklOZVF0Qllpcm5zTDliZnVjZENvZUsxNWZSZjl5T2lWcjlnOXhlUUtDUHZaYzhWRGlnYmJxSWllRjBwblRVUEJUZVFJLXFQWXJfOUJkV200NGxRQUpvdzRTUEctVjNOY293MG1WNzJzLUotSmk3Mmx5WGxsM00wV1UteEd2RF95V1FwcDM3TzI5Qg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "1f9901c57ca7",
+   "title": "美股前瞻| 三大股指期货涨跌不一科技巨头财报本周重磅来袭英伟达GTC柏林大会即将开幕_全球市场_财经 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyVkF6QmpKSnZCT2FOYjJLeXQxbmtzWFNTRWhKa2RFcWFfUkpwbXA1WC1wZTg4ZGxPQmRUMDdFTzBlSXNJRmF6enl6QjRzNWwxZHdMNEdPLTJFYlhSemVPcg",
+   "source": "证券之星",
+   "published_at": "2026-10-19T11:51:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-19T11:51:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyVkF6QmpKSnZCT2FOYjJLeXQxbmtzWFNTRWhKa2RFcWFfUkpwbXA1WC1wZTg4ZGxPQmRUMDdFTzBlSXNJRmF6enl6QjRzNWwxZHdMNEdPLTJFYlhSemVPcg"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
+  {
    "id": "ffaff241371a",
    "title": "三星与台积电合作 联手生产英伟达下一代HBM芯片 - e南洋",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpcldPMGhEVVU2UEFXZHNKQ2QtbUM3UzRMZXBTV1ZPUFExZlVtV0ZTd0pNVDcwdFBBWWZGdURZM01MSzR6T2FodVF3OHBJZDFwS3QxQWtPYUtPU0FlWWQ1cGdmcw",
    "source": "e南洋",
    "published_at": "2026-10-19T11:51:51+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "e南洋",
      "published_at": "2026-10-19T11:51:51+00:00",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpcldPMGhEVVU2UEFXZHNKQ2QtbUM3UzRMZXBTV1ZPUFExZlVtV0ZTd0pNVDcwdFBBWWZGdURZM01MSzR6T2FodVF3OHBJZDFwS3QxQWtPYUtPU0FlWWQ1cGdmcw"
+    },
+    {
+     "name": "KLSE Screener",
+     "published_at": "2026-10-19T11:51:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQb3ZRYll0U3JzV29BQ29OcGRfS1J4S1hMY1hmU3hES2g4MGc1aGhuYVM4V1FvaFFJYU8wWlM3bE05X3RBamNSQVRnYy1IS3hVbUJEa1pySThVTkhBOV94c2JqOU15RVl0VTREdXMteWNiMTl3eWRkXzlBOUFzeURDOFYyTV93THFnZlNLcjNvTkRLOXg1MVdUWl9vZHQtOWt0djRHWnVja3B6MFhTSmN6QjVJSVJXeDdvNUxHR1dTcUkzclhZZlZUT1JzWlZKMllOeUozUWx3aGlvaFdOT3ZCZTNGWG84dVpLS253RXBIcXZJU0JNU3FfbTBQNDVGaXhZX3Q0bGJMNW90WVEzYmlvUDRCNmZsZVVVMUltZnJvUUNmZTNPMG9tamlzb1U5MTZES3V3UXVRUTdqbmZCR1FQMF8tajl1cVJWMEtBVDFpU0UwM0tn"
     }
    ],
    "category": "产品技术",
@@ -567,7 +645,7 @@
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xY0RsNTE4SmU3OHVOLTZfT3V3NE1JMUZqYVlzRGl4LUQ4Q0p1ZzFvamxMTWhGcjJEaXBvSGtoNlRtUVBfWXlhcVpxdHJhLWJ2a1lJa1NSNFYxaXV3a252VlJ6bU1XWm9rX2tjcnhjVTl1TkJvMHlDUXJTSkczMFU",
    "source": "新浪财经",
    "published_at": "2026-10-19T10:36:42+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "新浪财经",
@@ -583,10 +661,16 @@
      "name": "第一财经",
      "published_at": "2026-10-19T10:40:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xTTJ5ZDBJVjJYMXh1a3l6NDE2ZXE0WXBvbXhuYzgtZDZqVDdIVWlUZk1DWWM1RXFZQW9rc3cwSWpmTjFSTWRnTHJyMEhrSDZCNS1V"
+    },
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-19T10:36:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zRjVDaU9iTk9hQWY5Z1RXMzNZM0Fkb19PSDIwWWNRX0s1MmxyMWMwRlpKR01ZYkstSjZaUF9sNl9MNklxM3RkY2ZhSHlucm11X2pWRXpRYmZpRzVOZnJ6SzY3dHRSeXF3VGhabnNB"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "英伟达或生产定制NVHBM，业内人士称趋势已成",
    "title_zh": "英伟达要生产定制化NVHBM?业内人士称定制基底裸片已成趋势",
    "sentiment": 1
@@ -875,26 +959,6 @@
    "zh_summary": "英伟达称消费级GPU短缺并非其所能控制",
    "title_zh": "英伟达：消费级GPU短缺并非我们所能控制 - 手机新浪网",
    "sentiment": 0
-  },
-  {
-   "id": "396520652df9",
-   "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw",
-   "source": "财联社",
-   "published_at": "2026-10-19T08:48:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-19T08:48:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋：AI投资回报问题已有答案",
-   "title_zh": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
-   "sentiment": 1
   },
   {
    "id": "4a17479cfcf8",
@@ -6476,76 +6540,6 @@
    "zh_summary": "社区移植DLSS 5模型，老游戏帧率最高提升40%",
    "title_zh": "社区移植英伟达DLSS 5新版模型文件，较旧版游戏帧率最高暴涨40%",
    "sentiment": 1
-  },
-  {
-   "id": "cccc7baa1e08",
-   "title": "英伟达联合京东举办RTX Spark新品首发体验会 京东11.11智能体电脑集中亮相 - 电商派",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GN1dGUnpVeEdBdGEtaWVGYjRNb05aUzZwc09DQlBGb3pkUmo2R2dyTXEwdEdVa1otd0d2OVB4NjUwak9EVnpiNXZBZ1poMXFUcHBkUkJOcEZiYmtJaUo5bg",
-   "source": "电商派",
-   "published_at": "2026-10-17T07:06:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电商派",
-     "published_at": "2026-10-17T07:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GN1dGUnpVeEdBdGEtaWVGYjRNb05aUzZwc09DQlBGb3pkUmo2R2dyTXEwdEdVa1otd0d2OVB4NjUwak9EVnpiNXZBZ1poMXFUcHBkUkJOcEZiYmtJaUo5bg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达联合京东举办RTX Spark新品体验会",
-   "title_zh": "英伟达联合京东举办RTX Spark新品首发体验会",
-   "sentiment": 1
-  },
-  {
-   "id": "7cee98ffee24",
-   "title": "要什么英伟达，你家的电视盒子也能跑大模型 - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLZTBuNkZhR3VwMkxJYzF2bVNKLThPRUlmdlVIR3EyN2RDNnRRbG9na1MyTU1XZFMxeExMNEc0TExpWGV1VG1OTkVVcHQ",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-17T07:02:29+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-17T07:02:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLZTBuNkZhR3VwMkxJYzF2bVNKLThPRUlmdlVIR3EyN2RDNnRRbG9na1MyTU1XZFMxeExMNEc0TExpWGV1VG1OTkVVcHQ"
-    },
-    {
-     "name": "ThePaper.cn",
-     "published_at": "2026-10-17T23:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ObEF2eEEtcWlZTGpfbWUxaEJfYXVUdE8zODBBR1JObzFSUjB2WFlFNXd3ZWM4RVRORGsyRkxsejFOQUhPM1lSNzRFTElQa1V3TUFsSGZZY2h0UDBWMzNLaA"
-    },
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-18T10:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CM29VNGNHbGYzbmRjZlVJNzNYa1VpTEMzTjF3SG91SWZmYlZma1lrSGVCNVVhVGlnTEhZY0VnajJMcGRneUNmXzk5VE5Udw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "电视盒子可本地运行大模型，无需英伟达GPU",
-   "title_zh": "要什么英伟达，你家的电视盒子也能跑大模型",
-   "sentiment": -1
-  },
-  {
-   "id": "eb5c96a2a5b8",
-   "title": "周末读物| 一通电话救了英伟达！黄仁勋回忆英伟达与台积电结缘史，谈中国AI公司：算力越缺，越逼着他们把架构做到极致 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONW1jTnN0VFZRRkN4STBGdmNqVjdoMkY2anBMTUQ0ZUcxSGtaR3M0OGg4cDJMaUdWcTRmYzVGS1ZmWk5MYmdSUG4wQkpuZjBnejNSWHA3Qnh3YWlFYTVWTUN6X0dWMXllYmprMks1SzJWNTR5UWRIbnR3R0gyX2otaG9tVGttcjVWVnR0Z3FiWC03U29KSjQzSUVvOEI5alQ4Z0t3eA",
-   "source": "富途牛牛",
-   "published_at": "2026-10-17T06:40:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-17T06:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONW1jTnN0VFZRRkN4STBGdmNqVjdoMkY2anBMTUQ0ZUcxSGtaR3M0OGg4cDJMaUdWcTRmYzVGS1ZmWk5MYmdSUG4wQkpuZjBnejNSWHA3Qnh3YWlFYTVWTUN6X0dWMXllYmprMks1SzJWNTR5UWRIbnR3R0gyX2otaG9tVGttcjVWVnR0Z3FiWC03U29KSjQzSUVvOEI5alQ4Z0t3eA"
-    }
-   ],
-   "category": "AI需求",
-   "session": "周末",
-   "zh_summary": "黄仁勋回忆与台积电结缘史",
-   "title_zh": "周末读物| 一通电话救了英伟达！黄仁勋回忆英伟达与台积电结缘史，谈中国AI公司：算力越缺，越逼着他们把架构做到极致 - 富途牛牛",
-   "sentiment": 0
   }
  ]
 }
