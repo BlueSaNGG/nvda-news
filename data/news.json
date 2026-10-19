@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T16:06:27.805269+00:00",
+ "updated_at": "2026-10-19T16:21:35.928059+00:00",
  "market": {
-  "price": 218.98,
-  "change_pct": 2.26,
+  "price": 218.59,
+  "change_pct": 2.08,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 29
   },
   "day_sentiment": {
-   "avg": 0.38,
-   "count": 138
+   "avg": 0.39,
+   "count": 140
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 73% 分位"
+     "note": "现价处于52周区间 72% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +43.8%"
+     "note": "目标价中位数 $315（15家），隐含空间 +44.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.38（138条已评分）"
+     "note": "今日新闻情绪 +0.39（140条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $218.98 vs 20日均线 $227.76"
+     "note": "现价 $218.59 vs 20日均线 $227.74"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 73,
+   "price_52w_pct": 72,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 43.8,
-   "ma20": 227.76,
-   "as_of": "2026-10-19T16:06:27.796834+00:00"
+   "implied_upside_pct": 44.1,
+   "ma20": 227.74,
+   "as_of": "2026-10-19T16:21:35.905206+00:00"
   },
   "pe_ttm": 27.8,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+43.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "bf6fd4b1c4f5",
+   "title": "Modal Plans NVIDIA Vera Rollout for Sandboxes in First Arm Move - Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQS0ya3lqdjhTUm84MjRpaXpJQzhTWEp3RVZ6bVVBSEROWGJkUlJOZ2FKVUR0NjdmN1FuVU1GOHNhQ3luRU1CdXg3QXFabDlzUUNpaXlmRzZ0dENRamRhV2NLNFFxVGZFTm9fT3VwTXhrX2dWUERyWXNHeDYxcnF5ckhxZWdCMklEd0k4akRR",
+   "source": "Unite.AI",
+   "published_at": "2026-10-19T16:08:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Unite.AI",
+     "published_at": "2026-10-19T16:08:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQS0ya3lqdjhTUm84MjRpaXpJQzhTWEp3RVZ6bVVBSEROWGJkUlJOZ2FKVUR0NjdmN1FuVU1GOHNhQ3luRU1CdXg3QXFabDlzUUNpaXlmRzZ0dENRamRhV2NLNFFxVGZFTm9fT3VwTXhrX2dWUERyWXNHeDYxcnF5ckhxZWdCMklEd0k4akRR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "6f7d1e1b78dd",
    "title": "Nvidia Stock Could Be Headed for a Significant Revaluation - 24/7 Wall St.",
@@ -80,6 +97,23 @@
    "zh_summary": "24/7华尔街：英伟达或迎重大重估",
    "title_zh": "24/7华尔街：英伟达股票可能面临重大估值重估",
    "sentiment": 0
+  },
+  {
+   "id": "d85d8f1ee801",
+   "title": "How DeepSeek Is Shaping Huawei’s AI Chips in a Growing Challenge to Nvidia - The Information",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2RQSmZ0elVhQmxYNy1qajBvNDl5NlVmRlFfWlg1WHBtUGVicUNEZEFEbmR5eTVyOGY4cnpRc0tMVGxFTFIyV2pQTEtSLXpTT09KeUFndkV5bktmSERxQmcxX1FUNnhRMlZHdHQ4MnRMRzhuQ1JfajZ3Q1RncXRlVFcwNVBQdV93a0xvUVFEb2VfQlNvbG41dmVNSktQRk0",
+   "source": "The Information",
+   "published_at": "2026-10-19T16:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Information",
+     "published_at": "2026-10-19T16:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2RQSmZ0elVhQmxYNy1qajBvNDl5NlVmRlFfWlg1WHBtUGVicUNEZEFEbmR5eTVyOGY4cnpRc0tMVGxFTFIyV2pQTEtSLXpTT09KeUFndkV5bktmSERxQmcxX1FUNnhRMlZHdHQ4MnRMRzhuQ1JfajZ3Q1RncXRlVFcwNVBQdV93a0xvUVFEb2VfQlNvbG41dmVNSktQRk0"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "73fff911db9c",
@@ -205,6 +239,23 @@
    "zh_summary": "英伟达留住优秀员工的经验",
    "title_zh": "英伟达如何留住优秀员工，许多公司都错了",
    "sentiment": 0
+  },
+  {
+   "id": "1c050be93215",
+   "title": "英伟达：欧洲广播联盟与英伟达展开合作，拓展面向欧洲广播机构的主权框架。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NclZRZEUxZHlhNHlhSDh6dXNhU0RYbTE0bERCTFR6STNPMjQ1emNveTRhWHp2Q0VsYU9tSEJzQ3U1MldHTld1ckQ3VQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-19T15:04:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-19T15:04:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NclZRZEUxZHlhNHlhSDh6dXNhU0RYbTE0bERCTFR6STNPMjQ1emNveTRhWHp2Q0VsYU9tSEJzQ3U1MldHTld1ckQ3VQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "74b54330b07e",
@@ -486,12 +537,17 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CNlhDdDMzSlRoaERRMmNvdkxwWFBkUDM3QkU4MDhsdDJ0czVYaU9KbURubXVDWDUwRWZrQUl1QUhPalNvV1ZqamFObk9VVGJwZ3ZFM3R2ajE0RTlOTGtSc1JGUEFqLXpTd01XYmRpRQ",
    "source": "金融界",
    "published_at": "2026-10-19T14:14:19+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "金融界",
      "published_at": "2026-10-19T14:14:19+00:00",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CNlhDdDMzSlRoaERRMmNvdkxwWFBkUDM3QkU4MDhsdDJ0czVYaU9KbURubXVDWDUwRWZrQUl1QUhPalNvV1ZqamFObk9VVGJwZ3ZFM3R2ajE0RTlOTGtSc1JGUEFqLXpTd01XYmRpRQ"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-19T15:51:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYm0xSmhzNXdKNUphd3QwbzNvVFRfMTk5Rl9EamxDVEZGMXdYTXJOT21sMzJJcGcxQ1pjcWcyR3lfN05jMlVpN1F5UWp3RGQ1Zm12ZTQtenlzdmk2S1BWNDVkTUhwSVdGZktWSnJDVEFtckpKMmhMeTU4THFaYzhYRS15WHJQR2JPMklPcDZqTExLOC1qdG5rVi1QdS1BX09iQWExRU41SWpiYkdmTUhubg"
     }
    ],
    "category": "其他",
@@ -1523,6 +1579,23 @@
    }
   },
   {
+   "id": "4b4bc33080fd",
+   "title": "英伟达推出面向企业智能体和个人电脑的开放模型 - Mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjZTam9PdlRKMDF4b2RVN0dLeHhKWnZtc1FWQ3RnWVNwWEcwWnlIVk1XQl9xNWVRaTN1U3ZTVzZrdmY3LUFaNzlSX1VZSklGTW1oYS1ram5XQWYxSVd4V3lJNFUyVXNTX2UwOTllZlN3Y2kzN3dQNGNZaTB5emZNYmhEeWVBLXk1T0xBSlBtdGNBRGtSZUxsVnZZcnY3b2hXdUE",
+   "source": "Mezha.net",
+   "published_at": "2026-10-19T11:06:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Mezha.net",
+     "published_at": "2026-10-19T11:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjZTam9PdlRKMDF4b2RVN0dLeHhKWnZtc1FWQ3RnWVNwWEcwWnlIVk1XQl9xNWVRaTN1U3ZTVzZrdmY3LUFaNzlSX1VZSklGTW1oYS1ram5XQWYxSVd4V3lJNFUyVXNTX2UwOTllZlN3Y2kzN3dQNGNZaTB5emZNYmhEeWVBLXk1T0xBSlBtdGNBRGtSZUxsVnZZcnY3b2hXdUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "ddc5c9f1aed5",
    "title": "Direxion Daily Technology Bull 3X (TECL) Sells NVIDIA and Apple on Oct. 15 - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEdsMmp5MEdZcTNqN25XbllxYkRuSXRGdUhDNldmbm9aZmRuS0t0dGYtOVhIblVvdnViYWhEaEduSExiZEI5by1NeVVrT2VLaUJuSlFrdnQ1MEtCYWdsLW52cXNmZGxKTVE0cGxUcFdfaXppWkJsdElPMXQ5U0kwdEhHSFdVMVZZc2VUcHFMLUVxT1Itano4OXlWVk00UVE",
@@ -1733,12 +1806,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVp2djVsUEZUZE1fREttSDVfU1hkdXdDbjgtUmJGV0lkUHA4c0phMHVYVFlfeGNBSHlHcUpPZzAyU3pBa0VaUmZxT05oNFM1eVM5UmtjaWNIejFXRW0tdk5ZYlpUejdFU3p1WG9iQ0d5XzE2dmNiWlpUX0NJQlk5LUxjMHhKN2xT",
    "source": "搜狐",
    "published_at": "2026-10-19T10:27:15+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-19T10:27:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVp2djVsUEZUZE1fREttSDVfU1hkdXdDbjgtUmJGV0lkUHA4c0phMHVYVFlfeGNBSHlHcUpPZzAyU3pBa0VaUmZxT05oNFM1eVM5UmtjaWNIejFXRW0tdk5ZYlpUejdFU3p1WG9iQ0d5XzE2dmNiWlpUX0NJQlk5LUxjMHhKN2xT"
+    },
+    {
+     "name": "凤凰网汽车",
+     "published_at": "2026-10-19T12:20:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uTU9IOFd5LUM0Nng5RTNZT0pMVzl0dng1Y2dEM3Q2eTJyOVNCYmItUjRRRC1icU93eXItYkJGRE43ZEp4eEtzR2VFb2I"
     }
    ],
    "category": "其他",
@@ -5457,6 +5535,23 @@
    "sentiment": 0
   },
   {
+   "id": "2969261f8b9e",
+   "title": "NVIDIA Corporation $NVDA Shares Acquired by Nan Shan Life Insurance Co. Ltd. - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWpBQ2t1NGNXRWY5dGMyTVlZYU1WZDd0SXdITUsxS1gzLXp5cGpPajlENnhIUlB6MkIyaHRIYTd5TlRHaF90RXJMLS00TlR2Q2pybW9PSnFLbGYyVWV6TFp6OHNTVlpRUzUydUVadzFQV0QxVmcwQkF4aW4zR21hYnRLdVlSVGRZZUxSSnRrWElINHRpcmpCenZZdWlUN1NZaWpTdF9yNW5QUVdIeWpSajVGd1ZzOHc3YUE5T0JmaldVQVhaTUhBU3pvdjNpMmc",
+   "source": "MarketBeat",
+   "published_at": "2026-10-18T09:02:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-18T09:02:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWpBQ2t1NGNXRWY5dGMyTVlZYU1WZDd0SXdITUsxS1gzLXp5cGpPajlENnhIUlB6MkIyaHRIYTd5TlRHaF90RXJMLS00TlR2Q2pybW9PSnFLbGYyVWV6TFp6OHNTVlpRUzUydUVadzFQV0QxVmcwQkF4aW4zR21hYnRLdVlSVGRZZUxSSnRrWElINHRpcmpCenZZdWlUN1NZaWpTdF9yNW5QUVdIeWpSajVGd1ZzOHc3YUE5T0JmaldVQVhaTUhBU3pvdjNpMmc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "f89c3ca11d98",
    "title": "嘴巴补货没用！5090停产流言四起 价格狂飙到5.5W 英伟达官方回应 - 直播吧",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SUk03TFpJbWVub3ZDdXJ2MmJyRVZCS2RKWXEzYUJHaTBjWndQSEg0TWpqaVRlNmlTZC1ScUlIRmlyeGQ2Q0tKeHc4ckZaQU1iQ1hwbHBkSkRVUV9hYkJOR1FjRU04V2lsZG5fU1ZtSGUzQVBhSFFCcg",
@@ -6530,111 +6625,6 @@
    "session": "周末",
    "zh_summary": "英伟达今年以来股价上涨13%",
    "title_zh": "英伟达今年涨13%，股价现在处于什么位置",
-   "sentiment": 1
-  },
-  {
-   "id": "75bfd1ad07dd",
-   "title": "NVDA Stock Eyes Worst First Half Since 2022: Retail Patience Wears Thin As Board Member Trims Stake For Third Time This Year - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORzhNMG5sbTZPeXlsLUFWb0xrc05MRGNQcW9aS3VrOTF5RFRYdFRuQkZvRFFFdkdyNzNiaGNodWdJdjJHZE9oYUNnUWxoclN6LTU4YTRIRnR6NnZKRDV5ZVVSWWJPdGNsdFZZM01rZ1V2ajlPcTFHczdBUElKSUtJbEptTFc5V1JKQXZMbHpkeWxDazRpZGc3eHhDVkxuSXN0OE51QmI3bU1FN2pWMEFVODlFT2Q5SVVrXzNQQktFSjR1dkRFWlBpRlF4V2JuZW1rSFZtSU9sWnU5bXBRaDJxbjVGN3M2cGg4dG5SVWY4d2h6SENzbGlkdGk2dUVvWmtDRmZudmVhOHlmeTNGU0F0S2NWNFdSZw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-17T15:59:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-17T15:59:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORzhNMG5sbTZPeXlsLUFWb0xrc05MRGNQcW9aS3VrOTF5RFRYdFRuQkZvRFFFdkdyNzNiaGNodWdJdjJHZE9oYUNnUWxoclN6LTU4YTRIRnR6NnZKRDV5ZVVSWWJPdGNsdFZZM01rZ1V2ajlPcTFHczdBUElKSUtJbEptTFc5V1JKQXZMbHpkeWxDazRpZGc3eHhDVkxuSXN0OE51QmI3bU1FN2pWMEFVODlFT2Q5SVVrXzNQQktFSjR1dkRFWlBpRlF4V2JuZW1rSFZtSU9sWnU5bXBRaDJxbjVGN3M2cGg4dG5SVWY4d2h6SENzbGlkdGk2dUVvWmtDRmZudmVhOHlmeTNGU0F0S2NWNFdSZw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "董事第三次减持，上半年或创最差",
-   "title_zh": "英伟达上半年或创2022年来最差，董事第三次减持",
-   "sentiment": -1
-  },
-  {
-   "id": "2dd6f9b8231d",
-   "title": "RTX 5090真要停产停售吗：英伟达回应了！ - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HQ2VzYXVMbTRYQXpUYUFFendndWl4dnk5eUNqZGFQVWcyOE12YU5VWTdQUmkwN3JyOVdmWnhVWU1kaXhNRFBidG1KWEUwZlZsMkxpUmNlRzM",
-   "source": "驱动之家",
-   "published_at": "2026-10-17T15:55:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-17T15:55:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HQ2VzYXVMbTRYQXpUYUFFendndWl4dnk5eUNqZGFQVWcyOE12YU5VWTdQUmkwN3JyOVdmWnhVWU1kaXhNRFBidG1KWEUwZlZsMkxpUmNlRzM"
-    },
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-18T10:51:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YaDQ0Mm1xekFxNTBOUUhuN2ZlYzJuM3NaSEhhd1lEUy15Nko5S0k0TEFiNnE2cVhyN2Fnb1c2MW9heVRuQl9IM3pLMTZWZF9qMEtv"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达回应RTX 5090停产传闻",
-   "title_zh": "RTX 5090真要停产停售吗：英伟达回应了！",
-   "sentiment": 0
-  },
-  {
-   "id": "b81ca8bc13ca",
-   "title": "Nvidia says the RTX 5090 is not dead but admits supply is tight - Startup Fortune",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVFNWm9hd0p1a1EwdE5ZRXNKVEstZFpDXzdBQWJ6Zl9MLXlZaVF0VVVSMFZwWUk3VzVoOVYwOE5sS2ttOG00eldNQ294VUdGSXpyU29MVXNwUnJnbHpSUlZ5dWdvdVlLZDZwWDR0LUxvaVpVYXdVNk9meEhpbk5ocmttY3ktWHcwdHZJTHFGNTQ3R2k4MGc",
-   "source": "Startup Fortune",
-   "published_at": "2026-10-17T15:35:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Startup Fortune",
-     "published_at": "2026-10-17T15:35:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVFNWm9hd0p1a1EwdE5ZRXNKVEstZFpDXzdBQWJ6Zl9MLXlZaVF0VVVSMFZwWUk3VzVoOVYwOE5sS2ttOG00eldNQ294VUdGSXpyU29MVXNwUnJnbHpSUlZ5dWdvdVlLZDZwWDR0LUxvaVpVYXdVNk9meEhpbk5ocmttY3ktWHcwdHZJTHFGNTQ3R2k4MGc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达否认RTX5090停产但供应紧张",
-   "title_zh": "英伟达称RTX 5090未停产但供应紧张",
-   "sentiment": 1
-  },
-  {
-   "id": "abdcf602eae4",
-   "title": "Nvidia Stock Divides Wall Street as AI Bets Tighten - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2dUOXVadGMzMEdrOXJONGgzVjFMWE1uVG1POFJtTDdyNFgzQUlfaUxacC11Ung3eURCemtQZkRyNWw0SU1xU3REWmc0R3RnNTN5SHdSNk1vZ3pSS3FqWFFycUVQSnNyNTBhMXNXTFhvWTBDa0wxTlNYTm43eHprTHhiaTk4c3lpOGd4RDRfT084d29ReGtjVjlIYTJJUQ",
-   "source": "TipRanks",
-   "published_at": "2026-10-17T15:28:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-17T15:28:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2dUOXVadGMzMEdrOXJONGgzVjFMWE1uVG1POFJtTDdyNFgzQUlfaUxacC11Ung3eURCemtQZkRyNWw0SU1xU3REWmc0R3RnNTN5SHdSNk1vZ3pSS3FqWFFycUVQSnNyNTBhMXNXTFhvWTBDa0wxTlNYTm43eHprTHhiaTk4c3lpOGd4RDRfT084d29ReGtjVjlIYTJJUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "华尔街对英伟达分歧加大",
-   "title_zh": "英伟达股票令华尔街分歧，AI押注趋紧",
-   "sentiment": 0
-  },
-  {
-   "id": "aece9caee776",
-   "title": "英伟达否认GeForce RTX 5090停产传闻称旗舰显卡仍将持续出货- nVIDIA - cnBeta.COM",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10SGVWQXZBRkV4bzByQ3huRWRZMWYxdXcxbWM5MUcxVndiVm5uUDA4RjM0b1daa3FoWFFwMF85OTNNUmd3eWluVUNlTTdaN0pfbFdIQ1lzY1NSS09HZ3E4Nw",
-   "source": "cnBeta.COM",
-   "published_at": "2026-10-17T15:24:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "cnBeta.COM",
-     "published_at": "2026-10-17T15:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10SGVWQXZBRkV4bzByQ3huRWRZMWYxdXcxbWM5MUcxVndiVm5uUDA4RjM0b1daa3FoWFFwMF85OTNNUmd3eWluVUNlTTdaN0pfbFdIQ1lzY1NSS09HZ3E4Nw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "英伟达否认RTX 5090停产传闻",
-   "title_zh": "英伟达否认GeForce RTX 5090停产传闻称旗舰显卡仍将持续出货- nVIDIA - cnBeta.COM",
    "sentiment": 1
   }
  ]
