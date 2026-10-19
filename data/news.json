@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T17:51:29.456437+00:00",
+ "updated_at": "2026-10-19T18:06:35.205727+00:00",
  "market": {
-  "price": 216.97,
-  "change_pct": 1.33,
+  "price": 217.16,
+  "change_pct": 1.42,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.39,
-   "count": 158
+   "count": 161
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（158条已评分）"
+     "note": "今日新闻情绪 +0.39（161条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.97 vs 20日均线 $227.66"
+     "note": "现价 $217.16 vs 20日均线 $227.67"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.2,
-   "ma20": 227.66,
-   "as_of": "2026-10-19T17:51:29.445007+00:00"
+   "implied_upside_pct": 45.1,
+   "ma20": 227.67,
+   "as_of": "2026-10-19T18:06:35.196956+00:00"
   },
   "pe_ttm": 27.6,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.2%空间：估值偏低，预期乐观"
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "f42f607d8e0f",
+   "title": "英伟达于于利希超级计算中心完成创纪录的容错量子计算模拟。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fQVQ2TG01anVKR1dHNHIwM2NMck42TEthV1pTbFhpUDNtdFp2eXEySFhFdXFSVDY3a1JyYXRLRnRLTUFWNnd4Q3A3Q1g3UWc",
+   "source": "手机新浪网",
+   "published_at": "2026-10-19T18:02:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-19T18:02:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fQVQ2TG01anVKR1dHNHIwM2NMck42TEthV1pTbFhpUDNtdFp2eXEySFhFdXFSVDY3a1JyYXRLRnRLTUFWNnd4Q3A3Q1g3UWc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "6a3fe42e25c1",
    "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs - The Robot Report",
@@ -80,6 +97,23 @@
    "zh_summary": "释放AI创新：英伟达RTX PRO 6000工作站版",
    "title_zh": "释放AI创新：英伟达RTX PRO 6000工作站版",
    "sentiment": 1
+  },
+  {
+   "id": "ebae569a1ca5",
+   "title": "Third Wheel: Microsoft’s AI Chips Are “Nowhere Close” to NVIDIA or Google per Analyst - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWxscjdzeUEyVFZ2b0lPdUtwOEVfN0F1ZWh5dlgtNlZSNVQtOFpEZlVWYWxtaVBWUnNWaU81UjBJQmh3UTRfYTNTYjNjOFJmNlJERk1kSVdBZ1FYd2VLNUlLcm5LZF96WWFmZk12R2kxV0NIWEp6eF9BN190NTJOSGNFNk40bWVONmxXTU9kd243NmYwVmkzc0pn",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-19T17:40:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T17:40:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWxscjdzeUEyVFZ2b0lPdUtwOEVfN0F1ZWh5dlgtNlZSNVQtOFpEZlVWYWxtaVBWUnNWaU81UjBJQmh3UTRfYTNTYjNjOFJmNlJERk1kSVdBZ1FYd2VLNUlLcm5LZF96WWFmZk12R2kxV0NIWEp6eF9BN190NTJOSGNFNk40bWVONmxXTU9kd243NmYwVmkzc0pn"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
   },
   {
    "id": "1ee05cb80e66",
@@ -752,7 +786,7 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0d2eFFKZlpsWTdhdUE4UkR6ZGpKS0pqTFZFelFhRU1XNTJZWXRzN0xjekZ4dXE2Rnp6Q0RZR0s4OHVhdVhjOV9Cb0VwYUQxWFRLamEyZ0xpQm9QWC0yR2tTVWk1TWVkY2wwQURNUGpQNmd4UFB6WThqY3hRRFhwOGZRTUVsNmVKdUxwaHk1MEdtN29SWnRTYg",
    "source": "The Motley Fool",
    "published_at": "2026-10-19T14:27:57+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -768,10 +802,16 @@
      "name": "AOL.com",
      "published_at": "2026-10-19T14:35:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlRNRmFEckNxZExRU3pYblVFcWJZYzNQc2NwSXBDOU1yZ3lINjl6RlhvUWdfV1QtRmZCb0hZMWNZT2RqdjRSNnIxTi0tOS1nSktQWTlSLWpsUEhwTHlRTVRCYWE5bGRHMmF6ZjNkSksxblQzSlF2aWI4Y3lwaDRRSHhn"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-19T14:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGlIS3k2UUpIMWVaRlRqNTBSQ05MaDdnUUpIYWhXald0ZkNCSXIxRm1XUWI1MHRMbDVSMjFXMFBHdTd2RER6YnlNMVMzUHpvZno0T094ZVh4WHJmcnBTYXE1VEZheFhMM3B0Mkl0M1lwV2o0d0xtUWV2LXZ5azNqUG9mUThweFozTE1kWFM1X0dSYmZMcDVHZWhfaXM"
     }
    ],
    "category": "产品技术",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "某AI芯片股2030年前上涨空间最大",
    "title_zh": "不是英伟达也不是美光，这只AI芯片股2030年前涨幅最大",
    "sentiment": -1,
@@ -1129,6 +1169,23 @@
    "zh_summary": "英伟达美股盘前涨超2%，现报218.48美元",
    "title_zh": "美股讯号 | 英伟达美股盘前涨超2%，现报218.48美元 ｜#美股资讯# #英伟达# #股价波动#",
    "sentiment": 1
+  },
+  {
+   "id": "751b973396df",
+   "title": "英伟达美股盘前涨超2%_股市直击 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43bGRWN2gyUXBXQTJLVHU4R1d3MHRtNVpKRWJWTmxBQURNY0VqVDdheG00MVVrNEVBUkNCMVp1SFJldkY1UGJEWnFBSm9DN2NoRGVPQ3dUVGF1VDNwdl92b3hR",
+   "source": "证券之星",
+   "published_at": "2026-10-19T13:16:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-19T13:16:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43bGRWN2gyUXBXQTJLVHU4R1d3MHRtNVpKRWJWTmxBQURNY0VqVDdheG00MVVrNEVBUkNCMVp1SFJldkY1UGJEWnFBSm9DN2NoRGVPQ3dUVGF1VDNwdl92b3hR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "9cc02e404165",
@@ -6581,71 +6638,6 @@
    "session": "周末",
    "zh_summary": "联想全球交付英伟达Vera Rubin NVL72",
    "title_zh": "联想集团全球交付英伟达Vera Rubin NVL72，创业板算力ETF天弘(158061)上一个交易日换手率超45%交投活跃 - 东方财富",
-   "sentiment": 1
-  },
-  {
-   "id": "e1118f5f679d",
-   "title": "'This computer is going to be incredible': Nvidia CEO Jensen Huang explains why the new Surface Laptop Ultra is \"really a work of love\" - TechRadar",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUEFCSjkyenRSQXpnVnN2Vm9DdzJOYmFLMkZhamxqVnlkV1VQcTRZQzhuVDVXU1lNM2ZOOFZPckZvbEpvSXVVOERzTmdKbjRPSEIxQ2stYXJCLWhRdGRJSW5sZEE1ZDVibzh2dVlaeld3aDRwWmpKNVdFOE42MS1OWTRCeGUwU0NtVFRSVnFSQVJ0cC1Ub0U2Mm9NR3FQZER3bEpnVEhMR2pnU3NreElTN2dMcFZFRm96Tl83d1VlUkU3U250SW1vUlBhWlY5ckxuMGQwWGkxcTNUM2l5WE9Ka0tFSHQyX196QldoRDlESkpQdw",
-   "source": "TechRadar",
-   "published_at": "2026-10-18T01:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechRadar",
-     "published_at": "2026-10-18T01:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUEFCSjkyenRSQXpnVnN2Vm9DdzJOYmFLMkZhamxqVnlkV1VQcTRZQzhuVDVXU1lNM2ZOOFZPckZvbEpvSXVVOERzTmdKbjRPSEIxQ2stYXJCLWhRdGRJSW5sZEE1ZDVibzh2dVlaeld3aDRwWmpKNVdFOE42MS1OWTRCeGUwU0NtVFRSVnFSQVJ0cC1Ub0U2Mm9NR3FQZER3bEpnVEhMR2pnU3NreElTN2dMcFZFRm96Tl83d1VlUkU3U250SW1vUlBhWlY5ckxuMGQwWGkxcTNUM2l5WE9Ka0tFSHQyX196QldoRDlESkpQdw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "黄仁勋称Surface新机倾注热爱",
-   "title_zh": "黄仁勋盛赞新款Surface Laptop Ultra：这是倾注热爱的作品",
-   "sentiment": 1
-  },
-  {
-   "id": "cf65e7757046",
-   "title": "中国三季度GDP、10月LPR将出炉；英伟达GTC柏林大会将开幕丨一周前瞻 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pSEx3OUdSTXBCMDZhazE4WXdYQnNyQmtHWUlBeTVDUllXeU9NenhTRlA1cWZibFQ5OEt6eGhScUtvUWdzX3p3MVBwZGY1X1p5QjU4UVY5Z0lwaVoxM2tBM21WaEFDUQ",
-   "source": "东方财富",
-   "published_at": "2026-10-18T00:50:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-18T00:50:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pSEx3OUdSTXBCMDZhazE4WXdYQnNyQmtHWUlBeTVDUllXeU9NenhTRlA1cWZibFQ5OEt6eGhScUtvUWdzX3p3MVBwZGY1X1p5QjU4UVY5Z0lwaVoxM2tBM21WaEFDUQ"
-    }
-   ],
-   "category": "政策监管",
-   "session": "周末",
-   "zh_summary": "英伟达GTC柏林大会本周开幕",
-   "title_zh": "中国三季度GDP、10月LPR将出炉；英伟达GTC柏林大会将开幕丨一周前瞻",
-   "sentiment": 0
-  },
-  {
-   "id": "c5c27d6520d8",
-   "title": "德国筹备与英伟达合作大型人工智能项目 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ1JPMVVmMEt3ckJJT2U0Y2ViMXV6ZWxkMDZMMjdPdFNZSUtnTFNOdzI2V3h0STZlX3g0SExzVEZoRWMzaEc0ZXpvSEdpQlZBcU5FbTl3cTFWUDEzMHQ2WUZlZFdGQ2FGam13RWxINGc4cE5zYk40OVFnRDBORzJNbWtycWZ5Q2JQYUdQdw",
-   "source": "搜狐",
-   "published_at": "2026-10-18T00:47:13+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-18T00:47:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ1JPMVVmMEt3ckJJT2U0Y2ViMXV6ZWxkMDZMMjdPdFNZSUtnTFNOdzI2V3h0STZlX3g0SExzVEZoRWMzaEc0ZXpvSEdpQlZBcU5FbTl3cTFWUDEzMHQ2WUZlZFdGQ2FGam13RWxINGc4cE5zYk40OVFnRDBORzJNbWtycWZ5Q2JQYUdQdw"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-18T00:53:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zeEFrM1JRdzkzemtEQlFLcjFKdmlNeFpheldFT3V0MHRaVUhMTnNPQUNHMTlkSkRPUDc1Q0o4SlA4dzAta0JnRGhlVm9RMFZreWJxVlpONjV1UktwdjVBOGItdjItb1JFWl9Yam5QdnlxUlV0LThwT2ZlQmd1dWc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "德国筹备与英伟达合作大型AI项目",
-   "title_zh": "德国筹备与英伟达合作大型人工智能项目 - 新浪网",
    "sentiment": 1
   }
  ]
