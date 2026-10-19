@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T22:21:31.107900+00:00",
+ "updated_at": "2026-10-19T22:36:39.655029+00:00",
  "market": {
   "price": 217.09,
   "change_pct": 1.38,
@@ -10,8 +10,8 @@
    "days_left": 29
   },
   "day_sentiment": {
-   "avg": 0.41,
-   "count": 225
+   "avg": 0.42,
+   "count": 226
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.41（225条已评分）"
+     "note": "今日新闻情绪 +0.42（226条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.1,
    "ma20": 227.66,
-   "as_of": "2026-10-19T22:21:31.094955+00:00"
+   "as_of": "2026-10-19T22:36:39.649551+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "92fa85128d21",
+   "title": "美股讯号 | 英伟达成功验证量子纠错技术，物理量子比特需求减少 90% ｜#美股资讯# #英伟达# #行业竞争# - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHBqR2xtM0gxbHVKeVRtODJBM2J5SERhU1FFQ1RhWGlPaTFvdDVkVlIzOHpCU1BEY2lWVzR6WGZBTjdKZ2xRTEJIQmtBWERzM04tZVFqVkpQc1lONWt2Rm5mODZsMWUtaFQ2VXdJc0stM1kzTDBxUWhSV0J5LU5xTURYUG9RaXpHaktINA",
+   "source": "搜狐",
+   "published_at": "2026-10-19T22:26:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-19T22:26:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZHBqR2xtM0gxbHVKeVRtODJBM2J5SERhU1FFQ1RhWGlPaTFvdDVkVlIzOHpCU1BEY2lWVzR6WGZBTjdKZ2xRTEJIQmtBWERzM04tZVFqVkpQc1lONWt2Rm5mODZsMWUtaFQ2VXdJc0stM1kzTDBxUWhSV0J5LU5xTURYUG9RaXpHaktINA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "f0d2a7fe88dc",
+   "title": "Congressman Sells Nvidia Stock Again: 7 Sales in 2026 Add to Trades Since 2022 - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZWp3RDl6Z0pzWENfbmZDYUd1S2otaDdGNnBwQ0JRMEVMLWEyOC1YS2x1LWgyeWxzTFVjamlTd2JxQlRmZ1JpanlmZDZyVXE5M0I0MXpVS3RReEJlNTRXeV9RSXhNZTM2QkJramxpdHFqNDd2dG0xbDNPRFUtdzVGYTVONzRGeUhnZXJUZzFTcnNxTVpkSk9odzdEaS1yY0dsMGFUVHNIWHQwTjVXZjgxMy1LX2lfdFhTNzdIZnhwdEVjMmVuZ0QzRWZtRQ",
+   "source": "Benzinga",
+   "published_at": "2026-10-19T22:19:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-19T22:19:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZWp3RDl6Z0pzWENfbmZDYUd1S2otaDdGNnBwQ0JRMEVMLWEyOC1YS2x1LWgyeWxzTFVjamlTd2JxQlRmZ1JpanlmZDZyVXE5M0I0MXpVS3RReEJlNTRXeV9RSXhNZTM2QkJramxpdHFqNDd2dG0xbDNPRFUtdzVGYTVONzRGeUhnZXJUZzFTcnNxTVpkSk9odzdEaS1yY0dsMGFUVHNIWHQwTjVXZjgxMy1LX2lfdFhTNzdIZnhwdEVjMmVuZ0QzRWZtRQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "f15bce7d68c8",
    "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says - Central Oregon Daily",
@@ -265,6 +299,23 @@
    "zh_summary": "德国政府宣布与英伟达建立合作伙伴关系",
    "title_zh": "德国政府宣布与英伟达建立合作伙伴关系",
    "sentiment": 1
+  },
+  {
+   "id": "9643ecaa799c",
+   "title": "NVIDIA’s largest-ever 104-qubit simulation models realistic quantum hardware errors - Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcnFLdS1ybEo4YmtFNklvNl96Y1VnSTdtU1kxV0tENG45SjhXdWpCQVdneW9yMUU5V1EwLV9xRzhzZ1QzT0NCR0lvd1c5UXQySEpoMUFJVjc2a29lSVhQNHlzOFhGT0syR3VlTkNJSURyZ3hRNGQtNlM4RzBPbGtvRW8tcDJGZWxLWUx1T2tsSQ",
+   "source": "Interesting Engineering",
+   "published_at": "2026-10-19T20:35:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Interesting Engineering",
+     "published_at": "2026-10-19T20:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcnFLdS1ybEo4YmtFNklvNl96Y1VnSTdtU1kxV0tENG45SjhXdWpCQVdneW9yMUU5V1EwLV9xRzhzZ1QzT0NCR0lvd1c5UXQySEpoMUFJVjc2a29lSVhQNHlzOFhGT0syR3VlTkNJSURyZ3hRNGQtNlM4RzBPbGtvRW8tcDJGZWxLWUx1T2tsSQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "2db7090bf644",
@@ -708,7 +759,7 @@
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWnpMZHVmVzkxS2JvN3J4SVlxTGJVVWVJUWRvSUJyd0REZHpFRmVPVXB5aWw4dHVzRjN0X0dlaTFINXRzYm5RbFBuRUVVZnVORWEwM2gyWDlpN0FJWlZ6ZFdrcE5qSzF1TG9qc2Q0bDJBN0xuSDNPWEpYcmdPeDNrZFNhM2U0RFAyVEgwNDVzTGJUMW9BNTgyV1lMNmgzVVRSUGZVWkhiOXdJbTJDQWNoUGx4a29QWmpPdTNjVVI5OGdWQQ",
    "source": "AP News",
    "published_at": "2026-10-19T19:28:00+00:00",
-   "outlets_count": 10,
+   "outlets_count": 11,
    "outlets": [
     {
      "name": "AP News",
@@ -759,6 +810,11 @@
      "name": "Pioneer Press",
      "published_at": "2026-10-19T21:18:52+00:00",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13ZV9rUmZBejkyTEdKTWtjUldSa1NiMmg0R2NUdUhJaVBoZFotQ2w1THBfS1Z6RjhYUW84Y0kxTHhPOG9ZNmkxWE40T2NQOWJLZzI4eGtydFhvbG50a3BseExkTQ"
+    },
+    {
+     "name": "Boston Herald",
+     "published_at": "2026-10-19T21:35:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YMnZaNi1uRDcxRG5adk1LM191T3YwY3FnUks4WUpGRVpObTlDTUxJc3RaZkhudERmc2tmNmVmZEtCdlptcndHc1ZRWkVvYkpKTGFQUG9JZHEtWm9KdDFFQUNqU0FZUQ"
     }
    ],
    "category": "其他",
@@ -3606,7 +3662,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMdzdDWXpRQzhzUUNkc2U3WWp5MzJBdEQwckZOUVVQa1Q1djlRVkgwN0o0M2wtQm0zamtndk5ZMGcwbDRzT2FiXzBFRVdDQkN4NnFvTi1HR3ZHeW9KSTU2Sw",
    "source": "证券之星",
    "published_at": "2026-10-19T10:17:10+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "证券之星",
@@ -3617,13 +3673,22 @@
      "name": "同花顺",
      "published_at": "2026-10-19T10:24:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GSmx1cEF3UXpnRTJoMkhLNXNTUk14SGE4MjlXQ3BQUHhVYmlOUmVTYndjQTJ5SjQ5TkFCUGd2OFdqb3doOTYtaVNyUE0zR1JaZEhPLW5NVzBuSDZ4NW53Rw"
+    },
+    {
+     "name": "同花顺财经",
+     "published_at": "2026-10-19T10:24:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GSmx1cEF3UXpnRTJoMkhLNXNTUk14SGE4MjlXQ3BQUHhVYmlOUmVTYndjQTJ5SjQ5TkFCUGd2OFdqb3doOTYtaVNyUE0zR1JaZEhPLW5NVzBuSDZ4NW53Rw"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "四氟膜龙头涨停20CM，与英伟达PTFE相关",
    "title_zh": "四氟膜龙头直线20CM涨停，英伟达为何看上PTFE_滚动新闻_财经 - 证券之星",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 1.41,
+    "window_h": 2.0
+   }
   },
   {
    "id": "8bd5159c3da2",
@@ -3696,7 +3761,7 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0pZREF3WWNPak52UUt1ZE9ZMTFDNEFlZm8wbFBXQ0hQUTZrZnI0TEJoZzZNZV85a1VPd0d3eUtSc0JFYUFUUExUTHMxWnFIbFRweTdzR3ZYY2JLRm83ZDI0cFZwd05qTHNFNkt1WTVVdENxZ0E4X19mZUVQMDZCYldBdlN1UFZzcHVxaQ",
    "source": "搜狐",
    "published_at": "2026-10-19T10:11:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐",
@@ -3707,13 +3772,22 @@
      "name": "凤凰网汽车",
      "published_at": "2026-10-19T12:20:06+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uTU9IOFd5LUM0Nng5RTNZT0pMVzl0dng1Y2dEM3Q2eTJyOVNCYmItUjRRRC1icU93eXItYkJGRE43ZEp4eEtzR2VFb2I"
+    },
+    {
+     "name": "光通信Pro",
+     "published_at": "2026-10-19T10:52:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBObHZxUVo3c01ReE5MUjR6YUptZ0NHcmlPT0wyVjEzNFNzM19CdjA2R2c2TGR6enZzejV4TUh0Z296SXNyRXZJNEthR21lVHo1NkZfZW5Ibw"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "奔驰与英伟达深化合作开发辅助驾驶",
    "title_zh": "梅赛德斯-奔驰与英伟达深化战略合作，共推下一代辅助驾驶",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 1.41,
+    "window_h": 2.0
+   }
   },
   {
    "id": "a83573bb5a49",
@@ -6559,66 +6633,6 @@
    "zh_summary": "英伟达AI融资模式蔓延至竞争对手",
    "title_zh": "英伟达的AI融资模式正蔓延至竞争对手，但最终由谁买单？",
    "sentiment": -1
-  },
-  {
-   "id": "dbeb87aa0e26",
-   "title": "Samsung Taps TSMC 3nm for Nvidia NVHBM Chips [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lU3VIa096VDdKaTZIU3VFWEtqa1V1UVpzR1gzWlNYR0g1bElnbGVWN2d6T1JUR1c5aVlUcGNRR3d3UVRYS2thVWRSYTRkTHhUTFFpaXh3alNIU0NoTEJYcHUxN2ZMODd6UDFkNkU2TWROVV9SYUVUMXh6ZC1TUQ",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-18T16:36:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-18T16:36:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lU3VIa096VDdKaTZIU3VFWEtqa1V1UVpzR1gzWlNYR0g1bElnbGVWN2d6T1JUR1c5aVlUcGNRR3d3UVRYS2thVWRSYTRkTHhUTFFpaXh3alNIU0NoTEJYcHUxN2ZMODd6UDFkNkU2TWROVV9SYUVUMXh6ZC1TUQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "三星采用台积电3nm制造英伟达芯片",
-   "title_zh": "三星为英伟达采用台积电3nm工艺制造芯片",
-   "sentiment": 1
-  },
-  {
-   "id": "8fe0918556dd",
-   "title": "英伟达GTC柏林前瞻：Rubin平台、AI智能体与欧洲主权算力成焦点 - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONzNsRTY0TmJWSVRjSEh1b3d5b0xpODBUU2xhVTFLOC12SzhBZXJyTkQ0S3hZanZDbjZ1d3RfRjlkTGk5cWNPRVFzQzRfTXA5bVd2MWNkOXpWZ0pGcVgtcE9RUndpS3FnWWFCeTkycXpQNWNTM0NjdmJ6b1kxTjJEaXdXRzdLbUFmNzI3N2hCYm1iRG0xekozTmVKMTNMb1FrUWRETXNMTVg0aHlUdnVMSmE0TW5zZ2VEWXpPQVpHXzNUQl9VSWpLYTE0V0VXY0xGS1lXX3ZQVGM",
-   "source": "TradingKey",
-   "published_at": "2026-10-18T16:31:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-18T16:31:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONzNsRTY0TmJWSVRjSEh1b3d5b0xpODBUU2xhVTFLOC12SzhBZXJyTkQ0S3hZanZDbjZ1d3RfRjlkTGk5cWNPRVFzQzRfTXA5bVd2MWNkOXpWZ0pGcVgtcE9RUndpS3FnWWFCeTkycXpQNWNTM0NjdmJ6b1kxTjJEaXdXRzdLbUFmNzI3N2hCYm1iRG0xekozTmVKMTNMb1FrUWRETXNMTVg0aHlUdnVMSmE0TW5zZ2VEWXpPQVpHXzNUQl9VSWpLYTE0V0VXY0xGS1lXX3ZQVGM"
-    }
-   ],
-   "category": "AI需求",
-   "session": "周末",
-   "zh_summary": "GTC柏林聚焦Rubin平台与主权算力",
-   "title_zh": "英伟达GTC柏林前瞻：Rubin平台、AI智能体与欧洲主权算力成焦点",
-   "sentiment": 1
-  },
-  {
-   "id": "761eeea5582a",
-   "title": "Modder brings full Nvidia DLSS 5 suite to three generations of AMD gaming GPUs — plans to match native Nvidia GPU performance - Tom's Hardware",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWFN1SGtVNEFFN1E1THdKUGtnbXZnbTEycnNadlI3Njh6RFdEMDVPQ0k0azBPYlR4anZBREpvejFRMG45OE00REtrTy1FbEN2TUgxTkZ6U2tDU19jbHNZSVFVaTYtcTQ5dFgxTFVIT1hYNlZaVnhaWndDNy1RazNqRmdsd1NnQlZJWHZNOUNCS0tZRXN4T0cwa0FNaXNKei0xTF95RDkwX1lmN19WZ2hnWmFjUXVLQURsTW5EZFo0bmwtX3ZrZTVFV0M2TTFlN25WTlZvdm5hQXdlYkZMbEM0akU2dVFyTERKbm1GRXVtN1FueGc",
-   "source": "Tom's Hardware",
-   "published_at": "2026-10-18T16:03:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tom's Hardware",
-     "published_at": "2026-10-18T16:03:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWFN1SGtVNEFFN1E1THdKUGtnbXZnbTEycnNadlI3Njh6RFdEMDVPQ0k0azBPYlR4anZBREpvejFRMG45OE00REtrTy1FbEN2TUgxTkZ6U2tDU19jbHNZSVFVaTYtcTQ5dFgxTFVIT1hYNlZaVnhaWndDNy1RazNqRmdsd1NnQlZJWHZNOUNCS0tZRXN4T0cwa0FNaXNKei0xTF95RDkwX1lmN19WZ2hnWmFjUXVLQURsTW5EZFo0bmwtX3ZrZTVFV0M2TTFlN25WTlZvdm5hQXdlYkZMbEM0akU2dVFyTERKbm1GRXVtN1FueGc"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "改装者将DLSS5带到三代AMD显卡",
-   "title_zh": "改装者将完整DLSS5套件带到三代AMD显卡",
-   "sentiment": 0
   }
  ]
 }
