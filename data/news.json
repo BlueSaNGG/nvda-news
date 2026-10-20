@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T06:06:27.686625+00:00",
+ "updated_at": "2026-10-20T06:21:27.892465+00:00",
  "market": {
   "price": 217.09,
   "change_pct": 1.38,
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.56,
-   "count": 9
+   "avg": 0.5,
+   "count": 10
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.56（9条已评分）"
+     "note": "今日新闻情绪 +0.50（10条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.1,
    "ma20": 227.66,
-   "as_of": "2026-10-20T06:06:27.676464+00:00"
+   "as_of": "2026-10-20T06:21:27.867002+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "240d34876975",
+   "title": "$NVIDIA (NVDA.US)$ $@ i called it yesterday - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkYwdmZ0YjRueDEwYjFJTHo2MnpvMEJxaHZIV3otekJ2dm1qa0RfR0x2WWlzQ2p4N0IwcERmLUp3NUpGNE5sNDR5SmN6bWxBc3YydHVxNlNxUDBVVV9xb0tNNmJjU1YtYjJJTUpqblJ3VTBEV1QtZHRYWjNsLU02ZHJYNGpqRTYyMGpmdDU5REZremxt",
+   "source": "Moomoo",
+   "published_at": "2026-10-20T06:10:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-20T06:10:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQkYwdmZ0YjRueDEwYjFJTHo2MnpvMEJxaHZIV3otekJ2dm1qa0RfR0x2WWlzQ2p4N0IwcERmLUp3NUpGNE5sNDR5SmN6bWxBc3YydHVxNlNxUDBVVV9xb0tNNmJjU1YtYjJJTUpqblJ3VTBEV1QtZHRYWjNsLU02ZHJYNGpqRTYyMGpmdDU5REZremxt"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "246dbaa1308c",
    "title": "A股异动丨英伟达GTC聚焦物理AI，AI眼镜概念全线走强，长盈精密20CM涨停 - finance.sina.com.cn",
@@ -6653,26 +6670,6 @@
     "pct": 1.41,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "1739098d606a",
-   "title": "Santander Taps NVIDIA AI To Cut Costs - Finimize",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Gdm9FZWJuS09FdWlDd3ZHTWJ3cHlQaW5YUDUzWTRXdjBJbG8zTUg2WHRSQ1BqWnEzMGdwT0NkQjhVUnFfYWtyVEZaTkZqNDNydGtVZEV1Qkt6QWUwWDVTamZhQ0ozY1B2YkFhMFZoODNTcEhL",
-   "source": "Finimize",
-   "published_at": "2026-10-19T05:04:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Finimize",
-     "published_at": "2026-10-19T05:04:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Gdm9FZWJuS09FdWlDd3ZHTWJ3cHlQaW5YUDUzWTRXdjBJbG8zTUg2WHRSQ1BqWnEzMGdwT0NkQjhVUnFfYWtyVEZaTkZqNDNydGtVZEV1Qkt6QWUwWDVTamZhQ0ozY1B2YkFhMFZoODNTcEhL"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "桑坦德银行采用英伟达AI削减成本",
-   "title_zh": "桑坦德银行采用英伟达AI削减成本",
-   "sentiment": 1
   }
  ]
 }
