@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T16:06:29.860030+00:00",
+ "updated_at": "2026-10-20T16:21:28.859015+00:00",
  "market": {
-  "price": 217.23,
-  "change_pct": 0.06,
+  "price": 216.7,
+  "change_pct": -0.18,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.46,
-   "count": 138
+   "avg": 0.44,
+   "count": 142
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.0%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.46（138条已评分）"
+     "note": "今日新闻情绪 +0.44（142条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.23 vs 20日均线 $227.08"
+     "note": "现价 $216.70 vs 20日均线 $227.05"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.0,
-   "ma20": 227.08,
-   "as_of": "2026-10-20T16:06:29.843765+00:00"
+   "implied_upside_pct": 45.4,
+   "ma20": 227.05,
+   "as_of": "2026-10-20T16:21:28.843866+00:00"
   },
-  "pe_ttm": 27.6,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.0%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.5,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "5def0f6ec78f",
+   "title": "AWS Takes Aim at Nvidia’s PyTorch Advantage While Nvidia Expands Open-Weight Nemotron Models for Agents - AI Insider",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZWo4LTRpaWpNNlAtOGxmT0JiVTk4QUMtdVhQVDBhWTJCalFjS3NzenBac1NhSHpPVkR4VjlDbWM2VjN1TFd1OC1vTEdDcGdrMGxIYzNyOWo4cjQ1Wjd1MHZSRG1qNVphOHhGTkJaZHo5N0tWQVdDMUlyQ1VtUUxDQ1I4dkFuQjZuX3RUeDhvZ2E4TXI5U1FIbzRRckFvNnp0MXgxUlpKbWEzaDBmQWJjTVBZY2xWYW5Jb1EzeE5TRFIzbTl3LVJ4NGVxd2docFJrLU9ZS2xFMA",
+   "source": "AI Insider",
+   "published_at": "2026-10-20T16:10:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "AI Insider",
+     "published_at": "2026-10-20T16:10:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZWo4LTRpaWpNNlAtOGxmT0JiVTk4QUMtdVhQVDBhWTJCalFjS3NzenBac1NhSHpPVkR4VjlDbWM2VjN1TFd1OC1vTEdDcGdrMGxIYzNyOWo4cjQ1Wjd1MHZSRG1qNVphOHhGTkJaZHo5N0tWQVdDMUlyQ1VtUUxDQ1I4dkFuQjZuX3RUeDhvZ2E4TXI5U1FIbzRRckFvNnp0MXgxUlpKbWEzaDBmQWJjTVBZY2xWYW5Jb1EzeE5TRFIzbTl3LVJ4NGVxd2docFJrLU9ZS2xFMA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "9bc9bd82ca96",
+   "title": "奔驰和英伟达深化战略合作推动下一代辅助驾驶系统的开发- nVIDIA - cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ORjJPWEt4bG9IdjJPb3laNlhBWkROUHBaZGpKTEtTenJWNlNaY1JIYk1JT1ZzRTF6N2lKZ3pkbi1vMEdIYTBEenUxNFhlemt5bVlFUW93S3VDd0R5ZWJNaw",
+   "source": "cnBeta.COM",
+   "published_at": "2026-10-20T16:09:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-20T16:09:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ORjJPWEt4bG9IdjJPb3laNlhBWkROUHBaZGpKTEtTenJWNlNaY1JIYk1JT1ZzRTF6N2lKZ3pkbi1vMEdIYTBEenUxNFhlemt5bVlFUW93S3VDd0R5ZWJNaw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "861a048d66b9",
    "title": "Nvidia Stocks Fall Although Germany Opens a New Industrial AI Pa - GuruFocus",
@@ -182,26 +216,6 @@
    "sentiment": 1
   },
   {
-   "id": "6dd411aa8fe5",
-   "title": "Mercedes-Benz and Nvidia extend strategic technology partnership - WardsAuto",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUVfMDlSMTQtVWVubHVmdGNnQnBKQl9ZdktpT05WR1pvSWJDRlZGSXd5VVBNeUNGZm1ienRkcExpcXNpVGE0ZWhQQ2FhTlVHdEdodHUtbFBrWjliTDBzMTJTWkhQZFFGSmxBd1RKZ3J5b3ZLT1RnQW91ckNEQW1QN3g4UTZQTEl6bXk0TldONENtMFY5QV9zNGRKZWJLd3ZYcU5TSQ",
-   "source": "WardsAuto",
-   "published_at": "2026-10-20T15:34:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WardsAuto",
-     "published_at": "2026-10-20T15:34:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUVfMDlSMTQtVWVubHVmdGNnQnBKQl9ZdktpT05WR1pvSWJDRlZGSXd5VVBNeUNGZm1ienRkcExpcXNpVGE0ZWhQQ2FhTlVHdEdodHUtbFBrWjliTDBzMTJTWkhQZFFGSmxBd1RKZ3J5b3ZLT1RnQW91ckNEQW1QN3g4UTZQTEl6bXk0TldONENtMFY5QV9zNGRKZWJLd3ZYcU5TSQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "梅赛德斯与英伟达延续战略合作",
-   "title_zh": "梅赛德斯-奔驰与英伟达延长战略技术合作",
-   "sentiment": 1
-  },
-  {
    "id": "367678b3846e",
    "title": "英伟达新突破：用8192块GPU 刻下容错量子计算模拟里程碑 - 驱动之家",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QTk8tZFp2V0piXzZnMGV5RFYtZ0ZsaU83bVRRdG1SamYzTXZLcHRrR2JiejBPOXpUQ1cxLWcyYVpwVnZhMlpROTNoMXlqblNNSWZ1VVZEVkc",
@@ -219,6 +233,31 @@
    "session": "盘中",
    "zh_summary": "8192块GPU实现容错量子计算模拟里程碑",
    "title_zh": "英伟达新突破：用8192块GPU 刻下容错量子计算模拟里程碑",
+   "sentiment": 1
+  },
+  {
+   "id": "6dd411aa8fe5",
+   "title": "Mercedes-Benz and Nvidia extend strategic technology partnership - Yahoo Autos",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNE9LeTVTLVB6Qk1xWDFEeXlVajQtd0pUeHRiUWRXRG9xUGJXUDZlektNSzNVUXNJRVByRm5aWlZyYjgtb1EwbzlJMElxd196VHRfTnQzcWU0OEJnbU54QzVSY3E5VzRveGRDLXNtSG9rbTA1Rm41bDc5MEN6UG1qMXRTRUhCLVBLZFcwd0ZvaHBUdWNfR1ZkSzhoYy1MLV91aGEyUXdRVQ",
+   "source": "Yahoo Autos",
+   "published_at": "2026-10-20T15:22:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Autos",
+     "published_at": "2026-10-20T15:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNE9LeTVTLVB6Qk1xWDFEeXlVajQtd0pUeHRiUWRXRG9xUGJXUDZlektNSzNVUXNJRVByRm5aWlZyYjgtb1EwbzlJMElxd196VHRfTnQzcWU0OEJnbU54QzVSY3E5VzRveGRDLXNtSG9rbTA1Rm41bDc5MEN6UG1qMXRTRUhCLVBLZFcwd0ZvaHBUdWNfR1ZkSzhoYy1MLV91aGEyUXdRVQ"
+    },
+    {
+     "name": "WardsAuto",
+     "published_at": "2026-10-20T15:34:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUVfMDlSMTQtVWVubHVmdGNnQnBKQl9ZdktpT05WR1pvSWJDRlZGSXd5VVBNeUNGZm1ienRkcExpcXNpVGE0ZWhQQ2FhTlVHdEdodHUtbFBrWjliTDBzMTJTWkhQZFFGSmxBd1RKZ3J5b3ZLT1RnQW91ckNEQW1QN3g4UTZQTEl6bXk0TldONENtMFY5QV9zNGRKZWJLd3ZYcU5TSQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "梅赛德斯与英伟达延续战略合作",
+   "title_zh": "梅赛德斯-奔驰与英伟达延长战略技术合作",
    "sentiment": 1
   },
   {
@@ -247,7 +286,7 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ETk1iLS1mMDhGVDg4dC1kUVJITnItYllWM2xxRUlIZnVKQUZYNVVINnpFUmg1cEJET0FjR1d5NUZmLXAwT1dyVg",
    "source": "凤凰网",
    "published_at": "2026-10-20T15:16:12+00:00",
-   "outlets_count": 2,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "凤凰网",
@@ -258,13 +297,28 @@
      "name": "搜狐",
      "published_at": "2026-10-20T15:34:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRk9jT0ZzN2hPbzNhVlVtRmpaTW1wY3RlZy1UMXJNVlNtandDLWgxb0FZN05DaFlWSkhvbjVwdEtaa01QOFFfZHMtTl9nWUlGcGdrWUFLeWd0X1FuVVJVUWhzeXBxVTY4ZnJiNUhjV3RHdG5XNV9wQW1KRHZBYXdMMWJDS0lXR0lfczNtZw"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-20T15:16:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PdnhYcWZaTHJfVnNWNDd0bHdFU19aV05mV2p4SlM0aW5sYmVLNGl0bjFWYThFbzhFQ2ZQVWtqVmZuVHN3SlJFb1VwMXI"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-20T15:21:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlaVVDWllNSkQtUUNPdEE1VDBiY0YxbGVOM2tWbFVYaDI2UlZmd3pqSVFvWkdZY3ZyT1hCM1NtOXZpWFNVRXYyNXdrVEY4VGoyY0JMZUxPR09iUXlsOVkwbndWTkh2akYyYkJZLXMteGJ4TDFBYm5lQmVVaHI"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "黄仁勋敦促欧洲各国加速拥抱AI",
    "title_zh": "英伟达黄仁勋劝诫欧洲各国：别再对AI过度犹疑，否则将被时代甩在身后 - 搜狐",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.06,
+    "window_h": 1.0
+   }
   },
   {
    "id": "15964a7a588b",
@@ -6664,51 +6718,6 @@
    "zh_summary": "英伟达发布开源模型，支持企业和PC的AI代理",
    "title_zh": "英伟达发布新开源模型，用于企业和PC上的智能体",
    "sentiment": 1
-  },
-  {
-   "id": "d8502c23693c",
-   "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUGVNVWtyU1BHU0pGZFJTZk9RV3NHOXBoSHVqaHVEeXN1TEJveTNIVzQ4eGkxZ2RWbER1clItSk16ODNaVnBFbWhKamR1RURGdG90X3F0ZEF2bko3SW5mUGxjZzBKVm50UFI5eUp2ampsV08ySWlMUEZyQmRUd1M1NF91UGJoZWxiVmR5NGRCMmNNM0V2R3pLMVhBT05EbmRjY0dxMXlSNklIVE9xeG5DQWNPcjVXY1ZBRTBrVU9RMTNPaVJOUHpjS2RrZ3huLXlZa2c",
-   "source": "Reuters",
-   "published_at": "2026-10-19T15:36:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-19T15:36:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUGVNVWtyU1BHU0pGZFJTZk9RV3NHOXBoSHVqaHVEeXN1TEJveTNIVzQ4eGkxZ2RWbER1clItSk16ODNaVnBFbWhKamR1RURGdG90X3F0ZEF2bko3SW5mUGxjZzBKVm50UFI5eUp2ampsV08ySWlMUEZyQmRUd1M1NF91UGJoZWxiVmR5NGRCMmNNM0V2R3pLMVhBT05EbmRjY0dxMXlSNklIVE9xeG5DQWNPcjVXY1ZBRTBrVU9RMTNPaVJOUHpjS2RrZ3huLXlZa2c"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "亚马逊AI芯片兼容主流语言挑战英伟达",
-   "title_zh": "亚马逊称其AI芯片兼容主流编程语言，挑战英伟达",
-   "sentiment": -1
-  },
-  {
-   "id": "adcc8bef58a2",
-   "title": "Samsung Makes Unusual Move for Nvidia Chips - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWm9zeXV2U3hyUVBzNzlCTEtkS0UtLVljSTRLeUowN1FGVHFCeU9oUVFfYV9leVpaOUR5czJTOXJWbk9wYkdKaWdLanR5UzlJMW5zT2lyN1dCc21YNG1TTEdsbkI1eU9NU0hFYm1EX2o1T2NQUWhhS2hjeVFjRFVKOG85RWpITGVqNmh1SHl6ZVdUVWFBMXB5OUNyX1FOQQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T15:34:13+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T15:34:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWm9zeXV2U3hyUVBzNzlCTEtkS0UtLVljSTRLeUowN1FGVHFCeU9oUVFfYV9leVpaOUR5czJTOXJWbk9wYkdKaWdLanR5UzlJMW5zT2lyN1dCc21YNG1TTEdsbkI1eU9NU0hFYm1EX2o1T2NQUWhhS2hjeVFjRFVKOG85RWpITGVqNmh1SHl6ZVdUVWFBMXB5OUNyX1FOQQ"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-19T15:34:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZjN1eUVHVVJjeU9oTWxuZ3pQVGpHdzVYaEh6MzV4cmp3ZDhGUmNqZXEtUVYzN0QzdWpTb3Q4V1JBNHRKQmhXSWNMMlctRXlmZk5Md2g4WlN5RUN1cmJZcEl5Mmh3aVVTa1dHRWt1WHNqdUl4RkFQck1EeE9sbW1hSDdCR2xYdDlWbXgtbkxXRkVGa2NOSGVmZEIxdmh3d0lSM0FzcEF3"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "三星为英伟达芯片采取不同寻常举措",
-   "title_zh": "三星为英伟达芯片采取不同寻常的举措",
-   "sentiment": 0
   }
  ]
 }
