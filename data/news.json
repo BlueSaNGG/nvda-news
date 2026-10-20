@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T09:21:27.299580+00:00",
+ "updated_at": "2026-10-20T09:36:26.676123+00:00",
  "market": {
   "price": 217.09,
   "change_pct": 1.38,
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.51,
-   "count": 39
+   "avg": 0.55,
+   "count": 42
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.51（39条已评分）"
+     "note": "今日新闻情绪 +0.55（42条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.1,
    "ma20": 227.66,
-   "as_of": "2026-10-20T09:21:27.296449+00:00"
+   "as_of": "2026-10-20T09:36:26.666148+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d1af7b849970",
+   "title": "DeepSeek开源推理框架DeepInfer，兼容英伟达与昇腾，为V4.1 Flash提供高吞吐低延迟服务 - 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKYjZrNXFub1pXNENZeWRkbTlQQjUzdlFQQWJyLS1kQ1pIOXlXUFcyX3Q3V0R3NEFnS2hXVjVXMURpVnZoTWh2N1hjMzFfeG5aQ3c",
+   "source": "凤凰网",
+   "published_at": "2026-10-20T09:19:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-20T09:19:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKYjZrNXFub1pXNENZeWRkbTlQQjUzdlFQQWJyLS1kQ1pIOXlXUFcyX3Q3V0R3NEFnS2hXVjVXMURpVnZoTWh2N1hjMzFfeG5aQ3c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "2dd487c62acd",
    "title": "英伟达概念板块10月20日涨0.84%，奥比中光领涨，主力资金净流出1.36亿元 - 搜狐",
@@ -87,12 +104,17 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw",
    "source": "Reuters",
    "published_at": "2026-10-20T09:06:58+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Reuters",
      "published_at": "2026-10-20T09:06:58+00:00",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw"
+    },
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-20T09:25:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVNtemVIQmdVeWtDTkozZzJtMUhPdTQwVFQ2WmVnZ2RjcjBfa1o2VjhIV0dfZGVqT3g3cWJzVm50eE1uQk9QeEdnbXo4anc5Z192SmpLaWF0VEExR3dOOXRuMWF3azBPY0plSjNlMlQyQnV5WDQ4Y05YbU5rM1A3MzNFaVFXajVtUGcxRXNPODl6ZFhoNFVqei1PeXJ1bmNIT2RaNWlrZU84SVVQRktyd1dkWENLQzVwa3JySy1od1NMczg5RHc"
     }
    ],
    "category": "产品技术",
@@ -185,6 +207,40 @@
    "zh_summary": "德国携英伟达投逾400亿争欧盟AI主导",
    "title_zh": "德国找上英伟达 砸逾400亿欲成欧盟AI霸主 - 马来西亚东方日报",
    "sentiment": 1
+  },
+  {
+   "id": "de7af2c13bd3",
+   "title": "Trefis flags memory costs for Nvidia stock - ad-hoc-news.de",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFpKSFQ5dGZFWmJiUW5aNnkzRkNKREcxLUgyUW41Q3FpQUItcUdBeFVUYWF1eUxkc0xQTmpWMjVqSkEtZzdaNkVXdUtFV1FieXhhd2dmSGJSLUdnbUpXWUdqWHNXaGFIczNwMnBkNU0yMVlkNElsNVMxZWJaTHRHa1ZKSUJUR2YwUjJOQW8zeEFhNC01NTBkd1JrYUdTc09oUGo5blF5X3k",
+   "source": "ad-hoc-news.de",
+   "published_at": "2026-10-20T08:46:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "ad-hoc-news.de",
+     "published_at": "2026-10-20T08:46:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFpKSFQ5dGZFWmJiUW5aNnkzRkNKREcxLUgyUW41Q3FpQUItcUdBeFVUYWF1eUxkc0xQTmpWMjVqSkEtZzdaNkVXdUtFV1FieXhhd2dmSGJSLUdnbUpXWUdqWHNXaGFIczNwMnBkNU0yMVlkNElsNVMxZWJaTHRHa1ZKSUJUR2YwUjJOQW8zeEFhNC01NTBkd1JrYUdTc09oUGo5blF5X3k"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "c53999877ba6",
+   "title": "英伟达百亿美元投资落子德国，黄仁勋：昔日科技强国掉队，让我十分痛心 - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yTnE5YzVuVkVEUWJMSm1pVk92SGpCWWNJTENIWVlPbVppXzJtcURLU0twVkFQcW01OE5RVDJzZktCZTZfbHFVeUJ6VDZkdTlSTEJ3",
+   "source": "华尔街见闻",
+   "published_at": "2026-10-20T08:43:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-20T08:43:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yTnE5YzVuVkVEUWJMSm1pVk92SGpCWWNJTENIWVlPbVppXzJtcURLU0twVkFQcW01OE5RVDJzZktCZTZfbHFVeUJ6VDZkdTlSTEJ3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "0e9a3317a86e",
@@ -417,12 +473,17 @@
    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOdUYxS0h0aE5XSTJrVWhrTmJreHl1VXVSYU0yN1lmWm0zcTdZam83MlBzWmNuNzZNd0JBU0FDRDBOY0JRMExMd25JLVdTTExnQlhDNU1kU3hjMXpqWGRYWGFuSWUtSXlpMGFvVGlsd081aklVZVY4bDYyRGtBMW9wNzFpR2prLWpoQUg0WkRPcm8xUVR3MFZMRXVUZTJSR0o2Q21KWWtPaHdobjVqSUlwelBldU44MzllNXNMd1ZEaFNBdHJ1NjJ6WURCY0ZWeHNzSjhtOTRDTjZYVUxFU2xlRkNIOVVnbkdWOC1VamdyQno5LVNzWW9TbUZNb1BCcE5hWkRxMmdQYnRyUXRWQ2JLSEpjT3VxanBuNkMzWEdHYw",
    "source": "Benzinga",
    "published_at": "2026-10-20T07:25:48+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Benzinga",
      "published_at": "2026-10-20T07:25:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOdUYxS0h0aE5XSTJrVWhrTmJreHl1VXVSYU0yN1lmWm0zcTdZam83MlBzWmNuNzZNd0JBU0FDRDBOY0JRMExMd25JLVdTTExnQlhDNU1kU3hjMXpqWGRYWGFuSWUtSXlpMGFvVGlsd081aklVZVY4bDYyRGtBMW9wNzFpR2prLWpoQUg0WkRPcm8xUVR3MFZMRXVUZTJSR0o2Q21KWWtPaHdobjVqSUlwelBldU44MzllNXNMd1ZEaFNBdHJ1NjJ6WURCY0ZWeHNzSjhtOTRDTjZYVUxFU2xlRkNIOVVnbkdWOC1VamdyQno5LVNzWW9TbUZNb1BCcE5hWkRxMmdQYnRyUXRWQ2JLSEpjT3VxanBuNkMzWEdHYw"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-20T07:25:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQWGdIV3Z4R3AwOW4xeDhSbWZYNW1LX0Noak9ZWWgyX2M1QXhaTTZDeFlNR3JEZmpEYWtRUGRKTVROS25HdUk0UzBhdmFyNWFNai0tMUlULUY5aXR1S2JEeWNQekZyRkJJcnh0NGxkMkcxb0I4cnd4YWdSaDZ0VHQtOGgzbEhZeWhHNHpEVnYyRUVleTRUOUF4d24wN01veGREbWNqS3FVTGNmbVV1MnNNRWhNZ1h5d2FiLWh6ZjZoTnJmaUlNMUx4Vl91S0Z2TDNnNE9jOVhEamg1aFRpaUxzeUpNbjZuOFpIVXNUNFozNUxia3RseElsbUl2UE1hcF95MnUza0VFM2pJLVM0Y01CU0JYVkphVFQ5WEltWVZhVjY3QQ"
     }
    ],
    "category": "其他",
@@ -1255,6 +1316,23 @@
    "zh_summary": "GTC大会聚焦机器人，机器人ETF涨超3%",
    "title_zh": "英伟达GTC大会聚焦机器人赛道，机器人ETF南方大涨超3% - 21财经",
    "sentiment": 1
+  },
+  {
+   "id": "42079dd289c6",
+   "title": "炸锅！英伟达8192块 GPU 完成重大模拟！量子计算物理比特降低 90% - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTERodFc0NG9uOEQxR0JEWlB1QXIzaTUwUEFqcy1JY0xHLWhEdGdkcXQ0Y3ZlTmRDcmJlUWJIN2pLLXcxVThYQjFYcDZ2V3dSSGtjMFNnMVJVeWhXdTBSY3h3SU0zc2RQTFBVVzlCa3F4NHlEZllxRnFSS2g4NmNFbnNEaEJDSFQwTU9aUw",
+   "source": "搜狐",
+   "published_at": "2026-10-20T03:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-20T03:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTERodFc0NG9uOEQxR0JEWlB1QXIzaTUwUEFqcy1JY0xHLWhEdGdkcXQ0Y3ZlTmRDcmJlUWJIN2pLLXcxVThYQjFYcDZ2V3dSSGtjMFNnMVJVeWhXdTBSY3h3SU0zc2RQTFBVVzlCa3F4NHlEZllxRnFSS2g4NmNFbnNEaEJDSFQwTU9aUw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "fe6aaf6b364a",
@@ -6571,91 +6649,6 @@
    "zh_summary": "大普微涨停，英伟达概念股受追捧",
    "title_zh": "10月19日大普微涨停：闪存，英伟达概念，云计算数据中心概念热股_个股掘金 - 证券之星",
    "sentiment": 0
-  },
-  {
-   "id": "c2dff7e6a646",
-   "title": "Samsung taps rival TSMC's 3nm lines for Nvidia's custom HBM base die - Dealroom",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1FydGNTY2RTM1NJQTFFTWpLUmd0d19XYTBYNGp6VmNDT3UzNkpZWHFkdjNEWHZEMkhycXllMUdIVER6d3BILXdfb2JnUVVuRmFKUF9PTW96V3ZEMkF0UWJHT1pqSWVvbUFPY3J2aUN0WW1pT0ZQOGlRbHRuOUhqcFpYSXVtNDNmVVYzNUlmQzZtTFd6Z3gxcVd4SXZwY1NMcnhvbw",
-   "source": "Dealroom",
-   "published_at": "2026-10-19T08:20:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Dealroom",
-     "published_at": "2026-10-19T08:20:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1FydGNTY2RTM1NJQTFFTWpLUmd0d19XYTBYNGp6VmNDT3UzNkpZWHFkdjNEWHZEMkhycXllMUdIVER6d3BILXdfb2JnUVVuRmFKUF9PTW96V3ZEMkF0UWJHT1pqSWVvbUFPY3J2aUN0WW1pT0ZQOGlRbHRuOUhqcFpYSXVtNDNmVVYzNUlmQzZtTFd6Z3gxcVd4SXZwY1NMcnhvbw"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "三星用台积电3nm为英伟达定制HBM基底",
-   "title_zh": "三星为英伟达定制HBM基底芯片，采用台积电3nm工艺",
-   "sentiment": 1
-  },
-  {
-   "id": "e469dd7f1255",
-   "title": "桑坦德银行与英伟达签署为期三年的合作框架，以深化人工智能领域的合作 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYk5waHBGYUxQUkxtejVJQTEyUF84LTVBY0VSNUU0UzNjNnJfOS1hMUtrcHRjQ3VDaVBBbDZhNUc2NS16ejB5aVVzSEIxRkR0cXBNLW9QVTR1ZkdTODRPV3hsd2w1d25YTDlLUmtOZ1BZelV5UFRnRmQ5bjI4bnJjMHhBeTNSZXV4Q3NaRV9pQUFyS1FVcF9xTEp5MW5ZWDhjUDV5VTlkX0NZN19xangw",
-   "source": "Moomoo",
-   "published_at": "2026-10-19T08:15:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-19T08:15:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYk5waHBGYUxQUkxtejVJQTEyUF84LTVBY0VSNUU0UzNjNnJfOS1hMUtrcHRjQ3VDaVBBbDZhNUc2NS16ejB5aVVzSEIxRkR0cXBNLW9QVTR1ZkdTODRPV3hsd2w1d25YTDlLUmtOZ1BZelV5UFRnRmQ5bjI4bnJjMHhBeTNSZXV4Q3NaRV9pQUFyS1FVcF9xTEp5MW5ZWDhjUDV5VTlkX0NZN19xangw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "桑坦德银行签三年AI合作框架",
-   "title_zh": "桑坦德银行与英伟达签署为期三年的合作框架，以深化人工智能领域的合作",
-   "sentiment": 1
-  },
-  {
-   "id": "4d318d252100",
-   "title": "Santander Signs Three-year Framework with Nvidia to Extend AI Collaboration - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa2NZX0ZpMkQxQ3kyVzlrNktVMGd4UDNDNFZFMlhYanJGdHdIbGZiWk84UUZISGxHaGNuWWVmdDU4dE5DNFlQZ2MtYjJLamo1U2c3NENMU3FYYXdTZXdLVlBWU3paLXhXeE84bEpQNHRUbU5uV2lLTjhJOEFLbnBDb1NrTENxYU54Qkx1RG82U1ZVRnRSU0VIN0tqXzZDSTJVaGZxQUVvc29GeDhjZGdSSVYxOHFLcjdiMG4waVNmOGtzS2VlbjlV",
-   "source": "marketscreener.com",
-   "published_at": "2026-10-19T08:09:44+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "marketscreener.com",
-     "published_at": "2026-10-19T08:09:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa2NZX0ZpMkQxQ3kyVzlrNktVMGd4UDNDNFZFMlhYanJGdHdIbGZiWk84UUZISGxHaGNuWWVmdDU4dE5DNFlQZ2MtYjJLamo1U2c3NENMU3FYYXdTZXdLVlBWU3paLXhXeE84bEpQNHRUbU5uV2lLTjhJOEFLbnBDb1NrTENxYU54Qkx1RG82U1ZVRnRSU0VIN0tqXzZDSTJVaGZxQUVvc29GeDhjZGdSSVYxOHFLcjdiMG4waVNmOGtzS2VlbjlV"
-    },
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-19T08:18:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcU5GT0FFdnROcUkyTmFJbndwdnp2Q0tRTnR0S0pqdnd2M2RBRUxmZWFoR0JzQTluNDZ3clF6cjIyeDVXSTNyRnVvcm9oQ3c1THdCYkZrbVM5RW1QclY1VUdEMnJqNFFETHlKWjBtTEpKZzEzakZBNk5WTXp2dWZMQzVVS2hTTVdtanBEY3B6TnpkUC1fNnlBRXBGc0c1a09jak8zNEk5M2o"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "桑坦德银行签三年AI合作框架",
-   "title_zh": "桑坦德银行与英伟达签署三年合作框架，深化AI合作",
-   "sentiment": 1
-  },
-  {
-   "id": "9d3cc04f9a8c",
-   "title": "Testing Support Level, NVDA Stock Drops: What to Know - JournalArta",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDdfbDE3V0JsWWxnM1pGV2hWOEtlb0FtRTFiaTc3WDNJenE4Q01uN1VmYUl5YjVDNXY0ZmF2X2RrVllSZm9WRHdmR0RMLTRFbzlLYzlPWmE3b2hEeWhzUHdwbl96ZzV5N3BOLWl0ZmdLQzdGb255NWc0bGRjU3BMQTBUTnBRSFV0VXdaSXF2SThSVmhFWUM0",
-   "source": "JournalArta",
-   "published_at": "2026-10-19T08:02:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "JournalArta",
-     "published_at": "2026-10-19T08:02:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDdfbDE3V0JsWWxnM1pGV2hWOEtlb0FtRTFiaTc3WDNJenE4Q01uN1VmYUl5YjVDNXY0ZmF2X2RrVllSZm9WRHdmR0RMLTRFbzlLYzlPWmE3b2hEeWhzUHdwbl96ZzV5N3BOLWl0ZmdLQzdGb255NWc0bGRjU3BMQTBUTnBRSFV0VXdaSXF2SThSVmhFWUM0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "NVDA股价下跌，正测试支撑位",
-   "title_zh": "NVDA股价下跌测试支撑位：需要知道什么",
-   "sentiment": -1
   }
  ]
 }
