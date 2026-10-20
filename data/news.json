@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T19:06:25.303155+00:00",
+ "updated_at": "2026-10-20T19:21:27.402107+00:00",
  "market": {
-  "price": 216.8,
-  "change_pct": -0.13,
+  "price": 216.55,
+  "change_pct": -0.25,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.45,
-   "count": 165
+   "avg": 0.46,
+   "count": 168
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 70% 分位"
+     "note": "现价处于52周区间 69% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.3%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.45（165条已评分）"
+     "note": "今日新闻情绪 +0.46（168条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.80 vs 20日均线 $227.06"
+     "note": "现价 $216.55 vs 20日均线 $227.05"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 70,
+   "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.3,
-   "ma20": 227.06,
-   "as_of": "2026-10-20T19:06:25.289125+00:00"
+   "implied_upside_pct": 45.5,
+   "ma20": 227.05,
+   "as_of": "2026-10-20T19:21:27.381257+00:00"
   },
-  "pe_ttm": 27.6,
+  "pe_ttm": 27.5,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.3%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b21487a750a0",
+   "title": "Google Launches PyTorch Tool to Break Nvidia's GPU Lock-In - The Tech Buzz",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXRGcmVfOWdwZVZVZVJHOTRqanJUZk5VZnJlSlhIZlB1X3ZyNnRsZ0Nva3JSb1lQanVUQjF1MlU1OHU2NTg5YkVBdWozeEI5MXl1TVp5cUt5V3FPRHlIVE5lY256YkV2VlhoWm9DZk1RQ19FU3BNNEh0ZHVHdV9USzc2b05FX0luckVnWW5XWXF6MzBONkE",
+   "source": "The Tech Buzz",
+   "published_at": "2026-10-20T19:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Tech Buzz",
+     "published_at": "2026-10-20T19:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXRGcmVfOWdwZVZVZVJHOTRqanJUZk5VZnJlSlhIZlB1X3ZyNnRsZ0Nva3JSb1lQanVUQjF1MlU1OHU2NTg5YkVBdWozeEI5MXl1TVp5cUt5V3FPRHlIVE5lY256YkV2VlhoWm9DZk1RQ19FU3BNNEh0ZHVHdV9USzc2b05FX0luckVnWW5XWXF6MzBONkE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "5d15a9773f24",
    "title": "Breakingviews - COMMENTARY: Nvidia emerges as the central bank of AI - Reuters",
@@ -127,12 +144,17 @@
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3daazVkZ09LWFR6Y0dUbG9BUHBvMlU4a0UzVWlEazZ6RHc5cDBBRUxyTTEwdU1FdjdKT012Z0JkSWJ5SzBRM3RGWnRNblpQVEhGQXpRZ09McU4zYS0wLXRzYkJMZjBBSWU1SS1OV21EUU5XS0ZoUlNZNEhVUXFCSTAtUC1FUDRxbF8zVDZLclFvREE",
    "source": "Business Insider",
    "published_at": "2026-10-20T18:29:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Business Insider",
      "published_at": "2026-10-20T18:29:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3daazVkZ09LWFR6Y0dUbG9BUHBvMlU4a0UzVWlEazZ6RHc5cDBBRUxyTTEwdU1FdjdKT012Z0JkSWJ5SzBRM3RGWnRNblpQVEhGQXpRZ09McU4zYS0wLXRzYkJMZjBBSWU1SS1OV21EUU5XS0ZoUlNZNEhVUXFCSTAtUC1FUDRxbF8zVDZLclFvREE"
+    },
+    {
+     "name": "Newsquawk",
+     "published_at": "2026-10-20T18:51:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTWhkUUEyTUU3UjRIVHdyZWJIU0tISDdIZWZsVmViUlVNWHlqQnJZT3BkX0oyNzZldGNSRnROTEttRFRZOE9yWk5NSVI1a3ZBZmJqVmhjalAtSkdTZGJRenN0NC03ZTd5NzE1d3J4QV8zQ2VnMzdocko1TmdaRjhSY3R0Z29SYlROOF9nUzZSRDdRTDFCSlV4elBobWgxNi1hemd5Z3Yxdk9zUW0xS2Y5X3ROMVBkYnhHd2V0dHhFOG5mMEt4UHc"
     }
    ],
    "category": "其他",
@@ -3113,12 +3135,17 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OdWRIZzRVNUt0Y0xnNGhkOURlMS1LNzhqWV85WmNQOC1wLWtIdFJ4WVdIbm45cVRSY3pLQ05hcC1UdDQwZDJLcW5XR2RBMlhVTXpMLTlYMTZVZnd6R2NLT3hJNkV1XzRqUjZUQkswNVVFYkxUY0E2aw",
    "source": "新浪财经",
    "published_at": "2026-10-20T07:31:47+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-20T07:31:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OdWRIZzRVNUt0Y0xnNGhkOURlMS1LNzhqWV85WmNQOC1wLWtIdFJ4WVdIbm45cVRSY3pLQ05hcC1UdDQwZDJLcW5XR2RBMlhVTXpMLTlYMTZVZnd6R2NLT3hJNkV1XzRqUjZUQkswNVVFYkxUY0E2aw"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-20T19:20:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HYjRmZHNzRWw5Y0lkTVV1SXZ5NE9oLUxLSEVJNTlrYnotT0U2OUIyc1YxbUNpb3RlY2xHc3pBS3gtSGRNUnBVci1OQjlJTTdIRE03dW04ZWJlY2xFZmFXc28ybw"
     }
    ],
    "category": "其他",
@@ -6741,26 +6768,6 @@
    "session": "盘中",
    "zh_summary": "分析师称微软AI芯片远不及英伟达",
    "title_zh": "分析师：微软AI芯片远不及英伟达和谷歌",
-   "sentiment": 1
-  },
-  {
-   "id": "1ee05cb80e66",
-   "title": "Nvidia (NVDA) Stock Price Lags Massive Earnings Growth—A Compelling Value Opportunity - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWtGVi1wUVdnVHBCcFd5WFo4VWRRbWdYYjhjZ0tCaEVmT3M2YzJkMmN6VTJEUzFXdlhEWFhBcVBGMjJ3MFAtNkFMRWtNaHU4YzdiMzRhbm44MXBxcnAzdzlHcFZwSTRrVGRlWmg5ZWFDcVlSSG5qbTVscC1qY21HTm90Vm1SSDh0N0dHVm9TcnVfOXRKZzh5Tw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T17:32:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T17:32:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWtGVi1wUVdnVHBCcFd5WFo4VWRRbWdYYjhjZ0tCaEVmT3M2YzJkMmN6VTJEUzFXdlhEWFhBcVBGMjJ3MFAtNkFMRWtNaHU4YzdiMzRhbm44MXBxcnAzdzlHcFZwSTRrVGRlWmg5ZWFDcVlSSG5qbTVscC1qY21HTm90Vm1SSDh0N0dHVm9TcnVfOXRKZzh5Tw"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "股价涨幅落后盈利增长，被视为价值机会",
-   "title_zh": "NVDA股价涨幅落后于盈利增长，被视为价值机会",
    "sentiment": 1
   }
  ]
