@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T17:21:30.800936+00:00",
+ "updated_at": "2026-10-20T17:36:31.188895+00:00",
  "market": {
-  "price": 217.07,
-  "change_pct": -0.01,
+  "price": 216.99,
+  "change_pct": -0.05,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -25,7 +25,7 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.2%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.07 vs 20日均线 $227.07"
+     "note": "现价 $216.99 vs 20日均线 $227.07"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.1,
+   "implied_upside_pct": 45.2,
    "ma20": 227.07,
-   "as_of": "2026-10-20T17:21:30.790064+00:00"
+   "as_of": "2026-10-20T17:36:31.176892+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "09f81a79da34",
+   "title": "ByteDance, Alibaba and Tencent order Nvidia chips worth $35 billion - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tbEFyVG5DU1FlMGlta2xxNGoyYkVfalJtcHJfUVdYVkNnMjluNVVGLXNmUzBnczVFWGtiUmNKNEhBYjc0NHM4UlVIRXV6cDZ0MW5oUmFXTHltZFRMam9CX3J4YmdYNERKb3VjNlEteVNTSzBD",
+   "source": "Quartz",
+   "published_at": "2026-10-20T17:30:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-20T17:30:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tbEFyVG5DU1FlMGlta2xxNGoyYkVfalJtcHJfUVdYVkNnMjluNVVGLXNmUzBnczVFWGtiUmNKNEhBYjc0NHM4UlVIRXV6cDZ0MW5oUmFXTHltZFRMam9CX3J4YmdYNERKb3VjNlEteVNTSzBD"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "8bc33c6d97c4",
    "title": "英伟达从字节跳动、阿里巴巴和腾讯控股获得超过350亿美元的订单 - Moomoo",
@@ -457,51 +474,6 @@
    "sentiment": 2
   },
   {
-   "id": "bc67872954c9",
-   "title": "英伟达黄仁勋劝诫欧洲各国：别再对AI过度犹疑，否则将被时代甩在身后 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wcVRmT2ZVN0lmXzlQOTI1RExVLUxnaHlOMzV0bmFCbzJSLU9VaE41Nm5XVmFmMzhPZnZ1Q0pMX1NLSnMyZkVCYXVpN2ZzdE5iZGdYUF93NFU2U2RvTnJxYU85YVRFT1RjbE5WbjdmTTY",
-   "source": "手机新浪网",
-   "published_at": "2026-10-20T15:11:28+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-20T15:11:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wcVRmT2ZVN0lmXzlQOTI1RExVLUxnaHlOMzV0bmFCbzJSLU9VaE41Nm5XVmFmMzhPZnZ1Q0pMX1NLSnMyZkVCYXVpN2ZzdE5iZGdYUF93NFU2U2RvTnJxYU85YVRFT1RjbE5WbjdmTTY"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-20T15:16:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ETk1iLS1mMDhGVDg4dC1kUVJITnItYllWM2xxRUlIZnVKQUZYNVVINnpFUmg1cEJET0FjR1d5NUZmLXAwT1dyVg"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-20T15:34:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRk9jT0ZzN2hPbzNhVlVtRmpaTW1wY3RlZy1UMXJNVlNtandDLWgxb0FZN05DaFlWSkhvbjVwdEtaa01QOFFfZHMtTl9nWUlGcGdrWUFLeWd0X1FuVVJVUWhzeXBxVTY4ZnJiNUhjV3RHdG5XNV9wQW1KRHZBYXdMMWJDS0lXR0lfczNtZw"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-20T15:16:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PdnhYcWZaTHJfVnNWNDd0bHdFU19aV05mV2p4SlM0aW5sYmVLNGl0bjFWYThFbzhFQ2ZQVWtqVmZuVHN3SlJFb1VwMXI"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-20T15:21:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlaVVDWllNSkQtUUNPdEE1VDBiY0YxbGVOM2tWbFVYaDI2UlZmd3pqSVFvWkdZY3ZyT1hCM1NtOXZpWFNVRXYyNXdrVEY4VGoyY0JMZUxPR09iUXlsOVkwbndWTkh2akYyYkJZLXMteGJ4TDFBYm5lQmVVaHI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "breaking": true,
-   "zh_summary": "黄仁勋敦促欧洲各国加速拥抱AI",
-   "title_zh": "英伟达黄仁勋劝诫欧洲各国：别再对AI过度犹疑，否则将被时代甩在身后 - 搜狐",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.06,
-    "window_h": 1.0
-   }
-  },
-  {
    "id": "a2eefbd6b33c",
    "title": "Nvidia (NVDA) Secures $35B RTX Pro 5500 GPU Orders from Chinese Giants Amid Supply Constraints - GuruFocus",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdlRQYThySVRockZoT0I4R05GYm5OTzI1cUdXWlRrb1NVTzY3T0dLMC05LXE2UXFFS0xnN1ZhQzl4cXEwZTJXSjFReTIzc1REWXNmWlNTQmxaWmVrNHgxMmphVjVvaGIzVG5WeEFYbXU3X1VuRVZOTU1LWHFlRzl0dDJOY3VMSlpXMkg4YXE1WGExcXVyQUw1c2ZMTGNpaWxrdExabXQxS0lrWmJ3MUt6THJWQkg1dW1FcnVjSm41OS00Z3JwbDhrRlVR",
@@ -540,6 +512,23 @@
    "zh_summary": "英伟达DGX Spark低价加速本地推理",
    "title_zh": "英伟达DGX Spark 64GB以低价加速本地AI推理",
    "sentiment": 1
+  },
+  {
+   "id": "1ba04d8f04e7",
+   "title": "Germany and NVIDIA sign industrial AI declaration in Berlin - AI News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODZoenhYRGtDQm4tTlRoMnpKTXRfenM3ODNGS2ZJNjJDdFJXOVFDZDZMVldzU0JMT19PZFFfbFU4WjllcThaN0huX0RhY2NRVUdsMlZROXpldUd5NmVHZlFTMEVlUjd6TmdOR2EweVRkNVlkcGROTXlCMXhDOVdrSkZKTUJMRmNNWjVYVTJwRVgtZzFJZEF4N3lQTTlxZXJSU2VkOGQzRXk",
+   "source": "AI News",
+   "published_at": "2026-10-20T15:02:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "AI News",
+     "published_at": "2026-10-20T15:02:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODZoenhYRGtDQm4tTlRoMnpKTXRfenM3ODNGS2ZJNjJDdFJXOVFDZDZMVldzU0JMT19PZFFfbFU4WjllcThaN0huX0RhY2NRVUdsMlZROXpldUd5NmVHZlFTMEVlUjd6TmdOR2EweVRkNVlkcGROTXlCMXhDOVdrSkZKTUJMRmNNWjVYVTJwRVgtZzFJZEF4N3lQTTlxZXJSU2VkOGQzRXk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "8b45c485670e",
@@ -2535,6 +2524,23 @@
    "sentiment": -1
   },
   {
+   "id": "396520652df9",
+   "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw",
+   "source": "财联社",
+   "published_at": "2026-10-20T08:20:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-20T08:20:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "43b04500ccee",
    "title": "AMEYA360代理 | 罗姆出席英伟达在2026年OCP全球峰会的活动 - 电子工程专辑",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaTEFGa3RjeFlBSVJmakNCT3dfS2ttOWdGSXV5U082Wm9OSVhRZVBpa0NVWDBtVEhPYjJNcjVITWFQMUcwSk5JNlN4aEE0MWE1T3lR",
@@ -4257,6 +4263,55 @@
    "zh_summary": "A股公司称拟购2万英伟达GPU，股价大涨收监管函",
    "title_zh": "A股公司称拟买2万张英伟达GPU引热炒 股价大涨后收监管函 - 驱动之家",
    "sentiment": 0
+  },
+  {
+   "id": "bc67872954c9",
+   "title": "英伟达黄仁勋劝诫欧洲各国：别再对AI过度犹疑，否则将被时代甩在身后 - 雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwenVZOVlDWnlTY1VtT2FyUVJFV0xyZWNSdzhTSTNRcjJPVmFzQWFpTjE3eFh3RU9hRVBCY1d0cDItb3B2QW5aTkN5X040U2Zo",
+   "source": "雪球",
+   "published_at": "2026-10-20T00:40:00+00:00",
+   "outlets_count": 6,
+   "outlets": [
+    {
+     "name": "雪球",
+     "published_at": "2026-10-20T00:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwenVZOVlDWnlTY1VtT2FyUVJFV0xyZWNSdzhTSTNRcjJPVmFzQWFpTjE3eFh3RU9hRVBCY1d0cDItb3B2QW5aTkN5X040U2Zo"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-20T15:11:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wcVRmT2ZVN0lmXzlQOTI1RExVLUxnaHlOMzV0bmFCbzJSLU9VaE41Nm5XVmFmMzhPZnZ1Q0pMX1NLSnMyZkVCYXVpN2ZzdE5iZGdYUF93NFU2U2RvTnJxYU85YVRFT1RjbE5WbjdmTTY"
+    },
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-20T15:16:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ETk1iLS1mMDhGVDg4dC1kUVJITnItYllWM2xxRUlIZnVKQUZYNVVINnpFUmg1cEJET0FjR1d5NUZmLXAwT1dyVg"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-20T15:34:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRk9jT0ZzN2hPbzNhVlVtRmpaTW1wY3RlZy1UMXJNVlNtandDLWgxb0FZN05DaFlWSkhvbjVwdEtaa01QOFFfZHMtTl9nWUlGcGdrWUFLeWd0X1FuVVJVUWhzeXBxVTY4ZnJiNUhjV3RHdG5XNV9wQW1KRHZBYXdMMWJDS0lXR0lfczNtZw"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-20T15:16:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PdnhYcWZaTHJfVnNWNDd0bHdFU19aV05mV2p4SlM0aW5sYmVLNGl0bjFWYThFbzhFQ2ZQVWtqVmZuVHN3SlJFb1VwMXI"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-20T15:21:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlaVVDWllNSkQtUUNPdEE1VDBiY0YxbGVOM2tWbFVYaDI2UlZmd3pqSVFvWkdZY3ZyT1hCM1NtOXZpWFNVRXYyNXdrVEY4VGoyY0JMZUxPR09iUXlsOVkwbndWTkh2akYyYkJZLXMteGJ4TDFBYm5lQmVVaHI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "黄仁勋敦促欧洲各国加速拥抱AI",
+   "title_zh": "英伟达黄仁勋劝诫欧洲各国：别再对AI过度犹疑，否则将被时代甩在身后 - 搜狐",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.06,
+    "window_h": 1.0
+   }
   },
   {
    "id": "842c45e5500c",
@@ -6674,71 +6729,6 @@
    "zh_summary": "Chamath称连谷歌也因英伟达求内存",
    "title_zh": "Chamath：连谷歌都因英伟达而\"乞讨内存\"",
    "sentiment": 1
-  },
-  {
-   "id": "4d6637f6eab5",
-   "title": "Nvidia says the RTX 5090 isn't discontinued, but most listings are over $9,300 - TechSpot",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHozeWhrYk5mWHZ6d3ZvWlk2SDNyN3NTVkNuVXlSMFNzSkFCdnlWb3NJSDU2clNraGhNUWo4VDBDZHVRTVBKQi1faUhMUm5vRzZnbVlBUTUyUUlXVVpjN0VNUU9PQW5CYUYtOTluSEFELWRRbEY0Tm1HdU5rSkp5c2VsQkJxNnpaYW9yWm95NzhqRHNjNGc",
-   "source": "TechSpot",
-   "published_at": "2026-10-19T16:14:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechSpot",
-     "published_at": "2026-10-19T16:14:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHozeWhrYk5mWHZ6d3ZvWlk2SDNyN3NTVkNuVXlSMFNzSkFCdnlWb3NJSDU2clNraGhNUWo4VDBDZHVRTVBKQi1faUhMUm5vRzZnbVlBUTUyUUlXVVpjN0VNUU9PQW5CYUYtOTluSEFELWRRbEY0Tm1HdU5rSkp5c2VsQkJxNnpaYW9yWm95NzhqRHNjNGc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达否认RTX 5090停产",
-   "title_zh": "英伟达称RTX 5090并未停产，但多数售价超9300美元",
-   "sentiment": 0
-  },
-  {
-   "id": "d39f17489f5e",
-   "title": "Jensen Huang Declares NVIDIA Can Win “in the Absence of Any AI Labs” - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2xkS0tSQUpOQi1pNjc1dDhtR3dxUUhJcV84QWYtdG0wUFUxcGs2OE9mQ3lOT0ZFc1pIZ3RNYU5EY2FfWmJYY1NwZ0dkR1R6NFNvUF9aLWw0bTZQc3ZqMDYtdnV6N05yaTBsN2V4ZlhoM3JkVTllR0lFRU5WLThQSXlONng3M21vQ0ZnT1ZoNmFTVDJkTnVHLTEtWXc",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T16:12:37+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T16:12:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2xkS0tSQUpOQi1pNjc1dDhtR3dxUUhJcV84QWYtdG0wUFUxcGs2OE9mQ3lOT0ZFc1pIZ3RNYU5EY2FfWmJYY1NwZ0dkR1R6NFNvUF9aLWw0bTZQc3ZqMDYtdnV6N05yaTBsN2V4ZlhoM3JkVTllR0lFRU5WLThQSXlONng3M21vQ0ZnT1ZoNmFTVDJkTnVHLTEtWXc"
-    },
-    {
-     "name": "TIKR.com",
-     "published_at": "2026-10-19T16:24:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEU3MEZYTTVkRExVUVp5dXUxVWhSd1hIUS15MW53cW04Y1F1WE1JalRmZ0ZLVjNBMmRod291YkFCbTBpNFROdlFUanp6by1TWk9pRXhLU0ZXSE1BZnBIdGlPWjRPX3M2bnFJaWhVNkNLVE1BOHp0YmZBOWhYN21mYjlHUDZUV0RnRTVCRTFQalUtdC0xVDMw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋称英伟达无AI实验室也能赢",
-   "title_zh": "黄仁勋称英伟达无需AI实验室也能获胜",
-   "sentiment": 1
-  },
-  {
-   "id": "3c1dc3c98cfc",
-   "title": "What Is Nvidia (NVDA) Signaling With New AI Chip And Space Computing Deals? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2dpOGYtRVpzWWYzZDdveWdwZ3hHbUJDNVRQb2RQemxsX1ZIemxFRkV0Y3l4Ry1BNDJpT3lpSloyRGtQQktCQWExRFJrY1lOS05ZblFlZVFHX0R4Yzd4Yk5HU3ZoNWl4dVZXTEpHQlZNOFg3ell6SWJoRG14TGZveThrSEpnQ0h5eHBhamt1Nnl0LVRsWnZrRQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T16:11:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T16:11:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS2dpOGYtRVpzWWYzZDdveWdwZ3hHbUJDNVRQb2RQemxsX1ZIemxFRkV0Y3l4Ry1BNDJpT3lpSloyRGtQQktCQWExRFJrY1lOS05ZblFlZVFHX0R4Yzd4Yk5HU3ZoNWl4dVZXTEpHQlZNOFg3ell6SWJoRG14TGZveThrSEpnQ0h5eHBhamt1Nnl0LVRsWnZrRQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达新AI芯片及太空计算交易受关注",
-   "title_zh": "英伟达新AI芯片和太空计算交易释放什么信号",
-   "sentiment": 0
   }
  ]
 }
