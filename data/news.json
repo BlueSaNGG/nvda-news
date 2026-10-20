@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T13:06:31.342373+00:00",
+ "updated_at": "2026-10-20T13:21:27.935022+00:00",
  "market": {
   "price": 217.09,
   "change_pct": 1.38,
@@ -10,12 +10,12 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.48,
-   "count": 84
+   "avg": 0.5,
+   "count": 88
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.48（84条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（88条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.1,
    "ma20": 227.66,
-   "as_of": "2026-10-20T13:06:31.272246+00:00"
+   "as_of": "2026-10-20T13:21:27.923329+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "ed151792cf0d",
+   "title": "侃财邦｜蓝思科技这场并购，意在打入英伟达核心供应链？ - 华声在线",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmbld2OTBfcVNZYl83WHdtbjlrb0tIbEdGNzRqN0dNbnJGN1YxWmFYYWU2YldieDJLVUxIVUJxN2M4aWE0YXgxdzZ5aXRMbERNcEhFeVdadFlyWkxIZXp3",
+   "source": "华声在线",
+   "published_at": "2026-10-20T13:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华声在线",
+     "published_at": "2026-10-20T13:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmbld2OTBfcVNZYl83WHdtbjlrb0tIbEdGNzRqN0dNbnJGN1YxWmFYYWU2YldieDJLVUxIVUJxN2M4aWE0YXgxdzZ5aXRMbERNcEhFeVdadFlyWkxIZXp3"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘前"
+  },
+  {
+   "id": "538625ad2720",
+   "title": "Nvidia RTX Spark Brings Local AI Agents to Windows Laptops - TechRepublic",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXAtZHRHWDBfTWJfdTVybkpDWXA1RmtYZDViTWh0akVCQkQ1RWp1bU93b0VXbmNCcTdTVUFrRm9LVE9BUm04RHNMVDlaeXhrUUZrLVVJS1R0eGhPNmZOdHZRNEZHRDFjRThEenFjTWFvLVBmRTMyN1ZCbHRpQ1pGVzlBMWNLUU10M2ZWTQ",
+   "source": "TechRepublic",
+   "published_at": "2026-10-20T13:14:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechRepublic",
+     "published_at": "2026-10-20T13:14:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXAtZHRHWDBfTWJfdTVybkpDWXA1RmtYZDViTWh0akVCQkQ1RWp1bU93b0VXbmNCcTdTVUFrRm9LVE9BUm04RHNMVDlaeXhrUUZrLVVJS1R0eGhPNmZOdHZRNEZHRDFjRThEenFjTWFvLVBmRTMyN1ZCbHRpQ1pGVzlBMWNLUU10M2ZWTQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "d90197c321e3",
    "title": "尽管英伟达推出300亿参数模型，美光仍遭重挫 - Moomoo",
@@ -102,6 +136,23 @@
    "sentiment": 0
   },
   {
+   "id": "c982002bd4d8",
+   "title": "doubleAI’s Maxwell Is the First ‘Code Execution Model.’ Nvidia Is Funding the Commoditization of Its Own Compute. - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0JaVnJ0T2pCeDhFanQtOWp5R2x2Qnk0N1psV3Z1ZFBYNFRESmM4RmhnOUIxZ29lZWhySjZsQmRHOXgwaFVsT1RPUTloTmhzdmpNQXBFaVIyUmNhR1pkQkVEUXA1ZGJTb3dsSUM1ZHV1OFkza01ST0hYbm9ISGNnbXNpQml4Y0ctSmRDd2Y5YlFsS0hQY1g5MGoxeFJ1U2RjTU1J",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-20T12:27:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T12:27:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0JaVnJ0T2pCeDhFanQtOWp5R2x2Qnk0N1psV3Z1ZFBYNFRESmM4RmhnOUIxZ29lZWhySjZsQmRHOXgwaFVsT1RPUTloTmhzdmpNQXBFaVIyUmNhR1pkQkVEUXA1ZGJTb3dsSUM1ZHV1OFkza01ST0hYbm9ISGNnbXNpQml4Y0ctSmRDd2Y5YlFsS0hQY1g5MGoxeFJ1U2RjTU1J"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "f32db4274d83",
    "title": "Nvidia plans to invest in 4 German startups, including Agile Robots - Quartz",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tcVdkOU1YQlZBd0JkcG9VZmVsb3hlN2NNdFZtVXFJWG9OYVRISkkzMy1hdlBJQl9tMWpEeGdsS0V5Q1ZKcXNKUVU4b0N5bVYxaFFSUlR3MDBWUFlzOTlwZjI4MUtlMTFkUlc0eno2bkg4N0U",
@@ -140,6 +191,28 @@
    "zh_summary": "德国与英伟达扩大AI合作，承诺投资100亿美元",
    "title_zh": "德国与英伟达扩大AI合作，承诺100亿美元",
    "sentiment": 1
+  },
+  {
+   "id": "aeafba277c3a",
+   "title": "Nvidia Pledges Millions To German Startups Under $10 Billion European AI Initiative - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbFhsTHk0TkJVVWJRYWVvcldEYkgxeTJOVlh6ZkJ3OGVOWG8zU3ZELVdTRTNRTkxMUHFHdXNCZ1lsRjVSS3l1VnF6WW54Sm51MnFtVXI5QzJXNjF6MzBUM2lQdXlUbHFpSWk5U2k4NDZkcDJBYzlTYUlBUldsa3ZaRXJOYnlUalhOQjdPeGZ3VFFwQ0FzNXZHRUlBUWVPUlgwQ3VGdDlB",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-20T12:23:50+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T12:23:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbFhsTHk0TkJVVWJRYWVvcldEYkgxeTJOVlh6ZkJ3OGVOWG8zU3ZELVdTRTNRTkxMUHFHdXNCZ1lsRjVSS3l1VnF6WW54Sm51MnFtVXI5QzJXNjF6MzBUM2lQdXlUbHFpSWk5U2k4NDZkcDJBYzlTYUlBUldsa3ZaRXJOYnlUalhOQjdPeGZ3VFFwQ0FzNXZHRUlBUWVPUlgwQ3VGdDlB"
+    },
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-10-20T13:08:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ1dtMWlRd3VjTTVwMVFsYi1VRERzZkl1R0s1MmFSV3ptVTNrSHlENTQ1a0ExZ0d3RTdDWGNGdWw0XzctMThpRmExYzNBNUN3OU9TVmY3NXY3azBEcVRvalZKSmdNdUdNVFg1a3RMNHVxVHVLV1lqQzZCM09KRXJ2cQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "b875ad4cdd24",
@@ -360,6 +433,23 @@
    "zh_summary": "Omarchy4.5支持骁龙X和英伟达N1X",
    "title_zh": "Omarchy 4.5扩展至AArch64，支持骁龙X和英伟达N1X笔记本",
    "sentiment": 0
+  },
+  {
+   "id": "e26cfa1e31d0",
+   "title": "字节阿里腾讯砸数百亿美金 抢购英伟达芯片 - DW.com",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNRG4xd3lOY1JNcE9XREhfMl9xUW5RRE5xVkVfMWZiTERmWm5DSnYyaDUzcG5aTWdHdjcwUmNmNEJuYnlPTVBmVUp1T3U1Y3pILWZlRGFwTlZLRDhNTXlvbUdtbVpUTmtZaWVQMGJBbEZRTURCM2xaSDM3aU00OFNSVktqQVhnV2YxRTY3RlV3MkphQ0k1dGFJa2dQeGlqejQwaHlfa05wM05mZ3I4WjhiMlF6YlhVeUcyMXRJNWhCakwwQ0RQanRhVnQ1bWl6ZVRvakhFa1BhYi1pOW1rM2s1d201QnZyaV92d2dORzJmekkwdGJ1U3JOR05SX1Rwb3UzZ3k5VTFadHNJcmE3TnVSWkJLOWl4MVBaM29xRkFhTXJScnI3NFpWRVo0LXJPQdIBrgJBVV95cUxNRG4xd3lOY1JNcE9XREhfMl9xUW5RRE5xVkVfMWZiTERmWm5DSnYyaDUzcG5aTWdHdjcwUmNmNEJuYnlPTVBmVUp1T3U1Y3pILWZlRGFwTlZLRDhNTXlvbUdtbVpUTmtZaWVQMGJBbEZRTURCM2xaSDM3aU00OFNSVktqQVhnV2YxRTY3RlV3MkphQ0k1dGFJa2dQeGlqejQwaHlfa05wM05mZ3I4WjhiMlF6YlhVeUcyMXRJNWhCakwwQ0RQanRhVnQ1bWl6ZVRvakhFa1BhYi1pOW1rM2s1d201QnZyaV92d2dORzJmekkwdGJ1U3JOR05SX1Rwb3UzZ3k5VTFadHNJcmE3TnVSWkJLOWl4MVBaM29xRkFhTXJScnI3NFpWRVo0LXJPQQ",
+   "source": "DW.com",
+   "published_at": "2026-10-20T11:50:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "DW.com",
+     "published_at": "2026-10-20T11:50:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNRG4xd3lOY1JNcE9XREhfMl9xUW5RRE5xVkVfMWZiTERmWm5DSnYyaDUzcG5aTWdHdjcwUmNmNEJuYnlPTVBmVUp1T3U1Y3pILWZlRGFwTlZLRDhNTXlvbUdtbVpUTmtZaWVQMGJBbEZRTURCM2xaSDM3aU00OFNSVktqQVhnV2YxRTY3RlV3MkphQ0k1dGFJa2dQeGlqejQwaHlfa05wM05mZ3I4WjhiMlF6YlhVeUcyMXRJNWhCakwwQ0RQanRhVnQ1bWl6ZVRvakhFa1BhYi1pOW1rM2s1d201QnZyaV92d2dORzJmekkwdGJ1U3JOR05SX1Rwb3UzZ3k5VTFadHNJcmE3TnVSWkJLOWl4MVBaM29xRkFhTXJScnI3NFpWRVo0LXJPQdIBrgJBVV95cUxNRG4xd3lOY1JNcE9XREhfMl9xUW5RRE5xVkVfMWZiTERmWm5DSnYyaDUzcG5aTWdHdjcwUmNmNEJuYnlPTVBmVUp1T3U1Y3pILWZlRGFwTlZLRDhNTXlvbUdtbVpUTmtZaWVQMGJBbEZRTURCM2xaSDM3aU00OFNSVktqQVhnV2YxRTY3RlV3MkphQ0k1dGFJa2dQeGlqejQwaHlfa05wM05mZ3I4WjhiMlF6YlhVeUcyMXRJNWhCakwwQ0RQanRhVnQ1bWl6ZVRvakhFa1BhYi1pOW1rM2s1d201QnZyaV92d2dORzJmekkwdGJ1U3JOR05SX1Rwb3UzZ3k5VTFadHNJcmE3TnVSWkJLOWl4MVBaM29xRkFhTXJScnI3NFpWRVo0LXJPQQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "68d0225f9df8",
@@ -2377,7 +2467,7 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UNjFCRFVVRXMyQ1RVTHZDQmpILVRYWkl3T3RUWWhTOEZ4N2w2d2ViNGJMclpyQ1JhRWNycEtxeTZ4S0Vwa0xaamdXaw",
    "source": "手机新浪网",
    "published_at": "2026-10-20T02:44:01+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "手机新浪网",
@@ -2398,11 +2488,15 @@
      "name": "搜狐",
      "published_at": "2026-10-20T02:49:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkhXOVZyZnVCYnJEaVFPS2FId0FacGs1blcwWmljUEpxYUpTZFlJSlRuYklhR2NVNUREa09mNjhocXRZOS13a1Z6QU5SWFExdzVSbDVaZ2N1R0ZpYlkzaFE4cnk3LTdKcHkzb0tHN2tnZXZDdXRYQmwzS0dpSVI2SnRpTXNsYkJCMWlwUA"
+    },
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-20T12:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJak1OQ1JxSUtHdzFMWmZPaTEtNlVYckdqdHg5SngtU3BEdlRfbmNxdXhFUFZjOVZzS0c5OHh0Ynk3RXphQU1aRnJ5R29wT0NjMTRJ"
     }
    ],
    "category": "产品技术",
    "session": "盘后",
-   "breaking": true,
    "zh_summary": "英伟达赢得Modal CPU芯片订单",
    "title_zh": "英伟达据悉成功从人工智能初创公司Modal赢得CPU芯片订单 Modal此前完全依赖英特尔和AMD - 新浪网",
    "sentiment": 1
@@ -2433,12 +2527,17 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1RvZ1BNR0hRSFlWZUt1YTNjREJfZ0ZpclF2cFU0d3BuWk5NZUQ3MFVEbW9HOXktU05kYlA0YVRqV2hjamcyQnhxMjhaMF9CT2pCaVNwUEdUOGIySF9VdmkzczQzZU4yWlBRZjl1aWJZeFRRN0RIa2lYMXZXNmI4Qlpzclc2UDduYmRFSzVXcG02dXJIei1v",
    "source": "The Tech Buzz",
    "published_at": "2026-10-20T02:36:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Tech Buzz",
      "published_at": "2026-10-20T02:36:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1RvZ1BNR0hRSFlWZUt1YTNjREJfZ0ZpclF2cFU0d3BuWk5NZUQ3MFVEbW9HOXktU05kYlA0YVRqV2hjamcyQnhxMjhaMF9CT2pCaVNwUEdUOGIySF9VdmkzczQzZU4yWlBRZjl1aWJZeFRRN0RIa2lYMXZXNmI4Qlpzclc2UDduYmRFSzVXcG02dXJIei1v"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T12:59:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTZYaUstMERaTHVoejZzWGczdGlZMnNkekw5bmx4blFGNUJFVVI4N0FPSFVMM2NZai00bTQ1amp3X3ZOQ2dTbTZuV2FuQjRqUmxuX0MzRnZ1NlZ0eE5jNTFYa0ZTVVhrdFkwZi1BUDFzeTB1b1l6aDNXclotc2pnMWxXQVU2ZDdUSkhDQ0NEZElYNi1VMlE"
     }
    ],
    "category": "其他",
@@ -6505,125 +6604,6 @@
    "session": "盘前",
    "zh_summary": "NTU团队世界模型评测领先英伟达Cosmos",
    "title_zh": "NTU华人教授团队发布世界模型，五大评测领先英伟达Cosmos 3 - 凤凰网科技",
-   "sentiment": -1
-  },
-  {
-   "id": "a92379f62e7c",
-   "title": "西门子在德国工厂推出全新AI方案，与英伟达合作推进AI自主制造_7x24快讯_新浪财经 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwWWROWklrdEg3MHJjOGgzZzFPMjAwVTlLVktmd3F0Rmo5Z2Q3MmlmSDVuaTBodmZoNDAtSVNsQk1qTS1ucFBzQ2xlcmlSaG8",
-   "source": "手机新浪网",
-   "published_at": "2026-10-19T12:02:36+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-19T12:02:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwWWROWklrdEg3MHJjOGgzZzFPMjAwVTlLVktmd3F0Rmo5Z2Q3MmlmSDVuaTBodmZoNDAtSVNsQk1qTS1ucFBzQ2xlcmlSaG8"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-19T12:08:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRlNLQk42QUxIOFhlQXZWZUpUMDFoVk1EZm5KX0tIcUxKRlRLeEd6YW1VUE1McG1zQWM2ak0tOVZCMjFndWdrTmdScTBVQ080aTVuMmNudlowMmlwcVVnWk9ZbXIwLXY5N0ZBWndqeUQ3MVcxNjV3VGEzaEhFa1ZwRjhn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "西门子与英伟达合作推进AI自主制造",
-   "title_zh": "西门子在德国工厂推出全新AI方案，与英伟达合作推进AI自主制造",
-   "sentiment": 1
-  },
-  {
-   "id": "d018db32cbec",
-   "title": "NVIDIA Corporation (NVDA) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1hLVUQ3a1RSdXlzNnpRTlZxMlJIM180M2czazZRU2R4eERfSFM4TVd0cU1qYXV4bE13Y0RUZ2FvSnB1UVFVc2lyUlpsVmRyRTlRYjc0dzRJT3owWlNFc2dJUGNfN1RyLS1LVFdLbEtqVmZVSlQyWGVULUszYlNhbzNlWGwxS2Z1U3ZTVlhSc01ienZkSUlWQ1BLYW0tcnMwbWFoczJIT0xyVGYy",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T12:00:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T12:00:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT1hLVUQ3a1RSdXlzNnpRTlZxMlJIM180M2czazZRU2R4eERfSFM4TVd0cU1qYXV4bE13Y0RUZ2FvSnB1UVFVc2lyUlpsVmRyRTlRYjc0dzRJT3owWlNFc2dJUGNfN1RyLS1LVFdLbEtqVmZVSlQyWGVULUszYlNhbzNlWGwxS2Z1U3ZTVlhSc01ienZkSUlWQ1BLYW0tcnMwbWFoczJIT0xyVGYy"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达吸引投资者关注",
-   "title_zh": "英伟达（NVDA）吸引投资者关注：你需要知道的",
-   "sentiment": 0
-  },
-  {
-   "id": "c263280a6a04",
-   "title": "西门子与英伟达合作推进人工智能驱动的自动化工厂。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IS2hwdlh0ZHdXRDhrUEtSWFpMZFlmZUdvQXQyMG8tMlBPTGVfYkVnRUF5cG41MzVtYnl2NWlvTVRlQ0d2S3ZuYlJEUQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-19T12:00:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-19T12:00:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IS2hwdlh0ZHdXRDhrUEtSWFpMZFlmZUdvQXQyMG8tMlBPTGVfYkVnRUF5cG41MzVtYnl2NWlvTVRlQ0d2S3ZuYlJEUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "西门子与英伟达合作推进AI自动化工厂",
-   "title_zh": "西门子与英伟达合作推进AI驱动的自动化工厂",
-   "sentiment": 1
-  },
-  {
-   "id": "3a7a823c7eee",
-   "title": "Exclusive | Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODZ3djBBc0dFbnhMb2NnWk15VWNMRnFDMk90dUtJSWJQWGhPak41eGhDYVE0WEJONXRuMlZ6dDExLVZFR1dsSXhpQ05PbUdzdmRYeXMxN19zMlBBeDFyMnlXc1FQVnY2OEp2STRMSVp3YnQtc3FGQ050anJPVk1nWnZDSzQ2eHp2czZIQlhEWFlJblUtc1NfRTJYbFppMFB1YzJCYWoxNmExbVBzeEVn",
-   "source": "WSJ",
-   "published_at": "2026-10-19T12:00:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-19T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODZ3djBBc0dFbnhMb2NnWk15VWNMRnFDMk90dUtJSWJQWGhPak41eGhDYVE0WEJONXRuMlZ6dDExLVZFR1dsSXhpQ05PbUdzdmRYeXMxN19zMlBBeDFyMnlXc1FQVnY2OEp2STRMSVp3YnQtc3FGQ050anJPVk1nWnZDSzQ2eHp2czZIQlhEWFlJblUtc1NfRTJYbFppMFB1YzJCYWoxNmExbVBzeEVn"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-19T12:05:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa1I1RVN3X1g1WlBtcTliWFZTcHdrSW9ER01ES0JYZXM4ak5LcHV6d2J0SXU4N0ltOWoxYXR5NEVnRFZmVWRDZF9VZ2lacWdTcWdWaHBPWEw1akZLWHdpdlRublFvaFNwa21NeG5ucEtTT3prY09aNW5ldmZvaFZpbkxCUW1INVZZMDdKWXlQU0VkZGpjd19qRnRvRWJqS1M1X0hXWkVPaGdCOXFsdDNuUTdhTUZTY20xUl80bXVkanVHUnhISFBHV1c1ZEttTEJ1VksyMDZzRUs1NlU"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-19T12:10:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2wyT3BwR0lFSjJ6X1hoR241RTNIRTM2eFBCZmV5YWZSVUhmVlZsRTFvaTdJdERJdnZpMkxadVVPRmdkaTc4RVhnSEl5VkFrcnAzYS1XeERzSEFuSXlKNGZsbFZUX0Q0dDhraVphSTlVZGo2MVRPdUZNdVljZGc4M2pmbGJUMnNGZG4yRHY3Y2hnamsxVlhkWE5YNEt6aG82Yzdj"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达参投公司发布降低算力成本模型",
-   "title_zh": "英伟达参投的doubleAI发布新模型，降低算力成本",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.11,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "f72b7234aa7f",
-   "title": "Nvidia challenger Tenstorrent raises $1.5-billion, valuing Toronto-founded company at $6.2-billion - The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYzNrb01nRFlQWldOS1MxRHFMS0QybFZ4ZlAzYmpfeDJkREhVSlAtMjhCcHJYUzFfUDg2dndfSzlQempqR2RGdlBnWmE5WWJrX2FLWkJjdUNlSC0zX0dnSjdwYWVsMWk4eDFHZkU2aUNLR3gwa3l4dldUM2wwLU41UXBSZkpvT2M2TTZXMmduTUNBbjJ0dUhBbFhFbTFlZ1o3OXZRUHJxV2pPMkNYc2lWam9RNA",
-   "source": "The Globe and Mail",
-   "published_at": "2026-10-19T12:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-19T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYzNrb01nRFlQWldOS1MxRHFMS0QybFZ4ZlAzYmpfeDJkREhVSlAtMjhCcHJYUzFfUDg2dndfSzlQempqR2RGdlBnWmE5WWJrX2FLWkJjdUNlSC0zX0dnSjdwYWVsMWk4eDFHZkU2aUNLR3gwa3l4dldUM2wwLU41UXBSZkpvT2M2TTZXMmduTUNBbjJ0dUhBbFhFbTFlZ1o3OXZRUHJxV2pPMkNYc2lWam9RNA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达竞争对手完成15亿美元融资",
-   "title_zh": "英伟达挑战者Tenstorrent融资15亿美元，估值62亿美元",
    "sentiment": -1
   }
  ]
