@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T17:36:31.188895+00:00",
+ "updated_at": "2026-10-20T17:51:27.354838+00:00",
  "market": {
-  "price": 216.99,
-  "change_pct": -0.05,
+  "price": 217.3,
+  "change_pct": 0.1,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 150
+   "avg": 0.46,
+   "count": 153
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（150条已评分）"
+     "note": "今日新闻情绪 +0.46（153条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.99 vs 20日均线 $227.07"
+     "note": "现价 $217.30 vs 20日均线 $227.08"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.2,
-   "ma20": 227.07,
-   "as_of": "2026-10-20T17:36:31.176892+00:00"
+   "implied_upside_pct": 45.0,
+   "ma20": 227.08,
+   "as_of": "2026-10-20T17:51:27.339285+00:00"
   },
   "pe_ttm": 27.6,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.2%空间：估值偏低，预期乐观"
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "84d5ca65b841",
+   "title": "Infinity and HP Deliver 2X Performance Gains on NVIDIA's GB300 Grace Blackwell Ultra Desktop Superchip - Business Wire",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcjVtbGRkSU45VWt2WG5SZHJWQjlhWi1FaklHMFRrZ0d5SUR1dmFON1hNbXJHWDhCdHAya0NzT2NSTko0N3dlVEwyUWlNRTVXTlJXMFYxMC1tRi1OdDdaY3RZbTkyQlhIWHZpMzhvdDlSRDEwbi1wNFN1SmJRTWdNZFBSLUl5OUtaZTVjVFZ2Z3lmYXM3c1UzdjFLeS1RTGNQVy1Ed2RIREdwalhpOWFPckVzQXVpeDNqNWx2eWt5dHVaTE54M25tWV9sZGF1M2xHeGJBUDA1bE1SNlctbXdtajZhWXpTY2RvQ285dmlnVQ",
+   "source": "Business Wire",
+   "published_at": "2026-10-20T17:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Wire",
+     "published_at": "2026-10-20T17:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcjVtbGRkSU45VWt2WG5SZHJWQjlhWi1FaklHMFRrZ0d5SUR1dmFON1hNbXJHWDhCdHAya0NzT2NSTko0N3dlVEwyUWlNRTVXTlJXMFYxMC1tRi1OdDdaY3RZbTkyQlhIWHZpMzhvdDlSRDEwbi1wNFN1SmJRTWdNZFBSLUl5OUtaZTVjVFZ2Z3lmYXM3c1UzdjFLeS1RTGNQVy1Ed2RIREdwalhpOWFPckVzQXVpeDNqNWx2eWt5dHVaTE54M25tWV9sZGF1M2xHeGJBUDA1bE1SNlctbXdtajZhWXpTY2RvQ285dmlnVQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "09f81a79da34",
    "title": "ByteDance, Alibaba and Tencent order Nvidia chips worth $35 billion - Quartz",
@@ -77,9 +94,43 @@
    ],
    "category": "产品技术",
    "session": "盘中",
-   "title_zh": "字节跳动、阿里、腾讯下单350亿美元NVDA芯片",
    "zh_summary": "中企下单350亿美元英伟达芯片",
+   "title_zh": "字节跳动、阿里、腾讯下单350亿美元NVDA芯片",
    "sentiment": 2
+  },
+  {
+   "id": "c7e6e5c22581",
+   "title": "ByteDance, Alibaba and Tencent ordered over $35 billion of Nvidia chips at list price - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tbEFyVG5DU1FlMGlta2xxNGoyYkVfalJtcHJfUVdYVkNnMjluNVVGLXNmUzBnczVFWGtiUmNKNEhBYjc0NHM4UlVIRXV6cDZ0MW5oUmFXTHltZFRMam9CX3J4YmdYNERKb3VjNlEteVNTSzBD",
+   "source": "Quartz",
+   "published_at": "2026-10-20T17:30:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-20T17:30:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tbEFyVG5DU1FlMGlta2xxNGoyYkVfalJtcHJfUVdYVkNnMjluNVVGLXNmUzBnczVFWGtiUmNKNEhBYjc0NHM4UlVIRXV6cDZ0MW5oUmFXTHltZFRMam9CX3J4YmdYNERKb3VjNlEteVNTSzBD"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "4d3b214805d9",
+   "title": "Nvidia says the RTX 5090 is alive. Its availability begs to differ - Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR284Z29sZUlKRXktYVY3alNxeUlHMkhta015S2w2NFhOM0tHejNOS05JSFViZUFmeklBeW9JU0cyZGZUWnJKc0dNcmVtRDNRUEdTVF8zV21rOE5nN0RwZC0xa0QyLVlaSHFRYzJfNVNCUmJ0dm9XVVhPUk5VZUE4czBLb0dyOUVPYjFZ",
+   "source": "Yahoo Tech",
+   "published_at": "2026-10-20T17:08:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Tech",
+     "published_at": "2026-10-20T17:08:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR284Z29sZUlKRXktYVY3alNxeUlHMkhta015S2w2NFhOM0tHejNOS05JSFViZUFmeklBeW9JU0cyZGZUWnJKc0dNcmVtRDNRUEdTVF8zV21rOE5nN0RwZC0xa0QyLVlaSHFRYzJfNVNCUmJ0dm9XVVhPUk5VZUE4czBLb0dyOUVPYjFZ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "8bc33c6d97c4",
@@ -532,8 +583,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "德国与英伟达在柏林签署工业AI宣言",
    "zh_summary": "德国与英伟达签署工业AI宣言",
+   "title_zh": "德国与英伟达在柏林签署工业AI宣言",
    "sentiment": 1
   },
   {
@@ -2545,8 +2596,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
    "zh_summary": "黄仁勋称AI投资回报已有答案",
+   "title_zh": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
    "sentiment": 1
   },
   {
@@ -6678,66 +6729,6 @@
    "zh_summary": "英伟达支持的Double AI发布代码执行模型",
    "title_zh": "英伟达支持的Double AI发布AI代码执行模型",
    "sentiment": 0
-  },
-  {
-   "id": "b297a77c2395",
-   "title": "Family unswayed by autopsy after NVIDIA scientist’s death - Palo Alto Online",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObkNoYWt4bzljWUlPTFdQbUJaY3hlRlMzTktDaVRJTG9UNV9pMmlCOXE2TEhWUm1qSnAwVXh3MTJ3YUJsbmc3dU1BeXNBQVozcDNEZldHblp1U2N3cGRaQU9pdVdTWC1HQWt1V19ZU3MtREJSQWdydTZVWmp3VXpGMm4tZUVtNFlSTWZoc0NSdERUeUlTZUtVUlZycG11OWpENVJrQVBIVXBPS2trWGROVEs3YWdldnRHM3c",
-   "source": "Palo Alto Online",
-   "published_at": "2026-10-19T16:32:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Palo Alto Online",
-     "published_at": "2026-10-19T16:32:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObkNoYWt4bzljWUlPTFdQbUJaY3hlRlMzTktDaVRJTG9UNV9pMmlCOXE2TEhWUm1qSnAwVXh3MTJ3YUJsbmc3dU1BeXNBQVozcDNEZldHblp1U2N3cGRaQU9pdVdTWC1HQWt1V19ZU3MtREJSQWdydTZVWmp3VXpGMm4tZUVtNFlSTWZoc0NSdERUeUlTZUtVUlZycG11OWpENVJrQVBIVXBPS2trWGROVEs3YWdldnRHM3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "NVIDIA科学家家属对尸检结果存疑",
-   "title_zh": "NVIDIA科学家去世后，家属未被尸检结果说服",
-   "sentiment": 0
-  },
-  {
-   "id": "fb7bd00367ce",
-   "title": "You can now modify the vBIOS on Nvidia gaming GPUs without flashing thanks to a solo developer’s project — provides a UI for quick VBIOS configuration - Tom's Hardware",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQczctcXVzUmNIX1pHdFZJYXczXzN6SzZrNEozMzNVelVYVUJTWXkzbEZqQXdIUkNUODd5OXlVSDFzR2dDMlRrNmZaYmNnbDdSNDdSZ0hfNE1fYlQyTXYyX2p6OHdCTk95SXdDV2JOczUzcFpOY1pLX1dkMlV4dWZuWlUtM1dmTDVqdXFaMW8zN25ycnFPLVZJTFBJNnJxdTgzTThlc1RUMW43ZE1MZjNxaGRmRnAtZXpYREdzQVZKMEJEcFFlWU9XMkVSNXpaREcwMkxtQ3lsZUdUSG9TbVVzUm82QUwtUF9UZnBjQ0hMVWQ4RGY5TnFfczBHdVFlc0lfbXBVdloxQTFYTEdMZDczLWRyLVA",
-   "source": "Tom's Hardware",
-   "published_at": "2026-10-19T16:30:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tom's Hardware",
-     "published_at": "2026-10-19T16:30:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQczctcXVzUmNIX1pHdFZJYXczXzN6SzZrNEozMzNVelVYVUJTWXkzbEZqQXdIUkNUODd5OXlVSDFzR2dDMlRrNmZaYmNnbDdSNDdSZ0hfNE1fYlQyTXYyX2p6OHdCTk95SXdDV2JOczUzcFpOY1pLX1dkMlV4dWZuWlUtM1dmTDVqdXFaMW8zN25ycnFPLVZJTFBJNnJxdTgzTThlc1RUMW43ZE1MZjNxaGRmRnAtZXpYREdzQVZKMEJEcFFlWU9XMkVSNXpaREcwMkxtQ3lsZUdUSG9TbVVzUm82QUwtUF9UZnBjQ0hMVWQ4RGY5TnFfczBHdVFlc0lfbXBVdloxQTFYTEdMZDczLWRyLVA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "独立开发者项目可免刷机改VBIOS",
-   "title_zh": "独立开发者项目让英伟达游戏GPU免刷机修改VBIOS，带界面",
-   "sentiment": 0
-  },
-  {
-   "id": "cb085b238439",
-   "title": "Chamath: Even Google “Tin Cups for Memory” Thanks to Nvidia. Here’s What Happens Next - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTRVX1JYeDE5WWZIQ2k0Z1J0NUs0VjdIY1Mxb0ZyV0VKYWVrRVhJRE84R09Ja2F0bzI2UHpIU1hfdlZiY2g5NW91eE1iOHYxb2tUNUROV3o3a2UyYUcwd0dfVkpURE9oeWZNRnhLbFNHYlI5T3I5dy1sNy0xRWNzNjJuM2pjNmNYZjU0ejVMeE5IYnY4QUpN",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T16:20:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T16:20:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTRVX1JYeDE5WWZIQ2k0Z1J0NUs0VjdIY1Mxb0ZyV0VKYWVrRVhJRE84R09Ja2F0bzI2UHpIU1hfdlZiY2g5NW91eE1iOHYxb2tUNUROV3o3a2UyYUcwd0dfVkpURE9oeWZNRnhLbFNHYlI5T3I5dy1sNy0xRWNzNjJuM2pjNmNYZjU0ejVMeE5IYnY4QUpN"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Chamath称连谷歌也因英伟达求内存",
-   "title_zh": "Chamath：连谷歌都因英伟达而\"乞讨内存\"",
-   "sentiment": 1
   }
  ]
 }
