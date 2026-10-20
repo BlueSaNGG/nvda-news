@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T18:51:28.847571+00:00",
+ "updated_at": "2026-10-20T19:06:25.303155+00:00",
  "market": {
-  "price": 216.71,
-  "change_pct": -0.18,
+  "price": 216.8,
+  "change_pct": -0.13,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.47,
-   "count": 163
+   "avg": 0.45,
+   "count": 165
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.4%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.47（163条已评分）"
+     "note": "今日新闻情绪 +0.45（165条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.71 vs 20日均线 $227.05"
+     "note": "现价 $216.80 vs 20日均线 $227.06"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.4,
-   "ma20": 227.05,
-   "as_of": "2026-10-20T18:51:28.830883+00:00"
+   "implied_upside_pct": 45.3,
+   "ma20": 227.06,
+   "as_of": "2026-10-20T19:06:25.289125+00:00"
   },
-  "pe_ttm": 27.5,
+  "pe_ttm": 27.6,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "5d15a9773f24",
+   "title": "Breakingviews - COMMENTARY: Nvidia emerges as the central bank of AI - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYlBQZWpwdUJacndaVm1uenphRkZIRXpUMk9aRF9kZURpUm1tUEYtMkJMZ2hzSW5mUFpISFA5d0JtTV9xSm81OVJ2TklDNjAyaE1pSE9XQzJmdlptZTJqNHNiTFRGdzFTeTdSMDFqNnNrUm5INW5ma1VzYUVRUGNYV1YyTTRuTFE5ZU56cFF4N3EtVVNKa0E",
+   "source": "Reuters",
+   "published_at": "2026-10-20T19:00:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-20T19:00:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYlBQZWpwdUJacndaVm1uenphRkZIRXpUMk9aRF9kZURpUm1tUEYtMkJMZ2hzSW5mUFpISFA5d0JtTV9xSm81OVJ2TklDNjAyaE1pSE9XQzJmdlptZTJqNHNiTFRGdzFTeTdSMDFqNnNrUm5INW5ma1VzYUVRUGNYV1YyTTRuTFE5ZU56cFF4N3EtVVNKa0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "d508415c51f9",
    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers - TechCrunch",
@@ -612,26 +629,6 @@
    "sentiment": 1
   },
   {
-   "id": "367678b3846e",
-   "title": "英伟达新突破：用8192块GPU 刻下容错量子计算模拟里程碑 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QTk8tZFp2V0piXzZnMGV5RFYtZ0ZsaU83bVRRdG1SamYzTXZLcHRrR2JiejBPOXpUQ1cxLWcyYVpwVnZhMlpROTNoMXlqblNNSWZ1VVZEVkc",
-   "source": "驱动之家",
-   "published_at": "2026-10-20T15:26:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-20T15:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QTk8tZFp2V0piXzZnMGV5RFYtZ0ZsaU83bVRRdG1SamYzTXZLcHRrR2JiejBPOXpUQ1cxLWcyYVpwVnZhMlpROTNoMXlqblNNSWZ1VVZEVkc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "8192块GPU实现容错量子计算模拟里程碑",
-   "title_zh": "英伟达新突破：用8192块GPU 刻下容错量子计算模拟里程碑",
-   "sentiment": 1
-  },
-  {
    "id": "6dd411aa8fe5",
    "title": "Mercedes-Benz and Nvidia extend strategic technology partnership - Yahoo Autos",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNE9LeTVTLVB6Qk1xWDFEeXlVajQtd0pUeHRiUWRXRG9xUGJXUDZlektNSzNVUXNJRVByRm5aWlZyYjgtb1EwbzlJMElxd196VHRfTnQzcWU0OEJnbU54QzVSY3E5VzRveGRDLXNtSG9rbTA1Rm41bDc5MEN6UG1qMXRTRUhCLVBLZFcwd0ZvaHBUdWNfR1ZkSzhoYy1MLV91aGEyUXdRVQ",
@@ -655,6 +652,40 @@
    "zh_summary": "梅赛德斯与英伟达延续战略合作",
    "title_zh": "梅赛德斯-奔驰与英伟达延长战略技术合作",
    "sentiment": 1
+  },
+  {
+   "id": "be5a86bc2cff",
+   "title": "英伟达再获中国大单！阿里、腾讯及字节跳动订购新款GPU总标价逾350亿美元 港美股资讯 - 华盛通",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5ZW5sbU9XaGdOcWhwa2dzQjVsdmpsemlUT0pRZE4yOXIzNGk0QlMxd0c4UXBfRDdOVlljYlJFeWkzbG5fQnNNOGtwTWZyMXdGTExIQlk5eE5FTjV6a2RadDNB",
+   "source": "华盛通",
+   "published_at": "2026-10-20T15:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华盛通",
+     "published_at": "2026-10-20T15:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5ZW5sbU9XaGdOcWhwa2dzQjVsdmpsemlUT0pRZE4yOXIzNGk0QlMxd0c4UXBfRDdOVlljYlJFeWkzbG5fQnNNOGtwTWZyMXdGTExIQlk5eE5FTjV6a2RadDNB"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "494e93dcf86d",
+   "title": "Nvidia Spent About $2.2 Million on Federal Lobbying in the Third Quarter - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN29hTWo3UHJId1FlYTVnNnk2Q0VvLUc4alk0UjdZWVhqS3Fpb2ctWjRWbnFNU1hsaHdFeHBhQW5WVlM5eTZpdkVaMXdlQ1JYb2NmRHNnSk52SEpjYnJRendoeHh6SmMyX3F6VkRRVjZSZWNrT3N4YzJwMGtVRE5WaWUzS2hCYVVmOW9PazNVSXJ5ZEkwOWpaUXBCaFgyVzY3aG0tbzhiMEtaV0JsVkdfYktpSl9yUQ",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-20T15:19:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-20T15:19:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN29hTWo3UHJId1FlYTVnNnk2Q0VvLUc4alk0UjdZWVhqS3Fpb2ctWjRWbnFNU1hsaHdFeHBhQW5WVlM5eTZpdkVaMXdlQ1JYb2NmRHNnSk52SEpjYnJRendoeHh6SmMyX3F6VkRRVjZSZWNrT3N4YzJwMGtVRE5WaWUzS2hCYVVmOW9PazNVSXJ5ZEkwOWpaUXBCaFgyVzY3aG0tbzhiMEtaV0JsVkdfYktpSl9yUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "4688f2b00a82",
@@ -6722,51 +6753,6 @@
    "zh_summary": "股价涨幅落后盈利增长，被视为价值机会",
    "title_zh": "NVDA股价涨幅落后于盈利增长，被视为价值机会",
    "sentiment": 1
-  },
-  {
-   "id": "532819534f3e",
-   "title": "德国总理默茨：英伟达计划在德国投资数十亿美元。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEUGViNnNsN2JfN0p5V2RHbTl0ZG1oS2hsNU9kYWgzV21SVWxnRjRHLWFnb2QwU3VfM1lNZ0xVVDk3cTVvX01VdGdzOA",
-   "source": "手机新浪网",
-   "published_at": "2026-10-19T17:30:44+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-19T17:30:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEUGViNnNsN2JfN0p5V2RHbTl0ZG1oS2hsNU9kYWgzV21SVWxnRjRHLWFnb2QwU3VfM1lNZ0xVVDk3cTVvX01VdGdzOA"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-19T17:34:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTXFpN2FmaTRoSUZlQXpVay1UMlVIc25GbnA1eTEyNlpuRkZVNGdzSTNfcmFSOTQ1bmhHaVphQ2pvcFIwNmMwWXNaVXNrWWtSTm5yR0F6TkJKMWlhX1Q5NnFvZVJib2V0bXUtNU9JSGxoS2VreDd6NjR3elI3dFk0NHBqNkxOM0UwTUVVWUdDZWM3YnJvdllQd2wwZ2VLaE9hQnlYMUlzNA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达计划在德国投资数十亿美元",
-   "title_zh": "德国总理默茨：英伟达计划在德国投资数十亿美元。 - 手机新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "8bd0c56b9a8a",
-   "title": "Can You Use AMD And NVIDIA GPUs In The Same PC? - BGR",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pQ0YweWZOcGJiaERSMk14NlhMN0dzOGw5Mmk5QWFhUTR4RnNiWGdMZUxadVdqT1k1QXlhck52UlpUangtTlNmcVYycWZmY3pjYzB6QnFmU1FBVWRvZjgyVTdTSk5QQ0NPdVhGUG9BTmVSQQ",
-   "source": "BGR",
-   "published_at": "2026-10-19T17:17:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BGR",
-     "published_at": "2026-10-19T17:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pQ0YweWZOcGJiaERSMk14NlhMN0dzOGw5Mmk5QWFhUTR4RnNiWGdMZUxadVdqT1k1QXlhck52UlpUangtTlNmcVYycWZmY3pjYzB6QnFmU1FBVWRvZjgyVTdTSk5QQ0NPdVhGUG9BTmVSQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "AMD与英伟达显卡能否同机使用",
-   "title_zh": "同一台电脑能同时使用AMD和英伟达显卡吗？",
-   "sentiment": 0
   }
  ]
 }
