@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T05:21:26.458757+00:00",
+ "updated_at": "2026-10-20T05:36:29.824568+00:00",
  "market": {
   "price": 217.09,
   "change_pct": 1.38,
@@ -10,12 +10,12 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 286
+   "avg": 0.67,
+   "count": 3
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.40（286条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.67（3条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.1,
    "ma20": 227.66,
-   "as_of": "2026-10-20T05:21:26.447243+00:00"
+   "as_of": "2026-10-20T05:36:29.813110+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -62,15 +62,37 @@
  },
  "stories": [
   {
+   "id": "f4a30de4f56d",
+   "title": "沃尔沃与英伟达扩大合作 共推安全自动驾驶技术 - 汽车之家",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCYmdaN3dRLXhKS0doZEVUOE1KVHNiYkxzOUxSeUp4MVdaWTV2ZkJOTVFPNW02Yk1hYmRrRVQxZXYzMmRXcEtqRzhUNGdpZzVKa1VUOEh5TFZwdkU",
+   "source": "汽车之家",
+   "published_at": "2026-10-20T05:30:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "汽车之家",
+     "published_at": "2026-10-20T05:30:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCYmdaN3dRLXhKS0doZEVUOE1KVHNiYkxzOUxSeUp4MVdaWTV2ZkJOTVFPNW02Yk1hYmRrRVQxZXYzMmRXcEtqRzhUNGdpZzVKa1VUOEh5TFZwdkU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "1396c3c17f79",
    "title": "德首次举办高规格投资者峰会 携手英伟达推进AI合作 - www.soundofhope.org",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1takR6NGpmTGxjUFJGQlo5Z1E0MlliMHVtMU5WdXhjZkFpZWZPcC1weXFyTjNjUkRaOXJsRERmQXdwbjRDUl9ycFlGbmgyYUJS",
    "source": "www.soundofhope.org",
    "published_at": "2026-10-20T05:15:48+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "www.soundofhope.org",
+     "published_at": "2026-10-20T05:15:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1takR6NGpmTGxjUFJGQlo5Z1E0MlliMHVtMU5WdXhjZkFpZWZPcC1weXFyTjNjUkRaOXJsRERmQXdwbjRDUl9ycFlGbmgyYUJS"
+    },
+    {
+     "name": "希望之声国际广播电台",
      "published_at": "2026-10-20T05:15:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1takR6NGpmTGxjUFJGQlo5Z1E0MlliMHVtMU5WdXhjZkFpZWZPcC1weXFyTjNjUkRaOXJsRERmQXdwbjRDUl9ycFlGbmgyYUJS"
     }
@@ -727,6 +749,23 @@
    "sentiment": -1
   },
   {
+   "id": "9067f80fed7e",
+   "title": "Amazon’s AI Infrastructure Spending Soars, Resulting In Negative Cash Flow, As Report Claims $5 Billion Of NVIDIA GB300 Rack Deliveries Happened In August Alone - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONEh6MFJMcnpRV2k1dy1ETVlQUVM3UjJqenRKYVNSN0pJZU10cUwyWFhhNFNJNHRtZmlwb1ZHSVpHQ3FmeDlYRXdrUHA1S0h1TWVsNENGVzVYRlBJazNjWE9SWmNMdTJnZm5QckdsdThpU1FuM0l6Q2ZuaTVPZHZGbFF1WFg2QdIBiwFBVV95cUxNbll0WEZ4MlZaWjRKdk1pcGFQTTBWWjV2V2xSTkhmU3ZOYW1qYnZQSnV4dDdQSlV6WDhGSEZvb3A4akZFZVJ5OGwtUHFYcEVpTlFDVHlfMzlfZEMzWHRSQmZyQTNIUkQ4NW1zMWt5ai1YVjhZODIyQ2k0MS1NSjNDbExFNUVwZTNLd1U4",
+   "source": "Wccftech",
+   "published_at": "2026-10-20T01:15:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-20T01:15:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONEh6MFJMcnpRV2k1dy1ETVlQUVM3UjJqenRKYVNSN0pJZU10cUwyWFhhNFNJNHRtZmlwb1ZHSVpHQ3FmeDlYRXdrUHA1S0h1TWVsNENGVzVYRlBJazNjWE9SWmNMdTJnZm5QckdsdThpU1FuM0l6Q2ZuaTVPZHZGbFF1WFg2QdIBiwFBVV95cUxNbll0WEZ4MlZaWjRKdk1pcGFQTTBWWjV2V2xSTkhmU3ZOYW1qYnZQSnV4dDdQSlV6WDhGSEZvb3A4akZFZVJ5OGwtUHFYcEVpTlFDVHlfMzlfZEMzWHRSQmZyQTNIUkQ4NW1zMWt5ai1YVjhZODIyQ2k0MS1NSjNDbExFNUVwZTNLd1U4"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
+  {
    "id": "da9e5b6f1024",
    "title": "传DeepSeek华为联手设计AI芯片挑战英伟达 - 观点网",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tTkl5TlVocEpLNkNNamd0VTI1cl9nMVhoSTdybVRCUGlySHlGb3hMeEd6dER5NktBNFhBdmtxb2ROWTN1c1ZENEE3ZVp2SWhBb01XNmJFMjhHaGdxUlBob2xR",
@@ -765,26 +804,6 @@
    "zh_summary": "上市公司称购2万张英伟达GPU遭监管问询",
    "title_zh": "上市公司称买了2万张英伟达GPU，深交所下发监管函",
    "sentiment": 0
-  },
-  {
-   "id": "7f6cf1f6566f",
-   "title": "Nvidia, Meta and Apple Unveil New Open Models The Morning Download for Oct. 16 - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzl4Qm1LOUgzSHRaWEdvRDhKYkRaemRoOV9GWWVuU0N1THhvaXFnYnhQOWRWaGZBQlBUN3dicGJmWWVuZW9BS3BnLVlGYks2R3I1b1ZuVW9ObVhXX3I1cGViWnJyTnIwd3pfV3BXQVhWZy15dkpDTlFUSVg1YUtjR28wRkFrRHNpT2ktMnpR",
-   "source": "WSJ",
-   "published_at": "2026-10-20T00:50:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-20T00:50:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzl4Qm1LOUgzSHRaWEdvRDhKYkRaemRoOV9GWWVuU0N1THhvaXFnYnhQOWRWaGZBQlBUN3dicGJmWWVuZW9BS3BnLVlGYks2R3I1b1ZuVW9ObVhXX3I1cGViWnJyTnIwd3pfV3BXQVhWZy15dkpDTlFUSVg1YUtjR28wRkFrRHNpT2ktMnpR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达等推出新开源模型",
-   "title_zh": "英伟达、Meta和苹果推出新开源模型",
-   "sentiment": 1
   },
   {
    "id": "8ff1de2922b0",
@@ -6651,26 +6670,6 @@
    "zh_summary": "RTX Spark首测能否超越苹果M5 Max",
    "title_zh": "英伟达RTX Spark首测：能否击败苹果M5 Max？",
    "sentiment": 0
-  },
-  {
-   "id": "a2dba5f96987",
-   "title": "英伟达官方否认停产RTX 5090系列传言， - 超能网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlRnZqUHZCN2RiQXhkdkp1M05kWE15cWZmNDVOMEMwYV80YUFLZXNiaXJmSDNobUVYeS1fOHpESzFXZkNHbWlDUGcxdw",
-   "source": "超能网",
-   "published_at": "2026-10-19T04:12:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "超能网",
-     "published_at": "2026-10-19T04:12:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlRnZqUHZCN2RiQXhkdkp1M05kWE15cWZmNDVOMEMwYV80YUFLZXNiaXJmSDNobUVYeS1fOHpESzFXZkNHbWlDUGcxdw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达否认停产RTX 5090传言",
-   "title_zh": "英伟达官方否认停产RTX 5090系列传言， - 超能网",
-   "sentiment": 1
   }
  ]
 }
