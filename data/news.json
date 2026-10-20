@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T20:36:28.688942+00:00",
+ "updated_at": "2026-10-20T20:51:31.684801+00:00",
  "market": {
   "price": 216.47,
   "change_pct": -0.29,
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 176
+   "avg": 0.45,
+   "count": 178
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（176条已评分）"
+     "note": "今日新闻情绪 +0.45（178条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.5,
    "ma20": 227.04,
-   "as_of": "2026-10-20T20:36:28.671913+00:00"
+   "as_of": "2026-10-20T20:51:31.673554+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a07b32e9305d",
+   "title": "Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster, just waiting for a failure - The Register",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWTljSmY0eXppaW1QUjlkczVaU0NreFhWZ1ZJdjdfeDBLME5qbU53dVJ2VXVrWEZrMkU3OWRmUW1xTm5pZWhyQTg5UzFXV0JNRDlyRnVUZ1BXREtIVlVUZmhJVnJDck9vVjNxOVJReTUyUmVYNjFsaUtJUHBNTk55bllEVEFSOWpHcGRoNDlrZXFqY3JEcHRReG91MldhRFY0ZGMtYWN1Z0pJNjhFdmtUdGYyNi1rMVZEZXFYVTRvMnZmUVZmTW9sZVNFd1FneFhDS1dEVEpraEhvU0JGcHpjUmZoRnFkLWZpd2hhOA",
+   "source": "The Register",
+   "published_at": "2026-10-20T20:39:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Register",
+     "published_at": "2026-10-20T20:39:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWTljSmY0eXppaW1QUjlkczVaU0NreFhWZ1ZJdjdfeDBLME5qbU53dVJ2VXVrWEZrMkU3OWRmUW1xTm5pZWhyQTg5UzFXV0JNRDlyRnVUZ1BXREtIVlVUZmhJVnJDck9vVjNxOVJReTUyUmVYNjFsaUtJUHBNTk55bllEVEFSOWpHcGRoNDlrZXFqY3JEcHRReG91MldhRFY0ZGMtYWN1Z0pJNjhFdmtUdGYyNi1rMVZEZXFYVTRvMnZmUVZmTW9sZVNFd1FneFhDS1dEVEpraEhvU0JGcHpjUmZoRnFkLWZpd2hhOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "4ff665a46feb",
    "title": "Nvidia-Backed Pigment Raises $250 Million to Take on Microsoft - Bloomberg.com",
@@ -6744,26 +6761,6 @@
    "zh_summary": "DeepSeek携华为合作挑战英伟达",
    "title_zh": "DeepSeek联手华为挑战英伟达",
    "sentiment": -1
-  },
-  {
-   "id": "c6d9c98e38ec",
-   "title": "Is Nvidia (NVDA) Stock Priced Right? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVFUQnhDODFOX1o0Zkl1WWJQbTRfRkZjSFNNdnBYaGV5TkMydWFxX3VGdTJzRzh4RlVyNXpIMXhPb1NscWlMS1h4NG5TV3pCNXhPekIyOGkwbktPWnJMdFFESjdRbVJheVVJV2t4X3FXemlvYThrTWRFZHF0YkM0NjRtTzNmU3VkLS03VzBLb1c5X28",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T18:07:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T18:07:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVFUQnhDODFOX1o0Zkl1WWJQbTRfRkZjSFNNdnBYaGV5TkMydWFxX3VGdTJzRzh4RlVyNXpIMXhPb1NscWlMS1h4NG5TV3pCNXhPekIyOGkwbktPWnJMdFFESjdRbVJheVVJV2t4X3FXemlvYThrTWRFZHF0YkM0NjRtTzNmU3VkLS03VzBLb1c5X28"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "雅虎讨论英伟达股价是否定价合理",
-   "title_zh": "英伟达(NVDA)股价定价合理吗",
-   "sentiment": 0
   }
  ]
 }
