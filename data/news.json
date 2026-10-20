@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T07:21:29.539182+00:00",
+ "updated_at": "2026-10-20T07:36:27.474232+00:00",
  "market": {
   "price": 217.09,
   "change_pct": 1.38,
@@ -10,12 +10,12 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.46,
-   "count": 13
+   "avg": 0.53,
+   "count": 19
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.46（13条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.53（19条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.1,
    "ma20": 227.66,
-   "as_of": "2026-10-20T07:21:29.530103+00:00"
+   "as_of": "2026-10-20T07:36:27.455829+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "e1115d6e5265",
+   "title": "Nasdaq tech stocks rebound led by Nvidia and Te... - Pluang",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMUZ0UWZmcVl1bDFBcDRHam5GVTF5c2RSY18wZkJ5SDVod2ZjQ1k5eENITFc5NmJ4N3pST1IyLUszcTYtNFRZcXFTV0JHQ0tydjNIRWo1WWZMZTBiUHhzQ1JNV0NHMC1uYm83RHhvSGZGQ3NVLUFtb3Zad1p0OXoxWWwzUnZFZjQ",
+   "source": "Pluang",
+   "published_at": "2026-10-20T07:34:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Pluang",
+     "published_at": "2026-10-20T07:34:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMUZ0UWZmcVl1bDFBcDRHam5GVTF5c2RSY18wZkJ5SDVod2ZjQ1k5eENITFc5NmJ4N3pST1IyLUszcTYtNFRZcXFTV0JHQ0tydjNIRWo1WWZMZTBiUHhzQ1JNV0NHMC1uYm83RHhvSGZGQ3NVLUFtb3Zad1p0OXoxWWwzUnZFZjQ"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
+   "id": "d914a1432004",
+   "title": "Ericsson CEO champions his silicon over Nvidia chips in RAN - Light Reading",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVZudGtqR1docnhyZ0VXVjBjR1ZkbU9zLTNuXzNzZ2tQYWxZc1VZSmlCRDdZRlJzV1lDMVFWM2VSVlhSOFBDcUwxcWlhWkc1Y25Ndk53MTlYcFFKbHlBRnNRckRJclJVdGJvbEhwVnZjQ1M3NHlqcHhmZTJQUFVxWEZyY2REOEhfRVJzLVhPbHlYRXNnTVE",
+   "source": "Light Reading",
+   "published_at": "2026-10-20T07:31:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Light Reading",
+     "published_at": "2026-10-20T07:31:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVZudGtqR1docnhyZ0VXVjBjR1ZkbU9zLTNuXzNzZ2tQYWxZc1VZSmlCRDdZRlJzV1lDMVFWM2VSVlhSOFBDcUwxcWlhWkc1Y25Ndk53MTlYcFFKbHlBRnNRckRJclJVdGJvbEhwVnZjQ1M3NHlqcHhmZTJQUFVxWEZyY2REOEhfRVJzLVhPbHlYRXNnTVE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "13011e636fe0",
+   "title": "176,229 Shares in NVIDIA Corporation $NVDA Purchased by CIBC Capital Markets Europe S.A. - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWFBTdVl0UDBESFFTUzhDeWlXWlVKM28tSWhCc1BMbFZYWFNHSEI4TzJJTzJfQllZUkpnbGd2NkhSODVhb1NwSUVSc05WaUxEVlZVd2VIQUJSR3FsWnJMUGtWSEpveUhGa0tHUVJxbHpJQk5QNGN0ZWw3TWlkLV9RYnlfVGxuY3pxT09TbkljNUc2UEhsNVlDdGM5b1owX1BfeDkzaHdlT29FMjZvbGxqVm1GZ0Z5S3ZOeXNJUEx1NGN0MzhUVFhzTmZEYVZZMnY3bC1ldXRjSmZMU3p4LWc",
+   "source": "MarketBeat",
+   "published_at": "2026-10-20T07:23:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-20T07:23:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWFBTdVl0UDBESFFTUzhDeWlXWlVKM28tSWhCc1BMbFZYWFNHSEI4TzJJTzJfQllZUkpnbGd2NkhSODVhb1NwSUVSc05WaUxEVlZVd2VIQUJSR3FsWnJMUGtWSEpveUhGa0tHUVJxbHpJQk5QNGN0ZWw3TWlkLV9RYnlfVGxuY3pxT09TbkljNUc2UEhsNVlDdGM5b1owX1BfeDkzaHdlT29FMjZvbGxqVm1GZ0Z5S3ZOeXNJUEx1NGN0MzhUVFhzTmZEYVZZMnY3bC1ldXRjSmZMU3p4LWc"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
   {
    "id": "1e9b9ce0990c",
    "title": "Germany signs AI partnership with Nvidia at Berlin investment summit - The Next Web",
@@ -80,6 +131,23 @@
    "zh_summary": "德国与英伟达签署AI合作协议",
    "title_zh": "德国在柏林投资峰会与英伟达签署AI合作",
    "sentiment": 1
+  },
+  {
+   "id": "a64203671940",
+   "title": "英伟达新突破！8192颗GPU完成最大规模容错量子模拟：量子比特少用90% - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDBOOEphbThXcG9mTnhvQ2YxU3ZMcWl3WmZRT3BFUEVaY3BuOFMtSkduMU8waTFlZkZMb2VJZzFBYWxibXpJeWRoZHd0Zjh1M0hSdUFoLU1xTVpwNVBfZnQwTDdmUHg2YVZrdE1FWnZIWVVadVVJSTQtbzNpRE12TXpwQ3pKVFVu",
+   "source": "搜狐",
+   "published_at": "2026-10-20T07:09:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-20T07:09:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDBOOEphbThXcG9mTnhvQ2YxU3ZMcWl3WmZRT3BFUEVaY3BuOFMtSkduMU8waTFlZkZMb2VJZzFBYWxibXpJeWRoZHd0Zjh1M0hSdUFoLU1xTVpwNVBfZnQwTDdmUHg2YVZrdE1FWnZIWVVadVVJSTQtbzNpRE12TXpwQ3pKVFVu"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "be20b0272a40",
@@ -1016,26 +1084,6 @@
    "zh_summary": "费半终结八连跌，英伟达发声三星台积电联手",
    "title_zh": "费半终结八连跌！英伟达放话，三星台积电罕见联手，发生了什么？ - 东方财富",
    "sentiment": 1
-  },
-  {
-   "id": "788aa2ed248d",
-   "title": "MPC Stock Is Beating NVDA This Year: Analyst Sees 16% More Upside - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSWVGdlRPanQzaTNyWW40UlFPU2RKS2lEeFYxSWd5Z2ZfMGl3ekc5WXU2WnFBbWJoblVPcDEwQ21SSTQtRmZRZmJfNzFKZ1lMdFJjQkQzbEJjcm9hZFkwQURocXNyYmt1YXB0RnlEdktuOXJuZFRLWVczVGV5UFViOU95d1o5eDhqQXhnaFoxTGlJOVNWSmhRUjlZdTdaYVFqMHQ3TmhDQUdBTVRGRHhqVGhhVVNMQnRBWnQ0YU1vSVc5WS1obU1iRUJEMjJSLUNUZktPbnJCcjB2aU00OEFVbGtkTWc4cU0",
-   "source": "Stocktwits",
-   "published_at": "2026-10-20T01:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-20T01:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSWVGdlRPanQzaTNyWW40UlFPU2RKS2lEeFYxSWd5Z2ZfMGl3ekc5WXU2WnFBbWJoblVPcDEwQ21SSTQtRmZRZmJfNzFKZ1lMdFJjQkQzbEJjcm9hZFkwQURocXNyYmt1YXB0RnlEdktuOXJuZFRLWVczVGV5UFViOU95d1o5eDhqQXhnaFoxTGlJOVNWSmhRUjlZdTdaYVFqMHQ3TmhDQUdBTVRGRHhqVGhhVVNMQnRBWnQ0YU1vSVc5WS1obU1iRUJEMjJSLUNUZktPbnJCcjB2aU00OEFVbGtkTWc4cU0"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘后",
-   "zh_summary": "MPC年内跑赢NVDA，分析师看涨16%",
-   "title_zh": "MPC股价年内跑赢NVDA，分析师预计还有16%上涨空间",
-   "sentiment": 0
   },
   {
    "id": "0d27450c6b40",
@@ -6589,66 +6637,6 @@
    "session": "盘前",
    "zh_summary": "三星台积电为英伟达代工下一代HBM芯片",
    "title_zh": "三星携手台积电代工英伟达下一代HBM芯片，半导体ETF博时(159582)近10日合计\"吸金\"超8800万元 - Jiemian.com",
-   "sentiment": 1
-  },
-  {
-   "id": "edb10857f6f3",
-   "title": "英伟达NVHBM消除三星与台积电代工竞争， - 超能网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90OUdNU29uMmdpUXZvQS0zbVpkcG5VaFVuY09Vd04xUXZlSDdCYWp3VGl3cW1tZFRsTU1HaV9OaERES0hFOUNMV01YTQ",
-   "source": "超能网",
-   "published_at": "2026-10-19T06:04:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "超能网",
-     "published_at": "2026-10-19T06:04:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90OUdNU29uMmdpUXZvQS0zbVpkcG5VaFVuY09Vd04xUXZlSDdCYWp3VGl3cW1tZFRsTU1HaV9OaERES0hFOUNMV01YTQ"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "英伟达NVHBM化解代工竞争",
-   "title_zh": "英伟达NVHBM消除三星与台积电代工竞争， - 超能网",
-   "sentiment": 0
-  },
-  {
-   "id": "3254fb92e2ba",
-   "title": "英伟达GTC大会在即，物理AI概念异动拉升，能科科技直线涨停 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFROX2s3TUN0OXZzSzFCRHc0dHVPTHpvVF9zdXdmZ0ZZTVJxYkxEdkY5ZDdlQmowdXcwX29wd2J3ZkJUWVVEUTNEZXZSaGdUYlhMNlRwMThfSDBFcnBrVnp4QmI2aVJ0OV9QY2t1NkRiYTluWUsweVZrM3pZRW4yWkc1eTdaa0ZHMDNPSA",
-   "source": "搜狐",
-   "published_at": "2026-10-19T05:41:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-19T05:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFROX2s3TUN0OXZzSzFCRHc0dHVPTHpvVF9zdXdmZ0ZZTVJxYkxEdkY5ZDdlQmowdXcwX29wd2J3ZkJUWVVEUTNEZXZSaGdUYlhMNlRwMThfSDBFcnBrVnp4QmI2aVJ0OV9QY2t1NkRiYTluWUsweVZrM3pZRW4yWkc1eTdaa0ZHMDNPSA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达GTC大会在即，能科科技直线涨停",
-   "title_zh": "英伟达GTC大会在即，物理AI概念异动拉升，能科科技直线涨停 - 搜狐",
-   "sentiment": 1
-  },
-  {
-   "id": "e3925aba58b9",
-   "title": "Santander, Nvidia team up to expand AI capabilities - Breakingthenews.net",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHlrd1I3ZkNicV9XYjVEbFhmNUtaU0MyZlJRTFFPaVhhZXlzMHRkRGUwT3F2ZEpRd1JHblNveWp2MF9zaFhJNURfaVhPb1pYLWRpcXExc3JfV1RMaWVGNGVrX0N3UEwtZDZzMnFvLUdad0NvVEo2REJzQ0JhNHhoSkFtVHNSajhKYmdoNXd6RnNTV2YzeGVaLWFNRQ",
-   "source": "Breakingthenews.net",
-   "published_at": "2026-10-19T05:37:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Breakingthenews.net",
-     "published_at": "2026-10-19T05:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHlrd1I3ZkNicV9XYjVEbFhmNUtaU0MyZlJRTFFPaVhhZXlzMHRkRGUwT3F2ZEpRd1JHblNveWp2MF9zaFhJNURfaVhPb1pYLWRpcXExc3JfV1RMaWVGNGVrX0N3UEwtZDZzMnFvLUdad0NvVEo2REJzQ0JhNHhoSkFtVHNSajhKYmdoNXd6RnNTV2YzeGVaLWFNRQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "桑坦德与英伟达合作拓展AI能力",
-   "title_zh": "桑坦德银行与英伟达合作扩大AI能力",
    "sentiment": 1
   }
  ]
