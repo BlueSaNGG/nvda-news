@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T18:21:30.080258+00:00",
+ "updated_at": "2026-10-20T18:36:26.980530+00:00",
  "market": {
-  "price": 217.04,
-  "change_pct": -0.02,
+  "price": 216.58,
+  "change_pct": -0.23,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.47,
-   "count": 156
+   "avg": 0.48,
+   "count": 158
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 70% 分位"
+     "note": "现价处于52周区间 69% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.47（156条已评分）"
+     "note": "今日新闻情绪 +0.48（158条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.04 vs 20日均线 $227.07"
+     "note": "现价 $216.58 vs 20日均线 $227.05"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 70,
+   "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.1,
-   "ma20": 227.07,
-   "as_of": "2026-10-20T18:21:30.066478+00:00"
+   "implied_upside_pct": 45.4,
+   "ma20": 227.05,
+   "as_of": "2026-10-20T18:36:26.962624+00:00"
   },
-  "pe_ttm": 27.6,
+  "pe_ttm": 27.5,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "13c973f73213",
+   "title": "Nvidia co-founder drops $75M to power N.J.’s $125M supercomputer - NJ.com",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUU1mdDB1TmVpeEJjMmJGYU5LSlRhXzIxZG1ROXpwVEtDWFRqVVMwOWdtV0F3dVBOWmI0UHkwRURXbkdjWHFhUXFTbUY4Ym95R2xhbUFnN2pMVlNENEt5T0FUN2J1SjNDTUdlaFJkOXdhNUJJUEhETXRfZFdwVURxaG03S19BRl91eXBTU2NkLTdmby1DMTVSQmNHTWpMSWpETnc",
+   "source": "NJ.com",
+   "published_at": "2026-10-20T18:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NJ.com",
+     "published_at": "2026-10-20T18:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUU1mdDB1TmVpeEJjMmJGYU5LSlRhXzIxZG1ROXpwVEtDWFRqVVMwOWdtV0F3dVBOWmI0UHkwRURXbkdjWHFhUXFTbUY4Ym95R2xhbUFnN2pMVlNENEt5T0FUN2J1SjNDTUdlaFJkOXdhNUJJUEhETXRfZFdwVURxaG03S19BRl91eXBTU2NkLTdmby1DMTVSQmNHTWpMSWpETnc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "cbea8291db4b",
+   "title": "Amazon is buying billions in Nvidia AI systems it can't yet turn on - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3daazVkZ09LWFR6Y0dUbG9BUHBvMlU4a0UzVWlEazZ6RHc5cDBBRUxyTTEwdU1FdjdKT012Z0JkSWJ5SzBRM3RGWnRNblpQVEhGQXpRZ09McU4zYS0wLXRzYkJMZjBBSWU1SS1OV21EUU5XS0ZoUlNZNEhVUXFCSTAtUC1FUDRxbF8zVDZLclFvREE",
+   "source": "Business Insider",
+   "published_at": "2026-10-20T18:29:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Insider",
+     "published_at": "2026-10-20T18:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3daazVkZ09LWFR6Y0dUbG9BUHBvMlU4a0UzVWlEazZ6RHc5cDBBRUxyTTEwdU1FdjdKT012Z0JkSWJ5SzBRM3RGWnRNblpQVEhGQXpRZ09McU4zYS0wLXRzYkJMZjBBSWU1SS1OV21EUU5XS0ZoUlNZNEhVUXFCSTAtUC1FUDRxbF8zVDZLclFvREE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "b62181dbce28",
    "title": "Nvidia Reportedly Just Landed $35 Billion In Chip Orders From Chinese Companies. Here's Why That Could Be Great News for the Stock - The Motley Fool",
@@ -87,7 +121,7 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmRtd0xpc2wwcFQ4WVRBUVpYY05neHAtYXpzTnN5LTc1QXZnY1p6MXBRSGZIcGZmclRjdXFnaTBzOV9UWjdKQVFHcVVDUW9kc1d5ZmVwUWoyUElvdnVZMDB6TFhGNm52RDVkMkRnTWVBaWFEV0ZSOXRkeEFLSkFIN3hGOHZRTzRwRFlweWdOTFBKaFNGUmcw",
    "source": "Yahoo Finance UK",
    "published_at": "2026-10-20T18:10:08+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance UK",
@@ -98,13 +132,39 @@
      "name": "Euronews.com",
      "published_at": "2026-10-20T18:10:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkg1WHh6WTlCYXlHVVliZzc4Y0x2NlZZeFNtTmtpNEJqMnRDTG5ILXJsRDlJa2lPLXBZNXIxSzAwUnQyN1hiSG4zQllBbEJURzgzYzJlMFNmRkw4aW81WTAzZW13UDZTVWVjNExrMXg4QnJRNjhRRUNwRVdGUzhtU3VzSUJ1eWhXSVZwR1VUaFBXU3hLamotNWZwb19ySDRH"
+    },
+    {
+     "name": "Yahoo Finance Singapore",
+     "published_at": "2026-10-20T18:10:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU9WNnRFNzBqWThFeUtQbFJVNWRSQjFzeFd1SFgxYlQzRVF3ajc2bW9DeXk1N2MxWDRUbVlLNks0UlNNNVNwbFZvd0pSM0xTVjZTcTdpTmZjUmN0WlA1YUk2UXdXRklpRlpWMTY2Um9rN051bFV2TkJxWndiV0N6ZmRUblhfU2lMSjJlNzlSS1hPWF9ocXBN"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "德国政府与英伟达达成AI合作协议",
    "title_zh": "投资峰会上德国政府与英伟达达成AI协议",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.18,
+    "window_h": 0.4
+   }
+  },
+  {
+   "id": "5d80e57ac4a5",
+   "title": "Not left behind after all? German government seals AI deal with Nvidia - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNendKZDRYOU1SWjJjYl9JaTYzcXp2ZTVHMHo1Y29yQW1sOWxHUW9saFBxU0RtS1ktYVgzUVJ3VGhOSEtlREM4eVAySlJlT092NUk4S1FWOEx5UVlKWDNFZ0VtY2JKeUw0SnkweHFhRV94LVFoOElUVUJqTFdYb2RYUVA0NUJkd1RuZXhvVW90ako4bUpyeFVEM1ZDZzFhM0M2TFNXc0Ntcko",
+   "source": "Euronews.com",
+   "published_at": "2026-10-20T18:10:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Euronews.com",
+     "published_at": "2026-10-20T18:10:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNendKZDRYOU1SWjJjYl9JaTYzcXp2ZTVHMHo1Y29yQW1sOWxHUW9saFBxU0RtS1ktYVgzUVJ3VGhOSEtlREM4eVAySlJlT092NUk4S1FWOEx5UVlKWDNFZ0VtY2JKeUw0SnkweHFhRV94LVFoOElUVUJqTFdYb2RYUVA0NUJkd1RuZXhvVW90ako4bUpyeFVEM1ZDZzFhM0M2TFNXc0Ntcko"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "84d5ca65b841",
@@ -187,6 +247,23 @@
    "sentiment": 0
   },
   {
+   "id": "c0fcc24b4b1b",
+   "title": "This Mod Can Run Nvidia's DLSS 5 on AMD Radeon Cards - PCMag",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFQzRnFWSWZON3VhV21vb2RtQzdEQXlFd2puVkN0elNNdlNyOWFkN29BYlpQQ3FTODgtTWFsb1VweFJIUi10UjFQWWxnS3kwYnVTSGhLTldOM3lXX00tVW1iblZwRjJhYWRNWUt5Q1dkS055MjZkV1M1SUQtQ1B4MDBfQTE",
+   "source": "PCMag",
+   "published_at": "2026-10-20T16:54:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PCMag",
+     "published_at": "2026-10-20T16:54:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFQzRnFWSWZON3VhV21vb2RtQzdEQXlFd2puVkN0elNNdlNyOWFkN29BYlpQQ3FTODgtTWFsb1VweFJIUi10UjFQWWxnS3kwYnVTSGhLTldOM3lXX00tVW1iblZwRjJhYWRNWUt5Q1dkS055MjZkV1M1SUQtQ1B4MDBfQTE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "8bc33c6d97c4",
    "title": "英伟达从字节跳动、阿里巴巴和腾讯控股获得超过350亿美元的订单 - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1EtWlJZdnVodHZqOU5lTUJPaHMxRDczYXNCZG5WVnBUYklwYjdsdmFzNTdQTDVrSFVpbXZPYTB5TTdQMmJ4a2o0UWNXY3BFTjZpeDg1SENLeTREMU43VnNZZlFHc2FpWjRrbHF6a3Y3WTJBUHpzU0lwc1c1Uk5IM1ZRby1IMWE2UWd3dWRMQk5QZENXTTk0Wk1tOURvdG5FNzlaZm5Qd2hCb2s5UzJGQ0dVZXY",
@@ -245,6 +322,23 @@
    "zh_summary": "分析：NVDA抛售是否结束",
    "title_zh": "Benzinga分析：NVDA抛售潮是否结束了",
    "sentiment": 0
+  },
+  {
+   "id": "44b0c84c3c30",
+   "title": "Stock of the Day: Where is the Bottom for NVIDIA? - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZW4yOWRZemFSZThSQWJiOTRPTFZUdkQyeWJiQ2k0U0VfdEYxeEtudkFUSDBDZS1EMXV0ZUlqTGdLVkhLRzVTRkp1TDFjZHhXREhmOExJUHJETTlMNFZOZEg2ZXVTT3NpN3YyOUxKSU1ZcGI5SFFmMlVxdmZEM2lQS2JPekRIbmY0V19XMkNrajJTRWYzM1JRb2J4RS0yYk9WWDR5REJhVk1uUQ",
+   "source": "TradingView",
+   "published_at": "2026-10-20T16:37:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-20T16:37:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZW4yOWRZemFSZThSQWJiOTRPTFZUdkQyeWJiQ2k0U0VfdEYxeEtudkFUSDBDZS1EMXV0ZUlqTGdLVkhLRzVTRkp1TDFjZHhXREhmOExJUHJETTlMNFZOZEg2ZXVTT3NpN3YyOUxKSU1ZcGI5SFFmMlVxdmZEM2lQS2JPekRIbmY0V19XMkNrajJTRWYzM1JRb2J4RS0yYk9WWDR5REJhVk1uUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "bc78eb4f698e",
@@ -2177,13 +2271,18 @@
    "sentiment": 2
   },
   {
-   "id": "f4d6acbdea4d",
-   "title": "亚马逊叫板英伟达！TorchNeuron落地，AI应用集体沸腾 - 文轩新闻",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RUGUtT3lLU2o0TXFObUYyV2Y2OTBmX1pVbHgtc0g2OUtiT2hMaGlxOXpXc1Yzai1UYkxzX3V1RmpZdmhEcUdMSmgwVFd4LVNCclE",
-   "source": "文轩新闻",
-   "published_at": "2026-10-20T10:20:44+00:00",
-   "outlets_count": 2,
+   "id": "2a9fbe43b0d0",
+   "title": "亚马逊叫板英伟达！TorchNeuron落地，AI应用集体沸 - 财经号",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WcFUya1V1R0JDMFp4aVhEOWd6OElzQUpfOGdNNTRBTTRsUi11d0Y5MnE1TjBoa1JrNDBzYWNYWDV3ZUd6WnQzc3pIZXJDbjU3RU5fRHZETVpXQkRaVG9Ra3lOcVo",
+   "source": "财经号",
+   "published_at": "2026-10-20T10:19:59+00:00",
+   "outlets_count": 3,
    "outlets": [
+    {
+     "name": "财经号",
+     "published_at": "2026-10-20T10:19:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WcFUya1V1R0JDMFp4aVhEOWd6OElzQUpfOGdNNTRBTTRsUi11d0Y5MnE1TjBoa1JrNDBzYWNYWDV3ZUd6WnQzc3pIZXJDbjU3RU5fRHZETVpXQkRaVG9Ra3lOcVo"
+    },
     {
      "name": "文轩新闻",
      "published_at": "2026-10-20T10:20:44+00:00",
@@ -2199,7 +2298,11 @@
    "session": "盘前",
    "zh_summary": "亚马逊发布TorchNeuron挑战英伟达",
    "title_zh": "亚马逊发布TorchNeuron叫板英伟达，AI应用沸腾",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 1.2,
+    "window_h": 2.0
+   }
   },
   {
    "id": "0a711c814e9e",
@@ -6632,111 +6735,6 @@
    "session": "盘中",
    "zh_summary": "英伟达下一代CPO技术原型已完成",
    "title_zh": "英伟达下一代CPO技术将光学元件置于基板，DWDM提速至256Gb/s",
-   "sentiment": 1
-  },
-  {
-   "id": "ef7f1f93330f",
-   "title": "市场动态：英伟达面临来自DeepSeek与华为合作的AI芯片挑战 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzQ0TkM4TGNCcV9maTZfT0xrVGdoSE03ZktaWUV3THExYTBrbFhDUktfQnNDdVo0LUU4SHFJRnpRNTlQMy1HV0NtaTRxVVhnZ0NsQmZ5QTItR0VIbWdlZTIxeEVJLXd4OTBUQkFVNi1WOWJzbFo1eGxHbW5Iam9kRnRPSVVHbkx2LXU5Qm5HSTFPdGFPcU5saHFrRW8zeW1JN3pLUFotb3FWNWdlaUZkS2NTUkt3Zw",
-   "source": "Moomoo",
-   "published_at": "2026-10-19T17:00:07+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-19T17:00:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzQ0TkM4TGNCcV9maTZfT0xrVGdoSE03ZktaWUV3THExYTBrbFhDUktfQnNDdVo0LUU4SHFJRnpRNTlQMy1HV0NtaTRxVVhnZ0NsQmZ5QTItR0VIbWdlZTIxeEVJLXd4OTBUQkFVNi1WOWJzbFo1eGxHbW5Iam9kRnRPSVVHbkx2LXU5Qm5HSTFPdGFPcU5saHFrRW8zeW1JN3pLUFotb3FWNWdlaUZkS2NTUkt3Zw"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-19T17:03:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NTNE5LOUpFSFVaeTRyMjJ5d0tRWlZnZ1RVYWFIeE1XS0tIWnVFOXZPbGpLYngtUkVoam9CQ3RaVUFXemw2eFc3aWNrNnNZNkxFb2tNTEJoeGV6b19PV1hRZ3VEV0N1RnN0MUJ4ZG92ZFZqdlhPT3o0NHItaEhVTk1lUmF4M3pkd1dzVk1JQ1pnMWV5VDRISU5oZ0lIV2JGbk93VEJJNzNNdw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达面临DeepSeek与华为合作挑战",
-   "title_zh": "市场动态：英伟达面临来自DeepSeek与华为合作的AI芯片挑战",
-   "sentiment": -1
-  },
-  {
-   "id": "4a1d0f9a1e11",
-   "title": "大幅拉升！英伟达、台积电突传大动作！黄仁勋即将发声 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtNDRUWndKRjNxVU0tNThEbzB6SUJHdS1NelBFMkFyQzYxenNxc1Y4MXBUamc3ZTVRQ211eGdjZ2o4SXllLUlGVXltWnZyZEJoYkJnakNQeDExeHl4ZENZcS1Uaw",
-   "source": "东方财富",
-   "published_at": "2026-10-19T16:55:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-19T16:55:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtNDRUWndKRjNxVU0tNThEbzB6SUJHdS1NelBFMkFyQzYxenNxc1Y4MXBUamc3ZTVRQ211eGdjZ2o4SXllLUlGVXltWnZyZEJoYkJnakNQeDExeHl4ZENZcS1Uaw"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘中",
-   "zh_summary": "英伟达台积电传大动作，黄仁勋将发声",
-   "title_zh": "大幅拉升！英伟达、台积电突传大动作！黄仁勋即将发声 - 东方财富",
-   "sentiment": 1
-  },
-  {
-   "id": "7de45b7c149c",
-   "title": "Martin Shkreli Warns on Quantum Stocks: “They’ll Never Beat an NVIDIA Machine” - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzltWWstdll6anI0bjBsN3lJSjhNNzYzM0pTdDU4emxURnhaakhyNGNuN0xLU2dzUk1fd2NxamZPNzRDY01ib05pc3VEeTN3MUZQQ2VlTGlRSElWNUtHZ0VrRDhNSF82MWxJa1RFeXNXSzdGRUc5QllSdDZNSEpWR2gtUTgwNGtTU1RnNlY3c0xucG9hSGRqa3JJZUIySGpr",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T16:51:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T16:51:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzltWWstdll6anI0bjBsN3lJSjhNNzYzM0pTdDU4emxURnhaakhyNGNuN0xLU2dzUk1fd2NxamZPNzRDY01ib05pc3VEeTN3MUZQQ2VlTGlRSElWNUtHZ0VrRDhNSF82MWxJa1RFeXNXSzdGRUc5QllSdDZNSEpWR2gtUTgwNGtTU1RnNlY3c0xucG9hSGRqa3JJZUIySGpr"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "施科雷利称量子股赢不了英伟达机器",
-   "title_zh": "施科雷利警告量子股：它们永远赢不了英伟达机器",
-   "sentiment": 1
-  },
-  {
-   "id": "0837de817321",
-   "title": "Nvidia: The Real Competitive Advantage Isn't About The Chip (NASDAQ:NVDA) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXo0ZUR3d3M0dDhuck1mcWN4X0FqbGprb19Jd2Z2WGdVaVlRUWhieXlucVRCYVhfc08yM0VsaVQ2clVweGJPaUlPRHZkdHNiZVVLb3hmNUF2dDY1SVJ6bkloeDJHZ2hlOTdhcnBpQXZMeXIySVhWalBSeFl4UDVvTUYxanNOcDNCSWEtV09Mdm5WVU5HS2JqeklGblVWQVU",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-19T16:50:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-19T16:50:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXo0ZUR3d3M0dDhuck1mcWN4X0FqbGprb19Jd2Z2WGdVaVlRUWhieXlucVRCYVhfc08yM0VsaVQ2clVweGJPaUlPRHZkdHNiZVVLb3hmNUF2dDY1SVJ6bkloeDJHZ2hlOTdhcnBpQXZMeXIySVhWalBSeFl4UDVvTUYxanNOcDNCSWEtV09Mdm5WVU5HS2JqeklGblVWQVU"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "真正的竞争优势不在芯片本身",
-   "title_zh": "英伟达真正的竞争优势不在芯片本身",
-   "sentiment": 1
-  },
-  {
-   "id": "512630d75a26",
-   "title": "Nemotron 3.5 Makes Nvidia’s Open A.I. Model Twice as Smart - www.trendingtopics.eu",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iRElQNjRJOG0zUWZfM2hfY0VEb2lrUDRKcm1OMHVudlhKeUJ5VFg0ZXVXcjgzaXBCdmZ6SDBmLThCT0tDTjczVHZBdk9UR2dHRUNNZnpBUWc4clZNR3hYWi10QkJ5a0JURjFkQVZielFrQmI3Vm55RjBSSjA",
-   "source": "www.trendingtopics.eu",
-   "published_at": "2026-10-19T16:47:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "www.trendingtopics.eu",
-     "published_at": "2026-10-19T16:47:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iRElQNjRJOG0zUWZfM2hfY0VEb2lrUDRKcm1OMHVudlhKeUJ5VFg0ZXVXcjgzaXBCdmZ6SDBmLThCT0tDTjczVHZBdk9UR2dHRUNNZnpBUWc4clZNR3hYWi10QkJ5a0JURjFkQVZielFrQmI3Vm55RjBSSjA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Nemotron 3.5开源AI模型性能翻倍",
-   "title_zh": "Nemotron 3.5让英伟达开源AI模型聪明一倍",
    "sentiment": 1
   }
  ]
