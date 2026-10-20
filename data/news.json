@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T19:51:26.803088+00:00",
+ "updated_at": "2026-10-20T20:06:29.103723+00:00",
  "market": {
-  "price": 216.4,
-  "change_pct": -0.32,
+  "price": 216.47,
+  "change_pct": -0.29,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.47,
-   "count": 169
+   "avg": 0.46,
+   "count": 173
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.6%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.47（169条已评分）"
+     "note": "今日新闻情绪 +0.46（173条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.40 vs 20日均线 $227.04"
+     "note": "现价 $216.47 vs 20日均线 $227.04"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.6,
+   "implied_upside_pct": 45.5,
    "ma20": 227.04,
-   "as_of": "2026-10-20T19:51:26.786538+00:00"
+   "as_of": "2026-10-20T20:06:29.088480+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.6%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "13a28eb8232a",
+   "title": "Why Isn’t Nvidia (NASDAQ:NVDA) Stock Rising Despite Reports of US$35 Billion in China AI Chip Orders? - Stocks Down Under",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MM09XRVRUMjVxeFFKdFhWSTJSSjdQUUdZdzlTT05QTTdaOFJSLTQwMV9TSmo2S0tKLXNKMWxmS19tejBXOVZHTDNNUnNSaXFxSHh0RTBPTTRoVjctdDVoUzJzVkdSOTdJWFQ1Z0YxVk1tZ0hZM1E",
+   "source": "Stocks Down Under",
+   "published_at": "2026-10-20T19:42:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocks Down Under",
+     "published_at": "2026-10-20T19:42:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MM09XRVRUMjVxeFFKdFhWSTJSSjdQUUdZdzlTT05QTTdaOFJSLTQwMV9TSmo2S0tKLXNKMWxmS19tejBXOVZHTDNNUnNSaXFxSHh0RTBPTTRoVjctdDVoUzJzVkdSOTdJWFQ1Z0YxVk1tZ0hZM1E"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "facdebc37426",
    "title": "市场传闻：亚马逊购买的英伟达AI硬件超出其供电能力 - 富途牛牛",
@@ -105,6 +122,23 @@
    "zh_summary": "Anthropic洽谈450亿美元AI交易",
    "title_zh": "Anthropic洽谈另一笔450亿美元AI交易，英伟达或成大赢家",
    "sentiment": 1
+  },
+  {
+   "id": "f6ea7f547e81",
+   "title": "Market Chatter: Amazon is Buying More Nvidia AI Hardware Than It Can Power Up - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1QwbjdqVlV4MEl5LVpwWFgxOTJqT1lScGpjNVM0TEt5ek9sbWdYbnhRNC1OTVZjRFhLTXZOVlBxMnd0djNYakk1SU9OaEp0NXIzcnJfZHg0cEc2ZzJDSURpblNrbnc4MWlrcTdQbG50VUNQd1FoeEVmYUgyRktfdEdFSDJjcUg0QkNzQU93R2hPdWxMdGp4YTQ0cVJsdw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-20T19:29:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T19:29:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1QwbjdqVlV4MEl5LVpwWFgxOTJqT1lScGpjNVM0TEt5ek9sbWdYbnhRNC1OTVZjRFhLTXZOVlBxMnd0djNYakk1SU9OaEp0NXIzcnJfZHg0cEc2ZzJDSURpblNrbnc4MWlrcTdQbG50VUNQd1FoeEVmYUgyRktfdEdFSDJjcUg0QkNzQU93R2hPdWxMdGp4YTQ0cVJsdw"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
   },
   {
    "id": "b2b1c41ac2b5",
@@ -302,7 +336,7 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmRtd0xpc2wwcFQ4WVRBUVpYY05neHAtYXpzTnN5LTc1QXZnY1p6MXBRSGZIcGZmclRjdXFnaTBzOV9UWjdKQVFHcVVDUW9kc1d5ZmVwUWoyUElvdnVZMDB6TFhGNm52RDVkMkRnTWVBaWFEV0ZSOXRkeEFLSkFIN3hGOHZRTzRwRFlweWdOTFBKaFNGUmcw",
    "source": "Yahoo Finance UK",
    "published_at": "2026-10-20T18:10:08+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "Yahoo Finance UK",
@@ -323,6 +357,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-20T18:10:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0NTc2xja3pTa1RlTXBSY0xneWRmZnNQLTY2M2xDV05uZVhBalVQeFV2SFhYa3pRXzFfemFKZDh6VEsxcXhNRlpEdmJiZTdOM1RUa1NPRk9ZVE54MUpPRjk2OHNHb19zSGRxSnNuTTN5UnRUaXdpQUg2eVdLdDFMVGJnQXhEQUVwRUJlMTkyYnotRWdfOEd4Wmd3LVNhVzB3dDY2N0FRTWQ2V0k"
+    },
+    {
+     "name": "Yahoo Finance Australia",
+     "published_at": "2026-10-20T18:44:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmUxTzhOREtWUTYtQlhLRkR4Z0FPaGRueUR4VHBGV1phOTZBMjFXaFc2Z2VPWGtrMF9zOGtJOWlubjZuNXBXT3ZNSHJBbnNXbmVDaUdIcXJ3cnVncXV4RWRVdU5JWFVnT3Q2NjdvcHR0d1VnczNyTGxkUjZ6M1BJT19vVDVZdDJRa0ROWXpXV1NNX1ZNTUhz"
     }
    ],
    "category": "其他",
@@ -1163,6 +1202,23 @@
    "zh_summary": "提醒英伟达股东关注10月20日",
    "title_zh": "致英伟达股东：请在日历上标记10月20日",
    "sentiment": 0
+  },
+  {
+   "id": "a7ff107a77ea",
+   "title": "英伟达、苹果、谷歌、微软、亚马逊、台积电、SpaceX、Meta、博通，集体下跌 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfYlE1cS1OSHdPbXE0Ym5QVFZTTHVPdkJjZGRNZ2hzdzA2UnVCVzlLSU1tbVd6WHhONkJFQ2x6NzE3QkwxZ1RiZXByaFYxZUdTMkpwYksydGRiNUFDMnJvQWxfNnBzNDhJU19SYk5KTVRLMmhZLXA2NQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-20T14:10:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-20T14:10:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfYlE1cS1OSHdPbXE0Ym5QVFZTTHVPdkJjZGRNZ2hzdzA2UnVCVzlLSU1tbVd6WHhONkJFQ2x6NzE3QkwxZ1RiZXByaFYxZUdTMkpwYksydGRiNUFDMnJvQWxfNnBzNDhJU19SYk5KTVRLMmhZLXA2NQ"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘中"
   },
   {
    "id": "fc7d00e7f25a",
@@ -6703,80 +6759,6 @@
     "pct": -0.12,
     "window_h": 1.8
    }
-  },
-  {
-   "id": "0e06295a29af",
-   "title": "A quantum approach needs 90% fewer building blocks than earlier methods. NVIDIA simulated it on a supercomputer. - Stock Titan",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUE13TzB1a1lpQVh1Q09WREx5dkliOTdRV3ExTGhjanloU1NkSGJqUElFVEczaVBReDlfeDdLUUsxSlROZHpYclVubjB3M3lac004R2w5R0ZLQXotLVRKN2w0TjUzVjh4QWROMVJicTZzdGtTZFFOUGs3MkNPUVdCR1dlSGthc3ZFY1ZYMGhSY2cyTlNzRWY1MG5Ib1JlYWxBUFlaeHp4b2pYUjBfbnZjYWsxdVdPbDdsWjdpSUhoSTY",
-   "source": "Stock Titan",
-   "published_at": "2026-10-19T18:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stock Titan",
-     "published_at": "2026-10-19T18:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUE13TzB1a1lpQVh1Q09WREx5dkliOTdRV3ExTGhjanloU1NkSGJqUElFVEczaVBReDlfeDdLUUsxSlROZHpYclVubjB3M3lac004R2w5R0ZLQXotLVRKN2w0TjUzVjh4QWROMVJicTZzdGtTZFFOUGs3MkNPUVdCR1dlSGthc3ZFY1ZYMGhSY2cyTlNzRWY1MG5Ib1JlYWxBUFlaeHp4b2pYUjBfbnZjYWsxdVdPbDdsWjdpSUhoSTY"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达超算模拟量子方法省90%资源",
-   "title_zh": "新量子方法所需资源减少90%，英伟达超算完成模拟",
-   "sentiment": 1
-  },
-  {
-   "id": "efa8f22d3fff",
-   "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjlqNjZuS0UyX09JeEh0dVJIM0E2OHY3X01OdExzbi1EWG9iWXVxOFhzVUNadmVTaHpSLWhEMlQzSXJMcVVJS0ZpM045cnQyUnNyZkFpMjJCaUF5UnFJNGhBTmM5bkttRVdmU0ZYZVVuU0U5WnpRNC1hTG5OVHVlMnJEUFlmRnNlcHdvell2dlBWdFNUcU9KSHV0clFfUmFq",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T18:00:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T18:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjlqNjZuS0UyX09JeEh0dVJIM0E2OHY3X01OdExzbi1EWG9iWXVxOFhzVUNadmVTaHpSLWhEMlQzSXJMcVVJS0ZpM045cnQyUnNyZkFpMjJCaUF5UnFJNGhBTmM5bkttRVdmU0ZYZVVuU0U5WnpRNC1hTG5OVHVlMnJEUFlmRnNlcHdvell2dlBWdFNUcU9KSHV0clFfUmFq"
-    },
-    {
-     "name": "NVIDIA Newsroom",
-     "published_at": "2026-10-19T18:03:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVG1WY2dfWHlKMC03cS1qQllzc3hyT0ptajMtQUJvdlNMZ1ZkVHM0bDdJRnloMVdQNDZxMHhXcnhyQUR5eW9EVENZWm1Yb0RMMlBCMHU2b1NfbzNaeGxSY3pFbjFpM1lNS01YbFZOMDBzc3dmRjFZM2hoSXpoQTVvbFVyeGNvRlRxWFp4QlEyMlhVWE1QeHljWTNGQkE0SlBKNDJGa0phLXhpNWFBSVBDRTE4dFFRS2puNDRuSUdKUDlscEkwaVE4TmFVS3I"
-    },
-    {
-     "name": "The Quantum Insider",
-     "published_at": "2026-10-19T19:05:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSkRMajFZV25vZ01IU0VwaDBjMURzU3BvY0lLUFRDSWM5Z3d1Y2FMT2NzYVlTSG5WQkZjUGh4ejVLYjhXMmxEMk9tUVhxaEJ5Y0JxbDVaYkJ4aDJaNFFGVUIxZFJQX3R2aHUyMmdqeXZnNVZtR3hiWmlxeGdqeGZoQnRKTURXSUFCazg0Y1FJVksyODR0UWREdVYzajVNa0d0eEV4RkVJajQteFc5OGJJUVBjb1NEQkxLLWptbDBnYlMyRkE2UlhsX0NFS1o"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达在尤利希中心创量子模拟纪录",
-   "title_zh": "英伟达在尤利希超算中心创容错量子计算模拟纪录",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.23,
-    "window_h": 1.4
-   }
-  },
-  {
-   "id": "0c9ffe6987ad",
-   "title": "英伟达在于利希超级计算中心运行创纪录的容错Quantum Computing模拟 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZlBZdnJtZHVldy14V3BjQWw1LXZmUThtNnIyMjB3ZG9zSFpZcTc0a0pXazFWVGZwc2k2Vk5SenY5b2E3YXVDQU9TbU9PTjZJOTZmampvaHpXRi0wLVdfdEg3eU9lVDM2aVdVOXRpUnFOSzBKRGRSZmtTc1BlSXdUVnM2Y1RwQm1ybkwxYjV3aW5ES0F0N0wyNktucWJNNWdnN2ZuNGg5RzBBRVM4",
-   "source": "富途牛牛",
-   "published_at": "2026-10-19T18:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-19T18:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZlBZdnJtZHVldy14V3BjQWw1LXZmUThtNnIyMjB3ZG9zSFpZcTc0a0pXazFWVGZwc2k2Vk5SenY5b2E3YXVDQU9TbU9PTjZJOTZmampvaHpXRi0wLVdfdEg3eU9lVDM2aVdVOXRpUnFOSzBKRGRSZmtTc1BlSXdUVnM2Y1RwQm1ybkwxYjV3aW5ES0F0N0wyNktucWJNNWdnN2ZuNGg5RzBBRVM4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达运行创纪录容错量子计算模拟",
-   "title_zh": "英伟达在于利希超级计算中心运行创纪录的容错Quantum Computing模拟",
-   "sentiment": 1
   }
  ]
 }
