@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T13:36:27.723286+00:00",
+ "updated_at": "2026-10-20T13:51:29.294100+00:00",
  "market": {
-  "price": 214.53,
-  "change_pct": -1.18,
+  "price": 213.34,
+  "change_pct": -1.73,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.49,
-   "count": 93
+   "avg": 0.46,
+   "count": 97
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 67% 分位"
+     "note": "现价处于52周区间 65% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +46.8%"
+     "note": "目标价中位数 $315（15家），隐含空间 +47.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.49（93条已评分）"
+     "note": "今日新闻情绪 +0.46（97条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $214.53 vs 20日均线 $226.95"
+     "note": "现价 $213.34 vs 20日均线 $226.89"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 67,
+   "price_52w_pct": 65,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 46.8,
-   "ma20": 226.95,
-   "as_of": "2026-10-20T13:36:27.712000+00:00"
+   "implied_upside_pct": 47.7,
+   "ma20": 226.89,
+   "as_of": "2026-10-20T13:51:29.275358+00:00"
   },
-  "pe_ttm": 27.3,
+  "pe_ttm": 27.1,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,24 +62,21 @@
  },
  "stories": [
   {
-   "id": "baf2a71cac5a",
-   "title": "英伟达GTC明日迎重头戏：AI泡沫疑云笼罩市场，黄仁勋能否打消华尔街疑虑？ - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlpIN2Z6cFlXbDRqQUdXNVlIV3pweU1HdjlzVDFpcmhSZ0dTaHVHSkloREJRS1lEUmt6YVRZOGZZWVVDYW9mWXpjb1J0OUtweE9UbVNwR0RVSkRFbWNmb0xRdG42V1ZNaVk3NWx3eFpISm1WYlgwem11bURlcndVY19RNVNZWWM4N3c3YWhsbUdpZVNyeV85dEFncGtFWUNNZWdR",
-   "source": "富途牛牛",
-   "published_at": "2026-10-20T13:31:33+00:00",
+   "id": "c7ef11dd6c4c",
+   "title": "Nvidia blames “outdated” curbs as China orders $35bn of RTX PRO 5500s - The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSlFsOXlJeUY3TnpPTW5UU2g5bG5PSGVMZTZFWklBTEVjYnNHOXNWVzdQaWNGUjVhaHExVDhXTnJCNmlwSFRQd1IyQS16eHZLNF9OUmR4MkFCY1lpWGp4RUZoZlp2YklBZDNOM25jMllVRzNrWDlLejNLQzV4d0ZGNTdJRUNSbWNmbk5fRnliNA",
+   "source": "The Next Web",
+   "published_at": "2026-10-20T13:34:42+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "富途牛牛",
-     "published_at": "2026-10-20T13:31:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlpIN2Z6cFlXbDRqQUdXNVlIV3pweU1HdjlzVDFpcmhSZ0dTaHVHSkloREJRS1lEUmt6YVRZOGZZWVVDYW9mWXpjb1J0OUtweE9UbVNwR0RVSkRFbWNmb0xRdG42V1ZNaVk3NWx3eFpISm1WYlgwem11bURlcndVY19RNVNZWWM4N3c3YWhsbUdpZVNyeV85dEFncGtFWUNNZWdR"
+     "name": "The Next Web",
+     "published_at": "2026-10-20T13:34:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSlFsOXlJeUY3TnpPTW5UU2g5bG5PSGVMZTZFWklBTEVjYnNHOXNWVzdQaWNGUjVhaHExVDhXTnJCNmlwSFRQd1IyQS16eHZLNF9OUmR4MkFCY1lpWGp4RUZoZlp2YklBZDNOM25jMllVRzNrWDlLejNLQzV4d0ZGNTdJRUNSbWNmbk5fRnliNA"
     }
    ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "GTC大会明日召开，华尔街关注黄仁勋讲话",
-   "title_zh": "英伟达GTC明日迎重头戏：AI泡沫疑云笼罩市场，黄仁勋能否打消华尔街疑虑？",
-   "sentiment": -1
+   "category": "政策监管",
+   "session": "盘中"
   },
   {
    "id": "b986ca98d014",
@@ -87,12 +84,17 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTDNjb3JNUEV3ZFFMaVgyN2w5S3A1VnRtOU8yTVFpRHd1cUxqZ1VDSXBmcjVTSVFNZnlMeXJ6MDFWME4ySElRSnpvUk05QjBOQ0ZDNFJtOFhvbWlPNlFtalBvM0NHMFBRSmJuUlNKb2dicHFQMHVfU2dsUlU5bzZlS0lXZ3dQdWJzeDFSaW5xWmt4LUJTWlN5TjVRaS1hZ0RteUxiMXdaZ0xfazJ1WEJsQ0JDdWJ1dWs",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-20T13:30:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-20T13:30:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTDNjb3JNUEV3ZFFMaVgyN2w5S3A1VnRtOU8yTVFpRHd1cUxqZ1VDSXBmcjVTSVFNZnlMeXJ6MDFWME4ySElRSnpvUk05QjBOQ0ZDNFJtOFhvbWlPNlFtalBvM0NHMFBRSmJuUlNKb2dicHFQMHVfU2dsUlU5bzZlS0lXZ3dQdWJzeDFSaW5xWmt4LUJTWlN5TjVRaS1hZ0RteUxiMXdaZ0xfazJ1WEJsQ0JDdWJ1dWs"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T13:30:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY28yOGFaREQ5REUwd3BqU0VyRi01dUNCbHltbmJjdTVCbEF0ZktyR3lid1Jlc3IwaWhzV3pBTHJ4SjRxZGNGd2c1ZkFXd2hPbHFES3lNU1pWTzFaMUpfbWJldkNyXzRMclc1UEJnMk1PVUtrV2ZvU25zYk9vQmdYTVFqbjk1eHAxbkdqZ0dpZGlsNDZ3Q0xBLUktVkVydDEwME9B"
     }
    ],
    "category": "其他",
@@ -146,12 +148,12 @@
    "title": "Nvidia RTX Spark Brings Local AI Agents to Windows Laptops - TechRepublic",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXAtZHRHWDBfTWJfdTVybkpDWXA1RmtYZDViTWh0akVCQkQ1RWp1bU93b0VXbmNCcTdTVUFrRm9LVE9BUm04RHNMVDlaeXhrUUZrLVVJS1R0eGhPNmZOdHZRNEZHRDFjRThEenFjTWFvLVBmRTMyN1ZCbHRpQ1pGVzlBMWNLUU10M2ZWTQ",
    "source": "TechRepublic",
-   "published_at": "2026-10-20T13:14:48+00:00",
+   "published_at": "2026-10-20T13:13:48+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "TechRepublic",
-     "published_at": "2026-10-20T13:14:48+00:00",
+     "published_at": "2026-10-20T13:13:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXAtZHRHWDBfTWJfdTVybkpDWXA1RmtYZDViTWh0akVCQkQ1RWp1bU93b0VXbmNCcTdTVUFrRm9LVE9BUm04RHNMVDlaeXhrUUZrLVVJS1R0eGhPNmZOdHZRNEZHRDFjRThEenFjTWFvLVBmRTMyN1ZCbHRpQ1pGVzlBMWNLUU10M2ZWTQ"
     }
    ],
@@ -160,6 +162,28 @@
    "zh_summary": "RTX Spark把本地AI助手带进笔记本电脑",
    "title_zh": "英伟达RTX Spark将本地AI助手带入Windows笔记本",
    "sentiment": 1
+  },
+  {
+   "id": "3a58e5a0a822",
+   "title": "21:39:45【美股市值前十公司盘初罕见全线下跌 英伟达、苹果等集体承压】 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yZU1xenp2d1JYeWRwLUl2ckRlV2lkcm9qNWdmY3NGbUQ4blotdWROak5SMWhYcGhubWFxSmRjM1Yxb1Zjamg5LQ",
+   "source": "财联社",
+   "published_at": "2026-10-20T13:08:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-20T13:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yZU1xenp2d1JYeWRwLUl2ckRlV2lkcm9qNWdmY3NGbUQ4blotdWROak5SMWhYcGhubWFxSmRjM1Yxb1Zjamg5LQ"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-20T13:43:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVc2JuNVduSnZYb1FUcDlFdHpFSFZnU0k1MDNoSU9mWXB1N0M2aDhHTW95UDVfSTUxOGtuSi12R2FiV0dSdXFSMk9ORQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "d90197c321e3",
@@ -247,12 +271,17 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTTGRXYzFzMXJzOUFBM3dBOWJFSC1iNVJfNjFtOFo3VDd2VEM4djRtZVBGX29nUWduTlpnd0pKblJodFU3U3BtTVItSDRpMDBnT0dWSjdKTHhZLU1MU3dOYjBScXNxbUcwMGh4bkpyZTBMZw",
    "source": "BeInCrypto",
    "published_at": "2026-10-20T12:24:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "BeInCrypto",
      "published_at": "2026-10-20T12:24:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTTGRXYzFzMXJzOUFBM3dBOWJFSC1iNVJfNjFtOFo3VDd2VEM4djRtZVBGX29nUWduTlpnd0pKblJodFU3U3BtTVItSDRpMDBnT0dWSjdKTHhZLU1MU3dOYjBScXNxbUcwMGh4bkpyZTBMZw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T12:24:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON09XNXR0RGl6ckxmV3I3STVkSW9vVTk5d21NZ3Jfa1huT1RtTU1GVFZoZlplTTNYUWVfVHpBT2diRmszSm5wSDloZ0tiRXdIUGZ1WU5uZkVYc3plazJKbDJqckhZMkRjV29aUEI5NXZGY0xwWXFqaWwzV1Zid1BTVG5Qb1lWMFY1VXlYQ0RxdnoyNWJCUzR1UHlKZU9qTUsteHc"
     }
    ],
    "category": "其他",
@@ -608,6 +637,31 @@
    "session": "盘前",
    "zh_summary": "传RTX6060推迟至2029年发布",
    "title_zh": "消息称英伟达RTX 6060可能推迟至2029年发布，游戏性能不及PS6",
+   "sentiment": -1
+  },
+  {
+   "id": "baf2a71cac5a",
+   "title": "英伟达GTC明日迎重头戏：AI泡沫疑云笼罩市场，黄仁勋能否打消华尔街疑虑？ - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UOERTb0VTQnpJd2JEY0ctR0otWkdKdHlUeEhZelVQa2hiTmNtWkUxNFJ2c2hSXzU4emUxY09neWtYUVM4MWx3WEdHbDVyeGNndE9z",
+   "source": "华尔街见闻",
+   "published_at": "2026-10-20T11:38:04+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-20T11:38:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UOERTb0VTQnpJd2JEY0ctR0otWkdKdHlUeEhZelVQa2hiTmNtWkUxNFJ2c2hSXzU4emUxY09neWtYUVM4MWx3WEdHbDVyeGNndE9z"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-20T13:31:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTlpIN2Z6cFlXbDRqQUdXNVlIV3pweU1HdjlzVDFpcmhSZ0dTaHVHSkloREJRS1lEUmt6YVRZOGZZWVVDYW9mWXpjb1J0OUtweE9UbVNwR0RVSkRFbWNmb0xRdG42V1ZNaVk3NWx3eFpISm1WYlgwem11bURlcndVY19RNVNZWWM4N3c3YWhsbUdpZVNyeV85dEFncGtFWUNNZWdR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "GTC大会明日召开，华尔街关注黄仁勋讲话",
+   "title_zh": "英伟达GTC明日迎重头戏：AI泡沫疑云笼罩市场，黄仁勋能否打消华尔街疑虑？",
    "sentiment": -1
   },
   {
@@ -2194,26 +2248,6 @@
    "sentiment": 0
   },
   {
-   "id": "562834c4fbb6",
-   "title": "英伟达GTC柏林大会即将开幕 黄仁勋将发表主题演讲 AI工厂、欧洲投资引关注 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zbUZHQVZxTUxGakJGSEgzRnJYMk5JSXFlWFhTdUlLdkRpNzNKZ292U1dia29PQk14NWd3OGt2clBiQkNkRTc3Zg",
-   "source": "财联社",
-   "published_at": "2026-10-20T03:56:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-20T03:56:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zbUZHQVZxTUxGakJGSEgzRnJYMk5JSXFlWFhTdUlLdkRpNzNKZ292U1dia29PQk14NWd3OGt2clBiQkNkRTc3Zg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "GTC柏林大会将开幕，黄仁勋发表演讲",
-   "title_zh": "英伟达GTC柏林大会即将开幕 黄仁勋将发表主题演讲 AI工厂、欧洲投资引关注",
-   "sentiment": 1
-  },
-  {
    "id": "96aa157dadfc",
    "title": "NVIDIA BlueField-4 STX Server for CMX at OCP 2026 - ServeTheHome",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3phUEl5d0FzN3VTRVNjVW1vVUpVcUJCdTZtNEpFRjFoSFNDYkNuV3NJR05ZV25PYU42NV9QUzZGSU5tMElOMnJYUHhyeUdtM01ibHpUOWNRMjV2MDBhdENBNHE3Wk03M0ZrQVBUWFdSd09NUS1CT2FsdU8wZDV5cW55aG5jdw",
@@ -2568,7 +2602,7 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjlxbWstZE1pTGJBVndid1FWNHNTQVhJV1VtR25nX2UzYWdzVTcyWm1STktKbVhjLU9JeDFvb1JlYmdsTGxFaFhxbmdsM2s5SmxEMVJ0N3VGak1sY0lQYTg3SUF5WDE3NXkyOEg4YXdzSWJuY3RlblN4ZTNFR2Zkb3hiWm03cTFobk5LVkRPS1JnUmh1ak5YWDNkREMtTDNuZTRuUGRB",
    "source": "富途牛牛",
    "published_at": "2026-10-20T02:51:23+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "富途牛牛",
@@ -2589,6 +2623,11 @@
      "name": "金十数据",
      "published_at": "2026-10-20T08:26:42+00:00",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50dzZZUkVDeUhxUXVfUlRuT1FPdi04SThOXzRyU3lBaTVIeTZQRTVaaXd6UnlUaTh2TWNraFBHWFJxOWktaDJvUFpfcnp5NDA"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-20T02:51:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QZFpBOHZvZVVnazZkOG0zYlYzYUQ0ZDM1NkIxOFFUWU81SlF5eHdQXzlBRmludzFwcWFDeXpnTmZNMlU5T1hJZWxLcFFrWHBJX3BkZXZaV0cwbE1E"
     }
    ],
    "category": "供应链",
@@ -2671,7 +2710,7 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1RvZ1BNR0hRSFlWZUt1YTNjREJfZ0ZpclF2cFU0d3BuWk5NZUQ3MFVEbW9HOXktU05kYlA0YVRqV2hjamcyQnhxMjhaMF9CT2pCaVNwUEdUOGIySF9VdmkzczQzZU4yWlBRZjl1aWJZeFRRN0RIa2lYMXZXNmI4Qlpzclc2UDduYmRFSzVXcG02dXJIei1v",
    "source": "The Tech Buzz",
    "published_at": "2026-10-20T02:36:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Tech Buzz",
@@ -2682,13 +2721,22 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-20T12:59:58+00:00",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTZYaUstMERaTHVoejZzWGczdGlZMnNkekw5bmx4blFGNUJFVVI4N0FPSFVMM2NZai00bTQ1amp3X3ZOQ2dTbTZuV2FuQjRqUmxuX0MzRnZ1NlZ0eE5jNTFYa0ZTVVhrdFkwZi1BUDFzeTB1b1l6aDNXclotc2pnMWxXQVU2ZDdUSkhDQ0NEZElYNi1VMlE"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-20T12:59:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXVjWW9jOHRjTlA2M0tKZTZSR2I0eFcycWVNLW5odWlRRFptblZJR3F5V1loRXJibzA4cW5qSjg5cHRKUjV5c1N2NkhMTEVOel83U3M5RXpKNHVlUTNDaXdNSEFZUHIya04tUkFYcE9GVHYzcEswZ0hCbVhHN1FZaVhpMjdaWVVJTnI5akpTdktoLW5JaFI1Smp1TFN6eVR5NGFiRjVGZFh0X194bUpPVWF1M3JaWUhRZDZvWEluNG1yYU94"
     }
    ],
    "category": "其他",
    "session": "盘后",
    "zh_summary": "英伟达支持四家德国AI初创企业",
    "title_zh": "英伟达支持四家德国AI初创公司",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.46,
+    "window_h": 0.4
+   }
   },
   {
    "id": "4afe70eebb01",
@@ -2798,15 +2846,15 @@
   {
    "id": "63d51ed6cb33",
    "title": "费半终结八连跌！英伟达放话，三星台积电罕见联手，发生了什么？ - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpY2s5aEpRdXpQbGx1U0s0YkZjb0hpejdjUmdLejl3MHd2eF9RV0taMWExMVJxT1o0cHFlamhlTlctNXVWZzNEU1VWZ3FRWEdCQ0dxaXhZS09oVm1TOFZWVmdmd3NDXy12R0RLV3NmSGhPV1BwMGxqMg",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMdlNKeGxvZzFMX2dCbnh1Ym9EOWs0TUE0aU1CY2RuR1hWa3NBRUljZzl0cUEwS0tPd3pWTm52UHNFeGFFUG5kVmpoR2FiYUs2d1JFQnFoUEJtMEJBTW9pYUp1SExteThwSHkyR1E1VQ",
    "source": "新浪财经",
-   "published_at": "2026-10-20T01:27:27+00:00",
+   "published_at": "2026-10-20T01:24:16+00:00",
    "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
-     "published_at": "2026-10-20T01:27:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpY2s5aEpRdXpQbGx1U0s0YkZjb0hpejdjUmdLejl3MHd2eF9RV0taMWExMVJxT1o0cHFlamhlTlctNXVWZzNEU1VWZ3FRWEdCQ0dxaXhZS09oVm1TOFZWVmdmd3NDXy12R0RLV3NmSGhPV1BwMGxqMg"
+     "published_at": "2026-10-20T01:24:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMdlNKeGxvZzFMX2dCbnh1Ym9EOWs0TUE0aU1CY2RuR1hWa3NBRUljZzl0cUEwS0tPd3pWTm52UHNFeGFFUG5kVmpoR2FiYUs2d1JFQnFoUEJtMEJBTW9pYUp1SExteThwSHkyR1E1VQ"
     },
     {
      "name": "东方财富",
@@ -6653,26 +6701,6 @@
    "zh_summary": "三星回应英伟达定制化NVHBM计划",
    "title_zh": "三星回应英伟达要生产定制化NVHBM - finance.sina.com.cn",
    "sentiment": 0
-  },
-  {
-   "id": "485b528cf220",
-   "title": "Nvidia Stocks Rebound With $108 Billion Revenue Target Ahead - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkdxZUJzM2tzRmJtOEJlbDdZbjF1Z2MyOVlxNTVBWVlxMndSQkY1cHBsSVFvM0NfTkQ0d0F0blp3OEdLNnI2dHpldU1WZ1V3RmZOM0pBN0RkRFY4M1FzYWRVeTF6OUxobGctYkJvX1Z0X0dwVy1ZbUt5X2tMcnpOTEU1T2EzTWpQTGxlUTB5TkNkc0VwX0RURU4yREdKREtjZmlibzhrd08wWGRvRWJvM2xSWkZvekdmVFZB",
-   "source": "TradingView",
-   "published_at": "2026-10-19T12:09:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-19T12:09:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkdxZUJzM2tzRmJtOEJlbDdZbjF1Z2MyOVlxNTVBWVlxMndSQkY1cHBsSVFvM0NfTkQ0d0F0blp3OEdLNnI2dHpldU1WZ1V3RmZOM0pBN0RkRFY4M1FzYWRVeTF6OUxobGctYkJvX1Z0X0dwVy1ZbUt5X2tMcnpOTEU1T2EzTWpQTGxlUTB5TkNkc0VwX0RURU4yREdKREtjZmlibzhrd08wWGRvRWJvM2xSWkZvekdmVFZB"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "英伟达股价反弹，瞄准108亿美元营收",
-   "title_zh": "英伟达股票反弹，市场关注108亿美元营收目标",
-   "sentiment": 1
   }
  ]
 }
