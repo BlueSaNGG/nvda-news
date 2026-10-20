@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-19T23:53:04.488950+00:00",
+ "updated_at": "2026-10-20T00:06:54.734079+00:00",
  "market": {
-  "price": 217.09,
-  "change_pct": 1.38,
+  "price": 214.13,
+  "change_pct": -1.43,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.4,
-   "count": 241
+   "count": 243
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 70% 分位"
+     "note": "现价处于52周区间 66% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +47.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（241条已评分）"
+     "note": "今日新闻情绪 +0.40（243条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.09 vs 20日均线 $227.66"
+     "note": "现价 $214.13 vs 20日均线 $228.18"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 70,
+   "price_52w_pct": 66,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.1,
-   "ma20": 227.66,
-   "as_of": "2026-10-19T23:53:04.479955+00:00"
+   "implied_upside_pct": 47.1,
+   "ma20": 228.18,
+   "as_of": "2026-10-20T00:06:54.710311+00:00"
   },
-  "pe_ttm": 27.6,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.2,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d0e3251efa2d",
+   "title": "欧洲首台百亿亿次级超算出手：英伟达合作完成104量子比特容错模拟 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTY5OG9QWXFZTzVwOW1KRjVhWm5QQlNrWWgxaXl0b2NNcXdmbmtDclNkXy1vZEF0NmhPdjlyV2E5TFg1LWRGRmtWMm5xTXdNNy1Zd3RXQjRteHU2RW9mbGt4UGtaemRmUHhPLTZJTmJFTVd2d2ZSWmpaNm51YTQ0ZUJpTWd6aTdC",
+   "source": "搜狐",
+   "published_at": "2026-10-19T23:50:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-19T23:50:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNTY5OG9QWXFZTzVwOW1KRjVhWm5QQlNrWWgxaXl0b2NNcXdmbmtDclNkXy1vZEF0NmhPdjlyV2E5TFg1LWRGRmtWMm5xTXdNNy1Zd3RXQjRteHU2RW9mbGt4UGtaemRmUHhPLTZJTmJFTVd2d2ZSWmpaNm51YTQ0ZUJpTWd6aTdC"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "1509262b5dd1",
    "title": "Anthropic被曝开发新模型，重点提升模糊指令理解能力；英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成｜全球科技早参 - www.mrjjxw.com",
@@ -77,8 +94,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "Anthropic被曝开发新模型，重点提升模糊指令理解能力；英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成｜全球科技早参 - www.mrjjxw.com",
    "zh_summary": "英伟达官宣重大突破：超8000GPU量子模拟创纪录",
+   "title_zh": "Anthropic被曝开发新模型，重点提升模糊指令理解能力；英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成｜全球科技早参 - www.mrjjxw.com",
    "sentiment": 1
   },
   {
@@ -207,8 +224,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "英伟达与于利希在JUPITER超算运行104量子比特魔法态制备模拟",
    "zh_summary": "英伟达与于利希完成104量子比特模拟",
+   "title_zh": "英伟达与于利希在JUPITER超算运行104量子比特魔法态制备模拟",
    "sentiment": 1
   },
   {
@@ -2692,6 +2709,23 @@
    "zh_summary": "英伟达AI扩张背后的财务风险",
    "title_zh": "英伟达：AI扩张背后的财务风险",
    "sentiment": -1
+  },
+  {
+   "id": "4e7f263fd99e",
+   "title": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc",
+   "source": "Yahoo! Finance Canada",
+   "published_at": "2026-10-19T13:48:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-19T13:48:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "5c954d6289e7",
@@ -6585,46 +6619,6 @@
    "zh_summary": "英伟达与两只快速成长股被列为持有推荐",
    "title_zh": "英伟达及另外2只快速成长股值得持有",
    "sentiment": 1
-  },
-  {
-   "id": "f755d42fe89e",
-   "title": "韩国媒体称英伟达要求三星、SK海力士和美光用台积电3纳米制造NVHBM基础晶粒 - 茉莉花新闻网",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBCVmFiWUI0emZ1LUlMNlFPakJGSThyMHRZNFlqUVYteE15WnB6QUoxVDJ3Wjg5MVk2MEc0cXhUZ21nelczb1Nn",
-   "source": "茉莉花新闻网",
-   "published_at": "2026-10-18T21:56:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "茉莉花新闻网",
-     "published_at": "2026-10-18T21:56:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBCVmFiWUI0emZ1LUlMNlFPakJGSThyMHRZNFlqUVYteE15WnB6QUoxVDJ3Wjg5MVk2MEc0cXhUZ21nelczb1Nn"
-    }
-   ],
-   "category": "供应链",
-   "session": "周末",
-   "zh_summary": "英伟达要求三星等用台积电3nm制造HBM基础晶粒",
-   "title_zh": "韩媒：英伟达要求三星、SK海力士、美光用台积电3nm造NVHBM基础晶粒",
-   "sentiment": 1
-  },
-  {
-   "id": "2816b1b5dc2b",
-   "title": "Nvidia Denies RTX 5090 Death, $1,999 Supply Tight [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaM0VSVkljNFc1S2JQV1Z4dDZyRnZXLXM2SGd6bUJLSlZkME5KUjR2aVhzUUUwUFBPdkQ2SnNPM2F0RFhDeWdTc1JXV3ZybFN4MFZEQlhsRGR0SjRYV3dQc1kxYjN3YmZhYVo5cWN6cTZuMFNsMlJneg",
-   "source": "shattered.io",
-   "published_at": "2026-10-18T21:25:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-18T21:25:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaM0VSVkljNFc1S2JQV1Z4dDZyRnZXLXM2SGd6bUJLSlZkME5KUjR2aVhzUUUwUFBPdkQ2SnNPM2F0RFhDeWdTc1JXV3ZybFN4MFZEQlhsRGR0SjRYV3dQc1kxYjN3YmZhYVo5cWN6cTZuMFNsMlJneg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达否认RTX 5090停产，称供应紧张",
-   "title_zh": "英伟达否认RTX 5090停产，1999美元机型供应紧张",
-   "sentiment": 0
   }
  ]
 }
