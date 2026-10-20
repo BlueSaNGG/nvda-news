@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T01:06:30.636810+00:00",
+ "updated_at": "2026-10-20T01:21:37.618968+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.4,
-   "count": 250
+   "count": 253
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（250条已评分）"
+     "note": "今日新闻情绪 +0.40（253条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-20T01:06:30.624258+00:00"
+   "as_of": "2026-10-20T01:21:37.594007+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "da9e5b6f1024",
+   "title": "传DeepSeek华为联手设计AI芯片挑战英伟达 - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tTkl5TlVocEpLNkNNamd0VTI1cl9nMVhoSTdybVRCUGlySHlGb3hMeEd6dER5NktBNFhBdmtxb2ROWTN1c1ZENEE3ZVp2SWhBb01XNmJFMjhHaGdxUlBob2xR",
+   "source": "观点网",
+   "published_at": "2026-10-20T00:59:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-20T00:59:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tTkl5TlVocEpLNkNNamd0VTI1cl9nMVhoSTdybVRCUGlySHlGb3hMeEd6dER5NktBNFhBdmtxb2ROWTN1c1ZENEE3ZVp2SWhBb01XNmJFMjhHaGdxUlBob2xR"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
   {
    "id": "96e343f9ba01",
    "title": "上市公司称买了2万张英伟达GPU，深交所下发监管函 - 观察者网",
@@ -170,6 +187,23 @@
    "zh_summary": "黄仁勋称AI不会取代专业知识",
    "title_zh": "英伟达黄仁勋：AI是新工具，你的专业知识不会被取代 - 金融界",
    "sentiment": 0
+  },
+  {
+   "id": "3f97dd01ba9f",
+   "title": "Nvidia Launches Nemotron 3.5 Super VL and Bolt Open-Weight Models for Enterprise Agents: how 6 outlets framed it - NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORWhDWG10YjhCNGJqRE5WaDM4UTNnUGp4NmZmNTN4bGlqSkREN1h0SjhBNDNmU2Vfb0lyb0VzcDRxTDNpbnRsLS1fWXRuQXFCNUdMXzFTMVctbVB5Q2MyM2pIVTlxUXB4NzRRNTIzSjdOV3dmdEIxbno0a1ZuTEd3VDV5cTIxR3hHY1FHeFlfN1NidDZSa0g2MVRGS3VtTW5fX2dyUmFzTUpRZlhyYWxCSlFDbUdSUlFFNm5URG5valBqanViTHBmcElFVFZfcFQ0T3RHUnl4TkJLRUVrMzA1dnNWMmZSR090",
+   "source": "NewsCord",
+   "published_at": "2026-10-20T00:03:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NewsCord",
+     "published_at": "2026-10-20T00:03:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORWhDWG10YjhCNGJqRE5WaDM4UTNnUGp4NmZmNTN4bGlqSkREN1h0SjhBNDNmU2Vfb0lyb0VzcDRxTDNpbnRsLS1fWXRuQXFCNUdMXzFTMVctbVB5Q2MyM2pIVTlxUXB4NzRRNTIzSjdOV3dmdEIxbno0a1ZuTEd3VDV5cTIxR3hHY1FHeFlfN1NidDZSa0g2MVRGS3VtTW5fX2dyUmFzTUpRZlhyYWxCSlFDbUdSUlFFNm5URG5valBqanViTHBmcElFVFZfcFQ0T3RHUnl4TkJLRUVrMzA1dnNWMmZSR090"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "d0e3251efa2d",
@@ -287,12 +321,17 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5seWctMkZxb1BuNURqczNpeFptMkpBSjVhZi1xaEswTlJHQ3hteWtMS3RLX0t1dXNGX0g1WU04YXpZd2poZHZxX3FfLUw",
    "source": "凤凰网科技",
    "published_at": "2026-10-19T23:02:30+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "凤凰网科技",
      "published_at": "2026-10-19T23:02:30+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5seWctMkZxb1BuNURqczNpeFptMkpBSjVhZi1xaEswTlJHQ3hteWtMS3RLX0t1dXNGX0g1WU04YXpZd2poZHZxX3FfLUw"
+    },
+    {
+     "name": "36Kr",
+     "published_at": "2026-10-20T01:10:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJVUhPY0ZPajI5emdVTWdEcExscHBXaHlyUk9YdFhCUHV2Um1YMEE1OGNLTi1zR24tdzhSdi03Nzk5azBnYVBuNUFJaXQzQXM"
     }
    ],
    "category": "其他",
@@ -6599,46 +6638,6 @@
    "zh_summary": "Nscale拟300亿美元IPO估值遭质疑",
    "title_zh": "英伟达支持的AI公司Nscale面临300亿美元IPO估值质疑",
    "sentiment": 0
-  },
-  {
-   "id": "632037d0118e",
-   "title": "本周市场前瞻：Meta等企业财报及英伟达GTC大会成AI交易“大考” 地缘局势持续牵动通胀担忧提供者智通财经 - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRMmQxazF6aXYxOTBNU0w3RHhrT1V4SmlJOXNfNWU0N3hhNXdIQXE1SkQ2UFJOSTFsS0hJaHpRT2xZOXVwOFRvNEotYjNWRWxlRTByYWl6Nm8xbnJuWk5xUS0wb1puc1cxZWlZb1JrOVU",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-18T23:52:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-18T23:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRMmQxazF6aXYxOTBNU0w3RHhrT1V4SmlJOXNfNWU0N3hhNXdIQXE1SkQ2UFJOSTFsS0hJaHpRT2xZOXVwOFRvNEotYjNWRWxlRTByYWl6Nm8xbnJuWk5xUS0wb1puc1cxZWlZb1JrOVU"
-    }
-   ],
-   "category": "财报",
-   "session": "周末",
-   "zh_summary": "英伟达GTC大会成AI交易大考",
-   "title_zh": "本周市场前瞻：Meta等企业财报及英伟达GTC大会成AI交易“大考” 地缘局势持续牵动通胀担忧提供者智通财经 - 英为财情 Investing.com",
-   "sentiment": 0
-  },
-  {
-   "id": "cb882144b603",
-   "title": "NVIDIA expands AI training and research computing access in Europe | ETIH EdTech News - EdTech Innovation Hub",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOajh6eG9pUUF1TEI0QmRGSVBPUVZyTW5uM2o0NHRjM0tveUpQcFJzMnR3cTlQdjEtQWxVakc3SjQ4dmRrdWxOVDdqMVh0dXlMSHlzdGlxLTdKaU1hQU8yeWsxQXRDNG1JS0lsZDFVRWtxUUdyckw3MzlsTS1YVkZDRmhXX01NcDFEOWt5dlNTUmxybTg2bERHZEhYOHcxU2xfSXV2cDlpMVlIelhDUFlPRmU2T1FmQjFBM1dHOXAxT1hWMElqekE",
-   "source": "EdTech Innovation Hub",
-   "published_at": "2026-10-18T23:31:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "EdTech Innovation Hub",
-     "published_at": "2026-10-18T23:31:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOajh6eG9pUUF1TEI0QmRGSVBPUVZyTW5uM2o0NHRjM0tveUpQcFJzMnR3cTlQdjEtQWxVakc3SjQ4dmRrdWxOVDdqMVh0dXlMSHlzdGlxLTdKaU1hQU8yeWsxQXRDNG1JS0lsZDFVRWtxUUdyckw3MzlsTS1YVkZDRmhXX01NcDFEOWt5dlNTUmxybTg2bERHZEhYOHcxU2xfSXV2cDlpMVlIelhDUFlPRmU2T1FmQjFBM1dHOXAxT1hWMElqekE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达扩大欧洲AI训练与科研计算资源",
-   "title_zh": "英伟达扩大欧洲AI训练与科研计算资源准入",
-   "sentiment": 1
   }
  ]
 }
