@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T21:36:28.755432+00:00",
+ "updated_at": "2026-10-20T21:51:32.242297+00:00",
  "market": {
   "price": 216.47,
   "change_pct": -0.29,
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.42,
-   "count": 183
+   "avg": 0.41,
+   "count": 185
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.42（183条已评分）"
+     "note": "今日新闻情绪 +0.41（185条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.5,
    "ma20": 227.04,
-   "as_of": "2026-10-20T21:36:28.737641+00:00"
+   "as_of": "2026-10-20T21:51:32.225609+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -171,12 +171,12 @@
    "title": "Why Isn’t Nvidia (NASDAQ:NVDA) Stock Rising Despite Reports of US$35 Billion in China AI Chip Orders? - Stocks Down Under",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MM09XRVRUMjVxeFFKdFhWSTJSSjdQUUdZdzlTT05QTTdaOFJSLTQwMV9TSmo2S0tKLXNKMWxmS19tejBXOVZHTDNNUnNSaXFxSHh0RTBPTTRoVjctdDVoUzJzVkdSOTdJWFQ1Z0YxVk1tZ0hZM1E",
    "source": "Stocks Down Under",
-   "published_at": "2026-10-20T19:42:49+00:00",
+   "published_at": "2026-10-20T19:42:11+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Stocks Down Under",
-     "published_at": "2026-10-20T19:42:49+00:00",
+     "published_at": "2026-10-20T19:42:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MM09XRVRUMjVxeFFKdFhWSTJSSjdQUUdZdzlTT05QTTdaOFJSLTQwMV9TSmo2S0tKLXNKMWxmS19tejBXOVZHTDNNUnNSaXFxSHh0RTBPTTRoVjctdDVoUzJzVkdSOTdJWFQ1Z0YxVk1tZ0hZM1E"
     }
    ],
@@ -874,26 +874,6 @@
    "session": "盘中",
    "zh_summary": "中国350亿美元GPU订单考验出口限制",
    "title_zh": "中国350亿美元英伟达GPU订单考验出口限制",
-   "sentiment": 1
-  },
-  {
-   "id": "fd9261ff90cb",
-   "title": "CPO的下一步，英伟达把“光”塞进了硅中介层 - 芯智讯",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9nam9kQ0NZS01Lc1psQmlOMktIMENYTy1STGxTYUdsYkJybXliczdoMkpENHBWbjZGb2t1MTNCRlF0SWp1",
-   "source": "芯智讯",
-   "published_at": "2026-10-20T15:37:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "芯智讯",
-     "published_at": "2026-10-20T15:37:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9nam9kQ0NZS01Lc1psQmlOMktIMENYTy1STGxTYUdsYkJybXliczdoMkpENHBWbjZGb2t1MTNCRlF0SWp1"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达将光通信集成进硅中介层",
-   "title_zh": "CPO的下一步，英伟达把“光”塞进了硅中介层",
    "sentiment": 1
   },
   {
@@ -3302,6 +3282,26 @@
    "session": "盘前",
    "zh_summary": "英伟达在于利希完成量子计算创纪录仿真",
    "title_zh": "英伟达于于利希超级计算中心完成容错量子计算创纪录仿真 - 电子工程专辑",
+   "sentiment": 1
+  },
+  {
+   "id": "fd9261ff90cb",
+   "title": "CPO的下一步，英伟达把“光”塞进了硅中介层 - 芯智讯",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9nam9kQ0NZS01Lc1psQmlOMktIMENYTy1STGxTYUdsYkJybXliczdoMkpENHBWbjZGb2t1MTNCRlF0SWp1",
+   "source": "芯智讯",
+   "published_at": "2026-10-20T07:50:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "芯智讯",
+     "published_at": "2026-10-20T07:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9nam9kQ0NZS01Lc1psQmlOMktIMENYTy1STGxTYUdsYkJybXliczdoMkpENHBWbjZGb2t1MTNCRlF0SWp1"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "英伟达将光通信集成进硅中介层",
+   "title_zh": "CPO的下一步，英伟达把“光”塞进了硅中介层",
    "sentiment": 1
   },
   {
