@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T00:06:54.734079+00:00",
+ "updated_at": "2026-10-20T00:21:32.385685+00:00",
  "market": {
   "price": 214.13,
   "change_pct": -1.43,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.4,
-   "count": 243
+   "count": 245
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（243条已评分）"
+     "note": "今日新闻情绪 +0.40（245条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 47.1,
    "ma20": 228.18,
-   "as_of": "2026-10-20T00:06:54.710311+00:00"
+   "as_of": "2026-10-20T00:21:32.360787+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,28 @@
   }
  },
  "stories": [
+  {
+   "id": "c9842d10c2bf",
+   "title": "英伟达黄仁勋：AI是新工具，你的专业知识不会被取代 - 金融界",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrTklLUGNKbjVoQVFMOFBSM2NtZ2xRQ0RpTVJKQnJndnJURjg0TnpzZzJFQ0lOWWcxa2NUYTRVdEFFZHRBVFJzVld0dWRLbHViVndacnlzTmlNcW1hWGpSTURiOFU5ZDJxTGRoX05Dd19HNmk5",
+   "source": "金融界",
+   "published_at": "2026-10-20T00:06:59+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "金融界",
+     "published_at": "2026-10-20T00:06:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrTklLUGNKbjVoQVFMOFBSM2NtZ2xRQ0RpTVJKQnJndnJURjg0TnpzZzJFQ0lOWWcxa2NUYTRVdEFFZHRBVFJzVld0dWRLbHViVndacnlzTmlNcW1hWGpSTURiOFU5ZDJxTGRoX05Dd19HNmk5"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-20T00:06:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjNadVBXTlY3ZjJKYXRMS1JzbnJEa0NhdmhoMFpWM1RjY2pHTXJBRjhHM0o0Mko4dVdtekZjallGcHloZUl6d2x1enpGYzY3VHJKdTJlZ2FsVExld2NFYzlhQkhyMmk5Z3B5SnZCTXB6UkotUktFSVhKei15LVFweHk5TS1QX2E4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "d0e3251efa2d",
    "title": "欧洲首台百亿亿次级超算出手：英伟达合作完成104量子比特容错模拟 - 搜狐",
@@ -1147,7 +1169,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmZOWUJZUnBVOXg3LVRSU3dCSEZWMnhaQWE3OEJjUkFwekludHdIYlFwb0lxVm05NU4wdEcyYWJZRFpiR1BCcFV2blhGUFByNU0tLTBhUUpNM2RxT3phZnJmNXl1bk5LWjlLRFBUR1pXby1ObTN0ZU5tMUNRd29zTDI5UHRmUExK",
    "source": "搜狐",
    "published_at": "2026-10-19T19:05:22+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐",
@@ -1158,13 +1180,22 @@
      "name": "搜狐网",
      "published_at": "2026-10-19T19:05:22+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOUl4ajNiUXhxY1k3eFRydktMVHJSV05zSk9NOHhxcmJicW1DdmxneEdyVDQwUjZyM3NIaUxTTGo4cXNBWENPYjhDZWg0dzlHTGFYN0czd3hqMTlTNzl4LUxWQW1SQ04zWHVDcGxzbS1WNnFHUFpWVmtwY3lVM1pxMHl0NHJQOUZQajl3"
+    },
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-19T19:05:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JbjFFRnVWd2F1ZGFXb2FfYVFQSWtHTEZhYmkxVzBkZmpXaV9SbUFoMGdEN21ZazZBNUF1Y3hwcnA3R2RpMlpva2xZWjFEN0xXRnc0"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "超8000GPU模拟量子容错计算，物理比特降九成",
    "title_zh": "英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成 - 搜狐",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.13,
+    "window_h": 0.8
+   }
   },
   {
    "id": "98e3bbb6a30e",
@@ -6600,31 +6631,6 @@
     "pct": -0.11,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "15c96f52c470",
-   "title": "NVIDIA And 2 Other Fast Growing Stocks To Own - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkN5RWJITmVKem5mNFczalFnbjNzSEVLcU5qVXVHd3NUcFA3YWhrT2UxTHczXzRDMjFRV0NlVDBDZGgwSXY1cnlFaTRiTHpTUXpINFJMcl9ySDZleHhQcGtWcGZkc3JlQVpWME1GaG96aXliY0lmZFNMYm1ERjRmR1k3dU5wTUFWenhDYzNBR09udS1UNDVr",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-18T22:09:35+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-18T22:09:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkN5RWJITmVKem5mNFczalFnbjNzSEVLcU5qVXVHd3NUcFA3YWhrT2UxTHczXzRDMjFRV0NlVDBDZGgwSXY1cnlFaTRiTHpTUXpINFJMcl9ySDZleHhQcGtWcGZkc3JlQVpWME1GaG96aXliY0lmZFNMYm1ERjRmR1k3dU5wTUFWenhDYzNBR09udS1UNDVr"
-    },
-    {
-     "name": "Simply Wall Street",
-     "published_at": "2026-10-19T03:12:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRlVUZXg5QmU0NGdsRFg1cFJUbGt6R1A3RlNVOGZjR2NWVUdYX0x1TmY4d291YlJkbUlXRVNWMmw2aGRQMTlJY0dYN2Z6MWFuOFY5MGlFcjhHV3JwVHQ0WEk3WUs1YTN4QS1sVUJGakpFWUdzWTBveFc0a0RtVWZ5UVo1ZElvWEZTVlFHMFRvUUJkd0Qzd1Q3RjJkV0g1UEpHckxuMFBUd1FaZ9IBrwFBVV95cUxOdzlydWp1ckd2MUZmaHBRYnlkX2xrMEFwWTBKWnNNWVZwQWYzTDY2WFRRdnZBQjVuNzZCV2dEVUk1TmdVYUhFcWlPU0JkTXdXRzItN1dUdF9fRVVqOUt3Qkw1d2I0UXpqZnJCMXQwRnRLcHlrcDFGX3pPeEtuQXIwT05nZm9NR1JPYkdrV1RKdzJlampfVk5lM0RHYlRSLWV4ellqM3RhMEI3TTVjT3lV"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达与两只快速成长股被列为持有推荐",
-   "title_zh": "英伟达及另外2只快速成长股值得持有",
-   "sentiment": 1
   }
  ]
 }
