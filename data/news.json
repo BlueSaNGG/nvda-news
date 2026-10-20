@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T10:21:26.610926+00:00",
+ "updated_at": "2026-10-20T10:36:26.308921+00:00",
  "market": {
   "price": 217.09,
   "change_pct": 1.38,
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.51,
-   "count": 51
+   "avg": 0.52,
+   "count": 52
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.51（51条已评分）"
+     "note": "今日新闻情绪 +0.52（52条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.1,
    "ma20": 227.66,
-   "as_of": "2026-10-20T10:21:26.593971+00:00"
+   "as_of": "2026-10-20T10:36:26.294605+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -61,6 +61,74 @@
   }
  },
  "stories": [
+  {
+   "id": "d5b652385d7d",
+   "title": "喊出300万张订单，英伟达RTX PRO 5500为何遭到提前疯抢？ - 雷峰网",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zRjNIby1sTHF6VExXTmd0alBBbXFUY3I5Tk1ZSnhmRGpLYlhrbTBxeG9Ic002RVV2RV81Y3E1SFJ6dGdndDk5R1FMY2NNSWFfOXhydGVzSEY1OG5sYS0zVTRneVduMDNNeDZNejln",
+   "source": "雷峰网",
+   "published_at": "2026-10-20T10:27:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "雷峰网",
+     "published_at": "2026-10-20T10:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zRjNIby1sTHF6VExXTmd0alBBbXFUY3I5Tk1ZSnhmRGpLYlhrbTBxeG9Ic002RVV2RV81Y3E1SFJ6dGdndDk5R1FMY2NNSWFfOXhydGVzSEY1OG5sYS0zVTRneVduMDNNeDZNejln"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "68d4f7b7da1f",
+   "title": "字节、阿里和腾讯向英伟达订购了总值逾350亿美元的显卡 - RFI",
+   "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNUjFBdDNKdnlDMHZZOXF2UVkyOVNzeXZmblBZUE1ZVzBHb2kyWkF6UTFmcUlKN3JNdjFkZzhadERwb3F5cW5HRHpwQnhMUHBLckI1WWJLRUNmX1Z6RDA2Z1o3VzdRdzJzUm5xWnhaQWhPRUhZaXdueVpJUGI4N2hnTm5XemZEU2xSamZMWXpNOFhBUTdwa3EzMWpQcG05X05ZLVFrRmNndW0tb1Fwc1F3RExKU3FnbEpEYjRMcHQzdXUzck0tcFhFdVJlS24yQUU5RHRub0NHbE5oNE1xSHVyRXVrdUhfSnVfTU1zeTNDcEhvQkhScXAwa3QzUUZyaHR2LUVkRk9zUnJYOGhKai1RVEhHYTluSHdPZXFRVUoxN0kzNndOaXhHZHkwYlh5NnZ3c0ZzdTJ1eHFtYl9Qc2FDS1ZleDZZM2NyT0JYQS1pWFBYWU5URjgxRHZuTy1EYnBuVkJ4M0NEQm5RZXRValFGTC1JcktnN2VmUDFaTjEyRkJSemg4eWhTUnpYQU1QNzc4X3ZtdjVsMk1sN2Iy",
+   "source": "RFI",
+   "published_at": "2026-10-20T10:21:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "RFI",
+     "published_at": "2026-10-20T10:21:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNUjFBdDNKdnlDMHZZOXF2UVkyOVNzeXZmblBZUE1ZVzBHb2kyWkF6UTFmcUlKN3JNdjFkZzhadERwb3F5cW5HRHpwQnhMUHBLckI1WWJLRUNmX1Z6RDA2Z1o3VzdRdzJzUm5xWnhaQWhPRUhZaXdueVpJUGI4N2hnTm5XemZEU2xSamZMWXpNOFhBUTdwa3EzMWpQcG05X05ZLVFrRmNndW0tb1Fwc1F3RExKU3FnbEpEYjRMcHQzdXUzck0tcFhFdVJlS24yQUU5RHRub0NHbE5oNE1xSHVyRXVrdUhfSnVfTU1zeTNDcEhvQkhScXAwa3QzUUZyaHR2LUVkRk9zUnJYOGhKai1RVEhHYTluSHdPZXFRVUoxN0kzNndOaXhHZHkwYlh5NnZ3c0ZzdTJ1eHFtYl9Qc2FDS1ZleDZZM2NyT0JYQS1pWFBYWU5URjgxRHZuTy1EYnBuVkJ4M0NEQm5RZXRValFGTC1JcktnN2VmUDFaTjEyRkJSemg4eWhTUnpYQU1QNzc4X3ZtdjVsMk1sN2Iy"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "d1bcd257a52a",
+   "title": "57只股涨停，英伟达概念最为活跃，吉大正元已录得最高4连板 - 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTC03dmJWYVI0cll5NTBuVC1GUUU1aHJBM1hfbzN4SDJQUFBPNlBaZDJzdll4TFNRdmI2RUlnc0JxVUVnU1ZmTEl6R1ZydFpNWFhUVUgyUlp6REdISkdVQVpBclBHSXE3S2R0YmhQUUxMNjFvRnpmYmZWbFhvQTZVX2h2aDhGZmRFblNBT3JWQQ",
+   "source": "21财经",
+   "published_at": "2026-10-20T10:16:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "21财经",
+     "published_at": "2026-10-20T10:16:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTC03dmJWYVI0cll5NTBuVC1GUUU1aHJBM1hfbzN4SDJQUFBPNlBaZDJzdll4TFNRdmI2RUlnc0JxVUVnU1ZmTEl6R1ZydFpNWFhUVUgyUlp6REdISkdVQVpBclBHSXE3S2R0YmhQUUxMNjFvRnpmYmZWbFhvQTZVX2h2aDhGZmRFblNBT3JWQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "0a711c814e9e",
+   "title": "Volvo, Mercedes-Benz separately expand NVIDIA partnership for automated driving - Repairer Driven News",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbTU3V1Q4aEc3eHZpMkFKR3hCOUctZm1adnNEZDNoT3cwMEtsNUpUcnd4bmtjVWM4eWhpZllxWmtfdDNscTBRQXA2eFppdWo5UTlYNHR3YWJKWHJINXNpek1yd1g4MThjRVNwNjFSWUloLVJMOUJ6VWF3QTlaR1FHYkg2S0dyUU1HaHgycXN3ZGRhWmkwYUlGOC1nXzM3WVRRcXROSnFFTFU5RnFfU19FZTlOcFF1cVFUMDY1cG9iMjh5UlU",
+   "source": "Repairer Driven News",
+   "published_at": "2026-10-20T10:00:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Repairer Driven News",
+     "published_at": "2026-10-20T10:00:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbTU3V1Q4aEc3eHZpMkFKR3hCOUctZm1adnNEZDNoT3cwMEtsNUpUcnd4bmtjVWM4eWhpZllxWmtfdDNscTBRQXA2eFppdWo5UTlYNHR3YWJKWHJINXNpek1yd1g4MThjRVNwNjFSWUloLVJMOUJ6VWF3QTlaR1FHYkg2S0dyUU1HaHgycXN3ZGRhWmkwYUlGOC1nXzM3WVRRcXROSnFFTFU5RnFfU19FZTlOcFF1cVFUMDY1cG9iMjh5UlU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "e68cfca7862e",
    "title": "英伟达推出Halos平台，破解AI机器人安全量产难题 - 搜狐",
@@ -232,7 +300,7 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw",
    "source": "Reuters",
    "published_at": "2026-10-20T09:06:58+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Reuters",
@@ -243,6 +311,11 @@
      "name": "Investing.com",
      "published_at": "2026-10-20T09:25:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVNtemVIQmdVeWtDTkozZzJtMUhPdTQwVFQ2WmVnZ2RjcjBfa1o2VjhIV0dfZGVqT3g3cWJzVm50eE1uQk9QeEdnbXo4anc5Z192SmpLaWF0VEExR3dOOXRuMWF3azBPY0plSjNlMlQyQnV5WDQ4Y05YbU5rM1A3MzNFaVFXajVtUGcxRXNPODl6ZFhoNFVqei1PeXJ1bmNIT2RaNWlrZU84SVVQRktyd1dkWENLQzVwa3JySy1od1NMczg5RHc"
+    },
+    {
+     "name": "Yahoo Finance Australia",
+     "published_at": "2026-10-20T09:54:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUG9pX212YVotZklXbTlETi1hNzloMjRUQXBMRXl4dXdQRDRxdkF4OVZBcE9LVjIxUmtFQU9WTTlSMHhMSWlkRXBpc2JpR2Q1ZkhBQS14RVd6ZlpTQTZtVzRnR3VFVVhPelJYdi1QVHZVb0FfdkJDYzcxYlZhWWdaaXl5dFdTaE03Wk5z"
     }
    ],
    "category": "产品技术",
@@ -875,6 +948,23 @@
    "zh_summary": "博主自称对英伟达走势洞察敏锐",
    "title_zh": "$英伟达 (NVDA.US)$近期的市场波动让人压力巨大。我关注这位博主很久了，他的分析一向逻辑严谨，对市场走势的洞察也十分敏锐。多亏有他指点，我才躲过不少风险——要不是这样，损失可就大了！我想还是先看看他的看法吧，最不想的就是一窝蜂地猛做交易，结 - Moomoo",
    "sentiment": 0
+  },
+  {
+   "id": "b7215a7ade90",
+   "title": "Intel’s 480GB AI Chip Takes Aim at Nvidia, AMD [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sQVRNWUJWcVR1SFRwOEpmMVktR0VXSWt3dGNLQTZsQVJhVXU0NFhHM09VZ1dYVk9IRzh3cDQ5U2dXU0Q3MEx3M2tOUXMtZ0FKWHBqS1QtWERVMEhaVTVPTkwtQnB6UmYzejJETHBHNUh3c2M",
+   "source": "shattered.io",
+   "published_at": "2026-10-20T06:36:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-20T06:36:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sQVRNWUJWcVR1SFRwOEpmMVktR0VXSWt3dGNLQTZsQVJhVXU0NFhHM09VZ1dYVk9IRzh3cDQ5U2dXU0Q3MEx3M2tOUXMtZ0FKWHBqS1QtWERVMEhaVTVPTkwtQnB6UmYzejJETHBHNUh3c2M"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "40e409b7c87e",
@@ -3257,6 +3347,23 @@
    "zh_summary": "英伟达前员工融资9000万美元",
    "title_zh": "机器人大脑每小时75美分？英伟达前研究员融资9000万美元",
    "sentiment": 0
+  },
+  {
+   "id": "12d9a2c820d2",
+   "title": "DeepSeek全面开源推理框架：兼容英伟达、华为昇腾芯片，单集群日吞吐155万亿Token，每卡每小时收入38美元 - 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wa0ZJenNHMG5nZU5LMElFOVZaZjhsdlZoOUtCNzIxeTVYN1dfYWdRaDVBWnlUQjcwQjc4OVQyRVhkbVI3MHQ4ZndGNERjNmgw",
+   "source": "36Kr",
+   "published_at": "2026-10-19T19:14:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "36Kr",
+     "published_at": "2026-10-19T19:14:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wa0ZJenNHMG5nZU5LMElFOVZaZjhsdlZoOUtCNzIxeTVYN1dfYWdRaDVBWnlUQjcwQjc4OVQyRVhkbVI3MHQ4ZndGNERjNmgw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "38383c0e4238",
@@ -6556,131 +6663,6 @@
    "zh_summary": "英伟达新内存芯片倾向采用台积电工艺",
    "title_zh": "英伟达新内存芯片倾向采用台积电工艺",
    "sentiment": 0
-  },
-  {
-   "id": "715f0ef26aaf",
-   "title": "Nvidia GTC Preview: Can AI Answer Wall Street's Doubts? - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWtrendRVmJGcnhIZm9YV3Y1M3FfTy1wU2FobDVLdHdnSFBnRk42TGdXSzhlZzdfcU55b3JZYU1tNHVFQmdCRFZXb3drTjlpLVRMUlBTSkQ2MFEtekY5TTlhcHlwT1lac0hLVFNDQ1dEMWhaRzV6YjhsRGFaejZlWVNvUVFjckR4QzJJZ2ZxVUtpVjJtUWdYYWNaUUtVeVJUZ0JZSVVGalB5QkU",
-   "source": "Moomoo",
-   "published_at": "2026-10-19T09:39:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-19T09:39:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWtrendRVmJGcnhIZm9YV3Y1M3FfTy1wU2FobDVLdHdnSFBnRk42TGdXSzhlZzdfcU55b3JZYU1tNHVFQmdCRFZXb3drTjlpLVRMUlBTSkQ2MFEtekY5TTlhcHlwT1lac0hLVFNDQ1dEMWhaRzV6YjhsRGFaejZlWVNvUVFjckR4QzJJZ2ZxVUtpVjJtUWdYYWNaUUtVeVJUZ0JZSVVGalB5QkU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "GTC前瞻：AI能否打消华尔街疑虑",
-   "title_zh": "英伟达GTC前瞻：AI能否打消华尔街疑虑",
-   "sentiment": 0
-  },
-  {
-   "id": "90404f0d1c76",
-   "title": "英伟达GTC前瞻：人工智能能否打消华尔街的疑虑？ - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVNhUThqb1hKd2lTTVdxaF9SLW5UdkJEOVRKQy1FMXNTcXEyZlg2dk5ZT1JHZ0RORFd0YnhWVzRMcEZZblhSMm1Eb19NQ2UyM1piWTlwMmVaQnFCQjdwTTJMV2RPVzNFV1FkYVJFRlR6UlZUbThOQlZTZkRqQ19aQVZNYUdIM1pfcGJnTjdRRmQ2enQxSmxUUTZseFNHTld3UVZsWlJVUFMxMlZmc3RoaHNR",
-   "source": "Moomoo",
-   "published_at": "2026-10-19T09:39:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-19T09:39:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVNhUThqb1hKd2lTTVdxaF9SLW5UdkJEOVRKQy1FMXNTcXEyZlg2dk5ZT1JHZ0RORFd0YnhWVzRMcEZZblhSMm1Eb19NQ2UyM1piWTlwMmVaQnFCQjdwTTJMV2RPVzNFV1FkYVJFRlR6UlZUbThOQlZTZkRqQ19aQVZNYUdIM1pfcGJnTjdRRmQ2enQxSmxUUTZseFNHTld3UVZsWlJVUFMxMlZmc3RoaHNR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达GTC前瞻：能否打消华尔街疑虑",
-   "title_zh": "英伟达GTC前瞻：人工智能能否打消华尔街的疑虑？ - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "dedbf651863e",
-   "title": "市场传闻：英伟达倾向在新款内存芯片中采用台积电工艺 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQkh5UUJXTXJvT1VpNzBNVHAwV3MySmNzbGFic2doblRuTE9LSlZsUFM3Nkp6d0R6Z3VPMndUUmM2S1pQUjBVOEdCU2pXWW41dUYxTjNwWUFLNzRKQ3JuZ1pFNDg3NFotbFo2QXpQeElFeGdSblowR1JOQ3RENFBuNUhJQlRZVHAtS1N6TlJ4MWFjdzlfTXRMVHlLQmVUNmZyODAwdTBWODhSVkNVbTdpY1otWWFxdw",
-   "source": "富途牛牛",
-   "published_at": "2026-10-19T09:20:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-19T09:20:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQkh5UUJXTXJvT1VpNzBNVHAwV3MySmNzbGFic2doblRuTE9LSlZsUFM3Nkp6d0R6Z3VPMndUUmM2S1pQUjBVOEdCU2pXWW41dUYxTjNwWUFLNzRKQ3JuZ1pFNDg3NFotbFo2QXpQeElFeGdSblowR1JOQ3RENFBuNUhJQlRZVHAtS1N6TlJ4MWFjdzlfTXRMVHlLQmVUNmZyODAwdTBWODhSVkNVbTdpY1otWWFxdw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "传闻英伟达新款内存芯片将采用台积电工艺",
-   "title_zh": "市场传闻：英伟达倾向在新款内存芯片中采用台积电工艺 - 富途牛牛",
-   "sentiment": 0
-  },
-  {
-   "id": "470f2f91f5bc",
-   "title": "【美股盘前】SpaceX涨超1%，马斯克称明年向美国每名儿童赠送一股SpaceX股票；AI芯片、存储芯片、光通信股集体上涨，SK海力士涨超4%；英伟达推动HBM标准化，三星据悉将首次与台积电合作生产基础芯片 - www.mrjjxw.com",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2RjVNTk1kZWxPbW9KTFJheUhRTHpPSlU1d3JoMV9nWEVMd0tabVF0N1NBNHo3ajVqUWJkOG5uLU1KVWZ3WTMzYUtnMDdYOFZkWHA0cnJqR1ljbmpZLWtOUmRfTXZfQQ",
-   "source": "www.mrjjxw.com",
-   "published_at": "2026-10-19T09:06:02+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "www.mrjjxw.com",
-     "published_at": "2026-10-19T09:06:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2RjVNTk1kZWxPbW9KTFJheUhRTHpPSlU1d3JoMV9nWEVMd0tabVF0N1NBNHo3ajVqUWJkOG5uLU1KVWZ3WTMzYUtnMDdYOFZkWHA0cnJqR1ljbmpZLWtOUmRfTXZfQQ"
-    },
-    {
-     "name": "https://www.mrjjxw.com/",
-     "published_at": "2026-10-19T09:06:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2RjVNTk1kZWxPbW9KTFJheUhRTHpPSlU1d3JoMV9nWEVMd0tabVF0N1NBNHo3ajVqUWJkOG5uLU1KVWZ3WTMzYUtnMDdYOFZkWHA0cnJqR1ljbmpZLWtOUmRfTXZfQQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达推动HBM标准化，AI芯片股集体上涨",
-   "title_zh": "【美股盘前】SpaceX涨超1%，马斯克称明年向美国每名儿童赠送一股SpaceX股票；AI芯片、存储芯片、光通信股集体上涨，SK海力士涨超4%；英伟达推动HBM标准化，三星据悉将首次与台积电合作生产基础芯片 - www.mrjjxw.com",
-   "sentiment": 1
-  },
-  {
-   "id": "5b800d24d458",
-   "title": "英伟达：消费级GPU短缺并非我们所能控制 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oTE84ZC03YWpMYzB2bXFHN0ZpRXd4cDdxZ3A0TFA4TUI2Y1J0R09rclN2YS0tSEMyMzJtTVFmMG1NcVNvYWlrcmJidw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-19T08:48:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-19T08:48:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oTE84ZC03YWpMYzB2bXFHN0ZpRXd4cDdxZ3A0TFA4TUI2Y1J0R09rclN2YS0tSEMyMzJtTVFmMG1NcVNvYWlrcmJidw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达称消费级GPU短缺并非其所能控制",
-   "title_zh": "英伟达：消费级GPU短缺并非我们所能控制 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "396520652df9",
-   "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw",
-   "source": "财联社",
-   "published_at": "2026-10-19T08:48:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-19T08:48:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋称AI投资回报已有答案",
-   "title_zh": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
-   "sentiment": 1
   }
  ]
 }
