@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T16:21:28.859015+00:00",
+ "updated_at": "2026-10-20T16:36:29.481227+00:00",
  "market": {
-  "price": 216.7,
-  "change_pct": -0.18,
+  "price": 217.38,
+  "change_pct": 0.14,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 142
+   "avg": 0.43,
+   "count": 144
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.4%"
+     "note": "目标价中位数 $315（15家），隐含空间 +44.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（142条已评分）"
+     "note": "今日新闻情绪 +0.43（144条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.70 vs 20日均线 $227.05"
+     "note": "现价 $217.38 vs 20日均线 $227.09"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.4,
-   "ma20": 227.05,
-   "as_of": "2026-10-20T16:21:28.843866+00:00"
+   "implied_upside_pct": 44.9,
+   "ma20": 227.09,
+   "as_of": "2026-10-20T16:36:29.454029+00:00"
   },
-  "pe_ttm": 27.5,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.4%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.6,
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "bc78eb4f698e",
+   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’ - TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUi05Mmh1ODFYYmxSeWlMVkwzRWRjanJObl9TNVR5ZzM0WjFiYmFRcTJDcXRRM1VGbDFtdm5xa3R0VmpsTlh3bGZEa0VzLUxCLW9wUFFTWXhRb2hhY1FBeUtSREwwWmpCa1FaWEtFQ05PUUZRN3JYSk45SWlETGpreTRyNXVldi1xMDgwbEE2X0tiNnRkNm5iRFd4b1h4WDhQdmNZRXZB",
+   "source": "TechCrunch",
+   "published_at": "2026-10-20T16:20:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechCrunch",
+     "published_at": "2026-10-20T16:20:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUi05Mmh1ODFYYmxSeWlMVkwzRWRjanJObl9TNVR5ZzM0WjFiYmFRcTJDcXRRM1VGbDFtdm5xa3R0VmpsTlh3bGZEa0VzLUxCLW9wUFFTWXhRb2hhY1FBeUtSREwwWmpCa1FaWEtFQ05PUUZRN3JYSk45SWlETGpreTRyNXVldi1xMDgwbEE2X0tiNnRkNm5iRFd4b1h4WDhQdmNZRXZB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "911f4e54844d",
+   "title": "NVIDIA RTX 6060 May Slip to 2029, Leaker Claims - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VZDRqeHBJamhLdnJ6UGNscmR1OUdJZVZUb3NHdUIxVkpRWHpuQzJBaVUySF8xS0RSUHpWaW95UHhfVFZEWEJaRXFzcG1IWjIzOVNjclZVTm1KV2t5NlcxQ05VWHpHa05DWmc",
+   "source": "shattered.io",
+   "published_at": "2026-10-20T16:16:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-20T16:16:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VZDRqeHBJamhLdnJ6UGNscmR1OUdJZVZUb3NHdUIxVkpRWHpuQzJBaVUySF8xS0RSUHpWaW95UHhfVFZEWEJaRXFzcG1IWjIzOVNjclZVTm1KV2t5NlcxQ05VWHpHa05DWmc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "5def0f6ec78f",
    "title": "AWS Takes Aim at Nvidia’s PyTorch Advantage While Nvidia Expands Open-Weight Nemotron Models for Agents - AI Insider",
@@ -6684,46 +6718,6 @@
    "zh_summary": "DeepSeek正推动华为AI芯片崛起挑战英伟达",
    "title_zh": "DeepSeek如何推动华为AI芯片，对英伟达构成挑战",
    "sentiment": -1
-  },
-  {
-   "id": "73fff911db9c",
-   "title": "Nvidia reportedly asks Samsung, SK Hynix, Micron to use TSMC 3nm - The Next Web",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDdXdlRQM2FmelE1NUNKVTRvbUcyRGtMRVZDTG5USTROUXFVVEJhSE1PczNUNjdxWXBpdWh6NUhCSnJXQ3pvemdfc2ExdERqb1JfWkF4SXE0MTE3NENVeXdQNDBmcktpMDV1Szk1RXQwVER5MUljUkFNcExJNC16bGdjdmQwTktaaWc",
-   "source": "The Next Web",
-   "published_at": "2026-10-19T15:50:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Next Web",
-     "published_at": "2026-10-19T15:50:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDdXdlRQM2FmelE1NUNKVTRvbUcyRGtMRVZDTG5USTROUXFVVEJhSE1PczNUNjdxWXBpdWh6NUhCSnJXQ3pvemdfc2ExdERqb1JfWkF4SXE0MTE3NENVeXdQNDBmcktpMDV1Szk1RXQwVER5MUljUkFNcExJNC16bGdjdmQwTktaaWc"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘中",
-   "zh_summary": "英伟达要求三星等内存厂商用台积电3nm",
-   "title_zh": "英伟达要求三星、SK海力士、美光使用台积电3nm工艺",
-   "sentiment": 1
-  },
-  {
-   "id": "feae9c0b7869",
-   "title": "Nvidia launches new open models to run agents in the enterprise and on PCs - TechCrunch",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc",
-   "source": "TechCrunch",
-   "published_at": "2026-10-19T15:37:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechCrunch",
-     "published_at": "2026-10-19T15:37:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达发布开源模型，支持企业和PC的AI代理",
-   "title_zh": "英伟达发布新开源模型，用于企业和PC上的智能体",
-   "sentiment": 1
   }
  ]
 }
