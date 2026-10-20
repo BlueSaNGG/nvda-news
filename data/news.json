@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T14:36:30.507185+00:00",
+ "updated_at": "2026-10-20T14:51:30.904825+00:00",
  "market": {
-  "price": 217.32,
-  "change_pct": 0.11,
+  "price": 217.76,
+  "change_pct": 0.31,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.41,
-   "count": 113
+   "count": 121
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 70% 分位"
+     "note": "现价处于52周区间 71% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +44.9%"
+     "note": "目标价中位数 $315（15家），隐含空间 +44.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.41（113条已评分）"
+     "note": "今日新闻情绪 +0.41（121条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.32 vs 20日均线 $227.09"
+     "note": "现价 $217.76 vs 20日均线 $227.11"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 70,
+   "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 44.9,
-   "ma20": 227.09,
-   "as_of": "2026-10-20T14:36:30.489682+00:00"
+   "implied_upside_pct": 44.7,
+   "ma20": 227.11,
+   "as_of": "2026-10-20T14:51:30.893027+00:00"
   },
-  "pe_ttm": 27.6,
+  "pe_ttm": 27.7,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "756fcfca3464",
+   "title": "Chinese tech giants are buying Nvidia gaming chips for AI. Here's why. - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGdTVGxRVmNPVm5UVzJJM2ktZ2RjVE9uUS1NaTBOUFVLTXFKRGQtXzVVMUdtb085MHdFMVE2b0xwUWk5czN4TFFlUTNXekJCc0htanh1NnZ4blN2QXhJTHl6LXZ2eW5ydDk2S3hxYnRPdDQ1Q2FYd0dCSjdYbTViU1JKSVZ5RXQ1TWc",
+   "source": "Yahoo",
+   "published_at": "2026-10-20T14:30:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-20T14:30:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGdTVGxRVmNPVm5UVzJJM2ktZ2RjVE9uUS1NaTBOUFVLTXFKRGQtXzVVMUdtb085MHdFMVE2b0xwUWk5czN4TFFlUTNXekJCc0htanh1NnZ4blN2QXhJTHl6LXZ2eW5ydDk2S3hxYnRPdDQ1Q2FYd0dCSjdYbTViU1JKSVZ5RXQ1TWc"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "4e84dc2b9fd1",
    "title": "Don’t Ignore Message From Nvidia, Broadcom, Micron, Sandisk Charts - RealMoney Pro",
@@ -542,7 +559,7 @@
    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yZU1xenp2d1JYeWRwLUl2ckRlV2lkcm9qNWdmY3NGbUQ4blotdWROak5SMWhYcGhubWFxSmRjM1Yxb1Zjamg5LQ",
    "source": "财联社",
    "published_at": "2026-10-20T13:08:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "财联社",
@@ -553,13 +570,22 @@
      "name": "手机新浪网",
      "published_at": "2026-10-20T13:43:51+00:00",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVc2JuNVduSnZYb1FUcDlFdHpFSFZnU0k1MDNoSU9mWXB1N0M2aDhHTW95UDVfSTUxOGtuSi12R2FiV0dSdXFSMk9ORQ"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-20T13:45:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRbVNBX1dhOFk0MWFYQUJDQkJxNkhKZHJQdVViSzBzNDJ2anlCREJOaE5ELUd2M3c4eXQ3R0lfTWx2bWJWYnZVYUU5ak1fNEZOV0tpZUVjbVpTSnBvckJFaFdzOA"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "美股盘初市值前十全线下跌，英伟达承压",
    "title_zh": "21:39:45【美股市值前十公司盘初罕见全线下跌 英伟达、苹果等集体承压】 - 财联社",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 1.59,
+    "window_h": 1.4
+   }
   },
   {
    "id": "6c5147be18dd",
@@ -6662,26 +6688,6 @@
    "zh_summary": "卖压持续，英伟达股价下跌",
    "title_zh": "卖压持续、下跌动能增强，英伟达股价走低",
    "sentiment": -1
-  },
-  {
-   "id": "39c0e0d915d4",
-   "title": "Nvidia wins fast-growing AI startup Modal for new central processors - Euronext Markets: Real-time Stock Market Data | live",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVHc5VVp5NGNaTGZOS2tEQ2hLSnBFbkpVNVFYbkhUWEJlUW9PZnRlUElVRDl3OThYVHdMV0JOTi1hWlpmeW1GZ1Etckt3QzlJUXQtVkE2Y0lxbHB1cWZPcVZUNUpIdFd1bmQ3NWN4Vm94SmpJWW5uLXhwUm4tVFVEeFZJRGNUNXhzVjdPQTNna3pQXzRnajVSRF96dzN1ZEE2TTQ5R0t5YU5ESnNL",
-   "source": "Euronext Markets: Real-time Stock Market Data | live",
-   "published_at": "2026-10-19T14:12:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Euronext Markets: Real-time Stock Market Data | live",
-     "published_at": "2026-10-19T14:12:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVHc5VVp5NGNaTGZOS2tEQ2hLSnBFbkpVNVFYbkhUWEJlUW9PZnRlUElVRDl3OThYVHdMV0JOTi1hWlpmeW1GZ1Etckt3QzlJUXQtVkE2Y0lxbHB1cWZPcVZUNUpIdFd1bmQ3NWN4Vm94SmpJWW5uLXhwUm4tVFVEeFZJRGNUNXhzVjdPQTNna3pQXzRnajVSRF96dzN1ZEE2TTQ5R0t5YU5ESnNL"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "英伟达赢得AI初创公司Modal开发新处理器",
-   "title_zh": "英伟达赢得快速增长的AI初创公司Modal用于新处理器",
-   "sentiment": 1
   }
  ]
 }
