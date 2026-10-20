@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T13:51:29.294100+00:00",
+ "updated_at": "2026-10-20T14:06:31.874367+00:00",
  "market": {
-  "price": 213.34,
-  "change_pct": -1.73,
+  "price": 215.85,
+  "change_pct": -0.57,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.46,
-   "count": 97
+   "avg": 0.45,
+   "count": 99
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 65% 分位"
+     "note": "现价处于52周区间 68% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +47.7%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.46（97条已评分）"
+     "note": "今日新闻情绪 +0.45（99条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.34 vs 20日均线 $226.89"
+     "note": "现价 $215.85 vs 20日均线 $227.01"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 65,
+   "price_52w_pct": 68,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 47.7,
-   "ma20": 226.89,
-   "as_of": "2026-10-20T13:51:29.275358+00:00"
+   "implied_upside_pct": 45.9,
+   "ma20": 227.01,
+   "as_of": "2026-10-20T14:06:31.860854+00:00"
   },
-  "pe_ttm": 27.1,
+  "pe_ttm": 27.4,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "b2fa12463a8b",
+   "title": "英伟达104量子比特模拟破纪录，物理比特省下90%，量子计算按下“产业化加速键” - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM1VtbWlTY0ZGVy10XzBHeHZJb2lER1R0aFM3VGwtM2xrN01OVnZZVzJJck90VDVZWjFROE52RkR2ZE9PVHhmbUJkcEVpVU9sUXdlMktzd1lfU1pfdURnWXhuSjBrdGI5LUZidEVOSzVrRWRUUlh1UlpIckk5UWEtR1cwTWlyenhXYlVtSA",
+   "source": "搜狐",
+   "published_at": "2026-10-20T13:53:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-20T13:53:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM1VtbWlTY0ZGVy10XzBHeHZJb2lER1R0aFM3VGwtM2xrN01OVnZZVzJJck90VDVZWjFROE52RkR2ZE9PVHhmbUJkcEVpVU9sUXdlMktzd1lfU1pfdURnWXhuSjBrdGI5LUZidEVOSzVrRWRUUlh1UlpIckk5UWEtR1cwTWlyenhXYlVtSA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "38d625e1caa9",
+   "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeXdGdlJLZWg4QWFrdDdoTFI5WWs1b1A4R1R0U2NCNmR2RkNSMnJZb2RBZVprejQwSmV3OHRVOFhmTGxTa3R0b1A2bE5Yb1VTbVB2QmJYajNZQWNPZWlsdVdhSXVQRW1abl82WEtBMGpJaFI3LTR1S1dSTlY",
+   "source": "Barron's",
+   "published_at": "2026-10-20T13:46:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-20T13:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oeXdGdlJLZWg4QWFrdDdoTFI5WWs1b1A4R1R0U2NCNmR2RkNSMnJZb2RBZVprejQwSmV3OHRVOFhmTGxTa3R0b1A2bE5Yb1VTbVB2QmJYajNZQWNPZWlsdVdhSXVQRW1abl82WEtBMGpJaFI3LTR1S1dSTlY"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "02b483bc1935",
+   "title": "美股讯号 | 英伟达等市值前十公司全线下跌，市场情绪承压 ｜#美股资讯# #英伟达# #股价波动# - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeXV0WU5VNTNIWC1Ka0twVUgwcUI5ZzZmS1c0RXIyck1yZUFwaU1kenlUWnl4cEFoeF9CNWFkbzVPbWxHTEpsVlBueHdPbzFFY0tvWWFxaEw2YmphbnF4RnZjZjJMeXVxMUMtMEh1WUJwLV9HT0ZxU0UxcHVXYzdfcmROeEdSUW9GblhBbw",
+   "source": "搜狐",
+   "published_at": "2026-10-20T13:39:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-20T13:39:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeXV0WU5VNTNIWC1Ka0twVUgwcUI5ZzZmS1c0RXIyck1yZUFwaU1kenlUWnl4cEFoeF9CNWFkbzVPbWxHTEpsVlBueHdPbzFFY0tvWWFxaEw2YmphbnF4RnZjZjJMeXVxMUMtMEh1WUJwLV9HT0ZxU0UxcHVXYzdfcmROeEdSUW9GblhBbw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "c7ef11dd6c4c",
    "title": "Nvidia blames “outdated” curbs as China orders $35bn of RTX PRO 5500s - The Next Web",
@@ -80,6 +131,40 @@
    "zh_summary": "英伟达称出口管制过时，中国下单350亿美元",
    "title_zh": "英伟达称出口管制过时，中国订购350亿美元RTX PRO 5500",
    "sentiment": 1
+  },
+  {
+   "id": "08e77e259809",
+   "title": "Nvidia Is Coming for Intel and AMD's CPU Business - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHJuYjVETUlxVC1mV1dYZjUwM2J6dXZUdjVHZzlzSFJ6blJDLU9CeF9CcjhpamdydXk2b040UDAzQzJkNFcwakpfWFZSYVBnLTlMOWs4X1hpOEVYWVBUS281azg2MFJSaGFlYXZIRXB5Tk9pRWNfMHl4YXhxZ25fZHpRT1lwVFFfWjU0RFRXRFI",
+   "source": "GuruFocus",
+   "published_at": "2026-10-20T13:33:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-20T13:33:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHJuYjVETUlxVC1mV1dYZjUwM2J6dXZUdjVHZzlzSFJ6blJDLU9CeF9CcjhpamdydXk2b040UDAzQzJkNFcwakpfWFZSYVBnLTlMOWs4X1hpOEVYWVBUS281azg2MFJSaGFlYXZIRXB5Tk9pRWNfMHl4YXhxZ25fZHpRT1lwVFFfWjU0RFRXRFI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "2ad1357ecc3d",
+   "title": "Nvidia RTX Spark and Surface Laptop Ultra: Your questions answered - XDA",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaXpVa0xhNjdSZ1VJXzNlQlFIbktJYUkwQVBKUTV0TlBMcVBwMlE2Ykk4cno3N0dVOEY1VnA0MmY1SzJtbkxBX2NodDRLZWRyOEJVZjNPMWNWeXRselNGWnBSNkFfQ3VnQVBaU05fYVJQWlEtdFczRWg5TzhzT216VGJvMDhsTkQ5Z2lhbnN0MzlpenFSRkZ5RTBtOHV6dw",
+   "source": "XDA",
+   "published_at": "2026-10-20T13:30:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "XDA",
+     "published_at": "2026-10-20T13:30:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaXpVa0xhNjdSZ1VJXzNlQlFIbktJYUkwQVBKUTV0TlBMcVBwMlE2Ykk4cno3N0dVOEY1VnA0MmY1SzJtbkxBX2NodDRLZWRyOEJVZjNPMWNWeXRselNGWnBSNkFfQ3VnQVBaU05fYVJQWlEtdFczRWg5TzhzT216VGJvMDhsTkQ5Z2lhbnN0MzlpenFSRkZ5RTBtOHV6dw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "b986ca98d014",
@@ -107,6 +192,23 @@
    "sentiment": -1
   },
   {
+   "id": "752fcb310203",
+   "title": "使用英伟达RTX Spark一周：关于新笔记本的全部体验 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeG5LdWxTenh3dXB4VUFhTHNOQUk3dnZ3ZWhwdkhSNEFYTHpabkZUbWdNSUNGYkJfSDVBWlFvVlI2OE5ic2NGQnNKWV91REZaVGRDS2hwTENvRkdjampGNk96ZDhKNTVIa1oza2V2MWxCRUdMRWVBLVQzLXVSdk9wYWcxM0xaQWpt",
+   "source": "搜狐",
+   "published_at": "2026-10-20T13:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-20T13:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeG5LdWxTenh3dXB4VUFhTHNOQUk3dnZ3ZWhwdkhSNEFYTHpabkZUbWdNSUNGYkJfSDVBWlFvVlI2OE5ic2NGQnNKWV91REZaVGRDS2hwTENvRkdjampGNk96ZDhKNTVIa1oza2V2MWxCRUdMRWVBLVQzLXVSdk9wYWcxM0xaQWpt"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "08c89a0c6696",
    "title": "Reflex Aerospace To Boost Production With Nvidia Backing - Aviation Week",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSU4wSVFlZDZ6QzNCaGxSbHlWRWJnRFlvYS15bEEzUWlJWmk0amVqZHkyVk5rUmY5S0FjckJNQnhiejg1Y2l0VWpUaFZxXzVxQzdTTXAycUN4NkRKa3hjNUlWZlFNQVBrSWNJWG1faXdJOWY3cE4tMWxaVUw0TndacmhGdmhXUThLYjdJUDIwMUE4bFdJ",
@@ -125,6 +227,23 @@
    "zh_summary": "英伟达支持航天公司扩大生产",
    "title_zh": "航空初创获英伟达支持扩大生产",
    "sentiment": 1
+  },
+  {
+   "id": "2c7428da5d2f",
+   "title": "物理AI不只是机器人，英伟达老将转型投资人这样说 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYTU1YmhIRTBsTXJmS09vSHdoVkZ6a0QyeXJocWpPWmM4RVZRekRMRmUzdnN5RDJVNUlFT2NBUlkwb2xHel9kV0RsRzhTUjZkQndLaWZCcV91aGwwNU05WHllZ3pjcUExOGNiQmdzVm9OWE1pQ0FxQmNGaVJHYlBaaGwwTlF2UllD",
+   "source": "搜狐",
+   "published_at": "2026-10-20T13:27:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-20T13:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYTU1YmhIRTBsTXJmS09vSHdoVkZ6a0QyeXJocWpPWmM4RVZRekRMRmUzdnN5RDJVNUlFT2NBUlkwb2xHel9kV0RsRzhTUjZkQndLaWZCcV91aGwwNU05WHllZ3pjcUExOGNiQmdzVm9OWE1pQ0FxQmNGaVJHYlBaaGwwTlF2UllD"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "ed151792cf0d",
@@ -190,6 +309,23 @@
    "zh_summary": "美股盘初市值前十全线下跌，英伟达承压",
    "title_zh": "21:39:45【美股市值前十公司盘初罕见全线下跌 英伟达、苹果等集体承压】 - 财联社",
    "sentiment": -1
+  },
+  {
+   "id": "ca174a8f0001",
+   "title": "Nvidia stock falls despite rumors of major chip purchases from China - Pluang",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVnhiVHR6OGt2VWViZi1kWkNQamxqWUZqYV83QV82UFB1UEc2MHppZVlhRlRzdHhLM3VVdkoxVmR2Y1NtNzY4cW5aVlNGbWlhTWgzQnplWC1rLW1OU1R6bEVkSVktQlczMlhHMTNnejZuQWZrejF1SmZQZHJKUDhwN0FBekFhZDQ5OVVGTGhUVUN3QQ",
+   "source": "Pluang",
+   "published_at": "2026-10-20T12:57:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Pluang",
+     "published_at": "2026-10-20T12:57:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVnhiVHR6OGt2VWViZi1kWkNQamxqWUZqYV83QV82UFB1UEc2MHppZVlhRlRzdHhLM3VVdkoxVmR2Y1NtNzY4cW5aVlNGbWlhTWgzQnplWC1rLW1OU1R6bEVkSVktQlczMlhHMTNnejZuQWZrejF1SmZQZHJKUDhwN0FBekFhZDQ5OVVGTGhUVUN3QQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "d90197c321e3",
@@ -2254,6 +2390,23 @@
    "sentiment": 0
   },
   {
+   "id": "562834c4fbb6",
+   "title": "英伟达GTC柏林大会即将开幕 黄仁勋将发表主题演讲 AI工厂、欧洲投资引关注 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zbUZHQVZxTUxGakJGSEgzRnJYMk5JSXFlWFhTdUlLdkRpNzNKZ292U1dia29PQk14NWd3OGt2clBiQkNkRTc3Zg",
+   "source": "财联社",
+   "published_at": "2026-10-20T03:56:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-20T03:56:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zbUZHQVZxTUxGakJGSEgzRnJYMk5JSXFlWFhTdUlLdkRpNzNKZ292U1dia29PQk14NWd3OGt2clBiQkNkRTc3Zg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "96aa157dadfc",
    "title": "NVIDIA BlueField-4 STX Server for CMX at OCP 2026 - ServeTheHome",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3phUEl5d0FzN3VTRVNjVW1vVUpVcUJCdTZtNEpFRjFoSFNDYkNuV3NJR05ZV25PYU42NV9QUzZGSU5tMElOMnJYUHhyeUdtM01ibHpUOWNRMjV2MDBhdENBNHE3Wk03M0ZrQVBUWFdSd09NUS1CT2FsdU8wZDV5cW55aG5jdw",
@@ -3927,7 +4080,7 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ3BKYWpfejRRWi12TXkydExqY0NFdzllMXFsUm9XUURWZVRJaV84VHpNVEg1X21TeGwyZDVGMlptTXlENkYwNzdIeXo2SVVyb3lpVVE0ZDFBdjJTYzhJNGNkQ0tuMnVaWDNCSXI0YVd2UDNMdnFzeURyZkNUdEJVUS1XdTh0eDJKcTQtbw",
    "source": "European Interest",
    "published_at": "2026-10-19T20:09:34+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "European Interest",
@@ -3943,6 +4096,11 @@
      "name": "TelegraphHerald.com",
      "published_at": "2026-10-20T05:30:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUk5IeldDWHE4Zk5fODFRWk1pRi1Qc3RramZaWUViOVpxUHhVQVRLNEUtVXFWMzBhU0lRdnF4QXNZNFhtRWxBbUpMVUVYcllSZTJ1Q1Fwak1Qbk5wYmxVa1ZudlQzRV9KRENURzUzZU5Udm02VWFfLVczeXNOc0Y1enNja2NGMy1RZDJpSVN4SG9fYlpuSTJkcg"
+    },
+    {
+     "name": "Broadband Breakfast",
+     "published_at": "2026-10-20T03:29:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1ltNHlPTzhFdl96Tm5RdVdySjZfQkJhUTJxaVZ6RUFuaGUzRkdYcV8xZTVMZk04ekpSSHpTU0VhSmE2cDAwWnVzMDJRNGVkRDYzS2FIRzJ4UkJTUzNVYmdkeFd0RThzMUhLM0tjUmpjd0hhTW1tYS1qM0V4cXNSLVBRN1NnaXRt"
     }
    ],
    "category": "其他",
@@ -6517,196 +6675,6 @@
    "zh_summary": "西门子与英伟达开发AI工厂自动化技术",
    "title_zh": "西门子与英伟达开发AI驱动的工厂自动化技术",
    "sentiment": 1
-  },
-  {
-   "id": "1acf182aaca2",
-   "title": "Nvidia-backed doubleAI says its AI model cut an early customer's compute costs 67% - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fa2hxQVlsdWREZ2NTSlN5dFF3dUZ6a183bDdHTXN0UFROZlJUXzZtTTBWQ1RlbWpQbzVUazhla0N5RnAxQVUxZmNteUlyQ1N5NXRUOXBKV1RsTkowVlNqbGxFR0MxbWVvWkJyQ2ZNdlpEbGc",
-   "source": "Quartz",
-   "published_at": "2026-10-19T12:37:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Quartz",
-     "published_at": "2026-10-19T12:37:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fa2hxQVlsdWREZ2NTSlN5dFF3dUZ6a183bDdHTXN0UFROZlJUXzZtTTBWQ1RlbWpQbzVUazhla0N5RnAxQVUxZmNteUlyQ1N5NXRUOXBKV1RsTkowVlNqbGxFR0MxbWVvWkJyQ2ZNdlpEbGc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达参投doubleAI：模型助客户降本67%",
-   "title_zh": "英伟达支持的doubleAI称其AI模型为早期客户削减67%算力成本",
-   "sentiment": 1
-  },
-  {
-   "id": "fb773a46b072",
-   "title": "Microsoft, Nvidia push provenance checks as open-weight AI adoption accelerates - CSO Online",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWJ5cW1scWVFVS1tczZhTmtCS0JER21CcmFVOExwZ3lZRG9WaUFEYXhVSTlNd25zT25oUTdNSU5zWmJ1bEVJTVlrMnRXaG9BeVVSR3p5Ynhoc01IVnZ1dWl0VHVVUHlDcGktdmdNeFpFdkVGRVBzN09NVzh1QjNKV0J2cFhwMW82WW9VZWZqRllKVzJXQ1NzMmd6Uk04YVpObUd4SWs1dWJjeUoycVNmUVNkbHVPSVdPd0E0UWVZWjFDdkE",
-   "source": "CSO Online",
-   "published_at": "2026-10-19T12:35:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CSO Online",
-     "published_at": "2026-10-19T12:35:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTWJ5cW1scWVFVS1tczZhTmtCS0JER21CcmFVOExwZ3lZRG9WaUFEYXhVSTlNd25zT25oUTdNSU5zWmJ1bEVJTVlrMnRXaG9BeVVSR3p5Ynhoc01IVnZ1dWl0VHVVUHlDcGktdmdNeFpFdkVGRVBzN09NVzh1QjNKV0J2cFhwMW82WW9VZWZqRllKVzJXQ1NzMmd6Uk04YVpObUd4SWs1dWJjeUoycVNmUVNkbHVPSVdPd0E0UWVZWjFDdkE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "微软与英伟达推动AI溯源验证，应对开源模型普及",
-   "title_zh": "微软与英伟达推动来源验证，开源权重AI应用加速",
-   "sentiment": 0
-  },
-  {
-   "id": "2223582d31e3",
-   "title": "Siemens, Nvidia partner on AI autonomous factories - Breakingthenews.net",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0V4emRCTXZXckJsWk9qV3NmajczdzVsM3EtSXRFamw0ZGwxUzRyR2xkN1VmRFlVM214YVk4WDlHNVpBaXpLLXJ0cFhHSHlRa1JaMTg0cGVwQTZSajRuVFpDYl84R090Z2ZRTkR3QTdmaU1TTnQweUdFNTJIdEZmb2dWNlU2UFJlSFExUUt2WklScGVfOEc2Sk9B",
-   "source": "Breakingthenews.net",
-   "published_at": "2026-10-19T12:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Breakingthenews.net",
-     "published_at": "2026-10-19T12:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX0V4emRCTXZXckJsWk9qV3NmajczdzVsM3EtSXRFamw0ZGwxUzRyR2xkN1VmRFlVM214YVk4WDlHNVpBaXpLLXJ0cFhHSHlRa1JaMTg0cGVwQTZSajRuVFpDYl84R090Z2ZRTkR3QTdmaU1TTnQweUdFNTJIdEZmb2dWNlU2UFJlSFExUUt2WklScGVfOEc2Sk9B"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "西门子与英伟达合作AI自动工厂",
-   "title_zh": "西门子与英伟达合作打造AI自主工厂",
-   "sentiment": 1
-  },
-  {
-   "id": "61e1e6e664a2",
-   "title": "热点丨2nm自研芯片三代迭代，微软要把推理负载搬离英伟达 - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XLWdyM3F6d3B0RW5wMEQ2WWtyM1VKMmlzOEw2VkF1dFgyYWptRjJQVFpnZ3RSLThwczc1dGlqRUZtMTFrMlJpcUhzZlZES0lZTFk4",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-19T12:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-19T12:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XLWdyM3F6d3B0RW5wMEQ2WWtyM1VKMmlzOEw2VkF1dFgyYWptRjJQVFpnZ3RSLThwczc1dGlqRUZtMTFrMlJpcUhzZlZES0lZTFk4"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "微软自研芯片三代迭代，将推理负载搬离英伟达",
-   "title_zh": "热点丨2nm自研芯片三代迭代，微软要把推理负载搬离英伟达",
-   "sentiment": -1
-  },
-  {
-   "id": "2846101e450b",
-   "title": "梅赛德斯-奔驰与英伟达拓展战略合作 推进自动驾驶系统研发 - 凤凰网汽车",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uTU9IOFd5LUM0Nng5RTNZT0pMVzl0dng1Y2dEM3Q2eTJyOVNCYmItUjRRRC1icU93eXItYkJGRE43ZEp4eEtzR2VFb2I",
-   "source": "凤凰网汽车",
-   "published_at": "2026-10-19T12:20:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "凤凰网汽车",
-     "published_at": "2026-10-19T12:20:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uTU9IOFd5LUM0Nng5RTNZT0pMVzl0dng1Y2dEM3Q2eTJyOVNCYmItUjRRRC1icU93eXItYkJGRE43ZEp4eEtzR2VFb2I"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "梅赛德斯与英伟达拓展自动驾驶合作",
-   "title_zh": "梅赛德斯-奔驰与英伟达拓展战略合作 推进自动驾驶系统研发",
-   "sentiment": 1
-  },
-  {
-   "id": "ac89b7be70e2",
-   "title": "Stock Market Today: Tech Futures Rebound As AI Names Bounce; AMD, CoreWeave, Nvidia Rally (Live Coverage) - Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORXNBVmY5QW01S283Ul9KVExGV1RFeXFxWlpROFh3QzBNTkJNY3NkbkZWU2xUMEc5UXMtS05xUTFFMTR1aW1sWTFIV3BLR0VVSk9rZk02RU52VU8zMFEyX2lBV1NoakVyYUozNmtVc1lqb2NoOGpDeGVHd0FwRGNzR3FQSHMtSVBmVG0zT3lveHpMX0FyNlVJOUticTR1Tmx5NmpLRjMyQmg1alVKaDBTUg",
-   "source": "Investor's Business Daily",
-   "published_at": "2026-10-19T12:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investor's Business Daily",
-     "published_at": "2026-10-19T12:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORXNBVmY5QW01S283Ul9KVExGV1RFeXFxWlpROFh3QzBNTkJNY3NkbkZWU2xUMEc5UXMtS05xUTFFMTR1aW1sWTFIV3BLR0VVSk9rZk02RU52VU8zMFEyX2lBV1NoakVyYUozNmtVc1lqb2NoOGpDeGVHd0FwRGNzR3FQSHMtSVBmVG0zT3lveHpMX0FyNlVJOUticTR1Tmx5NmpLRjMyQmg1alVKaDBTUg"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "科技股期货反弹，英伟达等AI股回升",
-   "title_zh": "科技股期货反弹：AMD、CoreWeave、英伟达领涨（实时）",
-   "sentiment": 1
-  },
-  {
-   "id": "ab7723793988",
-   "title": "Samsung Is Turning to Rival TSMC for Nvidia's Next AI Memory - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnNGMFU2S3J3OGp3WDZFN3gwOXNFck14eHdiUGFzNUdYbS1TakVYZG1qekZOV3dibW9CbmtjS1pIckQ2RDlQTXpZNk9NcFJwSlRhaEFWUkdrNTdMNjRMREM1SnlJeWlNUFVsYWNlN3hKS3dPMFZSUlU0b2YwNUlGRHV5VHpOTlRUZXlzZ00weXBrcDhNb2ZHTkNzTUJ5eFE",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T12:15:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T12:15:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnNGMFU2S3J3OGp3WDZFN3gwOXNFck14eHdiUGFzNUdYbS1TakVYZG1qekZOV3dibW9CbmtjS1pIckQ2RDlQTXpZNk9NcFJwSlRhaEFWUkdrNTdMNjRMREM1SnlJeWlNUFVsYWNlN3hKS3dPMFZSUlU0b2YwNUlGRHV5VHpOTlRUZXlzZ00weXBrcDhNb2ZHTkNzTUJ5eFE"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "三星转向台积电代工英伟达AI内存",
-   "title_zh": "三星转向竞争对手台积电，代工英伟达下一代AI内存",
-   "sentiment": 1
-  },
-  {
-   "id": "496de56fd088",
-   "title": "Nvidia-Backed Nscale's IPO Faces Valuation Pushback as AI Infrastructure Stocks Slide - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemNEMGxkMWhVWGVTaFVkNkJRQjVjMXpQRlIteE1kUWlkTnlKb0pyWDVoYWtNSWE5Zzc5aXBQMjljWnN6WjdfSzdJcElmQ2NhcTR2X0dUdWVwenlrbkcxVVVnQ0x1bExFRlhtVWlPcXI2SlNHd09xQ09LbThLM0JqV00zVU4xZElZTkw1eDZLc041OHFmLVQzQmV2VXZzQTlvRnlVSVQ4ZFZ1aWJnekNMaVRvNUpfN1QyaEpQdW9aS0g3R0NzaWFDMVJ1dnlJTVlxZTJaQ0VRRzYtUW9RcWc",
-   "source": "TradingView",
-   "published_at": "2026-10-19T12:13:14+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-19T12:13:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemNEMGxkMWhVWGVTaFVkNkJRQjVjMXpQRlIteE1kUWlkTnlKb0pyWDVoYWtNSWE5Zzc5aXBQMjljWnN6WjdfSzdJcElmQ2NhcTR2X0dUdWVwenlrbkcxVVVnQ0x1bExFRlhtVWlPcXI2SlNHd09xQ09LbThLM0JqV00zVU4xZElZTkw1eDZLc041OHFmLVQzQmV2VXZzQTlvRnlVSVQ4ZFZ1aWJnekNMaVRvNUpfN1QyaEpQdW9aS0g3R0NzaWFDMVJ1dnlJTVlxZTJaQ0VRRzYtUW9RcWc"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T12:13:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDI2NWhJUzc4V3lXQ2kxWGE4bUxPb0VGd1dWcFh3ZmRoYkI2cS1ROUVoN00tSEhDU0Q4OFZVRXhaTVl4Ti02d1NXaVFjTmNCWUMwenBkM0tWc3FwOGNGRXBRVzFBWGc3TDdIVkxDNERvbFVZQWx5MnpQX0hrZGozck5odGZtSy1iOGtUQlJkOUtJZHBmbEFQa2MzRTY"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "Nvidia支持的Nscale IPO遭遇估值质疑",
-   "title_zh": "Nvidia支持的Nscale IPO遭遇估值质疑",
-   "sentiment": -1
-  },
-  {
-   "id": "aa8af450a7a9",
-   "title": "三星回应英伟达要生产定制化NVHBM - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56dV8wTWxCRDZrZzlmeXVSV1NaZFlacUtxSEg2Sy1WQUoyVkxqWFhzT1ZEM1pTTDJfejRMTUkzT2lMRlZfMFBudlRRalVCMU5iZkgxTlpaZTB6Z1ljbzczUmhUY25aNmdaaTQzMnRR",
-   "source": "finance.sina.com.cn",
-   "published_at": "2026-10-19T12:11:04+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-19T12:11:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56dV8wTWxCRDZrZzlmeXVSV1NaZFlacUtxSEg2Sy1WQUoyVkxqWFhzT1ZEM1pTTDJfejRMTUkzT2lMRlZfMFBudlRRalVCMU5iZkgxTlpaZTB6Z1ljbzczUmhUY25aNmdaaTQzMnRR"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-19T12:11:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56dV8wTWxCRDZrZzlmeXVSV1NaZFlacUtxSEg2Sy1WQUoyVkxqWFhzT1ZEM1pTTDJfejRMTUkzT2lMRlZfMFBudlRRalVCMU5iZkgxTlpaZTB6Z1ljbzczUmhUY25aNmdaaTQzMnRR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "三星回应英伟达定制化NVHBM计划",
-   "title_zh": "三星回应英伟达要生产定制化NVHBM - finance.sina.com.cn",
-   "sentiment": 0
   }
  ]
 }
