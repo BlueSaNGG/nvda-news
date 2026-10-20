@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T21:06:31.520139+00:00",
+ "updated_at": "2026-10-20T21:21:30.260833+00:00",
  "market": {
   "price": 216.47,
   "change_pct": -0.29,
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 179
+   "avg": 0.43,
+   "count": 182
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（179条已评分）"
+     "note": "今日新闻情绪 +0.43（182条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.5,
    "ma20": 227.04,
-   "as_of": "2026-10-20T21:06:31.499869+00:00"
+   "as_of": "2026-10-20T21:21:30.240268+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "7bdceaeab269",
+   "title": "European Antitrust Agenda: EU Commission Advances Nvidia Probe; Ministers Take on China Trade Strategy - The Capitol Forum",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY2hoNHZkdjZJUC1zdE9QVlEwekMxV3gtWEt1NHVnUjJNMjRWdVpmdHZ0NWYtb2lFaDE5LWVFU0FEZHowOFpkWHZQUXVYd1AtLTBfdE5lUHFoWl9WM25NckZHdkE1WmRpZHNrRDk2cXo0aGhhWERjQzhhaklaMzgzU1JOTmJEQm5OYzFFUTZXUHJOMDNPRGlId0FTVm1Dd0otVE1TVmVxblZZR2dvTkdCUTM2TGNuQm5qOHVsdC1LZ001TUQtSkJtUA",
+   "source": "The Capitol Forum",
+   "published_at": "2026-10-20T21:07:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Capitol Forum",
+     "published_at": "2026-10-20T21:07:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY2hoNHZkdjZJUC1zdE9QVlEwekMxV3gtWEt1NHVnUjJNMjRWdVpmdHZ0NWYtb2lFaDE5LWVFU0FEZHowOFpkWHZQUXVYd1AtLTBfdE5lUHFoWl9WM25NckZHdkE1WmRpZHNrRDk2cXo0aGhhWERjQzhhaklaMzgzU1JOTmJEQm5OYzFFUTZXUHJOMDNPRGlId0FTVm1Dd0otVE1TVmVxblZZR2dvTkdCUTM2TGNuQm5qOHVsdC1LZ001TUQtSkJtUA"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘后"
+  },
   {
    "id": "b6e80ff5eade",
    "title": "Google's TorchTPU Takes On Nvidia GPU Lock-In [2026] - https://tech-insider.org/",
@@ -6753,26 +6770,6 @@
    "session": "盘中",
    "zh_summary": "雅虎将英伟达列为被低估股票",
    "title_zh": "雅虎财经：英伟达等3只被低估股票值得持有",
-   "sentiment": 1
-  },
-  {
-   "id": "fe6834c60fd0",
-   "title": "Modal says Nvidia’s Vera CPU doubles throughput for its AI sandboxes - The Next Web",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15cU81T2JQRTMxaUdIelV4WWkyWVBldWVpZlBZWEJHU0Q0aTNZcWp4UGNYN3ZGaVd5LUM0eDJiVDUxdjJyWkFFdHc1ajNoLXpQYUF0ZEVtcGxDZC1oemhfM09rQzlaUXJNSEE4",
-   "source": "The Next Web",
-   "published_at": "2026-10-19T18:11:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Next Web",
-     "published_at": "2026-10-19T18:11:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15cU81T2JQRTMxaUdIelV4WWkyWVBldWVpZlBZWEJHU0Q0aTNZcWp4UGNYN3ZGaVd5LUM0eDJiVDUxdjJyWkFFdHc1ajNoLXpQYUF0ZEVtcGxDZC1oemhfM09rQzlaUXJNSEE4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Modal称英伟达Vera CPU使吞吐翻倍",
-   "title_zh": "Modal称英伟达Vera CPU使其AI沙箱吞吐量翻倍",
    "sentiment": 1
   }
  ]
