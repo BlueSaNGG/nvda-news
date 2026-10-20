@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T23:21:30.730791+00:00",
+ "updated_at": "2026-10-20T23:36:29.012519+00:00",
  "market": {
   "price": 216.47,
   "change_pct": -0.29,
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.41,
-   "count": 192
+   "avg": 0.4,
+   "count": 193
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.41（192条已评分）"
+     "note": "今日新闻情绪 +0.40（193条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.5,
    "ma20": 227.04,
-   "as_of": "2026-10-20T23:21:30.718699+00:00"
+   "as_of": "2026-10-20T23:36:28.999768+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -62,13 +62,35 @@
  },
  "stories": [
   {
-   "id": "0a98b72c4f24",
-   "title": "谷歌开源TorchTPU，挑战英伟达AI生态主导地位 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zY2hWaEZidDdJN1JTdUc4b3ZoU193NmlYbkJMSXgxZ2dRRGdrWXFWV1FHb1JBeGtqS1EwcXctZDJyNzFVWjUtemZ1UnItNnk4UFFva08tZHEzVHNfT2I5SG9QblFTUUxEOTVnNk56SjYxSU5PbWt2VkFwM3BfZw",
-   "source": "新浪网",
+   "id": "88c1528f74dc",
+   "title": "总价逾350亿美元！字节、阿里、腾讯订购超300万张英伟达芯片 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEd0ZWdXZ3b3NRcDFHMkVPdUtzQk1DMGo2cVFYd0l2Vm9Rd1o4Y3RWSC1CaXNfZ3BuRlNwTWVkampqY3ZJOExiQm5GRnFWZFZfaFhNcjdQaVU",
+   "source": "驱动之家",
    "published_at": "2026-10-20T23:19:00+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-20T23:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEd0ZWdXZ3b3NRcDFHMkVPdUtzQk1DMGo2cVFYd0l2Vm9Rd1o4Y3RWSC1CaXNfZ3BuRlNwTWVkampqY3ZJOExiQm5GRnFWZFZfaFhNcjdQaVU"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "0a98b72c4f24",
+   "title": "谷歌开源TorchTPU，挑战英伟达AI生态主导地位 - 凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92VGxlbE9nMUdtalRjU0drTUJGelNwWld2U1VtYlpQOTdySnhHbVdFUWtQaUNVSThMRFJIdzF1c3NXS0I1LXR1UzlJMFE",
+   "source": "凤凰网科技",
+   "published_at": "2026-10-20T23:15:12+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-20T23:15:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92VGxlbE9nMUdtalRjU0drTUJGelNwWld2U1VtYlpQOTdySnhHbVdFUWtQaUNVSThMRFJIdzF1c3NXS0I1LXR1UzlJMFE"
+    },
     {
      "name": "新浪网",
      "published_at": "2026-10-20T23:19:00+00:00",
@@ -77,8 +99,8 @@
    ],
    "category": "其他",
    "session": "盘后",
-   "title_zh": "谷歌开源TorchTPU，挑战英伟达AI生态主导地位 - 新浪网",
    "zh_summary": "谷歌开源TorchTPU挑战英伟达AI生态主导",
+   "title_zh": "谷歌开源TorchTPU，挑战英伟达AI生态主导地位 - 新浪网",
    "sentiment": -1
   },
   {
@@ -120,6 +142,23 @@
    "zh_summary": "英伟达称RTX 5090未停产供应仍紧",
    "title_zh": "英伟达PC负责人称RTX 5090未停产，供应仍紧张",
    "sentiment": 0
+  },
+  {
+   "id": "6018c92d0e25",
+   "title": "The Moment Jensen Huang Realized Nvidia 'Won't Have to Die' Came After a Call From This CEO: 'For the Whole Time, 30 Years…' - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVdyNVBTNldISGRkV0pNVkswZkZHcTRVWU9hdzNxeVI4aVhOemRmX3BOQmY0aGp5QzRfbGFaVkRRaTRNUk5LVm1HX2FvS2FXcExKSXAwa2treTVaNElXaTdqek1HQzN2eFB5LTlxaFVQZkNYWTlKTmZwSWc1WHF2UWxYYkV6Unk5YlFqcVZFUEVtOUktNkpRQ0E0TXN6aElf",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-20T22:15:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T22:15:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVdyNVBTNldISGRkV0pNVkswZkZHcTRVWU9hdzNxeVI4aVhOemRmX3BOQmY0aGp5QzRfbGFaVkRRaTRNUk5LVm1HX2FvS2FXcExKSXAwa2treTVaNElXaTdqek1HQzN2eFB5LTlxaFVQZkNYWTlKTmZwSWc1WHF2UWxYYkV6Unk5YlFqcVZFUEVtOUktNkpRQ0E0TXN6aElf"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "7b7760c00a7d",
@@ -307,26 +346,6 @@
    "sentiment": 1
   },
   {
-   "id": "13a28eb8232a",
-   "title": "Why Isn’t Nvidia (NASDAQ:NVDA) Stock Rising Despite Reports of US$35 Billion in China AI Chip Orders? - Stocks Down Under",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MM09XRVRUMjVxeFFKdFhWSTJSSjdQUUdZdzlTT05QTTdaOFJSLTQwMV9TSmo2S0tKLXNKMWxmS19tejBXOVZHTDNNUnNSaXFxSHh0RTBPTTRoVjctdDVoUzJzVkdSOTdJWFQ1Z0YxVk1tZ0hZM1E",
-   "source": "Stocks Down Under",
-   "published_at": "2026-10-20T19:42:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocks Down Under",
-     "published_at": "2026-10-20T19:42:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MM09XRVRUMjVxeFFKdFhWSTJSSjdQUUdZdzlTT05QTTdaOFJSLTQwMV9TSmo2S0tKLXNKMWxmS19tejBXOVZHTDNNUnNSaXFxSHh0RTBPTTRoVjctdDVoUzJzVkdSOTdJWFQ1Z0YxVk1tZ0hZM1E"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "传中国350亿美元AI芯片订单但股价未涨",
-   "title_zh": "传中国350亿美元AI芯片订单，英伟达股价却未上涨",
-   "sentiment": -1
-  },
-  {
    "id": "facdebc37426",
    "title": "市场传闻：亚马逊购买的英伟达AI硬件超出其供电能力 - 富途牛牛",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMlI1WG5VdHYzeEpJVC1vTzhSVlRjT0pFdE1fVjFGcG4zUWVhT1BKSjZoRUxOeTBNaG0xTlI5TG53clY2M1lsY1hTRXRkdHZWZTZhMUJRYTR6ZE02NHJRbDJUSmh5VWdocGFqay02Sm9lVmVLWnVVSmdRUUxNcTh5TTJKSnpIal9hRW1BeGtIMHZ6d2pyZHFOUnZiUG9VZEprd0E",
@@ -390,6 +409,26 @@
    "zh_summary": "亚马逊抢购英伟达AI硬件超出电力负荷",
    "title_zh": "传闻：亚马逊购买的英伟达AI硬件超出其电力供应",
    "sentiment": 1
+  },
+  {
+   "id": "13a28eb8232a",
+   "title": "Why Isn’t Nvidia (NASDAQ:NVDA) Stock Rising Despite Reports of US$35 Billion in China AI Chip Orders? - Stocks Down Under",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MM09XRVRUMjVxeFFKdFhWSTJSSjdQUUdZdzlTT05QTTdaOFJSLTQwMV9TSmo2S0tKLXNKMWxmS19tejBXOVZHTDNNUnNSaXFxSHh0RTBPTTRoVjctdDVoUzJzVkdSOTdJWFQ1Z0YxVk1tZ0hZM1E",
+   "source": "Stocks Down Under",
+   "published_at": "2026-10-20T19:23:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocks Down Under",
+     "published_at": "2026-10-20T19:23:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MM09XRVRUMjVxeFFKdFhWSTJSSjdQUUdZdzlTT05QTTdaOFJSLTQwMV9TSmo2S0tKLXNKMWxmS19tejBXOVZHTDNNUnNSaXFxSHh0RTBPTTRoVjctdDVoUzJzVkdSOTdJWFQ1Z0YxVk1tZ0hZM1E"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中",
+   "zh_summary": "传中国350亿美元AI芯片订单但股价未涨",
+   "title_zh": "传中国350亿美元AI芯片订单，英伟达股价却未上涨",
+   "sentiment": -1
   },
   {
    "id": "b2b1c41ac2b5",
@@ -6743,46 +6782,6 @@
    "zh_summary": "英伟达与AMD谁能负担下一轮研发投入",
    "title_zh": "英伟达vs AMD：谁能负担下一轮研发开支增长？",
    "sentiment": 0
-  },
-  {
-   "id": "55d3556868c9",
-   "title": "I want to own Micron, Nvidia, Broadcom at these prices: Trivariate's Parker - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZDJYZ2poOXlJczQxY2pKMmNnd3ZxSlYtX0dWY1FDNXVnaVVHdzRZbjJ0M0hNbWNEajBYejc4SHh1cDMwZTlocldoWXFJcXdqTF96QmFfYXctMzNTUEFycHJLamN6Ulk0eW5WcW1QYXRJcUQ3RUlUU2laem94TGNVaDdJT01vQWxqNjFIZ2hYbFQtMTdvdFBzMzM1WFFKOTdTbnBQQ3RXcEdyamlKZ01IYS1Pclo",
-   "source": "CNBC",
-   "published_at": "2026-10-19T18:55:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-19T18:55:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZDJYZ2poOXlJczQxY2pKMmNnd3ZxSlYtX0dWY1FDNXVnaVVHdzRZbjJ0M0hNbWNEajBYejc4SHh1cDMwZTlocldoWXFJcXdqTF96QmFfYXctMzNTUEFycHJLamN6Ulk0eW5WcW1QYXRJcUQ3RUlUU2laem94TGNVaDdJT01vQWxqNjFIZ2hYbFQtMTdvdFBzMzM1WFFKOTdTbnBQQ3RXcEdyamlKZ01IYS1Pclo"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘中",
-   "zh_summary": "Trivariate称愿当前价买英伟达",
-   "title_zh": "Trivariate Parker：愿以当前价格买入英伟达、美光和博通",
-   "sentiment": 1
-  },
-  {
-   "id": "d6b45a56f1db",
-   "title": "德国卫星公司Reflex Aerospace称：在英伟达计划投资的支撑下扩大欧洲卫星生产 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tWWU2STdNYTNpdEZLNkZtNTI2WFY5Q1RvWGVTai1SVVFjdkt3d3dCLU55bjkwMDQ2VmVvejgyMktuQnAxT2lxX2wxYVRIc1ZBclBkcVZSb3FaV1ZsSkdIbnB3cw",
-   "source": "东方财富",
-   "published_at": "2026-10-19T18:54:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-19T18:54:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tWWU2STdNYTNpdEZLNkZtNTI2WFY5Q1RvWGVTai1SVVFjdkt3d3dCLU55bjkwMDQ2VmVvejgyMktuQnAxT2lxX2wxYVRIc1ZBclBkcVZSb3FaV1ZsSkdIbnB3cw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Reflex获英伟达投资支持扩产欧洲卫星",
-   "title_zh": "德国卫星公司称获英伟达投资支持，扩大欧洲卫星生产",
-   "sentiment": 1
   }
  ]
 }
