@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T12:51:23.938437+00:00",
+ "updated_at": "2026-10-20T13:06:31.342373+00:00",
  "market": {
   "price": 217.09,
   "change_pct": 1.38,
@@ -10,12 +10,12 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.51,
-   "count": 83
+   "avg": 0.48,
+   "count": 84
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.51（83条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.48（84条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.1,
    "ma20": 227.66,
-   "as_of": "2026-10-20T12:51:23.924864+00:00"
+   "as_of": "2026-10-20T13:06:31.272246+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -100,6 +100,40 @@
    "zh_summary": "美欧股指期货下挫，英伟达等科技股动作频出",
    "title_zh": "美股期货与欧股下挫，油价走高，英伟达、苹果、亚马逊等科技企业动作频出 - 搜狐",
    "sentiment": 0
+  },
+  {
+   "id": "f32db4274d83",
+   "title": "Nvidia plans to invest in 4 German startups, including Agile Robots - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tcVdkOU1YQlZBd0JkcG9VZmVsb3hlN2NNdFZtVXFJWG9OYVRISkkzMy1hdlBJQl9tMWpEeGdsS0V5Q1ZKcXNKUVU4b0N5bVYxaFFSUlR3MDBWUFlzOTlwZjI4MUtlMTFkUlc0eno2bkg4N0U",
+   "source": "Quartz",
+   "published_at": "2026-10-20T12:24:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-20T12:24:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tcVdkOU1YQlZBd0JkcG9VZmVsb3hlN2NNdFZtVXFJWG9OYVRISkkzMy1hdlBJQl9tMWpEeGdsS0V5Q1ZKcXNKUVU4b0N5bVYxaFFSUlR3MDBWUFlzOTlwZjI4MUtlMTFkUlc0eno2bkg4N0U"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "da020351c321",
+   "title": "Germany and NVIDIA Expand AI Partnership With a $10 Billion Commitment - BeInCrypto",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTTGRXYzFzMXJzOUFBM3dBOWJFSC1iNVJfNjFtOFo3VDd2VEM4djRtZVBGX29nUWduTlpnd0pKblJodFU3U3BtTVItSDRpMDBnT0dWSjdKTHhZLU1MU3dOYjBScXNxbUcwMGh4bkpyZTBMZw",
+   "source": "BeInCrypto",
+   "published_at": "2026-10-20T12:24:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BeInCrypto",
+     "published_at": "2026-10-20T12:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTTGRXYzFzMXJzOUFBM3dBOWJFSC1iNVJfNjFtOFo3VDd2VEM4djRtZVBGX29nUWduTlpnd0pKblJodFU3U3BtTVItSDRpMDBnT0dWSjdKTHhZLU1MU3dOYjBScXNxbUcwMGh4bkpyZTBMZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "b875ad4cdd24",
@@ -340,6 +374,40 @@
    "zh_summary": "英伟达投资德国卫星开发商Reflex",
    "title_zh": "英伟达投资德国卫星开发商Reflex Aerospace",
    "sentiment": 1
+  },
+  {
+   "id": "edff580c0661",
+   "title": "Modal taps Nvidia Vera CPUs after firm's internal tests show 2x throughput over Intel and AMD chips — AI agentic workflows said to favor Arm chips, but firm will keep x86 chips deployed in heterogeneous server fleet - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOc0M2a2hiYUpzbXNGNXIzUl85Nk5Gb0ZscmxvTDRLbk1TaWt2Rkd5SnlKcTljeEFhdml4WXZGa0ZIR0JSb3E4TnVIcE1Lc205SC00MFFUU3Iydzk3X3BVTmdCb05naWxfU3VEeFZSVlItMUNCUlpXcXNIZy0wSUxHcm9JUlZqTGhqN09Id0Yzc1hVazBZRGkzTXN0NlBheFN5clN5NUdlcTBLeWRPZkNGVnQyWUJGSVNjQkZfRl8tWmV4V2lWNTFwRlRfb3ZHS3UwaG5KLW5jUi12Z1hHc3hMQWt3ckROQndTVlNBaVJjVGVGbG1TS3BXbFFZQm5YWDZLLXdxSmY1c2x5My1fcWNNN1dGZw",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-20T11:50:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-20T11:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOc0M2a2hiYUpzbXNGNXIzUl85Nk5Gb0ZscmxvTDRLbk1TaWt2Rkd5SnlKcTljeEFhdml4WXZGa0ZIR0JSb3E4TnVIcE1Lc205SC00MFFUU3Iydzk3X3BVTmdCb05naWxfU3VEeFZSVlItMUNCUlpXcXNIZy0wSUxHcm9JUlZqTGhqN09Id0Yzc1hVazBZRGkzTXN0NlBheFN5clN5NUdlcTBLeWRPZkNGVnQyWUJGSVNjQkZfRl8tWmV4V2lWNTFwRlRfb3ZHS3UwaG5KLW5jUi12Z1hHc3hMQWt3ckROQndTVlNBaVJjVGVGbG1TS3BXbFFZQm5YWDZLLXdxSmY1c2x5My1fcWNNN1dGZw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "a23dfdfd506e",
+   "title": "NVIDIA Expands AI Investment in Germany: Focus on Startups - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUW9tTDlqeFlZMkZJY1p4bTRCOEtWZlhkejNseFB3T1lEVUtXUFVIUDFEbVpMVmtnemdtUG5OTVM5cGktSnVwR3NsQzdlNWNqcjdWMzRLdkNtWWtweWYyd1ZaNnlubGdCMzhULUxGR25fVzlVSXp4OWhRRGxXS3B0NHR4RGRVRzdNRlBKRHpoMHJHVFVxYlNBekVhRTk",
+   "source": "GuruFocus",
+   "published_at": "2026-10-20T11:47:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-20T11:47:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUW9tTDlqeFlZMkZJY1p4bTRCOEtWZlhkejNseFB3T1lEVUtXUFVIUDFEbVpMVmtnemdtUG5OTVM5cGktSnVwR3NsQzdlNWNqcjdWMzRLdkNtWWtweWYyd1ZaNnlubGdCMzhULUxGR25fVzlVSXp4OWhRRGxXS3B0NHR4RGRVRzdNRlBKRHpoMHJHVFVxYlNBekVhRTk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "18d55a6b57d5",
@@ -1500,26 +1568,6 @@
    "zh_summary": "英伟达称代理AI逆转CPU堆核趋势",
    "title_zh": "英伟达：过去CPU堆核牺牲单线程性能 代理AI逆转趋势 - 驱动之家",
    "sentiment": 0
-  },
-  {
-   "id": "367678b3846e",
-   "title": "英伟达新突破：用8192块GPU 刻下容错量子计算模拟里程碑 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Fd3pORkpKRXA5MU92TFVwRWlYQmhPd2V3SDBQRmE1TWswRkhmTzZFRWVNRmxyaE1wS0tNSnB6TDRyR005aXZmcVRJTjhKWmN0MnB3eDQ1MkN5MWt3SlN6UTlzNDM5VE5UM1FBaTNB",
-   "source": "finance.sina.com.cn",
-   "published_at": "2026-10-20T06:55:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-20T06:55:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Fd3pORkpKRXA5MU92TFVwRWlYQmhPd2V3SDBQRmE1TWswRkhmTzZFRWVNRmxyaE1wS0tNSnB6TDRyR005aXZmcVRJTjhKWmN0MnB3eDQ1MkN5MWt3SlN6UTlzNDM5VE5UM1FBaTNB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达用8192块GPU实现量子计算模拟里程碑",
-   "title_zh": "英伟达新突破：用8192块GPU 刻下容错量子计算模拟里程碑",
-   "sentiment": 1
   },
   {
    "id": "ca3f617b82c1",
@@ -6565,71 +6613,6 @@
    "zh_summary": "英伟达竞争对手完成15亿美元融资",
    "title_zh": "英伟达挑战者Tenstorrent融资15亿美元，估值62亿美元",
    "sentiment": -1
-  },
-  {
-   "id": "36e890df6df5",
-   "title": "Meta, Tesla, Nvidia, Micron and Alphabet are part of Zacks Earnings Preview - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmEtREF3Skg1Q24zS0J2RTlYQUFuN1IzZG95Z2lTd0Z5b1lTZFY4blNUQ2x2LUM3a3dzU2tkV3JaOFptOU5JZmVOWlVCaUQxSEFKV2F3TXZ6bTROcnZhemVkU1NlclVuWHphOVBfWFI0aTYzeXd5MEV1eV9vd0RHdnhXQm5tOGh4eXczZGJpRF9FWUlub0RUWEs5S1BKNzA",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T12:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmEtREF3Skg1Q24zS0J2RTlYQUFuN1IzZG95Z2lTd0Z5b1lTZFY4blNUQ2x2LUM3a3dzU2tkV3JaOFptOU5JZmVOWlVCaUQxSEFKV2F3TXZ6bTROcnZhemVkU1NlclVuWHphOVBfWFI0aTYzeXd5MEV1eV9vd0RHdnhXQm5tOGh4eXczZGJpRF9FWUlub0RUWEs5S1BKNzA"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "扎克斯发布财报预览，涉及英伟达等公司",
-   "title_zh": "扎克斯发布Meta、特斯拉、英伟达等公司财报预览",
-   "sentiment": 0
-  },
-  {
-   "id": "75d4b52936f8",
-   "title": "Siemens partners with NVIDIA to advance AI-driven, autonomous fact ... - Siemens press",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlpjNDhhNElaeVYxT1JuVXY5MWVvYUlOaWpNanllTklOZVF0Qllpcm5zTDliZnVjZENvZUsxNWZSZjl5T2lWcjlnOXhlUUtDUHZaYzhWRGlnYmJxSWllRjBwblRVUEJUZVFJLXFQWXJfOUJkV200NGxRQUpvdzRTUEctVjNOY293MG1WNzJzLUotSmk3Mmx5WGxsM00wV1UteEd2RF95V1FwcDM3TzI5Qg",
-   "source": "Siemens press",
-   "published_at": "2026-10-19T11:59:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Siemens press",
-     "published_at": "2026-10-19T11:59:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlpjNDhhNElaeVYxT1JuVXY5MWVvYUlOaWpNanllTklOZVF0Qllpcm5zTDliZnVjZENvZUsxNWZSZjl5T2lWcjlnOXhlUUtDUHZaYzhWRGlnYmJxSWllRjBwblRVUEJUZVFJLXFQWXJfOUJkV200NGxRQUpvdzRTUEctVjNOY293MG1WNzJzLUotSmk3Mmx5WGxsM00wV1UteEd2RF95V1FwcDM3TzI5Qg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "西门子与英伟达推进AI自主工厂",
-   "title_zh": "西门子与英伟达合作推进AI驱动的自主工厂",
-   "sentiment": 1
-  },
-  {
-   "id": "ffaff241371a",
-   "title": "三星与台积电合作 联手生产英伟达下一代HBM芯片 - e南洋",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpcldPMGhEVVU2UEFXZHNKQ2QtbUM3UzRMZXBTV1ZPUFExZlVtV0ZTd0pNVDcwdFBBWWZGdURZM01MSzR6T2FodVF3OHBJZDFwS3QxQWtPYUtPU0FlWWQ1cGdmcw",
-   "source": "e南洋",
-   "published_at": "2026-10-19T11:51:51+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "e南洋",
-     "published_at": "2026-10-19T11:51:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpcldPMGhEVVU2UEFXZHNKQ2QtbUM3UzRMZXBTV1ZPUFExZlVtV0ZTd0pNVDcwdFBBWWZGdURZM01MSzR6T2FodVF3OHBJZDFwS3QxQWtPYUtPU0FlWWQ1cGdmcw"
-    },
-    {
-     "name": "KLSE Screener",
-     "published_at": "2026-10-19T11:51:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQb3ZRYll0U3JzV29BQ29OcGRfS1J4S1hMY1hmU3hES2g4MGc1aGhuYVM4V1FvaFFJYU8wWlM3bE05X3RBamNSQVRnYy1IS3hVbUJEa1pySThVTkhBOV94c2JqOU15RVl0VTREdXMteWNiMTl3eWRkXzlBOUFzeURDOFYyTV93THFnZlNLcjNvTkRLOXg1MVdUWl9vZHQtOWt0djRHWnVja3B6MFhTSmN6QjVJSVJXeDdvNUxHR1dTcUkzclhZZlZUT1JzWlZKMllOeUozUWx3aGlvaFdOT3ZCZTNGWG84dVpLS253RXBIcXZJU0JNU3FfbTBQNDVGaXhZX3Q0bGJMNW90WVEzYmlvUDRCNmZsZVVVMUltZnJvUUNmZTNPMG9tamlzb1U5MTZES3V3UXVRUTdqbmZCR1FQMF8tajl1cVJWMEtBVDFpU0UwM0tn"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "三星台积电合作生产英伟达下一代HBM芯片",
-   "title_zh": "三星与台积电合作 联手生产英伟达下一代HBM芯片 - e南洋",
-   "sentiment": 1
   }
  ]
 }
