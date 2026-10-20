@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T10:06:25.821572+00:00",
+ "updated_at": "2026-10-20T10:21:26.610926+00:00",
  "market": {
   "price": 217.09,
   "change_pct": 1.38,
@@ -10,12 +10,12 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.48,
-   "count": 48
+   "avg": 0.51,
+   "count": 51
   },
   "daily_signal": {
-   "verdict": "中性",
-   "score": 1,
+   "verdict": "偏多",
+   "score": 2,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.48（48条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.51（51条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.1,
    "ma20": 227.66,
-   "as_of": "2026-10-20T10:06:25.802605+00:00"
+   "as_of": "2026-10-20T10:21:26.593971+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -560,6 +560,23 @@
    "zh_summary": "纳斯达克科技股反弹，英伟达领涨",
    "title_zh": "纳斯达克科技股反弹，英伟达领涨",
    "sentiment": 1
+  },
+  {
+   "id": "73d5d63e16cd",
+   "title": "Nvidia boss issues stark AI warning: ‘You don’t have another chance’ - The Independent",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTi1vLVBhN2xEUFl2S3pGVlZlWkphVlVCdVRxUzZlMXZadHFNaDg2MlJWTUFmV05qbGxqdnM5Q3hJUzFvZUpaekdmOUdfbG9BMGhMWlo4SnBuNk0yQ1lab2RvTEtkZWdKNVFaRlA0U194QWJDb1ZlVjZBaWhXazV0X3FEVDR0dw",
+   "source": "The Independent",
+   "published_at": "2026-10-20T07:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Independent",
+     "published_at": "2026-10-20T07:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTi1vLVBhN2xEUFl2S3pGVlZlWkphVlVCdVRxUzZlMXZadHFNaDg2MlJWTUFmV05qbGxqdnM5Q3hJUzFvZUpaekdmOUdfbG9BMGhMWlo4SnBuNk0yQ1lab2RvTEtkZWdKNVFaRlA0U194QWJDb1ZlVjZBaWhXazV0X3FEVDR0dw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "b2088c2da114",
@@ -6660,26 +6677,6 @@
    "session": "盘前",
    "zh_summary": "黄仁勋称AI投资回报已有答案",
    "title_zh": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
-   "sentiment": 1
-  },
-  {
-   "id": "4a17479cfcf8",
-   "title": "Federal Government announces AI partnership with Nvidia - deutschland.de",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0dIZThuQVI4TTE1OTVTMElwYWt6aFUwNWw4ZGZWQklma2ZnY0lhUkdIR2d1SDd1cUI1VFg5SjZ3YUF3QmQ3N095UGVscnh3aElQbzFOZGJrS2IwVVpGZWlFRkpYaHhTZVJRYjlwclpGVkRmVFJRbmZGY2hnbEgwdHF3",
-   "source": "deutschland.de",
-   "published_at": "2026-10-19T08:37:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "deutschland.de",
-     "published_at": "2026-10-19T08:37:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0dIZThuQVI4TTE1OTVTMElwYWt6aFUwNWw4ZGZWQklma2ZnY0lhUkdIR2d1SDd1cUI1VFg5SjZ3YUF3QmQ3N095UGVscnh3aElQbzFOZGJrS2IwVVpGZWlFRkpYaHhTZVJRYjlwclpGVkRmVFJRbmZGY2hnbEgwdHF3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "德国政府宣布与英伟达AI合作",
-   "title_zh": "德国联邦政府宣布与英伟达达成AI合作",
    "sentiment": 1
   }
  ]
