@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T18:36:26.980530+00:00",
+ "updated_at": "2026-10-20T18:51:28.847571+00:00",
  "market": {
-  "price": 216.58,
-  "change_pct": -0.23,
+  "price": 216.71,
+  "change_pct": -0.18,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.48,
-   "count": 158
+   "avg": 0.47,
+   "count": 163
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,7 +20,7 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 69% 分位"
+     "note": "现价处于52周区间 70% 分位"
     },
     {
      "key": "目标价空间",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.48（158条已评分）"
+     "note": "今日新闻情绪 +0.47（163条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.58 vs 20日均线 $227.05"
+     "note": "现价 $216.71 vs 20日均线 $227.05"
     },
     {
      "key": "分析师动向",
@@ -43,12 +43,12 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 69,
+   "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 15,
    "implied_upside_pct": 45.4,
    "ma20": 227.05,
-   "as_of": "2026-10-20T18:36:26.962624+00:00"
+   "as_of": "2026-10-20T18:51:28.830883+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d508415c51f9",
+   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers - TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkRFYm5NWUd5M3dQUzVGWDlhWkxOd3BpRFZCazZfNlVhWktoSTVFVTNoOHJKZDNRLUMtRmdJQ2ZVY3Y5S0plNzl6Q0toR2RtNWZHRlNUOHd6c044YmpmVWE3LWdDMnJHRmU3WkZSdnFSLUExY2diNW5BTUkyQlVlcTFwM0pKUk9WMEVKWC02Nl9jRlFXandQQkprYlAtaG1jYTZNT1RTaHpBRlBQSnFWVVg3V0w",
+   "source": "TechCrunch",
+   "published_at": "2026-10-20T18:38:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechCrunch",
+     "published_at": "2026-10-20T18:38:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkRFYm5NWUd5M3dQUzVGWDlhWkxOd3BpRFZCazZfNlVhWktoSTVFVTNoOHJKZDNRLUMtRmdJQ2ZVY3Y5S0plNzl6Q0toR2RtNWZHRlNUOHd6c044YmpmVWE3LWdDMnJHRmU3WkZSdnFSLUExY2diNW5BTUkyQlVlcTFwM0pKUk9WMEVKWC02Nl9jRlFXandQQkprYlAtaG1jYTZNT1RTaHpBRlBQSnFWVVg3V0w"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "13c973f73213",
    "title": "Nvidia co-founder drops $75M to power N.J.’s $125M supercomputer - NJ.com",
@@ -102,17 +119,39 @@
    "sentiment": 0
   },
   {
+   "id": "a1c97ef06f6e",
+   "title": "Major gold holder backs NVIDIA challenger - TheStreet",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX0VCTE9NdjdiQ0ZUYXRaQ0I4VFZBTWhEUThZa0JvUXRKRHloVzNJdGR0XzJWNkkyTl9VcmttZjRlcGd6cGpQbEZsZ0lkNVRyUVIydHQxX2p3cERfeWRmUDhvTTdUNU40UGtmVWdPeHlCaUR4dWp4Mk1jakNDZmdDV1RUT3dHRHA1U21F",
+   "source": "TheStreet",
+   "published_at": "2026-10-20T18:28:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TheStreet",
+     "published_at": "2026-10-20T18:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX0VCTE9NdjdiQ0ZUYXRaQ0I4VFZBTWhEUThZa0JvUXRKRHloVzNJdGR0XzJWNkkyTl9VcmttZjRlcGd6cGpQbEZsZ0lkNVRyUVIydHQxX2p3cERfeWRmUDhvTTdUNU40UGtmVWdPeHlCaUR4dWp4Mk1jakNDZmdDV1RUT3dHRHA1U21F"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "b62181dbce28",
    "title": "Nvidia Reportedly Just Landed $35 Billion In Chip Orders From Chinese Companies. Here's Why That Could Be Great News for the Stock - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQzRGV0hXSU9UUkFyeVFmQ1lqaC15clpqaWFnRkFJdm5TRjg5cVZfdVpRN2toc1FnaXJWZHdybzAwS1I2U3RwblA5NU80T21NVFBrYko1M1BsOXQxemJGRERHc1hnNmxsOVVPQXZqd2c3TnZBZ3NxZENsUFhabFJiRFJERjUzSnFSR0tVQ21fS3VRdFJWOUtLZXhYYUhzTmxjV3gzZHhSM0V2SzVLWnRMTk9LeVN0Umx5OWk5YVR3YlhJaW0wUnRSUTgtMFV4a0NvNkJydFVWd25EdE9TNmh2WkhXczZqcTFrU1pNZHFVNEs2amdNaF9OLWdmMF9OTnI1TGozcw",
    "source": "The Motley Fool",
    "published_at": "2026-10-20T18:13:08+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-20T18:13:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQzRGV0hXSU9UUkFyeVFmQ1lqaC15clpqaWFnRkFJdm5TRjg5cVZfdVpRN2toc1FnaXJWZHdybzAwS1I2U3RwblA5NU80T21NVFBrYko1M1BsOXQxemJGRERHc1hnNmxsOVVPQXZqd2c3TnZBZ3NxZENsUFhabFJiRFJERjUzSnFSR0tVQ21fS3VRdFJWOUtLZXhYYUhzTmxjV3gzZHhSM0V2SzVLWnRMTk9LeVN0Umx5OWk5YVR3YlhJaW0wUnRSUTgtMFV4a0NvNkJydFVWd25EdE9TNmh2WkhXczZqcTFrU1pNZHFVNEs2amdNaF9OLWdmMF9OTnI1TGozcw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T18:28:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGNMZVNmM3VNVm45Ym1FR0Vfa25pZ29uTV9YQWNJbWljWnhEaUM5T2RudzVCQkduSjdWUkNseDhIemJ6VXo0c3lIOFl2UVN0Y2R0ZlpiTU1zeFdRVU1pNERmMVpMYWc0VVZuOW1fSXl5aVVXblpsY1pqb0lZSHlLQTJ0YjJYWGdoWEJVWnRZNHBqUzk0N0hxcmZWakxoQQ"
     }
    ],
    "category": "产品技术",
@@ -127,7 +166,7 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmRtd0xpc2wwcFQ4WVRBUVpYY05neHAtYXpzTnN5LTc1QXZnY1p6MXBRSGZIcGZmclRjdXFnaTBzOV9UWjdKQVFHcVVDUW9kc1d5ZmVwUWoyUElvdnVZMDB6TFhGNm52RDVkMkRnTWVBaWFEV0ZSOXRkeEFLSkFIN3hGOHZRTzRwRFlweWdOTFBKaFNGUmcw",
    "source": "Yahoo Finance UK",
    "published_at": "2026-10-20T18:10:08+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Yahoo Finance UK",
@@ -143,10 +182,16 @@
      "name": "Yahoo Finance Singapore",
      "published_at": "2026-10-20T18:10:08+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeU9WNnRFNzBqWThFeUtQbFJVNWRSQjFzeFd1SFgxYlQzRVF3ajc2bW9DeXk1N2MxWDRUbVlLNks0UlNNNVNwbFZvd0pSM0xTVjZTcTdpTmZjUmN0WlA1YUk2UXdXRklpRlpWMTY2Um9rN051bFV2TkJxWndiV0N6ZmRUblhfU2lMSjJlNzlSS1hPWF9ocXBN"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T18:10:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0NTc2xja3pTa1RlTXBSY0xneWRmZnNQLTY2M2xDV05uZVhBalVQeFV2SFhYa3pRXzFfemFKZDh6VEsxcXhNRlpEdmJiZTdOM1RUa1NPRk9ZVE54MUpPRjk2OHNHb19zSGRxSnNuTTN5UnRUaXdpQUg2eVdLdDFMVGJnQXhEQUVwRUJlMTkyYnotRWdfOEd4Wmd3LVNhVzB3dDY2N0FRTWQ2V0k"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "德国政府与英伟达达成AI合作协议",
    "title_zh": "投资峰会上德国政府与英伟达达成AI协议",
    "sentiment": 1,
@@ -1622,6 +1667,23 @@
    "sentiment": 0
   },
   {
+   "id": "6e8f36c5d885",
+   "title": "美股前瞻| 美伊谈判仍陷僵局，国际油价上涨；英伟达、亚马逊加码德国投资；通用汽车绩后跌超6%，盈利指引预期落空；SpaceX、奈飞盘后放榜 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0xXaGh3SDEzZ24yM0JyMmYyemNTN2pTMHExdmpyZkNNWmRGOGJWM3BOZVY0MGVGb2F1NEc4NHJDZ2d0UWFsNXNaR1h6ZldnTlo2dUpFdDU2b0VWZkJaZWRoV2F3NFF4RlhTNy1qSFVyanViLXkwbVN6R0I5eE9BRWpxVlBwSE1WQzFjTlNTSW5aVlVHRE9tdm9pelpxS0FOQkYyQ2hzM3EtR05CekdZ",
+   "source": "富途牛牛",
+   "published_at": "2026-10-20T12:16:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-20T12:16:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0xXaGh3SDEzZ24yM0JyMmYyemNTN2pTMHExdmpyZkNNWmRGOGJWM3BOZVY0MGVGb2F1NEc4NHJDZ2d0UWFsNXNaR1h6ZldnTlo2dUpFdDU2b0VWZkJaZWRoV2F3NFF4RlhTNy1qSFVyanViLXkwbVN6R0I5eE9BRWpxVlBwSE1WQzFjTlNTSW5aVlVHRE9tdm9pelpxS0FOQkYyQ2hzM3EtR05CekdZ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
+  {
    "id": "c3f67ff9f570",
    "title": "China’s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports — ByteDance, Alibaba and Tencent order 3 million cards despite warnings that only 10% of orders are fulfillable - Tom's Hardware",
    "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPeXNCWWZna2JjQlFmc0pnR1cyN21HMVN2Zlo5RkY3dC1SbE1YWEszODAzT1FORmtfLW10V3ZpNFRhQ3RLVm02M1N2d1RlTnFkUlBUTE9rdG10dUFDemxmN2UtNFBqa3k0LVpNRlpIQ1o1MWRrMUd2Ykdna1R2dXRYRS1tN1ZycFJjc2pzakRxNWJSd3pKdUUtMThRVWdXY1k3WXBZZW1OTlNXNDhZcHAxbThXcDUwSUg2LVloWDJYYWlwMzZNWnBEWHZBV3pXSEhrV2J1TnhjTnBqMXJBdWs3NkYtSVhzS3FhX2dySnVEb0N3M3NSUjAzc3RxWUpoQm5ldzJsYnQ4UElCVEtYYUZrdUZ3Yy1HNnhRS0JxNkc0Q3lXZDhmZERwUE45SkYxVzRmRFB1bnR1OUR4akJKaURnLVBFeUo4REdjRWtIWkhmTzFrZ1U0UWtrdVFWVnJkbFJHcDlDTzFCak8wUDRIbFlkdlYzaVdfRVFTdDQ5SFAyNUhDVzF6dnhCYzV1SG8xaVRpUHpMNk11dGtNRnZvenRVMVJ2ZDltMFhfcnNET09qRDdQR2FwQmc",
@@ -2544,7 +2606,7 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw",
    "source": "Reuters",
    "published_at": "2026-10-20T09:06:58+00:00",
-   "outlets_count": 6,
+   "outlets_count": 7,
    "outlets": [
     {
      "name": "Reuters",
@@ -2575,6 +2637,11 @@
      "name": "CEO Today",
      "published_at": "2026-10-20T10:41:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZndOcHo5ZFNPc0pmRndPbXN5MXc2ckhJay1lLWx5RWNmTzl6YzBrbmh1SHJRcGlGOEVzcGdqSWpYX1I1UktXVllmQ21KUTMwMVlseW53NjVmS0RuVHZSRWpQT0l6Z3RncDl4MU5Oa0JMZXZVakRZdG1aU3B3NC1Jak9xeUczY0lkZWxwZHFpczBsMDJrdlI0LVo1SGdPTVhfd3lRZER0bw"
+    },
+    {
+     "name": "Taipei Times",
+     "published_at": "2026-10-20T16:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwX3ZjOGNSSGNQWHVZZWhvYXNJZllweVFGd0pNanRuQXRHYXZuWC1SdGdyNUlyc0g0R3JrbGcwc0lBZERoN1RDQjFVTmpDc1ZNV0Jud2Ffc05iV3V1ZHNmaFVYTVA0emp0c0VzcHByVVNEOUFzU3c"
     }
    ],
    "category": "产品技术",
@@ -6691,66 +6758,6 @@
    "zh_summary": "AMD与英伟达显卡能否同机使用",
    "title_zh": "同一台电脑能同时使用AMD和英伟达显卡吗？",
    "sentiment": 0
-  },
-  {
-   "id": "6609c18c078c",
-   "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile | NVIDIA Technical Blog - NVIDIA Developer",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1hDcUFNXzZ2Tm5od1M1dl9yX3pzV2xXVGVIT3dsczZHQW5RLUdWVlI4XzdYbVU2Qk5zeVBMMG1sRDV1aDFCRnZsZllRNVhaMkE5dHQwSEtXUlhhWGViZk1BcG5KMHJ3dmNrZnI5azF0UTE2eTlWTVBTa2lZeUJqLVVtY3MwUTl5VnF1MHltcmlnWXl1bTVyT3JiWlpQT0JDR0YtaDN2dlJzaUtfaWVJRm9jR2ZpQWt4bmc",
-   "source": "NVIDIA Developer",
-   "published_at": "2026-10-19T17:16:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Developer",
-     "published_at": "2026-10-19T17:16:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1hDcUFNXzZ2Tm5od1M1dl9yX3pzV2xXVGVIT3dsczZHQW5RLUdWVlI4XzdYbVU2Qk5zeVBMMG1sRDV1aDFCRnZsZllRNVhaMkE5dHQwSEtXUlhhWGViZk1BcG5KMHJ3dmNrZnI5azF0UTE2eTlWTVBTa2lZeUJqLVVtY3MwUTl5VnF1MHltcmlnWXl1bTVyT3JiWlpQT0JDR0YtaDN2dlJzaUtfaWVJRm9jR2ZpQWt4bmc"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "CUDA高性能内核加速Mamba-2",
-   "title_zh": "用高性能前向传播内核在CUDA中加速Mamba-2",
-   "sentiment": 0
-  },
-  {
-   "id": "0031effbc18d",
-   "title": "剑指英伟达CUDA护城河：亚马逊推出开源工具TorchNeuron - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zbTdRNjVwaXFjWU12WGN6U01HME5hTEtiTWdQb3B5Q0w4bXpoajk1S1U5NXNmZk11ZkNBckNUdUFXS0xkejZaWA",
-   "source": "财联社",
-   "published_at": "2026-10-19T17:16:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-19T17:16:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zbTdRNjVwaXFjWU12WGN6U01HME5hTEtiTWdQb3B5Q0w4bXpoajk1S1U5NXNmZk11ZkNBckNUdUFXS0xkejZaWA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "亚马逊开源工具挑战CUDA护城河",
-   "title_zh": "剑指英伟达CUDA护城河：亚马逊推出开源工具TorchNeuron - 财联社",
-   "sentiment": -1
-  },
-  {
-   "id": "de5a9e018c66",
-   "title": "NVIDIA’s Next-Gen CPO Technology Puts Optics Directly On The Interposer While DWDM Pushes Optical Speeds To 256 Gb/s, First Prototypes Already Made For Future Chips - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQckN5WC1yZjdObElzanZfT3pVZVdIUXhTVHF0MTYyNUhITWJCa01FeWdhNDhwVlhJdXpibDEtTFo4ZXh6S1I2cWFvQ0tQeWRyY1FHaXpaTVlJeldBckZJQl9iVlBIRWlPdmRnOHlUaUxfVjBRLTVWYXlwZWpGNktnek5ZWGxwSWpRZGNxbXgxRdIBlAFBVV95cUxPUmFmeElGb0NEXzlSb0FBWF9LTkJZTkk3NC1JZGhhU0c3V1k5bjRpeFhyQ2tSQWQtNFItT1FnMVVZUWVXaC0tQ2pZYlRkYkdhUVdUOF9QTThEZE5aVGFKRUZ3eE9SRWVsUm9GUW1vakMxX2pPQ2NJWl9keDhBREtqR1RjaHNCS2N5b0NFbXNVM1FnekFy",
-   "source": "Wccftech",
-   "published_at": "2026-10-19T17:15:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-19T17:15:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQckN5WC1yZjdObElzanZfT3pVZVdIUXhTVHF0MTYyNUhITWJCa01FeWdhNDhwVlhJdXpibDEtTFo4ZXh6S1I2cWFvQ0tQeWRyY1FHaXpaTVlJeldBckZJQl9iVlBIRWlPdmRnOHlUaUxfVjBRLTVWYXlwZWpGNktnek5ZWGxwSWpRZGNxbXgxRdIBlAFBVV95cUxPUmFmeElGb0NEXzlSb0FBWF9LTkJZTkk3NC1JZGhhU0c3V1k5bjRpeFhyQ2tSQWQtNFItT1FnMVVZUWVXaC0tQ2pZYlRkYkdhUVdUOF9QTThEZE5aVGFKRUZ3eE9SRWVsUm9GUW1vakMxX2pPQ2NJWl9keDhBREtqR1RjaHNCS2N5b0NFbXNVM1FnekFy"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达下一代CPO技术原型已完成",
-   "title_zh": "英伟达下一代CPO技术将光学元件置于基板，DWDM提速至256Gb/s",
-   "sentiment": 1
   }
  ]
 }
