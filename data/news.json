@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T01:21:37.618968+00:00",
+ "updated_at": "2026-10-20T01:36:30.849493+00:00",
  "market": {
-  "price": 214.13,
-  "change_pct": -1.43,
+  "price": 217.09,
+  "change_pct": 1.38,
   "as_of": "2026-10-19",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.4,
-   "count": 253
+   "count": 255
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 66% 分位"
+     "note": "现价处于52周区间 70% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +47.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（253条已评分）"
+     "note": "今日新闻情绪 +0.40（255条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $214.13 vs 20日均线 $228.18"
+     "note": "现价 $217.09 vs 20日均线 $227.66"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 66,
+   "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 47.1,
-   "ma20": 228.18,
-   "as_of": "2026-10-20T01:21:37.594007+00:00"
+   "implied_upside_pct": 45.1,
+   "ma20": 227.66,
+   "as_of": "2026-10-20T01:36:30.837789+00:00"
   },
-  "pe_ttm": 27.2,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.1%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.6,
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "788aa2ed248d",
+   "title": "MPC Stock Is Beating NVDA This Year: Analyst Sees 16% More Upside - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSWVGdlRPanQzaTNyWW40UlFPU2RKS2lEeFYxSWd5Z2ZfMGl3ekc5WXU2WnFBbWJoblVPcDEwQ21SSTQtRmZRZmJfNzFKZ1lMdFJjQkQzbEJjcm9hZFkwQURocXNyYmt1YXB0RnlEdktuOXJuZFRLWVczVGV5UFViOU95d1o5eDhqQXhnaFoxTGlJOVNWSmhRUjlZdTdaYVFqMHQ3TmhDQUdBTVRGRHhqVGhhVVNMQnRBWnQ0YU1vSVc5WS1obU1iRUJEMjJSLUNUZktPbnJCcjB2aU00OEFVbGtkTWc4cU0",
+   "source": "Stocktwits",
+   "published_at": "2026-10-20T01:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-20T01:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSWVGdlRPanQzaTNyWW40UlFPU2RKS2lEeFYxSWd5Z2ZfMGl3ekc5WXU2WnFBbWJoblVPcDEwQ21SSTQtRmZRZmJfNzFKZ1lMdFJjQkQzbEJjcm9hZFkwQURocXNyYmt1YXB0RnlEdktuOXJuZFRLWVczVGV5UFViOU95d1o5eDhqQXhnaFoxTGlJOVNWSmhRUjlZdTdaYVFqMHQ3TmhDQUdBTVRGRHhqVGhhVVNMQnRBWnQ0YU1vSVc5WS1obU1iRUJEMjJSLUNUZktPbnJCcjB2aU00OEFVbGtkTWc4cU0"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘后"
+  },
+  {
+   "id": "7340a6b39901",
+   "title": "告别有机基板！英伟达下一代CPO原型曝光：单光纤256Gb/s - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VRFVtTkVXQTVoZXlIWG1seTFPTVU0cTZLVGVmaDg4Y0FPZVhvM2NQT01ZLWlRYVNHTHV2SnZMLV90S0kyQlNvcHBTdW93YXExVk9UMkk4STc",
+   "source": "驱动之家",
+   "published_at": "2026-10-20T01:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-20T01:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VRFVtTkVXQTVoZXlIWG1seTFPTVU0cTZLVGVmaDg4Y0FPZVhvM2NQT01ZLWlRYVNHTHV2SnZMLV90S0kyQlNvcHBTdW93YXExVk9UMkk4STc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "040635f3b8ff",
+   "title": "AI暴跌，苹果新高！5万亿市值超越英伟达，这合理吗？ - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xZGZTc0V4bElLeGw3d3B5WXZ3ZWVFM24yYTJza1owMjJicTRLaUtqdlRBdW54V1JMM2ZjWTl3ejlJQ2pnWWpJZGk0Qmk1dGpEMC1F",
+   "source": "华尔街见闻",
+   "published_at": "2026-10-20T01:16:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-20T01:16:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xZGZTc0V4bElLeGw3d3B5WXZ3ZWVFM24yYTJza1owMjJicTRLaUtqdlRBdW54V1JMM2ZjWTl3ejlJQ2pnWWpJZGk0Qmk1dGpEMC1F"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "da9e5b6f1024",
    "title": "传DeepSeek华为联手设计AI芯片挑战英伟达 - 观点网",
@@ -842,12 +893,17 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblJydlNSYV9iTFd6UkNYbnQtMUJkTGNTNkZIdENLdFJxdmFmdTl2WmxsMVRHRW5SQXRPUjliWVdDdHJlU0lmNjV1bFJqaU5NejUwc3ZaT1N3blE2bThRc05tYlpOSU5RNmhBTmxRQzE3Mkd3WUJvQkJOYkp5OWNmUjl5bVRDbEtKenFRSDBXTXFFc3h3enY4NEtjMU9GcDBLLXdB",
    "source": "富途牛牛",
    "published_at": "2026-10-19T20:16:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "富途牛牛",
      "published_at": "2026-10-19T20:16:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblJydlNSYV9iTFd6UkNYbnQtMUJkTGNTNkZIdENLdFJxdmFmdTl2WmxsMVRHRW5SQXRPUjliWVdDdHJlU0lmNjV1bFJqaU5NejUwc3ZaT1N3blE2bThRc05tYlpOSU5RNmhBTmxRQzE3Mkd3WUJvQkJOYkp5OWNmUjl5bVRDbEtKenFRSDBXTXFFc3h3enY4NEtjMU9GcDBLLXdB"
+    },
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-19T20:16:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tNUJRNkNfeVJMUWx1LXBQeXNtRTRBYjROOVc0VEU4Q2RjQ3VRODU2dzhDOTlISmRFeVNaWnlyVE1KbV9vamVYVmNNMDZLX09MeHFZ"
     }
    ],
    "category": "其他",
@@ -6579,71 +6635,6 @@
    "zh_summary": "英伟达辟谣RTX 5090停产",
    "title_zh": "科技早报 | iPhone Duo黄牛溢价已有回落；英伟达辟谣RTX 5090停产 - Jiemian.com",
    "sentiment": 1
-  },
-  {
-   "id": "e72faf1c6ad4",
-   "title": "三星据悉将采用台积电3纳米工艺为英伟达生产下一代HBM基底裸片 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTnItbHdEYl84UENEN0xYWlFzLVpOa1hIazRhN0xra3pOcktMN1k1NlFzb19pMml2RWswSHBXZzRvZ0UxTFg4WVl5ekpfVXlNQi13WlQwYkxycDVqUDdZUkpub2dtWlhYVUlOcUNLaklWT1JHeEZpcjdGYTRyVXRtVXRJc2UwaVNKZXR2VA",
-   "source": "搜狐",
-   "published_at": "2026-10-19T00:01:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-19T00:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTnItbHdEYl84UENEN0xYWlFzLVpOa1hIazRhN0xra3pOcktMN1k1NlFzb19pMml2RWswSHBXZzRvZ0UxTFg4WVl5ekpfVXlNQi13WlQwYkxycDVqUDdZUkpub2dtWlhYVUlOcUNLaklWT1JHeEZpcjdGYTRyVXRtVXRJc2UwaVNKZXR2VA"
-    },
-    {
-     "name": "观点网",
-     "published_at": "2026-10-19T01:13:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NXzNLR19samxXdFphY2Z0cmZZR3BjcjZjNXdESGpBVm9kMk5jb1BvY3hSLWVZOFJ1RGtyMTZ5b3h6a21RV1FnQ0lXT09sVXlVTlpNaHgtN1NQT0pXZlFvSDdB"
-    }
-   ],
-   "category": "供应链",
-   "session": "周末",
-   "zh_summary": "三星或用台积电3纳米为英伟达造HBM基底",
-   "title_zh": "三星据悉将采用台积电3纳米工艺为英伟达生产下一代HBM基底裸片 - 搜狐",
-   "sentiment": 1
-  },
-  {
-   "id": "923cf1b5b2df",
-   "title": "早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产 - 爱范儿",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5FSERaSHEzdFIwVk1JUnUzMU03UUlXWTR4UnZaQTdsaXJIa0s1WWZERWZkeHFWMW84eURvS0RUTmpKeVk",
-   "source": "爱范儿",
-   "published_at": "2026-10-19T00:00:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "爱范儿",
-     "published_at": "2026-10-19T00:00:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5FSERaSHEzdFIwVk1JUnUzMU03UUlXWTR4UnZaQTdsaXJIa0s1WWZERWZkeHFWMW84eURvS0RUTmpKeVk"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达否认RTX 5090停产",
-   "title_zh": "早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产 - 爱范儿",
-   "sentiment": 0
-  },
-  {
-   "id": "db48b65e5f9f",
-   "title": "Watch Nvidia-Backed AI Firm Nscale Faces Pushback on $30 Billion IPO Valuation - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTThpbnZDWDNvem92SVh4LXkycGo1bHNtbkxRQ0U3WmNDS01NOGpZSkNEZ1RncWxZT3VDNTd5QjRWNVozSDdaMlEtV1p1MDlPbllBYl9zU3JkeEhXNGZWSF9mZ2FJS0hOY19tZDBJMllwMExDeFZSdDEwdmZjeDRBSWViaE1xMVc4SWx4RDlMZ1ZTakhMLTEyYlJvUmIyU2NqZHVxV3EzYw",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-19T00:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-19T00:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTThpbnZDWDNvem92SVh4LXkycGo1bHNtbkxRQ0U3WmNDS01NOGpZSkNEZ1RncWxZT3VDNTd5QjRWNVozSDdaMlEtV1p1MDlPbllBYl9zU3JkeEhXNGZWSF9mZ2FJS0hOY19tZDBJMllwMExDeFZSdDEwdmZjeDRBSWViaE1xMVc4SWx4RDlMZ1ZTakhMLTEyYlJvUmIyU2NqZHVxV3EzYw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Nscale拟300亿美元IPO估值遭质疑",
-   "title_zh": "英伟达支持的AI公司Nscale面临300亿美元IPO估值质疑",
-   "sentiment": 0
   }
  ]
 }
