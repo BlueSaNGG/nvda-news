@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T09:51:26.839366+00:00",
+ "updated_at": "2026-10-20T10:06:25.821572+00:00",
  "market": {
   "price": 217.09,
   "change_pct": 1.38,
@@ -10,12 +10,12 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.53,
-   "count": 45
+   "avg": 0.48,
+   "count": 48
   },
   "daily_signal": {
-   "verdict": "偏多",
-   "score": 2,
+   "verdict": "中性",
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.53（45条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.48（48条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.1,
    "ma20": 227.66,
-   "as_of": "2026-10-20T09:51:26.829691+00:00"
+   "as_of": "2026-10-20T10:06:25.802605+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "e68cfca7862e",
+   "title": "英伟达推出Halos平台，破解AI机器人安全量产难题 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRnUzUXJZdmhCblhGcURfR1V6bWxNOVhrbGdvTzdEUG95ZGFJZWU4ZzVKU1FITHphZmZ3NUZrRkY2aXlKT1pFMHo1bFpxNkdUWnRsZHN2SFlkUDFIOS1lSVlfMXkzdmszbVdTVHBIem5UOUlncGxEd0JYa1g0ZUNxdHFYUWhucnF6MV9UNg",
+   "source": "搜狐",
+   "published_at": "2026-10-20T09:55:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-20T09:55:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRnUzUXJZdmhCblhGcURfR1V6bWxNOVhrbGdvTzdEUG95ZGFJZWU4ZzVKU1FITHphZmZ3NUZrRkY2aXlKT1pFMHo1bFpxNkdUWnRsZHN2SFlkUDFIOS1lSVlfMXkzdmszbVdTVHBIem5UOUlncGxEd0JYa1g0ZUNxdHFYUWhucnF6MV9UNg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "9b593d5fae55",
+   "title": "Nvidia standardizes HBM production at TSMC - Techzine Global",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWhlSzZ1dGNFNVRtUXVwMTBqcDFkNWVGSnRCY3o3a0wzdjNEQTZscF96QWRzdWhveE5zR0RIWmVMNzRsVkttamxseUdXRHZReHFUUkJLc3NkZ1hrYVFadXpDTEVidWlpaXd4Wlg4ZDlRTVpLV3lodkNNdjVsbzhLaGdiYi1MRHNGMlMta210Rm9WejQ3aVNHc09R",
+   "source": "Techzine Global",
+   "published_at": "2026-10-20T09:51:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Techzine Global",
+     "published_at": "2026-10-20T09:51:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWhlSzZ1dGNFNVRtUXVwMTBqcDFkNWVGSnRCY3o3a0wzdjNEQTZscF96QWRzdWhveE5zR0RIWmVMNzRsVkttamxseUdXRHZReHFUUkJLc3NkZ1hrYVFadXpDTEVidWlpaXd4Wlg4ZDlRTVpLV3lodkNNdjVsbzhLaGdiYi1MRHNGMlMta210Rm9WejQ3aVNHc09R"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘前"
+  },
+  {
+   "id": "8788e47a4c0e",
+   "title": "市场传闻：英伟达获得来自字节跳动、腾讯控股和阿里巴巴的芯片订单，金额超过$350亿 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTEw0YlBta3psdjJmZjRjdDcxRXhyM3FnTThZdE81VXY4Yy1OSzZEbmFEbXNZaDltSThib1BSMnEzSVI1SEowMTN0eEZuNnBXUXNONTQxRXFfVm8zU2NfdUNBYzZQNG52X1d6a21JRlJ4WlNJRThKNF83Ykc1ZUhiVUJvS1I4WGZkSW5vNUs5RngtcTFQUjk3bFFISHhDZm1zY2xqc2N6aE9IaFF4NHhr",
+   "source": "Moomoo",
+   "published_at": "2026-10-20T09:50:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-20T09:50:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTEw0YlBta3psdjJmZjRjdDcxRXhyM3FnTThZdE81VXY4Yy1OSzZEbmFEbXNZaDltSThib1BSMnEzSVI1SEowMTN0eEZuNnBXUXNONTQxRXFfVm8zU2NfdUNBYzZQNG52X1d6a21JRlJ4WlNJRThKNF83Ykc1ZUhiVUJvS1I4WGZkSW5vNUs5RngtcTFQUjk3bFFISHhDZm1zY2xqc2N6aE9IaFF4NHhr"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "7ac12f1c9c77",
    "title": "用AMD就不让参会！英伟达对小型云厂商下封杀令：用了竞品芯片就别来 - 驱动之家",
@@ -77,8 +128,8 @@
    ],
    "category": "产品技术",
    "session": "盘前",
-   "title_zh": "用AMD就不让参会！英伟达对小型云厂商下封杀令：用了竞品芯片就别来 - 驱动之家",
    "zh_summary": "英伟达封杀使用AMD芯片的小型云厂商",
+   "title_zh": "用AMD就不让参会！英伟达对小型云厂商下封杀令：用了竞品芯片就别来 - 驱动之家",
    "sentiment": -1
   },
   {
@@ -102,8 +153,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "机器人行业“鸡生蛋”难题，被前英伟达团队撕开一道口子 - 新浪财经",
    "zh_summary": "前英伟达团队破解机器人行业难题",
+   "title_zh": "机器人行业“鸡生蛋”难题，被前英伟达团队撕开一道口子 - 新浪财经",
    "sentiment": 1
   },
   {
@@ -122,8 +173,8 @@
    ],
    "category": "产品技术",
    "session": "盘前",
-   "title_zh": "梁文锋动真格了！DeepSeek工程师参与华为芯片设计：训练环节彻底去英伟达化 - 驱动之家",
    "zh_summary": "DeepSeek工程师参与华为芯片设计去英伟达化",
+   "title_zh": "梁文锋动真格了！DeepSeek工程师参与华为芯片设计：训练环节彻底去英伟达化 - 驱动之家",
    "sentiment": -1
   },
   {
@@ -6620,66 +6671,6 @@
    "session": "盘前",
    "zh_summary": "德国政府宣布与英伟达AI合作",
    "title_zh": "德国联邦政府宣布与英伟达达成AI合作",
-   "sentiment": 1
-  },
-  {
-   "id": "3e52d1dedf52",
-   "title": "Nvidia RTX Spark N1X 20-Core Processor - Benchmarks and Specs - Notebookcheck",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWpIMlpHa3VXaWhkSktGRGlweUl5NGxEVlpoRlhNR3Y4cnFpYmpTMGtveDBYZE1JTk1fXzNQS3ZYYmQzU09LSzlsdzYzcFdHSE5mUlExV2NXMTdzR3hTV3NNM1haR2VhcDhfY01Fb21SRFpxeUF1Nko3TEJOU1FjSFZmRExGaEp1LTdsWENiSTgydTQ3eThGcWR4b2VNQkFXaTZrV2dzdw",
-   "source": "Notebookcheck",
-   "published_at": "2026-10-19T08:35:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Notebookcheck",
-     "published_at": "2026-10-19T08:35:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaWpIMlpHa3VXaWhkSktGRGlweUl5NGxEVlpoRlhNR3Y4cnFpYmpTMGtveDBYZE1JTk1fXzNQS3ZYYmQzU09LSzlsdzYzcFdHSE5mUlExV2NXMTdzR3hTV3NNM1haR2VhcDhfY01Fb21SRFpxeUF1Nko3TEJOU1FjSFZmRExGaEp1LTdsWENiSTgydTQ3eThGcWR4b2VNQkFXaTZrV2dzdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达RTX Spark N1X 20核跑分公布",
-   "title_zh": "英伟达RTX Spark N1X 20核处理器跑分与规格解析",
-   "sentiment": 0
-  },
-  {
-   "id": "768ff1788cb3",
-   "title": "Nvidia CEO among top business execs to attend German investment summit - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORERwcE9BUnFELVpON3VSYXVMWmJWd0JLTWw0NEpISVV6NFliQjZBaWl3QXpVcG8xQUNuNHdQMDBaSHN0UDE3NlRQdnNfaklxQkk4dUpCTnNPaTJDbm9pa20xb253YjlPcnVOSmRReDk1WHZsd3JOb3RXT3ZxcTk2ZnhYd2FXU1FhV2xmLW8xNURubDk4SER2T05R",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T08:33:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T08:33:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORERwcE9BUnFELVpON3VSYXVMWmJWd0JLTWw0NEpISVV6NFliQjZBaWl3QXpVcG8xQUNuNHdQMDBaSHN0UDE3NlRQdnNfaklxQkk4dUpCTnNPaTJDbm9pa20xb253YjlPcnVOSmRReDk1WHZsd3JOb3RXT3ZxcTk2ZnhYd2FXU1FhV2xmLW8xNURubDk4SER2T05R"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达CEO将出席德国投资峰会",
-   "title_zh": "英伟达CEO将出席德国投资峰会",
-   "sentiment": 0
-  },
-  {
-   "id": "4af7d660cd87",
-   "title": "Mercedes-Benz and Nvidia deepen partnership on automated driving - Robotics & Automation News",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUTgyV3FOYmhkSXlzMnA2Z0tJczh0UUJGXzlZXzl0Uk10NVdHaG5UYmFmMjgxcXVwOTlTYkQ2QW1SbmIwUm82Y0dCdXNJYXgzY2ttYmVKM2ZpYzE2LUFYdHQ5RlNxaF9icXZvSnlOTUhHUEg0SktsSjZjeVhUS0xHTDhQSy1ILXZsUld2UnZMWUVZMzhPWmxqdmRxR01hTjBrNzNLc3k4SFp1NUVrVkYtaDN6bUVsVkd2Q3FMakNR",
-   "source": "Robotics & Automation News",
-   "published_at": "2026-10-19T08:30:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Robotics & Automation News",
-     "published_at": "2026-10-19T08:30:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUTgyV3FOYmhkSXlzMnA2Z0tJczh0UUJGXzlZXzl0Uk10NVdHaG5UYmFmMjgxcXVwOTlTYkQ2QW1SbmIwUm82Y0dCdXNJYXgzY2ttYmVKM2ZpYzE2LUFYdHQ5RlNxaF9icXZvSnlOTUhHUEg0SktsSjZjeVhUS0xHTDhQSy1ILXZsUld2UnZMWUVZMzhPWmxqdmRxR01hTjBrNzNLc3k4SFp1NUVrVkYtaDN6bUVsVkd2Q3FMakNR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "奔驰与英伟达深化自动驾驶合作",
-   "title_zh": "奔驰与英伟达深化自动驾驶领域合作",
    "sentiment": 1
   }
  ]
