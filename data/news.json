@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T07:36:27.491065+00:00",
+ "updated_at": "2026-10-21T07:51:27.289710+00:00",
  "market": {
   "price": 216.47,
   "change_pct": -0.29,
@@ -10,12 +10,12 @@
    "days_left": 27
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 14
+   "avg": 0.33,
+   "count": 21
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（14条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.33（21条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.5,
    "ma20": 227.04,
-   "as_of": "2026-10-21T07:36:27.477108+00:00"
+   "as_of": "2026-10-21T07:51:27.276446+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -180,6 +180,23 @@
    "zh_summary": "Highland 58.3万美元建仓英伟达",
    "title_zh": "Highland投资58.3万美元新建英伟达仓位",
    "sentiment": 0
+  },
+  {
+   "id": "e885b6269a95",
+   "title": "西门子携手英伟达，共建AI驱动的自主工厂 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQk1jLTZxM3lUbTAwdmw2YmxsMGVVSjVTelFhT2lFbENvZnFsUTNvaTRTQnJLZWxXVm9PckpGWWQxaEdNUmt0dkpEZ0VHeUgwaTdEMGo4YXQwaUhWWXlUemxmT2Y5b25rMEpqOG9XQ0pHYWdSZC1GdlpXbW9XbDkwT2JzWnJiMDJPUktUVA",
+   "source": "搜狐",
+   "published_at": "2026-10-21T07:22:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-21T07:22:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQk1jLTZxM3lUbTAwdmw2YmxsMGVVSjVTelFhT2lFbENvZnFsUTNvaTRTQnJLZWxXVm9PckpGWWQxaEdNUmt0dkpEZ0VHeUgwaTdEMGo4YXQwaUhWWXlUemxmT2Y5b25rMEpqOG9XQ0pHYWdSZC1GdlpXbW9XbDkwT2JzWnJiMDJPUktUVA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "ed186cdaea3a",
@@ -585,6 +602,28 @@
    "zh_summary": "AI加速器需求能否支撑英伟达财报周表现",
    "title_zh": "AI加速器需求能否让英伟达在财报周继续领衔",
    "sentiment": 0
+  },
+  {
+   "id": "e5788c14f098",
+   "title": "英伟达 新突破来了！ - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HYjRmZHNzRWw5Y0lkTVV1SXZ5NE9oLUxLSEVJNTlrYnotT0U2OUIyc1YxbUNpb3RlY2xHc3pBS3gtSGRNUnBVci1OQjlJTTdIRE03dW04ZWJlY2xFZmFXc28ybw",
+   "source": "东方财富",
+   "published_at": "2026-10-21T04:20:22+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-21T04:20:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HYjRmZHNzRWw5Y0lkTVV1SXZ5NE9oLUxLSEVJNTlrYnotT0U2OUIyc1YxbUNpb3RlY2xHc3pBS3gtSGRNUnBVci1OQjlJTTdIRE03dW04ZWJlY2xFZmFXc28ybw"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-21T04:33:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSaVgySEhkV0FGbGpPR2RpUUkzbExWc3BuWGxoUE1mQ0UwMVdfbGk1ME5DS3dickFMRzRJaHotU3JQZ0NyNmtSM2p3QWRkWGp5VW5DbC15aFRtdjdSNUdSVktDQTFYcV9wR013OUZtcVRGZlc1THpTMQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "be48efde8602",
@@ -6618,46 +6657,6 @@
    "zh_summary": "七彩虹与英伟达2026开学季校园快闪活动",
    "title_zh": "七彩虹和英伟达2026开学季快闪 掀起校园AI学习新浪潮 - 驱动之家",
    "sentiment": 0
-  },
-  {
-   "id": "3092957f7050",
-   "title": "Nvidia vs. AMD: Who Can Afford the Next Jump in Research Spending? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUZZV2J2S0drRlNvQ256UTl3Y0tRUXhUdHJGc2twTjVlVTRuWWpBVXBQTHpWUVVKVnhNdlh1LUJYM0VfYU9LRjZLTmFTbXREbDZaalJPa2RwTGNmcXc3Z2FWQm1xOWZuVTN3cURGN1BSS0hlTEtHVTZNNkhNSmRJRzJ5SS1OT2E5WmMtVjFEQ1lUZl9t",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-20T02:10:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-20T02:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUZZV2J2S0drRlNvQ256UTl3Y0tRUXhUdHJGc2twTjVlVTRuWWpBVXBQTHpWUVVKVnhNdlh1LUJYM0VfYU9LRjZLTmFTbXREbDZaalJPa2RwTGNmcXc3Z2FWQm1xOWZuVTN3cURGN1BSS0hlTEtHVTZNNkhNSmRJRzJ5SS1OT2E5WmMtVjFEQ1lUZl9t"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达与AMD研发投入能力对比",
-   "title_zh": "英伟达对AMD：谁能负担研发支出大增",
-   "sentiment": 0
-  },
-  {
-   "id": "d914a1432004",
-   "title": "Ericsson CEO champions his silicon over Nvidia chips in RAN - Light Reading",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVZudGtqR1docnhyZ0VXVjBjR1ZkbU9zLTNuXzNzZ2tQYWxZc1VZSmlCRDdZRlJzV1lDMVFWM2VSVlhSOFBDcUwxcWlhWkc1Y25Ndk53MTlYcFFKbHlBRnNRckRJclJVdGJvbEhwVnZjQ1M3NHlqcHhmZTJQUFVxWEZyY2REOEhfRVJzLVhPbHlYRXNnTVE",
-   "source": "Light Reading",
-   "published_at": "2026-10-20T02:01:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Light Reading",
-     "published_at": "2026-10-20T02:01:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVZudGtqR1docnhyZ0VXVjBjR1ZkbU9zLTNuXzNzZ2tQYWxZc1VZSmlCRDdZRlJzV1lDMVFWM2VSVlhSOFBDcUwxcWlhWkc1Y25Ndk53MTlYcFFKbHlBRnNRckRJclJVdGJvbEhwVnZjQ1M3NHlqcHhmZTJQUFVxWEZyY2REOEhfRVJzLVhPbHlYRXNnTVE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "爱立信CEO力推自家芯片替代英伟达",
-   "title_zh": "爱立信CEO力挺自研芯片，欲取代英伟达",
-   "sentiment": -1
   }
  ]
 }
