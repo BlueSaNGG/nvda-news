@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T22:36:50.560247+00:00",
+ "updated_at": "2026-10-21T22:51:55.850790+00:00",
  "market": {
   "price": 221.97,
   "change_pct": 2.54,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.83,
-   "count": 294
+   "count": 299
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.83（294条已评分）"
+     "note": "今日新闻情绪 +0.83（299条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 41.9,
    "ma20": 226.87,
-   "as_of": "2026-10-21T22:36:50.548357+00:00"
+   "as_of": "2026-10-21T22:51:55.834815+00:00"
   },
   "pe_ttm": 28.2,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "81ce29476026",
+   "title": "Nvidia debuts new AI reference architectures, development tools - SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTEyTGRjeVJPTERNbmxxUThNS2V3bTY0NzFhN3A1V0JGQ2NrSDRueXlDa1V6M3JDb1UyRVdYMWFzaHpNNW5zbHJGN0VSTTZmRjYzVFNKNGdaYzVrWUE4M2d3RHZQeTVqamx0MlRfcUotV1JqNTkybExfeXRmdXpxZlo3bHlnNzMyaHAzZ1k0bWdpMFFob1dqRWVrMjlJZXVW",
+   "source": "SiliconANGLE",
+   "published_at": "2026-10-21T22:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "SiliconANGLE",
+     "published_at": "2026-10-21T22:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTEyTGRjeVJPTERNbmxxUThNS2V3bTY0NzFhN3A1V0JGQ2NrSDRueXlDa1V6M3JDb1UyRVdYMWFzaHpNNW5zbHJGN0VSTTZmRjYzVFNKNGdaYzVrWUE4M2d3RHZQeTVqamx0MlRfcUotV1JqNTkybExfeXRmdXpxZlo3bHlnNzMyaHAzZ1k0bWdpMFFob1dqRWVrMjlJZXVW"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "cc252f69ef62",
    "title": "英伟达GTC柏林演讲风波：绿色和平抗议俄武器问题，黄仁勋回应后机器人演示“不听话” - 凤凰网",
@@ -6477,26 +6494,6 @@
    "session": "盘前",
    "zh_summary": "英伟达诺基亚推智能网络平台",
    "title_zh": "英伟达、诺基亚与运营商将网络变为智能平台",
-   "sentiment": 1
-  },
-  {
-   "id": "74c3b02fd4d6",
-   "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD | NVIDIA Technical Blog - NVIDIA Developer",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQenpBWFBWRWx1Szg1TWk4WUk3UTVKMi1ZdWZSbTRaME4tUnlsUEhWRXpHM09qaEVGWEE5T3dDdXI1bFVXa0YweVdOWGpBR05mQUlEekdPSXlSa01FSnFkbS1PbGxHMWp6clU4a3Z1Z3BjY1dHUnRoQ1Z1dWV2SUFjSHlJSW9xSG83M0Zpc2I2Qm1NQ2xLRXlSRy1tdmFTOF9uSTNyQ3drSzFBOHl4RjU3RDJiVQ",
-   "source": "NVIDIA Developer",
-   "published_at": "2026-10-21T10:18:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Developer",
-     "published_at": "2026-10-21T10:18:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQenpBWFBWRWx1Szg1TWk4WUk3UTVKMi1ZdWZSbTRaME4tUnlsUEhWRXpHM09qaEVGWEE5T3dDdXI1bFVXa0YweVdOWGpBR05mQUlEekdPSXlSa01FSnFkbS1PbGxHMWp6clU4a3Z1Z3BjY1dHUnRoQ1Z1dWV2SUFjSHlJSW9xSG83M0Zpc2I2Qm1NQ2xLRXlSRy1tdmFTOF9uSTNyQ3drSzFBOHl4RjU3RDJiVQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达DSX POD加速AI算力部署",
-   "title_zh": "英伟达DSX POD加速AI算力部署",
    "sentiment": 1
   }
  ]
