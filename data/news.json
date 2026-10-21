@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T04:06:38.837314+00:00",
+ "updated_at": "2026-10-21T04:21:28.713378+00:00",
  "market": {
   "price": 216.47,
   "change_pct": -0.29,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.43,
-   "count": 239
+   "count": 241
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.43（239条已评分）"
+     "note": "今日新闻情绪 +0.43（241条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.5,
    "ma20": 227.04,
-   "as_of": "2026-10-21T04:06:38.816214+00:00"
+   "as_of": "2026-10-21T04:21:28.701990+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -62,17 +62,73 @@
  },
  "stories": [
   {
+   "id": "be48efde8602",
+   "title": "SpaceX Can't Find Spare Nvidia, Google or Amazon Chips Despite Billions to Spend, Strategist Terms It 'Pretty Insane' - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUtlTFdLMFFqTGRsQXZYa3ZNeW84UnBOUUswZzQteUZXYjlfQXhXMFQ5MWdSVkxIUmExNXU5NzF2ejlHTnBGbHFpUnpBYVB6ck1vcWNfLXVzTHVMaXM2SVNNbjdlYTYzX0dKUW5ldE9uU0NaVURueXVoQ1FpN2hGbnNGaVoyYklkQ1M2NjRVbWoyWmFfZWlsLW1kVjRmLUhibGcxWEpyVngyZzNTYkV3",
+   "source": "Benzinga",
+   "published_at": "2026-10-21T04:14:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-21T04:14:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUtlTFdLMFFqTGRsQXZYa3ZNeW84UnBOUUswZzQteUZXYjlfQXhXMFQ5MWdSVkxIUmExNXU5NzF2ejlHTnBGbHFpUnpBYVB6ck1vcWNfLXVzTHVMaXM2SVNNbjdlYTYzX0dKUW5ldE9uU0NaVURueXVoQ1FpN2hGbnNGaVoyYklkQ1M2NjRVbWoyWmFfZWlsLW1kVjRmLUhibGcxWEpyVngyZzNTYkV3"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "1831d79ee3e5",
+   "title": "DeepSeek 与华为合作设计 AI 芯片，训练环节彻底“去英伟达化” - OSCHINA",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02R0lnWmg3Z3dmZl9GUmlDOVVzamlreGVvdVg4VEZ6aE92eHV6V2VUX2tVeUo0WURIbU5wZjJ2VkNDX2ZfcE5URW1ZWQ",
+   "source": "OSCHINA",
+   "published_at": "2026-10-21T04:11:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "OSCHINA",
+     "published_at": "2026-10-21T04:11:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02R0lnWmg3Z3dmZl9GUmlDOVVzamlreGVvdVg4VEZ6aE92eHV6V2VUX2tVeUo0WURIbU5wZjJ2VkNDX2ZfcE5URW1ZWQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "c9e14e17b6e0",
+   "title": "英伟达换思路！下一代Groq AI芯片放弃超大缓存：改用堆叠内存 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zMThtbU5pYkkydVZITElzUWtYRTc2b2M4UjQ1a3QxY3ZzWjZfZnVJdkt0WmwxQlFLWEVQTjg5bVUwZEVCUFpodkstemZlTlFZUm9QYTFyeUU",
+   "source": "驱动之家",
+   "published_at": "2026-10-21T04:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-21T04:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zMThtbU5pYkkydVZITElzUWtYRTc2b2M4UjQ1a3QxY3ZzWjZfZnVJdkt0WmwxQlFLWEVQTjg5bVUwZEVCUFpodkstemZlTlFZUm9QYTFyeUU"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "68b8ef9eebe6",
    "title": "F5 and Telenor Partner to Build the AI Service Plane for Sovereign AI on NVIDIA-powered AI Factory Infrastructure - Business Wire",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS0JKaldnb3pQZHhRNmlYcjZBVmtfb1QxOHlKYU5PMlZ6dHpNdDRoUmhtcDZEQ0hRTFQ2V2RnY0Y4Yngyc1BMTGE4TXFjUmxEajkxZm9ldVdTOW1GQ0NKNWk2TzVQb3EzWnRiT3NQcWRXaVg0emhBenVvWWUtNlROLWx5YmIyN2hqdHQyNy0xVVd4bjM4eWNvVVZCcUUyMWtNbTlZTERNajRPYmZ4a1cwUHpXWUNCZDd2Q0ZoYXRlMjRSNDBZMVhQLXlWMXhyUkpVdlN1WFBUOE1hVHo5dW4xS3drRUt4WFV6bDk0dW5xTnJoU1g0ZDBFSmNKaHdHSUU",
    "source": "Business Wire",
    "published_at": "2026-10-21T04:00:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Business Wire",
      "published_at": "2026-10-21T04:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS0JKaldnb3pQZHhRNmlYcjZBVmtfb1QxOHlKYU5PMlZ6dHpNdDRoUmhtcDZEQ0hRTFQ2V2RnY0Y4Yngyc1BMTGE4TXFjUmxEajkxZm9ldVdTOW1GQ0NKNWk2TzVQb3EzWnRiT3NQcWRXaVg0emhBenVvWWUtNlROLWx5YmIyN2hqdHQyNy0xVVd4bjM4eWNvVVZCcUUyMWtNbTlZTERNajRPYmZ4a1cwUHpXWUNCZDd2Q0ZoYXRlMjRSNDBZMVhQLXlWMXhyUkpVdlN1WFBUOE1hVHo5dW4xS3drRUt4WFV6bDk0dW5xTnJoU1g0ZDBFSmNKaHdHSUU"
+    },
+    {
+     "name": "Yahoo Finance Singapore",
+     "published_at": "2026-10-21T04:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMEItTVVjV19LM3dUZW8xVlpqdXZNQmJlT0RBZWtGbVhwSXpybDhyNDA4d2hSeU11TjB6N2ZFdWdCb3NWSzJzM01iN1lBdk5aT051RmVQTG56V2lCeUYwUlFiNGFFY1U2Q0F2S3BoVDN6VE9lemcwVDgxQ25OaWRpdlFR"
     }
    ],
    "category": "其他",
@@ -905,6 +961,23 @@
    "zh_summary": "爆料称RTX5090/5080明年1月停产",
    "title_zh": "曝英伟达RTX 5090/5080明年1月停产",
    "sentiment": 0
+  },
+  {
+   "id": "7c9c40327456",
+   "title": "美股市值前十公司盘初罕见全线下跌 英伟达、苹果等集体承压 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRbVNBX1dhOFk0MWFYQUJDQkJxNkhKZHJQdVViSzBzNDJ2anlCREJOaE5ELUd2M3c4eXQ3R0lfTWx2bWJWYnZVYUU5ak1fNEZOV0tpZUVjbVpTSnBvckJFaFdzOA",
+   "source": "东方财富",
+   "published_at": "2026-10-20T22:45:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-20T22:45:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRbVNBX1dhOFk0MWFYQUJDQkJxNkhKZHJQdVViSzBzNDJ2anlCREJOaE5ELUd2M3c4eXQ3R0lfTWx2bWJWYnZVYUU5ak1fNEZOV0tpZUVjbVpTSnBvckJFaFdzOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "898f202bce69",
@@ -6625,86 +6698,6 @@
     "pct": 0.07,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "be9e5ecebcce",
-   "title": "零跑B10在西班牙萨拉戈萨工厂量产；沃尔沃扩大与英伟达智驾合作丨汽车早参 - www.mrjjxw.com",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oQ0RwSkVOX204NUpCQ2dqU09sZWdDdHFtMXpJMzE4S2paZDdZSmVyaWE5OHVCVGRGUnhiaWdXLUFnaWpEUjE5MXZ1U3EwM1hVdWN0TEp4YUwxbzJZZTBCTjlCRTVyQQ",
-   "source": "www.mrjjxw.com",
-   "published_at": "2026-10-19T23:00:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "www.mrjjxw.com",
-     "published_at": "2026-10-19T23:00:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oQ0RwSkVOX204NUpCQ2dqU09sZWdDdHFtMXpJMzE4S2paZDdZSmVyaWE5OHVCVGRGUnhiaWdXLUFnaWpEUjE5MXZ1U3EwM1hVdWN0TEp4YUwxbzJZZTBCTjlCRTVyQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "沃尔沃扩大与英伟达智驾合作",
-   "title_zh": "零跑B10在西班牙萨拉戈萨工厂量产；沃尔沃扩大与英伟达智驾合作丨汽车早参 - www.mrjjxw.com",
-   "sentiment": 1
-  },
-  {
-   "id": "85874e83cd9f",
-   "title": "英伟达(NVDA.US)“借力”欧洲超级计算机实现创纪录容错模拟！物理量子比特减少90% 提供者智通财经 - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90cWg0U2k0ZDRMTE56bl9SY3l0OXh1VXZGMi0xM2plUjZhazFiTWh6dUJXZ2I5b3Bzcm1MQ3NpemhBNWFqZTI0T01jSkpPaHJJUmw2X2hFRFNiMFZDNjZXa2pERFZYeFdEYmxNWFBWZHA",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-19T22:53:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-19T22:53:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90cWg0U2k0ZDRMTE56bl9SY3l0OXh1VXZGMi0xM2plUjZhazFiTWh6dUJXZ2I5b3Bzcm1MQ3NpemhBNWFqZTI0T01jSkpPaHJJUmw2X2hFRFNiMFZDNjZXa2pERFZYeFdEYmxNWFBWZHA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "欧洲超算实现创纪录容错模拟",
-   "title_zh": "英伟达(NVDA.US)“借力”欧洲超级计算机实现创纪录容错模拟！物理量子比特减少90% 提供者智通财经 - 英为财情 Investing.com",
-   "sentiment": 1
-  },
-  {
-   "id": "adf05b5c62a5",
-   "title": "NVIDIA and Jülich Run 104-Qubit Magic State Cultivation Simulation on JUPITER Supercomputer - Quantum Computing Report",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEFicmZTZGFDdUFvU0oybHE5SXBSbHhBclcyNjRUaW1CRzliTl9DZlAwVTdxczNfRWVmdGt4TW9NMG0yTUdkVUdwcDFQa0NBTGM5NTRYTmdEa3VnT0F1NHNZeG5fUy01eGRhOV94SXJVSkUyNXZ1MmF2VWRXanVzR29lTmVYa0JuMElBTk90ejRRRGt6OFFmWXBCY21SV3ZaX1l4eS1LcmlHUVpGMmJVSVJkOXdqeTJib21EZGRyRjhSeVktZ1HSAcsBQVVfeXFMTmRRaG1xa0pESGNDSW1YMmxaTmJ0eTJqRjdya0hreXNqeVkwdEpCQjVxRWVxMzBSaVhTWUJMOXpJTUF3VU95M3dIczhHUTEwZUg1Z21JaVU5VktucWJhUDVSV2djSWhxVnVuR3RwdEhrUkVvX1RuNlcxRW96TXdDbDZ5Rk5scEdqUTB1ZnJWSHJUeW04SkRNR0UwT05CQ2FScXR4RUZwc0VrbVkyT3NNeC1VVGRHZGlsbWZHSlhsalNLM3lkeWRablY4WlU",
-   "source": "Quantum Computing Report",
-   "published_at": "2026-10-19T22:51:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Quantum Computing Report",
-     "published_at": "2026-10-19T22:51:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEFicmZTZGFDdUFvU0oybHE5SXBSbHhBclcyNjRUaW1CRzliTl9DZlAwVTdxczNfRWVmdGt4TW9NMG0yTUdkVUdwcDFQa0NBTGM5NTRYTmdEa3VnT0F1NHNZeG5fUy01eGRhOV94SXJVSkUyNXZ1MmF2VWRXanVzR29lTmVYa0JuMElBTk90ejRRRGt6OFFmWXBCY21SV3ZaX1l4eS1LcmlHUVpGMmJVSVJkOXdqeTJib21EZGRyRjhSeVktZ1HSAcsBQVVfeXFMTmRRaG1xa0pESGNDSW1YMmxaTmJ0eTJqRjdya0hreXNqeVkwdEpCQjVxRWVxMzBSaVhTWUJMOXpJTUF3VU95M3dIczhHUTEwZUg1Z21JaVU5VktucWJhUDVSV2djSWhxVnVuR3RwdEhrUkVvX1RuNlcxRW96TXdDbDZ5Rk5scEdqUTB1ZnJWSHJUeW04SkRNR0UwT05CQ2FScXR4RUZwc0VrbVkyT3NNeC1VVGRHZGlsbWZHSlhsalNLM3lkeWRablY4WlU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达与于利希完成104量子比特模拟",
-   "title_zh": "英伟达与于利希在JUPITER超算运行104量子比特魔法态制备模拟",
-   "sentiment": 1
-  },
-  {
-   "id": "627a87ec1ad3",
-   "title": "天阳科技蹭“英伟达”热点 收到交易所监管函 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WU3pZSEItRmxaVm5XWjQyQUFYajUyaUJzNjljdTBieUtGLUtqdkZKLXQxRkkzeVJqSEJORksteFpQeUNLbW9GY3daZGxNSFg4WEVobkZTUUFqRkowUmJUeTNn",
-   "source": "证券之星",
-   "published_at": "2026-10-19T22:50:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-19T22:50:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WU3pZSEItRmxaVm5XWjQyQUFYajUyaUJzNjljdTBieUtGLUtqdkZKLXQxRkkzeVJqSEJORksteFpQeUNLbW9GY3daZGxNSFg4WEVobkZTUUFqRkowUmJUeTNn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "天阳科技蹭英伟达热点被交易所发函",
-   "title_zh": "天阳科技蹭“英伟达”热点 收到交易所监管函 - 证券之星",
-   "sentiment": 0
   }
  ]
 }
