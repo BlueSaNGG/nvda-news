@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T17:06:50.364266+00:00",
+ "updated_at": "2026-10-21T17:21:31.606621+00:00",
  "market": {
-  "price": 221.81,
-  "change_pct": 2.47,
+  "price": 221.76,
+  "change_pct": 2.44,
   "as_of": "2026-10-21",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.85,
-   "count": 294
+   "count": 298
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.85（294条已评分）"
+     "note": "今日新闻情绪 +0.85（298条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $221.81 vs 20日均线 $226.86"
+     "note": "现价 $221.76 vs 20日均线 $226.85"
     },
     {
      "key": "分析师动向",
@@ -47,8 +47,8 @@
    "target_median": 315.0,
    "target_count": 15,
    "implied_upside_pct": 42.0,
-   "ma20": 226.86,
-   "as_of": "2026-10-21T17:06:50.350664+00:00"
+   "ma20": 226.85,
+   "as_of": "2026-10-21T17:21:31.596224+00:00"
   },
   "pe_ttm": 28.2,
   "pe_pct_5y": 25,
@@ -62,17 +62,39 @@
  },
  "stories": [
   {
+   "id": "b9bf25b54ba7",
+   "title": "英伟达首席执行官 「想要融入AI经济，不能只做AI的使用者，更要成为AI的生产者。」 在2026柏林GTC发表主旨演讲时表示 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTI0R0RFYmdCTHI2bVEtQ0cwQjM5UGhDeEY4ZDkzeVJPYnZveWUyZ0lfaE1Ud2pwWFhnVUt5M25sZ1VBZFFEVmdUdzQ4dTIweThBUHBhNDNKLVhOdlJiNTFrX0g4MnVoRG1nRHR5R1BjVG5fWFVWTENzQ0o3WU5MeGpnenhPdXFa",
+   "source": "搜狐",
+   "published_at": "2026-10-21T17:07:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-21T17:07:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTI0R0RFYmdCTHI2bVEtQ0cwQjM5UGhDeEY4ZDkzeVJPYnZveWUyZ0lfaE1Ud2pwWFhnVUt5M25sZ1VBZFFEVmdUdzQ4dTIweThBUHBhNDNKLVhOdlJiNTFrX0g4MnVoRG1nRHR5R1BjVG5fWFVWTENzQ0o3WU5MeGpnenhPdXFa"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "6d8d074ac933",
    "title": "The Cheapest NVIDIA Has Looked All Month: What the Price Target Says - 24/7 Wall St.",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFBscEtFTDAyYm9NcnVLYnYzZWhpUkxIcTBtbGZJa0NSbWhXYTlqTG9acVlnVWd6dThmQnJvYTlpTnhNQzRPZU40d2hIWjJHellsQTQ1aGQwU19UMHpjdjNhNng1T0hJYk55NVFDQmdNSjNFeGhYcFdGdTRCdU1FbXlXcm1hYzAtb3JnZW9PcnZYZzVuVU0zQS1zMG5JQkJHZEtXVVNtS2w5SEg4bXhOaA",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-21T17:00:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-21T17:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFBscEtFTDAyYm9NcnVLYnYzZWhpUkxIcTBtbGZJa0NSbWhXYTlqTG9acVlnVWd6dThmQnJvYTlpTnhNQzRPZU40d2hIWjJHellsQTQ1aGQwU19UMHpjdjNhNng1T0hJYk55NVFDQmdNSjNFeGhYcFdGdTRCdU1FbXlXcm1hYzAtb3JnZW9PcnZYZzVuVU0zQS1zMG5JQkJHZEtXVVNtS2w5SEg4bXhOaA"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T17:00:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGp1ODVMZ3piaG1PZWZSOUdLdFVqV29Zd2owRFlLMFpuTk1iYjJkbjlOWVZ0QVVVVjFqZDdUcGZyNlNpSFhMWU5fa1pKWXo0TWpuRkE3UC1nUmY4bkpOM0g3UUo5cDdxb3poUnhCMzl1eWF5ZU96c3RmOEJ6UmVaZWMyY1JHcG5QNzA3NnNxNUMwU1Jra05LVlhrRm9VM2FG"
     }
    ],
    "category": "分析师",
@@ -100,6 +122,23 @@
    "zh_summary": "英伟达发布621.01版游戏驱动",
    "title_zh": "英伟达发布GeForce 621.01 WHQL游戏驱动",
    "sentiment": 1
+  },
+  {
+   "id": "7779727d56f5",
+   "title": "Ambarella gains on report Nvidia may be third bidder - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOemhLZFNwOUdvRG5UdWhKNnNDbDhTLVBCX050RXZydlZpRS0xREhhcFE1aG51VXFRMzBGczQ1V3EtWWlLS1c0bFVabkhWZkNOVzZ4UENxbGZEVExBaEVLYjdzSV90N1dxREw3QzNIc0lXem1DZUY2RGRmcWhnRFhNQTdIX3FULTE5X3g1T3FFam1zUnkx",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-21T16:42:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-21T16:42:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOemhLZFNwOUdvRG5UdWhKNnNDbDhTLVBCX050RXZydlZpRS0xREhhcFE1aG51VXFRMzBGczQ1V3EtWWlLS1c0bFVabkhWZkNOVzZ4UENxbGZEVExBaEVLYjdzSV90N1dxREw3QzNIc0lXem1DZUY2RGRmcWhnRFhNQTdIX3FULTE5X3g1T3FFam1zUnkx"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "85b5e43574ef",
@@ -630,12 +669,17 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCSmZhU09IZk1HdXdSTEFUNGpfR3poSURTOWRZM2U2elEwODVUSFc5WlQwTnN5X291UmdKS2hLZE9xNDFqUjJhTk9JQ2hEN0lhM2FXLWFIWWNqUnJJUk5sRk5nSWNZUy1ZSGdZaGwzdlhQN3ZKM1VjOQ",
    "source": "新浪财经",
    "published_at": "2026-10-21T14:32:35+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-21T14:32:35+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCSmZhU09IZk1HdXdSTEFUNGpfR3poSURTOWRZM2U2elEwODVUSFc5WlQwTnN5X291UmdKS2hLZE9xNDFqUjJhTk9JQ2hEN0lhM2FXLWFIWWNqUnJJUk5sRk5nSWNZUy1ZSGdZaGwzdlhQN3ZKM1VjOQ"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-21T16:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHpUbG85SzFOU3BZUHJhcHVkS182cFNKNlptYTlYYTZRVTZnUGpVZTgzVjVVdlVOSjEzM29NSG1pVFkxeFlNVFIxQzE3TjNKNU5laUtVU1hWMUpoTjNGX0tWMi01S2pidkR3dWI5SHZxVVpzamxLTzRWQXlDeTRDV3hadjlnRWZhRUFkYg"
     }
    ],
    "category": "其他",
@@ -4248,7 +4292,7 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcHplOWhHS1Uwd0hBR09WNURwSXF0bXVBd0hMUENaRDBxRHpTQ0dqX3VuYUI0WXZDaGhGUDJaWFRyc213M0MxcDZ0dmFKZk1nWkJWdmIyVlNYdmtYZnJoMl9IVU1NSVBvb3lPd1Nia3k0VXA5VzI4eWoxSG9xTHVEYXRIWElERDNjamQyaw",
    "source": "搜狐",
    "published_at": "2026-10-21T11:01:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐",
@@ -4259,13 +4303,22 @@
      "name": "同花顺财经",
      "published_at": "2026-10-21T11:03:45+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zTzhfczJNYlR4ZFNxQVk1WWRuX2w5bW1Oc3VtSHI4ZDRtZzZjdDUzRXd2OE9kTlpnQUU1NUtRbzl6QnRiZTlpSGdybUpTdUhlNGFoRWxGNDdxT1FxMm43MDB3"
+    },
+    {
+     "name": "同花顺",
+     "published_at": "2026-10-21T12:21:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zTzhfczJNYlR4ZFNxQVk1WWRuX2w5bW1Oc3VtSHI4ZDRtZzZjdDUzRXd2OE9kTlpnQUU1NUtRbzl6QnRiZTlpSGdybUpTdUhlNGFoRWxGNDdxT1FxMm43MDB3"
     }
    ],
    "category": "产品技术",
    "session": "盘前",
    "zh_summary": "英伟达拟与六家伙伴扩大芯片封装测试产能",
    "title_zh": "英伟达：拟与三星电机等六家合作伙伴扩大芯片组件、封装、测试和光学引擎产能 - 同花顺财经",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.29,
+    "window_h": 2.0
+   }
   },
   {
    "id": "e49a2729c06c",
@@ -4810,40 +4863,6 @@
    "zh_summary": "英伟达携供应链伙伴扩产",
    "title_zh": "英伟达与供应链伙伴扩产，加速AI基础设施建设",
    "sentiment": 1
-  },
-  {
-   "id": "ad06ed5e4c14",
-   "title": "英伟达与供应链合作伙伴扩大产能，加速人工智能基础设施建设 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1ZXZVVtUnhQOFFwODdMaWhfZGZRVFItbFpKRjR2dnJ0c0tVdXBSbUFQeHNYdXYzaXg3dzVYeXR0VEtZWUllMkk2SHQxRmNhOS1NQlg3cVlJR282WmNmeHVYUzMtZ3ZrV2FXVW5lZG5PelotbW5iUUhpc3FzRVJINlpNR0cyVU1QOWx4aU9pZVIydV9DODdTd2FMRUhwa29qcXlZZk8xNHM",
-   "source": "富途牛牛",
-   "published_at": "2026-10-21T10:33:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-21T10:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1ZXZVVtUnhQOFFwODdMaWhfZGZRVFItbFpKRjR2dnJ0c0tVdXBSbUFQeHNYdXYzaXg3dzVYeXR0VEtZWUllMkk2SHQxRmNhOS1NQlg3cVlJR282WmNmeHVYUzMtZ3ZrV2FXVW5lZG5PelotbW5iUUhpc3FzRVJINlpNR0cyVU1QOWx4aU9pZVIydV9DODdTd2FMRUhwa29qcXlZZk8xNHM"
-    },
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-21T11:06:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yVmRubXVJUzE5Q0VkNkdWSG51YkJROGlqbnk2SVZzSWFrVk1kbTNiMHNQVUotc0l4ZUhTaUhtOGJDLWdfYlVlT00xTkIyQU81QjVMVldMS3E"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T11:19:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lck5GbWlDVnZ3Z0IxZEZCeXNXLUdtTnA3eVVZWHRBaHp2OXRybWZZRUdFMDRDMWpsMXJsTjlMYldwUFBXazJUei1RbHFub1ppRHhXMld3RHNmVU5GdU9HUk9xZkhZZw"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "英伟达携供应链伙伴扩产",
-   "title_zh": "英伟达携供应链伙伴扩产 加速AI基础设施建设",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.5,
-    "window_h": 0.1
-   }
   },
   {
    "id": "fc7d02265e33",
@@ -6519,26 +6538,6 @@
    "session": "盘前",
    "zh_summary": "Tenet Wealth买入英伟达16330股",
    "title_zh": "Tenet Wealth Partners买入16330股英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "a4c94e95e1f0",
-   "title": "11,311 Shares of NVIDIA Corporation $NVDA Acquired by Rose Capital Advisors LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNVFlVGJnTEJCZEpWbEdkQnhmVEo3azRscktsdmtOek9lMXpzLTktYmtmNXVJWnN6ZEtTMVY1ajBTNmp3ZnU0WVdMd3I3UDQtLW9xS3RkWG83U2FaZ1dIZktvWUwwR3p6MVpnSVFIakJ0Znp2X0Nsd2daX29Pa2wwZHpPTTRQUWtaN3Z5YXZRb2RXbklyYnk1TTh4dXlvXzJ5WHJ4M0FhZ0JJZ1FXRk9vdnJNMXVRQk1HUGZhUXdRZEZDT1RHdUNScTczcTNsSEFZSjRGcA",
-   "source": "MarketBeat",
-   "published_at": "2026-10-21T08:48:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-21T08:48:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNVFlVGJnTEJCZEpWbEdkQnhmVEo3azRscktsdmtOek9lMXpzLTktYmtmNXVJWnN6ZEtTMVY1ajBTNmp3ZnU0WVdMd3I3UDQtLW9xS3RkWG83U2FaZ1dIZktvWUwwR3p6MVpnSVFIakJ0Znp2X0Nsd2daX29Pa2wwZHpPTTRQUWtaN3Z5YXZRb2RXbklyYnk1TTh4dXlvXzJ5WHJ4M0FhZ0JJZ1FXRk9vdnJNMXVRQk1HUGZhUXdRZEZDT1RHdUNScTczcTNsSEFZSjRGcA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Rose Capital买入英伟达11311股",
-   "title_zh": "Rose Capital Advisors收购英伟达11311股",
    "sentiment": 1
   }
  ]
