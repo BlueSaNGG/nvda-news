@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T06:21:28.288754+00:00",
+ "updated_at": "2026-10-21T06:36:27.597212+00:00",
  "market": {
   "price": 216.47,
   "change_pct": -0.29,
@@ -10,8 +10,8 @@
    "days_left": 27
   },
   "day_sentiment": {
-   "avg": 0.33,
-   "count": 3
+   "avg": 0.38,
+   "count": 8
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.33（3条已评分）"
+     "note": "今日新闻情绪 +0.38（8条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.5,
    "ma20": 227.04,
-   "as_of": "2026-10-21T06:21:28.271853+00:00"
+   "as_of": "2026-10-21T06:36:27.579814+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "95cfa92871b1",
+   "title": "抢到英伟达GPU却没电力！亚马逊豪掷数十亿锁卡 大批算力闲置仓库 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hRnI3akZ0emRtUEl2ZTdHOGxQRUdvY3JfZDNnR1daYjlxYVl2UnpwSGpQZVY5TVZHZk1MTnAxYjExckNFZW5TWGk5cFlUT2VnNjZpbS1pNm4",
+   "source": "驱动之家",
+   "published_at": "2026-10-21T06:22:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-21T06:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hRnI3akZ0emRtUEl2ZTdHOGxQRUdvY3JfZDNnR1daYjlxYVl2UnpwSGpQZVY5TVZHZk1MTnAxYjExckNFZW5TWGk5cFlUT2VnNjZpbS1pNm4"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
+   "id": "499cb264ecfc",
+   "title": "DeepSeek推理框架对等支持华为、英伟达芯片，意味着什么？ - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHAyV3lNYmxZbUJzenZwaWV4TWFQYlBHcllPMXFsaklVYlh0d3l1bHlJeE1IUGRBbXRsT0E3QzlvOVgyN0Vla01fZTI5VW5xS1p3VzdELV83ZVhXVno4ZTAzNEhSTEJSdGlyNUtiUXh0eHVxcXhDbE1EekgtY1FIUGRSaE5JdnBN",
+   "source": "搜狐",
+   "published_at": "2026-10-21T06:17:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-21T06:17:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHAyV3lNYmxZbUJzenZwaWV4TWFQYlBHcllPMXFsaklVYlh0d3l1bHlJeE1IUGRBbXRsT0E3QzlvOVgyN0Vla01fZTI5VW5xS1p3VzdELV83ZVhXVno4ZTAzNEhSTEJSdGlyNUtiUXh0eHVxcXhDbE1EekgtY1FIUGRSaE5JdnBN"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "fdb40eac3ed7",
    "title": "Should You Pick NVIDIA Stock Over Its Competitors? - Trefis",
@@ -87,12 +121,17 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORzEtQWNYczk2V2k2OVN6Z3Z1MGJQWU1Md013OVZfVW05a3c3d05NYU9sWFU0YU5vUVZMc2I5N0t3YkFwTXFNWF80cVhpTVQ1bzJhS2lMb0xTakhKbGVUaEllaml1ZnBwbGhnWGNXX0MzYkFEY1VmSGh3LUxDMXlsOHl5ZzJTMDZYQjh6VzV0dHlucnJN",
    "source": "Yahoo Finance",
    "published_at": "2026-10-21T06:13:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-21T06:13:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORzEtQWNYczk2V2k2OVN6Z3Z1MGJQWU1Md013OVZfVW05a3c3d05NYU9sWFU0YU5vUVZMc2I5N0t3YkFwTXFNWF80cVhpTVQ1bzJhS2lMb0xTakhKbGVUaEllaml1ZnBwbGhnWGNXX0MzYkFEY1VmSGh3LUxDMXlsOHl5ZzJTMDZYQjh6VzV0dHlucnJN"
+    },
+    {
+     "name": "Forbes",
+     "published_at": "2026-10-21T06:13:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeFNTWDBDSWZmSDl3dllPanlnLXREYnM3VVM2dVpGaF9WVTlmU1hiWjFybU9HRHZydkNHcFJqZHNQNnZ0Y0ktdDZmOGN2d0M5OHJpRmNUSklkWlJYTGtXd2FOb3A1QmNCUjViZ2N4a1pScEJiWk5uRnpRNFZyTE4zcFRNbXBMSUpPd29OVlpwU2d3a294LTJWNDNWVkxDa3BPTXRqWGloQk9ianhubVUwbk1JY1VfSTNoZFlF"
     }
    ],
    "category": "AI需求",
@@ -122,6 +161,23 @@
    "sentiment": 0
   },
   {
+   "id": "545c6f572f72",
+   "title": "英伟达向AI云公司投资数亿美元 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEZmNndZN3J2SkRBcWJYMVlGRTE1S1d1R1A0aVNzWlYtRWlNcG15dkFSQ1ludkFGeEVmZm5RRE5JRDExM3ZUdThObjJJLXlmNlZlaWFDbko5UXR3bDM5aDJKRUVzVXNuUVRNOEZaUHNrWnFBWVRSWnN1SVVJYTdmdHF6RVBBeml0NlR0QQ",
+   "source": "搜狐",
+   "published_at": "2026-10-21T06:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-21T06:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEZmNndZN3J2SkRBcWJYMVlGRTE1S1d1R1A0aVNzWlYtRWlNcG15dkFSQ1ludkFGeEVmZm5RRE5JRDExM3ZUdThObjJJLXlmNlZlaWFDbko5UXR3bDM5aDJKRUVzVXNuUVRNOEZaUHNrWnFBWVRSWnN1SVVJYTdmdHF6RVBBeml0NlR0QQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "47abafbdcd6b",
    "title": "上市公司硬蹭英伟达热点收监管函 股价异动引关注 - 中华网",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRSHBTNHZDQXNwUWhRTzVYNGZrQWhyQlp3Q1VJMEN5aGc0LW9SOThCMVZkYVpHVF9zR3pZTzJ0b0tjOS1BLVdwajhaQ2d6enV1eTRDd3RYMkFEbTNKTzcxVGtWTWllb2NCV3VRSXBYdXg",
@@ -140,26 +196,6 @@
    "zh_summary": "蹭英伟达热点的上市公司收监管函",
    "title_zh": "上市公司硬蹭英伟达热点收监管函 股价异动引关注 - 中华网",
    "sentiment": 0
-  },
-  {
-   "id": "4c30b74ada73",
-   "title": "Maas Group shares rise 5% as Nvidia weighs fresh backing for Firmus - Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwZXNscW9MMVdkR2JkSzlrRG5oVGljNWc0R3djSldsT2huU0lGa29xaTFkaE5fUmJwU18yUV9XTmo0dXQzMnQ1UjRLT05RcmJmUFhSVU1OS1VPcGdUbnppeTUtdzBsWFdvY3VxLWpXNS0yUWl6SGZqLU5RMnAtUQ",
-   "source": "Yahoo Finance Singapore",
-   "published_at": "2026-10-21T05:51:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance Singapore",
-     "published_at": "2026-10-21T05:51:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwZXNscW9MMVdkR2JkSzlrRG5oVGljNWc0R3djSldsT2huU0lGa29xaTFkaE5fUmJwU18yUV9XTmo0dXQzMnQ1UjRLT05RcmJmUFhSVU1OS1VPcGdUbnppeTUtdzBsWFdvY3VxLWpXNS0yUWl6SGZqLU5RMnAtUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达考虑追加投资Firmus公司",
-   "title_zh": "英伟达考虑追加投资Firmus，Maas股价上涨5%",
-   "sentiment": 1
   },
   {
    "id": "9e07cb4cac66",
@@ -200,6 +236,31 @@
    "zh_summary": "爆料称RTX 5090/5080或于明年1月停产",
    "title_zh": "爆料称RTX 5090与RTX 5080 16GB或于明年1月停产英伟达尚未确认- nVIDIA - cnBeta.COM",
    "sentiment": 0
+  },
+  {
+   "id": "4c30b74ada73",
+   "title": "Maas Group shares rise 5% as Nvidia weighs fresh backing for Firmus - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTncyOGEyZ2drWmcxakVsY1dnbUdFUDQxdndIbTBTVUFrbzJqcU4yQ0RRU05kMm9vQ0JndFhscXdodV8xazVOM29EZ0lxVkNrOE5MelpRNmJ2LWNxeXBxd3hTa3I2SlBIdkNUb25aQmtUZlZtTDF5ZWdndTJBQ1c4TndzbXJxdHRTMzJUWGtFcnFHNk1fXzdfQUFMbmFuaDdlWTBjT3FUcEo4Tm1wM3JCbjlfdnloX0ZBTDBHcm5jQXc",
+   "source": "Investing.com",
+   "published_at": "2026-10-21T05:24:55+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-21T05:24:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTncyOGEyZ2drWmcxakVsY1dnbUdFUDQxdndIbTBTVUFrbzJqcU4yQ0RRU05kMm9vQ0JndFhscXdodV8xazVOM29EZ0lxVkNrOE5MelpRNmJ2LWNxeXBxd3hTa3I2SlBIdkNUb25aQmtUZlZtTDF5ZWdndTJBQ1c4TndzbXJxdHRTMzJUWGtFcnFHNk1fXzdfQUFMbmFuaDdlWTBjT3FUcEo4Tm1wM3JCbjlfdnloX0ZBTDBHcm5jQXc"
+    },
+    {
+     "name": "Yahoo Finance Singapore",
+     "published_at": "2026-10-21T05:51:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwZXNscW9MMVdkR2JkSzlrRG5oVGljNWc0R3djSldsT2huU0lGa29xaTFkaE5fUmJwU18yUV9XTmo0dXQzMnQ1UjRLT05RcmJmUFhSVU1OS1VPcGdUbnppeTUtdzBsWFdvY3VxLWpXNS0yUWl6SGZqLU5RMnAtUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "英伟达考虑追加投资Firmus公司",
+   "title_zh": "英伟达考虑追加投资Firmus，Maas股价上涨5%",
+   "sentiment": 1
   },
   {
    "id": "c7afb44c5737",
@@ -2320,6 +2381,28 @@
    "zh_summary": "梅赛德斯与英伟达延续战略合作",
    "title_zh": "梅赛德斯-奔驰与英伟达延长战略技术合作",
    "sentiment": 1
+  },
+  {
+   "id": "bc67872954c9",
+   "title": "英伟达黄仁勋劝诫欧洲各国：别再对AI过度犹疑，否则将被时代甩在身后 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlaVVDWllNSkQtUUNPdEE1VDBiY0YxbGVOM2tWbFVYaDI2UlZmd3pqSVFvWkdZY3ZyT1hCM1NtOXZpWFNVRXYyNXdrVEY4VGoyY0JMZUxPR09iUXlsOVkwbndWTkh2akYyYkJZLXMteGJ4TDFBYm5lQmVVaHI",
+   "source": "新浪财经",
+   "published_at": "2026-10-20T15:21:05+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-20T15:21:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlaVVDWllNSkQtUUNPdEE1VDBiY0YxbGVOM2tWbFVYaDI2UlZmd3pqSVFvWkdZY3ZyT1hCM1NtOXZpWFNVRXYyNXdrVEY4VGoyY0JMZUxPR09iUXlsOVkwbndWTkh2akYyYkJZLXMteGJ4TDFBYm5lQmVVaHI"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-20T22:41:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PdnhYcWZaTHJfVnNWNDd0bHdFU19aV05mV2p4SlM0aW5sYmVLNGl0bjFWYThFbzhFQ2ZQVWtqVmZuVHN3SlJFb1VwMXI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "be5a86bc2cff",
@@ -4986,31 +5069,6 @@
    "sentiment": 1
   },
   {
-   "id": "88398d59dfb7",
-   "title": "应英伟达标准化要求 三星将与台积电首次合作生产HBM！ - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XaVpMbXY0eWg1ai1kdDU0WGdjaEdUb3ZtYmdsa2lhYzF3TlhwSHFULVI0bGM1ZDVFVUJxLW5ZTE1GaTVWYzhWMA",
-   "source": "财联社",
-   "published_at": "2026-10-20T07:39:45+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-20T07:39:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XaVpMbXY0eWg1ai1kdDU0WGdjaEdUb3ZtYmdsa2lhYzF3TlhwSHFULVI0bGM1ZDVFVUJxLW5ZTE1GaTVWYzhWMA"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-20T09:04:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WWThHN0JXWEYwUHI4NXpkdVZNak95V0Q4WEdCaV90Y0NGd1N0OUhjbmtrX3MyeUg1Nktjd29ZdVliSUdjWGJvSlA4Uzdta09odTdNSE5xOUZmOVJSaVBEWA"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "应英伟达标准化要求，三星联手台积电生产HBM",
-   "title_zh": "应英伟达标准化要求 三星将与台积电首次合作生产HBM！ - 财联社",
-   "sentiment": 1
-  },
-  {
    "id": "e1115d6e5265",
    "title": "Nasdaq tech stocks rebound led by Nvidia and Te... - Pluang",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMUZ0UWZmcVl1bDFBcDRHam5GVTF5c2RSY18wZkJ5SDVod2ZjQ1k5eENITFc5NmJ4N3pST1IyLUszcTYtNFRZcXFTV0JHQ0tydjNIRWo1WWZMZTBiUHhzQ1JNV0NHMC1uYm83RHhvSGZGQ3NVLUFtb3Zad1p0OXoxWWwzUnZFZjQ",
@@ -6612,71 +6670,6 @@
    "zh_summary": "传DeepSeek与华为联手设计AI芯片挑战英伟达",
    "title_zh": "传DeepSeek华为联手设计AI芯片挑战英伟达 - 观点网",
    "sentiment": -1
-  },
-  {
-   "id": "96e343f9ba01",
-   "title": "上市公司称买了2万张英伟达GPU，深交所下发监管函 - 观察者网",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kOTJLLXY4ajdIRkdPWU9xLWtkcTM4cWJMaHEzeXlPV0c1ZlJhNVVFX0FzcGxkQ2YzZWVGTUVRNWpHTEJoX2JQU3FneDJjb2U0WjRCM2hrSDJCUHkxajF5S2FoNWQ",
-   "source": "观察者网",
-   "published_at": "2026-10-20T00:59:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "观察者网",
-     "published_at": "2026-10-20T00:59:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kOTJLLXY4ajdIRkdPWU9xLWtkcTM4cWJMaHEzeXlPV0c1ZlJhNVVFX0FzcGxkQ2YzZWVGTUVRNWpHTEJoX2JQU3FneDJjb2U0WjRCM2hrSDJCUHkxajF5S2FoNWQ"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-20T01:00:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05S3o0bVBvbm4wWDJ3VGNRbHoyNE13TkllWk9sbDVaQWZMYzlVMm9wMHJEMjZVTjRsN2swX0VQVGRPcVR3aTc1MUliUnY2QlpuZW5zcjFka2liYlcxTElNbWFYQy1WY0NRU181VkNsUVdZWmZzamE4dg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "上市公司称购2万张英伟达GPU遭监管问询",
-   "title_zh": "上市公司称买了2万张英伟达GPU，深交所下发监管函",
-   "sentiment": 0
-  },
-  {
-   "id": "7f6cf1f6566f",
-   "title": "Nvidia, Meta and Apple Unveil New Open Models The Morning Download for Oct. 16 - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzl4Qm1LOUgzSHRaWEdvRDhKYkRaemRoOV9GWWVuU0N1THhvaXFnYnhQOWRWaGZBQlBUN3dicGJmWWVuZW9BS3BnLVlGYks2R3I1b1ZuVW9ObVhXX3I1cGViWnJyTnIwd3pfV3BXQVhWZy15dkpDTlFUSVg1YUtjR28wRkFrRHNpT2ktMnpR",
-   "source": "WSJ",
-   "published_at": "2026-10-20T00:50:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-20T00:50:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzl4Qm1LOUgzSHRaWEdvRDhKYkRaemRoOV9GWWVuU0N1THhvaXFnYnhQOWRWaGZBQlBUN3dicGJmWWVuZW9BS3BnLVlGYks2R3I1b1ZuVW9ObVhXX3I1cGViWnJyTnIwd3pfV3BXQVhWZy15dkpDTlFUSVg1YUtjR28wRkFrRHNpT2ktMnpR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达等发布新开放模型",
-   "title_zh": "英伟达、Meta、苹果发布新开放模型",
-   "sentiment": 1
-  },
-  {
-   "id": "8ff1de2922b0",
-   "title": "小K播早报|英伟达GTC柏林大会即将开幕 MiniMax M3.1 Flash上线 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMEE0TkJlcGdyVGtLbXR3RDFwR0s2aWQwa0pqeGZaVlJhWmNFdWdRT01kMnAwaVBMNXJRRFBrY003bl92a3A3aml3ZldybGZ1WkhNM25aNm5YNEhZR1I0RWlfOTVEZjVtMXVHVDFvSy1fY0t1czkxWmljUkE1WWlLZmtlb2YxZzlPWC1Mb2FFeldjRDlzeGxjRFdCVVc2TnhqWkE",
-   "source": "富途牛牛",
-   "published_at": "2026-10-20T00:49:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-20T00:49:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMEE0TkJlcGdyVGtLbXR3RDFwR0s2aWQwa0pqeGZaVlJhWmNFdWdRT01kMnAwaVBMNXJRRFBrY003bl92a3A3aml3ZldybGZ1WkhNM25aNm5YNEhZR1I0RWlfOTVEZjVtMXVHVDFvSy1fY0t1czkxWmljUkE1WWlLZmtlb2YxZzlPWC1Mb2FFeldjRDlzeGxjRFdCVVc2TnhqWkE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达GTC柏林大会即将开幕",
-   "title_zh": "英伟达GTC柏林大会即将开幕 MiniMax M3.1 Flash上线",
-   "sentiment": 0
   }
  ]
 }
