@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T01:21:30.073231+00:00",
+ "updated_at": "2026-10-21T01:36:27.463012+00:00",
  "market": {
-  "price": 217.09,
-  "change_pct": 1.38,
+  "price": 216.47,
+  "change_pct": -0.29,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 28
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 210
+   "avg": 0.43,
+   "count": 212
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 70% 分位"
+     "note": "现价处于52周区间 69% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（210条已评分）"
+     "note": "今日新闻情绪 +0.43（212条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.09 vs 20日均线 $227.66"
+     "note": "现价 $216.47 vs 20日均线 $227.04"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 70,
+   "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.1,
-   "ma20": 227.66,
-   "as_of": "2026-10-21T01:21:30.059937+00:00"
+   "implied_upside_pct": 45.5,
+   "ma20": 227.04,
+   "as_of": "2026-10-21T01:36:27.443756+00:00"
   },
-  "pe_ttm": 27.6,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.5,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "f3b65868e4eb",
+   "title": "媒体爆料：连亚马逊云都“缺电”，数十亿英伟达芯片堆在仓库积灰 - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5teHZyNV9PT1ZoZjY5RHBmTUc0TnI4QWdOUENXMFg4Slh2VUV1Nm5XSUprT2JUdmdpVDdEb29DeDZFUFV2VmhnaVAtZEFzbTRpM2FR",
+   "source": "华尔街见闻",
+   "published_at": "2026-10-21T01:02:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-21T01:02:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5teHZyNV9PT1ZoZjY5RHBmTUc0TnI4QWdOUENXMFg4Slh2VUV1Nm5XSUprT2JUdmdpVDdEb29DeDZFUFV2VmhnaVAtZEFzbTRpM2FR"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "99e3fa85370a",
+   "title": "谷歌追随亚马逊，欲打破英伟达对AI领域的垄断 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObG9tbkRxZ0xGR3N2X0o0V3RpbWxhb0NZMWlOUFN3X1gtTVBaU1lSWm43SDkwVDM2T1RtTV84MW8tOGZORU5HWUNaRzY1OE1nNzBScnZsVThlbU15NGNxT3ZScjJEVHBOSmJ4QkRLWkROSmp6dWxCajlkSnp2cnJGU1hETEkyQ3hLb3Y3VA",
+   "source": "搜狐",
+   "published_at": "2026-10-21T01:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-21T01:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObG9tbkRxZ0xGR3N2X0o0V3RpbWxhb0NZMWlOUFN3X1gtTVBaU1lSWm43SDkwVDM2T1RtTV84MW8tOGZORU5HWUNaRzY1OE1nNzBScnZsVThlbU15NGNxT3ZScjJEVHBOSmJ4QkRLWkROSmp6dWxCajlkSnp2cnJGU1hETEkyQ3hLb3Y3VA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "9061040a493e",
    "title": "NVIDIA (NVDA) Considers Investment in AI Cloud Firm Firmus Amid Market Concerns - GuruFocus",
@@ -6658,66 +6692,6 @@
    "session": "盘后",
    "zh_summary": "黄仁勋呼吁德国制造商拥抱AI",
    "title_zh": "英伟达CEO呼吁德国制造商拥抱AI",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.07,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "0dd37c62ee39",
-   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool - TechCrunch",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0ozcElHVUdWdHpKZERxZ0RIOWFBc0hUa2NHaTA4YU5hRHd1M2t5UWVMak1sWnJ6NDlOVDdfSFhPTjJNc0FBTXhBWEhoLVN2c1JNckhwREdfelR1cUtDMXJVSWQ3ZzlBbkRZNHZOUVJ4Vk5FajdJWmxzTDZqVXJSd2xFZTFBRTRVUUowdmFCb043b216cm5EWnhWaDZfLUpwanZjUlZ1TWlWaG80MzJsWnJ3",
-   "source": "TechCrunch",
-   "published_at": "2026-10-19T20:09:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechCrunch",
-     "published_at": "2026-10-19T20:09:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0ozcElHVUdWdHpKZERxZ0RIOWFBc0hUa2NHaTA4YU5hRHd1M2t5UWVMak1sWnJ6NDlOVDdfSFhPTjJNc0FBTXhBWEhoLVN2c1JNckhwREdfelR1cUtDMXJVSWQ3ZzlBbkRZNHZOUVJ4Vk5FajdJWmxzTDZqVXJSd2xFZTFBRTRVUUowdmFCb043b216cm5EWnhWaDZfLUpwanZjUlZ1TWlWaG80MzJsWnJ3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "亚马逊推TorchNeuron挑战英伟达",
-   "title_zh": "亚马逊推新TorchNeuron工具，向英伟达发起迄今最大挑战",
-   "sentiment": -1
-  },
-  {
-   "id": "3d69a5d92456",
-   "title": "Germany's Merz urges AI investment ahead of Nvidia deal - Central Oregon Daily",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcVJXU08yRFBGQXZRazFEcWdBUnFYWURWa2FhWkdvSWozakwwa3BaQVRSODJOdVp4ZE5BdmZGTk9XMGphbFVPOHktdWN6dG8ybWVlYjF6cUJzdjl0N19QN1BhZm8ydnFzWWtQVVVuTlE5OWNFaVNUbEVvTXczN09XU3BBXzJlMDFIVUNhMGo2VmNBMWdDNW9vTlBHeEFXUXZGbEpOdnFrcG1HeDQtVE1JRVdqNEU2UnNJSDRMTHZTdG9yVk1lTDZrVGZFbUt3R0dudlh2blRaTG1zV0xhdFkzZmMwVlpLdXo4",
-   "source": "Central Oregon Daily",
-   "published_at": "2026-10-19T20:07:31+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Central Oregon Daily",
-     "published_at": "2026-10-19T20:07:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcVJXU08yRFBGQXZRazFEcWdBUnFYWURWa2FhWkdvSWozakwwa3BaQVRSODJOdVp4ZE5BdmZGTk9XMGphbFVPOHktdWN6dG8ybWVlYjF6cUJzdjl0N19QN1BhZm8ydnFzWWtQVVVuTlE5OWNFaVNUbEVvTXczN09XU3BBXzJlMDFIVUNhMGo2VmNBMWdDNW9vTlBHeEFXUXZGbEpOdnFrcG1HeDQtVE1JRVdqNEU2UnNJSDRMTHZTdG9yVk1lTDZrVGZFbUt3R0dudlh2blRaTG1zV0xhdFkzZmMwVlpLdXo4"
-    },
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-19T20:07:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT09KR2R3TjktZGltSk9PMGtKcGVMeFBuSmR5eTVkMERSbkVuc0d5bGhnanJ2WloyWUtULU1PTkFVQlNhaklmWmJESHF2cEV0Q01YQ3NBb3RxWklLQlNLelBEMzVBSF9nZ09Uc0FjLUhHUmhOeUF1Z0pObndUclVjT0s2Q3Fka2Z6dWltWC1MQ0g5cmo0V1dUeFY0M3hEOE5aSzV3RjdZZ2JFUTU4TEE"
-    },
-    {
-     "name": "The Lufkin Daily News",
-     "published_at": "2026-10-19T20:07:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeFZOd1N6OExsaGpIdzY5aVNsa2l0ZkloYTB4aTJOeEtTclVHWkJ2YVJSbTNqMURvdFp6V29GRHhYY0VpQ2tCT1hFanFsMWI1RmNVNGFfblAzZmFlTjFZalRrRkJCQ2NZbzJuNmZPVHl6WUlpdlZiczJUenFIMERNRDJmSGh5MVdhbDE1S2ZyZjZ6UU40dnNqdmNNUmRLSi1Id3BqMEtPTHFGZFU1TjNXSVI4RGdMbEU3bmVCTUdxOGRDZ3YzcHc2dGNKOVpIY2dSOTc1a2h5RkNHV2tWYWVjSlFiVVJCX0JLX3c"
-    },
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-19T20:28:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmJGTW5aWHNlc0RTQkxmTXBZazlWUllTTkUxUWFPMF9Ub215NzQzQzhTU2MxeXlIaEpmV2ZQWXZWV1hYRFZfVzYydGJmWUtrZUdjbFd4bjlYRlRvZk83RzN3akJUeDNtSnAtR00wbmpsLWhIWDRyd3NCMEkwanNjY1lpMWYyeE1LLTZYMXU2dVpmRklZNHpEMnFHZ2Ewc3VUbFFfQ0dRVWpOYm1tLXdqNw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "breaking": true,
-   "zh_summary": "默茨在英伟达协议前敦促AI投资",
-   "title_zh": "德国总理默茨在英伟达协议前敦促投资AI",
    "sentiment": 1,
    "price_reaction": {
     "pct": 0.07,
