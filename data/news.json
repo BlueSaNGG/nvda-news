@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T07:06:29.238949+00:00",
+ "updated_at": "2026-10-21T07:21:27.473759+00:00",
  "market": {
   "price": 216.47,
   "change_pct": -0.29,
@@ -10,12 +10,12 @@
    "days_left": 27
   },
   "day_sentiment": {
-   "avg": 0.42,
-   "count": 12
+   "avg": 0.5,
+   "count": 14
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.42（12条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（14条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.5,
    "ma20": 227.04,
-   "as_of": "2026-10-21T07:06:29.223909+00:00"
+   "as_of": "2026-10-21T07:21:27.451395+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -67,12 +67,17 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9saXd4QkRwekRTNTBIV1NjZ3pKd3duYTVhcENfWlNRaFUzVll4TDRXemhvYjRCdTB6ODFJNTFXQ09wSUcyemd6clY1UlJFR0phNTlB",
    "source": "华尔街见闻",
    "published_at": "2026-10-21T06:48:57+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "华尔街见闻",
      "published_at": "2026-10-21T06:48:57+00:00",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9saXd4QkRwekRTNTBIV1NjZ3pKd3duYTVhcENfWlNRaFUzVll4TDRXemhvYjRCdTB6ODFJNTFXQ09wSUcyemd6clY1UlJFR0phNTlB"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-21T06:48:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWdhNi1GR1prX1l2NVpIQ3Z1ZGpHbkVvb0hWR1RibnZ0MHZRWE0wMDQyZFJfWlRxTktZSFB5eEpLdjhCbWoxNllyMTJpMkNIQXNSenlzMmZoTlJaMmhVZDYyYzU5MnNrOHhEb1VJUm83Wk4zV2VVYWZiWDVQQ2wwMTVkZkFVZmtPdmNj"
     }
    ],
    "category": "其他",
@@ -915,6 +920,23 @@
    "zh_summary": "谷歌发布TorchTPU意在打破英伟达AI算力主导",
    "title_zh": "谷歌发布TorchTPU，欲打破英伟达AI算力垄断",
    "sentiment": -1
+  },
+  {
+   "id": "8be537282a7a",
+   "title": "Nvidia’s $35B China Order: What Investors Should Note - NAI500",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaFNKNHpVRDdYMlZsOWR2LW9ZNE0xaGI0Qm92eW43VUlFVEZma2d0dmszSDdrNERYdzN6V3N4Zi1OdWZpQzRvUVRPTHFJb2hyUmZ3ZWFHc0FNam82Rk5WVEJRSE5ZeG5MdGpzM0gtdnBBODdKVThncWtpc1ZoQXo1blFtTjRoeElQYjdV",
+   "source": "NAI500",
+   "published_at": "2026-10-21T01:14:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NAI500",
+     "published_at": "2026-10-21T01:14:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaFNKNHpVRDdYMlZsOWR2LW9ZNE0xaGI0Qm92eW43VUlFVEZma2d0dmszSDdrNERYdzN6V3N4Zi1OdWZpQzRvUVRPTHFJb2hyUmZ3ZWFHc0FNam82Rk5WVEJRSE5ZeG5MdGpzM0gtdnBBODdKVThncWtpc1ZoQXo1blFtTjRoeElQYjdV"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘后"
   },
   {
    "id": "15ce9287b6b1",
@@ -3089,6 +3111,28 @@
    "sentiment": -1
   },
   {
+   "id": "3a58e5a0a822",
+   "title": "21:39:45【美股市值前十公司盘初罕见全线下跌 英伟达、苹果等集体承压】 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yZU1xenp2d1JYeWRwLUl2ckRlV2lkcm9qNWdmY3NGbUQ4blotdWROak5SMWhYcGhubWFxSmRjM1Yxb1Zjamg5LQ",
+   "source": "财联社",
+   "published_at": "2026-10-20T13:43:48+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-20T13:43:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yZU1xenp2d1JYeWRwLUl2ckRlV2lkcm9qNWdmY3NGbUQ4blotdWROak5SMWhYcGhubWFxSmRjM1Yxb1Zjamg5LQ"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-20T22:45:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRbVNBX1dhOFk0MWFYQUJDQkJxNkhKZHJQdVViSzBzNDJ2anlCREJOaE5ELUd2M3c4eXQ3R0lfTWx2bWJWYnZVYUU5ak1fNEZOV0tpZUVjbVpTSnBvckJFaFdzOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "02b483bc1935",
    "title": "美股讯号 | 英伟达等市值前十公司全线下跌，市场情绪承压 ｜#美股资讯# #英伟达# #股价波动# - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeXV0WU5VNTNIWC1Ka0twVUgwcUI5ZzZmS1c0RXIyck1yZUFwaU1kenlUWnl4cEFoeF9CNWFkbzVPbWxHTEpsVlBueHdPbzFFY0tvWWFxaEw2YmphbnF4RnZjZjJMeXVxMUMtMEh1WUJwLV9HT0ZxU0UxcHVXYzdfcmROeEdSUW9GblhBbw",
@@ -4658,26 +4702,6 @@
    }
   },
   {
-   "id": "40f79f066d7c",
-   "title": "NVIDIA Corporation $NVDA Stock Bought by Tudor Financial Inc. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1I5dDhxam1qeHg0aE14MTJLN0o2V1hsRDVpSWc2TmRpaFl2aXlKWkY2MUdmU1J4bHJyd1c2a2N6Y0d6SXNrdU5nemJKRF9SYk5kY2tkeDc1Tjcwa1k0M0dGTzRDa2JPWmw5YXVlclFJZ2hIcm12aUt6NUhxclhGV1dUNlpkaFFCZmR6M1kyRnpBNW41U284MlpxbFVoUk13cEd5Q01ua29XMUw2VHd6YzZZLXFFUlhoeEJtcg",
-   "source": "MarketBeat",
-   "published_at": "2026-10-20T09:04:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-20T09:04:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1I5dDhxam1qeHg0aE14MTJLN0o2V1hsRDVpSWc2TmRpaFl2aXlKWkY2MUdmU1J4bHJyd1c2a2N6Y0d6SXNrdU5nemJKRF9SYk5kY2tkeDc1Tjcwa1k0M0dGTzRDa2JPWmw5YXVlclFJZ2hIcm12aUt6NUhxclhGV1dUNlpkaFFCZmR6M1kyRnpBNW41U284MlpxbFVoUk13cEd5Q01ua29XMUw2VHd6YzZZLXFFUlhoeEJtcg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Tudor Financial买入英伟达股票",
-   "title_zh": "Tudor Financial买入英伟达$NVDA股票",
-   "sentiment": 1
-  },
-  {
    "id": "a703ab667ae7",
    "title": "投资者拒绝认购IPO后，英伟达拟进一步投资GPU云厂商Firmus - 36Kr",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DSUw2SDhPSkNfaS1RNTY2UDJoUi1SN0w3a3lkMWUyaXprem5tUmhId0oyYlRQOS1JcEpnSW0wcE5nTHA4RmlvTjk4UG5rZU0yQWhab1FTVm8",
@@ -4908,26 +4932,6 @@
    "sentiment": 0
   },
   {
-   "id": "8717b137a1b4",
-   "title": "NVIDIA Corporation $NVDA Stock Purchased by Knollwood Investment Advisory LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUZXc3hfUmFocXZjTXZjeU1oNThKRVFzTmNDNWtDMDFFM2hEQVV4VlQzNUtnWFJ0eDVXWm1zS0pOaHVtbWZRR1VtV0hUb3RCZDVaUl83TlhiemJEQzU5cUhIVmduNlpISktJS2RGbVJVV29VRjZFMDVNOUE0LTdBWDh4R245b2NjS3Q5SGlrUmYwOWtjRjBjLTRYOWplYkMwd3BteXdZUDhUYng4N3pqRFFCeVF0Y2JvY3ZsVk9EVkQtVkFQOFZWeTk1NG9nY3FNQ0N3",
-   "source": "MarketBeat",
-   "published_at": "2026-10-20T08:05:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-20T08:05:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUZXc3hfUmFocXZjTXZjeU1oNThKRVFzTmNDNWtDMDFFM2hEQVV4VlQzNUtnWFJ0eDVXWm1zS0pOaHVtbWZRR1VtV0hUb3RCZDVaUl83TlhiemJEQzU5cUhIVmduNlpISktJS2RGbVJVV29VRjZFMDVNOUE0LTdBWDh4R245b2NjS3Q5SGlrUmYwOWtjRjBjLTRYOWplYkMwd3BteXdZUDhUYng4N3pqRFFCeVF0Y2JvY3ZsVk9EVkQtVkFQOFZWeTk1NG9nY3FNQ0N3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Knollwood投资顾问增持NVDA",
-   "title_zh": "Knollwood投资顾问买入英伟达(NVDA)股票",
-   "sentiment": 1
-  },
-  {
    "id": "ffee9e21f913",
    "title": "Nvidia扩展Nemotron大语言模型家族，推出面向智能体系统的超高效模型 - 至顶网",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wVXR5TS1BMXRuaTQ5NHBoNWJSeXRiY0xuZ1dEMjVDWGpPdTJtZlRhWGRCVml2YUk0NE1SUDNjaFdEbkdZVmgySGxncE51WURzSW5sQXNfQlBxb2Q2N1oweXNrTQ",
@@ -5039,46 +5043,6 @@
    "session": "盘前",
    "zh_summary": "英伟达入股四家初创公司",
    "title_zh": "英伟达入股Agile Robots等四家公司",
-   "sentiment": 1
-  },
-  {
-   "id": "8916d6a41946",
-   "title": "NVIDIA Corporation $NVDA Shares Newly Purchased by FirstWave Capital Management LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYk5QS0NrMWFDa05Lc3F0MGxLYUV2T1A4cDd3WGZtbGF3LXJJZ1J6TlB6WjhpWllHWXJzQVVza2hTQVRGaWx5eEdNVjRvZWtGak1BNW91RUJFX0g1QWJGM3NSLWQ3bkFJakpLdUJyelJyQ1kybGRCNGMwcU5aMkFrT09jcXVnNlR1T09ISHNtd2JvRmkzWWVaSng3ZnkxRFlOd0dxVVpBc3RVcUZHVU05SEp4eXlma2t1QnAtU1F4Uk81UDRnTlFveVVuRnY4eTgzX2NOenhsak1zV2c",
-   "source": "MarketBeat",
-   "published_at": "2026-10-20T07:42:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-20T07:42:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYk5QS0NrMWFDa05Lc3F0MGxLYUV2T1A4cDd3WGZtbGF3LXJJZ1J6TlB6WjhpWllHWXJzQVVza2hTQVRGaWx5eEdNVjRvZWtGak1BNW91RUJFX0g1QWJGM3NSLWQ3bkFJakpLdUJyelJyQ1kybGRCNGMwcU5aMkFrT09jcXVnNlR1T09ISHNtd2JvRmkzWWVaSng3ZnkxRFlOd0dxVVpBc3RVcUZHVU05SEp4eXlma2t1QnAtU1F4Uk81UDRnTlFveVVuRnY4eTgzX2NOenhsak1zV2c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "FirstWave新购入NVDA股份",
-   "title_zh": "FirstWave新买入英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "9378979e5b55",
-   "title": "NVIDIA Corporation $NVDA Stock Acquired by Odyssean LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX2VIdGpWM3RvYkZHbXhlSVBHbER1QzJRV1dGdXpIN0NsaEVNRm5MYUZPbHFwbVRMSy1lQjFyMkU3LVFrZ3JFXzhCLWppMW1ROWJsckhZTE90QUdlMmdlVUVRdk1jaHFtZEVFU1I1NWJyV001TkpIdWxtcXB1d2tVQUV0N1ltNzhyTEloNEZhZ0pOVmJDVFA5WGxxZFJxbC1TWjdNUENyQlhYdExEOWJQdkpjUWNJQQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-20T07:42:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-20T07:42:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX2VIdGpWM3RvYkZHbXhlSVBHbER1QzJRV1dGdXpIN0NsaEVNRm5MYUZPbHFwbVRMSy1lQjFyMkU3LVFrZ3JFXzhCLWppMW1ROWJsckhZTE90QUdlMmdlVUVRdk1jaHFtZEVFU1I1NWJyV001TkpIdWxtcXB1d2tVQUV0N1ltNzhyTEloNEZhZ0pOVmJDVFA5WGxxZFJxbC1TWjdNUENyQlhYdExEOWJQdkpjUWNJQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Odyssean增持NVDA股票",
-   "title_zh": "Odyssean增持英伟达股票",
    "sentiment": 1
   },
   {
@@ -6677,6 +6641,40 @@
    "zh_summary": "分析师称某炼油商今年跑赢英伟达还能涨16%",
    "title_zh": "今年某炼油股跑赢英伟达，分析师预计还能涨16%",
    "sentiment": -1
+  },
+  {
+   "id": "7340a6b39901",
+   "title": "告别有机基板！英伟达下一代CPO原型曝光：单光纤256Gb/s - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VRFVtTkVXQTVoZXlIWG1seTFPTVU0cTZLVGVmaDg4Y0FPZVhvM2NQT01ZLWlRYVNHTHV2SnZMLV90S0kyQlNvcHBTdW93YXExVk9UMkk4STc",
+   "source": "驱动之家",
+   "published_at": "2026-10-20T01:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-20T01:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VRFVtTkVXQTVoZXlIWG1seTFPTVU0cTZLVGVmaDg4Y0FPZVhvM2NQT01ZLWlRYVNHTHV2SnZMLV90S0kyQlNvcHBTdW93YXExVk9UMkk4STc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "040635f3b8ff",
+   "title": "AI暴跌，苹果新高！5万亿市值超越英伟达，这合理吗？ - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xZGZTc0V4bElLeGw3d3B5WXZ3ZWVFM24yYTJza1owMjJicTRLaUtqdlRBdW54V1JMM2ZjWTl3ejlJQ2pnWWpJZGk0Qmk1dGpEMC1F",
+   "source": "华尔街见闻",
+   "published_at": "2026-10-20T01:16:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-20T01:16:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xZGZTc0V4bElLeGw3d3B5WXZ3ZWVFM24yYTJza1owMjJicTRLaUtqdlRBdW54V1JMM2ZjWTl3ejlJQ2pnWWpJZGk0Qmk1dGpEMC1F"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   }
  ]
 }
