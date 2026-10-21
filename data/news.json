@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T16:21:29.612783+00:00",
+ "updated_at": "2026-10-21T16:51:36.319536+00:00",
  "market": {
-  "price": 220.38,
-  "change_pct": 1.81,
+  "price": 220.98,
+  "change_pct": 2.08,
   "as_of": "2026-10-21",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.86,
-   "count": 298
+   "count": 295
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +42.9%"
+     "note": "目标价中位数 $315（15家），隐含空间 +42.5%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.86（298条已评分）"
+     "note": "今日新闻情绪 +0.86（295条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $220.38 vs 20日均线 $226.79"
+     "note": "现价 $220.98 vs 20日均线 $226.82"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 75,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 42.9,
-   "ma20": 226.79,
-   "as_of": "2026-10-21T16:21:29.597821+00:00"
+   "implied_upside_pct": 42.5,
+   "ma20": 226.82,
+   "as_of": "2026-10-21T16:51:36.306427+00:00"
   },
-  "pe_ttm": 28.0,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+42.9%空间：估值偏低，预期乐观"
+  "pe_ttm": 28.1,
+  "pe_pct_5y": 25,
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "addb3100709a",
+   "title": "中国科技巨头350亿美元英伟达订单，折射其国产替代方案短板 - 美国之音",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVVGamdubEMydGp6RzBselRzODcxYmlocFdQMVZlU3lQSUJSNFg2TGVNQ0lELWZXSzRVVGptTWNpV2xjUXBlMWxIWTNuY25TMktrS0lxaDI5MF9XajZoYW5MTzhkOWdJYjNUYjZ6ajQ2c2NEZDVFQklQbl8wVkotNEItU3VEcEdFSGQ4MWVIaUdvbFlQZHZ6VmNqbkVOSW9aRV9zWnAtMEtzaHo0NlhZNFJ3QkFoaFZtYlpiRGZ0Y1QzTnRaU1B1SzMxaTEzTC1yaUx2Z28yUmrSAdsBQVVfeXFMTk5iN1BIMVQwa3VlWFp4SGZYYzFScUwyZ084OEhfdjhySmZ2UU95Y3VZeEI2SWxXT1ZhcVVhd0wzaEF1QlVfVWdLellYRkdSZnRFNWtuRHphUkxfanMzQk1FR2lYNXZIclUtNmpsVFVMUDZhNE1oN29tN2ZKSno0alNkZHRuWmkxVDlsMW9aTTVLckJHanpuU19URUhTa3hHOE5ieHBSSm1fVjk3eldVOXI3LTUyTkVzaDhYR3NHOTliVUgwNjBLbTJUSjhPZzlrRy12T2F5b0VpY1dN",
+   "source": "美国之音",
+   "published_at": "2026-10-21T16:31:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "美国之音",
+     "published_at": "2026-10-21T16:31:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVVGamdubEMydGp6RzBselRzODcxYmlocFdQMVZlU3lQSUJSNFg2TGVNQ0lELWZXSzRVVGptTWNpV2xjUXBlMWxIWTNuY25TMktrS0lxaDI5MF9XajZoYW5MTzhkOWdJYjNUYjZ6ajQ2c2NEZDVFQklQbl8wVkotNEItU3VEcEdFSGQ4MWVIaUdvbFlQZHZ6VmNqbkVOSW9aRV9zWnAtMEtzaHo0NlhZNFJ3QkFoaFZtYlpiRGZ0Y1QzTnRaU1B1SzMxaTEzTC1yaUx2Z28yUmrSAdsBQVVfeXFMTk5iN1BIMVQwa3VlWFp4SGZYYzFScUwyZ084OEhfdjhySmZ2UU95Y3VZeEI2SWxXT1ZhcVVhd0wzaEF1QlVfVWdLellYRkdSZnRFNWtuRHphUkxfanMzQk1FR2lYNXZIclUtNmpsVFVMUDZhNE1oN29tN2ZKSno0alNkZHRuWmkxVDlsMW9aTTVLckJHanpuU19URUhTa3hHOE5ieHBSSm1fVjk3eldVOXI3LTUyTkVzaDhYR3NHOTliVUgwNjBLbTJUSjhPZzlrRy12T2F5b0VpY1dN"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "577fa0140732",
+   "title": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE",
+   "source": "Reuters",
+   "published_at": "2026-10-21T16:21:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-21T16:21:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "01f0894c9045",
+   "title": "Nvidia and Microsoft want to kill PC gaming’s shader-stutter nightmare - PCWorld",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWhaZlU4TXMtbEVNelBHa28zV2s1dkV2VVBJYTVpMmthTzR1ZmxYdUNEaHI3ajVHOUV2Y0FGRllmN1djZV9vM0hvbjdjZmIzSzRuR3k2a3hzblVqRG5fUHVIUXhqcG1feVNiMUtrX295MDhrV0xDcE9TVTU0ZFItQUVNaTZ2ZGhuNEhWSTFIS3ZoaEJua1MyNDFpVEM3OFM1Mlp3MHlMd043M1lKcHBaUmJBSm4",
+   "source": "PCWorld",
+   "published_at": "2026-10-21T16:20:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PCWorld",
+     "published_at": "2026-10-21T16:20:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWhaZlU4TXMtbEVNelBHa28zV2s1dkV2VVBJYTVpMmthTzR1ZmxYdUNEaHI3ajVHOUV2Y0FGRllmN1djZV9vM0hvbjdjZmIzSzRuR3k2a3hzblVqRG5fUHVIUXhqcG1feVNiMUtrX295MDhrV0xDcE9TVTU0ZFItQUVNaTZ2ZGhuNEhWSTFIS3ZoaEJua1MyNDFpVEM3OFM1Mlp3MHlMd043M1lKcHBaUmJBSm4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "07b42d8f632c",
    "title": "Is It Too Late to Buy Nvidia Stock? - The Motley Fool",
@@ -77,8 +128,8 @@
    ],
    "category": "其他",
    "session": "盘中",
-   "title_zh": "现在买入英伟达股票还来得及吗？",
    "zh_summary": "分析探讨现在买入英伟达是否为时已晚",
+   "title_zh": "现在买入英伟达股票还来得及吗？",
    "sentiment": 0
   },
   {
@@ -161,12 +212,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmVuQmhWZmtUNFl2dDlRRnQwaUxBQVNldzljZG5ybFc2RXkzdDJZRmlxaEZnQlRtWTJkblFhbW5rdEgzOUNrYnZ1dkliS0pPSko5OGVGWmpNLUdrQ19JWkR2TWhFWkNoVjR4ZGJ2RGJvVXpSMTB5UmhodERiTWlaRXJZck1paVNK",
    "source": "搜狐",
    "published_at": "2026-10-21T15:25:18+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-21T15:25:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmVuQmhWZmtUNFl2dDlRRnQwaUxBQVNldzljZG5ybFc2RXkzdDJZRmlxaEZnQlRtWTJkblFhbW5rdEgzOUNrYnZ1dkliS0pPSko5OGVGWmpNLUdrQ19JWkR2TWhFWkNoVjR4ZGJ2RGJvVXpSMTB5UmhodERiTWlaRXJZck1paVNK"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-21T15:50:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qeWRfZ1o2bzZUQ2xfLUZXdDdRSVZUR29XR0VZSVpVUmtkNjNpNDZnOU5pUWZOYkZ0Ti1MTWFZcno4VGQ2ZEphRUJzUVVxWW4zbDVBVl80VXc0Wl93YzFxVzRVOElxM3dCQ05QVjVGVmJzVEdrVHFxNE5tYVc"
     }
    ],
    "category": "其他",
@@ -319,6 +375,23 @@
    "zh_summary": "宝可梦卡或超英伟达成最佳资产",
    "title_zh": "宝可梦卡可能很快超越英伟达成为最佳表现资产",
    "sentiment": 0
+  },
+  {
+   "id": "5f013b8c0297",
+   "title": "Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision - The Register",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNjVuOVNWN2NTdjJjZ1Rrb2hIZm9GN29FRGtXcnUtRkJ0Y0pMQk04azFIekU0bHh6Tm9ITlZDWFpBanBNWHFvRUdLWnNONzg3ZFpPdVpIYVg3bDJCaG1mMjZIYXpzNUoxYUw1UENsc3hIaVFCcjE1cTlnN2g5NXBzM2NNRXpDVkJmVHQxZkFUM3VXOE5KN0YtV20tbU5ScExzNDdESnlhZUI2M0lfdUlia2NhUVBKdmNIZWV2UUNnZGJCRmdrb0RzTUduYw",
+   "source": "The Register",
+   "published_at": "2026-10-21T15:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Register",
+     "published_at": "2026-10-21T15:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNjVuOVNWN2NTdjJjZ1Rrb2hIZm9GN29FRGtXcnUtRkJ0Y0pMQk04azFIekU0bHh6Tm9ITlZDWFpBanBNWHFvRUdLWnNONzg3ZFpPdVpIYVg3bDJCaG1mMjZIYXpzNUoxYUw1UENsc3hIaVFCcjE1cTlnN2g5NXBzM2NNRXpDVkJmVHQxZkFUM3VXOE5KN0YtV20tbU5ScExzNDdESnlhZUI2M0lfdUlia2NhUVBKdmNIZWV2UUNnZGJCRmdrb0RzTUduYw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "9c025450ae14",
@@ -3460,8 +3533,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "思科联手英伟达OpenShell保护企业代码代理",
    "zh_summary": "思科联手英伟达OpenShell防护代码代理",
+   "title_zh": "思科联手英伟达OpenShell保护企业代码代理",
    "sentiment": 1
   },
   {
@@ -4523,26 +4596,6 @@
    "sentiment": 1
   },
   {
-   "id": "b4a4cd3b4095",
-   "title": "欧洲汽车厂商加速基于英伟达Hyperion平台开发自动驾驶汽车及Robotaxi - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uYkZmZHkwdFVyd2RuN2ZjUldsb3ByV2xrVmdMNFNLXy1zY1FyR2xtMEYxQnltTXh5LUtncXlQcDRreEJKTFllcEEzaWV0SFE0cVFjTGhQT3lCQVZKeGVVOWlBcnBYQQ",
-   "source": "东方财富",
-   "published_at": "2026-10-21T10:40:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T10:40:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uYkZmZHkwdFVyd2RuN2ZjUldsb3ByV2xrVmdMNFNLXy1zY1FyR2xtMEYxQnltTXh5LUtncXlQcDRreEJKTFllcEEzaWV0SFE0cVFjTGhQT3lCQVZKeGVVOWlBcnBYQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "欧洲车企加速采用Hyperion平台",
-   "title_zh": "欧洲汽车厂商加速基于英伟达Hyperion平台开发自动驾驶汽车及Robotaxi",
-   "sentiment": 1
-  },
-  {
    "id": "3eec70b8fbdf",
    "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents - NVIDIA Blog",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzc3ZkVrM1VNUndSTEE5NGl6UmRQVGdzUS1yck5nT094Y2ktNW5IZ2J1TjI3S3J6dFNqOXRacUxwR29TY19CeHpmaUFaX1RPaTNVQ0RRY3FoVjFKYVhVbWJ2Smd0TnozRWcyV2hqelBmdFRqeVFYbDBUWGNIcTMyTTQ0TEtvMnJZ",
@@ -4635,66 +4688,6 @@
    "session": "盘前",
    "zh_summary": "英伟达携供应链伙伴扩产",
    "title_zh": "英伟达携供应链伙伴扩产 加速AI基础设施建设",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.5,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "42cbdfa3b68e",
-   "title": "英伟达携手医疗及生命科学企业 推进药物发现与精准癌症治疗 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTktWaHhGZjlMeWljbjBHalhqNVNlTG5lLUVJaGtwekY0UHZFNUVrMWJqWHdBdVRhc1ZxTG5CdUhlemQzNjBtcGJrbl9Hblo3ZjVVWld1M1ZBRmJINHZ3Um1EWWRtSTkwYkpqUldpMTJtYnN0M1FmcEZFZ2t0UHlZNG9WNE9DdHZ5ZFc3RQ",
-   "source": "搜狐",
-   "published_at": "2026-10-21T10:31:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-21T10:31:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTktWaHhGZjlMeWljbjBHalhqNVNlTG5lLUVJaGtwekY0UHZFNUVrMWJqWHdBdVRhc1ZxTG5CdUhlemQzNjBtcGJrbl9Hblo3ZjVVWld1M1ZBRmJINHZ3Um1EWWRtSTkwYkpqUldpMTJtYnN0M1FmcEZFZ2t0UHlZNG9WNE9DdHZ5ZFc3RQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达携手医疗企业推进药物发现",
-   "title_zh": "英伟达携手医疗及生命科学企业 推进药物发现与精准癌症治疗",
-   "sentiment": 1
-  },
-  {
-   "id": "01f6df6c371d",
-   "title": "英伟达升级Isaac机器人平台 推出人形机器人参考框架与仿真工具 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IaXJtVmY4Z1RaOFNUX1FsX0FpbnVUaUhocENSR0Y5U3QtT0N6aExQQnFReFNUU0N6R09KSUU1allRQk1yUU5jZTl3Q2o5aVlHYTlaaVR6MzlJYWFWdDE5OTA1RQ",
-   "source": "东方财富",
-   "published_at": "2026-10-21T10:30:11+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T10:30:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IaXJtVmY4Z1RaOFNUX1FsX0FpbnVUaUhocENSR0Y5U3QtT0N6aExQQnFReFNUU0N6R09KSUU1allRQk1yUU5jZTl3Q2o5aVlHYTlaaVR6MzlJYWFWdDE5OTA1RQ"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-21T10:33:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN0JkdkN4dGJJWEVORDhGdXFrTF9NWFNvZndYRjhUMkJ0SmFNVFliaWpDbEplXzRZUDhzTGV1MjJLZTItNGVxcERIa29PRmFPSWg0N0ZWS2l1WW43RW5VTWtybEIyU29LMWFCWDVGUEprb2NCNlpPQUE1QmpiVlY5T0RucmZQS1FmQ1hpcw"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-21T10:33:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHo0NTM3SlBkNzNJaHhobEdYQk04VTJGb1FBZXZyQjFQX0VEaHlac0ptYW9fWEFXXzVRZW5LVE9RRlo3djlLZm1DTlpmMXZoVUVZdC10OXhTTV9GdmxZdWxRX2pJOFYxTjg4MUlpQXhiWWQxOFdldDVXRDF0SG5uT3pQa083V1dkU1o2dm5NQTNjbFdWU1FzaVZaWV8"
-    },
-    {
-     "name": "财联社",
-     "published_at": "2026-10-21T10:35:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TazRkaU1yMWtYQmR4dkFkcURZZllmVERYeDNMWmRUVGFTR2NVckdRelVfUWY3V1c2YW1xanBlYmUweGxlMV9WRg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "英伟达升级Isaac机器人平台",
-   "title_zh": "英伟达升级Isaac机器人平台 推出人形机器人参考框架与仿真工具 - 东方财富",
    "sentiment": 1,
    "price_reaction": {
     "pct": -0.5,
@@ -5087,31 +5080,6 @@
    "sentiment": 0
   },
   {
-   "id": "67ec02af10cd",
-   "title": "英伟达、诺基亚与全球主要电信运营商推动通信网络转型为分布式智能平台 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4weTJ6dlVzSU1FZG43TWlSc205T0NqOGFvNEZ0aHdCcW54a3RGRmpfYnZHelhyNXlMSHRWQmx2RGhyVEgwS3AyNnc3dTNuWHpCNlFGWllDMnFreWFadWRucUFZdw",
-   "source": "东方财富",
-   "published_at": "2026-10-21T10:16:26+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T10:16:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4weTJ6dlVzSU1FZG43TWlSc205T0NqOGFvNEZ0aHdCcW54a3RGRmpfYnZHelhyNXlMSHRWQmx2RGhyVEgwS3AyNnc3dTNuWHpCNlFGWllDMnFreWFadWRucUFZdw"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-21T10:20:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFQxT1R1X2syYi0xWDNQNUt2bUNDRTg1RnozSi1HUU8ycGNIRDB6TVNKMk9haVRQOVEwX1h2N2tpRTI5M2Y1aE5vbXNxWjdxMVNzSXpPTjZGQ2NGSWtxUW0yaWhVYU1uT2VCLXVEN2QtX1FHMFdIdEd0dXFKVHJqNWlSSEUtSjViRjE0VlpGUllHY0xBTklhZk1aMEZXQi03TU0yRzVsbw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达诺基亚推智能网络平台",
-   "title_zh": "英伟达、诺基亚与全球主要电信运营商推动通信网络转型为分布式智能平台 - 富途牛牛",
-   "sentiment": 1
-  },
-  {
    "id": "6ffcb99f2c40",
    "title": "英伟达推出新产品 - 新浪财经",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xR19kSi0zSllBY2VzQlkzUWxaYWltMHVRYnRJNms0VnBUZW5fd19sRnFncTdsYnAya1JwVUpyWmVGYUw4eUhwSWdzWVdNbXpfUHZsTUpwSlNhUUMwdlM4MmpDTlFYTHJVOEUxNEtmX0FDaHR3Vmc",
@@ -5135,6 +5103,65 @@
    "zh_summary": "英伟达推出新产品",
    "title_zh": "英伟达推出新产品 - 新浪财经",
    "sentiment": 1
+  },
+  {
+   "id": "42cbdfa3b68e",
+   "title": "英伟达携手医疗及生命科学企业 推进药物发现与精准癌症治疗 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tMm5hVFZWd0JTMm5TckhyLXRxVk1iSlMxMG1OMFpvMzZVX0NNdnpzY2lNZkZTMU1rTkNxQ1Nod3EwUHRiYk9iU0o3cw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-21T10:13:40+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-21T10:13:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tMm5hVFZWd0JTMm5TckhyLXRxVk1iSlMxMG1OMFpvMzZVX0NNdnpzY2lNZkZTMU1rTkNxQ1Nod3EwUHRiYk9iU0o3cw"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-21T10:31:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTktWaHhGZjlMeWljbjBHalhqNVNlTG5lLUVJaGtwekY0UHZFNUVrMWJqWHdBdVRhc1ZxTG5CdUhlemQzNjBtcGJrbl9Hblo3ZjVVWld1M1ZBRmJINHZ3Um1EWWRtSTkwYkpqUldpMTJtYnN0M1FmcEZFZ2t0UHlZNG9WNE9DdHZ5ZFc3RQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "英伟达携手医疗企业推进药物发现",
+   "title_zh": "英伟达携手医疗及生命科学企业 推进药物发现与精准癌症治疗",
+   "sentiment": 1
+  },
+  {
+   "id": "67ec02af10cd",
+   "title": "英伟达、诺基亚与全球主要电信运营商推动通信网络转型为分布式智能平台 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tLVdPYnluNnBNR05FTlV5MnBqV2dFRnBWeFNwdVJxQXRMckIyM0ljRHEwLUFGVnVsY0xlWWxodFA3d1Z6amNGZ2J2aw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-21T10:11:43+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-21T10:11:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tLVdPYnluNnBNR05FTlV5MnBqV2dFRnBWeFNwdVJxQXRMckIyM0ljRHEwLUFGVnVsY0xlWWxodFA3d1Z6amNGZ2J2aw"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-21T10:16:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4weTJ6dlVzSU1FZG43TWlSc205T0NqOGFvNEZ0aHdCcW54a3RGRmpfYnZHelhyNXlMSHRWQmx2RGhyVEgwS3AyNnc3dTNuWHpCNlFGWllDMnFreWFadWRucUFZdw"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-21T10:20:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFQxT1R1X2syYi0xWDNQNUt2bUNDRTg1RnozSi1HUU8ycGNIRDB6TVNKMk9haVRQOVEwX1h2N2tpRTI5M2Y1aE5vbXNxWjdxMVNzSXpPTjZGQ2NGSWtxUW0yaWhVYU1uT2VCLXVEN2QtX1FHMFdIdEd0dXFKVHJqNWlSSEUtSjViRjE0VlpGUllHY0xBTklhZk1aMEZXQi03TU0yRzVsbw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "英伟达诺基亚推智能网络平台",
+   "title_zh": "英伟达、诺基亚与全球主要电信运营商推动通信网络转型为分布式智能平台 - 富途牛牛",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.29,
+    "window_h": 2.0
+   }
   },
   {
    "id": "5ad35b0adb36",
@@ -5988,6 +6015,23 @@
    "sentiment": 0
   },
   {
+   "id": "e26cfa1e31d0",
+   "title": "字节阿里腾讯砸数百亿美金 抢购英伟达芯片 - DW.com",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOOTRQZmpXd2pHNGxSbVh1VzV3WGtYWGcydHh5RTJsbDZkeDByV3p6UnpTUGpZYUxrLXl0NDBWZ0ZYV1lDZldyT2dJUjktYUpLNDloZmpsUVJvLTNoNG5tUkFyYk5sLTJGMkxSeUNaSk5jN0RmaTFqR3cwUnE1ak1MVWx0M3VPVkRNM1NhcWxLalpsSzFSbEswM2QwbVpkRGFCY2RiTVVOdjBISjM2MEo4bjBHcmRjbHc1OVBGSFpzdHduNmFSSWVwNEV3by1yRlEyZTFMTnp6bGxXZVIxcExIZThxd055REFhYko5Q2xENGZaU2ZpSnZxTUF4RHNMcDNCU3BsUEJxQnJaZS1BdUdEX1NjX0IyOXQ4M0RPaEFSdDNKYTQ0VmJaZHBWb3VtUdIBrgJBVV95cUxNRG4xd3lOY1JNcE9XREhfMl9xUW5RRE5xVkVfMWZiTERmWm5DSnYyaDUzcG5aTWdHdjcwUmNmNEJuYnlPTVBmVUp1T3U1Y3pILWZlRGFwTlZLRDhNTXlvbUdtbVpUTmtZaWVQMGJBbEZRTURCM2xaSDM3aU00OFNSVktqQVhnV2YxRTY3RlV3MkphQ0k1dGFJa2dQeGlqejQwaHlfa05wM05mZ3I4WjhiMlF6YlhVeUcyMXRJNWhCakwwQ0RQanRhVnQ1bWl6ZVRvakhFa1BhYi1pOW1rM2s1d201QnZyaV92d2dORzJmekkwdGJ1U3JOR05SX1Rwb3UzZ3k5VTFadHNJcmE3TnVSWkJLOWl4MVBaM29xRkFhTXJScnI3NFpWRVo0LXJPQQ",
+   "source": "DW.com",
+   "published_at": "2026-10-21T09:35:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "DW.com",
+     "published_at": "2026-10-21T09:35:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOOTRQZmpXd2pHNGxSbVh1VzV3WGtYWGcydHh5RTJsbDZkeDByV3p6UnpTUGpZYUxrLXl0NDBWZ0ZYV1lDZldyT2dJUjktYUpLNDloZmpsUVJvLTNoNG5tUkFyYk5sLTJGMkxSeUNaSk5jN0RmaTFqR3cwUnE1ak1MVWx0M3VPVkRNM1NhcWxLalpsSzFSbEswM2QwbVpkRGFCY2RiTVVOdjBISjM2MEo4bjBHcmRjbHc1OVBGSFpzdHduNmFSSWVwNEV3by1yRlEyZTFMTnp6bGxXZVIxcExIZThxd055REFhYko5Q2xENGZaU2ZpSnZxTUF4RHNMcDNCU3BsUEJxQnJaZS1BdUdEX1NjX0IyOXQ4M0RPaEFSdDNKYTQ0VmJaZHBWb3VtUdIBrgJBVV95cUxNRG4xd3lOY1JNcE9XREhfMl9xUW5RRE5xVkVfMWZiTERmWm5DSnYyaDUzcG5aTWdHdjcwUmNmNEJuYnlPTVBmVUp1T3U1Y3pILWZlRGFwTlZLRDhNTXlvbUdtbVpUTmtZaWVQMGJBbEZRTURCM2xaSDM3aU00OFNSVktqQVhnV2YxRTY3RlV3MkphQ0k1dGFJa2dQeGlqejQwaHlfa05wM05mZ3I4WjhiMlF6YlhVeUcyMXRJNWhCakwwQ0RQanRhVnQ1bWl6ZVRvakhFa1BhYi1pOW1rM2s1d201QnZyaV92d2dORzJmekkwdGJ1U3JOR05SX1Rwb3UzZ3k5VTFadHNJcmE3TnVSWkJLOWl4MVBaM29xRkFhTXJScnI3NFpWRVo0LXJPQQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "0f372e09f614",
    "title": "European Ecosystem Builds World’s Most Efficient AI Factories With NVIDIA DSX - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb2lqbEZ6T05kZ2txcVE3bW1MUzJUd05naFRYUGtUSTlWRTVVOEhaNDJfc1NKRjlmaWR1OEl0d1FQWHQ3S0VtRHVKdERTTU1lTkc3NDdONy1weDl0Q1lFS1ZMWWt0WXByemRwdGQ3aEk1dmhraXViOHh2VFE0TWxoTlM4RTZ6U0xwdVdXQ1JLNmliUldfWmxsaWJrUWhLLUVPdmc",
@@ -6455,80 +6499,6 @@
    "session": "盘前",
    "zh_summary": "英伟达拟在印尼投45亿美元建AI数据中心",
    "title_zh": "英伟达考虑在印尼投资45亿美元建设AI数据中心",
-   "sentiment": 1
-  },
-  {
-   "id": "1bf433a1eb9f",
-   "title": "Nvidia simulates 104-qubit fault-tolerant quantum computer on JUPITER - The Next Web",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XbnU4R21OcHVKVU5kVjlaUUhpbC1RbjZoTmRHOXhUZjhoWl9TcXRGYnpBRjRWY015QlplXzZFallrWEZhM2pPVDliQ2JqWVRVRkxPdG9NMkZTQm8ycGJCaGpfOXBYVFMwemlYMkVGT3BrUHpyTVBF",
-   "source": "The Next Web",
-   "published_at": "2026-10-21T08:05:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Next Web",
-     "published_at": "2026-10-21T08:05:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XbnU4R21OcHVKVU5kVjlaUUhpbC1RbjZoTmRHOXhUZjhoWl9TcXRGYnpBRjRWY015QlplXzZFallrWEZhM2pPVDliQ2JqWVRVRkxPdG9NMkZTQm8ycGJCaGpfOXBYVFMwemlYMkVGT3BrUHpyTVBF"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达在JUPITER上模拟104量子比特计算机",
-   "title_zh": "英伟达在JUPITER超级计算机上模拟104量子比特容错量子计算机",
-   "sentiment": 1
-  },
-  {
-   "id": "55f9466361d1",
-   "title": "英伟达称DSX平台可将AI工厂冷却用水量降至近零 同等算力输出最多节电30% - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yWVd1MGRMVi1PTC1TMHBxejgtNnZKa0o3NGtSenh0bTB3VnVidjZobXVPV2F4dkxlYWk3SkdkaDVUZkFuUUhaM3pPUmxUam1aaWxRTWE2a0dlTFRIR2RVRlEzcw",
-   "source": "东方财富",
-   "published_at": "2026-10-21T08:00:35+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T08:00:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yWVd1MGRMVi1PTC1TMHBxejgtNnZKa0o3NGtSenh0bTB3VnVidjZobXVPV2F4dkxlYWk3SkdkaDVUZkFuUUhaM3pPUmxUam1aaWxRTWE2a0dlTFRIR2RVRlEzcw"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-21T09:58:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM1VOWm1CRTFWYzVpU1V0bXZiY1c2YWw5Mm15OTFKT3ZUT0lTemhTTTYyWk9wYUUwMUNua2luNmJ6RTFnb3FwOGVhRlNmYVVTdktlS0YzNVVCMVNqWVdhYXdselB3RW5uZDZ5TTh1SDRQd0tVa0dOWDEwSzlSbVN6Tld3"
-    },
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-21T10:01:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NSVE4aXFMQzVVUnpwZmppdHpTNzhDN1d0aHc3UzFXbk5GWkN0ejhFSHp0T21lOGpWNE5zYVUtckpTSkozVTBTU2w4cFFJX2ozcjRTTWNmQ1c"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达DSX平台节水节电30%",
-   "title_zh": "英伟达称DSX平台可将AI工厂冷却用水量降至近零，同等算力输出最多节电30% - 新浪网",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.29,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "833263d93fab",
-   "title": "Partnership Accelerates Edge AI Vision Deployment Across NVIDIA Jetson Platforms - Unmanned Systems Technology",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONXphb2VBczZlVjUwc1JKamNUalBPaGR2OUJxV3JTWjBmbWJXSVRJME5rWHYxZEtpd3QtbTFxblJlRVJoZk8wWFZuQUlBcFZFMUVwcE9LUEtMeWF4dURDV0o1MENUMFd1aVV1UjhvaHBlYUFPdFJzVXZ1S2hvUWNmMjFhTWFMS255Z2s3b1pXcmtXLTNvdHNRNzNaeEt3NVlyYXdkYmVYQ2dMYU9VUGx5ZU16WUxxdC1TRGx1VUhLYlRraEkwYXE1S3hlWQ",
-   "source": "Unmanned Systems Technology",
-   "published_at": "2026-10-21T07:55:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Unmanned Systems Technology",
-     "published_at": "2026-10-21T07:55:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONXphb2VBczZlVjUwc1JKamNUalBPaGR2OUJxV3JTWjBmbWJXSVRJME5rWHYxZEtpd3QtbTFxblJlRVJoZk8wWFZuQUlBcFZFMUVwcE9LUEtMeWF4dURDV0o1MENUMFd1aVV1UjhvaHBlYUFPdFJzVXZ1S2hvUWNmMjFhTWFMS255Z2s3b1pXcmtXLTNvdHNRNzNaeEt3NVlyYXdkYmVYQ2dMYU9VUGx5ZU16WUxxdC1TRGx1VUhLYlRraEkwYXE1S3hlWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "合作加速边缘AI视觉在Jetson平台部署",
-   "title_zh": "合作加速英伟达Jetson平台边缘AI视觉部署",
    "sentiment": 1
   }
  ]
