@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-20T23:51:29.256311+00:00",
+ "updated_at": "2026-10-21T00:06:38.833877+00:00",
  "market": {
-  "price": 216.47,
-  "change_pct": -0.29,
+  "price": 217.09,
+  "change_pct": 1.38,
   "as_of": "2026-10-20",
   "next_earnings": {
    "date": "2026-11-17",
@@ -20,12 +20,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 69% 分位"
+     "note": "现价处于52周区间 70% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +45.5%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.1%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.47 vs 20日均线 $227.04"
+     "note": "现价 $217.09 vs 20日均线 $227.66"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 69,
+   "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 45.5,
-   "ma20": 227.04,
-   "as_of": "2026-10-20T23:51:29.240584+00:00"
+   "implied_upside_pct": 45.1,
+   "ma20": 227.66,
+   "as_of": "2026-10-21T00:06:38.821220+00:00"
   },
-  "pe_ttm": 27.5,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.5%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.6,
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "5f1a0d15799a",
+   "title": "一位英伟达前高管转型VC：机器人行业还没迎来“ChatGPT时刻” - 至顶网",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nRlRibjhJTWRnN2RWZi1UcUJzbzNxQVV4NmlaUWhHM2VlaDJlbXhsQ3ZzdzdScUpxTGRoeEJmUkVrRUo5UENiMng1UjYyTVFnVWJId1VpQVNaUWZZMVFsYUVyeThPNEVtYkE",
+   "source": "至顶网",
+   "published_at": "2026-10-21T00:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "至顶网",
+     "published_at": "2026-10-21T00:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nRlRibjhJTWRnN2RWZi1UcUJzbzNxQVV4NmlaUWhHM2VlaDJlbXhsQ3ZzdzdScUpxTGRoeEJmUkVrRUo5UENiMng1UjYyTVFnVWJId1VpQVNaUWZZMVFsYUVyeThPNEVtYkE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "6abc1d96f863",
    "title": "英伟达豪掷1700亿押注GPU云 - 搜狐",
@@ -190,6 +207,23 @@
    "zh_summary": "谷歌开源TorchTPU挑战英伟达AI生态主导",
    "title_zh": "谷歌开源TorchTPU，挑战英伟达AI生态主导地位 - 新浪网",
    "sentiment": -1
+  },
+  {
+   "id": "9a7da46ade36",
+   "title": "NVIDIA Has January Discontinuation Dates Set for RTX 5090 and RTX 5080 16 GB, Claims Leaker - TechPowerUp",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZVFRXzJGZUxscnpraHJuOTVKMmtFWGJsVTRKMXVRdHhRSnVRZzRDWVkyRGFmZDhteEtiVnJhNmFLWTFvd0ZVUkwybXJ0cjdGUzdyYVYyb2RPa1dpTmxmdHF3Y3JXNEJsYldjbmFyMGJ2blpFVlU5aHh5TEJvQnhoVS1zYnE0UWc4M1A5eWp0eFlWRUI4LUxjRHBETTJwZnhMRUJBWHh2V0g1RUo2cWZ2b01PdlJFOUZQU2xlN2YybmFscDjSAcgBQVVfeXFMTk1aZllMUy0tTnhJNk93UWZsc0haZkVoM0JCVVEweTFVZ3dvbHRxT3RKbXBBZDRNQS1NQkg5LU1tYm1FLUNIZ2IwZk9aaHFzbnNnOXpzOHFtNHNIa2NyYmRNdWtSRVVjQ1lxUWZKb2NyYjV3anRpRFZjVDRzUHlkUldYYVVZQ2lzSk93T3F3NFRkY1p2Q2hhSS10aG95ZE1Dd1hRMnAyeWM4Q0lIVE5jV3VEVm96eTVvRlBnXzFfRDZaSGQ1aHZzOS0",
+   "source": "TechPowerUp",
+   "published_at": "2026-10-20T22:57:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-10-20T22:57:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZVFRXzJGZUxscnpraHJuOTVKMmtFWGJsVTRKMXVRdHhRSnVRZzRDWVkyRGFmZDhteEtiVnJhNmFLWTFvd0ZVUkwybXJ0cjdGUzdyYVYyb2RPa1dpTmxmdHF3Y3JXNEJsYldjbmFyMGJ2blpFVlU5aHh5TEJvQnhoVS1zYnE0UWc4M1A5eWp0eFlWRUI4LUxjRHBETTJwZnhMRUJBWHh2V0g1RUo2cWZ2b01PdlJFOUZQU2xlN2YybmFscDjSAcgBQVVfeXFMTk1aZllMUy0tTnhJNk93UWZsc0haZkVoM0JCVVEweTFVZ3dvbHRxT3RKbXBBZDRNQS1NQkg5LU1tYm1FLUNIZ2IwZk9aaHFzbnNnOXpzOHFtNHNIa2NyYmRNdWtSRVVjQ1lxUWZKb2NyYjV3anRpRFZjVDRzUHlkUldYYVVZQ2lzSk93T3F3NFRkY1p2Q2hhSS10aG95ZE1Dd1hRMnAyeWM4Q0lIVE5jV3VEVm96eTVvRlBnXzFfRDZaSGQ1aHZzOS0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "898f202bce69",
@@ -1655,7 +1689,7 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43QTVuLVRvaU5FZmppcFEyODNLRU5ZUXh5cDFHYlgzY2h3VWpGcDVRajFmX1JYeHZQbEN3d29OUGk0eFdnY1RTelBsZks1ZEFPbEhQSjI5ajBVcU1jLTc3UmpaMmJtdw",
    "source": "www.mrjjxw.com",
    "published_at": "2026-10-20T14:09:40+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "www.mrjjxw.com",
@@ -1666,13 +1700,22 @@
      "name": "搜狐",
      "published_at": "2026-10-20T14:09:40+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmxqa0tYU0d1bkhJN0M1ajFpVXRZejhpQzhWN3Rka0QzWU1FY1pUVlR1T3cxZFZGekFzTG1weWJJZWQzRGhYNzdyZ0lVbUN2cmtTcDVGM0ZKd0xFZ1VValJXOUNQSmRFR3dzU2xrNHhhTl9CR2I2c2ROOUFHRUJsakZWYWlpZjlf"
+    },
+    {
+     "name": "https://www.mrjjxw.com/",
+     "published_at": "2026-10-20T14:09:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43QTVuLVRvaU5FZmppcFEyODNLRU5ZUXh5cDFHYlgzY2h3VWpGcDVRajFmX1JYeHZQbEN3d29OUGk0eFdnY1RTelBsZks1ZEFPbEhQSjI5ajBVcU1jLTc3UmpaMmJtdw"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "美股市值前十盘初全线下跌，英伟达承压",
    "title_zh": "美股前十公司盘初全线下跌，英伟达承压",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.14,
+    "window_h": 2.0
+   }
   },
   {
    "id": "03cb91553101",
@@ -3344,6 +3387,23 @@
    "sentiment": -1
   },
   {
+   "id": "12d9a2c820d2",
+   "title": "DeepSeek全面开源推理框架：兼容英伟达、华为昇腾芯片，单集群日吞吐155万亿Token，每卡每小时收入38美元 - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FMHNDd1M5R3A0ZDdQbGpsOURTZlpMMVJkR0F4NzlTMDhYRUV3S0lpN3pIN2VnU3EwYi0xdkE5NXBTYlBtSFlmdUJvOUtnV3ItWUtV",
+   "source": "华尔街见闻",
+   "published_at": "2026-10-20T09:00:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-20T09:00:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FMHNDd1M5R3A0ZDdQbGpsOURTZlpMMVJkR0F4NzlTMDhYRUV3S0lpN3pIN2VnU3EwYi0xdkE5NXBTYlBtSFlmdUJvOUtnV3ItWUtV"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "a2c7c77dd6c5",
    "title": "Nvidia Stock Hasn’t Been This Cheap in 7 Years. Only 1 Explanation Makes Sense. - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONnhiQjh3cFFacFFKYldYZmE0RlloRkcySG9jbXV2RkVMV0Y4d1FkVUdqcXlRYW5jZEZya09OWGs5R1dqTXJwcURlQnZHTVhPTGJlamhJek5LT1ZybjE2MmNRQkR4dlZPTEVFYnFQNmdCaTRzQlhvMFI0U3Npd3FIZVpHYXI3RURYMl9pQVVjUVNsdDJMSjUzd21Nc1MxRnYyXzRFT1pWQ242UzlSY2J3VFBsRDBvMDFsbkV5UQ",
@@ -3787,7 +3847,7 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OdWRIZzRVNUt0Y0xnNGhkOURlMS1LNzhqWV85WmNQOC1wLWtIdFJ4WVdIbm45cVRSY3pLQ05hcC1UdDQwZDJLcW5XR2RBMlhVTXpMLTlYMTZVZnd6R2NLT3hJNkV1XzRqUjZUQkswNVVFYkxUY0E2aw",
    "source": "新浪财经",
    "published_at": "2026-10-20T07:31:47+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "新浪财经",
@@ -3798,13 +3858,22 @@
      "name": "东方财富",
      "published_at": "2026-10-20T19:20:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HYjRmZHNzRWw5Y0lkTVV1SXZ5NE9oLUxLSEVJNTlrYnotT0U2OUIyc1YxbUNpb3RlY2xHc3pBS3gtSGRNUnBVci1OQjlJTTdIRE03dW04ZWJlY2xFZmFXc28ybw"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-20T23:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXhJZVRqTm1qYUtFMXZOaFNXUENWTE5IRWkxX3ZGaVVpMnFka1RPdzc5ekw4MVh6MEZ5MnJ3WkdzbDFTM1hUb3R2dHQyaXpnRkNnSmdPRTRmd2xpTWtubHViRlpFVVNuLTc3LVEtVVU3Zkh3MUtMaUNoUkZITEVFM05DektObTVFcGlQMQ"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "英伟达迎来新突破",
    "title_zh": "英伟达，新突破来了 - 新浪财经",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 1.2,
+    "window_h": 2.0
+   }
   },
   {
    "id": "065badea972d",
@@ -5052,6 +5121,23 @@
    "sentiment": 0
   },
   {
+   "id": "3092957f7050",
+   "title": "Nvidia vs. AMD: Who Can Afford the Next Jump in Research Spending? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUZZV2J2S0drRlNvQ256UTl3Y0tRUXhUdHJGc2twTjVlVTRuWWpBVXBQTHpWUVVKVnhNdlh1LUJYM0VfYU9LRjZLTmFTbXREbDZaalJPa2RwTGNmcXc3Z2FWQm1xOWZuVTN3cURGN1BSS0hlTEtHVTZNNkhNSmRJRzJ5SS1OT2E5WmMtVjFEQ1lUZl9t",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-20T02:10:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T02:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUZZV2J2S0drRlNvQ256UTl3Y0tRUXhUdHJGc2twTjVlVTRuWWpBVXBQTHpWUVVKVnhNdlh1LUJYM0VfYU9LRjZLTmFTbXREbDZaalJPa2RwTGNmcXc3Z2FWQm1xOWZuVTN3cURGN1BSS0hlTEtHVTZNNkhNSmRJRzJ5SS1OT2E5WmMtVjFEQ1lUZl9t"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "d914a1432004",
    "title": "Ericsson CEO champions his silicon over Nvidia chips in RAN - Light Reading",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdVZudGtqR1docnhyZ0VXVjBjR1ZkbU9zLTNuXzNzZ2tQYWxZc1VZSmlCRDdZRlJzV1lDMVFWM2VSVlhSOFBDcUwxcWlhWkc1Y25Ndk53MTlYcFFKbHlBRnNRckRJclJVdGJvbEhwVnZjQ1M3NHlqcHhmZTJQUFVxWEZyY2REOEhfRVJzLVhPbHlYRXNnTVE",
@@ -5095,6 +5181,23 @@
    "zh_summary": "RTX Spark笔记本发布，售价2399美元",
    "title_zh": "英伟达发布 RTX Spark 笔记本电脑，售价 2399 美元",
    "sentiment": 1
+  },
+  {
+   "id": "98e3bbb6a30e",
+   "title": "Nvidia vs. TSMC: Which Business Depends Less on Picking the Winning AI Chip? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTVd6NXl0TlQtMXNKRzJtdnNpUTJvaXhEdlNBVlNiMkdyZUowTUkwTFlqMXVld2RRbVBuR0VoeWM3OHVXblFveGkybUR0ZzduUm42MFRsaF80b29MamVzWDh0dXc2Z29MbHEyRzNydE9vSHpqNkc3RlZ1c3NpYk5EZWVyRWplTTJKN3RocnJocjJrS1k1SU5OWUVoaw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-20T01:29:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-20T01:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTVd6NXl0TlQtMXNKRzJtdnNpUTJvaXhEdlNBVlNiMkdyZUowTUkwTFlqMXVld2RRbVBuR0VoeWM3OHVXblFveGkybUR0ZzduUm42MFRsaF80b29MamVzWDh0dXc2Z29MbHEyRzNydE9vSHpqNkc3RlZ1c3NpYk5EZWVyRWplTTJKN3RocnJocjJrS1k1SU5OWUVoaw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "63d51ed6cb33",
@@ -6564,106 +6667,6 @@
    "zh_summary": "英伟达实现104量子比特容错模拟",
    "title_zh": "英伟达实现104量子比特容错量子计算机模拟纪录",
    "sentiment": 1
-  },
-  {
-   "id": "18a779de06c1",
-   "title": "Nvidia NVDA Stock Rebounds 2% as Memory Price Optimism Offsets Semiconductor Sell-Off - FXLeaders",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMncyOG5kWlNueFJRSkVMc2lGRlpnUVhWbGwwcHJlSzBBUk5VSlItYzlLVXRvaVcxRzJTekxoVHVzSHdPLUdYdWJhR0hFMTNkZ2toMkxHUUtfeVF0dG9NY2x5Y1JsVnZtZzg4SURHdXhFV0pvMGIyQ3dwWF80YndZc09OZ2hlVE4ydnRpVHhRakc0ZHEzZ0tiMFlQbGFJYW1YSFlQZ0hWM1kzMWtndjZVNzBHenl2a2E2eThPcGtjRU1wRWhOMmc",
-   "source": "FXLeaders",
-   "published_at": "2026-10-19T19:44:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FXLeaders",
-     "published_at": "2026-10-19T19:44:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMncyOG5kWlNueFJRSkVMc2lGRlpnUVhWbGwwcHJlSzBBUk5VSlItYzlLVXRvaVcxRzJTekxoVHVzSHdPLUdYdWJhR0hFMTNkZ2toMkxHUUtfeVF0dG9NY2x5Y1JsVnZtZzg4SURHdXhFV0pvMGIyQ3dwWF80YndZc09OZ2hlVE4ydnRpVHhRakc0ZHEzZ0tiMFlQbGFJYW1YSFlQZ0hWM1kzMWtndjZVNzBHenl2a2E2eThPcGtjRU1wRWhOMmc"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "英伟达反弹2%，内存涨价预期抵消半导体抛售",
-   "title_zh": "英伟达股价反弹2%，内存价格乐观情绪抵消半导体板块抛售",
-   "sentiment": 1
-  },
-  {
-   "id": "e48983b15d39",
-   "title": "Merz unveils Nvidia partnership at major investment summit in Berlin - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHMzbWRBWmlzRzc0SGJvMkU0c1g3SEhrRU9SX2o2dGxLanByYnc3bmdwNENWUXlNZTUxNy1VeEFtSWw0akVLOUZaT3ZzTGw1OXNGb2FGWG9JUXdxLXdrMGY1NVhWckJSa3ZxQXFBOTY1QXAwSFpLVjBzQmd0TnFNX3BGWW85bHhVWXBlSENnQml1cDB0MHNTbEpNZkE2TXV1VW9B",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T19:33:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T19:33:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHMzbWRBWmlzRzc0SGJvMkU0c1g3SEhrRU9SX2o2dGxLanByYnc3bmdwNENWUXlNZTUxNy1VeEFtSWw0akVLOUZaT3ZzTGw1OXNGb2FGWG9JUXdxLXdrMGY1NVhWckJSa3ZxQXFBOTY1QXAwSFpLVjBzQmd0TnFNX3BGWW85bHhVWXBlSENnQml1cDB0MHNTbEpNZkE2TXV1VW9B"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "默茨在柏林揭晓英伟达合作",
-   "title_zh": "默茨在柏林投资峰会揭晓英伟达合作伙伴关系",
-   "sentiment": 1
-  },
-  {
-   "id": "9890ffdb7a37",
-   "title": "NVIDIA RTX 50, 40 and 30 GPUs gain custom VBIOS support without flashing - TweakTown",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVpyRlFNZ2wwOEV3OGFNOERubTYtVW45RVM2dmdCdjhmdEIxdnRIcXFoUDZCc1BFMXhuUmdod0wyN1JKVTZsSmxFb1RvcUY0bWxSbHFSMFlNRksxV0VFQlEzOTkxUHlwNGpHMUh4QkhwQzNFNlFDQmFiX3R4U012ME9vLTNteFM4SmxzWi1WTkhDSF93OGwtUEwwZnZtVGt0VkRGQTNKSkw0MHdrM2JhRnJMLS04MTdyQ2VYdA",
-   "source": "TweakTown",
-   "published_at": "2026-10-19T19:30:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TweakTown",
-     "published_at": "2026-10-19T19:30:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVpyRlFNZ2wwOEV3OGFNOERubTYtVW45RVM2dmdCdjhmdEIxdnRIcXFoUDZCc1BFMXhuUmdod0wyN1JKVTZsSmxFb1RvcUY0bWxSbHFSMFlNRksxV0VFQlEzOTkxUHlwNGpHMUh4QkhwQzNFNlFDQmFiX3R4U012ME9vLTNteFM4SmxzWi1WTkhDSF93OGwtUEwwZnZtVGt0VkRGQTNKSkw0MHdrM2JhRnJMLS04MTdyQ2VYdA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "RTX 50/40/30显卡免刷机改VBIOS",
-   "title_zh": "英伟达RTX 50/40/30 GPU免刷机自定义VBIOS获支持",
-   "sentiment": 0
-  },
-  {
-   "id": "4ff74fe830be",
-   "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHh0dS1IVTRGYkoyUVNoWmlMUEZncElQVFVYMU9MeV9iMF9IRzJ3NFV1Wk5oRDlsdVNlUzQ1U3p0MEVmZFBBSkx5VnBKQ0tDZGdVTkUtaFZoc3JLamV6Qms0MXEzbW5yM1J0cjdDRnI5SWhKejFMcmhMNlNXaUg1MVZVQTlZXzQyUXJaS2Q4TkJMR29XbnI1bjNVZHBfOWMyUUE",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-19T19:29:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-19T19:29:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHh0dS1IVTRGYkoyUVNoWmlMUEZncElQVFVYMU9MeV9iMF9IRzJ3NFV1Wk5oRDlsdVNlUzQ1U3p0MEVmZFBBSkx5VnBKQ0tDZGdVTkUtaFZoc3JLamV6Qms0MXEzbW5yM1J0cjdDRnI5SWhKejFMcmhMNlNXaUg1MVZVQTlZXzQyUXJaS2Q4TkJMR29XbnI1bjNVZHBfOWMyUUE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达助力德国引领工业AI",
-   "title_zh": "德国欲引领全球工业AI，英伟达将如何助力",
-   "sentiment": 1
-  },
-  {
-   "id": "a00c57ddbd0f",
-   "title": "NVIDIA's Price Implies Less Growth Than Its History - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc19vOVN2ZDBnSWd6VFdnTkFhdjMxdVpsa19OQU4wRzFzVEg5bTZHRTBULUE0X1JlLTA1ZXV1X1FaSDJTNktRWnlMbFIwSWhoX2RHek1VckFyVWJVbGlyUW1GV3dKTUlsdlhfS3VCQmhTX25CNW1idmZGcUo2VGlhOWx3ZXVaVVU",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-19T19:28:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-19T19:28:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc19vOVN2ZDBnSWd6VFdnTkFhdjMxdVpsa19OQU4wRzFzVEg5bTZHRTBULUE0X1JlLTA1ZXV1X1FaSDJTNktRWnlMbFIwSWhoX2RHek1VckFyVWJVbGlyUW1GV3dKTUlsdlhfS3VCQmhTX25CNW1idmZGcUo2VGlhOWx3ZXVaVVU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达股价隐含增长低于历史",
-   "title_zh": "英伟达股价隐含的增长低于历史水平",
-   "sentiment": 0
   }
  ]
 }
