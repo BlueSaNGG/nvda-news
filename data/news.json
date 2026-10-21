@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T20:21:37.315062+00:00",
+ "updated_at": "2026-10-21T20:36:32.304574+00:00",
  "market": {
   "price": 221.97,
   "change_pct": 2.54,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.83,
-   "count": 289
+   "count": 298
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.83（289条已评分）"
+     "note": "今日新闻情绪 +0.83（298条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 41.9,
    "ma20": 226.87,
-   "as_of": "2026-10-21T20:21:37.299974+00:00"
+   "as_of": "2026-10-21T20:36:32.294218+00:00"
   },
   "pe_ttm": 28.2,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "57964490f417",
+   "title": "News | Nvidia co-founder pays his fortune forward - CoStar",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU9zdmZpS3JwaGlFZmdZcXJ2X1BjSVRJS01zUjZHS3Zhcmp2VlZRYkFvRUdfdGFHTHZxNVEwbG9QY25EekZpRU93UmdCandrOGVRSzVHbk5UcnN1dlgwcFZIbExadnlhREZjUy13TmFzT0RUc1FxdDY2TjgtVmxseGtKS2VyQ1RIZnczZQ",
+   "source": "CoStar",
+   "published_at": "2026-10-21T20:13:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CoStar",
+     "published_at": "2026-10-21T20:13:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU9zdmZpS3JwaGlFZmdZcXJ2X1BjSVRJS01zUjZHS3Zhcmp2VlZRYkFvRUdfdGFHTHZxNVEwbG9QY25EekZpRU93UmdCandrOGVRSzVHbk5UcnN1dlgwcFZIbExadnlhREZjUy13TmFzT0RUc1FxdDY2TjgtVmxseGtKS2VyQ1RIZnczZQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "e8ea82ee755a",
    "title": "ServiceNow Announces New AI Agent Services With Nvidia - PYMNTS.com",
@@ -100,26 +117,6 @@
    "zh_summary": "YYForce发布英伟达物理AI机器人架构",
    "title_zh": "Yyforce发布由英伟达物理AI驱动的“Workforce OS”机器人架构",
    "sentiment": 1
-  },
-  {
-   "id": "b8d19ec9bb65",
-   "title": "$4,000 in These 4 Non-Nvidia Chip Stocks Could Be Worth This Much by 2030 - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnZ0ZXFEQmtZMW95Q2tHak0tSlk0SnJIcVQxM1J5c2dGdzZJdWpXSUdQVUxKcFhKWjNCaFdMOEdDNzYyamVPb242amlpS296bXdZSWVuMDhTV2xQU1lacExQLUlycTlCb1pBaWNKelU0OW10QTFvMDNWYVlDV1FzUTNCTlFKcFhKN29j",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-21T20:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T20:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnZ0ZXFEQmtZMW95Q2tHak0tSlk0SnJIcVQxM1J5c2dGdzZJdWpXSUdQVUxKcFhKWjNCaFdMOEdDNzYyamVPb242amlpS296bXdZSWVuMDhTV2xQU1lacExQLUlycTlCb1pBaWNKelU0OW10QTFvMDNWYVlDV1FzUTNCTlFKcFhKN29j"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "4000美元投4只非英伟达芯片股2030价值几何",
-   "title_zh": "4000美元投4只非英伟达芯片股，2030年能值多少",
-   "sentiment": 0
   },
   {
    "id": "30bb5e6d859a",
@@ -162,6 +159,31 @@
    "sentiment": 1
   },
   {
+   "id": "b8d19ec9bb65",
+   "title": "$4,000 in These 4 Non-Nvidia Chip Stocks Could Be Worth This Much by 2030 - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VLbGVuR2RSSUVIUnIxTnZUcTcyZlAxSDI4ZW9zMjhfYnNGaGZxdTJreTJ3ZjRJd1dDR1NxVUJvUzUtQ1ZOVXp4Vkg5T3hiLUg5T3ozV1NwMTJ5M0l5aTFuellaNFZua29MdHc2ZDY0eGw0R2NNSVB5YjNhZ2dZQlI1bmIydlg5NXk2eFJtTmJmZ2UxRUNuaA",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-21T19:51:24+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-21T19:51:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VLbGVuR2RSSUVIUnIxTnZUcTcyZlAxSDI4ZW9zMjhfYnNGaGZxdTJreTJ3ZjRJd1dDR1NxVUJvUzUtQ1ZOVXp4Vkg5T3hiLUg5T3ozV1NwMTJ5M0l5aTFuellaNFZua29MdHc2ZDY0eGw0R2NNSVB5YjNhZ2dZQlI1bmIydlg5NXk2eFJtTmJmZ2UxRUNuaA"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T20:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnZ0ZXFEQmtZMW95Q2tHak0tSlk0SnJIcVQxM1J5c2dGdzZJdWpXSUdQVUxKcFhKWjNCaFdMOEdDNzYyamVPb242amlpS296bXdZSWVuMDhTV2xQU1lacExQLUlycTlCb1pBaWNKelU0OW10QTFvMDNWYVlDV1FzUTNCTlFKcFhKN29j"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中",
+   "zh_summary": "4000美元投4只非英伟达芯片股2030价值几何",
+   "title_zh": "4000美元投4只非英伟达芯片股，2030年能值多少",
+   "sentiment": 0
+  },
+  {
    "id": "202c9da0fe6a",
    "title": "传英伟达向采用AMD芯片的云服务商施压 拒绝部分企业参加 GTC Berlin - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMDFURGFEUE5jMFpCU29tbHdqNWQzYms5TmVYcnRRQU5RSWJVcWY5TGxQaVU1Umk2UXVrX1dERHMwV1VMOUhleEFrajhYRGx6U3A0WE1wS2N4d3ZGdUNpUVU4V1RFclNJa256cUlGcWp6aVRKaVlwMEN3NVVyM3pRNUJKWFNZWWllbVBaLQ",
@@ -180,6 +202,23 @@
    "zh_summary": "传英伟达向用AMD芯片厂商施压缺席GTC",
    "title_zh": "传英伟达向采用AMD芯片的云服务商施压 拒绝部分企业参加 GTC Berlin",
    "sentiment": -1
+  },
+  {
+   "id": "7b200a4d328b",
+   "title": "Dow's 131-Point Rally Highlighted By Gains For NVIDIA Corp., IBM Stocks - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDRUUzJmZy1BZTdNY3J3al9KZmNWalIxZlNWWW1UMk90TnRLc01VUGhWcXJYZURZVWlxbl9FQkdyNmZTT3RxNVFyQ3VncFc0OTR6eVBfYmMxTmRfUzY0Vk1XMWZJNnhlTWhmQ3hFcFB0V3p3SWpxRGRGZmFsVmNtakhrNGxsT0FjX3UxMGVtcmt2d05CVERsR2U4cUNhZw",
+   "source": "Moomoo",
+   "published_at": "2026-10-21T19:10:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-21T19:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDRUUzJmZy1BZTdNY3J3al9KZmNWalIxZlNWWW1UMk90TnRLc01VUGhWcXJYZURZVWlxbl9FQkdyNmZTT3RxNVFyQ3VncFc0OTR6eVBfYmMxTmRfUzY0Vk1XMWZJNnhlTWhmQ3hFcFB0V3p3SWpxRGRGZmFsVmNtakhrNGxsT0FjX3UxMGVtcmt2d05CVERsR2U4cUNhZw"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
   },
   {
    "id": "9ed480dea26e",
@@ -4725,11 +4764,16 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Penh5TExIeDM4TGxXS2hMUWJCRTZqbmV3Q09sTFJCODNnU1pNMmVHYlFxaDdSbDJlaWItZW9TS2dCakJhWGhOZ1NtYw",
    "source": "手机新浪网",
    "published_at": "2026-10-21T11:16:49+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "手机新浪网",
      "published_at": "2026-10-21T11:16:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Penh5TExIeDM4TGxXS2hMUWJCRTZqbmV3Q09sTFJCODNnU1pNMmVHYlFxaDdSbDJlaWItZW9TS2dCakJhWGhOZ1NtYw"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-21T11:37:59+00:00",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Penh5TExIeDM4TGxXS2hMUWJCRTZqbmV3Q09sTFJCODNnU1pNMmVHYlFxaDdSbDJlaWItZW9TS2dCakJhWGhOZ1NtYw"
     }
    ],
@@ -6473,46 +6517,6 @@
    "session": "盘前",
    "zh_summary": "英伟达发布OpenShell安全AI智能体架构",
    "title_zh": "英伟达发布OpenShell参考架构，打造安全AI智能体",
-   "sentiment": 1
-  },
-  {
-   "id": "54e571a887ac",
-   "title": "NVIDIA Launches DSX Platform to Empower European AI Factories - Intellectia AI",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzBVTy1zTzJqeUhFV0lIZXkxMFFVaVF3SlVueUo3VTNmMWJfZldiWW9FckYzWWNIZzdkS1FhZnR5WFF2RURfSDdlR0RDQTk5aDVnYWVMZVI1TkEyb1NjYmc2ZjF0dlZ4b0dud2tacUpVWFctUDVOT2tJLTI5SlNPSU9tWHNNWDh4Y29vbFRkcXNYZVZUVWF1TWNwZw",
-   "source": "Intellectia AI",
-   "published_at": "2026-10-21T09:55:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Intellectia AI",
-     "published_at": "2026-10-21T09:55:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzBVTy1zTzJqeUhFV0lIZXkxMFFVaVF3SlVueUo3VTNmMWJfZldiWW9FckYzWWNIZzdkS1FhZnR5WFF2RURfSDdlR0RDQTk5aDVnYWVMZVI1TkEyb1NjYmc2ZjF0dlZ4b0dud2tacUpVWFctUDVOT2tJLTI5SlNPSU9tWHNNWDh4Y29vbFRkcXNYZVZUVWF1TWNwZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达发布DSX平台",
-   "title_zh": "英伟达发布DSX平台赋能欧洲AI工厂",
-   "sentiment": 1
-  },
-  {
-   "id": "dfa09b4f4a01",
-   "title": "英伟达CEO黄仁勋：创建OpenShell，让智能体在明确界定的边界内自由开展有价值的工作。 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXppdV81Y1VzZ1VMWm9vdk9WeFJUN3UzdzZRUmlBcEJBM3RzZ21qenhzQ3dLSDZrWlJLbWNGM1R2TkRramVDRG1xV2pGZlh6Ti0xbk5FUkhRLUdwbEI3b1hGT0FoUXY4WWw0VlU5NFdVMEpranlRa3ZUYVQxT2ZhVUZZekNybWRWdl9rdVFsLWFNd1RHUloxNmdmQ2U5Z3lNS293",
-   "source": "富途牛牛",
-   "published_at": "2026-10-21T09:53:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-21T09:53:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXppdV81Y1VzZ1VMWm9vdk9WeFJUN3UzdzZRUmlBcEJBM3RzZ21qenhzQ3dLSDZrWlJLbWNGM1R2TkRramVDRG1xV2pGZlh6Ti0xbk5FUkhRLUdwbEI3b1hGT0FoUXY4WWw0VlU5NFdVMEpranlRa3ZUYVQxT2ZhVUZZekNybWRWdl9rdVFsLWFNd1RHUloxNmdmQ2U5Z3lNS293"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋发布OpenShell智能体架构",
-   "title_zh": "英伟达CEO黄仁勋：创建OpenShell，让智能体在明确界定的边界内自由开展有价值的工作。 - 富途牛牛",
    "sentiment": 1
   }
  ]
