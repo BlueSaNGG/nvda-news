@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T14:36:33.317858+00:00",
+ "updated_at": "2026-10-21T14:51:38.611422+00:00",
  "market": {
-  "price": 219.11,
-  "change_pct": 1.22,
+  "price": 219.9,
+  "change_pct": 1.58,
   "as_of": "2026-10-21",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.84,
-   "count": 294
+   "count": 295
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 73% 分位"
+     "note": "现价处于52周区间 74% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +43.8%"
+     "note": "目标价中位数 $315（15家），隐含空间 +43.2%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.84（294条已评分）"
+     "note": "今日新闻情绪 +0.84（295条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $219.11 vs 20日均线 $226.72"
+     "note": "现价 $219.90 vs 20日均线 $226.76"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 73,
+   "price_52w_pct": 74,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 43.8,
-   "ma20": 226.72,
-   "as_of": "2026-10-21T14:36:33.300486+00:00"
+   "implied_upside_pct": 43.2,
+   "ma20": 226.76,
+   "as_of": "2026-10-21T14:51:38.600099+00:00"
   },
-  "pe_ttm": 27.8,
+  "pe_ttm": 27.9,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+43.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+43.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,76 @@
   }
  },
  "stories": [
+  {
+   "id": "ab92b35d1c09",
+   "title": "Nvidia Stock ‘Still Underappreciated by Investors’: Gene Munster Sees Growth Opportunities from GTC Berli - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVVpzbVEwbGFwZlFUTktSR3U0b284XzJyVzhPcS1ETUQyV2pjRUxFQS14aWNmS2d2UHF4WUJ3a3A4aUlnUXdwUHJjSXhmelBza2R2dlAzMFpDMmFSLXNORXZTQVAyZWRJV1F4Qjg1c2xwMjNfUnRKZl9MUnNTbk5vMTF1SUxCMnlXT01NZDU1VVpmd0dLM2NtWVVva3UwcFVZNzhTeXVER2J3bjFBN19iVDZJSXhXQnNMTVFHcW1UU0k0RmpIbWdVVllfOUxhOUUybUpyVTNmdm9WeGlZbm5LZ0VSdlJHSXVQc3IzVG4yME9qcUdHSjNTdU1jZlM",
+   "source": "Benzinga",
+   "published_at": "2026-10-21T14:40:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-21T14:40:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVVpzbVEwbGFwZlFUTktSR3U0b284XzJyVzhPcS1ETUQyV2pjRUxFQS14aWNmS2d2UHF4WUJ3a3A4aUlnUXdwUHJjSXhmelBza2R2dlAzMFpDMmFSLXNORXZTQVAyZWRJV1F4Qjg1c2xwMjNfUnRKZl9MUnNTbk5vMTF1SUxCMnlXT01NZDU1VVpmd0dLM2NtWVVva3UwcFVZNzhTeXVER2J3bjFBN19iVDZJSXhXQnNMTVFHcW1UU0k0RmpIbWdVVllfOUxhOUUybUpyVTNmdm9WeGlZbm5LZ0VSdlJHSXVQc3IzVG4yME9qcUdHSjNTdU1jZlM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "760cc7b27165",
+   "title": "英伟达出钱，携手六大供应链伙伴扩产！ - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2d4V210UWVlS2pxUzdEeklmckc3Xy05LXQ4ZmdhOWgtOW1NVlNuXzdLRlozTHEwMkVFdFltaEdLeXdrcWdZZDBRWFQ4b3ZrRUxRbTFaUGZzODVGNzFoOW0yNUl3VnlnV2JkRlBGMGwzTnh1aEZHSm5yVE0ybDNSNkZTTDcyYkVm",
+   "source": "搜狐",
+   "published_at": "2026-10-21T14:36:04+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-21T14:36:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2d4V210UWVlS2pxUzdEeklmckc3Xy05LXQ4ZmdhOWgtOW1NVlNuXzdLRlozTHEwMkVFdFltaEdLeXdrcWdZZDBRWFQ4b3ZrRUxRbTFaUGZzODVGNzFoOW0yNUl3VnlnV2JkRlBGMGwzTnh1aEZHSm5yVE0ybDNSNkZTTDcyYkVm"
+    },
+    {
+     "name": "芯智讯",
+     "published_at": "2026-10-21T14:42:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBRdzFIb0xOS1puSTNEeFc1OWN2LUFVNGxsVDZDalNjN0RHMnIyVVFXVUVHWkx6MTd4Q2czUU1FLVJ5dVAy"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘中"
+  },
+  {
+   "id": "ef512121ca68",
+   "title": "Prediction: Nvidia’s Road to $1 Trillion in Annual Revenue Could Transform Its Stock - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSGlZMzFuY0JrSHdjN0hFY2VKSnZhS1ExdHpsbnFSWlkyUUx5SzZwQ2J5aUFqeGRjVkhJX05pVHBYVGtJaUFDTnFYcjVIeEs1QUNLQ2M0RkpYRV9XMFN3VGVqU2liX0t6M0psWnpKLTNGekJqVXZJd1YzVmk4N01GQnRndUpLQ2ZFbFVqaUdQSGlCSS1HRFppaDlXb09CVnp5VzIxWFdDd1ExQlk2UlBnUXBnN1lORUx6OUE1UXJOVmJZVG8",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-21T14:30:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-21T14:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSGlZMzFuY0JrSHdjN0hFY2VKSnZhS1ExdHpsbnFSWlkyUUx5SzZwQ2J5aUFqeGRjVkhJX05pVHBYVGtJaUFDTnFYcjVIeEs1QUNLQ2M0RkpYRV9XMFN3VGVqU2liX0t6M0psWnpKLTNGekJqVXZJd1YzVmk4N01GQnRndUpLQ2ZFbFVqaUdQSGlCSS1HRFppaDlXb09CVnp5VzIxWFdDd1ExQlk2UlBnUXBnN1lORUx6OUE1UXJOVmJZVG8"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-21T14:30:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHluM2tfQlBMUkxUcHh0UkUwUDlOUzZOS0otMm1PZjBaN2x3WFNCVzlrSDdJbUxrQkowajl4WnRsMlBxRDExN1hGQWtjcVNyaWlucHR0U3dDT1dXcnYxMXBlTXgzTEhoN1NqSmtxUlM0MnBJY0NrQy1QTUxZLThVMkt6dw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T14:30:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRWlEZy11V2VhaHhuM3JiSXVmcDB6Y1p2MzVhOGdBQVdQUU1RTXNRc2RNdXF3U2xaVGxHM0pNUGxqallUU0l0TWROenpBMWRpcl9sS2lUa1lGTnlJOWtkUEg0RlB0a3BnN3BuOGViQy1tS3IweFB0ZHE2ZXdWdVEzalRQenpXa0xwZzFUb3BRVlZYcllCUjZxVEpFN3ozYnc"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中",
+   "price_reaction": {
+    "pct": 0.38,
+    "window_h": 0.4
+   }
+  },
   {
    "id": "aebb7bdf8eb1",
    "title": "英伟达CEO黄仁勋：欧洲要想吃AI红利，全行业都该拥抱AI|Agent|芯片|机器人|数据中心|产能_手机新浪网 - 新浪财经",
@@ -212,12 +282,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWI1bDNBYjAtdmJCWmxJQTJnRVdBZl9oR2hRMC1Tb1NRNmNxd1RtemdLNkVXbEdNT2laLWZ4aUF5VmVVa0NrWXZtZFZIdGpOQnBRenlCNjZIcERBWmFEQWNBa1c0My1ZNWFrcmo4ODRRYXlNN0RjeE1BSzFiSmhXUkp1Sk9JSzYx",
    "source": "搜狐",
    "published_at": "2026-10-21T13:49:39+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-21T13:49:39+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWI1bDNBYjAtdmJCWmxJQTJnRVdBZl9oR2hRMC1Tb1NRNmNxd1RtemdLNkVXbEdNT2laLWZ4aUF5VmVVa0NrWXZtZFZIdGpOQnBRenlCNjZIcERBWmFEQWNBa1c0My1ZNWFrcmo4ODRRYXlNN0RjeE1BSzFiSmhXUkp1Sk9JSzYx"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-21T14:01:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Gdm5QQnY4TDd0aUc4V19xSjRjUVAxVjdxR05vQ2ZMd0lMc2tPWUVZWnRITlhRdXNRc0ZwU1hSZDJjRHI4ZkFiR3dhLU8"
     }
    ],
    "category": "其他",
@@ -671,6 +746,23 @@
    "sentiment": 1
   },
   {
+   "id": "b6c97ed36d0d",
+   "title": "英伟达用1.2万行AI辅助代码优化Kimi K3推理，vLLM称审查速度已落后 - 虎嗅",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzT2t3cUNwZ0ZkZ2FjTm8wNFlLVFYtNUNDclNPd1pteG92ZGVBYjc5ZHYtQTB3Z3g0ZWZJLThBUEphcFVHR1FfM1dWdUJVM0tTczJuOA",
+   "source": "虎嗅",
+   "published_at": "2026-10-21T13:04:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "虎嗅",
+     "published_at": "2026-10-21T13:04:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzT2t3cUNwZ0ZkZ2FjTm8wNFlLVFYtNUNDclNPd1pteG92ZGVBYjc5ZHYtQTB3Z3g0ZWZJLThBUEphcFVHR1FfM1dWdUJVM0tTczJuOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "36ecf2c2d00b",
    "title": "Vaisala Xweather Collaborates with NVIDIA to Deliver AI-Powered Early Warning for High-Impact Weather - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEtXLXRtRTBsTmlUMjJIVzNjaXQxd3lZSUhjSHoxQVZVMWJ0TFRuMjQwM3dWb2xOS2xCSUtpNlBrczg0VXpDc25sdXFwa1pHZjN4eXRDM1cxQ2FhSldRUFVTcHJVOUtOMXVhX1I3VG1jZDJVSlg4SkZYOXNuclBBdXd1ZFJLT1JydndCeHdDcUpaakhrS1RwbXpvUXZYcXNwYXZabjJzb1gxbTYx",
@@ -1091,7 +1183,7 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnpRcVU0MlhxX2kwMXdYcGdGV2JjSmlyRVh4WVE4ZkJpam5YUnJMam55YWZIS2U1ZDBDUXhIWU5udmZSdzZQc1p0Q01DRk11U0hmZkpKOVhucjI0VnFBZllYU3BXRFpobUJhSDNXa3NrQnRxVnp6SzV3b3ptZ0g4WmF1TEpPdlQwN3E0cTg2azlkMU1UR3c5LWpxU1U1dm1VeUl2ZF9Ob181YmN6MkpFby1UNA",
    "source": "Audacy",
    "published_at": "2026-10-21T12:28:00+00:00",
-   "outlets_count": 6,
+   "outlets_count": 7,
    "outlets": [
     {
      "name": "Audacy",
@@ -1122,6 +1214,11 @@
      "name": "The Seattle Times",
      "published_at": "2026-10-21T13:50:22+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSnRtOFJBTG5KdVZkLWgtWElRaU1aMjJmNWFZUzJsbEY0dUM4RTZkUWtSb0xYd2RCYnIwWmZDbmxPbnZSU3FKcmVjQmtveWFZYm40aHcyVTBlMlByVlQxZkZ0VjlPS2RQaENCZW9KOE5UWElGMFNDWkJpQTVfX0xQLWduSXpFQlNXdjRxc2prT1ZzU0RFZVlWSGdtczdBZ2dHN1p1VlB5RUtxVWRuZU5DWk1zRTlUWHRBTGhqOFJNeHFPNWkyenV3a2Jpc1gzZ0ZWbVRRTA"
+    },
+    {
+     "name": "AP News",
+     "published_at": "2026-10-21T12:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRV9sUVFBSXN4NWhNNzAxNXJLQ3d0UnFZcXZvNFZnWlAzUHNqRGFvTzZkSmhNTC0tMkUyZDNyeUZnajFhSHpmM18wcjJzcWJBb0QwV2dhVXY1THdvSVp5Y2FOWXdTMGhGYlF1dm1rWmJYVXpNZVRjeGU4R2JrbjhlRG1JNUZGOG8zUWFGR24tUDczZ3Rld3VyVQ"
     }
    ],
    "category": "AI需求",
@@ -1929,6 +2026,23 @@
    "zh_summary": "Autodesk与英伟达加速汽车设计反馈",
    "title_zh": "Autodesk与英伟达加速汽车设计反馈闭环",
    "sentiment": 1
+  },
+  {
+   "id": "48c1f7a9642a",
+   "title": "Google Cloud infrastructure at NVIDIA GTC Berlin 2026 | Google Cloud Blog - Google Cloud",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMkpDLW1NRFdVY3NqUGNtWTFheHdFV0FPMlBvWDljLVR5MV85NWZXZ2VzSW1FMm5KRWE5OXQ5V2N3dDlva3lTTTUxUEVISHAwOXdJUzUxR3h6WWdRR0NYRnV0ODB1LU9OMFVKM1k4NmNoSXdRbWVha0NmTEpZMWtrdmdDZXNxOXZkN01COEtMWF9RajNKNEs3alZOd1JuM0NmMFMyTksyWG9IM2Uw",
+   "source": "Google Cloud",
+   "published_at": "2026-10-21T11:35:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Google Cloud",
+     "published_at": "2026-10-21T11:35:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMkpDLW1NRFdVY3NqUGNtWTFheHdFV0FPMlBvWDljLVR5MV85NWZXZ2VzSW1FMm5KRWE5OXQ5V2N3dDlva3lTTTUxUEVISHAwOXdJUzUxR3h6WWdRR0NYRnV0ODB1LU9OMFVKM1k4NmNoSXdRbWVha0NmTEpZMWtrdmdDZXNxOXZkN01COEtMWF9RajNKNEs3alZOd1JuM0NmMFMyTksyWG9IM2Uw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
   },
   {
    "id": "0048bbb10048",
@@ -4622,26 +4736,6 @@
    "sentiment": 1
   },
   {
-   "id": "246cba2ef2de",
-   "title": "Nscale测试英伟达DSX方案 推理吞吐量提高49% - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KcXVQYURtNWU1eEM2dWdaZ0V5QXYySHdnMW9nSE5hYW8waFc2Sm9ibnNFSk4xRjlZS1JUenFvZ3FqOTBCc0JoenJsSThzWld0NlV1OGhUTGp4TlBabnlQeXBIeTRQUQ",
-   "source": "东方财富",
-   "published_at": "2026-10-21T10:08:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T10:08:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KcXVQYURtNWU1eEM2dWdaZ0V5QXYySHdnMW9nSE5hYW8waFc2Sm9ibnNFSk4xRjlZS1JUenFvZ3FqOTBCc0JoenJsSThzWld0NlV1OGhUTGp4TlBabnlQeXBIeTRQUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Nscale测试DSX方案推理吞吐提升49%",
-   "title_zh": "Nscale测试英伟达DSX方案 推理吞吐量提高49% - 东方财富",
-   "sentiment": 1
-  },
-  {
    "id": "011ae6c41ee0",
    "title": "英伟达公司：英伟达开放模型推动欧洲各行业主权智能发展。 - 手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSR1BiS0ZqdkN1T3BkMm1xQzBSVThxYzdxOW9oeXRLUGpsMFQ4Q19tYUJGZGVyYnhiRERIYXBSaDJxclN0dGVVSzhkMA",
@@ -6366,86 +6460,6 @@
    "zh_summary": "英伟达支持1645亿美元AI数据中心项目",
    "title_zh": "英伟达支持1645亿美元AI数据中心以提振GPU销售",
    "sentiment": 1
-  },
-  {
-   "id": "104545ee0a77",
-   "title": "英伟达世界模型团队创业！种子轮拿下9000万美元，具身模型反击通用模型 - 智源社区",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85NHI0N2pMZmMzMkFIQnVpdTR6V2cwSkxpaU9Ta25iVWNWc1NFbmhkSnhsMFhicmxJQ0pvZUppS0xFVDhEVU0xeA",
-   "source": "智源社区",
-   "published_at": "2026-10-21T06:10:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "智源社区",
-     "published_at": "2026-10-21T06:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE85NHI0N2pMZmMzMkFIQnVpdTR6V2cwSkxpaU9Ta25iVWNWc1NFbmhkSnhsMFhicmxJQ0pvZUppS0xFVDhEVU0xeA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达团队创业获9000万美元融资",
-   "title_zh": "英伟达世界模型团队创业！种子轮拿下9000万美元，具身模型反击通用模型 - 智源社区",
-   "sentiment": 0
-  },
-  {
-   "id": "ae8fe977dd4c",
-   "title": "Nvidia CEO to deliver keynote speech as his firm faces investor scrutiny over AI - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXY1MlZkSXJoeW1IZHFyU0xtXy1rRDU5ZGktNmdPbE1yYTRwM2V6UC16MGFRUnRfZ211WTQ1ekRuUTJmNGlmNnUtTDd0ZExoM1RwWW5INkczdmp2VnpRaTdWbW1GdVFybDBCSDlZVklaNFZTVlM4anhjYV80YUdSNEx2QUczbjZ5YUQ0eGREM1FsWUF4SklUVDc4SWVaUU1oWXJUNXYzQllLT2x5cnJ1NmZuWlllUWZLamJqZUtEQ0xjZEIzRE5UZXRPTERCUHVLWmc",
-   "source": "South China Morning Post",
-   "published_at": "2026-10-21T06:07:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "South China Morning Post",
-     "published_at": "2026-10-21T06:07:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXY1MlZkSXJoeW1IZHFyU0xtXy1rRDU5ZGktNmdPbE1yYTRwM2V6UC16MGFRUnRfZ211WTQ1ekRuUTJmNGlmNnUtTDd0ZExoM1RwWW5INkczdmp2VnpRaTdWbW1GdVFybDBCSDlZVklaNFZTVlM4anhjYV80YUdSNEx2QUczbjZ5YUQ0eGREM1FsWUF4SklUVDc4SWVaUU1oWXJUNXYzQllLT2x5cnJ1NmZuWlllUWZLamJqZUtEQ0xjZEIzRE5UZXRPTERCUHVLWmc"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "英伟达CEO演讲面临投资者AI质疑",
-   "title_zh": "英伟达CEO将发表主题演讲，投资者对AI表示关注",
-   "sentiment": 0
-  },
-  {
-   "id": "545c6f572f72",
-   "title": "英伟达向AI云公司投资数亿美元 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEZmNndZN3J2SkRBcWJYMVlGRTE1S1d1R1A0aVNzWlYtRWlNcG15dkFSQ1ludkFGeEVmZm5RRE5JRDExM3ZUdThObjJJLXlmNlZlaWFDbko5UXR3bDM5aDJKRUVzVXNuUVRNOEZaUHNrWnFBWVRSWnN1SVVJYTdmdHF6RVBBeml0NlR0QQ",
-   "source": "搜狐",
-   "published_at": "2026-10-21T06:01:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-21T06:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEZmNndZN3J2SkRBcWJYMVlGRTE1S1d1R1A0aVNzWlYtRWlNcG15dkFSQ1ludkFGeEVmZm5RRE5JRDExM3ZUdThObjJJLXlmNlZlaWFDbko5UXR3bDM5aDJKRUVzVXNuUVRNOEZaUHNrWnFBWVRSWnN1SVVJYTdmdHF6RVBBeml0NlR0QQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达向AI云公司投资数亿美元",
-   "title_zh": "英伟达向AI云公司投资数亿美元 - 搜狐",
-   "sentiment": 1
-  },
-  {
-   "id": "47abafbdcd6b",
-   "title": "上市公司硬蹭英伟达热点收监管函 股价异动引关注 - 中华网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRSHBTNHZDQXNwUWhRTzVYNGZrQWhyQlp3Q1VJMEN5aGc0LW9SOThCMVZkYVpHVF9zR3pZTzJ0b0tjOS1BLVdwajhaQ2d6enV1eTRDd3RYMkFEbTNKTzcxVGtWTWllb2NCV3VRSXBYdXg",
-   "source": "中华网",
-   "published_at": "2026-10-21T05:58:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中华网",
-     "published_at": "2026-10-21T05:58:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRSHBTNHZDQXNwUWhRTzVYNGZrQWhyQlp3Q1VJMEN5aGc0LW9SOThCMVZkYVpHVF9zR3pZTzJ0b0tjOS1BLVdwajhaQ2d6enV1eTRDd3RYMkFEbTNKTzcxVGtWTWllb2NCV3VRSXBYdXg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "蹭英伟达热点的上市公司收监管函",
-   "title_zh": "上市公司硬蹭英伟达热点收监管函 股价异动引关注 - 中华网",
-   "sentiment": 0
   }
  ]
 }
