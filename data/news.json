@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T13:51:29.267319+00:00",
+ "updated_at": "2026-10-21T14:06:28.807607+00:00",
  "market": {
-  "price": 219.87,
-  "change_pct": 1.57,
+  "price": 219.47,
+  "change_pct": 1.39,
   "as_of": "2026-10-21",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 27
   },
   "day_sentiment": {
-   "avg": 0.83,
-   "count": 281
+   "avg": 0.84,
+   "count": 289
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 74% 分位"
+     "note": "现价处于52周区间 73% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +43.3%"
+     "note": "目标价中位数 $315（15家），隐含空间 +43.5%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.83（281条已评分）"
+     "note": "今日新闻情绪 +0.84（289条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $219.87 vs 20日均线 $226.76"
+     "note": "现价 $219.47 vs 20日均线 $226.74"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 74,
+   "price_52w_pct": 73,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 43.3,
-   "ma20": 226.76,
-   "as_of": "2026-10-21T13:51:29.255098+00:00"
+   "implied_upside_pct": 43.5,
+   "ma20": 226.74,
+   "as_of": "2026-10-21T14:06:28.794181+00:00"
   },
   "pe_ttm": 27.9,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+43.3%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+43.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,74 @@
   }
  },
  "stories": [
+  {
+   "id": "d749f9b5fd86",
+   "title": "Chinese tech giants are buying Nvidia gaming chips for AI. Here's why - The Detroit News",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa1hHcms5eTZhTkc5NHRtaTUxOC1MSk5zT2lkTWlPYW1QNGxrVmtTLWJjbU14X2RRNmlUcnJYUjlOZjJvbGJjOGZ5ZUV1X3l5eXlSQk5WODY5NUQyV2w1VWt5YU9ILXdmeVMzZ1Q1X1gwQUtsSkJrUnJnaWNjVjI2cC16bXFIUHUySFpqaTZmeEdHYURCS2M2Mmt1MUxYcVFxbHU3YXZvTzYxOFRhbUo4",
+   "source": "The Detroit News",
+   "published_at": "2026-10-21T13:52:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Detroit News",
+     "published_at": "2026-10-21T13:52:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa1hHcms5eTZhTkc5NHRtaTUxOC1MSk5zT2lkTWlPYW1QNGxrVmtTLWJjbU14X2RRNmlUcnJYUjlOZjJvbGJjOGZ5ZUV1X3l5eXlSQk5WODY5NUQyV2w1VWt5YU9ILXdmeVMzZ1Q1X1gwQUtsSkJrUnJnaWNjVjI2cC16bXFIUHUySFpqaTZmeEdHYURCS2M2Mmt1MUxYcVFxbHU3YXZvTzYxOFRhbUo4"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "730f9b3b21c9",
+   "title": "NVIDIA unveils security architecture that can stop AI agents crossing set boundaries - Help Net Security",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFJsYllJcXNtVEd2N0FxdUFyLTJiZXlvZ2VQWjVIRlJTNjFLS3J6TkdQZXlUS3N2eDViSzFpdTB2aWgwZm1DTTh6YXBwQmhISk9QWDM1SnZyTzFUQ3IwcWlsUUYwZGdjdWxQXzlxM042SWNzREVrSVdhMFpEUlExeTI0LUxtejd4eWlJ",
+   "source": "Help Net Security",
+   "published_at": "2026-10-21T13:52:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Help Net Security",
+     "published_at": "2026-10-21T13:52:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFJsYllJcXNtVEd2N0FxdUFyLTJiZXlvZ2VQWjVIRlJTNjFLS3J6TkdQZXlUS3N2eDViSzFpdTB2aWgwZm1DTTh6YXBwQmhISk9QWDM1SnZyTzFUQ3IwcWlsUUYwZGdjdWxQXzlxM042SWNzREVrSVdhMFpEUlExeTI0LUxtejd4eWlJ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "6b03197be752",
+   "title": "英伟达联合思灵推出人形机器人参考平台Agile ONE SN，计划2027年初上市 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWI1bDNBYjAtdmJCWmxJQTJnRVdBZl9oR2hRMC1Tb1NRNmNxd1RtemdLNkVXbEdNT2laLWZ4aUF5VmVVa0NrWXZtZFZIdGpOQnBRenlCNjZIcERBWmFEQWNBa1c0My1ZNWFrcmo4ODRRYXlNN0RjeE1BSzFiSmhXUkp1Sk9JSzYx",
+   "source": "搜狐",
+   "published_at": "2026-10-21T13:49:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-21T13:49:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWI1bDNBYjAtdmJCWmxJQTJnRVdBZl9oR2hRMC1Tb1NRNmNxd1RtemdLNkVXbEdNT2laLWZ4aUF5VmVVa0NrWXZtZFZIdGpOQnBRenlCNjZIcERBWmFEQWNBa1c0My1ZNWFrcmo4ODRRYXlNN0RjeE1BSzFiSmhXUkp1Sk9JSzYx"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "1794e97610b1",
+   "title": "NVIDIA (NVDA) Leverages AI Growth to Expand Its Autonomous Driving Opportunity - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQS1Yczc4QnhSUFFxa3ZVWkxoN0F2NGVPWFJSUWRQbnBEU2VCZmhqQjNadVgxVUtJSy1QWVJzODBLY2pCNEVhRllCcDdENG92dDBnNmY1TzlQVFE5UVdfYVY4NjQwZy0tbGNKQWlqcWZjdDkxUlNhb1MycTlGZ0pTdEZmZ2FsQUhna1BPcTEtYVRkWkJDVnR4RlBfQQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-21T13:47:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T13:47:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQS1Yczc4QnhSUFFxa3ZVWkxoN0F2NGVPWFJSUWRQbnBEU2VCZmhqQjNadVgxVUtJSy1QWVJzODBLY2pCNEVhRllCcDdENG92dDBnNmY1TzlQVFE5UVdfYVY4NjQwZy0tbGNKQWlqcWZjdDkxUlNhb1MycTlGZ0pTdEZmZ2FsQUhna1BPcTEtYVRkWkJDVnR4RlBfQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "e606f22bfe1f",
    "title": "英伟达首席执行官 「欧洲不应只消费AI服务，还应具备生产AI的能力」 在GTC柏林大会主题演讲中表示 - 搜狐",
@@ -142,26 +210,6 @@
    "sentiment": 1
   },
   {
-   "id": "a4b4b0a44009",
-   "title": "黄仁勋算了一笔经济账，英伟达决定用“预制工厂”抢回数据中心工期 - 第一财经",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DS3V5SjVSOGhVWmVleFVUWjVwYmZ5YWFEdlhFUzZfT0hhQk5YLU1GNlhLenhRdmp3RVEtbEJZTUlsZjdnYnBEbmhrWWhvel9wM2o0",
-   "source": "第一财经",
-   "published_at": "2026-10-21T13:29:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "第一财经",
-     "published_at": "2026-10-21T13:29:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DS3V5SjVSOGhVWmVleFVUWjVwYmZ5YWFEdlhFUzZfT0hhQk5YLU1GNlhLenhRdmp3RVEtbEJZTUlsZjdnYnBEbmhrWWhvel9wM2o0"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达用预制工厂抢数据中心工期",
-   "title_zh": "黄仁勋算了一笔经济账，英伟达决定用“预制工厂”抢回数据中心工期 - 第一财经",
-   "sentiment": 1
-  },
-  {
    "id": "ea593098d4de",
    "title": "Nvidia CEO Jensen Huang says data center builders have to be ‘good neighbors’ - Yahoo! Finance Canada",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFBtTy01ZTJ1LTYwQjZ6eGYtOXU3WlUxZmV1X2VOY09pN2Zxc1lPWjM2SC1RZGRnd0R0dmFtTnRLcUpNX2M2N1hiSUJBY2FfUlVob2loRVp5WDJQTU83RWt0OUIwTTREX3VoOGJvS2dzbV9hMDNDNVFObXJtZWtNSGtINVYteVI0YkZId0YzdFdBNmg3M1E2RUtkUUU1b3ROT21MWlBjVnM1TzNIUVJYUkpPOHZ4eUllZmRIVF9COEJvQQ",
@@ -185,6 +233,31 @@
    "zh_summary": "黄仁勋称数据中心建造商要做\"好邻居\"",
    "title_zh": "英伟达CEO黄仁勋：数据中心建造商应做\"好邻居\"",
    "sentiment": 0
+  },
+  {
+   "id": "a4b4b0a44009",
+   "title": "黄仁勋算了一笔经济账，英伟达决定用“预制工厂”抢回数据中心工期 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcS1JbWRhM0EwN1BuOGdmYmpxUGtDTVJGYzJPNGhBcFQxRXVCY2c0NEdfTWJhN05wOG4xb2J1V3AwQWx6UEVxd0UzTHZ3YmRRY25rRl9BVUxXdFZwTy0tMFJabGZsUkpxOEhIcFE2QnJzenJlMkRaUWEyVDNLR1VHNVIwRFd1WkxI",
+   "source": "搜狐",
+   "published_at": "2026-10-21T13:27:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-21T13:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcS1JbWRhM0EwN1BuOGdmYmpxUGtDTVJGYzJPNGhBcFQxRXVCY2c0NEdfTWJhN05wOG4xb2J1V3AwQWx6UEVxd0UzTHZ3YmRRY25rRl9BVUxXdFZwTy0tMFJabGZsUkpxOEhIcFE2QnJzenJlMkRaUWEyVDNLR1VHNVIwRFd1WkxI"
+    },
+    {
+     "name": "第一财经",
+     "published_at": "2026-10-21T13:29:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DS3V5SjVSOGhVWmVleFVUWjVwYmZ5YWFEdlhFUzZfT0hhQk5YLU1GNlhLenhRdmp3RVEtbEJZTUlsZjdnYnBEbmhrWWhvel9wM2o0"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前",
+   "zh_summary": "英伟达用预制工厂抢数据中心工期",
+   "title_zh": "黄仁勋算了一笔经济账，英伟达决定用“预制工厂”抢回数据中心工期 - 第一财经",
+   "sentiment": 1
   },
   {
    "id": "057f76ca6a45",
@@ -265,6 +338,23 @@
    "zh_summary": "黄仁勋：电信网络蕴含100GW AI机遇",
    "title_zh": "黄仁勋：电信网络蕴含100GW AI机遇，TMUS/NOK已行动",
    "sentiment": 1
+  },
+  {
+   "id": "c0f7d82fd89f",
+   "title": "Amadeus与英伟达合作推出人工智能驱动的航班搜索功能 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3F0OElCM0hRaWIyZHI5UkFoZVROZExhZXhjeVYxa2FYOWJLR0RkWTFCSHptaVZ3cVlEZzlJYkdaX09kSnlvMVV5bjJVS1dDRTBHQTIyNWxoZ05GdXFPRnRmbThra3hxZXNFM3MwNUd4bGZnQ2x4QURuSG1vQ0JMa3VxQnExaU80THpibjVTN01vZ2N2bFpLNlN2bjFJaS1nLVE",
+   "source": "富途牛牛",
+   "published_at": "2026-10-21T13:18:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-21T13:18:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3F0OElCM0hRaWIyZHI5UkFoZVROZExhZXhjeVYxa2FYOWJLR0RkWTFCSHptaVZ3cVlEZzlJYkdaX09kSnlvMVV5bjJVS1dDRTBHQTIyNWxoZ05GdXFPRnRmbThra3hxZXNFM3MwNUd4bGZnQ2x4QURuSG1vQ0JMa3VxQnExaU80THpibjVTN01vZ2N2bFpLNlN2bjFJaS1nLVE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "7f57ee3c2a65",
@@ -595,6 +685,23 @@
    "zh_summary": "英伟达与谷歌云合作，Vera Rubin商用",
    "title_zh": "美股讯号 | 英伟达与谷歌云合作，VeraRubin基础设施正式商用 ｜#美股资讯# #英伟达# #行业合作# - 搜狐",
    "sentiment": 1
+  },
+  {
+   "id": "4b0f48288ff8",
+   "title": "SpaceX, Tesla, Meta, Nvidia, Netflix, AT&T, Super Micro, and More Stocks That Explain Today’s Market - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4YUloR29taVBza2QtN3ZsRGdXckdKeU9oQ3MwdG8yTkJOMjFVU1JyRktyc0pqYk45UlZXUUd6aGhxQXdJM3BrN0JUUkFzYUtHakp4c1Y2MW1YdTlWdkpjQWxFZGw",
+   "source": "Barron's",
+   "published_at": "2026-10-21T12:48:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-21T12:48:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4YUloR29taVBza2QtN3ZsRGdXckdKeU9oQ3MwdG8yTkJOMjFVU1JyRktyc0pqYk45UlZXUUd6aGhxQXdJM3BrN0JUUkFzYUtHakp4c1Y2MW1YdTlWdkpjQWxFZGw"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
   },
   {
    "id": "d24b525e1340",
@@ -995,6 +1102,23 @@
    "zh_summary": "英伟达推出AI手术模拟器",
    "title_zh": "英伟达推出AI手术模拟器Cosmos3-H-Dreams",
    "sentiment": 1
+  },
+  {
+   "id": "e40f1282aa30",
+   "title": "英伟达推出AI手术模拟器Cosmos3 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DSVRndFI3SWF2bXUtTVVuZHQyajRNYWdCWTlfQlNvMGlVRkU0aGJIaTRHNXdwQWpmWEpia1piX2xJVlBVRElTQTQ2N09Kem5veElxUjl6UFVaOU81MTY1Y3dELXVEUHIzQnpBRmI5UTM4MHNyaEUxZQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-21T12:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-21T12:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DSVRndFI3SWF2bXUtTVVuZHQyajRNYWdCWTlfQlNvMGlVRkU0aGJIaTRHNXdwQWpmWEpia1piX2xJVlBVRElTQTQ2N09Kem5veElxUjl6UFVaOU81MTY1Y3dELXVEUHIzQnpBRmI5UTM4MHNyaEUxZQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "526698e86b63",
@@ -3385,6 +3509,23 @@
    "sentiment": 1
   },
   {
+   "id": "268ce53389f7",
+   "title": "NVIDIA GTC Berlin: Live Updates on What’s Next in AI - NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw",
+   "source": "NVIDIA Blog",
+   "published_at": "2026-10-21T10:50:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Blog",
+     "published_at": "2026-10-21T10:50:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "9797d50f681b",
    "title": "英伟达扩展机器人平台 人形机器人参考平台Agile ONE SN明年初上市 - 凤凰网",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwZUhVUFJfOTN0TUhabEFuSllQdHotNVZsLVIyUzM1SnpvbEdmQUtXQ1pNaVlhN25QSFcxRWpJeVFHVkVPMUhxSDl5c3hvcGZ0cmc",
@@ -3519,26 +3660,6 @@
    "sentiment": 1
   },
   {
-   "id": "251ef1bf0879",
-   "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout - NVIDIA Newsroom",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFl2YjlqcF9vQ0s2QkdFMDBxNzdVT29ibDFOOUhxRlZhSDJmY0M4VENxOUNyLVNRdEFEcG54RkdUSHk0X2c4V0xOb1d0UmI3aHdSR0d2V0hRd2lQV0hWcXJfcU5vc0JzcUdOVzFTMl9XQjNaamF6ZTZSdWZuOU15RWVRNnBIMUh4c0ZfVy1JcDhUR0hGczl3UXBmcjc2ekxrVW9YMXdHU3lBYWZBMmxhbE5ScnFYTUhRZ0g1QjBpRmxCQQ",
-   "source": "NVIDIA Newsroom",
-   "published_at": "2026-10-21T10:43:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Newsroom",
-     "published_at": "2026-10-21T10:43:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFl2YjlqcF9vQ0s2QkdFMDBxNzdVT29ibDFOOUhxRlZhSDJmY0M4VENxOUNyLVNRdEFEcG54RkdUSHk0X2c4V0xOb1d0UmI3aHdSR0d2V0hRd2lQV0hWcXJfcU5vc0JzcUdOVzFTMl9XQjNaamF6ZTZSdWZuOU15RWVRNnBIMUh4c0ZfVy1JcDhUR0hGczl3UXBmcjc2ekxrVW9YMXdHU3lBYWZBMmxhbE5ScnFYTUhRZ0g1QjBpRmxCQQ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达携供应链伙伴扩产",
-   "title_zh": "英伟达与供应链伙伴扩产，加速AI基础设施建设",
-   "sentiment": 1
-  },
-  {
    "id": "b4a4cd3b4095",
    "title": "欧洲汽车厂商加速基于英伟达Hyperion平台开发自动驾驶汽车及Robotaxi - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uYkZmZHkwdFVyd2RuN2ZjUldsb3ByV2xrVmdMNFNLXy1zY1FyR2xtMEYxQnltTXh5LUtncXlQcDRreEJKTFllcEEzaWV0SFE0cVFjTGhQT3lCQVZKeGVVOWlBcnBYQQ",
@@ -3596,6 +3717,31 @@
    "session": "盘前",
    "zh_summary": "英伟达2027年2月新加坡大规模试产",
    "title_zh": "英伟达将于2027年2月在新加坡启动大规模测试生产",
+   "sentiment": 1
+  },
+  {
+   "id": "251ef1bf0879",
+   "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout - GlobeNewswire",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdjlXRmVJdFZEa1Fibk9XVF91OFJsYm4wbTlrSWYzUERVMzRoQ25sbHVsSjRzV3Z4YUdENHZrRWIzYnRFcmUzdXlTaWo3RVl5Tkgza0xmRjZCWHNhdW9tMEpSOXJLdkV2RHU2bFI2d3YyNzJneVBBMmxoVktZalVOemt4ZS1YODhueWNHempCcGJndng1azVCU0hpcnpQc3ZCUVRzVkNMMnBXcVNwMXRNNkpOMm9BODFJTXo2NmYzcHpYV0JweTNHMzVncnQ0NzFhT2Y1alRJODFyS2NQbHRNYVc5ampsT1pPU21oc2NTMVlhdkE",
+   "source": "GlobeNewswire",
+   "published_at": "2026-10-21T10:33:24+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "GlobeNewswire",
+     "published_at": "2026-10-21T10:33:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdjlXRmVJdFZEa1Fibk9XVF91OFJsYm4wbTlrSWYzUERVMzRoQ25sbHVsSjRzV3Z4YUdENHZrRWIzYnRFcmUzdXlTaWo3RVl5Tkgza0xmRjZCWHNhdW9tMEpSOXJLdkV2RHU2bFI2d3YyNzJneVBBMmxoVktZalVOemt4ZS1YODhueWNHempCcGJndng1azVCU0hpcnpQc3ZCUVRzVkNMMnBXcVNwMXRNNkpOMm9BODFJTXo2NmYzcHpYV0JweTNHMzVncnQ0NzFhT2Y1alRJODFyS2NQbHRNYVc5ampsT1pPU21oc2NTMVlhdkE"
+    },
+    {
+     "name": "NVIDIA Newsroom",
+     "published_at": "2026-10-21T10:43:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFl2YjlqcF9vQ0s2QkdFMDBxNzdVT29ibDFOOUhxRlZhSDJmY0M4VENxOUNyLVNRdEFEcG54RkdUSHk0X2c4V0xOb1d0UmI3aHdSR0d2V0hRd2lQV0hWcXJfcU5vc0JzcUdOVzFTMl9XQjNaamF6ZTZSdWZuOU15RWVRNnBIMUh4c0ZfVy1JcDhUR0hGczl3UXBmcjc2ekxrVW9YMXdHU3lBYWZBMmxhbE5ScnFYTUhRZ0g1QjBpRmxCQQ"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前",
+   "zh_summary": "英伟达携供应链伙伴扩产",
+   "title_zh": "英伟达与供应链伙伴扩产，加速AI基础设施建设",
    "sentiment": 1
   },
   {
@@ -5240,6 +5386,23 @@
    "sentiment": 2
   },
   {
+   "id": "cc8424272431",
+   "title": "公众号抢发热点硬蹭英伟达，一上市公司及董秘收深交所监管函 - 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaEcxd1hKSzVCUjNEUXpUVUFtbzBtbFdBb1dyX0ZaNXJIeFM2dWVfTHpCcGx4U0NSOVBCTm9ibUxnWnJNUVg3YWE4dzgtSmxHU3BDcnJ5MGc5djFOUjFEOVdvZ0ZmVXcxOFpTVmtkcFJERXIwSEVKMWd2ZmZ2b09FOWEtNVJtM0tuSHU0VmVYaw",
+   "source": "21财经",
+   "published_at": "2026-10-21T09:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "21财经",
+     "published_at": "2026-10-21T09:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaEcxd1hKSzVCUjNEUXpUVUFtbzBtbFdBb1dyX0ZaNXJIeFM2dWVfTHpCcGx4U0NSOVBCTm9ibUxnWnJNUVg3YWE4dzgtSmxHU3BDcnJ5MGc5djFOUjFEOVdvZ0ZmVXcxOFpTVmtkcFJERXIwSEVKMWd2ZmZ2b09FOWEtNVJtM0tuSHU0VmVYaw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "077d073ea213",
    "title": "From the lab to the live network: Nokia, T-Mobile and NVIDIA complete world’s first AI-RAN call - Nokia",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGtxMk1zNkJaRFhKNkhyQjJlelRBRDR4TGVyUjVCUmo5YWFFUUZzSHVicnJYUUk1UXVaVEkyTUJFTk96RUF5YlNWdXdUNkpLbFY0UGRaaWd4VWVsYmhDaldPTXJFeVhqOVczTmkxdmdpSG42U2JQaTlmNFdiejRnNkNSN0RON1VTbGhkX1VOeHBDY0Jla281OGhlQnNjZktJb0pSeWRpR2lQUVVZNFRRRmdlSnRkT19PbDNZWA",
@@ -5517,26 +5680,6 @@
    "zh_summary": "Groq下一代LPU架构转向3D堆叠DRAM",
    "title_zh": "英伟达旗下Groq下一代LPU架构转向3D堆叠DRAM 瞄准更大模型时代的容量需求- nVIDIA - cnBeta.COM",
    "sentiment": 0
-  },
-  {
-   "id": "2ffe4a64e3f7",
-   "title": "英伟达GTC大会聚焦机器人赛道，机器人ETF南方大涨超3% - 21财经",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd3YybVZRTzl5cGFKN1Z2a3Z6ME5aQUY0MEd0TGVJY3pBdkdpelBYNEZpWDBkd3ZHS1lKZDRHc01sX1d1bzdwNU5XXzlDWmM1cUF0STVRV2dSdy1CdDE1cF9JSUNMR2szamtpWGJTeXlRNkFOcUM0ZHZQY1ZlV09zZjZaNS1tSlJEOXJZaHZNS29BMlNa",
-   "source": "21财经",
-   "published_at": "2026-10-21T07:54:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "21财经",
-     "published_at": "2026-10-21T07:54:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd3YybVZRTzl5cGFKN1Z2a3Z6ME5aQUY0MEd0TGVJY3pBdkdpelBYNEZpWDBkd3ZHS1lKZDRHc01sX1d1bzdwNU5XXzlDWmM1cUF0STVRV2dSdy1CdDE1cF9JSUNMR2szamtpWGJTeXlRNkFOcUM0ZHZQY1ZlV09zZjZaNS1tSlJEOXJZaHZNS29BMlNa"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "GTC大会聚焦机器人赛道，机器人ETF涨超3%",
-   "title_zh": "英伟达GTC大会聚焦机器人赛道，机器人ETF南方大涨超3% - 21财经",
-   "sentiment": 1
   },
   {
    "id": "1bb5e011a4bc",
@@ -6290,186 +6433,6 @@
     "pct": -0.5,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "5d852bcd5c02",
-   "title": "英伟达公司洽谈投资Firmus Grid，此前该公司已放弃IPO计划 提供者 Investing.com - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZVmRJdGRxZmZ1WHhHT3BCTjZCRU5DcHo1a1A4S2hDaDBtczNhWjViSm5fTnlVVnJ3SGw5c3c4TXBWaHBmWnEzTjlZOEFFQ2JSTURNeDZZTGd4aEJnRmFpMGlEVnVCMWZBZVRuSDhOeDM",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-21T04:48:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-21T04:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZVmRJdGRxZmZ1WHhHT3BCTjZCRU5DcHo1a1A4S2hDaDBtczNhWjViSm5fTnlVVnJ3SGw5c3c4TXBWaHBmWnEzTjlZOEFFQ2JSTURNeDZZTGd4aEJnRmFpMGlEVnVCMWZBZVRuSDhOeDM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达洽谈投资Firmus Grid",
-   "title_zh": "英伟达公司洽谈投资Firmus Grid，此前该公司已放弃IPO计划 提供者 Investing.com - 英为财情 Investing.com",
-   "sentiment": 1
-  },
-  {
-   "id": "4041f1ebc4bc",
-   "title": "Can AI Accelerator Demand Keep Nvidia (NASDAQ:NVDA) Center Stage in Earnings Week? - Kalkine Media",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMEJlcXZmek5KWTlFZTZBVkVhRU1VTkpFZl9FT3QyX2hpZGZ2aG0xeDc5N0h2R3liLXBhdmUzTkxnMGdjZXRuaWx4dnRodHJmUG9KUkE5alQ5QXJmazBLb1JPbXRYZDdMM3R3cmU1UDRORUtuN0M2SG5IMjFndW5uLUtuR3ZRTUQ5dGlUVHBDR3U2WjljREhZeXp5Qjl5eHlpTUgxVTlNazd3Z2VjVzhHUDR0enBtWHNhMEoxcTYzamNHQ01pSGJtOEpQSTluNFdpbGhZ",
-   "source": "Kalkine Media",
-   "published_at": "2026-10-21T04:33:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Kalkine Media",
-     "published_at": "2026-10-21T04:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMEJlcXZmek5KWTlFZTZBVkVhRU1VTkpFZl9FT3QyX2hpZGZ2aG0xeDc5N0h2R3liLXBhdmUzTkxnMGdjZXRuaWx4dnRodHJmUG9KUkE5alQ5QXJmazBLb1JPbXRYZDdMM3R3cmU1UDRORUtuN0M2SG5IMjFndW5uLUtuR3ZRTUQ5dGlUVHBDR3U2WjljREhZeXp5Qjl5eHlpTUgxVTlNazd3Z2VjVzhHUDR0enBtWHNhMEoxcTYzamNHQ01pSGJtOEpQSTluNFdpbGhZ"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "AI加速器需求能否支撑英伟达财报周表现",
-   "title_zh": "AI加速器需求能否让英伟达在财报周继续领衔",
-   "sentiment": 0
-  },
-  {
-   "id": "1c3b63617fb4",
-   "title": "[News] NVIDIA RTX PRO 5500 Reportedly Draws $35B in China Orders, with Supply Seen at Just 5–10% - TrendForce",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0lBZW55c0QzWDZLZmZpbFRkRXUybmhULXJXSnowblFIUUw5T3lxY2tkZDhmTlM5d0E4Y3h1Rm9FUWRKdjN2RzJXdkJFN2JFVUZMcENsa2NzOGRiY0Zjcl83VnBicFd1Z05Jd0NTeVUxUVROMHV2YUxOMkRTRWh2VDFLYXdGckdZc2pzNW1nWklQZGVrWU90QUt4X2VWZGc3OG1OR196ZTRQOThhT1ZxN09mSEYzQXhpYnpYaDdFek53Znc0MXNOYXpqcEN4Tkpm",
-   "source": "TrendForce",
-   "published_at": "2026-10-21T04:23:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TrendForce",
-     "published_at": "2026-10-21T04:23:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0lBZW55c0QzWDZLZmZpbFRkRXUybmhULXJXSnowblFIUUw5T3lxY2tkZDhmTlM5d0E4Y3h1Rm9FUWRKdjN2RzJXdkJFN2JFVUZMcENsa2NzOGRiY0Zjcl83VnBicFd1Z05Jd0NTeVUxUVROMHV2YUxOMkRTRWh2VDFLYXdGckdZc2pzNW1nWklQZGVrWU90QUt4X2VWZGc3OG1OR196ZTRQOThhT1ZxN09mSEYzQXhpYnpYaDdFek53Znc0MXNOYXpqcEN4Tkpm"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘后",
-   "zh_summary": "英伟达RTX PRO 5500中国订单350亿美元",
-   "title_zh": "报道称英伟达RTX PRO 5500获350亿美元中国订单",
-   "sentiment": 2
-  },
-  {
-   "id": "e5788c14f098",
-   "title": "英伟达 新突破来了！ - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HYjRmZHNzRWw5Y0lkTVV1SXZ5NE9oLUxLSEVJNTlrYnotT0U2OUIyc1YxbUNpb3RlY2xHc3pBS3gtSGRNUnBVci1OQjlJTTdIRE03dW04ZWJlY2xFZmFXc28ybw",
-   "source": "东方财富",
-   "published_at": "2026-10-21T04:20:22+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T04:20:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HYjRmZHNzRWw5Y0lkTVV1SXZ5NE9oLUxLSEVJNTlrYnotT0U2OUIyc1YxbUNpb3RlY2xHc3pBS3gtSGRNUnBVci1OQjlJTTdIRE03dW04ZWJlY2xFZmFXc28ybw"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-21T04:33:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSaVgySEhkV0FGbGpPR2RpUUkzbExWc3BuWGxoUE1mQ0UwMVdfbGk1ME5DS3dickFMRzRJaHotU3JQZ0NyNmtSM2p3QWRkWGp5VW5DbC15aFRtdjdSNUdSVktDQTFYcV9wR013OUZtcVRGZlc1THpTMQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达迎来新突破",
-   "title_zh": "英伟达 新突破来了！ - 东方财富",
-   "sentiment": 1
-  },
-  {
-   "id": "be48efde8602",
-   "title": "SpaceX Can't Find Spare Nvidia, Google or Amazon Chips Despite Billions to Spend, Strategist Terms It 'Pretty Insane' - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYV9jamxQR0ZYU0dKdjNPZWlFeVBrSVNfOWFETkdYT25sN3FZT0ctMk1vcGc0dk9fZ2E3Ym5LWFdEU00zWVhsSmpFT2hBX1Vrb21TUWdqNU5OYkJRaHgxM1FuX1JLUWZ1RVRsTzI1cVBReW5VZXgyamRmcW9GZldaWUJfWGlrQWlxZ0NjZFlaaTA5Ymozcld3ZllOYw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-21T04:14:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T04:14:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYV9jamxQR0ZYU0dKdjNPZWlFeVBrSVNfOWFETkdYT25sN3FZT0ctMk1vcGc0dk9fZ2E3Ym5LWFdEU00zWVhsSmpFT2hBX1Vrb21TUWdqNU5OYkJRaHgxM1FuX1JLUWZ1RVRsTzI1cVBReW5VZXgyamRmcW9GZldaWUJfWGlrQWlxZ0NjZFlaaTA5Ymozcld3ZllOYw"
-    },
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-21T04:14:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUtlTFdLMFFqTGRsQXZYa3ZNeW84UnBOUUswZzQteUZXYjlfQXhXMFQ5MWdSVkxIUmExNXU5NzF2ejlHTnBGbHFpUnpBYVB6ck1vcWNfLXVzTHVMaXM2SVNNbjdlYTYzX0dKUW5ldE9uU0NaVURueXVoQ1FpN2hGbnNGaVoyYklkQ1M2NjRVbWoyWmFfZWlsLW1kVjRmLUhibGcxWEpyVngyZzNTYkV3"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "SpaceX斥巨资仍难购英伟达芯片",
-   "title_zh": "SpaceX有钱也买不到英伟达、谷歌或亚马逊芯片",
-   "sentiment": 1
-  },
-  {
-   "id": "1831d79ee3e5",
-   "title": "DeepSeek 与华为合作设计 AI 芯片，训练环节彻底“去英伟达化” - OSCHINA",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02R0lnWmg3Z3dmZl9GUmlDOVVzamlreGVvdVg4VEZ6aE92eHV6V2VUX2tVeUo0WURIbU5wZjJ2VkNDX2ZfcE5URW1ZWQ",
-   "source": "OSCHINA",
-   "published_at": "2026-10-21T04:11:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "OSCHINA",
-     "published_at": "2026-10-21T04:11:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02R0lnWmg3Z3dmZl9GUmlDOVVzamlreGVvdVg4VEZ6aE92eHV6V2VUX2tVeUo0WURIbU5wZjJ2VkNDX2ZfcE5URW1ZWQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "DeepSeek联手华为推去英伟达化AI芯片",
-   "title_zh": "DeepSeek与华为合作设计AI芯片去英伟达化",
-   "sentiment": -1
-  },
-  {
-   "id": "c9e14e17b6e0",
-   "title": "英伟达换思路！下一代Groq AI芯片放弃超大缓存：改用堆叠内存 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zMThtbU5pYkkydVZITElzUWtYRTc2b2M4UjQ1a3QxY3ZzWjZfZnVJdkt0WmwxQlFLWEVQTjg5bVUwZEVCUFpodkstemZlTlFZUm9QYTFyeUU",
-   "source": "驱动之家",
-   "published_at": "2026-10-21T04:07:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-21T04:07:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zMThtbU5pYkkydVZITElzUWtYRTc2b2M4UjQ1a3QxY3ZzWjZfZnVJdkt0WmwxQlFLWEVQTjg5bVUwZEVCUFpodkstemZlTlFZUm9QYTFyeUU"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-21T04:13:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13dVFyZmdPV0RJSDY3SHR0YjBCbU02ekw2YzBQMG9ZQ1Q1Wnlka0Fvc1Jyd0VUX1Ewb2V1YlF2SU0xQzR4ZEkxczVSSzJZRldvTFhJSC1kTnhRb2FWZXF6REdfR0pYMUczYlFJUUpfdlpUd3VnTk1KLS1CaFI"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "Groq下一代AI芯片改用堆叠内存",
-   "title_zh": "Groq下一代AI芯片放弃超大缓存改用堆叠内存",
-   "sentiment": 0
-  },
-  {
-   "id": "68b8ef9eebe6",
-   "title": "F5 and Telenor Partner to Build the AI Service Plane for Sovereign AI on NVIDIA-powered AI Factory Infrastructure - Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS0JKaldnb3pQZHhRNmlYcjZBVmtfb1QxOHlKYU5PMlZ6dHpNdDRoUmhtcDZEQ0hRTFQ2V2RnY0Y4Yngyc1BMTGE4TXFjUmxEajkxZm9ldVdTOW1GQ0NKNWk2TzVQb3EzWnRiT3NQcWRXaVg0emhBenVvWWUtNlROLWx5YmIyN2hqdHQyNy0xVVd4bjM4eWNvVVZCcUUyMWtNbTlZTERNajRPYmZ4a1cwUHpXWUNCZDd2Q0ZoYXRlMjRSNDBZMVhQLXlWMXhyUkpVdlN1WFBUOE1hVHo5dW4xS3drRUt4WFV6bDk0dW5xTnJoU1g0ZDBFSmNKaHdHSUU",
-   "source": "Business Wire",
-   "published_at": "2026-10-21T04:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Business Wire",
-     "published_at": "2026-10-21T04:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS0JKaldnb3pQZHhRNmlYcjZBVmtfb1QxOHlKYU5PMlZ6dHpNdDRoUmhtcDZEQ0hRTFQ2V2RnY0Y4Yngyc1BMTGE4TXFjUmxEajkxZm9ldVdTOW1GQ0NKNWk2TzVQb3EzWnRiT3NQcWRXaVg0emhBenVvWWUtNlROLWx5YmIyN2hqdHQyNy0xVVd4bjM4eWNvVVZCcUUyMWtNbTlZTERNajRPYmZ4a1cwUHpXWUNCZDd2Q0ZoYXRlMjRSNDBZMVhQLXlWMXhyUkpVdlN1WFBUOE1hVHo5dW4xS3drRUt4WFV6bDk0dW5xTnJoU1g0ZDBFSmNKaHdHSUU"
-    },
-    {
-     "name": "Yahoo Finance Singapore",
-     "published_at": "2026-10-21T04:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMEItTVVjV19LM3dUZW8xVlpqdXZNQmJlT0RBZWtGbVhwSXpybDhyNDA4d2hSeU11TjB6N2ZFdWdCb3NWSzJzM01iN1lBdk5aT051RmVQTG56V2lCeUYwUlFiNGFFY1U2Q0F2S3BoVDN6VE9lemcwVDgxQ25OaWRpdlFR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "F5与Telenor合作打造主权AI服务平台",
-   "title_zh": "F5与Telenor合作，在NVIDIA AI工厂基础设施上构建主权AI服务平面",
-   "sentiment": 1
   }
  ]
 }
