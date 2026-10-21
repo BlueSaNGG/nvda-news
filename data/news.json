@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T18:06:37.819291+00:00",
+ "updated_at": "2026-10-21T18:21:41.025395+00:00",
  "market": {
-  "price": 221.58,
-  "change_pct": 2.36,
+  "price": 221.8,
+  "change_pct": 2.46,
   "as_of": "2026-10-21",
   "next_earnings": {
    "date": "2026-11-17",
@@ -25,7 +25,7 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +42.2%"
+     "note": "目标价中位数 $315（15家），隐含空间 +42.0%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $221.58 vs 20日均线 $226.85"
+     "note": "现价 $221.80 vs 20日均线 $226.86"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 76,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 42.2,
-   "ma20": 226.85,
-   "as_of": "2026-10-21T18:06:37.801710+00:00"
+   "implied_upside_pct": 42.0,
+   "ma20": 226.86,
+   "as_of": "2026-10-21T18:21:41.006984+00:00"
   },
   "pe_ttm": 28.2,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "9f9938bf0d52",
+   "title": "Amazon Nvidia Chips Sit In Warehouses Without Power: Business Insider - Amazon.com (NASDAQ:AMZN) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzhVVHdfQ3UzVl8zQkhmWFBVZ21UVlNsWUthNTg5NEdNVkJsdVhZaUFydTBIZXlyUl9UOUVEYU12MFJJT1NMMExzSkl3Zks5eTlJLWx6bUtPdFN5RlZVTG50RlNiNVNiUFFJX2RXdzVtSk1lWUJIc1lxdlFZbFIwOVpKU1ZobXpIUFk5WmpDcGlCcEZ6Q3ZIemJPY3pPQUphWm00MkRB",
+   "source": "Benzinga",
+   "published_at": "2026-10-21T18:06:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-21T18:06:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzhVVHdfQ3UzVl8zQkhmWFBVZ21UVlNsWUthNTg5NEdNVkJsdVhZaUFydTBIZXlyUl9UOUVEYU12MFJJT1NMMExzSkl3Zks5eTlJLWx6bUtPdFN5RlZVTG50RlNiNVNiUFFJX2RXdzVtSk1lWUJIc1lxdlFZbFIwOVpKU1ZobXpIUFk5WmpDcGlCcEZ6Q3ZIemJPY3pPQUphWm00MkRB"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "d3194c74ec8f",
    "title": "Nvidia Is AI’s Central Bank. Now Jensen Huang Must Step Up - Bloomberg.com",
@@ -80,6 +97,23 @@
    "zh_summary": "英伟达被称为AI中央银行",
    "title_zh": "英伟达是AI的中央银行，现在黄仁勋必须挺身而出",
    "sentiment": 0
+  },
+  {
+   "id": "edc4e6bf880a",
+   "title": "Nvidia’s Jensen Huang joined on stage by robot ducks as he hails Europe’s AI potential - New York Post",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVzlzdE5JS2dTbU0zX1BzVWwzQkUtZ2xQbGdSaUdCN3V2aXB3ZVJWLWoxYV9IeS1EYy1aQVZTblNTYjdyTnQ3OTVLejFDS2o3Nm40REtzU0I4Sm5HWkxrWF9TNmNiVWxwTmM1dEktQWUwanEwYzRjTVNTREUySS1fd2p3UWFKdGhVY01KVTIyUF9GYmstTmVnTlhBZVB6cWJKZ1lway1uZ1Z5WEl5eWVvTlVMbjA0blFjWVAzbHpHQXRvUQ",
+   "source": "New York Post",
+   "published_at": "2026-10-21T17:52:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "New York Post",
+     "published_at": "2026-10-21T17:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVzlzdE5JS2dTbU0zX1BzVWwzQkUtZ2xQbGdSaUdCN3V2aXB3ZVJWLWoxYV9IeS1EYy1aQVZTblNTYjdyTnQ3OTVLejFDS2o3Nm40REtzU0I4Sm5HWkxrWF9TNmNiVWxwTmM1dEktQWUwanEwYzRjTVNTREUySS1fd2p3UWFKdGhVY01KVTIyUF9GYmstTmVnTlhBZVB6cWJKZ1lway1uZ1Z5WEl5eWVvTlVMbjA0blFjWVAzbHpHQXRvUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "a2642be28ab9",
@@ -931,6 +965,23 @@
    "zh_summary": "英伟达发布DSX POD模块化AI数据中心",
    "title_zh": "英伟达发布DSX POD模块化AI数据中心，股价盘前上涨",
    "sentiment": 1
+  },
+  {
+   "id": "6bd57fabf9a1",
+   "title": "Jensen Huang At GTC Berlin: Nvidia Showcases A Full Stack - Forbes",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbFlXVU1ONDlRVkhxOFF0UUVFRzE1WTBVU056MXl2NjdxMnpGQ2NHMkFSUlJiSFVWQkhPRDJyTTJNbk9Udjk2OGItYjg3TC1sTlhaOWdiR3AtMXhnVm10YlBZSXJ4R0tnR0pFQUhCNElxaTdmMlJuV1NMbHVhc0xDVmMyMGstNTRxeDhoMmowVEJfMzNGY2RVWEplemlSSVd6c3Q0S1hsV2ZObmZ1",
+   "source": "Forbes",
+   "published_at": "2026-10-21T14:12:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Forbes",
+     "published_at": "2026-10-21T14:12:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbFlXVU1ONDlRVkhxOFF0UUVFRzE1WTBVU056MXl2NjdxMnpGQ2NHMkFSUlJiSFVWQkhPRDJyTTJNbk9Udjk2OGItYjg3TC1sTlhaOWdiR3AtMXhnVm10YlBZSXJ4R0tnR0pFQUhCNElxaTdmMlJuV1NMbHVhc0xDVmMyMGstNTRxeDhoMmowVEJfMzNGY2RVWEplemlSSVd6c3Q0S1hsV2ZObmZ1"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "9918845d2e56",
@@ -2266,7 +2317,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONW15VVduQ1FncVN5czlMYkJnWWFPZjBYbUNmcktQMDJqbGNqSzBqNUJiY3FvRjR6YkN0WVQ2UXQyX2NrZ3FqT2JWbk43cm9HdzY5X1NaRDRTN3cyZ00zenVkU2xqdHZnZ3ZXVG9yaTE1cVpMMHJjVDZ4WDdiU2c3REtmOE9LaW40",
    "source": "搜狐",
    "published_at": "2026-10-21T12:18:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐",
@@ -2277,13 +2328,22 @@
      "name": "新浪财经",
      "published_at": "2026-10-21T12:46:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14MXVhTWY3c0VjSGdKanNMZVpFS0RaNEFobEoySWlGcWoteXkybUhuTG5yMW9ZZTFxaWxaWENwYmNfRkdXaUY4TlVHQnl5MUx2c3IwMWI4U3pUX3BCMngxR1hYVTJQazJTRzk4eWRKVnMxSmZFVDQ4aTVOM1k"
+    },
+    {
+     "name": "财联社",
+     "published_at": "2026-10-21T12:20:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YQ0dLUXhKNnVnRjlqZGFVTGNMbjFJeWM0WmV3YzVXOTl0Tms2eHJ4dno2X3hoQUNtOXpHYmR5VmNtOU1UdldSUg"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "英伟达推出AI手术模拟器",
    "title_zh": "英伟达推出AI手术模拟器Cosmos3-H-Dreams",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.29,
+    "window_h": 2.0
+   }
   },
   {
    "id": "e40f1282aa30",
@@ -6512,66 +6572,6 @@
    "session": "盘前",
    "zh_summary": "欧洲携手英伟达DSX建高效AI工厂",
    "title_zh": "欧洲生态系统携手英伟达DSX打造全球最高效的AI工厂",
-   "sentiment": 1
-  },
-  {
-   "id": "b70458cff455",
-   "title": "协创数据：除英伟达GPU外持续关注并评估国产GPU等异构算力产品的适配和采购机会 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mZ3RaWGhERnE5VGYwRVdYNVhKSlpvRkg0STFVSXEzNExEU2U1QzZkUEhUY240SjNZTUFVbTVuemdvNG5HWUpkQkdBOEktS2loWmUxemRveWo4Y012WmNYT3BNT2hTQQ",
-   "source": "东方财富",
-   "published_at": "2026-10-21T09:34:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T09:34:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mZ3RaWGhERnE5VGYwRVdYNVhKSlpvRkg0STFVSXEzNExEU2U1QzZkUEhUY240SjNZTUFVbTVuemdvNG5HWUpkQkdBOEktS2loWmUxemRveWo4Y012WmNYT3BNT2hTQQ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "协创数据评估国产GPU采购机会",
-   "title_zh": "协创数据：持续评估国产GPU适配和采购机会",
-   "sentiment": 0
-  },
-  {
-   "id": "765af964b6a9",
-   "title": "英伟达推出DSX POD AI工厂，加速欧洲基础设施部署 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkJRWjlvbUQweExPNmFtUWRldnBEaG1SSzRGeUpKNlBtcHZXaUwyb2NBNzI2czljVGdsdUdIM1pmVUJJbG1hSF9XNkxQSTZiUTJJMGFOcDFFNXdJTVg1R0syY0pib3NYR1dOMTVhdkdieFFpSzNnOVlVWnEza0Q1YmEzVl9jSVJKRlZOcmZwaXFzaEZvYWp1d2hQeHo0NWROT1B0OUtnVUFreEl5RGRj",
-   "source": "Moomoo",
-   "published_at": "2026-10-21T09:34:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-21T09:34:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkJRWjlvbUQweExPNmFtUWRldnBEaG1SSzRGeUpKNlBtcHZXaUwyb2NBNzI2czljVGdsdUdIM1pmVUJJbG1hSF9XNkxQSTZiUTJJMGFOcDFFNXdJTVg1R0syY0pib3NYR1dOMTVhdkdieFFpSzNnOVlVWnEza0Q1YmEzVl9jSVJKRlZOcmZwaXFzaEZvYWp1d2hQeHo0NWROT1B0OUtnVUFreEl5RGRj"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达推DSX POD加速欧洲部署",
-   "title_zh": "英伟达推出DSX POD AI工厂，加速欧洲基础设施部署 - Moomoo",
-   "sentiment": 1
-  },
-  {
-   "id": "687c0f8717f8",
-   "title": "英伟达官宣重大突破！这次不是AI - 中国经济网",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jdm1aNF9UUnpWWjRfWXNLTHZDSlMxTkZfRTZwX0JkeUxJRXl3WF8ySUZ0Z01jU2hxT2N0MDhoOW9iUkVvelQycjg2WTdpTi0wdVNhUjAwQWhaaV9SSEdJ",
-   "source": "中国经济网",
-   "published_at": "2026-10-21T09:17:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中国经济网",
-     "published_at": "2026-10-21T09:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Jdm1aNF9UUnpWWjRfWXNLTHZDSlMxTkZfRTZwX0JkeUxJRXl3WF8ySUZ0Z01jU2hxT2N0MDhoOW9iUkVvelQycjg2WTdpTi0wdVNhUjAwQWhaaV9SSEdJ"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "英伟达宣布重大突破但非AI领域",
-   "title_zh": "英伟达官宣重大突破！这次不是AI - 中国经济网",
    "sentiment": 1
   }
  ]
