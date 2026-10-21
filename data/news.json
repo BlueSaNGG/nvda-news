@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T17:51:43.536595+00:00",
+ "updated_at": "2026-10-21T18:06:37.819291+00:00",
  "market": {
-  "price": 221.7,
-  "change_pct": 2.42,
+  "price": 221.58,
+  "change_pct": 2.36,
   "as_of": "2026-10-21",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 27
   },
   "day_sentiment": {
-   "avg": 0.84,
-   "count": 298
+   "avg": 0.85,
+   "count": 297
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +42.1%"
+     "note": "目标价中位数 $315（15家），隐含空间 +42.2%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.84（298条已评分）"
+     "note": "今日新闻情绪 +0.85（297条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $221.70 vs 20日均线 $226.85"
+     "note": "现价 $221.58 vs 20日均线 $226.85"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 76,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 42.1,
+   "implied_upside_pct": 42.2,
    "ma20": 226.85,
-   "as_of": "2026-10-21T17:51:43.521975+00:00"
+   "as_of": "2026-10-21T18:06:37.801710+00:00"
   },
   "pe_ttm": 28.2,
   "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+42.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "d3194c74ec8f",
+   "title": "Nvidia Is AI’s Central Bank. Now Jensen Huang Must Step Up - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2k3YVNKMXlzcHkwdnZIZV9IRWFCV2NuZExjblJkSmRjb2hQcS1GVmc2Y19Ca3oya2RqMlAxeEh0aUg1QnNRdHg2LUJQMVN2czI0c0ozNEgxa1V5MUhrMWdGdjJBLWU0MGYyVFdsR1BEeXZhWmtibkdvNHdlMWtPSHc3SnVHc0JlYTF5dXhyTWZqSmhkYVItX3JCaEk4U3c4cnNOSEMwc2dfdEpsSE5pdFBwMUlFWEdPeDFnUFB4YzQyQUxKT2JtMlF3",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-21T18:01:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-21T18:01:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2k3YVNKMXlzcHkwdnZIZV9IRWFCV2NuZExjblJkSmRjb2hQcS1GVmc2Y19Ca3oya2RqMlAxeEh0aUg1QnNRdHg2LUJQMVN2czI0c0ozNEgxa1V5MUhrMWdGdjJBLWU0MGYyVFdsR1BEeXZhWmtibkdvNHdlMWtPSHc3SnVHc0JlYTF5dXhyTWZqSmhkYVItX3JCaEk4U3c4cnNOSEMwc2dfdEpsSE5pdFBwMUlFWEdPeDFnUFB4YzQyQUxKT2JtMlF3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "a2642be28ab9",
+   "title": "Nvidia Seeks to Slash Data Center Deployment Times with New DSX Pods - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtV3BmTlMzTm5FWGxBZlRnSld6VU5leE1fTExCX3oxT0xuWk54WFdNRnQzRGJXbnVNVS1uQUZyYU1wNm9UUFVqczNiVUF2eVotanM5ZllhZjhQSXg1Nmhpc0g4TVB0cTdzS3laUWtzZUJYNGg3ZUtQVA",
+   "source": "Barron's",
+   "published_at": "2026-10-21T17:21:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-21T17:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtV3BmTlMzTm5FWGxBZlRnSld6VU5leE1fTExCX3oxT0xuWk54WFdNRnQzRGJXbnVNVS1uQUZyYU1wNm9UUFVqczNiVUF2eVotanM5ZllhZjhQSXg1Nmhpc0g4TVB0cTdzS3laUWtzZUJYNGg3ZUtQVA"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
   {
    "id": "34cdbcdf441a",
    "title": "Vertiv, Nvidia Target 30% More AI Token Output - Benzinga",
@@ -1609,6 +1643,23 @@
    "zh_summary": "Vaisala与英伟达合作AI天气预警",
    "title_zh": "Vaisala与英伟达合作提供AI极端天气预警",
    "sentiment": 1
+  },
+  {
+   "id": "218a7c2b608a",
+   "title": "Procore Collaborates with NVIDIA to Deliver Advanced Digital Twin Capabilities to Predict and Minimize Risks for Megaprojects - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1hsV0I1ekNRaGR5OExRWGVSeWpieXJmWUh2NXhIbHNfTDlFVnB2VjM4LUxPNVIzeU5yWVdxWlNJSlhESkVmUGhuY0NmeUtZSTlLUTVBZ0RWa1JELXRMVDR6SWRPOFVJT1BTc2pmdlBrc0V5d0R1cnprNnBLZmFvY3ZzWkZSUlFiM2tJSTFVbGIxTUNUNzA4YUM1ekNyQU5jVUlvQm9CNkUzd3Zt",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-21T13:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T13:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1hsV0I1ekNRaGR5OExRWGVSeWpieXJmWUh2NXhIbHNfTDlFVnB2VjM4LUxPNVIzeU5yWVdxWlNJSlhESkVmUGhuY0NmeUtZSTlLUTVBZ0RWa1JELXRMVDR6SWRPOFVJT1BTc2pmdlBrc0V5d0R1cnprNnBLZmFvY3ZzWkZSUlFiM2tJSTFVbGIxTUNUNzA4YUM1ekNyQU5jVUlvQm9CNkUzd3Zt"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "36f8a6d7fea1",
@@ -3918,12 +3969,17 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdVNsUXZsZWE1Z1hWZkhhOG9XX0FRbDJUenk4Q3VFbVhCal9odU1haWhldUFua1dBN1c1SjQ4Nl8tWTBtUzJMTE50WTVvMVZ5NVB3NnZBRm9meWctZEZFMThJWE1NZW8tSnF1Mm9Sa1ZrSkM0TVIzcFp5OUtDQmVURVZ1clJXQkMtRGlvMXR6WXlZTktTMVRla0tHZG4teEQ5YzFsVmtVUExLaTU3R3ZueXJHWG9qeHR3SXQ2dkVzNlNlQmpQWU8xSU5TYw",
    "source": "Barchart.com",
    "published_at": "2026-10-21T11:26:07+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Barchart.com",
      "published_at": "2026-10-21T11:26:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdVNsUXZsZWE1Z1hWZkhhOG9XX0FRbDJUenk4Q3VFbVhCal9odU1haWhldUFua1dBN1c1SjQ4Nl8tWTBtUzJMTE50WTVvMVZ5NVB3NnZBRm9meWctZEZFMThJWE1NZW8tSnF1Mm9Sa1ZrSkM0TVIzcFp5OUtDQmVURVZ1clJXQkMtRGlvMXR6WXlZTktTMVRla0tHZG4teEQ5YzFsVmtVUExLaTU3R3ZueXJHWG9qeHR3SXQ2dkVzNlNlQmpQWU8xSU5TYw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T11:26:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaUZUTjRrMXpoYXFnZlNiQlpkZEVwMllWMXB2akU5MXY1bDJES2h6SURONkZsYVdqUmxZcGNsc3BOWHBmTUJrR01IN1FPRS1QZjBIaDBaWURsTlZncy0xdFV1SzFRWUphTkRNTHRyS2ptRG5kSFNhaGVPYzFFYTVDLXVNNVcxQk5HamlkMGgyU2Q3TS11bGs0"
     }
    ],
    "category": "分析师",
@@ -5050,7 +5106,7 @@
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdjlXRmVJdFZEa1Fibk9XVF91OFJsYm4wbTlrSWYzUERVMzRoQ25sbHVsSjRzV3Z4YUdENHZrRWIzYnRFcmUzdXlTaWo3RVl5Tkgza0xmRjZCWHNhdW9tMEpSOXJLdkV2RHU2bFI2d3YyNzJneVBBMmxoVktZalVOemt4ZS1YODhueWNHempCcGJndng1azVCU0hpcnpQc3ZCUVRzVkNMMnBXcVNwMXRNNkpOMm9BODFJTXo2NmYzcHpYV0JweTNHMzVncnQ0NzFhT2Y1alRJODFyS2NQbHRNYVc5ampsT1pPU21oc2NTMVlhdkE",
    "source": "GlobeNewswire",
    "published_at": "2026-10-21T10:33:24+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "GlobeNewswire",
@@ -5061,13 +5117,22 @@
      "name": "NVIDIA Newsroom",
      "published_at": "2026-10-21T10:43:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFl2YjlqcF9vQ0s2QkdFMDBxNzdVT29ibDFOOUhxRlZhSDJmY0M4VENxOUNyLVNRdEFEcG54RkdUSHk0X2c4V0xOb1d0UmI3aHdSR0d2V0hRd2lQV0hWcXJfcU5vc0JzcUdOVzFTMl9XQjNaamF6ZTZSdWZuOU15RWVRNnBIMUh4c0ZfVy1JcDhUR0hGczl3UXBmcjc2ekxrVW9YMXdHU3lBYWZBMmxhbE5ScnFYTUhRZ0g1QjBpRmxCQQ"
+    },
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-10-21T17:49:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0oxaEZyZWJ2M2wtTFFOc1RtaVpvUEt6UldnSU1VTWt0RXRkRnJicDdic3dYUjRRNUhKQUNjQXVHMnprSm5MZk5WWFpVa0hEMUdsdjU3SXBBMDZxVDR3VFpQZ0VPMTZVYTdnLTdNWGJUdGJjQkc4ZlRnV2ROb0dHbGUwdzVrOWJKdkx6dkhnbEp3Q3JuVnhybGpsclJQV3p5SGVSMGZwSS1jLUk0d0RQa0NkQkxMWTJhb2YtMW10UXB1UdIBxwFBVV95cUxQcjBPX1YtM0wwdG1VUXNiN1B5X3JUUmRLOG1JeEZITzkwWURaOFptNENFQWZhckE5LW1acUpoX1U1d0EwcDRqMTVZY3RySF9GRnI0b3ZNRlRxYk05SmdtYkFsb3dHSnk3ZW1XclhwWHY4VlZNM29vZzUxcE16LUhZM0tWMHRrSldvSkdONzFWTWJFUURuOTNjWXMxNTB2MFpsQS0tRGJrMmxYSFJZeFRmTmpHZGhCQ0pyS3RqcnNfZDJ5Tmdkczdv"
     }
    ],
    "category": "AI需求",
    "session": "盘前",
    "zh_summary": "英伟达携供应链伙伴扩产",
    "title_zh": "英伟达与供应链伙伴扩产，加速AI基础设施建设",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.29,
+    "window_h": 2.0
+   }
   },
   {
    "id": "fc7d02265e33",
@@ -6498,66 +6563,6 @@
    "session": "盘前",
    "zh_summary": "英伟达宣布重大突破但非AI领域",
    "title_zh": "英伟达官宣重大突破！这次不是AI - 中国经济网",
-   "sentiment": 1
-  },
-  {
-   "id": "8ff2b653fc0c",
-   "title": "英伟达CEO黄仁勋：我们在欧洲拥有超过12000个合作伙伴关系。 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3Z5aWppTEtieDFwUW1YVlJPTklsdlVla2EyRXdMRnMtX3BlSlZvQ1lBOVdBSTFxSVpRQktpc3dzcm9GaE5Gb3FyZWRKWVZWcmVmY0NWdWtqbGR0NXFLaEJMNS1Tc0hrQ2xrLXNxVy1LVG1ZSFZBY2FrcTZEaWRuUldMVTg4cl9SVlZQTkxnR3N6SE5pU2ZfbWdNTWlsMUNY",
-   "source": "富途牛牛",
-   "published_at": "2026-10-21T09:15:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-21T09:15:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3Z5aWppTEtieDFwUW1YVlJPTklsdlVla2EyRXdMRnMtX3BlSlZvQ1lBOVdBSTFxSVpRQktpc3dzcm9GaE5Gb3FyZWRKWVZWcmVmY0NWdWtqbGR0NXFLaEJMNS1Tc0hrQ2xrLXNxVy1LVG1ZSFZBY2FrcTZEaWRuUldMVTg4cl9SVlZQTkxnR3N6SE5pU2ZfbWdNTWlsMUNY"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋称英伟达在欧洲有超12000家合作伙伴",
-   "title_zh": "英伟达CEO黄仁勋：我们在欧洲拥有超过12000个合作伙伴关系。 - 富途牛牛",
-   "sentiment": 1
-  },
-  {
-   "id": "b33e962da9a7",
-   "title": "Heckler Briefly Disrupts Nvidia CEO Keynote - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU004NGw2YnFDNllkNG1rY3BZV0UwTU1RbG5pN29nODFUczlUSWtaeFpScnFSWFR4NXdud0pPTlJHV3p3OExIQjcwOXpRU3JqQk5ZM1hkRFBTNDh1blE2UU9OOXRQZUgyaUNaNUJqMzl0OEdhQnF6TkJUQ3pRR3A3SmprMFdtYnI0Vm84STVXWFdRWTRVZXBhRVloZndGQy1sU2ltYzFSOUsyTDF6ZTVrQUxYZHRUMldxNlJ1SFFkZndJTExrMXoxbEE4Z0tCeGhPVEo3WFFHZEczYVRmUGh5RHBJc08",
-   "source": "WSJ",
-   "published_at": "2026-10-21T09:07:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-21T09:07:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU004NGw2YnFDNllkNG1rY3BZV0UwTU1RbG5pN29nODFUczlUSWtaeFpScnFSWFR4NXdud0pPTlJHV3p3OExIQjcwOXpRU3JqQk5ZM1hkRFBTNDh1blE2UU9OOXRQZUgyaUNaNUJqMzl0OEdhQnF6TkJUQ3pRR3A3SmprMFdtYnI0Vm84STVXWFdRWTRVZXBhRVloZndGQy1sU2ltYzFSOUsyTDF6ZTVrQUxYZHRUMldxNlJ1SFFkZndJTExrMXoxbEE4Z0tCeGhPVEo3WFFHZEczYVRmUGh5RHBJc08"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "抗议者短暂打断黄仁勋演讲",
-   "title_zh": "抗议者短暂打断黄仁勋演讲",
-   "sentiment": 0
-  },
-  {
-   "id": "6b4f2fc71832",
-   "title": "Nvidia Unveils Product to Speed Up AI Factory Buildout - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeF9CRTdWam04bWhvdTI2a2Y2Nm9BLWc3YU8xb1NZU0FfZWpCZXRpUzljUVg1YzhidG1pMmhrVndoaDJfUjk5SU1idTl4SWZvMGNWMTVrRmVQcjA3TmhMX1VrbDNPckRjeEtpOEE0ZElWVUpsX2hydmREWXZOWV9HUUNNeGJYb3dUTGYwN3VVVXVUZ3JJMFNBS3Qydmh0aEFKUDN1c0FTdnRwcHVhb04xNmxtbEdITVNSVFRDa1U0YjFYUTBCZmVySVY3Y2xfcDJMaW9iTnVyZGNpVFMwc1VQWWlGQjNaVGUzdUo0azBHalVmUnM",
-   "source": "WSJ",
-   "published_at": "2026-10-21T09:07:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-21T09:07:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeF9CRTdWam04bWhvdTI2a2Y2Nm9BLWc3YU8xb1NZU0FfZWpCZXRpUzljUVg1YzhidG1pMmhrVndoaDJfUjk5SU1idTl4SWZvMGNWMTVrRmVQcjA3TmhMX1VrbDNPckRjeEtpOEE0ZElWVUpsX2hydmREWXZOWV9HUUNNeGJYb3dUTGYwN3VVVXVUZ3JJMFNBS3Qydmh0aEFKUDN1c0FTdnRwcHVhb04xNmxtbEdITVNSVFRDa1U0YjFYUTBCZmVySVY3Y2xfcDJMaW9iTnVyZGNpVFMwc1VQWWlGQjNaVGUzdUo0azBHalVmUnM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达发布新品加速AI工厂建设",
-   "title_zh": "英伟达发布新品加速AI工厂建设",
    "sentiment": 1
   }
  ]
