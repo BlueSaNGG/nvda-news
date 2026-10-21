@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T08:06:25.942826+00:00",
+ "updated_at": "2026-10-21T08:21:28.784257+00:00",
  "market": {
   "price": 216.47,
   "change_pct": -0.29,
@@ -10,8 +10,8 @@
    "days_left": 27
   },
   "day_sentiment": {
-   "avg": 0.36,
-   "count": 22
+   "avg": 0.41,
+   "count": 27
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（22条已评分）"
+     "note": "今日新闻情绪 +0.41（27条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.5,
    "ma20": 227.04,
-   "as_of": "2026-10-21T08:06:25.927047+00:00"
+   "as_of": "2026-10-21T08:21:28.772992+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "1bf433a1eb9f",
+   "title": "Nvidia simulates 104-qubit fault-tolerant quantum computer on JUPITER - The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XbnU4R21OcHVKVU5kVjlaUUhpbC1RbjZoTmRHOXhUZjhoWl9TcXRGYnpBRjRWY015QlplXzZFallrWEZhM2pPVDliQ2JqWVRVRkxPdG9NMkZTQm8ycGJCaGpfOXBYVFMwemlYMkVGT3BrUHpyTVBF",
+   "source": "The Next Web",
+   "published_at": "2026-10-21T08:05:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Next Web",
+     "published_at": "2026-10-21T08:05:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XbnU4R21OcHVKVU5kVjlaUUhpbC1RbjZoTmRHOXhUZjhoWl9TcXRGYnpBRjRWY015QlplXzZFallrWEZhM2pPVDliQ2JqWVRVRkxPdG9NMkZTQm8ycGJCaGpfOXBYVFMwemlYMkVGT3BrUHpyTVBF"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "833263d93fab",
    "title": "Partnership Accelerates Edge AI Vision Deployment Across NVIDIA Jetson Platforms - Unmanned Systems Technology",
@@ -78,8 +95,8 @@
    "category": "其他",
    "session": "盘前",
    "zh_summary": "合作加速边缘AI视觉在Jetson平台部署",
-   "sentiment": 1,
-   "title_zh": "合作加速英伟达Jetson平台边缘AI视觉部署"
+   "title_zh": "合作加速英伟达Jetson平台边缘AI视觉部署",
+   "sentiment": 1
   },
   {
    "id": "81a881fd08e9",
@@ -87,19 +104,24 @@
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjE1aTB6enNNS2JvTldTbTQ5U0RkRVdnempjbHpZaWRCbFdNRkZWd1FGc2JUUGZBdWpfS09JdEJkTmZYTExKOEdGVEF2anRIQUdVYlRnSGNmaV91S0k3M0JXOHVNV2ZEMEs2VGVONmk3dXpkSjdjU3RpRkZtdlN0UU1OcmI5Ykk4YU8tWXBlU2pjRTlDNlZJY2RpTTd3cWR2LTFtNWItRUZLeFZ4a0hNYm1jTkY1ZUJPWDhTMVlxRkQ3VGpCT1k4U2xGVEJFQjgtTFpjdlp3",
    "source": "The Motley Fool",
    "published_at": "2026-10-21T07:55:02+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-21T07:55:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcjE1aTB6enNNS2JvTldTbTQ5U0RkRVdnempjbHpZaWRCbFdNRkZWd1FGc2JUUGZBdWpfS09JdEJkTmZYTExKOEdGVEF2anRIQUdVYlRnSGNmaV91S0k3M0JXOHVNV2ZEMEs2VGVONmk3dXpkSjdjU3RpRkZtdlN0UU1OcmI5Ykk4YU8tWXBlU2pjRTlDNlZJY2RpTTd3cWR2LTFtNWItRUZLeFZ4a0hNYm1jTkY1ZUJPWDhTMVlxRkQ3VGpCT1k4U2xGVEJFQjgtTFpjdlp3"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T08:04:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb0pmV2oyeWtCbzFETTlYbkNQdVBzWXh0N3A2N2FuYzNjQ2xSVzB6ZlJBbzRpUnM0VjhhaGdfeTZ1UFgxLUNWblIxSjJGVDBuNmx0UTVtMWZFbnFjaklOY1lPYVgzZWI0Y295RXRwY2hUazB0cGdKLUhCQ29pMUZPQjNadWFEajNad3Jucl9yN3loZDRXb3NsNjJNcEk"
     }
    ],
    "category": "财报",
    "session": "盘前",
    "zh_summary": "美光与英伟达是标普500盈利最大推手",
-   "sentiment": 0,
-   "title_zh": "美光与英伟达是标普500盈利最大推动力，值得买入吗"
+   "title_zh": "美光与英伟达是标普500盈利最大推动力，值得买入吗",
+   "sentiment": 0
   },
   {
    "id": "8baae6899677",
@@ -118,8 +140,8 @@
    "category": "其他",
    "session": "盘前",
    "zh_summary": "Groq下一代LPU架构转向3D堆叠DRAM",
-   "sentiment": 0,
-   "title_zh": "英伟达旗下Groq下一代LPU架构转向3D堆叠DRAM 瞄准更大模型时代的容量需求- nVIDIA - cnBeta.COM"
+   "title_zh": "英伟达旗下Groq下一代LPU架构转向3D堆叠DRAM 瞄准更大模型时代的容量需求- nVIDIA - cnBeta.COM",
+   "sentiment": 0
   },
   {
    "id": "1bb5e011a4bc",
@@ -138,8 +160,8 @@
    "category": "市场宏观",
    "session": "盘前",
    "zh_summary": "英伟达拟财务支持Firmus，IPO停滞后",
-   "sentiment": 1,
-   "title_zh": "市场传言：英伟达拟财务支持Firmus，其IPO陷入停滞"
+   "title_zh": "市场传言：英伟达拟财务支持Firmus，其IPO陷入停滞",
+   "sentiment": 1
   },
   {
    "id": "f194dfa4112d",
@@ -163,8 +185,25 @@
    "category": "其他",
    "session": "盘前",
    "zh_summary": "英伟达拟财务支持Firmus，IPO停滞后",
-   "sentiment": 1,
-   "title_zh": "市场动态：英伟达正就财务支持Firmus公司展开谈判，此前其IPO已陷入停滞 - 富途牛牛"
+   "title_zh": "市场动态：英伟达正就财务支持Firmus公司展开谈判，此前其IPO已陷入停滞 - 富途牛牛",
+   "sentiment": 1
+  },
+  {
+   "id": "2480d9fe7e1a",
+   "title": "NVIDIA-Acquired Groq Is Moving Its Next-Gen LPUs From SRAM To 3D Stacked DRAM, Betting On Capacity Over Speed As Models Keep Growing - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYTJXRW5TN1hnUFMzaVRrb2JERkpjb0dpcXhiamhlWU1NWjllR0ZYWWhxMVJjTkYxNnVyRUxIRk5jX2RuYXlNVHZSSmNfMnBCbjVHbTRZZ2tnWU5SRFpZR1d4RjNHMENiVFFnS2dGZks1eGx1bzVnZEZ2ZHNYT01Sa21kNG1nY0ZQbVIw0gGQAUFVX3lxTFBmai1lVl94RlRmeXpkZ3VtbmR6UkdWeFJzRzB0QW00OEtDcmJLSURKM0Q0cThET3NiY3dLb0otd182Q1kxZ3huWHpEWXNWU0RVVnJDbDl1OVVSSnNmN3ZkWDNaRmlmSE1QWGFmY01NN2VhSU44endvZUY0eWR5dElYTGpmcXNrTm0tU05yNEw3Rg",
+   "source": "Wccftech",
+   "published_at": "2026-10-21T07:45:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-21T07:45:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYTJXRW5TN1hnUFMzaVRrb2JERkpjb0dpcXhiamhlWU1NWjllR0ZYWWhxMVJjTkYxNnVyRUxIRk5jX2RuYXlNVHZSSmNfMnBCbjVHbTRZZ2tnWU5SRFpZR1d4RjNHMENiVFFnS2dGZks1eGx1bzVnZEZ2ZHNYT01Sa21kNG1nY0ZQbVIw0gGQAUFVX3lxTFBmai1lVl94RlRmeXpkZ3VtbmR6UkdWeFJzRzB0QW00OEtDcmJLSURKM0Q0cThET3NiY3dLb0otd182Q1kxZ3huWHpEWXNWU0RVVnJDbDl1OVVSSnNmN3ZkWDNaRmlmSE1QWGFmY01NN2VhSU44endvZUY0eWR5dElYTGpmcXNrTm0tU05yNEw3Rg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "226f7077c62e",
@@ -2502,7 +2541,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9raTFpUmdWVy15c1c3Tm53Q2MyY1hjOUpxMGg2OF9zcy1zR29lLW4tMjhkQndJSTNzZ0dCUWN3YjZLdE5CTE9qT2E0dlVNX3VzNkJRTGJNX0UtY2tR",
    "source": "太平洋汽车",
    "published_at": "2026-10-20T16:44:17+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "太平洋汽车",
@@ -2513,13 +2552,22 @@
      "name": "中金在线",
      "published_at": "2026-10-21T03:38:10+00:00",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03aTF1WWFwWTVqbzdXR19mZndjNUNKcU1PZWFQVzN5UkdXaWpwOERKUVQ0dmI2c0hrNW9FOGVPRkRWX2NiaFQ3aXJzOWU0T2U5SG1OQWZKbHZsMGNPS2dNN3IySnpuRFhzd2h3"
+    },
+    {
+     "name": "盖世汽车社区",
+     "published_at": "2026-10-21T03:19:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QcUxFQ2diVDItekFldWhkaFM2NWdrOGNreVZST1FUa3FNdzFVTGI2S0RCelRJRmhVSHpuM21lU0xjNUs0SWk3dmM0WGNxRTJq"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "奔驰与英伟达合作开发高阶辅助驾驶",
    "title_zh": "梅赛德斯-奔驰与英伟达拓展战略合作 联合开发下一代高阶辅助驾驶 - 太平洋汽车",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.17,
+    "window_h": 2.0
+   }
   },
   {
    "id": "7212a0477a16",
@@ -6585,70 +6633,6 @@
     "pct": 0.07,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "7b41971b0c79",
-   "title": "英伟达据悉成功从人工智能初创公司Modal赢得CPU芯片订单 Modal此前完全依赖英特尔和AMD - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UNjFCRFVVRXMyQ1RVTHZDQmpILVRYWkl3T3RUWWhTOEZ4N2w2d2ViNGJMclpyQ1JhRWNycEtxeTZ4S0Vwa0xaamdXaw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-20T02:44:01+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-20T02:44:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UNjFCRFVVRXMyQ1RVTHZDQmpILVRYWkl3T3RUWWhTOEZ4N2w2d2ViNGJMclpyQ1JhRWNycEtxeTZ4S0Vwa0xaamdXaw"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-20T02:48:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nS0xmZUZjRGhXSFg3UzJaMXFRRWVyVEktMV9TSVdlLUx5c1VVeVFiZElNMDgyT1kzWkF4SzBKdEp3eUxkUHVWLXB0dG5WTU1CdE13NDhWVXBfQXlpZU53RUdfelBRWUx2SjlvaWFDcnlHNHp6U0FOdm1iQ3lzdw"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-20T02:49:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWZIb3ZiWnBoQTVWeXpnaTZ6NXZCNE5ZSVFaMVlaUmxjQzY0d2oyTko5VVZwS3Fua2R4Mlc2RXZnMW1qV3ktYW1hclBmNEZleGt6XzBTdDBiRlNLTFgwb3dwanlyWVpiX05aS1BWSEVOTVFLT2h4cWZrYTcxVUNVNzNEdXZZeExRdDNCTUFDRWQyYW16c2RhNm54REdvSXVleS05UQ"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-20T02:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkhXOVZyZnVCYnJEaVFPS2FId0FacGs1blcwWmljUEpxYUpTZFlJSlRuYklhR2NVNUREa09mNjhocXRZOS13a1Z6QU5SWFExdzVSbDVaZ2N1R0ZpYlkzaFE4cnk3LTdKcHkzb0tHN2tnZXZDdXRYQmwzS0dpSVI2SnRpTXNsYkJCMWlwUA"
-    },
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-20T12:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJak1OQ1JxSUtHdzFMWmZPaTEtNlVYckdqdHg5SngtU3BEdlRfbmNxdXhFUFZjOVZzS0c5OHh0Ynk3RXphQU1aRnJ5R29wT0NjMTRJ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "英伟达赢得Modal CPU芯片订单",
-   "title_zh": "英伟达据悉成功从人工智能初创公司Modal赢得CPU芯片订单 Modal此前完全依赖英特尔和AMD - 新浪网",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.07,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "608edfc59ba4",
-   "title": "Is Nvidia (NASDAQ:NVDA) Leading the Chip Rebound as AI Names Bounce Back? - Kalkine Media",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdGZ2TG9kWVRBQzJYMkVGclFhNVNGY1BCR2VlX0JXaDU3UkcyeDZtUmdTY0RYR2dtQ1pjbnBIQXZMOUlwRS16cDFnSXMxTUdTLTBWdzhJOWpwMXJIUVMtcXMyVUoxVHc5b3d0VDM2UG5uUERBbzJvUTBDU0pwQV9RT0ZYZ3RUWWt4emxzdDJEMG9kbGxjNXlwU0lJME1ZNmhHMy1QMXQtWmdJeVRGcHdxTUlTYXh4LXc3aUo2MWZqRFVVaXdKZkxJ",
-   "source": "Kalkine Media",
-   "published_at": "2026-10-20T02:40:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Kalkine Media",
-     "published_at": "2026-10-20T02:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdGZ2TG9kWVRBQzJYMkVGclFhNVNGY1BCR2VlX0JXaDU3UkcyeDZtUmdTY0RYR2dtQ1pjbnBIQXZMOUlwRS16cDFnSXMxTUdTLTBWdzhJOWpwMXJIUVMtcXMyVUoxVHc5b3d0VDM2UG5uUERBbzJvUTBDU0pwQV9RT0ZYZ3RUWWt4emxzdDJEMG9kbGxjNXlwU0lJME1ZNmhHMy1QMXQtWmdJeVRGcHdxTUlTYXh4LXc3aUo2MWZqRFVVaXdKZkxJ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "芯片股反弹英伟达领涨引关注",
-   "title_zh": "AI股反弹之际NVDA能否领涨芯片板块？",
-   "sentiment": 1
   }
  ]
 }
