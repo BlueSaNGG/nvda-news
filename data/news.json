@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T02:06:28.244448+00:00",
+ "updated_at": "2026-10-21T02:21:30.218304+00:00",
  "market": {
   "price": 216.47,
   "change_pct": -0.29,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.41,
-   "count": 218
+   "count": 221
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.41（218条已评分）"
+     "note": "今日新闻情绪 +0.41（221条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.5,
    "ma20": 227.04,
-   "as_of": "2026-10-21T02:06:28.231385+00:00"
+   "as_of": "2026-10-21T02:21:30.196041+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "1a7069c96a9e",
+   "title": "中国三大巨头订购超300万张英伟达显卡，总价超350亿美元 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGX3FBVHhTWTAzcUtHTGdiYkNISlVHMk5tUVdfMEF0Z2FPWDBjSnRZMmZtY2dTb3RzYmVnWjdlTUpaSmY1MlVybW96M1dWXy1RNDVXaWxBTk1BRnM4",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-21T02:14:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-21T02:14:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGX3FBVHhTWTAzcUtHTGdiYkNISlVHMk5tUVdfMEF0Z2FPWDBjSnRZMmZtY2dTb3RzYmVnWjdlTUpaSmY1MlVybW96M1dWXy1RNDVXaWxBTk1BRnM4"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
   {
    "id": "2aad9d887887",
    "title": "传英伟达已确定停产RTX 5090和RTX 5080：时间安排在2027年1月 - 搜狐",
@@ -305,6 +322,23 @@
    "zh_summary": "中国巨头订购350亿美元英伟达低端芯片",
    "title_zh": "中国大科技公司向英伟达订购350亿美元低端芯片，半导体自给自足仍遥遥无期",
    "sentiment": 2
+  },
+  {
+   "id": "e4aea77ea47c",
+   "title": "Amazon Launches TorchNeuron to Challenge Nvidia’s AI Chip Dominance: 5 outlets compared - NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT3ZNSUJXcnVZR0kxT0t0LTBOYkxSVHBjazVRb1lVUDlHdVl0Y0pyRFpRYS1KeFBjaWdveWJ0bEV6NTBmMEtfazFjOV9KZjN6djc0VlQtUDU0TllUYUw2cllTUjVIQzF0T2lpckVTNWttTzJMRVg2ZlRqRnlWdDlTV25jU3JuY3pxOG9MYkd3aE02MnlRU3ZrNVJMc0UxeUVNeGcyVWxKRFJDVnZfcXBGZDBFcWp4SzNGbks5aTY4NC0xUlJpa0lsX0JqTV9QMlB4c3doYXA3UQ",
+   "source": "NewsCord",
+   "published_at": "2026-10-21T00:11:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NewsCord",
+     "published_at": "2026-10-21T00:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT3ZNSUJXcnVZR0kxT0t0LTBOYkxSVHBjazVRb1lVUDlHdVl0Y0pyRFpRYS1KeFBjaWdveWJ0bEV6NTBmMEtfazFjOV9KZjN6djc0VlQtUDU0TllUYUw2cllTUjVIQzF0T2lpckVTNWttTzJMRVg2ZlRqRnlWdDlTV25jU3JuY3pxOG9MYkd3aE02MnlRU3ZrNVJMc0UxeUVNeGcyVWxKRFJDVnZfcXBGZDBFcWp4SzNGbks5aTY4NC0xUlJpa0lsX0JqTV9QMlB4c3doYXA3UQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "5f1a0d15799a",
@@ -6647,46 +6681,6 @@
    "session": "盘后",
    "zh_summary": "英伟达跑赢大盘：值得了解的事实",
    "title_zh": "英伟达（NVDA）跑赢市场收益：几个值得了解的事实",
-   "sentiment": 1
-  },
-  {
-   "id": "da70fe0fc13b",
-   "title": "NVIDIA’s GTC Berlin 2026 Event This Week Might Do More For Intel Than For Itself - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWnd1VEZMRnJIUEZqa19tMkpEUG9TRGlaM1ZPaFFYb0FXOFhDVDB3V0Z2Um5nUzhlSURjVHoxVXJaZ2pGVWJFR05SV1dEbzVYaUJjMzBhcEgwMklEVzNMMEtKQmEyeGw0QXVsaUhjd3NaVmNpZFZtOXVRczRsYkRxZVdkYXRuem41VlJ6RzhqX3YzdnF4ZTZOSkJxOXlKeWJTSjRj0gGoAUFVX3lxTE1HTXp4bFM4bnF1ZERDN19nbTJTYTFkb2hZQjVOdUxGZWJlSzhsblJrWFRiT0FmUUlIamdqVVZLX2JhNHFrRnJ0Z2tWQ2JMbUNMMlJOVVZaSWctSU4wVWt0YzJvcHBOT2ktc3hKYV9XeF9kWkhPQjNmUlB1VllScjBmMXNIRkh6bHJUVWtSQXp1T0R6Ync4VXdaT0htaE9lRUV6Umc2RVAyeQ",
-   "source": "Wccftech",
-   "published_at": "2026-10-19T20:39:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-19T20:39:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWnd1VEZMRnJIUEZqa19tMkpEUG9TRGlaM1ZPaFFYb0FXOFhDVDB3V0Z2Um5nUzhlSURjVHoxVXJaZ2pGVWJFR05SV1dEbzVYaUJjMzBhcEgwMklEVzNMMEtKQmEyeGw0QXVsaUhjd3NaVmNpZFZtOXVRczRsYkRxZVdkYXRuem41VlJ6RzhqX3YzdnF4ZTZOSkJxOXlKeWJTSjRj0gGoAUFVX3lxTE1HTXp4bFM4bnF1ZERDN19nbTJTYTFkb2hZQjVOdUxGZWJlSzhsblJrWFRiT0FmUUlIamdqVVZLX2JhNHFrRnJ0Z2tWQ2JMbUNMMlJOVVZaSWctSU4wVWt0YzJvcHBOT2ktc3hKYV9XeF9kWkhPQjNmUlB1VllScjBmMXNIRkh6bHJUVWtSQXp1T0R6Ync4VXdaT0htaE9lRUV6Umc2RVAyeQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达GTC柏林2026本周或更利好英特尔",
-   "title_zh": "英伟达本周GTC柏林2026活动或更利好英特尔",
-   "sentiment": -1
-  },
-  {
-   "id": "bbb502ce4088",
-   "title": "Nvidia’s Vera CPU Wins Modal, Claims 2x AI Speed [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUVFYSnNnZFNJU085cy1Ob2R4bFQ1azFMQlF0WVVHYUdBZlB2NzY4SlVrSTNLSkNHOUpXdnFqYzJEZ01hODg4WkxjanhUMnRfU0JBNl9PWEpqQUp0RjBXYUk3QnVOdE1Rb3E4b3ZVMVRwNC1W",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-19T20:38:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-19T20:38:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUVFYSnNnZFNJU085cy1Ob2R4bFQ1azFMQlF0WVVHYUdBZlB2NzY4SlVrSTNLSkNHOUpXdnFqYzJEZ01hODg4WkxjanhUMnRfU0JBNl9PWEpqQUp0RjBXYUk3QnVOdE1Rb3E4b3ZVMVRwNC1W"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达Vera CPU宣称AI速度快2倍",
-   "title_zh": "英伟达Vera CPU击败Modal，宣称AI速度提升2倍",
    "sentiment": 1
   }
  ]
