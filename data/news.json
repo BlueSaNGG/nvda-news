@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T06:36:27.597212+00:00",
+ "updated_at": "2026-10-21T06:51:26.511799+00:00",
  "market": {
   "price": 216.47,
   "change_pct": -0.29,
@@ -10,8 +10,8 @@
    "days_left": 27
   },
   "day_sentiment": {
-   "avg": 0.38,
-   "count": 8
+   "avg": 0.36,
+   "count": 11
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.38（8条已评分）"
+     "note": "今日新闻情绪 +0.36（11条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.5,
    "ma20": 227.04,
-   "as_of": "2026-10-21T06:36:27.579814+00:00"
+   "as_of": "2026-10-21T06:51:26.499238+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -207,6 +207,23 @@
    "sentiment": 0
   },
   {
+   "id": "c96cc454c66d",
+   "title": "ETF异动 | 南方两倍做多英伟达(07788)涨超4% 英伟达近百亿美元战略投资德国合作聚焦物理AI 提供者智通财经 - 英为财情 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kanVhWTRSRU5nUHlMcXZWX1F4cG1VQlpQMjlsLVBXR0JYTDRsUjgyeG43SnN1NmM1VHV0WFV2TGdaaXpMSU5BVWgyU0F4b0lsM1VRcFdpeF9XRkJQci02U0ZqOVlOaUEyNElIT0g0Ukw",
+   "source": "英为财情 Investing.com",
+   "published_at": "2026-10-21T05:49:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-21T05:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kanVhWTRSRU5nUHlMcXZWX1F4cG1VQlpQMjlsLVBXR0JYTDRsUjgyeG43SnN1NmM1VHV0WFV2TGdaaXpMSU5BVWgyU0F4b0lsM1VRcFdpeF9XRkJQci02U0ZqOVlOaUEyNElIT0g0Ukw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "9e07cb4cac66",
    "title": "NVIDIA RTX Spark：单机实现编程、测试与部署-AI基础设施 - 至顶网",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6a3NWcEJXTHVGbUV4dzlDUVBQcHpVM2FaUFpCOC10cXZVbGJBT04wa0xYTVg2MTU3NkpXbW1FcTdUZVVPZHhzSm9VV01xdmszbUs3Ym9aQkNOWTRqd205V2tQQ2xJSExQRjk2TWRYWW5pUQ",
@@ -297,12 +314,17 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOa2FpT2pvWDVjWG95YmhkbFJVczZFNE81Z21MOWtQZUFsbVl1ODV4NlVfSHVYRnBaZ3dRYXZTTVVTN1dDS3o3U1dWekk4Z1kzTUFfZ2t2cVltMXJCVjBNVnlTZm5WVGdOX0xOaFRsUnc4RGxob2c",
    "source": "新浪财经",
    "published_at": "2026-10-21T04:54:48+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-21T04:54:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOa2FpT2pvWDVjWG95YmhkbFJVczZFNE81Z21MOWtQZUFsbVl1ODV4NlVfSHVYRnBaZ3dRYXZTTVVTN1dDS3o3U1dWekk4Z1kzTUFfZ2t2cVltMXJCVjBNVnlTZm5WVGdOX0xOaFRsUnc4RGxob2c"
+    },
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-21T06:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSWUhidHZIc09TeW0zSm9CcWZKYlptSDAwaFNRWGdvWEFMVWxkSmE5cndLbFE5X2c4VHgwVG02aUdLSjVGdXB0VkZBcGRaMlJYRlA4"
     }
    ],
    "category": "其他",
@@ -6662,26 +6684,6 @@
    "zh_summary": "8月英伟达GB300机柜交付额达50亿美元",
    "title_zh": "传亚马逊8月交付50亿美元英伟达GB300机柜",
    "sentiment": 1
-  },
-  {
-   "id": "da9e5b6f1024",
-   "title": "传DeepSeek华为联手设计AI芯片挑战英伟达 - 观点网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tTkl5TlVocEpLNkNNamd0VTI1cl9nMVhoSTdybVRCUGlySHlGb3hMeEd6dER5NktBNFhBdmtxb2ROWTN1c1ZENEE3ZVp2SWhBb01XNmJFMjhHaGdxUlBob2xR",
-   "source": "观点网",
-   "published_at": "2026-10-20T00:59:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "观点网",
-     "published_at": "2026-10-20T00:59:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tTkl5TlVocEpLNkNNamd0VTI1cl9nMVhoSTdybVRCUGlySHlGb3hMeEd6dER5NktBNFhBdmtxb2ROWTN1c1ZENEE3ZVp2SWhBb01XNmJFMjhHaGdxUlBob2xR"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "传DeepSeek与华为联手设计AI芯片挑战英伟达",
-   "title_zh": "传DeepSeek华为联手设计AI芯片挑战英伟达 - 观点网",
-   "sentiment": -1
   }
  ]
 }
