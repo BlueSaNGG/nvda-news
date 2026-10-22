@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T13:36:29.056356+00:00",
+ "updated_at": "2026-10-22T13:51:29.633381+00:00",
  "market": {
-  "price": 218.08,
-  "change_pct": -1.75,
+  "price": 215.95,
+  "change_pct": -2.71,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 26
   },
   "day_sentiment": {
-   "avg": 0.69,
-   "count": 152
+   "avg": 0.7,
+   "count": 158
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 71% 分位"
+     "note": "现价处于52周区间 69% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +44.4%"
+     "note": "目标价中位数 $315（16家），隐含空间 +45.9%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.69（152条已评分）"
+     "note": "今日新闻情绪 +0.70（158条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $218.08 vs 20日均线 $226.54"
+     "note": "现价 $215.95 vs 20日均线 $226.43"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 71,
+   "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 44.4,
-   "ma20": 226.54,
-   "as_of": "2026-10-22T13:36:29.048575+00:00"
+   "implied_upside_pct": 45.9,
+   "ma20": 226.43,
+   "as_of": "2026-10-22T13:51:29.616678+00:00"
   },
-  "pe_ttm": 27.7,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.4%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.4,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,74 @@
   }
  },
  "stories": [
+  {
+   "id": "b5c0470255c7",
+   "title": "Qblox Integrates NVIDIA DGX Spark With Quantum System Controller - The Quantum Insider",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTXFXcXY3YWZZeGZOS21LSTN3NDhYckU2Rll5M2E2SXY3ZHl6U2lHXzdFY2Vnal9ZOExBOEFmMFlBaFJPQlAxOW9iY3RXWXZoME5ENktTcFc2cC1zTjNpMkNSenc0Ty1ja29sTnF3b1FGYnJ2TFhzdGFWVTBmRDRPUTlKUEIwTWs4bGlSejRPZFRMY1dmWklKUWpXc1ctdw",
+   "source": "The Quantum Insider",
+   "published_at": "2026-10-22T13:42:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Quantum Insider",
+     "published_at": "2026-10-22T13:42:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTXFXcXY3YWZZeGZOS21LSTN3NDhYckU2Rll5M2E2SXY3ZHl6U2lHXzdFY2Vnal9ZOExBOEFmMFlBaFJPQlAxOW9iY3RXWXZoME5ENktTcFc2cC1zTjNpMkNSenc0Ty1ja29sTnF3b1FGYnJ2TFhzdGFWVTBmRDRPUTlKUEIwTWs4bGlSejRPZFRMY1dmWklKUWpXc1ctdw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "30b2f56aaed6",
+   "title": "Tanium Brings Enterprise-Grade Manageability to NVIDIA Local AI Infrastructure - AiThority",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd3pUTGFlTlhLNGxzOFpucVdfU3oxZ2lvZnlZdFpGd1RRY0dmR1ZEalRBWkxQQUNXRnJMV25qb0lXclFKN3ZXU2htV1Jub0VtbzR1SFNUb2VySmJadkRHUlQ1c2Qxb0xYMFZYaEdiYmF4VndPenJxR3FCYk1YdU9GZHh3NnZ4WWZtRy1mampiUzZQbVctcDhLSnVJQ2JiLWF0REpDNS03WG0yWWRYZlBpYVl5UWRUUQ",
+   "source": "AiThority",
+   "published_at": "2026-10-22T13:39:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "AiThority",
+     "published_at": "2026-10-22T13:39:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd3pUTGFlTlhLNGxzOFpucVdfU3oxZ2lvZnlZdFpGd1RRY0dmR1ZEalRBWkxQQUNXRnJMV25qb0lXclFKN3ZXU2htV1Jub0VtbzR1SFNUb2VySmJadkRHUlQ1c2Qxb0xYMFZYaEdiYmF4VndPenJxR3FCYk1YdU9GZHh3NnZ4WWZtRy1mampiUzZQbVctcDhLSnVJQ2JiLWF0REpDNS03WG0yWWRYZlBpYVl5UWRUUQ"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "9a300c3b9e5c",
+   "title": "Tier IV and TUM bring Nvidia Hyperion to German L4 work - Automotive World",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeXZpUzhBcUhIY2NwRl9GWVFhY1JEbUpTSHQzVFF6ZUxxdVJwQ2tIV180dDVBVDREUG94NHI0ZmZuSjNNY3Vid0FQS1p1cFg0bXYyUXFKcDRORnUwSnZxcjBhaUduaW5kT2FWYUF6dmlxbXRYYzdIT1hwTmxjQmszVmpwdjRmemF6LThuM1ZqaWRUbjhHWnR4aw",
+   "source": "Automotive World",
+   "published_at": "2026-10-22T13:39:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Automotive World",
+     "published_at": "2026-10-22T13:39:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeXZpUzhBcUhIY2NwRl9GWVFhY1JEbUpTSHQzVFF6ZUxxdVJwQ2tIV180dDVBVDREUG94NHI0ZmZuSjNNY3Vid0FQS1p1cFg0bXYyUXFKcDRORnUwSnZxcjBhaUduaW5kT2FWYUF6dmlxbXRYYzdIT1hwTmxjQmszVmpwdjRmemF6LThuM1ZqaWRUbjhHWnR4aw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "fb8d154e9cf7",
+   "title": "Volkswagen builds AI data flywheel with Nvidia and Voxel51 - Automotive World",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU1BDUGhWdjdEWHhwSk5xVWRHRkwtU291S3V0V0hoS2VEMjgtZ0NKOXBnN1JEc0JpSjkwdF9tb2ZxblZwTXZsb0tEclNLQTJHS19tN1FtNFliTjNRb1NtVi03dGtrcmtUNDZUMFVJam1haEhaMWJNaURyTjZ1Q2tPaXNSRVFUMW5Zb0d6WEZta3MzTVR6LUtfVmJOUUs",
+   "source": "Automotive World",
+   "published_at": "2026-10-22T13:36:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Automotive World",
+     "published_at": "2026-10-22T13:36:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU1BDUGhWdjdEWHhwSk5xVWRHRkwtU291S3V0V0hoS2VEMjgtZ0NKOXBnN1JEc0JpSjkwdF9tb2ZxblZwTXZsb0tEclNLQTJHS19tN1FtNFliTjNRb1NtVi03dGtrcmtUNDZUMFVJam1haEhaMWJNaURyTjZ1Q2tPaXNSRVFUMW5Zb0d6WEZta3MzTVR6LUtfVmJOUUs"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "94b2ee27e6fa",
    "title": "NVIDIA introduces containerized reference design for AI factories - Engineering.com",
@@ -122,6 +190,23 @@
    "sentiment": 1
   },
   {
+   "id": "3dfd1e342ec0",
+   "title": "Nvidia enters Italy via TIM: Why it matters - Decode39",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YS2hEVkpmclFwYXp5M2h6MENhQ041WHRZTjVrdVVVSzlFOHpsSzI3eklVLVlkcDN5Sm5tOUQ4RG8xQllsWHlSeDZ2cTlCQnhjQmFPYmlXaHk4RW1WMzFSVi1QTlBJa04wYXYtTkNBdjhITU1yRkIyUlJn",
+   "source": "Decode39",
+   "published_at": "2026-10-22T13:23:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Decode39",
+     "published_at": "2026-10-22T13:23:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YS2hEVkpmclFwYXp5M2h6MENhQ041WHRZTjVrdVVVSzlFOHpsSzI3eklVLVlkcDN5Sm5tOUQ4RG8xQllsWHlSeDZ2cTlCQnhjQmFPYmlXaHk4RW1WMzFSVi1QTlBJa04wYXYtTkNBdjhITU1yRkIyUlJn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "e3e4aecc5129",
    "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more' - CNBC",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2F6ekhMbjE1SFdLRUhlWE5xVnlBVE80VmVCaldMMXhhQzB3dGxuTDdGbXNhakQ3cUhCWFpidWdkdUFxcDE2WDlwVlFlWFpOOUY1Vk5OMDdFRGdNbTM4NkhSRm93bE9rQW1RVEQzSXB6LVRMM0QtdmJxWDhxVFVqV0Zkay1EMFXSAYwBQVVfeXFMT2ZPbWM0aDdnNUxPTFRhSGxBTkFCQlI1c3R2MGtlQWdCdWRvTEZ4amw3MW40NTVIQU5JRVRGSDlsbTRTaW1wc1dZQWgwLUl4MVd4THZxTVk5Z1Zzd1lhbFFtSjYzbXF6RzEyTkxVRV9mTzQ4LUlsbDJnQ0E5dFJHMW1mNVZWc1VMeWJTT1Y",
@@ -162,6 +247,23 @@
    "sentiment": 1
   },
   {
+   "id": "b65015ca7e12",
+   "title": "Nvidia GeForce NOW brings support for Modern Warfare 4, Final Fantasy Resonance, and more - Neowin",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNWJUY2UybzVLWjJBYm9kUDZ3NWsyVzJrZ2VnRHg0YlhqX3FKdElvbGt0eDVyYVBnT2JlaXkwNWptdkh6ODBZVVIyQlNhc1ZSYXM5dmtVc2drN29aNmljUnc3ZDJDd21tUndoR2RWTkR6TzdTYldWT1owTml5QWFDbzBtWk5TeWdTQTg2NW82NEtneWtLTVl5bmFnMWVTVTlwUWNpVWliaVpTN2ZoV1VkbmxVTi1wNnc",
+   "source": "Neowin",
+   "published_at": "2026-10-22T13:06:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Neowin",
+     "published_at": "2026-10-22T13:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNWJUY2UybzVLWjJBYm9kUDZ3NWsyVzJrZ2VnRHg0YlhqX3FKdElvbGt0eDVyYVBnT2JlaXkwNWptdkh6ODBZVVIyQlNhc1ZSYXM5dmtVc2drN29aNmljUnc3ZDJDd21tUndoR2RWTkR6TzdTYldWT1owTml5QWFDbzBtWk5TeWdTQTg2NW82NEtneWtLTVl5bmFnMWVTVTlwUWNpVWliaVpTN2ZoV1VkbmxVTi1wNnc"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "942332e0dc76",
    "title": "Nvidia's Huang: Don't mention the AI-pocalypse - The Register",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTmVuOVBIVlRRdVpSU29qRURIbzItZnFya0JSWHBWMXE0bl9xRmpJM1Q3QWJKa3pnSkdkN1ZwQ2x1RnJ1SUJacUdsVEk3SVBBbWk3clExTmtYa0prdGZzUkJDVlB5d0drQU5SaHdCQ0lfWTRhbGhmMy1RSWVkMDFzYnRFZmN6NE53SkdPZlBLQ2N6cUFQdUpqTzBhS2p5UTZtUkE",
@@ -200,6 +302,23 @@
    "zh_summary": "今日评级更新，最高目标价315美元",
    "title_zh": "英伟达今日评级，最高目标价315美元",
    "sentiment": 1
+  },
+  {
+   "id": "2032f3f9c110",
+   "title": "Nvidia and Tesla back Samsung Electro-Mechanics substrate expansion - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVBmQ2czclBYd3QwX3A0SjhaQm51SlVzSG9yemwwNjVjNnI3amVXV092Wl9MSFJnZDVfaDl2U3FrcmRGUFItYnBlTFg4VjRHcVR2S3JUUmFCdDR6c0RuOUY2dXF0UjliaEl3LVhLWS1Ba3Jfc0dkbVU3OXVPbzMzZ1dWMW1ES3RvQ1JGTzFhelkyTDVGa3dqTENXWFRrUQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-22T12:59:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-22T12:59:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVBmQ2czclBYd3QwX3A0SjhaQm51SlVzSG9yemwwNjVjNnI3amVXV092Wl9MSFJnZDVfaDl2U3FrcmRGUFItYnBlTFg4VjRHcVR2S3JUUmFCdDR6c0RuOUY2dXF0UjliaEl3LVhLWS1Ba3Jfc0dkbVU3OXVPbzMzZ1dWMW1ES3RvQ1JGTzFhelkyTDVGa3dqTENXWFRrUQ"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘前"
   },
   {
    "id": "578e103e3f80",
@@ -412,12 +531,17 @@
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGVuWXFRd0V1dkI4djh0TkRUVEE3ZmlIR3BiRGVtcHU4cWVDaFpvM2hzcGdadHNuVVlnTXlXOFMzWHZ3MzgySVFnMm5uSzJyLXdEX2psRTZsT2dxWGtELWdtb0RNRjhlVWNHNl9sSmJEVDVlamE4UXB3cnd2SjFUR0x6ZjRLWTg",
    "source": "Just Auto",
    "published_at": "2026-10-22T12:13:31+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Just Auto",
      "published_at": "2026-10-22T12:13:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGVuWXFRd0V1dkI4djh0TkRUVEE3ZmlIR3BiRGVtcHU4cWVDaFpvM2hzcGdadHNuVVlnTXlXOFMzWHZ3MzgySVFnMm5uSzJyLXdEX2psRTZsT2dxWGtELWdtb0RNRjhlVWNHNl9sSmJEVDVlamE4UXB3cnd2SjFUR0x6ZjRLWTg"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-22T13:12:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZEJ6RkViemZvWVZTV2FnTnRlcXJNTjRyQ0NUNHU0TzNIcTBBUVdQMVJycnZnTmFEbWpHclFqazloUGlKMGlBMHg0R0lYenQ3Q2N2R1p1TXhRdE9DUXA2UDJUWG5MZE40cVJNWlJGaUk3cU9VUUVUWHFReVJfd1o1bnJDaEZZZFRyT1RPcnNkU09xQQ"
     }
    ],
    "category": "其他",
@@ -1167,6 +1291,23 @@
    "sentiment": 1
   },
   {
+   "id": "885484e5bac3",
+   "title": "法律AI独角兽再融37亿，英伟达曾投，ARR半年翻倍 - 凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zMHowSkZZWGM3RzZ6UEx4MzRaVzNYdUxHQll1RHF3ajIwVzkzUlNWSnR0eGtWLXJFS1pDUHBKU1JhQ3JsM3RIdEI3aUI",
+   "source": "凤凰网科技",
+   "published_at": "2026-10-22T10:58:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-22T10:58:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zMHowSkZZWGM3RzZ6UEx4MzRaVzNYdUxHQll1RHF3ajIwVzkzUlNWSnR0eGtWLXJFS1pDUHBKU1JhQ3JsM3RIdEI3aUI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "309f326f2261",
    "title": "Nvidia’s Jensen Huang Wants AI Chips To Be A ‘Financeable Asset,’ Says Neocloud Demand Is ‘Off The Charts’ - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnNNckZqcjdFb1ZMdWZwV1h4RE4xbGZWekk5dVlsRDNaaHpuMlRUOWh5WVlnRk1vV3FGY2pCazNhLVJ4UENfWnpqVXVVWVROTVZMUUswRnRXZjVOYkM5UnVGVVhiR2g3M0ZIUlJKa0NFQl9KaG9JSnBKc3BvTFF1SUs5S1A5Q3RSaHVTQWNxMmNFeC1fU1lB",
@@ -1297,12 +1438,17 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk05Yy1BaTdJeXdPVUk0Wm50Uy0wd2RBVDJydWR1VnNUZi1qTTYxNC10a1gtUGZkTlR6WUY5RGY0ZlRLU0gtUlpxQkJIQ0VZNVVBQUlYTmN5MjNQb1pKRjQ0QUhyTUY2bktaUkRHZVNSSmowcmJkMEUyV3lIYmZjejdjUHB4REhVbEl2bEU5RnlTMnZkQ0hPdHJXcm0",
    "source": "新浪财经",
    "published_at": "2026-10-22T10:34:55+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-22T10:34:55+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk05Yy1BaTdJeXdPVUk0Wm50Uy0wd2RBVDJydWR1VnNUZi1qTTYxNC10a1gtUGZkTlR6WUY5RGY0ZlRLU0gtUlpxQkJIQ0VZNVVBQUlYTmN5MjNQb1pKRjQ0QUhyTUY2bktaUkRHZVNSSmowcmJkMEUyV3lIYmZjejdjUHB4REhVbEl2bEU5RnlTMnZkQ0hPdHJXcm0"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-22T10:37:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91WEc0b0hPQTY1OWlNR0lPTDI0V0RfLVhJTnNRZHlfYWFDaW0zWnRVUHJVUk1jbVdzN0k2XzNNZ1RMOG9mcHI5aG0wVQ"
     }
    ],
    "category": "其他",
@@ -1855,12 +2001,17 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMzFwTlpKN1Bwa0I3TXBHQjlxbXhnOGdMQUR2MVBPdmpaZDBDX0dZOVliNGNIaGE5Y24wM2oxa0lFWmUtWE4ybDJ5eElSYW5EUlN2X0J2TElxbnB5d3NJWDdyeGEyV0oxbjVYNVFBcW0wejlIVVpia1hiZ2xZYzUzNllFRUlnU2tZTXg5cWFTSQ",
    "source": "21财经",
    "published_at": "2026-10-22T09:05:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "21财经",
      "published_at": "2026-10-22T09:05:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMzFwTlpKN1Bwa0I3TXBHQjlxbXhnOGdMQUR2MVBPdmpaZDBDX0dZOVliNGNIaGE5Y24wM2oxa0lFWmUtWE4ybDJ5eElSYW5EUlN2X0J2TElxbnB5d3NJWDdyeGEyV0oxbjVYNVFBcW0wejlIVVpia1hiZ2xZYzUzNllFRUlnU2tZTXg5cWFTSQ"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-22T10:24:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcF94dWc0V01sS3R5Z0tBRk9UMDIxRXdaWTBtcUlNSkpjSVJuWHYxY3ZiV3RWUXZHaV9qWnF0VUxncTEwZjlndEl6eTRWUXpIX0F6U29ZWHV4OUNiZ0lvNWpsUVZrc3Zwb1BiVWd6T1kwellQOENiWGdfU2NaZEFPMWp0SEU"
     }
    ],
    "category": "AI需求",
@@ -4712,26 +4863,6 @@
    "sentiment": 1
   },
   {
-   "id": "712d804cdb32",
-   "title": "什么信号？亚马逊豪掷数十亿“锁”英伟达GPU 但因缺电闲置仓库！ - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MV1VfdTVFeGFpRE1ENTRWQUVMVURWNlpmNkJmbzluNloyckRMQWo5ZkVfWUVCMXVNT0R1a2p6WXFxeVZVWHpqWnl2UE5MS1ItQ1RaZGQzdlBEUDlRYzRxdA",
-   "source": "东方财富",
-   "published_at": "2026-10-21T22:49:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T22:49:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MV1VfdTVFeGFpRE1ENTRWQUVMVURWNlpmNkJmbzluNloyckRMQWo5ZkVfWUVCMXVNT0R1a2p6WXFxeVZVWHpqWnl2UE5MS1ItQ1RaZGQzdlBEUDlRYzRxdA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "亚马逊数十亿美元锁定英伟达GPU却因缺电闲置",
-   "title_zh": "什么信号？亚马逊豪掷数十亿“锁”英伟达GPU 但因缺电闲置仓库！ - 东方财富",
-   "sentiment": -1
-  },
-  {
    "id": "188e1a0f9b61",
    "title": "Nvidia Embraces European Sovereignty at GTC Berlin - HPCwire",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1piUlB6Vndzc0g4dkZ6MlZOZkhfbHQtUm9JUlJ0U0JfbDhHcjRpS2w0X0N3T003UUxGYVRNbVNFT1QwRmRoVTY3ektINjB4Zi1qRUZvQ292R1hrTlVfX2x4Vm9DdkZONzR6T2ZNSDNlRkIxX1BzYTVXU1gxZkxvNkxuS1pMZWxYVm53aUttUQ",
@@ -6248,165 +6379,6 @@
    "zh_summary": "发布DSX蓝图：建AI工厂数字孪生",
    "title_zh": "英伟达发布Omniverse DSX蓝图，用智能体构建AI工厂数字孪生",
    "sentiment": 1
-  },
-  {
-   "id": "9fb586d1c4a8",
-   "title": "NVIDIA and Micron Alone Now Contribute 36% of S&P 500 Earnings Growth as Historic Market Concentration Grows - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk15YWlJS2dmXzl6Qm1HaG04dlJDSzRZN21UdFR0ZV9Lb3VmOVQwTG5NVVJpT3cwbkU3VlEwcHU1SEhmdk1GSVlxUlNiZEEyVlBjNHZwcy1pVm5tcERkckI5OG9nLVN4NFVtWmlWV3ZWdGFCRFlmNDFlUFN4dlYzaV9fNndDc3pEX3Q2WTdzRG9FbUkxdzRqN2I1U1U1S1hLUXNoei1ScDJpT3hmWTJsdldMOGRWMmp3TmFraVNZVFZURHdMWEoxUElQa2U0LXRKbTVKQnkxYjM5TWc0dnRJb1E3dW0",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-21T16:01:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-21T16:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk15YWlJS2dmXzl6Qm1HaG04dlJDSzRZN21UdFR0ZV9Lb3VmOVQwTG5NVVJpT3cwbkU3VlEwcHU1SEhmdk1GSVlxUlNiZEEyVlBjNHZwcy1pVm5tcERkckI5OG9nLVN4NFVtWmlWV3ZWdGFCRFlmNDFlUFN4dlYzaV9fNndDc3pEX3Q2WTdzRG9FbUkxdzRqN2I1U1U1S1hLUXNoei1ScDJpT3hmWTJsdldMOGRWMmp3TmFraVNZVFZURHdMWEoxUElQa2U0LXRKbTVKQnkxYjM5TWc0dnRJb1E3dW0"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T16:01:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlpwS09yNVNtb3BpTFBfVWVVQVJ5T2lXSTRYRWR1d0NFM0hORVYwU2N6b2R0RnJkT2FqRVptTXpWTUt2WnVVT1EtbUlnTWZyYnM5NTFWRThiN2NHNVJ2SEJVTFFDSkRZalRiRlVoVFhPY0ZKampxV05oMHcxaUd1RmN5Vk12R3NoazQ3SjJzRDZpTHFVLS0wV0F3emRzODd2"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "英伟达与美光贡献标普36%盈利增长",
-   "title_zh": "英伟达与美光合计贡献标普500指数36%的盈利增长",
-   "sentiment": 1
-  },
-  {
-   "id": "530a002bd2f9",
-   "title": "前英伟达GROOT团队，开放首个免数据机器人大脑API，3美元一小时 - 机器人大讲堂",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZaGg5eFRwZHoxWDN5UXJzV19rdzFkR210a2dEOUluZEFNcGNmRWFsWW9hNXFvWTdGeWdLNU1SZEVJX1BqRkZSdzZ1a1hFQQ",
-   "source": "机器人大讲堂",
-   "published_at": "2026-10-21T15:52:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "机器人大讲堂",
-     "published_at": "2026-10-21T15:52:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZaGg5eFRwZHoxWDN5UXJzV19rdzFkR210a2dEOUluZEFNcGNmRWFsWW9hNXFvWTdGeWdLNU1SZEVJX1BqRkZSdzZ1a1hFQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "前英伟达团队开放机器人大脑API",
-   "title_zh": "前英伟达GROOT团队开放免数据机器人大脑API",
-   "sentiment": 1
-  },
-  {
-   "id": "af8c92605551",
-   "title": "Absolute Security Integrates Autonomous Cyber Resilience into the NVIDIA DGX Station AI Supercomputer - Business Wire",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcDJMcG8zcnNQR2RLSlhMMkxIY1BrNkd5dW14dWR6WkFLbldZLVVTWlRGQWZEdVNmb0phQm5Ka2FhWjhlcHdhTG1EdHJQQ0lkOENCbE5qeE94eTV4b3dHeWRIUWFxYS1YM0pERmJiMXpWbGFQdDhxVVdLOTRDWUtJR19kcXpIUDk5bzhraWdXOW1PRlpDbzhhcGJEempCSlFrT0tmNUc5d0ZjdFdDN1kwZmExeTJiU0VJTjZhUEFmZ0t4RXJRY1dSMlhXWTdDanZ5ekZ4ZV9SbXNNY09QUnlnRWxUSlhMdUFmUENDYjVibw",
-   "source": "Business Wire",
-   "published_at": "2026-10-21T15:42:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Business Wire",
-     "published_at": "2026-10-21T15:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcDJMcG8zcnNQR2RLSlhMMkxIY1BrNkd5dW14dWR6WkFLbldZLVVTWlRGQWZEdVNmb0phQm5Ka2FhWjhlcHdhTG1EdHJQQ0lkOENCbE5qeE94eTV4b3dHeWRIUWFxYS1YM0pERmJiMXpWbGFQdDhxVVdLOTRDWUtJR19kcXpIUDk5bzhraWdXOW1PRlpDbzhhcGJEempCSlFrT0tmNUc5d0ZjdFdDN1kwZmExeTJiU0VJTjZhUEFmZ0t4RXJRY1dSMlhXWTdDanZ5ekZ4ZV9SbXNNY09QUnlnRWxUSlhMdUFmUENDYjVibw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "网络安全集成至DGX Station AI超算",
-   "title_zh": "Absolute将自主网络安全集成至英伟达DGX Station AI超算",
-   "sentiment": 1
-  },
-  {
-   "id": "fae69a5dd4c7",
-   "title": "Nvidia launches DSX POD, claims the Vera-Rubin reference architecture will make AI data centers more water and energy efficient - Data Center Dynamics",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOXzdEQjg3MDRGc053TUxheklHb1JQTzloUGNiOGdKb0dVZVk4cVdZZXY3V05HNFdOTmlCaF96cTRyTnBJSGhsQmFfcUxkaFBiVnJ5QzBmODJndXFPcFVlaWNsYWJUSGZsenZ1VkpQOEVMZzRiamNPd2NKVm5hM0ZicUxfb0hON0h2RU51Y1Q2ajFIblNTa3dOOFJzUDNiWk5tbmJmWG5CX3NiM1NpQWNxOE5HUkJiVDlncFNFbzY5WVpnN2hmSkZBVDlmZFdGQ2kwanpPNjl6UVFDX2lOVlViWDRtMXhBNkE3aTRQT0RybXNVenowVEgyRkJrT3ZSNDA",
-   "source": "Data Center Dynamics",
-   "published_at": "2026-10-21T15:40:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Data Center Dynamics",
-     "published_at": "2026-10-21T15:40:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOXzdEQjg3MDRGc053TUxheklHb1JQTzloUGNiOGdKb0dVZVk4cVdZZXY3V05HNFdOTmlCaF96cTRyTnBJSGhsQmFfcUxkaFBiVnJ5QzBmODJndXFPcFVlaWNsYWJUSGZsenZ1VkpQOEVMZzRiamNPd2NKVm5hM0ZicUxfb0hON0h2RU51Y1Q2ajFIblNTa3dOOFJzUDNiWk5tbmJmWG5CX3NiM1NpQWNxOE5HUkJiVDlncFNFbzY5WVpnN2hmSkZBVDlmZFdGQ2kwanpPNjl6UVFDX2lOVlViWDRtMXhBNkE3aTRQT0RybXNVenowVEgyRkJrT3ZSNDA"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达发布DSX POD水冷节能数据中心架构",
-   "title_zh": "英伟达发布DSX POD，称Vera-Rubin架构让AI数据中心更节水节能",
-   "sentiment": 1
-  },
-  {
-   "id": "2c69ba740b83",
-   "title": "谷歌云与英伟达宣布Vera Rubin基础设施即将商用 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBicElzSkxIeGw2b1NyQ1lIcE5kZHpVUlhLVWV4VUFJRm5QZTJnWk5ZM3lfbEw5cFd6VFk4VzZ4SkNPRDd2d2xtcU5VTTJNdnE2OGpoUlJPVGlLMXJWazd6X2luOHd4aG02VDNWbGZTZzF4cnoxc092NQ",
-   "source": "新浪财经",
-   "published_at": "2026-10-21T15:35:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-21T15:35:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBicElzSkxIeGw2b1NyQ1lIcE5kZHpVUlhLVWV4VUFJRm5QZTJnWk5ZM3lfbEw5cFd6VFk4VzZ4SkNPRDd2d2xtcU5VTTJNdnE2OGpoUlJPVGlLMXJWazd6X2luOHd4aG02VDNWbGZTZzF4cnoxc092NQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "谷歌云与英伟达Vera Rubin基建将商用",
-   "title_zh": "谷歌云与英伟达宣布Vera Rubin基础设施即将商用",
-   "sentiment": 1
-  },
-  {
-   "id": "567f4894c6fd",
-   "title": "英伟达携手六大供应链伙伴扩产 - DoNews",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGZzBGTzVLMkl1M2hHN2tmWUp1REJTMk02VE5qSHJzMzItQ1BjYU1JcE1yTHBEb2ZfTEJRdF8yWWc3QXljMG9URU80cFo0cU96R0ZBRFI0cTBVNnZRQ1E",
-   "source": "DoNews",
-   "published_at": "2026-10-21T15:32:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "DoNews",
-     "published_at": "2026-10-21T15:32:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGZzBGTzVLMkl1M2hHN2tmWUp1REJTMk02VE5qSHJzMzItQ1BjYU1JcE1yTHBEb2ZfTEJRdF8yWWc3QXljMG9URU80cFo0cU96R0ZBRFI0cTBVNnZRQ1E"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘中",
-   "zh_summary": "英伟达携六大供应链伙伴扩产",
-   "title_zh": "英伟达携手六大供应链伙伴扩产",
-   "sentiment": 1
-  },
-  {
-   "id": "885f1a748552",
-   "title": "AMD vs. Nvidia. 1 Metric Proves Which Is the Best Stock. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY3VvNnRBVE9DUmxCVGpzdWJDX1ZkVmVHRnI2LWlIeUgyVlphdEhDRDdjYVdkbGxsSnU2WW9ubHR1eFdtM2lVTTdNeGVfTGdHdGlQeWJXTkpreVQ3YmhGemFiTVJ4TnVFZDB3dGc2SmdnUG5DY1RkT1dQV3F3V1hlQ2IxZHJmWFVXUVNnTi1maE9JM2hh",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-21T15:29:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-21T15:29:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY3VvNnRBVE9DUmxCVGpzdWJDX1ZkVmVHRnI2LWlIeUgyVlphdEhDRDdjYVdkbGxsSnU2WW9ubHR1eFdtM2lVTTdNeGVfTGdHdGlQeWJXTkpreVQ3YmhGemFiTVJ4TnVFZDB3dGc2SmdnUG5DY1RkT1dQV3F3V1hlQ2IxZHJmWFVXUVNnTi1maE9JM2hh"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T15:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWFVOcU9xRWJzZjR0M2FoU3k4TjBKSWpfSDc2NmNqbzBGMWxqcnpFajhZTG1sNGRtVjBJY3NqTF9mVGVDaHJYTXVNQTlqLVltaW00REFkT3pWX09FOHB2LTQwdnR4VXJXU25ZMTlvTV83RV9uR21Xd2ZGX0ZZSDc3RDZINVRfdGNKQ1ZXRzYzVmo"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-21T15:37:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTW9kZjdLZXAtRjhPTEhHblhBM2V5RE5DMVFyVWVPVWU1Z1VtanhJVm9UakNucDdPZGp5UERHX0VYanpVNGlvZzNiWDdaT3l6eVVmdlRxbTlNYk83VE9rN0JUbFJDRWNOWnpoU3o2N0lhSlVUVGktaXJkODhMc0lEN2JXd28tVVdwNUQwa0R5OXAtT051bUdrU3puRVJlUWFyYnpPWFQxUzJxcy1DSGVXS2FWUFBFSzlRZldtVUdyY2RTZjdMcF9iLUc4MWswVVI0cDV0SUVBRQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "AMD对决英伟达：一个指标定胜负",
-   "title_zh": "AMD 对决英伟达：一个指标证明哪只是更好的股票",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.02,
-    "window_h": 0.6
-   }
   }
  ]
 }
