@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T18:21:52.907813+00:00",
+ "updated_at": "2026-10-22T18:36:34.380143+00:00",
  "market": {
-  "price": 212.92,
-  "change_pct": -4.08,
+  "price": 212.48,
+  "change_pct": -4.28,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.64,
-   "count": 227
+   "count": 233
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +47.9%"
+     "note": "目标价中位数 $315（16家），隐含空间 +48.2%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.64（227条已评分）"
+     "note": "今日新闻情绪 +0.64（233条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $212.92 vs 20日均线 $226.28"
+     "note": "现价 $212.48 vs 20日均线 $226.26"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 64,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 47.9,
-   "ma20": 226.28,
-   "as_of": "2026-10-22T18:21:52.895968+00:00"
+   "implied_upside_pct": 48.2,
+   "ma20": 226.26,
+   "as_of": "2026-10-22T18:36:34.361900+00:00"
   },
-  "pe_ttm": 27.1,
+  "pe_ttm": 27.0,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "644c14392786",
+   "title": "Mercedes-Benz, NVIDIA Expand Autonomous Driving Pact - Mexico Business News",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOExyUGxvN3VNYnZFRU1fZmpNM2QwX29lR2s4WWJ4cmRib3ZiTkRLTE1vbUhfUXZhTlF4eXhQMHZiWUJyZkVrRjJrbEZWYVRIV0VLZTU5QzM1NEpvMHpMVzcxdGxzNl9jNnY4X2VvTDJ3akRrck1wS1FNZXlrT0U0UUp3UkhiREduSldOekJScEZXdXlXNi1nQkZ6bw",
+   "source": "Mexico Business News",
+   "published_at": "2026-10-22T18:24:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Mexico Business News",
+     "published_at": "2026-10-22T18:24:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOExyUGxvN3VNYnZFRU1fZmpNM2QwX29lR2s4WWJ4cmRib3ZiTkRLTE1vbUhfUXZhTlF4eXhQMHZiWUJyZkVrRjJrbEZWYVRIV0VLZTU5QzM1NEpvMHpMVzcxdGxzNl9jNnY4X2VvTDJ3akRrck1wS1FNZXlrT0U0UUp3UkhiREduSldOekJScEZXdXlXNi1nQkZ6bw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "4a5386300869",
    "title": "Aptiv expands Nvidia tie-up with air-cooled Thor platform - Automotive World",
@@ -4806,6 +4823,23 @@
    "sentiment": 1
   },
   {
+   "id": "cbdbdcd4579e",
+   "title": "英伟达CEO黄仁勋：欧洲要想吃AI红利，全行业都该拥抱AI 大胆行动才是关键 - 中华军事",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMNHFtb3JEM09RcWFEaWJsYWZyQkU3TkhhYUpXQmpnaUowcE9sWEpHam8xRDZ6NnBiMzZadkpycEg0eVEydlE0Ym93OTF2MExpRDd5Q2QtS090WU9XbXV1b2gzS2FYUTFpclRUZC14Smg",
+   "source": "中华军事",
+   "published_at": "2026-10-22T05:35:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中华军事",
+     "published_at": "2026-10-22T05:35:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMNHFtb3JEM09RcWFEaWJsYWZyQkU3TkhhYUpXQmpnaUowcE9sWEpHam8xRDZ6NnBiMzZadkpycEg0eVEydlE0Ym93OTF2MExpRDd5Q2QtS090WU9XbXV1b2gzS2FYUTFpclRUZC14Smg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "9f574cd365e3",
    "title": "英伟达黄仁勋柏林GTC演讲：AI经济是五层蛋糕 - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdUQ2S2xQendoSDNhUmR1Y01mTjJYdm54Ty1VOEZuckdubUM1cFNfa3BKUTNkcFEwcG9BUVlOek1vT3Z5UFduOUxGZGUtME5VS2t5THNmbW53bTVab3o1WE5MdzhuYy1kUFJuc2tseW85SDhzRjBYRkxjMEN0VVZ6S3FzVkxfelVX",
@@ -6353,46 +6387,6 @@
    "zh_summary": "英伟达发布新AI参考架构和开发工具",
    "title_zh": "英伟达发布全新AI参考架构和开发工具",
    "sentiment": 1
-  },
-  {
-   "id": "f88b6c8019bd",
-   "title": "Nvidia Shrinks AI Factory Setup From Months to Weeks - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUZaZXlkRmxrMzQyeVpPdGZkVklVUGxEUDg4REIzYmw0UDhJbzBxejJJM1cwWWhoZFg2MW44eGJjQ0NSNjFBdTUyZnZvblhGZDQ1SGwxbDVaVjJkNWN1V3RYR1puNTNRR1hRQ3Y4SFczdWFIZ0FNNUwzR25RdDA3NWUyNlVMb1pkM0N6bWVkTnIwcm5ZX0Q4ZXRaRQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-21T22:30:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T22:30:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUZaZXlkRmxrMzQyeVpPdGZkVklVUGxEUDg4REIzYmw0UDhJbzBxejJJM1cwWWhoZFg2MW44eGJjQ0NSNjFBdTUyZnZvblhGZDQ1SGwxbDVaVjJkNWN1V3RYR1puNTNRR1hRQ3Y4SFczdWFIZ0FNNUwzR25RdDA3NWUyNlVMb1pkM0N6bWVkTnIwcm5ZX0Q4ZXRaRQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达将AI工厂部署缩至数周",
-   "title_zh": "英伟达将AI工厂部署时间从数月缩短至数周",
-   "sentiment": 1
-  },
-  {
-   "id": "cc252f69ef62",
-   "title": "英伟达GTC柏林演讲风波：绿色和平抗议俄武器问题，黄仁勋回应后机器人演示“不听话” - 凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSjl5Z3ZwOEJ1QWJybF9mX2k5WFFzYkxMOG9EZnBoQ19MNFN6SGNUYW1LaGszTjlWRzlUYTJiQXJ6ckRrVFhhb19JNW5DZFRoWVE",
-   "source": "凤凰网",
-   "published_at": "2026-10-21T22:27:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-21T22:27:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSjl5Z3ZwOEJ1QWJybF9mX2k5WFFzYkxMOG9EZnBoQ19MNFN6SGNUYW1LaGszTjlWRzlUYTJiQXJ6ckRrVFhhb19JNW5DZFRoWVE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "绿色和平在GTC柏林抗议，机器人演示出状况",
-   "title_zh": "英伟达GTC柏林演讲：绿色和平抗议，黄仁勋回应后机器人演示失灵",
-   "sentiment": 0
   }
  ]
 }
