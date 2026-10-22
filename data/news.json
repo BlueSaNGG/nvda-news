@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T03:51:54.140609+00:00",
+ "updated_at": "2026-10-22T04:21:51.176353+00:00",
  "market": {
   "price": 221.97,
   "change_pct": 2.54,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.85,
-   "count": 295
+   "count": 286
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,12 +25,12 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +41.9%"
+     "note": "目标价中位数 $315（16家），隐含空间 +41.9%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.85（295条已评分）"
+     "note": "今日新闻情绪 +0.85（286条已评分）"
     },
     {
      "key": "动量",
@@ -45,10 +45,10 @@
    ],
    "price_52w_pct": 77,
    "target_median": 315.0,
-   "target_count": 15,
+   "target_count": 16,
    "implied_upside_pct": 41.9,
    "ma20": 226.87,
-   "as_of": "2026-10-22T03:51:54.124309+00:00"
+   "as_of": "2026-10-22T04:21:51.162626+00:00"
   },
   "pe_ttm": 28.2,
   "pe_pct_5y": 25,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "10e090ead4f1",
+   "title": "NVDA 261023 190.00C (NVDA261023C190000) Stock Options Chain | Quotes & News - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MajBsU3lPQi1Lc29Od2tFVFR0dVpySXNPNldMNlA5bWxrcmsxTGdnQUVWU1dwbjVyMDBPTjNURGcxSXV3RU5MWS1STWRhOXNQZ3dYc3BZejhDSWt1ZWVJVA",
+   "source": "Moomoo",
+   "published_at": "2026-10-22T04:07:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-22T04:07:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MajBsU3lPQi1Lc29Od2tFVFR0dVpySXNPNldMNlA5bWxrcmsxTGdnQUVWU1dwbjVyMDBPTjNURGcxSXV3RU5MWS1STWRhOXNQZ3dYc3BZejhDSWt1ZWVJVA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "09a62e42bcd7",
+   "title": "英伟达“柏林GTC”对供应链的影响：后端产能受限、CPO加速 - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oNnppOGhyOWJRUW9ubGYwenRlTmlqUEc2V1JNRThuZGYtUkdLWFIzUDhwdmlLMk02U3NFYXlWYUY2RjZtNTBRZmdrZjA2YXFHYWpV",
+   "source": "华尔街见闻",
+   "published_at": "2026-10-22T04:07:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-22T04:07:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oNnppOGhyOWJRUW9ubGYwenRlTmlqUEc2V1JNRThuZGYtUkdLWFIzUDhwdmlLMk02U3NFYXlWYUY2RjZtNTBRZmdrZjA2YXFHYWpV"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘后"
+  },
+  {
+   "id": "48512a4b3195",
+   "title": "柯马与英伟达合作加速推动工业机器人领域的物理AI创新 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2dUd1QxQVpiMWV2YnJST25oZEJBVjlFMDlocHEyRnVQVFZfMU96NGFwWEJkODhpLWluNzV2UzI1c09Zb1kwWU96T3ZYMnF4REFUYVptdjBLWnBuS1RxVXROYmtucVBmR2dob1VubFNOU3pENXBxTldIYnN1MV83OTNSSk03MnJC",
+   "source": "搜狐",
+   "published_at": "2026-10-22T03:49:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-22T03:49:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2dUd1QxQVpiMWV2YnJST25oZEJBVjlFMDlocHEyRnVQVFZfMU96NGFwWEJkODhpLWluNzV2UzI1c09Zb1kwWU96T3ZYMnF4REFUYVptdjBLWnBuS1RxVXROYmtucVBmR2dob1VubFNOU3pENXBxTldIYnN1MV83OTNSSk03MnJC"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "049aef3c4324",
    "title": "AI-RAN争夺战：英伟达进运营商，深圳企业同步卡位 - 搜狐",
@@ -76,10 +127,7 @@
     }
    ],
    "category": "其他",
-   "session": "盘后",
-   "zh_summary": "AI-RAN争夺战：英伟达进运营商",
-   "title_zh": "AI-RAN争夺战：英伟达进运营商，深圳企业同步卡位",
-   "sentiment": 1
+   "session": "盘后"
   },
   {
    "id": "00cff71ee518",
@@ -96,10 +144,24 @@
     }
    ],
    "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达强攻全球运营商",
-   "title_zh": "英伟达强攻全球运营商，深圳公司同步卡位",
-   "sentiment": 1
+   "session": "盘后"
+  },
+  {
+   "id": "8de9a1315255",
+   "title": "DayOne Supports NVIDIA DSX POD Reference Design, Advancing Standardized Infrastructure for AI - PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdHR1UVFjcmppTHNSbXFwdW0xVDl2cmoxbjZNTHVGWUJjMHRMbDk0MXUtYmp5aXJmWWlKOVhrR0U2b3R6QldpbnJfVEx5VjZQc3ZTUXQ2NzgyU0FpVmpUSEwxSzk2N2xnQnFuLWZiUS1sMmdRcGJhNXRyaEV2NHpSWElxbFVLM1g0aW5aU0J3ckhjV2tIblF2eVg5RW0wLVdTMEF6RS1QejNNcG45OVltcXV3Ym5CWFJhRHlKRDNqUkt1UU8xOVc1RkRqZUkwS09WcFZNN0VYSENPV1ZJUUZmMVZn",
+   "source": "PR Newswire",
+   "published_at": "2026-10-22T03:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PR Newswire",
+     "published_at": "2026-10-22T03:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdHR1UVFjcmppTHNSbXFwdW0xVDl2cmoxbjZNTHVGWUJjMHRMbDk0MXUtYmp5aXJmWWlKOVhrR0U2b3R6QldpbnJfVEx5VjZQc3ZTUXQ2NzgyU0FpVmpUSEwxSzk2N2xnQnFuLWZiUS1sMmdRcGJhNXRyaEV2NHpSWElxbFVLM1g0aW5aU0J3ckhjV2tIblF2eVg5RW0wLVdTMEF6RS1QejNNcG45OVltcXV3Ym5CWFJhRHlKRDNqUkt1UU8xOVc1RkRqZUkwS09WcFZNN0VYSENPV1ZJUUZmMVZn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "4dd157797a77",
@@ -107,19 +169,21 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdlNZYmd6UUtuS3RSWXQ0aW4zOUN2aE4wMnZMQXZ5ak5RYXBMVzFoZFhLYV9MR1Qyamc0UFNWcC16X2Z5ZjV6bkxlSVNUb3poVEJTc0lwYTRIbmk4eEJiUE1GMlExdTlTRGZlYU1SbzJrSHNrWGkxYmhQRWNmTlpPWV9XR25mR0NV",
    "source": "搜狐",
    "published_at": "2026-10-22T03:40:17+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-22T03:40:17+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdlNZYmd6UUtuS3RSWXQ0aW4zOUN2aE4wMnZMQXZ5ak5RYXBMVzFoZFhLYV9MR1Qyamc0UFNWcC16X2Z5ZjV6bkxlSVNUb3poVEJTc0lwYTRIbmk4eEJiUE1GMlExdTlTRGZlYU1SbzJrSHNrWGkxYmhQRWNmTlpPWV9XR25mR0NV"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-22T03:40:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EcjZkcW5jYzlTU0VQYlRCbmVocWVxcXBNT0c4R3ctcUtkVmNmRmZfZmt6b055bEZYanp4VGJvdU5BYVc4MlpIaHM1UFc"
     }
    ],
    "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达投的AI语音独角兽发两款新模型",
-   "title_zh": "英伟达投的AI语音独角兽发两款新模型，半秒实时响应",
-   "sentiment": 1
+   "session": "盘后"
   },
   {
    "id": "f4acd8fa6801",
@@ -136,10 +200,30 @@
     }
    ],
    "category": "分析师",
+   "session": "盘后"
+  },
+  {
+   "id": "f37afa7e4b9c",
+   "title": "高盛维持英伟达买入评级 目标价300美元较收盘价高38.6% - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mZGdHNmQ3S1Z3OWoxWXpHOFB3VWJDdDRncUN2cm13V1VlSkxHWkxTNHRZb2xvc2JLTWJDSk93LVlYNzJuLU1VaGJ4YnF1eENQbjItdEo4VzRZQ0t3blY0eDZn",
+   "source": "观点网",
+   "published_at": "2026-10-22T03:21:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-22T03:21:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mZGdHNmQ3S1Z3OWoxWXpHOFB3VWJDdDRncUN2cm13V1VlSkxHWkxTNHRZb2xvc2JLTWJDSk93LVlYNzJuLU1VaGJ4YnF1eENQbjItdEo4VzRZQ0t3blY0eDZn"
+    }
+   ],
+   "category": "分析师",
    "session": "盘后",
-   "zh_summary": "高盛给予英伟达300美元目标价",
-   "title_zh": "高盛：英伟达物理AI收入超预期，目标价300美元",
-   "sentiment": 1
+   "analyst": {
+    "firm": "Goldman Sachs",
+    "action": "维持",
+    "target": "300美元",
+    "rating": "买入"
+   }
   },
   {
    "id": "b0ca86089e5c",
@@ -316,10 +400,7 @@
     }
    ],
    "category": "其他",
-   "session": "盘后",
-   "zh_summary": "欧股全线上扬，英伟达加码欧洲",
-   "title_zh": "欧股全线上扬，英伟达加码欧洲",
-   "sentiment": 1
+   "session": "盘后"
   },
   {
    "id": "9b0066c573dd",
@@ -672,6 +753,23 @@
    "sentiment": 1
   },
   {
+   "id": "eb66fc01c797",
+   "title": "Why AI Chip Stocks Nvidia, Broadcom, and Micron Are Down in Overnight Trading — and What Wall Street Expects Next - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQenF6T3lvR3IyV0FrNzVVQjVTOGlDRkV0RGdocm5pQUhkVmpwbDUyRy1lOHFSRE50Y0d2WGpxUmtmN2dwb2lHVnkxZ0JSUklqX1FReXdZVmdiY1ZkM0dVTG9WZURXcDk2OW1MbzE1Ym9ybllrRnBLT0JtYTUzbUdnbEZqOEdpbDhONUxmZjluenp6Rm1WSGNTZ2toTUlfVlhJSTRQbnRvbG1JVlRFSC1ra054OXpPRXFGbzdmU0xZNGJtVDhUdDJHWERSYkpzYVo3TTZnLUh3",
+   "source": "TipRanks",
+   "published_at": "2026-10-22T00:55:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-10-22T00:55:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQenF6T3lvR3IyV0FrNzVVQjVTOGlDRkV0RGdocm5pQUhkVmpwbDUyRy1lOHFSRE50Y0d2WGpxUmtmN2dwb2lHVnkxZ0JSUklqX1FReXdZVmdiY1ZkM0dVTG9WZURXcDk2OW1MbzE1Ym9ybllrRnBLT0JtYTUzbUdnbEZqOEdpbDhONUxmZjluenp6Rm1WSGNTZ2toTUlfVlhJSTRQbnRvbG1JVlRFSC1ra054OXpPRXFGbzdmU0xZNGJtVDhUdDJHWERSYkpzYVo3TTZnLUh3"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "3f44d6666c12",
    "title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain - The Register",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYm1pNjFiby1OTHR1Q2pYa2YzTE9rXzAzVnNSR2RIZENqNWVjSGJzcVQ2WG1BTVRDWHJxVXVYcndIVVp2dzV1MFh4U0w3Qll0WVdUaTM4ZnlxLUdJZzRFaUh3Qkk5WFJaVkRJNVN2cy1CVWc2eDgzaWJYY2Fnb1hVR3J3T3NHdnBoYXAxSjREV3JnVHhkQ1JLNm9nUDE4TWNyTjdwMUJmWFhmbFpON1RRVEstOTVfT2ZjT1FNZHlRZGV4NjMxajhselpkdFBqZ2pHamdFQlNVSnpJLWZK",
@@ -895,6 +993,23 @@
    "zh_summary": "英伟达收购Groq后芯片架构转向",
    "title_zh": "英伟达收购Groq后首出手，下一代AI芯片弃SRAM用3D堆叠DRAM",
    "sentiment": 1
+  },
+  {
+   "id": "c4844be00292",
+   "title": "英伟达加速工业仿真 半导体模拟最高提速40倍 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QdXZxODdaeUpjbGd3RXl3NnJxc29rb3FWZldsWTV2Nm9udmx0NmxsWkVQNWFaMXdSbGlBQmxjTHRkMzdQVkhoRVoxLTQtS0JHX2VmdkZtWjI",
+   "source": "驱动之家",
+   "published_at": "2026-10-21T23:28:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-21T23:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QdXZxODdaeUpjbGd3RXl3NnJxc29rb3FWZldsWTV2Nm9udmx0NmxsWkVQNWFaMXdSbGlBQmxjTHRkMzdQVkhoRVoxLTQtS0JHX2VmdkZtWjI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "a9d6dba0b8cd",
@@ -1947,6 +2062,23 @@
    "sentiment": 0
   },
   {
+   "id": "8f5f12a72351",
+   "title": "Nvidia’s Jensen Huang Reveals AI Data Center Quick-Fix. These Stocks Are Winners. - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmUDhYeUJnWWhob3owVVl0czY4VWFJck5oTk84ZHpJa2tFaEd5TElmdGJRUnl5bEcxVTZ1S21QcEUtY2QwZ2pDaUdmemNzdlgwRnY4QnBIVG95dTkzOHRaaXFaX3ZRdE45RTJQb0FiVWhZdE5UbE15elNvTWpPWFE",
+   "source": "Barron's",
+   "published_at": "2026-10-21T17:37:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-21T17:37:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmUDhYeUJnWWhob3owVVl0czY4VWFJck5oTk84ZHpJa2tFaEd5TElmdGJRUnl5bEcxVTZ1S21QcEUtY2QwZ2pDaUdmemNzdlgwRnY4QnBIVG95dTkzOHRaaXFaX3ZRdE45RTJQb0FiVWhZdE5UbE15elNvTWpPWFE"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
    "id": "a2642be28ab9",
    "title": "Nvidia Seeks to Slash Data Center Deployment Times with New DSX Pods - Barron's",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtV3BmTlMzTm5FWGxBZlRnSld6VU5leE1fTExCX3oxT0xuWk54WFdNRnQzRGJXbnVNVS1uQUZyYU1wNm9UUFVqczNiVUF2eVotanM5ZllhZjhQSXg1Nmhpc0g4TVB0cTdzS3laUWtzZUJYNGg3ZUtQVA",
@@ -2177,6 +2309,23 @@
    "sentiment": 1
   },
   {
+   "id": "212fb2d185ac",
+   "title": "NVIDIA GTC Berlin 2026 NVIDIA Intros DSX PODs and More - ServeTheHome",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmc5MjNtN1JRcWppekZDei0wVlNUb214LWdka0lrVkFMZkxzRGhIQW9vTzVqOHpEWF9hclJxazBRUnhKU1BhSFRpNXZPN3BaYnVuY3RkOVVka3hTWGljbGM3RU1MRG4tSm1xQl9kcVJ3UF9yMmNXRUozb2FXZG5rR2F6Uy1kc0VjWUI0ag",
+   "source": "ServeTheHome",
+   "published_at": "2026-10-21T16:30:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "ServeTheHome",
+     "published_at": "2026-10-21T16:30:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmc5MjNtN1JRcWppekZDei0wVlNUb214LWdka0lrVkFMZkxzRGhIQW9vTzVqOHpEWF9hclJxazBRUnhKU1BhSFRpNXZPN3BaYnVuY3RkOVVka3hTWGljbGM3RU1MRG4tSm1xQl9kcVJ3UF9yMmNXRUozb2FXZG5rR2F6Uy1kc0VjWUI0ag"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "f12d5e084d27",
    "title": "AI is building out the new Industrial Revolution: Nvidia's Jensen Huang - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGlPOXUtUGZ1dWNjS3J2OElNZTRlREg3TVFjc3lhMGFMWUlZRFRlczNycGZDd2xMZnUzZ3E3QWhzQUt5WXdsUUFQQVg5MFhFTEd2VXlLcUNoRktHVEdxWHdGRGljblpZTWN2aVpBMmFieVZXLWlydmRmajd6RHd0cV9ZOV9OcHRrNmMzT2QyTjFkUE5YQ01peXQzZVd0YXpScFczcDhyR0xtNVd4eGgxaUFOU2hhdEk",
@@ -2296,12 +2445,17 @@
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk15YWlJS2dmXzl6Qm1HaG04dlJDSzRZN21UdFR0ZV9Lb3VmOVQwTG5NVVJpT3cwbkU3VlEwcHU1SEhmdk1GSVlxUlNiZEEyVlBjNHZwcy1pVm5tcERkckI5OG9nLVN4NFVtWmlWV3ZWdGFCRFlmNDFlUFN4dlYzaV9fNndDc3pEX3Q2WTdzRG9FbUkxdzRqN2I1U1U1S1hLUXNoei1ScDJpT3hmWTJsdldMOGRWMmp3TmFraVNZVFZURHdMWEoxUElQa2U0LXRKbTVKQnkxYjM5TWc0dnRJb1E3dW0",
    "source": "24/7 Wall St.",
    "published_at": "2026-10-21T16:01:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-21T16:01:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk15YWlJS2dmXzl6Qm1HaG04dlJDSzRZN21UdFR0ZV9Lb3VmOVQwTG5NVVJpT3cwbkU3VlEwcHU1SEhmdk1GSVlxUlNiZEEyVlBjNHZwcy1pVm5tcERkckI5OG9nLVN4NFVtWmlWV3ZWdGFCRFlmNDFlUFN4dlYzaV9fNndDc3pEX3Q2WTdzRG9FbUkxdzRqN2I1U1U1S1hLUXNoei1ScDJpT3hmWTJsdldMOGRWMmp3TmFraVNZVFZURHdMWEoxUElQa2U0LXRKbTVKQnkxYjM5TWc0dnRJb1E3dW0"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T16:01:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlpwS09yNVNtb3BpTFBfVWVVQVJ5T2lXSTRYRWR1d0NFM0hORVYwU2N6b2R0RnJkT2FqRVptTXpWTUt2WnVVT1EtbUlnTWZyYnM5NTFWRThiN2NHNVJ2SEJVTFFDSkRZalRiRlVoVFhPY0ZKampxV05oMHcxaUd1RmN5Vk12R3NoazQ3SjJzRDZpTHFVLS0wV0F3emRzODd2"
     }
    ],
    "category": "财报",
@@ -3498,12 +3652,17 @@
   },
   {
    "id": "7f57ee3c2a65",
-   "title": "【财闻联播】黄仁勋最新发声，英伟达盘前涨超2%！上交所：对南威软件及有关责任人予以监管警示 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOakxQYUdsREs3VDhvYXVIVmtKczhQWWJaVXgxM3JQQnhEWWljMG54N293SFNFZ05ocWlvRHcyR0xXN1hCdmpKZTFJeGh3eDZCMTRMdmNLcGxWN0hFOXZqVTFKTnBBYldfUS10X0FnckZuZWRvUTBvUHFxYzRqMW5wVQ",
-   "source": "新浪财经",
-   "published_at": "2026-10-21T13:14:26+00:00",
-   "outlets_count": 3,
+   "title": "【财闻联播】黄仁勋最新发声，英伟达盘前涨超2%！上交所：对南威软件及有关责任人予以监管警示 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kNlBSWkw5OWNJQTYyX01aMURHNGRTdDN6X0VWTVI2eUZMeVIyZmplWkdXR01ndGpveF9GQWZDdzZJSFA4NlRON19kcXZZRzhYYU9qY3FHcTZ4dnBJWWwzNQ",
+   "source": "证券之星",
+   "published_at": "2026-10-21T13:12:19+00:00",
+   "outlets_count": 4,
    "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-21T13:12:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kNlBSWkw5OWNJQTYyX01aMURHNGRTdDN6X0VWTVI2eUZMeVIyZmplWkdXR01ndGpveF9GQWZDdzZJSFA4NlRON19kcXZZRzhYYU9qY3FHcTZ4dnBJWWwzNQ"
+    },
     {
      "name": "新浪财经",
      "published_at": "2026-10-21T13:14:26+00:00",
@@ -3522,6 +3681,7 @@
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "黄仁勋发声，英伟达盘前涨超2%",
    "title_zh": "【财闻联播】黄仁勋最新发声，英伟达盘前涨超2%！",
    "sentiment": 1,
@@ -6286,196 +6446,6 @@
    "session": "盘前",
    "zh_summary": "西门子扩大与英伟达代理AI合作",
    "title_zh": "西门子扩大与英伟达代理式AI合作，攻克3D芯片功耗与散热",
-   "sentiment": 1
-  },
-  {
-   "id": "f0c36e9eb88f",
-   "title": "Nvidia Planning to Expand Global Manufacturing Capacity Via New Deals With Supply Chain Partners - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmtfeWNFQVg2aUNIZENNV1R1S2Y0N0JnM2dkYl8wRDBnYkhXYnhlbmUyLVZucXBpLTVJRmZZeTBuT0dmd3doQzFKYzRCN0phWlVPdE44UFFaZlQwZDc4MWFOUnprM3hFZDZRRldPV2U2Nkh1U3ZsUmdhX3BleHVVUWNDWlFaZkRVT1FXU3dYc0hneXljLW1v",
-   "source": "Yahoo! Finance Canada",
-   "published_at": "2026-10-21T11:19:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-21T11:19:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmtfeWNFQVg2aUNIZENNV1R1S2Y0N0JnM2dkYl8wRDBnYkhXYnhlbmUyLVZucXBpLTVJRmZZeTBuT0dmd3doQzFKYzRCN0phWlVPdE44UFFaZlQwZDc4MWFOUnprM3hFZDZRRldPV2U2Nkh1U3ZsUmdhX3BleHVVUWNDWlFaZkRVT1FXU3dYc0hneXljLW1v"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "英伟达计划携供应链扩大全球制造产能",
-   "title_zh": "英伟达拟与供应链伙伴达成新协议，扩大全球制造产能",
-   "sentiment": 1
-  },
-  {
-   "id": "2a8f4f70c8ce",
-   "title": "T-Mobile makes first AI-RAN call with Nokia and Nvidia - Light Reading",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVDVja1dlNzg3TlRyVTExSVY0NzN2R2lybjdmYXZPR0J6eEhfaXo3bFhwSUlzUDhLUTFGNmZJNnlodlBnYWxRTm5jNTFvTjA4ckxYemNWbndrc0RVWUt3bm9pTFhGbkZmM1VjaDU1RlZreGN3blBhX0ZCTU1Kenl6aXpyN3FwN1hjdjU4RmtBa2o4MEstdEdITmdFZkVpZWFpNXpjX1hR",
-   "source": "Light Reading",
-   "published_at": "2026-10-21T11:19:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Light Reading",
-     "published_at": "2026-10-21T11:19:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVDVja1dlNzg3TlRyVTExSVY0NzN2R2lybjdmYXZPR0J6eEhfaXo3bFhwSUlzUDhLUTFGNmZJNnlodlBnYWxRTm5jNTFvTjA4ckxYemNWbndrc0RVWUt3bm9pTFhGbkZmM1VjaDU1RlZreGN3blBhX0ZCTU1Kenl6aXpyN3FwN1hjdjU4RmtBa2o4MEstdEdITmdFZkVpZWFpNXpjX1hR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "T-Mobile与英伟达完成首个AI-RAN通话",
-   "title_zh": "T-Mobile与诺基亚、英伟达完成首个AI-RAN通话",
-   "sentiment": 1
-  },
-  {
-   "id": "6ee9948f27da",
-   "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWU1MdmtIaFVyYU56aXRGWk1JTk9QSXhVcWtUSlB6MDJUdlhvY0ZzajdQR2pGNE1UWmEwcWlIYVZ5X1hCTzRFQ00yY0NCUDhrdjc3ZGljWHJuLXZiT0FWMU1wUV8tY1kyNmpDYk5JWDgwZG5BekpzOENFYWxOUmdHSFc2UXR3dWNDZXc",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-21T11:19:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-21T11:19:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWU1MdmtIaFVyYU56aXRGWk1JTk9QSXhVcWtUSlB6MDJUdlhvY0ZzajdQR2pGNE1UWmEwcWlIYVZ5X1hCTzRFQ00yY0NCUDhrdjc3ZGljWHJuLXZiT0FWMU1wUV8tY1kyNmpDYk5JWDgwZG5BekpzOENFYWxOUmdHSFc2UXR3dWNDZXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "欧洲工业巨头联手英伟达革新工程制造",
-   "title_zh": "欧洲工业领袖携手英伟达重塑工程与制造",
-   "sentiment": 1
-  },
-  {
-   "id": "2940f8f07a68",
-   "title": "六个月变14天：英伟达(NVDA.US)推出DSX POD，AI工厂交付迎来“集装箱化” - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkRzOGlBWjZ5T1B2c2RudmRtQ19UUlgtY3hCYlJLMFpZRVlaZHFGNnJOZE9EZTZKVDdiLTY0cmJQZnRudk9RU1U3cHcwRnZ2MFZKSGtWbEJnSGVGMkVMTWxHUlc0elRNcnlyeXlia3dIX0JrRllfc01KU3BGeENKejBtaUtyNXFwQTJYS2hoWTZzLVEyYlNOUUJtYjh6b3hTTVNydg",
-   "source": "Moomoo",
-   "published_at": "2026-10-21T11:17:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-21T11:17:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNkRzOGlBWjZ5T1B2c2RudmRtQ19UUlgtY3hCYlJLMFpZRVlaZHFGNnJOZE9EZTZKVDdiLTY0cmJQZnRudk9RU1U3cHcwRnZ2MFZKSGtWbEJnSGVGMkVMTWxHUlc0elRNcnlyeXlia3dIX0JrRllfc01KU3BGeENKejBtaUtyNXFwQTJYS2hoWTZzLVEyYlNOUUJtYjh6b3hTTVNydg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达推DSX POD，AI工厂交付缩至14天",
-   "title_zh": "六个月变14天：英伟达(NVDA.US)推出DSX POD，AI工厂交付迎来“集装箱化” - Moomoo",
-   "sentiment": 1
-  },
-  {
-   "id": "f9e0ed771fc6",
-   "title": "【英伟达柏林GTC黄......_7x24快讯_新浪财经 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Penh5TExIeDM4TGxXS2hMUWJCRTZqbmV3Q09sTFJCODNnU1pNMmVHYlFxaDdSbDJlaWItZW9TS2dCakJhWGhOZ1NtYw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-21T11:16:49+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-21T11:16:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Penh5TExIeDM4TGxXS2hMUWJCRTZqbmV3Q09sTFJCODNnU1pNMmVHYlFxaDdSbDJlaWItZW9TS2dCakJhWGhOZ1NtYw"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-21T11:37:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Penh5TExIeDM4TGxXS2hMUWJCRTZqbmV3Q09sTFJCODNnU1pNMmVHYlFxaDdSbDJlaWItZW9TS2dCakJhWGhOZ1NtYw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达柏林GTC相关快讯",
-   "title_zh": "【英伟达柏林GTC黄......_7x24快讯_新浪财经 - 手机新浪网",
-   "sentiment": 0
-  },
-  {
-   "id": "dae8433b6a9d",
-   "title": "英伟达涨幅扩大至2.2%_股市直击 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16UTBSRGlqT1JKOXhHZnlvWC1SWnJ1WWRHdFdFaWVyVVNtQzhyN1AxblhJcC0wcnVDc3dDSHZGcXd1VVJsb3lOWkVLS2d3ZHJPbHh2WVBhd05OV3JfUndUTnlB",
-   "source": "证券之星",
-   "published_at": "2026-10-21T11:16:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-21T11:16:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16UTBSRGlqT1JKOXhHZnlvWC1SWnJ1WWRHdFdFaWVyVVNtQzhyN1AxblhJcC0wcnVDc3dDSHZGcXd1VVJsb3lOWkVLS2d3ZHJPbHh2WVBhd05OV3JfUndUTnlB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达涨幅扩大至2.2%",
-   "title_zh": "英伟达涨幅扩大至2.2%_股市直击 - 证券之星",
-   "sentiment": 1
-  },
-  {
-   "id": "c4844be00292",
-   "title": "英伟达加速工业仿真 半导体模拟最高提速40倍 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2lyOFczOUdEZzhTOTVoTVVOaXlLR25WRTNVQ09Lc0VoaXFrX1k5SWRyd1ZaOHNQVndSMUw1azhHNkZRNkFpQzJEaWJkcHBGbkZMbldKbDloa05laHB0MXNzaTRiaHo0aVlROWJBQkpzUHBaTElTcUFTOVEtdkVJX2NjcG5GaUtOeFRQdC1OdUlaV1kwZDBiM2dpeVdlUndPUzVKQzNQRy00Nm9iWXRCR1MzZUFfVS1TanBsYg",
-   "source": "富途牛牛",
-   "published_at": "2026-10-21T11:15:14+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-21T11:15:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2lyOFczOUdEZzhTOTVoTVVOaXlLR25WRTNVQ09Lc0VoaXFrX1k5SWRyd1ZaOHNQVndSMUw1azhHNkZRNkFpQzJEaWJkcHBGbkZMbldKbDloa05laHB0MXNzaTRiaHo0aVlROWJBQkpzUHBaTElTcUFTOVEtdkVJX2NjcG5GaUtOeFRQdC1OdUlaV1kwZDBiM2dpeVdlUndPUzVKQzNQRy00Nm9iWXRCR1MzZUFfVS1TanBsYg"
-    },
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-21T23:28:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QdXZxODdaeUpjbGd3RXl3NnJxc29rb3FWZldsWTV2Nm9udmx0NmxsWkVQNWFaMXdSbGlBQmxjTHRkMzdQVkhoRVoxLTQtS0JHX2VmdkZtWjI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达加速工业仿真，半导体模拟最高提速40倍",
-   "title_zh": "英伟达加速工业仿真 半导体模拟最高提速40倍 - 富途牛牛",
-   "sentiment": 1
-  },
-  {
-   "id": "f2f1feaae7bd",
-   "title": "Rylo partners with Nvidia to train AI for sign language translation - CTech",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vMkpVaDVwZzN3c3g3WWs3TmQydExuT3RXZnhaanJ0SDJycFluMUwydUFNLVRXbGxCVXVONzNMY3FBbTRXc0RtN3F1cmpudmdneTZMYWdhZU1LSlRGZGdvQnduVkJfb2c",
-   "source": "CTech",
-   "published_at": "2026-10-21T11:15:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CTech",
-     "published_at": "2026-10-21T11:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vMkpVaDVwZzN3c3g3WWs3TmQydExuT3RXZnhaanJ0SDJycFluMUwydUFNLVRXbGxCVXVONzNMY3FBbTRXc0RtN3F1cmpudmdneTZMYWdhZU1LSlRGZGdvQnduVkJfb2c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Rylo与英伟达合作AI手语翻译",
-   "title_zh": "Rylo与英伟达合作训练AI手语翻译",
-   "sentiment": 1
-  },
-  {
-   "id": "fd60ee796169",
-   "title": "NVIDIA Unleashes Full Local AI Stack at GTC Berlin - The Tech Buzz",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWhYVFdJTWQwYzNwbVBmV3paVXVzZmVlUnUwSlUyTDhrQUt0cnpEbWNvVmlCNjNfQmx6bjdKQmNUQ3RhUDAtR0dkQlFhZ3JEV3B5OU9Eazc5T09Ob1czWnh2RE1ZNFY0eXZTekJlSkY4cEwybTBWUnhlcVFjNjVHTGJsbVVoTkxYZG9n",
-   "source": "The Tech Buzz",
-   "published_at": "2026-10-21T11:15:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Tech Buzz",
-     "published_at": "2026-10-21T11:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVWhYVFdJTWQwYzNwbVBmV3paVXVzZmVlUnUwSlUyTDhrQUt0cnpEbWNvVmlCNjNfQmx6bjdKQmNUQ3RhUDAtR0dkQlFhZ3JEV3B5OU9Eazc5T09Ob1czWnh2RE1ZNFY0eXZTekJlSkY4cEwybTBWUnhlcVFjNjVHTGJsbVVoTkxYZG9n"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达柏林GTC发布全套本地AI栈",
-   "title_zh": "英伟达柏林GTC发布全套本地AI技术栈",
    "sentiment": 1
   }
  ]
