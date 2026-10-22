@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T18:07:08.010516+00:00",
+ "updated_at": "2026-10-22T18:21:52.907813+00:00",
  "market": {
-  "price": 212.27,
-  "change_pct": -4.37,
+  "price": 212.92,
+  "change_pct": -4.08,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.64,
-   "count": 221
+   "count": 227
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +48.4%"
+     "note": "目标价中位数 $315（16家），隐含空间 +47.9%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.64（221条已评分）"
+     "note": "今日新闻情绪 +0.64（227条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $212.27 vs 20日均线 $226.25"
+     "note": "现价 $212.92 vs 20日均线 $226.28"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 64,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 48.4,
-   "ma20": 226.25,
-   "as_of": "2026-10-22T18:07:07.999195+00:00"
+   "implied_upside_pct": 47.9,
+   "ma20": 226.28,
+   "as_of": "2026-10-22T18:21:52.895968+00:00"
   },
-  "pe_ttm": 27.0,
+  "pe_ttm": 27.1,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "4a5386300869",
+   "title": "Aptiv expands Nvidia tie-up with air-cooled Thor platform - Automotive World",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlROMHF6QUx1UmdiemQ1LWhfLVJDUmpkTnhQUkgxWTF4d3ZjM1JMcUpHNThudWFuUE9ZTl9RNkV1M3pvbjJraDlmWEZWYjltb0x2M3pfT0JOT0FSLWFvUkgtSk1PLWFVU2dQYm9sN1B3ZlpPd0NxeWM4SkYyMkx5dlBvUlhNeF9RYnVndjRLX3BLMEFMZkJZMlY4OA",
+   "source": "Automotive World",
+   "published_at": "2026-10-22T18:11:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Automotive World",
+     "published_at": "2026-10-22T18:11:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlROMHF6QUx1UmdiemQ1LWhfLVJDUmpkTnhQUkgxWTF4d3ZjM1JMcUpHNThudWFuUE9ZTl9RNkV1M3pvbjJraDlmWEZWYjltb0x2M3pfT0JOT0FSLWFvUkgtSk1PLWFVU2dQYm9sN1B3ZlpPd0NxeWM4SkYyMkx5dlBvUlhNeF9RYnVndjRLX3BLMEFMZkJZMlY4OA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "9e580052fb69",
+   "title": "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWVFaTJIaGs0OVk3TE9SSWFtbXE5WlRwLU9WNUxxeW5rOXdlX0EyaVJHd2UtWUpjRW1kNUVxb1BZZVZGcDlmQ0xpMXI0MlJlYWJXY1h3YlZyZWxlY1ZtRFgzODF1OENET3dCM3FLQm5oaFRSZFhNOGR0QVVoUHRKNS1pMW1oSVdiTmh6UzVEUkZ4aklMaFF6Mg",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-22T18:08:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-22T18:08:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWVFaTJIaGs0OVk3TE9SSWFtbXE5WlRwLU9WNUxxeW5rOXdlX0EyaVJHd2UtWUpjRW1kNUVxb1BZZVZGcDlmQ0xpMXI0MlJlYWJXY1h3YlZyZWxlY1ZtRFgzODF1OENET3dCM3FLQm5oaFRSZFhNOGR0QVVoUHRKNS1pMW1oSVdiTmh6UzVEUkZ4aklMaFF6Mg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "02cce71e5cbb",
    "title": "BNP Paribas Delivers Bullish Message for Nvidia Stock Investors - GuruFocus",
@@ -82,6 +116,23 @@
    "sentiment": 1
   },
   {
+   "id": "1b3140504f2f",
+   "title": "SpaceX Is Working With Nvidia, Apollo And Other Top Tech And Consulting Firms On A Grok Partnership Program - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkY5cVBsQ0VRdEhfeTN2dXctTmFfaDNXS0phX2dvdUZwTnZlbDVBRFRuWUx2cllXUmhHTWhGN3p1ZnNfM3MwakVhTTUtVUkySE1RcC1Ld05uU2RKdFB3bmI2eURiNHJ1cDFyUE1YVmt3OWhIUk9lMEZ1RXQzX0JDSXEtQ1NGbXJkNk1ZZ091U1NVNXluMlVlRjBNYVItMG8",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-22T17:56:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-22T17:56:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkY5cVBsQ0VRdEhfeTN2dXctTmFfaDNXS0phX2dvdUZwTnZlbDVBRFRuWUx2cllXUmhHTWhGN3p1ZnNfM3MwakVhTTUtVUkySE1RcC1Ld05uU2RKdFB3bmI2eURiNHJ1cDFyUE1YVmt3OWhIUk9lMEZ1RXQzX0JDSXEtQ1NGbXJkNk1ZZ091U1NVNXluMlVlRjBNYVItMG8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "19f0ff699034",
    "title": "Nvidia’s Berlin GTC: Faster AI factories, lower power use and more secure agents - Network World",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVEV2eG92ZVFQSFNNOUdHMGJuUVdiZm1UZUJwcEYyZWh3UWdPdlplaWUwV3FSamdiWnprb2hocXFrb2lEMFJmLUpnbnlEcFhObnNtamZxQXpaYmlGV2I0TnlIX3RDdEtDdTJhT1h6RGpkZVIxSjFhUUVuMEJHek5wMHJ0Nkt1QVljVkdJMk1KTUVSenk5TDRkbGl1TnRVM0tXdUZDT0FrdVVYampLZThRRC1aX1RKSkVkZHl0YWxrSzZCRVViZ2c",
@@ -100,6 +151,23 @@
    "zh_summary": "柏林GTC：AI工厂提速功耗降低",
    "title_zh": "英伟达柏林GTC：更快的AI工厂、更低功耗与更安全的智能体",
    "sentiment": 1
+  },
+  {
+   "id": "41edb41ab590",
+   "title": "Nvidia, UW Institute for Protein Design Unveil Open-Source Protein Design AI Model - Genetic Engineering and Biotechnology News",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXJuT25OLTFUZmxiZ0VYZlBRZjVVekpVNWltWFpYV2FDRlkzSk5ud3JxVWRuVFRfMlpDMHlzQ0tUWWdoemszczBwYW1LQkRJYm1ZVmJUZktWWmNWSU1zeXZyblhvb3dkcm55V2NmTUdKYkJTamdVZFRmMWV6NHVkb0p3bjRhSHFQdlcxc0hRUnBpeXFFcHJJdjFQUGk3NkVkY3h2eFJuaVR3UjdQTVh3RThLMHFGZTN0aTNpWUtUbmc3M2g4VkpDTHhlZ3pqbTZZZGZfbjJFZw",
+   "source": "Genetic Engineering and Biotechnology News",
+   "published_at": "2026-10-22T17:48:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Genetic Engineering and Biotechnology News",
+     "published_at": "2026-10-22T17:48:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXJuT25OLTFUZmxiZ0VYZlBRZjVVekpVNWltWFpYV2FDRlkzSk5ud3JxVWRuVFRfMlpDMHlzQ0tUWWdoemszczBwYW1LQkRJYm1ZVmJUZktWWmNWSU1zeXZyblhvb3dkcm55V2NmTUdKYkJTamdVZFRmMWV6NHVkb0p3bjRhSHFQdlcxc0hRUnBpeXFFcHJJdjFQUGk3NkVkY3h2eFJuaVR3UjdQTVh3RThLMHFGZTN0aTNpWUtUbmc3M2g4VkpDTHhlZ3pqbTZZZGZfbjJFZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "daff53d7300d",
@@ -187,12 +255,17 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTNVTmJUcmZjdmpCZFMzdVZObFBqY1BIME4wLWtDUC1CMGFZZTRQaUd3aFBfZEFqUXNyLXFabThtQzUzdVFsbVg3VXlxZ2kxT3pQNWp1T2lHNV8tbThXM19YRkVIaWxjV3J5a2xlTUJTc1lUcnlXVDJYM2pvRElXR2tRbXVCbHhBWHAyTmx5TjBTMzNLenBGQQ",
    "source": "The Motley Fool",
    "published_at": "2026-10-22T17:21:54+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-22T17:21:54+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTNVTmJUcmZjdmpCZFMzdVZObFBqY1BIME4wLWtDUC1CMGFZZTRQaUd3aFBfZEFqUXNyLXFabThtQzUzdVFsbVg3VXlxZ2kxT3pQNWp1T2lHNV8tbThXM19YRkVIaWxjV3J5a2xlTUJTc1lUcnlXVDJYM2pvRElXR2tRbXVCbHhBWHAyTmx5TjBTMzNLenBGQQ"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-22T17:37:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV0Iwb21hemdZbUlUc2NpR20xYXgtMHFIY1JsbGNycVQ0Tzk4N2lHWE5id3FGU0c5MFRaYkUwd1B2aV9YSjBEZEJQOTlHN2t3SE9hbVlNZndpNHBETnh6Q0g4N3c3R2lkTi1KV1hJNU11VUduTFZsTWI4OTNCb0Vxb3QyUQ"
     }
    ],
    "category": "财报",
@@ -266,12 +339,12 @@
    "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage | NVIDIA Technical Blog - NVIDIA Developer",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWwwamE2RDg0SHJxZ0w3M3VPb1J3QzNaaWVVc0MwY3IwajQ1a2lQRVctUmI1Q25sRHZpTXhvVHZnLUpHdnVfdGpsODJrYW1ZQnIxU1BuUjdQSzVQaWxRVl9TblZaLTdVYzJpWW9JLVQ3WHBteW16MkNCZXY2X3BVVjdidzRoSkgwbmFFaXBwbkh3OVdEUjRlejhTSmNzZE96UVpJX0VsMUVoRmc",
    "source": "NVIDIA Developer",
-   "published_at": "2026-10-22T16:48:31+00:00",
+   "published_at": "2026-10-22T16:48:11+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "NVIDIA Developer",
-     "published_at": "2026-10-22T16:48:31+00:00",
+     "published_at": "2026-10-22T16:48:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWwwamE2RDg0SHJxZ0w3M3VPb1J3QzNaaWVVc0MwY3IwajQ1a2lQRVctUmI1Q25sRHZpTXhvVHZnLUpHdnVfdGpsODJrYW1ZQnIxU1BuUjdQSzVQaWxRVl9TblZaLTdVYzJpWW9JLVQ3WHBteW16MkNCZXY2X3BVVjdidzRoSkgwbmFFaXBwbkh3OVdEUjRlejhTSmNzZE96UVpJX0VsMUVoRmc"
     }
    ],
@@ -1817,6 +1890,23 @@
    "sentiment": 0
   },
   {
+   "id": "63817c06630f",
+   "title": "英伟达全球AI基础设施增长副总裁尼科·卡普雷兹：滑雪国手变身英伟达\"军师\"：黄仁勋女婿的5000亿美元算力局丨【商业人物档案】 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzdTT2dValVEWXA1dmVFUDhHQVVTZ1RvOUE2VVVCTHlXTTVBdURtaXRuOXJKMlVaRDVQMzFzZ183VjRacGFJUXhpTDczVVNyVW05MHZ6VVMzd3pIYUNGWjM2WFRRV19DVTd2aHBwWjRQLXJZOVk2dll0ejVvaHFHM0FwNHRrMEIz",
+   "source": "搜狐",
+   "published_at": "2026-10-22T12:03:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-22T12:03:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzdTT2dValVEWXA1dmVFUDhHQVVTZ1RvOUE2VVVCTHlXTTVBdURtaXRuOXJKMlVaRDVQMzFzZ183VjRacGFJUXhpTDczVVNyVW05MHZ6VVMzd3pIYUNGWjM2WFRRV19DVTd2aHBwWjRQLXJZOVk2dll0ejVvaHFHM0FwNHRrMEIz"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
    "id": "560768018227",
    "title": "Zadara Achieves NVIDIA AI Cloud Ready Validation and Will Showcase its AI-Optimized Platform at NVIDIA GTC Berlin 2026 - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc2NaTGpjdzYtNUdUeTlWWVVfZUVlQ0lSVEd3V3BFdXotYktCMGs0QnlQTlk1OXA0WE5vcGhXRVJJamxnNU4tcVJZSGJoSVJxb3QzSjVIUHBNNVpRcUZLOWhZamhqQ0l5a0REeWRjWGFBbE0yWkt3OXpyd2NUazhoc3QteTZ2Z3U5RXRnWU5HLWNHVTU4UExlM0h0cw",
@@ -1980,6 +2070,23 @@
    "zh_summary": "三星电机联手英伟达共建FC-BGA产线",
    "title_zh": "三星电机与特斯拉、英伟达共建FC-BGA产线 合计出资3.7万亿韩元 - 观点网",
    "sentiment": 1
+  },
+  {
+   "id": "85c8e3104d7e",
+   "title": "With Attractive Valuations and Robust Growth, Nvidia Stock Is Positioned to Create Value - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOVZ6MU5vajRCV3U4N3pTWlRjMzZaQkxMdGVXNDZyTEVvRjRFcnBSOG42VE5QbUdWS09DcGZFd2FzQnA1cVNJOTBsc1Q0eUZrQzIzZEp2emlmb1Mxd3VPcmtCeEl0ZnA1a1c3VDBtazVEU2dJcG5OanZTYnYtMk9aaXhsRGExOEtZa2s0eHdISXI2TmlEY3NBRGZPeVMzUkpyVUR1eW54dm10R1k",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-22T11:49:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-22T11:49:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOVZ6MU5vajRCV3U4N3pTWlRjMzZaQkxMdGVXNDZyTEVvRjRFcnBSOG42VE5QbUdWS09DcGZFd2FzQnA1cVNJOTBsc1Q0eUZrQzIzZEp2emlmb1Mxd3VPcmtCeEl0ZnA1a1c3VDBtazVEU2dJcG5OanZTYnYtMk9aaXhsRGExOEtZa2s0eHdISXI2TmlEY3NBRGZPeVMzUkpyVUR1eW54dm10R1k"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "4baa7a3e766c",
@@ -6268,126 +6375,6 @@
    "zh_summary": "绿色和平在GTC柏林抗议，机器人演示出状况",
    "title_zh": "英伟达GTC柏林演讲：绿色和平抗议，黄仁勋回应后机器人演示失灵",
    "sentiment": 0
-  },
-  {
-   "id": "863c3838ea64",
-   "title": "HPE Stocks Rise 3.2% as Nvidia Agentic AI Stack Expands - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQME8xTXB1WXY4TjlzOGl5aWRCbkVuY1pfWlpwazlvMVFmYkxGdGZsTzVfeFF5YnotQzE0a000TWNUbFVNMWJYRmo3bGRrZ09BNzZyVVVnZHlRZVpCbGZTNEYtcF9UUFJVd1A5eFB0bXlEM0VBM21ucmg5eGt3bFA0WlF2blpLVzdtUVJB",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-21T22:23:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T22:23:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQME8xTXB1WXY4TjlzOGl5aWRCbkVuY1pfWlpwazlvMVFmYkxGdGZsTzVfeFF5YnotQzE0a000TWNUbFVNMWJYRmo3bGRrZ09BNzZyVVVnZHlRZVpCbGZTNEYtcF9UUFJVd1A5eFB0bXlEM0VBM21ucmg5eGt3bFA0WlF2blpLVzdtUVJB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "HPE股价上涨3.2%",
-   "title_zh": "HPE股价上涨3.2%，因英伟达代理式AI堆栈扩张",
-   "sentiment": 1
-  },
-  {
-   "id": "4b5390ab7c68",
-   "title": "英伟达被传敲定RTX5090/5080停产计划时间定在2027年1月|RTX 5090|RTX 5080|感恩节|显存|芯片_手机新浪网 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRl8wM293WDVWZU9maENUZVdoZUJnV3F2WnNIdXE3S3dnV19nSVVhcTVpSnlSTXZVeHcwaHU4ZkU1N3QyczE2eTA1WTN5bVJFTGczWUxhTFplQkJEUXI0NERBam5neDlZZ3FtTm1XNzJxdFp2ZlBCV29qUnREX18wRXlhNEt0cjdIVnduV2hRaF9WUjluXzV5dHktYkZNSlYzWDAxdWdwWQ",
-   "source": "新浪网",
-   "published_at": "2026-10-21T22:15:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-21T22:15:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRl8wM293WDVWZU9maENUZVdoZUJnV3F2WnNIdXE3S3dnV19nSVVhcTVpSnlSTXZVeHcwaHU4ZkU1N3QyczE2eTA1WTN5bVJFTGczWUxhTFplQkJEUXI0NERBam5neDlZZ3FtTm1XNzJxdFp2ZlBCV29qUnREX18wRXlhNEt0cjdIVnduV2hRaF9WUjluXzV5dHktYkZNSlYzWDAxdWdwWQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "传RTX 5090/5080将于2027年1月停产",
-   "title_zh": "传英伟达敲定RTX 5090/5080停产计划，时间为2027年1月",
-   "sentiment": 0
-  },
-  {
-   "id": "108cd322ae41",
-   "title": "美股讯号 | 英伟达股价上涨2.54%，科技股普遍走强 ｜#美股资讯# #英伟达# #股价波动# - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjNVeFctSEQyMXlqb0YzOWJyaG5nQmRLVmZLREdtT19zdUdTbFQ4N00wM3lNSkdPOUZCZ3V4NEFFSGNQSU5XUkVzb0QzRlhFYzBxbUJYQkQ5bGItYmtTLTZSakQza0VTYnlTaFNhVVU3YXBXSi1xYnBwZG1ESGM4N2hYT2YyYUVldnF5ag",
-   "source": "搜狐",
-   "published_at": "2026-10-21T22:09:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-21T22:09:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjNVeFctSEQyMXlqb0YzOWJyaG5nQmRLVmZLREdtT19zdUdTbFQ4N00wM3lNSkdPOUZCZ3V4NEFFSGNQSU5XUkVzb0QzRlhFYzBxbUJYQkQ5bGItYmtTLTZSakQza0VTYnlTaFNhVVU3YXBXSi1xYnBwZG1ESGM4N2hYT2YyYUVldnF5ag"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达股价上涨2.54%",
-   "title_zh": "英伟达股价上涨2.54%，科技股普遍走强",
-   "sentiment": 1
-  },
-  {
-   "id": "c23e38a3f95d",
-   "title": "亚马逊据悉提前接收英伟达AI服务器机架 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nRmVNRlJ5ZktObTRHbExNX2VCQmhBb2YyalhZRVVTdXhlVXdhSk80SmYtbmdMYnVTbWRoMjVlRE5WN2tYVjRLSGRLVGhUNVM5WjYzelpzNEViSTlqNldxUFBqZw",
-   "source": "东方财富",
-   "published_at": "2026-10-21T21:50:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T21:50:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nRmVNRlJ5ZktObTRHbExNX2VCQmhBb2YyalhZRVVTdXhlVXdhSk80SmYtbmdMYnVTbWRoMjVlRE5WN2tYVjRLSGRLVGhUNVM5WjYzelpzNEViSTlqNldxUFBqZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "亚马逊据悉提前接收英伟达AI服务器机架",
-   "title_zh": "亚马逊据悉提前接收英伟达AI服务器机架",
-   "sentiment": 1
-  },
-  {
-   "id": "efb5fe4da761",
-   "title": "Nvidia Sees Opportunity In Helping Europe Create AI, Not Just Use It - Forbes",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHYzU3R0bVlkZm9ObU03Rm9XVzBDaV9pNkEtdTFWYjhHMGZUNE1lZ1hWUk8zZk9qX2otdVhhSjVpYmo4WmFxYTBDTjBXemMzOTI4M1ZHSWZvcFJiNDg1cXE3dWdiRm5meDBZSndONm1WQjFYejNRblNjdWVCLWs4TXhHQ0N2Ukc4VXZBX1ZZaExRa0lKY3dIVGpMSW5SeGotNldQMWthNHcwMmE5T1NPR28xa3hwRzZITm13",
-   "source": "Forbes",
-   "published_at": "2026-10-21T21:44:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Forbes",
-     "published_at": "2026-10-21T21:44:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHYzU3R0bVlkZm9ObU03Rm9XVzBDaV9pNkEtdTFWYjhHMGZUNE1lZ1hWUk8zZk9qX2otdVhhSjVpYmo4WmFxYTBDTjBXemMzOTI4M1ZHSWZvcFJiNDg1cXE3dWdiRm5meDBZSndONm1WQjFYejNRblNjdWVCLWs4TXhHQ0N2Ukc4VXZBX1ZZaExRa0lKY3dIVGpMSW5SeGotNldQMWthNHcwMmE5T1NPR28xa3hwRzZITm13"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达看好助欧洲打造自主AI基础设施",
-   "title_zh": "英伟达：帮助欧洲创造AI而非只是使用AI",
-   "sentiment": 1
-  },
-  {
-   "id": "517046279733",
-   "title": "Nvidia Targets AI's Biggest Bottlenecks With New Deals - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkh0cWdpYzlpZ0RLeWhSY3N2MU80NFVnODQ5VDQ0d05IdW5HQlZ6MGhxc0RhN3B6ZmVTdFBxUUNjdkdOa19RR09qUUktRW55dVVFaUFoVlZ2SHVPVDFBTTlVODNEeW5HbXhqOHJWdHZCQlE0WjZYSEhwWno1Y0tPUnNFby10Q2pDRUVnakpYekp1NEJMVjcyRTR0Q0dCZ21XN0lyUg",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-21T21:38:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T21:38:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkh0cWdpYzlpZ0RLeWhSY3N2MU80NFVnODQ5VDQ0d05IdW5HQlZ6MGhxc0RhN3B6ZmVTdFBxUUNjdkdOa19RR09qUUktRW55dVVFaUFoVlZ2SHVPVDFBTTlVODNEeW5HbXhqOHJWdHZCQlE0WjZYSEhwWno1Y0tPUnNFby10Q2pDRUVnakpYekp1NEJMVjcyRTR0Q0dCZ21XN0lyUg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达签署新协议解决AI算力瓶颈",
-   "title_zh": "英伟达签署新协议，解决AI最大瓶颈",
-   "sentiment": 1
   }
  ]
 }
