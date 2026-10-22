@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T02:21:32.176497+00:00",
+ "updated_at": "2026-10-22T02:36:33.366608+00:00",
  "market": {
   "price": 221.97,
   "change_pct": 2.54,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.85,
-   "count": 299
+   "count": 295
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.85（299条已评分）"
+     "note": "今日新闻情绪 +0.85（295条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 41.9,
    "ma20": 226.87,
-   "as_of": "2026-10-22T02:21:32.158891+00:00"
+   "as_of": "2026-10-22T02:36:33.349015+00:00"
   },
   "pe_ttm": 28.2,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "ff4dc547ccce",
+   "title": "单机33450元！英伟达DGX Spark支持8路集群：RTX PRO 6000推理性能提升40% - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yTVpqUTlXc2VPd05kWFFfTXprR2pFZUhLNE9zclZZdWdOZEZqUnJHYWlxam91MzJrRzl2dkVmdFNHZFptVFF1UWk1M3VuaGNoVWVTZEhNVzI",
+   "source": "驱动之家",
+   "published_at": "2026-10-22T02:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-22T02:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yTVpqUTlXc2VPd05kWFFfTXprR2pFZUhLNE9zclZZdWdOZEZqUnJHYWlxam91MzJrRzl2dkVmdFNHZFptVFF1UWk1M3VuaGNoVWVTZEhNVzI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "0290d9e2722c",
    "title": "$英伟达 (NVDA.US)$ - Moomoo",
@@ -182,17 +199,39 @@
    "sentiment": 2
   },
   {
+   "id": "410fd35040d5",
+   "title": "英伟达杀入，CPU四强争霸 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVB6VDgzM3Y3UTQ4QUhaM0VLYUNCUWZ1TFFMNUprREZiV0FOSkZDWHlRcUFYMkl0REUyXzloU2RfRlJpMGJVaTQwVy10QUFZcWp6TUJIemJOYjBaWVZWa21LblBJMGVDVlF5b3RxN3UxOHdyWklGenJVUTB5ZGhna2pGOGNDY01BeDhEcw",
+   "source": "搜狐",
+   "published_at": "2026-10-22T01:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-22T01:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVB6VDgzM3Y3UTQ4QUhaM0VLYUNCUWZ1TFFMNUprREZiV0FOSkZDWHlRcUFYMkl0REUyXzloU2RfRlJpMGJVaTQwVy10QUFZcWp6TUJIemJOYjBaWVZWa21LblBJMGVDVlF5b3RxN3UxOHdyWklGenJVUTB5ZGhna2pGOGNDY01BeDhEcw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "105e516bb471",
    "title": "西门子医疗与英伟达官宣合作：用AI推进癌症诊疗，开发下一代自适应放疗 - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHltbU5xaTh5ckV1eHBkd29DNkk5TTFva0JoZ21kYjB3ZGRrZGVjQTVRWElmcVFzVmVzb1J6QVM1Q0RMUGpSYlRZWExERlVqMVU0UEFPdHNnRWlxQTRUbTZzUndBaDVfR3owS25rWmU2T1FMc1RvTzdhLXlsWkdGcC1YanlzbEdh",
    "source": "搜狐",
    "published_at": "2026-10-22T01:28:20+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-22T01:28:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHltbU5xaTh5ckV1eHBkd29DNkk5TTFva0JoZ21kYjB3ZGRrZGVjQTVRWElmcVFzVmVzb1J6QVM1Q0RMUGpSYlRZWExERlVqMVU0UEFPdHNnRWlxQTRUbTZzUndBaDVfR3owS25rWmU2T1FMc1RvTzdhLXlsWkdGcC1YanlzbEdh"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-22T01:39:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xeS0zdHNXdi1yTDFROUx6anRKdVlqVnZqdklaMlotcC1rVU8yZ05WOUR6YXZISTdHWUNfMkkzQnhUbFlYNTRTdENhYjQ"
     }
    ],
    "category": "其他",
@@ -200,6 +239,23 @@
    "zh_summary": "英伟达与西门子医疗合作推进AI医疗",
    "title_zh": "西门子医疗与英伟达官宣合作：用AI推进癌症诊疗，开发下一代自适应放疗 - 搜狐",
    "sentiment": 1
+  },
+  {
+   "id": "5236144af4ac",
+   "title": "韩媒：英伟达下一代Groq芯片拟弃用SRAM方案，采用3D堆叠DRAM - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5c3ZkWVBZSUZKcHRSRTBya1k2Q1BKS2hjaUVyVVo5dE1WZHBlc0Rrd09LSk5KUjVscWh2NWQ4Y2xURjY5U3FGU0hobXNuZ2QyZ213cUV1MklWanBD",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-22T01:24:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-22T01:24:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5c3ZkWVBZSUZKcHRSRTBya1k2Q1BKS2hjaUVyVVo5dE1WZHBlc0Rrd09LSk5KUjVscWh2NWQ4Y2xURjY5U3FGU0hobXNuZ2QyZ213cUV1MklWanBD"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "fc6ff481525d",
@@ -450,6 +506,23 @@
    "zh_summary": "国家队三季报持仓披露，英伟达发布新品",
    "title_zh": "英伟达新品发布，国家队三季报持仓披露",
    "sentiment": 0
+  },
+  {
+   "id": "396520652df9",
+   "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw",
+   "source": "财联社",
+   "published_at": "2026-10-21T23:58:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-21T23:58:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "5e19a12ab997",
@@ -5904,6 +5977,23 @@
    "sentiment": 1
   },
   {
+   "id": "2fd9752f1619",
+   "title": "英伟达黄仁勋：人工智能正在推动人类历史上规模最为庞大的基础设施建设 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QbWNpcklvbUk4aVdwdTFQVXVmWDRFMkZiaDBDXzRFLWFQaXBkbkxMVTJiVUIzYmZpemhLcjNmT1V5OUJabURRTHRHaGdyaXRCUENRMFdmcnVxdEk5all3N0dSV0o",
+   "source": "东方财富",
+   "published_at": "2026-10-21T11:16:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-21T11:16:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QbWNpcklvbUk4aVdwdTFQVXVmWDRFMkZiaDBDXzRFLWFQaXBkbkxMVTJiVUIzYmZpemhLcjNmT1V5OUJabURRTHRHaGdyaXRCUENRMFdmcnVxdEk5all3N0dSV0o"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "f9e0ed771fc6",
    "title": "【英伟达柏林GTC黄......_7x24快讯_新浪财经 - 手机新浪网",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Penh5TExIeDM4TGxXS2hMUWJCRTZqbmV3Q09sTFJCODNnU1pNMmVHYlFxaDdSbDJlaWItZW9TS2dCakJhWGhOZ1NtYw",
@@ -6385,106 +6475,6 @@
    "session": "盘前",
    "zh_summary": "英伟达发布DSX POD模块化AI工厂",
    "title_zh": "英伟达发布DSX POD，打造模块化预集成AI工厂",
-   "sentiment": 1
-  },
-  {
-   "id": "cae9e2b63d98",
-   "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XMkp6X2x5bTBRenQzSVdkNFE2MVI4ZXVQdnc0Rl9mNGlrakI3QWN2UG1yRWlhMVduN2pzeFMya1ZIV3V2dGdiNTdqMjV0TkVQeEpXTFlWdDVFeFppVjZpaURFU096dGtLV200UnRlbWRBdy1hUnc2UjZR",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-21T10:58:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-21T10:58:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XMkp6X2x5bTBRenQzSVdkNFE2MVI4ZXVQdnc0Rl9mNGlrakI3QWN2UG1yRWlhMVduN2pzeFMya1ZIV3V2dGdiNTdqMjV0TkVQeEpXTFlWdDVFeFppVjZpaURFU096dGtLV200UnRlbWRBdy1hUnc2UjZR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达博客：本地智能驱动欧洲下一代智能体",
-   "title_zh": "把火花带到欧洲：本地智能驱动下一代智能体浪潮",
-   "sentiment": 0
-  },
-  {
-   "id": "93066959ae3c",
-   "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3NuM3YxY3FoZy0ybUxEdmlzUEg4akFCZkFCcmt1bUozNURTS2lrWG9veEJNdW90WU5jZWVVNGtEd0hJOUNlLXpQbU5kQVpIaW5ORkEwVWFUaTFWbkJMXzdramlXNnhYQlhSbE13UTlWMm9rQzBydlRwTXcwYm52VjFqU2hWYm1tbVp2ZURoRWZnekNp",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-21T10:58:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-21T10:58:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3NuM3YxY3FoZy0ybUxEdmlzUEg4akFCZkFCcmt1bUozNURTS2lrWG9veEJNdW90WU5jZWVVNGtEd0hJOUNlLXpQbU5kQVpIaW5ORkEwVWFUaTFWbkJMXzdramlXNnhYQlhSbE13UTlWMm9rQzBydlRwTXcwYm52VjFqU2hWYm1tbVp2ZURoRWZnekNp"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达cuDSS正式可用，加速工程仿真",
-   "title_zh": "英伟达cuDSS正式可用，加速工程与科学仿真",
-   "sentiment": 1
-  },
-  {
-   "id": "a2b946501ebf",
-   "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FYUwwTU5lNXFTZEhQQUxtWnNRdGRFTGpnRGg1Q1lLSm9BU2R0U3dKMXJDUDZRMWJ3MElyWUtBMHNJZWY2QS12WGwzRGVScXZXb2RIalFyQmNCN2pPcV9NU01CUjZHdG9GcnA1bURLLUwyc1MyMzVESDdMUQ",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-21T10:58:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-21T10:58:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FYUwwTU5lNXFTZEhQQUxtWnNRdGRFTGpnRGg1Q1lLSm9BU2R0U3dKMXJDUDZRMWJ3MElyWUtBMHNJZWY2QS12WGwzRGVScXZXb2RIalFyQmNCN2pPcV9NU01CUjZHdG9GcnA1bURLLUwyc1MyMzVESDdMUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "欧洲采用英伟达Vera CPU建算力基础设施",
-   "title_zh": "欧洲领导者采用NVIDIA Vera CPU建设本土基础设施",
-   "sentiment": 1
-  },
-  {
-   "id": "2b8a7b6f33cc",
-   "title": "英伟达联手诺基亚推进AI-RAN，T-Mobile完成全球首次商用网络通话 - 凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwRW5PdnMxcDQteFAyYmJ5ZDhLNENqWm82c3hiZnZrWXgtN09Fb2hQVG04cFM2c3o2UXE1QVJZUjY2MTdvZURYLUFQX2VubTRnR0E",
-   "source": "凤凰网",
-   "published_at": "2026-10-21T10:58:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-21T10:58:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwRW5PdnMxcDQteFAyYmJ5ZDhLNENqWm82c3hiZnZrWXgtN09Fb2hQVG04cFM2c3o2UXE1QVJZUjY2MTdvZURYLUFQX2VubTRnR0E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达联手诺基亚推进AI-RAN",
-   "title_zh": "英伟达联手诺基亚推进AI-RAN，T-Mobile完成全球首次商用网络通话",
-   "sentiment": 1
-  },
-  {
-   "id": "706437b65b21",
-   "title": "英伟达：未来三年 拟将旗下产品封装基板产能提升至2.5倍 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWhEQmRIUENHSFhHRDFHNmFvNWNCLWpibEJuRm9oOVd4ampGVTJzNTZtTUFmd1Uyc21Nb3hQRjR3YzkzNVZVVWltVzFMWGxNbnpjX1p1S1ViNFNjS1ZnbUVPeWwtY1JQaXhlSm04bUMydlktLUJTRVNlMG5NemJYZXRMR2FkZ3JCdlh4UVhTclc5QUNYMHFZTENNNWc",
-   "source": "新浪财经",
-   "published_at": "2026-10-21T10:58:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-21T10:58:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWhEQmRIUENHSFhHRDFHNmFvNWNCLWpibEJuRm9oOVd4ampGVTJzNTZtTUFmd1Uyc21Nb3hQRjR3YzkzNVZVVWltVzFMWGxNbnpjX1p1S1ViNFNjS1ZnbUVPeWwtY1JQaXhlSm04bUMydlktLUJTRVNlMG5NemJYZXRMR2FkZ3JCdlh4UVhTclc5QUNYMHFZTENNNWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达未来三年封装基板产能拟提升至2.5倍",
-   "title_zh": "英伟达：未来三年 拟将旗下产品封装基板产能提升至2.5倍 - 新浪财经",
    "sentiment": 1
   }
  ]
