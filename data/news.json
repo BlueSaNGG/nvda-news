@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T18:36:34.380143+00:00",
+ "updated_at": "2026-10-22T18:51:33.687584+00:00",
  "market": {
-  "price": 212.48,
-  "change_pct": -4.28,
+  "price": 212.26,
+  "change_pct": -4.38,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 26
   },
   "day_sentiment": {
-   "avg": 0.64,
-   "count": 233
+   "avg": 0.65,
+   "count": 234
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +48.2%"
+     "note": "目标价中位数 $315（16家），隐含空间 +48.4%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.64（233条已评分）"
+     "note": "今日新闻情绪 +0.65（234条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $212.48 vs 20日均线 $226.26"
+     "note": "现价 $212.26 vs 20日均线 $226.25"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 64,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 48.2,
-   "ma20": 226.26,
-   "as_of": "2026-10-22T18:36:34.361900+00:00"
+   "implied_upside_pct": 48.4,
+   "ma20": 226.25,
+   "as_of": "2026-10-22T18:51:33.665645+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -102,17 +102,39 @@
    "sentiment": 1
   },
   {
+   "id": "ef0c85f11d9b",
+   "title": "NVIDIA (NVDA) Launched OpenShell For Secure Enterprise AI Agents - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLVNHYUEyV1FGaExNaEpkNktYTGlDdG1FZ1Z3ZjVaT09uWTNIbThzelFFcVRTM056bU16emNEY0hMb1N2aGpfYXBJckhnVXZXQnF4VFNENDV1NHJfV0F3ejk5RjNkcDZ6TjNscEI1VXZHeDNHZVM5eXc0SmJIS3NjUDFMMFlGX0lmX0VxRXRHN1luNXUybUQ2UXNvTFJ0TjJFSjBz",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-22T18:10:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-22T18:10:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLVNHYUEyV1FGaExNaEpkNktYTGlDdG1FZ1Z3ZjVaT09uWTNIbThzelFFcVRTM056bU16emNEY0hMb1N2aGpfYXBJckhnVXZXQnF4VFNENDV1NHJfV0F3ejk5RjNkcDZ6TjNscEI1VXZHeDNHZVM5eXc0SmJIS3NjUDFMMFlGX0lmX0VxRXRHN1luNXUybUQ2UXNvTFJ0TjJFSjBz"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "9e580052fb69",
    "title": "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWVFaTJIaGs0OVk3TE9SSWFtbXE5WlRwLU9WNUxxeW5rOXdlX0EyaVJHd2UtWUpjRW1kNUVxb1BZZVZGcDlmQ0xpMXI0MlJlYWJXY1h3YlZyZWxlY1ZtRFgzODF1OENET3dCM3FLQm5oaFRSZFhNOGR0QVVoUHRKNS1pMW1oSVdiTmh6UzVEUkZ4aklMaFF6Mg",
    "source": "The Motley Fool",
    "published_at": "2026-10-22T18:08:36+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-22T18:08:36+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWVFaTJIaGs0OVk3TE9SSWFtbXE5WlRwLU9WNUxxeW5rOXdlX0EyaVJHd2UtWUpjRW1kNUVxb1BZZVZGcDlmQ0xpMXI0MlJlYWJXY1h3YlZyZWxlY1ZtRFgzODF1OENET3dCM3FLQm5oaFRSZFhNOGR0QVVoUHRKNS1pMW1oSVdiTmh6UzVEUkZ4aklMaFF6Mg"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-22T18:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOWdQejdyckJGOE45aGRad1Rfekc2TDdOaEdFTThuWDE2VV9xTjZ1cjBLTkxPUDBsTXdWTGNKSFItc29Fc0ZmTWYtLXBlSHYtcUc4ZzNWU0tkOWJnNjdzaHJMOFMzUkdCTTNsbi1jejMtWXJBenZUZi16RXpjQmJGbGtWeFFmQzg5dEdySlBR"
     }
    ],
    "category": "其他",
@@ -127,12 +149,17 @@
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmRxVXM0OWU5bnBvRHo2b2U2bjBpUWcwWHQxMmR2MHVQeUJ5WDdFOGFxeU1DNWdFUTJEemNEeExNd09YN2VYZ0hvSGdFWXBrN3JpTzQwX2t2RmNBaTc5RVlQbGV0eXY2SlJwMzVGWlhFVnF2eFE0SkpTWUdFYTN1dXdjaVFVVkNYcEo1czZMbHg3VFFWa0dlYzBHMjJWUkF6VHBJSg",
    "source": "GuruFocus",
    "published_at": "2026-10-22T18:00:53+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "GuruFocus",
      "published_at": "2026-10-22T18:00:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmRxVXM0OWU5bnBvRHo2b2U2bjBpUWcwWHQxMmR2MHVQeUJ5WDdFOGFxeU1DNWdFUTJEemNEeExNd09YN2VYZ0hvSGdFWXBrN3JpTzQwX2t2RmNBaTc5RVlQbGV0eXY2SlJwMzVGWlhFVnF2eFE0SkpTWUdFYTN1dXdjaVFVVkNYcEo1czZMbHg3VFFWa0dlYzBHMjJWUkF6VHBJSg"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-22T18:34:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT19tUFo4NEN5NjNvY2FhNHdoRnNFQjZrNlA4cXMzaWl2Tm9lUWZJVjFwX0J2aGVyNXh0dG9KRmc2RDBYU1NCMW9oQWZBcTFEY2tPTVJqNFliZUxwbW16WWNCYVM0ZVk4MXc3eHBlR3puODZPd01wejdWazhEa1RJdndRNmxEcFR2ZGh1V2xhRUcwdVh3SEs3ZUFtcENwTXBRZkp4dVBrU3BSVi1iaC1fVGhKQnduY09ORC1Yd0p3Z0U"
     }
    ],
    "category": "其他",
@@ -670,6 +697,23 @@
    "zh_summary": "大摩重申英伟达首选股，看好2027增长",
    "title_zh": "英伟达GTC柏林释放2027增长信号，大摩重申首选股",
    "sentiment": 1
+  },
+  {
+   "id": "609a0ecd9f43",
+   "title": "Google and AWS open new paths for PyTorch beyond Nvidia - The New Stack",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBweEM4eFpjYTgxNDdMY3FQajNWTENLWElkREN1RlFJTjFMcEpNUHdpY2dLRUZRVlVqU3FMdlRNRmk3bmJ0WTlGbEdMSEpMUGlQV2g0Q3JMaE8zWlhGU2tGRVdiV2M",
+   "source": "The New Stack",
+   "published_at": "2026-10-22T15:28:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The New Stack",
+     "published_at": "2026-10-22T15:28:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBweEM4eFpjYTgxNDdMY3FQajNWTENLWElkREN1RlFJTjFMcEpNUHdpY2dLRUZRVlVqU3FMdlRNRmk3bmJ0WTlGbEdMSEpMUGlQV2g0Q3JMaE8zWlhGU2tGRVdiV2M"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "c86c6644de3c",
@@ -4826,26 +4870,6 @@
    "sentiment": 1
   },
   {
-   "id": "cbdbdcd4579e",
-   "title": "英伟达CEO黄仁勋：欧洲要想吃AI红利，全行业都该拥抱AI 大胆行动才是关键 - 中华军事",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMNHFtb3JEM09RcWFEaWJsYWZyQkU3TkhhYUpXQmpnaUowcE9sWEpHam8xRDZ6NnBiMzZadkpycEg0eVEydlE0Ym93OTF2MExpRDd5Q2QtS090WU9XbXV1b2gzS2FYUTFpclRUZC14Smg",
-   "source": "中华军事",
-   "published_at": "2026-10-22T05:35:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中华军事",
-     "published_at": "2026-10-22T05:35:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMNHFtb3JEM09RcWFEaWJsYWZyQkU3TkhhYUpXQmpnaUowcE9sWEpHam8xRDZ6NnBiMzZadkpycEg0eVEydlE0Ym93OTF2MExpRDd5Q2QtS090WU9XbXV1b2gzS2FYUTFpclRUZC14Smg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋：欧洲应全面拥抱AI",
-   "title_zh": "黄仁勋：欧洲想吃AI红利应全面拥抱AI",
-   "sentiment": 0
-  },
-  {
    "id": "9f574cd365e3",
    "title": "英伟达黄仁勋柏林GTC演讲：AI经济是五层蛋糕 - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdUQ2S2xQendoSDNhUmR1Y01mTjJYdm54Ty1VOEZuckdubUM1cFNfa3BKUTNkcFEwcG9BUVlOek1vT3Z5UFduOUxGZGUtME5VS2t5THNmbW53bTVab3o1WE5MdzhuYy1kUFJuc2tseW85SDhzRjBYRkxjMEN0VVZ6S3FzVkxfelVX",
@@ -6372,26 +6396,6 @@
    "session": "盘后",
    "zh_summary": "英伟达GTC柏林拥抱欧洲主权",
    "title_zh": "英伟达在GTC柏林拥抱欧洲主权",
-   "sentiment": 1
-  },
-  {
-   "id": "81ce29476026",
-   "title": "Nvidia debuts new AI reference architectures, development tools - SiliconANGLE",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTEyTGRjeVJPTERNbmxxUThNS2V3bTY0NzFhN3A1V0JGQ2NrSDRueXlDa1V6M3JDb1UyRVdYMWFzaHpNNW5zbHJGN0VSTTZmRjYzVFNKNGdaYzVrWUE4M2d3RHZQeTVqamx0MlRfcUotV1JqNTkybExfeXRmdXpxZlo3bHlnNzMyaHAzZ1k0bWdpMFFob1dqRWVrMjlJZXVW",
-   "source": "SiliconANGLE",
-   "published_at": "2026-10-21T22:36:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "SiliconANGLE",
-     "published_at": "2026-10-21T22:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTEyTGRjeVJPTERNbmxxUThNS2V3bTY0NzFhN3A1V0JGQ2NrSDRueXlDa1V6M3JDb1UyRVdYMWFzaHpNNW5zbHJGN0VSTTZmRjYzVFNKNGdaYzVrWUE4M2d3RHZQeTVqamx0MlRfcUotV1JqNTkybExfeXRmdXpxZlo3bHlnNzMyaHAzZ1k0bWdpMFFob1dqRWVrMjlJZXVW"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达发布新AI参考架构和开发工具",
-   "title_zh": "英伟达发布全新AI参考架构和开发工具",
    "sentiment": 1
   }
  ]
