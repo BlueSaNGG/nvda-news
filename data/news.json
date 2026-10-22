@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T16:53:06.748741+00:00",
+ "updated_at": "2026-10-22T17:07:13.302928+00:00",
  "market": {
-  "price": 212.51,
-  "change_pct": -4.26,
+  "price": 212.45,
+  "change_pct": -4.29,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.69,
-   "count": 201
+   "count": 204
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +48.2%"
+     "note": "目标价中位数 $315（16家），隐含空间 +48.3%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.69（201条已评分）"
+     "note": "今日新闻情绪 +0.69（204条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $212.51 vs 20日均线 $226.26"
+     "note": "现价 $212.45 vs 20日均线 $226.26"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 64,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 48.2,
+   "implied_upside_pct": 48.3,
    "ma20": 226.26,
-   "as_of": "2026-10-22T16:53:06.737978+00:00"
+   "as_of": "2026-10-22T17:07:13.285986+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,91 @@
   }
  },
  "stories": [
+  {
+   "id": "53468d48c07b",
+   "title": "特斯拉、英伟达联手锁定产能，三星电机扩产高端封装基板 - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45ZmZKTlJGZjRoX2ZhVXFSUy1Ja3JNbmljYmxyVF9UQ3RYZnI3QUgyM09uelMtN0NkaWZKMWV6cEVvWWZoS2hKYmU0dEc1cEpzanRN",
+   "source": "华尔街见闻",
+   "published_at": "2026-10-22T17:03:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-22T17:03:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45ZmZKTlJGZjRoX2ZhVXFSUy1Ja3JNbmljYmxyVF9UQ3RYZnI3QUgyM09uelMtN0NkaWZKMWV6cEVvWWZoS2hKYmU0dEc1cEpzanRN"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "5287a3f3d38b",
+   "title": "Schneider Electric, Nvidia and HPE bring AI agents to the plant edge - Putman Media",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVVZuNUE2dlB5MkJGTmlTOWY1b3pHSWVmcGpxd3B2VWdlNEM5SGF2OVota19sVmRQS0VBUVNoQkhEZVVkQlFEeXRSOG9XR2JiWUVMNHNVeHVTLWhfNnZBRXA4Ym1SQU1wUkc4MHJOTnlrZmItR0dESU5pNkRnQW5DSUtaRzkxaEQxaGJ6djVqek5fSWxqVEx1ajUzdksyNHR1ZC1YMnRKbGR4YlA2b01KNEJ3b21jZ0cxOXJTY0twTFF0UWpaX3QxWlYycF9aTnY5NWl6dDdCVjdtM0ZRRTJVaWRtOGNERF9yZnRwd05ORlNLa0pXODlpcV9wcktfYWRpZllTWm5rQ0tRQQ",
+   "source": "Putman Media",
+   "published_at": "2026-10-22T17:01:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Putman Media",
+     "published_at": "2026-10-22T17:01:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVVZuNUE2dlB5MkJGTmlTOWY1b3pHSWVmcGpxd3B2VWdlNEM5SGF2OVota19sVmRQS0VBUVNoQkhEZVVkQlFEeXRSOG9XR2JiWUVMNHNVeHVTLWhfNnZBRXA4Ym1SQU1wUkc4MHJOTnlrZmItR0dESU5pNkRnQW5DSUtaRzkxaEQxaGJ6djVqek5fSWxqVEx1ajUzdksyNHR1ZC1YMnRKbGR4YlA2b01KNEJ3b21jZ0cxOXJTY0twTFF0UWpaX3QxWlYycF9aTnY5NWl6dDdCVjdtM0ZRRTJVaWRtOGNERF9yZnRwd05ORlNLa0pXODlpcV9wcktfYWRpZllTWm5rQ0tRQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "120d64152495",
+   "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage | NVIDIA Technical Blog - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWwwamE2RDg0SHJxZ0w3M3VPb1J3QzNaaWVVc0MwY3IwajQ1a2lQRVctUmI1Q25sRHZpTXhvVHZnLUpHdnVfdGpsODJrYW1ZQnIxU1BuUjdQSzVQaWxRVl9TblZaLTdVYzJpWW9JLVQ3WHBteW16MkNCZXY2X3BVVjdidzRoSkgwbmFFaXBwbkh3OVdEUjRlejhTSmNzZE96UVpJX0VsMUVoRmc",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-22T16:48:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-22T16:48:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWwwamE2RDg0SHJxZ0w3M3VPb1J3QzNaaWVVc0MwY3IwajQ1a2lQRVctUmI1Q25sRHZpTXhvVHZnLUpHdnVfdGpsODJrYW1ZQnIxU1BuUjdQSzVQaWxRVl9TblZaLTdVYzJpWW9JLVQ3WHBteW16MkNCZXY2X3BVVjdidzRoSkgwbmFFaXBwbkh3OVdEUjRlejhTSmNzZE96UVpJX0VsMUVoRmc"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "217eed69b341",
+   "title": "Why Are Nvidia, AMD and Micron Stocks Crashing Today? AI Spending Fears Hit Chips - Stocks Down Under",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zc25iZ1RZenM5U3N2QkJMQ2Q1UVBscjFreDQ5cDZ1LW1EUGdiNVFHU2JIeEJmajJfaThMN3RqNExGNWRnVFlqblEtb0o2OFMwaF9FZmJicloxemtoZzJRNFhtOXhmMXI4YWxtd2ZEcklyRDZOVWNyZ1RMTXhxWTg",
+   "source": "Stocks Down Under",
+   "published_at": "2026-10-22T16:46:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocks Down Under",
+     "published_at": "2026-10-22T16:46:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zc25iZ1RZenM5U3N2QkJMQ2Q1UVBscjFreDQ5cDZ1LW1EUGdiNVFHU2JIeEJmajJfaThMN3RqNExGNWRnVFlqblEtb0o2OFMwaF9FZmJicloxemtoZzJRNFhtOXhmMXI4YWxtd2ZEcklyRDZOVWNyZ1RMTXhxWTg"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "72cb665434e4",
+   "title": "Nokia and NVIDIA push AI-RAN into live 5G networks - Telecoms Tech News",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVR2MWJVeVVaNlV3N3YtZTJ3bU9GVF9HbHBiWVpuLWhXSGtXZjFZM0xUSWR4anp4QndJMlZuRGxyQm9wam1BUHloeHM2MDl3LWtsTmdBdDYtUUttZWI5VVA0RjVMRE45VTF3VDRHb1JDaHlTT0JJaU1iRjlNZXlYVElQalROSWpVbVZwUWNYaWFFVXM",
+   "source": "Telecoms Tech News",
+   "published_at": "2026-10-22T16:24:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Telecoms Tech News",
+     "published_at": "2026-10-22T16:24:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVR2MWJVeVVaNlV3N3YtZTJ3bU9GVF9HbHBiWVpuLWhXSGtXZjFZM0xUSWR4anp4QndJMlZuRGxyQm9wam1BUHloeHM2MDl3LWtsTmdBdDYtUUttZWI5VVA0RjVMRE45VTF3VDRHb1JDaHlTT0JJaU1iRjlNZXlYVElQalROSWpVbVZwUWNYaWFFVXM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "3d9be2a7df52",
    "title": "HPE expands Private Cloud AI solution to support mixed Nvidia hardware clusters, launches Vera CPU rack - Data Center Dynamics",
@@ -885,6 +970,23 @@
    "zh_summary": "英伟达通过TIM进入意大利",
    "title_zh": "英伟达借TIM进入意大利市场",
    "sentiment": 1
+  },
+  {
+   "id": "a883cc9417ab",
+   "title": "SK hynix vs. Nvidia: One AI Chip Stock Is Cheap, the Other Only Looks That Way, Says Top Investor - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbkd6UEN1cVFtZzFSRk14QWVHa3l4YUk0ZnRlVlJxNXpQalFGN2lBNzZDbnRkd0pqa1gteHlPY2kwZ0QyeEpMUjJhb2dibHh4RmZDQmxNNlUzNm1BTFJwc2RUTnh2NDBOd282MmR2VEZveEZ0MUR2N3hEanpjLUZVaEx4a1JJdDZ4ZXVvS0thY3ZZYjlSOERnaWdmQ1VQWE9aUTJRazdHdTJyQ0JsN0xjWmhzUTc0Y2ZuZ2hPRVZZUlhrUnY2MFpxRDUyUQ",
+   "source": "TipRanks",
+   "published_at": "2026-10-22T13:19:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-10-22T13:19:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbkd6UEN1cVFtZzFSRk14QWVHa3l4YUk0ZnRlVlJxNXpQalFGN2lBNzZDbnRkd0pqa1gteHlPY2kwZ0QyeEpMUjJhb2dibHh4RmZDQmxNNlUzNm1BTFJwc2RUTnh2NDBOd282MmR2VEZveEZ0MUR2N3hEanpjLUZVaEx4a1JJdDZ4ZXVvS0thY3ZZYjlSOERnaWdmQ1VQWE9aUTJRazdHdTJyQ0JsN0xjWmhzUTc0Y2ZuZ2hPRVZZUlhrUnY2MFpxRDUyUQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "e3e4aecc5129",
@@ -2092,21 +2194,21 @@
   },
   {
    "id": "309f326f2261",
-   "title": "Nvidia’s Jensen Huang Wants AI Chips To Be A ‘Financeable Asset,’ Says Neocloud Demand Is ‘Off The Charts’ - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnNNckZqcjdFb1ZMdWZwV1h4RE4xbGZWekk5dVlsRDNaaHpuMlRUOWh5WVlnRk1vV3FGY2pCazNhLVJ4UENfWnpqVXVVWVROTVZMUUswRnRXZjVOYkM5UnVGVVhiR2g3M0ZIUlJKa0NFQl9KaG9JSnBKc3BvTFF1SUs5S1A5Q3RSaHVTQWNxMmNFeC1fU1lB",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T10:57:20+00:00",
+   "title": "Nvidia’s Jensen Huang Wants AI Chips To Be A ‘Financeable Asset,’ Says Neocloud Demand Is ‘Off The Charts’ - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUZiaFhwVWRsblZTU1JmdXdhSF8tcHdYenhwRDMteVhxMTM1NHlwUDF3eW50X25wc2FDVjQyUHdmd0tVamVWZ1FXcE5fak1jR01fNVJHTTZPMlVjSk5lOTVkMlp2STVBS19rYURqRDZVS29TXzVEV2dEN1FHOTBoWEFHYWlad3EwTUJmRGx0WUpZb1h3Z0JGRzM5VVJmZ1pNX2pzemhMVHNKaGttT29GTGI3eDZwV0FDN1VlRjJzS0IxUHNnNjh1dEhVb3MzUmFteUVRM3FTaHUxTnNa",
+   "source": "Stocktwits",
+   "published_at": "2026-10-22T10:57:00+00:00",
    "outlets_count": 2,
    "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-22T10:57:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUZiaFhwVWRsblZTU1JmdXdhSF8tcHdYenhwRDMteVhxMTM1NHlwUDF3eW50X25wc2FDVjQyUHdmd0tVamVWZ1FXcE5fak1jR01fNVJHTTZPMlVjSk5lOTVkMlp2STVBS19rYURqRDZVS29TXzVEV2dEN1FHOTBoWEFHYWlad3EwTUJmRGx0WUpZb1h3Z0JGRzM5VVJmZ1pNX2pzemhMVHNKaGttT29GTGI3eDZwV0FDN1VlRjJzS0IxUHNnNjh1dEhVb3MzUmFteUVRM3FTaHUxTnNa"
+    },
     {
      "name": "Yahoo Finance",
      "published_at": "2026-10-22T10:57:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbnNNckZqcjdFb1ZMdWZwV1h4RE4xbGZWekk5dVlsRDNaaHpuMlRUOWh5WVlnRk1vV3FGY2pCazNhLVJ4UENfWnpqVXVVWVROTVZMUUswRnRXZjVOYkM5UnVGVVhiR2g3M0ZIUlJKa0NFQl9KaG9JSnBKc3BvTFF1SUs5S1A5Q3RSaHVTQWNxMmNFeC1fU1lB"
-    },
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-22T11:00:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUZiaFhwVWRsblZTU1JmdXdhSF8tcHdYenhwRDMteVhxMTM1NHlwUDF3eW50X25wc2FDVjQyUHdmd0tVamVWZ1FXcE5fak1jR01fNVJHTTZPMlVjSk5lOTVkMlp2STVBS19rYURqRDZVS29TXzVEV2dEN1FHOTBoWEFHYWlad3EwTUJmRGx0WUpZb1h3Z0JGRzM5VVJmZ1pNX2pzemhMVHNKaGttT29GTGI3eDZwV0FDN1VlRjJzS0IxUHNnNjh1dEhVb3MzUmFteUVRM3FTaHUxTnNa"
     }
    ],
    "category": "产品技术",
@@ -4096,7 +4198,7 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOam1tbVpBYU1JdGxWYXE4dkxxMVc5R0U5UzYzMVhJb3U5VGlIdE1vOXpRdlJDelpYVzM0NU0yZVRxY044VGctOGJzUkhVSDlROHBueEhXSHptUFRNd09VVS0xbzBiZUZQNmt3cXBPbUcxVDhUNU5ubUJKN3RIOHZ5Wk9vTl9yWW5GVXZpUWJ0UQ",
    "source": "Yahoo! Finance Canada",
    "published_at": "2026-10-22T06:00:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Yahoo! Finance Canada",
@@ -4112,10 +4214,16 @@
      "name": "PR Newswire",
      "published_at": "2026-10-22T06:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxORnBBUUE5R1NOcldMR3AtemFGdmprS0hEWldfQS1XX0RjUlZORk1HTVYydnd5S21SZ3BfbUs5dEJlN20zWFRlRDl6LW9VODVYb1hMRUc4UndNWXRlc0RzUC1OeGQwVlM1Zzg1Z0p6ZVRuZ3lKcDBIeGdySnJqdGk0UTBmcjZ1OXdxYjZGMHZOTlh0OEdfbGdmMTJydXZEMG00d2dueEZHU0NnVlJpZXBrOUE5Vy14VmJqT2J3VHBla0Q0T3N0d2JtYm5GcVpjaXhTOGMtTy1wenN2Ujd4ejkxZExyWVhmN1BzZUs1V2xpc2tLaXc5cUFOM25Sc2M2RnIzMk5CUmN0ZjU0elhpWHNWam1UeUlFLURoSUFsM2M5dGZXcmx0T1dQRDdtMnNxTzBRUDdkNTZtdG5wbGZKMkNxUQ"
+    },
+    {
+     "name": "Morningstar",
+     "published_at": "2026-10-22T06:21:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQeUhNbkFyc3hnb0w5NEViRTFtek1jbldabVdURGJsdTdwZXBXUHlSUEtjNjlKYnhtRVNDbWxKck1QQndBOExoblJiU2syOVdpemMySmRvUEJiOHdIQmhZUVBqcDA1a2dKbkZ0YzhCRE5PcU1hMU5STEZqWWI2Z052SlpJdWZ3cGRXQkY0U19oeEJHYjBPS0ptZ2REQWRWeXp5RkNIbDI1cHpHcTQ1Qmg4Y1k0ZlJ4NUg3UU5BSjVFd3BwQjhGXzlWc1R4LTkya0J6YWxhS2lubVAtTnNaZG0yTEo4WGxmNkJNUkw2c29QYm1DM2JUdDhMREpOcW1RSU1mZkhCV3laNkJMSWpvYWd6S25XRGFVMzJIV1Jac1BWYmZWZ29jMGhkbmNSajJZZ05UYXRoVWhSVHRlQUdIU0V2M3hiRjJJTk0"
     }
    ],
    "category": "产品技术",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "超微推出英伟达Vera CPU机架，256颗CPU",
    "title_zh": "超微推出英伟达Vera CPU机架：256颗CPU全液冷",
    "sentiment": 1,
@@ -6271,131 +6379,6 @@
    "session": "盘后",
    "zh_summary": "英伟达联合创始人捐出巨额财富",
    "title_zh": "英伟达联合创始人将巨额财富回馈社会",
-   "sentiment": 0
-  },
-  {
-   "id": "e8ea82ee755a",
-   "title": "ServiceNow Announces New AI Agent Services With Nvidia - PYMNTS.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVlnMVFuX0xwZ1I3a2Z6UWNCdkZlUjRoWWJudk5fa05Wd0R2Z3RDa21CckJkZmJfaExhem5aY044WENBZVFFaXYxQWVFSWdZNlpuM0FTUVRGVHEweW9LSVpSbFoyZkN2SHVrUW5NM1RaWG9ldWVlemN4X295cVI5QjNGeGt5Z0JrME42aXBwd0ZTVlNGNDFsa0F2a2M5VDRmU1k3eTRMTnRYV1pNYjE1VUZ3",
-   "source": "PYMNTS.com",
-   "published_at": "2026-10-21T20:09:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "PYMNTS.com",
-     "published_at": "2026-10-21T20:09:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVlnMVFuX0xwZ1I3a2Z6UWNCdkZlUjRoWWJudk5fa05Wd0R2Z3RDa21CckJkZmJfaExhem5aY044WENBZVFFaXYxQWVFSWdZNlpuM0FTUVRGVHEweW9LSVpSbFoyZkN2SHVrUW5NM1RaWG9ldWVlemN4X295cVI5QjNGeGt5Z0JrME42aXBwd0ZTVlNGNDFsa0F2a2M5VDRmU1k3eTRMTnRYV1pNYjE1VUZ3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "ServiceNow携英伟达推新AI代理服务",
-   "title_zh": "ServiceNow宣布与英伟达合作推出新AI智能体服务",
-   "sentiment": 1
-  },
-  {
-   "id": "02f7886caf4f",
-   "title": "Yyforce发布由英伟达物理AI驱动的“Workforce OS”机器人架构 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPXzRjcEM4N1hmTnoyaUtlWHZXMS1BY2hCU3FXTURwQXFERGpNRXZtb0RZWjhPa0xteHFBOHM5U0d2dWhHNXYtUFZyOHU3VTY3UXFESGxJZC1MN3ZrMXpBaDFOa3RmejYwZFJtLVpvS2RKWjNhM1dUUElVUE5fd042X2wtcGJINnBaNDlaSll3UHoySFBqUWMtX1VQVmVCMGs1b2VoNndGSlJXdVJVYjhFR1R6SUFoOGh1REE",
-   "source": "富途牛牛",
-   "published_at": "2026-10-21T20:08:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-21T20:08:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPXzRjcEM4N1hmTnoyaUtlWHZXMS1BY2hCU3FXTURwQXFERGpNRXZtb0RZWjhPa0xteHFBOHM5U0d2dWhHNXYtUFZyOHU3VTY3UXFESGxJZC1MN3ZrMXpBaDFOa3RmejYwZFJtLVpvS2RKWjNhM1dUUElVUE5fd042X2wtcGJINnBaNDlaSll3UHoySFBqUWMtX1VQVmVCMGs1b2VoNndGSlJXdVJVYjhFR1R6SUFoOGh1REE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "YYForce发布英伟达物理AI机器人架构",
-   "title_zh": "Yyforce发布由英伟达物理AI驱动的“Workforce OS”机器人架构",
-   "sentiment": 1
-  },
-  {
-   "id": "30bb5e6d859a",
-   "title": "YYForce Unveils \"Workforce OS\" Robotics Architecture Powered by NVIDIA Physical AI - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGdGckd6NVkxamE3OS1IZ3RvWUp1VF9DM3g0WjJlTW5xREpvbGYzbmdPNXM1eE5TQVdtemxyMlFDMThGdjlEc3YzWlFsckZ0eGh3c3B3ME9scVcxT0s0VVlzUm1uVHlVeWZscG9FRE9vdEsyRDgxbm5STlRaclktbFAxaUtoTnp1VFRGd3ZJTVFnVXNlUjR4OElDd1RZT2pIN0Uw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-21T20:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T20:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGdGckd6NVkxamE3OS1IZ3RvWUp1VF9DM3g0WjJlTW5xREpvbGYzbmdPNXM1eE5TQVdtemxyMlFDMThGdjlEc3YzWlFsckZ0eGh3c3B3ME9scVcxT0s0VVlzUm1uVHlVeWZscG9FRE9vdEsyRDgxbm5STlRaclktbFAxaUtoTnp1VFRGd3ZJTVFnVXNlUjR4OElDd1RZT2pIN0Uw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "YYForce推出英伟达物理AI机器人架构",
-   "title_zh": "YYForce推出由英伟达物理AI驱动的Workforce OS机器人架构",
-   "sentiment": 1
-  },
-  {
-   "id": "f04f070a41ae",
-   "title": "英伟达宣布升级Isaac通用机器人开发平台 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2anJOQTFSQlJpbS1mY1BSYTU3cGV6cExXSG9TTUxTc1ZPdXV3OHVzMnRMVWZFWjRtdFRHMkNXeUM4Tm9LWHZFWmZ5OG5SUWhVZFNPcmJIaDhWZmY0azdUaW0yV0RMdw",
-   "source": "东方财富",
-   "published_at": "2026-10-21T19:55:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T19:55:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2anJOQTFSQlJpbS1mY1BSYTU3cGV6cExXSG9TTUxTc1ZPdXV3OHVzMnRMVWZFWjRtdFRHMkNXeUM4Tm9LWHZFWmZ5OG5SUWhVZFNPcmJIaDhWZmY0azdUaW0yV0RMdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达升级Isaac机器人平台",
-   "title_zh": "英伟达宣布升级Isaac通用机器人开发平台 - 东方财富",
-   "sentiment": 1
-  },
-  {
-   "id": "87a65e767b9d",
-   "title": "Amadeus, Nvidia target faster flight search as AI demand grows - PhocusWire",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFJnbHpmbnlmalRVV0JHQnNvMjRmeC16UUJ3ckI3a1VfSUJhaXJuY09NVzZqZjRMNXoza3JWZ3dNRjdXdl9ya2pYb3hEaGhqUTZRQlBpbDJib0tmMHVzS18tVUUyOUNXOEw3ZUdWRjdZQy1WUlpTbk05cUhGNDdqRnVhTWYtVGR3QVRZYlhvS1N1dy1mSXNtQ3M0RzFzc2hNRVlBVDlSdw",
-   "source": "PhocusWire",
-   "published_at": "2026-10-21T19:52:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "PhocusWire",
-     "published_at": "2026-10-21T19:52:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRFJnbHpmbnlmalRVV0JHQnNvMjRmeC16UUJ3ckI3a1VfSUJhaXJuY09NVzZqZjRMNXoza3JWZ3dNRjdXdl9ya2pYb3hEaGhqUTZRQlBpbDJib0tmMHVzS18tVUUyOUNXOEw3ZUdWRjdZQy1WUlpTbk05cUhGNDdqRnVhTWYtVGR3QVRZYlhvS1N1dy1mSXNtQ3M0RzFzc2hNRVlBVDlSdw"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘中",
-   "zh_summary": "Amadeus与英伟达合作加速AI航班搜索",
-   "title_zh": "Amadeus与英伟达合作，目标加快AI航班搜索",
-   "sentiment": 1
-  },
-  {
-   "id": "b8d19ec9bb65",
-   "title": "$4,000 in These 4 Non-Nvidia Chip Stocks Could Be Worth This Much by 2030 - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VLbGVuR2RSSUVIUnIxTnZUcTcyZlAxSDI4ZW9zMjhfYnNGaGZxdTJreTJ3ZjRJd1dDR1NxVUJvUzUtQ1ZOVXp4Vkg5T3hiLUg5T3ozV1NwMTJ5M0l5aTFuellaNFZua29MdHc2ZDY0eGw0R2NNSVB5YjNhZ2dZQlI1bmIydlg5NXk2eFJtTmJmZ2UxRUNuaA",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-21T19:51:24+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-21T19:51:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VLbGVuR2RSSUVIUnIxTnZUcTcyZlAxSDI4ZW9zMjhfYnNGaGZxdTJreTJ3ZjRJd1dDR1NxVUJvUzUtQ1ZOVXp4Vkg5T3hiLUg5T3ozV1NwMTJ5M0l5aTFuellaNFZua29MdHc2ZDY0eGw0R2NNSVB5YjNhZ2dZQlI1bmIydlg5NXk2eFJtTmJmZ2UxRUNuaA"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T20:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnZ0ZXFEQmtZMW95Q2tHak0tSlk0SnJIcVQxM1J5c2dGdzZJdWpXSUdQVUxKcFhKWjNCaFdMOEdDNzYyamVPb242amlpS296bXdZSWVuMDhTV2xQU1lacExQLUlycTlCb1pBaWNKelU0OW10QTFvMDNWYVlDV1FzUTNCTlFKcFhKN29j"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "4000美元投4只非英伟达芯片股2030价值几何",
-   "title_zh": "4000美元投4只非英伟达芯片股，2030年能值多少",
    "sentiment": 0
   }
  ]
