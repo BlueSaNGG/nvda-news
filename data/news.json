@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T07:51:44.853468+00:00",
+ "updated_at": "2026-10-22T08:06:50.719737+00:00",
  "market": {
   "price": 221.97,
   "change_pct": 2.54,
@@ -10,8 +10,8 @@
    "days_left": 26
   },
   "day_sentiment": {
-   "avg": 0.96,
-   "count": 26
+   "avg": 0.95,
+   "count": 37
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.96（26条已评分）"
+     "note": "今日新闻情绪 +0.95（37条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 41.9,
    "ma20": 226.87,
-   "as_of": "2026-10-22T07:51:44.840825+00:00"
+   "as_of": "2026-10-22T08:06:50.705080+00:00"
   },
   "pe_ttm": 28.2,
   "pe_pct_5y": 25,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "fa952c82482b",
+   "title": "LG Innotek与英伟达合作开发物理AI感知解决方案-36氪 - 36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seGdMN1ZiY3J0dUpWSGdNRy1rVFBpeXpMV2tySE9YZTRFWEUwQktmTHpGQ0ZiWk1SQVdhY3llb0J5dTREYVJDcm9EMkh2MnhpNHcwcXFmTHM",
+   "source": "36kr.com",
+   "published_at": "2026-10-22T08:04:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "36kr.com",
+     "published_at": "2026-10-22T08:04:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9seGdMN1ZiY3J0dUpWSGdNRy1rVFBpeXpMV2tySE9YZTRFWEUwQktmTHpGQ0ZiWk1SQVdhY3llb0J5dTREYVJDcm9EMkh2MnhpNHcwcXFmTHM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "7ff801584865",
+   "title": "黄仁勋说产能是卡点！英伟达基板产能三年提到2.5倍 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iTVpTMkxsZ3hxd1hvTk5aUVN6a3MyNDN3QnBwU2JVcGJpOWpzbDRxa1kwRTNNd2hLVzhOdERmWHFfcHg3YV9fNV9pbDVKOFRQY2tFd0JlQVg",
+   "source": "驱动之家",
+   "published_at": "2026-10-22T07:51:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-22T07:51:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iTVpTMkxsZ3hxd1hvTk5aUVN6a3MyNDN3QnBwU2JVcGJpOWpzbDRxa1kwRTNNd2hLVzhOdERmWHFfcHg3YV9fNV9pbDVKOFRQY2tFd0JlQVg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "ab651bfcf60e",
    "title": "科技云报到：英伟达GTC德国柏林站，提前写好下一轮AI竞争的规则? - 搜狐",
@@ -212,7 +246,7 @@
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdTVKdGwtT1Q1eW9NVV8zZG9kakgxTk5vendNTS1NcEZYMEZGNE5ERVNCRkM3Qk5XMlZaY0xMeXIwQlYwMzJvQmpxc2M5SVlMbEVKYWpCMEsxSjA1Y1k5b1RkcXRKSFRSeUhQSmVhV2JvZ2V4STZzdmg2YURIOXd2dUVkTDdLQllVTmlNYjB3b0xkY09YMmd0b2ZNcTZSb00xc0R0VW5yZ1l6UkdTREIyTk1zZnVCS3RqcDE4Q0llaGF1UFEtanVTc1VLcF9XVVJyQ0wycmUzbnJZRTQ",
    "source": "Reuters",
    "published_at": "2026-10-22T07:25:43+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Reuters",
@@ -223,6 +257,11 @@
      "name": "KSL News",
      "published_at": "2026-10-22T07:40:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWF9aQ01sam5DTVdwLThsRDNqWV84TC0wZlhYSnBIc1FUMzhYQ2RMc0ZlZWVWTHhUZ0ZXenBLdXVERkxDSjdOVktPdy1BM2ZMUEZIX1FVLUFZRGxWbVBqY3ZHNlJMOEUyaTFrSnUxRTR2VVJkZFV4Z2I3NkJyNjZvXy15V2lPR3N2NDRVX3AydUd5VFJpMUl2enFqb2I5bklISkpBdG5HS3A3UzNMVDJSbzBNdFk4bm9yQTBmUy12czhhdw"
+    },
+    {
+     "name": "Central Oregon Daily",
+     "published_at": "2026-10-22T07:37:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOMWIxel94eXc3Y21jXzlIYkdJU3hDWVQ1V3ZaTV95bGZiQS1GZjctdzlhM3UxdHZKdGhvWFJRenl2cFNINzhSZ2tvWnExSVYyZGdoTm9mdGM3US1zTkhNVm0zM2c0TlU0aW9UaGlybmVvQ2NuYnppTUpUQWNXcndqR1h3aV9ReTBESWEzUjZnRkNIbWlqTUdTbTRSblQ4X0VUa2Zzb0Fuc0FHckRZWUtpQlk1QjMtM0k3NTUtWDN4dWgxZXBIcktYaHUtdDRnX3FoMVozOXlDN2NKUXBkejI1S0l3dXg1dExrcWpJdmdDb3FaSVJhWlFaSXlaWmkwUEw1QWswSndDZGRPdHVPQ2FER1F6WGZxZw"
     }
    ],
    "category": "产品技术",
@@ -277,12 +316,17 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU1KRzRlMkRoWFdjcEpCTWFRZm91VFVhY2h4ZHVDMmFySkxIdjZ3a1NLekxEY0RoRkF2VnBQYW1qRDhTdGw0VWlMWFlLanYtcGVkODdLQlQ1Z1hnRF9US0hPYTFrMkxaVXozQU03VVRjQnllUkFVNnhONndfOFdOenVhOTVpMzlXcER0TWFFNEY5dWZVeWZFMWpNVllPdw",
    "source": "The Motley Fool",
    "published_at": "2026-10-22T07:14:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-22T07:14:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU1KRzRlMkRoWFdjcEpCTWFRZm91VFVhY2h4ZHVDMmFySkxIdjZ3a1NLekxEY0RoRkF2VnBQYW1qRDhTdGw0VWlMWFlLanYtcGVkODdLQlQ1Z1hnRF9US0hPYTFrMkxaVXozQU03VVRjQnllUkFVNnhONndfOFdOenVhOTVpMzlXcER0TWFFNEY5dWZVeWZFMWpNVllPdw"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-22T07:32:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3V6aUZOWGNBZGQwMjhrR3EwQmVJVi13V3dxMXZjYnprNDVPU2RVUXJkaVRjZTlyVUxaQzVOR0ltN1d6WURIYTktMzd5U0Q2Uk5Lb2hBTkxkSm1mV245cU51dVRVVzF3QWlMVDlEUTRkM1hUeDI1TjQxTWNYdlVUMVJDRmY2enBhd2g4Z2JLUXBXQVNnZl9LRGdB"
     }
    ],
    "category": "其他",
@@ -367,12 +411,17 @@
    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNUxCakR4cWFLVlpyQ3hseVFKdl9JQWdpb1J3eDJMdWt1b3lhSHN3LUphWk1TQmZ4d0xCVlBhUTY0THMwS3NsTkJDX0VwNmxSSnpJNTlDcTYxRUhseTl2Uk9OX0Vya2J6ckl3UGplbl9NNV90czl1ME5hY2JaNGFhbU4teDlYLW5Na1Zjbjhna09KNkYxUkwwTF9VQWVzMHVrOUhtTU40OGF1MTcxeU1MVkp5dDhLcWRfd3RZSm5aZERra19aWk5QbFAtbks2bGVEYlV6UW5PSWhaNlJSRmN1UUkxZ0NBbEI3YWpRRklqUE12MlNray1ncGtPRmdPNDNPbTZXM01BTUJqQWV1",
    "source": "TradingView",
    "published_at": "2026-10-22T07:00:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TradingView",
      "published_at": "2026-10-22T07:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNUxCakR4cWFLVlpyQ3hseVFKdl9JQWdpb1J3eDJMdWt1b3lhSHN3LUphWk1TQmZ4d0xCVlBhUTY0THMwS3NsTkJDX0VwNmxSSnpJNTlDcTYxRUhseTl2Uk9OX0Vya2J6ckl3UGplbl9NNV90czl1ME5hY2JaNGFhbU4teDlYLW5Na1Zjbjhna09KNkYxUkwwTF9VQWVzMHVrOUhtTU40OGF1MTcxeU1MVkp5dDhLcWRfd3RZSm5aZERra19aWk5QbFAtbks2bGVEYlV6UW5PSWhaNlJSRmN1UUkxZ0NBbEI3YWpRRklqUE12MlNray1ncGtPRmdPNDNPbTZXM01BTUJqQWV1"
+    },
+    {
+     "name": "PR Newswire",
+     "published_at": "2026-10-22T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNVEwTWhLNC1jSkltWDRHTGw4OHhLcHJGUEd3ZHZCOWw4czRIQV9ud1p5dDYzRHZtVzNXb2hiWFo3YXItT21TT21laGY1TEkwNkhVQ2dfNzF3MEtMT2ZRNmpRanJGMkRuZm9RekVKMm1xWnBkWGl0NnRzbDZHQnFmMjlOY2d1Q0FUZzZCVGxsaWVMSWxkQ3BqNGZCb1hKUTY2SEoyMmZ3cHhkaDNIalBYY1I5TnlJaEtTbmtSYlBNOXVjTktqXzVBMER5YWhXM0VNT2NhUW1LXy0zeUxyUnVZd1ZlMUw5YW1pY0MwYkVCa19oaFlYWGpEOE9VQWo0SzJUWkdGUDBB"
     }
    ],
    "category": "市场宏观",
@@ -567,7 +616,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uVGdsMGZJc1JYREdCMlBGQ3FrUmdHVkNtOTZFM25ya0xkS3NaVVp0aEdMeHZLakJKYk1wQkhSWmtEYktYQXBiMW5pckRvNkl1YnhpYXdLb25HaVgzQjNIN1JZc0Yzd1EzcVQ5aGw1a1E",
    "source": "手机新浪网",
    "published_at": "2026-10-22T06:03:24+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "手机新浪网",
@@ -583,10 +632,16 @@
      "name": "新浪财经",
      "published_at": "2026-10-22T06:03:24+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jRnBzZHZUY2k0TGQ0MWQyUnIySUhSc3JLeklibFFRcjZKaE1xVVhfa2hHTTUtUlVraU5NNl93UFVUMERIRndpNWRYRmJtSlRrRS1uVFVleldFczE5eXp4SmhlWHFqOUFhX3kzUzRIcjdNRGRrUWtWSDM0REIzNUU"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-22T06:03:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaU9abFVVQ2ZjWWhoUVdmTDJtN0FMTHBiSl90UlF5cGdncTRWNzh3X29FYlhTSUNaZXBkdEhHdTRLNFVicVVYU3hpQWEwVzFmUDNHd2c3dFhUMl9sSURpOC1SRVpRWFZoQmR1dmJ0bV9oSHFDeDFwQVlQbUUyTGo1RUQ4ZEprcW5B"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "谷歌云计划部署96万块Vera Rubin GPU",
    "title_zh": "谷歌云计划部署至多96万块GPU的英伟达Vera Rubin平台",
    "sentiment": 2
@@ -597,12 +652,17 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTd2cnlMaFVUdXNZbk00UlZ4Y0JrVmROZkwwekFzaHRXSUl6Ym45RkNFRGJJQzMxTDVjVlpvcFhobF9JLV9BV2RmeXpSMURRVnA0blNEbmhUYjJqTzJQa25HYkZ6bkdpQktieHhuMW1nbkIyZkdvREl2T3hPVEE2T0tPSWdmd2l0UzEydE1rVGpTNWZVOWZIMzh3aXRKeG1NNlE",
    "source": "富途牛牛",
    "published_at": "2026-10-22T06:02:19+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "富途牛牛",
      "published_at": "2026-10-22T06:02:19+00:00",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTd2cnlMaFVUdXNZbk00UlZ4Y0JrVmROZkwwekFzaHRXSUl6Ym45RkNFRGJJQzMxTDVjVlpvcFhobF9JLV9BV2RmeXpSMURRVnA0blNEbmhUYjJqTzJQa25HYkZ6bkdpQktieHhuMW1nbkIyZkdvREl2T3hPVEE2T0tPSWdmd2l0UzEydE1rVGpTNWZVOWZIMzh3aXRKeG1NNlE"
+    },
+    {
+     "name": "观点网",
+     "published_at": "2026-10-22T07:37:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JcEVMbXVucUZsY1VkTEpCQXFWVERDcFpMNXJwSnljU2pPUHJOdVJqUjF1YlFHRWpTWU85R1prZU9SVTd3YWhPM0ZzUmQ2Y0xXTW01ZVl3TUxBcmJvajNHSHdR"
     }
    ],
    "category": "其他",
@@ -640,6 +700,28 @@
    "zh_summary": "超微推出英伟达Vera CPU机架，256颗CPU",
    "title_zh": "超微推出英伟达Vera CPU机架：256颗CPU全液冷",
    "sentiment": 1
+  },
+  {
+   "id": "107d3b3da516",
+   "title": "Genedata Expands AI Discovery Workflows with NVIDIA BioNeMo Open Models, Including the New RFD4-Proteina Release - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPclNIeVFyb3UzVTJSMG80aWFCdDB4LW14U3JERXN3dzYxZWxBTGhKcWJiRjRHQWhpZ3M4LUlPRE5mc0tJY2NtSDlWZ21FdjE1TVBNN1JmNV92TF9VaFdMbkwwQnlrR2dpRkpSbk1POXFqdEE3SjBaRGh0VzRIY1hoU1hmRHNaRm9GSTlYdkd0R0JaZG14RWRoNGVISkJDZUtfM2o2cWt3",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-22T06:00:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-22T06:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPclNIeVFyb3UzVTJSMG80aWFCdDB4LW14U3JERXN3dzYxZWxBTGhKcWJiRjRHQWhpZ3M4LUlPRE5mc0tJY2NtSDlWZ21FdjE1TVBNN1JmNV92TF9VaFdMbkwwQnlrR2dpRkpSbk1POXFqdEE3SjBaRGh0VzRIY1hoU1hmRHNaRm9GSTlYdkd0R0JaZG14RWRoNGVISkJDZUtfM2o2cWt3"
+    },
+    {
+     "name": "PR Newswire",
+     "published_at": "2026-10-22T07:31:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOeGVRTTdDQzI2RVpyMUdJX2dvS0hrZnItVlYxQ3V2MV9OaHdlLVVva3NfT0tmWFFhdnlwT1pjeWJBVFdma2l5SmFZekpHSENGRS1wZ3E1OGRiUkZYUXJQOGl2anRHT0NnelR1c0oySVJteHhKdHVhYUdpZEU1SEZvbi00Sl83Rk1yYmRkajZRZWdCNWF6RXVPZ3JydHN4WG9JelhneXlEMGhWY2NseXpaT05hdUtiY0RTT2RUU2hvenpzb193cXgtUmxjYWJndnNhLU5aTkhKWjJOS2NpT2syN285ZjJENFRhbUZXX1BrcVUyZUx5OVo2NWRwcw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "faf36f4aa11c",
@@ -840,6 +922,23 @@
    "zh_summary": "NVIDIA Cosmos推出训练评估部署工具",
    "title_zh": "NVIDIA Cosmos推出新工具训练评估部署世界模型",
    "sentiment": 1
+  },
+  {
+   "id": "268ce53389f7",
+   "title": "NVIDIA GTC Berlin: Live Updates on What’s Next in AI - NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw",
+   "source": "NVIDIA Blog",
+   "published_at": "2026-10-22T05:00:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Blog",
+     "published_at": "2026-10-22T05:00:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "5eebf6d35f8d",
@@ -1688,6 +1787,23 @@
    "sentiment": 1
   },
   {
+   "id": "eb66fc01c797",
+   "title": "Why AI Chip Stocks Nvidia, Broadcom, and Micron Are Down in Overnight Trading — and What Wall Street Expects Next - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQenF6T3lvR3IyV0FrNzVVQjVTOGlDRkV0RGdocm5pQUhkVmpwbDUyRy1lOHFSRE50Y0d2WGpxUmtmN2dwb2lHVnkxZ0JSUklqX1FReXdZVmdiY1ZkM0dVTG9WZURXcDk2OW1MbzE1Ym9ybllrRnBLT0JtYTUzbUdnbEZqOEdpbDhONUxmZjluenp6Rm1WSGNTZ2toTUlfVlhJSTRQbnRvbG1JVlRFSC1ra054OXpPRXFGbzdmU0xZNGJtVDhUdDJHWERSYkpzYVo3TTZnLUh3",
+   "source": "TipRanks",
+   "published_at": "2026-10-22T00:55:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-10-22T00:55:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQenF6T3lvR3IyV0FrNzVVQjVTOGlDRkV0RGdocm5pQUhkVmpwbDUyRy1lOHFSRE50Y0d2WGpxUmtmN2dwb2lHVnkxZ0JSUklqX1FReXdZVmdiY1ZkM0dVTG9WZURXcDk2OW1MbzE1Ym9ybllrRnBLT0JtYTUzbUdnbEZqOEdpbDhONUxmZjluenp6Rm1WSGNTZ2toTUlfVlhJSTRQbnRvbG1JVlRFSC1ra054OXpPRXFGbzdmU0xZNGJtVDhUdDJHWERSYkpzYVo3TTZnLUh3"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "3f44d6666c12",
    "title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain - The Register",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYm1pNjFiby1OTHR1Q2pYa2YzTE9rXzAzVnNSR2RIZENqNWVjSGJzcVQ2WG1BTVRDWHJxVXVYcndIVVp2dzV1MFh4U0w3Qll0WVdUaTM4ZnlxLUdJZzRFaUh3Qkk5WFJaVkRJNVN2cy1CVWc2eDgzaWJYY2Fnb1hVR3J3T3NHdnBoYXAxSjREV3JnVHhkQ1JLNm9nUDE4TWNyTjdwMUJmWFhmbFpON1RRVEstOTVfT2ZjT1FNZHlRZGV4NjMxajhselpkdFBqZ2pHamdFQlNVSnpJLWZK",
@@ -2038,6 +2154,23 @@
    "sentiment": 1
   },
   {
+   "id": "232533501d37",
+   "title": "英飞凌与英伟达合作开发氮化镓电源转换系统，支持800伏直流AI数据中心 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xdEZtTU1xbnBWMkF4OGxkTGliMXlUT3RHU0g3RzJ2aUI1V3FaUGJwS3JHY0JUVENaaXczS3BCQ0xGOFc4RzJmMm1HbjVoQUVObmliV1c3dG9BWm9VOVVUUHhGUFBVZw",
+   "source": "东方财富",
+   "published_at": "2026-10-21T22:56:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-21T22:56:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xdEZtTU1xbnBWMkF4OGxkTGliMXlUT3RHU0g3RzJ2aUI1V3FaUGJwS3JHY0JUVENaaXczS3BCQ0xGOFc4RzJmMm1HbjVoQUVObmliV1c3dG9BWm9VOVVUUHhGUFBVZw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
+  {
    "id": "188e1a0f9b61",
    "title": "Nvidia Embraces European Sovereignty at GTC Berlin - HPCwire",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1piUlB6Vndzc0g4dkZ6MlZOZkhfbHQtUm9JUlJ0U0JfbDhHcjRpS2w0X0N3T003UUxGYVRNbVNFT1QwRmRoVTY3ektINjB4Zi1qRUZvQ292R1hrTlVfX2x4Vm9DdkZONzR6T2ZNSDNlRkIxX1BzYTVXU1gxZkxvNkxuS1pMZWxYVm53aUttUQ",
@@ -2360,31 +2493,6 @@
    "session": "盘后",
    "zh_summary": "英伟达涨1.83%，AI模块化工厂目标14天交付",
    "title_zh": "英伟达涨1.83%，模块化AI工厂目标14天交付 - GuruFocus",
-   "sentiment": 1
-  },
-  {
-   "id": "344296702775",
-   "title": "英伟达：欧洲汽车厂商基于Hyperion平台开发自动驾驶汽车及Robotaxi - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52bkhfcDRLMHF3ejI0anAyXzVSLTFEMlFKbkZHcUU3QTM2a3Vic0Rtazc0RXRIbXF4NEZ6anNYUktlM0VDb2t1S2NKakRzekxmQnJsT0tyXzREMHpXQ3lxbTQxbjdYdw",
-   "source": "东方财富",
-   "published_at": "2026-10-21T21:01:30+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T21:01:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52bkhfcDRLMHF3ejI0anAyXzVSLTFEMlFKbkZHcUU3QTM2a3Vic0Rtazc0RXRIbXF4NEZ6anNYUktlM0VDb2t1S2NKakRzekxmQnJsT0tyXzREMHpXQ3lxbTQxbjdYdw"
-    },
-    {
-     "name": "汽车之家",
-     "published_at": "2026-10-22T01:16:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEVklDdm5ReDhxNTZhWlZwaklMa0p0RTRzZDl3MlAxNFVaa0xDV25URzJoQTNyNXJNdWtEY3dmbnZSdDQzU0liZDY3ekFGVjJwaHdRVGRhTkVHd00"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "欧车厂Hyperion平台开发Robotaxi",
-   "title_zh": "欧洲汽车厂商基于Hyperion平台开发Robotaxi",
    "sentiment": 1
   },
   {
@@ -4277,26 +4385,6 @@
    "zh_summary": "英伟达AI信念增强但竞争风险上升",
    "title_zh": "英伟达AI信念增强，但需平衡日益演变的竞争风险",
    "sentiment": 0
-  },
-  {
-   "id": "76b1ed29c403",
-   "title": "英伟达牵手金融机构组建5000亿美元融资平台，黄仁勋回应“循环融资” - 第一财经",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RdWNNRlphVkZIN1BRazZ3WWtyTThfZlExNEp3My05TDJoUUZhYk9Dei1MQzdvQ3VGdUJVLW9iQk1GNzdHelZCVkdpOTUydEtwZEg4",
-   "source": "第一财经",
-   "published_at": "2026-10-21T13:56:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "第一财经",
-     "published_at": "2026-10-21T13:56:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RdWNNRlphVkZIN1BRazZ3WWtyTThfZlExNEp3My05TDJoUUZhYk9Dei1MQzdvQ3VGdUJVLW9iQk1GNzdHelZCVkdpOTUydEtwZEg4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达组建5000亿美元融资平台",
-   "title_zh": "英伟达组建5000亿美元融资平台",
-   "sentiment": 1
   },
   {
    "id": "d749f9b5fd86",
@@ -6371,91 +6459,6 @@
    "session": "盘前",
    "zh_summary": "谷歌云亮相GTC柏林2026发布基础设施布局",
    "title_zh": "谷歌云在NVIDIA GTC柏林2026上发布基础设施布局",
-   "sentiment": 1
-  },
-  {
-   "id": "0048bbb10048",
-   "title": "Nokia and NVIDIA are helping phone networks run AI closer to users. - Stock Titan",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX2Y0R3BTQ19ySmdveEp3M3NNTF8wekpwWDBmemFPY19aM3ZmQmRWekszZG95ZkoxN0M4cVk3cGhvNEJhdTAwN0t1UVVkUEhleklBeEhzczNTZWw4XzhuX0ZaRElBanFtWkZNbFdpYVBFX2F2SkVfSHFDQ3N2a05IM3R0ekJjZ3czcVkwcHQ2S01rcU1QV244Sjh4YTIzOTNfTnJXUGFUMWZoUC1GOFdsbk5OZjhlNVk",
-   "source": "Stock Titan",
-   "published_at": "2026-10-21T11:35:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stock Titan",
-     "published_at": "2026-10-21T11:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX2Y0R3BTQ19ySmdveEp3M3NNTF8wekpwWDBmemFPY19aM3ZmQmRWekszZG95ZkoxN0M4cVk3cGhvNEJhdTAwN0t1UVVkUEhleklBeEhzczNTZWw4XzhuX0ZaRElBanFtWkZNbFdpYVBFX2F2SkVfSHFDQ3N2a05IM3R0ekJjZ3czcVkwcHQ2S01rcU1QV244Sjh4YTIzOTNfTnJXUGFUMWZoUC1GOFdsbk5OZjhlNVk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "诺基亚与英伟达让手机网络更靠近用户跑AI",
-   "title_zh": "诺基亚与英伟达让AI更靠近手机用户",
-   "sentiment": 1
-  },
-  {
-   "id": "5ef0cf510095",
-   "title": "Supermicro Brings NVIDIA Aerial RAN Computer Solutions to the Network Edge with Nokia to Enable Low-latency AI Services - PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeUIzYzZWdGgzUWxWdFJBZGJJNEhsU2N1Z1RsV2lZT0REZTZhejZGOWcwNnZqWEI1aUxVdjR4UWVZdmR2VGtYSGVEMUk2Um9XNnN3SkpscG9NemRWMThGbkpDUzNTN0xMWFd2QkpkZDFFbllmeXNfQTlZZHVRYjNEVkVCVzJybzZCZVdRUmV1Wkw1bEVCZW14eXlwbXpsaHQ1d1Q3RTFYV2tRSTJVbkc3Tm5nZ1dCRmxJZk1WVDhHZjVMb1dNTm81RVdqRU4ydDdtdEU4LVJUd3B4UU9EakozVkg5dm8tOFpycXJIU3pPV2RFdjZUNHBOMGxnVTNFTzNicDFxVjdn",
-   "source": "PR Newswire",
-   "published_at": "2026-10-21T11:35:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "PR Newswire",
-     "published_at": "2026-10-21T11:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeUIzYzZWdGgzUWxWdFJBZGJJNEhsU2N1Z1RsV2lZT0REZTZhejZGOWcwNnZqWEI1aUxVdjR4UWVZdmR2VGtYSGVEMUk2Um9XNnN3SkpscG9NemRWMThGbkpDUzNTN0xMWFd2QkpkZDFFbllmeXNfQTlZZHVRYjNEVkVCVzJybzZCZVdRUmV1Wkw1bEVCZW14eXlwbXpsaHQ1d1Q3RTFYV2tRSTJVbkc3Tm5nZ1dCRmxJZk1WVDhHZjVMb1dNTm81RVdqRU4ydDdtdEU4LVJUd3B4UU9EakozVkg5dm8tOFpycXJIU3pPV2RFdjZUNHBOMGxnVTNFTzNicDFxVjdn"
-    },
-    {
-     "name": "Supermicro",
-     "published_at": "2026-10-21T11:37:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMXd6X2M1SDNWY09KYXh5MEhFeXUwMzZMS25xLXdFUzVleGVPRE82Q1VWMnhnWTkxUGl6bVJVVzloZ0FESFc2VzR2SndXMWFiRXFRaHVOd0o1M1lLUGFTWkF1N2dfWkcydXhaTGJMUm0tdzVISDdVbklBVDZiSEtZeGRVeDJxREhoQWctSWFOR1VuakY0VFJDd2Jpc21aMEtiNDJOTUJDV3Nzb2VyQXNyTGh6RmwzX1MtQ0J5ZmJIa08wRnNLT05WUGZIWVVaTU5jMk1Xdk9IQy1pWGNpRFNnRXpYYnBSMUUtSTlVQ3IwMTlwZVBNUnBPdkhHN3FfLVd6QUVFMk5qT0tsRFVJUEE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "超微携手诺基亚将英伟达AI方案推向网络边缘",
-   "title_zh": "超微与诺基亚把NVDA Aerial方案带到网络边缘",
-   "sentiment": 1
-  },
-  {
-   "id": "466633e85193",
-   "title": "SUSE Brings Sovereign Control to Enterprise Agentic AI with NVIDIA - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dUMlR1MkJQX2hGaWQ5WlNKYzFjR25tc2hDS3k0UE9mSWZDaGRVaTNVZWJ2eC1La2hZU2pkNldTOUo5ZjBSOExPVU1hRy1oQy1VV0s1cHpsanBZemhxdUhOckM3N1FUeHRFNUJLWUdVRWpOT3A0ZHZnenBZbmRraEtSRzNGTmliLTF5dHdHelVpTG4zQXFvTVc4cVBMWm5CV2hUbDRQSQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-21T11:35:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T11:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dUMlR1MkJQX2hGaWQ5WlNKYzFjR25tc2hDS3k0UE9mSWZDaGRVaTNVZWJ2eC1La2hZU2pkNldTOUo5ZjBSOExPVU1hRy1oQy1VV0s1cHpsanBZemhxdUhOckM3N1FUeHRFNUJLWUdVRWpOT3A0ZHZnenBZbmRraEtSRzNGTmliLTF5dHdHelVpTG4zQXFvTVc4cVBMWm5CV2hUbDRQSQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "SUSE携手英伟达推主权AI",
-   "title_zh": "SUSE与英伟达为企业智能体AI带来主权控制",
-   "sentiment": 1
-  },
-  {
-   "id": "40f9749cfb94",
-   "title": "超微携手诺基亚，将英伟达Aerial RAN计算解决方案推向网络边缘，以赋能低延迟AI服务 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaERZSm9IczM3dmZWUzBiSUNoUFRYS3drQ3o2QmVDcENKUE1Kb2U3eFNqU0JhbzVDSGZRN3ZZd0hVcENFU0RJY2NnNUlNM1Rfd2FGY21DX2JRQnRvekMwYmZKMVZJdDFubjNDRWk0UHF6TFpQNEMyS2QyMW5peVBUZDJLZWxNUDlqZ2d5R3RXWkhyZWc2WGVGenVzTF9XYVg2VXI4SlFJY0U2WkplNlhn",
-   "source": "富途牛牛",
-   "published_at": "2026-10-21T11:35:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-21T11:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaERZSm9IczM3dmZWUzBiSUNoUFRYS3drQ3o2QmVDcENKUE1Kb2U3eFNqU0JhbzVDSGZRN3ZZd0hVcENFU0RJY2NnNUlNM1Rfd2FGY21DX2JRQnRvekMwYmZKMVZJdDFubjNDRWk0UHF6TFpQNEMyS2QyMW5peVBUZDJLZWxNUDlqZ2d5R3RXWkhyZWc2WGVGenVzTF9XYVg2VXI4SlFJY0U2WkplNlhn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "超微诺基亚推广英伟达边缘AI",
-   "title_zh": "超微携手诺基亚将英伟达Aerial RAN推向网络边缘",
    "sentiment": 1
   }
  ]
