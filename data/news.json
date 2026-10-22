@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T14:06:45.075172+00:00",
+ "updated_at": "2026-10-22T14:21:30.024155+00:00",
  "market": {
-  "price": 216.57,
-  "change_pct": -2.43,
+  "price": 215.58,
+  "change_pct": -2.88,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 26
   },
   "day_sentiment": {
-   "avg": 0.72,
-   "count": 165
+   "avg": 0.71,
+   "count": 167
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 69% 分位"
+     "note": "现价处于52周区间 68% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +45.4%"
+     "note": "目标价中位数 $315（16家），隐含空间 +46.1%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.72（165条已评分）"
+     "note": "今日新闻情绪 +0.71（167条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.57 vs 20日均线 $226.46"
+     "note": "现价 $215.58 vs 20日均线 $226.42"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 69,
+   "price_52w_pct": 68,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 45.4,
-   "ma20": 226.46,
-   "as_of": "2026-10-22T14:06:45.054120+00:00"
+   "implied_upside_pct": 46.1,
+   "ma20": 226.42,
+   "as_of": "2026-10-22T14:21:30.003850+00:00"
   },
-  "pe_ttm": 27.5,
+  "pe_ttm": 27.4,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e14e5fd415a1",
+   "title": "Zadara Achieves NVIDIA AI Cloud Ready Validation for Sovereign AI Infrastructure Platform - citybiz",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUlpNMTlGbEpPTk5abTkydUFOblNPX3ZSdGtZVndENzNCdzNOYm1JQ05FNjJHeGlqVTUtNTJqU3JnODRJQjVGMnQ3MGQtQ0M2aHZFTHc4OW1rQVFvWkFBYTFNRGMwNnJmamhSZnJHM0hjbk1lM1ZNLVVUS0k2SUh3SW9qTXBXVEJDcnFmTFE2enNmQkVsbzdWTmhxdzNkck9PTUdrVnFZTDBxZzNsTXEwTnRWN1hMN0FFRmlJOGNmanZfTzBacGhz",
+   "source": "citybiz",
+   "published_at": "2026-10-22T14:03:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "citybiz",
+     "published_at": "2026-10-22T14:03:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUlpNMTlGbEpPTk5abTkydUFOblNPX3ZSdGtZVndENzNCdzNOYm1JQ05FNjJHeGlqVTUtNTJqU3JnODRJQjVGMnQ3MGQtQ0M2aHZFTHc4OW1rQVFvWkFBYTFNRGMwNnJmamhSZnJHM0hjbk1lM1ZNLVVUS0k2SUh3SW9qTXBXVEJDcnFmTFE2enNmQkVsbzdWTmhxdzNkck9PTUdrVnFZTDBxZzNsTXEwTnRWN1hMN0FFRmlJOGNmanZfTzBacGhz"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
   {
    "id": "fcca717e37db",
    "title": "Nvidia, Apple, Alphabet, Microsoft, and Amazon Now Make Up 30.8% of VOO and 49.2% of VUG. Here's a Better Low-Cost Vanguard ETF to Buy Now. - The Motley Fool",
@@ -80,6 +97,40 @@
    "zh_summary": "VOO中五大科技股权重超30.8%",
    "title_zh": "五巨头占VOO三成权重，建议换购更便宜ETF",
    "sentiment": 0
+  },
+  {
+   "id": "5af2591e4295",
+   "title": "热门板块速睇：美股盘中英伟达持仓概念走弱，诺基亚领跌 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xMWZsZnI2NUFFVHhsRHhXcmdGaVFET01yU3dNcXZ6bzRxdi1qTC1VRmZEZ3VUdWpFanJROHIwQmV6dHlLR1dBbWJZWjFOZ2RT",
+   "source": "富途牛牛",
+   "published_at": "2026-10-22T14:00:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-22T14:00:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xMWZsZnI2NUFFVHhsRHhXcmdGaVFET01yU3dNcXZ6bzRxdi1qTC1VRmZEZ3VUdWpFanJROHIwQmV6dHlLR1dBbWJZWjFOZ2RT"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "979910339df9",
+   "title": "英伟达则兼济天下？ - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYm1yMHJWVFdfUFFqRnNwUmdPbXVsUUlqU1VaLTNXbU5ldXJJdXRwTzlMZzRxdVNSVm53VEMtTW5rWVhMZEh1aUdZUklEWUlYNjNJeW03aWd2bHR1aHhkelZsY3NrR3RvYjByUkdGaTZMemZBRjZmcWpUdFRORU1WTDRJUnh5dExu",
+   "source": "搜狐",
+   "published_at": "2026-10-22T13:44:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-22T13:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYm1yMHJWVFdfUFFqRnNwUmdPbXVsUUlqU1VaLTNXbU5ldXJJdXRwTzlMZzRxdVNSVm53VEMtTW5rWVhMZEh1aUdZUklEWUlYNjNJeW03aWd2bHR1aHhkelZsY3NrR3RvYjByUkdGaTZMemZBRjZmcWpUdFRORU1WTDRJUnh5dExu"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "b5c0470255c7",
@@ -1582,26 +1633,6 @@
    "sentiment": 1
   },
   {
-   "id": "70caefae6f79",
-   "title": "Watch CNBC's full interview with Nvidia CEO Jensen Huang - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2gzeXI2MmhQLWgtY0ZUZURCUXNOckJGQUxuZ0ZMZGFLOFIzUVJWbk9OX3FJVEJSYi1FRGR3TzFEeFk2bURudjZBWmZvNjcyUHgxcXBVTHdpTE55ZmlvWjA4dm9DQlJqRVRTc3lESVRkdFJoM3VfTXQwNG1pNVM3RXV3",
-   "source": "CNBC",
-   "published_at": "2026-10-22T10:23:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-22T10:23:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2gzeXI2MmhQLWgtY0ZUZURCUXNOckJGQUxuZ0ZMZGFLOFIzUVJWbk9OX3FJVEJSYi1FRGR3TzFEeFk2bURudjZBWmZvNjcyUHgxcXBVTHdpTE55ZmlvWjA4dm9DQlJqRVRTc3lESVRkdFJoM3VfTXQwNG1pNVM3RXV3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "CNBC专访英伟达CEO黄仁勋",
-   "title_zh": "CNBC完整专访英伟达CEO黄仁勋",
-   "sentiment": 0
-  },
-  {
    "id": "05d7ef685992",
    "title": "Nvidia Is Moving Deeper Into Intel, AMD Territory: Supermicro Rolls Out 256-CPU Vera Rack - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYlVNZi1uMVFOT3dmeGVuZVM0Tnk2WFN0dlZGZkRoQkVlcmQ4YnRQZ3BJNl9yNE50dDgtMXVDMFJxYmcwbUFWVmR2OGZYd1FhWG5PWERXcXMtV2RBOTlhcjc3cE8wUFFPUjZYbkFPVEJ3NS1EMUo5Ti1lQjlOVzdhNnlDRV94dm5OZXN6dHdFWXRSQV9nQzRYWGxB",
@@ -1645,6 +1676,26 @@
    "zh_summary": "超微发布256 CPU英伟达Vera机架",
    "title_zh": "超微发布256 CPU英伟达Vera机架",
    "sentiment": 1
+  },
+  {
+   "id": "70caefae6f79",
+   "title": "Watch CNBC's full interview with Nvidia CEO Jensen Huang - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2gzeXI2MmhQLWgtY0ZUZURCUXNOckJGQUxuZ0ZMZGFLOFIzUVJWbk9OX3FJVEJSYi1FRGR3TzFEeFk2bURudjZBWmZvNjcyUHgxcXBVTHdpTE55ZmlvWjA4dm9DQlJqRVRTc3lESVRkdFJoM3VfTXQwNG1pNVM3RXV3",
+   "source": "CNBC",
+   "published_at": "2026-10-22T10:14:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-22T10:14:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2gzeXI2MmhQLWgtY0ZUZURCUXNOckJGQUxuZ0ZMZGFLOFIzUVJWbk9OX3FJVEJSYi1FRGR3TzFEeFk2bURudjZBWmZvNjcyUHgxcXBVTHdpTE55ZmlvWjA4dm9DQlJqRVRTc3lESVRkdFJoM3VfTXQwNG1pNVM3RXV3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "CNBC专访英伟达CEO黄仁勋",
+   "title_zh": "CNBC完整专访英伟达CEO黄仁勋",
+   "sentiment": 0
   },
   {
    "id": "9655bb85b8fb",
@@ -4902,6 +4953,23 @@
    "sentiment": 1
   },
   {
+   "id": "712d804cdb32",
+   "title": "什么信号？亚马逊豪掷数十亿“锁”英伟达GPU 但因缺电闲置仓库！ - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MV1VfdTVFeGFpRE1ENTRWQUVMVURWNlpmNkJmbzluNloyckRMQWo5ZkVfWUVCMXVNT0R1a2p6WXFxeVZVWHpqWnl2UE5MS1ItQ1RaZGQzdlBEUDlRYzRxdA",
+   "source": "东方财富",
+   "published_at": "2026-10-21T22:49:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-21T22:49:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MV1VfdTVFeGFpRE1ENTRWQUVMVURWNlpmNkJmbzluNloyckRMQWo5ZkVfWUVCMXVNT0R1a2p6WXFxeVZVWHpqWnl2UE5MS1ItQ1RaZGQzdlBEUDlRYzRxdA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "188e1a0f9b61",
    "title": "Nvidia Embraces European Sovereignty at GTC Berlin - HPCwire",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1piUlB6Vndzc0g4dkZ6MlZOZkhfbHQtUm9JUlJ0U0JfbDhHcjRpS2w0X0N3T003UUxGYVRNbVNFT1QwRmRoVTY3ektINjB4Zi1qRUZvQ292R1hrTlVfX2x4Vm9DdkZONzR6T2ZNSDNlRkIxX1BzYTVXU1gxZkxvNkxuS1pMZWxYVm53aUttUQ",
@@ -6275,6 +6343,28 @@
    "sentiment": 1
   },
   {
+   "id": "07b42d8f632c",
+   "title": "Is It Too Late to Buy Nvidia Stock? - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWHlBd3JrdlNTZmxQWmRzYkhvczU5bnZzQ3pKamNadW92RjF3UkRldmNldm9mOUppT1htSGVhM1U0WUlJbFBJdGtfUHNiaXlDNXFDVDRTV2NXZUJXeU1UQVI0em9iUWVrSjBnM1lqS01KZW04UGVvdGU0dG9OZDNPX3QwWFdDdU9fUTZsc1Zn",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-21T16:35:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T16:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWHlBd3JrdlNTZmxQWmRzYkhvczU5bnZzQ3pKamNadW92RjF3UkRldmNldm9mOUppT1htSGVhM1U0WUlJbFBJdGtfUHNiaXlDNXFDVDRTV2NXZUJXeU1UQVI0em9iUWVrSjBnM1lqS01KZW04UGVvdGU0dG9OZDNPX3QwWFdDdU9fUTZsc1Zn"
+    },
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-21T17:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQmxXRVBjWmVxN005YnFmX1F6T2E0MUNvSmtic2hTcnRWY0ZRazN1UklIeVh3VTVtd0N2eDBrbkxaaTBhTmFmRk1iNXUzV3dXcWstSXFJRUhZTTRlOVVEX0ZMSWNHc0hoYzFlVmdPb25ZTzhaa0dKSWRYR1FtNVphNjU3WQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "2630dac0e141",
    "title": "海外研选日报1022 | 高盛称英伟达GTC强化AI部署持续推进的判断大摩预期柴油供应紧张料延续 - 财联社电报",
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02LUxYLVNSa3JsZ1VQd2ZCN2MxbkE4Z2ZaempxZnh2Z2c0aVk1cHhhc05QRGZmRTlUdHpuYmJDUmktWXo4dkE",
@@ -6298,106 +6388,6 @@
    "zh_summary": "高盛：GTC强化AI部署推进判断",
    "title_zh": "高盛称英伟达GTC强化AI部署持续推进的判断",
    "sentiment": 1
-  },
-  {
-   "id": "addb3100709a",
-   "title": "中国科技巨头350亿美元英伟达订单，折射其国产替代方案短板 - 美国之音",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVVGamdubEMydGp6RzBselRzODcxYmlocFdQMVZlU3lQSUJSNFg2TGVNQ0lELWZXSzRVVGptTWNpV2xjUXBlMWxIWTNuY25TMktrS0lxaDI5MF9XajZoYW5MTzhkOWdJYjNUYjZ6ajQ2c2NEZDVFQklQbl8wVkotNEItU3VEcEdFSGQ4MWVIaUdvbFlQZHZ6VmNqbkVOSW9aRV9zWnAtMEtzaHo0NlhZNFJ3QkFoaFZtYlpiRGZ0Y1QzTnRaU1B1SzMxaTEzTC1yaUx2Z28yUmrSAdsBQVVfeXFMTk5iN1BIMVQwa3VlWFp4SGZYYzFScUwyZ084OEhfdjhySmZ2UU95Y3VZeEI2SWxXT1ZhcVVhd0wzaEF1QlVfVWdLellYRkdSZnRFNWtuRHphUkxfanMzQk1FR2lYNXZIclUtNmpsVFVMUDZhNE1oN29tN2ZKSno0alNkZHRuWmkxVDlsMW9aTTVLckJHanpuU19URUhTa3hHOE5ieHBSSm1fVjk3eldVOXI3LTUyTkVzaDhYR3NHOTliVUgwNjBLbTJUSjhPZzlrRy12T2F5b0VpY1dN",
-   "source": "美国之音",
-   "published_at": "2026-10-21T16:31:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "美国之音",
-     "published_at": "2026-10-21T16:31:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVVGamdubEMydGp6RzBselRzODcxYmlocFdQMVZlU3lQSUJSNFg2TGVNQ0lELWZXSzRVVGptTWNpV2xjUXBlMWxIWTNuY25TMktrS0lxaDI5MF9XajZoYW5MTzhkOWdJYjNUYjZ6ajQ2c2NEZDVFQklQbl8wVkotNEItU3VEcEdFSGQ4MWVIaUdvbFlQZHZ6VmNqbkVOSW9aRV9zWnAtMEtzaHo0NlhZNFJ3QkFoaFZtYlpiRGZ0Y1QzTnRaU1B1SzMxaTEzTC1yaUx2Z28yUmrSAdsBQVVfeXFMTk5iN1BIMVQwa3VlWFp4SGZYYzFScUwyZ084OEhfdjhySmZ2UU95Y3VZeEI2SWxXT1ZhcVVhd0wzaEF1QlVfVWdLellYRkdSZnRFNWtuRHphUkxfanMzQk1FR2lYNXZIclUtNmpsVFVMUDZhNE1oN29tN2ZKSno0alNkZHRuWmkxVDlsMW9aTTVLckJHanpuU19URUhTa3hHOE5ieHBSSm1fVjk3eldVOXI3LTUyTkVzaDhYR3NHOTliVUgwNjBLbTJUSjhPZzlrRy12T2F5b0VpY1dN"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘中",
-   "zh_summary": "中企350亿美元订单暴露国产替代短板",
-   "title_zh": "中国科技巨头350亿美元英伟达订单，折射其国产替代方案短板 - 美国之音",
-   "sentiment": 1
-  },
-  {
-   "id": "212fb2d185ac",
-   "title": "NVIDIA GTC Berlin 2026 NVIDIA Intros DSX PODs and More - ServeTheHome",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmc5MjNtN1JRcWppekZDei0wVlNUb214LWdka0lrVkFMZkxzRGhIQW9vTzVqOHpEWF9hclJxazBRUnhKU1BhSFRpNXZPN3BaYnVuY3RkOVVka3hTWGljbGM3RU1MRG4tSm1xQl9kcVJ3UF9yMmNXRUozb2FXZG5rR2F6Uy1kc0VjWUI0ag",
-   "source": "ServeTheHome",
-   "published_at": "2026-10-21T16:30:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ServeTheHome",
-     "published_at": "2026-10-21T16:30:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmc5MjNtN1JRcWppekZDei0wVlNUb214LWdka0lrVkFMZkxzRGhIQW9vTzVqOHpEWF9hclJxazBRUnhKU1BhSFRpNXZPN3BaYnVuY3RkOVVka3hTWGljbGM3RU1MRG4tSm1xQl9kcVJ3UF9yMmNXRUozb2FXZG5rR2F6Uy1kc0VjWUI0ag"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达GTC柏林发布DSX POD等新品",
-   "title_zh": "英伟达GTC柏林2026发布DSX POD等新品",
-   "sentiment": 1
-  },
-  {
-   "id": "f12d5e084d27",
-   "title": "AI is building out the new Industrial Revolution: Nvidia's Jensen Huang - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGlPOXUtUGZ1dWNjS3J2OElNZTRlREg3TVFjc3lhMGFMWUlZRFRlczNycGZDd2xMZnUzZ3E3QWhzQUt5WXdsUUFQQVg5MFhFTEd2VXlLcUNoRktHVEdxWHdGRGljblpZTWN2aVpBMmFieVZXLWlydmRmajd6RHd0cV9ZOV9OcHRrNmMzT2QyTjFkUE5YQ01peXQzZVd0YXpScFczcDhyR0xtNVd4eGgxaUFOU2hhdEk",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-21T16:22:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T16:22:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGlPOXUtUGZ1dWNjS3J2OElNZTRlREg3TVFjc3lhMGFMWUlZRFRlczNycGZDd2xMZnUzZ3E3QWhzQUt5WXdsUUFQQVg5MFhFTEd2VXlLcUNoRktHVEdxWHdGRGljblpZTWN2aVpBMmFieVZXLWlydmRmajd6RHd0cV9ZOV9OcHRrNmMzT2QyTjFkUE5YQ01peXQzZVd0YXpScFczcDhyR0xtNVd4eGgxaUFOU2hhdEk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋：AI正在建设新工业革命",
-   "title_zh": "AI正在建设新的工业革命：英伟达CEO黄仁勋",
-   "sentiment": 0
-  },
-  {
-   "id": "577fa0140732",
-   "title": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE",
-   "source": "Reuters",
-   "published_at": "2026-10-21T16:21:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-21T16:21:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋称欧洲AI潜力巨大",
-   "title_zh": "黄仁勋盛赞欧洲AI潜力，机器鸭助阵",
-   "sentiment": 0
-  },
-  {
-   "id": "01f0894c9045",
-   "title": "Nvidia and Microsoft want to kill PC gaming’s shader-stutter nightmare - PCWorld",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWhaZlU4TXMtbEVNelBHa28zV2s1dkV2VVBJYTVpMmthTzR1ZmxYdUNEaHI3ajVHOUV2Y0FGRllmN1djZV9vM0hvbjdjZmIzSzRuR3k2a3hzblVqRG5fUHVIUXhqcG1feVNiMUtrX295MDhrV0xDcE9TVTU0ZFItQUVNaTZ2ZGhuNEhWSTFIS3ZoaEJua1MyNDFpVEM3OFM1Mlp3MHlMd043M1lKcHBaUmJBSm4",
-   "source": "PCWorld",
-   "published_at": "2026-10-21T16:20:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "PCWorld",
-     "published_at": "2026-10-21T16:20:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTWhaZlU4TXMtbEVNelBHa28zV2s1dkV2VVBJYTVpMmthTzR1ZmxYdUNEaHI3ajVHOUV2Y0FGRllmN1djZV9vM0hvbjdjZmIzSzRuR3k2a3hzblVqRG5fUHVIUXhqcG1feVNiMUtrX295MDhrV0xDcE9TVTU0ZFItQUVNaTZ2ZGhuNEhWSTFIS3ZoaEJua1MyNDFpVEM3OFM1Mlp3MHlMd043M1lKcHBaUmJBSm4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达微软联手优化PC游戏体验",
-   "title_zh": "英伟达与微软欲终结PC游戏卡顿噩梦",
-   "sentiment": 0
   }
  ]
 }
