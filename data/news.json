@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T00:37:35.703742+00:00",
+ "updated_at": "2026-10-22T01:06:52.293071+00:00",
  "market": {
   "price": 216.47,
   "change_pct": -0.29,
@@ -10,8 +10,8 @@
    "days_left": 27
   },
   "day_sentiment": {
-   "avg": 0.84,
-   "count": 298
+   "avg": 0.83,
+   "count": 295
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.84（298条已评分）"
+     "note": "今日新闻情绪 +0.83（295条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 15,
    "implied_upside_pct": 45.5,
    "ma20": 227.04,
-   "as_of": "2026-10-22T00:37:35.683912+00:00"
+   "as_of": "2026-10-22T01:06:52.277543+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "322d16432414",
+   "title": "传字节、阿里及腾讯 订购逾300万颗英伟达GPU - 亚洲电视新闻",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOcmlteUk1UXFYbGswd1ZhNGpwWEJwcFkweGRIbnhGaC02SGhZUVdEbG5MWEVvaGpfLWpYY3NPYkZLVU1kOFRsV05fczhCRXdPUWhfUWtyM0NqanNUY0tYVndndWRnRm1mM1pBZWFSQjB0ekJRMEZ6ekxtQVdKVEthQUgwYzg0WGoxMno5SmNEckVkdW9DNzczNlZLTDA2QjFoZlc0cE01em94U3JrZWw2Tnp6YjhYanRnSExWaFRzVFBtQnBpNkM3MXpCWTBjZl9ybG11ZGZSLVF1WTR6SzRzVGhxZDc3TjhFdWw1X21wMm16aGtFYmpQclUxUGFvTFl6T1laeGxhbzJOc0tjNzkxNURoeWk5dk05V0I2bnN5QUpHdw",
+   "source": "亚洲电视新闻",
+   "published_at": "2026-10-22T01:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "亚洲电视新闻",
+     "published_at": "2026-10-22T01:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOcmlteUk1UXFYbGswd1ZhNGpwWEJwcFkweGRIbnhGaC02SGhZUVdEbG5MWEVvaGpfLWpYY3NPYkZLVU1kOFRsV05fczhCRXdPUWhfUWtyM0NqanNUY0tYVndndWRnRm1mM1pBZWFSQjB0ekJRMEZ6ekxtQVdKVEthQUgwYzg0WGoxMno5SmNEckVkdW9DNzczNlZLTDA2QjFoZlc0cE01em94U3JrZWw2Tnp6YjhYanRnSExWaFRzVFBtQnBpNkM3MXpCWTBjZl9ybG11ZGZSLVF1WTR6SzRzVGhxZDc3TjhFdWw1X21wMm16aGtFYmpQclUxUGFvTFl6T1laeGxhbzJOc0tjNzkxNURoeWk5dk05V0I2bnN5QUpHdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "ca18333d924e",
+   "title": "英伟达黄仁勋：电信基站有望化身AI算力节点 演变为分布式AI网络 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zTFd3UW54Nlp2Qk9rWUJlNTBLNFJhbGFoQTg2RktFN05zbUs2amNTdU9rNjdWWFJ1QjNrdENrLUNsWTVFWHJGdlB1RzFQTzhGcTZYYkxXbDg",
+   "source": "驱动之家",
+   "published_at": "2026-10-22T00:49:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-22T00:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zTFd3UW54Nlp2Qk9rWUJlNTBLNFJhbGFoQTg2RktFN05zbUs2amNTdU9rNjdWWFJ1QjNrdENrLUNsWTVFWHJGdlB1RzFQTzhGcTZYYkxXbDg"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
+  {
+   "id": "9016d98a4c1d",
+   "title": "LG Innotek与英伟达共研机器人传感方案 明年CES见 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGktclBfRmd4R2VTNTM1d2ZlWUEteUo5TFE0YzBGMkszWmtPVm12dGtMWF9odUEzVkY1UVBJaUwtRktnUzdjS2ljVEJIdEJWOEY0aGp4Vm5va0ZLOGY1ank1ZXlOV2N3SndLUzNaQmw3TzI4NVJJOGdpeEJiSkpzVk9GSXBmZ2tq",
+   "source": "搜狐",
+   "published_at": "2026-10-22T00:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-22T00:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGktclBfRmd4R2VTNTM1d2ZlWUEteUo5TFE0YzBGMkszWmtPVm12dGtMWF9odUEzVkY1UVBJaUwtRktnUzdjS2ljVEJIdEJWOEY0aGp4Vm5va0ZLOGY1ank1ZXlOV2N3SndLUzNaQmw3TzI4NVJJOGdpeEJiSkpzVk9GSXBmZ2tq"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "28e1dd16718a",
    "title": "五一视界：附属公司万物镜像入选英伟达全栈安全系统生态名单 - 东方财富",
@@ -345,6 +396,23 @@
    "zh_summary": "传RTX 5090/5080将于2027年1月停产",
    "title_zh": "传英伟达敲定RTX 5090/5080停产计划，时间为2027年1月",
    "sentiment": 0
+  },
+  {
+   "id": "c23e38a3f95d",
+   "title": "亚马逊据悉提前接收英伟达AI服务器机架 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nRmVNRlJ5ZktObTRHbExNX2VCQmhBb2YyalhZRVVTdXhlVXdhSk80SmYtbmdMYnVTbWRoMjVlRE5WN2tYVjRLSGRLVGhUNVM5WjYzelpzNEViSTlqNldxUFBqZw",
+   "source": "东方财富",
+   "published_at": "2026-10-21T21:50:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-21T21:50:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nRmVNRlJ5ZktObTRHbExNX2VCQmhBb2YyalhZRVVTdXhlVXdhSk80SmYtbmdMYnVTbWRoMjVlRE5WN2tYVjRLSGRLVGhUNVM5WjYzelpzNEViSTlqNldxUFBqZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "efb5fe4da761",
@@ -2863,6 +2931,23 @@
    "zh_summary": "黄仁勋呼吁各国自建AI基础设施",
    "title_zh": "英伟达CEO呼吁各国自建AI基础设施：我是在给你们送钱",
    "sentiment": 1
+  },
+  {
+   "id": "8ab408d077a8",
+   "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0luQXBNWlFLN1BQZUc5cVpob1RHUXQ4M0N6dlpmVklsYkpJR3A0dkN3ejgtOUlfQ0MyYWRfcUExVjZPUTRHN3RtZ2RpdFVFaHJGc2p0Z1poSlFzVlBfOXdqb2k2dmswU1N3N0d0OEUyQzJUN1MydUQ1QUtpakZpUXRFZV9KZGdNdjdJSWNXLXRCM1RrMDkzLXI4SUVJSUJSc3ZRVVB3cktLcHMtbmNHRA",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-21T13:02:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-21T13:02:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0luQXBNWlFLN1BQZUc5cVpob1RHUXQ4M0N6dlpmVklsYkpJR3A0dkN3ejgtOUlfQ0MyYWRfcUExVjZPUTRHN3RtZ2RpdFVFaHJGc2p0Z1poSlFzVlBfOXdqb2k2dmswU1N3N0d0OEUyQzJUN1MydUQ1QUtpakZpUXRFZV9KZGdNdjdJSWNXLXRCM1RrMDkzLXI4SUVJSUJSc3ZRVVB3cktLcHMtbmNHRA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "36ecf2c2d00b",
@@ -6399,120 +6484,6 @@
    "session": "盘前",
    "zh_summary": "奔驰联手英伟达推L2城市智驾",
    "title_zh": "奔驰联手英伟达推L2城市智驾，2026年底德国开放",
-   "sentiment": 1
-  },
-  {
-   "id": "c2c207dc34ac",
-   "title": "英伟达联合多家供应链伙伴扩产，夯实 AI 全栈算力平台产能 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONVhJZkgxanQxUDBfODhON0lzUG1oczdIOVE4TC1oZ29sTXhrS01uRHdhX01yc1k3aVBzR1J3QmpIcXdELTZ4REFqejY3RXRReHBDV2lqWVhrdm5BUzY2UmhpRzgzTjVfUGpycHhLVVVWeDZ1LXR2M1hSRGUyYXBpc05R",
-   "source": "新浪网",
-   "published_at": "2026-10-21T10:43:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-21T10:43:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONVhJZkgxanQxUDBfODhON0lzUG1oczdIOVE4TC1oZ29sTXhrS01uRHdhX01yc1k3aVBzR1J3QmpIcXdELTZ4REFqejY3RXRReHBDV2lqWVhrdm5BUzY2UmhpRzgzTjVfUGpycHhLVVVWeDZ1LXR2M1hSRGUyYXBpc05R"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达联合供应链伙伴扩产",
-   "title_zh": "英伟达联合多家供应链伙伴扩产，夯实 AI 全栈算力平台产能",
-   "sentiment": 1
-  },
-  {
-   "id": "3eec70b8fbdf",
-   "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzc3ZkVrM1VNUndSTEE5NGl6UmRQVGdzUS1yck5nT094Y2ktNW5IZ2J1TjI3S3J6dFNqOXRacUxwR29TY19CeHpmaUFaX1RPaTNVQ0RRY3FoVjFKYVhVbWJ2Smd0TnozRWcyV2hqelBmdFRqeVFYbDBUWGNIcTMyTTQ0TEtvMnJZ",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-21T10:38:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-21T10:38:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzc3ZkVrM1VNUndSTEE5NGl6UmRQVGdzUS1yck5nT094Y2ktNW5IZ2J1TjI3S3J6dFNqOXRacUxwR29TY19CeHpmaUFaX1RPaTNVQ0RRY3FoVjFKYVhVbWJ2Smd0TnozRWcyV2hqelBmdFRqeVFYbDBUWGNIcTMyTTQ0TEtvMnJZ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达云伙伴扩张欧洲布局",
-   "title_zh": "英伟达云伙伴规模化欧洲布局，聚焦主权与安全AI",
-   "sentiment": 1
-  },
-  {
-   "id": "e5e2cea03095",
-   "title": "英伟达公司——将于2027年2月在新加坡启动大规模测试生产 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3F2WDVpOTZRRDViQXExZTUxek1HRDA3Zl9IRHJVUFViZ2Qwb2J4eXIzZXJuQTRLaTJfXzVhX0M0MXF6QUR3VDJodWROSC1veXJRYlp2RW5Yc1FiY0VjbHpSMU03c1lZaU5iUldTQnFOVHJjSkk0WTU4dXp0OTMzamYycWh1U1o4eWV6ZmFRR3B0bldEQjZVSFpybUdYb2R3QWg2T0k5cy1LQmNONmZ3S1hB",
-   "source": "富途牛牛",
-   "published_at": "2026-10-21T10:34:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-21T10:34:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3F2WDVpOTZRRDViQXExZTUxek1HRDA3Zl9IRHJVUFViZ2Qwb2J4eXIzZXJuQTRLaTJfXzVhX0M0MXF6QUR3VDJodWROSC1veXJRYlp2RW5Yc1FiY0VjbHpSMU03c1lZaU5iUldTQnFOVHJjSkk0WTU4dXp0OTMzamYycWh1U1o4eWV6ZmFRR3B0bldEQjZVSFpybUdYb2R3QWg2T0k5cy1LQmNONmZ3S1hB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达2027年2月新加坡大规模试产",
-   "title_zh": "英伟达将于2027年2月在新加坡启动大规模测试生产",
-   "sentiment": 1
-  },
-  {
-   "id": "251ef1bf0879",
-   "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout - GlobeNewswire",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdjlXRmVJdFZEa1Fibk9XVF91OFJsYm4wbTlrSWYzUERVMzRoQ25sbHVsSjRzV3Z4YUdENHZrRWIzYnRFcmUzdXlTaWo3RVl5Tkgza0xmRjZCWHNhdW9tMEpSOXJLdkV2RHU2bFI2d3YyNzJneVBBMmxoVktZalVOemt4ZS1YODhueWNHempCcGJndng1azVCU0hpcnpQc3ZCUVRzVkNMMnBXcVNwMXRNNkpOMm9BODFJTXo2NmYzcHpYV0JweTNHMzVncnQ0NzFhT2Y1alRJODFyS2NQbHRNYVc5ampsT1pPU21oc2NTMVlhdkE",
-   "source": "GlobeNewswire",
-   "published_at": "2026-10-21T10:33:24+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "GlobeNewswire",
-     "published_at": "2026-10-21T10:33:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdjlXRmVJdFZEa1Fibk9XVF91OFJsYm4wbTlrSWYzUERVMzRoQ25sbHVsSjRzV3Z4YUdENHZrRWIzYnRFcmUzdXlTaWo3RVl5Tkgza0xmRjZCWHNhdW9tMEpSOXJLdkV2RHU2bFI2d3YyNzJneVBBMmxoVktZalVOemt4ZS1YODhueWNHempCcGJndng1azVCU0hpcnpQc3ZCUVRzVkNMMnBXcVNwMXRNNkpOMm9BODFJTXo2NmYzcHpYV0JweTNHMzVncnQ0NzFhT2Y1alRJODFyS2NQbHRNYVc5ampsT1pPU21oc2NTMVlhdkE"
-    },
-    {
-     "name": "NVIDIA Newsroom",
-     "published_at": "2026-10-21T10:43:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFl2YjlqcF9vQ0s2QkdFMDBxNzdVT29ibDFOOUhxRlZhSDJmY0M4VENxOUNyLVNRdEFEcG54RkdUSHk0X2c4V0xOb1d0UmI3aHdSR0d2V0hRd2lQV0hWcXJfcU5vc0JzcUdOVzFTMl9XQjNaamF6ZTZSdWZuOU15RWVRNnBIMUh4c0ZfVy1JcDhUR0hGczl3UXBmcjc2ekxrVW9YMXdHU3lBYWZBMmxhbE5ScnFYTUhRZ0g1QjBpRmxCQQ"
-    },
-    {
-     "name": "TechPowerUp",
-     "published_at": "2026-10-21T17:49:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0oxaEZyZWJ2M2wtTFFOc1RtaVpvUEt6UldnSU1VTWt0RXRkRnJicDdic3dYUjRRNUhKQUNjQXVHMnprSm5MZk5WWFpVa0hEMUdsdjU3SXBBMDZxVDR3VFpQZ0VPMTZVYTdnLTdNWGJUdGJjQkc4ZlRnV2ROb0dHbGUwdzVrOWJKdkx6dkhnbEp3Q3JuVnhybGpsclJQV3p5SGVSMGZwSS1jLUk0d0RQa0NkQkxMWTJhb2YtMW10UXB1UdIBxwFBVV95cUxQcjBPX1YtM0wwdG1VUXNiN1B5X3JUUmRLOG1JeEZITzkwWURaOFptNENFQWZhckE5LW1acUpoX1U1d0EwcDRqMTVZY3RySF9GRnI0b3ZNRlRxYk05SmdtYkFsb3dHSnk3ZW1XclhwWHY4VlZNM29vZzUxcE16LUhZM0tWMHRrSldvSkdONzFWTWJFUURuOTNjWXMxNTB2MFpsQS0tRGJrMmxYSFJZeFRmTmpHZGhCQ0pyS3RqcnNfZDJ5Tmdkczdv"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达携供应链伙伴扩产",
-   "title_zh": "英伟达与供应链伙伴扩产，加速AI基础设施建设",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.29,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "fc7d02265e33",
-   "title": "Nvidia wants to turn Europe's telcos into sovereign AI factories - SDxCentral",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0pReUFFZ2V2X3dBTnZxWHEtOTJPb0wtSjZNOUZETGFkM2wzT3ZmUjRpUmNIZkZQZ081N0VoaWJvVmNpUEl5T1N4dlNiak9ManVqcWU2dFlEM2J3M0JZX0xWdkFERWRmMnB3NkttSlc0cGhzTG5qMlFhcXVEWVFHRG9zbnB5VHNSR1p0UEVNLVFOaEtaWlY5SldJanc",
-   "source": "SDxCentral",
-   "published_at": "2026-10-21T10:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "SDxCentral",
-     "published_at": "2026-10-21T10:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0pReUFFZ2V2X3dBTnZxWHEtOTJPb0wtSjZNOUZETGFkM2wzT3ZmUjRpUmNIZkZQZ081N0VoaWJvVmNpUEl5T1N4dlNiak9ManVqcWU2dFlEM2J3M0JZX0xWdkFERWRmMnB3NkttSlc0cGhzTG5qMlFhcXVEWVFHRG9zbnB5VHNSR1p0UEVNLVFOaEtaWlY5SldJanc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达助力欧洲电信建AI工厂",
-   "title_zh": "英伟达欲将欧洲电信运营商变为AI工厂",
    "sentiment": 1
   }
  ]
