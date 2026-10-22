@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T15:36:38.982932+00:00",
+ "updated_at": "2026-10-22T15:51:30.543642+00:00",
  "market": {
-  "price": 213.45,
-  "change_pct": -3.84,
+  "price": 213.05,
+  "change_pct": -4.02,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 26
   },
   "day_sentiment": {
-   "avg": 0.69,
-   "count": 188
+   "avg": 0.68,
+   "count": 190
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +47.6%"
+     "note": "目标价中位数 $315（16家），隐含空间 +47.9%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.69（188条已评分）"
+     "note": "今日新闻情绪 +0.68（190条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.45 vs 20日均线 $226.31"
+     "note": "现价 $213.05 vs 20日均线 $226.29"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 65,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 47.6,
-   "ma20": 226.31,
-   "as_of": "2026-10-22T15:36:38.971103+00:00"
+   "implied_upside_pct": 47.9,
+   "ma20": 226.29,
+   "as_of": "2026-10-22T15:51:30.526747+00:00"
   },
   "pe_ttm": 27.1,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.6%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b8b61398b6ae",
+   "title": "Dell unveils Nvidia Vera CPU offerings, launches its first Groq 3 LPU rack-scale inference solution - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTFo1REVFdzRxRUtOSFpjTGdZOF9oVVdZVzBiOFljclozVWNmbWdvRFN1ZXBoajRUb0kxRGppYWM3QjBUQUhadlhWZFRtSGpHc2pOdGdPd2tSbWx3RXE2Uzg4QzVnVXJ5djdPVkpKNlFudjA0VkxpeVFLM2tlb2dKc2xKb1pLTFV1LWFRRVdWeWVNTXZhZ0pWdHA4UUJZNVNSR25aMDVGa24tVVhaTDZWWHFOb2lXdlFXVXdxSW13THgxU1RTZUtmRDNoVkd1S01mcWd1U2ZWZE4tUQ",
+   "source": "Data Center Dynamics",
+   "published_at": "2026-10-22T15:44:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Dynamics",
+     "published_at": "2026-10-22T15:44:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTFo1REVFdzRxRUtOSFpjTGdZOF9oVVdZVzBiOFljclozVWNmbWdvRFN1ZXBoajRUb0kxRGppYWM3QjBUQUhadlhWZFRtSGpHc2pOdGdPd2tSbWx3RXE2Uzg4QzVnVXJ5djdPVkpKNlFudjA0VkxpeVFLM2tlb2dKc2xKb1pLTFV1LWFRRVdWeWVNTXZhZ0pWdHA4UUJZNVNSR25aMDVGa24tVVhaTDZWWHFOb2lXdlFXVXdxSW13THgxU1RTZUtmRDNoVkd1S01mcWd1U2ZWZE4tUQ"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
   {
    "id": "c86c6644de3c",
    "title": "Nvidia unveils 'Minerva' to monitor AI infrastructure - Breakingthenews.net",
@@ -80,6 +97,23 @@
    "zh_summary": "英伟达推出Minerva监控AI基础设施",
    "title_zh": "英伟达推出“Minerva”监控AI基础设施",
    "sentiment": 1
+  },
+  {
+   "id": "2f04be1ab2bd",
+   "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories - NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjdzV2VDJSdUFzSU8wcXdUQkJ5ZHd3b2laRS10SERjUWJTbWJPZkRjeGIwRVpXSkNqekZYQ08wdDZ2RWNRd3RLb3hUNnYzQmg1cTRiNnJEVTRiTTlRY0NNSmRZdmhUbnJUOFhhQTVnZw",
+   "source": "NVIDIA Blog",
+   "published_at": "2026-10-22T15:22:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Blog",
+     "published_at": "2026-10-22T15:22:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjdzV2VDJSdUFzSU8wcXdUQkJ5ZHd3b2laRS10SERjUWJTbWJPZkRjeGIwRVpXSkNqekZYQ08wdDZ2RWNRd3RLb3hUNnYzQmg1cTRiNnJEVTRiTTlRY0NNSmRZdmhUbnJUOFhhQTVnZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "7744213e075b",
@@ -560,6 +594,23 @@
    "zh_summary": "GTC柏林2026黄仁勋主题演讲直播",
    "title_zh": "GTC柏林2026：英伟达CEO黄仁勋主题演讲现场直播-人工智能 - 至顶网",
    "sentiment": 0
+  },
+  {
+   "id": "ab53f6d24628",
+   "title": "英伟达将740亿参数智能体模型压缩至24GB，可在笔记本电脑运行-模型 - 至顶网",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WWDJuamQzQWphX0RjOXBybXU3QU5sZm9CenFHVEROYnRXTGxKYTloVlBmQ0YwclFtZ3ZaZlh1MzllU1pxNV92cFNXMjZZMzNQV1FYa2xvekRXN0ZxWnBfMXJTdw",
+   "source": "至顶网",
+   "published_at": "2026-10-22T13:33:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "至顶网",
+     "published_at": "2026-10-22T13:33:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WWDJuamQzQWphX0RjOXBybXU3QU5sZm9CenFHVEROYnRXTGxKYTloVlBmQ0YwclFtZ3ZaZlh1MzllU1pxNV92cFNXMjZZMzNQV1FYa2xvekRXN0ZxWnBfMXJTdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "94b2ee27e6fa",
@@ -6331,71 +6382,6 @@
    "session": "盘中",
    "zh_summary": "英伟达要把AI做成一门制造业",
    "title_zh": "黄仁勋：英伟达要把AI做成一门制造业",
-   "sentiment": 1
-  },
-  {
-   "id": "ec7da9da03f6",
-   "title": "$英伟达(NVDA)$1981年， IBM 推出个人电脑。2007年， 苹果发布智能手机。AI也需要这样一个大单品，这... - 雪球",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13SnpBaDlyLVJMbFpIUXFXcWRvcHpHc3hBZ0FIdnFBYWFaYlNFU0NpVlFHcm1lNnZla1YyME1tSk8xSk9LeTFGdUJoWHh5Yjk5dUplY0RR",
-   "source": "雪球",
-   "published_at": "2026-10-21T18:39:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "雪球",
-     "published_at": "2026-10-21T18:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13SnpBaDlyLVJMbFpIUXFXcWRvcHpHc3hBZ0FIdnFBYWFaYlNFU0NpVlFHcm1lNnZla1YyME1tSk8xSk9LeTFGdUJoWHh5Yjk5dUplY0RR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "雪球：AI也需要一个大单品",
-   "title_zh": "AI也需要这样一个大单品",
-   "sentiment": 1
-  },
-  {
-   "id": "119967797eb1",
-   "title": "Klique Announces Expanded Integrations with NVIDIA to Accelerate Enterprise AI Workflows and Optimize GPU Utilization - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmJKR2E3aDZrMU0yajlFcG5HTy14aGpBLWZTTEQtUjF2dGpLRF9YbUM5U09aVnVvTjlESF9kX2JnM2NHcENjYVpxanMxeUw4QXFhRTdZREZ6eFFycVVmaXNWUU8wa01jRlRham5WbUtCSlJnSGNObmdBcVJoWGRFWjlSbzRfeFN4U0ZBR1IzdjVIOXVVUXVhWkpR",
-   "source": "Yahoo! Finance Canada",
-   "published_at": "2026-10-21T18:35:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-21T18:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmJKR2E3aDZrMU0yajlFcG5HTy14aGpBLWZTTEQtUjF2dGpLRF9YbUM5U09aVnVvTjlESF9kX2JnM2NHcENjYVpxanMxeUw4QXFhRTdZREZ6eFFycVVmaXNWUU8wa01jRlRham5WbUtCSlJnSGNObmdBcVJoWGRFWjlSbzRfeFN4U0ZBR1IzdjVIOXVVUXVhWkpR"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "Klique深化与英伟达整合",
-   "title_zh": "Klique宣布深化与英伟达整合，加速企业AI工作流",
-   "sentiment": 1
-  },
-  {
-   "id": "98eb6337733d",
-   "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkFJdXAzQlduVjl6alhDSmJkdlc3N1dnUUhRai1jVWNKSU56OFc1U0tfa1NUeW1WejltYmRjV1hHMzJ4dmtCYkpTV21XTTZNaEgwVWdJMWVIS21tTE15S1E2SDItT0pvdU1LaGdEOGdHeHU1azdzbHUyc2VhMUltcXZBV283WHZaLXNmSHFKc0p4MTkwWHBQa3NwNnc2R2hhNEpoQzFpZmV6OVM1cUJNZA",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-21T18:34:40+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-21T18:34:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkFJdXAzQlduVjl6alhDSmJkdlc3N1dnUUhRai1jVWNKSU56OFc1U0tfa1NUeW1WejltYmRjV1hHMzJ4dmtCYkpTV21XTTZNaEgwVWdJMWVIS21tTE15S1E2SDItT0pvdU1LaGdEOGdHeHU1azdzbHUyc2VhMUltcXZBV283WHZaLXNmSHFKc0p4MTkwWHBQa3NwNnc2R2hhNEpoQzFpZmV6OVM1cUJNZA"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T18:52:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTk2bk5OR04zTEswTm94YUMzejFSRmk0aUJhRHdITjJGcWVMVm5LR0RtZ2F0aHEzdUR6N0t6TVFxOFBtNTZPUHY0Q0VOWC1PMmNmRk5BcjhDUUZOUFEzdUhzbS01VDFFQ3VYQUhBZG9xS0xxcVNMeDJPbmNVUFhYR0pCQVB0dG1GeEtmN0owWmM4YjI3OHFLTm5R"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘中",
-   "zh_summary": "ASML消息支持英伟达股价",
-   "title_zh": "ASML的好消息让英伟达和美光投资者振奋",
    "sentiment": 1
   }
  ]
