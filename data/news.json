@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T22:36:29.325958+00:00",
+ "updated_at": "2026-10-22T22:51:33.668113+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -10,8 +10,8 @@
    "days_left": 26
   },
   "day_sentiment": {
-   "avg": 0.61,
-   "count": 273
+   "avg": 0.6,
+   "count": 274
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.61（273条已评分）"
+     "note": "今日新闻情绪 +0.60（274条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-22T22:36:29.308238+00:00"
+   "as_of": "2026-10-22T22:51:33.655538+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "f81a8ddbcf7c",
+   "title": "SpaceX联手英伟达、阿波罗等130家公司推出合作伙伴计划，部署并改进Grok AI系统 - 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fQ3hfTnpkVnhnaExNX05iM0RSOGtrS3JjeHZONXhzMk40Q2xiS3pPOFZjMV9MX3B3RlE5X0JCZGo0V1gtQWgyU096OXpPWUxULWc",
+   "source": "凤凰网",
+   "published_at": "2026-10-22T22:34:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-22T22:34:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fQ3hfTnpkVnhnaExNX05iM0RSOGtrS3JjeHZONXhzMk40Q2xiS3pPOFZjMV9MX3B3RlE5X0JCZGo0V1gtQWgyU096OXpPWUxULWc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "5bb4cf8232f1",
    "title": "Grok加速商业化：SpaceX联合英伟达等打造AI合作网络 - 东方财富",
@@ -6391,26 +6408,6 @@
    "session": "盘后",
    "zh_summary": "五一视界51Sim加入英伟达Halos生态",
    "title_zh": "五一视界51Sim加入英伟达Halos SAFE生态",
-   "sentiment": 1
-  },
-  {
-   "id": "fe75ac642b95",
-   "title": "Humanoid robot cuts model processing delay 8x with NVIDIA tech in internal tests - Interesting Engineering",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGtRVWY4NWtkTVlhcEtSU211eE0xaklIMzFPckhMQW9EM0w3UXB4bWZxVXpOZjJuZEpUeUtTYU1xZXJ4Z2MxVUE5RDFJRG0xODAtZlJ2TkhJQ2MyYlRUbTQ3WnUtTk5aOV8wbjM4TFc5dF9UOGljUVVKd2stY2Y5NXBaREp1UzJ5WHItd29OWHQ4WWdYNXVqMldB",
-   "source": "Interesting Engineering",
-   "published_at": "2026-10-22T02:06:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Interesting Engineering",
-     "published_at": "2026-10-22T02:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGtRVWY4NWtkTVlhcEtSU211eE0xaklIMzFPckhMQW9EM0w3UXB4bWZxVXpOZjJuZEpUeUtTYU1xZXJ4Z2MxVUE5RDFJRG0xODAtZlJ2TkhJQ2MyYlRUbTQ3WnUtTk5aOV8wbjM4TFc5dF9UOGljUVVKd2stY2Y5NXBaREp1UzJ5WHItd29OWHQ4WWdYNXVqMldB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达技术助机器人提速8倍",
-   "title_zh": "人形机器人采用英伟达技术内部测试提速8倍",
    "sentiment": 1
   }
  ]
