@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T15:51:30.543642+00:00",
+ "updated_at": "2026-10-22T16:06:49.234696+00:00",
  "market": {
-  "price": 213.05,
-  "change_pct": -4.02,
+  "price": 213.46,
+  "change_pct": -3.83,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 26
   },
   "day_sentiment": {
-   "avg": 0.68,
-   "count": 190
+   "avg": 0.69,
+   "count": 193
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +47.9%"
+     "note": "目标价中位数 $315（16家），隐含空间 +47.6%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.68（190条已评分）"
+     "note": "今日新闻情绪 +0.69（193条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.05 vs 20日均线 $226.29"
+     "note": "现价 $213.46 vs 20日均线 $226.31"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 65,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 47.9,
-   "ma20": 226.29,
-   "as_of": "2026-10-22T15:51:30.526747+00:00"
+   "implied_upside_pct": 47.6,
+   "ma20": 226.31,
+   "as_of": "2026-10-22T16:06:49.216498+00:00"
   },
   "pe_ttm": 27.1,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.6%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "2a3ea882dbd3",
+   "title": "Siemens Healthineers, Nvidia launch radiotherapy AI collaboration - MassDevice",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeW56bjNCNW5WdXBWSG5NZjhlMHV0YW80a2tBbWN1QjlEQmRHcmstSTViV1RoOEI1WjB3eWNzV2xEVWtWWHBFT2xWRDg3blNkXzlscjBTRzlFaXhHVHlGZnRTWGRrcFA0WVZWTjJJLXRTMDFXT0Y5SHlfa1c0SjFoeEgwT29fTG03VElIbzRETnJxVmZ1LXZR",
+   "source": "MassDevice",
+   "published_at": "2026-10-22T16:00:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MassDevice",
+     "published_at": "2026-10-22T16:00:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeW56bjNCNW5WdXBWSG5NZjhlMHV0YW80a2tBbWN1QjlEQmRHcmstSTViV1RoOEI1WjB3eWNzV2xEVWtWWHBFT2xWRDg3blNkXzlscjBTRzlFaXhHVHlGZnRTWGRrcFA0WVZWTjJJLXRTMDFXT0Y5SHlfa1c0SjFoeEgwT29fTG03VElIbzRETnJxVmZ1LXZR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "7302d79a3eb4",
+   "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters - The Verge",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0hxeEo0VVdfWjZ2Mkh6QTJWZU05RU9rY3lUamNCVkprTGRHak9XR3hkSEIwSnRSVWRFZHpkS3ZxNWpPTURvOTA4amZGdjIzcXFpN1N6QlhZbG8tb0J0ZXk5OXJ4MGdrbGUzblowaHVPUVpQZXZSb1pBeG9BSlhkX1FnbjZuTTg",
+   "source": "The Verge",
+   "published_at": "2026-10-22T15:50:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Verge",
+     "published_at": "2026-10-22T15:50:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0hxeEo0VVdfWjZ2Mkh6QTJWZU05RU9rY3lUamNCVkprTGRHak9XR3hkSEIwSnRSVWRFZHpkS3ZxNWpPTURvOTA4amZGdjIzcXFpN1N6QlhZbG8tb0J0ZXk5OXJ4MGdrbGUzblowaHVPUVpQZXZSb1pBeG9BSlhkX1FnbjZuTTg"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "1459b0f74833",
+   "title": "SpaceX Works With Apollo, Nvidia on New Grok Partnership Program - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNEM3cUxUNzF4cHR5V2Y2SU1keG1JNVFjZFMwUThCS1hPOWI2RmgzN1pLbTNUSnBEMGFIZkl1Z1BNV2RUUkEzUnJDc3JPSmJ1V0NuWDh3dkdYcnVPYkFCMjQyZkRMV3ZrcTZNRnM5V3hQdVI4c2YtMXhzZDNKaVZXVHVTQ0dpQUtfalprWnJWdVBxOUJscUd6OWdCUzZpV05yQkVobDhhSzAtTThfVEVrUUl5Mm0",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-22T15:47:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-22T15:47:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNEM3cUxUNzF4cHR5V2Y2SU1keG1JNVFjZFMwUThCS1hPOWI2RmgzN1pLbTNUSnBEMGFIZkl1Z1BNV2RUUkEzUnJDc3JPSmJ1V0NuWDh3dkdYcnVPYkFCMjQyZkRMV3ZrcTZNRnM5V3hQdVI4c2YtMXhzZDNKaVZXVHVTQ0dpQUtfalprWnJWdVBxOUJscUd6OWdCUzZpV05yQkVobDhhSzAtTThfVEVrUUl5Mm0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "b8b61398b6ae",
    "title": "Dell unveils Nvidia Vera CPU offerings, launches its first Groq 3 LPU rack-scale inference solution - Data Center Dynamics",
@@ -100,6 +151,23 @@
    "zh_summary": "英伟达推出Minerva监控AI基础设施",
    "title_zh": "英伟达推出“Minerva”监控AI基础设施",
    "sentiment": 1
+  },
+  {
+   "id": "05cb33921d27",
+   "title": "红帽与英伟达扩大合作，共同保护自主AI智能体安全-AI基础设施 - 至顶网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpTURXSnlUbXpBelJCOGJlNEp2OFg3bVpuZUNERDN6MGdaSFFQVENPM01YVU02WnhoaHJhMUxsZDdpakF5a1MtMnFsYjYxTjFZZ0VrUkRjbzhBNTF1TUZpTHZUd1lqR3h2VDZQV3F4MEoydw",
+   "source": "至顶网",
+   "published_at": "2026-10-22T15:23:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "至顶网",
+     "published_at": "2026-10-22T15:23:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpTURXSnlUbXpBelJCOGJlNEp2OFg3bVpuZUNERDN6MGdaSFFQVENPM01YVU02WnhoaHJhMUxsZDdpakF5a1MtMnFsYjYxTjFZZ0VrUkRjbzhBNTF1TUZpTHZUd1lqR3h2VDZQV3F4MEoydw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "2f04be1ab2bd",
@@ -6189,6 +6257,23 @@
    "sentiment": -1
   },
   {
+   "id": "98eb6337733d",
+   "title": "ASML Has Incredible News for Nvidia Stock and Micron Stock Investors - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkFJdXAzQlduVjl6alhDSmJkdlc3N1dnUUhRai1jVWNKSU56OFc1U0tfa1NUeW1WejltYmRjV1hHMzJ4dmtCYkpTV21XTTZNaEgwVWdJMWVIS21tTE15S1E2SDItT0pvdU1LaGdEOGdHeHU1azdzbHUyc2VhMUltcXZBV283WHZaLXNmSHFKc0p4MTkwWHBQa3NwNnc2R2hhNEpoQzFpZmV6OVM1cUJNZA",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-21T19:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-21T19:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkFJdXAzQlduVjl6alhDSmJkdlc3N1dnUUhRai1jVWNKSU56OFc1U0tfa1NUeW1WejltYmRjV1hHMzJ4dmtCYkpTV21XTTZNaEgwVWdJMWVIS21tTE15S1E2SDItT0pvdU1LaGdEOGdHeHU1azdzbHUyc2VhMUltcXZBV283WHZaLXNmSHFKc0p4MTkwWHBQa3NwNnc2R2hhNEpoQzFpZmV6OVM1cUJNZA"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘中"
+  },
+  {
    "id": "67ec02af10cd",
    "title": "英伟达、诺基亚与全球主要电信运营商推动通信网络转型为分布式智能平台 - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4weTJ6dlVzSU1FZG43TWlSc205T0NqOGFvNEZ0aHdCcW54a3RGRmpfYnZHelhyNXlMSHRWQmx2RGhyVEgwS3AyNnc3dTNuWHpCNlFGWllDMnFreWFadWRucUFZdw",
@@ -6286,111 +6371,6 @@
    "session": "盘中",
    "zh_summary": "英伟达开放模型，柏林卖基础设施",
    "title_zh": "英伟达10月15日开放模型，柏林21日卖基础设施",
-   "sentiment": 1
-  },
-  {
-   "id": "8a8da453aa38",
-   "title": "Nvidia Expands Deals with Six Chip Component Suppliers - The Information",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU2lZNDdNTjA2WnRNR041MzRJU1BlaDlRS0p2d2M4TlZmSEpZNDYwMzByZHVsbjhNZjBhOUlMaFpjeWtTSE1qNWVabjJnSGxtRUVjNVJYN0NaTGNqUXJVRFd1NjJmdzhRaHVvUVpncnBpQlpOdEswVi0wRHJmQWRrVXNqbnJCTkNQbGEwaE82bjlVUW1m",
-   "source": "The Information",
-   "published_at": "2026-10-21T18:53:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Information",
-     "published_at": "2026-10-21T18:53:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU2lZNDdNTjA2WnRNR041MzRJU1BlaDlRS0p2d2M4TlZmSEpZNDYwMzByZHVsbjhNZjBhOUlMaFpjeWtTSE1qNWVabjJnSGxtRUVjNVJYN0NaTGNqUXJVRFd1NjJmdzhRaHVvUVpncnBpQlpOdEswVi0wRHJmQWRrVXNqbnJCTkNQbGEwaE82bjlVUW1m"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达扩大与六家供应商合作",
-   "title_zh": "英伟达与六家芯片零部件供应商扩大合作",
-   "sentiment": 1
-  },
-  {
-   "id": "9676eaa320fe",
-   "title": "NVDA Stock Rebounds Above $220 as Amazon Buys Billions in Nvidia Chips but Electricity Constraints Threaten Returns - FXLeaders",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYXNzU0dBY2tOR0QxT0IxZWd4QkVYdFhETmFIdGgtUWlCRmtNcGtibGZHUnFLMVNKWjFqdFZQRFNGLWktSkJzdlF6a01nc0MycVM4M09WOVhIRVJMWERuQWFfRWNhSmNLdnFaVWpZZEJjUkJiQmR6cURnMm1URURGai10Tk1kbnRFSnNpNm91SUlIYVh4TjZkeG1XdklDZlo4Zkp6MGlnNlYzSk5QYW9HQTRhdGZ5STZzUm5Jazg3VU9fUXZ2dG1ZZzNZUFdPWlk2REp1bURlaUF2Y2Zubjc0Wk1IeGN6Z3V1OWFkSXpR",
-   "source": "FXLeaders",
-   "published_at": "2026-10-21T18:50:43+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "FXLeaders",
-     "published_at": "2026-10-21T18:50:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYXNzU0dBY2tOR0QxT0IxZWd4QkVYdFhETmFIdGgtUWlCRmtNcGtibGZHUnFLMVNKWjFqdFZQRFNGLWktSkJzdlF6a01nc0MycVM4M09WOVhIRVJMWERuQWFfRWNhSmNLdnFaVWpZZEJjUkJiQmR6cURnMm1URURGai10Tk1kbnRFSnNpNm91SUlIYVh4TjZkeG1XdklDZlo4Zkp6MGlnNlYzSk5QYW9HQTRhdGZ5STZzUm5Jazg3VU9fUXZ2dG1ZZzNZUFdPWlk2REp1bURlaUF2Y2Zubjc0Wk1IeGN6Z3V1OWFkSXpR"
-    },
-    {
-     "name": "FX Leaders",
-     "published_at": "2026-10-22T06:12:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZnRPcFV6emNIM2NaMmtzc0NoT0NOb3JxQll1UXM3U1lSTks3dk5iWEkzM1RwNjZqREJzQlZwZEdqdjZjZVhxczVOelJnQkd6V1pqeG1zUW96WDFSUG1lb3IxcndoNTFXY0JOeXZmd3NkYUZOd3hyXzNKRVlTZjN6Y0I2ZTdvNFowLWNRaWg3Y0FGV3Q0X2syaFVjRFhBdURlWXVpOEhLYTZpdHVtWjFtMERfdGJuMHlZcEhsRVlJa3ZLQlFOTVc3dVNob0ZuakE5NEE5V3RfMlloY1dPSno5bGhiYm10ZG9zR3hDdUhtSQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "亚马逊数十亿购芯片，NVDA反弹",
-   "title_zh": "亚马逊斥资数十亿采购英伟达芯片，NVDA反弹至220美元上方",
-   "sentiment": 1
-  },
-  {
-   "id": "4cf9d8ccfdf4",
-   "title": "This is the way to deploy the latest Nvidia technology 'much faster': Nvidia partner - Fox Business",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DMEpscXF2R3B6OGN2UGcxRm1veUtVeUxIUTJTRlFMcWhUd1pNTUc2RmtRbUhTUVdqaWNWMi1WYzRIU3lOczVIUjd4NDB1bGhJTnYwZG44ZVAyQlU",
-   "source": "Fox Business",
-   "published_at": "2026-10-21T18:45:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Fox Business",
-     "published_at": "2026-10-21T18:45:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DMEpscXF2R3B6OGN2UGcxRm1veUtVeUxIUTJTRlFMcWhUd1pNTUc2RmtRbUhTUVdqaWNWMi1WYzRIU3lOczVIUjd4NDB1bGhJTnYwZG44ZVAyQlU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "合作伙伴称英伟达技术部署将更快",
-   "title_zh": "英伟达合作伙伴：新技术部署将更快",
-   "sentiment": 1
-  },
-  {
-   "id": "6bed7693fcb4",
-   "title": "Nvidia’s $1.1 Billion KYEC Deal Is the Small Number in a $279 Billion Supply Bet - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTVkzTm9raWlWZUF5ZDNnbHViRkl2WUhobkZKbUJDYlppTVNhZWx3Rk9SNVhibHhXQ3EydDJTU2VMNXJYbnBMSFNTcFBNT1AtYW44bW5GaGRVRWF4Rjl3eWlhOWR0cUI0TDNpT3hsUGdXUDZxUXFSN0lxT0FyXzhqRDE4ckI2NHdpNml6ejA5a1hsZw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-21T18:45:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T18:45:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTVkzTm9raWlWZUF5ZDNnbHViRkl2WUhobkZKbUJDYlppTVNhZWx3Rk9SNVhibHhXQ3EydDJTU2VMNXJYbnBMSFNTcFBNT1AtYW44bW5GaGRVRWF4Rjl3eWlhOWR0cUI0TDNpT3hsUGdXUDZxUXFSN0lxT0FyXzhqRDE4ckI2NHdpNml6ejA5a1hsZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "11亿美元KYEC交易，供应链大扩张",
-   "title_zh": "英伟达11亿美元KYEC交易，背后是2790亿供应链赌注",
-   "sentiment": 1
-  },
-  {
-   "id": "69080dde6aa0",
-   "title": "黄仁勋柏林GTC再画大饼？英伟达要把AI做成一门制造业 - 36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05cmxxb2hSQ2R5bmNQUDdJYWU0LVh6RXJzX1dOUWNfRVhjaDFMQ0ZfUndMQzVhcjlfemsxMElmYU92VFdMcVJuZndwOUZ4dw",
-   "source": "36Kr",
-   "published_at": "2026-10-21T18:43:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-21T18:43:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05cmxxb2hSQ2R5bmNQUDdJYWU0LVh6RXJzX1dOUWNfRVhjaDFMQ0ZfUndMQzVhcjlfemsxMElmYU92VFdMcVJuZndwOUZ4dw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达要把AI做成一门制造业",
-   "title_zh": "黄仁勋：英伟达要把AI做成一门制造业",
    "sentiment": 1
   }
  ]
