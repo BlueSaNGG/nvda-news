@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T11:51:26.050395+00:00",
+ "updated_at": "2026-10-22T12:06:41.456361+00:00",
  "market": {
   "price": 221.97,
   "change_pct": 2.54,
@@ -10,8 +10,8 @@
    "days_left": 26
   },
   "day_sentiment": {
-   "avg": 0.76,
-   "count": 118
+   "avg": 0.7,
+   "count": 124
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.76（118条已评分）"
+     "note": "今日新闻情绪 +0.70（124条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 41.9,
    "ma20": 226.87,
-   "as_of": "2026-10-22T11:51:26.038868+00:00"
+   "as_of": "2026-10-22T12:06:41.442429+00:00"
   },
   "pe_ttm": 28.2,
   "pe_pct_5y": 25,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "98eabd78655e",
+   "title": "US firm taps NVIDIA stacks for 50% gain in quantum error decoding - Interesting Engineering",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVGlxSkhKOWNDS2dLbmd0MmJGdWtNUzlERUFvakIxOHcxZXNBUjluYVdVcFlYcVhwY3g1Tk8zamtrZ28yQmtWNGF6NWh2QUEwNzRsbmxjaVNfZFYwamtHLXRrQ0dPOTNocURDR0FVMHpKV0ltRW5mOG9MS2dKVFd1LW5rN3BVcjFsZlpMbFFsMA",
+   "source": "Interesting Engineering",
+   "published_at": "2026-10-22T12:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Interesting Engineering",
+     "published_at": "2026-10-22T12:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVGlxSkhKOWNDS2dLbmd0MmJGdWtNUzlERUFvakIxOHcxZXNBUjluYVdVcFlYcVhwY3g1Tk8zamtrZ28yQmtWNGF6NWh2QUEwNzRsbmxjaVNfZFYwamtHLXRrQ0dPOTNocURDR0FVMHpKV0ltRW5mOG9MS2dKVFd1LW5rN3BVcjFsZlpMbFFsMA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "1dd4308f1d29",
+   "title": "How NVIDIA, Teradyne & Sereact Are Scaling Physical AI - AI Magazine",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzkzc3otcWhReHRKWEJRZWZQUEQwM193U1lrSTJyaG11aHpHdi0tUWNuY2JoNVEwX3I3S1NGNlRNVDBtZHdZY1NGTzdzakpPLXg3VTBkVFZyWGFFU1pSVjZjUlhGa0ZrWDBzOFRlLWxKX1dpdVFSSzZLZ1dDRWpEdHR3dlB4QQ",
+   "source": "AI Magazine",
+   "published_at": "2026-10-22T11:52:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "AI Magazine",
+     "published_at": "2026-10-22T11:52:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzkzc3otcWhReHRKWEJRZWZQUEQwM193U1lrSTJyaG11aHpHdi0tUWNuY2JoNVEwX3I3S1NGNlRNVDBtZHdZY1NGTzdzakpPLXg3VTBkVFZyWGFFU1pSVjZjUlhGa0ZrWDBzOFRlLWxKX1dpdVFSSzZLZ1dDRWpEdHR3dlB4QQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "130a62f2e4cc",
+   "title": "三星电机与特斯拉、英伟达共建FC-BGA产线 合计出资3.7万亿韩元 - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nTnNwbzF0Wm9weEhwM25JdkZpNFNiU2JNTFBBUWd1ZlFKdFpJX1VFRTdqVXYxeWZLcEFMYU8yYTBkZVlaal9WLXBwem15YzVKM0sxVzIwZnJhTWQ3d1JtRDdB",
+   "source": "观点网",
+   "published_at": "2026-10-22T11:51:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-22T11:51:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nTnNwbzF0Wm9weEhwM25JdkZpNFNiU2JNTFBBUWd1ZlFKdFpJX1VFRTdqVXYxeWZLcEFMYU8yYTBkZVlaal9WLXBwem15YzVKM0sxVzIwZnJhTWQ3d1JtRDdB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "b1e37d90ec11",
    "title": "减少对英伟达的依赖，DeepSeek携手华为 - IDNFinancials",
@@ -1089,26 +1140,6 @@
    "session": "盘前",
    "zh_summary": "WSJ：特斯拉、Meta、英伟达等值得关注",
    "title_zh": "WSJ：特斯拉、Meta、英伟达、黑石值得关注",
-   "sentiment": 0
-  },
-  {
-   "id": "9ba7af3155f8",
-   "title": "前英伟达高管转型VC：物理AI正处于\"乐高时代\" - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNHRiS2VsaHMwVFY3TWdWRkhhejJMMl9GNGV2WURfNW9hMGhMRUhQTU9WU285MVhGRjRPeHpTWFk2VjgzU05CSHFWamh0dEsyTXExTU9MSWtCRDh0X0tLVGQ1MjViTnBiU1FybjRvMnhGdTFoaVJQcFRxRTBWV2VvYThpenpzOHFS",
-   "source": "搜狐",
-   "published_at": "2026-10-22T09:11:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T09:11:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNHRiS2VsaHMwVFY3TWdWRkhhejJMMl9GNGV2WURfNW9hMGhMRUhQTU9WU285MVhGRjRPeHpTWFk2VjgzU05CSHFWamh0dEsyTXExTU9MSWtCRDh0X0tLVGQ1MjViTnBiU1FybjRvMnhGdTFoaVJQcFRxRTBWV2VvYThpenpzOHFS"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "前英伟达高管转型VC谈物理AI",
-   "title_zh": "前英伟达高管转型VC：物理AI正处于\"乐高时代\" - 搜狐",
    "sentiment": 0
   },
   {
@@ -2311,6 +2342,31 @@
    "zh_summary": "英伟达强攻全球运营商，深圳公司首发6G算力基站",
    "title_zh": "英伟达强攻全球运营商，深圳公司首发6G算力基站",
    "sentiment": 1
+  },
+  {
+   "id": "9ba7af3155f8",
+   "title": "前英伟达高管转型VC：物理AI正处于\"乐高时代\" - 至顶网",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RbEVVQVBqeEFpaGVZR1BoQ3pnVWRySjZGY2ExbFpZeHpHNVp4c2RoQXNna05UWlFNNDRYaWRBMThaTEhnbUJfX21wT2p0RENCUkJTVl8xaUFmZldCTHhfXy1ZYzFpcjgySmc",
+   "source": "至顶网",
+   "published_at": "2026-10-22T06:03:40+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "至顶网",
+     "published_at": "2026-10-22T06:03:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RbEVVQVBqeEFpaGVZR1BoQ3pnVWRySjZGY2ExbFpZeHpHNVp4c2RoQXNna05UWlFNNDRYaWRBMThaTEhnbUJfX21wT2p0RENCUkJTVl8xaUFmZldCTHhfXy1ZYzFpcjgySmc"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-22T09:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNHRiS2VsaHMwVFY3TWdWRkhhejJMMl9GNGV2WURfNW9hMGhMRUhQTU9WU285MVhGRjRPeHpTWFk2VjgzU05CSHFWamh0dEsyTXExTU9MSWtCRDh0X0tLVGQ1MjViTnBiU1FybjRvMnhGdTFoaVJQcFRxRTBWV2VvYThpenpzOHFS"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "前英伟达高管转型VC谈物理AI",
+   "title_zh": "前英伟达高管转型VC：物理AI正处于\"乐高时代\" - 搜狐",
+   "sentiment": 0
   },
   {
    "id": "5af6a067cbc0",
@@ -6318,71 +6374,6 @@
    "session": "盘中",
    "zh_summary": "英伟达发布AI智能体安全架构",
    "title_zh": "英伟达发布可阻止AI智能体越界的安全架构",
-   "sentiment": 1
-  },
-  {
-   "id": "54644f63bd8c",
-   "title": "盘前上涨超2%！英伟达：正向全栈AI基础设施提供商转型 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlUDlxd0lsalhLQ1RWNGMzaDNheWdzbEd4dUNqeS1iN1lzbHRZNF9DQllFUFV6R1V5NjI5UjY0Nzl0bG56QXpvNFo0eVhEQ3I4ZUd6WFAwTUMwZ2pOa016eHRGU29rQQ",
-   "source": "东方财富",
-   "published_at": "2026-10-21T13:49:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T13:49:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlUDlxd0lsalhLQ1RWNGMzaDNheWdzbEd4dUNqeS1iN1lzbHRZNF9DQllFUFV6R1V5NjI5UjY0Nzl0bG56QXpvNFo0eVhEQ3I4ZUd6WFAwTUMwZ2pOa016eHRGU29rQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达盘前涨超2%，正向全栈AI基建提供商转型",
-   "title_zh": "盘前上涨超2%！英伟达：正向全栈AI基础设施提供商转型 - 东方财富",
-   "sentiment": 1
-  },
-  {
-   "id": "6b03197be752",
-   "title": "英伟达联合思灵推出人形机器人参考平台Agile ONE SN，计划2027年初上市 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWI1bDNBYjAtdmJCWmxJQTJnRVdBZl9oR2hRMC1Tb1NRNmNxd1RtemdLNkVXbEdNT2laLWZ4aUF5VmVVa0NrWXZtZFZIdGpOQnBRenlCNjZIcERBWmFEQWNBa1c0My1ZNWFrcmo4ODRRYXlNN0RjeE1BSzFiSmhXUkp1Sk9JSzYx",
-   "source": "搜狐",
-   "published_at": "2026-10-21T13:49:39+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-21T13:49:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWI1bDNBYjAtdmJCWmxJQTJnRVdBZl9oR2hRMC1Tb1NRNmNxd1RtemdLNkVXbEdNT2laLWZ4aUF5VmVVa0NrWXZtZFZIdGpOQnBRenlCNjZIcERBWmFEQWNBa1c0My1ZNWFrcmo4ODRRYXlNN0RjeE1BSzFiSmhXUkp1Sk9JSzYx"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-21T14:01:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Gdm5QQnY4TDd0aUc4V19xSjRjUVAxVjdxR05vQ2ZMd0lMc2tPWUVZWnRITlhRdXNRc0ZwU1hSZDJjRHI4ZkFiR3dhLU8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达联合思灵推人形机器人平台",
-   "title_zh": "英伟达联合思灵推人形机器人平台Agile ONE SN",
-   "sentiment": 1
-  },
-  {
-   "id": "1794e97610b1",
-   "title": "NVIDIA (NVDA) Leverages AI Growth to Expand Its Autonomous Driving Opportunity - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQS1Yczc4QnhSUFFxa3ZVWkxoN0F2NGVPWFJSUWRQbnBEU2VCZmhqQjNadVgxVUtJSy1QWVJzODBLY2pCNEVhRllCcDdENG92dDBnNmY1TzlQVFE5UVdfYVY4NjQwZy0tbGNKQWlqcWZjdDkxUlNhb1MycTlGZ0pTdEZmZ2FsQUhna1BPcTEtYVRkWkJDVnR4RlBfQQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-21T13:47:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T13:47:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQS1Yczc4QnhSUFFxa3ZVWkxoN0F2NGVPWFJSUWRQbnBEU2VCZmhqQjNadVgxVUtJSy1QWVJzODBLY2pCNEVhRllCcDdENG92dDBnNmY1TzlQVFE5UVdfYVY4NjQwZy0tbGNKQWlqcWZjdDkxUlNhb1MycTlGZ0pTdEZmZ2FsQUhna1BPcTEtYVRkWkJDVnR4RlBfQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达拓展自动驾驶机遇",
-   "title_zh": "英伟达(NVDA)借AI增长拓展自动驾驶机会",
    "sentiment": 1
   }
  ]
