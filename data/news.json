@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T19:36:29.979146+00:00",
+ "updated_at": "2026-10-22T19:51:30.230333+00:00",
  "market": {
-  "price": 211.81,
-  "change_pct": -4.58,
+  "price": 212.07,
+  "change_pct": -4.46,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.62,
-   "count": 252
+   "count": 256
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +48.7%"
+     "note": "目标价中位数 $315（16家），隐含空间 +48.5%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.62（252条已评分）"
+     "note": "今日新闻情绪 +0.62（256条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $211.81 vs 20日均线 $226.23"
+     "note": "现价 $212.07 vs 20日均线 $226.24"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 63,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 48.7,
-   "ma20": 226.23,
-   "as_of": "2026-10-22T19:36:29.966125+00:00"
+   "implied_upside_pct": 48.5,
+   "ma20": 226.24,
+   "as_of": "2026-10-22T19:51:30.220878+00:00"
   },
-  "pe_ttm": 26.9,
-  "pe_pct_5y": 20,
-  "valuation_sentence": "现价处5年P/E 20%分位，目标价隐含+48.7%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.0,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "0837909235b4",
+   "title": "NetBox Labs Announces Partnerships With Nvidia and Grafana Labs - Built In",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUJzVXZTZU1qc3RhYnhab05KQmhKQm1Xak44Uk9SYTZUUW0xTTN1Nlh0VkdPc00tczQteGs2ZHJYeTVObjRoTDFOVi1OUGVpc093RHl3NnU3ckJkRk1HSXR6UXphWk5YakhSTGthNk1uemFUMWYzWXhaUWhJQ0FBMU5hZEJtSHVjdnc",
+   "source": "Built In",
+   "published_at": "2026-10-22T19:39:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Built In",
+     "published_at": "2026-10-22T19:39:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUJzVXZTZU1qc3RhYnhab05KQmhKQm1Xak44Uk9SYTZUUW0xTTN1Nlh0VkdPc00tczQteGs2ZHJYeTVObjRoTDFOVi1OUGVpc093RHl3NnU3ckJkRk1HSXR6UXphWk5YakhSTGthNk1uemFUMWYzWXhaUWhJQ0FBMU5hZEJtSHVjdnc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "2630dac0e141",
    "title": "海外研选日报1022 | 高盛称英伟达GTC强化AI部署持续推进的判断大摩预期柴油供应紧张料延续 - 财联社",
@@ -227,12 +244,17 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYkEtRUtNVDJuRDM5bWFneGppWW0wT0hUWkZnM1NsTklVMmdxdnQ5ekU3U015SU9jWS0zQVV1dW5FejlPZXM4WjN3X1QyZ2dBTkNrNFZXeHpKaVBESnN3TkVVRW1QVzNyS25XaWtZd3VXMzBIcGlIOTFhb2ptR3U4bDByaWd4M3hPdjNzbTVXWkt1bk5sOEttTm1ETW5OSDhyUkVnMUl2bENOZlJKY1VWTElIOG9lanlZWGM5N2tJUkk",
    "source": "TradingView",
    "published_at": "2026-10-22T18:55:48+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "TradingView",
      "published_at": "2026-10-22T18:55:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYkEtRUtNVDJuRDM5bWFneGppWW0wT0hUWkZnM1NsTklVMmdxdnQ5ekU3U015SU9jWS0zQVV1dW5FejlPZXM4WjN3X1QyZ2dBTkNrNFZXeHpKaVBESnN3TkVVRW1QVzNyS25XaWtZd3VXMzBIcGlIOTFhb2ptR3U4bDByaWd4M3hPdjNzbTVXWkt1bk5sOEttTm1ETW5OSDhyUkVnMUl2bENOZlJKY1VWTElIOG9lanlZWGM5N2tJUkk"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-22T18:55:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGZIS2JmQmlPaXRGSmZYRkt3ZmxLeUNxc0Q3Qi1VOVdDaG1ZaExzaVNnZGdySDh0VklzeGhNTWE0T09iaTNzakF3a2xZM09xbWhzVTJqa1ZScTZPSzZpb0RxMi1jMm40ZVRUSFFYLXhiYUx2clhpYXVzRGhwak9teENtU01ZeUViU2xELS00blQ"
     }
    ],
    "category": "其他",
@@ -860,6 +882,23 @@
    "zh_summary": "英伟达与西门子医疗合作AI放疗",
    "title_zh": "英伟达与西门子医疗合作推出AI放疗项目",
    "sentiment": 1
+  },
+  {
+   "id": "85b13fe88fd6",
+   "title": "NVIDIA’s 12VHPWR Power Connector Has Boosted The Livelihood Of Repaired Technicians; One Shop Received Eight RTX 5090 & RTX 4090 GPUs In Two Days - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEFhOC03bXJ5WlVYQTk1b08xaUlGTkRjcXdhOGZ3WVZfWEZET1NBT1FjbnNIa21wZ283MmZhVnY0RWNYOHBLUlJtbzFSb3dJTlZGYW52TEZ1VDdMZTZNNTcxVTNHZDJxRC1BLV92LWE0YmZjZ3Q0ZURGTDVwZ2poa1g0WkpENC11dGp30gGQAUFVX3lxTFBPdnBNN0dnZUpRS3V2aXUyWDVobFhtSXlJdW8yeWZCR3FhbWZtZnFCdnhqTkRIMmh1RlZhdW9TLTJsZWVBcXV3OVdPcGJMN0R5MldtdDVHTF92S3daVkJ3YTB4Wk44MGZKdkFEWlg3N1d1SjVmRnppU3Zad1ZXelNBSk9IZFlzY3RIZllQME0yZA",
+   "source": "Wccftech",
+   "published_at": "2026-10-22T15:57:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-22T15:57:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEFhOC03bXJ5WlVYQTk1b08xaUlGTkRjcXdhOGZ3WVZfWEZET1NBT1FjbnNIa21wZ283MmZhVnY0RWNYOHBLUlJtbzFSb3dJTlZGYW52TEZ1VDdMZTZNNTcxVTNHZDJxRC1BLV92LWE0YmZjZ3Q0ZURGTDVwZ2poa1g0WkpENC11dGp30gGQAUFVX3lxTFBPdnBNN0dnZUpRS3V2aXUyWDVobFhtSXlJdW8yeWZCR3FhbWZtZnFCdnhqTkRIMmh1RlZhdW9TLTJsZWVBcXV3OVdPcGJMN0R5MldtdDVHTF92S3daVkJ3YTB4Wk44MGZKdkFEWlg3N1d1SjVmRnppU3Zad1ZXelNBSk9IZFlzY3RIZllQME0yZA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "7302d79a3eb4",
@@ -3130,12 +3169,17 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zMHowSkZZWGM3RzZ6UEx4MzRaVzNYdUxHQll1RHF3ajIwVzkzUlNWSnR0eGtWLXJFS1pDUHBKU1JhQ3JsM3RIdEI3aUI",
    "source": "凤凰网科技",
    "published_at": "2026-10-22T10:58:22+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "凤凰网科技",
      "published_at": "2026-10-22T10:58:22+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zMHowSkZZWGM3RzZ6UEx4MzRaVzNYdUxHQll1RHF3ajIwVzkzUlNWSnR0eGtWLXJFS1pDUHBKU1JhQ3JsM3RIdEI3aUI"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-22T10:58:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN3d2U0dPblN0VFQ0bld1SnVPM05UYjFuM1NOZEdWQWdpRGhSSmxLOHFId3VtN2RhX200QklfSVhMMGNVQllvSE1ubGhSR0hueEh5cXN0WVg5cFBLdmZ4aG5uTHRXYzdxT0hYaF81MlNVSnNYXzE1dGE1dFBsOWw4a3pVVFBxdmZy"
     }
    ],
    "category": "其他",
@@ -3773,6 +3817,23 @@
    "sentiment": -1
   },
   {
+   "id": "28e1dd16718a",
+   "title": "五一视界：附属公司万物镜像入选英伟达全栈安全系统生态名单 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51TDZxRkJnX0MzWTgyMWJQU1k3bE1fNS1MaERXdVNEWTZ6NnZXdXFkVV94elJ3dlhfWkFyVTI0UllQQy1Nc3M5dk9JSHRjYmVJQW9nS3RkU0szQWpLbUNoN0RzbTZOZw",
+   "source": "东方财富",
+   "published_at": "2026-10-22T09:25:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-22T09:25:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51TDZxRkJnX0MzWTgyMWJQU1k3bE1fNS1MaERXdVNEWTZ6NnZXdXFkVV94elJ3dlhfWkFyVTI0UllQQy1Nc3M5dk9JSHRjYmVJQW9nS3RkU0szQWpLbUNoN0RzbTZOZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "0d9c17e307fb",
    "title": "Stocks to Watch: Tesla, Meta, Nvidia, Blackstone - WSJ",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSDMxaFBUN1cwV3hlZlQ0LXlzQXUzY3NSQlc2d3pXdVZDelJYU2pxOUUyZXVqRnJqbGxpYWlmNUs2SVlfVWR4b0c3M3QtSmItN3FTU2NieEhiV2RSZG1ScG5Pck9CaEFzb0swNUdacXZPODctMkdYSFB1bUx1eU9KMGRtOFcwcnUyWlNDRVpKNFEtZWdud3FvUTJkd050dEtrcDlpYTFaMU5IRU9QQ0dBcExjUGlxUzQtdzFpejdaMDJNVWxsSkFTbTRkTFRZMEJVRHhfdmdLbGwzTml2blRHV3ZfcG9OQQ",
@@ -3791,6 +3852,23 @@
    "zh_summary": "WSJ：特斯拉、Meta、英伟达等值得关注",
    "title_zh": "WSJ：特斯拉、Meta、英伟达、黑石值得关注",
    "sentiment": 0
+  },
+  {
+   "id": "ba4c33a6b37c",
+   "title": "Watch Nvidia's Huang Says Neoclouds Are 'Good Investment' - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOFJTWXNXLUNDVW1uVWl4M1pydGNpbm9CWG11bnozVFlHRTZmYVo2X01UMml2NzNJRG9MeHdmZ0NmWDRXcVhyU1c4UDBrTXRnRnNleTl0VDdzMzFMZHIzdlhndm5oSG5iLURvTENiNnBXMGR0dThXTkw4bnlfeXZpNkU1TTZXYVN2M2Nodk5wZzB0NkNaWXo1a0VSQVB3UGFRXzU5TG52SQ",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-22T09:23:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-22T09:23:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOFJTWXNXLUNDVW1uVWl4M1pydGNpbm9CWG11bnozVFlHRTZmYVo2X01UMml2NzNJRG9MeHdmZ0NmWDRXcVhyU1c4UDBrTXRnRnNleTl0VDdzMzFMZHIzdlhndm5oSG5iLURvTENiNnBXMGR0dThXTkw4bnlfeXZpNkU1TTZXYVN2M2Nodk5wZzB0NkNaWXo1a0VSQVB3UGFRXzU5TG52SQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "b370a159cc17",
@@ -6312,86 +6390,6 @@
    "session": "盘后",
    "zh_summary": "英伟达携手供应链伙伴扩产应对AI需求",
    "title_zh": "英伟达携手供应链伙伴扩产 应对AI需求激增",
-   "sentiment": 1
-  },
-  {
-   "id": "322d16432414",
-   "title": "传字节、阿里及腾讯 订购逾300万颗英伟达GPU - 亚洲电视新闻",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOcmlteUk1UXFYbGswd1ZhNGpwWEJwcFkweGRIbnhGaC02SGhZUVdEbG5MWEVvaGpfLWpYY3NPYkZLVU1kOFRsV05fczhCRXdPUWhfUWtyM0NqanNUY0tYVndndWRnRm1mM1pBZWFSQjB0ekJRMEZ6ekxtQVdKVEthQUgwYzg0WGoxMno5SmNEckVkdW9DNzczNlZLTDA2QjFoZlc0cE01em94U3JrZWw2Tnp6YjhYanRnSExWaFRzVFBtQnBpNkM3MXpCWTBjZl9ybG11ZGZSLVF1WTR6SzRzVGhxZDc3TjhFdWw1X21wMm16aGtFYmpQclUxUGFvTFl6T1laeGxhbzJOc0tjNzkxNURoeWk5dk05V0I2bnN5QUpHdw",
-   "source": "亚洲电视新闻",
-   "published_at": "2026-10-22T01:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "亚洲电视新闻",
-     "published_at": "2026-10-22T01:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOcmlteUk1UXFYbGswd1ZhNGpwWEJwcFkweGRIbnhGaC02SGhZUVdEbG5MWEVvaGpfLWpYY3NPYkZLVU1kOFRsV05fczhCRXdPUWhfUWtyM0NqanNUY0tYVndndWRnRm1mM1pBZWFSQjB0ekJRMEZ6ekxtQVdKVEthQUgwYzg0WGoxMno5SmNEckVkdW9DNzczNlZLTDA2QjFoZlc0cE01em94U3JrZWw2Tnp6YjhYanRnSExWaFRzVFBtQnBpNkM3MXpCWTBjZl9ybG11ZGZSLVF1WTR6SzRzVGhxZDc3TjhFdWw1X21wMm16aGtFYmpQclUxUGFvTFl6T1laeGxhbzJOc0tjNzkxNURoeWk5dk05V0I2bnN5QUpHdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "传字节阿里腾讯订购超300万颗英伟达GPU",
-   "title_zh": "传字节、阿里及腾讯 订购逾300万颗英伟达GPU",
-   "sentiment": 1
-  },
-  {
-   "id": "38db09eb2306",
-   "title": "太敢玩了！英伟达把算力集群做成预制菜，14天就能上线产Token？ - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdExnajFwcDNOV3BmWmJmcHFiOEpncWxsamVUVmdFQVNUWWtXSTBXMzhuYzBXOVczdmVscTVTODJ2Y19BZnliN0pzeThWQ0J6MVRsSFI2c243eUxDNE9GUlRhUnFIcFI3YktSRkJCR196eFVsMXBzdER1ejdyRXk1M01VVnhUcDFRUFBYcA",
-   "source": "搜狐",
-   "published_at": "2026-10-22T00:58:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T00:58:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdExnajFwcDNOV3BmWmJmcHFiOEpncWxsamVUVmdFQVNUWWtXSTBXMzhuYzBXOVczdmVscTVTODJ2Y19BZnliN0pzeThWQ0J6MVRsSFI2c243eUxDNE9GUlRhUnFIcFI3YktSRkJCR196eFVsMXBzdER1ejdyRXk1M01VVnhUcDFRUFBYcA"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "英伟达推出14天可部署的算力集群",
-   "title_zh": "太敢玩了！英伟达把算力集群做成预制菜，14天就能上线产Token？ - 搜狐",
-   "sentiment": 1
-  },
-  {
-   "id": "eb66fc01c797",
-   "title": "Why AI Chip Stocks Nvidia, Broadcom, and Micron Are Down in Overnight Trading — and What Wall Street Expects Next - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQenF6T3lvR3IyV0FrNzVVQjVTOGlDRkV0RGdocm5pQUhkVmpwbDUyRy1lOHFSRE50Y0d2WGpxUmtmN2dwb2lHVnkxZ0JSUklqX1FReXdZVmdiY1ZkM0dVTG9WZURXcDk2OW1MbzE1Ym9ybllrRnBLT0JtYTUzbUdnbEZqOEdpbDhONUxmZjluenp6Rm1WSGNTZ2toTUlfVlhJSTRQbnRvbG1JVlRFSC1ra054OXpPRXFGbzdmU0xZNGJtVDhUdDJHWERSYkpzYVo3TTZnLUh3",
-   "source": "TipRanks",
-   "published_at": "2026-10-22T00:55:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-22T00:55:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQenF6T3lvR3IyV0FrNzVVQjVTOGlDRkV0RGdocm5pQUhkVmpwbDUyRy1lOHFSRE50Y0d2WGpxUmtmN2dwb2lHVnkxZ0JSUklqX1FReXdZVmdiY1ZkM0dVTG9WZURXcDk2OW1MbzE1Ym9ybllrRnBLT0JtYTUzbUdnbEZqOEdpbDhONUxmZjluenp6Rm1WSGNTZ2toTUlfVlhJSTRQbnRvbG1JVlRFSC1ra054OXpPRXFGbzdmU0xZNGJtVDhUdDJHWERSYkpzYVo3TTZnLUh3"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "AI芯片股英伟达等隔夜走低",
-   "title_zh": "AI芯片股英伟达博通美光隔夜走低，华尔街有何预期",
-   "sentiment": -1
-  },
-  {
-   "id": "3f44d6666c12",
-   "title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain - The Register",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYm1pNjFiby1OTHR1Q2pYa2YzTE9rXzAzVnNSR2RIZENqNWVjSGJzcVQ2WG1BTVRDWHJxVXVYcndIVVp2dzV1MFh4U0w3Qll0WVdUaTM4ZnlxLUdJZzRFaUh3Qkk5WFJaVkRJNVN2cy1CVWc2eDgzaWJYY2Fnb1hVR3J3T3NHdnBoYXAxSjREV3JnVHhkQ1JLNm9nUDE4TWNyTjdwMUJmWFhmbFpON1RRVEstOTVfT2ZjT1FNZHlRZGV4NjMxajhselpkdFBqZ2pHamdFQlNVSnpJLWZK",
-   "source": "The Register",
-   "published_at": "2026-10-22T00:54:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Register",
-     "published_at": "2026-10-22T00:54:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYm1pNjFiby1OTHR1Q2pYa2YzTE9rXzAzVnNSR2RIZENqNWVjSGJzcVQ2WG1BTVRDWHJxVXVYcndIVVp2dzV1MFh4U0w3Qll0WVdUaTM4ZnlxLUdJZzRFaUh3Qkk5WFJaVkRJNVN2cy1CVWc2eDgzaWJYY2Fnb1hVR3J3T3NHdnBoYXAxSjREV3JnVHhkQ1JLNm9nUDE4TWNyTjdwMUJmWFhmbFpON1RRVEstOTVfT2ZjT1FNZHlRZGV4NjMxajhselpkdFBqZ2pHamdFQlNVSnpJLWZK"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘后",
-   "zh_summary": "英伟达出资加固供应链应对GPU需求",
-   "title_zh": "英伟达撒钱加固供应链，满足GPU需求",
    "sentiment": 1
   }
  ]
