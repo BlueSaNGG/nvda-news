@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T19:06:30.715595+00:00",
+ "updated_at": "2026-10-22T19:21:33.245045+00:00",
  "market": {
-  "price": 211.64,
-  "change_pct": -4.65,
+  "price": 212.36,
+  "change_pct": -4.33,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 26
   },
   "day_sentiment": {
-   "avg": 0.64,
-   "count": 236
+   "avg": 0.63,
+   "count": 249
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 63% 分位"
+     "note": "现价处于52周区间 64% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +48.8%"
+     "note": "目标价中位数 $315（16家），隐含空间 +48.3%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.64（236条已评分）"
+     "note": "今日新闻情绪 +0.63（249条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $211.64 vs 20日均线 $226.22"
+     "note": "现价 $212.36 vs 20日均线 $226.25"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 63,
+   "price_52w_pct": 64,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 48.8,
-   "ma20": 226.22,
-   "as_of": "2026-10-22T19:06:30.704082+00:00"
+   "implied_upside_pct": 48.3,
+   "ma20": 226.25,
+   "as_of": "2026-10-22T19:21:33.237486+00:00"
   },
-  "pe_ttm": 26.9,
-  "pe_pct_5y": 20,
-  "valuation_sentence": "现价处5年P/E 20%分位，目标价隐含+48.8%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.0,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "9416d4e56f4b",
+   "title": "OpenAI, Anthropic, and Nvidia Spent Combined $7.5 Million On Lobbying in Q3 - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkxTaTJZNUhvbWZXU0dvQzdpUlR4OE50X01yQnNndnc1VjZyYVhDTVZrWlZrRTkzOXNjMUdLR3Y2NVU2ZVhEb3B0OWZmWWt1aWEtUVJaU2pUSk9ETTliN0JZN0lSa2lTRW9Oakl1UWZzbFR4U08zbWhqT1p0TllxcDhJeFhJUC1ZYlJoVjZwUUloc21WWUdyaWFFNkhKSFVLZWNuVQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-22T19:11:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-22T19:11:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkxTaTJZNUhvbWZXU0dvQzdpUlR4OE50X01yQnNndnc1VjZyYVhDTVZrWlZrRTkzOXNjMUdLR3Y2NVU2ZVhEb3B0OWZmWWt1aWEtUVJaU2pUSk9ETTliN0JZN0lSa2lTRW9Oakl1UWZzbFR4U08zbWhqT1p0TllxcDhJeFhJUC1ZYlJoVjZwUUloc21WWUdyaWFFNkhKSFVLZWNuVQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "da8e401bd913",
    "title": "Nvidia pitches AI factories as GPUs sit idle - VentureBeat",
@@ -187,12 +204,17 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KaGZvR1REYTRDMzNoLXBkY1lqWGxRT3ZpaFhpQXJpV1lXMEhycGVYLVJoTVZyUXZGaXh1UEdwZ3JCOG9ReVYyaHVqcFdrUy0tVi1RbXlQbTA3LUcxQmpMZF9ETHVVem9SSTNkOUJfRi1GZzlOTTB3bW5WTUM",
    "source": "新浪财经",
    "published_at": "2026-10-22T18:42:16+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-22T18:42:16+00:00",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KaGZvR1REYTRDMzNoLXBkY1lqWGxRT3ZpaFhpQXJpV1lXMEhycGVYLVJoTVZyUXZGaXh1UEdwZ3JCOG9ReVYyaHVqcFdrUy0tVi1RbXlQbTA3LUcxQmpMZF9ETHVVem9SSTNkOUJfRi1GZzlOTTB3bW5WTUM"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-22T18:49:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTBTYi1RX0NJVnNienpPSF8xUHlpSGwyci1CUF9iMjdlekVOcTBIYTBjS3RDYTZpVTZZT3ZPZGRsSEFlbFZwUjBjT3Y2aUM2bE11YW1MNHZxTWtNbHZmYmtBWmVIZGZQS09kQ3VFT0FlZUluWkJZbGtvR0VHTzNvdWxjZU0zLVRGTEpsNQ"
     }
    ],
    "category": "供应链",
@@ -220,6 +242,23 @@
    "zh_summary": "奔驰与英伟达扩大自动驾驶合作",
    "title_zh": "奔驰与英伟达扩大自动驾驶合作协议",
    "sentiment": 1
+  },
+  {
+   "id": "3c93e201a4fe",
+   "title": "Nvidia CEO Sounds the Alarm on Shortage of Capital - Cheddar",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3hndlFORnhscHM2Z29lemdFREFsUkxOcTFSX2JOR1o1cjFSc1JXbUUyQXRfWjdtenR1SzR2Ym9NNnFaQmtoZERjcWxFSmtXM1hia0Q4MjIzeVlzUTlKUUpEbF9hMGI4THJQTmhuTE1IQUhoY01zRW05X1JwckVLTHlqQ3N2ZHhM",
+   "source": "Cheddar",
+   "published_at": "2026-10-22T18:22:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Cheddar",
+     "published_at": "2026-10-22T18:22:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM3hndlFORnhscHM2Z29lemdFREFsUkxOcTFSX2JOR1o1cjFSc1JXbUUyQXRfWjdtenR1SzR2Ym9NNnFaQmtoZERjcWxFSmtXM1hia0Q4MjIzeVlzUTlKUUpEbF9hMGI4THJQTmhuTE1IQUhoY01zRW05X1JwckVLTHlqQ3N2ZHhM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "94716c9f26aa",
@@ -1880,6 +1919,23 @@
    "zh_summary": "DSX POD发布后股价或低估21%",
    "title_zh": "Simply Wall Street：DSX POD发布后英伟达或低估21%",
    "sentiment": 1
+  },
+  {
+   "id": "396520652df9",
+   "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw",
+   "source": "财联社",
+   "published_at": "2026-10-22T12:33:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-22T12:33:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "1c73ad9e9080",
@@ -6324,80 +6380,6 @@
    "zh_summary": "万物镜像入选英伟达全栈安全生态",
    "title_zh": "五一视界：附属公司万物镜像入选英伟达全栈安全系统生态名单 - 东方财富",
    "sentiment": 1
-  },
-  {
-   "id": "c3de6341c029",
-   "title": "最多可节电30%！英伟达亮出液冷黑科技 行业Q4迎来关键验证期 - 中金在线",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ncW1jLUVTMGpiSHFrNDBidzIydGwwbWZWTGVQdE16MndhSE96b3ZsbGdCTEI0X280bnZyampOUWNyWXJWQ0lkRXQyTDhkVU1sNTdJbWxrTjFsNmFlLWZKbzBXbEN5bXlDR1c3ZjZkcE96UQ",
-   "source": "中金在线",
-   "published_at": "2026-10-22T00:24:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "中金在线",
-     "published_at": "2026-10-22T00:24:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ncW1jLUVTMGpiSHFrNDBidzIydGwwbWZWTGVQdE16MndhSE96b3ZsbGdCTEI0X280bnZyampOUWNyWXJWQ0lkRXQyTDhkVU1sNTdJbWxrTjFsNmFlLWZKbzBXbEN5bXlDR1c3ZjZkcE96UQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达液冷技术最多可节电30%",
-   "title_zh": "最多可节电30%！英伟达亮出液冷黑科技 行业Q4迎来关键验证期 - 中金在线",
-   "sentiment": 1
-  },
-  {
-   "id": "349220784567",
-   "title": "T早报｜英伟达出资推动上游扩产；OpenAI模型将登陆谷歌云；豆包手机助手限制金融类App自动操作 - 财新",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Zb2lGdzRGWUpCeS00YlQ2dGhrUzdIREk5cFlXT0U2RmFCR0hBRS1ObVJVSjNiUkxhYUdxNGFBcWprdXAzcXNfWVNIMUdmUFAwY2dNdXU5el9TUU1yaHZ2dFJIMW0",
-   "source": "财新",
-   "published_at": "2026-10-22T00:21:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财新",
-     "published_at": "2026-10-22T00:21:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Zb2lGdzRGWUpCeS00YlQ2dGhrUzdIREk5cFlXT0U2RmFCR0hBRS1ObVJVSjNiUkxhYUdxNGFBcWprdXAzcXNfWVNIMUdmUFAwY2dNdXU5el9TUU1yaHZ2dFJIMW0"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "英伟达出资推动上游扩产",
-   "title_zh": "英伟达出资推动上游扩产；OpenAI模型登陆谷歌云",
-   "sentiment": 1
-  },
-  {
-   "id": "09ff5b98c2c3",
-   "title": "英伟达推出AI工厂运维平台Minerva 可每小时分析数十亿个数据点 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wVVF0UmNoNnN2dDJwdGg2cE5xNTdUUDR6MGM5bW1ESVdqeGVWb1NGVERvQjgzTWFmZVJzVnZHMk4wNGloa29NcFN1LUZkRVE0TXc2VnF5ampHeVZrbjhlQk1GNA",
-   "source": "东方财富",
-   "published_at": "2026-10-22T00:20:36+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-22T00:20:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wVVF0UmNoNnN2dDJwdGg2cE5xNTdUUDR6MGM5bW1ESVdqeGVWb1NGVERvQjgzTWFmZVJzVnZHMk4wNGloa29NcFN1LUZkRVE0TXc2VnF5ampHeVZrbjhlQk1GNA"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-22T15:11:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeS1yc3FyaW1ZM19wUjl4VGZCbVM3SjR1QXNOTlpOM2VYTDJBeTZhRDd2d2lSelVzRWN1Xy1jM1lTdS1QWkNEb1hhMWNkeXhiRjU0YVMtU0VnV1VGVDdiRXRSYzBNWE1KTlYxNjF0OGYyMFgyMDJnaklMblRSMUZNVg"
-    },
-    {
-     "name": "财联社",
-     "published_at": "2026-10-22T15:10:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDbEpOaGdSSWtWLXBkM1pHNGZBdHJCVWRsaTJpVW9ycHRkOXFfZ1NQSVlaeUlyYlpNM3BKUnpBWjczTjFXUFlqNA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达推出AI工厂运维平台Minerva",
-   "title_zh": "英伟达推出AI工厂运维平台Minerva",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -2.41,
-    "window_h": 2.0
-   }
   }
  ]
 }
