@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T14:21:30.024155+00:00",
+ "updated_at": "2026-10-22T14:36:30.800905+00:00",
  "market": {
-  "price": 215.58,
-  "change_pct": -2.88,
+  "price": 214.44,
+  "change_pct": -3.39,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 26
   },
   "day_sentiment": {
-   "avg": 0.71,
-   "count": 167
+   "avg": 0.7,
+   "count": 170
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 68% 分位"
+     "note": "现价处于52周区间 67% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +46.1%"
+     "note": "目标价中位数 $315（16家），隐含空间 +46.9%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.71（167条已评分）"
+     "note": "今日新闻情绪 +0.70（170条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $215.58 vs 20日均线 $226.42"
+     "note": "现价 $214.44 vs 20日均线 $226.36"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 68,
+   "price_52w_pct": 67,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 46.1,
-   "ma20": 226.42,
-   "as_of": "2026-10-22T14:21:30.003850+00:00"
+   "implied_upside_pct": 46.9,
+   "ma20": 226.36,
+   "as_of": "2026-10-22T14:36:30.783738+00:00"
   },
-  "pe_ttm": 27.4,
+  "pe_ttm": 27.3,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "92b9c1d58fc1",
+   "title": "NVIDIA Corporation (NVDA) Remains a Key AI Growth Driver Despite Benchmark Headwinds - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVdHR2hGTWJjT2pSVUV3YUM3cUhBeHFlejVVUkdmM05DUHNsLVBVWk5mX2VqSFVQWmpMMnFVN0dmb3F6bUlXTW5CUGxXX0RGYmplbnNXVEJpQ0J2bllqU1RTdzFFa2M4bFlSeFctUTR5ODBjNTRXX25iOEFNRDJUTFFtdHF2cEE5b3R1QlFfbGd3VmJTN0pQYnJ4NllsWWFC",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-22T14:25:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-22T14:25:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVdHR2hGTWJjT2pSVUV3YUM3cUhBeHFlejVVUkdmM05DUHNsLVBVWk5mX2VqSFVQWmpMMnFVN0dmb3F6bUlXTW5CUGxXX0RGYmplbnNXVEJpQ0J2bllqU1RTdzFFa2M4bFlSeFctUTR5ODBjNTRXX25iOEFNRDJUTFFtdHF2cEE5b3R1QlFfbGd3VmJTN0pQYnJ4NllsWWFC"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "e1b712964241",
+   "title": "SEEQC Reports Faster Quantum Error-Correction Decoding with NVIDIA Ising - HPCwire",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzlVQnpTVkJNT2VSQ21QVHhMM2F4TWZxVG9PZ1hHemhxYXpZU3VVUVd0U3doMnRqYk1HT3ZDQnBjaDB0MkNMd045MDJHbDh4aTJYcHhoR2ZubzdRVHdDS19COVBlcFZCM2RCZUt4WFEtWlFSaFE4T29welB5QVRwVVFIa3cwdG1pZDlpT1htUTZBcXVTVi0tck1vbzdtazRqUkRKTnZKaVVLRDQyUjlJ",
+   "source": "HPCwire",
+   "published_at": "2026-10-22T14:16:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "HPCwire",
+     "published_at": "2026-10-22T14:16:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzlVQnpTVkJNT2VSQ21QVHhMM2F4TWZxVG9PZ1hHemhxYXpZU3VVUVd0U3doMnRqYk1HT3ZDQnBjaDB0MkNMd045MDJHbDh4aTJYcHhoR2ZubzdRVHdDS19COVBlcFZCM2RCZUt4WFEtWlFSaFE4T29welB5QVRwVVFIa3cwdG1pZDlpT1htUTZBcXVTVi0tck1vbzdtazRqUkRKTnZKaVVLRDQyUjlJ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "e14e5fd415a1",
    "title": "Zadara Achieves NVIDIA AI Cloud Ready Validation for Sovereign AI Infrastructure Platform - citybiz",
@@ -1057,6 +1091,23 @@
    "sentiment": -1
   },
   {
+   "id": "afe782dc444f",
+   "title": "西门子和英伟达宣布达成工业人工智能操作系统合作协议。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RVU05aGs3X3RBV3o1QVlWd2JoMkgwZERkNWpWQ2o0TkZHQWJlTEZNd0VMdVAwN0N2R0JtZExRTko2ZktvYjdsbVNGOA",
+   "source": "手机新浪网",
+   "published_at": "2026-10-22T11:29:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-22T11:29:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RVU05aGs3X3RBV3o1QVlWd2JoMkgwZERkNWpWQ2o0TkZHQWJlTEZNd0VMdVAwN0N2R0JtZExRTko2ZktvYjdsbVNGOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "16a412ed9b6d",
    "title": "Schneider Electric partners with NVIDIA, HPE on industrial AI - Investing.com",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS1Vic3V2bGZHa1pVMHotS2hPVjhES3I2LVU0VGJPSmpBMzR3ZkdlN3ZhUGluSnc4TE9ndDVkZ1RsSl9sX1J0OFI0VzRtLWVWWm9HcS1kQnZfeTlSd1U1OVhaU05lT2dPd3NhLWFKZmZ0d0JTYWt5MldXb0hsN2RNTHRRNnVCME9sdjVsQ3lFa1Y5S0lJSllQUFlBZHZiMFBpam5zcWpEdXZHXzN0WXo2bUUyajdjM3lo",
@@ -1114,31 +1165,6 @@
    "session": "盘前",
    "zh_summary": "Agility机器人选用英伟达提供算力",
    "title_zh": "Agility机器人公司选用英伟达作为Digit 5人形机器人算力",
-   "sentiment": 1
-  },
-  {
-   "id": "9bd91ea0845c",
-   "title": "从GPU到机器人，英伟达正在押注AI的下半场 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rRzJZVHJXTjR2UDlfMXNqMDRjWlpUTTRtbGpnYnl2VUJhUGR4T29keFc0SjBYbW8xY2FPeE1lTlRrQ242ZV9BbkhYdWpwM3dYUlBDUDBQdEZCZHh1VkgxempCOGU3NGg3ZXFuSDZyOEU4ajFJUVZvWFdTSjI",
-   "source": "新浪财经",
-   "published_at": "2026-10-22T11:15:13+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-22T11:15:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rRzJZVHJXTjR2UDlfMXNqMDRjWlpUTTRtbGpnYnl2VUJhUGR4T29keFc0SjBYbW8xY2FPeE1lTlRrQ242ZV9BbkhYdWpwM3dYUlBDUDBQdEZCZHh1VkgxempCOGU3NGg3ZXFuSDZyOEU4ajFJUVZvWFdTSjI"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-22T11:24:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ubldycHowWF82c3VNcVkwaWxDSVd1dWxsTXdIRjcwb0x3cWhxcG82eW93ZU00VUhXRjQ2WHJRY3hjMi1FOVdGQ1VoX2E1OFdOUVRVSHlqY0oxMzZ1akVqLTRfYUlZQl9BZVNVLVVZS3RMc0oxVVU4cktUY1FXX1k"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达押注AI下半场：机器人",
-   "title_zh": "从GPU到机器人，英伟达正在押注AI的下半场 - 新浪网",
    "sentiment": 1
   },
   {
@@ -1230,6 +1256,40 @@
    "zh_summary": "黄仁勋：新云需求爆发但资本枯竭",
    "title_zh": "黄仁勋：新云需求爆发，但资本枯竭",
    "sentiment": 0
+  },
+  {
+   "id": "9bd91ea0845c",
+   "title": "从GPU到机器人，英伟达正在押注AI的下半场 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzZSUXJidlZxa19KRU5BU09qRjJTSFdsUzJfOGp4VkZUekgzQlRSUmJ1ZUVwcmdGOXRsazV5cjB5MlRzUzBmTEJrWE1sVllkS3JBSXpjYmh2ak1pWUxOcDhyXzdZSjc1dktnM0ptWmE0cXZ1OU45RXh2by1OZnVnaUJFZXJPcVppbE9V",
+   "source": "搜狐网",
+   "published_at": "2026-10-22T11:06:13+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-22T11:06:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzZSUXJidlZxa19KRU5BU09qRjJTSFdsUzJfOGp4VkZUekgzQlRSUmJ1ZUVwcmdGOXRsazV5cjB5MlRzUzBmTEJrWE1sVllkS3JBSXpjYmh2ak1pWUxOcDhyXzdZSjc1dktnM0ptWmE0cXZ1OU45RXh2by1OZnVnaUJFZXJPcVppbE9V"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-22T11:15:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rRzJZVHJXTjR2UDlfMXNqMDRjWlpUTTRtbGpnYnl2VUJhUGR4T29keFc0SjBYbW8xY2FPeE1lTlRrQ242ZV9BbkhYdWpwM3dYUlBDUDBQdEZCZHh1VkgxempCOGU3NGg3ZXFuSDZyOEU4ajFJUVZvWFdTSjI"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-22T11:24:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ubldycHowWF82c3VNcVkwaWxDSVd1dWxsTXdIRjcwb0x3cWhxcG82eW93ZU00VUhXRjQ2WHJRY3hjMi1FOVdGQ1VoX2E1OFdOUVRVSHlqY0oxMzZ1akVqLTRfYUlZQl9BZVNVLVVZS3RMc0oxVVU4cktUY1FXX1k"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "英伟达押注AI下半场：机器人",
+   "title_zh": "从GPU到机器人，英伟达正在押注AI的下半场 - 新浪网",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -1.81,
+    "window_h": 1.1
+   }
   },
   {
    "id": "0f6379ca0884",
@@ -2444,12 +2504,17 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX3YtTTlfVHdDcUNhblBkN0J6WmlDR3VsZDRsUlhZSUp5eFllT1ZyRGo2QzlkSzc3TDdPWDFXYTRlZi1PM01nWGtaVXRsMDdDM29Yb2kzZXdTM05MSVRTZTItaGxac2FseXYxVHlsNGhRbkp4SmhzZFl3di1sRVNvb2h3ZDF0cFAxTFZ1OS02VHVhZTdFTjBxdDBuQVVZNEZvQXgtRllNQ0x5bjRxZEFBYWZfTlBQcEh6eGhlYlJHZFdPbDBxWGFEUzFrT1FrZw",
    "source": "Robotics & Automation News",
    "published_at": "2026-10-22T08:27:40+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Robotics & Automation News",
      "published_at": "2026-10-22T08:27:40+00:00",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX3YtTTlfVHdDcUNhblBkN0J6WmlDR3VsZDRsUlhZSUp5eFllT1ZyRGo2QzlkSzc3TDdPWDFXYTRlZi1PM01nWGtaVXRsMDdDM29Yb2kzZXdTM05MSVRTZTItaGxac2FseXYxVHlsNGhRbkp4SmhzZFl3di1sRVNvb2h3ZDF0cFAxTFZ1OS02VHVhZTdFTjBxdDBuQVVZNEZvQXgtRllNQ0x5bjRxZEFBYWZfTlBQcEh6eGhlYlJHZFdPbDBxWGFEUzFrT1FrZw"
+    },
+    {
+     "name": "Data Centre Magazine",
+     "published_at": "2026-10-22T14:35:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUpEeU1WQnh2YjVLdnZROC1iSVlvcmhqT2I2dE01RklCTzhGWkY4MGdCMk1nb2Z0V3lqX2tCckNKdXVKWFBjZGdPVmlWRGNXQ2RSWVVQWXNiaEJlUlBXYmlrNVB5TU1kT3RxcURETUd3blQzblNKY1RhYUNKdEVjR2dVMkpqeG1QZkxUQk5ZSG9XU0xYWXk5NFdtQnI"
     }
    ],
    "category": "其他",
@@ -6275,6 +6340,23 @@
    }
   },
   {
+   "id": "577fa0140732",
+   "title": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE",
+   "source": "Reuters",
+   "published_at": "2026-10-21T16:56:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-21T16:56:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "f9a2e5689ae0",
    "title": "NVIDIA Releases GeForce 621.01 WHQL Game Ready Drivers - TechPowerUp",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmxpaVdfcUZCOEtSV19vODdEdzFfbDJzOG9KcVBTdjhtZ3BZOFBPdnBoRVVkTXZfUVRidVBkaEdSRFROZUlqWHBTYVMxWDRqTm0yamtFZDFwVGhZZnJzU0V4bFJSNjhYbHlfdDJNekJSdkFjMkZLbGNocHNlSFh0YzJ1Qk5ZdjVEd0lYRjBGRVJfaWvSAZgBQVVfeXFMT3lCd2pGSElnZzM0a2x6N054S1plZDVQMk9ERE1Wa3pIclMyZG50dW8yX3NqTm1vNU5WMFFtaWg5LVBlaUN5T1lmZk9rSEZVWVd1Q0czZTNwMnJmUjNfRDdSdUdpNmU0bVJlUUFmR3FKbno1dkg0UkI4Q2pFc0xqQmtvS21TLUczU2tBN1ktUGFsajF0QkQ0aTU",
@@ -6312,96 +6394,6 @@
    "session": "盘中",
    "zh_summary": "传英伟达参与竞购Ambarella",
    "title_zh": "英伟达或成第三家竞购方，Ambarella股价上涨",
-   "sentiment": 1
-  },
-  {
-   "id": "ea527146c429",
-   "title": "Nvidia Stock (NVDA) Climbs over 1% on a Google Cloud A5X Expansion Utilizing Vera Rubin Chips - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzd3c09DZ2JKeF8yQnQtTnJhUTRCVGFiRHFaQmpCQVRRSExWZGh6Z0g2T3hMQ2w5bmxNSThvdmFMYk4wcmlZRk13bXQ1MTdxN2JVMXhQbFZ3SDlKM3BGVGhXeHB1MHVhNEdjS3l4NkxoZy1hQ1dEeC1HMV9QWnJvSnZvN0MwZUFwUUVTU1B4WUVNdFhjUm5GVzB1ODFnZjM3T0h5Q1dHdnlWRk5PZ08zd0RIbnctQWRRdnd1Uw",
-   "source": "TipRanks",
-   "published_at": "2026-10-21T16:41:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-21T16:41:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzd3c09DZ2JKeF8yQnQtTnJhUTRCVGFiRHFaQmpCQVRRSExWZGh6Z0g2T3hMQ2w5bmxNSThvdmFMYk4wcmlZRk13bXQ1MTdxN2JVMXhQbFZ3SDlKM3BGVGhXeHB1MHVhNEdjS3l4NkxoZy1hQ1dEeC1HMV9QWnJvSnZvN0MwZUFwUUVTU1B4WUVNdFhjUm5GVzB1ODFnZjM3T0h5Q1dHdnlWRk5PZ08zd0RIbnctQWRRdnd1Uw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "谷歌云A5X扩容用Rubin芯片，NVDA涨1%",
-   "title_zh": "谷歌云A5X扩容采用Vera Rubin芯片，NVDA股价涨超1%",
-   "sentiment": 1
-  },
-  {
-   "id": "85b5e43574ef",
-   "title": "Nvidia Lines Up Six Suppliers To Expand AI Chip Capacity Through 2028 - Forbes",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeEJGWEliNTJhVVBZeTJ1R3dFNXlsbDc4MEJjNjAxQzhlaVNxdXl5YVJCaDJhSW1FMHBhVm13NkRpaTBMZzVENFJvSU9mTDZwd2hkakZzeEgzVzFnQmxONGR3dDM5R3ZuaTRRR3dlV2VRNURCMFZudzVvbTk5RHdxZS1BVGl3Uksza0RBd09VeHZhMlNkS1VXRkR1VkI3VEhQOGhxZERxYkphTWpkR29FMGZDSUc1Q3h3aGJmZElB",
-   "source": "Forbes",
-   "published_at": "2026-10-21T16:39:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Forbes",
-     "published_at": "2026-10-21T16:39:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeEJGWEliNTJhVVBZeTJ1R3dFNXlsbDc4MEJjNjAxQzhlaVNxdXl5YVJCaDJhSW1FMHBhVm13NkRpaTBMZzVENFJvSU9mTDZwd2hkakZzeEgzVzFnQmxONGR3dDM5R3ZuaTRRR3dlV2VRNURCMFZudzVvbTk5RHdxZS1BVGl3Uksza0RBd09VeHZhMlNkS1VXRkR1VkI3VEhQOGhxZERxYkphTWpkR29FMGZDSUc1Q3h3aGJmZElB"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达牵头六家供应商扩充AI芯片产能至2028",
-   "title_zh": "英伟达与六家供应商合作，将AI芯片产能扩张至2028年",
-   "sentiment": 1
-  },
-  {
-   "id": "07b42d8f632c",
-   "title": "Is It Too Late to Buy Nvidia Stock? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWHlBd3JrdlNTZmxQWmRzYkhvczU5bnZzQ3pKamNadW92RjF3UkRldmNldm9mOUppT1htSGVhM1U0WUlJbFBJdGtfUHNiaXlDNXFDVDRTV2NXZUJXeU1UQVI0em9iUWVrSjBnM1lqS01KZW04UGVvdGU0dG9OZDNPX3QwWFdDdU9fUTZsc1Zn",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-21T16:35:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-21T16:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWHlBd3JrdlNTZmxQWmRzYkhvczU5bnZzQ3pKamNadW92RjF3UkRldmNldm9mOUppT1htSGVhM1U0WUlJbFBJdGtfUHNiaXlDNXFDVDRTV2NXZUJXeU1UQVI0em9iUWVrSjBnM1lqS01KZW04UGVvdGU0dG9OZDNPX3QwWFdDdU9fUTZsc1Zn"
-    },
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-21T17:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQmxXRVBjWmVxN005YnFmX1F6T2E0MUNvSmtic2hTcnRWY0ZRazN1UklIeVh3VTVtd0N2eDBrbkxaaTBhTmFmRk1iNXUzV3dXcWstSXFJRUhZTTRlOVVEX0ZMSWNHc0hoYzFlVmdPb25ZTzhaa0dKSWRYR1FtNVphNjU3WQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "现在买入英伟达是否太晚",
-   "title_zh": "现在买英伟达股票还来得及吗？",
-   "sentiment": 0
-  },
-  {
-   "id": "2630dac0e141",
-   "title": "海外研选日报1022 | 高盛称英伟达GTC强化AI部署持续推进的判断大摩预期柴油供应紧张料延续 - 财联社电报",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02LUxYLVNSa3JsZ1VQd2ZCN2MxbkE4Z2ZaempxZnh2Z2c0aVk1cHhhc05QRGZmRTlUdHpuYmJDUmktWXo4dkE",
-   "source": "财联社电报",
-   "published_at": "2026-10-21T16:32:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "财联社电报",
-     "published_at": "2026-10-21T16:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE02LUxYLVNSa3JsZ1VQd2ZCN2MxbkE4Z2ZaempxZnh2Z2c0aVk1cHhhc05QRGZmRTlUdHpuYmJDUmktWXo4dkE"
-    },
-    {
-     "name": "财联社",
-     "published_at": "2026-10-22T07:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TZk1MWG9CcllEY3hSdG45ZDRuXzJhUWVUQkJhejV3a1ZZZXZTNXZhMDVFSVh5VldEMU9OWFp3SWpMUnhTY0xJMw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "高盛：GTC强化AI部署推进判断",
-   "title_zh": "高盛称英伟达GTC强化AI部署持续推进的判断",
    "sentiment": 1
   }
  ]
