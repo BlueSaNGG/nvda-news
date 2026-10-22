@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T04:21:51.176353+00:00",
+ "updated_at": "2026-10-22T04:52:07.058778+00:00",
  "market": {
   "price": 221.97,
   "change_pct": 2.54,
@@ -10,8 +10,8 @@
    "days_left": 27
   },
   "day_sentiment": {
-   "avg": 0.85,
-   "count": 286
+   "avg": 0.84,
+   "count": 295
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.85（286条已评分）"
+     "note": "今日新闻情绪 +0.84（295条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 41.9,
    "ma20": 226.87,
-   "as_of": "2026-10-22T04:21:51.162626+00:00"
+   "as_of": "2026-10-22T04:52:07.044437+00:00"
   },
   "pe_ttm": 28.2,
   "pe_pct_5y": 25,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "5eebf6d35f8d",
+   "title": "Nvidia taps Korean component makers for AI chips, robots - The Korea Herald",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10ekUycklJT3lCakNuZEUzX2c2TEQzOWgxaTFVeDA0XzdZM0FhdWxEYzNyS2tZOXYzU29ERjRTUTZFOU1DMmU1X2tTWm1FeG1ycjVibzg3QQ",
+   "source": "The Korea Herald",
+   "published_at": "2026-10-22T04:22:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Korea Herald",
+     "published_at": "2026-10-22T04:22:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10ekUycklJT3lCakNuZEUzX2c2TEQzOWgxaTFVeDA0XzdZM0FhdWxEYzNyS2tZOXYzU29ERjRTUTZFOU1DMmU1X2tTWm1FeG1ycjVibzg3QQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "f22423f027ea",
+   "title": "英伟达太强了，intel、AMD这对争了50年的对手，都联手了 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX2UzdXR0VzhmXzl0T3hKaXhCSzAwN1NPOUF2dWN0QS1pNGJWZGpwM0hzOEhPS09zTU9IbTJHU3FzUmt5eVh2U2NNWWxqejRfeWxBbk53TWhCV2p6eWVsXzF0RFZwQW5lYlkxczN3U3lyX2FhTzdPeFpkQldWTnBCZGVVZ0FiRVRVUWE5cw",
+   "source": "搜狐",
+   "published_at": "2026-10-22T04:07:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-22T04:07:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX2UzdXR0VzhmXzl0T3hKaXhCSzAwN1NPOUF2dWN0QS1pNGJWZGpwM0hzOEhPS09zTU9IbTJHU3FzUmt5eVh2U2NNWWxqejRfeWxBbk53TWhCV2p6eWVsXzF0RFZwQW5lYlkxczN3U3lyX2FhTzdPeFpkQldWTnBCZGVVZ0FiRVRVUWE5cw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "10e090ead4f1",
    "title": "NVDA 261023 190.00C (NVDA261023C190000) Stock Options Chain | Quotes & News - Moomoo",
@@ -205,6 +239,23 @@
    "zh_summary": "英伟达投的AI语音独角兽发两款新模型",
    "title_zh": "英伟达投的AI语音独角兽发两款新模型，半秒实时响应",
    "sentiment": 1
+  },
+  {
+   "id": "b2ea773b93af",
+   "title": "英伟达刚刚解决了PC游戏界最大的难题之一：着色器编译 - 3DM",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUGNOcUJ4YTZlT1NLVFluRHJuZHoxVGV6ZHUyUS1jMUlTbDJQZVdwcGNqVk0xWVFva3daTFZaNjBlVmtzTFJZVnlYQXZiNGtib2cyN09Bd3BmVzE3",
+   "source": "3DM",
+   "published_at": "2026-10-22T03:34:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "3DM",
+     "published_at": "2026-10-22T03:34:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xUGNOcUJ4YTZlT1NLVFluRHJuZHoxVGV6ZHUyUS1jMUlTbDJQZVdwcGNqVk0xWVFva3daTFZaNjBlVmtzTFJZVnlYQXZiNGtib2cyN09Bd3BmVzE3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "f4acd8fa6801",
@@ -783,26 +834,6 @@
    "sentiment": 1
   },
   {
-   "id": "eb66fc01c797",
-   "title": "Why AI Chip Stocks Nvidia, Broadcom, and Micron Are Down in Overnight Trading — and What Wall Street Expects Next - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQenF6T3lvR3IyV0FrNzVVQjVTOGlDRkV0RGdocm5pQUhkVmpwbDUyRy1lOHFSRE50Y0d2WGpxUmtmN2dwb2lHVnkxZ0JSUklqX1FReXdZVmdiY1ZkM0dVTG9WZURXcDk2OW1MbzE1Ym9ybllrRnBLT0JtYTUzbUdnbEZqOEdpbDhONUxmZjluenp6Rm1WSGNTZ2toTUlfVlhJSTRQbnRvbG1JVlRFSC1ra054OXpPRXFGbzdmU0xZNGJtVDhUdDJHWERSYkpzYVo3TTZnLUh3",
-   "source": "TipRanks",
-   "published_at": "2026-10-22T00:55:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-22T00:55:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQenF6T3lvR3IyV0FrNzVVQjVTOGlDRkV0RGdocm5pQUhkVmpwbDUyRy1lOHFSRE50Y0d2WGpxUmtmN2dwb2lHVnkxZ0JSUklqX1FReXdZVmdiY1ZkM0dVTG9WZURXcDk2OW1MbzE1Ym9ybllrRnBLT0JtYTUzbUdnbEZqOEdpbDhONUxmZjluenp6Rm1WSGNTZ2toTUlfVlhJSTRQbnRvbG1JVlRFSC1ra054OXpPRXFGbzdmU0xZNGJtVDhUdDJHWERSYkpzYVo3TTZnLUh3"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "英伟达等AI芯片股隔夜下跌",
-   "title_zh": "英伟达、博通、美光等AI芯片股隔夜下跌",
-   "sentiment": -1
-  },
-  {
    "id": "3f44d6666c12",
    "title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain - The Register",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYm1pNjFiby1OTHR1Q2pYa2YzTE9rXzAzVnNSR2RIZENqNWVjSGJzcVQ2WG1BTVRDWHJxVXVYcndIVVp2dzV1MFh4U0w3Qll0WVdUaTM4ZnlxLUdJZzRFaUh3Qkk5WFJaVkRJNVN2cy1CVWc2eDgzaWJYY2Fnb1hVR3J3T3NHdnBoYXAxSjREV3JnVHhkQ1JLNm9nUDE4TWNyTjdwMUJmWFhmbFpON1RRVEstOTVfT2ZjT1FNZHlRZGV4NjMxajhselpkdFBqZ2pHamdFQlNVSnpJLWZK",
@@ -966,6 +997,23 @@
    "zh_summary": "国家队三季报持仓披露，英伟达发布新品",
    "title_zh": "英伟达新品发布，国家队三季报持仓披露",
    "sentiment": 0
+  },
+  {
+   "id": "30793634dfd6",
+   "title": "美股三大股指全线上涨；特斯拉营收低于预期，盘后大跌3.36%；英伟达发布模块化AI工厂DSX POD - 中国基金报",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56N25SZ1hUWW9Odk8zNjdVaE5KN3JMa3ZQd3A4OGJteUxlTmRFbEpoRlM5ZmhrOUF2YjZjdWFrbVllNXJIRGR5OUp1bkprZjFWVTNzVXBvZ0l1MVY5Ui05Nnd4d3dCV0xWZzNTd2VFYTY5T210VExDY0d3",
+   "source": "中国基金报",
+   "published_at": "2026-10-21T23:59:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "中国基金报",
+     "published_at": "2026-10-21T23:59:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56N25SZ1hUWW9Odk8zNjdVaE5KN3JMa3ZQd3A4OGJteUxlTmRFbEpoRlM5ZmhrOUF2YjZjdWFrbVllNXJIRGR5OUp1bkprZjFWVTNzVXBvZ0l1MVY5Ui05Nnd4d3dCV0xWZzNTd2VFYTY5T210VExDY0d3"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
   },
   {
    "id": "396520652df9",
@@ -3013,6 +3061,23 @@
    "zh_summary": "英伟达扩产，CPO产能增30倍",
    "title_zh": "英伟达推动大扩产，CPO产能飙升30倍 - 新浪财经",
    "sentiment": 1
+  },
+  {
+   "id": "67f8adc318a3",
+   "title": "NVIDIA Gives DGX And RTX Systems A 40% AI Inference Boost, While DGX Spark Now Clusters Up To 8 Units For 1 TB Memory - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0J6S2puSXBqREhKVC01TlRWVndhUFVYS0Rpa2IwaEZIRGhBdEpBZHpyWEVaYTlaMDA1Q1BEZmpfLUdjdFhmVHBsZ2VOTkJVeUMzeDNWZGdNemNqU2ozdGR5anp0ZjdHWUZpakNocHU0aHZJWkt4RG9vbENrdGlfaEpENnZzRzBybU1VVjBjM19uX3J6dER6VG54bE4yTjUzZDhQT29RcmVaRzRq0gGyAUFVX3lxTFBYdVdTdk1GOG5OcVZCRW1vQlpUUkthWFZlaVNjVEozQXI4SmFvZ2xOS2NuZ3VLVDlVbmxYV29rU2xHVTJqMVVMQWdFRXVjaW1aYnJSZjZreUJJbDE0SllfRy1UUlNhNGZFdU10NUtvTXVId2UxUEFRaUw5WDExWFc5UWotX0ZHdEpGT3JvdGRNQml5YlhvbnpROTJ4WkUwNlV4UjZ6bXpxY09KMk9IbnpveHc",
+   "source": "Wccftech",
+   "published_at": "2026-10-21T14:30:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-21T14:30:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0J6S2puSXBqREhKVC01TlRWVndhUFVYS0Rpa2IwaEZIRGhBdEpBZHpyWEVaYTlaMDA1Q1BEZmpfLUdjdFhmVHBsZ2VOTkJVeUMzeDNWZGdNemNqU2ozdGR5anp0ZjdHWUZpakNocHU0aHZJWkt4RG9vbENrdGlfaEpENnZzRzBybU1VVjBjM19uX3J6dER6VG54bE4yTjUzZDhQT29RcmVaRzRq0gGyAUFVX3lxTFBYdVdTdk1GOG5OcVZCRW1vQlpUUkthWFZlaVNjVEozQXI4SmFvZ2xOS2NuZ3VLVDlVbmxYV29rU2xHVTJqMVVMQWdFRXVjaW1aYnJSZjZreUJJbDE0SllfRy1UUlNhNGZFdU10NUtvTXVId2UxUEFRaUw5WDExWFc5UWotX0ZHdEpGT3JvdGRNQml5YlhvbnpROTJ4WkUwNlV4UjZ6bXpxY09KMk9IbnpveHc"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "ef512121ca68",
@@ -6409,86 +6474,6 @@
     "pct": -0.4,
     "window_h": 1.6
    }
-  },
-  {
-   "id": "eae722518582",
-   "title": "Nvidia OpenShell gets a hardware stack for Anthropic and OpenAI agents - The Next Web",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRVFXMzVDekhsVmMtUmFrNVhOMFFfWTV6Nm9KaHI3aTVzNERYblRDSGRZX21fU3BMNEFNSHpiMDV1RkYtOXlqM0xFQTEyQzB3enZHa2lUTFFhNFU1UWVBR3NnTU50MmlqMlFmWVBzVFRGQ3lGLUpHY1F6SjFOeEN0UDNzVEY",
-   "source": "The Next Web",
-   "published_at": "2026-10-21T11:23:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Next Web",
-     "published_at": "2026-10-21T11:23:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRVFXMzVDekhsVmMtUmFrNVhOMFFfWTV6Nm9KaHI3aTVzNERYblRDSGRZX21fU3BMNEFNSHpiMDV1RkYtOXlqM0xFQTEyQzB3enZHa2lUTFFhNFU1UWVBR3NnTU50MmlqMlFmWVBzVFRGQ3lGLUpHY1F6SjFOeEN0UDNzVEY"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "OpenShell推出AI智能体硬件栈",
-   "title_zh": "英伟达OpenShell为Anthropic和OpenAI智能体提供硬件栈",
-   "sentiment": 1
-  },
-  {
-   "id": "b27837080cd0",
-   "title": "Nvidia Nemotron 3.5: 120B Open Model Hits PCs [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pdm1hTGRJTk00by1kMTVlREozeHJmdHJtWEZ0cno1YkVrYkJVMTlzVFljd2U3VE9JRTZ6Y0xxUDRZcjRwdXIyRDFuS05mbjNkR2xnX2lyTjU5SXg0dko5STNoT2xnd2VFWXJaVEJNVEE",
-   "source": "shattered.io",
-   "published_at": "2026-10-21T11:21:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-21T11:21:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pdm1hTGRJTk00by1kMTVlREozeHJmdHJtWEZ0cno1YkVrYkJVMTlzVFljd2U3VE9JRTZ6Y0xxUDRZcjRwdXIyRDFuS05mbjNkR2xnX2lyTjU5SXg0dko5STNoT2xnd2VFWXJaVEJNVEE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达120B开源模型登陆PC",
-   "title_zh": "英伟达Nemotron 3.5：120B开放模型登陆PC",
-   "sentiment": 1
-  },
-  {
-   "id": "0f294e7ded3f",
-   "title": "英伟达涨幅扩大至2.2%！GTC柏林开启全栈AI基础设施大布局 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHU0Nnc0dE1Mdjd3U212bjd5RUpwRWlyR0pqYUJiWENpT0RiUHp4RUpoMnc2aDFmc1hpblZyX1U2Y3ZZSGNkZjQwT3l1azRKMzZHbUlNTnNFR2xJbWY0NFBFS0pMZFB0UzdlRktRZDl3LVBqLWJFa3FGRUFrZlJDZTlXUUd5VlZjM0JhUw",
-   "source": "搜狐",
-   "published_at": "2026-10-21T11:21:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-21T11:21:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHU0Nnc0dE1Mdjd3U212bjd5RUpwRWlyR0pqYUJiWENpT0RiUHp4RUpoMnc2aDFmc1hpblZyX1U2Y3ZZSGNkZjQwT3l1azRKMzZHbUlNTnNFR2xJbWY0NFBFS0pMZFB0UzdlRktRZDl3LVBqLWJFa3FGRUFrZlJDZTlXUUd5VlZjM0JhUw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达涨幅扩大至2.2%，GTC布局全栈AI",
-   "title_zh": "英伟达涨幅扩大至2.2%！GTC柏林开启全栈AI基础设施大布局 - 搜狐",
-   "sentiment": 1
-  },
-  {
-   "id": "d576f4041194",
-   "title": "Siemens expands agentic AI collaboration to tackle 3D IC power and thermal challenges with NVIDIA - Siemens Newsroom",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nVWRKckJkRGJmcTAwR0pVN0Fzanl3bmJaQUpyMGZiLVY5WFhDb0tKYzRTbF9ncGphWklTeDBXaGxlSUZuaVNsb2xKNnFoWkpWcnJlU043Zlp4QzZqNFZZRUVuOFgzbnA1aVEyZzhnY0wxdlRTckE",
-   "source": "Siemens Newsroom",
-   "published_at": "2026-10-21T11:20:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Siemens Newsroom",
-     "published_at": "2026-10-21T11:20:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nVWRKckJkRGJmcTAwR0pVN0Fzanl3bmJaQUpyMGZiLVY5WFhDb0tKYzRTbF9ncGphWklTeDBXaGxlSUZuaVNsb2xKNnFoWkpWcnJlU043Zlp4QzZqNFZZRUVuOFgzbnA1aVEyZzhnY0wxdlRTckE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "西门子扩大与英伟达代理AI合作",
-   "title_zh": "西门子扩大与英伟达代理式AI合作，攻克3D芯片功耗与散热",
-   "sentiment": 1
   }
  ]
 }
