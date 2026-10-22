@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T06:37:29.608937+00:00",
+ "updated_at": "2026-10-22T06:51:28.081269+00:00",
  "market": {
   "price": 221.97,
   "change_pct": 2.54,
@@ -10,8 +10,8 @@
    "days_left": 26
   },
   "day_sentiment": {
-   "avg": 1.17,
-   "count": 12
+   "avg": 1.13,
+   "count": 15
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.17（12条已评分）"
+     "note": "今日新闻情绪 +1.13（15条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 41.9,
    "ma20": 226.87,
-   "as_of": "2026-10-22T06:37:29.597437+00:00"
+   "as_of": "2026-10-22T06:51:28.066482+00:00"
   },
   "pe_ttm": 28.2,
   "pe_pct_5y": 25,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "7ae4f392528c",
+   "title": "扩展Isaac平台 英伟达加速卡位人形机器人生态位 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcEFLMmRMQUE3c09vS3JuZVBvX0VxeVFaZ19KNlJjWE9rWW9YOUNicDdfejMtaUlZSV83VmpnY2hhLXlxTF9XeDNtWmVkeXBrY2tiVDRQNml5QWdNZEx5dEgycnBlSXd5UGw3RDRESnhlQlhLd2lwMVJ3emlYTDRvSDl0RHY3UmV5T0syeg",
+   "source": "搜狐",
+   "published_at": "2026-10-22T06:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-22T06:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcEFLMmRMQUE3c09vS3JuZVBvX0VxeVFaZ19KNlJjWE9rWW9YOUNicDdfejMtaUlZSV83VmpnY2hhLXlxTF9XeDNtWmVkeXBrY2tiVDRQNml5QWdNZEx5dEgycnBlSXd5UGw3RDRESnhlQlhLd2lwMVJ3emlYTDRvSDl0RHY3UmV5T0syeg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "7fe9b0b3ee56",
    "title": "西门子医疗与英伟达合作开发AI自适应放疗技术 - 虎嗅",
@@ -127,7 +144,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uVGdsMGZJc1JYREdCMlBGQ3FrUmdHVkNtOTZFM25ya0xkS3NaVVp0aEdMeHZLakJKYk1wQkhSWmtEYktYQXBiMW5pckRvNkl1YnhpYXdLb25HaVgzQjNIN1JZc0Yzd1EzcVQ5aGw1a1E",
    "source": "手机新浪网",
    "published_at": "2026-10-22T06:03:24+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "手机新浪网",
@@ -138,6 +155,11 @@
      "name": "新浪网",
      "published_at": "2026-10-22T06:09:56+00:00",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xZWNGWm9CQW5sZGhhdlY1b3VJTmwwcXRTN3NTTnJ3STdBUjRlU2pLZkFjbEI2MmxCN0l4SkdzUmxJdThtRVFQSy1ra21HTmdFQXFLOU5XODUwTVgwWUZERjBqY2RMOXh5N3BETHFsOE9xN09oNlRwWWE4WmtSQQ"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-22T06:03:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jRnBzZHZUY2k0TGQ0MWQyUnIySUhSc3JLeklibFFRcjZKaE1xVVhfa2hHTTUtUlVraU5NNl93UFVUMERIRndpNWRYRmJtSlRrRS1uVFVleldFczE5eXp4SmhlWHFqOUFhX3kzUzRIcjdNRGRrUWtWSDM0REIzNUU"
     }
    ],
    "category": "其他",
@@ -215,6 +237,23 @@
    "zh_summary": "NVDA创一个月最大涨幅，Burry关注合作潮",
    "title_zh": "NVDA录得一个月最大涨幅，Burry聚焦合作潮，分析师称全栈战略被低估",
    "sentiment": 2
+  },
+  {
+   "id": "c1ab8de55c40",
+   "title": "Europe's Banks Ditch Closed AI for NVIDIA-Powered Open Models - The Tech Buzz",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTlzZjBDd2xnbnFoX1lqWHdnQzRxYk1BaTctZ2ZDTW1IOTQ4d2phVFQ3WG9VcnFmcE0tekNyNEZaR09NOUJfckkxa0YwOXpMQTZCUm1TeVl5Q3VlRnNvOWR6VnNyODNZSE1FTlBsNzh2SkRYZldNTjdMMnNOZnVreUZMSmQ2X0xGODlwcGZpa1FvZGlDNUJtdUZB",
+   "source": "The Tech Buzz",
+   "published_at": "2026-10-22T05:41:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Tech Buzz",
+     "published_at": "2026-10-22T05:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYTlzZjBDd2xnbnFoX1lqWHdnQzRxYk1BaTctZ2ZDTW1IOTQ4d2phVFQ3WG9VcnFmcE0tekNyNEZaR09NOUJfckkxa0YwOXpMQTZCUm1TeVl5Q3VlRnNvOWR6VnNyODNZSE1FTlBsNzh2SkRYZldNTjdMMnNOZnVreUZMSmQ2X0xGODlwcGZpa1FvZGlDNUJtdUZB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "8526b6cf1d54",
@@ -6444,51 +6483,6 @@
    "session": "盘前",
    "zh_summary": "ServiceNow与英伟达发布AI智能体Arc",
    "title_zh": "ServiceNow与英伟达发布企业AI智能体Arc",
-   "sentiment": 1
-  },
-  {
-   "id": "7b97fe3a7fbf",
-   "title": "NVIDIA GTC Berlin: Fleet Brings Full NVIDIA AI Hardware Suite Under Enterprise IT Control - PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTi1ydGJyU3QxWVpMREhXWjJrU2llUkc2LVYyVTIyY2djY0d3WmdsQkxBemtxUnZIR3N4c2JqeG5hMU92SzgzQ2p1M0x6TXpOS0J0eTk5V2lEUGxoWTZnV0VQNUZhclZUdGFwUEMxeWFSR3NQQkM4aTJsWEdWRGZHTU9vR2owQTlfX1lnc2FWUEdyUk9Vd2tTZVhHS3lKSmpoQ2pKSG1OSEpwQ3VuZUJuUU8yT25sZk5EZ3p4NEl2Y205Q3hWa2NzY1lLWjJzNktuc3pxTUlpMHFZMHBj",
-   "source": "PR Newswire",
-   "published_at": "2026-10-21T11:30:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "PR Newswire",
-     "published_at": "2026-10-21T11:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTi1ydGJyU3QxWVpMREhXWjJrU2llUkc2LVYyVTIyY2djY0d3WmdsQkxBemtxUnZIR3N4c2JqeG5hMU92SzgzQ2p1M0x6TXpOS0J0eTk5V2lEUGxoWTZnV0VQNUZhclZUdGFwUEMxeWFSR3NQQkM4aTJsWEdWRGZHTU9vR2owQTlfX1lnc2FWUEdyUk9Vd2tTZVhHS3lKSmpoQ2pKSG1OSEpwQ3VuZUJuUU8yT25sZk5EZ3p4NEl2Y205Q3hWa2NzY1lLWjJzNktuc3pxTUlpMHFZMHBj"
-    },
-    {
-     "name": "Morningstar",
-     "published_at": "2026-10-21T11:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX3lrb3VPUUdwcThxQmtrNkJ4eGIxUWthSzJSZzRaRWVXT1YtZFpGamlZdm5wMFlmVGs5MFFRRFVNQzBxWTN3dHlSbmo2ckVfZUFHRExrbXF4a1NneGxjOG4wX3RlN08zVXA0UTVtaUIzY0h3ZkgxVzBoMThoLTVLeGlNdkJjemprYjVsQ3VEd0YyZlZ1QU9sRmkyWm9Oc25MSkhfYzF1R1BTVzV5U0dsLU92SDR4Q3R6QjB6aFBTV1pCOW51SHhELWM5d1Y5UHhGY1dfamdidUJubzRrUUk5RkJrUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达Fleet将AI硬件套件纳入企业IT管控",
-   "title_zh": "英伟达GTC柏林：Fleet让企业IT统一管控AI硬件",
-   "sentiment": 1
-  },
-  {
-   "id": "bc9196907cae",
-   "title": "Nvidia picks OpenShell to tame AI gents - The Register",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ1cyUzBpcUJZWFB1UnhrQmJocTdfR1JxOVZZVTBPR2o4VTlBaGVSSllFT2UxNHVSU0FVc090bE5Db1BVa0JtOXZXcHBKLTNLeFd5TzJwcFI3SXV4S1VIRHVxSHhZMWcyT0ZUSVp0NUpYVVl6NXlsMnVTZG9JXzhqQTVvQ0phVFR3MXNtcW9ucUdWV3M1cjEzdVIxbTA",
-   "source": "The Register",
-   "published_at": "2026-10-21T11:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Register",
-     "published_at": "2026-10-21T11:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ1cyUzBpcUJZWFB1UnhrQmJocTdfR1JxOVZZVTBPR2o4VTlBaGVSSllFT2UxNHVSU0FVc090bE5Db1BVa0JtOXZXcHBKLTNLeFd5TzJwcFI3SXV4S1VIRHVxSHhZMWcyT0ZUSVp0NUpYVVl6NXlsMnVTZG9JXzhqQTVvQ0phVFR3MXNtcW9ucUdWV3M1cjEzdVIxbTA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达选择OpenShell管控AI智能体",
-   "title_zh": "英伟达选择OpenShell管控AI智能体",
    "sentiment": 1
   }
  ]
