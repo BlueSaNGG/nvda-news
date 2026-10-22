@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T21:21:42.770242+00:00",
+ "updated_at": "2026-10-22T21:36:30.198909+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.61,
-   "count": 272
+   "count": 271
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.61（272条已评分）"
+     "note": "今日新闻情绪 +0.61（271条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-22T21:21:42.749529+00:00"
+   "as_of": "2026-10-22T21:36:30.187179+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "5bb4cf8232f1",
+   "title": "Grok加速商业化：SpaceX联合英伟达等打造AI合作网络 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwMUROVkNnY2dTSlBOa0Y1UndUZWJDUEhJdzNmV0FsNFZybmd0SzE2RmZ5cGNaZlF6eDJRdS1iOGk1WlZUejNZWDNHdjRPM04xOENNSHpXMGo1b09YQVBuTg",
+   "source": "东方财富",
+   "published_at": "2026-10-22T21:31:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-22T21:31:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwMUROVkNnY2dTSlBOa0Y1UndUZWJDUEhJdzNmV0FsNFZybmd0SzE2RmZ5cGNaZlF6eDJRdS1iOGk1WlZUejNZWDNHdjRPM04xOENNSHpXMGo1b09YQVBuTg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "10cc9e2371ca",
    "title": "NVIDIA Sentry: Secure AI Agents on BlueField-4 [2026] - shattered.io",
@@ -1449,6 +1466,40 @@
    "zh_summary": "英伟达GTC柏林发布集装箱AI工厂",
    "title_zh": "GTC柏林：英伟达把AI工厂装进集装箱",
    "sentiment": 1
+  },
+  {
+   "id": "09ff5b98c2c3",
+   "title": "英伟达推出AI工厂运维平台Minerva 可每小时分析数十亿个数据点 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeS1yc3FyaW1ZM19wUjl4VGZCbVM3SjR1QXNOTlpOM2VYTDJBeTZhRDd2d2lSelVzRWN1Xy1jM1lTdS1QWkNEb1hhMWNkeXhiRjU0YVMtU0VnV1VGVDdiRXRSYzBNWE1KTlYxNjF0OGYyMFgyMDJnaklMblRSMUZNVg",
+   "source": "新浪财经",
+   "published_at": "2026-10-22T15:11:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-22T15:11:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeS1yc3FyaW1ZM19wUjl4VGZCbVM3SjR1QXNOTlpOM2VYTDJBeTZhRDd2d2lSelVzRWN1Xy1jM1lTdS1QWkNEb1hhMWNkeXhiRjU0YVMtU0VnV1VGVDdiRXRSYzBNWE1KTlYxNjF0OGYyMFgyMDJnaklMblRSMUZNVg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "7f3d41ba5d2f",
+   "title": "英伟达：推出用于端到端 AI 工厂可观测性的 Minerva 平台。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MbFYtb25XSFdiSWpxLUFndnNEZzJybXJTa1A1ajRUMWdhTi1qOHFwejI0VGsxcllOWWlfQ0VmSXZULTUwQ0xDazFiNA",
+   "source": "手机新浪网",
+   "published_at": "2026-10-22T15:03:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-22T15:03:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MbFYtb25XSFdiSWpxLUFndnNEZzJybXJTa1A1ajRUMWdhTi1qOHFwejI0VGsxcllOWWlfQ0VmSXZULTUwQ0xDazFiNA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "b60eeea33845",
@@ -5333,26 +5384,6 @@
    "sentiment": 1
   },
   {
-   "id": "367678b3846e",
-   "title": "英伟达新突破：用8192块GPU 刻下容错量子计算模拟里程碑 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03RkZ4cTlDQXJwX3pSTEVDOFNQaW0zYjRGM0RobjhuSXl4VGxmUGlWSVV4R0VveG8waXNDRTU5Ry1XREtGUzZmSw",
-   "source": "财联社",
-   "published_at": "2026-10-22T06:26:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-22T06:26:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03RkZ4cTlDQXJwX3pSTEVDOFNQaW0zYjRGM0RobjhuSXl4VGxmUGlWSVV4R0VveG8waXNDRTU5Ry1XREtGUzZmSw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "8192块GPU创量子计算模拟里程碑",
-   "title_zh": "英伟达新突破：用8192块GPU 刻下容错量子计算模拟里程碑 - 财联社",
-   "sentiment": 1
-  },
-  {
    "id": "7fe9b0b3ee56",
    "title": "西门子医疗与英伟达合作开发AI自适应放疗技术 - 虎嗅",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IRUFNLS01TUJwZkNLcmFsbEM1dGJwV1JNcnZRYjRUY0stSVlVbUtkTGxibVRRREtuX3ZMQmJnc1U4b3FVQ2VYLXZsZ2JJLUxQ",
@@ -5913,26 +5944,6 @@
    "sentiment": 0
   },
   {
-   "id": "ad1133d1dd5d",
-   "title": "英伟达GTC德国柏林站，提前写好下一轮AI竞争的规则？ - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SdWhONzEtVE1NOHd4eVlUMGtPcXU4bkt1VG02YWRnT1dSSGR6NU1ocHhfd00wX3A1VjdpOFEzUEk4dzh0ZXVQZHpZaXI",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-22T03:53:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-22T03:53:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SdWhONzEtVE1NOHd4eVlUMGtPcXU4bkt1VG02YWRnT1dSSGR6NU1ocHhfd00wX3A1VjdpOFEzUEk4dzh0ZXVQZHpZaXI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达柏林GTC谋划AI竞争规则",
-   "title_zh": "英伟达GTC德国柏林站，提前写好下一轮AI竞争的规则？ - 凤凰网科技",
-   "sentiment": 1
-  },
-  {
    "id": "48512a4b3195",
    "title": "柯马与英伟达合作加速推动工业机器人领域的物理AI创新 - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2dUd1QxQVpiMWV2YnJST25oZEJBVjlFMDlocHEyRnVQVFZfMU96NGFwWEJkODhpLWluNzV2UzI1c09Zb1kwWU96T3ZYMnF4REFUYVptdjBLWnBuS1RxVXROYmtucVBmR2dob1VubFNOU3pENXBxTldIYnN1MV83OTNSSk03MnJC",
@@ -6392,26 +6403,6 @@
    "zh_summary": "英伟达技术助机器人提速8倍",
    "title_zh": "人形机器人采用英伟达技术内部测试提速8倍",
    "sentiment": 1
-  },
-  {
-   "id": "5236144af4ac",
-   "title": "韩媒：英伟达下一代Groq芯片拟弃用SRAM方案，采用3D堆叠DRAM - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5c3ZkWVBZSUZKcHRSRTBya1k2Q1BKS2hjaUVyVVo5dE1WZHBlc0Rrd09LSk5KUjVscWh2NWQ4Y2xURjY5U3FGU0hobXNuZ2QyZ213cUV1MklWanBD",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-22T01:24:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-22T01:24:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5c3ZkWVBZSUZKcHRSRTBya1k2Q1BKS2hjaUVyVVo5dE1WZHBlc0Rrd09LSk5KUjVscWh2NWQ4Y2xURjY5U3FGU0hobXNuZ2QyZ213cUV1MklWanBD"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "韩媒：英伟达下一代芯片用3D堆叠DRAM",
-   "title_zh": "韩媒：英伟达下一代Groq芯片拟弃用SRAM方案，采用3D堆叠DRAM",
-   "sentiment": 0
   }
  ]
 }
