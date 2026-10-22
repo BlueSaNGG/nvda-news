@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-21T23:07:00.213165+00:00",
+ "updated_at": "2026-10-22T00:01:20.576433+00:00",
  "market": {
-  "price": 221.97,
-  "change_pct": 2.54,
+  "price": 216.47,
+  "change_pct": -0.29,
   "as_of": "2026-10-21",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 27
   },
   "day_sentiment": {
-   "avg": 0.83,
-   "count": 296
+   "avg": 0.84,
+   "count": 294
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 77% 分位"
+     "note": "现价处于52周区间 69% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（15家），隐含空间 +41.9%"
+     "note": "目标价中位数 $315（15家），隐含空间 +45.5%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.83（296条已评分）"
+     "note": "今日新闻情绪 +0.84（294条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $221.97 vs 20日均线 $226.87"
+     "note": "现价 $216.47 vs 20日均线 $227.04"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 77,
+   "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 15,
-   "implied_upside_pct": 41.9,
-   "ma20": 226.87,
-   "as_of": "2026-10-21T23:07:00.202510+00:00"
+   "implied_upside_pct": 45.5,
+   "ma20": 227.04,
+   "as_of": "2026-10-22T00:01:20.559380+00:00"
   },
-  "pe_ttm": 28.2,
-  "pe_pct_5y": 25,
-  "valuation_sentence": "现价处5年P/E 25%分位，目标价隐含+41.9%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.5,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,15 +62,54 @@
  },
  "stories": [
   {
+   "id": "08490e2d6403",
+   "title": "英伟达实质收购Groq后首度出手！下一代AI芯片架构大转向 弃SRAM改采3D堆叠DRAM - 集微网",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE15UzkzSDdsNkFDd0lfMlBNN1NlN3lLLXlfSlVHeTIyTUJJLXdxdE9BZG5zdEN6cmFwOGZJUGI5M3Y2RlE",
+   "source": "集微网",
+   "published_at": "2026-10-21T23:29:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "集微网",
+     "published_at": "2026-10-21T23:29:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE15UzkzSDdsNkFDd0lfMlBNN1NlN3lLLXlfSlVHeTIyTUJJLXdxdE9BZG5zdEN6cmFwOGZJUGI5M3Y2RlE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "a9d6dba0b8cd",
+   "title": "SpaceX、Anthropic和英伟达助力科技股摆脱近期颓势 - 华尔街日报中文网",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWVFLUEZTQUJhSzRPd3pxTkZZcDFNZnQ5RUIxVFZoUjlUZEJTd0lVSEIzSEtnQkFYUWFXT1ZWSV9OakRQV0loNUk3bmtpUTVNanhicDRNM1RGRFFLRXJyVDF1bWZoa1FfZ3NRMzZOejFtZ0pCTnhxbUdmTE5vaHhXRGsxWVdrNDc1UHRmQUUtMEdWellLZGRHeTN3akZzdXgxdi03bDlrdG50OGM2c0EtcjZMNThkWkJMQW4zSTQ3a1VybWVMMHR3X0hqMDFYdU14S09LaWY0a1E4UEZPRTg1MlJ2Qm9aRFR4cHpFMDJXTXZWbVd3RG1GOTJlSE1qZE1QZ210cDZkMUVPdFhlLW15ajd1UGJMQ2s",
+   "source": "华尔街日报中文网",
+   "published_at": "2026-10-21T23:14:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街日报中文网",
+     "published_at": "2026-10-21T23:14:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWVFLUEZTQUJhSzRPd3pxTkZZcDFNZnQ5RUIxVFZoUjlUZEJTd0lVSEIzSEtnQkFYUWFXT1ZWSV9OakRQV0loNUk3bmtpUTVNanhicDRNM1RGRFFLRXJyVDF1bWZoa1FfZ3NRMzZOejFtZ0pCTnhxbUdmTE5vaHhXRGsxWVdrNDc1UHRmQUUtMEdWellLZGRHeTN3akZzdXgxdi03bDlrdG50OGM2c0EtcjZMNThkWkJMQW4zSTQ3a1VybWVMMHR3X0hqMDFYdU14S09LaWY0a1E4UEZPRTg1MlJ2Qm9aRFR4cHpFMDJXTXZWbVd3RG1GOTJlSE1qZE1QZ210cDZkMUVPdFhlLW15ajd1UGJMQ2s"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "eb508148c9b4",
    "title": "中办、国办：全面实施“人工智能+”行动；英伟达携供应链伙伴扩产｜数智早参 - www.mrjjxw.com",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXUGYwQ3NocmI1SE0xQXl6WWRXRXMtUHNlN3llN05TeUhWbmowZk9kSXVEZnUyTHZKSVY3Q0N6ampILU9CdU1Lc3NvVkNJUGpLeHJSdGtZSEI3bFpuOVd2TFF2TkI3Zw",
    "source": "www.mrjjxw.com",
    "published_at": "2026-10-21T23:00:06+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "www.mrjjxw.com",
+     "published_at": "2026-10-21T23:00:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXUGYwQ3NocmI1SE0xQXl6WWRXRXMtUHNlN3llN05TeUhWbmowZk9kSXVEZnUyTHZKSVY3Q0N6ampILU9CdU1Lc3NvVkNJUGpLeHJSdGtZSEI3bFpuOVd2TFF2TkI3Zw"
+    },
+    {
+     "name": "https://www.mrjjxw.com/",
      "published_at": "2026-10-21T23:00:06+00:00",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXUGYwQ3NocmI1SE0xQXl6WWRXRXMtUHNlN3llN05TeUhWbmowZk9kSXVEZnUyTHZKSVY3Q0N6ampILU9CdU1Lc3NvVkNJUGpLeHJSdGtZSEI3bFpuOVd2TFF2TkI3Zw"
     }
@@ -80,6 +119,23 @@
    "zh_summary": "英伟达携供应链伙伴扩产",
    "title_zh": "中办国办推人工智能+，英伟达携供应链扩产",
    "sentiment": 1
+  },
+  {
+   "id": "188e1a0f9b61",
+   "title": "Nvidia Embraces European Sovereignty at GTC Berlin - HPCwire",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1piUlB6Vndzc0g4dkZ6MlZOZkhfbHQtUm9JUlJ0U0JfbDhHcjRpS2w0X0N3T003UUxGYVRNbVNFT1QwRmRoVTY3ektINjB4Zi1qRUZvQ292R1hrTlVfX2x4Vm9DdkZONzR6T2ZNSDNlRkIxX1BzYTVXU1gxZkxvNkxuS1pMZWxYVm53aUttUQ",
+   "source": "HPCwire",
+   "published_at": "2026-10-21T22:45:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "HPCwire",
+     "published_at": "2026-10-21T22:45:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1piUlB6Vndzc0g4dkZ6MlZOZkhfbHQtUm9JUlJ0U0JfbDhHcjRpS2w0X0N3T003UUxGYVRNbVNFT1QwRmRoVTY3ektINjB4Zi1qRUZvQ292R1hrTlVfX2x4Vm9DdkZONzR6T2ZNSDNlRkIxX1BzYTVXU1gxZkxvNkxuS1pMZWxYVm53aUttUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "81ce29476026",
@@ -102,6 +158,23 @@
    "sentiment": 1
   },
   {
+   "id": "f88b6c8019bd",
+   "title": "Nvidia Shrinks AI Factory Setup From Months to Weeks - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUZaZXlkRmxrMzQyeVpPdGZkVklVUGxEUDg4REIzYmw0UDhJbzBxejJJM1cwWWhoZFg2MW44eGJjQ0NSNjFBdTUyZnZvblhGZDQ1SGwxbDVaVjJkNWN1V3RYR1puNTNRR1hRQ3Y4SFczdWFIZ0FNNUwzR25RdDA3NWUyNlVMb1pkM0N6bWVkTnIwcm5ZX0Q4ZXRaRQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-21T22:30:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T22:30:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUZaZXlkRmxrMzQyeVpPdGZkVklVUGxEUDg4REIzYmw0UDhJbzBxejJJM1cwWWhoZFg2MW44eGJjQ0NSNjFBdTUyZnZvblhGZDQ1SGwxbDVaVjJkNWN1V3RYR1puNTNRR1hRQ3Y4SFczdWFIZ0FNNUwzR25RdDA3NWUyNlVMb1pkM0N6bWVkTnIwcm5ZX0Q4ZXRaRQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "cc252f69ef62",
    "title": "英伟达GTC柏林演讲风波：绿色和平抗议俄武器问题，黄仁勋回应后机器人演示“不听话” - 凤凰网",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vSjl5Z3ZwOEJ1QWJybF9mX2k5WFFzYkxMOG9EZnBoQ19MNFN6SGNUYW1LaGszTjlWRzlUYTJiQXJ6ckRrVFhhb19JNW5DZFRoWVE",
@@ -120,6 +193,23 @@
    "zh_summary": "绿色和平在GTC柏林抗议，机器人演示出状况",
    "title_zh": "英伟达GTC柏林演讲：绿色和平抗议，黄仁勋回应后机器人演示失灵",
    "sentiment": 0
+  },
+  {
+   "id": "863c3838ea64",
+   "title": "HPE Stocks Rise 3.2% as Nvidia Agentic AI Stack Expands - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQME8xTXB1WXY4TjlzOGl5aWRCbkVuY1pfWlpwazlvMVFmYkxGdGZsTzVfeFF5YnotQzE0a000TWNUbFVNMWJYRmo3bGRrZ09BNzZyVVVnZHlRZVpCbGZTNEYtcF9UUFJVd1A5eFB0bXlEM0VBM21ucmg5eGt3bFA0WlF2blpLVzdtUVJB",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-21T22:23:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-21T22:23:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQME8xTXB1WXY4TjlzOGl5aWRCbkVuY1pfWlpwazlvMVFmYkxGdGZsTzVfeFF5YnotQzE0a000TWNUbFVNMWJYRmo3bGRrZ09BNzZyVVVnZHlRZVpCbGZTNEYtcF9UUFJVd1A5eFB0bXlEM0VBM21ucmg5eGt3bFA0WlF2blpLVzdtUVJB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "4b5390ab7c68",
@@ -2501,40 +2591,6 @@
    "sentiment": 1
   },
   {
-   "id": "498ea4f891ec",
-   "title": "英伟达AI预制工厂最快14天实现投产 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNFdQQzFzMHVxRVFWSlFuZklNeTVLbHdTNUs1bGVkSGlXQjN6MzRhYXFZWTB2M25WRHctWXBGMkgzMmtHTlA0UUxybG45Vkx5SldvNThPN2RFSW1ZMFVub08zZGZwa0cwTTBDMmwtZk9QUkRzYUE",
-   "source": "新浪财经",
-   "published_at": "2026-10-21T13:08:13+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-21T13:08:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNFdQQzFzMHVxRVFWSlFuZklNeTVLbHdTNUs1bGVkSGlXQjN6MzRhYXFZWTB2M25WRHctWXBGMkgzMmtHTlA0UUxybG45Vkx5SldvNThPN2RFSW1ZMFVub08zZGZwa0cwTTBDMmwtZk9QUkRzYUE"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-21T13:08:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNFdQQzFzMHVxRVFWSlFuZklNeTVLbHdTNUs1bGVkSGlXQjN6MzRhYXFZWTB2M25WRHctWXBGMkgzMmtHTlA0UUxybG45Vkx5SldvNThPN2RFSW1ZMFVub08zZGZwa0cwTTBDMmwtZk9QUkRzYUE"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-21T13:08:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNFdQQzFzMHVxRVFWSlFuZklNeTVLbHdTNUs1bGVkSGlXQjN6MzRhYXFZWTB2M25WRHctWXBGMkgzMmtHTlA0UUxybG45Vkx5SldvNThPN2RFSW1ZMFVub08zZGZwa0cwTTBDMmwtZk9QUkRzYUE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达AI预制工厂14天投产",
-   "title_zh": "英伟达AI预制工厂最快14天实现投产 - 新浪财经",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.29,
-    "window_h": 2.0
-   }
-  },
-  {
    "id": "7e67378485a5",
    "title": "Nokia and Nvidia keep AI-RAN momentum going as they edge closer to commercial reality - Fierce Network",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUZHMDhFLWNsU1RkUzV1SHFQc2tRWDJXdmVhaFA3Xzh2UENwUUJOTXlScHJDbFBPa2pCb2NtVlZLTEZyRlNZekZGNGYxeVNDNjA2UXhOXy1TZk9IWXQ3NFdxcUt0WjVGOVRrRlkwTWZWeUN1dS1NV0x0M1lFdFhuOWd2YUpMS0lhdkIyVEcxYng1aDhYUVVnaGZPaWJVdHhJLXl1TXllVTZHUQ",
@@ -2692,6 +2748,46 @@
    "zh_summary": "Vaisala与英伟达合作AI天气预警",
    "title_zh": "Vaisala与英伟达合作提供AI极端天气预警",
    "sentiment": 1
+  },
+  {
+   "id": "8aaf1c6b7fd3",
+   "title": "英伟达发布AI“预制工厂”，最快14天实现投产 - 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaENJRndKTzRmS1NzWjg4a1FkVE1fbE5jOHl0aEFNSnB0OEN2ajNpMTZkaEw4SzJoSENtXzRLbmRBUV9BQlZIZzhXQy1OZWNpbTE3ZHBVMm80NWVlblhOSERQNDhUVzl0enVTM1BaTFJrb2x5UUx1ZXhZLUxoWl9HVnVMbmI5OFB3SF95NXJQTQ",
+   "source": "21财经",
+   "published_at": "2026-10-21T13:02:00+00:00",
+   "outlets_count": 4,
+   "outlets": [
+    {
+     "name": "21财经",
+     "published_at": "2026-10-21T13:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaENJRndKTzRmS1NzWjg4a1FkVE1fbE5jOHl0aEFNSnB0OEN2ajNpMTZkaEw4SzJoSENtXzRLbmRBUV9BQlZIZzhXQy1OZWNpbTE3ZHBVMm80NWVlblhOSERQNDhUVzl0enVTM1BaTFJrb2x5UUx1ZXhZLUxoWl9HVnVMbmI5OFB3SF95NXJQTQ"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-21T13:08:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNFdQQzFzMHVxRVFWSlFuZklNeTVLbHdTNUs1bGVkSGlXQjN6MzRhYXFZWTB2M25WRHctWXBGMkgzMmtHTlA0UUxybG45Vkx5SldvNThPN2RFSW1ZMFVub08zZGZwa0cwTTBDMmwtZk9QUkRzYUE"
+    },
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-21T13:08:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNFdQQzFzMHVxRVFWSlFuZklNeTVLbHdTNUs1bGVkSGlXQjN6MzRhYXFZWTB2M25WRHctWXBGMkgzMmtHTlA0UUxybG45Vkx5SldvNThPN2RFSW1ZMFVub08zZGZwa0cwTTBDMmwtZk9QUkRzYUE"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-21T13:08:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NNFdQQzFzMHVxRVFWSlFuZklNeTVLbHdTNUs1bGVkSGlXQjN6MzRhYXFZWTB2M25WRHctWXBGMkgzMmtHTlA0UUxybG45Vkx5SldvNThPN2RFSW1ZMFVub08zZGZwa0cwTTBDMmwtZk9QUkRzYUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "breaking": true,
+   "zh_summary": "英伟达AI预制工厂14天投产",
+   "title_zh": "英伟达AI预制工厂最快14天实现投产 - 新浪财经",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.29,
+    "window_h": 2.0
+   }
   },
   {
    "id": "218a7c2b608a",
@@ -5333,12 +5429,17 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2lyOFczOUdEZzhTOTVoTVVOaXlLR25WRTNVQ09Lc0VoaXFrX1k5SWRyd1ZaOHNQVndSMUw1azhHNkZRNkFpQzJEaWJkcHBGbkZMbldKbDloa05laHB0MXNzaTRiaHo0aVlROWJBQkpzUHBaTElTcUFTOVEtdkVJX2NjcG5GaUtOeFRQdC1OdUlaV1kwZDBiM2dpeVdlUndPUzVKQzNQRy00Nm9iWXRCR1MzZUFfVS1TanBsYg",
    "source": "富途牛牛",
    "published_at": "2026-10-21T11:15:14+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "富途牛牛",
      "published_at": "2026-10-21T11:15:14+00:00",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2lyOFczOUdEZzhTOTVoTVVOaXlLR25WRTNVQ09Lc0VoaXFrX1k5SWRyd1ZaOHNQVndSMUw1azhHNkZRNkFpQzJEaWJkcHBGbkZMbldKbDloa05laHB0MXNzaTRiaHo0aVlROWJBQkpzUHBaTElTcUFTOVEtdkVJX2NjcG5GaUtOeFRQdC1OdUlaV1kwZDBiM2dpeVdlUndPUzVKQzNQRy00Nm9iWXRCR1MzZUFfVS1TanBsYg"
+    },
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-21T23:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QdXZxODdaeUpjbGd3RXl3NnJxc29rb3FWZldsWTV2Nm9udmx0NmxsWkVQNWFaMXdSbGlBQmxjTHRkMzdQVkhoRVoxLTQtS0JHX2VmdkZtWjI"
     }
    ],
    "category": "其他",
@@ -5887,6 +5988,23 @@
    "sentiment": 1
   },
   {
+   "id": "8aae57281bfb",
+   "title": "谷歌联手Meta奇袭英伟达，开源TorchTPU，给PyTorch代码搬家 - 凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YZjRUUWVPY0NuX1VCVTNidmRFb1U3ODhIc1V0RWJwVmFMNmQtXy1paDZkeFNxdkh4aUtCbXFpQ2RvNEpDaVlwN1BNang",
+   "source": "凤凰网科技",
+   "published_at": "2026-10-21T10:55:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-21T10:55:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YZjRUUWVPY0NuX1VCVTNidmRFb1U3ODhIc1V0RWJwVmFMNmQtXy1paDZkeFNxdkh4aUtCbXFpQ2RvNEpDaVlwN1BNang"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "3d34c064e79c",
    "title": "Nvidia CEO Huang Pitches Europe on All Industries Adopting AI - Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSzAzdHdHaS1FN0dNQnJ4N1hyT3l6RVJhb2FYMnROdXZnR3pjYXJITk9mWjRWS3Y1aTZuMENnTVZqdUJTVTRkTHBmejhOcEZIelY1Ri1GdmFJeUNyNy1BcDQteG1yLTY1dVIyR1huaHBDdTd5eUZvSk5TRkZHLVVBT25hTDJyZFRiMmdLVHdkYmNjNjE1dzQ5X2l6YkNpRGxLT0dOUm9oVDJudGFUT0ItZldwVldFTFhydHl2OTlyV1Rab2NCNEhKa1VZSmFzQQ",
@@ -6186,26 +6304,6 @@
    "sentiment": 1
   },
   {
-   "id": "c256e3c91a3b",
-   "title": "18:27:05【英伟达升级Isaac机器人平台 推出人形机器人参考框架与仿真工具】 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TazRkaU1yMWtYQmR4dkFkcURZZllmVERYeDNMWmRUVGFTR2NVckdRelVfUWY3V1c2YW1xanBlYmUweGxlMV9WRg",
-   "source": "财联社",
-   "published_at": "2026-10-21T10:35:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-21T10:35:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TazRkaU1yMWtYQmR4dkFkcURZZllmVERYeDNMWmRUVGFTR2NVckdRelVfUWY3V1c2YW1xanBlYmUweGxlMV9WRg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达推出人形机器人框架与仿真工具",
-   "title_zh": "英伟达升级Isaac机器人平台，推出人形机器人框架",
-   "sentiment": 1
-  },
-  {
    "id": "e5e2cea03095",
    "title": "英伟达公司——将于2027年2月在新加坡启动大规模测试生产 - 富途牛牛",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3F2WDVpOTZRRDViQXExZTUxek1HRDA3Zl9IRHJVUFViZ2Qwb2J4eXIzZXJuQTRLaTJfXzVhX0M0MXF6QUR3VDJodWROSC1veXJRYlp2RW5Yc1FiY0VjbHpSMU03c1lZaU5iUldTQnFOVHJjSkk0WTU4dXp0OTMzamYycWh1U1o4eWV6ZmFRR3B0bldEQjZVSFpybUdYb2R3QWg2T0k5cy1LQmNONmZ3S1hB",
@@ -6397,106 +6495,6 @@
    "session": "盘前",
    "zh_summary": "医疗龙头借英伟达推药物研发",
    "title_zh": "医疗企业用英伟达加速药物研发",
-   "sentiment": 1
-  },
-  {
-   "id": "a4e64446106c",
-   "title": "European Mobility Leaders Build Safe Vehicles and Robotaxi Fleets on NVIDIA Hyperion - NVIDIA Newsroom",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGJVNHZWcFp1b0U5bk9CYktzTFQ0dWtxU0lGaW0zVGVpeGVsazdKeTMwLV9LT0FhRTQxWFhyUHB5N3M2dnloekE0UThjb2dINVQyb1B5WEdhTFNidElPdnNWZ1RWSy1IeGxzYS14M3BCZFBuNmxTSFVFdW9TdUxMY3VsbzNNQ1VHdGdPaWVKOVBJNm5IQWk3YmxwTUNhNlJEUmlaMkQxYlp5b01hM0cxMjVmaHR6R3dQa05r",
-   "source": "NVIDIA Newsroom",
-   "published_at": "2026-10-21T10:23:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Newsroom",
-     "published_at": "2026-10-21T10:23:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGJVNHZWcFp1b0U5bk9CYktzTFQ0dWtxU0lGaW0zVGVpeGVsazdKeTMwLV9LT0FhRTQxWFhyUHB5N3M2dnloekE0UThjb2dINVQyb1B5WEdhTFNidElPdnNWZ1RWSy1IeGxzYS14M3BCZFBuNmxTSFVFdW9TdUxMY3VsbzNNQ1VHdGdPaWVKOVBJNm5IQWk3YmxwTUNhNlJEUmlaMkQxYlp5b01hM0cxMjVmaHR6R3dQa05r"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "欧洲出行巨头采用Hyperion",
-   "title_zh": "欧洲车企用Hyperion建自动驾驶车队",
-   "sentiment": 1
-  },
-  {
-   "id": "b921ce0b0d16",
-   "title": "谢幕倒计时！RTX 5090/5080明年1月停产：英伟达高端卡价格还要涨 - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IRjFtaHNubUxCVk1BRFdmZ2R3Y1dTcl9jLVIzUGdmOG9wNWg5LUs4SEtkTU0yQ19lX1o5Qi1Odks4QjFLOHpZYVlJMHM5cFlFSk5V",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-21T10:21:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-21T10:21:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IRjFtaHNubUxCVk1BRFdmZ2R3Y1dTcl9jLVIzUGdmOG9wNWg5LUs4SEtkTU0yQ19lX1o5Qi1Odks4QjFLOHpZYVlJMHM5cFlFSk5V"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "RTX 5090/5080明年1月停产",
-   "title_zh": "谢幕倒计时！RTX 5090/5080明年1月停产：英伟达高端卡价格还要涨",
-   "sentiment": 0
-  },
-  {
-   "id": "df1593b721f6",
-   "title": "英伟达推出全新人形机器人参考模型、框架、仿真流水线和数据，推进 Isaac 平台在通用机器人领域的应用。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12QXo2M1g0U3YxQ1FnakFpNVZfcFFPX2xKVzFYcWRDbVdkS2R5ejNUcERpcEQ3c0haNEU5Ymh1N01GcjF3MFZqRm5ocw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-21T10:20:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-21T10:20:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12QXo2M1g0U3YxQ1FnakFpNVZfcFFPX2xKVzFYcWRDbVdkS2R5ejNUcERpcEQ3c0haNEU5Ymh1N01GcjF3MFZqRm5ocw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达发布人形机器人参考模型",
-   "title_zh": "英伟达推出全新人形机器人参考模型、框架、仿真流水线和数据，推进 Isaac 平台在通用机器人领域的应用。 - 手机新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "3b2b0c797267",
-   "title": "A humanoid platform built on NVIDIA tech cuts robot setup from weeks to days - Stock Titan",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZkhGbTBpdWM5T1BDUE10d3Rudmx2YnZ6QmhTOEZIRzVYczA4MHNTS0F5MGQtSHozemhxX3lSY21WYXN6N1JqY3h4bWRIUHg1UXRBUUoyRUNnRzV0LUJ5WEhvb3JPdHVvaG51MGFLRUZRTHl2NUZoSld1M2xFWFNUcEsyZDdFZkZrTk80Y21SSW1WZndya0ZzYVJHbmhjbFlKQUtMbklBcG5hWi1jZnhqUVR3TERIWTdEQjFaRTVENng",
-   "source": "Stock Titan",
-   "published_at": "2026-10-21T10:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stock Titan",
-     "published_at": "2026-10-21T10:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZkhGbTBpdWM5T1BDUE10d3Rudmx2YnZ6QmhTOEZIRzVYczA4MHNTS0F5MGQtSHozemhxX3lSY21WYXN6N1JqY3h4bWRIUHg1UXRBUUoyRUNnRzV0LUJ5WEhvb3JPdHVvaG51MGFLRUZRTHl2NUZoSld1M2xFWFNUcEsyZDdFZkZrTk80Y21SSW1WZndya0ZzYVJHbmhjbFlKQUtMbklBcG5hWi1jZnhqUVR3TERIWTdEQjFaRTVENng"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达平台缩短机器人部署时间",
-   "title_zh": "英伟达机器人平台将部署时间缩至数天",
-   "sentiment": 1
-  },
-  {
-   "id": "af3007f58cb5",
-   "title": "NVIDIA and Cisco unveil USFP optics for AI factories ... - eeNews Europe",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVJhWDBLMkFPeVVwVXNqYzhSbGczLWRxa0lsRWxWdVQ4bVZSOXY0b3hHYVNiYnk1NHlRMWJWSWpnNm9EWEhYcDVxMDBnOFVEb0NjRXZOMmFwelNPZlZkMl9LbVVUeElpRlJmbkU4N0w1ZG4tXy1TUTBOVGFBY3VlTXZYeHRfVWFkOF95MnZ3",
-   "source": "eeNews Europe",
-   "published_at": "2026-10-21T10:18:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "eeNews Europe",
-     "published_at": "2026-10-21T10:18:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVJhWDBLMkFPeVVwVXNqYzhSbGczLWRxa0lsRWxWdVQ4bVZSOXY0b3hHYVNiYnk1NHlRMWJWSWpnNm9EWEhYcDVxMDBnOFVEb0NjRXZOMmFwelNPZlZkMl9LbVVUeElpRlJmbkU4N0w1ZG4tXy1TUTBOVGFBY3VlTXZYeHRfVWFkOF95MnZ3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达思科联合发布USFP光模块",
-   "title_zh": "英伟达与思科发布AI工厂光模块",
    "sentiment": 1
   }
  ]
