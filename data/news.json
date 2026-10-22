@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-22T16:22:10.270209+00:00",
+ "updated_at": "2026-10-22T16:37:52.225532+00:00",
  "market": {
-  "price": 213.91,
-  "change_pct": -3.63,
+  "price": 213.37,
+  "change_pct": -3.87,
   "as_of": "2026-10-22",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.69,
-   "count": 197
+   "count": 198
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 66% 分位"
+     "note": "现价处于52周区间 65% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +47.3%"
+     "note": "目标价中位数 $315（16家），隐含空间 +47.6%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.69（197条已评分）"
+     "note": "今日新闻情绪 +0.69（198条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.91 vs 20日均线 $226.33"
+     "note": "现价 $213.37 vs 20日均线 $226.31"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 66,
+   "price_52w_pct": 65,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 47.3,
-   "ma20": 226.33,
-   "as_of": "2026-10-22T16:22:10.254558+00:00"
+   "implied_upside_pct": 47.6,
+   "ma20": 226.31,
+   "as_of": "2026-10-22T16:37:52.212152+00:00"
   },
-  "pe_ttm": 27.2,
+  "pe_ttm": 27.1,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.3%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.6%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "3d9be2a7df52",
+   "title": "HPE expands Private Cloud AI solution to support mixed Nvidia hardware clusters, launches Vera CPU rack - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT0lfdlVfbkZKbFlDMmdzTG5OTEE3SnQ1WWZiS0Z2QmgzWGxYOGQtWWM4dTV6bEs3WUFCVWw0M2hQYjA0N1c4Y3lZX3oyVnVuX2xVVk1ySVp2WnBEV1RNSGZmVWV6dFZQWThkOHc1dEZnUXFQVHJ4blFjbVNELWo1TDBTVnF1MXh0dC04QVFKSFRMRDJ2d21qZHNka05LTjAzWUNqdlZHUjdLY3MtZWZWNEZUd1JKaXZQUHo3NlJUY3hVZENxejJQVTNJS0NpVl9JYWpvUmRJaEpSZ21tdkZj",
+   "source": "Data Center Dynamics",
+   "published_at": "2026-10-22T16:23:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Dynamics",
+     "published_at": "2026-10-22T16:23:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT0lfdlVfbkZKbFlDMmdzTG5OTEE3SnQ1WWZiS0Z2QmgzWGxYOGQtWWM4dTV6bEs3WUFCVWw0M2hQYjA0N1c4Y3lZX3oyVnVuX2xVVk1ySVp2WnBEV1RNSGZmVWV6dFZQWThkOHc1dEZnUXFQVHJ4blFjbVNELWo1TDBTVnF1MXh0dC04QVFKSFRMRDJ2d21qZHNka05LTjAzWUNqdlZHUjdLY3MtZWZWNEZUd1JKaXZQUHo3NlJUY3hVZENxejJQVTNJS0NpVl9JYWpvUmRJaEpSZ21tdkZj"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "771951214257",
+   "title": "Nvidia Unveils DSX POD Amid Greenpeace Protest - Data Center Knowledge",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEJSeThMUWtSN1NUM3hXZ2dhRU9MaDkwcTJtUnZIU3QxdkE2dTUxRnd6bjh4Z1NTVkhwMEZzM2JIRE9UdE01X0RCY0pKcXg3NG9JUEoxYzdfdmZxS1VUb2xTaFNhZXFrY0dYbTJfWm01Ti03aWR1ckxRZmtkamRNVWNGSjZocDZtVW5PVWxJWE5zRUdkNWdySzZwZ1B4UFE",
+   "source": "Data Center Knowledge",
+   "published_at": "2026-10-22T16:18:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Knowledge",
+     "published_at": "2026-10-22T16:18:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEJSeThMUWtSN1NUM3hXZ2dhRU9MaDkwcTJtUnZIU3QxdkE2dTUxRnd6bjh4Z1NTVkhwMEZzM2JIRE9UdE01X0RCY0pKcXg3NG9JUEoxYzdfdmZxS1VUb2xTaFNhZXFrY0dYbTJfWm01Ti03aWR1ckxRZmtkamRNVWNGSjZocDZtVW5PVWxJWE5zRUdkNWdySzZwZ1B4UFE"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
   {
    "id": "2a3ea882dbd3",
    "title": "Siemens Healthineers, Nvidia launch radiotherapy AI collaboration - MassDevice",
@@ -140,6 +174,23 @@
    "zh_summary": "戴尔发布英伟达Vera CPU产品",
    "title_zh": "戴尔发布英伟达Vera CPU产品及首个Groq 3 LPU机架方案",
    "sentiment": 1
+  },
+  {
+   "id": "7ea2833a12fb",
+   "title": "英伟达(NVDA.US)GTC柏林释放2027年增长信号！大摩看好供应链扩产与AI工厂提效 重申首选股 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2OWFlQklpVXNqTmctU0Q2QkFVV1ppS2ZZMjdnY29KS3VMalh6UjVSTGJ6OC1NUEp1V3dVaFcxWmppSWZiUEw3TDZweUxWeXdHaGo1QzZRYXc2al9VaGZNVA",
+   "source": "证券之星",
+   "published_at": "2026-10-22T15:41:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-22T15:41:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2OWFlQklpVXNqTmctU0Q2QkFVV1ppS2ZZMjdnY29KS3VMalh6UjVSTGJ6OC1NUEp1V3dVaFcxWmppSWZiUEw3TDZweUxWeXdHaGo1QzZRYXc2al9VaGZNVA"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘中"
   },
   {
    "id": "c86c6644de3c",
@@ -3268,26 +3319,6 @@
    "sentiment": 1
   },
   {
-   "id": "8b42cefa1fb5",
-   "title": "NVIDIA Corporation $NVDA Stock Bought by Henrickson Nauta Wealth Advisors Inc. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSWFZTzdZR3R2MTlGOWV6Mnh6QjdLazZScjVldDJwZVZ0Z0diWXhqelh0Z1A4Mkxvekw2Um5XOUVZOGdxWmlqSnpqa0o3aEpiRDBZSVlLLTB4RDRFUFVuWW9tYm5rS2szQlBJY0luN3lFaGgyU1BLeVdCZmlfVG80R1Fnd1BkVy1RaFNMd19rWEMyVHJ1QUFjc0lCcUtQc2hBN1pmbjZiSlhXeGNyWm80VFZmbmQ0cGRmWEk2cVNua1VlYnQ1bWZNV2xMbkk1WUhIdWlV",
-   "source": "MarketBeat",
-   "published_at": "2026-10-22T07:34:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-22T07:34:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSWFZTzdZR3R2MTlGOWV6Mnh6QjdLazZScjVldDJwZVZ0Z0diWXhqelh0Z1A4Mkxvekw2Um5XOUVZOGdxWmlqSnpqa0o3aEpiRDBZSVlLLTB4RDRFUFVuWW9tYm5rS2szQlBJY0luN3lFaGgyU1BLeVdCZmlfVG80R1Fnd1BkVy1RaFNMd19rWEMyVHJ1QUFjc0lCcUtQc2hBN1pmbjZiSlhXeGNyWm80VFZmbmQ0cGRmWEk2cVNua1VlYnQ1bWZNV2xMbkk1WUhIdWlV"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Henrickson Nauta新建仓英伟达",
-   "title_zh": "Henrickson Nauta买入英伟达股票",
-   "sentiment": 1
-  },
-  {
    "id": "9ca5056ee28f",
    "title": "同样是给英伟达扩产能，光引擎要15倍，基板只有2.5倍 - 光通信Pro",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XYkYtemRsa2J2Q1VvblhxTWtoQlVneUxCU0VLRTlXVHFoOGgyS3hYY3h4eW1XdFlVVElJa0JEdnVjSE1XNHQ3RTNvSklzMUFsNmJieQ",
@@ -6351,46 +6382,6 @@
    "session": "盘中",
    "zh_summary": "ASML新消息涉英伟达与美光",
    "title_zh": "ASML传出对英伟达和美光投资者的好消息",
-   "sentiment": 1
-  },
-  {
-   "id": "67ec02af10cd",
-   "title": "英伟达、诺基亚与全球主要电信运营商推动通信网络转型为分布式智能平台 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4weTJ6dlVzSU1FZG43TWlSc205T0NqOGFvNEZ0aHdCcW54a3RGRmpfYnZHelhyNXlMSHRWQmx2RGhyVEgwS3AyNnc3dTNuWHpCNlFGWllDMnFreWFadWRucUFZdw",
-   "source": "东方财富",
-   "published_at": "2026-10-21T19:25:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-21T19:25:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4weTJ6dlVzSU1FZG43TWlSc205T0NqOGFvNEZ0aHdCcW54a3RGRmpfYnZHelhyNXlMSHRWQmx2RGhyVEgwS3AyNnc3dTNuWHpCNlFGWllDMnFreWFadWRucUFZdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达携诺基亚及运营商推动通信网络AI转型",
-   "title_zh": "英伟达、诺基亚与全球电信运营商推动通信网络AI转型",
-   "sentiment": 1
-  },
-  {
-   "id": "7b200a4d328b",
-   "title": "Dow's 131-Point Rally Highlighted By Gains For NVIDIA Corp., IBM Stocks - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDRUUzJmZy1BZTdNY3J3al9KZmNWalIxZlNWWW1UMk90TnRLc01VUGhWcXJYZURZVWlxbl9FQkdyNmZTT3RxNVFyQ3VncFc0OTR6eVBfYmMxTmRfUzY0Vk1XMWZJNnhlTWhmQ3hFcFB0V3p3SWpxRGRGZmFsVmNtakhrNGxsT0FjX3UxMGVtcmt2d05CVERsR2U4cUNhZw",
-   "source": "Moomoo",
-   "published_at": "2026-10-21T19:10:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-21T19:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDRUUzJmZy1BZTdNY3J3al9KZmNWalIxZlNWWW1UMk90TnRLc01VUGhWcXJYZURZVWlxbl9FQkdyNmZTT3RxNVFyQ3VncFc0OTR6eVBfYmMxTmRfUzY0Vk1XMWZJNnhlTWhmQ3hFcFB0V3p3SWpxRGRGZmFsVmNtakhrNGxsT0FjX3UxMGVtcmt2d05CVERsR2U4cUNhZw"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "道指涨131点，英伟达等领涨",
-   "title_zh": "道指上涨131点，英伟达、IBM等领涨",
    "sentiment": 1
   }
  ]
