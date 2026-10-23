@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T16:51:35.792504+00:00",
+ "updated_at": "2026-10-23T17:06:34.338240+00:00",
  "market": {
-  "price": 211.96,
-  "change_pct": -0.12,
+  "price": 211.83,
+  "change_pct": -0.18,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.44,
-   "count": 127
+   "count": 129
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +48.6%"
+     "note": "目标价中位数 $315（16家），隐含空间 +48.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（127条已评分）"
+     "note": "今日新闻情绪 +0.44（129条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $211.96 vs 20日均线 $225.59"
+     "note": "现价 $211.83 vs 20日均线 $225.59"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 63,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 48.6,
+   "implied_upside_pct": 48.7,
    "ma20": 225.59,
-   "as_of": "2026-10-23T16:51:35.773339+00:00"
+   "as_of": "2026-10-23T17:06:34.318015+00:00"
   },
   "pe_ttm": 26.9,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.6%空间：估值偏低，预期乐观"
+  "pe_pct_5y": 20,
+  "valuation_sentence": "现价处5年P/E 20%分位，目标价隐含+48.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "a28459828a3a",
+   "title": "MSI XpertStation WS300 Review NVIDIA DGX Station GB300 - ServeTheHome",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNzE3V19CSms2cmlJZGR1aFBMYVMxYWp1OGxzbnZDa0NobjE2bHg3NTVBOGUyWENVYU1GeGRQaXFPcFliYnhYSGRnaVZvYlc0RUo2WVhRX05ncW1JTG9yTUs4ZWlUWTBhdUZfU0RLZHh4cG90WkNZY1pnZlJiWTQtbVBWbzhLT1hCc251bQ",
+   "source": "ServeTheHome",
+   "published_at": "2026-10-23T17:00:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "ServeTheHome",
+     "published_at": "2026-10-23T17:00:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNzE3V19CSms2cmlJZGR1aFBMYVMxYWp1OGxzbnZDa0NobjE2bHg3NTVBOGUyWENVYU1GeGRQaXFPcFliYnhYSGRnaVZvYlc0RUo2WVhRX05ncW1JTG9yTUs4ZWlUWTBhdUZfU0RLZHh4cG90WkNZY1pnZlJiWTQtbVBWbzhLT1hCc251bQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "05d765098107",
+   "title": "Apple Passes NVIDIA in Market Value on iPhone Duo Launch Day - The Mac Observer",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWhhTW91Rk9XNnJwcE94NXJLUUF0ZENsTWhkUDNjeEVDNUZpVzZ1UnNTMEFaZGxDd0JYOVhGbXNBZE9QWTcwX3pITjhHUHEzZ2ZsczVEcWlwN1d3dzZzVEg4cElYT0pCOFhNN3FIUWIwTGRoU2RZb01jeHJ0eVNpSWxfMHZsdGw5RmlWd1Jaa2ZxZHZrNTVqazZB",
+   "source": "The Mac Observer",
+   "published_at": "2026-10-23T17:00:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Mac Observer",
+     "published_at": "2026-10-23T17:00:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbWhhTW91Rk9XNnJwcE94NXJLUUF0ZENsTWhkUDNjeEVDNUZpVzZ1UnNTMEFaZGxDd0JYOVhGbXNBZE9QWTcwX3pITjhHUHEzZ2ZsczVEcWlwN1d3dzZzVEg4cElYT0pCOFhNN3FIUWIwTGRoU2RZb01jeHJ0eVNpSWxfMHZsdGw5RmlWd1Jaa2ZxZHZrNTVqazZB"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "07ee58e2ed94",
+   "title": "Nvidia Faces up to 45% Shortfall in Planned Data Center Capacity in 2027 - NVIDIA (NASDAQ:NVDA) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmRxX0ZBbDJOMzJGTG56TXloZmVzRldkQVRKYUNlSFNmVEVpVjk4QzJpa3NDUlY3SFlXSFo3dTVOR2FDRFZWUVc5d1JvSzE1YVVWYW1HQS16QnFBbHk4SEpGaGZvMTFTSEdmaHhHaV9YUjZ3THpDaFFKN0NxbHpKcVVqVnFrekxlX0M5eWVkQ2JKak1wV2lpOGNGM1VSeFJYMWpwSDVwZjVVM0V1",
+   "source": "Benzinga",
+   "published_at": "2026-10-23T16:47:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-23T16:47:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmRxX0ZBbDJOMzJGTG56TXloZmVzRldkQVRKYUNlSFNmVEVpVjk4QzJpa3NDUlY3SFlXSFo3dTVOR2FDRFZWUVc5d1JvSzE1YVVWYW1HQS16QnFBbHk4SEpGaGZvMTFTSEdmaHhHaV9YUjZ3THpDaFFKN0NxbHpKcVVqVnFrekxlX0M5eWVkQ2JKak1wV2lpOGNGM1VSeFJYMWpwSDVwZjVVM0V1"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
   {
    "id": "e25e68ecd479",
    "title": "英伟达豪掷1700亿美元押注新式云计算 - 搜狐",
@@ -185,6 +236,23 @@
    "zh_summary": "苹果市值超越英伟达居首",
    "title_zh": "苹果市值超英伟达，特朗普经济支持率下降及更多",
    "sentiment": -1
+  },
+  {
+   "id": "0aa0bc6a89bc",
+   "title": "八台NVIDIA DGX Spark节点集群运行前沿级AI模型-AI基础设施 - 至顶网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nOGZyY0l1MTNoOHR3LS1RTDd5MjdKNnFWeEhOU19ZYVpGRi01YTBrMmJXWlFDSmR0cmZfdWpFUHA1NDZNdklxVzYxSWs0bDEwLWIxS01lSGc4NHV1OTJ1dGFIbkZJcEM5QTVrdWN5d3dLUQ",
+   "source": "至顶网",
+   "published_at": "2026-10-23T15:24:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "至顶网",
+     "published_at": "2026-10-23T15:24:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nOGZyY0l1MTNoOHR3LS1RTDd5MjdKNnFWeEhOU19ZYVpGRi01YTBrMmJXWlFDSmR0cmZfdWpFUHA1NDZNdklxVzYxSWs0bDEwLWIxS01lSGc4NHV1OTJ1dGFIbkZJcEM5QTVrdWN5d3dLUQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "91a480f87f18",
@@ -6236,86 +6304,6 @@
    "session": "盘前",
    "zh_summary": "英飞凌与英伟达合作开发氮化镓电源技术",
    "title_zh": "英飞凌与英伟达合作开发800VDC数据中心氮化镓电源技术",
-   "sentiment": 1
-  },
-  {
-   "id": "a83947ee6a9e",
-   "title": "NVDA Stock Jitters Grow As Retail Sentiment Sours - StocksToTrade",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sZ1FrY3l0VmdKRS1ldUNEak1JQ0FLMzVBWC1EejlBbDVjbnU1MGM3MlhYb0s5eklaTmlTcVBYaGlYQ2lSNzhZWGxKNmVwVUNUcVVOWEZNS3RHTUZVZ1BfZnY5VUh1aEFoazB4d0xXRUV0ck84Q1preTA4MkFNQQ",
-   "source": "StocksToTrade",
-   "published_at": "2026-10-22T12:32:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "StocksToTrade",
-     "published_at": "2026-10-22T12:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sZ1FrY3l0VmdKRS1ldUNEak1JQ0FLMzVBWC1EejlBbDVjbnU1MGM3MlhYb0s5eklaTmlTcVBYaGlYQ2lSNzhZWGxKNmVwVUNUcVVOWEZNS3RHTUZVZ1BfZnY5VUh1aEFoazB4d0xXRUV0ck84Q1preTA4MkFNQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "散户情绪转差引NVDA股价波动",
-   "title_zh": "散户情绪恶化，NVDA股价波动加剧",
-   "sentiment": -1
-  },
-  {
-   "id": "1d128f362a62",
-   "title": "Here are Thursday's biggest analyst calls: Nvidia, Tesla, SpaceX, Meta, CoreWeave, IBM, Block & more - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN0JzLVlwTHVQMmdRcmplTXJYS2l3ejJGbGQ3cVpYamFSZWNVWWl5X3Z6UlJpekp0Q3h4QmJiREpMU1BsUWtwMGdHdm50N01iTXNidmRqejQ5YTE2Vkc3d3l2X3dVV09rc0tOUnNDQVB2SldCWW05elh5R1dfcXZaYTFxeERndmFIZnZMcE5BQXM",
-   "source": "CNBC",
-   "published_at": "2026-10-22T12:29:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-22T12:29:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN0JzLVlwTHVQMmdRcmplTXJYS2l3ejJGbGQ3cVpYamFSZWNVWWl5X3Z6UlJpekp0Q3h4QmJiREpMU1BsUWtwMGdHdm50N01iTXNidmRqejQ5YTE2Vkc3d3l2X3dVV09rc0tOUnNDQVB2SldCWW05elh5R1dfcXZaYTFxeERndmFIZnZMcE5BQXM"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "周四重要分析师评级：英伟达等",
-   "title_zh": "周四重要分析师评级：英伟达、特斯拉等",
-   "sentiment": 0
-  },
-  {
-   "id": "b461e2858801",
-   "title": "Super Micro Unveils New NVIDIA AI Rack After Stock Jumps Nearly 10% - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzZqcVBibUZwYTdqVWxON1BkUHJJSDlHUG83QVplV3FCcVNYel9Wbncxa1JzMEVuVnRlUWV3RF81S3IzSzhPam1WWlVDbjFFLXp0NUtWc0l6OFVJVEp0blB3Sk5vNkwzOEhHNDdLcU1qdGVITzZ3RzFhakRkX3U4ckdIRTRTSkw2eERSSDVHVW40ZG56RjJFbw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T12:24:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T12:24:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQzZqcVBibUZwYTdqVWxON1BkUHJJSDlHUG83QVplV3FCcVNYel9Wbncxa1JzMEVuVnRlUWV3RF81S3IzSzhPam1WWlVDbjFFLXp0NUtWc0l6OFVJVEp0blB3Sk5vNkwzOEhHNDdLcU1qdGVITzZ3RzFhakRkX3U4ckdIRTRTSkw2eERSSDVHVW40ZG56RjJFbw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "超微发布新款英伟达AI机柜",
-   "title_zh": "超微股价涨近10%后发布新款英伟达AI机柜",
-   "sentiment": 0
-  },
-  {
-   "id": "c4c0893cf200",
-   "title": "罗克韦尔自动化在AI平台中新增英伟达模型支持 提供者 Investing.com - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BQnI0VVpYNXFja0ZqdWxGdzRzRVJ6LW9mdXotTGJtekFobVJOUmtsVVhGTTljWEhFRWVfLWpQWDJfZkZPczJ5UFFRSmZhU1hjaVUtWGRBNVBsNUJlRktQOGdaYjNDUGF5eG9RWFU5NnY",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-22T12:18:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-22T12:18:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BQnI0VVpYNXFja0ZqdWxGdzRzRVJ6LW9mdXotTGJtekFobVJOUmtsVVhGTTljWEhFRWVfLWpQWDJfZkZPczJ5UFFRSmZhU1hjaVUtWGRBNVBsNUJlRktQOGdaYjNDUGF5eG9RWFU5NnY"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "罗克韦尔AI平台新增英伟达模型支持",
-   "title_zh": "罗克韦尔自动化AI平台新增英伟达模型支持",
    "sentiment": 1
   }
  ]
