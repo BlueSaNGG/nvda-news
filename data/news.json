@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T09:36:30.405269+00:00",
+ "updated_at": "2026-10-23T09:51:28.940460+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -10,8 +10,8 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.72,
-   "count": 39
+   "avg": 0.73,
+   "count": 41
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.72（39条已评分）"
+     "note": "今日新闻情绪 +0.73（41条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-23T09:36:30.395379+00:00"
+   "as_of": "2026-10-23T09:51:28.926000+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,74 @@
   }
  },
  "stories": [
+  {
+   "id": "45b7cf7f096b",
+   "title": "NVIDIA expands global manufacturing for AI infrastructure - Engineering.com",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS2g1VTQ0UWxuQU95ZVB6dUVCdTlJWmwyNnE5NEVUa2FkUzF3aFk1d1ptdUVlWVc0V2FfWVQzV20tSDVPbTY1S1pzd29VbW41UGZpRncwMTMwd2lieUZ5aVFxd2dLME8tR2hXOXVmUE5NTWNSaDFfS1lveFFvM2pPeFl1ZFc3WU9manUtRHh2Yw",
+   "source": "Engineering.com",
+   "published_at": "2026-10-23T09:45:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Engineering.com",
+     "published_at": "2026-10-23T09:45:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS2g1VTQ0UWxuQU95ZVB6dUVCdTlJWmwyNnE5NEVUa2FkUzF3aFk1d1ptdUVlWVc0V2FfWVQzV20tSDVPbTY1S1pzd29VbW41UGZpRncwMTMwd2lieUZ5aVFxd2dLME8tR2hXOXVmUE5NTWNSaDFfS1lveFFvM2pPeFl1ZFc3WU9manUtRHh2Yw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
+   "id": "9760d44bd7ba",
+   "title": "英伟达的新动作，意外打开了中国AI的另一条路-36氪 - www.36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16b2tYZ0pYczdXcG10V3dFeEdKOGR0dHBzY1RXUjNxQmE1eXUyUnNCa3BNaDk5cVFhc3FtT0wzQmVlbkJrS1E5TmtvLWVqUEU",
+   "source": "www.36kr.com",
+   "published_at": "2026-10-23T09:43:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "www.36kr.com",
+     "published_at": "2026-10-23T09:43:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16b2tYZ0pYczdXcG10V3dFeEdKOGR0dHBzY1RXUjNxQmE1eXUyUnNCa3BNaDk5cVFhc3FtT0wzQmVlbkJrS1E5TmtvLWVqUEU"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
+  {
+   "id": "5d20376425e5",
+   "title": "Agile ONE SN Humanoid Robot Bundles Nvidia’s Robotics Stack - TechRepublic",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGprUF9IMDFaQVlkZmZVb1FQUTdXZ0tVQy1hMGNWR0dNYmd2UmJ1N1p1S28xZkYybWFkS3JIWlFuOEkzSWhvT1h6R2I5TFdDNUxydUVmN3RXU3Rrcmd2MWl0a0xLcE5xTlNpTlp0NE1NVEFIYkZvMWU0S3VYUTU0N2pHMA",
+   "source": "TechRepublic",
+   "published_at": "2026-10-23T09:42:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechRepublic",
+     "published_at": "2026-10-23T09:42:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGprUF9IMDFaQVlkZmZVb1FQUTdXZ0tVQy1hMGNWR0dNYmd2UmJ1N1p1S28xZkYybWFkS3JIWlFuOEkzSWhvT1h6R2I5TFdDNUxydUVmN3RXU3Rrcmd2MWl0a0xLcE5xTlNpTlp0NE1NVEFIYkZvMWU0S3VYUTU0N2pHMA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "352d119d3934",
+   "title": "Pony AI Unveils Collaboration With Nvidia, inDrive to Explore Launch of Autonomous Vehicles in Kazakhstan - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdENTTWw0QzU0SER4X3E0YWhBSDFFWk1wcEZ3cmhxX1p6d1VWMkx5QkJ6RkVpRlZVMHluTFY5dWE5UHRUVjdnLTNlYzc3NzVLcnhTc3RXWlNPZWk2MmtNMWdnZzhqd2dKRURydXA5T2g0UEZFRlpuVTRQSzczUHprME56eFRrQ0xqWTF1dEw0bkktTjBVMWJ4WWpJNUhRYjFHT2x5UWN4X1NMejFsQUo5TDhIMXVraXA1TDNpZVhBMVc0RS1yU243S1pNNng1eEdZWE9jNlN6SUl3VWh2UjdsNzRKZFRhUHM",
+   "source": "marketscreener.com",
+   "published_at": "2026-10-23T09:35:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-23T09:35:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdENTTWw0QzU0SER4X3E0YWhBSDFFWk1wcEZ3cmhxX1p6d1VWMkx5QkJ6RkVpRlZVMHluTFY5dWE5UHRUVjdnLTNlYzc3NzVLcnhTc3RXWlNPZWk2MmtNMWdnZzhqd2dKRURydXA5T2g0UEZFRlpuVTRQSzczUHprME56eFRrQ0xqWTF1dEw0bkktTjBVMWJ4WWpJNUhRYjFHT2x5UWN4X1NMejFsQUo5TDhIMXVraXA1TDNpZVhBMVc0RS1yU243S1pNNng1eEdZWE9jNlN6SUl3VWh2UjdsNzRKZFRhUHM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "516781c30b07",
    "title": "Nvidia DGX Spark 64GB Launches at $4,999: Is It Worth It? - TechRepublic",
@@ -146,12 +214,12 @@
    "title": "Nvidia Stock Forecast: Huang's Neocloud Funding Remarks Push NVDA Into the $206.89 Demand Zone - TradingKey",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQkdEd3p3eFVHNEp0UndFbTJzVGlEdTJCSGZLUWpWbGpjRU55cXJqVi1zcXhwZ09xOTF4MzJ6aTJzZHdTLVlUN0ZoZGZmbEl0VmQ2N0JyaE9lekp3dVlYVzZ6LVhwcTl0bFVLdlF3RHZrM0w4R2JEaEY3TXJiWjlxcWc0UzFLZ3JHSXphNXljSGVxN0wtSnVvMkVhOE9lMFN0Q01JQVJpTVdjUFMxd196aGhqc3doc1BoWTc5dzd0dGVwaTEyVmRnT1FuS01OZnNpTk95YXNNQWRFeHYwTGdHeDhPU0Z0QUN6bEF1em1wSFI",
    "source": "TradingKey",
-   "published_at": "2026-10-23T09:03:26+00:00",
+   "published_at": "2026-10-23T09:02:50+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "TradingKey",
-     "published_at": "2026-10-23T09:03:26+00:00",
+     "published_at": "2026-10-23T09:02:50+00:00",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQkdEd3p3eFVHNEp0UndFbTJzVGlEdTJCSGZLUWpWbGpjRU55cXJqVi1zcXhwZ09xOTF4MzJ6aTJzZHdTLVlUN0ZoZGZmbEl0VmQ2N0JyaE9lekp3dVlYVzZ6LVhwcTl0bFVLdlF3RHZrM0w4R2JEaEY3TXJiWjlxcWc0UzFLZ3JHSXphNXljSGVxN0wtSnVvMkVhOE9lMFN0Q01JQVJpTVdjUFMxd196aGhqc3doc1BoWTc5dzd0dGVwaTEyVmRnT1FuS01OZnNpTk95YXNNQWRFeHYwTGdHeDhPU0Z0QUN6bEF1em1wSFI"
     }
    ],
@@ -572,6 +640,23 @@
    "sentiment": 1
   },
   {
+   "id": "c588e12d1fe4",
+   "title": "Nvidia’s Huang Reveals Investment in AI Video Unicorn Higgsfield - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHhEb3JuUm1ma05hdTNPb0hBc2lQbTFnNTF0ZThWZFBzUXpxSTM3Nmw2d05LRDVSRllZd1FJUHd3ekFPZmhCdjlQWWVvbnI1UklWeThscm9nTXZLSkVPTUxtS1VEYi1YSlJMZHlYdXJnbE9CRXdmYlNSc3dZdkhWZnl5QmhtMkZiMHFtdW14Yjh5bGRvaTBwRHN6bUt6MzNFTkVKMi1SbUZrVlBUbUpYUHo4SVA4YmVqT2RpZU5n",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-23T07:17:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-23T07:17:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHhEb3JuUm1ma05hdTNPb0hBc2lQbTFnNTF0ZThWZFBzUXpxSTM3Nmw2d05LRDVSRllZd1FJUHd3ekFPZmhCdjlQWWVvbnI1UklWeThscm9nTXZLSkVPTUxtS1VEYi1YSlJMZHlYdXJnbE9CRXdmYlNSc3dZdkhWZnl5QmhtMkZiMHFtdW14Yjh5bGRvaTBwRHN6bUt6MzNFTkVKMi1SbUZrVlBUbUpYUHo4SVA4YmVqT2RpZU5n"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "726448adf284",
    "title": "European automakers look to Nvidia for self-driving tech - Ticker News",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOajNHdnBNVTFET3FjbUpYMXNxNVdYM0FVZTN5cDFsYnRqUGlxcllmZ3VLTDZsSHZicXAwTFJoQU01U0hYSW5vQnlGd1NVSm8wZlZtSTJpa2VTSzFveWl2S0lScFl2bk0zOTFKZWlvV2QzRk9wRnNVOVNTaUVOUDhqLXIwLTFPZw",
@@ -898,12 +983,17 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHhEb3JuUm1ma05hdTNPb0hBc2lQbTFnNTF0ZThWZFBzUXpxSTM3Nmw2d05LRDVSRllZd1FJUHd3ekFPZmhCdjlQWWVvbnI1UklWeThscm9nTXZLSkVPTUxtS1VEYi1YSlJMZHlYdXJnbE9CRXdmYlNSc3dZdkhWZnl5QmhtMkZiMHFtdW14Yjh5bGRvaTBwRHN6bUt6MzNFTkVKMi1SbUZrVlBUbUpYUHo4SVA4YmVqT2RpZU5n",
    "source": "Bloomberg.com",
    "published_at": "2026-10-23T05:00:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Bloomberg.com",
      "published_at": "2026-10-23T05:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHhEb3JuUm1ma05hdTNPb0hBc2lQbTFnNTF0ZThWZFBzUXpxSTM3Nmw2d05LRDVSRllZd1FJUHd3ekFPZmhCdjlQWWVvbnI1UklWeThscm9nTXZLSkVPTUxtS1VEYi1YSlJMZHlYdXJnbE9CRXdmYlNSc3dZdkhWZnl5QmhtMkZiMHFtdW14Yjh5bGRvaTBwRHN6bUt6MzNFTkVKMi1SbUZrVlBUbUpYUHo4SVA4YmVqT2RpZU5n"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T05:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVEs5c281VEdqdkU0N0p5dzRSTmhjUU83Xy1BR0RzZGhhdTZXTFJLTXVrY3puYjNWOUJqQ1Zpb2VLNTlnUkk4dkNDeFpsUnBVdW9FOVE0VXdsUG43NzZMLTVlSWo3YWVPZVRVQmNmNm53aVF4d3dQbmVVd3lXZ0pPQ1VFZnpEMFVmNEZhb1Bqa0d2MS05NTAtemlhbDdfUQ"
     }
    ],
    "category": "其他",
@@ -6257,106 +6347,6 @@
     "pct": -0.21,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "49d95bef5898",
-   "title": "Nvidia boss backs 15x bet on optical interconnects, sees demand scaling 'several orders of magnitude' - SDxCentral",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0YyeUI5MFVGQ2tyXzljSDM1bHE1LTNsVERjeU1SZlVwd0FHTWRNOTJiT3l4aTdZQzkzUW5TWVBTRlVNYVhjcGNqdElLQzRDQXpPd09iRWRBcHhrTWJ5Zk9hOUYwVkdTQkRfWV9PdW9UZUF3TlB2YUhDZklreXpHcVl1U2VIMGNRQUdjWUlRNS1IYzRLdGpMYkxXTlVJY3JQaFNnYVJILWR0Tjh6UDZYdGZUT01iMjRJbmtpN3Q1THhfdlRZQmVsRl9uTQ",
-   "source": "SDxCentral",
-   "published_at": "2026-10-22T08:54:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "SDxCentral",
-     "published_at": "2026-10-22T08:54:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0YyeUI5MFVGQ2tyXzljSDM1bHE1LTNsVERjeU1SZlVwd0FHTWRNOTJiT3l4aTdZQzkzUW5TWVBTRlVNYVhjcGNqdElLQzRDQXpPd09iRWRBcHhrTWJ5Zk9hOUYwVkdTQkRfWV9PdW9UZUF3TlB2YUhDZklreXpHcVl1U2VIMGNRQUdjWUlRNS1IYzRLdGpMYkxXTlVJY3JQaFNnYVJILWR0Tjh6UDZYdGZUT01iMjRJbmtpN3Q1THhfdlRZQmVsRl9uTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋押注光互联，需求望增数个量级",
-   "title_zh": "英伟达CEO重注光互联，需求或增数个量级",
-   "sentiment": 1
-  },
-  {
-   "id": "8d235b45cdb9",
-   "title": "NVIDIA Corporation $NVDA Shares Purchased by Saudi Central Bank - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnRod251T0xXLTNDcE83MkJ4clhSMzAxVWZzdjdfWFY3SUc3Mm0wY3Z5UF9ETDIzOXpZOG9qU2R2RngxczdpT3hueVdNY3c3NzVqckpyMk1YNldpdEdNdWZqOWpiOXRKekxGODdESGw3eXZVdWxzX0tiY3F2OWRoX1ZaTDYxZlg1ZVpWdzZkaG1jNXVXTlQxRzVzRzVKa3I3bFdlR0FhZjNwLW1rTzh3YTZIU2RhcVNFMlh2Z21RMks",
-   "source": "MarketBeat",
-   "published_at": "2026-10-22T08:50:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-22T08:50:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnRod251T0xXLTNDcE83MkJ4clhSMzAxVWZzdjdfWFY3SUc3Mm0wY3Z5UF9ETDIzOXpZOG9qU2R2RngxczdpT3hueVdNY3c3NzVqckpyMk1YNldpdEdNdWZqOWpiOXRKekxGODdESGw3eXZVdWxzX0tiY3F2OWRoX1ZaTDYxZlg1ZVpWdzZkaG1jNXVXTlQxRzVzRzVKa3I3bFdlR0FhZjNwLW1rTzh3YTZIU2RhcVNFMlh2Z21RMks"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "沙特央行买入英伟达股票",
-   "title_zh": "沙特央行买入英伟达$NVDA股票",
-   "sentiment": 1
-  },
-  {
-   "id": "c4c8558735da",
-   "title": "NVIDIA Corporation $NVDA Stock Bought by Mid American Wealth Advisory Group Inc. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTE8xeG9WYThVNmhrWFpULUxjUDM0d1dTWVBzODdLQXlENENVVEZZa2pzYl9kdW9oMVptRXg1WEpxcXU2Q0RNVlp1YzFvN2JIbzU0YlZQTVNSanRxVW9FclVjcEFsR2NFVWxkVDg2Y3J5eVFNcXVJT19hRmdEQ25COWpoUXpGSE8wVGc2Q254NjA3Z2JkT29IUlc4NVpXVjd2SFFJSEs0U1lxM1lmbTlrenVYNXRQRkp4SjVRbVNTV1BsaEdwWGN1QUllNUc2TEFiOW1jeWJ3",
-   "source": "MarketBeat",
-   "published_at": "2026-10-22T08:50:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-22T08:50:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTE8xeG9WYThVNmhrWFpULUxjUDM0d1dTWVBzODdLQXlENENVVEZZa2pzYl9kdW9oMVptRXg1WEpxcXU2Q0RNVlp1YzFvN2JIbzU0YlZQTVNSanRxVW9FclVjcEFsR2NFVWxkVDg2Y3J5eVFNcXVJT19hRmdEQ25COWpoUXpGSE8wVGc2Q254NjA3Z2JkT29IUlc4NVpXVjd2SFFJSEs0U1lxM1lmbTlrenVYNXRQRkp4SjVRbVNTV1BsaEdwWGN1QUllNUc2TEFiOW1jeWJ3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Mid American财富顾问买入NVDA股票",
-   "title_zh": "Mid American财富顾问买入NVDA股票",
-   "sentiment": 0
-  },
-  {
-   "id": "e514c23b71ff",
-   "title": "NVIDIA Corporation $NVDA Stock Purchased by Washington Trust Advisors Inc. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNVd4T2tLeU1IVC1lbEx1YzZtdkM3eVNma20yeVBTNUJ1Ml92U2xaekVlb2IyRFBTcVhpUVo4ZFFMZWl0eHdhZmtFb0o2b05kQjJuRWZpcUo2bzFVMElwMUEtOGdOeGJja0pvTFZYLWRLcjkwczNPNzFkdHFxVW1LX08wRWN4ZUNCcFJfTnE4SUFyb09nSGRVVVktV0UzMldEY3haVGM0RThmUjlQSmlYWjB0T2Y3eXRtazBkUFNiTFhyRHhxZWd4YVFvakNvUQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-22T08:50:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-22T08:50:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNVd4T2tLeU1IVC1lbEx1YzZtdkM3eVNma20yeVBTNUJ1Ml92U2xaekVlb2IyRFBTcVhpUVo4ZFFMZWl0eHdhZmtFb0o2b05kQjJuRWZpcUo2bzFVMElwMUEtOGdOeGJja0pvTFZYLWRLcjkwczNPNzFkdHFxVW1LX08wRWN4ZUNCcFJfTnE4SUFyb09nSGRVVVktV0UzMldEY3haVGM0RThmUjlQSmlYWjB0T2Y3eXRtazBkUFNiTFhyRHhxZWd4YVFvakNvUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Washington Trust顾问买入NVDA",
-   "title_zh": "Washington Trust顾问买入NVDA股票",
-   "sentiment": 0
-  },
-  {
-   "id": "e733bdd34dfb",
-   "title": "医疗健康与生命科学领军企业依托 NVIDIA 技术，推进药物研发并拓展患者诊疗服务 - NVIDIA",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdC1UZXpxWDUxQWVxMG8xTnZ6ajVQSmI4SjFKMXY2THk1OVE3S2VsTTdFTW56ZzNXdHF5cGc2bHJELW5VNnFjX0JxSkJ6YXNCcFFyMDVkWGhmczRuYUZzWlNxM3NuYzdqNm51blJfRTNCMW5xa1YzYjc4Zy16QlJwRXJUeEZoZGZtemNTcUVDR250UTVNMmNBanFGNnhXNkNEZ08xek9KWU8yWHRhLWtWNDhkOU5pQXdkU21PdnV0OE1XRW9mb05qZkYxOGg",
-   "source": "NVIDIA",
-   "published_at": "2026-10-22T08:47:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA",
-     "published_at": "2026-10-22T08:47:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdC1UZXpxWDUxQWVxMG8xTnZ6ajVQSmI4SjFKMXY2THk1OVE3S2VsTTdFTW56ZzNXdHF5cGc2bHJELW5VNnFjX0JxSkJ6YXNCcFFyMDVkWGhmczRuYUZzWlNxM3NuYzdqNm51blJfRTNCMW5xa1YzYjc4Zy16QlJwRXJUeEZoZGZtemNTcUVDR250UTVNMmNBanFGNnhXNkNEZ08xek9KWU8yWHRhLWtWNDhkOU5pQXdkU21PdnV0OE1XRW9mb05qZkYxOGg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "医疗企业用英伟达技术推药物研发",
-   "title_zh": "医疗企业依托英伟达技术推进药物研发",
-   "sentiment": 1
   }
  ]
 }
