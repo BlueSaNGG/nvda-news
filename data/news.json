@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T02:21:32.209002+00:00",
+ "updated_at": "2026-10-23T02:36:31.666386+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.58,
-   "count": 297
+   "count": 298
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.58（297条已评分）"
+     "note": "今日新闻情绪 +0.58（298条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-23T02:21:32.193550+00:00"
+   "as_of": "2026-10-23T02:36:31.648947+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "87e7bdb8d921",
+   "title": "NVIDIA’s Next Supply Chain Supercycle: 2.5x Substrate Capacity, 15x Optical Engines, and the Race to Build AI Factories - semivision",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSjFGd29hTUd1TkkwWGZvT2M0SE5GNXdldkV5bGFNOHl0MkxidkV2M0M1bTNmaW54VjRrMmltMkxwMEt3Mkkwbk5RS1NGYlhRaEVaeE92Slpqazl3OGowcXZJc3hfMThXRE1uUDdRUDlFX1VuVFBwNmxnam9RZ3FuVmdjaGJqWmRQMlV0U1ZadTZIV19HOE94MnNuckJJNnU5czR3Q2xQbGVpckNlWXRFMFJFVk95SFFwLVFZRDlTZWZvVVFMQ0VBd1JCR3piLWdGdzhhaFAwZjNTZDZZZXc",
+   "source": "semivision",
+   "published_at": "2026-10-23T02:18:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "semivision",
+     "published_at": "2026-10-23T02:18:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSjFGd29hTUd1TkkwWGZvT2M0SE5GNXdldkV5bGFNOHl0MkxidkV2M0M1bTNmaW54VjRrMmltMkxwMEt3Mkkwbk5RS1NGYlhRaEVaeE92Slpqazl3OGowcXZJc3hfMThXRE1uUDdRUDlFX1VuVFBwNmxnam9RZ3FuVmdjaGJqWmRQMlV0U1ZadTZIV19HOE94MnNuckJJNnU5czR3Q2xQbGVpckNlWXRFMFJFVk95SFFwLVFZRDlTZWZvVVFMQ0VBd1JCR3piLWdGdzhhaFAwZjNTZDZZZXc"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘后"
+  },
   {
    "id": "baf9066d7497",
    "title": "罗姆出席英伟达在2026年OCP全球峰会的活动 - 电子工程专辑",
@@ -80,6 +97,23 @@
    "zh_summary": "罗姆出席英伟达2026年OCP峰会活动",
    "title_zh": "罗姆出席英伟达在2026年OCP全球峰会的活动",
    "sentiment": 0
+  },
+  {
+   "id": "9413b77428c3",
+   "title": "Kazakhstan Expands Compute for Its AI Future - NVIDIA Blog",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YQ1FMR0pWSjNFb2laTEhTZGxKTWhsWmt1NW02RHNVTnJKOXVRQzQ3dDBwV2s1Y2JiYVRKeEFVWjB1OUdIX2FhOXplV3RRcEZuTVFJM3ZFbUJaNXh1cFJoM3FkUGpoU1J4ZXNTRlVGOA",
+   "source": "NVIDIA Blog",
+   "published_at": "2026-10-23T02:02:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Blog",
+     "published_at": "2026-10-23T02:02:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YQ1FMR0pWSjNFb2laTEhTZGxKTWhsWmt1NW02RHNVTnJKOXVRQzQ3dDBwV2s1Y2JiYVRKeEFVWjB1OUdIX2FhOXplV3RRcEZuTVFJM3ZFbUJaNXh1cFJoM3FkUGpoU1J4ZXNTRlVGOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "30faed38f094",
@@ -614,15 +648,15 @@
   {
    "id": "3aff694db784",
    "title": "英伟达「帮」宇树估值重回2000亿 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbWNhSURvQ2hNVXNzRndub2tpZUI1UXl2dVpaN3ZmSzFtZ2V6RHBtSF94WUwzdVItT3RTZXZ5ZDNJa2Ffd08tZnhTOWM3a3FPU0p4LVV0Y2dWenJaUU03VVFyQXRocC0tUXNBVy15Q2Z5NXRlTlUyZUx0anhGUjFDSGVqT0E2N2J4X0RraQ",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZk5GQ2VVVmhoUVkzcnNjWmx5Qmk5RXFqUEdwS0JKNWpDZlhVd3lTVElKOXgxWWhLcHdvQXB5YS13TUhCQU1JczVYYmw2a3JrTGNqZndFakc4ck0xdkYxaWE5MVZfVGVWalc3bkFGb09jZUpVVnZrVm1SY1FkYUMwZkk3NklPT3FkSmg4OA",
    "source": "搜狐",
-   "published_at": "2026-10-22T20:16:21+00:00",
+   "published_at": "2026-10-22T20:16:19+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "搜狐",
-     "published_at": "2026-10-22T20:16:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbWNhSURvQ2hNVXNzRndub2tpZUI1UXl2dVpaN3ZmSzFtZ2V6RHBtSF94WUwzdVItT3RTZXZ5ZDNJa2Ffd08tZnhTOWM3a3FPU0p4LVV0Y2dWenJaUU03VVFyQXRocC0tUXNBVy15Q2Z5NXRlTlUyZUx0anhGUjFDSGVqT0E2N2J4X0RraQ"
+     "published_at": "2026-10-22T20:16:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZk5GQ2VVVmhoUVkzcnNjWmx5Qmk5RXFqUEdwS0JKNWpDZlhVd3lTVElKOXgxWWhLcHdvQXB5YS13TUhCQU1JczVYYmw2a3JrTGNqZndFakc4ck0xdkYxaWE5MVZfVGVWalc3bkFGb09jZUpVVnZrVm1SY1FkYUMwZkk3NklPT3FkSmg4OA"
     }
    ],
    "category": "其他",
@@ -6366,46 +6400,6 @@
    "zh_summary": "NVIDIA Cosmos推出训练评估部署工具",
    "title_zh": "NVIDIA Cosmos推出新工具训练评估部署世界模型",
    "sentiment": 1
-  },
-  {
-   "id": "49604fa5c0ee",
-   "title": "Angry protestors 'interrupt' Nvidia CEO Jensen Huang's event in Berlin, shout: 'What about technology fou - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNa21jdW56N0UxME5zZlhNTUpPZVNnZmdjNV94N3ZDbnk1aldUaEFDandwQ3BXM3pyRFBmcDBOcFBGT3FXai1yamUwSHVYZkpYLW9CWTF5VTJZcVl1ZmlKcnhqVi1kdllHaXVKS2hBX0ZwNGtaQlp0TjMxVXY3aTlFZnA1Y1pBOE9sM3daSkgtNlhfS29hWTYwUm95cUFQT3dKOUR0bDlSRlRyeDRVNDhDQ3ZINldQeENGaXMtc0JLTEZtOUhsdkdEMFRsRG1menJQU3FERzZqX1hsN05Rc0oyTXlGelUxOS1mdktHajNyWkEyTXZPaWNlQ28xbHVfOXlaanJXLWhtVy02bFZKUVhMYThHaEZ5UGxidVJ6YnU1OGNZamZIeVl6LV9ZUkFsZWpoYjN2QnJ0YXBwUdIBvwJBVV95cUxQRkEtMVluMEVmOUs3RnRwVFZKZDJKVE1WNkZLb043Slg5Zjd4STJZNXlpSVloNzE4MjBtSTE5amJTV1RPajJ0Snd1Tm9PRGxWQ0VyV3JQc2U1RkNxcnVwS2VwOVE4b2UtdnI3Tm1WN0FzQkdRLUoyVU12T1RWNDc4eGEydF9yTk4yZ2NuejY3bEFUV2JVRk5jdnlfUi12Q3hoTnhucHByUmg4OG9IcUlxWUhwckdIbE9BWTVIeU43MmZmVGhBTzF0NU83LTVmMUR5UTk2T0Z6SUc4empmV2xTZzN5TU5ib0M4WE91LTdTSExmdHJMd3YyUk5wVVgyd3JuMGFvUWNwZ0VORTNfdm9kS3QxN1UtRjg0UUVjX3QtODZPTkY4eHpvbldrYXZLVlFocmVHTmxXWlFybnNhWnBB",
-   "source": "The Times of India",
-   "published_at": "2026-10-22T05:03:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Times of India",
-     "published_at": "2026-10-22T05:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNa21jdW56N0UxME5zZlhNTUpPZVNnZmdjNV94N3ZDbnk1aldUaEFDandwQ3BXM3pyRFBmcDBOcFBGT3FXai1yamUwSHVYZkpYLW9CWTF5VTJZcVl1ZmlKcnhqVi1kdllHaXVKS2hBX0ZwNGtaQlp0TjMxVXY3aTlFZnA1Y1pBOE9sM3daSkgtNlhfS29hWTYwUm95cUFQT3dKOUR0bDlSRlRyeDRVNDhDQ3ZINldQeENGaXMtc0JLTEZtOUhsdkdEMFRsRG1menJQU3FERzZqX1hsN05Rc0oyTXlGelUxOS1mdktHajNyWkEyTXZPaWNlQ28xbHVfOXlaanJXLWhtVy02bFZKUVhMYThHaEZ5UGxidVJ6YnU1OGNZamZIeVl6LV9ZUkFsZWpoYjN2QnJ0YXBwUdIBvwJBVV95cUxQRkEtMVluMEVmOUs3RnRwVFZKZDJKVE1WNkZLb043Slg5Zjd4STJZNXlpSVloNzE4MjBtSTE5amJTV1RPajJ0Snd1Tm9PRGxWQ0VyV3JQc2U1RkNxcnVwS2VwOVE4b2UtdnI3Tm1WN0FzQkdRLUoyVU12T1RWNDc4eGEydF9yTk4yZ2NuejY3bEFUV2JVRk5jdnlfUi12Q3hoTnhucHByUmg4OG9IcUlxWUhwckdIbE9BWTVIeU43MmZmVGhBTzF0NU83LTVmMUR5UTk2T0Z6SUc4empmV2xTZzN5TU5ib0M4WE91LTdTSExmdHJMd3YyUk5wVVgyd3JuMGFvUWNwZ0VORTNfdm9kS3QxN1UtRjg0UUVjX3QtODZPTkY4eHpvbldrYXZLVlFocmVHTmxXWlFybnNhWnBB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "抗议者中断黄仁勋柏林活动",
-   "title_zh": "抗议者中断黄仁勋柏林活动",
-   "sentiment": -1
-  },
-  {
-   "id": "268ce53389f7",
-   "title": "NVIDIA GTC Berlin: Live Updates on What’s Next in AI - NVIDIA Blog",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw",
-   "source": "NVIDIA Blog",
-   "published_at": "2026-10-22T05:00:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Blog",
-     "published_at": "2026-10-22T05:00:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达GTC柏林大会AI前瞻直播",
-   "title_zh": "英伟达GTC柏林大会：AI未来动态直播",
-   "sentiment": 0
   }
  ]
 }
