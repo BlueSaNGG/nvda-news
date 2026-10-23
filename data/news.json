@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T12:06:31.072298+00:00",
+ "updated_at": "2026-10-23T12:21:30.303852+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -10,8 +10,8 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.58,
-   "count": 72
+   "avg": 0.59,
+   "count": 75
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.58（72条已评分）"
+     "note": "今日新闻情绪 +0.59（75条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-23T12:06:31.057158+00:00"
+   "as_of": "2026-10-23T12:21:30.270423+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "7d75e3938fbe",
+   "title": "Aleria to deploy Nvidia Blackwell and Vera Rubin GPUs in US and UAE - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR1d4WTJyak9acE5JdEs2MXZhUEhZR1liYmVJeUxDRmpDbnZ5ZUJpWDF0b3JtVE5JWTVHWGcxc3dvNjhWc2xGckVRSnJIdGpwV0F3cEFzSkw2cTZ3X0QwbkU3ZHVZTVlKbGpNcWZQTV9NX1EtMEh4bVZwTkhocW9Ba1JTdmxTeU95NTI3enJmcUV3REZDSnB5VTRsSGFIWGRKZDVHNXJkdUVVZ0s5YmxhRQ",
+   "source": "Data Center Dynamics",
+   "published_at": "2026-10-23T12:18:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Dynamics",
+     "published_at": "2026-10-23T12:18:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR1d4WTJyak9acE5JdEs2MXZhUEhZR1liYmVJeUxDRmpDbnZ5ZUJpWDF0b3JtVE5JWTVHWGcxc3dvNjhWc2xGckVRSnJIdGpwV0F3cEFzSkw2cTZ3X0QwbkU3ZHVZTVlKbGpNcWZQTV9NX1EtMEh4bVZwTkhocW9Ba1JTdmxTeU95NTI3enJmcUV3REZDSnB5VTRsSGFIWGRKZDVHNXJkdUVVZ0s5YmxhRQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "ec017291eca9",
    "title": "Q&A: NVIDIA on AI and breast cancer - MobiHealthNews",
@@ -307,6 +324,23 @@
    "sentiment": 1
   },
   {
+   "id": "be48efde8602",
+   "title": "SpaceX Can't Find Spare Nvidia, Google or Amazon Chips Despite Billions to Spend, Strategist Terms It 'Pretty Insane' - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPemZyaDdqNGU4RGlrQllOZ2ZuVG5XSFRYdUNwXzRad28tbVdSZVNJQ3ViQVItc1dDek4zdjkyOEZSZTNkZEFZcmhIM1lZazVoZUZ3VDBLNEh3M0lsS0djUXZtbkV1WUlCRVdDdmJBMkE3UlprejluVFZ5REY2LURmUVkyNkVGdF9YenRqazdiYnYxTWlpTy1pNXNPTQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-23T11:00:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T11:00:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPemZyaDdqNGU4RGlrQllOZ2ZuVG5XSFRYdUNwXzRad28tbVdSZVNJQ3ViQVItc1dDek4zdjkyOEZSZTNkZEFZcmhIM1lZazVoZUZ3VDBLNEh3M0lsS0djUXZtbkV1WUlCRVdDdmJBMkE3UlprejluVFZ5REY2LURmUVkyNkVGdF9YenRqazdiYnYxTWlpTy1pNXNPTQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "3b158e6544c2",
    "title": "Nvidia’s China Market Has Effectively Vanished: ‘Every Restriction Also Gives Chinese Suppliers a Larger - Benzinga",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVB1cEhqVEktM2hKVTI4RXpMSE1hN2ZkWkRTOUc5NHQ3N2JOMHJGaDN3SFJZb0tIWUI5RnVfb1V3TFZuU1dHdDlmd3RkWVdENHNrRlBDMWZET1JEN0hsTmlDSkdqdm9vUkZZNmtkbUUwamZ1UWdBbldQWkdVNUFENlE4RnlrbEh6TzVkQlE4U0dGa0I2bUtj",
@@ -465,6 +499,23 @@
    "zh_summary": "Wayve与英伟达合作推进自动驾驶",
    "title_zh": "Wayve与英伟达合作推进法国自动驾驶部署",
    "sentiment": 1
+  },
+  {
+   "id": "31c81ce080d4",
+   "title": "电子行业周报：Meta发布第三季度财报，英伟达GTC大会柏林召开_行业研究_研报 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uMTR5cUxlWWlEMW5jZV9KMGR3ajFkajd5N1ZaU0QxUVExYkpkUEE4XzFjaW02WkptQ0xXeEkzUmtwVFl0MldicEQxTzhrYmUzT1ltdW9VWjNiMFhHR3B4OVFR",
+   "source": "证券之星",
+   "published_at": "2026-10-23T10:27:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-23T10:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uMTR5cUxlWWlEMW5jZV9KMGR3ajFkajd5N1ZaU0QxUVExYkpkUEE4XzFjaW02WkptQ0xXeEkzUmtwVFl0MldicEQxTzhrYmUzT1ltdW9VWjNiMFhHR3B4OVFR"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
   },
   {
    "id": "6d1d633ea5a2",
@@ -792,6 +843,23 @@
    "sentiment": 1
   },
   {
+   "id": "f09b281f37ba",
+   "title": "METRO Redux’s Next-Gen Update Hides a DLSS 5 Surprise, as NVIDIA’s Neural Rendering Gives Old Characters New Life - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkx3Tl9XR1Y1dlFrSDBIdjFmVXI5WFpDZUNnN3MybXYzNzFwckxFWWFMamxpVzFZVlZORjZ6SlBlWkNXcVYxV2VUdkVoM096Y3NJdVo1a1FnZHlhZk1SZW1WLS00Wk5ZWUJiZnpMWTlTUkxDRDM4X1FaaVI3NU1tUERNTGJaZkdSNUExWkFfY081Y2tFRnfSAZsBQVVfeXFMTmZ3OWNtQTVabzliX0otRHFvUDFqVExRTzBVQlIzcjJodHlZZFNFeFpIZHZrMm5tVXAtWkp5M1MxeVI0aDVjZEpWdmROTWJ2OVdvZjgweVVrYkNjSlhGLWctQXBUM0U4TGhwVVRMTlBQaVhRZnlhYW16WE1tUDJJeU9DRDFZOVhENk9GbUlyVU5SbFNhV3NjVUs5ZVU",
+   "source": "Wccftech",
+   "published_at": "2026-10-23T08:45:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-23T08:45:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkx3Tl9XR1Y1dlFrSDBIdjFmVXI5WFpDZUNnN3MybXYzNzFwckxFWWFMamxpVzFZVlZORjZ6SlBlWkNXcVYxV2VUdkVoM096Y3NJdVo1a1FnZHlhZk1SZW1WLS00Wk5ZWUJiZnpMWTlTUkxDRDM4X1FaaVI3NU1tUERNTGJaZkdSNUExWkFfY081Y2tFRnfSAZsBQVVfeXFMTmZ3OWNtQTVabzliX0otRHFvUDFqVExRTzBVQlIzcjJodHlZZFNFeFpIZHZrMm5tVXAtWkp5M1MxeVI0aDVjZEpWdmROTWJ2OVdvZjgweVVrYkNjSlhGLWctQXBUM0U4TGhwVVRMTlBQaVhRZnlhYW16WE1tUDJJeU9DRDFZOVhENk9GbUlyVU5SbFNhV3NjVUs5ZVU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "e1314920137c",
    "title": "Procore深化与英伟达合作，利用Omniverse数字孪生技术模拟建筑施工场景 - 搜狐",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUJNWmNPcjhfMUQycWZ5QnBocnRHYWE2WlM1dlJSRXg4YU5xSk52NTJMVjMzYkVNOXA5MVo0UUxnUnBmZEdhYTIxWjlLWjRfTEtlWFdwZVl2TGdwNWZtMkJIeEVlc2ltTWVtcXNtV1cwUXFVcHk0Z0dSLUpXZnNDaUx5cXZMc0VJ",
@@ -930,6 +998,23 @@
    "zh_summary": "Range Advisory购入NVDA股票",
    "title_zh": "Range Advisory购入英伟达NVDA股份",
    "sentiment": 1
+  },
+  {
+   "id": "3d1960b4ef29",
+   "title": "NVIDIA GeForce RTX 5080 & RTX 5070 Ti 16 GB Graphics Cards Witness A Huge Price Increase of Up to $300, As Market Prepares For An Even More Expensive 24 GB 5080 - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmZjdi15OG84TEpoNGFjM25NdDFpTXpLNDhVTG9fZ1hYSkdkX1BfTmNWcEVldVlPV3VMVjdTT2tKVnVMRE1HdkpBNzFGcVVBYW9ENUFXRnNNd1BRTHVyQ0tvVm4tUTFmbEtRQ3plUXdQa2s5VFJxeWE2SGJuRWl3LXRIUzF0NkJuX3dLSEJrc25GV2p5bWVfY2FaNWgzTGx0bWxIU9IBqgFBVV95cUxQd0sxSzdDamFMVWFVTkZoa1ZUb3lsM0poeEJGTTZOdWVRV0ViQ0tiV2VIdTJQNDdWNUVVVXZFb1psQTVrTERoNnBiNU9Mc2tyZGozWGVidGtvVk9yMi1tQ19ZUi1ST1lBcEMwcEdCRzFvdEdDODExenVKYzlEU19SOWlPV0VEWFlDcnhveGEweHg1UGdzcmZJUnpOSWs3TFF6NE5mOE11b2VfUQ",
+   "source": "Wccftech",
+   "published_at": "2026-10-23T08:40:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-23T08:40:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmZjdi15OG84TEpoNGFjM25NdDFpTXpLNDhVTG9fZ1hYSkdkX1BfTmNWcEVldVlPV3VMVjdTT2tKVnVMRE1HdkpBNzFGcVVBYW9ENUFXRnNNd1BRTHVyQ0tvVm4tUTFmbEtRQ3plUXdQa2s5VFJxeWE2SGJuRWl3LXRIUzF0NkJuX3dLSEJrc25GV2p5bWVfY2FaNWgzTGx0bWxIU9IBqgFBVV95cUxQd0sxSzdDamFMVWFVTkZoa1ZUb3lsM0poeEJGTTZOdWVRV0ViQ0tiV2VIdTJQNDdWNUVVVXZFb1psQTVrTERoNnBiNU9Mc2tyZGozWGVidGtvVk9yMi1tQ19ZUi1ST1lBcEMwcEdCRzFvdEdDODExenVKYzlEU19SOWlPV0VEWFlDcnhveGEweHg1UGdzcmZJUnpOSWs3TFF6NE5mOE11b2VfUQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "c1cce413ce6c",
@@ -6216,106 +6301,6 @@
    "zh_summary": "黄仁勋：AI如婴儿需管控监督",
    "title_zh": "黄仁勋：AI就像婴儿，需要管控和监督",
    "sentiment": 0
-  },
-  {
-   "id": "598eedb062e4",
-   "title": "Nvidia推出DSX Pod集装箱式AI数据中心模块-智算中心 - 至顶网",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81V2xlV2ZVNmtWNVg2ZWlPY0QydDMteU9zaUVqSkV1ZzMtR05sdEFIajdHWVk5TElyQXBvSmJZQTlkM3pHVVdZeHRVamxTdW5qWXhoZzNjaHN0MTloS0tpNw",
-   "source": "至顶网",
-   "published_at": "2026-10-22T10:40:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "至顶网",
-     "published_at": "2026-10-22T10:40:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81V2xlV2ZVNmtWNVg2ZWlPY0QydDMteU9zaUVqSkV1ZzMtR05sdEFIajdHWVk5TElyQXBvSmJZQTlkM3pHVVdZeHRVamxTdW5qWXhoZzNjaHN0MTloS0tpNw"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达推出集装箱式AI数据中心模块",
-   "title_zh": "英伟达推出DSX Pod集装箱式AI数据中心模块",
-   "sentiment": 1
-  },
-  {
-   "id": "2f39492e4170",
-   "title": "Market Decline: Nvidia (NVDA), Intel (INTC), and AMD (AMD) Stocks Drop - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlF5SXppbUJDQ2Q0NFI1aXA4aHl5UUxyaWJmQzJpbnpMZGtYZGlFSGhQdHhrYjdEYUtzcEI4Z0JlUkxUVFBOU3ZTVWtuWDhVanBPWkh4dVN1a1NuUnRkN0QySFJLc3ZWVkRhQ1I5YjJ3aGxjblpIZkc3dkxWTHpybm5VSk9Bc0lkeXhaZnRiczN0UUR5WnZlWWNZazBsUF9NUUE",
-   "source": "GuruFocus",
-   "published_at": "2026-10-22T10:38:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-22T10:38:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlF5SXppbUJDQ2Q0NFI1aXA4aHl5UUxyaWJmQzJpbnpMZGtYZGlFSGhQdHhrYjdEYUtzcEI4Z0JlUkxUVFBOU3ZTVWtuWDhVanBPWkh4dVN1a1NuUnRkN0QySFJLc3ZWVkRhQ1I5YjJ3aGxjblpIZkc3dkxWTHpybm5VSk9Bc0lkeXhaZnRiczN0UUR5WnZlWWNZazBsUF9NUUE"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "市场回调，英伟达与英特尔AMD齐跌",
-   "title_zh": "市场下跌：英伟达(NVDA)、英特尔、AMD股价齐跌",
-   "sentiment": -1
-  },
-  {
-   "id": "7fd9aed0b5df",
-   "title": "HUMAIN and NVIDIA Expand Saudi AI Factory Pipeline by 84MW - Data Centre Magazine",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVpMT3p0LURuYldSTFZ0MTd3Mzd4Um82QjlhdkFBU2l3VXdlc1pwdEFRZWlmT2lJRmVCTlVkYngxRktHdEl6SHZYR2o3aDMxV3lqVFJiRVJ0VEQ3UFZ6eGlhWFF2V1lWdGJ0cTZpamJlYUMxcjg4SzlFck4yNjBKaHhPX2JyaFQ5blBZNGE2empINmVxeVFWOTlB",
-   "source": "Data Centre Magazine",
-   "published_at": "2026-10-22T10:38:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Data Centre Magazine",
-     "published_at": "2026-10-22T10:38:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVpMT3p0LURuYldSTFZ0MTd3Mzd4Um82QjlhdkFBU2l3VXdlc1pwdEFRZWlmT2lJRmVCTlVkYngxRktHdEl6SHZYR2o3aDMxV3lqVFJiRVJ0VEQ3UFZ6eGlhWFF2V1lWdGJ0cTZpamJlYUMxcjg4SzlFck4yNjBKaHhPX2JyaFQ5blBZNGE2empINmVxeVFWOTlB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "HUMAIN与英伟达将沙特AI工厂扩增84MW",
-   "title_zh": "HUMAIN与英伟达将沙特AI工厂管线扩大84MW",
-   "sentiment": 1
-  },
-  {
-   "id": "55e3904121f8",
-   "title": "Nvidia Expands Physical AI Stack Across Robotics, Humanoids and Factory Automation - AI Insider",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkRsQWxhUHh6MGdBQUFVR3VNUEVNQUVGV05aMDV4b0RNRWJELWRPSHRYVzZmcEhDeExLMDFKTG9vV0Rwemszckc5SDZSYTZZR3RLa29wZUNaTVROX1FReER0aXlOOG5Wb0czd05CS2R2dnQwV2JyblFRZHBwNmI2eDRfMmZiZUxJV05CSGJKNG90RnEzYWFaSG5wZUVyOFl5eUJMLVR2Vm1xTEs2Z1RhRjNzQXFZUnRIYTlv",
-   "source": "AI Insider",
-   "published_at": "2026-10-22T10:33:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "AI Insider",
-     "published_at": "2026-10-22T10:33:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkRsQWxhUHh6MGdBQUFVR3VNUEVNQUVGV05aMDV4b0RNRWJELWRPSHRYVzZmcEhDeExLMDFKTG9vV0Rwemszckc5SDZSYTZZR3RLa29wZUNaTVROX1FReER0aXlOOG5Wb0czd05CS2R2dnQwV2JyblFRZHBwNmI2eDRfMmZiZUxJV05CSGJKNG90RnEzYWFaSG5wZUVyOFl5eUJMLVR2Vm1xTEs2Z1RhRjNzQXFZUnRIYTlv"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达扩展物理AI覆盖机器人与工厂自动化",
-   "title_zh": "英伟达将物理AI扩展至机器人、人形机器人和工厂自动化",
-   "sentiment": 1
-  },
-  {
-   "id": "37a4c0b3c3ce",
-   "title": "英伟达CEO黄仁勋表示，新型云服务商的需求“爆表”。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZT095ZVF6T2N0T1lZdVB6MmpNcGVJczl4MTZ3eE5fV0FCWnN5Nmh4Yk5oTDFra3R3TmtKMGhtZHkxemdHTVBkWkMwVQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-22T10:32:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-22T10:32:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZT095ZVF6T2N0T1lZdVB6MmpNcGVJczl4MTZ3eE5fV0FCWnN5Nmh4Yk5oTDFra3R3TmtKMGhtZHkxemdHTVBkWkMwVQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋称新型云服务商需求爆表",
-   "title_zh": "英伟达CEO黄仁勋表示，新型云服务商的需求“爆表”。 - 手机新浪网",
-   "sentiment": 1
   }
  ]
 }
