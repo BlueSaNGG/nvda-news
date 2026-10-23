@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T15:36:36.226181+00:00",
+ "updated_at": "2026-10-23T15:51:41.007929+00:00",
  "market": {
-  "price": 212.56,
-  "change_pct": 0.16,
+  "price": 212.63,
+  "change_pct": 0.2,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 119
+   "avg": 0.45,
+   "count": 120
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +48.2%"
+     "note": "目标价中位数 $315（16家），隐含空间 +48.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（119条已评分）"
+     "note": "今日新闻情绪 +0.45（120条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $212.56 vs 20日均线 $225.62"
+     "note": "现价 $212.63 vs 20日均线 $225.63"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 64,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 48.2,
-   "ma20": 225.62,
-   "as_of": "2026-10-23T15:36:36.208231+00:00"
+   "implied_upside_pct": 48.1,
+   "ma20": 225.63,
+   "as_of": "2026-10-23T15:51:40.989148+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,24 +62,21 @@
  },
  "stories": [
   {
-   "id": "94c80d8b589a",
-   "title": "科技巨头，盘中股价再创新高，总市值超越英伟达 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZENYOVFtVVp4RTBUVDl1dk1LTVNEMHJDSV9Jd0NYcXNXUzZnbHpLc19YcXl3Y3dvZFBPbWtpTmxNSzZUUXJ6d0M1NDVZcWRFdjJ4a1h4ZVlUSnBOQUxaZFBKMUY0ejBnTjZubzNrUWhDYXhtTDA5SUtjRTN1al9wcmtDVEJGRnJKdERUcw",
-   "source": "搜狐",
-   "published_at": "2026-10-23T15:28:07+00:00",
+   "id": "77c001c5bf03",
+   "title": "SUSE AI Factory + NVIDIA OpenShell: Agent Security [2026] - tech-insider.org",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEYyQ2NUS0l0ZmhQR0dfTjlVM3ZfSmh0NWJ5MnJzaC0wZTZXXzcyXzNITkYtb2ItYy1SeWluMmlGcEdVYzliWU43dGxEemlka0EyNWdnQXZwOEdYZ1ZVU0s5SnFFQ1JPT3FJZy1LMGcyTVoxc2RWQ2w0Zm5lMXdyc0ZvUlg",
+   "source": "tech-insider.org",
+   "published_at": "2026-10-23T15:47:35+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "搜狐",
-     "published_at": "2026-10-23T15:28:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZENYOVFtVVp4RTBUVDl1dk1LTVNEMHJDSV9Jd0NYcXNXUzZnbHpLc19YcXl3Y3dvZFBPbWtpTmxNSzZUUXJ6d0M1NDVZcWRFdjJ4a1h4ZVlUSnBOQUxaZFBKMUY0ejBnTjZubzNrUWhDYXhtTDA5SUtjRTN1al9wcmtDVEJGRnJKdERUcw"
+     "name": "tech-insider.org",
+     "published_at": "2026-10-23T15:47:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEYyQ2NUS0l0ZmhQR0dfTjlVM3ZfSmh0NWJ5MnJzaC0wZTZXXzcyXzNITkYtb2ItYy1SeWluMmlGcEdVYzliWU43dGxEemlka0EyNWdnQXZwOEdYZ1ZVU0s5SnFFQ1JPT3FJZy1LMGcyTVoxc2RWQ2w0Zm5lMXdyc0ZvUlg"
     }
    ],
    "category": "其他",
-   "session": "盘中",
-   "zh_summary": "科技巨头总市值超越英伟达",
-   "title_zh": "科技巨头股价创新高，总市值超越英伟达",
-   "sentiment": -1
+   "session": "盘中"
   },
   {
    "id": "91a480f87f18",
@@ -337,6 +334,23 @@
    "sentiment": -1
   },
   {
+   "id": "f0cdcd1f8d99",
+   "title": "Apple tops Nvidia to become world's most valuable company (AAPL:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQXy1LUVY5N2YyajY5UkU5TFllTjZEV21qLWZXUkxiWW9VNGE3LXNFMWhuMFhDVXhHSkwyNVN4OFQxNVdLLWxFaTlrbDl4WW9NeE9yS2VvaUxrMHNyYklERGF2Q2NKLUpjaDQzYlpBMjlja3pHR01ac0hsaHYtb0I3SENoVmNPNVYtM3FvZ0NNZFhBMVlYQldBRld3",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-23T14:05:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-23T14:05:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQXy1LUVY5N2YyajY5UkU5TFllTjZEV21qLWZXUkxiWW9VNGE3LXNFMWhuMFhDVXhHSkwyNVN4OFQxNVdLLWxFaTlrbDl4WW9NeE9yS2VvaUxrMHNyYklERGF2Q2NKLUpjaDQzYlpBMjlja3pHR01ac0hsaHYtb0I3SENoVmNPNVYtM3FvZ0NNZFhBMVlYQldBRld3"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
    "id": "66fe2b6cc4d9",
    "title": "Higgsfield Secures New Investment From TCV and NVIDIA, Surpasses $1 Billion in Annualized Revenue - citybiz",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNDY0TC1IdTU5dUZZajZuODBIbV9remMwcFA1RDlxRFlhZVJrZFhJUVFDREhEcTVrOVRmeGZCQjhVbWlHVkd2WUk3aWM5eTdteDlaT0d1ZVlXRTFWZXFXWGtDZ3RhamhHcVFYUmZOekZvZFg5dkcyNnVGZVFWcTVDSF9CQXlxTWxBWElfRnRCc2dhcl9xRWVPeHNza2hBZFhTQnB5WUdqcGVpU0NFRmw3TTJuQmF4WnVjZUp1empWQmZGYUdRcUZ3bURCclZCMXc",
@@ -527,7 +541,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeWd1Wm13NXExek4tN1ZKX3ZHWVBxdXVQM3lwR3UycnhaV3Q0bEQ2bjFPV1N1QlpGaUpDWWdCVkZ5akp1QS1ieWxlRzQxc3UtdlBkczh5eHBWdU9oLTdkOWpaUTFFdGNtck9acU1YbG1SQVRwbUlNREJqMEhaZ01oRmVCSE1LWUlE",
    "source": "搜狐",
    "published_at": "2026-10-23T13:34:59+00:00",
-   "outlets_count": 3,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "搜狐",
@@ -543,10 +557,21 @@
      "name": "富途牛牛",
      "published_at": "2026-10-23T13:41:24+00:00",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSkxYTHBLNjdFWGYteXl4RUt4ckVKajFxWml0eHM0VE05bnFZcnFLdklBWGlaZnBzNldhOWVpd0hmNFR0eERqWExMNndySmxxYlBucTBtM2llSkJnQ2FneVBIRmNzam05QUtCTWg1UWF2MVBfcU1xZHV5Yi1mRlE3eEdkRzNnd0k5ZkJBOUtpVEtuLUhPNVlDeHpTYmMwUQ"
+    },
+    {
+     "name": "金融界",
+     "published_at": "2026-10-23T13:34:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Xa2xuQUFxZExlWHVQOTkwVVBjNkJ1cmZQbmNvWl9BdG1lY2RoLWdZUEpSbmN0Nm14TVQyQUZ3YUdXLUtRYTNlV2wtVm9fUnpDM1JSNWQ2TUYxekhpVWxDSXlXeHlVZTM2R05wd1VpT09CZw"
+    },
+    {
+     "name": "21财经",
+     "published_at": "2026-10-23T15:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb0pDcl9zcHBDRFZ0cFpmMXlqYmZqajg1ckVxOFZzd2x5WWg0S2pOYmxUUTNjWDAtVThibmlubHdrM2V3X3NRMUhNOGlOOTZRMzg5WnN4cHBvVW9Md2tLZFlibjk4bC1qdEV0Wm8xd3RBdUZpNDk2bUtsenBlZl9RcTZXcC0xV3F2bmhLSVVjOA"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "苹果总市值超越英伟达",
    "title_zh": "苹果总市值超越英伟达",
    "sentiment": -1,
@@ -1526,26 +1551,6 @@
    "sentiment": 0
   },
   {
-   "id": "9760d44bd7ba",
-   "title": "英伟达的新动作，意外打开了中国AI的另一条路-36氪 - www.36kr.com",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16b2tYZ0pYczdXcG10V3dFeEdKOGR0dHBzY1RXUjNxQmE1eXUyUnNCa3BNaDk5cVFhc3FtT0wzQmVlbkJrS1E5TmtvLWVqUEU",
-   "source": "www.36kr.com",
-   "published_at": "2026-10-23T09:43:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "www.36kr.com",
-     "published_at": "2026-10-23T09:43:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16b2tYZ0pYczdXcG10V3dFeEdKOGR0dHBzY1RXUjNxQmE1eXUyUnNCa3BNaDk5cVFhc3FtT0wzQmVlbkJrS1E5TmtvLWVqUEU"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "英伟达新动作打开中国AI新路径",
-   "title_zh": "英伟达的新动作，意外打开了中国AI的另一条路",
-   "sentiment": 0
-  },
-  {
    "id": "5d20376425e5",
    "title": "Agile ONE SN Humanoid Robot Bundles Nvidia’s Robotics Stack - TechRepublic",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGprUF9IMDFaQVlkZmZVb1FQUTdXZ0tVQy1hMGNWR0dNYmd2UmJ1N1p1S28xZkYybWFkS3JIWlFuOEkzSWhvT1h6R2I5TFdDNUxydUVmN3RXU3Rrcmd2MWl0a0xLcE5xTlNpTlp0NE1NVEFIYkZvMWU0S3VYUTU0N2pHMA",
@@ -1868,26 +1873,6 @@
    "session": "盘前",
    "zh_summary": "Nykredit购入9,062,150股英伟达",
    "title_zh": "Nykredit购入9,062,150股NVDA股票",
-   "sentiment": 1
-  },
-  {
-   "id": "039560471c16",
-   "title": "NVIDIA Corporation $NVDA Shares Bought by Range Advisory LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTNOVkRoZU82UjRYTGNLdjdXNUVrTFdVbndjZzlxcWI5ZDVmMnpPVVNMWlNlY0E3Z21XZkJSQnVsWDdVS0xMbTZaT2MtbGNyeWk1NDFNRU8zbTVTaHA5WFRtenRrSnJlYzd1UVRhblJqVC1hSTVqYThhTXRpZGNOMV96SjR4QmZIMGFwd05qajlnWVZzSmZ6Tjd1UTVTRHNuRHVsZWQzZEgwZ3RJU2I0aFQ3ek82ODBEWUdIYw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-23T08:41:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-23T08:41:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTNOVkRoZU82UjRYTGNLdjdXNUVrTFdVbndjZzlxcWI5ZDVmMnpPVVNMWlNlY0E3Z21XZkJSQnVsWDdVS0xMbTZaT2MtbGNyeWk1NDFNRU8zbTVTaHA5WFRtenRrSnJlYzd1UVRhblJqVC1hSTVqYThhTXRpZGNOMV96SjR4QmZIMGFwd05qajlnWVZzSmZ6Tjd1UTVTRHNuRHVsZWQzZEgwZ3RJU2I0aFQ3ek82ODBEWUdIYw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Range Advisory买入英伟达股票",
-   "title_zh": "Range Advisory买入英伟达(NVDA)股票",
    "sentiment": 1
   },
   {
@@ -3156,6 +3141,31 @@
    "sentiment": 1
   },
   {
+   "id": "94c80d8b589a",
+   "title": "科技巨头，盘中股价再创新高，总市值超越英伟达 - 东方财富网",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNjRWUk5WRWdfcHdJRE1vN2dUWGpqdjZpTXdXVl9GYk5uZ0E4eDdSRXEzcmFPdHp2b1FmNTg4U3N3OUJrQjVlaXlTYVNuQnYzN25BcHNWRW9EQjVEalhCdQ",
+   "source": "东方财富网",
+   "published_at": "2026-10-23T00:37:54+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "东方财富网",
+     "published_at": "2026-10-23T00:37:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNjRWUk5WRWdfcHdJRE1vN2dUWGpqdjZpTXdXVl9GYk5uZ0E4eDdSRXEzcmFPdHp2b1FmNTg4U3N3OUJrQjVlaXlTYVNuQnYzN25BcHNWRW9EQjVEalhCdQ"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-23T15:28:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZENYOVFtVVp4RTBUVDl1dk1LTVNEMHJDSV9Jd0NYcXNXUzZnbHpLc19YcXl3Y3dvZFBPbWtpTmxNSzZUUXJ6d0M1NDVZcWRFdjJ4a1h4ZVlUSnBOQUxaZFBKMUY0ejBnTjZubzNrUWhDYXhtTDA5SUtjRTN1al9wcmtDVEJGRnJKdERUcw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "科技巨头总市值超越英伟达",
+   "title_zh": "科技巨头股价创新高，总市值超越英伟达",
+   "sentiment": -1
+  },
+  {
    "id": "03690f9d72d1",
    "title": "降价难！黄仁勋：内存过剩情况2029年都不会看到 反正英伟达疯狂用 - 驱动之家",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEdm1qTzdKdXZYTEFjdmc5WkRFX21wN1FSdTByUXBESWZVZGg3cElUeFdMbnVEQ3VrNkpZRENVQXY2c08tME82aFNuMUt2X2lIdnVMMVNxQi0",
@@ -4133,6 +4143,31 @@
    "zh_summary": "英伟达等科技股深夜重挫",
    "title_zh": "英伟达等科技股深夜重挫",
    "sentiment": -1
+  },
+  {
+   "id": "c20f7cbc51d9",
+   "title": "英伟达的新动作，意外打开了中国AI的另一条路 - 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOVGo0aURhaFpVZTE3RjNFMmZnY0xRYW8tWVJTTVNUbVpSaWlpaXRVSHlPWGZmTWRtaFJGUmVqdjlIcWtSMFk4U1gteEREemxs",
+   "source": "36Kr",
+   "published_at": "2026-10-22T18:41:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "36Kr",
+     "published_at": "2026-10-22T18:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOVGo0aURhaFpVZTE3RjNFMmZnY0xRYW8tWVJTTVNUbVpSaWlpaXRVSHlPWGZmTWRtaFJGUmVqdjlIcWtSMFk4U1gteEREemxs"
+    },
+    {
+     "name": "www.36kr.com",
+     "published_at": "2026-10-23T09:43:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16b2tYZ0pYczdXcG10V3dFeEdKOGR0dHBzY1RXUjNxQmE1eXUyUnNCa3BNaDk5cVFhc3FtT0wzQmVlbkJrS1E5TmtvLWVqUEU"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中",
+   "zh_summary": "英伟达新动作打开中国AI新路径",
+   "title_zh": "英伟达的新动作，意外打开了中国AI的另一条路",
+   "sentiment": 0
   },
   {
    "id": "644c14392786",
@@ -6265,26 +6300,6 @@
    "session": "盘前",
    "zh_summary": "英伟达面临350亿美元甜蜜烦恼",
    "title_zh": "英伟达有大多数公司都想要的350亿美元难题",
-   "sentiment": 0
-  },
-  {
-   "id": "b3aa7f1628f2",
-   "title": "Nvidia CEO Highlights AI Cloud Demand and Capital Constraints, N - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGdXMTRIU1hDWHoyOVlvZ2EybTl5MkZkZzJabmViRExYREREdTZMTl9fZGlnQTFST21IVGlNdXBnSWtfN1M2THRkSnJnZzBXSnUyakpnelo0WU1NM2RrOFd4WlJpMHhZV1FscW51RFo3NTBIV2RGNUctUXp5WFRNVjhZWkhHNEtUN2luMlp6bE9weV9xWkpvSHk0aHhITVNmT19NOF82eExDM3VaNUZUcEtadHM1OTJXaVlyNV84dV9NRGwtRnZ6Uk5R",
-   "source": "GuruFocus",
-   "published_at": "2026-10-22T12:06:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-22T12:06:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGdXMTRIU1hDWHoyOVlvZ2EybTl5MkZkZzJabmViRExYREREdTZMTl9fZGlnQTFST21IVGlNdXBnSWtfN1M2THRkSnJnZzBXSnUyakpnelo0WU1NM2RrOFd4WlJpMHhZV1FscW51RFo3NTBIV2RGNUctUXp5WFRNVjhZWkhHNEtUN2luMlp6bE9weV9xWkpvSHk0aHhITVNmT19NOF82eExDM3VaNUZUcEtadHM1OTJXaVlyNV84dV9NRGwtRnZ6Uk5R"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "黄仁勋强调AI云需求，称资本受限",
-   "title_zh": "英伟达CEO强调AI云需求与资本约束",
    "sentiment": 0
   }
  ]
