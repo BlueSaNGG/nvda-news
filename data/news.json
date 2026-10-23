@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T05:36:28.652178+00:00",
+ "updated_at": "2026-10-23T05:51:32.403628+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -10,8 +10,8 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.67,
-   "count": 3
+   "avg": 0.75,
+   "count": 4
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.67（3条已评分）"
+     "note": "今日新闻情绪 +0.75（4条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-23T05:36:28.632714+00:00"
+   "as_of": "2026-10-23T05:51:32.390884+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "043cdd51e05f",
+   "title": "Nvidia invests in AI video startup Higgsfield- Bloomberg By Investing.com - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQektvdHhncXpQT2Zrd2xzV3VUSXdXTG45c05ma2RNdjllZHFPY3FHUEZkaHB6U0NBcjBYSWF1aHU5WXRHMENXU0dEeTZLbkU4dXJQTktQb1NRS2hwbVF0bnFHSGhtclA3eUdLTllaZXpYR2tFWGpUWjZuQ2UxTzBadnhFcldFVzlIbENBaUlQRVFNc3lXNU9jTFdHRVY3RGVodkZXbXJVeWpKa1JqVkIwVmlB",
+   "source": "Investing.com",
+   "published_at": "2026-10-23T05:46:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-23T05:46:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQektvdHhncXpQT2Zrd2xzV3VUSXdXTG45c05ma2RNdjllZHFPY3FHUEZkaHB6U0NBcjBYSWF1aHU5WXRHMENXU0dEeTZLbkU4dXJQTktQb1NRS2hwbVF0bnFHSGhtclA3eUdLTllaZXpYR2tFWGpUWjZuQ2UxTzBadnhFcldFVzlIbENBaUlQRVFNc3lXNU9jTFdHRVY3RGVodkZXbXJVeWpKa1JqVkIwVmlB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "a2fd79e0dfa2",
+   "title": "A股半导体板块持续拉升，英伟达将继续大量使用LPDDR和HBM等存储芯片 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSjRmMl9oMUVYTDd3THo4cnVTXzNkcGhrMV9VcHRIUHJfMUJleEVlVldMT1lubjhWaThhZzJkMjlSaEVRaUlENXRnNkF4ZWFqRS1KTTJKUGRXV1c3dk1GSnRqdnhqN1pKVDlMY0NaUzFET2N3eS1Ka1lhdnpiamxOcFlFV05vSnNVb3JiYw",
+   "source": "搜狐",
+   "published_at": "2026-10-23T05:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-23T05:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSjRmMl9oMUVYTDd3THo4cnVTXzNkcGhrMV9VcHRIUHJfMUJleEVlVldMT1lubjhWaThhZzJkMjlSaEVRaUlENXRnNkF4ZWFqRS1KTTJKUGRXV1c3dk1GSnRqdnhqN1pKVDlMY0NaUzFET2N3eS1Ka1lhdnpiamxOcFlFV05vSnNVb3JiYw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "0c11f054007d",
    "title": "AI视频初创公司Higgsfield获英伟达投资 - 富途牛牛",
@@ -231,6 +265,23 @@
    "zh_summary": "加州州立理工大学发布英伟达AI工厂系统",
    "title_zh": "加州州立理工大学公布英伟达AI工厂系统供学生研究",
    "sentiment": 1
+  },
+  {
+   "id": "ced62b00e1a1",
+   "title": "Nvidia courts European autonomy with Hyperion and Halos - Automotive World",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHl1MnYxdXRCbXlMUVZVLTVMdkRrSTBsNzFtQkszWHgzOFFGVmtNeXM4UHE5VXZPZGhuaFBYd0tUZ2djaEtqZ1AyUEZlenpGUzlUaHQ3MGRiVGtkNjZtWi1yN3lmc2w2c0xsTElndm81cVNoYUpDWVZQamtnMXBTYXhsODNCc3pVYmlDYkt5bkUwYi1ndWUtNQ",
+   "source": "Automotive World",
+   "published_at": "2026-10-23T04:20:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Automotive World",
+     "published_at": "2026-10-23T04:20:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHl1MnYxdXRCbXlMUVZVLTVMdkRrSTBsNzFtQkszWHgzOFFGVmtNeXM4UHE5VXZPZGhuaFBYd0tUZ2djaEtqZ1AyUEZlenpGUzlUaHQ3MGRiVGtkNjZtWi1yN3lmc2w2c0xsTElndm81cVNoYUpDWVZQamtnMXBTYXhsODNCc3pVYmlDYkt5bkUwYi1ndWUtNQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "a862c8d31ae3",
@@ -6306,66 +6357,6 @@
    "zh_summary": "英伟达称14天可交付一座AI工厂",
    "title_zh": "英伟达：最快14天交付一座AI工厂",
    "sentiment": 1
-  },
-  {
-   "id": "4fb7b8948559",
-   "title": "Greenpeace disrupts NVIDIA’s CEO keynote speech at NVIDIA GTC Conference - Greenpeace",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4Y0hHRDc5M2VTUWwtcTMzUXRnWnZCUXdMbVJab3FBdzlQYnlPcEJPX0x4QW0ya3NZVEtnSVhRZFYtd0ZrZzNlYnpsdjBtYlY5OFNqUGhaVGlHd19mczJodEtqU3hLTzFSZFVJTDlXV0hyY3ZmTXB6WkpyZ09DTVpRazZsQ05Fd08zLTM2dXNwYW1CVjlYdkxBcmlPcl9ibDZFRXltUEJuai1PcTBHSGlkaUFjZmp1aU55eFc1UEs5elF6YzgwQw",
-   "source": "Greenpeace",
-   "published_at": "2026-10-22T06:56:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Greenpeace",
-     "published_at": "2026-10-22T06:56:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmN4Y0hHRDc5M2VTUWwtcTMzUXRnWnZCUXdMbVJab3FBdzlQYnlPcEJPX0x4QW0ya3NZVEtnSVhRZFYtd0ZrZzNlYnpsdjBtYlY5OFNqUGhaVGlHd19mczJodEtqU3hLTzFSZFVJTDlXV0hyY3ZmTXB6WkpyZ09DTVpRazZsQ05Fd08zLTM2dXNwYW1CVjlYdkxBcmlPcl9ibDZFRXltUEJuai1PcTBHSGlkaUFjZmp1aU55eFc1UEs5elF6YzgwQw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "绿色和平扰乱黄仁勋GTC演讲",
-   "title_zh": "绿色和平组织扰乱英伟达GTC大会CEO演讲",
-   "sentiment": 0
-  },
-  {
-   "id": "1998b426029a",
-   "title": "三星电机将获特斯拉、英伟达合计3.7万亿韩元投资，共建AI芯片基板产线 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vNXpGT1lacm54TVdvRkRfMzE4UVBZa2k5UU9RS0hUUE9NS1plZWJUTUJUWGlGODJhSXR0WVU4ejlHanJqSzBIMnpwZw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-22T06:54:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-22T06:54:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vNXpGT1lacm54TVdvRkRfMzE4UVBZa2k5UU9RS0hUUE9NS1plZWJUTUJUWGlGODJhSXR0WVU4ejlHanJqSzBIMnpwZw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "三星电机获3.7万亿韩元投资建AI基板产线",
-   "title_zh": "三星电机获特斯拉英伟达3.7万亿韩元投资",
-   "sentiment": 1
-  },
-  {
-   "id": "91993488110b",
-   "title": "英伟达CEO黄仁勋呼吁对AI智能体实施更精细化管控。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nNUtGbVR6VHRGUF9TSERaRFN0V1h5YXpTcjhVX0tiRmRnRVdVYjlHOWxnZF9MZUhTZzVlTnRGeVBCQVNndXp0eElOYw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-22T06:51:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-22T06:51:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nNUtGbVR6VHRGUF9TSERaRFN0V1h5YXpTcjhVX0tiRmRnRVdVYjlHOWxnZF9MZUhTZzVlTnRGeVBCQVNndXp0eElOYw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋呼吁加强AI智能体管控",
-   "title_zh": "黄仁勋呼吁对AI智能体实施更精细化管控",
-   "sentiment": 0
   }
  ]
 }
