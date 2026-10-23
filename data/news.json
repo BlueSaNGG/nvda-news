@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T17:06:34.338240+00:00",
+ "updated_at": "2026-10-23T17:21:32.991168+00:00",
  "market": {
-  "price": 211.83,
-  "change_pct": -0.18,
+  "price": 211.87,
+  "change_pct": -0.16,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 129
+   "avg": 0.41,
+   "count": 132
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（129条已评分）"
+     "note": "今日新闻情绪 +0.41（132条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $211.83 vs 20日均线 $225.59"
+     "note": "现价 $211.87 vs 20日均线 $225.59"
     },
     {
      "key": "分析师动向",
@@ -48,11 +48,11 @@
    "target_count": 16,
    "implied_upside_pct": 48.7,
    "ma20": 225.59,
-   "as_of": "2026-10-23T17:06:34.318015+00:00"
+   "as_of": "2026-10-23T17:21:32.972283+00:00"
   },
   "pe_ttm": 26.9,
-  "pe_pct_5y": 20,
-  "valuation_sentence": "现价处5年P/E 20%分位，目标价隐含+48.7%空间：估值偏低，预期乐观"
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "6c3114a98a34",
+   "title": "Siemens, Nvidia deploy industrial AI to reduce engineering effort - TechTarget",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0VpRjB2dkUtcmZOX2pQcGltZnI4LWt3ZXpZSjNoMHY1SmxjbkdKblVmTFNlVHhpYWl0TXJkRTIzUmluVnNHUGJKampzSUVGc1lrMVd4UHVRLV9ob0xVdGVnTkdVa0VFLTc0NHhScy1SNVdhWWtyTXFaSzktUlFqX0hZb09CZWVwV0w4QWtDUzF4enh2eFRqUlU4dVBWc1BCWTBTZ3NLN2cydzB1VkE",
+   "source": "TechTarget",
+   "published_at": "2026-10-23T17:12:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechTarget",
+     "published_at": "2026-10-23T17:12:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0VpRjB2dkUtcmZOX2pQcGltZnI4LWt3ZXpZSjNoMHY1SmxjbkdKblVmTFNlVHhpYWl0TXJkRTIzUmluVnNHUGJKampzSUVGc1lrMVd4UHVRLV9ob0xVdGVnTkdVa0VFLTc0NHhScy1SNVdhWWtyTXFaSzktUlFqX0hZb09CZWVwV0w4QWtDUzF4enh2eFRqUlU4dVBWc1BCWTBTZ3NLN2cydzB1VkE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "e443bdc358af",
+   "title": "Wayve, Stellantis and Nvidia team up with France on self-driving cars - The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKR2VWYV9kTV80VVRWR0I0RkhjaDNMUFJxRHJHdVRjbDNBTkNCVzRRLTYtamNmM1J4eVBhR29tR1JERUttVllTWXRDamRlbm1MTG40ZEJnUWlUQ2Q1cnhGcER1UzIxMnJ4NXFpd2FsWC0tV1ZCSVJsRGQ2VQ",
+   "source": "The Next Web",
+   "published_at": "2026-10-23T17:08:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Next Web",
+     "published_at": "2026-10-23T17:08:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKR2VWYV9kTV80VVRWR0I0RkhjaDNMUFJxRHJHdVRjbDNBTkNCVzRRLTYtamNmM1J4eVBhR29tR1JERUttVllTWXRDamRlbm1MTG40ZEJnUWlUQ2Q1cnhGcER1UzIxMnJ4NXFpd2FsWC0tV1ZCSVJsRGQ2VQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "a28459828a3a",
    "title": "MSI XpertStation WS300 Review NVIDIA DGX Station GB300 - ServeTheHome",
@@ -265,6 +299,23 @@
    "zh_summary": "八台 DGX Spark 集群运行前沿 AI 模型",
    "title_zh": "八台NVIDIA DGX Spark节点集群运行前沿级AI模型-AI基础设施",
    "sentiment": 0
+  },
+  {
+   "id": "e796bb2031ed",
+   "title": "如何在Python中使用NVIDIA GPUDirect Storage将数据读入GPU内存-AI基础设施 - 至顶网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGYWt4MjZjQzl6dnZSaVNhWjY1Y3J5ZmJUVDdZekdfUTlKa1FjOGM3RnhGdVdFRXoteFlOR1BCTko5TlF4SnVObEdMN3dJNWotZXA3OTRwaHVDaHF2UDQweXFOV2NjQ1dzWnBMT2RkUU9YUQ",
+   "source": "至顶网",
+   "published_at": "2026-10-23T15:24:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "至顶网",
+     "published_at": "2026-10-23T15:24:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGYWt4MjZjQzl6dnZSaVNhWjY1Y3J5ZmJUVDdZekdfUTlKa1FjOGM3RnhGdVdFRXoteFlOR1BCTko5TlF4SnVObEdMN3dJNWotZXA3OTRwaHVDaHF2UDQweXFOV2NjQ1dzWnBMT2RkUU9YUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "91a480f87f18",
@@ -690,6 +741,23 @@
    "zh_summary": "苹果在iPhone发布日超越英伟达成全球第一",
    "title_zh": "iPhone双机发布日苹果超越英伟达成全球市值第一",
    "sentiment": -1
+  },
+  {
+   "id": "0913c30728ee",
+   "title": "Why Are Nvidia, Intel, and AMD Stocks Rebounding in Premarket Today, October 23? - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3FIOXNDVE5WUW4wNDR6MFZ6RTA4ay1vOXppWUJrWG1HZERnYU5XdXVRRjdmN0dTU2RKVTVrb3BUenlkMGxDblhyV1AydWNnRm5QVEU4NmgzWGRucnl2QUw2bkhSLTRtRUMzNUkzQzVRbGlmeWVOTWl3R3dyUDYtX3VOTXA1M0kwT01keTZTR2w2R0VWNGVQZms3NEJiYzV6bUpxYzNWbFNrY21nQzNHOA",
+   "source": "TipRanks",
+   "published_at": "2026-10-23T13:40:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-10-23T13:40:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV3FIOXNDVE5WUW4wNDR6MFZ6RTA4ay1vOXppWUJrWG1HZERnYU5XdXVRRjdmN0dTU2RKVTVrb3BUenlkMGxDblhyV1AydWNnRm5QVEU4NmgzWGRucnl2QUw2bkhSLTRtRUMzNUkzQzVRbGlmeWVOTWl3R3dyUDYtX3VOTXA1M0kwT01keTZTR2w2R0VWNGVQZms3NEJiYzV6bUpxYzNWbFNrY21nQzNHOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "052ea98244dc",
@@ -2099,26 +2167,6 @@
    "session": "盘前",
    "zh_summary": "Nykredit购入9,062,150股英伟达",
    "title_zh": "Nykredit购入9,062,150股NVDA股票",
-   "sentiment": 1
-  },
-  {
-   "id": "039560471c16",
-   "title": "NVIDIA Corporation $NVDA Shares Bought by Range Advisory LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTNOVkRoZU82UjRYTGNLdjdXNUVrTFdVbndjZzlxcWI5ZDVmMnpPVVNMWlNlY0E3Z21XZkJSQnVsWDdVS0xMbTZaT2MtbGNyeWk1NDFNRU8zbTVTaHA5WFRtenRrSnJlYzd1UVRhblJqVC1hSTVqYThhTXRpZGNOMV96SjR4QmZIMGFwd05qajlnWVZzSmZ6Tjd1UTVTRHNuRHVsZWQzZEgwZ3RJU2I0aFQ3ek82ODBEWUdIYw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-23T08:41:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-23T08:41:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTNOVkRoZU82UjRYTGNLdjdXNUVrTFdVbndjZzlxcWI5ZDVmMnpPVVNMWlNlY0E3Z21XZkJSQnVsWDdVS0xMbTZaT2MtbGNyeWk1NDFNRU8zbTVTaHA5WFRtenRrSnJlYzd1UVRhblJqVC1hSTVqYThhTXRpZGNOMV96SjR4QmZIMGFwd05qajlnWVZzSmZ6Tjd1UTVTRHNuRHVsZWQzZEgwZ3RJU2I0aFQ3ek82ODBEWUdIYw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Range Advisory买入英伟达股票",
-   "title_zh": "Range Advisory LLC买入英伟达股票",
    "sentiment": 1
   },
   {
@@ -3836,7 +3884,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwMUROVkNnY2dTSlBOa0Y1UndUZWJDUEhJdzNmV0FsNFZybmd0SzE2RmZ5cGNaZlF6eDJRdS1iOGk1WlZUejNZWDNHdjRPM04xOENNSHpXMGo1b09YQVBuTg",
    "source": "东方财富",
    "published_at": "2026-10-22T21:31:35+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "东方财富",
@@ -3847,13 +3895,22 @@
      "name": "21财经",
      "published_at": "2026-10-23T00:31:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjEwVVpsYkpRSmM1aWExdTRUS3lGN1FsM0pMZUw1OGxORnFpY2FJTnBlTkFCRWVQYnVUZmFqSmVGYkRPdXB0UHpTenB3U3JmazBjbVNCeURmOWc5TEtBblhQSjFiQ05zMjAzM09yNGUzX0tfbE9hcG9qVy1jclU4cTJ3MVplY19GaU5zaWlmZw"
+    },
+    {
+     "name": "财联社",
+     "published_at": "2026-10-22T21:32:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80MVFBSGpUZ21IWWhwQ0xjYUJLX184VDNhQTBMajYtTDZCOEhsTllFZmVSYU9LYTYzeXhONVpoa2txNXcxWC1fag"
     }
    ],
    "category": "其他",
    "session": "盘后",
    "zh_summary": "SpaceX联手英伟达打造AI合作网络",
    "title_zh": "Grok加速商业化：SpaceX联合英伟达等打造AI合作网络 - 东方财富",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.64,
+    "window_h": 2.0
+   }
   },
   {
    "id": "268ce53389f7",
@@ -6224,19 +6281,33 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc",
    "source": "Yahoo! Finance Canada",
    "published_at": "2026-10-22T12:48:31+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo! Finance Canada",
      "published_at": "2026-10-22T12:48:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc"
+    },
+    {
+     "name": "Yahoo Finance Australia",
+     "published_at": "2026-10-22T14:21:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E"
+    },
+    {
+     "name": "Yahoo Finance Singapore",
+     "published_at": "2026-10-23T14:59:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwR3dOYjE3WFNiWHJyVlFBM0NSRklETno5Mjh3YjFQbEhXVDNuU2FQWURiX2pPWjhXUjhkLURpSWE2X0hNZFVSb1RyNUxoX09HZ3c"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "英伟达(NVDA)股价新闻与历史行情",
    "title_zh": "英伟达(NVDA)股价、新闻、行情与历史",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -2.41,
+    "window_h": 2.0
+   }
   },
   {
    "id": "e4155e5d0b50",
@@ -6257,66 +6328,6 @@
    "zh_summary": "Trefis对比英伟达与Skyworks差异",
    "title_zh": "Trefis对比：英伟达与Skyworks的差异",
    "sentiment": 0
-  },
-  {
-   "id": "dda395f8305b",
-   "title": "NVIDIA (NVDA) Could Be 21% Undervalued Following Its DSX POD Launch - Simply Wall Street",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU0xZU01pdkpORm1tdG9iclVJb1lSRmtjdmZLaTF4SDJhSTRSVnpfMmpqTzliSTQzOHNZRndoWTd2a2g0MmV4MFM3RUtwcGlGdmNyVF8wMEMxemNQZ1hZU05GNjF6UkdRSDRpWXl0bEFKSjdCTFFDVWpFdy1XRjA5VDlCZUVOY2tySE1ONGhyZHhFZnptVmFIN0REc3IyNkZWZUJqeFZEenBOWHhheUlGUld4R1BzdHZSZERVMHBIbmg1OTFQdm01WDhGZ9IB0AFBVV95cUxOQ2FDaDV1UzZIdTNGV0N3VklCY0NmdGJjUFFsZUFjV1lZUGs5S0FjUTgyT2JJREJVVVBpUkRvT00tOTJUSEI5bXVMd2xidlM4dXNRSUdRT0JBNDFSNV92TjZQLTZQVGFXRVBncHJXWm5pd0htanlzTmZkR01VdHU2b0lLbHBhODRTb0ZCT0I4VFJQcm1sNlpKektXb0oxbTRPM21MdG9ZR2I4b1FQXy0zaUNXV0RuajlxV2tXU2NHcVJsY0FNcEgzTFJ3ZExJaDJZ",
-   "source": "Simply Wall Street",
-   "published_at": "2026-10-22T12:38:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Simply Wall Street",
-     "published_at": "2026-10-22T12:38:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU0xZU01pdkpORm1tdG9iclVJb1lSRmtjdmZLaTF4SDJhSTRSVnpfMmpqTzliSTQzOHNZRndoWTd2a2g0MmV4MFM3RUtwcGlGdmNyVF8wMEMxemNQZ1hZU05GNjF6UkdRSDRpWXl0bEFKSjdCTFFDVWpFdy1XRjA5VDlCZUVOY2tySE1ONGhyZHhFZnptVmFIN0REc3IyNkZWZUJqeFZEenBOWHhheUlGUld4R1BzdHZSZERVMHBIbmg1OTFQdm01WDhGZ9IB0AFBVV95cUxOQ2FDaDV1UzZIdTNGV0N3VklCY0NmdGJjUFFsZUFjV1lZUGs5S0FjUTgyT2JJREJVVVBpUkRvT00tOTJUSEI5bXVMd2xidlM4dXNRSUdRT0JBNDFSNV92TjZQLTZQVGFXRVBncHJXWm5pd0htanlzTmZkR01VdHU2b0lLbHBhODRTb0ZCT0I4VFJQcm1sNlpKektXb0oxbTRPM21MdG9ZR2I4b1FQXy0zaUNXV0RuajlxV2tXU2NHcVJsY0FNcEgzTFJ3ZExJaDJZ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "DSX POD发布后股价或低估21%",
-   "title_zh": "Simply Wall Street：DSX POD发布后英伟达或低估21%",
-   "sentiment": 1
-  },
-  {
-   "id": "396520652df9",
-   "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案” - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw",
-   "source": "财联社",
-   "published_at": "2026-10-22T12:33:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-22T12:33:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUS1QxajZRN255MHRmZHpGQXFBOGM3M2IzaEJ3OVRpVEpXTlpuamJma0tBSzJRV2ZjZXlqTkJxem5teHZtWExLQw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋：AI投资回报已有答案",
-   "title_zh": "英伟达股东会：黄仁勋称AI投资回报已有答案",
-   "sentiment": 1
-  },
-  {
-   "id": "1c73ad9e9080",
-   "title": "Infineon and Nvidia to develop gallium nitride power conversion tech for 800VDC data center racks - Data Center Dynamics",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMEJkZjJldDBpX3FLYXRlaDJJVHloNE1rdHFIdHJ6WTc1SllaSTZJWTU2QjFJd0xIemFOVHJNYVA5M2JkRUpYakJMeVJoX09pd1pwbm8yWXB1WVRZNW9IeG1zWGFrNFI1MmMtQ2R2aVlpLXZKSXFNamluNVo0N09CV0EyUXZpSFdETktKaGd5QUVCMzlTb2xKcC1pMnBqTVpxOTZyQWZXZndyRnA3Z2lsdXhPMVFhS2pHZm5Hd09GaHNTaXRNNnR3aWFLS2h6VjBqVWNjcmxITjg",
-   "source": "Data Center Dynamics",
-   "published_at": "2026-10-22T12:33:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Data Center Dynamics",
-     "published_at": "2026-10-22T12:33:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMEJkZjJldDBpX3FLYXRlaDJJVHloNE1rdHFIdHJ6WTc1SllaSTZJWTU2QjFJd0xIemFOVHJNYVA5M2JkRUpYakJMeVJoX09pd1pwbm8yWXB1WVRZNW9IeG1zWGFrNFI1MmMtQ2R2aVlpLXZKSXFNamluNVo0N09CV0EyUXZpSFdETktKaGd5QUVCMzlTb2xKcC1pMnBqTVpxOTZyQWZXZndyRnA3Z2lsdXhPMVFhS2pHZm5Hd09GaHNTaXRNNnR3aWFLS2h6VjBqVWNjcmxITjg"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英飞凌与英伟达合作开发氮化镓电源技术",
-   "title_zh": "英飞凌与英伟达合作开发800VDC数据中心氮化镓电源技术",
-   "sentiment": 1
   }
  ]
 }
