@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T05:21:29.779839+00:00",
+ "updated_at": "2026-10-23T05:36:28.652178+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -10,12 +10,12 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 1
+   "avg": 0.67,
+   "count": 3
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.00（1条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.67（3条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-23T05:21:29.757078+00:00"
+   "as_of": "2026-10-23T05:36:28.632714+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -128,17 +128,39 @@
    "sentiment": 1
   },
   {
+   "id": "e92e8f5b70c0",
+   "title": "AI Video Startup Higgsfield Draws Investment From Nvidia - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHhEb3JuUm1ma05hdTNPb0hBc2lQbTFnNTF0ZThWZFBzUXpxSTM3Nmw2d05LRDVSRllZd1FJUHd3ekFPZmhCdjlQWWVvbnI1UklWeThscm9nTXZLSkVPTUxtS1VEYi1YSlJMZHlYdXJnbE9CRXdmYlNSc3dZdkhWZnl5QmhtMkZiMHFtdW14Yjh5bGRvaTBwRHN6bUt6MzNFTkVKMi1SbUZrVlBUbUpYUHo4SVA4YmVqT2RpZU5n",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-23T05:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-23T05:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHhEb3JuUm1ma05hdTNPb0hBc2lQbTFnNTF0ZThWZFBzUXpxSTM3Nmw2d05LRDVSRllZd1FJUHd3ekFPZmhCdjlQWWVvbnI1UklWeThscm9nTXZLSkVPTUxtS1VEYi1YSlJMZHlYdXJnbE9CRXdmYlNSc3dZdkhWZnl5QmhtMkZiMHFtdW14Yjh5bGRvaTBwRHN6bUt6MzNFTkVKMi1SbUZrVlBUbUpYUHo4SVA4YmVqT2RpZU5n"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "a6dad6e28aa7",
    "title": "Pony.ai partners with inDrive, Nvidia to launch robotaxis in Kazakhstan - Investing.com",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3RfYXZ3VmFIMHVsLWhBUEkxa3NYek5NS3VCQzBUdXlfd1dDeU85TGdBcnI4N1duVEltOGZzemsyUmNUb1N0LU9XeXVHQ05WcVg4dVNzVmVGZXpxa1d4WklnNm82MUtwQ1BGQnlJVzhjd2JQeDExUDRCNVhIUWVnT0NlZnh4OHJHWlBnNEk0Y1Blbm5sUndmSEM5eFVOZmloR1VrYW1EQjZrZFQtR2pGczlYZFpRcVhWT3BaY2t3NWtDS0k1",
    "source": "Investing.com",
    "published_at": "2026-10-23T04:38:36+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Investing.com",
      "published_at": "2026-10-23T04:38:36+00:00",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3RfYXZ3VmFIMHVsLWhBUEkxa3NYek5NS3VCQzBUdXlfd1dDeU85TGdBcnI4N1duVEltOGZzemsyUmNUb1N0LU9XeXVHQ05WcVg4dVNzVmVGZXpxa1d4WklnNm82MUtwQ1BGQnlJVzhjd2JQeDExUDRCNVhIUWVnT0NlZnh4OHJHWlBnNEk0Y1Blbm5sUndmSEM5eFVOZmloR1VrYW1EQjZrZFQtR2pGczlYZFpRcVhWT3BaY2t3NWtDS0k1"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T05:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcGJGeC1PanpDaEVqX2dmVlYxU01jcHF5RGlORmpOT1lBMkZIRDlscy1PTWp2RlU4RzJYS19WR3VlSVhTdDJYejdnSTVEV1lPU3hlaFZhLUpSc1VQMTY5UU96QWM3TTBZUzFySFFfcUNRWnl0dWU2NTFqTTRSVHlybHJzdTNySTZOVWhYU0M3X3pFQTE3VTFQTE5xcw"
     }
    ],
    "category": "其他",
@@ -731,6 +753,23 @@
    "zh_summary": "黄仁勋称2029年内存供应不会过剩",
    "title_zh": "英伟达CEO黄仁勋：2029年内存供应不太可能过剩，将继续大量使用",
    "sentiment": 1
+  },
+  {
+   "id": "2c066de9a584",
+   "title": "黄仁勋反驳内存过剩担忧：2029年不太可能 英伟达仍会大量使用 - 凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwN24wVDl3WlMyb0dfdHR3Nmp5MXZRMHh3WjVGZjM2MVFySEk2TG5YMWZUUXhiV0l2R2drdnZ4a2VoeG1YeVlfcHFEeUI3VVRGUXc",
+   "source": "凤凰网",
+   "published_at": "2026-10-22T23:20:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网",
+     "published_at": "2026-10-22T23:20:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwN24wVDl3WlMyb0dfdHR3Nmp5MXZRMHh3WjVGZjM2MVFySEk2TG5YMWZUUXhiV0l2R2drdnZ4a2VoeG1YeVlfcHFEeUI3VVRGUXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "ea41f9322252",
@@ -6321,51 +6360,6 @@
    "zh_summary": "黄仁勋呼吁加强AI智能体管控",
    "title_zh": "黄仁勋呼吁对AI智能体实施更精细化管控",
    "sentiment": 0
-  },
-  {
-   "id": "7ae4f392528c",
-   "title": "扩展Isaac平台 英伟达加速卡位人形机器人生态位 - https://www.caiwennews.com/",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EQ3RwcnIyemR0bnE1Uy1fRDdSOFRpYWFYT0hSZjRHelpQWkZhQ0J6Y2lnYTdmZlRsOGNxV1oydTZORERhS3Q1aHQwQ3NoLVh1eHpqTEpZeDRxTFZL",
-   "source": "https://www.caiwennews.com/",
-   "published_at": "2026-10-22T06:35:51+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "https://www.caiwennews.com/",
-     "published_at": "2026-10-22T06:35:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EQ3RwcnIyemR0bnE1Uy1fRDdSOFRpYWFYT0hSZjRHelpQWkZhQ0J6Y2lnYTdmZlRsOGNxV1oydTZORERhS3Q1aHQwQ3NoLVh1eHpqTEpZeDRxTFZL"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T06:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcEFLMmRMQUE3c09vS3JuZVBvX0VxeVFaZ19KNlJjWE9rWW9YOUNicDdfejMtaUlZSV83VmpnY2hhLXlxTF9XeDNtWmVkeXBrY2tiVDRQNml5QWdNZEx5dEgycnBlSXd5UGw3RDRESnhlQlhLd2lwMVJ3emlYTDRvSDl0RHY3UmV5T0syeg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达扩展Isaac平台卡位人形机器人生态",
-   "title_zh": "英伟达扩展Isaac平台卡位人形机器人生态",
-   "sentiment": 1
-  },
-  {
-   "id": "7fe9b0b3ee56",
-   "title": "西门子医疗与英伟达合作开发AI自适应放疗技术 - 虎嗅",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IRUFNLS01TUJwZkNLcmFsbEM1dGJwV1JNcnZRYjRUY0stSVlVbUtkTGxibVRRREtuX3ZMQmJnc1U4b3FVQ2VYLXZsZ2JJLUxQ",
-   "source": "虎嗅",
-   "published_at": "2026-10-22T06:22:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "虎嗅",
-     "published_at": "2026-10-22T06:22:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IRUFNLS01TUJwZkNLcmFsbEM1dGJwV1JNcnZRYjRUY0stSVlVbUtkTGxibVRRREtuX3ZMQmJnc1U4b3FVQ2VYLXZsZ2JJLUxQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "西门子医疗与英伟达合作开发AI自适应放疗技术",
-   "title_zh": "西门子医疗与英伟达合作开发AI自适应放疗技术 - 虎嗅",
-   "sentiment": 1
   }
  ]
 }
