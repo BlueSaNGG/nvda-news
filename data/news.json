@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T16:21:36.853248+00:00",
+ "updated_at": "2026-10-23T16:37:03.183677+00:00",
  "market": {
-  "price": 211.99,
-  "change_pct": -0.1,
+  "price": 212.29,
+  "change_pct": 0.04,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.45,
-   "count": 125
+   "avg": 0.44,
+   "count": 126
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 63% 分位"
+     "note": "现价处于52周区间 64% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +48.6%"
+     "note": "目标价中位数 $315（16家），隐含空间 +48.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.45（125条已评分）"
+     "note": "今日新闻情绪 +0.44（126条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $211.99 vs 20日均线 $225.59"
+     "note": "现价 $212.29 vs 20日均线 $225.61"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 63,
+   "price_52w_pct": 64,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 48.6,
-   "ma20": 225.59,
-   "as_of": "2026-10-23T16:21:36.837612+00:00"
+   "implied_upside_pct": 48.4,
+   "ma20": 225.61,
+   "as_of": "2026-10-23T16:37:03.170531+00:00"
   },
-  "pe_ttm": 26.9,
+  "pe_ttm": 27.0,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.6%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e25e68ecd479",
+   "title": "英伟达豪掷1700亿美元押注新式云计算 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRldKaml2NlBuVXBURDk4SExtZEhub0h4YVdNb3Y3WVRlTGNtNzlzZ214QmwzcWM4SGhMbUtab0JlRGRaVXZKUmtZNGFuSGZuMWJnaWx3SXp1Y2hnR1ZqRVdxZnZzSXlxaThUV09OQXNVY1N0cTNCX1ZmU3hwSEh4YkUyUWVSaXh4VUlsSg",
+   "source": "搜狐",
+   "published_at": "2026-10-23T16:28:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-23T16:28:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRldKaml2NlBuVXBURDk4SExtZEhub0h4YVdNb3Y3WVRlTGNtNzlzZ214QmwzcWM4SGhMbUtab0JlRGRaVXZKUmtZNGFuSGZuMWJnaWx3SXp1Y2hnR1ZqRVdxZnZzSXlxaThUV09OQXNVY1N0cTNCX1ZmU3hwSEh4YkUyUWVSaXh4VUlsSg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "77c001c5bf03",
    "title": "SUSE AI Factory + NVIDIA OpenShell: Agent Security [2026] - tech-insider.org",
@@ -617,7 +634,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeWd1Wm13NXExek4tN1ZKX3ZHWVBxdXVQM3lwR3UycnhaV3Q0bEQ2bjFPV1N1QlpGaUpDWWdCVkZ5akp1QS1ieWxlRzQxc3UtdlBkczh5eHBWdU9oLTdkOWpaUTFFdGNtck9acU1YbG1SQVRwbUlNREJqMEhaZ01oRmVCSE1LWUlE",
    "source": "搜狐",
    "published_at": "2026-10-23T13:34:59+00:00",
-   "outlets_count": 5,
+   "outlets_count": 7,
    "outlets": [
     {
      "name": "搜狐",
@@ -643,6 +660,16 @@
      "name": "21财经",
      "published_at": "2026-10-23T15:10:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb0pDcl9zcHBDRFZ0cFpmMXlqYmZqajg1ckVxOFZzd2x5WWg0S2pOYmxUUTNjWDAtVThibmlubHdrM2V3X3NRMUhNOGlOOTZRMzg5WnN4cHBvVW9Md2tLZFlibjk4bC1qdEV0Wm8xd3RBdUZpNDk2bUtsenBlZl9RcTZXcC0xV3F2bmhLSVVjOA"
+    },
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-23T15:28:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wdGRtTEJMOWl4N1AtN3ZlZEVsazBFaDZCXy1MYVF0aU40aENrUlBGQ05VSVZzcVBkd1RjVThlS2k1alc0dWhpUlVoSjZxMTNadVFCWTkteHBIY21yU2I1MEREUUVCSFdiNVFVLVBUMVMyeWc"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-23T15:28:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLcm16eHRxVFFZOVBBNnNqUGVXRlpKVlpucDJISGZLX184bFVFdEZjZzd1SnFJejdIVGtCS0FxSHR0cFdLV216a1EtV0tBbG1icTF2RWVCV1E3bld5X01PRFZJc05Zd2YzNVRiYlg2blp4UXFoRXc"
     }
    ],
    "category": "其他",
@@ -6291,26 +6318,6 @@
    "session": "盘前",
    "zh_summary": "美银：开放权重模型成本高企，芯片股受益",
    "title_zh": "美银称开放权重模型成本高，NVDA与Intel等芯片股受益",
-   "sentiment": 1
-  },
-  {
-   "id": "5a4fbca3f972",
-   "title": "Bolt picks Nvidia Alpamayo for European robotaxi rollout - Automotive World",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDlQQWxUa2I3c2E1UTVhNTkxMjlES2xWX2RaSGlmU0ZfZGRkb2J3SjdJLXVReGg3RTAwMHY0TVNPbmhWRFZYbTh2MmJiQVdTcmNNTzlJeVFBZHkyN2hnQUo0X1M5NkEtXzllMTNYX1c2RHUzODRhUExJRmtOcGxBSXJXMFhfSFIzdmxqS0syRDNPSzRpOHQzUHVRazM1blhsTTVNbQ",
-   "source": "Automotive World",
-   "published_at": "2026-10-22T12:14:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Automotive World",
-     "published_at": "2026-10-22T12:14:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDlQQWxUa2I3c2E1UTVhNTkxMjlES2xWX2RaSGlmU0ZfZGRkb2J3SjdJLXVReGg3RTAwMHY0TVNPbmhWRFZYbTh2MmJiQVdTcmNNTzlJeVFBZHkyN2hnQUo0X1M5NkEtXzllMTNYX1c2RHUzODRhUExJRmtOcGxBSXJXMFhfSFIzdmxqS0syRDNPSzRpOHQzUHVRazM1blhsTTVNbQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Bolt欧洲无人出租车用Alpamayo",
-   "title_zh": "Bolt欧洲无人出租车车队选用英伟达Alpamayo",
    "sentiment": 1
   }
  ]
