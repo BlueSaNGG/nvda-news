@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T11:21:28.552277+00:00",
+ "updated_at": "2026-10-23T11:36:31.200917+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -10,8 +10,8 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.67,
-   "count": 58
+   "avg": 0.58,
+   "count": 65
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.67（58条已评分）"
+     "note": "今日新闻情绪 +0.58（65条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-23T11:21:28.543491+00:00"
+   "as_of": "2026-10-23T11:36:31.181476+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "073cf4b0b21c",
+   "title": "TrendAI brings Nvidia Nemotron to Vision One for sovereign and private cloud - Techzine Global",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRk95VXJNLVNBMThxdUJES3NzLU9jUXYyS3U4TFV2clZJbTcxOUdLVmRYblNGVkM0ZEl3WFk3NFhDdnMxeUwzcW1TTktqTmp1Z2prZFlhWE1EMnhRbFRLcnFIQU4xbWNLYm9OdUxzeV9wRGNmbDlfQzZSbk1yMkd5MTJ0NXBKWHJySHg5NVk2ZUxlMFZsLUFmUEU0b1NzOUh3VzZzYU1NNnJwZG9maGFoVm1YOW5BbEY2aFZRekdhdw",
+   "source": "Techzine Global",
+   "published_at": "2026-10-23T11:32:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Techzine Global",
+     "published_at": "2026-10-23T11:32:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRk95VXJNLVNBMThxdUJES3NzLU9jUXYyS3U4TFV2clZJbTcxOUdLVmRYblNGVkM0ZEl3WFk3NFhDdnMxeUwzcW1TTktqTmp1Z2prZFlhWE1EMnhRbFRLcnFIQU4xbWNLYm9OdUxzeV9wRGNmbDlfQzZSbk1yMkd5MTJ0NXBKWHJySHg5NVk2ZUxlMFZsLUFmUEU0b1NzOUh3VzZzYU1NNnJwZG9maGFoVm1YOW5BbEY2aFZRekdhdw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
+   "id": "830872c8a38e",
+   "title": "Apple Is Just $42 Billion Away From Passing Nvidia as the World’s Most Valuable Company - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQczllUkU2QUQ2TXR2UklteGV6azI4QVQwanJCVFFSd3BJZW5GaGVfMF9hM0xxaXVRZXFNZFM3Z21SMjZkdmFPNmU5SENyQ3EyTndKQ25QRmR0MEJ5R1VueFZ6UkZOQVliTTBHbm1NamN5bGFwU0lUclZ3c1YwYTJ5b3M4NU41Q2JoaTNuT2IzczlFVGZNcU5DUjJOTTliUk1OeG9YWXUxTGc0c2ZGZmdFcUNUQzd2VzVieDBoZENPb2tOYmQxVjd6ZA",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-23T11:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-23T11:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQczllUkU2QUQ2TXR2UklteGV6azI4QVQwanJCVFFSd3BJZW5GaGVfMF9hM0xxaXVRZXFNZFM3Z21SMjZkdmFPNmU5SENyQ3EyTndKQ25QRmR0MEJ5R1VueFZ6UkZOQVliTTBHbm1NamN5bGFwU0lUclZ3c1YwYTJ5b3M4NU41Q2JoaTNuT2IzczlFVGZNcU5DUjJOTTliUk1OeG9YWXUxTGc0c2ZGZmdFcUNUQzd2VzVieDBoZENPb2tOYmQxVjd6ZA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "3aac5b724b4b",
    "title": "【视频】中美新拐点！苹果 Meta特斯拉英伟达，深度拆解各家招式 - 汽车之家",
@@ -300,6 +334,23 @@
    "zh_summary": "Wayve与英伟达合作推进自动驾驶",
    "title_zh": "Wayve与英伟达合作推进法国自动驾驶部署",
    "sentiment": 1
+  },
+  {
+   "id": "6d1d633ea5a2",
+   "title": "FFmpeg 9.1 Preps For Release With APV Vulkan Encoder, NVIDIA Optical Flow FRUC - Phoronix",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhVDNvR3F5WGVERWJHNUFZdkNwQTZ5eDFCX19NM1JZM1dOOGU0VDdmRm5iY0R5eVZqb2dnMDYtTzlOU1RBUjVMbE83UmpYN0xtaU42N2RXNFNQeGRfNUlV",
+   "source": "Phoronix",
+   "published_at": "2026-10-23T10:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Phoronix",
+     "published_at": "2026-10-23T10:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhVDNvR3F5WGVERWJHNUFZdkNwQTZ5eDFCX19NM1JZM1dOOGU0VDdmRm5iY0R5eVZqb2dnMDYtTzlOU1RBUjVMbE83UmpYN0xtaU42N2RXNFNQeGRfNUlV"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "0dcd2e961c19",
@@ -810,6 +861,23 @@
    "zh_summary": "Qblox集成DGX Spark推进量子计算",
    "title_zh": "Qblox集成英伟达DGX Spark推进混合量子计算",
    "sentiment": 1
+  },
+  {
+   "id": "9918b102963e",
+   "title": "Nvidia's Huang heads to Kazakhstan for the first time — and he's not the only one with big plans - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jZHJKU1FzanFwSjQ5WFc5eHFsaU0wVm5hTTJwX2N3X0FSbVpvdUROam8tWWVZRnlhdDY4cEttSDNORXpQNWM2SFJ3Rjlrc1BxVmpmWHJra3VLV25ibzFCRDVmVF9SVmZMX3BKdzRCR0VRWVV6amI1cjQ4SXrSAYIBQVVfeXFMT3JMSWZxbVVqS3BtNlVTc0FEWnBGMnRud2ctSS1raHZPaUJORGljNEpCaHk5OGdvS2FDOXIycWdXMEpnYzhlc1lqUEpfTldxYkRkRERnU25rVDZEZFY1Y3lVZjEtYWdDSTFXd1ZPUmRGTlAteEJMcjJsdktNZlJ1MUhEdw",
+   "source": "CNBC",
+   "published_at": "2026-10-23T08:16:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-23T08:16:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jZHJKU1FzanFwSjQ5WFc5eHFsaU0wVm5hTTJwX2N3X0FSbVpvdUROam8tWWVZRnlhdDY4cEttSDNORXpQNWM2SFJ3Rjlrc1BxVmpmWHJra3VLV25ibzFCRDVmVF9SVmZMX3BKdzRCR0VRWVV6amI1cjQ4SXrSAYIBQVVfeXFMT3JMSWZxbVVqS3BtNlVTc0FEWnBGMnRud2ctSS1raHZPaUJORGljNEpCaHk5OGdvS2FDOXIycWdXMEpnYzhlc1lqUEpfTldxYkRkRERnU25rVDZEZFY1Y3lVZjEtYWdDSTFXd1ZPUmRGTlAteEJMcjJsdktNZlJ1MUhEdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "457228fb95a5",
@@ -3937,12 +4005,17 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QeGlGU3pQQWhObmNYdXJ3YWota2lLRm5mdGxBVlVJaWl6ZmNyckxKU2gycG1LLWFuejRFbkc5OEl3VHBQTGwtcm1wWEtiYl9QYVdROXNiRU0ySVd1UUNfUUpJc01yS0NMcS1oLU5ZbzNIakdlMEl5Wg",
    "source": "新浪财经",
    "published_at": "2026-10-22T14:37:11+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪财经",
      "published_at": "2026-10-22T14:37:11+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QeGlGU3pQQWhObmNYdXJ3YWota2lLRm5mdGxBVlVJaWl6ZmNyckxKU2gycG1LLWFuejRFbkc5OEl3VHBQTGwtcm1wWEtiYl9QYVdROXNiRU0ySVd1UUNfUUpJc01yS0NMcS1oLU5ZbzNIakdlMEl5Wg"
+    },
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-23T05:22:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYnpSQmdLOEtKVHFfWWh3dDYzakVpc0Z0Umc5aE5uNm5TX19odnVCZHFlWHF6Y2dvdjFOdlJMbHRtM1RsekprWTNPODAtYS1aalRBN1JKUDVtSVQwaHdvNENxN3IxR3FzVHNOVVBsTC1wNHN5OFl1cXdtTWpRVFFzbHJmanBUSXpPdUhnSUkzM3ZIVUx2dGZTMHZyOVJ5UWFvZlJpVXp1UERUR3NMRHBrYXEtLVBZTlg4bDZicERXRE0zX2h3bUZPRFZZVENacnlLYWNCeENNYUpMdw"
     }
    ],
    "category": "AI需求",
@@ -6063,40 +6136,6 @@
    "sentiment": 1
   },
   {
-   "id": "56cb9e216c20",
-   "title": "英伟达CEO黄仁勋：新云厂商需求“高到离谱” 但资金紧缺 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk05Yy1BaTdJeXdPVUk0Wm50Uy0wd2RBVDJydWR1VnNUZi1qTTYxNC10a1gtUGZkTlR6WUY5RGY0ZlRLU0gtUlpxQkJIQ0VZNVVBQUlYTmN5MjNQb1pKRjQ0QUhyTUY2bktaUkRHZVNSSmowcmJkMEUyV3lIYmZjejdjUHB4REhVbEl2bEU5RnlTMnZkQ0hPdHJXcm0",
-   "source": "新浪财经",
-   "published_at": "2026-10-22T10:34:55+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-22T10:34:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWk05Yy1BaTdJeXdPVUk0Wm50Uy0wd2RBVDJydWR1VnNUZi1qTTYxNC10a1gtUGZkTlR6WUY5RGY0ZlRLU0gtUlpxQkJIQ0VZNVVBQUlYTmN5MjNQb1pKRjQ0QUhyTUY2bktaUkRHZVNSSmowcmJkMEUyV3lIYmZjejdjUHB4REhVbEl2bEU5RnlTMnZkQ0hPdHJXcm0"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-22T10:37:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91WEc0b0hPQTY1OWlNR0lPTDI0V0RfLVhJTnNRZHlfYWFDaW0zWnRVUHJVUk1jbVdzN0k2XzNNZ1RMOG9mcHI5aG0wVQ"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-23T06:22:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcVJPY3F4UXFnYUVIRjdPbXJSX1JXYzEzV3g3Z0VROS1jMm1EemlpUE53RHU2V0J2dWYxWWgxazdDa1F4RU9HcjVHcFBKWGNXY2pWMmJYWW5oR3hUWHFmQWU1ZldrbnNXelNlanJ5bzl2eEFaalNIdzB1SHlmc25KaHUzS2lFTFFlM2QyZ0pKcUJlTDB2STNOSTNDb2w"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋：新云厂商需求旺盛但缺资金",
-   "title_zh": "英伟达CEO黄仁勋：新云厂商需求“高到离谱” 但资金紧缺 - 新浪财经",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -2.41,
-    "window_h": 2.0
-   }
-  },
-  {
    "id": "55e3904121f8",
    "title": "Nvidia Expands Physical AI Stack Across Robotics, Humanoids and Factory Automation - AI Insider",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkRsQWxhUHh6MGdBQUFVR3VNUEVNQUVGV05aMDV4b0RNRWJELWRPSHRYVzZmcEhDeExLMDFKTG9vV0Rwemszckc5SDZSYTZZR3RLa29wZUNaTVROX1FReER0aXlOOG5Wb0czd05CS2R2dnQwV2JyblFRZHBwNmI2eDRfMmZiZUxJV05CSGJKNG90RnEzYWFaSG5wZUVyOFl5eUJMLVR2Vm1xTEs2Z1RhRjNzQXFZUnRIYTlv",
@@ -6259,80 +6298,6 @@
    "session": "盘前",
    "zh_summary": "Nemotron模型助力TACTICAAI推理",
    "title_zh": "英伟达Nemotron模型扩展TACTICAAI推理能力",
-   "sentiment": 1
-  },
-  {
-   "id": "b470df2ea8e9",
-   "title": "Nvidia Unveils OpenShell Architecture to Monitor AI Agents - THE ELEC, Korea Electronics Industry Media",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80c3BucTRwZE9DUlFjQWtZNmUwY1pZWGJkaHZITDZNSE1EajNLODF3SFlEV0Y5eXU4Q3NSUExPNlpzLTMtVTdQczNxNHJmTnUwMEh2T3ZwaFFVNUFxZTR5YjJZeVFmQmM",
-   "source": "THE ELEC, Korea Electronics Industry Media",
-   "published_at": "2026-10-22T10:05:49+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "THE ELEC, Korea Electronics Industry Media",
-     "published_at": "2026-10-22T10:05:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80c3BucTRwZE9DUlFjQWtZNmUwY1pZWGJkaHZITDZNSE1EajNLODF3SFlEV0Y5eXU4Q3NSUExPNlpzLTMtVTdQczNxNHJmTnUwMEh2T3ZwaFFVNUFxZTR5YjJZeVFmQmM"
-    },
-    {
-     "name": "Digital Watch Observatory",
-     "published_at": "2026-10-22T10:26:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mVElUak0ySDBoRW5TVkoyOE1VbVUyTW1Md3BWeGZBYVo1anlaZTdJbjFnVWhJb3VjaFFlWkRWNEtsak1rMGphaDFhV21kOEdhUVRsMGJDVkp0ckZFYzYtV3FuMGRjSE41ck1hWU8xQmVnM2NjN3ZHcVNCbnNyZw"
-    },
-    {
-     "name": "HPCwire",
-     "published_at": "2026-10-22T12:48:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnUzclF5TmFaSVFSOHBBSmhSaFN0a2o5R1IxV3pOMzZNM3htLXNKWmpZTkc1NFctaklCc0hkREctXzhYTEVobzdhcFhiUVVibzZiYm9ubFIxX3R3aV9lM3ZpY0k2R1d0MHRsLUlQc0hOck9VVXNDMUlPRGx2QjcxeEdleUc2VVB1aFUxaUxwS1M0dEhSOU9rRi1ySlhsczNManY4WUIxQ3U"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达发布OpenShell监控AI代理",
-   "title_zh": "英伟达发布OpenShell架构监控AI代理",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.21,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "80d4e529d7f5",
-   "title": "Nvidia Invests in AI Supply Chain to Expand Production Capacity - THE ELEC, Korea Electronics Industry Media",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Yd1p5TGVJelExN1FaOG82Y0Etb0ZoczliMDZYS2VfbU5zMi10VU5tQXRuVUUwVm9VS0pkYl85TEZWOGxCaE5vTUU0YUNtSTVEQXBWdXh4Nnc5N19RR1FNT19hOWVlaDg",
-   "source": "THE ELEC, Korea Electronics Industry Media",
-   "published_at": "2026-10-22T10:05:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "THE ELEC, Korea Electronics Industry Media",
-     "published_at": "2026-10-22T10:05:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Yd1p5TGVJelExN1FaOG82Y0Etb0ZoczliMDZYS2VfbU5zMi10VU5tQXRuVUUwVm9VS0pkYl85TEZWOGxCaE5vTUU0YUNtSTVEQXBWdXh4Nnc5N19RR1FNT19hOWVlaDg"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "英伟达投资AI供应链扩产能",
-   "title_zh": "英伟达投资AI供应链以扩大生产产能",
-   "sentiment": 1
-  },
-  {
-   "id": "bd60671f7397",
-   "title": "HPE updates AI Factory with Nvidia for regulated sectors - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONjg5NUQweVMwNnpkTE9OdHQ5Slo2aWk5YWR4MTBFak91SGFQLXpKZ0tqaENXUmNlQUlOSzRTX1lRejgtc2ZNckdSR0w1N0tnU2xrbUgyNkZaZFFFMlZmOGlkQXFUeGpfZ0VfWExmRFEzTWRnZUw4cXI4UjN0aHdkVw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T10:02:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T10:02:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONjg5NUQweVMwNnpkTE9OdHQ5Slo2aWk5YWR4MTBFak91SGFQLXpKZ0tqaENXUmNlQUlOSzRTX1lRejgtc2ZNckdSR0w1N0tnU2xrbUgyNkZaZFFFMlZmOGlkQXFUeGpfZ0VfWExmRFEzTWRnZUw4cXI4UjN0aHdkVw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "HPE用英伟达升级监管行业AI工厂",
-   "title_zh": "HPE为监管行业升级英伟达AI工厂方案",
    "sentiment": 1
   }
  ]
