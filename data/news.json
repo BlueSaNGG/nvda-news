@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T16:37:03.183677+00:00",
+ "updated_at": "2026-10-23T16:51:35.792504+00:00",
  "market": {
-  "price": 212.29,
-  "change_pct": 0.04,
+  "price": 211.96,
+  "change_pct": -0.12,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.44,
-   "count": 126
+   "count": 127
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 64% 分位"
+     "note": "现价处于52周区间 63% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +48.4%"
+     "note": "目标价中位数 $315（16家），隐含空间 +48.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（126条已评分）"
+     "note": "今日新闻情绪 +0.44（127条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $212.29 vs 20日均线 $225.61"
+     "note": "现价 $211.96 vs 20日均线 $225.59"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 64,
+   "price_52w_pct": 63,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 48.4,
-   "ma20": 225.61,
-   "as_of": "2026-10-23T16:37:03.170531+00:00"
+   "implied_upside_pct": 48.6,
+   "ma20": 225.59,
+   "as_of": "2026-10-23T16:51:35.773339+00:00"
   },
-  "pe_ttm": 27.0,
+  "pe_ttm": 26.9,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.6%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -80,6 +80,40 @@
    "zh_summary": "英伟达押注新式云计算投资1700亿美元",
    "title_zh": "英伟达豪掷1700亿美元押注新式云计算 - 搜狐",
    "sentiment": 1
+  },
+  {
+   "id": "0ca3349f269a",
+   "title": "中国工厂大规模拆解RTX 5090改造AI加速卡英伟达高端游戏显卡流向再引关注- nVIDIA - cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3TVhZM0ZOazZyQW1EVTF5WDY3LXBETXZxQ2NRUThhMzA5OW5xTFZ5UUphZE5XY2NIMEdJWUljYVpENVhrQ2pOYldLTDdPTnRHLTZtNUlHd1BraGlqN1NWbQ",
+   "source": "cnBeta.COM",
+   "published_at": "2026-10-23T16:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-23T16:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3TVhZM0ZOazZyQW1EVTF5WDY3LXBETXZxQ2NRUThhMzA5OW5xTFZ5UUphZE5XY2NIMEdJWUljYVpENVhrQ2pOYldLTDdPTnRHLTZtNUlHd1BraGlqN1NWbQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "82473c9b8c47",
+   "title": "Nvidia's Latest AI Power Play Could Shake Up Video Industry - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3I2UzBrdmJxbG9rZEFiejVyQmV6ZFhnYzZMZ05wUVZacGZ1bEpONzU5YnBURGZxOUQ2N2VJcjB5MUVHQ3dlSmZyb3BKdml0dGM0ZFhlNTNEdC03R3c1UFhiUl9GT3VRSXQ0bWtMeWpLQWhRckZ6b1VsNWI4NlR1UGM3a0tTeC11VFhaNjdBZ05jV3c2NzVn",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-23T15:58:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T15:58:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS3I2UzBrdmJxbG9rZEFiejVyQmV6ZFhnYzZMZ05wUVZacGZ1bEpONzU5YnBURGZxOUQ2N2VJcjB5MUVHQ3dlSmZyb3BKdml0dGM0ZFhlNTNEdC03R3c1UFhiUl9GT3VRSXQ0bWtMeWpLQWhRckZ6b1VsNWI4NlR1UGM3a0tTeC11VFhaNjdBZ05jV3c2NzVn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "77c001c5bf03",
@@ -192,16 +226,16 @@
    "sentiment": 1
   },
   {
-   "id": "1c06115af741",
-   "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation - NVIDIA Developer",
+   "id": "bbd120c72d0b",
+   "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog - NVIDIA Developer",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2xvNHk5ejQzcXU5NzBBdm1kSU0tOHJIa3NVeFdlWmJ2ektrdFlpbW1VOUhFWGRIcTdwS0xTRlJsa0lWYkRjMkM0eUpMYkdCUDlaRUJNalZ5OGRKbFhfOHRhNjhIQmY3bEVHUXlQbFJ6cFNxUC1GWlBSUjlpYUpPbVMtNnNXMmlCNk9XTzFnZXJoT3d1VnA0ZHR0WVgydEtPMHc4TjZB",
    "source": "NVIDIA Developer",
-   "published_at": "2026-10-23T15:10:53+00:00",
+   "published_at": "2026-10-23T15:10:13+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "NVIDIA Developer",
-     "published_at": "2026-10-23T15:10:53+00:00",
+     "published_at": "2026-10-23T15:10:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2xvNHk5ejQzcXU5NzBBdm1kSU0tOHJIa3NVeFdlWmJ2ektrdFlpbW1VOUhFWGRIcTdwS0xTRlJsa0lWYkRjMkM0eUpMYkdCUDlaRUJNalZ5OGRKbFhfOHRhNjhIQmY3bEVHUXlQbFJ6cFNxUC1GWlBSUjlpYUpPbVMtNnNXMmlCNk9XTzFnZXJoT3d1VnA0ZHR0WVgydEtPMHc4TjZB"
     }
    ],
@@ -6276,51 +6310,6 @@
    "session": "盘前",
    "zh_summary": "罗克韦尔AI平台新增英伟达模型支持",
    "title_zh": "罗克韦尔自动化AI平台新增英伟达模型支持",
-   "sentiment": 1
-  },
-  {
-   "id": "4f24e18881e5",
-   "title": "英伟达黄仁勋称“新云”是“一项不错的投资” - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRWFObFNZbWpwSV9XYnY4QVJoTUFMV2hEVHlxRkRVOTJyRU1fOE1zYkpwUDlFSUlMcnFGWGRocUREZzVrVzFjb0RyUWM5Y2hSeG1tREwzOWRteGtSdU1aOHJNVDQxV0RsZnFkN2dySnJoUnVpVktuVEw4Tk8wckZPaS1kdWIzek9XUjF1QlhRX0JJWGVkaG40cFNQSlpEQ2sw",
-   "source": "Moomoo",
-   "published_at": "2026-10-22T12:16:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-22T12:16:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRWFObFNZbWpwSV9XYnY4QVJoTUFMV2hEVHlxRkRVOTJyRU1fOE1zYkpwUDlFSUlMcnFGWGRocUREZzVrVzFjb0RyUWM5Y2hSeG1tREwzOWRteGtSdU1aOHJNVDQxV0RsZnFkN2dySnJoUnVpVktuVEw4Tk8wckZPaS1kdWIzek9XUjF1QlhRX0JJWGVkaG40cFNQSlpEQ2sw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋称“新云”是不错的投资",
-   "title_zh": "英伟达黄仁勋称“新云”是“一项不错的投资” - Moomoo",
-   "sentiment": 1
-  },
-  {
-   "id": "7d760aeba4fd",
-   "title": "Nvidia, Intel among chip stocks to benefit as open-weight models prove expensive: BofA (NVDA:NASDAQ) - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeFNlWG1qQ2ZDb29NZFdTN3p0QllTUUJVV2RKNGRSeEhhczhhbDh2OU16OHBONFktRG9hX1BaZFFUSWdUQ0NkTjVYNWF1WWdKSUp2Wi1vY3RjOWJkYi13Ry1rTEdET3BlbTQ1VG1WY19qa2VUeEY5Um9lclBXQXc3amhEVFNGVER1Z0tpSklmR2k1NHdvc0d3el8wVGVIZXFCNkNITF80bmZiSHFidmYwWHFHYjNwODNicUJWRDA5bw",
-   "source": "Seeking Alpha",
-   "published_at": "2026-10-22T12:14:45+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-22T12:14:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeFNlWG1qQ2ZDb29NZFdTN3p0QllTUUJVV2RKNGRSeEhhczhhbDh2OU16OHBONFktRG9hX1BaZFFUSWdUQ0NkTjVYNWF1WWdKSUp2Wi1vY3RjOWJkYi13Ry1rTEdET3BlbTQ1VG1WY19qa2VUeEY5Um9lclBXQXc3amhEVFNGVER1Z0tpSklmR2k1NHdvc0d3el8wVGVIZXFCNkNITF80bmZiSHFidmYwWHFHYjNwODNicUJWRDA5bw"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-22T12:14:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZG13cTRlTlloUUx4UW5jeE1lY1dpZTlHSjY1RzgyMEs4NEozRDZmamJzRVNybS0xRGVkaDhmandqcXlaN2NfQ2NObzVQUWlSQmFDTUl3ZWphMVdEcnZ2WC1rLTV5TXRMSjcwZkREZl9MVThqT0FzbUc4clJRQmxQcFhjaS1IU1lBUEs2VllSU0ZiVkJQRWYtQ0xCMGVXcTlsRTNWSDZqa0M2MGp1UGJISzh0Z0FXNmlWUlJ3dWxxSnNyZEVEVWVQVVBBTnlsYTVfUmJRR1FNTWFmT3NPdUQyZw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "美银：开放权重模型成本高企，芯片股受益",
-   "title_zh": "美银称开放权重模型成本高，NVDA与Intel等芯片股受益",
    "sentiment": 1
   }
  ]
