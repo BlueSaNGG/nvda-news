@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T04:21:32.221501+00:00",
+ "updated_at": "2026-10-23T04:36:28.935393+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.57,
-   "count": 297
+   "count": 299
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.57（297条已评分）"
+     "note": "今日新闻情绪 +0.57（299条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-23T04:21:32.206604+00:00"
+   "as_of": "2026-10-23T04:36:28.910994+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "daf0b8d4cf54",
+   "title": "Cal Poly reveals new NVIDIA powered AI Factory system for student research - KSBY News",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWFQVzZkWG5WRG5EUVZsNnRVNlMwMFpCMkhmMzdtcWVVV1h3V1B6UW1nNUNjREM5QTcxMGVieXVWVlE4UzE4R1JOS2wxUzZBbjI3WDBfNWhEZGVlXzN2NUpnUnhjUVg3cmFiLXV4Q09NV3YxWUxZLXpvSmFXZ0hnY3pmcGNVVkprY2p2bEpHWTgweUNBNmhnSTFjbGktM1NfTFZEQUVvd0twRFM5RXFLXw",
+   "source": "KSBY News",
+   "published_at": "2026-10-23T04:20:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "KSBY News",
+     "published_at": "2026-10-23T04:20:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWFQVzZkWG5WRG5EUVZsNnRVNlMwMFpCMkhmMzdtcWVVV1h3V1B6UW1nNUNjREM5QTcxMGVieXVWVlE4UzE4R1JOS2wxUzZBbjI3WDBfNWhEZGVlXzN2NUpnUnhjUVg3cmFiLXV4Q09NV3YxWUxZLXpvSmFXZ0hnY3pmcGNVVkprY2p2bEpHWTgweUNBNmhnSTFjbGktM1NfTFZEQUVvd0twRFM5RXFLXw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "a862c8d31ae3",
    "title": "中国小马智行：与英伟达、inDrive签署关于自动驾驶网约车的合作备忘录 - 富途牛牛",
@@ -612,12 +629,17 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZWUw4Y2FKbHJ5Qm5pUl9sbDF1U29oVU9SV0JaclR5emNKd1lNZUEyNHpvYm5ucmlKanZ3bV9PVVdhaWpaWHpRMDBPQ1pNNlNlNVZJdXdRNEQ2b2V6YmdwV2xR",
    "source": "同花顺",
    "published_at": "2026-10-22T23:07:34+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "同花顺",
      "published_at": "2026-10-22T23:07:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZWUw4Y2FKbHJ5Qm5pUl9sbDF1U29oVU9SV0JaclR5emNKd1lNZUEyNHpvYm5ucmlKanZ3bV9PVVdhaWpaWHpRMDBPQ1pNNlNlNVZJdXdRNEQ2b2V6YmdwV2xR"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-23T04:21:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQkE1dWlCTVd3OXJBeHRpb2l1XzhvXzdid3VzazBScURjMXprY21VTUJKRE1adUZyTG5fOVE4RnVQY21tLW9uVE1heUZwWXlCbFY4ZTlCXzRSanJ3cnVmN2x4Y2lsSW5EV0VDblZYMEhMTTgwbEJlV1JKWE1ackVBZ0U1aFl0SW1Yc1dhZA"
     }
    ],
    "category": "产品技术",
@@ -6370,46 +6392,6 @@
    "zh_summary": "英伟达解决PC游戏着色器编译难题",
    "title_zh": "英伟达刚刚解决了PC游戏界最大的难题之一：着色器编译",
    "sentiment": 1
-  },
-  {
-   "id": "e8678fb3f917",
-   "title": "Supermicro Introduces the NVIDIA Vera CPU Rack, a 256 CPU, 100% Liquid-Cooled Rack-Scale Solution, Complementing the NVIDIA Vera Rubin Platform, for Agentic AI at Scale - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOam1tbVpBYU1JdGxWYXE4dkxxMVc5R0U5UzYzMVhJb3U5VGlIdE1vOXpRdlJDelpYVzM0NU0yZVRxY044VGctOGJzUkhVSDlROHBueEhXSHptUFRNd09VVS0xbzBiZUZQNmt3cXBPbUcxVDhUNU5ubUJKN3RIOHZ5Wk9vTl9yWW5GVXZpUWJ0UQ",
-   "source": "Yahoo! Finance Canada",
-   "published_at": "2026-10-22T06:00:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-22T06:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOam1tbVpBYU1JdGxWYXE4dkxxMVc5R0U5UzYzMVhJb3U5VGlIdE1vOXpRdlJDelpYVzM0NU0yZVRxY044VGctOGJzUkhVSDlROHBueEhXSHptUFRNd09VVS0xbzBiZUZQNmt3cXBPbUcxVDhUNU5ubUJKN3RIOHZ5Wk9vTl9yWW5GVXZpUWJ0UQ"
-    },
-    {
-     "name": "Supermicro",
-     "published_at": "2026-10-22T06:02:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNWG9rTWZ4SFdkaGhJQ2hlM2hwR2VLcEFySHVWcWN4a1M1Ui1xeDJITmJucERjcjhoZGNINlJZRHdFUUxYYWFTVUR1TGQxalpBUC1jNmh2SVFIeWhkb1Z0bzdlemtMTHRVRUFncndKZ0pCM3VMMUtSYzNLYjU5S1JoQ19yeDN2TE5nWFUyUGJGZDVYX2RHQWFGWTJkU0V4QVA2N05yZ3BJVUJFSm11THZzRGUxZjE1TVhxU3lqdjVySEFUZ2JScHA3UGFNdnNNay1fSy1rckdHMEtsSzU5Um9tb2QtcktpTTJOd0g0RmxvZmxiMGppSkkyVEUyUWNtdE9qWEQzT2JoZmx6MldHT3BFTUtXdFp6eThVRjNMQzNrNVpyLVlNSzFqR3EzblFOWW4zNW53S0lvcWRJTno0djZCbDlaLVR4LVp6"
-    },
-    {
-     "name": "PR Newswire",
-     "published_at": "2026-10-22T06:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxORnBBUUE5R1NOcldMR3AtemFGdmprS0hEWldfQS1XX0RjUlZORk1HTVYydnd5S21SZ3BfbUs5dEJlN20zWFRlRDl6LW9VODVYb1hMRUc4UndNWXRlc0RzUC1OeGQwVlM1Zzg1Z0p6ZVRuZ3lKcDBIeGdySnJqdGk0UTBmcjZ1OXdxYjZGMHZOTlh0OEdfbGdmMTJydXZEMG00d2dueEZHU0NnVlJpZXBrOUE5Vy14VmJqT2J3VHBla0Q0T3N0d2JtYm5GcVpjaXhTOGMtTy1wenN2Ujd4ejkxZExyWVhmN1BzZUs1V2xpc2tLaXc5cUFOM25Sc2M2RnIzMk5CUmN0ZjU0elhpWHNWam1UeUlFLURoSUFsM2M5dGZXcmx0T1dQRDdtMnNxTzBRUDdkNTZtdG5wbGZKMkNxUQ"
-    },
-    {
-     "name": "Morningstar",
-     "published_at": "2026-10-22T06:21:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQeUhNbkFyc3hnb0w5NEViRTFtek1jbldabVdURGJsdTdwZXBXUHlSUEtjNjlKYnhtRVNDbWxKck1QQndBOExoblJiU2syOVdpemMySmRvUEJiOHdIQmhZUVBqcDA1a2dKbkZ0YzhCRE5PcU1hMU5STEZqWWI2Z052SlpJdWZ3cGRXQkY0U19oeEJHYjBPS0ptZ2REQWRWeXp5RkNIbDI1cHpHcTQ1Qmg4Y1k0ZlJ4NUg3UU5BSjVFd3BwQjhGXzlWc1R4LTkya0J6YWxhS2lubVAtTnNaZG0yTEo4WGxmNkJNUkw2c29QYm1DM2JUdDhMREpOcW1RSU1mZkhCV3laNkJMSWpvYWd6S25XRGFVMzJIV1Jac1BWYmZWZ29jMGhkbmNSajJZZ05UYXRoVWhSVHRlQUdIU0V2M3hiRjJJTk0"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "超微推出英伟达Vera CPU机架，256颗CPU",
-   "title_zh": "超微推出英伟达Vera CPU机架：256颗CPU全液冷",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.21,
-    "window_h": 0.1
-   }
   }
  ]
 }
