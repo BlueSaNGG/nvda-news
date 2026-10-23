@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T10:36:29.259517+00:00",
+ "updated_at": "2026-10-23T10:51:30.963537+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -10,8 +10,8 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.73,
-   "count": 48
+   "avg": 0.7,
+   "count": 50
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.73（48条已评分）"
+     "note": "今日新闻情绪 +0.70（50条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-23T10:36:29.242351+00:00"
+   "as_of": "2026-10-23T10:51:30.943027+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "af3d03149281",
+   "title": "Supermicro launches 100% liquid cooled Nvidia Vera CPU rack - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkJUTEd0VzkxVjVyYnVOb05nN0s5dDRCcHJzX1JHOVNvUW1KcGVtZ2Vwa3ZyaWczVjVvRk1EcXZvek1idlJQLVVFMmFxdFJRZjBoQ0w3ZVR1NzR6c3dCX0p6a3dkM1diM21WbVVlZ3U0cks2dHc1MnAycGQ2Y0tFNWhXdXUxa1FBd2xaYS1GaGQwbUZreEVLTjlEU2xpbnd3YUtsZQ",
+   "source": "Data Center Dynamics",
+   "published_at": "2026-10-23T10:43:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Dynamics",
+     "published_at": "2026-10-23T10:43:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkJUTEd0VzkxVjVyYnVOb05nN0s5dDRCcHJzX1JHOVNvUW1KcGVtZ2Vwa3ZyaWczVjVvRk1EcXZvek1idlJQLVVFMmFxdFJRZjBoQ0w3ZVR1NzR6c3dCX0p6a3dkM1diM21WbVVlZ3U0cks2dHc1MnAycGQ2Y0tFNWhXdXUxa1FBd2xaYS1GaGQwbUZreEVLTjlEU2xpbnd3YUtsZQ"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
+   "id": "6ab6f0ec1d77",
+   "title": "Apple could be about to dethrone Nvidia as world's most valuable company - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOFY2dW5TYXJidk1hMlhxX0FCMHpzMmlEdTVHRjItUElpUVpqb05RNDJBWHlBeTNlcnBRTW04bm9NZEZ2d2JjY093eHAyLWZnMHhWZGxaUE9jdHZvUF9ERUFVNGJja1I3TjBQbTJpUjZRTlVtOFp1Ykx5UmY3REowV0tPYWVmZjlidVV2SlNNNjhQc09DZEtacjUzZURkVnZZS3ZCX3A3SER3a1NWTndYdFdONjJCS1VQRTBzTUxQZkJhZjhaeW5lSjJ5Vl9lR2E2",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-23T10:38:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T10:38:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOFY2dW5TYXJidk1hMlhxX0FCMHpzMmlEdTVHRjItUElpUVpqb05RNDJBWHlBeTNlcnBRTW04bm9NZEZ2d2JjY093eHAyLWZnMHhWZGxaUE9jdHZvUF9ERUFVNGJja1I3TjBQbTJpUjZRTlVtOFp1Ykx5UmY3REowV0tPYWVmZjlidVV2SlNNNjhQc09DZEtacjUzZURkVnZZS3ZCX3A3SER3a1NWTndYdFdONjJCS1VQRTBzTUxQZkJhZjhaeW5lSjJ5Vl9lR2E2"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "009a26beba06",
+   "title": "斯泰兰蒂斯：Wayve与英伟达合作，推进法国自动驾驶汽车部署。 - 新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZNW1Ick93alhneTJJTXl4aW95WWFZQlk5REZfSWxpOUp0TU1kbmtXZEFJeUxZck9qOHZweXdDTmVNemtCVjhIckdGSkFSTGl0ZFBvdWZSNXlsTlJuMlNoaWpINmFhU0k5VnltaWt2aUJiVHl2WnJqSWtFLUNBZzg",
+   "source": "新浪网",
+   "published_at": "2026-10-23T10:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪网",
+     "published_at": "2026-10-23T10:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZNW1Ick93alhneTJJTXl4aW95WWFZQlk5REZfSWxpOUp0TU1kbmtXZEFJeUxZck9qOHZweXdDTmVNemtCVjhIckdGSkFSTGl0ZFBvdWZSNXlsTlJuMlNoaWpINmFhU0k5VnltaWt2aUJiVHl2WnJqSWtFLUNBZzg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "8de717de99bb",
    "title": "Siemens and NVIDIA accelerate computational lithography - Engineering.com",
@@ -242,15 +293,37 @@
    "sentiment": 1
   },
   {
+   "id": "48512a4b3195",
+   "title": "柯马与英伟达合作加速推动工业机器人领域的物理AI创新 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02TzhuZVlNNlo1UTUtT3lIQzNwVmdfelpDQ3FPbHBMdHdzZ1JzbFlSY1Z2NW9haW03UGUwX0ctdWR2TGxxUWdvci05TGtaa2JzU0JHRnN5V2hScVhHeWgyVnhaMG14bmFROVVBcE43OUFXNGViUUpVbQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-23T09:13:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-23T09:13:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02TzhuZVlNNlo1UTUtT3lIQzNwVmdfelpDQ3FPbHBMdHdzZ1JzbFlSY1Z2NW9haW03UGUwX0ctdWR2TGxxUWdvci05TGtaa2JzU0JHRnN5V2hScVhHeWgyVnhaMG14bmFROVVBcE43OUFXNGViUUpVbQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "0a6ee62226b6",
    "title": "Nvidia Touts 576-GPU 'Rubin Ultra' Rack-Scale Platform for 10-Trillion-Parameter Models - finance.biggo.com",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13YlNDXzBJdHZSN012QnRjUnhJbndDcDZDeHBNVzZvcDN2eGE3WnpBQmxiZUdta0EtRXpLTmY5dHpNOVRyUzBMS2FSeUFnUHVJV2E2eUhocURhUEhOb0FaN1AyVERlaFlRYnM0MFRuY3B3X1BCOVE",
    "source": "finance.biggo.com",
    "published_at": "2026-10-23T09:05:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "finance.biggo.com",
+     "published_at": "2026-10-23T09:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13YlNDXzBJdHZSN012QnRjUnhJbndDcDZDeHBNVzZvcDN2eGE3WnpBQmxiZUdta0EtRXpLTmY5dHpNOVRyUzBMS2FSeUFnUHVJV2E2eUhocURhUEhOb0FaN1AyVERlaFlRYnM0MFRuY3B3X1BCOVE"
+    },
+    {
+     "name": "BigGo Finance",
      "published_at": "2026-10-23T09:05:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13YlNDXzBJdHZSN012QnRjUnhJbndDcDZDeHBNVzZvcDN2eGE3WnpBQmxiZUdta0EtRXpLTmY5dHpNOVRyUzBMS2FSeUFnUHVJV2E2eUhocURhUEhOb0FaN1AyVERlaFlRYnM0MFRuY3B3X1BCOVE"
     }
@@ -442,6 +515,23 @@
    "sentiment": 1
   },
   {
+   "id": "039560471c16",
+   "title": "NVIDIA Corporation $NVDA Shares Bought by Range Advisory LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTNOVkRoZU82UjRYTGNLdjdXNUVrTFdVbndjZzlxcWI5ZDVmMnpPVVNMWlNlY0E3Z21XZkJSQnVsWDdVS0xMbTZaT2MtbGNyeWk1NDFNRU8zbTVTaHA5WFRtenRrSnJlYzd1UVRhblJqVC1hSTVqYThhTXRpZGNOMV96SjR4QmZIMGFwd05qajlnWVZzSmZ6Tjd1UTVTRHNuRHVsZWQzZEgwZ3RJU2I0aFQ3ek82ODBEWUdIYw",
+   "source": "MarketBeat",
+   "published_at": "2026-10-23T08:41:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-23T08:41:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTNOVkRoZU82UjRYTGNLdjdXNUVrTFdVbndjZzlxcWI5ZDVmMnpPVVNMWlNlY0E3Z21XZkJSQnVsWDdVS0xMbTZaT2MtbGNyeWk1NDFNRU8zbTVTaHA5WFRtenRrSnJlYzd1UVRhblJqVC1hSTVqYThhTXRpZGNOMV96SjR4QmZIMGFwd05qajlnWVZzSmZ6Tjd1UTVTRHNuRHVsZWQzZEgwZ3RJU2I0aFQ3ek82ODBEWUdIYw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "c1cce413ce6c",
    "title": "10月23日晶丰明源涨停：英伟达概念，国产芯片，小米概念股概念热股_个股掘金 - 证券之星",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzTFMwQzVVUEhEZmpmdWRDUWdJbGgwX0FxYnZOY2ZkV1ZKWmlKQkpHQVptODdBYVgyM0tuRFRoa1ViVFNVZ0d3elFEd2h2azVhTnFMeVBfM0tJME5lSFNCUlVR",
@@ -512,12 +602,17 @@
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTkdvbFVJa29HTEFkOUxMdEYzNDNrQXJDUzlkbk82NWJ5THBnSmNuYVdEQjJfUGdkLXpLYXpGY0FDWVdTcVJCUTRLTTVrWXJLQ1BTaGRFQkZBVkRtTFgxMF9iOU95MXhRR2FRN3I1SWZiaG1wWEFpazVBMnlkb3VNRkEzNWRWRTFnREVBUDcwQ1Exal9QUGczbXdWZW5IQWlMZEd6Qmctd0dwLWNwZkNGM3RlNzBIbXpjRHdlYUlsejR0WnNJTVB0V3M3TzdtV3I1RmZhb1hJZmFtZ1FILWZKZHhEOA",
    "source": "Stocktwits",
    "published_at": "2026-10-23T08:13:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Stocktwits",
      "published_at": "2026-10-23T08:13:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTkdvbFVJa29HTEFkOUxMdEYzNDNrQXJDUzlkbk82NWJ5THBnSmNuYVdEQjJfUGdkLXpLYXpGY0FDWVdTcVJCUTRLTTVrWXJLQ1BTaGRFQkZBVkRtTFgxMF9iOU95MXhRR2FRN3I1SWZiaG1wWEFpazVBMnlkb3VNRkEzNWRWRTFnREVBUDcwQ1Exal9QUGczbXdWZW5IQWlMZEd6Qmctd0dwLWNwZkNGM3RlNzBIbXpjRHdlYUlsejR0WnNJTVB0V3M3TzdtV3I1RmZhb1hJZmFtZ1FILWZKZHhEOA"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T10:13:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON0pWLThkWllqVTRvcVRMY1NVeUN0UVNxa08tNkRhbzQxTUFlaTZON1BOYkh4bDEtaHB4X2d6dHk3VS1sVDhYMEhhZ0IyMVpjTXJjWVJ3WE9ZTDdWWG9paC1zdHZpbFpFNVZNTk9aYXhQRnRtWVlXRE0tZ2hOaDFmc2RIQUV5aTRBbEJaaDNsWUNxUXc"
     }
    ],
    "category": "市场宏观",
@@ -6006,26 +6101,6 @@
    "sentiment": 1
   },
   {
-   "id": "fe98460b1b18",
-   "title": "特斯拉英伟达将向三星电机工厂投资28亿美元 - 新浪新闻_手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSnhoOWJFOFgtYzBhWDI0SUtLYV9XR1AzaWJ3ZnpyS082RWFPTHZ4aGluaklCYnVyMjdMZGxPd25ZS0RoRzVpOEtmam5aZ1RTbEZfX1hzajVSR3FmMDBodl9vSGtfbHVleFFtZk8zZ3Z2cE5wNWpJRF9nMWlTV0JESDAxY0xfOUUxYUVrZzBpYjgwbVBZTVBCRkpyZEp5U3ppcVA0Z1lCM0ItT3pxRGYxc0l3SFY2eTZXVWdBVnlVTDdESnFEa01z",
-   "source": "新浪新闻_手机新浪网",
-   "published_at": "2026-10-22T10:03:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪新闻_手机新浪网",
-     "published_at": "2026-10-22T10:03:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSnhoOWJFOFgtYzBhWDI0SUtLYV9XR1AzaWJ3ZnpyS082RWFPTHZ4aGluaklCYnVyMjdMZGxPd25ZS0RoRzVpOEtmam5aZ1RTbEZfX1hzajVSR3FmMDBodl9vSGtfbHVleFFtZk8zZ3Z2cE5wNWpJRF9nMWlTV0JESDAxY0xfOUUxYUVrZzBpYjgwbVBZTVBCRkpyZEp5U3ppcVA0Z1lCM0ItT3pxRGYxc0l3SFY2eTZXVWdBVnlVTDdESnFEa01z"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "特斯拉英伟达向三星电机投资28亿美元",
-   "title_zh": "特斯拉英伟达向三星电机投资28亿美元",
-   "sentiment": 1
-  },
-  {
    "id": "bd60671f7397",
    "title": "HPE updates AI Factory with Nvidia for regulated sectors - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONjg5NUQweVMwNnpkTE9OdHQ5Slo2aWk5YWR4MTBFak91SGFQLXpKZ0tqaENXUmNlQUlOSzRTX1lRejgtc2ZNckdSR0w1N0tnU2xrbUgyNkZaZFFFMlZmOGlkQXFUeGpfZ0VfWExmRFEzTWRnZUw4cXI4UjN0aHdkVw",
@@ -6118,6 +6193,26 @@
     "pct": -0.21,
     "window_h": 0.1
    }
+  },
+  {
+   "id": "fe98460b1b18",
+   "title": "特斯拉英伟达将向三星电机工厂投资28亿美元 - 新浪新闻_手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PalB5aDRwU1QzcG9HUFBLVXdSZmxvZ294S0xJLVZTbXBla2NKenBVV3pXLUpzdHNOdFFDZGlPTWJzM0taU1dVc0k5UjRKeTk3WVM3OWZvZWNlQ0J6bWhlRS1CNmprdWtQbFl6blJIbENXdzhh",
+   "source": "新浪新闻_手机新浪网",
+   "published_at": "2026-10-22T09:59:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪新闻_手机新浪网",
+     "published_at": "2026-10-22T09:59:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PalB5aDRwU1QzcG9HUFBLVXdSZmxvZ294S0xJLVZTbXBla2NKenBVV3pXLUpzdHNOdFFDZGlPTWJzM0taU1dVc0k5UjRKeTk3WVM3OWZvZWNlQ0J6bWhlRS1CNmprdWtQbFl6blJIbENXdzhh"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "特斯拉英伟达向三星电机投资28亿美元",
+   "title_zh": "特斯拉英伟达向三星电机投资28亿美元",
+   "sentiment": 1
   },
   {
    "id": "20802858b00e",
@@ -6242,106 +6337,6 @@
    "session": "盘前",
    "zh_summary": "HUMAIN合作部署2.7万颗英伟达GPU",
    "title_zh": "HUMAIN称合作部署最高84兆瓦AI算力 约2.7万颗英伟达GPU",
-   "sentiment": 1
-  },
-  {
-   "id": "6607e2faf161",
-   "title": "谷歌联手亚马逊，合力冲击英伟达AI开发者生态霸主地位 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR19KeXJhcWVSSkJvLV9OQ1Mwb09XVmRpY3hzaG1PalFyQnFVNmM5UXBHLWFQcWhqWkxjTTExRFpocGdqS1U1WXo3dUtNLWhaMDV1RUVidmgya1VJWElGd3JucU5FSGVqUHp0cFFjeG8wRTdKa2gyOUFXc2F1MXpiaTliTTlZUWxp",
-   "source": "搜狐",
-   "published_at": "2026-10-22T09:32:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T09:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR19KeXJhcWVSSkJvLV9OQ1Mwb09XVmRpY3hzaG1PalFyQnFVNmM5UXBHLWFQcWhqWkxjTTExRFpocGdqS1U1WXo3dUtNLWhaMDV1RUVidmgya1VJWElGd3JucU5FSGVqUHp0cFFjeG8wRTdKa2gyOUFXc2F1MXpiaTliTTlZUWxp"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "谷歌亚马逊联手挑战英伟达生态",
-   "title_zh": "谷歌联手亚马逊，合力冲击英伟达AI开发者生态霸主地位",
-   "sentiment": -1
-  },
-  {
-   "id": "ec4b943bdaa1",
-   "title": "Nvidia Stock Falls in a Case of Bad Timing Over Another Potential AI Investment - Barron's",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VeEdHR2lCQXB5TGVFS2dwc0JnRTVDR3loNTVlRlRmTHNWcmpHbUdHdzV6bVJQQWgzQkJZTmZWbXJrQjFHWGhMVEVUZEJyOXh4UWZFa1kybFZWcGVDVGF3RXcwOXhZZkVxWVVKc0pwa1lhak1lRXBB",
-   "source": "Barron's",
-   "published_at": "2026-10-22T09:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Barron's",
-     "published_at": "2026-10-22T09:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VeEdHR2lCQXB5TGVFS2dwc0JnRTVDR3loNTVlRlRmTHNWcmpHbUdHdzV6bVJQQWgzQkJZTmZWbXJrQjFHWGhMVEVUZEJyOXh4UWZFa1kybFZWcGVDVGF3RXcwOXhZZkVxWVVKc0pwa1lhak1lRXBB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达股价因潜在AI投资下跌",
-   "title_zh": "巴伦周刊：英伟达股价因又一潜在AI投资时机不佳下跌",
-   "sentiment": -1
-  },
-  {
-   "id": "28e1dd16718a",
-   "title": "五一视界：附属公司万物镜像入选英伟达全栈安全系统生态名单 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51TDZxRkJnX0MzWTgyMWJQU1k3bE1fNS1MaERXdVNEWTZ6NnZXdXFkVV94elJ3dlhfWkFyVTI0UllQQy1Nc3M5dk9JSHRjYmVJQW9nS3RkU0szQWpLbUNoN0RzbTZOZw",
-   "source": "东方财富",
-   "published_at": "2026-10-22T09:25:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-22T09:25:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51TDZxRkJnX0MzWTgyMWJQU1k3bE1fNS1MaERXdVNEWTZ6NnZXdXFkVV94elJ3dlhfWkFyVTI0UllQQy1Nc3M5dk9JSHRjYmVJQW9nS3RkU0szQWpLbUNoN0RzbTZOZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "五一视界子公司入选英伟达生态名单",
-   "title_zh": "五一视界：附属公司万物镜像入选英伟达全栈安全系统生态名单 - 东方财富",
-   "sentiment": 1
-  },
-  {
-   "id": "0d9c17e307fb",
-   "title": "Stocks to Watch: Tesla, Meta, Nvidia, Blackstone - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSDMxaFBUN1cwV3hlZlQ0LXlzQXUzY3NSQlc2d3pXdVZDelJYU2pxOUUyZXVqRnJqbGxpYWlmNUs2SVlfVWR4b0c3M3QtSmItN3FTU2NieEhiV2RSZG1ScG5Pck9CaEFzb0swNUdacXZPODctMkdYSFB1bUx1eU9KMGRtOFcwcnUyWlNDRVpKNFEtZWdud3FvUTJkd050dEtrcDlpYTFaMU5IRU9QQ0dBcExjUGlxUzQtdzFpejdaMDJNVWxsSkFTbTRkTFRZMEJVRHhfdmdLbGwzTml2blRHV3ZfcG9OQQ",
-   "source": "WSJ",
-   "published_at": "2026-10-22T09:25:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-22T09:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSDMxaFBUN1cwV3hlZlQ0LXlzQXUzY3NSQlc2d3pXdVZDelJYU2pxOUUyZXVqRnJqbGxpYWlmNUs2SVlfVWR4b0c3M3QtSmItN3FTU2NieEhiV2RSZG1ScG5Pck9CaEFzb0swNUdacXZPODctMkdYSFB1bUx1eU9KMGRtOFcwcnUyWlNDRVpKNFEtZWdud3FvUTJkd050dEtrcDlpYTFaMU5IRU9QQ0dBcExjUGlxUzQtdzFpejdaMDJNVWxsSkFTbTRkTFRZMEJVRHhfdmdLbGwzTml2blRHV3ZfcG9OQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "WSJ：特斯拉、Meta、英伟达等值得关注",
-   "title_zh": "WSJ：特斯拉、Meta、英伟达、黑石值得关注",
-   "sentiment": 0
-  },
-  {
-   "id": "ba4c33a6b37c",
-   "title": "Watch Nvidia's Huang Says Neoclouds Are 'Good Investment' - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOFJTWXNXLUNDVW1uVWl4M1pydGNpbm9CWG11bnozVFlHRTZmYVo2X01UMml2NzNJRG9MeHdmZ0NmWDRXcVhyU1c4UDBrTXRnRnNleTl0VDdzMzFMZHIzdlhndm5oSG5iLURvTENiNnBXMGR0dThXTkw4bnlfeXZpNkU1TTZXYVN2M2Nodk5wZzB0NkNaWXo1a0VSQVB3UGFRXzU5TG52SQ",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-22T09:23:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-22T09:23:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOFJTWXNXLUNDVW1uVWl4M1pydGNpbm9CWG11bnozVFlHRTZmYVo2X01UMml2NzNJRG9MeHdmZ0NmWDRXcVhyU1c4UDBrTXRnRnNleTl0VDdzMzFMZHIzdlhndm5oSG5iLURvTENiNnBXMGR0dThXTkw4bnlfeXZpNkU1TTZXYVN2M2Nodk5wZzB0NkNaWXo1a0VSQVB3UGFRXzU5TG52SQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋称Neocloud是好的投资",
-   "title_zh": "黄仁勋称Neocloud是'好的投资'",
    "sentiment": 1
   }
  ]
