@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T07:21:30.098208+00:00",
+ "updated_at": "2026-10-23T07:36:28.134026+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -10,8 +10,8 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.82,
-   "count": 11
+   "avg": 0.86,
+   "count": 14
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.82（11条已评分）"
+     "note": "今日新闻情绪 +0.86（14条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-23T07:21:30.086091+00:00"
+   "as_of": "2026-10-23T07:36:28.118637+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "be1d52436321",
+   "title": "Brown Financial Advisors Purchases 7,404 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbElYLVBGZ1dqcGFmdnZzRnVRM2t0X0FPcXFjTDJBUkhNYzJxdTB5MGV6eHBRMUFIWWhCMzlHY3BoVVBUM0lqc3hQRmh6aU50UVNiVFZLV0NYSXgzaERQSk81UzJjSW9Ob3Jtekd4VWxHVnVhd0lYSTF5amRXc3NKcVJjVUVvMjd2RzZiMnB4djhwV2twSTFJbjJBdnpxa184cFpkR3p6SHhtR0hFdzFSbVkwR1JkNzVpWWM2Z3ZlakRfaGNSZWVnMUZRTGtnNU0",
+   "source": "MarketBeat",
+   "published_at": "2026-10-23T07:18:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-23T07:18:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbElYLVBGZ1dqcGFmdnZzRnVRM2t0X0FPcXFjTDJBUkhNYzJxdTB5MGV6eHBRMUFIWWhCMzlHY3BoVVBUM0lqc3hQRmh6aU50UVNiVFZLV0NYSXgzaERQSk81UzJjSW9Ob3Jtekd4VWxHVnVhd0lYSTF5amRXc3NKcVJjVUVvMjd2RzZiMnB4djhwV2twSTFJbjJBdnpxa184cFpkR3p6SHhtR0hFdzFSbVkwR1JkNzVpWWM2Z3ZlakRfaGNSZWVnMUZRTGtnNU0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "726448adf284",
    "title": "European automakers look to Nvidia for self-driving tech - Ticker News",
@@ -80,6 +97,23 @@
    "zh_summary": "欧洲车企转向英伟达自动驾驶技术",
    "title_zh": "欧洲车企转向英伟达寻求自动驾驶技术",
    "sentiment": 1
+  },
+  {
+   "id": "2139945098bb",
+   "title": "从卖算力到管权限，英伟达GTC柏林，黄仁勋自己先喊了Agent刹车_公司新闻 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EbHJUWEZHR01NazQ0UmpWYVQ0RFVsSkFmSmxuTXdXcjBFTGx3SEtGTXU5ejBQeHVLQnIyUTJlVXV1cjRabUViMmdkZnZGLWNoY2hBblhoaVExVE1sRlpGaA",
+   "source": "证券之星",
+   "published_at": "2026-10-23T07:08:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-23T07:08:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EbHJUWEZHR01NazQ0UmpWYVQ0RFVsSkFmSmxuTXdXcjBFTGx3SEtGTXU5ejBQeHVLQnIyUTJlVXV1cjRabUViMmdkZnZGLWNoY2hBblhoaVExVE1sRlpGaA"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
   },
   {
    "id": "434ba837faf4",
@@ -6214,6 +6248,23 @@
    "sentiment": 1
   },
   {
+   "id": "08aef05f0863",
+   "title": "英伟达GTC：谁是下一轮AI主线丨数新风 - 第一财经",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvV1hJNy1lUnI2SkxXbDd0T1lrRDJtUWRWNVMtRFB4ZllYT0VkTXVxb296Yl9tY19RbklrNzk0Q05SX05zWVNLdjB6ZXlqSWZJYlN6MA",
+   "source": "第一财经",
+   "published_at": "2026-10-22T07:28:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "第一财经",
+     "published_at": "2026-10-22T07:28:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvV1hJNy1lUnI2SkxXbDd0T1lrRDJtUWRWNVMtRFB4ZllYT0VkTXVxb296Yl9tY19RbklrNzk0Q05SX05zWVNLdjB6ZXlqSWZJYlN6MA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "77f9238eaecf",
    "title": "英伟达CEO黄仁勋：全球人工智能发展速度“荒谬”。 - 富途牛牛",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHZENWhOR1lUMTBjR1JOWmk1cE1jVXJ3cHNldlN0QVBwdmNpYzJxVmFGVlRrZG14bGo4Slo1eUNyUU9BOTkxd2x4SDlJRlowVmdCdjFzMWt4ZjNXR1BEeU5lQ3ZMVzhNWmlpeXF6ekJlOGpDSTBJbGZOMUsyUlo3TS1nTW1VNV9jSWlGUktMS2JyR1dCQVpmRms0N3RJOF9jSDFpM2hOWHQ3UFE",
@@ -6286,80 +6337,6 @@
    "zh_summary": "红帽与英伟达推出AI代理安全方案",
    "title_zh": "红帽与英伟达将代理安全移出AI代理",
    "sentiment": 1
-  },
-  {
-   "id": "777783c22409",
-   "title": "Nvidia, Tesla likely to invest $2.8B in Samsung mechanics plant - Breakingthenews.net",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUdYVWMxM3V3Tm4zZmRWTm5wZGMwel9lTjd1d2RzRjV0V09BVkR1Nnh2WUYxUlVRZThRbEt5OS1OSGlqcUVNLXFJWFNTd2kydzFBNzQ0Sm1SQUFIM21QRGVXQXpYWmpLWWI2dmRBTVhDeWl2eHVESXhKS3IxZkxHWVJFQW90YXQ4RHVmNmIySU9CV1BiVGdRY2YzblpRdzVZWmw5QklJcFZqa2pWdTUyRUlB",
-   "source": "Breakingthenews.net",
-   "published_at": "2026-10-22T07:20:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Breakingthenews.net",
-     "published_at": "2026-10-22T07:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUdYVWMxM3V3Tm4zZmRWTm5wZGMwel9lTjd1d2RzRjV0V09BVkR1Nnh2WUYxUlVRZThRbEt5OS1OSGlqcUVNLXFJWFNTd2kydzFBNzQ0Sm1SQUFIM21QRGVXQXpYWmpLWWI2dmRBTVhDeWl2eHVESXhKS3IxZkxHWVJFQW90YXQ4RHVmNmIySU9CV1BiVGdRY2YzblpRdzVZWmw5QklJcFZqa2pWdTUyRUlB"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "传英伟达特斯拉拟投三星电机28亿美元",
-   "title_zh": "传英伟达特斯拉将向三星电机投资28亿美元",
-   "sentiment": 1
-  },
-  {
-   "id": "a9a9b4d46233",
-   "title": "英伟达黄仁勋表示，人工智能正在为能源的未来提供资金支持。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOdEJyNHFMNGdlOUJkam5RcEZTS2VFV2liRWcxdkJ1WWlUU0F6a1dWVmRUdU1VU2hMbXhRR1h6Z1NUc0VXQUlCdHRNTQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-22T07:18:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-22T07:18:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOdEJyNHFMNGdlOUJkam5RcEZTS2VFV2liRWcxdkJ1WWlUU0F6a1dWVmRUdU1VU2hMbXhRR1h6Z1NUc0VXQUlCdHRNTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋：AI为能源未来提供资金支持",
-   "title_zh": "黄仁勋：AI为能源未来提供资金支持",
-   "sentiment": 1
-  },
-  {
-   "id": "523d665a3ac6",
-   "title": "Does Super Micro's Big Quarter Make Nvidia Stock a Buy? - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU1KRzRlMkRoWFdjcEpCTWFRZm91VFVhY2h4ZHVDMmFySkxIdjZ3a1NLekxEY0RoRkF2VnBQYW1qRDhTdGw0VWlMWFlLanYtcGVkODdLQlQ1Z1hnRF9US0hPYTFrMkxaVXozQU03VVRjQnllUkFVNnhONndfOFdOenVhOTVpMzlXcER0TWFFNEY5dWZVeWZFMWpNVllPdw",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-22T07:14:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-22T07:14:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeU1KRzRlMkRoWFdjcEpCTWFRZm91VFVhY2h4ZHVDMmFySkxIdjZ3a1NLekxEY0RoRkF2VnBQYW1qRDhTdGw0VWlMWFlLanYtcGVkODdLQlQ1Z1hnRF9US0hPYTFrMkxaVXozQU03VVRjQnllUkFVNnhONndfOFdOenVhOTVpMzlXcER0TWFFNEY5dWZVeWZFMWpNVllPdw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T07:32:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3V6aUZOWGNBZGQwMjhrR3EwQmVJVi13V3dxMXZjYnprNDVPU2RVUXJkaVRjZTlyVUxaQzVOR0ltN1d6WURIYTktMzd5U0Q2Uk5Lb2hBTkxkSm1mV245cU51dVRVVzF3QWlMVDlEUTRkM1hUeDI1TjQxTWNYdlVUMVJDRmY2enBhd2g4Z2JLUXBXQVNnZl9LRGdB"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-22T07:32:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15cXBFUnVGUGRBbktwWHI2NGVkbEllQkhtVWJ3RFV1SVBNY2ZmWDQyTmhia1lROGJUTUs2T3Y0WFptekdCcTZ0X25RTWdFOWRZeXo3dFFVWWhFWjd4VWFVZ2NWSG0tSTN3NTJvZTYxSmxxNDBsN1NfeDQwUHdaUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "超微财报强劲，英伟达是否值得买入",
-   "title_zh": "超微财报强劲，英伟达股票值得买入吗？",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.21,
-    "window_h": 0.1
-   }
   }
  ]
 }
