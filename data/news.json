@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T05:06:32.583229+00:00",
+ "updated_at": "2026-10-23T05:21:29.779839+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -10,12 +10,12 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.57,
-   "count": 299
+   "avg": 0.0,
+   "count": 1
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.57（299条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.00（1条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-23T05:06:32.573927+00:00"
+   "as_of": "2026-10-23T05:21:29.757078+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "0c11f054007d",
+   "title": "AI视频初创公司Higgsfield获英伟达投资 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1l2X0ZrZEtKNmhNUjJBOU9DNnVabW9TaXhpejVYZ1ROM2daYzk2SGhrS2FVd1dOX2FjQWFNQkVWc3dUNUpRU041aWZQcm1qcjJuSFRhcjd4ZHRIUDdkeEtKQmdoa0ZZRjFVdGZJTl9vYmJuV2ZwYWdjMUJfbVdwYi12SGhTcHJQVk5Ta3pPU0x0TDZsYzlqZ0JsZHA4bkFj",
+   "source": "富途牛牛",
+   "published_at": "2026-10-23T05:14:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-23T05:14:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1l2X0ZrZEtKNmhNUjJBOU9DNnVabW9TaXhpejVYZ1ROM2daYzk2SGhrS2FVd1dOX2FjQWFNQkVWc3dUNUpRU041aWZQcm1qcjJuSFRhcjd4ZHRIUDdkeEtKQmdoa0ZZRjFVdGZJTl9vYmJuV2ZwYWdjMUJfbVdwYi12SGhTcHJQVk5Ta3pPU0x0TDZsYzlqZ0JsZHA4bkFj"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "ad27d29f8a35",
    "title": "AI: Nvidia’s $170 Billion Neocloud Safety Net. AI-RTZ #1248 - AI: Reset to Zero",
@@ -82,6 +99,29 @@
    "sentiment": 0
   },
   {
+   "id": "ec48ef42c4d0",
+   "title": "高盛维持英伟达“买入”评级 12个月目标价300美元_公司新闻_财经 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXS0EtNkZ4SmJiVlpVZkVjVlEtMFdLcmFzV0dVQ0ZOWlZTU0tIWFBGc0loM3V1a0NSQTBsejR0Q3NXUWNnQ0ViQzAtdENwQWxjS0ZlbXBsNWhCS0U4ZFNQSA",
+   "source": "证券之星",
+   "published_at": "2026-10-23T05:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-23T05:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXS0EtNkZ4SmJiVlpVZkVjVlEtMFdLcmFzV0dVQ0ZOWlZTU0tIWFBGc0loM3V1a0NSQTBsejR0Q3NXUWNnQ0ViQzAtdENwQWxjS0ZlbXBsNWhCS0U4ZFNQSA"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前",
+   "analyst": {
+    "firm": "Goldman Sachs",
+    "action": "维持",
+    "target": "300美元",
+    "rating": "买入"
+   }
+  },
+  {
    "id": "a6dad6e28aa7",
    "title": "Pony.ai partners with inDrive, Nvidia to launch robotaxis in Kazakhstan - Investing.com",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd3RfYXZ3VmFIMHVsLWhBUEkxa3NYek5NS3VCQzBUdXlfd1dDeU85TGdBcnI4N1duVEltOGZzemsyUmNUb1N0LU9XeXVHQ05WcVg4dVNzVmVGZXpxa1d4WklnNm82MUtwQ1BGQnlJVzhjd2JQeDExUDRCNVhIUWVnT0NlZnh4OHJHWlBnNEk0Y1Blbm5sUndmSEM5eFVOZmloR1VrYW1EQjZrZFQtR2pGczlYZFpRcVhWT3BaY2t3NWtDS0k1",
@@ -100,6 +140,23 @@
    "zh_summary": "小马智行联手英伟达在哈萨克斯坦推自动驾驶出租车",
    "title_zh": "小马智行联合inDrive和英伟达在哈萨克斯坦推出Robotaxi",
    "sentiment": 1
+  },
+  {
+   "id": "fd0ba87673a4",
+   "title": "告别快消品，英伟达GPU寿命翻倍到8年！ - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZjQzRldqOW9YaEZ3d3VKYkpaNXhJTkhmWFBQRkQ5S1M1S3J1S0FXV0syVXN3NHNpaDMyU1Q1M1dPd25uN0xQWTZYNW5IM2phbzRjbF8wczc2UGxIcGJwN2MyWVVXbmZleHY2S21jMWc4cFc5ZHpwaEstd3ZLWW9BNFYxNTk0akZTandnMw",
+   "source": "搜狐",
+   "published_at": "2026-10-23T04:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-23T04:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZjQzRldqOW9YaEZ3d3VKYkpaNXhJTkhmWFBQRkQ5S1M1S3J1S0FXV0syVXN3NHNpaDMyU1Q1M1dPd25uN0xQWTZYNW5IM2phbzRjbF8wczc2UGxIcGJwN2MyWVVXbmZleHY2S21jMWc4cFc5ZHpwaEstd3ZLWW9BNFYxNTk0akZTandnMw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "3f8ebbf24501",
@@ -6299,66 +6356,6 @@
    "session": "盘前",
    "zh_summary": "西门子医疗与英伟达合作开发AI自适应放疗技术",
    "title_zh": "西门子医疗与英伟达合作开发AI自适应放疗技术 - 虎嗅",
-   "sentiment": 1
-  },
-  {
-   "id": "51ea5b05ffcd",
-   "title": "预付超百亿！英伟达柏林GTC锁定四线扩产 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc252dFZ5QkpycHdvUW52U2xxemdlYUZuM2h4M2F2Yk5BVVdvMkxhSDdodWxNN1pBaHhmX2pPQ1gwR2lLYkdUM2FRdU1teDc4R0xVckl0bUk1UmlmNHdlQTcydURfZzNwM1ZFTEE2R1BSTzc4NzhHOUU2VzZYeUFrazg0WEdraklCbFI1cw",
-   "source": "搜狐",
-   "published_at": "2026-10-22T06:21:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T06:21:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc252dFZ5QkpycHdvUW52U2xxemdlYUZuM2h4M2F2Yk5BVVdvMkxhSDdodWxNN1pBaHhmX2pPQ1gwR2lLYkdUM2FRdU1teDc4R0xVckl0bUk1UmlmNHdlQTcydURfZzNwM1ZFTEE2R1BSTzc4NzhHOUU2VzZYeUFrazg0WEdraklCbFI1cw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达预付超百亿锁定四线扩产",
-   "title_zh": "预付超百亿！英伟达柏林GTC锁定四线扩产 - 搜狐",
-   "sentiment": 1
-  },
-  {
-   "id": "a2811e970c31",
-   "title": "争夺AI-RAN：英伟达强攻全球运营商，深圳公司首发6G算力基站|T-Mobile|黄仁勋|Agent|通信|机器人_手机新浪网 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ0taMHRaZlQyT0FKTjhfYkZyTlhyUEM4akhaYjFWM1hLQkNoS3AxZVNvazFHbE1xWHVrQ1l1Q0JKOWJoZGF0WFlDRTV3c2lUb1dOeUhRQ1IxRDNnTUtvRUp6Q2xYWmpTUUk1OGRLWVctTlRYWW5nTzdtdHBVT1VrSzR0aG5xNkEwX0h2Rk9yZnJtMEdwa2Y0eTZFU05PSUhoUzM1WnR2TzVMYjhKbUNDdm53TTlpX0ZXSWhZOUNUSUVtaEdsMGhWdXhRMzF3SzFZcjBQTFVLSjZQZw",
-   "source": "finance.sina.com.cn",
-   "published_at": "2026-10-22T06:16:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-22T06:16:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ0taMHRaZlQyT0FKTjhfYkZyTlhyUEM4akhaYjFWM1hLQkNoS3AxZVNvazFHbE1xWHVrQ1l1Q0JKOWJoZGF0WFlDRTV3c2lUb1dOeUhRQ1IxRDNnTUtvRUp6Q2xYWmpTUUk1OGRLWVctTlRYWW5nTzdtdHBVT1VrSzR0aG5xNkEwX0h2Rk9yZnJtMEdwa2Y0eTZFU05PSUhoUzM1WnR2TzVMYjhKbUNDdm53TTlpX0ZXSWhZOUNUSUVtaEdsMGhWdXhRMzF3SzFZcjBQTFVLSjZQZw"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达强攻全球运营商，深圳公司首发6G算力基站",
-   "title_zh": "英伟达强攻全球运营商，深圳公司首发6G算力基站",
-   "sentiment": 1
-  },
-  {
-   "id": "ad179307fa78",
-   "title": "NVDA Stock Rebounds Above $220 as Amazon Buys Billions in Nvidia Chips while Electricity Constraint Threaten Returns - FXLeaders",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZnRPcFV6emNIM2NaMmtzc0NoT0NOb3JxQll1UXM3U1lSTks3dk5iWEkzM1RwNjZqREJzQlZwZEdqdjZjZVhxczVOelJnQkd6V1pqeG1zUW96WDFSUG1lb3IxcndoNTFXY0JOeXZmd3NkYUZOd3hyXzNKRVlTZjN6Y0I2ZTdvNFowLWNRaWg3Y0FGV3Q0X2syaFVjRFhBdURlWXVpOEhLYTZpdHVtWjFtMERfdGJuMHlZcEhsRVlJa3ZLQlFOTVc3dVNob0ZuakE5NEE5V3RfMlloY1dPSno5bGhiYm10ZG9zR3hDdUhtSQ",
-   "source": "FXLeaders",
-   "published_at": "2026-10-22T06:12:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FXLeaders",
-     "published_at": "2026-10-22T06:12:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZnRPcFV6emNIM2NaMmtzc0NoT0NOb3JxQll1UXM3U1lSTks3dk5iWEkzM1RwNjZqREJzQlZwZEdqdjZjZVhxczVOelJnQkd6V1pqeG1zUW96WDFSUG1lb3IxcndoNTFXY0JOeXZmd3NkYUZOd3hyXzNKRVlTZjN6Y0I2ZTdvNFowLWNRaWg3Y0FGV3Q0X2syaFVjRFhBdURlWXVpOEhLYTZpdHVtWjFtMERfdGJuMHlZcEhsRVlJa3ZLQlFOTVc3dVNob0ZuakE5NEE5V3RfMlloY1dPSno5bGhiYm10ZG9zR3hDdUhtSQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "亚马逊斥数十亿购英伟达芯片，NVDA反弹",
-   "title_zh": "亚马逊斥巨资购买英伟达芯片，NVDA股价回升至220美元上方",
    "sentiment": 1
   }
  ]
