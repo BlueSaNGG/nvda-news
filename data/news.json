@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T16:06:32.244646+00:00",
+ "updated_at": "2026-10-23T16:21:36.853248+00:00",
  "market": {
-  "price": 212.79,
-  "change_pct": 0.27,
+  "price": 211.99,
+  "change_pct": -0.1,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.44,
-   "count": 122
+   "avg": 0.45,
+   "count": 125
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 64% 分位"
+     "note": "现价处于52周区间 63% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +48.0%"
+     "note": "目标价中位数 $315（16家），隐含空间 +48.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.44（122条已评分）"
+     "note": "今日新闻情绪 +0.45（125条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $212.79 vs 20日均线 $225.63"
+     "note": "现价 $211.99 vs 20日均线 $225.59"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 64,
+   "price_52w_pct": 63,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 48.0,
-   "ma20": 225.63,
-   "as_of": "2026-10-23T16:06:32.223728+00:00"
+   "implied_upside_pct": 48.6,
+   "ma20": 225.59,
+   "as_of": "2026-10-23T16:21:36.837612+00:00"
   },
-  "pe_ttm": 27.0,
+  "pe_ttm": 26.9,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.0%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.6%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -105,6 +105,23 @@
    "zh_summary": "黄仁勋鼓励欧洲加快数据中心建设",
    "title_zh": "黄仁勋呼吁欧洲AI行业加快数据中心建设",
    "sentiment": 1
+  },
+  {
+   "id": "722a95f5b751",
+   "title": "Midday Need to Know: Apple tops Nvidia in market value, Trump's economic rating falls & more - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmNJNUNhVHluTnloRGdXUDNiQW02LUM4eTNZWUppZFprVlhyeEwtNmFHV1dkamZ5QmNpUmZXMlh4clk3alNYd3FZdmdDU3lybkJJTU5tNHk0TGNOQ01rZlJzRU1sTFYwSHVHQ3lxOWphSGpIVHBxYU0xcm5DNFI0ZzBXSnJJREdPX1Y4UHZDemFoUWFJT1UwclBYVldvZzdSNlhCZVVEYlZ3b0MtU2hjal9IQnA1SDBPUmlKd2xoUjJFU3c",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-23T15:38:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-23T15:38:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRmNJNUNhVHluTnloRGdXUDNiQW02LUM4eTNZWUppZFprVlhyeEwtNmFHV1dkamZ5QmNpUmZXMlh4clk3alNYd3FZdmdDU3lybkJJTU5tNHk0TGNOQ01rZlJzRU1sTFYwSHVHQ3lxOWphSGpIVHBxYU0xcm5DNFI0ZzBXSnJJREdPX1Y4UHZDemFoUWFJT1UwclBYVldvZzdSNlhCZVVEYlZ3b0MtU2hjal9IQnA1SDBPUmlKd2xoUjJFU3c"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
   },
   {
    "id": "91a480f87f18",
@@ -6291,31 +6308,6 @@
    "session": "盘前",
    "zh_summary": "Bolt欧洲无人出租车用Alpamayo",
    "title_zh": "Bolt欧洲无人出租车车队选用英伟达Alpamayo",
-   "sentiment": 1
-  },
-  {
-   "id": "dc18f5d9ad82",
-   "title": "HCLTech introduces Nvidia-based automotive software testing suite - Just Auto",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGVuWXFRd0V1dkI4djh0TkRUVEE3ZmlIR3BiRGVtcHU4cWVDaFpvM2hzcGdadHNuVVlnTXlXOFMzWHZ3MzgySVFnMm5uSzJyLXdEX2psRTZsT2dxWGtELWdtb0RNRjhlVWNHNl9sSmJEVDVlamE4UXB3cnd2SjFUR0x6ZjRLWTg",
-   "source": "Just Auto",
-   "published_at": "2026-10-22T12:13:31+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Just Auto",
-     "published_at": "2026-10-22T12:13:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUGVuWXFRd0V1dkI4djh0TkRUVEE3ZmlIR3BiRGVtcHU4cWVDaFpvM2hzcGdadHNuVVlnTXlXOFMzWHZ3MzgySVFnMm5uSzJyLXdEX2psRTZsT2dxWGtELWdtb0RNRjhlVWNHNl9sSmJEVDVlamE4UXB3cnd2SjFUR0x6ZjRLWTg"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T13:12:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZEJ6RkViemZvWVZTV2FnTnRlcXJNTjRyQ0NUNHU0TzNIcTBBUVdQMVJycnZnTmFEbWpHclFqazloUGlKMGlBMHg0R0lYenQ3Q2N2R1p1TXhRdE9DUXA2UDJUWG5MZE40cVJNWlJGaUk3cU9VUUVUWHFReVJfd1o1bnJDaEZZZFRyT1RPcnNkU09xQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "HCLTech推出英伟达汽车软件测试套件",
-   "title_zh": "HCLTech推出基于英伟达的汽车软件测试套件",
    "sentiment": 1
   }
  ]
