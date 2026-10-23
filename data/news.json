@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T08:51:33.759693+00:00",
+ "updated_at": "2026-10-23T09:06:34.201632+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -10,8 +10,8 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.65,
-   "count": 26
+   "avg": 0.69,
+   "count": 32
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.65（26条已评分）"
+     "note": "今日新闻情绪 +0.69（32条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-23T08:51:33.744911+00:00"
+   "as_of": "2026-10-23T09:06:34.178584+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "2ed415057851",
+   "title": "NVIDIA Backs AI Startup Higgsfield as Huang Visits Kazakhstan - The Astana Times",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSVRCRjZGX0dld1pGSzRFM29DdFVGY0lfajhKcjZkOHUzb3pBY0Z0VkhuTFJJLUNEcUdkc0RtcDF3dWg2d2Iwc2VVcEN4eERLZkVQUHpPM0xySUEtQ2M5eDRfOURUYmdSYTQzbnRZOTFnT1pQQWZpS193ZG1YME1JMm1TOTlFcWJrRGxsVFFxRjh4RXZXcHhCV0NB",
+   "source": "The Astana Times",
+   "published_at": "2026-10-23T08:56:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Astana Times",
+     "published_at": "2026-10-23T08:56:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSVRCRjZGX0dld1pGSzRFM29DdFVGY0lfajhKcjZkOHUzb3pBY0Z0VkhuTFJJLUNEcUdkc0RtcDF3dWg2d2Iwc2VVcEN4eERLZkVQUHpPM0xySUEtQ2M5eDRfOURUYmdSYTQzbnRZOTFnT1pQQWZpS193ZG1YME1JMm1TOTlFcWJrRGxsVFFxRjh4RXZXcHhCV0NB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "e1314920137c",
+   "title": "Procore深化与英伟达合作，利用Omniverse数字孪生技术模拟建筑施工场景 - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUJNWmNPcjhfMUQycWZ5QnBocnRHYWE2WlM1dlJSRXg4YU5xSk52NTJMVjMzYkVNOXA5MVo0UUxnUnBmZEdhYTIxWjlLWjRfTEtlWFdwZVl2TGdwNWZtMkJIeEVlc2ltTWVtcXNtV1cwUXFVcHk0Z0dSLUpXZnNDaUx5cXZMc0VJ",
+   "source": "搜狐",
+   "published_at": "2026-10-23T08:45:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-23T08:45:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUJNWmNPcjhfMUQycWZ5QnBocnRHYWE2WlM1dlJSRXg4YU5xSk52NTJMVjMzYkVNOXA5MVo0UUxnUnBmZEdhYTIxWjlLWjRfTEtlWFdwZVl2TGdwNWZtMkJIeEVlc2ltTWVtcXNtV1cwUXFVcHk0Z0dSLUpXZnNDaUx5cXZMc0VJ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "882289ca9a9a",
    "title": "4,317 Shares of NVIDIA Corporation $NVDA Acquired by Kirkwood Financial Services - MarketBeat",
@@ -77,8 +111,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "Kirkwood购入4,317股NVDA股票",
    "zh_summary": "Kirkwood购入4,317股英伟达",
+   "title_zh": "Kirkwood购入4,317股NVDA股票",
    "sentiment": 1
   },
   {
@@ -97,8 +131,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "Tucker购入2,930股NVDA股票",
    "zh_summary": "Tucker购入2,930股英伟达",
+   "title_zh": "Tucker购入2,930股NVDA股票",
    "sentiment": 1
   },
   {
@@ -117,8 +151,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "Tobias购入9,924股NVDA股票",
    "zh_summary": "Tobias购入9,924股英伟达",
+   "title_zh": "Tobias购入9,924股NVDA股票",
    "sentiment": 1
   },
   {
@@ -137,8 +171,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "弗吉尼亚退休基金购入5,180,598股NVDA股票",
    "zh_summary": "弗吉尼亚退休基金购入5,180,598股NVDA",
+   "title_zh": "弗吉尼亚退休基金购入5,180,598股NVDA股票",
    "sentiment": 1
   },
   {
@@ -157,8 +191,8 @@
    ],
    "category": "其他",
    "session": "盘前",
-   "title_zh": "Nykredit购入9,062,150股NVDA股票",
    "zh_summary": "Nykredit购入9,062,150股英伟达",
+   "title_zh": "Nykredit购入9,062,150股NVDA股票",
    "sentiment": 1
   },
   {
@@ -177,8 +211,8 @@
    ],
    "category": "产品技术",
    "session": "盘前",
-   "title_zh": "晶丰明源涨停：英伟达概念，国产芯片",
    "zh_summary": "晶丰明源涨停：英伟达概念",
+   "title_zh": "晶丰明源涨停：英伟达概念，国产芯片",
    "sentiment": 0
   },
   {
@@ -1353,12 +1387,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnV0UnNfdkc1QzZrbmN3bnpWSTlIQTFVRkNWeWFZUEo4dXFzcVcwSG9UTFl6aFFwUUdSWW8zM0pGbHdnX1drOFluVUZCaVoxbGRQeGdVd0NTNGJxWDVSMV9wVkR4Zm1ZSjQzOW12Y0dzMko3aE1UTFBwQUNlUERHUnQzNWN4WGpM",
    "source": "搜狐",
    "published_at": "2026-10-22T23:38:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐",
      "published_at": "2026-10-22T23:38:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnV0UnNfdkc1QzZrbmN3bnpWSTlIQTFVRkNWeWFZUEo4dXFzcVcwSG9UTFl6aFFwUUdSWW8zM0pGbHdnX1drOFluVUZCaVoxbGRQeGdVd0NTNGJxWDVSMV9wVkR4Zm1ZSjQzOW12Y0dzMko3aE1UTFBwQUNlUERHUnQzNWN4WGpM"
+    },
+    {
+     "name": "CNMO",
+     "published_at": "2026-10-22T23:38:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sYTgxa091NGFSUkQxN1pUYy1yWkVXUVF3M1pBQUVITm1BVmpZTXdheVRQLTIwVkw3TDZfYWJDekpPUG5DUXh3ZTdJTQ"
     }
    ],
    "category": "产品技术",
@@ -6316,51 +6355,6 @@
    "session": "盘前",
    "zh_summary": "英伟达推进通用机器人Isaac平台",
    "title_zh": "英伟达推出人形机器人Isaac平台新进展",
-   "sentiment": 1
-  },
-  {
-   "id": "018225507ae2",
-   "title": "Schneider Electric, Nvidia and HPE launch AI agents for industrial operations - Robotics & Automation News",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX3YtTTlfVHdDcUNhblBkN0J6WmlDR3VsZDRsUlhZSUp5eFllT1ZyRGo2QzlkSzc3TDdPWDFXYTRlZi1PM01nWGtaVXRsMDdDM29Yb2kzZXdTM05MSVRTZTItaGxac2FseXYxVHlsNGhRbkp4SmhzZFl3di1sRVNvb2h3ZDF0cFAxTFZ1OS02VHVhZTdFTjBxdDBuQVVZNEZvQXgtRllNQ0x5bjRxZEFBYWZfTlBQcEh6eGhlYlJHZFdPbDBxWGFEUzFrT1FrZw",
-   "source": "Robotics & Automation News",
-   "published_at": "2026-10-22T08:27:40+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Robotics & Automation News",
-     "published_at": "2026-10-22T08:27:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX3YtTTlfVHdDcUNhblBkN0J6WmlDR3VsZDRsUlhZSUp5eFllT1ZyRGo2QzlkSzc3TDdPWDFXYTRlZi1PM01nWGtaVXRsMDdDM29Yb2kzZXdTM05MSVRTZTItaGxac2FseXYxVHlsNGhRbkp4SmhzZFl3di1sRVNvb2h3ZDF0cFAxTFZ1OS02VHVhZTdFTjBxdDBuQVVZNEZvQXgtRllNQ0x5bjRxZEFBYWZfTlBQcEh6eGhlYlJHZFdPbDBxWGFEUzFrT1FrZw"
-    },
-    {
-     "name": "Data Centre Magazine",
-     "published_at": "2026-10-22T14:35:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUpEeU1WQnh2YjVLdnZROC1iSVlvcmhqT2I2dE01RklCTzhGWkY4MGdCMk1nb2Z0V3lqX2tCckNKdXVKWFBjZGdPVmlWRGNXQ2RSWVVQWXNiaEJlUlBXYmlrNVB5TU1kT3RxcURETUd3blQzblNKY1RhYUNKdEVjR2dVMkpqeG1QZkxUQk5ZSG9XU0xYWXk5NFdtQnI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "施耐德英伟达惠普推工业AI智能体",
-   "title_zh": "施耐德电气、英伟达与HPE推出工业AI智能体",
-   "sentiment": 1
-  },
-  {
-   "id": "8b5ad6ea6cf3",
-   "title": "Market Chatter: Nvidia, Tesla to Invest $2.80 Billion in Samsung Electro-Mechanics - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjVKMDN4ZjJIVHpQaE1GY0MzWWE5OURuMFFVaFA2LVNqZng3TjBsVEVYMlVFQVdTZTZRQmh2dEVaZVctTlBpVlVxNHJkLUhvMkFaYnhoR3d2YWJrTmJVN19DcWtoOC1GczRDcFk0dGFlZVlZMGJ5QjVhTkw4aGxJU2hGdnBjdmd1cVpvUm9SUDA4Q3h3WlhVYldrRQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T08:25:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T08:25:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdjVKMDN4ZjJIVHpQaE1GY0MzWWE5OURuMFFVaFA2LVNqZng3TjBsVEVYMlVFQVdTZTZRQmh2dEVaZVctTlBpVlVxNHJkLUhvMkFaYnhoR3d2YWJrTmJVN19DcWtoOC1GczRDcFk0dGFlZVlZMGJ5QjVhTkw4aGxJU2hGdnBjdmd1cVpvUm9SUDA4Q3h3WlhVYldrRQ"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "英伟达特斯拉拟向三星电机投28亿美元",
-   "title_zh": "传英伟达特斯拉将向三星电机投资28亿美元",
    "sentiment": 1
   }
  ]
