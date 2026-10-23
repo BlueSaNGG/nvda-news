@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T15:06:33.251226+00:00",
+ "updated_at": "2026-10-23T15:21:30.449290+00:00",
  "market": {
-  "price": 212.82,
-  "change_pct": 0.29,
+  "price": 212.24,
+  "change_pct": 0.01,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,12 +10,12 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.55,
-   "count": 88
+   "avg": 0.45,
+   "count": 118
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +48.0%"
+     "note": "目标价中位数 $315（16家），隐含空间 +48.4%"
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.55（88条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.45（118条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $212.82 vs 20日均线 $225.63"
+     "note": "现价 $212.24 vs 20日均线 $225.61"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 64,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 48.0,
-   "ma20": 225.63,
-   "as_of": "2026-10-23T15:06:33.229642+00:00"
+   "implied_upside_pct": 48.4,
+   "ma20": 225.61,
+   "as_of": "2026-10-23T15:21:30.425491+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.0%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -487,13 +487,13 @@
    ],
    "category": "其他",
    "session": "盘中",
+   "zh_summary": "苹果总市值超越英伟达",
+   "title_zh": "苹果总市值超越英伟达",
+   "sentiment": -1,
    "price_reaction": {
     "pct": 0.69,
     "window_h": 1.5
-   },
-   "zh_summary": "苹果总市值超越英伟达",
-   "title_zh": "苹果总市值超越英伟达",
-   "sentiment": -1
+   }
   },
   {
    "id": "74c948257833",
@@ -1104,6 +1104,23 @@
    "zh_summary": "纳斯达克100ETF加仓英伟达苹果",
    "title_zh": "QQQM周三加仓英伟达和苹果",
    "sentiment": 1
+  },
+  {
+   "id": "93cfb5a22d58",
+   "title": "What Invesco QQQ (QQQ) Sold: NVIDIA Leads on Oct. 21 - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGtoYmgwX2ZtTUtpMWNKVnppUFd0d1hMeXByTF9EZjBXajZ1VjJFV2V4RlY3YnpaeTRHMC1VcnQyYUNzdzAxZV9uelVVWkJVRnkyLWJGVlNndDZBQnk4MGctQXFfYV9vb01Xand6aFNrZHFTbk5vZHdRN1YtZ1pjeXR4MzRybUg5Qk1GNXZucGJ2NlN4Skdz",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-23T11:04:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T11:04:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGtoYmgwX2ZtTUtpMWNKVnppUFd0d1hMeXByTF9EZjBXajZ1VjJFV2V4RlY3YnpaeTRHMC1VcnQyYUNzdzAxZV9uelVVWkJVRnkyLWJGVlNndDZBQnk4MGctQXFfYV9vb01Xand6aFNrZHFTbk5vZHdRN1YtZ1pjeXR4MzRybUg5Qk1GNXZucGJ2NlN4Skdz"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "be48efde8602",
@@ -6263,26 +6280,6 @@
    "zh_summary": "Zadara获英伟达AI云认证",
    "title_zh": "Zadara获英伟达AI Cloud Ready认证",
    "sentiment": 1
-  },
-  {
-   "id": "aa7903490aec",
-   "title": "‘Jensen’s nightmare’: Huawei, DeepSeek narrow AI chip ecosystem gap with Nvidia - South China Morning Post",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMUwwNEw5d0lLX3hlYkpFR1lpRk1MX2JRa2hvLV9yb2hrTEpQa3JoZUlEREQ1bXhhN1c3QjQ1R0VhR0thb2Y5RVhsbEl1R2QybFBTdV9wWVEwYnpWQUt1c21hUFllUHVwby1sdDdfLUpQOFRncGNhTjFmemdwTnBrWHl4RzM2YUJsa1laTTAwd0s0Yzdka05BdWs1THdDR0dQSl9iM1h2bTNFZjlQa1VLSjBIemhKVlFlMUdObmNnendOdzZhY1HSAcYBQVVfeXFMT2p3ejZwUXUzRVB3Z1llbkNYbkR0bnc2Q0xINVJFdF9CZlZXcG5pYnNCbXp3YkR3NF9DN3dZUkR1MTA5UEd6OXhNV2t6azhoTTJSSGJaTWxLaERiMmNRT0E0ektNb2tsRjNvX1duSTRRWkhkYUQ5cjlHbmZWMHFMRDRGYTVrdmtBZVR3NHVOYkI4QklBeHFCTHFqY29CdHptaUZ4MS00a3ZmUkJONVktSjdWcWpPN2tTRWdpcnZwRGpNRkFfVWJB",
-   "source": "South China Morning Post",
-   "published_at": "2026-10-22T12:00:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "South China Morning Post",
-     "published_at": "2026-10-22T12:00:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMUwwNEw5d0lLX3hlYkpFR1lpRk1MX2JRa2hvLV9yb2hrTEpQa3JoZUlEREQ1bXhhN1c3QjQ1R0VhR0thb2Y5RVhsbEl1R2QybFBTdV9wWVEwYnpWQUt1c21hUFllUHVwby1sdDdfLUpQOFRncGNhTjFmemdwTnBrWHl4RzM2YUJsa1laTTAwd0s0Yzdka05BdWs1THdDR0dQSl9iM1h2bTNFZjlQa1VLSjBIemhKVlFlMUdObmNnendOdzZhY1HSAcYBQVVfeXFMT2p3ejZwUXUzRVB3Z1llbkNYbkR0bnc2Q0xINVJFdF9CZlZXcG5pYnNCbXp3YkR3NF9DN3dZUkR1MTA5UEd6OXhNV2t6azhoTTJSSGJaTWxLaERiMmNRT0E0ektNb2tsRjNvX1duSTRRWkhkYUQ5cjlHbmZWMHFMRDRGYTVrdmtBZVR3NHVOYkI4QklBeHFCTHFqY29CdHptaUZ4MS00a3ZmUkJONVktSjdWcWpPN2tTRWdpcnZwRGpNRkFfVWJB"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "华为DeepSeek缩小与英伟达芯片差距",
-   "title_zh": "华为与DeepSeek缩小与英伟达AI芯片生态差距",
-   "sentiment": -1
   }
  ]
 }
