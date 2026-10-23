@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T01:51:33.353931+00:00",
+ "updated_at": "2026-10-23T02:06:29.855093+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.58,
-   "count": 289
+   "count": 292
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.58（289条已评分）"
+     "note": "今日新闻情绪 +0.58（292条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-23T01:51:33.345344+00:00"
+   "as_of": "2026-10-23T02:06:29.839711+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "30faed38f094",
+   "title": "狠活拉满！英伟达把576颗显卡打包成一块：要造全球最强单体巨型GPU - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FakViWkx3NWtSb05ORzFTTXExV2lTQUVuYXhFZ2RRdXlLQnpKNnBsSFMwZjFnb01UTDUxN3pIWmxRVFQ0eFZCSVpjdnR1ZjVEU0ljQjFvNlU",
+   "source": "驱动之家",
+   "published_at": "2026-10-23T01:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-23T01:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FakViWkx3NWtSb05ORzFTTXExV2lTQUVuYXhFZ2RRdXlLQnpKNnBsSFMwZjFnb01UTDUxN3pIWmxRVFQ0eFZCSVpjdnR1ZjVEU0ljQjFvNlU"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "ecebd98d08e6",
+   "title": "NVIDIA OpenShell Reference Architecture: 4 Layers [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNem5wcGpPb0hkcUh6bEZkUnhjdjIwQllxOVMyb0c0VEF0QlZWRlY0ejlJMUNDR3FJVnhOLW95NFVsNC1FSUNBS0h1YWQzcnRpS0tEVHZUQ0Y0OEJuRmlaQ0tramxPaWppY0M0TWktdV9UbDhUQ0RRR053VXBpb3ZPQWRsM1h6Zw",
+   "source": "shattered.io",
+   "published_at": "2026-10-23T01:47:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-23T01:47:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNem5wcGpPb0hkcUh6bEZkUnhjdjIwQllxOVMyb0c0VEF0QlZWRlY0ejlJMUNDR3FJVnhOLW95NFVsNC1FSUNBS0h1YWQzcnRpS0tEVHZUQ0Y0OEJuRmlaQ0tramxPaWppY0M0TWktdV9UbDhUQ0RRR053VXBpb3ZPQWRsM1h6Zw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "355a2498678f",
+   "title": "英伟达GTC柏林2026：黄仁勋称GPU使用寿命长达8年 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nbjdrZFROSms4N0xuekRKRTdHSXVxdWtnQkp2NE11Y3lSRlJDM1IyTVhoOGR0Rjh4R2dRN3lOYXVkNzNqVTJlMEZuX3pkR1g4MmVsYi0yTzlmeDJz",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-23T01:41:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-23T01:41:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nbjdrZFROSms4N0xuekRKRTdHSXVxdWtnQkp2NE11Y3lSRlJDM1IyTVhoOGR0Rjh4R2dRN3lOYXVkNzNqVTJlMEZuX3pkR1g4MmVsYi0yTzlmeDJz"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "fe4521183c84",
    "title": "英伟达AI-RAN已进入现网：全球多家运营商启动商用验证与部署 - 新浪财经",
@@ -80,6 +131,23 @@
    "zh_summary": "英伟达AI-RAN现网商用，多家运营商验证",
    "title_zh": "英伟达AI-RAN已进入现网：全球多家运营商启动商用验证与部署 - 新浪财经",
    "sentiment": 1
+  },
+  {
+   "id": "03690f9d72d1",
+   "title": "降价难！黄仁勋：内存过剩情况2029年都不会看到 反正英伟达疯狂用 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEdm1qTzdKdXZYTEFjdmc5WkRFX21wN1FSdTByUXBESWZVZGg3cElUeFdMbnVEQ3VrNkpZRENVQXY2c08tME82aFNuMUt2X2lIdnVMMVNxQi0",
+   "source": "驱动之家",
+   "published_at": "2026-10-23T00:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-23T00:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEdm1qTzdKdXZYTEFjdmc5WkRFX21wN1FSdTByUXBESWZVZGg3cElUeFdMbnVEQ3VrNkpZRENVQXY2c08tME82aFNuMUt2X2lIdnVMMVNxQi0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "ae402f9b616f",
@@ -140,6 +208,23 @@
    "zh_summary": "英伟达个人AI超算将通过伙伴发售",
    "title_zh": "10月23日投资日历|英伟达个人AI超级计算机将通过主要合作伙伴发售",
    "sentiment": 1
+  },
+  {
+   "id": "838f2eb9e34e",
+   "title": "英伟达CEO称AI云厂算力需求“超出图表”，谁在疯狂囤卡？ - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yVE51bms3b2ZLMTJUT1loM3loeGFPQ3hCWTNJemtidmNOWXVNSWtEeko4cDdhMldYV19DRVpHU2M5bURYcHRWbm44ZzR3WFph",
+   "source": "富途牛牛",
+   "published_at": "2026-10-23T00:20:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-23T00:20:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yVE51bms3b2ZLMTJUT1loM3loeGFPQ3hCWTNJemtidmNOWXVNSWtEeko4cDdhMldYV19DRVpHU2M5bURYcHRWbm44ZzR3WFph"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
   },
   {
    "id": "d26a2a01fe9a",
@@ -6301,111 +6386,6 @@
    "zh_summary": "NVDA 261023 190.00C 期权链",
    "title_zh": "NVDA 261023 190.00C 期权链报价与新闻",
    "sentiment": 0
-  },
-  {
-   "id": "09a62e42bcd7",
-   "title": "英伟达“柏林GTC”对供应链的影响：后端产能受限、CPO加速 - 华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oNnppOGhyOWJRUW9ubGYwenRlTmlqUEc2V1JNRThuZGYtUkdLWFIzUDhwdmlLMk02U3NFYXlWYUY2RjZtNTBRZmdrZjA2YXFHYWpV",
-   "source": "华尔街见闻",
-   "published_at": "2026-10-22T04:07:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-22T04:07:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oNnppOGhyOWJRUW9ubGYwenRlTmlqUEc2V1JNRThuZGYtUkdLWFIzUDhwdmlLMk02U3NFYXlWYUY2RjZtNTBRZmdrZjA2YXFHYWpV"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘后",
-   "zh_summary": "柏林GTC对供应链影响：CPO加速",
-   "title_zh": "英伟达柏林GTC对供应链影响：后端产能受限、CPO加速",
-   "sentiment": 0
-  },
-  {
-   "id": "ad1133d1dd5d",
-   "title": "英伟达GTC德国柏林站，提前写好下一轮AI竞争的规则？ - 凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SdWhONzEtVE1NOHd4eVlUMGtPcXU4bkt1VG02YWRnT1dSSGR6NU1ocHhfd00wX3A1VjdpOFEzUEk4dzh0ZXVQZHpZaXI",
-   "source": "凤凰网科技",
-   "published_at": "2026-10-22T03:53:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-22T03:53:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SdWhONzEtVE1NOHd4eVlUMGtPcXU4bkt1VG02YWRnT1dSSGR6NU1ocHhfd00wX3A1VjdpOFEzUEk4dzh0ZXVQZHpZaXI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达GTC柏林站聚焦AI竞争规则",
-   "title_zh": "英伟达GTC德国柏林站，提前写好下一轮AI竞争的规则？ - 凤凰网科技",
-   "sentiment": 0
-  },
-  {
-   "id": "48512a4b3195",
-   "title": "柯马与英伟达合作加速推动工业机器人领域的物理AI创新 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2dUd1QxQVpiMWV2YnJST25oZEJBVjlFMDlocHEyRnVQVFZfMU96NGFwWEJkODhpLWluNzV2UzI1c09Zb1kwWU96T3ZYMnF4REFUYVptdjBLWnBuS1RxVXROYmtucVBmR2dob1VubFNOU3pENXBxTldIYnN1MV83OTNSSk03MnJC",
-   "source": "搜狐",
-   "published_at": "2026-10-22T03:49:06+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T03:49:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2dUd1QxQVpiMWV2YnJST25oZEJBVjlFMDlocHEyRnVQVFZfMU96NGFwWEJkODhpLWluNzV2UzI1c09Zb1kwWU96T3ZYMnF4REFUYVptdjBLWnBuS1RxVXROYmtucVBmR2dob1VubFNOU3pENXBxTldIYnN1MV83OTNSSk03MnJC"
-    },
-    {
-     "name": "人工智能",
-     "published_at": "2026-10-22T07:38:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mMFU5N1Y3dG1Ic1Z4VllxSWdGWExLT2VzRGU0QjFoUjdOTHhnNF9YdWFISE9qUEZucG5qX2gyLXNRTXprRi1qaDdEOE5sOUhTRlE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "柯马与英伟达合作加速物理AI创新",
-   "title_zh": "柯马与英伟达合作加速推动工业机器人物理AI创新",
-   "sentiment": 1
-  },
-  {
-   "id": "049aef3c4324",
-   "title": "AI-RAN争夺战：英伟达进运营商，深圳企业同步卡位 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOF9iS3Z3TU4zTlRyd3F4N3JlOTQ4THJjeVlDbVljSVFCZWlaQk9tZDFGOENhVi1rYU51VmdGWVlidV9PdjljYUticF92R1NYd0t1MjdjN1FveVdid1laeVRISUJNRy1TeXk2dm9TSjNXajcxSV82Ujdsc0p1MnhkRll4TnlVQVJX",
-   "source": "搜狐",
-   "published_at": "2026-10-22T03:47:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T03:47:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOF9iS3Z3TU4zTlRyd3F4N3JlOTQ4THJjeVlDbVljSVFCZWlaQk9tZDFGOENhVi1rYU51VmdGWVlidV9PdjljYUticF92R1NYd0t1MjdjN1FveVdid1laeVRISUJNRy1TeXk2dm9TSjNXajcxSV82Ujdsc0p1MnhkRll4TnlVQVJX"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "AI-RAN争夺战：英伟达进运营商",
-   "title_zh": "AI-RAN争夺战：英伟达进运营商，深圳企业同步卡位",
-   "sentiment": 1
-  },
-  {
-   "id": "00cff71ee518",
-   "title": "争夺AI-RAN：英伟达强攻全球运营商，深圳公司首09:22 AI-RAN争夺战：英伟达进运营商，深圳企业同步卡位 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXQxZ0JDSldycnRWclM4RDdQcXJQNDBZdUF6cGVaYllha2h5OG03bk5jT0Q0d0RKWGE5eWRDWlFvenRHZy0tZk9HQTVGYTNWdXN1QmJBUGUzbkFuX0pfdUdTN1oza2dzbjV2QzlJZVhxN0UzdzJ2XzJvalI4RXJ6MVBFd0pNcWhL",
-   "source": "搜狐",
-   "published_at": "2026-10-22T03:47:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T03:47:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXQxZ0JDSldycnRWclM4RDdQcXJQNDBZdUF6cGVaYllha2h5OG03bk5jT0Q0d0RKWGE5eWRDWlFvenRHZy0tZk9HQTVGYTNWdXN1QmJBUGUzbkFuX0pfdUdTN1oza2dzbjV2QzlJZVhxN0UzdzJ2XzJvalI4RXJ6MVBFd0pNcWhL"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达强攻全球运营商",
-   "title_zh": "英伟达强攻全球运营商，深圳公司同步卡位",
-   "sentiment": 1
   }
  ]
 }
