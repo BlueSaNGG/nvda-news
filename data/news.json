@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T02:06:29.855093+00:00",
+ "updated_at": "2026-10-23T02:21:32.209002+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.58,
-   "count": 292
+   "count": 297
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.58（292条已评分）"
+     "note": "今日新闻情绪 +0.58（297条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-23T02:06:29.839711+00:00"
+   "as_of": "2026-10-23T02:21:32.193550+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -62,17 +62,39 @@
  },
  "stories": [
   {
+   "id": "baf9066d7497",
+   "title": "罗姆出席英伟达在2026年OCP全球峰会的活动 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nTlRESmtTMzc5OUswdnpIWVpoWmlWdkdUNFF6VFgtYXJ2VlRWQjFiNFZEUTlpQkVmVTR0OHBadk5YMFdzcFctdm1kdlFMaXB5QWg4",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-23T02:15:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-23T02:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nTlRESmtTMzc5OUswdnpIWVpoWmlWdkdUNFF6VFgtYXJ2VlRWQjFiNFZEUTlpQkVmVTR0OHBadk5YMFdzcFctdm1kdlFMaXB5QWg4"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "30faed38f094",
    "title": "狠活拉满！英伟达把576颗显卡打包成一块：要造全球最强单体巨型GPU - 驱动之家",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FakViWkx3NWtSb05ORzFTTXExV2lTQUVuYXhFZ2RRdXlLQnpKNnBsSFMwZjFnb01UTDUxN3pIWmxRVFQ0eFZCSVpjdnR1ZjVEU0ljQjFvNlU",
    "source": "驱动之家",
    "published_at": "2026-10-23T01:58:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
      "published_at": "2026-10-23T01:58:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FakViWkx3NWtSb05ORzFTTXExV2lTQUVuYXhFZ2RRdXlLQnpKNnBsSFMwZjFnb01UTDUxN3pIWmxRVFQ0eFZCSVpjdnR1ZjVEU0ljQjFvNlU"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-23T01:58:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWEZac0IwX3FobWRST1g5QVRrYVRtOVVQTTFiVkl6VjB6RmJ5QTFTaGZCaEU3b3pfa2tkRTFzM1FiaWNIM3FvVG5lRGVheVFxMEVHaUExc0VEZGZMVEExWHB1cS00V3Zad0tRcHE5SWg2UWk3dEZnNF8wdHlGWVlrTXlhS3kzY1Fh"
     }
    ],
    "category": "产品技术",
@@ -482,6 +504,23 @@
    "sentiment": 1
   },
   {
+   "id": "f3bd31f857b6",
+   "title": "NVIDIA Expands AI Semiconductor Production with Key Component Partners - 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkE4bTZydVFiaU8wQ0RVbnhoOV9VVEc4WUpyWHJkVnZBOWJWcW9zY0Q3ZERHeUhGYjlCdVRUN1VYUzBNSS1nV0V3NkdRZjJoODhqaE1OUGMyMGEzY21iM0FPcFVfZU83and4N1dXc0pHam5ZNS1fVm8zUktMV3dMREg4bVBPYjhU",
+   "source": "조선일보",
+   "published_at": "2026-10-22T22:08:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "조선일보",
+     "published_at": "2026-10-22T22:08:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkE4bTZydVFiaU8wQ0RVbnhoOV9VVEc4WUpyWHJkVnZBOWJWcW9zY0Q3ZERHeUhGYjlCdVRUN1VYUzBNSS1nV0V3NkdRZjJoODhqaE1OUGMyMGEzY21iM0FPcFVfZU83and4N1dXc0pHam5ZNS1fVm8zUktMV3dMREg4bVBPYjhU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "5bb4cf8232f1",
    "title": "Grok加速商业化：SpaceX联合英伟达等打造AI合作网络 - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwMUROVkNnY2dTSlBOa0Y1UndUZWJDUEhJdzNmV0FsNFZybmd0SzE2RmZ5cGNaZlF6eDJRdS1iOGk1WlZUejNZWDNHdjRPM04xOENNSHpXMGo1b09YQVBuTg",
@@ -585,6 +624,23 @@
    "zh_summary": "英伟达助力宇树估值重回2000亿",
    "title_zh": "英伟达「帮」宇树估值重回2000亿 - 搜狐",
    "sentiment": 1
+  },
+  {
+   "id": "d2c76b56fbb7",
+   "title": "NVIDIA Pours $171.5 Billion into NeoCloud Amid Financial Concerns - 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS19qQ1RVbDRFVW5NTHJqeVlQSUU4TTZRU3hHM0hqTFVZZ1hTQmswNDlsRTU1VGRCRXJCUDFkRU9mUlJ5elY4U2ljaE9RM0JlOHNCRDNCZk9GREJNb3dXbWdIM2ozdkpHcFBFVXFVZXdYSlNrc3N2NEpmUjVjZ1NzSVlmNG9IYklE",
+   "source": "조선일보",
+   "published_at": "2026-10-22T20:15:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "조선일보",
+     "published_at": "2026-10-22T20:15:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS19qQ1RVbDRFVW5NTHJqeVlQSUU4TTZRU3hHM0hqTFVZZ1hTQmswNDlsRTU1VGRCRXJCUDFkRU9mUlJ5elY4U2ljaE9RM0JlOHNCRDNCZk9GREJNb3dXbWdIM2ozdkpHcFBFVXFVZXdYSlNrc3N2NEpmUjVjZ1NzSVlmNG9IYklE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "01e57fcffba6",
@@ -6340,66 +6396,6 @@
    "session": "盘前",
    "zh_summary": "英伟达GTC柏林大会AI前瞻直播",
    "title_zh": "英伟达GTC柏林大会：AI未来动态直播",
-   "sentiment": 0
-  },
-  {
-   "id": "5eebf6d35f8d",
-   "title": "Nvidia taps Korean component makers for AI chips, robots - The Korea Herald",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10ekUycklJT3lCakNuZEUzX2c2TEQzOWgxaTFVeDA0XzdZM0FhdWxEYzNyS2tZOXYzU29ERjRTUTZFOU1DMmU1X2tTWm1FeG1ycjVibzg3QQ",
-   "source": "The Korea Herald",
-   "published_at": "2026-10-22T04:22:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Korea Herald",
-     "published_at": "2026-10-22T04:22:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10ekUycklJT3lCakNuZEUzX2c2TEQzOWgxaTFVeDA0XzdZM0FhdWxEYzNyS2tZOXYzU29ERjRTUTZFOU1DMmU1X2tTWm1FeG1ycjVibzg3QQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "英伟达选用韩国零部件厂商供AI芯片",
-   "title_zh": "英伟达选用韩国零部件厂商供应AI芯片和机器人",
-   "sentiment": 1
-  },
-  {
-   "id": "f22423f027ea",
-   "title": "英伟达太强了，intel、AMD这对争了50年的对手，都联手了 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX2UzdXR0VzhmXzl0T3hKaXhCSzAwN1NPOUF2dWN0QS1pNGJWZGpwM0hzOEhPS09zTU9IbTJHU3FzUmt5eVh2U2NNWWxqejRfeWxBbk53TWhCV2p6eWVsXzF0RFZwQW5lYlkxczN3U3lyX2FhTzdPeFpkQldWTnBCZGVVZ0FiRVRVUWE5cw",
-   "source": "搜狐",
-   "published_at": "2026-10-22T04:07:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T04:07:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX2UzdXR0VzhmXzl0T3hKaXhCSzAwN1NPOUF2dWN0QS1pNGJWZGpwM0hzOEhPS09zTU9IbTJHU3FzUmt5eVh2U2NNWWxqejRfeWxBbk53TWhCV2p6eWVsXzF0RFZwQW5lYlkxczN3U3lyX2FhTzdPeFpkQldWTnBCZGVVZ0FiRVRVUWE5cw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英特尔AMD联手应对英伟达",
-   "title_zh": "英特尔与AMD联手应对英伟达",
-   "sentiment": 0
-  },
-  {
-   "id": "10e090ead4f1",
-   "title": "NVDA 261023 190.00C (NVDA261023C190000) Stock Options Chain | Quotes & News - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MajBsU3lPQi1Lc29Od2tFVFR0dVpySXNPNldMNlA5bWxrcmsxTGdnQUVWU1dwbjVyMDBPTjNURGcxSXV3RU5MWS1STWRhOXNQZ3dYc3BZejhDSWt1ZWVJVA",
-   "source": "Moomoo",
-   "published_at": "2026-10-22T04:07:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-22T04:07:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MajBsU3lPQi1Lc29Od2tFVFR0dVpySXNPNldMNlA5bWxrcmsxTGdnQUVWU1dwbjVyMDBPTjNURGcxSXV3RU5MWS1STWRhOXNQZ3dYc3BZejhDSWt1ZWVJVA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "NVDA 261023 190.00C 期权链",
-   "title_zh": "NVDA 261023 190.00C 期权链报价与新闻",
    "sentiment": 0
   }
  ]
