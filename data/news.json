@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-23T23:51:37.055993+00:00",
+ "updated_at": "2026-10-24T00:06:36.202736+00:00",
  "market": {
-  "price": 210.96,
-  "change_pct": -0.59,
+  "price": 212.21,
+  "change_pct": -4.4,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 159
+   "avg": 0.39,
+   "count": 161
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 62% 分位"
+     "note": "现价处于52周区间 64% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +49.3%"
+     "note": "目标价中位数 $315（16家），隐含空间 +48.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（159条已评分）"
+     "note": "今日新闻情绪 +0.39（161条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $210.96 vs 20日均线 $225.54"
+     "note": "现价 $212.21 vs 20日均线 $226.25"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 62,
+   "price_52w_pct": 64,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 49.3,
-   "ma20": 225.54,
-   "as_of": "2026-10-23T23:51:37.042325+00:00"
+   "implied_upside_pct": 48.4,
+   "ma20": 226.25,
+   "as_of": "2026-10-24T00:06:36.193980+00:00"
   },
-  "pe_ttm": 26.8,
-  "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+49.3%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.0,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a1c96f70f135",
+   "title": "Amazon’s $5 billion Nvidia AI servers sit idle in warehouses amid data center power shortages - The American Bazaar",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRnk2d0hpNlpIbnU3NGRDOElmbS1uWnd5dDBrWXVKY09ZYjRpVkdDazZOdktabmJ1LVJ6LUVwcHgwTjFrQ0YwakFwOG9uei1HLXZDMjczSkJPcGxFdjBqbUVvaWJmZ09YLWhIWlVPb0M1MW5PeGdRSURjdkJhM0s1S1g0a3pLWDRXWFpSU25vd3ZPckg4LVhiX3RMbXRkV3E4NkE0UFZPclIweDMzWExTR0ZTcWpOVW9lcFBlZm5IeE0zSFI5dzBTMjdQalZSOUJLekJfQ3kwd1MyeTA",
+   "source": "The American Bazaar",
+   "published_at": "2026-10-23T23:54:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The American Bazaar",
+     "published_at": "2026-10-23T23:54:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRnk2d0hpNlpIbnU3NGRDOElmbS1uWnd5dDBrWXVKY09ZYjRpVkdDazZOdktabmJ1LVJ6LUVwcHgwTjFrQ0YwakFwOG9uei1HLXZDMjczSkJPcGxFdjBqbUVvaWJmZ09YLWhIWlVPb0M1MW5PeGdRSURjdkJhM0s1S1g0a3pLWDRXWFpSU25vd3ZPckg4LVhiX3RMbXRkV3E4NkE0UFZPclIweDMzWExTR0ZTcWpOVW9lcFBlZm5IeE0zSFI5dzBTMjdQalZSOUJLekJfQ3kwd1MyeTA"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
   {
    "id": "1b107ff2d4c1",
    "title": "Nvidia gives robot developers new tools to generate rare training scenarios - MIXED Reality News",
@@ -100,6 +117,23 @@
    "zh_summary": "三家AI芯片机型横向数据对比",
    "title_zh": "英伟达、AMD、苹果AI芯片机型数据横向对比",
    "sentiment": 0
+  },
+  {
+   "id": "e8367d2b22e0",
+   "title": "美股讯号 | 苹果盘中创历史新高，市值一度反超英伟达 ｜#美股资讯# #苹果# #股价波动# - 搜狐",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0NDUW9aSWFZSXlJRkc0WXM5US1JZFpuWkZlbkVYcHU4ZlEtR19MRy1EQXVMbW1iVDFQX1h4T2s1S3hlVE43emRLRl9MQl80VEFRdzhKSGoxcUlUVjhxVzFmSi0yQmRXZVg1ZHRhSXlocDhObFgySTFaSTVxYXVpY2FPMGx0UElCbFdTeQ",
+   "source": "搜狐",
+   "published_at": "2026-10-23T23:28:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-23T23:28:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa0NDUW9aSWFZSXlJRkc0WXM5US1JZFpuWkZlbkVYcHU4ZlEtR19MRy1EQXVMbW1iVDFQX1h4T2s1S3hlVE43emRLRl9MQl80VEFRdzhKSGoxcUlUVjhxVzFmSi0yQmRXZVg1ZHRhSXlocDhObFgySTFaSTVxYXVpY2FPMGx0UElCbFdTeQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "993691a58d50",
@@ -837,12 +871,17 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52MXZORGVJU2JuNDYydjVJY1ozOTc4Sk9DZnZNMjI5ajJNalMwUy1qU3kxNjlxYW1QRjRtUE9vUlZsdnFMRGE0YWJMUEtCdC0zWXhhT0lUR056bV9CZWZZUnJwR1pFcFRLdENLNmQwVEQ",
    "source": "中华网",
    "published_at": "2026-10-23T15:15:55+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "中华网",
      "published_at": "2026-10-23T15:15:55+00:00",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52MXZORGVJU2JuNDYydjVJY1ozOTc4Sk9DZnZNMjI5ajJNalMwUy1qU3kxNjlxYW1QRjRtUE9vUlZsdnFMRGE0YWJMUEtCdC0zWXhhT0lUR056bV9CZWZZUnJwR1pFcFRLdENLNmQwVEQ"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-23T23:52:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3hSaXV6ZHNHVjJsclZ1NnE2OGRYcUM1SHIwTEx5OVJ5VS0zN2s3Q285U3pRcFQ1VHBBWWtuZWxpV000R2lOUzBJMHV6Q0o3YmFZNFVYYW1Kdjl1MmtHZENLYlFQNGFaTURTLVF6WlgzME9NUV9GNGx0dF91YXN5bkZFckFvbFF5"
     }
    ],
    "category": "AI需求",
@@ -6137,7 +6176,7 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QeGlGU3pQQWhObmNYdXJ3YWota2lLRm5mdGxBVlVJaWl6ZmNyckxKU2gycG1LLWFuejRFbkc5OEl3VHBQTGwtcm1wWEtiYl9QYVdROXNiRU0ySVd1UUNfUUpJc01yS0NMcS1oLU5ZbzNIakdlMEl5Wg",
    "source": "新浪财经",
    "published_at": "2026-10-22T14:37:11+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "新浪财经",
@@ -6148,13 +6187,22 @@
      "name": "finance.sina.com.cn",
      "published_at": "2026-10-23T05:22:16+00:00",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYnpSQmdLOEtKVHFfWWh3dDYzakVpc0Z0Umc5aE5uNm5TX19odnVCZHFlWHF6Y2dvdjFOdlJMbHRtM1RsekprWTNPODAtYS1aalRBN1JKUDVtSVQwaHdvNENxN3IxR3FzVHNOVVBsTC1wNHN5OFl1cXdtTWpRVFFzbHJmanBUSXpPdUhnSUkzM3ZIVUx2dGZTMHZyOVJ5UWFvZlJpVXp1UERUR3NMRHBrYXEtLVBZTlg4bDZicERXRE0zX2h3bUZPRFZZVENacnlLYWNCeENNYUpMdw"
+    },
+    {
+     "name": "搜狐",
+     "published_at": "2026-10-23T23:52:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWElWcm10TjRCd09ZZ1NpWVdLRkd3cHZXZXQ1UnRhbF9qdHJpWkVyUUc3S3JvNmpmdUdjZURfY3JZZWpLV3FCLWl1U0NGRXpOelpWVU9TY3ZpcG81Mm1nS1ZrdkRpWHJWRzZDaWdZM1Y3cXk1Q3gtN28xQlJNbHdMRV9xRHU5Rl9y"
     }
    ],
    "category": "AI需求",
    "session": "盘中",
    "zh_summary": "英伟达强攻全球运营商，布局6G算力基站",
    "title_zh": "英伟达强攻全球运营商，深圳公司首发6G算力基站",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.57,
+    "window_h": 2.0
+   }
   },
   {
    "id": "cb303c387112",
@@ -6373,46 +6421,6 @@
    "session": "盘中",
    "zh_summary": "SEEQC用英伟达Ising加速量子纠错解码",
    "title_zh": "SEEQC用英伟达Ising实现更快量子纠错解码",
-   "sentiment": 1
-  },
-  {
-   "id": "c3ec8317ccd9",
-   "title": "AAPL Stock Hits Record High As Apple Tops Nvidia Market Cap Amid iPhone Duo Debut - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTDNJSXExelJGYWlmWmw1OVdUaHdiYlY1c0dpSi1QZjg4UFFkZ2lFSUxwdUZsQTVMSWwtMDREM1YtWlp0MFV1Uy1UMXliLThGU2lkdFFfRWNCTDZTUExSX0Z6SWxxWUdnTnVSM2cxek9uRXVIZTV6WlpOcXdweTJYSUsyZFNnTXBBdWN4MHdhNTVMaXBHUks1TWtsU0cxM2swRHQ0WTRORjYzNkd2TmE2cFYzQ2M4ZmE0czhMNDZBV1R1MG5KTmx4RXRrUXV5UVg5RmFlcXM0c1o3NDhKdWF0a3AyVGdoaGpVWlBQSnlCVW1NbGJz",
-   "source": "Stocktwits",
-   "published_at": "2026-10-22T14:15:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-22T14:15:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTDNJSXExelJGYWlmWmw1OVdUaHdiYlY1c0dpSi1QZjg4UFFkZ2lFSUxwdUZsQTVMSWwtMDREM1YtWlp0MFV1Uy1UMXliLThGU2lkdFFfRWNCTDZTUExSX0Z6SWxxWUdnTnVSM2cxek9uRXVIZTV6WlpOcXdweTJYSUsyZFNnTXBBdWN4MHdhNTVMaXBHUks1TWtsU0cxM2swRHQ0WTRORjYzNkd2TmE2cFYzQ2M4ZmE0czhMNDZBV1R1MG5KTmx4RXRrUXV5UVg5RmFlcXM0c1o3NDhKdWF0a3AyVGdoaGpVWlBQSnlCVW1NbGJz"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "苹果市值超越英伟达创新高",
-   "title_zh": "苹果股价创历史新高，市值超越英伟达",
-   "sentiment": -1
-  },
-  {
-   "id": "e14e5fd415a1",
-   "title": "Zadara Achieves NVIDIA AI Cloud Ready Validation for Sovereign AI Infrastructure Platform - citybiz",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUlpNMTlGbEpPTk5abTkydUFOblNPX3ZSdGtZVndENzNCdzNOYm1JQ05FNjJHeGlqVTUtNTJqU3JnODRJQjVGMnQ3MGQtQ0M2aHZFTHc4OW1rQVFvWkFBYTFNRGMwNnJmamhSZnJHM0hjbk1lM1ZNLVVUS0k2SUh3SW9qTXBXVEJDcnFmTFE2enNmQkVsbzdWTmhxdzNkck9PTUdrVnFZTDBxZzNsTXEwTnRWN1hMN0FFRmlJOGNmanZfTzBacGhz",
-   "source": "citybiz",
-   "published_at": "2026-10-22T14:03:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "citybiz",
-     "published_at": "2026-10-22T14:03:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUlpNMTlGbEpPTk5abTkydUFOblNPX3ZSdGtZVndENzNCdzNOYm1JQ05FNjJHeGlqVTUtNTJqU3JnODRJQjVGMnQ3MGQtQ0M2aHZFTHc4OW1rQVFvWkFBYTFNRGMwNnJmamhSZnJHM0hjbk1lM1ZNLVVUS0k2SUh3SW9qTXBXVEJDcnFmTFE2enNmQkVsbzdWTmhxdzNkck9PTUdrVnFZTDBxZzNsTXEwTnRWN1hMN0FFRmlJOGNmanZfTzBacGhz"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘中",
-   "zh_summary": "Zadara通过英伟达AI云认证",
-   "title_zh": "Zadara获英伟达AI云就绪认证，主权AI基建",
    "sentiment": 1
   }
  ]
