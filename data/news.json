@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T00:06:36.202736+00:00",
+ "updated_at": "2026-10-24T00:21:33.624155+00:00",
  "market": {
   "price": 212.21,
   "change_pct": -4.4,
@@ -10,8 +10,8 @@
    "days_left": 25
   },
   "day_sentiment": {
-   "avg": 0.39,
-   "count": 161
+   "avg": 0.38,
+   "count": 163
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（161条已评分）"
+     "note": "今日新闻情绪 +0.38（163条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 48.4,
    "ma20": 226.25,
-   "as_of": "2026-10-24T00:06:36.193980+00:00"
+   "as_of": "2026-10-24T00:21:33.613606+00:00"
   },
   "pe_ttm": 27.0,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "28de54d4d0fc",
+   "title": "英伟达推进AI-RAN，6G算力基站竞争升温 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGJuQ0pQQk04WjFUby1OSTdHUWNQSU9KaS1ubXVfbmdHV05rTXJ3cjRoNWR6RV83WVRaSEY0ZkhJVHlQWFVma3hkQXNVX2lPUHpIZEo4RklBbUhEa0RKTlFLTHlGZVQwREpLWWlDWUpFbXFIcWE5Q19rZ3FUSTY0a0NsRklFVjN5",
+   "source": "搜狐网",
+   "published_at": "2026-10-24T00:08:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-24T00:08:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGJuQ0pQQk04WjFUby1OSTdHUWNQSU9KaS1ubXVfbmdHV05rTXJ3cjRoNWR6RV83WVRaSEY0ZkhJVHlQWFVma3hkQXNVX2lPUHpIZEo4RklBbUhEa0RKTlFLTHlGZVQwREpLWWlDWUpFbXFIcWE5Q19rZ3FUSTY0a0NsRklFVjN5"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
+  {
+   "id": "6193eacd0fab",
+   "title": "NVIDIA RTX 5080 wholesale prices jump $300, while RTX 5070 Ti rises by $100 in China - TweakTown",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHRZekdwZC13TFlxMFh6VlI5OGF2TnV5THFWSmwtVENscW1ESWg3UzI1aHctZl9sLUxwWkMyRGk1VGFuLTFLUXRlSmxMb3BpUjFUenotdThwbzNwRUJSVDNndmRYdXFZUmhVb0NjY25wQno5UElmTzJ3dmYxcjhLRk1WU2Q3ZHFVZ1hHSHo0bnBhdU94a3RwM1FXMFNFOEFPXzdtQ01KaXpPV3p5MjNGZThPLVN0S1dpbnIyTzkyUnhxNUVUQl9sVDYxRlJmd1NoQmV4VlEzN2xnVTBF",
+   "source": "TweakTown",
+   "published_at": "2026-10-24T00:07:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TweakTown",
+     "published_at": "2026-10-24T00:07:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHRZekdwZC13TFlxMFh6VlI5OGF2TnV5THFWSmwtVENscW1ESWg3UzI1aHctZl9sLUxwWkMyRGk1VGFuLTFLUXRlSmxMb3BpUjFUenotdThwbzNwRUJSVDNndmRYdXFZUmhVb0NjY25wQno5UElmTzJ3dmYxcjhLRk1WU2Q3ZHFVZ1hHSHo0bnBhdU94a3RwM1FXMFNFOEFPXzdtQ01KaXpPV3p5MjNGZThPLVN0S1dpbnIyTzkyUnhxNUVUQl9sVDYxRlJmd1NoQmV4VlEzN2xnVTBF"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘后"
+  },
   {
    "id": "a1c96f70f135",
    "title": "Amazon’s $5 billion Nvidia AI servers sit idle in warehouses amid data center power shortages - The American Bazaar",
@@ -6388,46 +6422,6 @@
     "pct": -0.63,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "eaa076ac4a18",
-   "title": "Advanced Shader Delivery comes to all Nvidia RTX GPUs—but only for certain games - PC Gamer",
-   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOODZBMVpnQ3lwMXphc280aEtJbk5ROE1BWDc2MGxXTWVxTE9Lc0s4eGF0OXNiRTBjdHBYMTQtektvVkdEQWwxN2syVVdZc09IbDFNZ1pybkxTSUhmd0NiOEw4UUVzb2Q2M0NEcVF2bXMzSFdXYkdJTXJEMXFQcFNDVmZLWVZGOW84LVcxOVp1X1dHQmRrMVd6QW5yd2dKcFpHVlI2NzZTTjlTRkdDZjQzdXV0MUJCUWxTaExJZDF2cjJ1eVdoMXdyLXp0dFBXOVg0T09IU0NxSFJDXzFqMkJGMEM1SWhzLVBZVzU3Q2xaS05UUFFpNW5FZ3VzN0VvMjdzNHRoa3VSVS10RTNoQXROeW9yUm0xeGZUUzlCMWZJLTFvemdKV3B2MDQyRDBPeTFuV1A4S2ZvTjQ2QW02RXlnOFJGbmY3WnlEY0E",
-   "source": "PC Gamer",
-   "published_at": "2026-10-22T14:17:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "PC Gamer",
-     "published_at": "2026-10-22T14:17:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOODZBMVpnQ3lwMXphc280aEtJbk5ROE1BWDc2MGxXTWVxTE9Lc0s4eGF0OXNiRTBjdHBYMTQtektvVkdEQWwxN2syVVdZc09IbDFNZ1pybkxTSUhmd0NiOEw4UUVzb2Q2M0NEcVF2bXMzSFdXYkdJTXJEMXFQcFNDVmZLWVZGOW84LVcxOVp1X1dHQmRrMVd6QW5yd2dKcFpHVlI2NzZTTjlTRkdDZjQzdXV0MUJCUWxTaExJZDF2cjJ1eVdoMXdyLXp0dFBXOVg0T09IU0NxSFJDXzFqMkJGMEM1SWhzLVBZVzU3Q2xaS05UUFFpNW5FZ3VzN0VvMjdzNHRoa3VSVS10RTNoQXROeW9yUm0xeGZUUzlCMWZJLTFvemdKV3B2MDQyRDBPeTFuV1A4S2ZvTjQ2QW02RXlnOFJGbmY3WnlEY0E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "高级着色器交付覆盖所有RTX显卡",
-   "title_zh": "高级着色器交付登陆所有RTX显卡，但仅限部分游戏",
-   "sentiment": 1
-  },
-  {
-   "id": "e1b712964241",
-   "title": "SEEQC Reports Faster Quantum Error-Correction Decoding with NVIDIA Ising - HPCwire",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzlVQnpTVkJNT2VSQ21QVHhMM2F4TWZxVG9PZ1hHemhxYXpZU3VVUVd0U3doMnRqYk1HT3ZDQnBjaDB0MkNMd045MDJHbDh4aTJYcHhoR2ZubzdRVHdDS19COVBlcFZCM2RCZUt4WFEtWlFSaFE4T29welB5QVRwVVFIa3cwdG1pZDlpT1htUTZBcXVTVi0tck1vbzdtazRqUkRKTnZKaVVLRDQyUjlJ",
-   "source": "HPCwire",
-   "published_at": "2026-10-22T14:16:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "HPCwire",
-     "published_at": "2026-10-22T14:16:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzlVQnpTVkJNT2VSQ21QVHhMM2F4TWZxVG9PZ1hHemhxYXpZU3VVUVd0U3doMnRqYk1HT3ZDQnBjaDB0MkNMd045MDJHbDh4aTJYcHhoR2ZubzdRVHdDS19COVBlcFZCM2RCZUt4WFEtWlFSaFE4T29welB5QVRwVVFIa3cwdG1pZDlpT1htUTZBcXVTVi0tck1vbzdtazRqUkRKTnZKaVVLRDQyUjlJ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "SEEQC用英伟达Ising加速量子纠错解码",
-   "title_zh": "SEEQC用英伟达Ising实现更快量子纠错解码",
-   "sentiment": 1
   }
  ]
 }
