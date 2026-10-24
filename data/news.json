@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T08:06:29.592070+00:00",
+ "updated_at": "2026-10-24T08:21:28.563589+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 24
   },
   "day_sentiment": {
-   "avg": 0.67,
-   "count": 3
+   "avg": 0.6,
+   "count": 5
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.67（3条已评分）"
+     "note": "今日新闻情绪 +0.60（5条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-24T08:06:29.582289+00:00"
+   "as_of": "2026-10-24T08:21:28.540862+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -100,6 +100,23 @@
    "zh_summary": "英伟达发布RTX Remix 1.6",
    "title_zh": "英伟达发布RTX Remix 1.6，支持DLSS 5与《我的世界》Java版",
    "sentiment": 1
+  },
+  {
+   "id": "64fe99bb09b4",
+   "title": "NVIDIA confirms GeForce 621.01 driver bug causing video freezes and black screens - VideoCardz.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFNqNlhTV2JfSm5mWWQzc25TeVgwS0I3ck5JZkg3Nk1VYUhyQV9zNWRMc3RuRmlHcVpock44U0RQSC1iekpJY2ZOUUt5bnFDY2gwS0h2Zk5RRUR2bWR1M2pWRjF4TGNsMHJKZEJQdzMyZ09CTTYtQUxEaEo5cWhVMkRYTTVreTAzN3VTTjVHTlFUTTRfdkVwUlI3TVJFcUdmdk5xNzNiZ1l4TTkxOGc",
+   "source": "VideoCardz.com",
+   "published_at": "2026-10-24T07:45:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "VideoCardz.com",
+     "published_at": "2026-10-24T07:45:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFNqNlhTV2JfSm5mWWQzc25TeVgwS0I3ck5JZkg3Nk1VYUhyQV9zNWRMc3RuRmlHcVpock44U0RQSC1iekpJY2ZOUUt5bnFDY2gwS0h2Zk5RRUR2bWR1M2pWRjF4TGNsMHJKZEJQdzMyZ09CTTYtQUxEaEo5cWhVMkRYTTVreTAzN3VTTjVHTlFUTTRfdkVwUlI3TVJFcUdmdk5xNzNiZ1l4TTkxOGc"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
   },
   {
    "id": "83096762ff3b",
@@ -6442,26 +6459,6 @@
    "zh_summary": "英伟达与西门子医疗合作AI放疗",
    "title_zh": "英伟达与西门子医疗合作推出AI放疗项目",
    "sentiment": 1
-  },
-  {
-   "id": "85b13fe88fd6",
-   "title": "NVIDIA’s 12VHPWR Power Connector Has Boosted The Livelihood Of Repaired Technicians; One Shop Received Eight RTX 5090 & RTX 4090 GPUs In Two Days - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEFhOC03bXJ5WlVYQTk1b08xaUlGTkRjcXdhOGZ3WVZfWEZET1NBT1FjbnNIa21wZ283MmZhVnY0RWNYOHBLUlJtbzFSb3dJTlZGYW52TEZ1VDdMZTZNNTcxVTNHZDJxRC1BLV92LWE0YmZjZ3Q0ZURGTDVwZ2poa1g0WkpENC11dGp30gGQAUFVX3lxTFBPdnBNN0dnZUpRS3V2aXUyWDVobFhtSXlJdW8yeWZCR3FhbWZtZnFCdnhqTkRIMmh1RlZhdW9TLTJsZWVBcXV3OVdPcGJMN0R5MldtdDVHTF92S3daVkJ3YTB4Wk44MGZKdkFEWlg3N1d1SjVmRnppU3Zad1ZXelNBSk9IZFlzY3RIZllQME0yZA",
-   "source": "Wccftech",
-   "published_at": "2026-10-22T15:57:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-22T15:57:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZEFhOC03bXJ5WlVYQTk1b08xaUlGTkRjcXdhOGZ3WVZfWEZET1NBT1FjbnNIa21wZ283MmZhVnY0RWNYOHBLUlJtbzFSb3dJTlZGYW52TEZ1VDdMZTZNNTcxVTNHZDJxRC1BLV92LWE0YmZjZ3Q0ZURGTDVwZ2poa1g0WkpENC11dGp30gGQAUFVX3lxTFBPdnBNN0dnZUpRS3V2aXUyWDVobFhtSXlJdW8yeWZCR3FhbWZtZnFCdnhqTkRIMmh1RlZhdW9TLTJsZWVBcXV3OVdPcGJMN0R5MldtdDVHTF92S3daVkJ3YTB4Wk44MGZKdkFEWlg3N1d1SjVmRnppU3Zad1ZXelNBSk9IZFlzY3RIZllQME0yZA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达12VHPWR接口维修需求大增",
-   "title_zh": "英伟达12VHPWR电源接口养活了维修店",
-   "sentiment": 0
   }
  ]
 }
