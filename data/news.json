@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-24T01:21:31.889296+00:00",
+ "updated_at": "2026-10-24T01:36:31.761629+00:00",
  "market": {
-  "price": 212.21,
-  "change_pct": -4.4,
+  "price": 210.96,
+  "change_pct": -0.59,
   "as_of": "2026-10-23",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.36,
-   "count": 168
+   "count": 167
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 64% 分位"
+     "note": "现价处于52周区间 62% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +48.4%"
+     "note": "目标价中位数 $315（16家），隐含空间 +49.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（168条已评分）"
+     "note": "今日新闻情绪 +0.36（167条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $212.21 vs 20日均线 $226.25"
+     "note": "现价 $210.96 vs 20日均线 $225.54"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 64,
+   "price_52w_pct": 62,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 48.4,
-   "ma20": 226.25,
-   "as_of": "2026-10-24T01:21:31.875942+00:00"
+   "implied_upside_pct": 49.3,
+   "ma20": 225.54,
+   "as_of": "2026-10-24T01:36:31.672974+00:00"
   },
-  "pe_ttm": 27.0,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.4%空间：估值偏低，预期乐观"
+  "pe_ttm": 26.8,
+  "pe_pct_5y": 18,
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+49.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b1846149d4c0",
+   "title": "Huang Backs Kazakhstan’s AI Plans as NVIDIA Expands Partnerships - The Times Of Central Asia",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGJ1SlZ4NHN6MjkwSjRsbDQ4Rk1IZjdoNEY0bEZHZ0xkLTczZUJQaUFuRkpiR2wxeTY4aWxFYS1DS3c5VUY1ZklaVHNUay1Ic2ZZOHFMR3o5MkFObldNNTZHQy1ROTAteWl0QmhmdFdTNTFkNDU0cnh0Z0l6SHpyTktLcjZHRURSQVMyZg",
+   "source": "The Times Of Central Asia",
+   "published_at": "2026-10-24T01:24:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Times Of Central Asia",
+     "published_at": "2026-10-24T01:24:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGJ1SlZ4NHN6MjkwSjRsbDQ4Rk1IZjdoNEY0bEZHZ0xkLTczZUJQaUFuRkpiR2wxeTY4aWxFYS1DS3c5VUY1ZklaVHNUay1Ic2ZZOHFMR3o5MkFObldNNTZHQy1ROTAteWl0QmhmdFdTNTFkNDU0cnh0Z0l6SHpyTktLcjZHRURSQVMyZg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "d77fa6ae0d09",
    "title": "A卡也能提帧20%！英伟达经典工具更新：我的世界Java版支持光追 - 驱动之家",
@@ -925,6 +942,23 @@
    "zh_summary": "GPUDirect Storage读入GPU教程",
    "title_zh": "Python使用NVIDIA GPUDirect Storage读取GPU内存",
    "sentiment": 0
+  },
+  {
+   "id": "4e7f263fd99e",
+   "title": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc",
+   "source": "Yahoo! Finance Canada",
+   "published_at": "2026-10-23T15:19:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-23T15:19:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "91a480f87f18",
@@ -2844,26 +2878,6 @@
    "session": "盘前",
    "zh_summary": "Nykredit购入9,062,150股英伟达",
    "title_zh": "Nykredit购入9,062,150股NVDA股票",
-   "sentiment": 1
-  },
-  {
-   "id": "039560471c16",
-   "title": "NVIDIA Corporation $NVDA Shares Bought by Range Advisory LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTNOVkRoZU82UjRYTGNLdjdXNUVrTFdVbndjZzlxcWI5ZDVmMnpPVVNMWlNlY0E3Z21XZkJSQnVsWDdVS0xMbTZaT2MtbGNyeWk1NDFNRU8zbTVTaHA5WFRtenRrSnJlYzd1UVRhblJqVC1hSTVqYThhTXRpZGNOMV96SjR4QmZIMGFwd05qajlnWVZzSmZ6Tjd1UTVTRHNuRHVsZWQzZEgwZ3RJU2I0aFQ3ek82ODBEWUdIYw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-23T08:41:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-23T08:41:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaTNOVkRoZU82UjRYTGNLdjdXNUVrTFdVbndjZzlxcWI5ZDVmMnpPVVNMWlNlY0E3Z21XZkJSQnVsWDdVS0xMbTZaT2MtbGNyeWk1NDFNRU8zbTVTaHA5WFRtenRrSnJlYzd1UVRhblJqVC1hSTVqYThhTXRpZGNOMV96SjR4QmZIMGFwd05qajlnWVZzSmZ6Tjd1UTVTRHNuRHVsZWQzZEgwZ3RJU2I0aFQ3ek82ODBEWUdIYw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "机构Range Advisory买入NVDA股票",
-   "title_zh": "Range Advisory买入英伟达(NVDA)股票",
    "sentiment": 1
   },
   {
@@ -6389,31 +6403,6 @@
    "zh_summary": "NVIDIA发布蛋白质设计工具",
    "title_zh": "NVIDIA发布蛋白质设计工具，扩大生命科学布局",
    "sentiment": 1
-  },
-  {
-   "id": "ed1e995e2866",
-   "title": "Nvidia CEO Jensen Huang Says US Must Take China ‘Seriously,’ Warns Against Underestimating Its AI and Chi - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQb3d0amR6LVN1Zng3Z3hDWWF5X1M1bklrWHJFUkJfVlg2Uy00X1BQVkUzanpzVDljMVlqR1NyTUVhTUVlRGN6VmVyVlRNQTZiT0p6bjhoOFdxc1BmX2hQZUJjcXhJNWRqOVl0akJ6TVMxVG1NQlM5R0FBN2dPY29tRUVpRnk2S2NuT3Q3eTVyM1JMZWZka3h6cDllYW5hbHVma1A0ZVV2QmN2OXlJejl4MDkzMEIyY2FwMVVzdXNOOW9kc19kdGM3SmtkTmYyd2VmNWVFREpHRlJzeGdvSGRIQ1VNX0NMWVRVMk0ycDdUTnpVMko2Q0kzWlliQlZEZWxaM0VRM0pmV2ZJSDlBU2NBaVo1bVJ6VDBnbDZsdGFRTDJFT2RvWjlyR3RZTy1md1E3czZpdlllTi1Rb0F5X2J4NEVZU0Q",
-   "source": "Benzinga",
-   "published_at": "2026-10-22T14:29:09+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-22T14:29:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQb3d0amR6LVN1Zng3Z3hDWWF5X1M1bklrWHJFUkJfVlg2Uy00X1BQVkUzanpzVDljMVlqR1NyTUVhTUVlRGN6VmVyVlRNQTZiT0p6bjhoOFdxc1BmX2hQZUJjcXhJNWRqOVl0akJ6TVMxVG1NQlM5R0FBN2dPY29tRUVpRnk2S2NuT3Q3eTVyM1JMZWZka3h6cDllYW5hbHVma1A0ZVV2QmN2OXlJejl4MDkzMEIyY2FwMVVzdXNOOW9kc19kdGM3SmtkTmYyd2VmNWVFREpHRlJzeGdvSGRIQ1VNX0NMWVRVMk0ycDdUTnpVMko2Q0kzWlliQlZEZWxaM0VRM0pmV2ZJSDlBU2NBaVo1bVJ6VDBnbDZsdGFRTDJFT2RvWjlyR3RZTy1md1E3czZpdlllTi1Rb0F5X2J4NEVZU0Q"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-23T19:30:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVU1bXVnbG0xaVJfRVZySVhKNGctb3pqZXdqQXJoWVRfU3ljb3l6ZkZfWHBTejNMc0dTTFBwY0o1QlN0YlZWeGZQdlpDQzlVb2hMM3ZEekhiV21OQVZXeTlZWFJCdDlaVFlpS2l4UmE0bkxYcm9ZN2J4eFcwblA4MGtLNnd4Ymh5WktpbmlVQ0c4ckVwaVEw"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘中",
-   "zh_summary": "黄仁勋称美国须正视中国AI实力",
-   "title_zh": "黄仁勋：美国须正视中国，不要低估其AI和芯片实力",
-   "sentiment": 0
   }
  ]
 }
