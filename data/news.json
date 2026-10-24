@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T06:51:34.621687+00:00",
+ "updated_at": "2026-10-24T07:06:31.509190+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 24
   },
   "day_sentiment": {
-   "avg": 1.0,
-   "count": 1
+   "avg": 0.5,
+   "count": 2
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +1.00（1条已评分）"
+     "note": "今日新闻情绪 +0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-24T06:51:34.609851+00:00"
+   "as_of": "2026-10-24T07:06:31.500284+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -495,6 +495,23 @@
    "zh_summary": "油价飙升引发通胀忧虑，苹果市值一度超英伟达",
    "title_zh": "油价飙升引发通胀忧虑，苹果市值一度超英伟达",
    "sentiment": -1
+  },
+  {
+   "id": "6f56294c8cde",
+   "title": "Chinese startup claims its $2,000 mini PC can outperform Nvidia's DGX Spark - TechRadar",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNDFZQV9uak12T2p6WHhjX1ppTFBGM18wR0Nqc3FEQUVVbTdQQjZpVjdJM1FNMTNLWTFjOF9mSDlmd2d6bEpmQ3ZIdFQxX0FzY21rYkVzUUVXcWs3UHZtR2l1V2x1OUQzSGpmYnlKM2lSRTltX3UtWlZPQ2JhaTZPeDhydkhVUHRBSEt0QWo0TmlhSElRaXM4TVlRN2Y0YVp5RDBidHI0TXJ2RGwteVBCVkhSV09sOHlvUThkNXdQTzZrNGVWbF9UWUNDSlBSbDBIdTVubVllZ2piVVZfX0VhX05ZREtjaGV4QmJOZHlvcVhYb21IR05mMDBfcko0dVhHTW1WSUd0RlNSX1pmbXdRY1hB",
+   "source": "TechRadar",
+   "published_at": "2026-10-23T22:25:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechRadar",
+     "published_at": "2026-10-23T22:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNDFZQV9uak12T2p6WHhjX1ppTFBGM18wR0Nqc3FEQUVVbTdQQjZpVjdJM1FNMTNLWTFjOF9mSDlmd2d6bEpmQ3ZIdFQxX0FzY21rYkVzUUVXcWs3UHZtR2l1V2x1OUQzSGpmYnlKM2lSRTltX3UtWlZPQ2JhaTZPeDhydkhVUHRBSEt0QWo0TmlhSElRaXM4TVlRN2Y0YVp5RDBidHI0TXJ2RGwteVBCVkhSV09sOHlvUThkNXdQTzZrNGVWbF9UWUNDSlBSbDBIdTVubVllZ2piVVZfX0VhX05ZREtjaGV4QmJOZHlvcVhYb21IR05mMDBfcko0dVhHTW1WSUd0RlNSX1pmbXdRY1hB"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "6bf9e9fa65f0",
@@ -6437,40 +6454,6 @@
    "zh_summary": "Linux7.4优化调度，偏好英伟达Vera",
    "title_zh": "Linux 7.4改善短时任务调度延迟，倾向英伟达Vera SMT",
    "sentiment": 0
-  },
-  {
-   "id": "0797dc2362ab",
-   "title": "英伟达(NVDA.US)GTC柏林释放2027年增长信号！大摩看好供应链扩产与AI工厂提效重申首选股提供者智通财经 - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YalJsNW13XzJQWlEwU2czbmV2cEwxakZWOHB6eEtmN0VURWR3OFlDVGM0NW9BdVVYcmNPcWc2N0FGQWg5WjBRVlY3dlFXakV6YU9wSlRRTjZfQVNUNHFfR1M3eEJwcHRKZVhyNXNCMEQ",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-22T15:41:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-22T15:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YalJsNW13XzJQWlEwU2czbmV2cEwxakZWOHB6eEtmN0VURWR3OFlDVGM0NW9BdVVYcmNPcWc2N0FGQWg5WjBRVlY3dlFXakV6YU9wSlRRTjZfQVNUNHFfR1M3eEJwcHRKZVhyNXNCMEQ"
-    },
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-22T15:41:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2OWFlQklpVXNqTmctU0Q2QkFVV1ppS2ZZMjdnY29KS3VMalh6UjVSTGJ6OC1NUEp1V3dVaFcxWmppSWZiUEw3TDZweUxWeXdHaGo1QzZRYXc2al9VaGZNVA"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-22T15:41:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWEQyZXcwS1ViRFUtSk1WdjZyNXNnRllpNzJoU2x0Ty1wUTlQZFItbDRhLXdsbW1oMWVCN2ZHc1FOMGtiOWZxTW9mZFFMdjk2bzE2VGpENXlnUFRVc2xMcGxHOWtUV1VpQWJicnkzSTE2dnVrSnRZWEdNSG5lRnBOcy13WGRTZXNMcVJrdXJkUGlyYmVYOUxmRTh6WHg5djY3RTZpeA"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘中",
-   "zh_summary": "大摩重申英伟达首选股，看好2027增长",
-   "title_zh": "英伟达GTC柏林释放2027增长信号，大摩重申首选股",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.02,
-    "window_h": 2.0
-   }
   }
  ]
 }
