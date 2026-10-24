@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T06:06:33.188602+00:00",
+ "updated_at": "2026-10-24T06:21:29.899592+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,12 +10,12 @@
    "days_left": 24
   },
   "day_sentiment": {
-   "avg": 0.35,
-   "count": 179
+   "avg": 1.0,
+   "count": 1
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.35（179条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +1.00（1条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-24T06:06:33.171502+00:00"
+   "as_of": "2026-10-24T06:21:29.886815+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -87,7 +87,7 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUWhNSnd1RUlhbzFMUTh6MUlEMWM2MFRxSEpDeVhmS3ZLbHQ1dVc2djUzb0hVOFNLdE1GbC1XTGR5WHFaQUlDQWFIaVozQ1VrZUVlQ00wXzNSVFh4N2lBOXVxTVJ0dWo1ZXVjclpaWEFMdnFuXzJKUEtZaVlkT1daRFRnX0xfZ1Jka0pJTXpYNA",
    "source": "21财经",
    "published_at": "2026-10-24T04:35:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "21财经",
@@ -98,6 +98,11 @@
      "name": "搜狐网",
      "published_at": "2026-10-24T05:55:53+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNU9ieTNFNEJLNTNCd0FRQVI0aUhKVl8tUnkxbmpEeUstUEFYR0RGdGZmeThTOU91eUhldjVuV283Ri1MOUVLTWRRem54cF9EQW1OWFFUMWo1ZXNxMjJhR1pXU25jZGFhQkNESnF0MC1sS2s3SzdvaW0xdTRDM1pjWXFOcGRBS0Z1NE5kYg"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-24T05:55:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FVHY1c1hyakZxTWZ0RTV1ZVZrVHVYRXdBX3FDZXA3bGphYVR0RV9DRlMzMHlQODBuaURNSHVZY2dMaV9lN1hPUmFsVjkydnUzZDF2ZWk2MVBNY1FGTFppTW9HUEVvNlNyNkdsWEFuRGE4cHdCUzhwVw"
     }
    ],
    "category": "产品技术",
@@ -150,6 +155,23 @@
    "zh_summary": "32块英伟达B300 GPU现身中国电信",
    "title_zh": "中国电信机房现身32张英伟达B300 GPU",
    "sentiment": 0
+  },
+  {
+   "id": "2cc5e2386e1f",
+   "title": "Nvidia RTX 3090 performance nearly doubles with free GPU unlock, but there's a catch - Notebookcheck",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbkJJSkNlNzc3bnl5akhmYmFqMXpGTUx6WXczNW9YNGFlRzJFVk5kc3hiU256RVJ2V0xaZ0s2RVY2a3hvSjF1VzJoM0JuVmpDdlFOUndqRXZZbnJtWDIwZHU0WUVnRnI3a3VOQWhpLXlPYTFVaWhCZlRMOFItSHJuVGUwU01tajB3bEVuY2t3NURSVXhVNk1iQUtjaHNjQURMVmk1SkRSclFtRjM2Sldqa0pIRFptMXNjR04taVRLeVZwRjAzMTVB",
+   "source": "Notebookcheck",
+   "published_at": "2026-10-24T04:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Notebookcheck",
+     "published_at": "2026-10-24T04:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbkJJSkNlNzc3bnl5akhmYmFqMXpGTUx6WXczNW9YNGFlRzJFVk5kc3hiU256RVJ2V0xaZ0s2RVY2a3hvSjF1VzJoM0JuVmpDdlFOUndqRXZZbnJtWDIwZHU0WUVnRnI3a3VOQWhpLXlPYTFVaWhCZlRMOFItSHJuVGUwU01tajB3bEVuY2t3NURSVXhVNk1iQUtjaHNjQURMVmk1SkRSclFtRjM2Sldqa0pIRFptMXNjR04taVRLeVZwRjAzMTVB"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "90442cd04656",
@@ -4763,12 +4785,17 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwN24wVDl3WlMyb0dfdHR3Nmp5MXZRMHh3WjVGZjM2MVFySEk2TG5YMWZUUXhiV0l2R2drdnZ4a2VoeG1YeVlfcHFEeUI3VVRGUXc",
    "source": "凤凰网",
    "published_at": "2026-10-22T23:20:18+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "凤凰网",
      "published_at": "2026-10-22T23:20:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwN24wVDl3WlMyb0dfdHR3Nmp5MXZRMHh3WjVGZjM2MVFySEk2TG5YMWZUUXhiV0l2R2drdnZ4a2VoeG1YeVlfcHFEeUI3VVRGUXc"
+    },
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-23T06:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DZkF4N3BOM2tnX19FOEtHWUJqUG5QOVpPdEVvNHZDd2xTeEgxMDNDUGxRSzBQVy1fb1ZEcmY3QVdrd2tqZFU2ZnhJV0U2MGJ6Sml4UWQwVjUxS1lYUlYxMQ"
     }
    ],
    "category": "其他",
@@ -6440,26 +6467,6 @@
    "session": "盘中",
    "zh_summary": "英伟达推出Minerva监控AI基础设施",
    "title_zh": "英伟达推出“Minerva”监控AI基础设施",
-   "sentiment": 1
-  },
-  {
-   "id": "05cb33921d27",
-   "title": "红帽与英伟达扩大合作，共同保护自主AI智能体安全-AI基础设施 - 至顶网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpTURXSnlUbXpBelJCOGJlNEp2OFg3bVpuZUNERDN6MGdaSFFQVENPM01YVU02WnhoaHJhMUxsZDdpakF5a1MtMnFsYjYxTjFZZ0VrUkRjbzhBNTF1TUZpTHZUd1lqR3h2VDZQV3F4MEoydw",
-   "source": "至顶网",
-   "published_at": "2026-10-22T15:23:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "至顶网",
-     "published_at": "2026-10-22T15:23:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpTURXSnlUbXpBelJCOGJlNEp2OFg3bVpuZUNERDN6MGdaSFFQVENPM01YVU02WnhoaHJhMUxsZDdpakF5a1MtMnFsYjYxTjFZZ0VrUkRjbzhBNTF1TUZpTHZUd1lqR3h2VDZQV3F4MEoydw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "红帽与英伟达扩大合作保AI安全",
-   "title_zh": "红帽与英伟达扩大合作保护AI智能体安全",
    "sentiment": 1
   }
  ]
