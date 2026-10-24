@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T12:51:30.604454+00:00",
+ "updated_at": "2026-10-24T13:06:45.364676+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 24
   },
   "day_sentiment": {
-   "avg": 0.05,
-   "count": 21
+   "avg": 0.04,
+   "count": 23
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（21条已评分）"
+     "note": "今日新闻情绪 +0.04（23条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-24T12:51:30.579186+00:00"
+   "as_of": "2026-10-24T13:06:45.354609+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "1bd5f7bddef4",
+   "title": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNREdBbUlzTjJwaVZxY2oyTF9BM05GbTZ3U0dUOFZOMkxoME00ZTRoMmZzdTZYODdLWnk3MU0tb0hoWTZGdmZiR3RKNkVuZnNFXzBPT0xVcTNFSEhTcDlXeUJzRFQ1Vkd4YkxJQzE1VVg3WUlRc2JzOFJoZ0VOdWZNaFE5c2Zpa05BbDB4WGZYVTk2Z0JaYXlySWQ3aUFzM1FQ",
+   "source": "Data Center Dynamics",
+   "published_at": "2026-10-24T13:04:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Dynamics",
+     "published_at": "2026-10-24T13:04:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNREdBbUlzTjJwaVZxY2oyTF9BM05GbTZ3U0dUOFZOMkxoME00ZTRoMmZzdTZYODdLWnk3MU0tb0hoWTZGdmZiR3RKNkVuZnNFXzBPT0xVcTNFSEhTcDlXeUJzRFQ1Vkd4YkxJQzE1VVg3WUlRc2JzOFJoZ0VOdWZNaFE5c2Zpa05BbDB4WGZYVTk2Z0JaYXlySWQ3aUFzM1FQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
   {
    "id": "46ba2e3ca311",
    "title": "NVIDIA's latest 621.01 driver is causing a black screen and other issues - Sportskeeda Tech",
@@ -80,6 +97,23 @@
    "zh_summary": "英伟达最新驱动导致黑屏问题",
    "title_zh": "英伟达最新621.01驱动导致黑屏等问题",
    "sentiment": -1
+  },
+  {
+   "id": "5527e1b44c71",
+   "title": "黄仁勋出手！估值200亿，英伟达押注“华人机器人黑马” - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWXRRTE85b1J4cWNtNDBkTkdWTEpveFB6VDlQdW5IOXVrbGhRTGt0bFo0TW1TUTFhNDAxMmtwS2hjb1EwaHpIUm9TaFI5LU1pdm1CNXYxdWRwMGJrelJkaV8xU1VvcHl4bThhcUM1RmpXaVNEOXFMTzFGb3FTUDJ2QnY0djE4Um9ieWNz",
+   "source": "新浪财经",
+   "published_at": "2026-10-24T12:32:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-24T12:32:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWXRRTE85b1J4cWNtNDBkTkdWTEpveFB6VDlQdW5IOXVrbGhRTGt0bFo0TW1TUTFhNDAxMmtwS2hjb1EwaHpIUm9TaFI5LU1pdm1CNXYxdWRwMGJrelJkaV8xU1VvcHl4bThhcUM1RmpXaVNEOXFMTzFGb3FTUDJ2QnY0djE4Um9ieWNz"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "c62f1717c34c",
@@ -120,6 +154,23 @@
    "zh_summary": "黄仁勋称英伟达GPU可用8年以上",
    "title_zh": "黄仁勋称英伟达GPU可用8年以上，残值率高",
    "sentiment": 1
+  },
+  {
+   "id": "3d080b8c5672",
+   "title": "英伟达作为AI融资方的角色面临首次大考，neocloud承压 - 币界网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wWVRDSHlnTnpWTmx3bnVCSlQxcno0WFprZkFmZFp5V05fem1jMHExMUdscXlfSDR2X3pCYTd1RFdhanN4RFZuQjBUVUdXMnRsd0E",
+   "source": "币界网",
+   "published_at": "2026-10-24T11:29:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "币界网",
+     "published_at": "2026-10-24T11:29:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wWVRDSHlnTnpWTmx3bnVCSlQxcno0WFprZkFmZFp5V05fem1jMHExMUdscXlfSDR2X3pCYTd1RFdhanN4RFZuQjBUVUdXMnRsd0E"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "928263b3eacd",
@@ -650,6 +701,23 @@
    "zh_summary": "微星首发全球首款RTX Spark二合一笔记本",
    "title_zh": "微星发布N16 Flip AI+，全球首款RTX Spark二合一笔记本",
    "sentiment": 1
+  },
+  {
+   "id": "610c476d908a",
+   "title": "英伟达、谷歌加持 B站启动AI创造公开赛新赛季 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtM0xJMHZQQ3pVWDhWeUVPdEJVQjZOa1hKLUY4cTVOMm9uUndhaS1BWG5nQVIyWjJHcHhKNGJoQWNFS3dMRFRfc2VfYw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-24T03:52:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-24T03:52:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtM0xJMHZQQ3pVWDhWeUVPdEJVQjZOa1hKLUY4cTVOMm9uUndhaS1BWG5nQVIyWjJHcHhKNGJoQWNFS3dMRFRfc2VfYw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "7f6cf1f6566f",
@@ -6416,96 +6484,6 @@
    "session": "盘中",
    "zh_summary": "英伟达发布企业级安全AI智能体OpenShell",
    "title_zh": "NVIDIA发布面向企业级安全的AI智能体OpenShell",
-   "sentiment": 1
-  },
-  {
-   "id": "9e580052fb69",
-   "title": "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWVFaTJIaGs0OVk3TE9SSWFtbXE5WlRwLU9WNUxxeW5rOXdlX0EyaVJHd2UtWUpjRW1kNUVxb1BZZVZGcDlmQ0xpMXI0MlJlYWJXY1h3YlZyZWxlY1ZtRFgzODF1OENET3dCM3FLQm5oaFRSZFhNOGR0QVVoUHRKNS1pMW1oSVdiTmh6UzVEUkZ4aklMaFF6Mg",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-22T18:08:36+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-22T18:08:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWVFaTJIaGs0OVk3TE9SSWFtbXE5WlRwLU9WNUxxeW5rOXdlX0EyaVJHd2UtWUpjRW1kNUVxb1BZZVZGcDlmQ0xpMXI0MlJlYWJXY1h3YlZyZWxlY1ZtRFgzODF1OENET3dCM3FLQm5oaFRSZFhNOGR0QVVoUHRKNS1pMW1oSVdiTmh6UzVEUkZ4aklMaFF6Mg"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T18:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOWdQejdyckJGOE45aGRad1Rfekc2TDdOaEdFTThuWDE2VV9xTjZ1cjBLTkxPUDBsTXdWTGNKSFItc29Fc0ZmTWYtLXBlSHYtcUc4ZzNWU0tkOWJnNjdzaHJMOFMzUkdCTTNsbi1jejMtWXJBenZUZi16RXpjQmJGbGtWeFFmQzg5dEdySlBR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达欲进军CPU市场",
-   "title_zh": "英伟达为何想进军CPU市场",
-   "sentiment": 0
-  },
-  {
-   "id": "02cce71e5cbb",
-   "title": "BNP Paribas Delivers Bullish Message for Nvidia Stock Investors - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmRxVXM0OWU5bnBvRHo2b2U2bjBpUWcwWHQxMmR2MHVQeUJ5WDdFOGFxeU1DNWdFUTJEemNEeExNd09YN2VYZ0hvSGdFWXBrN3JpTzQwX2t2RmNBaTc5RVlQbGV0eXY2SlJwMzVGWlhFVnF2eFE0SkpTWUdFYTN1dXdjaVFVVkNYcEo1czZMbHg3VFFWa0dlYzBHMjJWUkF6VHBJSg",
-   "source": "GuruFocus",
-   "published_at": "2026-10-22T18:00:53+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-22T18:00:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmRxVXM0OWU5bnBvRHo2b2U2bjBpUWcwWHQxMmR2MHVQeUJ5WDdFOGFxeU1DNWdFUTJEemNEeExNd09YN2VYZ0hvSGdFWXBrN3JpTzQwX2t2RmNBaTc5RVlQbGV0eXY2SlJwMzVGWlhFVnF2eFE0SkpTWUdFYTN1dXdjaVFVVkNYcEo1czZMbHg3VFFWa0dlYzBHMjJWUkF6VHBJSg"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-22T18:34:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT19tUFo4NEN5NjNvY2FhNHdoRnNFQjZrNlA4cXMzaWl2Tm9lUWZJVjFwX0J2aGVyNXh0dG9KRmc2RDBYU1NCMW9oQWZBcTFEY2tPTVJqNFliZUxwbW16WWNCYVM0ZVk4MXc3eHBlR3puODZPd01wejdWazhEa1RJdndRNmxEcFR2ZGh1V2xhRUcwdVh3SEs3ZUFtcENwTXBRZkp4dVBrU3BSVi1iaC1fVGhKQnduY09ORC1Yd0p3Z0U"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "法巴黎银行看多英伟达股票",
-   "title_zh": "法巴黎银行向英伟达股票投资者释放看多信号",
-   "sentiment": 1
-  },
-  {
-   "id": "1b3140504f2f",
-   "title": "SpaceX Is Working With Nvidia, Apollo And Other Top Tech And Consulting Firms On A Grok Partnership Program - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkY5cVBsQ0VRdEhfeTN2dXctTmFfaDNXS0phX2dvdUZwTnZlbDVBRFRuWUx2cllXUmhHTWhGN3p1ZnNfM3MwakVhTTUtVUkySE1RcC1Ld05uU2RKdFB3bmI2eURiNHJ1cDFyUE1YVmt3OWhIUk9lMEZ1RXQzX0JDSXEtQ1NGbXJkNk1ZZ091U1NVNXluMlVlRjBNYVItMG8",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-22T17:56:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-22T17:56:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVkY5cVBsQ0VRdEhfeTN2dXctTmFfaDNXS0phX2dvdUZwTnZlbDVBRFRuWUx2cllXUmhHTWhGN3p1ZnNfM3MwakVhTTUtVUkySE1RcC1Ld05uU2RKdFB3bmI2eURiNHJ1cDFyUE1YVmt3OWhIUk9lMEZ1RXQzX0JDSXEtQ1NGbXJkNk1ZZ091U1NVNXluMlVlRjBNYVItMG8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "SpaceX与英伟达共建Grok计划",
-   "title_zh": "SpaceX联手英伟达共建Grok合作计划",
-   "sentiment": 1
-  },
-  {
-   "id": "19f0ff699034",
-   "title": "Nvidia’s Berlin GTC: Faster AI factories, lower power use and more secure agents - Network World",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVEV2eG92ZVFQSFNNOUdHMGJuUVdiZm1UZUJwcEYyZWh3UWdPdlplaWUwV3FSamdiWnprb2hocXFrb2lEMFJmLUpnbnlEcFhObnNtamZxQXpaYmlGV2I0TnlIX3RDdEtDdTJhT1h6RGpkZVIxSjFhUUVuMEJHek5wMHJ0Nkt1QVljVkdJMk1KTUVSenk5TDRkbGl1TnRVM0tXdUZDT0FrdVVYampLZThRRC1aX1RKSkVkZHl0YWxrSzZCRVViZ2c",
-   "source": "Network World",
-   "published_at": "2026-10-22T17:53:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Network World",
-     "published_at": "2026-10-22T17:53:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVEV2eG92ZVFQSFNNOUdHMGJuUVdiZm1UZUJwcEYyZWh3UWdPdlplaWUwV3FSamdiWnprb2hocXFrb2lEMFJmLUpnbnlEcFhObnNtamZxQXpaYmlGV2I0TnlIX3RDdEtDdTJhT1h6RGpkZVIxSjFhUUVuMEJHek5wMHJ0Nkt1QVljVkdJMk1KTUVSenk5TDRkbGl1TnRVM0tXdUZDT0FrdVVYampLZThRRC1aX1RKSkVkZHl0YWxrSzZCRVViZ2c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "柏林GTC：AI工厂提速功耗降低",
-   "title_zh": "英伟达柏林GTC：更快的AI工厂、更低功耗与更安全的智能体",
    "sentiment": 1
   }
  ]
