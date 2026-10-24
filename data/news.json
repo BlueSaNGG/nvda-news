@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T03:36:50.068984+00:00",
+ "updated_at": "2026-10-24T03:51:36.449425+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.35,
-   "count": 177
+   "count": 176
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.35（177条已评分）"
+     "note": "今日新闻情绪 +0.35（176条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-24T03:36:50.059913+00:00"
+   "as_of": "2026-10-24T03:51:36.432563+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -220,26 +220,6 @@
    "zh_summary": "亚马逊50亿美元英伟达服务器闲置",
    "title_zh": "亚马逊50亿美元英伟达AI服务器因电力短缺闲置仓库",
    "sentiment": -1
-  },
-  {
-   "id": "10a6a97971b8",
-   "title": "RAN：英伟达强攻全球运营商，深圳公司首发6G算力基站 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWElWcm10TjRCd09ZZ1NpWVdLRkd3cHZXZXQ1UnRhbF9qdHJpWkVyUUc3S3JvNmpmdUdjZURfY3JZZWpLV3FCLWl1U0NGRXpOelpWVU9TY3ZpcG81Mm1nS1ZrdkRpWHJWRzZDaWdZM1Y3cXk1Q3gtN28xQlJNbHdMRV9xRHU5Rl9y",
-   "source": "搜狐",
-   "published_at": "2026-10-23T23:52:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-23T23:52:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWElWcm10TjRCd09ZZ1NpWVdLRkd3cHZXZXQ1UnRhbF9qdHJpWkVyUUc3S3JvNmpmdUdjZURfY3JZZWpLV3FCLWl1U0NGRXpOelpWVU9TY3ZpcG81Mm1nS1ZrdkRpWHJWRzZDaWdZM1Y3cXk1Q3gtN28xQlJNbHdMRV9xRHU5Rl9y"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "深圳公司首发英伟达6G算力基站",
-   "title_zh": "RAN：英伟达强攻全球运营商，深圳公司首发6G算力基站 - 搜狐",
-   "sentiment": 1
   },
   {
    "id": "1b107ff2d4c1",
@@ -736,12 +716,17 @@
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMEQzN1RxYkZ3Q2ZFbDZoc0Myc1pOWkNEdzZMS29zaWgtaWc2bXpES1gxN0RnMnFqcUJ0c3dyWGVMdEV5Q3JKdjJOcDRjbW5UaTZZdlF0VTJzMm95SDd3Q29KZkRfdGl3TExVZjBxUzFJRVdTSmNnTkt2VXBpcmhEb0R0Q1MyNnpkTWNXUFlsQnRuSTdkbjV2SGdPUV96bzYyNmJvdXA4cE9ob1JoUWluU0QwMmZZNmZNbVQ0a1lOWFExaE9FdnpkQlpPZENLUG8",
    "source": "Barchart.com",
    "published_at": "2026-10-23T17:56:22+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Barchart.com",
      "published_at": "2026-10-23T17:56:22+00:00",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMEQzN1RxYkZ3Q2ZFbDZoc0Myc1pOWkNEdzZMS29zaWgtaWc2bXpES1gxN0RnMnFqcUJ0c3dyWGVMdEV5Q3JKdjJOcDRjbW5UaTZZdlF0VTJzMm95SDd3Q29KZkRfdGl3TExVZjBxUzFJRVdTSmNnTkt2VXBpcmhEb0R0Q1MyNnpkTWNXUFlsQnRuSTdkbjV2SGdPUV96bzYyNmJvdXA4cE9ob1JoUWluU0QwMmZZNmZNbVQ0a1lOWFExaE9FdnpkQlpPZENLUG8"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-23T17:56:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjR6T0V6QmV4alFCUjN1b3RLZnUtODc1Y2FhNlcxY2VUUHNIRmJnU1FxTlBMM2JOZmpLdm5vT3otWkplRUZCcnN0ZFk2SGNlZGNFSklCbmdVamwtYldkVkNhTHZ1ejI0VktKOFpxQ05EWHoySC1RV0dRUXpKRGhydkJFMkxaWjZjd2NuX2oxSlJJNzRIUTc0VkVvV0M4MkU"
     }
    ],
    "category": "其他",
@@ -1093,26 +1078,6 @@
    "session": "盘中",
    "zh_summary": "GPUDirect Storage读入GPU教程",
    "title_zh": "Python使用NVIDIA GPUDirect Storage读取GPU内存",
-   "sentiment": 0
-  },
-  {
-   "id": "4e7f263fd99e",
-   "title": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc",
-   "source": "Yahoo! Finance Canada",
-   "published_at": "2026-10-23T15:19:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-23T15:19:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达股票报价页面",
-   "title_zh": "NVIDIA Corporation (NVDA) 股票报价页面",
    "sentiment": 0
   },
   {
@@ -4852,6 +4817,31 @@
    }
   },
   {
+   "id": "bbc119119a72",
+   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance Australia",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E",
+   "source": "Yahoo Finance Australia",
+   "published_at": "2026-10-22T22:26:14+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance Australia",
+     "published_at": "2026-10-22T22:26:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E"
+    },
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-23T15:19:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "英伟达股票报价页面",
+   "title_zh": "NVIDIA Corporation (NVDA) 股票报价页面",
+   "sentiment": 0
+  },
+  {
    "id": "f3bd31f857b6",
    "title": "NVIDIA Expands AI Semiconductor Production with Key Component Partners - 조선일보",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkE4bTZydVFiaU8wQ0RVbnhoOV9VVEc4WUpyWHJkVnZBOWJWcW9zY0Q3ZERHeUhGYjlCdVRUN1VYUzBNSS1nV0V3NkdRZjJoODhqaE1OUGMyMGEzY21iM0FPcFVfZU83and4N1dXc0pHam5ZNS1fVm8zUktMV3dMREg4bVBPYjhU",
@@ -6422,6 +6412,23 @@
    "zh_summary": "前OpenAI数据中心负责人加盟英伟达",
    "title_zh": "前OpenAI数据中心负责人加盟英伟达，领导DSX平台团队",
    "sentiment": 1
+  },
+  {
+   "id": "122cc038b67f",
+   "title": "英伟达推动大扩产，CPO产能飙升30倍 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fdUxUcC1Cc1lNcjJCN3NSWnFjanVNc0FJaFhFQTBqNFM4ZnF2RFJZVGlYMzlWMzE2aENqaF82NXloTnF5ZmhMQkVtQk5sZEhOZGVEUkN4ZzBoLUI5SnMydEdQU2lVVHBnbkN0NTlyWUFLNHFvOFZIZQ",
+   "source": "新浪财经",
+   "published_at": "2026-10-22T14:37:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-22T14:37:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fdUxUcC1Cc1lNcjJCN3NSWnFjanVNc0FJaFhFQTBqNFM4ZnF2RFJZVGlYMzlWMzE2aENqaF82NXloTnF5ZmhMQkVtQk5sZEhOZGVEUkN4ZzBoLUI5SnMydEdQU2lVVHBnbkN0NTlyWUFLNHFvOFZIZQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   }
  ]
 }
