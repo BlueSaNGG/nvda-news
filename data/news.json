@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T11:36:37.624753+00:00",
+ "updated_at": "2026-10-24T11:51:39.502998+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 24
   },
   "day_sentiment": {
-   "avg": 0.17,
-   "count": 18
+   "avg": 0.05,
+   "count": 20
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.17（18条已评分）"
+     "note": "今日新闻情绪 +0.05（20条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-24T11:36:37.610322+00:00"
+   "as_of": "2026-10-24T11:51:39.493098+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -6254,6 +6254,23 @@
    "sentiment": 1
   },
   {
+   "id": "eb9b7de9d9df",
+   "title": "Nvidia Earnings Are Coming Next Month and the Stock Looks Poised to Dip Regardless of the Outcome - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTNVTmJUcmZjdmpCZFMzdVZObFBqY1BIME4wLWtDUC1CMGFZZTRQaUd3aFBfZEFqUXNyLXFabThtQzUzdVFsbVg3VXlxZ2kxT3pQNWp1T2lHNV8tbThXM19YRkVIaWxjV3J5a2xlTUJTc1lUcnlXVDJYM2pvRElXR2tRbXVCbHhBWHAyTmx5TjBTMzNLenBGQQ",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-22T18:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-22T18:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTNVTmJUcmZjdmpCZFMzdVZObFBqY1BIME4wLWtDUC1CMGFZZTRQaUd3aFBfZEFqUXNyLXFabThtQzUzdVFsbVg3VXlxZ2kxT3pQNWp1T2lHNV8tbThXM19YRkVIaWxjV3J5a2xlTUJTc1lUcnlXVDJYM2pvRElXR2tRbXVCbHhBWHAyTmx5TjBTMzNLenBGQQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
    "id": "efed41582e53",
    "title": "US AI chip export controls push Nvidia stock down 4.35% - Traders Union",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVV2TTA4YXdzRGRHLWxNcDluMXhJRGFqQTJzbFAwNk5ZRkdMRzZycjI0a2ltUV9rVnNSWWJWVEs3R2V4RlFxQnM3T3IxaHVELVJnclZqVVNBc3FIZGFDdUdiRWwza05ST2dkckppbVY4ZjA2bGtEbWVvdWZKTUw1NUlOZHd3N2RuUElJR1M4dEtnUQ",
@@ -6461,26 +6478,6 @@
    "session": "盘中",
    "zh_summary": "HPE扩大英伟达AI工厂产品组合",
    "title_zh": "HPE扩大NVIDIA AI工厂产品组合，面向智能体与主权AI",
-   "sentiment": 1
-  },
-  {
-   "id": "a2e161b40bc9",
-   "title": "Nvidia launches Minerva to catch failing parts in giant AI data centres - The Next Web",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yVTFZbXFBSW5aX3I4RnVzSi1fYnJIVzlYQjVXWktlNDlOQ2dQaGh0NnFVVjdoMlgydTdjQlZqdHNnQVBMeE9UTWdfaTJ5cUtyX0NSZ3FCYW9leXduMEE2UktjQTIzR0F4Vm5oVTg4UkkzZ1V4cEN0YTBR",
-   "source": "The Next Web",
-   "published_at": "2026-10-22T17:25:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Next Web",
-     "published_at": "2026-10-22T17:25:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yVTFZbXFBSW5aX3I4RnVzSi1fYnJIVzlYQjVXWktlNDlOQ2dQaGh0NnFVVjdoMlgydTdjQlZqdHNnQVBMeE9UTWdfaTJ5cUtyX0NSZ3FCYW9leXduMEE2UktjQTIzR0F4Vm5oVTg4UkkzZ1V4cEN0YTBR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达推出Minerva检测数据中心故障部件",
-   "title_zh": "英伟达推出Minerva，检测大型AI数据中心故障部件",
    "sentiment": 1
   }
  ]
