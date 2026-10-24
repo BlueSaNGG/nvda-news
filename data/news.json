@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T14:36:37.042535+00:00",
+ "updated_at": "2026-10-24T14:51:34.632397+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 24
   },
   "day_sentiment": {
-   "avg": 0.03,
-   "count": 29
+   "avg": 0.0,
+   "count": 32
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.03（29条已评分）"
+     "note": "今日新闻情绪 +0.00（32条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-24T14:36:37.027700+00:00"
+   "as_of": "2026-10-24T14:51:34.621652+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -67,12 +67,17 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zblBmZ09hcTFkSEJVakNhZG9ndkVPb0k3ZGxENU03ZmVCNHVqbWVXX0o0WGVpNnlHY1hfVWlGclFZM1BhRDFEREJEUUFaTWJmUXRRQV9WdV8",
    "source": "驱动之家",
    "published_at": "2026-10-24T14:24:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
      "published_at": "2026-10-24T14:24:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zblBmZ09hcTFkSEJVakNhZG9ndkVPb0k3ZGxENU03ZmVCNHVqbWVXX0o0WGVpNnlHY1hfVWlGclFZM1BhRDFEREJEUUFaTWJmUXRRQV9WdV8"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-24T14:24:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFQ5QXRRcHV1THVYRmozcDVOaDBXOXgwY0hzaXoxN2haVDBoZzNkTnYtS212dmo2VzdDT2FaVnk1UkFLc25ZV01nY0lkQ0Y3c2Z5RENPMGJOcFY2OWt0RmxnTTh1OFhVbEV3bGpzX0l2alBjTURxR0tZaDNoSTRXWV9Pdmp3MjZG"
     }
    ],
    "category": "产品技术",
@@ -100,6 +105,23 @@
    "zh_summary": "英伟达RTX80与AMD新品路线图泄露",
    "title_zh": "英伟达RTX80系列与AMD RDNA7路线图泄露",
    "sentiment": 0
+  },
+  {
+   "id": "949d07b4dbc5",
+   "title": "A closed Broadcom presentation with AMD and NVIDIA roadmaps has leaked online. - GameGPU",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3I0cmJtX2t2UzYweUUyM0xIZTBVU2JXNE80LVBfZmZMQ3RlcUpEU2ZwVTYwOV93UllPNEVwaDVaV3RIb1ZxdmdDMzlVTnktYldndkRCdTNIOWRibUpUQm91RFVNc2FEdE9jQm80c3FTRXozWkZrTFlVWjY1cWlMZHUwcE5zcWFiWWgyVnZZVmcwZWNjaEI4N2N5OERGeldEUkVrMnFPYUhCYUlkMFVRR240LUZGQQ",
+   "source": "GameGPU",
+   "published_at": "2026-10-24T14:11:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GameGPU",
+     "published_at": "2026-10-24T14:11:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ3I0cmJtX2t2UzYweUUyM0xIZTBVU2JXNE80LVBfZmZMQ3RlcUpEU2ZwVTYwOV93UllPNEVwaDVaV3RIb1ZxdmdDMzlVTnktYldndkRCdTNIOWRibUpUQm91RFVNc2FEdE9jQm80c3FTRXozWkZrTFlVWjY1cWlMZHUwcE5zcWFiWWgyVnZZVmcwZWNjaEI4N2N5OERGeldEUkVrMnFPYUhCYUlkMFVRR240LUZGQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "1bd5f7bddef4",
@@ -605,26 +627,6 @@
    "zh_summary": "机构卖出5331股英伟达股票",
    "title_zh": "XY Planning Network卖出5331股英伟达",
    "sentiment": 0
-  },
-  {
-   "id": "bd5ed1d9fe3d",
-   "title": "NVIDIA Corporation $NVDA Stock Bought by West Family Investments Inc. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWhtQXFpT3ZPM1dQeUdjTEFGc3g4cmpCQmE5SHJzdkYtbnZHWE1OcmxYbWhiVm5leURBX1RlRWU3c1JzVDNTa2tWUlphdG1LdVRUdFBYcUh3cTlYR0QyeFNucXY2RXhlaGNhNzNCeVR1OGtlSE84LVRPTnF0X1U5WUZEd0g0bGVFTVNBeG5HS3lpbzhvQ21RVkZTck9OQXlJMW56TGF4QzN4TlBoNldKdVRBa05TY0xMdTlKbU5UeGNqMEJyYnRN",
-   "source": "MarketBeat",
-   "published_at": "2026-10-24T08:21:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-24T08:21:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWhtQXFpT3ZPM1dQeUdjTEFGc3g4cmpCQmE5SHJzdkYtbnZHWE1OcmxYbWhiVm5leURBX1RlRWU3c1JzVDNTa2tWUlphdG1LdVRUdFBYcUh3cTlYR0QyeFNucXY2RXhlaGNhNzNCeVR1OGtlSE84LVRPTnF0X1U5WUZEd0g0bGVFTVNBeG5HS3lpbzhvQ21RVkZTck9OQXlJMW56TGF4QzN4TlBoNldKdVRBa05TY0xMdTlKbU5UeGNqMEJyYnRN"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "West Family增持英伟达股票",
-   "title_zh": "West Family Investments买入英伟达股票",
-   "sentiment": 1
   },
   {
    "id": "879faf849500",
@@ -3944,6 +3946,26 @@
    "sentiment": 1
   },
   {
+   "id": "a5b5f90da1ee",
+   "title": "NVIDIA Corporation $NVDA Stock Bought by Wellington Grp LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRzlISHRvMENSVGJydDhtakpKNmI4bk9qcTBBN2VTUUNWR0ZCdmhCZkl1dW9wczkwRHMzUGlwVGlFeFFBN1NnWWw2ZERCNzRyV1lIMzN2N3lBbnNXZ04xZTc1SzE5cmo4a18wYk44aGEzSXdKWmFMVUlXY3hCaVduZmtWUmZZUDFkQzlYYzVKbkE5eHdsTmhUYUlaV2pRalJCVi1yUFZLdVkzSzJMX1U4S19UN25fRWJGeVlj",
+   "source": "MarketBeat",
+   "published_at": "2026-10-23T08:41:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-23T08:41:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRzlISHRvMENSVGJydDhtakpKNmI4bk9qcTBBN2VTUUNWR0ZCdmhCZkl1dW9wczkwRHMzUGlwVGlFeFFBN1NnWWw2ZERCNzRyV1lIMzN2N3lBbnNXZ04xZTc1SzE5cmo4a18wYk44aGEzSXdKWmFMVUlXY3hCaVduZmtWUmZZUDFkQzlYYzVKbkE5eHdsTmhUYUlaV2pRalJCVi1yUFZLdVkzSzJMX1U4S19UN25fRWJGeVlj"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "West Family增持英伟达股票",
+   "title_zh": "West Family Investments买入英伟达股票",
+   "sentiment": 1
+  },
+  {
    "id": "0811b9aae09b",
    "title": "2,930 NVIDIA Corporation $NVDA Shares Acquired by Tucker Asset Management LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNVJsRGNnc1QtMXlIbjFpeUU1YjlvM3pxRjYwVjBqSFY5cWR3Nk9maEVTWmF1bFYwWW9ZNVctN2VUQ0NmdG95ZG95Z2I5TjQ3U1ZxZ2FmMExKclNLVDZGZUF4MlhXb211SXhrNmxXSElKUVItODdFYmJwak1BblA5WWo5UXpPZ2p4d2M3ZF9LR0hWQkVqY0gwUHZhYmNjZnVTYUpwcENLenh6aHBkbXVjeUxWYUV1eU0xMmF2dzI0VXp4c2xYeW1LX0tLaHl1NUQ3YkE",
@@ -6104,6 +6126,23 @@
    "sentiment": -1
   },
   {
+   "id": "85b65dd9dba8",
+   "title": "NVDA Stock Quote Price and Forecast - CNN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oakpQaVAtWVg3Rjh6M2FFaExEa1JVeThKN1FIX1p2OG1lWmVaVnhlU3Zsek42ZlRyd055aXc2dGNHa0NxV2RfU1I1dUoweXNi",
+   "source": "CNN",
+   "published_at": "2026-10-22T20:15:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNN",
+     "published_at": "2026-10-22T20:15:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oakpQaVAtWVg3Rjh6M2FFaExEa1JVeThKN1FIX1p2OG1lWmVaVnhlU3Zsek42ZlRyd055aXc2dGNHa0NxV2RfU1I1dUoweXNi"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "01e57fcffba6",
    "title": "Nvidia's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout - TradingView",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSGdvYi13UFJka3V2UG51ZFlFTGlOVzZzV3J5bkxyVjhyMjhZazQxZHB1bUFQTFhYNWxFX1pBV1o2TGpIRHFmY3RUTThlcmJzZzE1SFJvUHJ1REx1MFlGNjB4ZGNOeWctbll2RXpWNC1zbXRta2paOE1obnN5LUstTDVLQTg3eWxMUzFMY1VEVWE5MlM2MkthWm1qMS1oLVlseG1kbUZaZFZDTWtxV0xJcnlwa1p3cUNjLWhZRS1PN2xXYmFaUW5PYw",
@@ -6451,51 +6490,6 @@
    "session": "盘中",
    "zh_summary": "英伟达股价跌3.8%",
    "title_zh": "英伟达股价跌3.8%，DSX POD瞄准部署瓶颈",
-   "sentiment": -1
-  },
-  {
-   "id": "5d82ff90a389",
-   "title": "Nvidia Hyperion: European Projects and Partner Work - Channel Insider",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPay1VbF9mT2RYVmotU0FfMEZBM2NDVUF6WS12Y3I4eUliYnpHbFJKanNqWnNDWXllcVhKWGdvTmN5MkVOSndwUnFaeGlnalNLQ0JKMEFmUlh2ZDF6RkRxN3duaVpyUTRaUE0zSzdEUmR5OVlQVGh1d0l6YkQwNjdMNENYUi1ScExfa0Z2VEM3LTJKZw",
-   "source": "Channel Insider",
-   "published_at": "2026-10-22T18:54:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Channel Insider",
-     "published_at": "2026-10-22T18:54:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPay1VbF9mT2RYVmotU0FfMEZBM2NDVUF6WS12Y3I4eUliYnpHbFJKanNqWnNDWXllcVhKWGdvTmN5MkVOSndwUnFaeGlnalNLQ0JKMEFmUlh2ZDF6RkRxN3duaVpyUTRaUE0zSzdEUmR5OVlQVGh1d0l6YkQwNjdMNENYUi1ScExfa0Z2VEM3LTJKZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达Hyperion欧洲项目与合作伙伴动态",
-   "title_zh": "英伟达Hyperion：欧洲项目与合作伙伴动态",
-   "sentiment": 0
-  },
-  {
-   "id": "cc33aaeb77be",
-   "title": "Lumentum、Coherent，SK海力士、闪迪、美光、英伟达、AMD、迈威尔科技、台积电，深夜重挫 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KaGZvR1REYTRDMzNoLXBkY1lqWGxRT3ZpaFhpQXJpV1lXMEhycGVYLVJoTVZyUXZGaXh1UEdwZ3JCOG9ReVYyaHVqcFdrUy0tVi1RbXlQbTA3LUcxQmpMZF9ETHVVem9SSTNkOUJfRi1GZzlOTTB3bW5WTUM",
-   "source": "新浪财经",
-   "published_at": "2026-10-22T18:42:16+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-22T18:42:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KaGZvR1REYTRDMzNoLXBkY1lqWGxRT3ZpaFhpQXJpV1lXMEhycGVYLVJoTVZyUXZGaXh1UEdwZ3JCOG9ReVYyaHVqcFdrUy0tVi1RbXlQbTA3LUcxQmpMZF9ETHVVem9SSTNkOUJfRi1GZzlOTTB3bW5WTUM"
-    },
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-22T18:49:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTBTYi1RX0NJVnNienpPSF8xUHlpSGwyci1CUF9iMjdlekVOcTBIYTBjS3RDYTZpVTZZT3ZPZGRsSEFlbFZwUjBjT3Y2aUM2bE11YW1MNHZxTWtNbHZmYmtBWmVIZGZQS09kQ3VFT0FlZUluWkJZbGtvR0VHTzNvdWxjZU0zLVRGTEpsNQ"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘中",
-   "zh_summary": "英伟达等科技股深夜重挫",
-   "title_zh": "英伟达等科技股深夜重挫",
    "sentiment": -1
   }
  ]
