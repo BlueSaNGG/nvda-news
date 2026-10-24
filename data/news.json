@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T19:21:51.839510+00:00",
+ "updated_at": "2026-10-24T19:40:13.243429+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 24
   },
   "day_sentiment": {
-   "avg": 0.1,
-   "count": 50
+   "avg": 0.12,
+   "count": 51
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（50条已评分）"
+     "note": "今日新闻情绪 +0.12（51条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-24T19:21:51.827257+00:00"
+   "as_of": "2026-10-24T19:40:13.233102+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -337,6 +337,23 @@
    "sentiment": 1
   },
   {
+   "id": "72543f58130a",
+   "title": "AI热潮遭遇电力瓶颈：亚马逊大量英伟达GPU到货后暂时闲置 - cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aRHZWclNtOWlyZkpmNnY0MnBRWDZKbURmUlIxNFZkZjRHYXg5OTY4elpoV1dnUTc4SmdZdnVZWkdMOEljSThHZUtXR0dnUkJDX3c",
+   "source": "cnBeta.COM",
+   "published_at": "2026-10-24T14:33:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-24T14:33:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aRHZWclNtOWlyZkpmNnY0MnBRWDZKbURmUlIxNFZkZjRHYXg5OTY4elpoV1dnUTc4SmdZdnVZWkdMOEljSThHZUtXR0dnUkJDX3c"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "2e614d6b7905",
    "title": "Nvidia vs. Broadcom: One Grew AI Revenue 221% Last Quarter. The Other Grew 117%. - Barchart.com",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUZXZ0JzckR5ZHE5Qnl4bkgzVlhpWWFIUU5IbFNSenNva0EwcEdDbzQxcEx2ckFOZ2RMclF2eVBGVVcyQnQtOVFYRG1WMzFtUV8td2pCMkVjMEtfeVlaR2UwV0ZEUXBsTllGX1VWYnVtaGNtR1hfODV5UGFIYlhNaVVDY3l0aUJJRHVjWWhPZmVqaFZtdnZ4UXJLNXl5UHpYcWp2bEt2dmxxalVNREt3Zl84Sng1d0FQNmc",
@@ -440,6 +457,23 @@
    "zh_summary": "思科与英伟达发布高密度USFP模块",
    "title_zh": "思科与英伟达发布高密度USFP模块，提升AI工厂网络",
    "sentiment": 1
+  },
+  {
+   "id": "d06f11e7ee14",
+   "title": "特斯拉与英伟达巨额注资三星电机，助力AI芯片封装升级 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXJDbHpraUdpMDBFV1ltYXhkZ2oxXy1QUm9Dc3FabDdIQmlIV2Q0WGQ0VEJLRm1wV2syUGxiWHFFcmxTc3EyM2otcGZrQjItSTVYOHVQX084S00zcVpmOVdNYzNHVkdFWk41LUhFc3VFTWxiNy1ULUwxSDNRbE1QOERtc0dodGMt",
+   "source": "搜狐网",
+   "published_at": "2026-10-24T13:21:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-24T13:21:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMXJDbHpraUdpMDBFV1ltYXhkZ2oxXy1QUm9Dc3FabDdIQmlIV2Q0WGQ0VEJLRm1wV2syUGxiWHFFcmxTc3EyM2otcGZrQjItSTVYOHVQX084S00zcVpmOVdNYzNHVkdFWk41LUhFc3VFTWxiNy1ULUwxSDNRbE1QOERtc0dodGMt"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
   },
   {
    "id": "1bd5f7bddef4",
@@ -6471,46 +6505,6 @@
    "zh_summary": "英伟达发布Sentry安全AI代理方案",
    "title_zh": "英伟达Sentry：在BlueField-4上保障AI代理安全",
    "sentiment": 1
-  },
-  {
-   "id": "2ea57e0c6d3a",
-   "title": "Nvidia DSX POD Targets 14-Day AI Data Center Deployments - Channel Insider",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lbTlIamYtRnhwajh3R2hueG5ua1hiOVhwUDhydU15TDB5TVVOOURGazYwYU56RGkyRlNXSzNlMjNDUDZpUndZZ2FkQ0tJQXBvQms5YVl3a1RpZjhDZDRiS1I0NEZMRFc4MTRJa0IzZnNWWGFj",
-   "source": "Channel Insider",
-   "published_at": "2026-10-22T20:40:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Channel Insider",
-     "published_at": "2026-10-22T20:40:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lbTlIamYtRnhwajh3R2hueG5ua1hiOVhwUDhydU15TDB5TVVOOURGazYwYU56RGkyRlNXSzNlMjNDUDZpUndZZ2FkQ0tJQXBvQms5YVl3a1RpZjhDZDRiS1I0NEZMRFc4MTRJa0IzZnNWWGFj"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "英伟达DSX POD瞄准14天部署AI数据中心",
-   "title_zh": "英伟达DSX POD目标：14天内部署AI数据中心",
-   "sentiment": 1
-  },
-  {
-   "id": "a416a48e65df",
-   "title": "Which AMD GPU Is The Closest Equivalent To The Nvidia RTX 5070? - BGR",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44T1BZZ1FBNFB3RDkxRkgxN2tVVXJlclJKaFRoRk43dkpiRlppd3JNVlhuS3RzTUdsVlFHWFJrOHRTUkxVTkJSb2N1aWNYS1BQNUVBV1FfZlJrVHdQMVdBZzduLVRheWZ4c1kzWC1aRFZQcnM5ZkZWNnZiWGtPenM",
-   "source": "BGR",
-   "published_at": "2026-10-22T20:17:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BGR",
-     "published_at": "2026-10-22T20:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44T1BZZ1FBNFB3RDkxRkgxN2tVVXJlclJKaFRoRk43dkpiRlppd3JNVlhuS3RzTUdsVlFHWFJrOHRTUkxVTkJSb2N1aWNYS1BQNUVBV1FfZlJrVHdQMVdBZzduLVRheWZ4c1kzWC1aRFZQcnM5ZkZWNnZiWGtPenM"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "AMD哪款GPU对标RTX 5070",
-   "title_zh": "BGR对比哪款AMD显卡与RTX 5070最接近",
-   "sentiment": 0
   }
  ]
 }
