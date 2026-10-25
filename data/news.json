@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T19:51:39.632201+00:00",
+ "updated_at": "2026-10-25T20:06:34.721735+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 23
   },
   "day_sentiment": {
-   "avg": 0.36,
-   "count": 42
+   "avg": 0.33,
+   "count": 43
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.36（42条已评分）"
+     "note": "今日新闻情绪 +0.33（43条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-25T19:51:39.617027+00:00"
+   "as_of": "2026-10-25T20:06:34.700715+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "3a1b493926d5",
+   "title": "Nvidia (NVDA), CoreWeave (CRWV): $800B AI Spending Risk - Stocks Down Under",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xTmJtTjIzaVdHdEVaLUF2WmcyVjZ6NTZEQTNfV0NkVWF0NnlQU2FRSUhIQmc4eV93UmtDUHFJUGlHWnJqcUFWWWU4WVRFMHUxcUp2SXJLNGg5TDI4VlVFdU1LZ3Y3eVFvUUlRTVdHVjZPdzJJeE4w",
+   "source": "Stocks Down Under",
+   "published_at": "2026-10-25T20:01:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocks Down Under",
+     "published_at": "2026-10-25T20:01:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xTmJtTjIzaVdHdEVaLUF2WmcyVjZ6NTZEQTNfV0NkVWF0NnlQU2FRSUhIQmc4eV93UmtDUHFJUGlHWnJqcUFWWWU4WVRFMHUxcUp2SXJLNGg5TDI4VlVFdU1LZ3Y3eVFvUUlRTVdHVjZPdzJJeE4w"
+    }
+   ],
+   "category": "AI需求",
+   "session": "周末"
+  },
+  {
+   "id": "7d55792538fd",
+   "title": "Jensen Huang puts a $2,000-per-GPU yearly price on NVIDIA's AI Agent software - TweakTown",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWN3TFkwUmc5ZXRCTl9SMV93V3Q2ZzVVZHJtOXZyb3ZDTWEwbUxhS2g5WkN2aU9BX2VrcV80eklRblQ5cFAtSnBqTGZtVDEzQnZzcmt5UTBqdzFTcU9mQjFxcElPYlhVeVNlNGFmWmVBcWhIQ0g3b09OWVE5d0dMbnk1X053azdQeFVSUEx3VUFROE5jQkY0UEExQ09SRGxPVnM3dF9VWlpkVXcybXdEUlBxMjVVQmFDcDd2X0ZfY0NOQ1gxRHBnaElB",
+   "source": "TweakTown",
+   "published_at": "2026-10-25T19:50:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TweakTown",
+     "published_at": "2026-10-25T19:50:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWN3TFkwUmc5ZXRCTl9SMV93V3Q2ZzVVZHJtOXZyb3ZDTWEwbUxhS2g5WkN2aU9BX2VrcV80eklRblQ5cFAtSnBqTGZtVDEzQnZzcmt5UTBqdzFTcU9mQjFxcElPYlhVeVNlNGFmWmVBcWhIQ0g3b09OWVE5d0dMbnk1X053azdQeFVSUEx3VUFROE5jQkY0UEExQ09SRGxPVnM3dF9VWlpkVXcybXdEUlBxMjVVQmFDcDd2X0ZfY0NOQ1gxRHBnaElB"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
   {
    "id": "2093e46a27b6",
    "title": "Amkor Technology: Nvidia's $3 Billion Vote Of Confidence Lands On A De-Rated Stock (AMKR) - Seeking Alpha",
@@ -250,6 +284,23 @@
    "zh_summary": "1999美元RTX 5090成AI显存来源",
    "title_zh": "英伟达1999美元RTX 5090正成为AI的显存来源",
    "sentiment": 0
+  },
+  {
+   "id": "d121e1b84d8d",
+   "title": "U.S.-China AI rivalry forces countries to navigate competing technology blocs (NVDA:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUhSWGZJVzFWbXR0a09Nb2FMbVhIR2NkRko2eHRqQWFjT2JlaW0zTUNqSWp6cTUzZk9XUGNPR09yemVSQ240Y2haUEtSWURhZkFBWk1PVzBnZ2d3SnFMX3NZUVk1ai1VUEdDUWNLNXloTnFCZ2FjNmN1NEJrWnNDUmxvS2x2dzBBdnJ1WGUydkwyYXItU2M1VjRWN25TSWp2MzduV0h5U0RXZ3doTDFpcXhSUHc",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-25T15:57:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-25T15:57:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUhSWGZJVzFWbXR0a09Nb2FMbVhIR2NkRko2eHRqQWFjT2JlaW0zTUNqSWp6cTUzZk9XUGNPR09yemVSQ240Y2haUEtSWURhZkFBWk1PVzBnZ2d3SnFMX3NZUVk1ai1VUEdDUWNLNXloTnFCZ2FjNmN1NEJrWnNDUmxvS2x2dzBBdnJ1WGUydkwyYXItU2M1VjRWN25TSWp2MzduV0h5U0RXZ3doTDFpcXhSUHc"
+    }
+   ],
+   "category": "政策监管",
+   "session": "周末"
   },
   {
    "id": "d66aa115da6e",
@@ -2793,26 +2844,6 @@
    "sentiment": 1
   },
   {
-   "id": "7549b8545ac3",
-   "title": "英伟达停产传闻搅动华强北 显卡一日一价 炒至6万元 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWU0Q4akFiNXNIMWo1WkxiQlNFeHpGdkNhVXl4dUZiRW1qVGdNNGFoSXRSR0Z4ZktfTDNJT0hTQ2w3UjBRdURMOGtVdEdlQTZnTmRjbVFYTzNKTG9MVHBNNDdoeXpQZw",
-   "source": "东方财富",
-   "published_at": "2026-10-24T03:40:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-24T03:40:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWU0Q4akFiNXNIMWo1WkxiQlNFeHpGdkNhVXl4dUZiRW1qVGdNNGFoSXRSR0Z4ZktfTDNJT0hTQ2w3UjBRdURMOGtVdEdlQTZnTmRjbVFYTzNKTG9MVHBNNDdoeXpQZw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "停产传闻搅动华强北显卡炒至6万元",
-   "title_zh": "英伟达停产传闻搅动华强北 显卡一日一价 炒至6万元 - 东方财富",
-   "sentiment": 0
-  },
-  {
    "id": "169d4dd19344",
    "title": "Nvidia, TCV Back Higgsfield in AI Video Push - Briefs Finance",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcWI0VXRHY1VxWTRiajlHZHkwRkxFcnVFS1BMYXBwck5mdWxQR0lxcHliTUk3aElSYnRlRVBKMGkzUEJzQVo3SC0yd2hCMktSZWJWc2lRemhYR1pSbHVJQlBtQ3VLYXdkd0xDblNvMVJVallka2ppVUsyN3k2WUU5M203bUVscHpMb3JGbUsxblFnUQ",
@@ -2831,6 +2862,26 @@
    "zh_summary": "英伟达TCV投资AI视频公司Higgsfield",
    "title_zh": "英伟达与TCV支持Higgsfield的AI视频扩张",
    "sentiment": 1
+  },
+  {
+   "id": "7549b8545ac3",
+   "title": "英伟达停产传闻搅动华强北 显卡一日一价 炒至6万元 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWU0Q4akFiNXNIMWo1WkxiQlNFeHpGdkNhVXl4dUZiRW1qVGdNNGFoSXRSR0Z4ZktfTDNJT0hTQ2w3UjBRdURMOGtVdEdlQTZnTmRjbVFYTzNKTG9MVHBNNDdoeXpQZw",
+   "source": "东方财富",
+   "published_at": "2026-10-24T02:10:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-24T02:10:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWU0Q4akFiNXNIMWo1WkxiQlNFeHpGdkNhVXl4dUZiRW1qVGdNNGFoSXRSR0Z4ZktfTDNJT0hTQ2w3UjBRdURMOGtVdEdlQTZnTmRjbVFYTzNKTG9MVHBNNDdoeXpQZw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后",
+   "zh_summary": "停产传闻搅动华强北显卡炒至6万元",
+   "title_zh": "英伟达停产传闻搅动华强北 显卡一日一价 炒至6万元 - 东方财富",
+   "sentiment": 0
   },
   {
    "id": "7da36e82c011",
@@ -6357,76 +6408,6 @@
    "session": "盘前",
    "zh_summary": "一家机构增持7404股英伟达股票",
    "title_zh": "Brown Financial Advisors增持7404股英伟达",
-   "sentiment": 1
-  },
-  {
-   "id": "29df297433a7",
-   "title": "Nvidia launches Minerva AIOps platform for AI factory observability - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXptR0tLU2xnLVBhUjgwcl9zUzBpQmh4bHhwMFc0dERjeXI3NUVkTi1MZHZhc2x6MFNhaUhnbVV5cXFwSUpOemRlcXk5cEgxZmhpQi1LdjF1QTZjVERYTmlwSlVHNExnc1VpSUdXVy10VTU4Q2puWWFOLWYwcWduaW9fX09oUkFiZmFraQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-23T07:17:51+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-23T07:17:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXptR0tLU2xnLVBhUjgwcl9zUzBpQmh4bHhwMFc0dERjeXI3NUVkTi1MZHZhc2x6MFNhaUhnbVV5cXFwSUpOemRlcXk5cEgxZmhpQi1LdjF1QTZjVERYTmlwSlVHNExnc1VpSUdXVy10VTU4Q2puWWFOLWYwcWduaW9fX09oUkFiZmFraQ"
-    },
-    {
-     "name": "Developer Tech News",
-     "published_at": "2026-10-23T13:13:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVVV3RTlGMkNWRkZENTlkOTJIZWs0dHluUHN2eE1vallvS0JJdktKcWRKbGZkcW5VZkxIOHR1MVNUVld5YXQwVGV4cFdtVVdBckZvdXpUWGMtS3R3Nk1XUEdDUkFiLS04ZkhFMmVUeHRDMFVaMzdsbkhxb1dlMWpET0ZfaUtwMkVnWGNnRQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达发布Minerva AIOps平台",
-   "title_zh": "英伟达发布Minerva AIOps平台，用于AI工厂监控",
-   "sentiment": 1
-  },
-  {
-   "id": "c588e12d1fe4",
-   "title": "Nvidia’s Huang Reveals Investment in AI Video Unicorn Higgsfield - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHhEb3JuUm1ma05hdTNPb0hBc2lQbTFnNTF0ZThWZFBzUXpxSTM3Nmw2d05LRDVSRllZd1FJUHd3ekFPZmhCdjlQWWVvbnI1UklWeThscm9nTXZLSkVPTUxtS1VEYi1YSlJMZHlYdXJnbE9CRXdmYlNSc3dZdkhWZnl5QmhtMkZiMHFtdW14Yjh5bGRvaTBwRHN6bUt6MzNFTkVKMi1SbUZrVlBUbUpYUHo4SVA4YmVqT2RpZU5n",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-23T07:17:16+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-23T07:17:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHhEb3JuUm1ma05hdTNPb0hBc2lQbTFnNTF0ZThWZFBzUXpxSTM3Nmw2d05LRDVSRllZd1FJUHd3ekFPZmhCdjlQWWVvbnI1UklWeThscm9nTXZLSkVPTUxtS1VEYi1YSlJMZHlYdXJnbE9CRXdmYlNSc3dZdkhWZnl5QmhtMkZiMHFtdW14Yjh5bGRvaTBwRHN6bUt6MzNFTkVKMi1SbUZrVlBUbUpYUHo4SVA4YmVqT2RpZU5n"
-    },
-    {
-     "name": "Bloomberg",
-     "published_at": "2026-10-23T07:17:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHhEb3JuUm1ma05hdTNPb0hBc2lQbTFnNTF0ZThWZFBzUXpxSTM3Nmw2d05LRDVSRllZd1FJUHd3ekFPZmhCdjlQWWVvbnI1UklWeThscm9nTXZLSkVPTUxtS1VEYi1YSlJMZHlYdXJnbE9CRXdmYlNSc3dZdkhWZnl5QmhtMkZiMHFtdW14Yjh5bGRvaTBwRHN6bUt6MzNFTkVKMi1SbUZrVlBUbUpYUHo4SVA4YmVqT2RpZU5n"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋透露投资AI视频独角兽Higgsfield",
-   "title_zh": "黄仁勋透露投资AI视频独角兽Higgsfield",
-   "sentiment": 1
-  },
-  {
-   "id": "726448adf284",
-   "title": "European automakers look to Nvidia for self-driving tech - Ticker News",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOajNHdnBNVTFET3FjbUpYMXNxNVdYM0FVZTN5cDFsYnRqUGlxcllmZ3VLTDZsSHZicXAwTFJoQU01U0hYSW5vQnlGd1NVSm8wZlZtSTJpa2VTSzFveWl2S0lScFl2bk0zOTFKZWlvV2QzRk9wRnNVOVNTaUVOUDhqLXIwLTFPZw",
-   "source": "Ticker News",
-   "published_at": "2026-10-23T07:10:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Ticker News",
-     "published_at": "2026-10-23T07:10:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOajNHdnBNVTFET3FjbUpYMXNxNVdYM0FVZTN5cDFsYnRqUGlxcllmZ3VLTDZsSHZicXAwTFJoQU01U0hYSW5vQnlGd1NVSm8wZlZtSTJpa2VTSzFveWl2S0lScFl2bk0zOTFKZWlvV2QzRk9wRnNVOVNTaUVOUDhqLXIwLTFPZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "欧洲车企转向英伟达自动驾驶技术",
-   "title_zh": "欧洲车企转向英伟达寻求自动驾驶技术",
    "sentiment": 1
   }
  ]
