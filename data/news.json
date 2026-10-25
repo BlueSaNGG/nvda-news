@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T22:21:33.871524+00:00",
+ "updated_at": "2026-10-25T22:36:35.255741+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 23
   },
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 57
+   "avg": 0.24,
+   "count": 58
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（57条已评分）"
+     "note": "今日新闻情绪 +0.24（58条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-25T22:21:33.867651+00:00"
+   "as_of": "2026-10-25T22:36:35.240342+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -80,6 +80,23 @@
    "zh_summary": "标普500利润增30%，英伟达领涨",
    "title_zh": "标普500利润激增30%，由英伟达、美光领涨",
    "sentiment": 1
+  },
+  {
+   "id": "4b0a93337128",
+   "title": "Exclusive: “Buying More [NVIDIA] B200s And Fixing Runtimes Are Orthogonal” – How INT21’s AI Swarm Killed Python, Outcoded Human Experts, And Rewrote the Drama 3 Runtime In 60 Minutes - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOR29VRU9ES2dZNTFmYlE3dVB6NVBlMTdfSTZIT1ZJQnZaQkFUUTVDa0RFTDV4alJGR2Q5aGJRZUl5LVRjZldDM3ktMUpVZERIUFk1U0pXcF9vU19GbFVQeFpFNS1mb1MzZjJjM3hzUHRoaWdjWV9lOVJERnFIbzNoRXhJdHNCMmtEQk5JeGR2cm1wblFMcHNJX0g3U0UzU1BjeHlGeDJnTVoxbVpUbWdrM3ZsUjBoQzFkb2RyeGhGbXZ6ektmclctNjdYVnJ6TFJsem9QeWlqSGt1Q2ZDMGJYWWNoQlhXdjdrYzVNYlZnX3QwWExrLURfd3JMc09nODl3SlQ0TlFtU293T0c0bldJTV8zVTdyZ05nNnhLMnRXNNIBpAJBVV95cUxNVGRDdkJkRXd5Q01STldkVmVETjE3MldzZ0FYQTlJWmFlaFJiOXRjRnpJSUdDZDd2MFJkVWRoVmtCOHRTM1U4eXVBOHR0OVFpUGljMHU1MlNnOFV4bEhJRHBlUUFQQ2JHdjI5U1pOa3lNZWtiLXJJSmdHeVRGanhZNURXeVVwT3F2V3YxeTQ4RHlxZ0ZGdEhIWTNvMGxsaFpFT2dnRU9lVzN5cXZwbWs2OGdIZjJhRDdFdVFGR1NJaUNlVzB3Sy1pQmJVaklJMkJrM3FuaU9GTUdGcVo5M2JkbjFuX1h2SHRhUXJwVUJNV1RqZ2RfbXpVNmhld3VqLW9JV2xRVkZESHlMdFNVbUtmUWJ3dFRXX1ZvVkJvVmM1eXdFRnI4",
+   "source": "Wccftech",
+   "published_at": "2026-10-25T21:53:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-25T21:53:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOR29VRU9ES2dZNTFmYlE3dVB6NVBlMTdfSTZIT1ZJQnZaQkFUUTVDa0RFTDV4alJGR2Q5aGJRZUl5LVRjZldDM3ktMUpVZERIUFk1U0pXcF9vU19GbFVQeFpFNS1mb1MzZjJjM3hzUHRoaWdjWV9lOVJERnFIbzNoRXhJdHNCMmtEQk5JeGR2cm1wblFMcHNJX0g3U0UzU1BjeHlGeDJnTVoxbVpUbWdrM3ZsUjBoQzFkb2RyeGhGbXZ6ektmclctNjdYVnJ6TFJsem9QeWlqSGt1Q2ZDMGJYWWNoQlhXdjdrYzVNYlZnX3QwWExrLURfd3JMc09nODl3SlQ0TlFtU293T0c0bldJTV8zVTdyZ05nNnhLMnRXNNIBpAJBVV95cUxNVGRDdkJkRXd5Q01STldkVmVETjE3MldzZ0FYQTlJWmFlaFJiOXRjRnpJSUdDZDd2MFJkVWRoVmtCOHRTM1U4eXVBOHR0OVFpUGljMHU1MlNnOFV4bEhJRHBlUUFQQ2JHdjI5U1pOa3lNZWtiLXJJSmdHeVRGanhZNURXeVVwT3F2V3YxeTQ4RHlxZ0ZGdEhIWTNvMGxsaFpFT2dnRU9lVzN5cXZwbWs2OGdIZjJhRDdFdVFGR1NJaUNlVzB3Sy1pQmJVaklJMkJrM3FuaU9GTUdGcVo5M2JkbjFuX1h2SHRhUXJwVUJNV1RqZ2RfbXpVNmhld3VqLW9JV2xRVkZESHlMdFNVbUtmUWJ3dFRXX1ZvVkJvVmM1eXdFRnI4"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "87b9200d43f4",
@@ -6394,26 +6411,6 @@
    "zh_summary": "RTX 5080/5070 Ti最高涨价300美元",
    "title_zh": "RTX 5080/5070 Ti最高涨价300美元，迎更贵24GB版",
    "sentiment": 1
-  },
-  {
-   "id": "c1cce413ce6c",
-   "title": "10月23日晶丰明源涨停：英伟达概念，国产芯片，小米概念股概念热股_个股掘金 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzTFMwQzVVUEhEZmpmdWRDUWdJbGgwX0FxYnZOY2ZkV1ZKWmlKQkpHQVptODdBYVgyM0tuRFRoa1ViVFNVZ0d3elFEd2h2azVhTnFMeVBfM0tJME5lSFNCUlVR",
-   "source": "证券之星",
-   "published_at": "2026-10-23T08:31:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-23T08:31:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzTFMwQzVVUEhEZmpmdWRDUWdJbGgwX0FxYnZOY2ZkV1ZKWmlKQkpHQVptODdBYVgyM0tuRFRoa1ViVFNVZ0d3elFEd2h2azVhTnFMeVBfM0tJME5lSFNCUlVR"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "晶丰明源涨停：英伟达概念",
-   "title_zh": "晶丰明源涨停：英伟达概念，国产芯片",
-   "sentiment": 0
   }
  ]
 }
