@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T21:21:46.961400+00:00",
+ "updated_at": "2026-10-25T21:36:37.189384+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 23
   },
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 51
+   "avg": 0.2,
+   "count": 55
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（51条已评分）"
+     "note": "今日新闻情绪 +0.20（55条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-25T21:21:46.955717+00:00"
+   "as_of": "2026-10-25T21:36:37.181532+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6908284d7d2c",
+   "title": "英伟达公布欧洲自动驾驶布局：Bolt计划部署2.5万辆L4级Robotaxi - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3ZFE5eWZGY240em1vTUtOTU8xQS1CWk1mMUJKd3ZPay1oX2hoUmpnZjV4UTVqdW9QUFFlbGFzLU5VeXpHenFZNHJqOVMyQTlYSzY3Q2ZsYjlNS0E",
+   "source": "网通社",
+   "published_at": "2026-10-25T21:27:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-25T21:27:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3ZFE5eWZGY240em1vTUtOTU8xQS1CWk1mMUJKd3ZPay1oX2hoUmpnZjV4UTVqdW9QUFFlbGFzLU5VeXpHenFZNHJqOVMyQTlYSzY3Q2ZsYjlNS0E"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "a9267131af90",
    "title": "6,000 NVIDIA Corporation $NVDA Shares Purchased by Palogic Value Management L.P. - MarketBeat",
@@ -6399,26 +6416,6 @@
    "zh_summary": "谷歌亚马逊联手挑战英伟达CUDA生态",
    "title_zh": "谷歌亚马逊联手拆英伟达CUDA围墙，TPU快57%",
    "sentiment": -1
-  },
-  {
-   "id": "8cd1c4a15daf",
-   "title": "Qblox Advances Hybrid Quantum Computing with Integration of NVIDIA DGX Spark leveraging NVIDIA NVQLink - AiThority",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPT2ZSZE5CNWJlalhmSEhNZUVPOEo5bFU3VEdQRmlRMEtZYjhEdkltanlabE12N0VYSUFYMmYzWEV2Y3ZVQW1KWkdpdGkzTERacjZCWmZqdW56Zm1VSUFtbGx1VGdTNF9pX1Nhbmh3dG41SEI1ZVBtSGFXZ0h6Q1ZFLWp6ZEtuUkNMM0xyNnoxUXVNV0hpNkFKZ3E3bmNjY3ZVWm5IZ3M1YXFNa3F2QWdHRm9LYjczUDVoNXJpcGVSSzBVTF9lazM3TkdTNWFyNWtsYVJtTm9KVFk2THRLQkFsb3hsR3J3YUJCWlM2UDNjaFJnZmJiQ1diTF8wNWs3WlNrZWZXY2tJSQ",
-   "source": "AiThority",
-   "published_at": "2026-10-23T08:22:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "AiThority",
-     "published_at": "2026-10-23T08:22:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPT2ZSZE5CNWJlalhmSEhNZUVPOEo5bFU3VEdQRmlRMEtZYjhEdkltanlabE12N0VYSUFYMmYzWEV2Y3ZVQW1KWkdpdGkzTERacjZCWmZqdW56Zm1VSUFtbGx1VGdTNF9pX1Nhbmh3dG41SEI1ZVBtSGFXZ0h6Q1ZFLWp6ZEtuUkNMM0xyNnoxUXVNV0hpNkFKZ3E3bmNjY3ZVWm5IZ3M1YXFNa3F2QWdHRm9LYjczUDVoNXJpcGVSSzBVTF9lazM3TkdTNWFyNWtsYVJtTm9KVFk2THRLQkFsb3hsR3J3YUJCWlM2UDNjaFJnZmJiQ1diTF8wNWs3WlNrZWZXY2tJSQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "Qblox集成DGX Spark推进量子计算",
-   "title_zh": "Qblox集成英伟达DGX Spark推进混合量子计算",
-   "sentiment": 1
   }
  ]
 }
