@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T22:36:35.255741+00:00",
+ "updated_at": "2026-10-25T22:51:33.196409+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 23
   },
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 58
+   "avg": 0.25,
+   "count": 59
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（58条已评分）"
+     "note": "今日新闻情绪 +0.25（59条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-25T22:36:35.240342+00:00"
+   "as_of": "2026-10-25T22:51:33.183484+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "969a012238fc",
+   "title": "Infineon to Supply GaN Power Chips for Nvidia’s 800V Data Centers - THE ELEC, Korea Electronics Industry Media",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wcHk0bkhJNk5PZGJvdURQS2ZOa2FFMmN1SlVhQjFkanlmU2ZYYkVvRlpTdVZHbUlEYWFkQ2NKaXFleUNOa0x4N3NfZWFGV1NRTW1aa2huLTJtTGFrbmFmemVhTnowVWs",
+   "source": "THE ELEC, Korea Electronics Industry Media",
+   "published_at": "2026-10-25T22:29:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "THE ELEC, Korea Electronics Industry Media",
+     "published_at": "2026-10-25T22:29:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wcHk0bkhJNk5PZGJvdURQS2ZOa2FFMmN1SlVhQjFkanlmU2ZYYkVvRlpTdVZHbUlEYWFkQ2NKaXFleUNOa0x4N3NfZWFGV1NRTW1aa2huLTJtTGFrbmFmemVhTnowVWs"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
   {
    "id": "749f5bf741dd",
    "title": "S&P 500 Profits Surge 30% Led by NVIDIA, Micron - 조선일보",
@@ -1191,6 +1208,23 @@
    "zh_summary": "黄仁勋称新型云厂商需求旺盛但缺钱",
    "title_zh": "黄仁勋：新型云服务商需求高到离谱但缺钱",
    "sentiment": 0
+  },
+  {
+   "id": "1eff7d532287",
+   "title": "NVIDIA Corporation $NVDA Shares Acquired by Bouchey Financial Group Ltd. - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSzhnaVBNLTJBYVhqMy1MakNaTDdtcUJ5ZmRQWjFTaThDbVlpY2EzMWd4QnJ3RHpTVWhxSFNWcHN5d1BkTkNIcEg3TWlHb2pGaThWaVFNaWxzN0t0LUNobncyR2FJNV9yRG5mX1BJYW1sQURjQ0FDX2pVRUlhZExteGFENUV6bWdoRWptVG5VQXJ3WHdwM3J0eVVCSktSMlRqdHhqeWdHNkZodV81eVJ4a1QwbEZ6dkhnUldQY0pvNTBTN1pIUXA2QVdfUQ",
+   "source": "MarketBeat",
+   "published_at": "2026-10-25T07:27:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-25T07:27:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSzhnaVBNLTJBYVhqMy1MakNaTDdtcUJ5ZmRQWjFTaThDbVlpY2EzMWd4QnJ3RHpTVWhxSFNWcHN5d1BkTkNIcEg3TWlHb2pGaThWaVFNaWxzN0t0LUNobncyR2FJNV9yRG5mX1BJYW1sQURjQ0FDX2pVRUlhZExteGFENUV6bWdoRWptVG5VQXJ3WHdwM3J0eVVCSktSMlRqdHhqeWdHNkZodV81eVJ4a1QwbEZ6dkhnUldQY0pvNTBTN1pIUXA2QVdfUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "2dfb8b01b20e",
@@ -6373,46 +6407,6 @@
    "session": "盘前",
    "zh_summary": "弗吉尼亚退休基金购入5,180,598股NVDA",
    "title_zh": "弗吉尼亚退休基金购入5,180,598股NVDA股票",
-   "sentiment": 1
-  },
-  {
-   "id": "74333b76c930",
-   "title": "9,062,150 Shares in NVIDIA Corporation $NVDA Bought by Nykredit A S - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdHF6Z3oydW5KUjJoSjQwSFhpVFNhNE9FUFI1a2luZEhGaURVWmxkNWQ0TE5BQnhBVG1wdy1mRklQVlg0eFlHV3hJN3hNM2h0ZHhFUDd1RGJ4Z1FBQlZCLWRyWGVJR2NxbXNnN2FYUXFDNldDN1piMV82N0ZDYkl0eDZmX3hqVWM1ZlBlRkdBV2FRSUhMWnZ2enM4RW15M2x4cEgwS3RFWE5TSUNweFh3T19lWHNLZUJqbGFxRnVkbVRCbnM",
-   "source": "MarketBeat",
-   "published_at": "2026-10-23T08:41:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-23T08:41:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdHF6Z3oydW5KUjJoSjQwSFhpVFNhNE9FUFI1a2luZEhGaURVWmxkNWQ0TE5BQnhBVG1wdy1mRklQVlg0eFlHV3hJN3hNM2h0ZHhFUDd1RGJ4Z1FBQlZCLWRyWGVJR2NxbXNnN2FYUXFDNldDN1piMV82N0ZDYkl0eDZmX3hqVWM1ZlBlRkdBV2FRSUhMWnZ2enM4RW15M2x4cEgwS3RFWE5TSUNweFh3T19lWHNLZUJqbGFxRnVkbVRCbnM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Nykredit购入9,062,150股英伟达",
-   "title_zh": "Nykredit购入9,062,150股NVDA股票",
-   "sentiment": 1
-  },
-  {
-   "id": "3d1960b4ef29",
-   "title": "NVIDIA GeForce RTX 5080 & RTX 5070 Ti 16 GB Graphics Cards Witness A Huge Price Increase of Up to $300, As Market Prepares For An Even More Expensive 24 GB 5080 - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmZjdi15OG84TEpoNGFjM25NdDFpTXpLNDhVTG9fZ1hYSkdkX1BfTmNWcEVldVlPV3VMVjdTT2tKVnVMRE1HdkpBNzFGcVVBYW9ENUFXRnNNd1BRTHVyQ0tvVm4tUTFmbEtRQ3plUXdQa2s5VFJxeWE2SGJuRWl3LXRIUzF0NkJuX3dLSEJrc25GV2p5bWVfY2FaNWgzTGx0bWxIU9IBqgFBVV95cUxQd0sxSzdDamFMVWFVTkZoa1ZUb3lsM0poeEJGTTZOdWVRV0ViQ0tiV2VIdTJQNDdWNUVVVXZFb1psQTVrTERoNnBiNU9Mc2tyZGozWGVidGtvVk9yMi1tQ19ZUi1ST1lBcEMwcEdCRzFvdEdDODExenVKYzlEU19SOWlPV0VEWFlDcnhveGEweHg1UGdzcmZJUnpOSWs3TFF6NE5mOE11b2VfUQ",
-   "source": "Wccftech",
-   "published_at": "2026-10-23T08:40:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-23T08:40:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmZjdi15OG84TEpoNGFjM25NdDFpTXpLNDhVTG9fZ1hYSkdkX1BfTmNWcEVldVlPV3VMVjdTT2tKVnVMRE1HdkpBNzFGcVVBYW9ENUFXRnNNd1BRTHVyQ0tvVm4tUTFmbEtRQ3plUXdQa2s5VFJxeWE2SGJuRWl3LXRIUzF0NkJuX3dLSEJrc25GV2p5bWVfY2FaNWgzTGx0bWxIU9IBqgFBVV95cUxQd0sxSzdDamFMVWFVTkZoa1ZUb3lsM0poeEJGTTZOdWVRV0ViQ0tiV2VIdTJQNDdWNUVVVXZFb1psQTVrTERoNnBiNU9Mc2tyZGozWGVidGtvVk9yMi1tQ19ZUi1ST1lBcEMwcEdCRzFvdEdDODExenVKYzlEU19SOWlPV0VEWFlDcnhveGEweHg1UGdzcmZJUnpOSWs3TFF6NE5mOE11b2VfUQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "RTX 5080/5070 Ti最高涨价300美元",
-   "title_zh": "RTX 5080/5070 Ti最高涨价300美元，迎更贵24GB版",
    "sentiment": 1
   }
  ]
