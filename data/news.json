@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T19:06:32.142503+00:00",
+ "updated_at": "2026-10-26T19:21:32.684354+00:00",
  "market": {
-  "price": 216.23,
-  "change_pct": 2.5,
+  "price": 216.57,
+  "change_pct": 2.66,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.39,
-   "count": 182
+   "avg": 0.38,
+   "count": 185
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +45.7%"
+     "note": "目标价中位数 $315（16家），隐含空间 +45.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（182条已评分）"
+     "note": "今日新闻情绪 +0.38（185条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.23 vs 20日均线 $224.91"
+     "note": "现价 $216.57 vs 20日均线 $224.93"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 45.7,
-   "ma20": 224.91,
-   "as_of": "2026-10-26T19:06:32.130390+00:00"
+   "implied_upside_pct": 45.4,
+   "ma20": 224.93,
+   "as_of": "2026-10-26T19:21:32.665943+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "35845152a950",
+   "title": "Nvidia Already Makes Billions Selling AI Chips. Now It Wants $2,000 a Year for Each GPU - Gadget Review",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjdsVlNIZEJlQVRKcWFvSjBFclU4YXl5czg4UlBnNktXcTFDbWp5bnJiQVRVbTBWMmNXSnBmVFBRZFdvOFFCdEdPMWdRMzFfVDVxVW1DZ29hMzFYaTAwU1M3Q3FFNWtKTDdtRzRRal9xZkJwMlVYYnBmQm4zT2V1cjNYc3llM3cxc21RYkxGRXpGd0Njb1JacWF4SjVKeExMSEp6TXlGRnlpcHJoVWlSUTlwVQ",
+   "source": "Gadget Review",
+   "published_at": "2026-10-26T19:00:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Gadget Review",
+     "published_at": "2026-10-26T19:00:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObjdsVlNIZEJlQVRKcWFvSjBFclU4YXl5czg4UlBnNktXcTFDbWp5bnJiQVRVbTBWMmNXSnBmVFBRZFdvOFFCdEdPMWdRMzFfVDVxVW1DZ29hMzFYaTAwU1M3Q3FFNWtKTDdtRzRRal9xZkJwMlVYYnBmQm4zT2V1cjNYc3llM3cxc21RYkxGRXpGd0Njb1JacWF4SjVKeExMSEp6TXlGRnlpcHJoVWlSUTlwVQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "981896718c37",
    "title": "Elon Musk Sends Strong Warning to Nvidia-Backed Stocks - TradingView",
@@ -6662,26 +6679,6 @@
     "pct": 0.11,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "205035662472",
-   "title": "Modders unlock hidden AI performance on NVIDIA RTX 20, 30 and 40 series GPUs, with up to 2× tensor throughput - VideoCardz.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeUFBeGY4RmQyNWpQQlBJdUduVlNpQWY1Q3hEU3duaUFnOTRhVFV4eTM1Wng3NjlCQ19SQUFQRk90a3lORTNuVThURTRVcmVPRzZPTVpCa0VkNGtZLXpBcnpzcXl5ZXlaWlhfamt2SzN5N0tXN1FyQXVNLW9mUXdTMGVsUUt5elBPQ1NwaGdxRzJmUEFZb0tZMmRrWFFZSTVvNHF4TFhRSm5oNmw5dWE4ZDlZRmw3MGJZY1lOUDJwdnZDLVVBMk55NUpiM0Q5bi1G",
-   "source": "VideoCardz.com",
-   "published_at": "2026-10-25T08:28:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "VideoCardz.com",
-     "published_at": "2026-10-25T08:28:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeUFBeGY4RmQyNWpQQlBJdUduVlNpQWY1Q3hEU3duaUFnOTRhVFV4eTM1Wng3NjlCQ19SQUFQRk90a3lORTNuVThURTRVcmVPRzZPTVpCa0VkNGtZLXpBcnpzcXl5ZXlaWlhfamt2SzN5N0tXN1FyQXVNLW9mUXdTMGVsUUt5elBPQ1NwaGdxRzJmUEFZb0tZMmRrWFFZSTVvNHF4TFhRSm5oNmw5dWE4ZDlZRmw3MGJZY1lOUDJwdnZDLVVBMk55NUpiM0Q5bi1G"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "改装解锁RTX 20/30/40隐藏AI性能",
-   "title_zh": "改装者解锁RTX 20/30/40系列GPU隐藏AI性能，张量算力最高翻倍",
-   "sentiment": 1
   }
  ]
 }
