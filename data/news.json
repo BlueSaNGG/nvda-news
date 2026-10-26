@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T17:21:56.286876+00:00",
+ "updated_at": "2026-10-26T17:36:38.206659+00:00",
  "market": {
-  "price": 216.51,
-  "change_pct": 2.63,
+  "price": 216.06,
+  "change_pct": 2.42,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.39,
-   "count": 165
+   "avg": 0.38,
+   "count": 169
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +45.5%"
+     "note": "目标价中位数 $315（16家），隐含空间 +45.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（165条已评分）"
+     "note": "今日新闻情绪 +0.38（169条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.51 vs 20日均线 $224.92"
+     "note": "现价 $216.06 vs 20日均线 $224.90"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 45.5,
-   "ma20": 224.92,
-   "as_of": "2026-10-26T17:21:56.271377+00:00"
+   "implied_upside_pct": 45.8,
+   "ma20": 224.9,
+   "as_of": "2026-10-26T17:36:38.185283+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.5%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "f3e1efec0f68",
+   "title": "Schneider teams with HPE and Nvidia on industrial AI agents at the edge - Fierce Network",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGczRDFGYmlNM3M3dU5aaUZ4OG5DeXM5NDdIa3A1VFZzbHRRNGJlVjMwNHhSbERZZVcwNG1tMlpFNzRnbHpYLWc0M0txbjRHMk1YZ3JMRkRlWGxPMThZRkZ3WUJ5Zk5nSGtuZ3o4cjc5ZFF2bGdQYV9Hd2lIT3FSS0tZeUhmbVU1dUNCeTM4ZEdTYWFrTlZqZw",
+   "source": "Fierce Network",
+   "published_at": "2026-10-26T17:22:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Fierce Network",
+     "published_at": "2026-10-26T17:22:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGczRDFGYmlNM3M3dU5aaUZ4OG5DeXM5NDdIa3A1VFZzbHRRNGJlVjMwNHhSbERZZVcwNG1tMlpFNzRnbHpYLWc0M0txbjRHMk1YZ3JMRkRlWGxPMThZRkZ3WUJ5Zk5nSGtuZ3o4cjc5ZFF2bGdQYV9Hd2lIT3FSS0tZeUhmbVU1dUNCeTM4ZEdTYWFrTlZqZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "dd57a58d00d2",
    "title": "Cadence unveils Nvidia-powered AI data center in Munich, Germany - Data Center Dynamics",
@@ -100,6 +117,23 @@
    "zh_summary": "Anthropic人均营收超美股七巨头仅次英伟达",
    "title_zh": "Anthropic人均营收超过除英伟达外的所有七巨头",
    "sentiment": 0
+  },
+  {
+   "id": "53602dd3dc84",
+   "title": "Nvidia and Schneider test a digital twin to rehearse AI data center upgrades - MarketScale",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlVWRVc4R19wY2VDaEJsVFVsX1Y2TXlhaHk0NHR6WUtCYldCWE44NFVqZ2lMLXJWRVNNUWhSZnpXclFISEtmRHYxczJhVElFc29Pam5iY0lqSFpFSXdHZHJKNkNqdDZSeFBNaXhuMklvOUozTkkxRnVuQ0htMlM5clhPNkNoSGJ5OW1iaEtVWlNna2hYZEdrczNpdE1GaEVwZUx1V1cyUGV6b1pfQUI0VU14SE9xYWV0dy1vREtTRQ",
+   "source": "MarketScale",
+   "published_at": "2026-10-26T16:58:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketScale",
+     "published_at": "2026-10-26T16:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlVWRVc4R19wY2VDaEJsVFVsX1Y2TXlhaHk0NHR6WUtCYldCWE44NFVqZ2lMLXJWRVNNUWhSZnpXclFISEtmRHYxczJhVElFc29Pam5iY0lqSFpFSXdHZHJKNkNqdDZSeFBNaXhuMklvOUozTkkxRnVuQ0htMlM5clhPNkNoSGJ5OW1iaEtVWlNna2hYZEdrczNpdE1GaEVwZUx1V1cyUGV6b1pfQUI0VU14SE9xYWV0dy1vREtTRQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
   },
   {
    "id": "d124daccb93a",
@@ -6252,6 +6286,23 @@
    "sentiment": -1
   },
   {
+   "id": "d702b5a53405",
+   "title": "拉上英伟达硬刚苹果，微软的高端AI PC赌局 - 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9STUY0ekVmRFZrWTdoMU00c3p6QVdQWjdjM1RUSjVYQlhZNzNfOHVrOHRvRnd2NGk3WVY3cktxdm95S0k5NlMtRWFEbmhoNkpj",
+   "source": "36Kr",
+   "published_at": "2026-10-25T09:55:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "36Kr",
+     "published_at": "2026-10-25T09:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9STUY0ekVmRFZrWTdoMU00c3p6QVdQWjdjM1RUSjVYQlhZNzNfOHVrOHRvRnd2NGk3WVY3cktxdm95S0k5NlMtRWFEbmhoNkpj"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "bddf312137e8",
    "title": "Nvidia vs. Micron: The AI Revolution Is Big Enough for Both. Here's the Better Buy. - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdkF6S3hUY1BCbVMxcE1DUjdUS2dNSHhEX1IxTkQ2OEpOWXRkc2dMbjd6NzFkR1lDQjdpYnJjT0tUSTFTR1JSbmRPRmotQ01yS1hieElPbEJvQThwc2piWTBFTzByeldYQXFCcU5rNmVBM0w2T1RIcWROY3VlSUVvMGlGbkpaSjNoTlpoSm9JMFJzcTUwRHoxUA",
@@ -6593,66 +6644,6 @@
    "session": "周末",
    "zh_summary": "搭载16GB RTX 5060 Ti显卡的PC优惠",
    "title_zh": "搭载16GB显存RTX 5060 Ti显卡的游戏PC优惠，适合1440p游戏",
-   "sentiment": 0
-  },
-  {
-   "id": "0e55f3e24bf3",
-   "title": "Nvidia targets local AI assistants with a model built around a 4GB memory budget - MIXED Reality News",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56VnpNWnNtLUVLSThUcDJyb000TjktTTlpaFJ1REtWZU9uQUxpSnJ1alg2bVdaMmVtZ3hLWHlEc1lBS3ZFb2RTTGFUUk5kanp2d1NqeDZzR1d0cUQ4LUlUem5jeVBrUFM2WU1LRjJHNFo2cTBvNkxKR05n",
-   "source": "MIXED Reality News",
-   "published_at": "2026-10-25T03:24:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MIXED Reality News",
-     "published_at": "2026-10-25T03:24:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56VnpNWnNtLUVLSThUcDJyb000TjktTTlpaFJ1REtWZU9uQUxpSnJ1alg2bVdaMmVtZ3hLWHlEc1lBS3ZFb2RTTGFUUk5kanp2d1NqeDZzR1d0cUQ4LUlUem5jeVBrUFM2WU1LRjJHNFo2cTBvNkxKR05n"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达推出适配4GB内存的本地AI助手模型",
-   "title_zh": "英伟达瞄准本地AI助手，推出4GB内存预算模型",
-   "sentiment": 1
-  },
-  {
-   "id": "37a60210703a",
-   "title": "Penn Davis Mcfarland trims Nvidia stake by 4,287 shares - The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmQ2TFhCYzlKX2NuZmxpNG4waFVfMHVSZUVKMVNkSmwybGE3bTluWFBlLXF3QnE1MTFJYnU3WndqUGNkeVg1dWVkb1RuclUzTVFSWFVqd3NEWWZaT1JFNldlWTlyTUNrNDJrUHpuNVpYdGZ4TE05bFgwY2ZLbThDZC02MkpGZThCQ2dNcHdzeS1qYUZLQkZmTkgxYzBRY0dHa2IyUlRNZ3gxSVgybE40UC16ck5xdEszejhhMlNxOV93OU8xcGZDdWNhWVRwTm41Tlk4WHln",
-   "source": "The Globe and Mail",
-   "published_at": "2026-10-25T03:08:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-25T03:08:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmQ2TFhCYzlKX2NuZmxpNG4waFVfMHVSZUVKMVNkSmwybGE3bTluWFBlLXF3QnE1MTFJYnU3WndqUGNkeVg1dWVkb1RuclUzTVFSWFVqd3NEWWZaT1JFNldlWTlyTUNrNDJrUHpuNVpYdGZ4TE05bFgwY2ZLbThDZC02MkpGZThCQ2dNcHdzeS1qYUZLQkZmTkgxYzBRY0dHa2IyUlRNZ3gxSVgybE40UC16ck5xdEszejhhMlNxOV93OU8xcGZDdWNhWVRwTm41Tlk4WHln"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "机构减持英伟达4287股",
-   "title_zh": "Penn Davis Mcfarland减持英伟达4287股",
-   "sentiment": -1
-  },
-  {
-   "id": "781ac774fa6a",
-   "title": "每月收入10亿净赚4亿，中国英伟达，在2026年大赚特赚！ - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR01zOVFobVYyUzFCV1hzOS00QTV6bXo4enhicTJJX1k0TXpDN2NOUnNBdDA5WUJKZmI5X3dwdndqRkVLUjRzWTJzZV9KN3B4MkJnVzlkMy1iSERDOWRLX19ZQzAxaHBDcEpwVUpzT3NWejJ2d0Rmak5LNVpBVDNhVzJkQ3U",
-   "source": "搜狐网",
-   "published_at": "2026-10-25T02:49:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-25T02:49:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR01zOVFobVYyUzFCV1hzOS00QTV6bXo4enhicTJJX1k0TXpDN2NOUnNBdDA5WUJKZmI5X3dwdndqRkVLUjRzWTJzZV9KN3B4MkJnVzlkMy1iSERDOWRLX19ZQzAxaHBDcEpwVUpzT3NWejJ2d0Rmak5LNVpBVDNhVzJkQ3U"
-    }
-   ],
-   "category": "政策监管",
-   "session": "周末",
-   "zh_summary": "中国英伟达月入10亿净赚4亿",
-   "title_zh": "中国英伟达月入10亿净赚4亿，2026年大赚",
    "sentiment": 0
   }
  ]
