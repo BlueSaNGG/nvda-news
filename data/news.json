@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T14:51:57.939505+00:00",
+ "updated_at": "2026-10-26T15:06:48.480042+00:00",
  "market": {
-  "price": 216.9,
-  "change_pct": 2.82,
+  "price": 217.5,
+  "change_pct": 3.1,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.38,
-   "count": 123
+   "avg": 0.39,
+   "count": 126
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 70% 分位"
+     "note": "现价处于52周区间 71% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +45.2%"
+     "note": "目标价中位数 $315（16家），隐含空间 +44.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.38（123条已评分）"
+     "note": "今日新闻情绪 +0.39（126条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.90 vs 20日均线 $224.94"
+     "note": "现价 $217.50 vs 20日均线 $224.98"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 70,
+   "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 45.2,
-   "ma20": 224.94,
-   "as_of": "2026-10-26T14:51:57.924769+00:00"
+   "implied_upside_pct": 44.8,
+   "ma20": 224.98,
+   "as_of": "2026-10-26T15:06:48.470516+00:00"
   },
   "pe_ttm": 27.6,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.2%空间：估值偏低，预期乐观"
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "2a67182d601d",
+   "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzBJeXFCbUFOTjA0cWtxaWVRMHFHRWpqQTRqN25aUzkwaWhGLUlmdkZjWUhnNUx4dXdkOXotQjdzd3F4aVNPRWtpODZESUw0akt3OGJHZGJwUUlSeGpENlJFV1ptZVNmdW1VNzVmXzVsMFF3Y2FFQjNoMFdXeG5vUENHaTN5UW5HQjZISUlMS1ZRMWdMZmRXMWlwM3FOOGc2V1M0QXh6V21FUQ",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-26T15:03:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-26T15:03:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzBJeXFCbUFOTjA0cWtxaWVRMHFHRWpqQTRqN25aUzkwaWhGLUlmdkZjWUhnNUx4dXdkOXotQjdzd3F4aVNPRWtpODZESUw0akt3OGJHZGJwUUlSeGpENlJFV1ptZVNmdW1VNzVmXzVsMFF3Y2FFQjNoMFdXeG5vUENHaTN5UW5HQjZISUlMS1ZRMWdMZmRXMWlwM3FOOGc2V1M0QXh6V21FUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "c0c861f09a62",
+   "title": "98% Of Nvidia Analysts Have \"Buy\" Rating - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWlGTjM2X1lYcjlKdURYUDJOV1hIZl80RDk1S3JzZkM2Yi05T1ZGVk1JSUp6MmIzVm8wOUVMRFhKd3BtamYxZWZXYWdKMFAzYmY2YVRCRjUyMjNlTEluTjZnaWc2a09QR3Jya0JtQ1dJcXZtUFBjbFBuNVFmLVJuRmZHelJFeTNf",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-26T14:55:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-26T14:55:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWlGTjM2X1lYcjlKdURYUDJOV1hIZl80RDk1S3JzZkM2Yi05T1ZGVk1JSUp6MmIzVm8wOUVMRFhKd3BtamYxZWZXYWdKMFAzYmY2YVRCRjUyMjNlTEluTjZnaWc2a09QR3Jya0JtQ1dJcXZtUFBjbFBuNVFmLVJuRmZHelJFeTNf"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
+  {
+   "id": "2419caf2ec8d",
+   "title": "Nvidia Stock Hits Deepest Discount to S&P 500 Since 2015 - NVIDIA (NASDAQ:NVDA) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVVOeWFkNHpzM0xTSjd2aGZCUUQ2RThVWldQa0Jxc2hRNHhVVVFHazJ2QU5ablA2Vmdqd1BvemdibGFCbFN0bUpHaE1kY0JnQkQ5S0NhWERTanRlMTRvbEFSUGNUSElrOUJIc2NsSzJQbFoxZTB1T1lrY1Q4dS1henFZeDBvb3ctS2MxRDA1QjAxRUtWQTVv",
+   "source": "Benzinga",
+   "published_at": "2026-10-26T14:45:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-26T14:45:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVVOeWFkNHpzM0xTSjd2aGZCUUQ2RThVWldQa0Jxc2hRNHhVVVFHazJ2QU5ablA2Vmdqd1BvemdibGFCbFN0bUpHaE1kY0JnQkQ5S0NhWERTanRlMTRvbEFSUGNUSElrOUJIc2NsSzJQbFoxZTB1T1lrY1Q4dS1henFZeDBvb3ctS2MxRDA1QjAxRUtWQTVv"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
   {
    "id": "20c2e49bd4fe",
    "title": "NVIDIA's DSX POD Pushes AI Factory Construction Toward the Assembly Line - Data Center Frontier",
@@ -80,6 +131,23 @@
    "zh_summary": "英伟达DSX POD推动AI工厂建设",
    "title_zh": "英伟达DSX POD推动AI工厂建设走向产线",
    "sentiment": 1
+  },
+  {
+   "id": "71df7715507e",
+   "title": "NVIDIA tests SMA 200 after double top breakdown: Live levels - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDdRbkNhWFhXOUlSSFVPcU1EZVc2Sm9henJuSlNsV1ZjNUZfTG1pR1plQUQxX1lzYVNjVnF5c0QyRnEwM0FiWUxLZGxidDhUcEJzVFd1N2E1UHl1aV9iZWlDRnJsSUNLcU9reThLZF9LLWNOeVd0WkVJcHZJc1c0aE83cmZrLUVfbldYTnczbFlKb1hmUmVhRVFtTVpUd2l2RHpWTmRGRmZNSUtoU3ZKQy05SHRSOFRvckp0cHFn",
+   "source": "Investing.com",
+   "published_at": "2026-10-26T14:34:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-26T14:34:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDdRbkNhWFhXOUlSSFVPcU1EZVc2Sm9henJuSlNsV1ZjNUZfTG1pR1plQUQxX1lzYVNjVnF5c0QyRnEwM0FiWUxLZGxidDhUcEJzVFd1N2E1UHl1aV9iZWlDRnJsSUNLcU9reThLZF9LLWNOeVd0WkVJcHZJc1c0aE83cmZrLUVfbldYTnczbFlKb1hmUmVhRVFtTVpUd2l2RHpWTmRGRmZNSUtoU3ZKQy05SHRSOFRvckp0cHFn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "009c1a4700c1",
@@ -852,7 +920,7 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemRqbE1PR0VCc3Rac3ZwMk43X29Gam9qR2F6LTVTREx1Mkw4NFJLelpmckF5TWY1VENCQk5MQzRsVHUxUVRBX1p3dm5QbGI3R2xFU28tQWJ1ZTMyNWtEaTlMZXRpSEhPeDZmcXNxUmlUakh2eGI4bWt4THp4RG1yaFZNajBta0lCT0piMGhkLWxZTV9uZFp3X2xkSmhlRHFoZGNN",
    "source": "Yahoo Finance",
    "published_at": "2026-10-26T12:06:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -863,13 +931,22 @@
      "name": "TradingView",
      "published_at": "2026-10-26T12:06:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ0UwTFJ6SmNDNHRNSVZzbU5rdWVXNkpJTEVRc1RXXzlTTXl3VE1NTERFSnZLQk14RTUza0g5RXk3SG1WcVlKTDRpUFIwTzIwcEZULTVEbG9jb1pyZlpsb3VhSEVUWktKNEgzRGNGVUpLUTlIMG1ZX1U5TUp2RDRYWWplY0J5MldnQk9mVlEyX3dCcnhibU1NeGd4VnBJbENHQXBrSWZTc0JvNTN4ZGVsVnQycEpQX3RlOVc4QWFHc2czdW9naUNBZEJQNzVKSF9VMW9ObVdSV1F1RFZkS0E"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-26T14:25:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUk1mRnVxNjhyY1NRUlMyblpabG4zUndoWG81VWVTUUpPRjNvQllzekZQOW5laHg4ZkZUZWhQalQ4ZVQwaTJHUDVrNDdKdU9lN1RfT3JyREFGTVpmMzV6MWM0R3ljWWJMWXRySGhnSDZRRzFzMkdBM3R0YVI3SUVfN2lRSG9WLTBuZ2NTTHI2eWRUeXI5Y2F4Ym9Kb1h5a25nZmc4UGN6TVpCWXc0MnVSUDRrSTNJZVR3Z3Q1NnhMMDVfWnFiQ0Z3c0EzRVlOd29hakduVWh1WmVLZ1JleDljeVNCZ2EyU20yUWtXaENvMFRQbEpTbEpuMnVHV3RobDFiNkhQLQ"
     }
    ],
    "category": "财报",
    "session": "盘前",
    "zh_summary": "七大科技股纳入Zacks财报前瞻",
    "title_zh": "Alphabet等七家科技巨头纳入Zacks财报前瞻",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 1.39,
+    "window_h": 1.6
+   }
   },
   {
    "id": "c10958d04d53",
@@ -1636,6 +1713,40 @@
    "zh_summary": "三星准备8层HBM4，英伟达调整内存计划",
    "title_zh": "三星准备8层HBM4，英伟达重新考虑内存计划",
    "sentiment": 0
+  },
+  {
+   "id": "c4d9ab9ad8fe",
+   "title": "NVIDIA Cosmos开放新工具助力世界模型训练评估与部署-AI基础设施 - 至顶网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YZTdlZlpBZ2lUaHEzeWpsSThBMGxzN3Nnc3ZkYXJ6eWRWZTdJdG54MEMxUy10MlRQRDMyeGxXQ3ZyVTJhYXIzSV85R2ZKLUxvWk5vWmZYSlAzN0xKWDdYOVY1Rk03Ykhudlg0NkR0aEdvUQ",
+   "source": "至顶网",
+   "published_at": "2026-10-26T09:09:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "至顶网",
+     "published_at": "2026-10-26T09:09:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YZTdlZlpBZ2lUaHEzeWpsSThBMGxzN3Nnc3ZkYXJ6eWRWZTdJdG54MEMxUy10MlRQRDMyeGxXQ3ZyVTJhYXIzSV85R2ZKLUxvWk5vWmZYSlAzN0xKWDdYOVY1Rk03Ykhudlg0NkR0aEdvUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "43c72517532a",
+   "title": "欧洲多方机构部署英伟达Earth-2开放模型助力气象气候预测-AI应用 - 至顶网",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlWHh5RG00YW9jZmN2amZkQXZYb0FPVnZZbW1KRE14c1RPSl8ySzZoRlZWODFsdFc2X0t4NVJMem94LU5yLUxlNmRLZWtQeWZRak9aX3ZzUzNrdFZTN0pCVVdYT3ZaNTFqNGJfWjNOTQ",
+   "source": "至顶网",
+   "published_at": "2026-10-26T09:04:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "至顶网",
+     "published_at": "2026-10-26T09:04:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlWHh5RG00YW9jZmN2amZkQXZYb0FPVnZZbW1KRE14c1RPSl8ySzZoRlZWODFsdFc2X0t4NVJMem94LU5yLUxlNmRLZWtQeWZRak9aX3ZzUzNrdFZTN0pCVVdYT3ZaNTFqNGJfWjNOTQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "466fa76080bf",
@@ -6468,136 +6579,6 @@
    "session": "周末",
    "zh_summary": "特斯拉与英伟达注资三星电机升级AI芯片封装",
    "title_zh": "特斯拉与英伟达巨额注资三星电机，助力AI芯片封装升级",
-   "sentiment": 1
-  },
-  {
-   "id": "1bd5f7bddef4",
-   "title": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs - Data Center Dynamics",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNREdBbUlzTjJwaVZxY2oyTF9BM05GbTZ3U0dUOFZOMkxoME00ZTRoMmZzdTZYODdLWnk3MU0tb0hoWTZGdmZiR3RKNkVuZnNFXzBPT0xVcTNFSEhTcDlXeUJzRFQ1Vkd4YkxJQzE1VVg3WUlRc2JzOFJoZ0VOdWZNaFE5c2Zpa05BbDB4WGZYVTk2Z0JaYXlySWQ3aUFzM1FQ",
-   "source": "Data Center Dynamics",
-   "published_at": "2026-10-24T13:04:23+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Data Center Dynamics",
-     "published_at": "2026-10-24T13:04:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNREdBbUlzTjJwaVZxY2oyTF9BM05GbTZ3U0dUOFZOMkxoME00ZTRoMmZzdTZYODdLWnk3MU0tb0hoWTZGdmZiR3RKNkVuZnNFXzBPT0xVcTNFSEhTcDlXeUJzRFQ1Vkd4YkxJQzE1VVg3WUlRc2JzOFJoZ0VOdWZNaFE5c2Zpa05BbDB4WGZYVTk2Z0JaYXlySWQ3aUFzM1FQ"
-    },
-    {
-     "name": "BeBeez International",
-     "published_at": "2026-10-24T13:11:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFhWN2ZFdWQtVndPUHhCNnNJamlBNE8zLWM5elZxY0RlVjhpWENnZDJoNkY1U1VqekF3OHJXM2UxdE5ELXBLRW9OeFZQY0ZVTy1DMmFRekpzUlpwekdwOUpzc09MNUw3NUNVQ3N1N1g4RGEtbzNhX3Z5c3NveThJNGFWZlFQN1BDTGZLajZn"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "格鲁吉亚云厂商部署Blackwell Ultra",
-   "title_zh": "格鲁吉亚Silk Cloud部署英伟达Blackwell Ultra GPU",
-   "sentiment": 1
-  },
-  {
-   "id": "ee1882b1eeaf",
-   "title": "Nvidia's AI bankroll meets its first real market test - Briefs Finance",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZm4teGt0WXdHeVpqWC1SNWtqbmxCbzRjekxrT0hLZXd1U3dtNW96dmxRU21DcUVyZHgxX0oyVFAzX2d4cXlzMldudVlJVEwtWDlQWnhEdUhWbVJWeFJBaXVPMjV2ZGlTaTJZSTFzWHp6VHVfVjlVZGt1MjVLUFhLM2F0Rzk2ZDM3",
-   "source": "Briefs Finance",
-   "published_at": "2026-10-24T12:54:45+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Briefs Finance",
-     "published_at": "2026-10-24T12:54:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZm4teGt0WXdHeVpqWC1SNWtqbmxCbzRjekxrT0hLZXd1U3dtNW96dmxRU21DcUVyZHgxX0oyVFAzX2d4cXlzMldudVlJVEwtWDlQWnhEdUhWbVJWeFJBaXVPMjV2ZGlTaTJZSTFzWHp6VHVfVjlVZGt1MjVLUFhLM2F0Rzk2ZDM3"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "周末",
-   "zh_summary": "英伟达AI资金迎首次市场考验",
-   "title_zh": "英伟达AI资金迎来首次真正的市场考验",
-   "sentiment": 0
-  },
-  {
-   "id": "46ba2e3ca311",
-   "title": "NVIDIA's latest 621.01 driver is causing a black screen and other issues - Sportskeeda Tech",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc2VNSE9tc1RHc3pDT1hPdUEwX056Z1dJUVV3SC1CSVFUZW8tRmtQa0d5WWkyREZuTjBmNW5LUUZTTnVWWkxkS0lqQjhnbVB3U0tTeDNuT0Jyb09pZzNVU01oWnFueXBnbzlpRlVPV1JWbzZxWUppUXdGTExUNS1rNjlVeVdCa0Z5MnNva21DN0ZsOWluN0JSMlZFaGRzRko3R2FsblF3",
-   "source": "Sportskeeda Tech",
-   "published_at": "2026-10-24T12:32:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Sportskeeda Tech",
-     "published_at": "2026-10-24T12:32:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc2VNSE9tc1RHc3pDT1hPdUEwX056Z1dJUVV3SC1CSVFUZW8tRmtQa0d5WWkyREZuTjBmNW5LUUZTTnVWWkxkS0lqQjhnbVB3U0tTeDNuT0Jyb09pZzNVU01oWnFueXBnbzlpRlVPV1JWbzZxWUppUXdGTExUNS1rNjlVeVdCa0Z5MnNva21DN0ZsOWluN0JSMlZFaGRzRko3R2FsblF3"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达最新驱动导致黑屏问题",
-   "title_zh": "英伟达最新621.01驱动导致黑屏等问题",
-   "sentiment": -1
-  },
-  {
-   "id": "5527e1b44c71",
-   "title": "黄仁勋出手！估值200亿，英伟达押注“华人机器人黑马” - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWXRRTE85b1J4cWNtNDBkTkdWTEpveFB6VDlQdW5IOXVrbGhRTGt0bFo0TW1TUTFhNDAxMmtwS2hjb1EwaHpIUm9TaFI5LU1pdm1CNXYxdWRwMGJrelJkaV8xU1VvcHl4bThhcUM1RmpXaVNEOXFMTzFGb3FTUDJ2QnY0djE4Um9ieWNz",
-   "source": "新浪财经",
-   "published_at": "2026-10-24T12:32:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-24T12:32:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWXRRTE85b1J4cWNtNDBkTkdWTEpveFB6VDlQdW5IOXVrbGhRTGt0bFo0TW1TUTFhNDAxMmtwS2hjb1EwaHpIUm9TaFI5LU1pdm1CNXYxdWRwMGJrelJkaV8xU1VvcHl4bThhcUM1RmpXaVNEOXFMTzFGb3FTUDJ2QnY0djE4Um9ieWNz"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达押注估值200亿华人机器人公司",
-   "title_zh": "黄仁勋出手！估值200亿，英伟达押注“华人机器人黑马”",
-   "sentiment": 1
-  },
-  {
-   "id": "2c0c5e68e73b",
-   "title": "英伟达RTX80系列、AMD RDNA7曝光，泄露路线图却漏洞百出 - 3DM",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IUHFmNkZFUFBVSHg0NmlubDk4UWo5T1FuUkFOVkg4dlBYckZsdFM3NDFaalducG1xRnEwaFBpQ3ZSUXhUZVhHWVk2d3NLODhwRnhXcDRFTnNBTHVD",
-   "source": "3DM",
-   "published_at": "2026-10-24T12:24:12+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "3DM",
-     "published_at": "2026-10-24T12:24:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IUHFmNkZFUFBVSHg0NmlubDk4UWo5T1FuUkFOVkg4dlBYckZsdFM3NDFaalducG1xRnEwaFBpQ3ZSUXhUZVhHWVk2d3NLODhwRnhXcDRFTnNBTHVD"
-    },
-    {
-     "name": "cnBeta.COM",
-     "published_at": "2026-10-24T14:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JOWoxUlM2VXAzVkFuV08yeklvRUNhQmhVdXMzTm5PWTViaTNLSDhwR2paZzM3cHk0NVlZaE0yQ19xTklmREx3dE5hZnBlV2lGQzlDclBwWWM1U2htalB3Zg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达RTX80与AMD新品路线图泄露",
-   "title_zh": "英伟达RTX80系列与AMD RDNA7路线图泄露",
-   "sentiment": 0
-  },
-  {
-   "id": "dd8874caeded",
-   "title": "Nvidia driver update: Call of Duty: Modern Warfare 4 and Gears of War: E-Day exhibit reduced RAM usage thanks to Advanced Shader Delivery - Notebookcheck",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPeFdvMUdLc3BNcHNicFhvcFpFUG9pWkxqZ3BsYXNqRUdDTUxGR2x0OTVYMzVoUi1Kam1EbUtmSmlQaC1XSUpaOVFDYlBMZlJ6VWVrMnd0UXZoSGtOUjloblZlY2RzbktVSHQ5SnVoRnBheEJvM2ZvZTNwVTFPM2l5U1k4cG56YXh3ajFNazJVQW9sa29xZzVLaVhfTnFCcWxZVUxPTjViamZ0ckd1MVR5ci1NSFA2OGZJQ01BWFhfMHY0Rl9FVzctSkZORkdsQXZwa2JPV1VsbEQ3SlkzeTdvMjlfdXZMdjk5LU1Oc1NzQk94c3ZEcUc0dk1OcFZPTkM1em1GUDBaaldQY1U",
-   "source": "Notebookcheck",
-   "published_at": "2026-10-24T12:12:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Notebookcheck",
-     "published_at": "2026-10-24T12:12:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPeFdvMUdLc3BNcHNicFhvcFpFUG9pWkxqZ3BsYXNqRUdDTUxGR2x0OTVYMzVoUi1Kam1EbUtmSmlQaC1XSUpaOVFDYlBMZlJ6VWVrMnd0UXZoSGtOUjloblZlY2RzbktVSHQ5SnVoRnBheEJvM2ZvZTNwVTFPM2l5U1k4cG56YXh3ajFNazJVQW9sa29xZzVLaVhfTnFCcWxZVUxPTjViamZ0ckd1MVR5ci1NSFA2OGZJQ01BWFhfMHY0Rl9FVzctSkZORkdsQXZwa2JPV1VsbEQ3SlkzeTdvMjlfdXZMdjk5LU1Oc1NzQk94c3ZEcUc0dk1OcFZPTkM1em1GUDBaaldQY1U"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达驱动更新降低游戏内存占用",
-   "title_zh": "英伟达驱动更新：使命召唤4与战争机器E-Day内存占用降低",
    "sentiment": 1
   }
  ]
