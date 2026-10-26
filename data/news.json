@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T13:36:31.454472+00:00",
+ "updated_at": "2026-10-26T13:51:51.498111+00:00",
  "market": {
-  "price": 214.69,
-  "change_pct": 1.77,
+  "price": 215.62,
+  "change_pct": 2.21,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.38,
-   "count": 102
+   "avg": 0.39,
+   "count": 106
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 67% 分位"
+     "note": "现价处于52周区间 68% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +46.7%"
+     "note": "目标价中位数 $315（16家），隐含空间 +46.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.38（102条已评分）"
+     "note": "今日新闻情绪 +0.39（106条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $214.69 vs 20日均线 $224.83"
+     "note": "现价 $215.62 vs 20日均线 $224.88"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 67,
+   "price_52w_pct": 68,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 46.7,
-   "ma20": 224.83,
-   "as_of": "2026-10-26T13:36:31.440644+00:00"
+   "implied_upside_pct": 46.1,
+   "ma20": 224.88,
+   "as_of": "2026-10-26T13:51:51.488951+00:00"
   },
-  "pe_ttm": 27.3,
+  "pe_ttm": 27.4,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "18c154aba30e",
+   "title": "谁掌握了稀缺算力，谁就是下一个英伟达！ - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3b1ZMWjZ6RzktOG1KZGp6bFZhQWdjcU5TYXJsUXdEMHBzZ3FjbkxDZjc3cG9VOGJheVE3NUp3bGVHMV9mdFNheVNCeFZPSXBRM0E",
+   "source": "华尔街见闻",
+   "published_at": "2026-10-26T13:49:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-26T13:49:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3b1ZMWjZ6RzktOG1KZGp6bFZhQWdjcU5TYXJsUXdEMHBzZ3FjbkxDZjc3cG9VOGJheVE3NUp3bGVHMV9mdFNheVNCeFZPSXBRM0E"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "184c1f2e0b58",
+   "title": "英伟达柏林GTC公布欧洲自动驾驶布局，Hyperion平台获奔驰、沃尔沃、大众等车企采用 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HMXE0RlU2Y3gxZE50ZVBHeWFFblJxdFBxWlhNMXktSWR0eFNGZnBJbWp3Mm9SN2dRLXRvTjMxY0NIUXA0WDFSYTBON2I3VmZkUmpIUjVBMGlfRGM",
+   "source": "网通社",
+   "published_at": "2026-10-26T13:42:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-26T13:42:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HMXE0RlU2Y3gxZE50ZVBHeWFFblJxdFBxWlhNMXktSWR0eFNGZnBJbWp3Mm9SN2dRLXRvTjMxY0NIUXA0WDFSYTBON2I3VmZkUmpIUjVBMGlfRGM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "04cd014150dd",
    "title": "Nvidia Or AMD On This Dip? Pick The Safest (NASDAQ:AMD) - Seeking Alpha",
@@ -82,6 +116,23 @@
    "sentiment": 0
   },
   {
+   "id": "8532c26c1e4d",
+   "title": "SpaceX Completes NT$1.3 Trillion Debt Financing, Makes Big NVIDIA Chip Purchase as Musk Warns AI Cloud Industry Faces Wave of Bankruptcies - BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RV0J6N3loUjcyNTJzX05JWDZQNlFCWFMwWXBnR2pBbDkyUC12UDlpWDZzMUVYaWs2LXdLeXBYY3pwQWR0NEZObnV1a3p2dXY0Tmh4eF9PWlRRU0dmNDB2b0oyZDJLZ1pscFdVb0F3azQxT0d1Umc",
+   "source": "BigGo Finance",
+   "published_at": "2026-10-26T13:25:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BigGo Finance",
+     "published_at": "2026-10-26T13:25:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RV0J6N3loUjcyNTJzX05JWDZQNlFCWFMwWXBnR2pBbDkyUC12UDlpWDZzMUVYaWs2LXdLeXBYY3pwQWR0NEZObnV1a3p2dXY0Tmh4eF9PWlRRU0dmNDB2b0oyZDJLZ1pscFdVb0F3azQxT0d1Umc"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "8e5eab11ab24",
    "title": "DLSS 5 modding made easier by Nvidia in RTX Remix 1.6, alongside 6x Multi Frame Gen support and more - PC Guide",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWmhMMzZWLWUtQ3NJSGVaNFRocHJ1eGNsTnh5NzNpV2RaSUxCQURYaV9iWVdsZXRDZWZSMVZZcVlZQmZ6Y2NOQmhGNGlKUEhtWldfS3RZVkRBZUV4OXJYUFloeXRVUlh4b3JORWlBcXpJYmxRaWJoVTFwWmVIYmw4QnZaVElaU1ZvYmhSdEdkUTNRSW5PYUN0bWxPYzVCcVVFT3lLWERzaTA4SzdVZGU3SHVIczl6cHdnT09Qa3hWZUMwUW03M1lsUw",
@@ -100,6 +151,23 @@
    "zh_summary": "RTX Remix 1.6简化DLSS 5模组制作",
    "title_zh": "英伟达RTX Remix 1.6简化DLSS 5模组制作，支持6倍多帧生成",
    "sentiment": 1
+  },
+  {
+   "id": "9011afbf7bf0",
+   "title": "Dell expands AI factory with NVIDIA, announces new agentic AI solutions and infrastructure - The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPS0QyaU9jaFlkVkhRaU51RWNWbFppWmVRVmpmS2xxZmhGVXpLRExHN0pndkRyQ3lRa3VEbVZ0SlV3c2JyU3MxY2dLb3dOMXQxdjM5VFY0UlRueUFZSkdrNVMxdnVSTjROV3YtQXBCSFpKWTlZSUhMTkpFZmM2bGVQNDBnZHJTS2FCX1gwdUVZNzlTbjA3RjlmRW5mTC03VVJRbXBXQlFiSU9xN1NwcG1KV0N2UFRaU3owSTVHNWRqY1p1Q1VtNF81MWt5cXNpZVpyNlh3QUF2THNfYVJBc0hkT1NBUFNJYXlVeVVXZWVLamVDU1ZQS0hOU050WE1VV0x2d1HSAYcCQVVfeXFMTzNlbjJSdXJsSHZtWGlFMWtkM1cxM0hnRF9OZmFXNFp1aVB5eWVPVXlocUhBN1MwaHR6SDh3ZlVxTWdrUHg2bVA4QUl4anB6NlQ2alNpN2FETlBBU2ppVWhUVVhOdV9QSzIzSHg2RDRYRjY4T19PZFNWOW8yV0NhenRDVnk3OVlKemRuVlM0Q0MyMkpVMTFsY0VEU3RCX3BnaDNKUGJvSWs2eDU4QVlyeHV5eHhCQ01jOFBRelJBcU12Z0ltdjVmMFVjTGdSUjg0eUx3ek9Ib3hBYm1GYk04OXNkc0RoZjBVZ2cyNXdRU1RJVl9PcXlYejRuVW1GTlZFRDZpNG5GR3M",
+   "source": "The Times of India",
+   "published_at": "2026-10-26T13:06:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Times of India",
+     "published_at": "2026-10-26T13:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPS0QyaU9jaFlkVkhRaU51RWNWbFppWmVRVmpmS2xxZmhGVXpLRExHN0pndkRyQ3lRa3VEbVZ0SlV3c2JyU3MxY2dLb3dOMXQxdjM5VFY0UlRueUFZSkdrNVMxdnVSTjROV3YtQXBCSFpKWTlZSUhMTkpFZmM2bGVQNDBnZHJTS2FCX1gwdUVZNzlTbjA3RjlmRW5mTC03VVJRbXBXQlFiSU9xN1NwcG1KV0N2UFRaU3owSTVHNWRqY1p1Q1VtNF81MWt5cXNpZVpyNlh3QUF2THNfYVJBc0hkT1NBUFNJYXlVeVVXZWVLamVDU1ZQS0hOU050WE1VV0x2d1HSAYcCQVVfeXFMTzNlbjJSdXJsSHZtWGlFMWtkM1cxM0hnRF9OZmFXNFp1aVB5eWVPVXlocUhBN1MwaHR6SDh3ZlVxTWdrUHg2bVA4QUl4anB6NlQ2alNpN2FETlBBU2ppVWhUVVhOdV9QSzIzSHg2RDRYRjY4T19PZFNWOW8yV0NhenRDVnk3OVlKemRuVlM0Q0MyMkpVMTFsY0VEU3RCX3BnaDNKUGJvSWs2eDU4QVlyeHV5eHhCQ01jOFBRelJBcU12Z0ltdjVmMFVjTGdSUjg0eUx3ek9Ib3hBYm1GYk04OXNkc0RoZjBVZ2cyNXdRU1RJVl9PcXlYejRuVW1GTlZFRDZpNG5GR3M"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "4b2d865dc94c",
@@ -245,6 +313,23 @@
    "zh_summary": "改装让RTX 40/30/20系显卡算力翻倍",
    "title_zh": "改装使英伟达RTX 40/30/20系显卡算力提升一倍",
    "sentiment": 1
+  },
+  {
+   "id": "ba6a210e07f2",
+   "title": "1T-Parameter Large Models Now Run on Desktops: Apple & NVIDIA Reshape the AI PC Industry Landscape - eu.36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95cWJNN2ZLUjZOWi1jOUdvNlExb1JxLUVLYTVJcmF4Nm1wRzRtZGlzeXBXT0ZaZFBVSS1nZUdkN09uTW1lQ3d2THlFQ3NCbERPNDdN",
+   "source": "eu.36kr.com",
+   "published_at": "2026-10-26T12:50:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "eu.36kr.com",
+     "published_at": "2026-10-26T12:50:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95cWJNN2ZLUjZOWi1jOUdvNlExb1JxLUVLYTVJcmF4Nm1wRzRtZGlzeXBXT0ZaZFBVSS1nZUdkN09uTW1lQ3d2THlFQ3NCbERPNDdN"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "54faf62c8f4f",
@@ -6484,131 +6569,6 @@
    "session": "周末",
    "zh_summary": "AMD哪款显卡对标英伟达RTX 5070",
    "title_zh": "AMD哪款显卡相当于英伟达RTX 5070",
-   "sentiment": 0
-  },
-  {
-   "id": "f0e6d049e3f3",
-   "title": "英伟达承认 GeForce 621.01 驱动存在问题：播放视频时可能卡住或黑屏 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMVZKNy1xQVVPOWZhSTRwV0FnT0d6XzJ6c0NkVFRCLTRWRFRZNnhvekRRM1p4SjRNZHR6N1IwRmw5U0htRmxSeHdVbTFrVkl4WGlJS3B3OEpLN2lFalFhTXZLNXFUME1mSzdmNzhZeGF2SzZMczV0RG5BZ0c4Y1E",
-   "source": "新浪财经",
-   "published_at": "2026-10-24T10:43:43+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-24T10:43:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aMVZKNy1xQVVPOWZhSTRwV0FnT0d6XzJ6c0NkVFRCLTRWRFRZNnhvekRRM1p4SjRNZHR6N1IwRmw5U0htRmxSeHdVbTFrVkl4WGlJS3B3OEpLN2lFalFhTXZLNXFUME1mSzdmNzhZeGF2SzZMczV0RG5BZ0c4Y1E"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-24T10:43:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnoxZi1WWmlZQkgwTTZUbnFENVBzeEVtalAxNkxubjJDeWFtLVZyLUV0WDFYc3VTclVhcG1ReEFFY1dWWXg0QmNtR3preklhNVBDOWU1VmtRRmd2QUZQOW5KTVF6bklQcG56d3RMSVo3UHQ4bXE0aXdkblI4U2xjdllxclNYMHBH"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "英伟达承认驱动存视频卡顿问题",
-   "title_zh": "英伟达承认GeForce驱动存视频卡顿问题",
-   "sentiment": -1
-  },
-  {
-   "id": "efd8082e7004",
-   "title": "Nvidia CEO Jensen Huang backed a Seattle lab with nearly 7 million GPU hours; its new AI model designs pr - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNa2F5OUJTOVNNdUJwdHNtSzJUTUQ5Ymg5RGtjNXd0aUMzczBSNmhwYUUxMms4MjBVTmFBVzF2S1Fud1RKNVduLXBqX0lpMjVzclJ4TjhFVXdfSXI2QjA0NlFPaGRrWnVaM2hacDBFNFNZRE5jcEVMN1FXdFNraVZnZVJVOWdaeUhFaFduVkw5VWE5MVlWNnFxSFRMaTZkSkZYN1pUaHdNSnRpUW5SRV9Yd0xzWHcwOVZlOWg4a0pCVlk5WE9tWTlFUGpMeDRobWpFV2pfTk40bnRvRDB5WGY1M0xpcXB2djA3bFYyVWJ6YlhJWHItaDJwc05oaEtHNmxLTEp2Q2JwZzNkQ3Y3V3Jxem95VTEzNUp5WkpjdGQtZXM5QWZhelp2STVUaXU1VzRUZ1RuZ1M3cVVmRmNUcm00ODhPclMtVGdHdkZib2lrR2dxTGVEVmk3aFdhMEtDSUnSAeQCQVVfeXFMTVpLU2NpVU5fdjVKbnZqX2dBdGxPbllzS1NBZ1ZWNUxSQW5lUFRKT0s3UzF1RnpTRDVzdU40NEpvUGdTZ085dUpBcEFqNi1RQ2RETHlLYTdra0FQUDV6YVJISnpnZXN3ZFdfTHFmNm5waTZaSnR1QkNwN2ZvTnFOS19VVFc2SjRnTWFvSjB2dnBIR1ROV1hhdk4xUW1sVng4VUhuNDVFZEdkWk1lQ1JPTVB1c3ZBNXZ5LUF0SHZCM1Z3TTVXRmlqeUtsNGkzZnp5NDB3c1VoVHNtYUFpNUlUdnBkaTJvVEVKU3N6V21VSl91dkFmQ2tDRHFMSHhDTFdqeUVCRWhxNVFHN2toZ09pYUI1R3pBSlpOWTlYTHFJZlIyb1oyUEhsRHBiRHlrbHJyWVFHY2JfYXZlRHhWeF93NGF4MDRWZTVPbVhvTmhpQzhhS3RnWWNQVXVXai16bllhaDZ2enk",
-   "source": "The Times of India",
-   "published_at": "2026-10-24T10:41:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Times of India",
-     "published_at": "2026-10-24T10:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNa2F5OUJTOVNNdUJwdHNtSzJUTUQ5Ymg5RGtjNXd0aUMzczBSNmhwYUUxMms4MjBVTmFBVzF2S1Fud1RKNVduLXBqX0lpMjVzclJ4TjhFVXdfSXI2QjA0NlFPaGRrWnVaM2hacDBFNFNZRE5jcEVMN1FXdFNraVZnZVJVOWdaeUhFaFduVkw5VWE5MVlWNnFxSFRMaTZkSkZYN1pUaHdNSnRpUW5SRV9Yd0xzWHcwOVZlOWg4a0pCVlk5WE9tWTlFUGpMeDRobWpFV2pfTk40bnRvRDB5WGY1M0xpcXB2djA3bFYyVWJ6YlhJWHItaDJwc05oaEtHNmxLTEp2Q2JwZzNkQ3Y3V3Jxem95VTEzNUp5WkpjdGQtZXM5QWZhelp2STVUaXU1VzRUZ1RuZ1M3cVVmRmNUcm00ODhPclMtVGdHdkZib2lrR2dxTGVEVmk3aFdhMEtDSUnSAeQCQVVfeXFMTVpLU2NpVU5fdjVKbnZqX2dBdGxPbllzS1NBZ1ZWNUxSQW5lUFRKT0s3UzF1RnpTRDVzdU40NEpvUGdTZ085dUpBcEFqNi1RQ2RETHlLYTdra0FQUDV6YVJISnpnZXN3ZFdfTHFmNm5waTZaSnR1QkNwN2ZvTnFOS19VVFc2SjRnTWFvSjB2dnBIR1ROV1hhdk4xUW1sVng4VUhuNDVFZEdkWk1lQ1JPTVB1c3ZBNXZ5LUF0SHZCM1Z3TTVXRmlqeUtsNGkzZnp5NDB3c1VoVHNtYUFpNUlUdnBkaTJvVEVKU3N6V21VSl91dkFmQ2tDRHFMSHhDTFdqeUVCRWhxNVFHN2toZ09pYUI1R3pBSlpOWTlYTHFJZlIyb1oyUEhsRHBiRHlrbHJyWVFHY2JfYXZlRHhWeF93NGF4MDRWZTVPbVhvTmhpQzhhS3RnWWNQVXVXai16bllhaDZ2enk"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "黄仁勋支持西雅图实验室AI模型",
-   "title_zh": "黄仁勋支持的西雅图实验室推出新AI模型",
-   "sentiment": 0
-  },
-  {
-   "id": "63747030c595",
-   "title": "Tom Lee Says AI Selloff Is Nearing Its End, Points To Setup Similar To Cisco's 1997 Rout — Sees Opportunity In NVDA, Software And Beyond - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGo5U0VlU1c4T24yRFJjUFFrcDdLY1FuVGFXbGJVa3hMWE04OHA5Nk5PeGtzcHI1dEtWT21iaElURjNhXzRoRWpWSTZZeW8tMEtad29iVUxNUmhhWThRdF9JWllpbDRxcTFYTHdudEFNZWtPQ2lZQUhjSmxnMURlRmVpOWlfLWx5RE5qd21HQ1VuQUJHeTIyNGNlaXR3Z1duOXVVRHJsT1pSOUFkUElybXNvVjdQYVhGYzFUN0k3Z1lWa0ZQeUlmN2NR",
-   "source": "Stocktwits",
-   "published_at": "2026-10-24T10:17:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-24T10:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGo5U0VlU1c4T24yRFJjUFFrcDdLY1FuVGFXbGJVa3hMWE04OHA5Nk5PeGtzcHI1dEtWT21iaElURjNhXzRoRWpWSTZZeW8tMEtad29iVUxNUmhhWThRdF9JWllpbDRxcTFYTHdudEFNZWtPQ2lZQUhjSmxnMURlRmVpOWlfLWx5RE5qd21HQ1VuQUJHeTIyNGNlaXR3Z1duOXVVRHJsT1pSOUFkUElybXNvVjdQYVhGYzFUN0k3Z1lWa0ZQeUlmN2NR"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-24T10:17:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcWl5Ukd3MllkUWJWTGJuSm9tOEhXT0ZCVGZFQXBGSWQ0LWhXZTlxbV94bGFzOFh0Q3E0TnctOUJ0OWE1WEk2a0xEQTNMbjBLUWdVSUE3alVtbGlKOEpOUExsYnZPSVFEQjVOUk1rMDc0eHZhcXFxelhrMXl6SnhDVVByTExLM2JHLWtlc1lxRE5tUQ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "周末",
-   "zh_summary": "Tom Lee称AI抛售接近尾声，看好英伟达",
-   "title_zh": "Tom Lee称AI抛售接近尾声，类似思科1997年暴跌后机会，看好英伟达",
-   "sentiment": 1
-  },
-  {
-   "id": "2104f7db70b8",
-   "title": "Tesla and Nvidia just found another AI bottleneck - TheStreet",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd3VpUERiNUd0STJ4bmRZdGpiMEphUUFzOVd5MUNuelhKLThPdUFUY1VTaHpXcE1NaFhzM2VKYW1HSUVyMkpLVlFXQmJaQXF2NmVkMkxrTmdKam1ZekNlT1o2ZHBHblI5eGxFNU9EN0VRTjM4cjRSdkI4UnktRDdjbWJ5MURQVkJKYzAzcDltT1RnTlhDSEswdm0tZjhEeVN5RFU4",
-   "source": "TheStreet",
-   "published_at": "2026-10-24T10:03:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TheStreet",
-     "published_at": "2026-10-24T10:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd3VpUERiNUd0STJ4bmRZdGpiMEphUUFzOVd5MUNuelhKLThPdUFUY1VTaHpXcE1NaFhzM2VKYW1HSUVyMkpLVlFXQmJaQXF2NmVkMkxrTmdKam1ZekNlT1o2ZHBHblI5eGxFNU9EN0VRTjM4cjRSdkI4UnktRDdjbWJ5MURQVkJKYzAzcDltT1RnTlhDSEswdm0tZjhEeVN5RFU4"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特斯拉与英伟达又遇AI瓶颈",
-   "title_zh": "特斯拉与英伟达又发现另一AI瓶颈",
-   "sentiment": -1
-  },
-  {
-   "id": "bca79772155d",
-   "title": "显卡一日一价：英伟达停产传闻搅动华强北，RTX 5090 被炒至 6 万元 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KZkNxbFVaRVZNOC1DaS1CTjAxY2ZtbU5mM3JSTGVEdG1jS19vZUlXc0Nib2pLQ1RJdGg2eHlnbWtfTy00a0pUZUljVVlsSXpXenFHUm9UODZmMzdOdXQ0NUlIaWlGT1MxX1NOY2FjRTZlU2Vxek9sejdlRUl6elk",
-   "source": "新浪财经",
-   "published_at": "2026-10-24T10:00:25+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-24T10:00:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KZkNxbFVaRVZNOC1DaS1CTjAxY2ZtbU5mM3JSTGVEdG1jS19vZUlXc0Nib2pLQ1RJdGg2eHlnbWtfTy00a0pUZUljVVlsSXpXenFHUm9UODZmMzdOdXQ0NUlIaWlGT1MxX1NOY2FjRTZlU2Vxek9sejdlRUl6elk"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-24T10:19:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0F3UUZ2SFhKVC1adkQxQU5BbV83MWtYTUctNV9zMXhxWGg4RHE0anFMRmFGcUxma1h0ZjhrelNVbVdaZzZQR25pb1g3U3VxbWlZUFhPRW9jS1Znc1dRRmZxWm01dnRZbklrZXVYVGFmVnNQRm8zTkt2aUVkYzAtU0FneW5EbXVmSDNGYQ"
-    },
-    {
-     "name": "虎扑体育网",
-     "published_at": "2026-10-24T17:58:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mWWgxSzVFZnJVM096SC1SMzZud2NMZVVHRHFCZWZrMDRuUG5tQlVVZzh1cWF6anAtZERoVmc3eUhpV3laMGVUM0U4TQ"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-24T10:02:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yWThQalo0QmltQ29saGNwbEJDSGNYR0tZbF9sNHVIa2pZajRIWlBVUjF3Wks4VHZKcnk5bjlXcWkwelo2WlVpUXZHaDU"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "英伟达停产传闻致RTX 5090炒至6万元",
-   "title_zh": "显卡一日一价：英伟达停产传闻搅动华强北，RTX 5090被炒至6万元",
    "sentiment": 0
   }
  ]
