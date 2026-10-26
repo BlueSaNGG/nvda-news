@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T15:51:43.726634+00:00",
+ "updated_at": "2026-10-26T16:06:47.947820+00:00",
  "market": {
-  "price": 215.76,
-  "change_pct": 2.28,
+  "price": 215.43,
+  "change_pct": 2.12,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 147
+   "avg": 0.41,
+   "count": 150
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +46.0%"
+     "note": "目标价中位数 $315（16家），隐含空间 +46.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（147条已评分）"
+     "note": "今日新闻情绪 +0.41（150条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $215.76 vs 20日均线 $224.88"
+     "note": "现价 $215.43 vs 20日均线 $224.87"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 68,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 46.0,
-   "ma20": 224.88,
-   "as_of": "2026-10-26T15:51:43.718044+00:00"
+   "implied_upside_pct": 46.2,
+   "ma20": 224.87,
+   "as_of": "2026-10-26T16:06:47.932341+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.0%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "00a39d3dc12b",
+   "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFpZZkY5bTU0R3Z5YkZ5M3o0S3loQm5JeTlwQWR6QU00WmNvQS10SXdQa1ZnTko0bGNpcm9mb2xGVjZTN3Q5WGZxbE10YUF5aDNmNkZXajRienVjQ1JLcW5TOTB4aTdVNHhkV3JVMmhSZlhPNUQtLUdyYWsxVldubi1lVGhUVWFYUWpfaDRzT0ZteEF5TWJFZWg4WQ",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-26T16:01:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-26T16:01:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUFpZZkY5bTU0R3Z5YkZ5M3o0S3loQm5JeTlwQWR6QU00WmNvQS10SXdQa1ZnTko0bGNpcm9mb2xGVjZTN3Q5WGZxbE10YUF5aDNmNkZXajRienVjQ1JLcW5TOTB4aTdVNHhkV3JVMmhSZlhPNUQtLUdyYWsxVldubi1lVGhUVWFYUWpfaDRzT0ZteEF5TWJFZWg4WQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "d2dfd2098114",
+   "title": "苹果市值短暂破5.1万亿美元，英伟达王座遭遇激烈挑战 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMkN2LWxSLTllbmEtcWVkMV9UbVl4cVcwYlN6d1dlVW9uTjJ3VU54SWdyZTFVQWY5WTFLTEVSVGktTi12dC1sUm4yQ3FMLW8yQzJ0eFdLYlMyaUlxQV81YjROdFpzck9BWU5mMDAtTkhRNExzVzlWbHpZZkRnNGxKVlRKTi1hdTFNZGdhZg",
+   "source": "搜狐网",
+   "published_at": "2026-10-26T15:56:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-26T15:56:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMkN2LWxSLTllbmEtcWVkMV9UbVl4cVcwYlN6d1dlVW9uTjJ3VU54SWdyZTFVQWY5WTFLTEVSVGktTi12dC1sUm4yQ3FMLW8yQzJ0eFdLYlMyaUlxQV81YjROdFpzck9BWU5mMDAtTkhRNExzVzlWbHpZZkRnNGxKVlRKTi1hdTFNZGdhZg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "4e6c00a43e4a",
    "title": "Cadence partners with Nvidia to accelerate chip design through AI - marketscreener.com",
@@ -80,6 +114,23 @@
    "zh_summary": "Cadence携手英伟达以AI加速芯片设计",
    "title_zh": "Cadence与英伟达合作，用AI加速芯片设计",
    "sentiment": 1
+  },
+  {
+   "id": "1f032ac9e780",
+   "title": "Meta Seeks About $95 Billion for AI Buildout as Nvidia, AMD and Broadcom Consider Investing in Their Own Customer - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZjFnOUNjTkxTUjJRSUxtckpCa3k4TkdsT2NXbkd5NnVzajBaeTNrSVZTOG9XUTJ2QUJHX0dJT3dxeVNZS3RRaUh0NnlITHpSendoRC1sd3Y4M2YwUm1zQXJOX2ctYTduYmRYMnplU19qU3hrcDM1ak5nOXNBaUtJV3JHSm9xNTRRTGliUFBWWWwxdw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-26T15:41:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-26T15:41:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZjFnOUNjTkxTUjJRSUxtckpCa3k4TkdsT2NXbkd5NnVzajBaeTNrSVZTOG9XUTJ2QUJHX0dJT3dxeVNZS3RRaUh0NnlITHpSendoRC1sd3Y4M2YwUm1zQXJOX2ctYTduYmRYMnplU19qU3hrcDM1ak5nOXNBaUtJV3JHSm9xNTRRTGliUFBWWWwxdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "1faa6bdcb7d4",
@@ -388,6 +439,23 @@
    "zh_summary": "英伟达相对标普500折价创2015年来最大",
    "title_zh": "英伟达股价相对标普500折价创2015年来最深",
    "sentiment": 0
+  },
+  {
+   "id": "4604e1827057",
+   "title": "NVIDIA's stock could surge to $400 by 2027 driv... - Pluang",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3R0tvTzN2cUpsOFNYbFhuX2RneEdDM2pBNDhxck9YblA4TzQzRFFieFRDdFYwQjdHNUttU2ppWUlnV1FocUtuSmdLbWl0RGhObGpINk9FT1U4V1VvM1JFeVVTeFg5T3ROd1NRVEtoU0dHSDBLOUE",
+   "source": "Pluang",
+   "published_at": "2026-10-26T14:45:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Pluang",
+     "published_at": "2026-10-26T14:45:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3R0tvTzN2cUpsOFNYbFhuX2RneEdDM2pBNDhxck9YblA4TzQzRFFieFRDdFYwQjdHNUttU2ppWUlnV1FocUtuSmdLbWl0RGhObGpINk9FT1U4V1VvM1JFeVVTeFg5T3ROd1NRVEtoU0dHSDBLOUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "20c2e49bd4fe",
@@ -2449,7 +2517,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpWk1tWWRHLXA3TnZaaFVHQy1YS1o4cHo3R3dNZVdCOHlzbFhOSjNQS3FmM21yT2FnZ0tac3VIbUZSN2ttaVJKQ0R6RWRiN1BwZGxSblEwOHU",
    "source": "驱动之家",
    "published_at": "2026-10-26T08:13:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "驱动之家",
@@ -2465,10 +2533,16 @@
      "name": "凤凰网",
      "published_at": "2026-10-26T08:13:56+00:00",
      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjUTctUHRGT0tVMXNQRXdablJFalIzRDVzeGg3NS1GZWtXSzd2TzVzRWlYTkJyNUxQVGQ0ZWV2QTFiOFZCc2VHdA"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-26T08:13:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjM3FtTklmZklNOUZSXzNJNWt0MUVVYmpJck5NVE5PMHdWck8zUkNJTFc2QVNwUnVFNE11MGI0THd2c0FqWVpJOS1mcDg"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "英伟达新驱动取消限制，老CPU可用5090",
    "title_zh": "老CPU喜提复活卡！英伟达新驱动取消指令限制：扣肉也能上5090了 - 驱动之家",
    "sentiment": 0,
@@ -6527,91 +6601,6 @@
    "zh_summary": "奔驰与英伟达合作推进L4自动驾驶",
    "title_zh": "奔驰与英伟达将自动驾驶合作推进至L4级别",
    "sentiment": 1
-  },
-  {
-   "id": "3baf535da7ed",
-   "title": "NVIDIA RTX 30 & RTX 40 GPUs Get Impressively Fast In AI LLMs As Compute Doubles With New Unlock Tool But Prices Surge Too - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2dOcHJ0Q1U2UDVKYmZjc3BYcjZVeUhhNm5MQ2RqUnNIUjdmNHlrcl85YWxPNjBtUktITkNaUllteTNoQ3RiVTRPOWV5cU5kX0M5eVllZHVVOWNiZ2c3dkFNTEh6aGFlaEMwRklCbnVuV1dDeFZyazU5SEpGRHhhYXZTV19aUGI5azVMYXcwdFlsV2ZCTk83U2tJVlNXcTdlQjdyUnlYNElROU3SAbABQVVfeXFMTlZlOW9LSHBTUDBpU0RXZHRfV1ZSUUtrNU5WTmJHakJrc1pmNngtZ1hhTHhMUTh4SEJQMEtmM0JfSkJvYUtqQUJuQnZ3cmRqOTNfTjRVQUw1N0t6d0lzclZESDBJTUtJSnJKU01sM0RVWlBnMGZyX2w0TUFDQkpRWnlNR2RKYWtGSG1XS2g3bW1qNWVreXUxVUVEMXE1VHNfZ0NjelJzaWlkR3ZRamUwSnY",
-   "source": "Wccftech",
-   "published_at": "2026-10-24T18:55:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-24T18:55:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2dOcHJ0Q1U2UDVKYmZjc3BYcjZVeUhhNm5MQ2RqUnNIUjdmNHlrcl85YWxPNjBtUktITkNaUllteTNoQ3RiVTRPOWV5cU5kX0M5eVllZHVVOWNiZ2c3dkFNTEh6aGFlaEMwRklCbnVuV1dDeFZyazU5SEpGRHhhYXZTV19aUGI5azVMYXcwdFlsV2ZCTk83U2tJVlNXcTdlQjdyUnlYNElROU3SAbABQVVfeXFMTlZlOW9LSHBTUDBpU0RXZHRfV1ZSUUtrNU5WTmJHakJrc1pmNngtZ1hhTHhMUTh4SEJQMEtmM0JfSkJvYUtqQUJuQnZ3cmRqOTNfTjRVQUw1N0t6d0lzclZESDBJTUtJSnJKU01sM0RVWlBnMGZyX2w0TUFDQkpRWnlNR2RKYWtGSG1XS2g3bW1qNWVreXUxVUVEMXE1VHNfZ0NjelJzaWlkR3ZRamUwSnY"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "新解锁工具使RTX30/40显卡AI算力翻倍",
-   "title_zh": "新解锁工具让RTX30/40显卡AI大模型算力翻倍但价格上涨",
-   "sentiment": 1
-  },
-  {
-   "id": "dfb7b878013b",
-   "title": "Tesla, Nvidia to Bankroll $2.8 Billion Samsung Substrate Buildout as AI's Next Shortage Takes Shape - BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxd2ZWZDAtZTV1ckRRTkZpYWhHVFR1VEFnNzR4REVQT0w5STJ4azNjVzBYX0ItUmQ5alZFUDFOQzhKcVdJaXJya2l4YVVBOHZ1Y1JxR0VrbmpzU3NfNHlmT1lsYkNLa0F4QVpoai03TEozVDRveXc",
-   "source": "BigGo Finance",
-   "published_at": "2026-10-24T18:17:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BigGo Finance",
-     "published_at": "2026-10-24T18:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxd2ZWZDAtZTV1ckRRTkZpYWhHVFR1VEFnNzR4REVQT0w5STJ4azNjVzBYX0ItUmQ5alZFUDFOQzhKcVdJaXJya2l4YVVBOHZ1Y1JxR0VrbmpzU3NfNHlmT1lsYkNLa0F4QVpoai03TEozVDRveXc"
-    }
-   ],
-   "category": "供应链",
-   "session": "周末",
-   "zh_summary": "特斯拉英伟达出资28亿美元建三星基板产能",
-   "title_zh": "特斯拉英伟达出资28亿美元建三星基板产能应对短缺",
-   "sentiment": 1
-  },
-  {
-   "id": "793e0841735b",
-   "title": "Nvidia's $399 Microduck Robot Duck Surpasses 20,000 Preorders After Viral GTC Berlin Keynote - BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVYnZUcC00ZHNteGJhREJwOVpRY09BcXBuVjdMTGhvRGMzelA5ejREb1JoWFk3cXpLdFJ2X3BZZUNsUnFlWUZCYXVQZWZEWnNuZkxHbjZXUkswZWNQWVNqb1BzOC0wdVlNMm14WUJIbW1zakltcEE",
-   "source": "BigGo Finance",
-   "published_at": "2026-10-24T18:06:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BigGo Finance",
-     "published_at": "2026-10-24T18:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVYnZUcC00ZHNteGJhREJwOVpRY09BcXBuVjdMTGhvRGMzelA5ejREb1JoWFk3cXpLdFJ2X3BZZUNsUnFlWUZCYXVQZWZEWnNuZkxHbjZXUkswZWNQWVNqb1BzOC0wdVlNMm14WUJIbW1zakltcEE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达399美元机器鸭预售超2万只",
-   "title_zh": "英伟达399美元机器鸭预售超2万只，GTC柏林主题演讲后走红",
-   "sentiment": 1
-  },
-  {
-   "id": "ad7c28465595",
-   "title": "Apple Joins Nvidia in the $5 Trillion Club. Here's Which Stock I Think Can Get to $10 Trillion First. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnZzVWVvN1ZJT19fTTlZQ1o3M1ZuNmZDcHZ0NGpRR3ZGUjBvNXJESjdFMXQ0OFNkZzdTd0Y4UGlocTdjNmU5VHZUbTBNa0JJa3VZVUZsOXVhMUt4LU1XWjlZUGE3bVM2MVpYMDJyTktvVHcyQmxVRE9KSWR4UGJaTGhBbUt4TEcwc2JzY2JJSQ",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-24T17:26:16+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-24T17:26:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnZzVWVvN1ZJT19fTTlZQ1o3M1ZuNmZDcHZ0NGpRR3ZGUjBvNXJESjdFMXQ0OFNkZzdTd0Y4UGlocTdjNmU5VHZUbTBNa0JJa3VZVUZsOXVhMUt4LU1XWjlZUGE3bVM2MVpYMDJyTktvVHcyQmxVRE9KSWR4UGJaTGhBbUt4TEcwc2JzY2JJSQ"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-24T17:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiNjZOalgwaTZNLVlEOXN0M2drOWxvOFRGQmcya1d4bE5mc2tWOTcxNnlTN3VNQUFFQTJrMG90Y3dzT25FUVR3aWFKeVk4ZzdwNzNvMjQ2TFVIWTNjT3lCNXVzbHFOR292RGY1REdkVGRJOGw0ZXk1aWNQY3pTZw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "苹果加入英伟达跻身5万亿美元俱乐部",
-   "title_zh": "苹果加入英伟达的5万亿美元俱乐部，谁先达10万亿？",
-   "sentiment": 0
   }
  ]
 }
