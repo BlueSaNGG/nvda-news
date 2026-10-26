@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T01:06:42.342989+00:00",
+ "updated_at": "2026-10-26T01:21:43.425872+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 23
   },
   "day_sentiment": {
-   "avg": 0.33,
-   "count": 70
+   "avg": 0.35,
+   "count": 72
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.33（70条已评分）"
+     "note": "今日新闻情绪 +0.35（72条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-26T01:06:42.332043+00:00"
+   "as_of": "2026-10-26T01:21:43.417137+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -185,6 +185,26 @@
    "zh_summary": "英伟达瞄准GPU软件订阅收入",
    "title_zh": "英伟达瞄准GPU软件订阅，黄仁勋称每块GPU年费约1.35万",
    "sentiment": 1
+  },
+  {
+   "id": "2bf319026b8a",
+   "title": "Musk Says SpaceX Has Closed $40 Billion Debt Deal to Buy Nvidia GPUs - BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMGRUc2dwY1RONHRMYWEtdEZsc3dDVGcwWktfOUUwX3p3T0FLUVo4NTZGVkFPVEMyNzJmSGotejI5TVVvV21qSktBOUJHWnRseGNhS2pmd2s1RkxHY2FaSFhIYVREQmlScVRmTnlTa2oydHpXSHc",
+   "source": "BigGo Finance",
+   "published_at": "2026-10-25T23:35:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BigGo Finance",
+     "published_at": "2026-10-25T23:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMGRUc2dwY1RONHRMYWEtdEZsc3dDVGcwWktfOUUwX3p3T0FLUVo4NTZGVkFPVEMyNzJmSGotejI5TVVvV21qSktBOUJHWnRseGNhS2pmd2s1RkxHY2FaSFhIYVREQmlScVRmTnlTa2oydHpXSHc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末",
+   "zh_summary": "SpaceX完成400亿美元融资购英伟达GPU",
+   "title_zh": "马斯克称SpaceX完成400亿美元债务融资以购买英伟达GPU",
+   "sentiment": 2
   },
   {
    "id": "466633e85193",
@@ -646,6 +666,26 @@
    "zh_summary": "押注AI芯片：NXP还是英伟达更好",
    "title_zh": "押注AI芯片：NXP还是英伟达更值得买入？",
    "sentiment": 0
+  },
+  {
+   "id": "ec5687768bc5",
+   "title": "英伟达瞄准GPU软件订阅收入 黄仁勋提出每块GPU每年约2000美元 - cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyOUVWOFkwSEllX0ZjaWhZNnZtSUwxbVdCX0xfSHBETGk5SmhLVkNiYzVoRmR5N2NZcjZ1eFBRTVpFM0doUVlQVUpOYlBDSXZTeUZXVDBTTDN3TXo4TjBpVQ",
+   "source": "cnBeta.COM",
+   "published_at": "2026-10-25T16:46:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-10-25T16:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyOUVWOFkwSEllX0ZjaWhZNnZtSUwxbVdCX0xfSHBETGk5SmhLVkNiYzVoRmR5N2NZcjZ1eFBRTVpFM0doUVlQVUpOYlBDSXZTeUZXVDBTTDN3TXo4TjBpVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末",
+   "zh_summary": "英伟达瞄准GPU软件订阅，每块年收约2000美元",
+   "title_zh": "英伟达瞄准GPU软件订阅收入，黄仁勋称每块GPU每年约2000美元",
+   "sentiment": 1
   },
   {
    "id": "c382111d1708",
@@ -6383,46 +6423,6 @@
    "session": "盘前",
    "zh_summary": "英伟达扩大全球AI基础设施制造",
    "title_zh": "英伟达扩大全球AI基础设施制造",
-   "sentiment": 1
-  },
-  {
-   "id": "eab01c60b741",
-   "title": "券商称联想集团在英伟达服务器生态中地位凸显_公司新闻_财经 - 证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ea1QzT21nanFENXYxNk9NVXFKbDFuQ0w4emp3aVdVenk1U2x3OW1iekFQR0hHcjZOUFozSmhseXRZYUJsNDNUbVJpTExiaHdBcFFodUY4ZklMbUJBVEp1bg",
-   "source": "证券之星",
-   "published_at": "2026-10-23T09:44:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "证券之星",
-     "published_at": "2026-10-23T09:44:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ea1QzT21nanFENXYxNk9NVXFKbDFuQ0w4emp3aVdVenk1U2x3OW1iekFQR0hHcjZOUFozSmhseXRZYUJsNDNUbVJpTExiaHdBcFFodUY4ZklMbUJBVEp1bg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "联想在英伟达服务器生态地位凸显",
-   "title_zh": "券商称联想集团在英伟达服务器生态中地位凸显",
-   "sentiment": 0
-  },
-  {
-   "id": "5d20376425e5",
-   "title": "Agile ONE SN Humanoid Robot Bundles Nvidia’s Robotics Stack - TechRepublic",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGprUF9IMDFaQVlkZmZVb1FQUTdXZ0tVQy1hMGNWR0dNYmd2UmJ1N1p1S28xZkYybWFkS3JIWlFuOEkzSWhvT1h6R2I5TFdDNUxydUVmN3RXU3Rrcmd2MWl0a0xLcE5xTlNpTlp0NE1NVEFIYkZvMWU0S3VYUTU0N2pHMA",
-   "source": "TechRepublic",
-   "published_at": "2026-10-23T09:42:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechRepublic",
-     "published_at": "2026-10-23T09:42:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGprUF9IMDFaQVlkZmZVb1FQUTdXZ0tVQy1hMGNWR0dNYmd2UmJ1N1p1S28xZkYybWFkS3JIWlFuOEkzSWhvT1h6R2I5TFdDNUxydUVmN3RXU3Rrcmd2MWl0a0xLcE5xTlNpTlp0NE1NVEFIYkZvMWU0S3VYUTU0N2pHMA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Agile One人形机器人搭载英伟达机器人栈",
-   "title_zh": "Agile One人形机器人搭载英伟达机器人技术栈",
    "sentiment": 1
   }
  ]
