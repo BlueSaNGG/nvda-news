@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T17:51:54.293301+00:00",
+ "updated_at": "2026-10-26T18:06:43.492837+00:00",
  "market": {
-  "price": 215.99,
-  "change_pct": 2.38,
+  "price": 216.21,
+  "change_pct": 2.49,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.39,
-   "count": 171
+   "avg": 0.4,
+   "count": 174
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +45.8%"
+     "note": "目标价中位数 $315（16家），隐含空间 +45.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（171条已评分）"
+     "note": "今日新闻情绪 +0.40（174条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $215.99 vs 20日均线 $224.90"
+     "note": "现价 $216.21 vs 20日均线 $224.91"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 45.8,
-   "ma20": 224.9,
-   "as_of": "2026-10-26T17:51:54.282941+00:00"
+   "implied_upside_pct": 45.7,
+   "ma20": 224.91,
+   "as_of": "2026-10-26T18:06:43.476936+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,28 @@
   }
  },
  "stories": [
+  {
+   "id": "06693e0e5a72",
+   "title": "Intel Rises 5% as New Street Upgrade Cites Server CPU Shortage; AMD and NVIDIA Gain 3% - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3Z3eDViNUE2OFRBVWFNRVp3WlpiM2lTbEZCUm1CVFNYMC12S3BCSDA2N0xqeEJpLTZJdlNpX084M01MNHF4bFRQeTZwcnE4UEJMR2F0cUpHdFdLbXZrV3VqSW51ZWFqNFpWWEJETWllSVdhLWgtTEZfY2Y2Z0xWcUlGTWhjVkhnQ3VBSTUwbENTd0xEdXFXaw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-26T17:50:31+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-26T17:50:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3Z3eDViNUE2OFRBVWFNRVp3WlpiM2lTbEZCUm1CVFNYMC12S3BCSDA2N0xqeEJpLTZJdlNpX084M01MNHF4bFRQeTZwcnE4UEJMR2F0cUpHdFdLbXZrV3VqSW51ZWFqNFpWWEJETWllSVdhLWgtTEZfY2Y2Z0xWcUlGTWhjVkhnQ3VBSTUwbENTd0xEdXFXaw"
+    },
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-26T17:54:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWpBX0ZyOWZISEViUlRGWExyVWc0WXFYNFNaMm1YTGg1dnZzYlhLaGs1Zm9Ob01TZlhWOVQxVm11NVh3RmltV2hab040ODlWTWthc01oVnp6YTVqM2Y2TEx4SllpcVNVVjNpd1FUYlBlYmhMZ2E3THdYeWpzOFctYXNBY2Flamw0STlONXBrajNHM1huMjRkQ1ZBNDY1dkd5VXRjT0FzbWdQcXN2MnJrVnVDdzdsaEpySXREZWQ5MVZUSmFteEE"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
+  },
   {
    "id": "72c8201ac1d2",
    "title": "IBM与英伟达将AI智能体身份和运行时访问控制绑定。 - 手机新浪网",
@@ -200,6 +222,23 @@
    "zh_summary": "分析师警告英伟达AI安全举措或拖慢25%",
    "title_zh": "分析师警告英伟达AI安全举措可能拖慢25%",
    "sentiment": -1
+  },
+  {
+   "id": "5d0b01d4b18e",
+   "title": "User says freshly RMA'd Nvidia 5090 nearly burned again if not for MSI Safeguard - Neowin",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWkyaUU4THBtUkpJYzVSOGRSekpSUTVJUHE2SlVEVXRzOF9CQjl2Yk11UHRzeTJYZVNsMTRnaFNPR3RTaXlpZ05IbEFnbEVlNWxKSlJDdmc0NmJNM3FNaGY1MGtjMHJqZU5jbUM5NkFLanhDcmJDUUpmM3F5RVdrS1pGa0NBRU40QUFvc2Q5VDIxbmdzODZjeTZlZXllamhKR0FSeUtmaTlQMDhY",
+   "source": "Neowin",
+   "published_at": "2026-10-26T16:54:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Neowin",
+     "published_at": "2026-10-26T16:54:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWkyaUU4THBtUkpJYzVSOGRSekpSUTVJUHE2SlVEVXRzOF9CQjl2Yk11UHRzeTJYZVNsMTRnaFNPR3RTaXlpZ05IbEFnbEVlNWxKSlJDdmc0NmJNM3FNaGY1MGtjMHJqZU5jbUM5NkFLanhDcmJDUUpmM3F5RVdrS1pGa0NBRU40QUFvc2Q5VDIxbmdzODZjeTZlZXllamhKR0FSeUtmaTlQMDhY"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "7ffd5af70209",
@@ -6628,46 +6667,6 @@
    "zh_summary": "英伟达与对手争夺机器人开发者主导权",
    "title_zh": "英伟达与竞争对手争夺机器人开发者主导地位",
    "sentiment": 0
-  },
-  {
-   "id": "9565d1857b83",
-   "title": "Gamers are turning old Nvidia GPUs into cheap AI chips as rental prices spike - Startup Fortune",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTW0wbmhkVnJycDQ1TGktZWctX0YxUkhqd25GeEpCU1h4eTdtbWhjQnhsdUhmRzRQamFITDdDeXVkNGh0ZEktU1pBUU5FeExqNjF4Nkt3eGdYTlUwLThtV1NHOG9xZFY5dURKOV9kVnJMQVd1STkySjVVNmY3bk1iRWVzRVJvWXNQU1FQaExETGt5ZWpLWmFBUEFST1lFcnpQZnc3cUxYaUg",
-   "source": "Startup Fortune",
-   "published_at": "2026-10-25T04:24:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Startup Fortune",
-     "published_at": "2026-10-25T04:24:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTW0wbmhkVnJycDQ1TGktZWctX0YxUkhqd25GeEpCU1h4eTdtbWhjQnhsdUhmRzRQamFITDdDeXVkNGh0ZEktU1pBUU5FeExqNjF4Nkt3eGdYTlUwLThtV1NHOG9xZFY5dURKOV9kVnJMQVd1STkySjVVNmY3bk1iRWVzRVJvWXNQU1FQaExETGt5ZWpLWmFBUEFST1lFcnpQZnc3cUxYaUg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "玩家将旧英伟达GPU改造成廉价AI芯片",
-   "title_zh": "玩家把旧英伟达显卡改造成廉价AI芯片，因租赁价飙升",
-   "sentiment": 1
-  },
-  {
-   "id": "f6dbdcdd5818",
-   "title": "NVIDIA RTX 30 GPUs Get Huge AI Performance Boost With New Unlock Mod - ThePCEnthusiast",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EYks3cXV5S1RQcEFXelhWaEhFWUZjVjVjaDhUU1Fwa1REbzRubzU1SHdRUGZmdDBTSnN0VnExczF6Rm1JUDIzUzJoNmhEN2FZSjZQdld0dGFMVVRQbFlrcGJlLU02YmZRSlcwM3VxT2VFRl9oYWFJTVdPRkM",
-   "source": "ThePCEnthusiast",
-   "published_at": "2026-10-25T04:23:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ThePCEnthusiast",
-     "published_at": "2026-10-25T04:23:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EYks3cXV5S1RQcEFXelhWaEhFWUZjVjVjaDhUU1Fwa1REbzRubzU1SHdRUGZmdDBTSnN0VnExczF6Rm1JUDIzUzJoNmhEN2FZSjZQdld0dGFMVVRQbFlrcGJlLU02YmZRSlcwM3VxT2VFRl9oYWFJTVdPRkM"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "RTX30显卡解锁后AI性能大幅提升",
-   "title_zh": "RTX30显卡新解锁模组大幅提升AI性能",
-   "sentiment": 1
   }
  ]
 }
