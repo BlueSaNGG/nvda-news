@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T02:51:35.067158+00:00",
+ "updated_at": "2026-10-26T03:06:40.150679+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 23
   },
   "day_sentiment": {
-   "avg": 0.39,
-   "count": 90
+   "avg": 0.4,
+   "count": 91
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（90条已评分）"
+     "note": "今日新闻情绪 +0.40（91条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-26T02:51:35.055511+00:00"
+   "as_of": "2026-10-26T03:06:40.141160+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "4c5aa7fbb97b",
+   "title": "【专访】佳贤通信董事长任恩贤：英伟达要靠算力基站实现端侧物理AI - Jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01eVZENUFzVFBrQkNMTU5TZHpidVdJSVp3Z21lN0psaGkxb0I5NkF5cFRVYnlNM0Y0ZmVIUmlja25CV0JsUzN5UHFzejlWdm5CZkxYODhQNE4",
+   "source": "Jiemian.com",
+   "published_at": "2026-10-26T02:58:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Jiemian.com",
+     "published_at": "2026-10-26T02:58:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01eVZENUFzVFBrQkNMTU5TZHpidVdJSVp3Z21lN0psaGkxb0I5NkF5cFRVYnlNM0Y0ZmVIUmlja25CV0JsUzN5UHFzejlWdm5CZkxYODhQNE4"
+    }
+   ],
+   "category": "AI需求",
+   "session": "周末"
+  },
   {
    "id": "c54382f9cbdf",
    "title": "Questions Arise Over Neoclouds’ Operational Stability, Testing NVIDIA’s (NVDA.US) Role as an AI Financier - 富途牛牛",
@@ -80,6 +97,23 @@
    "zh_summary": "新云厂商运营稳定性引质疑",
    "title_zh": "新云运营稳定性受质疑，英伟达AI融资角色受考验",
    "sentiment": -1
+  },
+  {
+   "id": "2a2341e7fe41",
+   "title": "思灵机器人与英伟达联合发布科研人形机器人Agile ONE SN - www.gasgoo.com",
+   "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOMDE0WFZQd3BfX1h2d0FzRnNGTXVqYUZDNERVTVU0dE01c3JiUllOejlNVkExQkVDel9OZVdZamFaZXdxbHBPTFdTcFZGRGQ0OUttaUNlSVRWTEpCUjNmc0x3UTF3aktJOW9fd3JNaS1ydGNPTUp5dUg1T2ZOeko4YWtxeVVDTlZhZmxmMEhhUmZQZEFJaWV4WUNham8zYVFaMjZrTGFrQ1l4SDhwR2tSTjdXby14enQ4OXRfX1FEMzZYX05KQm9jNzNKR2JGN3lEdmxWRmlCS2lQUThpczBVSHdWNFVsY1hHUi1iTVRfaU85b2hGNnN1bWFEZzF5UnNuOGFUWDdSY0taSF84cm9vVl85ejZzQU5vWThYUzBCR0VtSF9XdGU3LTdoV18zWmxwTmRnWlgyTnd0dExKdDZtZnRnLVRwMzQxQU5aZENuWFJmdFQ0eU5PbUZ5MXA5VmV1amplcGJsVXliX2hsVGRXWDNidjVRLXFndm9LcjRDYw",
+   "source": "www.gasgoo.com",
+   "published_at": "2026-10-26T02:32:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "www.gasgoo.com",
+     "published_at": "2026-10-26T02:32:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOMDE0WFZQd3BfX1h2d0FzRnNGTXVqYUZDNERVTVU0dE01c3JiUllOejlNVkExQkVDel9OZVdZamFaZXdxbHBPTFdTcFZGRGQ0OUttaUNlSVRWTEpCUjNmc0x3UTF3aktJOW9fd3JNaS1ydGNPTUp5dUg1T2ZOeko4YWtxeVVDTlZhZmxmMEhhUmZQZEFJaWV4WUNham8zYVFaMjZrTGFrQ1l4SDhwR2tSTjdXby14enQ4OXRfX1FEMzZYX05KQm9jNzNKR2JGN3lEdmxWRmlCS2lQUThpczBVSHdWNFVsY1hHUi1iTVRfaU85b2hGNnN1bWFEZzF5UnNuOGFUWDdSY0taSF84cm9vVl85ejZzQU5vWThYUzBCR0VtSF9XdGU3LTdoV18zWmxwTmRnWlgyTnd0dExKdDZtZnRnLVRwMzQxQU5aZENuWFJmdFQ0eU5PbUZ5MXA5VmV1amplcGJsVXliX2hsVGRXWDNidjVRLXFndm9LcjRDYw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "7a3b207bbb1f",
@@ -140,26 +174,6 @@
    "zh_summary": "Meta的TorchTPU改变TPU与GPU竞争",
    "title_zh": "Meta的TorchTPU如何改变谷歌TPU与英伟达GPU之争",
    "sentiment": -1
-  },
-  {
-   "id": "9dec125c64e1",
-   "title": "SpaceX完成400亿美元债务融资，拟采购英伟达GPU芯片 - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wSEdOU3JGS05GYnFqZDZJMUZ2c05SYXdxZHVGN203UFZwOUxRSGhfMXFzdWhYSzN0SkY0SmloOUFOT0Q0eEg5Rmg3OWdMaHVoOF9Jdy1XUzJFQUhV",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-26T02:10:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-26T02:10:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wSEdOU3JGS05GYnFqZDZJMUZ2c05SYXdxZHVGN203UFZwOUxRSGhfMXFzdWhYSzN0SkY0SmloOUFOT0Q0eEg5Rmg3OWdMaHVoOF9Jdy1XUzJFQUhV"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "SpaceX融资400亿美元拟采购英伟达GPU",
-   "title_zh": "SpaceX完成400亿美元债务融资，拟采购英伟达GPU芯片",
-   "sentiment": 1
   },
   {
    "id": "7329a314561f",
@@ -485,6 +499,31 @@
    "session": "周末",
    "zh_summary": "英伟达RTXPT 1.9路径追踪提速约20%",
    "title_zh": "英伟达RTXPT 1.9路径追踪提速约20%，新增Arm版Windows支持",
+   "sentiment": 1
+  },
+  {
+   "id": "d12f7c828476",
+   "title": "马斯克称SpaceX完成400亿美元债务融资 用于购买英伟达AI芯片 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mcUhVRjNiSENKaml3Um1pUUY4UG9rbFpuUUF3bnNpZHVmajlfX2JJY3llbkl0THNzRk82aEYwWWpnYVM3UWg4RHUtUQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-25T23:55:54+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-25T23:55:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mcUhVRjNiSENKaml3Um1pUUY4UG9rbFpuUUF3bnNpZHVmajlfX2JJY3llbkl0THNzRk82aEYwWWpnYVM3UWg4RHUtUQ"
+    },
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-26T02:10:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wSEdOU3JGS05GYnFqZDZJMUZ2c05SYXdxZHVGN203UFZwOUxRSGhfMXFzdWhYSzN0SkY0SmloOUFOT0Q0eEg5Rmg3OWdMaHVoOF9Jdy1XUzJFQUhV"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末",
+   "zh_summary": "SpaceX融资400亿美元拟采购英伟达GPU",
+   "title_zh": "SpaceX完成400亿美元债务融资，拟采购英伟达GPU芯片",
    "sentiment": 1
   },
   {
@@ -1014,7 +1053,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyOUVWOFkwSEllX0ZjaWhZNnZtSUwxbVdCX0xfSHBETGk5SmhLVkNiYzVoRmR5N2NZcjZ1eFBRTVpFM0doUVlQVUpOYlBDSXZTeUZXVDBTTDN3TXo4TjBpVQ",
    "source": "cnBeta.COM",
    "published_at": "2026-10-25T16:46:00+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "cnBeta.COM",
@@ -1035,6 +1074,11 @@
      "name": "手机新浪网",
      "published_at": "2026-10-26T02:10:23+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04bXdLVVpRWGhOa1VZcUJ6QkNJMGhlNUNrTkhPMDZEa25EQ3hYY19LTE5pTUQ4cjNCUnFPTVMxeVlRVlJ5T1hUQVoyQS1OLXI5Ynh3dnRRZFdEdFRMcmRXdlppaF90T3BncWxHMjZFWHAzV2xTT3RtdC03WVFwbW8"
+    },
+    {
+     "name": "币界网",
+     "published_at": "2026-10-26T01:58:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXNndVbTVneHM3TXBmZWdfZlF6dXEwYjVXRk9laW9RMmQ3V0pwTm1ablRYbUpHVUJxTi1GMDA5Qk4tUkNUOGo1WC12V2phQWJ3RVE"
     }
    ],
    "category": "其他",
@@ -6409,46 +6453,6 @@
    "session": "盘前",
    "zh_summary": "纳斯达克100ETF加仓英伟达苹果",
    "title_zh": "QQQM周三加仓英伟达和苹果",
-   "sentiment": 1
-  },
-  {
-   "id": "93cfb5a22d58",
-   "title": "What Invesco QQQ (QQQ) Sold: NVIDIA Leads on Oct. 21 - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGtoYmgwX2ZtTUtpMWNKVnppUFd0d1hMeXByTF9EZjBXajZ1VjJFV2V4RlY3YnpaeTRHMC1VcnQyYUNzdzAxZV9uelVVWkJVRnkyLWJGVlNndDZBQnk4MGctQXFfYV9vb01Xand6aFNrZHFTbk5vZHdRN1YtZ1pjeXR4MzRybUg5Qk1GNXZucGJ2NlN4Skdz",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-23T11:04:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-23T11:04:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGtoYmgwX2ZtTUtpMWNKVnppUFd0d1hMeXByTF9EZjBXajZ1VjJFV2V4RlY3YnpaeTRHMC1VcnQyYUNzdzAxZV9uelVVWkJVRnkyLWJGVlNndDZBQnk4MGctQXFfYV9vb01Xand6aFNrZHFTbk5vZHdRN1YtZ1pjeXR4MzRybUg5Qk1GNXZucGJ2NlN4Skdz"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "QQQ减持英伟达，10月21日居首",
-   "title_zh": "Invesco QQQ减持：英伟达10月21日减持居首",
-   "sentiment": -1
-  },
-  {
-   "id": "be48efde8602",
-   "title": "SpaceX Can't Find Spare Nvidia, Google or Amazon Chips Despite Billions to Spend, Strategist Terms It 'Pretty Insane' - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPemZyaDdqNGU4RGlrQllOZ2ZuVG5XSFRYdUNwXzRad28tbVdSZVNJQ3ViQVItc1dDek4zdjkyOEZSZTNkZEFZcmhIM1lZazVoZUZ3VDBLNEh3M0lsS0djUXZtbkV1WUlCRVdDdmJBMkE3UlprejluVFZ5REY2LURmUVkyNkVGdF9YenRqazdiYnYxTWlpTy1pNXNPTQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-23T11:00:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-23T11:00:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPemZyaDdqNGU4RGlrQllOZ2ZuVG5XSFRYdUNwXzRad28tbVdSZVNJQ3ViQVItc1dDek4zdjkyOEZSZTNkZEFZcmhIM1lZazVoZUZ3VDBLNEh3M0lsS0djUXZtbkV1WUlCRVdDdmJBMkE3UlprejluVFZ5REY2LURmUVkyNkVGdF9YenRqazdiYnYxTWlpTy1pNXNPTQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "SpaceX有钱也买不到英伟达芯片",
-   "title_zh": "SpaceX有钱也难买英伟达等芯片",
    "sentiment": 1
   }
  ]
