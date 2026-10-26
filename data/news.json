@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T00:06:38.066627+00:00",
+ "updated_at": "2026-10-26T00:21:33.886040+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 23
   },
   "day_sentiment": {
-   "avg": 0.3,
-   "count": 63
+   "avg": 0.31,
+   "count": 67
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.30（63条已评分）"
+     "note": "今日新闻情绪 +0.31（67条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-26T00:06:38.057104+00:00"
+   "as_of": "2026-10-26T00:21:33.871335+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "1aaa7c9f1ef7",
+   "title": "科技早报 | 英伟达停产传闻搅动华强北，显卡一日一价；微信回应少量企业微信账号发色情链接 - Jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pNjVDOXM1blBqZzlibnMxdEVmalN0R0VOeFlLaU9XRUdTSWVyUWRRTHE4b2pneG41X19qeFVjc29RRDRZVHhwYWVfTE9XcXItajRoempYSWo",
+   "source": "Jiemian.com",
+   "published_at": "2026-10-26T00:12:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Jiemian.com",
+     "published_at": "2026-10-26T00:12:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pNjVDOXM1blBqZzlibnMxdEVmalN0R0VOeFlLaU9XRUdTSWVyUWRRTHE4b2pneG41X19qeFVjc29RRDRZVHhwYWVfTE9XcXItajRoempYSWo"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
+  {
+   "id": "a626632ba16e",
+   "title": "NVIDIA RTXPT 1.9 Path Tracer Gets Around 20% Faster, Adds Windows on Arm Support - TechPowerUp",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEEtVnNaMVBCNkVrZHdsMThRbjZyMVo3TDZsQ0lVdnRTQ3hMQ2tWRHotQlVEQ2VKSGNUb0lRdFZvTUhVaVBaMmg1VDlRcHZCdDFHYkc1TTkwMDlRVWtaNEZGZHpSdUppTU1BcFIyVmpTekplVEV1eGF4WTFRQ2ZzaGwybUlkRDRFd0tsaENtYWtzWDdOVHpId1JjMkFsaGxkbGtIOExQSHFsYXBvb01HdjNpTdIBuAFBVV95cUxQdkE1aDRlaXBiV0ZCTVFMRHFGdGF0ZlRfQWFTSldMY2RRM3RyZF9wMTgxbmJsa0J3NF9iMnpGUjhlMWwxZG1oY0dfZlZwTXRkTHVFTGFTTGM2MTVobnZ5ajR5NzNzMHczLUM1S0FkSWxEUkl6LUJZRWRiaUdaRC1fTURhcHhsLTZLcll3OHZXbENwSWlXUnVRaGQ1MkpQWlh2OURHaWtxU0pHYkYyREZaUmNWVzFuZGJI",
+   "source": "TechPowerUp",
+   "published_at": "2026-10-26T00:05:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-10-26T00:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEEtVnNaMVBCNkVrZHdsMThRbjZyMVo3TDZsQ0lVdnRTQ3hMQ2tWRHotQlVEQ2VKSGNUb0lRdFZvTUhVaVBaMmg1VDlRcHZCdDFHYkc1TTkwMDlRVWtaNEZGZHpSdUppTU1BcFIyVmpTekplVEV1eGF4WTFRQ2ZzaGwybUlkRDRFd0tsaENtYWtzWDdOVHpId1JjMkFsaGxkbGtIOExQSHFsYXBvb01HdjNpTdIBuAFBVV95cUxQdkE1aDRlaXBiV0ZCTVFMRHFGdGF0ZlRfQWFTSldMY2RRM3RyZF9wMTgxbmJsa0J3NF9iMnpGUjhlMWwxZG1oY0dfZlZwTXRkTHVFTGFTTGM2MTVobnZ5ajR5NzNzMHczLUM1S0FkSWxEUkl6LUJZRWRiaUdaRC1fTURhcHhsLTZLcll3OHZXbENwSWlXUnVRaGQ1MkpQWlh2OURHaWtxU0pHYkYyREZaUmNWVzFuZGJI"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "14a672ff6b08",
    "title": "英伟达瞄准GPU软件订阅收入黄仁勋提出每块GPU每年约1.35万|人工智能|运行|定价|软件业务|价格_手机新浪网 - 新浪财经",
@@ -1581,6 +1615,23 @@
    "zh_summary": "英伟达推出适配4GB内存的本地AI助手模型",
    "title_zh": "英伟达瞄准本地AI助手，推出4GB内存预算模型",
    "sentiment": 1
+  },
+  {
+   "id": "37a60210703a",
+   "title": "Penn Davis Mcfarland trims Nvidia stake by 4,287 shares - The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmQ2TFhCYzlKX2NuZmxpNG4waFVfMHVSZUVKMVNkSmwybGE3bTluWFBlLXF3QnE1MTFJYnU3WndqUGNkeVg1dWVkb1RuclUzTVFSWFVqd3NEWWZaT1JFNldlWTlyTUNrNDJrUHpuNVpYdGZ4TE05bFgwY2ZLbThDZC02MkpGZThCQ2dNcHdzeS1qYUZLQkZmTkgxYzBRY0dHa2IyUlRNZ3gxSVgybE40UC16ck5xdEszejhhMlNxOV93OU8xcGZDdWNhWVRwTm41Tlk4WHln",
+   "source": "The Globe and Mail",
+   "published_at": "2026-10-25T03:08:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-25T03:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmQ2TFhCYzlKX2NuZmxpNG4waFVfMHVSZUVKMVNkSmwybGE3bTluWFBlLXF3QnE1MTFJYnU3WndqUGNkeVg1dWVkb1RuclUzTVFSWFVqd3NEWWZaT1JFNldlWTlyTUNrNDJrUHpuNVpYdGZ4TE05bFgwY2ZLbThDZC02MkpGZThCQ2dNcHdzeS1qYUZLQkZmTkgxYzBRY0dHa2IyUlRNZ3gxSVgybE40UC16ck5xdEszejhhMlNxOV93OU8xcGZDdWNhWVRwTm41Tlk4WHln"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "781ac774fa6a",
@@ -6353,71 +6404,6 @@
    "session": "盘前",
    "zh_summary": "$399 AI鸭子机器人学会行走",
    "title_zh": "英伟达教会$399鸭子机器人用AI行走",
-   "sentiment": 1
-  },
-  {
-   "id": "48512a4b3195",
-   "title": "柯马与英伟达合作加速推动工业机器人领域的物理AI创新 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02TzhuZVlNNlo1UTUtT3lIQzNwVmdfelpDQ3FPbHBMdHdzZ1JzbFlSY1Z2NW9haW03UGUwX0ctdWR2TGxxUWdvci05TGtaa2JzU0JHRnN5V2hScVhHeWgyVnhaMG14bmFROVVBcE43OUFXNGViUUpVbQ",
-   "source": "新浪财经",
-   "published_at": "2026-10-23T09:13:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-23T09:13:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02TzhuZVlNNlo1UTUtT3lIQzNwVmdfelpDQ3FPbHBMdHdzZ1JzbFlSY1Z2NW9haW03UGUwX0ctdWR2TGxxUWdvci05TGtaa2JzU0JHRnN5V2hScVhHeWgyVnhaMG14bmFROVVBcE43OUFXNGViUUpVbQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "柯马与英伟达合作推动物理AI创新",
-   "title_zh": "柯马与英伟达合作加速工业机器人物理AI创新",
-   "sentiment": 1
-  },
-  {
-   "id": "0a6ee62226b6",
-   "title": "Nvidia Touts 576-GPU 'Rubin Ultra' Rack-Scale Platform for 10-Trillion-Parameter Models - finance.biggo.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13YlNDXzBJdHZSN012QnRjUnhJbndDcDZDeHBNVzZvcDN2eGE3WnpBQmxiZUdta0EtRXpLTmY5dHpNOVRyUzBMS2FSeUFnUHVJV2E2eUhocURhUEhOb0FaN1AyVERlaFlRYnM0MFRuY3B3X1BCOVE",
-   "source": "finance.biggo.com",
-   "published_at": "2026-10-23T09:05:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "finance.biggo.com",
-     "published_at": "2026-10-23T09:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13YlNDXzBJdHZSN012QnRjUnhJbndDcDZDeHBNVzZvcDN2eGE3WnpBQmxiZUdta0EtRXpLTmY5dHpNOVRyUzBMS2FSeUFnUHVJV2E2eUhocURhUEhOb0FaN1AyVERlaFlRYnM0MFRuY3B3X1BCOVE"
-    },
-    {
-     "name": "BigGo Finance",
-     "published_at": "2026-10-23T09:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13YlNDXzBJdHZSN012QnRjUnhJbndDcDZDeHBNVzZvcDN2eGE3WnpBQmxiZUdta0EtRXpLTmY5dHpNOVRyUzBMS2FSeUFnUHVJV2E2eUhocURhUEhOb0FaN1AyVERlaFlRYnM0MFRuY3B3X1BCOVE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达发布576GPU Rubin Ultra平台",
-   "title_zh": "英伟达推出576-GPU Rubin Ultra机架平台，支持10万亿参数",
-   "sentiment": 1
-  },
-  {
-   "id": "039c9eb8d6cc",
-   "title": "Nvidia Stock Forecast: Huang's Neocloud Funding Remarks Push NVDA Into the $206.89 Demand Zone - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQkdEd3p3eFVHNEp0UndFbTJzVGlEdTJCSGZLUWpWbGpjRU55cXJqVi1zcXhwZ09xOTF4MzJ6aTJzZHdTLVlUN0ZoZGZmbEl0VmQ2N0JyaE9lekp3dVlYVzZ6LVhwcTl0bFVLdlF3RHZrM0w4R2JEaEY3TXJiWjlxcWc0UzFLZ3JHSXphNXljSGVxN0wtSnVvMkVhOE9lMFN0Q01JQVJpTVdjUFMxd196aGhqc3doc1BoWTc5dzd0dGVwaTEyVmRnT1FuS01OZnNpTk95YXNNQWRFeHYwTGdHeDhPU0Z0QUN6bEF1em1wSFI",
-   "source": "TradingKey",
-   "published_at": "2026-10-23T09:02:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-23T09:02:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQkdEd3p3eFVHNEp0UndFbTJzVGlEdTJCSGZLUWpWbGpjRU55cXJqVi1zcXhwZ09xOTF4MzJ6aTJzZHdTLVlUN0ZoZGZmbEl0VmQ2N0JyaE9lekp3dVlYVzZ6LVhwcTl0bFVLdlF3RHZrM0w4R2JEaEY3TXJiWjlxcWc0UzFLZ3JHSXphNXljSGVxN0wtSnVvMkVhOE9lMFN0Q01JQVJpTVdjUFMxd196aGhqc3doc1BoWTc5dzd0dGVwaTEyVmRnT1FuS01OZnNpTk95YXNNQWRFeHYwTGdHeDhPU0Z0QUN6bEF1em1wSFI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋言论推动NVDA至需求区",
-   "title_zh": "黄仁勋Neocloud融资言论推动NVDA进入$206.89需求区",
    "sentiment": 1
   }
  ]
