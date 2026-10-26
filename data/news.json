@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T14:06:31.339803+00:00",
+ "updated_at": "2026-10-26T14:21:40.105408+00:00",
  "market": {
-  "price": 214.42,
-  "change_pct": 1.64,
+  "price": 214.98,
+  "change_pct": 1.91,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 111
+   "avg": 0.38,
+   "count": 117
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 66% 分位"
+     "note": "现价处于52周区间 67% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +46.9%"
+     "note": "目标价中位数 $315（16家），隐含空间 +46.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（111条已评分）"
+     "note": "今日新闻情绪 +0.38（117条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $214.42 vs 20日均线 $224.82"
+     "note": "现价 $214.98 vs 20日均线 $224.85"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 66,
+   "price_52w_pct": 67,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 46.9,
-   "ma20": 224.82,
-   "as_of": "2026-10-26T14:06:31.323648+00:00"
+   "implied_upside_pct": 46.5,
+   "ma20": 224.85,
+   "as_of": "2026-10-26T14:21:40.096600+00:00"
   },
   "pe_ttm": 27.3,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,13 +62,52 @@
  },
  "stories": [
   {
-   "id": "2b8dec277acb",
-   "title": "Price Prediction: The Gap With Nvidia Could Shape AMD’s Next Big Move - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ25KcDNxN0NJRC02WGw1NVJwQUFJVkxGS0htOWFoakdmNzN1OVd2UUNrOHo2OWJNRlJnQmhiMzVLSU51eFFYanJMRDZ0R19GSFRDLTlpMWM1aWwzdEJXOF9xc0NiM2tmQkRyRE11YndkWmhKYjBIUExxX3ZoTFNyRW90UUZ5YWd6MFhUSVkxV3VRTEJOcklNMkhwSUNvZ1c3eWRRbjZvbDg1NFRNMExiYQ",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-26T14:04:25+00:00",
+   "id": "44d63c489cbc",
+   "title": "Could Nokia and NVIDIA Help Musk Occupy Earth? - Sebastian Barros Newsletter",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4ydW5QeU15aVZKOXB2emxfbWVXU2hlbGZTLWVSQ192bzd2bDVyRkZmOXEyclQxazBVMDExenNIT2hzWFFXQzd1Z0hRUHBiMlFYOVFpc2lPX2hQZkVKdjhYYkRVVGxqbGhTQTJzR1V1NExYNno4VHkyQmhUOA",
+   "source": "Sebastian Barros Newsletter",
+   "published_at": "2026-10-26T14:07:01+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "Sebastian Barros Newsletter",
+     "published_at": "2026-10-26T14:07:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4ydW5QeU15aVZKOXB2emxfbWVXU2hlbGZTLWVSQ192bzd2bDVyRkZmOXEyclQxazBVMDExenNIT2hzWFFXQzd1Z0hRUHBiMlFYOVFpc2lPX2hQZkVKdjhYYkRVVGxqbGhTQTJzR1V1NExYNno4VHkyQmhUOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "97ddff11a40a",
+   "title": "Honeywell Teams up With NVIDIA, Dell To Chase Massive Oil Refinery Savings - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVdwLVAxTXcxeTQ2NmhncC1LSlBmaFNENnhCMzJJQjlEQ0hsRGNEVF9YU0F0LXAwbE9VMVMyMWFjNEg5NmNuN29oaEIwRXdyMlpSV0duZ2NYVlBETHBLdVRRYmVWV2c0eXpjRUlDVFoyZzhIZzZhWE5naGh6SF9meHNLeVhlVlBxTlR6LTRVenRxS3dWQmhCekNVekxUWUVDcExoY3lHV29OWEM5V1pHNVZnZnBrdmZEZWxzN1R5Q0JiUkM2",
+   "source": "Benzinga",
+   "published_at": "2026-10-26T14:06:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-26T14:06:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVdwLVAxTXcxeTQ2NmhncC1LSlBmaFNENnhCMzJJQjlEQ0hsRGNEVF9YU0F0LXAwbE9VMVMyMWFjNEg5NmNuN29oaEIwRXdyMlpSV0duZ2NYVlBETHBLdVRRYmVWV2c0eXpjRUlDVFoyZzhIZzZhWE5naGh6SF9meHNLeVhlVlBxTlR6LTRVenRxS3dWQmhCekNVekxUWUVDcExoY3lHV29OWEM5V1pHNVZnZnBrdmZEZWxzN1R5Q0JiUkM2"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "2b8dec277acb",
+   "title": "Price Prediction: The Gap With Nvidia Could Shape AMD’s Next Big Move - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWY0TkVlTDdaNXZCb202cDRFZkJENlFpRVBKWVpuQnlheUZIR0ZHY2NmQTZRMDdXXzdxcXdKZlA1UWU3dWhWTENSZUtMV0lva1hDUGFCVVFIaFktYmF4enlXSmk0ZVBLMGtZNV8tQlRDWW90VlR4SVBxRmlXRTQ1UzZXVHN2Wl9sZzczSjZpcHljazVUT3ZUUjNNNEhrRms",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-26T14:00:43+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-26T14:00:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWY0TkVlTDdaNXZCb202cDRFZkJENlFpRVBKWVpuQnlheUZIR0ZHY2NmQTZRMDdXXzdxcXdKZlA1UWU3dWhWTENSZUtMV0lva1hDUGFCVVFIaFktYmF4enlXSmk0ZVBLMGtZNV8tQlRDWW90VlR4SVBxRmlXRTQ1UzZXVHN2Wl9sZzczSjZpcHljazVUT3ZUUjNNNEhrRms"
+    },
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-26T14:04:25+00:00",
@@ -99,26 +138,6 @@
    "session": "盘中",
    "zh_summary": "英伟达模拟技术进入谷歌项目",
    "title_zh": "英伟达以模拟技术加入谷歌项目",
-   "sentiment": 0
-  },
-  {
-   "id": "18c154aba30e",
-   "title": "谁掌握了稀缺算力，谁就是下一个英伟达！ - 华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3b1ZMWjZ6RzktOG1KZGp6bFZhQWdjcU5TYXJsUXdEMHBzZ3FjbkxDZjc3cG9VOGJheVE3NUp3bGVHMV9mdFNheVNCeFZPSXBRM0E",
-   "source": "华尔街见闻",
-   "published_at": "2026-10-26T13:49:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-26T13:49:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3b1ZMWjZ6RzktOG1KZGp6bFZhQWdjcU5TYXJsUXdEMHBzZ3FjbkxDZjc3cG9VOGJheVE3NUp3bGVHMV9mdFNheVNCeFZPSXBRM0E"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘中",
-   "zh_summary": "稀缺算力成关键，谁将成下一个英伟达",
-   "title_zh": "谁掌握了稀缺算力，谁就是下一个英伟达！ - 华尔街见闻",
    "sentiment": 0
   },
   {
@@ -160,6 +179,26 @@
    "zh_summary": "SWI投资10亿美元将欧洲电力转算力",
    "title_zh": "SWI投资10亿美元将欧洲电力转为AI算力",
    "sentiment": 1
+  },
+  {
+   "id": "18c154aba30e",
+   "title": "谁掌握了稀缺算力，谁就是下一个英伟达！ - 华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3b1ZMWjZ6RzktOG1KZGp6bFZhQWdjcU5TYXJsUXdEMHBzZ3FjbkxDZjc3cG9VOGJheVE3NUp3bGVHMV9mdFNheVNCeFZPSXBRM0E",
+   "source": "华尔街见闻",
+   "published_at": "2026-10-26T13:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华尔街见闻",
+     "published_at": "2026-10-26T13:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3b1ZMWjZ6RzktOG1KZGp6bFZhQWdjcU5TYXJsUXdEMHBzZ3FjbkxDZjc3cG9VOGJheVE3NUp3bGVHMV9mdFNheVNCeFZPSXBRM0E"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中",
+   "zh_summary": "稀缺算力成关键，谁将成下一个英伟达",
+   "title_zh": "谁掌握了稀缺算力，谁就是下一个英伟达！ - 华尔街见闻",
+   "sentiment": 0
   },
   {
    "id": "184c1f2e0b58",
@@ -990,6 +1029,23 @@
    "zh_summary": "英伟达等有意认购Meta50亿美元股票",
    "title_zh": "英伟达、AMD和博通对50亿美元普通股表示出兴趣。",
    "sentiment": 1
+  },
+  {
+   "id": "2db35b5641aa",
+   "title": "英伟达、AMD和博通有意收购至少50亿美元Meta普通股。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EVTlERG1seXd3NE1ZTUxyVjhMYVNkOGc1SWpVSkpFbmhiOGhnQjdkUG5WeHd3LThhQ0V6VVhCUExKaTV3bG1reUtGZw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-26T11:03:32+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-26T11:03:32+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EVTlERG1seXd3NE1ZTUxyVjhMYVNkOGc1SWpVSkpFbmhiOGhnQjdkUG5WeHd3LThhQ0V6VVhCUExKaTV3bG1reUtGZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "fd567571180b",
@@ -2078,6 +2134,23 @@
    "zh_summary": "Envestnet增持英伟达股票",
    "title_zh": "Envestnet资产管理增持英伟达$NVDA股份",
    "sentiment": 1
+  },
+  {
+   "id": "9cc578b6756c",
+   "title": "Altar Rock LLC Sells 3,921 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb2ZQblNEY3dKMVYyRUxDX05DRGFuMDB6ZkJuQndCZGJPeks0Sy0wUmJDN1RFSU1sUGg1QlRpZklMR1lpT3BoYk1IYThXSHpxYkN3U1o0RkJ5eDROUHNnaTRUZ1pNRFRKeG5VSHpnMW9DR2ZPY1I2bkhFbS0yZjZzM014Rk1NUWhCa2FrRHV1ODZkTXl3NC04Z1p3SkxnX01mN0FMTExrTjk1QXZrZTBnbndqaFZwcl9rTnZBVw",
+   "source": "MarketBeat",
+   "published_at": "2026-10-26T07:38:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-26T07:38:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb2ZQblNEY3dKMVYyRUxDX05DRGFuMDB6ZkJuQndCZGJPeks0Sy0wUmJDN1RFSU1sUGg1QlRpZklMR1lpT3BoYk1IYThXSHpxYkN3U1o0RkJ5eDROUHNnaTRUZ1pNRFRKeG5VSHpnMW9DR2ZPY1I2bkhFbS0yZjZzM014Rk1NUWhCa2FrRHV1ODZkTXl3NC04Z1p3SkxnX01mN0FMTExrTjk1QXZrZTBnbndqaFZwcl9rTnZBVw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "13ff0c03de3d",
@@ -6494,101 +6567,6 @@
    "session": "周末",
    "zh_summary": "英伟达AI融资角色面临首次大考",
    "title_zh": "英伟达作为AI融资方的角色面临首次大考，neocloud承压",
-   "sentiment": -1
-  },
-  {
-   "id": "928263b3eacd",
-   "title": "Apple Just Passed Nvidia as the World’s Most Valuable Company on iPhone Duo Day - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGZyaFBSaEZzV0Z3R0w4UEtlcVBaM2lzaWJBMVE4X1E3YlpfY0FfTUVLdDZIaWVqTlc1SWlfS255MG82YlpFQWF2SmdEbkYzdFJGTkFHbk5DOG9JZ19pNGR4dkltSzBVUXlGUWVLbkNTZk1pTVpGWndmT0E3NjI0OHVyUWRNa016MXB2N3V1NmNFSWhtMHMyMVIzdHg5OFk3SW1KcVEwZGppNlc3NEVlWWhOTVRuaFFQeVR5NkdhYw",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-24T11:15:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-24T11:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGZyaFBSaEZzV0Z3R0w4UEtlcVBaM2lzaWJBMVE4X1E3YlpfY0FfTUVLdDZIaWVqTlc1SWlfS255MG82YlpFQWF2SmdEbkYzdFJGTkFHbk5DOG9JZ19pNGR4dkltSzBVUXlGUWVLbkNTZk1pTVpGWndmT0E3NjI0OHVyUWRNa016MXB2N3V1NmNFSWhtMHMyMVIzdHg5OFk3SW1KcVEwZGppNlc3NEVlWWhOTVRuaFFQeVR5NkdhYw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-24T11:15:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaThfNUNra1V1dWNUd29xVzQ3XzBPTHRJanRaRWhKNlMzaWhkVEc0elBaZHJpV1MwQ0tiYUYxaWl5eEtPaVRZYVdzaFNyMXNYTHZTNlg5dGhZRnBQMzZBcXFIWGFBY3N6T1lTUWRxQ3IyZ2pHRDMzVm5mUERnSm51OEM3NWRaUWo5NzlUc1Q4Z3hoZXBMTVdRV1dpRQ"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-24T11:15:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xZlVVQ05UQzdLQnJEU2VvVmFHblFzbldCM1loa0lDdUNPRVlyWUlTb0M2aU10MVlaaFVEWHNHRWlfZVZDMEU4NHpIQ1hLWkYzZzNaN1dqYzhLaUNKc3pZRlo3UXFYUHdQX3FaTzJrTzZ5RnR1bFdEQnVpR0VWS0E"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "苹果市值反超英伟达成全球第一",
-   "title_zh": "苹果市值超过英伟达成全球最有价值公司",
-   "sentiment": 0
-  },
-  {
-   "id": "396b5901f8e3",
-   "title": "Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers — GPU die and memory desoldered and transplanted to blower designs; custom cards to Nvidia Founders Editions on the chopping b - Tom's Hardware",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWEJjQi1za1l1bTI1SFNZcVBMeDJ6RFVQNWJ1RU5iWWVBQzFUN18wTndLek15MWplRmpTSW1rMklpSFBDbUZobk5WMXBsTlY2YzI5dVByWVdXTHYyNUp2OGUxaUk0c0NvSkZBcC1NbWtnQVR1ZXN6NDd6WmhBZ2lIbS1rVmhDVWlWbHJqZTh0UF9xLXpKSXYwNlYxUFJCUEJKTjNEVmVabTdRaDZ2RUIwNFBkUmd2T3FLNW1ZOHc5V1JDTkphb2JidEFhRjQ3Y3Q1RXRPajZRektKNG9KUVRQaVBQbkpJOXhXb2NrcVlnbW9ycTgwVE1CX0s1R3c5MVRDczZDRDZUNHlSTEVES1JlUzFENWprQTVWR2NNTlNtT05xUQ",
-   "source": "Tom's Hardware",
-   "published_at": "2026-10-24T11:15:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tom's Hardware",
-     "published_at": "2026-10-24T11:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWEJjQi1za1l1bTI1SFNZcVBMeDJ6RFVQNWJ1RU5iWWVBQzFUN18wTndLek15MWplRmpTSW1rMklpSFBDbUZobk5WMXBsTlY2YzI5dVByWVdXTHYyNUp2OGUxaUk0c0NvSkZBcC1NbWtnQVR1ZXN6NDd6WmhBZ2lIbS1rVmhDVWlWbHJqZTh0UF9xLXpKSXYwNlYxUFJCUEJKTjNEVmVabTdRaDZ2RUIwNFBkUmd2T3FLNW1ZOHc5V1JDTkphb2JidEFhRjQ3Y3Q1RXRPajZRektKNG9KUVRQaVBQbkpJOXhXb2NrcVlnbW9ycTgwVE1CX0s1R3c5MVRDczZDRDZUNHlSTEVES1JlUzFENWprQTVWR2NNTlNtT05xUQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "中国工厂拆解RTX 5090改装AI服务器",
-   "title_zh": "中国工厂拆解数千张RTX 5090改装AI服务器",
-   "sentiment": 0
-  },
-  {
-   "id": "00a3fc34528f",
-   "title": "Prediction: $200 a Month Invested in Nvidia Will Be Worth This Much by 2035 - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjRKeXR1Y2ZxeVBnS21lRDA2S0t4a18yNHJfdVpwUS1DbC1qZEZ2NUFBdnBVMVk4QldTdlVYZjRNWml0LWNpdTNucFYwbVBnMzBjWjZyYV9DMEp2by1ma0lpNW84RUNwYTBpT0l4VHh3MEZHZlVLcU5ITld0Nzg5RjFQNi13eEZha0Z3M1ByVGx1aEVnRjRF",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-24T11:14:11+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-24T11:14:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjRKeXR1Y2ZxeVBnS21lRDA2S0t4a18yNHJfdVpwUS1DbC1qZEZ2NUFBdnBVMVk4QldTdlVYZjRNWml0LWNpdTNucFYwbVBnMzBjWjZyYV9DMEp2by1ma0lpNW84RUNwYTBpT0l4VHh3MEZHZlVLcU5ITld0Nzg5RjFQNi13eEZha0Z3M1ByVGx1aEVnRjRF"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-24T11:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPclhfWWwyMi15TTFtdjlZZFluel9FejdiY284aDdpTVdLSWR4anZHVXd5VXRXNHFQaEZKVjB2Ni1PSi0zT3JmdDZXbjF1QzNULWxVbWM5VWZKRzFnR19EQWE3bm5jQXk2bFZnMlNhNGhfZ0w3UnpiLXhXNWxOdDR1bnE4QzB5SGs"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "每月投200美元买英伟达至2035年收益预测",
-   "title_zh": "预测：每月投200美元买英伟达，到2035年值多少",
-   "sentiment": 0
-  },
-  {
-   "id": "89866fb53e97",
-   "title": "AMD FSR 4 almost caught up with NVIDIA DLSS 4.5 in image quality in Cyberpunk 2077 - GameGPU",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2lIWGlrMHR0MXkwWVNlTjZaZmUxcEYzbTM2WFg2NUx3aG1MUDB2N1U3RDR6ZkJnZ2FQYWNWTkhCY2M5SGNUNFhpMjg4MkNmNFRnNnBrYlpHTy1SZm1JanZfd211MWEtMnowRnZCVUtyNEZCdWRnX0ZvZk9PYXd0TGsyUmVsMDFiQnl6UUVSaVJfM1g2bUVPMUNKc3g4V2hfZTFuRWU0bUh3Q0lETlpneE9QTzNVeWhI",
-   "source": "GameGPU",
-   "published_at": "2026-10-24T11:12:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GameGPU",
-     "published_at": "2026-10-24T11:12:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2lIWGlrMHR0MXkwWVNlTjZaZmUxcEYzbTM2WFg2NUx3aG1MUDB2N1U3RDR6ZkJnZ2FQYWNWTkhCY2M5SGNUNFhpMjg4MkNmNFRnNnBrYlpHTy1SZm1JanZfd211MWEtMnowRnZCVUtyNEZCdWRnX0ZvZk9PYXd0TGsyUmVsMDFiQnl6UUVSaVJfM1g2bUVPMUNKc3g4V2hfZTFuRWU0bUh3Q0lETlpneE9QTzNVeWhI"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "AMD FSR 4画质接近英伟达DLSS 4.5",
-   "title_zh": "AMD FSR 4在《赛博朋克2077》中画质接近英伟达DLSS 4.5",
    "sentiment": -1
   }
  ]
