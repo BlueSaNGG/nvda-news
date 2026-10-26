@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T06:21:35.264417+00:00",
+ "updated_at": "2026-10-26T06:36:35.435794+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,12 +10,12 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.33,
-   "count": 3
+   "avg": 0.5,
+   "count": 4
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.33（3条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（4条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-26T06:21:35.249119+00:00"
+   "as_of": "2026-10-26T06:36:35.419294+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e74ada7f0bac",
+   "title": "不重启反应堆！英伟达要把核电站改成AI数据中心 - 驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52TjN4X2lNOElGdGJKU05LaHk4bGdDRE53R1p1cUU0Y3FiUU4wSHhsd0ZZQkNVcldxbjlIVnJHcVItYnRrQVdXNnNJSG9xeVVBSmpGVmJhTlc",
+   "source": "驱动之家",
+   "published_at": "2026-10-26T06:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "驱动之家",
+     "published_at": "2026-10-26T06:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52TjN4X2lNOElGdGJKU05LaHk4bGdDRE53R1p1cUU0Y3FiUU4wSHhsd0ZZQkNVcldxbjlIVnJHcVItYnRrQVdXNnNJSG9xeVVBSmpGVmJhTlc"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
   {
    "id": "fde974836b31",
    "title": "Nvidia Floats Charging $2,000 a Year Per GPU for Its AI Agent Software - Startup Fortune",
@@ -80,6 +97,23 @@
    "zh_summary": "英伟达拟对AI智能体软件每GPU年收2000美元",
    "title_zh": "英伟达拟对AI智能体软件每GPU年收费2000美元",
    "sentiment": 1
+  },
+  {
+   "id": "e382b724cef6",
+   "title": "中金发布英伟达研报 重申跑赢行业评级 维持目标价308.1美元 - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiSl81cjJ3OV9wRjBOWE9iR29DZHRQa2FrS0VMTlJ5amNWVXpFMVByRU80N2dmLUg3RnFhdVp6bzF6RERFYXphMkN6UldxVmpIeEIxUzBjWjdYVHM1WlhUZnpn",
+   "source": "观点网",
+   "published_at": "2026-10-26T05:57:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-26T05:57:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiSl81cjJ3OV9wRjBOWE9iR29DZHRQa2FrS0VMTlJ5amNWVXpFMVByRU80N2dmLUg3RnFhdVp6bzF6RERFYXphMkN6UldxVmpIeEIxUzBjWjdYVHM1WlhUZnpn"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "9f0334267caa",
@@ -1504,7 +1538,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyOUVWOFkwSEllX0ZjaWhZNnZtSUwxbVdCX0xfSHBETGk5SmhLVkNiYzVoRmR5N2NZcjZ1eFBRTVpFM0doUVlQVUpOYlBDSXZTeUZXVDBTTDN3TXo4TjBpVQ",
    "source": "cnBeta.COM",
    "published_at": "2026-10-25T16:46:00+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "cnBeta.COM",
@@ -1530,6 +1564,11 @@
      "name": "币界网",
      "published_at": "2026-10-26T01:58:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXNndVbTVneHM3TXBmZWdfZlF6dXEwYjVXRk9laW9RMmQ3V0pwTm1ablRYbUpHVUJxTi1GMDA5Qk4tUkNUOGo1WC12V2phQWJ3RVE"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-26T01:48:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uRVdMRVJjTnkzeEJUUVItbzJZQWJMMWdOWXhEc0tFendTSFN3MWU4aDIyV2hJNUt4ZjJWNU1wTHpHaS1jRzlqWVZ2LTg"
     }
    ],
    "category": "其他",
@@ -1984,24 +2023,21 @@
    "sentiment": -1
   },
   {
-   "id": "55c5877711fd",
-   "title": "NVIDIA Corporation $NVDA Stock Sold by WINTON GROUP Ltd - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmpueUs5SEhmZnZ4US02d0UzMXpfdXVkeWlLeVE5NldZdFlnWllNN193LUJXb1pOLW5xUy1rQmxRNGJRYmV2TzYtLUJ5M0dHeWZIZzlia3RBaU45bHhjT2I4a1ZiM0lsVWNuRDFtVFVCTjk4ckJ0SExJTUdxSlFKMm5oQ1prVUtnWFdTM0ZNaHVnWVZ5RElaZ1U5R2FYUHVMc2FiM0ZnOFptVi1yeDBnblJwQjlZdw",
+   "id": "3876737877c6",
+   "title": "NVIDIA Corporation $NVDA Stock Sold by National Pension Service - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2VYc294dXpCbjBkeFFpOEtwMkVOeXd4Y24zakVUVU43dkZWME9JS0Q3V2dtVUR6aWZNSHVCNWxFaHRKNDRIX2pMRkdXRWJpdU5JZjhzSmYxNnBRVTQ2T0t2NTVfZ0lEaElaNjhjS21DblNlVXZ2MzUzazVmVm45STJ2R0tlenI0N2FnVzdLcE1vQ0ZNU3p6OGxkd1VSbU1mQlBDQ1VsRkQ3cE1hQmlyYVZJVHhkdjFZTVA1Q3ZLc1I",
    "source": "MarketBeat",
-   "published_at": "2026-10-25T11:42:06+00:00",
+   "published_at": "2026-10-25T11:42:11+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "MarketBeat",
-     "published_at": "2026-10-25T11:42:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmpueUs5SEhmZnZ4US02d0UzMXpfdXVkeWlLeVE5NldZdFlnWllNN193LUJXb1pOLW5xUy1rQmxRNGJRYmV2TzYtLUJ5M0dHeWZIZzlia3RBaU45bHhjT2I4a1ZiM0lsVWNuRDFtVFVCTjk4ckJ0SExJTUdxSlFKMm5oQ1prVUtnWFdTM0ZNaHVnWVZ5RElaZ1U5R2FYUHVMc2FiM0ZnOFptVi1yeDBnblJwQjlZdw"
+     "published_at": "2026-10-25T11:42:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2VYc294dXpCbjBkeFFpOEtwMkVOeXd4Y24zakVUVU43dkZWME9JS0Q3V2dtVUR6aWZNSHVCNWxFaHRKNDRIX2pMRkdXRWJpdU5JZjhzSmYxNnBRVTQ2T0t2NTVfZ0lEaElaNjhjS21DblNlVXZ2MzUzazVmVm45STJ2R0tlenI0N2FnVzdLcE1vQ0ZNU3p6OGxkd1VSbU1mQlBDQ1VsRkQ3cE1hQmlyYVZJVHhkdjFZTVA1Q3ZLc1I"
     }
    ],
    "category": "其他",
-   "session": "周末",
-   "zh_summary": "国民年金出售英伟达股票",
-   "title_zh": "国民年金出售英伟达股票",
-   "sentiment": -1
+   "session": "周末"
   },
   {
    "id": "3d20b985b888",
@@ -4138,26 +4174,6 @@
    "zh_summary": "机构卖出5331股英伟达股票",
    "title_zh": "XY Planning Network卖出5331股英伟达",
    "sentiment": 0
-  },
-  {
-   "id": "bd5ed1d9fe3d",
-   "title": "NVIDIA Corporation $NVDA Stock Bought by West Family Investments Inc. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWhtQXFpT3ZPM1dQeUdjTEFGc3g4cmpCQmE5SHJzdkYtbnZHWE1OcmxYbWhiVm5leURBX1RlRWU3c1JzVDNTa2tWUlphdG1LdVRUdFBYcUh3cTlYR0QyeFNucXY2RXhlaGNhNzNCeVR1OGtlSE84LVRPTnF0X1U5WUZEd0g0bGVFTVNBeG5HS3lpbzhvQ21RVkZTck9OQXlJMW56TGF4QzN4TlBoNldKdVRBa05TY0xMdTlKbU5UeGNqMEJyYnRN",
-   "source": "MarketBeat",
-   "published_at": "2026-10-24T08:21:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-24T08:21:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWhtQXFpT3ZPM1dQeUdjTEFGc3g4cmpCQmE5SHJzdkYtbnZHWE1OcmxYbWhiVm5leURBX1RlRWU3c1JzVDNTa2tWUlphdG1LdVRUdFBYcUh3cTlYR0QyeFNucXY2RXhlaGNhNzNCeVR1OGtlSE84LVRPTnF0X1U5WUZEd0g0bGVFTVNBeG5HS3lpbzhvQ21RVkZTck9OQXlJMW56TGF4QzN4TlBoNldKdVRBa05TY0xMdTlKbU5UeGNqMEJyYnRN"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "West Family投资公司买入英伟达股票",
-   "title_zh": "West Family Investments买入英伟达股票",
-   "sentiment": 1
   },
   {
    "id": "879faf849500",
@@ -6466,26 +6482,6 @@
    "zh_summary": "诺基亚与英伟达加速AI-RAN部署",
    "title_zh": "诺基亚与英伟达加速AI-RAN及实体AI商用部署",
    "sentiment": 1
-  },
-  {
-   "id": "d2ec47134a0e",
-   "title": "国产算力芯片告别“躺赢”：英伟达缩水与华为突围的代价 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MYnF5eXZ3bXRHMWtyeS1CdmFNQXliUVp5M2RMdGJXMWRicTNQWmtqSWVneW9TZWVfZzkxdnExOFZwMS11RGJ1clRSZzhCdVlB",
-   "source": "富途牛牛",
-   "published_at": "2026-10-23T12:48:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-23T12:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MYnF5eXZ3bXRHMWtyeS1CdmFNQXliUVp5M2RMdGJXMWRicTNQWmtqSWVneW9TZWVfZzkxdnExOFZwMS11RGJ1clRSZzhCdVlB"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达缩水华为突围国产芯片告别躺赢",
-   "title_zh": "国产算力芯片告别“躺赢”：英伟达缩水与华为突围的代价 - 富途牛牛",
-   "sentiment": -1
   }
  ]
 }
