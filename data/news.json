@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T03:36:35.228400+00:00",
+ "updated_at": "2026-10-26T03:51:30.996169+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 23
   },
   "day_sentiment": {
-   "avg": 0.41,
-   "count": 95
+   "avg": 0.43,
+   "count": 98
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.41（95条已评分）"
+     "note": "今日新闻情绪 +0.43（98条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-26T03:36:35.211702+00:00"
+   "as_of": "2026-10-26T03:51:30.980453+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "f2dd798d74d2",
+   "title": "Modders unlock NVIDIA GeForce RTX 20, 30 and 40 series compute limits, nearly doubling some Tensor Core throughput - TweakTown",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc1BVRWhmRUtXU1lKbWRpVldqVjVtTzVBaGcyRHVNa2NLTjJXbEFIaWFyWHZ5cnRiTk85WlFXUUhoU1I0X3hGU2FVcENMR28yRF8wdmlucVFaSEJ3Y0lGTXAtZVVlSTNiZXEyeDhDNkQyMzVMdy1nalMwSHY5TVkxVG9LZ214N1B0Q1VvNWVadndHYzM0dHJBZGlYMUtSdHJra2JsWGFfc2JoQ2pobEhpOWJzelV1NnNKeTctUl85Mjg5RnB6NEp1RGVzYmlid1VNLV9ibUV4dk9EODlLeDdZdTAxRmdhaFhLamJUUmNzdVR4Ukk",
+   "source": "TweakTown",
+   "published_at": "2026-10-26T03:43:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TweakTown",
+     "published_at": "2026-10-26T03:43:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc1BVRWhmRUtXU1lKbWRpVldqVjVtTzVBaGcyRHVNa2NLTjJXbEFIaWFyWHZ5cnRiTk85WlFXUUhoU1I0X3hGU2FVcENMR28yRF8wdmlucVFaSEJ3Y0lGTXAtZVVlSTNiZXEyeDhDNkQyMzVMdy1nalMwSHY5TVkxVG9LZ214N1B0Q1VvNWVadndHYzM0dHJBZGlYMUtSdHJra2JsWGFfc2JoQ2pobEhpOWJzelV1NnNKeTctUl85Mjg5RnB6NEp1RGVzYmlid1VNLV9ibUV4dk9EODlLeDdZdTAxRmdhaFhLamJUUmNzdVR4Ukk"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
+  {
+   "id": "6a593d3d9c08",
+   "title": "Nvidia RTX Spark笔记本评测：本地AI强劲但存配置陷阱 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3Y3loT05yT0VUR0NucWlyZHZJZUZwVG9YS2JTZlFOVTNiQUt2emlYZDlWUllMVHkxYTJRd3poMXlXcUdvRF8wMm9sQlJIRnoyRkd3dGdmYlNZeGJtUWZJMzRxYm9lT09TSHU4TjJqSVhJVE8yR1NuOTVfRmdTM0k",
+   "source": "手机新浪网",
+   "published_at": "2026-10-26T03:42:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-26T03:42:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3Y3loT05yT0VUR0NucWlyZHZJZUZwVG9YS2JTZlFOVTNiQUt2emlYZDlWUllMVHkxYTJRd3poMXlXcUdvRF8wMm9sQlJIRnoyRkd3dGdmYlNZeGJtUWZJMzRxYm9lT09TSHU4TjJqSVhJVE8yR1NuOTVfRmdTM0k"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "f0a75ead7d60",
+   "title": "英伟达下调 Rubin GPU 系统 HBM 与 NVLink 带宽，网络带宽提升 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSlhEamhYTGxReEc5aUFFSFJ5ZFFKVEtZWFZzdXRGMmdEcFJTSm9YckhDZ0JvbHNPbm5WRG5HbU81MGVzRjJnLUxkMFN2SmZRNTlMOFhZVld3M1IzZkpqbDlibkY4UWIxQVF3SldVWS1qNjMwbGJYeHNqRGN5SU0",
+   "source": "新浪财经",
+   "published_at": "2026-10-26T03:26:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-26T03:26:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSlhEamhYTGxReEc5aUFFSFJ5ZFFKVEtZWFZzdXRGMmdEcFJTSm9YckhDZ0JvbHNPbm5WRG5HbU81MGVzRjJnLUxkMFN2SmZRNTlMOFhZVld3M1IzZkpqbDlibkY4UWIxQVF3SldVWS1qNjMwbGJYeHNqRGN5SU0"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
   {
    "id": "d9d767684d3e",
    "title": "台积电2nm芯片产能，英伟达一点都不想要 - 手机搜狐网",
@@ -851,6 +902,23 @@
    "zh_summary": "开源解锁使英伟达显卡AI速度翻倍",
    "title_zh": "开源GPU解锁使英伟达显卡AI处理速度翻倍",
    "sentiment": 1
+  },
+  {
+   "id": "1aa212b9ba05",
+   "title": "NVIDIA Expands Robotics Influence as Intel, Rivals Court Developers - 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVRfamt5V2FBX20tYkZ4amhid0VxSXZBak9zTXp4VjBWWUVfc2xZUkpCMl9ZQ0ZSbFY4ellyU0ZfVVpQRFByNzAzM2V6cktkNnFqMXNrTnhUQXZSNndJMnZRXzVGLUR4RXNvVms3WXFYNmxDbWxyVkpLeDdEdEFZLXo4ZWFZcWNv",
+   "source": "조선일보",
+   "published_at": "2026-10-25T21:35:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "조선일보",
+     "published_at": "2026-10-25T21:35:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNVRfamt5V2FBX20tYkZ4amhid0VxSXZBak9zTXp4VjBWWUVfc2xZUkpCMl9ZQ0ZSbFY4ellyU0ZfVVpQRFByNzAzM2V6cktkNnFqMXNrTnhUQXZSNndJMnZRXzVGLUR4RXNvVms3WXFYNmxDbWxyVkpLeDdEdEFZLXo4ZWFZcWNv"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "6908284d7d2c",
@@ -6385,86 +6453,6 @@
    "zh_summary": "英伟达谈AI助力乳腺癌诊断",
    "title_zh": "问答：英伟达谈AI与乳腺癌",
    "sentiment": 0
-  },
-  {
-   "id": "bf7085e3cd0b",
-   "title": "ASUS ProArt P16 Review: A Sleek Showcase For NVIDIA's RTX Spark - Engadget",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YNWZlSndlbllDeVhCcWljckQyY2psVHFOUWFVTkxGMUpVNmIyei1xS3BkampqLTh3RFlZM2FKckpUdEdLQ1l5TXlMVnFHandQUlZpN252ZURqRDNwQUhFMWdaNTFjeTdjM0MxNjBHVVNhdWUx",
-   "source": "Engadget",
-   "published_at": "2026-10-23T12:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Engadget",
-     "published_at": "2026-10-23T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YNWZlSndlbllDeVhCcWljckQyY2psVHFOUWFVTkxGMUpVNmIyei1xS3BkampqLTh3RFlZM2FKckpUdEdLQ1l5TXlMVnFHandQUlZpN252ZURqRDNwQUhFMWdaNTFjeTdjM0MxNjBHVVNhdWUx"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "华硕P16评测，搭载英伟达RTX Spark",
-   "title_zh": "华硕ProArt P16评测：英伟达RTX Spark的亮眼展示",
-   "sentiment": 1
-  },
-  {
-   "id": "9896e61e8fd3",
-   "title": "Pony AI, NVIDIA Take Their Robotaxi Ambitions to a New Market - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3kzZTRRTGxLUm9iR0NMVnowTnRhWmtQeGxReGFJUkN3Zlk5WUZSV0VhbHVaR1RUa19hRURzX0l6eDVVN3RnVVR2SE00WVZfYjVfZ084cXdJcWg3Y255M1dQWjlDdUpDMkc1V2pJWTFTVmY3UFd6ZGlqNzhZWEE4WEJqaXpFcDBXNkpFMmlCUmNTdldIeUdUSG9PbWdmUjdYaDhpSjJKamZzUkNmTG5yWi1PZldUZkV1",
-   "source": "Benzinga",
-   "published_at": "2026-10-23T11:51:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-23T11:51:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc3kzZTRRTGxLUm9iR0NMVnowTnRhWmtQeGxReGFJUkN3Zlk5WUZSV0VhbHVaR1RUa19hRURzX0l6eDVVN3RnVVR2SE00WVZfYjVfZ084cXdJcWg3Y255M1dQWjlDdUpDMkc1V2pJWTFTVmY3UFd6ZGlqNzhZWEE4WEJqaXpFcDBXNkpFMmlCUmNTdldIeUdUSG9PbWdmUjdYaDhpSjJKamZzUkNmTG5yWi1PZldUZkV1"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "Pony AI与英伟达将Robotaxi推向新市场",
-   "title_zh": "Pony AI与英伟达将自动驾驶出租车业务推向新市场",
-   "sentiment": 1
-  },
-  {
-   "id": "de9b4ee0598f",
-   "title": "白线日报｜英伟达、特斯拉据报拟出资锁定基板供应，Nebius 获 35 亿美元授信 - 吴说",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZFU3LVE0ZTNzRFZaZy1IUXczb04wM3laRHdtTk14SVhCLTNHX3plaXc5QWg2enNxc3pOa3dpbHhHQ0oxWlhFc1lkTFJjdG1ZTEVHWXRuXzNpUUFQd1dFbTZ6UkRyN19Pc2xFQ2N3YjlOQjFhbjh4c2N0Zk1RZ0tiZ2RVVllmSGFDeG1yT2pXSjY0bHU1bGlxLXdJeXU",
-   "source": "吴说",
-   "published_at": "2026-10-23T11:50:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "吴说",
-     "published_at": "2026-10-23T11:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZFU3LVE0ZTNzRFZaZy1IUXczb04wM3laRHdtTk14SVhCLTNHX3plaXc5QWg2enNxc3pOa3dpbHhHQ0oxWlhFc1lkTFJjdG1ZTEVHWXRuXzNpUUFQd1dFbTZ6UkRyN19Pc2xFQ2N3YjlOQjFhbjh4c2N0Zk1RZ0tiZ2RVVllmSGFDeG1yT2pXSjY0bHU1bGlxLXdJeXU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达特斯拉拟出资锁定基板供应",
-   "title_zh": "英伟达、特斯拉拟出资锁定基板供应",
-   "sentiment": 1
-  },
-  {
-   "id": "9e2210a7abc6",
-   "title": "Nvidia is unveiling a shipping-container AI factory as neocloud stocks slide - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xQThBcWktOFlTZXNkaWxtN1BsQnl3clZiMEp5YmtDYjBPem9RaE5OMjdYVkNvMEg3QXNweEhON2xFb0ZYZ2JnY2lQcTZYR2Y0YVNwUXJRem9CZEY1NDRNUTIyeEE2YTZUampWbVNucjMtZGJUWXp6Y0FoOA",
-   "source": "Quartz",
-   "published_at": "2026-10-23T11:38:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Quartz",
-     "published_at": "2026-10-23T11:38:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xQThBcWktOFlTZXNkaWxtN1BsQnl3clZiMEp5YmtDYjBPem9RaE5OMjdYVkNvMEg3QXNweEhON2xFb0ZYZ2JnY2lQcTZYR2Y0YVNwUXJRem9CZEY1NDRNUTIyeEE2YTZUampWbVNucjMtZGJUWXp6Y0FoOA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达发布集装箱AI工厂",
-   "title_zh": "英伟达发布集装箱式AI工厂，新云厂商股价下跌",
-   "sentiment": 1
   }
  ]
 }
