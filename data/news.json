@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T05:36:37.566368+00:00",
+ "updated_at": "2026-10-26T05:51:33.715528+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,12 +10,12 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.46,
-   "count": 108
+   "avg": 0.5,
+   "count": 2
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.46（108条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-26T05:36:37.551900+00:00"
+   "as_of": "2026-10-26T05:51:33.703064+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -1389,12 +1389,17 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHllMkEzbmQ3RkwzUEEtNWJDWnVnTnlRX2JUc1h1a2xXdExPT0Qwem5VMC15QTNFcnluenRqQVVtRkVCczNhMU9JV3lHUm9Fb1hFYXhxa2F5eEh5bWkyOUFVenFzTGJ5dG5naTRlc09tQmlzTEhaOURfVzFTOE9YUWZRWVk5UnExQmxadHg2UEFRcDExZ3kxMDdwYW4zY3FZOTgzSzVnYmdMMVk4Y2szRTRzVTI1S2Qy",
    "source": "Trefis",
    "published_at": "2026-10-25T17:17:51+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Trefis",
      "published_at": "2026-10-25T17:17:51+00:00",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHllMkEzbmQ3RkwzUEEtNWJDWnVnTnlRX2JUc1h1a2xXdExPT0Qwem5VMC15QTNFcnluenRqQVVtRkVCczNhMU9JV3lHUm9Fb1hFYXhxa2F5eEh5bWkyOUFVenFzTGJ5dG5naTRlc09tQmlzTEhaOURfVzFTOE9YUWZRWVk5UnExQmxadHg2UEFRcDExZ3kxMDdwYW4zY3FZOTgzSzVnYmdMMVk4Y2szRTRzVTI1S2Qy"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-26T05:06:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS2ZWUEYzQTFRQXBZOVFIYlhCUzl1V1d6R0g0ejJIWTV2Y1FKd3hram40VU9BSkFqRG10b2Y2S0tBZ3o3SUxtX09zbE5haHRxclgwcDcwamYtQVVMUWVMQ01TNy1jcnlWamoyRXp3LS1YUVBwSDRIbXZaU2xzNzV0cjlnNEctd0hraDBRYWxGWHdQOUc0RzJjSy1VNm1EQzg"
     }
    ],
    "category": "其他",
