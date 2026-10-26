@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T02:06:33.219508+00:00",
+ "updated_at": "2026-10-26T02:21:35.479378+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 23
   },
   "day_sentiment": {
-   "avg": 0.41,
-   "count": 81
+   "avg": 0.42,
+   "count": 83
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.41（81条已评分）"
+     "note": "今日新闻情绪 +0.42（83条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-26T02:06:33.203575+00:00"
+   "as_of": "2026-10-26T02:21:35.380702+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -61,6 +61,74 @@
   }
  },
  "stories": [
+  {
+   "id": "2abd5bea111e",
+   "title": "Google TPU vs Nvidia GPU: What Meta's TorchTPU Changes - Memeburn",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkOF9ESUtFR2NMVGF5ZWRrcFd2am5tRkEzbkZZSDR3VlFjTURTMTczVjhuOWVKV1pmbFNtYU84Yk1sbGEtbmRxQWJBekp3TUhrSEdOTEROT2RjbWhlTk1qNlN0NHBKRnl0XzFjemYyV3pFWE9WUU90SXk2c0JvYzA",
+   "source": "Memeburn",
+   "published_at": "2026-10-26T02:10:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Memeburn",
+     "published_at": "2026-10-26T02:10:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkOF9ESUtFR2NMVGF5ZWRrcFd2am5tRkEzbkZZSDR3VlFjTURTMTczVjhuOWVKV1pmbFNtYU84Yk1sbGEtbmRxQWJBekp3TUhrSEdOTEROT2RjbWhlTk1qNlN0NHBKRnl0XzFjemYyV3pFWE9WUU90SXk2c0JvYzA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
+  {
+   "id": "7329a314561f",
+   "title": "英伟达砸重金锁产能，AI 算力的瓶颈真的能被打破吗？ - 手机搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQel9ERDZZdHlvZlhtWUFMSElhclAwM1ZjUWExOFRRYWVPYXg3V3RlTjZISW9QRUFnazM3UERHUlVzSDNPZ19hbTZNMHB4NVZURnppaTZIU3B5QVMyc0dlQWVaZ1JsWThua3Z6U3QtcGRjZS1QeTJEY2NXM2hiYjZCZUx6UEdFalp6cHJfdw",
+   "source": "手机搜狐网",
+   "published_at": "2026-10-26T02:07:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机搜狐网",
+     "published_at": "2026-10-26T02:07:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQel9ERDZZdHlvZlhtWUFMSElhclAwM1ZjUWExOFRRYWVPYXg3V3RlTjZISW9QRUFnazM3UERHUlVzSDNPZ19hbTZNMHB4NVZURnppaTZIU3B5QVMyc0dlQWVaZ1JsWThua3Z6U3QtcGRjZS1QeTJEY2NXM2hiYjZCZUx6UEdFalp6cHJfdw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "周末"
+  },
+  {
+   "id": "b303a500db9d",
+   "title": "信贷环境收紧，英伟达 AI 算力担保模式迎来首轮压力测试 - 手机搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTlWT2Q3Qk9QajFMQnNKMnZibmFHQmVoby1Ld283ekFQM3VxLWxsRmxJLUd1SWxmWFhaaF9mS21ZZUFhSWNQZWJMQTAwMXpyMlN6dFAxTzNCTS05Tk5obnF3U2FEVW5LQ0hoQ1lnR1B6WWN2c0N4MEZXUC03eXRmaVJ1RkU2MjluS0JHMw",
+   "source": "手机搜狐网",
+   "published_at": "2026-10-26T02:04:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机搜狐网",
+     "published_at": "2026-10-26T02:04:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTlWT2Q3Qk9QajFMQnNKMnZibmFHQmVoby1Ld283ekFQM3VxLWxsRmxJLUd1SWxmWFhaaF9mS21ZZUFhSWNQZWJMQTAwMXpyMlN6dFAxTzNCTS05Tk5obnF3U2FEVW5LQ0hoQ1lnR1B6WWN2c0N4MEZXUC03eXRmaVJ1RkU2MjluS0JHMw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "周末"
+  },
+  {
+   "id": "28921396f9d1",
+   "title": "Firmus After the Float: US$2B Backers, 7.2% Nvidia [2026] - tech-insider.org",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFByUkc4bnZjMVVwa1NPaHRsTzJmVTk2SFJZdjBHVHBwMXZBTW9Qa0lsZ2J0cGZrZFlNR2w0ZHFkZGlHWFJrdEplWnZnRUViYmhKN3BpQmphQnprTHhNZzdkcVpIUmlLZmJBUl9uN0RaSWxqZk1kQ2U3V0h4N0RwS2NwMjg",
+   "source": "tech-insider.org",
+   "published_at": "2026-10-26T01:58:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "tech-insider.org",
+     "published_at": "2026-10-26T01:58:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFByUkc4bnZjMVVwa1NPaHRsTzJmVTk2SFJZdjBHVHBwMXZBTW9Qa0lsZ2J0cGZrZFlNR2w0ZHFkZGlHWFJrdEplWnZnRUViYmhKN3BpQmphQnprTHhNZzdkcVpIUmlLZmJBUl9uN0RaSWxqZk1kQ2U3V0h4N0RwS2NwMjg"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "e569e8b758d9",
    "title": "Microsoft High-End AI PC Gamble: Partnering with NVIDIA to Challenge Apple Head-On - 36Kr",
@@ -854,7 +922,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyOUVWOFkwSEllX0ZjaWhZNnZtSUwxbVdCX0xfSHBETGk5SmhLVkNiYzVoRmR5N2NZcjZ1eFBRTVpFM0doUVlQVUpOYlBDSXZTeUZXVDBTTDN3TXo4TjBpVQ",
    "source": "cnBeta.COM",
    "published_at": "2026-10-25T16:46:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "cnBeta.COM",
@@ -870,6 +938,11 @@
      "name": "新浪财经",
      "published_at": "2026-10-26T01:41:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PMHhOLTBQamoxNEthTzJEWVA2dDJNRWFxNmFnMGRYbGxHZUZzNDBmeGFxZEQ1U3huN2JhSmVISGoyN2R4emN6UWwya1hxNFFiVTNwYm5RVDAwQVJ1R1dWSGUtby1BYXVWMnBLaEp2YmkzRHhGVkpFQXQ3MnFwUUE"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-26T02:10:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04bXdLVVpRWGhOa1VZcUJ6QkNJMGhlNUNrTkhPMDZEa25EQ3hYY19LTE5pTUQ4cjNCUnFPTVMxeVlRVlJ5T1hUQVoyQS1OLXI5Ynh3dnRRZFdEdFRMcmRXdlppaF90T3BncWxHMjZFWHAzV2xTT3RtdC03WVFwbW8"
     }
    ],
    "category": "其他",
@@ -3408,6 +3481,23 @@
    "zh_summary": "机构卖出5331股英伟达股票",
    "title_zh": "XY Planning Network卖出5331股英伟达",
    "sentiment": 0
+  },
+  {
+   "id": "bd5ed1d9fe3d",
+   "title": "NVIDIA Corporation $NVDA Stock Bought by West Family Investments Inc. - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWhtQXFpT3ZPM1dQeUdjTEFGc3g4cmpCQmE5SHJzdkYtbnZHWE1OcmxYbWhiVm5leURBX1RlRWU3c1JzVDNTa2tWUlphdG1LdVRUdFBYcUh3cTlYR0QyeFNucXY2RXhlaGNhNzNCeVR1OGtlSE84LVRPTnF0X1U5WUZEd0g0bGVFTVNBeG5HS3lpbzhvQ21RVkZTck9OQXlJMW56TGF4QzN4TlBoNldKdVRBa05TY0xMdTlKbU5UeGNqMEJyYnRN",
+   "source": "MarketBeat",
+   "published_at": "2026-10-24T08:21:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-24T08:21:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWhtQXFpT3ZPM1dQeUdjTEFGc3g4cmpCQmE5SHJzdkYtbnZHWE1OcmxYbWhiVm5leURBX1RlRWU3c1JzVDNTa2tWUlphdG1LdVRUdFBYcUh3cTlYR0QyeFNucXY2RXhlaGNhNzNCeVR1OGtlSE84LVRPTnF0X1U5WUZEd0g0bGVFTVNBeG5HS3lpbzhvQ21RVkZTck9OQXlJMW56TGF4QzN4TlBoNldKdVRBa05TY0xMdTlKbU5UeGNqMEJyYnRN"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "879faf849500",
@@ -6360,111 +6450,6 @@
    "zh_summary": "英伟达股价新闻与历史行情",
    "title_zh": "英伟达(NVDA)股价、新闻、报价与历史",
    "sentiment": 0
-  },
-  {
-   "id": "81ee4cd51462",
-   "title": "With Nvidia, Israel’s economy is booming. Without it, the picture is more complicated - CTech",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NMWVYSDBLNXg0WnRsU19IQmdpS29rUTlGbDlBRVRMQW5menhPSTkwRFc5V0tnd3RqUEFULXl6a3NTbURvcXdOMHh2b1E0NnhEdnJzay1fX09WaUYwZ1BZam5IMjQzY2M",
-   "source": "CTech",
-   "published_at": "2026-10-23T10:46:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CTech",
-     "published_at": "2026-10-23T10:46:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NMWVYSDBLNXg0WnRsU19IQmdpS29rUTlGbDlBRVRMQW5menhPSTkwRFc5V0tnd3RqUEFULXl6a3NTbURvcXdOMHh2b1E0NnhEdnJzay1fX09WaUYwZ1BZam5IMjQzY2M"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "有英伟达以色列经济繁荣，缺席则景象复杂",
-   "title_zh": "有英伟达加持以色列经济繁荣，没有则图景更复杂",
-   "sentiment": 0
-  },
-  {
-   "id": "af3d03149281",
-   "title": "Supermicro launches 100% liquid cooled Nvidia Vera CPU rack - Data Center Dynamics",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkJUTEd0VzkxVjVyYnVOb05nN0s5dDRCcHJzX1JHOVNvUW1KcGVtZ2Vwa3ZyaWczVjVvRk1EcXZvek1idlJQLVVFMmFxdFJRZjBoQ0w3ZVR1NzR6c3dCX0p6a3dkM1diM21WbVVlZ3U0cks2dHc1MnAycGQ2Y0tFNWhXdXUxa1FBd2xaYS1GaGQwbUZreEVLTjlEU2xpbnd3YUtsZQ",
-   "source": "Data Center Dynamics",
-   "published_at": "2026-10-23T10:43:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Data Center Dynamics",
-     "published_at": "2026-10-23T10:43:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWkJUTEd0VzkxVjVyYnVOb05nN0s5dDRCcHJzX1JHOVNvUW1KcGVtZ2Vwa3ZyaWczVjVvRk1EcXZvek1idlJQLVVFMmFxdFJRZjBoQ0w3ZVR1NzR6c3dCX0p6a3dkM1diM21WbVVlZ3U0cks2dHc1MnAycGQ2Y0tFNWhXdXUxa1FBd2xaYS1GaGQwbUZreEVLTjlEU2xpbnd3YUtsZQ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "超微发布全液冷英伟达Vera CPU机架",
-   "title_zh": "超微发布搭载英伟达Vera CPU的全液冷机架",
-   "sentiment": 1
-  },
-  {
-   "id": "3290420824ec",
-   "title": "英伟达推出DSX POD模块化方案，柏林大会遭绿色和平抗议 - 搜狐",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjY1VWNLdXlSclhYUUR0M3l6TC1hSXlVbnBnQld2NjBndjAzWFJLZTB4QUdaRnl0dXhRdE1DeWVQWkhYUTlFNnZtNjBtUGpQVmk2WkU3UVlRMjV0aFlPTDBDREZEZHhpM3o3YWtDN1Z6Uk5maWJxNlRHcTl4dy1NRS05M19Xd0o3",
-   "source": "搜狐",
-   "published_at": "2026-10-23T10:42:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐",
-     "published_at": "2026-10-23T10:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjY1VWNLdXlSclhYUUR0M3l6TC1hSXlVbnBnQld2NjBndjAzWFJLZTB4QUdaRnl0dXhRdE1DeWVQWkhYUTlFNnZtNjBtUGpQVmk2WkU3UVlRMjV0aFlPTDBDREZEZHhpM3o3YWtDN1Z6Uk5maWJxNlRHcTl4dy1NRS05M19Xd0o3"
-    },
-    {
-     "name": "至顶网",
-     "published_at": "2026-10-23T13:34:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xTjlSOW1wM0xUWG5XYWFjcjlWb1RlakZVQS1oVlJUeG9FaWhUNGU1eEJWTHQ0U0dtVFJMcTB1Tm16RHdQQ2VuSW8xaTVNV0ZLV3g0c21wTUdBcWRJLV9tRg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达推出DSX POD模块化方案，柏林遭抗议",
-   "title_zh": "英伟达推出DSX POD模块化方案，柏林大会遭绿色和平抗议 - 搜狐",
-   "sentiment": 0
-  },
-  {
-   "id": "6ab6f0ec1d77",
-   "title": "Apple could be about to dethrone Nvidia as world's most valuable company - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOFY2dW5TYXJidk1hMlhxX0FCMHpzMmlEdTVHRjItUElpUVpqb05RNDJBWHlBeTNlcnBRTW04bm9NZEZ2d2JjY093eHAyLWZnMHhWZGxaUE9jdHZvUF9ERUFVNGJja1I3TjBQbTJpUjZRTlVtOFp1Ykx5UmY3REowV0tPYWVmZjlidVV2SlNNNjhQc09DZEtacjUzZURkVnZZS3ZCX3A3SER3a1NWTndYdFdONjJCS1VQRTBzTUxQZkJhZjhaeW5lSjJ5Vl9lR2E2",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-23T10:38:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-23T10:38:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOFY2dW5TYXJidk1hMlhxX0FCMHpzMmlEdTVHRjItUElpUVpqb05RNDJBWHlBeTNlcnBRTW04bm9NZEZ2d2JjY093eHAyLWZnMHhWZGxaUE9jdHZvUF9ERUFVNGJja1I3TjBQbTJpUjZRTlVtOFp1Ykx5UmY3REowV0tPYWVmZjlidVV2SlNNNjhQc09DZEtacjUzZURkVnZZS3ZCX3A3SER3a1NWTndYdFdONjJCS1VQRTBzTUxQZkJhZjhaeW5lSjJ5Vl9lR2E2"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "苹果市值或将超过英伟达登顶",
-   "title_zh": "苹果或将取代英伟达成为全球市值最高公司",
-   "sentiment": -1
-  },
-  {
-   "id": "009a26beba06",
-   "title": "斯泰兰蒂斯：Wayve与英伟达合作，推进法国自动驾驶汽车部署。 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZNW1Ick93alhneTJJTXl4aW95WWFZQlk5REZfSWxpOUp0TU1kbmtXZEFJeUxZck9qOHZweXdDTmVNemtCVjhIckdGSkFSTGl0ZFBvdWZSNXlsTlJuMlNoaWpINmFhU0k5VnltaWt2aUJiVHl2WnJqSWtFLUNBZzg",
-   "source": "新浪网",
-   "published_at": "2026-10-23T10:32:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-23T10:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZNW1Ick93alhneTJJTXl4aW95WWFZQlk5REZfSWxpOUp0TU1kbmtXZEFJeUxZck9qOHZweXdDTmVNemtCVjhIckdGSkFSTGl0ZFBvdWZSNXlsTlJuMlNoaWpINmFhU0k5VnltaWt2aUJiVHl2WnJqSWtFLUNBZzg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Wayve与英伟达合作推进自动驾驶",
-   "title_zh": "Wayve与英伟达合作推进法国自动驾驶部署",
-   "sentiment": 1
   }
  ]
 }
