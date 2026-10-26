@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T06:36:35.435794+00:00",
+ "updated_at": "2026-10-26T06:51:37.074508+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 4
+   "avg": 0.67,
+   "count": 6
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.50（4条已评分）"
+     "note": "今日新闻情绪 +0.67（6条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-26T06:36:35.419294+00:00"
+   "as_of": "2026-10-26T06:51:37.057424+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -62,17 +62,56 @@
  },
  "stories": [
   {
+   "id": "0290d9e2722c",
+   "title": "$英伟达 (NVDA.US)$ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92RTlFTEdDM205cGp6SDlrdHhIYmk5cUoxQ1JVUmlNTkhYcTlpVHQzVTYyM1JJbmtkM2EzX2VjTWpPUkdJRElLcm9PSWMycFpEblc5UWktM3pBaWFMazdQdVAxS3hYbzRMa3lsMkJPMjF3TXpDNk5rZWQ0OXl1Zw",
+   "source": "Moomoo",
+   "published_at": "2026-10-26T06:35:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-26T06:35:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92RTlFTEdDM205cGp6SDlrdHhIYmk5cUoxQ1JVUmlNTkhYcTlpVHQzVTYyM1JJbmtkM2EzX2VjTWpPUkdJRElLcm9PSWMycFpEblc5UWktM3pBaWFMazdQdVAxS3hYbzRMa3lsMkJPMjF3TXpDNk5rZWQ0OXl1Zw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "61b5bd346050",
+   "title": "Update: Market Chatter: Tesla and Nvidia to Invest KRW3.7 Trillion in Samsung Electro-Mechanics Chip Substrate Facilities - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlVDTTFJM01EVHU1Wk43NzV4QjlRbUJDN2tVQWcwWFJLMkRmcURoSlpHTFdVOGltdkV5SVhQQmpLZDRhVERsVHVOV0hqc05sZHRIT1hhVU5FMDZPT0tGUFZIUEE2ZjgxSm9ZVlE1V1pUZUIzRnM4eFZwVGJHNTJuczBaOHhqc21CMDdJb3VUaXV6WWlwRTZvTXltQ2RZQVU",
+   "source": "富途牛牛",
+   "published_at": "2026-10-26T06:30:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-26T06:30:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlVDTTFJM01EVHU1Wk43NzV4QjlRbUJDN2tVQWcwWFJLMkRmcURoSlpHTFdVOGltdkV5SVhQQmpLZDRhVERsVHVOV0hqc05sZHRIT1hhVU5FMDZPT0tGUFZIUEE2ZjgxSm9ZVlE1V1pUZUIzRnM4eFZwVGJHNTJuczBaOHhqc21CMDdJb3VUaXV6WWlwRTZvTXltQ2RZQVU"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "e74ada7f0bac",
    "title": "不重启反应堆！英伟达要把核电站改成AI数据中心 - 驱动之家",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52TjN4X2lNOElGdGJKU05LaHk4bGdDRE53R1p1cUU0Y3FiUU4wSHhsd0ZZQkNVcldxbjlIVnJHcVItYnRrQVdXNnNJSG9xeVVBSmpGVmJhTlc",
    "source": "驱动之家",
    "published_at": "2026-10-26T06:17:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "驱动之家",
      "published_at": "2026-10-26T06:17:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52TjN4X2lNOElGdGJKU05LaHk4bGdDRE53R1p1cUU0Y3FiUU4wSHhsd0ZZQkNVcldxbjlIVnJHcVItYnRrQVdXNnNJSG9xeVVBSmpGVmJhTlc"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-26T06:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14RUNhaGwzQ0Fxa0RGZGRmWDBydEF2ZWZ3bVhxWWJqVllMQ0VfSkxodXhHX0JQSjZiMTFhUXZ5Z3ZlYkpFNU5oQ0RnNFh2cS1FR2ZqblNSQVl1dl9jT1gxOHY2djkzLTU0TWVleWhjeENEV2FYV19XUUlKZTZLZ28"
     }
    ],
    "category": "AI需求",
@@ -712,7 +751,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ScG8ydWFZRG5nRUtJUGpHRUJSS19qT0tweV9GVGo4SVZZdXJtTEs0RV9veVBTTFJQTE5fSzg4eFFvOGFRTkFXbG92SlktUWo2UlhpZHBvU2Y",
    "source": "驱动之家",
    "published_at": "2026-10-26T01:32:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "驱动之家",
@@ -723,6 +762,11 @@
      "name": "新浪财经",
      "published_at": "2026-10-26T01:32:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVzN3VDFsdGpmNWt5bWwwXzNLTERhREhDRk9vaFlGUkl6UDJ5M3lpX1hiRG52eTEyZnVQa0xXM0lFd2pqdHhJS3N2VXJRU1JZMk1McXlBLUU4U183bkhHQVR6UHp4VThiVXZiZmx2NGZJelUzVG9tQkxIandNU3c"
+    },
+    {
+     "name": "手机搜狐网",
+     "published_at": "2026-10-26T01:32:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVNWZzR1MUJfZ3AzWDRWc2FtcXZmMWtjQlA1Q3BBSEgyTlpVZU10UmtHVWFQTjJWOVZTVno4Nko4aEhkclhueDFTU3pIRVF5dmNqUDdqU0twQjA5VEs3YW9rMlNlY3BfZXVfUW55WVIxd3Y2TGU3NW84Z2o2YmdOZVZTNXo5VFAt"
     }
    ],
    "category": "其他",
@@ -2029,17 +2073,17 @@
    "sentiment": -1
   },
   {
-   "id": "3876737877c6",
-   "title": "NVIDIA Corporation $NVDA Stock Sold by National Pension Service - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2VYc294dXpCbjBkeFFpOEtwMkVOeXd4Y24zakVUVU43dkZWME9JS0Q3V2dtVUR6aWZNSHVCNWxFaHRKNDRIX2pMRkdXRWJpdU5JZjhzSmYxNnBRVTQ2T0t2NTVfZ0lEaElaNjhjS21DblNlVXZ2MzUzazVmVm45STJ2R0tlenI0N2FnVzdLcE1vQ0ZNU3p6OGxkd1VSbU1mQlBDQ1VsRkQ3cE1hQmlyYVZJVHhkdjFZTVA1Q3ZLc1I",
+   "id": "55c5877711fd",
+   "title": "NVIDIA Corporation $NVDA Stock Sold by WINTON GROUP Ltd - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmpueUs5SEhmZnZ4US02d0UzMXpfdXVkeWlLeVE5NldZdFlnWllNN193LUJXb1pOLW5xUy1rQmxRNGJRYmV2TzYtLUJ5M0dHeWZIZzlia3RBaU45bHhjT2I4a1ZiM0lsVWNuRDFtVFVCTjk4ckJ0SExJTUdxSlFKMm5oQ1prVUtnWFdTM0ZNaHVnWVZ5RElaZ1U5R2FYUHVMc2FiM0ZnOFptVi1yeDBnblJwQjlZdw",
    "source": "MarketBeat",
-   "published_at": "2026-10-25T11:42:11+00:00",
+   "published_at": "2026-10-25T11:42:06+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "MarketBeat",
-     "published_at": "2026-10-25T11:42:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2VYc294dXpCbjBkeFFpOEtwMkVOeXd4Y24zakVUVU43dkZWME9JS0Q3V2dtVUR6aWZNSHVCNWxFaHRKNDRIX2pMRkdXRWJpdU5JZjhzSmYxNnBRVTQ2T0t2NTVfZ0lEaElaNjhjS21DblNlVXZ2MzUzazVmVm45STJ2R0tlenI0N2FnVzdLcE1vQ0ZNU3p6OGxkd1VSbU1mQlBDQ1VsRkQ3cE1hQmlyYVZJVHhkdjFZTVA1Q3ZLc1I"
+     "published_at": "2026-10-25T11:42:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmpueUs5SEhmZnZ4US02d0UzMXpfdXVkeWlLeVE5NldZdFlnWllNN193LUJXb1pOLW5xUy1rQmxRNGJRYmV2TzYtLUJ5M0dHeWZIZzlia3RBaU45bHhjT2I4a1ZiM0lsVWNuRDFtVFVCTjk4ckJ0SExJTUdxSlFKMm5oQ1prVUtnWFdTM0ZNaHVnWVZ5RElaZ1U5R2FYUHVMc2FiM0ZnOFptVi1yeDBnblJwQjlZdw"
     }
    ],
    "category": "其他",
@@ -5739,6 +5783,23 @@
    "sentiment": -1
   },
   {
+   "id": "94c80d8b589a",
+   "title": "科技巨头，盘中股价再创新高，总市值超越英伟达 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iS0lZOXQ4RjZUSjJsTjRsbnNscWk1Q2p4VHJzUjkxVllMcHVrejQ1QzRjUm00TE9fbGFnVVJtR3hVcDlxUThaWTNLaThRbnRkaHBJTk8ybi1Hd05Rbkt5S0ZMNnpFUQ",
+   "source": "东方财富",
+   "published_at": "2026-10-23T15:30:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-23T15:30:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iS0lZOXQ4RjZUSjJsTjRsbnNscWk1Q2p4VHJzUjkxVllMcHVrejQ1QzRjUm00TE9fbGFnVVJtR3hVcDlxUThaWTNLaThRbnRkaHBJTk8ybi1Hd05Rbkt5S0ZMNnpFUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "0aa0bc6a89bc",
    "title": "八台NVIDIA DGX Spark节点集群运行前沿级AI模型-AI基础设施 - 至顶网",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nOGZyY0l1MTNoOHR3LS1RTDd5MjdKNnFWeEhOU19ZYVpGRi01YTBrMmJXWlFDSmR0cmZfdWpFUHA1NDZNdklxVzYxSWs0bDEwLWIxS01lSGc4NHV1OTJ1dGFIbkZJcEM5QTVrdWN5d3dLUQ",
@@ -6430,66 +6491,6 @@
    "session": "盘前",
    "zh_summary": "黄仁勋称2029年前内存行业难现产能过剩",
    "title_zh": "黄仁勋：至少到2029年前内存行业不太可能产能全面过剩",
-   "sentiment": 1
-  },
-  {
-   "id": "8accca6ce8b7",
-   "title": "Newegg begins selling Nvidia RTX Spark laptops in U.S. and Canada - StreetInsider",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU0JQaWNCbDI4RjNzMmxfUng1bFpSVndPQVBmSnBMVk13UWhIa3pZNml2ekpfNVpyQ3k2aWxlV2t2cWZOeE9FakplZ3BvbzNkY2UwaTJrNW5VVW02R21SS2dBdDJ4TG9Xc3lVOWFNTnRIa0EzN3JBUkgxWndBcjNhTWVCcXJJV2hDb0FZMEE4dnhDa1doMi1KMURhLXBLaUwwd0VxcE8yamxOeWZfZndkQTFvTG5lYkV6bWxLTS1xQy1tdw",
-   "source": "StreetInsider",
-   "published_at": "2026-10-23T13:03:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "StreetInsider",
-     "published_at": "2026-10-23T13:03:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU0JQaWNCbDI4RjNzMmxfUng1bFpSVndPQVBmSnBMVk13UWhIa3pZNml2ekpfNVpyQ3k2aWxlV2t2cWZOeE9FakplZ3BvbzNkY2UwaTJrNW5VVW02R21SS2dBdDJ4TG9Xc3lVOWFNTnRIa0EzN3JBUkgxWndBcjNhTWVCcXJJV2hDb0FZMEE4dnhDa1doMi1KMURhLXBLaUwwd0VxcE8yamxOeWZfZndkQTFvTG5lYkV6bWxLTS1xQy1tdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "新蛋开售英伟达RTX Spark笔记本",
-   "title_zh": "新蛋开售英伟达RTX Spark笔记本电脑",
-   "sentiment": 1
-  },
-  {
-   "id": "104606a1446e",
-   "title": "NVIDIA CEO Sees Kazakhstan as Emerging AI Hub During First Visit - The Astana Times",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXFOVFBCQUJSYTg3UXB0WVJ4dXhXb0lYbmRpeE9FQkNzdHJ1bndJTkFPd0I4aDViVFN2cDc3dm01VkV4RHBFQTBUdFJRRTN6X0R0MnoxYVlPemJfeUNIYW5WeVJpTFN5UGRVQlRjeVk3N1p3U1VKZmJtS0NBUjNOR3pEX3hKUVhUR3NwR0gxQ0VKbVVZRFZ5azA1d3Zydw",
-   "source": "The Astana Times",
-   "published_at": "2026-10-23T13:01:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Astana Times",
-     "published_at": "2026-10-23T13:01:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXFOVFBCQUJSYTg3UXB0WVJ4dXhXb0lYbmRpeE9FQkNzdHJ1bndJTkFPd0I4aDViVFN2cDc3dm01VkV4RHBFQTBUdFJRRTN6X0R0MnoxYVlPemJfeUNIYW5WeVJpTFN5UGRVQlRjeVk3N1p3U1VKZmJtS0NBUjNOR3pEX3hKUVhUR3NwR0gxQ0VKbVVZRFZ5azA1d3Zydw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋称哈萨克斯坦将成AI枢纽",
-   "title_zh": "英伟达CEO称哈萨克斯坦成新兴AI中心",
-   "sentiment": 0
-  },
-  {
-   "id": "05e0eb73e8ed",
-   "title": "Nokia, Nvidia accelerate AI-RAN, physical AI commercial deployment - Computer Weekly",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ01JVnBEV2lFZG1SYUpocVp1aG9ZRVk0SURHQWN2SDhITjgyNW84aVhWa0hIdElZYVdqX0ZaSzJjMXFBa29hYVZFSlhNcFF0NUxSWG5wRXNkcTBWUEREWXdLZlRWWUlZZnowUlB2eTg5UXY5UzJtYzh6NldocVBaX0prcWcxc0ZtY0MyQWI1eWtUTlIzTG5BMU1ycVNfNjd2Q1dseGVPNzNtU1JYV1VB",
-   "source": "Computer Weekly",
-   "published_at": "2026-10-23T12:50:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Computer Weekly",
-     "published_at": "2026-10-23T12:50:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ01JVnBEV2lFZG1SYUpocVp1aG9ZRVk0SURHQWN2SDhITjgyNW84aVhWa0hIdElZYVdqX0ZaSzJjMXFBa29hYVZFSlhNcFF0NUxSWG5wRXNkcTBWUEREWXdLZlRWWUlZZnowUlB2eTg5UXY5UzJtYzh6NldocVBaX0prcWcxc0ZtY0MyQWI1eWtUTlIzTG5BMU1ycVNfNjd2Q1dseGVPNzNtU1JYV1VB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "诺基亚与英伟达加速AI-RAN部署",
-   "title_zh": "诺基亚与英伟达加速AI-RAN及实体AI商用部署",
    "sentiment": 1
   }
  ]
