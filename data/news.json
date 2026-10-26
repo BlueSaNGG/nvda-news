@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T03:51:30.996169+00:00",
+ "updated_at": "2026-10-26T04:06:33.119039+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 23
   },
   "day_sentiment": {
-   "avg": 0.43,
-   "count": 98
+   "avg": 0.42,
+   "count": 102
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.43（98条已评分）"
+     "note": "今日新闻情绪 +0.42（102条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-26T03:51:30.980453+00:00"
+   "as_of": "2026-10-26T04:06:33.099098+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "c2586a65c701",
+   "title": "英伟达GPU隐藏算力被开源解锁，不改官方驱动，RTX 4090吞吐翻倍 - 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5peFY3dDUwcnFBN0txcEZ2cXJMUHdIVERuS2Ywd3d1UDhZU0pubDAzR3BnRHFHZzhpYWpUeXhXM21oOTh3alo3eUI2V3BsMFZX",
+   "source": "36Kr",
+   "published_at": "2026-10-26T03:52:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "36Kr",
+     "published_at": "2026-10-26T03:52:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5peFY3dDUwcnFBN0txcEZ2cXJMUHdIVERuS2Ywd3d1UDhZU0pubDAzR3BnRHFHZzhpYWpUeXhXM21oOTh3alo3eUI2V3BsMFZX"
+    }
+   ],
+   "category": "AI需求",
+   "session": "周末"
+  },
   {
    "id": "f2dd798d74d2",
    "title": "Modders unlock NVIDIA GeForce RTX 20, 30 and 40 series compute limits, nearly doubling some Tensor Core throughput - TweakTown",
@@ -160,6 +177,23 @@
    "zh_summary": "小马智行与英伟达在哈萨克斯坦试点Robotaxi",
    "title_zh": "小马智行联手inDrive与英伟达在哈萨克斯坦试点Robotaxi",
    "sentiment": 1
+  },
+  {
+   "id": "29dd0ca59111",
+   "title": "Cassava Artificial Intelligence AI deploys NVIDIA Nemotron to accelerate agentic AI adoption across its markets - Cyprus Shipping News",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3VNbk8zelVQVGZxS05SZm82N1hTY0FTa0JXR3BQR0RUclp3WFJjc1hTMzhCeFBrb092eHpIN2tydmEwUlRMVkJzOHBUSTA0Y1pwdVVnZDM4VU91Y2k1ZnNzN3F0cWhWMXFrM00yTTktelc2QjJHY3FVcmVmeTlKY1RFZ1BiM0tHdi03S0FsTmZlQXdDc2xYYll5SUVUOHZTRTRKQTNJNjhBTUlKZVpfOGNSTDdGcnZSQUwxdk12SWE1Skc4VjlQdC1tcm1ORS1sTkdMdDdBZHVQYzBWalhZWHk5RVl5aDhxeVE",
+   "source": "Cyprus Shipping News",
+   "published_at": "2026-10-26T03:19:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Cyprus Shipping News",
+     "published_at": "2026-10-26T03:19:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb3VNbk8zelVQVGZxS05SZm82N1hTY0FTa0JXR3BQR0RUclp3WFJjc1hTMzhCeFBrb092eHpIN2tydmEwUlRMVkJzOHBUSTA0Y1pwdVVnZDM4VU91Y2k1ZnNzN3F0cWhWMXFrM00yTTktelc2QjJHY3FVcmVmeTlKY1RFZ1BiM0tHdi03S0FsTmZlQXdDc2xYYll5SUVUOHZTRTRKQTNJNjhBTUlKZVpfOGNSTDdGcnZSQUwxdk12SWE1Skc4VjlQdC1tcm1ORS1sTkdMdDdBZHVQYzBWalhZWHk5RVl5aDhxeVE"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "周末"
   },
   {
    "id": "f054f71dd750",
@@ -4750,6 +4784,23 @@
    "sentiment": 0
   },
   {
+   "id": "9e2210a7abc6",
+   "title": "Nvidia is unveiling a shipping-container AI factory as neocloud stocks slide - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xQThBcWktOFlTZXNkaWxtN1BsQnl3clZiMEp5YmtDYjBPem9RaE5OMjdYVkNvMEg3QXNweEhON2xFb0ZYZ2JnY2lQcTZYR2Y0YVNwUXJRem9CZEY1NDRNUTIyeEE2YTZUampWbVNucjMtZGJUWXp6Y0FoOA",
+   "source": "Quartz",
+   "published_at": "2026-10-23T20:18:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-23T20:18:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xQThBcWktOFlTZXNkaWxtN1BsQnl3clZiMEp5YmtDYjBPem9RaE5OMjdYVkNvMEg3QXNweEhON2xFb0ZYZ2JnY2lQcTZYR2Y0YVNwUXJRem9CZEY1NDRNUTIyeEE2YTZUampWbVNucjMtZGJUWXp6Y0FoOA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "da1ee5f7d253",
    "title": "Security Firm Discovers 32 NVIDIA B300 GPUs Operating Inside China Telecom, Showing U.S. Export Controls Aren’t Curbing Top-Tier AI Hardware From Getting Out - Wccftech",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02N0VveFBrVzd2cFlHbC1Wa25McVJEdnRtMjZJNGIzRXJtc2dacEVXLUdwRFdkcDBwVVYyd0lGWmI2c1Nlb0xLVEUySV85MnR0SGtmVjBnSWNNRlVQdmZHYmVPcEtCci1ub2tVd0ZUSXNhcmVwZTF4SUtub0xIQdIBgwFBVV95cUxOdmtNUy1BdjdidV9DalNOcWswVmxYcWNKRUhVUGdsX29QNXktaHdjRUczbHJCRlJZbDFmNzE5Y0h2U1dSbWNweU42bm5SU05mWTB3TDNaYnljZkxCQXh5VXVEMUJMeGN4dU9wbjFCN0p6WDM2VzlMVXRMQUpsN1VuOThZWQ",
@@ -6405,66 +6456,6 @@
    "zh_summary": "Aleria将在美阿部署英伟达GPU",
    "title_zh": "Aleria将在美阿部署Blackwell与Vera Rubin GPU",
    "sentiment": 1
-  },
-  {
-   "id": "f470164615c6",
-   "title": "Higgsfield Extends Series B With New Investment From TCV and NVIDIA - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGRCQmlVOHc4d1JtTVpKSi1aMFZzbERHZ1VzaEZUcUtpQ21telB5ZWZBUmE3QWcyWWRsSjYtcnJHNDYySFRlOUxXaU9PT3FXZDZvaE5nNVZxaWtPOE1aUndiMUFya2s1a3BQcldiYkpEaDFNX1NETlFsZllUYWY5VWNGZHFXMGplbERyS3pXTXdrUXBjNWZCQXJGQzA5OTNCSkdpWQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-23T12:17:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-23T12:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGRCQmlVOHc4d1JtTVpKSi1aMFZzbERHZ1VzaEZUcUtpQ21telB5ZWZBUmE3QWcyWWRsSjYtcnJHNDYySFRlOUxXaU9PT3FXZDZvaE5nNVZxaWtPOE1aUndiMUFya2s1a3BQcldiYkpEaDFNX1NETlFsZllUYWY5VWNGZHFXMGplbERyS3pXTXdrUXBjNWZCQXJGQzA5OTNCSkdpWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达参与Higgsfield B轮追加融资",
-   "title_zh": "Higgsfield B轮融资获TCV和英伟达追加投资",
-   "sentiment": 1
-  },
-  {
-   "id": "e41aff42ba3f",
-   "title": "How Teradyne, NVIDIA & Sereact Automate Retail Returns - Supply Chain Digital",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZG9kRjJwVlVjRlJhWHFHamI2Vzc5a2stTlJ0MGRnUjNSbkhSekEwd0llY3NicHdGQlRBOE1ESXBpcnpYNmczdnNReHpubkVPMjh2a0c0a2o5ZzEtZG0wcVdla2ZxcnpQTlpyaUl5bGtMMl8yMmVKUVg4S2k0RG9CZnQ5cUwwelhwQkdMVnJXcmw",
-   "source": "Supply Chain Digital",
-   "published_at": "2026-10-23T12:08:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Supply Chain Digital",
-     "published_at": "2026-10-23T12:08:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZG9kRjJwVlVjRlJhWHFHamI2Vzc5a2stTlJ0MGRnUjNSbkhSekEwd0llY3NicHdGQlRBOE1ESXBpcnpYNmczdnNReHpubkVPMjh2a0c0a2o5ZzEtZG0wcVdla2ZxcnpQTlpyaUl5bGtMMl8yMmVKUVg4S2k0RG9CZnQ5cUwwelhwQkdMVnJXcmw"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "Teradyne与英伟达合作自动化零售退货",
-   "title_zh": "Teradyne、英伟达与Sereact自动化零售退货流程",
-   "sentiment": 0
-  },
-  {
-   "id": "ec017291eca9",
-   "title": "Q&A: NVIDIA on AI and breast cancer - MobiHealthNews",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdURPUzI5cmVLZ3VpQy1MdDFySVF5UTVKVnZrbVFfejlXSk50blIwTWZfVGhGQVZib0h2N2FBRUdZRG9PTEVERUo1WVd3S3N2SEZQZkRrU2hXN083Qm4xcFRQZWxic09hUkZKTGRFdUhXQ1pY",
-   "source": "MobiHealthNews",
-   "published_at": "2026-10-23T12:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MobiHealthNews",
-     "published_at": "2026-10-23T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdURPUzI5cmVLZ3VpQy1MdDFySVF5UTVKVnZrbVFfejlXSk50blIwTWZfVGhGQVZib0h2N2FBRUdZRG9PTEVERUo1WVd3S3N2SEZQZkRrU2hXN083Qm4xcFRQZWxic09hUkZKTGRFdUhXQ1pY"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达谈AI助力乳腺癌诊断",
-   "title_zh": "问答：英伟达谈AI与乳腺癌",
-   "sentiment": 0
   }
  ]
 }
