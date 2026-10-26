@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T06:06:34.865071+00:00",
+ "updated_at": "2026-10-26T06:21:35.264417+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,12 +10,12 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 2
+   "avg": 0.33,
+   "count": 3
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（2条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.33（3条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-26T06:06:34.844419+00:00"
+   "as_of": "2026-10-26T06:21:35.249119+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "fde974836b31",
+   "title": "Nvidia Floats Charging $2,000 a Year Per GPU for Its AI Agent Software - Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFYyZW5FUDhRVUR1clY2OVFNWmtjZU5PeGxJZHc4blp6WFNlM2xWd21vQVp3SGhRODMzN0VoQ3pBeUU5OWtMZWMwU1JBZ21HR3RrMHBaTTU3RTBUd2ZWdUNHTkFfdkZhTFVQWTI2NG9EMlE2VUQyOV9uRHJoaEE0aVB3RTFPU09hNHBsTjNadl85TVEwUWZiaW5BWUE",
+   "source": "Startup Fortune",
+   "published_at": "2026-10-26T05:58:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Startup Fortune",
+     "published_at": "2026-10-26T05:58:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFYyZW5FUDhRVUR1clY2OVFNWmtjZU5PeGxJZHc4blp6WFNlM2xWd21vQVp3SGhRODMzN0VoQ3pBeUU5OWtMZWMwU1JBZ21HR3RrMHBaTTU3RTBUd2ZWdUNHTkFfdkZhTFVQWTI2NG9EMlE2VUQyOV9uRHJoaEE0aVB3RTFPU09hNHBsTjNadl85TVEwUWZiaW5BWUE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "9f0334267caa",
    "title": "算力、能源与人才：英伟达助力哈萨克斯坦推进人工智能产业发展 - 哈通社",
@@ -5055,6 +5072,23 @@
    "sentiment": -1
   },
   {
+   "id": "f498b64c746f",
+   "title": "Nvidia NVDA Stock Falls 4.4% to $212.21 as AI Financing Fears Hit Chips - FXLeaders",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPREx6X3R5Rkdjb2hBdTJZSEZIekw4NWotVGlyaFFOc1U2ZjlBaHhTd3l4S3NhX3djUVNLbXJidXFpOG5leGlEalIyeDhsbWFMOHVFczZTMVR0Z3FqbnZObm5FZDhxVFVSZmNNOG5VT3YzTDJMaHg0Qy1ZS0lWNzY4TXlZR1pVS2x6a0ZmUFpMVFVJZERoZVFISzNYOU56UVlaYzNfWHJFamlubXRDbUl3TjBR",
+   "source": "FXLeaders",
+   "published_at": "2026-10-23T20:07:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FXLeaders",
+     "published_at": "2026-10-23T20:07:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPREx6X3R5Rkdjb2hBdTJZSEZIekw4NWotVGlyaFFOc1U2ZjlBaHhTd3l4S3NhX3djUVNLbXJidXFpOG5leGlEalIyeDhsbWFMOHVFczZTMVR0Z3FqbnZObm5FZDhxVFVSZmNNOG5VT3YzTDJMaHg0Qy1ZS0lWNzY4TXlZR1pVS2x6a0ZmUFpMVFVJZERoZVFISzNYOU56UVlaYzNfWHJFamlubXRDbUl3TjBR"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "50bde437cfa7",
    "title": "Nvidia CEO Jensen Huang Says US Must Take China ‘Seriously,’ Warns Against Underestimating Its AI and Chipmaking Prowess: ‘If There's One Country That Could Manufacture Things at Scale’ - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVU1bXVnbG0xaVJfRVZySVhKNGctb3pqZXdqQXJoWVRfU3ljb3l6ZkZfWHBTejNMc0dTTFBwY0o1QlN0YlZWeGZQdlpDQzlVb2hMM3ZEekhiV21OQVZXeTlZWFJCdDlaVFlpS2l4UmE0bkxYcm9ZN2J4eFcwblA4MGtLNnd4Ymh5WktpbmlVQ0c4ckVwaVEw",
@@ -5671,26 +5705,6 @@
    "session": "盘中",
    "zh_summary": "苹果市值超越英伟达居首",
    "title_zh": "苹果市值超英伟达，特朗普经济支持率下降及更多",
-   "sentiment": -1
-  },
-  {
-   "id": "94c80d8b589a",
-   "title": "科技巨头，盘中股价再创新高，总市值超越英伟达 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iS0lZOXQ4RjZUSjJsTjRsbnNscWk1Q2p4VHJzUjkxVllMcHVrejQ1QzRjUm00TE9fbGFnVVJtR3hVcDlxUThaWTNLaThRbnRkaHBJTk8ybi1Hd05Rbkt5S0ZMNnpFUQ",
-   "source": "东方财富",
-   "published_at": "2026-10-23T15:30:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-23T15:30:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iS0lZOXQ4RjZUSjJsTjRsbnNscWk1Q2p4VHJzUjkxVllMcHVrejQ1QzRjUm00TE9fbGFnVVJtR3hVcDlxUThaWTNLaThRbnRkaHBJTk8ybi1Hd05Rbkt5S0ZMNnpFUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "某科技巨头市值盘中超越英伟达创新高",
-   "title_zh": "科技巨头盘中股价再创新高，总市值超越英伟达",
    "sentiment": -1
   },
   {
@@ -6466,26 +6480,6 @@
    "zh_summary": "英伟达缩水华为突围国产芯片告别躺赢",
    "title_zh": "国产算力芯片告别“躺赢”：英伟达缩水与华为突围的代价 - 富途牛牛",
    "sentiment": -1
-  },
-  {
-   "id": "ecbe5fde9f17",
-   "title": "Emerald AI, Nvidia share results of latest pilot at Nscale data center in Iceland - Data Center Dynamics",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamt2QThiQmFfSlB4aTBBNHRkaUZySGJMOVFxYkh4MFdQRHpnWlM5UzJqOS1EdDN3S3dFYW0wVEk1SUNraGJUMnF0SFRieGg1c3JfM0hyX0YyZHdOWDBjTnVsUW93X3pXdGZ0OWxsMmo1Q0pUZDZ4YXllSnA3TF9LVVAxQ3ZmVTAtNzhoalQzdGN4Ti1qR29ISmhzM3BKU2VvbnJ3dFdXQ1V4bV9wSVZtUFhLNFpZSVk2Z2VTSEVURFRSZw",
-   "source": "Data Center Dynamics",
-   "published_at": "2026-10-23T12:42:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Data Center Dynamics",
-     "published_at": "2026-10-23T12:42:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamt2QThiQmFfSlB4aTBBNHRkaUZySGJMOVFxYkh4MFdQRHpnWlM5UzJqOS1EdDN3S3dFYW0wVEk1SUNraGJUMnF0SFRieGg1c3JfM0hyX0YyZHdOWDBjTnVsUW93X3pXdGZ0OWxsMmo1Q0pUZDZ4YXllSnA3TF9LVVAxQ3ZmVTAtNzhoalQzdGN4Ti1qR29ISmhzM3BKU2VvbnJ3dFdXQ1V4bV9wSVZtUFhLNFpZSVk2Z2VTSEVURFRSZw"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "Emerald AI与英伟达公布冰岛试点成果",
-   "title_zh": "Emerald AI与英伟达公布冰岛数据中心试点成果",
-   "sentiment": 1
   }
  ]
 }
