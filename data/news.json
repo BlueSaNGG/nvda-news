@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T17:36:38.206659+00:00",
+ "updated_at": "2026-10-26T17:51:54.293301+00:00",
  "market": {
-  "price": 216.06,
-  "change_pct": 2.42,
+  "price": 215.99,
+  "change_pct": 2.38,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.38,
-   "count": 169
+   "avg": 0.39,
+   "count": 171
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.38（169条已评分）"
+     "note": "今日新闻情绪 +0.39（171条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.06 vs 20日均线 $224.90"
+     "note": "现价 $215.99 vs 20日均线 $224.90"
     },
     {
      "key": "分析师动向",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 45.8,
    "ma20": 224.9,
-   "as_of": "2026-10-26T17:36:38.185283+00:00"
+   "as_of": "2026-10-26T17:51:54.282941+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "72c8201ac1d2",
+   "title": "IBM与英伟达将AI智能体身份和运行时访问控制绑定。 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzYklLOE9Cc0R2ZnZ4a0RONjUwal9LMDFVVFU0Zi1Rd0o5UEp1ZVZ1dnZ5cThvRThnOWlOeUZlSjFYVWNBUS01djk3RQ",
+   "source": "手机新浪网",
+   "published_at": "2026-10-26T17:34:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-26T17:34:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzYklLOE9Cc0R2ZnZ4a0RONjUwal9LMDFVVFU0Zi1Rd0o5UEp1ZVZ1dnZ5cThvRThnOWlOeUZlSjFYVWNBUS01djk3RQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "f3e1efec0f68",
    "title": "Schneider teams with HPE and Nvidia on industrial AI agents at the edge - Fierce Network",
@@ -868,6 +885,23 @@
    "zh_summary": "英伟达RTX Spark笔记本上市",
    "title_zh": "英伟达RTX Spark笔记本上市，价格对标MacBook Pro",
    "sentiment": 1
+  },
+  {
+   "id": "0ca39a2bea66",
+   "title": "NVIDIA replaced a GeForce RTX 5090 FE without a receipt after the 12VHPWR connector melted. - GameGPU",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1h3VUJnTVNtZmlVOUkwam5aSVM2RWlnM0gwUGVrU3ZtVjU0WGFGbjlKSHlkSmFkQVg0cTVuNmVvclVKMTRpdDdHMmxZQVlqUUw0b2pQblBnQ09LZWs1bDFkSjVUNmdSU0lQV0hGQmlWTVJINWhULTZLNDhOcGxvSVN2OHp4aE04R3E4c0RTb0VDRnpUTUcwMkNoRVpxbkYydnQyTWhTdlRJelRuSFZ1bzBScEU",
+   "source": "GameGPU",
+   "published_at": "2026-10-26T14:26:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GameGPU",
+     "published_at": "2026-10-26T14:26:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1h3VUJnTVNtZmlVOUkwam5aSVM2RWlnM0gwUGVrU3ZtVjU0WGFGbjlKSHlkSmFkQVg0cTVuNmVvclVKMTRpdDdHMmxZQVlqUUw0b2pQblBnQ09LZWs1bDFkSjVUNmdSU0lQV0hGQmlWTVJINWhULTZLNDhOcGxvSVN2OHp4aE04R3E4c0RTb0VDRnpUTUcwMkNoRVpxbkYydnQyTWhTdlRJelRuSFZ1bzBScEU"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "c1ea3bc23fdc",
@@ -1769,7 +1803,7 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGJyYTc5WjhQTWNkaGxDQkZ6Y0JISmpldHZyTUpxZTFRVl9YVnJmQm5NVTdHbWVNQTJZdnlLd1V1OGh3Ml9pQjZsTTVaVWdTb3R2Z3VyeGZJanQtNzZibFJTcjJhMUJVV3BiZUlwSmR3N05nbno2RjZ5azlYTnlUcV92cUNKSnM4ajk1NS1aWnVBbkxiUXREWEloVk53c3A3eU0xT3VHWWtoUQ",
    "source": "富途牛牛",
    "published_at": "2026-10-26T11:18:15+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "富途牛牛",
@@ -1780,13 +1814,22 @@
      "name": "36kr.com",
      "published_at": "2026-10-26T11:56:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmOS00ZjMyWElIR2gzOWd0N0tvY0l3S09HNFFVcGNZbHo4TUNjbW5mYkJmWE1xWHRMWmpIZERFT1oyb19SaVo1YlRndEVnSDFYR1l4M0phdVA"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-26T11:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblgteUZ0NlBXalMwbjhvN29qeFBDWlZIcjdHc2VUcllnVllUMGVNVG1DRmFjWEdkOWx4VHAwSUs4d29KWnVXSnpfOW9KNlpNZEZlZzVUZ25td3JuUDlBUE9GWlo4dmtnTWNRWUh3NjNhdWJNV1dFVjRuWlIxUnR6eHhZWW50Sy1BSm5UUA"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "英伟达等有意认购Meta至多50亿美元股票",
    "title_zh": "英伟达、AMD、博通表示有意认购Meta至多50亿美元股票",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.75,
+    "window_h": 2.0
+   }
   },
   {
    "id": "5bac4a19f041",
@@ -1904,10 +1947,15 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUktFRXRQMUdzT1ppMEcteVJXVWVITlBUbjFjXzVyMWlBNW5ubFk4bDVUdGtUQnV2M1dwNVRuRDRPNDc3WGhkMXZoMjdPQU01M1J0emFUWWRxV3RvS2p3a0E3WmlEek8wdkVpX3dXYVowelFndl9xVWJwNEJWNFJTa2xES050RE9MYVV4Ng",
    "source": "Sohu",
    "published_at": "2026-10-26T11:03:55+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Sohu",
+     "published_at": "2026-10-26T11:03:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUktFRXRQMUdzT1ppMEcteVJXVWVITlBUbjFjXzVyMWlBNW5ubFk4bDVUdGtUQnV2M1dwNVRuRDRPNDc3WGhkMXZoMjdPQU01M1J0emFUWWRxV3RvS2p3a0E3WmlEek8wdkVpX3dXYVowelFndl9xVWJwNEJWNFJTa2xES050RE9MYVV4Ng"
+    },
+    {
+     "name": "搜狐网",
      "published_at": "2026-10-26T11:03:55+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUktFRXRQMUdzT1ppMEcteVJXVWVITlBUbjFjXzVyMWlBNW5ubFk4bDVUdGtUQnV2M1dwNVRuRDRPNDc3WGhkMXZoMjdPQU01M1J0emFUWWRxV3RvS2p3a0E3WmlEek8wdkVpX3dXYVowelFndl9xVWJwNEJWNFJTa2xES050RE9MYVV4Ng"
     }
@@ -3679,6 +3727,23 @@
    "zh_summary": "DeepSeek开源推理引擎获多方支持",
    "title_zh": "DeepSeek开源推理引擎，华为与英伟达并列支持",
    "sentiment": 0
+  },
+  {
+   "id": "34427c53cbbb",
+   "title": "大和：英伟达柏林GTC冀推动欧洲加快拥抱AI - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUUNEbTU5cUFJZnNSNTBQMHktNlBFRlAya3N4OWs5WG5hRWJGVUxoejR6MVdQLTVHaE9Vazg4dXIxWG1PXzRMS3Z2NXlDb0ZISXZSeTBEWWgyZDZ1UVRxejFscFhwNHZzcjNMU2gtbWd1NWpuSFJkbXJNb0U5Zjh4QTR1UV9XdGdNTWhQMg",
+   "source": "搜狐网",
+   "published_at": "2026-10-26T05:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-26T05:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUUNEbTU5cUFJZnNSNTBQMHktNlBFRlAya3N4OWs5WG5hRWJGVUxoejR6MVdQLTVHaE9Vazg4dXIxWG1PXzRMS3Z2NXlDb0ZISXZSeTBEWWgyZDZ1UVRxejFscFhwNHZzcjNMU2gtbWd1NWpuSFJkbXJNb0U5Zjh4QTR1UV9XdGdNTWhQMg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "9f0334267caa",
@@ -6594,66 +6659,6 @@
    "zh_summary": "RTX30显卡解锁后AI性能大幅提升",
    "title_zh": "RTX30显卡新解锁模组大幅提升AI性能",
    "sentiment": 1
-  },
-  {
-   "id": "c1fdebf0cd9c",
-   "title": "Nvidia CEO Jensen Huang says US regulation pushed China’s domestic capabilities but America's technology - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNOEx4T0RoSk93X1p6SnBfdFZWZ0d2cmNFSE5hQk5oTE1JS1h6VjJXdzgxaWs2MUdvWk1vSmNEQm1fdGhTaC1mOUJDR0ozSW9WWW5STEpOVWFXUk9wN3llaFZpdktxNG1JbDFObGtXYjJYNTFwMVJYN29MUGdhel92dTNzQmt5MU1PeGtiYUVMTUd1NlRyVGZFYkp6NUhaRTdRWnhEMHlyTEFvb09wTE5xeDlSaHFSOUJsYnVwTXROcnVoelJMZVA1ejVBRWZudmc1NDBhd0dsdVRuYnEtcG1oNnMtMzVWVVJZYl9sUEM2cTF4RV84cHUzN2w2NkRfTGh4by0ycTRYSGtnR2ZIdWlSM3ZBeFFyUkpf0gGeAkFVX3lxTE9sOHIwZDVSYU4yRmRxcTZ0UHBHOHNmZC12Z1B5ODloa3Q0QXRnMnRYTFRCX3dXTFNQOXRlMWpBZHlLM1ZTRF9TTDZOQjJvTHJrVFhheUNqbnBlcjdKVV9jV3JWUzZ2TXlLa3FKV1lkT0VvMUlyYjBIUTJVSk40eWs2OHphY19EazVTT1pxaTBSa1ctaEZTTmtKOElxZUlQRmVXUVRuaS1wWDJxZ2RBcEROZ2FiM0tMNzdHbTdPSTl0ZDdyek9uNUJsckM2QkRBdmRoQkFkb2hzWTYtZ21RSWJyeTdfTGgzSUxHZ290bldjQkFMYTJtOUs4a1RvVzAyakNweUlzdXYwVm5COWRxdFVObWk2OHRRdm5XQ0Jsamc",
-   "source": "The Times of India",
-   "published_at": "2026-10-25T04:23:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Times of India",
-     "published_at": "2026-10-25T04:23:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNOEx4T0RoSk93X1p6SnBfdFZWZ0d2cmNFSE5hQk5oTE1JS1h6VjJXdzgxaWs2MUdvWk1vSmNEQm1fdGhTaC1mOUJDR0ozSW9WWW5STEpOVWFXUk9wN3llaFZpdktxNG1JbDFObGtXYjJYNTFwMVJYN29MUGdhel92dTNzQmt5MU1PeGtiYUVMTUd1NlRyVGZFYkp6NUhaRTdRWnhEMHlyTEFvb09wTE5xeDlSaHFSOUJsYnVwTXROcnVoelJMZVA1ejVBRWZudmc1NDBhd0dsdVRuYnEtcG1oNnMtMzVWVVJZYl9sUEM2cTF4RV84cHUzN2w2NkRfTGh4by0ycTRYSGtnR2ZIdWlSM3ZBeFFyUkpf0gGeAkFVX3lxTE9sOHIwZDVSYU4yRmRxcTZ0UHBHOHNmZC12Z1B5ODloa3Q0QXRnMnRYTFRCX3dXTFNQOXRlMWpBZHlLM1ZTRF9TTDZOQjJvTHJrVFhheUNqbnBlcjdKVV9jV3JWUzZ2TXlLa3FKV1lkT0VvMUlyYjBIUTJVSk40eWs2OHphY19EazVTT1pxaTBSa1ctaEZTTmtKOElxZUlQRmVXUVRuaS1wWDJxZ2RBcEROZ2FiM0tMNzdHbTdPSTl0ZDdyek9uNUJsckM2QkRBdmRoQkFkb2hzWTYtZ21RSWJyeTdfTGgzSUxHZ290bldjQkFMYTJtOUs4a1RvVzAyakNweUlzdXYwVm5COWRxdFVObWk2OHRRdm5XQ0Jsamc"
-    }
-   ],
-   "category": "政策监管",
-   "session": "周末",
-   "zh_summary": "黄仁勋称美国监管推动中国本土能力",
-   "title_zh": "黄仁勋称美国监管推动了中国本土能力",
-   "sentiment": -1
-  },
-  {
-   "id": "cf2019ca09a0",
-   "title": "NVIDIA RTX Remix 1.6 Brings DLSS 5, 6X Multi Frame Generation, and Path-Traced Minecraft - TweakTown",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXk1cmd6VU53SGRWZ2d3dElUTjVaNnJmNk93ZGNnRms5YTY4NTE0eWRGekphMGRPV05pMFJPMTlsblljUFJPZHNaRkJxSE9wQVNPOU0wc2JDeE9EVzAwUzJlcVNIVFVRNlFEckR1VDhVUW1NR2ltbnRlSlZRd2t6eEgtQnpJdVVZd3NHS0hLRnhCZVdmUU8tckdHZVdRUU1rTkhycGhLdUZ4ZTluQ0lFSk1uOW9OSHotc1lWQVN5UmpLYTA5X2NKTXJSc2VtQnU4",
-   "source": "TweakTown",
-   "published_at": "2026-10-25T04:05:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TweakTown",
-     "published_at": "2026-10-25T04:05:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXk1cmd6VU53SGRWZ2d3dElUTjVaNnJmNk93ZGNnRms5YTY4NTE0eWRGekphMGRPV05pMFJPMTlsblljUFJPZHNaRkJxSE9wQVNPOU0wc2JDeE9EVzAwUzJlcVNIVFVRNlFEckR1VDhVUW1NR2ltbnRlSlZRd2t6eEgtQnpJdVVZd3NHS0hLRnhCZVdmUU8tckdHZVdRUU1rTkhycGhLdUZ4ZTluQ0lFSk1uOW9OSHotc1lWQVN5UmpLYTA5X2NKTXJSc2VtQnU4"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "RTX Remix 1.6带来DLSS 5多帧生成",
-   "title_zh": "英伟达RTX Remix 1.6带来DLSS 5、6倍多帧生成",
-   "sentiment": 1
-  },
-  {
-   "id": "20586d3efa67",
-   "title": "Gaming PC deal with 16GB VRAM variant of NVIDIA’s RTX 5060 Ti graphics card is an excellent way to pick up an affordable 1440p gaming rig - PC Guide",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWEUzYkQxS0FqX2lKV3RUUDg2REtpOUZURlFCZ21HajlkLVNoNUNjY3ZXMzBzUmdGYlVyQU92ck5zTWlkbjBrV090b1R2RmF6Z3N2MXNOVDQySnB4UVIzanBVTDZZNm1PTUFqenNBbkdROUhKb2Nwc2xtMzVWendFR1AzZTlZNWpURmthazRFNHdxZ1cyS0pmSWJyLTVRWFFneGp0b0QxWFJPUU1TOWxsb2lVTXpKTlhIa2dCcXJmSm5wOHhDX3Mzb3lFV1hKemFKcGx2N1FRNjVnUENYWW9OZjdHT3pKdnVNZXBjdjBFYmt4ZFduZFpFT3dzOA",
-   "source": "PC Guide",
-   "published_at": "2026-10-25T03:50:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "PC Guide",
-     "published_at": "2026-10-25T03:50:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWEUzYkQxS0FqX2lKV3RUUDg2REtpOUZURlFCZ21HajlkLVNoNUNjY3ZXMzBzUmdGYlVyQU92ck5zTWlkbjBrV090b1R2RmF6Z3N2MXNOVDQySnB4UVIzanBVTDZZNm1PTUFqenNBbkdROUhKb2Nwc2xtMzVWendFR1AzZTlZNWpURmthazRFNHdxZ1cyS0pmSWJyLTVRWFFneGp0b0QxWFJPUU1TOWxsb2lVTXpKTlhIa2dCcXJmSm5wOHhDX3Mzb3lFV1hKemFKcGx2N1FRNjVnUENYWW9OZjdHT3pKdnVNZXBjdjBFYmt4ZFduZFpFT3dzOA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "搭载16GB RTX 5060 Ti显卡的PC优惠",
-   "title_zh": "搭载16GB显存RTX 5060 Ti显卡的游戏PC优惠，适合1440p游戏",
-   "sentiment": 0
   }
  ]
 }
