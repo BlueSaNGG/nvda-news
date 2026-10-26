@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T12:51:39.254714+00:00",
+ "updated_at": "2026-10-26T13:06:30.729067+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.42,
-   "count": 89
+   "avg": 0.37,
+   "count": 94
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.42（89条已评分）"
+     "note": "今日新闻情绪 +0.37（94条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-26T12:51:39.236153+00:00"
+   "as_of": "2026-10-26T13:06:30.716088+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -62,24 +62,72 @@
  },
  "stories": [
   {
-   "id": "768321f9a49e",
-   "title": "Nvidia Financial Strategy Faces Stress Test As AI Credit Markets Tighten - TIKR.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzVleTVocHdtSWdkZVRhYkJzS0pNWS1qekNBX3d5dmRTTlIxb0tqSVZLRU00em9wRjlrSkd2SEpvM19wRWt5eHF0VFF3dEtHZGJRXzROY21lUDdqUjhRNDJuT2pPd203M0dJbV9hYk1CZWxfWGhabmZSbTY0SmRZdGNUWUhmVjRZSVZMb1BOVDFJN3lYM184cA",
-   "source": "TIKR.com",
-   "published_at": "2026-10-26T12:47:46+00:00",
+   "id": "4b2d865dc94c",
+   "title": "Cadence unveils Nvidia-backed AI models that chipmakers can run in-house - StreetInsider",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3p0UnhsLVp4Zm1XRWV3dVpQdUVqVUhfZXVBc2VKdEJoWkM0TVVpVUlvUk12dTdkblFpdWd2cUFNSFkwczVSRFVuR1Q2YWc2cWxjVnFXem5vZEJ6UnpnOFZSUzJ6dkx6UUJCTy1vSHRvNEZrX3Q2a1R1elBkRVpYcGVXQWcySnZLX2Nad0YyUlF6T0l2bUhoRTVGbDFfZVB6QWQwcGthR29tTkd4X0FDZXJvU2lHVHEwZzRLZ2M2UzkwQQ",
+   "source": "StreetInsider",
+   "published_at": "2026-10-26T13:04:57+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "TIKR.com",
-     "published_at": "2026-10-26T12:47:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzVleTVocHdtSWdkZVRhYkJzS0pNWS1qekNBX3d5dmRTTlIxb0tqSVZLRU00em9wRjlrSkd2SEpvM19wRWt5eHF0VFF3dEtHZGJRXzROY21lUDdqUjhRNDJuT2pPd203M0dJbV9hYk1CZWxfWGhabmZSbTY0SmRZdGNUWUhmVjRZSVZMb1BOVDFJN3lYM184cA"
+     "name": "StreetInsider",
+     "published_at": "2026-10-26T13:04:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3p0UnhsLVp4Zm1XRWV3dVpQdUVqVUhfZXVBc2VKdEJoWkM0TVVpVUlvUk12dTdkblFpdWd2cUFNSFkwczVSRFVuR1Q2YWc2cWxjVnFXem5vZEJ6UnpnOFZSUzJ6dkx6UUJCTy1vSHRvNEZrX3Q2a1R1elBkRVpYcGVXQWcySnZLX2Nad0YyUlF6T0l2bUhoRTVGbDFfZVB6QWQwcGthR29tTkd4X0FDZXJvU2lHVHEwZzRLZ2M2UzkwQQ"
     }
    ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "英伟达财务战略面临AI信贷收紧考验",
-   "title_zh": "英伟达财务战略面临考验，AI信贷市场收紧",
-   "sentiment": -1
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "6c9f863828dc",
+   "title": "Nvidia built the gaming laptop of the future. But don’t buy RTX Spark for games - PCWorld",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVk52Z2NuQVZTbjhxMm9UMHExTWxwbFkzeG1zU2RqWDdQUldtWGJSUlpzMkFBTmo5U3AxVDZ6cWM2dUN0dnBtelVyRC1FSURPSXRZNXpLbzU3aHVZc0YtdF9NN2owN2RNVXlscUd4NjhhN3VfZWJKbWhiVjJ3YUZHR1RRZkUzRC0tNUZUb0hIdzdpUm1fYmJMSzNWaVlTYTAwM0ZrTVA1dnFpVEtUcVNkU3NsVDEtLXdjYkdXY3ZCVQ",
+   "source": "PCWorld",
+   "published_at": "2026-10-26T13:01:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PCWorld",
+     "published_at": "2026-10-26T13:01:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVk52Z2NuQVZTbjhxMm9UMHExTWxwbFkzeG1zU2RqWDdQUldtWGJSUlpzMkFBTmo5U3AxVDZ6cWM2dUN0dnBtelVyRC1FSURPSXRZNXpLbzU3aHVZc0YtdF9NN2owN2RNVXlscUd4NjhhN3VfZWJKbWhiVjJ3YUZHR1RRZkUzRC0tNUZUb0hIdzdpUm1fYmJMSzNWaVlTYTAwM0ZrTVA1dnFpVEtUcVNkU3NsVDEtLXdjYkdXY3ZCVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "4d3e39bdb620",
+   "title": "Cadence, Nvidia Unveil New AI Models To Put EDA On Autopilot - The Next Platform",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORXU3ZUJVZk9fUzA0UlM5YjgxdGhuOVNyMmVxdU5ZYWl3cVItZ2dZM2xPNGQtaWZUMXZJR091SlZYSXdrbDk2OUVyTE9MTU5BOVlXc3BhQlRQVUVheDRUUEl4RzY3R3dxb3hnNGVXZ1JDczQ2MmZGSFNSU2E0OHhsTFFKVWpnWGhQdm9XVDZpVXVhSHNESjFVNmlKYm1ONU9rWHBxM3UtZjRZU3QtLWJMVA",
+   "source": "The Next Platform",
+   "published_at": "2026-10-26T13:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Next Platform",
+     "published_at": "2026-10-26T13:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORXU3ZUJVZk9fUzA0UlM5YjgxdGhuOVNyMmVxdU5ZYWl3cVItZ2dZM2xPNGQtaWZUMXZJR091SlZYSXdrbDk2OUVyTE9MTU5BOVlXc3BhQlRQVUVheDRUUEl4RzY3R3dxb3hnNGVXZ1JDczQ2MmZGSFNSU2E0OHhsTFFKVWpnWGhQdm9XVDZpVXVhSHNESjFVNmlKYm1ONU9rWHBxM3UtZjRZU3QtLWJMVA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "89a258b608e9",
+   "title": "Nvidia GeForce RTX 40, 30, and 20 GPUs get 2x compute performance boost, thanks to this mod - Club386",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iX25Sc0hjQzVRVndtNUNFdVMtOW5hNElyVlI1Q3N2R0RWX1VwSWxNLWtIUVB0V0tFUWRqSXZNTGo4dDFlUjRzelVVbG5IQ21odm83Ny1abHR1bEpRSU1VYjdNbjQtM2gxWEFObEJOQ282Wm03bXlWQWk4QWV5d28",
+   "source": "Club386",
+   "published_at": "2026-10-26T12:57:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Club386",
+     "published_at": "2026-10-26T12:57:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iX25Sc0hjQzVRVndtNUNFdVMtOW5hNElyVlI1Q3N2R0RWX1VwSWxNLWtIUVB0V0tFUWRqSXZNTGo4dDFlUjRzelVVbG5IQ21odm83Ny1abHR1bEpRSU1VYjdNbjQtM2gxWEFObEJOQ282Wm03bXlWQWk4QWV5d28"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "54faf62c8f4f",
@@ -87,12 +135,17 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ00wQy0wb1ZGeDl2SEh3b29hLUFwYnNnZDRfeHgwcDh5Q29MTEJISVgzU3czWVlLUmtPMHpwQzNPSkJRSENTdS1wR0JfQkJYQzNTM0xsSHZURk05T0tqbG1OQU1rSVlmUHdwTTZPdW9Pa2VadndqaFE4dHlNVHJXS0VBZGZxUEs1alpIY0hEaUxVcTBPN09Zbg",
    "source": "The Motley Fool",
    "published_at": "2026-10-26T12:36:45+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-26T12:36:45+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ00wQy0wb1ZGeDl2SEh3b29hLUFwYnNnZDRfeHgwcDh5Q29MTEJISVgzU3czWVlLUmtPMHpwQzNPSkJRSENTdS1wR0JfQkJYQzNTM0xsSHZURk05T0tqbG1OQU1rSVlmUHdwTTZPdW9Pa2VadndqaFE4dHlNVHJXS0VBZGZxUEs1alpIY0hEaUxVcTBPN09Zbg"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-26T12:51:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNYU5SWGthcmhNaGQ4endmR0NLS1cxYlU2V292WFA4aHdIczY2YW1lNk5HeUFSY0pzRzN2X1BVUEVSMjFpVmZLSDAxTnk3Qkd3eTg3SmVyeEFPSWpoU2MzRlF0b0lyVzI4eUxUdjF2Vy1Yd2VrdVM4YTRCX3dweEtPRFU1SVowZFhVRGxHUzVFeEJza1g2SXp6QjduLVFrOGZRWGRsU0JXVkNuOTYwcUJVal9nVlRLWXBWd00zTWNiR1ZIU3BUbDdId1h3V0sxVlY0ekZQRFMzQW5IMU1OODBpZ2k4NU5peFhHazhSa3c5U0ktVjV6dWVCSEZNQV9ITEo3LXdDRmI4YmJPX1N2NGZVQk1jNEtLZk9XQ1c5ck96LWNuQ2F2Rlh3"
     }
    ],
    "category": "其他",
@@ -367,26 +420,6 @@
    "sentiment": 0
   },
   {
-   "id": "c6b70a1c6f5b",
-   "title": "Audi Announces Its First U.S. Factory; Nvidia, Micron Drive Earnings Boom - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmNYbU14T29fbUlGcmZXY1FYaE9vZEVSaWpRU3NvT25oSDBuS2NKMEg2Ykk2ZEVDWHlOVXV5MUNJb3V3M19vVlBfNlVSWGwtZmdtTlRoMURzRzNmTWZZd3E2cFk3UnpLZllLcW9seTlBdnA4N1dpS01zYnpzSHRhWEJ5VXF2OGFWVU55UDFQTlpIWGJrYnNDVFhtaDhoWDI3M3dlSnc5dDlvN2lxbFhGRg",
-   "source": "WSJ",
-   "published_at": "2026-10-26T11:25:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-26T11:25:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmNYbU14T29fbUlGcmZXY1FYaE9vZEVSaWpRU3NvT25oSDBuS2NKMEg2Ykk2ZEVDWHlOVXV5MUNJb3V3M19vVlBfNlVSWGwtZmdtTlRoMURzRzNmTWZZd3E2cFk3UnpLZllLcW9seTlBdnA4N1dpS01zYnpzSHRhWEJ5VXF2OGFWVU55UDFQTlpIWGJrYnNDVFhtaDhoWDI3M3dlSnc5dDlvN2lxbFhGRg"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "奥迪宣布在美建首厂，英伟达等驱动盈利热潮",
-   "title_zh": "奥迪宣布在美建首家工厂，英伟达与美光驱动盈利热潮",
-   "sentiment": 1
-  },
-  {
    "id": "0a89acc0fc60",
    "title": "美股讯号 | Meta 美股盘前涨超 2%，英伟达等公司参与股票发行 ｜#美股资讯# #Meta# #股价波动# - Sohu",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTGJkaEMzM1duX1Z3QkNVbkRWSm1HLXdRZUd5UWtwX3NiRUVsemNhbnIwUnk0MmlzLWNTXzQ3WkZsY2VUb2N0OFdKVzNkdkN4RFI3OTVtc2hXNjRxSmlvcXQ3b2h0eWFnWlliZ3Z4YXZ1bEhqZm9ha3JVMW1UTUtySWQwb2t0Q3k4akJ4OA",
@@ -405,6 +438,26 @@
    "zh_summary": "英伟达等参与Meta股票发行",
    "title_zh": "Meta盘前涨超2%，英伟达等公司参与其股票发行",
    "sentiment": 0
+  },
+  {
+   "id": "c6b70a1c6f5b",
+   "title": "Audi Announces Its First U.S. Factory; Nvidia, Micron Drive Earnings Boom - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmNYbU14T29fbUlGcmZXY1FYaE9vZEVSaWpRU3NvT25oSDBuS2NKMEg2Ykk2ZEVDWHlOVXV5MUNJb3V3M19vVlBfNlVSWGwtZmdtTlRoMURzRzNmTWZZd3E2cFk3UnpLZllLcW9seTlBdnA4N1dpS01zYnpzSHRhWEJ5VXF2OGFWVU55UDFQTlpIWGJrYnNDVFhtaDhoWDI3M3dlSnc5dDlvN2lxbFhGRg",
+   "source": "WSJ",
+   "published_at": "2026-10-26T11:24:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-26T11:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmNYbU14T29fbUlGcmZXY1FYaE9vZEVSaWpRU3NvT25oSDBuS2NKMEg2Ykk2ZEVDWHlOVXV5MUNJb3V3M19vVlBfNlVSWGwtZmdtTlRoMURzRzNmTWZZd3E2cFk3UnpLZllLcW9seTlBdnA4N1dpS01zYnpzSHRhWEJ5VXF2OGFWVU55UDFQTlpIWGJrYnNDVFhtaDhoWDI3M3dlSnc5dDlvN2lxbFhGRg"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前",
+   "zh_summary": "奥迪宣布在美建首厂，英伟达等驱动盈利热潮",
+   "title_zh": "奥迪宣布在美建首家工厂，英伟达与美光驱动盈利热潮",
+   "sentiment": 1
   },
   {
    "id": "43b6bdda1f21",
@@ -1521,6 +1574,31 @@
    "zh_summary": "英伟达RTX Spark有望助力高通骁龙",
    "title_zh": "英伟达RTX Spark或成高通骁龙最佳助力",
    "sentiment": 1
+  },
+  {
+   "id": "768321f9a49e",
+   "title": "Nvidia Financial Strategy Faces Stress Test As AI Credit Markets Tighten - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNVZuQW8wZ19YRE5XX3QzZ0JNRHBtbFQyaVpkaWZoVGF1aS02c3NiUzFIZzNmRHlOVWlOQWdrWE1kb05LTUNRSWdwMTU1VHBaaE1DeG1ob3RuRjk4QVZzQW4wcVZMUXVZbVhQWERMM3A5VmVrbjFiajVXT21BUTBDdk1lZEJneGktZldvemFiTWVDdmFENHl0Yk9rMUNwWmNrZUpBUmp3",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-26T07:45:24+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-26T07:45:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNVZuQW8wZ19YRE5XX3QzZ0JNRHBtbFQyaVpkaWZoVGF1aS02c3NiUzFIZzNmRHlOVWlOQWdrWE1kb05LTUNRSWdwMTU1VHBaaE1DeG1ob3RuRjk4QVZzQW4wcVZMUXVZbVhQWERMM3A5VmVrbjFiajVXT21BUTBDdk1lZEJneGktZldvemFiTWVDdmFENHl0Yk9rMUNwWmNrZUpBUmp3"
+    },
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-10-26T12:47:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzVleTVocHdtSWdkZVRhYkJzS0pNWS1qekNBX3d5dmRTTlIxb0tqSVZLRU00em9wRjlrSkd2SEpvM19wRWt5eHF0VFF3dEtHZGJRXzROY21lUDdqUjhRNDJuT2pPd203M0dJbV9hYk1CZWxfWGhabmZSbTY0SmRZdGNUWUhmVjRZSVZMb1BOVDFJN3lYM184cA"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前",
+   "zh_summary": "英伟达财务战略面临AI信贷收紧考验",
+   "title_zh": "英伟达财务战略面临考验，AI信贷市场收紧",
+   "sentiment": -1
   },
   {
    "id": "c07d9cc92147",
@@ -6276,6 +6354,23 @@
    "sentiment": 1
   },
   {
+   "id": "29691bae1a30",
+   "title": "苹果总市值盘中超越英伟达 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LYmFtNVo0bDJPdWpNdnY2ZkNFb19mRWJFNEsyczhTZzZpRXhMVDlEZmVxSnZwSU9hN0w1MnVSWjBVTl9maTdkbkpwUERzOU04UkllR056LUw3NkpBVkhlUllmbWludw",
+   "source": "东方财富",
+   "published_at": "2026-10-24T09:32:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-24T09:32:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LYmFtNVo0bDJPdWpNdnY2ZkNFb19mRWJFNEsyczhTZzZpRXhMVDlEZmVxSnZwSU9hN0w1MnVSWjBVTl9maTdkbkpwUERzOU04UkllR056LUw3NkpBVkhlUllmbWludw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "b3a7c4709908",
    "title": "Nvidia backs AI video startup Higgsfield in series B extension - Tech in Asia",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0lJRWFqbDZURVYyWXdpT09IYl9BZWkxWnU5SFE0a0NMRzVKdU94TlozRFY5TnlTQS1PbUsyVk9lVXZ3dDhOSlJSUXpUdGh5VXNVTGF4X1IxMEV4RDRsWWNxYTdBeWxNMDllNGFXcS1aYThUc3FMbk9ydGx3MW1qMEZIaEdrRGpuRkxzWnpR",
@@ -6414,136 +6509,6 @@
    "zh_summary": "英伟达发布RTX Remix 1.6游戏工具",
    "title_zh": "英伟达发布RTX Remix 1.6，《我的世界》迎来路径追踪",
    "sentiment": 1
-  },
-  {
-   "id": "ff1f89644d4f",
-   "title": "NVIDIA (NASDAQ:NVDA) Stock Purchase Reported by Rep. Cleo Fields - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdkdnc1BMbGZHQ2Z2bVVrcEd3STlGQnRkYm5lS2pCZzMzU2dHZUxVM1VIWEFqWG5nUFJlb2hGY1hqcUVnaXBhWnpQcFV0czY4R1UzRTc2QXpaRS1HTWVyVnZGZjFXUmNhcTF0RVM2RE03X1NzcjFpQktJaXBma2dwUFU4MnJBV3ZRSEJHLTdDMlBaMmZVcFRNUVVBSmdGRGlZT1R2OFRBLV9JNm5qWVdILURSZXlIU2xqT3VVRWpabXJrUQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-24T06:04:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-24T06:04:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdkdnc1BMbGZHQ2Z2bVVrcEd3STlGQnRkYm5lS2pCZzMzU2dHZUxVM1VIWEFqWG5nUFJlb2hGY1hqcUVnaXBhWnpQcFV0czY4R1UzRTc2QXpaRS1HTWVyVnZGZjFXUmNhcTF0RVM2RE03X1NzcjFpQktJaXBma2dwUFU4MnJBV3ZRSEJHLTdDMlBaMmZVcFRNUVVBSmdGRGlZT1R2OFRBLV9JNm5qWVdILURSZXlIU2xqT3VVRWpabXJrUQ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "周末",
-   "zh_summary": "美众议员菲尔兹报告买入英伟达股票",
-   "title_zh": "美众议员克里奥·菲尔兹报告买入英伟达(NVDA)股票",
-   "sentiment": 1
-  },
-  {
-   "id": "1b8cceeba04b",
-   "title": "利好袭来 入选英伟达生态 物理AI龙头暴涨！南向资金大举加仓 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44TEhxU2Rld3gxTFRJaHBzXzFaYWVKX1lyTzNhc21SUElaNnR1Y2tsaTNzNEJqQmM3eEtPS1ZDblMxSDltVzZmTVY2VVByN192bE1qTTd5Zm5SUk9JemVBZWVuTmh1Zw",
-   "source": "东方财富",
-   "published_at": "2026-10-24T05:58:37+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-24T05:58:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44TEhxU2Rld3gxTFRJaHBzXzFaYWVKX1lyTzNhc21SUElaNnR1Y2tsaTNzNEJqQmM3eEtPS1ZDblMxSDltVzZmTVY2VVByN192bE1qTTd5Zm5SUk9JemVBZWVuTmh1Zw"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-24T23:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUFaYW9heTl5OEpiZGVxTmpHb0ZtcjlJN2xDRnQwWTRscEJUVUFKTUVNZW1GNWVQZkI0TUhOVlhqaDdsS2N1bnRRZ2lTckkwWWZPZDI3dmdiN1d2VW9QTHdpTEdESGdpY0pjRms3eGMxNEpuTUJFRFBYWUUtNldXQQ"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-24T23:45:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFRpX2Jqd0xRVTY1UnRzUGVna25SWjJ4dnhwcGhuOEItWGVYNDNKMHQtaVNiVW1vcThXNThqb191ZjBKWjIwRnd5cUdwLVE5QWIxV3RwWFFHaDJTMlZicEpmN3RySWlQMDhvTk9OZlV5TFJCV2p3bzFhVFJCVUd3S2ZKMUlZQk9JdlFoRw"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-24T23:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ubVpEY19YelhLWWtMZTc3dkJ0VzlFSnZZWnAzMDBBRGZlV3d4UlZQMklFMzItSnpzYWlGZDhmcUFyRGhfS3RvWTJKaTFDN2pC"
-    },
-    {
-     "name": "凤凰网财经",
-     "published_at": "2026-10-24T23:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ubVpEY19YelhLWWtMZTc3dkJ0VzlFSnZZWnAzMDBBRGZlV3d4UlZQMklFMzItSnpzYWlGZDhmcUFyRGhfS3RvWTJKaTFDN2pC"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-24T23:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yZ2Q3aGlJeFpwTC1uSDNiMFRyQS1OR0RWZXJxOGtCMHNZdVpjLWM2WHR1XzBHREFGRUdJU056UlFMQWxtSmlrUS03NS1CdFFRanZ2UHl3cEt6VXhuVlVXOVpDMFJSanctRzJ6SFZ3Zw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "物理AI龙头入选英伟达生态，南向资金加仓",
-   "title_zh": "利好袭来，入选英伟达生态，物理AI龙头暴涨！南向资金大举加仓 - 搜狐网",
-   "sentiment": 1
-  },
-  {
-   "id": "5b01a3c301c4",
-   "title": "英伟达、谷歌加持B站启动AI创造公开赛新赛季|NVIDIA|rtx|哔哩哔哩|Google|Google AI_手机新浪网 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTkhXZWN1Y2JSSkJnVDJjN09UbmNlWU9wSmw2VURCeVVUVnUzSjU2OFFyNjRIbmxkSlgyQkUyOTZuallNUFJvVzhLODk2UFh6aXVCWG12bGFBcktMUXYySEpfQzJRdm15a2pIZlNuMzVfVnc1cTZoWFBpV1RWVjVPaERWSmxWaEtZU1RSZi1RZ1cxS2FDQnB1VHEzMXFoSUpGZ2ZVcnFMSkl3WlFFbWhROEIycHp6T2ZsWVg0TDd5WkZEczQ4VUVwaXZUT3p4SnZ2SHlVcHBmT2JNSG5TRklGRzJGRjZFVm9jeXZ5VGtuVmhEWE1BNml2ZkQ0ZV9fMXhBaHlvR2YweHpLZmhfWENOYVB5MA",
-   "source": "新浪财经",
-   "published_at": "2026-10-24T05:53:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-24T05:53:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTkhXZWN1Y2JSSkJnVDJjN09UbmNlWU9wSmw2VURCeVVUVnUzSjU2OFFyNjRIbmxkSlgyQkUyOTZuallNUFJvVzhLODk2UFh6aXVCWG12bGFBcktMUXYySEpfQzJRdm15a2pIZlNuMzVfVnc1cTZoWFBpV1RWVjVPaERWSmxWaEtZU1RSZi1RZ1cxS2FDQnB1VHEzMXFoSUpGZ2ZVcnFMSkl3WlFFbWhROEIycHp6T2ZsWVg0TDd5WkZEczQ4VUVwaXZUT3p4SnZ2SHlVcHBmT2JNSG5TRklGRzJGRjZFVm9jeXZ5VGtuVmhEWE1BNml2ZkQ0ZV9fMXhBaHlvR2YweHpLZmhfWENOYVB5MA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达谷歌支持B站启动AI创作公开赛",
-   "title_zh": "英伟达、谷歌加持B站AI创造公开赛新赛季",
-   "sentiment": 1
-  },
-  {
-   "id": "b354ad97d7b3",
-   "title": "英伟达发布DSX POD压缩AI工厂部署时间，全球AIDC建设潮面临回本与融资考验 - 虎嗅",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0ZnFwRndOZFltT1FPZ2VYT0d5c1IwbHVJRXo5ZkZydFRTbWUwZDlONTdLNzFoOENfckFGTzhsbnQ3aHRIaFJha0JQWDVPZ1VWeGE3eA",
-   "source": "虎嗅",
-   "published_at": "2026-10-24T05:52:53+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "虎嗅",
-     "published_at": "2026-10-24T05:52:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0ZnFwRndOZFltT1FPZ2VYT0d5c1IwbHVJRXo5ZkZydFRTbWUwZDlONTdLNzFoOENfckFGTzhsbnQ3aHRIaFJha0JQWDVPZ1VWeGE3eA"
-    },
-    {
-     "name": "虎嗅网",
-     "published_at": "2026-10-24T05:52:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0ZnFwRndOZFltT1FPZ2VYT0d5c1IwbHVJRXo5ZkZydFRTbWUwZDlONTdLNzFoOENfckFGTzhsbnQ3aHRIaFJha0JQWDVPZ1VWeGE3eA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达发布DSX POD压缩AI工厂",
-   "title_zh": "英伟达发布DSX POD压缩AI工厂，全球AIDC面临回本融资考验",
-   "sentiment": 0
-  },
-  {
-   "id": "554d17198eda",
-   "title": "Nvidia’s CEO Visits Astana as Kazakhstan Pitches Itself as a Physical AI Hub - The Diplomatic Insight",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOczFCaWVQWHpJd1dYTWdPN0h3elg0RmpqWFdMM1dZbXgzSjRXUkpHdFJPRkUzMmpFZXdrVVI1MUhwVHlFbUt5bHkwMkNVZ2M4My1nWGpFUlZnTWUyNE40LVh3dm9jR2YxY2pWNjlyZHVWcU1FWTduUmpJTlpNeC1mSEpXdE4",
-   "source": "The Diplomatic Insight",
-   "published_at": "2026-10-24T04:32:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Diplomatic Insight",
-     "published_at": "2026-10-24T04:32:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOczFCaWVQWHpJd1dYTWdPN0h3elg0RmpqWFdMM1dZbXgzSjRXUkpHdFJPRkUzMmpFZXdrVVI1MUhwVHlFbUt5bHkwMkNVZ2M4My1nWGpFUlZnTWUyNE40LVh3dm9jR2YxY2pWNjlyZHVWcU1FWTduUmpJTlpNeC1mSEpXdE4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "黄仁勋访问阿斯塔纳，哈萨克斯坦推实体AI中心",
-   "title_zh": "英伟达CEO访问阿斯塔纳，哈萨克斯坦力推实体AI中心",
-   "sentiment": 0
   }
  ]
 }
