@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T23:06:29.522046+00:00",
+ "updated_at": "2026-10-26T23:21:29.097194+00:00",
  "market": {
   "price": 216.0,
   "change_pct": 2.39,
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.39,
-   "count": 208
+   "avg": 0.38,
+   "count": 212
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（208条已评分）"
+     "note": "今日新闻情绪 +0.38（212条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 45.8,
    "ma20": 224.9,
-   "as_of": "2026-10-26T23:06:29.513086+00:00"
+   "as_of": "2026-10-26T23:21:29.077924+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "8c2c48e5051b",
+   "title": "Your AMD GPU Can Also Use Nvidia DLSS 5 Now - But There's A Catch - BGR",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GR0xDWm9PU3R0QXJFUV92a2dLTnFNV0ZOTW9XMWJ2dVJTV3JqZkpYTkZmN3M4MmIyUmRJOTY0VWZsVUQ3cFZaZm1lRjN5VGI1TUx5NGQyTXk4THVoN1EwREZiTWY",
+   "source": "BGR",
+   "published_at": "2026-10-26T23:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BGR",
+     "published_at": "2026-10-26T23:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GR0xDWm9PU3R0QXJFUV92a2dLTnFNV0ZOTW9XMWJ2dVJTV3JqZkpYTkZmN3M4MmIyUmRJOTY0VWZsVUQ3cFZaZm1lRjN5VGI1TUx5NGQyTXk4THVoN1EwREZiTWY"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
+   "id": "a426e8f55d70",
+   "title": "Comau integrates Nvidia technology to accelerate development of AI-powered robots - Robotics & Automation News",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVHhkeUE5djllRk9yaGhBbVpJR1ZJNFhSMUZBV3pobE1KRFhtWkgwVVpuQ2ZsX1p2Sk4xd1c3MDBqdldlaU9JY1puVkI2VHVDcTlYcGs1VEVjNjV0bWlZeVpUNjg4cFVURTd6NUw3TWZ0eVNZZHE3eVJLZ0FSblZRTWduZW5nNUhHSFhZMFlnWkItYzNRTm5qbkN1SFEtU04tcVlYdVpLUlVBR0JwVmVSeF94eWE0OHdNX0o3WUlDQmFZQ1BvRTNtNWhNclIyREwzaDhSQw",
+   "source": "Robotics & Automation News",
+   "published_at": "2026-10-26T23:06:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Robotics & Automation News",
+     "published_at": "2026-10-26T23:06:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVHhkeUE5djllRk9yaGhBbVpJR1ZJNFhSMUZBV3pobE1KRFhtWkgwVVpuQ2ZsX1p2Sk4xd1c3MDBqdldlaU9JY1puVkI2VHVDcTlYcGs1VEVjNjV0bWlZeVpUNjg4cFVURTd6NUw3TWZ0eVNZZHE3eVJLZ0FSblZRTWduZW5nNUhHSFhZMFlnWkItYzNRTm5qbkN1SFEtU04tcVlYdVpLUlVBR0JwVmVSeF94eWE0OHdNX0o3WUlDQmFZQ1BvRTNtNWhNclIyREwzaDhSQw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "d0a31a8715a2",
    "title": "英伟达停产传闻掀起涨价潮？实探深圳华强北：一张RTX 5090显卡报价超5万元 - 新浪财经",
@@ -725,6 +759,23 @@
    "zh_summary": "华尔街反攻，英伟达上涨迎风暴周",
    "title_zh": "华尔街反攻，AI巨头增速亮眼，英伟达上涨",
    "sentiment": 1
+  },
+  {
+   "id": "e66916638a52",
+   "title": "Why Did Nvidia (NASDAQ:NVDA) Stock Jump 3%? Anthropic IPO and Morgan Stanley Spark AI Rally - Stocks Down Under",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oby1RYnBMY0d5UnpHN2pfZG82SmlXMDRUOWs4d05vZVc3ZmlfVjdMZF9Qc0swYS1CYUJxZlpkOTBJZUJMaW1HMkQ5aW52Z3A3NjdGM2tmUkNodnc4MUJhVkEtMHlMWTdUeWtkSlAwbXFBYVluUzBxcHVZUQ",
+   "source": "Stocks Down Under",
+   "published_at": "2026-10-26T17:12:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocks Down Under",
+     "published_at": "2026-10-26T17:12:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oby1RYnBMY0d5UnpHN2pfZG82SmlXMDRUOWs4d05vZVc3ZmlfVjdMZF9Qc0swYS1CYUJxZlpkOTBJZUJMaW1HMkQ5aW52Z3A3NjdGM2tmUkNodnc4MUJhVkEtMHlMWTdUeWtkSlAwbXFBYVluUzBxcHVZUQ"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
   },
   {
    "id": "20a284babba4",
@@ -1758,6 +1809,23 @@
    "zh_summary": "英伟达柏林GTC公布欧洲自动驾驶布局",
    "title_zh": "英伟达柏林GTC公布欧洲自动驾驶布局，Hyperion获车企采用",
    "sentiment": 1
+  },
+  {
+   "id": "566ddd437a0c",
+   "title": "Elon Musk’s latest move brings good news for Nvidia investors - TheStreet",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0QySEM2OW9ScGtKbUVZMHh4OXBvWUZmM0tWSlMyQlZSYnVCY0dhUTVPRU9zMW5VVUhFRklwZy03NHdSaTRLcnVSSzFQU2phcWtrSjI1LUdFc2ZESF9LdVl2S3ZyQWZlMUJwSFJham1DcDgyTkhZVHRvZzZHZ3U1S1ZMRW1pQlFrU2N0T2lGMWtCeUxDekhwVkR0NDh3NS1qQlZBUWhn",
+   "source": "TheStreet",
+   "published_at": "2026-10-26T13:33:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TheStreet",
+     "published_at": "2026-10-26T13:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0QySEM2OW9ScGtKbUVZMHh4OXBvWUZmM0tWSlMyQlZSYnVCY0dhUTVPRU9zMW5VVUhFRklwZy03NHdSaTRLcnVSSzFQU2phcWtrSjI1LUdFc2ZESF9LdVl2S3ZyQWZlMUJwSFJham1DcDgyTkhZVHRvZzZHZ3U1S1ZMRW1pQlFrU2N0T2lGMWtCeUxDekhwVkR0NDh3NS1qQlZBUWhn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "04cd014150dd",
@@ -6604,110 +6672,6 @@
    "zh_summary": "谷歌瞄准2500亿美元AI芯片市场",
    "title_zh": "谷歌2500亿美元AI芯片机会瞄准英伟达",
    "sentiment": -1
-  },
-  {
-   "id": "2b9989a25a59",
-   "title": "市场消息：英伟达(NVDA.O)、AMD(AMD.O)和博通(AVGO.O)有意购买至多5 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWGpQNTFyOEl5bEhHM2M1dHFGRlVBV0w4OTRHbzNnSk1ZSVBYUEZRNVM0XzAyaWpRYU9xRm54aXFlWDdZcG5Bd1VNLVlUVG1SYklFNW1rUGdRbThJZkNlMnFWaG83SmVrNUE2TW5xMlRtYzBPU1BZYzg4c1AwbWcxREdXUnlLN2dnRDV4YnRUaWJPU1RZZkFudUlZaUgwZw",
-   "source": "富途牛牛",
-   "published_at": "2026-10-25T14:40:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-25T14:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWGpQNTFyOEl5bEhHM2M1dHFGRlVBV0w4OTRHbzNnSk1ZSVBYUEZRNVM0XzAyaWpRYU9xRm54aXFlWDdZcG5Bd1VNLVlUVG1SYklFNW1rUGdRbThJZkNlMnFWaG83SmVrNUE2TW5xMlRtYzBPU1BZYzg4c1AwbWcxREdXUnlLN2dnRDV4YnRUaWJPU1RZZkFudUlZaUgwZw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达、AMD和博通有意购买",
-   "title_zh": "市场消息：英伟达、AMD和博通有意购买",
-   "sentiment": 0
-  },
-  {
-   "id": "c2f6607248ef",
-   "title": "Meta拟发行股票募资350亿美元，英伟达、AMD等有意认购至多50亿美元 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmtsSVRCYWt3dFFkdnBRYU0taTdiRzhJTEhVbEh0S1I1YV9TZ1BFa2VKbkRWVFR1emZ3YldQR0gzb2x6VkRMbXNodUJUblhkNTVBVjNJa1BPSzl4U2tSRzlhZDhlTVp4YVFIWXJLWTZOWW5UN2prcUJUMWVKMlhscWhPMTdVLVFOZlRDMlRFbHN1ZGI4d0xv",
-   "source": "富途牛牛",
-   "published_at": "2026-10-25T14:37:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-25T14:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmtsSVRCYWt3dFFkdnBRYU0taTdiRzhJTEhVbEh0S1I1YV9TZ1BFa2VKbkRWVFR1emZ3YldQR0gzb2x6VkRMbXNodUJUblhkNTVBVjNJa1BPSzl4U2tSRzlhZDhlTVp4YVFIWXJLWTZOWW5UN2prcUJUMWVKMlhscWhPMTdVLVFOZlRDMlRFbHN1ZGI4d0xv"
-    },
-    {
-     "name": "ThePaper.cn",
-     "published_at": "2026-10-26T14:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZRDJseHZDM0w4Z3dDbUdZeVFSQ3NpS28ta0M5VTM2MFgteXo0bDdGaEJhYnB3LVU4YTBLc2xZemNsOC1ONzlDNFcza05vVzdXamkxS2VuVzFweVBwSDJNbg"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-26T11:15:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNkVfMm5uc3FFcHVHV3NkbGZ5cVZKaGhRQVJrckVoLU5DbmJ6MUNSRXFLcEUzTXVNRW4wVlNjN3Q4ODl0N29FXzg4YnFfbks0bUVKak1qNWpFSm80M3g2ZTBObF92X2lHUWE5VzMxQkdFSmgzRDRhNGVCYVROT2VGYg"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-26T11:17:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ITWotWWtMeUpna250VDRKYU04bm1GTGdJRVU2aDhfaXJ0X043MFREQ0pDTV9yYU54LXcyRHdGaDh5UUQyLW4zTXZSOA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达等有意认购Meta至多50亿美元",
-   "title_zh": "Meta拟发行股票募资350亿美元，英伟达、AMD等有意认购至多50亿美元",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.75,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "ec45345295f2",
-   "title": "Cloud Computing Sector Downturn Puts Nvidia’s AI-Boom Financing Bets to the Test - صحيفة مال",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84REI2OGdwb2NHTGs5dVk2Uy01QWxiY3FJOGY3MXJkVk5aMkZsU3lvZEpvS3pkOUpJVFZCY2ZqMHUwU1VrZlpOeXduX3NiaHM4SlFnX1BMOExKSVliUmtTV3JhMXJZMzdUeU1rZQ",
-   "source": "صحيفة مال",
-   "published_at": "2026-10-25T13:31:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "صحيفة مال",
-     "published_at": "2026-10-25T13:31:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84REI2OGdwb2NHTGs5dVk2Uy01QWxiY3FJOGY3MXJkVk5aMkZsU3lvZEpvS3pkOUpJVFZCY2ZqMHUwU1VrZlpOeXduX3NiaHM4SlFnX1BMOExKSVliUmtTV3JhMXJZMzdUeU1rZQ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "周末",
-   "zh_summary": "云计算低迷考验英伟达AI融资押注",
-   "title_zh": "云计算低迷考验英伟达的AI繁荣融资押注",
-   "sentiment": -1
-  },
-  {
-   "id": "307a6b62c6c0",
-   "title": "Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030 - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV19lUHYwU1N2d0lVanRvN1I1UzNSMVZxUEdlcGJsZW1VVUdwbUhvTkVPRTJVY2lnMHRmOFlpN3d4VXRqcHBnWVg5N2lLYmVZTVR0TUJwMHZCcWxpVW5PcUd6ZENIeXJhZmJiMDRWeW5rYzNrRDF1Vi00VkR5MF94SUtZd3hmMHc",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-25T13:25:34+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-25T13:25:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV19lUHYwU1N2d0lVanRvN1I1UzNSMVZxUEdlcGJsZW1VVUdwbUhvTkVPRTJVY2lnMHRmOFlpN3d4VXRqcHBnWVg5N2lLYmVZTVR0TUJwMHZCcWxpVW5PcUd6ZENIeXJhZmJiMDRWeW5rYzNrRDF1Vi00VkR5MF94SUtZd3hmMHc"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-25T13:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQam9ueHNidEo0LVFIUml2R3NFbl8wNklCdzcxNWVsc1FqSF9yTUh6eVRoU3Y5eDFpN1dXa2EtQnAzOW96WDZaZXgwTzlGaGJZZHc2cGNsbWt1Y0hvWFV1MGJfTldLVU52WVpoT1lpZ2JiY1k1TUt4bzIyS0pmaUNKY1ZUYzRwOEduWnRETElFS2tBUTZ3Y2JsakpB"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "1万美元均投英伟达等三股2030年价值",
-   "title_zh": "1万美元均投英伟达、AMD、博通到2030年能值多少",
-   "sentiment": 0
   }
  ]
 }
