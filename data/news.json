@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T16:06:47.947820+00:00",
+ "updated_at": "2026-10-26T16:21:45.382326+00:00",
  "market": {
-  "price": 215.43,
-  "change_pct": 2.12,
+  "price": 215.65,
+  "change_pct": 2.22,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.41,
-   "count": 150
+   "count": 154
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +46.2%"
+     "note": "目标价中位数 $315（16家），隐含空间 +46.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.41（150条已评分）"
+     "note": "今日新闻情绪 +0.41（154条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $215.43 vs 20日均线 $224.87"
+     "note": "现价 $215.65 vs 20日均线 $224.88"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 68,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 46.2,
-   "ma20": 224.87,
-   "as_of": "2026-10-26T16:06:47.932341+00:00"
+   "implied_upside_pct": 46.1,
+   "ma20": 224.88,
+   "as_of": "2026-10-26T16:21:45.367844+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "a4a5cffd7ce1",
+   "title": "Not Nvidia. This Chip Stock Has More Upside, According to Wall Street. - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlpTMy1iMkV0QS1RWHFfV191dXoxR0xxMjAyUTdmanFlRmUtUjREcWhMUXNFcDBLclBBVHd4SWZvSUI4TWhPN0pMNnBGUnE1bUJ2UHpxSk5QY1p4Q1BrMkdkQWhxRUhxUDM1WVduOFR5eGlXOFZzd0d2NzZaNVg1VEdIU2FnR0dkSk5SMXRZX0F1ZmxlVnFkaA",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-26T16:20:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-26T16:20:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlpTMy1iMkV0QS1RWHFfV191dXoxR0xxMjAyUTdmanFlRmUtUjREcWhMUXNFcDBLclBBVHd4SWZvSUI4TWhPN0pMNnBGUnE1bUJ2UHpxSk5QY1p4Q1BrMkdkQWhxRUhxUDM1WVduOFR5eGlXOFZzd0d2NzZaNVg1VEdIU2FnR0dkSk5SMXRZX0F1ZmxlVnFkaA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "ddde109c59e2",
+   "title": "Siemens Healthineers and NVIDIA expand AI collaboration to advance adaptive radiotherapy - DOTmed",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ncm5sakVzbjhLNXd4aWhVRnFKaXhEUjdiamx6RlI0R3h4OHBiMURtUHlkYUZuZTNyZjFSTnM0QlBKRmtuZVg0ek4yVHFHLURO",
+   "source": "DOTmed",
+   "published_at": "2026-10-26T16:08:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "DOTmed",
+     "published_at": "2026-10-26T16:08:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ncm5sakVzbjhLNXd4aWhVRnFKaXhEUjdiamx6RlI0R3h4OHBiMURtUHlkYUZuZTNyZjFSTnM0QlBKRmtuZVg0ek4yVHFHLURO"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "00a39d3dc12b",
    "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield - NVIDIA Developer",
@@ -100,6 +134,28 @@
    "zh_summary": "苹果市值短暂破5.1万亿美元挑战英伟达",
    "title_zh": "苹果市值短暂破5.1万亿美元，英伟达王座遭遇激烈挑战 - 搜狐网",
    "sentiment": -1
+  },
+  {
+   "id": "f1e6dbd3c753",
+   "title": "Nvidia Could Exploit “Completely Legal” China Loophole Worth Billions. But It (Probably) Won’t. - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEY3bEpkcC1OM0ZiMVl3TUFLMUFzVnJLOE9zWnM5aGZXR3dTeUlkN2F0cDMyRHA5UWdmUVpZSVF1S0l6Y002ZEdNVHd5NmZ1OVJXQkZwY0YzR0p4YnkwTzFNQjNTbTYxMjdUVWdhOGthNXE2OEtLcXltMW5uQUJ6cjctSVdEbEFBd2FfbzhtVW16Tk9LcGg2NE9EZ1JlOTdyQkdmRg",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-26T15:50:27+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-26T15:50:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTEY3bEpkcC1OM0ZiMVl3TUFLMUFzVnJLOE9zWnM5aGZXR3dTeUlkN2F0cDMyRHA5UWdmUVpZSVF1S0l6Y002ZEdNVHd5NmZ1OVJXQkZwY0YzR0p4YnkwTzFNQjNTbTYxMjdUVWdhOGthNXE2OEtLcXltMW5uQUJ6cjctSVdEbEFBd2FfbzhtVW16Tk9LcGg2NE9EZ1JlOTdyQkdmRg"
+    },
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-10-26T16:07:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3FQT0M2UXVqRXhWcG85aTBzZ1h6dWZyUzJVRnVjaFVIS3hoQjF6WE50cmo3MHZrcHJ4eWlBTGtHdkt2bnR2QXlHbkMyMm9fSFVtQkRnV19qdV9NZlhtelExSHBnR0dtQV9HMDhmVHBQWW50aXhzbFBIMEY1bHNSMjlpZ2xaYUNreGo1aEVaZGJVS2pmY0VOYXRwak5NeVJoU0RHRnAtVEt4WXN1OWx0SlpHNzZLSG5pb3c"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
   },
   {
    "id": "4e6c00a43e4a",
@@ -448,6 +504,23 @@
    "zh_summary": "英伟达相对标普500折价创2015年来最大",
    "title_zh": "英伟达股价相对标普500折价创2015年来最深",
    "sentiment": 0
+  },
+  {
+   "id": "3aea8a862032",
+   "title": "英伟达估值现已低于标普500指数平均水平：华尔街仍看好其利润创纪录｜长桥证券 - Longbridge",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52NEJuQ3VyNV9OQ3BFN3RVdUZLa2RqT1Frb2w3NHlvM0E4R0ltWU1oOUNwSjFVUkZNQWJJRTNZNmR3Nkg1d0FiemQtOTd6dEpzaHdQVGFR",
+   "source": "Longbridge",
+   "published_at": "2026-10-26T14:45:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Longbridge",
+     "published_at": "2026-10-26T14:45:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52NEJuQ3VyNV9OQ3BFN3RVdUZLa2RqT1Frb2w3NHlvM0E4R0ltWU1oOUNwSjFVUkZNQWJJRTNZNmR3Nkg1d0FiemQtOTd6dEpzaHdQVGFR"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
   },
   {
    "id": "4604e1827057",
@@ -1789,12 +1862,17 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WM3R1VlYwUGlZeHlfRDRVUUVRZ2oyZzNDblh1TVVPTDA3LTlNOURpQkJCTnpabHVZSWhLRTNhSWxoRWRoOGNEc1kzYXoyeWc",
    "source": "www.36kr.com",
    "published_at": "2026-10-26T10:18:04+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "www.36kr.com",
      "published_at": "2026-10-26T10:18:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WM3R1VlYwUGlZeHlfRDRVUUVRZ2oyZzNDblh1TVVPTDA3LTlNOURpQkJCTnpabHVZSWhLRTNhSWxoRWRoOGNEc1kzYXoyeWc"
+    },
+    {
+     "name": "Sohu",
+     "published_at": "2026-10-26T10:25:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2k5ZDRPZGZPbkdqdHJfMTNGM3BXUGlZcnotMDAtdDdBNXNtLWhNWkQ3ZHRIalVONU5PeUpIamdmSHpORGJjOE04THkyZ0o5ZVVHQnQxd3pfUklIcUlRWktxNkRDU3MzM3ZGVUFZdDZvcDN1VzJ6WVRFVVVpYlQ1Rlp6SUNGVnRL"
     }
    ],
    "category": "其他",
@@ -2240,7 +2318,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xQXVpS203bVdzM0pNTC1kLUMzdjQxdnVxeC0xdnVzT0l3cFVmU01jalEyRG5SbzN2YWgtOVo2Y0hOZHBSU2NwcjM3TWhORDBkOU43VWlCSGU",
    "source": "驱动之家",
    "published_at": "2026-10-26T09:01:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "驱动之家",
@@ -2256,10 +2334,16 @@
      "name": "Sohu",
      "published_at": "2026-10-26T09:14:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQemhLNmduQ3NyNThZM1A5NktLY1RHbzhSR1VoZGRrNFlIeWtCa1Q4QkRWOHBZX1dOT1BKcVAxRS1qQ2xMOWo5TVJQYWtYWVo2aEdaR0RFeXhfQUpjOVZUaFR5U2lQdzVBWWo3dDRzNmtESTlxRHphbEg4dzlIWGRDNTltVjJQN21QVFRkNw"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-26T09:14:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQemhLNmduQ3NyNThZM1A5NktLY1RHbzhSR1VoZGRrNFlIeWtCa1Q4QkRWOHBZX1dOT1BKcVAxRS1qQ2xMOWo5TVJQYWtYWVo2aEdaR0RFeXhfQUpjOVZUaFR5U2lQdzVBWWo3dDRzNmtESTlxRHphbEg4dzlIWGRDNTltVjJQN21QVFRkNw"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "英伟达下调Vera Rubin规格",
    "title_zh": "英伟达下调Vera Rubin规格，等HBM4产能",
    "sentiment": -1,
@@ -2888,12 +2972,17 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLUFScEhQSUhPaGdlMWE2TjFHZHVRN2RVdWNORVpHSld4dnJpWTZWV05kS0NFdUR4NkRuYmpkR3UyZUZLZFl6dHhiaG1jNFp4M2FUQ0lwRnJjMmY5Mk91bl9YWXJpdF9MYTJaMVdTdkFJT1puX2xmNFBGaGxXbEpLd1VWVjZrUEJxbE9kb3BKa0RlRTNXZzloQ250OU44cXdqTVU5UXVR",
    "source": "Evertiq",
    "published_at": "2026-10-26T07:30:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Evertiq",
      "published_at": "2026-10-26T07:30:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLUFScEhQSUhPaGdlMWE2TjFHZHVRN2RVdWNORVpHSld4dnJpWTZWV05kS0NFdUR4NkRuYmpkR3UyZUZLZFl6dHhiaG1jNFp4M2FUQ0lwRnJjMmY5Mk91bl9YWXJpdF9MYTJaMVdTdkFJT1puX2xmNFBGaGxXbEpLd1VWVjZrUEJxbE9kb3BKa0RlRTNXZzloQ250OU44cXdqTVU5UXVR"
+    },
+    {
+     "name": "the Electrical Distributor magazine",
+     "published_at": "2026-10-26T16:16:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Td3FVaVRGbG43eXJWdVBvXzdPb1JuTF9pQlQ3TXdqUTFPMUNFNXNkaFVQeDAxbHFqcmZRMEdyRW9MbWVqRlRMOXVwSnlyZWFmUnNxdXh0bm1TRnlmMFV4cDdEeFlNbS1iQnJmVE1jaVdzbVZFbFpGaUJwb3NfZw"
     }
    ],
    "category": "其他",
@@ -3599,7 +3688,7 @@
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLUFYRjBWZDl3T3gydExTQUtXejRMWWpuZnlPVjRUMTQxNU5kY3JGVTdpOUFRdUl6UUVXTjBMWTlKdXE2SjVleHhQZGlzMG9HQnlxdGxNalUxSi1VdHhjTGIzVjIyLXFQXzk1VUtSLVVyMmV1M0F4cmp1R3dMTHM2THFnT2V2ODBaR3hDWQ",
    "source": "手机搜狐网",
    "published_at": "2026-10-26T03:24:34+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "手机搜狐网",
@@ -3610,13 +3699,22 @@
      "name": "Sohu",
      "published_at": "2026-10-26T03:24:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLUFYRjBWZDl3T3gydExTQUtXejRMWWpuZnlPVjRUMTQxNU5kY3JGVTdpOUFRdUl6UUVXTjBMWTlKdXE2SjVleHhQZGlzMG9HQnlxdGxNalUxSi1VdHhjTGIzVjIyLXFQXzk1VUtSLVVyMmV1M0F4cmp1R3dMTHM2THFnT2V2ODBaR3hDWQ"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-26T03:24:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLUFYRjBWZDl3T3gydExTQUtXejRMWWpuZnlPVjRUMTQxNU5kY3JGVTdpOUFRdUl6UUVXTjBMWTlKdXE2SjVleHhQZGlzMG9HQnlxdGxNalUxSi1VdHhjTGIzVjIyLXFQXzk1VUtSLVVyMmV1M0F4cmp1R3dMTHM2THFnT2V2ODBaR3hDWQ"
     }
    ],
    "category": "产品技术",
    "session": "周末",
    "zh_summary": "英伟达不想要台积电2nm产能",
    "title_zh": "台积电2nm芯片产能，英伟达一点都不想要",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": 0.75,
+    "window_h": 2.0
+   }
   },
   {
    "id": "29dd0ca59111",
@@ -4822,7 +4920,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kR1ViNk02MGVUdi1PRmVjUkV3dG4tR3FaTDZxM0oyQ2lmZ2Y1R1F1dy10RzVYaFJqWklCdC13ZFphcHQyM1Y5WW1uaWRFZw",
    "source": "36Kr",
    "published_at": "2026-10-25T18:12:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "36Kr",
@@ -4838,6 +4936,11 @@
      "name": "36kr",
      "published_at": "2026-10-26T09:18:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BaEh1dk5JRnZDcDkyYnRuRVFHc2VaU2xZYVM5RW9sVzdYdTd4NGFUUVZ3QXI2ZFMxTUNNQnNmMjVfMzlRSXVmWURsQkpJXzA5"
+    },
+    {
+     "name": "36氪",
+     "published_at": "2026-10-25T18:12:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kR1ViNk02MGVUdi1PRmVjUkV3dG4tR3FaTDZxM0oyQ2lmZ2Y1R1F1dy10RzVYaFJqWklCdC13ZFphcHQyM1Y5WW1uaWRFZw"
     }
    ],
    "category": "其他",
@@ -6514,105 +6617,6 @@
    "zh_summary": "Apollo称AI尚未带来广泛回报",
    "title_zh": "Apollo：AI尚未带来广泛回报，英伟达财报前瞻",
    "sentiment": -1
-  },
-  {
-   "id": "9293361ec3b0",
-   "title": "Zagitta’s Nvidia Rtx 30 Gpu Unlock Mod Hits 129.6 TFLOPS - شبكة تواصل الإخبارية",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tYkt3d2pZV0c0blVqR0stVDlLY2Z5azlYT3dkVjRCMUN5aWt2UUlVb2Mzc2lsejJDQmpxZGRNQ05RaWFVU3ZyWWF5dExxTjhWWUR3",
-   "source": "شبكة تواصل الإخبارية",
-   "published_at": "2026-10-24T20:45:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "شبكة تواصل الإخبارية",
-     "published_at": "2026-10-24T20:45:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tYkt3d2pZV0c0blVqR0stVDlLY2Z5azlYT3dkVjRCMUN5aWt2UUlVb2Mzc2lsejJDQmpxZGRNQ05RaWFVU3ZyWWF5dExxTjhWWUR3"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "RTX30显卡解锁达129.6TFLOPS",
-   "title_zh": "英伟达RTX 30显卡解锁改装达129.6 TFLOPS",
-   "sentiment": 0
-  },
-  {
-   "id": "e16b82fc9310",
-   "title": "NVDA Stock Bucks Selloff Premarket On SpaceX Boost, Foxconn’s Sales Update - Stocktwits",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ1BhVk5SS2pwdGRmM1l6aHBRMUtKTnZCemdjT1BqTzhTVThPQVpYTk1JbFhkeWxVTUJkZzJtZF96S0JFMDkwRXJhNVpNUkswV1pnWklfaUZnVzhWTWFqLUlYMGU1V2t1RzFSbXFrYlpjYmRoSFJqSHBlU251N3g2MzZudEdvMFVOWGV2cF96RFVhZW50Tk5hTDhUcHpJd3dUVkNPUWkxZnQ0YzJyNTdtRU14YlBzZnVRSXdjajN4eXhneVVOWnNDY0ZFallEQ1dFc0l2Xw",
-   "source": "Stocktwits",
-   "published_at": "2026-10-24T20:26:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stocktwits",
-     "published_at": "2026-10-24T20:26:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ1BhVk5SS2pwdGRmM1l6aHBRMUtKTnZCemdjT1BqTzhTVThPQVpYTk1JbFhkeWxVTUJkZzJtZF96S0JFMDkwRXJhNVpNUkswV1pnWklfaUZnVzhWTWFqLUlYMGU1V2t1RzFSbXFrYlpjYmRoSFJqSHBlU251N3g2MzZudEdvMFVOWGV2cF96RFVhZW50Tk5hTDhUcHpJd3dUVkNPUWkxZnQ0YzJyNTdtRU14YlBzZnVRSXdjajN4eXhneVVOWnNDY0ZFallEQ1dFc0l2Xw"
-    }
-   ],
-   "category": "供应链",
-   "session": "周末",
-   "zh_summary": "NVDA盘前逆市上涨，受SpaceX提振",
-   "title_zh": "NVDA盘前逆市上涨，受SpaceX和富士康销售利好提振",
-   "sentiment": 1
-  },
-  {
-   "id": "abbecc3e90df",
-   "title": "Elon Musk Just Gave Fantastic News for Nvidia Investors - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmhlUTRQcmF3XzFZOVdfX2JlY25od1lnQ3U0TU1jTzFBQTN3M1BHWDhmUDNYMUJ1dGZEbGpUOXdrbERmemtLM1JtaVg0dHFCX3ZNNWJkUk1zSmpYMmhsNDlwTnpBNU1QNWpzZmdlUU1UOEJvM19rNTJpUEJFcnloc1d0VzJXQXAxODRGVm1UaFg5aEU",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-24T20:19:54+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-24T20:19:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmhlUTRQcmF3XzFZOVdfX2JlY25od1lnQ3U0TU1jTzFBQTN3M1BHWDhmUDNYMUJ1dGZEbGpUOXdrbERmemtLM1JtaVg0dHFCX3ZNNWJkUk1zSmpYMmhsNDlwTnpBNU1QNWpzZmdlUU1UOEJvM19rNTJpUEJFcnloc1d0VzJXQXAxODRGVm1UaFg5aEU"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-24T20:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6dmhlVjZXRE1QcWFPTG5tdmpfcGNOMkV5b0o5Y3Y5V0FYSDljRG1aRnBhcjZ1eFdwU2s4Qkg1YUdyTHBfT2hpa0hDRFdnX0EzcGpTSjBDejNfbVVxMERoWnRUWl9SeXdRQmdoLXdSUWE5VUdmQVJLcS1Vbkx3UQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-24T20:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTNPTEJ6LVI3ZFNZd2E4NFk3M0JQNVhrMUNQSmwtQVBBY3lEZEpkS3ZzSGdmbTd5YzNoYzZVU3ZXNk5ESXJDc2RScHZzLTIyRlpLWUo5WEJvZlVZSlRqX2ZMbTJDMG0zTkpxWlZOYzJIc0ZWTjY2Unh5cEJZcTlCaWV6YzFicjMwQkdhVTluVUFxMEVmT0pBZjhn"
-    },
-    {
-     "name": "TheStreet",
-     "published_at": "2026-10-26T13:33:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0QySEM2OW9ScGtKbUVZMHh4OXBvWUZmM0tWSlMyQlZSYnVCY0dhUTVPRU9zMW5VVUhFRklwZy03NHdSaTRLcnVSSzFQU2phcWtrSjI1LUdFc2ZESF9LdVl2S3ZyQWZlMUJwSFJham1DcDgyTkhZVHRvZzZHZ3U1S1ZMRW1pQlFrU2N0T2lGMWtCeUxDekhwVkR0NDh3NS1qQlZBUWhn"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "马斯克为英伟达投资者带来好消息",
-   "title_zh": "马斯克给英伟达投资者带来好消息",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.11,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "582092b756bd",
-   "title": "Mercedes-Benz And Nvidia Are Taking Their Self-Driving Partnership To Level 4 - Yahoo Autos",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjdFbE5UNFJNYUluMnhDd0xoZm9WSWNZVXpZdHRPYzRYOXhicjdyZDBIUXZ4dWtoNVAxS1N4Y1V1akR1c2I3dVJ4SVBuLVRiM3BiMGFxNnRETW9UR2VyWklpWjFxUGNzejE0blhFYU44U1NVcmlHODRLbUVYUm9DNHZiS19jbkg0TVFRMzlBcEJMNENwOUE0RzJTcE5PTWtj",
-   "source": "Yahoo Autos",
-   "published_at": "2026-10-24T19:00:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Autos",
-     "published_at": "2026-10-24T19:00:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjdFbE5UNFJNYUluMnhDd0xoZm9WSWNZVXpZdHRPYzRYOXhicjdyZDBIUXZ4dWtoNVAxS1N4Y1V1akR1c2I3dVJ4SVBuLVRiM3BiMGFxNnRETW9UR2VyWklpWjFxUGNzejE0blhFYU44U1NVcmlHODRLbUVYUm9DNHZiS19jbkg0TVFRMzlBcEJMNENwOUE0RzJTcE5PTWtj"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "奔驰与英伟达合作推进L4自动驾驶",
-   "title_zh": "奔驰与英伟达将自动驾驶合作推进至L4级别",
-   "sentiment": 1
   }
  ]
 }
