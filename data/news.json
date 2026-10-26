@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T17:06:51.005826+00:00",
+ "updated_at": "2026-10-26T17:21:56.286876+00:00",
  "market": {
-  "price": 216.07,
-  "change_pct": 2.42,
+  "price": 216.51,
+  "change_pct": 2.63,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 163
+   "avg": 0.39,
+   "count": 165
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +45.8%"
+     "note": "目标价中位数 $315（16家），隐含空间 +45.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（163条已评分）"
+     "note": "今日新闻情绪 +0.39（165条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.07 vs 20日均线 $224.90"
+     "note": "现价 $216.51 vs 20日均线 $224.92"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 45.8,
-   "ma20": 224.9,
-   "as_of": "2026-10-26T17:06:50.996678+00:00"
+   "implied_upside_pct": 45.5,
+   "ma20": 224.92,
+   "as_of": "2026-10-26T17:21:56.271377+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "dd57a58d00d2",
+   "title": "Cadence unveils Nvidia-powered AI data center in Munich, Germany - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPalZIclZtZzhOdnlLbVdQRHlldkFKcU04SWV5V3F2ZHlYN0dYSVlmaTFkcHhuWEx5MDlObFpRTzVuN29lRjdnVmtqN3NhclgtTkpGNEFWLXVjeHBmWS1HaE1QUFBwQXpBZ2dGZXk2cDFoT3NZbll0ZHpNbEJ4T1VkZlhwcWRubEpKODlZdS1JcUZWSTl2eHdUdXREemoxWkROY09iWFh2bXlWWGs",
+   "source": "Data Center Dynamics",
+   "published_at": "2026-10-26T17:19:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Dynamics",
+     "published_at": "2026-10-26T17:19:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPalZIclZtZzhOdnlLbVdQRHlldkFKcU04SWV5V3F2ZHlYN0dYSVlmaTFkcHhuWEx5MDlObFpRTzVuN29lRjdnVmtqN3NhclgtTkpGNEFWLXVjeHBmWS1HaE1QUFBwQXpBZ2dGZXk2cDFoT3NZbll0ZHpNbEJ4T1VkZlhwcWRubEpKODlZdS1JcUZWSTl2eHdUdXREemoxWkROY09iWFh2bXlWWGs"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "20a284babba4",
+   "title": "Anthropic makes more per employee than every Magnificent Seven company but Nvidia - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbWFObk92aFlQbEtZY0RPRWI2eXE3LXhsc2p4N0k5bWNGeUxhQkNUazM0alVDUEo4Z2x3eGp4OC1nazJFQkFCRExSWXNYZ0xjT29ESlRWWGt4Q1NhQ0VwTElzRG9SVVpNa0FZdEV0MjB3X3UyS1d5QWVoVWlDVndoaEpxQ0tPZG1qSG1GMGl1MXRLWlhsa1I1Z2xZcEw5ck96UHRpR1hzV3JJdTJKVktKbk1mMldWSHpEdXB3RV92QmhqSlhpcG9sbGV4bl9RWVdIRDc3Mw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-26T17:11:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-26T17:11:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbWFObk92aFlQbEtZY0RPRWI2eXE3LXhsc2p4N0k5bWNGeUxhQkNUazM0alVDUEo4Z2x3eGp4OC1nazJFQkFCRExSWXNYZ0xjT29ESlRWWGt4Q1NhQ0VwTElzRG9SVVpNa0FZdEV0MjB3X3UyS1d5QWVoVWlDVndoaEpxQ0tPZG1qSG1GMGl1MXRLWlhsa1I1Z2xZcEw5ck96UHRpR1hzV3JJdTJKVktKbk1mMldWSHpEdXB3RV92QmhqSlhpcG9sbGV4bl9RWVdIRDc3Mw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "d124daccb93a",
    "title": "Nvidia Analyst Warns AI Safety Could Slow Agents 25% - NVIDIA (NASDAQ:NVDA) - Benzinga",
@@ -80,6 +114,23 @@
    "zh_summary": "分析师警告AI安全或拖慢智能体25%",
    "title_zh": "分析师警告AI安全可能使智能体放缓25%",
    "sentiment": -1
+  },
+  {
+   "id": "8c9fec124297",
+   "title": "Nvidia's AI Safety Push Could Slow Things Down by 25%, Analyst Warns - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmdGOFd0N244eGdZZS11cDNrVWhUOC1uWmhqVWxsYjhiRDZVRGN3dUtCMk91cXJHOFpLTkgybDdOeVhwY0xnQ2tmU1JOSmloWjJLajNrblBlTzBKWFpRYTlZczRGZG1LTE5hNGg0OE9qT0tBVFRDZHM3X1RmZGJjZWJQRGs0dFZrX2xpZExQUkZhZ3YtMzRJ",
+   "source": "Benzinga",
+   "published_at": "2026-10-26T16:57:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-26T16:57:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmdGOFd0N244eGdZZS11cDNrVWhUOC1uWmhqVWxsYjhiRDZVRGN3dUtCMk91cXJHOFpLTkgybDdOeVhwY0xnQ2tmU1JOSmloWjJLajNrblBlTzBKWFpRYTlZczRGZG1LTE5hNGg0OE9qT0tBVFRDZHM3X1RmZGJjZWJQRGs0dFZrX2xpZExQUkZhZ3YtMzRJ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘中"
   },
   {
    "id": "7ffd5af70209",
@@ -107,7 +158,7 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlpTMy1iMkV0QS1RWHFfV191dXoxR0xxMjAyUTdmanFlRmUtUjREcWhMUXNFcDBLclBBVHd4SWZvSUI4TWhPN0pMNnBGUnE1bUJ2UHpxSk5QY1p4Q1BrMkdkQWhxRUhxUDM1WVduOFR5eGlXOFZzd0d2NzZaNVg1VEdIU2FnR0dkSk5SMXRZX0F1ZmxlVnFkaA",
    "source": "The Motley Fool",
    "published_at": "2026-10-26T16:19:19+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -123,10 +174,16 @@
      "name": "AOL.com",
      "published_at": "2026-10-26T16:35:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82VDg2V2tQM0VtOEtGWTRzUndBSUNEUFdaZ3p4T3JhOFQ4YzhTUVBvazBMYVBUSEh5N2d3SmFEc0tyTk43QjAtbG1LVlpDbUpvT19BWVdwcU1ENVZoVTNGeElrWUtESlpveFFxMGFIOEVnRUxwbzNSTWd3"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-26T16:36:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUW5CWFNhNF9WZ0NFVjBITllEQVdpWmloR0VYWXdQZUF5TnVLZHM4dVFtVFZDY0lSY1JjaDBzLVNuQjhMUWZNQUlESEFUQ0dObjBPU2xSWkVDS2M5RlZxU0pYU2N4alhsUGxIcW42NmZQaEFOTFIwa2FBdTJnSnBXckhZMFNidk1pR0pQSUFOMFM4QWd6SjVueV8taUJ4eldxUkh5bHc4UU1OSVRmUi16WUFFU2R0X2U5VHUyWWdDLUdqSzhPM3BDNV8yMXVvQjlYRk5xN3FNazZNSnN6bXRRZTdHazJSWlU"
     }
    ],
    "category": "产品技术",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "华尔街称另一芯片股上涨空间更大",
    "title_zh": "华尔街称另一芯片股上涨空间超过英伟达",
    "sentiment": -1,
@@ -2951,6 +3008,23 @@
    "zh_summary": "NVDA股价周五跌0.59%，测试支撑位",
    "title_zh": "NVDA股价周五跌0.59%，测试支撑位",
    "sentiment": -1
+  },
+  {
+   "id": "4d4e94b9145d",
+   "title": "迭代太快了：新一代SOCAMM3内存曝光！面向NVIDIA Rosa、AMD Zen7 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HWXhGQ0tZakNQelMxLVRraWpGcXZybXc1MXVzeTJBU1E3cG1ZUC1ha2k4OWQ0OGRJVmNPOWJWWEhOVlczVUdsT1pwazZJaGZuUFpqZzVhYmRQR3RaMVM2cTRCLWNsaDVMN2FZWjk5dzRyUS1qbXZza1BEZXk",
+   "source": "新浪财经",
+   "published_at": "2026-10-26T08:00:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-26T08:00:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HWXhGQ0tZakNQelMxLVRraWpGcXZybXc1MXVzeTJBU1E3cG1ZUC1ha2k4OWQ0OGRJVmNPOWJWWEhOVlczVUdsT1pwazZJaGZuUFpqZzVhYmRQR3RaMVM2cTRCLWNsaDVMN2FZWjk5dzRyUS1qbXZza1BEZXk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "c335753e8971",
@@ -6568,100 +6642,6 @@
    "zh_summary": "中国英伟达月入10亿净赚4亿",
    "title_zh": "中国英伟达月入10亿净赚4亿，2026年大赚",
    "sentiment": 0
-  },
-  {
-   "id": "1b8cceeba04b",
-   "title": "利好袭来 入选英伟达生态 物理AI龙头暴涨！南向资金大举加仓 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44TEhxU2Rld3gxTFRJaHBzXzFaYWVKX1lyTzNhc21SUElaNnR1Y2tsaTNzNEJqQmM3eEtPS1ZDblMxSDltVzZmTVY2VVByN192bE1qTTd5Zm5SUk9JemVBZWVuTmh1Zw",
-   "source": "东方财富",
-   "published_at": "2026-10-25T02:38:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-25T02:38:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44TEhxU2Rld3gxTFRJaHBzXzFaYWVKX1lyTzNhc21SUElaNnR1Y2tsaTNzNEJqQmM3eEtPS1ZDblMxSDltVzZmTVY2VVByN192bE1qTTd5Zm5SUk9JemVBZWVuTmh1Zw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "物理AI公司入选英伟达生态，南向资金加仓",
-   "title_zh": "利好袭来 入选英伟达生态 物理AI龙头暴涨！南向资金大举加仓 - 东方财富",
-   "sentiment": 1
-  },
-  {
-   "id": "2fc5b703d88e",
-   "title": "英伟达做靠山 CoreWeave可能拖累富爸爸? - e南洋",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTWVlvV1M5eFB5ZUJ2YlczWHZzZVhobmhCNUtuU01QWVMwYlhSVlJfN1Y4VWJCcTUtTWZRYnJYd3BTeWdjcTcxU0c0STgtSHZXVVNfa2s4dWJwRkctRVNxTlBZbw",
-   "source": "e南洋",
-   "published_at": "2026-10-25T02:33:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "e南洋",
-     "published_at": "2026-10-25T02:33:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTWVlvV1M5eFB5ZUJ2YlczWHZzZVhobmhCNUtuU01QWVMwYlhSVlJfN1Y4VWJCcTUtTWZRYnJYd3BTeWdjcTcxU0c0STgtSHZXVVNfa2s4dWJwRkctRVNxTlBZbw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达做靠山，CoreWeave或拖累富爸爸",
-   "title_zh": "英伟达做靠山 CoreWeave可能拖累富爸爸?",
-   "sentiment": -1
-  },
-  {
-   "id": "137ebca571ee",
-   "title": "苹果、英伟达，都想用中国的内存了，但却很难买到 - 手机搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdGlKU0ZBTndfUTZRWWdxS0tjWmg2ZGlEbTJpVTh5Mjh6RE50X1UyaE9mWmVBSDIwY3NOeHpxZ1JqbTJRYUxZY3p1eUZjMU93VDh5WjJxVVVFNDR2b05nSXFHZVZLcDc5MmZrNFdOMkRfRS1KLV9GWGo2RnNDQjB1b1lVNA",
-   "source": "手机搜狐网",
-   "published_at": "2026-10-25T02:27:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机搜狐网",
-     "published_at": "2026-10-25T02:27:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdGlKU0ZBTndfUTZRWWdxS0tjWmg2ZGlEbTJpVTh5Mjh6RE50X1UyaE9mWmVBSDIwY3NOeHpxZ1JqbTJRYUxZY3p1eUZjMU93VDh5WjJxVVVFNDR2b05nSXFHZVZLcDc5MmZrNFdOMkRfRS1KLV9GWGo2RnNDQjB1b1lVNA"
-    }
-   ],
-   "category": "政策监管",
-   "session": "周末",
-   "zh_summary": "苹果英伟达想采购中国内存遇阻",
-   "title_zh": "苹果英伟达想用中国内存却难买到",
-   "sentiment": -1
-  },
-  {
-   "id": "d702b5a53405",
-   "title": "拉上英伟达硬刚苹果，微软的高端AI PC赌局 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42dzB0bGFCdHg0Si1FWnpSY0RTdmJDTS11TnlCTjU5M3VrcHBiWE5EbUhNOTd3a3llV2otMWFQV2JJdlZzUTUxdHhvVDA0WGFKeGpMTEpZSWdCdU1F",
-   "source": "Moomoo",
-   "published_at": "2026-10-25T01:54:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-25T01:54:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42dzB0bGFCdHg0Si1FWnpSY0RTdmJDTS11TnlCTjU5M3VrcHBiWE5EbUhNOTd3a3llV2otMWFQV2JJdlZzUTUxdHhvVDA0WGFKeGpMTEpZSWdCdU1F"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-25T05:22:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtM2JpeWJ1cnZoeXliWXNmSlJTOXpDUGswRDQ0NjROZFdXd1FvMjFDaDNoWnRTTE5IcF9HUHhfVl8wMC1LTXJjbEtFMTZkU2F0"
-    },
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-25T09:55:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9STUY0ekVmRFZrWTdoMU00c3p6QVdQWjdjM1RUSjVYQlhZNzNfOHVrOHRvRnd2NGk3WVY3cktxdm95S0k5NlMtRWFEbmhoNkpj"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "微软联手英伟达布局高端AI PC",
-   "title_zh": "拉上英伟达硬刚苹果，微软的高端AI PC赌局",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.11,
-    "window_h": 0.1
-   }
   }
  ]
 }
