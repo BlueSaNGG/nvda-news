@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T19:51:35.253973+00:00",
+ "updated_at": "2026-10-26T20:06:33.620582+00:00",
  "market": {
-  "price": 216.34,
-  "change_pct": 2.55,
+  "price": 216.0,
+  "change_pct": 2.39,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.39,
-   "count": 188
+   "avg": 0.4,
+   "count": 193
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +45.6%"
+     "note": "目标价中位数 $315（16家），隐含空间 +45.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（188条已评分）"
+     "note": "今日新闻情绪 +0.40（193条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.34 vs 20日均线 $224.92"
+     "note": "现价 $216.00 vs 20日均线 $224.90"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 45.6,
-   "ma20": 224.92,
-   "as_of": "2026-10-26T19:51:35.239354+00:00"
+   "implied_upside_pct": 45.8,
+   "ma20": 224.9,
+   "as_of": "2026-10-26T20:06:33.607168+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.6%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,28 @@
   }
  },
  "stories": [
+  {
+   "id": "40aa4e655d09",
+   "title": "Nvidia Stocks Rise 1.8% as Cadence Brings Models In-House - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakhRc1ZOeHMwcTc5dk52dko5SXNVVU9jd0JIcmM3bl9nTlZadmE4MUVJdUFJemJZS2tuNmxKbWFNcXhxVTRNTzZ5YnIySnFSMm5UamxOQ21WOVR6YjhOR21ZLUU4WDFkVGpqQnJPdXdrQkRxdFlkZ1o4VERxenVEY05icnRQay1VYm9xQ3VWelU4ZzZIM010dVkxcWt2cVAtZWRtUXJXaTJCcEhwdU9HVFJ1V1Vxdmc",
+   "source": "TradingView",
+   "published_at": "2026-10-26T19:51:40+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-26T19:51:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakhRc1ZOeHMwcTc5dk52dko5SXNVVU9jd0JIcmM3bl9nTlZadmE4MUVJdUFJemJZS2tuNmxKbWFNcXhxVTRNTzZ5YnIySnFSMm5UamxOQ21WOVR6YjhOR21ZLUU4WDFkVGpqQnJPdXdrQkRxdFlkZ1o4VERxenVEY05icnRQay1VYm9xQ3VWelU4ZzZIM010dVkxcWt2cVAtZWRtUXJXaTJCcEhwdU9HVFJ1V1Vxdmc"
+    },
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-26T19:57:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNbW9yWHhzUkJuSG5RQ2dOaGJpSHZfSlRZM0ZUUlFBWFZscDFmV0YxMVFab2ZwV2MyYnBVcTJrMnp3Wkw0bUNFUmxmSnJRUFRCVlVhbk5ObEs1ZFBhX1dKV1VXc2J3RTFGZ29Qdm9obW9ycDNSbHU3MWZOQi13Y08wd2FuUU9IRm8xME9yd3ZpNmx5djJaT1M5TENsV1VqSGVQT1Q5TTBoX3FYLTQ2dTBZVGhpdGlENXl1TW12aGg2bWhsRTVQdU11bjFDczNXMWF2VnVlbFhsVG1hTlZtcDQ3d1F4WUdzV2dDVm1lZXN0dmR1MEFQVWNHS2VPWHlkaWpkcWRacWZoc1ZPOU9FMVJScFJYcUxUT215SlR5WDVmNkJpYmV4ZHc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "eaac5cf0804e",
    "title": "Nvidia chief taps Astana as AI hub - Eurasianet",
@@ -6663,26 +6685,6 @@
    "zh_summary": "SpaceX AI增长带动算力需求上升",
    "title_zh": "SpaceX AI增长使英伟达与CoreWeave受关注",
    "sentiment": 1
-  },
-  {
-   "id": "2aa4bf9b539a",
-   "title": "5 Apple Stories: Peter Thiel, iPhone Duo, Nvidia and MacBook Buzz - Apple (NASDAQ:AAPL) - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGdZc292bFhHdExCaHNkZk56a2J2ZXk5WEp6SFhxclJLNTlQdmdOTXVrbkNDbU1IWWpJbjJRWkVaVUxGYW1pRHlmUFNsOU5mMWNpSzRIak02MFlzLWlrRGdFaE40ME42SjVaMUtBTEd2NXdSOC1IbllWZk9uWFJiSzR2RDVyWmUzNnZiMXFBUkdHY1dvSEptTmZyQkljdXFVNzdCMg",
-   "source": "Benzinga",
-   "published_at": "2026-10-25T11:00:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-25T11:00:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTGdZc292bFhHdExCaHNkZk56a2J2ZXk5WEp6SFhxclJLNTlQdmdOTXVrbkNDbU1IWWpJbjJRWkVaVUxGYW1pRHlmUFNsOU5mMWNpSzRIak02MFlzLWlrRGdFaE40ME42SjVaMUtBTEd2NXdSOC1IbllWZk9uWFJiSzR2RDVyWmUzNnZiMXFBUkdHY1dvSEptTmZyQkljdXFVNzdCMg"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "周末",
-   "zh_summary": "苹果5则新闻涉英伟达与MacBook",
-   "title_zh": "5则苹果新闻：含英伟达与MacBook动态",
-   "sentiment": 0
   }
  ]
 }
