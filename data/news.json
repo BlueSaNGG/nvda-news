@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T15:36:32.819968+00:00",
+ "updated_at": "2026-10-26T15:51:43.726634+00:00",
  "market": {
-  "price": 216.07,
-  "change_pct": 2.42,
+  "price": 215.76,
+  "change_pct": 2.28,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.41,
-   "count": 142
+   "avg": 0.4,
+   "count": 147
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 69% 分位"
+     "note": "现价处于52周区间 68% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +45.8%"
+     "note": "目标价中位数 $315（16家），隐含空间 +46.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.41（142条已评分）"
+     "note": "今日新闻情绪 +0.40（147条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.07 vs 20日均线 $224.91"
+     "note": "现价 $215.76 vs 20日均线 $224.88"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 69,
+   "price_52w_pct": 68,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 45.8,
-   "ma20": 224.91,
-   "as_of": "2026-10-26T15:36:32.807985+00:00"
+   "implied_upside_pct": 46.0,
+   "ma20": 224.88,
+   "as_of": "2026-10-26T15:51:43.718044+00:00"
   },
-  "pe_ttm": 27.5,
+  "pe_ttm": 27.4,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,24 +62,55 @@
  },
  "stories": [
   {
+   "id": "4e6c00a43e4a",
+   "title": "Cadence partners with Nvidia to accelerate chip design through AI - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb0xIU3dvSHFzRFNKRUV4UE02ZzlUNE5nb3g4VzBGajNmdTd4UzVQZkxsTzVPUlQwZS1SVndaUjVhblpJckhWaHVNTFZmUFg1QnpwT3Z4bTg0cm9hZEphVHNyb3NwUnhtVHRTVFh0TmVZZXUtbWV2NWdZVFBQV2FLdHdoeXUtMk92Q2RRR3pmQWRpeXE5aDZGR2pxbjA3UE5wNHdva0RnWGZGNVBPNGs5Yy1PM3FhbHZfbkRYV0tUckxETHNhSkdJdG9EcnZoVDBHWExVd1hiR08zNUZNajI0LW5QQnpHMGR6QUE",
+   "source": "marketscreener.com",
+   "published_at": "2026-10-26T15:43:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-26T15:43:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb0xIU3dvSHFzRFNKRUV4UE02ZzlUNE5nb3g4VzBGajNmdTd4UzVQZkxsTzVPUlQwZS1SVndaUjVhblpJckhWaHVNTFZmUFg1QnpwT3Z4bTg0cm9hZEphVHNyb3NwUnhtVHRTVFh0TmVZZXUtbWV2NWdZVFBQV2FLdHdoeXUtMk92Q2RRR3pmQWRpeXE5aDZGR2pxbjA3UE5wNHdva0RnWGZGNVBPNGs5Yy1PM3FhbHZfbkRYV0tUckxETHNhSkdJdG9EcnZoVDBHWExVd1hiR08zNUZNajI0LW5QQnpHMGR6QUE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
    "id": "1faa6bdcb7d4",
    "title": "Not AMD. Not Marvell. Here's Which Company Nvidia Needs to Be Worried About. - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSUlOdFp3Y2NRLXhramhUYW00bFJleG9kX2R2bW85aV81ZUxJSnRFMUZ0TV9aZTlacGFQSHFqSFBsYjlZZU5ZUGo3bzJXXzhyMWQ2MnVjSWJ1UlY2dGgyUW04SnNrZjUtYUx2ajRxYUFrTVBESUJRYjFuNUt0WjlxV2FWTk9vZmMtd21GNGVYcU1sU00",
    "source": "The Motley Fool",
-   "published_at": "2026-10-26T15:18:51+00:00",
-   "outlets_count": 1,
+   "published_at": "2026-10-26T15:17:50+00:00",
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
-     "published_at": "2026-10-26T15:18:51+00:00",
+     "published_at": "2026-10-26T15:17:50+00:00",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSUlOdFp3Y2NRLXhramhUYW00bFJleG9kX2R2bW85aV81ZUxJSnRFMUZ0TV9aZTlacGFQSHFqSFBsYjlZZU5ZUGo3bzJXXzhyMWQ2MnVjSWJ1UlY2dGgyUW04SnNrZjUtYUx2ajRxYUFrTVBESUJRYjFuNUt0WjlxV2FWTk9vZmMtd21GNGVYcU1sU00"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-26T15:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTA1aTZNX0ExWVRCa1dlbXFGRkJsVjJmNlJTYUpEeWozdUVnRTl2V1lKaUNwUWEyWXJjdlp0aEx2TnRvMkNNdFJ5WW1heTc5d1VWN3E4TGxpdlp3MEV6YnZseVkzRThScTdZcDA5TFd5eHNhV1A3UGtJV2FYZ1hXWVRzazZ1a2tYWG01UWpGcUlZVDQ"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-26T15:37:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYi01NU9SaEJUalkyV2hZZkhqcnNKdVhJRGRORllZbkFidm0zS3BTcDBLNGlLZTlaM2I4WjdEWEMtaHVGanNxNlItb0hhRUh0MlBWZlFrT0tyd2MzMDdPV1RyeWE5S3huX21XX2x3RWpNNW1TRXA2THc1RExMUV9wSEtzOGJDMzRkR01vMFh0emwwdEtlMG5vQ1NyNGxHMkhxVGgxSnFJM0UwR3FwbHBodXJGWFdGa243WmxtRGIyV2FWa08zMy1xbXljOWRaazVnaGhIM2IxRmg0d1dxNmRpSTNycEFxbFp6ZDNqWWtn"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达面临新竞争对手威胁",
    "title_zh": "不是AMD也不是Marvell，英伟达真正需警惕的公司",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.71,
+    "window_h": 0.5
+   }
   },
   {
    "id": "70e87ffb5b8b",
@@ -122,6 +153,23 @@
    "sentiment": 1
   },
   {
+   "id": "f06d81bff79a",
+   "title": "Trending Industry Today: Synopsys Leads Gains In NVIDIA Portfolio Stocks - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcmZydTVtWTUycEpfeUFpVm8wM2JRR3FaNUxjSlpLM2x6eGJIVFhnZHZiMnFrck1IY0RkcHhKN2FJc21JYWY3dVVZM0FYcXZ1OW9aenZ4aFlycXNMS1ozbjJoYVNDdm55dElpTHE5ME9taTBCNXNoa2FadGQzUDdpT0dpR3FNUFAwM3RKZlQySl92U28tMVZOUVBIcHUxZXlWWWdHZE9YeHRIQmJJaElNbWNjUXg1UQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-26T15:10:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-26T15:10:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcmZydTVtWTUycEpfeUFpVm8wM2JRR3FaNUxjSlpLM2x6eGJIVFhnZHZiMnFrck1IY0RkcHhKN2FJc21JYWY3dVVZM0FYcXZ1OW9aenZ4aFlycXNMS1ozbjJoYVNDdm55dElpTHE5ME9taTBCNXNoa2FadGQzUDdpT0dpR3FNUFAwM3RKZlQySl92U28tMVZOUVBIcHUxZXlWWWdHZE9YeHRIQmJJaElNbWNjUXg1UQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "0929573b84f0",
    "title": "Why is NVIDIA stock rallying today? - Investing.com",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzF2cW9iUWo3eVFzQjViUDVMd2hRbVVXLUpWQ2FGZWtOSFpUc1JxR1Fkc1kxQnZvcVp2WTJINDJTUHhDQU9XVlpXSjBGQk50czlzc1VoTVBTbjlJSkZjVGZ2dXMtVm1EX01MYVd5OFNXTWc2WHhxYWJaY3hUMEZIWU4tam90d1lFOHdjbDZCVlowUzBsRjI2T1R0RVU",
@@ -140,6 +188,23 @@
    "zh_summary": "解析英伟达今日上涨原因",
    "title_zh": "英伟达股价今日为何上涨",
    "sentiment": 0
+  },
+  {
+   "id": "3c39e54ca129",
+   "title": "美股异动| 大摩点名“缺电瓶颈”下半导体首选英伟达(NVDA.US)上涨近3%_全球市场_财经 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Dclg0R1E3ZHFnV0NSQ3QwVnZMTVVwS0xkNktqY1JNTGlkTC1pQ21aQ3VVOW1PNkJ1V1NEMFl5LV9vZ3RxTXpOQjBvbFVxbDNjYy1ndlREX1ZocmlHdnRwag",
+   "source": "证券之星",
+   "published_at": "2026-10-26T15:08:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-26T15:08:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Dclg0R1E3ZHFnV0NSQ3QwVnZMTVVwS0xkNktqY1JNTGlkTC1pQ21aQ3VVOW1PNkJ1V1NEMFl5LV9vZ3RxTXpOQjBvbFVxbDNjYy1ndlREX1ZocmlHdnRwag"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "191166be8ed7",
@@ -6538,71 +6603,6 @@
    "zh_summary": "苹果加入英伟达跻身5万亿美元俱乐部",
    "title_zh": "苹果加入英伟达的5万亿美元俱乐部，谁先达10万亿？",
    "sentiment": 0
-  },
-  {
-   "id": "63bbfa43c9b2",
-   "title": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang' - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ296eGZsT0J4ZXhoWnJrcmlOaC0wUEx5QlNQN2R6b3luMklwSTkxOHpsZ3d6aEtPbTVOaWFpSjZPUlRMOW5YOEQ5d04zU0VtQ1JiWUtSM1ZHV0dfUGpsUGlLQmFQVmtDRk5URkpRcmd3ZG5YcUZGOFV1SkJLd1RST1VjTkt2YkRNaDdPcjJMZ2hGT0tPaVYwSG1XdC1Nc0JEQjdJSzVsendNZ1dtdHlXQWRzQm5kaF83TFNsUFYtY2RTaE1qd2dJVTBkNkI0ZEYxUG5wX3VtdjNMREJpR05WcjhvYnhJeFp4b1lwR2FUbFJtUQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-24T17:15:07+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-24T17:15:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ296eGZsT0J4ZXhoWnJrcmlOaC0wUEx5QlNQN2R6b3luMklwSTkxOHpsZ3d6aEtPbTVOaWFpSjZPUlRMOW5YOEQ5d04zU0VtQ1JiWUtSM1ZHV0dfUGpsUGlLQmFQVmtDRk5URkpRcmd3ZG5YcUZGOFV1SkJLd1RST1VjTkt2YkRNaDdPcjJMZ2hGT0tPaVYwSG1XdC1Nc0JEQjdJSzVsendNZ1dtdHlXQWRzQm5kaF83TFNsUFYtY2RTaE1qd2dJVTBkNkI0ZEYxUG5wX3VtdjNMREJpR05WcjhvYnhJeFp4b1lwR2FUbFJtUQ"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-24T17:15:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xcmhnRXo4VEY4TWxsSXlJcVBkNGFBZjNEZ0xxc1RjaU8yaVRrWDhkNHlMR0xoUXMtRjJmdzgzUXhaTXMxc05sa25UUFJxN0JQTWd6ZzAtUTlTaS1fU2lZZzk3ZkF2M1N5ekg2RE5xUFM3c2VLc0JBUQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "AI空头质疑英伟达GPU稀缺说法",
-   "title_zh": "AI空头抨击英伟达GPU说法：稀缺由黄仁勋制造",
-   "sentiment": -1
-  },
-  {
-   "id": "28214fb0ba10",
-   "title": "ABA Technology Presents Fusion AI In-a-Box to Jensen Huang, CEO and Founder of Nvidia, at GTC Berlin - Atalayar",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUjJaUFFWUlBWUXNGM05iYmlNS0k4bnpkNGRzTmpuVDFsUHVNazhFenVicHlMRGNDTHJuWFJocURaN2hocjA3eC1makVnM0NTUjBqTm1tQjBadkx2R2p6Z1BsNGw3eU85dzBSem9DaXBDUHVvbkV0djdsVVIwTGRUQmRLTG1MZTBlTHJHNUdsUlhqN3hNeTQzMm9mY0h5UEgtVlRvWnFCc2xlOFFtSktIdEtRMHZtRlpDaU1lbXdyUmZZTmgzSWtfbUVFQlVPR2pyNkZGSUxvMndZUkdud0p2QXk4NVQzVXdpUmE2M2tfOVB1YWdtTVdCMnNLVEJER3BpbUpfQS1sMlpmV2d5RjVuQQ",
-   "source": "Atalayar",
-   "published_at": "2026-10-24T17:09:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Atalayar",
-     "published_at": "2026-10-24T17:09:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUjJaUFFWUlBWUXNGM05iYmlNS0k4bnpkNGRzTmpuVDFsUHVNazhFenVicHlMRGNDTHJuWFJocURaN2hocjA3eC1makVnM0NTUjBqTm1tQjBadkx2R2p6Z1BsNGw3eU85dzBSem9DaXBDUHVvbkV0djdsVVIwTGRUQmRLTG1MZTBlTHJHNUdsUlhqN3hNeTQzMm9mY0h5UEgtVlRvWnFCc2xlOFFtSktIdEtRMHZtRlpDaU1lbXdyUmZZTmgzSWtfbUVFQlVPR2pyNkZGSUxvMndZUkdud0p2QXk4NVQzVXdpUmE2M2tfOVB1YWdtTVdCMnNLVEJER3BpbUpfQS1sMlpmV2d5RjVuQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "ABA在GTC柏林向黄仁勋展示AI一体机",
-   "title_zh": "ABA在GTC柏林向英伟达CEO黄仁勋展示Fusion AI一体机",
-   "sentiment": 0
-  },
-  {
-   "id": "698199335cb1",
-   "title": "NVIDIA simplifies DLSS 5 modding for classic PC games with RTX Remix 1.6 - VideoCardz.com",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmprTEtDWTZIbUhWNi1jLUVFWjZNcl9HdzZ6WldFTWN2cjJOMWhaVHMzVDV1aGcweHBJQnF4NmRSa1FmcDUxYTZyTnVYQ0xPRjFEcWVadmtwM0ZuS19OX0ozVWNoSkJQaVZUZWozOHljWFN1OVlwTmFmVHVDYWdtbThBUUhJSFRNaDE3OFVWMUNHU000dTRwWVJrYWtVR2xLR2c",
-   "source": "VideoCardz.com",
-   "published_at": "2026-10-24T16:46:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "VideoCardz.com",
-     "published_at": "2026-10-24T16:46:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmprTEtDWTZIbUhWNi1jLUVFWjZNcl9HdzZ6WldFTWN2cjJOMWhaVHMzVDV1aGcweHBJQnF4NmRSa1FmcDUxYTZyTnVYQ0xPRjFEcWVadmtwM0ZuS19OX0ozVWNoSkJQaVZUZWozOHljWFN1OVlwTmFmVHVDYWdtbThBUUhJSFRNaDE3OFVWMUNHU000dTRwWVJrYWtVR2xLR2c"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达简化经典游戏DLSS 5改装",
-   "title_zh": "英伟达用RTX Remix 1.6简化经典游戏DLSS 5改装",
-   "sentiment": 1
   }
  ]
 }
