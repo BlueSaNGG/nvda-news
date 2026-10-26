@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-26T15:21:51.502904+00:00",
+ "updated_at": "2026-10-26T15:36:32.819968+00:00",
  "market": {
-  "price": 217.18,
-  "change_pct": 2.95,
+  "price": 216.07,
+  "change_pct": 2.42,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.39,
-   "count": 132
+   "avg": 0.41,
+   "count": 142
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 70% 分位"
+     "note": "现价处于52周区间 69% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +45.0%"
+     "note": "目标价中位数 $315（16家），隐含空间 +45.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.39（132条已评分）"
+     "note": "今日新闻情绪 +0.41（142条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.18 vs 20日均线 $224.96"
+     "note": "现价 $216.07 vs 20日均线 $224.91"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 70,
+   "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 45.0,
-   "ma20": 224.96,
-   "as_of": "2026-10-26T15:21:51.492516+00:00"
+   "implied_upside_pct": 45.8,
+   "ma20": 224.91,
+   "as_of": "2026-10-26T15:36:32.807985+00:00"
   },
-  "pe_ttm": 27.6,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.0%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.5,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -200,6 +200,23 @@
    "zh_summary": "英伟达绕开JEDEC的HBM标准",
    "title_zh": "英伟达绕开JEDEC的HBM标准",
    "sentiment": 0
+  },
+  {
+   "id": "3d20dc56df9a",
+   "title": "英伟达、微软、亚马逊、台积电、Meta、特斯拉、SK海力士、美光科技，集体上涨 - 21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNckVoVlRrbDFReURRbTJoRjZ4X2NsczlaN2IzZDBmX200ZWZ3ckdxekhTb2xaRGUyQWpDM3hVNHVmU1ZlTlNCblVnVmVSU1NidzlsbjR2UHBhZjFBeldWR3JhdnhaWDFhbXJQNnBGRmw0Zld1ZFZoTHhhaFZqbFRqQ3JJdnVwVUNBRWxqV0xGUQ",
+   "source": "21财经",
+   "published_at": "2026-10-26T15:06:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "21财经",
+     "published_at": "2026-10-26T15:06:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNckVoVlRrbDFReURRbTJoRjZ4X2NsczlaN2IzZDBmX200ZWZ3ckdxekhTb2xaRGUyQWpDM3hVNHVmU1ZlTlNCblVnVmVSU1NidzlsbjR2UHBhZjFBeldWR3JhdnhaWDFhbXJQNnBGRmw0Zld1ZFZoTHhhaFZqbFRqQ3JJdnVwVUNBRWxqV0xGUQ"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘中"
   },
   {
    "id": "2a67182d601d",
@@ -379,6 +396,23 @@
    "zh_summary": "预测称英伟达2027年前或迎来突破",
    "title_zh": "预测：这或触发英伟达2027年前下一轮突破",
    "sentiment": 1
+  },
+  {
+   "id": "d82cbd5688a8",
+   "title": "Nvidia RTX Spark Laptops Arrive: Windows on Arm at MacBook Pro Prices - Technology Org",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2gzTEMwQ2R2cmV4bnBNdDVka0lMRG1yV0FXaWVIM3hjRXhHcmo0YmZzTVhKT0tWQTRldEluaVZTcWlDVnhVMS11bm5EeGJVSDQwdE91b3dQajVTazJJM2xiSXRfdjFiUGlHWS1Dd1p4cGVxQUp6ZWdxNzhpNmNnM3VfNEUwTUgtbnlzS0FoY0dycmE4OERoYmVId25wOVRRVHJDZWlhWjVkODA",
+   "source": "Technology Org",
+   "published_at": "2026-10-26T14:26:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Technology Org",
+     "published_at": "2026-10-26T14:26:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2gzTEMwQ2R2cmV4bnBNdDVka0lMRG1yV0FXaWVIM3hjRXhHcmo0YmZzTVhKT0tWQTRldEluaVZTcWlDVnhVMS11bm5EeGJVSDQwdE91b3dQajVTazJJM2xiSXRfdjFiUGlHWS1Dd1p4cGVxQUp6ZWdxNzhpNmNnM3VfNEUwTUgtbnlzS0FoY0dycmE4OERoYmVId25wOVRRVHJDZWlhWjVkODA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "c1ea3bc23fdc",
@@ -624,6 +658,23 @@
    "zh_summary": "RTX Remix 1.6简化DLSS 5模组制作",
    "title_zh": "英伟达RTX Remix 1.6简化DLSS 5模组制作，支持6倍多帧生成",
    "sentiment": 1
+  },
+  {
+   "id": "b4c7444711f3",
+   "title": "Bullish Nvidia proclaims AI-RAN work with Nokia as EMEA telcos pile in (and AI markets grow twitchy) - RCR Wireless News",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSXc3Ylc2bF9mbm82MXA1VFBrM2d0YkM5dlN4dUFwaXRwR3Z4NnRSblcxZWgwUEVibTByLTR4eHQ1S2dCVkgwZDhnWl8yMkh1THdqZkp4Z2pSTjJvdGMwZHd1eTNTRDZJTlJNWlFzbVpXb0M2dy1reXRZLVU1bWl2VGkwQ2lWYVdWVUFHQUFqTURkZHlldEthRHNQMHVsbXhJWm5GZm5LVXJvS19hcDRudnVFUVpZNG1rT2FkMWFQcnJVcnlh",
+   "source": "RCR Wireless News",
+   "published_at": "2026-10-26T13:17:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "RCR Wireless News",
+     "published_at": "2026-10-26T13:17:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSXc3Ylc2bF9mbm82MXA1VFBrM2d0YkM5dlN4dUFwaXRwR3Z4NnRSblcxZWgwUEVibTByLTR4eHQ1S2dCVkgwZDhnWl8yMkh1THdqZkp4Z2pSTjJvdGMwZHd1eTNTRDZJTlJNWlFzbVpXb0M2dy1reXRZLVU1bWl2VGkwQ2lWYVdWVUFHQUFqTURkZHlldEthRHNQMHVsbXhJWm5GZm5LVXJvS19hcDRudnVFUVpZNG1rT2FkMWFQcnJVcnlh"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
   },
   {
    "id": "6a930ffce57e",
@@ -1715,6 +1766,23 @@
    "sentiment": -1
   },
   {
+   "id": "f88a8503d849",
+   "title": "The race is on: Why Apple is suddenly challenging Nvidia as the world’s most valuable company - Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNODVnRll4TmI4REdMTGFvOXVITFQ4VktZS1VoNzQxd1RpX3hBSk44VmY2YnVyZ3Iwdl9td0Uwa1hNcXViM0tnNmZ6Ujg5UnNZLUxkNnVURjJHSVoyaW1jeU9fSDRIWW53MEhzQXltZFl2cFRUWjNLZDNmQWNoa1lRZlZtTEwyaUw5cXRuTjBhd1U2d0l2cVpidm4yMUUwaDQ1NDNsZjFXZTFsd1NVUDE5RkxUb05NV24wUXhBMUktNGlZSmQ4cWx3YW9rUkx6RUk",
+   "source": "Business Insider Africa",
+   "published_at": "2026-10-26T09:50:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Insider Africa",
+     "published_at": "2026-10-26T09:50:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNODVnRll4TmI4REdMTGFvOXVITFQ4VktZS1VoNzQxd1RpX3hBSk44VmY2YnVyZ3Iwdl9td0Uwa1hNcXViM0tnNmZ6Ujg5UnNZLUxkNnVURjJHSVoyaW1jeU9fSDRIWW53MEhzQXltZFl2cFRUWjNLZDNmQWNoa1lRZlZtTEwyaUw5cXRuTjBhd1U2d0l2cVpidm4yMUUwaDQ1NDNsZjFXZTFsd1NVUDE5RkxUb05NV24wUXhBMUktNGlZSmQ4cWx3YW9rUkx6RUk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "18fed47f0e68",
    "title": "Schneider Electric, NVIDIA, HPE introduce edge AI agents for industrial monitoring, cybersecurity and energy optimization - Industrial Cyber",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeEpzUXVOelJ4UVFyOWkyU3pwSFlWZnNOT3cwdk5QeGxKRTltbWJPdGRMVTlaUElaSzN3V0k1dFkwMk50U1RVMVpCeHR1SVdSak10VzRrY2thbjdHci1Ld0szTTVSbmF4TnlyTFVJd29sYTVfTE1BaExaRjVYSlBPbXNrM2Qxbm5YV3BESXYyazZ0YVJLMTBvU0lYUEtaMXZWZlVILVBPQ2RfTE10UFFBUVRFcjhLSW9RRGlfOXpFWmxoY21HNnpZVzJ0dFhxN0wyV2lzWUtZejJoQTVCNUNkWUVVUGVjQQ",
@@ -2165,10 +2233,15 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXdHVmFFM3dJN2h5SWxyY05kOUlWNFQ5d1IyVDVUNGZjd1RrZ0lSc2JqY254NGZvTUNqdkxDZm5VSmtYeWU3YjYwZFFJUUhRdTBoTlljWTk0V0ZVNlFLOGRkcThnZ2p6dzhwdGlIVTJnY01xTDUyY2VlQjRxVS10RmtGNzFMSWtO",
    "source": "Sohu",
    "published_at": "2026-10-26T08:35:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Sohu",
+     "published_at": "2026-10-26T08:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXdHVmFFM3dJN2h5SWxyY05kOUlWNFQ5d1IyVDVUNGZjd1RrZ0lSc2JqY254NGZvTUNqdkxDZm5VSmtYeWU3YjYwZFFJUUhRdTBoTlljWTk0V0ZVNlFLOGRkcThnZ2p6dzhwdGlIVTJnY01xTDUyY2VlQjRxVS10RmtGNzFMSWtO"
+    },
+    {
+     "name": "搜狐网",
      "published_at": "2026-10-26T08:35:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXdHVmFFM3dJN2h5SWxyY05kOUlWNFQ5d1IyVDVUNGZjd1RrZ0lSc2JqY254NGZvTUNqdkxDZm5VSmtYeWU3YjYwZFFJUUhRdTBoTlljWTk0V0ZVNlFLOGRkcThnZ2p6dzhwdGlIVTJnY01xTDUyY2VlQjRxVS10RmtGNzFMSWtO"
     }
@@ -2596,6 +2669,23 @@
    "zh_summary": "Altar Rock售出3921股英伟达股票",
    "title_zh": "Altar Rock售出3921股英伟达股票",
    "sentiment": 0
+  },
+  {
+   "id": "f77f0ffe8b33",
+   "title": "NVIDIA Corporation $NVDA Stock: Andra AP fonden Cuts Stake - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONUxkdUNZdFhEQ2NySjJvdlRJckNkZlVuVFoyT2RrZTFpbnlwdjJjNkNDRGM4VVRWbUZjNEp5R2U5dV8yVF8yS09RUE5LTERBckdoTFVPVDBERF8wTWlhMTd6Yk5XQVRtMUtXSF91RlNrdFlOZFh3ZExqNmdDSUZ4am90dDNsS0p2RjFha2FtQTVhdkE1eUlrV2ZrS2t2RXUxNmQ3Qy12aUY0WXRrOWpYSlhCZkNCem1j",
+   "source": "MarketBeat",
+   "published_at": "2026-10-26T07:37:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-26T07:37:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONUxkdUNZdFhEQ2NySjJvdlRJckNkZlVuVFoyT2RrZTFpbnlwdjJjNkNDRGM4VVRWbUZjNEp5R2U5dV8yVF8yS09RUE5LTERBckdoTFVPVDBERF8wTWlhMTd6Yk5XQVRtMUtXSF91RlNrdFlOZFh3ZExqNmdDSUZ4am90dDNsS0p2RjFha2FtQTVhdkE1eUlrV2ZrS2t2RXUxNmQ3Qy12aUY0WXRrOWpYSlhCZkNCem1j"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "13ff0c03de3d",
@@ -3484,12 +3574,17 @@
    "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOMDE0WFZQd3BfX1h2d0FzRnNGTXVqYUZDNERVTVU0dE01c3JiUllOejlNVkExQkVDel9OZVdZamFaZXdxbHBPTFdTcFZGRGQ0OUttaUNlSVRWTEpCUjNmc0x3UTF3aktJOW9fd3JNaS1ydGNPTUp5dUg1T2ZOeko4YWtxeVVDTlZhZmxmMEhhUmZQZEFJaWV4WUNham8zYVFaMjZrTGFrQ1l4SDhwR2tSTjdXby14enQ4OXRfX1FEMzZYX05KQm9jNzNKR2JGN3lEdmxWRmlCS2lQUThpczBVSHdWNFVsY1hHUi1iTVRfaU85b2hGNnN1bWFEZzF5UnNuOGFUWDdSY0taSF84cm9vVl85ejZzQU5vWThYUzBCR0VtSF9XdGU3LTdoV18zWmxwTmRnWlgyTnd0dExKdDZtZnRnLVRwMzQxQU5aZENuWFJmdFQ0eU5PbUZ5MXA5VmV1amplcGJsVXliX2hsVGRXWDNidjVRLXFndm9LcjRDYw",
    "source": "www.gasgoo.com",
    "published_at": "2026-10-26T02:32:13+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "www.gasgoo.com",
      "published_at": "2026-10-26T02:32:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOMDE0WFZQd3BfX1h2d0FzRnNGTXVqYUZDNERVTVU0dE01c3JiUllOejlNVkExQkVDel9OZVdZamFaZXdxbHBPTFdTcFZGRGQ0OUttaUNlSVRWTEpCUjNmc0x3UTF3aktJOW9fd3JNaS1ydGNPTUp5dUg1T2ZOeko4YWtxeVVDTlZhZmxmMEhhUmZQZEFJaWV4WUNham8zYVFaMjZrTGFrQ1l4SDhwR2tSTjdXby14enQ4OXRfX1FEMzZYX05KQm9jNzNKR2JGN3lEdmxWRmlCS2lQUThpczBVSHdWNFVsY1hHUi1iTVRfaU85b2hGNnN1bWFEZzF5UnNuOGFUWDdSY0taSF84cm9vVl85ejZzQU5vWThYUzBCR0VtSF9XdGU3LTdoV18zWmxwTmRnWlgyTnd0dExKdDZtZnRnLVRwMzQxQU5aZENuWFJmdFQ0eU5PbUZ5MXA5VmV1amplcGJsVXliX2hsVGRXWDNidjVRLXFndm9LcjRDYw"
+    },
+    {
+     "name": "盖世汽车社区",
+     "published_at": "2026-10-26T02:32:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14RTdfMVdjamJZWE9TVUJmdXZGcnNlUW5pTlYxQzRERG56cFpIemg0bWhhZUJlcmtoUlNQcWRSSGE5Nnk1d0ZlekhRWm1aNlpU"
     }
    ],
    "category": "其他",
@@ -5164,7 +5259,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92b242TzdMcE9vMk9SRWlwVlhEd0pSbU15SmFjcGROYm5PSnNWb3AxWm9Mc0RvaTFFb1RXVHdfQnhVMzJWRzJDSUpZb1Y4UQ",
    "source": "36Kr",
    "published_at": "2026-10-25T12:48:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "36Kr",
@@ -5180,6 +5275,11 @@
      "name": "36氪",
      "published_at": "2026-10-25T12:48:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92b242TzdMcE9vMk9SRWlwVlhEd0pSbU15SmFjcGROYm5PSnNWb3AxWm9Mc0RvaTFFb1RXVHdfQnhVMzJWRzJDSUpZb1Y4UQ"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-26T03:30:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejUxUlZmWmE2OHplQkMxQkljYi14aHFSRE0ycHgxZjVyNFhWeERUUnI3T0k2S0FrZlFoQnloSlVkaVBGY0FEQ1VRVGtxV1NtNVhVM1NsVDdkcWRjaGlXNXVZQ2o1YnBiS1I2V1paeXBVbGM2emhRNDlFLVhsRm1pV3p5bEpuSWNx"
     }
    ],
    "category": "AI需求",
@@ -6488,120 +6588,6 @@
    "zh_summary": "英伟达简化经典游戏DLSS 5改装",
    "title_zh": "英伟达用RTX Remix 1.6简化经典游戏DLSS 5改装",
    "sentiment": 1
-  },
-  {
-   "id": "4dbb95a08f2f",
-   "title": "I can't recommend the Nvidia Shield TV Pro, even after an Apple TV 4K price hike - How-To Geek",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXI1NW4tUTRfVDkxdzNuaERhR095cVRLMXFtajVFRXd5RTJuN0lUR0Y2T2QteUZLeGpxY3VwN1BoR2FrZkl1TzJESU1oZ0luclhQanE4QV9HWUk4aE90clM0SGU3UHBVMURDck50V3pfc2M2ejRuQjI0M1NobmNjaVBMaEE0RjJwelllZHVTSDdoOUY4OU1LR3ZxbTVkQQ",
-   "source": "How-To Geek",
-   "published_at": "2026-10-24T16:45:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "How-To Geek",
-     "published_at": "2026-10-24T16:45:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXI1NW4tUTRfVDkxdzNuaERhR095cVRLMXFtajVFRXd5RTJuN0lUR0Y2T2QteUZLeGpxY3VwN1BoR2FrZkl1TzJESU1oZ0luclhQanE4QV9HWUk4aE90clM0SGU3UHBVMURDck50V3pfc2M2ejRuQjI0M1NobmNjaVBMaEE0RjJwelllZHVTSDdoOUY4OU1LR3ZxbTVkQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "不推荐英伟达Shield TV Pro",
-   "title_zh": "即使苹果TV 4K涨价也不推荐英伟达Shield TV Pro",
-   "sentiment": 0
-  },
-  {
-   "id": "ebf1b6f4b495",
-   "title": "市值差距巨大，两条完全不同的AI路线🔥 一张华为与英伟达对比图刷屏网络 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Gd3RGTE0yMFhYZ1E2Y3VuVFdtWHY4ei1XM0pjNHczLXhCZF9JUDhiVklmeFljaERzcmU4ZnRJaE5xdmxQV3otUm00UmJpRVJhYUQzTFJ2ZS1Cd3RhWkYwS3NBRQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-24T16:32:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-24T16:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Gd3RGTE0yMFhYZ1E2Y3VuVFdtWHY4ei1XM0pjNHczLXhCZF9JUDhiVklmeFljaERzcmU4ZnRJaE5xdmxQV3otUm00UmJpRVJhYUQzTFJ2ZS1Cd3RhWkYwS3NBRQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "华为与英伟达对比图刷屏网络",
-   "title_zh": "华为与英伟达AI路线对比图刷屏网络",
-   "sentiment": 0
-  },
-  {
-   "id": "a8ef90d4ec61",
-   "title": "NVIDIA Shader Cache Size: 13 Steps, 40 Min [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2RwQ3g5RG43MTk5U2w4Ymg1YzdCZTlpUlROSVVMRWwxLWg0UEQwaWhkNEthMGJhMkN1Q0FKMUZGRmhIU2xmS1FPbXFSMVJBQlFXTXItMVFvSHdCWGx3U0M3d2pJRldCUXY3QTd4VjNFSzE4d3phQW5iT3lKYU5iZldXSVJ1QQ",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-24T16:17:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-24T16:17:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2RwQ3g5RG43MTk5U2w4Ymg1YzdCZTlpUlROSVVMRWwxLWg0UEQwaWhkNEthMGJhMkN1Q0FKMUZGRmhIU2xmS1FPbXFSMVJBQlFXTXItMVFvSHdCWGx3U0M3d2pJRldCUXY3QTd4VjNFSzE4d3phQW5iT3lKYU5iZldXSVJ1QQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达着色器缓存设置指南",
-   "title_zh": "英伟达着色器缓存大小设置：13步40分钟",
-   "sentiment": 0
-  },
-  {
-   "id": "43d27330106a",
-   "title": "NVIDIA wanted me to upgrade my RTX 4070 Ti for Multi Frame Generation, but I found another way - XDA",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYi1GUnlVVVBZQl9mMzlpdExmZG9OZVE4Umx1NElUNGdWelhzRV96SHdqWHFnbERJcVlNNzIxT2pHYmpiOGdGSU5HTnYtY1NQdkItaGlsR01ISFotZ2tjTWlCdmtlcWxHTlBHTW9JQUdyZENFTTVZbDk1b1ExS0Y1RVJTdTJsRUtwSXZMaUVpQ3FTbVROUkpKRlgyTzBSSDR4RGpzUWtR",
-   "source": "XDA",
-   "published_at": "2026-10-24T16:00:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "XDA",
-     "published_at": "2026-10-24T16:00:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYi1GUnlVVVBZQl9mMzlpdExmZG9OZVE4Umx1NElUNGdWelhzRV96SHdqWHFnbERJcVlNNzIxT2pHYmpiOGdGSU5HTnYtY1NQdkItaGlsR01ISFotZ2tjTWlCdmtlcWxHTlBHTW9JQUdyZENFTTVZbDk1b1ExS0Y1RVJTdTJsRUtwSXZMaUVpQ3FTbVROUkpKRlgyTzBSSDR4RGpzUWtR"
-    }
-   ],
-   "category": "分析师",
-   "session": "周末",
-   "zh_summary": "4070Ti用户另寻办法实现多帧生成",
-   "title_zh": "英伟达想让我升级4070Ti用多帧生成，但我找到了别的办法",
-   "sentiment": 0
-  },
-  {
-   "id": "aff5a7aefefa",
-   "title": "Can Amazon Take Market Share From Nvidia in the AI Chip Race? - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEI4Q3BYOTQxY3YxX2k5MEpWWEo1eXpyQ1Q4TTRKRm5XVHVsWHZwUl95X1EzbHZVdUVtaXFublpuajhKUFVhdTNCbFh2Z3hSMHk4T1RwbURlWmdWRm9FNnJEWUFfUE96TElZa0sxdW5KYjdKX1RYbWxxbTlyclh6SDFGQnpfNDh2cjRzZkxpZlRGc2dDLThaeA",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-24T15:20:23+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-24T15:20:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEI4Q3BYOTQxY3YxX2k5MEpWWEo1eXpyQ1Q4TTRKRm5XVHVsWHZwUl95X1EzbHZVdUVtaXFublpuajhKUFVhdTNCbFh2Z3hSMHk4T1RwbURlWmdWRm9FNnJEWUFfUE96TElZa0sxdW5KYjdKX1RYbWxxbTlyclh6SDFGQnpfNDh2cjRzZkxpZlRGc2dDLThaeA"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-24T15:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zT2RqQmdqVklPdHFaT0FwRkV1MmlVc1haeVc0Z2NWWWh1UFVNNlR1blFjNHA0VVNDYzJGRG5BVVBGTVJCNU0wZkxXaUstaEx4TzlhQ3JpSzJHRVVxbnpRblA3TUpMRjJOb0cyZW5NdDNjS0x3NFc3VzdjN3Y1UQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-24T15:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVZZdm1LNU1hQXdJN2dval9rNUpjVUp4SXhONjdFOUVQc0JVZXcxaVR3QWVpVlcyVW9ZeHBJUXdxcUxSMWM0UVliN1ZnWGxTWFdDTXAwTWFDMGlvcVdHZXlyMFpWMmQ5ZXJVYnpPYlRBcGF4dUt0dFdCRDVvZzBDdHg4V2NSNnhYaXlhZ2pvaGRvMmswQmFxaw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "亚马逊能否在AI芯片市场抢占英伟达份额",
-   "title_zh": "亚马逊能否在AI芯片竞赛中抢占英伟达市场份额",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 0.11,
-    "window_h": 0.1
-   }
   }
  ]
 }
