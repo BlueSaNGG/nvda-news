@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T04:06:33.119039+00:00",
+ "updated_at": "2026-10-26T04:21:31.822050+00:00",
  "market": {
   "price": 210.96,
   "change_pct": -0.59,
@@ -10,8 +10,8 @@
    "days_left": 23
   },
   "day_sentiment": {
-   "avg": 0.42,
-   "count": 102
+   "avg": 0.43,
+   "count": 104
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.42（102条已评分）"
+     "note": "今日新闻情绪 +0.43（104条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 49.3,
    "ma20": 225.54,
-   "as_of": "2026-10-26T04:06:33.099098+00:00"
+   "as_of": "2026-10-26T04:21:31.812533+00:00"
   },
   "pe_ttm": 26.8,
   "pe_pct_5y": 18,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "0e883f4a1145",
+   "title": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for NVDA's Growth Runway. - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFlZWE12Y1JWbDkyUGxfVjZpUkJSTTBQaE9mbWVqdG9wZ1lWVms1dXZaS3ZZdmFMWW11alAyUmZ0WFNkYUt3VHp5M3E1WlpEQ1IyWXZqN3ZwLU5aS2czdUFOZzBkT3A0ZlRvT0lDWjhKUVlka19ZTG9aS2ZPNFFYTWFKQXctNDF2WmVQTDBCR3FZN3gxb00ycw",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-26T04:14:52+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-26T04:14:52+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFlZWE12Y1JWbDkyUGxfVjZpUkJSTTBQaE9mbWVqdG9wZ1lWVms1dXZaS3ZZdmFMWW11alAyUmZ0WFNkYUt3VHp5M3E1WlpEQ1IyWXZqN3ZwLU5aS2czdUFOZzBkT3A0ZlRvT0lDWjhKUVlka19ZTG9aS2ZPNFFYTWFKQXctNDF2WmVQTDBCR3FZN3gxb00ycw"
+    }
+   ],
+   "category": "财报",
+   "session": "周末"
+  },
+  {
+   "id": "a494c3a6ec1b",
+   "title": "Pony.ai, inDrive, NVIDIA plan L4 Robotaxi pilot in Kazakhstan - Gasgoo",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzAwOUUyMDVfa2c4SzdVUWtOM3FfMGQ3NXlmcG9vTXpnQ1ZQQVU3R2FDQW4zMndWUUZCS2lwRXV6TW5maTk1TDNPV2FiRGZOQmh1MDNzZTdiNEI5eGdIZnNoazFabzd4TUV2cDUtSEJBYUl3b0NCVGI5cE5yY3Q2ckUyaE9HQmVKeHd3ZTI4dDAzTEJveVFmUnFyUEM3XzBxWWRpUGM3LUJ2bEJHS3RYVWVHbjdDVjN0MFlv",
+   "source": "Gasgoo",
+   "published_at": "2026-10-26T04:07:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Gasgoo",
+     "published_at": "2026-10-26T04:07:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzAwOUUyMDVfa2c4SzdVUWtOM3FfMGQ3NXlmcG9vTXpnQ1ZQQVU3R2FDQW4zMndWUUZCS2lwRXV6TW5maTk1TDNPV2FiRGZOQmh1MDNzZTdiNEI5eGdIZnNoazFabzd4TUV2cDUtSEJBYUl3b0NCVGI5cE5yY3Q2ckUyaE9HQmVKeHd3ZTI4dDAzTEJveVFmUnFyUEM3XzBxWWRpUGM3LUJ2bEJHS3RYVWVHbjdDVjN0MFlv"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "c2586a65c701",
    "title": "英伟达GPU隐藏算力被开源解锁，不改官方驱动，RTX 4090吞吐翻倍 - 36Kr",
@@ -512,10 +546,15 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlhTSzBQclQ4RnVFaWNUWWxNM3RFUVJkQVhkaU5ZcW1UU0dxc0NndmRPSjA2MC1vVFRSZ0F4U1JVMEU3M0dXYktwQU1LVWR4ampXS1JLOV9ia1U0SmJiZzBXT2tQVkZ2cm1xT3pJbEEzN1I1Sm8zX3VpTWNVUGdyeWdGMlRaMGp3",
    "source": "手机搜狐网",
    "published_at": "2026-10-26T01:20:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "手机搜狐网",
+     "published_at": "2026-10-26T01:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlhTSzBQclQ4RnVFaWNUWWxNM3RFUVJkQVhkaU5ZcW1UU0dxc0NndmRPSjA2MC1vVFRSZ0F4U1JVMEU3M0dXYktwQU1LVWR4ampXS1JLOV9ia1U0SmJiZzBXT2tQVkZ2cm1xT3pJbEEzN1I1Sm8zX3VpTWNVUGdyeWdGMlRaMGp3"
+    },
+    {
+     "name": "Sohu",
      "published_at": "2026-10-26T01:20:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlhTSzBQclQ4RnVFaWNUWWxNM3RFUVJkQVhkaU5ZcW1UU0dxc0NndmRPSjA2MC1vVFRSZ0F4U1JVMEU3M0dXYktwQU1LVWR4ampXS1JLOV9ia1U0SmJiZzBXT2tQVkZ2cm1xT3pJbEEzN1I1Sm8zX3VpTWNVUGdyeWdGMlRaMGp3"
     }
@@ -3080,12 +3119,17 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9peF9RTEdrYmpVY1d3bWJOZGd4dVFkMVVCcE9RZnA4a3h1eE1YRTVvM21makZXTkhNZWcwOG5sLWtxMlplZ2lSbTJPRnNzandVc3FMX0ZqTGViSDF1dkdfRA",
    "source": "cnBeta.COM",
    "published_at": "2026-10-24T14:33:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "cnBeta.COM",
      "published_at": "2026-10-24T14:33:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9peF9RTEdrYmpVY1d3bWJOZGd4dVFkMVVCcE9RZnA4a3h1eE1YRTVvM21makZXTkhNZWcwOG5sLWtxMlplZ2lSbTJPRnNzandVc3FMX0ZqTGViSDF1dkdfRA"
+    },
+    {
+     "name": "白鲸出海",
+     "published_at": "2026-10-26T02:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NUE5haXFJTEVJbDZXZ1lkX2VfYzZURTRqS3NXY2RNRmlwak5zbHRnLUMwQ01pb0hLRk9uTWZHVTVkQ2Rlanc2LTFHejJmNmk4U0ZXcE1UbFU"
     }
    ],
    "category": "其他",
@@ -6420,51 +6464,6 @@
    "zh_summary": "英伟达否认走私芯片是重大问题",
    "title_zh": "中国电信网络现走私B300芯片，英伟达称无足轻重",
    "sentiment": -1
-  },
-  {
-   "id": "02954becaecb",
-   "title": "NVDA vs. LRCX: Which AI Semiconductor Stock Is the Better Buy? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTluSlVqdW02bm9YdVY0REhHdUFjTWNrcHRwX3Byb3dERW96UVU1SnI2UjFhZW9uTEFtSi1ZRFRPWVhuU2hKT09DRkplNVBlOXZFMjEwMjVYLXNpRVZhZjZlOWZiUzljUGNuNzJxbUJ3UkhwZ3ZUc3pidzZoRzVxYV91RTY4WnRCR0RLRG9iNnRUck1zMFRucmtB",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-23T12:26:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-23T12:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRTluSlVqdW02bm9YdVY0REhHdUFjTWNrcHRwX3Byb3dERW96UVU1SnI2UjFhZW9uTEFtSi1ZRFRPWVhuU2hKT09DRkplNVBlOXZFMjEwMjVYLXNpRVZhZjZlOWZiUzljUGNuNzJxbUJ3UkhwZ3ZUc3pidzZoRzVxYV91RTY4WnRCR0RLRG9iNnRUck1zMFRucmtB"
-    },
-    {
-     "name": "Zacks Investment Research",
-     "published_at": "2026-10-23T12:33:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaERrczF0X3VVbXBRMGFxYnlTemt4RzhRVWYyYXY5bHlGWVVpc1B1ZzlzNkp1RmJpem9VQS1CT05GRXZNQmVhU1NiVFZ2SkxRMzVsTDFjRDhoSFhvVnI0UlFoMjBqNWlnYUpyT09xdjJwc1NkeU1uUGVJaHhzQkliamZvaUVObjFLS1ZwWHItRHdtZExGS3BLT0tlNTJxbjh3QkE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Zacks对比NVDA与LRCX哪只更值得买",
-   "title_zh": "Zacks：NVDA与LRCX哪只AI半导体股更值得买入",
-   "sentiment": 0
-  },
-  {
-   "id": "7d75e3938fbe",
-   "title": "Aleria to deploy Nvidia Blackwell and Vera Rubin GPUs in US and UAE - Data Center Dynamics",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR1d4WTJyak9acE5JdEs2MXZhUEhZR1liYmVJeUxDRmpDbnZ5ZUJpWDF0b3JtVE5JWTVHWGcxc3dvNjhWc2xGckVRSnJIdGpwV0F3cEFzSkw2cTZ3X0QwbkU3ZHVZTVlKbGpNcWZQTV9NX1EtMEh4bVZwTkhocW9Ba1JTdmxTeU95NTI3enJmcUV3REZDSnB5VTRsSGFIWGRKZDVHNXJkdUVVZ0s5YmxhRQ",
-   "source": "Data Center Dynamics",
-   "published_at": "2026-10-23T12:18:15+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Data Center Dynamics",
-     "published_at": "2026-10-23T12:18:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR1d4WTJyak9acE5JdEs2MXZhUEhZR1liYmVJeUxDRmpDbnZ5ZUJpWDF0b3JtVE5JWTVHWGcxc3dvNjhWc2xGckVRSnJIdGpwV0F3cEFzSkw2cTZ3X0QwbkU3ZHVZTVlKbGpNcWZQTV9NX1EtMEh4bVZwTkhocW9Ba1JTdmxTeU95NTI3enJmcUV3REZDSnB5VTRsSGFIWGRKZDVHNXJkdUVVZ0s5YmxhRQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "Aleria将在美阿部署英伟达GPU",
-   "title_zh": "Aleria将在美阿部署Blackwell与Vera Rubin GPU",
-   "sentiment": 1
   }
  ]
 }
