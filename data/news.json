@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T19:21:38.387353+00:00",
+ "updated_at": "2026-10-27T19:36:33.070792+00:00",
  "market": {
-  "price": 217.82,
-  "change_pct": 0.84,
+  "price": 217.93,
+  "change_pct": 0.9,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.59,
-   "count": 200
+   "count": 202
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +44.6%"
+     "note": "目标价中位数 $315（17家），隐含空间 +44.5%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.59（200条已评分）"
+     "note": "今日新闻情绪 +0.59（202条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.82 vs 20日均线 $224.43"
+     "note": "现价 $217.93 vs 20日均线 $224.43"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 44.6,
+   "implied_upside_pct": 44.5,
    "ma20": 224.43,
-   "as_of": "2026-10-27T19:21:38.369713+00:00"
+   "as_of": "2026-10-27T19:36:33.058419+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.6%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "a5995620df80",
+   "title": "Nvidia's worst nightmare may be lurking inside Anthropic's IPO filing - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0JQTk8zZ2tFMldwSU5hLUJ2NzNfMDlxWWlWX29sWGk1bjJzZzdzb0V3OXM3Vmd3VDRqeXd5NVF0b0VPdFNYeU1UMXJwQk11M0l2OEFJN3JTc2I0aWdiNUxibVZ3MlpZQ1B4YW9wa2t1QVZac1BlaUVPV1JFRERVRmlBRWhZR0dyeWR3T0ljS0JMZ1NvQVV4eERfWHZWLS1XMVZaNEV3QWZSQTg",
+   "source": "Business Insider",
+   "published_at": "2026-10-27T19:35:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Insider",
+     "published_at": "2026-10-27T19:35:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0JQTk8zZ2tFMldwSU5hLUJ2NzNfMDlxWWlWX29sWGk1bjJzZzdzb0V3OXM3Vmd3VDRqeXd5NVF0b0VPdFNYeU1UMXJwQk11M0l2OEFJN3JTc2I0aWdiNUxibVZ3MlpZQ1B4YW9wa2t1QVZac1BlaUVPV1JFRERVRmlBRWhZR0dyeWR3T0ljS0JMZ1NvQVV4eERfWHZWLS1XMVZaNEV3QWZSQTg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "f6826309bb19",
+   "title": "Nvidia and Oracle expand Vera Rubin cloud infrastructure, pitching better utilization as enterprises report idle GPUs - VentureBeat",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZmFjeGg0ZE1xWE9hdllqNDdLNEpYaFd4dmpzTl84dmNkVGpvYXNXR3M2dkczcHJZWjE1bWtubzdqa2tkWkR1UXVrTHpmUDVvQ19VcmdzTUI5M01vYUJfSlkyNHlQcE9DWUVRcl9KSmJmb0pLVWRJN0YwTWJVaEhZTzR1UjRSQThZN0JvU0QweFFmUDV4UUg1eUtCVmV5dzVibk5BTnNpSTVtcElZOHBUSVg2MnZ0SW96Z1UxVEtNb1NVZFBwcEJzeVR2WnlHbmQtaGxCSW9tTUFqS3lvbFNwQktOdU9JUi1yWmNn",
+   "source": "VentureBeat",
+   "published_at": "2026-10-27T19:20:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "VentureBeat",
+     "published_at": "2026-10-27T19:20:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZmFjeGg0ZE1xWE9hdllqNDdLNEpYaFd4dmpzTl84dmNkVGpvYXNXR3M2dkczcHJZWjE1bWtubzdqa2tkWkR1UXVrTHpmUDVvQ19VcmdzTUI5M01vYUJfSlkyNHlQcE9DWUVRcl9KSmJmb0pLVWRJN0YwTWJVaEhZTzR1UjRSQThZN0JvU0QweFFmUDV4UUg1eUtCVmV5dzVibk5BTnNpSTVtcElZOHBUSVg2MnZ0SW96Z1UxVEtNb1NVZFBwcEJzeVR2WnlHbmQtaGxCSW9tTUFqS3lvbFNwQktOdU9JUi1yWmNn"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "d9a35933dbe7",
+   "title": "奔驰深化绑定英伟达Hyperion，城市NOA落地后L4级自动驾驶豪华轿车提上日程 - 网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuZHdIQ2FJQUpIdUtLOUlzQUhkMjB2LW40Z2tzLUljR1p4MWJaSHdUNnhDMHFHbnRJeGFLdmgtaHpNa1lpeDg2bW9uRUY4eVZZQm5LZXIyUjJaM1U",
+   "source": "网通社",
+   "published_at": "2026-10-27T19:15:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网通社",
+     "published_at": "2026-10-27T19:15:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuZHdIQ2FJQUpIdUtLOUlzQUhkMjB2LW40Z2tzLUljR1p4MWJaSHdUNnhDMHFHbnRJeGFLdmgtaHpNa1lpeDg2bW9uRUY4eVZZQm5LZXIyUjJaM1U"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "ebf5dfb984ab",
    "title": "甲骨文与谷歌、英特尔、英伟达等扩大合作 股价一度涨5% - 富途牛牛",
@@ -87,12 +138,17 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGRPWGdNbEF2MUJBOUdiVmRjd2xKWU52cVBVam5KdDJ4dUd2Smg4RGd5YVNmMV9FX0Jhd0ZCNFJSSmp4S1ZqbjBTX3BvWW10YzNLVmx5UkNlaFlONkpuV09JQk8xd1IxYVdfeTdNejBGaXBHc2hCdU4xa3Z1M0JfZlVuYndEbVNhaXJhazR5amN2eXgwT3Nv",
    "source": "The Motley Fool",
    "published_at": "2026-10-27T18:47:49+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-27T18:47:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGRPWGdNbEF2MUJBOUdiVmRjd2xKWU52cVBVam5KdDJ4dUd2Smg4RGd5YVNmMV9FX0Jhd0ZCNFJSSmp4S1ZqbjBTX3BvWW10YzNLVmx5UkNlaFlONkpuV09JQk8xd1IxYVdfeTdNejBGaXBHc2hCdU4xa3Z1M0JfZlVuYndEbVNhaXJhazR5amN2eXgwT3Nv"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T19:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmtiRlRTUTFVSlJTclZHeWc0TlJ3VmZCd2xtSmlMRFVrUzNvWi12OEdnbDhfTFVGQ3hJSXFOaXA0OU4yVFkxSkFqbmNPblNxSW9jXzVra3VaQkFNY1ZWUC1TUjU5RkE0SmhtVFdrNHRkZ3JMYmdPNnd1SDljVThmM3ZYWWt0VGZyVzVmeTVmMVRMenlCbTdjRUpnSzc"
     }
    ],
    "category": "其他",
@@ -194,6 +250,23 @@
    "zh_summary": "甲骨文云基础设施采用英伟达Vera CPU",
    "title_zh": "甲骨文云新增英伟达Vera CPU与AI推理产品",
    "sentiment": 1
+  },
+  {
+   "id": "1e4192ac7ab7",
+   "title": "The AI economy, Apple's iPhone Duo issues, and Meta partners with Nvidia - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVdtM1BsblBIUjBJUG84eXI1Z0RNRnFSWTU1LVdXaFFlTzBBZWhIVHVJNUVDR0ZwRFRCd0tBMlphSkdNNU5vZG1KSXc3MHRXSG5xV2l2N0JKc2hJVzVieXRGRHZQMGttZkZwVm5DWnc5bldwUE9oR1ZzVi1raUxZdXkxVHBfVm9lSmduOF8yWTh3NjdKSjhKMFVBeHVKUUZYc29PQ25yV0FZaEc4MHg2dmM5NS1PanM",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-27T17:40:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T17:40:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZVdtM1BsblBIUjBJUG84eXI1Z0RNRnFSWTU1LVdXaFFlTzBBZWhIVHVJNUVDR0ZwRFRCd0tBMlphSkdNNU5vZG1KSXc3MHRXSG5xV2l2N0JKc2hJVzVieXRGRHZQMGttZkZwVm5DWnc5bldwUE9oR1ZzVi1raUxZdXkxVHBfVm9lSmduOF8yWTh3NjdKSjhKMFVBeHVKUUZYc29PQ25yV0FZaEc4MHg2dmM5NS1PanM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "44c4edcabeaf",
@@ -6282,6 +6355,23 @@
    "sentiment": 1
   },
   {
+   "id": "009c1a4700c1",
+   "title": "Prediction: This Could Trigger NVDA’s Next Breakout by 2027 - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREZTS1hMYzJXdnNuUEt5QjdCQUZLSmpqU09sRDhLd05XX3Q1blhTMURVbDI2dUZnNFpsYjRobmZxMEEwdGZWVWJTS0pDM05rZFpVX1BOZnJLSF9fSU1PVUZaS1BIa3dMbkRqUEtWN1F3Yk9qZXBUVTlYdmFVWFZoR1Nld2Qwbzdyd1U3ckQ4amxqcTY0OG5BaEstUnkzNVlJUERF",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-26T15:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-26T15:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREZTS1hMYzJXdnNuUEt5QjdCQUZLSmpqU09sRDhLd05XX3Q1blhTMURVbDI2dUZnNFpsYjRobmZxMEEwdGZWVWJTS0pDM05rZFpVX1BOZnJLSF9fSU1PVUZaS1BIa3dMbkRqUEtWN1F3Yk9qZXBUVTlYdmFVWFZoR1Nld2Qwbzdyd1U3ckQ4amxqcTY0OG5BaEstUnkzNVlJUERF"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "1faa6bdcb7d4",
    "title": "Not AMD. Not Marvell. Here's Which Company Nvidia Needs to Be Worried About. - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSUlOdFp3Y2NRLXhramhUYW00bFJleG9kX2R2bW85aV81ZUxJSnRFMUZ0TV9aZTlacGFQSHFqSFBsYjlZZU5ZUGo3bzJXXzhyMWQ2MnVjSWJ1UlY2dGgyUW04SnNrZjUtYUx2ajRxYUFrTVBESUJRYjFuNUt0WjlxV2FWTk9vZmMtd21GNGVYcU1sU00",
@@ -6558,125 +6648,6 @@
     "pct": -0.37,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "2a67182d601d",
-   "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes - NVIDIA Developer",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzBJeXFCbUFOTjA0cWtxaWVRMHFHRWpqQTRqN25aUzkwaWhGLUlmdkZjWUhnNUx4dXdkOXotQjdzd3F4aVNPRWtpODZESUw0akt3OGJHZGJwUUlSeGpENlJFV1ptZVNmdW1VNzVmXzVsMFF3Y2FFQjNoMFdXeG5vUENHaTN5UW5HQjZISUlMS1ZRMWdMZmRXMWlwM3FOOGc2V1M0QXh6V21FUQ",
-   "source": "NVIDIA Developer",
-   "published_at": "2026-10-26T15:03:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Developer",
-     "published_at": "2026-10-26T15:03:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzBJeXFCbUFOTjA0cWtxaWVRMHFHRWpqQTRqN25aUzkwaWhGLUlmdkZjWUhnNUx4dXdkOXotQjdzd3F4aVNPRWtpODZESUw0akt3OGJHZGJwUUlSeGpENlJFV1ptZVNmdW1VNzVmXzVsMFF3Y2FFQjNoMFdXeG5vUENHaTN5UW5HQjZISUlMS1ZRMWdMZmRXMWlwM3FOOGc2V1M0QXh6V21FUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达任务控制2.5实现K8s自主恢复",
-   "title_zh": "英伟达Mission Control 2.5为Kubernetes带来自主恢复",
-   "sentiment": 1
-  },
-  {
-   "id": "c6819a12cb5d",
-   "title": "Nvidia Just Doubled Down on Self-Driving Cars With Mercedes. Jensen Huang Is Coming for the Self-Driving Market. - Barchart.com",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEJ6WVExT2UwNDFBSEhxc3YyX01OWFBod3Q1aEVZZkN5bV94T3Y2QVV3R1RvcmV0V2RPNjVOVEY2UHdwblktWHViQXlRem1JN2ZaM2VEVUdSWVF4bXBRUFFOTEpIa2pyanFhaWlIQnBXRklnVFZ0ZFpyckp6TW9BT0JQWVFGV0xDajhTZG1zMXRqZ2pkaklJV3c4eU4xSDZYeXRiUkFLbl93MWNpMnlfWW1LOUdtOF91N3VOMjVkREJiNnl5MkRYcUkxQk1lNWhycUhfUFZBOE9GZUxMR1cyRjlhS3pnTjlmdXc",
-   "source": "Barchart.com",
-   "published_at": "2026-10-26T14:59:14+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Barchart.com",
-     "published_at": "2026-10-26T14:59:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcEJ6WVExT2UwNDFBSEhxc3YyX01OWFBod3Q1aEVZZkN5bV94T3Y2QVV3R1RvcmV0V2RPNjVOVEY2UHdwblktWHViQXlRem1JN2ZaM2VEVUdSWVF4bXBRUFFOTEpIa2pyanFhaWlIQnBXRklnVFZ0ZFpyckp6TW9BT0JQWVFGV0xDajhTZG1zMXRqZ2pkaklJV3c4eU4xSDZYeXRiUkFLbl93MWNpMnlfWW1LOUdtOF91N3VOMjVkREJiNnl5MkRYcUkxQk1lNWhycUhfUFZBOE9GZUxMR1cyRjlhS3pnTjlmdXc"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T14:59:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZVB2YUcwRW5rSHdGdEtLVFctY2Q1aFpXLUgwXzF2a3hkTTBCOHJScDhVT25sQ1p1TUhwQ3FzTVg2bENXbXVGWUJjOG1TUmk5ZUtzVzIyNDBmZmlkbGtsU01vNGs1c3RCUWk4d285dUhZMlVnYlJPY3BxWlp0cWlnV256Q2l5TXhpcE5UemVTSmVGbFFXeVpQcA"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "英伟达携手奔驰加码自动驾驶",
-   "title_zh": "英伟达联手奔驰加码自动驾驶市场",
-   "sentiment": 1
-  },
-  {
-   "id": "76d5268b156c",
-   "title": "98% Of Nvidia Analysts Have “Buy” Rating - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYjJDYUtDR1hnU010clFaNW9FTkFWdXBKejZRTzZZTHdiRVNoeURHYWlyWW82UlJQSlFxNXlKVVczcUFQRkVXZDFiZWI0QjVVMWVwR1NtOFZ3S3NNWnJwaW1ibXVEZDlrUHJ5MnhyQ1V2amxYajg5MUt4QXl3NXJpVFRJbkJRcXRXN28wVEo1UnNlcUVpUEFOY3pB",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-26T14:51:45+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T14:51:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYjJDYUtDR1hnU010clFaNW9FTkFWdXBKejZRTzZZTHdiRVNoeURHYWlyWW82UlJQSlFxNXlKVVczcUFQRkVXZDFiZWI0QjVVMWVwR1NtOFZ3S3NNWnJwaW1ibXVEZDlrUHJ5MnhyQ1V2amxYajg5MUt4QXl3NXJpVFRJbkJRcXRXN28wVEo1UnNlcUVpUEFOY3pB"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-26T14:51:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55OGQwTlJTZGw2bGV1d25TQmZadnE4aXNTMHFyUWV4YlRqazJ1STBNekh1djlnQ2JzVmJrcWR6cm84bmVCUFFnRllxRThoZ0Q5SERseVA5aTREcEUzbkhzTzFwWWRkUFFqSmpWSktzaGhjUlVDSGZ2dGhCV1dVdw"
-    },
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-26T14:55:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWlGTjM2X1lYcjlKdURYUDJOV1hIZl80RDk1S3JzZkM2Yi05T1ZGVk1JSUp6MmIzVm8wOUVMRFhKd3BtamYxZWZXYWdKMFAzYmY2YVRCRjUyMjNlTEluTjZnaWc2a09QR3Jya0JtQ1dJcXZtUFBjbFBuNVFmLVJuRmZHelJFeTNf"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "zh_summary": "98%英伟达分析师给予买入评级",
-   "title_zh": "98%英伟达分析师给予买入评级",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.04,
-    "window_h": 0.4
-   }
-  },
-  {
-   "id": "2419caf2ec8d",
-   "title": "Nvidia Stock Hits Deepest Discount to S&P 500 Since 2015 - NVIDIA (NASDAQ:NVDA) - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVVOeWFkNHpzM0xTSjd2aGZCUUQ2RThVWldQa0Jxc2hRNHhVVVFHazJ2QU5ablA2Vmdqd1BvemdibGFCbFN0bUpHaE1kY0JnQkQ5S0NhWERTanRlMTRvbEFSUGNUSElrOUJIc2NsSzJQbFoxZTB1T1lrY1Q4dS1henFZeDBvb3ctS2MxRDA1QjAxRUtWQTVv",
-   "source": "Benzinga",
-   "published_at": "2026-10-26T14:45:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-26T14:45:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVVOeWFkNHpzM0xTSjd2aGZCUUQ2RThVWldQa0Jxc2hRNHhVVVFHazJ2QU5ablA2Vmdqd1BvemdibGFCbFN0bUpHaE1kY0JnQkQ5S0NhWERTanRlMTRvbEFSUGNUSElrOUJIc2NsSzJQbFoxZTB1T1lrY1Q4dS1henFZeDBvb3ctS2MxRDA1QjAxRUtWQTVv"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "英伟达相对标普500折价创2015年来最大",
-   "title_zh": "英伟达股价相对标普500折价创2015年来最深",
-   "sentiment": 0
-  },
-  {
-   "id": "3aea8a862032",
-   "title": "英伟达估值现已低于标普500指数平均水平：华尔街仍看好其利润创纪录｜长桥证券 - Longbridge",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52NEJuQ3VyNV9OQ3BFN3RVdUZLa2RqT1Frb2w3NHlvM0E4R0ltWU1oOUNwSjFVUkZNQWJJRTNZNmR3Nkg1d0FiemQtOTd6dEpzaHdQVGFR",
-   "source": "Longbridge",
-   "published_at": "2026-10-26T14:45:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Longbridge",
-     "published_at": "2026-10-26T14:45:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52NEJuQ3VyNV9OQ3BFN3RVdUZLa2RqT1Frb2w3NHlvM0E4R0ltWU1oOUNwSjFVUkZNQWJJRTNZNmR3Nkg1d0FiemQtOTd6dEpzaHdQVGFR"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘中",
-   "zh_summary": "英伟达估值低于标普500平均水平",
-   "title_zh": "英伟达估值已低于标普500平均，华尔街仍看好利润创纪录",
-   "sentiment": 1
   }
  ]
 }
