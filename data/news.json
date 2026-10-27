@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T10:51:36.678724+00:00",
+ "updated_at": "2026-10-27T11:06:45.106596+00:00",
  "market": {
   "price": 216.0,
   "change_pct": 2.39,
@@ -10,8 +10,8 @@
    "days_left": 21
   },
   "day_sentiment": {
-   "avg": 0.78,
-   "count": 77
+   "avg": 0.71,
+   "count": 85
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.78（77条已评分）"
+     "note": "今日新闻情绪 +0.71（85条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 45.8,
    "ma20": 224.9,
-   "as_of": "2026-10-27T10:51:36.661701+00:00"
+   "as_of": "2026-10-27T11:06:45.085051+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "4d87df2f5146",
+   "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs - TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVU1oenJIXzh6LWNpZ2tHNnh3RWptVTFTS25tOUtjd0RxaDE1eEJBT2MyVkRUOS1GSjFUS0xoQ0w0OUxiOEY0Q3ZjMlFEcG82UlU5ejlLSk1BOVpvRkRucldrM2tWV2lZQmtPZ1RFYkIycjZ6a1VKSUxzb3ZwZ1l0VW4tanZyc2lVNk9ESjB5MnVsLVJZbmYwRlFoMXhTeUZpWXpVY0IyUFZpS1FPOVNv",
+   "source": "TechCrunch",
+   "published_at": "2026-10-27T11:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechCrunch",
+     "published_at": "2026-10-27T11:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVU1oenJIXzh6LWNpZ2tHNnh3RWptVTFTS25tOUtjd0RxaDE1eEJBT2MyVkRUOS1GSjFUS0xoQ0w0OUxiOEY0Q3ZjMlFEcG82UlU5ejlLSk1BOVpvRkRucldrM2tWV2lZQmtPZ1RFYkIycjZ6a1VKSUxzb3ZwZ1l0VW4tanZyc2lVNk9ESjB5MnVsLVJZbmYwRlFoMXhTeUZpWXpVY0IyUFZpS1FPOVNv"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "2b876cb6cca9",
+   "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQSGZheUpEUC1EN2c5VFB0NEp1TldOUmhTVnZCMnRNdmZGVmIxa01nMndWUUFKM3hXblczTklSWE9WVDJSZ0dNMnN3Tm1XaW1LZVAzODdMV2FsTjh1d011ZUJ6S3BKWFdiS0lad1VLOHJPTFZDRV8zYjl1blNhTVV0X1VnZ2IzVXgtLV9feXFkX0pBV2xscmhjb0c2b2daWTIyRUtaMW5jQkZpbjdkeGNJNXBNZVJOR2N5d2k4NnZfNUI2OHI4alFHc1g4dXk2OHJ6bC1xbDZpLVVXVFNfYmxUeW9mRHBQV3RJZ2JpVUVpN201N2dtcHpha2NIOF8wbTl4cGRuZDF0YjdtRXpTWVp5RG5tOGFGV092SDRKSkl5QmU5WV9oamdxdWJXWFNSay1haVRiakxpQ3Ewc1RhS0ZJblRRNDhRRWNHZVkxdG95U1FUZjZXZnNybUhGVDN0a2JUTTByU1ZudWNXX2R3WmhHSUttYXVpbVRqdzBpVUt0VHBTbExWVUlhazhnUEYyQ0RyY1F2Yg",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-27T11:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-27T11:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQSGZheUpEUC1EN2c5VFB0NEp1TldOUmhTVnZCMnRNdmZGVmIxa01nMndWUUFKM3hXblczTklSWE9WVDJSZ0dNMnN3Tm1XaW1LZVAzODdMV2FsTjh1d011ZUJ6S3BKWFdiS0lad1VLOHJPTFZDRV8zYjl1blNhTVV0X1VnZ2IzVXgtLV9feXFkX0pBV2xscmhjb0c2b2daWTIyRUtaMW5jQkZpbjdkeGNJNXBNZVJOR2N5d2k4NnZfNUI2OHI4alFHc1g4dXk2OHJ6bC1xbDZpLVVXVFNfYmxUeW9mRHBQV3RJZ2JpVUVpN201N2dtcHpha2NIOF8wbTl4cGRuZDF0YjdtRXpTWVp5RG5tOGFGV092SDRKSkl5QmU5WV9oamdxdWJXWFNSay1haVRiakxpQ3Ewc1RhS0ZJblRRNDhRRWNHZVkxdG95U1FUZjZXZnNybUhGVDN0a2JUTTByU1ZudWNXX2R3WmhHSUttYXVpbVRqdzBpVUt0VHBTbExWVUlhazhnUEYyQ0RyY1F2Yg"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘前"
+  },
   {
    "id": "4ee933c53196",
    "title": "Nvidia says RTX 5090 is not discontinued, but board partners reportedly can't place any new orders - PC Guide",
@@ -140,6 +174,23 @@
    "zh_summary": "黄仁勋称买显卡还需付授权费",
    "title_zh": "黄仁勋：买完我们的显卡还要给英伟达打授权费 - 3DM",
    "sentiment": 0
+  },
+  {
+   "id": "67d32773bb29",
+   "title": "限时4.5折！AI解析英伟达、微软、Meta三大科技巨头估值，谁还有上涨空间？ 提供者Investing.com - 英为财情 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aRkVyU2FaVlhSOVBaeTlnVDRfVDNidS1kQUZXWTJUSE5vSG1Mb3hEN2duU20wZnNpTlFRX051M0VPS01Lb3I4RFdsMTQtMnNMZDViNEIyYkZvVml1SGswZnhWZVZOMnBra1U2N2c5ZVM",
+   "source": "英为财情 Investing.com",
+   "published_at": "2026-10-27T10:35:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-27T10:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aRkVyU2FaVlhSOVBaeTlnVDRfVDNidS1kQUZXWTJUSE5vSG1Mb3hEN2duU20wZnNpTlFRX051M0VPS01Lb3I4RFdsMTQtMnNMZDViNEIyYkZvVml1SGswZnhWZVZOMnBra1U2N2c5ZVM"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "a66c5678a671",
@@ -727,12 +778,17 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWxabXNLZUYwazFvRVVwRm1RVTk3VWFRMmd1YTZFcFZxb2h5cG5QUUY0anJOa3F4dkFaOUlWZnp0UFRoNFFCejNHVWhVeE1iQ0dKcEk0SXJBbWdxZVVwU0RoeFUyRTl2MVpndWRnNkY5c2htUVNuQWdpdzU3cTZNQTB6N014VDNXaUxrdk5URW9COWRBSkY5bnVmakM",
    "source": "CoinGape",
    "published_at": "2026-10-27T08:02:44+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "CoinGape",
      "published_at": "2026-10-27T08:02:44+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWxabXNLZUYwazFvRVVwRm1RVTk3VWFRMmd1YTZFcFZxb2h5cG5QUUY0anJOa3F4dkFaOUlWZnp0UFRoNFFCejNHVWhVeE1iQ0dKcEk0SXJBbWdxZVVwU0RoeFUyRTl2MVpndWRnNkY5c2htUVNuQWdpdzU3cTZNQTB6N014VDNXaUxrdk5URW9COWRBSkY5bnVmakM"
+    },
+    {
+     "name": "Cryptonews.net",
+     "published_at": "2026-10-27T10:54:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHZ1BTX0hXbkxMVUNoN1ZHUkF4WktGb1JwbEppbHp4VnJGUndVdGg1VXNpWmdyVVA4UzJRMmFaT1pyRGpMZG8zZTM3REZDMnhDRG1mdzVHWF8"
     }
    ],
    "category": "其他",
@@ -6485,71 +6541,6 @@
     "pct": 0.75,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "ecde244a0e54",
-   "title": "Nvidia Packaging Deal Puts OSAT Stocks Like ASE Technology Holding In Focus - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONU9Yb0hVNDUteWNkOEJqU3N2akh6enY1ZWw5cG9HNWMyMFZ3S1R3c0M3Q1hXeWR3TTVoSk9sbnAzVXlkLXJGVVd3RExrWEhXRXlEclNvYkN2d2lwTlBrLWg1WTZiNkVMemdJNVhsa05KS1p1TW9vMjBGN05fdUJ4bTdheVZ2Ny1kdGpMT3R3aVNjM05aNE80M0ROOA",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-26T08:07:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T08:07:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONU9Yb0hVNDUteWNkOEJqU3N2akh6enY1ZWw5cG9HNWMyMFZ3S1R3c0M3Q1hXeWR3TTVoSk9sbnAzVXlkLXJGVVd3RExrWEhXRXlEclNvYkN2d2lwTlBrLWg1WTZiNkVMemdJNVhsa05KS1p1TW9vMjBGN05fdUJ4bTdheVZ2Ny1kdGpMT3R3aVNjM05aNE80M0ROOA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达封装交易带火ASE等OSAT股",
-   "title_zh": "英伟达封装交易令ASE等OSAT股票受关注",
-   "sentiment": 0
-  },
-  {
-   "id": "38e6b3febb16",
-   "title": "英伟达“停产传闻”掀起涨价潮，实探深圳华强北：一张显卡报价超5万元 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUWh2ejNkSFRTS3pHd3hqMzdIaDBpQ2ZMTUhXaGdCX0lzTF9jclRDN2lvcFpZd0s4ejY5WXhtQWZtWlB1WlZ3UjNMd3FWaWVxRF9JZ2JSSGdVY25GTU1WRFRJaW41c1Jva1Q1WVVhVTVEcnJTeURnS05UZ1BCQUI5a21ieDNsTjBwY3NBZlltRDNoemIwSFdoQkF3enJWN2trVklTQVFmVVU3eF9kRUEyQ2xaak9ldU5ZWkJlb2piODA2cmtNc0xnX05NQlFOYVZmZ1EzdFVYejk",
-   "source": "finance.sina.com.cn",
-   "published_at": "2026-10-26T08:07:23+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-26T08:07:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUWh2ejNkSFRTS3pHd3hqMzdIaDBpQ2ZMTUhXaGdCX0lzTF9jclRDN2lvcFpZd0s4ejY5WXhtQWZtWlB1WlZ3UjNMd3FWaWVxRF9JZ2JSSGdVY25GTU1WRFRJaW41c1Jva1Q1WVVhVTVEcnJTeURnS05UZ1BCQUI5a21ieDNsTjBwY3NBZlltRDNoemIwSFdoQkF3enJWN2trVklTQVFmVVU3eF9kRUEyQ2xaak9ldU5ZWkJlb2piODA2cmtNc0xnX05NQlFOYVZmZ1EzdFVYejk"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-26T18:05:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43Sjh4R21KYkRPampYdXpaZGQ4aU5fOVB0TDZ6Z3dRblBIVkY4Wms1Zk56R1VsMF9zWnI5RG9tb0xNUkltc3RaNHhJcEFtNVZnelk4bk5TNFVkeHRiMkhPXzRrckluaDZMVnQxd3VwS1JwWi1nNFVjbw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达停产传闻引发显卡涨价",
-   "title_zh": "英伟达停产传闻掀起涨价潮，显卡报价超5万元",
-   "sentiment": 0
-  },
-  {
-   "id": "4c6af470f207",
-   "title": "备货Rubin Ultra！三星、SK海力士明年Q2向英伟达交付HBM4 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HYlJsd202eVNhRFZTV3V3VHZCc3RleXJheTdCSF9Rb3djd2hndFhEUGJTX1Bla094M01iYzByX1NTcjVJN2xhUUVDR2E3Z3VXckIxeHpPYnk",
-   "source": "驱动之家",
-   "published_at": "2026-10-26T08:06:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-26T08:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HYlJsd202eVNhRFZTV3V3VHZCc3RleXJheTdCSF9Rb3djd2hndFhEUGJTX1Bla094M01iYzByX1NTcjVJN2xhUUVDR2E3Z3VXckIxeHpPYnk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "三星、SK海力士明年Q2向英伟达交付HBM4",
-   "title_zh": "备货Rubin Ultra！三星、SK海力士明年Q2向英伟达交付HBM4",
-   "sentiment": 1
   }
  ]
 }
