@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T15:36:28.762041+00:00",
+ "updated_at": "2026-10-27T15:51:34.158869+00:00",
  "market": {
-  "price": 217.43,
-  "change_pct": 0.66,
+  "price": 218.87,
+  "change_pct": 1.33,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 21
   },
   "day_sentiment": {
-   "avg": 0.59,
-   "count": 152
+   "avg": 0.58,
+   "count": 155
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 71% 分位"
+     "note": "现价处于52周区间 72% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +44.9%"
+     "note": "目标价中位数 $315（17家），隐含空间 +43.9%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.59（152条已评分）"
+     "note": "今日新闻情绪 +0.58（155条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.43 vs 20日均线 $224.41"
+     "note": "现价 $218.87 vs 20日均线 $224.48"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 71,
+   "price_52w_pct": 72,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 44.9,
-   "ma20": 224.41,
-   "as_of": "2026-10-27T15:36:28.749462+00:00"
+   "implied_upside_pct": 43.9,
+   "ma20": 224.48,
+   "as_of": "2026-10-27T15:51:34.149814+00:00"
   },
-  "pe_ttm": 27.6,
+  "pe_ttm": 27.8,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+43.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "4e69e14e1058",
+   "title": "NVIDIA Just Took CPU Business From AMD and Intel. What It Does to the Target - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLS0xWlNnWEpGa3c2SGg3QnlLZHBCQVpuUWZ1aFBjV3ZhSDQ2Y2dOZk9SZndNT25OeE5SczF5cDhOREJnenluZS1WVGRXV1gzaFZwUm5RUGE1STJCRTlnazdJbGZLNWJDbTczcnd6MlBod1dBbGxWQXMycWh1MmlLWGd2ak0tY2RXX19ac1VCWnhYcTgxYXNSMjF5ZGUyT1NvbDFnLTZfM0dOZTdqZER6WEljUkJkaFRZNmJv",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-27T15:38:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-27T15:38:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLS0xWlNnWEpGa3c2SGg3QnlLZHBCQVpuUWZ1aFBjV3ZhSDQ2Y2dOZk9SZndNT25OeE5SczF5cDhOREJnenluZS1WVGRXV1gzaFZwUm5RUGE1STJCRTlnazdJbGZLNWJDbTczcnd6MlBod1dBbGxWQXMycWh1MmlLWGd2ak0tY2RXX19ac1VCWnhYcTgxYXNSMjF5ZGUyT1NvbDFnLTZfM0dOZTdqZER6WEljUkJkaFRZNmJv"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "0cf02ac29313",
+   "title": "NVIDIA GPUs Make Up 4.7 GW Of Anthropic’s Contracted Compute, Topping 4.5 GW Of Cheaper Google TPUs, As Lenders Bet On NVIDIA’s Residual Value - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnU0SEVmMnV1RnA1VGU0eGw2TjhJakFuUHJzWWlwM3pEWmJXLXhsdno1eHFycVJMQkV3QzQ0TmlFbERGQ3NJSU1WWUszZ3RYVGxnRkNnMUJWbURoZC1fbnJsci1WOG05dW8zaFp1X2ExU01fT1daOWZZQWtfM085RXNBSkVLQ25fOXFlNVctZ1dscUYyMDk0YWp2aVdURFk5VjMwWTBYOGtTTnR6VGszdUxVaG9HRktJVmt2a25FckhRTGZndW5nbFdTeEZ2NTVzY0NHSWdIUUN3MmtyY2l1QTZPVXAxU2piSXNpU3FxRlNEd9IB9wFBVV95cUxPeHNsM3ByUjNnZlcybS10SFNQM1JpMXJxY2VYR0xMejJsN1duZ3U1LTNwd1BCWDl2TFV3VlotelZ4bmp3c1dzbGg4N05fdVY3SHJ2bnZZQXMtbmMyUTJuVjFrdU9ycmhQWFlOd1NmUHp2OUNFQnRrZVNRN2lheW1PelR1S1FlS2pVeGFIZUFrRFFSaV9kdjJndy02VjF3cGVXOUFHcFRDcGFDcEZ6ZlFMVkpOMTNRUzhzbEFYSVRwek9MZEVLUm9oQ1EtbVEyNWpyV01jR1JmbHFSb1l6R1BaTWRCTHZWQjRZeGhtQVhaYkphTm54VG93",
+   "source": "Wccftech",
+   "published_at": "2026-10-27T15:27:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-27T15:27:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnU0SEVmMnV1RnA1VGU0eGw2TjhJakFuUHJzWWlwM3pEWmJXLXhsdno1eHFycVJMQkV3QzQ0TmlFbERGQ3NJSU1WWUszZ3RYVGxnRkNnMUJWbURoZC1fbnJsci1WOG05dW8zaFp1X2ExU01fT1daOWZZQWtfM085RXNBSkVLQ25fOXFlNVctZ1dscUYyMDk0YWp2aVdURFk5VjMwWTBYOGtTTnR6VGszdUxVaG9HRktJVmt2a25FckhRTGZndW5nbFdTeEZ2NTVzY0NHSWdIUUN3MmtyY2l1QTZPVXAxU2piSXNpU3FxRlNEd9IB9wFBVV95cUxPeHNsM3ByUjNnZlcybS10SFNQM1JpMXJxY2VYR0xMejJsN1duZ3U1LTNwd1BCWDl2TFV3VlotelZ4bmp3c1dzbGg4N05fdVY3SHJ2bnZZQXMtbmMyUTJuVjFrdU9ycmhQWFlOd1NmUHp2OUNFQnRrZVNRN2lheW1PelR1S1FlS2pVeGFIZUFrRFFSaV9kdjJndy02VjF3cGVXOUFHcFRDcGFDcEZ6ZlFMVkpOMTNRUzhzbEFYSVRwek9MZEVLUm9oQ1EtbVEyNWpyV01jR1JmbHFSb1l6R1BaTWRCTHZWQjRZeGhtQVhaYkphTm54VG93"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "9dc4ab12ebb6",
    "title": "Zacks.com featured highlights include NVIDIA, Micron Technology and Sandisk - The Globe and Mail",
@@ -87,12 +121,17 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDJnejlzcDhXMjRFTUNsWEZDSVRLT2JaNlhKcWJtVHRfeE11M1U3b2E2eXhTenJxY242bHlXc3o2d1BrZXBfU0VlYU5HNzZBbWx4b2ZOb3NnQkw4MkF5QThoUWw2aktaalB5aV9DeVF2anNqVE5KSG01SkNTN1daVG1JVjV6aGZpZTktaF9yZ3ZaS3BDbHJlbg",
    "source": "The Motley Fool",
    "published_at": "2026-10-27T15:25:29+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-27T15:25:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDJnejlzcDhXMjRFTUNsWEZDSVRLT2JaNlhKcWJtVHRfeE11M1U3b2E2eXhTenJxY242bHlXc3o2d1BrZXBfU0VlYU5HNzZBbWx4b2ZOb3NnQkw4MkF5QThoUWw2aktaalB5aV9DeVF2anNqVE5KSG01SkNTN1daVG1JVjV6aGZpZTktaF9yZ3ZaS3BDbHJlbg"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T15:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa05Cb1NpWEpwbmpNOVRNV3E4ZTZqNFFLTUhpNERwRWd5N2dlQkFIV05feGs0am5uSDFTWDAzNzRpRlYzdjVwdDdtaXQ5WGhyQTA1bURwT3AyMlpEV0F5LWY2MHpSUnM1SzZFaVN4bzdqdzRTYkY3bTh6M2FhWUk4TlVLUzQ5WVJuOGVtQVpCWUdDZw"
     }
    ],
    "category": "产品技术",
@@ -447,26 +486,6 @@
    "sentiment": 0
   },
   {
-   "id": "7c7112c66bab",
-   "title": "The Zacks Analyst Blog Highlights Intel, Alphabet, NVIDIA and AMD - The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN0p3M2ZyVnFDS0tGdEZ5UmNoanZiX1ZHeE04VnlnSE92dWx3UWRUNlZHeXJpTi1uX1d1d2pjTXBlcl9CVWV5bmhHbklLcE0yYmhYVHJBV29Nb3Vmd1czOWJPcFoyX01CS0h0NkJnRE10ajJ6b1U0NHFuZ0dxN1VWb1phOTk0cXVENzhuNEZNWWhqS3NUS2EzQlRqOHFqNWItX1Rac3ktUWNBTUtqTThXOTh4d0w3c2dMeXpackJERi0tNzRydzMyLUJmYk95ZDFhZm4wRHMxRENoamZtbDFxeXR3",
-   "source": "The Globe and Mail",
-   "published_at": "2026-10-27T14:18:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-27T14:18:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN0p3M2ZyVnFDS0tGdEZ5UmNoanZiX1ZHeE04VnlnSE92dWx3UWRUNlZHeXJpTi1uX1d1d2pjTXBlcl9CVWV5bmhHbklLcE0yYmhYVHJBV29Nb3Vmd1czOWJPcFoyX01CS0h0NkJnRE10ajJ6b1U0NHFuZ0dxN1VWb1phOTk0cXVENzhuNEZNWWhqS3NUS2EzQlRqOHFqNWItX1Rac3ktUWNBTUtqTThXOTh4d0w3c2dMeXpackJERi0tNzRydzMyLUJmYk95ZDFhZm4wRHMxRENoamZtbDFxeXR3"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘中",
-   "zh_summary": "Zacks分析博客聚焦英特尔等四股",
-   "title_zh": "Zacks分析博客聚焦英特尔、Alphabet、英伟达和AMD",
-   "sentiment": 0
-  },
-  {
    "id": "c2e67fd8aa58",
    "title": "Nvidia, Meta, Boeing, UPS, Corning, Royal Caribbean, Coca-Cola, and More Stocks That Explain Today’s Market - Barron's",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBET2xGeDU1LTZXN3FENUloNjE1UEVnT2VOSmVheVNjQUtfUGoydXpjSkx6M2FMMWUxTFZIWWZCT2d5MFZ4OXJMbFNndVY3M0s1bW8wTml4UTVhNEZSVGZ2aUVjWlg",
@@ -570,6 +589,23 @@
    "zh_summary": "Meta获英伟达30亿美元投资",
    "title_zh": "Meta获英伟达30亿美元投资，合作加速Muse AI运行",
    "sentiment": 1
+  },
+  {
+   "id": "620b0a8c5f5f",
+   "title": "Meta and Nvidia's AI Partnership and breaking down Anthropic's IPO - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdm1lQlRrNUZfV0VzcmFNSW1fMURyNGMzenJWanM2WkFyUnctckRwYW0xSzZONVNUcFZsVFpNcXhKN1ZXTnlLZTktNmJOZlI1SWdvak1odXV4bVBXTGh6Q1JPclE0RmFwb2FoU01Fa3lOUWx5QWQ1LXpyS3NMSVgzV1BuVmRGbTYtb1hRVnVaQ2ktRUR6ek5FWlBwZVhManlxYUkyajI2RWNhbUU1TWp0dg",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-27T13:38:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T13:38:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdm1lQlRrNUZfV0VzcmFNSW1fMURyNGMzenJWanM2WkFyUnctckRwYW0xSzZONVNUcFZsVFpNcXhKN1ZXTnlLZTktNmJOZlI1SWdvak1odXV4bVBXTGh6Q1JPclE0RmFwb2FoU01Fa3lOUWx5QWQ1LXpyS3NMSVgzV1BuVmRGbTYtb1hRVnVaQ2ktRUR6ek5FWlBwZVhManlxYUkyajI2RWNhbUU1TWp0dg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "b1e78ab4ac80",
@@ -910,6 +946,31 @@
    "zh_summary": "Meta投资30亿美元后英伟达盘前涨至217美元",
    "title_zh": "英伟达盘前微涨至217美元，此前Meta投资30亿美元",
    "sentiment": 1
+  },
+  {
+   "id": "7c7112c66bab",
+   "title": "The Zacks Analyst Blog Highlights Intel, Alphabet, NVIDIA and AMD - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdE9vS0txcFhPVFkwMDY2cGptN0JGTTFXVjB1cWNRd2UwVVV6czNqVHlPS1NGSVAtWnQtZ3lzSWZlRDNla1k0MXk0RzlnbTdhaFQ3Vnp6WWpOSFl3TnhSNkxPS1ZuSUlwZHpkOWw2U2l2c1B6YkYtWVZNUTBNTG9ybTVKS3VPN19tbWVjdGN4aFdTQmcyS2FQVTRJRjhyZnJkZXc",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-27T12:01:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T12:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdE9vS0txcFhPVFkwMDY2cGptN0JGTTFXVjB1cWNRd2UwVVV6czNqVHlPS1NGSVAtWnQtZ3lzSWZlRDNla1k0MXk0RzlnbTdhaFQ3Vnp6WWpOSFl3TnhSNkxPS1ZuSUlwZHpkOWw2U2l2c1B6YkYtWVZNUTBNTG9ybTVKS3VPN19tbWVjdGN4aFdTQmcyS2FQVTRJRjhyZnJkZXc"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-27T14:18:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN0p3M2ZyVnFDS0tGdEZ5UmNoanZiX1ZHeE04VnlnSE92dWx3UWRUNlZHeXJpTi1uX1d1d2pjTXBlcl9CVWV5bmhHbklLcE0yYmhYVHJBV29Nb3Vmd1czOWJPcFoyX01CS0h0NkJnRE10ajJ6b1U0NHFuZ0dxN1VWb1phOTk0cXVENzhuNEZNWWhqS3NUS2EzQlRqOHFqNWItX1Rac3ktUWNBTUtqTThXOTh4d0w3c2dMeXpackJERi0tNzRydzMyLUJmYk95ZDFhZm4wRHMxRENoamZtbDFxeXR3"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前",
+   "zh_summary": "Zacks分析博客聚焦英特尔等四股",
+   "title_zh": "Zacks分析博客聚焦英特尔、Alphabet、英伟达和AMD",
+   "sentiment": 0
   },
   {
    "id": "2164ec5cfec5",
@@ -3625,26 +3686,6 @@
    "sentiment": 0
   },
   {
-   "id": "9253f6dcf288",
-   "title": "Nvidia Stock News (Oct 27, 2026): NVDA Rises 2.4% to $216.00 - Gotrade",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81bXZEWEo3YkRpbUY5aVpaclNmdzYtMjltYk1tbTZ6bFViRld2ZVZWYXZMSmN5RWJoN2VTa3VVMTdHU0RZUlZRMXlwVE1iX3E3TmUwVm15VXlPQVB6dzZkNXFNR3JBeDZacl9fZ3lMMXlxaTNpdjY5NEoxTFNkWHc",
-   "source": "Gotrade",
-   "published_at": "2026-10-27T03:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Gotrade",
-     "published_at": "2026-10-27T03:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81bXZEWEo3YkRpbUY5aVpaclNmdzYtMjltYk1tbTZ6bFViRld2ZVZWYXZMSmN5RWJoN2VTa3VVMTdHU0RZUlZRMXlwVE1iX3E3TmUwVm15VXlPQVB6dzZkNXFNR3JBeDZacl9fZ3lMMXlxaTNpdjY5NEoxTFNkWHc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "NVDA上涨2.4%至216美元",
-   "title_zh": "英伟达股票新闻：NVDA涨2.4%至216美元",
-   "sentiment": 1
-  },
-  {
    "id": "ae1a563db8df",
    "title": "英伟达RTX 5090陷停产疑云：消息称合作厂商已订不到核心芯片 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzdwUmJBWkdYa0M2NEc2dkNGZVlRVEhuUWxDei0zaU5vM3ZzZVl0MU1NR1VaQWNiUGNGUzRMMkd6MHRpcVI3UldtaWM3THpDaE04RE56aU5nQm1OX2pscU9Gc29OVU5HOHdPaXR0YjRLV3JqTmZYM09pdEFjRDRGMTBIUFdERG5U",
@@ -4131,6 +4172,23 @@
    "zh_summary": "英伟达营收快速扩张，英特尔增长平缓",
    "title_zh": "英特尔与英伟达对比：营收平缓与快速扩张",
    "sentiment": 1
+  },
+  {
+   "id": "69b47b00702b",
+   "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering - MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDYyd2VndnhVdFI0ckxsUnVKbVRRaGxOMEoxOUpZTFcxeWJIdW5MbzlIWElaUW05RDdfNlM1b01jM3lFTkNCN184YzZwaU9PMWxOOVBKZkNrY2tGZldMc3U3THdNU0FST1ZKcmgtTF95ZlIwV3ZiYlBaVU12RXNoUjdIcVNBRGdnMldGUXllTXRxazY2SWNfZjZ0cks5T3p4LWppMUZqb1E3MWdpdThjVEU1OGNKdng4SUZHQndKalFVOTA",
+   "source": "MarketWatch",
+   "published_at": "2026-10-26T21:44:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketWatch",
+     "published_at": "2026-10-26T21:44:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDYyd2VndnhVdFI0ckxsUnVKbVRRaGxOMEoxOUpZTFcxeWJIdW5MbzlIWElaUW05RDdfNlM1b01jM3lFTkNCN184YzZwaU9PMWxOOVBKZkNrY2tGZldMc3U3THdNU0FST1ZKcmgtTF95ZlIwV3ZiYlBaVU12RXNoUjdIcVNBRGdnMldGUXllTXRxazY2SWNfZjZ0cks5T3p4LWppMUZqb1E3MWdpdThjVEU1OGNKdng4SUZHQndKalFVOTA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "29edec173a62",
@@ -6532,66 +6590,6 @@
    "zh_summary": "SpaceX将获下一代Vera Rubin芯片",
    "title_zh": "SpaceX与Apollo租赁协议，交付下一代英伟达Vera Rubin芯片",
    "sentiment": 1
-  },
-  {
-   "id": "3aaf56c273a5",
-   "title": "Here are Monday's biggest analyst calls: Tesla, Nvidia, SpaceX, Apple, Ross, Dollar General, Lockheed Martin & more - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNEszaXZyZUxHdVE5NmhrVGxRUWlKaEVESmwwTzlqRUNGZl9RZDNMT3VfZXZETmFHNUx4TWdFQk1mMjdSaGZIZWs2S2hTMU0ydXpSS0FYYTc0QVBrZVpTZTU5eXdvTC1MQ0dmNTBJYlgtd2xHbmxYY0lHa0dId3Job0t2Uk9kamx5elY4ZmxjRTduQQ",
-   "source": "CNBC",
-   "published_at": "2026-10-26T12:15:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-26T12:15:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNEszaXZyZUxHdVE5NmhrVGxRUWlKaEVESmwwTzlqRUNGZl9RZDNMT3VfZXZETmFHNUx4TWdFQk1mMjdSaGZIZWs2S2hTMU0ydXpSS0FYYTc0QVBrZVpTZTU5eXdvTC1MQ0dmNTBJYlgtd2xHbmxYY0lHa0dId3Job0t2Uk9kamx5elY4ZmxjRTduQQ"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "周一最受关注分析师评级含英伟达",
-   "title_zh": "周一最重磅分析师评级：特斯拉、英伟达等",
-   "sentiment": 0
-  },
-  {
-   "id": "2daa7fb67326",
-   "title": "传三星电子、SK海力士2027Q2全面量产并向英伟达出货8Hi HBM4内存|NVIDIA|堆栈|原厂|带宽|标准_手机新浪网 - finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdkFhOXM0MlBTenpXcHhVYUhISHg3VGQwR1NmcG0yczJjR0V3amFWWXpDMFZwSDA5RU9HMFk1eHd6VUx3dllvd2pmSHJEckJndG1vXzBfME42X05kWGVCVFhVSG9LMFkzUnd3bnpVNGdGX3pGTnhzeGQ5Y0xfLXBQWmFqVUZ3QzJLMXY1WndsSnpjSDc3VGVWYkswVUZQVUVObVZnaUhtYw",
-   "source": "finance.sina.com.cn",
-   "published_at": "2026-10-26T12:14:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-26T12:14:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdkFhOXM0MlBTenpXcHhVYUhISHg3VGQwR1NmcG0yczJjR0V3amFWWXpDMFZwSDA5RU9HMFk1eHd6VUx3dllvd2pmSHJEckJndG1vXzBfME42X05kWGVCVFhVSG9LMFkzUnd3bnpVNGdGX3pGTnhzeGQ5Y0xfLXBQWmFqVUZ3QzJLMXY1WndsSnpjSDc3VGVWYkswVUZQVUVObVZnaUhtYw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "三星SK海力士2027Q2量产HBM4供英伟达",
-   "title_zh": "三星与SK海力士2027年二季度量产HBM4供英伟达",
-   "sentiment": 1
-  },
-  {
-   "id": "b39f2e069156",
-   "title": "Seaport Reiterates Sell Rating On Nvidia Stock Over Data Center Infrastructure Bottlenecks - TIKR.com",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFYzYnRtLXBHQWFHNUVqcUVhVFdEX1AySmduWld1eG8tNWgxVmpUVlhtdG1kVUllMFV0cHF6N1lEdFRyTEdlNnRkV3VLSUJ2M0ltUG1HYVc1REJxYUFzRG94aWlRb3YzRG9QaDVMR2JlU1AtUzJ6TWxVQ19JaWZDWGh1RkdBVXhxSzRPT3VkZFZQdVFZUjJqMnFKNDlscGo3TUUtUEo3WVRqZw",
-   "source": "TIKR.com",
-   "published_at": "2026-10-26T12:13:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TIKR.com",
-     "published_at": "2026-10-26T12:13:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFYzYnRtLXBHQWFHNUVqcUVhVFdEX1AySmduWld1eG8tNWgxVmpUVlhtdG1kVUllMFV0cHF6N1lEdFRyTEdlNnRkV3VLSUJ2M0ltUG1HYVc1REJxYUFzRG94aWlRb3YzRG9QaDVMR2JlU1AtUzJ6TWxVQ19JaWZDWGh1RkdBVXhxSzRPT3VkZFZQdVFZUjJqMnFKNDlscGo3TUUtUEo3WVRqZw"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "Seaport重申英伟达卖出评级，因数据中心瓶颈",
-   "title_zh": "Seaport重申英伟达卖出评级，数据中心基建瓶颈",
-   "sentiment": -1
   }
  ]
 }
