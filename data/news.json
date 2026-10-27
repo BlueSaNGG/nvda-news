@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T11:06:45.106596+00:00",
+ "updated_at": "2026-10-27T11:21:30.642988+00:00",
  "market": {
   "price": 216.0,
   "change_pct": 2.39,
@@ -10,8 +10,8 @@
    "days_left": 21
   },
   "day_sentiment": {
-   "avg": 0.71,
-   "count": 85
+   "avg": 0.7,
+   "count": 88
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.71（85条已评分）"
+     "note": "今日新闻情绪 +0.70（88条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 45.8,
    "ma20": 224.9,
-   "as_of": "2026-10-27T11:06:45.085051+00:00"
+   "as_of": "2026-10-27T11:21:30.623095+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "34b73b19f128",
+   "title": "NVIDIA cuts Vera Rubin's memory bandwidth by up to 26%, and AMD's Helios now leads in memory bandwidth - TweakTown",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS3Zfa3NJZHpCdXU0N2Q2UFhCOUNJYmI1dEJlLU5nSEZIM2twdTRnSDVTYmdRbU81ZWVpMVVtYzFBTlBYQXFBNTNSRmF6TnRPZlNfN2Q4Yy04aDNOeWpHeVpFUG1XR2xNY2lSU1NpakRWOTQ2RUVKTGpkU1JBR2FCSVNBUFFRaGtoUkcwVWl4LU5aM0QxSkJuSUhiZ2VnNXJ4RGFMVWc5TW5LRnBxdTJzcDRXRUVxQS1PVGZTTTlvUFR0dFFkQ3FFbEpFOTVLT2FwamF5UkVUUERfbUlCeW01ZFFBamRTRThXZFd3",
+   "source": "TweakTown",
+   "published_at": "2026-10-27T11:15:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TweakTown",
+     "published_at": "2026-10-27T11:15:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS3Zfa3NJZHpCdXU0N2Q2UFhCOUNJYmI1dEJlLU5nSEZIM2twdTRnSDVTYmdRbU81ZWVpMVVtYzFBTlBYQXFBNTNSRmF6TnRPZlNfN2Q4Yy04aDNOeWpHeVpFUG1XR2xNY2lSU1NpakRWOTQ2RUVKTGpkU1JBR2FCSVNBUFFRaGtoUkcwVWl4LU5aM0QxSkJuSUhiZ2VnNXJ4RGFMVWc5TW5LRnBxdTJzcDRXRUVxQS1PVGZTTTlvUFR0dFFkQ3FFbEpFOTVLT2FwamF5UkVUUERfbUlCeW01ZFFBamRTRThXZFd3"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "f4c84aa0e2a3",
+   "title": "也算是好起来了 $英伟达 (NVDA.US)$ $特斯拉 (TSLA.US)$ $美国超微公司 (AMD.US)$ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVFJSkZKT0RLNl9zMU1rR1NaXy1OTEd0V2xLdm9vYmJNVnlaYThLeXZBWlc4QXRXcmxiYWl6OVluLVktUGp1N2VKSjRQNHc3XzZsSUJtNlA0SGdLOEdJTV9sTElNb1lTXzZmMGhQMHFDbEhrREE1eUtPVzVyR0FyeU1tQkdjczBYbnBHVTE5SVgyYXItM25uLWh6UWZRSEtMUzBtdURVSk0wdms",
+   "source": "Moomoo",
+   "published_at": "2026-10-27T11:09:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-27T11:09:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVFJSkZKT0RLNl9zMU1rR1NaXy1OTEd0V2xLdm9vYmJNVnlaYThLeXZBWlc4QXRXcmxiYWl6OVluLVktUGp1N2VKSjRQNHc3XzZsSUJtNlA0SGdLOEdJTV9sTElNb1lTXzZmMGhQMHFDbEhrREE1eUtPVzVyR0FyeU1tQkdjczBYbnBHVTE5SVgyYXItM25uLWh6UWZRSEtMUzBtdURVSk0wdms"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "4d87df2f5146",
    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs - TechCrunch",
@@ -267,11 +301,16 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWhlTVNVd2xXZ0JoZGE5RnpuRjVZbWNPdDZ5YjhfZXhFUnV5ak9PcC11YzRGd3J5R1NJdE85UUswR09iemZuN05IeDA4SFZNSDJkbEhEZ2ZEdVR2RDNuYnU1UzRMYXZsM2dFWDBjMHAwZ0JTZ2hwSS03RnJoRWhDdkQweDV4SU1DTUZVMlMxTjYyWHhjSGdyelZYZDE",
    "source": "the-decoder.com",
    "published_at": "2026-10-27T10:00:40+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "the-decoder.com",
      "published_at": "2026-10-27T10:00:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWhlTVNVd2xXZ0JoZGE5RnpuRjVZbWNPdDZ5YjhfZXhFUnV5ak9PcC11YzRGd3J5R1NJdE85UUswR09iemZuN05IeDA4SFZNSDJkbEhEZ2ZEdVR2RDNuYnU1UzRMYXZsM2dFWDBjMHAwZ0JTZ2hwSS03RnJoRWhDdkQweDV4SU1DTUZVMlMxTjYyWHhjSGdyelZYZDE"
+    },
+    {
+     "name": "The Decoder",
+     "published_at": "2026-10-27T10:10:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWhlTVNVd2xXZ0JoZGE5RnpuRjVZbWNPdDZ5YjhfZXhFUnV5ak9PcC11YzRGd3J5R1NJdE85UUswR09iemZuN05IeDA4SFZNSDJkbEhEZ2ZEdVR2RDNuYnU1UzRMYXZsM2dFWDBjMHAwZ0JTZ2hwSS03RnJoRWhDdkQweDV4SU1DTUZVMlMxTjYyWHhjSGdyelZYZDE"
     }
    ],
@@ -677,7 +716,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWklNYmsxUEJkRmx1aHMtNW5RZXZLODd0bnlrcVZZLXUySzJsTzU4c0h2OEVJTkVyUVVvTEZTQnUwMTA0aV9Yd2dhNDJUdXNQZ25ZSDE2RGxDMmQ2bnY5a3k5eDFrMm1sN0hfako2aHNoRzNNR3hXU2V3ZDZYZjNMNHM1M0ZITldI",
    "source": "搜狐网",
    "published_at": "2026-10-27T08:16:28+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "搜狐网",
@@ -693,10 +732,16 @@
      "name": "华尔街见闻",
      "published_at": "2026-10-27T08:16:28+00:00",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43ZWdTQmFSMEtIZlprcm1PV2l3bk5NUjhwd3RveFVleGFtVmdnX1haRHU0S1JoSnExYlgtdGd1d2lVSUJpY0c3eWxLd3VBVXBqSVVV"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-27T08:16:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zZmR1eE0tS29tbDh2Umc0NXlDVGgybTBTa3lNU3B1QXo1LW1VRTFpTk1Kdk5iRzd3OF83aHR6dUo0NURaNUk1VE8wU2dsczhPMGZzTHlxODNHVGFtTDFHRUVwdTJoUGRXVjFITXdOZWh6a2dBa29rZEkyQlM"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "英伟达拟投资30亿美元入股Meta",
    "title_zh": "英伟达拟投资30亿美元入股Meta，双方深化AI助手Muse合作",
    "sentiment": 1
@@ -1167,7 +1212,7 @@
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0pJMERfVzJRY1Zic2ppSFc0NkJNT3p2bWVLXzBPUnM4Z0xSWmtJbTBFSThUZ3hILTdEMWZCekhLaUc1Vjdtb3Jfa1hEd0x3aUg3OW1Yc283TUxwYnpRRjhaSUQ2dXo5Z0JuenRBQ3ZGelR6ZHE0NVJRM3RETVhIekVyaXRCaVFRTWotQXdtaFFFdERYSTZJek1GbzE0bDhfX01PUXBORkM0TU1BWmN1Q1lsaW5Ra0lWVF9tb1BOZkdpd3REcHJlNUlEMGxkVzlq",
    "source": "marketscreener.com",
    "published_at": "2026-10-27T06:51:11+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "marketscreener.com",
@@ -1193,6 +1238,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-27T09:23:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3ZzMkpTR19HVVJVcFpWMHpXaHpuZ3dhZjE1UExKNXAtQ0tNQS1oYXk1RmdWcW5jU0Z4NTRuYmVBRTBWN2xxVjJEVW1yR3FwZ3A2dzJyWHRPSUZaclc1b1RfTGQ4VlpjUzZKWExuam1oWk82dVBHbW9yS3JmdklqOVJ1YllxeGE0OUJFaVpzbERZQzk1MTIzUUFkNA"
+    },
+    {
+     "name": "TheEnergyMag",
+     "published_at": "2026-10-27T11:04:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGRKLXlFamJiZ0J0ZGJjWXBOQ0V4ajVCYWZRR0xaenB2ZFRhVE9ZTWdKQ1NHa0hQRVVYdG9FaXY3ZlhyRDZaWjRUemNXRmJzQVdfMTBHSjVFY1VfNXE0T3Y4aHIxMEtjUUFjVGFzS1hCaHY4dW5QU2YtZlY4d1d0QkxwbFh5a2pEVjNFSGVB"
     }
    ],
    "category": "其他",
@@ -6496,60 +6546,6 @@
    "zh_summary": "英伟达下调Vera Rubin显存与互连带宽指标",
    "title_zh": "英伟达下调Vera Rubin显存与互连带宽指标",
    "sentiment": 0
-  },
-  {
-   "id": "0ea5ce90aaca",
-   "title": "SWI Compute Debuts With Plans for NVIDIA AI Factories Across Europe - Unite.AI",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTDgyM25renp5MUFaZzR6N0RCbG9oSVY0NkhLVEgwbWVPaF81SDgxZkphbHYxNkZUaE1ha1lSRnFjdXIycjNsS2pUM1llQTRPMkxzUGxwbmR2MmRJMjVJZ3haWWZCdkJrcWNsc3p6TlZ5dEFYNVphZ0U5UmVYV1R3YWVUZE1uU2VONjRKS3NFZDFDUHM",
-   "source": "Unite.AI",
-   "published_at": "2026-10-26T08:10:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Unite.AI",
-     "published_at": "2026-10-26T08:10:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTDgyM25renp5MUFaZzR6N0RCbG9oSVY0NkhLVEgwbWVPaF81SDgxZkphbHYxNkZUaE1ha1lSRnFjdXIycjNsS2pUM1llQTRPMkxzUGxwbmR2MmRJMjVJZ3haWWZCdkJrcWNsc3p6TlZ5dEFYNVphZ0U5UmVYV1R3YWVUZE1uU2VONjRKS3NFZDFDUHM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "SWI Compute计划在欧洲建英伟达AI工厂",
-   "title_zh": "SWI Compute首次亮相，计划在欧洲建英伟达AI工厂",
-   "sentiment": 1
-  },
-  {
-   "id": "b273ebdd3d95",
-   "title": "英伟达为开发者更新路径追踪工具：性能提升20%，支持Windows on Arm - Sohu",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1pkUkpnenJQaVVIUWFNRDZlWUFKeTlveE5Rc3NyblJLdlRYLVV6Ql9sZUc1b2lVVmxjUVI5VXo5bWFPUmVySENMZ29pVWc5Tm1vT3A2UzAxQ0VGZG5USlRRV0l1aHRlSFNTTDduQ3VjR1lTZW43Nm9VZ0ZuS3lRVUJvTHFMb2lu",
-   "source": "Sohu",
-   "published_at": "2026-10-26T08:08:54+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-26T08:08:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1pkUkpnenJQaVVIUWFNRDZlWUFKeTlveE5Rc3NyblJLdlRYLVV6Ql9sZUc1b2lVVmxjUVI5VXo5bWFPUmVySENMZ29pVWc5Tm1vT3A2UzAxQ0VGZG5USlRRV0l1aHRlSFNTTDduQ3VjR1lTZW43Nm9VZ0ZuS3lRVUJvTHFMb2lu"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-26T08:08:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1pkUkpnenJQaVVIUWFNRDZlWUFKeTlveE5Rc3NyblJLdlRYLVV6Ql9sZUc1b2lVVmxjUVI5VXo5bWFPUmVySENMZ29pVWc5Tm1vT3A2UzAxQ0VGZG5USlRRV0l1aHRlSFNTTDduQ3VjR1lTZW43Nm9VZ0ZuS3lRVUJvTHFMb2lu"
-    },
-    {
-     "name": "光通信Pro",
-     "published_at": "2026-10-26T08:48:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VN1ZTS3I4ME02TklDeWl4Z1NIWXA0SUF1ZVp6ajB1WFVOR3ZwVGg4MXJPVlVOQ1JvWUdySjk5SFEtU3ExSVg3bl91OGlFZTZBV2h6R2VYSQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达更新路径追踪工具性能提升20%",
-   "title_zh": "英伟达为开发者更新路径追踪工具：性能提升20%，支持Windows on Arm",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.75,
-    "window_h": 2.0
-   }
   }
  ]
 }
