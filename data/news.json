@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T13:36:28.401787+00:00",
+ "updated_at": "2026-10-27T13:51:32.229885+00:00",
  "market": {
-  "price": 217.81,
-  "change_pct": 0.84,
+  "price": 216.22,
+  "change_pct": 0.1,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 21
   },
   "day_sentiment": {
-   "avg": 0.63,
-   "count": 121
+   "avg": 0.62,
+   "count": 125
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 71% 分位"
+     "note": "现价处于52周区间 69% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +44.6%"
+     "note": "目标价中位数 $315（17家），隐含空间 +45.7%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.63（121条已评分）"
+     "note": "今日新闻情绪 +0.62（125条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.81 vs 20日均线 $224.43"
+     "note": "现价 $216.22 vs 20日均线 $224.36"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 71,
+   "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 44.6,
-   "ma20": 224.43,
-   "as_of": "2026-10-27T13:36:28.381326+00:00"
+   "implied_upside_pct": 45.7,
+   "ma20": 224.36,
+   "as_of": "2026-10-27T13:51:32.212994+00:00"
   },
-  "pe_ttm": 27.7,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.6%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.5,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "b1e78ab4ac80",
+   "title": "英伟达与Meta扩大Muse系列模型合作 后者将扩大部署Vera Rubin - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DZjBoQmRrS2Jya3RqYXZJN25jbFd5eHJfU19nTFlPRmFNRDJXQVN5MGN2a2tGVnN2R1pQNW1mQkhIR1Y1SlpiaWVhNldoWWhnRzlETGp6cENkLUdsZGhOSUN3",
+   "source": "观点网",
+   "published_at": "2026-10-27T13:31:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-27T13:31:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DZjBoQmRrS2Jya3RqYXZJN25jbFd5eHJfU19nTFlPRmFNRDJXQVN5MGN2a2tGVnN2R1pQNW1mQkhIR1Y1SlpiaWVhNldoWWhnRzlETGp6cENkLUdsZGhOSUN3"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "bdf5fa242d8b",
    "title": "Broadcom Rises 3% on DA Davidson Upgrade and $400 Target Tied to Anthropic IPO; NVIDIA and AMD Edge Higher - 24/7 Wall St.",
@@ -126,6 +143,23 @@
    "zh_summary": "Blockmate购入首台英伟达B200节点",
    "title_zh": "Blockmate购入首台英伟达B200节点，进军新云市场",
    "sentiment": 1
+  },
+  {
+   "id": "32be6691baac",
+   "title": "Nvidia Stock Leads Search For AI Infrastructure Shares Tied To Meta - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa09FWE9iVVhIcERQblM3b2VNX1ItM3NKSUVoRHZGNjBLLTR2anFXTEpUZm5JWWw1dmxEaVhlOXQ2RV9jSHFXM2stUXJyMzgyS2NESDlqaHRWUk5ZT0ZCUzhOc00wdzR4Nk9CNnZjbVhKcjJobnNHTTZ0N2pzSXhtNngzbEhGTVI0MnFvMlNfdXYycFhaVmRn",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-27T13:15:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T13:15:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa09FWE9iVVhIcERQblM3b2VNX1ItM3NKSUVoRHZGNjBLLTR2anFXTEpUZm5JWWw1dmxEaVhlOXQ2RV9jSHFXM2stUXJyMzgyS2NESDlqaHRWUk5ZT0ZCUzhOc00wdzR4Nk9CNnZjbVhKcjJobnNHTTZ0N2pzSXhtNngzbEhGTVI0MnFvMlNfdXYycFhaVmRn"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
   },
   {
    "id": "983ff8f99e02",
@@ -1195,6 +1229,23 @@
    "zh_summary": "MassMutual减持38584股英伟达",
    "title_zh": "MassMutual减持38584股英伟达股票",
    "sentiment": -1
+  },
+  {
+   "id": "86112ac158c6",
+   "title": "NVIDIA Corporation $NVDA Stock Holdings Trimmed by Silverleafe Capital Partners LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg",
+   "source": "MarketBeat",
+   "published_at": "2026-10-27T09:12:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-27T09:12:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "fdca1036e83c",
@@ -6385,6 +6436,23 @@
    "sentiment": 1
   },
   {
+   "id": "40e9ddf44d9c",
+   "title": "Apple stock rally and Nvidia sell-off tighten race for world's most valuable company - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUtWVnFMaHJBdHp5TXVOblMydXdwSFNXSm5QZWIyUFBCMkdKVVJzSXFWMl84RDlnc2RfZnhOc0UwUjVGRVBQNVlvU2JCV0xXRjVnVzkwX1I4blBRUElsZDR2M2xNbXJoQ3JROFd5NktRZWhHSkpsMzBLV0w5cmpLdGdOeHRQcDQ2bXZjYkc5ZWc1QUxtQ0tGRGVhZzdUcllQZHRTODlxZXE",
+   "source": "Business Insider",
+   "published_at": "2026-10-26T10:50:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Insider",
+     "published_at": "2026-10-26T10:50:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUtWVnFMaHJBdHp5TXVOblMydXdwSFNXSm5QZWIyUFBCMkdKVVJzSXFWMl84RDlnc2RfZnhOc0UwUjVGRVBQNVlvU2JCV0xXRjVnVzkwX1I4blBRUElsZDR2M2xNbXJoQ3JROFd5NktRZWhHSkpsMzBLV0w5cmpLdGdOeHRQcDQ2bXZjYkc5ZWc1QUxtQ0tGRGVhZzdUcllQZHRTODlxZXE"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
    "id": "851780f02729",
    "title": "清华、英伟达等开了个新榜，38个AI实时视频模型露短板 - 36氪",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44ZUk3NnhIdzIzWm5kd3V2VWlORVpZaEFfa1JJMDJta09qb2Y3by1LTnJxZFlUdThwM2JkMUp6b3hnTnJrcTdncEc0RGdWZw",
@@ -6542,91 +6610,6 @@
     "pct": 0.75,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "55b3a55f0343",
-   "title": "富士康在英伟达DGX超级计算平台上部署人工智能工厂。 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTUUVnVXl0YWUtTGoxR0FtdU9UaDVVMHRWdXc3dWNIeFNHdy1wcUNoRVBhNnY5QjRIT1I5N0JpMHpHNHhNYzdkTkJPcw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-26T10:04:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-26T10:04:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTUUVnVXl0YWUtTGoxR0FtdU9UaDVVMHRWdXc3dWNIeFNHdy1wcUNoRVBhNnY5QjRIT1I5N0JpMHpHNHhNYzdkTkJPcw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "富士康在英伟达DGX平台部署AI工厂",
-   "title_zh": "富士康在英伟达DGX超级计算平台上部署人工智能工厂。 - 手机新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "f043dab4c760",
-   "title": "Weekly Radar 007: NVIDIA Moves to Secure Substrate Capacity - TrendForce",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UcnBVY19vYXJjYUJmLW56N2hWYU00V19NTHNPVVY2NHpweFRRZVpHSEhVaGllbDAwbzJtRFk4X3RjUTRzQXpkQVE4YWVQMmZ3SFRjZC0wYUkzczYwQ013",
-   "source": "TrendForce",
-   "published_at": "2026-10-26T10:01:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TrendForce",
-     "published_at": "2026-10-26T10:01:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UcnBVY19vYXJjYUJmLW56N2hWYU00V19NTHNPVVY2NHpweFRRZVpHSEhVaGllbDAwbzJtRFk4X3RjUTRzQXpkQVE4YWVQMmZ3SFRjZC0wYUkzczYwQ013"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达着手保障基板产能供应",
-   "title_zh": "TrendForce周报：英伟达着手保障基板产能",
-   "sentiment": 1
-  },
-  {
-   "id": "502cd1bb6ca2",
-   "title": "Nvidia's sales and marketing leadership is seeing a changing of the guard — and new faces are gaining influence - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWxYaWtYNkFJOENxNHpLTEtqdlozV3hTdnBHNXZGdUhvMjIwbkp0NUhZTXlNQkh3anZHRTRKWlBwOHBzMVVuRVc1UC03aXBmWWtXZDlCWmdXUGZHcldLV2NnOFAycUNHbnVHSExfckFXS1NjVHRVTWJuWUtUdU85Um0tT25tcE45WWZMRDRBWVhycGhMamtJOG9OS0gzQQ",
-   "source": "Business Insider",
-   "published_at": "2026-10-26T10:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Business Insider",
-     "published_at": "2026-10-26T10:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWxYaWtYNkFJOENxNHpLTEtqdlozV3hTdnBHNXZGdUhvMjIwbkp0NUhZTXlNQkh3anZHRTRKWlBwOHBzMVVuRVc1UC03aXBmWWtXZDlCWmdXUGZHcldLV2NnOFAycUNHbnVHSExfckFXS1NjVHRVTWJuWUtUdU85Um0tT25tcE45WWZMRDRBWVhycGhMamtJOG9OS0gzQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达销售与营销领导层换血",
-   "title_zh": "英伟达销售与营销领导层换血，新面孔影响力上升",
-   "sentiment": 0
-  },
-  {
-   "id": "95832351d0f6",
-   "title": "每块GPU一年2000美元：黄仁勋想让英伟达变成“收订阅费的AI水电公司” - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WSlNLZ0cyYVkxb2NETTNDak9QN2RpQXV5Z0FVT3lINkx5TjRhd1h3YkVpNV9LSlpueWtKTFNHbTM1V3p1dTZqMk1QRmRDeFYwaDF1UE82aVhtN004cFQxNkNCVVNEQXN0MldvYUdKaDhuY21aakpnb1BEMFY",
-   "source": "新浪财经",
-   "published_at": "2026-10-26T09:59:57+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-26T09:59:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WSlNLZ0cyYVkxb2NETTNDak9QN2RpQXV5Z0FVT3lINkx5TjRhd1h3YkVpNV9LSlpueWtKTFNHbTM1V3p1dTZqMk1QRmRDeFYwaDF1UE82aVhtN004cFQxNkNCVVNEQXN0MldvYUdKaDhuY21aakpnb1BEMFY"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-26T10:01:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkpQVnR1c1VMR2RVcDNNbnhDcnFzZUpQdmF3QWRrYUpNdWo4Yl9mdWNoMjZWMWVYNDhHWjBCT05HWjNEOEFjMGJtRXl1NEpDSG5LQVBvRGlpbzV0ZTlMSHlyZlBJR2k1S0hyTHVpNzA1bGg4eVdVTUtvZkstcVpQeUlsVUJPem5s"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "黄仁勋拟按订阅收费每GPU年2000美元",
-   "title_zh": "每块GPU年收2000美元，英伟达变AI水电公司",
-   "sentiment": 0
   }
  ]
 }
