@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T14:21:33.221030+00:00",
+ "updated_at": "2026-10-27T14:36:32.699155+00:00",
  "market": {
-  "price": 216.19,
-  "change_pct": 0.09,
+  "price": 217.28,
+  "change_pct": 0.59,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 21
   },
   "day_sentiment": {
-   "avg": 0.63,
-   "count": 128
+   "avg": 0.62,
+   "count": 131
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 69% 分位"
+     "note": "现价处于52周区间 70% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +45.7%"
+     "note": "目标价中位数 $315（17家），隐含空间 +45.0%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.63（128条已评分）"
+     "note": "今日新闻情绪 +0.62（131条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.19 vs 20日均线 $224.35"
+     "note": "现价 $217.28 vs 20日均线 $224.40"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 69,
+   "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 45.7,
-   "ma20": 224.35,
-   "as_of": "2026-10-27T14:21:33.212122+00:00"
+   "implied_upside_pct": 45.0,
+   "ma20": 224.4,
+   "as_of": "2026-10-27T14:36:32.684241+00:00"
   },
-  "pe_ttm": 27.5,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.7%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.6,
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,13 +62,86 @@
  },
  "stories": [
   {
-   "id": "bdeaee5d8192",
-   "title": "Nvidia and AMD Take $4B Chunk of Meta's Equity. They Are Fighting Custom Chips. -- Barrons.com - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnpBZnNxTGVNNHRiTmpWLTZVZHZNOGVnYklmMXhsZE1JNHhVNldxdXNVa0pHeXFETnRuNjBOcFdsUDM4bEtkSUpWYnZFZGdTT0FRSUd6SG5Pb1FIWUYxM0s1ZHhjN2V3X0JjUVFPZ0UyX3kwMzJybm9ocTFlQ2ZmRFVaeXJCN0ZGSmdVTWJoN0F5bFU",
-   "source": "Moomoo",
-   "published_at": "2026-10-27T14:10:50+00:00",
+   "id": "19ed3d994a8a",
+   "title": "TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity — equipment lead times stretch to eight months - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNeC1ucXhWbmlMd2ZsUDZzZ1FxUTBkTXhUTUphc0FtbVo3aFo2WkpsQ2pTZ3V1eGNnVkNhTzE4bXlGcmJFd3FDLVc3bXRON0huRVJoSjBianhnOHhxLXh1cmJSeUl1Vk9uamoyYjhmNzEyVkJCeGotdW5HSW55WnVXUl9XMzcxOFEwMUdDblQwN1hYMHVEWS1oR0xqOEVwUGtPdlpuNlJ5SlVMSjk5ZVdLWG9kb05jU2lvNGdlZTdVc1JHVlFPX19wM3FteTh5NmxZUkRILVpUVW54eVdoVk44eTk1X3ZBNVhIRTBZU0RWdi1wSDEtX1VQTjJzcllzQkN0OTJOMFFBTlZlWE9DR0R0aThKWDNrNVBTeklpZ0s4WnNoNEZtNHRwb0tjSmFaOG5ZXzVRTTdfckNwc1M5NkUyTFB0NjdycW9sNVpVaw",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-27T14:30:00+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-27T14:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNeC1ucXhWbmlMd2ZsUDZzZ1FxUTBkTXhUTUphc0FtbVo3aFo2WkpsQ2pTZ3V1eGNnVkNhTzE4bXlGcmJFd3FDLVc3bXRON0huRVJoSjBianhnOHhxLXh1cmJSeUl1Vk9uamoyYjhmNzEyVkJCeGotdW5HSW55WnVXUl9XMzcxOFEwMUdDblQwN1hYMHVEWS1oR0xqOEVwUGtPdlpuNlJ5SlVMSjk5ZVdLWG9kb05jU2lvNGdlZTdVc1JHVlFPX19wM3FteTh5NmxZUkRILVpUVW54eVdoVk44eTk1X3ZBNVhIRTBZU0RWdi1wSDEtX1VQTjJzcllzQkN0OTJOMFFBTlZlWE9DR0R0aThKWDNrNVBTeklpZ0s4WnNoNEZtNHRwb0tjSmFaOG5ZXzVRTTdfckNwc1M5NkUyTFB0NjdycW9sNVpVaw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "dc7413e3670b",
+   "title": "Nvidia to invest $3bn in Meta’s $97.5bn equity offering, as social media giant plans to deploy more Nvidia hardware - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMGJlVXRqQjlRbUdIbGM3UllyVWRvVEFVcmtSSjVFRXplVmNad0dnVlRwU1l2WnRvMEtVazJTVjhoTm1sMG5EczJQcTRxallJRjZwNE4xZjRnWC1uTm9tcnRiZkI0R1FtVWl1eVJtRm9UbXljc0hJdEhJQzVvRDBBclYtWFB2VEtRYmh5QzJ4Vzg5ZHA0NlE4bmF4SmxMRmdjWk0zb1N0LVVyTHF5eUdnN0dNSE5DaGVoa2ZvZTB1Ym1LdU9rOEhUMU9GZUZNQllwc0tldHhzWGhEOERXUndqblA5RGNtNFl3cGc",
+   "source": "Data Center Dynamics",
+   "published_at": "2026-10-27T14:27:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Dynamics",
+     "published_at": "2026-10-27T14:27:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMGJlVXRqQjlRbUdIbGM3UllyVWRvVEFVcmtSSjVFRXplVmNad0dnVlRwU1l2WnRvMEtVazJTVjhoTm1sMG5EczJQcTRxallJRjZwNE4xZjRnWC1uTm9tcnRiZkI0R1FtVWl1eVJtRm9UbXljc0hJdEhJQzVvRDBBclYtWFB2VEtRYmh5QzJ4Vzg5ZHA0NlE4bmF4SmxMRmdjWk0zb1N0LVVyTHF5eUdnN0dNSE5DaGVoa2ZvZTB1Ym1LdU9rOEhUMU9GZUZNQllwc0tldHhzWGhEOERXUndqblA5RGNtNFl3cGc"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "fc5c08b6aefb",
+   "title": "继英伟达30亿美元之后：AMD也宣布向Meta投资10亿美元深化AI基础设施合作 - 手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MLUtIQVRmc19QWVNrQmEzLXdIeWt2U1VqM0RQRzQtX05FRHRTa3QwRkdBNExwVHZqYjVVSFA1UlYxWFVUd3RXbURDdW9nZ0ZiaXF5TGxfcXN4aGtmdVkzZXNJcW0xY3RJck9ObTFlNU0yNHNtTWI0WFlwYXBPZw",
+   "source": "手机新浪网",
+   "published_at": "2026-10-27T14:21:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-27T14:21:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MLUtIQVRmc19QWVNrQmEzLXdIeWt2U1VqM0RQRzQtX05FRHRTa3QwRkdBNExwVHZqYjVVSFA1UlYxWFVUd3RXbURDdW9nZ0ZiaXF5TGxfcXN4aGtmdVkzZXNJcW0xY3RJck9ObTFlNU0yNHNtTWI0WFlwYXBPZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "6311e5b71f40",
+   "title": "NVIDIA Bets $3 Billion On Meta As Muse AI Moves To Vera Rubin - HotHardware",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUxvdlpMY290ZEJaV05CUVJFdHFib1RlanIxeTA5RXZNcXNnSklOMWJ3ZXdZMW1tcFpLMWpVc2IxNnNZWDl1SlZXQjBJb1daeGV5WDJ5elVLQkx5TWwxeEtNbEE1VEJ6NXpXWUJfSHR4Y0tjYlNQZjhiVFlDVDlTejFBQVVlenc",
+   "source": "HotHardware",
+   "published_at": "2026-10-27T14:21:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "HotHardware",
+     "published_at": "2026-10-27T14:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUxvdlpMY290ZEJaV05CUVJFdHFib1RlanIxeTA5RXZNcXNnSklOMWJ3ZXdZMW1tcFpLMWpVc2IxNnNZWDl1SlZXQjBJb1daeGV5WDJ5elVLQkx5TWwxeEtNbEE1VEJ6NXpXWUJfSHR4Y0tjYlNQZjhiVFlDVDlTejFBQVVlenc"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "0305791081ee",
+   "title": "Nvidia and AMD Take $4B Chunk of Meta’s Equity. They Are Fighting Custom Chips. - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWRsM3hhTFdOVTR4S2dZWkdCM2lLdUNvajFzRTRIN0wyQXRKUkdYd3hJWlNPQzEtYl8xa0paU3VSNzJUbnI4eE5fdzRGMktOUWE2cFpYMVZ5MEtPaWxuWU9uMUVaMko5dklsM0RmYWM0TGRzejRyRkl5UWt5SHJxag",
+   "source": "Barron's",
+   "published_at": "2026-10-27T14:05:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-27T14:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWRsM3hhTFdOVTR4S2dZWkdCM2lLdUNvajFzRTRIN0wyQXRKUkdYd3hJWlNPQzEtYl8xa0paU3VSNzJUbnI4eE5fdzRGMktOUWE2cFpYMVZ5MEtPaWxuWU9uMUVaMko5dklsM0RmYWM0TGRzejRyRkl5UWt5SHJxag"
+    },
     {
      "name": "Moomoo",
      "published_at": "2026-10-27T14:10:50+00:00",
@@ -120,6 +193,23 @@
    "zh_summary": "Wayve与Stellantis英伟达合作自动驾驶",
    "title_zh": "Wayve、Stellantis与英伟达在法国合作自动驾驶汽车",
    "sentiment": 1
+  },
+  {
+   "id": "74c03874ed59",
+   "title": "Meta gets $3 billion from Nvidia as they team up to make Muse AI faster and cheaper to run - TechSpot",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaDk3YU9wLXVDS1BrcHZrYU5pckRoZEhvUXlGbEl2YnZ5LWRuek1fTDBuaE1ZTGNvajlSM0lVQTh6by16QU91SWNZSndTUUtEbFZqRmJVcHU3ZWNaWkYwNTVEM0RHVnZHM1JfNmhEX001UVBkRTY3OFFEWWxpaURQM0l2QTRkdGxyZExGTEJkZw",
+   "source": "TechSpot",
+   "published_at": "2026-10-27T13:41:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechSpot",
+     "published_at": "2026-10-27T13:41:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaDk3YU9wLXVDS1BrcHZrYU5pckRoZEhvUXlGbEl2YnZ5LWRuek1fTDBuaE1ZTGNvajlSM0lVQTh6by16QU91SWNZSndTUUtEbFZqRmJVcHU3ZWNaWkYwNTVEM0RHVnZHM1JfNmhEX001UVBkRTY3OFFEWWxpaURQM0l2QTRkdGxyZExGTEJkZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "b1e78ab4ac80",
@@ -6502,111 +6592,6 @@
    "session": "盘前",
    "zh_summary": "英伟达引领人形机器人AI加速器市场",
    "title_zh": "Counterpoint：英伟达引领人形机器人AI加速器市场",
-   "sentiment": 1
-  },
-  {
-   "id": "40e9ddf44d9c",
-   "title": "Apple stock rally and Nvidia sell-off tighten race for world's most valuable company - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUtWVnFMaHJBdHp5TXVOblMydXdwSFNXSm5QZWIyUFBCMkdKVVJzSXFWMl84RDlnc2RfZnhOc0UwUjVGRVBQNVlvU2JCV0xXRjVnVzkwX1I4blBRUElsZDR2M2xNbXJoQ3JROFd5NktRZWhHSkpsMzBLV0w5cmpLdGdOeHRQcDQ2bXZjYkc5ZWc1QUxtQ0tGRGVhZzdUcllQZHRTODlxZXE",
-   "source": "Business Insider",
-   "published_at": "2026-10-26T10:50:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Business Insider",
-     "published_at": "2026-10-26T10:50:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUtWVnFMaHJBdHp5TXVOblMydXdwSFNXSm5QZWIyUFBCMkdKVVJzSXFWMl84RDlnc2RfZnhOc0UwUjVGRVBQNVlvU2JCV0xXRjVnVzkwX1I4blBRUElsZDR2M2xNbXJoQ3JROFd5NktRZWhHSkpsMzBLV0w5cmpLdGdOeHRQcDQ2bXZjYkc5ZWc1QUxtQ0tGRGVhZzdUcllQZHRTODlxZXE"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "苹果上涨、英伟达下跌",
-   "title_zh": "苹果上涨英伟达下跌，市值之争趋紧",
-   "sentiment": -1
-  },
-  {
-   "id": "851780f02729",
-   "title": "清华、英伟达等开了个新榜，38个AI实时视频模型露短板 - 36氪",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44ZUk3NnhIdzIzWm5kd3V2VWlORVpZaEFfa1JJMDJta09qb2Y3by1LTnJxZFlUdThwM2JkMUp6b3hnTnJrcTdncEc0RGdWZw",
-   "source": "36氪",
-   "published_at": "2026-10-26T10:46:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "36氪",
-     "published_at": "2026-10-26T10:46:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44ZUk3NnhIdzIzWm5kd3V2VWlORVpZaEFfa1JJMDJta09qb2Y3by1LTnJxZFlUdThwM2JkMUp6b3hnTnJrcTdncEc0RGdWZw"
-    },
-    {
-     "name": "https://www.me.news/",
-     "published_at": "2026-10-27T02:24:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pMjNWVXZqcHBEYUE0bUtmMmljZGpwb3l6MXplVjNpYnF5VUxYZUZVaHF0RUNQWjJ0Qm93R3M1Wmp1dXpFZ0sxWGRnOA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "清华等新榜揭示AI视频模型短板",
-   "title_zh": "清华、英伟达等发布新榜单，38个AI实时视频模型存短板",
-   "sentiment": 0
-  },
-  {
-   "id": "48faff0c774a",
-   "title": "As Michael Dell thanks Jensen Huang ‘with a bunch of history’, Nvidia CEO calls him pride of … - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUkxNc2s4dmQtTEM0WGlHbjQ5WFpQdTU4dEFQVVpYbnhrWE9Ea2lyZkh1RS12d2F3eDVqNFdKLXptUXRZV2JtYlJ4ekg5aHFYd0psLUQ4cUwxQnJxc3pUMzFkYWJsMkI3UTBUdEtiR3NrYlNfdTYyUFJkR3Jqb3NOZ0llNk10ajY3ZHo4ZVo0THNEN19UMUVmT3hrZ2swUjZmbnZPbWNOS0JGU3FIc2NVM2ZybG5WMXc0Z050ZlNnSUU2NmhBamowZE9SVnpHVk42cm1nM1BNMXRfX09pQVRpUDgxbnBhSEhZOTlFZHNLS09JVGltUFlmRWRKUGIxZFExUEJR0gGIAkFVX3lxTE9mbGxuZ3h6cnhlOXdYUmFuWjctYlh3OVFTV2VfY0RMSjhpNjYzOHFRNFZVdFNCcnNVdG1vclRYYjF1enlDa3h0T3RhVFAtT21pa2syaEJmU1NnNi1iMVlteW9sZDB5OXdKdWR5MXlrbjRwb1VkS1BPcVNmWldwSXhlZWpDNFRkYzlCNjY5U3NEc2NnVmlUR2ZwU25VdTVXelVMX25CNF9JMWkweVBVLUdBMzdHNFc2dUZUU1BTZkxRZzdjS2llVHFFQmxZbGJmalJ0ZDRpZjVjdG9LeDVwMFR2THA2ZWFxbDRYZ0pZUWpnYmZuclh5MEUyaUItYUNuMms0anBiYl9ubQ",
-   "source": "The Times of India",
-   "published_at": "2026-10-26T10:37:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Times of India",
-     "published_at": "2026-10-26T10:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUkxNc2s4dmQtTEM0WGlHbjQ5WFpQdTU4dEFQVVpYbnhrWE9Ea2lyZkh1RS12d2F3eDVqNFdKLXptUXRZV2JtYlJ4ekg5aHFYd0psLUQ4cUwxQnJxc3pUMzFkYWJsMkI3UTBUdEtiR3NrYlNfdTYyUFJkR3Jqb3NOZ0llNk10ajY3ZHo4ZVo0THNEN19UMUVmT3hrZ2swUjZmbnZPbWNOS0JGU3FIc2NVM2ZybG5WMXc0Z050ZlNnSUU2NmhBamowZE9SVnpHVk42cm1nM1BNMXRfX09pQVRpUDgxbnBhSEhZOTlFZHNLS09JVGltUFlmRWRKUGIxZFExUEJR0gGIAkFVX3lxTE9mbGxuZ3h6cnhlOXdYUmFuWjctYlh3OVFTV2VfY0RMSjhpNjYzOHFRNFZVdFNCcnNVdG1vclRYYjF1enlDa3h0T3RhVFAtT21pa2syaEJmU1NnNi1iMVlteW9sZDB5OXdKdWR5MXlrbjRwb1VkS1BPcVNmWldwSXhlZWpDNFRkYzlCNjY5U3NEc2NnVmlUR2ZwU25VdTVXelVMX25CNF9JMWkweVBVLUdBMzdHNFc2dUZUU1BTZkxRZzdjS2llVHFFQmxZbGJmalJ0ZDRpZjVjdG9LeDVwMFR2THA2ZWFxbDRYZ0pZUWpnYmZuclh5MEUyaUItYUNuMms0anBiYl9ubQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "迈克尔·戴尔致谢黄仁勋，称其为骄傲",
-   "title_zh": "迈克尔·戴尔致谢黄仁勋，称其为骄傲",
-   "sentiment": 0
-  },
-  {
-   "id": "fee84cf46cee",
-   "title": "期权扫描| 苹果市值一度反超英伟达！期权成交放量至150万张；特斯拉热门Put单押注跌穿370美元港美股资讯 - 华盛通",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00VGZwT25CNDBjNDlkaGpPSldXUVd0VlJ4R2lNalVFemtvbkM1RE9admJ1ejdmWW5vYWlVNUs0dTlrMlhSTEFLUnlQUWdYYXdKMGhMaGlCVG5mU2p1QXZ5czB3",
-   "source": "华盛通",
-   "published_at": "2026-10-26T10:37:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华盛通",
-     "published_at": "2026-10-26T10:37:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00VGZwT25CNDBjNDlkaGpPSldXUVd0VlJ4R2lNalVFemtvbkM1RE9admJ1ejdmWW5vYWlVNUs0dTlrMlhSTEFLUnlQUWdYYXdKMGhMaGlCVG5mU2p1QXZ5czB3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "苹果市值一度反超英伟达",
-   "title_zh": "苹果市值一度反超英伟达，期权成交150万张",
-   "sentiment": -1
-  },
-  {
-   "id": "25c971de7a45",
-   "title": "The bull case for Nvidia as most S&P 500 stocks slide - TheStreet",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWtBOFBGa0ZEWGRjeXM0aTJQcHRzNjBTanJGeTZybHY0ZmRPVzF5RFk1Q3J6Ulk0S1M0eHVHNmdRT0xkWEU4MFdXVF9hSTdxZjl3R1RwdUdLYmZCN2FpN003bjhpdGJocmN3NHdvY0hlbXpwTS1HbElscG1sUDF3RXFnVXZfWGkxd3lMbA",
-   "source": "TheStreet",
-   "published_at": "2026-10-26T10:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TheStreet",
-     "published_at": "2026-10-26T10:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWtBOFBGa0ZEWGRjeXM0aTJQcHRzNjBTanJGeTZybHY0ZmRPVzF5RFk1Q3J6Ulk0S1M0eHVHNmdRT0xkWEU4MFdXVF9hSTdxZjl3R1RwdUdLYmZCN2FpN003bjhpdGJocmN3NHdvY0hlbXpwTS1HbElscG1sUDF3RXFnVXZfWGkxd3lMbA"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "标普多数股下跌之际看多英伟达",
-   "title_zh": "标普多数股票下跌之际英伟达的看涨理由",
    "sentiment": 1
   }
  ]
