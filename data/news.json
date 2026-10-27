@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T18:21:28.976569+00:00",
+ "updated_at": "2026-10-27T18:36:28.260413+00:00",
  "market": {
-  "price": 217.79,
-  "change_pct": 0.83,
+  "price": 217.54,
+  "change_pct": 0.72,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 21
   },
   "day_sentiment": {
-   "avg": 0.59,
-   "count": 192
+   "avg": 0.58,
+   "count": 195
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +44.6%"
+     "note": "目标价中位数 $315（17家），隐含空间 +44.8%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.59（192条已评分）"
+     "note": "今日新闻情绪 +0.58（195条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.79 vs 20日均线 $224.43"
+     "note": "现价 $217.54 vs 20日均线 $224.42"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 44.6,
-   "ma20": 224.43,
-   "as_of": "2026-10-27T18:21:28.963403+00:00"
+   "implied_upside_pct": 44.8,
+   "ma20": 224.42,
+   "as_of": "2026-10-27T18:36:28.250144+00:00"
   },
-  "pe_ttm": 27.7,
+  "pe_ttm": 27.6,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.6%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,24 +62,55 @@
  },
  "stories": [
   {
+   "id": "82e64dd4d4d8",
+   "title": "Nvidia Makes Whopping $3 Billion Bet on Meta - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTk0YXpaZmRKSGwwOHU2OEtNOG5MaXFUWDNuVExodFE4dU9CWFBoMTJtcnNkQ2VBRUNLcC1mQXVxVV9VVXp3MG1rTjNnVXdlbFlzb2hXeUtIVjVhX3NxRGt4dmVJem5USlJSMWVCd0UtWWdMVmx0M2pLazZScUttQmhXTGJPdU1KRXc",
+   "source": "GuruFocus",
+   "published_at": "2026-10-27T18:33:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-27T18:33:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTk0YXpaZmRKSGwwOHU2OEtNOG5MaXFUWDNuVExodFE4dU9CWFBoMTJtcnNkQ2VBRUNLcC1mQXVxVV9VVXp3MG1rTjNnVXdlbFlzb2hXeUtIVjVhX3NxRGt4dmVJem5USlJSMWVCd0UtWWdMVmx0M2pLazZScUttQmhXTGJPdU1KRXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "d2663b8005f5",
    "title": "Nvidia Just Announced Plans to Pour Billions Into Meta's Muse - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQklZdXZGd3E4dUlIenhZRDQzRXNXQmlBcW03ZU9qcmlBdmRSakY5THJCVUtxTGpSUlVTSld1WjRiOVEwQ3ZTUFRYeUJNQkt0RlhoN3hCY3BrNHRSY3VXRGhsYVoyRThBTlM1OTlEbEU1NDY5NDZ3WXM5dUpTVkdPSUlVWFFkYjF5ODRNS0RRbVJZajJYX1JPRDN6M1dHSEhMR2ZJT0h3",
    "source": "The Motley Fool",
    "published_at": "2026-10-27T17:51:48+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-27T17:51:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQklZdXZGd3E4dUlIenhZRDQzRXNXQmlBcW03ZU9qcmlBdmRSakY5THJCVUtxTGpSUlVTSld1WjRiOVEwQ3ZTUFRYeUJNQkt0RlhoN3hCY3BrNHRSY3VXRGhsYVoyRThBTlM1OTlEbEU1NDY5NDZ3WXM5dUpTVkdPSUlVWFFkYjF5ODRNS0RRbVJZajJYX1JPRDN6M1dHSEhMR2ZJT0h3"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T18:08:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcnBDUk5TZnFUMDl2S0QzQ2ZfaHo1YmFsN2VWNXpVNWw1NV9uT2dWUHdzakRtbXF3VjgzdVgwVW1xeTl0Y0lEbnI3ZlpwbjVUcWkwRnJsd2xsXzJzZ1h2Rkp6RHB3R0V5ak0xWVAwLWRObFRTRUJFV05xekZWYVU1UVpTUGdSaGtmMnZnVVB6MERDQTFqaERfalJmVUU"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-27T18:11:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcFdWT0RVQmsxY1U5UVUyQ21GdFkzX1pBbEVMZHVjRjUwazl0MVlnNV8zQ2VJMUtZMFhRdHQtbDdmaDlxb0t4QUVkenFiMkk4VkxsUnF5QjlVVmRRQ0M4ZXpLbGpuUkVJdWtzbmx4TXBBbGlVNkhhTjMwWldoTF9NeWNLZEFvbU51OUl5VS1GNXdrdUt5UGdRMVhyOXEwYVV0dktLMFZqQllsRGhfMHVlV3kxUzY1Wno5MTFObzc5UndpaTRMM2F3ZWQ4N0U0ek5lak0yY2p3RF9FZDBHWEE"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达计划向Meta的Muse投资数十亿美元",
    "title_zh": "英伟达宣布计划向Meta的Muse投资数十亿美元",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.2,
+    "window_h": 0.7
+   }
   },
   {
    "id": "02946fa38aff",
@@ -100,6 +131,23 @@
    "zh_summary": "英伟达发布热修复驱动修复RTX 50黑屏",
    "title_zh": "英伟达发布GeForce 621.12热修复驱动，修复RTX 50视频冻结和黑屏",
    "sentiment": 0
+  },
+  {
+   "id": "a5305a8e01fc",
+   "title": "甲骨文将英伟达Vera CPU、英特尔Diamond Rapids和Cerebras AI推理添加到云基础设施 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUzZBRDZiRXE1NEZ2VGZjVU5Ca0MwRkFKcVQ0RVVGUXBVQThENW41SEd2ZDlNVjJUOUVmcVZfZUdjamI5dklmZ1JBNXFnTmRqRjhNRkZIVUJuVC0xTkNSMUFDaTlKcUxjQll4Y2hlY1JzVDJOcDF4SGs4VHlpRmpaTXRqLWRzclQxQ0dLX1BCXzEzbl9LVjdMd2FOZHVHbDFiUEE",
+   "source": "富途牛牛",
+   "published_at": "2026-10-27T17:43:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-27T17:43:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUzZBRDZiRXE1NEZ2VGZjVU5Ca0MwRkFKcVQ0RVVGUXBVQThENW41SEd2ZDlNVjJUOUVmcVZfZUdjamI5dklmZ1JBNXFnTmRqRjhNRkZIVUJuVC0xTkNSMUFDaTlKcUxjQll4Y2hlY1JzVDJOcDF4SGs4VHlpRmpaTXRqLWRzclQxQ0dLX1BCXzEzbl9LVjdMd2FOZHVHbDFiUEE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "44c4edcabeaf",
@@ -2683,26 +2731,6 @@
    "session": "盘前",
    "zh_summary": "MassMutual减持38584股英伟达",
    "title_zh": "MassMutual减持38584股英伟达股票",
-   "sentiment": -1
-  },
-  {
-   "id": "86112ac158c6",
-   "title": "NVIDIA Corporation $NVDA Stock Holdings Trimmed by Silverleafe Capital Partners LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg",
-   "source": "MarketBeat",
-   "published_at": "2026-10-27T09:12:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-27T09:12:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Silverleafe减持英伟达持仓",
-   "title_zh": "Silverleafe减持英伟达股票持仓",
    "sentiment": -1
   },
   {
@@ -6623,31 +6651,6 @@
    "session": "盘中",
    "zh_summary": "英伟达拟每GPU年收2000美元软件费",
    "title_zh": "英伟达AI芯片已创收数十亿，黄仁勋拟每GPU年收2000美元软件费",
-   "sentiment": 1
-  },
-  {
-   "id": "009c1a4700c1",
-   "title": "Prediction: This Could Trigger NVDA’s Next Breakout by 2027 - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlVNeGxTREFDYlY2bEwtNjZKSGlma1FMWWNsNmtpWHhScHlCQXZQYzZrdlVtbjFvSFEyY2pPVURJZzNtSWl1T1dqYXdkcFF6Q1lBcjVZQ1R4b1ZseEdfeVRmODBQQ0lVaUFvSWpfd1VLRDBlQmVURVVFTEVxWEJMa1Jfb2lSNnhYRm1GcFJ4VW9oTk1hdWZYRkZTXzlueWpW",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-26T14:30:25+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T14:30:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlVNeGxTREFDYlY2bEwtNjZKSGlma1FMWWNsNmtpWHhScHlCQXZQYzZrdlVtbjFvSFEyY2pPVURJZzNtSWl1T1dqYXdkcFF6Q1lBcjVZQ1R4b1ZseEdfeVRmODBQQ0lVaUFvSWpfd1VLRDBlQmVURVVFTEVxWEJMa1Jfb2lSNnhYRm1GcFJ4VW9oTk1hdWZYRkZTXzlueWpW"
-    },
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-26T14:45:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREZTS1hMYzJXdnNuUEt5QjdCQUZLSmpqU09sRDhLd05XX3Q1blhTMURVbDI2dUZnNFpsYjRobmZxMEEwdGZWVWJTS0pDM05rZFpVX1BOZnJLSF9fSU1PVUZaS1BIa3dMbkRqUEtWN1F3Yk9qZXBUVTlYdmFVWFZoR1Nld2Qwbzdyd1U3ckQ4amxqcTY0OG5BaEstUnkzNVlJUERF"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "预测称英伟达2027年前或迎来突破",
-   "title_zh": "预测：这或触发英伟达2027年前下一轮突破",
    "sentiment": 1
   }
  ]
