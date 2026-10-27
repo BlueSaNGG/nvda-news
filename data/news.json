@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T14:06:29.288470+00:00",
+ "updated_at": "2026-10-27T14:21:33.221030+00:00",
  "market": {
-  "price": 216.24,
-  "change_pct": 0.11,
+  "price": 216.19,
+  "change_pct": 0.09,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.63,
-   "count": 127
+   "count": 128
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.63（127条已评分）"
+     "note": "今日新闻情绪 +0.63（128条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.24 vs 20日均线 $224.35"
+     "note": "现价 $216.19 vs 20日均线 $224.35"
     },
     {
      "key": "分析师动向",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 45.7,
    "ma20": 224.35,
-   "as_of": "2026-10-27T14:06:29.277303+00:00"
+   "as_of": "2026-10-27T14:21:33.212122+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "bdeaee5d8192",
+   "title": "Nvidia and AMD Take $4B Chunk of Meta's Equity. They Are Fighting Custom Chips. -- Barrons.com - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnpBZnNxTGVNNHRiTmpWLTZVZHZNOGVnYklmMXhsZE1JNHhVNldxdXNVa0pHeXFETnRuNjBOcFdsUDM4bEtkSUpWYnZFZGdTT0FRSUd6SG5Pb1FIWUYxM0s1ZHhjN2V3X0JjUVFPZ0UyX3kwMzJybm9ocTFlQ2ZmRFVaeXJCN0ZGSmdVTWJoN0F5bFU",
+   "source": "Moomoo",
+   "published_at": "2026-10-27T14:10:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-27T14:10:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWnpBZnNxTGVNNHRiTmpWLTZVZHZNOGVnYklmMXhsZE1JNHhVNldxdXNVa0pHeXFETnRuNjBOcFdsUDM4bEtkSUpWYnZFZGdTT0FRSUd6SG5Pb1FIWUYxM0s1ZHhjN2V3X0JjUVFPZ0UyX3kwMzJybm9ocTFlQ2ZmRFVaeXJCN0ZGSmdVTWJoN0F5bFU"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "2a89af56a565",
+   "title": "英伟达近日创下历史新高，但其股价走势却陷入困境 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBX2t0NnBEU2lKZWxnNURPdW5DbjFrSkl2bVBhLTFDelNLTVNMU3F0MXgwYW5rZEIxbDNIY3JsUlptak9tYnl2eGsyQzlBNGgxQk5OMGRxYWQ5aWJP",
+   "source": "Moomoo",
+   "published_at": "2026-10-27T13:50:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-27T13:50:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBX2t0NnBEU2lKZWxnNURPdW5DbjFrSkl2bVBhLTFDelNLTVNMU3F0MXgwYW5rZEIxbDNIY3JsUlptak9tYnl2eGsyQzlBNGgxQk5OMGRxYWQ5aWJP"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "50321b79b822",
    "title": "Wayve, Stellantis, NVIDIA Collaborate on Autonomous Vehicles in France - Fuel Cells Works",
@@ -1255,6 +1289,23 @@
    "zh_summary": "MassMutual减持38584股英伟达",
    "title_zh": "MassMutual减持38584股英伟达股票",
    "sentiment": -1
+  },
+  {
+   "id": "86112ac158c6",
+   "title": "NVIDIA Corporation $NVDA Stock Holdings Trimmed by Silverleafe Capital Partners LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg",
+   "source": "MarketBeat",
+   "published_at": "2026-10-27T09:12:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-27T09:12:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "fdca1036e83c",
@@ -6548,80 +6599,6 @@
    "zh_summary": "标普多数股下跌之际看多英伟达",
    "title_zh": "标普多数股票下跌之际英伟达的看涨理由",
    "sentiment": 1
-  },
-  {
-   "id": "e19d4c3262a9",
-   "title": "Honeywell brings AI backed by Nvidia and Dell to Africa’s biggest refinery as Dangote pushes to improve productivity - Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUnNOYzJ2NUJMX3l6RURMWVljWUhMbzdpeThOazQwX29Zam1tUi1Bd3RXaXVLM3l3emZmSXZ5bzV4WS1iazdkUEkwOXpYSWc2Ry1LX2hUc3REb05WUEtvWGswU010TE1uVHF3QU9xcTQ0Y1duc0V6a1poLS1xSlhpQ09IaEhQU21wUDBDZkpuSF82ZmRmYUUxTnpFeEtVRmxIYmhubXFkSlVRVVVMVWxiQmNEWVAtV0M4bDVHTTBvZF9ZQVB3UWNxd3BHOGF6WWxwNGI1d2JwLUI",
-   "source": "Business Insider Africa",
-   "published_at": "2026-10-26T10:26:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Business Insider Africa",
-     "published_at": "2026-10-26T10:26:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUnNOYzJ2NUJMX3l6RURMWVljWUhMbzdpeThOazQwX29Zam1tUi1Bd3RXaXVLM3l3emZmSXZ5bzV4WS1iazdkUEkwOXpYSWc2Ry1LX2hUc3REb05WUEtvWGswU010TE1uVHF3QU9xcTQ0Y1duc0V6a1poLS1xSlhpQ09IaEhQU21wUDBDZkpuSF82ZmRmYUUxTnpFeEtVRmxIYmhubXFkSlVRVVVMVWxiQmNEWVAtV0M4bDVHTTBvZF9ZQVB3UWNxd3BHOGF6WWxwNGI1d2JwLUI"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "霍尼韦尔携英伟达AI落地非洲最大炼油厂",
-   "title_zh": "霍尼韦尔将英伟达与戴尔支持的AI带到非洲最大炼油厂",
-   "sentiment": 1
-  },
-  {
-   "id": "44e663bdcb39",
-   "title": "NVIDIA Added Google Cloud, Microsoft Veterans to Commercial Leadership - www.tokenpost.com",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15UC1xYks2c0pJbkFjTmVoaXJNYmhSUjF4RExMVlZ1MExQZDRtZVBONklzamZWRlBhNUdPNHRYaDNRQlViSWlReEJWb3VHNFhRcU8yTWNR",
-   "source": "www.tokenpost.com",
-   "published_at": "2026-10-26T10:21:14+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "www.tokenpost.com",
-     "published_at": "2026-10-26T10:21:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15UC1xYks2c0pJbkFjTmVoaXJNYmhSUjF4RExMVlZ1MExQZDRtZVBONklzamZWRlBhNUdPNHRYaDNRQlViSWlReEJWb3VHNFhRcU8yTWNR"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达引进谷歌云与微软资深人士任商业领导",
-   "title_zh": "英伟达任命谷歌云与微软资深人士担任商业领导职务",
-   "sentiment": 1
-  },
-  {
-   "id": "4cd06106cb36",
-   "title": "寒武纪的“英伟达平替”叙事，还能讲多久？-36氪 - www.36kr.com",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WM3R1VlYwUGlZeHlfRDRVUUVRZ2oyZzNDblh1TVVPTDA3LTlNOURpQkJCTnpabHVZSWhLRTNhSWxoRWRoOGNEc1kzYXoyeWc",
-   "source": "www.36kr.com",
-   "published_at": "2026-10-26T10:18:04+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "www.36kr.com",
-     "published_at": "2026-10-26T10:18:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WM3R1VlYwUGlZeHlfRDRVUUVRZ2oyZzNDblh1TVVPTDA3LTlNOURpQkJCTnpabHVZSWhLRTNhSWxoRWRoOGNEc1kzYXoyeWc"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-26T10:25:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2k5ZDRPZGZPbkdqdHJfMTNGM3BXUGlZcnotMDAtdDdBNXNtLWhNWkQ3ZHRIalVONU5PeUpIamdmSHpORGJjOE04THkyZ0o5ZVVHQnQxd3pfUklIcUlRWktxNkRDU3MzM3ZGVUFZdDZvcDN1VzJ6WVRFVVVpYlQ1Rlp6SUNGVnRL"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-26T10:25:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2k5ZDRPZGZPbkdqdHJfMTNGM3BXUGlZcnotMDAtdDdBNXNtLWhNWkQ3ZHRIalVONU5PeUpIamdmSHpORGJjOE04THkyZ0o5ZVVHQnQxd3pfUklIcUlRWktxNkRDU3MzM3ZGVUFZdDZvcDN1VzJ6WVRFVVVpYlQ1Rlp6SUNGVnRL"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "寒武纪英伟达平替叙事能持续多久",
-   "title_zh": "寒武纪的“英伟达平替”叙事，还能讲多久？",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.75,
-    "window_h": 2.0
-   }
   }
  ]
 }
