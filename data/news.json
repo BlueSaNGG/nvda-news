@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T06:51:31.322491+00:00",
+ "updated_at": "2026-10-27T07:06:34.246655+00:00",
  "market": {
   "price": 216.0,
   "change_pct": 2.39,
@@ -10,8 +10,8 @@
    "days_left": 21
   },
   "day_sentiment": {
-   "avg": 0.62,
-   "count": 21
+   "avg": 0.64,
+   "count": 25
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.62（21条已评分）"
+     "note": "今日新闻情绪 +0.64（25条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 45.8,
    "ma20": 224.9,
-   "as_of": "2026-10-27T06:51:31.309416+00:00"
+   "as_of": "2026-10-27T07:06:34.232701+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "9a759d1f5981",
+   "title": "Nvidia to Invest $3 Billion in Meta’s Equity Offering as They Expand AI Partnership - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVBNdzlMTTN3TWNmZmkyRFNZREhOcThOQWhMRk14VWlReXF4LW5DR2hsSjJneG1JeEdQM0VmX2tPNHJrVXdrdHhZbURadXZMdXczRkxjakpQbWFGQzBGX0lMN09mc0hQamNGX21PUnFNNDliVHZuQi02YWhucmE1SEVPcG5nSGc2aktVRUo5T1hpaEZtSnJyQTZDdHFGaXVTN1FyeU04U0YyaU5rcEZKbkhvTVdoMXFNMVE",
+   "source": "WSJ",
+   "published_at": "2026-10-27T07:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-27T07:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVBNdzlMTTN3TWNmZmkyRFNZREhOcThOQWhMRk14VWlReXF4LW5DR2hsSjJneG1JeEdQM0VmX2tPNHJrVXdrdHhZbURadXZMdXczRkxjakpQbWFGQzBGX0lMN09mc0hQamNGX21PUnFNNDliVHZuQi02YWhucmE1SEVPcG5nSGc2aktVRUo5T1hpaEZtSnJyQTZDdHFGaXVTN1FyeU04U0YyaU5rcEZKbkhvTVdoMXFNMVE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "ae9c37be4bbc",
+   "title": "Nvidia Stock: Berlin Keynote Signals A More Vertically Integrated Future (NASDAQ:NVDA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQjRJd3NWTEZka0RiaWFCM3VRLVJaSTM0Vm9LemRIZkIzRHhVa0lTb0VQcm5icFFaSU05ODBvT2JibkpTZnBTQ3FpWGVUS0tsSHhMT3E1TlFiOWdNUm9fTG9MWFc1NUdjcG5wWkZCUEVHSHZmM2luNlRZUzBDUS1ycVZlcXNHWVdmV2d6WVhIdE1ILV9EYmlPd2ZqNDlVVU9OamsxZGhwblVDZw",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-27T06:49:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-27T06:49:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQjRJd3NWTEZka0RiaWFCM3VRLVJaSTM0Vm9LemRIZkIzRHhVa0lTb0VQcm5icFFaSU05ODBvT2JibkpTZnBTQ3FpWGVUS0tsSHhMT3E1TlFiOWdNUm9fTG9MWFc1NUdjcG5wWkZCUEVHSHZmM2luNlRZUzBDUS1ycVZlcXNHWVdmV2d6WVhIdE1ILV9EYmlPd2ZqNDlVVU9OamsxZGhwblVDZw"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
   {
    "id": "e7ac5720bfe9",
    "title": "NVIDIA GTC conference in Berlin - The Daily News | Texas' Oldest Newspaper",
@@ -548,7 +582,7 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUt0SjBNeWdodXB4emFzUk1JZmtZVENPQzYtdHdmc1o4amJtODNiaFhXeVp3NExQOXpDTFNfWFVOT19jWHVCWC1Lajh5V05ha19RWndsNm9mRE1xOXZnOFN2cVZicUZnVF90XzdaRW94T1pCeGV1VUMwSFlXdk55V01JS0tIYzlsZU9UWlV3S3ZmLU41RnZ2alpPQWdnNTNROWs0",
    "source": "Yahoo Finance",
    "published_at": "2026-10-27T05:52:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Yahoo Finance",
@@ -559,6 +593,11 @@
      "name": "NVIDIA Newsroom",
      "published_at": "2026-10-27T05:59:28+00:00",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzg1REp1LUMyZ2Njb0RyaWx2cHJSVU8taDFsUHBtcjlhUDlsT25MYmY4NGxrRElZbUNrNFJGRDBiSjlGOFdHbXhseXNJYTk4eFpvMXhGUTh1QXVDQmdFem43dWZId01nNzRndVRGU0c1ckJaam03ZG0yckJMNjYySUdDTGhvSFJSMmRoaDliRjFXcTNIVmduQ2JoVndfREtsYXlBUldNeE1PQmRSLVRqejhNWFYzUWVpMXBnRkFlNU9nZ1ljLVE"
+    },
+    {
+     "name": "Carroll County Mirror-Democrat",
+     "published_at": "2026-10-27T05:52:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDJGbmR2QmR3bHIwaVNZaDhudWtRZnBwc2h4S09yOUVjSlhIU0hHVmVXSEYwazBualRyNHhLREpZS3NVSHU3cHBSQ2FwNHJmcVZ5SXhsT2oxV1BsRUNYNDRSREdaTFBQNlgtS3lWRzFfQ0trQTlVTWE5MGVRM1JRczRoUk5fX3loLXEya0o1NFBQQjRKR19qQ1NaRTNCb2hUbFJZU2NTV0gxN0hmN1RLQmRBZ3Z1MnM"
     }
    ],
    "category": "其他",
@@ -1016,6 +1055,23 @@
    "zh_summary": "英伟达携手幻刃零角逐游戏市场",
    "title_zh": "英伟达与《幻刃零》联手角逐游戏市场",
    "sentiment": 1
+  },
+  {
+   "id": "8c3e27c0316c",
+   "title": "大摩上调美国AI电力缺口：点名“缩短通电周期”电厂标的，英伟达成“缺电瓶颈”下半导体首选港美股资讯 - 华盛通",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OSzZPdHphWVlZOF8yZkg4MVZhdkhrUTFBYXZpTDF1aXpObWpPaXkxVFN5TTRvZ3VLNmEyUVh6bF9SQ19kZ21UOHZlR2stUmZIdnctd21YQXBQQ1pkdUczdXZ3",
+   "source": "华盛通",
+   "published_at": "2026-10-27T00:53:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "华盛通",
+     "published_at": "2026-10-27T00:53:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OSzZPdHphWVlZOF8yZkg4MVZhdkhrUTFBYXZpTDF1aXpObWpPaXkxVFN5TTRvZ3VLNmEyUVh6bF9SQ19kZ21UOHZlR2stUmZIdnctd21YQXBQQ1pkdUczdXZ3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "4e487966e677",
@@ -6586,80 +6642,6 @@
    "session": "周末",
    "zh_summary": "新云厂商股价大跌，英伟达繁荣现裂缝",
    "title_zh": "新云厂商股价暴跌、CDS飙升：英伟达“兜底式繁荣”露出裂缝 - 信息化观察网",
-   "sentiment": -1
-  },
-  {
-   "id": "6ea418da6e78",
-   "title": "机器人的o1时刻来了！哈佛、伯克利、英伟达推出探索Scaling Law，五大基准平均领先37.4个点 - 手机搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlhTSzBQclQ4RnVFaWNUWWxNM3RFUVJkQVhkaU5ZcW1UU0dxc0NndmRPSjA2MC1vVFRSZ0F4U1JVMEU3M0dXYktwQU1LVWR4ampXS1JLOV9ia1U0SmJiZzBXT2tQVkZ2cm1xT3pJbEEzN1I1Sm8zX3VpTWNVUGdyeWdGMlRaMGp3",
-   "source": "手机搜狐网",
-   "published_at": "2026-10-26T01:20:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "手机搜狐网",
-     "published_at": "2026-10-26T01:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlhTSzBQclQ4RnVFaWNUWWxNM3RFUVJkQVhkaU5ZcW1UU0dxc0NndmRPSjA2MC1vVFRSZ0F4U1JVMEU3M0dXYktwQU1LVWR4ampXS1JLOV9ia1U0SmJiZzBXT2tQVkZ2cm1xT3pJbEEzN1I1Sm8zX3VpTWNVUGdyeWdGMlRaMGp3"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-26T01:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlhTSzBQclQ4RnVFaWNUWWxNM3RFUVJkQVhkaU5ZcW1UU0dxc0NndmRPSjA2MC1vVFRSZ0F4U1JVMEU3M0dXYktwQU1LVWR4ampXS1JLOV9ia1U0SmJiZzBXT2tQVkZ2cm1xT3pJbEEzN1I1Sm8zX3VpTWNVUGdyeWdGMlRaMGp3"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-26T01:20:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlhTSzBQclQ4RnVFaWNUWWxNM3RFUVJkQVhkaU5ZcW1UU0dxc0NndmRPSjA2MC1vVFRSZ0F4U1JVMEU3M0dXYktwQU1LVWR4ampXS1JLOV9ia1U0SmJiZzBXT2tQVkZ2cm1xT3pJbEEzN1I1Sm8zX3VpTWNVUGdyeWdGMlRaMGp3"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达参与推出探索Scaling Law",
-   "title_zh": "英伟达等推出探索Scaling Law，五基准领先37.4点",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.75,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "c3e119c6ba4e",
-   "title": "Nvidia (NVDA) Stock Still Looks Reasonable Following Its 7x Five Year Run - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVnBEQl95MlE5aEpsbU9BdEZKTnVOMzdId0Z5UnloR0JEbmxmT1duNTB1SDl3MU9aeHQ5UmgzeVJYbUdHdFdjdHZRNFlMZGV0ZWF1RlljdWFWTEt5WHo2OXV5MlF3b3pFQTc4VVBEYnh2MGUtRGd3RHpoYS1iT0RHdHFqQU1mWXJ1X2dwS3RxaHBfOExzZG9lSmNn",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-26T01:06:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T01:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVnBEQl95MlE5aEpsbU9BdEZKTnVOMzdId0Z5UnloR0JEbmxmT1duNTB1SDl3MU9aeHQ5UmgzeVJYbUdHdFdjdHZRNFlMZGV0ZWF1RlljdWFWTEt5WHo2OXV5MlF3b3pFQTc4VVBEYnh2MGUtRGd3RHpoYS1iT0RHdHFqQU1mWXJ1X2dwS3RxaHBfOExzZG9lSmNn"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "五年涨7倍后英伟达估值仍合理",
-   "title_zh": "五年涨7倍后，NVDA股价仍显合理",
-   "sentiment": 1
-  },
-  {
-   "id": "e9cd46baabdd",
-   "title": "Apple Briefly Topped Nvidia as Nvidia’s Slide Reached 12%. Here’s Where Apple Stock Could Go by 2030 - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdVdwV1Q5alFOVXJnM1NFVUNrZXVvLVVKcXE1M25ObW9JMkVKT2JqOFh6REF0cFAxVzBVZTdBNk95UmNsRTJOTUdfaW83cU5lOWFiNDFUaU9nYUNWaWlfMDdZTEVWZUxEMjZZck5OckFyVzUwbTVScW1RQVFoRTBDSzF2SnlhVHdUdHZZWkgxS2M1SmR4blVob0g5c3piamZD",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-26T01:04:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T01:04:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdVdwV1Q5alFOVXJnM1NFVUNrZXVvLVVKcXE1M25ObW9JMkVKT2JqOFh6REF0cFAxVzBVZTdBNk95UmNsRTJOTUdfaW83cU5lOWFiNDFUaU9nYUNWaWlfMDdZTEVWZUxEMjZZck5OckFyVzUwbTVScW1RQVFoRTBDSzF2SnlhVHdUdHZZWkgxS2M1SmR4blVob0g5c3piamZD"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达累计下跌12%遭苹果短暂反超",
-   "title_zh": "苹果短暂反超英伟达，英伟达累计跌12%",
    "sentiment": -1
   }
  ]
