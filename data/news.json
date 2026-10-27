@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T06:36:52.899706+00:00",
+ "updated_at": "2026-10-27T06:51:31.322491+00:00",
  "market": {
   "price": 216.0,
   "change_pct": 2.39,
@@ -10,8 +10,8 @@
    "days_left": 21
   },
   "day_sentiment": {
-   "avg": 0.6,
-   "count": 15
+   "avg": 0.62,
+   "count": 21
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.60（15条已评分）"
+     "note": "今日新闻情绪 +0.62（21条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 45.8,
    "ma20": 224.9,
-   "as_of": "2026-10-27T06:36:52.890189+00:00"
+   "as_of": "2026-10-27T06:51:31.309416+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "e7ac5720bfe9",
+   "title": "NVIDIA GTC conference in Berlin - The Daily News | Texas' Oldest Newspaper",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXQ4U19xZ3RSZFJhTGptbTluQTlHdEpLT3U4OGxPV3RIaTNRbTdHOFgwRWpIbVhwTW1OMnhjY0VxRVFKd09PYkJVU3hVSzF4Y1J6VGp5dkVFcjJ4TW5KdWJteXFxb0VRM1VBSHN5Ujk2aElYb2NWOWMzTVRmaFhxVU0wbkxZdC0wcGZDUU5Ea1lWVU1yZjV5YXNhT1dsUzBzWnFZdU9pa1Vld1NRV0EyR2x6LUhNNEVvOGplZ0lRZWd5c1Zy",
+   "source": "The Daily News | Texas' Oldest Newspaper",
+   "published_at": "2026-10-27T06:46:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Daily News | Texas' Oldest Newspaper",
+     "published_at": "2026-10-27T06:46:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXQ4U19xZ3RSZFJhTGptbTluQTlHdEpLT3U4OGxPV3RIaTNRbTdHOFgwRWpIbVhwTW1OMnhjY0VxRVFKd09PYkJVU3hVSzF4Y1J6VGp5dkVFcjJ4TW5KdWJteXFxb0VRM1VBSHN5Ujk2aElYb2NWOWMzTVRmaFhxVU0wbkxZdC0wcGZDUU5Ea1lWVU1yZjV5YXNhT1dsUzBzWnFZdU9pa1Vld1NRV0EyR2x6LUhNNEVvOGplZ0lRZWd5c1Zy"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "d71e67d972b2",
+   "title": "Nvidia to invest $3B in Meta stock, expand AI collaboration on Muse models (NVDA:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0hJUV8wbklYTWx4NVlpcnNNSlV3WExEaGhDV3hNckpkaHhMUUUtcFdVV3YyWmRnTF9wWnhBVkY4eGhLLTlsT0d3SXJORk12NVhSWVo1RVpKS0xjNFRrWGpFYU4wN0ZUak9pbFpjdnYtQWZUaVRma09wcGJLU253VjVoSlZYdzE1eTNPUXBsbVh2VnduNlMyWEJsWFNvR3VadW9mdmhRQW9NTFVSdkZB",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-27T06:32:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-27T06:32:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0hJUV8wbklYTWx4NVlpcnNNSlV3WExEaGhDV3hNckpkaHhMUUUtcFdVV3YyWmRnTF9wWnhBVkY4eGhLLTlsT0d3SXJORk12NVhSWVo1RVpKS0xjNFRrWGpFYU4wN0ZUak9pbFpjdnYtQWZUaVRma09wcGJLU253VjVoSlZYdzE1eTNPUXBsbVh2VnduNlMyWEJsWFNvR3VadW9mdmhRQW9NTFVSdkZB"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
+   "id": "7a3982df232c",
+   "title": "Nvidia, Meta to expand partnership on Muse - Breakingthenews.net",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGszTUp1SE9XYXUxbG9LR1dqT3pUYmhUVkhJbzQ2OHBHbzBRaG14YXBXM2ZFQ0xrOGQxZWVGOWk0NHlPX2djZEN5QkhmeGFQSGNMaW9nUDFQMU0xbGs2dUFyMW1sQ1ZGRUtjVHdkWkIwZzBia180cDRPaHdHY0lSZzZFMHlpdmY2YjZlODhUNA",
+   "source": "Breakingthenews.net",
+   "published_at": "2026-10-27T06:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Breakingthenews.net",
+     "published_at": "2026-10-27T06:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGszTUp1SE9XYXUxbG9LR1dqT3pUYmhUVkhJbzQ2OHBHbzBRaG14YXBXM2ZFQ0xrOGQxZWVGOWk0NHlPX2djZEN5QkhmeGFQSGNMaW9nUDFQMU0xbGs2dUFyMW1sQ1ZGRUtjVHdkWkIwZzBia180cDRPaHdHY0lSZzZFMHlpdmY2YjZlODhUNA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "ad000fb33032",
    "title": "Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership By Investing.com - Investing.com",
@@ -100,6 +151,23 @@
    "zh_summary": "Aivres展示Vera Rubin NVL72",
    "title_zh": "Aivres在OCP峰会展示英伟达Vera Rubin NVL72机柜",
    "sentiment": 0
+  },
+  {
+   "id": "0d32d1fe30c2",
+   "title": "Agile Robots Launches Agile ONE SN Humanoid at NVIDIA GTC Berlin and Pilots Humanoids with Audi - Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXlPdTcwSHdQQjA3Q0RCRDFENmYzaDcwQUNHc0swZ0pkVWRIZ3c4aTJkRVRpMmZrM2ZFUm04cVE4NWRtbjdVOGY1dzFiSk1mMC1aa2NQWlJIaE5VSHh1dmhGQWxnb1hWc1ozTzgzdHlCUnhydW5oX1U5X2MxaUJuX3hzMExuZzA",
+   "source": "Yahoo Finance UK",
+   "published_at": "2026-10-27T06:22:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance UK",
+     "published_at": "2026-10-27T06:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXlPdTcwSHdQQjA3Q0RCRDFENmYzaDcwQUNHc0swZ0pkVWRIZ3c4aTJkRVRpMmZrM2ZFUm04cVE4NWRtbjdVOGY1dzFiSk1mMC1aa2NQWlJIaE5VSHh1dmhGQWxnb1hWc1ozTzgzdHlCUnhydW5oX1U5X2MxaUJuX3hzMExuZzA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "df88be1a13bd",
@@ -207,7 +275,7 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSjBlNWdnMjZ5OENGekpodktOdnNXaHVoQlNEY2JyQnlxU0lJbVo4T2h1dk9hdFJ3eWFtZHE2cER6TmhRRVJ1dnQ3UFA2ZmNLRmtFT19QZEw0Q3hFNDJ1SkxUNUVVUUEwSEY5QWdwWEVSUHI2a2ZCQlptMVpSd083MDVCbXh3UThVa05haUpnSlQtWUdmZlQwSy04S1FVS0ZGWThMTzYzbXk3Wlg2V1Nlc2d5Tm1pdjNfcmNMOE82QUM1ejc5SnA2V080cw",
    "source": "TradingView",
    "published_at": "2026-10-27T06:06:00+00:00",
-   "outlets_count": 6,
+   "outlets_count": 8,
    "outlets": [
     {
      "name": "TradingView",
@@ -238,6 +306,16 @@
      "name": "Investing.com",
      "published_at": "2026-10-27T06:27:15+00:00",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFR0UHBMaHJWdUhFcFhXQTN3bWYwX09oUlR1Zng4QkQ0bGJtNlVGSWNvSnl3X1ZSREF2YWtqZldleGpWeG5ERnBQZjJ2amQzTEpkY0pVS1l1bEJZa3lzTUJnWTc1cGk0aVJYOW1UQ2RnN0twaE9rbm1Na3F6bjQxaDA4UU9QaTBNZ3NWc2ZnVVFZMHlSVjhOb2ZRMGsyVFFtOEd5SmwybkRnal9QZm5FcmhPb3lJS25MZmc"
+    },
+    {
+     "name": "U.S. News - Money",
+     "published_at": "2026-10-27T06:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmtCdkFxM3VveWoyYlBEb0pZQk40UXMzbjBGMjgxdTFIUUlCdFBIUVZNZktIcHVyRnoxdXJWRTQwYVJqaDFOVE13c2FPY2VMX1cyaWZpQzgxWUowZ0lqMGloelMzbUpEV1BOQ0hsR2pOSmpUZkFQcERLQ3FNeDM3ZUZDckoyVHlMYzR5Sm5qdUJmVXIxWWJTazFVRkVKejBiLU5IX3FZSUNqU3BLcjhtc0R6emFqMzhOVE1SZzJR"
+    },
+    {
+     "name": "KFGO",
+     "published_at": "2026-10-27T06:40:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2s2T09BREg4c1ZpZEx1MzV5UWFqdERXU3dPMDMxaXIwTDdWc3NFSTBSclBNMDViZEtOWU1WWmFxR0hObmNFZVFXRmxjd3NQODdpRkdLSTdieHhSb3pUZjR2Nk9UWHVkbzl5cUdaZF9nc1ExVjNNem9QSW03RUhoUGUyb1RvamczbURLUzlRbDZhTmRH"
     }
    ],
    "category": "其他",
@@ -3558,26 +3636,6 @@
    }
   },
   {
-   "id": "cf58a8dc2e8a",
-   "title": "SpaceX敲定400亿美元融资，资金主要用于采购英伟达GPU - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnZGRU9iS3JqellMd3UyV1lwT2JnZ3NLejlzRUx0cHdIV3VnSnpIbUMwTktmNHRMOHlEQkk0OTloemxQUU1UVXR1bDVzamM5aXF6bkZhd2pmWXVBUmxOMk1FZVFiTFFNc3FwNW9FaDJUN0w1U1k4bV9fai1oeXg3ckdQSzZnYUFL",
-   "source": "搜狐网",
-   "published_at": "2026-10-26T12:03:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-26T12:03:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnZGRU9iS3JqellMd3UyV1lwT2JnZ3NLejlzRUx0cHdIV3VnSnpIbUMwTktmNHRMOHlEQkk0OTloemxQUU1UVXR1bDVzamM5aXF6bkZhd2pmWXVBUmxOMk1FZVFiTFFNc3FwNW9FaDJUN0w1U1k4bV9fai1oeXg3ckdQSzZnYUFL"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "SpaceX融资400亿美元采购英伟达GPU",
-   "title_zh": "SpaceX敲定400亿美元融资，资金主要用于采购英伟达GPU - 搜狐网",
-   "sentiment": 1
-  },
-  {
    "id": "c10958d04d53",
    "title": "DT Research Unveils LT365PA Rugged Laptop Bringing NVIDIA Graphics and AI Processing to Mission-Critical Field Teams - News-Press NOW",
    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPeFV3aWJ5eHNUOXRiaFNMUXNWSzU4a0dYWkJRSjhGeVdSZ3ZDQXBHaEZlTHk4OHRBN09PZ1k3Q3ZQMEVibXBrRlJUOXlrVG1OdGo2Y3lyWU9SR1R1VHFSLXk0cjFzT2oxZm4wTDlUXzVPbTFDYWVIbC1qOV9Ea2V0Vjd5VkJmWnFBSU83SjIzQWhPNmh3WUQ3ZC1sVTJTcHJQNURac1FmQ2FJT2N5bl9CcExDUjZ1MDJfS1RlZEdpVHo0dGw0NGt4UnZIaVhMdmlHR0k1U1prY29XWXhQeXAwM29KVHV5bE5Lem5ibl9Oa2FSYklfeFl1WXNLQ1dZUktyOHllSU5LbFlFUTVfaWUtUGFFR0g0U1YzM01XUzJUTUlmSTA",
@@ -4962,6 +5020,28 @@
    "sentiment": 0
   },
   {
+   "id": "38e6b3febb16",
+   "title": "英伟达“停产传闻”掀起涨价潮，实探深圳华强北：一张显卡报价超5万元 - finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUWh2ejNkSFRTS3pHd3hqMzdIaDBpQ2ZMTUhXaGdCX0lzTF9jclRDN2lvcFpZd0s4ejY5WXhtQWZtWlB1WlZ3UjNMd3FWaWVxRF9JZ2JSSGdVY25GTU1WRFRJaW41c1Jva1Q1WVVhVTVEcnJTeURnS05UZ1BCQUI5a21ieDNsTjBwY3NBZlltRDNoemIwSFdoQkF3enJWN2trVklTQVFmVVU3eF9kRUEyQ2xaak9ldU5ZWkJlb2piODA2cmtNc0xnX05NQlFOYVZmZ1EzdFVYejk",
+   "source": "finance.sina.com.cn",
+   "published_at": "2026-10-26T08:07:23+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-26T08:07:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUWh2ejNkSFRTS3pHd3hqMzdIaDBpQ2ZMTUhXaGdCX0lzTF9jclRDN2lvcFpZd0s4ejY5WXhtQWZtWlB1WlZ3UjNMd3FWaWVxRF9JZ2JSSGdVY25GTU1WRFRJaW41c1Jva1Q1WVVhVTVEcnJTeURnS05UZ1BCQUI5a21ieDNsTjBwY3NBZlltRDNoemIwSFdoQkF3enJWN2trVklTQVFmVVU3eF9kRUEyQ2xaak9ldU5ZWkJlb2piODA2cmtNc0xnX05NQlFOYVZmZ1EzdFVYejk"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-26T18:05:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43Sjh4R21KYkRPampYdXpaZGQ4aU5fOVB0TDZ6Z3dRblBIVkY4Wms1Zk56R1VsMF9zWnI5RG9tb0xNUkltc3RaNHhJcEFtNVZnelk4bk5TNFVkeHRiMkhPXzRrckluaDZMVnQxd3VwS1JwWi1nNFVjbw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "4c6af470f207",
    "title": "备货Rubin Ultra！三星、SK海力士明年Q2向英伟达交付HBM4 - 驱动之家",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HYlJsd202eVNhRFZTV3V3VHZCc3RleXJheTdCSF9Rb3djd2hndFhEUGJTX1Bla094M01iYzByX1NTcjVJN2xhUUVDR2E3Z3VXckIxeHpPYnk",
@@ -5199,26 +5279,6 @@
    "zh_summary": "Altar Rock售出3921股英伟达股票",
    "title_zh": "Altar Rock售出3921股英伟达股票",
    "sentiment": 0
-  },
-  {
-   "id": "f77f0ffe8b33",
-   "title": "NVIDIA Corporation $NVDA Stock: Andra AP fonden Cuts Stake - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONUxkdUNZdFhEQ2NySjJvdlRJckNkZlVuVFoyT2RrZTFpbnlwdjJjNkNDRGM4VVRWbUZjNEp5R2U5dV8yVF8yS09RUE5LTERBckdoTFVPVDBERF8wTWlhMTd6Yk5XQVRtMUtXSF91RlNrdFlOZFh3ZExqNmdDSUZ4am90dDNsS0p2RjFha2FtQTVhdkE1eUlrV2ZrS2t2RXUxNmQ3Qy12aUY0WXRrOWpYSlhCZkNCem1j",
-   "source": "MarketBeat",
-   "published_at": "2026-10-26T07:37:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-26T07:37:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONUxkdUNZdFhEQ2NySjJvdlRJckNkZlVuVFoyT2RrZTFpbnlwdjJjNkNDRGM4VVRWbUZjNEp5R2U5dV8yVF8yS09RUE5LTERBckdoTFVPVDBERF8wTWlhMTd6Yk5XQVRtMUtXSF91RlNrdFlOZFh3ZExqNmdDSUZ4am90dDNsS0p2RjFha2FtQTVhdkE1eUlrV2ZrS2t2RXUxNmQ3Qy12aUY0WXRrOWpYSlhCZkNCem1j"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Andra AP基金减持英伟达",
-   "title_zh": "Andra AP基金减持$NVDA股份",
-   "sentiment": -1
   },
   {
    "id": "13ff0c03de3d",
@@ -6294,6 +6354,31 @@
    "sentiment": -1
   },
   {
+   "id": "9dec125c64e1",
+   "title": "SpaceX完成400亿美元债务融资，拟采购英伟达GPU芯片 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wSEdOU3JGS05GYnFqZDZJMUZ2c05SYXdxZHVGN203UFZwOUxRSGhfMXFzdWhYSzN0SkY0SmloOUFOT0Q0eEg5Rmg3OWdMaHVoOF9Jdy1XUzJFQUhV",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-26T02:10:24+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-26T02:10:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wSEdOU3JGS05GYnFqZDZJMUZ2c05SYXdxZHVGN203UFZwOUxRSGhfMXFzdWhYSzN0SkY0SmloOUFOT0Q0eEg5Rmg3OWdMaHVoOF9Jdy1XUzJFQUhV"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-26T12:03:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnZGRU9iS3JqellMd3UyV1lwT2JnZ3NLejlzRUx0cHdIV3VnSnpIbUMwTktmNHRMOHlEQkk0OTloemxQUU1UVXR1bDVzamM5aXF6bkZhd2pmWXVBUmxOMk1FZVFiTFFNc3FwNW9FaDJUN0w1U1k4bV9fai1oeXg3ckdQSzZnYUFL"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末",
+   "zh_summary": "SpaceX融资400亿美元采购英伟达GPU",
+   "title_zh": "SpaceX敲定400亿美元融资，资金主要用于采购英伟达GPU - 搜狐网",
+   "sentiment": 1
+  },
+  {
    "id": "7329a314561f",
    "title": "英伟达砸重金锁产能，AI 算力的瓶颈真的能被打破吗？ - 手机搜狐网",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQel9ERDZZdHlvZlhtWUFMSElhclAwM1ZjUWExOFRRYWVPYXg3V3RlTjZISW9QRUFnazM3UERHUlVzSDNPZ19hbTZNMHB4NVZURnppaTZIU3B5QVMyc0dlQWVaZ1JsWThua3Z6U3QtcGRjZS1QeTJEY2NXM2hiYjZCZUx6UEdFalp6cHJfdw",
@@ -6561,116 +6646,6 @@
    "zh_summary": "英伟达累计下跌12%遭苹果短暂反超",
    "title_zh": "苹果短暂反超英伟达，英伟达累计跌12%",
    "sentiment": -1
-  },
-  {
-   "id": "e646e569bf55",
-   "title": "昨夜今晨：微信回应企业微信账号发色情链接 英伟达停产传闻致使RTX5090价格暴涨 iPhone Duo售价破发 - Sohu",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFNseDE5Tk9ZODM5dzROSGJBNHhBS0lrNWZ5ejNld2NqLThwdjZMYXpQeEIxT0g0LXpQUHZ0aGUyZnZoS1c0Rm1SZmE0RFp4ajRNRkZ1a0I0TTNlWWcwUElhdTl0YjRkZFp1VmowVmtwVXlramdET2poczdoOVh5cnk3Zy1OanFW",
-   "source": "Sohu",
-   "published_at": "2026-10-26T01:01:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-26T01:01:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFNseDE5Tk9ZODM5dzROSGJBNHhBS0lrNWZ5ejNld2NqLThwdjZMYXpQeEIxT0g0LXpQUHZ0aGUyZnZoS1c0Rm1SZmE0RFp4ajRNRkZ1a0I0TTNlWWcwUElhdTl0YjRkZFp1VmowVmtwVXlramdET2poczdoOVh5cnk3Zy1OanFW"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达停产传闻致RTX5090价格上涨",
-   "title_zh": "英伟达停产传闻致RTX5090价格上涨",
-   "sentiment": 0
-  },
-  {
-   "id": "84002b610267",
-   "title": "德国普鲁士电力与英伟达合作，评估停运核电站改建AI工厂可行性 - 手机搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEJHV01KaTZzMXRJSDZMcmlIODhGWHV6eFhncmwtWEU1NjV0LXFnZTJHcWxTb1NKS21fVGNsa29ldTFJSUtsdHk1YXFQRm02RlYzdFJGRkEtcTJhX2F2QUZqZWNOX0FsRkFzb0lGZC10VFlYVEhhTkJaUkVFODhhOEV0ZGd1UHFz",
-   "source": "手机搜狐网",
-   "published_at": "2026-10-26T01:00:06+00:00",
-   "outlets_count": 5,
-   "outlets": [
-    {
-     "name": "手机搜狐网",
-     "published_at": "2026-10-26T01:00:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEJHV01KaTZzMXRJSDZMcmlIODhGWHV6eFhncmwtWEU1NjV0LXFnZTJHcWxTb1NKS21fVGNsa29ldTFJSUtsdHk1YXFQRm02RlYzdFJGRkEtcTJhX2F2QUZqZWNOX0FsRkFzb0lGZC10VFlYVEhhTkJaUkVFODhhOEV0ZGd1UHFz"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-26T01:00:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fQWFScnNPaWhvNS1nZ0stc2hfdjEzV3VGbW5xaHI0ZXY5ck8tVUx4bTZ5Uk84NkVmLXRUblFpYlFhSmVXYnZheTlrRzBPQkJ1RWpPMTBiOEtOejM4RFN2VGpQQWJpRm03UnYwNUFLZTFpYnRleG9HTXhUVkhCd1E"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-26T01:00:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83MERiZ3NMSGVlVWlBaDYxWWRLRVA4REFkSXZKLWRESGZPMElqdmJpR1UwdEh4X2FMU1dyWEJyVlZfYllENjFJaUgwTlE"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-26T01:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DcG1saE5KX2JYNnFwSXRLcDVRZXQ2bFZ4X0x0NzRidnBBSlVNQWJCaWJaTnltRm1SeDlYX0NIcWRkUzdMTW84ZHFlcV9IWmZKUERPQ2RqcGN5RmdXVzhZajVHcllTU2J2ZlFKclFoWDBEczlkaGNxc1VRNVcyT28"
-    },
-    {
-     "name": "finance.sina.com.cn",
-     "published_at": "2026-10-26T01:19:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12Yk9KbHZod083QzJBRTFNMjk3Zi1jX1NTZk1rVGV5ZFNHMzU0dk9EUXBmb3drc0pHTFhobVZHLUtkMER6M1FnT0d5d0VuTjJvWFdGZFJpWHAwNnc5c3dveFpyVFZid01IYjdWUERiSFU5UWpqR19VUEtMYWUwdw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "breaking": true,
-   "zh_summary": "德国普鲁士电力与英伟达合作评估核电站改建AI工厂",
-   "title_zh": "德国普鲁士电力与英伟达合作，评估停运核电站改建AI工厂可行性 - 手机搜狐网",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.11,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "57e7aa5a522c",
-   "title": "英伟达大手笔锁产能，覆盖封装基板、先进测试、CPO光学引擎 - 手机搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3VScURrc2RBSWNoaW02NVJEbUpkOU9kNjBGUG44NU9lWUZKaVUwakVkUjdyZ1NzbW9jdEdHX1dCR0NXb09QaXZFVTVkY0FsSzJlRlI3NTk2RVVoUWt3RndVY2EyMWhUXzRtV1pLczhOMDVXODRvbTFYS1FJMDRDa3Nyem9NUXJXb1JOMg",
-   "source": "手机搜狐网",
-   "published_at": "2026-10-26T01:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "手机搜狐网",
-     "published_at": "2026-10-26T01:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3VScURrc2RBSWNoaW02NVJEbUpkOU9kNjBGUG44NU9lWUZKaVUwakVkUjdyZ1NzbW9jdEdHX1dCR0NXb09QaXZFVTVkY0FsSzJlRlI3NTk2RVVoUWt3RndVY2EyMWhUXzRtV1pLczhOMDVXODRvbTFYS1FJMDRDa3Nyem9NUXJXb1JOMg"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-26T01:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3VScURrc2RBSWNoaW02NVJEbUpkOU9kNjBGUG44NU9lWUZKaVUwakVkUjdyZ1NzbW9jdEdHX1dCR0NXb09QaXZFVTVkY0FsSzJlRlI3NTk2RVVoUWt3RndVY2EyMWhUXzRtV1pLczhOMDVXODRvbTFYS1FJMDRDa3Nyem9NUXJXb1JOMg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达大手笔锁定封装与CPO产能",
-   "title_zh": "英伟达大手笔锁产能，覆盖封装基板、先进测试、CPO光学引擎",
-   "sentiment": 1
-  },
-  {
-   "id": "2be89e4f7d57",
-   "title": "NVIDIA Flora: $0.72 vs $88.49 Per Video Hour [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWowa1BSdXhqNXZJOXFqdUsybUhmTUk0RjU4bWdhakVZN1BVMkRUbHhhVmN4YzBxRUEyWmI0d2pkdUtEQkZlOWx6ZTZDQjNFNG5yQ2wzY09sMnZDeUpCMWJ0emg1S0VXMXNoQ1Z6SHpnSkdzVE54YXU2ZkRBWXpXazdzYk5iZDdH",
-   "source": "shattered.io",
-   "published_at": "2026-10-26T00:55:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-26T00:55:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWowa1BSdXhqNXZJOXFqdUsybUhmTUk0RjU4bWdhakVZN1BVMkRUbHhhVmN4YzBxRUEyWmI0d2pkdUtEQkZlOWx6ZTZDQjNFNG5yQ2wzY09sMnZDeUpCMWJ0emg1S0VXMXNoQ1Z6SHpnSkdzVE54YXU2ZkRBWXpXazdzYk5iZDdH"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Flora视频生成成本每小时0.72美元",
-   "title_zh": "NVIDIA Flora视频成本：每小时0.72美元对比88.49美元",
-   "sentiment": 1
   }
  ]
 }
