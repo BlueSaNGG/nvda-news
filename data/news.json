@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T21:06:34.372787+00:00",
+ "updated_at": "2026-10-27T21:21:32.524191+00:00",
  "market": {
   "price": 217.94,
   "change_pct": 0.9,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.57,
-   "count": 216
+   "count": 218
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.57（216条已评分）"
+     "note": "今日新闻情绪 +0.57（218条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 44.5,
    "ma20": 224.44,
-   "as_of": "2026-10-27T21:06:34.363781+00:00"
+   "as_of": "2026-10-27T21:21:32.510500+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "fe7e9c0a6d83",
+   "title": "Nvidia, AMD to buy $4B in Meta shares as part of expanded chip partnerships - SiliconANGLE",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzNoNElDckgyajBzR3NPZ0tkQ2taREVmc3p1NHZFZDBDT0dPY1NQa29vZElHZGhsQUcxQ2wxV1BGaDVpLXJTSjluQ0hNWWE5U1A1R3Ezc2lkTWZ5X3ZzU1VxV29CM0txQmFFT2xrdUg1bFUzaFV3bDAya2FkMFdBVjh1dEp6ZmZXZEZkWWpNRmY3eHNyVGs0dWNvUHplZWVLZzhZQng3cDdkRklKWjlJ",
+   "source": "SiliconANGLE",
+   "published_at": "2026-10-27T21:12:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "SiliconANGLE",
+     "published_at": "2026-10-27T21:12:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzNoNElDckgyajBzR3NPZ0tkQ2taREVmc3p1NHZFZDBDT0dPY1NQa29vZElHZGhsQUcxQ2wxV1BGaDVpLXJTSjluQ0hNWWE5U1A1R3Ezc2lkTWZ5X3ZzU1VxV29CM0txQmFFT2xrdUg1bFUzaFV3bDAya2FkMFdBVjh1dEp6ZmZXZEZkWWpNRmY3eHNyVGs0dWNvUHplZWVLZzhZQng3cDdkRklKWjlJ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
   {
    "id": "34d7ee06616d",
    "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4 - NVIDIA Developer",
@@ -6625,40 +6642,6 @@
    "zh_summary": "预测称英伟达2027年或迎突破",
    "title_zh": "预测：这或将触发英伟达2027年下一轮突破",
    "sentiment": 1
-  },
-  {
-   "id": "1faa6bdcb7d4",
-   "title": "Not AMD. Not Marvell. Here's Which Company Nvidia Needs to Be Worried About. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSUlOdFp3Y2NRLXhramhUYW00bFJleG9kX2R2bW85aV81ZUxJSnRFMUZ0TV9aZTlacGFQSHFqSFBsYjlZZU5ZUGo3bzJXXzhyMWQ2MnVjSWJ1UlY2dGgyUW04SnNrZjUtYUx2ajRxYUFrTVBESUJRYjFuNUt0WjlxV2FWTk9vZmMtd21GNGVYcU1sU00",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-26T15:17:50+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-26T15:17:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSUlOdFp3Y2NRLXhramhUYW00bFJleG9kX2R2bW85aV81ZUxJSnRFMUZ0TV9aZTlacGFQSHFqSFBsYjlZZU5ZUGo3bzJXXzhyMWQ2MnVjSWJ1UlY2dGgyUW04SnNrZjUtYUx2ajRxYUFrTVBESUJRYjFuNUt0WjlxV2FWTk9vZmMtd21GNGVYcU1sU00"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T15:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTA1aTZNX0ExWVRCa1dlbXFGRkJsVjJmNlJTYUpEeWozdUVnRTl2V1lKaUNwUWEyWXJjdlp0aEx2TnRvMkNNdFJ5WW1heTc5d1VWN3E4TGxpdlp3MEV6YnZseVkzRThScTdZcDA5TFd5eHNhV1A3UGtJV2FYZ1hXWVRzazZ1a2tYWG01UWpGcUlZVDQ"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-26T15:37:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYi01NU9SaEJUalkyV2hZZkhqcnNKdVhJRGRORllZbkFidm0zS3BTcDBLNGlLZTlaM2I4WjdEWEMtaHVGanNxNlItb0hhRUh0MlBWZlFrT0tyd2MzMDdPV1RyeWE5S3huX21XX2x3RWpNNW1TRXA2THc1RExMUV9wSEtzOGJDMzRkR01vMFh0emwwdEtlMG5vQ1NyNGxHMkhxVGgxSnFJM0UwR3FwbHBodXJGWFdGa243WmxtRGIyV2FWa08zMy1xbXljOWRaazVnaGhIM2IxRmg0d1dxNmRpSTNycEFxbFp6ZDNqWWtn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达面临新竞争对手威胁",
-   "title_zh": "不是AMD也不是Marvell，英伟达真正需警惕的公司",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": -0.71,
-    "window_h": 0.5
-   }
   }
  ]
 }
