@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T05:06:31.061586+00:00",
+ "updated_at": "2026-10-27T05:21:28.547044+00:00",
  "market": {
   "price": 216.0,
   "change_pct": 2.39,
@@ -10,12 +10,12 @@
    "days_left": 21
   },
   "day_sentiment": {
-   "avg": 0.41,
-   "count": 233
+   "avg": -1.0,
+   "count": 1
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": -1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.41（233条已评分）"
+     "score": -1,
+     "note": "今日新闻情绪 -1.00（1条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 45.8,
    "ma20": 224.9,
-   "as_of": "2026-10-27T05:06:31.045165+00:00"
+   "as_of": "2026-10-27T05:21:28.534737+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -402,7 +402,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1odUFaQWQzZEJfSENHZTFyVXhmTkwyQ25hQUxBbU5tMXFacmJhOXBwSFVzZjNqWTBieGZzSW1yNU1FRmVkMUxhV0xYYlJObDlHNHREendsdzc",
    "source": "驱动之家",
    "published_at": "2026-10-27T01:43:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "驱动之家",
@@ -413,6 +413,11 @@
      "name": "新浪财经",
      "published_at": "2026-10-27T01:43:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yWlU0aEpTWXNsRlFCZERaS0tzMTktWng4Uzk3Y3BvNTNiMkgwU2xXblhFV29VUGZTRG5yWTJoUzBxYlBCZ2xWOHJLRUJueFFyV2NZelZFUW1YemI4S0gyOW9VVWxDOHUwZkRoNEZkRHQyNHZ2WFBZV2h3dGN2VGc"
+    },
+    {
+     "name": "手机新浪网",
+     "published_at": "2026-10-27T05:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNkZfZ1dOMHE2R3ByWWc3dktyTkxNX0NLQVBNOVJVb2QybEQxTi1adnE4dWdkY2JYajFKSEhybnJqbUlPb2RDMFl6UlN2dmN6dmhQQVlDUEU4ajFwbUJuQVFjMVBVZ05FREFjWnlDaHF0T2IxTEpQX0ZiTVhPdnlEWg"
     }
    ],
    "category": "其他",
@@ -1135,26 +1140,6 @@
    "zh_summary": "推理十年内成10万亿美元市场，英伟达主导硬件",
    "title_zh": "推理十年内将成10万亿美元市场，英伟达掌握硬件",
    "sentiment": 1
-  },
-  {
-   "id": "d0a31a8715a2",
-   "title": "英伟达停产传闻掀起涨价潮？实探深圳华强北：一张RTX 5090显卡报价超5万元 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43Sjh4R21KYkRPampYdXpaZGQ4aU5fOVB0TDZ6Z3dRblBIVkY4Wms1Zk56R1VsMF9zWnI5RG9tb0xNUkltc3RaNHhJcEFtNVZnelk4bk5TNFVkeHRiMkhPXzRrckluaDZMVnQxd3VwS1JwWi1nNFVjbw",
-   "source": "新浪财经",
-   "published_at": "2026-10-26T18:05:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-26T18:05:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43Sjh4R21KYkRPampYdXpaZGQ4aU5fOVB0TDZ6Z3dRblBIVkY4Wms1Zk56R1VsMF9zWnI5RG9tb0xNUkltc3RaNHhJcEFtNVZnelk4bk5TNFVkeHRiMkhPXzRrckluaDZMVnQxd3VwS1JwWi1nNFVjbw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达停产传闻致RTX 5090涨价",
-   "title_zh": "英伟达停产传闻掀涨价潮，RTX 5090报价超5万元",
-   "sentiment": 0
   },
   {
    "id": "7c338902cad9",
@@ -4087,6 +4072,23 @@
    "sentiment": 0
   },
   {
+   "id": "b0a746ecbe9c",
+   "title": "NVIDIA Corporation $NVDA Stock: U S Wealth Group LLC. Trims Holdings - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjBIN0Jlbm9ySFBZeUJmc0tNWm03NWJKejJxZVdMSGhDX0lkbWVhX3A2ZHZoX2pYNGlVdm93YUpGYlFicW5sQ1hFVkhvYnRQSERxMzZMdXplcENuZ1RqTDdQOUlWdVNQbEtrZ1Z4ZGFaNmVuRmtzdEgwTGQybWItUUZzaVljZW1aX1JsY3RfdF9Jb3YzVWJicVVuanJfOHdtSGhNdGN3LVZWdjBVbndKRXlIU1B3TUY3TjlabzllaDlhemlC",
+   "source": "MarketBeat",
+   "published_at": "2026-10-26T08:59:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-26T08:59:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjBIN0Jlbm9ySFBZeUJmc0tNWm03NWJKejJxZVdMSGhDX0lkbWVhX3A2ZHZoX2pYNGlVdm93YUpGYlFicW5sQ1hFVkhvYnRQSERxMzZMdXplcENuZ1RqTDdQOUlWdVNQbEtrZ1Z4ZGFaNmVuRmtzdEgwTGQybWItUUZzaVljZW1aX1JsY3RfdF9Jb3YzVWJicVVuanJfOHdtSGhNdGN3LVZWdjBVbndKRXlIU1B3TUY3TjlabzllaDlhemlC"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "278526b899c3",
    "title": "E2E Networks To Expand Capacity By 5.4 MW FOR NVIDIA, Blackwell GPUS - TradingView",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGxoSzhjd1VpMjhGcHhZVEhmd1BtS1FWRUhNaU9oa294M19UZG96b29YcERubW1feHBTNVM4eWdHN0JTcUlFc3RRNThZblBMU214RDFpSFFTb0hncnZrM0owcDBJdFJFN2o2dzRmQWcwT2xQMVBrUTJkZGJ0VUNMTnNlYmlJSE51LWJGSHotT3FNeG13aV9JYU95cEtVTXZaaGJhdUZobGtiWW5tTnZVQjhIVWJOcWdQb08wWTRHbWVLN2ROQ0d3a2dVSlN3UnhyclRV",
@@ -4210,6 +4212,23 @@
    "zh_summary": "Reynders McVeigh减持英伟达股份",
    "title_zh": "Reynders McVeigh资本管理公司减持英伟达股份",
    "sentiment": -1
+  },
+  {
+   "id": "e8ef6db1e776",
+   "title": "NVIDIA Corporation $NVDA Stock Sold by Silicon Valley Capital Partners - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPakRXUUt6aGx3UV9Da2pkaWNWbWJnY200Z1o5ZXpCV3ZRQTVhNXY2YURBaDB0ckRqUVNqTEhIelpOb25mRGZvSDB5OXhPci1yMndLdnI1LUJkMi1aa2w5bjJ3SkRNNUVmLURpRXlpWC1yWlBwaUhZQU8zdjBwbmdfRVFIME1ESFJqOUgwR25qV2NiVWx3Zm44R1ozWk9pUDVycHAxLWppb0RnSnhwNEowNVVyRENwU2ktZ2hpZUF2RTRqeXRzUlhHN3Fn",
+   "source": "MarketBeat",
+   "published_at": "2026-10-26T08:39:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-26T08:39:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPakRXUUt6aGx3UV9Da2pkaWNWbWJnY200Z1o5ZXpCV3ZRQTVhNXY2YURBaDB0ckRqUVNqTEhIelpOb25mRGZvSDB5OXhPci1yMndLdnI1LUJkMi1aa2w5bjJ3SkRNNUVmLURpRXlpWC1yWlBwaUhZQU8zdjBwbmdfRVFIME1ESFJqOUgwR25qV2NiVWx3Zm44R1ozWk9pUDVycHAxLWppb0RnSnhwNEowNVVyRENwU2ktZ2hpZUF2RTRqeXRzUlhHN3Fn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "f0474ebb681c",
@@ -6643,45 +6662,6 @@
    "zh_summary": "英伟达贡献标普500三季34%利润增量",
    "title_zh": "标普500三季净利预计增30%，英伟达贡献大",
    "sentiment": 1
-  },
-  {
-   "id": "6e466ce5efdd",
-   "title": "英伟达、AMD、博通表示有意认购Meta至多50亿美元股票-36氪 - 36kr",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmOS00ZjMyWElIR2gzOWd0N0tvY0l3S09HNFFVcGNZbHo4TUNjbW5mYkJmWE1xWHRMWmpIZERFT1oyb19SaVo1YlRndEVnSDFYR1l4M0phdVA",
-   "source": "36kr",
-   "published_at": "2026-10-25T20:43:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "36kr",
-     "published_at": "2026-10-25T20:43:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmOS00ZjMyWElIR2gzOWd0N0tvY0l3S09HNFFVcGNZbHo4TUNjbW5mYkJmWE1xWHRMWmpIZERFT1oyb19SaVo1YlRndEVnSDFYR1l4M0phdVA"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-26T11:18:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGJyYTc5WjhQTWNkaGxDQkZ6Y0JISmpldHZyTUpxZTFRVl9YVnJmQm5NVTdHbWVNQTJZdnlLd1V1OGh3Ml9pQjZsTTVaVWdTb3R2Z3VyeGZJanQtNzZibFJTcjJhMUJVV3BiZUlwSmR3N05nbno2RjZ5azlYTnlUcV92cUNKSnM4ajk1NS1aWnVBbkxiUXREWEloVk53c3A3eU0xT3VHWWtoUQ"
-    },
-    {
-     "name": "36kr.com",
-     "published_at": "2026-10-26T11:56:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmOS00ZjMyWElIR2gzOWd0N0tvY0l3S09HNFFVcGNZbHo4TUNjbW5mYkJmWE1xWHRMWmpIZERFT1oyb19SaVo1YlRndEVnSDFYR1l4M0phdVA"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-26T11:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOblgteUZ0NlBXalMwbjhvN29qeFBDWlZIcjdHc2VUcllnVllUMGVNVG1DRmFjWEdkOWx4VHAwSUs4d29KWnVXSnpfOW9KNlpNZEZlZzVUZ25td3JuUDlBUE9GWlo4dmtnTWNRWUh3NjNhdWJNV1dFVjRuWlIxUnR6eHhZWW50Sy1BSm5UUA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达等有意认购Meta至多50亿美元股票",
-   "title_zh": "英伟达、AMD、博通表示有意认购Meta至多50亿美元股票",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.75,
-    "window_h": 2.0
-   }
   }
  ]
 }
