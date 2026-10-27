@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T01:21:31.797603+00:00",
+ "updated_at": "2026-10-27T01:36:30.507761+00:00",
  "market": {
-  "price": 210.96,
-  "change_pct": -0.59,
+  "price": 216.0,
+  "change_pct": 2.39,
   "as_of": "2026-10-26",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 22
   },
   "day_sentiment": {
-   "avg": 0.4,
-   "count": 220
+   "avg": 0.42,
+   "count": 216
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 62% 分位"
+     "note": "现价处于52周区间 69% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（16家），隐含空间 +49.3%"
+     "note": "目标价中位数 $315（16家），隐含空间 +45.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.40（220条已评分）"
+     "note": "今日新闻情绪 +0.42（216条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $210.96 vs 20日均线 $225.54"
+     "note": "现价 $216.00 vs 20日均线 $224.90"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 62,
+   "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 16,
-   "implied_upside_pct": 49.3,
-   "ma20": 225.54,
-   "as_of": "2026-10-27T01:21:31.775388+00:00"
+   "implied_upside_pct": 45.8,
+   "ma20": 224.9,
+   "as_of": "2026-10-27T01:36:30.496922+00:00"
   },
-  "pe_ttm": 26.8,
-  "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+49.3%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.5,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -2076,12 +2076,17 @@
   },
   {
    "id": "4b2d865dc94c",
-   "title": "Cadence unveils Nvidia-backed AI models that chipmakers can run in-house - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXZrWlJVYTllelhNczNoX2dHZ2pQYk1FTUZtLVNPYUdZUEdEVElSZGpLR0QzWTJZS25DOUNHdXdvakRCcHBLVmxKbFBwVmNXWUhtZllwZ2p5ZzdjdnBUb3ZkOWRmT3VzbUNLQ09YRVVJQk5WSWtncHVkRjZUWlJYbDJ2TzRFM0hEM1YtOHd0c05XaW1GRFJhMU1aZEpzOVJZaU5UQTZCMi1EMExhNnRKRmRmR2gyaGZq",
-   "source": "Reuters",
-   "published_at": "2026-10-26T13:03:43+00:00",
-   "outlets_count": 2,
+   "title": "Cadence unveils Nvidia-backed AI models that chipmakers can run in-house - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlh4WDVFdDF6WHN3MjZtVEJOYzAxNzZtbzZQTWZoNnBDLUdmY3JxLS1jSUFtUEpkdzZWS1N0ckk4VmI0UzF3YXUtbnR6UzBDRmJ4U1FtUmRFZzZRRGFOM1JpOW9UbFN2MExFcWNDS0YzT0RvbGRRTEpWTmNQZjdtTUJ1aWY4T0Fl",
+   "source": "Yahoo! Finance Canada",
+   "published_at": "2026-10-26T13:03:13+00:00",
+   "outlets_count": 3,
    "outlets": [
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-26T13:03:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlh4WDVFdDF6WHN3MjZtVEJOYzAxNzZtbzZQTWZoNnBDLUdmY3JxLS1jSUFtUEpkdzZWS1N0ckk4VmI0UzF3YXUtbnR6UzBDRmJ4U1FtUmRFZzZRRGFOM1JpOW9UbFN2MExFcWNDS0YzT0RvbGRRTEpWTmNQZjdtTUJ1aWY4T0Fl"
+    },
     {
      "name": "Reuters",
      "published_at": "2026-10-26T13:03:43+00:00",
@@ -2097,7 +2102,11 @@
    "session": "盘前",
    "zh_summary": "Cadence推出英伟达支持的AI模型",
    "title_zh": "Cadence推出英伟达支持的AI模型，芯片厂商可内部运行",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.75,
+    "window_h": 2.0
+   }
   },
   {
    "id": "507393db1d17",
@@ -3704,66 +3713,6 @@
    "sentiment": -1
   },
   {
-   "id": "3d3ca32b8def",
-   "title": "NVIDIA Corporation $NVDA Stock Sold by SkyView Investment Advisors LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbnFGcUViY3FabXFRSEdwMW93bm5nZTFhY3J6eWpZaXJXTWJKUmlPRkNoS3ZSMlowUWVMeFVicWlBamY2OGRpcmF2emVKc3ZtZGlHMUQ1a0ZvdDJMdk5tb1pTNmd3OV9jZ01yTFV3SnE4bFBjWXF0WHQ0RDJyXzlQZnBrbTFseDJDTERvekdJUVBsb2tyNnMwTGN2RVhidVU2YzJiQWM4bGhCMkRvOTRYeUJ6NlFjU0NWT1dGdDJhNHZ5cjJlc3ZPWUVB",
-   "source": "MarketBeat",
-   "published_at": "2026-10-26T08:39:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-26T08:39:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbnFGcUViY3FabXFRSEdwMW93bm5nZTFhY3J6eWpZaXJXTWJKUmlPRkNoS3ZSMlowUWVMeFVicWlBamY2OGRpcmF2emVKc3ZtZGlHMUQ1a0ZvdDJMdk5tb1pTNmd3OV9jZ01yTFV3SnE4bFBjWXF0WHQ0RDJyXzlQZnBrbTFseDJDTERvekdJUVBsb2tyNnMwTGN2RVhidVU2YzJiQWM4bGhCMkRvOTRYeUJ6NlFjU0NWT1dGdDJhNHZ5cjJlc3ZPWUVB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "SkyView投资顾问出售英伟达股票",
-   "title_zh": "SkyView投资顾问出售英伟达股票",
-   "sentiment": -1
-  },
-  {
-   "id": "e8ef6db1e776",
-   "title": "NVIDIA Corporation $NVDA Stock Sold by Silicon Valley Capital Partners - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPakRXUUt6aGx3UV9Da2pkaWNWbWJnY200Z1o5ZXpCV3ZRQTVhNXY2YURBaDB0ckRqUVNqTEhIelpOb25mRGZvSDB5OXhPci1yMndLdnI1LUJkMi1aa2w5bjJ3SkRNNUVmLURpRXlpWC1yWlBwaUhZQU8zdjBwbmdfRVFIME1ESFJqOUgwR25qV2NiVWx3Zm44R1ozWk9pUDVycHAxLWppb0RnSnhwNEowNVVyRENwU2ktZ2hpZUF2RTRqeXRzUlhHN3Fn",
-   "source": "MarketBeat",
-   "published_at": "2026-10-26T08:39:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-26T08:39:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPakRXUUt6aGx3UV9Da2pkaWNWbWJnY200Z1o5ZXpCV3ZRQTVhNXY2YURBaDB0ckRqUVNqTEhIelpOb25mRGZvSDB5OXhPci1yMndLdnI1LUJkMi1aa2w5bjJ3SkRNNUVmLURpRXlpWC1yWlBwaUhZQU8zdjBwbmdfRVFIME1ESFJqOUgwR25qV2NiVWx3Zm44R1ozWk9pUDVycHAxLWppb0RnSnhwNEowNVVyRENwU2ktZ2hpZUF2RTRqeXRzUlhHN3Fn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "硅谷资本合伙出售英伟达股票",
-   "title_zh": "Silicon Valley Capital Partners出售英伟达股票",
-   "sentiment": -1
-  },
-  {
-   "id": "48f1a433b445",
-   "title": "NVIDIA Corporation $NVDA Stock Acquired by Talon Private Wealth LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDNMVHhkU2FCRnRfY19yU2VQeElxc2lyRkJVaVF5a0N2QnJyME5vZ3VlNEpiNW9faWpXSUViMHJlN0doLU9pY240Mm1fU0VvSWIzNmtER0UwS0ZoOFdKR1VCN0VUTk9DUHRORzJ0N09LZDYweE83MVh1R0N3bEZwa3hMd2VQa21XZEdfZnhINFhGSWxmM3JFRm05VEhNSDZBNzFMamFpaFlhRDFYZVdHRzZoSmRQTll1ZWxuZkgtOWtnUkh5LWc",
-   "source": "MarketBeat",
-   "published_at": "2026-10-26T08:39:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-26T08:39:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTDNMVHhkU2FCRnRfY19yU2VQeElxc2lyRkJVaVF5a0N2QnJyME5vZ3VlNEpiNW9faWpXSUViMHJlN0doLU9pY240Mm1fU0VvSWIzNmtER0UwS0ZoOFdKR1VCN0VUTk9DUHRORzJ0N09LZDYweE83MVh1R0N3bEZwa3hMd2VQa21XZEdfZnhINFhGSWxmM3JFRm05VEhNSDZBNzFMamFpaFlhRDFYZVdHRzZoSmRQTll1ZWxuZkgtOWtnUkh5LWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Talon私人财富购入英伟达股票",
-   "title_zh": "Talon Private Wealth LLC购入英伟达股票",
-   "sentiment": 1
-  },
-  {
    "id": "f0474ebb681c",
    "title": "逾50亿美元！英伟达等三巨头向中国台湾载板厂投巨资 - Sohu",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXdHVmFFM3dJN2h5SWxyY05kOUlWNFQ5d1IyVDVUNGZjd1RrZ0lSc2JqY254NGZvTUNqdkxDZm5VSmtYeWU3YjYwZFFJUUhRdTBoTlljWTk0V0ZVNlFLOGRkcThnZ2p6dzhwdGlIVTJnY01xTDUyY2VlQjRxVS10RmtGNzFMSWtO",
@@ -4245,26 +4194,6 @@
    "zh_summary": "道富买入近1590万股英伟达",
    "title_zh": "道富公司买入15897836股英伟达股票",
    "sentiment": 1
-  },
-  {
-   "id": "b0d1aa0cb7b7",
-   "title": "NVIDIA Corporation $NVDA Stock: IKE Capital LLC Trims Position - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOGZlRGJjbTR0QlVrMzhXdGNCV0YydWVZcXV2cmd4a2lKWHNKV09JSTZkM3R1SW90YWtRX0xPWXNkNjJaR0g1MzZsbTY3VFZ6bURCeU80b1lkMzhYTHdLdWdUN2NwS0laYnVJUUx2X0N0cTRfVFE2Vk9VT2NfMFZIdllwdG9HTEVJSXhfcjNodmhjZ2RNYW91YmJ4MWFpZm5kek1faDN6VVBuUTRBalhKQm9nZjY1SzZhWVNLazBn",
-   "source": "MarketBeat",
-   "published_at": "2026-10-26T07:39:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-26T07:39:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOGZlRGJjbTR0QlVrMzhXdGNCV0YydWVZcXV2cmd4a2lKWHNKV09JSTZkM3R1SW90YWtRX0xPWXNkNjJaR0g1MzZsbTY3VFZ6bURCeU80b1lkMzhYTHdLdWdUN2NwS0laYnVJUUx2X0N0cTRfVFE2Vk9VT2NfMFZIdllwdG9HTEVJSXhfcjNodmhjZ2RNYW91YmJ4MWFpZm5kek1faDN6VVBuUTRBalhKQm9nZjY1SzZhWVNLazBn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "IKE Capital减持英伟达股份",
-   "title_zh": "IKE Capital减持$NVDA股票",
-   "sentiment": -1
   },
   {
    "id": "9cc578b6756c",
@@ -5654,7 +5583,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEJHV01KaTZzMXRJSDZMcmlIODhGWHV6eFhncmwtWEU1NjV0LXFnZTJHcWxTb1NKS21fVGNsa29ldTFJSUtsdHk1YXFQRm02RlYzdFJGRkEtcTJhX2F2QUZqZWNOX0FsRkFzb0lGZC10VFlYVEhhTkJaUkVFODhhOEV0ZGd1UHFz",
    "source": "手机搜狐网",
    "published_at": "2026-10-26T01:00:06+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "手机搜狐网",
@@ -5675,6 +5604,11 @@
      "name": "手机新浪网",
      "published_at": "2026-10-26T01:26:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DcG1saE5KX2JYNnFwSXRLcDVRZXQ2bFZ4X0x0NzRidnBBSlVNQWJCaWJaTnltRm1SeDlYX0NIcWRkUzdMTW84ZHFlcV9IWmZKUERPQ2RqcGN5RmdXVzhZajVHcllTU2J2ZlFKclFoWDBEczlkaGNxc1VRNVcyT28"
+    },
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-26T01:19:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12Yk9KbHZod083QzJBRTFNMjk3Zi1jX1NTZk1rVGV5ZFNHMzU0dk9EUXBmb3drc0pHTFhobVZHLUtkMER6M1FnT0d5d0VuTjJvWFdGZFJpWHAwNnc5c3dveFpyVFZid01IYjdWUERiSFU5UWpqR19VUEtMYWUwdw"
     }
    ],
    "category": "其他",
@@ -6708,6 +6642,79 @@
    "zh_summary": "Surface Pro 11外接RTX显卡实现六屏",
    "title_zh": "Surface Pro 11外接RTX 5060 Ti显卡支持六屏",
    "sentiment": 1
+  },
+  {
+   "id": "35d39f9c0cc4",
+   "title": "NVIDIA Tokenised Stock Rises On Fresh Buying Momentum - MarketForces Africa",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNjVDYW5rbVJQTXp0SkRuQmh3eFE1a0YxTHNYNGR6R0pEWmVqcGFDeXZSTWg0TU9pbE5mYjEzcHIzOU9Ja1pTWjVFWnRlMWxYN192NlhiQmRkdnRuWk9oZVRSTHhtTjhadWsyZ1RkeF9jLVBRaXdUZTZJV2IyRlIyS3RteVBuSzg",
+   "source": "MarketForces Africa",
+   "published_at": "2026-10-25T15:24:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketForces Africa",
+     "published_at": "2026-10-25T15:24:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNjVDYW5rbVJQTXp0SkRuQmh3eFE1a0YxTHNYNGR6R0pEWmVqcGFDeXZSTWg0TU9pbE5mYjEzcHIzOU9Ja1pTWjVFWnRlMWxYN192NlhiQmRkdnRuWk9oZVRSTHhtTjhadWsyZ1RkeF9jLVBRaXdUZTZJV2IyRlIyS3RteVBuSzg"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "af6677de07d2",
+   "title": "GOOGL's $250B AI Chip Opportunity Takes Aim At NVDA — Beth Kindig Says Google Is Going After ‘One Of The Most Profitable Hardware Businesses’ - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWp2U0RzdHBRTFh6dVpHUlBqb3lxMXFFWnM1Mld3WndRbzRpbXEtbkxLbWw2aFhscGJJT3M5aWF5Q3lLaWJyOVRHUEtKT04yWWZNdUVHWWdhMklva2k3TF82YUs3RlBtVVhxTFBVTjRXc3NCWGtIWi1nX19uSzN5UzJ4TXVMZFJfYkoxc3JORDRhak5LU1lCWnFlbk9SZDRCN3pGYWJORUN6aTIweUE",
+   "source": "Stocktwits",
+   "published_at": "2026-10-25T14:46:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-25T14:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWp2U0RzdHBRTFh6dVpHUlBqb3lxMXFFWnM1Mld3WndRbzRpbXEtbkxLbWw2aFhscGJJT3M5aWF5Q3lLaWJyOVRHUEtKT04yWWZNdUVHWWdhMklva2k3TF82YUs3RlBtVVhxTFBVTjRXc3NCWGtIWi1nX19uSzN5UzJ4TXVMZFJfYkoxc3JORDRhak5LU1lCWnFlbk9SZDRCN3pGYWJORUN6aTIweUE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
+  {
+   "id": "307a6b62c6c0",
+   "title": "Here's What $10,000 Invested Equally in Nvidia, AMD, and Broadcom Could Be Worth by 2030 - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQam9ueHNidEo0LVFIUml2R3NFbl8wNklCdzcxNWVsc1FqSF9yTUh6eVRoU3Y5eDFpN1dXa2EtQnAzOW96WDZaZXgwTzlGaGJZZHc2cGNsbWt1Y0hvWFV1MGJfTldLVU52WVpoT1lpZ2JiY1k1TUt4bzIyS0pmaUNKY1ZUYzRwOEduWnRETElFS2tBUTZ3Y2JsakpB",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-25T13:35:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-25T13:35:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQam9ueHNidEo0LVFIUml2R3NFbl8wNklCdzcxNWVsc1FqSF9yTUh6eVRoU3Y5eDFpN1dXa2EtQnAzOW96WDZaZXgwTzlGaGJZZHc2cGNsbWt1Y0hvWFV1MGJfTldLVU52WVpoT1lpZ2JiY1k1TUt4bzIyS0pmaUNKY1ZUYzRwOEduWnRETElFS2tBUTZ3Y2JsakpB"
+    },
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-25T14:15:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV19lUHYwU1N2d0lVanRvN1I1UzNSMVZxUEdlcGJsZW1VVUdwbUhvTkVPRTJVY2lnMHRmOFlpN3d4VXRqcHBnWVg5N2lLYmVZTVR0TUJwMHZCcWxpVW5PcUd6ZENIeXJhZmJiMDRWeW5rYzNrRDF1Vi00VkR5MF94SUtZd3hmMHc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "8e40fa85426b",
+   "title": "Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories' — details unclear about potential overlaps, firm already charges more than twice that amount for its AI Enterprise software platform - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNVEpXZFd5Q2JyNFYyWHpGb1QwWWFZZ3paclJmT0NwTFNpakwwR2l5aDZDNkRyTWVoOUdFanJQd2dWMDJ3QlJxc2NRbllGXy0zU2JiUmJwSkVhaFlES1hXU2hhMFN6S0FLZjJKemtsS1JwWXdZb3QwQUV6QzRhUzZnVUllcHE4Mi0tQ2ZUUHBLc2hHM1ZNbm1xdkJMclUxcTBEcVdrZkZjYnRVRlpFODNNVTBoS0hZaGxwYVktTW85Z2djVWlId2dldzQ2dVVBLXk2dldmdUFGMnJrY19CUXQtbG16NzNiMFJmR3pGb0pOMDFacEJwdGJmYVVUYmVUZGhyeVNDaWNuZVlxZ1VPdlNlMGJGSlc1T3RfOEliZDZ3ZnJFRVZXWHltWFI4SUFsTE41eThnRUJkMU8zVE1mcWQ1N0JvM29BV3Q0MHZDUXdFVQ",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-25T13:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-25T13:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNVEpXZFd5Q2JyNFYyWHpGb1QwWWFZZ3paclJmT0NwTFNpakwwR2l5aDZDNkRyTWVoOUdFanJQd2dWMDJ3QlJxc2NRbllGXy0zU2JiUmJwSkVhaFlES1hXU2hhMFN6S0FLZjJKemtsS1JwWXdZb3QwQUV6QzRhUzZnVUllcHE4Mi0tQ2ZUUHBLc2hHM1ZNbm1xdkJMclUxcTBEcVdrZkZjYnRVRlpFODNNVTBoS0hZaGxwYVktTW85Z2djVWlId2dldzQ2dVVBLXk2dldmdUFGMnJrY19CUXQtbG16NzNiMFJmR3pGb0pOMDFacEJwdGJmYVVUYmVUZGhyeVNDaWNuZVlxZ1VPdlNlMGJGSlc1T3RfOEliZDZ3ZnJFRVZXWHltWFI4SUFsTE41eThnRUJkMU8zVE1mcWQ1N0JvM29BV3Q0MHZDUXdFVQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
   }
  ]
 }
