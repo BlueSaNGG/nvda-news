@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T07:06:34.246655+00:00",
+ "updated_at": "2026-10-27T07:21:33.225541+00:00",
  "market": {
   "price": 216.0,
   "change_pct": 2.39,
@@ -10,8 +10,8 @@
    "days_left": 21
   },
   "day_sentiment": {
-   "avg": 0.64,
-   "count": 25
+   "avg": 0.63,
+   "count": 27
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.64（25条已评分）"
+     "note": "今日新闻情绪 +0.63（27条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 45.8,
    "ma20": 224.9,
-   "as_of": "2026-10-27T07:06:34.232701+00:00"
+   "as_of": "2026-10-27T07:21:33.210321+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -62,13 +62,69 @@
  },
  "stories": [
   {
-   "id": "9a759d1f5981",
-   "title": "Nvidia to Invest $3 Billion in Meta’s Equity Offering as They Expand AI Partnership - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVBNdzlMTTN3TWNmZmkyRFNZREhOcThOQWhMRk14VWlReXF4LW5DR2hsSjJneG1JeEdQM0VmX2tPNHJrVXdrdHhZbURadXZMdXczRkxjakpQbWFGQzBGX0lMN09mc0hQamNGX21PUnFNNDliVHZuQi02YWhucmE1SEVPcG5nSGc2aktVRUo5T1hpaEZtSnJyQTZDdHFGaXVTN1FyeU04U0YyaU5rcEZKbkhvTVdoMXFNMVE",
-   "source": "WSJ",
-   "published_at": "2026-10-27T07:01:00+00:00",
+   "id": "14cae95455dd",
+   "title": "英伟达将投资30亿美元参与Meta股权发行，双方扩大AI合作 - 华尔街日报中文网",
+   "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNN2tDLU9aYzBldHlZWFJ5Zng0V2NXQy1iYkVpV0RvSW9PR3A5cWVIY2d2ZGNTaU95NlZSNVNXRjdZZDZTaTQ4TDRrNUVxQ0ZTOEFyanlhZV9XRGc4eS1NZFJNajlBWm8yV3ZyWno0eUUydktmdGY2Zm1NeTU2aWpNQWU1SGY0OUs3bzl5YUo0M1dhbU9kWXM1T0NhWFZ6VmY2eWFvcTBfcHNJOWRLSmFjbFo5REJHalVuMkJ5Z1F6TXI0aHpMUzF3ZWM2c3RFcHJ4dlR5Y0FOWkx6MnJaR3liRkY5Q0xBM1RiTTBpSlFuc0E4VTA2OUdabERmbi1xOHMwZ1d3d1lLbmxBT2FNSE5BRmxaLU9FdkZVc2VJZk9EUkNlQ2gta2R5TkRUNjRHM29SMGdxdnNDNkRIM0t3akRlYVd5bFFFMVRRaW5mMkYzQ2NBVXJwUGc",
+   "source": "华尔街日报中文网",
+   "published_at": "2026-10-27T07:14:00+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "华尔街日报中文网",
+     "published_at": "2026-10-27T07:14:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNN2tDLU9aYzBldHlZWFJ5Zng0V2NXQy1iYkVpV0RvSW9PR3A5cWVIY2d2ZGNTaU95NlZSNVNXRjdZZDZTaTQ4TDRrNUVxQ0ZTOEFyanlhZV9XRGc4eS1NZFJNajlBWm8yV3ZyWno0eUUydktmdGY2Zm1NeTU2aWpNQWU1SGY0OUs3bzl5YUo0M1dhbU9kWXM1T0NhWFZ6VmY2eWFvcTBfcHNJOWRLSmFjbFo5REJHalVuMkJ5Z1F6TXI0aHpMUzF3ZWM2c3RFcHJ4dlR5Y0FOWkx6MnJaR3liRkY5Q0xBM1RiTTBpSlFuc0E4VTA2OUdabERmbi1xOHMwZ1d3d1lLbmxBT2FNSE5BRmxaLU9FdkZVc2VJZk9EUkNlQ2gta2R5TkRUNjRHM29SMGdxdnNDNkRIM0t3akRlYVd5bFFFMVRRaW5mMkYzQ2NBVXJwUGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "b876021dd181",
+   "title": "Nvidia, Meta deepen AI ties with $3 billion investment deal - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDNNbjNGQ2ZLU2lFUHJINWxOeTlDUkpzcU8yY21EMDc4WU40WExGdkhpS2g2SGRhSkJZRTNIeEkwcF9RcDhsOGhHcS1lUFBObGEya2w0TjFuMjBVa3RRTDl5RGsxRVVhUldfbjZRdUJhcmMtN1RBUy13MjhJcUkySUNKZW5seU00UGdGR0E0RTJkNG1OYmdGblRsTWFnTWdUNG11NVB3WWJVejlXTlgzaDRVRXV4elhER2pEZjZkRkFVU3gyTlE",
+   "source": "TradingView",
+   "published_at": "2026-10-27T07:02:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-27T07:02:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSDNNbjNGQ2ZLU2lFUHJINWxOeTlDUkpzcU8yY21EMDc4WU40WExGdkhpS2g2SGRhSkJZRTNIeEkwcF9RcDhsOGhHcS1lUFBObGEya2w0TjFuMjBVa3RRTDl5RGsxRVVhUldfbjZRdUJhcmMtN1RBUy13MjhJcUkySUNKZW5seU00UGdGR0E0RTJkNG1OYmdGblRsTWFnTWdUNG11NVB3WWJVejlXTlgzaDRVRXV4elhER2pEZjZkRkFVU3gyTlE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "48adf7b7f95a",
+   "title": "Key facts: NVIDIA Corporation $96.2B; Meta deal; GPU rental spikes - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdHJsUWoxUl9RN1A2TllDWmFKWG4weURCbk95UHZoa0hwcmZxQkFlaGpET3ZJc1NNTEhSMmRaVzhHbnBNYVRZVnlfUWZmMkJfSURwaEF3aUpPNHBTcnM1U3F1TzJURW5tY2xCVDRMN0QzU1pOZVJHOTZZWk52NlNIeTFNRTJIekVheFBRZDdvNWd3SDRaSXhTaVBEMzhMRzdqb2wxY2JQdVkxbWZwdEVFeEMwUWw4RmRTWDNBdWFKTEYtdw",
+   "source": "TradingView",
+   "published_at": "2026-10-27T07:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-27T07:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdHJsUWoxUl9RN1A2TllDWmFKWG4weURCbk95UHZoa0hwcmZxQkFlaGpET3ZJc1NNTEhSMmRaVzhHbnBNYVRZVnlfUWZmMkJfSURwaEF3aUpPNHBTcnM1U3F1TzJURW5tY2xCVDRMN0QzU1pOZVJHOTZZWk52NlNIeTFNRTJIekVheFBRZDdvNWd3SDRaSXhTaVBEMzhMRzdqb2wxY2JQdVkxbWZwdEVFeEMwUWw4RmRTWDNBdWFKTEYtdw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "b9383b2c644f",
+   "title": "Nvidia to Invest $3 Billion in Meta's Equity Offering as They Expand AI Partnership - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0pJMERfVzJRY1Zic2ppSFc0NkJNT3p2bWVLXzBPUnM4Z0xSWmtJbTBFSThUZ3hILTdEMWZCekhLaUc1Vjdtb3Jfa1hEd0x3aUg3OW1Yc283TUxwYnpRRjhaSUQ2dXo5Z0JuenRBQ3ZGelR6ZHE0NVJRM3RETVhIekVyaXRCaVFRTWotQXdtaFFFdERYSTZJek1GbzE0bDhfX01PUXBORkM0TU1BWmN1Q1lsaW5Ra0lWVF9tb1BOZkdpd3REcHJlNUlEMGxkVzlq",
+   "source": "marketscreener.com",
+   "published_at": "2026-10-27T06:51:11+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-27T06:51:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0pJMERfVzJRY1Zic2ppSFc0NkJNT3p2bWVLXzBPUnM4Z0xSWmtJbTBFSThUZ3hILTdEMWZCekhLaUc1Vjdtb3Jfa1hEd0x3aUg3OW1Yc283TUxwYnpRRjhaSUQ2dXo5Z0JuenRBQ3ZGelR6ZHE0NVJRM3RETVhIekVyaXRCaVFRTWotQXdtaFFFdERYSTZJek1GbzE0bDhfX01PUXBORkM0TU1BWmN1Q1lsaW5Ra0lWVF9tb1BOZkdpd3REcHJlNUlEMGxkVzlq"
+    },
     {
      "name": "WSJ",
      "published_at": "2026-10-27T07:01:00+00:00",
@@ -80,6 +136,23 @@
    "zh_summary": "英伟达拟投资30亿美元入股Meta",
    "title_zh": "英伟达拟向Meta股权融资投资30亿美元，扩大AI合作",
    "sentiment": 1
+  },
+  {
+   "id": "9cc8221301c5",
+   "title": "英伟达斥资30亿美元认购Meta股票，双方扩大AI合作，Meta股权融资规模提高至375亿美元 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSlN5S3ZOVXNBMS1YSUdBdkxQWm50UjdJSzFac1YtWVlmMUR6MVJJRDVsSElsRzYwVmc1elctMkVfQmxFVWZuYUswdTJKSnllQXJLX01iUDQtVUUyRm93ZmVGcGdaWklwVE5iTDFpdkw5aU1LUmxrel9paHQycDV0M08xODZuZzVWS2JjazRRWWFlRklnQXdiUV9KRVJ5cHdKY01GN3BoNkExcGpheV9TYkM3b0hTZERTV3hycmhmZkEwckZCM0lsRHROQldiQzd6c0luR2xiMzBkUkstUHlJ",
+   "source": "新浪财经",
+   "published_at": "2026-10-27T06:50:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-27T06:50:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSlN5S3ZOVXNBMS1YSUdBdkxQWm50UjdJSzFac1YtWVlmMUR6MVJJRDVsSElsRzYwVmc1elctMkVfQmxFVWZuYUswdTJKSnllQXJLX01iUDQtVUUyRm93ZmVGcGdaWklwVE5iTDFpdkw5aU1LUmxrel9paHQycDV0M08xODZuZzVWS2JjazRRWWFlRklnQXdiUV9KRVJ5cHdKY01GN3BoNkExcGpheV9TYkM3b0hTZERTV3hycmhmZkEwckZCM0lsRHROQldiQzd6c0luR2xiMzBkUkstUHlJ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "ae9c37be4bbc",
@@ -106,12 +179,12 @@
    "title": "NVIDIA GTC conference in Berlin - The Daily News | Texas' Oldest Newspaper",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXQ4U19xZ3RSZFJhTGptbTluQTlHdEpLT3U4OGxPV3RIaTNRbTdHOFgwRWpIbVhwTW1OMnhjY0VxRVFKd09PYkJVU3hVSzF4Y1J6VGp5dkVFcjJ4TW5KdWJteXFxb0VRM1VBSHN5Ujk2aElYb2NWOWMzTVRmaFhxVU0wbkxZdC0wcGZDUU5Ea1lWVU1yZjV5YXNhT1dsUzBzWnFZdU9pa1Vld1NRV0EyR2x6LUhNNEVvOGplZ0lRZWd5c1Zy",
    "source": "The Daily News | Texas' Oldest Newspaper",
-   "published_at": "2026-10-27T06:46:22+00:00",
+   "published_at": "2026-10-27T06:45:20+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "The Daily News | Texas' Oldest Newspaper",
-     "published_at": "2026-10-27T06:46:22+00:00",
+     "published_at": "2026-10-27T06:45:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXQ4U19xZ3RSZFJhTGptbTluQTlHdEpLT3U4OGxPV3RIaTNRbTdHOFgwRWpIbVhwTW1OMnhjY0VxRVFKd09PYkJVU3hVSzF4Y1J6VGp5dkVFcjJ4TW5KdWJteXFxb0VRM1VBSHN5Ujk2aElYb2NWOWMzTVRmaFhxVU0wbkxZdC0wcGZDUU5Ea1lWVU1yZjV5YXNhT1dsUzBzWnFZdU9pa1Vld1NRV0EyR2x6LUhNNEVvOGplZ0lRZWd5c1Zy"
     }
    ],
@@ -240,6 +313,23 @@
    "zh_summary": "Aivres展示HGX Vera CPU平台",
    "title_zh": "Aivres在OCP峰会展示英伟达HGX Vera CPU平台",
    "sentiment": 0
+  },
+  {
+   "id": "5d6e40218776",
+   "title": "Meta Deepens NVIDIA Partnership on Muse AI Models and Infrastructure - Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUhPeG8xd3FPRlltalRoRnZRdDAxT25oQlctOGRQY3NKTkVBemJsTGxBSTgwUlZjRkZHMXRfSkk5SXJDdks3RXNSZWRrVnRWR0J1SGFFb0ZFWDlOV1A5WW13ZVk1alhYSkwweWlpNko4Snoxcm5YNHVMVG90emliQTFQRjFoYVFpWEF3YlNxQ1FHdUNJ",
+   "source": "Unite.AI",
+   "published_at": "2026-10-27T06:18:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Unite.AI",
+     "published_at": "2026-10-27T06:18:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUhPeG8xd3FPRlltalRoRnZRdDAxT25oQlctOGRQY3NKTkVBemJsTGxBSTgwUlZjRkZHMXRfSkk5SXJDdks3RXNSZWRrVnRWR0J1SGFFb0ZFWDlOV1A5WW13ZVk1alhYSkwweWlpNko4Snoxcm5YNHVMVG90emliQTFQRjFoYVFpWEF3YlNxQ1FHdUNJ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "0f5f9552d061",
@@ -6527,131 +6617,6 @@
    "zh_summary": "Firmus上市后：20亿美元支持者",
    "title_zh": "Firmus上市后：20亿美元支持者，英伟达占7.2%",
    "sentiment": 0
-  },
-  {
-   "id": "e569e8b758d9",
-   "title": "Microsoft High-End AI PC Gamble: Partnering with NVIDIA to Challenge Apple Head-On - 36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVN1hfd2V6Wk5XZ1YtU1ppSnFNWXZvUG1TSG1oTVJTZGlnR1poMTBZT0s1dXFzSDlzWkJsZmpLSnVFY1lhdTZ5LVNSS20yUmphQmJB",
-   "source": "36Kr",
-   "published_at": "2026-10-26T01:54:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-26T01:54:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVN1hfd2V6Wk5XZ1YtU1ppSnFNWXZvUG1TSG1oTVJTZGlnR1poMTBZT0s1dXFzSDlzWkJsZmpLSnVFY1lhdTZ5LVNSS20yUmphQmJB"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "微软与英伟达合作挑战苹果高端电脑",
-   "title_zh": "微软携手英伟达挑战苹果高端AI电脑",
-   "sentiment": 1
-  },
-  {
-   "id": "8a090f0d7921",
-   "title": "超37亿！西门子联合英伟达，打造“全AI驱动”工厂 - OFweek",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EdXp5bFlmenZXVW1GTi1QS0NCODM3U3ZBWXJvRlR3OFF4dlNud3RJS2FlWkhfdkVpcWxPYXFjYkdMR09kQnhObU82ZTF4Ulk1WC1YSDhkcGxxeEl6TEh1aWZodVpPMllPQ2hyTmVR",
-   "source": "OFweek",
-   "published_at": "2026-10-26T01:54:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "OFweek",
-     "published_at": "2026-10-26T01:54:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EdXp5bFlmenZXVW1GTi1QS0NCODM3U3ZBWXJvRlR3OFF4dlNud3RJS2FlWkhfdkVpcWxPYXFjYkdMR09kQnhObU82ZTF4Ulk1WC1YSDhkcGxxeEl6TEh1aWZodVpPMllPQ2hyTmVR"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "西门子联合英伟达打造全AI驱动工厂",
-   "title_zh": "超37亿！西门子联合英伟达，打造“全AI驱动”工厂",
-   "sentiment": 1
-  },
-  {
-   "id": "de620476afa9",
-   "title": "路径追踪提速20%！英伟达RTXPT 1.9发布：200万光源拉满 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14bmw5eTJzZUJnMW5ZSFl1SWYxZlRKbzhfMVZuQTVENUxhckhyQjlCQTgwVTI3eFBpS0h5a2xFMlBQeWZob005S3h2MHAwNEZGUHVtN0F0UG8",
-   "source": "驱动之家",
-   "published_at": "2026-10-26T01:46:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-26T01:46:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14bmw5eTJzZUJnMW5ZSFl1SWYxZlRKbzhfMVZuQTVENUxhckhyQjlCQTgwVTI3eFBpS0h5a2xFMlBQeWZob005S3h2MHAwNEZGUHVtN0F0UG8"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-26T01:46:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON1RDV2xKRWRVRkMySXRuX24xaFZmTGQ3V21xcFd3WTRhd05UM0pOOWQtOTcyaVppOEtiQXRXM3ZqOWM2RjM1Y0diclg1Yk1iNjcxQThmOE9MSWo3VTk5QWZCbUk1aThNd0hXeXdCbDFkQ1VlZHZxT2pWV3M3c21BeG83UnRKU200"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达发布RTXPT 1.9，路径追踪提速20%",
-   "title_zh": "路径追踪提速20%！英伟达RTXPT 1.9发布：200万光源拉满",
-   "sentiment": 1
-  },
-  {
-   "id": "4e4b94ec0531",
-   "title": "老卡越租越贵！英伟达H200租赁价暴涨143%：A100租金也跟着涨 - 驱动之家",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ScG8ydWFZRG5nRUtJUGpHRUJSS19qT0tweV9GVGo4SVZZdXJtTEs0RV9veVBTTFJQTE5fSzg4eFFvOGFRTkFXbG92SlktUWo2UlhpZHBvU2Y",
-   "source": "驱动之家",
-   "published_at": "2026-10-26T01:32:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-26T01:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ScG8ydWFZRG5nRUtJUGpHRUJSS19qT0tweV9GVGo4SVZZdXJtTEs0RV9veVBTTFJQTE5fSzg4eFFvOGFRTkFXbG92SlktUWo2UlhpZHBvU2Y"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-26T01:32:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVzN3VDFsdGpmNWt5bWwwXzNLTERhREhDRk9vaFlGUkl6UDJ5M3lpX1hiRG52eTEyZnVQa0xXM0lFd2pqdHhJS3N2VXJRU1JZMk1McXlBLUU4U183bkhHQVR6UHp4VThiVXZiZmx2NGZJelUzVG9tQkxIandNU3c"
-    },
-    {
-     "name": "手机搜狐网",
-     "published_at": "2026-10-26T01:32:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVNWZzR1MUJfZ3AzWDRWc2FtcXZmMWtjQlA1Q3BBSEgyTlpVZU10UmtHVWFQTjJWOVZTVno4Nko4aEhkclhueDFTU3pIRVF5dmNqUDdqU0twQjA5VEs3YW9rMlNlY3BfZXVfUW55WVIxd3Y2TGU3NW84Z2o2YmdOZVZTNXo5VFAt"
-    },
-    {
-     "name": "Sohu",
-     "published_at": "2026-10-26T01:32:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVNWZzR1MUJfZ3AzWDRWc2FtcXZmMWtjQlA1Q3BBSEgyTlpVZU10UmtHVWFQTjJWOVZTVno4Nko4aEhkclhueDFTU3pIRVF5dmNqUDdqU0twQjA5VEs3YW9rMlNlY3BfZXVfUW55WVIxd3Y2TGU3NW84Z2o2YmdOZVZTNXo5VFAt"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "breaking": true,
-   "zh_summary": "英伟达H200租赁价上涨143%",
-   "title_zh": "英伟达H200租赁价涨143%，A100租金也跟涨",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.11,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "4932c1bf1a84",
-   "title": "新云厂商股价暴跌、CDS飙升：英伟达“兜底式繁荣”露出裂缝 - 信息化观察网",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wc2JFclBsenJxT0I0QlpjT2hfVDVSUzdoQWI2LXdHeHczYU5UZDdDZ3ZGdDFkUXh0dzFRcUJGQmZyeDZvMEkxQlNpYTE4aW8zcWJiOWJqU1V2YW9Gd29UQw",
-   "source": "信息化观察网",
-   "published_at": "2026-10-26T01:28:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "信息化观察网",
-     "published_at": "2026-10-26T01:28:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wc2JFclBsenJxT0I0QlpjT2hfVDVSUzdoQWI2LXdHeHczYU5UZDdDZ3ZGdDFkUXh0dzFRcUJGQmZyeDZvMEkxQlNpYTE4aW8zcWJiOWJqU1V2YW9Gd29UQw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "新云厂商股价大跌，英伟达繁荣现裂缝",
-   "title_zh": "新云厂商股价暴跌、CDS飙升：英伟达“兜底式繁荣”露出裂缝 - 信息化观察网",
-   "sentiment": -1
   }
  ]
 }
