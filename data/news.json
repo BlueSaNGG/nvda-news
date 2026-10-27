@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T20:51:37.128087+00:00",
+ "updated_at": "2026-10-27T21:06:34.372787+00:00",
  "market": {
   "price": 217.94,
   "change_pct": 0.9,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.57,
-   "count": 215
+   "count": 216
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.57（215条已评分）"
+     "note": "今日新闻情绪 +0.57（216条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 44.5,
    "ma20": 224.44,
-   "as_of": "2026-10-27T20:51:37.109348+00:00"
+   "as_of": "2026-10-27T21:06:34.363781+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "34d7ee06616d",
+   "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4 - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeXRFNWJKdFVLNFh3bl9KQ0Q2QmsydTVDM2JxNWJaeEJwNGVKd0VEZzMwWFhoSDJITGc4QzdsdEc2eExad0QzVURLU2EwM2xjdDA4aGM3NVhPbjVhYldiLTJDN3Q1OXZQTnN3aHh1ZlI2bG5FM2wyVHE4R1AtaXk1T21VVkpLcWZjMlpzMFl0M3lwekhaR3dxODh0dGhKY3M",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-27T20:58:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-27T20:58:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeXRFNWJKdFVLNFh3bl9KQ0Q2QmsydTVDM2JxNWJaeEJwNGVKd0VEZzMwWFhoSDJITGc4QzdsdEc2eExad0QzVURLU2EwM2xjdDA4aGM3NVhPbjVhYldiLTJDN3Q1OXZQTnN3aHh1ZlI2bG5FM2wyVHE4R1AtaXk1T21VVkpLcWZjMlpzMFl0M3lwekhaR3dxODh0dGhKY3M"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
   {
    "id": "75f03ac2a997",
    "title": "Nvidia Vera Rubin and Vera CPUs now generally available on Oracle - Data Center Dynamics",
@@ -1218,6 +1235,23 @@
    "zh_summary": "英伟达GPU占Anthropic算力4.7GW",
    "title_zh": "英伟达GPU在Anthropic算力中占4.7GW，超谷歌TPU",
    "sentiment": 1
+  },
+  {
+   "id": "60fc78c56f1c",
+   "title": "Google TPUs Are Cheaper Than NVIDIA GPUs, Yet Anthropic’s $63 Billion TPU Financing Hit A Roadblock Until Broadcom Sweetened Terms For Banks - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnU0SEVmMnV1RnA1VGU0eGw2TjhJakFuUHJzWWlwM3pEWmJXLXhsdno1eHFycVJMQkV3QzQ0TmlFbERGQ3NJSU1WWUszZ3RYVGxnRkNnMUJWbURoZC1fbnJsci1WOG05dW8zaFp1X2ExU01fT1daOWZZQWtfM085RXNBSkVLQ25fOXFlNVctZ1dscUYyMDk0YWp2aVdURFk5VjMwWTBYOGtTTnR6VGszdUxVaG9HRktJVmt2a25FckhRTGZndW5nbFdTeEZ2NTVzY0NHSWdIUUN3MmtyY2l1QTZPVXAxU2piSXNpU3FxRlNEd9IB9wFBVV95cUxPeHNsM3ByUjNnZlcybS10SFNQM1JpMXJxY2VYR0xMejJsN1duZ3U1LTNwd1BCWDl2TFV3VlotelZ4bmp3c1dzbGg4N05fdVY3SHJ2bnZZQXMtbmMyUTJuVjFrdU9ycmhQWFlOd1NmUHp2OUNFQnRrZVNRN2lheW1PelR1S1FlS2pVeGFIZUFrRFFSaV9kdjJndy02VjF3cGVXOUFHcFRDcGFDcEZ6ZlFMVkpOMTNRUzhzbEFYSVRwek9MZEVLUm9oQ1EtbVEyNWpyV01jR1JmbHFSb1l6R1BaTWRCTHZWQjRZeGhtQVhaYkphTm54VG93",
+   "source": "Wccftech",
+   "published_at": "2026-10-27T15:27:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-27T15:27:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnU0SEVmMnV1RnA1VGU0eGw2TjhJakFuUHJzWWlwM3pEWmJXLXhsdno1eHFycVJMQkV3QzQ0TmlFbERGQ3NJSU1WWUszZ3RYVGxnRkNnMUJWbURoZC1fbnJsci1WOG05dW8zaFp1X2ExU01fT1daOWZZQWtfM085RXNBSkVLQ25fOXFlNVctZ1dscUYyMDk0YWp2aVdURFk5VjMwWTBYOGtTTnR6VGszdUxVaG9HRktJVmt2a25FckhRTGZndW5nbFdTeEZ2NTVzY0NHSWdIUUN3MmtyY2l1QTZPVXAxU2piSXNpU3FxRlNEd9IB9wFBVV95cUxPeHNsM3ByUjNnZlcybS10SFNQM1JpMXJxY2VYR0xMejJsN1duZ3U1LTNwd1BCWDl2TFV3VlotelZ4bmp3c1dzbGg4N05fdVY3SHJ2bnZZQXMtbmMyUTJuVjFrdU9ycmhQWFlOd1NmUHp2OUNFQnRrZVNRN2lheW1PelR1S1FlS2pVeGFIZUFrRFFSaV9kdjJndy02VjF3cGVXOUFHcFRDcGFDcEZ6ZlFMVkpOMTNRUzhzbEFYSVRwek9MZEVLUm9oQ1EtbVEyNWpyV01jR1JmbHFSb1l6R1BaTWRCTHZWQjRZeGhtQVhaYkphTm54VG93"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "9dc4ab12ebb6",
@@ -6619,51 +6653,6 @@
     "pct": -0.71,
     "window_h": 0.5
    }
-  },
-  {
-   "id": "70e87ffb5b8b",
-   "title": "Nvidia May Be Bankrolling More Than Chips in Oracle’s AI Expansion - Barchart.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMV9tYlRUZ1ZmanJ6Y2NwRF9RU0YzTnZDcS1BVFVfXzV2OFVUaEx6R2gwQ3V3ZGpzNGZ1OUJrNXZwVDRLUUFlYy1WRUhpTDJtT0FWdDZYNFpMUkx2YTllTkhBbnI0ZXJ2UVZfOGxqNXUtV2RhbDVoT2tOUVJURWg1U3VXcEh6cnlZTWdCaURXeVhnQWlFNF9xWF8zNGw1Nnkya1ZpSTVHUkNqLWtpX2c",
-   "source": "Barchart.com",
-   "published_at": "2026-10-26T15:14:09+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Barchart.com",
-     "published_at": "2026-10-26T15:14:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMV9tYlRUZ1ZmanJ6Y2NwRF9RU0YzTnZDcS1BVFVfXzV2OFVUaEx6R2gwQ3V3ZGpzNGZ1OUJrNXZwVDRLUUFlYy1WRUhpTDJtT0FWdDZYNFpMUkx2YTllTkhBbnI0ZXJ2UVZfOGxqNXUtV2RhbDVoT2tOUVJURWg1U3VXcEh6cnlZTWdCaURXeVhnQWlFNF9xWF8zNGw1Nnkya1ZpSTVHUkNqLWtpX2c"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-26T15:14:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQm4xd3VWdDZhaE5EdFE5ejR3dnpMbWlya19uU05qSWlubjNoQ0QxNFpjWDBfU1RzdHRGX0VZZ0dRQ3FHR3o4VFdCTTB1WW1TUnljTDV2VHpFUE1hTHNXMm9jdlV4TUZrLU4wMnpEZEVhQTliSXRHNjg2UTd5UGdYYXVveW5kSno3bmgtb010WmF2OXBjdXoyWTg2S1g3dw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达或资助甲骨文AI扩张",
-   "title_zh": "英伟达或为甲骨文AI扩张提供资金支持",
-   "sentiment": 1
-  },
-  {
-   "id": "9955d2f2a779",
-   "title": "Nvidia rallies on AI demand from SpaceX and Anthropic's IPO filing - StreetInsider",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlJ3RTd6VXRFcm14dWJ6WU9tUGRRTU9ueFBObU9wemlPRGotc3NRSlJud1F5X1hWSXR1TmtrWlZYM0x4SERFeHZfRFNJZV9DSGpGdFZtRVRGd1ZnYTdUNHFnLVlzeEZDSEhRZGNlcUd0c09iakJ5cDV2S2ZpQzgyNEZMczJRTl9icS1GN3lYb2liaHlyeTR1emhFUU5PQVRWcDFkZU51Z2Q2b1E0QWdPTi1WaDBpREozc1J3",
-   "source": "StreetInsider",
-   "published_at": "2026-10-26T15:11:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "StreetInsider",
-     "published_at": "2026-10-26T15:11:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlJ3RTd6VXRFcm14dWJ6WU9tUGRRTU9ueFBObU9wemlPRGotc3NRSlJud1F5X1hWSXR1TmtrWlZYM0x4SERFeHZfRFNJZV9DSGpGdFZtRVRGd1ZnYTdUNHFnLVlzeEZDSEhRZGNlcUd0c09iakJ5cDV2S2ZpQzgyNEZMczJRTl9icS1GN3lYb2liaHlyeTR1emhFUU5PQVRWcDFkZU51Z2Q2b1E0QWdPTi1WaDBpREozc1J3"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘中",
-   "zh_summary": "SpaceX与Anthropic需求推动英伟达上涨",
-   "title_zh": "SpaceX与Anthropic需求助推英伟达上涨",
-   "sentiment": 1
   }
  ]
 }
