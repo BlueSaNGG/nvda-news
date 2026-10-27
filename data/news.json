@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T06:21:27.822689+00:00",
+ "updated_at": "2026-10-27T06:36:52.899706+00:00",
  "market": {
   "price": 216.0,
   "change_pct": 2.39,
@@ -10,12 +10,12 @@
    "days_left": 21
   },
   "day_sentiment": {
-   "avg": 0.43,
-   "count": 7
+   "avg": 0.6,
+   "count": 15
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.43（7条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.60（15条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 16,
    "implied_upside_pct": 45.8,
    "ma20": 224.9,
-   "as_of": "2026-10-27T06:21:27.809895+00:00"
+   "as_of": "2026-10-27T06:36:52.890189+00:00"
   },
   "pe_ttm": 27.5,
   "pe_pct_5y": 22,
@@ -61,6 +61,91 @@
   }
  },
  "stories": [
+  {
+   "id": "ad000fb33032",
+   "title": "Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership By Investing.com - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUNYWGNnb3JkWU9jQm5pVk5vbjBRS2QySl9UWDQzU0FOM0M1U2xNTHRtZ1JxLVlHNHVLRFpELUVaeFJwdFIzMnRYTTFEdVJsZEF4Z3NrYW51QVZHYjlfNXg4Si1SRHJFQ1F2UExLUmZOZnlsczJfNmhuZ0pfaGt1V29sdHNmYmVFS1c2eVduS21pMG5BTGJUV0dMcGEtMjBpaXNBRUM0ZnFjX2gzZkFPNUNiWEVHdGpJOHd5TVhyRUgyOUVBQXJMWkczb3FQc3lF",
+   "source": "Investing.com",
+   "published_at": "2026-10-27T06:22:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-27T06:22:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUNYWGNnb3JkWU9jQm5pVk5vbjBRS2QySl9UWDQzU0FOM0M1U2xNTHRtZ1JxLVlHNHVLRFpELUVaeFJwdFIzMnRYTTFEdVJsZEF4Z3NrYW51QVZHYjlfNXg4Si1SRHJFQ1F2UExLUmZOZnlsczJfNmhuZ0pfaGt1V29sdHNmYmVFS1c2eVduS21pMG5BTGJUV0dMcGEtMjBpaXNBRUM0ZnFjX2gzZkFPNUNiWEVHdGpJOHd5TVhyRUgyOUVBQXJMWkczb3FQc3lF"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "f5889e3cb2a6",
+   "title": "Aivres OCP Summit 2026 NVIDIA Vera Rubin NVL72 Rack 1 - ServeTheHome",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbEFyV0JJcEZYQmdPUm0tNlRIZFVJRUVvLXpnRU5FeGR3UTZiTzZDRDRQVk90djhjTTladFl1azlHME1BUDlWQUhoaUZZVG9HTTJnQ0JVSUZaZENYbmhIV1hzUnhvTGxxcG54QXZnS2pnZmh0cnNEY2tZRDFWeFQ3WWRkZTd0QXBkT25EN2JWVmZLLUxTbjZEbjNsUWhGYW90VzJCalo4QWRQb0hEczVkV3pvUG56RW5wbWNsVXFYOFpZYXh1N2l3aEd1V0stVWhEX3dUY3llVQ",
+   "source": "ServeTheHome",
+   "published_at": "2026-10-27T06:22:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "ServeTheHome",
+     "published_at": "2026-10-27T06:22:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbEFyV0JJcEZYQmdPUm0tNlRIZFVJRUVvLXpnRU5FeGR3UTZiTzZDRDRQVk90djhjTTladFl1azlHME1BUDlWQUhoaUZZVG9HTTJnQ0JVSUZaZENYbmhIV1hzUnhvTGxxcG54QXZnS2pnZmh0cnNEY2tZRDFWeFQ3WWRkZTd0QXBkT25EN2JWVmZLLUxTbjZEbjNsUWhGYW90VzJCalo4QWRQb0hEczVkV3pvUG56RW5wbWNsVXFYOFpZYXh1N2l3aEd1V0stVWhEX3dUY3llVQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "df88be1a13bd",
+   "title": "Aivres OCP Summit 2026 NVIDIA HGX Vera CPU Platform 2 - ServeTheHome",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMGh3NEJ6Nm0tWFNEWWNZYkFUQzdDYzY4OURocWs3TXEyekh4RFZlX3E1b21vZWU5bXhKa2xlRzZCeXd1OHlTd3JIWEhqX3BFcS1rcFNMQXFocUdla0d5a054cUR1LWExNnRkMVB6QXg1THpFeTJHWllDdEJfTnhUejFDbnBNU2ZKLTJIVHliSmlrYlo1Si11NXZxaGt3QWZYV1BkWGhpcXdmb2pkV09OdzNpbE82Rzd2dEgtcXozSW42QXdMMEpRek92RlBKRlhrMG9US19sMA",
+   "source": "ServeTheHome",
+   "published_at": "2026-10-27T06:21:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "ServeTheHome",
+     "published_at": "2026-10-27T06:21:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMGh3NEJ6Nm0tWFNEWWNZYkFUQzdDYzY4OURocWs3TXEyekh4RFZlX3E1b21vZWU5bXhKa2xlRzZCeXd1OHlTd3JIWEhqX3BFcS1rcFNMQXFocUdla0d5a054cUR1LWExNnRkMVB6QXg1THpFeTJHWllDdEJfTnhUejFDbnBNU2ZKLTJIVHliSmlrYlo1Si11NXZxaGt3QWZYV1BkWGhpcXdmb2pkV09OdzNpbE82Rzd2dEgtcXozSW42QXdMMEpRek92RlBKRlhrMG9US19sMA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "0f5f9552d061",
+   "title": "英伟达将投资30亿美元参与Meta Platforms股票发行，双方深化AI合作 提供者 Investing.com - 英为财情 Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMWE83d3V4RlpwRHB3WURqQ2hjY01RSXkya1Z2c1VPQ0V6X2hrMUU4ZmRKRnZnNG5pSUtBZWM2UTNyQ3FxT29uc29pY2lMVV9GeGRKcFZUM0thWnZzMFltbHZ3N05GYjhjWTc0cUJrUW0",
+   "source": "英为财情 Investing.com",
+   "published_at": "2026-10-27T06:16:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "英为财情 Investing.com",
+     "published_at": "2026-10-27T06:16:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMWE83d3V4RlpwRHB3WURqQ2hjY01RSXkya1Z2c1VPQ0V6X2hrMUU4ZmRKRnZnNG5pSUtBZWM2UTNyQ3FxT29uc29pY2lMVV9GeGRKcFZUM0thWnZzMFltbHZ3N05GYjhjWTc0cUJrUW0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "bc44e1ebfcdb",
+   "title": "Meta与英伟达深化Muse系列模型合作 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObVBkUGxqRk8wTUJSLWZYMjVrMkFOMTNqYnBDeHhWTjVFVEp4VU94aUZkUE9KY3ZJd0dTNlYzZ2RIMEhGZGFYVm1wUnZrQ185YWZSSnRFaC1jaE80N3Y1TGNJRXVaUnNTWndqV2FlMk1ia0pLS0JHTjRuZVI0dG1TaGxOUmxXOWtPdWZsOQ",
+   "source": "搜狐网",
+   "published_at": "2026-10-27T06:10:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-27T06:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObVBkUGxqRk8wTUJSLWZYMjVrMkFOMTNqYnBDeHhWTjVFVEp4VU94aUZkUE9KY3ZJd0dTNlYzZ2RIMEhGZGFYVm1wUnZrQ185YWZSSnRFaC1jaE80N3Y1TGNJRXVaUnNTWndqV2FlMk1ia0pLS0JHTjRuZVI0dG1TaGxOUmxXOWtPdWZsOQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "4b659eab188a",
    "title": "最新消息：英伟达 $英伟达 (NVDA.US)$ 将投资 $30亿 参与 Meta $Meta Platforms (META.US)$ 股权发售 - Moomoo",
@@ -82,21 +167,64 @@
    "sentiment": 1
   },
   {
+   "id": "1f308b2ca454",
+   "title": "JUST IN: Nvidia $NVIDIA (NVDA.US)$ to invest $3 billion in Meta $Meta Platforms (META.US)$ equity offering - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlJrTmFiemt4VjQza1ZsUVllc2R6RHhTYVBUSDlmUERyTlJLck1HcVgyd3o4dzNmOTNSOTFPS0hFVnZTTmpYQnBVYWswOXFCTE1JQVkzcUZiSHQxV0dpRElQNEpfUk5aU0VkTVdUd0lzbUVWTmV2MjlCc29tdVZHTzdnRjdQeUk1OWIzck9nZXJmczhncmx6M19NbGZSZFh0YkJtR253",
+   "source": "Moomoo",
+   "published_at": "2026-10-27T06:07:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-27T06:07:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlJrTmFiemt4VjQza1ZsUVllc2R6RHhTYVBUSDlmUERyTlJLck1HcVgyd3o4dzNmOTNSOTFPS0hFVnZTTmpYQnBVYWswOXFCTE1JQVkzcUZiSHQxV0dpRElQNEpfUk5aU0VkTVdUd0lzbUVWTmV2MjlCc29tdVZHTzdnRjdQeUk1OWIzck9nZXJmczhncmx6M19NbGZSZFh0YkJtR253"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "72cd0055f81a",
    "title": "Nvidia, Meta partner on Muse agent as Nvidia invests $3 billion - TradingView",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSjBlNWdnMjZ5OENGekpodktOdnNXaHVoQlNEY2JyQnlxU0lJbVo4T2h1dk9hdFJ3eWFtZHE2cER6TmhRRVJ1dnQ3UFA2ZmNLRmtFT19QZEw0Q3hFNDJ1SkxUNUVVUUEwSEY5QWdwWEVSUHI2a2ZCQlptMVpSd083MDVCbXh3UThVa05haUpnSlQtWUdmZlQwSy04S1FVS0ZGWThMTzYzbXk3Wlg2V1Nlc2d5Tm1pdjNfcmNMOE82QUM1ejc5SnA2V080cw",
    "source": "TradingView",
    "published_at": "2026-10-27T06:06:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "TradingView",
      "published_at": "2026-10-27T06:06:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSjBlNWdnMjZ5OENGekpodktOdnNXaHVoQlNEY2JyQnlxU0lJbVo4T2h1dk9hdFJ3eWFtZHE2cER6TmhRRVJ1dnQ3UFA2ZmNLRmtFT19QZEw0Q3hFNDJ1SkxUNUVVUUEwSEY5QWdwWEVSUHI2a2ZCQlptMVpSd083MDVCbXh3UThVa05haUpnSlQtWUdmZlQwSy04S1FVS0ZGWThMTzYzbXk3Wlg2V1Nlc2d5Tm1pdjNfcmNMOE82QUM1ejc5SnA2V080cw"
+    },
+    {
+     "name": "KSL News",
+     "published_at": "2026-10-27T06:07:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONG1jZzRfMTU2MGVQbTlkRUpLakZ4ZEtwd1hxV2lMOTdkcXkzcC1ObEFTOE5yTmFWSmU1YTdFZDJDSWNTc3ZVMmQ2eDJkQVluSzE1S2N1VlVMX1ZINDJXRHVyY0Z5RzdUclNyeWZYZkNOVDVDNFpUZ0g5WnJWeEZHVEZ0WDJyT1RZYk1mODE3T1YwcVlBVGh4ZENHZlFEYTA"
+    },
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-27T06:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-27T06:19:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZUdUdVhLSXhuaGRYUGJzRnFvNkV0ME1oUjQybElUMHZnTXZQNmhMb1VyWUxuWU9SaV90RFVGZXhoRlFDYzRGRDZ5ME5GRzlvYy14ZWF4cENrZ19DeTdXSUtFZnRtMVRvbWQyOUJ2VWxTX2RVaFlGQVA5VU5zaXM"
+    },
+    {
+     "name": "Central Oregon Daily",
+     "published_at": "2026-10-27T06:19:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc2pGT2xudWI0UDk5aXh6RjlwdkNIVXc3VkIzMGdrcjMzRlZvd0pDWnpfaE1SdE0yTzV2R0VfbF8yeTBTb2hXc1RJcjNtNHdUTS1iTnpJZkd6SU9tNGVQaV9qZVhjZ01oelctZXFCTkhiS3ZYR3Y0cWhQRks2X2J0ak9CeXRZdTcxekVFS1hzQUZYclVWaVUzSWFndTNEdjBnMTZTTUh4bWhpQjQwZEh4UDlJd2dSVlZvLURIZV9hdENXYWxWTTVZMUdfX3AxV1RWVjEwOHJHc2VBdHVmMmI4QWg5eGRHeWUwMk1aWTdsbElrdw"
+    },
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-27T06:27:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFR0UHBMaHJWdUhFcFhXQTN3bWYwX09oUlR1Zng4QkQ0bGJtNlVGSWNvSnl3X1ZSREF2YWtqZldleGpWeG5ERnBQZjJ2amQzTEpkY0pVS1l1bEJZa3lzTUJnWTc1cGk0aVJYOW1UQ2RnN0twaE9rbm1Na3F6bjQxaDA4UU9QaTBNZ3NWc2ZnVVFZMHlSVjhOb2ZRMGsyVFFtOEd5SmwybkRnal9QZm5FcmhPb3lJS25MZmc"
     }
    ],
    "category": "其他",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "英伟达投资30亿美元与Meta合作Muse",
    "title_zh": "英伟达与Meta合作Muse智能体并投资30亿美元",
    "sentiment": 1
@@ -740,6 +868,23 @@
    "zh_summary": "三星等明年Q2向英伟达供HBM4",
    "title_zh": "三星和SK海力士明年Q2起向英伟达供应8层HBM4",
    "sentiment": 1
+  },
+  {
+   "id": "1019a15f9830",
+   "title": "Meta拟950亿美元股权融资 英伟达等拟认购至多50亿美元 - 观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSQ2FERlQtb3VKQW96UUlvSXdnLW8xbkY0R3h4d19BV2lhZnlFRUthd3BVUE5sR2x2WnhVb3ZzOXY0a21VQW1ZcElKYXdsY3ZwbWFGUlZIOWQ1a0ppZHNWVnVR",
+   "source": "观点网",
+   "published_at": "2026-10-27T01:09:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "观点网",
+     "published_at": "2026-10-27T01:09:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSQ2FERlQtb3VKQW96UUlvSXdnLW8xbkY0R3h4d19BV2lhZnlFRUthd3BVUE5sR2x2WnhVb3ZzOXY0a21VQW1ZcElKYXdsY3ZwbWFGUlZIOWQ1a0ppZHNWVnVR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "8ab9b214b683",
@@ -1435,26 +1580,6 @@
    "zh_summary": "推理十年内成10万亿美元市场，英伟达主导硬件",
    "title_zh": "推理十年内将成10万亿美元市场，英伟达掌握硬件",
    "sentiment": 1
-  },
-  {
-   "id": "d0a31a8715a2",
-   "title": "英伟达停产传闻掀起涨价潮？实探深圳华强北：一张RTX 5090显卡报价超5万元 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43Sjh4R21KYkRPampYdXpaZGQ4aU5fOVB0TDZ6Z3dRblBIVkY4Wms1Zk56R1VsMF9zWnI5RG9tb0xNUkltc3RaNHhJcEFtNVZnelk4bk5TNFVkeHRiMkhPXzRrckluaDZMVnQxd3VwS1JwWi1nNFVjbw",
-   "source": "新浪财经",
-   "published_at": "2026-10-26T18:05:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-26T18:05:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43Sjh4R21KYkRPampYdXpaZGQ4aU5fOVB0TDZ6Z3dRblBIVkY4Wms1Zk56R1VsMF9zWnI5RG9tb0xNUkltc3RaNHhJcEFtNVZnelk4bk5TNFVkeHRiMkhPXzRrckluaDZMVnQxd3VwS1JwWi1nNFVjbw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "RTX 5090报价超5万元",
-   "title_zh": "英伟达停产传闻致RTX 5090报价超5万元",
-   "sentiment": 0
   },
   {
    "id": "7c338902cad9",
@@ -6524,150 +6649,6 @@
    "session": "周末",
    "zh_summary": "Flora视频生成成本每小时0.72美元",
    "title_zh": "NVIDIA Flora视频成本：每小时0.72美元对比88.49美元",
-   "sentiment": 1
-  },
-  {
-   "id": "8e96b9d5d05b",
-   "title": "Nvidia Flora Beats GPT-6 Astra: $0.72 Robot Labels [2026] - tech-insider.org",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTNuU3BGUzFPNUZLT040R1cxLXdZS19NcEtPbTkwY3B1T1NoRGpyWVk2YzZUcEt0cThKWmU5am5MSndUNnhqOGd1QmRRTUlEZDVjcWFTYVZhWERzMkZJV2JZLTl3Z1Y5cTN0S3ZRTkJBOWVOaWdOcmZEcHVBSzlieG1BUHFtajQ",
-   "source": "tech-insider.org",
-   "published_at": "2026-10-26T00:32:32+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "tech-insider.org",
-     "published_at": "2026-10-26T00:32:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTNuU3BGUzFPNUZLT040R1cxLXdZS19NcEtPbTkwY3B1T1NoRGpyWVk2YzZUcEt0cThKWmU5am5MSndUNnhqOGd1QmRRTUlEZDVjcWFTYVZhWERzMkZJV2JZLTl3Z1Y5cTN0S3ZRTkJBOWVOaWdOcmZEcHVBSzlieG1BUHFtajQ"
-    },
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-26T00:32:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTNuU3BGUzFPNUZLT040R1cxLXdZS19NcEtPbTkwY3B1T1NoRGpyWVk2YzZUcEt0cThKWmU5am5MSndUNnhqOGd1QmRRTUlEZDVjcWFTYVZhWERzMkZJV2JZLTl3Z1Y5cTN0S3ZRTkJBOWVOaWdOcmZEcHVBSzlieG1BUHFtajQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达Flora击败GPT-6 Astra",
-   "title_zh": "英伟达Flora击败GPT-6 Astra，机器人标注0.72美元",
-   "sentiment": 1
-  },
-  {
-   "id": "1aaa7c9f1ef7",
-   "title": "科技早报 | 英伟达停产传闻搅动华强北，显卡一日一价；微信回应少量企业微信账号发色情链接 - Jiemian.com",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pNjVDOXM1blBqZzlibnMxdEVmalN0R0VOeFlLaU9XRUdTSWVyUWRRTHE4b2pneG41X19qeFVjc29RRDRZVHhwYWVfTE9XcXItajRoempYSWo",
-   "source": "Jiemian.com",
-   "published_at": "2026-10-26T00:12:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Jiemian.com",
-     "published_at": "2026-10-26T00:12:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pNjVDOXM1blBqZzlibnMxdEVmalN0R0VOeFlLaU9XRUdTSWVyUWRRTHE4b2pneG41X19qeFVjc29RRDRZVHhwYWVfTE9XcXItajRoempYSWo"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "英伟达停产传闻致显卡一日一价",
-   "title_zh": "英伟达停产传闻搅动华强北，显卡一日一价",
-   "sentiment": 0
-  },
-  {
-   "id": "e9ce6901e8a3",
-   "title": "S&P 500 Companies Project 30% Profit Surge, 34% from NVIDIA, Micron - 조선일보",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHEweWR6Z3JqaWdQV2FfUmxjWG9Wck5rOXdvZFZMcWFhUGp2NGxZT042S2xxdm00OEY4WUtnQ3VrTUlhTHA5SGpkcmpRemNLbFNodjZ1R09fSGxTVDhJbDgzRzFFY1ZkNEZRVldZSnJxZG5ySmt6c09fbzFVU3hNMWtmbkNCOHdpTU5yc1pB",
-   "source": "조선일보",
-   "published_at": "2026-10-26T00:09:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "조선일보",
-     "published_at": "2026-10-26T00:09:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHEweWR6Z3JqaWdQV2FfUmxjWG9Wck5rOXdvZFZMcWFhUGp2NGxZT042S2xxdm00OEY4WUtnQ3VrTUlhTHA5SGpkcmpRemNLbFNodjZ1R09fSGxTVDhJbDgzRzFFY1ZkNEZRVldZSnJxZG5ySmt6c09fbzFVU3hNMWtmbkNCOHdpTU5yc1pB"
-    }
-   ],
-   "category": "供应链",
-   "session": "周末",
-   "zh_summary": "标普500利润预计增30%，英伟达美光占34%",
-   "title_zh": "标普500企业预计利润增30%，英伟达与美光贡献34%",
-   "sentiment": 1
-  },
-  {
-   "id": "a626632ba16e",
-   "title": "NVIDIA RTXPT 1.9 Path Tracer Gets Around 20% Faster, Adds Windows on Arm Support - TechPowerUp",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEEtVnNaMVBCNkVrZHdsMThRbjZyMVo3TDZsQ0lVdnRTQ3hMQ2tWRHotQlVEQ2VKSGNUb0lRdFZvTUhVaVBaMmg1VDlRcHZCdDFHYkc1TTkwMDlRVWtaNEZGZHpSdUppTU1BcFIyVmpTekplVEV1eGF4WTFRQ2ZzaGwybUlkRDRFd0tsaENtYWtzWDdOVHpId1JjMkFsaGxkbGtIOExQSHFsYXBvb01HdjNpTdIBuAFBVV95cUxQdkE1aDRlaXBiV0ZCTVFMRHFGdGF0ZlRfQWFTSldMY2RRM3RyZF9wMTgxbmJsa0J3NF9iMnpGUjhlMWwxZG1oY0dfZlZwTXRkTHVFTGFTTGM2MTVobnZ5ajR5NzNzMHczLUM1S0FkSWxEUkl6LUJZRWRiaUdaRC1fTURhcHhsLTZLcll3OHZXbENwSWlXUnVRaGQ1MkpQWlh2OURHaWtxU0pHYkYyREZaUmNWVzFuZGJI",
-   "source": "TechPowerUp",
-   "published_at": "2026-10-26T00:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechPowerUp",
-     "published_at": "2026-10-26T00:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEEtVnNaMVBCNkVrZHdsMThRbjZyMVo3TDZsQ0lVdnRTQ3hMQ2tWRHotQlVEQ2VKSGNUb0lRdFZvTUhVaVBaMmg1VDlRcHZCdDFHYkc1TTkwMDlRVWtaNEZGZHpSdUppTU1BcFIyVmpTekplVEV1eGF4WTFRQ2ZzaGwybUlkRDRFd0tsaENtYWtzWDdOVHpId1JjMkFsaGxkbGtIOExQSHFsYXBvb01HdjNpTdIBuAFBVV95cUxQdkE1aDRlaXBiV0ZCTVFMRHFGdGF0ZlRfQWFTSldMY2RRM3RyZF9wMTgxbmJsa0J3NF9iMnpGUjhlMWwxZG1oY0dfZlZwTXRkTHVFTGFTTGM2MTVobnZ5ajR5NzNzMHczLUM1S0FkSWxEUkl6LUJZRWRiaUdaRC1fTURhcHhsLTZLcll3OHZXbENwSWlXUnVRaGQ1MkpQWlh2OURHaWtxU0pHYkYyREZaUmNWVzFuZGJI"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达RTXPT 1.9路径追踪提速约20%",
-   "title_zh": "英伟达RTXPT 1.9路径追踪提速约20%，新增Arm版Windows支持",
-   "sentiment": 1
-  },
-  {
-   "id": "d12f7c828476",
-   "title": "马斯克称SpaceX完成400亿美元债务融资 用于购买英伟达AI芯片 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mcUhVRjNiSENKaml3Um1pUUY4UG9rbFpuUUF3bnNpZHVmajlfX2JJY3llbkl0THNzRk82aEYwWWpnYVM3UWg4RHUtUQ",
-   "source": "手机新浪网",
-   "published_at": "2026-10-25T23:55:54+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-25T23:55:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mcUhVRjNiSENKaml3Um1pUUY4UG9rbFpuUUF3bnNpZHVmajlfX2JJY3llbkl0THNzRk82aEYwWWpnYVM3UWg4RHUtUQ"
-    },
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-26T02:10:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wSEdOU3JGS05GYnFqZDZJMUZ2c05SYXdxZHVGN203UFZwOUxRSGhfMXFzdWhYSzN0SkY0SmloOUFOT0Q0eEg5Rmg3OWdMaHVoOF9Jdy1XUzJFQUhV"
-    },
-    {
-     "name": "亚洲电视新闻",
-     "published_at": "2026-10-26T04:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc09Uem5uOGxHQ1NqcG1UaVBKZjc0c2xvYXVjWEptTlR6YnpMTGI0N0hNNms2MzhzaGpxUXIwZ21ldkZoU3FONEVRVjQtYktaX2VUcThzUFBTUDRQR0swdmlvdmZpcHM4ZXMxZVduSzExR2hOSFR2WVVIQTN3S2FiXzNhR2tlNkRBTEhVU1ZwQzJUbWppMUQ3WHpQeHVXOW41NmU0by1idXNENkFrWmhLQ1VFdTRtam1jTEI4a3lPZjl6MjRvdWRBRjZscjJDXzlSeG5ubHdaNlE4Qm5tNWRCV0xKcWhTTlM1YXd4QlR3NFNNcUU0dWthSW5fRWx2ajhu"
-    },
-    {
-     "name": "Newswav",
-     "published_at": "2026-10-26T04:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOR1dCaWtkSlZfQm0xTWItclJuSHh2SU5BZWNGMTE2c2F5Z1B2T2h6OThNTWFObW5zT2JIUWU1aW02OExMWER5a1U1eHl1ejhQcV9uNnprOXhKc21OZFJFWGRQUmdGVWlCQjRxN2hXM2ZKTGhjWjNBTGxSY0pTZzRsYXVRRlVudnUxY3pTN05yVGtjVFhyWmhRekVCa1BBWlFmaElNMzIyRVRyZV9RVnoxdFFIY0JIemhNMzB3c3RnaFhxNEFPM0RxZTZldnR1UlZaNkpOOFZiMjN4aG0tUFVxbVZiMUNteTFfVjMwbzdLYW5Bekp4dlI3OHllbkN2ZklTVEQ1cDI3R2ZRVVk"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "SpaceX融资400亿美元拟采购英伟达GPU",
-   "title_zh": "SpaceX完成400亿美元债务融资，拟采购英伟达GPU芯片",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": 0.11,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "14a672ff6b08",
-   "title": "英伟达瞄准GPU软件订阅收入黄仁勋提出每块GPU每年约1.35万|人工智能|运行|定价|软件业务|价格_手机新浪网 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUlQck9qblFSdzFUTjdoVXllajZ6VjYyeWp0clIxRzIyek5GQXhTQWIydUhfOVFGeEo2TVJydk85MVNWeVZUdUplRnhKNkVqb002X1F1NHY2LWR1dzVmNDZnc1RQQnpNeXVBSVh6NF90dDdMcXA3VkdaMlAtX0pNOG9BT19xb3FMU0ZxUFRNa3gxUQ",
-   "source": "新浪财经",
-   "published_at": "2026-10-25T23:51:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-25T23:51:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUlQck9qblFSdzFUTjdoVXllajZ6VjYyeWp0clIxRzIyek5GQXhTQWIydUhfOVFGeEo2TVJydk85MVNWeVZUdUplRnhKNkVqb002X1F1NHY2LWR1dzVmNDZnc1RQQnpNeXVBSVh6NF90dDdMcXA3VkdaMlAtX0pNOG9BT19xb3FMU0ZxUFRNa3gxUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达瞄准GPU软件订阅收入",
-   "title_zh": "英伟达瞄准GPU软件订阅，黄仁勋称每块GPU年费约1.35万",
    "sentiment": 1
   }
  ]
