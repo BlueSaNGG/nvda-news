@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-27T16:21:32.830596+00:00",
+ "updated_at": "2026-10-27T16:36:30.681451+00:00",
  "market": {
-  "price": 218.88,
-  "change_pct": 1.34,
+  "price": 218.05,
+  "change_pct": 0.95,
   "as_of": "2026-10-27",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.59,
-   "count": 158
+   "count": 165
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 73% 分位"
+     "note": "现价处于52周区间 71% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +43.9%"
+     "note": "目标价中位数 $315（17家），隐含空间 +44.5%"
     },
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.59（158条已评分）"
+     "note": "今日新闻情绪 +0.59（165条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $218.88 vs 20日均线 $224.48"
+     "note": "现价 $218.05 vs 20日均线 $224.44"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 73,
+   "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 43.9,
-   "ma20": 224.48,
-   "as_of": "2026-10-27T16:21:32.815326+00:00"
+   "implied_upside_pct": 44.5,
+   "ma20": 224.44,
+   "as_of": "2026-10-27T16:36:30.668035+00:00"
   },
-  "pe_ttm": 27.8,
+  "pe_ttm": 27.7,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+43.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,15 +62,37 @@
  },
  "stories": [
   {
+   "id": "8820dd40f11f",
+   "title": "Broadcom, Nvidia, Boeing, GM, UPS, JetBlue, and More Stocks That Explain Today’s Market - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBET2xGeDU1LTZXN3FENUloNjE1UEVnT2VOSmVheVNjQUtfUGoydXpjSkx6M2FMMWUxTFZIWWZCT2d5MFZ4OXJMbFNndVY3M0s1bW8wTml4UTVhNEZSVGZ2aUVjWlg",
+   "source": "Barron's",
+   "published_at": "2026-10-27T16:18:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-27T16:18:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBET2xGeDU1LTZXN3FENUloNjE1UEVnT2VOSmVheVNjQUtfUGoydXpjSkx6M2FMMWUxTFZIWWZCT2d5MFZ4OXJMbFNndVY3M0s1bW8wTml4UTVhNEZSVGZ2aUVjWlg"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
    "id": "7cb324ecba4e",
    "title": "Capacity Global at NVIDIA GTC 2026: Nokia and NVIDIA on AI-RAN’s Next Phase - Global Telecoms Business",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEYxTV9lNml2UmFfbzRrQmhjalNwOV9PNFNJOXI5c3NnTHdhSVRDVEhzSFZHSjEtQ3pTaVdQUnZDMkVjdkJoUmhFMGwtV1FRMjI3ODhPbURwZGdMRHk5TWwwM3VWRWQ0ZHFuU0VYRGxSZmdXVVQ1bWlldnpQSGZ3Tnpoc19ER3pHRWcwRlVoM3VqcXdPZWZnQ2d2aDJ4el90M3pucDJiX3NEUQ",
    "source": "Global Telecoms Business",
    "published_at": "2026-10-27T16:17:07+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Global Telecoms Business",
+     "published_at": "2026-10-27T16:17:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEYxTV9lNml2UmFfbzRrQmhjalNwOV9PNFNJOXI5c3NnTHdhSVRDVEhzSFZHSjEtQ3pTaVdQUnZDMkVjdkJoUmhFMGwtV1FRMjI3ODhPbURwZGdMRHk5TWwwM3VWRWQ0ZHFuU0VYRGxSZmdXVVQ1bWlldnpQSGZ3Tnpoc19ER3pHRWcwRlVoM3VqcXdPZWZnQ2d2aDJ4el90M3pucDJiX3NEUQ"
+    },
+    {
+     "name": "Capacity Media",
      "published_at": "2026-10-27T16:17:07+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEYxTV9lNml2UmFfbzRrQmhjalNwOV9PNFNJOXI5c3NnTHdhSVRDVEhzSFZHSjEtQ3pTaVdQUnZDMkVjdkJoUmhFMGwtV1FRMjI3ODhPbURwZGdMRHk5TWwwM3VWRWQ0ZHFuU0VYRGxSZmdXVVQ1bWlldnpQSGZ3Tnpoc19ER3pHRWcwRlVoM3VqcXdPZWZnQ2d2aDJ4el90M3pucDJiX3NEUQ"
     }
@@ -99,26 +121,6 @@
    "session": "盘中",
    "zh_summary": "甲骨文扩大与英伟达芯片供应协议",
    "title_zh": "甲骨文扩大英伟达芯片协议并首用谷歌TPU",
-   "sentiment": 1
-  },
-  {
-   "id": "e38ca4e9f8e9",
-   "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure - NVIDIA Newsroom",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMkc2eEt1TWtsdGMyakwwbENvTldlM2tKNjJTb1RwSTdnbXgxOTVwWmRyTlVSeElfcmtGclZnbThpR05IOVQ2SmdxMlpZMVByMFRZU29aeVNXSHR3VWpZWDJ2M2FROFVwZlZOUkdFTXRKR0U3M1hCLTVNSE84V25YZnEwYXRkRTFPVXV0QWdZdzdSVnhtYzVLajlLQlo3bUFTRUc3VWtsUGswdWJraVQxXzU3MExyZGhpNmY0a2FCRUU4NE1Ma3lSYnFGbE41OTNnLUU1MmhaaWc5a25qMjVnTENtQ2JIbFRMTmt0blhfWQ",
-   "source": "NVIDIA Newsroom",
-   "published_at": "2026-10-27T16:04:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Newsroom",
-     "published_at": "2026-10-27T16:04:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMkc2eEt1TWtsdGMyakwwbENvTldlM2tKNjJTb1RwSTdnbXgxOTVwWmRyTlVSeElfcmtGclZnbThpR05IOVQ2SmdxMlpZMVByMFRZU29aeVNXSHR3VWpZWDJ2M2FROFVwZlZOUkdFTXRKR0U3M1hCLTVNSE84V25YZnEwYXRkRTFPVXV0QWdZdzdSVnhtYzVLajlLQlo3bUFTRUc3VWtsUGswdWJraVQxXzU3MExyZGhpNmY0a2FCRUU4NE1Ma3lSYnFGbE41OTNnLUU1MmhaaWc5a25qMjVnTENtQ2JIbFRMTmt0blhfWQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达与甲骨文扩大Vera Rubin规模",
-   "title_zh": "英伟达甲骨文扩大Vera Rubin规模，引入Vera CPU",
    "sentiment": 1
   },
   {
@@ -187,7 +189,7 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0",
    "source": "Reuters",
    "published_at": "2026-10-27T16:01:43+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Reuters",
@@ -198,13 +200,22 @@
      "name": "KELO-AM",
      "published_at": "2026-10-27T16:16:09+00:00",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFdXSFptS2pJcEhqMkNORVNwQXFib2k4OUkwVDJFdnVmQ3Jqc0ZBM1VSWFRsOFlWR0txNC1PSllnNWQ4UjhsanZDUzU4eGNscEM2TzNKeVZ5UFRfTE9SNWZXOEp2QUJKSzJmMmhkR0JkYzVoYjEzc2FnTzBUT0dJNWt6NVh0T2JzTVpyRFB6TGg5UFJucE1QbFg4T1U5MVY2Nng4dUFNODRIQkE"
+    },
+    {
+     "name": "WHTC",
+     "published_at": "2026-10-27T16:21:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeG5yUnhsMXZrSnpsNUtrOVQ1eXQzM1h3QkQ5TWw3N3dpMHJVTExxUlM1RFRnUGVDelFBWUZ2QzlOSFhWRE5pNWJQekJ0ZHZfYXNqd2dqRl9ONVQ3c1pzSjZXSEhXZ29EVEhvT3lSR3NISEM2TWlzNl9UdXVlb1ZFcTNwSWhnbExkazA3b1VaNUd0R1lVMWJGMHBmeVVwbzZJcXRyQnU0VW94TUE"
     }
    ],
    "category": "产品技术",
    "session": "盘中",
    "zh_summary": "甲骨文扩大英伟达芯片供应协议",
    "title_zh": "甲骨文扩大与英伟达芯片协议并增加谷歌等产品",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.38,
+    "window_h": 0.5
+   }
   },
   {
    "id": "be4dcdc8af8e",
@@ -225,6 +236,31 @@
    "zh_summary": "黄仁勋谈AI对物体消失的理解",
    "title_zh": "黄仁勋称AI认为滚落桌子的球消失了",
    "sentiment": 0
+  },
+  {
+   "id": "e38ca4e9f8e9",
+   "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEo0TE5qYzJReVdmd1pPN0g4WFozSFZpTVZ2NFNmc1dNekljM3ZYZVJtcUN0cUdOdWxyNXRxVFY3N3VuZmZhRFN4UW04TWs3dm5BcTAyNmpQa0JIZWlWcFhKRVZwTXZ4S3NsWGVvSVh6ekxLQXRXQXpieEpFbHhJXzcxLUE0OWhCdzZieEZqbFVzcnpVUm55bktnTzA",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-27T16:00:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T16:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEo0TE5qYzJReVdmd1pPN0g4WFozSFZpTVZ2NFNmc1dNekljM3ZYZVJtcUN0cUdOdWxyNXRxVFY3N3VuZmZhRFN4UW04TWs3dm5BcTAyNmpQa0JIZWlWcFhKRVZwTXZ4S3NsWGVvSVh6ekxLQXRXQXpieEpFbHhJXzcxLUE0OWhCdzZieEZqbFVzcnpVUm55bktnTzA"
+    },
+    {
+     "name": "NVIDIA Newsroom",
+     "published_at": "2026-10-27T16:04:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMkc2eEt1TWtsdGMyakwwbENvTldlM2tKNjJTb1RwSTdnbXgxOTVwWmRyTlVSeElfcmtGclZnbThpR05IOVQ2SmdxMlpZMVByMFRZU29aeVNXSHR3VWpZWDJ2M2FROFVwZlZOUkdFTXRKR0U3M1hCLTVNSE84V25YZnEwYXRkRTFPVXV0QWdZdzdSVnhtYzVLajlLQlo3bUFTRUc3VWtsUGswdWJraVQxXzU3MExyZGhpNmY0a2FCRUU4NE1Ma3lSYnFGbE41OTNnLUU1MmhaaWc5a25qMjVnTENtQ2JIbFRMTmt0blhfWQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中",
+   "zh_summary": "英伟达与甲骨文扩大Vera Rubin规模",
+   "title_zh": "英伟达甲骨文扩大Vera Rubin规模，引入Vera CPU",
+   "sentiment": 1
   },
   {
    "id": "4e69e14e1058",
@@ -560,6 +596,23 @@
    "zh_summary": "台积电拟上调CoWoS价格20%",
    "title_zh": "台积电拟上调CoWoS价格20%，英伟达芯片加剧封装产能压力",
    "sentiment": 0
+  },
+  {
+   "id": "2910cc2180ff",
+   "title": "英伟达官网确认下调 Vera Rubin 规格，HBM4 降至 19.2 TB/s，NVLink 6 降至 3 TB/s - Pasquale Pillitteri",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0g0aG95cjU4MzhqeGJUcElDMHRDcG81UUxjcXhtelYxOGt2U0JmSHhwVzRrNEpKVXRXMVVBQWpvelI4a1VPMFlLelBfdC1JcW82Y0dLT2Q1QlZXcDhJdnZWNHFzTUlKNjZUQXB0NV9PUGdGaE1BN2RQZjNKS3ZQSmdjZDFSbkF5T3lWTHBLYmRxMmxsblI5VE8xWGpnNW9o",
+   "source": "Pasquale Pillitteri",
+   "published_at": "2026-10-27T14:29:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Pasquale Pillitteri",
+     "published_at": "2026-10-27T14:29:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU0g0aG95cjU4MzhqeGJUcElDMHRDcG81UUxjcXhtelYxOGt2U0JmSHhwVzRrNEpKVXRXMVVBQWpvelI4a1VPMFlLelBfdC1JcW82Y0dLT2Q1QlZXcDhJdnZWNHFzTUlKNjZUQXB0NV9PUGdGaE1BN2RQZjNKS3ZQSmdjZDFSbkF5T3lWTHBLYmRxMmxsblI5VE8xWGpnNW9o"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "dc7413e3670b",
@@ -1837,6 +1890,23 @@
    "sentiment": 1
   },
   {
+   "id": "eab0a54f460b",
+   "title": "光电通信｜OOI 硅中介层光学：把光引擎搬进硅中介层，英伟达原型开启 CPO 下一代技术博弈 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOOUJSZW96SmRObmlOMU95Tnk1c3RhSkJGdGtSbm9IZ2doLWRIT0xYX3Y3eXZ5Sl8yR0ExWHlFWHl5S2JqSlZSZHdmaXRoQkxPbVVv",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-27T10:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-27T10:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOOUJSZW96SmRObmlOMU95Tnk1c3RhSkJGdGtSbm9IZ2doLWRIT0xYX3Y3eXZ5Sl8yR0ExWHlFWHl5S2JqSlZSZHdmaXRoQkxPbVVv"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "89e5a9a0479f",
    "title": "Nvidia Is Taking a $3 Billion Chunk of Meta’s Equity. It’s Over to Broadcom. - Barron's",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWRsM3hhTFdOVTR4S2dZWkdCM2lLdUNvajFzRTRIN0wyQXRKUkdYd3hJWlNPQzEtYl8xa0paU3VSNzJUbnI4eE5fdzRGMktOUWE2cFpYMVZ5MEtPaWxuWU9uMUVaMko5dklsM0RmYWM0TGRzejRyRkl5UWt5SHJxag",
@@ -2034,6 +2104,23 @@
    "zh_summary": "MassMutual减持38584股英伟达",
    "title_zh": "MassMutual减持38584股英伟达股票",
    "sentiment": -1
+  },
+  {
+   "id": "86112ac158c6",
+   "title": "NVIDIA Corporation $NVDA Stock Holdings Trimmed by Silverleafe Capital Partners LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg",
+   "source": "MarketBeat",
+   "published_at": "2026-10-27T09:12:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-27T09:12:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "fdca1036e83c",
@@ -3849,26 +3936,6 @@
    "zh_summary": "英伟达与AMD哪个更值得买",
    "title_zh": "英伟达与AMD：今天哪个芯片股更值得买",
    "sentiment": 0
-  },
-  {
-   "id": "9253f6dcf288",
-   "title": "Nvidia Stock News (Oct 27, 2026): NVDA Rises 2.4% to $216.00 - Gotrade",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81bXZEWEo3YkRpbUY5aVpaclNmdzYtMjltYk1tbTZ6bFViRld2ZVZWYXZMSmN5RWJoN2VTa3VVMTdHU0RZUlZRMXlwVE1iX3E3TmUwVm15VXlPQVB6dzZkNXFNR3JBeDZacl9fZ3lMMXlxaTNpdjY5NEoxTFNkWHc",
-   "source": "Gotrade",
-   "published_at": "2026-10-27T03:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Gotrade",
-     "published_at": "2026-10-27T03:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81bXZEWEo3YkRpbUY5aVpaclNmdzYtMjltYk1tbTZ6bFViRld2ZVZWYXZMSmN5RWJoN2VTa3VVMTdHU0RZUlZRMXlwVE1iX3E3TmUwVm15VXlPQVB6dzZkNXFNR3JBeDZacl9fZ3lMMXlxaTNpdjY5NEoxTFNkWHc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达股价上涨2.4%至216美元",
-   "title_zh": "英伟达股价10月27日上涨2.4%至216美元",
-   "sentiment": 1
   },
   {
    "id": "ae1a563db8df",
@@ -6558,71 +6625,6 @@
    "zh_summary": "改装让RTX 40/30/20系显卡算力翻倍",
    "title_zh": "改装使英伟达RTX 40/30/20系显卡算力提升一倍",
    "sentiment": 1
-  },
-  {
-   "id": "ed72835d5093",
-   "title": "Meta's $35 Billion Stock Sale Draws Nvidia, AMD and Broadcom - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN2NjLWFKRGJMTFhudUdfdGg1LTZoTFRkMHo0Nnc2Z3dqNUhOXzNfVmhHVlFBbWw0SUNEN0R5cWtnN3BFMUlJUC1Xd2ZHUlpYTmwzSlRvTGF6NjI1anpaNWM0MW82STdtdDNlQ2dUdGJpbEdpNlBaZEV0X3VwVHpMMHA3YmxwSVRtcEt0YmRZdGdRUW9NSENOblJDSFpTNG1URU1ZUkVCWUZENTVzT25XU1Y5NUpCNzZYdHc",
-   "source": "TradingView",
-   "published_at": "2026-10-26T12:55:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-26T12:55:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN2NjLWFKRGJMTFhudUdfdGg1LTZoTFRkMHo0Nnc2Z3dqNUhOXzNfVmhHVlFBbWw0SUNEN0R5cWtnN3BFMUlJUC1Xd2ZHUlpYTmwzSlRvTGF6NjI1anpaNWM0MW82STdtdDNlQ2dUdGJpbEdpNlBaZEV0X3VwVHpMMHA3YmxwSVRtcEt0YmRZdGdRUW9NSENOblJDSFpTNG1URU1ZUkVCWUZENTVzT25XU1Y5NUpCNzZYdHc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Meta350亿美元售股吸引英伟达等",
-   "title_zh": "Meta350亿美元股票出售吸引英伟达等公司",
-   "sentiment": 0
-  },
-  {
-   "id": "ba6a210e07f2",
-   "title": "1T-Parameter Large Models Now Run on Desktops: Apple & NVIDIA Reshape the AI PC Industry Landscape - eu.36kr.com",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95cWJNN2ZLUjZOWi1jOUdvNlExb1JxLUVLYTVJcmF4Nm1wRzRtZGlzeXBXT0ZaZFBVSS1nZUdkN09uTW1lQ3d2THlFQ3NCbERPNDdN",
-   "source": "eu.36kr.com",
-   "published_at": "2026-10-26T12:50:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "eu.36kr.com",
-     "published_at": "2026-10-26T12:50:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95cWJNN2ZLUjZOWi1jOUdvNlExb1JxLUVLYTVJcmF4Nm1wRzRtZGlzeXBXT0ZaZFBVSS1nZUdkN09uTW1lQ3d2THlFQ3NCbERPNDdN"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "万亿参数大模型可在桌面运行",
-   "title_zh": "万亿参数大模型登陆桌面，苹果与英伟达重塑AI PC",
-   "sentiment": 1
-  },
-  {
-   "id": "54faf62c8f4f",
-   "title": "1 Unstoppable Stock-Split Stock to Buy Before It Joins Nvidia, Alphabet, Microsoft, and Apple in the $3 Trillion Club - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ00wQy0wb1ZGeDl2SEh3b29hLUFwYnNnZDRfeHgwcDh5Q29MTEJISVgzU3czWVlLUmtPMHpwQzNPSkJRSENTdS1wR0JfQkJYQzNTM0xsSHZURk05T0tqbG1OQU1rSVlmUHdwTTZPdW9Pa2VadndqaFE4dHlNVHJXS0VBZGZxUEs1alpIY0hEaUxVcTBPN09Zbg",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-26T12:36:45+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-26T12:36:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ00wQy0wb1ZGeDl2SEh3b29hLUFwYnNnZDRfeHgwcDh5Q29MTEJISVgzU3czWVlLUmtPMHpwQzNPSkJRSENTdS1wR0JfQkJYQzNTM0xsSHZURk05T0tqbG1OQU1rSVlmUHdwTTZPdW9Pa2VadndqaFE4dHlNVHJXS0VBZGZxUEs1alpIY0hEaUxVcTBPN09Zbg"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-26T12:51:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNYU5SWGthcmhNaGQ4endmR0NLS1cxYlU2V292WFA4aHdIczY2YW1lNk5HeUFSY0pzRzN2X1BVUEVSMjFpVmZLSDAxTnk3Qkd3eTg3SmVyeEFPSWpoU2MzRlF0b0lyVzI4eUxUdjF2Vy1Yd2VrdVM4YTRCX3dweEtPRFU1SVowZFhVRGxHUzVFeEJza1g2SXp6QjduLVFrOGZRWGRsU0JXVkNuOTYwcUJVal9nVlRLWXBWd00zTWNiR1ZIU3BUbDdId1h3V0sxVlY0ekZQRFMzQW5IMU1OODBpZ2k4NU5peFhHazhSa3c5U0ktVjV6dWVCSEZNQV9ITEo3LXdDRmI4YmJPX1N2NGZVQk1jNEtLZk9XQ1c5ck96LWNuQ2F2Rlh3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "一只分拆股有望加入3万亿美元俱乐部",
-   "title_zh": "一只势不可挡的分拆股有望加入3万亿美元俱乐部",
-   "sentiment": 0
   }
  ]
 }
