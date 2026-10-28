@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T15:36:31.259036+00:00",
+ "updated_at": "2026-10-28T15:51:29.644033+00:00",
  "market": {
-  "price": 217.51,
-  "change_pct": -0.2,
+  "price": 217.25,
+  "change_pct": -0.32,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.21,
-   "count": 91
+   "count": 97
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 71% 分位"
+     "note": "现价处于52周区间 70% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +44.8%"
+     "note": "目标价中位数 $315（17家），隐含空间 +45.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.21（91条已评分）"
+     "note": "今日新闻情绪 +0.21（97条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.51 vs 20日均线 $223.89"
+     "note": "现价 $217.25 vs 20日均线 $223.88"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 71,
+   "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 44.8,
-   "ma20": 223.89,
-   "as_of": "2026-10-28T15:36:31.242664+00:00"
+   "implied_upside_pct": 45.0,
+   "ma20": 223.88,
+   "as_of": "2026-10-28T15:51:29.632281+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "32adcb8f1dda",
+   "title": "Nvidia says RTX Spark Windows laptops add new models, AI tools, and more (NVDA:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPclNHOGxLdE80QlJQRnlQTVpPTFdwSzhsVXNXUU1MLVRGdXUzaEZwRnBOY2dRWkg0c0lkaWFTTjFlbHR5YWp2dUtaenpCUmt3SFA4OFRUNTFpTHBuNHBtZWxZbWRQNTRXWVFHckFyOFJvTUdvUjZLYzc0WjJubVBOdXYxSXIxbWJVUEhKZGw1Y0JoUHRUNllRdkxvQ3hnb2syblIxZV82bS1YU3lt",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-28T15:36:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-28T15:36:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPclNHOGxLdE80QlJQRnlQTVpPTFdwSzhsVXNXUU1MLVRGdXUzaEZwRnBOY2dRWkg0c0lkaWFTTjFlbHR5YWp2dUtaenpCUmt3SFA4OFRUNTFpTHBuNHBtZWxZbWRQNTRXWVFHckFyOFJvTUdvUjZLYzc0WjJubVBOdXYxSXIxbWJVUEhKZGw1Y0JoUHRUNllRdkxvQ3hnb2syblIxZV82bS1YU3lt"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
   {
    "id": "bf956f74cfb8",
    "title": "英伟达(NVDA.O)：搭载RTX Spark的笔记本电脑起售价2599美元，提供128G - 富途牛牛",
@@ -185,6 +202,23 @@
    "zh_summary": "OpenAI扩展AI布局英伟达面临挑战",
    "title_zh": "OpenAI扩展AI布局，英伟达面临新挑战",
    "sentiment": -1
+  },
+  {
+   "id": "45f6c7875180",
+   "title": "NVIDIA (NVDA) Could Be 22% Undervalued On Oracle Meta And Schneider Deals - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcjNxYVNLWUFSR1Y4MVdQaUFkbU5VNzNsbjl0c2dRdmtGY1hSTUljMk9DckgybUp0dFNENkRyQ2E4cFJOLUQtRHY0SVRMVmdLLWRLQ0dpSExiODFaaFZJYkpITlNLMHM1SlRrRmpldmpPb0NiYnhvcGUyRDd3S250OWZOSS1WZ29zeHotcVJZRThfMHVyQmtYR0pLWmVOQQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-28T15:09:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T15:09:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcjNxYVNLWUFSR1Y4MVdQaUFkbU5VNzNsbjl0c2dRdmtGY1hSTUljMk9DckgybUp0dFNENkRyQ2E4cFJOLUQtRHY0SVRMVmdLLWRLQ0dpSExiODFaaFZJYkpITlNLMHM1SlRrRmpldmpPb0NiYnhvcGUyRDd3S250OWZOSS1WZ29zeHotcVJZRThfMHVyQmtYR0pLWmVOQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "a47b19ca7e8f",
@@ -1379,6 +1413,23 @@
    "zh_summary": "西门子与英伟达推进AI电路板检测",
    "title_zh": "西门子与英伟达将AI电路板检测从数字孪生推向工厂",
    "sentiment": 1
+  },
+  {
+   "id": "9e4de3615cfc",
+   "title": "IT vendor lists massive $60 million AI supercomputer on eBay with 300 racks of decommissioned GPUs — includes 9,600 Nvidia A100 GPUs and 4,200 AMD EPYC CPUs, plus free shipping - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNeXlmeXhXNnM5aUxLZWJZMWVWWjVQX2t5ODlGMjExTURfcDM2SnYteEZITTRXbXoybkh5NWhWSUlHajZPNmlYeDloWTNlc2JMenFXYjZsYkgwNWtSaDdrZnN0UVUtc0JSV1RrRGd3c1hDQ2kwZ1hTbHk2VWFXOF9yWkZSeFpBdURWTGhXU015ck0yczhJWGpKb0pIaXJYNTdSMW1JVWJyXzFTeFRCX2ZNQVp5b0JpVXhXUjdaQ3FxSFpEQnU5RnJyWERja0NWbFcyZ0ZQR01za2k0ajRFckRQdUJQa2NleWJ3UmdhdjZjTGgtTmVQRERUbDl3YzhsUkFpbHUxOVFFdlZUZFBSRS0yaklvR3VFR2VsblpjVmZlWTdJWmV1blc4QmVjZzFZV0RtLWhFM01R",
+   "source": "Tom's Hardware",
+   "published_at": "2026-10-28T10:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-10-28T10:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNeXlmeXhXNnM5aUxLZWJZMWVWWjVQX2t5ODlGMjExTURfcDM2SnYteEZITTRXbXoybkh5NWhWSUlHajZPNmlYeDloWTNlc2JMenFXYjZsYkgwNWtSaDdrZnN0UVUtc0JSV1RrRGd3c1hDQ2kwZ1hTbHk2VWFXOF9yWkZSeFpBdURWTGhXU015ck0yczhJWGpKb0pIaXJYNTdSMW1JVWJyXzFTeFRCX2ZNQVp5b0JpVXhXUjdaQ3FxSFpEQnU5RnJyWERja0NWbFcyZ0ZQR01za2k0ajRFckRQdUJQa2NleWJ3UmdhdjZjTGgtTmVQRERUbDl3YzhsUkFpbHUxOVFFdlZUZFBSRS0yaklvR3VFR2VsblpjVmZlWTdJWmV1blc4QmVjZzFZV0RtLWhFM01R"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "257f51500f49",
@@ -6524,71 +6575,6 @@
    "zh_summary": "Agile Robots与英伟达发布人形机器人",
    "title_zh": "Agile Robots与英伟达联合发布研究用人形机器人",
    "sentiment": 1
-  },
-  {
-   "id": "001085f7ce34",
-   "title": "NVIDIA Commits $3 Billion to Meta, Expands Muse Partnership - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNldONFlYV3BhazlWWHY5aGhQOFItYVVSR0o4T1VrSm8xZWhUOHBrekdteG44UmpRbkhSM3hyYWlqRmhUVkY1U2w5VXVNZ2lHTkNEcnV3dUtXakdwc0JVeHZ0VDM2MFNHWWJoN2xMSTh0X3gxMzVxRzZyZUtab3lBTFpWcjBkelFTMEhwczlSYnFCZ0dLQlg3MVZNV3VmbHdDb01qZWFXM0hpSlBTZHc0",
-   "source": "Benzinga",
-   "published_at": "2026-10-27T10:40:26+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-27T10:40:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNldONFlYV3BhazlWWHY5aGhQOFItYVVSR0o4T1VrSm8xZWhUOHBrekdteG44UmpRbkhSM3hyYWlqRmhUVkY1U2w5VXVNZ2lHTkNEcnV3dUtXakdwc0JVeHZ0VDM2MFNHWWJoN2xMSTh0X3gxMzVxRzZyZUtab3lBTFpWcjBkelFTMEhwczlSYnFCZ0dLQlg3MVZNV3VmbHdDb01qZWFXM0hpSlBTZHc0"
-    },
-    {
-     "name": "Axios",
-     "published_at": "2026-10-27T22:56:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4WWFCR1ItajdJSVpLRVB2U0FhNVRSRG1YMTBxSVRJeEYtZUNZVnFGa2RPd0NCN3M0RjRmQUpRUUhCYjBkRFQxVW1IS0RvMXMzdGN2YWdWVUlZN3RKdVRFeVUtLVNTZE5pUlJDZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达向Meta投资30亿美元",
-   "title_zh": "英伟达向Meta投资30亿美元，扩大Muse合作",
-   "sentiment": 1
-  },
-  {
-   "id": "c8fa03ef199b",
-   "title": "黄仁勋：买完我们的显卡还要给英伟达打授权费 - 3DM",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZVTNzT1g4eUQtNTRZelAtUUlUTDNjWDE0TXNWNXE1dWs1X3dRTUtWejlNNUtWUFVmb1UwUkpQeFRiU29VRzhtVFhLaUx3aWxrMUVlZTRKcWFFOWdI",
-   "source": "3DM",
-   "published_at": "2026-10-27T10:36:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "3DM",
-     "published_at": "2026-10-27T10:36:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZVTNzT1g4eUQtNTRZelAtUUlUTDNjWDE0TXNWNXE1dWs1X3dRTUtWejlNNUtWUFVmb1UwUkpQeFRiU29VRzhtVFhLaUx3aWxrMUVlZTRKcWFFOWdI"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "黄仁勋称买显卡还需付授权费",
-   "title_zh": "黄仁勋：买完我们的显卡还要给英伟达打授权费 - 3DM",
-   "sentiment": 0
-  },
-  {
-   "id": "67d32773bb29",
-   "title": "限时4.5折！AI解析英伟达、微软、Meta三大科技巨头估值，谁还有上涨空间？ 提供者Investing.com - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aRkVyU2FaVlhSOVBaeTlnVDRfVDNidS1kQUZXWTJUSE5vSG1Mb3hEN2duU20wZnNpTlFRX051M0VPS01Lb3I4RFdsMTQtMnNMZDViNEIyYkZvVml1SGswZnhWZVZOMnBra1U2N2c5ZVM",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-27T10:35:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-27T10:35:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aRkVyU2FaVlhSOVBaeTlnVDRfVDNidS1kQUZXWTJUSE5vSG1Mb3hEN2duU20wZnNpTlFRX051M0VPS01Lb3I4RFdsMTQtMnNMZDViNEIyYkZvVml1SGswZnhWZVZOMnBra1U2N2c5ZVM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "解析英伟达等三大巨头估值上涨空间",
-   "title_zh": "AI解析英伟达、微软、Meta估值，谁还有上涨空间",
-   "sentiment": 0
   }
  ]
 }
