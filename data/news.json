@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T11:21:32.174296+00:00",
+ "updated_at": "2026-10-28T11:36:31.562652+00:00",
  "market": {
   "price": 217.94,
   "change_pct": 0.9,
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.06,
-   "count": 33
+   "avg": 0.0,
+   "count": 36
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（33条已评分）"
+     "note": "今日新闻情绪 +0.00（36条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 44.5,
    "ma20": 224.44,
-   "as_of": "2026-10-28T11:21:32.158464+00:00"
+   "as_of": "2026-10-28T11:36:31.544810+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
@@ -61,6 +61,62 @@
   }
  },
  "stories": [
+  {
+   "id": "6efbff27d3c1",
+   "title": "OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU41VEhZT0hhZFRRQXVmRWhKWml6Q3FSLVRxeXpRYU9xLW5xQ21MT080OTJvNEtmcmQ5ZW05Tl9XRG4zeVZ1VVhNLWphbXB3ODJpcTBaY0hXc2J4RHBtQm1wVFJHUTlBeC02YkJydmF2QUFTS0s4eFU5UVB1bkZhdmZpUlQ4NnJSZHFlTnpoVzVYVmZmbnJ3NkMtbHZfT2N6M1p1VXk1QUNsWjdWVmpUeU9VZ0dCWGs",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-28T11:29:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-28T11:29:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOU41VEhZT0hhZFRRQXVmRWhKWml6Q3FSLVRxeXpRYU9xLW5xQ21MT080OTJvNEtmcmQ5ZW05Tl9XRG4zeVZ1VVhNLWphbXB3ODJpcTBaY0hXc2J4RHBtQm1wVFJHUTlBeC02YkJydmF2QUFTS0s4eFU5UVB1bkZhdmZpUlQ4NnJSZHFlTnpoVzVYVmZmbnJ3NkMtbHZfT2N6M1p1VXk1QUNsWjdWVmpUeU9VZ0dCWGs"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "e5621edd5094",
+   "title": "Semiconductor stocks in focus after SK Hynix results; Micron, Nvidia top Quant list (SMH:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFdCT1ZwOEhaZlotRmh2VU9mSV8wR01fTm0tLXp2ZkRDV1c0RTQ3NVRBbkUyVmg0czV3NWdFR3hUeVFxWFZVRTNFc3hyM1pyRVV3cmQ0ZllVZTJZTnJLTDNQZE5qMEhGazZjM2syNndJejIwLXpaVGFkMlJra2NDeUhwZS1kVGV4UzI4Z0lhRlJhNl93TmtVNjBFZXJ6UGZkRlk1MU1KSG9pMWlSMUh4TGdqRm1STDZIY0Vr",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-28T11:26:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-28T11:26:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFdCT1ZwOEhaZlotRmh2VU9mSV8wR01fTm0tLXp2ZkRDV1c0RTQ3NVRBbkUyVmg0czV3NWdFR3hUeVFxWFZVRTNFc3hyM1pyRVV3cmQ0ZllVZTJZTnJLTDNQZE5qMEhGazZjM2syNndJejIwLXpaVGFkMlJra2NDeUhwZS1kVGV4UzI4Z0lhRlJhNl93TmtVNjBFZXJ6UGZkRlk1MU1KSG9pMWlSMUh4TGdqRm1STDZIY0Vr"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
+  {
+   "id": "cf5afd7fd3cc",
+   "title": "Nvidia Vs. Apple: Opposing Philosophies Racing Toward The Same $6 Trillion Goal - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRzhRemNzVFZTRktyTlQwaDZmbmNGV0wxbklUZkpFcXVma0o2QmsyTm50NDZlLUZDQjl4R3RjdFViaHU4Mk1kMVlPUTBLajRldHcwVkc0VjlkT3A5MHE0dkVyWkxYYWJTVHNfQUtYaS1LT3A3SkIycFFNMTZ1NmNYRi1ONk1ndWJCQmpQUUlmMHYxNnAyMFNxd2pCcE1JTkR0WG5LTg",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-28T11:15:58+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T11:15:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRzhRemNzVFZTRktyTlQwaDZmbmNGV0wxbklUZkpFcXVma0o2QmsyTm50NDZlLUZDQjl4R3RjdFViaHU4Mk1kMVlPUTBLajRldHcwVkc0VjlkT3A5MHE0dkVyWkxYYWJTVHNfQUtYaS1LT3A3SkIycFFNMTZ1NmNYRi1ONk1ndWJCQmpQUUlmMHYxNnAyMFNxd2pCcE1JTkR0WG5LTg"
+    },
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-28T11:20:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMHd2UUwxd2x1RXdkSDlxODc0TmNHQndxamtNVWl3SDl5WUFXNVFmM2pLTUVXTUpSeEZtVEQ5MDAwbjdqS1FBMnRoeEtwd0lIc0VneFBZdWFYWEN6YnU1TDdNYjVJbk4xYzBfMUQyS1V3MVFCYmhsLU1PdjlqR2d6YkFINHpBc2FsYUlsMjZRbjhnU1VBYWFkZHl5WG9SSEZlZUpIb3d3ZEtwLVNzYVo4bHh3RlZxeFEwYmpMaQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "80acd1d14324",
    "title": "Nvidia Stock Faces a Test From Its Biggest AI Chip Rival - Barron's",
@@ -306,12 +362,12 @@
    "title": "NVIDIA RTX 5080 is now selling for nearly $2,000 at US retailers, $800 higher in just two months - VideoCardz.com",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVN0aU41dDNMQ2Y5YWFvLW5hQ0drRGNYZTQ5dTFUSVFPaU1RSDhjSFRJN0Q0ZHR3V0RRTmhBcUlnallHNlBzSlc3VGtZdzg2SC0wREhmT0dWbTktTlh3N05kcUJiYkVVNFdfajFqQjlpbkJsV0VzaklUNGVlMEZxQkZRbHhEMXNLcmtrZmlObWFtNlJUVDYzWjExdm1GZXE5U0Fqa1JLX2tCeUlVcUhRNmFsblpnVDVOS1JQYQ",
    "source": "VideoCardz.com",
-   "published_at": "2026-10-28T09:48:18+00:00",
+   "published_at": "2026-10-28T09:42:31+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "VideoCardz.com",
-     "published_at": "2026-10-28T09:48:18+00:00",
+     "published_at": "2026-10-28T09:42:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVN0aU41dDNMQ2Y5YWFvLW5hQ0drRGNYZTQ5dTFUSVFPaU1RSDhjSFRJN0Q0ZHR3V0RRTmhBcUlnallHNlBzSlc3VGtZdzg2SC0wREhmT0dWbTktTlh3N05kcUJiYkVVNFdfajFqQjlpbkJsV0VzaklUNGVlMEZxQkZRbHhEMXNLcmtrZmlObWFtNlJUVDYzWjExdm1GZXE5U0Fqa1JLX2tCeUlVcUhRNmFsblpnVDVOS1JQYQ"
     }
    ],
@@ -6580,80 +6636,6 @@
    "zh_summary": "交易员可10倍押注英伟达GPU租金",
    "title_zh": "交易员现可10倍押注英伟达GPU租金",
    "sentiment": 0
-  },
-  {
-   "id": "546efbb32f17",
-   "title": "Nvidia Will Invest $3B in Meta’s Stock as Meta Adds Rubin - FourWeekMBA",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0NRajJ3Um9neWlsUGZLNGlWcUFpN2hiVXNxTzdmQ3MwR1F4Y20wUmZDRXpaLVd0Y2h6RGdYbUJnREtuYlFpa3ROeHU2UDdxTFRrQ1JXa3Nnd2xFbUlBVml5dFhNenpKeV92M3dlZDI2a09HWDQ4cWJQdEJuN0c1MmY1N28zeXVFeHFr",
-   "source": "FourWeekMBA",
-   "published_at": "2026-10-27T06:49:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FourWeekMBA",
-     "published_at": "2026-10-27T06:49:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0NRajJ3Um9neWlsUGZLNGlWcUFpN2hiVXNxTzdmQ3MwR1F4Y20wUmZDRXpaLVd0Y2h6RGdYbUJnREtuYlFpa3ROeHU2UDdxTFRrQ1JXa3Nnd2xFbUlBVml5dFhNenpKeV92M3dlZDI2a09HWDQ4cWJQdEJuN0c1MmY1N28zeXVFeHFr"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达将向Meta投资30亿美元",
-   "title_zh": "Meta采用Rubin，英伟达将投资30亿美元",
-   "sentiment": 1
-  },
-  {
-   "id": "e7ac5720bfe9",
-   "title": "NVIDIA GTC conference in Berlin - The Daily News | Texas' Oldest Newspaper",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXQ4U19xZ3RSZFJhTGptbTluQTlHdEpLT3U4OGxPV3RIaTNRbTdHOFgwRWpIbVhwTW1OMnhjY0VxRVFKd09PYkJVU3hVSzF4Y1J6VGp5dkVFcjJ4TW5KdWJteXFxb0VRM1VBSHN5Ujk2aElYb2NWOWMzTVRmaFhxVU0wbkxZdC0wcGZDUU5Ea1lWVU1yZjV5YXNhT1dsUzBzWnFZdU9pa1Vld1NRV0EyR2x6LUhNNEVvOGplZ0lRZWd5c1Zy",
-   "source": "The Daily News | Texas' Oldest Newspaper",
-   "published_at": "2026-10-27T06:45:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Daily News | Texas' Oldest Newspaper",
-     "published_at": "2026-10-27T06:45:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXQ4U19xZ3RSZFJhTGptbTluQTlHdEpLT3U4OGxPV3RIaTNRbTdHOFgwRWpIbVhwTW1OMnhjY0VxRVFKd09PYkJVU3hVSzF4Y1J6VGp5dkVFcjJ4TW5KdWJteXFxb0VRM1VBSHN5Ujk2aElYb2NWOWMzTVRmaFhxVU0wbkxZdC0wcGZDUU5Ea1lWVU1yZjV5YXNhT1dsUzBzWnFZdU9pa1Vld1NRV0EyR2x6LUhNNEVvOGplZ0lRZWd5c1Zy"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达在柏林举办GTC大会",
-   "title_zh": "英伟达在柏林举办GTC大会",
-   "sentiment": 0
-  },
-  {
-   "id": "7a3982df232c",
-   "title": "Nvidia, Meta to expand partnership on Muse - Breakingthenews.net",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGszTUp1SE9XYXUxbG9LR1dqT3pUYmhUVkhJbzQ2OHBHbzBRaG14YXBXM2ZFQ0xrOGQxZWVGOWk0NHlPX2djZEN5QkhmeGFQSGNMaW9nUDFQMU0xbGs2dUFyMW1sQ1ZGRUtjVHdkWkIwZzBia180cDRPaHdHY0lSZzZFMHlpdmY2YjZlODhUNA",
-   "source": "Breakingthenews.net",
-   "published_at": "2026-10-27T06:32:00+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Breakingthenews.net",
-     "published_at": "2026-10-27T06:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGszTUp1SE9XYXUxbG9LR1dqT3pUYmhUVkhJbzQ2OHBHbzBRaG14YXBXM2ZFQ0xrOGQxZWVGOWk0NHlPX2djZEN5QkhmeGFQSGNMaW9nUDFQMU0xbGs2dUFyMW1sQ1ZGRUtjVHdkWkIwZzBia180cDRPaHdHY0lSZzZFMHlpdmY2YjZlODhUNA"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T12:52:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFVwN1hfQVhaWm9LZkY0bERYY0JtOVBtR2dSSHV4T1c0eU91TjN6WXAwTHNvZmhnQlpkUENkSGhYT21aNWlBWjM0dXNFSHp5andOeTlKRzhDN3NremU5QzhTdDlRMThvMGZFck02ZnUtRWIybmloSTJPVnktWlVSRWdOZ1c3QWY3bk1GVUN1YWx4aExfRnJ4b2VtNlFia0wtVWNQZE5mcl9Ld2JUT3g5X1FRT1lYSUVpVWc"
-    },
-    {
-     "name": "Thurrott.com",
-     "published_at": "2026-10-27T14:43:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KSTU4TlN2Z1JZeGtBUkhtZWdKd3g2NzcxY2VMSncyd0tuaVQ5am52eF85YlYzS0xNb1Q0R1BZTm5DTE5qb2s3b01WeGttSnQxTnU4Z0kzWXF3LV9YYm9hWTA0UUZJRzNlbGhnQnlZZEZlZmlQOEN3N1hn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达与Meta扩大Muse合作",
-   "title_zh": "英伟达与Meta扩大Muse模型合作",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.6,
-    "window_h": 1.4
-   }
   }
  ]
 }
