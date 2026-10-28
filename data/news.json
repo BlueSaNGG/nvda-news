@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T14:21:31.168858+00:00",
+ "updated_at": "2026-10-28T14:36:36.827942+00:00",
  "market": {
-  "price": 218.09,
-  "change_pct": 0.07,
+  "price": 218.21,
+  "change_pct": 0.12,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.1,
-   "count": 71
+   "avg": 0.14,
+   "count": 77
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,7 +20,7 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 71% 分位"
+     "note": "现价处于52周区间 72% 分位"
     },
     {
      "key": "目标价空间",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（71条已评分）"
+     "note": "今日新闻情绪 +0.14（77条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $218.09 vs 20日均线 $223.92"
+     "note": "现价 $218.21 vs 20日均线 $223.93"
     },
     {
      "key": "分析师动向",
@@ -43,12 +43,12 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 71,
+   "price_52w_pct": 72,
    "target_median": 315.0,
    "target_count": 17,
    "implied_upside_pct": 44.4,
-   "ma20": 223.92,
-   "as_of": "2026-10-28T14:21:31.158069+00:00"
+   "ma20": 223.93,
+   "as_of": "2026-10-28T14:36:36.807950+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "8ef2f3eb360b",
+   "title": "Nvidia forges supplier agreements to expand capacity for AI - Supply Chain Dive",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEF0SW5jbktMRkNyS2hEMGdZU1NuWFNSeXltQzZOZ19QWlJPT3Byc0ZDMkFTcWdhQmZKTEhocC1lcWpndXRQcU56UkZSTjZQVy01Ul9BQVFpT3NkdndyOV9EU2FmV1c5QTJRZHYxWkZ4cHdja3BVLS04WFN2VWFwQ3ZSdjFZMHFkNFlLeHk4aG1DeXlhQVJ0N0d5MnZkVWlHNVB2Q3ZsNA",
+   "source": "Supply Chain Dive",
+   "published_at": "2026-10-28T14:20:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Supply Chain Dive",
+     "published_at": "2026-10-28T14:20:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEF0SW5jbktMRkNyS2hEMGdZU1NuWFNSeXltQzZOZ19QWlJPT3Byc0ZDMkFTcWdhQmZKTEhocC1lcWpndXRQcU56UkZSTjZQVy01Ul9BQVFpT3NkdndyOV9EU2FmV1c5QTJRZHYxWkZ4cHdja3BVLS04WFN2VWFwQ3ZSdjFZMHFkNFlLeHk4aG1DeXlhQVJ0N0d5MnZkVWlHNVB2Q3ZsNA"
+    }
+   ],
+   "category": "供应链",
+   "session": "盘中"
+  },
   {
    "id": "0e33565e804a",
    "title": "This Nvidia chart shows why the AI compute shortage remains acute - Yahoo Finance",
@@ -1266,26 +1283,6 @@
    "sentiment": 0
   },
   {
-   "id": "59f70a6cbddf",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by Moody National Bank Trust Division - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3ZENXBPOHdXZ3VKelJzck0xSERWTXA3eHJCU2hHZ0JKTDEzTktRZFplVmJaY0Y3U1RZb1A2LVJMN1drV0ZpYUlIemVPeERCMW9yRDNnNnhKcE0ydWE1a2g3TDZhY1pyQUIzOWViZ2dfa0dPMUhRLUVNcUJEemJWMWI3ZWUtcG5qUldwUlFSQVNqdTRXRHVEallfYlNUN1duQUdNenByN0VOc25qTzBjazdJMUc0Z2JfTGRWVktMQzNDVHF0cnh0TWZtWWs2SVU",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T08:41:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T08:41:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3ZENXBPOHdXZ3VKelJzck0xSERWTXA3eHJCU2hHZ0JKTDEzTktRZFplVmJaY0Y3U1RZb1A2LVJMN1drV0ZpYUlIemVPeERCMW9yRDNnNnhKcE0ydWE1a2g3TDZhY1pyQUIzOWViZ2dfa0dPMUhRLUVNcUJEemJWMWI3ZWUtcG5qUldwUlFSQVNqdTRXRHVEallfYlNUN1duQUdNenByN0VOc25qTzBjazdJMUc0Z2JfTGRWVktMQzNDVHF0cnh0TWZtWWs2SVU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Moody National Bank卖出英伟达",
-   "title_zh": "Moody National Bank信托部门卖出英伟达股份",
-   "sentiment": -1
-  },
-  {
    "id": "a27c39b203af",
    "title": "NVIDIA Corporation $NVDA Stock: Weaver Consulting Group Cuts Stake - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzNnb2hIbnI4ZEZxOXhjVWhVZlVjcWpneERZT3FkSnNnLUgyRDZFMnhjbnlzS00ydWQzdjZzbzhWYkh4WUdWUEprMXF5b3R0ZV9IMzZndm1fZnNoR21sNWUyUXljVXo3ZHMyVkdpazVZYURyUnlHaEFHbTNFOWV3YjduVVZvTTV5Z3ZQUHR0ZEdkN2dGRDdaNEZQY1hLRWo2Q3ZmVzZYZzZ4UndSUkI3YWN3LV9nRFI1dVZDck44WmRrbUk",
@@ -1303,26 +1300,6 @@
    "session": "盘前",
    "zh_summary": "Weaver Consulting减持英伟达",
    "title_zh": "Weaver Consulting Group减持英伟达股份",
-   "sentiment": -1
-  },
-  {
-   "id": "a71dc40311e0",
-   "title": "3,059 NVIDIA Corporation $NVDA Shares Sold by Private Capital Advisors Inc. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnE2R3k3dmdMU2NTNVpTVnlzQzIyZTJ6UWNWa1VPblZDS2JnLTFmR2t3TW9BUW8xYW9fMGJMeWtDWHdBUWFOYlpFSkplc0Z2aWpPUTNTaGJnUTNhTGxGQWdReDVUbUR6SllDOVFQRG1CSDBRcWp0VFFoVU5rdjcyeTFLQWJEYU9Wak5yQW5WRDlBQnlRTlFGdXplRlRRUWJEMzA5UE9jNlNyLVlJak5jRkRsdlhhS29Mb0V1OTFRT3pMN1MyeUxCUTYtdzJkZw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T08:41:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T08:41:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnE2R3k3dmdMU2NTNVpTVnlzQzIyZTJ6UWNWa1VPblZDS2JnLTFmR2t3TW9BUW8xYW9fMGJMeWtDWHdBUWFOYlpFSkplc0Z2aWpPUTNTaGJnUTNhTGxGQWdReDVUbUR6SllDOVFQRG1CSDBRcWp0VFFoVU5rdjcyeTFLQWJEYU9Wak5yQW5WRDlBQnlRTlFGdXplRlRRUWJEMzA5UE9jNlNyLVlJak5jRkRsdlhhS29Mb0V1OTFRT3pMN1MyeUxCUTYtdzJkZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Private Capital出售3059股英伟达",
-   "title_zh": "Private Capital Advisors出售3059股英伟达",
    "sentiment": -1
   },
   {
@@ -1398,6 +1375,26 @@
     "pct": -0.18,
     "window_h": 0.1
    }
+  },
+  {
+   "id": "4b0f488325d6",
+   "title": "NVIDIA Corporation $NVDA Shares Sold by Eleva Capital SAS - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnBrQUFtRHhhenh2dDdrUHBHOVV2TkhjbHFBQzFiV05MNzA1enZUd210c1hEbC1UVURpSEJSUHR5bERQVG9PZmhSd1Y4OEoxSVJDM2xnbXpQckMyZlhUalpiWjNrbFBSR2hLRG8tWHVsTC03WXhTWmoyLTJ3NENtZnVqTnFuZGNKRnBMUlJteFY1SU1aUGpqeG8teHF1S21EZUxFcEllelJJUFE1X1NjSk14elpSNWg3",
+   "source": "MarketBeat",
+   "published_at": "2026-10-28T08:01:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-28T08:01:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnBrQUFtRHhhenh2dDdrUHBHOVV2TkhjbHFBQzFiV05MNzA1enZUd210c1hEbC1UVURpSEJSUHR5bERQVG9PZmhSd1Y4OEoxSVJDM2xnbXpQckMyZlhUalpiWjNrbFBSR2hLRG8tWHVsTC03WXhTWmoyLTJ3NENtZnVqTnFuZGNKRnBMUlJteFY1SU1aUGpqeG8teHF1S21EZUxFcEllelJJUFE1X1NjSk14elpSNWg3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "Moody National Bank卖出英伟达",
+   "title_zh": "Moody National Bank信托部门卖出英伟达股份",
+   "sentiment": -1
   },
   {
    "id": "6e3d34e94a42",
@@ -3745,6 +3742,23 @@
    "zh_summary": "投资者称一只AI股可买另一只可等",
    "title_zh": "投资者称一只AI股值得买入，另一只可暂缓",
    "sentiment": 0
+  },
+  {
+   "id": "60c6e72e2b9a",
+   "title": "甲骨文将在AI云服务中引入Cerebras计算机 为英伟达挑战者再添大客户 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLVkxWU45TzRMbEpQeVh6dGdRNlBOcjRBenVxTll2cTRkQWxzbnJFMlhUbUx2ZnJCNW1Vb2FXWlh5X2V1dU9GWldNWFB0WlpNZ3pZODRVaWdjWXNuUGRCVFlsWUROVXVKRWxiekJJMEdJU0RIUFQtYjBmbjVBMEFPcFpld0kyVzNGakZOY3d4anpQTjI0UC1pTklYVGJfQmExMXNYRFJjRDRtRG5COWZhSGJ3SjJ5Z2tmRkJWUVBxSG1pRjF4M0NvV2tpcldNUHVRWjhpUDNzNTVmVzhzS0E",
+   "source": "新浪财经",
+   "published_at": "2026-10-27T16:53:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-27T16:53:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLVkxWU45TzRMbEpQeVh6dGdRNlBOcjRBenVxTll2cTRkQWxzbnJFMlhUbUx2ZnJCNW1Vb2FXWlh5X2V1dU9GWldNWFB0WlpNZ3pZODRVaWdjWXNuUGRCVFlsWUROVXVKRWxiekJJMEdJU0RIUFQtYjBmbjVBMEFPcFpld0kyVzNGakZOY3d4anpQTjI0UC1pTklYVGJfQmExMXNYRFJjRDRtRG5COWZhSGJ3SjJ5Z2tmRkJWUVBxSG1pRjF4M0NvV2tpcldNUHVRWjhpUDNzNTVmVzhzS0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "c8d2ecc84c72",
@@ -6583,26 +6597,6 @@
    "zh_summary": "英伟达将向Meta投资30亿美元",
    "title_zh": "英伟达将向Meta投资30亿美元，科技巨头深化人工智能合作 - 富途牛牛",
    "sentiment": 1
-  },
-  {
-   "id": "4b0f35d1decd",
-   "title": "NVIDIA has closed the option to remove hardware limits for tensor cores in the GeForce RTX 50 series. - GameGPU",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVRtSEg1aFZXMDh1VlBwY1N6OVoxel9hYm9SRmZpbE1ORXpsQmo0Yks0UEFOWnhrU2NZd0xmQndyUnhqbHY2MmZPRllMLWZMMDVOcDF2Wm5GTjM5cmFta0R0SUtuTldmLXVsOGM2X21STVE4ZFhEbTVzQ1ZfRjQ1V1hhVkNCWUIxdm9PcWYwaURFTEpBUW9jLWVpLTJ1eUlaNmJVUFYydFpQbkVQN01qejM1OUFkdHlRQWItQjRld2stS1U",
-   "source": "GameGPU",
-   "published_at": "2026-10-27T08:54:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GameGPU",
-     "published_at": "2026-10-27T08:54:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVRtSEg1aFZXMDh1VlBwY1N6OVoxel9hYm9SRmZpbE1ORXpsQmo0Yks0UEFOWnhrU2NZd0xmQndyUnhqbHY2MmZPRllMLWZMMDVOcDF2Wm5GTjM5cmFta0R0SUtuTldmLXVsOGM2X21STVE4ZFhEbTVzQ1ZfRjQ1V1hhVkNCWUIxdm9PcWYwaURFTEpBUW9jLWVpLTJ1eUlaNmJVUFYydFpQbkVQN01qejM1OUFkdHlRQWItQjRld2stS1U"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达关闭RTX 50系列张量核心限制解除选项",
-   "title_zh": "英伟达关闭RTX 50系列张量核心硬件限制解除选项",
-   "sentiment": 0
   }
  ]
 }
