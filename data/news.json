@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T09:06:35.636909+00:00",
+ "updated_at": "2026-10-28T09:21:35.724947+00:00",
  "market": {
   "price": 217.94,
   "change_pct": 0.9,
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.06,
-   "count": 16
+   "avg": -0.06,
+   "count": 18
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（16条已评分）"
+     "note": "今日新闻情绪 -0.06（18条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 44.5,
    "ma20": 224.44,
-   "as_of": "2026-10-28T09:06:35.627438+00:00"
+   "as_of": "2026-10-28T09:21:35.704862+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e763410f15fa",
+   "title": "OpenAI reportedly plans to buy Google’s TPU chips alongside Nvidia - The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIcVE0bWNXSG9scy02QmgzZGlTdVk0T0hsMFlWR0dsUXZDc0lhMW5LRUdKUkg4MHBnVmJkc2Z0TVRTMUFwQ0YwVTZsNHBuTWRDMlZjbjFnOThUWUc0OUJrRQ",
+   "source": "The Next Web",
+   "published_at": "2026-10-28T09:03:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Next Web",
+     "published_at": "2026-10-28T09:03:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIcVE0bWNXSG9scy02QmgzZGlTdVk0T0hsMFlWR0dsUXZDc0lhMW5LRUdKUkg4MHBnVmJkc2Z0TVRTMUFwQ0YwVTZsNHBuTWRDMlZjbjFnOThUWUc0OUJrRQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "dc6f28b1a22a",
    "title": "Nvidia: Risk Building, Earnings Revisions Can Turn Negative (NASDAQ:NVDA) - Seeking Alpha",
@@ -580,6 +597,23 @@
    "zh_summary": "OpenAI拟采购谷歌TPU挑战英伟达",
    "title_zh": "OpenAI拟采购谷歌TPU，英伟达真会被撬动吗？",
    "sentiment": -1
+  },
+  {
+   "id": "6f949b3f715b",
+   "title": "AMD宣布向Meta投资10亿美元深化AI合作，英伟达此前投资30亿美元 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YNmxxbk5WS05KQ2p2b014eUZyVjZidmk2ZzNTWXRFdGpacGU2ZWZDRS1OWWhPc3g5NlQ2YlUwLW0ySVVodk1QS0ZxUzd6NVMzeWVpSjBLVkF1eS11",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-28T03:07:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-28T03:07:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YNmxxbk5WS05KQ2p2b014eUZyVjZidmk2ZzNTWXRFdGpacGU2ZWZDRS1OWWhPc3g5NlQ2YlUwLW0ySVVodk1QS0ZxUzd6NVMzeWVpSjBLVkF1eS11"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "e4b98f5c73e5",
@@ -6526,6 +6560,23 @@
    "sentiment": 0
   },
   {
+   "id": "65c9a829f2a7",
+   "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth - NVIDIA Newsroom",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzg1REp1LUMyZ2Njb0RyaWx2cHJSVU8taDFsUHBtcjlhUDlsT25MYmY4NGxrRElZbUNrNFJGRDBiSjlGOFdHbXhseXNJYTk4eFpvMXhGUTh1QXVDQmdFem43dWZId01nNzRndVRGU0c1ckJaam03ZG0yckJMNjYySUdDTGhvSFJSMmRoaDliRjFXcTNIVmduQ2JoVndfREtsYXlBUldNeE1PQmRSLVRqejhNWFYzUWVpMXBnRkFlNU9nZ1ljLVE",
+   "source": "NVIDIA Newsroom",
+   "published_at": "2026-10-27T05:59:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Newsroom",
+     "published_at": "2026-10-27T05:59:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzg1REp1LUMyZ2Njb0RyaWx2cHJSVU8taDFsUHBtcjlhUDlsT25MYmY4NGxrRElZbUNrNFJGRDBiSjlGOFdHbXhseXNJYTk4eFpvMXhGUTh1QXVDQmdFem43dWZId01nNzRndVRGU0c1ckJaam03ZG0yckJMNjYySUdDTGhvSFJSMmRoaDliRjFXcTNIVmduQ2JoVndfREtsYXlBUldNeE1PQmRSLVRqejhNWFYzUWVpMXBnRkFlNU9nZ1ljLVE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "314ffaef86c5",
    "title": "Elon Musk Wanted 30,000 Of NVIDIA’s Bleeding Edge AI GPU Systems But Is Getting Just 20,000, Still Enough To Be 2027’s Biggest Buyer, Says Analyst Jeff Pu - Wccftech",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWTZsOUJERkktUHZwWlVqdWEtWUI3V09RZm1TZHlYTlBuV3k3Z0xySkk4MnliTkc2NVJDR1ZvLXhKUmhuLXFJcjEwc3pCdHJ3RGlMR0VTVHkzX2N1aDg0WFJDVlRFb0V5cG5FYU1GTG5HWW9hN1lvTTNoZGl1SW5FQ3FWdlBoWGRfUEZ6QzhSZ1hDTTk4emU0akNpUVVmdUJhTWMwcG5tSnlZZTdqd01ONlNNRVk3eEpjRHd4djl6NjU5Q3JjQWxnRXJJRlg2TjNhWUxfbUpzWlQ4bE5uNTRFa1U5c1h6dll5VmpTeWlaYTB0QVk5MWN6SWEyR0N3TlHSAYQCQVVfeXFMT1VzemVab0o4QnJ1UEZLRVNySlRJaDRScFdvRl83dDk1anpDbUJTd2pMZWRPWUo0TVNRSWx0M3NRN1M3QTdMVDVhTVYyZ1BkRV9WaE1iQlBmWDF2b1JJanY1R3FoZVdRVXBFOEhEWlA3Z0tKOUs4c1hqb19aYjF3b25PZzdKZ3JjYWhLeno1MjlfNmppWC1Kb0JCaWVRR3B0SEFwWF93Y3dTUzU2TTA3XzNDZ24wRnBlZk9BWFB4bzdQR2dZN2JKZFNWQW5mUFU3bWFqcTRwaVU1SjViR0NjR0hRLVRzSjRNUkNHUU0zQWNmMmw0dXM2TEpBWHR0Q2tDSDNpbGY",
@@ -6653,71 +6704,6 @@
    "session": "盘前",
    "zh_summary": "英伟达拟投资$30亿参与Meta股权发行",
    "title_zh": "英伟达拟投资$30亿参与Meta股权发行",
-   "sentiment": 1
-  },
-  {
-   "id": "94845dcdf55d",
-   "title": "报道：台积电拟上调先进封装价格10%-20%，英伟达、AMD成本承压 - 华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kMUFXSEJBdi1SQzRBckpnbk40UmwycEZ5cEpiZTd0NU9TSEtlRS1jTXpNSUV3RkVTX1VTdVd5aThNX3VKdzZmZzdfcTJxX3ZOSVFZ",
-   "source": "华尔街见闻",
-   "published_at": "2026-10-27T05:52:14+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-27T05:52:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kMUFXSEJBdi1SQzRBckpnbk40UmwycEZ5cEpiZTd0NU9TSEtlRS1jTXpNSUV3RkVTX1VTdVd5aThNX3VKdzZmZzdfcTJxX3ZOSVFZ"
-    },
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-28T06:07:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wd2MxY0xwd051ZFgtUTN2S2p3eXVhbXEtTmRud1pNdHJRbG9CczNxX1cwLU52QTdwc2hRLWlsT29kdVpNTHZtVEpORmJrTlpTZkRvSjljcVc2dGVI"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "台积电拟上调先进封装价格，英伟达成本承压",
-   "title_zh": "台积电拟上调先进封装价格10%-20%，英伟达成本承压",
-   "sentiment": -1
-  },
-  {
-   "id": "fbae604b2680",
-   "title": "NVIDIA plans a $3 billion investment in Meta as both expand work on AI that does tasks for users. - Stock Titan",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMlE5VEwxQ0JJZVVMZ1F3Xzhocll2TEpJNkpJeTRnR3E4c2ZCSkxaRTU3UlZkQUFBaGJLekZBVXZrWDAyeElnMXB0Q2VXUEpxX0hvUFd1OGtQVTI0aEMydFItcnlPVHdLYTZqZmFGaEluRjJIQ25BTklSaGlNZl8xM1cwLXhyWkxiMHUxTmE5T19PcFpybmJMQUYxVTkzeEhtOEZXOUtfOEswSjhIZ1pTdVdMYmlYNTBOQVF3U1ZB",
-   "source": "Stock Titan",
-   "published_at": "2026-10-27T05:52:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stock Titan",
-     "published_at": "2026-10-27T05:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMlE5VEwxQ0JJZVVMZ1F3Xzhocll2TEpJNkpJeTRnR3E4c2ZCSkxaRTU3UlZkQUFBaGJLekZBVXZrWDAyeElnMXB0Q2VXUEpxX0hvUFd1OGtQVTI0aEMydFItcnlPVHdLYTZqZmFGaEluRjJIQ25BTklSaGlNZl8xM1cwLXhyWkxiMHUxTmE5T19PcFpybmJMQUYxVTkzeEhtOEZXOUtfOEswSjhIZ1pTdVdMYmlYNTBOQVF3U1ZB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达拟投资30亿美元于Meta",
-   "title_zh": "英伟达拟向Meta投资30亿美元，扩大AI助手合作",
-   "sentiment": 1
-  },
-  {
-   "id": "af9e1d0c07f8",
-   "title": "英伟达与Meta在强劲增长背景下扩大Muse及Muse系列模型的合作 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1A2THlrZy1ydkJCazRMalNjZTF4S0JlTG4zeGdDbVRXdy1Qd1ZQcVNjaFl5ZF9GUDNybkhFQVBrc3FCTFlxMnh1Rk9VNUJYblIydE96bHRFX3dNUU9ndmtxd3IyRklNQ1QtckxEdjZmWm5HQVlSYzVxTmhIQ0FTTFFpa1BMOHc4ZmRSOU8zSGtfUFFVcVV6WC1fajBQQ1pYWlFiZ0psUV8",
-   "source": "Moomoo",
-   "published_at": "2026-10-27T05:52:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-27T05:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1A2THlrZy1ydkJCazRMalNjZTF4S0JlTG4zeGdDbVRXdy1Qd1ZQcVNjaFl5ZF9GUDNybkhFQVBrc3FCTFlxMnh1Rk9VNUJYblIydE96bHRFX3dNUU9ndmtxd3IyRklNQ1QtckxEdjZmWm5HQVlSYzVxTmhIQ0FTTFFpa1BMOHc4ZmRSOU8zSGtfUFFVcVV6WC1fajBQQ1pYWlFiZ0psUV8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达与Meta扩大Muse模型合作",
-   "title_zh": "英伟达与Meta在强劲增长下扩大Muse模型合作",
    "sentiment": 1
   }
  ]
