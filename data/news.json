@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T19:21:36.063701+00:00",
+ "updated_at": "2026-10-28T19:36:32.067418+00:00",
  "market": {
-  "price": 215.31,
-  "change_pct": -1.21,
+  "price": 214.78,
+  "change_pct": -1.45,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.18,
-   "count": 131
+   "avg": 0.17,
+   "count": 135
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 68% 分位"
+     "note": "现价处于52周区间 67% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +46.3%"
+     "note": "目标价中位数 $315（17家），隐含空间 +46.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（131条已评分）"
+     "note": "今日新闻情绪 +0.17（135条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $215.31 vs 20日均线 $223.78"
+     "note": "现价 $214.78 vs 20日均线 $223.75"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 68,
+   "price_52w_pct": 67,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 46.3,
-   "ma20": 223.78,
-   "as_of": "2026-10-28T19:21:36.055412+00:00"
+   "implied_upside_pct": 46.7,
+   "ma20": 223.75,
+   "as_of": "2026-10-28T19:36:32.054034+00:00"
   },
-  "pe_ttm": 27.4,
+  "pe_ttm": 27.3,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.3%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,45 @@
   }
  },
  "stories": [
+  {
+   "id": "7b1ec278157d",
+   "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMDZqUWF3YktyVW9PWGx0VnVjZTV3U1dSdkR5X3FhcV9ZNDZubzJBRXFsbXRkOVBQVXQzaXFSQkNuRUZKZWlBNWs3cXJqSlMtUTBaVFcyb01SNHB5SDVadUJyd0x3T1pkQ2xMWEttTGlFeVdoMXVSbVNDemxpYUhneW1YQWZQOXpLUk56LWt3NTljOWJxS3c",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-28T19:16:02+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T19:16:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMDZqUWF3YktyVW9PWGx0VnVjZTV3U1dSdkR5X3FhcV9ZNDZubzJBRXFsbXRkOVBQVXQzaXFSQkNuRUZKZWlBNWs3cXJqSlMtUTBaVFcyb01SNHB5SDVadUJyd0x3T1pkQ2xMWEttTGlFeVdoMXVSbVNDemxpYUhneW1YQWZQOXpLUk56LWt3NTljOWJxS3c"
+    },
+    {
+     "name": "Decrypt",
+     "published_at": "2026-10-28T19:16:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM3AwS2tyZ1NKYmJfOExBbGp6WWdMWExsTkZvYWJZZHk3MlZGMktHZEZnOE4yRGdrbkttTmpyVTNzMWpMdlEzeTRrcE9hd2RJMU1vdGQ3dlRUWHZsQW16MUpjR3R5V3RJUEFHUi03QjVJRkVoaTB0YTI0NFZDREd0MFBCWE0"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "bfc994a59b19",
+   "title": "DOJ Inquires About Nvidia’s Hugging Face Deal, Reuters Says - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa3hzZk9tLVg4clhwcUE5N2pFeG9tUUlEOFpFVVlfd0VkXzFsWTZHVGdJMVdBWTN0VlJPc3N2NF9oQndxbG40end5b2xvbnU3TlEyVVNENDZSZUM5Q1VJa0FzSW1rci1hTnFhdWxxWGVaUzRud3ZFU1c1WUp6OFNwY01VSXoyV3ZMNTVlQTNrYzJUSFpvMmdlS3k0QlZVS0YtT3hQOWFwNHlmbV9kQmc",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-28T19:14:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-28T19:14:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa3hzZk9tLVg4clhwcUE5N2pFeG9tUUlEOFpFVVlfd0VkXzFsWTZHVGdJMVdBWTN0VlJPc3N2NF9oQndxbG40end5b2xvbnU3TlEyVVNENDZSZUM5Q1VJa0FzSW1rci1hTnFhdWxxWGVaUzRud3ZFU1c1WUp6OFNwY01VSXoyV3ZMNTVlQTNrYzJUSFpvMmdlS3k0QlZVS0YtT3hQOWFwNHlmbV9kQmc"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
   {
    "id": "fccd0ec05ccc",
    "title": "Dept of Justice studying Nvidia's $12.9B acquisition of Hugging Face - Reuters (NVDA:NASDAQ) - Seeking Alpha",
@@ -105,6 +144,23 @@
    "zh_summary": "英伟达129亿美元收购案引司法部质询",
    "title_zh": "英伟达129亿美元收购Hugging Face引司法部质询",
    "sentiment": -1
+  },
+  {
+   "id": "5ed254baef95",
+   "title": "美司法部问询英伟达129.3亿美元收购Hugging Face交易 - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qOUVoZ0t5cjBQdWZrRDFnV2RmUU5YdWJkb0RaNWtxaDluRUExekZfcE5UVk83LTZMR1cwM1EtUGl1UkVfOFNZckoxMEZJWEx5SGljd0hKeVhqS3Z6UVN3ZnZQZGkydw",
+   "source": "TradingView",
+   "published_at": "2026-10-28T18:58:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-28T18:58:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qOUVoZ0t5cjBQdWZrRDFnV2RmUU5YdWJkb0RaNWtxaDluRUExekZfcE5UVk83LTZMR1cwM1EtUGl1UkVfOFNZckoxMEZJWEx5SGljd0hKeVhqS3Z6UVN3ZnZQZGkydw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "8843afe8cf97",
@@ -3183,6 +3239,23 @@
    "sentiment": 1
   },
   {
+   "id": "70a7ebae0b06",
+   "title": "面壁智能 RSI 新进展：ForgeKernel 登顶华为、英伟达官方算子榜 - 证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KektqOXhVQ1NVc1MzWVplYTl0V0N0aExKRVhRTDI4QklYNkZqQW4tUm1qWlhqbW54NXAtcUJwMUY4Mm04S19SbFNGRkRVNUdUTG5PTUgxYXVnVHlDS2NSRW5wbF8",
+   "source": "证券之星",
+   "published_at": "2026-10-28T03:01:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-28T03:01:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KektqOXhVQ1NVc1MzWVplYTl0V0N0aExKRVhRTDI4QklYNkZqQW4tUm1qWlhqbW54NXAtcUJwMUY4Mm04S19SbFNGRkRVNUdUTG5PTUgxYXVnVHlDS2NSRW5wbF8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "3f2a4e1d1065",
    "title": "英伟达GeForce Hotfix 621.12驱动：解决虚幻引擎5.8崩溃问题超能网 - 超能网",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xN29jQS0xMUxCc1hCbkxCREdONE1GSXFJeGdvR3B0eGNZOXZ5NGhXSklrZFlMemRQd1A4dWlRTE5NVVdfSkpld1ZSZw",
@@ -3201,26 +3274,6 @@
    "zh_summary": "英伟达发布热修复驱动解决虚幻引擎崩溃",
    "title_zh": "英伟达GeForce Hotfix 621.12驱动：解决虚幻引擎5.8崩溃问题",
    "sentiment": 0
-  },
-  {
-   "id": "c2586a65c701",
-   "title": "英伟达GPU隐藏算力被开源解锁，不改官方驱动，RTX 4090吞吐翻倍 - CSDN博客",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ebjg2Q3R2YTFtOGdCdEY5QWZmVjZPckViUjJZSmo0T3JmOFYwMFNQblBqTlc1X0x2Z1R3UlloSExIVkRWQVNxeFdudnI2a1ZJakdrZ2M3UGhNUFVxaFVtcVlFUlprbWFEWHdIQ0l3",
-   "source": "CSDN博客",
-   "published_at": "2026-10-28T02:58:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CSDN博客",
-     "published_at": "2026-10-28T02:58:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ebjg2Q3R2YTFtOGdCdEY5QWZmVjZPckViUjJZSmo0T3JmOFYwMFNQblBqTlc1X0x2Z1R3UlloSExIVkRWQVNxeFdudnI2a1ZJakdrZ2M3UGhNUFVxaFVtcVlFUlprbWFEWHdIQ0l3"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "开源解锁GPU隐藏算力，RTX4090吞吐翻倍",
-   "title_zh": "英伟达GPU隐藏算力被开源解锁，RTX 4090吞吐翻倍",
-   "sentiment": 1
   },
   {
    "id": "7755320896b8",
@@ -6568,85 +6621,6 @@
    "zh_summary": "英伟达投资AI推理优化初创公司",
    "title_zh": "英伟达投资AI推理优化初创公司Simplismart",
    "sentiment": 1
-  },
-  {
-   "id": "2a9c031f5342",
-   "title": "Nvidia Collaboration Gives 51World A Boost, But Can It Convert That Into Sales? - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmYxNm4wZXgyck16NXYtMGg2cy1IeFg1LWhVdGlVQ2hmNDlucUtCUFc1UFZRUzVJb1BqVllpbXZtZUpaeWtDc0EwTVlPMGJKS1U4V0otbXc5LXA2djIxVmxuZkhLQ1FXQS1MdzRWRGVPUV84UjM1MWxnY0FROEJNRWJ3WmxkWDlhVTVMdEdfblAtZl90NG5mckNSV2NwUGkyejMyRXBpSGg1MnJFbnY3R0tsYklmVkJvYXVhVFcyLXI2T0U",
-   "source": "Benzinga",
-   "published_at": "2026-10-27T13:12:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-27T13:12:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcmYxNm4wZXgyck16NXYtMGg2cy1IeFg1LWhVdGlVQ2hmNDlucUtCUFc1UFZRUzVJb1BqVllpbXZtZUpaeWtDc0EwTVlPMGJKS1U4V0otbXc5LXA2djIxVmxuZkhLQ1FXQS1MdzRWRGVPUV84UjM1MWxnY0FROEJNRWJ3WmxkWDlhVTVMdEdfblAtZl90NG5mckNSV2NwUGkyejMyRXBpSGg1MnJFbnY3R0tsYklmVkJvYXVhVFcyLXI2T0U"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达合作助51World获提振",
-   "title_zh": "英伟达合作提振51World，但能否转化为销售？",
-   "sentiment": 0
-  },
-  {
-   "id": "55ddad5516b8",
-   "title": "甲骨文加码英伟达至数吉瓦级 首度引入谷歌TPU 市场紧盯投资者日 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45Y1lZcFl1RXlhUkxaRHBHRm1Yc2tSWjE5aEtPNjVqZWpOYjNGMHViTlphYXdvdzl4Nkljbnk5eWlyeGpyRXd5RQ",
-   "source": "财联社",
-   "published_at": "2026-10-27T13:06:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-27T13:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45Y1lZcFl1RXlhUkxaRHBHRm1Yc2tSWjE5aEtPNjVqZWpOYjNGMHViTlphYXdvdzl4Nkljbnk5eWlyeGpyRXd5RQ"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-27T17:26:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN04wck82Wmx6R0xkWVdFT3lXRFFoZjRFTkJTUkdtb2ZvOUlVTjkwWnoyc01WQWZPTHBpT1hGc2pwbDY1VnBmMGZ1Slg4QThZbzk0NzBDLXBhTjBzUnVVNnZDb3lCWTl3T1NRSEJiLUNTNDNWbmIxOF91Z3dDUl9VLUdHZkxsdTVDVHFHTW1kV2JNc3llTUU5ZVBqcHFCeVRnMlhVMDZjTmJPeXU0VUpWSFRGbVZMQQ"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-27T17:57:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RbG9nVV9NSC12TXA2ZXNkV0syY1g5X3ZEZGpvQUJWT1FnOWtuaV8xdFZzUVRrdG9oMnB2UUN5N3BSM21ZY3dwNm1VcnVyVDUxWG96Vkh2M2JPd2FNYWpkaFJLcVZsWXFCVkZQeGJ5V2F2TTgtanJ1aVNvXzI0bEU"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-27T17:43:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85M0NIZXE1X0pURUVNN1BoQjBTTE9ZMzlNdTExX0tFWHpqNzNwMlJ4dTI3RlNFVEdPSHV5RExJTTRuU1RRbkMzVXZxSnJqQkJHM2EzR0RUNmp3SXpZNGtkMjZTUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "甲骨文加码英伟达至数吉瓦级",
-   "title_zh": "甲骨文加码英伟达至数吉瓦级，首度引入谷歌TPU",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.11,
-    "window_h": 1.4
-   }
-  },
-  {
-   "id": "42311ae5bca6",
-   "title": "PrimeXBT Adds Seven Tokenized Stock Crypto Futures, Including Tesla, SpaceX and Nvidia - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcy1TN3ZGUG9lZW51XzE4aFVCVWF1SEdSYU5hOXNLdVFLOFJTYXkwN2V3eG80WllVTi1jcmZ5V1lxeVJlZ1Y5SXQtekxjU1FjUlJCRV9iRlZsWVlmTTdIbzk1NnM5M1FJb2gyNlUtNjdCTUhMMlFScWZpWm5tel9ZR1VPTWItSXhEY1plcEV0OFNsOTBmVHhydzhjUzZXbXNzN3c",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-27T13:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T13:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcy1TN3ZGUG9lZW51XzE4aFVCVWF1SEdSYU5hOXNLdVFLOFJTYXkwN2V3eG80WllVTi1jcmZ5V1lxeVJlZ1Y5SXQtekxjU1FjUlJCRV9iRlZsWVlmTTdIbzk1NnM5M1FJb2gyNlUtNjdCTUhMMlFScWZpWm5tel9ZR1VPTWItSXhEY1plcEV0OFNsOTBmVHhydzhjUzZXbXNzN3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "PrimeXBT新增七只代币化股票期货含英伟达",
-   "title_zh": "PrimeXBT新增七只代币化股票期货，含特斯拉、SpaceX与英伟达",
-   "sentiment": 0
   }
  ]
 }
