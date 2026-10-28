@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T14:36:36.827942+00:00",
+ "updated_at": "2026-10-28T14:51:36.326795+00:00",
  "market": {
-  "price": 218.21,
-  "change_pct": 0.12,
+  "price": 217.7,
+  "change_pct": -0.11,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.14,
-   "count": 77
+   "avg": 0.15,
+   "count": 78
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 72% 分位"
+     "note": "现价处于52周区间 71% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +44.4%"
+     "note": "目标价中位数 $315（17家），隐含空间 +44.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.14（77条已评分）"
+     "note": "今日新闻情绪 +0.15（78条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $218.21 vs 20日均线 $223.93"
+     "note": "现价 $217.70 vs 20日均线 $223.90"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 72,
+   "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 44.4,
-   "ma20": 223.93,
-   "as_of": "2026-10-28T14:36:36.807950+00:00"
+   "implied_upside_pct": 44.7,
+   "ma20": 223.9,
+   "as_of": "2026-10-28T14:51:36.316487+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,20 +62,42 @@
  },
  "stories": [
   {
-   "id": "8ef2f3eb360b",
-   "title": "Nvidia forges supplier agreements to expand capacity for AI - Supply Chain Dive",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEF0SW5jbktMRkNyS2hEMGdZU1NuWFNSeXltQzZOZ19QWlJPT3Byc0ZDMkFTcWdhQmZKTEhocC1lcWpndXRQcU56UkZSTjZQVy01Ul9BQVFpT3NkdndyOV9EU2FmV1c5QTJRZHYxWkZ4cHdja3BVLS04WFN2VWFwQ3ZSdjFZMHFkNFlLeHk4aG1DeXlhQVJ0N0d5MnZkVWlHNVB2Q3ZsNA",
-   "source": "Supply Chain Dive",
-   "published_at": "2026-10-28T14:20:48+00:00",
+   "id": "2771b9c08ffd",
+   "title": "Nvidia Has The Best Chance to Breach $6 Trillion First So I Buy - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXpCbEJMSkdVQy1HWTZtek95RHJBT1lIM2M2ai0tc2tmUGRlWXpGaVBQU0tva1c3STdpdWN1Y1VaWXg4SzBMbVhxZ0E5ejZFWVl4YTFYS3gxTnotRlEzaWN2RnBudkRnVVVZVGtYNWV4ODU5SGNDamY2RFdDWEpGZXlLYVJ1b3VmenZyVmZaNWpiUUlrVF9vYnRtOUZNa1NRcW1RekxBaFYwdw",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-28T14:50:09+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-28T14:50:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXpCbEJMSkdVQy1HWTZtek95RHJBT1lIM2M2ai0tc2tmUGRlWXpGaVBQU0tva1c3STdpdWN1Y1VaWXg4SzBMbVhxZ0E5ejZFWVl4YTFYS3gxTnotRlEzaWN2RnBudkRnVVVZVGtYNWV4ODU5SGNDamY2RFdDWEpGZXlLYVJ1b3VmenZyVmZaNWpiUUlrVF9vYnRtOUZNa1NRcW1RekxBaFYwdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "8ef2f3eb360b",
+   "title": "Nvidia forges supplier agreements to expand capacity for AI - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGNUaGdpYnFtdHhzYWczV1lUVFEzcmZ1U3VrOEh0V3VidzNlc3hlOHg2X1ptaVRSRGdmZGxTMkR5aGZuNzVfY3ZKVmdzaUo0Q3RTOUwyQzR0eHE3cTJsM29OSUxIckxXdTJxYV8tY01HdXBSUzRqQlBtbVdOeXk0MUJZR2tUNjd4a0lmeVd5OXBvTjdhSUYxTEVtVUZxTFJ4bURnNUZvdw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-28T14:20:20+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T14:20:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGNUaGdpYnFtdHhzYWczV1lUVFEzcmZ1U3VrOEh0V3VidzNlc3hlOHg2X1ptaVRSRGdmZGxTMkR5aGZuNzVfY3ZKVmdzaUo0Q3RTOUwyQzR0eHE3cTJsM29OSUxIckxXdTJxYV8tY01HdXBSUzRqQlBtbVdOeXk0MUJZR2tUNjd4a0lmeVd5OXBvTjdhSUYxTEVtVUZxTFJ4bURnNUZvdw"
+    },
     {
      "name": "Supply Chain Dive",
      "published_at": "2026-10-28T14:20:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEF0SW5jbktMRkNyS2hEMGdZU1NuWFNSeXltQzZOZ19QWlJPT3Byc0ZDMkFTcWdhQmZKTEhocC1lcWpndXRQcU56UkZSTjZQVy01Ul9BQVFpT3NkdndyOV9EU2FmV1c5QTJRZHYxWkZ4cHdja3BVLS04WFN2VWFwQ3ZSdjFZMHFkNFlLeHk4aG1DeXlhQVJ0N0d5MnZkVWlHNVB2Q3ZsNA"
     }
    ],
-   "category": "供应链",
+   "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达签供应商协议扩产AI产能",
    "title_zh": "英伟达与供应商达成协议以扩大AI产能",
@@ -120,6 +142,23 @@
    "zh_summary": "2030年不同情景下的英伟达展望",
    "title_zh": "今天买10股英伟达？2030年不同情景展望",
    "sentiment": 0
+  },
+  {
+   "id": "52471f72f697",
+   "title": "英伟达战略投资Facebook - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQldEaXQxRG1ZbnphSVdFb01kSkVjdndTdWVhTmJDSmNaeDhncUFYbGNJNmo3Vy00Vm9wUVpCeHpxd1BrS1JoMFJOQmlfSmtUM05DaHlpWEExNjkzSTNSSmpmalFtaE5odnNKWkdETmhlSjc2ODJIWm0wNFBqOEYxTEhnc0k4alZQ",
+   "source": "搜狐网",
+   "published_at": "2026-10-28T14:11:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-28T14:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQldEaXQxRG1ZbnphSVdFb01kSkVjdndTdWVhTmJDSmNaeDhncUFYbGNJNmo3Vy00Vm9wUVpCeHpxd1BrS1JoMFJOQmlfSmtUM05DaHlpWEExNjkzSTNSSmpmalFtaE5odnNKWkdETmhlSjc2ODJIWm0wNFBqOEYxTEhnc0k4alZQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "e6ea096e47e5",
@@ -6562,46 +6601,6 @@
    "session": "盘前",
    "zh_summary": "Rockland Trust买入英伟达股票",
    "title_zh": "Rockland Trust买入英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "fdca1036e83c",
-   "title": "Nvidia To Invest $3 Billion Into Meta As AI Race Intensifies - NDTV Profit",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbndWcnBMUndQT1F4bU8zeXdiQmdFYTIwX3gxSVlYaGQ3UU1HY2FpSDg2VVd4Ui1GTjNnVkRPZzdDMGg3TFF1VGVxVVNPLThFZFppZEVZMlEtSGt6NlVDaVgweGJ2NUIxMnVURW5MVDNlN0NBTndiVXlwSW5qRURBSzU3cXpBMGtWRms2X04tSXM4ZUxRZmhkN1Y5Q3lsU3V6SVV3QXlvY9IBrwFBVV95cUxPbjZnNmlhOFR0eTB2cHA3dEd4NmF0TEpQWVUwc2lQcWVqSmNQNk1icHhIc0lZbFhjbzdmZzhoazUwUm9tTXRrZDE1ZGU3WllOUkV0d1M4X3pTTzI1SG5Ja283ZzdPSXRjS0FfMU5kNFlkYXBQak5qMmFUbEU0Umt5RmNrSDhfbzlPUEFGR0ZZZ2ltSG5hQlk3dnBuMlJONDBCbVM3ejZmYjZ1Y1RJLWN3",
-   "source": "NDTV Profit",
-   "published_at": "2026-10-27T09:11:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NDTV Profit",
-     "published_at": "2026-10-27T09:11:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbndWcnBMUndQT1F4bU8zeXdiQmdFYTIwX3gxSVlYaGQ3UU1HY2FpSDg2VVd4Ui1GTjNnVkRPZzdDMGg3TFF1VGVxVVNPLThFZFppZEVZMlEtSGt6NlVDaVgweGJ2NUIxMnVURW5MVDNlN0NBTndiVXlwSW5qRURBSzU3cXpBMGtWRms2X04tSXM4ZUxRZmhkN1Y5Q3lsU3V6SVV3QXlvY9IBrwFBVV95cUxPbjZnNmlhOFR0eTB2cHA3dEd4NmF0TEpQWVUwc2lQcWVqSmNQNk1icHhIc0lZbFhjbzdmZzhoazUwUm9tTXRrZDE1ZGU3WllOUkV0d1M4X3pTTzI1SG5Ja283ZzdPSXRjS0FfMU5kNFlkYXBQak5qMmFUbEU0Umt5RmNrSDhfbzlPUEFGR0ZZZ2ltSG5hQlk3dnBuMlJONDBCbVM3ejZmYjZ1Y1RJLWN3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达向Meta投资30亿美元",
-   "title_zh": "英伟达将向Meta投资30亿美元，AI竞赛加剧",
-   "sentiment": 1
-  },
-  {
-   "id": "25967c46b365",
-   "title": "英伟达将向Meta投资30亿美元，科技巨头深化人工智能合作 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sbWMyUi02VFhzb0EyRkFIamlpY0pyR1NjVE53SUtLaVpyVDJBWC14Z1E1NW9BN29BZXM0RUJ3OVJSR1FTQTdib1N2NXZvMHBt",
-   "source": "富途牛牛",
-   "published_at": "2026-10-27T09:05:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-27T09:05:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sbWMyUi02VFhzb0EyRkFIamlpY0pyR1NjVE53SUtLaVpyVDJBWC14Z1E1NW9BN29BZXM0RUJ3OVJSR1FTQTdib1N2NXZvMHBt"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达将向Meta投资30亿美元",
-   "title_zh": "英伟达将向Meta投资30亿美元，科技巨头深化人工智能合作 - 富途牛牛",
    "sentiment": 1
   }
  ]
