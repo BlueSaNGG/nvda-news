@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T08:51:32.798109+00:00",
+ "updated_at": "2026-10-28T09:06:35.636909+00:00",
  "market": {
   "price": 217.94,
   "change_pct": 0.9,
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.18,
-   "count": 11
+   "avg": 0.06,
+   "count": 16
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（11条已评分）"
+     "note": "今日新闻情绪 +0.06（16条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 44.5,
    "ma20": 224.44,
-   "as_of": "2026-10-28T08:51:32.783976+00:00"
+   "as_of": "2026-10-28T09:06:35.627438+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "dc6f28b1a22a",
+   "title": "Nvidia: Risk Building, Earnings Revisions Can Turn Negative (NASDAQ:NVDA) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmRBanZIT29hZVU4TWVSWENzU2NzbkNHNHNPb0dWX0xtLWVPaS1qQ3FEcDQ0ejdCbWhkUDh5YWt5aWFBank3dHhLZXNYTnFqWEpzT0Z3a2dwbGxta2gwak4tNEYzUDBKcnUxSS04MzdDVHNhczBid3BzTDZnTkVXS1JTcm9VTEpaUUp2dnZMOGVlOGh5Yk9MRERSTDBOVUE",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-28T08:54:14+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-28T08:54:14+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmRBanZIT29hZVU4TWVSWENzU2NzbkNHNHNPb0dWX0xtLWVPaS1qQ3FEcDQ0ejdCbWhkUDh5YWt5aWFBank3dHhLZXNYTnFqWEpzT0Z3a2dwbGxta2gwak4tNEYzUDBKcnUxSS04MzdDVHNhczBid3BzTDZnTkVXS1JTcm9VTEpaUUp2dnZMOGVlOGh5Yk9MRERSTDBOVUE"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
+  {
+   "id": "acc11d45feed",
+   "title": "迅策TokenRouters重磅发布，对标英伟达押注的AI中间层，给出“中国解法” - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVEZNVDVmTUFWX1pGckpubFpoNzIwRlZRSGpXMHJnLW9aVUVTRmVSc3cyUF8wQW9vRUJtZkQ1LVk1dGFvd1FuSHBiN1FtRzZxdVprUjRmVXdvVVMwLXVJN3V5d1R6bU1PcWZ6OU5kZ2pqeERpc2xfWDJNRlowUVV5Rg",
+   "source": "新浪财经",
+   "published_at": "2026-10-28T08:53:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-28T08:53:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVEZNVDVmTUFWX1pGckpubFpoNzIwRlZRSGpXMHJnLW9aVUVTRmVSc3cyUF8wQW9vRUJtZkQ1LVk1dGFvd1FuSHBiN1FtRzZxdVprUjRmVXdvVVMwLXVJN3V5d1R6bU1PcWZ6OU5kZ2pqeERpc2xfWDJNRlowUVV5Rg"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
   {
    "id": "33260d35f425",
    "title": "Running NVIDIA Nemotron 3.5 Bolt E4B Without a GPU: Benchmark Results - HackerNoon",
@@ -80,46 +114,6 @@
    "zh_summary": "无GPU运行Nemotron 3.5测试结果",
    "title_zh": "无GPU运行英伟达Nemotron 3.5 Bolt E4B基准测试",
    "sentiment": 0
-  },
-  {
-   "id": "79f1abea3cea",
-   "title": "NVIDIA Corporation $NVDA Stock Purchased by Paladin Partners LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T08:41:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T08:41:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Paladin Partners买入英伟达股票",
-   "title_zh": "Paladin Partners买入英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "c6662c5e4a39",
-   "title": "NVIDIA Corporation $NVDA Stock Holdings Decreased by Legacy Private Trust Co. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHdqNjRtXzczeWI4VDVmbVlUZTk1ZWZqYXhxcjM1TzdIRTZMQ2E0X2xFNUFiM0FPczZwZ0liLURwaHlyREZVVXU4NFZRd3FweElyNm1mc3JWMXV4YUh0c0VNWUctcDlUSm8yeWVjWkotbzJkcjI4OXZwT1VCRzgzNzEwaVlWNUg2eThXYjZtRzRiUkVQam50c1BnbWtfWUdUbmU2dk1CemUza1AtRFZud3pwUXZGVWRoTmRfMVFnT2hjWjNsREZIUEdmZXhKXzJxMWc",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T08:41:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T08:41:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHdqNjRtXzczeWI4VDVmbVlUZTk1ZWZqYXhxcjM1TzdIRTZMQ2E0X2xFNUFiM0FPczZwZ0liLURwaHlyREZVVXU4NFZRd3FweElyNm1mc3JWMXV4YUh0c0VNWUctcDlUSm8yeWVjWkotbzJkcjI4OXZwT1VCRzgzNzEwaVlWNUg2eThXYjZtRzRiUkVQam50c1BnbWtfWUdUbmU2dk1CemUza1AtRFZud3pwUXZGVWRoTmRfMVFnT2hjWjNsREZIUEdmZXhKXzJxMWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Legacy Private Trust减持英伟达",
-   "title_zh": "Legacy Private Trust减持英伟达持仓",
-   "sentiment": -1
   },
   {
    "id": "a27c39b203af",
@@ -207,7 +201,7 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN19qTFFvQW1qNDNTT3pVVnEwdXcxVDVNcHBNWmIxVG9mRWtsUzgyVnNQRzN1NlBlV3JUVEtTLWRpbk9RbG9xaGdOcC1WdnQ5THYwaUNkSlV3bVNEdTFBa1E4dTFOa1dDWmRLOFd0eVpyNVNKSDBZR2tjV1prNXE2SG0wS3ZUa0EybHloX3I4UHpiUVFEbW9wUjdjT084dEhLUHNvMGdB",
    "source": "The Motley Fool",
    "published_at": "2026-10-28T08:12:42+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -218,6 +212,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-28T08:30:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdy1LZWhuWTViZkJSelFMZHloOWcwd19xRkNQZ1J5RDFCS2gyeU9LZ3g0SHpzeUVaWGMyRFdaSUpHQ3llS1VwcVVLNzEyS2Jkd1F1VDZ6Y25YZENZeENjWU5iUWNhb1ZHNFVZdWp0eEdJaFZxcjVqMDRvMnBrcTNLdGR2Yl9PYmpsblo1bTdUVQ"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-28T08:35:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQmd1YUZsZjRvWGlBQmFtYWNycG5hUnpMcU9DSTZ3dzVIRDhmY1hPeHhsTEFSZHJzNV90VDlSUlRkYUpoMkVYNU85akcxNk1RcU9ZS2ZWMHpsd1I2emVoVzUxNWRHMmxhX3JyYV9PZDVCS01kR0dLWXRHWlNiZk93OG01YjRUNXJsenhjWm1FTGFoZ2g2eUdFN3FtVnhpbllVUWRMTHRGZTcyaGhIS0lQZmtySjlINFlvc2stYUY4RlZvODNsY1NuSFg1RkV1UERtaWcxR0tzbFFoUHNmVWc"
     }
    ],
    "category": "供应链",
@@ -574,31 +573,6 @@
    "session": "盘后",
    "zh_summary": "OpenAI拟采购谷歌TPU挑战英伟达",
    "title_zh": "OpenAI拟采购谷歌TPU，英伟达真会被撬动吗？",
-   "sentiment": -1
-  },
-  {
-   "id": "62ed439b4be2",
-   "title": "事关算力定价权！英伟达头号梦魇，藏在Anthropic招股书中 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNk9KVTB0c1ZsR3JuNDgzR0N3ZXEzc1NFSUE1SkM4a1ItQ1poOWQ5MGY2UEhmLWNlTjRKRElpUm1IWVVnalFCTkdtZ2xiaERmRzQ5djZuVkNKSmowd0pGLU90V29xaDE0YldvcWVmWThQV1R3ZzJmM212dURZVDdyblJyRXBqbzVxbkMybjIwcEVkVEEzRkhnYjZmb3RKNWt6YkhVQmRFblBRMlhldnJNenpR",
-   "source": "Moomoo",
-   "published_at": "2026-10-28T03:19:06+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-28T03:19:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNk9KVTB0c1ZsR3JuNDgzR0N3ZXEzc1NFSUE1SkM4a1ItQ1poOWQ5MGY2UEhmLWNlTjRKRElpUm1IWVVnalFCTkdtZ2xiaERmRzQ5djZuVkNKSmowd0pGLU90V29xaDE0YldvcWVmWThQV1R3ZzJmM212dURZVDdyblJyRXBqbzVxbkMybjIwcEVkVEEzRkhnYjZmb3RKNWt6YkhVQmRFblBRMlhldnJNenpR"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-28T06:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fd1RpQklOZjg5eG5BWGdRZlpJcV8tdXhhQjZaOXVhUk1wU1NVdHlLRFVVdHRwUnZkWXVrVGNZNkpBZHE3T0ZnbXZ2dFlaOEtBMmdqWExYWXZnYXo2anVKYw"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "Anthropic招股书暗藏英伟达算力定价风险",
-   "title_zh": "事关算力定价权！英伟达头号梦魇，藏在Anthropic招股书中",
    "sentiment": -1
   },
   {
@@ -1124,6 +1098,36 @@
    "session": "盘后",
    "zh_summary": "OpenAI计划采购谷歌TPU挑战英伟达",
    "title_zh": "OpenAI计划采购谷歌TPU！英伟达算力霸权遭遇新挑战 - 财联社",
+   "sentiment": -1
+  },
+  {
+   "id": "62ed439b4be2",
+   "title": "事关算力定价权！英伟达头号梦魇，藏在Anthropic招股书中 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IcmVNWl9fNGVMU3pvZ1ZrRktqUmtuQ0FXekRMaTZkbmkxR3hraTJpTVpjdmczbmYzd1dmSmZzWEE2X1QzcF9zSQ",
+   "source": "财联社",
+   "published_at": "2026-10-28T01:02:00+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-28T01:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IcmVNWl9fNGVMU3pvZ1ZrRktqUmtuQ0FXekRMaTZkbmkxR3hraTJpTVpjdmczbmYzd1dmSmZzWEE2X1QzcF9zSQ"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-28T03:19:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNk9KVTB0c1ZsR3JuNDgzR0N3ZXEzc1NFSUE1SkM4a1ItQ1poOWQ5MGY2UEhmLWNlTjRKRElpUm1IWVVnalFCTkdtZ2xiaERmRzQ5djZuVkNKSmowd0pGLU90V29xaDE0YldvcWVmWThQV1R3ZzJmM212dURZVDdyblJyRXBqbzVxbkMybjIwcEVkVEEzRkhnYjZmb3RKNWt6YkhVQmRFblBRMlhldnJNenpR"
+    },
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-28T06:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fd1RpQklOZjg5eG5BWGdRZlpJcV8tdXhhQjZaOXVhUk1wU1NVdHlLRFVVdHRwUnZkWXVrVGNZNkpBZHE3T0ZnbXZ2dFlaOEtBMmdqWExYWXZnYXo2anVKYw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后",
+   "zh_summary": "Anthropic招股书暗藏英伟达算力定价风险",
+   "title_zh": "事关算力定价权！英伟达头号梦魇，藏在Anthropic招股书中",
    "sentiment": -1
   },
   {
@@ -5112,6 +5116,26 @@
    "sentiment": -1
   },
   {
+   "id": "86112ac158c6",
+   "title": "NVIDIA Corporation $NVDA Stock Holdings Trimmed by Silverleafe Capital Partners LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg",
+   "source": "MarketBeat",
+   "published_at": "2026-10-27T09:12:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-27T09:12:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "Paladin Partners买入英伟达股票",
+   "title_zh": "Paladin Partners买入英伟达股票",
+   "sentiment": 1
+  },
+  {
    "id": "fdca1036e83c",
    "title": "Nvidia To Invest $3 Billion Into Meta As AI Race Intensifies - NDTV Profit",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbndWcnBMUndQT1F4bU8zeXdiQmdFYTIwX3gxSVlYaGQ3UU1HY2FpSDg2VVd4Ui1GTjNnVkRPZzdDMGg3TFF1VGVxVVNPLThFZFppZEVZMlEtSGt6NlVDaVgweGJ2NUIxMnVURW5MVDNlN0NBTndiVXlwSW5qRURBSzU3cXpBMGtWRms2X04tSXM4ZUxRZmhkN1Y5Q3lsU3V6SVV3QXlvY9IBrwFBVV95cUxPbjZnNmlhOFR0eTB2cHA3dEd4NmF0TEpQWVUwc2lQcWVqSmNQNk1icHhIc0lZbFhjbzdmZzhoazUwUm9tTXRrZDE1ZGU3WllOUkV0d1M4X3pTTzI1SG5Ja283ZzdPSXRjS0FfMU5kNFlkYXBQak5qMmFUbEU0Umt5RmNrSDhfbzlPUEFGR0ZZZ2ltSG5hQlk3dnBuMlJONDBCbVM3ejZmYjZ1Y1RJLWN3",
@@ -6689,46 +6713,6 @@
    "zh_summary": "英伟达与Meta扩大Muse模型合作",
    "title_zh": "英伟达与Meta在强劲增长下扩大Muse模型合作",
    "sentiment": 1
-  },
-  {
-   "id": "65c9a829f2a7",
-   "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUt0SjBNeWdodXB4emFzUk1JZmtZVENPQzYtdHdmc1o4amJtODNiaFhXeVp3NExQOXpDTFNfWFVOT19jWHVCWC1Lajh5V05ha19RWndsNm9mRE1xOXZnOFN2cVZicUZnVF90XzdaRW94T1pCeGV1VUMwSFlXdk55V01JS0tIYzlsZU9UWlV3S3ZmLU41RnZ2alpPQWdnNTNROWs0",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-27T05:52:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T05:52:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUt0SjBNeWdodXB4emFzUk1JZmtZVENPQzYtdHdmc1o4amJtODNiaFhXeVp3NExQOXpDTFNfWFVOT19jWHVCWC1Lajh5V05ha19RWndsNm9mRE1xOXZnOFN2cVZicUZnVF90XzdaRW94T1pCeGV1VUMwSFlXdk55V01JS0tIYzlsZU9UWlV3S3ZmLU41RnZ2alpPQWdnNTNROWs0"
-    },
-    {
-     "name": "NVIDIA Newsroom",
-     "published_at": "2026-10-27T05:59:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzg1REp1LUMyZ2Njb0RyaWx2cHJSVU8taDFsUHBtcjlhUDlsT25MYmY4NGxrRElZbUNrNFJGRDBiSjlGOFdHbXhseXNJYTk4eFpvMXhGUTh1QXVDQmdFem43dWZId01nNzRndVRGU0c1ckJaam03ZG0yckJMNjYySUdDTGhvSFJSMmRoaDliRjFXcTNIVmduQ2JoVndfREtsYXlBUldNeE1PQmRSLVRqejhNWFYzUWVpMXBnRkFlNU9nZ1ljLVE"
-    },
-    {
-     "name": "Carroll County Mirror-Democrat",
-     "published_at": "2026-10-27T05:52:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDJGbmR2QmR3bHIwaVNZaDhudWtRZnBwc2h4S09yOUVjSlhIU0hHVmVXSEYwazBualRyNHhLREpZS3NVSHU3cHBSQ2FwNHJmcVZ5SXhsT2oxV1BsRUNYNDRSREdaTFBQNlgtS3lWRzFfQ0trQTlVTWE5MGVRM1JRczRoUk5fX3loLXEya0o1NFBQQjRKR19qQ1NaRTNCb2hUbFJZU2NTV0gxN0hmN1RLQmRBZ3Z1MnM"
-    },
-    {
-     "name": "WBOC TV",
-     "published_at": "2026-10-27T05:52:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVXdHVy1HZy1LTGhHeFNwMmRnUEp3ekp5SW9uU0VqVC0zLW1icTBhTVlKRW5tVHFjYm11QUNXbVoyU1d4cXhqOEU0bDdhd0JvbTNjVHZfYnRfQ05KTWhBZG9ON0t3RktaaWY0SHZLWmdYRXN1dXFuRmd4YzRUUzBETzhxTkh6R0xxVi1GcmVPdWVjTVJFNEk3R3ZjS01qU1ZMSXFxb19rUF9VN0kyOVR6ODNwS2JhYVlYTDNIOWQxamR0SmdiMGVKdTluM3FrZlJudWtmYzFJYWFGMDV3R0syY2V5cl9mUzdPRTljeFZTQWttb1NxUVZRUjVjY2Z0dkplLW1wU2t0Um82RzJxRUY4eHRjaDIzZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "英伟达与Meta扩大Muse模型合作",
-   "title_zh": "英伟达与Meta扩大Muse及Muse系列模型合作",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.29,
-    "window_h": 0.1
-   }
   }
  ]
 }
