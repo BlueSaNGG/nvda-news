@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T12:36:29.486663+00:00",
+ "updated_at": "2026-10-28T12:51:33.550605+00:00",
  "market": {
   "price": 217.94,
   "change_pct": 0.9,
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.04,
-   "count": 45
+   "avg": 0.08,
+   "count": 49
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.04（45条已评分）"
+     "note": "今日新闻情绪 +0.08（49条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 44.5,
    "ma20": 224.44,
-   "as_of": "2026-10-28T12:36:29.470531+00:00"
+   "as_of": "2026-10-28T12:51:33.535541+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "fbd4cde9f3a5",
+   "title": "Nvidia, AMD, and Micron stocks lead chip sector higher for third day in a row - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1VRUzZlRzhNam5fWHJSdzRDNk9iM3dYN29jUGlidG5vRnV0aG4wVERiVDlPRmVOYmRBR0NZTmwyREdyT1Jtb2h6cURZUUZRbGhVMkFCSmZ1dnp0WVBYWHR6UlNTaXY4Y0NMNk13YU5QMGR3MG8yUG1CalVpYUhWVGtibnVQRXFjZWxwb0NhNzhQSVBtYjhsSWRaNmpQSV9LRGVONUd0UWRUUVBIdWd3VHREdHpaeFFEZXhtVWlURXVKN0hlS085TWJ4cjk",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-28T12:40:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T12:40:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1VRUzZlRzhNam5fWHJSdzRDNk9iM3dYN29jUGlidG5vRnV0aG4wVERiVDlPRmVOYmRBR0NZTmwyREdyT1Jtb2h6cURZUUZRbGhVMkFCSmZ1dnp0WVBYWHR6UlNTaXY4Y0NMNk13YU5QMGR3MG8yUG1CalVpYUhWVGtibnVQRXFjZWxwb0NhNzhQSVBtYjhsSWRaNmpQSV9LRGVONUd0UWRUUVBIdWd3VHREdHpaeFFEZXhtVWlURXVKN0hlS085TWJ4cjk"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "ddb7a2078cb7",
+   "title": "OpenAI的TPU采购威胁到英伟达的AI垄断地位 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ21kaGZPSTJGSE1odEwtcTRXaDlLbGp6WDVOYzZQcXY0YUVJTmdBemNVNFI1bUZ4d2xJcl9wWjJzMmVEYzBETF95TndidnpoUGRkTms0OHFXUTFVeDdyYmpNQzRjbjQxMFNmdkFpeHcyQ1d5cTh4Zk5HbmFYT1dMbVRpcVhlZFZfMkkybUtuS0xvdlZEQm5EZktnX1k2YjUtVWFlMHVKQ05DcDkx",
+   "source": "Moomoo",
+   "published_at": "2026-10-28T12:38:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-28T12:38:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ21kaGZPSTJGSE1odEwtcTRXaDlLbGp6WDVOYzZQcXY0YUVJTmdBemNVNFI1bUZ4d2xJcl9wWjJzMmVEYzBETF95TndidnpoUGRkTms0OHFXUTFVeDdyYmpNQzRjbjQxMFNmdkFpeHcyQ1d5cTh4Zk5HbmFYT1dMbVRpcVhlZFZfMkkybUtuS0xvdlZEQm5EZktnX1k2YjUtVWFlMHVKQ05DcDkx"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
   {
    "id": "506eef331213",
    "title": "Prediction: $10,000 Invested in Nvidia Will Be Worth This Much by Late 2029 -- If the AI Spending Boom Continues - Yahoo Finance",
@@ -85,6 +119,23 @@
    "zh_summary": "预测：1万美元投英伟达2029年收益",
    "title_zh": "预测：若AI支出热潮持续，1万美元投英伟达2029年价值几何",
    "sentiment": 1
+  },
+  {
+   "id": "549201071460",
+   "title": "Here are Wednesday's biggest analyst calls: SpaceX, Nvidia, Apple, AMD, Meta, Amazon, Tesla, Boeing & more - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEdaSS0tYlp0MXdodkRZd3ZHWFhSbTBYUHhuclRjeGV2eU5hbW9MejJmejlVNEhvUTdwTXpYVTU1UENHYXdzQzNfSDYtX3B2V2xkbkhnbXFWcjN4LVEyeDg0UXFWR0lOMGNsRlk4eldqSmVFbzdKUmVrNFBlMDR0SjRfYkhYbW1xbGhYbU9tUm5mZTE0bzRnWUNRV0dSMS04VnhBMlJPOWpUQQ",
+   "source": "CNBC",
+   "published_at": "2026-10-28T12:22:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-28T12:22:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEdaSS0tYlp0MXdodkRZd3ZHWFhSbTBYUHhuclRjeGV2eU5hbW9MejJmejlVNEhvUTdwTXpYVTU1UENHYXdzQzNfSDYtX3B2V2xkbkhnbXFWcjN4LVEyeDg0UXFWR0lOMGNsRlk4eldqSmVFbzdKUmVrNFBlMDR0SjRfYkhYbW1xbGhYbU9tUm5mZTE0bzRnWUNRV0dSMS04VnhBMlJPOWpUQQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "3997f830316a",
@@ -410,6 +461,23 @@
    "zh_summary": "英伟达扩大AI供应链产能，三星电机加入",
    "title_zh": "英伟达扩大AI供应链产能：三星电机等加入基板供应_CNMO",
    "sentiment": 1
+  },
+  {
+   "id": "99a8efdce79e",
+   "title": "Why Nvidia Needs CoreWeave - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3SFFrQkZQazVtd2tRMURid2JEVVNGTHltNEFjZThqcHFCWHZtczZ1eG9nbVRsMVJhaE9haWlxSXJQUmFndXpXb3gySWMyeWpxcHZ6RHM5X0RBQWhhaFdpUkFHbWxhSmtabzNsc2tHeGY",
+   "source": "WSJ",
+   "published_at": "2026-10-28T10:41:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-28T10:41:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3SFFrQkZQazVtd2tRMURid2JEVVNGTHltNEFjZThqcHFCWHZtczZ1eG9nbVRsMVJhaE9haWlxSXJQUmFndXpXb3gySWMyeWpxcHZ6RHM5X0RBQWhhaFdpUkFHbWxhSmtabzNsc2tHeGY"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "b3ab98f46b32",
@@ -1527,6 +1595,23 @@
    "sentiment": 1
   },
   {
+   "id": "69b89909798c",
+   "title": "$英伟达 (NVDA.US)$ 继续加油 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMXJKTmRzbGdFSkdOMWRsS2ZaSnJBdzktY3haaFVZcVV5RE9OY2lacHdHakU4ZHpZOHRaZkttU2F5cUhlVlhYbERtb3k1Z0ZiNzItQ1pKd0l2OGJnVDlHQWJQUFdhQ014S214Rzg3NWxpd3hjRUNyQlJZM1dYVEQ4RVRsU1I4aHdVYUdYdA",
+   "source": "Moomoo",
+   "published_at": "2026-10-28T01:56:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-28T01:56:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMXJKTmRzbGdFSkdOMWRsS2ZaSnJBdzktY3haaFVZcVV5RE9OY2lacHdHakU4ZHpZOHRaZkttU2F5cUhlVlhYbERtb3k1Z0ZiNzItQ1pKd0l2OGJnVDlHQWJQUFdhQ014S214Rzg3NWxpd3hjRUNyQlJZM1dYVEQ4RVRsU1I4aHdVYUdYdA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "5ad33d21a8a5",
    "title": "NAVER携手英伟达、Brookfield组建“人工智能工厂”三方联盟，打出关键一招（综合） - 아시아경제",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGZ1pSdUtYWXRBcTg3SHJQai1kWW85bDdhN01VdmtsMlZNNklFTGp6ZGZER3NUeXA5bm9ncEJvVHhqcFhBelUzVl8yYy1JTEpwZnNLd3ZoY2lJS2dFMURQc0J6S2g",
@@ -2303,7 +2388,7 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FeFoxci1FUGdSdVBVWjFjMEV1TmFRMlJtMG1TdlE2Rk55Uk1wYXoxWE5RZHBUOUZVNFBmT3p5QzltWmRUdVoyMVZ0bV9EYXhLN1NvNFItRlZ2ZmNhMzFjUkk4Y0NYaVVybElaamdya0RoZw",
    "source": "BeInCrypto",
    "published_at": "2026-10-27T22:00:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "BeInCrypto",
@@ -2314,6 +2399,11 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-28T00:39:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDl0eEthZUx1X1lzenVjNXV5Z243Y2l1ZF9CRWpaODBVbEx4MExmNVZ3UGRBQVRJTGt6SEhOS2NTWVM3eTBFTGpmUHAwbk9JWnlzS2NhbkxGc20yb3l3RnlncDA1SlhmZDNFNVJoY0hDMzlpTnE1Ml8ybVM1SkVNMzRUWDBsR2RSSEx4amNKd3pSTFdkVHdNUHJzUQ"
+    },
+    {
+     "name": "Mitrade",
+     "published_at": "2026-10-28T04:33:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdEhJdHhFVDMzY0dCbHJzQ05mMmxya2pRWXF4Y3ByelM0Y3Fpc2I5aTBpMkVVS2ZqOUozQ1VlT041M1R0Ti1kbV9GTU03N3pvMnQ3S1pVcjBKVm96Y3B1RDNKZ2dwV01uTU9hM3BsN0NQRzFuUTlyLUNqTW51cFpySWRPU3ZnUi1GS2gyRWhITWQ0TGM"
     }
    ],
    "category": "其他",
@@ -6500,111 +6590,6 @@
    "session": "盘前",
    "zh_summary": "黄仁勋称存储需求2029年前无减弱迹象",
    "title_zh": "黄仁勋称存储需求到2029年仍无减弱迹象",
-   "sentiment": 1
-  },
-  {
-   "id": "54a32faa704a",
-   "title": "Anthropic IPO Discloses 11 GW Compute Footprint: Nvidia Accounts for 42%, Which Chip Companies Benefit? - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUmlGbFE4YXJoV0Q5cUhZVWxjM2ZwTkRuOWZwU2hBZjdReHYwZUVCRVIyenh2bFdBYVJaeGptdVd1MmNMb1hKLW1LRHhzV0hKNXdfVlNzOVg5VExqY1dzLVRtMVJXUmZuX01LZlZYTy1QS2todmJFejdFeXV0U19oVUxMa1l4M0NacUVwcjNIQkhPNmN5VWlqMjlZbV9ZcTUwc2pXajBGb0JsZ0p1dVhSZjZ2enpybFNNd0k0RGZBVldWd1BUVHMxd2RjcDlCUGstQnc4",
-   "source": "TradingKey",
-   "published_at": "2026-10-27T07:31:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-27T07:31:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUmlGbFE4YXJoV0Q5cUhZVWxjM2ZwTkRuOWZwU2hBZjdReHYwZUVCRVIyenh2bFdBYVJaeGptdVd1MmNMb1hKLW1LRHhzV0hKNXdfVlNzOVg5VExqY1dzLVRtMVJXUmZuX01LZlZYTy1QS2todmJFejdFeXV0U19oVUxMa1l4M0NacUVwcjNIQkhPNmN5VWlqMjlZbV9ZcTUwc2pXajBGb0JsZ0p1dVhSZjZ2enpybFNNd0k0RGZBVldWd1BUVHMxd2RjcDlCUGstQnc4"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达占Anthropic算力42%",
-   "title_zh": "Anthropic披露11GW算力，英伟达占42%",
-   "sentiment": 1
-  },
-  {
-   "id": "3ebef7db2f09",
-   "title": "马斯克明年将采购2万套英伟达AI机架 仍为最大买家 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblJ5bnlBS2poT2FjTVp1aFIyU2dzMHFpMEsxZDN0UVpLWkZCdmw2Y21yTGZtVTdfbzRwZWdhZmpXenBLOHk0ZmZLRkYzemh0NWtmaGVvMkh1LVkwdHZGeVU3OG9kdVRwX2lNTjBfYUc3eVhwWDc3R3BBM1A3cDg4cENES0JMUi1B",
-   "source": "搜狐网",
-   "published_at": "2026-10-27T07:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-27T07:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblJ5bnlBS2poT2FjTVp1aFIyU2dzMHFpMEsxZDN0UVpLWkZCdmw2Y21yTGZtVTdfbzRwZWdhZmpXenBLOHk0ZmZLRkYzemh0NWtmaGVvMkh1LVkwdHZGeVU3OG9kdVRwX2lNTjBfYUc3eVhwWDc3R3BBM1A3cDg4cENES0JMUi1B"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "马斯克明年采购2万套英伟达AI机架",
-   "title_zh": "马斯克明年将采购2万套英伟达AI机架 仍为最大买家",
-   "sentiment": 1
-  },
-  {
-   "id": "acbebef02459",
-   "title": "40,841 NVIDIA Corporation $NVDA Shares Sold by Argent Capital Management LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZEc0VE9leV94Q2pfV0d2Zm5FTzI0cXVoTnQwbEwzeW1VR1RDb1p5UWxIMXJZaUE1NHhrRGY1Z0J6bGdwLWVxRDM5WGlCOGUwdGFlYnZYbHV0MG1lTWR3UHdxZ3h3OGlscE1EM2VOdENpYUNSOTh0LVRkcXVOSzRuUEFvMnNWSEd3Qi1aVU1UNlBrcVJPOUpyTU9xREVsb01SMDRmQUdsWk5FbWNMZXBzWkZtZzBSaTRIZ3dOeXNwalFUNGw4Szg2Nlc4dTdwNmdF",
-   "source": "MarketBeat",
-   "published_at": "2026-10-27T07:29:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-27T07:29:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZEc0VE9leV94Q2pfV0d2Zm5FTzI0cXVoTnQwbEwzeW1VR1RDb1p5UWxIMXJZaUE1NHhrRGY1Z0J6bGdwLWVxRDM5WGlCOGUwdGFlYnZYbHV0MG1lTWR3UHdxZ3h3OGlscE1EM2VOdENpYUNSOTh0LVRkcXVOSzRuUEFvMnNWSEd3Qi1aVU1UNlBrcVJPOUpyTU9xREVsb01SMDRmQUdsWk5FbWNMZXBzWkZtZzBSaTRIZ3dOeXNwalFUNGw4Szg2Nlc4dTdwNmdF"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Argent卖出40841股英伟达股票",
-   "title_zh": "Argent卖出40841股英伟达$NVDA股票",
-   "sentiment": -1
-  },
-  {
-   "id": "1526e395da55",
-   "title": "投资30亿美元：英伟达与Meta扩大Muse智能助手合作 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMk5WN1VfRGx6R2NkNzVYbEg0OVNsLVZ6LVZ3azljTnJfMUlvaGZhQ2V3SjhzMzNrWFJ6VVR5Q09XOXhEVUh5OExLSmdhTU5lb1A1QlItUEduX09WYmhSdUxFQlh4ZHh2OC1vS3RXTENWb2g4X0ZTMzdIbVBZVTVISEtrYVdCY29V",
-   "source": "搜狐网",
-   "published_at": "2026-10-27T07:23:45+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-27T07:23:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMk5WN1VfRGx6R2NkNzVYbEg0OVNsLVZ6LVZ3azljTnJfMUlvaGZhQ2V3SjhzMzNrWFJ6VVR5Q09XOXhEVUh5OExLSmdhTU5lb1A1QlItUEduX09WYmhSdUxFQlh4ZHh2OC1vS3RXTENWb2g4X0ZTMzdIbVBZVTVISEtrYVdCY29V"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-27T07:23:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84NVBlWUo1T2FzSVpZZEtVV0dwbjBONThPRU94YTFLMERqUk1ENU43QmdwV0FvRC1YVVMyTGx4X293Sjk4T1VnYmJhc2g"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达与Meta扩大Muse助手合作",
-   "title_zh": "投资30亿美元：英伟达与Meta扩大Muse智能助手合作",
-   "sentiment": 1
-  },
-  {
-   "id": "7266d361e726",
-   "title": "Nvidia Meta Muse Partnership: $3B Investment [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsWUF1Y2dYQXRaVEc3eGw4cC1IaFhxY2tURDUxZG5vRTlxaEpZVi1YRFNoZVNWLTJpMTlITUZuN1pmNmE2eGMybWp0S2FmcVNybFp6Sm1rWi1oRUhfTnNTRUs0cmZ6aWUxV20zN0tySmFfUHZSVE5LdVNYS2podEk",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-27T07:22:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-27T07:22:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsWUF1Y2dYQXRaVEc3eGw4cC1IaFhxY2tURDUxZG5vRTlxaEpZVi1YRFNoZVNWLTJpMTlITUZuN1pmNmE2eGMybWp0S2FmcVNybFp6Sm1rWi1oRUhfTnNTRUs0cmZ6aWUxV20zN0tySmFfUHZSVE5LdVNYS2podEk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达与Meta达成30亿美元Muse合作",
-   "title_zh": "英伟达与Meta达成30亿美元Muse合作",
    "sentiment": 1
   }
  ]
