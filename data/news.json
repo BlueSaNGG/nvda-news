@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T16:36:31.408728+00:00",
+ "updated_at": "2026-10-28T16:51:32.918390+00:00",
  "market": {
-  "price": 217.14,
-  "change_pct": -0.37,
+  "price": 217.23,
+  "change_pct": -0.33,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 105
+   "avg": 0.22,
+   "count": 108
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +45.1%"
+     "note": "目标价中位数 $315（17家），隐含空间 +45.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（105条已评分）"
+     "note": "今日新闻情绪 +0.22（108条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.14 vs 20日均线 $223.87"
+     "note": "现价 $217.23 vs 20日均线 $223.88"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 45.1,
-   "ma20": 223.87,
-   "as_of": "2026-10-28T16:36:31.397914+00:00"
+   "implied_upside_pct": 45.0,
+   "ma20": 223.88,
+   "as_of": "2026-10-28T16:51:32.908339+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,26 @@
   }
  },
  "stories": [
+  {
+   "id": "ba3bce54fc16",
+   "title": "Nvidia Launches RTX Spark Windows Laptops Featuring Advanced AI; NVDA Shares Slip Slightly - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWV81QWtjcjVVUnJPWDJFMS0tWGRqWjNOZ3BoNWMwYlZzcG12YzJWZ0NZd2txUHk1V2VESjFPM3RUZ1hOazN4N3BLSEx4SGZzSkJja3RDT0dINDlqcHJHWl9WdjF4Vi1UVWdxeU8xSEJkb1F6ck1TdXN6b2lMWVE2RnRSOV9xcS1iYmx0RmcyNXEyTk5FWVE5VGNUbUdxS0dmamExcy15ZnF1MzdTcVZlNGpQSDI2Ti1jY2huVEQ0ZVdBSVRTZ3FF",
+   "source": "GuruFocus",
+   "published_at": "2026-10-28T16:41:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-28T16:41:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWV81QWtjcjVVUnJPWDJFMS0tWGRqWjNOZ3BoNWMwYlZzcG12YzJWZ0NZd2txUHk1V2VESjFPM3RUZ1hOazN4N3BLSEx4SGZzSkJja3RDT0dINDlqcHJHWl9WdjF4Vi1UVWdxeU8xSEJkb1F6ck1TdXN6b2lMWVE2RnRSOV9xcS1iYmx0RmcyNXEyTk5FWVE5VGNUbUdxS0dmamExcy15ZnF1MzdTcVZlNGpQSDI2Ti1jY2huVEQ0ZVdBSVRTZ3FF"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "英伟达推出搭载先进AI的RTX Spark笔记本",
+   "title_zh": "英伟达推出RTX Spark Windows AI笔记本，股价微跌",
+   "sentiment": 0
+  },
   {
    "id": "e0dd9a445d1f",
    "title": "Google's AI chip business is getting harder for Nvidia to ignore - Business Insider",
@@ -1401,6 +1421,26 @@
    "zh_summary": "罗素1000成长ETF卖出英伟达居首",
    "title_zh": "罗素1000成长ETF卖出英伟达居首",
    "sentiment": -1
+  },
+  {
+   "id": "d1da61363e38",
+   "title": "Invesco NASDAQ 100 ETF (QQQM) Adds NVIDIA and Apple on Oct. 26 - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUW91NHZsVG0xVm9oTmUyM3pCWjN4eEcyX0J3dENJMmdXNHBQS0R6UlZ2OThyb3ZxYU81MWhsYTNyTlpkUVBQQ21EcnQ3TndWY0tPYkhqMjRoMGNlRFVwMmdzYktkSThwRGpacUM3UTY2c3JVTHgwbWhCTUxHQlZhYmUxUGtzTHNFR2c0Tk81dDh0WElhc1hF",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-28T11:04:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T11:04:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUW91NHZsVG0xVm9oTmUyM3pCWjN4eEcyX0J3dENJMmdXNHBQS0R6UlZ2OThyb3ZxYU81MWhsYTNyTlpkUVBQQ21EcnQ3TndWY0tPYkhqMjRoMGNlRFVwMmdzYktkSThwRGpacUM3UTY2c3JVTHgwbWhCTUxHQlZhYmUxUGtzTHNFR2c0Tk81dDh0WElhc1hF"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前",
+   "zh_summary": "纳斯达克100 ETF新增英伟达与苹果",
+   "title_zh": "Invesco纳斯达克100 ETF于10月26日新增英伟达和苹果",
+   "sentiment": 1
   },
   {
    "id": "5e25aa650ca4",
@@ -6575,46 +6615,6 @@
    "session": "盘前",
    "zh_summary": "英伟达削减Vera Rubin内存带宽最高26%",
    "title_zh": "英伟达削减Vera Rubin内存带宽最高26%，AMD Helios反超",
-   "sentiment": -1
-  },
-  {
-   "id": "f4c84aa0e2a3",
-   "title": "也算是好起来了 $英伟达 (NVDA.US)$ $特斯拉 (TSLA.US)$ $美国超微公司 (AMD.US)$ - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVFJSkZKT0RLNl9zMU1rR1NaXy1OTEd0V2xLdm9vYmJNVnlaYThLeXZBWlc4QXRXcmxiYWl6OVluLVktUGp1N2VKSjRQNHc3XzZsSUJtNlA0SGdLOEdJTV9sTElNb1lTXzZmMGhQMHFDbEhrREE1eUtPVzVyR0FyeU1tQkdjczBYbnBHVTE5SVgyYXItM25uLWh6UWZRSEtMUzBtdURVSk0wdms",
-   "source": "Moomoo",
-   "published_at": "2026-10-27T11:09:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-27T11:09:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVFJSkZKT0RLNl9zMU1rR1NaXy1OTEd0V2xLdm9vYmJNVnlaYThLeXZBWlc4QXRXcmxiYWl6OVluLVktUGp1N2VKSjRQNHc3XzZsSUJtNlA0SGdLOEdJTV9sTElNb1lTXzZmMGhQMHFDbEhrREE1eUtPVzVyR0FyeU1tQkdjczBYbnBHVTE5SVgyYXItM25uLWh6UWZRSEtMUzBtdURVSk0wdms"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达等股价有所好转",
-   "title_zh": "英伟达、特斯拉、超微股价也算是好起来了",
-   "sentiment": 1
-  },
-  {
-   "id": "2dc5baaa6261",
-   "title": "State Street Technology SPDR (XLK) Sells NVIDIA and Apple on Oct. 23 - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOThXTGhtV2tUZGQwb1NJTTBqZGlvQTVlMnRiTHoyTWhyZF80S2xWUzRVWkI5eTgtSWwwbkY4dzh6RGVId05LWWJwOEVVUHlhM2VVcE9rSUVOWm1Hckd4c3laQzBqcjdfM2lBNWFNN1RrczB6cklRUVVFSEExSXBzXzdDc1c0cXFmUWxxX1lUeTFmTDZjX1FBcF91NTFjZw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-27T11:05:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T11:05:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOThXTGhtV2tUZGQwb1NJTTBqZGlvQTVlMnRiTHoyTWhyZF80S2xWUzRVWkI5eTgtSWwwbkY4dzh6RGVId05LWWJwOEVVUHlhM2VVcE9rSUVOWm1Hckd4c3laQzBqcjdfM2lBNWFNN1RrczB6cklRUVVFSEExSXBzXzdDc1c0cXFmUWxxX1lUeTFmTDZjX1FBcF91NTFjZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "道富科技ETF于10月23日卖出英伟达",
-   "title_zh": "道富科技ETF于10月23日卖出英伟达与苹果",
    "sentiment": -1
   }
  ]
