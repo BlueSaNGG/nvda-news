@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T13:51:41.463371+00:00",
+ "updated_at": "2026-10-28T14:06:31.148346+00:00",
  "market": {
-  "price": 217.68,
-  "change_pct": -0.12,
+  "price": 218.15,
+  "change_pct": 0.1,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.12,
-   "count": 66
+   "avg": 0.1,
+   "count": 69
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 71% 分位"
+     "note": "现价处于52周区间 72% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +44.7%"
+     "note": "目标价中位数 $315（17家），隐含空间 +44.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.12（66条已评分）"
+     "note": "今日新闻情绪 +0.10（69条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.68 vs 20日均线 $223.90"
+     "note": "现价 $218.15 vs 20日均线 $223.92"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 71,
+   "price_52w_pct": 72,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 44.7,
-   "ma20": 223.9,
-   "as_of": "2026-10-28T13:51:41.454354+00:00"
+   "implied_upside_pct": 44.4,
+   "ma20": 223.92,
+   "as_of": "2026-10-28T14:06:31.139757+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "c7a13dc749a6",
+   "title": "Investing in AI beyond Nvidia, Microsoft, and Google earnings today - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOU5mblBrVk1kRmVMQ3ZvaGZjMmZWWTVuRWVGQlpIem5MN1BKSk1DcGFKdE1xZ3Izcndia0xHVFFxZjVuRTFOV3JrV0loMDNuQWtsQm92ZjZ2a2dsZmdraEFhRk0zZGE4TWl2eG1hQnVFc1BBUVFzOGxjNlJkaVlBT1FxSUpIUWM4SGNHcWZkb3BWdmszNHR1Z016VUpXZjhDd0hSR25vRTlOLWdvVmdoTGxR",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-28T13:43:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T13:43:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOU5mblBrVk1kRmVMQ3ZvaGZjMmZWWTVuRWVGQlpIem5MN1BKSk1DcGFKdE1xZ3Izcndia0xHVFFxZjVuRTFOV3JrV0loMDNuQWtsQm92ZjZ2a2dsZmdraEFhRk0zZGE4TWl2eG1hQnVFc1BBUVFzOGxjNlJkaVlBT1FxSUpIUWM4SGNHcWZkb3BWdmszNHR1Z016VUpXZjhDd0hSR25vRTlOLWdvVmdoTGxR"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
   {
    "id": "b69c35a2323a",
    "title": "Nvidia Stock May Actually Raise Its 70% Growth Guide In November (NASDAQ:NVDA) - Seeking Alpha",
@@ -257,7 +274,7 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWFRFdGpjVHdfd0lOLTFhb0ExQlNTVGRoTk5tWHVRV0VtUi1OYXlPaTJ2Y1ZtZ2lLTjgySG9JV1B4VzdRNlo0WXk0STZnU0F6U2cxQVpnTmFOZF9JX0o3cjdwa0hLNGQ2dlUtZmhlOG9zVTBucTJBOUFoV2xpWGQ0Z1ZJUFo4WFcwVUQ3T0dXNA",
    "source": "21财经",
    "published_at": "2026-10-28T12:49:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "21财经",
@@ -268,13 +285,22 @@
      "name": "新浪财经",
      "published_at": "2026-10-28T12:49:59+00:00",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTVhVLWh4V0I4TzJpN1Eyc0tXNXJWWDR1ZHZUQjBtaktFUzcyc1NQQ09XeFVSc3ZWZHQtMHljZHBLQmZWWnZEU2p1TTM4dDMxWUV1cVQ5WmZUVllodnJ4OTJtR1RWMVF3S2ZmWG5ISUZHMEpaQVNtNXpOQVZpZDU2QWtWQkFpYl9DUVZmZ1Bn"
+    },
+    {
+     "name": "finance.sina.com.cn",
+     "published_at": "2026-10-28T12:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3RmtObjVrZWpuQjF0a0tZSFZJUVlOU3JieGxBNFRwNmxRTm5qQmY3YUYwakxZMDhVYWkwSzdrV0lkVmtSRFc0UFlDOU4xdERnNzFHRDJZaDQ0SzViRkxWMGM0cC1FOW53LWg2bG9B"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "Meta融资975亿美元，英伟达卷入循环融资争议",
    "title_zh": "Meta融资975亿美元强攻AI，英伟达持续卷入循环融资争议",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.61,
+    "window_h": 0.6
+   }
   },
   {
    "id": "fbd4cde9f3a5",
@@ -1157,26 +1183,6 @@
    "sentiment": -1
   },
   {
-   "id": "a71dc40311e0",
-   "title": "3,059 NVIDIA Corporation $NVDA Shares Sold by Private Capital Advisors Inc. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnE2R3k3dmdMU2NTNVpTVnlzQzIyZTJ6UWNWa1VPblZDS2JnLTFmR2t3TW9BUW8xYW9fMGJMeWtDWHdBUWFOYlpFSkplc0Z2aWpPUTNTaGJnUTNhTGxGQWdReDVUbUR6SllDOVFQRG1CSDBRcWp0VFFoVU5rdjcyeTFLQWJEYU9Wak5yQW5WRDlBQnlRTlFGdXplRlRRUWJEMzA5UE9jNlNyLVlJak5jRkRsdlhhS29Mb0V1OTFRT3pMN1MyeUxCUTYtdzJkZw",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T08:41:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T08:41:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnE2R3k3dmdMU2NTNVpTVnlzQzIyZTJ6UWNWa1VPblZDS2JnLTFmR2t3TW9BUW8xYW9fMGJMeWtDWHdBUWFOYlpFSkplc0Z2aWpPUTNTaGJnUTNhTGxGQWdReDVUbUR6SllDOVFQRG1CSDBRcWp0VFFoVU5rdjcyeTFLQWJEYU9Wak5yQW5WRDlBQnlRTlFGdXplRlRRUWJEMzA5UE9jNlNyLVlJak5jRkRsdlhhS29Mb0V1OTFRT3pMN1MyeUxCUTYtdzJkZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Private Capital减持3059股英伟达",
-   "title_zh": "Private Capital Advisors售出3059股英伟达股票",
-   "sentiment": 0
-  },
-  {
    "id": "2539fd4422c8",
    "title": "NVIDIA and Oracle expand OCI Superclusters with Vera Rubin NVL72 systems - Data Centre Solutions",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVk1YzdLM1lSQXd3R3RwSU5Fc1ZiVThuLTJZV041QnhSTjFIaV9FYkd5Sl91MC1oanMzcDJmbm4zUHdENlpQMDlIcUZwV2xXWjJBOHF1UWl1TlVaQ3VJMWphZUNEYTVyclFDU1RIcEhXVzYyUzdIdkJzRmtJTmhsNW1qc2ZhalBvQlpkVHVkV0FUMDZxLUxfVVU2ekd2bWdwU1ctdGU2Z2F3dTdIakRnc21n",
@@ -1269,6 +1275,23 @@
    "zh_summary": "Congress资管出售英伟达股票",
    "title_zh": "Congress Asset Management出售英伟达股票",
    "sentiment": 0
+  },
+  {
+   "id": "ab39ae7b672e",
+   "title": "What Renting an NVIDIA H100 Costs per Hour in 2026, and When Renting Beats Buying - https://tech-insider.org/",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0lHMWVPYkdRdTNJYlBxLTlPNGhnazF4ckdWTUNmY1NEelBFMkZjU054RHBZQ09OSldBdF9kQWFfSUFYSGVlODVDNEtJOFFOTW95Z2RjYkdySXRVX21RTUNYR29PTFZlUC1vcWdScGJFWS1NQW9YeE9Ycjl2YmZBdGVYZXZLbjNqNS1aZE1BeWlMVkFORXJISVJCN1BReTVpZElFZi00eVMyUQ",
+   "source": "https://tech-insider.org/",
+   "published_at": "2026-10-28T07:50:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "https://tech-insider.org/",
+     "published_at": "2026-10-28T07:50:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0lHMWVPYkdRdTNJYlBxLTlPNGhnazF4ckdWTUNmY1NEelBFMkZjU054RHBZQ09OSldBdF9kQWFfSUFYSGVlODVDNEtJOFFOTW95Z2RjYkdySXRVX21RTUNYR29PTFZlUC1vcWdScGJFWS1NQW9YeE9Ycjl2YmZBdGVYZXZLbjNqNS1aZE1BeWlMVkFORXJISVJCN1BReTVpZElFZi00eVMyUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "c2f6a09d3df8",
@@ -6569,45 +6592,6 @@
    "zh_summary": "英伟达在JUPITER模拟104量子比特处理器",
    "title_zh": "英伟达在JUPITER上模拟104量子比特处理器",
    "sentiment": 1
-  },
-  {
-   "id": "85ca57e1e449",
-   "title": "NVIDIA Plans $3 Billion Investment in Meta AI Partnership - grafa.com",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSzZtNXBpbTlaNVJlbTl2TXRKZGtDSEFJY1c2UUYtRTR4YlpwOFZ6UWw0LUR0S1ltMWk5d1ZlR0Z2ZkNFZjFsV1dQYW9WQ2RDTE5nRjNlTlNSZ3VSX2RSRV9nYkV5Q0NzMFZVS0tGV3JkTjhtaWxKeFVvdnptc3QxQ3RTX2FYbDY3dzdnUUtTdng",
-   "source": "grafa.com",
-   "published_at": "2026-10-27T08:35:47+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "grafa.com",
-     "published_at": "2026-10-27T08:35:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSzZtNXBpbTlaNVJlbTl2TXRKZGtDSEFJY1c2UUYtRTR4YlpwOFZ6UWw0LUR0S1ltMWk5d1ZlR0Z2ZkNFZjFsV1dQYW9WQ2RDTE5nRjNlTlNSZ3VSX2RSRV9nYkV5Q0NzMFZVS0tGV3JkTjhtaWxKeFVvdnptc3QxQ3RTX2FYbDY3dzdnUUtTdng"
-    },
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-27T12:16:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUkd1bk90c2lqa2RWa3phOU9INVU3ZzZ1TjhhLUVZaUVCampQeC12RDRieFBzVjFxazJ1N3FmckdXMi1HQlF3SFV2clZObk9rendNLWZBbVJBWm40RkJPaVlydllvQTBMR2E1cVZuVDlsb1phVXhmbWlNaGpKaWN4OWxsUTNlN1NPZkJMdVAxNU5VQkhVRzJ4bVFWaGZvN3FhTkxPMG13"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T12:22:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM2ZvRy1xRnBQNU1mV2hjWlRHY3B5bzdjZlR1UEVpUTZIN2Z3WjEtNUFxbHYyNlpmVDZ0b19WbzRuNkxCQmRsUEVGcVR0LTdIRGREYVVqTHNhcFZLdzRyZzd6VzFXUUhNY2htNy03VnQ4Ni1mc0U5Mlg1aFp6aElpNDlEeUduUUV3dWEyNlk3Z0dab0JuRkE"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-27T12:22:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDhRbE1qMGFsbjJObm9uMXNoRFBNVFFreS1DbkRvRDJ4Z2NCcUZOOFgxY0hHWlNPWXc4VkNPNW5JVWl1ejFmYXVGdkFvVTBMWUE3eFROLVVfVjNHUS1PcFdndjBTMlVnOHpDR2NHeEgzYjlQQURiY2UyNnVGQm5zLTJNaGtueThjWDVpS1c3d0QyOUVqaF9DRkdvVHUtZEpQRHJGTENTUUxkVmNfSlFRR2FoSmQtMHRhcDMySTRNNVpGQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达计划向Meta投资30亿美元",
-   "title_zh": "英伟达计划向Meta AI合作投资30亿美元",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.29,
-    "window_h": 0.1
-   }
   }
  ]
 }
