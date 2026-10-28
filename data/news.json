@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T03:21:30.611051+00:00",
+ "updated_at": "2026-10-28T03:36:29.611406+00:00",
  "market": {
   "price": 217.94,
   "change_pct": 0.9,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.57,
-   "count": 264
+   "count": 265
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.57（264条已评分）"
+     "note": "今日新闻情绪 +0.57（265条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 44.5,
    "ma20": 224.44,
-   "as_of": "2026-10-28T03:21:30.597765+00:00"
+   "as_of": "2026-10-28T03:36:29.599875+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "62ed439b4be2",
+   "title": "事关算力定价权！英伟达头号梦魇，藏在Anthropic招股书中 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNk9KVTB0c1ZsR3JuNDgzR0N3ZXEzc1NFSUE1SkM4a1ItQ1poOWQ5MGY2UEhmLWNlTjRKRElpUm1IWVVnalFCTkdtZ2xiaERmRzQ5djZuVkNKSmowd0pGLU90V29xaDE0YldvcWVmWThQV1R3ZzJmM212dURZVDdyblJyRXBqbzVxbkMybjIwcEVkVEEzRkhnYjZmb3RKNWt6YkhVQmRFblBRMlhldnJNenpR",
+   "source": "Moomoo",
+   "published_at": "2026-10-28T03:19:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-28T03:19:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNk9KVTB0c1ZsR3JuNDgzR0N3ZXEzc1NFSUE1SkM4a1ItQ1poOWQ5MGY2UEhmLWNlTjRKRElpUm1IWVVnalFCTkdtZ2xiaERmRzQ5djZuVkNKSmowd0pGLU90V29xaDE0YldvcWVmWThQV1R3ZzJmM212dURZVDdyblJyRXBqbzVxbkMybjIwcEVkVEEzRkhnYjZmb3RKNWt6YkhVQmRFblBRMlhldnJNenpR"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
   {
    "id": "e4b98f5c73e5",
    "title": "Comau与英伟达达成合作，加速AI机器人技术研发 - 至顶网",
@@ -100,6 +117,23 @@
    "zh_summary": "甲骨文与英伟达合作升至多吉瓦级",
    "title_zh": "甲骨文AI云2027年上半年部署Cerebras，英伟达合作升至多吉瓦级",
    "sentiment": 1
+  },
+  {
+   "id": "7755320896b8",
+   "title": "AMD vs Nvidia AI Chips: 432 GB vs 288 GB [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN21ZdVE4c0RZa3pxQmZjSEQwSVFEbWQ3WG9Vajl0RGxidm9TLUYwQWtXUENWRm01bGxHYVhweGExa2JGNlhzSUwwdnBrNTc0UHVqU0RLclNRZmlFTHpiOG1NS2VFZnYyalRIcmt6am5RbFdxaUZtaXdFbDJHUUQ4ZE5lT3pPM3ltcTNTUlp0TXMtb2xxRXVj",
+   "source": "shattered.io",
+   "published_at": "2026-10-28T02:45:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-28T02:45:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN21ZdVE4c0RZa3pxQmZjSEQwSVFEbWQ3WG9Vajl0RGxidm9TLUYwQWtXUENWRm01bGxHYVhweGExa2JGNlhzSUwwdnBrNTc0UHVqU0RLclNRZmlFTHpiOG1NS2VFZnYyalRIcmt6am5RbFdxaUZtaXdFbDJHUUQ4ZE5lT3pPM3ltcTNTUlp0TXMtb2xxRXVj"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "9700672146ed",
@@ -378,12 +412,17 @@
   },
   {
    "id": "2e26f7f96e75",
-   "title": "Please Stop Using Nvidia's 'Optimized' Settings - Try This Instead - www.bgr.com",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96S2Y5RVE0Q2xORUpzcFhyc1o5UGpkZ2lEVjlWcDZRZ2dqRWEtLW1tdnhBdHRRUWpSSlFyTS0tSGtHbm9NeWVfbktZUmhEUVdUazJtLXBuM3VuMTlTWkIzX0NVd0lMYm1sWEotWi1TbFBBcWhRVVZvXy1kQlQxVzQ",
-   "source": "www.bgr.com",
-   "published_at": "2026-10-28T01:19:37+00:00",
-   "outlets_count": 2,
+   "title": "Please Stop Using Nvidia's 'Optimized' Settings - Try This Instead - AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdVVLRVZEXzRLWmRwUGZwcFJ4MnhQcEFJU1p2eE1YQUVJLUJxUnducFpuNXpvUzN6TU5QRmp4VjQ4YnYtb0lYeC1UNUdPb1NzNlhiQTM1bEw1Wl82ZzdWWFdhUWhYMmI4UU4wR1R1ckh4YWpQV2FsRTVXUGtpeXh2Z2lPbUV1QQ",
+   "source": "AOL.com",
+   "published_at": "2026-10-28T01:17:00+00:00",
+   "outlets_count": 3,
    "outlets": [
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-28T01:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdVVLRVZEXzRLWmRwUGZwcFJ4MnhQcEFJU1p2eE1YQUVJLUJxUnducFpuNXpvUzN6TU5QRmp4VjQ4YnYtb0lYeC1UNUdPb1NzNlhiQTM1bEw1Wl82ZzdWWFdhUWhYMmI4UU4wR1R1ckh4YWpQV2FsRTVXUGtpeXh2Z2lPbUV1QQ"
+    },
     {
      "name": "www.bgr.com",
      "published_at": "2026-10-28T01:19:37+00:00",
@@ -842,6 +881,23 @@
    "sentiment": 0
   },
   {
+   "id": "744ca7ff2f98",
+   "title": "Zotac Restocks NVIDIA GeForce RTX 5090 Solid OC in Japan Amid Reports of GPU's EOL Status - TechPowerUp",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUXRucm5fWU9XTllTclo1UkRoZDVfbWQ5NWJMRHE1Ylc3dVlUWVVwZWh0QkU1WlVhdnJ3eDEtWFFBSzdxV1BUTGpuVkxnLWtId1Z4T2xaVTF5NnRjWGhrSFRGcDNCVnpnY3QzS05IT3NJdVBBak9mR2NCWWhOU1pHU01TVVI1YjdfVkpvUXQ4UHZBTTE1QnhRZWMwdWpXelVPLVJoTDNJZ0ozZDIyb29nbjkzVlNuNGc2V1ktUG5tSFrSAcYBQVVfeXFMUGNlaE1NYU94STQ1WXNmeEFaRzVOdUhIOHItc0x6SzVSRjRTd1dzNmJ5WlNDdVpidkxjaWRVdFJYek1wdy1WWTV6OGZ5aklBVGNMMF92aDJjZkxmUEZwM0IyLW1qeHMtcEhRbG8wcVd5WTdLRkU5TXVRcF85cndrX2twOFBtcHV3cTBwbVlGTjFWMDZnT2J3X0ZmdkNWdnVMcTliS2g2TWM0UzNVdEhDWHRaVkVucFVuYnR0ZFRHQjNCOWttSXlB",
+   "source": "TechPowerUp",
+   "published_at": "2026-10-27T23:09:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-10-27T23:09:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUXRucm5fWU9XTllTclo1UkRoZDVfbWQ5NWJMRHE1Ylc3dVlUWVVwZWh0QkU1WlVhdnJ3eDEtWFFBSzdxV1BUTGpuVkxnLWtId1Z4T2xaVTF5NnRjWGhrSFRGcDNCVnpnY3QzS05IT3NJdVBBak9mR2NCWWhOU1pHU01TVVI1YjdfVkpvUXQ4UHZBTTE1QnhRZWMwdWpXelVPLVJoTDNJZ0ozZDIyb29nbjkzVlNuNGc2V1ktUG5tSFrSAcYBQVVfeXFMUGNlaE1NYU94STQ1WXNmeEFaRzVOdUhIOHItc0x6SzVSRjRTd1dzNmJ5WlNDdVpidkxjaWRVdFJYek1wdy1WWTV6OGZ5aklBVGNMMF92aDJjZkxmUEZwM0IyLW1qeHMtcEhRbG8wcVd5WTdLRkU5TXVRcF85cndrX2twOFBtcHV3cTBwbVlGTjFWMDZnT2J3X0ZmdkNWdnVMcTliS2g2TWM0UzNVdEhDWHRaVkVucFVuYnR0ZFRHQjNCOWttSXlB"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "44ffe48dbbc9",
    "title": "英伟达与Meta扩大Muse系列模型合作；OpenAI推出GPT-6.1 Terra｜数智早参 - https://www.mrjjxw.com/",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5acXNMcUVBZlI5NlR2T0t2ci05cEFGLVM0SFhVNXF0N29VZlBjdVhtMDZoTFFCZ3lEVEpQOHN4bkoyZl9ZQ2JkWHEtMmdjbmJDSEZCNUE5UWI0ZUtDWHlWbVNleGVIQQ",
@@ -1075,6 +1131,23 @@
    "zh_summary": "英伟达CUDA 13.4实现K8s显存强制共享",
    "title_zh": "英伟达CUDA 13.4实现Kubernetes显存强制共享",
    "sentiment": 1
+  },
+  {
+   "id": "f4bf2a760813",
+   "title": "英伟达期权聚焦：10月27日成交148.85万张，未平仓合约1,518.86万张 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVpDT3ptUG9Oa3VSUmY0RFZKeFc3bU93c2xKTk9ycHJvMWQyY243Snd3Y0lWQXlPQkZCZmZZSkJTRXRseFJzSDhqZlY4cy1XcFFRYkFkM2VBSTdNZEhFMDJZSUxmUVRwMUdVYXU0SkNpMTNyQndNUmVhX04zdktOdFcyMUV5bUpYZFAwZURpcC1GWUVrRUE",
+   "source": "富途牛牛",
+   "published_at": "2026-10-27T20:43:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-27T20:43:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVpDT3ptUG9Oa3VSUmY0RFZKeFc3bU93c2xKTk9ycHJvMWQyY243Snd3Y0lWQXlPQkZCZmZZSkJTRXRseFJzSDhqZlY4cy1XcFFRYkFkM2VBSTdNZEhFMDJZSUxmUVRwMUdVYXU0SkNpMTNyQndNUmVhX04zdktOdFcyMUV5bUpYZFAwZURpcC1GWUVrRUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "75f03ac2a997",
@@ -3134,7 +3207,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aV1FyM2kxS1VIUXIyZGVpLXgxUGVIZV9ZeE5TTWRwZjhzTzZqeGNZamI5LW1uNFVBTGVtY1oyME1pQV9oZFNGYkJUMFBmd3htNmN4V1k0MEwzTjdtYkE",
    "source": "CSDN",
    "published_at": "2026-10-27T12:22:49+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "CSDN",
@@ -3145,13 +3218,22 @@
      "name": "TOM",
      "published_at": "2026-10-28T01:54:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZdlZqWjNkSTAwaEM1aVQxRnNoQTdMRElzeTdXQ3p2ZlJ3dkJCbFhfa0htUHp4Sm5kUGlWVlNXRjY5aFhFb1h5NlloMVQ4U19aWjdGTzZB"
+    },
+    {
+     "name": "证券之星",
+     "published_at": "2026-10-28T03:01:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KektqOXhVQ1NVc1MzWVplYTl0V0N0aExKRVhRTDI4QklYNkZqQW4tUm1qWlhqbW54NXAtcUJwMUY4Mm04S19SbFNGRkRVNUdUTG5PTUgxYXVnVHlDS2NSRW5wbF8"
     }
    ],
    "category": "其他",
    "session": "盘前",
    "zh_summary": "面壁智能算子登顶华为英伟达榜单",
    "title_zh": "面壁智能ForgeKernel登顶华为英伟达算子榜",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.4,
+    "window_h": 2.0
+   }
   },
   {
    "id": "9ef4fce754f6",
@@ -6626,86 +6708,6 @@
    "session": "盘后",
    "zh_summary": "英伟达营收快速扩张，英特尔增长平缓",
    "title_zh": "英特尔与英伟达对比：营收平缓与快速扩张",
-   "sentiment": 1
-  },
-  {
-   "id": "69b47b00702b",
-   "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering - MarketWatch",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDYyd2VndnhVdFI0ckxsUnVKbVRRaGxOMEoxOUpZTFcxeWJIdW5MbzlIWElaUW05RDdfNlM1b01jM3lFTkNCN184YzZwaU9PMWxOOVBKZkNrY2tGZldMc3U3THdNU0FST1ZKcmgtTF95ZlIwV3ZiYlBaVU12RXNoUjdIcVNBRGdnMldGUXllTXRxazY2SWNfZjZ0cks5T3p4LWppMUZqb1E3MWdpdThjVEU1OGNKdng4SUZHQndKalFVOTA",
-   "source": "MarketWatch",
-   "published_at": "2026-10-26T21:44:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketWatch",
-     "published_at": "2026-10-26T21:44:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDYyd2VndnhVdFI0ckxsUnVKbVRRaGxOMEoxOUpZTFcxeWJIdW5MbzlIWElaUW05RDdfNlM1b01jM3lFTkNCN184YzZwaU9PMWxOOVBKZkNrY2tGZldMc3U3THdNU0FST1ZKcmgtTF95ZlIwV3ZiYlBaVU12RXNoUjdIcVNBRGdnMldGUXllTXRxazY2SWNfZjZ0cks5T3p4LWppMUZqb1E3MWdpdThjVEU1OGNKdng4SUZHQndKalFVOTA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达等或参与Meta350亿美元增发",
-   "title_zh": "英伟达、AMD和博通或参与Meta350亿美元增发",
-   "sentiment": 0
-  },
-  {
-   "id": "29edec173a62",
-   "title": "Stocks rise as Nvidia gains and AI shares fluctuate - The Business Journal",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85enhhSno0MDItUmNLSWdENWVfWS1xalR1X2paTU01OGJSTWZSUXVDX3B0aXVTcS1uR3RoUzRjOUZfbk5raTRHZks4Z0l6enlIRVpnX2gxVVgtTTRWUEFBSFdQQ1QxVVFYMWNiU3lvZFZPdC1wamZtZlJTZw",
-   "source": "The Business Journal",
-   "published_at": "2026-10-26T21:35:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Business Journal",
-     "published_at": "2026-10-26T21:35:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85enhhSno0MDItUmNLSWdENWVfWS1xalR1X2paTU01OGJSTWZSUXVDX3B0aXVTcS1uR3RoUzRjOUZfbk5raTRHZks4Z0l6enlIRVpnX2gxVVgtTTRWUEFBSFdQQ1QxVVFYMWNiU3lvZFZPdC1wamZtZlJTZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "美股上涨，英伟达与AI股波动",
-   "title_zh": "股市上涨，英伟达上涨，AI股波动",
-   "sentiment": 1
-  },
-  {
-   "id": "ba730a546d05",
-   "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQjV4MjBtaXZzVGU2M0ZiQU14UmItU0pvNGdxTUhfVkpLT1U1T2pjOVhYTHI1ZmpqdUhTSkp6RVduUlV3Q2tuX29DOHFVN1FzUGJQX0plOGNkNUwxNDEwS3ZTaE1BS0RtOFdCZ2pWb2lfNG5pd0k0dmgxcEFOT2dqSl8weEVzY3U4UjRPYWNUUE1HV2VzZVZEeHdTVzFrNGh5Q3U3UHg2VjRFaEk4ckhNLUp6TmFXOF9VSTFqN0NPSEdnR0g1WjROTW9OdFJQRWJ4LWdlbg",
-   "source": "TradingView",
-   "published_at": "2026-10-26T21:23:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-26T21:23:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQjV4MjBtaXZzVGU2M0ZiQU14UmItU0pvNGdxTUhfVkpLT1U1T2pjOVhYTHI1ZmpqdUhTSkp6RVduUlV3Q2tuX29DOHFVN1FzUGJQX0plOGNkNUwxNDEwS3ZTaE1BS0RtOFdCZ2pWb2lfNG5pd0k0dmgxcEFOT2dqSl8weEVzY3U4UjRPYWNUUE1HV2VzZVZEeHdTVzFrNGh5Q3U3UHg2VjRFaEk4ckhNLUp6TmFXOF9VSTFqN0NPSEdnR0g1WjROTW9OdFJQRWJ4LWdlbg"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "Injective推出英伟达GPU租金链上期货",
-   "title_zh": "Injective推出追踪英伟达GPU租赁成本的链上期货市场",
-   "sentiment": 0
-  },
-  {
-   "id": "268616a72679",
-   "title": "NVIDIA (NASDAQ:NVDA) Stock Price Up 2.4% - What's Next? - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3QtUS1INzUwaDdYUktGRWF2NUlfa2xfQWVYT1VBZFM2c0c5TTlqWTZfWjduOWp1Wlg3NmxKdzRFYk5BSVdKRzN2OUJIcnZwZlB1S1VFelBkdG5sTFQ1dXpscjRKZVl2Z1QzNWIyS1dZdUt3a1JTVVhMYzJCLUpPdGJJVGNzd3M2SnFqTGtKaEtDcWRabzBzNXZFcEhpenlxWFF3bEtaUmlQcGc",
-   "source": "MarketBeat",
-   "published_at": "2026-10-26T21:23:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-26T21:23:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3QtUS1INzUwaDdYUktGRWF2NUlfa2xfQWVYT1VBZFM2c0c5TTlqWTZfWjduOWp1Wlg3NmxKdzRFYk5BSVdKRzN2OUJIcnZwZlB1S1VFelBkdG5sTFQ1dXpscjRKZVl2Z1QzNWIyS1dZdUt3a1JTVVhMYzJCLUpPdGJJVGNzd3M2SnFqTGtKaEtDcWRabzBzNXZFcEhpenlxWFF3bEtaUmlQcGc"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘后",
-   "zh_summary": "英伟达股价上涨2.4%",
-   "title_zh": "英伟达股价上涨2.4%，接下来会怎样",
    "sentiment": 1
   }
  ]
