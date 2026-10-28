@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T08:21:40.572377+00:00",
+ "updated_at": "2026-10-28T08:36:42.638009+00:00",
  "market": {
   "price": 217.94,
   "change_pct": 0.9,
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 11
+   "avg": 0.25,
+   "count": 12
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（11条已评分）"
+     "note": "今日新闻情绪 +0.25（12条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 44.5,
    "ma20": 224.44,
-   "as_of": "2026-10-28T08:21:40.560875+00:00"
+   "as_of": "2026-10-28T08:36:42.625632+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
@@ -955,6 +955,23 @@
    "zh_summary": "英伟达支持公司推出31亿美元GPU贷款",
    "title_zh": "英伟达支持公司推出31亿美元GPU贷款",
    "sentiment": 1
+  },
+  {
+   "id": "6884d18bb18b",
+   "title": "OpenAI计划采购谷歌TPU！英伟达算力霸权遭遇新挑战 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWTDQzc19rVkVSM1F5c3UzYkpFTTB1b0U1N05odHI3X1VTYmJYbDlyaFhyZXREdnJwWHlLT0g1cTdpWTlfOE5jQg",
+   "source": "财联社",
+   "published_at": "2026-10-28T01:10:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-28T01:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWTDQzc19rVkVSM1F5c3UzYkpFTTB1b0U1N05odHI3X1VTYmJYbDlyaFhyZXREdnJwWHlLT0g1cTdpWTlfOE5jQg"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
   },
   {
    "id": "9f6e438bfa42",
@@ -2750,7 +2767,7 @@
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ2V4N2JVc2Q5NjBKTXdPYV9pMmwwZU1BZzBjRUE3d2llNGR0ZEJQeWZlMGlCejQ0ckl0RzZPNXR0RXdRNDhKUmVXQUVGNGJDSmU1VllyMU81b1dhdWVSTldhUlNWdHF2RmZLSGlWUjdCeU9JZFdxTEpZcVNnRjI2MjR1NzBWZnBPRzBWYktPODZTNWlHN3lOcHN0cEs1XzRvTktFT09zb0dVdl83cl9ENllXaGVmU1h6VUNZRVE3LVA4QTdfZHVuamVXQUl5YlQ0c1N0Si14VzVoaTVqY3ZoekpR",
    "source": "TradingView",
    "published_at": "2026-10-27T16:00:00+00:00",
-   "outlets_count": 7,
+   "outlets_count": 8,
    "outlets": [
     {
      "name": "TradingView",
@@ -2786,6 +2803,11 @@
      "name": "KSL News",
      "published_at": "2026-10-27T16:01:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWs1VnlpemM2NEM3WEI1ZlQxQVpGYm02LVl5R3kxNExmVVlEMjlVQl9SUkhqdzVSRlpCVEJEeXFKN0hOUFlaTlMxcjhRQjNhTzIyZlh6dHhfUFNERG1uR1J4amhRaUtsOFJwTVZUY2xBSHo0OFRkVTJFcnJkbERwM2VwU2pLT3Y1eWp0Q3JxMmZDSm5NZkJreGMtZktFdVNuQVQtNDJvWFAyZHF1VG9TamdHdkdHUQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T16:01:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3VudlgtOVRhRUs1aFhTaERQaG5YaFJDSW5jWHVkNmVtYXNVRHlTa29ac0pHTVp1dDJERWFKT0RqeV9IVmVESE5TbFhsQWxKaEZIa2JaM1dMbWdGb0dkS0EzVDdYVG1LeW1KT0xLbExaMjUtd243Y2RuaHR5VzQza2ZDVGRieDZlZVNkRmRWNmFVX19jampFSmpBWQ"
     }
    ],
    "category": "产品技术",
@@ -6704,26 +6726,6 @@
    "zh_summary": "AMD与英伟达砸333亿抢ABF产能",
    "title_zh": "AMD与英伟达砸333亿元抢ABF产能，游戏卡资源被挤压",
    "sentiment": 0
-  },
-  {
-   "id": "ad5f50440996",
-   "title": "Kazakhstan positions AI infrastructure as a potential export industry after Nvidia CEO's visit - digitimes",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWpON3dWRndqVXFRYzJxZVJpTlRNbnF5ZEI5VGFTeGtiZVowUlljUm1YLV9uV2s3YkN3Zlp1VDdQeFhzY2VKeWdBNG4tS2plSFhIZlBONkU1RmZpUFUwZ0FTeG9idUR3b3R0VkdJN1Q4cHZjUTdwQy1LV0s5LTBicnFRT1ZUTGNwMkwyTTJQeURuRXQwU2V0M1VwY25GVTlGZEE",
-   "source": "digitimes",
-   "published_at": "2026-10-27T04:14:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "digitimes",
-     "published_at": "2026-10-27T04:14:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWpON3dWRndqVXFRYzJxZVJpTlRNbnF5ZEI5VGFTeGtiZVowUlljUm1YLV9uV2s3YkN3Zlp1VDdQeFhzY2VKeWdBNG4tS2plSFhIZlBONkU1RmZpUFUwZ0FTeG9idUR3b3R0VkdJN1Q4cHZjUTdwQy1LV0s5LTBicnFRT1ZUTGNwMkwyTTJQeURuRXQwU2V0M1VwY25GVTlGZEE"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "哈萨克斯坦将AI基建定位为潜在出口产业",
-   "title_zh": "哈萨克斯坦在英伟达CEO访问后将AI基建定位为潜在出口产业",
-   "sentiment": 1
   }
  ]
 }
