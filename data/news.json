@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T18:51:36.565729+00:00",
+ "updated_at": "2026-10-28T19:06:33.305852+00:00",
  "market": {
-  "price": 216.18,
-  "change_pct": -0.81,
+  "price": 215.93,
+  "change_pct": -0.92,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.24,
-   "count": 123
+   "avg": 0.2,
+   "count": 127
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +45.7%"
+     "note": "目标价中位数 $315（17家），隐含空间 +45.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.24（123条已评分）"
+     "note": "今日新闻情绪 +0.20（127条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.18 vs 20日均线 $223.82"
+     "note": "现价 $215.93 vs 20日均线 $223.81"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 45.7,
-   "ma20": 223.82,
-   "as_of": "2026-10-28T18:51:36.555498+00:00"
+   "implied_upside_pct": 45.9,
+   "ma20": 223.81,
+   "as_of": "2026-10-28T19:06:33.295995+00:00"
   },
-  "pe_ttm": 27.5,
+  "pe_ttm": 27.4,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "fccd0ec05ccc",
+   "title": "Dept of Justice studying Nvidia's $12.9B acquisition of Hugging Face - Reuters (NVDA:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0hJRnlkWVd2OHVnRXJmWTRWYV9FX3FvRGJ1N2tEUG5hSzd2SnRSb2dtRmtDdDU5Q25XdzFxNDdDZ0FSZ21kM3JoMGwxa1RMVGs3bjhUUjZZOXdFZ08wMUlBSDVqVjVJcmJpZl9LNF81ZElTU21tQS1jWjIxSzhtWUVBZGpITm5aS2ptU19KOGFlLU9aSE1HcHZDR2ZxaUVOVTlkckpIRE5RZWE4OVZaSkxQbw",
+   "source": "Seeking Alpha",
+   "published_at": "2026-10-28T19:01:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Seeking Alpha",
+     "published_at": "2026-10-28T19:01:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0hJRnlkWVd2OHVnRXJmWTRWYV9FX3FvRGJ1N2tEUG5hSzd2SnRSb2dtRmtDdDU5Q25XdzFxNDdDZ0FSZ21kM3JoMGwxa1RMVGs3bjhUUjZZOXdFZ08wMUlBSDVqVjVJcmJpZl9LNF81ZElTU21tQS1jWjIxSzhtWUVBZGpITm5aS2ptU19KOGFlLU9aSE1HcHZDR2ZxaUVOVTlkckpIRE5RZWE4OVZaSkxQbw"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "8843afe8cf97",
+   "title": "美国司法部质询英伟达收购Hugging Face一事。（路透） - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdEhCYUlmaFdqTXVuSzRuNGEzSmJ4S0JqekFpazA5ejJTZ1VVaUp0WGtBY2w2dHcyNld2ZVNPWk91LTQ0dmJ6dGstM1dEdTRkd1p0VEU2TllvY3lNaVhFb0xxbF9hVklqQXkzTFNlaEo3aTFqN2tRZHpRSUlnYktDTXd1Y3pCTl9sOTF5RFVXamxvMzdIZE1mbzFQdDA",
+   "source": "富途牛牛",
+   "published_at": "2026-10-28T18:54:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-28T18:54:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdEhCYUlmaFdqTXVuSzRuNGEzSmJ4S0JqekFpazA5ejJTZ1VVaUp0WGtBY2w2dHcyNld2ZVNPWk91LTQ0dmJ6dGstM1dEdTRkd1p0VEU2TllvY3lNaVhFb0xxbF9hVklqQXkzTFNlaEo3aTFqN2tRZHpRSUlnYktDTXd1Y3pCTl9sOTF5RFVXamxvMzdIZE1mbzFQdDA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "309968689e42",
    "title": "英伟达股价放量下跌，路透社报道称美国司法部正在审查Hugging Face交易后，该股最新跌幅为0.8% - 富途牛牛",
@@ -82,13 +116,35 @@
    "sentiment": -2
   },
   {
-   "id": "dc900b03cce1",
-   "title": "EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQi1pQlpXMFg0djlmZFhkcGFlc3hJWmxKNXIzeFlTOWRxSXd5YWtCX1FRdUdlWWM1NEZxQVpOWktKbVkyWWR1aFRhbFd3SnRRcW5SZTJ0YXRvQTZ6MjlmVmFMVThhSldFTUpseWRtblVrel8tM0VISmVOVmdVend5UTFOTHhKazBXalpIOHVUdkVmcm5YdTI4UWk3MUJObk9GMzRYOEpkeEFXVnhwZXc",
-   "source": "Reuters",
-   "published_at": "2026-10-28T18:35:02+00:00",
+   "id": "31410e0583b3",
+   "title": "美国司法部据悉正在就英伟达收购Hugging Face的交易进行问询 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XSEV6NHpzTlRtWHNKNTRZanJwazhBZTFnZ1dFV0dwZURYQmZZRU9fLUxOUzctbVFKdlE5dHlXdlpWZFhkSzZPVnJvd1p6V09WaTFtU29IWUZGbGdYNGRkeG5zTQ",
+   "source": "东方财富",
+   "published_at": "2026-10-28T18:46:57+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-28T18:46:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XSEV6NHpzTlRtWHNKNTRZanJwazhBZTFnZ1dFV0dwZURYQmZZRU9fLUxOUzctbVFKdlE5dHlXdlpWZFhkSzZPVnJvd1p6V09WaTFtU29IWUZGbGdYNGRkeG5zTQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "4d938056f181",
+   "title": "US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdDNvMDZWMXo2MFg3N0o1NU9VM04weGU0MHZHeW1GUG5va2ViVy1lMG5WZy1FV2hzeG9oTkMtYzA5VWp1SDRjX0lVTDN5SnpiWnA1MDZTY0ZvckI4VGpFQ1g1S0pkY2FLZUI1eGJ6c2JDTjV0NDAzMlBGZVkxQ0pDMGRSV1hYOGNBUmo4SWxhRlFlYlRhWGxoT29aUTE2am9tWG52bnAzUDBFbkNYNmpEaHhiSDc1QUJ6eC04QUZ6WmJOeTVxQ1B2clBDLVI0Z0FyTmxVTkV3NGo",
+   "source": "TradingView",
+   "published_at": "2026-10-28T18:31:17+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-28T18:31:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdDNvMDZWMXo2MFg3N0o1NU9VM04weGU0MHZHeW1GUG5va2ViVy1lMG5WZy1FV2hzeG9oTkMtYzA5VWp1SDRjX0lVTDN5SnpiWnA1MDZTY0ZvckI4VGpFQ1g1S0pkY2FLZUI1eGJ6c2JDTjV0NDAzMlBGZVkxQ0pDMGRSV1hYOGNBUmo4SWxhRlFlYlRhWGxoT29aUTE2am9tWG52bnAzUDBFbkNYNmpEaHhiSDc1QUJ6eC04QUZ6WmJOeTVxQ1B2clBDLVI0Z0FyTmxVTkV3NGo"
+    },
     {
      "name": "Reuters",
      "published_at": "2026-10-28T18:35:02+00:00",
@@ -127,7 +183,7 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSE5kLWtkeHlacEVIVWdjYWQxMy1neTRiWVZCNFdJUFBFZTZmWUZQT0ROcS1hbWotcG96UU9pSklPQ3pqa1cwZUdsbHE3N0dsT2pjU2oyT1JmVkRyMDBiZFV2akthMnpQazFxck9MbmxpYjRSU2xpVXUzWDRwcU5NTkhOUDRKczZ0d25RQ1ZSQjZnbjQ1MjdmYg",
    "source": "The Motley Fool",
    "published_at": "2026-10-28T17:48:41+00:00",
-   "outlets_count": 2,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "The Motley Fool",
@@ -138,13 +194,28 @@
      "name": "Yahoo Finance",
      "published_at": "2026-10-28T18:03:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOUV6dVd5UU1ESWo2WjBmR3NMTWNiTUxmUmxacl9FWTQ0aTM3aW94UUUyZk5oSWtaSUgxX2RSajlXbkFLQURzUEo4c3NEcURDRlZ2cV9TbDQwTVZpX29TQUFyYU1QaWNCQnZXZlB5aktJSmdjNDJMZm9DcUczVXdQZTlMMXkyVkYxV0duRlFKSWtqVHhqZTV6WFhfUVhtMDBh"
+    },
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-28T18:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGxJbzcyTkpPQUl0Vm43SWt2Wjh1SW1HYmVwY3ZqTEMwa3loWFhuWVI3SHJwa0l4eEhPUWtDZHk3RXUzQllLZU1OMjBWN3pkMjF4X0k1N25pODdQN1h5S0VkZjRiUURiYmpGaXY0SHZsSVFoLTVXLUg1Y1U1LUV4akJ1b3g"
+    },
+    {
+     "name": "The Globe and Mail",
+     "published_at": "2026-10-28T18:03:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQXZRSGJreFI0eHdlN0ttTHhuR0RCUEJ1enBYRlF5SzJDUXA5NnhjS1lGclRDZGpqTnc1UTFXN2J5OVFNanltU2ZaZVYxZHJGN0lRbDk2VmFrNTVWSTVUdnB4NFY0RHVUUTF0QzcxS1ZiNGRsbWdPbDVHVElnQUY0WkI5eVZDWm9kTWtOWF9RejhqY2RUdkxLVkUycDRReGNjUWJNajlZVHQ2Y0gtMENMZmJvUDVPaHpmdnlZRkhEZElVTFVMTVVMcTdCTmJDTDhETzdLcTE1TnZpb2hWenc"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "预测英伟达2027年底股价走势",
    "title_zh": "预测英伟达2027年底股价走势",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.58,
+    "window_h": 1.3
+   }
   },
   {
    "id": "4d94758e3208",
@@ -2377,9 +2448,9 @@
    "sentiment": -1
   },
   {
-   "id": "79f1abea3cea",
-   "title": "NVIDIA Corporation $NVDA Stock Purchased by Paladin Partners LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ",
+   "id": "59f70a6cbddf",
+   "title": "NVIDIA Corporation $NVDA Shares Sold by Moody National Bank Trust Division - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3ZENXBPOHdXZ3VKelJzck0xSERWTXA3eHJCU2hHZ0JKTDEzTktRZFplVmJaY0Y3U1RZb1A2LVJMN1drV0ZpYUlIemVPeERCMW9yRDNnNnhKcE0ydWE1a2g3TDZhY1pyQUIzOWViZ2dfa0dPMUhRLUVNcUJEemJWMWI3ZWUtcG5qUldwUlFSQVNqdTRXRHVEallfYlNUN1duQUdNenByN0VOc25qTzBjazdJMUc0Z2JfTGRWVktMQzNDVHF0cnh0TWZtWWs2SVU",
    "source": "MarketBeat",
    "published_at": "2026-10-28T08:41:21+00:00",
    "outlets_count": 1,
@@ -2387,14 +2458,11 @@
     {
      "name": "MarketBeat",
      "published_at": "2026-10-28T08:41:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ"
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3ZENXBPOHdXZ3VKelJzck0xSERWTXA3eHJCU2hHZ0JKTDEzTktRZFplVmJaY0Y3U1RZb1A2LVJMN1drV0ZpYUlIemVPeERCMW9yRDNnNnhKcE0ydWE1a2g3TDZhY1pyQUIzOWViZ2dfa0dPMUhRLUVNcUJEemJWMWI3ZWUtcG5qUldwUlFSQVNqdTRXRHVEallfYlNUN1duQUdNenByN0VOc25qTzBjazdJMUc0Z2JfTGRWVktMQzNDVHF0cnh0TWZtWWs2SVU"
     }
    ],
    "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Paladin Partners买入英伟达股票",
-   "title_zh": "Paladin Partners买入$NVDA股票",
-   "sentiment": 1
+   "session": "盘前"
   },
   {
    "id": "2539fd4422c8",
@@ -2469,26 +2537,6 @@
     "pct": -0.18,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "4b0f488325d6",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by Eleva Capital SAS - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnBrQUFtRHhhenh2dDdrUHBHOVV2TkhjbHFBQzFiV05MNzA1enZUd210c1hEbC1UVURpSEJSUHR5bERQVG9PZmhSd1Y4OEoxSVJDM2xnbXpQckMyZlhUalpiWjNrbFBSR2hLRG8tWHVsTC03WXhTWmoyLTJ3NENtZnVqTnFuZGNKRnBMUlJteFY1SU1aUGpqeG8teHF1S21EZUxFcEllelJJUFE1X1NjSk14elpSNWg3",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T08:01:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T08:01:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnBrQUFtRHhhenh2dDdrUHBHOVV2TkhjbHFBQzFiV05MNzA1enZUd210c1hEbC1UVURpSEJSUHR5bERQVG9PZmhSd1Y4OEoxSVJDM2xnbXpQckMyZlhUalpiWjNrbFBSR2hLRG8tWHVsTC03WXhTWmoyLTJ3NENtZnVqTnFuZGNKRnBMUlJteFY1SU1aUGpqeG8teHF1S21EZUxFcEllelJJUFE1X1NjSk14elpSNWg3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "穆迪国民银行信托部门减持英伟达股票",
-   "title_zh": "穆迪国民银行信托部门出售$NVDA股票",
-   "sentiment": -1
   },
   {
    "id": "6e3d34e94a42",
@@ -2743,6 +2791,23 @@
    "zh_summary": "英伟达217.94美元，微软谷歌今晚报AI支出",
    "title_zh": "美联储议息日NVDA股价217.94美元，微软谷歌今晚公布AI支出",
    "sentiment": 0
+  },
+  {
+   "id": "1538b89f9244",
+   "title": "Nvidia Stock $217.94 Before MSFT, GOOGL Capex: Bull $243 - FinanceFeeds",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ0ZRMUNOU3NvV212ZFl2ZGllNnBQWXVKQXE2elplVlZZbDdlQk9IOE9ISWlGYjQwZkFRd0d6blNiQ0I5dXZRdlk4dGJiTVJtREVQWUUwV1NuS3lQWmVXcGJiejZWMWFuQXdhdExWNFhoQTgwUlA2RUQ2eWFVQ2pRckJ3d1pHUFJyQndmUE52OWc3VHM0VHh1bUprcGFMX0lGTU5iNmhFUUpkWmktSWtQcFhCOXpkZElsbG9B",
+   "source": "FinanceFeeds",
+   "published_at": "2026-10-28T06:51:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FinanceFeeds",
+     "published_at": "2026-10-28T06:51:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ0ZRMUNOU3NvV212ZFl2ZGllNnBQWXVKQXE2elplVlZZbDdlQk9IOE9ISWlGYjQwZkFRd0d6blNiQ0I5dXZRdlk4dGJiTVJtREVQWUUwV1NuS3lQWmVXcGJiejZWMWFuQXdhdExWNFhoQTgwUlA2RUQ2eWFVQ2pRckJ3d1pHUFJyQndmUE52OWc3VHM0VHh1bUprcGFMX0lGTU5iNmhFUUpkWmktSWtQcFhCOXpkZElsbG9B"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
   },
   {
    "id": "b7447d853f6b",
@@ -6561,80 +6626,6 @@
     "pct": -0.4,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "9ef4fce754f6",
-   "title": "Pony.ai Partners with inDrive and NVIDIA for Robotaxi Pilot in Kazakhstan - Gasgoo",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdVZPZ2FmR3NtWXctdldYMWZ3aVRPU3hERVZrbGFDWTczejByR2RDSTBUUWwyai1TdWFlVENZTllYTFVyT1BJRUNBaDlQQlNUOFZSMU1EcEJLaGNpNkVianBzT0dDeUIwOFJvUE96Q3BhRUlsZ25TVXhmUWhuaVRJdko1QlluYnVuSTNmNmRIeGlHSDl4OTAwb1hfa1A4dXhRWWNQR1EzdWZyWmVJaEdBTkNpaXBLd1ZyMEhyVUtNNnJMY1RuLXZ3c1JWN3FTaFZZMkVWLTJqbGJSRVJLdEE",
-   "source": "Gasgoo",
-   "published_at": "2026-10-27T12:17:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Gasgoo",
-     "published_at": "2026-10-27T12:17:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdVZPZ2FmR3NtWXctdldYMWZ3aVRPU3hERVZrbGFDWTczejByR2RDSTBUUWwyai1TdWFlVENZTllYTFVyT1BJRUNBaDlQQlNUOFZSMU1EcEJLaGNpNkVianBzT0dDeUIwOFJvUE96Q3BhRUlsZ25TVXhmUWhuaVRJdko1QlluYnVuSTNmNmRIeGlHSDl4OTAwb1hfa1A4dXhRWWNQR1EzdWZyWmVJaEdBTkNpaXBLd1ZyMEhyVUtNNnJMY1RuLXZ3c1JWN3FTaFZZMkVWLTJqbGJSRVJLdEE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "小马智行与英伟达在哈萨克斯坦试点Robotaxi",
-   "title_zh": "小马智行携手inDrive与英伟达在哈萨克斯坦试点Robotaxi",
-   "sentiment": 1
-  },
-  {
-   "id": "644ea8c95b65",
-   "title": "Big Tech Is About to Report. Nvidia Investors Should Watch One Number. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLUFYeTdOc3JCTm1CNTFIZmNFOHAzaktyUXNvYlZBdHVEYUFUVUtyWDJBVWQ5NmZKVWlVOU9NM3RWczJJYUhWVTNPODYtaS1yUU5CTnI2OUlPUjhPMl9FTElWdmNzU2tSWHFEVU52VWMweVg1VThUSXBqRG5HYXIxRmFpNHBiTlByS3BBekNfTVBOdXFJRElwZGRiYldlOC1XTGc5cndYUG1yZkdRQWJZcw",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-27T12:13:22+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-27T12:13:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLUFYeTdOc3JCTm1CNTFIZmNFOHAzaktyUXNvYlZBdHVEYUFUVUtyWDJBVWQ5NmZKVWlVOU9NM3RWczJJYUhWVTNPODYtaS1yUU5CTnI2OUlPUjhPMl9FTElWdmNzU2tSWHFEVU52VWMweVg1VThUSXBqRG5HYXIxRmFpNHBiTlByS3BBekNfTVBOdXFJRElwZGRiYldlOC1XTGc5cndYUG1yZkdRQWJZcw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T12:30:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0tfOXYzUURJSmtrdGdNU3BNVENJUTQxcHRQUzRENXc3OHNWcHRBcXRPYTZPTE0zOEdmQ3F5TWdacnk2cW55Z3NYNUZwWUZoWUtxd2hscDZsb2wycjJfbzF1UjJDRF9mTm9fRWROZEVQaTlpTnNPU25xTzVzYlBOYkR0bGtJU3lDMVQ0aUVGaGZfYjRZNE9faG1uay1Mdw"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-27T12:37:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS3lQeDUyYnVNNzNvMkswcFY5Z2xTbHlXNjRLNFlza3R4d28zQmRRdFk5VjZrX2l5SDFzemFWWTlnWFlXRkc0eFlKeWp0aHdCbFpKcnc4Rk1fWUNKcDNqQTlKMzc1T3dnNF9pUTVvbGdTdllSbUo0Ulhwc2g4dmkwbEt0cWIydm4xa3R6dHhIalVGMjBDaTRvZDVlT0ZHQU0yaVpnX3FhSGZ4b3drWkV2Y3RSUlpuVjFuOENYOFI2WTUzR2xyM19reS1CNW5oVTlZR2xianY5VUI0RU1vUHltT2w5RDNNQ25fSnhZ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "科技巨头将公布财报，英伟达投资者关注一数字",
-   "title_zh": "科技巨头将公布财报，英伟达投资者应关注一个数字",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.29,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "ca86e1032d69",
-   "title": "Nvidia is in talks to lead a $20 million round for Simplismart - Startup Fortune",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQmJqbGx1M05NQ0dpR3ZMUk1vYkRIUlJCWWFuNXBNaU9pcEZzRi1mWkJDWWZ1Ty0wbFlPNjBQZHloV0w1ZXVXa05od3ozMEN6ajM2ejZBYlJ2Qlprc201SUxwMUg1UEpXaW11bmN3c1JHU2IweDJrNUNOS2dqVVBvblN5V1dMVHlMS2FIa1YtVnE2UVk",
-   "source": "Startup Fortune",
-   "published_at": "2026-10-27T12:04:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Startup Fortune",
-     "published_at": "2026-10-27T12:04:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQmJqbGx1M05NQ0dpR3ZMUk1vYkRIUlJCWWFuNXBNaU9pcEZzRi1mWkJDWWZ1Ty0wbFlPNjBQZHloV0w1ZXVXa05od3ozMEN6ajM2ejZBYlJ2Qlprc201SUxwMUg1UEpXaW11bmN3c1JHU2IweDJrNUNOS2dqVVBvblN5V1dMVHlMS2FIa1YtVnE2UVk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达拟领投Simplismart2000万美元",
-   "title_zh": "英伟达洽谈领投Simplismart 2000万美元融资轮",
-   "sentiment": 1
   }
  ]
 }
