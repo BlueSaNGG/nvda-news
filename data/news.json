@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T17:06:31.800663+00:00",
+ "updated_at": "2026-10-28T17:21:33.714076+00:00",
  "market": {
-  "price": 217.6,
-  "change_pct": -0.16,
+  "price": 217.12,
+  "change_pct": -0.37,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.23,
-   "count": 110
+   "count": 114
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 71% 分位"
+     "note": "现价处于52周区间 70% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +44.8%"
+     "note": "目标价中位数 $315（17家），隐含空间 +45.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（110条已评分）"
+     "note": "今日新闻情绪 +0.23（114条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.60 vs 20日均线 $223.90"
+     "note": "现价 $217.12 vs 20日均线 $223.87"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 71,
+   "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 44.8,
-   "ma20": 223.9,
-   "as_of": "2026-10-28T17:06:31.778650+00:00"
+   "implied_upside_pct": 45.1,
+   "ma20": 223.87,
+   "as_of": "2026-10-28T17:21:33.703927+00:00"
   },
-  "pe_ttm": 27.7,
+  "pe_ttm": 27.6,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -670,12 +670,17 @@
   },
   {
    "id": "2771b9c08ffd",
-   "title": "Nvidia Has The Best Chance to Breach $6 Trillion First So I Buy - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXpCbEJMSkdVQy1HWTZtek95RHJBT1lIM2M2ai0tc2tmUGRlWXpGaVBQU0tva1c3STdpdWN1Y1VaWXg4SzBMbVhxZ0E5ejZFWVl4YTFYS3gxTnotRlEzaWN2RnBudkRnVVVZVGtYNWV4ODU5SGNDamY2RFdDWEpGZXlLYVJ1b3VmenZyVmZaNWpiUUlrVF9vYnRtOUZNa1NRcW1RekxBaFYwdw",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-28T14:50:09+00:00",
-   "outlets_count": 1,
+   "title": "Nvidia Has The Best Chance to Breach $6 Trillion First So I Buy - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUVMOXpwOEF6NEtqZ3V2NkdWRDQxb1R0b2RFdzN4OEJNaUk0ckFrWWpGSzN6V2R6bVM4VXYyeWk0QmVWcnljakFUMXprY2gtTi1PZ1FVMy1JN05DblU2aEhBQnhBTmI4OE5OYjZHTUN1bVVsR3JYNkc3Z2hJY1lGZUgtYnRTODNDWkZHaVIxVkF4XzNjemZn",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-28T14:45:20+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T14:45:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUVMOXpwOEF6NEtqZ3V2NkdWRDQxb1R0b2RFdzN4OEJNaUk0ckFrWWpGSzN6V2R6bVM4VXYyeWk0QmVWcnljakFUMXprY2gtTi1PZ1FVMy1JN05DblU2aEhBQnhBTmI4OE5OYjZHTUN1bVVsR3JYNkc3Z2hJY1lGZUgtYnRTODNDWkZHaVIxVkF4XzNjemZn"
+    },
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-28T14:50:09+00:00",
@@ -917,6 +922,23 @@
    "zh_summary": "OpenAI转向谷歌芯片引担忧",
    "title_zh": "OpenAI转向谷歌芯片，英伟达是否应担忧",
    "sentiment": -1
+  },
+  {
+   "id": "d008fbaababf",
+   "title": "NVIDIA GeForce RTX 5080 Prices Soar Past $2,000 At US Retailers, As Newegg’s Own Inventory Runs Dry - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORmlkakNiM01URk84ckRlVnQ5NUFCQ1UzX3h0bWh6UmtCOGFhd1h6ZWlwMmFMUDZhS0RxRzdVMEZkMzFwc0ZnaVNIV0gtMWR5QWRCYlBsaU1sY01DQWNXYWEwZ2VtOW5BaHIyNUhqUUxlMDZjNU8zcW9OaHJRSVZxU1VNS0VTUlNSWldfajhmeGpfd1dvamZCNjF4aFBqdk93VmZPVFNQWGtSUWdPVVlZeFpSeEU5QjFT0gG-AUFVX3lxTE1ZVE1yVDVNenlxM1ZVMjdFV0drQy1POWVBYmJWTXF4YnlWcVRxSkx4dEloSFprNGF2RTZvWTlDWVB0c29qc3Y0YUhtYlRvMUxSRks3V2h0ZmRPbUMzb255WUgza3YxU1d1b01OTGNoa0h1NWoyaS0wU010VGlibzhaVFVhOW9lc2x1WHJ5TlFTUmhUTTlfb0JIMjlTLUdXZ3pxSl9aSnpoX1hDc21qUGhnR2tIMERLOFdYQW5oY0E",
+   "source": "Wccftech",
+   "published_at": "2026-10-28T13:30:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-28T13:30:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORmlkakNiM01URk84ckRlVnQ5NUFCQ1UzX3h0bWh6UmtCOGFhd1h6ZWlwMmFMUDZhS0RxRzdVMEZkMzFwc0ZnaVNIV0gtMWR5QWRCYlBsaU1sY01DQWNXYWEwZ2VtOW5BaHIyNUhqUUxlMDZjNU8zcW9OaHJRSVZxU1VNS0VTUlNSWldfajhmeGpfd1dvamZCNjF4aFBqdk93VmZPVFNQWGtSUWdPVVlZeFpSeEU5QjFT0gG-AUFVX3lxTE1ZVE1yVDVNenlxM1ZVMjdFV0drQy1POWVBYmJWTXF4YnlWcVRxSkx4dEloSFprNGF2RTZvWTlDWVB0c29qc3Y0YUhtYlRvMUxSRks3V2h0ZmRPbUMzb255WUgza3YxU1d1b01OTGNoa0h1NWoyaS0wU010VGlibzhaVFVhOW9lc2x1WHJ5TlFTUmhUTTlfb0JIMjlTLUdXZ3pxSl9aSnpoX1hDc21qUGhnR2tIMERLOFdYQW5oY0E"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "c149aa3034e0",
@@ -1621,6 +1643,23 @@
    "zh_summary": "住友电气为英伟达合作伙伴，业务多元化",
    "title_zh": "住友电气：英伟达合作伙伴，也布局非AI业务",
    "sentiment": 0
+  },
+  {
+   "id": "f374b9aa553f",
+   "title": "从英伟达到Google TPU，Oracle为何要把AI芯片全部摆上货架？ - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTFjWTZabkhKTnFJcXd4YXhiVDB1dDdYbHd0S2RMV2x2bFhqZ3dKRmdpNE1IQzVUSFpsdC1SN0cyRVR2N0hQSk1VZXp3b2dKcnBJU0ZGbGIzWWdhODZuYndFNGFoTXdjTE9RZ2RUeEh5NGhJNzhMYUVLc3RqTjJXUkxrQ0VWQnJ2aVVXMg",
+   "source": "搜狐网",
+   "published_at": "2026-10-28T10:47:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-28T10:47:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTFjWTZabkhKTnFJcXd4YXhiVDB1dDdYbHd0S2RMV2x2bFhqZ3dKRmdpNE1IQzVUSFpsdC1SN0cyRVR2N0hQSk1VZXp3b2dKcnBJU0ZGbGIzWWdhODZuYndFNGFoTXdjTE9RZ2RUeEh5NGhJNzhMYUVLc3RqTjJXUkxrQ0VWQnJ2aVVXMg"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "23b938540783",
@@ -6571,46 +6610,6 @@
    "zh_summary": "英伟达据称停接RTX 5090订单",
    "title_zh": "英伟达据称不再接受显卡厂商RTX 5090订单",
    "sentiment": -1
-  },
-  {
-   "id": "005007657e66",
-   "title": "Nvidia to invest $3 billion in Meta as social media giant plans to raise $95 billion for AI infrastructure expansion | Hindustan Times - Hindustan Times",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRmZtaEIwUi0zMGNVeDNMM3VONW5LQWo3TzFyM3VheVJoc09LeTFhUHlPb1lBa2NjVy1RN1VRbHJBbGRwZTdzaGVkck9xYWJPT0ZtV1Z3alpQcVdPcWdNdFVlWnQxZndOc3p3c3puSmJxWTluQm9YbUZ0YTZUbDhaR2cwRGlPQWl6ZWhJZDdQM2M2RjNVLWtkUzI2VFJPckZ4eENGcTk5aGZ0bk9QQ1dHNEstTmJDVlJORmlYQVFCRVphX0t0ZWxJNDhnWUQ1YndiRGlMTFRiX2tFaFpCdURpNmxudXpfNUljMVBFRlBCd3VnQlRQX1BEY24zcktJSy1lbUNTYVltd2lUZGdFbTJyM3FmSdIBmAJBVV95cUxQOXRIbm9uQ1h5Zmg1eEZSTHdLSjhxYnRSV2t1aXV3eGJLU0l1b0pmVlJ4ckR6T0o4UVZBVFc3eWpNNnhWQjcwaVNaYm1vSklpdTM3Vi1NYk1MZEJtUFRJTEtDYXROZ2lSQWd3NHI0VWJENGc1SEo0ZDFHVnR1dElwbVhoT2E0ZFQ5MTdkc2JCNENUNnM0eWZTU3p6UDN6N0hpWEMtX2NITThpbXhTekRqSDlJTVpvUkRZT3ROdnRyanl0bl9uMXo3cThOSXJNZ1pHSkUxTGlxNTVBVFFoMzR4STd6RExlN1VtVTJsYWVuWmQ2SHZGTDZkMWs5eFdEQ09CNDVCLTVlTU9zbkY2VXdmZFN2MnI5LXRN",
-   "source": "Hindustan Times",
-   "published_at": "2026-10-27T11:20:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Hindustan Times",
-     "published_at": "2026-10-27T11:20:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRmZtaEIwUi0zMGNVeDNMM3VONW5LQWo3TzFyM3VheVJoc09LeTFhUHlPb1lBa2NjVy1RN1VRbHJBbGRwZTdzaGVkck9xYWJPT0ZtV1Z3alpQcVdPcWdNdFVlWnQxZndOc3p3c3puSmJxWTluQm9YbUZ0YTZUbDhaR2cwRGlPQWl6ZWhJZDdQM2M2RjNVLWtkUzI2VFJPckZ4eENGcTk5aGZ0bk9QQ1dHNEstTmJDVlJORmlYQVFCRVphX0t0ZWxJNDhnWUQ1YndiRGlMTFRiX2tFaFpCdURpNmxudXpfNUljMVBFRlBCd3VnQlRQX1BEY24zcktJSy1lbUNTYVltd2lUZGdFbTJyM3FmSdIBmAJBVV95cUxQOXRIbm9uQ1h5Zmg1eEZSTHdLSjhxYnRSV2t1aXV3eGJLU0l1b0pmVlJ4ckR6T0o4UVZBVFc3eWpNNnhWQjcwaVNaYm1vSklpdTM3Vi1NYk1MZEJtUFRJTEtDYXROZ2lSQWd3NHI0VWJENGc1SEo0ZDFHVnR1dElwbVhoT2E0ZFQ5MTdkc2JCNENUNnM0eWZTU3p6UDN6N0hpWEMtX2NITThpbXhTekRqSDlJTVpvUkRZT3ROdnRyanl0bl9uMXo3cThOSXJNZ1pHSkUxTGlxNTVBVFFoMzR4STd6RExlN1VtVTJsYWVuWmQ2SHZGTDZkMWs5eFdEQ09CNDVCLTVlTU9zbkY2VXdmZFN2MnI5LXRN"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达拟向Meta投资30亿美元",
-   "title_zh": "英伟达拟向Meta投资30亿美元，Meta计划募资950亿美元扩建AI基建",
-   "sentiment": 1
-  },
-  {
-   "id": "7db76d142cd4",
-   "title": "Nvidia (NASDAQ:NVDA) to Invest $3 Billion in Meta (NASDAQ:META) Share Offering as AI Partnership Expands - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3p2ZDNFSE9sdnIwSWVWN1hTX2JaUzV0am9lNlNzS3VKbEpBbDRaWjRORlVOUjNSam9jdjF1anE1eVkzZlFUWTc5X0Y4VHJqaVd2anVKS09CQWNVSHliMUFkNERSbU1sOTZ2OUxOSW8tVmZlVEhrNjYwLUhUZVFVLVpxUmFkaXdyMVhlYU5jVk45NEY1VXc",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-27T11:19:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T11:19:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3p2ZDNFSE9sdnIwSWVWN1hTX2JaUzV0am9lNlNzS3VKbEpBbDRaWjRORlVOUjNSam9jdjF1anE1eVkzZlFUWTc5X0Y4VHJqaVd2anVKS09CQWNVSHliMUFkNERSbU1sOTZ2OUxOSW8tVmZlVEhrNjYwLUhUZVFVLVpxUmFkaXdyMVhlYU5jVk45NEY1VXc"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "英伟达拟向Meta增发投资30亿美元",
-   "title_zh": "英伟达拟投资Meta增发30亿美元，AI合作扩大",
-   "sentiment": 1
   }
  ]
 }
