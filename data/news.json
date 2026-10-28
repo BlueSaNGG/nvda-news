@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T22:21:44.065449+00:00",
+ "updated_at": "2026-10-28T22:36:35.431401+00:00",
  "market": {
   "price": 215.38,
   "change_pct": -1.17,
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.12,
-   "count": 163
+   "avg": 0.13,
+   "count": 165
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.12（163条已评分）"
+     "note": "今日新闻情绪 +0.13（165条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 46.3,
    "ma20": 223.79,
-   "as_of": "2026-10-28T22:21:44.052305+00:00"
+   "as_of": "2026-10-28T22:36:35.420700+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d061f8dd18d2",
+   "title": "NVDA Stock Edges Down On DOJ Interest In $12.9 Billion Hugging Face Acquisition - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BPemE4ZmVhMkhtWTBnRW5hZXp1SW5xSDhlUWJHR2padGpzcEdUUVZrcWkwZWZyR21hSzVDYWcwZ203OVlrTlE1am1kS0Y1aDVYUjZzamF4U2dGWE1yejJsLVczNVZIaFh4Mzl2R0o0V3Z3SktuSHlqYjZyczQ1X1Blb3p1a0ZQM2ozY3dQbTJLWDVhdFBHcDdOVW9ncUxIREdmb0NmY215QXpmRWswNHh2STR0R255bHlXd29mS05DN3RybHlRcWNXLVMyRllBQjlSSDNYQXNiUQ",
+   "source": "Stocktwits",
+   "published_at": "2026-10-28T22:28:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-28T22:28:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3BPemE4ZmVhMkhtWTBnRW5hZXp1SW5xSDhlUWJHR2padGpzcEdUUVZrcWkwZWZyR21hSzVDYWcwZ203OVlrTlE1am1kS0Y1aDVYUjZzamF4U2dGWE1yejJsLVczNVZIaFh4Mzl2R0o0V3Z3SktuSHlqYjZyczQ1X1Blb3p1a0ZQM2ozY3dQbTJLWDVhdFBHcDdOVW9ncUxIREdmb0NmY215QXpmRWswNHh2STR0R255bHlXd29mS05DN3RybHlRcWNXLVMyRllBQjlSSDNYQXNiUQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘后"
+  },
   {
    "id": "6cf5738937ce",
    "title": "SpaceX commits to $40B NVIDIA GPU lease for terrestrial AI buildout - R&D World",
@@ -80,6 +97,23 @@
    "zh_summary": "SpaceX租赁400亿美元英伟达GPU",
    "title_zh": "SpaceX承诺租赁400亿美元英伟达GPU建设地面AI",
    "sentiment": 2
+  },
+  {
+   "id": "e637aea99fdb",
+   "title": "Google parent's revenue jumps 25% as homegrown AI chips take on Nvidia - Nikkei Asia",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNem1SNUFLZmNVM1JIVkRoWDMtOFcyaXdFZTBBNjlNRm5Bc1JUUThtU2dMOUlub25QajE0UVBhVkdlYWhCakU1Q1luSFppT1VfeEpHU1dnaWYwT2tWUjdyWi1QOUJYdHNucHFtSXBUTUNHWklWRnRPMFlOTVNUc3NIcVB3SXBhZlprZ1Jud0NGUzhBQ2NIQjkxWXBsZzFZSjlZMkJhZjlWQ01XaGZfMGszTG9wZw",
+   "source": "Nikkei Asia",
+   "published_at": "2026-10-28T21:49:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Nikkei Asia",
+     "published_at": "2026-10-28T21:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNem1SNUFLZmNVM1JIVkRoWDMtOFcyaXdFZTBBNjlNRm5Bc1JUUThtU2dMOUlub25QajE0UVBhVkdlYWhCakU1Q1luSFppT1VfeEpHU1dnaWYwT2tWUjdyWi1QOUJYdHNucHFtSXBUTUNHWklWRnRPMFlOTVNUc3NIcVB3SXBhZlprZ1Jud0NGUzhBQ2NIQjkxWXBsZzFZSjlZMkJhZjlWQ01XaGZfMGszTG9wZw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
   },
   {
    "id": "439334996cc8",
@@ -120,6 +154,23 @@
    "zh_summary": "英伟达股价下跌1.2%",
    "title_zh": "英伟达股价下跌1.2%，是否应该卖出？",
    "sentiment": -1
+  },
+  {
+   "id": "2a404aaab58f",
+   "title": "Nvidia schedules Q3 fiscal 2027 earnings call for Nov. 17 - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdl9PNzROODU4S2R3TXdna0tYWGhsb2h1Ymd1MUlNc0VvR2M3NnRMaVppT0xYZGxlbVl1Qk5HY2NIWDJUd2VHZHRMWUVhV0s2MThBTko4RmtvVGhJV0Y2WGxFX1IwX0VfWlhrdGdTa3BTcjZpZmhJY241TTZOQjhTMlR3NG9XalI4S1pEemdVX1F3aEZDN2hOVUc2VW82bzBkdm9RU05lZUktbmlWNkNJdmF5dw",
+   "source": "Investing.com",
+   "published_at": "2026-10-28T21:21:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-10-28T21:21:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdl9PNzROODU4S2R3TXdna0tYWGhsb2h1Ymd1MUlNc0VvR2M3NnRMaVppT0xYZGxlbVl1Qk5HY2NIWDJUd2VHZHRMWUVhV0s2MThBTko4RmtvVGhJV0Y2WGxFX1IwX0VfWlhrdGdTa3BTcjZpZmhJY241TTZOQjhTMlR3NG9XalI4S1pEemdVX1F3aEZDN2hOVUc2VW82bzBkdm9RU05lZUktbmlWNkNJdmF5dw"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
   },
   {
    "id": "1882212b22c4",
@@ -6593,66 +6644,6 @@
    "zh_summary": "英伟达等有望再度跑赢大盘",
    "title_zh": "英伟达、美光与闪迪有望再度跑赢大盘",
    "sentiment": 1
-  },
-  {
-   "id": "7afc104a1a64",
-   "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark | NVIDIA Technical Blog - NVIDIA Developer",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNENrR3pnRjNOOWV1b2U0WS1qcXdhM3ZPcWlieGlEdmxvWVhsRWY3Zm1zUXVZQXNfYVE2cjFJd2w1X0hiUlBBYTJKSk1LR0R4ZTd0V1dtY0xHUk1MbVFJTW5HaGVpMHNWeFprdkFnZW1jdHBVaDczc1RRcXNkU1VYMFd1Z3d1eGJzbUY0aA",
-   "source": "NVIDIA Developer",
-   "published_at": "2026-10-27T15:02:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Developer",
-     "published_at": "2026-10-27T15:02:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNENrR3pnRjNOOWV1b2U0WS1qcXdhM3ZPcWlieGlEdmxvWVhsRWY3Zm1zUXVZQXNfYVE2cjFJd2w1X0hiUlBBYTJKSk1LR0R4ZTd0V1dtY0xHUk1MbVFJTW5HaGVpMHNWeFprdkFnZW1jdHBVaDczc1RRcXNkU1VYMFd1Z3d1eGJzbUY0aA"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "DGX Spark混合专家推理提速方法",
-   "title_zh": "提升英伟达DGX Spark混合专家推理的3种方法",
-   "sentiment": 1
-  },
-  {
-   "id": "41d2980e2374",
-   "title": "NVIDIA RTX Spark N1X N1X Brings 1 Petaflop AI to Laptops - Parametric Architecture",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5OXNleFpSUEJPMmI4RTktVjBDV1FOdms4SHB5R01lc0xyY25aTjlMbWZta19ETU5nQUM5a2RaOTVZSC1aMGs2RTJCM1hhUGNJY1ZEYXNjZkdQLVNfR2F3cC1ud2JlM0ZGVUVoc1h2ekFFVzJOUW9TYg",
-   "source": "Parametric Architecture",
-   "published_at": "2026-10-27T15:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Parametric Architecture",
-     "published_at": "2026-10-27T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5OXNleFpSUEJPMmI4RTktVjBDV1FOdms4SHB5R01lc0xyY25aTjlMbWZta19ETU5nQUM5a2RaOTVZSC1aMGs2RTJCM1hhUGNJY1ZEYXNjZkdQLVNfR2F3cC1ud2JlM0ZGVUVoc1h2ekFFVzJOUW9TYg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达RTX Spark带来1P笔记本AI算力",
-   "title_zh": "英伟达RTX Spark为笔记本带来1P AI算力",
-   "sentiment": 1
-  },
-  {
-   "id": "809a3a4b4ed1",
-   "title": "如何现在交易英伟达股票？ - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObTVsNXNmZTlHTWhJMDE4OGZSNEhWSW1RdHhLLW9oMmtaRGlGa01DcXd4M3pUQUliTkMwc1poNDBjY3pBUWdJMXhWUnFELWk1YUNONFVNcC1lZ29hTnI0TmhrWk9mVWNSNUIycUY2ME9oczFFeURTdTVWa1pBXzBGLWlnMHFnYXdkN0hKMFoyaw",
-   "source": "Moomoo",
-   "published_at": "2026-10-27T14:58:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-27T14:58:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObTVsNXNmZTlHTWhJMDE4OGZSNEhWSW1RdHhLLW9oMmtaRGlGa01DcXd4M3pUQUliTkMwc1poNDBjY3pBUWdJMXhWUnFELWk1YUNONFVNcC1lZ29hTnI0TmhrWk9mVWNSNUIycUY2ME9oczFFeURTdTVWa1pBXzBGLWlnMHFnYXdkN0hKMFoyaw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "如何现在交易英伟达股票",
-   "title_zh": "如何现在交易英伟达股票？ - Moomoo",
-   "sentiment": 0
   }
  ]
 }
