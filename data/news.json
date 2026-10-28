@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T03:51:31.707930+00:00",
+ "updated_at": "2026-10-28T04:06:29.147849+00:00",
  "market": {
   "price": 217.94,
   "change_pct": 0.9,
@@ -10,8 +10,8 @@
    "days_left": 21
   },
   "day_sentiment": {
-   "avg": 0.56,
-   "count": 269
+   "avg": 0.55,
+   "count": 271
   },
   "daily_signal": {
    "verdict": "偏多",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 1,
-     "note": "今日新闻情绪 +0.56（269条已评分）"
+     "note": "今日新闻情绪 +0.55（271条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 44.5,
    "ma20": 224.44,
-   "as_of": "2026-10-28T03:51:31.684318+00:00"
+   "as_of": "2026-10-28T04:06:29.138154+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "1bd9ffb7bbcb",
+   "title": "Apple Nibbles Away at Nvidia - The Daily Upside",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNck9lNUR1R2dIbjJzUktyN0FjYWNfY2pSUHlQbGJQYkZoei1ubFd4U3dUZWxsOU1uTWVOa0o4M1RfZHlHdFo0dEpFZnBrNGZ3eUxBTzB3WFRrSmJhSDB2NWtZcElIcW13Z2RXQzBDUzlBbk9yX1dGVnhwNFF0cUtlc3hqZWFjbEk",
+   "source": "The Daily Upside",
+   "published_at": "2026-10-28T04:02:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Daily Upside",
+     "published_at": "2026-10-28T04:02:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNck9lNUR1R2dIbjJzUktyN0FjYWNfY2pSUHlQbGJQYkZoei1ubFd4U3dUZWxsOU1uTWVOa0o4M1RfZHlHdFo0dEpFZnBrNGZ3eUxBTzB3WFRrSmJhSDB2NWtZcElIcW13Z2RXQzBDUzlBbk9yX1dGVnhwNFF0cUtlc3hqZWFjbEk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "67a8d5dfce51",
    "title": "OpenAI拟采购谷歌TPU，英伟达真会被撬动吗？ - 搜狐网",
@@ -492,10 +509,15 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWG4yWWNoTk85a0VzNWR5dnhLNTZUU3RmTVJWSnNJWmZta1FURTYxdXExMmR3ekxwVmRiUU9LaW40ellxb0JFWDJ1RHQ0c3JCSFlxSEF5UmZWNWJ5d2cyaVR5Vl9LMG1EODd2TjhuNnloRXotNzJDZGp5U3V0TXBLYTdhVW44TTlfdVFZUXRPS0ZWRVBQaDFHWVJZWkpqbE1MNUcydEZPckVqU1VBOWs4Tw",
    "source": "Bloomberg.com",
    "published_at": "2026-10-28T01:14:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Bloomberg.com",
+     "published_at": "2026-10-28T01:14:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWG4yWWNoTk85a0VzNWR5dnhLNTZUU3RmTVJWSnNJWmZta1FURTYxdXExMmR3ekxwVmRiUU9LaW40ellxb0JFWDJ1RHQ0c3JCSFlxSEF5UmZWNWJ5d2cyaVR5Vl9LMG1EODd2TjhuNnloRXotNzJDZGp5U3V0TXBLYTdhVW44TTlfdVFZUXRPS0ZWRVBQaDFHWVJZWkpqbE1MNUcydEZPckVqU1VBOWs4Tw"
+    },
+    {
+     "name": "Bloomberg",
      "published_at": "2026-10-28T01:14:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWG4yWWNoTk85a0VzNWR5dnhLNTZUU3RmTVJWSnNJWmZta1FURTYxdXExMmR3ekxwVmRiUU9LaW40ellxb0JFWDJ1RHQ0c3JCSFlxSEF5UmZWNWJ5d2cyaVR5Vl9LMG1EODd2TjhuNnloRXotNzJDZGp5U3V0TXBLYTdhVW44TTlfdVFZUXRPS0ZWRVBQaDFHWVJZWkpqbE1MNUcydEZPckVqU1VBOWs4Tw"
     }
@@ -548,12 +570,17 @@
   },
   {
    "id": "b4978c8895a1",
-   "title": "甲骨文扩大与英伟达的芯片供应合作，同时引入谷歌TPU和Cerebras芯片 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jTnBOa0Zudzd1OExscjJDemhEQWlxbVJLODY3VXRzZ3JOaTVTLXVfazdSeUxfSXY3Vkt0ZnRldllxQ2U3STRXN2UtX05UUi1oSmxabUZiRWR5aEdTTUN0REljT3JVMFJpTzdvdG5Mbm96bkVMamN6WnM1cVA",
-   "source": "新浪财经",
-   "published_at": "2026-10-28T00:34:13+00:00",
-   "outlets_count": 2,
+   "title": "甲骨文扩大与英伟达的芯片供应合作，同时引入谷歌TPU和Cerebras芯片 - 凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3MW5TMlZqNk9VSXFMYXZxZXVOZlNnUnhEd2pOTUxmOS1ZYzZ5aG5VSjktS0ZfVU1YUUdXNlNMV0kteVIwQlRBSnFEX3o",
+   "source": "凤凰网科技",
+   "published_at": "2026-10-28T00:31:31+00:00",
+   "outlets_count": 3,
    "outlets": [
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-28T00:31:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3MW5TMlZqNk9VSXFMYXZxZXVOZlNnUnhEd2pOTUxmOS1ZYzZ5aG5VSjktS0ZfVU1YUUdXNlNMV0kteVIwQlRBSnFEX3o"
+    },
     {
      "name": "新浪财经",
      "published_at": "2026-10-28T00:34:13+00:00",
@@ -2083,6 +2110,23 @@
    "zh_summary": "Meta与英伟达合作增强Muse AI",
    "title_zh": "Meta与英伟达合作增强Muse AI系列",
    "sentiment": 1
+  },
+  {
+   "id": "8c4d6c93d03d",
+   "title": "Meta and Nvidia Team on Better Muse Agents - PYMNTS.com",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGZHZzZSSFhXWktReHFYdXR0Nm5pSlZ4WFQ4MkJqTG9EdUNJMTBaWldaR3l6c05VRWhrOGcyVzdVQkFKZ1RubW5IQmk0akJfZ0x3YnJITXVRTjlJa0pOc2lUeEJIS3BPV2ZTT09wVVlRUG55dHdXUHlmaUtDVEJwSkRVRHloeE84LXRfbg",
+   "source": "PYMNTS.com",
+   "published_at": "2026-10-27T16:04:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PYMNTS.com",
+     "published_at": "2026-10-27T16:04:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGZHZzZSSFhXWktReHFYdXR0Nm5pSlZ4WFQ4MkJqTG9EdUNJMTBaWldaR3l6c05VRWhrOGcyVzdVQkFKZ1RubW5IQmk0akJfZ0x3YnJITXVRTjlJa0pOc2lUeEJIS3BPV2ZTT09wVVlRUG55dHdXUHlmaUtDVEJwSkRVRHloeE84LXRfbg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "231f60d4051a",
@@ -4368,26 +4412,6 @@
    "session": "盘前",
    "zh_summary": "MassMutual减持38584股英伟达",
    "title_zh": "MassMutual减持38584股英伟达股票",
-   "sentiment": -1
-  },
-  {
-   "id": "86112ac158c6",
-   "title": "NVIDIA Corporation $NVDA Stock Holdings Trimmed by Silverleafe Capital Partners LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg",
-   "source": "MarketBeat",
-   "published_at": "2026-10-27T09:12:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-27T09:12:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Silverleafe减持英伟达股份",
-   "title_zh": "Silverleafe减持NVDA股份",
    "sentiment": -1
   },
   {
@@ -6701,26 +6725,6 @@
    "zh_summary": "英伟达AI工厂部署时间缩至14天",
    "title_zh": "英伟达AI工厂将部署时间从6个月缩短至14天",
    "sentiment": 1
-  },
-  {
-   "id": "8c2c48e5051b",
-   "title": "Your AMD GPU Can Also Use Nvidia DLSS 5 Now - But There's A Catch - BGR",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GR0xDWm9PU3R0QXJFUV92a2dLTnFNV0ZOTW9XMWJ2dVJTV3JqZkpYTkZmN3M4MmIyUmRJOTY0VWZsVUQ3cFZaZm1lRjN5VGI1TUx5NGQyTXk4THVoN1EwREZiTWY",
-   "source": "BGR",
-   "published_at": "2026-10-26T23:17:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BGR",
-     "published_at": "2026-10-26T23:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GR0xDWm9PU3R0QXJFUV92a2dLTnFNV0ZOTW9XMWJ2dVJTV3JqZkpYTkZmN3M4MmIyUmRJOTY0VWZsVUQ3cFZaZm1lRjN5VGI1TUx5NGQyTXk4THVoN1EwREZiTWY"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "AMD显卡也能用英伟达DLSS 5",
-   "title_zh": "AMD显卡也能用英伟达DLSS 5，但有条件",
-   "sentiment": 0
   }
  ]
 }
