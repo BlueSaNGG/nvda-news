@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T16:21:30.949705+00:00",
+ "updated_at": "2026-10-28T16:36:31.408728+00:00",
  "market": {
-  "price": 216.78,
-  "change_pct": -0.53,
+  "price": 217.14,
+  "change_pct": -0.37,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -25,7 +25,7 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +45.3%"
+     "note": "目标价中位数 $315（17家），隐含空间 +45.1%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.78 vs 20日均线 $223.86"
+     "note": "现价 $217.14 vs 20日均线 $223.87"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 45.3,
-   "ma20": 223.86,
-   "as_of": "2026-10-28T16:21:30.936925+00:00"
+   "implied_upside_pct": 45.1,
+   "ma20": 223.87,
+   "as_of": "2026-10-28T16:36:31.397914+00:00"
   },
   "pe_ttm": 27.6,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.3%空间：估值偏低，预期乐观"
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "e0dd9a445d1f",
+   "title": "Google's AI chip business is getting harder for Nvidia to ignore - Business Insider",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnlfNWZHWG1qTGlIS3RYdFpDRXAySTlOeTRrakdlTm1iT2twOU9BcTJCSzE5YjA1c1EwRzBsQ1UtSjBDN2xndHBvT3hHWmgyb1c4SEVDdXJHV21XdHdNdmZheV9jcFNpdElidGJDWndjak5jMVhlV2NoY1NSY1VaVER1OHd5ekFJVHNYcVpRU1VTZWFpMkxTWnpIaHQwQUlkU3hsQ0JnYjg4QQ",
+   "source": "Business Insider",
+   "published_at": "2026-10-28T16:31:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Business Insider",
+     "published_at": "2026-10-28T16:31:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnlfNWZHWG1qTGlIS3RYdFpDRXAySTlOeTRrakdlTm1iT2twOU9BcTJCSzE5YjA1c1EwRzBsQ1UtSjBDN2xndHBvT3hHWmgyb1c4SEVDdXJHV21XdHdNdmZheV9jcFNpdElidGJDWndjak5jMVhlV2NoY1NSY1VaVER1OHd5ekFJVHNYcVpRU1VTZWFpMkxTWnpIaHQwQUlkU3hsQ0JnYjg4QQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "0296264a987a",
+   "title": "社区供稿 | 清华、英伟达等开了个新榜，38个AI实时视频模型露短板 - 智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tTFJMVnpmWTI4X0hxNkF2X3lnYl91SWlhb3A0T0hvRXF0VnlpWXVCaGp2cDVZOERxTHdvMk1iUDRmaENpZ2pRUA",
+   "source": "智源社区",
+   "published_at": "2026-10-28T16:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "智源社区",
+     "published_at": "2026-10-28T16:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1tTFJMVnpmWTI4X0hxNkF2X3lnYl91SWlhb3A0T0hvRXF0VnlpWXVCaGp2cDVZOERxTHdvMk1iUDRmaENpZ2pRUA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "5905df29b82b",
    "title": "NVIDIA Expands Open-Weight Model Family with Nemotron 3.5 Audio Transcription and Translation Release - oodaloop.com",
@@ -125,6 +159,23 @@
    "zh_summary": "更多厂商推出搭载英伟达RTX Spark笔记本",
    "title_zh": "更多厂商将英伟达RTX Spark笔记本纳入产品线",
    "sentiment": 1
+  },
+  {
+   "id": "f4e0d98515f4",
+   "title": "NVIDIA Launches Open-Weight Speech Model and 463,062-Hour Audio Dataset - Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFBVYk1JSkZEYUk2OXhlakhFd1plZlB4NUY1ZmRHQzBsVEpBRzNIbElVODgxWUVkV3c0cDV3MXR6VHhGU0xkMWx0Z2dWSDkwLTBlN1ZWbjJBQUFxbXdaZnBOQVRJNWlzQm1aTHlFb0FYLU9xODZtQzA2ZVktSTM0NUdfMDctaDNnTHhxSXhfMWlXMmJYa05CbA",
+   "source": "Unite.AI",
+   "published_at": "2026-10-28T15:45:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Unite.AI",
+     "published_at": "2026-10-28T15:45:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFBVYk1JSkZEYUk2OXhlakhFd1plZlB4NUY1ZmRHQzBsVEpBRzNIbElVODgxWUVkV3c0cDV3MXR6VHhGU0xkMWx0Z2dWSDkwLTBlN1ZWbjJBQUFxbXdaZnBOQVRJNWlzQm1aTHlFb0FYLU9xODZtQzA2ZVktSTM0NUdfMDctaDNnTHhxSXhfMWlXMmJYa05CbA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "6d822842c998",
@@ -460,7 +511,7 @@
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45YzFUaC01RFpabEE2cVhfVGIzQVZSOXFtekY2cEtSRHkySVh6eUdDZ3ZHTjlMREdEelFBQWl6OXZ0MmVWTDZoRjkyY2cyZWoyY2xMWDEyNFJxSjNhNEN6Z3kxYnhzZjBfb0l5WXlRMmlpcVFsaTltd2pCRQ",
    "source": "Comics Gaming Magazine",
    "published_at": "2026-10-28T15:00:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Comics Gaming Magazine",
@@ -471,13 +522,22 @@
      "name": "NVIDIA Blog",
      "published_at": "2026-10-28T15:09:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGFweEYxT3RjZUtNTkQ4QjVUSGVKRGhBSWRZMGlQNXBKd05JcDdtY0NiWEd5dmxSaDBQYlpJMVFLOE8tM29yOTZaZWhCQjRpREpJeHJUUDMxZG41QW5IYWlMSGxyU0hGdlFGbnA2OGVxa09VT3RrTEJuaFlrN0tRZzNXZl80Uko1dGZuYnFR"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-28T15:36:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT2JuR0FyVDNBMVRzWGVjcEFSdGZ6XzBHTVhwSHQ4OW9lZS1wOHVxaVFKYmMxSDRGMjA3MDF3cXFCaG0yLW1aS3p4c25Mblk3ellUNXB3dmZZTU1LSFhmYzN4SVFJU0ctVnBtQVBoU1dIYlpOdGMyYmxXWGJrZDZhLThPeGg2cHNrWktXUERPTnJuQ2kwMHNVamZkVC1Bc045cmFsQkFXT1psN0tVeVotVFRYVk5OX294WVROaHM2bFEwX1Jwc2hIRzZWZFhSdw"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "RTX Spark笔记本新增AI模型工具",
    "title_zh": "英伟达RTX Spark笔记本新增AI模型与创作工具",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.36,
+    "window_h": 1.6
+   }
   },
   {
    "id": "ccfb6c1702fb",
@@ -6546,71 +6606,6 @@
    "session": "盘前",
    "zh_summary": "道富科技ETF于10月23日卖出英伟达",
    "title_zh": "道富科技ETF于10月23日卖出英伟达与苹果",
-   "sentiment": -1
-  },
-  {
-   "id": "b01f9b3d2922",
-   "title": "What Invesco NASDAQ 100 ETF (QQQM) Bought: NVIDIA Leads on Oct. 23 - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObUY2U3RrcUVEVGdPSWNMeldRYUk2X0pFN1NWS05QM1BLUmx1LXFYa2tRYUlScmZIUXhDN3BraGdVZTBOaDh4MTZoQzk5NFZfb2RTTGZ5VEIxYWpaY1JvTmM1MDJIMGtGVXNKc3ZsTmhfYlBpYW4xLVF1LWNISlVxNzNwWmM2Q2dpNVZIZmt2N0JydGpqZFI0",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-27T11:04:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T11:04:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObUY2U3RrcUVEVGdPSWNMeldRYUk2X0pFN1NWS05QM1BLUmx1LXFYa2tRYUlScmZIUXhDN3BraGdVZTBOaDh4MTZoQzk5NFZfb2RTTGZ5VEIxYWpaY1JvTmM1MDJIMGtGVXNKc3ZsTmhfYlBpYW4xLVF1LWNISlVxNzNwWmM2Q2dpNVZIZmt2N0JydGpqZFI0"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "QQQM买入英伟达居首",
-   "title_zh": "QQQM基金10月23日买入以英伟达为首",
-   "sentiment": 1
-  },
-  {
-   "id": "04503734fa4e",
-   "title": "INVESCO QQQ (QQQ) Adds NVIDIA and Apple on Oct. 23 - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaXI3LVhuYmVoUDFuN0R2OTRuTFdHbWR6b3RMOFgzVnRxNkZnVjdORWs2ZWt4NVVUcEd2NHIyTzFKWWU3YktndHhQZDFzcWFtQzZ5eWxybzFCLVNmeHoxXzQzd1U4V1lfZEVZYm92Wmw3SnMyeU1KUS10NnA3c2RVaXBIOEhVaVljblhGSHhOLVRuWWNHTUVn",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-27T11:04:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T11:04:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaXI3LVhuYmVoUDFuN0R2OTRuTFdHbWR6b3RMOFgzVnRxNkZnVjdORWs2ZWt4NVVUcEd2NHIyTzFKWWU3YktndHhQZDFzcWFtQzZ5eWxybzFCLVNmeHoxXzQzd1U4V1lfZEVZYm92Wmw3SnMyeU1KUS10NnA3c2RVaXBIOEhVaVljblhGSHhOLVRuWWNHTUVn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "景顺QQQ于10月23日增持英伟达",
-   "title_zh": "景顺QQQ于10月23日增持英伟达和苹果",
-   "sentiment": 1
-  },
-  {
-   "id": "a2f3af15f382",
-   "title": "ETFs Are Net Sellers of NVIDIA (NVDA) on Oct. 23 - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEJPRFZtT2h5TFdxZFBQVzBsOXlxX1prcWJHLTliS29yWjZOblQ1ZlVYWkJvZzVibm1xRFNiTlJQNVBuZmgyTWRBTkFiRG9VeThpQlRaQ3NqUUdDMlFUb0h2NHM3ZWxqR1VsLXNKUU5wcDh2QkZHRGd5R09UQ3UyOHhDQkdwWUVKYWtScy1qQmVsSC11LTh2Vg",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-27T11:02:33+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T11:02:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEJPRFZtT2h5TFdxZFBQVzBsOXlxX1prcWJHLTliS29yWjZOblQ1ZlVYWkJvZzVibm1xRFNiTlJQNVBuZmgyTWRBTkFiRG9VeThpQlRaQ3NqUUdDMlFUb0h2NHM3ZWxqR1VsLXNKUU5wcDh2QkZHRGd5R09UQ3UyOHhDQkdwWUVKYWtScy1qQmVsSC11LTh2Vg"
-    },
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-27T11:26:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDU3UkpYcWhSbFVTOUZ1NGpES2hWMFdyTkpEeFp2QmYxVGVtbmtuUm9rTmloQk5jd0gxeWRVd1ZlYjBhOHNOYzFoa1NkVEFjcXRHMC01SmtGWWV4MVBfTVRLRWdVeVFQUkM5SU5oZk9ZeURFZGpJeGNTdHduUWpFU2JvZ01Fbkk5Z1BFYQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "ETF于10月23日净卖出英伟达",
-   "title_zh": "ETF于10月23日净卖出英伟达股票",
    "sentiment": -1
   }
  ]
