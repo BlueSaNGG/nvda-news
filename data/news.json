@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T20:06:33.637854+00:00",
+ "updated_at": "2026-10-28T20:21:38.850834+00:00",
  "market": {
   "price": 215.38,
   "change_pct": -1.17,
@@ -10,12 +10,12 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.17,
-   "count": 137
+   "avg": 0.15,
+   "count": 143
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.17（137条已评分）"
+     "note": "今日新闻情绪 +0.15（143条已评分）"
     },
     {
      "key": "动量",
@@ -39,8 +39,8 @@
     },
     {
      "key": "分析师动向",
-     "score": 1,
-     "note": "近14天 1 家上调 / 0 家下调"
+     "score": 0,
+     "note": "近14天无分析师动作"
     }
    ],
    "price_52w_pct": 68,
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 46.3,
    "ma20": 223.79,
-   "as_of": "2026-10-28T20:06:33.626654+00:00"
+   "as_of": "2026-10-28T20:21:38.836184+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
@@ -61,6 +61,74 @@
   }
  },
  "stories": [
+  {
+   "id": "547899167602",
+   "title": "官宣！英伟达：CPO光引擎产能将提高15倍 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVXhTNHJpa1J4dW1PeVVLb29EODl0RlBGbGJ2SXl4OVg2OVp3ZF95cW1FZDY4X21NYWxHci04RHByeXhCaUhQWFpOX1J6ZVVKUnk5MUNYbnJBdHlDSk1Vd3hUbzdnT2lOZU1fanhlX3ZFaVExdVljemVzY3V0WWppeVVwZ0JUMHZp",
+   "source": "搜狐网",
+   "published_at": "2026-10-28T20:14:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-28T20:14:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVXhTNHJpa1J4dW1PeVVLb29EODl0RlBGbGJ2SXl4OVg2OVp3ZF95cW1FZDY4X21NYWxHci04RHByeXhCaUhQWFpOX1J6ZVVKUnk5MUNYbnJBdHlDSk1Vd3hUbzdnT2lOZU1fanhlX3ZFaVExdVljemVzY3V0WWppeVVwZ0JUMHZp"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "94a37d2b1163",
+   "title": "The DOJ is reportedly looking into Nvidia’s Hugging Face acquisition. - The Verge",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0RYQWd3V3l0NV9tU19QVWdGWkxpVHV6dTJBaTJuZmJJblhBaUhIVG1QSnNJeVNpRnl6TmNwN1pDSGgwVW5YZnk4eU1oNDJmNGtLNmI1Y290NEFtOGtpRmcxVm85S0hwanBmODFrcmladXZaNHd3WWplSXU1VGJWOEo4NWMtMkRyc2l6T0tCVnNRMGhNSFc2bm8xYzJaRWo3Q0dFWGJPLUc",
+   "source": "The Verge",
+   "published_at": "2026-10-28T20:13:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Verge",
+     "published_at": "2026-10-28T20:13:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0RYQWd3V3l0NV9tU19QVWdGWkxpVHV6dTJBaTJuZmJJblhBaUhIVG1QSnNJeVNpRnl6TmNwN1pDSGgwVW5YZnk4eU1oNDJmNGtLNmI1Y290NEFtOGtpRmcxVm85S0hwanBmODFrcmladXZaNHd3WWplSXU1VGJWOEo4NWMtMkRyc2l6T0tCVnNRMGhNSFc2bm8xYzJaRWo3Q0dFWGJPLUc"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘后"
+  },
+  {
+   "id": "fdd8e4009162",
+   "title": "NVIDIA (NVDA) Deepens AI Infrastructure Push With New Digital Twin And Agent Deals - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1BMNmlvWG5CbGROcHlzaC1UOWs1UHp1aVlyMks0NkpPQ3p1eXRsV2NYVkV1a3NvTTZXYlBvcDdORUdITGJwVDNaRUhJbnRWWm9KYXN6WGd0a0RXQk83c0EybTM4MmIwbEZSRmpLbGFlMlc5UVI5VTN2VDBaLW9RdGo5M0ZrdDdMWW1iMkN5ZElzTUxnSjcyMVMxMDdCTWpmQjBR",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-28T20:05:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T20:05:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1BMNmlvWG5CbGROcHlzaC1UOWs1UHp1aVlyMks0NkpPQ3p1eXRsV2NYVkV1a3NvTTZXYlBvcDdORUdITGJwVDNaRUhJbnRWWm9KYXN6WGd0a0RXQk83c0EybTM4MmIwbEZSRmpLbGFlMlc5UVI5VTN2VDBaLW9RdGo5M0ZrdDdMWW1iMkN5ZElzTUxnSjcyMVMxMDdCTWpmQjBR"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
+  {
+   "id": "a159296140ea",
+   "title": "Nvidia Rival AMD Scores Major Win in Meta's AI Race - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUExQU1FSFlsRU5mVk9BSFNSdkk3Q1JQRy1tLUhROVJEQ2MtMmlJdnR0U1IwNHRkTDZLSThmbHVCTE9rRWZwYkUyeFBaZHMzZHVYeTJDLUhIeGl6WmlBekdVejcwSjRxdjZ2NFBidVI3QmI0WmFvWmRzY0VNbHBRcUhHY0RJX0FSUW9tSGN2VEpNUl9vNG5iNw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-28T19:57:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T19:57:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUExQU1FSFlsRU5mVk9BSFNSdkk3Q1JQRy1tLUhROVJEQ2MtMmlJdnR0U1IwNHRkTDZLSThmbHVCTE9rRWZwYkUyeFBaZHMzZHVYeTJDLUhIeGl6WmlBekdVejcwSjRxdjZ2NFBidVI3QmI0WmFvWmRzY0VNbHBRcUhHY0RJX0FSUW9tSGN2VEpNUl9vNG5iNw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "16158a844479",
    "title": "15倍之后再看30倍：英伟达CPO扩产，AI互连进入规模交付前夜 - 搜狐网",
@@ -2720,26 +2788,6 @@
    "sentiment": -1
   },
   {
-   "id": "59f70a6cbddf",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by Moody National Bank Trust Division - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3ZENXBPOHdXZ3VKelJzck0xSERWTXA3eHJCU2hHZ0JKTDEzTktRZFplVmJaY0Y3U1RZb1A2LVJMN1drV0ZpYUlIemVPeERCMW9yRDNnNnhKcE0ydWE1a2g3TDZhY1pyQUIzOWViZ2dfa0dPMUhRLUVNcUJEemJWMWI3ZWUtcG5qUldwUlFSQVNqdTRXRHVEallfYlNUN1duQUdNenByN0VOc25qTzBjazdJMUc0Z2JfTGRWVktMQzNDVHF0cnh0TWZtWWs2SVU",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T08:41:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T08:41:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3ZENXBPOHdXZ3VKelJzck0xSERWTXA3eHJCU2hHZ0JKTDEzTktRZFplVmJaY0Y3U1RZb1A2LVJMN1drV0ZpYUlIemVPeERCMW9yRDNnNnhKcE0ydWE1a2g3TDZhY1pyQUIzOWViZ2dfa0dPMUhRLUVNcUJEemJWMWI3ZWUtcG5qUldwUlFSQVNqdTRXRHVEallfYlNUN1duQUdNenByN0VOc25qTzBjazdJMUc0Z2JfTGRWVktMQzNDVHF0cnh0TWZtWWs2SVU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "穆迪国民银行信托部门减持英伟达",
-   "title_zh": "穆迪国民银行信托部门出售NVDA股票",
-   "sentiment": 0
-  },
-  {
    "id": "c6662c5e4a39",
    "title": "NVIDIA Corporation $NVDA Stock Holdings Decreased by Legacy Private Trust Co. - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHdqNjRtXzczeWI4VDVmbVlUZTk1ZWZqYXhxcjM1TzdIRTZMQ2E0X2xFNUFiM0FPczZwZ0liLURwaHlyREZVVXU4NFZRd3FweElyNm1mc3JWMXV4YUh0c0VNWUctcDlUSm8yeWVjWkotbzJkcjI4OXZwT1VCRzgzNzEwaVlWNUg2eThXYjZtRzRiUkVQam50c1BnbWtfWUdUbmU2dk1CemUza1AtRFZud3pwUXZGVWRoTmRfMVFnT2hjWjNsREZIUEdmZXhKXzJxMWc",
@@ -2758,6 +2806,23 @@
    "zh_summary": "Legacy Private Trust减持英伟达",
    "title_zh": "Legacy Private Trust减持英伟达股票",
    "sentiment": 0
+  },
+  {
+   "id": "79f1abea3cea",
+   "title": "NVIDIA Corporation $NVDA Stock Purchased by Paladin Partners LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ",
+   "source": "MarketBeat",
+   "published_at": "2026-10-28T08:41:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-28T08:41:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "2539fd4422c8",
@@ -2832,6 +2897,26 @@
     "pct": -0.18,
     "window_h": 0.1
    }
+  },
+  {
+   "id": "4b0f488325d6",
+   "title": "NVIDIA Corporation $NVDA Shares Sold by Eleva Capital SAS - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnBrQUFtRHhhenh2dDdrUHBHOVV2TkhjbHFBQzFiV05MNzA1enZUd210c1hEbC1UVURpSEJSUHR5bERQVG9PZmhSd1Y4OEoxSVJDM2xnbXpQckMyZlhUalpiWjNrbFBSR2hLRG8tWHVsTC03WXhTWmoyLTJ3NENtZnVqTnFuZGNKRnBMUlJteFY1SU1aUGpqeG8teHF1S21EZUxFcEllelJJUFE1X1NjSk14elpSNWg3",
+   "source": "MarketBeat",
+   "published_at": "2026-10-28T08:01:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-28T08:01:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnBrQUFtRHhhenh2dDdrUHBHOVV2TkhjbHFBQzFiV05MNzA1enZUd210c1hEbC1UVURpSEJSUHR5bERQVG9PZmhSd1Y4OEoxSVJDM2xnbXpQckMyZlhUalpiWjNrbFBSR2hLRG8tWHVsTC03WXhTWmoyLTJ3NENtZnVqTnFuZGNKRnBMUlJteFY1SU1aUGpqeG8teHF1S21EZUxFcEllelJJUFE1X1NjSk14elpSNWg3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "穆迪国民银行信托部门减持英伟达",
+   "title_zh": "穆迪国民银行信托部门出售NVDA股票",
+   "sentiment": 0
   },
   {
    "id": "6e3d34e94a42",
@@ -4472,6 +4557,28 @@
    "zh_summary": "英伟达与Meta扩大Muse模型合作",
    "title_zh": "英伟达与Meta扩大Muse系列模型合作",
    "sentiment": 1
+  },
+  {
+   "id": "bbc119119a72",
+   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwR3dOYjE3WFNiWHJyVlFBM0NSRklETno5Mjh3YjFQbEhXVDNuU2FQWURiX2pPWjhXUjhkLURpSWE2X0hNZFVSb1RyNUxoX09HZ3c",
+   "source": "Yahoo Finance Singapore",
+   "published_at": "2026-10-27T22:56:30+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance Singapore",
+     "published_at": "2026-10-27T22:56:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwR3dOYjE3WFNiWHJyVlFBM0NSRklETno5Mjh3YjFQbEhXVDNuU2FQWURiX2pPWjhXUjhkLURpSWE2X0hNZFVSb1RyNUxoX09HZ3c"
+    },
+    {
+     "name": "Yahoo Finance Australia",
+     "published_at": "2026-10-28T09:46:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "62dfc1eb5879",
@@ -6513,132 +6620,6 @@
    "zh_summary": "NVDA平盘交易，203.82美元支撑受关注",
    "title_zh": "英伟达股价预测：203.82美元支撑受关注，NVDA平盘交易",
    "sentiment": 0
-  },
-  {
-   "id": "2a89af56a565",
-   "title": "英伟达近日创下历史新高，但其股价走势却陷入困境 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBX2t0NnBEU2lKZWxnNURPdW5DbjFrSkl2bVBhLTFDelNLTVNMU3F0MXgwYW5rZEIxbDNIY3JsUlptak9tYnl2eGsyQzlBNGgxQk5OMGRxYWQ5aWJP",
-   "source": "Moomoo",
-   "published_at": "2026-10-27T13:50:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-27T13:50:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBX2t0NnBEU2lKZWxnNURPdW5DbjFrSkl2bVBhLTFDelNLTVNMU3F0MXgwYW5rZEIxbDNIY3JsUlptak9tYnl2eGsyQzlBNGgxQk5OMGRxYWQ5aWJP"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达股价创历史新高后走势受困",
-   "title_zh": "英伟达近日创下历史新高，但其股价走势却陷入困境 - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "50321b79b822",
-   "title": "Wayve, Stellantis, NVIDIA Collaborate on Autonomous Vehicles in France - Fuel Cells Works",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX3MxQjhfdGRNclQ0QnNRenVlZ183TTZjRkt1ODdJNS1zUWJySUZxaVlBN1RwYmduZV9IUFNoeVJtRVc5UVNqeHgyM1FyVXA4RzNjV1dQTkE2QmNucVl3ZTRiUDRua01pV2VTNVN1X1hPbXdNeTFYTllIamVfUVRjOEpINWVUTk1JTkdVQjNBV2RPN19aZjdKMVMzTjd6aTR3Z0hZbXN0bzhzeGFGdGhoUGR4RzhldVBYNzBFV1BwYkN3RUdLc1pSbjRTQlZkU1Z0Z1pWRWJGYzZMZGRRTGUxTDZyczlmeWdrekZ6bnBrSEdJemZf",
-   "source": "Fuel Cells Works",
-   "published_at": "2026-10-27T13:41:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Fuel Cells Works",
-     "published_at": "2026-10-27T13:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOX3MxQjhfdGRNclQ0QnNRenVlZ183TTZjRkt1ODdJNS1zUWJySUZxaVlBN1RwYmduZV9IUFNoeVJtRVc5UVNqeHgyM1FyVXA4RzNjV1dQTkE2QmNucVl3ZTRiUDRua01pV2VTNVN1X1hPbXdNeTFYTllIamVfUVRjOEpINWVUTk1JTkdVQjNBV2RPN19aZjdKMVMzTjd6aTR3Z0hZbXN0bzhzeGFGdGhoUGR4RzhldVBYNzBFV1BwYkN3RUdLc1pSbjRTQlZkU1Z0Z1pWRWJGYzZMZGRRTGUxTDZyczlmeWdrekZ6bnBrSEdJemZf"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Wayve与Stellantis英伟达合作自动驾驶",
-   "title_zh": "Wayve、Stellantis与英伟达在法国合作自动驾驶汽车",
-   "sentiment": 1
-  },
-  {
-   "id": "74c03874ed59",
-   "title": "Meta gets $3 billion from Nvidia as they team up to make Muse AI faster and cheaper to run - TechSpot",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaDk3YU9wLXVDS1BrcHZrYU5pckRoZEhvUXlGbEl2YnZ5LWRuek1fTDBuaE1ZTGNvajlSM0lVQTh6by16QU91SWNZSndTUUtEbFZqRmJVcHU3ZWNaWkYwNTVEM0RHVnZHM1JfNmhEX001UVBkRTY3OFFEWWxpaURQM0l2QTRkdGxyZExGTEJkZw",
-   "source": "TechSpot",
-   "published_at": "2026-10-27T13:41:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechSpot",
-     "published_at": "2026-10-27T13:41:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaDk3YU9wLXVDS1BrcHZrYU5pckRoZEhvUXlGbEl2YnZ5LWRuek1fTDBuaE1ZTGNvajlSM0lVQTh6by16QU91SWNZSndTUUtEbFZqRmJVcHU3ZWNaWkYwNTVEM0RHVnZHM1JfNmhEX001UVBkRTY3OFFEWWxpaURQM0l2QTRkdGxyZExGTEJkZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Meta获英伟达30亿美元投资",
-   "title_zh": "Meta获英伟达30亿美元投资，合作加速Muse AI运行",
-   "sentiment": 1
-  },
-  {
-   "id": "620b0a8c5f5f",
-   "title": "Meta and Nvidia's AI Partnership and breaking down Anthropic's IPO - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdm1lQlRrNUZfV0VzcmFNSW1fMURyNGMzenJWanM2WkFyUnctckRwYW0xSzZONVNUcFZsVFpNcXhKN1ZXTnlLZTktNmJOZlI1SWdvak1odXV4bVBXTGh6Q1JPclE0RmFwb2FoU01Fa3lOUWx5QWQ1LXpyS3NMSVgzV1BuVmRGbTYtb1hRVnVaQ2ktRUR6ek5FWlBwZVhManlxYUkyajI2RWNhbUU1TWp0dg",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-27T13:38:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T13:38:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdm1lQlRrNUZfV0VzcmFNSW1fMURyNGMzenJWanM2WkFyUnctckRwYW0xSzZONVNUcFZsVFpNcXhKN1ZXTnlLZTktNmJOZlI1SWdvak1odXV4bVBXTGh6Q1JPclE0RmFwb2FoU01Fa3lOUWx5QWQ1LXpyS3NMSVgzV1BuVmRGbTYtb1hRVnVaQ2ktRUR6ek5FWlBwZVhManlxYUkyajI2RWNhbUU1TWp0dg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Meta与英伟达AI合作引关注",
-   "title_zh": "Meta与英伟达的AI合作及Anthropic IPO解析",
-   "sentiment": 0
-  },
-  {
-   "id": "b1e78ab4ac80",
-   "title": "英伟达与Meta扩大Muse系列模型合作 后者将扩大部署Vera Rubin - 观点网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DZjBoQmRrS2Jya3RqYXZJN25jbFd5eHJfU19nTFlPRmFNRDJXQVN5MGN2a2tGVnN2R1pQNW1mQkhIR1Y1SlpiaWVhNldoWWhnRzlETGp6cENkLUdsZGhOSUN3",
-   "source": "观点网",
-   "published_at": "2026-10-27T13:31:56+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "观点网",
-     "published_at": "2026-10-27T13:31:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DZjBoQmRrS2Jya3RqYXZJN25jbFd5eHJfU19nTFlPRmFNRDJXQVN5MGN2a2tGVnN2R1pQNW1mQkhIR1Y1SlpiaWVhNldoWWhnRzlETGp6cENkLUdsZGhOSUN3"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达与Meta扩大Muse模型合作",
-   "title_zh": "英伟达与Meta扩大Muse系列模型合作，后者扩大部署Vera Rubin",
-   "sentiment": 1
-  },
-  {
-   "id": "bdf5fa242d8b",
-   "title": "Broadcom Rises 3% on DA Davidson Upgrade and $400 Target Tied to Anthropic IPO; NVIDIA and AMD Edge Higher - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTWc1OERHME1fZTZOWUVoaVJDbWtSeGNWQ3ZRb0hsY0NxMzZmVmk2dGcxem5yVk5PaXlYTW9jRTI0eFBNZktaOWJuLXM0REowUXFabXdhU2twa3pUbkVxRjRsVDJNQ1R0UlZQZV9jN1RHOUV6TWlVUTVVM0ZZVjFJTU80MXZzZy1jSEQ4a0ZGTmhaa0N2TlBqWTNkVDZQN2VGX2JMQXV2VGpSeDVrbGlfX0FuZ3dEMWl1aGRRYm04UWViSTJDZ3ZwNkpoeUhxLWFmWmpGYi1SM3VhZFVqekxEWg",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-27T13:28:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-27T13:28:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTWc1OERHME1fZTZOWUVoaVJDbWtSeGNWQ3ZRb0hsY0NxMzZmVmk2dGcxem5yVk5PaXlYTW9jRTI0eFBNZktaOWJuLXM0REowUXFabXdhU2twa3pUbkVxRjRsVDJNQ1R0UlZQZV9jN1RHOUV6TWlVUTVVM0ZZVjFJTU80MXZzZy1jSEQ4a0ZGTmhaa0N2TlBqWTNkVDZQN2VGX2JMQXV2VGpSeDVrbGlfX0FuZ3dEMWl1aGRRYm04UWViSTJDZ3ZwNkpoeUhxLWFmWmpGYi1SM3VhZFVqekxEWg"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "analyst": {
-    "firm": "DA Davidson",
-    "action": "上调",
-    "target": "$400",
-    "rating": null
-   },
-   "zh_summary": "博通获升级目标价400美元，英伟达微涨",
-   "title_zh": "博通获升级涨3%目标价400美元，英伟达AMD微涨",
-   "sentiment": 1
   }
  ]
 }
