@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T18:06:32.843083+00:00",
+ "updated_at": "2026-10-28T18:21:38.578305+00:00",
  "market": {
-  "price": 216.78,
-  "change_pct": -0.53,
+  "price": 216.7,
+  "change_pct": -0.57,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 119
+   "avg": 0.24,
+   "count": 118
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +45.3%"
+     "note": "目标价中位数 $315（17家），隐含空间 +45.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（119条已评分）"
+     "note": "今日新闻情绪 +0.24（118条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $216.78 vs 20日均线 $223.85"
+     "note": "现价 $216.70 vs 20日均线 $223.85"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 45.3,
+   "implied_upside_pct": 45.4,
    "ma20": 223.85,
-   "as_of": "2026-10-28T18:06:32.826903+00:00"
+   "as_of": "2026-10-28T18:21:38.563430+00:00"
   },
-  "pe_ttm": 27.6,
+  "pe_ttm": 27.5,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.3%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -80,6 +80,23 @@
    "zh_summary": "预测英伟达2027年底股价走势",
    "title_zh": "预测英伟达2027年底股价走势",
    "sentiment": 0
+  },
+  {
+   "id": "4d94758e3208",
+   "title": "英伟达与Meta扩大Muse模型合作 - QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56dl9UdFg2djduRU44XzRnQ1R6XzB6RlpyZW5YWDdqU0lla0xXNk0zRm9CN3dJejVySHhMbEZFSjVTMzQ3MVZLcDFiVHhrM2NiOXJkVS1R",
+   "source": "QQ News",
+   "published_at": "2026-10-28T17:39:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "QQ News",
+     "published_at": "2026-10-28T17:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56dl9UdFg2djduRU44XzRnQ1R6XzB6RlpyZW5YWDdqU0lla0xXNk0zRm9CN3dJejVySHhMbEZFSjVTMzQ3MVZLcDFiVHhrM2NiOXJkVS1R"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "8804d4323a06",
@@ -147,12 +164,17 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kM2FUNzhEYVZyczlwQ3E3azQ1RExOdzlVeE1Ia0Fua19WbGNndGozSEFYT0ZSNDdTOTFhckI5djItR2Mtb2MwY3pCcHQ0ZDc5ZTUwQVg5RllDb0tmTDNCYkVKbXMxQ3F0akx4ejJ6eWRhaXdJLXc",
    "source": "SQ Magazine",
    "published_at": "2026-10-28T16:49:26+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "SQ Magazine",
      "published_at": "2026-10-28T16:49:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kM2FUNzhEYVZyczlwQ3E3azQ1RExOdzlVeE1Ia0Fua19WbGNndGozSEFYT0ZSNDdTOTFhckI5djItR2Mtb2MwY3pCcHQ0ZDc5ZTUwQVg5RllDb0tmTDNCYkVKbXMxQ3F0akx4ejJ6eWRhaXdJLXc"
+    },
+    {
+     "name": "The Next Web",
+     "published_at": "2026-10-28T17:35:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZUNkSjNIRFE5aGxHOWJPeGNoc1hYLTlnRjhDNHZNWVhVYW8zaTZSdzJrU3A2OUM5TUppNEM4VVpRd2d3SzNRbzFrczVBd3d3Z19jYVpjd0xmYkhPVTQ3M1JQYUd1R0VldXhUWDg1cXNPSk1icVQ3WmZwMmQ4bDFsX3NhTldIcERD"
     }
    ],
    "category": "其他",
@@ -552,26 +574,6 @@
    "session": "盘中",
    "zh_summary": "英伟达或被低估22%，源于甲骨文等合作",
    "title_zh": "英伟达或被低估22%，甲骨文Meta与施耐德交易推动",
-   "sentiment": 1
-  },
-  {
-   "id": "a47b19ca7e8f",
-   "title": "英伟达推出本地AI语音模型 RTX Spark新增模型与智能体工具支持 - 金融界",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKa0x3dzhUNHg1OWxSaXktZ2dOUE1PS1I0SUh1bVJ0bGlMbktNZVdSQXM4US1PeTI3XzhURkJmNkZZOGo3UmYzVkI5UVFVRS0yNzU5MzFPdHFld1ZSX2VxaVVHSHFuMWxfVURVcllNUQ",
-   "source": "金融界",
-   "published_at": "2026-10-28T15:08:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "金融界",
-     "published_at": "2026-10-28T15:08:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKa0x3dzhUNHg1OWxSaXktZ2dOUE1PS1I0SUh1bVJ0bGlMbktNZVdSQXM4US1PeTI3XzhURkJmNkZZOGo3UmYzVkI5UVFVRS0yNzU5MzFPdHFld1ZSX2VxaVVHSHFuMWxfVURVcllNUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达推出本地AI语音模型",
-   "title_zh": "英伟达推出本地AI语音模型，RTX Spark新增工具支持",
    "sentiment": 1
   },
   {
@@ -2013,6 +2015,23 @@
    "sentiment": 1
   },
   {
+   "id": "5131d85f3c94",
+   "title": "算力 “芯” 动向｜被削弱的不是英伟达的地位，而是它定价的方式 - www.doit.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yM0FnLTR3TGtaN0RHY2dKanFwTVA4Um1sN2FONVBZOS00MnlVOFJON1NvSmZiOUFzU2JQaTJfSnJPcUVycXMtVklmRkljTktWcWY4LVl2eUV5MjA",
+   "source": "www.doit.com.cn",
+   "published_at": "2026-10-28T09:40:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "www.doit.com.cn",
+     "published_at": "2026-10-28T09:40:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yM0FnLTR3TGtaN0RHY2dKanFwTVA4Um1sN2FONVBZOS00MnlVOFJON1NvSmZiOUFzU2JQaTJfSnJPcUVycXMtVklmRkljTktWcWY4LVl2eUV5MjA"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
    "id": "489fce936df2",
    "title": "SK Hynix, Nvidia and Micron send one clear message to investors with their stocks off the highs - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOG1VS2oyRGs5WkYxbmREb0l6WTJ4TTB3cm9lM2VZTVRTOGt3QmpQQ2hoc2ZHV3htd1JPMWFSd0VmWVY3UVRYZzhOLWtuSWU1Ry1ha1NWOGxDcnI2WEJEQXdiZmpMN042Vi11NmZlckRYVUlUdWEwc0hiYnFLdi1lN2pTYlRJWEREY3ByTTJ6bjdXWVJvbDNEVVB0SzhsRWpuNU53NklQeGVRQ2RYUEJQT2dKZDMtQWN0Z3hZem94RzVOdFpQOTNMc0hlR1J3MDVaUmllUDg0b3ZKZWVHWUVmMjRzbzJ5dF9ONVdtY1pvOA",
@@ -2178,26 +2197,6 @@
    "sentiment": -1
   },
   {
-   "id": "79f1abea3cea",
-   "title": "NVIDIA Corporation $NVDA Stock Purchased by Paladin Partners LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T08:41:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T08:41:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Paladin Partners买入英伟达股票",
-   "title_zh": "Paladin Partners买入英伟达股票",
-   "sentiment": 1
-  },
-  {
    "id": "c6662c5e4a39",
    "title": "NVIDIA Corporation $NVDA Stock Holdings Decreased by Legacy Private Trust Co. - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHdqNjRtXzczeWI4VDVmbVlUZTk1ZWZqYXhxcjM1TzdIRTZMQ2E0X2xFNUFiM0FPczZwZ0liLURwaHlyREZVVXU4NFZRd3FweElyNm1mc3JWMXV4YUh0c0VNWUctcDlUSm8yeWVjWkotbzJkcjI4OXZwT1VCRzgzNzEwaVlWNUg2eThXYjZtRzRiUkVQam50c1BnbWtfWUdUbmU2dk1CemUza1AtRFZud3pwUXZGVWRoTmRfMVFnT2hjWjNsREZIUEdmZXhKXzJxMWc",
@@ -2216,6 +2215,23 @@
    "zh_summary": "Legacy Private Trust减持英伟达",
    "title_zh": "Legacy Private Trust减持英伟达股票",
    "sentiment": -1
+  },
+  {
+   "id": "59f70a6cbddf",
+   "title": "NVIDIA Corporation $NVDA Shares Sold by Moody National Bank Trust Division - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3ZENXBPOHdXZ3VKelJzck0xSERWTXA3eHJCU2hHZ0JKTDEzTktRZFplVmJaY0Y3U1RZb1A2LVJMN1drV0ZpYUlIemVPeERCMW9yRDNnNnhKcE0ydWE1a2g3TDZhY1pyQUIzOWViZ2dfa0dPMUhRLUVNcUJEemJWMWI3ZWUtcG5qUldwUlFSQVNqdTRXRHVEallfYlNUN1duQUdNenByN0VOc25qTzBjazdJMUc0Z2JfTGRWVktMQzNDVHF0cnh0TWZtWWs2SVU",
+   "source": "MarketBeat",
+   "published_at": "2026-10-28T08:41:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-28T08:41:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3ZENXBPOHdXZ3VKelJzck0xSERWTXA3eHJCU2hHZ0JKTDEzTktRZFplVmJaY0Y3U1RZb1A2LVJMN1drV0ZpYUlIemVPeERCMW9yRDNnNnhKcE0ydWE1a2g3TDZhY1pyQUIzOWViZ2dfa0dPMUhRLUVNcUJEemJWMWI3ZWUtcG5qUldwUlFSQVNqdTRXRHVEallfYlNUN1duQUdNenByN0VOc25qTzBjazdJMUc0Z2JfTGRWVktMQzNDVHF0cnh0TWZtWWs2SVU"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "2539fd4422c8",
@@ -2290,26 +2306,6 @@
     "pct": -0.18,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "4b0f488325d6",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by Eleva Capital SAS - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnBrQUFtRHhhenh2dDdrUHBHOVV2TkhjbHFBQzFiV05MNzA1enZUd210c1hEbC1UVURpSEJSUHR5bERQVG9PZmhSd1Y4OEoxSVJDM2xnbXpQckMyZlhUalpiWjNrbFBSR2hLRG8tWHVsTC03WXhTWmoyLTJ3NENtZnVqTnFuZGNKRnBMUlJteFY1SU1aUGpqeG8teHF1S21EZUxFcEllelJJUFE1X1NjSk14elpSNWg3",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T08:01:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T08:01:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnBrQUFtRHhhenh2dDdrUHBHOVV2TkhjbHFBQzFiV05MNzA1enZUd210c1hEbC1UVURpSEJSUHR5bERQVG9PZmhSd1Y4OEoxSVJDM2xnbXpQckMyZlhUalpiWjNrbFBSR2hLRG8tWHVsTC03WXhTWmoyLTJ3NENtZnVqTnFuZGNKRnBMUlJteFY1SU1aUGpqeG8teHF1S21EZUxFcEllelJJUFE1X1NjSk14elpSNWg3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Moody National Bank卖出英伟达",
-   "title_zh": "Moody National Bank信托部门卖出英伟达股份",
-   "sentiment": -1
   },
   {
    "id": "6e3d34e94a42",
@@ -3424,6 +3420,31 @@
    "session": "盘后",
    "zh_summary": "印度投资者涌向英伟达等美股",
    "title_zh": "印度投资者涌向英伟达、SpaceX、苹果 本地交易应用开放美股交易 - 币界网",
+   "sentiment": 1
+  },
+  {
+   "id": "a47b19ca7e8f",
+   "title": "英伟达推出本地AI语音模型 RTX Spark新增模型与智能体工具支持 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tWVEtX0lpMGRDdTBqVjFabWg2ZXN3TVd2VldiUHgtTzcwV1VKazdlZXhNdTNHYWd6NDJMZzhhSG5KRTIzalpyQWhrQUYxX1hvQ19tOHBBRk9xYlVSZGxjVDJwdw",
+   "source": "东方财富",
+   "published_at": "2026-10-28T00:17:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-28T00:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tWVEtX0lpMGRDdTBqVjFabWg2ZXN3TVd2VldiUHgtTzcwV1VKazdlZXhNdTNHYWd6NDJMZzhhSG5KRTIzalpyQWhrQUYxX1hvQ19tOHBBRk9xYlVSZGxjVDJwdw"
+    },
+    {
+     "name": "金融界",
+     "published_at": "2026-10-28T15:08:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKa0x3dzhUNHg1OWxSaXktZ2dOUE1PS1I0SUh1bVJ0bGlMbktNZVdSQXM4US1PeTI3XzhURkJmNkZZOGo3UmYzVkI5UVFVRS0yNzU5MzFPdHFld1ZSX2VxaVVHSHFuMWxfVURVcllNUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "英伟达推出本地AI语音模型",
+   "title_zh": "英伟达推出本地AI语音模型，RTX Spark新增工具支持",
    "sentiment": 1
   },
   {
@@ -6595,26 +6616,6 @@
    "session": "盘前",
    "zh_summary": "美股盘前小幅走高，聚焦英伟达投资Meta",
    "title_zh": "周二美市盘前小幅走高 聚焦英伟达在Meta Platforms的投资",
-   "sentiment": 1
-  },
-  {
-   "id": "65766c0d31b0",
-   "title": "Nvidia Backs a $100M Startup Claiming a 56% GPU Cost Cut - FourWeekMBA",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGN3RC1qSVBMREZuVWVhMWgzcy11aEVaNG5rU292TW1BZVk5ejVFaU4wQ0ZSVkcwaEZTQmlKYWp2dlZRYVRmVVRkUVZmUG1GY2J3VjJHMmFEb1V2UGNtTkNqZlBWSUpieTNsckZ4a1BmWUZhVjFUSFJPc2JXYlBjRGlGXzhSSlIxOXc",
-   "source": "FourWeekMBA",
-   "published_at": "2026-10-27T11:38:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FourWeekMBA",
-     "published_at": "2026-10-27T11:38:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGN3RC1qSVBMREZuVWVhMWgzcy11aEVaNG5rU292TW1BZVk5ejVFaU4wQ0ZSVkcwaEZTQmlKYWp2dlZRYVRmVVRkUVZmUG1GY2J3VjJHMmFEb1V2UGNtTkNqZlBWSUpieTNsckZ4a1BmWUZhVjFUSFJPc2JXYlBjRGlGXzhSSlIxOXc"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达支持宣称降本56%的初创公司",
-   "title_zh": "英伟达支持一家宣称GPU成本降56%的1亿美元初创公司",
    "sentiment": 1
   }
  ]
