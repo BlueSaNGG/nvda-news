@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T12:06:30.791103+00:00",
+ "updated_at": "2026-10-28T12:21:33.427622+00:00",
  "market": {
   "price": 217.94,
   "change_pct": 0.9,
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.03,
-   "count": 40
+   "avg": 0.0,
+   "count": 42
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.03（40条已评分）"
+     "note": "今日新闻情绪 +0.00（42条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 44.5,
    "ma20": 224.44,
-   "as_of": "2026-10-28T12:06:30.777947+00:00"
+   "as_of": "2026-10-28T12:21:33.412359+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "3997f830316a",
+   "title": "Nvidia Partner Vertiv Soars After AI Data Center Play's Blowout Earnings, Strong Guidance - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNDZPY1d5Sks1YmYybHAyUTBMdFRrMkFTaThYc1huMm5uOVExWXhwbWgzY1J3b2YxQ1p0TUdvRUlVTTZZNXBvRm02UUdqSGltYlFtMUNGUkZiNzMwMV80ZjZlazVMODJZcUFqVEpYaTVfY19XbHpqcGU0SThVek9DY2NnbGZLOEoxcjR5Vg",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-10-28T12:14:45+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-10-28T12:14:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNDZPY1d5Sks1YmYybHAyUTBMdFRrMkFTaThYc1huMm5uOVExWXhwbWgzY1J3b2YxQ1p0TUdvRUlVTTZZNXBvRm02UUdqSGltYlFtMUNGUkZiNzMwMV80ZjZlazVMODJZcUFqVEpYaTVfY19XbHpqcGU0SThVek9DY2NnbGZLOEoxcjR5Vg"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
   {
    "id": "6aef1b9da3ba",
    "title": "Nvidia RTX GPU vendor Palit denies its Galax factory has closed due to a shortage of chips — company says brand 'continues to operate as usual' - Tom's Hardware",
@@ -80,6 +97,23 @@
    "zh_summary": "帕利特否认影驰工厂因缺芯关闭",
    "title_zh": "帕利特否认影驰工厂因芯片短缺关闭",
    "sentiment": 0
+  },
+  {
+   "id": "beea26f4ff51",
+   "title": "'We'll be out of business': Jensen Huang bet his last dollars on a chip he never held in his hands — and it saved Nvidia - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGhTVzlvUXpFNVAxalkwa0l6UVlDZTV3b2Z1Nk4tRDdpWGgzdlE4WWQ5RWFNVGtMc0VXWU5Hcld3Z3JxajJlQ3lkeEpjUUJwUUJ6X3draDZXNGFsTWc2YV9vZnJWb3BpN2VFUWx6a1NxYmQtOUpweGhKMy1BWm1WQi1rR0k1OGZMTTc1UkdvX3I4U19DRkJXRkh1SQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-28T11:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T11:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGhTVzlvUXpFNVAxalkwa0l6UVlDZTV3b2Z1Nk4tRDdpWGgzdlE4WWQ5RWFNVGtMc0VXWU5Hcld3Z3JxajJlQ3lkeEpjUUJwUUJ6X3draDZXNGFsTWc2YV9vZnJWb3BpN2VFUWx6a1NxYmQtOUpweGhKMy1BWm1WQi1rR0k1OGZMTTc1UkdvX3I4U19DRkJXRkh1SQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "6efbff27d3c1",
@@ -347,6 +381,23 @@
    "sentiment": 0
   },
   {
+   "id": "84033b8c09a5",
+   "title": "Siemens and Nvidia advance AI-powered PCB inspection from digital twin to factory - Robotics & Automation News",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVDFpRF9nNkVKZGhHelFMa2pDX3hDUVZGQUVjRnNVbEhReWVjX3VlZFJtT25Db1NIbW1sWjJveVZWTmJ6OGFqMzJPQ05PSXJ4UVBzdmwwQ3I1UzFWX3lZUmFxQUhvc3FqQ0FzT20tNUdVUjR5alJqQjk1VmhlQkdJVWtHWVVEckNTTjhCdTdxZHhOUVhxYVRYTXMzY1BUbVBJbFk0WDNTcEo4UzVQWFNndlJuY1RGRVNhM2dDUmF2YUJsV0oySHJFVnJDakRxbGxoUmFNNg",
+   "source": "Robotics & Automation News",
+   "published_at": "2026-10-28T10:34:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Robotics & Automation News",
+     "published_at": "2026-10-28T10:34:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVDFpRF9nNkVKZGhHelFMa2pDX3hDUVZGQUVjRnNVbEhReWVjX3VlZFJtT25Db1NIbW1sWjJveVZWTmJ6OGFqMzJPQ05PSXJ4UVBzdmwwQ3I1UzFWX3lZUmFxQUhvc3FqQ0FzT20tNUdVUjR5alJqQjk1VmhlQkdJVWtHWVVEckNTTjhCdTdxZHhOUVhxYVRYTXMzY1BUbVBJbFk0WDNTcEo4UzVQWFNndlJuY1RGRVNhM2dDUmF2YUJsV0oySHJFVnJDakRxbGxoUmFNNg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "70fbda82bbc3",
    "title": "Wave of PHP2Shell-style flaws coming, Nvidia security exec predicts - TechTarget",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVhhb2lzSlNJMVBJSW5pb2pPc0pXZGhsRXRzM3ZHZ3c0blRmeWc1a1l0Q1ItUjhSQlozM1FxOFZWcGkzRWp5MXdWbDA2MG9lMUFLd1Fwamo2dUQzQ3Z1a1hIMUp2WklMc0N5bHdZWlpSdk5mY2FRTDhaU3FCRERfNDlGZ1JvUDBDUlZPMTBnT3QwQ3ZtVHZZY3h0TWNuZ3BBY28xRWZsWUR2dw",
@@ -609,46 +660,6 @@
    "session": "盘前",
    "zh_summary": "Moody National Bank卖出英伟达",
    "title_zh": "Moody National Bank信托部门卖出英伟达股份",
-   "sentiment": -1
-  },
-  {
-   "id": "79f1abea3cea",
-   "title": "NVIDIA Corporation $NVDA Stock Purchased by Paladin Partners LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T08:41:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T08:41:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Paladin Partners买入英伟达股票",
-   "title_zh": "Paladin Partners买入英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "c6662c5e4a39",
-   "title": "NVIDIA Corporation $NVDA Stock Holdings Decreased by Legacy Private Trust Co. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHdqNjRtXzczeWI4VDVmbVlUZTk1ZWZqYXhxcjM1TzdIRTZMQ2E0X2xFNUFiM0FPczZwZ0liLURwaHlyREZVVXU4NFZRd3FweElyNm1mc3JWMXV4YUh0c0VNWUctcDlUSm8yeWVjWkotbzJkcjI4OXZwT1VCRzgzNzEwaVlWNUg2eThXYjZtRzRiUkVQam50c1BnbWtfWUdUbmU2dk1CemUza1AtRFZud3pwUXZGVWRoTmRfMVFnT2hjWjNsREZIUEdmZXhKXzJxMWc",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T08:41:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T08:41:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHdqNjRtXzczeWI4VDVmbVlUZTk1ZWZqYXhxcjM1TzdIRTZMQ2E0X2xFNUFiM0FPczZwZ0liLURwaHlyREZVVXU4NFZRd3FweElyNm1mc3JWMXV4YUh0c0VNWUctcDlUSm8yeWVjWkotbzJkcjI4OXZwT1VCRzgzNzEwaVlWNUg2eThXYjZtRzRiUkVQam50c1BnbWtfWUdUbmU2dk1CemUza1AtRFZud3pwUXZGVWRoTmRfMVFnT2hjWjNsREZIUEdmZXhKXzJxMWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Legacy Private Trust减持",
-   "title_zh": "Legacy Private Trust减持英伟达股份",
    "sentiment": -1
   },
   {
@@ -5726,6 +5737,26 @@
    "sentiment": -1
   },
   {
+   "id": "86112ac158c6",
+   "title": "NVIDIA Corporation $NVDA Stock Holdings Trimmed by Silverleafe Capital Partners LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg",
+   "source": "MarketBeat",
+   "published_at": "2026-10-27T09:12:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-27T09:12:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "Paladin Partners买入英伟达股票",
+   "title_zh": "Paladin Partners买入英伟达股票",
+   "sentiment": 1
+  },
+  {
    "id": "fdca1036e83c",
    "title": "Nvidia To Invest $3 Billion Into Meta As AI Race Intensifies - NDTV Profit",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbndWcnBMUndQT1F4bU8zeXdiQmdFYTIwX3gxSVlYaGQ3UU1HY2FpSDg2VVd4Ui1GTjNnVkRPZzdDMGg3TFF1VGVxVVNPLThFZFppZEVZMlEtSGt6NlVDaVgweGJ2NUIxMnVURW5MVDNlN0NBTndiVXlwSW5qRURBSzU3cXpBMGtWRms2X04tSXM4ZUxRZmhkN1Y5Q3lsU3V6SVV3QXlvY9IBrwFBVV95cUxPbjZnNmlhOFR0eTB2cHA3dEd4NmF0TEpQWVUwc2lQcWVqSmNQNk1icHhIc0lZbFhjbzdmZzhoazUwUm9tTXRrZDE1ZGU3WllOUkV0d1M4X3pTTzI1SG5Ja283ZzdPSXRjS0FfMU5kNFlkYXBQak5qMmFUbEU0Umt5RmNrSDhfbzlPUEFGR0ZZZ2ltSG5hQlk3dnBuMlJONDBCbVM3ejZmYjZ1Y1RJLWN3",
@@ -6543,64 +6574,40 @@
    "sentiment": 1
   },
   {
-   "id": "48adf7b7f95a",
-   "title": "Key facts: NVIDIA Corporation $96.2B; Meta deal; GPU rental spikes - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdHJsUWoxUl9RN1A2TllDWmFKWG4weURCbk95UHZoa0hwcmZxQkFlaGpET3ZJc1NNTEhSMmRaVzhHbnBNYVRZVnlfUWZmMkJfSURwaEF3aUpPNHBTcnM1U3F1TzJURW5tY2xCVDRMN0QzU1pOZVJHOTZZWk52NlNIeTFNRTJIekVheFBRZDdvNWd3SDRaSXhTaVBEMzhMRzdqb2wxY2JQdVkxbWZwdEVFeEMwUWw4RmRTWDNBdWFKTEYtdw",
-   "source": "TradingView",
-   "published_at": "2026-10-27T07:00:00+00:00",
-   "outlets_count": 1,
+   "id": "9a759d1f5981",
+   "title": "Nvidia to Invest $3 Billion in Meta’s Equity Offering as They Expand AI Partnership - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVBNdzlMTTN3TWNmZmkyRFNZREhOcThOQWhMRk14VWlReXF4LW5DR2hsSjJneG1JeEdQM0VmX2tPNHJrVXdrdHhZbURadXZMdXczRkxjakpQbWFGQzBGX0lMN09mc0hQamNGX21PUnFNNDliVHZuQi02YWhucmE1SEVPcG5nSGc2aktVRUo5T1hpaEZtSnJyQTZDdHFGaXVTN1FyeU04U0YyaU5rcEZKbkhvTVdoMXFNMVE",
+   "source": "WSJ",
+   "published_at": "2026-10-27T07:01:00+00:00",
+   "outlets_count": 4,
    "outlets": [
     {
-     "name": "TradingView",
-     "published_at": "2026-10-27T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdHJsUWoxUl9RN1A2TllDWmFKWG4weURCbk95UHZoa0hwcmZxQkFlaGpET3ZJc1NNTEhSMmRaVzhHbnBNYVRZVnlfUWZmMkJfSURwaEF3aUpPNHBTcnM1U3F1TzJURW5tY2xCVDRMN0QzU1pOZVJHOTZZWk52NlNIeTFNRTJIekVheFBRZDdvNWd3SDRaSXhTaVBEMzhMRzdqb2wxY2JQdVkxbWZwdEVFeEMwUWw4RmRTWDNBdWFKTEYtdw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达962亿美元，Meta交易与GPU租赁激增",
-   "title_zh": "英伟达962亿美元，Meta交易与GPU租赁激增",
-   "sentiment": 1
-  },
-  {
-   "id": "60b87deaf08b",
-   "title": "SpaceX、美光、英伟达、台积电、Cerebras、慧与：期权汇总 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVndFc3A3WmZIVWo0ajM2NVVHTEV3cUp4dlhOaTVldTlwQU50RDN5LWk0QmpXMC1kVndSYW80Mk52UkNnM3o5NmVycEszc3NveU9IdUJ5MUI1ZE9UXzI1emhhOFVNZXlFdjA0NS1ZcUZoU2ZPeU1fQzBvSHFXNXVlWUpBam5tc0ZtdklIOFFwdnRtYmE4R1pZS3RCeVJhdmRSWE5KaWd2SW5rT3M0MExnT3ZpSQ",
-   "source": "Moomoo",
-   "published_at": "2026-10-27T07:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
+     "name": "WSJ",
+     "published_at": "2026-10-27T07:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVBNdzlMTTN3TWNmZmkyRFNZREhOcThOQWhMRk14VWlReXF4LW5DR2hsSjJneG1JeEdQM0VmX2tPNHJrVXdrdHhZbURadXZMdXczRkxjakpQbWFGQzBGX0lMN09mc0hQamNGX21PUnFNNDliVHZuQi02YWhucmE1SEVPcG5nSGc2aktVRUo5T1hpaEZtSnJyQTZDdHFGaXVTN1FyeU04U0YyaU5rcEZKbkhvTVdoMXFNMVE"
+    },
     {
-     "name": "Moomoo",
-     "published_at": "2026-10-27T07:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVndFc3A3WmZIVWo0ajM2NVVHTEV3cUp4dlhOaTVldTlwQU50RDN5LWk0QmpXMC1kVndSYW80Mk52UkNnM3o5NmVycEszc3NveU9IdUJ5MUI1ZE9UXzI1emhhOFVNZXlFdjA0NS1ZcUZoU2ZPeU1fQzBvSHFXNXVlWUpBam5tc0ZtdklIOFFwdnRtYmE4R1pZS3RCeVJhdmRSWE5KaWd2SW5rT3M0MExnT3ZpSQ"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "多家公司期权交易汇总",
-   "title_zh": "SpaceX等公司期权汇总",
-   "sentiment": 0
-  },
-  {
-   "id": "8ce4e92c10e9",
-   "title": "Nvidia, Meta partner on Muse agent as Nvidia invests $3 billion By Reuters - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFR0UHBMaHJWdUhFcFhXQTN3bWYwX09oUlR1Zng4QkQ0bGJtNlVGSWNvSnl3X1ZSREF2YWtqZldleGpWeG5ERnBQZjJ2amQzTEpkY0pVS1l1bEJZa3lzTUJnWTc1cGk0aVJYOW1UQ2RnN0twaE9rbm1Na3F6bjQxaDA4UU9QaTBNZ3NWc2ZnVVFZMHlSVjhOb2ZRMGsyVFFtOEd5SmwybkRnal9QZm5FcmhPb3lJS25MZmc",
-   "source": "Investing.com",
-   "published_at": "2026-10-27T06:54:38+00:00",
-   "outlets_count": 1,
-   "outlets": [
+     "name": "CNBC",
+     "published_at": "2026-10-27T08:40:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN"
+    },
     {
-     "name": "Investing.com",
-     "published_at": "2026-10-27T06:54:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFR0UHBMaHJWdUhFcFhXQTN3bWYwX09oUlR1Zng4QkQ0bGJtNlVGSWNvSnl3X1ZSREF2YWtqZldleGpWeG5ERnBQZjJ2amQzTEpkY0pVS1l1bEJZa3lzTUJnWTc1cGk0aVJYOW1UQ2RnN0twaE9rbm1Na3F6bjQxaDA4UU9QaTBNZ3NWc2ZnVVFZMHlSVjhOb2ZRMGsyVFFtOEd5SmwybkRnal9QZm5FcmhPb3lJS25MZmc"
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-27T12:52:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFVwN1hfQVhaWm9LZkY0bERYY0JtOVBtR2dSSHV4T1c0eU91TjN6WXAwTHNvZmhnQlpkUENkSGhYT21aNWlBWjM0dXNFSHp5andOeTlKRzhDN3NremU5QzhTdDlRMThvMGZFck02ZnUtRWIybmloSTJPVnktWlVSRWdOZ1c3QWY3bk1GVUN1YWx4aExfRnJ4b2VtNlFia0wtVWNQZE5mcl9Ld2JUT3g5X1FRT1lYSUVpVWc"
+    },
+    {
+     "name": "Axios",
+     "published_at": "2026-10-27T14:54:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4WWFCR1ItajdJSVpLRVB2U0FhNVRSRG1YMTBxSVRJeEYtZUNZVnFGa2RPd0NCN3M0RjRmQUpRUUhCYjBkRFQxVW1IS0RvMXMzdGN2YWdWVUlZN3RKdVRFeVUtLVNTZE5pUlJDZw"
     }
    ],
    "category": "其他",
    "session": "盘前",
-   "zh_summary": "英伟达与Meta合作Muse智能体并投资30亿美元",
-   "title_zh": "英伟达与Meta合作Muse智能体，投资30亿美元",
-   "sentiment": 1
+   "price_reaction": {
+    "pct": -0.4,
+    "window_h": 2.0
+   }
   }
  ]
 }
