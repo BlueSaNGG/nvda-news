@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T11:06:33.404637+00:00",
+ "updated_at": "2026-10-28T11:21:32.174296+00:00",
  "market": {
   "price": 217.94,
   "change_pct": 0.9,
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 30
+   "avg": 0.06,
+   "count": 33
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（30条已评分）"
+     "note": "今日新闻情绪 +0.06（33条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 44.5,
    "ma20": 224.44,
-   "as_of": "2026-10-28T11:06:33.388142+00:00"
+   "as_of": "2026-10-28T11:21:32.158464+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "80acd1d14324",
+   "title": "Nvidia Stock Faces a Test From Its Biggest AI Chip Rival - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3BUbE1JVUhsMjRDT1V5LUY3RlMyTmJEM0JpVHdoLTdzdjJFOHFiSTdhNHVHRlRUMVJGN1JOUlFpZDd4SDRCNHUzQjYxN2tIRUgyVzQ3RnVlcmpCVE9wajJqcE5SNWpERU9ScHdwb3A2NHlGU29tc2lZR2lVWmxFTU1DdlNHczQ",
+   "source": "Barron's",
+   "published_at": "2026-10-28T11:07:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-28T11:07:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3BUbE1JVUhsMjRDT1V5LUY3RlMyTmJEM0JpVHdoLTdzdjJFOHFiSTdhNHVHRlRUMVJGN1JOUlFpZDd4SDRCNHUzQjYxN2tIRUgyVzQ3RnVlcmpCVE9wajJqcE5SNWpERU9ScHdwb3A2NHlGU29tc2lZR2lVWmxFTU1DdlNHczQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "61d67eef8f17",
    "title": "Nvidia and Oracle bring Vera CPU instances online in multi-gigawatt deployment - Tom's Hardware",
@@ -80,6 +97,23 @@
    "zh_summary": "英伟达甲骨文Vera实例上线，达多吉瓦规模",
    "title_zh": "英伟达与甲骨文上线Vera CPU实例，部署达多吉瓦规模",
    "sentiment": 1
+  },
+  {
+   "id": "1608886f98e0",
+   "title": "Nvidia Admits Vera Rubin Isn't as Powerful as It Originally Claimed - ExtremeTech",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHRBWDZ4ek96SDROVnotUHFqV3BINVlxdFhYQ1V5UmhLUjEycmhYMDFNSnVFd2d2RnVnb2Y4TExPaTc3cS1XMHExV2duSzI4WDVGZmJiV3liYUo0bk5EZU01NlRXbExINy1PYXMzY0RRNkNoTjRiTDRJaFY1WkV3S2trR3dHcHNDaGxnTGs0amlmMTBpdHhuc292dFJPN2xvcWw5NmFqSQ",
+   "source": "ExtremeTech",
+   "published_at": "2026-10-28T11:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "ExtremeTech",
+     "published_at": "2026-10-28T11:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHRBWDZ4ek96SDROVnotUHFqV3BINVlxdFhYQ1V5UmhLUjEycmhYMDFNSnVFd2d2RnVnb2Y4TExPaTc3cS1XMHExV2duSzI4WDVGZmJiV3liYUo0bk5EZU01NlRXbExINy1PYXMzY0RRNkNoTjRiTDRJaFY1WkV3S2trR3dHcHNDaGxnTGs0amlmMTBpdHhuc292dFJPN2xvcWw5NmFqSQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "fa48c27237ee",
@@ -140,6 +174,23 @@
    "zh_summary": "英伟达探讨AI扩展物理约束",
    "title_zh": "DCD访谈：英伟达谈AI扩展的物理约束",
    "sentiment": 0
+  },
+  {
+   "id": "538a818bd8ee",
+   "title": "Phantom Blade Zero Gets a 5 GB Day One Patch That Improves Ray Tracing Performance, but S-Game Warns Against New NVIDIA Drivers - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1NacHRZaWVJQlAycFlrZUdsb3VXaFJCOTdUQk16ckxRLXBlU1hRUUhkMEZoc3NoQTdVZS02ZVhwczRXblFyV3A4a1N0QllWZTBMVkMzekNjME93RVVmdjktYTdIbXVSeTVFNkRmbHptUUNLRWJXYm9fZjdPUFhkT1BfQWpuZFhuaDFqZlZHNEN0X0J5QUlPV0tEOEZNd9IBowFBVV95cUxPdF93TkVwQ1dneWlBc3g0ckRVRmNOSEoyNFNfajNwTEUybTZVZ3Fndmg3SWplWUU3c2VhbnJxcFVIZjZHbFA3aWdIRmlfWmxhUXRZYm9RMW9xSUhaUXBBbDFKMnFseWg0UldqVWluV1BIbFpSeGplUTNaeXBGcFdNVE4zcUhERld5OGo5aVlLNm1Qa1lwZTlob1M2eGhyNS1iMFkw",
+   "source": "Wccftech",
+   "published_at": "2026-10-28T10:37:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-28T10:37:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1NacHRZaWVJQlAycFlrZUdsb3VXaFJCOTdUQk16ckxRLXBlU1hRUUhkMEZoc3NoQTdVZS02ZVhwczRXblFyV3A4a1N0QllWZTBMVkMzekNjME93RVVmdjktYTdIbXVSeTVFNkRmbHptUUNLRWJXYm9fZjdPUFhkT1BfQWpuZFhuaDFqZlZHNEN0X0J5QUlPV0tEOEZNd9IBowFBVV95cUxPdF93TkVwQ1dneWlBc3g0ckRVRmNOSEoyNFNfajNwTEUybTZVZ3Fndmg3SWplWUU3c2VhbnJxcFVIZjZHbFA3aWdIRmlfWmxhUXRZYm9RMW9xSUhaUXBBbDFKMnFseWg0UldqVWluV1BIbFpSeGplUTNaeXBGcFdNVE4zcUhERld5OGo5aVlLNm1Qa1lwZTlob1M2eGhyNS1iMFkw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "b002294a9b62",
@@ -6594,90 +6645,6 @@
     "pct": -0.6,
     "window_h": 1.4
    }
-  },
-  {
-   "id": "d6d56d75e88e",
-   "title": "Nvidia to invest $3B in Meta stock, expand AI collaboration on Muse models - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcEdUbFdlUGdMY3FGLXZUOGp5ZWVXN2RENzhTWmRwdGU1MDMwelFWZFRMbS04TzI2c0pUNm1sWnJIczZ2cTZXdmlEbE53ZE1kOG1RRjl0TnEzenF5d2V6aU5QNk5FYU40c25rS21KdHRzYVI1QU4xUFpmWDd3X1pKMG5SeV9kRFJHZkFBNmEyTnZCUWRDUTVPOUJhcXBONU1KeEg1bVI0c2Noc2lOQTVxb1NfOXNmYXR2eEdGbXZFRDhmV2NtZDV0bncxUmlzRkFq",
-   "source": "TradingView",
-   "published_at": "2026-10-27T06:32:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-27T06:32:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcEdUbFdlUGdMY3FGLXZUOGp5ZWVXN2RENzhTWmRwdGU1MDMwelFWZFRMbS04TzI2c0pUNm1sWnJIczZ2cTZXdmlEbE53ZE1kOG1RRjl0TnEzenF5d2V6aU5QNk5FYU40c25rS21KdHRzYVI1QU4xUFpmWDd3X1pKMG5SeV9kRFJHZkFBNmEyTnZCUWRDUTVPOUJhcXBONU1KeEg1bVI0c2Noc2lOQTVxb1NfOXNmYXR2eEdGbXZFRDhmV2NtZDV0bncxUmlzRkFq"
-    },
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-27T06:32:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0hJUV8wbklYTWx4NVlpcnNNSlV3WExEaGhDV3hNckpkaHhMUUUtcFdVV3YyWmRnTF9wWnhBVkY4eGhLLTlsT0d3SXJORk12NVhSWVo1RVpKS0xjNFRrWGpFYU4wN0ZUak9pbFpjdnYtQWZUaVRma09wcGJLU253VjVoSlZYdzE1eTNPUXBsbVh2VnduNlMyWEJsWFNvR3VadW9mdmhRQW9NTFVSdkZB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达拟向Meta投资30亿美元",
-   "title_zh": "英伟达拟投资Meta 30亿美元，扩大Muse模型合作",
-   "sentiment": 1
-  },
-  {
-   "id": "ad000fb33032",
-   "title": "Nvidia to invest $3 bln in Meta share offering as part of bigger AI partnership By Investing.com - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUNYWGNnb3JkWU9jQm5pVk5vbjBRS2QySl9UWDQzU0FOM0M1U2xNTHRtZ1JxLVlHNHVLRFpELUVaeFJwdFIzMnRYTTFEdVJsZEF4Z3NrYW51QVZHYjlfNXg4Si1SRHJFQ1F2UExLUmZOZnlsczJfNmhuZ0pfaGt1V29sdHNmYmVFS1c2eVduS21pMG5BTGJUV0dMcGEtMjBpaXNBRUM0ZnFjX2gzZkFPNUNiWEVHdGpJOHd5TVhyRUgyOUVBQXJMWkczb3FQc3lF",
-   "source": "Investing.com",
-   "published_at": "2026-10-27T06:22:30+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-27T06:22:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUNYWGNnb3JkWU9jQm5pVk5vbjBRS2QySl9UWDQzU0FOM0M1U2xNTHRtZ1JxLVlHNHVLRFpELUVaeFJwdFIzMnRYTTFEdVJsZEF4Z3NrYW51QVZHYjlfNXg4Si1SRHJFQ1F2UExLUmZOZnlsczJfNmhuZ0pfaGt1V29sdHNmYmVFS1c2eVduS21pMG5BTGJUV0dMcGEtMjBpaXNBRUM0ZnFjX2gzZkFPNUNiWEVHdGpJOHd5TVhyRUgyOUVBQXJMWkczb3FQc3lF"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T06:46:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVDFRaFdjWmM0emZvWHhiTGN0OWFkZGxZTEVGNXVsRGxqUXZ1TnJYNzFlYnhkLVgzaGxOSDZJZ1pMVHRSNHJyV1d3RVg3Z2h3NTF3TFdwRTJGWTBfR3NKSEtjY2JZbFppNnhMU3hPVHJXRkhBaWV1RGJVZGZIbFRpbXZEalhybGdfLXg4dG9LSGkyUQ"
-    },
-    {
-     "name": "StreetInsider",
-     "published_at": "2026-10-27T11:51:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWE1JcXoyRmctWURydkx1LWV4dm5oS3ljNFctMzhRbFNfUUFLNFhzajlCSGRKekF6Tk1BWTZ2RGpJSnhtc2tXTjJjbmQyT1E1aGRIamxSYzlDWWJsWVl3S3dwckU4RnNkSk9CWkw1LVdWbVpneXJOUUQ2OExhYkRkcWc4cjBpMFljTjJLQlZ5T1g4TEpFUXBBQWVtODNLa2gyZ3BYTWJOblRNTS10cnMwd01TcFpMbmhXbHBvWTJubHdpamZrQy0xdTJCbUh1bG0yUlMxNw"
-    },
-    {
-     "name": "Yahoo Finance UK",
-     "published_at": "2026-10-27T06:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QbVB2STVWOHRrRnRGYUJQaWlsLTVXdk1rUk44NmdlbGxnaDdDRnlrR3J3enNWM2FJTENuekNvcHotaVF3UTlYSlVmTElEb2hweDI5SmU5WjlHRnYtcTdYc1JidFFKdVU1WnZlak8zbmZ6cV8yOGVwZDBXTXBMUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达拟投资30亿美元参与Meta增发",
-   "title_zh": "英伟达拟投资30亿美元参与Meta股票发行，深化AI合作",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.29,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "f5889e3cb2a6",
-   "title": "Aivres OCP Summit 2026 NVIDIA Vera Rubin NVL72 Rack 1 - ServeTheHome",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbEFyV0JJcEZYQmdPUm0tNlRIZFVJRUVvLXpnRU5FeGR3UTZiTzZDRDRQVk90djhjTTladFl1azlHME1BUDlWQUhoaUZZVG9HTTJnQ0JVSUZaZENYbmhIV1hzUnhvTGxxcG54QXZnS2pnZmh0cnNEY2tZRDFWeFQ3WWRkZTd0QXBkT25EN2JWVmZLLUxTbjZEbjNsUWhGYW90VzJCalo4QWRQb0hEczVkV3pvUG56RW5wbWNsVXFYOFpZYXh1N2l3aEd1V0stVWhEX3dUY3llVQ",
-   "source": "ServeTheHome",
-   "published_at": "2026-10-27T06:22:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ServeTheHome",
-     "published_at": "2026-10-27T06:22:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbEFyV0JJcEZYQmdPUm0tNlRIZFVJRUVvLXpnRU5FeGR3UTZiTzZDRDRQVk90djhjTTladFl1azlHME1BUDlWQUhoaUZZVG9HTTJnQ0JVSUZaZENYbmhIV1hzUnhvTGxxcG54QXZnS2pnZmh0cnNEY2tZRDFWeFQ3WWRkZTd0QXBkT25EN2JWVmZLLUxTbjZEbjNsUWhGYW90VzJCalo4QWRQb0hEczVkV3pvUG56RW5wbWNsVXFYOFpZYXh1N2l3aEd1V0stVWhEX3dUY3llVQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "Aivres展示Vera Rubin NVL72",
-   "title_zh": "Aivres在OCP峰会展示英伟达Vera Rubin NVL72机柜",
-   "sentiment": 0
   }
  ]
 }
