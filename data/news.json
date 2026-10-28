@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T18:36:36.550515+00:00",
+ "updated_at": "2026-10-28T18:51:36.565729+00:00",
  "market": {
-  "price": 217.51,
-  "change_pct": -0.2,
+  "price": 216.18,
+  "change_pct": -0.81,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.23,
-   "count": 121
+   "avg": 0.24,
+   "count": 123
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 71% 分位"
+     "note": "现价处于52周区间 69% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +44.8%"
+     "note": "目标价中位数 $315（17家），隐含空间 +45.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（121条已评分）"
+     "note": "今日新闻情绪 +0.24（123条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.51 vs 20日均线 $223.90"
+     "note": "现价 $216.18 vs 20日均线 $223.82"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天 1 家上调 / 0 家下调"
     }
    ],
-   "price_52w_pct": 71,
+   "price_52w_pct": 69,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 44.8,
-   "ma20": 223.9,
-   "as_of": "2026-10-28T18:36:36.534679+00:00"
+   "implied_upside_pct": 45.7,
+   "ma20": 223.82,
+   "as_of": "2026-10-28T18:51:36.555498+00:00"
   },
-  "pe_ttm": 27.6,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.8%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.5,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,46 @@
   }
  },
  "stories": [
+  {
+   "id": "309968689e42",
+   "title": "英伟达股价放量下跌，路透社报道称美国司法部正在审查Hugging Face交易后，该股最新跌幅为0.8% - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVE8yUE5zTmg5WFpmRnpJRFQ2bTFUQi1GWWl5QkpXNnBGT0V1M2V3NUxyZ05ILUFMaEN4SUp6UHVNbnlqZWZVVEZxaFgzak1GLXR3TkJEdS03NjZxZlkxVVdCRGVYb1JjRV8xQ3Nhd1pXVWNjYzVtd0JReHo3a1VpZGNOclpKV3NHcUNUQ042b0JFUExYZlJxNzBaVGw",
+   "source": "富途牛牛",
+   "published_at": "2026-10-28T18:49:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-28T18:49:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVE8yUE5zTmg5WFpmRnpJRFQ2bTFUQi1GWWl5QkpXNnBGT0V1M2V3NUxyZ05ILUFMaEN4SUp6UHVNbnlqZWZVVEZxaFgzak1GLXR3TkJEdS03NjZxZlkxVVdCRGVYb1JjRV8xQ3Nhd1pXVWNjYzVtd0JReHo3a1VpZGNOclpKV3NHcUNUQ042b0JFUExYZlJxNzBaVGw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "美司法部审查英伟达收购交易，股价跌0.8%",
+   "title_zh": "美司法部审查英伟达收购Hugging Face",
+   "sentiment": -2
+  },
+  {
+   "id": "dc900b03cce1",
+   "title": "EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQi1pQlpXMFg0djlmZFhkcGFlc3hJWmxKNXIzeFlTOWRxSXd5YWtCX1FRdUdlWWM1NEZxQVpOWktKbVkyWWR1aFRhbFd3SnRRcW5SZTJ0YXRvQTZ6MjlmVmFMVThhSldFTUpseWRtblVrel8tM0VISmVOVmdVend5UTFOTHhKazBXalpIOHVUdkVmcm5YdTI4UWk3MUJObk9GMzRYOEpkeEFXVnhwZXc",
+   "source": "Reuters",
+   "published_at": "2026-10-28T18:35:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-28T18:35:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQi1pQlpXMFg0djlmZFhkcGFlc3hJWmxKNXIzeFlTOWRxSXd5YWtCX1FRdUdlWWM1NEZxQVpOWktKbVkyWWR1aFRhbFd3SnRRcW5SZTJ0YXRvQTZ6MjlmVmFMVThhSldFTUpseWRtblVrel8tM0VISmVOVmdVend5UTFOTHhKazBXalpIOHVUdkVmcm5YdTI4UWk3MUJObk9GMzRYOEpkeEFXVnhwZXc"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中",
+   "zh_summary": "美司法部询问英伟达收购Hugging Face",
+   "title_zh": "路透独家：美司法部询问英伟达收购Hugging Face",
+   "sentiment": -2
+  },
   {
    "id": "98a4a5f815ae",
    "title": "Beyond NVIDIA: Why TSMC Stock Looks Attractive After Q3 Earnings - Zacks Investment Research",
@@ -127,6 +167,26 @@
    "sentiment": 1
   },
   {
+   "id": "9e1b54f756da",
+   "title": "Nvidia releases an open speech model that transcribes 40 languages - The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZUNkSjNIRFE5aGxHOWJPeGNoc1hYLTlnRjhDNHZNWVhVYW8zaTZSdzJrU3A2OUM5TUppNEM4VVpRd2d3SzNRbzFrczVBd3d3Z19jYVpjd0xmYkhPVTQ3M1JQYUd1R0VldXhUWDg1cXNPSk1icVQ3WmZwMmQ4bDFsX3NhTldIcERD",
+   "source": "The Next Web",
+   "published_at": "2026-10-28T17:35:56+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Next Web",
+     "published_at": "2026-10-28T17:35:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZUNkSjNIRFE5aGxHOWJPeGNoc1hYLTlnRjhDNHZNWVhVYW8zaTZSdzJrU3A2OUM5TUppNEM4VVpRd2d3SzNRbzFrczVBd3d3Z19jYVpjd0xmYkhPVTQ3M1JQYUd1R0VldXhUWDg1cXNPSk1icVQ3WmZwMmQ4bDFsX3NhTldIcERD"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "英伟达发布开源语音模型，支持40种语言",
+   "title_zh": "英伟达发布开源语音模型，支持40种语言转录",
+   "sentiment": 1
+  },
+  {
    "id": "8804d4323a06",
    "title": "Oracle AI World takeaways: making Nvidia envious, and storage... sexy? - Data Center Dynamics",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNiazkwX1VqZ2Zyb1o4UXZLSE0zcDZLZncyYTJVbmkxck1xZnJrQmdRUzhBaEd1R2prQmlmWXJOYmhQTm1lWE5DM1lWMlNvb0JDUE9UeFAxR3hwYkRSNXNXVmpDbHJCbDRqNi1EUWxBSFFFQXFESFdPenFHS0FBR0N0X3AxeHFYeXM5LVNBNWUxZ29BTzRHRm9haDV5aU0wQXdFOVcxbkdwTUNpcWZWRnh3",
@@ -185,31 +245,6 @@
    "zh_summary": "影驰否认今年第二次倒闭传闻",
    "title_zh": "英伟达显卡品牌影驰再次否认倒闭传闻",
    "sentiment": 0
-  },
-  {
-   "id": "173612af183d",
-   "title": "Nvidia Releases Open Nemotron 3.5 Transcribe Model for 40 Languages - SQ Magazine",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kM2FUNzhEYVZyczlwQ3E3azQ1RExOdzlVeE1Ia0Fua19WbGNndGozSEFYT0ZSNDdTOTFhckI5djItR2Mtb2MwY3pCcHQ0ZDc5ZTUwQVg5RllDb0tmTDNCYkVKbXMxQ3F0akx4ejJ6eWRhaXdJLXc",
-   "source": "SQ Magazine",
-   "published_at": "2026-10-28T16:49:26+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "SQ Magazine",
-     "published_at": "2026-10-28T16:49:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kM2FUNzhEYVZyczlwQ3E3azQ1RExOdzlVeE1Ia0Fua19WbGNndGozSEFYT0ZSNDdTOTFhckI5djItR2Mtb2MwY3pCcHQ0ZDc5ZTUwQVg5RllDb0tmTDNCYkVKbXMxQ3F0akx4ejJ6eWRhaXdJLXc"
-    },
-    {
-     "name": "The Next Web",
-     "published_at": "2026-10-28T17:35:56+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZUNkSjNIRFE5aGxHOWJPeGNoc1hYLTlnRjhDNHZNWVhVYW8zaTZSdzJrU3A2OUM5TUppNEM4VVpRd2d3SzNRbzFrczVBd3d3Z19jYVpjd0xmYkhPVTQ3M1JQYUd1R0VldXhUWDg1cXNPSk1icVQ3WmZwMmQ4bDFsX3NhTldIcERD"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达发布支持40种语言的转录模型",
-   "title_zh": "英伟达发布支持40种语言的Nemotron 3.5转录模型",
-   "sentiment": 1
   },
   {
    "id": "ba3bce54fc16",
@@ -309,6 +344,26 @@
    "session": "盘中",
    "zh_summary": "清华英伟达新榜单揭示AI视频模型短板",
    "title_zh": "社区供稿 | 清华、英伟达等开了个新榜，38个AI实时视频模型露短板",
+   "sentiment": 0
+  },
+  {
+   "id": "6956bc789741",
+   "title": "Can Meta Muse AI deployment support Nvidia stock? - Traders Union",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmJwMmxmTEhzN2lTWGxCcXpfalhBNGprandOelg5Rjd1MzJsU05qOFZpU0w5a2p3ZzRUYjBnbnc1NXEzV0lnOGtwNVBGSDJIVFI5YTViamNJNTF6R3BkblgtazdTTllyYjZRTHdSZEswbkVWY1ZucXVtMVVSQnFMWGM1SHlZVVh6akJfN0l5VQ",
+   "source": "Traders Union",
+   "published_at": "2026-10-28T16:09:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Traders Union",
+     "published_at": "2026-10-28T16:09:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmJwMmxmTEhzN2lTWGxCcXpfalhBNGprandOelg5Rjd1MzJsU05qOFZpU0w5a2p3ZzRUYjBnbnc1NXEzV0lnOGtwNVBGSDJIVFI5YTViamNJNTF6R3BkblgtazdTTllyYjZRTHdSZEswbkVWY1ZucXVtMVVSQnFMWGM1SHlZVVh6akJfN0l5VQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "Meta部署Muse AI能否支撑英伟达股价",
+   "title_zh": "Meta部署Muse AI能否支撑英伟达股价？",
    "sentiment": 0
   },
   {
@@ -663,6 +718,40 @@
    "zh_summary": "罕见8GB版GTX 750 Ti现身",
    "title_zh": "罕见8GB显存GTX 750 Ti实测赛博朋克30帧",
    "sentiment": 0
+  },
+  {
+   "id": "9ab4d21cf9be",
+   "title": "Nvidia releases Nemotron 3.5 Transcribe, a free open-weight model for 40-language transcription - Crypto Briefing",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04X0pwNkdPS1VhekZyMWYxWVZtX2JEem96V25tcmlXaFNDTXhYVERLY3pWUnBGajQxa190a0ZaVnJvVHBzLXBqbHh0eUlJY01HcGRWVEZETi16NHlCd04zeWVIYnB1X0o1ZnZxWmk3NUJtUGI1MmlBVnFR",
+   "source": "Crypto Briefing",
+   "published_at": "2026-10-28T15:04:58+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "Crypto Briefing",
+     "published_at": "2026-10-28T15:04:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04X0pwNkdPS1VhekZyMWYxWVZtX2JEem96V25tcmlXaFNDTXhYVERLY3pWUnBGajQxa190a0ZaVnJvVHBzLXBqbHh0eUlJY01HcGRWVEZETi16NHlCd04zeWVIYnB1X0o1ZnZxWmk3NUJtUGI1MmlBVnFR"
+    },
+    {
+     "name": "SQ Magazine",
+     "published_at": "2026-10-28T16:49:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kM2FUNzhEYVZyczlwQ3E3azQ1RExOdzlVeE1Ia0Fua19WbGNndGozSEFYT0ZSNDdTOTFhckI5djItR2Mtb2MwY3pCcHQ0ZDc5ZTUwQVg5RllDb0tmTDNCYkVKbXMxQ3F0akx4ejJ6eWRhaXdJLXc"
+    },
+    {
+     "name": "The Next Web",
+     "published_at": "2026-10-28T17:35:56+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZUNkSjNIRFE5aGxHOWJPeGNoc1hYLTlnRjhDNHZNWVhVYW8zaTZSdzJrU3A2OUM5TUppNEM4VVpRd2d3SzNRbzFrczVBd3d3Z19jYVpjd0xmYkhPVTQ3M1JQYUd1R0VldXhUWDg1cXNPSk1icVQ3WmZwMmQ4bDFsX3NhTldIcERD"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "英伟达发布支持40种语言的转录模型",
+   "title_zh": "英伟达发布支持40种语言的Nemotron 3.5转录模型",
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.22,
+    "window_h": 2.0
+   }
   },
   {
    "id": "405298bd4c93",
@@ -1071,6 +1160,26 @@
    "session": "盘中",
    "zh_summary": "分析称英伟达需为最坏情况做准备",
    "title_zh": "英伟达：为最坏情况做好准备",
+   "sentiment": -1
+  },
+  {
+   "id": "a8a53eeb566b",
+   "title": "OpenAI May Buy Google's AI Chips as $600 Billion Spending Boom Challenges Nvidia - Coinpaper",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVFkN2dzZ25ROFVIM0xpVmVEMjRieWRHVWxNVVNGd0lzeDFIU181REpobGFNa2MtR21SdE5sQnd1MGFHUXN2V1p2VFJmbGR6N25UWlFTZ2hvSTNLUU5CUHNCbGxHd05NT21zR2w1OUJQOTdURkFEOUxLMkl5eGZfSXNJS18tU2p2ZDNpWVp2czlRNzFKT3hrWmZpQW1LNkkyTWp6bDhLbnV3VDJm",
+   "source": "Coinpaper",
+   "published_at": "2026-10-28T13:28:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Coinpaper",
+     "published_at": "2026-10-28T13:28:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdVFkN2dzZ25ROFVIM0xpVmVEMjRieWRHVWxNVVNGd0lzeDFIU181REpobGFNa2MtR21SdE5sQnd1MGFHUXN2V1p2VFJmbGR6N25UWlFTZ2hvSTNLUU5CUHNCbGxHd05NT21zR2w1OUJQOTdURkFEOUxLMkl5eGZfSXNJS18tU2p2ZDNpWVp2czlRNzFKT3hrWmZpQW1LNkkyTWp6bDhLbnV3VDJm"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前",
+   "zh_summary": "OpenAI或购谷歌芯片挑战英伟达",
+   "title_zh": "OpenAI或采购谷歌AI芯片，支出潮挑战英伟达",
    "sentiment": -1
   },
   {
@@ -2268,9 +2377,9 @@
    "sentiment": -1
   },
   {
-   "id": "59f70a6cbddf",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by Moody National Bank Trust Division - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3ZENXBPOHdXZ3VKelJzck0xSERWTXA3eHJCU2hHZ0JKTDEzTktRZFplVmJaY0Y3U1RZb1A2LVJMN1drV0ZpYUlIemVPeERCMW9yRDNnNnhKcE0ydWE1a2g3TDZhY1pyQUIzOWViZ2dfa0dPMUhRLUVNcUJEemJWMWI3ZWUtcG5qUldwUlFSQVNqdTRXRHVEallfYlNUN1duQUdNenByN0VOc25qTzBjazdJMUc0Z2JfTGRWVktMQzNDVHF0cnh0TWZtWWs2SVU",
+   "id": "79f1abea3cea",
+   "title": "NVIDIA Corporation $NVDA Stock Purchased by Paladin Partners LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ",
    "source": "MarketBeat",
    "published_at": "2026-10-28T08:41:21+00:00",
    "outlets_count": 1,
@@ -2278,14 +2387,14 @@
     {
      "name": "MarketBeat",
      "published_at": "2026-10-28T08:41:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3ZENXBPOHdXZ3VKelJzck0xSERWTXA3eHJCU2hHZ0JKTDEzTktRZFplVmJaY0Y3U1RZb1A2LVJMN1drV0ZpYUlIemVPeERCMW9yRDNnNnhKcE0ydWE1a2g3TDZhY1pyQUIzOWViZ2dfa0dPMUhRLUVNcUJEemJWMWI3ZWUtcG5qUldwUlFSQVNqdTRXRHVEallfYlNUN1duQUdNenByN0VOc25qTzBjazdJMUc0Z2JfTGRWVktMQzNDVHF0cnh0TWZtWWs2SVU"
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ"
     }
    ],
    "category": "其他",
    "session": "盘前",
-   "zh_summary": "穆迪国民银行信托部门减持英伟达股票",
-   "title_zh": "穆迪国民银行信托部门出售$NVDA股票",
-   "sentiment": -1
+   "zh_summary": "Paladin Partners买入英伟达股票",
+   "title_zh": "Paladin Partners买入$NVDA股票",
+   "sentiment": 1
   },
   {
    "id": "2539fd4422c8",
@@ -2360,6 +2469,26 @@
     "pct": -0.18,
     "window_h": 0.1
    }
+  },
+  {
+   "id": "4b0f488325d6",
+   "title": "NVIDIA Corporation $NVDA Shares Sold by Eleva Capital SAS - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnBrQUFtRHhhenh2dDdrUHBHOVV2TkhjbHFBQzFiV05MNzA1enZUd210c1hEbC1UVURpSEJSUHR5bERQVG9PZmhSd1Y4OEoxSVJDM2xnbXpQckMyZlhUalpiWjNrbFBSR2hLRG8tWHVsTC03WXhTWmoyLTJ3NENtZnVqTnFuZGNKRnBMUlJteFY1SU1aUGpqeG8teHF1S21EZUxFcEllelJJUFE1X1NjSk14elpSNWg3",
+   "source": "MarketBeat",
+   "published_at": "2026-10-28T08:01:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-28T08:01:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnBrQUFtRHhhenh2dDdrUHBHOVV2TkhjbHFBQzFiV05MNzA1enZUd210c1hEbC1UVURpSEJSUHR5bERQVG9PZmhSd1Y4OEoxSVJDM2xnbXpQckMyZlhUalpiWjNrbFBSR2hLRG8tWHVsTC03WXhTWmoyLTJ3NENtZnVqTnFuZGNKRnBMUlJteFY1SU1aUGpqeG8teHF1S21EZUxFcEllelJJUFE1X1NjSk14elpSNWg3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "穆迪国民银行信托部门减持英伟达股票",
+   "title_zh": "穆迪国民银行信托部门出售$NVDA股票",
+   "sentiment": -1
   },
   {
    "id": "6e3d34e94a42",
@@ -6505,131 +6634,6 @@
    "session": "盘前",
    "zh_summary": "英伟达拟领投Simplismart2000万美元",
    "title_zh": "英伟达洽谈领投Simplismart 2000万美元融资轮",
-   "sentiment": 1
-  },
-  {
-   "id": "3f6b7143ecd4",
-   "title": "Nvidia Stock Premarket: NVDA Edges Up To $217 After $3 Billion Meta Investment - Coinpedia",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN05jZ3dmQklTM2FBaUoxekMwb1l1UU54bk1hbGEycmhMeGFxSU96TlM1ZnExMkZsTXRCbDZpNUV5TlR4dWVLazh3QnAxdXE5c25yS3dHZWFfdGFqb3h0QzV2dVJsNGpUV2RVSVNONnB4TnFQeUZLYzR4d1ZWYnN4NHU1NW9BejlJdng3VUNsR0lPeGQ0OWh6dTFyTTNuOGNzWmR0R1hhZTlLdGgyU0ZBUlBfR2ZHZ9IBuwFBVV95cUxPOExiS3dwdDh5TTdnVEpzRFVwRnJlVXNYQ0tDLTRWOXRObHZ1SzBlLWI0WEpkTE1hbGdpQklYRWV4a3M5SEdrT3N3VFMxMkVEbFc2ZkhwXzVYbjJORWc5Tm14N2FFZFlMYnpQakk5S2M5MGs2R09SbF9Ca0NfRzdRZXk0ZE1yWWlHcm0wdXJXWktSNy1MSzVKLVBsMDE5Z01WcDc1UlpxemdNSkl4akY2SXcyZWphSk1lSTYw",
-   "source": "Coinpedia",
-   "published_at": "2026-10-27T12:01:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Coinpedia",
-     "published_at": "2026-10-27T12:01:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN05jZ3dmQklTM2FBaUoxekMwb1l1UU54bk1hbGEycmhMeGFxSU96TlM1ZnExMkZsTXRCbDZpNUV5TlR4dWVLazh3QnAxdXE5c25yS3dHZWFfdGFqb3h0QzV2dVJsNGpUV2RVSVNONnB4TnFQeUZLYzR4d1ZWYnN4NHU1NW9BejlJdng3VUNsR0lPeGQ0OWh6dTFyTTNuOGNzWmR0R1hhZTlLdGgyU0ZBUlBfR2ZHZ9IBuwFBVV95cUxPOExiS3dwdDh5TTdnVEpzRFVwRnJlVXNYQ0tDLTRWOXRObHZ1SzBlLWI0WEpkTE1hbGdpQklYRWV4a3M5SEdrT3N3VFMxMkVEbFc2ZkhwXzVYbjJORWc5Tm14N2FFZFlMYnpQakk5S2M5MGs2R09SbF9Ca0NfRzdRZXk0ZE1yWWlHcm0wdXJXWktSNy1MSzVKLVBsMDE5Z01WcDc1UlpxemdNSkl4akY2SXcyZWphSk1lSTYw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Meta投资30亿美元后英伟达盘前涨至217美元",
-   "title_zh": "英伟达盘前微涨至217美元，此前Meta投资30亿美元",
-   "sentiment": 1
-  },
-  {
-   "id": "7c7112c66bab",
-   "title": "The Zacks Analyst Blog Highlights Intel, Alphabet, NVIDIA and AMD - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdE9vS0txcFhPVFkwMDY2cGptN0JGTTFXVjB1cWNRd2UwVVV6czNqVHlPS1NGSVAtWnQtZ3lzSWZlRDNla1k0MXk0RzlnbTdhaFQ3Vnp6WWpOSFl3TnhSNkxPS1ZuSUlwZHpkOWw2U2l2c1B6YkYtWVZNUTBNTG9ybTVKS3VPN19tbWVjdGN4aFdTQmcyS2FQVTRJRjhyZnJkZXc",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-27T12:01:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T12:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdE9vS0txcFhPVFkwMDY2cGptN0JGTTFXVjB1cWNRd2UwVVV6czNqVHlPS1NGSVAtWnQtZ3lzSWZlRDNla1k0MXk0RzlnbTdhaFQ3Vnp6WWpOSFl3TnhSNkxPS1ZuSUlwZHpkOWw2U2l2c1B6YkYtWVZNUTBNTG9ybTVKS3VPN19tbWVjdGN4aFdTQmcyS2FQVTRJRjhyZnJkZXc"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-27T14:18:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN0p3M2ZyVnFDS0tGdEZ5UmNoanZiX1ZHeE04VnlnSE92dWx3UWRUNlZHeXJpTi1uX1d1d2pjTXBlcl9CVWV5bmhHbklLcE0yYmhYVHJBV29Nb3Vmd1czOWJPcFoyX01CS0h0NkJnRE10ajJ6b1U0NHFuZ0dxN1VWb1phOTk0cXVENzhuNEZNWWhqS3NUS2EzQlRqOHFqNWItX1Rac3ktUWNBTUtqTThXOTh4d0w3c2dMeXpackJERi0tNzRydzMyLUJmYk95ZDFhZm4wRHMxRENoamZtbDFxeXR3"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "Zacks分析博客聚焦英特尔等四股",
-   "title_zh": "Zacks分析博客聚焦英特尔、Alphabet、英伟达和AMD",
-   "sentiment": 0
-  },
-  {
-   "id": "2164ec5cfec5",
-   "title": "Schneider Electric, Nscale and Start Campus Bring the NVIDIA Omniverse DSX Blueprint into a Live AI Factory Environment - Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMDZwcmpYT0s0VzlXMHVmSzktNFJEM0NFN3lfQ1ptZzE0NlVjZk1FaV9IRTVLYklFNkoya0cyUm9sTjhmTmo3ajFVOWczck9CVmY1bEpJRDFST2NmVHpHOVZ5TG9fM3BVaGRsQW5LckpWQVZSbHFpQWcxWFFWTzM4Y3RaYkhtZ1VySnVEVHA1Mmo",
-   "source": "Yahoo Finance Singapore",
-   "published_at": "2026-10-27T12:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance Singapore",
-     "published_at": "2026-10-27T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMDZwcmpYT0s0VzlXMHVmSzktNFJEM0NFN3lfQ1ptZzE0NlVjZk1FaV9IRTVLYklFNkoya0cyUm9sTjhmTmo3ajFVOWczck9CVmY1bEpJRDFST2NmVHpHOVZ5TG9fM3BVaGRsQW5LckpWQVZSbHFpQWcxWFFWTzM4Y3RaYkhtZ1VySnVEVHA1Mmo"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "施耐德等将OmniverseDSX蓝图引入AI工厂",
-   "title_zh": "施耐德等将英伟达OmniverseDSX蓝图引入AI工厂环境",
-   "sentiment": 1
-  },
-  {
-   "id": "3f5f3be1b951",
-   "title": "施耐德电气、Nscale和Start Campus将英伟达Omniverse DSX蓝图引入实时AI工厂环境 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDJoQWdYUlc2em9qUUtHMHhDTmcwdmNac19pTmpFS3UySG92TGFlQ1U0b3RqQTlwNl80N0doQlJDdlQ5ZHdYR0RVTC1HcE9CREVsQnk4eWplVVB3NUxtNFRoVE5PVXZuc2o4cktrSEYxbno2SW03V3VOX2lrQm1YTmZHSXBPTE8wSXF2ZDBPSTRjSWdna1ZZN3RVMXNnS3IzMy1sTzZYVE5IeGM0cDV6bEkxUUVWNDhvZmc",
-   "source": "Moomoo",
-   "published_at": "2026-10-27T12:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-27T12:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDJoQWdYUlc2em9qUUtHMHhDTmcwdmNac19pTmpFS3UySG92TGFlQ1U0b3RqQTlwNl80N0doQlJDdlQ5ZHdYR0RVTC1HcE9CREVsQnk4eWplVVB3NUxtNFRoVE5PVXZuc2o4cktrSEYxbno2SW03V3VOX2lrQm1YTmZHSXBPTE8wSXF2ZDBPSTRjSWdna1ZZN3RVMXNnS3IzMy1sTzZYVE5IeGM0cDV6bEkxUUVWNDhvZmc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "施耐德等将OmniverseDSX蓝图引入AI工厂",
-   "title_zh": "施耐德等将英伟达OmniverseDSX蓝图引入AI工厂环境",
-   "sentiment": 1
-  },
-  {
-   "id": "bd7ae57f939f",
-   "title": "GeForce partners \"cannot purchase\" RTX 5090 GPUs from Nvidia - OC3D",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUtXb3c0ckxySTR4clJzaE8xM241M3BjUHlOX19BaXgtSDBGRnZ4Ri1qMmJjZHV1Z1hkQ2tTbmVWLUFqYzhVclZwQkVDeFd5Y1lmZGRtbjZZMmFaMzZNNWRrUDRZbGh5emFZX0RvZEN2aGdnRDR3eTJydVFoSkJnYkR6Y0dTUzhPY2JKd3ZuN2FmWU9Kd0ZzaVdjdUl3U1ppTEhJ",
-   "source": "OC3D",
-   "published_at": "2026-10-27T11:57:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "OC3D",
-     "published_at": "2026-10-27T11:57:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUtXb3c0ckxySTR4clJzaE8xM241M3BjUHlOX19BaXgtSDBGRnZ4Ri1qMmJjZHV1Z1hkQ2tTbmVWLUFqYzhVclZwQkVDeFd5Y1lmZGRtbjZZMmFaMzZNNWRrUDRZbGh5emFZX0RvZEN2aGdnRDR3eTJydVFoSkJnYkR6Y0dTUzhPY2JKd3ZuN2FmWU9Kd0ZzaVdjdUl3U1ppTEhJ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "合作伙伴无法购买RTX 5090显卡",
-   "title_zh": "GeForce合作伙伴无法从英伟达购买RTX 5090显卡",
-   "sentiment": -1
-  },
-  {
-   "id": "9d432b2591c6",
-   "title": "Nvidia Invests in Another of Its Customers - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd0FrUU1XWTZkRmNTY2dZR2gxTnFzSDk3VUtTc21KR2tvTHR5cDhqdHZ0RXZKT2V1WEpvXzA4MUR3dTl3Q0tZR1R6S0JvSVUwSEtadVl4bExxY0tlS2xBSDBkZlF3Uk5VZG9PdmVBTEZXTkl4YXM4RUFIQ2JoVmdjRzllZGc0R3NfU0RaTGNRSUw3S3Z1QVdvRFFZVGpEX2M2OWxPcm9VWEd4MUpxY0tnMHR5WHFMc1cwS3d1NzNmeVV0VVFJUjN3anppLXR1QkFTNldKeE5Ob0tiT2xkd1NuZGp1TQ",
-   "source": "WSJ",
-   "published_at": "2026-10-27T11:54:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-10-27T11:54:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd0FrUU1XWTZkRmNTY2dZR2gxTnFzSDk3VUtTc21KR2tvTHR5cDhqdHZ0RXZKT2V1WEpvXzA4MUR3dTl3Q0tZR1R6S0JvSVUwSEtadVl4bExxY0tlS2xBSDBkZlF3Uk5VZG9PdmVBTEZXTkl4YXM4RUFIQ2JoVmdjRzllZGc0R3NfU0RaTGNRSUw3S3Z1QVdvRFFZVGpEX2M2OWxPcm9VWEd4MUpxY0tnMHR5WHFMc1cwS3d1NzNmeVV0VVFJUjN3anppLXR1QkFTNldKeE5Ob0tiT2xkd1NuZGp1TQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达再度投资其客户企业",
-   "title_zh": "英伟达投资另一家客户企业",
    "sentiment": 1
   }
  ]
