@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T17:51:32.058106+00:00",
+ "updated_at": "2026-10-28T18:06:32.843083+00:00",
  "market": {
-  "price": 217.0,
-  "change_pct": -0.43,
+  "price": 216.78,
+  "change_pct": -0.53,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.23,
-   "count": 117
+   "count": 119
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +45.2%"
+     "note": "目标价中位数 $315（17家），隐含空间 +45.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（117条已评分）"
+     "note": "今日新闻情绪 +0.23（119条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.00 vs 20日均线 $223.87"
+     "note": "现价 $216.78 vs 20日均线 $223.85"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 70,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 45.2,
-   "ma20": 223.87,
-   "as_of": "2026-10-28T17:51:32.046697+00:00"
+   "implied_upside_pct": 45.3,
+   "ma20": 223.85,
+   "as_of": "2026-10-28T18:06:32.826903+00:00"
   },
   "pe_ttm": 27.6,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -220,6 +220,23 @@
    "zh_summary": "谷歌AI芯片业务对英伟达构成挑战",
    "title_zh": "谷歌AI芯片业务日益令英伟达无法忽视",
    "sentiment": -1
+  },
+  {
+   "id": "aeb5ed754423",
+   "title": "Blockchain and crypto firm Blockmate Ventures enters neocloud market with purchase of Nvidia B200 cluster - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUUhXLV9XRkpBWkJ4Y3pqZ2psLUZYay1tbXQ0bmJCX1dLRnBqMVByVlpITFhOQmU0d3RfRGRqVXV4bXh0Q2FUYi10cTQySlVzaGpTZl9INXpXV1VscXRvRVVFd3ZyY2JXbDdGZ0xldlQ3YXllbEJiTGFtdUttWEZJbHNVcDd5RHNRbC1IRnRhTGtSbGVtRHZ6Rzc4TnZmWmZBUjlMMVRvSTZ2emVBOGdkbFlQb01HY3VCR09vTkwzdk56emRYTjFwLTlNZnRCMnliVG9jd3FZR1pOd0RtMXM2aDhhdw",
+   "source": "Data Center Dynamics",
+   "published_at": "2026-10-28T16:23:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Dynamics",
+     "published_at": "2026-10-28T16:23:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUUhXLV9XRkpBWkJ4Y3pqZ2psLUZYay1tbXQ0bmJCX1dLRnBqMVByVlpITFhOQmU0d3RfRGRqVXV4bXh0Q2FUYi10cTQySlVzaGpTZl9INXpXV1VscXRvRVVFd3ZyY2JXbDdGZ0xldlQ3YXllbEJiTGFtdUttWEZJbHNVcDd5RHNRbC1IRnRhTGtSbGVtRHZ6Rzc4TnZmWmZBUjlMMVRvSTZ2emVBOGdkbFlQb01HY3VCR09vTkwzdk56emRYTjFwLTlNZnRCMnliVG9jd3FZR1pOd0RtMXM2aDhhdw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
   },
   {
    "id": "0296264a987a",
@@ -1067,6 +1084,23 @@
    "zh_summary": "RTXRemix登陆Minecraft Java版",
    "title_zh": "Minecraft Java版RTX Remix",
    "sentiment": 1
+  },
+  {
+   "id": "e5a9d354b7b7",
+   "title": "Phantom Blade Zero Launches Today For GeForce RTX & RTX Spark, And New DLSS Games and Updates Are Available Now - NVIDIA",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0tEZDN4aklyeVlqSE51ZzRvVi1oalZ2RldKenJZMHJJcF9IcDRIejFzdGpaQ3A1QUdGWkctYVVJeTY3Wks1SU55QU9JbTdWUjVGS1hHQ1VZcDhvRkk3RHRoTm5iZWZRdXV6djdlYnN0UEotT004bkZYaVdtNXJxbTRBV2Q1eC1tNml5TW5nY0NmSmlFZmFjbkdxRmlxYUoyWkJHeA",
+   "source": "NVIDIA",
+   "published_at": "2026-10-28T13:17:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA",
+     "published_at": "2026-10-28T13:17:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0tEZDN4aklyeVlqSE51ZzRvVi1oalZ2RldKenJZMHJJcF9IcDRIejFzdGpaQ3A1QUdGWkctYVVJeTY3Wks1SU55QU9JbTdWUjVGS1hHQ1VZcDhvRkk3RHRoTm5iZWZRdXV6djdlYnN0UEotT004bkZYaVdtNXJxbTRBV2Q1eC1tNml5TW5nY0NmSmlFZmFjbkdxRmlxYUoyWkJHeA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "91bcbd425cd6",
@@ -6575,46 +6609,6 @@
    "session": "盘前",
    "zh_summary": "英伟达支持宣称降本56%的初创公司",
    "title_zh": "英伟达支持一家宣称GPU成本降56%的1亿美元初创公司",
-   "sentiment": 1
-  },
-  {
-   "id": "6fa18df36bdb",
-   "title": "NVIDIA and Meta expand Muse collaboration for AI agents - TestingCatalog AI News",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbVc2MkVHMWU2RWlOQUNSOHlaSjZqaXI1cGRIWUhNalZTLWYxWEc5Z2dHNmlsZnJjN05paXJsQkZZX3h3cE92ZjEyaFJzWHJWS0tfUjE4TDk2VWdBcndSNDZQODBZQ1RQY1ZYNGlib3R2eEtFNEJlQ2I1Z25BNWl6SUFIaG1VeDU3Slc2WmFHdkM",
-   "source": "TestingCatalog AI News",
-   "published_at": "2026-10-27T11:38:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TestingCatalog AI News",
-     "published_at": "2026-10-27T11:38:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbVc2MkVHMWU2RWlOQUNSOHlaSjZqaXI1cGRIWUhNalZTLWYxWEc5Z2dHNmlsZnJjN05paXJsQkZZX3h3cE92ZjEyaFJzWHJWS0tfUjE4TDk2VWdBcndSNDZQODBZQ1RQY1ZYNGlib3R2eEtFNEJlQ2I1Z25BNWl6SUFIaG1VeDU3Slc2WmFHdkM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达与Meta扩大Muse AI代理合作",
-   "title_zh": "英伟达与Meta扩大Muse AI代理合作",
-   "sentiment": 1
-  },
-  {
-   "id": "04490ea87586",
-   "title": "Nvidia Backs Indian AI Startup's 14x Revenue Surge - The Tech Buzz",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUXN5aE5mUFF3cHRkWTk1LXE2d2tSdExycEd6ZmxKMENKNnp6ZTRrUU1WeXZya1FXaXNpV3gzNlYyZFdkOGlFSkhQZmN3UWZKUUpQVVFUNlNlYjIwZW1IVTJ4UENmOVVUdmRJY29kWlVIMFNObjBiNUxqaGUwanZiQnowNGRqb3NxNXZR",
-   "source": "The Tech Buzz",
-   "published_at": "2026-10-27T11:29:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Tech Buzz",
-     "published_at": "2026-10-27T11:29:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUXN5aE5mUFF3cHRkWTk1LXE2d2tSdExycEd6ZmxKMENKNnp6ZTRrUU1WeXZya1FXaXNpV3gzNlYyZFdkOGlFSkhQZmN3UWZKUUpQVVFUNlNlYjIwZW1IVTJ4UENmOVVUdmRJY29kWlVIMFNObjBiNUxqaGUwanZiQnowNGRqb3NxNXZR"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "英伟达支持印度AI初创营收增长14倍",
-   "title_zh": "英伟达支持印度AI初创公司，营收增长14倍",
    "sentiment": 1
   }
  ]
