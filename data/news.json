@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T22:06:50.845270+00:00",
+ "updated_at": "2026-10-28T22:21:44.065449+00:00",
  "market": {
   "price": 215.38,
   "change_pct": -1.17,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.12,
-   "count": 165
+   "count": 163
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.12（165条已评分）"
+     "note": "今日新闻情绪 +0.12（163条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 46.3,
    "ma20": 223.79,
-   "as_of": "2026-10-28T22:06:50.837230+00:00"
+   "as_of": "2026-10-28T22:21:44.052305+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6cf5738937ce",
+   "title": "SpaceX commits to $40B NVIDIA GPU lease for terrestrial AI buildout - R&D World",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkZtSlc3YWtHZGJicGNELTlSTGtMM0o5N2lrUC1VN2Q0U3ByRi1ROVRmcl9idmFpcE9jekRPaElWUHN2TDJzc1pYMEo4Q2FBVE1QS0ltSXVoQ1hOcXJDS044YnAtWnpzUUhWSThGTEh1bVFDcU44ME12NDk1ckZTNTY3NHRkOVBiTWNRRDcxRkhtY0ZKME1oSE9QUWdGdw",
+   "source": "R&D World",
+   "published_at": "2026-10-28T22:11:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "R&D World",
+     "published_at": "2026-10-28T22:11:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkZtSlc3YWtHZGJicGNELTlSTGtMM0o5N2lrUC1VN2Q0U3ByRi1ROVRmcl9idmFpcE9jekRPaElWUHN2TDJzc1pYMEo4Q2FBVE1QS0ltSXVoQ1hOcXJDS044YnAtWnpzUUhWSThGTEh1bVFDcU44ME12NDk1ckZTNTY3NHRkOVBiTWNRRDcxRkhtY0ZKME1oSE9QUWdGdw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
   {
    "id": "439334996cc8",
    "title": "US DOJ probes Nvidia’s $12.9 billion Hugging Face deal - Latest news from Azerbaijan",
@@ -1330,12 +1347,17 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2Jpa044S1k5R2oxdmNXUU02SzA3dWIwajZ1VFBPSUVVNFpuZ3pDYkpYM1BuTWpydW5aamJjX2RxT1ZKRm5IMURTTndhWlZnMWpqWUFNejQ3dEFRbFZfZHZQMm5UYUtjcnlWWE9paGQyMXBZRW9NSGR3aHpwcDRoMUUycFQ4bXpJU1pfUF9IVXFNNTljM21sMkVnSWVyTGtkNFBNUEJR",
    "source": "Barchart.com",
    "published_at": "2026-10-28T15:17:39+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Barchart.com",
      "published_at": "2026-10-28T15:17:39+00:00",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ2Jpa044S1k5R2oxdmNXUU02SzA3dWIwajZ1VFBPSUVVNFpuZ3pDYkpYM1BuTWpydW5aamJjX2RxT1ZKRm5IMURTTndhWlZnMWpqWUFNejQ3dEFRbFZfZHZQMm5UYUtjcnlWWE9paGQyMXBZRW9NSGR3aHpwcDRoMUUycFQ4bXpJU1pfUF9IVXFNNTljM21sMkVnSWVyTGtkNFBNUEJR"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T15:17:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ1IxLVpuU0lkd3ZUSjlGaWJWSHU0VE5TdlI4dUZoTFF6VnZWV3NfUUY0UXNZZnhQc05JeXdoU2FOZUpNRFVmNzZaUkpnaktkXy1IZVJTZjlaS3lCMGpvWUVmYllERGhUOGVQdWdxUjFnUV81czhfMl9BVlYyWGRQZGhtbi1oWkV3QUVSS3VnNl9ucjdDNVhtWkpxdHd0M19IdGtEdnVn"
     }
    ],
    "category": "财报",
@@ -3190,9 +3212,9 @@
    "sentiment": 0
   },
   {
-   "id": "79f1abea3cea",
-   "title": "NVIDIA Corporation $NVDA Stock Purchased by Paladin Partners LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ",
+   "id": "59f70a6cbddf",
+   "title": "NVIDIA Corporation $NVDA Shares Sold by Moody National Bank Trust Division - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3ZENXBPOHdXZ3VKelJzck0xSERWTXA3eHJCU2hHZ0JKTDEzTktRZFplVmJaY0Y3U1RZb1A2LVJMN1drV0ZpYUlIemVPeERCMW9yRDNnNnhKcE0ydWE1a2g3TDZhY1pyQUIzOWViZ2dfa0dPMUhRLUVNcUJEemJWMWI3ZWUtcG5qUldwUlFSQVNqdTRXRHVEallfYlNUN1duQUdNenByN0VOc25qTzBjazdJMUc0Z2JfTGRWVktMQzNDVHF0cnh0TWZtWWs2SVU",
    "source": "MarketBeat",
    "published_at": "2026-10-28T08:41:21+00:00",
    "outlets_count": 1,
@@ -3200,14 +3222,11 @@
     {
      "name": "MarketBeat",
      "published_at": "2026-10-28T08:41:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYU8tWGlGSGVjREt4dk15YUtGZGZqcTA1N2RqWG92UE5HeGpjVFRTcWhLYkVtc29SYktfYjdDY2R6VnJpYWV0YW1vWDU5OExPYjMyRVB6cDJFWk5ZeERzVW1FV1RyLUVCV2dVYlRKTHN4dnFvdk84c0RTQ3pXRl9oOGVUMUpZTnNjejJmWGlMMWZtbWJHaUNCTGI3cE8zU3lkeVJtS2RZTEluZzZZR0RBN2hfbFpKd2ZmSWpxMDktblBzUQ"
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa3ZENXBPOHdXZ3VKelJzck0xSERWTXA3eHJCU2hHZ0JKTDEzTktRZFplVmJaY0Y3U1RZb1A2LVJMN1drV0ZpYUlIemVPeERCMW9yRDNnNnhKcE0ydWE1a2g3TDZhY1pyQUIzOWViZ2dfa0dPMUhRLUVNcUJEemJWMWI3ZWUtcG5qUldwUlFSQVNqdTRXRHVEallfYlNUN1duQUdNenByN0VOc25qTzBjazdJMUc0Z2JfTGRWVktMQzNDVHF0cnh0TWZtWWs2SVU"
     }
    ],
    "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Paladin Partners买入英伟达股票",
-   "title_zh": "Paladin Partners买入英伟达股票",
-   "sentiment": 1
+   "session": "盘前"
   },
   {
    "id": "2539fd4422c8",
@@ -3282,26 +3301,6 @@
     "pct": -0.18,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "4b0f488325d6",
-   "title": "NVIDIA Corporation $NVDA Shares Sold by Eleva Capital SAS - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnBrQUFtRHhhenh2dDdrUHBHOVV2TkhjbHFBQzFiV05MNzA1enZUd210c1hEbC1UVURpSEJSUHR5bERQVG9PZmhSd1Y4OEoxSVJDM2xnbXpQckMyZlhUalpiWjNrbFBSR2hLRG8tWHVsTC03WXhTWmoyLTJ3NENtZnVqTnFuZGNKRnBMUlJteFY1SU1aUGpqeG8teHF1S21EZUxFcEllelJJUFE1X1NjSk14elpSNWg3",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T08:01:31+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T08:01:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnBrQUFtRHhhenh2dDdrUHBHOVV2TkhjbHFBQzFiV05MNzA1enZUd210c1hEbC1UVURpSEJSUHR5bERQVG9PZmhSd1Y4OEoxSVJDM2xnbXpQckMyZlhUalpiWjNrbFBSR2hLRG8tWHVsTC03WXhTWmoyLTJ3NENtZnVqTnFuZGNKRnBMUlJteFY1SU1aUGpqeG8teHF1S21EZUxFcEllelJJUFE1X1NjSk14elpSNWg3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Moody银行信托部门减持英伟达股份",
-   "title_zh": "Moody National Bank信托部门出售英伟达股票",
-   "sentiment": -1
   },
   {
    "id": "6e3d34e94a42",
@@ -3795,26 +3794,6 @@
    "session": "盘后",
    "zh_summary": "OpenAI拟采购谷歌TPU挑战英伟达",
    "title_zh": "OpenAI拟采购谷歌TPU，英伟达真会被撬动吗？",
-   "sentiment": -1
-  },
-  {
-   "id": "62ed439b4be2",
-   "title": "事关算力定价权！英伟达头号梦魇，藏在Anthropic招股书中 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IcmVNWl9fNGVMU3pvZ1ZrRktqUmtuQ0FXekRMaTZkbmkxR3hraTJpTVpjdmczbmYzd1dmSmZzWEE2X1QzcF9zSQ",
-   "source": "财联社",
-   "published_at": "2026-10-28T03:21:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-28T03:21:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IcmVNWl9fNGVMU3pvZ1ZrRktqUmtuQ0FXekRMaTZkbmkxR3hraTJpTVpjdmczbmYzd1dmSmZzWEE2X1QzcF9zSQ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "Anthropic招股书暗藏英伟达算力定价权隐忧",
-   "title_zh": "事关算力定价权！英伟达头号梦魇，藏在Anthropic招股书中 - 财联社",
    "sentiment": -1
   },
   {
@@ -5126,6 +5105,23 @@
    "zh_summary": "英伟达向Meta投资30亿美元",
    "title_zh": "英伟达向Meta投资30亿美元须知",
    "sentiment": 1
+  },
+  {
+   "id": "ebf5dfb984ab",
+   "title": "甲骨文与谷歌、英特尔、英伟达等扩大合作 股价一度涨5% - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02Q1VVY3VpVjhzYVpwNmFMTFFITmlJQ3NseDMzSlpiMjF4RkoyYi15ay1zLUwzbzc2ZHpZUlRCaUpoREMwWk9nbGVmMHZFaF93VnQyRjZmX3JNa3ExblJmUQ",
+   "source": "东方财富",
+   "published_at": "2026-10-27T21:30:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-27T21:30:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02Q1VVY3VpVjhzYVpwNmFMTFFITmlJQ3NseDMzSlpiMjF4RkoyYi15ay1zLUwzbzc2ZHpZUlRCaUpoREMwWk9nbGVmMHZFaF93VnQyRjZmX3JNa3ExblJmUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "80c0899b6e7c",
@@ -6630,24 +6626,21 @@
    "sentiment": 1
   },
   {
-   "id": "2a89af56a565",
-   "title": "英伟达近日创下历史新高，但其股价走势却陷入困境 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBX2t0NnBEU2lKZWxnNURPdW5DbjFrSkl2bVBhLTFDelNLTVNMU3F0MXgwYW5rZEIxbDNIY3JsUlptak9tYnl2eGsyQzlBNGgxQk5OMGRxYWQ5aWJP",
+   "id": "809a3a4b4ed1",
+   "title": "如何现在交易英伟达股票？ - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObTVsNXNmZTlHTWhJMDE4OGZSNEhWSW1RdHhLLW9oMmtaRGlGa01DcXd4M3pUQUliTkMwc1poNDBjY3pBUWdJMXhWUnFELWk1YUNONFVNcC1lZ29hTnI0TmhrWk9mVWNSNUIycUY2ME9oczFFeURTdTVWa1pBXzBGLWlnMHFnYXdkN0hKMFoyaw",
    "source": "Moomoo",
-   "published_at": "2026-10-27T13:50:34+00:00",
+   "published_at": "2026-10-27T14:58:47+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Moomoo",
-     "published_at": "2026-10-27T13:50:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBX2t0NnBEU2lKZWxnNURPdW5DbjFrSkl2bVBhLTFDelNLTVNMU3F0MXgwYW5rZEIxbDNIY3JsUlptak9tYnl2eGsyQzlBNGgxQk5OMGRxYWQ5aWJP"
+     "published_at": "2026-10-27T14:58:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObTVsNXNmZTlHTWhJMDE4OGZSNEhWSW1RdHhLLW9oMmtaRGlGa01DcXd4M3pUQUliTkMwc1poNDBjY3pBUWdJMXhWUnFELWk1YUNONFVNcC1lZ29hTnI0TmhrWk9mVWNSNUIycUY2ME9oczFFeURTdTVWa1pBXzBGLWlnMHFnYXdkN0hKMFoyaw"
     }
    ],
    "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达创历史新高后股价走势受困",
-   "title_zh": "英伟达近日创下历史新高，但其股价走势却陷入困境 - Moomoo",
-   "sentiment": 0
+   "session": "盘中"
   }
  ]
 }
