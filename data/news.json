@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T17:21:33.714076+00:00",
+ "updated_at": "2026-10-28T17:36:33.086669+00:00",
  "market": {
-  "price": 217.12,
-  "change_pct": -0.37,
+  "price": 217.03,
+  "change_pct": -0.42,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.23,
-   "count": 114
+   "count": 116
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.23（114条已评分）"
+     "note": "今日新闻情绪 +0.23（116条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.12 vs 20日均线 $223.87"
+     "note": "现价 $217.03 vs 20日均线 $223.87"
     },
     {
      "key": "分析师动向",
@@ -48,11 +48,11 @@
    "target_count": 17,
    "implied_upside_pct": 45.1,
    "ma20": 223.87,
-   "as_of": "2026-10-28T17:21:33.703927+00:00"
+   "as_of": "2026-10-28T17:36:33.069614+00:00"
   },
   "pe_ttm": 27.6,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+45.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "8804d4323a06",
+   "title": "Oracle AI World takeaways: making Nvidia envious, and storage... sexy? - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNiazkwX1VqZ2Zyb1o4UXZLSE0zcDZLZncyYTJVbmkxck1xZnJrQmdRUzhBaEd1R2prQmlmWXJOYmhQTm1lWE5DM1lWMlNvb0JDUE9UeFAxR3hwYkRSNXNXVmpDbHJCbDRqNi1EUWxBSFFFQXFESFdPenFHS0FBR0N0X3AxeHFYeXM5LVNBNWUxZ29BTzRHRm9haDV5aU0wQXdFOVcxbkdwTUNpcWZWRnh3",
+   "source": "Data Center Dynamics",
+   "published_at": "2026-10-28T17:23:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Dynamics",
+     "published_at": "2026-10-28T17:23:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakNiazkwX1VqZ2Zyb1o4UXZLSE0zcDZLZncyYTJVbmkxck1xZnJrQmdRUzhBaEd1R2prQmlmWXJOYmhQTm1lWE5DM1lWMlNvb0JDUE9UeFAxR3hwYkRSNXNXVmpDbHJCbDRqNi1EUWxBSFFFQXFESFdPenFHS0FBR0N0X3AxeHFYeXM5LVNBNWUxZ29BTzRHRm9haDV5aU0wQXdFOVcxbkdwTUNpcWZWRnh3"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
   {
    "id": "fbf26f007a43",
    "title": "NVDA Stock Retreats From $220 as Google TPUs and Nvidia Debt Risks Challenge Growth - FXLeaders",
@@ -6596,26 +6613,6 @@
    "zh_summary": "Firebird获准出口4.5万块英伟达GPU",
    "title_zh": "Firebird.ai获准向哈萨克斯坦出口4.5万块英伟达GPU",
    "sentiment": 1
-  },
-  {
-   "id": "f3bce2a9b3c5",
-   "title": "Nvidia allegedly no longer accepting RTX 5090 GPU and VRAM orders from graphics card makers - Club386",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWF3alozU2p4UnZRNUxCVWR0SzNMR2hQeEhIYS1RMjY0SkZiZjlsNHc4a1FXay16RjREeUdHcHpFUF9YVHlLdnoyOVhxUUY5NXNDYzlGdXJUOGpkTjFDYzVSOU1aOWZTaWlWMXJJaEg0X2dpRE9jdS16TGM4OGpaYU9sRmZLUnNZbktDQ2JJN0ZrQ1pnX0ozRmMyTjFNMGVHbWdKcVQzUWhRazhveUM3NllONXNBZms",
-   "source": "Club386",
-   "published_at": "2026-10-27T11:21:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Club386",
-     "published_at": "2026-10-27T11:21:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWF3alozU2p4UnZRNUxCVWR0SzNMR2hQeEhIYS1RMjY0SkZiZjlsNHc4a1FXay16RjREeUdHcHpFUF9YVHlLdnoyOVhxUUY5NXNDYzlGdXJUOGpkTjFDYzVSOU1aOWZTaWlWMXJJaEg0X2dpRE9jdS16TGM4OGpaYU9sRmZLUnNZbktDQ2JJN0ZrQ1pnX0ozRmMyTjFNMGVHbWdKcVQzUWhRazhveUM3NllONXNBZms"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达据称停接RTX 5090订单",
-   "title_zh": "英伟达据称不再接受显卡厂商RTX 5090订单",
-   "sentiment": -1
   }
  ]
 }
