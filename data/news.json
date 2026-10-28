@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T14:51:36.326795+00:00",
+ "updated_at": "2026-10-28T15:06:29.049831+00:00",
  "market": {
-  "price": 217.7,
-  "change_pct": -0.11,
+  "price": 218.02,
+  "change_pct": 0.04,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.15,
-   "count": 78
+   "avg": 0.16,
+   "count": 80
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +44.7%"
+     "note": "目标价中位数 $315（17家），隐含空间 +44.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.15（78条已评分）"
+     "note": "今日新闻情绪 +0.16（80条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.70 vs 20日均线 $223.90"
+     "note": "现价 $218.02 vs 20日均线 $223.92"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 44.7,
-   "ma20": 223.9,
-   "as_of": "2026-10-28T14:51:36.316487+00:00"
+   "implied_upside_pct": 44.5,
+   "ma20": 223.92,
+   "as_of": "2026-10-28T15:06:29.035490+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "405298bd4c93",
+   "title": "Nvidia launches a promptable transcription model - The New Stack",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TLURlc0pFeDBBb1JPbUtjWTAtZXA4Z1JzTmwzRWVUempmOEEtZzVwd08ycFpXMG1PSzRoUDMtaTN5MzduMm9oZW5GLXVwUFI2UUhkNDdhdEpwVEJGeFFJUFY5SUdDeGdPWUZXaGgtVjJZdw",
+   "source": "The New Stack",
+   "published_at": "2026-10-28T15:02:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The New Stack",
+     "published_at": "2026-10-28T15:02:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TLURlc0pFeDBBb1JPbUtjWTAtZXA4Z1JzTmwzRWVUempmOEEtZzVwd08ycFpXMG1PSzRoUDMtaTN5MzduMm9oZW5GLXVwUFI2UUhkNDdhdEpwVEJGeFFJUFY5SUdDeGdPWUZXaGgtVjJZdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "388bb9900b92",
+   "title": "Voice AI in vogue: Nvidia releases new open transcription model - TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYU5veWRiUWgzSl94VTg4NDlCZkJpX0NadTNIN1J3c3kxX3BOYk1TY2NUN3VNeUpFbUh4WWVXUmJyQ3dzTFhlcXlja0xIQWs4SlEteDFZTlVHMlAwS1F0Q1QxamJlbDBQTjh4R0ExX3ZQRFpXRlF3dzRHcXk0bkt4MVNMTS14N1RqcElCV3VsQUlXeVdlSlZkbG5qVkVNZw",
+   "source": "TechCrunch",
+   "published_at": "2026-10-28T15:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechCrunch",
+     "published_at": "2026-10-28T15:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYU5veWRiUWgzSl94VTg4NDlCZkJpX0NadTNIN1J3c3kxX3BOYk1TY2NUN3VNeUpFbUh4WWVXUmJyQ3dzTFhlcXlja0xIQWs4SlEteDFZTlVHMlAwS1F0Q1QxamJlbDBQTjh4R0ExX3ZQRFpXRlF3dzRHcXk0bkt4MVNMTS14N1RqcElCV3VsQUlXeVdlSlZkbG5qVkVNZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "2771b9c08ffd",
    "title": "Nvidia Has The Best Chance to Breach $6 Trillion First So I Buy - 24/7 Wall St.",
@@ -172,12 +206,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGk3bjFNVE5wbVh2SWRkZVhFZEFNSkYwd0E0QkRKcHVpQzBRWTlxbmREOWdWV2gxQ2pOWkg1d01xbnR0alVlLVpwWVM0SGxKalV3SThKS19WR1h0STkwOVRLOEV0cWVWdVhydkpYZjdxNUNuWENaclhJVTlnU3lORkNMN1lzWFZY",
    "source": "搜狐网",
    "published_at": "2026-10-28T14:06:36+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐网",
      "published_at": "2026-10-28T14:06:36+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGk3bjFNVE5wbVh2SWRkZVhFZEFNSkYwd0E0QkRKcHVpQzBRWTlxbmREOWdWV2gxQ2pOWkg1d01xbnR0alVlLVpwWVM0SGxKalV3SThKS19WR1h0STkwOVRLOEV0cWVWdVhydkpYZjdxNUNuWENaclhJVTlnU3lORkNMN1lzWFZY"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-28T14:06:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tSG4taEtDV0hZaHFGV01fZUJ3VVNiMjhxQndnbmZjWEdsb0RnNk40SVNITjNIeXdWOTk0T2FGOS1xRmdfSmJydnNFc1lCdmNzUjNZeURoRUxodVg4ZkFCWm9hOTM0M1M4WE96bWlkMi1HMno3MmpQalhfOWpFdGs"
     }
    ],
    "category": "产品技术",
@@ -6568,46 +6607,6 @@
    "zh_summary": "MassMutual减持38584股英伟达",
    "title_zh": "MassMutual减持38584股英伟达股票",
    "sentiment": -1
-  },
-  {
-   "id": "86112ac158c6",
-   "title": "NVIDIA Corporation $NVDA Stock Holdings Trimmed by Silverleafe Capital Partners LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg",
-   "source": "MarketBeat",
-   "published_at": "2026-10-27T09:12:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-27T09:12:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOFA5QkNfaFhlLUJOVnFxaXNRcmtGcGFHRnpMUURuemxlcXZKQzJuVm54cDRwSTFjWHZCbVBJaVQwX3RubEd6eVBTbEpGMFJVaDlZVDUxQmlvUTQ3TVZBNkY5dUtpd1dHMkRYZXR0YllLLVN3WGQ4dDZfempEa2ZCZWZqaEtzSWJzNnIyR1V3enF2RVFidlhSeEF1Vi1kUXVLY0NVOE9XYy1XbDJJRldVRVVHdVk4SFdqS0FMU3lTNFVDeFJaY1Vwdml1ejl5czktSGMxMjBuTTJGQjg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Paladin Partners买入英伟达股票",
-   "title_zh": "Paladin Partners买入英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "eb0ed05d4b6d",
-   "title": "NVIDIA Corporation $NVDA Stock Purchased by Rockland Trust Co. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdHRDZVJCUTNFLWJXUERsYlhyTEY3a0xfZ3FIakR3blVlMEFrWmdLekVXSEM1MV9BOFQwbmU2RHY1eVp3LWRPTHVpeW1sbzZpWnoxOHg2Z3BORF9XNmpia0ZoSDE0YWdZNExadF93eVNnX3NCR0o4dlprek8xOHJzem4wb0NPTUxyeVplYVo5RWt4QndtRHpUS09VekthNDZOUEdFU05SSTdMMkV1bVlkMTF5dUViVDlyZV9mYUpB",
-   "source": "MarketBeat",
-   "published_at": "2026-10-27T09:12:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-27T09:12:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdHRDZVJCUTNFLWJXUERsYlhyTEY3a0xfZ3FIakR3blVlMEFrWmdLekVXSEM1MV9BOFQwbmU2RHY1eVp3LWRPTHVpeW1sbzZpWnoxOHg2Z3BORF9XNmpia0ZoSDE0YWdZNExadF93eVNnX3NCR0o4dlprek8xOHJzem4wb0NPTUxyeVplYVo5RWt4QndtRHpUS09VekthNDZOUEdFU05SSTdMMkV1bVlkMTF5dUViVDlyZV9mYUpB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Rockland Trust买入英伟达股票",
-   "title_zh": "Rockland Trust买入英伟达股票",
-   "sentiment": 1
   }
  ]
 }
