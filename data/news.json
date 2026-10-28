@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T10:06:32.648289+00:00",
+ "updated_at": "2026-10-28T10:21:28.084190+00:00",
  "market": {
   "price": 217.94,
   "change_pct": 0.9,
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": -0.15,
-   "count": 20
+   "avg": -0.13,
+   "count": 23
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.15（20条已评分）"
+     "note": "今日新闻情绪 -0.13（23条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 44.5,
    "ma20": 224.44,
-   "as_of": "2026-10-28T10:06:32.634090+00:00"
+   "as_of": "2026-10-28T10:21:28.073319+00:00"
   },
   "pe_ttm": 27.7,
   "pe_pct_5y": 23,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "70fbda82bbc3",
+   "title": "Wave of PHP2Shell-style flaws coming, Nvidia security exec predicts - TechTarget",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVhhb2lzSlNJMVBJSW5pb2pPc0pXZGhsRXRzM3ZHZ3c0blRmeWc1a1l0Q1ItUjhSQlozM1FxOFZWcGkzRWp5MXdWbDA2MG9lMUFLd1Fwamo2dUQzQ3Z1a1hIMUp2WklMc0N5bHdZWlpSdk5mY2FRTDhaU3FCRERfNDlGZ1JvUDBDUlZPMTBnT3QwQ3ZtVHZZY3h0TWNuZ3BBY28xRWZsWUR2dw",
+   "source": "TechTarget",
+   "published_at": "2026-10-28T10:04:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechTarget",
+     "published_at": "2026-10-28T10:04:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVhhb2lzSlNJMVBJSW5pb2pPc0pXZGhsRXRzM3ZHZ3c0blRmeWc1a1l0Q1ItUjhSQlozM1FxOFZWcGkzRWp5MXdWbDA2MG9lMUFLd1Fwamo2dUQzQ3Z1a1hIMUp2WklMc0N5bHdZWlpSdk5mY2FRTDhaU3FCRERfNDlGZ1JvUDBDUlZPMTBnT3QwQ3ZtVHZZY3h0TWNuZ3BBY28xRWZsWUR2dw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "38ad4902c577",
    "title": "Nvidia partners with PreussenElektra to explore deployment of AI data centers at former nuclear sites in Germany - Data Center Dynamics",
@@ -100,6 +117,40 @@
    "zh_summary": "传RTX 5090与5080停产，暗示AI或崩溃",
    "title_zh": "爆料称RTX 5090与5080停产，暗示AI崩溃将至",
    "sentiment": -1
+  },
+  {
+   "id": "03f1fdc1e2ed",
+   "title": "英伟达概念板块10月28日涨5.87%，豪恩汽电领涨，主力资金净流入80.86亿元 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanJMcE9YMlEzN3lZdUhnTlRDOTRyY2tQeWVGamtyekNxTFd4VzYzVmVSOFlITlJmQWZvMlhZYzlrV2tNMHpwUExYWUR1MHN0SGFmVWJIV2w5V0twV3RYVVcxekNIa19qSldqSmJ4M0o0ZU0zNFJ0eXVNSmtuLVYweEttcUN4VXd4QW1JZg",
+   "source": "搜狐网",
+   "published_at": "2026-10-28T09:48:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-28T09:48:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanJMcE9YMlEzN3lZdUhnTlRDOTRyY2tQeWVGamtyekNxTFd4VzYzVmVSOFlITlJmQWZvMlhZYzlrV2tNMHpwUExYWUR1MHN0SGFmVWJIV2w5V0twV3RYVVcxekNIa19qSldqSmJ4M0o0ZU0zNFJ0eXVNSmtuLVYweEttcUN4VXd4QW1JZg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "912c2f111dff",
+   "title": "NVIDIA RTX 5080 is now selling for nearly $2,000 at US retailers, $800 higher in just two months - VideoCardz.com",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVN0aU41dDNMQ2Y5YWFvLW5hQ0drRGNYZTQ5dTFUSVFPaU1RSDhjSFRJN0Q0ZHR3V0RRTmhBcUlnallHNlBzSlc3VGtZdzg2SC0wREhmT0dWbTktTlh3N05kcUJiYkVVNFdfajFqQjlpbkJsV0VzaklUNGVlMEZxQkZRbHhEMXNLcmtrZmlObWFtNlJUVDYzWjExdm1GZXE5U0Fqa1JLX2tCeUlVcUhRNmFsblpnVDVOS1JQYQ",
+   "source": "VideoCardz.com",
+   "published_at": "2026-10-28T09:48:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "VideoCardz.com",
+     "published_at": "2026-10-28T09:48:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVN0aU41dDNMQ2Y5YWFvLW5hQ0drRGNYZTQ5dTFUSVFPaU1RSDhjSFRJN0Q0ZHR3V0RRTmhBcUlnallHNlBzSlc3VGtZdzg2SC0wREhmT0dWbTktTlh3N05kcUJiYkVVNFdfajFqQjlpbkJsV0VzaklUNGVlMEZxQkZRbHhEMXNLcmtrZmlObWFtNlJUVDYzWjExdm1GZXE5U0Fqa1JLX2tCeUlVcUhRNmFsblpnVDVOS1JQYQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "489fce936df2",
@@ -182,6 +233,23 @@
    "sentiment": -1
   },
   {
+   "id": "58ab7211ee5e",
+   "title": "Used NVIDIA RTX 5090 graphics cards have reached over $6500 on the secondary market. - GameGPU",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzJzaGdrWjVObVRaSUh6ekNPTE1yUGdOYkJnQ2xkMlIyV3pmX01HWmFXX2RxUFJyY1lha25HUGRPS1F3ZUxtTGZQMTd1ZTFXS0hPYTdlSHBEX0J1U2tKU0syZ3NKMVlOWDRlUVNGYUhYbUlMNnlfRnFkd1dmeXZ0VmNmZnBKdE9rV3dYa21WVVItTlJlY1VMblNDZ2hCZUxDSm9XLUZXWXozZmJHUzM1RVUxT3RjRG05SmluOTBiOXJ3UVdNdDUxbnR6elp1QQ",
+   "source": "GameGPU",
+   "published_at": "2026-10-28T08:49:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GameGPU",
+     "published_at": "2026-10-28T08:49:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzJzaGdrWjVObVRaSUh6ekNPTE1yUGdOYkJnQ2xkMlIyV3pmX01HWmFXX2RxUFJyY1lha25HUGRPS1F3ZUxtTGZQMTd1ZTFXS0hPYTdlSHBEX0J1U2tKU0syZ3NKMVlOWDRlUVNGYUhYbUlMNnlfRnFkd1dmeXZ0VmNmZnBKdE9rV3dYa21WVVItTlJlY1VMblNDZ2hCZUxDSm9XLUZXWXozZmJHUzM1RVUxT3RjRG05SmluOTBiOXJ3UVdNdDUxbnR6elp1QQ"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
+  },
+  {
    "id": "33260d35f425",
    "title": "Running NVIDIA Nemotron 3.5 Bolt E4B Without a GPU: Benchmark Results - HackerNoon",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWpzZkx5alZjcV9VdlAtd1JtOGtBeHQxQmZINXV6WjYzQzVWTVZxMTVjekd4Qy04dHE2RWVWRTVEYVJpOVYxWlJoVW9OTENta2E4bnc3MGRDbXZkQ2Q2OFdXY2FtRGdUa2NoX1V4T25hMXY3TWVpVU80YkJuRDlwR1JSbFAwNHBXdFdWaUdNS1NNaVZv",
@@ -207,12 +275,17 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHJaTEdIMmZieTVpWUF3ai02YXR2NXpuQkU5QW5haWFTMHFKZEZnb01BamNQNEM0TW5xbFdYYnlEbDFfS1I2Y1VwN3ZkMFdhS0tPbHVlWkF6VVN6Zk8wR282cnFXYVpCUmJZZThVbkVsN3ZselNyaG1SZlNITS1KTnhoRlo1cXNjNWotSWxTVGdVaWp0QjhZRXlVWFFFMm9yaFRsOG5TMGlGaHpSWlZWcXZMY0l3cVlQaXFWSXluVmE",
    "source": "Finance Magnates",
    "published_at": "2026-10-28T08:46:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Finance Magnates",
      "published_at": "2026-10-28T08:46:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHJaTEdIMmZieTVpWUF3ai02YXR2NXpuQkU5QW5haWFTMHFKZEZnb01BamNQNEM0TW5xbFdYYnlEbDFfS1I2Y1VwN3ZkMFdhS0tPbHVlWkF6VVN6Zk8wR282cnFXYVpCUmJZZThVbkVsN3ZselNyaG1SZlNITS1KTnhoRlo1cXNjNWotSWxTVGdVaWp0QjhZRXlVWFFFMm9yaFRsOG5TMGlGaHpSWlZWcXZMY0l3cVlQaXFWSXluVmE"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-28T08:46:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1Y4a1ZJSnBZdDZaUWxzdmc1anRWUHM2WmZtZ2lZOFI5dVp2cE1QNE5yQkFhdWRvbU92TEtDeTNJRmtGWmJCMnVReEpQYldRbUN1OUhIZXdCNUFzSnpVSmpyTmc1cjIwbUY5eWpDYjRPcHc4TGJ1akpHai0tRUJUdjhpcFdEaHJoQWREODhPd00zMXNrV0d2cHZFTW9NckQzQ1BnQVIyWW9xTW9vUUJ6NGdLYkRGYjJKX0lydFVlTE9fZUxyaV9hblY0NmdnWktoeHc"
     }
    ],
    "category": "其他",
@@ -500,6 +573,23 @@
    "zh_summary": "OpenAI计划向谷歌采购TPU芯片",
    "title_zh": "英伟达独供松动！OpenAI计划向谷歌采购TPU芯片 - 驱动之家",
    "sentiment": -1
+  },
+  {
+   "id": "b7447d853f6b",
+   "title": "英伟达 HBM4 方案生变！ - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX21WNVV2bVFvOS1oSG1hWTZmU1hmLS1ISThUcC1GNmYwM3pBX09MQmxYTERoWnY0czBRb0RkQ3hWdHZuZjczd2l2d19nZlNub2ctaS1CeXVrOVZBQWlaREpFWkZmTXZLWThTZlI3YnlodlhodVZVWGRqQXg2NDk1QXVkRGJUUHI0SFQ2Yw",
+   "source": "搜狐网",
+   "published_at": "2026-10-28T06:45:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-28T06:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX21WNVV2bVFvOS1oSG1hWTZmU1hmLS1ISThUcC1GNmYwM3pBX09MQmxYTERoWnY0czBRb0RkQ3hWdHZuZjczd2l2d19nZlNub2ctaS1CeXVrOVZBQWlaREpFWkZmTXZLWThTZlI3YnlodlhodVZVWGRqQXg2NDk1QXVkRGJUUHI0SFQ2Yw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "aaa9c2e7201c",
@@ -6582,146 +6672,6 @@
    "session": "盘前",
    "zh_summary": "英伟达投资30亿美元参与Meta发售",
    "title_zh": "英伟达将投资30亿美元参与Meta股权发售",
-   "sentiment": 1
-  },
-  {
-   "id": "1f308b2ca454",
-   "title": "JUST IN: Nvidia $NVIDIA (NVDA.US)$ to invest $3 billion in Meta $Meta Platforms (META.US)$ equity offering - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlJrTmFiemt4VjQza1ZsUVllc2R6RHhTYVBUSDlmUERyTlJLck1HcVgyd3o4dzNmOTNSOTFPS0hFVnZTTmpYQnBVYWswOXFCTE1JQVkzcUZiSHQxV0dpRElQNEpfUk5aU0VkTVdUd0lzbUVWTmV2MjlCc29tdVZHTzdnRjdQeUk1OWIzck9nZXJmczhncmx6M19NbGZSZFh0YkJtR253",
-   "source": "Moomoo",
-   "published_at": "2026-10-27T06:07:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-27T06:07:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlJrTmFiemt4VjQza1ZsUVllc2R6RHhTYVBUSDlmUERyTlJLck1HcVgyd3o4dzNmOTNSOTFPS0hFVnZTTmpYQnBVYWswOXFCTE1JQVkzcUZiSHQxV0dpRElQNEpfUk5aU0VkTVdUd0lzbUVWTmV2MjlCc29tdVZHTzdnRjdQeUk1OWIzck9nZXJmczhncmx6M19NbGZSZFh0YkJtR253"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达拟投资30亿美元参与Meta增发",
-   "title_zh": "英伟达拟投资30亿美元参与Meta股权融资",
-   "sentiment": 1
-  },
-  {
-   "id": "72cd0055f81a",
-   "title": "Nvidia, Meta partner on Muse agent as Nvidia invests $3 billion - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSjBlNWdnMjZ5OENGekpodktOdnNXaHVoQlNEY2JyQnlxU0lJbVo4T2h1dk9hdFJ3eWFtZHE2cER6TmhRRVJ1dnQ3UFA2ZmNLRmtFT19QZEw0Q3hFNDJ1SkxUNUVVUUEwSEY5QWdwWEVSUHI2a2ZCQlptMVpSd083MDVCbXh3UThVa05haUpnSlQtWUdmZlQwSy04S1FVS0ZGWThMTzYzbXk3Wlg2V1Nlc2d5Tm1pdjNfcmNMOE82QUM1ejc5SnA2V080cw",
-   "source": "TradingView",
-   "published_at": "2026-10-27T06:06:00+00:00",
-   "outlets_count": 8,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-27T06:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSjBlNWdnMjZ5OENGekpodktOdnNXaHVoQlNEY2JyQnlxU0lJbVo4T2h1dk9hdFJ3eWFtZHE2cER6TmhRRVJ1dnQ3UFA2ZmNLRmtFT19QZEw0Q3hFNDJ1SkxUNUVVUUEwSEY5QWdwWEVSUHI2a2ZCQlptMVpSd083MDVCbXh3UThVa05haUpnSlQtWUdmZlQwSy04S1FVS0ZGWThMTzYzbXk3Wlg2V1Nlc2d5Tm1pdjNfcmNMOE82QUM1ejc5SnA2V080cw"
-    },
-    {
-     "name": "KSL News",
-     "published_at": "2026-10-27T06:07:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONG1jZzRfMTU2MGVQbTlkRUpLakZ4ZEtwd1hxV2lMOTdkcXkzcC1ObEFTOE5yTmFWSmU1YTdFZDJDSWNTc3ZVMmQ2eDJkQVluSzE1S2N1VlVMX1ZINDJXRHVyY0Z5RzdUclNyeWZYZkNOVDVDNFpUZ0g5WnJWeEZHVEZ0WDJyT1RZYk1mODE3T1YwcVlBVGh4ZENHZlFEYTA"
-    },
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-27T06:08:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2Q3RzNwUk5IQWZ1NjIwYmxWV2xCVjZRQVk2OUQ3a1B5MWhKanZMZ3JyMHVRQ2MwSzRzZVZ4VmxNTGNKWDljd084OTRUSWcwNHdFYmduNTJ1RTAtcW0xRHVobW1BcVNQakJrT3paQkdQODl0dVoxZHNwYXhiVFJpclpNaVZrQ2lqRk5oMnBZYzlPOGc2alc3Q2szb2pDOWJhUDJXUA"
-    },
-    {
-     "name": "AOL.com",
-     "published_at": "2026-10-27T06:19:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZUdUdVhLSXhuaGRYUGJzRnFvNkV0ME1oUjQybElUMHZnTXZQNmhMb1VyWUxuWU9SaV90RFVGZXhoRlFDYzRGRDZ5ME5GRzlvYy14ZWF4cENrZ19DeTdXSUtFZnRtMVRvbWQyOUJ2VWxTX2RVaFlGQVA5VU5zaXM"
-    },
-    {
-     "name": "Central Oregon Daily",
-     "published_at": "2026-10-27T06:19:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc2pGT2xudWI0UDk5aXh6RjlwdkNIVXc3VkIzMGdrcjMzRlZvd0pDWnpfaE1SdE0yTzV2R0VfbF8yeTBTb2hXc1RJcjNtNHdUTS1iTnpJZkd6SU9tNGVQaV9qZVhjZ01oelctZXFCTkhiS3ZYR3Y0cWhQRks2X2J0ak9CeXRZdTcxekVFS1hzQUZYclVWaVUzSWFndTNEdjBnMTZTTUh4bWhpQjQwZEh4UDlJd2dSVlZvLURIZV9hdENXYWxWTTVZMUdfX3AxV1RWVjEwOHJHc2VBdHVmMmI4QWg5eGRHeWUwMk1aWTdsbElrdw"
-    },
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-27T06:27:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFR0UHBMaHJWdUhFcFhXQTN3bWYwX09oUlR1Zng4QkQ0bGJtNlVGSWNvSnl3X1ZSREF2YWtqZldleGpWeG5ERnBQZjJ2amQzTEpkY0pVS1l1bEJZa3lzTUJnWTc1cGk0aVJYOW1UQ2RnN0twaE9rbm1Na3F6bjQxaDA4UU9QaTBNZ3NWc2ZnVVFZMHlSVjhOb2ZRMGsyVFFtOEd5SmwybkRnal9QZm5FcmhPb3lJS25MZmc"
-    },
-    {
-     "name": "U.S. News - Money",
-     "published_at": "2026-10-27T06:07:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmtCdkFxM3VveWoyYlBEb0pZQk40UXMzbjBGMjgxdTFIUUlCdFBIUVZNZktIcHVyRnoxdXJWRTQwYVJqaDFOVE13c2FPY2VMX1cyaWZpQzgxWUowZ0lqMGloelMzbUpEV1BOQ0hsR2pOSmpUZkFQcERLQ3FNeDM3ZUZDckoyVHlMYzR5Sm5qdUJmVXIxWWJTazFVRkVKejBiLU5IX3FZSUNqU3BLcjhtc0R6emFqMzhOVE1SZzJR"
-    },
-    {
-     "name": "KFGO",
-     "published_at": "2026-10-27T06:40:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2s2T09BREg4c1ZpZEx1MzV5UWFqdERXU3dPMDMxaXIwTDdWc3NFSTBSclBNMDViZEtOWU1WWmFxR0hObmNFZVFXRmxjd3NQODdpRkdLSTdieHhSb3pUZjR2Nk9UWHVkbzl5cUdaZF9nc1ExVjNNem9QSW03RUhoUGUyb1RvamczbURLUzlRbDZhTmRH"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "breaking": true,
-   "zh_summary": "英伟达投资30亿美元与Meta合作Muse",
-   "title_zh": "英伟达与Meta合作Muse智能体并投资30亿美元",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.29,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "3becf952ca52",
-   "title": "Injective Opens 10x Leverage Perpetuals on Nvidia GPU Rental Costs - BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRmRycWZjNHZJOV9zanhONjlDVXdHZHVqOHl6bHFsMVdjSm9iZXczX214N25XT050MlBCaE5kY09jcFZ6Vk9OYm5sakVxM2xvS050bXpxQnJQSktXbE50NURRb2xuM3lua2N5emFNbkJNOTFQZlE",
-   "source": "BigGo Finance",
-   "published_at": "2026-10-27T06:05:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BigGo Finance",
-     "published_at": "2026-10-27T06:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRmRycWZjNHZJOV9zanhONjlDVXdHZHVqOHl6bHFsMVdjSm9iZXczX214N25XT050MlBCaE5kY09jcFZ6Vk9OYm5sakVxM2xvS050bXpxQnJQSktXbE50NURRb2xuM3lua2N5emFNbkJNOTFQZlE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "Injective推出英伟达GPU租赁永续合约",
-   "title_zh": "Injective推出英伟达GPU租赁成本10倍杠杆永续合约",
-   "sentiment": 0
-  },
-  {
-   "id": "65c9a829f2a7",
-   "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth - NVIDIA Newsroom",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzg1REp1LUMyZ2Njb0RyaWx2cHJSVU8taDFsUHBtcjlhUDlsT25MYmY4NGxrRElZbUNrNFJGRDBiSjlGOFdHbXhseXNJYTk4eFpvMXhGUTh1QXVDQmdFem43dWZId01nNzRndVRGU0c1ckJaam03ZG0yckJMNjYySUdDTGhvSFJSMmRoaDliRjFXcTNIVmduQ2JoVndfREtsYXlBUldNeE1PQmRSLVRqejhNWFYzUWVpMXBnRkFlNU9nZ1ljLVE",
-   "source": "NVIDIA Newsroom",
-   "published_at": "2026-10-27T05:59:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Newsroom",
-     "published_at": "2026-10-27T05:59:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzg1REp1LUMyZ2Njb0RyaWx2cHJSVU8taDFsUHBtcjlhUDlsT25MYmY4NGxrRElZbUNrNFJGRDBiSjlGOFdHbXhseXNJYTk4eFpvMXhGUTh1QXVDQmdFem43dWZId01nNzRndVRGU0c1ckJaam03ZG0yckJMNjYySUdDTGhvSFJSMmRoaDliRjFXcTNIVmduQ2JoVndfREtsYXlBUldNeE1PQmRSLVRqejhNWFYzUWVpMXBnRkFlNU9nZ1ljLVE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达与Meta扩大Muse模型合作",
-   "title_zh": "英伟达与Meta扩大Muse系列模型合作",
-   "sentiment": 1
-  },
-  {
-   "id": "314ffaef86c5",
-   "title": "Elon Musk Wanted 30,000 Of NVIDIA’s Bleeding Edge AI GPU Systems But Is Getting Just 20,000, Still Enough To Be 2027’s Biggest Buyer, Says Analyst Jeff Pu - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWTZsOUJERkktUHZwWlVqdWEtWUI3V09RZm1TZHlYTlBuV3k3Z0xySkk4MnliTkc2NVJDR1ZvLXhKUmhuLXFJcjEwc3pCdHJ3RGlMR0VTVHkzX2N1aDg0WFJDVlRFb0V5cG5FYU1GTG5HWW9hN1lvTTNoZGl1SW5FQ3FWdlBoWGRfUEZ6QzhSZ1hDTTk4emU0akNpUVVmdUJhTWMwcG5tSnlZZTdqd01ONlNNRVk3eEpjRHd4djl6NjU5Q3JjQWxnRXJJRlg2TjNhWUxfbUpzWlQ4bE5uNTRFa1U5c1h6dll5VmpTeWlaYTB0QVk5MWN6SWEyR0N3TlHSAYQCQVVfeXFMT1VzemVab0o4QnJ1UEZLRVNySlRJaDRScFdvRl83dDk1anpDbUJTd2pMZWRPWUo0TVNRSWx0M3NRN1M3QTdMVDVhTVYyZ1BkRV9WaE1iQlBmWDF2b1JJanY1R3FoZVdRVXBFOEhEWlA3Z0tKOUs4c1hqb19aYjF3b25PZzdKZ3JjYWhLeno1MjlfNmppWC1Kb0JCaWVRR3B0SEFwWF93Y3dTUzU2TTA3XzNDZ24wRnBlZk9BWFB4bzdQR2dZN2JKZFNWQW5mUFU3bWFqcTRwaVU1SjViR0NjR0hRLVRzSjRNUkNHUU0zQWNmMmw0dXM2TEpBWHR0Q2tDSDNpbGY",
-   "source": "Wccftech",
-   "published_at": "2026-10-27T05:58:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-27T05:58:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWTZsOUJERkktUHZwWlVqdWEtWUI3V09RZm1TZHlYTlBuV3k3Z0xySkk4MnliTkc2NVJDR1ZvLXhKUmhuLXFJcjEwc3pCdHJ3RGlMR0VTVHkzX2N1aDg0WFJDVlRFb0V5cG5FYU1GTG5HWW9hN1lvTTNoZGl1SW5FQ3FWdlBoWGRfUEZ6QzhSZ1hDTTk4emU0akNpUVVmdUJhTWMwcG5tSnlZZTdqd01ONlNNRVk3eEpjRHd4djl6NjU5Q3JjQWxnRXJJRlg2TjNhWUxfbUpzWlQ4bE5uNTRFa1U5c1h6dll5VmpTeWlaYTB0QVk5MWN6SWEyR0N3TlHSAYQCQVVfeXFMT1VzemVab0o4QnJ1UEZLRVNySlRJaDRScFdvRl83dDk1anpDbUJTd2pMZWRPWUo0TVNRSWx0M3NRN1M3QTdMVDVhTVYyZ1BkRV9WaE1iQlBmWDF2b1JJanY1R3FoZVdRVXBFOEhEWlA3Z0tKOUs4c1hqb19aYjF3b25PZzdKZ3JjYWhLeno1MjlfNmppWC1Kb0JCaWVRR3B0SEFwWF93Y3dTUzU2TTA3XzNDZ24wRnBlZk9BWFB4bzdQR2dZN2JKZFNWQW5mUFU3bWFqcTRwaVU1SjViR0NjR0hRLVRzSjRNUkNHUU0zQWNmMmw0dXM2TEpBWHR0Q2tDSDNpbGY"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘前",
-   "zh_summary": "马斯克获2万套英伟达AI GPU系统",
-   "title_zh": "马斯克获2万套英伟达AI系统，仍为2027最大买家",
    "sentiment": 1
   }
  ]
