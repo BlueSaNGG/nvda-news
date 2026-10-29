@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T13:51:33.342872+00:00",
+ "updated_at": "2026-10-29T14:06:31.791317+00:00",
  "market": {
-  "price": 213.19,
-  "change_pct": -1.02,
+  "price": 212.9,
+  "change_pct": -1.15,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 76
+   "avg": -0.01,
+   "count": 79
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 65% 分位"
+     "note": "现价处于52周区间 64% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +47.8%"
+     "note": "目标价中位数 $315（17家），隐含空间 +48.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（76条已评分）"
+     "note": "今日新闻情绪 -0.01（79条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.19 vs 20日均线 $222.90"
+     "note": "现价 $212.90 vs 20日均线 $222.89"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 65,
+   "price_52w_pct": 64,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 47.8,
-   "ma20": 222.9,
-   "as_of": "2026-10-29T13:51:33.334227+00:00"
+   "implied_upside_pct": 48.0,
+   "ma20": 222.89,
+   "as_of": "2026-10-29T14:06:31.781072+00:00"
   },
   "pe_ttm": 27.1,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,91 @@
   }
  },
  "stories": [
+  {
+   "id": "636bbdcd71db",
+   "title": "China’s Iluvatar CoreX says new GPU matches Nvidia’s H200 as chip gap closes - South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOGJWbWlza2g3SGJtbDRSbUQxcmhtYW91QzMxV2Zpa0lEWDVyZnZTZzk4VGhWdF93UUh3aTJQR1pWMUxvY3lmZDZGQlhwaVVLX0FMY0EtWlN6MVl4cUJ2Sy1VeVF0NjNWWVB4Zi1aT3lGTUhxeW5xOTJ5S2tBV0xiTmRZWFBVOWxRMjhjOFo1cnZkLXB4bm00NHJfdXMyQzlIUzVzOEFuSG4zNS1id2NTMHpWRTIzaGhnVlR1ajhuRDM2TXM3amFRMUQyVDZETE5jUnZneWNGTdIB1wFBVV95cUxOaVQ3U1R1WThhZDg2cXdhZm9NbTUwMmQyMHBNaVRaN3RWV19JOVdfVW04UUxQVlB3RDQ5WmlnRXcyUzhxTFV2ODRELVJobng3VklqWlhJalNTcE1mTGkwSGZrT3hwV21BTFpmSmxCc3NYT25Ka3l1d2xyNFBoYnRnaF93NE4zNkV2M1ZXV2tzSlM1WC1XUkZVSllQeldtZ0NVd2NadHVDTkc1VHRxQkh3QXlBaUh0VGdLZEFvajFOMGUyU2M0U2NEa1J1N21QYnd1S0IyV0RIVQ",
+   "source": "South China Morning Post",
+   "published_at": "2026-10-29T14:00:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "South China Morning Post",
+     "published_at": "2026-10-29T14:00:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOGJWbWlza2g3SGJtbDRSbUQxcmhtYW91QzMxV2Zpa0lEWDVyZnZTZzk4VGhWdF93UUh3aTJQR1pWMUxvY3lmZDZGQlhwaVVLX0FMY0EtWlN6MVl4cUJ2Sy1VeVF0NjNWWVB4Zi1aT3lGTUhxeW5xOTJ5S2tBV0xiTmRZWFBVOWxRMjhjOFo1cnZkLXB4bm00NHJfdXMyQzlIUzVzOEFuSG4zNS1id2NTMHpWRTIzaGhnVlR1ajhuRDM2TXM3amFRMUQyVDZETE5jUnZneWNGTdIB1wFBVV95cUxOaVQ3U1R1WThhZDg2cXdhZm9NbTUwMmQyMHBNaVRaN3RWV19JOVdfVW04UUxQVlB3RDQ5WmlnRXcyUzhxTFV2ODRELVJobng3VklqWlhJalNTcE1mTGkwSGZrT3hwV21BTFpmSmxCc3NYT25Ka3l1d2xyNFBoYnRnaF93NE4zNkV2M1ZXV2tzSlM1WC1XUkZVSllQeldtZ0NVd2NadHVDTkc1VHRxQkh3QXlBaUh0VGdLZEFvajFOMGUyU2M0U2NEa1J1N21QYnd1S0IyV0RIVQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "451bfd32c71b",
+   "title": "$NVIDIA (NVDA.US)$[Smirk][Smirk][Smirk][Smirk] - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEelotNlZOdjhacWRHTHlHTm90NTB6ZUhaT29EbkRXQV9YSWk1SVVQZnRYQV9YYVhOUEFGTjROeEFkNWc3SVRHOG1WTkItRE9PNTVneGhXVl9BYkNYYVJfY2kxdTdaM0NieTZVcl9pWW13UHJOQ2U0",
+   "source": "Moomoo",
+   "published_at": "2026-10-29T13:56:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-29T13:56:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEelotNlZOdjhacWRHTHlHTm90NTB6ZUhaT29EbkRXQV9YSWk1SVVQZnRYQV9YYVhOUEFGTjROeEFkNWc3SVRHOG1WTkItRE9PNTVneGhXVl9BYkNYYVJfY2kxdTdaM0NieTZVcl9pWW13UHJOQ2U0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "79f4afa2e3af",
+   "title": "$英伟达 (NVDA.US)$[奸笑][奸笑][奸笑][奸笑] - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jX0Ywcld2LTMzbXJsWkh5TmRoNEU0U2JzZ2VBdE9oTEJSX1NUaHFKcGNKVEZLUUlfdnUtcU1oSWdTS2dUcDNFTDhqeER0Q2VWMVlLUkpJbHZIby13NUd3eURNVGgyQ1B0UkRBVFNRSHU5VkFTRlE4THItQ1ZBQQ",
+   "source": "Moomoo",
+   "published_at": "2026-10-29T13:56:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-29T13:56:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jX0Ywcld2LTMzbXJsWkh5TmRoNEU0U2JzZ2VBdE9oTEJSX1NUaHFKcGNKVEZLUUlfdnUtcU1oSWdTS2dUcDNFTDhqeER0Q2VWMVlLUkpJbHZIby13NUd3eURNVGgyQ1B0UkRBVFNRSHU5VkFTRlE4THItQ1ZBQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "56d3888abb7c",
+   "title": "US officials believe a suspected Chinese intelligence asset got close to Nvidia’s Jensen Huang, NYT reports - Nacionale",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVE42X1dEalJlOWtraEpMTW9HRU1IZ3Vhb2ZoU2Z1UERhSm1jalNTVFNnT3VYSngwQnc0VHE4OG5TelBOektTTnRoRnBjREEyWmFjSHV1OWRHaFBUZHkzN0lRQkVSZ2pqemh6WUxkVGJfWW5hWkxteFBxY0hTS05sQWRNRXdGRy1wX1pHa3p0Vm9fbmk5V0dqeWZ6TTlYQ2lo",
+   "source": "Nacionale",
+   "published_at": "2026-10-29T13:55:39+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Nacionale",
+     "published_at": "2026-10-29T13:55:39+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVE42X1dEalJlOWtraEpMTW9HRU1IZ3Vhb2ZoU2Z1UERhSm1jalNTVFNnT3VYSngwQnc0VHE4OG5TelBOektTTnRoRnBjREEyWmFjSHV1OWRHaFBUZHkzN0lRQkVSZ2pqemh6WUxkVGJfWW5hWkxteFBxY0hTS05sQWRNRXdGRy1wX1pHa3p0Vm9fbmk5V0dqeWZ6TTlYQ2lo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "e1c97b25d57f",
+   "title": "NVIDIA GeForce NOW Gets Phantom Blade Zero and Eight More Games This Week - TechPowerUp",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQkU4NVVVLW9Ob3g0RkQ4RkRwUW42bWdWNTZEcUx4bEwzTUNSRDBvY3V1TjNwZWk1clJ0djdpSUFEdDZDalp5dWRRZnptX1ZreGRpQ3MxeWthRXNfS2Jhd2N3X0N0YnRhNmZNWEROQV94OUtkV29mMDkta3I3YzBzT3pFWENROWtnZ3FSQkMxR1VSSzY1eUFSSUM1a0dKalViNTFFcm83bWttZ05B0gGyAUFVX3lxTE14SEtOdm84cVFiVEhDVWYxaURwZmh4S2dSNmdfbm9kZEZ6bG1KczFyVk9pOWFfZU1ySG9mclQxWjhKQnFlal9JSzdwWDQ4VWtMNE5RMTc2N0dCTngyaE1aVGFGN0s4VFpGbXE3NEZYb2Qwc2FrRGFWOW4wVWhxWU5iQktWVFl4cUg2cWFNZktzOVV4djlJZUh0N0ttaHVlazZ5dV8zaUF0V09MRFFfQ2JwNGc",
+   "source": "TechPowerUp",
+   "published_at": "2026-10-29T13:47:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-10-29T13:47:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQkU4NVVVLW9Ob3g0RkQ4RkRwUW42bWdWNTZEcUx4bEwzTUNSRDBvY3V1TjNwZWk1clJ0djdpSUFEdDZDalp5dWRRZnptX1ZreGRpQ3MxeWthRXNfS2Jhd2N3X0N0YnRhNmZNWEROQV94OUtkV29mMDkta3I3YzBzT3pFWENROWtnZ3FSQkMxR1VSSzY1eUFSSUM1a0dKalViNTFFcm83bWttZ05B0gGyAUFVX3lxTE14SEtOdm84cVFiVEhDVWYxaURwZmh4S2dSNmdfbm9kZEZ6bG1KczFyVk9pOWFfZU1ySG9mclQxWjhKQnFlal9JSzdwWDQ4VWtMNE5RMTc2N0dCTngyaE1aVGFGN0s4VFpGbXE3NEZYb2Qwc2FrRGFWOW4wVWhxWU5iQktWVFl4cUg2cWFNZktzOVV4djlJZUh0N0ttaHVlazZ5dV8zaUF0V09MRFFfQ2JwNGc"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "89d68ff71486",
    "title": "Eclypsium and NVIDIA Collaborate to Address Emerging AI Infrastructure Attack Surface and Strengthen AI Trust - Security Boulevard",
@@ -107,12 +192,17 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFFGQ3JLNVhhZkJORVpfQWI2Sm4zMUR5OERBSTc4OUtlSkVrak5YWUVpSnhBZVhBZWVWdkpOZHRlZVVCczR5V1RnOEFVU0ZQY2JBNF9GN3pqSG9GenpNYTE5NlVSZGhXbm4ySEl6aTBvQjdlb095Wm82RzNFcEhrcVNYeExMR3dyeGJmWDhheE90dS1XWFF2QzVDRjd6aVphVkgwbkJvT0N3OWNOUmFz",
    "source": "Reuters",
    "published_at": "2026-10-29T13:31:43+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Reuters",
      "published_at": "2026-10-29T13:31:43+00:00",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFFGQ3JLNVhhZkJORVpfQWI2Sm4zMUR5OERBSTc4OUtlSkVrak5YWUVpSnhBZVhBZWVWdkpOZHRlZVVCczR5V1RnOEFVU0ZQY2JBNF9GN3pqSG9GenpNYTE5NlVSZGhXbm4ySEl6aTBvQjdlb095Wm82RzNFcEhrcVNYeExMR3dyeGJmWDhheE90dS1XWFF2QzVDRjd6aVphVkgwbkJvT0N3OWNOUmFz"
+    },
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-10-29T13:43:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRWxyQjMzTUlwaFM3cHFBTGU5eXRZOFllVnN1a3Nub3FkYzd2eHFmWkVEdjNLMVRzZzFOQ1kxc08ycWRnajZjYTNUSGVkWG5ySFdyRml4bDJjTWFrdGVpWWhnQWFIWGFjSkN4SjFzSGdlN1QtNGdZMzZLNThFbXJtdmRWNDVJcXROUnZhU1plQlo5dnNJRTRoTGhZUHE2VURiYlU1SFdwbjhDcWlxZGdzaWlkZzJNUWpVV1Yw"
     }
    ],
    "category": "产品技术",
@@ -439,6 +529,23 @@
    "zh_summary": "美情报称中国间谍与英伟达CEO往来",
    "title_zh": "美情报发现中国间谍与英伟达CEO交往",
    "sentiment": -1
+  },
+  {
+   "id": "c5a8a85d8383",
+   "title": "Report: Suspected Chinese Spy Had Access to Nvidia CEO - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS19QU2ZuWXNMSktKcFlCTDdpMjVkQTlfdnQ4NmNaS01lSC00bjVOdC0wQXJJUlYtTEdGQ2tXMFBDUDZxRml2R2c3cXZBUEJQdjBucW9JcFVyMm1VWTVWbEFPbWxFR2hnZl9OcVBhR2hIZFY3Y0ZjVmllcGZLU3ZxWDVRUFZ0Z1ZvaXp4N1ZrNA",
+   "source": "Yahoo",
+   "published_at": "2026-10-29T12:31:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-29T12:31:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS19QU2ZuWXNMSktKcFlCTDdpMjVkQTlfdnQ4NmNaS01lSC00bjVOdC0wQXJJUlYtTEdGQ2tXMFBDUDZxRml2R2c3cXZBUEJQdjBucW9JcFVyMm1VWTVWbEFPbWxFR2hnZl9OcVBhR2hIZFY3Y0ZjVmllcGZLU3ZxWDVRUFZ0Z1ZvaXp4N1ZrNA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "50ace1e25d17",
@@ -2197,26 +2304,6 @@
    "session": "盘后",
    "zh_summary": "国产GPU性能超过H200",
    "title_zh": "英伟达真的慌了，有一款国产GPU，超过了H200的性能 - 搜狐网",
-   "sentiment": -1
-  },
-  {
-   "id": "df18b6165e14",
-   "title": "事关算力定价权！英伟达头号梦魇藏在Anthropic招股书中 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fd1RpQklOZjg5eG5BWGdRZlpJcV8tdXhhQjZaOXVhUk1wU1NVdHlLRFVVdHRwUnZkWXVrVGNZNkpBZHE3T0ZnbXZ2dFlaOEtBMmdqWExYWXZnYXo2anVKYw",
-   "source": "东方财富",
-   "published_at": "2026-10-29T01:16:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-29T01:16:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fd1RpQklOZjg5eG5BWGdRZlpJcV8tdXhhQjZaOXVhUk1wU1NVdHlLRFVVdHRwUnZkWXVrVGNZNkpBZHE3T0ZnbXZ2dFlaOEtBMmdqWExYWXZnYXo2anVKYw"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "Anthropic招股书暗藏英伟达隐患",
-   "title_zh": "英伟达头号梦魇藏在Anthropic招股书中",
    "sentiment": -1
   },
   {
@@ -4080,26 +4167,6 @@
    "session": "盘中",
    "zh_summary": "英伟达或被低估22%，源于甲骨文等合作",
    "title_zh": "英伟达或被低估22%，甲骨文Meta与施耐德交易推动",
-   "sentiment": 1
-  },
-  {
-   "id": "a47b19ca7e8f",
-   "title": "英伟达推出本地AI语音模型 RTX Spark新增模型与智能体工具支持 - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TdGI5YklfOU9OcnN4WlZEYzdXNXRUeW8wZVNFbUN2SjlmX3ZFSS1rSm8xWC1TT0NlN3lfSlBYUmxkblVnaDczWGlmcWJhcER4TTVvNmZzdFRtcUFKSng2Rll0N1IzN2M2UVE",
-   "source": "TradingView",
-   "published_at": "2026-10-28T15:09:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-28T15:09:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TdGI5YklfOU9OcnN4WlZEYzdXNXRUeW8wZVNFbUN2SjlmX3ZFSS1rSm8xWC1TT0NlN3lfSlBYUmxkblVnaDczWGlmcWJhcER4TTVvNmZzdFRtcUFKSng2Rll0N1IzN2M2UVE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达推出本地AI语音模型",
-   "title_zh": "英伟达推出本地AI语音模型，RTX Spark新增工具",
    "sentiment": 1
   },
   {
@@ -6401,7 +6468,7 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwR3dOYjE3WFNiWHJyVlFBM0NSRklETno5Mjh3YjFQbEhXVDNuU2FQWURiX2pPWjhXUjhkLURpSWE2X0hNZFVSb1RyNUxoX09HZ3c",
    "source": "Yahoo Finance Singapore",
    "published_at": "2026-10-28T04:59:22+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Yahoo Finance Singapore",
@@ -6417,6 +6484,11 @@
      "name": "Yahoo Finance Australia",
      "published_at": "2026-10-28T17:42:29+00:00",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E"
+    },
+    {
+     "name": "Yahoo Finance UK",
+     "published_at": "2026-10-29T09:07:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc"
     }
    ],
    "category": "其他",
@@ -6507,86 +6579,6 @@
    "session": "盘后",
    "zh_summary": "甲骨文限融资建数据中心致英伟达下跌",
    "title_zh": "甲骨文限制融资建数据中心，英伟达下跌",
-   "sentiment": -1
-  },
-  {
-   "id": "1bd9ffb7bbcb",
-   "title": "Apple Nibbles Away at Nvidia - The Daily Upside",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNck9lNUR1R2dIbjJzUktyN0FjYWNfY2pSUHlQbGJQYkZoei1ubFd4U3dUZWxsOU1uTWVOa0o4M1RfZHlHdFo0dEpFZnBrNGZ3eUxBTzB3WFRrSmJhSDB2NWtZcElIcW13Z2RXQzBDUzlBbk9yX1dGVnhwNFF0cUtlc3hqZWFjbEk",
-   "source": "The Daily Upside",
-   "published_at": "2026-10-28T04:02:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Daily Upside",
-     "published_at": "2026-10-28T04:02:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNck9lNUR1R2dIbjJzUktyN0FjYWNfY2pSUHlQbGJQYkZoei1ubFd4U3dUZWxsOU1uTWVOa0o4M1RfZHlHdFo0dEpFZnBrNGZ3eUxBTzB3WFRrSmJhSDB2NWtZcElIcW13Z2RXQzBDUzlBbk9yX1dGVnhwNFF0cUtlc3hqZWFjbEk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "苹果正逐步蚕食英伟达市场",
-   "title_zh": "苹果正逐步蚕食英伟达",
-   "sentiment": -1
-  },
-  {
-   "id": "9672ba7870e5",
-   "title": "Oracle expands AI chip offerings with Google, Nvidia, and Cerebras - Tech Wire Asia",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZZm1YdFN3VkdWX2JXQjM4TlFhTzVIMVNDQ1lldmEyc2o0QmN3MG1lRVNiQjBpUmVSeHBmVzVxUHp2aUx4Y3pWaHhRU3FSck5qWk5kZURuQnB5M1FfeWthLWkybk9rTFF2VTFydjlzU1pobTdSbzlNZll6TVk",
-   "source": "Tech Wire Asia",
-   "published_at": "2026-10-28T04:01:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tech Wire Asia",
-     "published_at": "2026-10-28T04:01:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZZm1YdFN3VkdWX2JXQjM4TlFhTzVIMVNDQ1lldmEyc2o0QmN3MG1lRVNiQjBpUmVSeHBmVzVxUHp2aUx4Y3pWaHhRU3FSck5qWk5kZURuQnB5M1FfeWthLWkybk9rTFF2VTFydjlzU1pobTdSbzlNZll6TVk"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "甲骨文扩大AI芯片合作含英伟达",
-   "title_zh": "甲骨文扩大AI芯片供应，纳入谷歌英伟达",
-   "sentiment": 1
-  },
-  {
-   "id": "c3e084cb2fd8",
-   "title": "甲骨文携手英伟达超级集群扩展至多吉瓦规模！AI产业链业绩密集兑现 高景气度持续验证 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDdHYVpuUVNOZmlvV3NJb1R5Qm5sT2NfbTY4Sld2MmNWZk9XRXREMVlTUlRYX1BVcG1PNmR3bWV4SzltM2tIVy1RcFRLOWdOZTdHOFNnY29OWkR0enZWaHRyTDBZcmYwSFFnYXVSVTEwM2FudUFzMFZ0WXVvbUFyLXY1RWlQcUZUM0YtYw",
-   "source": "搜狐网",
-   "published_at": "2026-10-28T04:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-28T04:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDdHYVpuUVNOZmlvV3NJb1R5Qm5sT2NfbTY4Sld2MmNWZk9XRXREMVlTUlRYX1BVcG1PNmR3bWV4SzltM2tIVy1RcFRLOWdOZTdHOFNnY29OWkR0enZWaHRyTDBZcmYwSFFnYXVSVTEwM2FudUFzMFZ0WXVvbUFyLXY1RWlQcUZUM0YtYw"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "甲骨文携手英伟达扩展超级集群至多吉瓦",
-   "title_zh": "甲骨文携手英伟达超级集群扩展至多吉瓦规模",
-   "sentiment": 1
-  },
-  {
-   "id": "67a8d5dfce51",
-   "title": "OpenAI拟采购谷歌TPU，英伟达真会被撬动吗？ - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkdLcUVnMzR4TzJTM1lyVkJRdnFrc3FmVmpjUUZnTkY1Rkg1a1ZmVTVMLUdiYjZOM0pIX0JnVGQ0dnBsOFBzMWIwTEVZRnFzZ0xkYS1JM1RneHFkb2l6MWl1WF9CRjlyRGRLaHctODVoYjBtRFRrRktCM0JNb1VWdTNPc0h6d3c1",
-   "source": "搜狐网",
-   "published_at": "2026-10-28T03:48:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-28T03:48:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkdLcUVnMzR4TzJTM1lyVkJRdnFrc3FmVmpjUUZnTkY1Rkg1a1ZmVTVMLUdiYjZOM0pIX0JnVGQ0dnBsOFBzMWIwTEVZRnFzZ0xkYS1JM1RneHFkb2l6MWl1WF9CRjlyRGRLaHctODVoYjBtRFRrRktCM0JNb1VWdTNPc0h6d3c1"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "OpenAI拟采购谷歌TPU挑战英伟达",
-   "title_zh": "OpenAI拟采购谷歌TPU，英伟达真会被撬动吗？",
    "sentiment": -1
   }
  ]
