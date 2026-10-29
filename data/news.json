@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T07:51:31.707440+00:00",
+ "updated_at": "2026-10-29T08:06:31.135176+00:00",
  "market": {
   "price": 215.38,
   "change_pct": -1.17,
@@ -10,8 +10,8 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": 0.17,
-   "count": 12
+   "avg": 0.27,
+   "count": 15
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.17（12条已评分）"
+     "note": "今日新闻情绪 +0.27（15条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 46.3,
    "ma20": 223.79,
-   "as_of": "2026-10-29T07:51:31.693423+00:00"
+   "as_of": "2026-10-29T08:06:31.121539+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
@@ -120,6 +120,23 @@
    "zh_summary": "英伟达开源转录AI支持40种语言",
    "title_zh": "英伟达开源最强转录AI：支持40种语言，8人抢话也能精准转录",
    "sentiment": 1
+  },
+  {
+   "id": "fe767b7198ce",
+   "title": "Nvidia under probe by US justice officials over Hugging Face acquisition - digitimes",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGJMQ2ZIQ251Q3hxZm5JbVFpTi1kQk8yMlVkbGt5X1BuelU5NFFLSDc5YVk0Ylpsc3pSanZoMDNiWEh2LW4xZ2Y3TG1zc1YtcFptZmc0Y1hzUTAtQ3VVd241VEdNazBNcFZZdF90XzZXRjU1NDBXMC1Qb0JVenBTdmQtbm5wV1lvSXhzQmllVDhLS3FRakUxbQ",
+   "source": "digitimes",
+   "published_at": "2026-10-29T07:26:11+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "digitimes",
+     "published_at": "2026-10-29T07:26:11+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGJMQ2ZIQ251Q3hxZm5JbVFpTi1kQk8yMlVkbGt5X1BuelU5NFFLSDc5YVk0Ylpsc3pSanZoMDNiWEh2LW4xZ2Y3TG1zc1YtcFptZmc0Y1hzUTAtQ3VVd241VEdNazBNcFZZdF90XzZXRjU1NDBXMC1Qb0JVenBTdmQtbm5wV1lvSXhzQmllVDhLS3FRakUxbQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "040d3771f696",
@@ -4592,12 +4609,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVVDR3RYaUVzYjVMNERmOWFHWmtMOTBoQkpxNGJXakFMMTI0TTVkX2lUY2R3YTVlMkQxY3YzZ2ppelZueElWVkJVUFJ1R2NvcmpZM21OaWpueHFLVkJuUXVYRkxCdnUwVjVjSHgyaUE4djNWMW1vNm5GdTNkQjBTOUNSTWlPYWhp",
    "source": "搜狐网",
    "published_at": "2026-10-28T07:15:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐网",
      "published_at": "2026-10-28T07:15:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVVDR3RYaUVzYjVMNERmOWFHWmtMOTBoQkpxNGJXakFMMTI0TTVkX2lUY2R3YTVlMkQxY3YzZ2ppelZueElWVkJVUFJ1R2NvcmpZM21OaWpueHFLVkJuUXVYRkxCdnUwVjVjSHgyaUE4djNWMW1vNm5GdTNkQjBTOUNSTWlPYWhp"
+    },
+    {
+     "name": "智源社区",
+     "published_at": "2026-10-29T07:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxdjhYNloyTU9qb1ZwbVhBbnVJR1V5NnphWVJoTHBCYU1zaHdtZ3RNaTlpRk50RTd2cEtmVFhGenU3bWs5MFpwLQ"
     }
    ],
    "category": "政策监管",
@@ -6664,54 +6686,21 @@
    "sentiment": 1
   },
   {
-   "id": "e68ae0f77d83",
-   "title": "Nvidia Plays Kingmaker Again. Why the Meta Deal Is a Winning Move. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGRPWGdNbEF2MUJBOUdiVmRjd2xKWU52cVBVam5KdDJ4dUd2Smg4RGd5YVNmMV9FX0Jhd0ZCNFJSSmp4S1ZqbjBTX3BvWW10YzNLVmx5UkNlaFlONkpuV09JQk8xd1IxYVdfeTdNejBGaXBHc2hCdU4xa3Z1M0JfZlVuYndEbVNhaXJhazR5amN2eXgwT3Nv",
+   "id": "d2663b8005f5",
+   "title": "Nvidia Just Announced Plans to Pour Billions Into Meta's Muse - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQklZdXZGd3E4dUlIenhZRDQzRXNXQmlBcW03ZU9qcmlBdmRSakY5THJCVUtxTGpSUlVTSld1WjRiOVEwQ3ZTUFRYeUJNQkt0RlhoN3hCY3BrNHRSY3VXRGhsYVoyRThBTlM1OTlEbEU1NDY5NDZ3WXM5dUpTVkdPSUlVWFFkYjF5ODRNS0RRbVJZajJYX1JPRDN6M1dHSEhMR2ZJT0h3",
    "source": "The Motley Fool",
-   "published_at": "2026-10-27T18:47:49+00:00",
-   "outlets_count": 2,
+   "published_at": "2026-10-27T18:48:00+00:00",
+   "outlets_count": 1,
    "outlets": [
     {
      "name": "The Motley Fool",
-     "published_at": "2026-10-27T18:47:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGRPWGdNbEF2MUJBOUdiVmRjd2xKWU52cVBVam5KdDJ4dUd2Smg4RGd5YVNmMV9FX0Jhd0ZCNFJSSmp4S1ZqbjBTX3BvWW10YzNLVmx5UkNlaFlONkpuV09JQk8xd1IxYVdfeTdNejBGaXBHc2hCdU4xa3Z1M0JfZlVuYndEbVNhaXJhazR5amN2eXgwT3Nv"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T19:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmtiRlRTUTFVSlJTclZHeWc0TlJ3VmZCd2xtSmlMRFVrUzNvWi12OEdnbDhfTFVGQ3hJSXFOaXA0OU4yVFkxSkFqbmNPblNxSW9jXzVra3VaQkFNY1ZWUC1TUjU5RkE0SmhtVFdrNHRkZ3JMYmdPNnd1SDljVThmM3ZYWWt0VGZyVzVmeTVmMVRMenlCbTdjRUpnSzc"
+     "published_at": "2026-10-27T18:48:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQklZdXZGd3E4dUlIenhZRDQzRXNXQmlBcW03ZU9qcmlBdmRSakY5THJCVUtxTGpSUlVTSld1WjRiOVEwQ3ZTUFRYeUJNQkt0RlhoN3hCY3BrNHRSY3VXRGhsYVoyRThBTlM1OTlEbEU1NDY5NDZ3WXM5dUpTVkdPSUlVWFFkYjF5ODRNS0RRbVJZajJYX1JPRDN6M1dHSEhMR2ZJT0h3"
     }
    ],
    "category": "其他",
-   "session": "盘中",
-   "zh_summary": "Meta交易被视为英伟达的赢棋",
-   "title_zh": "英伟达再当造王者，Meta交易是赢棋",
-   "sentiment": 1
-  },
-  {
-   "id": "82e64dd4d4d8",
-   "title": "Nvidia Makes Whopping $3 Billion Bet on Meta - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTk0YXpaZmRKSGwwOHU2OEtNOG5MaXFUWDNuVExodFE4dU9CWFBoMTJtcnNkQ2VBRUNLcC1mQXVxVV9VVXp3MG1rTjNnVXdlbFlzb2hXeUtIVjVhX3NxRGt4dmVJem5USlJSMWVCd0UtWWdMVmx0M2pLazZScUttQmhXTGJPdU1KRXc",
-   "source": "GuruFocus",
-   "published_at": "2026-10-27T18:33:22+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-27T18:33:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTk0YXpaZmRKSGwwOHU2OEtNOG5MaXFUWDNuVExodFE4dU9CWFBoMTJtcnNkQ2VBRUNLcC1mQXVxVV9VVXp3MG1rTjNnVXdlbFlzb2hXeUtIVjVhX3NxRGt4dmVJem5USlJSMWVCd0UtWWdMVmx0M2pLazZScUttQmhXTGJPdU1KRXc"
-    },
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-27T18:59:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXpaOWllbk9LMktIZFNyZVRnczNiNzdIeGZhdHBVTGJsME1Ob3BTNVJkdnZlcTl2V2VzMzU1NzVpUmZkcFpLU1loQzhUaHdUeDM4VWtaOHZYTkNVQmY1R1NTNVhqdElrMVhyMkhPRUdZS0dzYU80Ukttd2pqd3RQR0NSS1NIRm5YQ1BJekVuNWpVT3B2ZkVpbkd5Zm9OUlBGd0JsWFdR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达30亿美元投资Meta",
-   "title_zh": "英伟达30亿美元押注Meta",
-   "sentiment": 1
+   "session": "盘中"
   }
  ]
 }
