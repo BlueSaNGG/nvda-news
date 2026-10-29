@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T19:51:32.791878+00:00",
+ "updated_at": "2026-10-29T20:06:35.639850+00:00",
  "market": {
-  "price": 213.32,
-  "change_pct": -0.96,
+  "price": 213.66,
+  "change_pct": -0.8,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": -0.11,
-   "count": 157
+   "avg": -0.13,
+   "count": 161
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +47.7%"
+     "note": "目标价中位数 $315（17家），隐含空间 +47.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.11（157条已评分）"
+     "note": "今日新闻情绪 -0.13（161条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.32 vs 20日均线 $222.91"
+     "note": "现价 $213.66 vs 20日均线 $222.93"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 65,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 47.7,
-   "ma20": 222.91,
-   "as_of": "2026-10-29T19:51:32.777869+00:00"
+   "implied_upside_pct": 47.4,
+   "ma20": 222.93,
+   "as_of": "2026-10-29T20:06:35.627199+00:00"
   },
-  "pe_ttm": 27.1,
+  "pe_ttm": 27.2,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "93fc7f3d420e",
+   "title": "Nvidia's Huang says dealings with firm in US spy probe were 'normal', Bloomberg News reports - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXJwa3VEMVZBTzlycmloVGNCSVdBTjU3d1RlNlA1OFFDdkpBVXZBNi13S1JOV3MwRDFtUkk2M0t2UzQ5aFUweGl3RGFQQ1I3blJpMHlEV2lhUEEtNkJYdEhXeU5mVGxNWjlXUmpWd2NLejFiUkJyYUxOR0dZWlB6RUtUejhwQWV2ek41cm14V0dfM1I4cVNHQTBVeWpyRzRwQzNjMlNkcjVlZkdrbWd0aGhrbE1EUzlEQXpIWGhERkxmcjA",
+   "source": "Reuters",
+   "published_at": "2026-10-29T19:54:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-29T19:54:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXJwa3VEMVZBTzlycmloVGNCSVdBTjU3d1RlNlA1OFFDdkpBVXZBNi13S1JOV3MwRDFtUkk2M0t2UzQ5aFUweGl3RGFQQ1I3blJpMHlEV2lhUEEtNkJYdEhXeU5mVGxNWjlXUmpWd2NLejFiUkJyYUxOR0dZWlB6RUtUejhwQWV2ek41cm14V0dfM1I4cVNHQTBVeWpyRzRwQzNjMlNkcjVlZkdrbWd0aGhrbE1EUzlEQXpIWGhERkxmcjA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "54583d76540e",
    "title": "Not Nvidia. Not AMD. This Custom AI Chip Designer Could Outperform Both by 2030. - The Motley Fool",
@@ -1005,7 +1022,7 @@
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0dIVHhVYjZoLUJpVHdScEdhbmFEcjVyRzVhQnBwZm9GODk3ODVkcGpoUHN6UC0xSHJycUtqdkowLU9CNU81cHJjdkhzVjNYczNXNU5HMUtpQWlDUzM0RFlGZFljNjRsRlNQYnhtX05YaDRRNkJsSTJRY1pfcGJrMW41Z1lWUEtJaFE",
    "source": "The Guardian",
    "published_at": "2026-10-29T15:23:00+00:00",
-   "outlets_count": 4,
+   "outlets_count": 5,
    "outlets": [
     {
      "name": "The Guardian",
@@ -1026,11 +1043,15 @@
      "name": "Gizmodo",
      "published_at": "2026-10-29T16:20:17+00:00",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRURNNGFJSUV2ZUYxV3pTYXpxSkF5TGtUZUxtOTB2ZFE5bWItSDFZUkxENWdzZzNBYWoySWtiNU9RdDkzTzFmQlFmZXNWbmNjc1VxQ1FDejMzQmttMkNGRG4xZ0pqUU9MZGpLbnQtQ2k5U3h3c0FNVXR0UWlTRUlEQV9HWkwtOFU"
+    },
+    {
+     "name": "Daily Sabah",
+     "published_at": "2026-10-29T19:24:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTkpxMkNYc0dwc2NmTVNud1ZMM3BzZVF5dXV5akF0eDh2UlFIV1QybVZjRTBScGJGZlA0aWppaEY0ckptWEl5ZFRSOTlnZnNjd2hINE9hNmFQOXdTVXdsYko4cm55MHFwWFI4RzN2Y2JuRnN4TGszQWdyRHU1YWhqMkJFenZXazVCT3hsU3pYZTJiMmlYc1dkRUVLTTJmNXcteEwxcdIBqgFBVV95cUxQSzNEOUdibUJ6LUxVZG95TEEwQUZNX3hidVRuV1UzRF9qQzRSQUE0bzVfQm44OFRSd3NYMi1lXzVPZXA3MWJzWmtIM2lIdHNSVVd1MkxORUpSZUpuRHRkNk1nUnBkSWNYSmhuN253SUhheFV0SE80VEZWRHJxbFEyb3U5NFQ1MGxmeE96cmZlWVRYbnJpQmF6VXVKcGlERnNsZVlSOWJTbXowZw"
     }
    ],
    "category": "其他",
    "session": "盘中",
-   "breaking": true,
    "zh_summary": "英伟达CEO据报遭中国间谍盯上",
    "title_zh": "英伟达CEO据报成为中国间谍目标",
    "sentiment": -1,
@@ -3085,26 +3106,6 @@
    "sentiment": 1
   },
   {
-   "id": "0de1d31f2e18",
-   "title": "开源！英伟达GPU隐藏算力被破解，RTX 4090 吞吐直接翻倍 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1",
-   "source": "搜狐网",
-   "published_at": "2026-10-29T07:35:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-29T07:35:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "title_zh": "开源！英伟达GPU隐藏算力被破解，RTX 4090 吞吐直接翻倍 - 搜狐网",
-   "zh_summary": "开源破解让RTX 4090吞吐翻倍",
-   "sentiment": 1
-  },
-  {
    "id": "05d53a1f9711",
    "title": "英伟达回应Vera Rubin平台规格变更：新版为量产规格，第三方跑分均是按量产版测的 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTFPelZleUFSbTNITXphajNuM0Q3LVRKSFgxWUtZTEF3ZnVKWGJ0cy0zd2htRE52bXUzRWtlU1F1d292NzdBWGJHZ1UzV2tVRWdvM0twNHZjc0dRUU5UY2NlbkJ4RzRNcWdXMXgzQkFQMXAyVVRsLWFIbHlQMjI1eG5vczgzdWRI",
@@ -3163,6 +3164,23 @@
    "zh_summary": "美国司法部审查英伟达收购Hugging Face",
    "title_zh": "美国司法部调查英伟达收购Hugging Face",
    "sentiment": -2
+  },
+  {
+   "id": "df18b6165e14",
+   "title": "事关算力定价权！英伟达头号梦魇藏在Anthropic招股书中 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qck5nZmxJMHR5WVM5SW45eDFSUFoydU9lNFpsaVYtX2pnZGxDckZCOTlsWnNhcGZSTEF2dDl4aEcwWHRGRm9WWFNTU0tZQ05kNFlmSktyTjNTUTZzSHFpZlk0alNjazA",
+   "source": "东方财富",
+   "published_at": "2026-10-29T07:23:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-29T07:23:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qck5nZmxJMHR5WVM5SW45eDFSUFoydU9lNFpsaVYtX2pnZGxDckZCOTlsWnNhcGZSTEF2dDl4aEcwWHRGRm9WWFNTU0tZQ05kNFlmSktyTjNTUTZzSHFpZlk0alNjazA"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
   },
   {
    "id": "ebf5fdc2a549",
@@ -4619,6 +4637,23 @@
    "zh_summary": "英伟达CPO光引擎产能将扩15倍",
    "title_zh": "英伟达CPO光引擎产能将扩15倍，意味着什么？ - 搜狐网",
    "sentiment": 1
+  },
+  {
+   "id": "5faccbd482d1",
+   "title": "甲骨文加码英伟达芯片至数吉瓦级 首度引入谷歌TPU 市场紧盯投资者日 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lbWg0X24zeUlZaGZiNmtYVTl6ckpNN0x4M0xCODc1N0hKSl9HMTNOaDExWXp2TldIX0dLaFhQbFZabTAwMl9hU0lHdVJSLWh4b01Bc2kyZ2pDZmRaVjdiTlBZMmlYaWM",
+   "source": "东方财富",
+   "published_at": "2026-10-28T20:24:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-28T20:24:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lbWg0X24zeUlZaGZiNmtYVTl6ckpNN0x4M0xCODc1N0hKSl9HMTNOaDExWXp2TldIX0dLaFhQbFZabTAwMl9hU0lHdVJSLWh4b01Bc2kyZ2pDZmRaVjdiTlBZMmlYaWM"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
   },
   {
    "id": "38650893cfd9",
@@ -6583,46 +6618,6 @@
    "session": "盘前",
    "zh_summary": "英伟达与AMD向Meta投资40亿美元",
    "title_zh": "英伟达与AMD向Meta投资40亿美元，借ETF布局AI生态",
-   "sentiment": 1
-  },
-  {
-   "id": "57e56a22f04d",
-   "title": "Not Nvidia. Not Micron. This Underappreciated AI Stock Could Be 2027's Biggest Winner. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXgwb1VlN2JwNTB0MGtkM2Q2enNYaTJfZ0VqX3ZPOUtYa2tJR3V5ZnpnZ19BSVJpdVM3RUhQOC1mUVd1dmhoUnBCOUF2RGVrM2VMR3BTckcxbVp5TFRJaTNYSjRIQi1GMnRDQ2x0cDRGZVFwcHAxamtfaTZSWUtfVUp3UTk2Y3dmbTVxVThjLWlZNVlmc0JJMg",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-28T13:20:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-28T13:20:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXgwb1VlN2JwNTB0MGtkM2Q2enNYaTJfZ0VqX3ZPOUtYa2tJR3V5ZnpnZ19BSVJpdVM3RUhQOC1mUVd1dmhoUnBCOUF2RGVrM2VMR3BTckcxbVp5TFRJaTNYSjRIQi1GMnRDQ2x0cDRGZVFwcHAxamtfaTZSWUtfVUp3UTk2Y3dmbTVxVThjLWlZNVlmc0JJMg"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "被低估的AI股或成2027最大赢家",
-   "title_zh": "不是英伟达也不是美光，这只被低估的AI股或成2027最大赢家",
-   "sentiment": 0
-  },
-  {
-   "id": "ac4aedb3aab2",
-   "title": "RTX Remix for Minecraft: Java Edition - NVIDIA",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTB2UmQxQ1k1bHh1RDNPQ2tRV2xBcG15TmQ1NFhIbURhV3pTU29oOHByU05nRmtJZU1LbWFkNzFpUnZfSGRkTWVFTFJYVVBJLXBsNGdCSTJ6OGdVMDBMaFZFSnhvTUZxLXY0REc1NnpMUHRiYXNrLS0zYXNpYm5nMFJoeFpzX0RPa1YyXzRpN09pdXZM",
-   "source": "NVIDIA",
-   "published_at": "2026-10-28T13:17:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA",
-     "published_at": "2026-10-28T13:17:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTB2UmQxQ1k1bHh1RDNPQ2tRV2xBcG15TmQ1NFhIbURhV3pTU29oOHByU05nRmtJZU1LbWFkNzFpUnZfSGRkTWVFTFJYVVBJLXBsNGdCSTJ6OGdVMDBMaFZFSnhvTUZxLXY0REc1NnpMUHRiYXNrLS0zYXNpYm5nMFJoeFpzX0RPa1YyXzRpN09pdXZM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "RTXRemix登陆Minecraft Java版",
-   "title_zh": "Minecraft Java版RTX Remix",
    "sentiment": 1
   }
  ]
