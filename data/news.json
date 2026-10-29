@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T11:06:29.450097+00:00",
+ "updated_at": "2026-10-29T11:21:28.112418+00:00",
  "market": {
   "price": 215.38,
   "change_pct": -1.17,
@@ -10,8 +10,8 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": 0.16,
-   "count": 37
+   "avg": 0.15,
+   "count": 40
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.16（37条已评分）"
+     "note": "今日新闻情绪 +0.15（40条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 46.3,
    "ma20": 223.79,
-   "as_of": "2026-10-29T11:06:29.436740+00:00"
+   "as_of": "2026-10-29T11:21:28.098571+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "3698069d56ed",
+   "title": "Nvidia's $108 Billion Earnings Test: Why the Next Forecast Matters More - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjZXcEJFQ01veENSRFhmM1R5SGpDT1VjT05aelZPZTlpRFVJMWZWYkhPOHlHLTlYel92SktaY2ZyTTgtTUpnbjI5QkhXV1p5NkM3anpOZ2RHNXY0eUNvb213cFQtNkQyU0lKZ2lGMFEwWUJKem13T2NMTU1uU3dYTElHVE1vajFueEtuUUc0d1VmZ2o1amttRk52THpBaU1KM3A5dGNNMmprVFlLcUo5NFg5bm1pUQ",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-29T11:14:58+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-29T11:14:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjZXcEJFQ01veENSRFhmM1R5SGpDT1VjT05aelZPZTlpRFVJMWZWYkhPOHlHLTlYel92SktaY2ZyTTgtTUpnbjI5QkhXV1p5NkM3anpOZ2RHNXY0eUNvb213cFQtNkQyU0lKZ2lGMFEwWUJKem13T2NMTU1uU3dYTElHVE1vajFueEtuUUc0d1VmZ2o1amttRk52THpBaU1KM3A5dGNNMmprVFlLcUo5NFg5bm1pUQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
   {
    "id": "d5ced0f5dc5b",
    "title": "Nvidia Stock Slips as Competition Probe Presents New AI Concern - Barron's",
@@ -593,26 +610,6 @@
    "sentiment": 1
   },
   {
-   "id": "0de1d31f2e18",
-   "title": "开源！英伟达GPU隐藏算力被破解，RTX 4090 吞吐直接翻倍 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1",
-   "source": "搜狐网",
-   "published_at": "2026-10-29T07:35:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-29T07:35:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达GPU隐藏算力被破解，RTX4090吞吐翻倍",
-   "title_zh": "开源！英伟达GPU隐藏算力被破解，RTX 4090 吞吐直接翻倍",
-   "sentiment": 0
-  },
-  {
    "id": "05d53a1f9711",
    "title": "英伟达回应Vera Rubin平台规格变更：新版为量产规格，第三方跑分均是按量产版测的 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTFPelZleUFSbTNITXphajNuM0Q3LVRKSFgxWUtZTEF3ZnVKWGJ0cy0zd2htRE52bXUzRWtlU1F1d292NzdBWGJHZ1UzV2tVRWdvM0twNHZjc0dRUU5UY2NlbkJ4RzRNcWdXMXgzQkFQMXAyVVRsLWFIbHlQMjI1eG5vczgzdWRI",
@@ -1122,6 +1119,23 @@
    "zh_summary": "中国英伟达营收暴增1774%提前盈利",
    "title_zh": "营收暴增1774%，又一家“中国英伟达”，提前盈利了？ - 搜狐网",
    "sentiment": 0
+  },
+  {
+   "id": "a4a90f8ab6b6",
+   "title": "国产通用GPU直面英伟达：天垓300实测对标H200效果如何？ - 光通信Pro",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxTmhOUkh2RHB1WlBveWJ0eWZRZ2tFUUg2dGwtU0dSOUtYb2VlTFlzQVZjYlp0ZlVCWU9LR0JyVWV5UHJ5aVBOcnBaOXZONWZrWGJvWmxNMA",
+   "source": "光通信Pro",
+   "published_at": "2026-10-29T03:10:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "光通信Pro",
+     "published_at": "2026-10-29T03:10:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxTmhOUkh2RHB1WlBveWJ0eWZRZ2tFUUg2dGwtU0dSOUtYb2VlTFlzQVZjYlp0ZlVCWU9LR0JyVWV5UHJ5aVBOcnBaOXZONWZrWGJvWmxNMA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "bed2dc9d03ad",
@@ -5661,6 +5675,23 @@
    "sentiment": -1
   },
   {
+   "id": "ab133eceaaf1",
+   "title": "Nvidia Stock News (Oct 28, 2026): NVDA Rises 0.9% to $217.94 - Gotrade",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvcmxRd1pSXzBXbGl1WHBIcTRaNHVPMi1Cei1oU2lVbVhocjJraUlYdU9yN0hCWHBaNmpFeFpJSmN1Z0xfTlhYcDJaRkxzTVZBZmtRVW11Nmp1Sm56ODBva2xSUlRFMmpmSnhXcGZZZEZ5c24zUE9qWjljNEtfSzQ",
+   "source": "Gotrade",
+   "published_at": "2026-10-28T03:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Gotrade",
+     "published_at": "2026-10-28T03:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvcmxRd1pSXzBXbGl1WHBIcTRaNHVPMi1Cei1oU2lVbVhocjJraUlYdU9yN0hCWHBaNmpFeFpJSmN1Z0xfTlhYcDJaRkxzTVZBZmtRVW11Nmp1Sm56ODBva2xSUlRFMmpmSnhXcGZZZEZ5c24zUE9qWjljNEtfSzQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "6f949b3f715b",
    "title": "AMD宣布向Meta投资10亿美元深化AI合作，英伟达此前投资30亿美元 - 电子工程专辑",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YNmxxbk5WS05KQ2p2b014eUZyVjZidmk2ZzNTWXRFdGpacGU2ZWZDRS1OWWhPc3g5NlQ2YlUwLW0ySVVodk1QS0ZxUzd6NVMzeWVpSjBLVkF1eS11",
@@ -6638,56 +6669,6 @@
    "session": "盘后",
    "zh_summary": "英伟达Meta AI投资引发股价上涨",
    "title_zh": "投资者对英伟达Meta AI投资作出反应，NVDAB上涨",
-   "sentiment": 1
-  },
-  {
-   "id": "cd4585a6f4d1",
-   "title": "英伟达与甲骨文扩大AI基础设施合作，Vera Rubin系统部署规模将达数吉瓦级 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObHdicDRvTGRDdEdpNk9UNDRKeVlwUGl4OE5ndDhLTFVidnJTR21aTFBFU3RqSjZ5Qkg5akpmcFRxYmFURkVaWnlmcTBUTG9xTFYtLXlobUJhbnJPQzliOFNvMjVKVTIxdmxLWlZBMzFNUHd4VmtpcDRLVUpvRElHLVBQcXoyclVnY2xkaktaNURJeFdqTWhCOXowMmZrMU84M2JCU0R5akZ6aDNUVG9nWC1B",
-   "source": "富途牛牛",
-   "published_at": "2026-10-27T23:42:28+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-27T23:42:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObHdicDRvTGRDdEdpNk9UNDRKeVlwUGl4OE5ndDhLTFVidnJTR21aTFBFU3RqSjZ5Qkg5akpmcFRxYmFURkVaWnlmcTBUTG9xTFYtLXlobUJhbnJPQzliOFNvMjVKVTIxdmxLWlZBMzFNUHd4VmtpcDRLVUpvRElHLVBQcXoyclVnY2xkaktaNURJeFdqTWhCOXowMmZrMU84M2JCU0R5akZ6aDNUVG9nWC1B"
-    },
-    {
-     "name": "亿邦动力网",
-     "published_at": "2026-10-28T01:06:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBydDc0SlRLWHRYQlE4TlB4YUd0RkNER25IT3QwTUJZN0ZOVzgyeEFSQnM1V3dJYlFoMDN1MGY3TUM4eFM3MUVSU0QzRmFUQ1ZGYTdYRGs2bVY"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达与甲骨文扩大AI基建合作",
-   "title_zh": "英伟达与甲骨文扩大AI基础设施合作，Vera Rubin系统部署规模将达数吉瓦级",
-   "sentiment": 1
-  },
-  {
-   "id": "5ae462088330",
-   "title": "英伟达升级 Isaac 机器人平台，联合思灵推出人形参考平台 Agile ONE SN - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41dFFua2hJTnl5bTE4dGNFWHdtQ1dIbkJHbzVKdDMzQ0FKZ3dxM3U5aXowRjAwTVVQeTdhbXR4V21NZXQwUnV3UHhMUkR0TjVI",
-   "source": "富途牛牛",
-   "published_at": "2026-10-27T23:40:55+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-27T23:40:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41dFFua2hJTnl5bTE4dGNFWHdtQ1dIbkJHbzVKdDMzQ0FKZ3dxM3U5aXowRjAwTVVQeTdhbXR4V21NZXQwUnV3UHhMUkR0TjVI"
-    },
-    {
-     "name": "DoNews",
-     "published_at": "2026-10-27T23:40:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lTzFnd1JJeWYwU3FNNGRocHhsa2J2eExUTkk3U1VMWmNNcmp5ekE4NEpVVXpnUThCeDlOQWFaMDhiRmNQZmhjWndZX1JkMUJESlllREVhVmlXa19qb2c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达升级Isaac平台推人形平台",
-   "title_zh": "英伟达升级Isaac平台，推人形参考平台",
    "sentiment": 1
   }
  ]
