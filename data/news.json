@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T07:36:27.687251+00:00",
+ "updated_at": "2026-10-29T07:51:31.707440+00:00",
  "market": {
   "price": 215.38,
   "change_pct": -1.17,
@@ -10,8 +10,8 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": 0.33,
-   "count": 9
+   "avg": 0.17,
+   "count": 12
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.33（9条已评分）"
+     "note": "今日新闻情绪 +0.17（12条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 46.3,
    "ma20": 223.79,
-   "as_of": "2026-10-29T07:36:27.670879+00:00"
+   "as_of": "2026-10-29T07:51:31.693423+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
@@ -62,24 +62,55 @@
  },
  "stories": [
   {
-   "id": "0de1d31f2e18",
-   "title": "开源！英伟达GPU隐藏算力被破解，RTX 4090 吞吐直接翻倍 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1",
+   "id": "221e9f8d700f",
+   "title": "英伟达发布开源语音转录模型Nemotron 3.5 - DoNews",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtMXNFbGtYeHB2VnVnMEc4a2dEZ1VwSWwtUHk3OVk2Z0FUVkU5cHhkRXhFNUJKRGJmbTNGQnZLaElHeUZTRExDSHVZYlhWUk15c0FGQ0x3QjhlQm1Fb0E",
+   "source": "DoNews",
+   "published_at": "2026-10-29T07:36:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "DoNews",
+     "published_at": "2026-10-29T07:36:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtMXNFbGtYeHB2VnVnMEc4a2dEZ1VwSWwtUHk3OVk2Z0FUVkU5cHhkRXhFNUJKRGJmbTNGQnZLaElHeUZTRExDSHVZYlhWUk15c0FGQ0x3QjhlQm1Fb0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "05d53a1f9711",
+   "title": "英伟达回应Vera Rubin平台规格变更：新版为量产规格，第三方跑分均是按量产版测的 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTFPelZleUFSbTNITXphajNuM0Q3LVRKSFgxWUtZTEF3ZnVKWGJ0cy0zd2htRE52bXUzRWtlU1F1d292NzdBWGJHZ1UzV2tVRWdvM0twNHZjc0dRUU5UY2NlbkJ4RzRNcWdXMXgzQkFQMXAyVVRsLWFIbHlQMjI1eG5vczgzdWRI",
    "source": "搜狐网",
-   "published_at": "2026-10-29T07:35:03+00:00",
+   "published_at": "2026-10-29T07:31:42+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "搜狐网",
-     "published_at": "2026-10-29T07:35:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1"
+     "published_at": "2026-10-29T07:31:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTFPelZleUFSbTNITXphajNuM0Q3LVRKSFgxWUtZTEF3ZnVKWGJ0cy0zd2htRE52bXUzRWtlU1F1d292NzdBWGJHZ1UzV2tVRWdvM0twNHZjc0dRUU5UY2NlbkJ4RzRNcWdXMXgzQkFQMXAyVVRsLWFIbHlQMjI1eG5vczgzdWRI"
     }
    ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达GPU隐藏算力被破解，RTX4090吞吐翻倍",
-   "title_zh": "英伟达GPU隐藏算力被破解，RTX 4090吞吐翻倍",
-   "sentiment": 0
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "bf559cadb105",
+   "title": "英伟达开源最强转录AI：支持40种语言，8人抢话也能精准转录 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUczYm85dWJZSDd3TmFzYkh3OUdkOXpKdlg3SVBkaVFBcC12VWlmNFUwSEFzbmNwaUlXN29VakhLc3gtQkVwTEJUd3VoVm1iY0kzTm8zNmFXQ0hzcG80Znh2M3dSQWxvcXNSbEVjc3p4RkttYXUtZU54d0F0NEIzOWpJd205M0VO",
+   "source": "搜狐网",
+   "published_at": "2026-10-29T07:31:29+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-29T07:31:29+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZUczYm85dWJZSDd3TmFzYkh3OUdkOXpKdlg3SVBkaVFBcC12VWlmNFUwSEFzbmNwaUlXN29VakhLc3gtQkVwTEJUd3VoVm1iY0kzTm8zNmFXQ0hzcG80Znh2M3dSQWxvcXNSbEVjc3p4RkttYXUtZU54d0F0NEIzOWpJd205M0VO"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "040d3771f696",
@@ -1588,7 +1619,7 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa3hzZk9tLVg4clhwcUE5N2pFeG9tUUlEOFpFVVlfd0VkXzFsWTZHVGdJMVdBWTN0VlJPc3N2NF9oQndxbG40end5b2xvbnU3TlEyVVNENDZSZUM5Q1VJa0FzSW1rci1hTnFhdWxxWGVaUzRud3ZFU1c1WUp6OFNwY01VSXoyV3ZMNTVlQTNrYzJUSFpvMmdlS3k0QlZVS0YtT3hQOWFwNHlmbV9kQmc",
    "source": "Bloomberg.com",
    "published_at": "2026-10-28T19:14:22+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "Bloomberg.com",
@@ -1604,10 +1635,16 @@
      "name": "Bloomberg",
      "published_at": "2026-10-28T19:31:03+00:00",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa3hzZk9tLVg4clhwcUE5N2pFeG9tUUlEOFpFVVlfd0VkXzFsWTZHVGdJMVdBWTN0VlJPc3N2NF9oQndxbG40end5b2xvbnU3TlEyVVNENDZSZUM5Q1VJa0FzSW1rci1hTnFhdWxxWGVaUzRud3ZFU1c1WUp6OFNwY01VSXoyV3ZMNTVlQTNrYzJUSFpvMmdlS3k0QlZVS0YtT3hQOWFwNHlmbV9kQmc"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-28T19:31:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPai0xX1hpQlN3Z2hWZFZDV1hXOWRUVmNHdnhjM2ExUTNpdl9nTTNGeXpvYWdEV01QTDdid0JYZlFzcHJZVlpqN1NXUHVWNnJBVVFjZGpyVUJ1RUxQZERoLXJMS2pKTi0zS2djUm5vdGlOWkF5T0ZKeVFkN1VjTmJ3U0lmREp3WW1Zd2lYb0RtMHRIeTRCaWotQjRlcF8"
     }
    ],
    "category": "政策监管",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "美司法部问询英伟达收购Hugging Face",
    "title_zh": "美司法部问询英伟达收购Hugging Face交易",
    "sentiment": -1,
@@ -4043,12 +4080,17 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVN0aU41dDNMQ2Y5YWFvLW5hQ0drRGNYZTQ5dTFUSVFPaU1RSDhjSFRJN0Q0ZHR3V0RRTmhBcUlnallHNlBzSlc3VGtZdzg2SC0wREhmT0dWbTktTlh3N05kcUJiYkVVNFdfajFqQjlpbkJsV0VzaklUNGVlMEZxQkZRbHhEMXNLcmtrZmlObWFtNlJUVDYzWjExdm1GZXE5U0Fqa1JLX2tCeUlVcUhRNmFsblpnVDVOS1JQYQ",
    "source": "VideoCardz.com",
    "published_at": "2026-10-28T09:42:31+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "VideoCardz.com",
      "published_at": "2026-10-28T09:42:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVN0aU41dDNMQ2Y5YWFvLW5hQ0drRGNYZTQ5dTFUSVFPaU1RSDhjSFRJN0Q0ZHR3V0RRTmhBcUlnallHNlBzSlc3VGtZdzg2SC0wREhmT0dWbTktTlh3N05kcUJiYkVVNFdfajFqQjlpbkJsV0VzaklUNGVlMEZxQkZRbHhEMXNLcmtrZmlObWFtNlJUVDYzWjExdm1GZXE5U0Fqa1JLX2tCeUlVcUhRNmFsblpnVDVOS1JQYQ"
+    },
+    {
+     "name": "Hypebeast",
+     "published_at": "2026-10-29T07:39:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT280U0ZBdG9pZVIzTjFWemctQjZmYkx2dndvR0c0Z2F6WHVZNHhUOGlBdEJxNzRpWmZaN2VUdkNHeTZYNkNRal9YRzlwM1NGUHllLU5JNC1KOWhMcFN1d05WazlocHFIY25GaFVMY242M0M5aVpRbU1QZlBXcnl3MGF4QjNYS0Rqcnc"
     }
    ],
    "category": "其他",
@@ -6661,60 +6703,6 @@
    "zh_summary": "英伟达30亿美元投资Meta",
    "title_zh": "英伟达30亿美元押注Meta",
    "sentiment": 1
-  },
-  {
-   "id": "d2663b8005f5",
-   "title": "Nvidia Just Announced Plans to Pour Billions Into Meta's Muse - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQklZdXZGd3E4dUlIenhZRDQzRXNXQmlBcW03ZU9qcmlBdmRSakY5THJCVUtxTGpSUlVTSld1WjRiOVEwQ3ZTUFRYeUJNQkt0RlhoN3hCY3BrNHRSY3VXRGhsYVoyRThBTlM1OTlEbEU1NDY5NDZ3WXM5dUpTVkdPSUlVWFFkYjF5ODRNS0RRbVJZajJYX1JPRDN6M1dHSEhMR2ZJT0h3",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-27T17:51:48+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-27T17:51:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQklZdXZGd3E4dUlIenhZRDQzRXNXQmlBcW03ZU9qcmlBdmRSakY5THJCVUtxTGpSUlVTSld1WjRiOVEwQ3ZTUFRYeUJNQkt0RlhoN3hCY3BrNHRSY3VXRGhsYVoyRThBTlM1OTlEbEU1NDY5NDZ3WXM5dUpTVkdPSUlVWFFkYjF5ODRNS0RRbVJZajJYX1JPRDN6M1dHSEhMR2ZJT0h3"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T18:08:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcnBDUk5TZnFUMDl2S0QzQ2ZfaHo1YmFsN2VWNXpVNWw1NV9uT2dWUHdzakRtbXF3VjgzdVgwVW1xeTl0Y0lEbnI3ZlpwbjVUcWkwRnJsd2xsXzJzZ1h2Rkp6RHB3R0V5ak0xWVAwLWRObFRTRUJFV05xekZWYVU1UVpTUGdSaGtmMnZnVVB6MERDQTFqaERfalJmVUU"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-27T18:11:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcFdWT0RVQmsxY1U5UVUyQ21GdFkzX1pBbEVMZHVjRjUwazl0MVlnNV8zQ2VJMUtZMFhRdHQtbDdmaDlxb0t4QUVkenFiMkk4VkxsUnF5QjlVVmRRQ0M4ZXpLbGpuUkVJdWtzbmx4TXBBbGlVNkhhTjMwWldoTF9NeWNLZEFvbU51OUl5VS1GNXdrdUt5UGdRMVhyOXEwYVV0dktLMFZqQllsRGhfMHVlV3kxUzY1Wno5MTFObzc5UndpaTRMM2F3ZWQ4N0U0ek5lak0yY2p3RF9FZDBHWEE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达计划向Meta的Muse投资数十亿美元",
-   "title_zh": "英伟达宣布计划向Meta的Muse投资数十亿美元",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.2,
-    "window_h": 0.7
-   }
-  },
-  {
-   "id": "02946fa38aff",
-   "title": "NVIDIA releases GeForce 621.12 hotfix driver to fix RTX 50 video freezes and black screens - VideoCardz.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazJwX0NjSUZJMExqVTF4TkppWXV0SFFKMDlRVV9ZTU03SUJSRXpHVm5BVjNzcTBqdUYzZ2NwZUNKWG11MUxQVEgta1doZHpHUUxIOGQ5akVNSnVyaW9EVFZnY2oxVXZRbDZzUjlZQzlOeExoYTVnc2VvZS04a2trZ1J5U2xUZ0swdjNmdDZqUmVRMU5STVdwU25WY0dKTVBQTmtOYVpobHU0d2dJeHFsNU8zLXB2bF80Vnc",
-   "source": "VideoCardz.com",
-   "published_at": "2026-10-27T17:45:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "VideoCardz.com",
-     "published_at": "2026-10-27T17:45:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazJwX0NjSUZJMExqVTF4TkppWXV0SFFKMDlRVV9ZTU03SUJSRXpHVm5BVjNzcTBqdUYzZ2NwZUNKWG11MUxQVEgta1doZHpHUUxIOGQ5akVNSnVyaW9EVFZnY2oxVXZRbDZzUjlZQzlOeExoYTVnc2VvZS04a2trZ1J5U2xUZ0swdjNmdDZqUmVRMU5STVdwU25WY0dKTVBQTmtOYVpobHU0d2dJeHFsNU8zLXB2bF80Vnc"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达发布热修复驱动修复RTX 50黑屏",
-   "title_zh": "英伟达发布GeForce 621.12热修复驱动，修复RTX 50视频冻结和黑屏",
-   "sentiment": 0
   }
  ]
 }
