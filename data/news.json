@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T06:06:30.834245+00:00",
+ "updated_at": "2026-10-29T06:21:28.591341+00:00",
  "market": {
   "price": 215.38,
   "change_pct": -1.17,
@@ -10,12 +10,12 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": 0.07,
-   "count": 193
+   "avg": 0.5,
+   "count": 2
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.07（193条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 46.3,
    "ma20": 223.79,
-   "as_of": "2026-10-29T06:06:30.818788+00:00"
+   "as_of": "2026-10-29T06:21:28.577878+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "36fd7e1a95b0",
+   "title": "Not Nvidia. Not AMD. This Is the Best Artificial Intelligence (AI) Stock to Buy in November - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOFA0U1BjY3NHdmlXUDRNam5YMGs4WHRObklJaEJnQWgyV2NfWmtJRHk2WklqSUVjVUMtV3ZITExJMTFhalNSRHc2WENTSG5hOTVMWjExdjhRNm8zNV9EZUhpQ1oxQTRMdWxnNkJsTUtzSUdUTVlnZWRtRkh1YVdaYWgzY3VYdU9ueFlLTEFRU3JXZEQ2Smw4X3RDTnl3cVREN3NhUjJPamliUlgzcXVqbDgxWUEySG1RaEhhVldZVTRSSVBOU25ZZnVn",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-29T06:17:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-29T06:17:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOFA0U1BjY3NHdmlXUDRNam5YMGs4WHRObklJaEJnQWgyV2NfWmtJRHk2WklqSUVjVUMtV3ZITExJMTFhalNSRHc2WENTSG5hOTVMWjExdjhRNm8zNV9EZUhpQ1oxQTRMdWxnNkJsTUtzSUdUTVlnZWRtRkh1YVdaYWgzY3VYdU9ueFlLTEFRU3JXZEQ2Smw4X3RDTnl3cVREN3NhUjJPamliUlgzcXVqbDgxWUEySG1RaEhhVldZVTRSSVBOU25ZZnVn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "cba2ae32a038",
+   "title": "机构：英伟达Rubin转向全液冷 液冷产业迎来放量拐点 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3FvTmRPNG1sVGdWUF9EYkxCM09JekNwN1g3QnpZMHJEcGpRNFpaSXpkSzZEQVRfaGd5cGxVbURoWERDMDA5OTI5V2d6ZXRVTHpQMnVZUEc4Wm5ROWJaV1g5VjBOY3N6MmRsSHpfVmJnOVl6Zl9vZFVPUElzSlpKbzBaTnhfWVhWbkVFcA",
+   "source": "搜狐网",
+   "published_at": "2026-10-29T06:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-29T06:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3FvTmRPNG1sVGdWUF9EYkxCM09JekNwN1g3QnpZMHJEcGpRNFpaSXpkSzZEQVRfaGd5cGxVbURoWERDMDA5OTI5V2d6ZXRVTHpQMnVZUEc4Wm5ROWJaV1g5VjBOY3N6MmRsSHpfVmJnOVl6Zl9vZFVPUElzSlpKbzBaTnhfWVhWbkVFcA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "117815503c50",
    "title": "英伟达、AMD购入40亿美元Meta股份，深化芯片合作关系-AI基础设施 - 至顶网",
@@ -242,12 +276,12 @@
    "title": "SpaceX and Elon Musk Deliver Fantastic News for Nvidia Stock Investors - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS25xclBmc0ZuN2QyendwNllnLXpfNUZhMnhwMnhyYlRndmNZNnMzVkVBUTJ2X2VaSExsLXUzcEg3dmhQQUdBU1FGeGFrQ21oSmZFQTVJMWwxZkdwQkNIRHNsSWtGbDUyaENvNGc5QU1RbkJNUUd2V04wSmMzdjlINzAyY0c1Q1RBWHZXSmhBcXl5YnJEOEtQeHExRjEwQUxpV2ZzRXNuck5QRUlULUFva2pYWQ",
    "source": "The Motley Fool",
-   "published_at": "2026-10-29T03:39:12+00:00",
+   "published_at": "2026-10-29T03:38:26+00:00",
    "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
-     "published_at": "2026-10-29T03:39:12+00:00",
+     "published_at": "2026-10-29T03:38:26+00:00",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS25xclBmc0ZuN2QyendwNllnLXpfNUZhMnhwMnhyYlRndmNZNnMzVkVBUTJ2X2VaSExsLXUzcEg3dmhQQUdBU1FGeGFrQ21oSmZFQTVJMWwxZkdwQkNIRHNsSWtGbDUyaENvNGc5QU1RbkJNUUd2V04wSmMzdjlINzAyY0c1Q1RBWHZXSmhBcXl5YnJEOEtQeHExRjEwQUxpV2ZzRXNuck5QRUlULUFva2pYWQ"
     },
     {
@@ -2525,7 +2559,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGk3bjFNVE5wbVh2SWRkZVhFZEFNSkYwd0E0QkRKcHVpQzBRWTlxbmREOWdWV2gxQ2pOWkg1d01xbnR0alVlLVpwWVM0SGxKalV3SThKS19WR1h0STkwOVRLOEV0cWVWdVhydkpYZjdxNUNuWENaclhJVTlnU3lORkNMN1lzWFZY",
    "source": "搜狐网",
    "published_at": "2026-10-28T14:06:36+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "搜狐网",
@@ -2536,13 +2570,22 @@
      "name": "新浪财经",
      "published_at": "2026-10-28T14:06:36+00:00",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tSG4taEtDV0hZaHFGV01fZUJ3VVNiMjhxQndnbmZjWEdsb0RnNk40SVNITjNIeXdWOTk0T2FGOS1xRmdfSmJydnNFc1lCdmNzUjNZeURoRUxodVg4ZkFCWm9hOTM0M1M4WE96bWlkMi1HMno3MmpQalhfOWpFdGs"
+    },
+    {
+     "name": "光通信Pro",
+     "published_at": "2026-10-28T14:18:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Sb1IteUNaOUhvenNHU1Z3RkV4VU92bjMwRG9Ybjd5THlDdUJQdTBHMWVKNERtX1pFX0dvSVFIR1lJU1J1VGlsdjExWG1nd1VVcjJVWGNCYw"
     }
    ],
    "category": "产品技术",
    "session": "盘中",
    "zh_summary": "英伟达RTX 5080在美售价超2000美元",
    "title_zh": "英伟达RTX 5080显卡在美国涨到2000美元以上，涨幅超过1倍",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.34,
+    "window_h": 2.0
+   }
   },
   {
    "id": "5cb0058d0c83",
@@ -6660,46 +6703,6 @@
    "session": "盘中",
    "zh_summary": "英伟达推每GPU2000美元企业软件授权",
    "title_zh": "英伟达超越GPU，推每GPU2000美元企业软件授权策略",
-   "sentiment": 1
-  },
-  {
-   "id": "f0d5c7190da5",
-   "title": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings - Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0",
-   "source": "Reuters",
-   "published_at": "2026-10-27T16:50:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-27T16:50:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "甲骨文扩大与英伟达芯片供应协议",
-   "title_zh": "甲骨文扩大与英伟达芯片供应协议，并新增谷歌和Cerebras",
-   "sentiment": 1
-  },
-  {
-   "id": "037c85b74185",
-   "title": "Nvidia, AMD Get Their Jollies Hooking Up With Meta's Muse - Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUYtTUVGcVg1OEY2WFpMeXZWTmQ0XzB0NGNEdTRTcE5vdGhGaTd3Yzg1XzlLbmZMMTNHUmhGcGxFNXJyNjhmM01KdVU3ZlNsc09IT1o0UWdRSW1fZUdLVVY5UGZOTnVsRXZxUUMtelh0eVFXRUF3YWY4UlQ1OEhLNi1KSVBpcHl5VHRB",
-   "source": "Investor's Business Daily",
-   "published_at": "2026-10-27T16:49:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investor's Business Daily",
-     "published_at": "2026-10-27T16:49:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUYtTUVGcVg1OEY2WFpMeXZWTmQ0XzB0NGNEdTRTcE5vdGhGaTd3Yzg1XzlLbmZMMTNHUmhGcGxFNXJyNjhmM01KdVU3ZlNsc09IT1o0UWdRSW1fZUdLVVY5UGZOTnVsRXZxUUMtelh0eVFXRUF3YWY4UlQ1OEhLNi1KSVBpcHl5VHRB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达与AMD携手Meta的Muse",
-   "title_zh": "英伟达与AMD携手Meta的Muse",
    "sentiment": 1
   }
  ]
