@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T17:51:34.006133+00:00",
+ "updated_at": "2026-10-29T18:06:32.510139+00:00",
  "market": {
-  "price": 213.07,
-  "change_pct": -1.07,
+  "price": 212.72,
+  "change_pct": -1.23,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": -0.05,
-   "count": 136
+   "avg": -0.06,
+   "count": 139
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 65% 分位"
+     "note": "现价处于52周区间 64% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +47.8%"
+     "note": "目标价中位数 $315（17家），隐含空间 +48.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.05（136条已评分）"
+     "note": "今日新闻情绪 -0.06（139条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.07 vs 20日均线 $222.90"
+     "note": "现价 $212.72 vs 20日均线 $222.88"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 65,
+   "price_52w_pct": 64,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 47.8,
-   "ma20": 222.9,
-   "as_of": "2026-10-29T17:51:33.986233+00:00"
+   "implied_upside_pct": 48.1,
+   "ma20": 222.88,
+   "as_of": "2026-10-29T18:06:32.488649+00:00"
   },
-  "pe_ttm": 27.1,
+  "pe_ttm": 27.0,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+48.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -611,7 +611,7 @@
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0dIVHhVYjZoLUJpVHdScEdhbmFEcjVyRzVhQnBwZm9GODk3ODVkcGpoUHN6UC0xSHJycUtqdkowLU9CNU81cHJjdkhzVjNYczNXNU5HMUtpQWlDUzM0RFlGZFljNjRsRlNQYnhtX05YaDRRNkJsSTJRY1pfcGJrMW41Z1lWUEtJaFE",
    "source": "The Guardian",
    "published_at": "2026-10-29T15:23:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "The Guardian",
@@ -627,10 +627,16 @@
      "name": "ColombiaOne.com",
      "published_at": "2026-10-29T16:31:36+00:00",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01aDV2bnVqand6RDF4SFFGZWxxS0pjLTkxS0VPc3dnWS00b3d4cWJEUDFVWDctM1FwTmVNaVpFVEpNLXg2N2dxY0RRcFlaeWZkcjN2ZXJ1cmpCai1XWFA0T2lPZF9OaFlnRW12UGpkdXBNVnBIRTRIcWRHQQ"
+    },
+    {
+     "name": "Gizmodo",
+     "published_at": "2026-10-29T16:20:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRURNNGFJSUV2ZUYxV3pTYXpxSkF5TGtUZUxtOTB2ZFE5bWItSDFZUkxENWdzZzNBYWoySWtiNU9RdDkzTzFmQlFmZXNWbmNjc1VxQ1FDejMzQmttMkNGRG4xZ0pqUU9MZGpLbnQtQ2k5U3h3c0FNVXR0UWlTRUlEQV9HWkwtOFU"
     }
    ],
    "category": "其他",
    "session": "盘中",
+   "breaking": true,
    "zh_summary": "英伟达CEO据报遭中国间谍盯上",
    "title_zh": "英伟达CEO据报成为中国间谍目标",
    "sentiment": -1,
