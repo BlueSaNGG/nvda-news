@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T06:21:28.591341+00:00",
+ "updated_at": "2026-10-29T06:36:27.937993+00:00",
  "market": {
   "price": 215.38,
   "change_pct": -1.17,
@@ -10,12 +10,12 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": 0.5,
-   "count": 2
+   "avg": 0.25,
+   "count": 4
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +0.50（2条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.25（4条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 46.3,
    "ma20": 223.79,
-   "as_of": "2026-10-29T06:21:28.577878+00:00"
+   "as_of": "2026-10-29T06:36:27.927574+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "57012e003004",
+   "title": "机构：英伟达Vera Rubin逐月放量，MLCC缺口延续 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUl2NmhYaHhVZ3ktNThwMkt5RXVMRFNFTnBTaGRiUGpFZzlrdUFHMHZja3VLcmhYRTlnWFo4VDlwUWxkeURFcVN6VFNCNV96WUlPMnhGY2xraTQ4TUFLU2FEUnl4TnllNWpJNUJ1ODIzcGMxVkR4b1Y5TUVwdmFYNU5iM2gteTNlU191Xw",
+   "source": "搜狐网",
+   "published_at": "2026-10-29T06:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-29T06:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUl2NmhYaHhVZ3ktNThwMkt5RXVMRFNFTnBTaGRiUGpFZzlrdUFHMHZja3VLcmhYRTlnWFo4VDlwUWxkeURFcVN6VFNCNV96WUlPMnhGY2xraTQ4TUFLU2FEUnl4TnllNWpJNUJ1ODIzcGMxVkR4b1Y5TUVwdmFYNU5iM2gteTNlU191Xw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "36fd7e1a95b0",
    "title": "Not Nvidia. Not AMD. This Is the Best Artificial Intelligence (AI) Stock to Buy in November - The Motley Fool",
@@ -80,6 +97,23 @@
    "zh_summary": "非英伟达非AMD的11月最佳AI股",
    "title_zh": "非英伟达非AMD：11月最值得买的AI股票",
    "sentiment": -1
+  },
+  {
+   "id": "afbd4cccba1c",
+   "title": "Rep. Pete Sessions Unloads Shares of NVIDIA Corporation (NASDAQ:NVDA) - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdkdGSGhNVkRnOHJSclZxUHFsYjMxemxZMGR3YVhWbGNlQ3hsRWlOUzFBMHZKUEVVZHROUTNCQVNZRHZ3UktQMWxBbTVnZDNsV2FfaG94a0hWaVphcVZYblpCVktFcGFEdkY1WTlDQ2xWODFaZmtoMzZ2WmJFNzlSN3hTN1RTdWttUFdHT2FLVzFHaXdkSUI3WklEMzdCdlNJN1RraENHNG54WlQ2ZEJoZ0UxNnZHRHhpVGN2ZzRCZXdJSEpKTlNTRA",
+   "source": "MarketBeat",
+   "published_at": "2026-10-29T06:14:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-29T06:14:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdkdGSGhNVkRnOHJSclZxUHFsYjMxemxZMGR3YVhWbGNlQ3hsRWlOUzFBMHZKUEVVZHROUTNCQVNZRHZ3UktQMWxBbTVnZDNsV2FfaG94a0hWaVphcVZYblpCVktFcGFEdkY1WTlDQ2xWODFaZmtoMzZ2WmJFNzlSN3hTN1RTdWttUFdHT2FLVzFHaXdkSUI3WklEMzdCdlNJN1RraENHNG54WlQ2ZEJoZ0UxNnZHRHhpVGN2ZzRCZXdJSEpKTlNTRA"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘前"
   },
   {
    "id": "cba2ae32a038",
@@ -386,6 +420,23 @@
    "zh_summary": "英伟达收购Hugging Face遭司法部审查",
    "title_zh": "英伟达129亿美元收购Hugging Face遭美司法部审查",
    "sentiment": -2
+  },
+  {
+   "id": "a85fe58f5b42",
+   "title": "AMD vs Nvidia Graphics Cards: +36% vs +259% Markup [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXhxblZ4LThQOVBhcndKeUs4V0owczlPWmpXdE9Dd0tUb3d1WS1fMHRIS2VfN3RscWU2SFdERDhpNzJEeC1OcGtYOG5fTFpKZmVEcUNvYTdjand5M1VmVnpsTmp5MDNHaE9ZQXVTbERNMDVoUmhpaVkxNmR2S1N0bGV2V0dXOWVhUnpBcDhHSkJGZlhmX3c",
+   "source": "shattered.io",
+   "published_at": "2026-10-29T02:50:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-29T02:50:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXhxblZ4LThQOVBhcndKeUs4V0owczlPWmpXdE9Dd0tUb3d1WS1fMHRIS2VfN3RscWU2SFdERDhpNzJEeC1OcGtYOG5fTFpKZmVEcUNvYTdjand5M1VmVnpsTmp5MDNHaE9ZQXVTbERNMDVoUmhpaVkxNmR2S1N0bGV2V0dXOWVhUnpBcDhHSkJGZlhmX3c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "ff79a778bff7",
@@ -5894,6 +5945,23 @@
    "sentiment": -1
   },
   {
+   "id": "037c85b74185",
+   "title": "Nvidia, AMD Get Their Jollies Hooking Up With Meta's Muse - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUYtTUVGcVg1OEY2WFpMeXZWTmQ0XzB0NGNEdTRTcE5vdGhGaTd3Yzg1XzlLbmZMMTNHUmhGcGxFNXJyNjhmM01KdVU3ZlNsc09IT1o0UWdRSW1fZUdLVVY5UGZOTnVsRXZxUUMtelh0eVFXRUF3YWY4UlQ1OEhLNi1KSVBpcHl5VHRB",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-10-27T22:08:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-10-27T22:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUYtTUVGcVg1OEY2WFpMeXZWTmQ0XzB0NGNEdTRTcE5vdGhGaTd3Yzg1XzlLbmZMMTNHUmhGcGxFNXJyNjhmM01KdVU3ZlNsc09IT1o0UWdRSW1fZUdLVVY5UGZOTnVsRXZxUUMtelh0eVFXRUF3YWY4UlQ1OEhLNi1KSVBpcHl5VHRB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "9c0e4669610d",
    "title": "Anthropic Held More Cash Than Nvidia and Apple Combined Ahead of IPO - BeInCrypto",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FeFoxci1FUGdSdVBVWjFjMEV1TmFRMlJtMG1TdlE2Rk55Uk1wYXoxWE5RZHBUOUZVNFBmT3p5QzltWmRUdVoyMVZ0bV9EYXhLN1NvNFItRlZ2ZmNhMzFjUkk4Y0NYaVVybElaamdya0RoZw",
@@ -6629,86 +6697,6 @@
    "session": "盘中",
    "zh_summary": "甲骨文云引入谷歌TPU，英伟达合作扩大",
    "title_zh": "甲骨文涨5%，谷歌TPU入驻甲骨文云，英伟达合作扩大",
-   "sentiment": 1
-  },
-  {
-   "id": "9867a3203cda",
-   "title": "45,000 Nvidia Blackwell GPUs Cleared for Kazakhstan Data Center - Crude Oil Prices Today | OilPrice.com",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU24xM09nWDJqci0zeUp2WnlZT3F1Vm1pOTJSeEdUbDRGeWpFdXdYV0FIRDZmUU5DWXR5SVZ0U09UR0NNb0szeDdMRTVQbFhZRDlSX3o3RUt4SUliX0NTYVVjVHRaS2NsZUh5clpUQkZMbldzWlJ4aXRjaWxVVVBQTU0zb0NfRzBuelFkQ0Nob0JhMnNPT3NkaHQ1YmpMZTVIdmt2VkNDVEppeU1hSXJvbVJkLVXSAbQBQVVfeXFMT1NuMTNPZ1gyanItM3lKdlp5WU9xdVZtaTkyUnhHVGw0RnlqRXV3WFdBSEQ2ZlFOQ1l0eUlWdFNPVEdDTW9LM3g3TEU1UGxYWUQ5Ul96N0VLeElJYl9DU2FVY1R0WktjbGVIeXJaVEJGTG5Xc1pSeGl0Y2lsVVVQUE1NM29DX0cwbnpRZENDaG9CYTJzT09zZGh0NWJqTGU1SHZrdlZDQ1RKaXlNYUlyb21SZC1V",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published_at": "2026-10-27T17:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Crude Oil Prices Today | OilPrice.com",
-     "published_at": "2026-10-27T17:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU24xM09nWDJqci0zeUp2WnlZT3F1Vm1pOTJSeEdUbDRGeWpFdXdYV0FIRDZmUU5DWXR5SVZ0U09UR0NNb0szeDdMRTVQbFhZRDlSX3o3RUt4SUliX0NTYVVjVHRaS2NsZUh5clpUQkZMbldzWlJ4aXRjaWxVVVBQTU0zb0NfRzBuelFkQ0Nob0JhMnNPT3NkaHQ1YmpMZTVIdmt2VkNDVEppeU1hSXJvbVJkLVXSAbQBQVVfeXFMT1NuMTNPZ1gyanItM3lKdlp5WU9xdVZtaTkyUnhHVGw0RnlqRXV3WFdBSEQ2ZlFOQ1l0eUlWdFNPVEdDTW9LM3g3TEU1UGxYWUQ5Ul96N0VLeElJYl9DU2FVY1R0WktjbGVIeXJaVEJGTG5Xc1pSeGl0Y2lsVVVQUE1NM29DX0cwbnpRZENDaG9CYTJzT09zZGh0NWJqTGU1SHZrdlZDQ1RKaXlNYUlyb21SZC1V"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "哈萨克斯坦获准进口45000块Blackwell",
-   "title_zh": "45000块英伟达Blackwell GPU获准用于哈萨克斯坦数据中心",
-   "sentiment": 1
-  },
-  {
-   "id": "29acb3ba3a34",
-   "title": "Nvidia vs. AMD: One AI Stock Is a Buy, the Other Can Wait, Says Investor - TipRanks",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcHcyZ045bndlN0Uxd1QtaFJEbUpfaDFiaTlsYk83YXpWSm5vQld2T3lSZGRzWjNwdl83LXRMVC0zVmV6TE5LWVpPSEVfWEd3VFNpTjNWXzFMa1dLSFQ4UTRsZ09tZ1FpNHMwTTZ1RXVJdzVTd2ZvY2xtbnlobjk4YTVzRGdxSWxBQXdXaU9JTUxqenRBWksxX0RhODZPRnJlQXJ4YXhubWlsdw",
-   "source": "TipRanks",
-   "published_at": "2026-10-27T16:56:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TipRanks",
-     "published_at": "2026-10-27T16:56:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcHcyZ045bndlN0Uxd1QtaFJEbUpfaDFiaTlsYk83YXpWSm5vQld2T3lSZGRzWjNwdl83LXRMVC0zVmV6TE5LWVpPSEVfWEd3VFNpTjNWXzFMa1dLSFQ4UTRsZ09tZ1FpNHMwTTZ1RXVJdzVTd2ZvY2xtbnlobjk4YTVzRGdxSWxBQXdXaU9JTUxqenRBWksxX0RhODZPRnJlQXJ4YXhubWlsdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "投资者称一只AI股可买另一只可等",
-   "title_zh": "投资者称一只AI股值得买入，另一只可暂缓",
-   "sentiment": 0
-  },
-  {
-   "id": "60c6e72e2b9a",
-   "title": "甲骨文将在AI云服务中引入Cerebras计算机 为英伟达挑战者再添大客户 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLVkxWU45TzRMbEpQeVh6dGdRNlBOcjRBenVxTll2cTRkQWxzbnJFMlhUbUx2ZnJCNW1Vb2FXWlh5X2V1dU9GWldNWFB0WlpNZ3pZODRVaWdjWXNuUGRCVFlsWUROVXVKRWxiekJJMEdJU0RIUFQtYjBmbjVBMEFPcFpld0kyVzNGakZOY3d4anpQTjI0UC1pTklYVGJfQmExMXNYRFJjRDRtRG5COWZhSGJ3SjJ5Z2tmRkJWUVBxSG1pRjF4M0NvV2tpcldNUHVRWjhpUDNzNTVmVzhzS0E",
-   "source": "新浪财经",
-   "published_at": "2026-10-27T16:53:35+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-27T16:53:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLVkxWU45TzRMbEpQeVh6dGdRNlBOcjRBenVxTll2cTRkQWxzbnJFMlhUbUx2ZnJCNW1Vb2FXWlh5X2V1dU9GWldNWFB0WlpNZ3pZODRVaWdjWXNuUGRCVFlsWUROVXVKRWxiekJJMEdJU0RIUFQtYjBmbjVBMEFPcFpld0kyVzNGakZOY3d4anpQTjI0UC1pTklYVGJfQmExMXNYRFJjRDRtRG5COWZhSGJ3SjJ5Z2tmRkJWUVBxSG1pRjF4M0NvV2tpcldNUHVRWjhpUDNzNTVmVzhzS0E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "甲骨文引入Cerebras，挑战者添大客户",
-   "title_zh": "甲骨文AI云引入Cerebras，英伟达挑战者添大客户",
-   "sentiment": -1
-  },
-  {
-   "id": "c8d2ecc84c72",
-   "title": "Nvidia pushes beyond GPUs with $2K-per-GPU enterprise software licensing strategy - SDxCentral",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYWZqMnh4ZExGSmFQdC1objVUdi1VdWdCWHkyUDZfV2xxWEdETHNMS1k1YXlUSHBVOW50VW05WjFfN1ExcWhmUDRiVmxfUWFtV1k0dEpqeGVzdzN2S1ByVm1yclMyTmpFZnlGUjRZOVkwT2s1OE9qNHQzb2Q5MzFBR3ltV1gxMHg3TGpERkNuN0NCWkdTY0ZEUkZhQ1doQ3FoVVUxM0l0RlpncGdqTjl5VS11VQ",
-   "source": "SDxCentral",
-   "published_at": "2026-10-27T16:51:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "SDxCentral",
-     "published_at": "2026-10-27T16:51:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYWZqMnh4ZExGSmFQdC1objVUdi1VdWdCWHkyUDZfV2xxWEdETHNMS1k1YXlUSHBVOW50VW05WjFfN1ExcWhmUDRiVmxfUWFtV1k0dEpqeGVzdzN2S1ByVm1yclMyTmpFZnlGUjRZOVkwT2s1OE9qNHQzb2Q5MzFBR3ltV1gxMHg3TGpERkNuN0NCWkdTY0ZEUkZhQ1doQ3FoVVUxM0l0RlpncGdqTjl5VS11VQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达推每GPU2000美元企业软件授权",
-   "title_zh": "英伟达超越GPU，推每GPU2000美元企业软件授权策略",
    "sentiment": 1
   }
  ]
