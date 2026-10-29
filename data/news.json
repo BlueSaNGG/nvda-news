@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T02:51:36.031023+00:00",
+ "updated_at": "2026-10-29T03:06:33.618476+00:00",
  "market": {
   "price": 215.38,
   "change_pct": -1.17,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.09,
-   "count": 182
+   "count": 183
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.09（182条已评分）"
+     "note": "今日新闻情绪 +0.09（183条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 46.3,
    "ma20": 223.79,
-   "as_of": "2026-10-29T02:51:36.017121+00:00"
+   "as_of": "2026-10-29T03:06:33.603258+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
@@ -1125,7 +1125,7 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYU3A5TkQzR0NpTEN6c0p3bXN1RUxEWndzTHRzWmQ4S0doU1g1RXhlUGNJQkFhbHdtdDA2bGdieUZfaWpkY1Z2bXpXaF9mMl94aU1z",
    "source": "华尔街见闻",
    "published_at": "2026-10-28T18:42:38+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "华尔街见闻",
@@ -1151,11 +1151,15 @@
      "name": "搜狐网",
      "published_at": "2026-10-28T19:05:36+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeXM5QXpoVWVSUksxQUNXRFg1UjAtR3FlNURGcmFsMGFYcTVVUkNoakQwNjBBWExrbHYwbTgzMDJwaGhUUXNya0pIMlN1b1BUOHM1bXB4aTFmTXM5TlcweWRXRUMyVWhLb2F3cU1GclBsX1NuaUs1R3VtaU42QWVoVWVzY0FzVllOa1pBMQ"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-29T00:30:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RekVIVjB2b2ZLSThXRFR6eXpXOGk2ZnVxZ3FwOGVUWTVoSjVwdVdGNnNtQ2x4emFFM1ZScUpieE9aZ0otS1o2REFZMEw"
     }
    ],
    "category": "其他",
    "session": "盘中",
-   "breaking": true,
    "zh_summary": "司法部质询英伟达收购Hugging Face",
    "title_zh": "美国司法部质询英伟达收购Hugging Face一事。（路透）",
    "sentiment": -1,
@@ -2463,6 +2467,23 @@
    "zh_summary": "《幻刃零》今日上线，支持GeForce RTX",
    "title_zh": "《幻刃零》今日登陆GeForce RTX与RTX Spark，新DLSS游戏上线",
    "sentiment": 1
+  },
+  {
+   "id": "0029fe0b4cce",
+   "title": "Experience Minecraft With Path Tracing and DLSS - RTX Remix 1.6 Available Now For GeForce and RTX Spark - NVIDIA",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTB2UmQxQ1k1bHh1RDNPQ2tRV2xBcG15TmQ1NFhIbURhV3pTU29oOHByU05nRmtJZU1LbWFkNzFpUnZfSGRkTWVFTFJYVVBJLXBsNGdCSTJ6OGdVMDBMaFZFSnhvTUZxLXY0REc1NnpMUHRiYXNrLS0zYXNpYm5nMFJoeFpzX0RPa1YyXzRpN09pdXZM",
+   "source": "NVIDIA",
+   "published_at": "2026-10-28T13:17:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA",
+     "published_at": "2026-10-28T13:17:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTB2UmQxQ1k1bHh1RDNPQ2tRV2xBcG15TmQ1NFhIbURhV3pTU29oOHByU05nRmtJZU1LbWFkNzFpUnZfSGRkTWVFTFJYVVBJLXBsNGdCSTJ6OGdVMDBMaFZFSnhvTUZxLXY0REc1NnpMUHRiYXNrLS0zYXNpYm5nMFJoeFpzX0RPa1YyXzRpN09pdXZM"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "91bcbd425cd6",
@@ -6632,26 +6653,6 @@
    "zh_summary": "Meta与英伟达合作改进AI智能体",
    "title_zh": "Meta与英伟达合作打造更优AI智能体",
    "sentiment": 1
-  },
-  {
-   "id": "231f60d4051a",
-   "title": "Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages | NVIDIA Technical Blog - NVIDIA Developer",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0dXQWZkekRvY3QwQ1JsbURBek5zYS1KWXcyLUMxTVJHZVZ3QThQZTItX09mUXhWWXMzeU8wODMxbXpzNVREb1cxMlA5TFloUFlvMXZNeEE2R1lrVDFIa2ZacmNleUNWU1BBOGR3amhlVFU5UXpYN2owR0c1T25XdGtRUVRrc1VlX2NiRWdYUkYxV3lUb1VrM0twT0J0YVRGcW9VeDltc3dqSXc",
-   "source": "NVIDIA Developer",
-   "published_at": "2026-10-27T16:03:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NVIDIA Developer",
-     "published_at": "2026-10-27T16:03:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0dXQWZkekRvY3QwQ1JsbURBek5zYS1KWXcyLUMxTVJHZVZ3QThQZTItX09mUXhWWXMzeU8wODMxbXpzNVREb1cxMlA5TFloUFlvMXZNeEE2R1lrVDFIa2ZacmNleUNWU1BBOGR3amhlVFU5UXpYN2owR0c1T25XdGtRUVRrc1VlX2NiRWdYUkYxV3lUb1VrM0twT0J0YVRGcW9VeDltc3dqSXc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达微调Nemotron了解本地规则",
-   "title_zh": "微调英伟达Nemotron：懂本地规则而不只是语言",
-   "sentiment": 0
   }
  ]
 }
