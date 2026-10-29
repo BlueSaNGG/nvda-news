@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T10:36:29.876089+00:00",
+ "updated_at": "2026-10-29T10:51:28.550642+00:00",
  "market": {
   "price": 215.38,
   "change_pct": -1.17,
@@ -10,8 +10,8 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": 0.09,
-   "count": 32
+   "avg": 0.17,
+   "count": 36
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.09（32条已评分）"
+     "note": "今日新闻情绪 +0.17（36条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 46.3,
    "ma20": 223.79,
-   "as_of": "2026-10-29T10:36:29.860774+00:00"
+   "as_of": "2026-10-29T10:51:28.535784+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
@@ -127,7 +127,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXWmZZblVsTS1UQmFVY05yYi1TVl95OWI5c2RpdllXYTctN2ctcUtoLWVEaFNWS1F0WlpzV1ZybVFyby1FNzFCWURELTNrTURZTENiaGVJM2JCTG16SFE",
    "source": "DoNews",
    "published_at": "2026-10-29T10:02:34+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "DoNews",
@@ -143,10 +143,16 @@
      "name": "搜狐网",
      "published_at": "2026-10-29T10:02:34+00:00",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUlDT2RSUUJldUJSQzctNDVIcjRpOXFkT2J1TmdDcWRid0VTX2dTeGVodDRQSWhVc0doWDIyalM5VC00VmZVcXYzMmY5czhPUEtNMmVsYlp1aE5WSnZBUmlRdEs3bVM2bW5EMFZRV01sd1p0bnZBNmdJMl9PMExrN2ZWOGItMnhEQURGeg"
+    },
+    {
+     "name": "36Kr",
+     "published_at": "2026-10-29T10:43:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xQXRkTUFvU1ladU9UaXhLRXRZRXhTczQ5OHZ5bFJvdXJUZzkwcjV1T3o4SlQ5ZDBXbFc2UjdRc1pabWhfaGpiNVJVMTAwSVdT"
     }
    ],
    "category": "产品技术",
    "session": "盘前",
+   "breaking": true,
    "zh_summary": "中国芯片公司另辟蹊径应对英伟达收购",
    "title_zh": "英伟达花200亿美元买的东西，一家中国芯片公司想换个做法 - DoNews",
    "sentiment": 0
@@ -505,6 +511,23 @@
    "zh_summary": "英伟达发布开源语音转录模型",
    "title_zh": "英伟达发布开源语音转录模型Nemotron 3.5 - DoNews",
    "sentiment": 1
+  },
+  {
+   "id": "0de1d31f2e18",
+   "title": "开源！英伟达GPU隐藏算力被破解，RTX 4090 吞吐直接翻倍 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1",
+   "source": "搜狐网",
+   "published_at": "2026-10-29T07:35:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-29T07:35:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
   },
   {
    "id": "05d53a1f9711",
@@ -6677,26 +6700,6 @@
     "pct": -0.18,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "34894586911a",
-   "title": "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193 - AI: Reset to Zero",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ocTZ1V2FnQnZ6QXZ0UlI3VlJTSFN4amVoTHRpWU5ZRHJDa18wXzVIdFRMVWhlaXpnYnVqMzBDeXU2R0lTandKV01DbjVNb0xVdDZGWlNPVVI2Q3cwM2lSTjVzNmRSb1h3YmNNeXhDVTdmdjZVcXVOdWxZTmU",
-   "source": "AI: Reset to Zero",
-   "published_at": "2026-10-27T23:17:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "AI: Reset to Zero",
-     "published_at": "2026-10-27T23:17:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ocTZ1V2FnQnZ6QXZ0UlI3VlJTSFN4amVoTHRpWU5ZRHJDa18wXzVIdFRMVWhlaXpnYnVqMzBDeXU2R0lTandKV01DbjVNb0xVdDZGWlNPVVI2Q3cwM2lSTjVzNmRSb1h3YmNNeXhDVTdmdjZVcXVOdWxZTmU"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "Anthropic、英伟达与谷歌竞逐AI",
-   "title_zh": "AI竞速：Anthropic、英伟达与谷歌",
-   "sentiment": 0
   }
  ]
 }
