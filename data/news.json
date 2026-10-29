@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T01:21:29.214519+00:00",
+ "updated_at": "2026-10-29T01:36:30.160017+00:00",
  "market": {
-  "price": 217.94,
-  "change_pct": 0.9,
+  "price": 215.38,
+  "change_pct": -1.17,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -20,12 +20,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 71% 分位"
+     "note": "现价处于52周区间 68% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +44.5%"
+     "note": "目标价中位数 $315（17家），隐含空间 +46.3%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $217.94 vs 20日均线 $224.44"
+     "note": "现价 $215.38 vs 20日均线 $223.79"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 71,
+   "price_52w_pct": 68,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 44.5,
-   "ma20": 224.44,
-   "as_of": "2026-10-29T01:21:29.203470+00:00"
+   "implied_upside_pct": 46.3,
+   "ma20": 223.79,
+   "as_of": "2026-10-29T01:36:30.148443+00:00"
   },
-  "pe_ttm": 27.7,
-  "pe_pct_5y": 23,
-  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.5%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.4,
+  "pe_pct_5y": 22,
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a2382d0a947f",
+   "title": "英伟达真的慌了，有一款国产GPU，超过了H200的性能 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPenJKZ0luQjU3S0xoR0UtX3Bmdl9XS1BlYnVOUC03aGhMYS1tYmdSRlg1SW92MjVrS3Y5ZjNZVFo2Q0RZa0UzQkozZVJuVkcydVhXc0szZWZSbWh2R0dFM09kZEx6UFMyTmlDdjJhVWJtMUViY0RWTGNLTTQzemJNaXBudzRzUnpQQ2xaYg",
+   "source": "搜狐网",
+   "published_at": "2026-10-29T01:28:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-29T01:28:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPenJKZ0luQjU3S0xoR0UtX3Bmdl9XS1BlYnVOUC03aGhMYS1tYmdSRlg1SW92MjVrS3Y5ZjNZVFo2Q0RZa0UzQkozZVJuVkcydVhXc0szZWZSbWh2R0dFM09kZEx6UFMyTmlDdjJhVWJtMUViY0RWTGNLTTQzemJNaXBudzRzUnpQQ2xaYg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "0edde8b3668a",
    "title": "避开CUDA，绕过英伟达：VSORA的AI芯片突围战！ - 电子工程专辑",
@@ -4106,26 +4123,6 @@
    "sentiment": -1
   },
   {
-   "id": "62ed439b4be2",
-   "title": "事关算力定价权！英伟达头号梦魇，藏在Anthropic招股书中 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IcmVNWl9fNGVMU3pvZ1ZrRktqUmtuQ0FXekRMaTZkbmkxR3hraTJpTVpjdmczbmYzd1dmSmZzWEE2X1QzcF9zSQ",
-   "source": "财联社",
-   "published_at": "2026-10-28T03:21:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-28T03:21:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IcmVNWl9fNGVMU3pvZ1ZrRktqUmtuQ0FXekRMaTZkbmkxR3hraTJpTVpjdmczbmYzd1dmSmZzWEE2X1QzcF9zSQ"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "Anthropic招股书涉算力定价权",
-   "title_zh": "事关算力定价权！英伟达头号梦魇，藏在Anthropic招股书中 - 财联社",
-   "sentiment": -1
-  },
-  {
    "id": "6f949b3f715b",
    "title": "AMD宣布向Meta投资10亿美元深化AI合作，英伟达此前投资30亿美元 - 电子工程专辑",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YNmxxbk5WS05KQ2p2b014eUZyVjZidmk2ZzNTWXRFdGpacGU2ZWZDRS1OWWhPc3g5NlQ2YlUwLW0ySVVodk1QS0ZxUzd6NVMzeWVpSjBLVkF1eS11",
@@ -5416,6 +5413,23 @@
    "sentiment": 1
   },
   {
+   "id": "ebf5dfb984ab",
+   "title": "甲骨文与谷歌、英特尔、英伟达等扩大合作 股价一度涨5% - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02Q1VVY3VpVjhzYVpwNmFMTFFITmlJQ3NseDMzSlpiMjF4RkoyYi15ay1zLUwzbzc2ZHpZUlRCaUpoREMwWk9nbGVmMHZFaF93VnQyRjZmX3JNa3ExblJmUQ",
+   "source": "东方财富",
+   "published_at": "2026-10-27T21:30:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-27T21:30:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02Q1VVY3VpVjhzYVpwNmFMTFFITmlJQ3NseDMzSlpiMjF4RkoyYi15ay1zLUwzbzc2ZHpZUlRCaUpoREMwWk9nbGVmMHZFaF93VnQyRjZmX3JNa3ExblJmUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "80c0899b6e7c",
    "title": "Jensen Huang's Late-Night Calls With President Trump Come as Nvidia's China AI Chip Shipments Fall 44% in the First Half of 2026. Here's Why His Access Matters. - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzdjUUUxdkQzTHNLQzhYejV5NkpfNWhPclZjekxOQVIwY3ZCZG9ZZ0Z6YzRuSml3Y2dEYWdNaFg3aG1QNFFTdGRKWlpFU3BBUXZWUV8zRkEtNGxZUk5CRFQ2MWRUWUJaZkhFbnhOcWFEV0JEN2ZCd3JtYkJya1YtT3hZRlVVaU5HWEZkRQ",
@@ -6666,26 +6680,6 @@
     "pct": -0.38,
     "window_h": 0.5
    }
-  },
-  {
-   "id": "60db1ae7286e",
-   "title": "OpenAI trained GPT-6 Astra, an AI model, on over 100,000 NVIDIA chips in Oracle’s cloud. - Stock Titan",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORUpISEtBQUJhQVgyeG5RRzM4cDZKVkcxQjZZb09fbXZidGktYVdreExOS3FQR2N4SXBuRzBmMWdDRnRmMUgyTU5lY2MwTGVKMTItZmxxYmNLS3R3MXJMM2ItRVE0Q2IwWFdxaEx4cjg3SGpRVUZ1RUJLZGM4NXRvLVQ1WnkyS09qUFYzeFdKQ2tLaWJfMVF6d1huRHVadGR3OFNWTVlHSXNRY25qMVRGNjU2Q2JiWnhXRWNTd3RR",
-   "source": "Stock Titan",
-   "published_at": "2026-10-27T16:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Stock Titan",
-     "published_at": "2026-10-27T16:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORUpISEtBQUJhQVgyeG5RRzM4cDZKVkcxQjZZb09fbXZidGktYVdreExOS3FQR2N4SXBuRzBmMWdDRnRmMUgyTU5lY2MwTGVKMTItZmxxYmNLS3R3MXJMM2ItRVE0Q2IwWFdxaEx4cjg3SGpRVUZ1RUJLZGM4NXRvLVQ1WnkyS09qUFYzeFdKQ2tLaWJfMVF6d1huRHVadGR3OFNWTVlHSXNRY25qMVRGNjU2Q2JiWnhXRWNTd3RR"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "OpenAI用超10万颗英伟达芯片训练GPT-6",
-   "title_zh": "OpenAI在甲骨文云上用逾10万颗英伟达芯片训练GPT-6 Astra",
-   "sentiment": 1
   }
  ]
 }
