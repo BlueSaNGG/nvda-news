@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T17:21:40.949166+00:00",
+ "updated_at": "2026-10-29T17:36:35.685155+00:00",
  "market": {
-  "price": 213.37,
-  "change_pct": -0.93,
+  "price": 213.55,
+  "change_pct": -0.85,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": -0.05,
-   "count": 133
+   "avg": -0.06,
+   "count": 134
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +47.6%"
+     "note": "目标价中位数 $315（17家），隐含空间 +47.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.05（133条已评分）"
+     "note": "今日新闻情绪 -0.06（134条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.37 vs 20日均线 $222.91"
+     "note": "现价 $213.55 vs 20日均线 $222.92"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 65,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 47.6,
-   "ma20": 222.91,
-   "as_of": "2026-10-29T17:21:40.938754+00:00"
+   "implied_upside_pct": 47.5,
+   "ma20": 222.92,
+   "as_of": "2026-10-29T17:36:35.670659+00:00"
   },
   "pe_ttm": 27.1,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.6%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "38a90f0f0041",
+   "title": "Nvidia and Canada are backing Cohere's record funding round of up to CAD $7 billion - Quartz",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsdGpaQWJQQTVCcEVOMkNkZGZyd1FXZUVjX1BvNFJvdzZfZnRJN0pjN3RXWXk5cWNOZzV2YWMxTEtZQjJucFVwWlpjTkl4TEJrSE9UR3BkTXBkWVZiZzBUY3RoU3dyeVhqTjJFZWVyX2lfTFE",
+   "source": "Quartz",
+   "published_at": "2026-10-29T17:26:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Quartz",
+     "published_at": "2026-10-29T17:26:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsdGpaQWJQQTVCcEVOMkNkZGZyd1FXZUVjX1BvNFJvdzZfZnRJN0pjN3RXWXk5cWNOZzV2YWMxTEtZQjJucFVwWlpjTkl4TEJrSE9UR3BkTXBkWVZiZzBUY3RoU3dyeVhqTjJFZWVyX2lfTFE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "2dd5067b5022",
+   "title": "Who is Alice Huang? The suspected Chinese asset who targeted Nvidia CEO Jensen Huang - Diario AS",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmZWcEZ1STFxblpBNk9xaEd3TmJQMVdvVWJKd0RRRG9RZXZueFdzWmlmaU1WR2JVeWJfRmhWUy1mOWU3czdfdjVIYUJBZXRwQnh1Tm1POXN2ZWdwUG1FWGF6ZmRXLVpxbU1kUnZUcXFaVk1wRnVJcFlHT0JpMVJsUUI3VlhMSjB1X1Z5MkdnQ2twSk5BY3ExVXVEckVPY0R2YkZOVG9rbWQ0a0toWW1DSDhjWExHdlVUQ0dPT0N2dkt2Zw",
+   "source": "Diario AS",
+   "published_at": "2026-10-29T17:18:26+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Diario AS",
+     "published_at": "2026-10-29T17:18:26+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmZWcEZ1STFxblpBNk9xaEd3TmJQMVdvVWJKd0RRRG9RZXZueFdzWmlmaU1WR2JVeWJfRmhWUy1mOWU3czdfdjVIYUJBZXRwQnh1Tm1POXN2ZWdwUG1FWGF6ZmRXLVpxbU1kUnZUcXFaVk1wRnVJcFlHT0JpMVJsUUI3VlhMSjB1X1Z5MkdnQ2twSk5BY3ExVXVEckVPY0R2YkZOVG9rbWQ0a0toWW1DSDhjWExHdlVUQ0dPT0N2dkt2Zw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "ec43abb801f7",
    "title": "Prediction: Wall Street’s Next AI Favorite May Not Be Nvidia - Yahoo Finance",
@@ -533,6 +567,23 @@
     "pct": -0.31,
     "window_h": 1.4
    }
+  },
+  {
+   "id": "ad564ef0dd15",
+   "title": "Nvidia GeForce NOW adds support for Phantom Blade Zero and Cyberpunk 2077 mods - Neowin",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0k4NlBDOHI3T1lubXZBdnZCS011RV9ha0YwcXU1eVIxU2cwVDFKUW16V1VSdVJaejVVUllrNW9rLXczM3YtNjNWbEpoLUZmUVRETGg3Z19fUGlFaFQ0clVTYnVtdl9yZVRfYlBnOUhwV29Mamw4d2ZSaks0UXRZS05PQ2E2azdIZUI2X3ptcVNOTExUR085MTF2YWdKRV93ajlSNVBGdXpuT2M",
+   "source": "Neowin",
+   "published_at": "2026-10-29T15:20:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Neowin",
+     "published_at": "2026-10-29T15:20:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX0k4NlBDOHI3T1lubXZBdnZCS011RV9ha0YwcXU1eVIxU2cwVDFKUW16V1VSdVJaejVVUllrNW9rLXczM3YtNjNWbEpoLUZmUVRETGg3Z19fUGlFaFQ0clVTYnVtdl9yZVRfYlBnOUhwV29Mamw4d2ZSaks0UXRZS05PQ2E2azdIZUI2X3ptcVNOTExUR085MTF2YWdKRV93ajlSNVBGdXpuT2M"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "a2160652fb1e",
@@ -3235,31 +3286,6 @@
    "sentiment": 0
   },
   {
-   "id": "4e7f263fd99e",
-   "title": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc",
-   "source": "Yahoo! Finance Canada",
-   "published_at": "2026-10-29T02:30:18+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-29T02:30:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc"
-    },
-    {
-     "name": "Yahoo Finance UK",
-     "published_at": "2026-10-29T09:07:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达股价新闻与行情页",
-   "title_zh": "英伟达股价、新闻、报价与历史",
-   "sentiment": 0
-  },
-  {
    "id": "72d1df68a6ae",
    "title": "Nvidia CEO Jensen Huang names three countries that are leading the world in technology and manufacturing; - The Times of India",
    "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPSThBdHM4ZElfUlhLTmhKUzE0SEtqNUJldXVrM3MzVnFhMzNnQmpmSUE3WUhXbzh0TVUzX2ZRdndKNmlLTDZOek1oM3ZXT0l1bU45c0dGZ0h0NlBtY1RIUkZUR3ZPREhsYzRZdTFZcnhmRDA5QS1kdlNBLUlzdUVETjZPU1U3VXNqMnoxNmpUc29iQXJROHliM2xlNjdyb1NiZDd1M1dDSlhBMEdTbjVxa1hDVWF6ZnFvMzJNTmp2V2RLcW1qbFMyOGRpRkVZbk55UDFkUXRENXhhYVhLa01LbGpMLS1FcGxYY0xicmFIdHRPaGY3Qm1kUnV5N09CM0JwOWswWWJXaHlxRnNIbWJOYWpKTXFxeWNCYVpueWdYX3dYT1BNZS13bncxTUNvY2VxNzNRLVhZN2ROSE10MHZ3cWc4YW1ielRTUi1QczMwWTFabEJBM1HSAdsCQVVfeXFMTkdZU0pRNzhuaEx4Sk9aVHo3Tmh0LTZ4Y0J0WVhQbUpvWkFjc0VHTlJncV9aeFhuWHZMZDUzSW1KVG53ak9BdjcyYzAwYmxxam1reWJyQTRfVzhpVnhLdTllOTdyOWtnLTZGSFhMYXFPeDBIRjFNeHNoOG03QmdyT3dEN1BjcV9QOHZoUk1Ta1dWa09aLUtUR2FybHc0OXVKVHp2ZVFfd0x3M1NOU2hKUl9lanVSQ1E1bUxINndXVExVUF9lTEN5R05ZaVNRdkRUZms2YjE5X1IzV1UydnRrUkMtWFZqbWtnYUR2UDhUWXQwUG5IbVlyajlSOVl5UnpJbWljUzlKV1g5M01tWXRvOGxfY2tZeWxsMFViN0pGUnJRQ3BFbFZmeHE3RHFIaUp2RHJfeXhiUC1wUGZGcm5TOEZ4YnhJek9QWFJfOEI5VDF1T1YwT1E4UEQ5VDQ",
@@ -5584,6 +5610,40 @@
    "sentiment": 1
   },
   {
+   "id": "4e7f263fd99e",
+   "title": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc",
+   "source": "Yahoo! Finance Canada",
+   "published_at": "2026-10-28T14:43:35+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-28T14:43:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc"
+    },
+    {
+     "name": "Yahoo Finance Australia",
+     "published_at": "2026-10-29T00:45:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E"
+    },
+    {
+     "name": "Yahoo Finance UK",
+     "published_at": "2026-10-29T09:07:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "英伟达股价新闻与行情页",
+   "title_zh": "英伟达股价、新闻、报价与历史",
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.2,
+    "window_h": 2.0
+   }
+  },
+  {
    "id": "8ef2f3eb360b",
    "title": "Nvidia forges supplier agreements to expand capacity for AI - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGNUaGdpYnFtdHhzYWczV1lUVFEzcmZ1U3VrOEh0V3VidzNlc3hlOHg2X1ptaVRSRGdmZGxTMkR5aGZuNzVfY3ZKVmdzaUo0Q3RTOUwyQzR0eHE3cTJsM29OSUxIckxXdTJxYV8tY01HdXBSUzRqQlBtbVdOeXk0MUJZR2tUNjd4a0lmeVd5OXBvTjdhSUYxTEVtVUZxTFJ4bURnNUZvdw",
@@ -6550,66 +6610,6 @@
    "zh_summary": "纳斯达克100 ETF新增英伟达与苹果",
    "title_zh": "Invesco纳斯达克100 ETF于10月26日新增英伟达和苹果",
    "sentiment": 1
-  },
-  {
-   "id": "5e25aa650ca4",
-   "title": "What Drove the Moves in These Five Stocks: Nvidia (NASDAQ:NVDA), Broadcom (NASDAQ:AVGO), AMD (NASDAQ:AMD), CoreWeave (NASDAQ:CRWV), MACOM (NASDAQ:MTSI)? - Kalkine",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQlpQdnJySk9CQU13WUNpLVFTaE5Mc01kb3ZqU1ZZblVBYUNrbXBpbGFsMUM1d2w3dU9TUnREYjZSNndTcTNZMjAwWFVqeFNIMExrNVgxOEtQX2QyeDUta25UUDE4VHVEeGlzcjNrMjY4b25zVENaN2RGS2hYS3VPYjNvRktIendEbzQ2aHFONnpOcXA4M2U1aURWMmZoc0ZsMjhUSmR3dVpoRGRwV2RtWW5tbEFNRGFxVmt3YVdMbnVxWVU5bUVfb3Zid2pJaEQ1QVRuVDFhd1VpQ0VjbXB6b1JTenZwaUlIRzVWNERrMXdKWGN0MTZZb2dlOFA4RUVzbkE",
-   "source": "Kalkine",
-   "published_at": "2026-10-28T11:03:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Kalkine",
-     "published_at": "2026-10-28T11:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQlpQdnJySk9CQU13WUNpLVFTaE5Mc01kb3ZqU1ZZblVBYUNrbXBpbGFsMUM1d2w3dU9TUnREYjZSNndTcTNZMjAwWFVqeFNIMExrNVgxOEtQX2QyeDUta25UUDE4VHVEeGlzcjNrMjY4b25zVENaN2RGS2hYS3VPYjNvRktIendEbzQ2aHFONnpOcXA4M2U1aURWMmZoc0ZsMjhUSmR3dVpoRGRwV2RtWW5tbEFNRGFxVmt3YVdMbnVxWVU5bUVfb3Zid2pJaEQ1QVRuVDFhd1VpQ0VjbXB6b1JTenZwaUlIRzVWNERrMXdKWGN0MTZZb2dlOFA4RUVzbkE"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "英伟达等五只股票走势解析",
-   "title_zh": "英伟达等五只股票走势的驱动因素",
-   "sentiment": 0
-  },
-  {
-   "id": "61d67eef8f17",
-   "title": "Nvidia and Oracle bring Vera CPU instances online in multi-gigawatt deployment - Tom's Hardware",
-   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNYlVVQkFlZzUzWURRTEFVNGk2MU5QazNyQVY2LTA2M1BVSTZBMHZVclh6dVEtTHRERWJJa3R4YlZJMm9remZONTdhakY1QkMtNUpsb0d5cGlkbWJibU51VFlqLUFrNUZhNG9WeGdvakxhNV9ONUdYek96UXFMd2V0UVEyYXNkTjNwYkVnVG9KWG5lTTNFdFVJVms3clYtajNSQklqZHE1eHpMclBRR1ltaUhWZGlibUNKSzZaV09senRXUWUta3lETF9KTVBqRjFhVUt3ejZTb18xMld5MVZQT1puQWYzVHpYaFhMam4yRE1Kd243TGdyUXhFUER2YkZrWm9mY0VnSUpYY1AtVGRjOHBCa1c1RzBlT01tLU16em16MWpGaEgtVzBoYzR6REEzRVYwMFF0M1EzV0RiemFHQUpDV1A5OTFPcnNfblFzeGI5T2o1cUlOOA",
-   "source": "Tom's Hardware",
-   "published_at": "2026-10-28T11:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tom's Hardware",
-     "published_at": "2026-10-28T11:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNYlVVQkFlZzUzWURRTEFVNGk2MU5QazNyQVY2LTA2M1BVSTZBMHZVclh6dVEtTHRERWJJa3R4YlZJMm9remZONTdhakY1QkMtNUpsb0d5cGlkbWJibU51VFlqLUFrNUZhNG9WeGdvakxhNV9ONUdYek96UXFMd2V0UVEyYXNkTjNwYkVnVG9KWG5lTTNFdFVJVms3clYtajNSQklqZHE1eHpMclBRR1ltaUhWZGlibUNKSzZaV09senRXUWUta3lETF9KTVBqRjFhVUt3ejZTb18xMld5MVZQT1puQWYzVHpYaFhMam4yRE1Kd243TGdyUXhFUER2YkZrWm9mY0VnSUpYY1AtVGRjOHBCa1c1RzBlT01tLU16em16MWpGaEgtVzBoYzR6REEzRVYwMFF0M1EzV0RiemFHQUpDV1A5OTFPcnNfblFzeGI5T2o1cUlOOA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达甲骨文Vera实例上线，达多吉瓦规模",
-   "title_zh": "英伟达与甲骨文上线Vera CPU实例，部署达多吉瓦规模",
-   "sentiment": 1
-  },
-  {
-   "id": "1608886f98e0",
-   "title": "Nvidia Admits Vera Rubin Isn't as Powerful as It Originally Claimed - ExtremeTech",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHRBWDZ4ek96SDROVnotUHFqV3BINVlxdFhYQ1V5UmhLUjEycmhYMDFNSnVFd2d2RnVnb2Y4TExPaTc3cS1XMHExV2duSzI4WDVGZmJiV3liYUo0bk5EZU01NlRXbExINy1PYXMzY0RRNkNoTjRiTDRJaFY1WkV3S2trR3dHcHNDaGxnTGs0amlmMTBpdHhuc292dFJPN2xvcWw5NmFqSQ",
-   "source": "ExtremeTech",
-   "published_at": "2026-10-28T11:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ExtremeTech",
-     "published_at": "2026-10-28T11:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUHRBWDZ4ek96SDROVnotUHFqV3BINVlxdFhYQ1V5UmhLUjEycmhYMDFNSnVFd2d2RnVnb2Y4TExPaTc3cS1XMHExV2duSzI4WDVGZmJiV3liYUo0bk5EZU01NlRXbExINy1PYXMzY0RRNkNoTjRiTDRJaFY1WkV3S2trR3dHcHNDaGxnTGs0amlmMTBpdHhuc292dFJPN2xvcWw5NmFqSQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达承认Vera Rubin性能不及宣称",
-   "title_zh": "英伟达承认Vera Rubin性能不及最初宣称",
-   "sentiment": -1
   }
  ]
 }
