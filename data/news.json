@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T14:51:33.039026+00:00",
+ "updated_at": "2026-10-29T15:06:31.763854+00:00",
  "market": {
-  "price": 213.45,
-  "change_pct": -0.9,
+  "price": 213.8,
+  "change_pct": -0.73,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": -0.08,
-   "count": 96
+   "avg": -0.07,
+   "count": 97
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 65% 分位"
+     "note": "现价处于52周区间 66% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +47.6%"
+     "note": "目标价中位数 $315（17家），隐含空间 +47.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.08（96条已评分）"
+     "note": "今日新闻情绪 -0.07（97条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.45 vs 20日均线 $222.91"
+     "note": "现价 $213.80 vs 20日均线 $222.93"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 65,
+   "price_52w_pct": 66,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 47.6,
-   "ma20": 222.91,
-   "as_of": "2026-10-29T14:51:33.031893+00:00"
+   "implied_upside_pct": 47.3,
+   "ma20": 222.93,
+   "as_of": "2026-10-29T15:06:31.753436+00:00"
   },
-  "pe_ttm": 27.1,
+  "pe_ttm": 27.2,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.6%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "c0886e12b2ec",
+   "title": "《纽时》：英伟达客戶高管被控为中国情搜黄仁勋未获警示– 普通话主页 - Radio Free Asia",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fWjNEM3J0WVVUbUJmSkZOUWx6Vl9rNEpoN1huZmFYaklaWFBuWDdwSjFrU2hyR2ZKcGJPSXVCZi1NVHlhbTd4X3BLcElDSEQ4WnBIc1FhLXRqakdRaHlXWS0zQWpvejdtTlRpMzFsWVB1anloU0t3V3d1SQ",
+   "source": "Radio Free Asia",
+   "published_at": "2026-10-29T14:58:31+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Radio Free Asia",
+     "published_at": "2026-10-29T14:58:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fWjNEM3J0WVVUbUJmSkZOUWx6Vl9rNEpoN1huZmFYaklaWFBuWDdwSjFrU2hyR2ZKcGJPSXVCZi1NVHlhbTd4X3BLcElDSEQ4WnBIc1FhLXRqakdRaHlXWS0zQWpvejdtTlRpMzFsWVB1anloU0t3V3d1SQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "3e4b171ffe92",
+   "title": "Was Nvidia's Jensen Huang the target of a Chinese spy? A look at NYT's report - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXB4OG1tZ3JiNnA5SnpSbXJVdkItY1dTRjU2S3NBLWhTeWNZY3Zid1hpMUYxQ1ZPaDdSQ2hjSmp2MFhiOTNiaElGTFZZZjg3X1d5QnZYdVJGdWRYYTNkRUVnNVQzX2VvbXJtUHBMUU5iRVg4LVMtcDN3NUxSaFh4LVhOM2NFR092VTFoZzh1czFSWjl1MkdWSHdKTFBoaVZLN0xYS1RJLUpVWDlabG9aa1lGYXZack92R3JsRTJR",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-29T14:52:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-29T14:52:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXB4OG1tZ3JiNnA5SnpSbXJVdkItY1dTRjU2S3NBLWhTeWNZY3Zid1hpMUYxQ1ZPaDdSQ2hjSmp2MFhiOTNiaElGTFZZZjg3X1d5QnZYdVJGdWRYYTNkRUVnNVQzX2VvbXJtUHBMUU5iRVg4LVMtcDN3NUxSaFh4LVhOM2NFR092VTFoZzh1czFSWjl1MkdWSHdKTFBoaVZLN0xYS1RJLUpVWDlabG9aa1lGYXZack92R3JsRTJR"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "46c6d3802491",
    "title": "Nvidia Releases Open-Weight Nemotron 3.5 Transcribe Model for Multilingual Voice AI - AI Insider",
@@ -951,6 +985,23 @@
    "sentiment": 1
   },
   {
+   "id": "fef94e725814",
+   "title": "Living On The Edge With Nvidia, AI Enabler Analog Devices Tickles New Buy Zone - Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUhzS0hPbFdkVHlQalp6TWdPdUJpZ1BQdXZMQzFiSU5ZbndyMWVJbmFhRzUxUktYUlMwQU5NMlI0bG1ZLUZhQ1lzakctS2Q5U2k3VUlWNVNXZkM0dlJCLXdmV3BBVUlhdjgwSXFNdnBNd0xuSkZJU0l3bmE0Q09LYVcyQnlCb01rNHVyZlJLbDllaER2N2dUaUhmQ3MydU9VQmJCXw",
+   "source": "Investor's Business Daily",
+   "published_at": "2026-10-29T11:55:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investor's Business Daily",
+     "published_at": "2026-10-29T11:55:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUhzS0hPbFdkVHlQalp6TWdPdUJpZ1BQdXZMQzFiSU5ZbndyMWVJbmFhRzUxUktYUlMwQU5NMlI0bG1ZLUZhQ1lzakctS2Q5U2k3VUlWNVNXZkM0dlJCLXdmV3BBVUlhdjgwSXFNdnBNd0xuSkZJU0l3bmE0Q09LYVcyQnlCb01rNHVyZlJLbDllaER2N2dUaUhmQ3MydU9VQmJCXw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "396787904907",
    "title": "Lilly, Which Runs an Nvidia AI Factory, Lifts Guide by $5.5B - FourWeekMBA",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmtnMVFUeW55XzVCYmphNXJIa2UtOUR0WF94QXNueWNOOE9YTnZvRkVqbkN6b2I0MlQ1VG1sUWktUS1LY0V0bnFFdmZkakxFZ0xRSlhxUkE1S01Rb1VnbWlXemhQZkxPYnBvQnZ1Qk1iTG1YaDQ4bGZxQUwtVzRObl83b2NqRnJ0eGdKWF9R",
@@ -1743,6 +1794,23 @@
    "zh_summary": "英伟达发布开源语音转录模型",
    "title_zh": "英伟达发布开源语音转录模型Nemotron 3.5 - DoNews",
    "sentiment": 1
+  },
+  {
+   "id": "0de1d31f2e18",
+   "title": "开源！英伟达GPU隐藏算力被破解，RTX 4090 吞吐直接翻倍 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1",
+   "source": "搜狐网",
+   "published_at": "2026-10-29T07:35:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-29T07:35:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
   },
   {
    "id": "05d53a1f9711",
@@ -2598,6 +2666,23 @@
    "zh_summary": "国产GPU性能超过H200",
    "title_zh": "英伟达真的慌了，有一款国产GPU，超过了H200的性能 - 搜狐网",
    "sentiment": -1
+  },
+  {
+   "id": "df18b6165e14",
+   "title": "事关算力定价权！英伟达头号梦魇藏在Anthropic招股书中 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fd1RpQklOZjg5eG5BWGdRZlpJcV8tdXhhQjZaOXVhUk1wU1NVdHlLRFVVdHRwUnZkWXVrVGNZNkpBZHE3T0ZnbXZ2dFlaOEtBMmdqWExYWXZnYXo2anVKYw",
+   "source": "东方财富",
+   "published_at": "2026-10-29T01:16:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-29T01:16:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fd1RpQklOZjg5eG5BWGdRZlpJcV8tdXhhQjZaOXVhUk1wU1NVdHlLRFVVdHRwUnZkWXVrVGNZNkpBZHE3T0ZnbXZ2dFlaOEtBMmdqWExYWXZnYXo2anVKYw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
   },
   {
    "id": "294bd4ee2009",
@@ -6469,111 +6554,6 @@
    "session": "盘前",
    "zh_summary": "英伟达投资印度AI推理初创公司",
    "title_zh": "英伟达支持印度AI推理初创Simplismart1400万美元B轮",
-   "sentiment": 1
-  },
-  {
-   "id": "53eac2e057a7",
-   "title": "NVIDIA Corporation $NVDA Shares Newly Acquired by General Partner Inc. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS3BISXJTUDhmbF93X0ktSmV5aF9EWW40RE16b2dfblJ4QjV0V0lNZ1JnVDRyRjM2UllrU0dpVnNXd3M0TC0yeUtMTTRzUDQ0RWwyUnNTUXFhUi1uSFVMSkg2dktMUzFocFNiSEhOQnVVbWdPeVN6T1BEa0dhXzFTMFMyaHI1SDJTMjBqQ2VDYmh6UUVWdjNmVk9fdmFuRFFGSXFjYXYwbUgyWW4tcWpqSFJIVUlibkxwbDV2eDBBdzZ5ejVKOHp2ZQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-28T07:39:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-28T07:39:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS3BISXJTUDhmbF93X0ktSmV5aF9EWW40RE16b2dfblJ4QjV0V0lNZ1JnVDRyRjM2UllrU0dpVnNXd3M0TC0yeUtMTTRzUDQ0RWwyUnNTUXFhUi1uSFVMSkg2dktMUzFocFNiSEhOQnVVbWdPeVN6T1BEa0dhXzFTMFMyaHI1SDJTMjBqQ2VDYmh6UUVWdjNmVk9fdmFuRFFGSXFjYXYwbUgyWW4tcWpqSFJIVUlibkxwbDV2eDBBdzZ5ejVKOHp2ZQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "General Partner新买入英伟达股票",
-   "title_zh": "General Partner新买入英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "eb868698705b",
-   "title": "Oracle Cloud Infrastructure Brings NVIDIA, AMD, Intel, Google, Cerebras, SambaNova & Broadcom Under One Massive “AI” Roof, Deploying Vera Rubin, 6th Gen EPYC & MI455X, and Diamond Rapids Among Many Others - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSkhBN0tJZ252ZXA2VW5HTUhJd2l4MlV0U3hyTFZCdEVqT1NpZy1NOGRqS2s0clFxendmeUFhRmJHMG5idzBSamVDNUVHd3E5OERVcE12LWY3dGdacHF1WmxKd1hjX05jR05jVkJYSFhDaDJzWGZQdGg0T1JrV0QxN1lXamhHaVhJMVZzQVBkakt6UUdKVDQtYTd4YUxsWkJCTmNjd1FPLWxNWjkzb2hSUlVhdGo3TzdsbmN2U1FQZW8zYjdibmVnVWd1Z0hYam1nNHNv0gHYAUFVX3lxTFAwSTFCZXoyM3BWR1d2SGlEQWktNktOOG1ROWlSbHFKZUVqc3RoLWhMQktFenRiU3d0dk5IU0R1RC16X19mWUZHYVhhUjdMcXVUbks1cUt2Q3RwaTdRR18yaHRKLWtSTk1GTHk0Z0I0cy03MGRzLXh4UThrVjA0dC01M3p1RXZxOHlmR1RYUlBJNTYtUXFlSUNVQTJVREF3cHFUY21HMFdDaVpvMlNrX29vNXlBSUNnWXBQX1hQRVc5Zk9iRUZ4b1dXQ1hpcHdoWWF4SFY2blVYSw",
-   "source": "Wccftech",
-   "published_at": "2026-10-28T07:25:06+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-28T07:25:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSkhBN0tJZ252ZXA2VW5HTUhJd2l4MlV0U3hyTFZCdEVqT1NpZy1NOGRqS2s0clFxendmeUFhRmJHMG5idzBSamVDNUVHd3E5OERVcE12LWY3dGdacHF1WmxKd1hjX05jR05jVkJYSFhDaDJzWGZQdGg0T1JrV0QxN1lXamhHaVhJMVZzQVBkakt6UUdKVDQtYTd4YUxsWkJCTmNjd1FPLWxNWjkzb2hSUlVhdGo3TzdsbmN2U1FQZW8zYjdibmVnVWd1Z0hYam1nNHNv0gHYAUFVX3lxTFAwSTFCZXoyM3BWR1d2SGlEQWktNktOOG1ROWlSbHFKZUVqc3RoLWhMQktFenRiU3d0dk5IU0R1RC16X19mWUZHYVhhUjdMcXVUbks1cUt2Q3RwaTdRR18yaHRKLWtSTk1GTHk0Z0I0cy03MGRzLXh4UThrVjA0dC01M3p1RXZxOHlmR1RYUlBJNTYtUXFlSUNVQTJVREF3cHFUY21HMFdDaVpvMlNrX29vNXlBSUNnWXBQX1hQRVc5Zk9iRUZ4b1dXQ1hpcHdoWWF4SFY2blVYSw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "甲骨文云部署英伟达Vera Rubin",
-   "title_zh": "甲骨文云部署英伟达Vera Rubin等AI芯片",
-   "sentiment": 1
-  },
-  {
-   "id": "e357432a0e13",
-   "title": "Anthropic's IPO Filing Challenges NVIDIA With Multi-Chip Strategy - 조선일보",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkRUSU1nZnB4U2g4RVFHZmwwRWRFX0lib19SWEdHa2dWZTRaRmhhY2ZaN3ZwR0J3MExqYXFlUXctVlFzdXp1N3dXM3hYWXR1RnN4UGxaM3lMTFBzNUpLZkZJQmtzMTNLZWt1SWh6Q21FZ0d2cXJ6bExrNVZLQmJhbENQQk45UjVh",
-   "source": "조선일보",
-   "published_at": "2026-10-28T07:21:20+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "조선일보",
-     "published_at": "2026-10-28T07:21:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkRUSU1nZnB4U2g4RVFHZmwwRWRFX0lib19SWEdHa2dWZTRaRmhhY2ZaN3ZwR0J3MExqYXFlUXctVlFzdXp1N3dXM3hYWXR1RnN4UGxaM3lMTFBzNUpLZkZJQmtzMTNLZWt1SWh6Q21FZ0d2cXJ6bExrNVZLQmJhbENQQk45UjVh"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "Anthropic上市文件挑战英伟达多芯片战略",
-   "title_zh": "Anthropic上市文件以多芯片战略挑战英伟达",
-   "sentiment": -1
-  },
-  {
-   "id": "81c1445d2de2",
-   "title": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVVDR3RYaUVzYjVMNERmOWFHWmtMOTBoQkpxNGJXakFMMTI0TTVkX2lUY2R3YTVlMkQxY3YzZ2ppelZueElWVkJVUFJ1R2NvcmpZM21OaWpueHFLVkJuUXVYRkxCdnUwVjVjSHgyaUE4djNWMW1vNm5GdTNkQjBTOUNSTWlPYWhp",
-   "source": "搜狐网",
-   "published_at": "2026-10-28T07:15:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-28T07:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVVDR3RYaUVzYjVMNERmOWFHWmtMOTBoQkpxNGJXakFMMTI0TTVkX2lUY2R3YTVlMkQxY3YzZ2ppelZueElWVkJVUFJ1R2NvcmpZM21OaWpueHFLVkJuUXVYRkxCdnUwVjVjSHgyaUE4djNWMW1vNm5GdTNkQjBTOUNSTWlPYWhp"
-    },
-    {
-     "name": "智源社区",
-     "published_at": "2026-10-29T07:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxdjhYNloyTU9qb1ZwbVhBbnVJR1V5NnphWVJoTHBCYU1zaHdtZ3RNaTlpRk50RTd2cEtmVFhGenU3bWs5MFpwLQ"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "中国AI公司拿下GPU性能榜88项第一",
-   "title_zh": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一 - 搜狐网",
-   "sentiment": 0
-  },
-  {
-   "id": "1a3ca481fc58",
-   "title": "Best Global Brands 2026: Nvidia identified as fastest-growing brand - Transform magazine",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3VneGE0Z0FMdXNGTG8wNEJoX1hFWm1EQ1hmXzJaVElzNGxrOXpRZGJlNXg1ZmVGUEs5dVVic0dzdXZ4UmtncDBaMzdtbG9QcGxBbDBCVnRXUDV5MXhKMjRsc25ETGZXUmhkSTl3Z0pqV0w5dl9mUDk1RHBsOHBkOTBIcm5OY0tiZEdSaGdDNzV3NExKOERzbUEyMXVZOVBOaTVuUjUyYTdwQVgwQUk2M195aG5kZw",
-   "source": "Transform magazine",
-   "published_at": "2026-10-28T07:01:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Transform magazine",
-     "published_at": "2026-10-28T07:01:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3VneGE0Z0FMdXNGTG8wNEJoX1hFWm1EQ1hmXzJaVElzNGxrOXpRZGJlNXg1ZmVGUEs5dVVic0dzdXZ4UmtncDBaMzdtbG9QcGxBbDBCVnRXUDV5MXhKMjRsc25ETGZXUmhkSTl3Z0pqV0w5dl9mUDk1RHBsOHBkOTBIcm5OY0tiZEdSaGdDNzV3NExKOERzbUEyMXVZOVBOaTVuUjUyYTdwQVgwQUk2M195aG5kZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达成2026增长最快品牌",
-   "title_zh": "2026全球最佳品牌：英伟达为增长最快品牌",
    "sentiment": 1
   }
  ]
