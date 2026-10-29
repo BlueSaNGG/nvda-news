@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T01:36:30.160017+00:00",
+ "updated_at": "2026-10-29T01:51:27.361947+00:00",
  "market": {
   "price": 215.38,
   "change_pct": -1.17,
@@ -10,8 +10,8 @@
    "days_left": 20
   },
   "day_sentiment": {
-   "avg": 0.12,
-   "count": 177
+   "avg": 0.11,
+   "count": 178
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.12（177条已评分）"
+     "note": "今日新闻情绪 +0.11（178条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 46.3,
    "ma20": 223.79,
-   "as_of": "2026-10-29T01:36:30.148443+00:00"
+   "as_of": "2026-10-29T01:51:27.352327+00:00"
   },
   "pe_ttm": 27.4,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "2cfdc0132f9e",
+   "title": "哈斯勒姆：疫情期间伊戈达拉教我炒股 我买的第一只股票是英伟达 - 直播吧",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uUUxvTXhZaW9EbmRxMVNvOVcxNDgyT2I2RVdpUW5NdDIyZUtNd09uYWhYa1k2LWk5MjJEaGhNYVRwdFZxa2hMWTZzRVVRT3ZRNDJPcVY3YTlNdG9zM2Y5STVQc0RyN2NBWGxOcHZZRlhvU1RHX3c",
+   "source": "直播吧",
+   "published_at": "2026-10-29T01:38:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "直播吧",
+     "published_at": "2026-10-29T01:38:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uUUxvTXhZaW9EbmRxMVNvOVcxNDgyT2I2RVdpUW5NdDIyZUtNd09uYWhYa1k2LWk5MjJEaGhNYVRwdFZxa2hMWTZzRVVRT3ZRNDJPcVY3YTlNdG9zM2Y5STVQc0RyN2NBWGxOcHZZRlhvU1RHX3c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "a2382d0a947f",
    "title": "英伟达真的慌了，有一款国产GPU，超过了H200的性能 - 搜狐网",
@@ -6626,66 +6643,6 @@
    "zh_summary": "甲骨文引入多家芯片以减少对英伟达依赖",
    "title_zh": "甲骨文为减少对英伟达依赖新增谷歌等AI芯片",
    "sentiment": -1
-  },
-  {
-   "id": "f0d5c7190da5",
-   "title": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ2V4N2JVc2Q5NjBKTXdPYV9pMmwwZU1BZzBjRUE3d2llNGR0ZEJQeWZlMGlCejQ0ckl0RzZPNXR0RXdRNDhKUmVXQUVGNGJDSmU1VllyMU81b1dhdWVSTldhUlNWdHF2RmZLSGlWUjdCeU9JZFdxTEpZcVNnRjI2MjR1NzBWZnBPRzBWYktPODZTNWlHN3lOcHN0cEs1XzRvTktFT09zb0dVdl83cl9ENllXaGVmU1h6VUNZRVE3LVA4QTdfZHVuamVXQUl5YlQ0c1N0Si14VzVoaTVqY3ZoekpR",
-   "source": "TradingView",
-   "published_at": "2026-10-27T16:00:00+00:00",
-   "outlets_count": 8,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-27T16:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ2V4N2JVc2Q5NjBKTXdPYV9pMmwwZU1BZzBjRUE3d2llNGR0ZEJQeWZlMGlCejQ0ckl0RzZPNXR0RXdRNDhKUmVXQUVGNGJDSmU1VllyMU81b1dhdWVSTldhUlNWdHF2RmZLSGlWUjdCeU9JZFdxTEpZcVNnRjI2MjR1NzBWZnBPRzBWYktPODZTNWlHN3lOcHN0cEs1XzRvTktFT09zb0dVdl83cl9ENllXaGVmU1h6VUNZRVE3LVA4QTdfZHVuamVXQUl5YlQ0c1N0Si14VzVoaTVqY3ZoekpR"
-    },
-    {
-     "name": "Reuters",
-     "published_at": "2026-10-27T16:01:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJXeTV2b1RmZFlma2hTZktBN0RYbFJKNXhFU1pkN0ZzYjYxYVUtcTgyNFpqcGdQTGxWWFFxTFpHMUtGb0tBOURUcm0ya0RiSXFXMHRmTWZCYnBMeVZTUlRRR3VDZVpuWndJeDhjdTZoSjVOdWtHQjBqLThJUG9aT0l0MkNUWFBRZnhnNG9vampRVXFSTHBvZkpzSVdDZ2JDZm9xdlFvNUp6Rm0xQnBvQUZRcGVPVl9QWHU0"
-    },
-    {
-     "name": "KELO-AM",
-     "published_at": "2026-10-27T16:16:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFdXSFptS2pJcEhqMkNORVNwQXFib2k4OUkwVDJFdnVmQ3Jqc0ZBM1VSWFRsOFlWR0txNC1PSllnNWQ4UjhsanZDUzU4eGNscEM2TzNKeVZ5UFRfTE9SNWZXOEp2QUJKSzJmMmhkR0JkYzVoYjEzc2FnTzBUT0dJNWt6NVh0T2JzTVpyRFB6TGg5UFJucE1QbFg4T1U5MVY2Nng4dUFNODRIQkE"
-    },
-    {
-     "name": "WHTC",
-     "published_at": "2026-10-27T16:21:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeG5yUnhsMXZrSnpsNUtrOVQ1eXQzM1h3QkQ5TWw3N3dpMHJVTExxUlM1RFRnUGVDelFBWUZ2QzlOSFhWRE5pNWJQekJ0ZHZfYXNqd2dqRl9ONVQ3c1pzSjZXSEhXZ29EVEhvT3lSR3NISEM2TWlzNl9UdXVlb1ZFcTNwSWhnbExkazA3b1VaNUd0R1lVMWJGMHBmeVVwbzZJcXRyQnU0VW94TUE"
-    },
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-27T16:08:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTlJobkhPTFVvUF8zMWVKTTJRdDR5bE9Ka0VhMmRCc0s2cnJ1TXhBMXE5X0dzTFhBOE1ndEg4TGtOOU00ZjJ4MjZEaXBVRDdHOWNzMDdkYmVzc0JPX2JBMFdDbERhMXZLTmRuY3NaX2poVHJKT3REdXh2cW0yUU9CdlBrS2FFaVJDcjRMQVVoYnNFQ1lnZzcydTJuUHlQaXVMcm9yOElfRWgyR09NdHVfMTFKeVFlMkJpcHlVakxvbEZZMTAteDNRTVB0TjZJTWo0"
-    },
-    {
-     "name": "KSL",
-     "published_at": "2026-10-27T16:01:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWs1VnlpemM2NEM3WEI1ZlQxQVpGYm02LVl5R3kxNExmVVlEMjlVQl9SUkhqdzVSRlpCVEJEeXFKN0hOUFlaTlMxcjhRQjNhTzIyZlh6dHhfUFNERG1uR1J4amhRaUtsOFJwTVZUY2xBSHo0OFRkVTJFcnJkbERwM2VwU2pLT3Y1eWp0Q3JxMmZDSm5NZkJreGMtZktFdVNuQVQtNDJvWFAyZHF1VG9TamdHdkdHUQ"
-    },
-    {
-     "name": "KSL News",
-     "published_at": "2026-10-27T16:01:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWs1VnlpemM2NEM3WEI1ZlQxQVpGYm02LVl5R3kxNExmVVlEMjlVQl9SUkhqdzVSRlpCVEJEeXFKN0hOUFlaTlMxcjhRQjNhTzIyZlh6dHhfUFNERG1uR1J4amhRaUtsOFJwTVZUY2xBSHo0OFRkVTJFcnJkbERwM2VwU2pLT3Y1eWp0Q3JxMmZDSm5NZkJreGMtZktFdVNuQVQtNDJvWFAyZHF1VG9TamdHdkdHUQ"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-27T16:01:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS3VudlgtOVRhRUs1aFhTaERQaG5YaFJDSW5jWHVkNmVtYXNVRHlTa29ac0pHTVp1dDJERWFKT0RqeV9IVmVESE5TbFhsQWxKaEZIa2JaM1dMbWdGb0dkS0EzVDdYVG1LeW1KT0xLbExaMjUtd243Y2RuaHR5VzQza2ZDVGRieDZlZVNkRmRWNmFVX19jampFSmpBWQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "breaking": true,
-   "zh_summary": "甲骨文扩大英伟达芯片供应协议",
-   "title_zh": "甲骨文扩大与英伟达芯片协议并增加谷歌等产品",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.38,
-    "window_h": 0.5
-   }
   }
  ]
 }
