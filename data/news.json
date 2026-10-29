@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T22:36:32.329853+00:00",
+ "updated_at": "2026-10-29T22:51:35.341304+00:00",
  "market": {
   "price": 213.66,
   "change_pct": -0.8,
@@ -10,8 +10,8 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": -0.14,
-   "count": 173
+   "avg": -0.15,
+   "count": 178
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.14（173条已评分）"
+     "note": "今日新闻情绪 -0.15（178条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 47.4,
    "ma20": 222.93,
-   "as_of": "2026-10-29T22:36:32.316016+00:00"
+   "as_of": "2026-10-29T22:51:35.324559+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "3a7841161c2d",
+   "title": "英伟达洽谈为云厂商一笔 450 亿美元 Anthropic 相关交易提供数十亿美元信贷支持 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUklNQ0thOGp5R0NmcDY0cTlxdzFTVnV5MUtKcllxOXdLMjEySWhsSzJxS2FodVAzT1VRek1TUlhoNENsVXpsZkZRMkh1SG1NVEllYUJJLTBnOVpVSzN3V2FtZWVkVUN0Zll4V0h1cXA5anB6eVpQVmNHeEZid1haYTBmY294VUJoVFMtR0NSTjZXR084Y0pTN2JYb3BvQjQ",
+   "source": "富途牛牛",
+   "published_at": "2026-10-29T22:46:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-29T22:46:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUklNQ0thOGp5R0NmcDY0cTlxdzFTVnV5MUtKcllxOXdLMjEySWhsSzJxS2FodVAzT1VRek1TUlhoNENsVXpsZkZRMkh1SG1NVEllYUJJLTBnOVpVSzN3V2FtZWVkVUN0Zll4V0h1cXA5anB6eVpQVmNHeEZid1haYTBmY294VUJoVFMtR0NSTjZXR084Y0pTN2JYb3BvQjQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "e7eb383056b5",
+   "title": "据The Information：英伟达正就提供数十亿美元的信贷支持进行谈判，以支持一家云 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDlXTVpab2JKUGI0aUhiTjFOcDFSczNDTjQxekprM2JtcHZBM2t0UFFzUzlUM1lMZFRNUHJtZ3ZmWGdlOVJBMERsUk8xdkphVmVDSmVjaGRhYjdHS0hVYWVRTkk5cDQwVG9Md01xUnQ2Sm4zYThYNDNVVlJxdE1pNlVTWUM3d3A2TUFjcmdvb1JPaXV2UDlRckM0ZlhNRlNNRFR3dVoxLVVzcXZNU2NJag",
+   "source": "富途牛牛",
+   "published_at": "2026-10-29T22:45:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-29T22:45:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDlXTVpab2JKUGI0aUhiTjFOcDFSczNDTjQxekprM2JtcHZBM2t0UFFzUzlUM1lMZFRNUHJtZ3ZmWGdlOVJBMERsUk8xdkphVmVDSmVjaGRhYjdHS0hVYWVRTkk5cDQwVG9Md01xUnQ2Sm4zYThYNDNVVlJxdE1pNlVTWUM3d3A2TUFjcmdvb1JPaXV2UDlRckM0ZlhNRlNNRFR3dVoxLVVzcXZNU2NJag"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "bdde47f03fac",
+   "title": "Nvidia in Talks to Provide Billions in Credit Support For a Cloud Provider’s $45 Billion Anthropic Deal - The Information",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf",
+   "source": "The Information",
+   "published_at": "2026-10-29T22:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Information",
+     "published_at": "2026-10-29T22:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
   {
    "id": "929a5716b16c",
    "title": "招商证券：英伟达GTC引领物理AI新趋势 产业发展趋势进一步明确 - 富途牛牛",
@@ -3022,7 +3073,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz",
    "source": "The New York Times",
    "published_at": "2026-10-29T09:01:51+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "The New York Times",
@@ -3038,6 +3089,11 @@
      "name": "GV Wire",
      "published_at": "2026-10-29T15:18:13+00:00",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYVdiVVgtN0p5aHlURmdMY0Q0d3pYRGo3VmpnNFVkb0VlNGJSUU5BdWhXaDRTN2ZuSW1oR01KbTNyY241bUhpYks5T1hxVGxKQWNmNWRLN2ktdUFiMjRxeUN5MzNfcmFuMmY2dUJiU0t4Nl94Rm5BMnd2Qm1OVzJPREpyczQ"
+    },
+    {
+     "name": "Semafor",
+     "published_at": "2026-10-29T22:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSU1rS1Vyb3NyYTdaLWpYNHByYWRRX0dGOXlxdlFybU5naXFxYm1DV1lVQjNaVUpLaDNNV04tRGVXNzdDc0xoY2NlWk5vY05PVU5Ka21MXzVuUGk5Vk1PSVhCc2U0VU50UW9QNWxBTllfQUllOF9VcU9Gdl9PWXB6TTZFY3ZTVXZqQlBEdG9nbC1CNUJ4SlBSSVItV2Rodw"
     }
    ],
    "category": "其他",
@@ -6555,85 +6611,6 @@
    "price_reaction": {
     "pct": -0.36,
     "window_h": 1.6
-   }
-  },
-  {
-   "id": "ccfb6c1702fb",
-   "title": "Is OpenAI’s Google Chip Deal Bad News for Nvidia? - Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLTlBQ3hXTXFYR2xKMDVTanBnbFA3VkVfNkRkUEtnVTB6TFZyOXlLclBjMFF2SnIyMHlKbUxETUswYlhvdU0xM0daSFVLdWcxRTcxYjdwLVhiMmoxVm9GN0ZvLXRCbE1BZ1pSemlQdVVlNDRJMzZtN3RWY2lPMUlBQTV4cUdwWm9FaWE0cDBkemtVVXF6Z1NB",
-   "source": "Investing.com",
-   "published_at": "2026-10-28T14:57:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-28T14:57:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLTlBQ3hXTXFYR2xKMDVTanBnbFA3VkVfNkRkUEtnVTB6TFZyOXlLclBjMFF2SnIyMHlKbUxETUswYlhvdU0xM0daSFVLdWcxRTcxYjdwLVhiMmoxVm9GN0ZvLXRCbE1BZ1pSemlQdVVlNDRJMzZtN3RWY2lPMUlBQTV4cUdwWm9FaWE0cDBkemtVVXF6Z1NB"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "OpenAI谷歌芯片交易引担忧",
-   "title_zh": "OpenAI谷歌芯片交易对英伟达是坏消息吗",
-   "sentiment": -1
-  },
-  {
-   "id": "2771b9c08ffd",
-   "title": "Nvidia Has The Best Chance to Breach $6 Trillion First So I Buy - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUVMOXpwOEF6NEtqZ3V2NkdWRDQxb1R0b2RFdzN4OEJNaUk0ckFrWWpGSzN6V2R6bVM4VXYyeWk0QmVWcnljakFUMXprY2gtTi1PZ1FVMy1JN05DblU2aEhBQnhBTmI4OE5OYjZHTUN1bVVsR3JYNkc3Z2hJY1lGZUgtYnRTODNDWkZHaVIxVkF4XzNjemZn",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-28T14:45:20+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-28T14:45:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUVMOXpwOEF6NEtqZ3V2NkdWRDQxb1R0b2RFdzN4OEJNaUk0ckFrWWpGSzN6V2R6bVM4VXYyeWk0QmVWcnljakFUMXprY2gtTi1PZ1FVMy1JN05DblU2aEhBQnhBTmI4OE5OYjZHTUN1bVVsR3JYNkc3Z2hJY1lGZUgtYnRTODNDWkZHaVIxVkF4XzNjemZn"
-    },
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-28T14:50:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXpCbEJMSkdVQy1HWTZtek95RHJBT1lIM2M2ai0tc2tmUGRlWXpGaVBQU0tva1c3STdpdWN1Y1VaWXg4SzBMbVhxZ0E5ejZFWVl4YTFYS3gxTnotRlEzaWN2RnBudkRnVVVZVGtYNWV4ODU5SGNDamY2RFdDWEpGZXlLYVJ1b3VmenZyVmZaNWpiUUlrVF9vYnRtOUZNa1NRcW1RekxBaFYwdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "看好英伟达率先突破6万亿市值",
-   "title_zh": "英伟达最有望率先突破6万亿美元市值",
-   "sentiment": 1
-  },
-  {
-   "id": "4e7f263fd99e",
-   "title": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc",
-   "source": "Yahoo! Finance Canada",
-   "published_at": "2026-10-28T14:43:35+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-28T14:43:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc"
-    },
-    {
-     "name": "Yahoo Finance Australia",
-     "published_at": "2026-10-29T00:45:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E"
-    },
-    {
-     "name": "Yahoo Finance UK",
-     "published_at": "2026-10-29T09:07:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达股价新闻与行情页",
-   "title_zh": "英伟达股价、新闻、报价与历史",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": -0.2,
-    "window_h": 2.0
    }
   }
  ]
