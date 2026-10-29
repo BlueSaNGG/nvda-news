@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-28T23:51:32.510786+00:00",
+ "updated_at": "2026-10-29T00:07:05.285854+00:00",
  "market": {
-  "price": 215.38,
-  "change_pct": -1.17,
+  "price": 217.94,
+  "change_pct": 0.9,
   "as_of": "2026-10-28",
   "next_earnings": {
    "date": "2026-11-17",
@@ -20,12 +20,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 68% 分位"
+     "note": "现价处于52周区间 71% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +46.3%"
+     "note": "目标价中位数 $315（17家），隐含空间 +44.5%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $215.38 vs 20日均线 $223.79"
+     "note": "现价 $217.94 vs 20日均线 $224.44"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 68,
+   "price_52w_pct": 71,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 46.3,
-   "ma20": 223.79,
-   "as_of": "2026-10-28T23:51:32.495523+00:00"
+   "implied_upside_pct": 44.5,
+   "ma20": 224.44,
+   "as_of": "2026-10-29T00:07:05.263023+00:00"
   },
-  "pe_ttm": 27.4,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.3%空间：估值偏低，预期乐观"
+  "pe_ttm": 27.7,
+  "pe_pct_5y": 23,
+  "valuation_sentence": "现价处5年P/E 23%分位，目标价隐含+44.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -3807,26 +3807,6 @@
    "sentiment": 1
   },
   {
-   "id": "bbc119119a72",
-   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwR3dOYjE3WFNiWHJyVlFBM0NSRklETno5Mjh3YjFQbEhXVDNuU2FQWURiX2pPWjhXUjhkLURpSWE2X0hNZFVSb1RyNUxoX09HZ3c",
-   "source": "Yahoo Finance Singapore",
-   "published_at": "2026-10-28T04:59:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance Singapore",
-     "published_at": "2026-10-28T04:59:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwR3dOYjE3WFNiWHJyVlFBM0NSRklETno5Mjh3YjFQbEhXVDNuU2FQWURiX2pPWjhXUjhkLURpSWE2X0hNZFVSb1RyNUxoX09HZ3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "雅虎财经英伟达股价行情页",
-   "title_zh": "英伟达股价、新闻、报价与历史 - 雅虎财经新加坡",
-   "sentiment": 0
-  },
-  {
    "id": "99d3a46fbaab",
    "title": "英伟达向Meta投资30亿元 AI循环交易延伸至美股七巨头 - 财新",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jVkVoVGp6bUhPb3hFOVQ3RUQxejhtaXg3eTY3YS14Vmh0MC05WWw3MFJUNU5EV1hrMFpBRFd1bGkwT05FaFdteFlaaWJ0WEJ2YWM1NWNMeVU2LWpCaldtdUpORVo",
@@ -4002,8 +3982,8 @@
    ],
    "category": "AI需求",
    "session": "盘后",
-   "title_zh": "事关算力定价权！英伟达头号梦魇，藏在Anthropic招股书中 - 财联社",
    "zh_summary": "Anthropic招股书藏英伟达算力定价权隐忧",
+   "title_zh": "事关算力定价权！英伟达头号梦魇，藏在Anthropic招股书中 - 财联社",
    "sentiment": -1
   },
   {
@@ -6677,6 +6657,23 @@
    "zh_summary": "Anthropic630亿美元TPU融资遇阻",
    "title_zh": "谷歌TPU虽比英伟达GPU便宜，但Anthropic630亿美元TPU融资遇阻",
    "sentiment": 0
+  },
+  {
+   "id": "7afc104a1a64",
+   "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark | NVIDIA Technical Blog - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNENrR3pnRjNOOWV1b2U0WS1qcXdhM3ZPcWlieGlEdmxvWVhsRWY3Zm1zUXVZQXNfYVE2cjFJd2w1X0hiUlBBYTJKSk1LR0R4ZTd0V1dtY0xHUk1MbVFJTW5HaGVpMHNWeFprdkFnZW1jdHBVaDczc1RRcXNkU1VYMFd1Z3d1eGJzbUY0aA",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-27T15:02:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-27T15:02:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNENrR3pnRjNOOWV1b2U0WS1qcXdhM3ZPcWlieGlEdmxvWVhsRWY3Zm1zUXVZQXNfYVE2cjFJd2w1X0hiUlBBYTJKSk1LR0R4ZTd0V1dtY0xHUk1MbVFJTW5HaGVpMHNWeFprdkFnZW1jdHBVaDczc1RRcXNkU1VYMFd1Z3d1eGJzbUY0aA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   }
  ]
 }
