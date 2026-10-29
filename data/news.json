@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T16:21:35.934001+00:00",
+ "updated_at": "2026-10-29T16:36:30.089712+00:00",
  "market": {
-  "price": 213.27,
-  "change_pct": -0.98,
+  "price": 213.4,
+  "change_pct": -0.92,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": -0.06,
-   "count": 112
+   "avg": -0.05,
+   "count": 116
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +47.7%"
+     "note": "目标价中位数 $315（17家），隐含空间 +47.6%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.06（112条已评分）"
+     "note": "今日新闻情绪 -0.05（116条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.27 vs 20日均线 $222.91"
+     "note": "现价 $213.40 vs 20日均线 $222.91"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 65,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 47.7,
+   "implied_upside_pct": 47.6,
    "ma20": 222.91,
-   "as_of": "2026-10-29T16:21:35.916045+00:00"
+   "as_of": "2026-10-29T16:36:30.072511+00:00"
   },
   "pe_ttm": 27.1,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.6%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -82,6 +82,23 @@
    "sentiment": 0
   },
   {
+   "id": "09194ab758fc",
+   "title": "Canada, Nvidia back startup Cohere in $5B round - Breakingthenews.net",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaGJHTjdnUVh4TWM4UG5Ub0lOOEpEcWhzWTNKV1lSOWlVbjQxVUV4cGpGeWFSTWdwaE9KX0tHZEc3dWkyZ0RLd0pWRDF0TFpKeWJlVkdxb1FJckFIbzhHWkNsajVZemFkTjJhbVppTzh0UDRoVjAxRWhVZ3BFZWxpd3BRTzQtSFA4dlI3dUJtYXBkVHhYWDZ0TU1fVm8",
+   "source": "Breakingthenews.net",
+   "published_at": "2026-10-29T16:18:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Breakingthenews.net",
+     "published_at": "2026-10-29T16:18:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaGJHTjdnUVh4TWM4UG5Ub0lOOEpEcWhzWTNKV1lSOWlVbjQxVUV4cGpGeWFSTWdwaE9KX0tHZEc3dWkyZ0RLd0pWRDF0TFpKeWJlVkdxb1FJckFIbzhHWkNsajVZemFkTjJhbVppTzh0UDRoVjAxRWhVZ3BFZWxpd3BRTzQtSFA4dlI3dUJtYXBkVHhYWDZ0TU1fVm8"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "aa2823f0ce0d",
    "title": "Nvidia-backed Cohere closes in on $5B funding round - Seeking Alpha",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONHB1MEN1Wm9fTUxYQlF0S1pSUGgtT0VGMkpvWVFDWWxmR0FveV9QUllCY05DeGJwaUhMS3g0TWctYklCTnUwcl9FVEV3dkF5d21DTTZyeEhLdF9EZlItZFNKSk1xd2RlZ2dFbmp0T29rbTRnR0Rqa0NWd2FUSGR3MjFMX3Z1V2N0UXgxS2FQSldRdw",
@@ -102,6 +119,23 @@
    "sentiment": 1
   },
   {
+   "id": "245204b0c697",
+   "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS - Amazon Web Services (AWS)",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdW1KaVI4aVBjbHFLX3ZYQThaQ0FGQ0tkTnVVSlRnc292Z3h1Qnd6VERTM1dTX2xmU0t0dC0tVjVYZEtqZzk5Q05RNjNyYnplTTJpR09CR0k1NC0xR28zVy1GZllDRHd4WFRnQWtVTFp2R0dfYVdkeHFXZWxOMkhudEw1WUcwZFdKUTZsWjN5VFhIMDRWNzJITkxxOWs1aXdIOWhzTGRFLVBOaVlnZkE0ZG1Qb1BYZDZLREN0T1ZkZlN1cVloZGZJa3VUdVNndE5QUnVj",
+   "source": "Amazon Web Services (AWS)",
+   "published_at": "2026-10-29T16:11:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Amazon Web Services (AWS)",
+     "published_at": "2026-10-29T16:11:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdW1KaVI4aVBjbHFLX3ZYQThaQ0FGQ0tkTnVVSlRnc292Z3h1Qnd6VERTM1dTX2xmU0t0dC0tVjVYZEtqZzk5Q05RNjNyYnplTTJpR09CR0k1NC0xR28zVy1GZllDRHd4WFRnQWtVTFp2R0dfYVdkeHFXZWxOMkhudEw1WUcwZFdKUTZsWjN5VFhIMDRWNzJITkxxOWs1aXdIOWhzTGRFLVBOaVlnZkE0ZG1Qb1BYZDZLREN0T1ZkZlN1cVloZGZJa3VUdVNndE5QUnVj"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "896d2425a7a5",
    "title": "Trump Knew Of China Spy Concerns Around Nvidia Chief, Report Finds - Forbes",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYjlGVm50OGhGNnBvLTVpSE80MkxwdV80QWg2eVNpbnAxNHlDc3lGd2ZFaWJ2Rkh2TGEzaDlMM1RsaWV5UE0zN3pZaGFWRXk5RlU0UzBCSmFKbE9GYXlvQnVrTXdEaVBSczBTUGEzdGQ5R0xpaU1QREJDODdKaUZhQTJPNkpiTUt6V1pKR2lPdjE5ZHk3QTB6bFVsMm1IODIwcWhqOEJ0UjFjbGFlTGFaX1RrTmtxN3FLSXBNRldDUDdPa1FJQUVveHpKeTBqV1I1N2hkRDZmWWpZN1J0aWc5VmJZb09iaDZnOFhJ",
@@ -120,6 +154,23 @@
    "zh_summary": "报道称特朗普早知英伟达高管涉华间谍担忧",
    "title_zh": "报道称特朗普早知英伟达CEO涉华间谍担忧",
    "sentiment": -1
+  },
+  {
+   "id": "173280a3d01c",
+   "title": "10月29日（路透社）——英伟达公司Nvda.o:加拿大计划向Cohere投资高达16亿加 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNczl3WUxDOUNsLUlMVzA3MGN4SFF3ZEwxTmhWaFpyOWFkZVBTMS03Y0pLZm0tbHVUTFJiWmF6QzRSenZOMUJlWTFCSXdaRnl1amhJTGU2OTByTTZuYXk1MmFvcERuV2txTE5hR3hOOHRyN1BsVmk0MVVhb2w0amtseEp0ZW1nOFRPQ2xPam5JS1h0ejkwaENZLVNCbU9TRGls",
+   "source": "Moomoo",
+   "published_at": "2026-10-29T15:53:06+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-29T15:53:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNczl3WUxDOUNsLUlMVzA3MGN4SFF3ZEwxTmhWaFpyOWFkZVBTMS03Y0pLZm0tbHVUTFJiWmF6QzRSenZOMUJlWTFCSXdaRnl1amhJTGU2OTByTTZuYXk1MmFvcERuV2txTE5hR3hOOHRyN1BsVmk0MVVhb2w0amtseEp0ZW1nOFRPQ2xPam5JS1h0ejkwaENZLVNCbU9TRGls"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "f5923f371cf2",
@@ -200,6 +251,23 @@
    "zh_summary": "72卡Vera Rubin机架支撑甲骨文扩建",
    "title_zh": "72卡英伟达Vera Rubin机架支撑甲骨文多吉瓦扩建计划",
    "sentiment": 1
+  },
+  {
+   "id": "5e10c7dcbfdd",
+   "title": "Nvidia CEO Was China Spy Target, Officials Doubt He Was Unaware: Report - NDTV",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFVVekFLTTZ1NXltWGJqMG5EQ3RVampSLWRfTXBpUWVGVmlHY1locHNJOUFFYnprYjExdklQOHhGLV9adjJoV2FOd1doWl8xcVR3RDBldDlUUmVmRmlQQmUyRUdpYWRUUjBJdGp2dzllQWFxUm5janc2S1dKT1B2eFQzMnh1ZUZOZGRlVEhTXzE5WHY0U1l1anVVTUNWbmlHS3diX1V4TGlOb25wTTF0c1V5djI1eEJWQmh5T3JXWmPSAcgBQVVfeXFMTzlzNS03M3BKdkRITjR5dzRBMS1hQzNqZkZfV2I2UzVQbWtCSklwRzFnZjE1QnhKWVF0anRJOEpVOHVhUW43dnpxODByajdubllMX19UZW9WMHVaNmMxcS1lNDFDOEx0QndrTmlFVHR1LVVlbkRvZmw3T0l6LVBVeE9LcUdpV01yUV9sdHRrMjFNWk4ycXVQaGp0ZmlVZzdJRTh4a3ljcjJLRXNXSGNXTXRQYjNPbENMZ2VQR3hNaWhmSTQ2c2szQ0c",
+   "source": "NDTV",
+   "published_at": "2026-10-29T15:28:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NDTV",
+     "published_at": "2026-10-29T15:28:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFVVekFLTTZ1NXltWGJqMG5EQ3RVampSLWRfTXBpUWVGVmlHY1locHNJOUFFYnprYjExdklQOHhGLV9adjJoV2FOd1doWl8xcVR3RDBldDlUUmVmRmlQQmUyRUdpYWRUUjBJdGp2dzllQWFxUm5janc2S1dKT1B2eFQzMnh1ZUZOZGRlVEhTXzE5WHY0U1l1anVVTUNWbmlHS3diX1V4TGlOb25wTTF0c1V5djI1eEJWQmh5T3JXWmPSAcgBQVVfeXFMTzlzNS03M3BKdkRITjR5dzRBMS1hQzNqZkZfV2I2UzVQbWtCSklwRzFnZjE1QnhKWVF0anRJOEpVOHVhUW43dnpxODByajdubllMX19UZW9WMHVaNmMxcS1lNDFDOEx0QndrTmlFVHR1LVVlbkRvZmw3T0l6LVBVeE9LcUdpV01yUV9sdHRrMjFNWk4ycXVQaGp0ZmlVZzdJRTh4a3ljcjJLRXNXSGNXTXRQYjNPbENMZ2VQR3hNaWhmSTQ2c2szQ0c"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
   },
   {
    "id": "16fe2f20cbb8",
@@ -793,6 +861,23 @@
    "zh_summary": "开放权重模型成本仍高，英伟达受益",
    "title_zh": "开放权重AI模型仍昂贵，这对英伟达股票是好消息",
    "sentiment": 1
+  },
+  {
+   "id": "8de14a4c4f6f",
+   "title": "Microsoft Unveils Biggest DirectX Raytracing Upgrade Since 2018, Bringing More Efficient Ray Tracing To NVIDIA, AMD & Intel GPUs - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM2xkejdqREtlcGtCNmtMQ0VEMUFoMl9YS3JlbWR3bXRFaTZLUGlmeWxYRVRMTzMzTUZ3aDduUjEtMnJZMS1nd3ZLQWRiVGNPbzhhOFcxemZ1R0Q1UHpVUkYwazFQY1F6VHpSRnpPaE1Wc2ZLdGlHbWhJYVhLcDVPenpWVkxzcTFNV0U2bVgxZkVuZ29UU2oxZEhUdWZpWjZucVRfWW9xMUZkWUUwbnFXdi00QkNXRmpZUjZXbF8zcDJZN2FIVnFUdzRRSVdCbEJzNFdKOFFNQWJ5X2RvWUpF0gHkAUFVX3lxTFB4VVN3TWRtZm16Z29Ga2x2dEJTbklwdnVGM1dXQUJPNmN2VUJDczZHalg1LTlhSEIzb3dQSEFGQlprdmx6ank0R3hGUnEtUVk3aVQ2TEkwMkVwdnlDTFVFM0s3VUtYX0pqa2hKaU9fTUw4b3VGR2s1M2F4UUlDVmQ3ZmQ3S1lsZWhhR0I2NGVHUFMzd1lwdGFfZFZXOUJ3LXdOSGdzMUlFNnNWREY0Q3phTlptV2F2djJNMnB1VjdwT1EtZ051SDZvUXF2djNCNTBiM3V5ak5Tb2pZV3VwR0hpX2VoeQ",
+   "source": "Wccftech",
+   "published_at": "2026-10-29T13:11:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-10-29T13:11:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOM2xkejdqREtlcGtCNmtMQ0VEMUFoMl9YS3JlbWR3bXRFaTZLUGlmeWxYRVRMTzMzTUZ3aDduUjEtMnJZMS1nd3ZLQWRiVGNPbzhhOFcxemZ1R0Q1UHpVUkYwazFQY1F6VHpSRnpPaE1Wc2ZLdGlHbWhJYVhLcDVPenpWVkxzcTFNV0U2bVgxZkVuZ29UU2oxZEhUdWZpWjZucVRfWW9xMUZkWUUwbnFXdi00QkNXRmpZUjZXbF8zcDJZN2FIVnFUdzRRSVdCbEJzNFdKOFFNQWJ5X2RvWUpF0gHkAUFVX3lxTFB4VVN3TWRtZm16Z29Ga2x2dEJTbklwdnVGM1dXQUJPNmN2VUJDczZHalg1LTlhSEIzb3dQSEFGQlprdmx6ank0R3hGUnEtUVk3aVQ2TEkwMkVwdnlDTFVFM0s3VUtYX0pqa2hKaU9fTUw4b3VGR2s1M2F4UUlDVmQ3ZmQ3S1lsZWhhR0I2NGVHUFMzd1lwdGFfZFZXOUJ3LXdOSGdzMUlFNnNWREY0Q3phTlptV2F2djJNMnB1VjdwT1EtZ051SDZvUXF2djNCNTBiM3V5ak5Tb2pZV3VwR0hpX2VoeQ"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
   },
   {
    "id": "17a0e766375b",
@@ -1632,6 +1717,23 @@
    "zh_summary": "英伟达参与Naver100亿美元投资",
    "title_zh": "Naver完成来自Brookfield与英伟达的100亿美元投资",
    "sentiment": 1
+  },
+  {
+   "id": "5b0b0f2c644d",
+   "title": "英伟达 Rubin 之后，国产金刚石散热的第一笔大单来了 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44a0FGVFJNZEtzMXc2cWhnN0N0ZXlQU0JUVDJ5ZGZ4M21CX240dkFqMW44MlNzN1dlaTlPU1BNQ2RBdjBQcmlKbjRKM2MyUWFSTDBv",
+   "source": "电子工程专辑",
+   "published_at": "2026-10-29T10:09:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-10-29T10:09:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44a0FGVFJNZEtzMXc2cWhnN0N0ZXlQU0JUVDJ5ZGZ4M21CX240dkFqMW44MlNzN1dlaTlPU1BNQ2RBdjBQcmlKbjRKM2MyUWFSTDBv"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "0867d79a5372",
@@ -2977,6 +3079,23 @@
    "sentiment": 0
   },
   {
+   "id": "4cf0e575b33f",
+   "title": "OpenAI Reportedly Plans to Buy Google's AI Chips. Should You Sell Nvidia Stock? - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa0M4STFFa2tnRG1zaE9VeFc5a2Fldll1cS0wSGNrQVNsWW9idUpoYjhNTTNJZG0tUk0zZTYxRGRudy1qaDJQZFB2RTdvRTRKRUVMdkdiQ09kaEFwRjhOeFRzdXFrX0R3WkdIRmRqWnRDdF9NaFp5ODJleU1Jb1dDSy1pZVpnOVRrVVZORTZMWGJvcDZMZjhZN29VMVdMMVNQTUhZUGJqaXhMdmJLZ3A2ZUVHV1NNTWhEeFJ5Zw",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-29T01:37:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-29T01:37:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa0M4STFFa2tnRG1zaE9VeFc5a2Fldll1cS0wSGNrQVNsWW9idUpoYjhNTTNJZG0tUk0zZTYxRGRudy1qaDJQZFB2RTdvRTRKRUVMdkdiQ09kaEFwRjhOeFRzdXFrX0R3WkdIRmRqWnRDdF9NaFp5ODJleU1Jb1dDSy1pZVpnOVRrVVZORTZMWGJvcDZMZjhZN29VMVdMMVNQTUhZUGJqaXhMdmJLZ3A2ZUVHV1NNTWhEeFJ5Zw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "a2382d0a947f",
    "title": "英伟达真的慌了，有一款国产GPU，超过了H200的性能 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPenJKZ0luQjU3S0xoR0UtX3Bmdl9XS1BlYnVOUC03aGhMYS1tYmdSRlg1SW92MjVrS3Y5ZjNZVFo2Q0RZa0UzQkozZVJuVkcydVhXc0szZWZSbWh2R0dFM09kZEx6UFMyTmlDdjJhVWJtMUViY0RWTGNLTTQzemJNaXBudzRzUnpQQ2xaYg",
@@ -4152,7 +4271,7 @@
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYU3A5TkQzR0NpTEN6c0p3bXN1RUxEWndzTHRzWmQ4S0doU1g1RXhlUGNJQkFhbHdtdDA2bGdieUZfaWpkY1Z2bXpXaF9mMl94aU1z",
    "source": "华尔街见闻",
    "published_at": "2026-10-28T18:42:38+00:00",
-   "outlets_count": 7,
+   "outlets_count": 8,
    "outlets": [
     {
      "name": "华尔街见闻",
@@ -4188,6 +4307,11 @@
      "name": "手机新浪网",
      "published_at": "2026-10-29T06:35:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzc3k4THI4NGFoenJfdXRjVlVwOUUySmdmQmh4TmVmTm9DbDBrRF8xdUhmQmw5Z2diMTUyLWVKcUNCQXJXTUszU3lxN0xNTXFxT19vOTZlUU9JbE9ydmN6WHFHZFA4cGQ3WEVqeHVuUGJjSVEzWWkyQkY1RlhIZw"
+    },
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-28T19:17:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlelpzYldjMlV4T25WNy0xaVZWSmg0VDBPTWFfQ2ZnREVqRldDYVVidXNhVzdyaG1OUkUwSjRtRU9jcHBZbENXMHJNdjR4UmhqLS1NdE9RTkR3RzBJ"
     }
    ],
    "category": "其他",
@@ -6437,151 +6561,6 @@
    "zh_summary": "英伟达合作探索德国旧核电站建AI中心",
    "title_zh": "英伟达与PreussenElektra合作，探索在德国旧核电站部署AI数据中心",
    "sentiment": 1
-  },
-  {
-   "id": "011da9157eae",
-   "title": "Nvidia is scared: Leaker suggests RTX 5090 and RTX 5080 discontinuation signals impending AI collapse - Notebookcheck",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZDZ6MnNmUFA5Mk92QXZ4UEN2czUxQUNnY2FjaXBPclh5c3dWaEkwVTZVOUlYcURJQlRNUEVVOUhOSFNkOWdSdkRwOEtSekpWcVdpemkwX0NpODFBR01JWkJPb1ZrOHl4cEVIbTNleTFwSGNZNnZNNnpPSTBOaFlfSC1NZk9jQVFRR1VIQUVHNk1UYTNEckNndnYtMGRjN2loVm9TQ3dIN3Z3OG1lTmtJdUpxYWY3SEs5ZVNpaWNYbGctNFV2RTBCM1pSVG9LckRSb1MySWlFM1VKLXlPcFE",
-   "source": "Notebookcheck",
-   "published_at": "2026-10-28T09:49:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Notebookcheck",
-     "published_at": "2026-10-28T09:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZDZ6MnNmUFA5Mk92QXZ4UEN2czUxQUNnY2FjaXBPclh5c3dWaEkwVTZVOUlYcURJQlRNUEVVOUhOSFNkOWdSdkRwOEtSekpWcVdpemkwX0NpODFBR01JWkJPb1ZrOHl4cEVIbTNleTFwSGNZNnZNNnpPSTBOaFlfSC1NZk9jQVFRR1VIQUVHNk1UYTNEckNndnYtMGRjN2loVm9TQ3dIN3Z3OG1lTmtJdUpxYWY3SEs5ZVNpaWNYbGctNFV2RTBCM1pSVG9LckRSb1MySWlFM1VKLXlPcFE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "传RTX 5090与5080停产，暗示AI或崩溃",
-   "title_zh": "爆料称RTX 5090与5080停产，暗示AI崩溃将至",
-   "sentiment": -1
-  },
-  {
-   "id": "03f1fdc1e2ed",
-   "title": "英伟达概念板块10月28日涨5.87%，豪恩汽电领涨，主力资金净流入80.86亿元 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanJMcE9YMlEzN3lZdUhnTlRDOTRyY2tQeWVGamtyekNxTFd4VzYzVmVSOFlITlJmQWZvMlhZYzlrV2tNMHpwUExYWUR1MHN0SGFmVWJIV2w5V0twV3RYVVcxekNIa19qSldqSmJ4M0o0ZU0zNFJ0eXVNSmtuLVYweEttcUN4VXd4QW1JZg",
-   "source": "搜狐网",
-   "published_at": "2026-10-28T09:48:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-28T09:48:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanJMcE9YMlEzN3lZdUhnTlRDOTRyY2tQeWVGamtyekNxTFd4VzYzVmVSOFlITlJmQWZvMlhZYzlrV2tNMHpwUExYWUR1MHN0SGFmVWJIV2w5V0twV3RYVVcxekNIa19qSldqSmJ4M0o0ZU0zNFJ0eXVNSmtuLVYweEttcUN4VXd4QW1JZg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达概念股涨5.87%，资金净流入80.86亿",
-   "title_zh": "英伟达概念板块涨5.87%，豪恩汽电领涨",
-   "sentiment": 1
-  },
-  {
-   "id": "912c2f111dff",
-   "title": "NVIDIA RTX 5080 is now selling for nearly $2,000 at US retailers, $800 higher in just two months - VideoCardz.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVN0aU41dDNMQ2Y5YWFvLW5hQ0drRGNYZTQ5dTFUSVFPaU1RSDhjSFRJN0Q0ZHR3V0RRTmhBcUlnallHNlBzSlc3VGtZdzg2SC0wREhmT0dWbTktTlh3N05kcUJiYkVVNFdfajFqQjlpbkJsV0VzaklUNGVlMEZxQkZRbHhEMXNLcmtrZmlObWFtNlJUVDYzWjExdm1GZXE5U0Fqa1JLX2tCeUlVcUhRNmFsblpnVDVOS1JQYQ",
-   "source": "VideoCardz.com",
-   "published_at": "2026-10-28T09:42:31+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "VideoCardz.com",
-     "published_at": "2026-10-28T09:42:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVN0aU41dDNMQ2Y5YWFvLW5hQ0drRGNYZTQ5dTFUSVFPaU1RSDhjSFRJN0Q0ZHR3V0RRTmhBcUlnallHNlBzSlc3VGtZdzg2SC0wREhmT0dWbTktTlh3N05kcUJiYkVVNFdfajFqQjlpbkJsV0VzaklUNGVlMEZxQkZRbHhEMXNLcmtrZmlObWFtNlJUVDYzWjExdm1GZXE5U0Fqa1JLX2tCeUlVcUhRNmFsblpnVDVOS1JQYQ"
-    },
-    {
-     "name": "Hypebeast",
-     "published_at": "2026-10-29T07:39:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT280U0ZBdG9pZVIzTjFWemctQjZmYkx2dndvR0c0Z2F6WHVZNHhUOGlBdEJxNzRpWmZaN2VUdkNHeTZYNkNRal9YRzlwM1NGUHllLU5JNC1KOWhMcFN1d05WazlocHFIY25GaFVMY242M0M5aVpRbU1QZlBXcnl3MGF4QjNYS0Rqcnc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "RTX 5080售价近2000美元，两月涨800",
-   "title_zh": "英伟达RTX 5080美国售价近2000美元，两个月涨800美元",
-   "sentiment": 1
-  },
-  {
-   "id": "5131d85f3c94",
-   "title": "算力 “芯” 动向｜被削弱的不是英伟达的地位，而是它定价的方式 - www.doit.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yM0FnLTR3TGtaN0RHY2dKanFwTVA4Um1sN2FONVBZOS00MnlVOFJON1NvSmZiOUFzU2JQaTJfSnJPcUVycXMtVklmRkljTktWcWY4LVl2eUV5MjA",
-   "source": "www.doit.com.cn",
-   "published_at": "2026-10-28T09:40:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "www.doit.com.cn",
-     "published_at": "2026-10-28T09:40:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yM0FnLTR3TGtaN0RHY2dKanFwTVA4Um1sN2FONVBZOS00MnlVOFJON1NvSmZiOUFzU2JQaTJfSnJPcUVycXMtVklmRkljTktWcWY4LVl2eUV5MjA"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达地位未削弱，定价方式受影响",
-   "title_zh": "算力动向：被削弱的不是英伟达地位而是定价方式",
-   "sentiment": 0
-  },
-  {
-   "id": "489fce936df2",
-   "title": "SK Hynix, Nvidia and Micron send one clear message to investors with their stocks off the highs - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOG1VS2oyRGs5WkYxbmREb0l6WTJ4TTB3cm9lM2VZTVRTOGt3QmpQQ2hoc2ZHV3htd1JPMWFSd0VmWVY3UVRYZzhOLWtuSWU1Ry1ha1NWOGxDcnI2WEJEQXdiZmpMN042Vi11NmZlckRYVUlUdWEwc0hiYnFLdi1lN2pTYlRJWEREY3ByTTJ6bjdXWVJvbDNEVVB0SzhsRWpuNU53NklQeGVRQ2RYUEJQT2dKZDMtQWN0Z3hZem94RzVOdFpQOTNMc0hlR1J3MDVaUmllUDg0b3ZKZWVHWUVmMjRzbzJ5dF9ONVdtY1pvOA",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-28T09:37:13+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-28T09:37:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOG1VS2oyRGs5WkYxbmREb0l6WTJ4TTB3cm9lM2VZTVRTOGt3QmpQQ2hoc2ZHV3htd1JPMWFSd0VmWVY3UVRYZzhOLWtuSWU1Ry1ha1NWOGxDcnI2WEJEQXdiZmpMN042Vi11NmZlckRYVUlUdWEwc0hiYnFLdi1lN2pTYlRJWEREY3ByTTJ6bjdXWVJvbDNEVVB0SzhsRWpuNU53NklQeGVRQ2RYUEJQT2dKZDMtQWN0Z3hZem94RzVOdFpQOTNMc0hlR1J3MDVaUmllUDg0b3ZKZWVHWUVmMjRzbzJ5dF9ONVdtY1pvOA"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "SK海力士、英伟达、美光股价自高点回落",
-   "title_zh": "SK海力士、英伟达与美光向投资者传递明确信号，股价自高点回落",
-   "sentiment": -1
-  },
-  {
-   "id": "ec4315b2ff1e",
-   "title": "面壁智能RSI 新进展：ForgeKernel 登顶华为、英伟达官方算子榜- OSCHINA - 开源 × AI · 开发者生态社区 - OSCHINA",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tS1dzdTlHYUkzZ0hOUVlNM0J3R3lwMzhoX0VMWF9LQ3NJTEh3N2JVM1dFaWMzRW5waGl2VzJldm5jTnE0ZlhuWnIyTQ",
-   "source": "OSCHINA",
-   "published_at": "2026-10-28T09:27:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "OSCHINA",
-     "published_at": "2026-10-28T09:27:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tS1dzdTlHYUkzZ0hOUVlNM0J3R3lwMzhoX0VMWF9LQ3NJTEh3N2JVM1dFaWMzRW5waGl2VzJldm5jTnE0ZlhuWnIyTQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "面壁智能ForgeKernel登顶英伟达算子榜",
-   "title_zh": "面壁智能ForgeKernel登顶华为、英伟达官方算子榜",
-   "sentiment": 0
-  },
-  {
-   "id": "6682e35f4f9c",
-   "title": "Nvidia vs TSMC: Here’s Which One May Be the Biggest AI Winner. - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN19qTFFvQW1qNDNTT3pVVnEwdXcxVDVNcHBNWmIxVG9mRWtsUzgyVnNQRzN1NlBlV3JUVEtTLWRpbk9RbG9xaGdOcC1WdnQ5THYwaUNkSlV3bVNEdTFBa1E4dTFOa1dDWmRLOFd0eVpyNVNKSDBZR2tjV1prNXE2SG0wS3ZUa0EybHloX3I4UHpiUVFEbW9wUjdjT084dEhLUHNvMGdB",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-28T09:10:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-28T09:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN19qTFFvQW1qNDNTT3pVVnEwdXcxVDVNcHBNWmIxVG9mRWtsUzgyVnNQRzN1NlBlV3JUVEtTLWRpbk9RbG9xaGdOcC1WdnQ5THYwaUNkSlV3bVNEdTFBa1E4dTFOa1dDWmRLOFd0eVpyNVNKSDBZR2tjV1prNXE2SG0wS3ZUa0EybHloX3I4UHpiUVFEbW9wUjdjT084dEhLUHNvMGdB"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "英伟达与台积电竞逐最大AI赢家",
-   "title_zh": "英伟达与台积电谁是最大AI赢家",
-   "sentiment": 0
   }
  ]
 }
