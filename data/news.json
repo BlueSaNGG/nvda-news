@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T17:21:35.300022+00:00",
+ "updated_at": "2026-10-30T17:36:31.610377+00:00",
  "market": {
-  "price": 203.5,
-  "change_pct": -4.76,
+  "price": 203.22,
+  "change_pct": -4.88,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,7 +10,7 @@
    "days_left": 18
   },
   "day_sentiment": {
-   "avg": 0.03,
+   "avg": 0.04,
    "count": 136
   },
   "daily_signal": {
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 52% 分位"
+     "note": "现价处于52周区间 51% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +54.8%"
+     "note": "目标价中位数 $315（17家），隐含空间 +55.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.03（136条已评分）"
+     "note": "今日新闻情绪 +0.04（136条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $203.50 vs 20日均线 $221.40"
+     "note": "现价 $203.22 vs 20日均线 $221.39"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 52,
+   "price_52w_pct": 51,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 54.8,
-   "ma20": 221.4,
-   "as_of": "2026-10-30T17:21:35.289795+00:00"
+   "implied_upside_pct": 55.0,
+   "ma20": 221.39,
+   "as_of": "2026-10-30T17:36:31.600225+00:00"
   },
-  "pe_ttm": 25.9,
+  "pe_ttm": 25.8,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+54.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+55.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a6e1ea138acc",
+   "title": "NVIDIA takes strategic stake in Riverlane within $250M UK push - Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ1BYODNNT29zeDFLNXBvTm4xQlhZWFZUc09Qd1BUNmpBeXpSanhsWnJOWEo5Q2IwZzJnSUhPYzVzTnVsaWtLaW8yYzJQOWhyeHNpbXdna09tTUQxZ0cwN3ktd3lNQjJIU21Td0dVNmd6bDh3ZFBDYktuelZrUkR6aTdIdVZnaEVsaXZXRzktVTR3MXo1OXg3cTdyMA",
+   "source": "Dealroom",
+   "published_at": "2026-10-30T17:30:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Dealroom",
+     "published_at": "2026-10-30T17:30:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ1BYODNNT29zeDFLNXBvTm4xQlhZWFZUc09Qd1BUNmpBeXpSanhsWnJOWEo5Q2IwZzJnSUhPYzVzTnVsaWtLaW8yYzJQOWhyeHNpbXdna09tTUQxZ0cwN3ktd3lNQjJIU21Td0dVNmd6bDh3ZFBDYktuelZrUkR6aTdIdVZnaEVsaXZXRzktVTR3MXo1OXg3cTdyMA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "e2c763fc4fb2",
    "title": "Trade Tracker: Steve Weiss sells most of his Nvidia position - CNBC",
@@ -342,12 +359,17 @@
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalJyOTVRdGZ2M2ExMm1VWEo4anczX1ZoTUxVWjZBVFd2Y040RVRiUlRyNENZRnljYm5BSjdPdFpEZk13N0phMW52dzFHbEZuWllDNVJLNzcyVWdMODlOUzJlX0RzQ3dSX1N3MUluemdnZUFycDlCRTkybTJyVk95SFhCTzdCTlhVVTdBS08ybkJ5Q2lHMjJPQkV5Zmk",
    "source": "Moomoo",
    "published_at": "2026-10-30T15:42:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Moomoo",
      "published_at": "2026-10-30T15:42:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalJyOTVRdGZ2M2ExMm1VWEo4anczX1ZoTUxVWjZBVFd2Y040RVRiUlRyNENZRnljYm5BSjdPdFpEZk13N0phMW52dzFHbEZuWllDNVJLNzcyVWdMODlOUzJlX0RzQ3dSX1N3MUluemdnZUFycDlCRTkybTJyVk95SFhCTzdCTlhVVTdBS08ybkJ5Q2lHMjJPQkV5Zmk"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-30T15:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1RLbEdHUEJKbC0xT1QwaVZEOHREOGg0R19VWEpwcEtaLUJMS2I4N3NsODZBS19XekY0RWtzWnYxUzM4RDN2WnYtSThZcjdHVXhPNEU4YUh2eVpmRUFycXZQd2c5VVB3WHNNMnZiOGE0V1dmUHM4NEhKbUF5X21wY3llc0xJclJqajhDZ1UyNHRaN3ZITTI0"
     }
    ],
    "category": "其他",
@@ -816,6 +838,23 @@
    "sentiment": -1
   },
   {
+   "id": "36288ffb181a",
+   "title": "$英伟达 (NVDA.US)$ 低于 万亿 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUF9ER2UycHlRQTlvRXpoMzRtMWZFX0FfbFFleTVWblZtYS0tcWdJMDg4Y0VRWnlrTktabVlwRzEzbU9lSWVpaEhDM3RPMFZtTmJCYzVZUU5DLW1pa1RlNzlHQ0M1cXlJRjlwOWIxNmE0VWtDZGd0dGE1R1FselpLaU5rZmxUT3V2Z2tINEpVQy1yV0NP",
+   "source": "Moomoo",
+   "published_at": "2026-10-30T13:42:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-30T13:42:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUF9ER2UycHlRQTlvRXpoMzRtMWZFX0FfbFFleTVWblZtYS0tcWdJMDg4Y0VRWnlrTktabVlwRzEzbU9lSWVpaEhDM3RPMFZtTmJCYzVZUU5DLW1pa1RlNzlHQ0M1cXlJRjlwOWIxNmE0VWtDZGd0dGE1R1FselpLaU5rZmxUT3V2Z2tINEpVQy1yV0NP"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "30d69731e9a4",
    "title": "热门板块速睇：美股盘中英伟达持仓概念走弱，英特尔领跌 - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzRETDVkblZRRmF3UVMxOV83WnZQZUhUYmp6b1RGdGRQZHkwRmk2Z3BSaXlCeXRyN1QybWlQdFZKb3hfcGM1RF96blZKVDliZnhuOTluQUo2UUxaMjFxWTlSb2FCVk91MFB1X2g0M04wZF9yNmNYWmJKZlN3NGlTVzFPQTFYZGNWOU1kN2NOOGtpb013dGotU1NMZHJHeTlRSzZZZE9lSzhocVBKTFNfTUtSR0hJVlVvRHc",
@@ -1207,26 +1246,6 @@
    "session": "盘前",
    "zh_summary": "中国否认针对英伟达CEO间谍指控",
    "title_zh": "中国否认针对英伟达CEO的间谍行动指控",
-   "sentiment": 0
-  },
-  {
-   "id": "3e3d95a3c2e7",
-   "title": "$英伟达 (NVDA.US)$ 泡沫破裂 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ204Rks0TFR6LVJrUTh3QkJleEx4ZUJ6eWRPRnI0UWVHLW1ycEpPSjNuaVNQNEFQNFhzS1hBXzFXZm1hekl2VHhYOVRIa0otSWE2OUJpeWZwdWJsY1ptZ0FXRlRpNmRpX3A3dHAxRlZCcFZmOHFyS1FyRllvQ1dKMnJfdDhZNXdxY2V1dURpY0dhZ3c",
-   "source": "Moomoo",
-   "published_at": "2026-10-30T12:14:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-30T12:14:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ204Rks0TFR6LVJrUTh3QkJleEx4ZUJ6eWRPRnI0UWVHLW1ycEpPSjNuaVNQNEFQNFhzS1hBXzFXZm1hekl2VHhYOVRIa0otSWE2OUJpeWZwdWJsY1ptZ0FXRlRpNmRpX3A3dHAxRlZCcFZmOHFyS1FyRllvQ1dKMnJfdDhZNXdxY2V1dURpY0dhZ3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达低于万亿",
-   "title_zh": "$英伟达 (NVDA.US)$ 低于 万亿",
    "sentiment": 0
   },
   {
@@ -6552,26 +6571,6 @@
    "session": "盘前",
    "zh_summary": "最新英伟达驱动或影响幻刃零游戏体验",
    "title_zh": "计划玩《幻刃零》别装最新英伟达驱动",
-   "sentiment": -1
-  },
-  {
-   "id": "5846020ff552",
-   "title": "Phantom Blade Zero dev says don't get the latest Nvidia drivers - PC Gamer",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0lVYXhhN1czVW1WNHpUT0dvRWs3MjhDZGJkbVJXN1dPUm51UzZNMlB1MTcyczZac0xhRXplODk3RVVfVVpDLWJRVXB3aFNOZ2g1cmZNVFZaRFNuMlRBZWw4aVB5ZUtVRk1tbGctbzhMZXNKUTFGb3hpQUVnWUtpR3ZhZERwRDNMa2Q5X296aWE4ZG1zWVZHZHFtMmg",
-   "source": "PC Gamer",
-   "published_at": "2026-10-29T11:36:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "PC Gamer",
-     "published_at": "2026-10-29T11:36:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0lVYXhhN1czVW1WNHpUT0dvRWs3MjhDZGJkbVJXN1dPUm51UzZNMlB1MTcyczZac0xhRXplODk3RVVfVVpDLWJRVXB3aFNOZ2g1cmZNVFZaRFNuMlRBZWw4aVB5ZUtVRk1tbGctbzhMZXNKUTFGb3hpQUVnWUtpR3ZhZERwRDNMa2Q5X296aWE4ZG1zWVZHZHFtMmg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "灵刃零开发者劝勿装英伟达最新驱动",
-   "title_zh": "灵刃零开发者称勿安装英伟达最新驱动",
    "sentiment": -1
   }
  ]
