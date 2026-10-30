@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T18:21:40.894557+00:00",
+ "updated_at": "2026-10-30T18:36:42.002398+00:00",
  "market": {
-  "price": 202.15,
-  "change_pct": -5.39,
+  "price": 201.68,
+  "change_pct": -5.61,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.04,
-   "count": 138
+   "count": 141
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 50% 分位"
+     "note": "现价处于52周区间 49% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +55.8%"
+     "note": "目标价中位数 $315（17家），隐含空间 +56.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.04（138条已评分）"
+     "note": "今日新闻情绪 +0.04（141条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $202.15 vs 20日均线 $221.33"
+     "note": "现价 $201.68 vs 20日均线 $221.31"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 50,
+   "price_52w_pct": 49,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 55.8,
-   "ma20": 221.33,
-   "as_of": "2026-10-30T18:21:40.884964+00:00"
+   "implied_upside_pct": 56.2,
+   "ma20": 221.31,
+   "as_of": "2026-10-30T18:36:41.989399+00:00"
   },
-  "pe_ttm": 25.7,
+  "pe_ttm": 25.6,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+55.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+56.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -142,26 +142,6 @@
    "sentiment": -1
   },
   {
-   "id": "e2c763fc4fb2",
-   "title": "Trade Tracker: Steve Weiss sells most of his Nvidia position - CNBC",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONlZEN2Z0UnJnQWR3NFhRSWRRNzhwZWR0SWdySURaMU80THhTZ3NXUzNEd3VXYWg1eEVwLTNMUk4wb05TeC00dzNnU0VaajVOVFpPd0dlSVd6OFJ5b19vMHhaSEk5ajNVWFhxYzZVbDljSFg3ajV0QlBMbmFCazZzb3VPR1VxMGNCNS0yUHpvcm9MUUJvOGY5UG5FazJzaWJ3aFYzTg",
-   "source": "CNBC",
-   "published_at": "2026-10-30T16:52:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNBC",
-     "published_at": "2026-10-30T16:52:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONlZEN2Z0UnJnQWR3NFhRSWRRNzhwZWR0SWdySURaMU80THhTZ3NXUzNEd3VXYWg1eEVwLTNMUk4wb05TeC00dzNnU0VaajVOVFpPd0dlSVd6OFJ5b19vMHhaSEk5ajNVWFhxYzZVbDljSFg3ajV0QlBMbmFCazZzb3VPR1VxMGNCNS0yUHpvcm9MUUJvOGY5UG5FazJzaWJ3aFYzTg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "史蒂夫·韦斯抛售大部分英伟达持仓",
-   "title_zh": "交易追踪：史蒂夫·韦斯抛售大部分英伟达持仓",
-   "sentiment": -1
-  },
-  {
    "id": "81f20fc92dcf",
    "title": "It’s Time to Revisit The Nvidia Vs. AMD Debate - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMFBhZFlXZnVGTnVRSkk4YU9FNXJDQkRXNloyckp3ODhuWGtRVE5WUzJnQ1lfMGZUb1lLN05ITHVKMTgtUDVxLUxJU2ZORTQzX1FjQkpkSWVDWmpVSkMtQTZvQ2NOWkQ4QXZiQ2lENlNrZGJkdlMyT09kR19nTFpiQ0laWGI0c215c3FNcXNJTHNQeDZ5QXc",
@@ -204,6 +184,26 @@
    "session": "盘中",
    "zh_summary": "建议锁定英伟达利润",
    "title_zh": "英伟达：是时候锁定利润了",
+   "sentiment": -1
+  },
+  {
+   "id": "e2c763fc4fb2",
+   "title": "Trade Tracker: Steve Weiss sells most of his Nvidia position - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONlZEN2Z0UnJnQWR3NFhRSWRRNzhwZWR0SWdySURaMU80THhTZ3NXUzNEd3VXYWg1eEVwLTNMUk4wb05TeC00dzNnU0VaajVOVFpPd0dlSVd6OFJ5b19vMHhaSEk5ajNVWFhxYzZVbDljSFg3ajV0QlBMbmFCazZzb3VPR1VxMGNCNS0yUHpvcm9MUUJvOGY5UG5FazJzaWJ3aFYzTg",
+   "source": "CNBC",
+   "published_at": "2026-10-30T16:31:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-30T16:31:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONlZEN2Z0UnJnQWR3NFhRSWRRNzhwZWR0SWdySURaMU80THhTZ3NXUzNEd3VXYWg1eEVwLTNMUk4wb05TeC00dzNnU0VaajVOVFpPd0dlSVd6OFJ5b19vMHhaSEk5ajNVWFhxYzZVbDljSFg3ajV0QlBMbmFCazZzb3VPR1VxMGNCNS0yUHpvcm9MUUJvOGY5UG5FazJzaWJ3aFYzTg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "史蒂夫·韦斯抛售大部分英伟达持仓",
+   "title_zh": "交易追踪：史蒂夫·韦斯抛售大部分英伟达持仓",
    "sentiment": -1
   },
   {
@@ -2364,12 +2364,17 @@
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkhybUcwNGFxVElPdmpwandsZnFKVkxXTjJKSG9LVjdRRE1KTk16M2FUejZ4dFl2Wl9MeVcycnZ5NlF5aTBHd3ptdzlvM3gwalVCby1YNmViMWhQWjNVS24yOENPcXRXdFpvd0M5anFrT3d4SHo4Z2M3Nm04d3lickFaeWc3UVFLOElBZGhyTUZ6czBubzNRa1REOGhoQ0xraVh6cXN2S3ItcUxjbjg0X1hJdWZxR3BvV3dQN2lBRDdUbmt1ZHZn",
    "source": "marketscreener.com",
    "published_at": "2026-10-30T08:22:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "marketscreener.com",
      "published_at": "2026-10-30T08:22:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkhybUcwNGFxVElPdmpwandsZnFKVkxXTjJKSG9LVjdRRE1KTk16M2FUejZ4dFl2Wl9MeVcycnZ5NlF5aTBHd3ptdzlvM3gwalVCby1YNmViMWhQWjNVS24yOENPcXRXdFpvd0M5anFrT3d4SHo4Z2M3Nm04d3lickFaeWc3UVFLOElBZGhyTUZ6czBubzNRa1REOGhoQ0xraVh6cXN2S3ItcUxjbjg0X1hJdWZxR3BvV3dQN2lBRDdUbmt1ZHZn"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-30T11:57:45+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS0pBeUFNQXFHOEpqUk4zNjJ4MlpjR0tWOS0wcThCSnZidjVIZm5zSDVQbkhsNnBJZVVueEpxa09UWmZNdm9SWE1YUWgyanNMSUpENE9CUTJLT29EOXZuQm8wbm5aWURXTHZTVjY3Nk03Q1luekZUWVVZMldBcTJhX3hRQ3JTbHRqYU9IUjMyZWxqTjVsMV8wZHFSZWM"
     }
    ],
    "category": "AI需求",
