@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T14:21:32.877784+00:00",
+ "updated_at": "2026-10-30T14:36:29.806013+00:00",
  "market": {
-  "price": 206.66,
-  "change_pct": -3.28,
+  "price": 206.49,
+  "change_pct": -3.36,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 18
   },
   "day_sentiment": {
-   "avg": 0.07,
-   "count": 95
+   "avg": 0.09,
+   "count": 101
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +52.4%"
+     "note": "目标价中位数 $315（17家），隐含空间 +52.5%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.07（95条已评分）"
+     "note": "今日新闻情绪 +0.09（101条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $206.66 vs 20日均线 $221.56"
+     "note": "现价 $206.49 vs 20日均线 $221.55"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 56,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 52.4,
-   "ma20": 221.56,
-   "as_of": "2026-10-30T14:21:32.868782+00:00"
+   "implied_upside_pct": 52.5,
+   "ma20": 221.55,
+   "as_of": "2026-10-30T14:36:29.796374+00:00"
   },
-  "pe_ttm": 26.3,
+  "pe_ttm": 26.2,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.5%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,74 @@
   }
  },
  "stories": [
+  {
+   "id": "593e450a96e6",
+   "title": "AMD Is Chasing Nvidia in AI, but Investors Could Win Either Way - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLW1iZzlUWm5LUjVDUW1jekVCcGlMRlhieXU1QnVPWXo1aFlKcEpTZ0FIcG93NFk2Q3lfSzZ4QlhRUnNnSExHd18xNzhtUUU2ejlidlVkQmQ0ZnMtY1NENnE1SzZQSEY1eWwwaVpud2Y2el9kUlZodkZxd2VwQXp2alFJeC1raUVBT0tSVlVuSk84c0FGWk9ienFWUmdqSWxGb253TnJKWUNjdw",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-30T14:35:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-30T14:35:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLW1iZzlUWm5LUjVDUW1jekVCcGlMRlhieXU1QnVPWXo1aFlKcEpTZ0FIcG93NFk2Q3lfSzZ4QlhRUnNnSExHd18xNzhtUUU2ejlidlVkQmQ0ZnMtY1NENnE1SzZQSEY1eWwwaVpud2Y2el9kUlZodkZxd2VwQXp2alFJeC1raUVBT0tSVlVuSk84c0FGWk9ienFWUmdqSWxGb253TnJKWUNjdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "502670610444",
+   "title": "Nvidia CEO sees Kazakhstan as potential AI hub for Europe - Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUU2cGstT1FNbHpBb09nZVJ3a0xSMmNENmhCMWJnMFh6MXI2Nkhld2ZSWU5uM2Rmd3ZVdGFPT1BKbmVKN1d2M0dLcFdQWm5mT2ZNNDAxdnozSkxCdDZSel9YUGMtdnRTeHNya3l4RmFHOGNCeXVHOW9uM1VPcUo1dUQtZFpnSzJGNlFjLUY0Q1RpcWh3ZFFEbw",
+   "source": "Euronews.com",
+   "published_at": "2026-10-30T14:29:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Euronews.com",
+     "published_at": "2026-10-30T14:29:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUU2cGstT1FNbHpBb09nZVJ3a0xSMmNENmhCMWJnMFh6MXI2Nkhld2ZSWU5uM2Rmd3ZVdGFPT1BKbmVKN1d2M0dLcFdQWm5mT2ZNNDAxdnozSkxCdDZSel9YUGMtdnRTeHNya3l4RmFHOGNCeXVHOW9uM1VPcUo1dUQtZFpnSzJGNlFjLUY0Q1RpcWh3ZFFEbw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "1726d3f736aa",
+   "title": "英伟达，市值蒸发1.1万亿元 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmpUcUFfNlZGVU52UTBUM0pNYktBdTR2azhtZTR3QWVqTFNyRTdpTnl0SWw3eGJJc0JnQW5mVXFCU1lWLWYweDFabWlRR2VxandZMUM5dFM3TFozY0c3OHRKSzktRVZub3FEclpwbFFkZjhReFJ4VE1icHR5OFJOSnNNaDBnSm01QW5LWQ",
+   "source": "搜狐网",
+   "published_at": "2026-10-30T14:25:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-30T14:25:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmpUcUFfNlZGVU52UTBUM0pNYktBdTR2azhtZTR3QWVqTFNyRTdpTnl0SWw3eGJJc0JnQW5mVXFCU1lWLWYweDFabWlRR2VxandZMUM5dFM3TFozY0c3OHRKSzktRVZub3FEclpwbFFkZjhReFJ4VE1icHR5OFJOSnNNaDBnSm01QW5LWQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "2cfd04a2cd9f",
+   "title": "Nvidia Stock Is Set for Its Worst Month in a Year. Time to Buy the Dip. - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5eVhHal84SUVnWXJrMXZ0NGxSNzlkY2VBcnd2M1pjaEhYOTBJcWg1ZFVGeUFyUXhrX0cyZkhMQ0VQRms1VEFXUkFJS2kxd0g4a3ZjbDMteXhJYXVFVFJRVW90VjBaRHE0VUJDc2twdGVFc1c3azhjeQ",
+   "source": "Barron's",
+   "published_at": "2026-10-30T14:22:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-30T14:22:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5eVhHal84SUVnWXJrMXZ0NGxSNzlkY2VBcnd2M1pjaEhYOTBJcWg1ZFVGeUFyUXhrX0cyZkhMQ0VQRms1VEFXUkFJS2kxd0g4a3ZjbDMteXhJYXVFVFJRVW90VjBaRHE0VUJDc2twdGVFc1c3azhjeQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "7944b60acabc",
    "title": "$英伟达 (NVDA.US)$ 虽然止盈了看跌期权，但还是要重申远期的目标价， 短期就等你反弹吧 - Moomoo",
@@ -82,17 +150,39 @@
    "sentiment": 1
   },
   {
+   "id": "5b15354f6775",
+   "title": "英伟达债务保险成本反超Meta，AI融资风险升温 - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUdW9VRWRGek5mTkE2eEs2bEhLQzIyZjJBVWtYSHl0RDF4TGlxTWpVVUo1Y3N0X1liOHAwMlNTNXozU2RrdzMyc29sYzlhSEVaeFN3eThTUzFSdktXWXV6LWk3eFhKUQ",
+   "source": "TradingView",
+   "published_at": "2026-10-30T14:11:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-30T14:11:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUdW9VRWRGek5mTkE2eEs2bEhLQzIyZjJBVWtYSHl0RDF4TGlxTWpVVUo1Y3N0X1liOHAwMlNTNXozU2RrdzMyc29sYzlhSEVaeFN3eThTUzFSdktXWXV6LWk3eFhKUQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "3cb2dfd2e1ce",
    "title": "Nvidia Takes On Rogue AI Agents With Software And Hardware Guardrails - Forbes",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnY5NG9mdVlJRllsLWtMNC1CaTBCcWlZMW5NNktRTHZOQkRFc2VWa0FHa3drZ1M0WnlWN1FPa1FCc3c1NGJ6NGQzMlVUR2JlMHJFeFptRndaZjhnM3FaVXlvdnpZcFdoZ1pHbnVaTmJRdno1WjBEdEVGOF9vTUZFUXd3aG9rZ3o0OHZEQXJTM2s3MEdROUVSakh3WjdpWmJXWG1HY1gtUlhKbTdodDBxTVhWU0xKY0hVQndxeEln",
    "source": "Forbes",
    "published_at": "2026-10-30T14:00:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Forbes",
      "published_at": "2026-10-30T14:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnY5NG9mdVlJRllsLWtMNC1CaTBCcWlZMW5NNktRTHZOQkRFc2VWa0FHa3drZ1M0WnlWN1FPa1FCc3c1NGJ6NGQzMlVUR2JlMHJFeFptRndaZjhnM3FaVXlvdnpZcFdoZ1pHbnVaTmJRdno1WjBEdEVGOF9vTUZFUXd3aG9rZ3o0OHZEQXJTM2s3MEdROUVSakh3WjdpWmJXWG1HY1gtUlhKbTdodDBxTVhWU0xKY0hVQndxeEln"
+    },
+    {
+     "name": "Yahoo Tech",
+     "published_at": "2026-10-30T14:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnEzZ0tXUnNjVnpXSEFGdHVfZmVrQVA0RHpKTHlvY08tcTBCeHBDcTFXV2lVejM3VUdlZnh3UHNZQkxKaVpBOGU5QnhKTV9pTV9NZnphaGt2UmlzQThTM2w3enl2TEZJalZ0X2QxS3EzM3NhTlRtSXBURnJJYTh1ZUZCOWM"
     }
    ],
    "category": "其他",
@@ -1584,6 +1674,23 @@
    "zh_summary": "英伟达美股盘前跌超2%",
    "title_zh": "英伟达美股盘前跌超2% - 搜狐网",
    "sentiment": -1
+  },
+  {
+   "id": "73a63075bbab",
+   "title": "集体跳水！英伟达、SK海力士、戴尔盘前大跌，亚马逊AI烧钱忧虑发酵，PC需求遇冷 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOS1TU2ItZmZpRXhmaXE2TFpMLW05bVR5Skc3NmlsUzZLbkZJSFZENWlKYlhXdVhfSS1nY21NSmVHSkZnb2dNc3hKdTM4SjVBN3o4M0RwbVBzRGg5R2xxU2NYei11c2VyYzV2ZzJoeUd6bXpWSHBGVXhMYkp1ZmlwMm5yWGtDR3d1enF1UA",
+   "source": "搜狐网",
+   "published_at": "2026-10-30T08:11:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-30T08:11:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOS1TU2ItZmZpRXhmaXE2TFpMLW05bVR5Skc3NmlsUzZLbkZJSFZENWlKYlhXdVhfSS1nY21NSmVHSkZnb2dNc3hKdTM4SjVBN3o4M0RwbVBzRGg5R2xxU2NYei11c2VyYzV2ZzJoeUd6bXpWSHBGVXhMYkp1ZmlwMm5yWGtDR3d1enF1UA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "fbf222ae7690",
@@ -6430,126 +6537,6 @@
    "zh_summary": "英伟达暂无进军光纤定制芯片计划",
    "title_zh": "英伟达暂无计划以GPU进军光纤定制芯片领域",
    "sentiment": 0
-  },
-  {
-   "id": "5383001eba5a",
-   "title": "Nvidia, AMD Commit $4B to Meta AI Buildout - Data Center Knowledge",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWJDMFY0dTdienA3a19xTU9PdzhSUnNDSkdxWFdXRXF1NUdkdDV1UkFrRHpnTFFuYkFlTmNzUF8yUmx6U3VITWFIWmhTTGRtZk52eUh4Wk9zZi1lQXNvU1FBdWMyeGY2bE4zNkRfcXZXanhKaV9lcElNMnRiQ3RYTTVsS2lvM1RKRk1hUnRNRHpLRl9WVnhGRlBR",
-   "source": "Data Center Knowledge",
-   "published_at": "2026-10-29T07:59:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Data Center Knowledge",
-     "published_at": "2026-10-29T07:59:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWJDMFY0dTdienA3a19xTU9PdzhSUnNDSkdxWFdXRXF1NUdkdDV1UkFrRHpnTFFuYkFlTmNzUF8yUmx6U3VITWFIWmhTTGRtZk52eUh4Wk9zZi1lQXNvU1FBdWMyeGY2bE4zNkRfcXZXanhKaV9lcElNMnRiQ3RYTTVsS2lvM1RKRk1hUnRNRHpLRl9WVnhGRlBR"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达与AMD向Meta AI建设投资40亿美元",
-   "title_zh": "英伟达与AMD承诺向Meta AI建设投资40亿美元",
-   "sentiment": 1
-  },
-  {
-   "id": "e749c7c22ab3",
-   "title": "Anthropic IPO on Tap, NVIDIA Updates, & Other Investor Days Shaping Markets - Wall Street Horizon - Commentaries - Advisor Perspectives",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0sxWVlvUEl3NFFXUjExZ0paNjJFQ2o2OFNrcS1CYlZ1MVp2cWdlZElHczVIeW5HUVdnbzdVSFo2V2dEWGJzamZCeTZ2MDlqS2FpU1EtemJyalZHX0dIcW9KczBjRkt4dXpMdjduX1RkMVdsSTh1Y0MwZTZnWWFkbTVYZmJhd1hrVUhBWVBGNE5INWZNWjZWY24yV0JEQXJqRTNscGNrX0x2cG1PU3RJ",
-   "source": "Advisor Perspectives",
-   "published_at": "2026-10-29T07:59:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Advisor Perspectives",
-     "published_at": "2026-10-29T07:59:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0sxWVlvUEl3NFFXUjExZ0paNjJFQ2o2OFNrcS1CYlZ1MVp2cWdlZElHczVIeW5HUVdnbzdVSFo2V2dEWGJzamZCeTZ2MDlqS2FpU1EtemJyalZHX0dIcW9KczBjRkt4dXpMdjduX1RkMVdsSTh1Y0MwZTZnWWFkbTVYZmJhd1hrVUhBWVBGNE5INWZNWjZWY24yV0JEQXJqRTNscGNrX0x2cG1PU3RJ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "Anthropic上市与英伟达动态影响市场",
-   "title_zh": "Anthropic拟上市、英伟达动态等影响市场",
-   "sentiment": 0
-  },
-  {
-   "id": "35beea8ced20",
-   "title": "英伟达开源Nemotron 3.5 Transcribe 支持40种语言 - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SVnEwYVI1bWRXZzhYMV9nQzlSWE9HakxSRmJmd2Q2WUc2U2Zwd2VacDhrSDBzbngyQ2sxSjdfOG9kX2puWDhOdWRTSVdEVV92cTJOZzM0TUpOM2F0TDQ5TmZYTlU3N3JkVXJRa3MzWWs",
-   "source": "手机新浪网",
-   "published_at": "2026-10-29T07:48:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-29T07:48:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SVnEwYVI1bWRXZzhYMV9nQzlSWE9HakxSRmJmd2Q2WUc2U2Zwd2VacDhrSDBzbngyQ2sxSjdfOG9kX2puWDhOdWRTSVdEVV92cTJOZzM0TUpOM2F0TDQ5TmZYTlU3N3JkVXJRa3MzWWs"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达开源Nemotron 3.5支持40种语言",
-   "title_zh": "英伟达开源Nemotron 3.5 Transcribe 支持40种语言",
-   "sentiment": 1
-  },
-  {
-   "id": "81c1445d2de2",
-   "title": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一 - 智源社区",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxdjhYNloyTU9qb1ZwbVhBbnVJR1V5NnphWVJoTHBCYU1zaHdtZ3RNaTlpRk50RTd2cEtmVFhGenU3bWs5MFpwLQ",
-   "source": "智源社区",
-   "published_at": "2026-10-29T07:40:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "智源社区",
-     "published_at": "2026-10-29T07:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxdjhYNloyTU9qb1ZwbVhBbnVJR1V5NnphWVJoTHBCYU1zaHdtZ3RNaTlpRk50RTd2cEtmVFhGenU3bWs5MFpwLQ"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "中国AI拿下GPU性能榜88项第一",
-   "title_zh": "中国AI刷爆英伟达GPU性能榜，这家公司拿下88项第一 - 智源社区",
-   "sentiment": 0
-  },
-  {
-   "id": "7e036fc78d37",
-   "title": "The Nvidia RTX 5080 Is Now Selling for Over $2,000 USD After an $800 Price Spike in Two Months - Hypebeast",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT280U0ZBdG9pZVIzTjFWemctQjZmYkx2dndvR0c0Z2F6WHVZNHhUOGlBdEJxNzRpWmZaN2VUdkNHeTZYNkNRal9YRzlwM1NGUHllLU5JNC1KOWhMcFN1d05WazlocHFIY25GaFVMY242M0M5aVpRbU1QZlBXcnl3MGF4QjNYS0Rqcnc",
-   "source": "Hypebeast",
-   "published_at": "2026-10-29T07:39:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Hypebeast",
-     "published_at": "2026-10-29T07:39:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT280U0ZBdG9pZVIzTjFWemctQjZmYkx2dndvR0c0Z2F6WHVZNHhUOGlBdEJxNzRpWmZaN2VUdkNHeTZYNkNRal9YRzlwM1NGUHllLU5JNC1KOWhMcFN1d05WazlocHFIY25GaFVMY242M0M5aVpRbU1QZlBXcnl3MGF4QjNYS0Rqcnc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "RTX 5080两个月涨价800美元超2000美元",
-   "title_zh": "英伟达RTX 5080两个月涨价800美元，现超2000美元",
-   "sentiment": 1
-  },
-  {
-   "id": "221e9f8d700f",
-   "title": "英伟达发布开源语音转录模型Nemotron 3.5 - DoNews",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtMXNFbGtYeHB2VnVnMEc4a2dEZ1VwSWwtUHk3OVk2Z0FUVkU5cHhkRXhFNUJKRGJmbTNGQnZLaElHeUZTRExDSHVZYlhWUk15c0FGQ0x3QjhlQm1Fb0E",
-   "source": "DoNews",
-   "published_at": "2026-10-29T07:36:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "DoNews",
-     "published_at": "2026-10-29T07:36:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtMXNFbGtYeHB2VnVnMEc4a2dEZ1VwSWwtUHk3OVk2Z0FUVkU5cHhkRXhFNUJKRGJmbTNGQnZLaElHeUZTRExDSHVZYlhWUk15c0FGQ0x3QjhlQm1Fb0E"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达发布开源语音转录模型",
-   "title_zh": "英伟达发布开源语音转录模型Nemotron 3.5 - DoNews",
-   "sentiment": 1
   }
  ]
 }
