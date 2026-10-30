@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T15:06:29.415305+00:00",
+ "updated_at": "2026-10-30T15:21:40.088131+00:00",
  "market": {
-  "price": 206.23,
-  "change_pct": -3.48,
+  "price": 206.34,
+  "change_pct": -3.43,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 18
   },
   "day_sentiment": {
-   "avg": 0.06,
-   "count": 109
+   "avg": 0.05,
+   "count": 110
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,7 +20,7 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 55% 分位"
+     "note": "现价处于52周区间 56% 分位"
     },
     {
      "key": "目标价空间",
@@ -30,12 +30,12 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（109条已评分）"
+     "note": "今日新闻情绪 +0.05（110条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $206.23 vs 20日均线 $221.54"
+     "note": "现价 $206.34 vs 20日均线 $221.54"
     },
     {
      "key": "分析师动向",
@@ -43,12 +43,12 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 55,
+   "price_52w_pct": 56,
    "target_median": 315.0,
    "target_count": 17,
    "implied_upside_pct": 52.7,
    "ma20": 221.54,
-   "as_of": "2026-10-30T15:06:29.397338+00:00"
+   "as_of": "2026-10-30T15:21:40.077582+00:00"
   },
   "pe_ttm": 26.2,
   "pe_pct_5y": 18,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "9b7b32aa8b75",
+   "title": "This Little-Known ETF Owns QQQ’s Stocks Without the Big Bet on Nvidia - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQkdFcktmWkNRamNtczNWU3Vad2JISXYxUVd6VFE5aFpMWnY0akJGejk5ZnJDOGdKdVFfX000am8xRU84NDd0UjIxQ3lhTDItSWpMemppVHN0WFNRdUR1b1Y5OW1ZRFZzY0hGc2xZYXRRZWlsV2ZaeFdfQXVmejExY2J6QlRRQTY0NU1IX1FBY3lTMDdORWZpQlV0WU5tU0NVNTIxREpPOExKQ3pQeVNaaTAxQ1A2YWM",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-30T15:19:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-30T15:19:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQkdFcktmWkNRamNtczNWU3Vad2JISXYxUVd6VFE5aFpMWnY0akJGejk5ZnJDOGdKdVFfX000am8xRU84NDd0UjIxQ3lhTDItSWpMemppVHN0WFNRdUR1b1Y5OW1ZRFZzY0hGc2xZYXRRZWlsV2ZaeFdfQXVmejExY2J6QlRRQTY0NU1IX1FBY3lTMDdORWZpQlV0WU5tU0NVNTIxREpPOExKQ3pQeVNaaTAxQ1A2YWM"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "e62616c3fbd3",
+   "title": "RTX 5080 is missing from Nvidia’s US marketplace, alongside the RTX 5090 - MIXED News",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYjNXUkdMeFY0VW9wTjc5cktSZENoSGNDbzBLckFXS3BmUk1WZjF5bzhXdF9WbE9lREFyTVdpLTczdDlDQlFueTV0c2NtRkdBdTJ5NTh5bnJwT2ttcFNZZzZndTZDTGxHSGFjeHE4WkY4ZkhFenVpSGtYY1JvejRGdzREbw",
+   "source": "MIXED News",
+   "published_at": "2026-10-30T15:07:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MIXED News",
+     "published_at": "2026-10-30T15:07:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYjNXUkdMeFY0VW9wTjc5cktSZENoSGNDbzBLckFXS3BmUk1WZjF5bzhXdF9WbE9lREFyTVdpLTczdDlDQlFueTV0c2NtRkdBdTJ5NTh5bnJwT2ttcFNZZzZndTZDTGxHSGFjeHE4WkY4ZkhFenVpSGtYY1JvejRGdzREbw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "a370b18d8b6f",
    "title": "RTX 5080 Disappears From Nvidia's Store as Prices Reach $2,000 - IGN Nordic",
@@ -80,6 +114,23 @@
    "zh_summary": "RTX 5080下架，售价达2000美元",
    "title_zh": "RTX 5080自英伟达商店下架，价格达2000美元",
    "sentiment": -1
+  },
+  {
+   "id": "e3e369ea1cd6",
+   "title": "Big Tech ETF slumps as Nvidia and Amazon shares sell off - MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPbzhmZTBzVXVmdmg5bW52cGo4WUhOLXFDOWRkVXZUT0ZSaXBMVmpGUEFYb2UxZlZIbW9TWVVpT1VKdGRFdUJzMjM3aFFiR1ZwQ0NNVG5UVk8xM1F3bGtLV1o1MUFWZm83UlpieGt4b3pDOF9HcHVWaUhzeHhEeVR3RUV0cGVDSzJlWEQzY0RhWWlWd0Q2bzZGUDVoS1haVG5GNC0tbjUwSVZJNGdBS3BxaV95RUlnajB3cHdldG1aaUFLLU84T3dEU0ZVOVdtbUVaVklaNGI0OHBxUENvR1E0aTJra2h3RjVvR19IU0d0SFV5Q3ZLUXp6NDAxeFA2dGNLXzlXT1pKakFxS25YMk53M19keXRfV1AwdVhIZW9Ua21lU2FIcDJtNGswdjRadFV6VjFvTFh2bnhTamw3",
+   "source": "MarketWatch",
+   "published_at": "2026-10-30T15:01:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketWatch",
+     "published_at": "2026-10-30T15:01:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPbzhmZTBzVXVmdmg5bW52cGo4WUhOLXFDOWRkVXZUT0ZSaXBMVmpGUEFYb2UxZlZIbW9TWVVpT1VKdGRFdUJzMjM3aFFiR1ZwQ0NNVG5UVk8xM1F3bGtLV1o1MUFWZm83UlpieGt4b3pDOF9HcHVWaUhzeHhEeVR3RUV0cGVDSzJlWEQzY0RhWWlWd0Q2bzZGUDVoS1haVG5GNC0tbjUwSVZJNGdBS3BxaV95RUlnajB3cHdldG1aaUFLLU84T3dEU0ZVOVdtbUVaVklaNGI0OHBxUENvR1E0aTJra2h3RjVvR19IU0d0SFV5Q3ZLUXp6NDAxeFA2dGNLXzlXT1pKakFxS25YMk53M19keXRfV1AwdVhIZW9Ua21lU2FIcDJtNGswdjRadFV6VjFvTFh2bnhTamw3"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
   },
   {
    "id": "a63d3c55ceb2",
@@ -330,6 +381,23 @@
    "zh_summary": "英伟达10月30日开盘下跌3.37%",
    "title_zh": "英伟达10月30日开盘下跌3.37%，全面分析",
    "sentiment": -1
+  },
+  {
+   "id": "36288ffb181a",
+   "title": "$英伟达 (NVDA.US)$ 低于 万亿 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUF9ER2UycHlRQTlvRXpoMzRtMWZFX0FfbFFleTVWblZtYS0tcWdJMDg4Y0VRWnlrTktabVlwRzEzbU9lSWVpaEhDM3RPMFZtTmJCYzVZUU5DLW1pa1RlNzlHQ0M1cXlJRjlwOWIxNmE0VWtDZGd0dGE1R1FselpLaU5rZmxUT3V2Z2tINEpVQy1yV0NP",
+   "source": "Moomoo",
+   "published_at": "2026-10-30T13:42:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-30T13:42:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUF9ER2UycHlRQTlvRXpoMzRtMWZFX0FfbFFleTVWblZtYS0tcWdJMDg4Y0VRWnlrTktabVlwRzEzbU9lSWVpaEhDM3RPMFZtTmJCYzVZUU5DLW1pa1RlNzlHQ0M1cXlJRjlwOWIxNmE0VWtDZGd0dGE1R1FselpLaU5rZmxUT3V2Z2tINEpVQy1yV0NP"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "30d69731e9a4",
@@ -714,26 +782,6 @@
    "session": "盘前",
    "zh_summary": "中国否认针对英伟达CEO间谍指控",
    "title_zh": "中国否认针对英伟达CEO的间谍行动指控",
-   "sentiment": 0
-  },
-  {
-   "id": "3e3d95a3c2e7",
-   "title": "$英伟达 (NVDA.US)$ 泡沫破裂 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ204Rks0TFR6LVJrUTh3QkJleEx4ZUJ6eWRPRnI0UWVHLW1ycEpPSjNuaVNQNEFQNFhzS1hBXzFXZm1hekl2VHhYOVRIa0otSWE2OUJpeWZwdWJsY1ptZ0FXRlRpNmRpX3A3dHAxRlZCcFZmOHFyS1FyRllvQ1dKMnJfdDhZNXdxY2V1dURpY0dhZ3c",
-   "source": "Moomoo",
-   "published_at": "2026-10-30T12:14:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-30T12:14:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ204Rks0TFR6LVJrUTh3QkJleEx4ZUJ6eWRPRnI0UWVHLW1ycEpPSjNuaVNQNEFQNFhzS1hBXzFXZm1hekl2VHhYOVRIa0otSWE2OUJpeWZwdWJsY1ptZ0FXRlRpNmRpX3A3dHAxRlZCcFZmOHFyS1FyRllvQ1dKMnJfdDhZNXdxY2V1dURpY0dhZ3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达低于万亿",
-   "title_zh": "$英伟达 (NVDA.US)$ 低于 万亿 - Moomoo",
    "sentiment": 0
   },
   {
@@ -6510,66 +6558,6 @@
    "zh_summary": "摩尔线程营收增长18倍实现扭亏",
    "title_zh": "摩尔线程营收暴涨18倍、单季扭亏",
    "sentiment": 0
-  },
-  {
-   "id": "113866d11b54",
-   "title": "How NVIDIA and Pinterest Power Real-Time Visual AI - AI Magazine",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkFzRUxIU3U5WUx5UEVaWHN1ZkpMUm1DT253UDlNSWZXV0FOM3hqcl96NG5fMDBoejBVTTZzYVM2ZFVETkl2NWpBcXlwZGdtdEx3NThYbmNNbGpfS3dzb1JTb1MtcW02ZjVlWDZHV3hQLUJsdTJoSGpqVGZNNFVIZko0aXk",
-   "source": "AI Magazine",
-   "published_at": "2026-10-29T08:40:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "AI Magazine",
-     "published_at": "2026-10-29T08:40:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkFzRUxIU3U5WUx5UEVaWHN1ZkpMUm1DT253UDlNSWZXV0FOM3hqcl96NG5fMDBoejBVTTZzYVM2ZFVETkl2NWpBcXlwZGdtdEx3NThYbmNNbGpfS3dzb1JTb1MtcW02ZjVlWDZHV3hQLUJsdTJoSGpqVGZNNFVIZko0aXk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达与Pinterest赋能实时视觉AI",
-   "title_zh": "英伟达与Pinterest驱动实时视觉AI",
-   "sentiment": 1
-  },
-  {
-   "id": "e300bd41c223",
-   "title": "NVIDIA Corporation $NVDA Stock: Wealth Enhancement Trust Services Inc. Trims Position - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOTliTFgtQ2FmSWhKNGZkUU5PRktsM2hPcUM4LV9wQnllNktRTmU0NG9CeUZIeU5Tai1ndUtBMnVFend1akItNVVtZkpqRnozcUhiMlFDajNlRmdLU3ZkVHdCYTVTMWZmMmczS0lFQ3UzRzlKTG1Pand0Rk5uNW5YdWVkaFhxX0RncmlHU1dibHJfbUUzOGVOM0hoSnFDTGdfaGJTUThZMllWSmxCcDlxemFXei1PV0U3ODI5WFBOU3RWem50b0h6TU5xRDIxcU5xMXVXbElNQTZXem8",
-   "source": "MarketBeat",
-   "published_at": "2026-10-29T08:37:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-29T08:37:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOTliTFgtQ2FmSWhKNGZkUU5PRktsM2hPcUM4LV9wQnllNktRTmU0NG9CeUZIeU5Tai1ndUtBMnVFend1akItNVVtZkpqRnozcUhiMlFDajNlRmdLU3ZkVHdCYTVTMWZmMmczS0lFQ3UzRzlKTG1Pand0Rk5uNW5YdWVkaFhxX0RncmlHU1dibHJfbUUzOGVOM0hoSnFDTGdfaGJTUThZMllWSmxCcDlxemFXei1PV0U3ODI5WFBOU3RWem50b0h6TU5xRDIxcU5xMXVXbElNQTZXem8"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "机构减持英伟达持仓",
-   "title_zh": "Wealth Enhancement减持英伟达股份",
-   "sentiment": -1
-  },
-  {
-   "id": "c0ab71f3383e",
-   "title": "5,550 NVIDIA Corporation $NVDA Shares Bought by S.E.E.D. Planning Group LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTmZLSmw3T1Fua1pySFNyUXZkNzNWZy0xSmlOMTNjT2k1aHJjWmV3WV9UeWdSUEgwcmlZeHpvTXRmUUhfWmlNRXZYbnB1Y0hZaExiV2tKOF9idDZ6eVZHZE5haWE4eEdSS2tmN0cyUmRDMkRSRHFZeTdhVm1MeXJZOWN4QzFwMUp3cmZONWI1VkV0ZnNpWk1keTAzWFFFT1pxWUk1UEI2WkdoZHE0NHY1LTVLakFGWGVZcV9vTW51R2pYQ3pTQkpRS3NB",
-   "source": "MarketBeat",
-   "published_at": "2026-10-29T08:37:54+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-29T08:37:54+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTmZLSmw3T1Fua1pySFNyUXZkNzNWZy0xSmlOMTNjT2k1aHJjWmV3WV9UeWdSUEgwcmlZeHpvTXRmUUhfWmlNRXZYbnB1Y0hZaExiV2tKOF9idDZ6eVZHZE5haWE4eEdSS2tmN0cyUmRDMkRSRHFZeTdhVm1MeXJZOWN4QzFwMUp3cmZONWI1VkV0ZnNpWk1keTAzWFFFT1pxWUk1UEI2WkdoZHE0NHY1LTVLakFGWGVZcV9vTW51R2pYQ3pTQkpRS3NB"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "机构买入5550股英伟达",
-   "title_zh": "S.E.E.D.买入5550股英伟达股票",
-   "sentiment": 1
   }
  ]
 }
