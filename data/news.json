@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T01:36:37.026181+00:00",
+ "updated_at": "2026-10-30T01:51:32.689506+00:00",
  "market": {
   "price": 213.66,
   "change_pct": -0.8,
@@ -10,7 +10,7 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": -0.09,
+   "avg": -0.08,
    "count": 191
   },
   "daily_signal": {
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.09（191条已评分）"
+     "note": "今日新闻情绪 -0.08（191条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 47.4,
    "ma20": 222.93,
-   "as_of": "2026-10-30T01:36:37.016207+00:00"
+   "as_of": "2026-10-30T01:51:32.670145+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "13a9494abde2",
+   "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc",
+   "source": "Reuters",
+   "published_at": "2026-10-30T01:26:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-30T01:26:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "e236cfbfa111",
    "title": "英伟达将于下周完成对Naver的10亿美元投资，成为第三大股东 - 富途牛牛",
@@ -87,12 +104,17 @@
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemdkOTNGSGEwaDdWTkQybldieG0zVzJmWVBobS16QW5FZ0lMMDNlajBaYk9TLW9xNkxYaVhCVy1FNFh2aC0wSmtDUGtLSFZieEpNdnZTYTlUUDhLdkdZcGR3U3hGMDlYQVRHWDVVQ3NsdENVRUxRaDJ4Y2RObXIxMzExMXFhQQ",
    "source": "Yahoo Finance UK",
    "published_at": "2026-10-30T01:17:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo Finance UK",
      "published_at": "2026-10-30T01:17:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemdkOTNGSGEwaDdWTkQybldieG0zVzJmWVBobS16QW5FZ0lMMDNlajBaYk9TLW9xNkxYaVhCVy1FNFh2aC0wSmtDUGtLSFZieEpNdnZTYTlUUDhLdkdZcGR3U3hGMDlYQVRHWDVVQ3NsdENVRUxRaDJ4Y2RObXIxMzExMXFhQQ"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-30T01:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORVBIMExPVnlkbU84WXJrbmk3dmZPMGtGQW4zclpIekNOdDRxTTRMX3FfMGRqZXg0cFNsbWVtUEJjY3J2MjU2RGZ2aFpjVllLN0YzR1c5Z1pUZ09zOHdvLXhLSnMybnZtQV9HTTJPMnE0aWFKT01EaV9jX2NJbmQ4LWdvQlZuUlRsTmZGdU9vRmVxTnoyamxndXh3"
     }
    ],
    "category": "其他",
@@ -3813,26 +3835,6 @@
    "zh_summary": "美国司法部审查英伟达收购Hugging Face",
    "title_zh": "美国司法部调查英伟达收购Hugging Face",
    "sentiment": -2
-  },
-  {
-   "id": "df18b6165e14",
-   "title": "事关算力定价权！英伟达头号梦魇藏在Anthropic招股书中 - 东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qck5nZmxJMHR5WVM5SW45eDFSUFoydU9lNFpsaVYtX2pnZGxDckZCOTlsWnNhcGZSTEF2dDl4aEcwWHRGRm9WWFNTU0tZQ05kNFlmSktyTjNTUTZzSHFpZlk0alNjazA",
-   "source": "东方财富",
-   "published_at": "2026-10-29T07:23:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-29T07:23:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qck5nZmxJMHR5WVM5SW45eDFSUFoydU9lNFpsaVYtX2pnZGxDckZCOTlsWnNhcGZSTEF2dDl4aEcwWHRGRm9WWFNTU0tZQ05kNFlmSktyTjNTUTZzSHFpZlk0alNjazA"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "Anthropic招股书暗藏英伟达定价风险",
-   "title_zh": "事关算力定价权！英伟达头号梦魇藏在Anthropic招股书中 - 东方财富",
-   "sentiment": -1
   },
   {
    "id": "ebf5fdc2a549",
