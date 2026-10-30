@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-29T23:51:39.038783+00:00",
+ "updated_at": "2026-10-30T00:06:32.402592+00:00",
  "market": {
-  "price": 213.66,
-  "change_pct": -0.8,
+  "price": 215.38,
+  "change_pct": -1.17,
   "as_of": "2026-10-29",
   "next_earnings": {
    "date": "2026-11-17",
@@ -20,12 +20,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 65% 分位"
+     "note": "现价处于52周区间 68% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +47.4%"
+     "note": "目标价中位数 $315（17家），隐含空间 +46.3%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.66 vs 20日均线 $222.93"
+     "note": "现价 $215.38 vs 20日均线 $223.79"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 65,
+   "price_52w_pct": 68,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 47.4,
-   "ma20": 222.93,
-   "as_of": "2026-10-29T23:51:39.021582+00:00"
+   "implied_upside_pct": 46.3,
+   "ma20": 223.79,
+   "as_of": "2026-10-30T00:06:32.389670+00:00"
   },
-  "pe_ttm": 27.2,
+  "pe_ttm": 27.4,
   "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+46.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "58b79c28569b",
+   "title": "Nvidia in Talks to Offer Credit Support for Nscale Project - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV3VPajZWRjE1UEJOYTMzTzBiMFA1SFlrUGFsS01rX1Fadmt6c0lUeUhqcGpweGRiTHpGd01vbzR6NFJadnlyb3VnN2V5LS12b05JdGk1UHY2TDhCemV0cGlzaDBXN2RUYnV2ODV1Wkw5RVptdEpoSXNweTc5YldWSkVGZ09INmEyd2pVLXFZeHQ1SzBzWk8tbG1BcGRhT1Y1MDlNNGExblF6eTc5NHc",
+   "source": "Bloomberg.com",
+   "published_at": "2026-10-29T23:59:53+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-10-29T23:59:53+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV3VPajZWRjE1UEJOYTMzTzBiMFA1SFlrUGFsS01rX1Fadmt6c0lUeUhqcGpweGRiTHpGd01vbzR6NFJadnlyb3VnN2V5LS12b05JdGk1UHY2TDhCemV0cGlzaDBXN2RUYnV2ODV1Wkw5RVptdEpoSXNweTc5YldWSkVGZ09INmEyd2pVLXFZeHQ1SzBzWk8tbG1BcGRhT1Y1MDlNNGExblF6eTc5NHc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "f69f1ada05c7",
    "title": "加拿大政府与英伟达等参与Cohere融资 投后估值超200亿美元 - 观点网",
@@ -127,12 +144,17 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf",
    "source": "The Information",
    "published_at": "2026-10-29T22:40:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Information",
      "published_at": "2026-10-29T22:40:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-10-29T22:42:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPZ1J4d04yeUdjaXQ1WWRqT0dWakpuWVdFaGpsblk2MVp0dmdJZnJFaUNCRC03Z0lLeklFNFVjYzdRQkw3Y3NMZERUOTVIQVBkNlpUYzM1MnBlekxTYWF0cGREUWdkVjhrWWhaQlFLMV9nSkdGaWZ6Y1pxajd0cmVDQ0p0QkpkQWtFOUV1RDJNd3JvRXM3U1l3REthQ0lhakZyalFiU0ZmQmpGRFg0SmR5eDhBUVZ3S1gyaWkwOTJjZzZhQXh2NHBiNlIwdWxKMGY0aFZRdnROXzFWeFl1VUN6YURFckxDa2JBZmxRekVoaW80LXZfX09OUnFESXg5Y1dwcE5IMUFjbEo5UGZscG4zaHUzREhNWTA"
     }
    ],
    "category": "AI需求",
@@ -342,12 +364,17 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVBVeHNmOEF1ekpMRU1DV0Y1cFlJZFJzVV8yWXk1Y0h1VTQ0TUVIVnpaTnptMEVYVGpDVWo0cG5qY3FJSXNYUzRoT2RncE45MjdsbVhIdm9xRTlxV2ZZMi14eDhsSHc1eVBQdFFEckNfOWVSdmJLdzJFQkt1RnFFRS1pUmFQZDRZODJ4V0d3M1d0NTBJQWo4",
    "source": "The Times",
    "published_at": "2026-10-29T20:34:18+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Times",
      "published_at": "2026-10-29T20:34:18+00:00",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVBVeHNmOEF1ekpMRU1DV0Y1cFlJZFJzVV8yWXk1Y0h1VTQ0TUVIVnpaTnptMEVYVGpDVWo0cG5qY3FJSXNYUzRoT2RncE45MjdsbVhIdm9xRTlxV2ZZMi14eDhsSHc1eVBQdFFEckNfOWVSdmJLdzJFQkt1RnFFRS1pUmFQZDRZODJ4V0d3M1d0NTBJQWo4"
+    },
+    {
+     "name": "SiliconANGLE",
+     "published_at": "2026-10-29T23:53:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenpMaHZQNGhHQkd3bC1IVzNsOHg4MFVLN1d2UXNXZTFHWllvZWk4RG5MYzFCMGRFaUF2TG1nV3p3V0VrTWRlYmFZTFB2bHJCR0tNaVVSS3FoNzVFcElITkgyZjQ5RDRNNlRIMUxZb2w4RFNFemVIWmRNcmRnLTU5c1BiNVh4QWdWTlF3bU45MUY0SDc0aWg5WlQ0Y1VjQQ"
     }
    ],
    "category": "其他",
@@ -6615,26 +6642,6 @@
     "pct": -0.22,
     "window_h": 2.0
    }
-  },
-  {
-   "id": "25887af7295d",
-   "title": "Buy 10 Shares of Nvidia Today? Here’s What Different 2030 Scenarios Could Look Like - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUR6RDFYc3VSb0h3U1ZFQXZCM01lN2w4enRTVGFuekVwT1NneHhxR0tGZHJSeUk1bTVwckZxQlBTU3hYcDdUY28wOVBzekd6Z0Qtby0xbXM4STBjdzJQTUFFaTBJZ3JrS3JKbmV1OVJOZEdCU0pDUkpMLUhyVnZBWkllUERMTzUwenlUMm5CLUp0RHZ3SWU5OGxPZmJiRmJQLThNbUpkeTBhYVlESW5HZzZtZlF5TWt2UHo0Y0tJX2pQR00",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-28T15:03:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-28T15:03:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUR6RDFYc3VSb0h3U1ZFQXZCM01lN2w4enRTVGFuekVwT1NneHhxR0tGZHJSeUk1bTVwckZxQlBTU3hYcDdUY28wOVBzekd6Z0Qtby0xbXM4STBjdzJQTUFFaTBJZ3JrS3JKbmV1OVJOZEdCU0pDUkpMLUhyVnZBWkllUERMTzUwenlUMm5CLUp0RHZ3SWU5OGxPZmJiRmJQLThNbUpkeTBhYVlESW5HZzZtZlF5TWt2UHo0Y0tJX2pQR00"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "分析2030年不同情景下英伟达前景",
-   "title_zh": "现在买10股英伟达？2030年不同情景展望",
-   "sentiment": 0
   }
  ]
 }
