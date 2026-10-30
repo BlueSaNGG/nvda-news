@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T03:06:35.512515+00:00",
+ "updated_at": "2026-10-30T03:21:32.168198+00:00",
  "market": {
   "price": 213.66,
   "change_pct": -0.8,
@@ -10,8 +10,8 @@
    "days_left": 19
   },
   "day_sentiment": {
-   "avg": -0.08,
-   "count": 204
+   "avg": -0.07,
+   "count": 206
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.08（204条已评分）"
+     "note": "今日新闻情绪 -0.07（206条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 47.4,
    "ma20": 222.93,
-   "as_of": "2026-10-30T03:06:35.499368+00:00"
+   "as_of": "2026-10-30T03:21:32.151502+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -62,17 +62,39 @@
  },
  "stories": [
   {
+   "id": "bafa0a61304a",
+   "title": "Nvidia Shares Fall 1.64% After Hours - NVIDIA (NASDAQ:NVDA) - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWVpbFJGbFhqTmVpR2hCZHIxaHNZaVo2b1M1Uy00QlJIZndXLWowM2NWR2JGcDJxU0g3ZFBlSE9YZW5ZQzNFdEdlellsS0ZmYVNjM0liRkF3cEo0ODJJb3JmRWdMcDY2cEhWak5xcHY2eG1zb0dsOVp2VENmQXVrUXpVeERPeHpRZjlMTm5zLVd6ejlaS3JkdmlvVUxtSm1PMGlFS0w4U2RXOUpmSHR3RQ",
+   "source": "Benzinga",
+   "published_at": "2026-10-30T03:11:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-10-30T03:11:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWVpbFJGbFhqTmVpR2hCZHIxaHNZaVo2b1M1Uy00QlJIZndXLWowM2NWR2JGcDJxU0g3ZFBlSE9YZW5ZQzNFdEdlellsS0ZmYVNjM0liRkF3cEo0ODJJb3JmRWdMcDY2cEhWak5xcHY2eG1zb0dsOVp2VENmQXVrUXpVeERPeHpRZjlMTm5zLVd6ejlaS3JkdmlvVUxtSm1PMGlFS0w4U2RXOUpmSHR3RQ"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘后"
+  },
+  {
    "id": "78aeaef348d8",
    "title": "ASML vs. Nvidia: Who Really Captures the AI Chip Boom? - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGltbXc1aTdfR0pWSUIzSUsxUDgyZE9ubHkwQUdpOEd4aHcySkFfNW43ZDdMMkV5a1ZIZVFjYzRKQmx2TmFuNUZ2T2tVdGRmWjJqbmpXZEh5S1ZsOTNvMElTUUpZV0lsWkRFaTZ4R1JzQ2F2ODBIMGNabG5nMTNQYUVXX2szUXYxMU50NTQyb2hYR3RzOTBMeFk1ejNpaDdiWWc",
    "source": "The Motley Fool",
    "published_at": "2026-10-30T02:27:20+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-10-30T02:27:20+00:00",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGltbXc1aTdfR0pWSUIzSUsxUDgyZE9ubHkwQUdpOEd4aHcySkFfNW43ZDdMMkV5a1ZIZVFjYzRKQmx2TmFuNUZ2T2tVdGRmWjJqbmpXZEh5S1ZsOTNvMElTUUpZV0lsWkRFaTZ4R1JzQ2F2ODBIMGNabG5nMTNQYUVXX2szUXYxMU50NTQyb2hYR3RzOTBMeFk1ejNpaDdiWWc"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-30T02:43:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaUp3QXQ3UXV1ajBwM0lxSDdTbGdURjN0WURtcm94RFBsX0gzSU9lM1BwcWNybjhDdHdvU2I0Y0EwcWlyTHpNUlVhX3J3WEVtUE0zSVdGem1iNDVmcjUyemZHYVhJM0Z0M2JzblFnX3JhOHVsckwyLTlFcVB6SFZBeElfNnVyajVLODhHM1ZJNHBaNzhQWk5tZXln"
     }
    ],
    "category": "产品技术",
@@ -6633,26 +6655,6 @@
    "zh_summary": "Nemotron 3.5转录模型上线两大平台",
    "title_zh": "Nemotron 3.5转录模型登陆Hugging Face等平台",
    "sentiment": 1
-  },
-  {
-   "id": "e0dd9a445d1f",
-   "title": "Google's AI chip business is getting harder for Nvidia to ignore - Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnlfNWZHWG1qTGlIS3RYdFpDRXAySTlOeTRrakdlTm1iT2twOU9BcTJCSzE5YjA1c1EwRzBsQ1UtSjBDN2xndHBvT3hHWmgyb1c4SEVDdXJHV21XdHdNdmZheV9jcFNpdElidGJDWndjak5jMVhlV2NoY1NSY1VaVER1OHd5ekFJVHNYcVpRU1VTZWFpMkxTWnpIaHQwQUlkU3hsQ0JnYjg4QQ",
-   "source": "Business Insider",
-   "published_at": "2026-10-28T16:31:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Business Insider",
-     "published_at": "2026-10-28T16:31:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnlfNWZHWG1qTGlIS3RYdFpDRXAySTlOeTRrakdlTm1iT2twOU9BcTJCSzE5YjA1c1EwRzBsQ1UtSjBDN2xndHBvT3hHWmgyb1c4SEVDdXJHV21XdHdNdmZheV9jcFNpdElidGJDWndjak5jMVhlV2NoY1NSY1VaVER1OHd5ekFJVHNYcVpRU1VTZWFpMkxTWnpIaHQwQUlkU3hsQ0JnYjg4QQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "谷歌AI芯片业务对英伟达构成挑战",
-   "title_zh": "谷歌AI芯片业务日益令英伟达无法忽视",
-   "sentiment": -1
   }
  ]
 }
