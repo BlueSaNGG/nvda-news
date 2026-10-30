@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T07:06:30.364698+00:00",
+ "updated_at": "2026-10-30T07:21:30.493185+00:00",
  "market": {
   "price": 213.66,
   "change_pct": -0.8,
@@ -10,8 +10,8 @@
    "days_left": 18
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 9
+   "avg": 0.09,
+   "count": 11
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（9条已评分）"
+     "note": "今日新闻情绪 +0.09（11条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 47.4,
    "ma20": 222.93,
-   "as_of": "2026-10-30T07:06:30.352914+00:00"
+   "as_of": "2026-10-30T07:21:30.483843+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "fa473c65cc9e",
+   "title": "NVIDIA Corporation $NVDA Stock: Ayalon Insurance Comp Ltd. Grows Position - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjFNMGNOcnJaX09VVlkyMHdfZUxObnVvZHVfTVB6NGpteHJqbXgzcEJwQ3E5akFnNDRGUTZnMUJUNm1jNHRMb1pvQWJpUXhhRXFDekhHV2lGOWNWR1pLZGRULTZoWDZlYi1BMnNENXk0a3hMbGNMNGhxemo0U3dDT0s1Skx6endzNlprV055MG5SbUdHX1FRWEtkZmF3SFZ1TXM4NXZzcG02THFwSkdOQUUwenBXY3YxSm4zdTkxMHZrZW8tM05vNVd1Yw",
+   "source": "MarketBeat",
+   "published_at": "2026-10-30T07:07:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-30T07:07:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjFNMGNOcnJaX09VVlkyMHdfZUxObnVvZHVfTVB6NGpteHJqbXgzcEJwQ3E5akFnNDRGUTZnMUJUNm1jNHRMb1pvQWJpUXhhRXFDekhHV2lGOWNWR1pLZGRULTZoWDZlYi1BMnNENXk0a3hMbGNMNGhxemo0U3dDT0s1Skx6endzNlprV055MG5SbUdHX1FRWEtkZmF3SFZ1TXM4NXZzcG02THFwSkdOQUUwenBXY3YxSm4zdTkxMHZrZW8tM05vNVd1Yw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "b17358445edb",
    "title": "Nvidia Nscale Credit Support: $45B Anthropic Deal [2026] - shattered.io",
@@ -4489,26 +4506,6 @@
    "sentiment": 1
   },
   {
-   "id": "0de1d31f2e18",
-   "title": "开源！英伟达GPU隐藏算力被破解，RTX 4090 吞吐直接翻倍 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1",
-   "source": "搜狐网",
-   "published_at": "2026-10-29T07:35:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-29T07:35:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "RTX 4090吞吐翻倍，英伟达GPU算力被破解",
-   "title_zh": "开源！英伟达GPU隐藏算力被破解，RTX 4090 吞吐直接翻倍",
-   "sentiment": 0
-  },
-  {
    "id": "05d53a1f9711",
    "title": "英伟达回应Vera Rubin平台规格变更：新版为量产规格，第三方跑分均是按量产版测的 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTFPelZleUFSbTNITXphajNuM0Q3LVRKSFgxWUtZTEF3ZnVKWGJ0cy0zd2htRE52bXUzRWtlU1F1d292NzdBWGJHZ1UzV2tVRWdvM0twNHZjc0dRUU5UY2NlbkJ4RzRNcWdXMXgzQkFQMXAyVVRsLWFIbHlQMjI1eG5vczgzdWRI",
@@ -6154,6 +6151,23 @@
    "sentiment": 1
   },
   {
+   "id": "e468d697aee5",
+   "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUMwY0xlTmlOWWZEMEZ1MjQ0YnY3eG1WV1k5T1pqOWkwTXFZTmk0c21wTVFibmpXaFdWRElJNVVOX1lyeGxITWpHQ2hBbVpvS1NQRmUxZlZaRVNiZWNfb25TWXAyWXl5Zm1zV3VuemEwNGppdlE5UURRVTA1ZDZmcWY3cFAxUWtMMWtlejRSZTB3QW9wWXRpNNIBngFBVV95cUxQUUg3OVpUN1J0S0pUY05lVXRETERQeFJua0pFSjlHd0Y0V3JkVWNOTTVlc2pIZHRIcUxFbDZYOVhIamNhaGtjbkpTUXo0MXlFVjl5Z0tzRFQyNVdDZjhPZEpySW5aaWh2OXJza1lIQldNM0poSlF6SzBnU2MwUWlVaG0wZ0dsV1F1NVpXRC05N2gxZG5RRGF5MkVwem1mQQ",
+   "source": "CNBC",
+   "published_at": "2026-10-28T20:13:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-10-28T20:13:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUMwY0xlTmlOWWZEMEZ1MjQ0YnY3eG1WV1k5T1pqOWkwTXFZTmk0c21wTVFibmpXaFdWRElJNVVOX1lyeGxITWpHQ2hBbVpvS1NQRmUxZlZaRVNiZWNfb25TWXAyWXl5Zm1zV3VuemEwNGppdlE5UURRVTA1ZDZmcWY3cFAxUWtMMWtlejRSZTB3QW9wWXRpNNIBngFBVV95cUxQUUg3OVpUN1J0S0pUY05lVXRETERQeFJua0pFSjlHd0Y0V3JkVWNOTTVlc2pIZHRIcUxFbDZYOVhIamNhaGtjbkpTUXo0MXlFVjl5Z0tzRFQyNVdDZjhPZEpySW5aaWh2OXJza1lIQldNM0poSlF6SzBnU2MwUWlVaG0wZ0dsV1F1NVpXRC05N2gxZG5RRGF5MkVwem1mQQ"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘后"
+  },
+  {
    "id": "94a37d2b1163",
    "title": "The DOJ is reportedly looking into Nvidia’s Hugging Face acquisition. - The Verge",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM0RYQWd3V3l0NV9tU19QVWdGWkxpVHV6dTJBaTJuZmJJblhBaUhIVG1QSnNJeVNpRnl6TmNwN1pDSGgwVW5YZnk4eU1oNDJmNGtLNmI1Y290NEFtOGtpRmcxVm85S0hwanBmODFrcmladXZaNHd3WWplSXU1VGJWOEo4NWMtMkRyc2l6T0tCVnNRMGhNSFc2bm8xYzJaRWo3Q0dFWGJPLUc",
@@ -6463,7 +6477,7 @@
    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPQTFSOFVuNjZYVDlhcXVPOHdZaHJxa0ItQTNoMnpGQ1dCNjd3Vk9pSHFZSWd3UTdkTGszcEQwZXVmMHg3ejRwOHFhU0JGQzJlMHo1TFM5NUV5MGhsRzE3eEJtT2xGQ1ZlcHJuNlF0V3VGckJkUV9wREdpV3UwdGt1enV4VDMwX1RvYlBQa2s3VHZJaUEwS25Oal9wRGdKQ3hCT1kwbGt0RllzTThOMDF6Q3NJQ1RDT21DaUxra1ZDOU9WVF9wYmR2SE5GVnMtUW5oLTZzVERVeGhibm9Dd3QtcWY0ZWpXZVZDUzZ5MFhSZXU1VHA4OFlIeXUtaG9nUnpYSFAzUVlVc1U1czBvRDBsNnoxSGljaXExNWNfUXRB",
    "source": "新浪财经",
    "published_at": "2026-10-28T19:28:21+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "新浪财经",
@@ -6474,13 +6488,22 @@
      "name": "手机新浪网",
      "published_at": "2026-10-29T06:35:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzc3k4THI4NGFoenJfdXRjVlVwOUUySmdmQmh4TmVmTm9DbDBrRF8xdUhmQmw5Z2diMTUyLWVKcUNCQXJXTUszU3lxN0xNTXFxT19vOTZlUU9JbE9ydmN6WHFHZFA4cGQ3WEVqeHVuUGJjSVEzWWkyQkY1RlhIZw"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-29T00:30:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RekVIVjB2b2ZLSThXRFR6eXpXOGk2ZnVxZ3FwOGVUWTVoSjVwdVdGNnNtQ2x4emFFM1ZScUpieE9aZ0otS1o2REFZMEw"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "美司法部问询英伟达收购Hugging Face",
    "title_zh": "美国司法部就英伟达收购Hugging Face展开问询",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": 0.32,
+    "window_h": 0.4
+   }
   },
   {
    "id": "7b1ec278157d",
@@ -6546,31 +6569,6 @@
     "pct": -0.08,
     "window_h": 0.8
    }
-  },
-  {
-   "id": "10590e55729c",
-   "title": "DOJ Probes Nvidia's Hugging Face Deal Over AI Competition - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ29yNUZyb0pZU1paVXVLODMtSVc3eldlWUExUkRUOU5vX19vQ29tZTNoVkNlWVdKZ2dYcWJiT2czZnVFY1VuUXE5blhaeHNCcy1yWklDbk5YLW5MY0t1bmh2a1EzYjRyekljRnBPY05MbkJTLWRMbTRUTk9iZzRicnRPbUxLRGNwR1hJZHVMZ19ESnhEYVA4MlpyRm5ab2RWT3RwN0RyQ1BKcUU0M25V",
-   "source": "marketscreener.com",
-   "published_at": "2026-10-28T19:08:21+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "marketscreener.com",
-     "published_at": "2026-10-28T19:08:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ29yNUZyb0pZU1paVXVLODMtSVc3eldlWUExUkRUOU5vX19vQ29tZTNoVkNlWVdKZ2dYcWJiT2czZnVFY1VuUXE5blhaeHNCcy1yWklDbk5YLW5MY0t1bmh2a1EzYjRyekljRnBPY05MbkJTLWRMbTRUTk9iZzRicnRPbUxLRGNwR1hJZHVMZ19ESnhEYVA4MlpyRm5ab2RWT3RwN0RyQ1BKcUU0M25V"
-    },
-    {
-     "name": "PYMNTS.com",
-     "published_at": "2026-10-29T01:44:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczFZZW50RHVEYkwxX01FempLWWRSM3RFQ0x5a1lNMlFzUVJLT3p1NnB3N1hVU2FqQlFBWXlTMWwwbzUtNnNyS29vajZRM2FSQ25UZGUxQ1Z4NS1jOFAtQWhyY2RQb3hOeDNReERzS0hSXzU2Y0xqa2pNYVFMY2FSMHZFTDdFSHVmZlAyYThVTE42LUNKLW1pLUc0RnJGQW4yN3c"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘中",
-   "zh_summary": "美司法部调查英伟达Hugging Face交易",
-   "title_zh": "美司法部就AI竞争调查英伟达Hugging Face交易",
-   "sentiment": -2
   }
  ]
 }
