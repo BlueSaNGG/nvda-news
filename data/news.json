@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T15:21:40.088131+00:00",
+ "updated_at": "2026-10-30T15:36:33.802899+00:00",
  "market": {
-  "price": 206.34,
-  "change_pct": -3.43,
+  "price": 205.99,
+  "change_pct": -3.59,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 18
   },
   "day_sentiment": {
-   "avg": 0.05,
-   "count": 110
+   "avg": 0.04,
+   "count": 114
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 56% 分位"
+     "note": "现价处于52周区间 55% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +52.7%"
+     "note": "目标价中位数 $315（17家），隐含空间 +52.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（110条已评分）"
+     "note": "今日新闻情绪 +0.04（114条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $206.34 vs 20日均线 $221.54"
+     "note": "现价 $205.99 vs 20日均线 $221.53"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 56,
+   "price_52w_pct": 55,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 52.7,
-   "ma20": 221.54,
-   "as_of": "2026-10-30T15:21:40.077582+00:00"
+   "implied_upside_pct": 52.9,
+   "ma20": 221.53,
+   "as_of": "2026-10-30T15:36:33.787343+00:00"
   },
   "pe_ttm": 26.2,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "efa57ba47e2d",
+   "title": "NVIDIA Reportedly Moves Up RTX 5080 24 GB Launch - TechPowerUp",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1YtZXZvd19SV3BsQW8zTksxQjI4UFhsUW9IWWUwbGJJdXpjSFFWVTVVdVU1VzNlUmkyUmZuem1HMjg3THlVWm9zMmJNT1ZSSG11NC1fQk5hcDlWVW00MHVvLUN0N0Zzd1BNUDNPYi15MXJfMWFuN242OXIya29wS25vdVZmdnh4SDJR0gGQAUFVX3lxTE9DSE0tblRpajh1Z3g3anZrX3FVM3Vyb2d5TkhSTHFfN3hqU2tsTEIwdlVtWXluYnhJSWpGLXo2THhyd0VmeVVXeFRwaE1fcTktRU1uaS1VSzhUVGE1d1ZZTHRRRUYxa0ZaWU1RN0dVSExXaUFrQWc3VDVPS1pMT3c0NjdxLTNYb0xPRWM5UlVSWg",
+   "source": "TechPowerUp",
+   "published_at": "2026-10-30T15:28:42+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-10-30T15:28:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1YtZXZvd19SV3BsQW8zTksxQjI4UFhsUW9IWWUwbGJJdXpjSFFWVTVVdVU1VzNlUmkyUmZuem1HMjg3THlVWm9zMmJNT1ZSSG11NC1fQk5hcDlWVW00MHVvLUN0N0Zzd1BNUDNPYi15MXJfMWFuN242OXIya29wS25vdVZmdnh4SDJR0gGQAUFVX3lxTE9DSE0tblRpajh1Z3g3anZrX3FVM3Vyb2d5TkhSTHFfN3hqU2tsTEIwdlVtWXluYnhJSWpGLXo2THhyd0VmeVVXeFRwaE1fcTktRU1uaS1VSzhUVGE1d1ZZTHRRRUYxa0ZaWU1RN0dVSExXaUFrQWc3VDVPS1pMT3c0NjdxLTNYb0xPRWM5UlVSWg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "9b7b32aa8b75",
    "title": "This Little-Known ETF Owns QQQ’s Stocks Without the Big Bet on Nvidia - 24/7 Wall St.",
@@ -389,26 +406,6 @@
    "session": "盘中",
    "zh_summary": "英伟达10月30日开盘下跌3.37%",
    "title_zh": "英伟达10月30日开盘下跌3.37%，全面分析",
-   "sentiment": -1
-  },
-  {
-   "id": "36288ffb181a",
-   "title": "$英伟达 (NVDA.US)$ 低于 万亿 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUF9ER2UycHlRQTlvRXpoMzRtMWZFX0FfbFFleTVWblZtYS0tcWdJMDg4Y0VRWnlrTktabVlwRzEzbU9lSWVpaEhDM3RPMFZtTmJCYzVZUU5DLW1pa1RlNzlHQ0M1cXlJRjlwOWIxNmE0VWtDZGd0dGE1R1FselpLaU5rZmxUT3V2Z2tINEpVQy1yV0NP",
-   "source": "Moomoo",
-   "published_at": "2026-10-30T13:42:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-30T13:42:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUF9ER2UycHlRQTlvRXpoMzRtMWZFX0FfbFFleTVWblZtYS0tcWdJMDg4Y0VRWnlrTktabVlwRzEzbU9lSWVpaEhDM3RPMFZtTmJCYzVZUU5DLW1pa1RlNzlHQ0M1cXlJRjlwOWIxNmE0VWtDZGd0dGE1R1FselpLaU5rZmxUT3V2Z2tINEpVQy1yV0NP"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达低于万亿",
-   "title_zh": "$英伟达 (NVDA.US)$ 低于 万亿",
    "sentiment": -1
   },
   {
@@ -797,6 +794,26 @@
    "sentiment": 0
   },
   {
+   "id": "3e3d95a3c2e7",
+   "title": "$英伟达 (NVDA.US)$ 泡沫破裂 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ204Rks0TFR6LVJrUTh3QkJleEx4ZUJ6eWRPRnI0UWVHLW1ycEpPSjNuaVNQNEFQNFhzS1hBXzFXZm1hekl2VHhYOVRIa0otSWE2OUJpeWZwdWJsY1ptZ0FXRlRpNmRpX3A3dHAxRlZCcFZmOHFyS1FyRllvQ1dKMnJfdDhZNXdxY2V1dURpY0dhZ3c",
+   "source": "Moomoo",
+   "published_at": "2026-10-30T12:14:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-30T12:14:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ204Rks0TFR6LVJrUTh3QkJleEx4ZUJ6eWRPRnI0UWVHLW1ycEpPSjNuaVNQNEFQNFhzS1hBXzFXZm1hekl2VHhYOVRIa0otSWE2OUJpeWZwdWJsY1ptZ0FXRlRpNmRpX3A3dHAxRlZCcFZmOHFyS1FyRllvQ1dKMnJfdDhZNXdxY2V1dURpY0dhZ3c"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "英伟达低于万亿",
+   "title_zh": "$英伟达 (NVDA.US)$ 低于 万亿",
+   "sentiment": -1
+  },
+  {
    "id": "dd0f026f5d9c",
    "title": "China rejects report of spy plot targeting Nvidia's Jensen Huang - Euronews.com",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm9jU3N3bE9BVWhsaWxTX19BaXk4TXpwWHhXRTExWTZRU2tnVllyLTUydHdLNjN1bTlBQmJZaG5mSDI1VjNqWXB3TF9fZ3RvNmFacXdSNmszcUVsa0J2bmwtczZyQmltSlRYVnZWYlpySlM5X28xSW0tcU1rWHBYZy1ybWczQi1GTThxdTN0U2hiLVZKekJFRTdMdU5wSnFH",
@@ -815,6 +832,23 @@
    "zh_summary": "中国否认针对黄仁勋间谍阴谋报道",
    "title_zh": "中国否认针对英伟达黄仁勋的间谍阴谋报道",
    "sentiment": 0
+  },
+  {
+   "id": "522baecadf83",
+   "title": "GeForce RTX 5080 disappears from NVIDIA's official US Marketplace, following RTX 5090 removal - VideoCardz.com",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUklubV9jXzRvYUZWT3lRT2Qtei14M1BQN1IxemFRaVFrY0NDZ1hmalRfZzlwN3Z5bWJYaTQyRmRHSlhpMWhGemRUM3ZMX3pmVnhhcjljNkplTk9iTU9pTW1WS2N0ZFF0enNFdlV0X01Gbm5RdE55S1d6SVhucTJYQ0V3aHJnbnIxZWhnR2VQZl91ZzBkcUZFemkybVk3bVdTMl9UOTNHMUpfcGNNOW56UXdsM3QwMGwtZ1FN",
+   "source": "VideoCardz.com",
+   "published_at": "2026-10-30T12:14:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "VideoCardz.com",
+     "published_at": "2026-10-30T12:14:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUklubV9jXzRvYUZWT3lRT2Qtei14M1BQN1IxemFRaVFrY0NDZ1hmalRfZzlwN3Z5bWJYaTQyRmRHSlhpMWhGemRUM3ZMX3pmVnhhcjljNkplTk9iTU9pTW1WS2N0ZFF0enNFdlV0X01Gbm5RdE55S1d6SVhucTJYQ0V3aHJnbnIxZWhnR2VQZl91ZzBkcUZFemkybVk3bVdTMl9UOTNHMUpfcGNNOW56UXdsM3QwMGwtZ1FN"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "5ea8615405a5",
@@ -3181,12 +3215,17 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5ZlllZUJsRlFibVhaVm9mT0p4M2xGTnEySWhhRF81Z2NpblZ0a3daVENiVjREekVKLTZvWFN0eTNRTjlTeXc2VjE4YzhfYnc",
    "source": "金十数据",
    "published_at": "2026-10-29T22:42:21+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "金十数据",
      "published_at": "2026-10-29T22:42:21+00:00",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5ZlllZUJsRlFibVhaVm9mT0p4M2xGTnEySWhhRF81Z2NpblZ0a3daVENiVjREekVKLTZvWFN0eTNRTjlTeXc2VjE4YzhfYnc"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-30T15:34:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREhodlRXSlNnS3JZbmNLZE9SUm9mY2JuSVd2OUV6dnpFelBKQ244Q08tOHBTU3BBYlhlQVVUX2dCMjdYTmZydXozcFZmNTRlbHBnQnQ2WllJNTlPRllmNkdvdTRvVGhrbnJMMjhLSEZRWngxTHpWS0MxMks4T09tNEJ3NngzeG1POE91UXIxMk9rdlU5ZG5LN1ZXR0ZkTjZlRDd4QUwyX2kzM1lQelNZ"
     }
    ],
    "category": "其他",
@@ -6530,46 +6569,6 @@
     "pct": -0.16,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "e8678fb3f917",
-   "title": "Supermicro introduces the NVIDIA Vera CPU Rack, a 256 CPU, 100% liquid-cooled rack-scale solution, complementing the NVIDIA Vera Rubin Platform, for Agentic AI at Scale - Cyprus Shipping News",
-   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdHRORDJnNUJEbWthN3RScXJIb0xQQk1GUnlfeWQycm5sSlpsX015azZyekd0X0lueDBBc3ZmS2dXNVctN1pJWGNYc0NDNlNhYkFEdDVvQXlsTDRldjMxbDlIWW5JR1p2dVBaLUtXVmg3S1RhUGRiWmVIZ3huRU82YlhZUndRY3dRMW00Z0FzdGpCR0VQTE1lN2JLR3dwUlNOTzJQWnYybGhMMWNQMWFjZ0p1U1dfRnp3b3NMeWdTWW9RMTNhVFpYZFM4aklGR1drU1Z2cFpncUhiOGZWeUExUGk0Ykx2SnVZbVhFZmtPTXp2OXVUUzFIUU9KMko5eDVXRnJsOUdpbjN6d3dQYXVDQ0I3VC1may0weVZxR1BsbXUxbW10ZTR4MXRuTU9DRW8",
-   "source": "Cyprus Shipping News",
-   "published_at": "2026-10-29T08:48:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Cyprus Shipping News",
-     "published_at": "2026-10-29T08:48:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdHRORDJnNUJEbWthN3RScXJIb0xQQk1GUnlfeWQycm5sSlpsX015azZyekd0X0lueDBBc3ZmS2dXNVctN1pJWGNYc0NDNlNhYkFEdDVvQXlsTDRldjMxbDlIWW5JR1p2dVBaLUtXVmg3S1RhUGRiWmVIZ3huRU82YlhZUndRY3dRMW00Z0FzdGpCR0VQTE1lN2JLR3dwUlNOTzJQWnYybGhMMWNQMWFjZ0p1U1dfRnp3b3NMeWdTWW9RMTNhVFpYZFM4aklGR1drU1Z2cFpncUhiOGZWeUExUGk0Ykx2SnVZbVhFZmtPTXp2OXVUUzFIUU9KMko5eDVXRnJsOUdpbjN6d3dQYXVDQ0I3VC1may0weVZxR1BsbXUxbW10ZTR4MXRuTU9DRW8"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "超微推出英伟达Vera CPU机架",
-   "title_zh": "超微推出英伟达Vera CPU机架，全液冷256核方案",
-   "sentiment": 1
-  },
-  {
-   "id": "d2bea46b8cb5",
-   "title": "营收暴涨18倍、单季扭亏，摩尔线程“国产英伟达”的故事讲到哪一步了？ - 36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81bDl4TE9yRFQ4TmpNZ1BXWFk3bk00OW9KNGVlYlBDUjVDN0tPSnJtblI3U0ZIemppUUdFdXhPbG5XUmNkUzY0UXhxT21Pa0k",
-   "source": "36Kr",
-   "published_at": "2026-10-29T08:47:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "36Kr",
-     "published_at": "2026-10-29T08:47:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81bDl4TE9yRFQ4TmpNZ1BXWFk3bk00OW9KNGVlYlBDUjVDN0tPSnJtblI3U0ZIemppUUdFdXhPbG5XUmNkUzY0UXhxT21Pa0k"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "摩尔线程营收增长18倍实现扭亏",
-   "title_zh": "摩尔线程营收暴涨18倍、单季扭亏",
-   "sentiment": 0
   }
  ]
 }
