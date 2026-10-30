@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T14:36:29.806013+00:00",
+ "updated_at": "2026-10-30T14:51:33.075010+00:00",
  "market": {
-  "price": 206.49,
-  "change_pct": -3.36,
+  "price": 206.85,
+  "change_pct": -3.19,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 18
   },
   "day_sentiment": {
-   "avg": 0.09,
-   "count": 101
+   "avg": 0.07,
+   "count": 107
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +52.5%"
+     "note": "目标价中位数 $315（17家），隐含空间 +52.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.09（101条已评分）"
+     "note": "今日新闻情绪 +0.07（107条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $206.49 vs 20日均线 $221.55"
+     "note": "现价 $206.85 vs 20日均线 $221.57"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 56,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 52.5,
-   "ma20": 221.55,
-   "as_of": "2026-10-30T14:36:29.796374+00:00"
+   "implied_upside_pct": 52.3,
+   "ma20": 221.57,
+   "as_of": "2026-10-30T14:51:33.063387+00:00"
   },
-  "pe_ttm": 26.2,
+  "pe_ttm": 26.3,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.5%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "10abe75f9b51",
+   "title": "RTX 5080 Appears to Have Been Discontinued, as Prices Hit $2,000 and it Disappears From Nvidia's Store - IGN",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTzgyZ0tYSWxyWFpGTU5YZGtfMnNDMFBKU0FDVU5BU3JQZHlRX0paMll2VERYZUwtcTJmdi1ORV8wc3JkWldOSV9MV3dhS1VDc2lhbXlVVjQ0aG9HX241Qk9HX1dMQ0hNdWJtdWtFR09aQ1lrdDVtbjl2Q014OXR2ZjJXbUtYc1lCM09LNTNSa2lVdw",
+   "source": "IGN",
+   "published_at": "2026-10-30T14:47:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "IGN",
+     "published_at": "2026-10-30T14:47:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTzgyZ0tYSWxyWFpGTU5YZGtfMnNDMFBKU0FDVU5BU3JQZHlRX0paMll2VERYZUwtcTJmdi1ORV8wc3JkWldOSV9MV3dhS1VDc2lhbXlVVjQ0aG9HX241Qk9HX1dMQ0hNdWJtdWtFR09aQ1lrdDVtbjl2Q014OXR2ZjJXbUtYc1lCM09LNTNSa2lVdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "bdcdbc44b939",
+   "title": "RTX MIA? RTX 5080 Disappears from Nvidia’s US Marketplace - OC3D",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGRhaWJ0ZU4wVVNhR2xzb0I0cEpnM1RjaHZvSF94TV9BMU5yZFNENUgtRy1SaWM5ODU2VHJ4MElwSU1tV2o3ZWl3ZF9tdjg0cHRjR19YOGFQX0dseEVPUjhpWl9GZS1hQ0dCU3R4eFNFRVhvSC1EeVRjS25iQXBwa0ZlbGNPYnpVT2ZYdlVaVHV4RWJTZWhVM3BDZGZKWjg",
+   "source": "OC3D",
+   "published_at": "2026-10-30T14:43:36+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "OC3D",
+     "published_at": "2026-10-30T14:43:36+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGRhaWJ0ZU4wVVNhR2xzb0I0cEpnM1RjaHZvSF94TV9BMU5yZFNENUgtRy1SaWM5ODU2VHJ4MElwSU1tV2o3ZWl3ZF9tdjg0cHRjR19YOGFQX0dseEVPUjhpWl9GZS1hQ0dCU3R4eFNFRVhvSC1EeVRjS25iQXBwa0ZlbGNPYnpVT2ZYdlVaVHV4RWJTZWhVM3BDZGZKWjg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "593e450a96e6",
    "title": "AMD Is Chasing Nvidia in AI, but Investors Could Win Either Way - 24/7 Wall St.",
@@ -87,12 +121,17 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUU2cGstT1FNbHpBb09nZVJ3a0xSMmNENmhCMWJnMFh6MXI2Nkhld2ZSWU5uM2Rmd3ZVdGFPT1BKbmVKN1d2M0dLcFdQWm5mT2ZNNDAxdnozSkxCdDZSel9YUGMtdnRTeHNya3l4RmFHOGNCeXVHOW9uM1VPcUo1dUQtZFpnSzJGNlFjLUY0Q1RpcWh3ZFFEbw",
    "source": "Euronews.com",
    "published_at": "2026-10-30T14:29:33+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Euronews.com",
      "published_at": "2026-10-30T14:29:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUU2cGstT1FNbHpBb09nZVJ3a0xSMmNENmhCMWJnMFh6MXI2Nkhld2ZSWU5uM2Rmd3ZVdGFPT1BKbmVKN1d2M0dLcFdQWm5mT2ZNNDAxdnozSkxCdDZSel9YUGMtdnRTeHNya3l4RmFHOGNCeXVHOW9uM1VPcUo1dUQtZFpnSzJGNlFjLUY0Q1RpcWh3ZFFEbw"
+    },
+    {
+     "name": "Yahoo News Canada",
+     "published_at": "2026-10-30T14:29:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3lyRWNkSmQ4SnZ4a25hMHd0T2J3MjBIc3pPX3E1Y1lzMWx5eTBTc3pRZi1rQm9nQkRNcDF6OGxBWkhhMVYtX0tSeTYzcG1xWGJpZHRiUkUyNEJVQXhaVTYxT19FemdDLUwzanJTMTJfaTFIQWhCWkIxTHQtUVY5NnFMUQ"
     }
    ],
    "category": "其他",
@@ -3026,6 +3065,23 @@
    "sentiment": 1
   },
   {
+   "id": "2cb708d6c641",
+   "title": "“黑色星期五”？英特尔崩跌近30%，英伟达市值失守5万亿！-市场参考 - 金十数据",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5ZlllZUJsRlFibVhaVm9mT0p4M2xGTnEySWhhRF81Z2NpblZ0a3daVENiVjREekVKLTZvWFN0eTNRTjlTeXc2VjE4YzhfYnc",
+   "source": "金十数据",
+   "published_at": "2026-10-29T22:42:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "金十数据",
+     "published_at": "2026-10-29T22:42:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5ZlllZUJsRlFibVhaVm9mT0p4M2xGTnEySWhhRF81Z2NpblZ0a3daVENiVjREekVKLTZvWFN0eTNRTjlTeXc2VjE4YzhfYnc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "700e08fa35a8",
    "title": "英伟达正洽谈为一家云服务商450亿美元的Anthropic交易提供数十亿美元信贷支持。 - 新浪网",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlRUpnS1kyNHlxaEZKV3Y2cVd6XzVBc3FPNVc4NWNNVGtOVVhWSzZOd1hEc29MYUdwVnZrOW1FRTktOS0zT3BoRVpycw",
@@ -5919,6 +5975,28 @@
    "sentiment": 0
   },
   {
+   "id": "bbc119119a72",
+   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwR3dOYjE3WFNiWHJyVlFBM0NSRklETno5Mjh3YjFQbEhXVDNuU2FQWURiX2pPWjhXUjhkLURpSWE2X0hNZFVSb1RyNUxoX09HZ3c",
+   "source": "Yahoo Finance Singapore",
+   "published_at": "2026-10-29T11:06:40+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance Singapore",
+     "published_at": "2026-10-29T11:06:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwR3dOYjE3WFNiWHJyVlFBM0NSRklETno5Mjh3YjFQbEhXVDNuU2FQWURiX2pPWjhXUjhkLURpSWE2X0hNZFVSb1RyNUxoX09HZ3c"
+    },
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-29T12:41:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "16da0ee1cc76",
    "title": "51 ETFs Add to NVIDIA (NVDA) Holdings on Oct. 27 - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFRQOEN5a0xSdVR1QXZyRTI2cEsySXhEcHZLSzJGUldjczR2dEZIYzFtU2pBQ1dGRWFYQUd4MjJBMkdEdE9MSkg5VnBhSDQ5ZjFvMW5LNXowTUVKbWNLM1hXR2s5Q2U3ZGR2NmNMVU9XOVlpNFRqbUpGN29tMVRwcGFDNXhJa3dreDVuSUNqXzZuQQ",
@@ -6475,86 +6553,6 @@
    "zh_summary": "机构买入英伟达股份",
    "title_zh": "North Point买入英伟达股份",
    "sentiment": 1
-  },
-  {
-   "id": "acf0945cd2c2",
-   "title": "NVIDIA Corporation $NVDA Shares Acquired by Kwmg LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON0pLdE1ib1hHMDR5TTZsNHA2NzlFVzFPMU1KRXgxdG54a0QtbHFFSDdqVjMxcmVQaHdKYnNVX2tXVEEwSFhIVkstQ1RObWZOM3lZOFNvRnMzbnl0R0Zxd3lobll2QmltQzcwek1RSWEzWWJJVWpzUURUOE45V25MWW0wWFRGbUxyYm9TNENNNVdoT2IwM1R3SjhqZ1Y4NklVRzNxQ3ltbVNaRy1rYUVOYWpR",
-   "source": "MarketBeat",
-   "published_at": "2026-10-29T08:35:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-29T08:35:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON0pLdE1ib1hHMDR5TTZsNHA2NzlFVzFPMU1KRXgxdG54a0QtbHFFSDdqVjMxcmVQaHdKYnNVX2tXVEEwSFhIVkstQ1RObWZOM3lZOFNvRnMzbnl0R0Zxd3lobll2QmltQzcwek1RSWEzWWJJVWpzUURUOE45V25MWW0wWFRGbUxyYm9TNENNNVdoT2IwM1R3SjhqZ1Y4NklVRzNxQ3ltbVNaRy1rYUVOYWpR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Kwmg LLC增持英伟达股票",
-   "title_zh": "Kwmg LLC增持英伟达股份",
-   "sentiment": 1
-  },
-  {
-   "id": "a0f039427057",
-   "title": "Samsung SDS targets Asia-first Nvidia Vera Rubin cloud launch - The Korea Herald",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBINExqejg4ZWZOZ0pjTHc2N08yMmlVQmVzS0pMOUFfRVJ5ODdORWg4TWNDZnVwNWFEM0ZRb3M5Si1oN0ttczJwTjFsYS1jVTlNQU5mTGJidw",
-   "source": "The Korea Herald",
-   "published_at": "2026-10-29T08:30:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Korea Herald",
-     "published_at": "2026-10-29T08:30:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBINExqejg4ZWZOZ0pjTHc2N08yMmlVQmVzS0pMOUFfRVJ5ODdORWg4TWNDZnVwNWFEM0ZRb3M5Si1oN0ttczJwTjFsYS1jVTlNQU5mTGJidw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "三星SDS推Vera Rubin亚洲云服务",
-   "title_zh": "三星SDS拟首推英伟达Vera Rubin云服务",
-   "sentiment": 1
-  },
-  {
-   "id": "371104dce17e",
-   "title": "Andreessen Horowitz's Fund: Samsung, SK Hynix as Critical as Nvidia - 조선일보",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWUxZFFlb2ZoLThhZHpsUjlZN3h0YVR1QUp0NmwwS3R5OHlMQkRFdjdQVEt1OXE5QW9hOTlyaWFLT0RtQjdYRUlXUnd3Q0hwTDdKa1VZbVFSdnJzODJuMzBXdXNILUVHcGMwUnJlXzM0bjJ1T3J1LW1uZXBlWjM0YVRGYWNudVRm",
-   "source": "조선일보",
-   "published_at": "2026-10-29T08:03:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "조선일보",
-     "published_at": "2026-10-29T08:03:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWUxZFFlb2ZoLThhZHpsUjlZN3h0YVR1QUp0NmwwS3R5OHlMQkRFdjdQVEt1OXE5QW9hOTlyaWFLT0RtQjdYRUlXUnd3Q0hwTDdKa1VZbVFSdnJzODJuMzBXdXNILUVHcGMwUnJlXzM0bjJ1T3J1LW1uZXBlWjM0YVRGYWNudVRm"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "三星与SK海力士与英伟达同等关键",
-   "title_zh": "a16z基金：三星、SK海力士与英伟达同等关键",
-   "sentiment": 0
-  },
-  {
-   "id": "e25065c17a39",
-   "title": "Nvidia has no plans for a GPU attack on custom silicon in fiber - Light Reading",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVlhSU1EVFozTmN2Y3ZoeXAtNXotNmdYb3Bvcll5Z1VqdVYzU0RwY2s4dmpZTFBNeml1Vmw4TFhST1hpc2R4YURaQ0dpazhVX3ZKQXRnY0ItUkEyY3JmeEdTSXowYVdldWY0QUdPbVVDZ1M2ZTVwdnBKbk82V3A3alNDZU9aY255bUQzZ05KMFRCZ2k0amQ5UVJ5ajIxZw",
-   "source": "Light Reading",
-   "published_at": "2026-10-29T08:02:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Light Reading",
-     "published_at": "2026-10-29T08:02:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVlhSU1EVFozTmN2Y3ZoeXAtNXotNmdYb3Bvcll5Z1VqdVYzU0RwY2s4dmpZTFBNeml1Vmw4TFhST1hpc2R4YURaQ0dpazhVX3ZKQXRnY0ItUkEyY3JmeEdTSXowYVdldWY0QUdPbVVDZ1M2ZTVwdnBKbk82V3A3alNDZU9aY255bUQzZ05KMFRCZ2k0amQ5UVJ5ajIxZw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达暂无进军光纤定制芯片计划",
-   "title_zh": "英伟达暂无计划以GPU进军光纤定制芯片领域",
-   "sentiment": 0
   }
  ]
 }
