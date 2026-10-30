@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T15:51:40.493413+00:00",
+ "updated_at": "2026-10-30T16:06:34.311491+00:00",
  "market": {
-  "price": 205.9,
-  "change_pct": -3.63,
+  "price": 205.37,
+  "change_pct": -3.88,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 18
   },
   "day_sentiment": {
-   "avg": 0.04,
-   "count": 116
+   "avg": 0.05,
+   "count": 119
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 55% 分位"
+     "note": "现价处于52周区间 54% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +53.0%"
+     "note": "目标价中位数 $315（17家），隐含空间 +53.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.04（116条已评分）"
+     "note": "今日新闻情绪 +0.05（119条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $205.90 vs 20日均线 $221.52"
+     "note": "现价 $205.37 vs 20日均线 $221.50"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 55,
+   "price_52w_pct": 54,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 53.0,
-   "ma20": 221.52,
-   "as_of": "2026-10-30T15:51:40.479747+00:00"
+   "implied_upside_pct": 53.4,
+   "ma20": 221.5,
+   "as_of": "2026-10-30T16:06:34.299340+00:00"
   },
-  "pe_ttm": 26.2,
+  "pe_ttm": 26.1,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+53.0%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+53.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "5afbefe190af",
+   "title": "Nvidia’s AI Dominance Could Have Further to Run - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX21nbmFsQnVfeTVzeXNsMkdUOXZEVnI2aGNwaE5UNGZIQjdFckd5TndibmVsY2ZQb1FDSFBHNEhNTGlQVlNBWFN6T0tteVotVFJIZUNPdjhWdk14QktLSVA4UVNTVWN5ZWFETU85OFBlaks1alMtVkU1UnFla0N6NVUtOWRJelh0MmhZMDAwdVJSMnRvZ0lCbWNqVTVhMWZIV2Z2RUo3eFhtLUh4MDJKak9ZOXloczlWVzMxTFQySDFWems",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-30T16:05:02+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-30T16:05:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX21nbmFsQnVfeTVzeXNsMkdUOXZEVnI2aGNwaE5UNGZIQjdFckd5TndibmVsY2ZQb1FDSFBHNEhNTGlQVlNBWFN6T0tteVotVFJIZUNPdjhWdk14QktLSVA4UVNTVWN5ZWFETU85OFBlaks1alMtVkU1UnFla0N6NVUtOWRJelh0MmhZMDAwdVJSMnRvZ0lCbWNqVTVhMWZIV2Z2RUo3eFhtLUh4MDJKak9ZOXloczlWVzMxTFQySDFWems"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "389bb9e6e441",
+   "title": "Phantom Blade Zero Day-One Patch: Get Nvidia 617.42 [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa05kdWNlQVZQdTR4UTREWW56LVJhYzBSanMxNUdXLWl4ZDlqODJfQTFMSGpIRkJCcXhZR0c1eUVQTmcxQm5mOGVWWVdSa09XVjZyRnM5RWtYNEgyRjItVFg0d1I3dUZYZm5wQzBCQ2h5OGctY2hsY2M0RkEtWnl6TzBFMGFCc1I5V2dOS3JtVQ",
+   "source": "shattered.io",
+   "published_at": "2026-10-30T15:56:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-30T15:56:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa05kdWNlQVZQdTR4UTREWW56LVJhYzBSanMxNUdXLWl4ZDlqODJfQTFMSGpIRkJCcXhZR0c1eUVQTmcxQm5mOGVWWVdSa09XVjZyRnM5RWtYNEgyRjItVFg0d1I3dUZYZm5wQzBCQ2h5OGctY2hsY2M0RkEtWnl6TzBFMGFCc1I5V2dOS3JtVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "3b07e61812e7",
    "title": "NVIDIA Stock: Analyst Estimates & Ratings - Barchart.com",
@@ -142,16 +176,33 @@
    "sentiment": 0
   },
   {
+   "id": "4bb6dfa44fc0",
+   "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform | NVIDIA Technical Blog - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFFnMmJqOW9JN3hlZVRVUDVPdncwRU1zcktZMW5yc0tXcDB4S09CdDhlU0QzOS1zQmZDNl9Oc1VpNC0zODBubzE1T19WbkgzOHRSTDZFVi1XYkRLQ2h0d1ptUGdqTnVxV2hia0JKZTlfZld6aGFyejlLVVhOWkhHdmRfSlBsQzNsNkNkby1ycU5QYUR2UlkxZFhFcWNTTlhSR2hncGpFbw",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-30T15:19:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-30T15:19:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFFnMmJqOW9JN3hlZVRVUDVPdncwRU1zcktZMW5yc0tXcDB4S09CdDhlU0QzOS1zQmZDNl9Oc1VpNC0zODBubzE1T19WbkgzOHRSTDZFVi1XYkRLQ2h0d1ptUGdqTnVxV2hia0JKZTlfZld6aGFyejlLVVhOWkhHdmRfSlBsQzNsNkNkby1ycU5QYUR2UlkxZFhFcWNTTlhSR2hncGpFbw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "e62616c3fbd3",
    "title": "RTX 5080 is missing from Nvidia’s US marketplace, alongside the RTX 5090 - MIXED News",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYjNXUkdMeFY0VW9wTjc5cktSZENoSGNDbzBLckFXS3BmUk1WZjF5bzhXdF9WbE9lREFyTVdpLTczdDlDQlFueTV0c2NtRkdBdTJ5NTh5bnJwT2ttcFNZZzZndTZDTGxHSGFjeHE4WkY4ZkhFenVpSGtYY1JvejRGdzREbw",
    "source": "MIXED News",
-   "published_at": "2026-10-30T15:07:43+00:00",
+   "published_at": "2026-10-30T15:07:02+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "MIXED News",
-     "published_at": "2026-10-30T15:07:43+00:00",
+     "published_at": "2026-10-30T15:07:02+00:00",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYjNXUkdMeFY0VW9wTjc5cktSZENoSGNDbzBLckFXS3BmUk1WZjF5bzhXdF9WbE9lREFyTVdpLTczdDlDQlFueTV0c2NtRkdBdTJ5NTh5bnJwT2ttcFNZZzZndTZDTGxHSGFjeHE4WkY4ZkhFenVpSGtYY1JvejRGdzREbw"
     }
    ],
@@ -287,7 +338,7 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUU2cGstT1FNbHpBb09nZVJ3a0xSMmNENmhCMWJnMFh6MXI2Nkhld2ZSWU5uM2Rmd3ZVdGFPT1BKbmVKN1d2M0dLcFdQWm5mT2ZNNDAxdnozSkxCdDZSel9YUGMtdnRTeHNya3l4RmFHOGNCeXVHOW9uM1VPcUo1dUQtZFpnSzJGNlFjLUY0Q1RpcWh3ZFFEbw",
    "source": "Euronews.com",
    "published_at": "2026-10-30T14:29:33+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Euronews.com",
@@ -298,13 +349,22 @@
      "name": "Yahoo News Canada",
      "published_at": "2026-10-30T14:29:33+00:00",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3lyRWNkSmQ4SnZ4a25hMHd0T2J3MjBIc3pPX3E1Y1lzMWx5eTBTc3pRZi1rQm9nQkRNcDF6OGxBWkhhMVYtX0tSeTYzcG1xWGJpZHRiUkUyNEJVQXhaVTYxT19FemdDLUwzanJTMTJfaTFIQWhCWkIxTHQtUVY5NnFMUQ"
+    },
+    {
+     "name": "Euronews",
+     "published_at": "2026-10-30T14:29:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUU2cGstT1FNbHpBb09nZVJ3a0xSMmNENmhCMWJnMFh6MXI2Nkhld2ZSWU5uM2Rmd3ZVdGFPT1BKbmVKN1d2M0dLcFdQWm5mT2ZNNDAxdnozSkxCdDZSel9YUGMtdnRTeHNya3l4RmFHOGNCeXVHOW9uM1VPcUo1dUQtZFpnSzJGNlFjLUY0Q1RpcWh3ZFFEbw"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "黄仁勋称哈萨克斯坦有望成欧洲AI中心",
    "title_zh": "英伟达CEO称哈萨克斯坦有望成为欧洲AI中心",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.3,
+    "window_h": 1.6
+   }
   },
   {
    "id": "1726d3f736aa",
@@ -385,6 +445,23 @@
    "zh_summary": "英伟达债务保险成本反超Meta",
    "title_zh": "英伟达债务保险成本反超Meta，AI融资风险升温",
    "sentiment": -1
+  },
+  {
+   "id": "6a9e7bc7f3b7",
+   "title": "‘Attempt to smear China’: Beijing denies spy plot targeting Nvidia CEO Jensen Huang - WION",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblRHOEdNZFZrM3VheTh4TW1qdkF1ZXkzN21SanBNancwRjhMaXZzcnFOYU0xZm1aVGV0SWpTV2p1cU1pRzRfREhybXFNUi1raUVPUDFMMUhlWDZ0MkZWNEhCT3VFaDg0VHRhcUI0SjA2ZjRWNndjcTBlS3IyaFdSdTgyellTTVdLTjNvNi1ZTkFmbm9rX1NOcTVzWElCZC1FTUFBZkZpa0REaXl5U0Rqd2RJNkxiWGhzZndPVGRjc1JVd9IBxwFBVV95cUxQSXQxQThkSnBGUWt1WS05dW9XRGRNZDNLMHFKaHJRYzEzUC1XaEIyS05IWllTQUhIbVQ1dDB5cEc1b2YxTHNtcXdjNjV4enJDUEpDcmZETUxxbnVVek9USWZucEFDWVdVZXE0d3NhcnRPOU9ILUtNUlN3N3ZrWDZZLU5PN0t2dmdFeU1FOGNKTE1UUnhLb01PeXhtYXg3dGpSUjdqQk94dkx5enVoZllja1pydlJ3N1NMVTdWZEFaNTdsOVAxNUNv",
+   "source": "WION",
+   "published_at": "2026-10-30T14:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WION",
+     "published_at": "2026-10-30T14:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblRHOEdNZFZrM3VheTh4TW1qdkF1ZXkzN21SanBNancwRjhMaXZzcnFOYU0xZm1aVGV0SWpTV2p1cU1pRzRfREhybXFNUi1raUVPUDFMMUhlWDZ0MkZWNEhCT3VFaDg0VHRhcUI0SjA2ZjRWNndjcTBlS3IyaFdSdTgyellTTVdLTjNvNi1ZTkFmbm9rX1NOcTVzWElCZC1FTUFBZkZpa0REaXl5U0Rqd2RJNkxiWGhzZndPVGRjc1JVd9IBxwFBVV95cUxQSXQxQThkSnBGUWt1WS05dW9XRGRNZDNLMHFKaHJRYzEzUC1XaEIyS05IWllTQUhIbVQ1dDB5cEc1b2YxTHNtcXdjNjV4enJDUEpDcmZETUxxbnVVek9USWZucEFDWVdVZXE0d3NhcnRPOU9ILUtNUlN3N3ZrWDZZLU5PN0t2dmdFeU1FOGNKTE1UUnhLb01PeXhtYXg3dGpSUjdqQk94dkx5enVoZllja1pydlJ3N1NMVTdWZEFaNTdsOVAxNUNv"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
   },
   {
    "id": "3cb2dfd2e1ce",
@@ -862,10 +939,15 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm9jU3N3bE9BVWhsaWxTX19BaXk4TXpwWHhXRTExWTZRU2tnVllyLTUydHdLNjN1bTlBQmJZaG5mSDI1VjNqWXB3TF9fZ3RvNmFacXdSNmszcUVsa0J2bmwtczZyQmltSlRYVnZWYlpySlM5X28xSW0tcU1rWHBYZy1ybWczQi1GTThxdTN0U2hiLVZKekJFRTdMdU5wSnFH",
    "source": "Euronews.com",
    "published_at": "2026-10-30T12:14:31+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Euronews.com",
+     "published_at": "2026-10-30T12:14:31+00:00",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm9jU3N3bE9BVWhsaWxTX19BaXk4TXpwWHhXRTExWTZRU2tnVllyLTUydHdLNjN1bTlBQmJZaG5mSDI1VjNqWXB3TF9fZ3RvNmFacXdSNmszcUVsa0J2bmwtczZyQmltSlRYVnZWYlpySlM5X28xSW0tcU1rWHBYZy1ybWczQi1GTThxdTN0U2hiLVZKekJFRTdMdU5wSnFH"
+    },
+    {
+     "name": "Euronews",
      "published_at": "2026-10-30T12:14:31+00:00",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm9jU3N3bE9BVWhsaWxTX19BaXk4TXpwWHhXRTExWTZRU2tnVllyLTUydHdLNjN1bTlBQmJZaG5mSDI1VjNqWXB3TF9fZ3RvNmFacXdSNmszcUVsa0J2bmwtczZyQmltSlRYVnZWYlpySlM5X28xSW0tcU1rWHBYZy1ybWczQi1GTThxdTN0U2hiLVZKekJFRTdMdU5wSnFH"
     }
@@ -2580,6 +2662,23 @@
    "sentiment": -1
   },
   {
+   "id": "5faccbd482d1",
+   "title": "甲骨文加码英伟达芯片至数吉瓦级 首度引入谷歌TPU 市场紧盯投资者日 - 财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45Y1lZcFl1RXlhUkxaRHBHRm1Yc2tSWjE5aEtPNjVqZWpOYjNGMHViTlphYXdvdzl4Nkljbnk5eWlyeGpyRXd5RQ",
+   "source": "财联社",
+   "published_at": "2026-10-30T04:42:41+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "财联社",
+     "published_at": "2026-10-30T04:42:41+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45Y1lZcFl1RXlhUkxaRHBHRm1Yc2tSWjE5aEtPNjVqZWpOYjNGMHViTlphYXdvdzl4Nkljbnk5eWlyeGpyRXd5RQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "17b5a277c584",
    "title": "消息称英伟达RTX 5080 24GB显存版本预计于明年1月份前后上市 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc29MbU5UdEFVMzBvcmZoZnJqMDc5d19sYkRTQnhFQlpiV0pZX0t0djJldjdZWU1odWRFNzVvTnB2RVd2OVd6V2pJeHhSQ3d4aDBSQ3k0bktZcmZtNUFfN090aW1vT2tmY2tvSzhYdDRHSXNKNjg2dGE0UnE4aHpFZGJwY3p2OEt1",
@@ -2910,7 +3009,7 @@
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTNXdWI5eDJVZUJ1LTl0bV9kd2llUGlxVEY3V2NtOVFTQnRVdFdRZUE1WmRJTVp1bDZvYzFCSF9OdmdHTVRxdnVfN3JRVTY5RnlrTzdHdkJ1SWRHdnM2cXAySTlzaDR5amN4R1NDSG1WVE1qNFZaeEJlcjB0SUFSOWZJRmg",
    "source": "조선일보",
    "published_at": "2026-10-30T01:48:34+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "조선일보",
@@ -2921,13 +3020,22 @@
      "name": "France 24",
      "published_at": "2026-10-30T08:47:47+00:00",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGRQckM5V3daNkQwZzN1eU0yTGo3ZTczcDl0RGNjMnVVUVg2UmItUHBQX3FmdW0waF9vSDd0a09fMkRGWEZ2UWlWX0pXYnprQjAzeU9yaEQwcXlKdmNmdzNMblRkT0dZRDkwZ1lRdnpTb3BMeE5mUnlBZ2pPUzRsQThUUnlZNkJGZ0ZmQ1o3ek5ud1dlZHc"
+    },
+    {
+     "name": "Taipei Times",
+     "published_at": "2026-10-30T16:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JWnJOU0hQRUViamhlblFUVHFxR05CdTVKd295N244UE9zRkxLNWxWaUpNN2tzRWg5LVp0b3hrRXVhS25UbVN3SVhNN2x6S2ZFekNmNjRDcGt5dklGcFNnWUd0LTBQaFY4dURtay1HWVlnRnZyOEkyZQ"
     }
    ],
    "category": "其他",
    "session": "盘后",
    "zh_summary": "韩媒称中国间谍与黄仁勋有关联",
    "title_zh": "韩媒称中国间谍与英伟达CEO黄仁勋有关联",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.11,
+    "window_h": 2.0
+   }
   },
   {
    "id": "5a8f2a7a69cd",
@@ -3274,40 +3382,6 @@
    "zh_summary": "英伟达洽谈提供数十亿美元信贷支持",
    "title_zh": "英伟达洽谈提供数十亿美元信贷支持",
    "sentiment": 1
-  },
-  {
-   "id": "2cb708d6c641",
-   "title": "“黑色星期五”？英特尔崩跌近30%，英伟达市值失守5万亿！-市场参考 - 金十数据",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5ZlllZUJsRlFibVhaVm9mT0p4M2xGTnEySWhhRF81Z2NpblZ0a3daVENiVjREekVKLTZvWFN0eTNRTjlTeXc2VjE4YzhfYnc",
-   "source": "金十数据",
-   "published_at": "2026-10-29T22:42:21+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "金十数据",
-     "published_at": "2026-10-29T22:42:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5ZlllZUJsRlFibVhaVm9mT0p4M2xGTnEySWhhRF81Z2NpblZ0a3daVENiVjREekVKLTZvWFN0eTNRTjlTeXc2VjE4YzhfYnc"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-30T15:34:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREhodlRXSlNnS3JZbmNLZE9SUm9mY2JuSVd2OUV6dnpFelBKQ244Q08tOHBTU3BBYlhlQVVUX2dCMjdYTmZydXozcFZmNTRlbHBnQnQ2WllJNTlPRllmNkdvdTRvVGhrbnJMMjhLSEZRWngxTHpWS0MxMks4T09tNEJ3NngzeG1POE91UXIxMk9rdlU5ZG5LN1ZXR0ZkTjZlRDd4QUwyX2kzM1lQelNZ"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-30T15:30:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT3I4LXZNOGswd3VHM0pxS0l4WDdadnhkdzZqRzVNWnFtTDFPdVdweGZjeUR0RG9HckhjUS1MSi15YzZyMTkwOU9UbXN0cmRoSWF0RDEtTWRndlBUOFJ4eXZrMDZ5RG9GSHpiMWhmLWVsYTFISG5iaG4ydEpjT3Vzcg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英特尔崩跌近30%，英伟达市值失守5万亿",
-   "title_zh": "“黑色星期五”？英特尔崩跌近30%，英伟达市值失守5万亿！",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": -0.11,
-    "window_h": 2.0
-   }
   },
   {
    "id": "700e08fa35a8",
@@ -4921,6 +4995,40 @@
    "sentiment": -1
   },
   {
+   "id": "2cb708d6c641",
+   "title": "“黑色星期五”？英特尔崩跌近30%，英伟达市值失守5万亿！-市场参考 - 金十数据",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5ZlllZUJsRlFibVhaVm9mT0p4M2xGTnEySWhhRF81Z2NpblZ0a3daVENiVjREekVKLTZvWFN0eTNRTjlTeXc2VjE4YzhfYnc",
+   "source": "金十数据",
+   "published_at": "2026-10-29T14:42:21+00:00",
+   "outlets_count": 3,
+   "outlets": [
+    {
+     "name": "金十数据",
+     "published_at": "2026-10-29T14:42:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5ZlllZUJsRlFibVhaVm9mT0p4M2xGTnEySWhhRF81Z2NpblZ0a3daVENiVjREekVKLTZvWFN0eTNRTjlTeXc2VjE4YzhfYnc"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-10-30T15:34:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREhodlRXSlNnS3JZbmNLZE9SUm9mY2JuSVd2OUV6dnpFelBKQ244Q08tOHBTU3BBYlhlQVVUX2dCMjdYTmZydXozcFZmNTRlbHBnQnQ2WllJNTlPRllmNkdvdTRvVGhrbnJMMjhLSEZRWngxTHpWS0MxMks4T09tNEJ3NngzeG1POE91UXIxMk9rdlU5ZG5LN1ZXR0ZkTjZlRDd4QUwyX2kzM1lQelNZ"
+    },
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-30T15:30:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT3I4LXZNOGswd3VHM0pxS0l4WDdadnhkdzZqRzVNWnFtTDFPdVdweGZjeUR0RG9HckhjUS1MSi15YzZyMTkwOU9UbXN0cmRoSWF0RDEtTWRndlBUOFJ4eXZrMDZ5RG9GSHpiMWhmLWVsYTFISG5iaG4ydEpjT3Vzcg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中",
+   "zh_summary": "英特尔崩跌近30%，英伟达市值失守5万亿",
+   "title_zh": "“黑色星期五”？英特尔崩跌近30%，英伟达市值失守5万亿！",
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.11,
+    "window_h": 2.0
+   }
+  },
+  {
    "id": "46c6d3802491",
    "title": "Nvidia Releases Open-Weight Nemotron 3.5 Transcribe Model for Multilingual Voice AI - AI Insider",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSXd6ZHJEQzhqRFdCQmRXRi1wUkxVQUR5U0Uzc18wd2N2bjNfdU1WZ3h1d1VTZjNSeFE0dnFOWlV3LWM5d3Jvd0JHRTlLYkFEVE9jNm9IcDFXSTNIUzVzZkw0WUl6d0ptVW9ROFN4SS1sUWhZazFYVk1tVy1kU1dEZGpMWTRiX1BreWg2SkdRT2k3WGx4YjB2UExSWEItQU53Q3ZVTU55N285Yk1LOU1fMmNBQnpPWjRSa2YtTjln",
@@ -6203,31 +6311,6 @@
    "sentiment": 0
   },
   {
-   "id": "bbc119119a72",
-   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwR3dOYjE3WFNiWHJyVlFBM0NSRklETno5Mjh3YjFQbEhXVDNuU2FQWURiX2pPWjhXUjhkLURpSWE2X0hNZFVSb1RyNUxoX09HZ3c",
-   "source": "Yahoo Finance Singapore",
-   "published_at": "2026-10-29T11:06:40+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance Singapore",
-     "published_at": "2026-10-29T11:06:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwR3dOYjE3WFNiWHJyVlFBM0NSRklETno5Mjh3YjFQbEhXVDNuU2FQWURiX2pPWjhXUjhkLURpSWE2X0hNZFVSb1RyNUxoX09HZ3c"
-    },
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-29T12:41:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "雅虎财经英伟达股价行情页",
-   "title_zh": "英伟达股价、新闻与行情（雅虎财经）",
-   "sentiment": 0
-  },
-  {
    "id": "16da0ee1cc76",
    "title": "51 ETFs Add to NVIDIA (NVDA) Holdings on Oct. 27 - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSFRQOEN5a0xSdVR1QXZyRTI2cEsySXhEcHZLSzJGUldjczR2dEZIYzFtU2pBQ1dGRWFYQUd4MjJBMkdEdE9MSkg5VnBhSDQ5ZjFvMW5LNXowTUVKbWNLM1hXR2s5Q2U3ZGR2NmNMVU9XOVlpNFRqbUpGN29tMVRwcGFDNXhJa3dreDVuSUNqXzZuQQ",
@@ -6451,125 +6534,6 @@
    "zh_summary": "中国芯片公司想用不同做法替代英伟达",
    "title_zh": "英伟达200亿美元买的东西，中国芯片公司想换个做法",
    "sentiment": -1
-  },
-  {
-   "id": "633c1cece825",
-   "title": "Nvidia Faces DOJ Scrutiny Over $12.9 Billion Hugging Face Deal Amid Concerns About Unfair AI Advantage: Report - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWUpxRlRhOS1fcXNjeHMway1PWlFodHQwWGRpR3NrRHRIN0JDMHQ1V184ZG1IRVVNN3o4ZGRpeVYzMDJRMlUwV1dia2M3OFZkLWktS25NdXVpNFNwckdkcUIwSTUxS1R3TTJGZmNvR0ViYXNselBxMDhhelpaMHN0NnFoY05sSGFUNVZlSGh4SWc3b29qOFBzZjJSQi00WnpCU1M2NmF3NVR0MTVOcS0yLWpKeXpzSkFoWVVlaXlGR0RNSmtfUzBackZZU053UzI3XzRSOVdxN2VKVlF0TGRCNHZXbTNTVmpPVTNwdjkzYm92Nlk",
-   "source": "Benzinga",
-   "published_at": "2026-10-29T09:39:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-29T09:39:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWUpxRlRhOS1fcXNjeHMway1PWlFodHQwWGRpR3NrRHRIN0JDMHQ1V184ZG1IRVVNN3o4ZGRpeVYzMDJRMlUwV1dia2M3OFZkLWktS25NdXVpNFNwckdkcUIwSTUxS1R3TTJGZmNvR0ViYXNselBxMDhhelpaMHN0NnFoY05sSGFUNVZlSGh4SWc3b29qOFBzZjJSQi00WnpCU1M2NmF3NVR0MTVOcS0yLWpKeXpzSkFoWVVlaXlGR0RNSmtfUzBackZZU053UzI3XzRSOVdxN2VKVlF0TGRCNHZXbTNTVmpPVTNwdjkzYm92Nlk"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "英伟达129亿美元收购遭司法部审查",
-   "title_zh": "英伟达129亿美元收购Hugging Face遭司法部审查",
-   "sentiment": -2
-  },
-  {
-   "id": "5b978e40e207",
-   "title": "美国情报部门认为中国女特工曾瞄准英伟达CEO——《卫报》 - UA.NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONi1VVWdPcm1xMGhYZW81bmRkSzFBUFpMNklkQ2JzWkhJM2I0X3g0YnAtQTQ1Mm00NUxjUEUydThjcXJXeE0zR2R6S3g3X1hxYWh4M2xnVzY3dzVqOWpaalp2eHBHUnd3aEtCM3RiOXQyN2JCOWJJYll2NEJXZm51NVV4XzgwbFVYd1FQRFdsUEw4eGwzUVFlWnNTZkFxMC0wdUZyaS1ucVgxZ05JRXRhWEtkRkloZk03",
-   "source": "UA.NEWS",
-   "published_at": "2026-10-29T09:39:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "UA.NEWS",
-     "published_at": "2026-10-29T09:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONi1VVWdPcm1xMGhYZW81bmRkSzFBUFpMNklkQ2JzWkhJM2I0X3g0YnAtQTQ1Mm00NUxjUEUydThjcXJXeE0zR2R6S3g3X1hxYWh4M2xnVzY3dzVqOWpaalp2eHBHUnd3aEtCM3RiOXQyN2JCOWJJYll2NEJXZm51NVV4XzgwbFVYd1FQRFdsUEw4eGwzUVFlWnNTZkFxMC0wdUZyaS1ucVgxZ05JRXRhWEtkRkloZk03"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "美情报部门称中国女特工曾瞄准英伟达CEO",
-   "title_zh": "美国情报部门认为中国女特工曾瞄准英伟达CEO——《卫报》",
-   "sentiment": 0
-  },
-  {
-   "id": "f14478fd93e4",
-   "title": "Nvidia Just Committed $3 Billion to Meta - What It Means for Retirees Holding Both Stocks - FinanceBuzz",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YaTd1SGJqaGU4elFFby1RYjVyaDhFSGNCMl9JdlVoaU1XSm1ld1FaSU5WMW1rOF9vbzlPci1ZMjlnTWc4U3JNUlZiVW9MSnRuNS16SF9MTlpyenpDSS12QjBtTE42SG9mdk5MN1BUR2l0NWs",
-   "source": "FinanceBuzz",
-   "published_at": "2026-10-29T09:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "FinanceBuzz",
-     "published_at": "2026-10-29T09:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YaTd1SGJqaGU4elFFby1RYjVyaDhFSGNCMl9JdlVoaU1XSm1ld1FaSU5WMW1rOF9vbzlPci1ZMjlnTWc4U3JNUlZiVW9MSnRuNS16SF9MTlpyenpDSS12QjBtTE42SG9mdk5MN1BUR2l0NWs"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达向Meta投资30亿美元",
-   "title_zh": "英伟达承诺向Meta投资30亿美元",
-   "sentiment": 1
-  },
-  {
-   "id": "7a368a4e6b69",
-   "title": "Nvidia Chief Seen as Target of Chinese Spy Plot - The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz",
-   "source": "The New York Times",
-   "published_at": "2026-10-29T09:01:51+00:00",
-   "outlets_count": 8,
-   "outlets": [
-    {
-     "name": "The New York Times",
-     "published_at": "2026-10-29T09:01:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz"
-    },
-    {
-     "name": "Breakingthenews.net",
-     "published_at": "2026-10-29T09:33:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMmZVTFhnc0FIUTluVHh3eWpBUVdEWWJuQmg2VVBNclFPTUFNTEdybmM5M1doZk1UUTlfcTRhRVpfelV6d1h6b2hVSGdRWFo2YVNSWE5IX0d4UWFjY2RPNEdLdVl2Z1FuVnM4ZFpRYndWUWQ5a2NacXBXemdPcHZNZG8wMU1nZENpWjBUWGF3SWgwZ1hv"
-    },
-    {
-     "name": "GV Wire",
-     "published_at": "2026-10-29T15:18:13+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYVdiVVgtN0p5aHlURmdMY0Q0d3pYRGo3VmpnNFVkb0VlNGJSUU5BdWhXaDRTN2ZuSW1oR01KbTNyY241bUhpYks5T1hxVGxKQWNmNWRLN2ktdUFiMjRxeUN5MzNfcmFuMmY2dUJiU0t4Nl94Rm5BMnd2Qm1OVzJPREpyczQ"
-    },
-    {
-     "name": "Semafor",
-     "published_at": "2026-10-29T22:36:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSU1rS1Vyb3NyYTdaLWpYNHByYWRRX0dGOXlxdlFybU5naXFxYm1DV1lVQjNaVUpLaDNNV04tRGVXNzdDc0xoY2NlWk5vY05PVU5Ka21MXzVuUGk5Vk1PSVhCc2U0VU50UW9QNWxBTllfQUllOF9VcU9Gdl9PWXB6TTZFY3ZTVXZqQlBEdG9nbC1CNUJ4SlBSSVItV2Rodw"
-    },
-    {
-     "name": "The Times of India",
-     "published_at": "2026-10-30T00:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVHlIaG9SZEExcEVPckQxWHRBUTE2YmRZQnA2cFVhOC02ZFdEc2pIQUhOaF9GdmhsMWgtNGhtRUpEMjdKZElxQy0zZ24wdXkzOGRVOHRmTm5Wc3diSHBQT3hscUdRelZFWjhyMW11akU5dUtoLXdOMUJPODlUUlJQZHR4YjVITFZoYXBBSEZtakNHQ1BOSUZiVy03TTlXSXNJQW9TemY5bmhjUVUxUk5ZTDJydmxiclRhaUpj0gHAAUFVX3lxTE9xeXJwZmhza2lpSDl5SXFsNHcwU3hHUTBCTWtDTkxaQjVfX1VtY1Brd01zamlpdnkxRnRUdjBmTC1IUDZsbHlMRjJFTVZ0V3dxX2tnanU5RmdtcTduR3VWZ3BsODJJTFhIejJ1V0FIaXVscEpFTUdDZm40dEl5TDlpRjFiRWdwVEVHTjhJanNmbzlzTVJzZVY4cnEwdDhfUWZvQzlaLUQxeTBtd1k4NV9QN1NiMDhRTGJFVE10VnlKdQ"
-    },
-    {
-     "name": "The Japan Times",
-     "published_at": "2026-10-30T02:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTjVkdGJWdV9HdEhfZjh2UjRORE9ra0xPYndCSVRUOXlZNElBb2tpLWViV1cxVmN6bUFXd0xNZTg3cmFnWm5zUnUyMVIzdmFYcG5MbWZOVnFpelgyd3R5NXhRaWp6M2tET0pLZkkzbHFxdUMyd2huams1LWZjdjI5RjhkZTdCVlE"
-    },
-    {
-     "name": "San Francisco Examiner",
-     "published_at": "2026-10-29T19:15:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlRnUU5BZEhranluaW1UaUcxdFUxLUgxSzczV1pkRGZrRmV6YW5yNEppeE4tZWVJZjdqNGRhTjRjWUN0NWkxQ3NIM3lJbjR5dHVMQUFvaGE3a0Y1Z0VxOTRDUTNBQk4tdnl5NlRZSHJONHVsS1ltSEtWWUxWYi02THVrSmhKSnZxT0Vlal9VMUlaMlNmd0Z3WnVLYnExZkpqRWRfeUlEbFNMblJlcDV1QkN4a204dW9sV0RwaEhvMGhHUQ"
-    },
-    {
-     "name": "TODAY.com",
-     "published_at": "2026-10-30T11:28:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmhlZnA1MDQyaXg0YldIeDl6OEppMzNYMkE2Nm9DZXJKVS1XNmRCTE5tcGNObWdsTmNwd3BDYnhlQUp4eHROeUJWeVNsSTQtOWNqTGVIOGYxZXRSS1VFUzdsSG8zZnNoblNpajZZTmNlVEh6blR6UDNHUEp5azZtZlhObmdyazN6dUk3dkhKUmRIblhCTUdONl9R"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达CEO成中国间谍阴谋目标",
-   "title_zh": "英伟达CEO被视为中国间谍阴谋目标",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": 0.29,
-    "window_h": 1.9
-   }
   }
  ]
 }
