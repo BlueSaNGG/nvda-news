@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T16:06:34.311491+00:00",
+ "updated_at": "2026-10-30T16:21:37.860835+00:00",
  "market": {
-  "price": 205.37,
-  "change_pct": -3.88,
+  "price": 204.5,
+  "change_pct": -4.29,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 18
   },
   "day_sentiment": {
-   "avg": 0.05,
-   "count": 119
+   "avg": 0.06,
+   "count": 123
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 54% 分位"
+     "note": "现价处于52周区间 53% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +53.4%"
+     "note": "目标价中位数 $315（17家），隐含空间 +54.0%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（119条已评分）"
+     "note": "今日新闻情绪 +0.06（123条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $205.37 vs 20日均线 $221.50"
+     "note": "现价 $204.50 vs 20日均线 $221.45"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 54,
+   "price_52w_pct": 53,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 53.4,
-   "ma20": 221.5,
-   "as_of": "2026-10-30T16:06:34.299340+00:00"
+   "implied_upside_pct": 54.0,
+   "ma20": 221.45,
+   "as_of": "2026-10-30T16:21:37.849113+00:00"
   },
-  "pe_ttm": 26.1,
+  "pe_ttm": 26.0,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+53.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+54.0%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "9f2b0490a47f",
+   "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2dVWll1WVY4NUd3ZnZLRnprWVIzSS1CNGxhakp0cnZzYldYR29LbTNEQ2xrdmNycmdoRy1CWW14QURLeFhUdEVPNjJKOFl4dDRjMFFWZHVIdy1xRHU1UlRGY1VtengxTE9pT3lmd3hHajFkMGxrSVAza0tJMWI1MGhMSjFQQVpRSTFORW1iTXB5RC0xYVFTUTM3NnNENkRHM2tYcTFn",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-10-30T16:17:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-10-30T16:17:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2dVWll1WVY4NUd3ZnZLRnprWVIzSS1CNGxhakp0cnZzYldYR29LbTNEQ2xrdmNycmdoRy1CWW14QURLeFhUdEVPNjJKOFl4dDRjMFFWZHVIdy1xRHU1UlRGY1VtengxTE9pT3lmd3hHajFkMGxrSVAza0tJMWI1MGhMSjFQQVpRSTFORW1iTXB5RC0xYVFTUTM3NnNENkRHM2tYcTFn"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "5afbefe190af",
    "title": "Nvidia’s AI Dominance Could Have Further to Run - 24/7 Wall St.",
@@ -120,6 +137,23 @@
    "zh_summary": "分析师评级与目标价汇总",
    "title_zh": "英伟达股票分析师评级与目标价汇总",
    "sentiment": 0
+  },
+  {
+   "id": "288634f91294",
+   "title": "Dow Falls 375 Points On Losses For NVIDIA Corp., Cisco Shares - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalJyOTVRdGZ2M2ExMm1VWEo4anczX1ZoTUxVWjZBVFd2Y040RVRiUlRyNENZRnljYm5BSjdPdFpEZk13N0phMW52dzFHbEZuWllDNVJLNzcyVWdMODlOUzJlX0RzQ3dSX1N3MUluemdnZUFycDlCRTkybTJyVk95SFhCTzdCTlhVVTdBS08ybkJ5Q2lHMjJPQkV5Zmk",
+   "source": "Moomoo",
+   "published_at": "2026-10-30T15:42:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-30T15:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalJyOTVRdGZ2M2ExMm1VWEo4anczX1ZoTUxVWjZBVFd2Y040RVRiUlRyNENZRnljYm5BSjdPdFpEZk13N0phMW52dzFHbEZuWllDNVJLNzcyVWdMODlOUzJlX0RzQ3dSX1N3MUluemdnZUFycDlCRTkybTJyVk95SFhCTzdCTlhVVTdBS08ybkJ5Q2lHMjJPQkV5Zmk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "0310256872e6",
@@ -2674,26 +2708,6 @@
    "sentiment": -1
   },
   {
-   "id": "5faccbd482d1",
-   "title": "甲骨文加码英伟达芯片至数吉瓦级 首度引入谷歌TPU 市场紧盯投资者日 - 财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45Y1lZcFl1RXlhUkxaRHBHRm1Yc2tSWjE5aEtPNjVqZWpOYjNGMHViTlphYXdvdzl4Nkljbnk5eWlyeGpyRXd5RQ",
-   "source": "财联社",
-   "published_at": "2026-10-30T04:42:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "财联社",
-     "published_at": "2026-10-30T04:42:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45Y1lZcFl1RXlhUkxaRHBHRm1Yc2tSWjE5aEtPNjVqZWpOYjNGMHViTlphYXdvdzl4Nkljbnk5eWlyeGpyRXd5RQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "甲骨文加码英伟达芯片至数吉瓦级",
-   "title_zh": "甲骨文加码英伟达芯片至数吉瓦级 首度引入谷歌TPU 市场紧盯投资者日 - 财联社",
-   "sentiment": 1
-  },
-  {
    "id": "17b5a277c584",
    "title": "消息称英伟达RTX 5080 24GB显存版本预计于明年1月份前后上市 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc29MbU5UdEFVMzBvcmZoZnJqMDc5d19sYkRTQnhFQlpiV0pZX0t0djJldjdZWU1odWRFNzVvTnB2RVd2OVd6V2pJeHhSQ3d4aDBSQ3k0bktZcmZtNUFfN090aW1vT2tmY2tvSzhYdDRHSXNKNjg2dGE0UnE4aHpFZGJwY3p2OEt1",
@@ -3469,6 +3483,23 @@
    "sentiment": 1
   },
   {
+   "id": "f1c0f83fe9c8",
+   "title": "Nvidia chief targeted in alleged spy plot - Semafor",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSU1rS1Vyb3NyYTdaLWpYNHByYWRRX0dGOXlxdlFybU5naXFxYm1DV1lVQjNaVUpLaDNNV04tRGVXNzdDc0xoY2NlWk5vY05PVU5Ka21MXzVuUGk5Vk1PSVhCc2U0VU50UW9QNWxBTllfQUllOF9VcU9Gdl9PWXB6TTZFY3ZTVXZqQlBEdG9nbC1CNUJ4SlBSSVItV2Rodw",
+   "source": "Semafor",
+   "published_at": "2026-10-29T22:36:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Semafor",
+     "published_at": "2026-10-29T22:36:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSU1rS1Vyb3NyYTdaLWpYNHByYWRRX0dGOXlxdlFybU5naXFxYm1DV1lVQjNaVUpLaDNNV04tRGVXNzdDc0xoY2NlWk5vY05PVU5Ka21MXzVuUGk5Vk1PSVhCc2U0VU50UW9QNWxBTllfQUllOF9VcU9Gdl9PWXB6TTZFY3ZTVXZqQlBEdG9nbC1CNUJ4SlBSSVItV2Rodw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "929a5716b16c",
    "title": "招商证券：英伟达GTC引领物理AI新趋势 产业发展趋势进一步明确 - 富途牛牛",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlExdVpaZXVJcW9DZlFsVWFhWWtLMGxITmlfNUtscWR6dndHc2JCWHc0ZEEtNnhka2ZqaFJEanVCSWpQZUNtLXZTa2p0VktnN1dzcVc0NURfdzBrMWx3NU9lYXN4QzdhNW1nampTekFSRndFVUl2ZHNiTFkxUmx0Q1dtNWtpb0kzZ1pwcXpkUVJUS2M2aTNIWGxxOHJNMnR0TlpKVmQycG9EZw",
@@ -3711,26 +3742,6 @@
    "zh_summary": "分析NVDA股价动量变化趋势",
    "title_zh": "理解NVDA股价动量转变",
    "sentiment": 0
-  },
-  {
-   "id": "3b50ae00773c",
-   "title": "Nvidia's Jensen Huang seen as target in China spy plot, report says - Fox Business",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wVV9JcEJHTkVYYTZPY2xmUVhQeVViUFhFcEdnTlRCRFBDS1Y4aGk1cEtWRFFtQTBWV240ZDJ5cFRXUWJfNFI1VWFURldWdTIwbmdzSnRPNkhpQWc",
-   "source": "Fox Business",
-   "published_at": "2026-10-29T20:02:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Fox Business",
-     "published_at": "2026-10-29T20:02:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wVV9JcEJHTkVYYTZPY2xmUVhQeVViUFhFcEdnTlRCRFBDS1Y4aGk1cEtWRFFtQTBWV240ZDJ5cFRXUWJfNFI1VWFURldWdTIwbmdzSnRPNkhpQWc"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘后",
-   "zh_summary": "黄仁勋被曝成中国间谍阴谋目标",
-   "title_zh": "据报道黄仁勋成中国间谍阴谋目标",
-   "sentiment": -1
   },
   {
    "id": "93fc7f3d420e",
@@ -4851,7 +4862,7 @@
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0dIVHhVYjZoLUJpVHdScEdhbmFEcjVyRzVhQnBwZm9GODk3ODVkcGpoUHN6UC0xSHJycUtqdkowLU9CNU81cHJjdkhzVjNYczNXNU5HMUtpQWlDUzM0RFlGZFljNjRsRlNQYnhtX05YaDRRNkJsSTJRY1pfcGJrMW41Z1lWUEtJaFE",
    "source": "The Guardian",
    "published_at": "2026-10-29T15:23:00+00:00",
-   "outlets_count": 5,
+   "outlets_count": 6,
    "outlets": [
     {
      "name": "The Guardian",
@@ -4877,6 +4888,11 @@
      "name": "Daily Sabah",
      "published_at": "2026-10-29T19:24:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTkpxMkNYc0dwc2NmTVNud1ZMM3BzZVF5dXV5akF0eDh2UlFIV1QybVZjRTBScGJGZlA0aWppaEY0ckptWEl5ZFRSOTlnZnNjd2hINE9hNmFQOXdTVXdsYko4cm55MHFwWFI4RzN2Y2JuRnN4TGszQWdyRHU1YWhqMkJFenZXazVCT3hsU3pYZTJiMmlYc1dkRUVLTTJmNXcteEwxcdIBqgFBVV95cUxQSzNEOUdibUJ6LUxVZG95TEEwQUZNX3hidVRuV1UzRF9qQzRSQUE0bzVfQm44OFRSd3NYMi1lXzVPZXA3MWJzWmtIM2lIdHNSVVd1MkxORUpSZUpuRHRkNk1nUnBkSWNYSmhuN253SUhheFV0SE80VEZWRHJxbFEyb3U5NFQ1MGxmeE96cmZlWVRYbnJpQmF6VXVKcGlERnNsZVlSOWJTbXowZw"
+    },
+    {
+     "name": "TODAY.com",
+     "published_at": "2026-10-30T11:28:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmhlZnA1MDQyaXg0YldIeDl6OEppMzNYMkE2Nm9DZXJKVS1XNmRCTE5tcGNObWdsTmNwd3BDYnhlQUp4eHROeUJWeVNsSTQtOWNqTGVIOGYxZXRSS1VFUzdsSG8zZnNoblNpajZZTmNlVEh6blR6UDNHUEp5azZtZlhObmdyazN6dUk3dkhKUmRIblhCTUdONl9R"
     }
    ],
    "category": "其他",
@@ -6261,6 +6277,23 @@
    "sentiment": 1
   },
   {
+   "id": "4e7f263fd99e",
+   "title": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc",
+   "source": "Yahoo! Finance Canada",
+   "published_at": "2026-10-29T11:28:13+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-29T11:28:13+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "884351d85131",
    "title": "Can NVIDIA Stock Jump 50%? - Trefis",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQXQyVjdJVW4xalMtNHZlclFJN1BOQkxUMElvOFZzZENuX2VCZUplTG1JdVoyZndURXhRaTN2UHZGNEVsM0FwSG41ZWR4TkFUb3VPM2R5cWp2eUw0UktEbzhqbmdiZ0tpSUVGdXA4a3lQMlhUMnlOclRTNXVXQnhZTlcwcDVlb0dDTGRtelV3",
@@ -6509,46 +6542,6 @@
    "zh_summary": "国产金刚石散热迎来首笔大单",
    "title_zh": "英伟达 Rubin 之后，国产金刚石散热的第一笔大单来了",
    "sentiment": 1
-  },
-  {
-   "id": "0867d79a5372",
-   "title": "Nvidia releases Nemotron 3.5 Transcribe, a free 30 billion parameter speech model - Startup Fortune",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPalpGTmlBalJxQmNKUF96WjFoQ2ZhQng5QkdSVEpxWHZYNVhsbVlVNkFmTFk4bTRIZDdVX2NtRkNKR3hNTTl0Wmk0OEVpdUttTmtHRlNId3ZsOVoxTDF0QnVxbmxhY0FOZWpjQnRlbFBuQWZKWWtnSjN1OGEtaXk5MzAyWGYwdjItOUxYdDg5RlhPS05WOFo5U1NNbWQtdGtIVDdwRXFCWEwwT00",
-   "source": "Startup Fortune",
-   "published_at": "2026-10-29T10:06:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Startup Fortune",
-     "published_at": "2026-10-29T10:06:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPalpGTmlBalJxQmNKUF96WjFoQ2ZhQng5QkdSVEpxWHZYNVhsbVlVNkFmTFk4bTRIZDdVX2NtRkNKR3hNTTl0Wmk0OEVpdUttTmtHRlNId3ZsOVoxTDF0QnVxbmxhY0FOZWpjQnRlbFBuQWZKWWtnSjN1OGEtaXk5MzAyWGYwdjItOUxYdDg5RlhPS05WOFo5U1NNbWQtdGtIVDdwRXFCWEwwT00"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达发布Nemotron 3.5语音转录模型",
-   "title_zh": "英伟达发布免费300亿参数语音模型Nemotron 3.5",
-   "sentiment": 1
-  },
-  {
-   "id": "30044945a671",
-   "title": "英伟达花200亿美元买的东西，一家中国芯片公司想换个做法 - DoNews",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXWmZZblVsTS1UQmFVY05yYi1TVl95OWI5c2RpdllXYTctN2ctcUtoLWVEaFNWS1F0WlpzV1ZybVFyby1FNzFCWURELTNrTURZTENiaGVJM2JCTG16SFE",
-   "source": "DoNews",
-   "published_at": "2026-10-29T10:02:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "DoNews",
-     "published_at": "2026-10-29T10:02:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXWmZZblVsTS1UQmFVY05yYi1TVl95OWI5c2RpdllXYTctN2ctcUtoLWVEaFNWS1F0WlpzV1ZybVFyby1FNzFCWURELTNrTURZTENiaGVJM2JCTG16SFE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "中国芯片公司想用不同做法替代英伟达",
-   "title_zh": "英伟达200亿美元买的东西，中国芯片公司想换个做法",
-   "sentiment": -1
   }
  ]
 }
