@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-30T16:21:37.860835+00:00",
+ "updated_at": "2026-10-30T16:36:38.821512+00:00",
  "market": {
-  "price": 204.5,
-  "change_pct": -4.29,
+  "price": 204.33,
+  "change_pct": -4.37,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.06,
-   "count": 123
+   "count": 124
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +54.0%"
+     "note": "目标价中位数 $315（17家），隐含空间 +54.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（123条已评分）"
+     "note": "今日新闻情绪 +0.06（124条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $204.50 vs 20日均线 $221.45"
+     "note": "现价 $204.33 vs 20日均线 $221.44"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 53,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 54.0,
-   "ma20": 221.45,
-   "as_of": "2026-10-30T16:21:37.849113+00:00"
+   "implied_upside_pct": 54.2,
+   "ma20": 221.44,
+   "as_of": "2026-10-30T16:36:38.812262+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+54.0%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+54.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "9d8373d8d112",
+   "title": "India's AM Intelligence seeks $3B in debt for 29,000 Nvidia Rubin chips - Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWpTelRFWElMaWJGcnlMdk85aEdhbmljNjcyRmxTUDE0aW42dEhEMmNneVVteWF6YldWdE01Qk91R3FzZkpMSm1acW9WSG1kZFNPSEdaTUdJbFlBRXo5YjU3aHJzaWZnTDZWcG9ERzZKUWNOMW52SXIyRzJ3bThTOUs5MTVUN1Y1SUJ4OEtvbXRGWDZmTWZrWFFOdHhaVEtRY0pDWEhsQQ",
+   "source": "Dealroom",
+   "published_at": "2026-10-30T16:22:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Dealroom",
+     "published_at": "2026-10-30T16:22:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWpTelRFWElMaWJGcnlMdk85aEdhbmljNjcyRmxTUDE0aW42dEhEMmNneVVteWF6YldWdE01Qk91R3FzZkpMSm1acW9WSG1kZFNPSEdaTUdJbFlBRXo5YjU3aHJzaWZnTDZWcG9ERzZKUWNOMW52SXIyRzJ3bThTOUs5MTVUN1Y1SUJ4OEtvbXRGWDZmTWZrWFFOdHhaVEtRY0pDWEhsQQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "9f2b0490a47f",
    "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw - NVIDIA Developer",
@@ -82,13 +99,52 @@
    "sentiment": 1
   },
   {
-   "id": "5afbefe190af",
-   "title": "Nvidia’s AI Dominance Could Have Further to Run - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX21nbmFsQnVfeTVzeXNsMkdUOXZEVnI2aGNwaE5UNGZIQjdFckd5TndibmVsY2ZQb1FDSFBHNEhNTGlQVlNBWFN6T0tteVotVFJIZUNPdjhWdk14QktLSVA4UVNTVWN5ZWFETU85OFBlaks1alMtVkU1UnFla0N6NVUtOWRJelh0MmhZMDAwdVJSMnRvZ0lCbWNqVTVhMWZIV2Z2RUo3eFhtLUh4MDJKak9ZOXloczlWVzMxTFQySDFWems",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-30T16:05:02+00:00",
+   "id": "3b61115adcdc",
+   "title": "The China Spy Story Wrapped Around Nvidia and Jensen Huang - Business Chief",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnpOM2tnelRGdlp2dVo2NlltTURmMkJyU0xGcnV1cXpHM3ZYVVhRNk10WWcxVnpOeDdoOVo1a1hqdEZFVURaWTlyM3hvRFVnVXVVNUpQbHpiOHNRRFk4XzFPNXJHNEpVTzFwOTNDLWVTR1lPTUdLZ04tbmtDYmEtVndVcW92M0tBbEJn",
+   "source": "Business Chief",
+   "published_at": "2026-10-30T16:11:28+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "Business Chief",
+     "published_at": "2026-10-30T16:11:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnpOM2tnelRGdlp2dVo2NlltTURmMkJyU0xGcnV1cXpHM3ZYVVhRNk10WWcxVnpOeDdoOVo1a1hqdEZFVURaWTlyM3hvRFVnVXVVNUpQbHpiOHNRRFk4XzFPNXJHNEpVTzFwOTNDLWVTR1lPTUdLZ04tbmtDYmEtVndVcW92M0tBbEJn"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘中"
+  },
+  {
+   "id": "d097c69cbd7d",
+   "title": "Nvidia denies report that CEO was allegedly targeted in Chinese spy plot - AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1VkdHhvWExOYmx0NDJSVldSbHJmODhvOU1qd3g3cVVtY24yeFJCZ3J6VjZyamV6N3ZkZVI1SmtyeFNEdjBSVVVoNFRWRG9MWDZpdGJndWRBTGtVTmhtWlBzaTdIcy1YYk5OLVctWGREQ2h2NUQtRW9Vcjk3emEzVGh5TXk",
+   "source": "AOL.com",
+   "published_at": "2026-10-30T16:04:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "AOL.com",
+     "published_at": "2026-10-30T16:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1VkdHhvWExOYmx0NDJSVldSbHJmODhvOU1qd3g3cVVtY24yeFJCZ3J6VjZyamV6N3ZkZVI1SmtyeFNEdjBSVVVoNFRWRG9MWDZpdGJndWRBTGtVTmhtWlBzaTdIcy1YYk5OLVctWGREQ2h2NUQtRW9Vcjk3emEzVGh5TXk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "5afbefe190af",
+   "title": "Nvidia’s AI Dominance Could Have Further to Run - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkh5aHlweVhseEFHazllRTFLOVRvMWVBM1pzSGQtdW1jR2VUNEQtNUpnNGdCX3U3SkVOOVlSa2JuYmFxejVmaldFdkNya0w1a1djT0MwMUwyMEMwaTZiVFR5NUU3UEVQWXowZVVrSVkzUmw5bEt6aEU1VVpoV0NCU19EeTZrRldEMzN0dF85RlAxbkpaN1JBaHVEZjVkUzQ",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-30T16:03:28+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-30T16:03:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkh5aHlweVhseEFHazllRTFLOVRvMWVBM1pzSGQtdW1jR2VUNEQtNUpnNGdCX3U3SkVOOVlSa2JuYmFxejVmaldFdkNya0w1a1djT0MwMUwyMEMwaTZiVFR5NUU3UEVQWXowZVVrSVkzUmw5bEt6aEU1VVpoV0NCU19EeTZrRldEMzN0dF85RlAxbkpaN1JBaHVEZjVkUzQ"
+    },
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-10-30T16:05:02+00:00",
@@ -120,6 +176,23 @@
    "zh_summary": "《幻刃零》首日补丁支持英伟达617.42驱动",
    "title_zh": "《幻刃零》首日补丁：获取英伟达617.42驱动",
    "sentiment": 0
+  },
+  {
+   "id": "3401bdb70ad7",
+   "title": "Chinese Entrepreneur Alice Huang: Alleged Spy Linked to NVIDIA CEO - 조선일보",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbE5ZY0xhV3B1dGlDNk9nbEZlbjdFMVZ1MmhiOVZoQUtSeHF6TzVkYWpqc2lXVGUzdjR5elY2dFQ4STd4ZU1IMkVvdVFRSmxISkE0bTItcjJfcFhZY3FacGRrQjdTaTd3ZFI2VUE4c0tLY2d5YjdQQmw4d0xnOXp2bDFRb3I",
+   "source": "조선일보",
+   "published_at": "2026-10-30T15:52:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "조선일보",
+     "published_at": "2026-10-30T15:52:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbE5ZY0xhV3B1dGlDNk9nbEZlbjdFMVZ1MmhiOVZoQUtSeHF6TzVkYWpqc2lXVGUzdjR5elY2dFQ4STd4ZU1IMkVvdVFRSmxISkE0bTItcjJfcFhZY3FacGRrQjdTaTd3ZFI2VUE4c0tLY2d5YjdQQmw4d0xnOXp2bDFRb3I"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "3b07e61812e7",
@@ -240,6 +313,23 @@
    "zh_summary": "英伟达官方讲解配置GPUDirect存储",
    "title_zh": "如何检查和配置英伟达GPUDirect存储",
    "sentiment": 0
+  },
+  {
+   "id": "fa070e2f7e28",
+   "title": "Nvidia’s AI financing push could sustain infrastructure investment and drive chip demand, Wedbush says - Yahoo! Finance Canada",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUFxWXEzbXZ4RGNyMjZLR1JTRzNrZnlyOXFQZ1QtV0JDVV94X01yc0t6ZEtHV3VBaGNTeG1idzlvZXl3WU5KT1FyLVBHQU9va29BeXMyRk9EVFJhWVlYN05xbElsQnlNNDRpSHBNUHFCaW4xNkVaNmNxX284dnlQbHh5bDduQQ",
+   "source": "Yahoo! Finance Canada",
+   "published_at": "2026-10-30T15:18:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo! Finance Canada",
+     "published_at": "2026-10-30T15:18:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUFxWXEzbXZ4RGNyMjZLR1JTRzNrZnlyOXFQZ1QtV0JDVV94X01yc0t6ZEtHV3VBaGNTeG1idzlvZXl3WU5KT1FyLVBHQU9va29BeXMyRk9EVFJhWVlYN05xbElsQnlNNDRpSHBNUHFCaW4xNkVaNmNxX284dnlQbHh5bDduQQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "e62616c3fbd3",
@@ -579,6 +669,23 @@
    "zh_summary": "英伟达10月30日开盘下跌3.37%",
    "title_zh": "英伟达10月30日开盘下跌3.37%，全面分析",
    "sentiment": -1
+  },
+  {
+   "id": "36288ffb181a",
+   "title": "$英伟达 (NVDA.US)$ 低于 万亿 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUF9ER2UycHlRQTlvRXpoMzRtMWZFX0FfbFFleTVWblZtYS0tcWdJMDg4Y0VRWnlrTktabVlwRzEzbU9lSWVpaEhDM3RPMFZtTmJCYzVZUU5DLW1pa1RlNzlHQ0M1cXlJRjlwOWIxNmE0VWtDZGd0dGE1R1FselpLaU5rZmxUT3V2Z2tINEpVQy1yV0NP",
+   "source": "Moomoo",
+   "published_at": "2026-10-30T13:42:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-30T13:42:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUF9ER2UycHlRQTlvRXpoMzRtMWZFX0FfbFFleTVWblZtYS0tcWdJMDg4Y0VRWnlrTktabVlwRzEzbU9lSWVpaEhDM3RPMFZtTmJCYzVZUU5DLW1pa1RlNzlHQ0M1cXlJRjlwOWIxNmE0VWtDZGd0dGE1R1FselpLaU5rZmxUT3V2Z2tINEpVQy1yV0NP"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "30d69731e9a4",
@@ -964,26 +1071,6 @@
    "zh_summary": "中国否认针对英伟达CEO间谍指控",
    "title_zh": "中国否认针对英伟达CEO的间谍行动指控",
    "sentiment": 0
-  },
-  {
-   "id": "3e3d95a3c2e7",
-   "title": "$英伟达 (NVDA.US)$ 泡沫破裂 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ204Rks0TFR6LVJrUTh3QkJleEx4ZUJ6eWRPRnI0UWVHLW1ycEpPSjNuaVNQNEFQNFhzS1hBXzFXZm1hekl2VHhYOVRIa0otSWE2OUJpeWZwdWJsY1ptZ0FXRlRpNmRpX3A3dHAxRlZCcFZmOHFyS1FyRllvQ1dKMnJfdDhZNXdxY2V1dURpY0dhZ3c",
-   "source": "Moomoo",
-   "published_at": "2026-10-30T12:14:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-30T12:14:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ204Rks0TFR6LVJrUTh3QkJleEx4ZUJ6eWRPRnI0UWVHLW1ycEpPSjNuaVNQNEFQNFhzS1hBXzFXZm1hekl2VHhYOVRIa0otSWE2OUJpeWZwdWJsY1ptZ0FXRlRpNmRpX3A3dHAxRlZCcFZmOHFyS1FyRllvQ1dKMnJfdDhZNXdxY2V1dURpY0dhZ3c"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达低于万亿",
-   "title_zh": "$英伟达 (NVDA.US)$ 低于 万亿",
-   "sentiment": -1
   },
   {
    "id": "dd0f026f5d9c",
@@ -2979,6 +3066,23 @@
    "sentiment": 1
   },
   {
+   "id": "1d8bdfab9ae1",
+   "title": "中国女高管与英伟达CEO黄仁勋关系密切 被疑搜集商业机密 - 茉莉花新闻网",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PNVkxTW42X0pHRGVhaTFSRUdqanJFN1Q4YVA1cnpyOVBYMWdSbExxNkgxVWV2alpXckEwem1jemJQVVh3WUE",
+   "source": "茉莉花新闻网",
+   "published_at": "2026-10-30T02:07:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "茉莉花新闻网",
+     "published_at": "2026-10-30T02:07:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PNVkxTW42X0pHRGVhaTFSRUdqanJFN1Q4YVA1cnpyOVBYMWdSbExxNkgxVWV2alpXckEwem1jemJQVVh3WUE"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘后"
+  },
+  {
    "id": "6e6ed27bfb1d",
    "title": "Nvidia Export Controls: Spy Claim Hits AI Compute [2026] - https://tech-insider.org/",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSHQ0Tks5Qkh6TzN0TXlqTHpHZlJ6cmdacXFTU196Qm42ZVc5NGpYeHk3bVdwRGRxbi1vZzMyeEZpY0F1cHZpUmwzNVFoVU9oYk9HSkwzTkk1MHlXSXd2eldnaWRHaFhOQWg5V05pYmpIY3ZPRjF6MjhmanpkeUJORk80aXp6TE5JTUJvWjdzX1Q4VXN0SklicUE1TUdFdw",
@@ -3866,6 +3970,23 @@
    "zh_summary": "黄仁勋称与疑似间谍公司往属正常",
    "title_zh": "黄仁勋称英伟达与疑似间谍公司往属正常",
    "sentiment": 0
+  },
+  {
+   "id": "180a1afe66df",
+   "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot - The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz",
+   "source": "The New York Times",
+   "published_at": "2026-10-29T19:27:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The New York Times",
+     "published_at": "2026-10-29T19:27:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "2a8ef1864bd2",
@@ -6414,146 +6535,6 @@
    "zh_summary": "竞争调查引发新AI担忧，股价下滑",
    "title_zh": "英伟达股价下滑，竞争调查引发新AI担忧",
    "sentiment": -1
-  },
-  {
-   "id": "80c58bf4b800",
-   "title": "Marvell nears $83B deal for Nvidia-backed optics maker Lumentum - Dealroom",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0tLMW9WWjBCdkNmX3dPSWFneVREQ0V3SEZ3eG42czVLVkRncVhfdl9Ia3BrVnE4c0VLS3FxMmJVU0c2bXBpZmRWZ3dOc3kyclR6MGJsYWQ4UWlndEd6dndpT0x6WDNEODZPRUJpU1RpR01iZzhfcWliemlsNlR0Z2ZoeVoyWGRmR3RsbHJBOFlDQko1OEViMVhmQ0Q",
-   "source": "Dealroom",
-   "published_at": "2026-10-29T10:50:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Dealroom",
-     "published_at": "2026-10-29T10:50:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0tLMW9WWjBCdkNmX3dPSWFneVREQ0V3SEZ3eG42czVLVkRncVhfdl9Ia3BrVnE4c0VLS3FxMmJVU0c2bXBpZmRWZ3dOc3kyclR6MGJsYWQ4UWlndEd6dndpT0x6WDNEODZPRUJpU1RpR01iZzhfcWliemlsNlR0Z2ZoeVoyWGRmR3RsbHJBOFlDQko1OEViMVhmQ0Q"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Marvell拟830亿美元收购Lumentum",
-   "title_zh": "Marvell拟以830亿美元收购英伟达支持的光学厂商Lumentum",
-   "sentiment": 0
-  },
-  {
-   "id": "239dc4d8d2e2",
-   "title": "Complete Dell workstation with 96GB NVIDIA GPU may cost less than graphics card alone - VideoCardz.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFlfcmhURHlBdlo3SE41TElzQ0JwU0w4dEFxSkRCLW0wUXRsSnJaYWMxcS03UXhnUzkybUdqUEMtWVRQd05vc3VqcHhXTWd3MkY4U19walpUXzY0SnlwY1lNYW82TWYwTmxwVzFxb21qWmVYVW9pN2g0dHk1UGZvMWg4dER0bXpGWnZ5TlRpam1jd0RqczA3Y1BneEhWSWtZT3VwT0M2ZWJ2MDRMcXdMQlNFZw",
-   "source": "VideoCardz.com",
-   "published_at": "2026-10-29T10:39:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "VideoCardz.com",
-     "published_at": "2026-10-29T10:39:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFlfcmhURHlBdlo3SE41TElzQ0JwU0w4dEFxSkRCLW0wUXRsSnJaYWMxcS03UXhnUzkybUdqUEMtWVRQd05vc3VqcHhXTWd3MkY4U19walpUXzY0SnlwY1lNYW82TWYwTmxwVzFxb21qWmVYVW9pN2g0dHk1UGZvMWg4dER0bXpGWnZ5TlRpam1jd0RqczA3Y1BneEhWSWtZT3VwT0M2ZWJ2MDRMcXdMQlNFZw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "戴尔96GB英伟达GPU工作站或比单卡便宜",
-   "title_zh": "戴尔96GB英伟达GPU整机或比单张显卡便宜",
-   "sentiment": 0
-  },
-  {
-   "id": "cb304927e7a7",
-   "title": "Nvidia's Microducks: what they are and why everyone loves them - nss magazine",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGp2bEFzZG02dG13Zm9MSHNIWEFmbTJrNm5PZlcyY0lGXzhiZXEyTzBvNTVKc2NwanY1TmJLaG93ZjQ2SXhRRmEtM1hYUE93RF9iS3RVZ1gwTHVEQktlY2luQ0kzZzA3cTMyazVFZkdTVjJqVEl5YlFqYlNWdEM3SXdDWFl0ZnJk",
-   "source": "nss magazine",
-   "published_at": "2026-10-29T10:33:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "nss magazine",
-     "published_at": "2026-10-29T10:33:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGp2bEFzZG02dG13Zm9MSHNIWEFmbTJrNm5PZlcyY0lGXzhiZXEyTzBvNTVKc2NwanY1TmJLaG93ZjQ2SXhRRmEtM1hYUE93RF9iS3RVZ1gwTHVEQktlY2luQ0kzZzA3cTMyazVFZkdTVjJqVEl5YlFqYlNWdEM3SXdDWFl0ZnJk"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达Microducks介绍及其受欢迎原因",
-   "title_zh": "英伟达Microducks是什么，为何人人喜爱",
-   "sentiment": 0
-  },
-  {
-   "id": "0ee02b247f97",
-   "title": "中国台湾新首富：身家1350亿，公司毛利赶超英伟达、台积电 - 潮起网",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zenRRS2FndU05SFFuWWhpV3R2dWx5bjAyd1NBb1JNMVVGRGE5ajVDXzUxc3dBV2RYQVZmbDBzUUlqV1RhVkxyZVB0VGw5dW0xRmtDVUFlQmdOT3ZXOHU1M1hDMA",
-   "source": "潮起网",
-   "published_at": "2026-10-29T10:31:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "潮起网",
-     "published_at": "2026-10-29T10:31:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zenRRS2FndU05SFFuWWhpV3R2dWx5bjAyd1NBb1JNMVVGRGE5ajVDXzUxc3dBV2RYQVZmbDBzUUlqV1RhVkxyZVB0VGw5dW0xRmtDVUFlQmdOT3ZXOHU1M1hDMA"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘前",
-   "zh_summary": "台湾新首富身家1350亿毛利超英伟达",
-   "title_zh": "中国台湾新首富身家1350亿，毛利赶超英伟达台积电",
-   "sentiment": 0
-  },
-  {
-   "id": "ff19f740abfb",
-   "title": "Naver closes $10bn investment from Brookfield and Nvidia - Data Center Dynamics",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUJET1V4QWM4bDFXZlJFNmhNMVhDdmJSTXo1R2hQTVc1UkM4RlF3VGNHcWNlNDZEZU5JNDJ0ZWpjbzRia2MwX1FKZ3d4TUR5cWZQcVNqR04wUUtDUVNtTjY5clZlbk1Ja2lqMi1Na1dhWm42ZU5JNEdlN0ZFdGtVcjV4R3otSllMRFNrMEU3ckI5ZDR1U3NPaEEyanVueHJB",
-   "source": "Data Center Dynamics",
-   "published_at": "2026-10-29T10:22:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Data Center Dynamics",
-     "published_at": "2026-10-29T10:22:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUJET1V4QWM4bDFXZlJFNmhNMVhDdmJSTXo1R2hQTVc1UkM4RlF3VGNHcWNlNDZEZU5JNDJ0ZWpjbzRia2MwX1FKZ3d4TUR5cWZQcVNqR04wUUtDUVNtTjY5clZlbk1Ja2lqMi1Na1dhWm42ZU5JNEdlN0ZFdGtVcjV4R3otSllMRFNrMEU3ckI5ZDR1U3NPaEEyanVueHJB"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达参与Naver100亿美元投资",
-   "title_zh": "Naver完成来自Brookfield与英伟达的100亿美元投资",
-   "sentiment": 1
-  },
-  {
-   "id": "ff8809e3447a",
-   "title": "Why are Nvidia, AMD and Intel stocks crashing in pre-market trading today? - Invezz",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXU4WnFiYmdVYWJmLUdGdURSM0doS2FEZmN6WGx2d1l0ZG1mc043clNKZXRnX184MFdETTdUZy1rQUd1NWdXaDFKcUNjTHlRblp3eXpaak50Sy0yWVJ6S2FPZ1N5NTc5NXl3M0tDUkZXY2hDRk15T19BM05yRVlQVUE5alR2cTFWNUw1cU16cnZBbWE2dFdMLWIxYVhFUUFYOEdhYUQxWVBuVlRJ",
-   "source": "Invezz",
-   "published_at": "2026-10-29T10:13:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Invezz",
-     "published_at": "2026-10-29T10:13:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXU4WnFiYmdVYWJmLUdGdURSM0doS2FEZmN6WGx2d1l0ZG1mc043clNKZXRnX184MFdETTdUZy1rQUd1NWdXaDFKcUNjTHlRblp3eXpaak50Sy0yWVJ6S2FPZ1N5NTc5NXl3M0tDUkZXY2hDRk15T19BM05yRVlQVUE5alR2cTFWNUw1cU16cnZBbWE2dFdMLWIxYVhFUUFYOEdhYUQxWVBuVlRJ"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘前",
-   "zh_summary": "英伟达AMD英特尔盘前股价大跌",
-   "title_zh": "为何英伟达、AMD、英特尔今日盘前股价大跌？",
-   "sentiment": -1
-  },
-  {
-   "id": "5b0b0f2c644d",
-   "title": "英伟达 Rubin 之后，国产金刚石散热的第一笔大单来了 - 电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44a0FGVFJNZEtzMXc2cWhnN0N0ZXlQU0JUVDJ5ZGZ4M21CX240dkFqMW44MlNzN1dlaTlPU1BNQ2RBdjBQcmlKbjRKM2MyUWFSTDBv",
-   "source": "电子工程专辑",
-   "published_at": "2026-10-29T10:09:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "电子工程专辑",
-     "published_at": "2026-10-29T10:09:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44a0FGVFJNZEtzMXc2cWhnN0N0ZXlQU0JUVDJ5ZGZ4M21CX240dkFqMW44MlNzN1dlaTlPU1BNQ2RBdjBQcmlKbjRKM2MyUWFSTDBv"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "国产金刚石散热迎来首笔大单",
-   "title_zh": "英伟达 Rubin 之后，国产金刚石散热的第一笔大单来了",
-   "sentiment": 1
   }
  ]
 }
