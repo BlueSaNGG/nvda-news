@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T12:21:34.922505+00:00",
+ "updated_at": "2026-10-30T12:36:30.276972+00:00",
  "market": {
   "price": 213.66,
   "change_pct": -0.8,
@@ -10,8 +10,8 @@
    "days_left": 18
   },
   "day_sentiment": {
-   "avg": 0.16,
-   "count": 69
+   "avg": 0.15,
+   "count": 73
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.16（69条已评分）"
+     "note": "今日新闻情绪 +0.15（73条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 47.4,
    "ma20": 222.93,
-   "as_of": "2026-10-30T12:21:34.910932+00:00"
+   "as_of": "2026-10-30T12:36:30.266250+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e70493988346",
+   "title": "China denies allegations of spy operation targeting Nvidia CEO - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZFlsUnZvRklFc3JQMmdMU2xaUGtReTVkOUpkaXJBVUZ5cnVBbHp4dWVBSFlhejcwNmZGUkFnY3FGLWRFWG1nLTlYS2lDbl9nRFRLaHlIOC1UdjFJVjVlbXFUczh5S2k4aG5Pa1pRVGRaQ2pzbi1rYlh0clNIWjB3aXl5Q3VpVkFmLUo5OVRsdEdXMVM0SkpHMFd2NA",
+   "source": "Yahoo",
+   "published_at": "2026-10-30T12:20:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-30T12:20:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZFlsUnZvRklFc3JQMmdMU2xaUGtReTVkOUpkaXJBVUZ5cnVBbHp4dWVBSFlhejcwNmZGUkFnY3FGLWRFWG1nLTlYS2lDbl9nRFRLaHlIOC1UdjFJVjVlbXFUczh5S2k4aG5Pa1pRVGRaQ2pzbi1rYlh0clNIWjB3aXl5Q3VpVkFmLUo5OVRsdEdXMVM0SkpHMFd2NA"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
   {
    "id": "dd0f026f5d9c",
    "title": "China rejects report of spy plot targeting Nvidia's Jensen Huang - Euronews.com",
@@ -200,26 +217,6 @@
    "zh_summary": "北京否认英伟达老板成间谍目标说法",
    "title_zh": "北京否认“英伟达老板成为中国间谍活动目标”的说法 - RFI",
    "sentiment": 0
-  },
-  {
-   "id": "1b8bb9bf8c97",
-   "title": "Video Suspected spy plot against Nvidia head - ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3YURzeFNRTmYtUE5RUE1mX1NvQV9iZHlFLU1oVi1YNEJwX0l5N2xhdTd1RTg2blNYV29Ra3h1OTNyQVFjdHZtTEk1MGE",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "published_at": "2026-10-30T11:58:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ABC News - Breaking News, Latest News and Videos",
-     "published_at": "2026-10-30T11:58:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3YURzeFNRTmYtUE5RUE1mX1NvQV9iZHlFLU1oVi1YNEJwX0l5N2xhdTd1RTg2blNYV29Ra3h1OTNyQVFjdHZtTEk1MGE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "疑似针对英伟达负责人的间谍阴谋",
-   "title_zh": "疑似针对英伟达负责人的间谍阴谋",
-   "sentiment": -1
   },
   {
    "id": "30ae72ab3863",
@@ -1141,6 +1138,31 @@
    "zh_summary": "RTX 5080 24GB版据报2027年1月发布",
    "title_zh": "RTX 5080 24GB版据报2027年1月发布，取代16GB版",
    "sentiment": 1
+  },
+  {
+   "id": "bc56b0dd6513",
+   "title": "Suspected spy plot against Nvidia head - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLVhkeHJIY0d2ekJUZWF3R0stcEl0ZERNV0J0QUZySXNZcEFpbS1hLU5KWHNPaHVPOE1UeGFrQmtmM3I2MXItTWMzNGYzYjZXVlp1RDNYMlF4c0U0SDhIRDY3NmZ0MmxsMVUwczZtS0pXczlhSGowa2pYOWk1UnBBNXVkRU9hazQ4ZUE",
+   "source": "Yahoo",
+   "published_at": "2026-10-30T07:51:22+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-10-30T07:51:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLVhkeHJIY0d2ekJUZWF3R0stcEl0ZERNV0J0QUZySXNZcEFpbS1hLU5KWHNPaHVPOE1UeGFrQmtmM3I2MXItTWMzNGYzYjZXVlp1RDNYMlF4c0U0SDhIRDY3NmZ0MmxsMVUwczZtS0pXczlhSGowa2pYOWk1UnBBNXVkRU9hazQ4ZUE"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "published_at": "2026-10-30T11:58:42+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3YURzeFNRTmYtUE5RUE1mX1NvQV9iZHlFLU1oVi1YNEJwX0l5N2xhdTd1RTg2blNYV29Ra3h1OTNyQVFjdHZtTEk1MGE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "疑似针对英伟达负责人的间谍阴谋",
+   "title_zh": "疑似针对英伟达负责人的间谍阴谋",
+   "sentiment": -1
   },
   {
    "id": "7add64796b27",
@@ -2866,6 +2888,23 @@
    "zh_summary": "英伟达为CEO与涉华高管关系辩护",
    "title_zh": "英伟达为CEO与被指援华高管的关系辩护",
    "sentiment": -1
+  },
+  {
+   "id": "103e9552ff02",
+   "title": "英伟达站台参投，加拿大AI新贵估值突破200亿美元 - 凤凰网财经",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzcDhWTHo1VnZUWGY3Ui1FOHN6dGlETUJOUDRDSjMwMVdMMGdtTW5SVjdtWHV0bDdEek44MDVNbmNHY0d5aS1qdENwdGJnOXRz",
+   "source": "凤凰网财经",
+   "published_at": "2026-10-29T18:25:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "凤凰网财经",
+     "published_at": "2026-10-29T18:25:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzcDhWTHo1VnZUWGY3Ui1FOHN6dGlETUJOUDRDSjMwMVdMMGdtTW5SVjdtWHV0bDdEek44MDVNbmNHY0d5aS1qdENwdGJnOXRz"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "abca3b5509a7",
@@ -4683,12 +4722,17 @@
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS19QU2ZuWXNMSktKcFlCTDdpMjVkQTlfdnQ4NmNaS01lSC00bjVOdC0wQXJJUlYtTEdGQ2tXMFBDUDZxRml2R2c3cXZBUEJQdjBucW9JcFVyMm1VWTVWbEFPbWxFR2hnZl9OcVBhR2hIZFY3Y0ZjVmllcGZLU3ZxWDVRUFZ0Z1ZvaXp4N1ZrNA",
    "source": "Yahoo",
    "published_at": "2026-10-29T12:31:42+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Yahoo",
      "published_at": "2026-10-29T12:31:42+00:00",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS19QU2ZuWXNMSktKcFlCTDdpMjVkQTlfdnQ4NmNaS01lSC00bjVOdC0wQXJJUlYtTEdGQ2tXMFBDUDZxRml2R2c3cXZBUEJQdjBucW9JcFVyMm1VWTVWbEFPbWxFR2hnZl9OcVBhR2hIZFY3Y0ZjVmllcGZLU3ZxWDVRUFZ0Z1ZvaXp4N1ZrNA"
+    },
+    {
+     "name": "trendingtopics.eu",
+     "published_at": "2026-10-30T12:20:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUThveUt1SkR4T0ZsYVJzUEdWUENDSWlId2lOX295MmpjUFk5cU4wQlVKWFNlbVQwZHpQblQ3dkt2YVRDemdGWWtfMVRFX2oyODFKZ1VpTzQtS0ZOMFlPWmZsRkdFRlZMYlZ5bkp1UEJwemlGT1FhRG93LWNrM0RaUlJ0NU5Ya3JxZWc"
     }
    ],
    "category": "其他",
@@ -5367,7 +5411,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz",
    "source": "The New York Times",
    "published_at": "2026-10-29T09:01:51+00:00",
-   "outlets_count": 7,
+   "outlets_count": 8,
    "outlets": [
     {
      "name": "The New York Times",
@@ -5403,6 +5447,11 @@
      "name": "San Francisco Examiner",
      "published_at": "2026-10-29T19:15:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlRnUU5BZEhranluaW1UaUcxdFUxLUgxSzczV1pkRGZrRmV6YW5yNEppeE4tZWVJZjdqNGRhTjRjWUN0NWkxQ3NIM3lJbjR5dHVMQUFvaGE3a0Y1Z0VxOTRDUTNBQk4tdnl5NlRZSHJONHVsS1ltSEtWWUxWYi02THVrSmhKSnZxT0Vlal9VMUlaMlNmd0Z3WnVLYnExZkpqRWRfeUlEbFNMblJlcDV1QkN4a204dW9sV0RwaEhvMGhHUQ"
+    },
+    {
+     "name": "TODAY.com",
+     "published_at": "2026-10-30T11:28:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmhlZnA1MDQyaXg0YldIeDl6OEppMzNYMkE2Nm9DZXJKVS1XNmRCTE5tcGNObWdsTmNwd3BDYnhlQUp4eHROeUJWeVNsSTQtOWNqTGVIOGYxZXRSS1VFUzdsSG8zZnNoblNpajZZTmNlVEh6blR6UDNHUEp5azZtZlhObmdyazN6dUk3dkhKUmRIblhCTUdONl9R"
     }
    ],
    "category": "其他",
@@ -6457,51 +6506,6 @@
    "zh_summary": "国产GPU现场挑战英伟达获认可",
    "title_zh": "敢和英伟达现场PK的国产GPU，我是服的 - 搜狐网",
    "sentiment": 0
-  },
-  {
-   "id": "31b3232a8834",
-   "title": "SpaceX and Elon Musk Deliver Fantastic News for Nvidia Stock Investors - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS25xclBmc0ZuN2QyendwNllnLXpfNUZhMnhwMnhyYlRndmNZNnMzVkVBUTJ2X2VaSExsLXUzcEg3dmhQQUdBU1FGeGFrQ21oSmZFQTVJMWwxZkdwQkNIRHNsSWtGbDUyaENvNGc5QU1RbkJNUUd2V04wSmMzdjlINzAyY0c1Q1RBWHZXSmhBcXl5YnJEOEtQeHExRjEwQUxpV2ZzRXNuck5QRUlULUFva2pYWQ",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-29T03:38:26+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-29T03:38:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS25xclBmc0ZuN2QyendwNllnLXpfNUZhMnhwMnhyYlRndmNZNnMzVkVBUTJ2X2VaSExsLXUzcEg3dmhQQUdBU1FGeGFrQ21oSmZFQTVJMWwxZkdwQkNIRHNsSWtGbDUyaENvNGc5QU1RbkJNUUd2V04wSmMzdjlINzAyY0c1Q1RBWHZXSmhBcXl5YnJEOEtQeHExRjEwQUxpV2ZzRXNuck5QRUlULUFva2pYWQ"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-29T03:55:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTTh1RDd0U3VKc1l3YVJUekdiYTJvb3pmNF9iVk9oY1dQeF85WDRzMFNTNjBleWpESDMzS0hFbUc3M0tzN3kwZHRMUUpHV21PR01ERXhrZEY0dGlEbFVnUDJ1OGQwM1VpT3ZpaUpLX1NPcVpiZUZ3T2pDMVBLODRPTy0tMFh3X1MzaDVVVjJqMDI1MnhGQXNoVDlfSER4V09rVk9VU3QyT1NHZDJHNTlnck5EM1ZQbFFuN1F0UWZaaEhNYlgzYTNzeVhCN3ZmTnlFTWRRQUJjWnNSc1dNYWl4aERxUm1udEQ0SDVFLS1R"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "SpaceX为英伟达投资者带来好消息",
-   "title_zh": "SpaceX与马斯克为英伟达投资者带来好消息",
-   "sentiment": 1
-  },
-  {
-   "id": "15163cd64fca",
-   "title": "ETF异动 | 南方两倍做多英伟达(07788)回落逾6% 英伟达129亿美元收购Hugging Face一事遭美国司法部审查 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkxwenFaMGZjQmJLWUwwLVNrMUJXbTZrdW92SldLRElkMi1GNWpUYjR6TUI1cGNLSFIyQnpXX1g0TTVQdzZuTmRzSnpPdlFHX3REU205bWVaaDUzMHV5SDV1aFFDU19kNm56QzQzZ2puaHYwVVhnZU1NeF9kaFpGbWVxQ1duZHdWTXZNOUJwLTdDR20wbmJJcDVzRE1yZGRSN1lR",
-   "source": "富途牛牛",
-   "published_at": "2026-10-29T03:25:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-29T03:25:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkxwenFaMGZjQmJLWUwwLVNrMUJXbTZrdW92SldLRElkMi1GNWpUYjR6TUI1cGNLSFIyQnpXX1g0TTVQdzZuTmRzSnpPdlFHX3REU205bWVaaDUzMHV5SDV1aFFDU19kNm56QzQzZ2puaHYwVVhnZU1NeF9kaFpGbWVxQ1duZHdWTXZNOUJwLTdDR20wbmJJcDVzRE1yZGRSN1lR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "美司法部审查英伟达收购Hugging Face",
-   "title_zh": "英伟达129亿美元收购Hugging Face遭美司法部审查",
-   "sentiment": -1
   }
  ]
 }
