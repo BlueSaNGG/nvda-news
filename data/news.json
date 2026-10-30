@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T05:06:31.092784+00:00",
+ "updated_at": "2026-10-30T05:21:53.466692+00:00",
  "market": {
   "price": 213.66,
   "change_pct": -0.8,
@@ -10,8 +10,8 @@
    "days_left": 18
   },
   "day_sentiment": {
-   "avg": -0.08,
-   "count": 211
+   "avg": 0.0,
+   "count": 2
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.08（211条已评分）"
+     "note": "今日新闻情绪 +0.00（2条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 47.4,
    "ma20": 222.93,
-   "as_of": "2026-10-30T05:06:31.076136+00:00"
+   "as_of": "2026-10-30T05:21:53.457751+00:00"
   },
   "pe_ttm": 27.2,
   "pe_pct_5y": 22,
@@ -4254,26 +4254,6 @@
    "sentiment": 1
   },
   {
-   "id": "0de1d31f2e18",
-   "title": "开源！英伟达GPU隐藏算力被破解，RTX 4090 吞吐直接翻倍 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1",
-   "source": "搜狐网",
-   "published_at": "2026-10-29T07:35:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-29T07:35:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTBHNGNFN2JPX0l6NWJWYVJrbjAwM0xpUTZ0cGZERFZJWXFFU3JuR3N0ek5GNHdFRnVNY1M1NExxT3UtdllOMEZJRzU4aW5nbEFpNzhSNXNtaTVHUXYyV1BROENicHRlUTFQRjVwb2pSN0FlWDlTMVRzVmF6UmJJOEd1WEZycUM1"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达GPU隐藏算力被破解，RTX4090吞吐翻倍",
-   "title_zh": "英伟达GPU隐藏算力被破解，RTX 4090吞吐翻倍",
-   "sentiment": 0
-  },
-  {
    "id": "05d53a1f9711",
    "title": "英伟达回应Vera Rubin平台规格变更：新版为量产规格，第三方跑分均是按量产版测的 - 搜狐网",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZTFPelZleUFSbTNITXphajNuM0Q3LVRKSFgxWUtZTEF3ZnVKWGJ0cy0zd2htRE52bXUzRWtlU1F1d292NzdBWGJHZ1UzV2tVRWdvM0twNHZjc0dRUU5UY2NlbkJ4RzRNcWdXMXgzQkFQMXAyVVRsLWFIbHlQMjI1eG5vczgzdWRI",
@@ -4818,12 +4798,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVhCNWxPQ1lxdWxvNjdGZ1ZSSVZ5RWdxQ21zNHFZNTN4YTA3OUw3Y0NlMmZfTGl2eHNYSUdXUDdQVDlDQjE4T3ZPa0ptTHpFd0pzenRkYjg1TWE3REZyWmUzQkZMaTFMZl9pRFExLW5icjktNnQ1dGRtZTk1MmpETkhxNXJrRTRzdkw4",
    "source": "搜狐网",
    "published_at": "2026-10-29T03:40:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐网",
      "published_at": "2026-10-29T03:40:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVhCNWxPQ1lxdWxvNjdGZ1ZSSVZ5RWdxQ21zNHFZNTN4YTA3OUw3Y0NlMmZfTGl2eHNYSUdXUDdQVDlDQjE4T3ZPa0ptTHpFd0pzenRkYjg1TWE3REZyWmUzQkZMaTFMZl9pRFExLW5icjktNnQ1dGRtZTk1MmpETkhxNXJrRTRzdkw4"
+    },
+    {
+     "name": "智源社区",
+     "published_at": "2026-10-30T05:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPYWF3d3U1aXNHaHlibWtjOXpuS1gtUlZJRHNiYXUxaS1YOWlISUtFbXRyZDhYczM4MzUwbWJrYnhpYkxMc3RfSg"
     }
    ],
    "category": "其他",
@@ -5844,6 +5829,23 @@
    "sentiment": 1
   },
   {
+   "id": "5faccbd482d1",
+   "title": "甲骨文加码英伟达芯片至数吉瓦级 首度引入谷歌TPU 市场紧盯投资者日 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lbWg0X24zeUlZaGZiNmtYVTl6ckpNN0x4M0xCODc1N0hKSl9HMTNOaDExWXp2TldIX0dLaFhQbFZabTAwMl9hU0lHdVJSLWh4b01Bc2kyZ2pDZmRaVjdiTlBZMmlYaWM",
+   "source": "东方财富",
+   "published_at": "2026-10-28T20:24:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-10-28T20:24:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lbWg0X24zeUlZaGZiNmtYVTl6ckpNN0x4M0xCODc1N0hKSl9HMTNOaDExWXp2TldIX0dLaFhQbFZabTAwMl9hU0lHdVJSLWh4b01Bc2kyZ2pDZmRaVjdiTlBZMmlYaWM"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
+  {
    "id": "38650893cfd9",
    "title": "Meta’s Raising $97.5 Billion. Nvidia and AMD Are Buying In. - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnZ4Vm91UVpOZkJKOHNQT3pZOVdhQy1vLTd3WFlvTk9XZEFxNUplVi1vS3FobTdOOXdXS1FiV1lHUXVsX09JTldOTWJ2bzlNcGxJM1RlRlJwbFdUSjl4MFgwZk5fWE00ZzBlaG5ac1JjQzAtZ0paMWpmWFg5cWRoVDNuOWIzbHRqYzJKQzlJQWk0dzlG",
@@ -6002,40 +6004,6 @@
    "zh_summary": "英伟达CPO扩产，AI互连将规模交付",
    "title_zh": "15倍之后再看30倍：英伟达CPO扩产，AI互连进入规模交付前夜",
    "sentiment": 1
-  },
-  {
-   "id": "4e7f263fd99e",
-   "title": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc",
-   "source": "Yahoo! Finance Canada",
-   "published_at": "2026-10-28T19:55:44+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-10-28T19:55:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc"
-    },
-    {
-     "name": "Yahoo Finance Australia",
-     "published_at": "2026-10-29T00:45:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E"
-    },
-    {
-     "name": "Yahoo Finance UK",
-     "published_at": "2026-10-29T04:12:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达股价新闻与历史行情页",
-   "title_zh": "英伟达公司股价、新闻、报价与历史",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.5,
-    "window_h": 2.0
-   }
   },
   {
    "id": "bdbbb4085a08",
@@ -6667,6 +6635,23 @@
    "zh_summary": "英伟达与Meta扩大Muse模型合作",
    "title_zh": "英伟达与Meta扩大Muse模型合作 - QQ News",
    "sentiment": 1
+  },
+  {
+   "id": "ba3bce54fc16",
+   "title": "Nvidia Launches RTX Spark Windows Laptops Featuring Advanced AI; NVDA Shares Slip Slightly - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWV81QWtjcjVVUnJPWDJFMS0tWGRqWjNOZ3BoNWMwYlZzcG12YzJWZ0NZd2txUHk1V2VESjFPM3RUZ1hOazN4N3BLSEx4SGZzSkJja3RDT0dINDlqcHJHWl9WdjF4Vi1UVWdxeU8xSEJkb1F6ck1TdXN6b2lMWVE2RnRSOV9xcS1iYmx0RmcyNXEyTk5FWVE5VGNUbUdxS0dmamExcy15ZnF1MzdTcVZlNGpQSDI2Ti1jY2huVEQ0ZVdBSVRTZ3FF",
+   "source": "GuruFocus",
+   "published_at": "2026-10-28T16:41:35+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-10-28T16:41:35+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWV81QWtjcjVVUnJPWDJFMS0tWGRqWjNOZ3BoNWMwYlZzcG12YzJWZ0NZd2txUHk1V2VESjFPM3RUZ1hOazN4N3BLSEx4SGZzSkJja3RDT0dINDlqcHJHWl9WdjF4Vi1UVWdxeU8xSEJkb1F6ck1TdXN6b2lMWVE2RnRSOV9xcS1iYmx0RmcyNXEyTk5FWVE5VGNUbUdxS0dmamExcy15ZnF1MzdTcVZlNGpQSDI2Ti1jY2huVEQ0ZVdBSVRTZ3FF"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   }
  ]
 }
