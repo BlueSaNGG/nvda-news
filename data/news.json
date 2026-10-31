@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T08:36:28.635579+00:00",
+ "updated_at": "2026-10-31T08:51:31.736772+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 17
   },
   "day_sentiment": {
-   "avg": 0.38,
-   "count": 8
+   "avg": 0.3,
+   "count": 10
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.38（8条已评分）"
+     "note": "今日新闻情绪 +0.30（10条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-10-31T08:36:28.624876+00:00"
+   "as_of": "2026-10-31T08:51:31.719393+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d1850dadcba1",
+   "title": "Westwind Capital Sells 4,369 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOUFDd040M09EaERia1RtZnNUYjMxTFZoNUVjblo0Y29FZ1I2eDBFNlFZanpacVBSRlEwSUlkckpKWVRkMS1TN1NHeTRCUkluLTlBYXNOcVdtbXluWFh5ZldNV0pWUUVwUU9lTmtzZEE3RnhfQ1ZiZl9OaUlUcUZaTEQxVUZtZGRhb2U1MVJ4aDhLMzItNi02WEJnX0VONk1DeHZGcTJaRVFNSE1TZTVOWXpDcXNMNE9VVDhpaEhkRQ",
+   "source": "MarketBeat",
+   "published_at": "2026-10-31T08:27:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-31T08:27:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOUFDd040M09EaERia1RtZnNUYjMxTFZoNUVjblo0Y29FZ1I2eDBFNlFZanpacVBSRlEwSUlkckpKWVRkMS1TN1NHeTRCUkluLTlBYXNOcVdtbXluWFh5ZldNV0pWUUVwUU9lTmtzZEE3RnhfQ1ZiZl9OaUlUcUZaTEQxVUZtZGRhb2U1MVJ4aDhLMzItNi02WEJnX0VONk1DeHZGcTJaRVFNSE1TZTVOWXpDcXNMNE9VVDhpaEhkRQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "12b7692c0057",
    "title": "NVIDIA Corporation $NVDA Stock Bought by Grove Bank & Trust - MarketBeat",
@@ -1959,7 +1976,7 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3VzBEZXZuMTA3NUN5LVVWQUJWdmlqVzYxZGt1ZzF4eDdMS0tWTVFtdURkZkJmRkVtcElSU21KaFNVektPYTdhcHhfaFBSQlV1YU5Nb0tWQQ",
    "source": "环球网",
    "published_at": "2026-10-30T14:53:00+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "环球网",
@@ -1975,6 +1992,11 @@
      "name": "QQ News",
      "published_at": "2026-10-31T06:01:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yd0ZQRnQ0RWhRSUpjU2FJT3ZEb0hrMlFDMVlVeDE1bGZRTmNyQ09KZ2E5QjFZdGdZd0oxSS03YWwtTVZzbkhZTGJ3NU1xOG84ODhMTlV4NjJSTlk1OGN6ZThnTFI1VHJpazM5Z01aWllCVEFLcHdaUg"
+    },
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-31T06:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DVWlVb3BQR2tlTUtIWXJQamVHM1FCaThfZ2I4SmZCakVZTkFOc093RXNJLTdLWDFXYXR6OEhZR0FKbkxYU0Z2VkxERDdRUnJoRUdFMg"
     }
    ],
    "category": "其他",
@@ -6708,26 +6730,6 @@
    "session": "盘中",
    "zh_summary": "英伟达支持的Cohere接近完成50亿美元融资",
    "title_zh": "英伟达支持的Cohere接近完成50亿美元融资",
-   "sentiment": 1
-  },
-  {
-   "id": "245204b0c697",
-   "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS - Amazon Web Services (AWS)",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdW1KaVI4aVBjbHFLX3ZYQThaQ0FGQ0tkTnVVSlRnc292Z3h1Qnd6VERTM1dTX2xmU0t0dC0tVjVYZEtqZzk5Q05RNjNyYnplTTJpR09CR0k1NC0xR28zVy1GZllDRHd4WFRnQWtVTFp2R0dfYVdkeHFXZWxOMkhudEw1WUcwZFdKUTZsWjN5VFhIMDRWNzJITkxxOWs1aXdIOWhzTGRFLVBOaVlnZkE0ZG1Qb1BYZDZLREN0T1ZkZlN1cVloZGZJa3VUdVNndE5QUnVj",
-   "source": "Amazon Web Services (AWS)",
-   "published_at": "2026-10-29T16:11:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Amazon Web Services (AWS)",
-     "published_at": "2026-10-29T16:11:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdW1KaVI4aVBjbHFLX3ZYQThaQ0FGQ0tkTnVVSlRnc292Z3h1Qnd6VERTM1dTX2xmU0t0dC0tVjVYZEtqZzk5Q05RNjNyYnplTTJpR09CR0k1NC0xR28zVy1GZllDRHd4WFRnQWtVTFp2R0dfYVdkeHFXZWxOMkhudEw1WUcwZFdKUTZsWjN5VFhIMDRWNzJITkxxOWs1aXdIOWhzTGRFLVBOaVlnZkE0ZG1Qb1BYZDZLREN0T1ZkZlN1cVloZGZJa3VUdVNndE5QUnVj"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达Nemotron模型登陆亚马逊EKS平台",
-   "title_zh": "英伟达Nemotron模型加速亚马逊EKS智能体AI",
    "sentiment": 1
   }
  ]
