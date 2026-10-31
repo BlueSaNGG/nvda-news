@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T10:21:27.331318+00:00",
+ "updated_at": "2026-10-31T10:36:25.889288+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 17
   },
   "day_sentiment": {
-   "avg": 0.18,
-   "count": 22
+   "avg": 0.13,
+   "count": 23
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.18（22条已评分）"
+     "note": "今日新闻情绪 +0.13（23条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-10-31T10:21:27.322705+00:00"
+   "as_of": "2026-10-31T10:36:25.872363+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "e031b4b9445e",
+   "title": "Nvidia loses its $5 trillion crown as Apple takes the top spot - Notebookcheck",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPODVTMFdMZU9jU2NYLWF5WGZMTWN0TEZITHdxYjFaQ0tTVEtNN3A2R0FnRlVqRTlWVURNRlo5blBkejlzSVNlWnF4LVA4emFwS2RwZkZ2UV9kZkZ1Y2ZYRldGYUw5T2Z1VTdlOHBTLThHU0VWelVUdXVBbXp5ckYwd1lHbVJLOHZuQi16dmxUOWNwNkJjQlRMbVJNOXAwcExWNjlpcW5iZlZGZw",
+   "source": "Notebookcheck",
+   "published_at": "2026-10-31T10:23:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Notebookcheck",
+     "published_at": "2026-10-31T10:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPODVTMFdMZU9jU2NYLWF5WGZMTWN0TEZITHdxYjFaQ0tTVEtNN3A2R0FnRlVqRTlWVURNRlo5blBkejlzSVNlWnF4LVA4emFwS2RwZkZ2UV9kZkZ1Y2ZYRldGYUw5T2Z1VTdlOHBTLThHU0VWelVUdXVBbXp5ckYwd1lHbVJLOHZuQi16dmxUOWNwNkJjQlRMbVJNOXAwcExWNjlpcW5iZlZGZw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "515aa64387a4",
    "title": "Bernie Sanders warns Oracle, Nvidia and other technology companies on expenditure that has wiped billions - The Times of India",
@@ -100,6 +117,23 @@
    "zh_summary": "英伟达插层光学技术功耗降3.5倍",
    "title_zh": "英伟达插层光学技术功耗降低3.5倍",
    "sentiment": 1
+  },
+  {
+   "id": "e4f224a83483",
+   "title": "US stock market plunged drastically last night. My NVDA Put went from 22% profit to a -66.67% unrealized loss overnight. I'm not worried though—volatility is just part of the options game! - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOODNUTjEtdXhWRXpkRldNTGdxZjJRWklPZUdwR01Qd3FZYXpWWUh1MHVsVFQxVm1UdXhrQjBoZGtYb0FmVHlwcXBNU0RONVhPMU5ZdTFWdEEzLUhXdThVb1JreXVIY21Va0NTbnpfMy1CV1ZhOG9jRThmTTdtdDNJR3VlelRJUUdld01VTUlZZGpFZ05QM09USzhURmlGYXdUR0JBT044T3VGQi1ON3ZBRkJn",
+   "source": "Moomoo",
+   "published_at": "2026-10-31T09:46:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-10-31T09:46:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOODNUTjEtdXhWRXpkRldNTGdxZjJRWklPZUdwR01Qd3FZYXpWWUh1MHVsVFQxVm1UdXhrQjBoZGtYb0FmVHlwcXBNU0RONVhPMU5ZdTFWdEEzLUhXdThVb1JreXVIY21Va0NTbnpfMy1CV1ZhOG9jRThmTTdtdDNJR3VlelRJUUdld01VTUlZZGpFZ05QM09USzhURmlGYXdUR0JBT044T3VGQi1ON3ZBRkJn"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "周末"
   },
   {
    "id": "9ef7e5f01df5",
@@ -6689,46 +6723,6 @@
    "session": "盘中",
    "zh_summary": "英伟达参与Cohere最高70亿加元融资",
    "title_zh": "Cohere最高70亿加元E轮融资吸引英伟达",
-   "sentiment": 1
-  },
-  {
-   "id": "79616d5a37dc",
-   "title": "Nvidia CEO reportedly targeted by Chinese spy previously under suspicion for AI chip smuggling - PC Gamer",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLTJBMkNmMzJrSFpBOXNrTy1SNk5rc1AyN2NHeEFTR3JKTFhLTDFmNGEtbzZha0RDZk1aRUNDeXRpNDNBcVJnbV9HRExETFotZm5POU9wSl9ZeVpWVk9RWkZ3SnprYjhaUVo4VVQ5aDNiaDhjSmFKUlVFa1l3Z0RZZ3dRM1llLWc3b0FVT2ZZdW1WNzc1d05DbnhiZzBCelp6TzJyekl0anNjMTBTYXhsLUM3T0lkOUxwQlFWd09PWEk0akg3QzNjcjZ1Zw",
-   "source": "PC Gamer",
-   "published_at": "2026-10-29T17:30:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "PC Gamer",
-     "published_at": "2026-10-29T17:30:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLTJBMkNmMzJrSFpBOXNrTy1SNk5rc1AyN2NHeEFTR3JKTFhLTDFmNGEtbzZha0RDZk1aRUNDeXRpNDNBcVJnbV9HRExETFotZm5POU9wSl9ZeVpWVk9RWkZ3SnprYjhaUVo4VVQ5aDNiaDhjSmFKUlVFa1l3Z0RZZ3dRM1llLWc3b0FVT2ZZdW1WNzc1d05DbnhiZzBCelp6TzJyekl0anNjMTBTYXhsLUM3T0lkOUxwQlFWd09PWEk0akg3QzNjcjZ1Zw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达CEO据报遭中国间谍盯上",
-   "title_zh": "英伟达CEO据报被涉嫌走私AI芯片的中国间谍盯上",
-   "sentiment": -1
-  },
-  {
-   "id": "38a90f0f0041",
-   "title": "Nvidia and Canada are backing Cohere's record funding round of up to CAD $7 billion - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsdGpaQWJQQTVCcEVOMkNkZGZyd1FXZUVjX1BvNFJvdzZfZnRJN0pjN3RXWXk5cWNOZzV2YWMxTEtZQjJucFVwWlpjTkl4TEJrSE9UR3BkTXBkWVZiZzBUY3RoU3dyeVhqTjJFZWVyX2lfTFE",
-   "source": "Quartz",
-   "published_at": "2026-10-29T17:26:33+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Quartz",
-     "published_at": "2026-10-29T17:26:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsdGpaQWJQQTVCcEVOMkNkZGZyd1FXZUVjX1BvNFJvdzZfZnRJN0pjN3RXWXk5cWNOZzV2YWMxTEtZQjJucFVwWlpjTkl4TEJrSE9UR3BkTXBkWVZiZzBUY3RoU3dyeVhqTjJFZWVyX2lfTFE"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达与加拿大支持Cohere创纪录融资",
-   "title_zh": "英伟达与加拿大支持Cohere最高70亿加元融资",
    "sentiment": 1
   }
  ]
