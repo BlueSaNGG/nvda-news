@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-10-31T01:21:38.619597+00:00",
+ "updated_at": "2026-10-31T01:36:39.307801+00:00",
  "market": {
-  "price": 213.66,
-  "change_pct": -0.8,
+  "price": 204.64,
+  "change_pct": -4.22,
   "as_of": "2026-10-30",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": -0.1,
-   "count": 177
+   "count": 178
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 65% 分位"
+     "note": "现价处于52周区间 53% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +47.4%"
+     "note": "目标价中位数 $315（17家），隐含空间 +53.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.10（177条已评分）"
+     "note": "今日新闻情绪 -0.10（178条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $213.66 vs 20日均线 $222.93"
+     "note": "现价 $204.64 vs 20日均线 $221.46"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 65,
+   "price_52w_pct": 53,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 47.4,
-   "ma20": 222.93,
-   "as_of": "2026-10-31T01:21:38.611200+00:00"
+   "implied_upside_pct": 53.9,
+   "ma20": 221.46,
+   "as_of": "2026-10-31T01:36:39.294154+00:00"
   },
-  "pe_ttm": 27.2,
-  "pe_pct_5y": 22,
-  "valuation_sentence": "现价处5年P/E 22%分位，目标价隐含+47.4%空间：估值偏低，预期乐观"
+  "pe_ttm": 26.0,
+  "pe_pct_5y": 18,
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+53.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "c29274e9dbde",
+   "title": "Nvidia Eyes Cosigning Nscale's West Virginia AI Data Center Loan - The Tech Buzz",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYmZ4TGNIeWxBYUxVSzB0XzZhaC1WYkg5ckF2Q0I1SnR1cDBMczkzZ3F1LXJ0eHVaUDBGTXR1Q2FDNi1TdUJsNWM4djN4WFpxMlJSbmFnTC1ibUNoYXRiZmthUkNEVk1YNHREdUM1RnZqOVNIYzBSNlZMSkdLQWZqX1ZMaFc0YTJDc2c0U3kzTzVXTDc4cktuZWo2MnBNZw",
+   "source": "The Tech Buzz",
+   "published_at": "2026-10-31T01:28:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Tech Buzz",
+     "published_at": "2026-10-31T01:28:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYmZ4TGNIeWxBYUxVSzB0XzZhaC1WYkg5ckF2Q0I1SnR1cDBMczkzZ3F1LXJ0eHVaUDBGTXR1Q2FDNi1TdUJsNWM4djN4WFpxMlJSbmFnTC1ibUNoYXRiZmthUkNEVk1YNHREdUM1RnZqOVNIYzBSNlZMSkdLQWZqX1ZMaFc0YTJDc2c0U3kzTzVXTDc4cktuZWo2MnBNZw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
+  {
+   "id": "615d85d88e94",
+   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia - TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGNhWVNJR0JZTnVKVlM5RUZFeGdQZDdMMk9yODB0ZTlGSXRnYzNZU2hVbXBLdVdWbGstX3RPYkphd190d0R5N0VKN0RabTd3aW5OSUI1cHVsME9vVno4Nm1LY0lTV25qZE5EejNqNm91c1dvbVk5YnctUUowaUJoYTJwSEhCY3BIYV9kbVZ1U1RKNTk5Y3NqVDR3YTlrdXZDOWd5ekVvaDdGSzV0aVA5OUFxcw",
+   "source": "TechCrunch",
+   "published_at": "2026-10-31T01:20:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechCrunch",
+     "published_at": "2026-10-31T01:20:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGNhWVNJR0JZTnVKVlM5RUZFeGdQZDdMMk9yODB0ZTlGSXRnYzNZU2hVbXBLdVdWbGstX3RPYkphd190d0R5N0VKN0RabTd3aW5OSUI1cHVsME9vVno4Nm1LY0lTV25qZE5EejNqNm91c1dvbVk5YnctUUowaUJoYTJwSEhCY3BIYV9kbVZ1U1RKNTk5Y3NqVDR3YTlrdXZDOWd5ekVvaDdGSzV0aVA5OUFxcw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
   {
    "id": "d47e0699c65b",
    "title": "苹果重回全球市值最高公司宝座，英伟达市值跌破5万亿美元 - 搜狐网",
@@ -367,6 +401,23 @@
    "sentiment": -1
   },
   {
+   "id": "67e81efa8d48",
+   "title": "Micron Stock Price Forecast: Nvidia's Planned Rubin Ultra HBM Layer Cut and Declining Per-Unit Memory Usage May Drag on Revenue Growth - TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSWtCZ3hRMG0tZW45YmNoZ2tMYTZHQy1nc1VOMl80dUZFUlVGQmZqaVJIOVZFUW5xalRvRVhlRkh4bDF5Tk0wUF9scEtRZVgxV0pQMVg4dktmaVg0NllBc19FV21lcUpKVVhfTmdzczNZekNuNlhHVkU4WkFkT2hhZDJpemYwX1daMUxGekhLYktyTnJjYnR4RklLOHVmZGdFSkQyMDg4eGlCdV9vV3IyM3FfTUV2SUdHM3F5QmM1NmpBdl9pVWlPbkNlSU84TU5ZXzdmbA",
+   "source": "TradingKey",
+   "published_at": "2026-10-30T22:08:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingKey",
+     "published_at": "2026-10-30T22:08:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSWtCZ3hRMG0tZW45YmNoZ2tMYTZHQy1nc1VOMl80dUZFUlVGQmZqaVJIOVZFUW5xalRvRVhlRkh4bDF5Tk0wUF9scEtRZVgxV0pQMVg4dktmaVg0NllBc19FV21lcUpKVVhfTmdzczNZekNuNlhHVkU4WkFkT2hhZDJpemYwX1daMUxGekhLYktyTnJjYnR4RklLOHVmZGdFSkQyMDg4eGlCdV9vV3IyM3FfTUV2SUdHM3F5QmM1NmpBdl9pVWlPbkNlSU84TU5ZXzdmbA"
+    }
+   ],
+   "category": "财报",
+   "session": "盘后"
+  },
+  {
    "id": "d930a7a15503",
    "title": "NVIDIA (NASDAQ:NVDA) Stock Price Down 4.2% - Here's Why - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHVSTkZKVV9qeGtCck8wTk05U0d5VEF2emI0MWZsTmRJd1o4cG9mRXRaRVhuR2JXUHZpUnV2R1JaSWkzWjN4TXpMT0R1UHpQR1JqaUhNSHdFLXN6RUpIYmZ3YkhLdFBteDdSelgtSVZTemlsRjBNTTc4S0R3ZnVab0VTdzRNMWlUNXR3bk1lYS10Rm81QTZlR2Q5ZTY5SWdKZkcxVDVBODVRZUc3",
@@ -392,7 +443,7 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ycDZYbFdpU3hDSFpkUkNvOXhibkIyeC1EN3U4blNsbXJlQzExZVUyMTMzSVlqek9JcFpMM3QtdHNuUkloaUFscTVPQ21ibGx5Y2wtdGtyS21NcVdYMGRfc1lLYU91SnJmVG1RNE9pbw",
    "source": "金融界",
    "published_at": "2026-10-30T21:44:11+00:00",
-   "outlets_count": 7,
+   "outlets_count": 8,
    "outlets": [
     {
      "name": "金融界",
@@ -428,6 +479,11 @@
      "name": "凤凰网",
      "published_at": "2026-10-31T00:12:12+00:00",
      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Zb0R1Zy1wME5Jcnl3dDdWeVg2WllQc3pzY3RjQ3ZQSloxbHNrZG1qXzY4WU1Sc1RwckdZTDV4a1BnVWU0NEREUw"
+    },
+    {
+     "name": "凤凰网科技",
+     "published_at": "2026-10-31T00:12:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wb1RwdE5VZk9uUXVIMDdKOE9VbURtRURoRmdnV29wMHU3QTJfdGItMG93Wm5UV1R3SzFSdXY4ZV80WUphb0ZybEJ5Tkc"
     }
    ],
    "category": "其他",
@@ -6599,66 +6655,6 @@
    "zh_summary": "GraphX仅用8块L4运行DeepSeek",
    "title_zh": "Rival.io发布GraphX，仅8块英伟达L4运行DeepSeek",
    "sentiment": 1
-  },
-  {
-   "id": "451bfd32c71b",
-   "title": "$NVIDIA (NVDA.US)$[Smirk][Smirk][Smirk][Smirk] - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEelotNlZOdjhacWRHTHlHTm90NTB6ZUhaT29EbkRXQV9YSWk1SVVQZnRYQV9YYVhOUEFGTjROeEFkNWc3SVRHOG1WTkItRE9PNTVneGhXVl9BYkNYYVJfY2kxdTdaM0NieTZVcl9pWW13UHJOQ2U0",
-   "source": "Moomoo",
-   "published_at": "2026-10-29T13:56:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-29T13:56:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEelotNlZOdjhacWRHTHlHTm90NTB6ZUhaT29EbkRXQV9YSWk1SVVQZnRYQV9YYVhOUEFGTjROeEFkNWc3SVRHOG1WTkItRE9PNTVneGhXVl9BYkNYYVJfY2kxdTdaM0NieTZVcl9pWW13UHJOQ2U0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "网友发布英伟达相关帖子",
-   "title_zh": "$NVIDIA (NVDA.US)$",
-   "sentiment": 0
-  },
-  {
-   "id": "79f4afa2e3af",
-   "title": "$英伟达 (NVDA.US)$[奸笑][奸笑][奸笑][奸笑] - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jX0Ywcld2LTMzbXJsWkh5TmRoNEU0U2JzZ2VBdE9oTEJSX1NUaHFKcGNKVEZLUUlfdnUtcU1oSWdTS2dUcDNFTDhqeER0Q2VWMVlLUkpJbHZIby13NUd3eURNVGgyQ1B0UkRBVFNRSHU5VkFTRlE4THItQ1ZBQQ",
-   "source": "Moomoo",
-   "published_at": "2026-10-29T13:56:27+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-29T13:56:27+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jX0Ywcld2LTMzbXJsWkh5TmRoNEU0U2JzZ2VBdE9oTEJSX1NUaHFKcGNKVEZLUUlfdnUtcU1oSWdTS2dUcDNFTDhqeER0Q2VWMVlLUkpJbHZIby13NUd3eURNVGgyQ1B0UkRBVFNRSHU5VkFTRlE4THItQ1ZBQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "网友发布英伟达相关帖子",
-   "title_zh": "$英伟达 (NVDA.US)$[奸笑][奸笑][奸笑][奸笑] - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "56d3888abb7c",
-   "title": "US officials believe a suspected Chinese intelligence asset got close to Nvidia’s Jensen Huang, NYT reports - Nacionale",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVE42X1dEalJlOWtraEpMTW9HRU1IZ3Vhb2ZoU2Z1UERhSm1jalNTVFNnT3VYSngwQnc0VHE4OG5TelBOektTTnRoRnBjREEyWmFjSHV1OWRHaFBUZHkzN0lRQkVSZ2pqemh6WUxkVGJfWW5hWkxteFBxY0hTS05sQWRNRXdGRy1wX1pHa3p0Vm9fbmk5V0dqeWZ6TTlYQ2lo",
-   "source": "Nacionale",
-   "published_at": "2026-10-29T13:55:39+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Nacionale",
-     "published_at": "2026-10-29T13:55:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVE42X1dEalJlOWtraEpMTW9HRU1IZ3Vhb2ZoU2Z1UERhSm1jalNTVFNnT3VYSngwQnc0VHE4OG5TelBOektTTnRoRnBjREEyWmFjSHV1OWRHaFBUZHkzN0lRQkVSZ2pqemh6WUxkVGJfWW5hWkxteFBxY0hTS05sQWRNRXdGRy1wX1pHa3p0Vm9fbmk5V0dqeWZ6TTlYQ2lo"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "美官员称疑似中国情报人员接近黄仁勋",
-   "title_zh": "纽约时报称疑似中国情报人员接近黄仁勋",
-   "sentiment": -1
   }
  ]
 }
