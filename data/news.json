@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T15:06:40.654619+00:00",
+ "updated_at": "2026-10-31T15:21:32.689580+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 17
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 39
+   "avg": 0.05,
+   "count": 41
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（39条已评分）"
+     "note": "今日新闻情绪 +0.05（41条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-10-31T15:06:40.641349+00:00"
+   "as_of": "2026-10-31T15:21:32.680235+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "a831f6ba221e",
+   "title": "Modders create automated tool to unlock AI performance on NVIDIA GeForce RTX 20, 30 and 40 series GPUs - VideoCardz.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTBpMDFPTl9RSUFocFpIMTJ6U1JMM2FLdU80M3VIWW80RTJJVVRKSkhRc0NBS21CeHAwVmdYYUlleFZSZDJibWpsSTNzREltM1czOWhYOXBSY0U3dHBTZXpuclo2OEJwQ2ZFZkNsVl8wRlBYRWlKeERidGJOMEt1ajRKRVVPVVZuR0J3OXZpdVk4UnB5SHU5OW9OeVlPVTlQaHAxRHBueC1oTk9KMDdrX0I0ZXZ4TTk0Ukw1dHY1NFR1UGVHbjVTbA",
+   "source": "VideoCardz.com",
+   "published_at": "2026-10-31T15:14:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "VideoCardz.com",
+     "published_at": "2026-10-31T15:14:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaTBpMDFPTl9RSUFocFpIMTJ6U1JMM2FLdU80M3VIWW80RTJJVVRKSkhRc0NBS21CeHAwVmdYYUlleFZSZDJibWpsSTNzREltM1czOWhYOXBSY0U3dHBTZXpuclo2OEJwQ2ZFZkNsVl8wRlBYRWlKeERidGJOMEt1ajRKRVVPVVZuR0J3OXZpdVk4UnB5SHU5OW9OeVlPVTlQaHAxRHBueC1oTk9KMDdrX0I0ZXZ4TTk0Ukw1dHY1NFR1UGVHbjVTbA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
+  {
+   "id": "c4e5d761b577",
+   "title": "Nvidia + Hugging Face: 5 DOJ Probe Risks [2026] - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQalhManVhaTNrOEtIVFZQMXNBOWhFYllXeGhDU0xDS2dvNm5TZm1aUHlRMXFHTl9ZaWtlSGc1ZWlRMUczZDdqZTZCdFM1TWdkYjJMcDdVc1dfaTRoVUNGSG93WVlfbExqRGZNang1d2tYQURWOERfaElnQU4zT1hHenJiMW9uZzBQVGc",
+   "source": "shattered.io",
+   "published_at": "2026-10-31T15:01:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-31T15:01:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQalhManVhaTNrOEtIVFZQMXNBOWhFYllXeGhDU0xDS2dvNm5TZm1aUHlRMXFHTl9ZaWtlSGc1ZWlRMUczZDdqZTZCdFM1TWdkYjJMcDdVc1dfaTRoVUNGSG93WVlfbExqRGZNang1d2tYQURWOERfaElnQU4zT1hHenJiMW9uZzBQVGc"
+    }
+   ],
+   "category": "政策监管",
+   "session": "周末"
+  },
   {
    "id": "a1a18a2c9d13",
    "title": "New NVIDIA UEFI GPU Unlocker Brings Up To 75% Higher AI Compute Performance To RTX 20, 30 & 40 Series GPUs On Windows - Wccftech",
@@ -6705,46 +6739,6 @@
    "zh_summary": "黄仁勋或成中国间谍阴谋目标",
    "title_zh": "黄仁勋或遭中国间谍阴谋针对，NVDA股价影响待察",
    "sentiment": -1
-  },
-  {
-   "id": "a08f305f6517",
-   "title": "Jensen Huang said Nvidia's ties to suspected Chinese spy's firm were normal - Quartz",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Sm9DTFAyNDBlZFN5eS1OT2t3M3dzUEFsaE4wNHNGUFJ2dkIwS2RQTFBsVlRkZWI1V0YwODNiZXhOREY4UG54cm9saGJPUG9pV3gyUHdqVVhfcUxZZ2oteUJtQi0zcWlLZHhIUVZzOVFIVlBzc29z",
-   "source": "Quartz",
-   "published_at": "2026-10-29T19:29:51+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Quartz",
-     "published_at": "2026-10-29T19:29:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Sm9DTFAyNDBlZFN5eS1OT2t3M3dzUEFsaE4wNHNGUFJ2dkIwS2RQTFBsVlRkZWI1V0YwODNiZXhOREY4UG54cm9saGJPUG9pV3gyUHdqVVhfcUxZZ2oteUJtQi0zcWlLZHhIUVZzOVFIVlBzc29z"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋称与疑似间谍公司往属正常",
-   "title_zh": "黄仁勋称英伟达与疑似间谍公司往属正常",
-   "sentiment": 0
-  },
-  {
-   "id": "2a8ef1864bd2",
-   "title": "英伟达首席执行官Huang表示，这家芯片制造商与Megaspeed Internation - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHQ1eG9HNVpjNVVaUzJabk9fSUtDU1N5U1IyanRVcDNhSHJOR09sX2gtTVhwZU02WWZsNkJLdFhQZ0treXdJS2lfNHdrNjBqcHlFa1ZVbDFSWVJUb1lDcTdReVlmNElBQ3BRSmdxb3ZELWxESFB2RVBibTJsZWNhTTVteGU1OXpPdEhqeU1SV0xVX3h6dDlTUExxNV9XcVlib2tFZw",
-   "source": "富途牛牛",
-   "published_at": "2026-10-29T19:19:05+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-29T19:19:05+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHQ1eG9HNVpjNVVaUzJabk9fSUtDU1N5U1IyanRVcDNhSHJOR09sX2gtTVhwZU02WWZsNkJLdFhQZ0treXdJS2lfNHdrNjBqcHlFa1ZVbDFSWVJUb1lDcTdReVlmNElBQ3BRSmdxb3ZELWxESFB2RVBibTJsZWNhTTVteGU1OXpPdEhqeU1SV0xVX3h6dDlTUExxNV9XcVlib2tFZw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘中",
-   "zh_summary": "英伟达CEO谈与Megaspeed合作",
-   "title_zh": "英伟达CEO表示与Megaspeed合作",
-   "sentiment": 0
   }
  ]
 }
