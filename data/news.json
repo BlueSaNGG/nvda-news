@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T09:51:32.379389+00:00",
+ "updated_at": "2026-10-31T10:06:29.249070+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 17
   },
   "day_sentiment": {
-   "avg": 0.1,
-   "count": 20
+   "avg": 0.14,
+   "count": 21
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（20条已评分）"
+     "note": "今日新闻情绪 +0.14（21条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-10-31T09:51:32.368054+00:00"
+   "as_of": "2026-10-31T10:06:29.239642+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "a9e70d9189f0",
+   "title": "NVIDIA Optics-on-Interposer [2026]: 3.5x Less Power - shattered.io",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTMxa0tKTkp6RV9ZZ05EVnh5WHh3RlV5WlZ1ZmdSeGIwSk5hNmNiWmFvZGc0QTBRNGNPRjcxalQtQ0RWSlZ3VlFNSWt4R3YzNVZnTG0xZlpfWGhVdUZCbEtPc1pnWUJXVzQzRUdKM21lZDY2dlp5SlZsWWJxNjd5VlFhUGszLURkZ3lqOVgzZUo0aEda",
+   "source": "shattered.io",
+   "published_at": "2026-10-31T09:59:54+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "shattered.io",
+     "published_at": "2026-10-31T09:59:54+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcTMxa0tKTkp6RV9ZZ05EVnh5WHh3RlV5WlZ1ZmdSeGIwSk5hNmNiWmFvZGc0QTBRNGNPRjcxalQtQ0RWSlZ3VlFNSWt4R3YzNVZnTG0xZlpfWGhVdUZCbEtPc1pnWUJXVzQzRUdKM21lZDY2dlp5SlZsWWJxNjd5VlFhUGszLURkZ3lqOVgzZUo0aEda"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "9ef7e5f01df5",
    "title": "NVIDIA CPO Prototype: 256 Gb/s Optics on Interposer [2026] - https://tech-insider.org/",
@@ -502,26 +519,6 @@
    "sentiment": 0
   },
   {
-   "id": "e3170660f817",
-   "title": "US Tech Sector Faces Correction as Conservative Strategy Helps Apple Overtake Nvidia - NAI500",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXh2c2FDUERMN1dRYnJzMm5GU3pCb013OWdTMXJjTmxJZEd3cm9JdFZ4ZVBNM0hGSFdhWS0wNHJTdTZlRGFDbnU1MnhUZ2d4WlNVUjVYXzM4dDh3eS1oRGdBZ1o4MTgxYkliREprNGFGVUQ0aFRDSE9RZDF0bDJISmxfTElSbjZrN084STExNkRQN2JyRWt1OURHSmx1SjhEUEhGQmxvaVBaY1BwWGtPWWt4ZjBWQmpL",
-   "source": "NAI500",
-   "published_at": "2026-10-31T03:53:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NAI500",
-     "published_at": "2026-10-31T03:53:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXh2c2FDUERMN1dRYnJzMm5GU3pCb013OWdTMXJjTmxJZEd3cm9JdFZ4ZVBNM0hGSFdhWS0wNHJTdTZlRGFDbnU1MnhUZ2d4WlNVUjVYXzM4dDh3eS1oRGdBZ1o4MTgxYkliREprNGFGVUQ0aFRDSE9RZDF0bDJISmxfTElSbjZrN084STExNkRQN2JyRWt1OURHSmx1SjhEUEhGQmxvaVBaY1BwWGtPWWt4ZjBWQmpL"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "科技板块调整，苹果市值反超英伟达",
-   "title_zh": "美股科技板块调整，苹果反超英伟达",
-   "sentiment": -1
-  },
-  {
    "id": "d2e53313d896",
    "title": "美股科技板块迎来调整，保守策略助力苹果反超英伟达 - NAI500",
    "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOZ2k4Z3VfVENaczU0VTNiQjgzc0dKSm82cXV6Ty1QV19ZU3BJNmpVTG91SERITXRpTlhCQ3gtSEhmRVNfT3lFR3BVNThiTGxPRTM1NmI1X1BHejAyMGtFWXJOZUpkQV8yV05JWC1KLXlYQl82Mmo3SUtTMFVibUxkMmxNcnhwS05vTzZpNG5waFg1WTUybUVJTkcwdzhvZlE4a3F3T3RFOWxkN200LVExU29MbXBXSWpkbTR6THNSWWIwVnRRcWNJTlE1STNHTEluRHJhQ0dPbXNLbW93RG1OdTVpOUpNU1FBUWNtTGF1X3NGWE1GV2FKNXNMdTZZWWw5SWhlV2JUSndqS3VQb3MzdEQ0NFhSLVdnWlZUckJYdlRiTXlDd0p0aWZIdHNwMzVvY2h2X1VBdVk1NXhCOUFqZ2tXbUFscDNPQ2hJcWc1emJqRWRGRW9iYkx2RQ",
@@ -539,6 +536,26 @@
    "session": "盘后",
    "zh_summary": "科技板块调整，苹果市值反超英伟达",
    "title_zh": "美股科技板块迎来调整，保守策略助力苹果反超英伟达 - NAI500",
+   "sentiment": -1
+  },
+  {
+   "id": "e3170660f817",
+   "title": "US Tech Sector Faces Correction as Conservative Strategy Helps Apple Overtake Nvidia - NAI500",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXh2c2FDUERMN1dRYnJzMm5GU3pCb013OWdTMXJjTmxJZEd3cm9JdFZ4ZVBNM0hGSFdhWS0wNHJTdTZlRGFDbnU1MnhUZ2d4WlNVUjVYXzM4dDh3eS1oRGdBZ1o4MTgxYkliREprNGFGVUQ0aFRDSE9RZDF0bDJISmxfTElSbjZrN084STExNkRQN2JyRWt1OURHSmx1SjhEUEhGQmxvaVBaY1BwWGtPWWt4ZjBWQmpL",
+   "source": "NAI500",
+   "published_at": "2026-10-31T03:51:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NAI500",
+     "published_at": "2026-10-31T03:51:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXh2c2FDUERMN1dRYnJzMm5GU3pCb013OWdTMXJjTmxJZEd3cm9JdFZ4ZVBNM0hGSFdhWS0wNHJTdTZlRGFDbnU1MnhUZ2d4WlNVUjVYXzM4dDh3eS1oRGdBZ1o4MTgxYkliREprNGFGVUQ0aFRDSE9RZDF0bDJISmxfTElSbjZrN084STExNkRQN2JyRWt1OURHSmx1SjhEUEhGQmxvaVBaY1BwWGtPWWt4ZjBWQmpL"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后",
+   "zh_summary": "科技板块调整，苹果市值反超英伟达",
+   "title_zh": "美股科技板块调整，苹果反超英伟达",
    "sentiment": -1
   },
   {
@@ -6709,26 +6726,6 @@
    "session": "盘中",
    "zh_summary": "竞争调查与间谍报道引发英伟达股价下跌",
    "title_zh": "竞争调查与间谍报道引发担忧，英伟达股价下跌",
-   "sentiment": -1
-  },
-  {
-   "id": "2dd5067b5022",
-   "title": "Who is Alice Huang? The suspected Chinese asset who targeted Nvidia CEO Jensen Huang - Diario AS",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmZWcEZ1STFxblpBNk9xaEd3TmJQMVdvVWJKd0RRRG9RZXZueFdzWmlmaU1WR2JVeWJfRmhWUy1mOWU3czdfdjVIYUJBZXRwQnh1Tm1POXN2ZWdwUG1FWGF6ZmRXLVpxbU1kUnZUcXFaVk1wRnVJcFlHT0JpMVJsUUI3VlhMSjB1X1Z5MkdnQ2twSk5BY3ExVXVEckVPY0R2YkZOVG9rbWQ0a0toWW1DSDhjWExHdlVUQ0dPT0N2dkt2Zw",
-   "source": "Diario AS",
-   "published_at": "2026-10-29T17:18:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Diario AS",
-     "published_at": "2026-10-29T17:18:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmZWcEZ1STFxblpBNk9xaEd3TmJQMVdvVWJKd0RRRG9RZXZueFdzWmlmaU1WR2JVeWJfRmhWUy1mOWU3czdfdjVIYUJBZXRwQnh1Tm1POXN2ZWdwUG1FWGF6ZmRXLVpxbU1kUnZUcXFaVk1wRnVJcFlHT0JpMVJsUUI3VlhMSjB1X1Z5MkdnQ2twSk5BY3ExVXVEckVPY0R2YkZOVG9rbWQ0a0toWW1DSDhjWExHdlVUQ0dPT0N2dkt2Zw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "疑似中国情报人员针对黄仁勋",
-   "title_zh": "疑似中国情报人员针对英伟达CEO黄仁勋是谁",
    "sentiment": -1
   }
  ]
