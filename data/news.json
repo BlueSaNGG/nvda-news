@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T09:06:32.874145+00:00",
+ "updated_at": "2026-10-31T09:21:32.970299+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 17
   },
   "day_sentiment": {
-   "avg": 0.27,
-   "count": 11
+   "avg": 0.4,
+   "count": 15
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.27（11条已评分）"
+     "note": "今日新闻情绪 +0.40（15条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-10-31T09:06:32.855643+00:00"
+   "as_of": "2026-10-31T09:21:32.959485+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "3d928020e9cb",
+   "title": "苹果收盘市值5.03万亿美元反超英伟达，重夺全球第一 - 全天候科技",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBWNnlfUVF5eFQxenZHLWlfeG1hN1N4REljbDVCQmxCWnNQVkIyVmxfZnZxMS1vOWdPM25uRlhqX2FHamlfakxzSW5B",
+   "source": "全天候科技",
+   "published_at": "2026-10-31T09:10:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "全天候科技",
+     "published_at": "2026-10-31T09:10:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBWNnlfUVF5eFQxenZHLWlfeG1hN1N4REljbDVCQmxCWnNQVkIyVmxfZnZxMS1vOWdPM25uRlhqX2FHamlfakxzSW5B"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "612dbd9f6486",
    "title": "NVIDIA unveils next-generation CPO technology: Optical engines bypass organic substrates, with prototype samples ready. - 富途牛牛",
@@ -102,13 +119,35 @@
    "sentiment": 0
   },
   {
-   "id": "aea6de03f281",
-   "title": "英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUhnRlhQdkVxRTUyTVhVVlJyS1NyV0FfZ1M0YmFsdDBWbUlNVDVrQm5lOXYtZ2swcmZqdEF6NUhvOVU2Nk5YUEdiUzJpSFhOU1dEaFl6bk5Ra3pEbkZmVGNBV3pkMEVidFpYZUNsSFJyNjNNblo2UWNzajV5SVlUWkxrWmlMOEtBRlVCVWJJYk94MEJpWk53Zl9GSjNycEk1VnZHVk85QWtQZDBvT0J2d0dyNFZiM0U",
-   "source": "富途牛牛",
-   "published_at": "2026-10-31T08:59:01+00:00",
+   "id": "9c3a842c4d64",
+   "title": "英伟达重挫，礼来再创历史新高！11月A股市场主线如何切换？两位私募大佬亲自出马，四家百亿级私募盯上30万亿元产业里的潜力公司 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SQ0xNVFFfb1VjZjRkQUFrRkhQM2pHUmc0TXE3bDlnUnYxRTR6d09FdUFxaXRqM1NBZ2ZKTjR4MjBzRVlteTR1Qngxa05sMXpLQS1FRWhUVEpIdjg0a0RfcGl4aU1CMjJiSGhrb1BIeTJWZTRDRWtfNA",
+   "source": "新浪财经",
+   "published_at": "2026-10-31T09:00:00+00:00",
    "outlets_count": 1,
    "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-10-31T09:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SQ0xNVFFfb1VjZjRkQUFrRkhQM2pHUmc0TXE3bDlnUnYxRTR6d09FdUFxaXRqM1NBZ2ZKTjR4MjBzRVlteTR1Qngxa05sMXpLQS1FRWhUVEpIdjg0a0RfcGl4aU1CMjJiSGhrb1BIeTJWZTRDRWtfNA"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "aea6de03f281",
+   "title": "英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWc5WlF2TTlDVEdIZ0lmMmRBcUVxSjJFYjE4ZEhwVThXdnZoTHJZVHlEN2lfUmo3MVRSWnNYMjBhRVpBa1o0Z0dzbE96M25uTEhWc2dRVjNkTmxZakJaNklScVU5U1l0UTh4WFNjcnpaMDJhUzdvZDdEZW5YSTNWX3BFaXBSSmNZ",
+   "source": "搜狐网",
+   "published_at": "2026-10-31T08:59:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-10-31T08:59:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWc5WlF2TTlDVEdIZ0lmMmRBcUVxSjJFYjE4ZEhwVThXdnZoTHJZVHlEN2lfUmo3MVRSWnNYMjBhRVpBa1o0Z0dzbE96M25uTEhWc2dRVjNkTmxZakJaNklScVU5U1l0UTh4WFNjcnpaMDJhUzdvZDdEZW5YSTNWX3BFaXBSSmNZ"
+    },
     {
      "name": "富途牛牛",
      "published_at": "2026-10-31T08:59:01+00:00",
@@ -6694,46 +6733,6 @@
     "pct": 0.06,
     "window_h": 0.6
    }
-  },
-  {
-   "id": "559617f58a65",
-   "title": "Alleged Chinese spy had ‘close relationship’ with Nvidia boss Jensen Huang: report - New York Post",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHhuY0p4RWF5MnhWYXRRdE9MX0VZSnB5TE9SZlVmZ0NnZlVOeXJCdnM0WEhWT0t3VjVXN2dEa3hLQVN0UVNUSUI4dEp2Y1NJUEVoZ2Y0ME1uTFNTcVEwNi1TMmU2bVpvcUVZYTY4UU9XTzFuNklWYlZUZlYzcmFZdEliMzZ2dE9pTkQ3aF9aNXRJMThKQkd3Q25Rdm9xWFNOVXRERkcyNEJnNUJnWDYtWnpQZVNVeUtPeUVv",
-   "source": "New York Post",
-   "published_at": "2026-10-29T16:43:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "New York Post",
-     "published_at": "2026-10-29T16:43:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHhuY0p4RWF5MnhWYXRRdE9MX0VZSnB5TE9SZlVmZ0NnZlVOeXJCdnM0WEhWT0t3VjVXN2dEa3hLQVN0UVNUSUI4dEp2Y1NJUEVoZ2Y0ME1uTFNTcVEwNi1TMmU2bVpvcUVZYTY4UU9XTzFuNklWYlZUZlYzcmFZdEliMzZ2dE9pTkQ3aF9aNXRJMThKQkd3Q25Rdm9xWFNOVXRERkcyNEJnNUJnWDYtWnpQZVNVeUtPeUVv"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "传中国间谍与黄仁勋关系密切",
-   "title_zh": "传中国间谍与英伟达CEO黄仁勋关系密切",
-   "sentiment": -1
-  },
-  {
-   "id": "e9892fa7006e",
-   "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO - TechCrunch",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDFyM3VRWmd4RWxyOXdWeXhvSTR1YzJ6dlJvQV9zaE5rdnJUd0RETTNIclVzRG90ak5wcVRtXzlqS3VWVGV0Q0VNNThBckZTYWEyeU9zdVRVeDFmQ2RiUk0tSVAzc0VCWUd2cVhqOUkwZVNweEJReEJERUdUWHNpR0tjWjQ5eGQ5amxkWG1hdGpmUQ",
-   "source": "TechCrunch",
-   "published_at": "2026-10-29T16:42:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechCrunch",
-     "published_at": "2026-10-29T16:42:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTDFyM3VRWmd4RWxyOXdWeXhvSTR1YzJ6dlJvQV9zaE5rdnJUd0RETTNIclVzRG90ak5wcVRtXzlqS3VWVGV0Q0VNNThBckZTYWEyeU9zdVRVeDFmQ2RiUk0tSVAzc0VCWUd2cVhqOUkwZVNweEJReEJERUdUWHNpR0tjWjQ5eGQ5amxkWG1hdGpmUQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "美国调查针对黄仁勋的间谍阴谋",
-   "title_zh": "美国调查针对英伟达CEO的中国间谍阴谋",
-   "sentiment": -1
   }
  ]
 }
