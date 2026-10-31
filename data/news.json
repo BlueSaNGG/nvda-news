@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T06:36:25.390789+00:00",
+ "updated_at": "2026-10-31T06:51:28.791780+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,12 +10,12 @@
    "days_left": 17
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 1
+   "avg": -0.5,
+   "count": 2
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": -1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.00（1条已评分）"
+     "score": -1,
+     "note": "今日新闻情绪 -0.50（2条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-10-31T06:36:25.376571+00:00"
+   "as_of": "2026-10-31T06:51:28.782154+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d3832723e31e",
+   "title": "DeepSeek 联手华为，能否击穿英伟达CUDA？ - 网易新闻客户端",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhZVN0ZzZxTjR0RDVwOXlmZldRNmhxclZpLUlzcGZOeVF6SmI0bDBDS21fZ3htdENrODZZY1VyZUhRUVVQZGlVQWZwcmlHblIxdkg0VEtURzBDczN4dmJzV05RT1JrU1Zydl91aHVTN1c1ZDNXZ3pfRw",
+   "source": "网易新闻客户端",
+   "published_at": "2026-10-31T06:43:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "网易新闻客户端",
+     "published_at": "2026-10-31T06:43:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhZVN0ZzZxTjR0RDVwOXlmZldRNmhxclZpLUlzcGZOeVF6SmI0bDBDS21fZ3htdENrODZZY1VyZUhRUVVQZGlVQWZwcmlHblIxdkg0VEtURzBDczN4dmJzV05RT1JrU1Zydl91aHVTN1c1ZDNXZ3pfRw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "ec002d23714a",
    "title": "榜一竞争激烈！苹果5万亿市值反超英伟达 重夺全球市值最高公司 - 直播吧",
@@ -77,8 +94,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "榜一竞争激烈！苹果5万亿市值反超英伟达 重夺全球市值最高公司 - 直播吧",
    "zh_summary": "苹果市值反超英伟达重夺榜首",
+   "title_zh": "榜一竞争激烈！苹果5万亿市值反超英伟达 重夺全球市值最高公司 - 直播吧",
    "sentiment": -1
   },
   {
@@ -5429,6 +5446,28 @@
    "sentiment": -1
   },
   {
+   "id": "a8600da65c34",
+   "title": "Nvidia CEO reportedly targeted by an alleged Chinese spy - The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0dIVHhVYjZoLUJpVHdScEdhbmFEcjVyRzVhQnBwZm9GODk3ODVkcGpoUHN6UC0xSHJycUtqdkowLU9CNU81cHJjdkhzVjNYczNXNU5HMUtpQWlDUzM0RFlGZFljNjRsRlNQYnhtX05YaDRRNkJsSTJRY1pfcGJrMW41Z1lWUEtJaFE",
+   "source": "The Guardian",
+   "published_at": "2026-10-29T21:02:00+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "The Guardian",
+     "published_at": "2026-10-29T21:02:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0dIVHhVYjZoLUJpVHdScEdhbmFEcjVyRzVhQnBwZm9GODk3ODVkcGpoUHN6UC0xSHJycUtqdkowLU9CNU81cHJjdkhzVjNYczNXNU5HMUtpQWlDUzM0RFlGZFljNjRsRlNQYnhtX05YaDRRNkJsSTJRY1pfcGJrMW41Z1lWUEtJaFE"
+    },
+    {
+     "name": "TODAY.com",
+     "published_at": "2026-10-30T11:28:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmhlZnA1MDQyaXg0YldIeDl6OEppMzNYMkE2Nm9DZXJKVS1XNmRCTE5tcGNObWdsTmNwd3BDYnhlQUp4eHROeUJWeVNsSTQtOWNqTGVIOGYxZXRSS1VFUzdsSG8zZnNoblNpajZZTmNlVEh6blR6UDNHUEp5azZtZlhObmdyazN6dUk3dkhKUmRIblhCTUdONl9R"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "6733deee0c6a",
    "title": "Living On The Edge With Nvidia, AI Enabler Analog Devices Enters Buy Zone - Investor's Business Daily",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUhzS0hPbFdkVHlQalp6TWdPdUJpZ1BQdXZMQzFiSU5ZbndyMWVJbmFhRzUxUktYUlMwQU5NMlI0bG1ZLUZhQ1lzakctS2Q5U2k3VUlWNVNXZkM0dlJCLXdmV3BBVUlhdjgwSXFNdnBNd0xuSkZJU0l3bmE0Q09LYVcyQnlCb01rNHVyZlJLbDllaER2N2dUaUhmQ3MydU9VQmJCXw",
@@ -6656,60 +6695,6 @@
    "zh_summary": "到2030年AMD与英伟达投资回报或大不同",
    "title_zh": "到2030年，同样一万美元投AMD与英伟达结果或大不同",
    "sentiment": 0
-  },
-  {
-   "id": "5e10c7dcbfdd",
-   "title": "Nvidia CEO Was China Spy Target, Officials Doubt He Was Unaware: Report - NDTV",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFVVekFLTTZ1NXltWGJqMG5EQ3RVampSLWRfTXBpUWVGVmlHY1locHNJOUFFYnprYjExdklQOHhGLV9adjJoV2FOd1doWl8xcVR3RDBldDlUUmVmRmlQQmUyRUdpYWRUUjBJdGp2dzllQWFxUm5janc2S1dKT1B2eFQzMnh1ZUZOZGRlVEhTXzE5WHY0U1l1anVVTUNWbmlHS3diX1V4TGlOb25wTTF0c1V5djI1eEJWQmh5T3JXWmPSAcgBQVVfeXFMTzlzNS03M3BKdkRITjR5dzRBMS1hQzNqZkZfV2I2UzVQbWtCSklwRzFnZjE1QnhKWVF0anRJOEpVOHVhUW43dnpxODByajdubllMX19UZW9WMHVaNmMxcS1lNDFDOEx0QndrTmlFVHR1LVVlbkRvZmw3T0l6LVBVeE9LcUdpV01yUV9sdHRrMjFNWk4ycXVQaGp0ZmlVZzdJRTh4a3ljcjJLRXNXSGNXTXRQYjNPbENMZ2VQR3hNaWhmSTQ2c2szQ0c",
-   "source": "NDTV",
-   "published_at": "2026-10-29T15:28:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "NDTV",
-     "published_at": "2026-10-29T15:28:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFVVekFLTTZ1NXltWGJqMG5EQ3RVampSLWRfTXBpUWVGVmlHY1locHNJOUFFYnprYjExdklQOHhGLV9adjJoV2FOd1doWl8xcVR3RDBldDlUUmVmRmlQQmUyRUdpYWRUUjBJdGp2dzllQWFxUm5janc2S1dKT1B2eFQzMnh1ZUZOZGRlVEhTXzE5WHY0U1l1anVVTUNWbmlHS3diX1V4TGlOb25wTTF0c1V5djI1eEJWQmh5T3JXWmPSAcgBQVVfeXFMTzlzNS03M3BKdkRITjR5dzRBMS1hQzNqZkZfV2I2UzVQbWtCSklwRzFnZjE1QnhKWVF0anRJOEpVOHVhUW43dnpxODByajdubllMX19UZW9WMHVaNmMxcS1lNDFDOEx0QndrTmlFVHR1LVVlbkRvZmw3T0l6LVBVeE9LcUdpV01yUV9sdHRrMjFNWk4ycXVQaGp0ZmlVZzdJRTh4a3ljcjJLRXNXSGNXTXRQYjNPbENMZ2VQR3hNaWhmSTQ2c2szQ0c"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘中",
-   "zh_summary": "报道称英伟达CEO曾是中国间谍目标",
-   "title_zh": "报道称英伟达CEO曾是中国间谍目标，官员存疑",
-   "sentiment": -1
-  },
-  {
-   "id": "06f6e4bc3ac0",
-   "title": "Nvidia CEO Calls Dealings With Company Under China Spying Probe \"Normal\" - NDTV",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFVVekFLTTZ1NXltWGJqMG5EQ3RVampSLWRfTXBpUWVGVmlHY1locHNJOUFFYnprYjExdklQOHhGLV9adjJoV2FOd1doWl8xcVR3RDBldDlUUmVmRmlQQmUyRUdpYWRUUjBJdGp2dzllQWFxUm5janc2S1dKT1B2eFQzMnh1ZUZOZGRlVEhTXzE5WHY0U1l1anVVTUNWbmlHS3diX1V4TGlOb25wTTF0c1V5djI1eEJWQmh5T3JXWmPSAcgBQVVfeXFMTzlzNS03M3BKdkRITjR5dzRBMS1hQzNqZkZfV2I2UzVQbWtCSklwRzFnZjE1QnhKWVF0anRJOEpVOHVhUW43dnpxODByajdubllMX19UZW9WMHVaNmMxcS1lNDFDOEx0QndrTmlFVHR1LVVlbkRvZmw3T0l6LVBVeE9LcUdpV01yUV9sdHRrMjFNWk4ycXVQaGp0ZmlVZzdJRTh4a3ljcjJLRXNXSGNXTXRQYjNPbENMZ2VQR3hNaWhmSTQ2c2szQ0c",
-   "source": "NDTV",
-   "published_at": "2026-10-29T15:28:22+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "NDTV",
-     "published_at": "2026-10-29T15:28:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOFVVekFLTTZ1NXltWGJqMG5EQ3RVampSLWRfTXBpUWVGVmlHY1locHNJOUFFYnprYjExdklQOHhGLV9adjJoV2FOd1doWl8xcVR3RDBldDlUUmVmRmlQQmUyRUdpYWRUUjBJdGp2dzllQWFxUm5janc2S1dKT1B2eFQzMnh1ZUZOZGRlVEhTXzE5WHY0U1l1anVVTUNWbmlHS3diX1V4TGlOb25wTTF0c1V5djI1eEJWQmh5T3JXWmPSAcgBQVVfeXFMTzlzNS03M3BKdkRITjR5dzRBMS1hQzNqZkZfV2I2UzVQbWtCSklwRzFnZjE1QnhKWVF0anRJOEpVOHVhUW43dnpxODByajdubllMX19UZW9WMHVaNmMxcS1lNDFDOEx0QndrTmlFVHR1LVVlbkRvZmw3T0l6LVBVeE9LcUdpV01yUV9sdHRrMjFNWk4ycXVQaGp0ZmlVZzdJRTh4a3ljcjJLRXNXSGNXTXRQYjNPbENMZ2VQR3hNaWhmSTQ2c2szQ0c"
-    },
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-29T18:50:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQlQ0Nm5tbUdiYXFzOXhqNkEwQzlYUGZ3QzNRc3VKTXloUlU1N0RqSjNHVnNRUEp2NldSVnlLVGNlenNDWTlqdy1Kc0VieWJmaUNTTElnaGJQRnpmX29oYmhnQTdxWmZuTG9RS1QwREhGVVp5djVRUVhBX2cwRnlYY21peFg2NDhaTE9uVFNTLVdpNXRIakhUT3Bnc0haYzNkVjJad2puMEMxclZGWm82QVFNZw"
-    },
-    {
-     "name": "Bloomberg",
-     "published_at": "2026-10-29T18:50:51+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQlQ0Nm5tbUdiYXFzOXhqNkEwQzlYUGZ3QzNRc3VKTXloUlU1N0RqSjNHVnNRUEp2NldSVnlLVGNlenNDWTlqdy1Kc0VieWJmaUNTTElnaGJQRnpmX29oYmhnQTdxWmZuTG9RS1QwREhGVVp5djVRUVhBX2cwRnlYY21peFg2NDhaTE9uVFNTLVdpNXRIakhUT3Bnc0haYzNkVjJad2puMEMxclZGWm82QVFNZw"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘中",
-   "zh_summary": "黄仁勋称与受间谍调查公司往来正常",
-   "title_zh": "英伟达CEO称与受间谍调查公司的往来属正常",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": -0.38,
-    "window_h": 2.0
-   }
   }
  ]
 }
