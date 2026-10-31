@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T06:51:28.791780+00:00",
+ "updated_at": "2026-10-31T07:06:27.790286+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 17
   },
   "day_sentiment": {
-   "avg": -0.5,
-   "count": 2
+   "avg": -0.67,
+   "count": 3
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": -1,
-     "note": "今日新闻情绪 -0.50（2条已评分）"
+     "note": "今日新闻情绪 -0.67（3条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-10-31T06:51:28.782154+00:00"
+   "as_of": "2026-10-31T07:06:27.781812+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -412,12 +412,17 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcVBsYkYyX2VFMlJRbGJVcHMyYzFOZ3VKUUM2d00xeXdDRmk3STJXVVlRV1A4bXM2aC0xVkR5OTVuLUtVLTNnWFZ1aG44dGpad0FobF9Ja2swUWZPWkVnUHlfWk5iRFZ3OVYyWW1wbFRUNVNTNDJUS2JKOEk0Vm1PY3ZCWldrYzZz",
    "source": "搜狐网",
    "published_at": "2026-10-31T00:46:48+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "搜狐网",
      "published_at": "2026-10-31T00:46:48+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcVBsYkYyX2VFMlJRbGJVcHMyYzFOZ3VKUUM2d00xeXdDRmk3STJXVVlRV1A4bXM2aC0xVkR5OTVuLUtVLTNnWFZ1aG44dGpad0FobF9Ja2swUWZPWkVnUHlfWk5iRFZ3OVYyWW1wbFRUNVNTNDJUS2JKOEk0Vm1PY3ZCWldrYzZz"
+    },
+    {
+     "name": "金融界",
+     "published_at": "2026-10-31T00:46:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iWUxiX3JEMGozbmxaTEpZaFRDWFZpQ0V0cTlEOWpmYmFfQmtyR3M1OFpQSWQ2N3k3a19HczYwa2pXMDgzVlVDaEI2Q2FnSFhaWE5jZ3VJWnlKMmRnQ25HYlRqeGpsVmcxSUJvUHFDTWVtT2Zw"
     }
    ],
    "category": "其他",
@@ -3833,6 +3838,23 @@
    "sentiment": -1
   },
   {
+   "id": "894e60286401",
+   "title": "Nvidia CEO Says Ties to Company Under Spying Probe Were ‘Normal’ - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQlQ0Nm5tbUdiYXFzOXhqNkEwQzlYUGZ3QzNRc3VKTXloUlU1N0RqSjNHVnNRUEp2NldSVnlLVGNlenNDWTlqdy1Kc0VieWJmaUNTTElnaGJQRnpmX29oYmhnQTdxWmZuTG9RS1QwREhGVVp5djVRUVhBX2cwRnlYY21peFg2NDhaTE9uVFNTLVdpNXRIakhUT3Bnc0haYzNkVjJad2puMEMxclZGWm82QVFNZw",
+   "source": "Bloomberg",
+   "published_at": "2026-10-30T07:41:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg",
+     "published_at": "2026-10-30T07:41:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQlQ0Nm5tbUdiYXFzOXhqNkEwQzlYUGZ3QzNRc3VKTXloUlU1N0RqSjNHVnNRUEp2NldSVnlLVGNlenNDWTlqdy1Kc0VieWJmaUNTTElnaGJQRnpmX29oYmhnQTdxWmZuTG9RS1QwREhGVVp5djVRUVhBX2cwRnlYY21peFg2NDhaTE9uVFNTLVdpNXRIakhUT3Bnc0haYzNkVjJad2puMEMxclZGWm82QVFNZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "cac4c34928cb",
    "title": "NVIDIA Corporation $NVDA Shares Sold by FSA Investment Group LLC - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWi1NMnRVYVFNTWxESnFPV1VZaUpxX21KQ0ExQ1BwUVVOdC10OGpQLUpHYkdRMkRLNUNoR0tvNkxXel84eklUc2N2b21qTy1jNGE1djZBWURsZFVSSDJYdjB1VDh6elNNSFlqeElNczR1Mzlxa19TOWhNLUhRWW8wOURmdUh0bDBFX1I5TzZCM3FEbnpkZk1saGlCc1lNVkR2eHBoM1pHVkl0MzV2aU9TQWFBMnRhcHJkSHNEUkZCUE1hZw",
@@ -6676,31 +6698,6 @@
    "zh_summary": "72卡Vera Rubin机架支撑甲骨文扩建",
    "title_zh": "72卡英伟达Vera Rubin机架支撑甲骨文多吉瓦扩建计划",
    "sentiment": 1
-  },
-  {
-   "id": "fc84222727c6",
-   "title": "The Same $10,000 in AMD and Nvidia Could Produce Very Different Results by 2030 - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObktFVTRxaDhXNEhQcjVnaDlBTEhZaVMyTnA5Yk16QzdJM1RjdUNkeHhsYTRwVjE4NE1DVXZtWU9CTzd6Zi1yQ1pVWXVqanR5WTlpTGxZWk5jczc0dnJuYkIyM3pldHNCb3hwYV9NRjR3cHEzNkhJWS03NFRyaGJqaHpyQUJ2SjVfS0FoOHYwLUw",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-29T15:33:19+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-29T15:33:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObktFVTRxaDhXNEhQcjVnaDlBTEhZaVMyTnA5Yk16QzdJM1RjdUNkeHhsYTRwVjE4NE1DVXZtWU9CTzd6Zi1yQ1pVWXVqanR5WTlpTGxZWk5jczc0dnJuYkIyM3pldHNCb3hwYV9NRjR3cHEzNkhJWS03NFRyaGJqaHpyQUJ2SjVfS0FoOHYwLUw"
-    },
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-29T15:44:38+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEx5R0VsMzc2S0JEYXYzT2Uyckg5S3MxY3cwczRfTUhUdWlITjR3X28zUHAya2NrTFpadlF1Sko5a1k1aUdHVjM0NXhyQ3JKZUkyeGdOWUUwYjc5TnM5TzR2QW5ueVpKcUNXcDJHRVR5RnpSTzU0X05talpNZkxMQ3ZnOHAtT2hmT2ctXy1mWHdmTjBJcFhLUjZ4U2NYVkFDS3k1M2FxNERSaFpQSDFJWll5V3hLcUZROE8tNF93"
-    }
-   ],
-   "category": "财报",
-   "session": "盘中",
-   "zh_summary": "到2030年AMD与英伟达投资回报或大不同",
-   "title_zh": "到2030年，同样一万美元投AMD与英伟达结果或大不同",
-   "sentiment": 0
   }
  ]
 }
