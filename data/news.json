@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T00:21:35.609029+00:00",
+ "updated_at": "2026-11-01T00:36:29.942013+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 17
   },
   "day_sentiment": {
-   "avg": -0.1,
-   "count": 62
+   "avg": -0.11,
+   "count": 63
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.10（62条已评分）"
+     "note": "今日新闻情绪 -0.11（63条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-01T00:21:35.597777+00:00"
+   "as_of": "2026-11-01T00:36:29.933550+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "9cb26f87d7b6",
+   "title": "英伟达展示下一代CPO方案！取消光引擎独立的有机基板 - 新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sWmRORW5xVnMwNHRxZ3RjV2RnRm15ckpmM3RVS1ROMERvMkF5RHNLNVpnZjdWX194U2tESTJVeW9hckFGaUR4T1A5TktCSDZDQjJVblFtQ0VLMFV2OXZNRUhycG4wdkcyY3V3dzdhYkFTUDBZUFFjMA",
+   "source": "新浪财经",
+   "published_at": "2026-11-01T00:16:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "新浪财经",
+     "published_at": "2026-11-01T00:16:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sWmRORW5xVnMwNHRxZ3RjV2RnRm15ckpmM3RVS1ROMERvMkF5RHNLNVpnZjdWX194U2tESTJVeW9hckFGaUR4T1A5TktCSDZDQjJVblFtQ0VLMFV2OXZNRUhycG4wdkcyY3V3dzdhYkFTUDBZUFFjMA"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "015dfb6857bc",
    "title": "DOJ Scrutinizes Nvidia’s $12.9B Hugging Face Deal [2026] - https://tech-insider.org/",
@@ -6679,31 +6696,6 @@
    "session": "盘后",
    "zh_summary": "英伟达为云服务商450亿美元项目兜底",
    "title_zh": "英伟达为云服务商450亿美元Anthropic项目兜底",
-   "sentiment": 1
-  },
-  {
-   "id": "fc5414e0e861",
-   "title": "据The Information：英伟达正就提供数十亿美元的信贷支持进行谈判，以支持一家云服务提供商与Anthropic达成的450亿美元交易。 - 金融界",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wQ1RqbXJsT0Q4ZjFmVzZNZklfdWJtSkhraDF0MGhBTXpOSS1LOW1sNEx3LWhJQnlUWHJIQjhNWHRQbG00bzlxSmRVcmEyUWRGWXZTLXNTR3EteDhBS3VXSXdISXFCaVRkSDFObW54Zw",
-   "source": "金融界",
-   "published_at": "2026-10-29T22:43:41+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "金融界",
-     "published_at": "2026-10-29T22:43:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wQ1RqbXJsT0Q4ZjFmVzZNZklfdWJtSkhraDF0MGhBTXpOSS1LOW1sNEx3LWhJQnlUWHJIQjhNWHRQbG00bzlxSmRVcmEyUWRGWXZTLXNTR3EteDhBS3VXSXdISXFCaVRkSDFObW54Zw"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-29T22:45:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTDlXTVpab2JKUGI0aUhiTjFOcDFSczNDTjQxekprM2JtcHZBM2t0UFFzUzlUM1lMZFRNUHJtZ3ZmWGdlOVJBMERsUk8xdkphVmVDSmVjaGRhYjdHS0hVYWVRTkk5cDQwVG9Md01xUnQ2Sm4zYThYNDNVVlJxdE1pNlVTWUM3d3A2TUFjcmdvb1JPaXV2UDlRckM0ZlhNRlNNRFR3dVoxLVVzcXZNU2NJag"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达洽谈提供数十亿美元信贷支持",
-   "title_zh": "英伟达洽谈提供数十亿美元信贷支持",
    "sentiment": 1
   }
  ]
