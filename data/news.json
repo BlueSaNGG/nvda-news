@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T11:51:27.414508+00:00",
+ "updated_at": "2026-11-01T12:06:28.256659+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 16
   },
   "day_sentiment": {
-   "avg": 0.1,
-   "count": 21
+   "avg": 0.09,
+   "count": 22
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.10（21条已评分）"
+     "note": "今日新闻情绪 +0.09（22条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-01T11:51:27.398265+00:00"
+   "as_of": "2026-11-01T12:06:28.245548+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "59f61fbc487d",
+   "title": "Josh Brown: Meta Could Become “a Cash Spigot” That Makes Nvidia Look Expensive - TIKR.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFAtSmZBZXlfNFRnemhsOEp5Wl9zZEJXSGd6VXQ0OXZ0WlVhcDZSOTNhaTFMLUhkZXQxQk91MWZWX0dNNWhhVVJXcjNxeWczS1lvcWJjTm9hUjVrTGg1ekc4VnRQd2JIRUFSdW9PcFo4dnhDR0xGNnZhNGpkZFkxamhTR00wQnFfc1FXY2NvYllwVnBCWnFTdDRnMm1acGwyc0ZsMUFTOUs",
+   "source": "TIKR.com",
+   "published_at": "2026-11-01T11:36:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-11-01T11:36:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFAtSmZBZXlfNFRnemhsOEp5Wl9zZEJXSGd6VXQ0OXZ0WlVhcDZSOTNhaTFMLUhkZXQxQk91MWZWX0dNNWhhVVJXcjNxeWczS1lvcWJjTm9hUjVrTGg1ekc4VnRQd2JIRUFSdW9PcFo4dnhDR0xGNnZhNGpkZFkxamhTR00wQnFfc1FXY2NvYllwVnBCWnFTdDRnMm1acGwyc0ZsMUFTOUs"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
+   "id": "eb6eaccc4613",
+   "title": "Nvidia Partner Vertiv Soars as Orders Double: “Evolving Faster Than Ever” - TIKR.com",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHJnTDJ3RkxXTllZUmd4cTZLSWJLTlhNSmtOVVhqWmUyUFBFUHFmTHFVei05WVAtYllscG1FOXdyX3I5dVVWbmhpMlE4ZDdCbkhGNmxhZ240Szhrc2NzaERiSjRlbXQzUjdGMDBBcHJ1bS0xTFJFX3hpWDhTUVFaZVREalltQVdTWDNEVzhnNHEtQnZYMlV6cDJiMFNsQVhhR2c",
+   "source": "TIKR.com",
+   "published_at": "2026-11-01T11:36:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-11-01T11:36:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObHJnTDJ3RkxXTllZUmd4cTZLSWJLTlhNSmtOVVhqWmUyUFBFUHFmTHFVei05WVAtYllscG1FOXdyX3I5dVVWbmhpMlE4ZDdCbkhGNmxhZ240Szhrc2NzaERiSjRlbXQzUjdGMDBBcHJ1bS0xTFJFX3hpWDhTUVFaZVREalltQVdTWDNEVzhnNHEtQnZYMlV6cDJiMFNsQVhhR2c"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "273059b09664",
    "title": "Obscure neocloud lenders, not Nvidia, are where the AI bubble could burst first - Startup Fortune",
@@ -6616,46 +6650,6 @@
    "zh_summary": "英伟达支持Nscale与Anthropic交易",
    "title_zh": "英伟达为Nscale提供信贷支持，涉450亿美元Anthropic交易",
    "sentiment": 1
-  },
-  {
-   "id": "3e52c49dfa98",
-   "title": "Nvidia Weighs Credit Backing for $45B Nscale Deal [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWNBZjdVUlpyU3FiaWZUMUI1STF2RFMwSXE4MEY0TVVNSmJsN2l1VU5laGJLcGxES1RRV3Zwd096d2lzWURCVS1HQlUxR0xHbHRoQ1hhU05tZGVhZEMxd29DNTlBTkdBUnJRTnNCRWxVZnhDd1RDaVN0UFFrOU5jaU5pMjk0b0w0dGRMSXdOSjhDdzA",
-   "source": "shattered.io",
-   "published_at": "2026-10-30T06:31:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-30T06:31:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWNBZjdVUlpyU3FiaWZUMUI1STF2RFMwSXE4MEY0TVVNSmJsN2l1VU5laGJLcGxES1RRV3Zwd096d2lzWURCVS1HQlUxR0xHbHRoQ1hhU05tZGVhZEMxd29DNTlBTkdBUnJRTnNCRWxVZnhDd1RDaVN0UFFrOU5jaU5pMjk0b0w0dGRMSXdOSjhDdzA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达考虑担保450亿美元Nscale交易",
-   "title_zh": "英伟达考虑为450亿美元Nscale交易提供信贷支持",
-   "sentiment": 1
-  },
-  {
-   "id": "68d35bac91a7",
-   "title": "Moomoo AI怎么帮我在英伟达财报前布局？ - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdklHOVFMSEtsaGcyYXN5WTBya3Z3WmdoUWdiUXNPQld0cVFsMzhFZnFuWHpFX3dnOUFFd0VQMzQzUlpUVnNaZ1NhaWpMLWFGWUxkWUJmUFlMUmpaVHZPRDZhb01XRDJEa29WT3JNWERiQWVpZzNVcDk0cC1tX2ZnQ1FyRWNlMHVVNUhMSXktZkJyMEhOZVd2bF9VN3NIVzZzMkZaQWd6R2M5b28zdDlB",
-   "source": "Moomoo",
-   "published_at": "2026-10-30T06:30:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-30T06:30:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdklHOVFMSEtsaGcyYXN5WTBya3Z3WmdoUWdiUXNPQld0cVFsMzhFZnFuWHpFX3dnOUFFd0VQMzQzUlpUVnNaZ1NhaWpMLWFGWUxkWUJmUFlMUmpaVHZPRDZhb01XRDJEa29WT3JNWERiQWVpZzNVcDk0cC1tX2ZnQ1FyRWNlMHVVNUhMSXktZkJyMEhOZVd2bF9VN3NIVzZzMkZaQWd6R2M5b28zdDlB"
-    }
-   ],
-   "category": "财报",
-   "session": "盘前",
-   "zh_summary": "Moomoo AI助财报前布局英伟达",
-   "title_zh": "Moomoo AI怎么帮我在英伟达财报前布局？ - Moomoo",
-   "sentiment": 0
   }
  ]
 }
