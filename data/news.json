@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T09:06:29.256675+00:00",
+ "updated_at": "2026-11-01T09:21:29.859812+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 16
   },
   "day_sentiment": {
-   "avg": 0.0,
-   "count": 8
+   "avg": -0.08,
+   "count": 12
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（8条已评分）"
+     "note": "今日新闻情绪 -0.08（12条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-01T09:06:29.246364+00:00"
+   "as_of": "2026-11-01T09:21:29.849151+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "2bcd5883051f",
+   "title": "英伟达合作Megaspeed遭质疑 美芯片出口中国有缺口? - e南洋",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3a05ueF9GWkRDdm4yeTVoYTgyOEF4MHgxaFN2eWVIS2czYk9neWlaby1vTFNVS3pzYnR0cHp4bE5WNUFVZmlyZFZ1dVVTaGhzbE0wM0dVU3k1a1NZQkZnS1ItUQ",
+   "source": "e南洋",
+   "published_at": "2026-11-01T09:11:49+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "e南洋",
+     "published_at": "2026-11-01T09:11:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3a05ueF9GWkRDdm4yeTVoYTgyOEF4MHgxaFN2eWVIS2czYk9neWlaby1vTFNVS3pzYnR0cHp4bE5WNUFVZmlyZFZ1dVVTaGhzbE0wM0dVU3k1a1NZQkZnS1ItUQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
+  {
+   "id": "789fcda3bf10",
+   "title": "NVIDIA Is Reportedly Eyeing Teflon, The Non-Stick Cookware Material, To Fix AI Server Signal Loss In Next-Gen NVLink Switch Boards - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZKN3FHUjFiVmNnWktXN1VYSmZNNE1qVmVDdVVuSmNPNklITFNIQmZzWFpPZUlIMXpqUlhzZUwzMjh2TlhwWEtyYkNZR2Vua0U5Y2NMODJYV1Y3eEo3S1R2Q2NYbjQ5d0s5X1ZJNWNBS09td3o0d2lDTUdFZWU2UTVuWkxSWlBWZ1o2Y3JZbjRkb0Iz0gGaAUFVX3lxTE5LUGpHMzRKS2lHbUlNTi05VDBCU0JnT3FqbEhOSm5ZVzFFNTMzb1VHNk1uaDJsMVVNUHpUNzI5RlpZVm94YzVqUExTMGZwWkJjT0M1LVkycUR4ZUNJb3V5bWVXZkpxdWZzTlNvNV8zVFNmXzVlalFHS3hCY0FlM3diNFowSVRGcDQ0UGZ3YzMyVEN0QWtuTkVtWEE",
+   "source": "Wccftech",
+   "published_at": "2026-11-01T09:10:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-11-01T09:10:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZKN3FHUjFiVmNnWktXN1VYSmZNNE1qVmVDdVVuSmNPNklITFNIQmZzWFpPZUlIMXpqUlhzZUwzMjh2TlhwWEtyYkNZR2Vua0U5Y2NMODJYV1Y3eEo3S1R2Q2NYbjQ5d0s5X1ZJNWNBS09td3o0d2lDTUdFZWU2UTVuWkxSWlBWZ1o2Y3JZbjRkb0Iz0gGaAUFVX3lxTE5LUGpHMzRKS2lHbUlNTi05VDBCU0JnT3FqbEhOSm5ZVzFFNTMzb1VHNk1uaDJsMVVNUHpUNzI5RlpZVm94YzVqUExTMGZwWkJjT0M1LVkycUR4ZUNJb3V5bWVXZkpxdWZzTlNvNV8zVFNmXzVlalFHS3hCY0FlM3diNFowSVRGcDQ0UGZ3YzMyVEN0QWtuTkVtWEE"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "ab312b931bcd",
    "title": "NVIDIA Corporation $NVDA Shares Bought by First Heartland Consultants Inc. - MarketBeat",
@@ -6597,65 +6631,6 @@
    "zh_summary": "间谍案影响英伟达芯片业务",
    "title_zh": "中国间谍案影响英伟达芯片业务",
    "sentiment": -1
-  },
-  {
-   "id": "6a3605e0c3ae",
-   "title": "Nvidia weighs billions in credit guarantees for Nscale’s Anthropic data center - report - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUUpISUJTZENuV25aeEhUVVhuRF9VS2RmRWRON3hFRFp3ZFNZb2hyck13RHljN1pteWVPMlBvdnUwTVBYY1ZZdHdaaUJIRTh0VHNlajdJLWE5NXlLdUNUV0lNdlBGVEozMF9hOF9XejNNeEhFbG5hMWdIdjhlaGdGVzBUUXBZNldrV3VqZ3FZVTluU0hZQzJlLTF5dnk1ZlNPM3FOSVBpd3drNTJkSzhuaHpabUZDZHR2a1NCOGxCY1VWWXVjRm9qNXphWmozT1c0dy1QX0QxaHBrUFBoTDdBQlh3",
-   "source": "TradingView",
-   "published_at": "2026-10-30T05:02:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-30T05:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUUpISUJTZENuV25aeEhUVVhuRF9VS2RmRWRON3hFRFp3ZFNZb2hyck13RHljN1pteWVPMlBvdnUwTVBYY1ZZdHdaaUJIRTh0VHNlajdJLWE5NXlLdUNUV0lNdlBGVEozMF9hOF9XejNNeEhFbG5hMWdIdjhlaGdGVzBUUXBZNldrV3VqZ3FZVTluU0hZQzJlLTF5dnk1ZlNPM3FOSVBpd3drNTJkSzhuaHpabUZDZHR2a1NCOGxCY1VWWXVjRm9qNXphWmozT1c0dy1QX0QxaHBrUFBoTDdBQlh3"
-    },
-    {
-     "name": "Seeking Alpha",
-     "published_at": "2026-10-30T05:02:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2pTaDlvekpwLUNscmtRZmFOd1h2RE5fZ1BBaDNPZ2h1T2VhZmJUX041aXItZTNJV2JqaTZybDRCOERCbHg4MWtLYnZpTVo1VXBMUGNPbHlSWEVHbi03Q0J1LS1rdnZRSUt3R0E5bTFaa2M4RUNlVzZEQjFrTFZUaHdnU0FXOTZaSld4TDNYODZGYTF4VWFWT3BjdE8ybFhFZWxfUFVIMjlMWnByRFo4VFk5UExsQVhFVkVDdUJhclh4UQ"
-    },
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-30T07:18:45+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb0xXYW9LUjRORnF4REN3SGFfU3pEUmV4bHphN2V5UFBxUDk0dXRLNEROSndCOHd3NUZQdG8tQXoyVUtCMGJRSlRFZTd3N3pHZVNKODZkcGtZREdDZXBfcEFzamxGVWNKdXRXREEyNEtNWXBPUzBBd2Q1SVhJejVWUWE3c252UWpYVWRpdi12cDcwbjkzcGh6SmZKaTcybExaY0xvbXFZUWY0cUNzNGtZT0JrRkZ5RV9SaUU5SjdYYw"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-30T13:00:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQU9KNXVWWnF6cXdXUkdtNzc4ZUIzSDZvX0FNbTh3UEY2RGxUbUEyWVVRVDFCNGE2M2NIQUhFUE0tbEI1dHhaTllrMFRNRHlndFhqZ09DeHpiZ2lNNW5ZamNaTFNCSDFYam9OMTRDVUx2MXRmS2ZMYlc2YjdhWjJqODVWTnpkcWVucThPM1FxZUlYenlwc3R0bU1SM2tqQXlaN25Ra2hkdw"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "英伟达拟担保Nscale数据中心数十亿美元信贷",
-   "title_zh": "英伟达考虑为Nscale的Anthropic数据中心提供数十亿美元信贷担保",
-   "sentiment": 0,
-   "price_reaction": {
-    "pct": 0.11,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "f2dd9057d872",
-   "title": "The Promise and Pitfalls of Nvidia’s Venture in Kazakhstan - The Diplomat – Asia-Pacific Current Affairs Magazine",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGdsWEhlMVlJb2FjTjZXSnhfOC0xcUZfWWI4WnJXZU0tN1BqOXN0VklaNXJ2NlBwbDBCME55Q0J0a1NINlN6TGpWa2sxekhiM0ZDNDg4VTAteW1JaC02YkVFRDBFbTlfdWN3RERsYXpaR2laUHlGeno0cXczVVR5bzBZMW1iakd0SVZSUGhlUFlPbTI0",
-   "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-   "published_at": "2026-10-30T05:01:21+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-     "published_at": "2026-10-30T05:01:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGdsWEhlMVlJb2FjTjZXSnhfOC0xcUZfWWI4WnJXZU0tN1BqOXN0VklaNXJ2NlBwbDBCME55Q0J0a1NINlN6TGpWa2sxekhiM0ZDNDg4VTAteW1JaC02YkVFRDBFbTlfdWN3RERsYXpaR2laUHlGeno0cXczVVR5bzBZMW1iakd0SVZSUGhlUFlPbTI0"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达哈萨克斯坦业务机遇与风险并存",
-   "title_zh": "英伟达哈萨克斯坦业务的机遇与隐患",
-   "sentiment": 0
   }
  ]
 }
