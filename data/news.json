@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T02:21:32.058931+00:00",
+ "updated_at": "2026-11-01T02:36:33.686763+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 17
   },
   "day_sentiment": {
-   "avg": -0.14,
-   "count": 73
+   "avg": -0.12,
+   "count": 75
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.14（73条已评分）"
+     "note": "今日新闻情绪 -0.12（75条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-01T02:21:32.049878+00:00"
+   "as_of": "2026-11-01T02:36:33.676036+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -3018,7 +3018,7 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KRXFmSlN2YncwOGYxWFVlQ3g5Qlk0aTdUSE9MOEdpaXBXR0dNZE9fYk5IenFzX29oN2VUYVZCemhCdDJGYlUtczdTQjJiNkpZakFHd2tRREh4TUM3RWQ5Y05wUQ",
    "source": "东方财富",
    "published_at": "2026-10-30T16:08:32+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "东方财富",
@@ -3029,13 +3029,22 @@
      "name": "新浪财经",
      "published_at": "2026-10-31T11:29:46+00:00",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fUFk0bDZ4RXFPV2dLd2JEaWpmd3ZENjlHRTdMWmpHZTNTdk9GdUI5T1hnajdidWpXTmY2OFp1TlFPblljNjNqN0VLSThzcXNNaGhOaElUVjlpNEJTenMwZjJJLUgzbHlnemdrMnR3cnJFb0VSbzRfNQ"
+    },
+    {
+     "name": "新浪网",
+     "published_at": "2026-11-01T02:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxOWpfOVJsQW11XzlJdGxueS1YMl9CR0V1YmZqVzIxdmFEQUZSUGRXR29aeUl0cHRhZ05WR0JibndmQlZNMVlFbjBZWV9mdVl5bC1QTExMb0pmUVN5M0tYSjctenhvRWs3bFdyQjRDRlM"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "英伟达布局下一代CPO",
    "title_zh": "英伟达，下一代CPO - 新浪财经",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -1.2,
+    "window_h": 2.0
+   }
   },
   {
    "id": "d097c69cbd7d",
@@ -6607,6 +6616,23 @@
    "sentiment": 0
   },
   {
+   "id": "13a9494abde2",
+   "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc",
+   "source": "Reuters",
+   "published_at": "2026-10-30T01:26:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-10-30T01:26:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeFZKQnF5QVdNQlBQRzNMTE5PbjhUSXF0Y0NzYXpyaVJFeGplang3clhEYUtGUF9Fd2tPRjE0VllQVjV0cncwdU9za2RGZkFjQ2ZSTGdpQ3hXSkRBSjVtY2tvTzhEVTYtUkxYQjdfc1A3blJMd0c2ajJTUFp0eGMtOEtMbEk2NGl2Y2hrRFVlSHVaT1VQWi1qaGhLTkoyZVhXWFVFaXpDVEpZQV90MFNSZzN2dTl0WXJWZEhBRzJmUFVpNzI2Smc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "908640fc7e6f",
    "title": "Nvidia's web of AI bets: smart strategy or bubble risk? - Yahoo Finance UK",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemdkOTNGSGEwaDdWTkQybldieG0zVzJmWVBobS16QW5FZ0lMMDNlajBaYk9TLW9xNkxYaVhCVy1FNFh2aC0wSmtDUGtLSFZieEpNdnZTYTlUUDhLdkdZcGR3U3hGMDlYQVRHWDVVQ3NsdENVRUxRaDJ4Y2RObXIxMzExMXFhQQ",
@@ -6644,26 +6670,6 @@
     "pct": 0.11,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "76ff4540df5f",
-   "title": "Nvidia to make $1 billion investment in Naver next week - The Korea Herald",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96eDJhU3pCZVhqQzlYcFEzQU1KeW03d1R5SnVBbW11SXlnX08wOTZYRHlTbzQ1LXRTTC0wZzdkdG1EbmRmUlNsMFBUa2NZa3JyWjZ3cVZuRQ",
-   "source": "The Korea Herald",
-   "published_at": "2026-10-30T01:16:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Korea Herald",
-     "published_at": "2026-10-30T01:16:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96eDJhU3pCZVhqQzlYcFEzQU1KeW03d1R5SnVBbW11SXlnX08wOTZYRHlTbzQ1LXRTTC0wZzdkdG1EbmRmUlNsMFBUa2NZa3JyWjZ3cVZuRQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达下周将向Naver投资10亿美元",
-   "title_zh": "英伟达下周将向Naver投资10亿美元",
-   "sentiment": 1
   }
  ]
 }
