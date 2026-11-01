@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T03:51:34.897181+00:00",
+ "updated_at": "2026-11-01T04:06:39.621467+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 17
   },
   "day_sentiment": {
-   "avg": -0.12,
-   "count": 78
+   "avg": -0.14,
+   "count": 80
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.12（78条已评分）"
+     "note": "今日新闻情绪 -0.14（80条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-01T03:51:34.883800+00:00"
+   "as_of": "2026-11-01T04:06:39.609872+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6785fbc7d8b5",
+   "title": "3天2板后，002636紧急公告：未与英伟达、华为有过接触 - 同花顺财经",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41M1l1R3hzQW5tbjBPRTJ5dExNYm1UVWM1RGQzNEllTFUzNkIzLVFHSk9ia19qRkhaaGg0UXBZeDE5d3VWRFRGRnJhOGFrLWM4WUNPdVNkREd3UzVQNnpHczd6QXJPYjQ",
+   "source": "同花顺财经",
+   "published_at": "2026-11-01T03:58:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "同花顺财经",
+     "published_at": "2026-11-01T03:58:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41M1l1R3hzQW5tbjBPRTJ5dExNYm1UVWM1RGQzNEllTFUzNkIzLVFHSk9ia19qRkhaaGg0UXBZeDE5d3VWRFRGRnJhOGFrLWM4WUNPdVNkREd3UzVQNnpHczd6QXJPYjQ"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "852cf407edb0",
    "title": "Apple reclaims world's most valuable company title as Nvidia slips amid AI investment concerns - The Times of India",
@@ -6610,26 +6627,6 @@
    "session": "盘后",
    "zh_summary": "华为拿下国产AI芯片52.1%份额",
    "title_zh": "英伟达看着眼红：华为拿下国产AI芯片52.1%的份额 - 搜狐网",
-   "sentiment": -1
-  },
-  {
-   "id": "a7bebb302c2c",
-   "title": "Elizabeth Warren Wants Nvidia CEO to Answer Congress on Suspected Spy - NVIDIA (NASDAQ:NVDA) - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcVZKdzE0cUdpcHlOTl9qb0NwaEF0cjRSdnlnTm9rOGhmaUswMURHZmwtSGpEUjJsRmk3WEpha0JHbU9CY3R5SGluUmpQRmtHM1AzMlR3RDdLcWNnV1dZY0xLeXRVN0tCZkZhbEpTLTd0aUYtQllGbFR5c2FvU19YdmZnaTNZRWRQVUYxZnVXS19pdG5ydkVqeUc4N2xyUVVwcjdsTjhGUF95b0NxenBtRlpqZEJXWmZucU0zV2J0bUc",
-   "source": "Benzinga",
-   "published_at": "2026-10-30T01:54:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-30T01:54:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcVZKdzE0cUdpcHlOTl9qb0NwaEF0cjRSdnlnTm9rOGhmaUswMURHZmwtSGpEUjJsRmk3WEpha0JHbU9CY3R5SGluUmpQRmtHM1AzMlR3RDdLcWNnV1dZY0xLeXRVN0tCZkZhbEpTLTd0aUYtQllGbFR5c2FvU19YdmZnaTNZRWRQVUYxZnVXS19pdG5ydkVqeUc4N2xyUVVwcjdsTjhGUF95b0NxenBtRlpqZEJXWmZucU0zV2J0bUc"
-    }
-   ],
-   "category": "市场宏观",
-   "session": "盘后",
-   "zh_summary": "沃伦要求黄仁勋就间谍嫌疑答复国会",
-   "title_zh": "沃伦要求英伟达CEO就间谍嫌疑向国会作答",
    "sentiment": -1
   }
  ]
