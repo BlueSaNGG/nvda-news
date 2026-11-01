@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T00:36:29.942013+00:00",
+ "updated_at": "2026-11-01T00:51:30.969900+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 17
   },
   "day_sentiment": {
-   "avg": -0.11,
-   "count": 63
+   "avg": -0.09,
+   "count": 64
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.11（63条已评分）"
+     "note": "今日新闻情绪 -0.09（64条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-01T00:36:29.933550+00:00"
+   "as_of": "2026-11-01T00:51:30.955525+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -63,12 +63,17 @@
  "stories": [
   {
    "id": "9cb26f87d7b6",
-   "title": "英伟达展示下一代CPO方案！取消光引擎独立的有机基板 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sWmRORW5xVnMwNHRxZ3RjV2RnRm15ckpmM3RVS1ROMERvMkF5RHNLNVpnZjdWX194U2tESTJVeW9hckFGaUR4T1A5TktCSDZDQjJVblFtQ0VLMFV2OXZNRUhycG4wdkcyY3V3dzdhYkFTUDBZUFFjMA",
-   "source": "新浪财经",
-   "published_at": "2026-11-01T00:16:50+00:00",
-   "outlets_count": 1,
+   "title": "英伟达展示下一代CPO方案！取消光引擎独立的有机基板 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxODk1QVdZVEhkV3prSzhxeHZ1N283SzRuYk9lMU5uOEJwdk5VRXVNcS1rNG8tNlNtdXdpeEdHelNpOXpVXzZ1WUEwSHh4SGV2U21SajFNQ180Zi1QVmRCVw",
+   "source": "东方财富",
+   "published_at": "2026-11-01T00:11:15+00:00",
+   "outlets_count": 2,
    "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-11-01T00:11:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxODk1QVdZVEhkV3prSzhxeHZ1N283SzRuYk9lMU5uOEJwdk5VRXVNcS1rNG8tNlNtdXdpeEdHelNpOXpVXzZ1WUEwSHh4SGV2U21SajFNQ180Zi1QVmRCVw"
+    },
     {
      "name": "新浪财经",
      "published_at": "2026-11-01T00:16:50+00:00",
@@ -77,8 +82,8 @@
    ],
    "category": "其他",
    "session": "周末",
-   "title_zh": "英伟达展示下一代CPO方案！取消光引擎独立的有机基板 - 新浪财经",
    "zh_summary": "英伟达展示下一代CPO方案",
+   "title_zh": "英伟达展示下一代CPO方案！取消光引擎独立的有机基板 - 新浪财经",
    "sentiment": 1
   },
   {
@@ -100,6 +105,23 @@
    "zh_summary": "美司法部审查英伟达129亿美元交易",
    "title_zh": "美国司法部审查英伟达129亿美元收购Hugging Face交易",
    "sentiment": -1
+  },
+  {
+   "id": "3ffbd0f81592",
+   "title": "美股遭重挫 苹果超英伟达重返全球市值第一 - 大紀元",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2RFBZNnpCaWJQaVZ2cDV3cDNWM3pRanZkaDVIMHBqUmtOVndRdlAzNWE2eFpUdW5nNkJnZHhPNk1UaTVhelpaZ1NXdi1QT091YzJRSDhXNlVsZ1NhMXlyRlhB",
+   "source": "大紀元",
+   "published_at": "2026-10-31T23:34:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "大紀元",
+     "published_at": "2026-10-31T23:34:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2RFBZNnpCaWJQaVZ2cDV3cDNWM3pRanZkaDVIMHBqUmtOVndRdlAzNWE2eFpUdW5nNkJnZHhPNk1UaTVhelpaZ1NXdi1QT091YzJRSDhXNlVsZ1NhMXlyRlhB"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
   },
   {
    "id": "6a5ee5a263b4",
@@ -220,6 +242,23 @@
    "zh_summary": "中国AI算力需求增417%，对手销量增19倍",
    "title_zh": "中国AI算力需求增长417%，英伟达对手销量增长19倍",
    "sentiment": 0
+  },
+  {
+   "id": "e805d2c4913f",
+   "title": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries — GOOGL, MSFT, ORCL, NVDA, MRVL In Focus - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOZkZxbTlaRlJuYVhsa0V4em5uNWJVMXJJSjNha0R3VlMwNzRrVFlQbVJyXzA2RUMxU1hkSDhEWFJiTV9ERjZKR0otd0lZZDF1SjVVUjlta1NweEJSVHp1UmZzX0RFcWVKQUNSUGMwVW1FM2p5dU4ta2RFNFI2c05nZWdlcFdiUlQ2VzZzZnh2YUhPeldlcndLTkJtQkpwNkNqWTZsdFNMYnBCRmlwVFhBZUxveVBZRGh5QWZRajJjRDZXNXB2S2NCQmREMlVHZmVrOGdxS1FvRExpbFAxcG1iRTB4cTYyTHd1TzFDZmxKNkhIUncwYllnVWdRVEJOZGtsWFRSWFczUHIzb2ItejA1Q0szSndLT2FuSHdkV1dncEFQU09zUWxj",
+   "source": "Stocktwits",
+   "published_at": "2026-10-31T17:14:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-10-31T17:14:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOZkZxbTlaRlJuYVhsa0V4em5uNWJVMXJJSjNha0R3VlMwNzRrVFlQbVJyXzA2RUMxU1hkSDhEWFJiTV9ERjZKR0otd0lZZDF1SjVVUjlta1NweEJSVHp1UmZzX0RFcWVKQUNSUGMwVW1FM2p5dU4ta2RFNFI2c05nZWdlcFdiUlQ2VzZzZnh2YUhPeldlcndLTkJtQkpwNkNqWTZsdFNMYnBCRmlwVFhBZUxveVBZRGh5QWZRajJjRDZXNXB2S2NCQmREMlVHZmVrOGdxS1FvRExpbFAxcG1iRTB4cTYyTHd1TzFDZmxKNkhIUncwYllnVWdRVEJOZGtsWFRSWFczUHIzb2ItejA1Q0szSndLT2FuSHdkV1dncEFQU09zUWxj"
+    }
+   ],
+   "category": "财报",
+   "session": "周末"
   },
   {
    "id": "6be02e0bf2bc",
@@ -6660,46 +6699,6 @@
     "pct": 0.11,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "f69f1ada05c7",
-   "title": "加拿大政府与英伟达等参与Cohere融资 投后估值超200亿美元 - 观点网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LY3FaeHpyV1hSeXZJaHlWM0t5UHZZd0lZdWRFT0hDTTc2ZGYtcERNcUJvMU8tYW9mLV9scVBxRW5rTjA3eGJlVWVLcTFhRDVJWG1iazJBR280S1oyOU5yZEln",
-   "source": "观点网",
-   "published_at": "2026-10-29T23:17:55+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "观点网",
-     "published_at": "2026-10-29T23:17:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LY3FaeHpyV1hSeXZJaHlWM0t5UHZZd0lZdWRFT0hDTTc2ZGYtcERNcUJvMU8tYW9mLV9scVBxRW5rTjA3eGJlVWVLcTFhRDVJWG1iazJBR280S1oyOU5yZEln"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达参与Cohere融资，估值超200亿美元",
-   "title_zh": "加拿大政府与英伟达等参与Cohere融资 投后估值超200亿美元 - 观点网",
-   "sentiment": 1
-  },
-  {
-   "id": "4a2cbd460cde",
-   "title": "Nvidia Moves to Backstop a Cloud Provider’s $45 Billion Anthropic Project - The Information",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf",
-   "source": "The Information",
-   "published_at": "2026-10-29T23:01:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Information",
-     "published_at": "2026-10-29T23:01:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘后",
-   "zh_summary": "英伟达为云服务商450亿美元项目兜底",
-   "title_zh": "英伟达为云服务商450亿美元Anthropic项目兜底",
-   "sentiment": 1
   }
  ]
 }
