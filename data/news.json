@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-11-02T14:21:44.126584+00:00",
+ "updated_at": "2026-11-02T14:36:31.387253+00:00",
  "market": {
-  "price": 204.64,
-  "change_pct": -4.22,
-  "as_of": "2026-10-30",
+  "price": 207.77,
+  "change_pct": 1.53,
+  "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-11-17",
    "label": "Q3 FY2027",
@@ -20,12 +20,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 53% 分位"
+     "note": "现价处于52周区间 58% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +53.9%"
+     "note": "目标价中位数 $315（17家），隐含空间 +51.6%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $204.64 vs 20日均线 $221.46"
+     "note": "现价 $207.77 vs 20日均线 $219.90"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 53,
+   "price_52w_pct": 58,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 53.9,
-   "ma20": 221.46,
-   "as_of": "2026-11-02T14:21:44.117656+00:00"
+   "implied_upside_pct": 51.6,
+   "ma20": 219.9,
+   "as_of": "2026-11-02T14:36:31.371345+00:00"
   },
-  "pe_ttm": 26.0,
+  "pe_ttm": 26.4,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+53.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+51.6%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "07c1c3b1014d",
+   "title": "Nvidia, AMD, Marvell Targets Cut: Melius Pulls Back on AI Stocks as Big Tech Lines Up to Raise Cash - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdmFVNG00aDdBdENWS1RKQmJYMzdKaUpwVGEzS05BbzZEdGY1cDV1MFplNWROcFpXQ0ctMEN0d2hCUmEwclFucHJaTDd4NmlGbTNxWTdFTmxzekJSTG9zWVA4VE5mRDlpMFpuMFc4UEpUbGl5S1NsV1RzR01JdnVMeE9nR3llVHFWUnVuY09iTGZzdkg4R0lLWnJIc0ZMSmVVYjVNX0ZZODJpNW54Q1B5ZzVYajVYVHJnRk1uUFAxbzI",
+   "source": "Benzinga",
+   "published_at": "2026-11-02T14:27:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-11-02T14:27:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdmFVNG00aDdBdENWS1RKQmJYMzdKaUpwVGEzS05BbzZEdGY1cDV1MFplNWROcFpXQ0ctMEN0d2hCUmEwclFucHJaTDd4NmlGbTNxWTdFTmxzekJSTG9zWVA4VE5mRDlpMFpuMFc4UEpUbGl5S1NsV1RzR01JdnVMeE9nR3llVHFWUnVuY09iTGZzdkg4R0lLWnJIc0ZMSmVVYjVNX0ZZODJpNW54Q1B5ZzVYajVYVHJnRk1uUFAxbzI"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "63527735746f",
    "title": "NVIDIA Brev security breach may have exposed SSH keys used to access customer VMs — investigation finds unauthorized activity spanning 16 days, but no evidence of misuse - Tom's Hardware",
@@ -160,6 +177,23 @@
    "zh_summary": "思灵机器人携手英伟达探索汽车物流自动化",
    "title_zh": "思灵机器人携手奥迪、达索与英伟达探索汽车物流自动化",
    "sentiment": 1
+  },
+  {
+   "id": "eed3b7465b22",
+   "title": "NVIDIA's GeForce RTX 5080 24GB Launch Rumor Hits A Major Roadblock - HotHardware",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObi1OeUZwN2xVN1IyQXMxU25jWi15eUJabFN4V0VEeW9aMW4tXzhZOHFSRHRseVE2UFREcjc0TmR5azdhaFRkSVRXc0tiQzMyN3lVUHFSbzVUbVU2eXUyNmRtSmJwS1M2LVluRk5IQ2p0bHdtNkpIRXQ4cHV5VXZHY2RSZm05dVZzZjlpaV9R",
+   "source": "HotHardware",
+   "published_at": "2026-11-02T13:27:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "HotHardware",
+     "published_at": "2026-11-02T13:27:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObi1OeUZwN2xVN1IyQXMxU25jWi15eUJabFN4V0VEeW9aMW4tXzhZOHFSRHRseVE2UFREcjc0TmR5azdhaFRkSVRXc0tiQzMyN3lVUHFSbzVUbVU2eXUyNmRtSmJwS1M2LVluRk5IQ2p0bHdtNkpIRXQ4cHV5VXZHY2RSZm05dVZzZjlpaV9R"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "0a0d3650c719",
@@ -330,26 +364,6 @@
    "zh_summary": "美股大型科技股盘前多数上涨，英伟达涨超1%",
    "title_zh": "美股大型科技股盘前多数上涨，英伟达涨超1% - 36Kr",
    "sentiment": 1
-  },
-  {
-   "id": "1880f0f7990a",
-   "title": "红杉合伙人：SpaceX 正站在英伟达式增长爆发前夜，Starship、AI 算力与卫星直连手机被严重低估 - 深潮TechFlow",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zLXMtOTFXZDd6NERjSm4tVVJHOGQ2R2Q0dmd3QXNaYW9sS2pxTTJRV2pXVlp1UENONzgzUUJsTEIyUFRNNXBqVkZTR2ZzMmdyeUZqMw",
-   "source": "深潮TechFlow",
-   "published_at": "2026-11-02T12:52:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "深潮TechFlow",
-     "published_at": "2026-11-02T12:52:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zLXMtOTFXZDd6NERjSm4tVVJHOGQ2R2Q0dmd3QXNaYW9sS2pxTTJRV2pXVlp1UENONzgzUUJsTEIyUFRNNXBqVkZTR2ZzMmdyeUZqMw"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "红杉合伙人称SpaceX站在英伟达式增长前夜",
-   "title_zh": "红杉合伙人称SpaceX正站在英伟达式增长爆发前夜",
-   "sentiment": 0
   },
   {
    "id": "aee50dd12937",
@@ -1494,7 +1508,11 @@
    "session": "盘前",
    "zh_summary": "预测英伟达11月将因一事件走强",
    "title_zh": "预测：英伟达11月将因一事件表现亮眼",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "a00a91287663",
@@ -1569,7 +1587,11 @@
    "session": "盘前",
    "zh_summary": "英伟达等入选Zacks财报前瞻",
    "title_zh": "英伟达、美光与Alphabet入选Zacks财报前瞻",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "3112fbe36131",
@@ -2449,7 +2471,11 @@
    "session": "周末",
    "zh_summary": "中国否认针对英伟达CEO间谍阴谋",
    "title_zh": "中国否认针对英伟达CEO间谍阴谋报道",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "21c3992b6c95",
@@ -2529,6 +2555,31 @@
    "session": "周末",
    "zh_summary": "英伟达与耐克反对股票代币化计划",
    "title_zh": "英伟达、耐克加入反对股票代币化计划行列",
+   "sentiment": 0
+  },
+  {
+   "id": "1880f0f7990a",
+   "title": "红杉合伙人：SpaceX 正站在英伟达式增长爆发前夜，Starship、AI 算力与卫星直连手机被严重低估 - ChainCatcher",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTUTROeVBBRVRPVHpTYmljZ3ozajNubFNFZTdxcmRXS1NfUlRzM3Q1aVQzd29DNmZnSU5FVk1qVVBXbmhUYlptdE9nSWRJV1lZeGE2Q3RzRQ",
+   "source": "ChainCatcher",
+   "published_at": "2026-11-01T22:29:40+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "ChainCatcher",
+     "published_at": "2026-11-01T22:29:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTUTROeVBBRVRPVHpTYmljZ3ozajNubFNFZTdxcmRXS1NfUlRzM3Q1aVQzd29DNmZnSU5FVk1qVVBXbmhUYlptdE9nSWRJV1lZeGE2Q3RzRQ"
+    },
+    {
+     "name": "深潮TechFlow",
+     "published_at": "2026-11-02T12:52:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zLXMtOTFXZDd6NERjSm4tVVJHOGQ2R2Q0dmd3QXNaYW9sS2pxTTJRV2pXVlp1UENONzgzUUJsTEIyUFRNNXBqVkZTR2ZzMmdyeUZqMw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "周末",
+   "zh_summary": "红杉合伙人称SpaceX站在英伟达式增长前夜",
+   "title_zh": "红杉合伙人称SpaceX正站在英伟达式增长爆发前夜",
    "sentiment": 0
   },
   {
@@ -2874,7 +2925,11 @@
    "session": "周末",
    "zh_summary": "英伟达反对代币化股票交易平台",
    "title_zh": "ICE与OKX代币化股票平台遇阻，英伟达等加入反对",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "1e6346acee3f",
@@ -3374,7 +3429,11 @@
    "session": "周末",
    "zh_summary": "英伟达展示下一代CPO技术",
    "title_zh": "英伟达展示下一代CPO技术，光通信的竞争开始转向芯片封装 - 新浪财经",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "443739ec243d",
@@ -3859,7 +3918,11 @@
    "session": "周末",
    "zh_summary": "002636公告未与英伟达华为接触",
    "title_zh": "3天2板后，002636紧急公告：未与英伟达、华为有过接触 - 同花顺财经",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "1efac845cbb9",
@@ -3934,7 +3997,11 @@
    "session": "周末",
    "zh_summary": "特朗普称密切关注英伟达CEO间谍阴谋报道",
    "title_zh": "特朗普称美国正密切关注英伟达CEO成中国间谍阴谋目标的报道",
-   "sentiment": -1
+   "sentiment": -1,
+   "price_reaction": {
+    "pct": -0.21,
+    "window_h": 0.1
+   }
   },
   {
    "id": "852cf407edb0",
@@ -6354,61 +6421,6 @@
    "session": "盘后",
    "zh_summary": "苹果市值反超英伟达",
    "title_zh": "苹果市值反超英伟达，投资者寻求安全感",
-   "sentiment": -1
-  },
-  {
-   "id": "c13c5c35955d",
-   "title": "隔夜美股 | “黑色星期五”席卷风险资产 纳指创6月来最差单日表现 苹果(AAPL.US)市值反超英伟达(NVDA.US)重回全球第一 - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nTnllejhLaGZSU3pmVDk2eGtuN19wcXdRRjVsanpGUWJjZ00xTTQ0QjN1QXcwRnlmQnFkQkI5M0JDLUowZkxFRW1UMFdwZThjeFdjYTRKMzAzTXVpZDlIdzZDZ2J1OWpsdl9UNnJuWG4",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-30T23:02:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-30T23:02:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nTnllejhLaGZSU3pmVDk2eGtuN19wcXdRRjVsanpGUWJjZ00xTTQ0QjN1QXcwRnlmQnFkQkI5M0JDLUowZkxFRW1UMFdwZThjeFdjYTRKMzAzTXVpZDlIdzZDZ2J1OWpsdl9UNnJuWG4"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "纳指大跌，苹果市值反超英伟达",
-   "title_zh": "纳指创6月来最差单日表现，苹果市值反超英伟达",
-   "sentiment": -1
-  },
-  {
-   "id": "70393d0a81d3",
-   "title": "资本支出相对克制获市场青睐 苹果(AAPL.US)超越英伟达(NVDA.US)重夺全球市值第一 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHR1TVI4amxCRlJKNDRnaFE5M3dQVk11TWdaZ0NVVlAwRDJNdWl3amxBQy01MzNUcWw1TGtGd3NhS3VpSERwTUo5UWdOTjZxc3dSMnRleEFJUHc0YzJCc3ptWGo0T1lwa3BBZzdhVXpPY2lLMVIwRHdoNW5zX3lGY0oyTG03bWlQTHE2enV3",
-   "source": "新浪财经",
-   "published_at": "2026-10-30T23:00:00+00:00",
-   "outlets_count": 4,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-30T23:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcHR1TVI4amxCRlJKNDRnaFE5M3dQVk11TWdaZ0NVVlAwRDJNdWl3amxBQy01MzNUcWw1TGtGd3NhS3VpSERwTUo5UWdOTjZxc3dSMnRleEFJUHc0YzJCc3ptWGo0T1lwa3BBZzdhVXpPY2lLMVIwRHdoNW5zX3lGY0oyTG03bWlQTHE2enV3"
-    },
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-30T23:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXBOLWVKaG9fMkdMQnJETGZQT2hZbkRjU3JlZkRreEJ2UjdKVEltblZTYlAyUlpwemZiTlEzcVEzcEhBb051OWp2dVFIa1JfU1BiM3ZoMExvNEhrNEg5dkdSaS0xOUplRWNZcDg4amtVRHNIMXJ6NVV3cUNGLW00Zk8tLV9NUm9EdzJLemgwQXlGMkJpbnZGa09ocmNtMDdXeWc0YmxCS3I5Njg"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-30T23:35:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSTlNYWRFV2djY3dZRjl2LUF4WXFaUG9mX3R0M01DVGpkMUxzNVJxOFo3RmV0VEtLS1ViYzFNdlo3d2NsVXF5MWtvZHl2WDdKM1hSem82Rk9CSy1zUGxVUWhfMWtMN05EUG5WRENOVXdXZE02VlRjTGU2NEpiVXctREo1MkQyMmZEWkdhS0hyaWV3T2tBUVBITWt2Z3FHbFk"
-    },
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-30T23:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fUmFYbVdIVVVBb1prQWttSDRLYXRXeEtiLWxpRFBPZWYxWmdVTWhDQjlqM2dFQ29QbHY2Q1FVX256bFJuV3FEVENZQncwZ2E4M2VFcl81cTJnMFNzQVNiYUNtSEhmaDhZTEp1RHI5bkc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "苹果超越英伟达重夺全球市值第一",
-   "title_zh": "苹果超越英伟达重夺全球市值第一",
    "sentiment": -1
   }
  ]
