@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T23:22:17.884601+00:00",
+ "updated_at": "2026-11-02T23:37:06.407660+00:00",
  "market": {
   "price": 202.06,
   "change_pct": -1.26,
@@ -10,8 +10,8 @@
    "days_left": 15
   },
   "day_sentiment": {
-   "avg": 0.05,
-   "count": 156
+   "avg": 0.04,
+   "count": 157
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（156条已评分）"
+     "note": "今日新闻情绪 +0.04（157条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 55.9,
    "ma20": 219.62,
-   "as_of": "2026-11-02T23:22:17.870477+00:00"
+   "as_of": "2026-11-02T23:37:06.397554+00:00"
   },
   "pe_ttm": 25.7,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "d84c21b01f6c",
+   "title": "Nvidia Reports Nov. 17. History Says What Its Stock Usually Does Next. - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGJJZXFlWmhxcWo4RHFDWXFyN1JkcER6LW11MkZNaUpqb09hLS1ycVEzcjFVUkdwbjFxdzRQaEVrdTlUa1NVNlZ4ZDJVMUpfVHQzdlVHdE1zRVptbm9CSVh1R2hqSHBUYy1HMGQyencySVZnWV82VVBlNlJ4eC1HYTZmMzBaX0JXSGw0NEpWNkt6eUY5ZkRfOTZmTUxuakxscGZuRU5nVVZLLXl3X3Bv",
+   "source": "The Motley Fool",
+   "published_at": "2026-11-02T23:17:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-11-02T23:17:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbGJJZXFlWmhxcWo4RHFDWXFyN1JkcER6LW11MkZNaUpqb09hLS1ycVEzcjFVUkdwbjFxdzRQaEVrdTlUa1NVNlZ4ZDJVMUpfVHQzdlVHdE1zRVptbm9CSVh1R2hqSHBUYy1HMGQyencySVZnWV82VVBlNlJ4eC1HYTZmMzBaX0JXSGw0NEpWNkt6eUY5ZkRfOTZmTUxuakxscGZuRU5nVVZLLXl3X3Bv"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "8d2a5d013991",
    "title": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands - CNBC",
@@ -100,6 +117,23 @@
    "zh_summary": "英伟达推出分布式训练自动恢复功能",
    "title_zh": "利用自动化工作负载恢复保持分布式训练运行",
    "sentiment": 1
+  },
+  {
+   "id": "e327539edc2e",
+   "title": "Palantir: Tuned Nvidia Model Tops GPT-6 Astra at 1/200 Price - FourWeekMBA",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ1dIUTk2UllIMFRNZlpBVGotTjRDVXFuWkduYVJla0psVE5KaktiYVNscy16dHdTTUxFTmxqRHRJWHNIR3R0WGhjZFZwYWctSkVZYzc1emF1TVZnaV9KaHVlUEJsZ1RRT19lck5GMVFLaUdYV3FFaVIzbXdzYnhCUWFwZEtQY2cyWDhZeGdzM0U",
+   "source": "FourWeekMBA",
+   "published_at": "2026-11-02T22:27:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FourWeekMBA",
+     "published_at": "2026-11-02T22:27:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ1dIUTk2UllIMFRNZlpBVGotTjRDVXFuWkduYVJla0psVE5KaktiYVNscy16dHdTTUxFTmxqRHRJWHNIR3R0WGhjZFZwYWctSkVZYzc1emF1TVZnaV9KaHVlUEJsZ1RRT19lck5GMVFLaUdYV3FFaVIzbXdzYnhCUWFwZEtQY2cyWDhZeGdzM0U"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "ed01f5aaf150",
@@ -2192,12 +2226,12 @@
    "title": "Nvidia stock valuation gets torched by tech stock rout - Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZseDhYeDZxTDFzcm9tLVdXRlo0RzdnTzR6U284RVFhTW1Rc09WU2R6TG1iODczZUQ0RUdPTDdPR09CajZWc0tNMV9laGxQZktza2RtZXRKTE5YT0xfY2FFWFRmVTkyWUxnb251UEJ5TWV5UFJ0VzU1LVgtTzEyZ0RjcURPUXItdEc2YzdSREtuRGZhVUlHQ3JMbWNOZmllc1RzNUphcFBRSjFTakZrT0dpTENVMFhFVVE",
    "source": "Yahoo Finance",
-   "published_at": "2026-11-02T11:02:44+00:00",
+   "published_at": "2026-11-02T11:01:45+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Yahoo Finance",
-     "published_at": "2026-11-02T11:02:44+00:00",
+     "published_at": "2026-11-02T11:01:45+00:00",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcGZseDhYeDZxTDFzcm9tLVdXRlo0RzdnTzR6U284RVFhTW1Rc09WU2R6TG1iODczZUQ0RUdPTDdPR09CajZWc0tNMV9laGxQZktza2RtZXRKTE5YT0xfY2FFWFRmVTkyWUxnb251UEJ5TWV5UFJ0VzU1LVgtTzEyZ0RjcURPUXItdEc2YzdSREtuRGZhVUlHQ3JMbWNOZmllc1RzNUphcFBRSjFTakZrT0dpTENVMFhFVVE"
     }
    ],
@@ -2326,26 +2360,6 @@
    "zh_summary": "DLSS 5演示马里奥赛车世界画面",
    "title_zh": "英伟达DLSS 5演示马里奥赛车世界，画面如动画电影",
    "sentiment": 1
-  },
-  {
-   "id": "bbd66cfa36b9",
-   "title": "NVIDIA Corporation $NVDA Stock Position Lessened by Central Bank & Trust Co. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTJMS1RRSEZYbGJjaVZtVUZqN19ZYlhQZVlKUE5WUi1vTmJhSjR5cTYzUEJ4MVBRaWN4RGVMWDlmaTFNalpzejdrbjZfS0NGRWZxSHREVTEyc0l4Q09VRERDRU1JV3VoRHJYOGFTb0ZDQV9kTEppLUdMZWVKT3g4MFY5SnVHVEF1N0M3SjlSQlFSX1VjWHVFVXVkQ1RMSm1IR09EV2N1SklkVlJzZmlyeEdyX3I2QjNwN2d4dGtIMVd3RU5vTnRoaDJQX2RhQQ",
-   "source": "MarketBeat",
-   "published_at": "2026-11-02T10:29:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-02T10:29:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTJMS1RRSEZYbGJjaVZtVUZqN19ZYlhQZVlKUE5WUi1vTmJhSjR5cTYzUEJ4MVBRaWN4RGVMWDlmaTFNalpzejdrbjZfS0NGRWZxSHREVTEyc0l4Q09VRERDRU1JV3VoRHJYOGFTb0ZDQV9kTEppLUdMZWVKT3g4MFY5SnVHVEF1N0M3SjlSQlFSX1VjWHVFVXVkQ1RMSm1IR09EV2N1SklkVlJzZmlyeEdyX3I2QjNwN2d4dGtIMVd3RU5vTnRoaDJQX2RhQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Central Bank & Trust减持英伟达",
-   "title_zh": "Central Bank & Trust减持英伟达股票",
-   "sentiment": -1
   },
   {
    "id": "3021639e1092",
@@ -6369,26 +6383,6 @@
    "session": "周末",
    "zh_summary": "英伟达护城河遭全栈联盟多点穿透",
    "title_zh": "英伟达护城河，正被全栈联盟多点穿透 - 搜狐网",
-   "sentiment": -1
-  },
-  {
-   "id": "c64329a08e81",
-   "title": "Consumer Tech (Oct 26-30): Meta Donation Sparks Backlash, Nvidia Deal Draws DOJ Scrutiny, Chipmakers Repo - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUEpNN0QtQkhmX0NCUlN6N2pyaDczWXBfX0RjWndZMlBLbW5ManF6OTlJbmtLTDZwNGlGdURNQmYtUDZSSG1TQnJzQXZrVGU4emZkY1ZlVEx0UUFmLXoxZk9MekdIbzgwbHhrajgxeU1BXzlnNm9Zc3BZVDRrWmtJQmVOQVhlcmcwdUhkSmRxclhHMXJGLUlqR2hfdGtTQzRmTE5vVmMzQlZrMUZ2bWVHX3J0ZUtYMjh5Wnh1SXhwbUl1VVRFX01ESG1BYWt5V1BGTktZUXFocnBxZUNmQXlEaTh0cF9zc1EzNEVtWnI3WThlSHhVcHZN",
-   "source": "Benzinga",
-   "published_at": "2026-10-31T14:11:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-10-31T14:11:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUEpNN0QtQkhmX0NCUlN6N2pyaDczWXBfX0RjWndZMlBLbW5ManF6OTlJbmtLTDZwNGlGdURNQmYtUDZSSG1TQnJzQXZrVGU4emZkY1ZlVEx0UUFmLXoxZk9MekdIbzgwbHhrajgxeU1BXzlnNm9Zc3BZVDRrWmtJQmVOQVhlcmcwdUhkSmRxclhHMXJGLUlqR2hfdGtTQzRmTE5vVmMzQlZrMUZ2bWVHX3J0ZUtYMjh5Wnh1SXhwbUl1VVRFX01ESG1BYWt5V1BGTktZUXFocnBxZUNmQXlEaTh0cF9zc1EzNEVtWnI3WThlSHhVcHZN"
-    }
-   ],
-   "category": "政策监管",
-   "session": "周末",
-   "zh_summary": "英伟达交易引发司法部审查",
-   "title_zh": "消费科技周报：Meta捐款引争议，英伟达交易遭司法部审查",
    "sentiment": -1
   }
  ]
