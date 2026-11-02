@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T19:21:34.901231+00:00",
+ "updated_at": "2026-11-02T19:37:59.913535+00:00",
  "market": {
-  "price": 204.27,
-  "change_pct": -0.18,
+  "price": 203.43,
+  "change_pct": -0.59,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 15
   },
   "day_sentiment": {
-   "avg": 0.03,
-   "count": 135
+   "avg": 0.04,
+   "count": 136
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 53% 分位"
+     "note": "现价处于52周区间 52% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +54.2%"
+     "note": "目标价中位数 $315（17家），隐含空间 +54.8%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.03（135条已评分）"
+     "note": "今日新闻情绪 +0.04（136条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $204.27 vs 20日均线 $219.73"
+     "note": "现价 $203.43 vs 20日均线 $219.69"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 53,
+   "price_52w_pct": 52,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 54.2,
-   "ma20": 219.73,
-   "as_of": "2026-11-02T19:21:34.892472+00:00"
+   "implied_upside_pct": 54.8,
+   "ma20": 219.69,
+   "as_of": "2026-11-02T19:37:59.905160+00:00"
   },
-  "pe_ttm": 26.0,
+  "pe_ttm": 25.9,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+54.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+54.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "95ba8cdb0eae",
+   "title": "NVIDIA GA104GL GPU Specs - TechPowerUp",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iM1VUekRiamhKU2JCbFV5anVDNlp5ZmpnbzVpc2lJb25zT0UyQ0ZncFdGWTZpQXNLX2gxOEE3NVNjc3dGVjUweTkyaTZydXhiQjRVMWpXMnF2M1NuZkhPZ3FCUkZPcVNYbEE",
+   "source": "TechPowerUp",
+   "published_at": "2026-11-02T19:34:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-11-02T19:34:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iM1VUekRiamhKU2JCbFV5anVDNlp5ZmpnbzVpc2lJb25zT0UyQ0ZncFdGWTZpQXNLX2gxOEE3NVNjc3dGVjUweTkyaTZydXhiQjRVMWpXMnF2M1NuZkhPZ3FCUkZPcVNYbEE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "6b52f20774d1",
+   "title": "NVIDIA breaks support, oversold at $205: Live levels - Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnFIbm8zM2NWVE5od1Foc3c0RXZYRE54ZHQyY3g1eEpYTHZRRV8zdVp1VUtuQnlrQjktbGRDdHFPbkRraTBESWFySEdRLVJlTkEzb2hBS3dUUjFqaEEtYnBmZ19yS3Z1SzNTTnlPYm0xS3dlR2todjd6bnBIcWI1SzlkSENubVJrVF9SZjhNdG1uT2R5WmFBRjA4M2NxVW9JcTRlNDNnNXptOWItdHQyZQ",
+   "source": "Investing.com",
+   "published_at": "2026-11-02T19:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Investing.com",
+     "published_at": "2026-11-02T19:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnFIbm8zM2NWVE5od1Foc3c0RXZYRE54ZHQyY3g1eEpYTHZRRV8zdVp1VUtuQnlrQjktbGRDdHFPbkRraTBESWFySEdRLVJlTkEzb2hBS3dUUjFqaEEtYnBmZ19yS3Z1SzNTTnlPYm0xS3dlR2todjd6bnBIcWI1SzlkSENubVJrVF9SZjhNdG1uT2R5WmFBRjA4M2NxVW9JcTRlNDNnNXptOWItdHQyZQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "e224bb9cd6b8",
    "title": "XMax Doubles Down on Nvidia to Dominate the AI Arms Race - GuruFocus",
@@ -2689,6 +2723,23 @@
    "zh_summary": "SpaceX有望复制英伟达营收增长",
    "title_zh": "红杉合伙人称SpaceX可复制英伟达营收，特斯拉博主算合并账",
    "sentiment": 0
+  },
+  {
+   "id": "d167c48ebcf3",
+   "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL - MarkTechPost",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGtEeFpiMXg3bG5icGxHN3BjOGtUYVVTbWxSVzFxdWZON0ZTWks4MU1BVTBYYkxsZ2xyOWd1ZUthUWRfaldhOS1TcWdSZGxnOUJrck5TUTNINmJRbkFNUmdMellPdzdYbjMtVDJRT0VULVBhVHozODhuUjRGR0hhcEk1dzloNTJSUVhuMkRkd25mWnlINlktTnBJVEptek3SAZ8BQVVfeXFMUDhrRHhaYjF4N2xuYnBsRzdwYzhrVGFVU21sUlcxcXVmTjdGU1pLODFNQVUwWGJMbGdscjlndWVLYVFkX2pXYTktU3FnUmRsZzlCa3JOU1EzSDZiUW5BTVJnTHpZT3c3WG4zLVQyUU9FVC1QYVR6Mzg4blI0RkdIYXBJNXc5aDUyUlFYbjJEZHduZlp5SDZZLU5wSVRKbXpN",
+   "source": "MarkTechPost",
+   "published_at": "2026-11-02T07:47:12+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarkTechPost",
+     "published_at": "2026-11-02T07:47:12+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGtEeFpiMXg3bG5icGxHN3BjOGtUYVVTbWxSVzFxdWZON0ZTWks4MU1BVTBYYkxsZ2xyOWd1ZUthUWRfaldhOS1TcWdSZGxnOUJrck5TUTNINmJRbkFNUmdMellPdzdYbjMtVDJRT0VULVBhVHozODhuUjRGR0hhcEk1dzloNTJSUVhuMkRkd25mWnlINlktTnBJVEptek3SAZ8BQVVfeXFMUDhrRHhaYjF4N2xuYnBsRzdwYzhrVGFVU21sUlcxcXVmTjdGU1pLODFNQVUwWGJMbGdscjlndWVLYVFkX2pXYTktU3FnUmRsZzlCa3JOU1EzSDZiUW5BTVJnTHpZT3c3WG4zLVQyUU9FVC1QYVR6Mzg4blI0RkdIYXBJNXc5aDUyUlFYbjJEZHduZlp5SDZZLU5wSVRKbXpN"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "d72945394a88",
@@ -6328,71 +6379,6 @@
    "session": "周末",
    "zh_summary": "美股大跌，英伟达看跌期权由盈转亏",
    "title_zh": "美股昨夜大跌，英伟达看跌期权从盈利22%转为亏损66.67%",
-   "sentiment": 0
-  },
-  {
-   "id": "9ef7e5f01df5",
-   "title": "NVIDIA CPO Prototype: 256 Gb/s Optics on Interposer [2026] - https://tech-insider.org/",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMzhhalQ5aV9RUUlBTzBaSUFOcDVzd1BhdXNMZXFzaGE0NHpGVURpYWJMMjcxWXdVWTlDb28tRHFFeWR4VTREYzdwNkhPajFVVTVGT0JMVVlubldNR3pzWXNUTTBkdE04RnhBQWw5aGtYV0N0cFktQ0c3QU00SXhfZzE5SkI5OVk",
-   "source": "https://tech-insider.org/",
-   "published_at": "2026-10-31T09:37:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "https://tech-insider.org/",
-     "published_at": "2026-10-31T09:37:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMzhhalQ5aV9RUUlBTzBaSUFOcDVzd1BhdXNMZXFzaGE0NHpGVURpYWJMMjcxWXdVWTlDb28tRHFFeWR4VTREYzdwNkhPajFVVTVGT0JMVVlubldNR3pzWXNUTTBkdE04RnhBQWw5aGtYV0N0cFktQ0c3QU00SXhfZzE5SkI5OVk"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达展示256Gb/s光学共封装原型",
-   "title_zh": "英伟达CPO原型：256 Gb/s中介层光学技术",
-   "sentiment": 1
-  },
-  {
-   "id": "673147f34e5e",
-   "title": "国产芯片四年抢走四成份额，算力贬值，英伟达的神话破了？ - 手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YbHYxX2hLYlNxRXFDWFdwVWV1eXVyS0NxVEduVmEyNktNM2k2U09tODdtcVREaHBPeDB2MHVtVUQya3ZfQVJrR2c2enJFd29aRFRjbmhOVnlNUGxiQkdua01aNzJ2YjB2REtiWXJaZlgwZw",
-   "source": "手机新浪网",
-   "published_at": "2026-10-31T09:28:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-31T09:28:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YbHYxX2hLYlNxRXFDWFdwVWV1eXVyS0NxVEduVmEyNktNM2k2U09tODdtcVREaHBPeDB2MHVtVUQya3ZfQVJrR2c2enJFd29aRFRjbmhOVnlNUGxiQkdua01aNzJ2YjB2REtiWXJaZlgwZw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "国产芯片四年抢走四成市场份额",
-   "title_zh": "国产芯片四年抢走四成份额，算力贬值，英伟达的神话破了？",
-   "sentiment": -1
-  },
-  {
-   "id": "64020799fcb9",
-   "title": "Here's What $10,000 Invested Equally in SpaceX and Nvidia Could Be Worth in 2030 - The Motley Fool",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0JxdzJ0dXJFQ0lzYzlrRk10NEM1YzFVcktpOXl1NU1rZm41RXctbW1OQkRucnFqT2Y3ZWJQc3owSGY3QVdNcEU3OU9NeFdZMzRuS01uSUgtYWpJbjZhUC01U0NGV0o3Z3pUbV9yT1BqTF9TcWltQnBsYW9UczJTcmVaMGpETEgxdXB4Xzl0aWFqQQ",
-   "source": "The Motley Fool",
-   "published_at": "2026-10-31T09:21:36+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "The Motley Fool",
-     "published_at": "2026-10-31T09:21:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0JxdzJ0dXJFQ0lzYzlrRk10NEM1YzFVcktpOXl1NU1rZm41RXctbW1OQkRucnFqT2Y3ZWJQc3owSGY3QVdNcEU3OU9NeFdZMzRuS01uSUgtYWpJbjZhUC01U0NGV0o3Z3pUbV9yT1BqTF9TcWltQnBsYW9UczJTcmVaMGpETEgxdXB4Xzl0aWFqQQ"
-    },
-    {
-     "name": "The Globe and Mail",
-     "published_at": "2026-10-31T09:35:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQ3o4bVpvUmY4NXJXQnB2VDlfbzVQdlJRTTdjaGJVQ2hKUlBsRURlZzhWeEx3cDZ4dzZfRFJqT1BsblBEcUFLcWU1STJjQ3NUT21YcFZDWnVjMG1DUEVROEpTSUdjXzR2ak9fOWh1M1RNOTg0VlltVEVOdGVCVzcxVzJzdzZxLUxad3dPUkttRDdsSndPWHFGYTUzbTJ5MEJqMzY5bzhodEhYaTF0TTcyeWRRZ3I2S2ItZjVUQXV4Q0RXMmdidzE3QkFERE9JNEFMcGluWXloZWwweVNsTFFPZ2Z6c24zQUxpbjh4eEtDQVZSdzJSR09XM2JB"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "1万美元均投SpaceX与英伟达的2030年价值",
-   "title_zh": "1万美元均投SpaceX与英伟达，2030年值多少",
    "sentiment": 0
   }
  ]
