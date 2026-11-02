@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T07:36:34.451416+00:00",
+ "updated_at": "2026-11-02T07:51:31.233854+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 15
   },
   "day_sentiment": {
-   "avg": -0.33,
-   "count": 3
+   "avg": 0.25,
+   "count": 8
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.33（3条已评分）"
+     "note": "今日新闻情绪 +0.25（8条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-02T07:36:34.437246+00:00"
+   "as_of": "2026-11-02T07:51:31.224758+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -427,10 +427,15 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HMDR6VW02UVlLSG1DNHdkXzJkTk9WTHppeFhvclQ4R3BscnlEekRVckxpVUpaVC1oSzhrM0luT2hhcFpHdHBHQ1UtSEotTFliaE45eDBqX0F2ZDdzNTMzU0JMR3ZnTXZMR0hKRjFwWTU",
    "source": "新浪网",
    "published_at": "2026-11-02T01:42:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪网",
+     "published_at": "2026-11-02T01:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HMDR6VW02UVlLSG1DNHdkXzJkTk9WTHppeFhvclQ4R3BscnlEekRVckxpVUpaVC1oSzhrM0luT2hhcFpHdHBHQ1UtSEotTFliaE45eDBqX0F2ZDdzNTMzU0JMR3ZnTXZMR0hKRjFwWTU"
+    },
+    {
+     "name": "手机新浪网",
      "published_at": "2026-11-02T01:42:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HMDR6VW02UVlLSG1DNHdkXzJkTk9WTHppeFhvclQ4R3BscnlEekRVckxpVUpaVC1oSzhrM0luT2hhcFpHdHBHQ1UtSEotTFliaE45eDBqX0F2ZDdzNTMzU0JMR3ZnTXZMR0hKRjFwWTU"
     }
@@ -6455,6 +6460,23 @@
    "sentiment": -1
   },
   {
+   "id": "974e6c67432f",
+   "title": "Could Nvidia's New 800-Volt Shift Spark a Navitas Stock Turnaround? - The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzAzMmZoYmFIMkFic3ozTlc1V0Rrd01Ud3FSa0NVcTIteDBGZWw5OFJHcXR4VW1CaDRZSjJrSnhIb3lQNVR5MDVFV1hXOGpCTHhCOXQwSkptZHp5aWpnazYzRVBzeWVaeHZXWlJCeWh6STNKN2pCemJUdFRMUnFtZEZ2dk1pb0JUdUllZnFpb0JCcjk0ZHp0alVQWDhNVmd6SGYyZlVBS0RwNTNKRUE",
+   "source": "The Motley Fool",
+   "published_at": "2026-10-30T13:05:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-30T13:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzAzMmZoYmFIMkFic3ozTlc1V0Rrd01Ud3FSa0NVcTIteDBGZWw5OFJHcXR4VW1CaDRZSjJrSnhIb3lQNVR5MDVFV1hXOGpCTHhCOXQwSkptZHp5aWpnazYzRVBzeWVaeHZXWlJCeWh6STNKN2pCemJUdFRMUnFtZEZ2dk1pb0JUdUllZnFpb0JCcjk0ZHp0alVQWDhNVmd6SGYyZlVBS0RwNTNKRUE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "ed577a61729c",
    "title": "Qualcomm bets its AI inference chips can chip away at Nvidia before 2029 - Startup Fortune",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1p6aW1CMGloSF9KbkJmTmh1aWtsNU9ZVWRKWHlKd0RnbXFvLWFEQS1lUTM5c1J3LXVBMGRfNFNpZWxzNWwxZGdYbmJJRUkteEUzd05BTkdjOGpCSGpxdjUwSGhtdlZXU0dwQmYzR3BwaHVyZnFzRWRhN1F2cm44d2lOR2tBeGVRNzc3N0NVWHFsUDBxM1BVNFM1al9qLTFVTXc",
@@ -6580,6 +6602,28 @@
    "sentiment": 1
   },
   {
+   "id": "21f7f83f1ac9",
+   "title": "Buy This Incredible Artificial Intelligence (AI) Stock Before It Soars 144% (Hint: It Will Outpace Nvidia’s Growth) - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSEhOWDBSZkJ3R3VuSjZycG5ZQUZZemdOeWthWE4tR1R1Sjc4bnNQY1g4U2g0YnkwMndaQTNHYlZhVEFWZHRPQ0tTVmo0aV9ucHVwby15MnN4U1FQZVBBVk9QZXNhakJxMWZ6Y2pNTXR2bFpOY1ZKTWtTUFRlNnpRR003b3RYMU5SUDBkVmMwclc3dllhako5ZlNNSGVIdkJjb3VIeG0wNEk",
+   "source": "Yahoo Finance",
+   "published_at": "2026-10-30T12:24:02+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-10-30T12:24:02+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSEhOWDBSZkJ3R3VuSjZycG5ZQUZZemdOeWthWE4tR1R1Sjc4bnNQY1g4U2g0YnkwMndaQTNHYlZhVEFWZHRPQ0tTVmo0aV9ucHVwby15MnN4U1FQZVBBVk9QZXNhakJxMWZ6Y2pNTXR2bFpOY1ZKTWtTUFRlNnpRR003b3RYMU5SUDBkVmMwclc3dllhako5ZlNNSGVIdkJjb3VIeG0wNEk"
+    },
+    {
+     "name": "The Motley Fool",
+     "published_at": "2026-10-30T13:04:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSTUzYXYxNk1IU013eDdiUHdGNGZPUHVlQmp1Umtid3ZXbHNaYkU0TmN4bkhfWFFWZ3VTR1R6ejMxV3YwSFBwWTYyT2UyVS1aRTdSNmpxUm9LY3BTSWdKNEs3MTJTQUhhTEdCNVJzekFlc19mdVNEbmdEbjhGTjZGY0FXN3I4RzZxS19hUTFrYURiUDY0dkUxVlNUY1pDVHhxSU1kMGNaTDl4bEVsZWp2OWlSS1lkZ2FjU0RBT2UtcEJOQkNtYzRpYnN0SVBmWUNXQzQ0emVMc2ZJR3R1U0VkdjJWSmRKQjA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "332cfce9764c",
    "title": "Why Is Nvidia Stock Down Today? AI Spending Fears And China Probe Headlines - Coinpedia",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRnpuVWNBZFNNOE1EaEF2NkpQMFVNTmlGaTlBYjgtV3pCa3pZc0FZbU96R1g1Z3BXbWk2bGdMaXhhSHlkXy1GbFBzbUF0WF9Xb1BydGdEdVRWaGMzQ3FFMXhvTWFLeldoNmtoS3YzTV8wQ2tJSVg0amdsNXItcGt4N1gzN2ZmOXBtbGNlMEY3SWJCN3ozbm5TdGRSYmg3TnlHQS1pcGQ0VjRfa0NZT2FndU9BNlDSAboBQVVfeXFMTm5FVE5SMm94WVV0NnZ4VmFHTngtVVpDS0VaLWswVU9adkM4NFJUMi1PRC1ib2twNWJRQWx5dDVaU3BIVC04cURLMFZyODl6UURzUkJFeV9sRWZUXzhwWm9XY2hnVUtMUlNGb0VtX1ZyRTlKalZabzNBaU5HVjJPeEItRXVId3JTLWg0NGFBY29nTUFQa2tqLU9IUHNlZjBYczB5UUtsVjVKUF9jaVJKc1JwZTItX0V5aHBR",
@@ -6598,56 +6642,6 @@
    "zh_summary": "AI支出担忧与中国调查致股价下跌",
    "title_zh": "英伟达今日股价下跌：AI支出担忧与中国调查",
    "sentiment": -1
-  },
-  {
-   "id": "e70493988346",
-   "title": "China denies allegations of spy operation targeting Nvidia CEO - BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Vb29DRkVQbndqTXdsNkxpb3hBTDBNRkc4cjVsT3VnUjItWmNLSzhOdmg3VHNaUTZiNThJRmtjZUJDWVpBZWlQb0lTa1ZBaDd6bFBjNXp3RWYwMFU",
-   "source": "BBC",
-   "published_at": "2026-10-30T12:20:04+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "BBC",
-     "published_at": "2026-10-30T12:20:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Vb29DRkVQbndqTXdsNkxpb3hBTDBNRkc4cjVsT3VnUjItWmNLSzhOdmg3VHNaUTZiNThJRmtjZUJDWVpBZWlQb0lTa1ZBaDd6bFBjNXp3RWYwMFU"
-    },
-    {
-     "name": "Yahoo",
-     "published_at": "2026-10-30T12:20:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZFlsUnZvRklFc3JQMmdMU2xaUGtReTVkOUpkaXJBVUZ5cnVBbHp4dWVBSFlhejcwNmZGUkFnY3FGLWRFWG1nLTlYS2lDbl9nRFRLaHlIOC1UdjFJVjVlbXFUczh5S2k4aG5Pa1pRVGRaQ2pzbi1rYlh0clNIWjB3aXl5Q3VpVkFmLUo5OVRsdEdXMVM0SkpHMFd2NA"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "中国否认针对英伟达CEO间谍指控",
-   "title_zh": "中国否认针对英伟达CEO的间谍行动指控",
-   "sentiment": 0
-  },
-  {
-   "id": "dd0f026f5d9c",
-   "title": "China rejects report of spy plot targeting Nvidia's Jensen Huang - Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm9jU3N3bE9BVWhsaWxTX19BaXk4TXpwWHhXRTExWTZRU2tnVllyLTUydHdLNjN1bTlBQmJZaG5mSDI1VjNqWXB3TF9fZ3RvNmFacXdSNmszcUVsa0J2bmwtczZyQmltSlRYVnZWYlpySlM5X28xSW0tcU1rWHBYZy1ybWczQi1GTThxdTN0U2hiLVZKekJFRTdMdU5wSnFH",
-   "source": "Euronews.com",
-   "published_at": "2026-10-30T12:14:31+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Euronews.com",
-     "published_at": "2026-10-30T12:14:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm9jU3N3bE9BVWhsaWxTX19BaXk4TXpwWHhXRTExWTZRU2tnVllyLTUydHdLNjN1bTlBQmJZaG5mSDI1VjNqWXB3TF9fZ3RvNmFacXdSNmszcUVsa0J2bmwtczZyQmltSlRYVnZWYlpySlM5X28xSW0tcU1rWHBYZy1ybWczQi1GTThxdTN0U2hiLVZKekJFRTdMdU5wSnFH"
-    },
-    {
-     "name": "Euronews",
-     "published_at": "2026-10-30T12:14:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm9jU3N3bE9BVWhsaWxTX19BaXk4TXpwWHhXRTExWTZRU2tnVllyLTUydHdLNjN1bTlBQmJZaG5mSDI1VjNqWXB3TF9fZ3RvNmFacXdSNmszcUVsa0J2bmwtczZyQmltSlRYVnZWYlpySlM5X28xSW0tcU1rWHBYZy1ybWczQi1GTThxdTN0U2hiLVZKekJFRTdMdU5wSnFH"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "中国否认针对黄仁勋间谍阴谋报道",
-   "title_zh": "中国否认针对英伟达黄仁勋的间谍阴谋报道",
-   "sentiment": 0
   }
  ]
 }
