@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T12:51:26.773470+00:00",
+ "updated_at": "2026-11-02T13:06:34.076205+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 15
   },
   "day_sentiment": {
-   "avg": 0.01,
-   "count": 69
+   "avg": 0.03,
+   "count": 72
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.01（69条已评分）"
+     "note": "今日新闻情绪 +0.03（72条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-02T12:51:26.758092+00:00"
+   "as_of": "2026-11-02T13:06:34.059532+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "dfa00f93f057",
+   "title": "美股大型科技股盘前多数上涨，英伟达涨超1% - 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiUHVTckMxX2dha2RnN0h4RmZ1Z3F6ZnFiT0NaaVlJN1BaWGpJUVpxdTU3MHIzTFliVnJzRkhZbGh2U054emJuVWs4MXQzRXpYVnhRQ2pRQWo",
+   "source": "36Kr",
+   "published_at": "2026-11-02T12:54:16+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "36Kr",
+     "published_at": "2026-11-02T12:54:16+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiUHVTckMxX2dha2RnN0h4RmZ1Z3F6ZnFiT0NaaVlJN1BaWGpJUVpxdTU3MHIzTFliVnJzRkhZbGh2U054emJuVWs4MXQzRXpYVnhRQ2pRQWo"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "1880f0f7990a",
+   "title": "红杉合伙人：SpaceX 正站在英伟达式增长爆发前夜，Starship、AI 算力与卫星直连手机被严重低估 - 深潮TechFlow",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zLXMtOTFXZDd6NERjSm4tVVJHOGQ2R2Q0dmd3QXNaYW9sS2pxTTJRV2pXVlp1UENONzgzUUJsTEIyUFRNNXBqVkZTR2ZzMmdyeUZqMw",
+   "source": "深潮TechFlow",
+   "published_at": "2026-11-02T12:52:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "深潮TechFlow",
+     "published_at": "2026-11-02T12:52:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zLXMtOTFXZDd6NERjSm4tVVJHOGQ2R2Q0dmd3QXNaYW9sS2pxTTJRV2pXVlp1UENONzgzUUJsTEIyUFRNNXBqVkZTR2ZzMmdyeUZqMw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
   {
    "id": "9e72cef31146",
    "title": "Nvidia Is Maintained at Buy by Melius Research - Moomoo",
@@ -82,6 +116,23 @@
    "sentiment": 1
   },
   {
+   "id": "0abd13bb4bf6",
+   "title": "NVIDIA GeForce RTX 5080 24 GB May Miss January 2027 Launch As Board Partners Still Await Design Kits - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcUJzWVBnQ3Qzd1p1akQtZWVYcExOZmZYVlRYTzVlSDdNM19OQnpORlZrUDBQb0RHeTFYMklhbzBzRTlvUnBaOGJvSy1SQzl3NkpFWlZMdjRmWnZoRGRDeGFFQXo1ZWJsSnpMNHBmZ1ptS2dwNW5lcElzLUY2ZVFDYzNERnRocXZRU0JxUjFfMkhoTW1PdnZkM3RDWGp0eEJCSlVCOUFzX3NXci1EdmhpQkgzMTYzdGpHUm8zdmJENNIBxAFBVV95cUxOYkhRZml5RVpKOEdrUVdMZTdZTFhrMXJSNXVWUGN3Vm41YUphelZPX1N3RDdvVmo5RmlOUzF1OThIUlJZX3BUa3J5eTktTVRybUVkMGpCUFpENjNfdDUySWdqUTJFU1Z6UTRjLTF1a0JBOUphYWJWMUpsS2gxbDIwNE8zaVRlYnl6dUEzWGxKWU1GTUJfaExnLXhPQzd2dTlnZk1RTkN6MDJrWmxCYmltakdncDRNYjJLWWZRTENNc0R6Z05m",
+   "source": "Wccftech",
+   "published_at": "2026-11-02T12:35:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Wccftech",
+     "published_at": "2026-11-02T12:35:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcUJzWVBnQ3Qzd1p1akQtZWVYcExOZmZYVlRYTzVlSDdNM19OQnpORlZrUDBQb0RHeTFYMklhbzBzRTlvUnBaOGJvSy1SQzl3NkpFWlZMdjRmWnZoRGRDeGFFQXo1ZWJsSnpMNHBmZ1ptS2dwNW5lcElzLUY2ZVFDYzNERnRocXZRU0JxUjFfMkhoTW1PdnZkM3RDWGp0eEJCSlVCOUFzX3NXci1EdmhpQkgzMTYzdGpHUm8zdmJENNIBxAFBVV95cUxOYkhRZml5RVpKOEdrUVdMZTdZTFhrMXJSNXVWUGN3Vm41YUphelZPX1N3RDdvVmo5RmlOUzF1OThIUlJZX3BUa3J5eTktTVRybUVkMGpCUFpENjNfdDUySWdqUTJFU1Z6UTRjLTF1a0JBOUphYWJWMUpsS2gxbDIwNE8zaVRlYnl6dUEzWGxKWU1GTUJfaExnLXhPQzd2dTlnZk1RTkN6MDJrWmxCYmltakdncDRNYjJLWWZRTENNc0R6Z05m"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "0649da4bf1e4",
    "title": "Dell’s Pro Max Tower T2 is cheaper than its Nvidia Blackwell GPU - TechRadar",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXlpX3dpU2JXbXF3QThQeVNpdUhKeEN4TWRYdkpFVUNhVDEwMGpPVkdNNVVjQWg1Rk5ZcUc3UVRXZ3R0c19UU21WbENTM182STV4RmZ4WkVWUnRfenZoSkM2VktEOWcyMDNqX1RjVWZINTEwRng5WUVHTlRMbzJieDc1dURPcUNVQmZ5c3VhMThZenNWMXo4ekhVWkRjclhLOF9UVFZkYjRZbUszbW80WmM2bS1tUUp1U3kwenRLVkZHZEtGVVpRSEZqbFgxTHM1cVAyY1JQd1RLQQ",
@@ -100,6 +151,23 @@
    "zh_summary": "戴尔新工作站比英伟达Blackwell显卡便宜",
    "title_zh": "戴尔Pro Max Tower T2比英伟达Blackwell GPU便宜",
    "sentiment": 0
+  },
+  {
+   "id": "12c13596709b",
+   "title": "Bizarre Dell Pro Max Tower T2 workstation pricing quirk makes it cheaper than the Nvidia Blackwell GPU inside it - TechRadar",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXlpX3dpU2JXbXF3QThQeVNpdUhKeEN4TWRYdkpFVUNhVDEwMGpPVkdNNVVjQWg1Rk5ZcUc3UVRXZ3R0c19UU21WbENTM182STV4RmZ4WkVWUnRfenZoSkM2VktEOWcyMDNqX1RjVWZINTEwRng5WUVHTlRMbzJieDc1dURPcUNVQmZ5c3VhMThZenNWMXo4ekhVWkRjclhLOF9UVFZkYjRZbUszbW80WmM2bS1tUUp1U3kwenRLVkZHZEtGVVpRSEZqbFgxTHM1cVAyY1JQd1RLQQ",
+   "source": "TechRadar",
+   "published_at": "2026-11-02T12:35:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechRadar",
+     "published_at": "2026-11-02T12:35:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXlpX3dpU2JXbXF3QThQeVNpdUhKeEN4TWRYdkpFVUNhVDEwMGpPVkdNNVVjQWg1Rk5ZcUc3UVRXZ3R0c19UU21WbENTM182STV4RmZ4WkVWUnRfenZoSkM2VktEOWcyMDNqX1RjVWZINTEwRng5WUVHTlRMbzJieDc1dURPcUNVQmZ5c3VhMThZenNWMXo4ekhVWkRjclhLOF9UVFZkYjRZbUszbW80WmM2bS1tUUp1U3kwenRLVkZHZEtGVVpRSEZqbFgxTHM1cVAyY1JQd1RLQQ"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "386ad91ec759",
@@ -6376,111 +6444,6 @@
    "zh_summary": "英伟达期权10月30日成交430.11万张",
    "title_zh": "英伟达期权聚焦：10月30日成交430.11万张",
    "sentiment": 0
-  },
-  {
-   "id": "c9e84ceaeb68",
-   "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company - Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPREh2X0QtQ1NlWlVJa1VpU2MxUmVVOUR4T3h6RjNjQmdjYkQtWFI0dmVrRzRKRmVKUDdJcFpmOVBkdDk3MjJRYmRBcTEyZFF5STQtM2VKOTBITW12aFozbHVqVThzX1BjLVQ2dEFSRWZJTnNpeWFiTnZGLTB1dWNBMkpOdGNLS0xvM0xNLUVqQlE2N3VBV2g3LTdXYkFrSEh5ajh6ODZXTVdUWEFhdURhOTAyaE9Td1IyMWNGWldjSmQ0YUEtc2ZRa1dZT2RzYWRXb0E",
-   "source": "Bloomberg.com",
-   "published_at": "2026-10-30T20:28:39+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "Bloomberg.com",
-     "published_at": "2026-10-30T20:28:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPREh2X0QtQ1NlWlVJa1VpU2MxUmVVOUR4T3h6RjNjQmdjYkQtWFI0dmVrRzRKRmVKUDdJcFpmOVBkdDk3MjJRYmRBcTEyZFF5STQtM2VKOTBITW12aFozbHVqVThzX1BjLVQ2dEFSRWZJTnNpeWFiTnZGLTB1dWNBMkpOdGNLS0xvM0xNLUVqQlE2N3VBV2g3LTdXYkFrSEh5ajh6ODZXTVdUWEFhdURhOTAyaE9Td1IyMWNGWldjSmQ0YUEtc2ZRa1dZT2RzYWRXb0E"
-    },
-    {
-     "name": "Investing.com",
-     "published_at": "2026-10-30T21:20:15+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODBMaHdvc1BPbG9PclQyazBXZFItdEhiSVRSSURfcjAzUzhOaTRETm84cXNoQkdOTFpkSlFqZ0VjdFZiTGxxMUptWFFqREZ0VDFaaDMtNmJ3aEFDNUZ3dnhhTWVDdXBYS2dvNXNab0N6em1ucUxQdFRuNmVzRGVkYnMzYmZkdnlrY1FtNUluUHRNZXBYNEw3MFIxR251R1gxVXJtSDhZNWkyVG9La3pqb05ma1ZSQkI1MWsxN05SNzNRYmVxcGdxbVNKZDA4Y2xZZEE"
-    },
-    {
-     "name": "Yahoo Finance UK",
-     "published_at": "2026-10-30T21:50:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT0RRSF82LUthQzE0cDJYYk1tOGRBRUlzNmI2MGkyNGMwQ2hQNUhnRkFlMTJNNDlwZmdneml4S3gtOUg4MnloLUt1Q3BKaWQwLWc0SU5wdkhuZENqUHlhZlg2TGVCOFVHaU91NmYtLVExTDktVnFiOVE3Z2VVZlMzWGRzdVVDVmRuTXJ4Qg"
-    },
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-30T20:28:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcG83dG41Y0RpLXc2dTNRVkVDY1hSU0Y5UWhWTU5IX2RDUi1MdWNBY3pSY1d6aUVEM2MxOF83c0R0UUlYSG5iR3RvWHR2TVVSTkFrZFhjSU1DU1NFYld4cUlLOG5jbmVGUWdlbFloLXdwdkpNWG1Ba2g2X0xTclpCNXF6Yl9TMG51ejBTQ2VCWWlNNlIxWEFIM1pITm9IcVdCWlE"
-    },
-    {
-     "name": "Bloomberg",
-     "published_at": "2026-10-30T20:28:39+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemhEdzVEaEpkYUJtQ2dYN2c3MlQ1N01MR0oxMnNheDZlbXVzaEJJd2k3bksyWGZwR0stcFZUOTNJZFB5dU1jajQ3RVZZYTBodlRJQXR4TG5tbjRibWYtUk9pUVpOWFZ5UGNOQV9sNnUyR3dfZllSSm81U2FjMDJFQTBsOU9XN2ZhRkVoTVBNdWxtVmJzdEVLRElxU2dkdG1HdjU4cGp6WmhjLVVEenJqQU80aw"
-    },
-    {
-     "name": "TweakTown",
-     "published_at": "2026-10-31T16:25:14+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0EzN2wzWmtPQ0g4SVVGMTRZRldtc1NRNEU1a3d0WGRzSTdFTUpvbHVVRndRUDZoVU9ucHIxQXU4VjVkdGNoWkN1Z2JDSUhvbkVCczlrUlpDaGVRNXFLTE1GRWs4TnQ2ZU90LW12NkNsdUp2UWpPRlFFMDFMNzgxcW5lT2gyLWJ5anFpb1dDV3p3Tm9CR0RGdnZpZUZLWUF1ZXlOVE5zTnFkR1ZXVWI0TVlKTmZOQ05kRVdzM1hPd3hUengtbEFWeGhTMmRla29pMXRGM0tLbDFtLU1PX1NlVkFR"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "苹果市值超越英伟达成全球第一",
-   "title_zh": "苹果超越英伟达成为全球最有价值公司",
-   "sentiment": -1
-  },
-  {
-   "id": "91af2ee63234",
-   "title": "Why Nvidia stock fell on Friday, and why October is its worst month in a year - Nacionale",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ0VieTFqdkdSazB4aGt3MDNLWm1waGJZV2xYdFJBNWdRNFpSeXMybURZOXgzRDJmNktJSFA4VEdka2JpeFhYb1duaVdvM2lsNkxKOTVNc19NTjhaQUpCcVVVd1BTTks5Z0dLRGtJbnhqMGNCTkZibHRCaTdmdzNiYXk3M0FUc2hqQzlycEk5T2t5NG1pbjZpcGhn",
-   "source": "Nacionale",
-   "published_at": "2026-10-30T20:24:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Nacionale",
-     "published_at": "2026-10-30T20:24:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ0VieTFqdkdSazB4aGt3MDNLWm1waGJZV2xYdFJBNWdRNFpSeXMybURZOXgzRDJmNktJSFA4VEdka2JpeFhYb1duaVdvM2lsNkxKOTVNc19NTjhaQUpCcVVVd1BTTks5Z0dLRGtJbnhqMGNCTkZibHRCaTdmdzNiYXk3M0FUc2hqQzlycEk5T2t5NG1pbjZpcGhn"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达股价周五下跌，十月创一年最差",
-   "title_zh": "英伟达股价周五下跌，十月为一年来最差月份",
-   "sentiment": -1
-  },
-  {
-   "id": "cabf3d6aa360",
-   "title": "Nvidia store quietly pulls the RTX 5080 following RTX 5090 removal — street prices climb to 2.2X over MSRP - Tom's Hardware",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTRvSVFvbHFOaHloakNlYXNoWFR2ZksteE4yMkRuMUkzYnJhSVBsYkxwUzNZbDBsZ0hLZm9wX25ZM3FGZGZRM1hjWFV0ZVNVN3N4R2hGamxiT3R0UDBLS1VuazlfRTVrZXZETTFnaTV0aEdYTW9XbmYyNzNtT2ZBM3FtcUFXa3RKWFNyMk5oeWtHZ1dRa2RjczB5WjM4dEZibjJVbnpGRUZSSWZSSmRNNndqNWhxdllYQkFEVmtsMmtLNzZhR3FOX2RRdTdOekZTWWp1dUROcnJBQU1LaTQydDdnMWRzVTA",
-   "source": "Tom's Hardware",
-   "published_at": "2026-10-30T20:13:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Tom's Hardware",
-     "published_at": "2026-10-30T20:13:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTRvSVFvbHFOaHloakNlYXNoWFR2ZksteE4yMkRuMUkzYnJhSVBsYkxwUzNZbDBsZ0hLZm9wX25ZM3FGZGZRM1hjWFV0ZVNVN3N4R2hGamxiT3R0UDBLS1VuazlfRTVrZXZETTFnaTV0aEdYTW9XbmYyNzNtT2ZBM3FtcUFXa3RKWFNyMk5oeWtHZ1dRa2RjczB5WjM4dEZibjJVbnpGRUZSSWZSSmRNNndqNWhxdllYQkFEVmtsMmtLNzZhR3FOX2RRdTdOekZTWWp1dUROcnJBQU1LaTQydDdnMWRzVTA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达下架RTX 5080，市价达建议价2.2倍",
-   "title_zh": "英伟达官网悄然下架RTX 5080，继5090之后市价涨至建议价2.2倍",
-   "sentiment": 0
-  },
-  {
-   "id": "0f9b7e316158",
-   "title": "Nvidia Stocks Decline 4.7% With Oracle Offering Separate CPU and GPU Scaling - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdEU3U3pYTHZFU3dGYnROYXNKaFRqUWdJMloxWkVncTdXb1pUWW5SVW1uVHo2TGl0S1lwbjFrVWxOWHdOVlEtdU9UcUxtWlcxeWV3VmFPYUlZMjl6NHlLeGJTcDg2TE1odzR4ZE9LSGFpdlhwY1BWR1d0SVBJSHVkVVJmMVFBbkRNaUNlQjUtRmtkUkoyWEIyNVRzLVBrWlhrRzdQNzZaYW5SNk5RVWJIQUpkbkcwcE5qSHVWTDg1Q09nVzY2VEVYWDk0SkdESFI0",
-   "source": "TradingView",
-   "published_at": "2026-10-30T20:04:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingView",
-     "published_at": "2026-10-30T20:04:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdEU3U3pYTHZFU3dGYnROYXNKaFRqUWdJMloxWkVncTdXb1pUWW5SVW1uVHo2TGl0S1lwbjFrVWxOWHdOVlEtdU9UcUxtWlcxeWV3VmFPYUlZMjl6NHlLeGJTcDg2TE1odzR4ZE9LSGFpdlhwY1BWR1d0SVBJSHVkVVJmMVFBbkRNaUNlQjUtRmtkUkoyWEIyNVRzLVBrWlhrRzdQNzZaYW5SNk5RVWJIQUpkbkcwcE5qSHVWTDg1Q09nVzY2VEVYWDk0SkdESFI0"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘后",
-   "zh_summary": "英伟达跌4.7%，甲骨文推CPU与GPU分离扩展",
-   "title_zh": "英伟达股价下跌4.7%，甲骨文提供CPU与GPU分离扩展方案",
-   "sentiment": -1
   }
  ]
 }
