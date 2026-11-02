@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T17:36:36.044247+00:00",
+ "updated_at": "2026-11-02T17:51:33.890804+00:00",
  "market": {
-  "price": 206.38,
-  "change_pct": 0.85,
+  "price": 206.31,
+  "change_pct": 0.82,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.0,
-   "count": 122
+   "count": 124
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +52.6%"
+     "note": "目标价中位数 $315（17家），隐含空间 +52.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（122条已评分）"
+     "note": "今日新闻情绪 +0.00（124条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $206.38 vs 20日均线 $219.83"
+     "note": "现价 $206.31 vs 20日均线 $219.83"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 56,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 52.6,
+   "implied_upside_pct": 52.7,
    "ma20": 219.83,
-   "as_of": "2026-11-02T17:36:36.032867+00:00"
+   "as_of": "2026-11-02T17:51:33.878506+00:00"
   },
   "pe_ttm": 26.2,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.6%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "52e3fa70783d",
+   "title": "NVIDIA Earnings: Why a Strong Q3 Beat May Still Disappoint Wall Street - Cryptonews.net",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GSHh5ZHFCN3RXUjlHc3ZWaV9Benl4OHNKc0xWY3huSmN2RmRrd3JxWXltSEFxS190T0RYTTNWU09LMlBVa1lQcF9OZW1ncVRfLTVMSjctMEY",
+   "source": "Cryptonews.net",
+   "published_at": "2026-11-02T17:38:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Cryptonews.net",
+     "published_at": "2026-11-02T17:38:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GSHh5ZHFCN3RXUjlHc3ZWaV9Benl4OHNKc0xWY3huSmN2RmRrd3JxWXltSEFxS190T0RYTTNWU09LMlBVa1lQcF9OZW1ncVRfLTVMSjctMEY"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
+  },
+  {
+   "id": "4dbf340a8389",
+   "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUpMeEVBVDVxRjVGU0ppSUJiYk1obTBTUFEydUdKcFc5bGt4SWtqcUIzOVV5YTJrWHBfNTdBRkxqMnJ2TzI3alZZd3pJWmpWdEZUc3pSblZuSU81blFWaWk5cURGWHFIdkgzamVPcUJ6NWpHNGJLWlZiemMzQVZFMEZxd2lXTXdMTGY3TXBVaGkzcmpKbUpIald3",
+   "source": "Yahoo Finance",
+   "published_at": "2026-11-02T17:36:03+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-02T17:36:03+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeUpMeEVBVDVxRjVGU0ppSUJiYk1obTBTUFEydUdKcFc5bGt4SWtqcUIzOVV5YTJrWHBfNTdBRkxqMnJ2TzI3alZZd3pJWmpWdEZUc3pSblZuSU81blFWaWk5cURGWHFIdkgzamVPcUJ6NWpHNGJLWlZiemMzQVZFMEZxd2lXTXdMTGY3TXBVaGkzcmpKbUpIald3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "2b730e895274",
    "title": "At the NVIDIA store, RTX 5070 Ti prices have surged to $1,500 amid the disappearance of the RTX 5080 and RTX 5090. - GameGPU",
@@ -87,12 +121,17 @@
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdW9nWE16LTJHdXVEeXBPcEJvcTM1QkNRbDRDczFfUXFlXzQzdU1oV19QeDNuX3BKM2Qzb2ZoZUxMQ0xlbGlpelFrTVdSMnYxUE5zaVFxT0lwWEFRRFIyMEhXQmRMbWVsdFVBTHEzZEpaRTJtMWYxYUpYZUFseTRLVGhaOHNyNjJpbVdTdURicUtVbU9yQ3JMXzE2VlhRYUstNW1FbnRVREpQbnk1S0k0LUJFQTVmYklieTVNRUpZTjBHcHpIbnc",
    "source": "24/7 Wall St.",
    "published_at": "2026-11-02T17:20:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-11-02T17:20:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdW9nWE16LTJHdXVEeXBPcEJvcTM1QkNRbDRDczFfUXFlXzQzdU1oV19QeDNuX3BKM2Qzb2ZoZUxMQ0xlbGlpelFrTVdSMnYxUE5zaVFxT0lwWEFRRFIyMEhXQmRMbWVsdFVBTHEzZEpaRTJtMWYxYUpYZUFseTRLVGhaOHNyNjJpbVdTdURicUtVbU9yQ3JMXzE2VlhRYUstNW1FbnRVREpQbnk1S0k0LUJFQTVmYklieTVNRUpZTjBHcHpIbnc"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-02T17:20:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0lPbGpsd1VLOVVaTi1CbTNDajRoTEt4QmdnQ3JkRlZTSE1UQ2tQSUhudnlTMm1VTEl1M0tuMVhVc0RkREVacTF0Tkxta1VuYUxaTmhrN3RaN3E3WE1lM195X1psbHRoYW1QOWdCazJ5NmZGV1NmVmlqQVo2Y1hFd2h1NThMaXBMVXAzYjh0S3ZObzllQXhXRWVfazNnbFhuYkhuaV9qY2M"
     }
    ],
    "category": "其他",
@@ -1280,6 +1319,23 @@
    "zh_summary": "先锋ETF 44.6%仓位集中四大科技股",
    "title_zh": "先锋ETF 44.6%仓位集中于英伟达等四巨头",
    "sentiment": 0
+  },
+  {
+   "id": "a8a1e416af67",
+   "title": "NVIDIA Corporation $NVDA Shares Acquired by WoodTrust Financial Corp - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS0k3YWNTYTc2X3JaQWNmckgxM0VJaDRFbGFzMHgyRWdrOUhUZDZpZVEwUEh3SHhPLTdqQmxzV3Q0WkcwVjB0cGVOd2tYaTJRT2pqbkVVUzhqTTM4MzZ6aXY1OFhNS3lsUi11ZlhTNTBaREhNRkJscld1cGlRQi1DX1drN1Q3bHM2TFp3TlZWamFhbVZ3NHBUellWRjNmdWhpNXNYWXM0NDEtMTJvc2htaGpHOGhoMmMwN1M1UzVsUVBvMXhOWThj",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T12:09:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T12:09:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS0k3YWNTYTc2X3JaQWNmckgxM0VJaDRFbGFzMHgyRWdrOUhUZDZpZVEwUEh3SHhPLTdqQmxzV3Q0WkcwVjB0cGVOd2tYaTJRT2pqbkVVUzhqTTM4MzZ6aXY1OFhNS3lsUi11ZlhTNTBaREhNRkJscld1cGlRQi1DX1drN1Q3bHM2TFp3TlZWamFhbVZ3NHBUellWRjNmdWhpNXNYWXM0NDEtMTJvc2htaGpHOGhoMmMwN1M1UzVsUVBvMXhOWThj"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "1d544e2e86ea",
@@ -6359,66 +6415,6 @@
    "zh_summary": "Westwind Capital售4369股英伟达",
    "title_zh": "Westwind Capital出售4369股英伟达股票",
    "sentiment": 0
-  },
-  {
-   "id": "12b7692c0057",
-   "title": "NVIDIA Corporation $NVDA Stock Bought by Grove Bank & Trust - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWjRYVHJtOXhld2F5VVNIMUNQZ0JNMmxMUS1OckVmN0JWVXhQZ29wVWNMVnlHSl9QZjRkRFdyYi12dHF4RmV0REFSS3lKY3gteld3WjJkX0hkbTk1TWh6MldWaTA2UTJCVEIxX2diX2N2UnB3b0hPNHZ6R3p4enVwZm54VHZzOHMzNzdhel9SZE5qZTVaQzlLY0FSU1pBRi1aQmcwWU1MTW0wUFJmTUZwMTlGUXlBWnFY",
-   "source": "MarketBeat",
-   "published_at": "2026-10-31T08:27:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-31T08:27:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWjRYVHJtOXhld2F5VVNIMUNQZ0JNMmxMUS1OckVmN0JWVXhQZ29wVWNMVnlHSl9QZjRkRFdyYi12dHF4RmV0REFSS3lKY3gteld3WjJkX0hkbTk1TWh6MldWaTA2UTJCVEIxX2diX2N2UnB3b0hPNHZ6R3p4enVwZm54VHZzOHMzNzdhel9SZE5qZTVaQzlLY0FSU1pBRi1aQmcwWU1MTW0wUFJmTUZwMTlGUXlBWnFY"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Grove Bank & Trust买入英伟达股票",
-   "title_zh": "Grove Bank & Trust买入英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "6aab369c0591",
-   "title": "5,094 NVIDIA Corporation $NVDA Shares Sold by Overbrook Management Corp - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDM5dWYyX0VzOEJSWjNodC0yNkhBejVKNFNjVldmTi1zTkdxUlhycHNGWFN3amRRQkxfWno1WEhzcFVDWjlnS1BXa004Z2wwQTRlcnZoZFVyRVk4MkR1NlBEbmU2LVdlQjVnMXItSWlhby1RZm14OVdHMVItYlhzTEZKaGUtd1FEQ3Ryd1RjRWtLa1hKc0RST2dDazh3Tm1xcDFoQzRfLWdKTTZmeGpIbS1Ub3NJYW9qbFlwdUk1d3RhVDVWalAxeHdR",
-   "source": "MarketBeat",
-   "published_at": "2026-10-31T08:27:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-31T08:27:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDM5dWYyX0VzOEJSWjNodC0yNkhBejVKNFNjVldmTi1zTkdxUlhycHNGWFN3amRRQkxfWno1WEhzcFVDWjlnS1BXa004Z2wwQTRlcnZoZFVyRVk4MkR1NlBEbmU2LVdlQjVnMXItSWlhby1RZm14OVdHMVItYlhzTEZKaGUtd1FEQ3Ryd1RjRWtLa1hKc0RST2dDazh3Tm1xcDFoQzRfLWdKTTZmeGpIbS1Ub3NJYW9qbFlwdUk1d3RhVDVWalAxeHdR"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Overbrook减持5094股英伟达股票",
-   "title_zh": "Overbrook Management减持5094股英伟达",
-   "sentiment": -1
-  },
-  {
-   "id": "059b857d20f7",
-   "title": "Nvidia Introduces New 4-Month GeForce Now Performance and Ultimate Plans in India - IGN India",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmduSjc4aV9EeFFoTnNZUUNFTGFGbVJJWVRiWS1VdFl0NUx3OUhLeWNOdTlja1JYX3hyVmxIZFdJcGtIaDFVbzY4WUVhd01keE5KbnU1Zk9hd25LdGFrSTh0amFWdE5LcV9VX0NMWmFOcUs2UmtRbW5MeFg4bzA3Z1JHYU1jWlFnaEx6cENCU2J2cFpycG9YbHU5LUZnZjNXdTI1Mk5BLTR6T3hSRmJ6RjN6V0MwVldyTXp2VmRGWWdHM2gy",
-   "source": "IGN India",
-   "published_at": "2026-10-31T08:09:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "IGN India",
-     "published_at": "2026-10-31T08:09:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmduSjc4aV9EeFFoTnNZUUNFTGFGbVJJWVRiWS1VdFl0NUx3OUhLeWNOdTlja1JYX3hyVmxIZFdJcGtIaDFVbzY4WUVhd01keE5KbnU1Zk9hd25LdGFrSTh0amFWdE5LcV9VX0NMWmFOcUs2UmtRbW5MeFg4bzA3Z1JHYU1jWlFnaEx6cENCU2J2cFpycG9YbHU5LUZnZjNXdTI1Mk5BLTR6T3hSRmJ6RjN6V0MwVldyTXp2VmRGWWdHM2gy"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "英伟达印度推GeForce Now新套餐",
-   "title_zh": "英伟达在印度推出4个月GeForce Now新套餐",
-   "sentiment": 1
   }
  ]
 }
