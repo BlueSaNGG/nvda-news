@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T13:21:28.631307+00:00",
+ "updated_at": "2026-11-02T13:36:26.055788+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.03,
-   "count": 76
+   "count": 80
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.03（76条已评分）"
+     "note": "今日新闻情绪 +0.03（80条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-02T13:21:28.619561+00:00"
+   "as_of": "2026-11-02T13:36:26.045106+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -62,17 +62,56 @@
  },
  "stories": [
   {
+   "id": "4e7f07e48f35",
+   "title": "Here are Monday's biggest analyst calls: Nvidia, SpaceX, Apple, Rivian, Amazon, CrowdStrike, Broadcom & more - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSFZFa3Q5Ykc4ZXJFNjFRVkRmNFRqUHJMelhxRTd5R3MzQUl4QVJSYU16NmJRX3JpTXNycUNTSnFsMGJUU2N1elNyRnFtY2FMN0V4ZFRCcUF5cFVsNktRREhzZjNjTllOMWJ2eW52c1ZjRDZTNUQxY202STNzS3lwd3Vzd3B4Tzh4ZUtB",
+   "source": "CNBC",
+   "published_at": "2026-11-02T13:12:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CNBC",
+     "published_at": "2026-11-02T13:12:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSFZFa3Q5Ykc4ZXJFNjFRVkRmNFRqUHJMelhxRTd5R3MzQUl4QVJSYU16NmJRX3JpTXNycUNTSnFsMGJUU2N1elNyRnFtY2FMN0V4ZFRCcUF5cFVsNktRREhzZjNjTllOMWJ2eW52c1ZjRDZTNUQxY202STNzS3lwd3Vzd3B4Tzh4ZUtB"
+    }
+   ],
+   "category": "分析师",
+   "session": "盘前"
+  },
+  {
+   "id": "61c91907abdc",
+   "title": "Sequoia Partner Predicts SpaceX's Revenue Will Surge Like NVIDIA, Underestimating Starship, AI Computing, and Direct-to-Cell Technologies - KuCoin",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUDZyUnA2ZVhPU1dZenh2RDFQV1hEQ0JvUXk4cDBXbXp0X2ZyY1NHYVhBMThWQUtuamdhbTJyTWtLd3BNXzdXWUN0QTdPUjRSRldVYW1kNW9odzYxdElnYjJna2RkUDloc3RpZ0dveVlwMXhTS053VVNkMlU5SVdEeGt3cUpJNzRxLUt0R2dwcWZaeERzNndKRk5qWHFpNFBfbFMyUFlRMWU1RTgySEV1MXNYNm5SYXlQdFdyeUVfS0Jua3RBVXUwa1dxdWxlNTZPcWIzZGJuWnhud25kX2tmNzdtcmU",
+   "source": "KuCoin",
+   "published_at": "2026-11-02T13:05:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "KuCoin",
+     "published_at": "2026-11-02T13:05:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUDZyUnA2ZVhPU1dZenh2RDFQV1hEQ0JvUXk4cDBXbXp0X2ZyY1NHYVhBMThWQUtuamdhbTJyTWtLd3BNXzdXWUN0QTdPUjRSRldVYW1kNW9odzYxdElnYjJna2RkUDloc3RpZ0dveVlwMXhTS053VVNkMlU5SVdEeGt3cUpJNzRxLUt0R2dwcWZaeERzNndKRk5qWHFpNFBfbFMyUFlRMWU1RTgySEV1MXNYNm5SYXlQdFdyeUVfS0Jua3RBVXUwa1dxdWxlNTZPcWIzZGJuWnhud25kX2tmNzdtcmU"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
+  {
    "id": "e570527258c9",
    "title": "Nvidia may miss January launch of GeForce RTX 5080 24GB - Notebookcheck",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlFraTJGRDdVbzlPVHFqaWMxcjFqZy1sQzdCRWtOdGE0ZHVCb0pSbS1oQnhqeVhuQ1RIVjFWaE9ta1UzX0s2VVg0WFltelVjbnJMOXdhM0VKVlN4RE9GbTJiMlVsMDUwTWpGUldTR3lvRlpnZm9Fc1Uzejg2TDFhN0lqMVowbnpvQXZrMXVld2ZsNjRwZzdzaXNodTFMSHUxeVE",
    "source": "Notebookcheck",
    "published_at": "2026-11-02T13:05:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Notebookcheck",
      "published_at": "2026-11-02T13:05:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlFraTJGRDdVbzlPVHFqaWMxcjFqZy1sQzdCRWtOdGE0ZHVCb0pSbS1oQnhqeVhuQ1RIVjFWaE9ta1UzX0s2VVg0WFltelVjbnJMOXdhM0VKVlN4RE9GbTJiMlVsMDUwTWpGUldTR3lvRlpnZm9Fc1Uzejg2TDFhN0lqMVowbnpvQXZrMXVld2ZsNjRwZzdzaXNodTFMSHUxeVE"
+    },
+    {
+     "name": "Mezha.net",
+     "published_at": "2026-11-02T13:23:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1raWlUNTV0ZGhDOHhRXzVURXZqYWhwLWtzZV96Vm0wbDExckx1bHVDRnpVYmRYcldlLURjb1BoWmdSQVJ4TFZIMHhBYVUxSG1JSjRidTlzc0dpS0NBTEVPMXd6bFNsUk1GSWxfaldIc1Q1WWhDRWJDcWp4WEc2YVk"
     }
    ],
    "category": "产品技术",
@@ -2400,6 +2439,23 @@
    "zh_summary": "英伟达洽谈为Nscale数据中心项目担保",
    "title_zh": "英伟达洽谈为Nscale的450亿美元数据中心项目提供担保",
    "sentiment": 0
+  },
+  {
+   "id": "0a0f15b86e35",
+   "title": "国产GPU天数智芯硬撼英伟达，实机演示云边端算力布局 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yVnJGQUpvWHZGOUxVdFVsSzctdWp2X19lT3Q1ZERzelNHMzl5bGU2UHFSeEpOWVZyUm02cUd6dURxeVl3akhkU1Z3S1cyaWRBR2pqRVFUNUdlQjBuQ2s1TU94WEFEUQ",
+   "source": "东方财富",
+   "published_at": "2026-11-01T21:27:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-11-01T21:27:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yVnJGQUpvWHZGOUxVdFVsSzctdWp2X19lT3Q1ZERzelNHMzl5bGU2UHFSeEpOWVZyUm02cUd6dURxeVl3akhkU1Z3S1cyaWRBR2pqRVFUNUdlQjBuQ2s1TU94WEFEUQ"
+    }
+   ],
+   "category": "AI需求",
+   "session": "周末"
   },
   {
    "id": "108793e1dd7d",
@@ -6349,116 +6405,6 @@
    "session": "盘后",
    "zh_summary": "英伟达拟为450亿美元Anthropic项目兜底",
    "title_zh": "英伟达拟为云服务商450亿美元Anthropic项目提供兜底支持 - 新浪财经",
-   "sentiment": 0
-  },
-  {
-   "id": "911e6980c95d",
-   "title": "苹果再度反超英伟达 成为全球市值最高公司 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWFRtekp4X210XzV4M1E4bmk5OUdZMXlUWHRWcEZOSDlpWWJDWUtRSUNac0NxcC1GZmk2QXY1cmkyN2hYWVRrSlgxS2JEMk9hdE9fajlOSjRBT3VWY2NuR2x3ZHpoLVBZMWQyUHVCNFd0SUFyWElQUVV3UG5wRnU0WlM3Z1ZiYUZ6MWh2Y2JubEhuM3FSdExPS3lXc0VPYVZOeU11bnhzSFRRTXNPYmZnUmt0UEd4NTdEZXNqakZZRjN5Q3pTQjVwLXhyM2RVRTJGUDdjSWl2UXVIbGNNWk4w",
-   "source": "新浪财经",
-   "published_at": "2026-10-30T21:41:09+00:00",
-   "outlets_count": 11,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-30T21:41:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWFRtekp4X210XzV4M1E4bmk5OUdZMXlUWHRWcEZOSDlpWWJDWUtRSUNac0NxcC1GZmk2QXY1cmkyN2hYWVRrSlgxS2JEMk9hdE9fajlOSjRBT3VWY2NuR2x3ZHpoLVBZMWQyUHVCNFd0SUFyWElQUVV3UG5wRnU0WlM3Z1ZiYUZ6MWh2Y2JubEhuM3FSdExPS3lXc0VPYVZOeU11bnhzSFRRTXNPYmZnUmt0UEd4NTdEZXNqakZZRjN5Q3pTQjVwLXhyM2RVRTJGUDdjSWl2UXVIbGNNWk4w"
-    },
-    {
-     "name": "金融界",
-     "published_at": "2026-10-30T21:44:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ycDZYbFdpU3hDSFpkUkNvOXhibkIyeC1EN3U4blNsbXJlQzExZVUyMTMzSVlqek9JcFpMM3QtdHNuUkloaUFscTVPQ21ibGx5Y2wtdGtyS21NcVdYMGRfc1lLYU91SnJmVG1RNE9pbw"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-30T23:31:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMkNzZHc1NzNKNW05ajcxY004ZWpUY25jTDJiQ1o5UFU4VUFkVUtpWG5hcXBHU29VVmRlaGFSV3ZXQjNuZVBkSVBtY1h0akRUTWtmUHhTSFB0Sm92emtReURFdUN5X0U1YlhYNkdad1VuS0hDM1o0V2xYNHhEUFlTX1hGMGJLUUgzcW92WkYxZw"
-    },
-    {
-     "name": "驱动之家",
-     "published_at": "2026-10-30T23:38:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ESlprWFJDZEtFNkdzUjZpYi1vY3hZVHQtRXQ0WEF6S2VETGJQTEhrODZpT1p2S29CSmdLZkRjR2cycU9TbndObnhTWVN6TktOSjAyQmJvWXc"
-    },
-    {
-     "name": "DoNews",
-     "published_at": "2026-10-30T23:58:55+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5US1FjZWtVZ0pxWks3d3I4dFBzN1BDOHM5ckJ1aDlNVlRjYldrbmNNR1RmQ05nbkdXOERxU3ZUb3hFc3RIM3NNM1F4MGVHUUFOd3hXV1hBTUFELVNJSnc"
-    },
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-31T00:03:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFA5MHBudVpJcDd2QzZtbVlQM25OanN4MllmWW9kUmJVX3RyT1l3YW5ULUxGQVZJTVAzVzM1dmx1cnB3ZEkycmJhbVB3UklVOTJQZmY4ZkJNOU5MckNSbjJsT0Q5RDlpak50VWJ5UkhTem1KNGFUTURHNmp4S1VDR082czRSbWtF"
-    },
-    {
-     "name": "凤凰网",
-     "published_at": "2026-10-31T00:12:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Zb0R1Zy1wME5Jcnl3dDdWeVg2WllQc3pzY3RjQ3ZQSloxbHNrZG1qXzY4WU1Sc1RwckdZTDV4a1BnVWU0NEREUw"
-    },
-    {
-     "name": "凤凰网科技",
-     "published_at": "2026-10-31T00:12:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wb1RwdE5VZk9uUXVIMDdKOE9VbURtRURoRmdnV29wMHU3QTJfdGItMG93Wm5UV1R3SzFSdXY4ZV80WUphb0ZybEJ5Tkc"
-    },
-    {
-     "name": "联合早报",
-     "published_at": "2026-10-31T01:24:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kcTAzZ0FNV0ZXSFlXMktHSURfXzVNVUgwbzdmYVhQV1hoWkdIOUhmeF80UFdSX2pmN3NHRE5VSGZUdWVUX25Na3ItYWd0NEUtQklwT0xORktBSFN1SHdfSUxOWFhhTW5DSUFfaXBn"
-    },
-    {
-     "name": "东方财富",
-     "published_at": "2026-10-31T02:15:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCVVVFT09UZnozQ3ZNdHpkbkJBOExkZWtITnhxbThIOF9uczVxNU52YjZncHFlSHRHdi1JbXpialVWM2tmb1Y1aFVSbjA4T1MzMVpKcXFBbFBmSG9GeDh4UWE2TQ"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-31T01:07:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzQ2d2Z0lHbW5jYy0tUndkZXJtZWU3dUw5bjJpT0NMakFUNHI1UHQ3QXBEOFJObnF2eFIzS2JSU0hGZW9LWFpxV0tibk9MdlFFQm5SbjZZMzI1UUotNF9OcThpeHNQcTh0MmZZYXFDcF9DclRDSG0xcw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "苹果反超英伟达成全球市值最高",
-   "title_zh": "苹果再度反超英伟达 成为全球市值最高公司 - 金融界",
-   "sentiment": -1
-  },
-  {
-   "id": "e0ef88620bff",
-   "title": "Nvidia supplier picks Fort Worth for $1.3B plant, more than 600 jobs - Fort Worth Star-Telegram",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zWmZrLXBuTmg4ampKdE1QLVA0S2M5YlNEU3ZFZVpxQ1V5TldxLVNnUEZCQTZTT2FrY3VRLW40UzhzOVR4bDlhNUlYMTJuUGNpdUNjTVZ5ODhPMXNlNXl3RmFtcGJzY2Vqd2xqS1R4RGJHQjlZcTRNRWVJZ3F6Z9IBfkFVX3lxTE9YN1FuRGpGOGdqdVc4SXc0OURuZ05lVXB5MTg0UnZ4UTctMXMtTko5QThaQkZEZWFHWllPakx6UktZaEVfdk9BLXJzOFkzZ1ZVamlYNEFPT0Myd3oxd2RJakRJQmZvcjZRUkVYZTROcEhlUVpYOEROcnRiTDZmQQ",
-   "source": "Fort Worth Star-Telegram",
-   "published_at": "2026-10-30T21:34:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Fort Worth Star-Telegram",
-     "published_at": "2026-10-30T21:34:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zWmZrLXBuTmg4ampKdE1QLVA0S2M5YlNEU3ZFZVpxQ1V5TldxLVNnUEZCQTZTT2FrY3VRLW40UzhzOVR4bDlhNUlYMTJuUGNpdUNjTVZ5ODhPMXNlNXl3RmFtcGJzY2Vqd2xqS1R4RGJHQjlZcTRNRWVJZ3F6Z9IBfkFVX3lxTE9YN1FuRGpGOGdqdVc4SXc0OURuZ05lVXB5MTg0UnZ4UTctMXMtTko5QThaQkZEZWFHWllPakx6UktZaEVfdk9BLXJzOFkzZ1ZVamlYNEFPT0Myd3oxd2RJakRJQmZvcjZRUkVYZTROcEhlUVpYOEROcnRiTDZmQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达供应商在沃斯堡建13亿美元工厂",
-   "title_zh": "英伟达供应商选址沃斯堡建13亿美元工厂，新增600多个岗位",
-   "sentiment": 1
-  },
-  {
-   "id": "6d7a81060426",
-   "title": "苹果超越英伟达，重夺全球市值最高上市公司宝座 提供者 Investing.com - 英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zdXlnYUZITDZpNzE4amJFNmVqYUphVEV3bFV6RWIyUUxGeUNkWGVSeEgySWVWaEZMbU5jXzVVc09FM3EtWk1IaGIzMFFCOVh2cjA3RTNVTU14WW5kd3ItVGRMZXBUMjRmRklxcHFMb1M",
-   "source": "英为财情 Investing.com",
-   "published_at": "2026-10-30T21:17:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "英为财情 Investing.com",
-     "published_at": "2026-10-30T21:17:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zdXlnYUZITDZpNzE4amJFNmVqYUphVEV3bFV6RWIyUUxGeUNkWGVSeEgySWVWaEZMbU5jXzVVc09FM3EtWk1IaGIzMFFCOVh2cjA3RTNVTU14WW5kd3ItVGRMZXBUMjRmRklxcHFMb1M"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "苹果超越英伟达重夺全球市值第一",
-   "title_zh": "苹果超越英伟达，重夺全球市值最高上市公司宝座",
    "sentiment": 0
   }
  ]
