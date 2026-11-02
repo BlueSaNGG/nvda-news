@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T10:06:27.781848+00:00",
+ "updated_at": "2026-11-02T10:21:29.624613+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 15
   },
   "day_sentiment": {
-   "avg": 0.06,
-   "count": 31
+   "avg": 0.12,
+   "count": 34
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.06（31条已评分）"
+     "note": "今日新闻情绪 +0.12（34条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-02T10:06:27.772313+00:00"
+   "as_of": "2026-11-02T10:21:29.609567+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "275bb48963ba",
+   "title": "Wall Street Veteran Dumps Most of His NVIDIA Stake, Warns of AI Spending Slowdown - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdVNKTjE2bjVjcnV4TGFRNlFIc2dja0V4T0lVZ0ZPXzNMbEw2UmJ5QjQxRE1NYzhRRko4R09SOFBrRDFlV2hGaG9LemtBUUtsc3hiTENFSHZPRU9CdWg1eFZ2cUFIY3lBdnZPQUhPZ3JuSGJUTlNvMl8tRnEwbzRHUUUwOEdUai1xQUtIbThVN0V3NDFYVUcwclVLWW9sUUtyOGgyaDBIbVk3N2EyR3V0MlNrbklINFVTTUNfUk5DNm4tRHlHaDVkTWc4NXVaTXFjMnc",
+   "source": "Benzinga",
+   "published_at": "2026-11-02T10:10:37+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-11-02T10:10:37+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdVNKTjE2bjVjcnV4TGFRNlFIc2dja0V4T0lVZ0ZPXzNMbEw2UmJ5QjQxRE1NYzhRRko4R09SOFBrRDFlV2hGaG9LemtBUUtsc3hiTENFSHZPRU9CdWg1eFZ2cUFIY3lBdnZPQUhPZ3JuSGJUTlNvMl8tRnEwbzRHUUUwOEdUai1xQUtIbThVN0V3NDFYVUcwclVLWW9sUUtyOGgyaDBIbVk3N2EyR3V0MlNrbklINFVTTUNfUk5DNm4tRHlHaDVkTWc4NXVaTXFjMnc"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
+   "id": "fd019da31351",
+   "title": "$英伟达 (NVDA.US)$ 不客气。 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGQ1M2JLczd6aGJCVXZsdVNxTE1kb1c2Umw5MW5jQ0l1ejc2R1pCOTRZd0p3Y3BrbDJGcTlsd3lkakpIYmRWX1REWlAtb0oyNlpsVkxGZTVBWktFRzhQejJtcFI0WmZTQnJabzh5eUJpajZTSUdib01ycVdYTENlaUZROGN3MVR5Wi1NdC1TTFlsVEJu",
+   "source": "Moomoo",
+   "published_at": "2026-11-02T10:04:09+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-11-02T10:04:09+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGQ1M2JLczd6aGJCVXZsdVNxTE1kb1c2Umw5MW5jQ0l1ejc2R1pCOTRZd0p3Y3BrbDJGcTlsd3lkakpIYmRWX1REWlAtb0oyNlpsVkxGZTVBWktFRzhQejJtcFI0WmZTQnJabzh5eUJpajZTSUdib01ycVdYTENlaUZROGN3MVR5Wi1NdC1TTFlsVEJu"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "eef5ed1d6468",
+   "title": "Board Partners Reportedly Still Await NVIDIA GeForce RTX 5080 24 GB GPU Kits - TechPowerUp",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzNQUTk5QzFJYVBSV3ZnelY1SHpvQktsWjNuQmpnSURUWk9scmJ2RXBOZHhXU1otVHAxSVdRMHZGNFdGbUQzc3F2a3hXOWd3R0ZldDctZXVJTDBkUkRSdEU1dGtQaFowRERWaVBqQXR2V014VGw1WjhkbHNGRU5hWTd5TTFlbUJINEQ2aGVXcTZBS2Q2dDhmbGJJdndpVkx2RzctOTBueWwxZGRHRzBmRdIBtgFBVV95cUxNRGNRN19DMllYVEtIUTZDd1BKS0stQ3ByR3RfTTlERkhKVGN5UVJBbWdlRS1nRDlJMW5iOHFQQ2c3cG42SnpkMEl5SmJyTmU2X1JrOVFZMlpVVy02TjdkWVFzbnRtWHhMdTUzYjlsWkE2UnNWM01PNU8xUnhKc1BCUnl4Q19SRXJudVJDdlZKb1JINVJKQVU4S1VXT2xDOUUwRWVZNy1sVG90YjF3elA5TWx4ZDduZw",
+   "source": "TechPowerUp",
+   "published_at": "2026-11-02T10:00:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-11-02T10:00:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzNQUTk5QzFJYVBSV3ZnelY1SHpvQktsWjNuQmpnSURUWk9scmJ2RXBOZHhXU1otVHAxSVdRMHZGNFdGbUQzc3F2a3hXOWd3R0ZldDctZXVJTDBkUkRSdEU1dGtQaFowRERWaVBqQXR2V014VGw1WjhkbHNGRU5hWTd5TTFlbUJINEQ2aGVXcTZBS2Q2dDhmbGJJdndpVkx2RzctOTBueWwxZGRHRzBmRdIBtgFBVV95cUxNRGNRN19DMllYVEtIUTZDd1BKS0stQ3ByR3RfTTlERkhKVGN5UVJBbWdlRS1nRDlJMW5iOHFQQ2c3cG42SnpkMEl5SmJyTmU2X1JrOVFZMlpVVy02TjdkWVFzbnRtWHhMdTUzYjlsWkE2UnNWM01PNU8xUnhKc1BCUnl4Q19SRXJudVJDdlZKb1JINVJKQVU4S1VXT2xDOUUwRWVZNy1sVG90YjF3elA5TWx4ZDduZw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "c89f7543729f",
    "title": "Nvidia Rebounds but Its Stock Chart Is Looking Really Ugly - Barron's",
@@ -680,6 +731,23 @@
    "zh_summary": "英伟达免费发布降噪AI模型",
    "title_zh": "英伟达免费发布961万参数多语言降噪AI",
    "sentiment": 1
+  },
+  {
+   "id": "3a5f3509562b",
+   "title": "盘中涨停百亿巨量成交难阻抛压炸板！东山精密Q3净利暴增401% 英伟达OOI技术引爆CPO修复行情 - 金融界",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KRjhNQzh3STIzbXkwemkwMk1FbFRCVC11eTF3TU1LUm42M3M2aGlZQlU2Wk5CQkdzUFJ1dkxtZUZLbFBNM0VsMmFZbkJJdGNvTF9IemtzZnNpc1BaVzZ4cEtaVVpleXUxdDVEWXN0ZDZqQQ",
+   "source": "金融界",
+   "published_at": "2026-11-02T07:06:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "金融界",
+     "published_at": "2026-11-02T07:06:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KRjhNQzh3STIzbXkwemkwMk1FbFRCVC11eTF3TU1LUm42M3M2aGlZQlU2Wk5CQkdzUFJ1dkxtZUZLbFBNM0VsMmFZbkJJdGNvTF9IemtzZnNpc1BaVzZ4cEtaVVpleXUxdDVEWXN0ZDZqQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "8a64da66876b",
@@ -4323,6 +4391,23 @@
    "sentiment": 1
   },
   {
+   "id": "b7a842e01cfc",
+   "title": "66,819 NVIDIA Corporation $NVDA Shares Bought by GAMMA Investing LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjNzUUc5VjVMMU93bENfTlZYcnFIekZ5ak9oN2hwV3ViWWZpczVrOUNjLU5fY09lN3ZkWjM1RlhDVFBXYndieFkwWXJDMmo1eW9kR0hFWmdKWlNRX3VaWl9fclZhVUQ1SEg2WlpYdzhKLVFwTGxPMmxFcEZiODdrZzJEbE9qMnBXczR3SV90TWExQndPS3NMVzczZl9rbjRQM29lNUh2VDZNc0RkUzFlNjg4LVdES3JUaGN4bU9xOEdxZWcySHc",
+   "source": "MarketBeat",
+   "published_at": "2026-10-31T07:25:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-10-31T07:25:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjNzUUc5VjVMMU93bENfTlZYcnFIekZ5ak9oN2hwV3ViWWZpczVrOUNjLU5fY09lN3ZkWjM1RlhDVFBXYndieFkwWXJDMmo1eW9kR0hFWmdKWlNRX3VaWl9fclZhVUQ1SEg2WlpYdzhKLVFwTGxPMmxFcEZiODdrZzJEbE9qMnBXczR3SV90TWExQndPS3NMVzczZl9rbjRQM29lNUh2VDZNc0RkUzFlNjg4LVdES3JUaGN4bU9xOEdxZWcySHc"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "af34f340a80c",
    "title": "NVIDIA Corporation $NVDA Stock: Artemis Investment Management LLP Boosts Position - MarketBeat",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb29VSGtSdGNmdmVmMnRWLVdPYldrTktVczdwZnZPZkwxYkluaVBNaEozOUxyQ3NVWmYwUFFfSm1sWGppYVljaVN4MFItSlRIOEF5VWZ3eHNpZFRpcDBoNXNwVDlteHBoZWF0UlZPMy1rS0pXLVVtd3pTbmlOOHgyTFhsT0loU2lQWEtIdVJTbjE1TGdVb1FBT1FpQjh5cVNJRTFIbzF4Y3VkUE0tRFRtRzYzaEp0NEx6R0prdDZvc1YzelduS0w0dlVOWi1lM01pVGttNVJaSQ",
@@ -5677,6 +5762,23 @@
    "sentiment": 1
   },
   {
+   "id": "2cfd04a2cd9f",
+   "title": "Nvidia Stock Is Set for Its Worst Month in a Year. Time to Buy the Dip. - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5eVhHal84SUVnWXJrMXZ0NGxSNzlkY2VBcnd2M1pjaEhYOTBJcWg1ZFVGeUFyUXhrX0cyZkhMQ0VQRms1VEFXUkFJS2kxd0g4a3ZjbDMteXhJYXVFVFJRVW90VjBaRHE0VUJDc2twdGVFc1c3azhjeQ",
+   "source": "Barron's",
+   "published_at": "2026-10-30T18:12:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-10-30T18:12:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5eVhHal84SUVnWXJrMXZ0NGxSNzlkY2VBcnd2M1pjaEhYOTBJcWg1ZFVGeUFyUXhrX0cyZkhMQ0VQRms1VEFXUkFJS2kxd0g4a3ZjbDMteXhJYXVFVFJRVW90VjBaRHE0VUJDc2twdGVFc1c3azhjeQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "815a34921d1e",
    "title": "Is Nvidia Stock a Trick or Treat? - The Motley Fool",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONnZnUUtsUUFfd016V21VdFZGMkFNdnZFa2RJeGpfM2M2UjBwTG02bTZFbnlldGVqVS12V1dZNGpxQkthZmZRUkd5RFpQVmc5VHFUYUM4cS02V2RUMHE1QU91TnNpS3RsaVJJLVJkcFB4Ynpidm9oYkFSYXRwaFBjeQ",
@@ -6482,154 +6584,6 @@
    "zh_summary": "RTX 5080疑似停产，价格涨至2000美元",
    "title_zh": "RTX 5080疑似停产，价格涨至2000美元并从英伟达商店下架",
    "sentiment": 0
-  },
-  {
-   "id": "bdcdbc44b939",
-   "title": "RTX MIA? RTX 5080 Disappears from Nvidia’s US Marketplace - OC3D",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGRhaWJ0ZU4wVVNhR2xzb0I0cEpnM1RjaHZvSF94TV9BMU5yZFNENUgtRy1SaWM5ODU2VHJ4MElwSU1tV2o3ZWl3ZF9tdjg0cHRjR19YOGFQX0dseEVPUjhpWl9GZS1hQ0dCU3R4eFNFRVhvSC1EeVRjS25iQXBwa0ZlbGNPYnpVT2ZYdlVaVHV4RWJTZWhVM3BDZGZKWjg",
-   "source": "OC3D",
-   "published_at": "2026-10-30T14:43:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "OC3D",
-     "published_at": "2026-10-30T14:43:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGRhaWJ0ZU4wVVNhR2xzb0I0cEpnM1RjaHZvSF94TV9BMU5yZFNENUgtRy1SaWM5ODU2VHJ4MElwSU1tV2o3ZWl3ZF9tdjg0cHRjR19YOGFQX0dseEVPUjhpWl9GZS1hQ0dCU3R4eFNFRVhvSC1EeVRjS25iQXBwa0ZlbGNPYnpVT2ZYdlVaVHV4RWJTZWhVM3BDZGZKWjg"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "RTX 5080从英伟达美国商城下架",
-   "title_zh": "RTX 5080从英伟达美国商城消失",
-   "sentiment": 0
-  },
-  {
-   "id": "4e407a5a73a5",
-   "title": "“黑色星期五”？英特尔崩跌近30%，英伟达市值失守5万亿！ - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDlnTGJvQmdBazd0SlVwR09ZbWI4NnN0ZkJ3alN1TzhFdGF3eDNHNWlFN2dIcmtBQU12NDFieGQwcjVabnVWTW9GY0pkZV9oQ1NIZENtMm0xc29ZdDNPLU9ocldLdXY5blVrTms4LV9DTmhBTkc1VEZrNEhWRjdzTV9nVmZjU2dQOWNXRDFpTFl1WHhfN2F5VHJqbGQ",
-   "source": "富途牛牛",
-   "published_at": "2026-10-30T14:36:31+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-30T14:36:31+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDlnTGJvQmdBazd0SlVwR09ZbWI4NnN0ZkJ3alN1TzhFdGF3eDNHNWlFN2dIcmtBQU12NDFieGQwcjVabnVWTW9GY0pkZV9oQ1NIZENtMm0xc29ZdDNPLU9ocldLdXY5blVrTms4LV9DTmhBTkc1VEZrNEhWRjdzTV9nVmZjU2dQOWNXRDFpTFl1WHhfN2F5VHJqbGQ"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-30T15:30:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT3I4LXZNOGswd3VHM0pxS0l4WDdadnhkdzZqRzVNWnFtTDFPdVdweGZjeUR0RG9HckhjUS1MSi15YzZyMTkwOU9UbXN0cmRoSWF0RDEtTWRndlBUOFJ4eXZrMDZ5RG9GSHpiMWhmLWVsYTFISG5iaG4ydEpjT3Vzcg"
-    },
-    {
-     "name": "金十数据",
-     "published_at": "2026-10-31T02:26:21+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5ZlllZUJsRlFibVhaVm9mT0p4M2xGTnEySWhhRF81Z2NpblZ0a3daVENiVjREekVKLTZvWFN0eTNRTjlTeXc2VjE4YzhfYnc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英特尔跌近30%，英伟达市值跌破5万亿美元",
-   "title_zh": "“黑色星期五”？英特尔崩跌近30%，英伟达市值失守5万亿！ - 富途牛牛",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": -1.12,
-    "window_h": 2.0
-   }
-  },
-  {
-   "id": "593e450a96e6",
-   "title": "AMD Is Chasing Nvidia in AI, but Investors Could Win Either Way - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLW1iZzlUWm5LUjVDUW1jekVCcGlMRlhieXU1QnVPWXo1aFlKcEpTZ0FIcG93NFk2Q3lfSzZ4QlhRUnNnSExHd18xNzhtUUU2ejlidlVkQmQ0ZnMtY1NENnE1SzZQSEY1eWwwaVpud2Y2el9kUlZodkZxd2VwQXp2alFJeC1raUVBT0tSVlVuSk84c0FGWk9ienFWUmdqSWxGb253TnJKWUNjdw",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-30T14:35:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-30T14:35:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLW1iZzlUWm5LUjVDUW1jekVCcGlMRlhieXU1QnVPWXo1aFlKcEpTZ0FIcG93NFk2Q3lfSzZ4QlhRUnNnSExHd18xNzhtUUU2ejlidlVkQmQ0ZnMtY1NENnE1SzZQSEY1eWwwaVpud2Y2el9kUlZodkZxd2VwQXp2alFJeC1raUVBT0tSVlVuSk84c0FGWk9ienFWUmdqSWxGb253TnJKWUNjdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "AMD追赶英伟达AI，投资者或双赢",
-   "title_zh": "AMD追赶英伟达AI，但投资者或双赢",
-   "sentiment": 0
-  },
-  {
-   "id": "85b65dd9dba8",
-   "title": "NVDA Stock Quote Price and Forecast - CNN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oakpQaVAtWVg3Rjh6M2FFaExEa1JVeThKN1FIX1p2OG1lWmVaVnhlU3Zsek42ZlRyd055aXc2dGNHa0NxV2RfU1I1dUoweXNi",
-   "source": "CNN",
-   "published_at": "2026-10-30T14:33:17+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNN",
-     "published_at": "2026-10-30T14:33:17+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oakpQaVAtWVg3Rjh6M2FFaExEa1JVeThKN1FIX1p2OG1lWmVaVnhlU3Zsek42ZlRyd055aXc2dGNHa0NxV2RfU1I1dUoweXNi"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "CNN发布英伟达股价预测",
-   "title_zh": "CNN：NVDA股价与预测",
-   "sentiment": 0
-  },
-  {
-   "id": "502670610444",
-   "title": "Nvidia CEO sees Kazakhstan as potential AI hub for Europe - Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUU2cGstT1FNbHpBb09nZVJ3a0xSMmNENmhCMWJnMFh6MXI2Nkhld2ZSWU5uM2Rmd3ZVdGFPT1BKbmVKN1d2M0dLcFdQWm5mT2ZNNDAxdnozSkxCdDZSel9YUGMtdnRTeHNya3l4RmFHOGNCeXVHOW9uM1VPcUo1dUQtZFpnSzJGNlFjLUY0Q1RpcWh3ZFFEbw",
-   "source": "Euronews.com",
-   "published_at": "2026-10-30T14:29:33+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "Euronews.com",
-     "published_at": "2026-10-30T14:29:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUU2cGstT1FNbHpBb09nZVJ3a0xSMmNENmhCMWJnMFh6MXI2Nkhld2ZSWU5uM2Rmd3ZVdGFPT1BKbmVKN1d2M0dLcFdQWm5mT2ZNNDAxdnozSkxCdDZSel9YUGMtdnRTeHNya3l4RmFHOGNCeXVHOW9uM1VPcUo1dUQtZFpnSzJGNlFjLUY0Q1RpcWh3ZFFEbw"
-    },
-    {
-     "name": "Yahoo News Canada",
-     "published_at": "2026-10-30T14:29:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3lyRWNkSmQ4SnZ4a25hMHd0T2J3MjBIc3pPX3E1Y1lzMWx5eTBTc3pRZi1rQm9nQkRNcDF6OGxBWkhhMVYtX0tSeTYzcG1xWGJpZHRiUkUyNEJVQXhaVTYxT19FemdDLUwzanJTMTJfaTFIQWhCWkIxTHQtUVY5NnFMUQ"
-    },
-    {
-     "name": "Euronews",
-     "published_at": "2026-10-30T14:29:33+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUU2cGstT1FNbHpBb09nZVJ3a0xSMmNENmhCMWJnMFh6MXI2Nkhld2ZSWU5uM2Rmd3ZVdGFPT1BKbmVKN1d2M0dLcFdQWm5mT2ZNNDAxdnozSkxCdDZSel9YUGMtdnRTeHNya3l4RmFHOGNCeXVHOW9uM1VPcUo1dUQtZFpnSzJGNlFjLUY0Q1RpcWh3ZFFEbw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "黄仁勋称哈萨克斯坦有望成欧洲AI中心",
-   "title_zh": "英伟达CEO称哈萨克斯坦有望成为欧洲AI中心",
-   "sentiment": 1,
-   "price_reaction": {
-    "pct": -0.3,
-    "window_h": 1.6
-   }
-  },
-  {
-   "id": "1726d3f736aa",
-   "title": "英伟达，市值蒸发1.1万亿元 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmpUcUFfNlZGVU52UTBUM0pNYktBdTR2azhtZTR3QWVqTFNyRTdpTnl0SWw3eGJJc0JnQW5mVXFCU1lWLWYweDFabWlRR2VxandZMUM5dFM3TFozY0c3OHRKSzktRVZub3FEclpwbFFkZjhReFJ4VE1icHR5OFJOSnNNaDBnSm01QW5LWQ",
-   "source": "搜狐网",
-   "published_at": "2026-10-30T14:25:59+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-30T14:25:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmpUcUFfNlZGVU52UTBUM0pNYktBdTR2azhtZTR3QWVqTFNyRTdpTnl0SWw3eGJJc0JnQW5mVXFCU1lWLWYweDFabWlRR2VxandZMUM5dFM3TFozY0c3OHRKSzktRVZub3FEclpwbFFkZjhReFJ4VE1icHR5OFJOSnNNaDBnSm01QW5LWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达市值蒸发1.1万亿元",
-   "title_zh": "英伟达，市值蒸发1.1万亿元",
-   "sentiment": -1
   }
  ]
 }
