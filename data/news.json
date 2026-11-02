@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T06:51:31.153424+00:00",
+ "updated_at": "2026-11-02T07:06:33.398784+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,12 +10,12 @@
    "days_left": 15
   },
   "day_sentiment": {
-   "avg": -1.0,
-   "count": 1
+   "avg": 0.0,
+   "count": 2
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": -1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": -1,
-     "note": "今日新闻情绪 -1.00（1条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.00（2条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-02T06:51:31.143069+00:00"
+   "as_of": "2026-11-02T07:06:33.385470+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -5262,7 +5262,7 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KRXFmSlN2YncwOGYxWFVlQ3g5Qlk0aTdUSE9MOEdpaXBXR0dNZE9fYk5IenFzX29oN2VUYVZCemhCdDJGYlUtczdTQjJiNkpZakFHd2tRREh4TUM3RWQ5Y05wUQ",
    "source": "东方财富",
    "published_at": "2026-10-30T16:08:32+00:00",
-   "outlets_count": 3,
+   "outlets_count": 4,
    "outlets": [
     {
      "name": "东方财富",
@@ -5278,6 +5278,11 @@
      "name": "新浪网",
      "published_at": "2026-11-01T02:00:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxOWpfOVJsQW11XzlJdGxueS1YMl9CR0V1YmZqVzIxdmFEQUZSUGRXR29aeUl0cHRhZ05WR0JibndmQlZNMVlFbjBZWV9mdVl5bC1QTExMb0pmUVN5M0tYSjctenhvRWs3bFdyQjRDRlM"
+    },
+    {
+     "name": "光通信Pro",
+     "published_at": "2026-11-02T01:06:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSbEpuOVNLazlteHlsNFo3SU0wTlVKckVGOWJiYm1aeWVqeGtYcHNSTmtNSE9qRi1pQk1EWnNhS05EYi1QYWlXQWlCNmVGaG40U1N1Wg"
     }
    ],
    "category": "其他",
