@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T06:36:27.512136+00:00",
+ "updated_at": "2026-11-02T06:51:31.153424+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,12 +10,12 @@
    "days_left": 15
   },
   "day_sentiment": {
-   "avg": 0.01,
-   "count": 81
+   "avg": -1.0,
+   "count": 1
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": -1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.01（81条已评分）"
+     "score": -1,
+     "note": "今日新闻情绪 -1.00（1条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-02T06:36:27.499771+00:00"
+   "as_of": "2026-11-02T06:51:31.143069+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "7af1625c6a2d",
+   "title": "消息称英伟达RTX 5080 24GB版最快12月上市或接替中国市场现有高端型号- nVIDIA - cnBeta.COM",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMlg0cEtWX0ttbkZ4dDlFV29iM2NxV3dkclh1LVdhWkwtbFlGa3RNVGJyeEcyV3RhTlBsQkpyNGEyZ3Y5MzEwdnhIcHloWGFfdVpmYXQ4Y1ZjNkxzOUtTNw",
+   "source": "cnBeta.COM",
+   "published_at": "2026-11-02T06:42:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "cnBeta.COM",
+     "published_at": "2026-11-02T06:42:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMlg0cEtWX0ttbkZ4dDlFV29iM2NxV3dkclh1LVdhWkwtbFlGa3RNVGJyeEcyV3RhTlBsQkpyNGEyZ3Y5MzEwdnhIcHloWGFfdVpmYXQ4Y1ZjNkxzOUtTNw"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
   {
    "id": "616bb15acb34",
    "title": "NVIDIA Cancels 24GB GeForce RTX 5080 SUPER Before Production Even Starts - GameGPU",
@@ -6633,26 +6650,6 @@
    "zh_summary": "英伟达CEO卷入间谍阴谋内幕",
    "title_zh": "英伟达CEO间谍阴谋内幕",
    "sentiment": -1
-  },
-  {
-   "id": "d018db32cbec",
-   "title": "NVIDIA Corporation (NVDA) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0VXRS1ZUVRxVlhOTHhfNTNGazVQZlJ5MEdxMUllUDNmdlZ0dElLbVJCQl9waFJaLUV1azhjc2I5UTJZYjRYT1dQLWRseUlJSjgwTnFaa0t0dnBYSnpOR09SZThsTnRObnhSaHRKZ1JFSnc3VnpJbEUzeTZsSDhkWmR5ZEltVVkyamN2U0VKMkJ0T05xTVZPNlBLTGQ4eGZXVnVTZ2hhX2xwem4t",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-30T12:00:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-30T12:00:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0VXRS1ZUVRxVlhOTHhfNTNGazVQZlJ5MEdxMUllUDNmdlZ0dElLbVJCQl9waFJaLUV1azhjc2I5UTJZYjRYT1dQLWRseUlJSjgwTnFaa0t0dnBYSnpOR09SZThsTnRObnhSaHRKZ1JFSnc3VnpJbEUzeTZsSDhkWmR5ZEltVVkyamN2U0VKMkJ0T05xTVZPNlBLTGQ4eGZXVnVTZ2hhX2xwem4t"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达吸引投资者关注",
-   "title_zh": "英伟达吸引投资者关注，值得了解",
-   "sentiment": 1
   }
  ]
 }
