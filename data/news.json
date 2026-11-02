@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T21:36:33.252726+00:00",
+ "updated_at": "2026-11-02T21:51:32.254893+00:00",
  "market": {
   "price": 202.06,
   "change_pct": -1.26,
@@ -10,8 +10,8 @@
    "days_left": 15
   },
   "day_sentiment": {
-   "avg": 0.04,
-   "count": 145
+   "avg": 0.05,
+   "count": 148
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.04（145条已评分）"
+     "note": "今日新闻情绪 +0.05（148条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 55.9,
    "ma20": 219.62,
-   "as_of": "2026-11-02T21:36:33.239457+00:00"
+   "as_of": "2026-11-02T21:51:32.245329+00:00"
   },
   "pe_ttm": 25.7,
   "pe_pct_5y": 18,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "8d845cb63c96",
+   "title": "News | Nvidia supplier nabs Texas site for $1.3 billion manufacturing hub - CoStar",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkFwTWEtd25yMHZGQXd6MWZwZlBZZmZNdVNtODlYak9UMkRFSDIydnA5MlAwdUtGdHNPTkd1LWd0bmo2dVJUN2N3dC1EZzRYZzdZVGJVbE52eExLQVVTOEVlZUZFbDFYRWZ6U1liQlk1ZlBYSXdWSzBzN2QzQmJXckFDYWFtZEVGX1R2QURudnRrUjY4XzZhb1RWTWszOFRtTXBVdXVLb0lTNTQ",
+   "source": "CoStar",
+   "published_at": "2026-11-02T21:37:08+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "CoStar",
+     "published_at": "2026-11-02T21:37:08+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkFwTWEtd25yMHZGQXd6MWZwZlBZZmZNdVNtODlYak9UMkRFSDIydnA5MlAwdUtGdHNPTkd1LWd0bmo2dVJUN2N3dC1EZzRYZzdZVGJVbE52eExLQVVTOEVlZUZFbDFYRWZ6U1liQlk1ZlBYSXdWSzBzN2QzQmJXckFDYWFtZEVGX1R2QURudnRrUjY4XzZhb1RWTWszOFRtTXBVdXVLb0lTNTQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
+   "id": "bc659a944e27",
+   "title": "英伟达期权聚焦：11月2日成交299.51万张，未平仓合约1,606.46万张 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmZpbkdMQnVKMWR1U01KWTRVWENvMl9wRXlaV3Y4VVNxQmtsenRudldSWWt4YklUcFg0SncxZDRDNE91Qll4RXlNdWVWX2pFWmROclQ5eWpMc21wZXFBNkc5elg2djU3SFNYYTVlQWVzaHJvSEc3M0VxNEQ4SGRxZ2hDV09SalVxbTJ0YW5ENG0yOWVsbDd5aU9aeDJZdWZpaGdseGQtQkthNHc",
+   "source": "Moomoo",
+   "published_at": "2026-11-02T21:36:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-11-02T21:36:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmZpbkdMQnVKMWR1U01KWTRVWENvMl9wRXlaV3Y4VVNxQmtsenRudldSWWt4YklUcFg0SncxZDRDNE91Qll4RXlNdWVWX2pFWmROclQ5eWpMc21wZXFBNkc5elg2djU3SFNYYTVlQWVzaHJvSEc3M0VxNEQ4SGRxZ2hDV09SalVxbTJ0YW5ENG0yOWVsbDd5aU9aeDJZdWZpaGdseGQtQkthNHc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
   {
    "id": "5c9959bf6b76",
    "title": "Bank of America Analysts Maintain Bullish View on Nvidia (NVDA) Amid AI Demand and Election Uncertainty - GuruFocus",
@@ -797,12 +831,12 @@
    "title": "Eco Wave Power Completes AI-Powered Digital Twin Phase One With NVIDIA Support - Ocean News & Technology",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTA4YlJad1E3MmNmQjlZMEtCMzU5MFB5dnN0alVXdWhwY3hQOG5UNFk0YU1sNDZZZGpITXhlZ1JTazl0RkUwbUNtYXkzRXN6VzFFSUs4WlFfcFo1dGktMGhPZ2RYckhpeHVuQU52TXVyNEE0LU10WV9la3I5ZEREV2ZsZy1GTDI5d2VkOUNBdzJZYl9rMW5EMzRrbHVLSjE5LXBhd3VER2VaZlJYR0NlNGxjVQ",
    "source": "Ocean News & Technology",
-   "published_at": "2026-11-02T15:39:08+00:00",
+   "published_at": "2026-11-02T15:38:38+00:00",
    "outlets_count": 1,
    "outlets": [
     {
      "name": "Ocean News & Technology",
-     "published_at": "2026-11-02T15:39:08+00:00",
+     "published_at": "2026-11-02T15:38:38+00:00",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTA4YlJad1E3MmNmQjlZMEtCMzU5MFB5dnN0alVXdWhwY3hQOG5UNFk0YU1sNDZZZGpITXhlZ1JTazl0RkUwbUNtYXkzRXN6VzFFSUs4WlFfcFo1dGktMGhPZ2RYckhpeHVuQU52TXVyNEE0LU10WV9la3I5ZEREV2ZsZy1GTDI5d2VkOUNBdzJZYl9rMW5EMzRrbHVLSjE5LXBhd3VER2VaZlJYR0NlNGxjVQ"
     }
    ],
@@ -6370,46 +6404,6 @@
    "zh_summary": "英伟达洽谈支持Nscale450亿美元交易",
    "title_zh": "英伟达洽谈支持Nscale的450亿美元Anthropic交易",
    "sentiment": 1
-  },
-  {
-   "id": "c84eb1686a53",
-   "title": "In 1993, 3 Friends Met At Denny's To Talk About Making A Chip That Would Allow Computers To Create Realistic 3D Graphics. By The Mid-1990s, The Company Was Weeks From Running Out Of Cash. Today Nvidia Is Worth Nearly $5 Trillion - 24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOUUJ0ZFctVDBibm1yTXN3YlBGU0x4SEp2YkJ5Y0dMRS1MdjgtU2RkQ3pLUS16MDRDMC16MWJCZWd1LW1jWlNxWDdVUExISXAwMjVseXYwM3VlaDZnNnVBa0pPUXpOXzdUSy0xOEdNUzg2dnY4VFNNZ1VzVkw4bWtMMDV0VUVrZ0FLLUFGdXdMTG0tN2JZenhtNWRrMXlraXBHRWU1WVVVeVRZY1gzMmNlTEVQY29HSGpTUmtkODNLalBmaDV6Wl9pUkZBVElhQnczdU10Yk1SeDNsNUMydTRNQUI1R095OENOQWZkUFl1Y19xeGFQV21zTGgydDktcXliWktzSGg0anhWQWlOOE1IZnpHYVBHbjJQQkl4QTNYZExFWTZvdF80YXRtNnRibk83LXZ1N3pLY0g2WlZwSTVhNk5VQWlJajBSM3FmZnBkRTlHRTVwY3dFNzdn",
-   "source": "24/7 Wall St.",
-   "published_at": "2026-10-31T12:08:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "24/7 Wall St.",
-     "published_at": "2026-10-31T12:08:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOUUJ0ZFctVDBibm1yTXN3YlBGU0x4SEp2YkJ5Y0dMRS1MdjgtU2RkQ3pLUS16MDRDMC16MWJCZWd1LW1jWlNxWDdVUExISXAwMjVseXYwM3VlaDZnNnVBa0pPUXpOXzdUSy0xOEdNUzg2dnY4VFNNZ1VzVkw4bWtMMDV0VUVrZ0FLLUFGdXdMTG0tN2JZenhtNWRrMXlraXBHRWU1WVVVeVRZY1gzMmNlTEVQY29HSGpTUmtkODNLalBmaDV6Wl9pUkZBVElhQnczdU10Yk1SeDNsNUMydTRNQUI1R095OENOQWZkUFl1Y19xeGFQV21zTGgydDktcXliWktzSGg0anhWQWlOOE1IZnpHYVBHbjJQQkl4QTNYZExFWTZvdF80YXRtNnRibk83LXZ1N3pLY0g2WlZwSTVhNk5VQWlJajBSM3FmZnBkRTlHRTVwY3dFNzdn"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "英伟达从濒临破产到市值近5万亿美元",
-   "title_zh": "1993年三位好友在Denny's畅谈芯片梦，如今英伟达市值近5万亿美元",
-   "sentiment": 0
-  },
-  {
-   "id": "96385d1686de",
-   "title": "英伟达失去5万亿美元市值桂冠，苹果登顶 - Notebookcheck CN",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoODlvYXVMVG5hVzQxblAzZHJYZ2VOWi03QUNnb2tPZ1lHM2tmX2JXQ2lIQXBZbE5VQTJlVGJvLThqd1VMTXVPejdmVVdxS3Byemoyc0N4R2NwSmVxMXc",
-   "source": "Notebookcheck CN",
-   "published_at": "2026-10-31T11:53:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Notebookcheck CN",
-     "published_at": "2026-10-31T11:53:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoODlvYXVMVG5hVzQxblAzZHJYZ2VOWi03QUNnb2tPZ1lHM2tmX2JXQ2lIQXBZbE5VQTJlVGJvLThqd1VMTXVPejdmVVdxS3Byemoyc0N4R2NwSmVxMXc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达失去5万亿市值桂冠，苹果登顶",
-   "title_zh": "英伟达失去5万亿美元市值桂冠，苹果登顶",
-   "sentiment": -1
   }
  ]
 }
