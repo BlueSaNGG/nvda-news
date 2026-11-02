@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T17:06:29.277176+00:00",
+ "updated_at": "2026-11-02T17:21:32.080638+00:00",
  "market": {
-  "price": 207.05,
-  "change_pct": 1.18,
+  "price": 206.76,
+  "change_pct": 1.04,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-11-17",
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.0,
-   "count": 117
+   "count": 119
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 57% 分位"
+     "note": "现价处于52周区间 56% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +52.1%"
+     "note": "目标价中位数 $315（17家），隐含空间 +52.4%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（117条已评分）"
+     "note": "今日新闻情绪 +0.00（119条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $207.05 vs 20日均线 $219.87"
+     "note": "现价 $206.76 vs 20日均线 $219.85"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 57,
+   "price_52w_pct": 56,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 52.1,
-   "ma20": 219.87,
-   "as_of": "2026-11-02T17:06:29.266893+00:00"
+   "implied_upside_pct": 52.4,
+   "ma20": 219.85,
+   "as_of": "2026-11-02T17:21:32.065643+00:00"
   },
   "pe_ttm": 26.3,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.4%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "933003c87017",
+   "title": "Megaspeed exec with close ties to Nvidia CEO Jensen Huang suspected of spying for China - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3RreU1UNWpfRkNoTkRpb0VDZ3hHZ1o3U1B1QldScnRyRWZqeDdHZF9naXNrQVR1QnFIUWE3V2FGb1V5SEdPQjg5ak5lbVJ5MXZCdDh5M0xpSkpjZDR3UlZMY1BuOURqOEJwYzA1RnBfU0s0UlkyX0JoZE9DaFVZcWt1bjRYTEZINWhHemViVnRfQllzajUzUVFsVmxEdkJuVG9JaXVGd0JCUG1sLVR5MWVNU3lKQm4zX0lNOGdxRWpKdmlfQkhXOUhWcw",
+   "source": "Data Center Dynamics",
+   "published_at": "2026-11-02T17:18:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Dynamics",
+     "published_at": "2026-11-02T17:18:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa3RreU1UNWpfRkNoTkRpb0VDZ3hHZ1o3U1B1QldScnRyRWZqeDdHZF9naXNrQVR1QnFIUWE3V2FGb1V5SEdPQjg5ak5lbVJ5MXZCdDh5M0xpSkpjZDR3UlZMY1BuOURqOEJwYzA1RnBfU0s0UlkyX0JoZE9DaFVZcWt1bjRYTEZINWhHemViVnRfQllzajUzUVFsVmxEdkJuVG9JaXVGd0JCUG1sLVR5MWVNU3lKQm4zX0lNOGdxRWpKdmlfQkhXOUhWcw"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "1207285c7e8c",
+   "title": "CrowdStrike and Dell Technologies Announce Integrated AI Security for the Dell AI Factory with NVIDIA - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWhKQnhHa2VFdWx4SWQ1U3dOcDJGYU9wbTV4OXBiYVRqMXRSUno5d2doSjIyWlRmV3NNdzVpQ25JZnFEYU9fQ2g0el9MQWdBXzBqMFZhVDhNeTVIbzFKUm83MmJSenN0TEpVQ1ZzWHQyLWFld09wWllGc3NFWDJzdGlJam91emdHS2kyaGxYcHRycGxpblhtZ09OZnhYb0xyOUw2akNLem1GbG9fYzNmMldqdw",
+   "source": "Yahoo Finance",
+   "published_at": "2026-11-02T17:05:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-02T17:05:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWhKQnhHa2VFdWx4SWQ1U3dOcDJGYU9wbTV4OXBiYVRqMXRSUno5d2doSjIyWlRmV3NNdzVpQ25JZnFEYU9fQ2g0el9MQWdBXzBqMFZhVDhNeTVIbzFKUm83MmJSenN0TEpVQ1ZzWHQyLWFld09wWllGc3NFWDJzdGlJam91emdHS2kyaGxYcHRycGxpblhtZ09OZnhYb0xyOUw2akNLem1GbG9fYzNmMldqdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "eed984d78e90",
    "title": "QuickBytes: October 26–November 1, 2026 – NVIDIA Gives Transcription More Context - Innovation & Tech Today",
@@ -180,6 +214,23 @@
    "zh_summary": "英伟达1150亿美元押注AI，抛售仍持续",
    "title_zh": "英伟达1150亿美元押注AI：为何抛售潮仍在持续？",
    "sentiment": -1
+  },
+  {
+   "id": "f9172be5980a",
+   "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map | NVIDIA Technical Blog - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXpxbDZQMUZkNWlDT1N5WDg4U2NyMGJ4d0VlNmxHYWNEaUZrZUdVeHlKOTk1YV90MFdpOFpRTm5vYTgydWlCY3FHaVh0RFRKMXUyUUdjWkZWZFh1Y0NMQUtMVEhhUC1XX0g5N1NlMFlQSEczMU1PQjVVZ1ota0VwTDd2Q2FUWHRqb0xjUDg5d20tZlZoT0Qwbg",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-11-02T16:06:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-11-02T16:06:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXpxbDZQMUZkNWlDT1N5WDg4U2NyMGJ4d0VlNmxHYWNEaUZrZUdVeHlKOTk1YV90MFdpOFpRTm5vYTgydWlCY3FHaVh0RFRKMXUyUUdjWkZWZFh1Y0NMQUtMVEhhUC1XX0g5N1NlMFlQSEczMU1PQjVVZ1ota0VwTDd2Q2FUWHRqb0xjUDg5d20tZlZoT0Qwbg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "babd3e1721fc",
@@ -5621,6 +5672,23 @@
    "sentiment": 1
   },
   {
+   "id": "fa8d2fec1a70",
+   "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc",
+   "source": "WSJ",
+   "published_at": "2026-10-31T12:47:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-31T12:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc"
+    }
+   ],
+   "category": "政策监管",
+   "session": "周末"
+  },
+  {
    "id": "e1fc63e8075e",
    "title": "英伟达在线商店撤下RTX 5080，美国最低报价逼近2000美元 - 3DM",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QM29hUzdtLWNMUlhyZTZJNzc2MFUwdmE4M0JEd2kxMzh0a3dLNnJ1NWFQWTZ5WUVxSWF6SmQyWTFpaE4tcURYNU83dWdjbm1VaW8ycDV5Vl9OV2tR",
@@ -6338,86 +6406,6 @@
    "session": "周末",
    "zh_summary": "Galvin Gaustad增持英伟达股份",
    "title_zh": "Galvin Gaustad & Stein LLC买入英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "b7a842e01cfc",
-   "title": "66,819 NVIDIA Corporation $NVDA Shares Bought by GAMMA Investing LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjNzUUc5VjVMMU93bENfTlZYcnFIekZ5ak9oN2hwV3ViWWZpczVrOUNjLU5fY09lN3ZkWjM1RlhDVFBXYndieFkwWXJDMmo1eW9kR0hFWmdKWlNRX3VaWl9fclZhVUQ1SEg2WlpYdzhKLVFwTGxPMmxFcEZiODdrZzJEbE9qMnBXczR3SV90TWExQndPS3NMVzczZl9rbjRQM29lNUh2VDZNc0RkUzFlNjg4LVdES3JUaGN4bU9xOEdxZWcySHc",
-   "source": "MarketBeat",
-   "published_at": "2026-10-31T07:25:47+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-31T07:25:47+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjNzUUc5VjVMMU93bENfTlZYcnFIekZ5ak9oN2hwV3ViWWZpczVrOUNjLU5fY09lN3ZkWjM1RlhDVFBXYndieFkwWXJDMmo1eW9kR0hFWmdKWlNRX3VaWl9fclZhVUQ1SEg2WlpYdzhKLVFwTGxPMmxFcEZiODdrZzJEbE9qMnBXczR3SV90TWExQndPS3NMVzczZl9rbjRQM29lNUh2VDZNc0RkUzFlNjg4LVdES3JUaGN4bU9xOEdxZWcySHc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "GAMMA投资买入66819股英伟达",
-   "title_zh": "GAMMA投资买入66819股英伟达股份",
-   "sentiment": 1
-  },
-  {
-   "id": "af34f340a80c",
-   "title": "NVIDIA Corporation $NVDA Stock: Artemis Investment Management LLP Boosts Position - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb29VSGtSdGNmdmVmMnRWLVdPYldrTktVczdwZnZPZkwxYkluaVBNaEozOUxyQ3NVWmYwUFFfSm1sWGppYVljaVN4MFItSlRIOEF5VWZ3eHNpZFRpcDBoNXNwVDlteHBoZWF0UlZPMy1rS0pXLVVtd3pTbmlOOHgyTFhsT0loU2lQWEtIdVJTbjE1TGdVb1FBT1FpQjh5cVNJRTFIbzF4Y3VkUE0tRFRtRzYzaEp0NEx6R0prdDZvc1YzelduS0w0dlVOWi1lM01pVGttNVJaSQ",
-   "source": "MarketBeat",
-   "published_at": "2026-10-31T07:25:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-31T07:25:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb29VSGtSdGNmdmVmMnRWLVdPYldrTktVczdwZnZPZkwxYkluaVBNaEozOUxyQ3NVWmYwUFFfSm1sWGppYVljaVN4MFItSlRIOEF5VWZ3eHNpZFRpcDBoNXNwVDlteHBoZWF0UlZPMy1rS0pXLVVtd3pTbmlOOHgyTFhsT0loU2lQWEtIdVJTbjE1TGdVb1FBT1FpQjh5cVNJRTFIbzF4Y3VkUE0tRFRtRzYzaEp0NEx6R0prdDZvc1YzelduS0w0dlVOWi1lM01pVGttNVJaSQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Artemis增持英伟达股份",
-   "title_zh": "Artemis增持英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "3e0b9cbd494b",
-   "title": "Alice Huang: Nvidia CEO's aide and 'spy' accused of smuggling microchips to China - India Today",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTgtMDNUQ0Rkakc1NmE0bl8tNEJMdlNfRWNqVXFWb05NMzBxZC1qYk1obWVpc0kxQVA0S0JGTGxraC1ieWc5dVJJQ0I0RnJfVEtHdUhYUWcxTkU3b29yOW5kbmJvZXlYRFRfM1NMaUl5aUlTUU5DNU9zb0loUFduOXhfeDNxN3BYb3FHM1lXWndLYWk3VjJRaWVERzNvYkNURHV2anFVQUJtVEE1VzZIWUhCTdIBuAFBVV95cUxNOFladFJrdjg0LXNOTkVuSUQ0SWlIWHlDNUVETF9ieHRURHZzTlhHM0RFX3ZqTVVlMXpRcVA3Vlk5ejg2WWFhZG9GWGNqSGR0Mzk2eDFrcnJRdE5LNUNkNFowTGRtcTlZUUQ3VER2RllYV1p3M2ZnelFYTmx1Y1lFZjBQNUF4clNOc0ZOa21VS0pFSl9lQmRFY1FPWUlrX2dUMFowQ1dITjRTaVJjcHBncURxRnFXczBS",
-   "source": "India Today",
-   "published_at": "2026-10-31T07:25:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "India Today",
-     "published_at": "2026-10-31T07:25:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTgtMDNUQ0Rkakc1NmE0bl8tNEJMdlNfRWNqVXFWb05NMzBxZC1qYk1obWVpc0kxQVA0S0JGTGxraC1ieWc5dVJJQ0I0RnJfVEtHdUhYUWcxTkU3b29yOW5kbmJvZXlYRFRfM1NMaUl5aUlTUU5DNU9zb0loUFduOXhfeDNxN3BYb3FHM1lXWndLYWk3VjJRaWVERzNvYkNURHV2anFVQUJtVEE1VzZIWUhCTdIBuAFBVV95cUxNOFladFJrdjg0LXNOTkVuSUQ0SWlIWHlDNUVETF9ieHRURHZzTlhHM0RFX3ZqTVVlMXpRcVA3Vlk5ejg2WWFhZG9GWGNqSGR0Mzk2eDFrcnJRdE5LNUNkNFowTGRtcTlZUUQ3VER2RllYV1p3M2ZnelFYTmx1Y1lFZjBQNUF4clNOc0ZOa21VS0pFSl9lQmRFY1FPWUlrX2dUMFowQ1dITjRTaVJjcHBncURxRnFXczBS"
-    }
-   ],
-   "category": "政策监管",
-   "session": "周末",
-   "zh_summary": "英伟达CEO助理被控向中国走私芯片",
-   "title_zh": "英伟达CEO助理被指控向中国走私芯片",
-   "sentiment": -1
-  },
-  {
-   "id": "ed3d834a3499",
-   "title": "9,279 NVIDIA Corporation $NVDA Shares Purchased by Everhart Financial Group Inc. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUkJKWlE2N3YzbTBwQmRobTctYlNOcXRYM20xTXpScXRrTmpMRTgtd3B0bUhHNXBSMXBpdFdySm1NTldLUC1hOGxoYmFUVHpja2cyZ05zVFAtbUdSWWpmbXhYb3lOczlDQ1hMRFA3eGZXZHg2M3oyQjM3ZGR1eml1M1dhREM3a2Fobnc2YW9rQkxQVnlfelFES054Zi1CR21JMkFicjIyaXczaEtJX1hMejdyZkhmLS10NTlNQUQtNEp4VTV6MHBZZG5MNzJkT0JzUlVWYg",
-   "source": "MarketBeat",
-   "published_at": "2026-10-31T07:19:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-31T07:19:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUkJKWlE2N3YzbTBwQmRobTctYlNOcXRYM20xTXpScXRrTmpMRTgtd3B0bUhHNXBSMXBpdFdySm1NTldLUC1hOGxoYmFUVHpja2cyZ05zVFAtbUdSWWpmbXhYb3lOczlDQ1hMRFA3eGZXZHg2M3oyQjM3ZGR1eml1M1dhREM3a2Fobnc2YW9rQkxQVnlfelFES054Zi1CR21JMkFicjIyaXczaEtJX1hMejdyZkhmLS10NTlNQUQtNEp4VTV6MHBZZG5MNzJkT0JzUlVWYg"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Everhart买入9279股英伟达",
-   "title_zh": "Everhart Financial Group买入9279股英伟达股票",
    "sentiment": 1
   }
  ]
