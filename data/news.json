@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T09:21:29.673507+00:00",
+ "updated_at": "2026-11-02T09:36:26.903298+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.0,
-   "count": 20
+   "count": 22
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.00（20条已评分）"
+     "note": "今日新闻情绪 +0.00（22条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-02T09:21:29.665619+00:00"
+   "as_of": "2026-11-02T09:36:26.893101+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "161204fe19d4",
+   "title": "Nvidia, Nike, Costco Join Revolt: 50 Issuers Block OKX-ICE Tokenized Stock Plan - BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmTHJyNlpaajN1TndMUjBtOVN0bWpCS1lvazVmVzF4S0FOUHRiSTJUVUwtcUxWRnFrUDg2QjlIOTc2TGpxTG50RXBOczBoUXNWb1hveHBKMkwwQmcxVG5SZnNIb0ZfZHJfWVUtYlNkWjdQQkpUeHc",
+   "source": "BigGo Finance",
+   "published_at": "2026-11-02T09:26:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BigGo Finance",
+     "published_at": "2026-11-02T09:26:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmTHJyNlpaajN1TndMUjBtOVN0bWpCS1lvazVmVzF4S0FOUHRiSTJUVUwtcUxWRnFrUDg2QjlIOTc2TGpxTG50RXBOczBoUXNWb1hveHBKMkwwQmcxVG5SZnNIb0ZfZHJfWVUtYlNkWjdQQkpUeHc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "5e2c080c9507",
+   "title": "外交部驳斥，英伟达澄清 - 电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wX2NZak9pa0RVY3NmU2hhMHlvSm5mVDZEZG12akthM0YzSXRqWFlxTVRGMm9pQmhDQVo0U21BUEh5RkE1aUd3Q1NUcXdMQnNMN2lj",
+   "source": "电子工程专辑",
+   "published_at": "2026-11-02T09:23:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "电子工程专辑",
+     "published_at": "2026-11-02T09:23:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wX2NZak9pa0RVY3NmU2hhMHlvSm5mVDZEZG12akthM0YzSXRqWFlxTVRGMm9pQmhDQVo0U21BUEh5RkE1aUd3Q1NUcXdMQnNMN2lj"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "a68b7017a500",
+   "title": "Nvidia to Showcase Latest AI Infrastructure at AI Day Seoul 2026 Starting Nov. 9 - www.thelec.net",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uWTU5akxNMkZMZVROU3BkN3Q0enFUYnlPN2g1VXNGa1dUZmNHV3hybTJCcHNOY2JlQ19nd0JISWdDSXhnOGFZMVIyOS1BMVNXOGVsbVlmdEExdWE2cmRvMi1UOTlRRFE",
+   "source": "www.thelec.net",
+   "published_at": "2026-11-02T09:15:44+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "www.thelec.net",
+     "published_at": "2026-11-02T09:15:44+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uWTU5akxNMkZMZVROU3BkN3Q0enFUYnlPN2g1VXNGa1dUZmNHV3hybTJCcHNOY2JlQ19nd0JISWdDSXhnOGFZMVIyOS1BMVNXOGVsbVlmdEExdWE2cmRvMi1UOTlRRFE"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
   {
    "id": "d0b93574e7bd",
    "title": "Weekly Signal | Nvidia Tests MA200 as QQQ Faces Jobs Data and Chip Earnings - Moomoo",
@@ -100,6 +151,23 @@
    "zh_summary": "英伟达测试200日均线，面临就业数据考验",
    "title_zh": "英伟达测试MA200，纳指面临就业数据与芯片财报考验",
    "sentiment": 0
+  },
+  {
+   "id": "cb690795b3fb",
+   "title": "Nvidia Weighs $2,000-a-Year GPU Subscription Fee, Expanding AI 'Toll' via CUDA - BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VeUlRT1pFVEFid21vZzY1RlRTVDRyZ3kyNldJb1dnVUU4TnRmLXk1X0pzdDBhNnlsbVFGbGVUOW16bGJGOWdTUF9jTHkybFg3Ry1sZEp6WEdlbTh0SGZkTXRkN3cycDF0T0JqNFM1dlJfWmlvN1E",
+   "source": "BigGo Finance",
+   "published_at": "2026-11-02T09:11:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BigGo Finance",
+     "published_at": "2026-11-02T09:11:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VeUlRT1pFVEFid21vZzY1RlRTVDRyZ3kyNldJb1dnVUU4TnRmLXk1X0pzdDBhNnlsbVFGbGVUOW16bGJGOWdTUF9jTHkybFg3Ry1sZEp6WEdlbTh0SGZkTXRkN3cycDF0T0JqNFM1dlJfWmlvN1E"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "2b04f41cbdd9",
@@ -210,6 +278,23 @@
    "zh_summary": "苹果市值5.03万亿美元超英伟达",
    "title_zh": "苹果市值5.03万亿美元超越英伟达",
    "sentiment": -1
+  },
+  {
+   "id": "c5545c5192cc",
+   "title": "Nvidia, Micron and Alphabet is part of Zacks Earnings Preview - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGhmYXJlWk53Wk5wbHhva3ktb1VwOEZpZTIxamNjd2tTcUV4S3NxcEhOMFFOYUtidkRyNVJTSUVIVzdWZE1HMF9fQlRDMTZLWFRXNlJJcEhOR3VtV0tPVGtrN1huZ2lMa3hHZXBRSzVka3l3Tm5QWFZzSFg5X1IzYXpDelpPMnRIRXJGdUEtTURVUkJjY0NVdnJvaGlFT3M",
+   "source": "Yahoo Finance",
+   "published_at": "2026-11-02T08:09:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-02T08:09:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGhmYXJlWk53Wk5wbHhva3ktb1VwOEZpZTIxamNjd2tTcUV4S3NxcEhOMFFOYUtidkRyNVJTSUVIVzdWZE1HMF9fQlRDMTZLWFRXNlJJcEhOR3VtV0tPVGtrN1huZ2lMa3hHZXBRSzVka3l3Tm5QWFZzSFg5X1IzYXpDelpPMnRIRXJGdUEtTURVUkJjY0NVdnJvaGlFT3M"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
   },
   {
    "id": "3112fbe36131",
@@ -1132,10 +1217,15 @@
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nS0ZMdzRxcEwxaXZMNUhJdGNtTjE1U2FiTGwwbGJLb0wwN0FOMzNRcnc0X1ZPTHNhVHlTUzZpYnJWNGNJOG1wYXczZw",
    "source": "新浪网",
    "published_at": "2026-11-01T21:32:06+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "新浪网",
+     "published_at": "2026-11-01T21:32:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nS0ZMdzRxcEwxaXZMNUhJdGNtTjE1U2FiTGwwbGJLb0wwN0FOMzNRcnc0X1ZPTHNhVHlTUzZpYnJWNGNJOG1wYXczZw"
+    },
+    {
+     "name": "手机新浪网",
      "published_at": "2026-11-01T21:32:06+00:00",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nS0ZMdzRxcEwxaXZMNUhJdGNtTjE1U2FiTGwwbGJLb0wwN0FOMzNRcnc0X1ZPTHNhVHlTUzZpYnJWNGNJOG1wYXczZw"
     }
@@ -6507,134 +6597,21 @@
    "sentiment": -1
   },
   {
-   "id": "14d2c4955c1f",
-   "title": "AMD Expands AI Footprint With Meta: Can It Outpace NVDA & AVGO? - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUpTZzVzQVN3dHRNS3Q1M2JxMklqTFhsVUxXUmptSEhPZEVFZmR1RzBpR0dKb0xHaHlJR0ZpdVJodnAyVE1XWEFiUHk2a2tmMy05X2FrRjUwR3ItVnBCbmtwM0VEXzBSaWVuSE53U0ZmRnk0Sm02bHhZZGNoZDlFV3VyTl9fNm1OcHVrczJ0OTVHeEVvUkNGOA",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-30T14:05:00+00:00",
+   "id": "1adc57250678",
+   "title": "Intel Plunges 25% as Weak Outlook and PC Slump Overshadow Earnings Beat; Dell Tumbles 13%, AMD Sinks 10%, NVIDIA Falls 3% - 24/7 Wall St.",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUWgxdFFydHpwM0hLSVhENjBFTm5jZGVQT1lmejFZM1RqVEs1Wm5rU0k0TmpFTWE3Qk54RkI2QWEtRzctdkpHa1k1X2I2ZjQ1MUhCdmpnTE9jTE9rYTIxUFI0Q0h6VFA0bWxMVkY0dF8wemJWc3dCUjFmMnB0RjItSkU3MGpFcU83S0Fra01DOGFKX0czelpGV0lEajNFbkluTi1iVkEzNk9uSFFXVVhieHdzczdyVi1OTFozWDNNYV9wU0ptQVN4eTQ0NFFMVmdWTWd3VEtMV0tnQW5TY2UyR1RjN2xzWDVpSzg3UmNCcw",
+   "source": "24/7 Wall St.",
+   "published_at": "2026-10-30T14:09:00+00:00",
    "outlets_count": 1,
    "outlets": [
     {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-30T14:05:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUpTZzVzQVN3dHRNS3Q1M2JxMklqTFhsVUxXUmptSEhPZEVFZmR1RzBpR0dKb0xHaHlJR0ZpdVJodnAyVE1XWEFiUHk2a2tmMy05X2FrRjUwR3ItVnBCbmtwM0VEXzBSaWVuSE53U0ZmRnk0Sm02bHhZZGNoZDlFV3VyTl9fNm1OcHVrczJ0OTVHeEVvUkNGOA"
+     "name": "24/7 Wall St.",
+     "published_at": "2026-10-30T14:09:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUWgxdFFydHpwM0hLSVhENjBFTm5jZGVQT1lmejFZM1RqVEs1Wm5rU0k0TmpFTWE3Qk54RkI2QWEtRzctdkpHa1k1X2I2ZjQ1MUhCdmpnTE9jTE9rYTIxUFI0Q0h6VFA0bWxMVkY0dF8wemJWc3dCUjFmMnB0RjItSkU3MGpFcU83S0Fra01DOGFKX0czelpGV0lEajNFbkluTi1iVkEzNk9uSFFXVVhieHdzczdyVi1OTFozWDNNYV9wU0ptQVN4eTQ0NFFMVmdWTWd3VEtMV0tnQW5TY2UyR1RjN2xzWDVpSzg3UmNCcw"
     }
    ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "AMD携手Meta扩大AI业务布局",
-   "title_zh": "AMD携手Meta扩大AI版图，能否超越NVDA与AVGO？",
-   "sentiment": -1
-  },
-  {
-   "id": "6a9e7bc7f3b7",
-   "title": "‘Attempt to smear China’: Beijing denies spy plot targeting Nvidia CEO Jensen Huang - WION",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblRHOEdNZFZrM3VheTh4TW1qdkF1ZXkzN21SanBNancwRjhMaXZzcnFOYU0xZm1aVGV0SWpTV2p1cU1pRzRfREhybXFNUi1raUVPUDFMMUhlWDZ0MkZWNEhCT3VFaDg0VHRhcUI0SjA2ZjRWNndjcTBlS3IyaFdSdTgyellTTVdLTjNvNi1ZTkFmbm9rX1NOcTVzWElCZC1FTUFBZkZpa0REaXl5U0Rqd2RJNkxiWGhzZndPVGRjc1JVd9IBxwFBVV95cUxQSXQxQThkSnBGUWt1WS05dW9XRGRNZDNLMHFKaHJRYzEzUC1XaEIyS05IWllTQUhIbVQ1dDB5cEc1b2YxTHNtcXdjNjV4enJDUEpDcmZETUxxbnVVek9USWZucEFDWVdVZXE0d3NhcnRPOU9ILUtNUlN3N3ZrWDZZLU5PN0t2dmdFeU1FOGNKTE1UUnhLb01PeXhtYXg3dGpSUjdqQk94dkx5enVoZllja1pydlJ3N1NMVTdWZEFaNTdsOVAxNUNv",
-   "source": "WION",
-   "published_at": "2026-10-30T14:01:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WION",
-     "published_at": "2026-10-30T14:01:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNblRHOEdNZFZrM3VheTh4TW1qdkF1ZXkzN21SanBNancwRjhMaXZzcnFOYU0xZm1aVGV0SWpTV2p1cU1pRzRfREhybXFNUi1raUVPUDFMMUhlWDZ0MkZWNEhCT3VFaDg0VHRhcUI0SjA2ZjRWNndjcTBlS3IyaFdSdTgyellTTVdLTjNvNi1ZTkFmbm9rX1NOcTVzWElCZC1FTUFBZkZpa0REaXl5U0Rqd2RJNkxiWGhzZndPVGRjc1JVd9IBxwFBVV95cUxQSXQxQThkSnBGUWt1WS05dW9XRGRNZDNLMHFKaHJRYzEzUC1XaEIyS05IWllTQUhIbVQ1dDB5cEc1b2YxTHNtcXdjNjV4enJDUEpDcmZETUxxbnVVek9USWZucEFDWVdVZXE0d3NhcnRPOU9ILUtNUlN3N3ZrWDZZLU5PN0t2dmdFeU1FOGNKTE1UUnhLb01PeXhtYXg3dGpSUjdqQk94dkx5enVoZllja1pydlJ3N1NMVTdWZEFaNTdsOVAxNUNv"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘中",
-   "zh_summary": "北京否认针对黄仁勋的间谍阴谋",
-   "title_zh": "北京否认针对英伟达CEO黄仁勋的间谍阴谋",
-   "sentiment": 0
-  },
-  {
-   "id": "3cb2dfd2e1ce",
-   "title": "Nvidia Takes On Rogue AI Agents With Software And Hardware Guardrails - Forbes",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnY5NG9mdVlJRllsLWtMNC1CaTBCcWlZMW5NNktRTHZOQkRFc2VWa0FHa3drZ1M0WnlWN1FPa1FCc3c1NGJ6NGQzMlVUR2JlMHJFeFptRndaZjhnM3FaVXlvdnpZcFdoZ1pHbnVaTmJRdno1WjBEdEVGOF9vTUZFUXd3aG9rZ3o0OHZEQXJTM2s3MEdROUVSakh3WjdpWmJXWG1HY1gtUlhKbTdodDBxTVhWU0xKY0hVQndxeEln",
-   "source": "Forbes",
-   "published_at": "2026-10-30T14:00:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Forbes",
-     "published_at": "2026-10-30T14:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnY5NG9mdVlJRllsLWtMNC1CaTBCcWlZMW5NNktRTHZOQkRFc2VWa0FHa3drZ1M0WnlWN1FPa1FCc3c1NGJ6NGQzMlVUR2JlMHJFeFptRndaZjhnM3FaVXlvdnpZcFdoZ1pHbnVaTmJRdno1WjBEdEVGOF9vTUZFUXd3aG9rZ3o0OHZEQXJTM2s3MEdROUVSakh3WjdpWmJXWG1HY1gtUlhKbTdodDBxTVhWU0xKY0hVQndxeEln"
-    },
-    {
-     "name": "Yahoo Tech",
-     "published_at": "2026-10-30T14:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnEzZ0tXUnNjVnpXSEFGdHVfZmVrQVA0RHpKTHlvY08tcTBCeHBDcTFXV2lVejM3VUdlZnh3UHNZQkxKaVpBOGU5QnhKTV9pTV9NZnphaGt2UmlzQThTM2w3enl2TEZJalZ0X2QxS3EzM3NhTlRtSXBURnJJYTh1ZUZCOWM"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达推软硬件护栏应对失控AI代理",
-   "title_zh": "英伟达以软硬件护栏应对失控AI代理",
-   "sentiment": 1
-  },
-  {
-   "id": "b8865e1884f1",
-   "title": "英伟达美国官方商城下架RTX5080 传2027年初推24GB版本 - 直播吧",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pSDVVMXlaSGJXVUlrclhudDk4SDF1eUJRa01fX0xoZjU3a2FDT3BlWXBKVnhxU2VITHIzQTc4eWJ2NlRSVXRDWjRLSFpQZ1BpTldkTGcxa1lhRG5FT0N3QmtPNlc3VUhsbl9wVXozUnlqSEdVanlKeQ",
-   "source": "直播吧",
-   "published_at": "2026-10-30T13:59:26+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "直播吧",
-     "published_at": "2026-10-30T13:59:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pSDVVMXlaSGJXVUlrclhudDk4SDF1eUJRa01fX0xoZjU3a2FDT3BlWXBKVnhxU2VITHIzQTc4eWJ2NlRSVXRDWjRLSFpQZ1BpTldkTGcxa1lhRG5FT0N3QmtPNlc3VUhsbl9wVXozUnlqSEdVanlKeQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达下架RTX5080，传推24GB版本",
-   "title_zh": "英伟达美国官方商城下架RTX5080 传2027年初推24GB版本 - 直播吧",
-   "sentiment": 0
-  },
-  {
-   "id": "09d3dbd6238d",
-   "title": "NVIDIA Corp Stock (NVDA) Opened Down by 3.37% on Oct 30: A Full Analysis - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ05ndFlQU3pJVGNZQlRVTGlfMDFrcnFJYUxGSkNoVV9LVG5WVE5kQTNwd0tYMTRIT2NXVEtNNFpzZHhHd1FlSUdMYnBHLWkxUy15TnNXSDJtUjVadV80YWwyejd2Mk5MTFc3OFlYVDl0Y2ZXdUQzQzZUazA4N2QwdWJPcWVTV29lblFF",
-   "source": "TradingKey",
-   "published_at": "2026-10-30T13:47:42+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-30T13:47:42+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ05ndFlQU3pJVGNZQlRVTGlfMDFrcnFJYUxGSkNoVV9LVG5WVE5kQTNwd0tYMTRIT2NXVEtNNFpzZHhHd1FlSUdMYnBHLWkxUy15TnNXSDJtUjVadV80YWwyejd2Mk5MTFc3OFlYVDl0Y2ZXdUQzQzZUazA4N2QwdWJPcWVTV29lblFF"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "英伟达10月30日开盘下跌3.37%",
-   "title_zh": "英伟达10月30日开盘下跌3.37%，全面分析",
-   "sentiment": -1
-  },
-  {
-   "id": "30d69731e9a4",
-   "title": "热门板块速睇：美股盘中英伟达持仓概念走弱，英特尔领跌 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzRETDVkblZRRmF3UVMxOV83WnZQZUhUYmp6b1RGdGRQZHkwRmk2Z3BSaXlCeXRyN1QybWlQdFZKb3hfcGM1RF96blZKVDliZnhuOTluQUo2UUxaMjFxWTlSb2FCVk91MFB1X2g0M04wZF9yNmNYWmJKZlN3NGlTVzFPQTFYZGNWOU1kN2NOOGtpb013dGotU1NMZHJHeTlRSzZZZE9lSzhocVBKTFNfTUtSR0hJVlVvRHc",
-   "source": "Moomoo",
-   "published_at": "2026-10-30T13:40:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-30T13:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzRETDVkblZRRmF3UVMxOV83WnZQZUhUYmp6b1RGdGRQZHkwRmk2Z3BSaXlCeXRyN1QybWlQdFZKb3hfcGM1RF96blZKVDliZnhuOTluQUo2UUxaMjFxWTlSb2FCVk91MFB1X2g0M04wZF9yNmNYWmJKZlN3NGlTVzFPQTFYZGNWOU1kN2NOOGtpb013dGotU1NMZHJHeTlRSzZZZE9lSzhocVBKTFNfTUtSR0hJVlVvRHc"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-30T13:40:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SM0NfUE5mRko1Y1VmMnQ5TWNLR0hhX0ZKOE9ucGp4UGdTLVJHY0Z0LU9HczFQTUR3bnFtY1RQWGU4b3BPVG8ycWZ6a0xkSUR3"
-    }
-   ],
-   "category": "其他",
-   "session": "盘中",
-   "zh_summary": "美股盘中英伟达概念股走弱",
-   "title_zh": "热门板块速睇：美股盘中英伟达持仓概念走弱，英特尔领跌 - Moomoo",
-   "sentiment": -1
+   "category": "财报",
+   "session": "盘中"
   }
  ]
 }
