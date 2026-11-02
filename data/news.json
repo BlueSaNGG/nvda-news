@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T16:36:28.603424+00:00",
+ "updated_at": "2026-11-02T16:51:33.921050+00:00",
  "market": {
-  "price": 206.71,
-  "change_pct": 1.01,
+  "price": 206.98,
+  "change_pct": 1.14,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 15
   },
   "day_sentiment": {
-   "avg": 0.03,
-   "count": 113
+   "avg": 0.01,
+   "count": 115
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +52.4%"
+     "note": "目标价中位数 $315（17家），隐含空间 +52.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.03（113条已评分）"
+     "note": "今日新闻情绪 +0.01（115条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $206.71 vs 20日均线 $219.85"
+     "note": "现价 $206.98 vs 20日均线 $219.86"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 56,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 52.4,
-   "ma20": 219.85,
-   "as_of": "2026-11-02T16:36:28.595098+00:00"
+   "implied_upside_pct": 52.2,
+   "ma20": 219.86,
+   "as_of": "2026-11-02T16:51:33.912949+00:00"
   },
   "pe_ttm": 26.3,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "26da7d66fce8",
+   "title": "Alleged Jensen Huang spy plot highlights Nvidia export concerns ... - eeNews Europe",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VZHZhczZuRF8zTV8xMDI4a09qT08tWXkwaVRNV2VJdm42MXBHdzJqVXdjbExNNHZuNDgzdmZyZk5Wbzc0aktTVVViV05aVHdHeXNYUVNOTHRoSlpkcUpHdVJRenlKald6ZGwwczVySlNKZFBCTHc",
+   "source": "eeNews Europe",
+   "published_at": "2026-11-02T16:49:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "eeNews Europe",
+     "published_at": "2026-11-02T16:49:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VZHZhczZuRF8zTV8xMDI4a09qT08tWXkwaVRNV2VJdm42MXBHdzJqVXdjbExNNHZuNDgzdmZyZk5Wbzc0aktTVVViV05aVHdHeXNYUVNOTHRoSlpkcUpHdVJRenlKald6ZGwwczVySlNKZFBCTHc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "01716b62b94e",
+   "title": "What Made Nvidia's 'First GPU' Special? - BGR",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1McnFlNnY2czFCQnBEdFBfUjdCOTZtU0pSZzFDU0IzZ1lkQ1RmaGlqVzVVYS1ibnFiRVVJYWZQakxDa2lGc2k2akxMREJ5R05fRDZsX1BTeDgwSVhaMXkwRXhqcHhqV3JaUTRBcVNhTXJwNlV6X195dA",
+   "source": "BGR",
+   "published_at": "2026-11-02T16:47:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "BGR",
+     "published_at": "2026-11-02T16:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1McnFlNnY2czFCQnBEdFBfUjdCOTZtU0pSZzFDU0IzZ1lkQ1RmaGlqVzVVYS1ibnFiRVVJYWZQakxDa2lGc2k2akxMREJ5R05fRDZsX1BTeDgwSVhaMXkwRXhqcHhqV3JaUTRBcVNhTXJwNlV6X195dA"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "388097b62d76",
    "title": "Elon Musk's SpaceX Plan Swallows Nvidia's Entire Growth Forecast - NVIDIA (NASDAQ:NVDA), SpaceX (NASDAQ:S - Benzinga",
@@ -6374,46 +6408,6 @@
    "zh_summary": "DeepSeek联手华为挑战英伟达CUDA生态",
    "title_zh": "DeepSeek 联手华为，能否击穿英伟达CUDA？ - 网易新闻客户端",
    "sentiment": -1
-  },
-  {
-   "id": "ec002d23714a",
-   "title": "榜一竞争激烈！苹果5万亿市值反超英伟达 重夺全球市值最高公司 - 直播吧",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SUWU3OF9FaldGY2gxQ0ljTEFhSEVySTZoeHBOQkdnT3EyaVdrRE4wZ2w0MS1DdjBiTmhFNWNNU05nUk42MGt1SkJtaGxKYWYzb1NEWFVLVEpRSS1YNkJrUHhIQVFQNVFYRmVwSWJrSkE",
-   "source": "直播吧",
-   "published_at": "2026-10-31T05:45:34+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "直播吧",
-     "published_at": "2026-10-31T05:45:34+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SUWU3OF9FaldGY2gxQ0ljTEFhSEVySTZoeHBOQkdnT3EyaVdrRE4wZ2w0MS1DdjBiTmhFNWNNU05nUk42MGt1SkJtaGxKYWYzb1NEWFVLVEpRSS1YNkJrUHhIQVFQNVFYRmVwSWJrSkE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "苹果市值反超英伟达重夺榜首",
-   "title_zh": "榜一竞争激烈！苹果5万亿市值反超英伟达 重夺全球市值最高公司 - 直播吧",
-   "sentiment": -1
-  },
-  {
-   "id": "91655ef2a233",
-   "title": "$英伟达 (NVDA.US)$ 我知道大家最近都很紧绷，所以11月我打算请JOJO 来助威 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUdHY0FVanZoRGJEa0VFd2tNSnY5RnBrcTNrdlJ0d0tpSVpGclRDeHFwdTdKblg1U20wMnUxaXhPX3RrVmczOFRuemRWOFJDU1lITlVyVlpmN2JJMUw3V2QyUmJ6d3kwWm90ZE12TlZZMXNsbXpYZE9rMktvWjNNeXpkckZ3TkNLZHRRZU40VGdzNC1WRXMzVDRtWTU2RHpQODFyc09sOA",
-   "source": "Moomoo",
-   "published_at": "2026-10-31T05:13:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-10-31T05:13:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUdHY0FVanZoRGJEa0VFd2tNSnY5RnBrcTNrdlJ0d0tpSVpGclRDeHFwdTdKblg1U20wMnUxaXhPX3RrVmczOFRuemRWOFJDU1lITlVyVlpmN2JJMUw3V2QyUmJ6d3kwWm90ZE12TlZZMXNsbXpYZE9rMktvWjNNeXpkckZ3TkNLZHRRZU40VGdzNC1WRXMzVDRtWTU2RHpQODFyc09sOA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "11月请JOJO为投资者助威",
-   "title_zh": "英伟达投资者紧绷，11月请JOJO助威",
-   "sentiment": 0
   }
  ]
 }
