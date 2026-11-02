@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T04:36:36.750403+00:00",
+ "updated_at": "2026-11-02T04:51:33.331046+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.04,
-   "count": 77
+   "count": 78
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.04（77条已评分）"
+     "note": "今日新闻情绪 +0.04（78条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-02T04:36:36.736277+00:00"
+   "as_of": "2026-11-02T04:51:33.316059+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "560b9d846224",
+   "title": "Iluvatar CoreX Tiangai 300 tops Nvidia H200 in select AI inference tests, with long-context and MoE gains - digitimes",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzdMWDFyZjFvVVh4ZHZoQkF6blljQVVydHNTZlVvVFJSOWdBSkVlaHNKWFlhdjc5UmEyc25rTmFCZ1ZiZ0pEVkRQaUo1dXE4ZUZ5ZXZTVUxseVZDRF9MS3M0Yk8yMW9oVnlrckdrbGJsc2RnLXFaaVNfTTRzdy1YTHZkOHZDRkNfTzJkVUtyS2QxdjVpRmxr",
+   "source": "digitimes",
+   "published_at": "2026-11-02T04:45:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "digitimes",
+     "published_at": "2026-11-02T04:45:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVzdMWDFyZjFvVVh4ZHZoQkF6blljQVVydHNTZlVvVFJSOWdBSkVlaHNKWFlhdjc5UmEyc25rTmFCZ1ZiZ0pEVkRQaUo1dXE4ZUZ5ZXZTVUxseVZDRF9MS3M0Yk8yMW9oVnlrckdrbGJsc2RnLXFaaVNfTTRzdy1YTHZkOHZDRkNfTzJkVUtyS2QxdjVpRmxr"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
   {
    "id": "20f936cf7539",
    "title": "Liquid-Cooled NVIDIA Servers at the ASRock Rack OCP 2026 Booth - ServeTheHome",
@@ -6623,26 +6640,6 @@
    "zh_summary": "报道称黄仁勋曾成间谍阴谋目标",
    "title_zh": "报道称黄仁勋成间谍阴谋目标，英伟达对华关系更复杂",
    "sentiment": -1
-  },
-  {
-   "id": "fc0b6f9188f6",
-   "title": "Marvell in advanced talks to buy Nvidia-backed Lumentum – report - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckU4ZmVGY25nSXZsdUJ1MnNwb2lyVzE4eWVpQVYxb3NlaUlJNi1wd0RzUWVYcHJleTdDUTdCekxISkFhSUZqUUR2dmhNbllQZWhQVjUwOWlxU1ZjQzhqMkNXLWVwck9wZmxTX2Nzb1RPUFRyOFNWdDd2SEZLN1EtRDBYOWNwQQ",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-30T11:12:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-30T11:12:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckU4ZmVGY25nSXZsdUJ1MnNwb2lyVzE4eWVpQVYxb3NlaUlJNi1wd0RzUWVYcHJleTdDUTdCekxISkFhSUZqUUR2dmhNbllQZWhQVjUwOWlxU1ZjQzhqMkNXLWVwck9wZmxTX2Nzb1RPUFRyOFNWdDd2SEZLN1EtRDBYOWNwQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Marvell洽购英伟达参投Lumentum",
-   "title_zh": "报道称Marvell正深入谈判收购英伟达投资的Lumentum",
-   "sentiment": 0
   }
  ]
 }
