@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T04:51:33.331046+00:00",
+ "updated_at": "2026-11-02T05:06:36.170531+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -10,8 +10,8 @@
    "days_left": 16
   },
   "day_sentiment": {
-   "avg": 0.04,
-   "count": 78
+   "avg": 0.03,
+   "count": 79
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.04（78条已评分）"
+     "note": "今日新闻情绪 +0.03（79条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-02T04:51:33.316059+00:00"
+   "as_of": "2026-11-02T05:06:36.153640+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "fc99798d1e08",
+   "title": "Vera Rubin: NVIDIA cites differing HBM4 bandwidth figures - igor´sLAB",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNENPWGZjZGJ5TklidXVjZlh5SFU2dXVsbmpaQnIyeEp4VGsxVkVqSVg0MjlKVnpLRnN4S0l4R05kbE1EWWNhV1U2RXdLQWtGUGhiWk5vX1cyTVJwVnc0dGpldDc3bVM2LXF1dkJvMDVhcWZ5OEhDVldzS2VIVnZaTjNDMGpoX3dKNkE",
+   "source": "igor´sLAB",
+   "published_at": "2026-11-02T05:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "igor´sLAB",
+     "published_at": "2026-11-02T05:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNENPWGZjZGJ5TklidXVjZlh5SFU2dXVsbmpaQnIyeEp4VGsxVkVqSVg0MjlKVnpLRnN4S0l4R05kbE1EWWNhV1U2RXdLQWtGUGhiWk5vX1cyTVJwVnc0dGpldDc3bVM2LXF1dkJvMDVhcWZ5OEhDVldzS2VIVnZaTjNDMGpoX3dKNkE"
+    }
+   ],
+   "category": "产品技术",
+   "session": "周末"
+  },
   {
    "id": "560b9d846224",
    "title": "Iluvatar CoreX Tiangai 300 tops Nvidia H200 in select AI inference tests, with long-context and MoE gains - digitimes",
@@ -140,6 +157,23 @@
    "zh_summary": "红杉合伙人称SpaceX将迎英伟达式营收爆发",
    "title_zh": "红杉合伙人：SpaceX将迎英伟达式营收爆发，市场严重低估",
    "sentiment": 0
+  },
+  {
+   "id": "4268473429c5",
+   "title": "Elizabeth Warren Says Nvidia Board and Jensen Huang 'Owe Congress Answers’ Over Reported Spy Ties— Wants AI Technology Kept 'Out of China's Hands' - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUtDSjRBYmtVNEMyTFI4cWx6QXExckVjT244bW1uNTg3ZVQtdjZxVHlac1h5dERwTVBXNTlzWHNZUU9RSHhvYjdNV3FKMmpOYXRhS0l6eTZmNWVzMGgyMlVKZmxKZjA2aDRRRDJRdWpKRTRTdzdVd1BmT0dYQmV2bVB2dEJWanJsLVpHTTdsdDNVSUpzNl8tbGxB",
+   "source": "Yahoo",
+   "published_at": "2026-11-02T03:30:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo",
+     "published_at": "2026-11-02T03:30:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUtDSjRBYmtVNEMyTFI4cWx6QXExckVjT244bW1uNTg3ZVQtdjZxVHlac1h5dERwTVBXNTlzWHNZUU9RSHhvYjdNV3FKMmpOYXRhS0l6eTZmNWVzMGgyMlVKZmxKZjA2aDRRRDJRdWpKRTRTdzdVd1BmT0dYQmV2bVB2dEJWanJsLVpHTTdsdDNVSUpzNl8tbGxB"
+    }
+   ],
+   "category": "政策监管",
+   "session": "周末"
   },
   {
    "id": "6ca7c289ac37",
@@ -412,7 +446,7 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmFwSVpCR0JhU2RLdTZsTnA3eXlVTmN3ZzQ1RlgxQVdkU2JUNGxiTnlndENiN05jcUw1VU1RQ0ZzYTMzMl9SQ0h0Z3RFcWxPVjBvNWlYVjF4WnFkYy1qMC1ULUpDUXZ3NWlsQmxON2t3QVdoam9HTVFCakN4TVM3ZmlvcWEzblBaQmZrNThDU0lWTVhWT0JiMXRNVFlmcHdM0gGmAUFVX3lxTFA4WEtnZ3ZKTFBldUhIam13VDBPNkxvQWFHckVvZi0zV0Qxa1Q1VHRDVjIycUNUV1k3cGt0M3d1cndMaDlNX2RQdVpfc2ZlNDBfOHF3dF84Q3EtMFJUNXZiazBQT1VyZEJ6Q0hWakY3WEdLWmNsa3ptLWVLbUd0Y2ZTVUcxRTlNX3hFNDI2NFFQcG9Nd0FlLUtCWDRRajVudlljSGducVE",
    "source": "NewsNation",
    "published_at": "2026-11-02T00:07:16+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "NewsNation",
@@ -423,6 +457,11 @@
      "name": "AOL.com",
      "published_at": "2026-11-02T00:45:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLW9rWWh5RF83TFROVHlGMHVyTHAtTFlPaFpLWWp6UGs0bWhCWTFDbUZmbXJFRmdMeHQ5a2R2a3h3Wm5qemZRUzl1X01MN1haVTloT1ZBQVZZQkxiVVNwVC1yeThGTkR0Y3cyZy1HMGtyQ3RTQU5na3h3MFlXV3ZxNk42bXQ5S2Fj"
+    },
+    {
+     "name": "Yahoo",
+     "published_at": "2026-11-02T00:45:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTnZzTVZUY3lqZVZwZVh6RWt5a0Fjbm5MaVFMV0s3bW15c3I1RXVIMVhkQmdNUmdVcDF2SldBY3pYVTJ2cUh5V25HblRSc1l4QTRsREhXSkJvUWUtSjV4V3d3V21HaHpXVDNrMVM5enQyYWtWZk40dndkZGdCYlB2OEo0UVZ1VlZ3bHNQS3lPRE8wNldBZWc"
     }
    ],
    "category": "政策监管",
@@ -6603,46 +6642,6 @@
    "zh_summary": "英伟达参投加拿大AI新贵估值超200亿美元",
    "title_zh": "英伟达站台参投 加拿大AI新贵估值突破200亿美元 - 东方财富",
    "sentiment": 1
-  },
-  {
-   "id": "bcf867a57018",
-   "title": "RTX 5080 removed from official Nvidia store as rumored 24GB model supposedly arrives in a couple of months - PC Guide",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFVadlpSdWZnQUxrVWQzTzJPLWdseXUxeWZ1R09EYUVvbG9nUlBuN3pxdnhmQmw5TEUtaHFMZXVwNjJmY2dZeXI1Mld6X1AzODJwV1lSeGlVbjQ0Y28tNUZoNW56OE9sQjk3VzdfWll3RGJDZHVoaXg5aHNZbUxIeXBXVVFtbHl0ZE1QU3NrYzdVT0ZzNUpMQTVWWEtTN1dTNWRIeWtoQk8xVmFUSFFZbks3YnRSTHZ2NGdSMlFtQ2tDWmxjb1BBd1NYOXZHazJ1Smc",
-   "source": "PC Guide",
-   "published_at": "2026-10-30T11:27:28+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "PC Guide",
-     "published_at": "2026-10-30T11:27:28+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFVadlpSdWZnQUxrVWQzTzJPLWdseXUxeWZ1R09EYUVvbG9nUlBuN3pxdnhmQmw5TEUtaHFMZXVwNjJmY2dZeXI1Mld6X1AzODJwV1lSeGlVbjQ0Y28tNUZoNW56OE9sQjk3VzdfWll3RGJDZHVoaXg5aHNZbUxIeXBXVVFtbHl0ZE1QU3NrYzdVT0ZzNUpMQTVWWEtTN1dTNWRIeWtoQk8xVmFUSFFZbks3YnRSTHZ2NGdSMlFtQ2tDWmxjb1BBd1NYOXZHazJ1Smc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达官网下架RTX 5080，传24GB新版将至",
-   "title_zh": "英伟达官网下架RTX 5080，传24GB型号数月后上市",
-   "sentiment": 1
-  },
-  {
-   "id": "abca3b5509a7",
-   "title": "Nvidia's relationship with China just got even more complicated as report says Jensen Huang was target of spy plot - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZEtab0tTUzA0MEtoX2xaenB3THdSLUFwNF94eUUtLWtZbG9BUm5TajVNZTBURlNfb0wxWExIcmFQSFJGV3h1YktYNXlCVjJpOWVzT3EzRjdSVV9jakZETlNQU1hyS1p3SERyVU93QzJZZmE5TXRGSlFoU1E1cFFSeW9RbFBIR0FlVXhwZW1lWTgwTU1JX3NTQm4tanVVdEEtd0VOSjJmZ3dVaXk5T2dvUC1tWDlGZGpWT1A5YVp3blczSEJIOHlGblFfOS1ubEdUbFpxejZwYVJaMld2XzVTM3J2NTBMc2N3ZHVNeHc0RURmdGpPTVZQZE10bXZSZUtUcFpN",
-   "source": "Yahoo Finance",
-   "published_at": "2026-10-30T11:16:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Yahoo Finance",
-     "published_at": "2026-10-30T11:16:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZEtab0tTUzA0MEtoX2xaenB3THdSLUFwNF94eUUtLWtZbG9BUm5TajVNZTBURlNfb0wxWExIcmFQSFJGV3h1YktYNXlCVjJpOWVzT3EzRjdSVV9jakZETlNQU1hyS1p3SERyVU93QzJZZmE5TXRGSlFoU1E1cFFSeW9RbFBIR0FlVXhwZW1lWTgwTU1JX3NTQm4tanVVdEEtd0VOSjJmZ3dVaXk5T2dvUC1tWDlGZGpWT1A5YVp3blczSEJIOHlGblFfOS1ubEdUbFpxejZwYVJaMld2XzVTM3J2NTBMc2N3ZHVNeHc0RURmdGpPTVZQZE10bXZSZUtUcFpN"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "报道称黄仁勋曾成间谍阴谋目标",
-   "title_zh": "报道称黄仁勋成间谍阴谋目标，英伟达对华关系更复杂",
-   "sentiment": -1
   }
  ]
 }
