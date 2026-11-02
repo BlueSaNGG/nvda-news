@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T13:51:27.623493+00:00",
+ "updated_at": "2026-11-02T14:06:26.211055+00:00",
  "market": {
   "price": 204.64,
   "change_pct": -4.22,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.02,
-   "count": 82
+   "count": 84
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.02（82条已评分）"
+     "note": "今日新闻情绪 +0.02（84条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 53.9,
    "ma20": 221.46,
-   "as_of": "2026-11-02T13:51:27.608384+00:00"
+   "as_of": "2026-11-02T14:06:26.199164+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "63527735746f",
+   "title": "NVIDIA Brev security breach may have exposed SSH keys used to access customer VMs — investigation finds unauthorized activity spanning 16 days, but no evidence of misuse - Tom's Hardware",
+   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPWktWRmlIZ1Fmdm15c1RNY2FWMGI1Q2padlJ3V0hEc0ZkWXkwSEFDbkNlZkNzdEk5enNNQmg5MFhSSU5xZzlZUnZMRkdKQ3BPbUdzVDNtX2oyWXdoQ3VkaFRXdjVORG8xV1A4a25rM1BDSmFVZUxNSmVHdkNiSFB3alBBOXM0bVpydVd4b01SQlg3Sm5lVWlSUzRJcnVkb1R3MGIzMGZJZmRnQVg1MmZUT29wT2JQMGR5eXZWXzNMejVaNmhWVUcxaDBLNV8zMi1kRlhIQlVYdktXdU5LNGpaRDhYNEdtMFl4U0p2VHlQR0dteUNodDYtSlVoODQzWWVSOUhQbXNuWk9yVGt1UTlFNEFuUUVxcHNrVVRjOEg5c0U3SHpOX2xKMlUwY2VhR3JzRl96TUFuRDNkUThqc214bUZPNjBKSGs",
+   "source": "Tom's Hardware",
+   "published_at": "2026-11-02T14:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Tom's Hardware",
+     "published_at": "2026-11-02T14:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPWktWRmlIZ1Fmdm15c1RNY2FWMGI1Q2padlJ3V0hEc0ZkWXkwSEFDbkNlZkNzdEk5enNNQmg5MFhSSU5xZzlZUnZMRkdKQ3BPbUdzVDNtX2oyWXdoQ3VkaFRXdjVORG8xV1A4a25rM1BDSmFVZUxNSmVHdkNiSFB3alBBOXM0bVpydVd4b01SQlg3Sm5lVWlSUzRJcnVkb1R3MGIzMGZJZmRnQVg1MmZUT29wT2JQMGR5eXZWXzNMejVaNmhWVUcxaDBLNV8zMi1kRlhIQlVYdktXdU5LNGpaRDhYNEdtMFl4U0p2VHlQR0dteUNodDYtSlVoODQzWWVSOUhQbXNuWk9yVGt1UTlFNEFuUUVxcHNrVVRjOEg5c0U3SHpOX2xKMlUwY2VhR3JzRl96TUFuRDNkUThqc214bUZPNjBKSGs"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "ff8f071a8155",
+   "title": "Nvidia and China: export rules, sales, probes and security, a timeline - FourWeekMBA",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UYUJxSHp4a0NzWmpVOU9NZV83M1RXWnE2QVJCdm5CNktIazBRby1fRmRPNGlqRTZpZG10ektuS2tGYlk3M1MzNTRRTkdFQzJaUW5iWVFUTlRRZw",
+   "source": "FourWeekMBA",
+   "published_at": "2026-11-02T13:57:21+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FourWeekMBA",
+     "published_at": "2026-11-02T13:57:21+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UYUJxSHp4a0NzWmpVOU9NZV83M1RXWnE2QVJCdm5CNktIazBRby1fRmRPNGlqRTZpZG10ektuS2tGYlk3M1MzNTRRTkdFQzJaUW5iWVFUTlRRZw"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
   {
    "id": "c54870c8d801",
    "title": "NVIDIA (NASDAQ:NVDA) Stock Gets Price Target Trim from Melius Research - MarketBeat",
@@ -100,6 +134,45 @@
    "zh_summary": "思灵机器人携手英伟达探索汽车物流自动化",
    "title_zh": "思灵机器人携手奥迪、达索与英伟达探索汽车物流自动化",
    "sentiment": 1
+  },
+  {
+   "id": "0a0d3650c719",
+   "title": "Nvidia’s Fiscal 2028 Revenue Estimate Is Up 25% Since June. Here’s What November 17 Has to Prove - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0RHYnJjMmhYUUNPTHVqSHF1X0lvanRuc25mQXBDZlZsT3hsU004UUhMYXlzZ0IzUVBPSkxHR2VZUGxMTktsZGlJejFoTXRsUUtQbFc2Ulh5RFRBc1hDemsxclRfT3p4UmhOa3pIdnZtZ3JDM3Z3NksxNkZGTC0tUVpzNjQ3WG53MC1aYzJtVjB6UmJMWHJ4X2lxVXJFZXVOYlE",
+   "source": "Yahoo Finance",
+   "published_at": "2026-11-02T13:20:28+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-02T13:20:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0RHYnJjMmhYUUNPTHVqSHF1X0lvanRuc25mQXBDZlZsT3hsU004UUhMYXlzZ0IzUVBPSkxHR2VZUGxMTktsZGlJejFoTXRsUUtQbFc2Ulh5RFRBc1hDemsxclRfT3p4UmhOa3pIdnZtZ3JDM3Z3NksxNkZGTC0tUVpzNjQ3WG53MC1aYzJtVjB6UmJMWHJ4X2lxVXJFZXVOYlE"
+    },
+    {
+     "name": "TIKR.com",
+     "published_at": "2026-11-02T13:43:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDJ2Nklmcnp5Y0JnSU1IbEdjdXBPT3VoZUV6OXhFV0hZdlc1TkptZE5VYnVQM2JrTVY5UkU1T1lDVXVVT093M0RScWhXT0QzSWFIV29KajhDY2NmVnVkQUVLcHYzMTBiZXZ6VU80dmR4em9MbjBnUnN0dmtDMVgtZ1pjWEw0azlYeGhxVFoyTXFyN2duQnhUN01VR09WMGZuekl0Nm02Mm40NkVnTERsaXZkZ00xQUxaTDlBcEhpRQ"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
+  },
+  {
+   "id": "44ae05b67413",
+   "title": "XMax signs Nvidia GPU deal, sees $100M+ revenue - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFB4UXZsZzlLVEo0aWR6cWFQQ2QyRldkbmE2UlFwWDJOQjMwOGpqSWlzdkFPYng0SXJMWmducWFabkhxY3FYTXhTeThLRkY0OHdPTHdLZDd5WnIyRHRCRFY2OVR0dWNaOTl6NF95bDJxb0dzYnN5NTRweG1Xb2NwWWxuRGRVLU03NmoxQ0pfSmkwcWFjY1c3aGk4ZFZnV19HNWFfLUFXQ1NMclk",
+   "source": "TradingView",
+   "published_at": "2026-11-02T13:20:01+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-11-02T13:20:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFB4UXZsZzlLVEo0aWR6cWFQQ2QyRldkbmE2UlFwWDJOQjMwOGpqSWlzdkFPYng0SXJMWmducWFabkhxY3FYTXhTeThLRkY0OHdPTHdLZDd5WnIyRHRCRFY2OVR0dWNaOTl6NF95bDJxb0dzYnN5NTRweG1Xb2NwWWxuRGRVLU03NmoxQ0pfSmkwcWFjY1c3aGk4ZFZnV19HNWFfLUFXQ1NMclk"
+    }
+   ],
+   "category": "财报",
+   "session": "盘前"
   },
   {
    "id": "4e7f07e48f35",
@@ -432,12 +505,17 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRDdWWXJhS3d4bDdMUldCUWxrdS03NWFubzVpNDFnNnlPcjVKczNuaDhkekc0NFpuQUhPU0xlWDF5WVFDUUtBWlA5eXNZQ3RjTXJMTGtlLWkzOWxBZXNnVUNnQi12RTN3cFZuYjB6c2NlNm9OdTBrMU5pZGEwbUNVRkE1MjA0akFFNEVmN21Za0FmMW5v",
    "source": "The Motley Fool",
    "published_at": "2026-11-02T12:11:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "The Motley Fool",
      "published_at": "2026-11-02T12:11:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRDdWWXJhS3d4bDdMUldCUWxrdS03NWFubzVpNDFnNnlPcjVKczNuaDhkekc0NFpuQUhPU0xlWDF5WVFDUUtBWlA5eXNZQ3RjTXJMTGtlLWkzOWxBZXNnVUNnQi12RTN3cFZuYjB6c2NlNm9OdTBrMU5pZGEwbUNVRkE1MjA0akFFNEVmN21Za0FmMW5v"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-02T12:31:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOblg2MTNnN3pwbUZwY0pnX1Q0eGlvZEg2dnRBbmxVREZYZzAwVjlIM1BONy15RHRrcjRKWWtKU2xkcU56NGVHSER0RmFVdk9SY0oyaTZnT2pNOVVBOUhvYTlLRjJPaWUxaEJYbWE3VXJGWWo1VTBlVng3VjNpenhmZmJwUUZZek5zU2NoMzIyeXJLVldhZG5paEpUU0otdw"
     }
    ],
    "category": "市场宏观",
@@ -6324,86 +6402,6 @@
    "session": "盘后",
    "zh_summary": "英伟达市值一夜蒸发1.4万亿元",
    "title_zh": "纳指跌超700点，英伟达市值蒸发1.4万亿元",
-   "sentiment": -1
-  },
-  {
-   "id": "d7f912874394",
-   "title": "NVIDIA Corp (NVDA) Shares Fall 4.2% -- What GF Score of 96 Tells Investors - GuruFocus",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeEU5Qi1JTFhhYk5qejF2S282bHJqNzM5Q0RDN3M0VlBHZ2tYeWg3bDUzWk5sSUxhUVVFSGNQMUNieVlQMDY0WExSTTlpbFBUei0xdVFDdElMZS1RX3dBblFpM1plNmEwNkthbmdqN2VvV1J0RURMa01hWU9YNjF0YUljNlRTd0JXV01raHBZWlVDazUydHNPQ3ZnRFRJNDNwWE5xV0dVeHNFdw",
-   "source": "GuruFocus",
-   "published_at": "2026-10-30T22:46:04+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GuruFocus",
-     "published_at": "2026-10-30T22:46:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeEU5Qi1JTFhhYk5qejF2S282bHJqNzM5Q0RDN3M0VlBHZ2tYeWg3bDUzWk5sSUxhUVVFSGNQMUNieVlQMDY0WExSTTlpbFBUei0xdVFDdElMZS1RX3dBblFpM1plNmEwNkthbmdqN2VvV1J0RURMa01hWU9YNjF0YUljNlRTd0JXV01raHBZWlVDazUydHNPQ3ZnRFRJNDNwWE5xV0dVeHNFdw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘后",
-   "zh_summary": "英伟达股价跌4.2%，GF评分96",
-   "title_zh": "英伟达股价跌4.2%，GF评分96对投资者意味着什么",
-   "sentiment": -1
-  },
-  {
-   "id": "b193f89d251b",
-   "title": "PC市场变局：英伟达入局、苹果引入触摸屏 但涨价正影响供应链 - 东方财富网",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TGlHUkh0NmJYYTdJTGlENjZmTFZrMzRZTWRfczdwTjhJNGxqM0ZQSHZwWXFtVVozVDcxRmVVbHBoZk5tVzJQNHdtdVdSSmpheTFVaW9ZVEN4eUV0c0ZaWHBWVkJNUQ",
-   "source": "东方财富网",
-   "published_at": "2026-10-30T22:42:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "东方财富网",
-     "published_at": "2026-10-30T22:42:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43TGlHUkh0NmJYYTdJTGlENjZmTFZrMzRZTWRfczdwTjhJNGxqM0ZQSHZwWXFtVVozVDcxRmVVbHBoZk5tVzJQNHdtdVdSSmpheTFVaW9ZVEN4eUV0c0ZaWHBWVkJNUQ"
-    }
-   ],
-   "category": "供应链",
-   "session": "盘后",
-   "zh_summary": "英伟达入局PC市场，涨价影响供应链",
-   "title_zh": "PC市场变局：英伟达入局，涨价影响供应链",
-   "sentiment": 0
-  },
-  {
-   "id": "67e81efa8d48",
-   "title": "Micron Stock Price Forecast: Nvidia's Planned Rubin Ultra HBM Layer Cut and Declining Per-Unit Memory Usage May Drag on Revenue Growth - TradingKey",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSWtCZ3hRMG0tZW45YmNoZ2tMYTZHQy1nc1VOMl80dUZFUlVGQmZqaVJIOVZFUW5xalRvRVhlRkh4bDF5Tk0wUF9scEtRZVgxV0pQMVg4dktmaVg0NllBc19FV21lcUpKVVhfTmdzczNZekNuNlhHVkU4WkFkT2hhZDJpemYwX1daMUxGekhLYktyTnJjYnR4RklLOHVmZGdFSkQyMDg4eGlCdV9vV3IyM3FfTUV2SUdHM3F5QmM1NmpBdl9pVWlPbkNlSU84TU5ZXzdmbA",
-   "source": "TradingKey",
-   "published_at": "2026-10-30T22:08:57+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TradingKey",
-     "published_at": "2026-10-30T22:08:57+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSWtCZ3hRMG0tZW45YmNoZ2tMYTZHQy1nc1VOMl80dUZFUlVGQmZqaVJIOVZFUW5xalRvRVhlRkh4bDF5Tk0wUF9scEtRZVgxV0pQMVg4dktmaVg0NllBc19FV21lcUpKVVhfTmdzczNZekNuNlhHVkU4WkFkT2hhZDJpemYwX1daMUxGekhLYktyTnJjYnR4RklLOHVmZGdFSkQyMDg4eGlCdV9vV3IyM3FfTUV2SUdHM3F5QmM1NmpBdl9pVWlPbkNlSU84TU5ZXzdmbA"
-    }
-   ],
-   "category": "财报",
-   "session": "盘后",
-   "zh_summary": "Rubin Ultra削减HBM层或拖累美光营收",
-   "title_zh": "美光股价预测：英伟达Rubin Ultra削减HBM层或拖累营收增长",
-   "sentiment": 0
-  },
-  {
-   "id": "870bf00c6b1b",
-   "title": "成交额TOP20 | 英特尔绩后暴跌28%，创逾四十年来最大单日跌幅；礼来涨超3%续创新高；苹果市值再度反超英伟达登顶全球；标普下调Meta评级至负面 - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX09Vdzk5eTBPWUpZRGdCejY1dHF6QTkxWFU0TWlDMHFwSktuMnV3VF96UzFPY1dDWWhLOUxGYlFQSE1BS1JHcnJDNU9tSmZScHRfQ1IyRmJTTmlpYzdFUm16dDFyX0VDOWdaUUVJbVFvOEdaYWZ4X2UtRWhkYllPZnZ4U2w1ajBPclh4VHk2YUFzWGs5SmswUWdKTGM",
-   "source": "富途牛牛",
-   "published_at": "2026-10-30T21:57:07+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-30T21:57:07+00:00",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX09Vdzk5eTBPWUpZRGdCejY1dHF6QTkxWFU0TWlDMHFwSktuMnV3VF96UzFPY1dDWWhLOUxGYlFQSE1BS1JHcnJDNU9tSmZScHRfQ1IyRmJTTmlpYzdFUm16dDFyX0VDOWdaUUVJbVFvOEdaYWZ4X2UtRWhkYllPZnZ4U2w1ajBPclh4VHk2YUFzWGs5SmswUWdKTGM"
-    }
-   ],
-   "category": "分析师",
-   "session": "盘后",
-   "zh_summary": "苹果市值反超英伟达登顶全球",
-   "title_zh": "英特尔绩后暴跌28%，苹果市值反超英伟达登顶",
    "sentiment": -1
   }
  ]
