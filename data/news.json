@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T18:51:35.779079+00:00",
+ "updated_at": "2026-11-02T19:06:43.505777+00:00",
  "market": {
-  "price": 205.73,
-  "change_pct": 0.53,
+  "price": 204.85,
+  "change_pct": 0.11,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-11-17",
@@ -20,12 +20,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 55% 分位"
+     "note": "现价处于52周区间 54% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +53.1%"
+     "note": "目标价中位数 $315（17家），隐含空间 +53.8%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $205.73 vs 20日均线 $219.80"
+     "note": "现价 $204.85 vs 20日均线 $219.76"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 55,
+   "price_52w_pct": 54,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 53.1,
-   "ma20": 219.8,
-   "as_of": "2026-11-02T18:51:35.769031+00:00"
+   "implied_upside_pct": 53.8,
+   "ma20": 219.76,
+   "as_of": "2026-11-02T19:06:43.496592+00:00"
   },
-  "pe_ttm": 26.1,
+  "pe_ttm": 26.0,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+53.1%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+53.8%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,17 +62,124 @@
  },
  "stories": [
   {
+   "id": "e224bb9cd6b8",
+   "title": "XMax Doubles Down on Nvidia to Dominate the AI Arms Race - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNNlAySXNudFV4ZGp4aHZBRXNfeUlSMGx3WnZ5UnZta09SWVpLaTRVcmp6VkozMzlZdGctSFdFV3NreHVQSkNpVWhhQWNwc3RianE2SzRLUHNWMGprU1hyS1ZrLXQ1NnhnWm8xbEtSWV9VQ3B1a1VjbWhjajNIWkdSY0gyenZGdHZVbG1HeVBLRkdrQlh6UnlzVGxUYWZwNUEySDc3WEtid0NhNGpIYUVacktPckpUOWhzR2VUWmhrVWEwYkVDT2VlYzQtRVVRLTdlVG92eENISkZaSzlZdTE1Njh6cmJqVUpWTnYwZDEwaW9RdDVWOUp0YUFkMVB0bmgyN2haMFJkX3BUNEllalRWS0g4YkZsd2JocXlrcEZRQWROT1lVTXVTUw",
+   "source": "GuruFocus",
+   "published_at": "2026-11-02T19:02:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-11-02T19:02:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNNlAySXNudFV4ZGp4aHZBRXNfeUlSMGx3WnZ5UnZta09SWVpLaTRVcmp6VkozMzlZdGctSFdFV3NreHVQSkNpVWhhQWNwc3RianE2SzRLUHNWMGprU1hyS1ZrLXQ1NnhnWm8xbEtSWV9VQ3B1a1VjbWhjajNIWkdSY0gyenZGdHZVbG1HeVBLRkdrQlh6UnlzVGxUYWZwNUEySDc3WEtid0NhNGpIYUVacktPckpUOWhzR2VUWmhrVWEwYkVDT2VlYzQtRVVRLTdlVG92eENISkZaSzlZdTE1Njh6cmJqVUpWTnYwZDEwaW9RdDVWOUp0YUFkMVB0bmgyN2haMFJkX3BUNEllalRWS0g4YkZsd2JocXlrcEZRQWROT1lVTXVTUw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "186a30a1fc20",
+   "title": "NVIDIA RTX 5060 PC with 32GB RAM gets knockdown price to just $1,399.99 in Newegg deal - PC Guide",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcW5jbWtHbkJPMXBqSjFDa2QtOGxqSDNFNWo1bzA2VUhrRV9VUnpYb0RYV3htRUdKczBBVTRmYkNad2dtV3VjX2RXY2JaLVhpbTN4YkJhRVVhX0dlQWRqNHJ0WlNqeVBFWmExSTNuTm9mOGNPRFlMMXhtemVhLVN6Q0M5cjZFUm0xbUxkSUhzdzlYV24xYWVBeE92czhiNjA0UmdINWpKTWlCVGtZZktIdlk4YXdTdw",
+   "source": "PC Guide",
+   "published_at": "2026-11-02T18:52:05+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "PC Guide",
+     "published_at": "2026-11-02T18:52:05+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcW5jbWtHbkJPMXBqSjFDa2QtOGxqSDNFNWo1bzA2VUhrRV9VUnpYb0RYV3htRUdKczBBVTRmYkNad2dtV3VjX2RXY2JaLVhpbTN4YkJhRVVhX0dlQWRqNHJ0WlNqeVBFWmExSTNuTm9mOGNPRFlMMXhtemVhLVN6Q0M5cjZFUm0xbUxkSUhzdzlYV24xYWVBeE92czhiNjA0UmdINWpKTWlCVGtZZktIdlk4YXdTdw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "8038cc633695",
+   "title": "Nvidia Stock Looks Surprisingly Cheap. Why NVDA Could Rise 61%. - Barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjA4NDQtRjBtaDZMX05LdkpMeWZrOVYxWFc2TTgtU0phdXlnc1RvZlJVb3NxWjlfbnkwY3VIOXpvZWpzUklKWEh3LTF6NVBxLWs3OWlsVDY2bXpwa2MwZXczNDhXelFzYUNfWHhwaDVKSnhWZnZDQ1FiRWN4TUNjUVdsaHNHWjJCMDNmbFR0SHFscGpZekx4b21zYmZ5aDVsSkF2UTRmQQ",
+   "source": "Barchart.com",
+   "published_at": "2026-11-02T18:48:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barchart.com",
+     "published_at": "2026-11-02T18:48:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjA4NDQtRjBtaDZMX05LdkpMeWZrOVYxWFc2TTgtU0phdXlnc1RvZlJVb3NxWjlfbnkwY3VIOXpvZWpzUklKWEh3LTF6NVBxLWs3OWlsVDY2bXpwa2MwZXczNDhXelFzYUNfWHhwaDVKSnhWZnZDQ1FiRWN4TUNjUVdsaHNHWjJCMDNmbFR0SHFscGpZekx4b21zYmZ5aDVsSkF2UTRmQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "e0619f0edfe2",
+   "title": "Cohere Hits US$25bn as Canada & NVIDIA Fund Sovereign AI - AI Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0hFa0gwWUN0Yl9mZVhfY3pSRWZ0Zzd1dFJjc2xVWmk0TUhvcmFLWDJ2TG9WUDRvTXVWZHNvX3BfcHpSR29VR2JJaE1KN0lHUzh2Y1I1ZDBJRU01WjRocTVwaVprNVVTSWZDR3JVelVjWVB4M1p3QjVtU001OEc3amE3V2M3ajVaaXc",
+   "source": "AI Magazine",
+   "published_at": "2026-11-02T18:43:33+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "AI Magazine",
+     "published_at": "2026-11-02T18:43:33+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0hFa0gwWUN0Yl9mZVhfY3pSRWZ0Zzd1dFJjc2xVWmk0TUhvcmFLWDJ2TG9WUDRvTXVWZHNvX3BfcHpSR29VR2JJaE1KN0lHUzh2Y1I1ZDBJRU01WjRocTVwaVprNVVTSWZDR3JVelVjWVB4M1p3QjVtU001OEc3amE3V2M3ajVaaXc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "bb0874956ffc",
+   "title": "Anthropic Did in 5 Years What Took Nvidia 31—And It Raises a $2 Trillion Question - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnEtU3pmcWJON1dtanN3eWtUVi12NTVQRDFUTGp1S21IcnAxSVk1Qy1SSFJSTnBFRE9EMEJYWExsM2FKYm1LSDM0emZLUnZOeS03NUUxVjh0ek9hNGVwQkR0bkZ1XzBOcndQNU5YclR0Sm02OVZhV0tXd0lMU0dzTmhZQTk4QQ",
+   "source": "Benzinga",
+   "published_at": "2026-11-02T18:38:23+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-11-02T18:38:23+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnEtU3pmcWJON1dtanN3eWtUVi12NTVQRDFUTGp1S21IcnAxSVk1Qy1SSFJSTnBFRE9EMEJYWExsM2FKYm1LSDM0emZLUnZOeS03NUUxVjh0ek9hNGVwQkR0bkZ1XzBOcndQNU5YclR0Sm02OVZhV0tXd0lMU0dzTmhZQTk4QQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "2f8f09acbd0d",
+   "title": "Nvidia Stocks Rise 1.7% With Rubin Specification Gap Shifting Focus to Workload Tests - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS25JVVVhYmlTcDZMUWFqck1TekdpeVVZX0VHb0stMDJuOG5kVFRpRHFqSU4wZUdJQTVMd2xJV3IzNXI3M1RxczZjQjRFaER5ZTFrbmhyNERtUFI0Ym80eDZWTTFSdlJBam9sR0wyV2hDeXFOOVg0MWpYNm5ETHdOdl9CNUxSaWd0U0tFeU1EMEp0VmNNTVhtc2U2TjJaZWZhdGZQNWlTRVI1UTFOZnRDX3RLallRWXljVzRmUXc2b1M2cTRBdzduU0h4R01mRjV4R2xMS0hxVUczSTlh",
+   "source": "TradingView",
+   "published_at": "2026-11-02T18:16:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingView",
+     "published_at": "2026-11-02T18:16:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS25JVVVhYmlTcDZMUWFqck1TekdpeVVZX0VHb0stMDJuOG5kVFRpRHFqSU4wZUdJQTVMd2xJV3IzNXI3M1RxczZjQjRFaER5ZTFrbmhyNERtUFI0Ym80eDZWTTFSdlJBam9sR0wyV2hDeXFOOVg0MWpYNm5ETHdOdl9CNUxSaWd0U0tFeU1EMEp0VmNNTVhtc2U2TjJaZWZhdGZQNWlTRVI1UTFOZnRDX3RLallRWXljVzRmUXc2b1M2cTRBdzduU0h4R01mRjV4R2xMS0hxVUczSTlh"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
    "id": "30d69731e9a4",
    "title": "热门板块速睇：美股盘中英伟达持仓概念走弱，英特尔领跌 - Moomoo",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOS13Zlh3OFd6MmZfWTRfcXdweUY1REtaWUtuQ0dKZEJWM2ZjbDB2NjNPNGVDclpUQnpzR3ZYdlNMWjNuNWdsa2pLd20tMGJucVJnXzdTOTBkVkkzWHBzTm9BNFBXcTVjYWxXV0xMUWsxT3d3TTh3RzRDcTdNM1RYUFdBUGZoZDhGUmRESEZDcVFycDA0TzJQV0FqMzJEMC1OMjM3WDBSeDllVjd1ajNkODdOSU9OV2ZKOXc",
    "source": "Moomoo",
    "published_at": "2026-11-02T17:50:01+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Moomoo",
      "published_at": "2026-11-02T17:50:01+00:00",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOS13Zlh3OFd6MmZfWTRfcXdweUY1REtaWUtuQ0dKZEJWM2ZjbDB2NjNPNGVDclpUQnpzR3ZYdlNMWjNuNWdsa2pLd20tMGJucVJnXzdTOTBkVkkzWHBzTm9BNFBXcTVjYWxXV0xMUWsxT3d3TTh3RzRDcTdNM1RYUFdBUGZoZDhGUmRESEZDcVFycDA0TzJQV0FqMzJEMC1OMjM3WDBSeDllVjd1ajNkODdOSU9OV2ZKOXc"
+    },
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-11-02T17:50:01+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NSUh2VDVnVTFqcVpTTWtvQjN1d1prNE8yWTc3ZnI4YXZKVU5mM2Y5VXVINHg1cTg1UzhESzR6blBoSEhqcXNDOUpERmtjQ2hx"
     }
    ],
    "category": "其他",
@@ -6269,161 +6376,6 @@
    "zh_summary": "CNN发布英伟达股价预测",
    "title_zh": "CNN：英伟达股价报价与预测",
    "sentiment": 0
-  },
-  {
-   "id": "893a753c960c",
-   "title": "Boehringer, Microsoft, NVIDIA, GSK: This Week in Healthcare - Healthcare Digital",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0UwbmRHc3RROXF1MmMxNXpPNjFmbWZ6VmVCdGIxQ2JkMmU4elhiRnR0TUlENVNmVkIxX0E3UDcyM0F3bUhJMkhEX3BZUy1IRm9OVVV1Q1I0Z25pWkJ4M0Jma0IyMHVzS2FQd2RfbEhFa29laWZxVHV0cndEX3VMTDJqbkJJM3g4S2RHUm5oVjFqWlcxS3c",
-   "source": "Healthcare Digital",
-   "published_at": "2026-10-31T09:01:24+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Healthcare Digital",
-     "published_at": "2026-10-31T09:01:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ0UwbmRHc3RROXF1MmMxNXpPNjFmbWZ6VmVCdGIxQ2JkMmU4elhiRnR0TUlENVNmVkIxX0E3UDcyM0F3bUhJMkhEX3BZUy1IRm9OVVV1Q1I0Z25pWkJ4M0Jma0IyMHVzS2FQd2RfbEhFa29laWZxVHV0cndEX3VMTDJqbkJJM3g4S2RHUm5oVjFqWlcxS3c"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "本周医疗行业动态提及英伟达",
-   "title_zh": "勃林格、微软、英伟达、葛兰素：本周医疗动态",
-   "sentiment": 0
-  },
-  {
-   "id": "9c3a842c4d64",
-   "title": "英伟达重挫，礼来再创历史新高！11月A股市场主线如何切换？两位私募大佬亲自出马，四家百亿级私募盯上30万亿元产业里的潜力公司 - 新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SQ0xNVFFfb1VjZjRkQUFrRkhQM2pHUmc0TXE3bDlnUnYxRTR6d09FdUFxaXRqM1NBZ2ZKTjR4MjBzRVlteTR1Qngxa05sMXpLQS1FRWhUVEpIdjg0a0RfcGl4aU1CMjJiSGhrb1BIeTJWZTRDRWtfNA",
-   "source": "新浪财经",
-   "published_at": "2026-10-31T09:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-31T09:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SQ0xNVFFfb1VjZjRkQUFrRkhQM2pHUmc0TXE3bDlnUnYxRTR6d09FdUFxaXRqM1NBZ2ZKTjR4MjBzRVlteTR1Qngxa05sMXpLQS1FRWhUVEpIdjg0a0RfcGl4aU1CMjJiSGhrb1BIeTJWZTRDRWtfNA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达重挫，礼来创历史新高",
-   "title_zh": "英伟达重挫，礼来再创历史新高",
-   "sentiment": -1
-  },
-  {
-   "id": "aea6de03f281",
-   "title": "英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位 - 搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWc5WlF2TTlDVEdIZ0lmMmRBcUVxSjJFYjE4ZEhwVThXdnZoTHJZVHlEN2lfUmo3MVRSWnNYMjBhRVpBa1o0Z0dzbE96M25uTEhWc2dRVjNkTmxZakJaNklScVU5U1l0UTh4WFNjcnpaMDJhUzdvZDdEZW5YSTNWX3BFaXBSSmNZ",
-   "source": "搜狐网",
-   "published_at": "2026-10-31T08:59:00+00:00",
-   "outlets_count": 6,
-   "outlets": [
-    {
-     "name": "搜狐网",
-     "published_at": "2026-10-31T08:59:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWc5WlF2TTlDVEdIZ0lmMmRBcUVxSjJFYjE4ZEhwVThXdnZoTHJZVHlEN2lfUmo3MVRSWnNYMjBhRVpBa1o0Z0dzbE96M25uTEhWc2dRVjNkTmxZakJaNklScVU5U1l0UTh4WFNjcnpaMDJhUzdvZDdEZW5YSTNWX3BFaXBSSmNZ"
-    },
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-31T08:59:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUhnRlhQdkVxRTUyTVhVVlJyS1NyV0FfZ1M0YmFsdDBWbUlNVDVrQm5lOXYtZ2swcmZqdEF6NUhvOVU2Nk5YUEdiUzJpSFhOU1dEaFl6bk5Ra3pEbkZmVGNBV3pkMEVidFpYZUNsSFJyNjNNblo2UWNzajV5SVlUWkxrWmlMOEtBRlVCVWJJYk94MEJpWk53Zl9GSjNycEk1VnZHVk85QWtQZDBvT0J2d0dyNFZiM0U"
-    },
-    {
-     "name": "手机新浪网",
-     "published_at": "2026-10-31T14:14:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYR2VYaFViZDhpQjJBclpRcUxMeE5rbk9TNWF0b3pVSUpHTmJXcFZPT0JWS2lQelMtLTJIU0hUSVFTSWdDNV82bkJhQQ"
-    },
-    {
-     "name": "财联社",
-     "published_at": "2026-10-31T09:00:59+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrZktEX1E5NmU3akN4MGtYLWRTUk9FdHR6VnowcEFHVU9wRld2SkNXLUlaMzVSTlNkajVtM1YzLVBPQ0tJQUJJSA"
-    },
-    {
-     "name": "新浪财经",
-     "published_at": "2026-10-31T14:25:04+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03VjlGQ2FzeTh4VUJPOTdQUXo4dUxNUGtkSmlMTW1wVERqTU9RbGhqUmJMOGRJM2FUeWV2RXFvWkVEaFl4dHVISHl2a1ZCeXdSRXlyejVwZVY2OXZlbEJrNUl1QnZBS285MWp5OFJpbTUwM3hzSmM4RDRlYXE"
-    },
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-31T14:14:26+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYR2VYaFViZDhpQjJBclpRcUxMeE5rbk9TNWF0b3pVSUpHTmJXcFZPT0JWS2lQelMtLTJIU0hUSVFTSWdDNV82bkJhQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达披露下一代CPO技术",
-   "title_zh": "英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位 - 富途牛牛",
-   "sentiment": 1
-  },
-  {
-   "id": "43d1ea9c16b4",
-   "title": "Nvidia Just Dropped 11% in a Month. Is It Time to Sell, or Load Up? - TIKR.com",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZy1YcXhya191alcwRndwRzR0a2lGT3VPYzJPd3ZBV3ozQkp2U092NW5meUJNOFBRMkNwTjZjVHhkc1ZzaHNEcGplTmFGRGFVMGZhOVB5OTRic3c0SC1oRGplaGh4TTlYeEJEaU1jTkdTMHlMMFF4cmlhRWg1d0ZwX052NGZ4VllkSExvQzNYaE9jaGc",
-   "source": "TIKR.com",
-   "published_at": "2026-10-31T08:54:08+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TIKR.com",
-     "published_at": "2026-10-31T08:54:08+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZy1YcXhya191alcwRndwRzR0a2lGT3VPYzJPd3ZBV3ozQkp2U092NW5meUJNOFBRMkNwTjZjVHhkc1ZzaHNEcGplTmFGRGFVMGZhOVB5OTRic3c0SC1oRGplaGh4TTlYeEJEaU1jTkdTMHlMMFF4cmlhRWg1d0ZwX052NGZ4VllkSExvQzNYaE9jaGc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达一个月下跌11%，该卖出还是加仓",
-   "title_zh": "英伟达一个月跌11%，是卖出还是加仓？",
-   "sentiment": 0
-  },
-  {
-   "id": "8dcb68aaf482",
-   "title": "苹果市值5.03万亿超越英伟达重夺全球第一 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GdGM2RjR6cGt2cnVFTzltdzhSTkNocFBSTVBUNTlzWlZyeHJzS0ctVzF2UFZpUDYxZDhiS0t0dExnYy1DZTFZR0Y0OTRhVC0xUmppTGNrN3Z1cllVTnVsaC0xczFxUmRKUTBoMEUwbzY",
-   "source": "新浪网",
-   "published_at": "2026-10-31T08:43:46+00:00",
-   "outlets_count": 3,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-10-31T08:43:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GdGM2RjR6cGt2cnVFTzltdzhSTkNocFBSTVBUNTlzWlZyeHJzS0ctVzF2UFZpUDYxZDhiS0t0dExnYy1DZTFZR0Y0OTRhVC0xUmppTGNrN3Z1cllVTnVsaC0xczFxUmRKUTBoMEUwbzY"
-    },
-    {
-     "name": "华尔街见闻",
-     "published_at": "2026-10-31T09:10:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42TlptNWtIYkxsaGs5S2pPQ2JPZkI0YXFYUkU5RmNsWUpUWHBhdkJiVGh5M0tpQ0ZmdzlZZThKcXhVNmJmZ0FjZEZzVXV5Q2JuelNF"
-    },
-    {
-     "name": "3DM",
-     "published_at": "2026-10-31T13:41:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuY2ZSZ0FGX09oaTJtZzkxZUxXVW96bERvNU9DVkRsTkRjeXdtTDhJMm9hYkppamhKRTZLRldhUTRRYlQyNEhtYTZFSmVsNExPNWRkMVk0a1VYbDIx"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "苹果市值5.03万亿超英伟达重夺第一",
-   "title_zh": "苹果市值5.03万亿超越英伟达重夺全球第一 - 新浪网",
-   "sentiment": -1
-  },
-  {
-   "id": "12b7692c0057",
-   "title": "NVIDIA Corporation $NVDA Stock Bought by Grove Bank & Trust - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWjRYVHJtOXhld2F5VVNIMUNQZ0JNMmxMUS1OckVmN0JWVXhQZ29wVWNMVnlHSl9QZjRkRFdyYi12dHF4RmV0REFSS3lKY3gteld3WjJkX0hkbTk1TWh6MldWaTA2UTJCVEIxX2diX2N2UnB3b0hPNHZ6R3p4enVwZm54VHZzOHMzNzdhel9SZE5qZTVaQzlLY0FSU1pBRi1aQmcwWU1MTW0wUFJmTUZwMTlGUXlBWnFY",
-   "source": "MarketBeat",
-   "published_at": "2026-10-31T08:27:22+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-10-31T08:27:22+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWjRYVHJtOXhld2F5VVNIMUNQZ0JNMmxMUS1OckVmN0JWVXhQZ29wVWNMVnlHSl9QZjRkRFdyYi12dHF4RmV0REFSS3lKY3gteld3WjJkX0hkbTk1TWh6MldWaTA2UTJCVEIxX2diX2N2UnB3b0hPNHZ6R3p4enVwZm54VHZzOHMzNzdhel9SZE5qZTVaQzlLY0FSU1pBRi1aQmcwWU1MTW0wUFJmTUZwMTlGUXlBWnFY"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Grove银行增持英伟达股票",
-   "title_zh": "Grove Bank & Trust买入英伟达股票",
-   "sentiment": 1
   }
  ]
 }
