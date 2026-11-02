@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-02T19:06:43.505777+00:00",
+ "updated_at": "2026-11-02T19:21:34.901231+00:00",
  "market": {
-  "price": 204.85,
-  "change_pct": 0.11,
+  "price": 204.27,
+  "change_pct": -0.18,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 15
   },
   "day_sentiment": {
-   "avg": 0.01,
-   "count": 129
+   "avg": 0.03,
+   "count": 135
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 54% 分位"
+     "note": "现价处于52周区间 53% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +53.8%"
+     "note": "目标价中位数 $315（17家），隐含空间 +54.2%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.01（129条已评分）"
+     "note": "今日新闻情绪 +0.03（135条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $204.85 vs 20日均线 $219.76"
+     "note": "现价 $204.27 vs 20日均线 $219.73"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 54,
+   "price_52w_pct": 53,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 53.8,
-   "ma20": 219.76,
-   "as_of": "2026-11-02T19:06:43.496592+00:00"
+   "implied_upside_pct": 54.2,
+   "ma20": 219.73,
+   "as_of": "2026-11-02T19:21:34.892472+00:00"
   },
   "pe_ttm": 26.0,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+53.8%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+54.2%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -160,6 +160,23 @@
    "zh_summary": "Anthropic 5年追平英伟达31年成就",
    "title_zh": "Anthropic 5年完成英伟达31年成就，引发2万亿美元疑问",
    "sentiment": -1
+  },
+  {
+   "id": "a3f6ddfbcbbc",
+   "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog - NVIDIA Developer",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSm9sT3U3a3RBZXl2ajhpa0ZVbmJ3cVZwUDdNNjVsc0xVc01VN05vajcxaXJmUjJFNTV5cF9tWi1xbkxLY2ZwdzdrX1UxeXJvSjRjbEgzU1ppMGZrYllHb3hMMVI3TVR2X0FuWk80VHZHM3YzVTJiM1U5TTQwbEM5aEJqUlVqMWNQV3FETmdOYmZLWTRpcUExd01R",
+   "source": "NVIDIA Developer",
+   "published_at": "2026-11-02T18:20:34+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "NVIDIA Developer",
+     "published_at": "2026-11-02T18:20:34+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSm9sT3U3a3RBZXl2ajhpa0ZVbmJ3cVZwUDdNNjVsc0xVc01VN05vajcxaXJmUjJFNTV5cF9tWi1xbkxLY2ZwdzdrX1UxeXJvSjRjbEgzU1ppMGZrYllHb3hMMVI3TVR2X0FuWk80VHZHM3YzVTJiM1U5TTQwbEM5aEJqUlVqMWNQV3FETmdOYmZLWTRpcUExd01R"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "2f8f09acbd0d",
@@ -5961,6 +5978,23 @@
    "sentiment": 1
   },
   {
+   "id": "fa8d2fec1a70",
+   "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc",
+   "source": "WSJ",
+   "published_at": "2026-10-31T12:47:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "WSJ",
+     "published_at": "2026-10-31T12:47:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc"
+    }
+   ],
+   "category": "政策监管",
+   "session": "周末"
+  },
+  {
    "id": "e1fc63e8075e",
    "title": "英伟达在线商店撤下RTX 5080，美国最低报价逼近2000美元 - 3DM",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QM29hUzdtLWNMUlhyZTZJNzc2MFUwdmE4M0JEd2kxMzh0a3dLNnJ1NWFQWTZ5WUVxSWF6SmQyWTFpaE4tcURYNU83dWdjbm1VaW8ycDV5Vl9OV2tR",
@@ -6353,46 +6387,6 @@
    "session": "周末",
    "zh_summary": "1万美元均投SpaceX与英伟达的2030年价值",
    "title_zh": "1万美元均投SpaceX与英伟达，2030年值多少",
-   "sentiment": 0
-  },
-  {
-   "id": "612dbd9f6486",
-   "title": "NVIDIA unveils next-generation CPO technology: Optical engines bypass organic substrates, with prototype samples ready. - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFBJVWVSaWJuU29EbUJTajlabW56emlRQ2JHNElVbTg2NTJDVm9MeU5UU25ZalpmZjYwaDdaVFN1SWxid0hfSXY4VEk1UmRwRVZxZURGbF84X1g3cXAzLWh6V2dBZl82cVIyaml4bGZRUnJ0RVJ0TmRqZ0VUQnp3NjRzOG1ISUN5eDR2czNlUFVXZ3RJNVdrZHRJSUFSNUp2VVVWR3RwNFVUZFVGNlRacTExbHZqVURIam5n",
-   "source": "富途牛牛",
-   "published_at": "2026-10-31T09:02:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "富途牛牛",
-     "published_at": "2026-10-31T09:02:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFBJVWVSaWJuU29EbUJTajlabW56emlRQ2JHNElVbTg2NTJDVm9MeU5UU25ZalpmZjYwaDdaVFN1SWxid0hfSXY4VEk1UmRwRVZxZURGbF84X1g3cXAzLWh6V2dBZl82cVIyaml4bGZRUnJ0RVJ0TmRqZ0VUQnp3NjRzOG1ISUN5eDR2czNlUFVXZ3RJNVdrZHRJSUFSNUp2VVVWR3RwNFVUZFVGNlRacTExbHZqVURIam5n"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达发布下一代CPO技术",
-   "title_zh": "英伟达发布下一代CPO技术，原型样品已就位",
-   "sentiment": 1
-  },
-  {
-   "id": "85b65dd9dba8",
-   "title": "NVDA Stock Quote Price and Forecast - CNN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oakpQaVAtWVg3Rjh6M2FFaExEa1JVeThKN1FIX1p2OG1lWmVaVnhlU3Zsek42ZlRyd055aXc2dGNHa0NxV2RfU1I1dUoweXNi",
-   "source": "CNN",
-   "published_at": "2026-10-31T09:01:29+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "CNN",
-     "published_at": "2026-10-31T09:01:29+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oakpQaVAtWVg3Rjh6M2FFaExEa1JVeThKN1FIX1p2OG1lWmVaVnhlU3Zsek42ZlRyd055aXc2dGNHa0NxV2RfU1I1dUoweXNi"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "CNN发布英伟达股价预测",
-   "title_zh": "CNN：英伟达股价报价与预测",
    "sentiment": 0
   }
  ]
