@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T05:36:35.230817+00:00",
+ "updated_at": "2026-11-03T05:51:30.747603+00:00",
  "market": {
   "price": 202.06,
   "change_pct": -1.26,
@@ -11,7 +11,7 @@
   },
   "day_sentiment": {
    "avg": 0.05,
-   "count": 181
+   "count": 184
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（181条已评分）"
+     "note": "今日新闻情绪 +0.05（184条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 55.9,
    "ma20": 219.62,
-   "as_of": "2026-11-03T05:36:35.218997+00:00"
+   "as_of": "2026-11-03T05:51:30.732082+00:00"
   },
   "pe_ttm": 25.7,
   "pe_pct_5y": 18,
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "1c895793413d",
+   "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM",
+   "source": "Bloomberg.com",
+   "published_at": "2026-11-03T05:39:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Bloomberg.com",
+     "published_at": "2026-11-03T05:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘后"
+  },
   {
    "id": "37f826ab46f9",
    "title": "Form 4 NVIDIA Corporation For: 3 November By Investing.com - Investing.com Nigeria",
@@ -6415,31 +6432,6 @@
    "zh_summary": "苹果超越英伟达重回市值第一",
    "title_zh": "苹果超越英伟达重回市值第一，DeepSeek公布新架构",
    "sentiment": -1
-  },
-  {
-   "id": "bbc119119a72",
-   "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance Australia",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E",
-   "source": "Yahoo Finance Australia",
-   "published_at": "2026-11-01T00:29:18+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "Yahoo Finance Australia",
-     "published_at": "2026-11-01T00:29:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E"
-    },
-    {
-     "name": "Yahoo! Finance Canada",
-     "published_at": "2026-11-02T15:22:35+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "雅虎财经加拿大英伟达股价页",
-   "title_zh": "雅虎财经加拿大英伟达股价、新闻与历史",
-   "sentiment": 0
   }
  ]
 }
