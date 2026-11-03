@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T07:06:26.901457+00:00",
+ "updated_at": "2026-11-03T07:21:35.758489+00:00",
  "market": {
   "price": 202.06,
   "change_pct": -1.26,
@@ -10,12 +10,12 @@
    "days_left": 14
   },
   "day_sentiment": {
-   "avg": 1.0,
-   "count": 3
+   "avg": 0.14,
+   "count": 7
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 1,
+   "score": 0,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 1,
-     "note": "今日新闻情绪 +1.00（3条已评分）"
+     "score": 0,
+     "note": "今日新闻情绪 +0.14（7条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 55.9,
    "ma20": 219.62,
-   "as_of": "2026-11-03T07:06:26.891275+00:00"
+   "as_of": "2026-11-03T07:21:35.748791+00:00"
   },
   "pe_ttm": 25.7,
   "pe_pct_5y": 18,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "b7ea95f6b5a5",
+   "title": "市场传闻：英伟达收紧对云合作伙伴中国业务的限制 - 富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ3FLalY3VXd3TXVxN1pqUm52bEJOX0dKVHhFeHB6SnRjX3VVOEdha3RZQU5aS2l0ZjUzOXhoTG1DVldiRmxhaE5CaGxKVERpaWFScGtVSWgzZGg3OE1xaTZoTVpDczIwNFg5VWZEbFlhMUowQnN3cU1TS1BYN1BNVWZTSFNlcnNSMFhsQ0gwMnRob0ZVLTJhUUdUSXhZTGZJdllUeVJTMmVHMm0yZnFkWHQ4NC1SaHc",
+   "source": "富途牛牛",
+   "published_at": "2026-11-03T07:08:28+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "富途牛牛",
+     "published_at": "2026-11-03T07:08:28+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ3FLalY3VXd3TXVxN1pqUm52bEJOX0dKVHhFeHB6SnRjX3VVOEdha3RZQU5aS2l0ZjUzOXhoTG1DVldiRmxhaE5CaGxKVERpaWFScGtVSWgzZGg3OE1xaTZoTVpDczIwNFg5VWZEbFlhMUowQnN3cU1TS1BYN1BNVWZTSFNlcnNSMFhsQ0gwMnRob0ZVLTJhUUdUSXhZTGZJdllUeVJTMmVHMm0yZnFkWHQ4NC1SaHc"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
+  {
+   "id": "b64101bd8f4a",
+   "title": "Nvidia Tightens Restrictions on Cloud Partners' China Business - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDZOVWNFVXdxRDMyWW1KSE82Y2JxTTZQTWFzeUFzV0MwZzNjdjNkNjBJYWY3NVhRUDZicHNPS3JfZy1jMU1IZEQzd3FyV1RxeEdtYVgwZ1NLMHRBdVpoaFpwX2hDeUgyWldFM2tMaFFrLW95blgxNVFOc1hMbWlFNjJRRGRUNDlyT3lJbjV5SEEyUXRuQzQzbU5XSk92cjNvY2t4a3VTamwwQ0VoTGsyVjRlQVM",
+   "source": "marketscreener.com",
+   "published_at": "2026-11-03T07:07:48+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-11-03T07:07:48+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDZOVWNFVXdxRDMyWW1KSE82Y2JxTTZQTWFzeUFzV0MwZzNjdjNkNjBJYWY3NVhRUDZicHNPS3JfZy1jMU1IZEQzd3FyV1RxeEdtYVgwZ1NLMHRBdVpoaFpwX2hDeUgyWldFM2tMaFFrLW95blgxNVFOc1hMbWlFNjJRRGRUNDlyT3lJbjV5SEEyUXRuQzQzbU5XSk92cjNvY2t4a3VTamwwQ0VoTGsyVjRlQVM"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
+   "id": "d5e2c6f8a774",
+   "title": "Nvidia Advises Cloud Clients to Limit China Exposure Amid Geopol - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUkNqTkJwNUFmWC1MSWtmbmM0VUhiTEF6UDNnSVZIc2RqLVhVWHhRUGx1QkJ1Um9DblZaRWZuakYzSVF5eFZ1Vl9ZMHpfdmdac1RBZ2hvRzFHUEFhOG5INEZPWjBkMDd6ZUJGMkg0Y0JONGpYX0lWOVRxbUY4bG4yUGpnTHUxU0U5VnpzeW9HMWVuMHhjc0NiaVNkV1pNaEw5c3Fyd0ZlVG1DckFOMlpkMmFOTEgwTzd0U29XQUNkVG4",
+   "source": "GuruFocus",
+   "published_at": "2026-11-03T07:07:17+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-11-03T07:07:17+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUkNqTkJwNUFmWC1MSWtmbmM0VUhiTEF6UDNnSVZIc2RqLVhVWHhRUGx1QkJ1Um9DblZaRWZuakYzSVF5eFZ1Vl9ZMHpfdmdac1RBZ2hvRzFHUEFhOG5INEZPWjBkMDd6ZUJGMkg0Y0JONGpYX0lWOVRxbUY4bG4yUGpnTHUxU0U5VnpzeW9HMWVuMHhjc0NiaVNkV1pNaEw5c3Fyd0ZlVG1DckFOMlpkMmFOTEgwTzd0U29XQUNkVG4"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
   {
    "id": "671cb7d65609",
    "title": "Nvidia tells data center partners to limit China sales- FT By Investing.com - Investing.com Nigeria",
@@ -207,12 +258,17 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM",
    "source": "Bloomberg.com",
    "published_at": "2026-11-03T05:39:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Bloomberg.com",
      "published_at": "2026-11-03T05:39:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM"
+    },
+    {
+     "name": "Investing.com",
+     "published_at": "2026-11-03T06:57:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOHZ0cHlReHN5UGZqVnN3TEJTWTBfTEcwY2NWRXhaSlI1ZmFXRHhvekIxLW9xa1FMelp6bHY3RmVRRWxnX2JOVHlDaUVzcm5TUlN0OEhIaXRzUnRpTTZHQXo3UzJZN2dRVnh6U09CMWJHS1RBZ0tpRHNLam85SXRHeGRPdzl0SGxZQ3VqS0dkSkFwTFJzd2s5aENXT3R0LXZuTjlzdEpzemVDcUJFNjIyeWhkVDM"
     }
    ],
    "category": "AI需求",
@@ -2962,6 +3018,23 @@
    "zh_summary": "ETF于10月29日净卖出英伟达",
    "title_zh": "ETF于10月29日净卖出英伟达",
    "sentiment": -1
+  },
+  {
+   "id": "a095bb728856",
+   "title": "$英伟达 (NVDA.US)$ jensen 在英伟达暴跌时 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSG41eWZlc1ByVUJTOUFXbm5ESmkxMkdUbFE5eXYxcG1zU255QV91THFTUV9fcWJyMkxhbHE1RFdHcnRzUDJxRExFMzQ5aDN2SlpqR05ZelMwQnZvaUEwOTVuYTByVVhFS2dFQTh0cGtMLXZrN0htMDJGSDMzdXBSa2Z3dGJmUFpJamlMeW5VUXRLQ2UxNUxBQ19PMFhaZ00",
+   "source": "Moomoo",
+   "published_at": "2026-11-02T11:08:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-11-02T11:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSG41eWZlc1ByVUJTOUFXbm5ESmkxMkdUbFE5eXYxcG1zU255QV91THFTUV9fcWJyMkxhbHE1RFdHcnRzUDJxRExFMzQ5aDN2SlpqR05ZelMwQnZvaUEwOTVuYTByVVhFS2dFQTh0cGtMLXZrN0htMDJGSDMzdXBSa2Z3dGJmUFpJamlMeW5VUXRLQ2UxNUxBQ19PMFhaZ00"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "653e73e66a62",
@@ -6326,125 +6399,6 @@
     "pct": -0.21,
     "window_h": 0.1
    }
-  },
-  {
-   "id": "1efac845cbb9",
-   "title": "英伟达展示下一代CPO技术OOI 原型样品已就位 - 新浪网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50aGp5bUxaYl9qWW1kV2JPUzgwd1lGelIzSjhJcmg3WU9MZDZ4RDdRY2h2WDBOZ1N5UWpua0ZLZlgyLWphS0VTa0ZzSWcxd1QzZkRONkdTbTZ6NXlXbWZwTFpZRUtseHZrVExKMnUtVmQ",
-   "source": "新浪网",
-   "published_at": "2026-11-01T03:40:20+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "新浪网",
-     "published_at": "2026-11-01T03:40:20+00:00",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50aGp5bUxaYl9qWW1kV2JPUzgwd1lGelIzSjhJcmg3WU9MZDZ4RDdRY2h2WDBOZ1N5UWpua0ZLZlgyLWphS0VTa0ZzSWcxd1QzZkRONkdTbTZ6NXlXbWZwTFpZRUtseHZrVExKMnUtVmQ"
-    },
-    {
-     "name": "观点网",
-     "published_at": "2026-11-02T05:57:06+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SMUxPWGNaTTQxbVRtOE1YRXJ1OHltclVoem5xN1FMb2J0QW13MEVhLUlQcDJFM2stWUdjLUNkNVVabDFFUWFTS2toZ0VhWDF0MThrdHZRX092S2YwQnZnVS1R"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达展示下一代CPO技术OOI原型",
-   "title_zh": "英伟达展示下一代CPO技术OOI 原型样品已就位 - 新浪网",
-   "sentiment": 1
-  },
-  {
-   "id": "b9f119c7d2c2",
-   "title": "Trump says US looking 'closely' at report Nvidia CEO target of China spy plot - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVjlhUUw2TzhQMGc4SVhDOEhLdUFDbHpGb3Y5THMzcHdKSXU3RW5pZ1RhcjdGeW9CYWNGTjZBeG1HeUxyX0ZkUTlna2E5MHpyLWtlU3ZzS3JXQzNMWVZKR0ZQbHkwbmUtNExQcFZRbmoyNjlqOWNvb0VsRy10eU84eWw5QlRKdGZzQTYwOEdPemRQd2M",
-   "source": "Yahoo",
-   "published_at": "2026-11-01T03:39:00+00:00",
-   "outlets_count": 7,
-   "outlets": [
-    {
-     "name": "Yahoo",
-     "published_at": "2026-11-01T03:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVjlhUUw2TzhQMGc4SVhDOEhLdUFDbHpGb3Y5THMzcHdKSXU3RW5pZ1RhcjdGeW9CYWNGTjZBeG1HeUxyX0ZkUTlna2E5MHpyLWtlU3ZzS3JXQzNMWVZKR0ZQbHkwbmUtNExQcFZRbmoyNjlqOWNvb0VsRy10eU84eWw5QlRKdGZzQTYwOEdPemRQd2M"
-    },
-    {
-     "name": "Bangkok Post",
-     "published_at": "2026-11-01T03:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNFFMaDhscmpJQlJVYmJOaG0xR09yT3Ryd0w4RUxwNVdoQVNDb2s3OHE2YXdOMWEwTG1NSUhEeWo0QU4zdmdyZzZNQ1VwdDJaUDJEcV9DZ3dXZjR5M2tlck90WG5qV25XcG9yMkpQNFZ4aHVlUHo2UUYzUUQxdUJHcDBzT0FodXBrYm1PcUJTSWxBMG1udHIyQmRzcFNxOFNvQUpvT1hnMTdhMHdTenVPY2ZZVllGS28t"
-    },
-    {
-     "name": "RFI",
-     "published_at": "2026-11-01T03:42:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEpnZjA2Q1FlYVZSUHJuRms5WEJMOUdvdENDU0hHb202S2RlVjhuaHktWUtsd2tSbDhrUTlXRTJ5NDRreDNwcFcxQW9FUVo0Q0lybEFKOWhITVgxNUtuYjZJVzc1TTJ4TnFHdnI3cVpvY0h1cFd3YzQwTlZiYWJtZFZzNHJQS0hRNkRYSW0tbDVsYjM0eFRPd0FXWG01ajFTQ2hCMFlvclNVMHQzYkU0VU0wUTBhZHBjbTNvMkRJVDYxVHc"
-    },
-    {
-     "name": "A News",
-     "published_at": "2026-11-01T08:29:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVNLN0ExME5uNG84SkZNeElIT3paN2VMTDJwanA5bWttNGJybThzeHU2MGtReERUZmJGcHVYN2dfZ0pSNTcxNm1QMFBYZi1Cdk1rSUFSeDBXUGVTQ1NNTXppQU1laUJESi03LXYxYl9uamdLWVBMc1lLNEJ1TnB5VUpMdHJoQlhCZVRxSEJ5Tmg2d3F2S3VqcmdEMXh1MnRqWlNDWlpnN2tPMUZsSlRILWVWNU82ZUVi0gG-AUFVX3lxTE02czFvYUtIYnRWNGJiY1dLZE54MFdXTmJHbWtWbUJfb1paZzlwaGFleVo0YW05bWpuajdtY0ZOTVRkSmcwRlowTFdfSTIyQWlnejZja0t3M0hBbVZpMWl2OHBoS0k2d2pfenM3b2QxbW1mdWFEZmgwel9MVFQ0R0hVRHIydHBFZmlyWW9MMnVzMVlxRWpld0ZKWDFHdHBMTWdHTWFaY3g0Y3ZxcTl5U3dCMmh1cnhRNjJxYnhUS2c"
-    },
-    {
-     "name": "The Straits Times",
-     "published_at": "2026-11-01T04:10:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXBYT05XUWlGeHBrdEdzeThRQkJwbklYa0tsNWU0VTJ2YlZmekhhVjY1RmFSN29qUnBlcldubENzUjRoR3hqdzJPSDNsU3ItbVlLR2tJWG1mMDJRbV9VUXg2anFuU3BuQVRhQzZfdkRMUGQwRTZuWVo5VUpCUmtHZmxVZ2hmUnlDbUR6QmlxenlJSEJYRzJNZGhqRUtPcDJZWlpwQVhzUnVVX0JJclVuajdETlhMRTc4ZlJrc0dxMDJ1QQ"
-    },
-    {
-     "name": "France 24",
-     "published_at": "2026-11-01T03:41:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOEE3dkhIdXVCUzZkV3RVaFg4NC1NTFJEaVBsamd2RUFtVkoxSTRfMkVWbmdKVDJETDVsZTdYTTdZOEdTSnVYYy1IS3NhN1UwTS1xRjZsV0RVZWJ4ZkZNS09FMXZyOUdiOERmdU56bUtKaUNlcUxyaVFNUUZlRDMyMWRCek5EQWthY3JCNGF0STBGV2Z5XzM4elVuV0trT1lNaWhCb2ItcE56aUNqV1F2TlluU1kzZEk2TnNfSkJacw"
-    },
-    {
-     "name": "CNA",
-     "published_at": "2026-11-01T05:06:24+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0JLUkYtZ0oya2Qxb1lXOVNWcU1BcG0yQ3hfVU42cTNJNWdQY0RPazZNZnBaTUhiSmp0QkhjN05RTWtMa1QwRTZhbzZ1c3AxSXNqc1h4R252WWd4VGtfdHZxek5WSkY3SFVUM2lMUXRCX3lsWHpVMjRJcEdiWllOZ19CaHdPNlFWemhqaGJGemJCSUJsWko0OWhLRm45N0IwN3lBS2ZBTmZEX0MxVXhucXBRdE4"
-    }
-   ],
-   "category": "政策监管",
-   "session": "周末",
-   "zh_summary": "特朗普称密切关注英伟达CEO间谍阴谋报道",
-   "title_zh": "特朗普称美国正密切关注英伟达CEO成中国间谍阴谋目标的报道",
-   "sentiment": -1,
-   "price_reaction": {
-    "pct": -0.21,
-    "window_h": 0.1
-   }
-  },
-  {
-   "id": "852cf407edb0",
-   "title": "Apple reclaims world's most valuable company title as Nvidia slips amid AI investment concerns - The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPai02aDk3MjYwcDZ5d0p6QXhISWV3aGhnUE5jV1RSMjNrSE1QNjBNR1VzNFVNa05pM29aU2N6aFV1SzBwWFJ2SGlRekZtaDFBV1U0Z2RSdGNWemozTGVBTUlDUm9tTklxbjJjQTNvMDA1UnA2MnI3YmJsTjVwa3d4TXBNVGdTa2xCb0FOTDZaWlNzR2hoakZMaW9mSHhSZVFCcWlJUUxYTVBISF91S1J3eFJ2MDBQZFVhS0dZWlBRZ3NxVzhPZ1BNNkRzYzUtdThjWENTc0JHamJvakpySWdVYzA1Z0NKMXBkRmZvbWNNTXlfUzc3emdzV1NjUE9pcWYyM3RUb05BWUFWVlpSWGxfc09DNk9YQdIBmwJBVV95cUxNaUFTRW5sMU1Pa2VGOHZTTWVPUFY0Q0piMm94c2s3NUtuR0t5cDRWeDQtZlVhUVJyR0p6S2ZYVjloTDRfS0Z3bmd6ejNJTW9MY01DRkNoMjhCNkM1TlFKLWUxVEl0ektzWXljRk5NRFRDeUJLX1FrYnpoOXJadDgxbU9DYW1FVEVlTUFaS3dGT0pMV2VlMl9kcGFKUnlqYVlmb1VQLXd5UTAzQlRCUmE5ajlRelQwSm9Bd044UENxTV91akVxZWRCd3R5OHRwcmIxV3o5VDdqU1BkT01CV0pHdXJscS1ZUS1BYlZrZmM0Tm5WVnFGRldxZl9iMGZuRzZXdnhtaS1UYVBpTUd5OE91YzR3VHczOC1mQzVZ",
-   "source": "The Times of India",
-   "published_at": "2026-11-01T03:31:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "The Times of India",
-     "published_at": "2026-11-01T03:31:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPai02aDk3MjYwcDZ5d0p6QXhISWV3aGhnUE5jV1RSMjNrSE1QNjBNR1VzNFVNa05pM29aU2N6aFV1SzBwWFJ2SGlRekZtaDFBV1U0Z2RSdGNWemozTGVBTUlDUm9tTklxbjJjQTNvMDA1UnA2MnI3YmJsTjVwa3d4TXBNVGdTa2xCb0FOTDZaWlNzR2hoakZMaW9mSHhSZVFCcWlJUUxYTVBISF91S1J3eFJ2MDBQZFVhS0dZWlBRZ3NxVzhPZ1BNNkRzYzUtdThjWENTc0JHamJvakpySWdVYzA1Z0NKMXBkRmZvbWNNTXlfUzc3emdzV1NjUE9pcWYyM3RUb05BWUFWVlpSWGxfc09DNk9YQdIBmwJBVV95cUxNaUFTRW5sMU1Pa2VGOHZTTWVPUFY0Q0piMm94c2s3NUtuR0t5cDRWeDQtZlVhUVJyR0p6S2ZYVjloTDRfS0Z3bmd6ejNJTW9MY01DRkNoMjhCNkM1TlFKLWUxVEl0ektzWXljRk5NRFRDeUJLX1FrYnpoOXJadDgxbU9DYW1FVEVlTUFaS3dGT0pMV2VlMl9kcGFKUnlqYVlmb1VQLXd5UTAzQlRCUmE5ajlRelQwSm9Bd044UENxTV91akVxZWRCd3R5OHRwcmIxV3o5VDdqU1BkT01CV0pHdXJscS1ZUS1BYlZrZmM0Tm5WVnFGRldxZl9iMGZuRzZXdnhtaS1UYVBpTUd5OE91YzR3VHczOC1mQzVZ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "苹果反超英伟达成全球市值第一",
-   "title_zh": "苹果反超英伟达重夺全球市值第一",
-   "sentiment": -1
-  },
-  {
-   "id": "58028703c9fb",
-   "title": "Nvidia Cuts Vera Rubin HBM4 Bandwidth 13% [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVZsUmtIcW13R3VxOVJOT2s1Qm9fRUgzcF9VNGFIUjdpc3JYbXZjRmVWUmtPcXJCVTZ2TDVTS3RKbGlyWjNhYktOOHprazZ0TXBiZ2I0Z3ZCeHpCRGVfMG9CSFc3WWxyN1RfZC1oMll3QjVaeXpCc2VCdlA1TTlNNTItSFJ3UQ",
-   "source": "shattered.io",
-   "published_at": "2026-11-01T03:16:53+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-11-01T03:16:53+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVZsUmtIcW13R3VxOVJOT2s1Qm9fRUgzcF9VNGFIUjdpc3JYbXZjRmVWUmtPcXJCVTZ2TDVTS3RKbGlyWjNhYktOOHprazZ0TXBiZ2I0Z3ZCeHpCRGVfMG9CSFc3WWxyN1RfZC1oMll3QjVaeXpCc2VCdlA1TTlNNTItSFJ3UQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "英伟达削减VeraRubin HBM4带宽13%",
-   "title_zh": "英伟达削减Vera Rubin HBM4带宽13%",
-   "sentiment": -1
   }
  ]
 }
