@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-03T19:36:35.333153+00:00",
+ "updated_at": "2026-11-03T19:51:32.929674+00:00",
  "market": {
-  "price": 206.91,
-  "change_pct": 2.4,
+  "price": 206.79,
+  "change_pct": 2.34,
   "as_of": "2026-11-03",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 14
   },
   "day_sentiment": {
-   "avg": 0.12,
-   "count": 123
+   "avg": 0.2,
+   "count": 149
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +52.2%"
+     "note": "目标价中位数 $315（17家），隐含空间 +52.3%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.12（123条已评分）"
+     "note": "今日新闻情绪 +0.20（149条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $206.91 vs 20日均线 $218.00"
+     "note": "现价 $206.79 vs 20日均线 $218.00"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 56,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 52.2,
+   "implied_upside_pct": 52.3,
    "ma20": 218.0,
-   "as_of": "2026-11-03T19:36:35.317310+00:00"
+   "as_of": "2026-11-03T19:51:32.914607+00:00"
   },
   "pe_ttm": 26.3,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.2%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.3%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "bcb85b299301",
+   "title": "Nvidia Stock Climbs Amid Oil Price Drop - Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkRBWndlcW94T2ROTWJiRmlkekZxaXdrQ0pZTHJpY01BNmFBeHZORGJ2MG5haXpCaVhwSlZRLXlwSWQzUDRFdDMtNDQzblVIUXloSTlSQTcyb3F2c1JObFExRFQ1YlVxcHhkaVBpNVM5SVZGZVhhUmFJWkJ5UHhFY0tKTTJIUlJnQ0hyc1p4VVBoT2c2VjNBdklMQlRNZkxtNGc",
+   "source": "Benzinga",
+   "published_at": "2026-11-03T19:43:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Benzinga",
+     "published_at": "2026-11-03T19:43:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkRBWndlcW94T2ROTWJiRmlkekZxaXdrQ0pZTHJpY01BNmFBeHZORGJ2MG5haXpCaVhwSlZRLXlwSWQzUDRFdDMtNDQzblVIUXloSTlSQTcyb3F2c1JObFExRFQ1YlVxcHhkaVBpNVM5SVZGZVhhUmFJWkJ5UHhFY0tKTTJIUlJnQ0hyc1p4VVBoT2c2VjNBdklMQlRNZkxtNGc"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
+   "id": "3d0a011e4aa6",
+   "title": "Nvidia CEO Backed Marvell’s $115 Billion Lumentum Deal - TipRanks",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbDI3c0hkSF9NUjA3dVJHNnk0NkFvYUhTM3NHWEtpZDhqbUxVQmtTZjJ3NEFIdmNFX01tNTdBMUVOcUVNbUljaHdMZi04azVja2otQzhxWlFHaFlMZ2IycnRQNXg1T1kwT3F5bk9uY0pRdThrTVVoNlp1ZzB3Q1NQQThLN3BWNUVOc0E",
+   "source": "TipRanks",
+   "published_at": "2026-11-03T19:03:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TipRanks",
+     "published_at": "2026-11-03T19:03:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbDI3c0hkSF9NUjA3dVJHNnk0NkFvYUhTM3NHWEtpZDhqbUxVQmtTZjJ3NEFIdmNFX01tNTdBMUVOcUVNbUljaHdMZi04azVja2otQzhxWlFHaFlMZ2IycnRQNXg1T1kwT3F5bk9uY0pRdThrTVVoNlp1ZzB3Q1NQQThLN3BWNUVOc0E"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
   {
    "id": "d9504fc22649",
    "title": "NVIDIA Rises 3% Despite AI CEO’s Warning on Chinese Chip Competition; AMD Climbs 5%, Broadcom Gains 3% - Yahoo Finance",
@@ -297,13 +331,13 @@
    ],
    "category": "其他",
    "session": "盘中",
+   "zh_summary": "分析称英伟达当前极具吸引力",
+   "title_zh": "英伟达当前极具吸引力，原因在此",
+   "sentiment": 1,
    "price_reaction": {
     "pct": -0.76,
     "window_h": 1.9
-   },
-   "zh_summary": "分析称英伟达当前极具吸引力",
-   "title_zh": "英伟达当前极具吸引力，原因在此",
-   "sentiment": 1
+   }
   },
   {
    "id": "7b3ea8b23c31",
@@ -424,6 +458,23 @@
    "zh_summary": "英伟达CEO批准Marvell大收购",
    "title_zh": "英伟达CEO批准Marvell收购Lumentum",
    "sentiment": 0
+  },
+  {
+   "id": "cae19457b2cd",
+   "title": "Nvidia Stock Price Today: NVDA Rebounds 3% From $200 Support Level - Coinpedia",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHlWVUxvODMyR0hTd3FycDlMc1FYd0djV00tZWRHbTQtTjVNMTYybEJXRDR2ZnpQV3l6Ri1mRHBnVEhlelVteUp6MExjSGhqMWZZUFl1akQ1THB4cUhKVkE2RlN6dFVhd3E5TDRxTlQ4bEZTMDUtWXF0M3ZBMWpVTnV5Vy1NQXM1c3o3MG5FeWdmVjBqcjhNdkVxeDY3WjlLeDkyckN30gGrAUFVX3lxTE54cWdtLWp6UVpsTGJXTVRBQU0xd0pNeEVfZTJzdTRfYkRRazB5aldSbkt3cUt0TVp5LU1HSzd5V29fcmpNZVhUNVdYeW50R201RHJZX2ZpUTItakJoNGJfQXBFRUEzdDBhSlBsN3BEQjRwQnlPay1GcElMSVRLWFhleFdQV1A4ZnRpSFRwZlp0dVp0bVZmbUZ1Tmpib2xQVWNiVnc1UEFEZVdOVQ",
+   "source": "Coinpedia",
+   "published_at": "2026-11-03T16:40:27+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Coinpedia",
+     "published_at": "2026-11-03T16:40:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHlWVUxvODMyR0hTd3FycDlMc1FYd0djV00tZWRHbTQtTjVNMTYybEJXRDR2ZnpQV3l6Ri1mRHBnVEhlelVteUp6MExjSGhqMWZZUFl1akQ1THB4cUhKVkE2RlN6dFVhd3E5TDRxTlQ4bEZTMDUtWXF0M3ZBMWpVTnV5Vy1NQXM1c3o3MG5FeWdmVjBqcjhNdkVxeDY3WjlLeDkyckN30gGrAUFVX3lxTE54cWdtLWp6UVpsTGJXTVRBQU0xd0pNeEVfZTJzdTRfYkRRazB5aldSbkt3cUt0TVp5LU1HSzd5V29fcmpNZVhUNVdYeW50R201RHJZX2ZpUTItakJoNGJfQXBFRUEzdDBhSlBsN3BEQjRwQnlPay1GcElMSVRLWFhleFdQV1A4ZnRpSFRwZlp0dVp0bVZmbUZ1Tmpib2xQVWNiVnc1UEFEZVdOVQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "d3cd5b6081a6",
@@ -1993,12 +2044,17 @@
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTWRIdU5sZ2luaUo5UXhFV2RmMENCanpZSEI2TmYxTXg4Z0lLZ2cyOGlsUVFBUWI2VmpQSGpBMWRFcFFEdVkzS2xOcHZqZ1pLcEVJLVZoOHpKWndSem5LM0VEY3gzMThDWDF6dDhMcEpiMVhqWGNZdlliY1VzdXNHcEh3X0I0ZEpwbFRKOG9RRDdzSUZIVElpUjk4d0E4NnhwRWZSN1FQdHFBQUpjTWxjanlUbTIxZ0RXVmEyOW90Nk1MbndMbjFXbzZEUS02enQwcHZXeUNIcmJQSXR1T1BySFh6WEFRN1JRTUszdk82aWZLSXZpd0l3",
    "source": "24/7 Wall St.",
    "published_at": "2026-11-03T11:22:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "24/7 Wall St.",
      "published_at": "2026-11-03T11:22:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTWRIdU5sZ2luaUo5UXhFV2RmMENCanpZSEI2TmYxTXg4Z0lLZ2cyOGlsUVFBUWI2VmpQSGpBMWRFcFFEdVkzS2xOcHZqZ1pLcEVJLVZoOHpKWndSem5LM0VEY3gzMThDWDF6dDhMcEpiMVhqWGNZdlliY1VzdXNHcEh3X0I0ZEpwbFRKOG9RRDdzSUZIVElpUjk4d0E4NnhwRWZSN1FQdHFBQUpjTWxjanlUbTIxZ0RXVmEyOW90Nk1MbndMbjFXbzZEUS02enQwcHZXeUNIcmJQSXR1T1BySFh6WEFRN1JRTUszdk82aWZLSXZpd0l3"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-03T11:22:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWlwR2V4RURveTFDTzdKcFl0TGoxLUsycERCMXdxb0owVVhDbTJLVE9VVFZidmxmWjdTRmQtaHZsRTZadHFWM1c1R21SMHdVN2VtUUFDTld3MWJKQzVFNE00YURGRlBldl9HZTZpWURhSXg2MnA2X1hRUFpNS0RzQkpsOTM3QlFUMGZybnZB"
     }
    ],
    "category": "其他",
@@ -2394,6 +2450,23 @@
    "zh_summary": "Sacks公司买入14570股英伟达",
    "title_zh": "Sacks公司买入14570股英伟达股票",
    "sentiment": 1
+  },
+  {
+   "id": "472ae61e9b36",
+   "title": "NVIDIA Corporation $NVDA Stock: Sherry Group Inc. Decreases Position - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY01aQWRnc1QyMEpjQS1jRldhbS13NC1KV0JlYWJKVjBJUHVlcXhYVS1GM2Jua2VmWnJFQVVEMjBtNUM5OUZQaU11MTZUcjRIV0Y0WERkbjlSbWgtekU5OTlfNnlQN3F3X2V6RHZfRnplcjBjLXJUM21BQ0s0dTEzVW95UjBLTjg3My1tUHdickFjNmd5cjRsU255cXdEaUR0dnM2YW5mYldFUGY5S21rTDc3eEpFZWFqd1hrSWJFVEtQMUU1",
+   "source": "MarketBeat",
+   "published_at": "2026-11-03T09:38:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-03T09:38:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY01aQWRnc1QyMEpjQS1jRldhbS13NC1KV0JlYWJKVjBJUHVlcXhYVS1GM2Jua2VmWnJFQVVEMjBtNUM5OUZQaU11MTZUcjRIV0Y0WERkbjlSbWgtekU5OTlfNnlQN3F3X2V6RHZfRnplcjBjLXJUM21BQ0s0dTEzVW95UjBLTjg3My1tUHdickFjNmd5cjRsU255cXdEaUR0dnM2YW5mYldFUGY5S21rTDc3eEpFZWFqd1hrSWJFVEtQMUU1"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "24a211d399c8",
@@ -3873,6 +3946,23 @@
    "sentiment": 0
   },
   {
+   "id": "f856d4981edb",
+   "title": "英伟达/谷歌/英特尔接连出手，物理AI打响基础设施之争 - 信息化观察网",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sVnJwVFhuZXRJWmtiZEw0dEw2Q1VTdE0wYmtXekVOYVhZYXo4YkNUOTJFQzdvUGtVN05qY1hTTS1ldE1md0U2Ykt4OHRLMERDM2JTMnFMZ3hBeGtYVWNMNA",
+   "source": "信息化观察网",
+   "published_at": "2026-11-03T01:08:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "信息化观察网",
+     "published_at": "2026-11-03T01:08:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sVnJwVFhuZXRJWmtiZEw0dEw2Q1VTdE0wYmtXekVOYVhZYXo4YkNUOTJFQzdvUGtVN05qY1hTTS1ldE1md0U2Ykt4OHRLMERDM2JTMnFMZ3hBeGtYVWNMNA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "6ba2c246db38",
    "title": "英伟达拟采购“不粘锅”材料特氟龙，解决下一代AI芯片信号瓶颈 - 机核GCORES",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41LTlHWEh6LThnLUo1Ti1XQ0RUbm5FQnhYVnVTaXZUR1BvMTdMS2plNWFLLXlDM294MmcwX2ZVVk1hMkxYX1dTNU1GdFI1aXM",
@@ -4502,6 +4592,23 @@
    "zh_summary": "英伟达股价涨1.7%，Rubin规格差距引关注",
    "title_zh": "英伟达股价涨1.7%，Rubin规格差距使焦点转向负载测试",
    "sentiment": 1
+  },
+  {
+   "id": "2ba7fafeca61",
+   "title": "Nvidia Stock Is Rebounding but Stock Chart Is Really Ugly - Barron's",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVM2cFd2cHpQRW5qUmlXUGhLMlBHTUc5aVgtSTNGZFNDcGZXM3N6aUR6ZVVCZ3ZUSkdwRi15d2lhOHJTWXAxc2N0RXJ6M0x3U3hBVk5yTktPcS12Rl85b3d0aUN5cVpSUEJaTFlWM2ItUloxcEExTHN1cU9ienBTak5DeDQ",
+   "source": "Barron's",
+   "published_at": "2026-11-02T18:01:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Barron's",
+     "published_at": "2026-11-02T18:01:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVM2cFd2cHpQRW5qUmlXUGhLMlBHTUc5aVgtSTNGZFNDcGZXM3N6aUR6ZVVCZ3ZUSkdwRi15d2lhOHJTWXAxc2N0RXJ6M0x3U3hBVk5yTktPcS12Rl85b3d0aUN5cVpSUEJaTFlWM2ItUloxcEExTHN1cU9ienBTak5DeDQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "30d69731e9a4",
@@ -6400,126 +6507,6 @@
    "session": "盘前",
    "zh_summary": "微软英伟达等50家美企阻止OKX代币化股票",
    "title_zh": "微软、英伟达、摩根大通等50家美国巨头阻止OKX代币化股票",
-   "sentiment": 0
-  },
-  {
-   "id": "a675da770566",
-   "title": "Nvidia reportedly misses key GeForce RTX 5080 24GB deadline, jeopardising expected launch plan - Club386",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1k0ZThBZV8tT1JYRXVlcUpFMzJKYVl5Zm5iaW4zZHBval8yUC1NNFdjcEJRU2N3cjJDVVgtZTBJc2xTV3BkWUpnRHVaMWFGLTlOazdCT0wteXZQcXkxM1hHVlVscGNtLWRCN3l5RDNxQkdwb2Z1czFDSXRXald0LXlUWXY",
-   "source": "Club386",
-   "published_at": "2026-11-02T10:24:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Club386",
-     "published_at": "2026-11-02T10:24:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1k0ZThBZV8tT1JYRXVlcUpFMzJKYVl5Zm5iaW4zZHBval8yUC1NNFdjcEJRU2N3cjJDVVgtZTBJc2xTV3BkWUpnRHVaMWFGLTlOazdCT0wteXZQcXkxM1hHVlVscGNtLWRCN3l5RDNxQkdwb2Z1czFDSXRXald0LXlUWXY"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达RTX 5080 24GB错过关键期限",
-   "title_zh": "英伟达据报错过RTX 5080 24GB关键期限，发布计划受影响",
-   "sentiment": -1
-  },
-  {
-   "id": "71586d661249",
-   "title": "Trump Says He’ll ‘Check Closely’ on Nvidia’s Jensen Huang After China Spy Report - Open Magazine",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3N0bk5tckZCejQ3X2NZM0lWQnBOTE1IaTZNTXRmYXRKcmg2N1F3VFpEM2tMOTNxNzhINHhUY1E4eG5Mb3JZUXVuVmp4WGJ4UHFTaWx6Z09IMUd2aGRpX2haVDVPQlVzQmtWQkJqN1dNTzlTbEJKMGFpYTV3ZDlnSFVWMVpFbmNpQlFXZjU3UDFEYWNXTTZJaFkyWjM2MTE3X2xCYkhCMVpGNzM4Xy0w",
-   "source": "Open Magazine",
-   "published_at": "2026-11-02T10:22:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Open Magazine",
-     "published_at": "2026-11-02T10:22:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3N0bk5tckZCejQ3X2NZM0lWQnBOTE1IaTZNTXRmYXRKcmg2N1F3VFpEM2tMOTNxNzhINHhUY1E4eG5Mb3JZUXVuVmp4WGJ4UHFTaWx6Z09IMUd2aGRpX2haVDVPQlVzQmtWQkJqN1dNTzlTbEJKMGFpYTV3ZDlnSFVWMVpFbmNpQlFXZjU3UDFEYWNXTTZJaFkyWjM2MTE3X2xCYkhCMVpGNzM4Xy0w"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "特朗普称将就中国间谍报道关注黄仁勋",
-   "title_zh": "特朗普称在中国间谍报道后将密切关注黄仁勋",
-   "sentiment": -1
-  },
-  {
-   "id": "275bb48963ba",
-   "title": "Wall Street Veteran Dumps Most of His NVIDIA Stake, Warns of AI Spending Slowdown - Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdVNKTjE2bjVjcnV4TGFRNlFIc2dja0V4T0lVZ0ZPXzNMbEw2UmJ5QjQxRE1NYzhRRko4R09SOFBrRDFlV2hGaG9LemtBUUtsc3hiTENFSHZPRU9CdWg1eFZ2cUFIY3lBdnZPQUhPZ3JuSGJUTlNvMl8tRnEwbzRHUUUwOEdUai1xQUtIbThVN0V3NDFYVUcwclVLWW9sUUtyOGgyaDBIbVk3N2EyR3V0MlNrbklINFVTTUNfUk5DNm4tRHlHaDVkTWc4NXVaTXFjMnc",
-   "source": "Benzinga",
-   "published_at": "2026-11-02T10:10:37+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Benzinga",
-     "published_at": "2026-11-02T10:10:37+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdVNKTjE2bjVjcnV4TGFRNlFIc2dja0V4T0lVZ0ZPXzNMbEw2UmJ5QjQxRE1NYzhRRko4R09SOFBrRDFlV2hGaG9LemtBUUtsc3hiTENFSHZPRU9CdWg1eFZ2cUFIY3lBdnZPQUhPZ3JuSGJUTlNvMl8tRnEwbzRHUUUwOEdUai1xQUtIbThVN0V3NDFYVUcwclVLWW9sUUtyOGgyaDBIbVk3N2EyR3V0MlNrbklINFVTTUNfUk5DNm4tRHlHaDVkTWc4NXVaTXFjMnc"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "老将抛售英伟达并警告AI支出放缓",
-   "title_zh": "华尔街老将抛售多数英伟达股份，警告AI支出放缓",
-   "sentiment": -1
-  },
-  {
-   "id": "fd019da31351",
-   "title": "$英伟达 (NVDA.US)$ 不客气。 - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGQ1M2JLczd6aGJCVXZsdVNxTE1kb1c2Umw5MW5jQ0l1ejc2R1pCOTRZd0p3Y3BrbDJGcTlsd3lkakpIYmRWX1REWlAtb0oyNlpsVkxGZTVBWktFRzhQejJtcFI0WmZTQnJabzh5eUJpajZTSUdib01ycVdYTENlaUZROGN3MVR5Wi1NdC1TTFlsVEJu",
-   "source": "Moomoo",
-   "published_at": "2026-11-02T10:04:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-11-02T10:04:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGQ1M2JLczd6aGJCVXZsdVNxTE1kb1c2Umw5MW5jQ0l1ejc2R1pCOTRZd0p3Y3BrbDJGcTlsd3lkakpIYmRWX1REWlAtb0oyNlpsVkxGZTVBWktFRzhQejJtcFI0WmZTQnJabzh5eUJpajZTSUdib01ycVdYTENlaUZROGN3MVR5Wi1NdC1TTFlsVEJu"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达帖文标题为不客气",
-   "title_zh": "$英伟达 (NVDA.US)$ 不客气。 - Moomoo",
-   "sentiment": 0
-  },
-  {
-   "id": "072de74fd220",
-   "title": "$NVIDIA (NVDA.US)$ You are welcomed. - Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkpyVW5lX1pjSGhIaDFTR1VjOW5taEZQeHluWUJtSTYzZUFyMEk4c1pMRVkteEh2N3dZejFaaWh6Umd6U2pEc2k0RGR1Si1PVXJRTXRtUjZMQkhWU25oWjY4YUdKQ0lZLXRDNkhjeGNIbU9LSjFnTjE1TW1MVUMzMkw0OGlGMVMtc0JHSC1n",
-   "source": "Moomoo",
-   "published_at": "2026-11-02T10:04:09+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Moomoo",
-     "published_at": "2026-11-02T10:04:09+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkpyVW5lX1pjSGhIaDFTR1VjOW5taEZQeHluWUJtSTYzZUFyMEk4c1pMRVkteEh2N3dZejFaaWh6Umd6U2pEc2k0RGR1Si1PVXJRTXRtUjZMQkhWU25oWjY4YUdKQ0lZLXRDNkhjeGNIbU9LSjFnTjE1TW1MVUMzMkw0OGlGMVMtc0JHSC1n"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Moomoo欢迎英伟达",
-   "title_zh": "Moomoo：欢迎英伟达",
-   "sentiment": 0
-  },
-  {
-   "id": "eef5ed1d6468",
-   "title": "Board Partners Reportedly Still Await NVIDIA GeForce RTX 5080 24 GB GPU Kits - TechPowerUp",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzNQUTk5QzFJYVBSV3ZnelY1SHpvQktsWjNuQmpnSURUWk9scmJ2RXBOZHhXU1otVHAxSVdRMHZGNFdGbUQzc3F2a3hXOWd3R0ZldDctZXVJTDBkUkRSdEU1dGtQaFowRERWaVBqQXR2V014VGw1WjhkbHNGRU5hWTd5TTFlbUJINEQ2aGVXcTZBS2Q2dDhmbGJJdndpVkx2RzctOTBueWwxZGRHRzBmRdIBtgFBVV95cUxNRGNRN19DMllYVEtIUTZDd1BKS0stQ3ByR3RfTTlERkhKVGN5UVJBbWdlRS1nRDlJMW5iOHFQQ2c3cG42SnpkMEl5SmJyTmU2X1JrOVFZMlpVVy02TjdkWVFzbnRtWHhMdTUzYjlsWkE2UnNWM01PNU8xUnhKc1BCUnl4Q19SRXJudVJDdlZKb1JINVJKQVU4S1VXT2xDOUUwRWVZNy1sVG90YjF3elA5TWx4ZDduZw",
-   "source": "TechPowerUp",
-   "published_at": "2026-11-02T10:00:44+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "TechPowerUp",
-     "published_at": "2026-11-02T10:00:44+00:00",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzNQUTk5QzFJYVBSV3ZnelY1SHpvQktsWjNuQmpnSURUWk9scmJ2RXBOZHhXU1otVHAxSVdRMHZGNFdGbUQzc3F2a3hXOWd3R0ZldDctZXVJTDBkUkRSdEU1dGtQaFowRERWaVBqQXR2V014VGw1WjhkbHNGRU5hWTd5TTFlbUJINEQ2aGVXcTZBS2Q2dDhmbGJJdndpVkx2RzctOTBueWwxZGRHRzBmRdIBtgFBVV95cUxNRGNRN19DMllYVEtIUTZDd1BKS0stQ3ByR3RfTTlERkhKVGN5UVJBbWdlRS1nRDlJMW5iOHFQQ2c3cG42SnpkMEl5SmJyTmU2X1JrOVFZMlpVVy02TjdkWVFzbnRtWHhMdTUzYjlsWkE2UnNWM01PNU8xUnhKc1BCUnl4Q19SRXJudVJDdlZKb1JINVJKQVU4S1VXT2xDOUUwRWVZNy1sVG90YjF3elA5TWx4ZDduZw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "板卡伙伴仍待RTX 5080 24GB套件",
-   "title_zh": "板卡合作伙伴仍在等待英伟达RTX 5080 24GB GPU套件",
    "sentiment": 0
   }
  ]
