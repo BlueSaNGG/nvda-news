@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-03T15:51:30.605097+00:00",
+ "updated_at": "2026-11-03T16:06:29.142998+00:00",
  "market": {
-  "price": 207.65,
-  "change_pct": 2.77,
+  "price": 208.53,
+  "change_pct": 3.2,
   "as_of": "2026-11-03",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 14
   },
   "day_sentiment": {
-   "avg": 0.09,
-   "count": 110
+   "avg": 0.1,
+   "count": 113
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 57% 分位"
+     "note": "现价处于52周区间 59% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +51.7%"
+     "note": "目标价中位数 $315（17家），隐含空间 +51.1%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.09（110条已评分）"
+     "note": "今日新闻情绪 +0.10（113条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $207.65 vs 20日均线 $218.04"
+     "note": "现价 $208.53 vs 20日均线 $218.08"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 57,
+   "price_52w_pct": 59,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 51.7,
-   "ma20": 218.04,
-   "as_of": "2026-11-03T15:51:30.595305+00:00"
+   "implied_upside_pct": 51.1,
+   "ma20": 218.08,
+   "as_of": "2026-11-03T16:06:29.130215+00:00"
   },
-  "pe_ttm": 26.4,
+  "pe_ttm": 26.5,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+51.7%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+51.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "6254754ec5ff",
+   "title": "Fireworks contracts 5MW of Nvidia Blackwell Ultra capacity at Era4 data center in UK - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZmFQREo4VjVzRVpldVlzU1Q5SEhBYWRiaVFteDgtRThmMldKaEItbGVqajV1R00wSWJzRE41QUttcXBJTUxJUUd4SjJ4SVdHNVRGMnctRUhrN3NERjBGSDVtcE5nUVJUcVZYdG90TVZzQkZOMkxXcFZDN1ptRHVRSTBwdVdmU0Q5aDJONmZwYnVSYUFkV19wOWhOYTAzMTc3X1owSDhaUHd3M1RDZDZtTU1DWjlxMTB0ZmpJeXN3R3JkODRBU0RB",
+   "source": "Data Center Dynamics",
+   "published_at": "2026-11-03T15:58:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Data Center Dynamics",
+     "published_at": "2026-11-03T15:58:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZmFQREo4VjVzRVpldVlzU1Q5SEhBYWRiaVFteDgtRThmMldKaEItbGVqajV1R00wSWJzRE41QUttcXBJTUxJUUd4SjJ4SVdHNVRGMnctRUhrN3NERjBGSDVtcE5nUVJUcVZYdG90TVZzQkZOMkxXcFZDN1ptRHVRSTBwdVdmU0Q5aDJONmZwYnVSYUFkV19wOWhOYTAzMTc3X1owSDhaUHd3M1RDZDZtTU1DWjlxMTB0ZmpJeXN3R3JkODRBU0RB"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
+  {
+   "id": "37992982625a",
+   "title": "Nvidia dishes ready-made Kubernetes for Vera Rubin - SDxCentral",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczJEMWx5dDgtejF2dnRqakZRRHF5OEdQZzd2MVpMLVpiVWdtTE50YUJoZm5WbHhJT2xwYmV2NzB6cjFaN0RrUXFiX09oWDhhMEJyLU9fa3R2dWg2d0hKTGFXY0V1M2k2MWFrOFFTb1lodk15c2NIYl95S2ZnZVNmOEVlemVST1FMR0M0",
+   "source": "SDxCentral",
+   "published_at": "2026-11-03T15:56:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "SDxCentral",
+     "published_at": "2026-11-03T15:56:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQczJEMWx5dDgtejF2dnRqakZRRHF5OEdQZzd2MVpMLVpiVWdtTE50YUJoZm5WbHhJT2xwYmV2NzB6cjFaN0RrUXFiX09oWDhhMEJyLU9fa3R2dWg2d0hKTGFXY0V1M2k2MWFrOFFTb1lodk15c2NIYl95S2ZnZVNmOEVlemVST1FMR0M0"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "762f4b99a8aa",
    "title": "英伟达要求数据中心客户降低对中国业务比重 - RFI",
@@ -80,6 +114,23 @@
    "zh_summary": "英伟达要求客户降低中国业务比重",
    "title_zh": "英伟达要求数据中心客户降低对中国业务比重 - RFI",
    "sentiment": -1
+  },
+  {
+   "id": "8595a9945459",
+   "title": "Is Nvidia a Buy Right Now? - AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0cEs2RVJYMDJBa0l6cllpTWUyWGtnR1IzVjdSa24tenk0MFVNTXVSV2pkRnJzcFZKR2UzS0pWVFN1ZnktZmVHWkRvLUR4Qy05bTE1YjM2dVl1aGR0TkpfbG4wMGRyMlJqUlE",
+   "source": "AOL.com",
+   "published_at": "2026-11-03T15:40:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "AOL.com",
+     "published_at": "2026-11-03T15:40:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0cEs2RVJYMDJBa0l6cllpTWUyWGtnR1IzVjdSa24tenk0MFVNTXVSV2pkRnJzcFZKR2UzS0pWVFN1ZnktZmVHWkRvLUR4Qy05bTE1YjM2dVl1aGR0TkpfbG4wMGRyMlJqUlE"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "4e3920b0d17f",
@@ -279,6 +330,23 @@
    "zh_summary": "英伟达涉华新动向，外交部回应",
    "title_zh": "美股科技股多数反弹；英伟达涉华新动向，外交部回应",
    "sentiment": 0
+  },
+  {
+   "id": "fd9adcb137ed",
+   "title": "SpaceX Expands AI Infrastructure, Impacts NVIDIA (NVDA) Revenue Outlook - GuruFocus",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXBBcS02ZU5TLXM1aFNGa2g1Z1A0ZWN4RzBPRzhNYXdsazJSY3ZKTl9pNHhTYl9TWDBiMzNYVjJ0c0ljUnIybFJnTEhuR282bXRNTjJvWlVJVndkQXlnbzBiNlR2bzFJRTNRMUdlbVlrLWkzZHhWZXh5dmlST2FaM1lGTVNwd2d6MzctSHhib19Kd29ZVXBMQ25vNVlVU3RGQnNoOVpEbVF6R1U",
+   "source": "GuruFocus",
+   "published_at": "2026-11-03T14:56:15+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "GuruFocus",
+     "published_at": "2026-11-03T14:56:15+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXBBcS02ZU5TLXM1aFNGa2g1Z1A0ZWN4RzBPRzhNYXdsazJSY3ZKTl9pNHhTYl9TWDBiMzNYVjJ0c0ljUnIybFJnTEhuR282bXRNTjJvWlVJVndkQXlnbzBiNlR2bzFJRTNRMUdlbVlrLWkzZHhWZXh5dmlST2FaM1lGTVNwd2d6MzctSHhib19Kd29ZVXBMQ25vNVlVU3RGQnNoOVpEbVF6R1U"
+    }
+   ],
+   "category": "财报",
+   "session": "盘中"
   },
   {
    "id": "5c43aadf2897",
@@ -1642,26 +1710,6 @@
    "sentiment": 1
   },
   {
-   "id": "472ae61e9b36",
-   "title": "NVIDIA Corporation $NVDA Stock: Sherry Group Inc. Decreases Position - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY01aQWRnc1QyMEpjQS1jRldhbS13NC1KV0JlYWJKVjBJUHVlcXhYVS1GM2Jua2VmWnJFQVVEMjBtNUM5OUZQaU11MTZUcjRIV0Y0WERkbjlSbWgtekU5OTlfNnlQN3F3X2V6RHZfRnplcjBjLXJUM21BQ0s0dTEzVW95UjBLTjg3My1tUHdickFjNmd5cjRsU255cXdEaUR0dnM2YW5mYldFUGY5S21rTDc3eEpFZWFqd1hrSWJFVEtQMUU1",
-   "source": "MarketBeat",
-   "published_at": "2026-11-03T09:38:46+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-03T09:38:46+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY01aQWRnc1QyMEpjQS1jRldhbS13NC1KV0JlYWJKVjBJUHVlcXhYVS1GM2Jua2VmWnJFQVVEMjBtNUM5OUZQaU11MTZUcjRIV0Y0WERkbjlSbWgtekU5OTlfNnlQN3F3X2V6RHZfRnplcjBjLXJUM21BQ0s0dTEzVW95UjBLTjg3My1tUHdickFjNmd5cjRsU255cXdEaUR0dnM2YW5mYldFUGY5S21rTDc3eEpFZWFqd1hrSWJFVEtQMUU1"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Sherry Group减持英伟达持仓",
-   "title_zh": "Sherry Group减持英伟达股票",
-   "sentiment": -1
-  },
-  {
    "id": "24a211d399c8",
    "title": "Nvidia tells cloud partners to cap China business below half - Dealroom",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGxVcmVxNVk1QTMxenlKdVM3QTFhRTdBM081eXRibXhfOHZQR21iVTRQT3dPZHBOZm8wQkxKbDhUY1loN2ZZMjBvMlAzenBiRnotSzRId2NrUnV1TnhnTUppY0FCOE5KRWkyM1JTQ1J3TTB3dWF4dUdXWktIcVgzRms5dUt1aDdyemIzQmxOaHh0ajB0X1RLdFV3",
@@ -2267,12 +2315,17 @@
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTlrcFlObXNMY0daQUdRM3liWVVRRy0wRS00RUItTXg4Z0M0dFNZSDJsUzkxZ0F5Uk45ak5xWWlmTG1XQzlxWmR4Vld6Mkc1SWstdTVRS21pYXpkN3h4S0N3WlVpcGNlVkxsbGJyZ0RFcWl3d0FaeTlQdWRfdW9qY2NpRHFpNFpYbFZkMUdFa0tXaWxrTlZ1bmxIME8yZkhMOURkeGtqeHpmRDZ1cHFEajJxOA",
    "source": "Investing.com Nigeria",
    "published_at": "2026-11-03T07:02:17+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Investing.com Nigeria",
      "published_at": "2026-11-03T07:02:17+00:00",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTlrcFlObXNMY0daQUdRM3liWVVRRy0wRS00RUItTXg4Z0M0dFNZSDJsUzkxZ0F5Uk45ak5xWWlmTG1XQzlxWmR4Vld6Mkc1SWstdTVRS21pYXpkN3h4S0N3WlVpcGNlVkxsbGJyZ0RFcWl3d0FaeTlQdWRfdW9qY2NpRHFpNFpYbFZkMUdFa0tXaWxrTlZ1bmxIME8yZkhMOURkeGtqeHpmRDZ1cHFEajJxOA"
+    },
+    {
+     "name": "TradingView",
+     "published_at": "2026-11-03T10:47:27+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMXBkWExUNDNqRktPVmRmRnpva29xVGdRT2VmakQ1R2FWaW93N284NkhjSTc0RVBRS01peDFoQ0lkUWFEVEdaUXNWeVBOTEJYUWt6aGxjWi1ST2hRaFZGSThWV2tEU2JvOTVrU3hySWdwcEk4d0tKS05uVmVYY19wZkFoRG42NzE0cDVWVi14XzFVSVBXMDUwZDdBczlOSWdhSFFhRnZYeWpaTEw1TTd5TTNmQk1oR3RkR2k3cWt0SVlPLVVNYnA4bEZR"
     }
    ],
    "category": "AI需求",
@@ -2606,7 +2659,7 @@
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcERsWE1GekIyVGJ1cmZzdHdvQnp2TkUtUi00eW5kUlBoeFZNbE5xNFZCMHNZdC02cmhvWXFudFRhRmM3RlpHUWtaZEdpR21rWnpwaFBaajNGMHY0WHYwcGlKbFZwUnhCLVQtRmZGZ0tBVV9fd1dlV041LUg3bnhDcE14emY",
    "source": "Financial Times",
    "published_at": "2026-11-03T05:00:13+00:00",
-   "outlets_count": 14,
+   "outlets_count": 15,
    "outlets": [
     {
      "name": "Financial Times",
@@ -2677,6 +2730,11 @@
      "name": "Tech Xplore",
      "published_at": "2026-11-03T09:50:05+00:00",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbkhEVENqQU0yNVRPNnY3Vzl2UkNscGhGUXNrVG9SQnVkRGVGZTFhamhJV1o1ak5WbGo1NHVJa0d5Rkx3T1pXbW95TEZ6akIwUXQyb2JXdzFyNU1XaS1PdEpHaXl4YV9YYWlJemtsQ2NONVFOX1BVbDN6WXp6Y19VSnhTcw"
+    },
+    {
+     "name": "Taipei Times",
+     "published_at": "2026-11-03T16:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lNDZ4WW1PRmpjZ0lKVFllWFE2cldLYnZ1M19JaTlvUHBjdXJ1Z29ob193eXY5S1lDNGRTWXJxYlFYOE1oNnNoN1U1RVFoVFFRYTF2MW02NWE0bF9xcVFRQ3JhNl9kYzZ6dExIaGRuVV84UExvZmc"
     }
    ],
    "category": "政策监管",
@@ -6455,66 +6513,6 @@
    "zh_summary": "英伟达RTX 50系显卡Steam份额10月降5%",
    "title_zh": "英伟达RTX 50系显卡10月Steam份额下降5%",
    "sentiment": -1
-  },
-  {
-   "id": "7cd146f249d9",
-   "title": "Nokia quickie with Marvell at VMO2 shows AI-RAN needs no Nvidia - Light Reading",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXptWnNCci1RRDBlNzV4Z1FoNUtKcE42QnZ0OHdLWjlDRzJKT0drY2kxTHNRSTdaaEFBbi1qLVBlODE3R28wb2lKeXA2Wk1rQjU0LU0tdWdvSER6TG1wazZoRnN3X0ZCRzctRkZ5bjl4ODJwZ1FmeUhCYTEwS0NkelQ2a2ttVEEyV1poZHJ5RnJfYk5aVW9PaTRwZw",
-   "source": "Light Reading",
-   "published_at": "2026-11-02T07:34:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Light Reading",
-     "published_at": "2026-11-02T07:34:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXptWnNCci1RRDBlNzV4Z1FoNUtKcE42QnZ0OHdLWjlDRzJKT0drY2kxTHNRSTdaaEFBbi1qLVBlODE3R28wb2lKeXA2Wk1rQjU0LU0tdWdvSER6TG1wazZoRnN3X0ZCRzctRkZ5bjl4ODJwZ1FmeUhCYTEwS0NkelQ2a2ttVEEyV1poZHJ5RnJfYk5aVW9PaTRwZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "诺基亚AI-RAN无需英伟达",
-   "title_zh": "诺基亚与Marvell合作显示AI-RAN无需英伟达",
-   "sentiment": -1
-  },
-  {
-   "id": "674d260dd5c2",
-   "title": "ASRock Rack OCP Summit 2026 NVIDIA Spectrum X SN6600 2 - ServeTheHome",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSTVveWhVWm1QcmFDUWtCQzRMaS0zUk44QWJPQWZLOGYtZ3EwVy1sNWkyWUtHRDAtQl9aZVNOWkpYUU03N3RINDk0ODZrbzhpQkRZRHRxRzRzeTZFVW1jZ0s0cFBxWnN1Q08zMWR0TlBjZTBjaVljTnVZNGYyNFdZMTdabDZqbFY3eVcxc01EaGZVVTZ4dmMzdzdBck4zRWtIMmJEcnpGSkYwZXYwT01ZQl84OUwwSzl3dFNiRlg1eWxpdXp3emRpUWVYZ18xWGZlbkxWTnpfMk9Mb3o1bWx5aA",
-   "source": "ServeTheHome",
-   "published_at": "2026-11-02T07:33:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ServeTheHome",
-     "published_at": "2026-11-02T07:33:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSTVveWhVWm1QcmFDUWtCQzRMaS0zUk44QWJPQWZLOGYtZ3EwVy1sNWkyWUtHRDAtQl9aZVNOWkpYUU03N3RINDk0ODZrbzhpQkRZRHRxRzRzeTZFVW1jZ0s0cFBxWnN1Q08zMWR0TlBjZTBjaVljTnVZNGYyNFdZMTdabDZqbFY3eVcxc01EaGZVVTZ4dmMzdzdBck4zRWtIMmJEcnpGSkYwZXYwT01ZQl84OUwwSzl3dFNiRlg1eWxpdXp3emRpUWVYZ18xWGZlbkxWTnpfMk9Mb3o1bWx5aA"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "华擎展示英伟达Spectrum-X交换机",
-   "title_zh": "华擎机架OCP峰会展示英伟达Spectrum-X SN6600",
-   "sentiment": 1
-  },
-  {
-   "id": "d9bacb74c2a8",
-   "title": "NVIDIA Rubin GPU - ServeTheHome",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkZyTEV0d3FyQU1FNXJKWk56MElVMTJDWnYtWWtmeXlOME1jVnlyc0N2dlYxQlU4a2VvbWgwb2hFbE9Db3V3dnZUZm5VNXpFVVlibEFBNnJmcE9fN3I5SUpvR0hJZkIxR1VLaW5JRjJMSjJabE9nSzR5M1liNm5kMGp4NENJYVdOM3RlRnhuNUc5eDRSVmxTNkNnYXJDWW5kdGE4VkxwanAwX3FRNVI4dDZTWV8",
-   "source": "ServeTheHome",
-   "published_at": "2026-11-02T07:32:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ServeTheHome",
-     "published_at": "2026-11-02T07:32:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUkZyTEV0d3FyQU1FNXJKWk56MElVMTJDWnYtWWtmeXlOME1jVnlyc0N2dlYxQlU4a2VvbWgwb2hFbE9Db3V3dnZUZm5VNXpFVVlibEFBNnJmcE9fN3I5SUpvR0hJZkIxR1VLaW5JRjJMSjJabE9nSzR5M1liNm5kMGp4NENJYVdOM3RlRnhuNUc5eDRSVmxTNkNnYXJDWW5kdGE4VkxwanAwX3FRNVI4dDZTWV8"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达Rubin GPU亮相",
-   "title_zh": "英伟达Rubin GPU",
-   "sentiment": 0
   }
  ]
 }
