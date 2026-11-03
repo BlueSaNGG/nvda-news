@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-03T15:21:34.067971+00:00",
+ "updated_at": "2026-11-03T15:36:27.696453+00:00",
  "market": {
-  "price": 207.87,
-  "change_pct": 2.88,
+  "price": 207.34,
+  "change_pct": 2.61,
   "as_of": "2026-11-03",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 14
   },
   "day_sentiment": {
-   "avg": 0.05,
-   "count": 101
+   "avg": 0.08,
+   "count": 107
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 58% 分位"
+     "note": "现价处于52周区间 57% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +51.5%"
+     "note": "目标价中位数 $315（17家），隐含空间 +51.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（101条已评分）"
+     "note": "今日新闻情绪 +0.08（107条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $207.87 vs 20日均线 $218.05"
+     "note": "现价 $207.34 vs 20日均线 $218.02"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 58,
+   "price_52w_pct": 57,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 51.5,
-   "ma20": 218.05,
-   "as_of": "2026-11-03T15:21:34.048052+00:00"
+   "implied_upside_pct": 51.9,
+   "ma20": 218.02,
+   "as_of": "2026-11-03T15:36:27.682392+00:00"
   },
   "pe_ttm": 26.4,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+51.5%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+51.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "24bdd12a879c",
+   "title": "美股芯片、光通信股大反弹，闪迪涨超5%，英伟达市值重回全球第一 - 东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBheTliel8zWG9zYTF1UFRPX3JHbnJIVkRRZWV3MDNWN0ZlYmlyaXVodGNEcHpmcGRNRTVwajM5RzRvb2pNbW5FdEJSbU51VkRNVTVhUmxYUnFrdkJIc2tZXw",
+   "source": "东方财富",
+   "published_at": "2026-11-03T15:32:04+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "东方财富",
+     "published_at": "2026-11-03T15:32:04+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBheTliel8zWG9zYTF1UFRPX3JHbnJIVkRRZWV3MDNWN0ZlYmlyaXVodGNEcHpmcGRNRTVwajM5RzRvb2pNbW5FdEJSbU51VkRNVTVhUmxYUnFrdkJIc2tZXw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "ea19e0e6812e",
    "title": "LiveX Unveils AI City - Bringing Physical AI to Everyday Spaces with NVIDIA - Business Wire",
@@ -140,6 +157,23 @@
    "zh_summary": "英伟达提出14天AI部署目标",
    "title_zh": "英伟达新的14天AI部署目标或加速增长",
    "sentiment": 1
+  },
+  {
+   "id": "444a51cf2433",
+   "title": "Tracking into AMD's competition with Nvidia - MarketWatch",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeE9ZM0VmdVlqX0RwMXFtVTQ1Q3pnRDFUZzBPT0NieHdTd1ZINFdySVo5UUpYRnNzY0lpVDFVanFZVDN3em1tdkItTjktZnhUX1ptUXZYbDlRdnctSnV0UEM1UDY1UkNMTUNYYzhkd2NNeGl5Nlh4LU85LTRhUW8zNmxYY0VPSEVoeWx3TG1GcnU4a3hLUjNHWmZ5eXpyNWZXcjNwT3NuZ2xTVWtYWV9CakZOcFpCZ0JQclV1X2lRT1lYaWV0SzVQczc5SFhncmdSUTRaaERTa1hYWmRzUUtEdjVhQzQ",
+   "source": "MarketWatch",
+   "published_at": "2026-11-03T15:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketWatch",
+     "published_at": "2026-11-03T15:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeE9ZM0VmdVlqX0RwMXFtVTQ1Q3pnRDFUZzBPT0NieHdTd1ZINFdySVo5UUpYRnNzY0lpVDFVanFZVDN3em1tdkItTjktZnhUX1ptUXZYbDlRdnctSnV0UEM1UDY1UkNMTUNYYzhkd2NNeGl5Nlh4LU85LTRhUW8zNmxYY0VPSEVoeWx3TG1GcnU4a3hLUjNHWmZ5eXpyNWZXcjNwT3NuZ2xTVWtYWV9CakZOcFpCZ0JQclV1X2lRT1lYaWV0SzVQczc5SFhncmdSUTRaaERTa1hYWmRzUUtEdjVhQzQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "5504d8aa1900",
@@ -1681,6 +1715,23 @@
    "zh_summary": "博泰基于英伟达Thor平台推AI Box",
    "title_zh": "博泰基于英伟达DRIVE AGX Thor平台推出AI Box",
    "sentiment": 1
+  },
+  {
+   "id": "6cb493cfa8fe",
+   "title": "英伟达RTX 50系列显卡11月再涨价 高端型号涨超3000元 - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZW5QWmg5TklmTW1wZl8yVlRjRnBjNDBoaVRqR2tqXzhPRHlrYjJBQ0Zfb1luLVp0SXlxZy1rTWsyUDg5Ml9UaHlwZ2h0STNIU19LMy16UjQwS1ladG5IZnhKOUNxOWlqeUtEWnp3WU9rTXB2MUlCbTNINkZSRTZ6aEFhQU9mMFJR",
+   "source": "搜狐网",
+   "published_at": "2026-11-03T09:03:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-11-03T09:03:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZW5QWmg5TklmTW1wZl8yVlRjRnBjNDBoaVRqR2tqXzhPRHlrYjJBQ0Zfb1luLVp0SXlxZy1rTWsyUDg5Ml9UaHlwZ2h0STNIU19LMy16UjQwS1ladG5IZnhKOUNxOWlqeUtEWnp3WU9rTXB2MUlCbTNINkZSRTZ6aEFhQU9mMFJR"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
   },
   {
    "id": "05fd88fb0120",
@@ -6289,6 +6340,23 @@
    "sentiment": -1
   },
   {
+   "id": "7cd146f249d9",
+   "title": "Nokia quickie with Marvell at VMO2 shows AI-RAN needs no Nvidia - Light Reading",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXptWnNCci1RRDBlNzV4Z1FoNUtKcE42QnZ0OHdLWjlDRzJKT0drY2kxTHNRSTdaaEFBbi1qLVBlODE3R28wb2lKeXA2Wk1rQjU0LU0tdWdvSER6TG1wazZoRnN3X0ZCRzctRkZ5bjl4ODJwZ1FmeUhCYTEwS0NkelQ2a2ttVEEyV1poZHJ5RnJfYk5aVW9PaTRwZw",
+   "source": "Light Reading",
+   "published_at": "2026-11-02T07:34:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Light Reading",
+     "published_at": "2026-11-02T07:34:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXptWnNCci1RRDBlNzV4Z1FoNUtKcE42QnZ0OHdLWjlDRzJKT0drY2kxTHNRSTdaaEFBbi1qLVBlODE3R28wb2lKeXA2Wk1rQjU0LU0tdWdvSER6TG1wazZoRnN3X0ZCRzctRkZ5bjl4ODJwZ1FmeUhCYTEwS0NkelQ2a2ttVEEyV1poZHJ5RnJfYk5aVW9PaTRwZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "674d260dd5c2",
    "title": "ASRock Rack OCP Summit 2026 NVIDIA Spectrum X SN6600 2 - ServeTheHome",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSTVveWhVWm1QcmFDUWtCQzRMaS0zUk44QWJPQWZLOGYtZ3EwVy1sNWkyWUtHRDAtQl9aZVNOWkpYUU03N3RINDk0ODZrbzhpQkRZRHRxRzRzeTZFVW1jZ0s0cFBxWnN1Q08zMWR0TlBjZTBjaVljTnVZNGYyNFdZMTdabDZqbFY3eVcxc01EaGZVVTZ4dmMzdzdBck4zRWtIMmJEcnpGSkYwZXYwT01ZQl84OUwwSzl3dFNiRlg1eWxpdXp3emRpUWVYZ18xWGZlbkxWTnpfMk9Mb3o1bWx5aA",
@@ -6411,91 +6479,6 @@
    "session": "盘前",
    "zh_summary": "英伟达未向合作伙伴提供设计信息",
    "title_zh": "英伟达尚未向合作伙伴提供设计信息",
-   "sentiment": 0
-  },
-  {
-   "id": "daf17892cf81",
-   "title": "Shanghai’s Iluvatar CoreX Says Chip Equals Nvidia H200 - Silicon UK",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBanRjcjlaZnc2M2Rtb1RDdDBFa0V4X3pPRklpYnBkdl8tS3VKcjZoY1Y3bTZERWMydExBOU1mNVNCUHlKVlNiaU1MM2dCSllOekFjbjNkZ2ZNa3kyS1J3YjRVS0RfY3dzNkcyZG9mQjZBOFIyRWlXZl8zbG9XQQ",
-   "source": "Silicon UK",
-   "published_at": "2026-11-02T07:03:41+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Silicon UK",
-     "published_at": "2026-11-02T07:03:41+00:00",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBanRjcjlaZnc2M2Rtb1RDdDBFa0V4X3pPRklpYnBkdl8tS3VKcjZoY1Y3bTZERWMydExBOU1mNVNCUHlKVlNiaU1MM2dCSllOekFjbjNkZ2ZNa3kyS1J3YjRVS0RfY3dzNkcyZG9mQjZBOFIyRWlXZl8zbG9XQQ"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "上海天数智芯称芯片媲美英伟达H200",
-   "title_zh": "上海天数智芯称其芯片媲美英伟达H200",
-   "sentiment": -1
-  },
-  {
-   "id": "7af1625c6a2d",
-   "title": "消息称英伟达RTX 5080 24GB版最快12月上市或接替中国市场现有高端型号- nVIDIA - cnBeta.COM",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMlg0cEtWX0ttbkZ4dDlFV29iM2NxV3dkclh1LVdhWkwtbFlGa3RNVGJyeEcyV3RhTlBsQkpyNGEyZ3Y5MzEwdnhIcHloWGFfdVpmYXQ4Y1ZjNkxzOUtTNw",
-   "source": "cnBeta.COM",
-   "published_at": "2026-11-02T06:42:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "cnBeta.COM",
-     "published_at": "2026-11-02T06:42:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMlg0cEtWX0ttbkZ4dDlFV29iM2NxV3dkclh1LVdhWkwtbFlGa3RNVGJyeEcyV3RhTlBsQkpyNGEyZ3Y5MzEwdnhIcHloWGFfdVpmYXQ4Y1ZjNkxzOUtTNw"
-    },
-    {
-     "name": "CNMO",
-     "published_at": "2026-11-02T07:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mcDdKb0RTTGpFTXEzSG5QWDlQdXBjbl9vd0E4a3hZVkpTUkNWLUxDMzVuajVnYXJScHBhWnY3RHN1a3RmUXJzamM0TQ"
-    }
-   ],
-   "category": "政策监管",
-   "session": "盘前",
-   "zh_summary": "英伟达RTX 5080 24GB版最快12月上市",
-   "title_zh": "消息称英伟达RTX 5080 24GB版最快12月上市",
-   "sentiment": 1
-  },
-  {
-   "id": "616bb15acb34",
-   "title": "NVIDIA Cancels 24GB GeForce RTX 5080 SUPER Before Production Even Starts - GameGPU",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcS10cDlhQ3V6eXJLTXE2NDYzUDBSek1Ub05fbnRZbl9sbGNWbjkzVG9nOWRQbEFOSnJ6bmlmTVRRaERYX2NRa1RQV19DWE1sa0oxMXphbVc2SW0xN0x5bXMzekdqMzMxNUw2LVprSWs5ejlQZFF0bHhVNzVRTXRqdE1JM0FJR0dMdi16UGp1TFQ2a29wUTJQNlphNDRnaDhST0k5R2w3Sms1NGlEYzhmWjBndw",
-   "source": "GameGPU",
-   "published_at": "2026-11-02T06:24:32+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "GameGPU",
-     "published_at": "2026-11-02T06:24:32+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcS10cDlhQ3V6eXJLTXE2NDYzUDBSek1Ub05fbnRZbl9sbGNWbjkzVG9nOWRQbEFOSnJ6bmlmTVRRaERYX2NRa1RQV19DWE1sa0oxMXphbVc2SW0xN0x5bXMzekdqMzMxNUw2LVprSWs5ejlQZFF0bHhVNzVRTXRqdE1JM0FJR0dMdi16UGp1TFQ2a29wUTJQNlphNDRnaDhST0k5R2w3Sms1NGlEYzhmWjBndw"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达取消24GB RTX 5080 SUPER",
-   "title_zh": "英伟达投产前取消24GB RTX 5080 SUPER",
-   "sentiment": -1
-  },
-  {
-   "id": "0b889e180eb4",
-   "title": "英伟达一位AI天才突然离世，他的妻子受到尖锐指控 - 华尔街日报中文网",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2xkeHNQZ0NVS0lPUDh6N2djNzRCaFBsNHZRNDF2T20yTDBkWVMyV2lvZ3J6cHBZR01LSVRQZXdYVmFGam0yY3htZHBtTFJxV3RvV3ZZbllUeVdzcnFsR2hZYjJSa29GUTFnNkZtQXJ2R1JLNUVGdWZMaW05dDJULVpCMnJPZjZIU01RcEZPeW5hR2d0N192YkJMOFVuckplSk9lcTRmSUZRNW9EYk93",
-   "source": "华尔街日报中文网",
-   "published_at": "2026-11-02T05:49:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "华尔街日报中文网",
-     "published_at": "2026-11-02T05:49:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2xkeHNQZ0NVS0lPUDh6N2djNzRCaFBsNHZRNDF2T20yTDBkWVMyV2lvZ3J6cHBZR01LSVRQZXdYVmFGam0yY3htZHBtTFJxV3RvV3ZZbllUeVdzcnFsR2hZYjJSa29GUTFnNkZtQXJ2R1JLNUVGdWZMaW05dDJULVpCMnJPZjZIU01RcEZPeW5hR2d0N192YkJMOFVuckplSk9lcTRmSUZRNW9EYk93"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达AI天才离世，妻子受指控",
-   "title_zh": "英伟达一位AI天才突然离世，他的妻子受到尖锐指控 - 华尔街日报中文网",
    "sentiment": 0
   }
  ]
