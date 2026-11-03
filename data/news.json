@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T10:21:29.009754+00:00",
+ "updated_at": "2026-11-03T10:36:27.206164+00:00",
  "market": {
   "price": 202.06,
   "change_pct": -1.26,
@@ -10,8 +10,8 @@
    "days_left": 14
   },
   "day_sentiment": {
-   "avg": -0.08,
-   "count": 37
+   "avg": -0.03,
+   "count": 39
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 -0.08（37条已评分）"
+     "note": "今日新闻情绪 -0.03（39条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 55.9,
    "ma20": 219.62,
-   "as_of": "2026-11-03T10:21:28.994744+00:00"
+   "as_of": "2026-11-03T10:36:27.188163+00:00"
   },
   "pe_ttm": 25.7,
   "pe_pct_5y": 18,
@@ -61,6 +61,45 @@
   }
  },
  "stories": [
+  {
+   "id": "88c32bc763e3",
+   "title": "Hyprland 0.57.1 Released with NVIDIA and Keybinding Fixes - Linuxiac",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMzRjVk43bXpod08waWlYWXBRNUNtY0hFRFl6M0VkalctMi1fdWlHSV9OeFgzano5d3p6eUtoZnZXeFdVcWtqTWNsdmxmUlBERm5UX1F2blRaT0ZjR0x5dWl5d1BDR2dDUHJpcVE5bWk3bUlkSmc2MWtHWFowREIzS2FsNHVrZw",
+   "source": "Linuxiac",
+   "published_at": "2026-11-03T10:23:40+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Linuxiac",
+     "published_at": "2026-11-03T10:23:40+00:00",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMzRjVk43bXpod08waWlYWXBRNUNtY0hFRFl6M0VkalctMi1fdWlHSV9OeFgzano5d3p6eUtoZnZXeFdVcWtqTWNsdmxmUlBERm5UX1F2blRaT0ZjR0x5dWl5d1BDR2dDUHJpcVE5bWk3bUlkSmc2MWtHWFowREIzS2FsNHVrZw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "2d100a24cb58",
+   "title": "Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdnFHVnpXOTk4UEYwSlJ5WHhOaUNkVEtPN2o4N3hnSDl2MW12ejZscWRBNnAyRUdyUnhSbGlVdS12UGwzUDFnNlNiWmFzY3Bya3E0NjZIMDhBZzN3YWNJWlZMaGF6amFORVJiVXlONHZrOVFEcW5VbGV6bUF3cDdJbV83dnJXSXh0NnF1RUlkWkJkdWhsbEZRWVJkeXo5THhPLUl1LTFZUVgwM3JLZGhnTGsxeHJ0OFVTRktPOEZpVm9Cc2M5QkVUcTlrZw",
+   "source": "Reuters",
+   "published_at": "2026-11-03T10:21:58+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "Reuters",
+     "published_at": "2026-11-03T10:21:58+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdnFHVnpXOTk4UEYwSlJ5WHhOaUNkVEtPN2o4N3hnSDl2MW12ejZscWRBNnAyRUdyUnhSbGlVdS12UGwzUDFnNlNiWmFzY3Bya3E0NjZIMDhBZzN3YWNJWlZMaGF6amFORVJiVXlONHZrOVFEcW5VbGV6bUF3cDdJbV83dnJXSXh0NnF1RUlkWkJkdWhsbEZRWVJkeXo5THhPLUl1LTFZUVgwM3JLZGhnTGsxeHJ0OFVTRktPOEZpVm9Cc2M5QkVUcTlrZw"
+    },
+    {
+     "name": "Investing.com",
+     "published_at": "2026-11-03T10:26:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFBXandqOGN5a3FzblFSOVFyTHFXSXc4Q1JQa0tPMVpfS2Z5NDJZOC12NWptTURzVk9SUDRuUlprOXRVcVNqUW9ObmlrLVQ4bUtjSUE1MVhNRGx0c0ZTeEg1WUUzZkEyNENMbmc3YUNBX1hFNkYxbk1tamlKUGZqaHhMdDVEaGdnYlJfVVFYN3BEYWo1V0xuQXdMZmIzV1M2SG9kbW1CN0tySkNvQmJHS1UzdFN5ZjBtMnhzemRQbndDblZ6dExKenN0T2VaR1FZT256dWZ3"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
   {
    "id": "fa14cc5d7433",
    "title": "Nvidia: Trade The Fear With NVDL (NASDAQ:NVDA) - Seeking Alpha",
@@ -370,6 +409,23 @@
    "zh_summary": "英伟达要求云客户中国业务占比不超49%",
    "title_zh": "英伟达要求云客户中国业务占比不超49%",
    "sentiment": -1
+  },
+  {
+   "id": "d16a346a25c6",
+   "title": "“英伟达要求数据中心运营商减少与中国的交易” - 아시아경제",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PVEJnSlhHd01laE1WSkxPMGVibGVVa1FjNi1PVFozbnVyWFJQZG5odXdkRm5vaGc3akREQVg0aFBMdVowY3ZVa2lONXJRbDRGVmRJQmZTMEJOdWszYlNlX3YxNlY",
+   "source": "아시아경제",
+   "published_at": "2026-11-03T08:52:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "아시아경제",
+     "published_at": "2026-11-03T08:52:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PVEJnSlhHd01laE1WSkxPMGVibGVVa1FjNi1PVFozbnVyWFJQZG5odXdkRm5vaGc3akREQVg0aFBMdVowY3ZVa2lONXJRbDRGVmRJQmZTMEJOdWszYlNlX3YxNlY"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
   },
   {
    "id": "34d29da39645",
@@ -6375,66 +6431,6 @@
    "session": "周末",
    "zh_summary": "超大规模以外AI基建迎万亿机会",
    "title_zh": "Beth Kindig看好超大规模以外万亿AI基建机会",
-   "sentiment": 0
-  },
-  {
-   "id": "fb5bd5b3fcde",
-   "title": "5 Companies You Might Not Know Are Owned By Nvidia - SlashGear",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43YTNEOUtUNEEtU0wyZDNqZTRDTi1NZ2YxbmFDeS1wMVdPM3FNdWp3RGd1MEhrWTFaV0twbFViOUtuaTJTeW91V1A2SEhQSzljanE1ajdNWHFUZFZvcHdLelQ4enpZWEY3R0RvcFJ4WDlDZDA",
-   "source": "SlashGear",
-   "published_at": "2026-11-01T12:45:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "SlashGear",
-     "published_at": "2026-11-01T12:45:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43YTNEOUtUNEEtU0wyZDNqZTRDTi1NZ2YxbmFDeS1wMVdPM3FNdWp3RGd1MEhrWTFaV0twbFViOUtuaTJTeW91V1A2SEhQSzljanE1ajdNWHFUZFZvcHdLelQ4enpZWEY3R0RvcFJ4WDlDZDA"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "你可能不知道的5家英伟达旗下公司",
-   "title_zh": "你可能不知道的5家英伟达旗下公司",
-   "sentiment": 0
-  },
-  {
-   "id": "42789d28f1fe",
-   "title": "NVIDIA Tokenised Stock Rises To $204 On Fresh Buying Interest - MarketForces Africa",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMnp4Z1ZDOHpRSV9aTnFnMkdLZ2NaTGt4VFhHSl8tbVFIczY1Z2hvQjRWcmlaX01BbTU1MUlvYWNoZHpyaHVaeEZLRXFqS0JIc1FsWDQxVkItZ1AwUGhpUERIZjFWaUFFdHFsUWhrQ0Y2MVZlbTdqN1VZSkk5aC1qRVNjTURNdC1sOHF1X3Y3S2Y",
-   "source": "MarketForces Africa",
-   "published_at": "2026-11-01T12:12:25+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketForces Africa",
-     "published_at": "2026-11-01T12:12:25+00:00",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMnp4Z1ZDOHpRSV9aTnFnMkdLZ2NaTGt4VFhHSl8tbVFIczY1Z2hvQjRWcmlaX01BbTU1MUlvYWNoZHpyaHVaeEZLRXFqS0JIc1FsWDQxVkItZ1AwUGhpUERIZjFWaUFFdHFsUWhrQ0Y2MVZlbTdqN1VZSkk5aC1qRVNjTURNdC1sOHF1X3Y3S2Y"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达代币化股票涨至204美元",
-   "title_zh": "英伟达代币化股票在新买盘推动下涨至204美元",
-   "sentiment": 1
-  },
-  {
-   "id": "961fbb751e0e",
-   "title": "Trump backs Nvidia’s CEO after report claiming Jensen Huang was target of Chinese espionage plot: ‘We want to protect our brilliant people’ - voz.us",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR2FvZnhfbTd3X3RZbkVqODZWTnR5MkxlandHMVh3bldhRk4wVzlvQmliczNMM3pZSXFnU1lUVldBT1M4Um1nTHJCVFpyaDZKRkJyN2ZKWnpWZ0Z6cFNCRDRDS1o1N3J4RjRVd1FhSmZWYUx0Njc1N1NUclJvemhZa09JOF84TDBJS3RVbU9HZm1rZmd4RGVuSmM4LU9jTzd6Wk1td1ppb0tFUnUtQ1cxZTFRNzRBNzBWRFZ4b01EUWY4b1dMTXlIbjlZdWQwSXk5RXJz",
-   "source": "voz.us",
-   "published_at": "2026-11-01T11:55:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "voz.us",
-     "published_at": "2026-11-01T11:55:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR2FvZnhfbTd3X3RZbkVqODZWTnR5MkxlandHMVh3bldhRk4wVzlvQmliczNMM3pZSXFnU1lUVldBT1M4Um1nTHJCVFpyaDZKRkJyN2ZKWnpWZ0Z6cFNCRDRDS1o1N3J4RjRVd1FhSmZWYUx0Njc1N1NUclJvemhZa09JOF84TDBJS3RVbU9HZm1rZmd4RGVuSmM4LU9jTzd6Wk1td1ppb0tFUnUtQ1cxZTFRNzRBNzBWRFZ4b01EUWY4b1dMTXlIbjlZdWQwSXk5RXJz"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特朗普力挺黄仁勋，称要保护杰出人才",
-   "title_zh": "特朗普力挺黄仁勋称要保护杰出人才",
    "sentiment": 0
   }
  ]
