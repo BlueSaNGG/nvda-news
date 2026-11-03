@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T09:21:27.712101+00:00",
+ "updated_at": "2026-11-03T09:36:30.403145+00:00",
  "market": {
   "price": 202.06,
   "change_pct": -1.26,
@@ -10,8 +10,8 @@
    "days_left": 14
   },
   "day_sentiment": {
-   "avg": 0.04,
-   "count": 27
+   "avg": 0.0,
+   "count": 28
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.04（27条已评分）"
+     "note": "今日新闻情绪 +0.00（28条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 55.9,
    "ma20": 219.62,
-   "as_of": "2026-11-03T09:21:27.690871+00:00"
+   "as_of": "2026-11-03T09:36:30.394072+00:00"
   },
   "pe_ttm": 25.7,
   "pe_pct_5y": 18,
@@ -61,6 +61,57 @@
   }
  },
  "stories": [
+  {
+   "id": "e69e2c7d169c",
+   "title": "NVIDIA GeForce RTX 50-Series Scheduled for a Price Hike This Week, Up to $500 - TechPowerUp",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2dhclBKbkdyckE2LUFBMHhkVGVpTHpXTUxEN3RBTE9teG94aXZxSm9saFFXQ25pZlJROTVKS0xmMTlWdXBhS25mMVZyU0hIbDk1MTBqLUVwcjlTMm5sMEZ1Y2M2LTZEaU9tQkNVRS1MQ3EtRVRIQWtfa0ptUm5OUy13eVNob1ZpZk1PVnFTQ01PODIzbUxHd1N0dEJqV0prS1FmT0hIc0VpdGpaTFg1QzBiSWFWbjlKN0JWSXRiWnRVMlgx",
+   "source": "TechPowerUp",
+   "published_at": "2026-11-03T09:24:59+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechPowerUp",
+     "published_at": "2026-11-03T09:24:59+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2dhclBKbkdyckE2LUFBMHhkVGVpTHpXTUxEN3RBTE9teG94aXZxSm9saFFXQ25pZlJROTVKS0xmMTlWdXBhS25mMVZyU0hIbDk1MTBqLUVwcjlTMm5sMEZ1Y2M2LTZEaU9tQkNVRS1MQ3EtRVRIQWtfa0ptUm5OUy13eVNob1ZpZk1PVnFTQ01PODIzbUxHd1N0dEJqV0prS1FmT0hIc0VpdGpaTFg1QzBiSWFWbjlKN0JWSXRiWnRVMlgx"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
+   "id": "fd0249d7cbc0",
+   "title": "Nvidia Requires Cloud Clients to Limit Business With Chinese Customers - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzROYnFuSERSd2R2azllWUdHN1ZzdHczWE9pdnVRd3VJVXZyS2IzZHRWcW5rZkU0ekFLNlB2WjRISFBjNHhzbk5CQ21qR05yT3N5THItUXBzc0pFdFN4MXJ4NWREOFNBdEdENEVhUVJaSEhMRTlmM1lmOWZUM1RNTGZjb2NLb3ByVnhpV09MVHA3N0xRbllxc0dGZFVRU3hwSzRxOEtQclp5UDhSek5LZDNfaGNUUFo3M0pLRjhTODI",
+   "source": "marketscreener.com",
+   "published_at": "2026-11-03T09:23:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "marketscreener.com",
+     "published_at": "2026-11-03T09:23:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzROYnFuSERSd2R2azllWUdHN1ZzdHczWE9pdnVRd3VJVXZyS2IzZHRWcW5rZkU0ekFLNlB2WjRISFBjNHhzbk5CQ21qR05yT3N5THItUXBzc0pFdFN4MXJ4NWREOFNBdEdENEVhUVJaSEhMRTlmM1lmOWZUM1RNTGZjb2NLb3ByVnhpV09MVHA3N0xRbllxc0dGZFVRU3hwSzRxOEtQclp5UDhSek5LZDNfaGNUUFo3M0pLRjhTODI"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
+   "id": "2aa87f24e48b",
+   "title": "Nvidia据报向全球客户设新限制 最少51%服务需售予非中国企业 - 星島頭條",
+   "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQUEF4R0o3blo3NEtLUkNXV3JURTdTM2pjTTYzdk51Yk1OZGVVcTRxNEREN3RiVTFGdDl6VDdpNHF2ZUZCNHZjc3lvQjZsSEd0a0sxVFRRZ3BPQ3NTbERSZlV3YlBuUTBnNGxUZnJVdzEtRmxzcmd6ckdVeHRJY1VHSUFVam5CR0pJbUZQYVVONU5HVHo1XzJuV2tTSUgtZW5feTA4WU9IOTMwR1cwRzJnVUNWcnR4R2ZQOWdqSTdyTVBxakItdzZmQTBqWnBYcjZDeXo0TGg4dW5odC1CanljV0JhSTFyMk1kQlJPbEF6MkxOZzFhempoV0tLVHp4RWc4c0VFUnc2SDhjRHlkekJReVNZamZmSDY0NWJFa3lrNmVaeXJyanhERzNZMTlHRWIwdjA5MDBiLW90Mk1FbHZ3WG9WbVZxNHlaMjR6MGstYllydW9uWmJyNWhiS2lpbWVHaUpvNHhsU0pGcHQtLWFHTW1GYTlaVnJQOTBYdUxBSVZrVkVYbC1BTzM3RFc",
+   "source": "星島頭條",
+   "published_at": "2026-11-03T09:07:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "星島頭條",
+     "published_at": "2026-11-03T09:07:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQUEF4R0o3blo3NEtLUkNXV3JURTdTM2pjTTYzdk51Yk1OZGVVcTRxNEREN3RiVTFGdDl6VDdpNHF2ZUZCNHZjc3lvQjZsSEd0a0sxVFRRZ3BPQ3NTbERSZlV3YlBuUTBnNGxUZnJVdzEtRmxzcmd6ckdVeHRJY1VHSUFVam5CR0pJbUZQYVVONU5HVHo1XzJuV2tTSUgtZW5feTA4WU9IOTMwR1cwRzJnVUNWcnR4R2ZQOWdqSTdyTVBxakItdzZmQTBqWnBYcjZDeXo0TGg4dW5odC1CanljV0JhSTFyMk1kQlJPbEF6MkxOZzFhempoV0tLVHp4RWc4c0VFUnc2SDhjRHlkekJReVNZamZmSDY0NWJFa3lrNmVaeXJyanhERzNZMTlHRWIwdjA5MDBiLW90Mk1FbHZ3WG9WbVZxNHlaMjR6MGstYllydW9uWmJyNWhiS2lpbWVHaUpvNHhsU0pGcHQtLWFHTW1GYTlaVnJQOTBYdUxBSVZrVkVYbC1BTzM3RFc"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
   {
    "id": "05fd88fb0120",
    "title": "Nvidia imposes strict requirements on cloud providers - Techzine Global",
@@ -3293,6 +3344,23 @@
    "sentiment": 1
   },
   {
+   "id": "38ae4780c345",
+   "title": "NVIDIA Corporation $NVDA Stock Sold by Werlinich Asset Management LLC - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMjRIM0tpMFBodzFKVmtlMi0xWFJCckhLck1UYlhnWXpJTTRzSExnT3hQbFRMOFFhNnNxNE1oU2xQdWVSNWgzc3hVTm1JRUp6bV9BOTR6Tk8xd3NqYktEeWs5Tk9Qb3NKSDg2YS1lTTNBV0ZsQ1dsVHVpOVAxY2hFYllsRmwtZU1yN2V4a3ZvSGtxOE95Ti1yYmFxMjhBaXFnY0ZZVjM3VThpX3hvNGFiUFVubDh0V3g4RHA2VmNPVUNpUGtfa2MwTA",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T12:09:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T12:09:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMjRIM0tpMFBodzFKVmtlMi0xWFJCckhLck1UYlhnWXpJTTRzSExnT3hQbFRMOFFhNnNxNE1oU2xQdWVSNWgzc3hVTm1JRUp6bV9BOTR6Tk8xd3NqYktEeWs5Tk9Qb3NKSDg2YS1lTTNBV0ZsQ1dsVHVpOVAxY2hFYllsRmwtZU1yN2V4a3ZvSGtxOE95Ti1yYmFxMjhBaXFnY0ZZVjM3VThpX3hvNGFiUFVubDh0V3g4RHA2VmNPVUNpUGtfa2MwTA"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
    "id": "64e5663e7fab",
    "title": "NVIDIA RTX 3060 Takes Back Number One Spot From RTX 5070 While 32 GB System RAM Took A Massive Hit According To The Latest Steam Hardware Survey - Wccftech",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QZmhJVnNYS0lBdENiY0YyQktwTzBvbTl3ZkhFeFhPNExhWW1rRkVjSXJKOTJacHE4WmhiOF9HMGY1OVJsSGtrX1NUR3Z4NG5NZjFYZTNjeEN6cGdNR0JIRkxzWE5tNGfSAWxBVV95cUxQNjNJLUxsdXZPd2dDYWNKTEt4eTVMSVcxVWQweTRobUt4Y2xjenY2UUNJd0IxaGU0Z2ZueFNsTXhaRUl3ODRwZGNuZFdoLVNNTXNWSy04ODUySUYyOUdxOEtaMmd3SlRTU1p2bGY",
@@ -3355,26 +3423,6 @@
    "session": "盘前",
    "zh_summary": "Melius将英伟达目标价下调至315美元",
    "title_zh": "Melius将英伟达目标价从420美元下调至315",
-   "sentiment": -1
-  },
-  {
-   "id": "85cdf1a43565",
-   "title": "NVIDIA Corporation $NVDA Stock: Sprinkle Financial Consultants LLC Reduces Holdings - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSHhScmRfUVROZUxPN3RSSXFqeTV3VVpnLUpDYmNtS0NzOGp5MmU3UWFmbGpFZTgzZE0tVUg4elFIZzBMUmNraWl3enk0XzJ1YURySG5lTFUxTmRSdng4cm9IblV1Skw5c3Z0OWYyM0c0NlV4NUpLblZ3cmdQZkFaUUFRdzFCYUtVdDhlcHc5VG1iQS1FdklmVUd1ZGo3ekltOVJoV01OZ0lpUTZZbnViaW5BZnZwYWptTGtWZHlmOUtlVF9vQy04R3NMVVowWXhGeENxbGpQaUhWQQ",
-   "source": "MarketBeat",
-   "published_at": "2026-11-02T11:41:02+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-02T11:41:02+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSHhScmRfUVROZUxPN3RSSXFqeTV3VVpnLUpDYmNtS0NzOGp5MmU3UWFmbGpFZTgzZE0tVUg4elFIZzBMUmNraWl3enk0XzJ1YURySG5lTFUxTmRSdng4cm9IblV1Skw5c3Z0OWYyM0c0NlV4NUpLblZ3cmdQZkFaUUFRdzFCYUtVdDhlcHc5VG1iQS1FdklmVUd1ZGo3ekltOVJoV01OZ0lpUTZZbnViaW5BZnZwYWptTGtWZHlmOUtlVF9vQy04R3NMVVowWXhGeENxbGpQaUhWQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Sprinkle咨询减持英伟达股份",
-   "title_zh": "Sprinkle金融咨询减持英伟达股票",
    "sentiment": -1
   },
   {
@@ -3676,6 +3724,43 @@
    "zh_summary": "DLSS 5演示马里奥赛车世界画面",
    "title_zh": "英伟达DLSS 5演示马里奥赛车世界，画面如动画电影",
    "sentiment": 1
+  },
+  {
+   "id": "e65d81594008",
+   "title": "NVIDIA Corporation $NVDA Stock: GK Wealth Management LLC Decreases Holdings - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcFN0MUlLcTdIcTByQ0xvTmh2dUdLODVMUFBLY2RwelhVUzh1a3NEeVNkU0ZMTldXZWllREoxcmVVTHgxXy02eGhoSTJhT3dSM0FzMGV2ckRSdU9NTVY4NXRka19DdmJtTDVQZVhsck9xRHpqRUx5S3k4YU44eGtMU2lOdTlRdjIxc1Qyb0dBaHR1elVoQTJWMUdvenk5X29LbU9OZ1daZjVTLWZNVDBGVUlfbktoamU0TlRBbGpxOUpoTUVzZU9UR01iOEhVTVk",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T10:34:10+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T10:34:10+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcFN0MUlLcTdIcTByQ0xvTmh2dUdLODVMUFBLY2RwelhVUzh1a3NEeVNkU0ZMTldXZWllREoxcmVVTHgxXy02eGhoSTJhT3dSM0FzMGV2ckRSdU9NTVY4NXRka19DdmJtTDVQZVhsck9xRHpqRUx5S3k4YU44eGtMU2lOdTlRdjIxc1Qyb0dBaHR1elVoQTJWMUdvenk5X29LbU9OZ1daZjVTLWZNVDBGVUlfbktoamU0TlRBbGpxOUpoTUVzZU9UR01iOEhVTVk"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前",
+   "zh_summary": "Sprinkle咨询减持英伟达股份",
+   "title_zh": "Sprinkle金融咨询减持英伟达股票",
+   "sentiment": -1
+  },
+  {
+   "id": "bbd66cfa36b9",
+   "title": "NVIDIA Corporation $NVDA Stock Position Lessened by Central Bank & Trust Co. - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTJMS1RRSEZYbGJjaVZtVUZqN19ZYlhQZVlKUE5WUi1vTmJhSjR5cTYzUEJ4MVBRaWN4RGVMWDlmaTFNalpzejdrbjZfS0NGRWZxSHREVTEyc0l4Q09VRERDRU1JV3VoRHJYOGFTb0ZDQV9kTEppLUdMZWVKT3g4MFY5SnVHVEF1N0M3SjlSQlFSX1VjWHVFVXVkQ1RMSm1IR09EV2N1SklkVlJzZmlyeEdyX3I2QjNwN2d4dGtIMVd3RU5vTnRoaDJQX2RhQQ",
+   "source": "MarketBeat",
+   "published_at": "2026-11-02T10:29:43+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-02T10:29:43+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTJMS1RRSEZYbGJjaVZtVUZqN19ZYlhQZVlKUE5WUi1vTmJhSjR5cTYzUEJ4MVBRaWN4RGVMWDlmaTFNalpzejdrbjZfS0NGRWZxSHREVTEyc0l4Q09VRERDRU1JV3VoRHJYOGFTb0ZDQV9kTEppLUdMZWVKT3g4MFY5SnVHVEF1N0M3SjlSQlFSX1VjWHVFVXVkQ1RMSm1IR09EV2N1SklkVlJzZmlyeEdyX3I2QjNwN2d4dGtIMVd3RU5vTnRoaDJQX2RhQQ"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "3021639e1092",
@@ -4541,26 +4626,6 @@
    "sentiment": -1
   },
   {
-   "id": "7cd146f249d9",
-   "title": "Nokia quickie with Marvell at VMO2 shows AI-RAN needs no Nvidia - Light Reading",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXptWnNCci1RRDBlNzV4Z1FoNUtKcE42QnZ0OHdLWjlDRzJKT0drY2kxTHNRSTdaaEFBbi1qLVBlODE3R28wb2lKeXA2Wk1rQjU0LU0tdWdvSER6TG1wazZoRnN3X0ZCRzctRkZ5bjl4ODJwZ1FmeUhCYTEwS0NkelQ2a2ttVEEyV1poZHJ5RnJfYk5aVW9PaTRwZw",
-   "source": "Light Reading",
-   "published_at": "2026-11-02T07:34:19+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Light Reading",
-     "published_at": "2026-11-02T07:34:19+00:00",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXptWnNCci1RRDBlNzV4Z1FoNUtKcE42QnZ0OHdLWjlDRzJKT0drY2kxTHNRSTdaaEFBbi1qLVBlODE3R28wb2lKeXA2Wk1rQjU0LU0tdWdvSER6TG1wazZoRnN3X0ZCRzctRkZ5bjl4ODJwZ1FmeUhCYTEwS0NkelQ2a2ttVEEyV1poZHJ5RnJfYk5aVW9PaTRwZw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "诺基亚Marvell合作显示AI-RAN无需英伟达",
-   "title_zh": "诺基亚与Marvell在VMO2的合作显示AI-RAN不需要英伟达",
-   "sentiment": -1
-  },
-  {
    "id": "674d260dd5c2",
    "title": "ASRock Rack OCP Summit 2026 NVIDIA Spectrum X SN6600 2 - ServeTheHome",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSTVveWhVWm1QcmFDUWtCQzRMaS0zUk44QWJPQWZLOGYtZ3EwVy1sNWkyWUtHRDAtQl9aZVNOWkpYUU03N3RINDk0ODZrbzhpQkRZRHRxRzRzeTZFVW1jZ0s0cFBxWnN1Q08zMWR0TlBjZTBjaVljTnVZNGYyNFdZMTdabDZqbFY3eVcxc01EaGZVVTZ4dmMzdzdBck4zRWtIMmJEcnpGSkYwZXYwT01ZQl84OUwwSzl3dFNiRlg1eWxpdXp3emRpUWVYZ18xWGZlbkxWTnpfMk9Mb3o1bWx5aA",
@@ -4808,6 +4873,26 @@
    "session": "周末",
    "zh_summary": "天数智芯天垓300部分推理测试超H200",
    "title_zh": "天数智芯天垓300长上下文与MoE推理测试超H200",
+   "sentiment": -1
+  },
+  {
+   "id": "7cd146f249d9",
+   "title": "Nokia quickie with Marvell at VMO2 shows AI-RAN needs no Nvidia - Light Reading",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXptWnNCci1RRDBlNzV4Z1FoNUtKcE42QnZ0OHdLWjlDRzJKT0drY2kxTHNRSTdaaEFBbi1qLVBlODE3R28wb2lKeXA2Wk1rQjU0LU0tdWdvSER6TG1wazZoRnN3X0ZCRzctRkZ5bjl4ODJwZ1FmeUhCYTEwS0NkelQ2a2ttVEEyV1poZHJ5RnJfYk5aVW9PaTRwZw",
+   "source": "Light Reading",
+   "published_at": "2026-11-02T04:00:51+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Light Reading",
+     "published_at": "2026-11-02T04:00:51+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXptWnNCci1RRDBlNzV4Z1FoNUtKcE42QnZ0OHdLWjlDRzJKT0drY2kxTHNRSTdaaEFBbi1qLVBlODE3R28wb2lKeXA2Wk1rQjU0LU0tdWdvSER6TG1wazZoRnN3X0ZCRzctRkZ5bjl4ODJwZ1FmeUhCYTEwS0NkelQ2a2ttVEEyV1poZHJ5RnJfYk5aVW9PaTRwZw"
+    }
+   ],
+   "category": "其他",
+   "session": "周末",
+   "zh_summary": "诺基亚Marvell合作显示AI-RAN无需英伟达",
+   "title_zh": "诺基亚与Marvell在VMO2的合作显示AI-RAN不需要英伟达",
    "sentiment": -1
   },
   {
@@ -6340,111 +6425,6 @@
    "zh_summary": "Meta为风冷将B200功耗限至750W",
    "title_zh": "Meta将英伟达B200功耗限制在750瓦以实现风冷",
    "sentiment": 0
-  },
-  {
-   "id": "32bec9f0ee72",
-   "title": "Mn Services Vermogensbeheer B.V. Acquires 26,400 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWN2Z0xvTGV4V0RDQ2VmdEtyb2tmQ2RoRzR2N0ZfWmxmdHFSMXVzaTdmNFpabW42NFBnYlVVRUNiSFdQOFFYMmhzVGJjR1lheFduTjd1WkV0Q1lYZmpTRWYyQUNoRDlNWWJSRWxHeU5BMzN3ZGM4UDF2MVB5SnA5REVubHNzZU1hdEM2bXh1aUl2N01iSzUxQXF0SWpuYW10dXVBY3dKc2Y3TDFxVUNGSWVCd2xBZHJTeE5FVlVjRXRxdXZhc0h0Y0pnVlVNSkZZdHAxZ1kybw",
-   "source": "MarketBeat",
-   "published_at": "2026-11-01T09:49:49+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-01T09:49:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWN2Z0xvTGV4V0RDQ2VmdEtyb2tmQ2RoRzR2N0ZfWmxmdHFSMXVzaTdmNFpabW42NFBnYlVVRUNiSFdQOFFYMmhzVGJjR1lheFduTjd1WkV0Q1lYZmpTRWYyQUNoRDlNWWJSRWxHeU5BMzN3ZGM4UDF2MVB5SnA5REVubHNzZU1hdEM2bXh1aUl2N01iSzUxQXF0SWpuYW10dXVBY3dKc2Y3TDFxVUNGSWVCd2xBZHJTeE5FVlVjRXRxdXZhc0h0Y0pnVlVNSkZZdHAxZ1kybw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Mn Services增持英伟达26400股",
-   "title_zh": "Mn Services增持英伟达26400股",
-   "sentiment": 1
-  },
-  {
-   "id": "66c4a62ec4f5",
-   "title": "NVIDIA Corporation $NVDA Shares Newly Acquired by Pacifica Partners Inc. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSURVZ2x2Nkt4WEE3WHNHNE04SWJkb3l3RldPalhMMWZTUkYtS3Zva2ZkNjh3Z2QxMFc3NUo3V2FxR1NHOFVlRWJKYnl2LTlPU3VPWlVqNlZDSjFFTWgtcWM2bGJMNzhUaXhPUjlDSEstN3poLVFEUDdMSlplZmlkZ2hBTUFOZ09UTWhOOV91YW9lZms3XzY2bXYxS0lybFlCQ1luRm1JX091MExIbmFqdVNaUjE0cExQV0lYR1h5MlFXVlNOVVh6WHhFWQ",
-   "source": "MarketBeat",
-   "published_at": "2026-11-01T09:49:48+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-01T09:49:48+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSURVZ2x2Nkt4WEE3WHNHNE04SWJkb3l3RldPalhMMWZTUkYtS3Zva2ZkNjh3Z2QxMFc3NUo3V2FxR1NHOFVlRWJKYnl2LTlPU3VPWlVqNlZDSjFFTWgtcWM2bGJMNzhUaXhPUjlDSEstN3poLVFEUDdMSlplZmlkZ2hBTUFOZ09UTWhOOV91YW9lZms3XzY2bXYxS0lybFlCQ1luRm1JX091MExIbmFqdVNaUjE0cExQV0lYR1h5MlFXVlNOVVh6WHhFWQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Pacifica Partners新买入英伟达股票",
-   "title_zh": "Pacifica Partners新买入英伟达股票",
-   "sentiment": 1
-  },
-  {
-   "id": "aa0eafe2637e",
-   "title": "苹果市值反超英伟达重回第一【苹果市值重登世界第一，AI保守反而成了避 - 凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VczNsTlR1bkd0M2tFSzZFUU04aUxUVjFnZ0NRRzVyQmI2Nk5FaGFlVjR3a0F6bFBPbmdqbWgwd0NfbGI2ME1BakQ5TEQ",
-   "source": "凤凰网",
-   "published_at": "2026-11-01T09:48:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "凤凰网",
-     "published_at": "2026-11-01T09:48:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VczNsTlR1bkd0M2tFSzZFUU04aUxUVjFnZ0NRRzVyQmI2Nk5FaGFlVjR3a0F6bFBPbmdqbWgwd0NfbGI2ME1BakQ5TEQ"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "苹果市值反超英伟达重回第一",
-   "title_zh": "苹果市值反超英伟达重回世界第一",
-   "sentiment": -1
-  },
-  {
-   "id": "2bcd5883051f",
-   "title": "英伟达合作Megaspeed遭质疑 美芯片出口中国有缺口? - e南洋",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3a05ueF9GWkRDdm4yeTVoYTgyOEF4MHgxaFN2eWVIS2czYk9neWlaby1vTFNVS3pzYnR0cHp4bE5WNUFVZmlyZFZ1dVVTaGhzbE0wM0dVU3k1a1NZQkZnS1ItUQ",
-   "source": "e南洋",
-   "published_at": "2026-11-01T09:11:49+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "e南洋",
-     "published_at": "2026-11-01T09:11:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3a05ueF9GWkRDdm4yeTVoYTgyOEF4MHgxaFN2eWVIS2czYk9neWlaby1vTFNVS3pzYnR0cHp4bE5WNUFVZmlyZFZ1dVVTaGhzbE0wM0dVU3k1a1NZQkZnS1ItUQ"
-    },
-    {
-     "name": "KLSE Screener",
-     "published_at": "2026-11-01T09:11:49+00:00",
-     "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVFdRWnh5ams4dkJTVG1EdEc0Vmc0emFuejl6RERmTWhocWtvT3g4YzVSYXdJWlgyX2ZMa3UxV0FEVnBOdkwyTng3dVZPRmNpUUdlRTFaZ2RDeTJaYTc0M1Eyam5WTGozVGFzajNFREFfSnVWQUNURU9fWXlLYzZySk9HS2NjV2pBb2dsbTRCLXJmVC05NzRTM20tZFhPZ0hEX0hpVHdIdk5ReVJoTUwzWmJjVGdGdzVVenlpZ0YySGpqTV8wUS1jZmcyaGRQY2V5V0xvRGN0S1Nib2xnUzlvUHpIX1dBYWlmc2hLNVZmMERNcFZRMGl5QWYxbGdWT3I4S2FJaEU2M29qRExwVVM2OTR1Rm5KMG9hbVNPb21fTE5MQm1vT2RfTld5eGxKZHBtZkVDUmJzam5nSHlBMWRpN3JYX3M"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "英伟达合作遭质疑，芯片出口存缺口",
-   "title_zh": "英伟达合作Megaspeed遭质疑 美芯片出口中国有缺口? - e南洋",
-   "sentiment": -1
-  },
-  {
-   "id": "789fcda3bf10",
-   "title": "NVIDIA Is Reportedly Eyeing Teflon, The Non-Stick Cookware Material, To Fix AI Server Signal Loss In Next-Gen NVLink Switch Boards - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZKN3FHUjFiVmNnWktXN1VYSmZNNE1qVmVDdVVuSmNPNklITFNIQmZzWFpPZUlIMXpqUlhzZUwzMjh2TlhwWEtyYkNZR2Vua0U5Y2NMODJYV1Y3eEo3S1R2Q2NYbjQ5d0s5X1ZJNWNBS09td3o0d2lDTUdFZWU2UTVuWkxSWlBWZ1o2Y3JZbjRkb0Iz0gGaAUFVX3lxTE5LUGpHMzRKS2lHbUlNTi05VDBCU0JnT3FqbEhOSm5ZVzFFNTMzb1VHNk1uaDJsMVVNUHpUNzI5RlpZVm94YzVqUExTMGZwWkJjT0M1LVkycUR4ZUNJb3V5bWVXZkpxdWZzTlNvNV8zVFNmXzVlalFHS3hCY0FlM3diNFowSVRGcDQ0UGZ3YzMyVEN0QWtuTkVtWEE",
-   "source": "Wccftech",
-   "published_at": "2026-11-01T09:10:50+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-11-01T09:10:50+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFZKN3FHUjFiVmNnWktXN1VYSmZNNE1qVmVDdVVuSmNPNklITFNIQmZzWFpPZUlIMXpqUlhzZUwzMjh2TlhwWEtyYkNZR2Vua0U5Y2NMODJYV1Y3eEo3S1R2Q2NYbjQ5d0s5X1ZJNWNBS09td3o0d2lDTUdFZWU2UTVuWkxSWlBWZ1o2Y3JZbjRkb0Iz0gGaAUFVX3lxTE5LUGpHMzRKS2lHbUlNTi05VDBCU0JnT3FqbEhOSm5ZVzFFNTMzb1VHNk1uaDJsMVVNUHpUNzI5RlpZVm94YzVqUExTMGZwWkJjT0M1LVkycUR4ZUNJb3V5bWVXZkpxdWZzTlNvNV8zVFNmXzVlalFHS3hCY0FlM3diNFowSVRGcDQ0UGZ3YzMyVEN0QWtuTkVtWEE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达拟用特氟龙改善信号损耗",
-   "title_zh": "英伟达拟用特氟龙解决AI服务器信号损耗",
-   "sentiment": 1
   }
  ]
 }
