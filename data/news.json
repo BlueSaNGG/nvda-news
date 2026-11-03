@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T08:51:29.986493+00:00",
+ "updated_at": "2026-11-03T09:06:25.680589+00:00",
  "market": {
   "price": 202.06,
   "change_pct": -1.26,
@@ -10,8 +10,8 @@
    "days_left": 14
   },
   "day_sentiment": {
-   "avg": 0.12,
-   "count": 17
+   "avg": 0.14,
+   "count": 21
   },
   "daily_signal": {
    "verdict": "中性",
@@ -30,7 +30,7 @@
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.12（17条已评分）"
+     "note": "今日新闻情绪 +0.14（21条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 55.9,
    "ma20": 219.62,
-   "as_of": "2026-11-03T08:51:29.976514+00:00"
+   "as_of": "2026-11-03T09:06:25.670564+00:00"
   },
   "pe_ttm": 25.7,
   "pe_pct_5y": 18,
@@ -62,17 +62,129 @@
  },
  "stories": [
   {
+   "id": "05fd88fb0120",
+   "title": "Nvidia imposes strict requirements on cloud providers - Techzine Global",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMlBmaWdXNjNjX1pYR1VXdlpuMjZLYmVnTHhHaXJ0T2luNW54NjJDRXRkSW9fRUlycjBDamR2MC1zRjlXa0ZwWkF6R3hWcUFtcUI2LThCNmhpUWJjUWJ3eXZ2S29ha2o1NlVMWmE4LUlYV25haEVnNk1fRVpUOEFuSWxWangxSUZNMFdhTWZiNWV3N0piTURSaWVzQ1p2aEttcFRiZ2xXZjE",
+   "source": "Techzine Global",
+   "published_at": "2026-11-03T09:00:18+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Techzine Global",
+     "published_at": "2026-11-03T09:00:18+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMlBmaWdXNjNjX1pYR1VXdlpuMjZLYmVnTHhHaXJ0T2luNW54NjJDRXRkSW9fRUlycjBDamR2MC1zRjlXa0ZwWkF6R3hWcUFtcUI2LThCNmhpUWJjUWJ3eXZ2S29ha2o1NlVMWmE4LUlYV25haEVnNk1fRVpUOEFuSWxWangxSUZNMFdhTWZiNWV3N0piTURSaWVzQ1p2aEttcFRiZ2xXZjE"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
+   "id": "105b94a2cd2d",
+   "title": "NVDA Shares Inch Higher Overnight After 4-Day Rout: Chipmaker Reportedly Tells Cloud Clients To Limit China Exposure - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMjgxNTRkWFIzT3NTUWJIbXM4WFgtcmxJcy13Vi1lZ0owWFAwMzRjVGVDSi14WEU2aWhYMURvZnYwZHZQME9HUVNIbmYzNHNleVUxUzZtV0pfM0VDQTF2Z1FSalRwRk1INHNPZlYxY1QxMmdfQjFjLWpuOG1KVTlIaWdkXy1sSndJaDBxZnc2YXJNV2hDbjBscVhQcWswOWZKTmxOVV9aVlJjSjdXZUlwOVZBdWZ0dmVzdVNVNVFfWkM3YkhRTy1JNGNQamdGUV9aTlpKdVpPdExiemdUckxJbHh6UlRrWHdlNTdjT0RrTGY5cjdkLWtHZk1QZnFvemdKQjlkcFgxVG5LcENt",
+   "source": "Stocktwits",
+   "published_at": "2026-11-03T08:55:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Stocktwits",
+     "published_at": "2026-11-03T08:55:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMjgxNTRkWFIzT3NTUWJIbXM4WFgtcmxJcy13Vi1lZ0owWFAwMzRjVGVDSi14WEU2aWhYMURvZnYwZHZQME9HUVNIbmYzNHNleVUxUzZtV0pfM0VDQTF2Z1FSalRwRk1INHNPZlYxY1QxMmdfQjFjLWpuOG1KVTlIaWdkXy1sSndJaDBxZnc2YXJNV2hDbjBscVhQcWswOWZKTmxOVV9aVlJjSjdXZUlwOVZBdWZ0dmVzdVNVNVFfWkM3YkhRTy1JNGNQamdGUV9aTlpKdVpPdExiemdUckxJbHh6UlRrWHdlNTdjT0RrTGY5cjdkLWtHZk1QZnFvemdKQjlkcFgxVG5LcENt"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
+   "id": "dd2cef64d7fb",
+   "title": "Nvidia tells cloud clients to cap China business at 49% of their services - Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0t1RmRTQTQzdWUxQ1RuU212cXVUN1JEZ0hKRXlxU1EyZy1SYjZWd09LOWFBQW9uTFJmY09VdDExNzZLTFNLTzJqV3JEUVRONTQwSWlUNkRGd0xJN1FIZG1MYXJKZmFmNjRrOUxpSlJjT05nQ3F5dE9JQXVHTGNNeExma1NhTGJEakdzS0FRdjFKOUM1WVNwbHRtNGdkWDBKbEE",
+   "source": "Startup Fortune",
+   "published_at": "2026-11-03T08:52:20+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Startup Fortune",
+     "published_at": "2026-11-03T08:52:20+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0t1RmRTQTQzdWUxQ1RuU212cXVUN1JEZ0hKRXlxU1EyZy1SYjZWd09LOWFBQW9uTFJmY09VdDExNzZLTFNLTzJqV3JEUVRONTQwSWlUNkRGd0xJN1FIZG1MYXJKZmFmNjRrOUxpSlJjT05nQ3F5dE9JQXVHTGNNeExma1NhTGJEakdzS0FRdjFKOUM1WVNwbHRtNGdkWDBKbEE"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘前"
+  },
+  {
+   "id": "34d29da39645",
+   "title": "Nvidia-Favored Marvell and Lumentum Announce Merger: What Does This Mean for NVDA? - TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbFpyOHl5Wjh4NXVBZzF6WkpLS3VxNjBhcGw5NGFCM05RRDZXa1p6ZTE1WlNCSlZiMWZzTzJtaWk4X1pLRmtxSk4zWHZJRzNUbnEyajlhUVl3VXZhTTJaX0R3QUYxMWtGVVplQ0dJTHFXUUFVMVFMd2psSklhZjhjR0ZXZ0JYcmd2MG9uNVJSdHM0a2M2TGppMVJqd0dIRU02SHRxTlNhTEFKSkEzMW8xRFJkeHhsdUZDbHJTcG14aHY3bENNXzM1Nm1zTTVtWFhvOHU1NVZVb2tNYU0",
+   "source": "TradingKey",
+   "published_at": "2026-11-03T08:51:22+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TradingKey",
+     "published_at": "2026-11-03T08:51:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbFpyOHl5Wjh4NXVBZzF6WkpLS3VxNjBhcGw5NGFCM05RRDZXa1p6ZTE1WlNCSlZiMWZzTzJtaWk4X1pLRmtxSk4zWHZJRzNUbnEyajlhUVl3VXZhTTJaX0R3QUYxMWtGVVplQ0dJTHFXUUFVMVFMd2psSklhZjhjR0ZXZ0JYcmd2MG9uNVJSdHM0a2M2TGppMVJqd0dIRU02SHRxTlNhTEFKSkEzMW8xRFJkeHhsdUZDbHJTcG14aHY3bENNXzM1Nm1zTTVtWFhvOHU1NVZVb2tNYU0"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "60e9758a076f",
+   "title": "英伟达收紧云端服务限制 海外伙伴须确保逾半客户非中国企业 - KLSE Screener",
+   "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQdzJDZ0NpZ2ZqeE5vNWp0WGFyazlrQ2ljNHdyYjVYRVlxdGE5NGsyTWdrMXRPTXB2eHpyeGNiMUxmMXRUMTFYQ1hXbi1SSlptbTJ1T29qV2FNMjZGa25NSXU0a0hFQUxnb18ycW5mRDA0ZzlJZzBkcFFpWEFGX05xZFBBU2oySWxzN0VsLTFHcS1KWm5rWF85UDFXTHpxWmNPc3RoSzZWTWNvdU9EZmNxcDFSbjdKZzQwTFNiU29PNmFPZHhGaFBqMFVwN2dIQWdmb3VJbDZoejUybG1wVlhqYkNoTUhwU2h4c3YyMGxFb1BrRFJLdmRGUjFUMEJyRGZRSFFfNmtVempKQXlGZWRfODZGRGJwVTZEMUZQRzVVV1RTVDE1X05mbUVUM2FkTGU2VWVNcTVTSkVROWNJbDB1TkhlamlKWm1rWlZqeFhMVXphUzQ1ZjMxUzBXMG8xRW45bzMyWkU5cnFFTW1KVTA2ejhZVVhReDdieGp2a1A2YWR1d0s3cERSRHF5SU5xY1NfemZhODgwWWVuZlJwejE3SVRxaTY",
+   "source": "KLSE Screener",
+   "published_at": "2026-11-03T08:51:22+00:00",
+   "outlets_count": 2,
+   "outlets": [
+    {
+     "name": "KLSE Screener",
+     "published_at": "2026-11-03T08:51:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQdzJDZ0NpZ2ZqeE5vNWp0WGFyazlrQ2ljNHdyYjVYRVlxdGE5NGsyTWdrMXRPTXB2eHpyeGNiMUxmMXRUMTFYQ1hXbi1SSlptbTJ1T29qV2FNMjZGa25NSXU0a0hFQUxnb18ycW5mRDA0ZzlJZzBkcFFpWEFGX05xZFBBU2oySWxzN0VsLTFHcS1KWm5rWF85UDFXTHpxWmNPc3RoSzZWTWNvdU9EZmNxcDFSbjdKZzQwTFNiU29PNmFPZHhGaFBqMFVwN2dIQWdmb3VJbDZoejUybG1wVlhqYkNoTUhwU2h4c3YyMGxFb1BrRFJLdmRGUjFUMEJyRGZRSFFfNmtVempKQXlGZWRfODZGRGJwVTZEMUZQRzVVV1RTVDE1X05mbUVUM2FkTGU2VWVNcTVTSkVROWNJbDB1TkhlamlKWm1rWlZqeFhMVXphUzQ1ZjMxUzBXMG8xRW45bzMyWkU5cnFFTW1KVTA2ejhZVVhReDdieGp2a1A2YWR1d0s3cERSRHF5SU5xY1NfemZhODgwWWVuZlJwejE3SVRxaTY"
+    },
+    {
+     "name": "e南洋",
+     "published_at": "2026-11-03T08:51:22+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TbndzVUI2NG1Nb3VGT0RNVkkxdGNJT3Y1RWxFUzZQNTZidG5mOEpVLTBPVV9VLTh3YjBaQlF2RWlsYktnZFBQT3JLRVpEWm5YVEcxUDNISEVvS2xIZExtZVVkNA"
+    }
+   ],
+   "category": "政策监管",
+   "session": "盘前"
+  },
+  {
+   "id": "53dc9e4137cd",
+   "title": "NVIDIA RTX 50 GPU Prices Rise Again In November - Dataconomy",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQUJsdmNwU3B0UEw1dW5GU1pzajJQdGp5SmJFaGlROEJSZ3UxWUN2OXhoSm1maTNFSVh6ZTF6d1NkU2tPMS16dUxDTnlfNHJkZE45TVYzd0dnckZncHUtTWdzQUl4RW9GYWNhbGZfUjZDY2Y1WHdIbEJSSXhaTDB1VTlkeXhOSllMU2c",
+   "source": "Dataconomy",
+   "published_at": "2026-11-03T08:50:30+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Dataconomy",
+     "published_at": "2026-11-03T08:50:30+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQUJsdmNwU3B0UEw1dW5GU1pzajJQdGp5SmJFaGlROEJSZ3UxWUN2OXhoSm1maTNFSVh6ZTF6d1NkU2tPMS16dUxDTnlfNHJkZE45TVYzd0dnckZncHUtTWdzQUl4RW9GYWNhbGZfUjZDY2Y1WHdIbEJSSXhaTDB1VTlkeXhOSllMU2c"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘前"
+  },
+  {
    "id": "27fa21558681",
    "title": "黄仁勋找中国队友! 英伟达机器人关键零件曝光 背后实力强大 - e南洋",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05eURzMmw1d29SNDZ0SFNXeFNON09XeU1Fb0ppSmpvd1pkS0hXa3d4UXFkVDVrTTAtMDQ4WVY0U081WTZMTS1BbHNSN2pmbVVOeE95V1dfVnhHTC1VQVhTWjEwbw",
    "source": "e南洋",
    "published_at": "2026-11-03T08:47:49+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "e南洋",
      "published_at": "2026-11-03T08:47:49+00:00",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05eURzMmw1d29SNDZ0SFNXeFNON09XeU1Fb0ppSmpvd1pkS0hXa3d4UXFkVDVrTTAtMDQ4WVY0U081WTZMTS1BbHNSN2pmbVVOeE95V1dfVnhHTC1VQVhTWjEwbw"
+    },
+    {
+     "name": "KLSE Screener",
+     "published_at": "2026-11-03T08:47:49+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNbHNTSkNNZGlybGVZTlZsRFdxMi0xUktrUGFxbV9BZFJQWXh5VkQxV0RNcUljU3RvR2NQM25OTWNuRUx6S01lMi1vNUhacmZwT3lxT2dHSWlJdWF6aUg1UlNpTk5KeGNMR2hCaEZ6blhLYnRzMGZDRXFlZ0pHbENJUElheEc4UDlXOHYyT2dQR3NBTVlvNG5udmxpeVZHRkVoMWJRUGRVdVdzQkdsamVhSkdoaC15cV95VkRjN0JTWTV5NmxZaHI4d0RKMGJzTDFuUWJhU3hqZXNLSmVORXl0VWc3V3p1T3FNd3hJTHJFTkZUUlM1QUwtd1BLdTdpMkM2VEZzRG1mVHptdGZtbW5YQUlvZlFmbDRmV1FNamo0YjFjOHFMR0Q0azFNSk9lb25uTFZ5NUVUbHR4bmt0UnBOTnY0MXRnYzJsX2R0N2Y3UHoxVHFmUnc0OFBrVDlEQzV0MWV6TS0wZ042MG13aGVEaG4yblhHR1hUUU90V1o4Q21YcmNDMFhHRE5PVFlCbWFVTzFycUhHS1Zfdw"
     }
    ],
    "category": "政策监管",
@@ -5215,7 +5327,7 @@
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTUTROeVBBRVRPVHpTYmljZ3ozajNubFNFZTdxcmRXS1NfUlRzM3Q1aVQzd29DNmZnSU5FVk1qVVBXbmhUYlptdE9nSWRJV1lZeGE2Q3RzRQ",
    "source": "ChainCatcher",
    "published_at": "2026-11-01T22:29:40+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "ChainCatcher",
@@ -5226,13 +5338,22 @@
      "name": "深潮TechFlow",
      "published_at": "2026-11-02T12:52:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zLXMtOTFXZDd6NERjSm4tVVJHOGQ2R2Q0dmd3QXNaYW9sS2pxTTJRV2pXVlp1UENONzgzUUJsTEIyUFRNNXBqVkZTR2ZzMmdyeUZqMw"
+    },
+    {
+     "name": "https://www.me.news/",
+     "published_at": "2026-11-02T15:21:06+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vemRQMDQwekx0a2RqejVTVWd2WXdUOEpGM19OV09ZNV9QQ1ZJekwzQS1KWlhWcFU1WkR3SmNJZV9WbnNNbDdfRnBMbw"
     }
    ],
    "category": "AI需求",
    "session": "周末",
    "zh_summary": "红杉合伙人称SpaceX站在英伟达式增长前夜",
    "title_zh": "红杉合伙人称SpaceX正站在英伟达式增长爆发前夜",
-   "sentiment": 0
+   "sentiment": 0,
+   "price_reaction": {
+    "pct": -0.5,
+    "window_h": 2.0
+   }
   },
   {
    "id": "d56c71e10bee",
@@ -6291,131 +6412,6 @@
    "zh_summary": "Brown Shipley减持NVDA仓位",
    "title_zh": "Brown Shipley减持NVDA股份",
    "sentiment": -1
-  },
-  {
-   "id": "11c6f0f17e03",
-   "title": "NVIDIA Corporation $NVDA Stock Acquired by Dakota Community Bank & Trust NA - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcThPU1VaVWJBNk9kS0E4MUF6MU1NZXZlcnBzbFNZYlFudHFVcGpPZmIwNk5SWmVucy1zOUNYNzRVZXVmdHlyZXFOaC1OQXZQeGh5R2xwOEhlZF82QS1idWg0WUNpVmdpUmtka25WZHM0OEUtTndGX2xXM3dSRWUxRVR2bzdlMllDQWZnUy1FcXNxcGVjb3pYUlJTanQ4V0hoLXFLaVdjaWZKY2pmVVc5Tkt1NnV5eFd3TkZqc2x5UW1vWGpsbDhpV0VQaGJpZw",
-   "source": "MarketBeat",
-   "published_at": "2026-11-01T08:51:11+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-01T08:51:11+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcThPU1VaVWJBNk9kS0E4MUF6MU1NZXZlcnBzbFNZYlFudHFVcGpPZmIwNk5SWmVucy1zOUNYNzRVZXVmdHlyZXFOaC1OQXZQeGh5R2xwOEhlZF82QS1idWg0WUNpVmdpUmtka25WZHM0OEUtTndGX2xXM3dSRWUxRVR2bzdlMllDQWZnUy1FcXNxcGVjb3pYUlJTanQ4V0hoLXFLaVdjaWZKY2pmVVc5Tkt1NnV5eFd3TkZqc2x5UW1vWGpsbDhpV0VQaGJpZw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "中央银行信托公司减持英伟达持仓",
-   "title_zh": "Central Bank & Trust减持NVDA持仓",
-   "sentiment": -1
-  },
-  {
-   "id": "33c373b01542",
-   "title": "NVIDIA Corporation $NVDA Stock: Douglas Lane & Associates LLC Decreases Position - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWi1FTGk2THgtaEtVckQ0dEhyZGs4cU41ZEhCNndhNHVOMUZSWU1JcWRkYUlPOVJFREtTWDR4ZTZ5S3BUUl9GN1R6TEtSTWJzc1JlNlZtaU14Nk83bzdQVE1nQkpDRW1LN3J2RW5ub1cyRmNYMXlwLXlscjAtR3hfYWlqdEFmNURfWWZENklCMFJuOWp2a2EteGVLT0RQN09HME9KVWpmMElIWFcwbnVuUm02MXRzUGxWVWNoaXE2TmdpaUtsQjlHZXI2MTZPdXEzLXMw",
-   "source": "MarketBeat",
-   "published_at": "2026-11-01T08:51:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-01T08:51:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWi1FTGk2THgtaEtVckQ0dEhyZGs4cU41ZEhCNndhNHVOMUZSWU1JcWRkYUlPOVJFREtTWDR4ZTZ5S3BUUl9GN1R6TEtSTWJzc1JlNlZtaU14Nk83bzdQVE1nQkpDRW1LN3J2RW5ub1cyRmNYMXlwLXlscjAtR3hfYWlqdEFmNURfWWZENklCMFJuOWp2a2EteGVLT0RQN09HME9KVWpmMElIWFcwbnVuUm02MXRzUGxWVWNoaXE2TmdpaUtsQjlHZXI2MTZPdXEzLXMw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Douglas Lane减持英伟达持仓",
-   "title_zh": "Douglas Lane减持英伟达股票",
-   "sentiment": -1
-  },
-  {
-   "id": "81496764f5d2",
-   "title": "6,725 NVIDIA Corporation $NVDA Shares Sold by Cypress Asset Management Inc. TX - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPajR6ekE3cDFPQl9GUEtSUGlPRG15VEl4M0U5UW1PaE9pczN2VlhfUlRDV3lFQk84T1RydjZNNUFXN1JpSDVtZW5RVGUxZlBaa2QxdUlrN0RIdURTcnFiZWcxNUVkRkVoSnNwVU5GdUlKYjFob1FRc0ZVYTZUMDEyYWVxUGwzN1h5WW81VV8ta01lb3d0WFpfSl9RRkktdmhIX0g3WEE3YkU2eWhvUnpFcm9UQWtXblMyMFJwUGI5SGowN1V4Tjh2Z1BVeDYydWl2bFE",
-   "source": "MarketBeat",
-   "published_at": "2026-11-01T08:51:10+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-01T08:51:10+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPajR6ekE3cDFPQl9GUEtSUGlPRG15VEl4M0U5UW1PaE9pczN2VlhfUlRDV3lFQk84T1RydjZNNUFXN1JpSDVtZW5RVGUxZlBaa2QxdUlrN0RIdURTcnFiZWcxNUVkRkVoSnNwVU5GdUlKYjFob1FRc0ZVYTZUMDEyYWVxUGwzN1h5WW81VV8ta01lb3d0WFpfSl9RRkktdmhIX0g3WEE3YkU2eWhvUnpFcm9UQWtXblMyMFJwUGI5SGowN1V4Tjh2Z1BVeDYydWl2bFE"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Werlinich减持英伟达股票",
-   "title_zh": "Werlinich Asset Management减持英伟达",
-   "sentiment": -1
-  },
-  {
-   "id": "ac6e302a76ed",
-   "title": "Trump supports Nvidia CEO amid spy allegations - Ticker News",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SazJQUTQwZGdDSTU3bG1vNDlxY3JFeGxJcHhubFBFd3FVc0wxalBTTmFPUlBOdE1rbWo2OUV3VzkzLVNjZVBIRkpqcWJhT2NuOUx5OVBnWEgtdHJrZ2tUTk15NFBBZHZpOV9xTHJvNnZqR0xwNkVSaw",
-   "source": "Ticker News",
-   "published_at": "2026-11-01T08:46:58+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Ticker News",
-     "published_at": "2026-11-01T08:46:58+00:00",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SazJQUTQwZGdDSTU3bG1vNDlxY3JFeGxJcHhubFBFd3FVc0wxalBTTmFPUlBOdE1rbWo2OUV3VzkzLVNjZVBIRkpqcWJhT2NuOUx5OVBnWEgtdHJrZ2tUTk15NFBBZHZpOV9xTHJvNnZqR0xwNkVSaw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "特朗普支持英伟达CEO",
-   "title_zh": "特朗普在间谍指控中支持英伟达CEO",
-   "sentiment": 0
-  },
-  {
-   "id": "954f36159371",
-   "title": "英伟达、英特尔股价重挫，特斯拉抗跌，礼来再创历史新高！11月A股市场主线有哪些？ - 每日经济新闻",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8waWJ5VWNJNUwtNEN3dmc2cE9YemZfN3c1UzR1RDhMWmlXSk5pQzZnQ1c5SHFCN1lOd2wxTGFUZ2Y0Q3VkOEZ5S1FKY3YzV2tmRVpiRXNlYkJvMTJCU0txRjVRbWp3dw",
-   "source": "每日经济新闻",
-   "published_at": "2026-11-01T08:39:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "每日经济新闻",
-     "published_at": "2026-11-01T08:39:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8waWJ5VWNJNUwtNEN3dmc2cE9YemZfN3c1UzR1RDhMWmlXSk5pQzZnQ1c5SHFCN1lOd2wxTGFUZ2Y0Q3VkOEZ5S1FKY3YzV2tmRVpiRXNlYkJvMTJCU0txRjVRbWp3dw"
-    },
-    {
-     "name": "https://www.mrjjxw.com/",
-     "published_at": "2026-11-01T08:39:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1M2lORWRQNjdzUFVRZ05YX2dMd3d5TlFKVjFBN29CekdwZE93YVluSGo0UGx2blh0Mm14SWR3TzY1cEVRanluRWI1czU4NlRvek9scWFPVG5rUnVyd1pFbnU1RU45dw"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达英特尔股价重挫，特斯拉抗跌",
-   "title_zh": "英伟达、英特尔股价重挫，特斯拉抗跌",
-   "sentiment": -1
-  },
-  {
-   "id": "0aefe111d5e2",
-   "title": "2,759 Shares of NVIDIA Corporation $NVDA Acquired by Hardin Capital Partners LLC - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2lFR1QwV3RLN000bngweDlDY2VNd0p6M3RkTUF5M3dXY0ptUEFuVXZYR2loQzhRQThCNk1WUk9FLWZHM2U3SERMUG5Rd2plX01XVEV4eTBGYlVMWGtfTDc4QlZOWks4WlNDWVV5aXZfSlYwem9vemRiSExORVg0X0trZ1AtRDJ6UEdJeXhmd09wWmM3aTc2aDVmT3M2NkkzVVZEeGJwbHdFZkZpYUVJa2NXR2tzN2p1SFItbUpXM0hrUmlFQVhPXzVUODhLZ2tuX1ZhX2Rn",
-   "source": "MarketBeat",
-   "published_at": "2026-11-01T08:35:01+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-01T08:35:01+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2lFR1QwV3RLN000bngweDlDY2VNd0p6M3RkTUF5M3dXY0ptUEFuVXZYR2loQzhRQThCNk1WUk9FLWZHM2U3SERMUG5Rd2plX01XVEV4eTBGYlVMWGtfTDc4QlZOWks4WlNDWVV5aXZfSlYwem9vemRiSExORVg0X0trZ1AtRDJ6UEdJeXhmd09wWmM3aTc2aDVmT3M2NkkzVVZEeGJwbHdFZkZpYUVJa2NXR2tzN2p1SFItbUpXM0hrUmlFQVhPXzVUODhLZ2tuX1ZhX2Rn"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "Hardin增持2759股英伟达",
-   "title_zh": "Hardin Capital Partners增持2759股英伟达",
-   "sentiment": 1
   }
  ]
 }
