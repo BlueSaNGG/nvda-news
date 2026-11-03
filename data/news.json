@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-03T00:51:45.502425+00:00",
+ "updated_at": "2026-11-03T01:06:54.994612+00:00",
  "market": {
-  "price": 202.06,
-  "change_pct": -1.26,
+  "price": 204.64,
+  "change_pct": -4.22,
   "as_of": "2026-11-02",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 15
   },
   "day_sentiment": {
-   "avg": 0.05,
-   "count": 161
+   "avg": 0.06,
+   "count": 162
   },
   "daily_signal": {
    "verdict": "中性",
@@ -20,22 +20,22 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 50% 分位"
+     "note": "现价处于52周区间 53% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +55.9%"
+     "note": "目标价中位数 $315（17家），隐含空间 +53.9%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.05（161条已评分）"
+     "note": "今日新闻情绪 +0.06（162条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $202.06 vs 20日均线 $219.62"
+     "note": "现价 $204.64 vs 20日均线 $221.46"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 50,
+   "price_52w_pct": 53,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 55.9,
-   "ma20": 219.62,
-   "as_of": "2026-11-03T00:51:45.486959+00:00"
+   "implied_upside_pct": 53.9,
+   "ma20": 221.46,
+   "as_of": "2026-11-03T01:06:54.985484+00:00"
   },
-  "pe_ttm": 25.7,
+  "pe_ttm": 26.0,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+55.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+53.9%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "6ba2c246db38",
+   "title": "英伟达拟采购“不粘锅”材料特氟龙，解决下一代AI芯片信号瓶颈 - 机核GCORES",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41LTlHWEh6LThnLUo1Ti1XQ0RUbm5FQnhYVnVTaXZUR1BvMTdMS2plNWFLLXlDM294MmcwX2ZVVk1hMkxYX1dTNU1GdFI1aXM",
+   "source": "机核GCORES",
+   "published_at": "2026-11-03T00:56:55+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "机核GCORES",
+     "published_at": "2026-11-03T00:56:55+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41LTlHWEh6LThnLUo1Ti1XQ0RUbm5FQnhYVnVTaXZUR1BvMTdMS2plNWFLLXlDM294MmcwX2ZVVk1hMkxYX1dTNU1GdFI1aXM"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘后"
+  },
   {
    "id": "d2f8953bbb9b",
    "title": "CrowdStrike, Dell integrate security into NVIDIA AI Factory - Cyber Daily",
@@ -1766,26 +1783,6 @@
    "zh_summary": "合作厂商担忧RTX 5080 24GB延期",
    "title_zh": "合作厂商担忧RTX 5080 24GB一月发布",
    "sentiment": -1
-  },
-  {
-   "id": "dfa00f93f057",
-   "title": "美股大型科技股盘前多数上涨，英伟达涨超1% - 36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiUHVTckMxX2dha2RnN0h4RmZ1Z3F6ZnFiT0NaaVlJN1BaWGpJUVpxdTU3MHIzTFliVnJzRkhZbGh2U054emJuVWs4MXQzRXpYVnhRQ2pRQWo",
-   "source": "36Kr",
-   "published_at": "2026-11-02T12:54:16+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "36Kr",
-     "published_at": "2026-11-02T12:54:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiUHVTckMxX2dha2RnN0h4RmZ1Z3F6ZnFiT0NaaVlJN1BaWGpJUVpxdTU3MHIzTFliVnJzRkhZbGh2U054emJuVWs4MXQzRXpYVnhRQ2pRQWo"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "美股大型科技股盘前多数上涨，英伟达涨超1%",
-   "title_zh": "美股大型科技股盘前多数上涨，英伟达涨超1% - 36Kr",
-   "sentiment": 1
   },
   {
    "id": "f6d41f0a3949",
@@ -4300,6 +4297,26 @@
    "sentiment": 0
   },
   {
+   "id": "dfa00f93f057",
+   "title": "美股大型科技股盘前多数上涨，英伟达涨超1% - 36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiUHVTckMxX2dha2RnN0h4RmZ1Z3F6ZnFiT0NaaVlJN1BaWGpJUVpxdTU3MHIzTFliVnJzRkhZbGh2U054emJuVWs4MXQzRXpYVnhRQ2pRQWo",
+   "source": "36Kr",
+   "published_at": "2026-11-01T20:49:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "36Kr",
+     "published_at": "2026-11-01T20:49:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiUHVTckMxX2dha2RnN0h4RmZ1Z3F6ZnFiT0NaaVlJN1BaWGpJUVpxdTU3MHIzTFliVnJzRkhZbGh2U054emJuVWs4MXQzRXpYVnhRQ2pRQWo"
+    }
+   ],
+   "category": "其他",
+   "session": "周末",
+   "zh_summary": "美股大型科技股盘前多数上涨，英伟达涨超1%",
+   "title_zh": "美股大型科技股盘前多数上涨，英伟达涨超1% - 36Kr",
+   "sentiment": 1
+  },
+  {
    "id": "9fbb059c5fa0",
    "title": "Claude AI Predicts a Huge Move for Nvidia (NVDA) in Euphoric Scenario - Tokenist",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWZocFRkbkZ1Skx1RGw1a3Vsd1lLLUdkWXRxbUdzQzFoMk1wQkVxS0xkSzJqQTJTcWtwQ0tkRXA5MnBTa0FtSE5mZjRhVmQwZXJBLVE0U0ltNWswTi01SFhZUmVTb3F0a0NSXy1UdDdrTGhqTTl2M2hkU0c5ZHhySzBpUUQtWDRySUtmTWdjaVQySE0",
@@ -6166,6 +6183,23 @@
    "sentiment": 0
   },
   {
+   "id": "cca148289c6c",
+   "title": "黄仁勋被扣上间谍帽子，英伟达火速撇清，美国这是急到盯人了 - 缅华网",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DTnRxSnIzelY0MXFfM2Vxb2FCMUlfdHBYVU1kbmZFdkJpdVFoRF9PenZPTDlBRXBnaVBXWllhRmYySDExTXdMeTJSTHpyR0lJV001cXdpN1ZwN2Fh",
+   "source": "缅华网",
+   "published_at": "2026-10-31T17:30:19+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "缅华网",
+     "published_at": "2026-10-31T17:30:19+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DTnRxSnIzelY0MXFfM2Vxb2FCMUlfdHBYVU1kbmZFdkJpdVFoRF9PenZPTDlBRXBnaVBXWllhRmYySDExTXdMeTJSTHpyR0lJV001cXdpN1ZwN2Fh"
+    }
+   ],
+   "category": "其他",
+   "session": "周末"
+  },
+  {
    "id": "e805d2c4913f",
    "title": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries — GOOGL, MSFT, ORCL, NVDA, MRVL In Focus - Stocktwits",
    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOZkZxbTlaRlJuYVhsa0V4em5uNWJVMXJJSjNha0R3VlMwNzRrVFlQbVJyXzA2RUMxU1hkSDhEWFJiTV9ERjZKR0otd0lZZDF1SjVVUjlta1NweEJSVHp1UmZzX0RFcWVKQUNSUGMwVW1FM2p5dU4ta2RFNFI2c05nZWdlcFdiUlQ2VzZzZnh2YUhPeldlcndLTkJtQkpwNkNqWTZsdFNMYnBCRmlwVFhBZUxveVBZRGh5QWZRajJjRDZXNXB2S2NCQmREMlVHZmVrOGdxS1FvRExpbFAxcG1iRTB4cTYyTHd1TzFDZmxKNkhIUncwYllnVWdRVEJOZGtsWFRSWFczUHIzb2ItejA1Q0szSndLT2FuSHdkV1dncEFQU09zUWxj",
@@ -6363,46 +6397,6 @@
    "session": "周末",
    "zh_summary": "玩家开发工具解锁老显卡AI性能",
    "title_zh": "玩家开发自动工具，解锁RTX 20/30/40系列显卡AI性能",
-   "sentiment": 1
-  },
-  {
-   "id": "c4e5d761b577",
-   "title": "Nvidia + Hugging Face: 5 DOJ Probe Risks [2026] - shattered.io",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQalhManVhaTNrOEtIVFZQMXNBOWhFYllXeGhDU0xDS2dvNm5TZm1aUHlRMXFHTl9ZaWtlSGc1ZWlRMUczZDdqZTZCdFM1TWdkYjJMcDdVc1dfaTRoVUNGSG93WVlfbExqRGZNang1d2tYQURWOERfaElnQU4zT1hHenJiMW9uZzBQVGc",
-   "source": "shattered.io",
-   "published_at": "2026-10-31T15:01:12+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "shattered.io",
-     "published_at": "2026-10-31T15:01:12+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQalhManVhaTNrOEtIVFZQMXNBOWhFYllXeGhDU0xDS2dvNm5TZm1aUHlRMXFHTl9ZaWtlSGc1ZWlRMUczZDdqZTZCdFM1TWdkYjJMcDdVc1dfaTRoVUNGSG93WVlfbExqRGZNang1d2tYQURWOERfaElnQU4zT1hHenJiMW9uZzBQVGc"
-    }
-   ],
-   "category": "政策监管",
-   "session": "周末",
-   "zh_summary": "英伟达与Hugging Face面临反垄断调查风险",
-   "title_zh": "英伟达与Hugging Face：反垄断调查的5大风险",
-   "sentiment": -1
-  },
-  {
-   "id": "a1a18a2c9d13",
-   "title": "New NVIDIA UEFI GPU Unlocker Brings Up To 75% Higher AI Compute Performance To RTX 20, 30 & 40 Series GPUs On Windows - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX0RTS1lWb2w1OE81NVJiNTl6aXhiTHljdERwQkoyVnRCMW8tdWJ3Qm5UMjE0bndBeXZKT1pNWk5fOXlISDlid0NGUHdiblZBWlRaUUhPQXZWeUtLem5WaTlVQk1wSVVUZEE1Yl9sZ092aEpqcV9oWXVRS3JkNzU5Y3I1QmRHUWNtb3lydG5mUVBhMnREekZMZFZ3dy05YnFFN3hEN1NOZjhlYklkcUozUGdMZ3Q0R2o1bWUxOEZuQ1pGZ2dMcG1oZzlXMlN5dkpM0gHWAUFVX3lxTE5wclBRNVhaUkFQTzc5cUhEaVJwd21XV1l5S01CRVVVay01OE83WGowVnJxbFZXd1FzTFFFbmpHMHpxa0FKMk13ZlIteDZDN1pTbzRuczA4WWY2MFcySi1TcXdtU29CN0V6c0NwNEF1eE5WMTRYWnh3dVpDN3VqX0hteXQ0aXhRNWdYeWRWdENIa3dZeGN5bmJuNlEtV29nTXl4OWpBV1liemJ1Rm45dW5jaGRhZUZWSmQ0dENJSE40UkUwZ05SeXFuSF90QmJQLTVLZVU0OVE",
-   "source": "Wccftech",
-   "published_at": "2026-10-31T15:00:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-10-31T15:00:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX0RTS1lWb2w1OE81NVJiNTl6aXhiTHljdERwQkoyVnRCMW8tdWJ3Qm5UMjE0bndBeXZKT1pNWk5fOXlISDlid0NGUHdiblZBWlRaUUhPQXZWeUtLem5WaTlVQk1wSVVUZEE1Yl9sZ092aEpqcV9oWXVRS3JkNzU5Y3I1QmRHUWNtb3lydG5mUVBhMnREekZMZFZ3dy05YnFFN3hEN1NOZjhlYklkcUozUGdMZ3Q0R2o1bWUxOEZuQ1pGZ2dMcG1oZzlXMlN5dkpM0gHWAUFVX3lxTE5wclBRNVhaUkFQTzc5cUhEaVJwd21XV1l5S01CRVVVay01OE83WGowVnJxbFZXd1FzTFFFbmpHMHpxa0FKMk13ZlIteDZDN1pTbzRuczA4WWY2MFcySi1TcXdtU29CN0V6c0NwNEF1eE5WMTRYWnh3dVpDN3VqX0hteXQ0aXhRNWdYeWRWdENIa3dZeGN5bmJuNlEtV29nTXl4OWpBV1liemJ1Rm45dW5jaGRhZUZWSmQ0dENJSE40UkUwZ05SeXFuSF90QmJQLTVLZVU0OVE"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "新工具解锁老显卡AI算力最高提升75%",
-   "title_zh": "新英伟达UEFI解锁工具提升RTX 20/30/40系列AI算力最高75%",
    "sentiment": 1
   }
  ]
