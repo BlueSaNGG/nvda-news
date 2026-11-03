@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-03T15:36:27.696453+00:00",
+ "updated_at": "2026-11-03T15:51:30.605097+00:00",
  "market": {
-  "price": 207.34,
-  "change_pct": 2.61,
+  "price": 207.65,
+  "change_pct": 2.77,
   "as_of": "2026-11-03",
   "next_earnings": {
    "date": "2026-11-17",
@@ -10,8 +10,8 @@
    "days_left": 14
   },
   "day_sentiment": {
-   "avg": 0.08,
-   "count": 107
+   "avg": 0.09,
+   "count": 110
   },
   "daily_signal": {
    "verdict": "中性",
@@ -25,17 +25,17 @@
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +51.9%"
+     "note": "目标价中位数 $315（17家），隐含空间 +51.7%"
     },
     {
      "key": "新闻情绪",
      "score": 0,
-     "note": "今日新闻情绪 +0.08（107条已评分）"
+     "note": "今日新闻情绪 +0.09（110条已评分）"
     },
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $207.34 vs 20日均线 $218.02"
+     "note": "现价 $207.65 vs 20日均线 $218.04"
     },
     {
      "key": "分析师动向",
@@ -46,13 +46,13 @@
    "price_52w_pct": 57,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 51.9,
-   "ma20": 218.02,
-   "as_of": "2026-11-03T15:36:27.682392+00:00"
+   "implied_upside_pct": 51.7,
+   "ma20": 218.04,
+   "as_of": "2026-11-03T15:51:30.595305+00:00"
   },
   "pe_ttm": 26.4,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+51.9%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+51.7%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -62,24 +62,89 @@
  },
  "stories": [
   {
+   "id": "762f4b99a8aa",
+   "title": "英伟达要求数据中心客户降低对中国业务比重 - RFI",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOblNYcG5PVDhRNFRRdkRfbmV1NloxTjlRTEdpRmlLeFRKa3lrbjY4WGJCUmFHSTRPY3BEUkxtcl9vSUNPOHllVE43Y2s0ZkI4RXVmYlhQOUFLTWxOX3pxM3ZsX2wtdkcxTTNydUNDVTZNRFlHX1AtS1BWRXJaN0VxNVd0QTlFaWlkQXprTjIwVF9QQ3d0bFd3U2doU3ExVmMxZDZCemM1ZTQ5dFpkYVBCYmVoM0xkUW9LZDVLR3JoSmpUNWR3ZnRaRW9yUS1Ld1dZWnZnWV82Z2hfbGh5LTc5TXBVOGh1ZGljdVRyZ1Z0S1RhY3FXMWZJQXBhSFg2WGVtcnR5bzNRNlRVODY2cmFsb0FLdXdodFMza2ctNksxSjc2WndUSnZoQjA3bHJPcWdYUDl0bXdYRTBTX0JEdGR3U08xOVV2NnRtb1MwNE1PVQ",
+   "source": "RFI",
+   "published_at": "2026-11-03T15:42:50+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "RFI",
+     "published_at": "2026-11-03T15:42:50+00:00",
+     "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOblNYcG5PVDhRNFRRdkRfbmV1NloxTjlRTEdpRmlLeFRKa3lrbjY4WGJCUmFHSTRPY3BEUkxtcl9vSUNPOHllVE43Y2s0ZkI4RXVmYlhQOUFLTWxOX3pxM3ZsX2wtdkcxTTNydUNDVTZNRFlHX1AtS1BWRXJaN0VxNVd0QTlFaWlkQXprTjIwVF9QQ3d0bFd3U2doU3ExVmMxZDZCemM1ZTQ5dFpkYVBCYmVoM0xkUW9LZDVLR3JoSmpUNWR3ZnRaRW9yUS1Ld1dZWnZnWV82Z2hfbGh5LTc5TXBVOGh1ZGljdVRyZ1Z0S1RhY3FXMWZJQXBhSFg2WGVtcnR5bzNRNlRVODY2cmFsb0FLdXdodFMza2ctNksxSjc2WndUSnZoQjA3bHJPcWdYUDl0bXdYRTBTX0JEdGR3U08xOVV2NnRtb1MwNE1PVQ"
+    }
+   ],
+   "category": "AI需求",
+   "session": "盘中"
+  },
+  {
+   "id": "4e3920b0d17f",
+   "title": "Nvidia rallies on Marvell-Lumentum merger endorsement - StreetInsider",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV0FYTExsaDQ5ZDBPeVJtd29IR1R3Z0ZwWkQ5LXdRaFJkbXNBdmtyb2FEb2l5TnRkZngtOWZfT3NoZHUwYlBUdDVPWGI0RVJoSVJSYXZkX0ZLTWJUQ2hOM2FEZnNjeHJ2allTM2tCRUxfQ0E0OVR0SU5vWGRNR2ZOUUx2czVpQXd0MERuUTAtaktYSXlXQ0M5b1A2azcyVW9TeHhSVkgyVzhtc0U",
+   "source": "StreetInsider",
+   "published_at": "2026-11-03T15:36:47+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "StreetInsider",
+     "published_at": "2026-11-03T15:36:47+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV0FYTExsaDQ5ZDBPeVJtd29IR1R3Z0ZwWkQ5LXdRaFJkbXNBdmtyb2FEb2l5TnRkZngtOWZfT3NoZHUwYlBUdDVPWGI0RVJoSVJSYXZkX0ZLTWJUQ2hOM2FEZnNjeHJ2allTM2tCRUxfQ0E0OVR0SU5vWGRNR2ZOUUx2czVpQXd0MERuUTAtaktYSXlXQ0M5b1A2azcyVW9TeHhSVkgyVzhtc0U"
+    }
+   ],
+   "category": "市场宏观",
+   "session": "盘中"
+  },
+  {
+   "id": "3a830f73059a",
+   "title": "美股讯号 | 英伟达市值重回全球第一，苹果遭遇下跌压力 ｜#美股资讯# #英伟达# #市场事件# - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVZEM1FlbGg2QlJJRjVfbGRERzJ0ZkpEZWwtN3VhS1pJeXpDZHM1TmlnUWdqLXpYMXFVeUlnQ1c1NHZzTjZDUzM0UEZLc3VlWDlfWW5lYThtMENVc3hlWDdKdm1SOXItemowZ1AyNU9tU3FTTmhiQWoyS3BMMzBFMEpab0x1QVcxaGdmTg",
+   "source": "搜狐网",
+   "published_at": "2026-11-03T15:33:57+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-11-03T15:33:57+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVZEM1FlbGg2QlJJRjVfbGRERzJ0ZkpEZWwtN3VhS1pJeXpDZHM1TmlnUWdqLXpYMXFVeUlnQ1c1NHZzTjZDUzM0UEZLc3VlWDlfWW5lYThtMENVc3hlWDdKdm1SOXItemowZ1AyNU9tU3FTTmhiQWoyS3BMMzBFMEpab0x1QVcxaGdmTg"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
+  },
+  {
    "id": "24bdd12a879c",
    "title": "美股芯片、光通信股大反弹，闪迪涨超5%，英伟达市值重回全球第一 - 东方财富",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBheTliel8zWG9zYTF1UFRPX3JHbnJIVkRRZWV3MDNWN0ZlYmlyaXVodGNEcHpmcGRNRTVwajM5RzRvb2pNbW5FdEJSbU51VkRNVTVhUmxYUnFrdkJIc2tZXw",
    "source": "东方财富",
    "published_at": "2026-11-03T15:32:04+00:00",
-   "outlets_count": 1,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "东方财富",
      "published_at": "2026-11-03T15:32:04+00:00",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBheTliel8zWG9zYTF1UFRPX3JHbnJIVkRRZWV3MDNWN0ZlYmlyaXVodGNEcHpmcGRNRTVwajM5RzRvb2pNbW5FdEJSbU51VkRNVTVhUmxYUnFrdkJIc2tZXw"
+    },
+    {
+     "name": "21财经",
+     "published_at": "2026-11-03T15:33:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNVZZZU9VWGY0VXpEN3Y1RVRJY0RESGNlSEdnNG9ydk0ySExsZ1FQQWtNNlN2amYzSTY5bURoV28xVXE2djdOamw0Rm9pY3d0X0xYbEl2R1NEeEMtVnVQMG0tUC1aZld2ODQ0RkRkRHFmczlHamtWVC1BdlhhbFNyeENCdkVnS1lMbG1xRUhBTQ"
+    },
+    {
+     "name": "网易新闻客户端",
+     "published_at": "2026-11-03T15:39:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YNlZQRTFVeGEzb0pMNkFuU21OMlBHbmt5UEtERmZ0ZUVDN3JadEN1VFFEWXpIbFJuRXV3Rzhnam94Vi1keUZfWWNzVWQ1QVFVTE1WQzZhMFdDQXFV"
     }
    ],
    "category": "产品技术",
    "session": "盘中",
    "zh_summary": "芯片股反弹，英伟达市值重回全球第一",
    "title_zh": "美股芯片、光通信股大反弹，闪迪涨超5%，英伟达市值重回全球第一 - 东方财富",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": 0.23,
+    "window_h": 0.3
+   }
   },
   {
    "id": "ea19e0e6812e",
@@ -87,12 +152,17 @@
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVktPNXdLRUQwWjZNeWo2b1hLSW1pVklVcktucUpZVG5PWGtmQVQ0ZWdwMkppemxtMlhNUDdIT2xxQl9VZXF6STNiT3YydW42Mnk1WDlIeFQ2S0I5N1Y3aTZDeVJHTlA0ZHZjVlhHTkNXaFgxRTJYNlctUWFpRnQ4UkhzTE5TalNLNndoSnNVZTNMeXJ6QzJRRGYwQ3puNGluWWpFWk5nNWxRcGhfZzBsVm5RdGszY2FnMWJHYmR0c1lSdVNLMl9tZGxlOHc",
    "source": "Business Wire",
    "published_at": "2026-11-03T15:14:00+00:00",
-   "outlets_count": 1,
+   "outlets_count": 2,
    "outlets": [
     {
      "name": "Business Wire",
      "published_at": "2026-11-03T15:14:00+00:00",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVktPNXdLRUQwWjZNeWo2b1hLSW1pVklVcktucUpZVG5PWGtmQVQ0ZWdwMkppemxtMlhNUDdIT2xxQl9VZXF6STNiT3YydW42Mnk1WDlIeFQ2S0I5N1Y3aTZDeVJHTlA0ZHZjVlhHTkNXaFgxRTJYNlctUWFpRnQ4UkhzTE5TalNLNndoSnNVZTNMeXJ6QzJRRGYwQ3puNGluWWpFWk5nNWxRcGhfZzBsVm5RdGszY2FnMWJHYmR0c1lSdVNLMl9tZGxlOHc"
+    },
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-03T15:14:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZE9YUXAxQ3Bwc3dXNC1OOTd1Ykg0ZS05U0JRdHYyQUk1QVBNa25zb0dYWTNZeVI1Sk1zODc3OTVCRmtPRzROV3lKbFRiVVctbHlsa0tockxNNE1EVWEycnp6OWl6UUt6MnZ0REtZU2IzX1o0MzRzWGJnY1N0WFZyQlJiSFZ3MURLOEFwQkRzZnN1Q2ZTWnlEN29R"
     }
    ],
    "category": "其他",
@@ -1561,6 +1631,23 @@
    "zh_summary": "Sacks公司买入14570股英伟达",
    "title_zh": "Sacks公司买入14570股英伟达股票",
    "sentiment": 1
+  },
+  {
+   "id": "472ae61e9b36",
+   "title": "NVIDIA Corporation $NVDA Stock: Sherry Group Inc. Decreases Position - MarketBeat",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY01aQWRnc1QyMEpjQS1jRldhbS13NC1KV0JlYWJKVjBJUHVlcXhYVS1GM2Jua2VmWnJFQVVEMjBtNUM5OUZQaU11MTZUcjRIV0Y0WERkbjlSbWgtekU5OTlfNnlQN3F3X2V6RHZfRnplcjBjLXJUM21BQ0s0dTEzVW95UjBLTjg3My1tUHdickFjNmd5cjRsU255cXdEaUR0dnM2YW5mYldFUGY5S21rTDc3eEpFZWFqd1hrSWJFVEtQMUU1",
+   "source": "MarketBeat",
+   "published_at": "2026-11-03T09:38:46+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "MarketBeat",
+     "published_at": "2026-11-03T09:38:46+00:00",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY01aQWRnc1QyMEpjQS1jRldhbS13NC1KV0JlYWJKVjBJUHVlcXhYVS1GM2Jua2VmWnJFQVVEMjBtNUM5OUZQaU11MTZUcjRIV0Y0WERkbjlSbWgtekU5OTlfNnlQN3F3X2V6RHZfRnplcjBjLXJUM21BQ0s0dTEzVW95UjBLTjg3My1tUHdickFjNmd5cjRsU255cXdEaUR0dnM2YW5mYldFUGY5S21rTDc3eEpFZWFqd1hrSWJFVEtQMUU1"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
   },
   {
    "id": "24a211d399c8",
@@ -4271,7 +4358,7 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3MyZ3pjME8yNnBKQnFzOUd1MHVGTjZsY1FsckhPNThtaUFrd3JJbkYwU05KYkZ0RTNxY3hmU2FuUzFWYWZEcmRkLWh1VzNsTkFHSEJDclVSY1YyeWpBd0l6cDVZcEVhemhKWGZ1TjhMYVl5UnkxaGp5RERfVmJSc1RxaDBMR1pPd2NXWExzRGROMTIwN1ZFWHdVcw",
    "source": "Investing.com UK",
    "published_at": "2026-11-02T15:12:00+00:00",
-   "outlets_count": 2,
+   "outlets_count": 3,
    "outlets": [
     {
      "name": "Investing.com UK",
@@ -4282,13 +4369,22 @@
      "name": "Investing.com",
      "published_at": "2026-11-02T15:19:12+00:00",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVXdoSFFaUF8zM2tBTEs4SGlRM25wMk1VSUtOMUFLQW5ZTVRReS1fVDdUM05vQkR4TFFpcUZTX3JsanlxM29VR213eTF0RklSYWNCeVpRUksweERPNGZTZ2J5ZEg4UlV1c3JTSDVDUHdRdktWNlB0TGM5NEF0V1V1bnAxeGhkUGVZaDE1YjRZQzhxVUtXbWh4cHpqN0c"
+    },
+    {
+     "name": "Investing.com Nigeria",
+     "published_at": "2026-11-03T15:37:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVzBRUkR2NGttbTRDNjlRZFVIMUpPT0Nldlp3VS1ISUw0ZFMxX0thNlZlb3FGaERDS0RGRldRSFo5SnJoc1QzMWxVS3gzX05uVFZkRWNsV01zOGloYlluUmdwNjZUVGlqR1RjSzdDQmpwSmZOZ0tDendHSVZIWktOLWhvZ2Fka3d1ZU9WWVYtU0piZ3drNGJxNHJ5dw"
     }
    ],
    "category": "其他",
    "session": "盘中",
    "zh_summary": "为何英伟达股价今日上涨",
    "title_zh": "为何英伟达股价今日上涨",
-   "sentiment": 1
+   "sentiment": 1,
+   "price_reaction": {
+    "pct": -0.96,
+    "window_h": 2.0
+   }
   },
   {
    "id": "14b9c99cc270",
@@ -6406,91 +6502,6 @@
    "session": "盘前",
    "zh_summary": "英伟达Rubin GPU亮相",
    "title_zh": "英伟达Rubin GPU",
-   "sentiment": 0
-  },
-  {
-   "id": "93840c6f3505",
-   "title": "ASRock Rack OCP Summit 2026 NVIDIA Dual Vera CPU Board 1 - ServeTheHome",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ0lBa1ZmN19HbU11SENfOXk5LUxQZTl0clVGempUMXphY2VlRDhJZ3B3anlabnh2SHd2NkQ0OHdFZWN4aG9kSmVQN1lwQWNPTDk0Zm14amVycGZudWoydXBic3JQbkdVQmx6Vlp0blM1TFV6RkUtWkZmZ21PVWpGTEVwYjdId3BuWlZEdndOV3hIT2F0VG10Nmc4Ym5xbTdDQ0xPSHNJS3AtOTY1b2tYeHFyWFpTaGtnQkFnWHhPRDRuX0NldXh2aUF1cE00Q0JXVkhGc1lSYWwyTXdlRWdtaGMydw",
-   "source": "ServeTheHome",
-   "published_at": "2026-11-02T07:32:52+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "ServeTheHome",
-     "published_at": "2026-11-02T07:32:52+00:00",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ0lBa1ZmN19HbU11SENfOXk5LUxQZTl0clVGempUMXphY2VlRDhJZ3B3anlabnh2SHd2NkQ0OHdFZWN4aG9kSmVQN1lwQWNPTDk0Zm14amVycGZudWoydXBic3JQbkdVQmx6Vlp0blM1TFV6RkUtWkZmZ21PVWpGTEVwYjdId3BuWlZEdndOV3hIT2F0VG10Nmc4Ym5xbTdDQ0xPSHNJS3AtOTY1b2tYeHFyWFpTaGtnQkFnWHhPRDRuX0NldXh2aUF1cE00Q0JXVkhGc1lSYWwyTXdlRWdtaGMydw"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "华擎展示英伟达Vera CPU主板",
-   "title_zh": "华擎机架OCP峰会展示英伟达Vera CPU主板",
-   "sentiment": 1
-  },
-  {
-   "id": "8606febca90f",
-   "title": "NVIDIA Releases 9.61 Million-Parameter Noise Removal AI for Free, Clears Multilingual Audio - BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBdTcteTJTbGNqQV9GNEliNkdjeTlPMW4wTmV0X1ROWS15UGVsN2Jyd1lTbldEUlFSVzdfQzZSeG90U05HLTM4SFlXYzM0WnZORkRvTGYtS19xSEVaWlV5djZBQlhsdlRKWVhkWEc2MTRMQXh1Qmc",
-   "source": "BigGo Finance",
-   "published_at": "2026-11-02T07:26:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "BigGo Finance",
-     "published_at": "2026-11-02T07:26:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBdTcteTJTbGNqQV9GNEliNkdjeTlPMW4wTmV0X1ROWS15UGVsN2Jyd1lTbldEUlFSVzdfQzZSeG90U05HLTM4SFlXYzM0WnZORkRvTGYtS19xSEVaWlV5djZBQlhsdlRKWVhkWEc2MTRMQXh1Qmc"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达免费发布降噪AI模型",
-   "title_zh": "英伟达免费发布961万参数多语言降噪AI",
-   "sentiment": 1
-  },
-  {
-   "id": "3a5f3509562b",
-   "title": "盘中涨停百亿巨量成交难阻抛压炸板！东山精密Q3净利暴增401% 英伟达OOI技术引爆CPO修复行情 - 金融界",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KRjhNQzh3STIzbXkwemkwMk1FbFRCVC11eTF3TU1LUm42M3M2aGlZQlU2Wk5CQkdzUFJ1dkxtZUZLbFBNM0VsMmFZbkJJdGNvTF9IemtzZnNpc1BaVzZ4cEtaVVpleXUxdDVEWXN0ZDZqQQ",
-   "source": "金融界",
-   "published_at": "2026-11-02T07:06:18+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "金融界",
-     "published_at": "2026-11-02T07:06:18+00:00",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KRjhNQzh3STIzbXkwemkwMk1FbFRCVC11eTF3TU1LUm42M3M2aGlZQlU2Wk5CQkdzUFJ1dkxtZUZLbFBNM0VsMmFZbkJJdGNvTF9IemtzZnNpc1BaVzZ4cEtaVVpleXUxdDVEWXN0ZDZqQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "东山精密Q3净利增长401%",
-   "title_zh": "东山精密Q3净利增401%，英伟达OOI技术引爆CPO行情",
-   "sentiment": 1
-  },
-  {
-   "id": "8a64da66876b",
-   "title": "Nvidia has not yet provided design information to its partners. - expreview.com",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HbFBldEtkT19rb3BXazR1S1FWQmZ1d2JIWmpzUkFhSklJbjRWQXFLNWhKbWc0aDgtaFNRY2tVMExVWXdMMXQ2ZG15UTR3dw",
-   "source": "expreview.com",
-   "published_at": "2026-11-02T07:06:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "expreview.com",
-     "published_at": "2026-11-02T07:06:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HbFBldEtkT19rb3BXazR1S1FWQmZ1d2JIWmpzUkFhSklJbjRWQXFLNWhKbWc0aDgtaFNRY2tVMExVWXdMMXQ2ZG15UTR3dw"
-    },
-    {
-     "name": "超能网",
-     "published_at": "2026-11-02T07:35:16+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kVVI0VF9VbThBdWxTOHR2ekdfbGNBR0JMYXN0Q1lfMDMzVXN1MlR1Z3pDY01lWEhuc1VxZW5NLUFfRGtzbjVkdnVfRQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "英伟达未向合作伙伴提供设计信息",
-   "title_zh": "英伟达尚未向合作伙伴提供设计信息",
    "sentiment": 0
   }
  ]
