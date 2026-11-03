@@ -1,8 +1,8 @@
 {
- "updated_at": "2026-11-03T20:06:36.639467+00:00",
+ "updated_at": "2026-11-03T20:21:32.003813+00:00",
  "market": {
-  "price": 206.68,
-  "change_pct": 2.29,
+  "price": 207.04,
+  "change_pct": 2.46,
   "as_of": "2026-11-03",
   "next_earnings": {
    "date": "2026-11-17",
@@ -20,12 +20,12 @@
     {
      "key": "估值位置",
      "score": 0,
-     "note": "现价处于52周区间 56% 分位"
+     "note": "现价处于52周区间 57% 分位"
     },
     {
      "key": "目标价空间",
      "score": 1,
-     "note": "目标价中位数 $315（17家），隐含空间 +52.4%"
+     "note": "目标价中位数 $315（17家），隐含空间 +52.1%"
     },
     {
      "key": "新闻情绪",
@@ -35,7 +35,7 @@
     {
      "key": "动量",
      "score": -1,
-     "note": "现价 $206.68 vs 20日均线 $217.99"
+     "note": "现价 $207.04 vs 20日均线 $218.00"
     },
     {
      "key": "分析师动向",
@@ -43,16 +43,16 @@
      "note": "近14天无分析师动作"
     }
    ],
-   "price_52w_pct": 56,
+   "price_52w_pct": 57,
    "target_median": 315.0,
    "target_count": 17,
-   "implied_upside_pct": 52.4,
-   "ma20": 217.99,
-   "as_of": "2026-11-03T20:06:36.626992+00:00"
+   "implied_upside_pct": 52.1,
+   "ma20": 218.0,
+   "as_of": "2026-11-03T20:21:31.989199+00:00"
   },
   "pe_ttm": 26.3,
   "pe_pct_5y": 18,
-  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.4%空间：估值偏低，预期乐观"
+  "valuation_sentence": "现价处5年P/E 18%分位，目标价隐含+52.1%空间：估值偏低，预期乐观"
  },
  "meta": {
   "daily_brief": {
@@ -61,6 +61,23 @@
   }
  },
  "stories": [
+  {
+   "id": "3d83a60ea0f1",
+   "title": "Nvidia RTX 5080 Super rumor suggests it's now delayed, as GPU prices go through the roof — and I'm worried next year is going to be a nightmare for PC gamers - TechRadar",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNR3pqcG45THRBLWZNUHBRbWFrTHdBTnhWRmJOZXF4TzZKcnVMOFNReHRaQkdNbmhPMHFpLS1Wb1ZKWExteUVfdlI3VHF5ZEoxZGNtSlNZb0FMNjFTa1M2TXBMaXpTNHgwbWVJdkRvbzhDbFU2ckMzMl94aGdRU2dSMVBuZDM0b2gwbFUwRDdkRFVnVFJoUS1odkFFYzc5V3FQd0pqcmJKZTQ1M3J0N1ZnMmRBNnlJdEtoRmpDUVpXRWR2bGdTdkNjZHB2dE1GNTh1clZDX3hIc1p6LXFWVHF5UHFSRm5XclpxU0w0aklCeElZbkJzUERBUk9JTkQydnZGME5mdU5RRnZWU2N5d1dYX1hnMmhFdw",
+   "source": "TechRadar",
+   "published_at": "2026-11-03T20:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "TechRadar",
+     "published_at": "2026-11-03T20:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNR3pqcG45THRBLWZNUHBRbWFrTHdBTnhWRmJOZXF4TzZKcnVMOFNReHRaQkdNbmhPMHFpLS1Wb1ZKWExteUVfdlI3VHF5ZEoxZGNtSlNZb0FMNjFTa1M2TXBMaXpTNHgwbWVJdkRvbzhDbFU2ckMzMl94aGdRU2dSMVBuZDM0b2gwbFUwRDdkRFVnVFJoUS1odkFFYzc5V3FQd0pqcmJKZTQ1M3J0N1ZnMmRBNnlJdEtoRmpDUVpXRWR2bGdTdkNjZHB2dE1GNTh1clZDX3hIc1p6LXFWVHF5UHFSRm5XclpxU0w0aklCeElZbkJzUERBUk9JTkQydnZGME5mdU5RRnZWU2N5d1dYX1hnMmhFdw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
+  },
   {
    "id": "bcb85b299301",
    "title": "Nvidia Stock Climbs Amid Oil Price Drop - Benzinga",
@@ -80,6 +97,23 @@
    "zh_summary": "英伟达股价随油价下跌上涨",
    "title_zh": "油价下跌之际英伟达股价攀升",
    "sentiment": 1
+  },
+  {
+   "id": "14fc7c5436c5",
+   "title": "NVIDIA Claims AI is Reshaping Chip Factories, Simulation Speeds Up by Up to 35x - KuCoin",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOU9UeHQ0TlY3RzdFeGYwVTZGM2piblFBd2dyRUtaOTlGY2dwMlJBRVgzbUc0MGNySldtbnBqZzNfWUJKbjRSMkxTTE9GSXA2S2dZenptdXZuM0g0RjlobDJkSjJ4cHA0VFdWMjBQNUJUWngxZGpERzNCSjBrQmYwb2laalduZ1FZNTNQbUYtMzBtREJ3aTVoR3R3Rm14UDBKNlNzbnZLaUtoZw",
+   "source": "KuCoin",
+   "published_at": "2026-11-03T19:35:07+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "KuCoin",
+     "published_at": "2026-11-03T19:35:07+00:00",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOU9UeHQ0TlY3RzdFeGYwVTZGM2piblFBd2dyRUtaOTlGY2dwMlJBRVgzbUc0MGNySldtbnBqZzNfWUJKbjRSMkxTTE9GSXA2S2dZenptdXZuM0g0RjlobDJkSjJ4cHA0VFdWMjBQNUJUWngxZGpERzNCSjBrQmYwb2laalduZ1FZNTNQbUYtMzBtREJ3aTVoR3R3Rm14UDBKNlNzbnZLaUtoZw"
+    }
+   ],
+   "category": "产品技术",
+   "session": "盘中"
   },
   {
    "id": "3d0a011e4aa6",
@@ -349,6 +383,23 @@
     "pct": -0.76,
     "window_h": 1.9
    }
+  },
+  {
+   "id": "f2fa108c38d9",
+   "title": "Bad News: Nvidia “Really Struggles” on Decode for Giant Models. Fast Tokens Fetch “3 to 5x” - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0dmb2pzZnFMY2Zzd1kzcDZtNzBGelREU2R2cThZU0dlYVlmQ3dmQzN0UEcwWW85bkdQQl9WVVB2d2tYc2EzcktEaUtFY1o5bjFwQnJhN3pJNkFyVXRTM1h5ajRxSTRFb3NEbjBiSnBBUFlsa0J3dVZ0OXVSa0oxVklMdTU1Uk8xXzRGTFpzVnpGMjFHdk5tWm41ems",
+   "source": "Yahoo Finance",
+   "published_at": "2026-11-03T17:42:38+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Yahoo Finance",
+     "published_at": "2026-11-03T17:42:38+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0dmb2pzZnFMY2Zzd1kzcDZtNzBGelREU2R2cThZU0dlYVlmQ3dmQzN0UEcwWW85bkdQQl9WVVB2d2tYc2EzcktEaUtFY1o5bjFwQnJhN3pJNkFyVXRTM1h5ajRxSTRFb3NEbjBiSnBBUFlsa0J3dVZ0OXVSa0oxVklMdTU1Uk8xXzRGTFpzVnpGMjFHdk5tWm41ems"
+    }
+   ],
+   "category": "其他",
+   "session": "盘中"
   },
   {
    "id": "7b3ea8b23c31",
@@ -3818,6 +3869,23 @@
    }
   },
   {
+   "id": "b9f89ff7ca0e",
+   "title": "$英伟达 (NVDA.US)$ 这周的走势有点规律啊，高开低走， 收绿 - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclBFbzNQUlVYdXU0Q093WEFwRkZ1VXpvazRiamxKR2hkN3MyRmtIQjlrWk94UlRtUklPSjVKQjNJUjdLMDdLaURpMExuY1JnVl95MU5LRDNsSFJaQXRPeXVPdTduRUNIemo1cnZJa1QwM25VOUg4S1lTN2k4OFBkNUU1aHdVaFhXYUlpQXpIUEllb1hmbFVVMmpzaWxxLWYwZk9FX3NZWmZhSHdF",
+   "source": "Moomoo",
+   "published_at": "2026-11-03T03:08:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "Moomoo",
+     "published_at": "2026-11-03T03:08:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclBFbzNQUlVYdXU0Q093WEFwRkZ1VXpvazRiamxKR2hkN3MyRmtIQjlrWk94UlRtUklPSjVKQjNJUjdLMDdLaURpMExuY1JnVl95MU5LRDNsSFJaQXRPeXVPdTduRUNIemo1cnZJa1QwM25VOUg4S1lTN2k4OFBkNUU1aHdVaFhXYUlpQXpIUEllb1hmbFVVMmpzaWxxLWYwZk9FX3NZWmZhSHdF"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
+  },
+  {
    "id": "617bec86b236",
    "title": "美国Dynalene液冷液通过英伟达DSX资格审核 - 维度网",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Wbk1kOGR2LWpXV0tqYzMzZjZKcUtHMDJmQmxPRzh6UF9nbHhXRFlNWGZlVjItN21PU09ZUXBBRGszUXM2ZDFfR3g5UF83WHMyOWJxLVlDSGE",
@@ -6446,86 +6514,6 @@
    "zh_summary": "DLSS 5加持马力欧卡丁车世界画质提升",
    "title_zh": "英伟达DLSS 5加持马力欧卡丁车世界画质堪比动画电影",
    "sentiment": 1
-  },
-  {
-   "id": "3072f1b00e06",
-   "title": "Nebul deploys Nvidia GPUs at Datacenter United campus in Belgium - Data Center Dynamics",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUhJZ1ZkZWlvempNMF8yZ0VzcW9GYm94eVJGekhmdW0wNzdULUtUWG1ONHQ4Zmw3cmpkQVQ5MnctMmpaMzZ0WkhtYlhqUkl1ZUJHZXJYUlVRQWF0RWxtOWdrb2VBZjhDNHVuZzhFUXZUNXp4ZWtWaXFWdm9rWGthSF9MVjB0WU1UMGNySUh5dmFMd3ZYaktZVnJVaTloYmV5WnMycmZUTVQ2T0xo",
-   "source": "Data Center Dynamics",
-   "published_at": "2026-11-02T10:52:36+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Data Center Dynamics",
-     "published_at": "2026-11-02T10:52:36+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUhJZ1ZkZWlvempNMF8yZ0VzcW9GYm94eVJGekhmdW0wNzdULUtUWG1ONHQ4Zmw3cmpkQVQ5MnctMmpaMzZ0WkhtYlhqUkl1ZUJHZXJYUlVRQWF0RWxtOWdrb2VBZjhDNHVuZzhFUXZUNXp4ZWtWaXFWdm9rWGthSF9MVjB0WU1UMGNySUh5dmFMd3ZYaktZVnJVaTloYmV5WnMycmZUTVQ2T0xo"
-    }
-   ],
-   "category": "AI需求",
-   "session": "盘前",
-   "zh_summary": "Nebul在比利时部署英伟达GPU",
-   "title_zh": "Nebul在比利时数据中心部署英伟达GPU",
-   "sentiment": 1
-  },
-  {
-   "id": "bdb42ce1fc96",
-   "title": "Nvidia Quietly Cuts Vera Rubin HBM4 And NVLink Bandwidth Specs - Dataconomy",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkl3QkxNa21Ua2xPb3JDbGNETGNlaWxoMDl3RTVPYnpnMkwtRFZuR0dxazlkUDFYd3ZhVjM2YmVlbjljdy1DS0xYSVdrT0dkNTVjdm9rUXZrUVptQW9qZkRfdFVpT25LeE1vQ1E5bl9iTGh3VVViTTZGcXp6bDNMX3NRNjFnM0NxemIwMk0yelZDVThRRmc",
-   "source": "Dataconomy",
-   "published_at": "2026-11-02T10:42:23+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Dataconomy",
-     "published_at": "2026-11-02T10:42:23+00:00",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkl3QkxNa21Ua2xPb3JDbGNETGNlaWxoMDl3RTVPYnpnMkwtRFZuR0dxazlkUDFYd3ZhVjM2YmVlbjljdy1DS0xYSVdrT0dkNTVjdm9rUXZrUVptQW9qZkRfdFVpT25LeE1vQ1E5bl9iTGh3VVViTTZGcXp6bDNMX3NRNjFnM0NxemIwMk0yelZDVThRRmc"
-    }
-   ],
-   "category": "产品技术",
-   "session": "盘前",
-   "zh_summary": "英伟达下调Vera Rubin带宽规格",
-   "title_zh": "英伟达悄悄下调Vera Rubin内存与互联带宽规格",
-   "sentiment": -1
-  },
-  {
-   "id": "633f8679966a",
-   "title": "NVIDIA DLSS 5 In Mario Kart World Shows A Glimpse Of The Future, As Nintendo Switch 2 Emulated Game Looks Almost Like An Animated Movie - Wccftech",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMnNHMndNVEZ4WVlpMUF3SnVsNzRzZGROYktVa0luZ3FyUkplWDBKMDdKWi1hZzMwT0lneERNWS1pZEdGc1ppYXN2QUxJbkVJWG1xYXh6c1BoaFVMT1JDZlRxbmlSaUE1LUpuU3ZVNWREX2YzUjJMYjh1N2FsaFctMDVDTmh3ZWNiX1ZYV2ExWdIBlAFBVV95cUxPcTRIZ1I0WEJkYl9rNGtoVElDdDgzbWhGQnJ2YU12Wm90VGxXZWR6ZmszUllBSXBtbUtJM1ZDZnkzRUtGeU5zZ1l2SENDRE9XMjk5QnVWZFpwY2lLNEZXM3RlbHI5Y3BTNVp3Z0xFMGwzelRMczU1OS04Ymt2RlV2NHFtODlSVDU3Q09OU0gtdjM3U0F5",
-   "source": "Wccftech",
-   "published_at": "2026-11-02T10:40:03+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "Wccftech",
-     "published_at": "2026-11-02T10:40:03+00:00",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMnNHMndNVEZ4WVlpMUF3SnVsNzRzZGROYktVa0luZ3FyUkplWDBKMDdKWi1hZzMwT0lneERNWS1pZEdGc1ppYXN2QUxJbkVJWG1xYXh6c1BoaFVMT1JDZlRxbmlSaUE1LUpuU3ZVNWREX2YzUjJMYjh1N2FsaFctMDVDTmh3ZWNiX1ZYV2ExWdIBlAFBVV95cUxPcTRIZ1I0WEJkYl9rNGtoVElDdDgzbWhGQnJ2YU12Wm90VGxXZWR6ZmszUllBSXBtbUtJM1ZDZnkzRUtGeU5zZ1l2SENDRE9XMjk5QnVWZFpwY2lLNEZXM3RlbHI5Y3BTNVp3Z0xFMGwzelRMczU1OS04Ymt2RlV2NHFtODlSVDU3Q09OU0gtdjM3U0F5"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "DLSS 5演示马里奥赛车世界画面",
-   "title_zh": "英伟达DLSS 5演示马里奥赛车世界，画面如动画电影",
-   "sentiment": 1
-  },
-  {
-   "id": "bbd66cfa36b9",
-   "title": "NVIDIA Corporation $NVDA Stock Position Lessened by Central Bank & Trust Co. - MarketBeat",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTJMS1RRSEZYbGJjaVZtVUZqN19ZYlhQZVlKUE5WUi1vTmJhSjR5cTYzUEJ4MVBRaWN4RGVMWDlmaTFNalpzejdrbjZfS0NGRWZxSHREVTEyc0l4Q09VRERDRU1JV3VoRHJYOGFTb0ZDQV9kTEppLUdMZWVKT3g4MFY5SnVHVEF1N0M3SjlSQlFSX1VjWHVFVXVkQ1RMSm1IR09EV2N1SklkVlJzZmlyeEdyX3I2QjNwN2d4dGtIMVd3RU5vTnRoaDJQX2RhQQ",
-   "source": "MarketBeat",
-   "published_at": "2026-11-02T10:29:43+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "MarketBeat",
-     "published_at": "2026-11-02T10:29:43+00:00",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTJMS1RRSEZYbGJjaVZtVUZqN19ZYlhQZVlKUE5WUi1vTmJhSjR5cTYzUEJ4MVBRaWN4RGVMWDlmaTFNalpzejdrbjZfS0NGRWZxSHREVTEyc0l4Q09VRERDRU1JV3VoRHJYOGFTb0ZDQV9kTEppLUdMZWVKT3g4MFY5SnVHVEF1N0M3SjlSQlFSX1VjWHVFVXVkQ1RMSm1IR09EV2N1SklkVlJzZmlyeEdyX3I2QjNwN2d4dGtIMVd3RU5vTnRoaDJQX2RhQQ"
-    }
-   ],
-   "category": "其他",
-   "session": "盘前",
-   "zh_summary": "Central Bank减持英伟达仓位",
-   "title_zh": "Central Bank & Trust减持NVDA仓位",
-   "sentiment": -1
   }
  ]
 }
