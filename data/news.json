@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-03T06:21:34.107244+00:00",
+ "updated_at": "2026-11-03T06:36:29.191483+00:00",
  "market": {
   "price": 202.06,
   "change_pct": -1.26,
@@ -10,12 +10,12 @@
    "days_left": 14
   },
   "day_sentiment": {
-   "avg": 0.05,
-   "count": 184
+   "avg": 1.0,
+   "count": 1
   },
   "daily_signal": {
    "verdict": "中性",
-   "score": 0,
+   "score": 1,
    "dims": [
     {
      "key": "估值位置",
@@ -29,8 +29,8 @@
     },
     {
      "key": "新闻情绪",
-     "score": 0,
-     "note": "今日新闻情绪 +0.05（184条已评分）"
+     "score": 1,
+     "note": "今日新闻情绪 +1.00（1条已评分）"
     },
     {
      "key": "动量",
@@ -48,7 +48,7 @@
    "target_count": 17,
    "implied_upside_pct": 55.9,
    "ma20": 219.62,
-   "as_of": "2026-11-03T06:21:34.097630+00:00"
+   "as_of": "2026-11-03T06:36:29.181527+00:00"
   },
   "pe_ttm": 25.7,
   "pe_pct_5y": 18,
@@ -61,6 +61,40 @@
   }
  },
  "stories": [
+  {
+   "id": "d2f19a9b2364",
+   "title": "Patel’s Data Puts Nvidia H100 Rent Up 65% in a Year at $2.80 - FourWeekMBA",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT25KVWVRWE56cldzVUMxUDN0akxydllBRm5BZXA1aHdLMVJtZVNybUZEcUtqSDlmc2Y5OVI5Sk1Jb19Va1d1MkNiOUh3VTVBT0k3YUtWcmZpQTR5c29lUUxQUUVpY1VhdjdHRHhvOFREZXFjSHpOTE5uZ2ZYV2NUeXZkZjhiVEZwa0kyLVJB",
+   "source": "FourWeekMBA",
+   "published_at": "2026-11-03T06:32:25+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FourWeekMBA",
+     "published_at": "2026-11-03T06:32:25+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT25KVWVRWE56cldzVUMxUDN0akxydllBRm5BZXA1aHdLMVJtZVNybUZEcUtqSDlmc2Y5OVI5Sk1Jb19Va1d1MkNiOUh3VTVBT0k3YUtWcmZpQTR5c29lUUxQUUVpY1VhdjdHRHhvOFREZXFjSHpOTE5uZ2ZYV2NUeXZkZjhiVEZwa0kyLVJB"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
+  {
+   "id": "409067d1db22",
+   "title": "Nvidia Has Backstopped 6.5 GW of Cluster Deals, Patel Says - FourWeekMBA",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTZUS18wdWx4enRCZ1VZaUJBWjVpbTFiOTBwMmVPQ2I5bW5JcXJkdWxHTHJoVFpPalBrSXg0OUwtRWp6UTRUQ3B5ZEpyeVpBQTF3am5ZRkJhRVI2R2N5cFVVaGRaLURfMDY3S0pqYXUtVjF0VmhwVjR5UmdYeWdXSUc4cHozeXR1YlVXNmx3",
+   "source": "FourWeekMBA",
+   "published_at": "2026-11-03T06:32:24+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "FourWeekMBA",
+     "published_at": "2026-11-03T06:32:24+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTZUS18wdWx4enRCZ1VZaUJBWjVpbTFiOTBwMmVPQ2I5bW5JcXJkdWxHTHJoVFpPalBrSXg0OUwtRWp6UTRUQ3B5ZEpyeVpBQTF3am5ZRkJhRVI2R2N5cFVVaGRaLURfMDY3S0pqYXUtVjF0VmhwVjR5UmdYeWdXSUc4cHozeXR1YlVXNmx3"
+    }
+   ],
+   "category": "其他",
+   "session": "盘前"
+  },
   {
    "id": "92b967f35cd2",
    "title": "ESDS’s $1.25B Nvidia B300 Deal Is 43x Its Half-Year Revenue - FourWeekMBA",
@@ -236,6 +270,23 @@
    "zh_summary": "PATEO车载AI采用英伟达Nemotron",
    "title_zh": "PATEO车载AI盒子采用英伟达Nemotron与豆包",
    "sentiment": 1
+  },
+  {
+   "id": "01c77a974917",
+   "title": "RTX 5080 Disappears from NVIDIA’s US Marketplace: End of Production Remains Unconfirmed - igor´sLAB",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWkU0b3RZRW1oa2dLOXFUc2l0bkpiUDd6Q1NueTJaTXlnREN5VU80UExGN180UkFTaHJuMkdOR0FBTmluRk95QXpEcE9UNU8zSDMwWkVXTG9XS2RxMVZvMEVQb0wta3IzaTVzMENlbDNDSWdGT1BtSVV4SUVvREpyWHdPLXZJWGdUbVVLMDE2TlROWnBNbW1RNUhqdlY",
+   "source": "igor´sLAB",
+   "published_at": "2026-11-03T05:00:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "igor´sLAB",
+     "published_at": "2026-11-03T05:00:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWkU0b3RZRW1oa2dLOXFUc2l0bkpiUDd6Q1NueTJaTXlnREN5VU80UExGN180UkFTaHJuMkdOR0FBTmluRk95QXpEcE9UNU8zSDMwWkVXTG9XS2RxMVZvMEVQb0wta3IzaTVzMENlbDNDSWdGT1BtSVV4SUVvREpyWHdPLXZJWGdUbVVLMDE2TlROWnBNbW1RNUhqdlY"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "42fea28ad039",
@@ -476,6 +527,23 @@
    "zh_summary": "AMD与英伟达驱动支持对比图表",
    "title_zh": "AMD与英伟达支持对比：驱动、6X与FSR 4.1",
    "sentiment": 0
+  },
+  {
+   "id": "4fbdd6cda13b",
+   "title": "英伟达说的Scale-in，又是啥？ - 搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVF9JZzNybVFIYUN6U2xockNjUWFjejBJcWxNWU16TWNUcEpoLTdZM0d4cEx6b01aRjV4TXlhaUlhQlpnb3lMc0Y1bkRYb1NCT3ktVi1RSHVySUhIRGtYUDJFcFE4eXl0N3g0OHVwMDM0SDMzYVphcG9zWVJnUjRhTlBjdUM0cVNZZDh4aw",
+   "source": "搜狐网",
+   "published_at": "2026-11-03T02:32:00+00:00",
+   "outlets_count": 1,
+   "outlets": [
+    {
+     "name": "搜狐网",
+     "published_at": "2026-11-03T02:32:00+00:00",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVF9JZzNybVFIYUN6U2xockNjUWFjejBJcWxNWU16TWNUcEpoLTdZM0d4cEx6b01aRjV4TXlhaUlhQlpnb3lMc0Y1bkRYb1NCT3ktVi1RSHVySUhIRGtYUDJFcFE4eXl0N3g0OHVwMDM0SDMzYVphcG9zWVJnUjRhTlBjdUM0cVNZZDh4aw"
+    }
+   ],
+   "category": "其他",
+   "session": "盘后"
   },
   {
    "id": "35e8232a3f4b",
@@ -6360,91 +6428,6 @@
    "zh_summary": "英伟达下一代CPO光引擎移至硅中介层",
    "title_zh": "英伟达展示下一代CPO方案，光引擎移至硅中介层 - 新浪网",
    "sentiment": 1
-  },
-  {
-   "id": "504878a67537",
-   "title": "英伟达变身AI热潮“央行” 巨额投资或助长泡沫? - 亚洲电视新闻",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNnRLcjdlR0RRQXg5LXl1TlJhLW9LV19kSWhWZEZ3M3pQaXdiMnJqV3E4d2QtOUNwV09WVE10azdHd1R1YWRkTDdUV1NlYkNpbUR5RC1KUno5azhiYzJOTzZtYk5KQ0t5SXgtX2JhaFA0cEVvSnhGRHB2Qk9ZRG5wUHJMbVJKSlgwMUFESXQydHVsX3NGRWgzekV6dHdEbDRocktHU0U0S2tfbklRbEF2UjVVeTJrOTFwRWRJUjRpT2c0NG5DcEdmVWZ3MHpDdUpYeWxCU2VRUmJEZ3lUWjdkdTZBWmY4RmkyQnZKcWdLRWwtRXRHQ1VfWnFKTjJyTjNURExqYXhsNlhmel91UkRzWGlRVFVUZnlTZnZ2d01oMC1jU2tD",
-   "source": "亚洲电视新闻",
-   "published_at": "2026-11-01T01:30:00+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "亚洲电视新闻",
-     "published_at": "2026-11-01T01:30:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNnRLcjdlR0RRQXg5LXl1TlJhLW9LV19kSWhWZEZ3M3pQaXdiMnJqV3E4d2QtOUNwV09WVE10azdHd1R1YWRkTDdUV1NlYkNpbUR5RC1KUno5azhiYzJOTzZtYk5KQ0t5SXgtX2JhaFA0cEVvSnhGRHB2Qk9ZRG5wUHJMbVJKSlgwMUFESXQydHVsX3NGRWgzekV6dHdEbDRocktHU0U0S2tfbklRbEF2UjVVeTJrOTFwRWRJUjRpT2c0NG5DcEdmVWZ3MHpDdUpYeWxCU2VRUmJEZ3lUWjdkdTZBWmY4RmkyQnZKcWdLRWwtRXRHQ1VfWnFKTjJyTjNURExqYXhsNlhmel91UkRzWGlRVFVUZnlTZnZ2d01oMC1jU2tD"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达巨额投资或助长AI泡沫",
-   "title_zh": "英伟达变身AI热潮“央行” 巨额投资或助长泡沫? - 亚洲电视新闻",
-   "sentiment": -1
-  },
-  {
-   "id": "20455a4c2f2b",
-   "title": "Qualcomm's Monopoly on Windows SoCs Ends: NVIDIA \"RTX Spark\"-Powered Surface Marks AI PC Turning Point - finance.biggo.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ySGl5cE53QTlXQVhKOFZiSkxXVkxSSVFnTnpPNTZ0Tm5LWGl3bGNOOU5Yc3ZxdmlFYzY0RW84Q2ZnRVJDY05OUDRYVGI0UDlKLVlMWWRWejZMTWRsUlAxWFZQM3dsSmxoVUQwa2VHekxjTW4ya2c",
-   "source": "finance.biggo.com",
-   "published_at": "2026-11-01T01:25:00+00:00",
-   "outlets_count": 2,
-   "outlets": [
-    {
-     "name": "finance.biggo.com",
-     "published_at": "2026-11-01T01:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ySGl5cE53QTlXQVhKOFZiSkxXVkxSSVFnTnpPNTZ0Tm5LWGl3bGNOOU5Yc3ZxdmlFYzY0RW84Q2ZnRVJDY05OUDRYVGI0UDlKLVlMWWRWejZMTWRsUlAxWFZQM3dsSmxoVUQwa2VHekxjTW4ya2c"
-    },
-    {
-     "name": "BigGo Finance",
-     "published_at": "2026-11-01T01:25:00+00:00",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ySGl5cE53QTlXQVhKOFZiSkxXVkxSSVFnTnpPNTZ0Tm5LWGl3bGNOOU5Yc3ZxdmlFYzY0RW84Q2ZnRVJDY05OUDRYVGI0UDlKLVlMWWRWejZMTWRsUlAxWFZQM3dsSmxoVUQwa2VHekxjTW4ya2c"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达RTX芯片助Surface迎AI PC转折",
-   "title_zh": "高通Windows芯片垄断终结，英伟达RTX Spark助力Surface",
-   "sentiment": 1
-  },
-  {
-   "id": "0a3d57c409a2",
-   "title": "【视频】山城试驾风神L8+：英伟达索尔U芯片、700TOPS算力，天元智驾 - 汽车之家",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ya3VRdDZoY1kyTm1QU2dnUjd2VGx3N0U4WmF4TDMteklGVEhKTE12QjE0TTR4OWJkYjcwT0pxRTNTTzJyQlJJd0psZGg1VG1qdlhzcVFPSWZXRms",
-   "source": "汽车之家",
-   "published_at": "2026-11-01T01:07:30+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "汽车之家",
-     "published_at": "2026-11-01T01:07:30+00:00",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ya3VRdDZoY1kyTm1QU2dnUjd2VGx3N0U4WmF4TDMteklGVEhKTE12QjE0TTR4OWJkYjcwT0pxRTNTTzJyQlJJd0psZGg1VG1qdlhzcVFPSWZXRms"
-    }
-   ],
-   "category": "产品技术",
-   "session": "周末",
-   "zh_summary": "风神L8+搭载英伟达索尔U芯片",
-   "title_zh": "风神L8+试驾：搭载英伟达索尔U芯片",
-   "sentiment": 1
-  },
-  {
-   "id": "7968ab7a401a",
-   "title": "The Sudden Death of an Nvidia AI Prodigy Leaves Behind Bitter Accusations - WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVG5uendtNnNFc0xkbm42NUZkMVdIMVVxU1k2NEhNWXVUOUE0UEdwNFpIdV9INXdRR0QteVJzanlGUmVybWV6Nk92bnBUTlUtV2NtaDdTc0ZtcmY4ZkJGU0dBaktkbHVfXzR2MGlPWE5RMWRCZ1RUZVhneDFMNTdqTWlienlTSGowNlZVaW9vb3lBd09XU3F2VkJxcDYwNXRTZ053MmpUR19vMld2V01z",
-   "source": "WSJ",
-   "published_at": "2026-11-01T01:00:40+00:00",
-   "outlets_count": 1,
-   "outlets": [
-    {
-     "name": "WSJ",
-     "published_at": "2026-11-01T01:00:40+00:00",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVG5uendtNnNFc0xkbm42NUZkMVdIMVVxU1k2NEhNWXVUOUE0UEdwNFpIdV9INXdRR0QteVJzanlGUmVybWV6Nk92bnBUTlUtV2NtaDdTc0ZtcmY4ZkJGU0dBaktkbHVfXzR2MGlPWE5RMWRCZ1RUZVhneDFMNTdqTWlienlTSGowNlZVaW9vb3lBd09XU3F2VkJxcDYwNXRTZ053MmpUR19vMld2V01z"
-    }
-   ],
-   "category": "其他",
-   "session": "周末",
-   "zh_summary": "英伟达AI天才突然离世引争议",
-   "title_zh": "英伟达AI天才突然离世，留下激烈指责",
-   "sentiment": 0
   }
  ]
 }
